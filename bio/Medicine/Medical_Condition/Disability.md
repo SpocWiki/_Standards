@@ -58,7 +58,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Disability::d5f7d"]
 >
 > Due to the marginalization of disabled people, there have been several activist causes that push for equitable treatment and access in society. Disability activists have fought to receive equal and equitable rights under the law—though there are still political issues that enable or advance the oppression of disabled people. Although disability activism serves to dismantle ableist systems, social norms relating to the perception of disabilities are often reinforced by tropes used by the media. Since negative perceptions of disability are pervasive in modern society, disabled people have turned to self-advocacy in an attempt to push back against their marginalization. The recognition of disability as an identity that is experienced differently based on the other multi-faceted identities of the individual is one often pointed out by disabled self-advocates. The ostracization of disability from mainstream society has created the opportunity for a disability culture to emerge. While disabled activists still promote the integration of disabled people into mainstream society, several disabled-only spaces have been created to foster a disability community—such as with art, social media, and sports.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Disability)
+> [Wikipedia](https://en.wikipedia.org/wiki/Disability) 
 
 
 ## Confidential Links & Embeds: 

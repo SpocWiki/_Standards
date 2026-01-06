@@ -658,7 +658,7 @@ Major Cities with Population in 1000s as of @2020
 > It is a member of the Commonwealth of Nations, the Council of Europe, 
 > the G7, the OECD, NATO, the Five Eyes, AUKUS and the CPTPP.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20Kingdom)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Kingdom) 
 
 
 ## Maps and Flags 
@@ -713,7 +713,7 @@ Capital :: [[UK/London,City]]
 >
 > The United Kingdom is a constitutional monarchy and parliamentary democracy. The UK has three distinct jurisdictions: England and Wales, Scotland, and Northern Ireland. Since 1999, Scotland, Wales and Northern Ireland have their own governments and parliaments which control various devolved matters. A developed country with an advanced economy, the UK ranks among the largest economies by nominal GDP, and is one of the world's largest exporters and importers. It is a nuclear state with one of the world's highest military budgets. Its soft power influence can be observed in the legal and political systems of many of its former colonies, and British culture remains globally influential, particularly in language, literature, music and sport. English is the world's most widely spoken language and the third-most spoken native language. The country is part of multiple international organizations and forums.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20Kingdom)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Kingdom) 
 
 
 ## Confidential Links & Embeds: 

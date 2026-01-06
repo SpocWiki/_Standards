@@ -25,7 +25,8 @@ Mammals and their extinct relatives
 >
 > Synapsids were the largest terrestrial vertebrates in the Permian period (299 to 251 mya), rivalled only by some large pareiasaurian parareptiles such as Scutosaurus. They were the dominant land predators of the late Paleozoic and early Mesozoic, with eupelycosaurs such as Dimetrodon, Titanophoneus and Inostrancevia being the apex predators during the Permian, and theriodonts such as Moschorhinus during the Early Triassic. Synapsid population and diversity were severely reduced by the Capitanian mass extinction event and the Permian–Triassic extinction event, and only two groups of therapsids, the dicynodonts and eutheriodonts (consisting of therocephalians and cynodonts) are known to have survived into the Triassic. These therapsids rebounded as disaster taxa during the early Mesozoic, with the dicynodont Lystrosaurus making up as much as 95% of all land species at one time, but declined again after the Smithian–Spathian boundary event with their dominant niches largely taken over by the rise of archosaurian sauropsids, first by the pseudosuchians and then by the pterosaurs and dinosaurs. The cynodont group Probainognathia, which includes the group Mammaliaformes, were the only synapsids to survive beyond the Triassic, and mammals are the only synapsid lineage that have survived past the Jurassic, having lived mostly nocturnally to avoid competition with dinosaurs. After the Cretaceous-Paleogene extinction wiped out all non-avian dinosaurs and pterosaurs, synapsids (as mammals) rose to dominance once again during the Cenozoic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Synapsida)
+> [Wikipedia](https://en.wikipedia.org/wiki/Synapsida) 
+
 
 Synapsida is a group of amniotes (tetrapods with eggs adapted for terrestrial environments) 
 that includes mammals and their extinct relatives. 

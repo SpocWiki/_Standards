@@ -121,7 +121,7 @@ A map.
 >
 > Maps of geographic territory have a very long tradition and have existed from ancient times. The word "map" comes from the medieval Latin: Mappa mundi, wherein mappa meant 'napkin' or 'cloth' and mundi 'of the world'. Thus, "map" became a shortened term referring to a flat representation of Earth's surface.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Map)
+> [Wikipedia](https://en.wikipedia.org/wiki/Map) 
 
 
 ## Confidential Links & Embeds: 

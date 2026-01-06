@@ -177,7 +177,7 @@ writing_language: '[[_Standards/WikiData/WD~Danish,9035]]'
 > 
 > Andersen's stories have inspired ballets, plays, and animated and live-action films.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Christian%20Andersen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hans%20Christian%20Andersen) 
 
 
 ## Confidential Links & Embeds: 

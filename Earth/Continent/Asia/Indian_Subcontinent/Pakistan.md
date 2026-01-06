@@ -600,7 +600,7 @@ Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]
 >
 > Pakistan is considered a middle power nation, with the world's sixth-largest standing armed forces. It is a declared nuclear-weapons state, and is ranked amongst the emerging and growth-leading economies, with a large and rapidly growing middle class. Pakistan's political history since independence has been characterized by periods of significant economic and military growth as well as those of political and economic instability. It is an ethnically and linguistically diverse country, with similarly diverse geography and wildlife. The country continues to face challenges, including poverty, illiteracy, corruption, and terrorism. Pakistan is a member of the United Nations, the Shanghai Cooperation Organisation, the Organisation of Islamic Cooperation, the Commonwealth of Nations, the South Asian Association for Regional Cooperation, and the Islamic Military Counter-Terrorism Coalition, and is designated as a major non-NATO ally by the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pakistan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pakistan) 
 
 
 ## Confidential Links & Embeds: 

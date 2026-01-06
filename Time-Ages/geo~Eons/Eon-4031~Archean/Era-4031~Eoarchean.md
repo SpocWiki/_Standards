@@ -57,7 +57,8 @@ A time period from 4031 to 3600 million years ago.
 > At that time, the atmosphere was without oxygen 
 > and the pressure values ranged from 10 to 100 bar (around 10 to 100 times the atmospheric pressure today).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Eoarchean)
+> [Wikipedia](https://en.wikipedia.org/wiki/Eoarchean) 
+
 
 #has_/abbreviation :: EA
 

@@ -440,7 +440,7 @@ Capital :: [[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]
 >
 > Malta is a developed country with an advanced high-income economy. It is heavily reliant on tourism, attracting both travellers and a growing expatriate community with its warm climate, numerous recreational areas, and architectural and historical monuments, including three UNESCO World Heritage Sites: Ħal Saflieni Hypogeum, Valletta, and seven megalithic temples which are some of the oldest free-standing structures in the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Malta)
+> [Wikipedia](https://en.wikipedia.org/wiki/Malta) 
 
 
 ## Confidential Links & Embeds: 

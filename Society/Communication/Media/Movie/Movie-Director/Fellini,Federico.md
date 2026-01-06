@@ -120,7 +120,7 @@ work_period_start_: 1945
 >
 > Fellini was nominated for 17 Academy Awards over the course of his career, winning a total of four in the category of Best Foreign Language Film (the most for any director in the history of the award). He received an honorary award for Lifetime Achievement at the 65th Academy Awards in Los Angeles. Fellini also won the Palme d'Or for La Dolce Vita in 1960, two times the Moscow International Film Festival in 1963 and 1987, and the Career Golden Lion at the 42nd Venice International Film Festival in 1985. In Sight & Sound's 2002 list of the greatest directors of all time, Fellini was ranked 2nd in the directors' poll and 7th in the critics' poll.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Federico%20Fellini)
+> [Wikipedia](https://en.wikipedia.org/wiki/Federico%20Fellini) 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,6 @@ A time period from 247.2 to 251.2 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > In the geologic timescale, the **Olenekian** is an age in the Early Triassic epoch; 
 > in chronostratigraphy, it is a stage in the Lower Triassic series. 
 > 

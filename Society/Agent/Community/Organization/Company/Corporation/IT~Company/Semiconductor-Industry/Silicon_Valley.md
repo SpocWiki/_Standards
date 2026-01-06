@@ -47,7 +47,7 @@
 > Many headquarters of tech companies in Silicon Valley 
 > have become hotspots for tourism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Silicon%20Valley)
+> [Wikipedia](https://en.wikipedia.org/wiki/Silicon%20Valley) 
 
 
 ## Confidential Links & Embeds: 

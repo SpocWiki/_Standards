@@ -1,7 +1,6 @@
 
 ## #has_/text_of_/abstract 
 
-
 > **Serotonin** () or 5-hydroxytryptamine (5-HT) is a monoamine neurotransmitter. 
 > Its biological function is complex, touching on diverse functions including mood, cognition, reward, learning, memory, 
 > and numerous physiological processes such as vomiting and vasoconstriction.
@@ -60,7 +59,7 @@
 > Serotonin is produced by pathogenic amoebae, causing diarrhea in the human gut. 
 > Its widespread presence in many seeds and fruits may serve to stimulate the digestive tract into expelling the seeds.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Serotonin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Serotonin) 
 
 
 ## Confidential Links & Embeds: 

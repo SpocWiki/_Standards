@@ -680,7 +680,7 @@ Capital :: [[./Sweden/Counties/Stockholm]]
 >
 > Sweden is a highly developed country ranked fifth in the Human Development Index. It is a constitutional monarchy and a parliamentary democracy, with legislative power vested in the 349-member unicameral Riksdag. It is a unitary state, divided into 21 counties and 290 municipalities. Sweden maintains a Nordic social welfare system that provides universal health care and tertiary education for its citizens. It has the world's 14th highest GDP per capita and ranks very highly in quality of life, health, education, protection of civil liberties, economic competitiveness, income equality, gender equality and prosperity. Sweden joined the European Union on 1 January 1995 and NATO on 7 March 2024. It is also a member of the United Nations, the Schengen Area, the Council of Europe, the Nordic Council, the World Trade Organization and the Organisation for Economic Co-operation and Development (OECD).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sweden)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sweden) 
 
 
 ## Confidential Links & Embeds: 

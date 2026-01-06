@@ -104,7 +104,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Cold_War,27627838]]'
 > and achieved independence in the period from 1945 to 1960, 
 > many became Third World battlefields in the Cold War.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cold%20War)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cold%20War) 
 
 
 ## Confidential Links & Embeds: 

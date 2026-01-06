@@ -477,7 +477,7 @@ Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]
 >
 > Lebanon is a developing country, ranked 112th on the Human Development Index. It has been classified as an upper-middle-income state. The Lebanese liquidity crisis, coupled with nationwide corruption and disasters such as the 2020 Beirut explosion, precipitated the collapse of Lebanon's currency and fomented political instability, widespread resource shortages, and high unemployment and poverty. The World Bank has defined Lebanon's economic crisis as one of the world's worst since the 19th century. Despite the country's small size, Lebanese culture is renowned both in the Arab world and globally, powered primarily by the large and influential Lebanese diaspora. Lebanon is a founding member of the United Nations and the Arab League, and a member of the Non-Aligned Movement, the Organization of Islamic Cooperation, the Organisation internationale de la Francophonie, and the Group of 77.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lebanon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lebanon) 
 
 
 ## Confidential Links & Embeds: 

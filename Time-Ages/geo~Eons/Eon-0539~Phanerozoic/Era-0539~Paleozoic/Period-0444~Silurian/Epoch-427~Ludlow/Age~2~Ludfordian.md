@@ -45,7 +45,7 @@ A time period from 425.6 to 423.0 million years ago.
 
 > In the geologic timescale, the **Ludfordian** is the upper of two chronostratigraphic stages within the Ludlow Series. Its age is the late Silurian Period, and within both the Palaeozoic Era and Phanerozoic Eon. The rocks assigned to the Ludfordian date to between 425.0 ± 1.5 Ma and 422.7 ± 1.6 Ma (million years ago). The Ludfordian Stage succeeds the Gorstian Stage and precedes the Pridoli Epoch. It is named for the village of Ludford in Shropshire, England. The GSSP for the Ludfordian is represented as a thin shale seam, coincident with the base of the Leintwardine Formation, overlying the Bringewood Formation in England.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ludfordian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Ludfordian) 
 
 
 ischart::Ludfordian 

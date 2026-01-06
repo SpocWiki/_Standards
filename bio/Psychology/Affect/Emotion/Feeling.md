@@ -46,8 +46,6 @@ Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/CHUVSTV
 > [Wikipedia](https://en.wikipedia.org/wiki/Feeling) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Feeling|Feeling]] 

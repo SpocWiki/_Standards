@@ -302,7 +302,8 @@ markerFolder: ./Europe/City/
 > Regular popular elections take place every five years within the EU; 
 > they are considered to be the second-largest democratic elections in the world after India's. The EU is the third-largest economy in the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Europe)
+> [Wikipedia](https://en.wikipedia.org/wiki/Europe) 
+
 
 ## #has_/image_for_/flag 
 

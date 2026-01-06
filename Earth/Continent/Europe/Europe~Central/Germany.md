@@ -797,7 +797,7 @@ with numbers as of 2023-06
 > 
 > It has the third-greatest number of UNESCO World Heritage Sites.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Germany)
+> [Wikipedia](https://en.wikipedia.org/wiki/Germany) 
 
 
 ## Maps and Flags 
@@ -912,7 +912,7 @@ Capital :: [[../../../../WikiData/WD~Berlin,64]]
 >
 > In 1989, the Berlin Wall was opened, the Eastern Bloc collapsed, and East and West Germany were reunited in 1990. The Franco-German friendship became the basis for the political integration of Western Europe in the European Union. In 1998–1999, Germany was one of the founding countries of the eurozone. Germany remains one of the economic powerhouses of Europe, contributing about 1/4 of the eurozone's annual gross domestic product. In the early 2010s, Germany played a critical role in trying to resolve the escalating euro crisis, especially concerning Greece and other Southern European nations. In 2015, Germany faced the European migrant crisis as the main receiver of asylum seekers from Syria and other troubled regions. Germany opposed Russia's 2022 invasion of Ukraine and decided to strengthen its armed forces.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Germany)
+> [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Germany) 
 
 
 ## Confidential Links & Embeds: 

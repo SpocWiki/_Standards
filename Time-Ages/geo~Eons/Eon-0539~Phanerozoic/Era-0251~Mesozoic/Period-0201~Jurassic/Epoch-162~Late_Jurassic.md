@@ -3,6 +3,18 @@ aliases:
   - Epoch~3~Late_Jurassic
   - Epoch~3~Late Jurassic
 ischart: UpperJurassic
+has_id_wikidata: Q499312
+named_after: "[[_Standards/WikiData/WD~Jura_Mountains,178611]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Late_Jurassic,9050408]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -163500000-01-01T00:00:00Z
+end_time: -145000000-01-01T00:00:00Z
+Dewey_Decimal_Classification: "551.766"
+sRGB_color_hex_triplet: 97E3FA
 ---
 
 # [[Epoch-162~Late_Jurassic]] 
@@ -13,6 +25,7 @@ ischart: UpperJurassic
 
 #has_/previous_/item :: [[Epoch-175~Middle_Jurassic]] 
 #has_/next_/item :: [[../Period-0145~Cretaceous/Epoch-145~Early_Cretaceous|Epoch~1~Early_Cretaceous]] 
+#is_/same_as :: [[WD~Late_Jurassic,499312]] 
 
 A time period from 161.5 to 145 million years ago. 
 
@@ -20,10 +33,10 @@ A time period from 161.5 to 145 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The Late Jurassic is the third epoch of the Jurassic Period, and it spans the geologic time from 161.5 ± 1.0 to 145.0 ± 0.8 million years ago (Ma), which is preserved in Upper Jurassic strata.In European lithostratigraphy, the name "Malm" indicates rocks of Late Jurassic age. In the past, Malm was also used to indicate the unit of geological time, but this usage is now discouraged to make a clear distinction between lithostratigraphic and geochronologic/chronostratigraphic units.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Jurassic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Jurassic) 
+
 
 #has_/label_/bg  :: Къѿна Юра
 #has_/label_/cs  :: Pozdní jura

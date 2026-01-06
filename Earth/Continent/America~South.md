@@ -177,7 +177,7 @@ zoomFeatures: true
 >
 > The continent's cultural and ethnic outlook has its origin with the interaction of Indigenous peoples with European conquerors and immigrants and, more locally, with African slaves. Given a long history of colonialism, the overwhelming majority of South Americans speak Spanish or Portuguese, and societies and states are rich in Western traditions. Relative to Africa, Asia, and Europe, post-1900 South America has been a peaceful continent with few wars, although high rates of violent crime remain a concern in some countries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/South%20America)
+> [Wikipedia](https://en.wikipedia.org/wiki/South%20America) 
 
 
 ## Confidential Links & Embeds: 

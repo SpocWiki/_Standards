@@ -159,7 +159,7 @@ Capital :: [[Antananarivo]]
 >
 > Madagascar is a member of the United Nations (UN), the African Union (AU), the Southern African Development Community (SADC), and the Organisation Internationale de la Francophonie. Malagasy and French are both official languages of the state. Christianity is the country's predominant religion, with a significant minority still practising traditional faiths. Madagascar is classified as a least developed country by the UN. Ecotourism and agriculture, paired with greater investments in education, health and private enterprise, are key elements of its development strategy. Despite substantial economic growth since the early 2000s, income disparities have widened, and quality of life remains low for the majority of the population. As of 2021, 68.4% of the population was considered to be multidimensionally poor.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Madagascar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Madagascar) 
 
 
 ## Confidential Links & Embeds: 

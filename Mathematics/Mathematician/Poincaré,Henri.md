@@ -194,7 +194,8 @@ Regensburg_Classification: SF 6780
 > which became, over time, one of the famous unsolved problems in mathematics. 
 > It was solved in 2002–2003 by [[Modern_Mathematician/Perelman,Grigori]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Poincar%C3%A9)
+> [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Poincar%C3%A9) 
+
 
 #has_/created_/quote :: Mathematics is the art of giving the same name to different things. 
 

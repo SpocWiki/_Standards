@@ -59,7 +59,8 @@ P8189: 987007290943505200
 >
 > Although diverse life forms prospered in the oceans, the land is thought to have been comparatively barren – with nothing more complex than a microbial soil crust and a few molluscs and arthropods (albeit not terrestrial) that emerged to browse on the microbial biofilm.By the end of the Cambrian, myriapods, arachnids, and hexapods started adapting to the land, along with the first plants. Most of the continents were probably dry and rocky due to a lack of vegetation. Shallow seas flanked the margins of several continents created during the breakup of the supercontinent Pannotia. The seas were relatively warm, and polar ice was absent for much of the period.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian) 
+
 
 #has_/label_/bg  :: Камбрий
 #has_/label_/cs  :: Kambrium

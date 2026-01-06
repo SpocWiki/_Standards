@@ -80,7 +80,7 @@ street_address: Menara Berkembar Petronas, Pusat Bandaraya Kuala Lumpur, 50088, 
 > along with the nearby Kuala Lumpur Tower and Merdeka 118, 
 > and are visible in many places across the city.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Petronas%20Towers)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Petronas%20Towers) 
 
 
 ## Confidential Links & Embeds: 

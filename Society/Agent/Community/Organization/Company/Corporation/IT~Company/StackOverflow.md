@@ -18,7 +18,7 @@
 > 
 > Based on the type of tags assigned to questions, the top eight most discussed topics on the site are: JavaScript, Java, C#, PHP, Android, Python, jQuery, and HTML.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stack%20Overflow)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stack%20Overflow) 
 
 
 ## All Contents

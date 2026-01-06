@@ -1,5 +1,4 @@
-﻿---
-has_time_stopped: 1941-06-22 
+---
 aliases:
   - Molotov–Ribbentrop Pact
   - Treaty of Non-Aggression

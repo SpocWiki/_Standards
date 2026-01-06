@@ -21,7 +21,7 @@
 >
 > Some virtual machine emulators, such as QEMU and video game console emulators, are designed to also emulate (or "virtually imitate") different system architectures, thus allowing execution of software applications and operating systems written for another CPU or architecture. OS-level virtualization allows the resources of a computer to be partitioned via the kernel. The terms are not universally interchangeable.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Virtual%20machine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Virtual%20machine) 
 
 
 ## Confidential Links & Embeds: 

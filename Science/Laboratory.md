@@ -49,8 +49,6 @@ Commons_gallery: Laboratory
 > [Wikipedia](https://en.wikipedia.org/wiki/Laboratory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Laboratory|Laboratory]] 

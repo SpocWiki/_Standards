@@ -71,7 +71,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Rain%202.gif
 >
 > The urban heat island effect leads to increased rainfall, both in amounts and intensity, downwind of cities. Global warming is also causing changes in the precipitation pattern, including wetter conditions across eastern North America and drier conditions in the tropics. Antarctica is the driest continent. The globally averaged annual precipitation over land is 715 mm (28.1 in), but over the whole Earth, it is much higher at 990 mm (39 in). Climate classification systems such as the Köppen classification system use average annual rainfall to help differentiate between differing climate regimes. Rainfall is measured using rain gauges. Rainfall amounts can be estimated by weather radar.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rain)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rain) 
 
 
 ## Confidential Links & Embeds: 

@@ -22,7 +22,7 @@
 > In addition, further conferences on specific areas from the spectrum of disciplines represented in the GAMM take place.
 > In 1958 the GAMM and the ACM together worked out the "ALGOL 58 Report" at a meeting in Zurich.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gesellschaft%20f%C3%BCr%20Angewandte%20Mathematik%20und%20Mechanik)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gesellschaft%20f%C3%BCr%20Angewandte%20Mathematik%20und%20Mechanik) 
 
 
 ## Confidential Links & Embeds: 

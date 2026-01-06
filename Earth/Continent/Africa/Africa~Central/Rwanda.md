@@ -426,7 +426,7 @@ Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 >
 > Rwanda's economy is based mostly on subsistence agriculture. Coffee and tea are the major cash crops that it exports. Tourism is a fast-growing sector and is now the country's leading foreign exchange earner. As of the most recent survey in 2019/20, 48.8% of the population is affected by multidimensional poverty and an additional 22.7% vulnerable to it. The country is a member of the African Union, the United Nations, the Commonwealth of Nations (one of few member states that does not have any historical links with the British Empire), COMESA, OIF and the East African Community.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rwanda)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rwanda) 
 
 
 ## Confidential Links & Embeds: 

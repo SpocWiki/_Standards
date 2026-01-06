@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 2004-11-22 
-has_time_stopped: 2005-01-23 
+---
 aliases:
   - Orange Revolution
   - Помаранчева революція

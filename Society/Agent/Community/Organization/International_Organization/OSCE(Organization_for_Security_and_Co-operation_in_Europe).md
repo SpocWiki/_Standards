@@ -136,7 +136,8 @@ Facebook_username: theOECD
 > The OSCE is concerned with early warning, conflict prevention, crisis management, 
 > and post-conflict rehabilitation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Organization%20for%20Security%20and%20Co-operation%20in%20Europe)
+> [Wikipedia](https://en.wikipedia.org/wiki/Organization%20for%20Security%20and%20Co-operation%20in%20Europe) 
+
 
 ## Chronology 
 

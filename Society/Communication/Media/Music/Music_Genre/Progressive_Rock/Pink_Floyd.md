@@ -150,7 +150,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PINK_FLOD.html
 > In 2008, they were awarded the Polar Music Prize for "their monumental contribution 
 > over the decades to the fusion of art and music in the development of popular culture".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pink%20Floyd)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pink%20Floyd) 
 
 
 ## Confidential Links & Embeds: 

@@ -55,7 +55,8 @@ A time period from 2050 to 1800 million years ago.
 >
 > For the time period from about 2060 to 1780 Mya, an alternative period based on stratigraphy rather than chronometry, named the Columbian, was suggested in the geological timescale review 2012 edited by Gradstein et al., but as of February 2022, this has not yet been officially adopted by the IUGS.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Orosirian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Orosirian) 
+
 
 #has_/label_/bg  :: Ороѿир
 #has_/label_/cs  :: Orosir

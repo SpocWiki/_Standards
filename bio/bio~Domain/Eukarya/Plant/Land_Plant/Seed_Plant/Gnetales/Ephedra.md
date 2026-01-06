@@ -42,6 +42,7 @@ Image copyright © 1995 David R. Maddison
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ephedra%20(plant)) 
 
+
 ## Phylogeny 
 
 -   « Ancestral Groups  

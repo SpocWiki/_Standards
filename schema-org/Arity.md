@@ -165,7 +165,7 @@ allowing to apply well-known Operators on the Projection.
 > Some programming languages also offer support for variadic functions, 
 > i.e., functions syntactically accepting a variable number of arguments.
 > 
-> [Wikipedia](https://en.wikipedia.org/wiki/Arity)
+> [Wikipedia](https://en.wikipedia.org/wiki/Arity) 
 
 
 ## Confidential Links & Embeds: 

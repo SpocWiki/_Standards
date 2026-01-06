@@ -11,7 +11,7 @@ aliases:
 > He directed The [[../Movie-Genre/Horror-Movie/Cell,film@2000]], The [[../Movie-Genre/Fantasy-Movie/Fall,film@2006]] (also screenwriter and producer), 
 > [[Immortals,film]] (2011),  [[Mirror Mirror]] (2012), [[../Movie-Genre/Horror-Movie/Self⁄less]] (2015), and [[Dear Jassi]] (2023).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tarsem%20Singh)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tarsem%20Singh) 
 
 
 Tarsem began his career by directing music videos, including those of 

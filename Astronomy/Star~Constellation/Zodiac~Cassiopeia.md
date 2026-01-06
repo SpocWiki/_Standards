@@ -65,7 +65,7 @@ official_name: Cassiopeia
 >
 > At magnitude 2.2, Alpha Cassiopeiae, or Schedar, is the brightest star in Cassiopeia. The constellation hosts some of the most luminous stars known, including the yellow hypergiants Rho Cassiopeiae and V509 Cassiopeiae and white hypergiant 6 Cassiopeiae. In 1572, Tycho Brahe's supernova flared brightly in Cassiopeia. Cassiopeia A is a supernova remnant and the brightest extrasolar radio source in the sky at frequencies above 1 GHz. Fourteen star systems have been found to have exoplanets, one of which – HD 219134 – is thought to host six planets. A rich section of the Milky Way runs through Cassiopeia, containing a number of open clusters, young luminous galactic disc stars, and nebulae. IC 10 is an irregular galaxy that is the closest known starburst galaxy and the only one in the Local Group of galaxies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cassiopeia%20(constellation))
+> [Wikipedia](https://en.wikipedia.org/wiki/Cassiopeia%20(constellation)) 
 
 
 ## Confidential Links & Embeds: 

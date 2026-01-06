@@ -39,7 +39,7 @@
 > Motorola 88000, the MIPS architecture, PA-RISC, Power ISA, RISC-V, SuperH, and SPARC. 
 > RISC processors are used in supercomputers, such as the Fugaku.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Reduced%20instruction%20set%20computer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Reduced%20instruction%20set%20computer) 
 
 
 ## Confidential Links & Embeds: 

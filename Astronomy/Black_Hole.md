@@ -84,7 +84,7 @@ but rotating Holes can convert most of the mass.
 >
 > The presence of a black hole can be inferred through its interaction with other matter and with electromagnetic radiation such as visible light. Any matter that falls toward a black hole can form an external accretion disk heated by friction, forming quasars, some of the brightest objects in the universe. Stars passing too close to a supermassive black hole can be shredded into streamers that shine very brightly before being "swallowed." If other stars are orbiting a black hole, their orbits can be used to determine the black hole's mass and location. Such observations can be used to exclude possible alternatives such as neutron stars. In this way, astronomers have identified numerous stellar black hole candidates in binary systems and established that the radio source known as Sagittarius A*, at the core of the Milky Way galaxy, contains a supermassive black hole of about 4.3 million solar masses.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Black%20hole)
+> [Wikipedia](https://en.wikipedia.org/wiki/Black%20hole) 
 
 
 ## Confidential Links & Embeds: 

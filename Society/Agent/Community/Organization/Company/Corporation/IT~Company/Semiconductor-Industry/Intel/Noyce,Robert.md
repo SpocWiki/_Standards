@@ -46,7 +46,7 @@ dv_is_same_as:
 > the first monolithic integrated circuit or microchip, 
 > which fueled the personal computer revolution and gave Silicon Valley its name.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Noyce)
+> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Noyce) 
 
 
 ## Confidential Links & Embeds: 

@@ -154,7 +154,7 @@ Capital :: [[San_Marino]]
 >
 > The country's economy is mainly based on finance, industry, services, retail, and tourism. It is one of the wealthiest countries in the world in terms of GDP (PPP) per capita, with a figure comparable to the most developed European regions. The country ranks 44th in the Human Development Index. San Marino is the first existing State that abolished the death penalty.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/San%20Marino)
+> [Wikipedia](https://en.wikipedia.org/wiki/San%20Marino) 
 
 
 ## Confidential Links & Embeds: 

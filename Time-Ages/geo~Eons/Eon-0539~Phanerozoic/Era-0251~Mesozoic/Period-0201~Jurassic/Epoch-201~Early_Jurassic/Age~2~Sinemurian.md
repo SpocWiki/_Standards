@@ -11,7 +11,6 @@ A time period from 199.5 to 192.9 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > In the geologic timescale, the **Sinemurian** is an age and stage 
 > in the Early or Lower Jurassic Epoch or Series. 
 > 
@@ -23,7 +22,8 @@ A time period from 199.5 to 192.9 million years ago.
 > In Europe the Sinemurian age, together with the Hettangian age, 
 > saw the deposition of the lower Lias, in Great Britain known as the Blue Lias.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sinemurian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sinemurian) 
+
 
 #has_/label_/bg  :: Синемур
 #has_/label_/cs  :: Sinemur

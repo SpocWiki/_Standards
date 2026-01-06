@@ -447,7 +447,7 @@ Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]
 >
 > Kyrgyzstan is a member of the Commonwealth of Independent States, the Eurasian Economic Union, the Collective Security Treaty Organization, the Shanghai Cooperation Organisation, the Organisation of Islamic Cooperation, the Organization for Security and Cooperation in Europe, the Organisation of Turkic States, the Türksoy community and the United Nations. It is a developing country ranked 117th in the Human Development Index, and is the second poorest country in Central Asia after neighbouring Tajikistan. The country's transitional economy is heavily dependent on deposits of gold, coal and uranium.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kyrgyzstan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kyrgyzstan) 
 
 
 ## Confidential Links & Embeds: 

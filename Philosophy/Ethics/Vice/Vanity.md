@@ -35,11 +35,9 @@ Dewey_Decimal_Classification: "155.232"
 > [Wikipedia](https://en.wikipedia.org/wiki/Vanity) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Vanity|Vanity]] 
+### #is_/same_as :: [[Vanity|Vanity]] 
 
 ### #is_/same_as :: [[/_public/Philosophy/Ethics/Vanity.public|Vanity.public]] 
 

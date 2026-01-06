@@ -39,9 +39,7 @@ Commons_category: Institutions
 > 
 > Primary or meta-institutions are institutions such as the family or money that are broad enough to encompass sets of related institutions. Institutions are also a central concern for law, the formal mechanism for political rule-making and enforcement. Historians study and document the founding, growth, decay and development of institutions as part of political, economic and cultural history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Institution)  
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Institution) 
 
 
 Health 

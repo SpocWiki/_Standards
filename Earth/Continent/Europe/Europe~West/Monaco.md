@@ -400,7 +400,7 @@ Capital :: [[Monaco]]
 >
 > Monaco is not part of the European Union (EU), but participates in certain EU policies, including customs and border controls. Through its relationship with France, Monaco uses the euro as its sole currency. Monaco joined the Council of Europe in 2004 and is a member of the Organisation internationale de la Francophonie (OIF). It hosts the annual motor race, the Monaco Grand Prix, one of the original Grands Prix of Formula One. The local motorsports association gives its name to the Monte Carlo Rally, hosted in January in the French Alps. The principality has a club football team, AS Monaco, which competes in French Ligue 1 and has been French champions on multiple occasions, as well as a basketball team, which plays in the EuroLeague. A centre of research into marine conservation, Monaco is home to one of the world's first protected marine habitats, an Oceanographic Museum, and the International Atomic Energy Agency Marine Environment Laboratories, the only marine laboratory in the UN structure.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Monaco)
+> [Wikipedia](https://en.wikipedia.org/wiki/Monaco) 
 
 
 ## Confidential Links & Embeds: 

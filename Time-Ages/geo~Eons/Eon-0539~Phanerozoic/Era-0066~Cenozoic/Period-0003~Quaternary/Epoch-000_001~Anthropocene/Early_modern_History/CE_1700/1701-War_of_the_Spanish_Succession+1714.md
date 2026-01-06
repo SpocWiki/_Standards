@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1701-03-01 
-has_time_stopped: 1714-09-07 
+---
 aliases:
 has_id_wikidata: Q150701
 end_time: 1714-09-07T00:00:00Z

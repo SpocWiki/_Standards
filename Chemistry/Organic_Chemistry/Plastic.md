@@ -68,10 +68,7 @@ UMLS_CUI: C0032167
 >
 > The world's first fully synthetic plastic was Bakelite, invented in New York in 1907, by Leo Baekeland, who coined the term "plastics". Dozens of different types of plastics are produced today, such as polyethylene, which is widely used in product packaging, and polyvinyl chloride (PVC), used in construction and pipes because of its strength and durability. Many chemists have contributed to the materials science of plastics, including Nobel laureate Hermann Staudinger, who has been called "the father of polymer chemistry", and Herman Mark, known as "the father of polymer physics".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Plastic)
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Plastic) 
 
 
 ## #has_/text_of_/abstract 

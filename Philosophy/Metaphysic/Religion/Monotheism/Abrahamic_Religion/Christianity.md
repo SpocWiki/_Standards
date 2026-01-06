@@ -109,7 +109,7 @@ Mastodon_instance_URL:
 >
 > The six major branches of Christianity are Roman Catholicism (1.3 billion people), Protestantism (1.17 billion), Eastern Orthodoxy (230 million), Oriental Orthodoxy (60 million), Restorationism (35 million), and the Church of the East (600,000). Smaller church communities number in the thousands despite efforts toward unity (ecumenism). In the West, Christianity remains the dominant religion even with a decline in adherence, with about 70% of that population identifying as Christian. Christianity is growing in Africa and Asia, the world's most populous continents. Christians remain greatly persecuted in many regions of the world, particularly in the Middle East, North Africa, East Asia, and South Asia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Christianity)
+> [Wikipedia](https://en.wikipedia.org/wiki/Christianity) 
 
 
 ## Confidential Links & Embeds: 

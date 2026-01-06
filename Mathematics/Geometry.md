@@ -71,7 +71,7 @@ hashtag_: geometry
 >
 > Since the late 19th century, the scope of geometry has been greatly expanded, and the field has been split in many subfields that depend on the underlying methods—differential geometry, algebraic geometry, computational geometry, algebraic topology, discrete geometry (also known as combinatorial geometry), etc.—or on the properties of Euclidean spaces that are disregarded—projective geometry that consider only alignment of points but not distance and parallelism, affine geometry that omits the concept of angle and distance, finite geometry that omits continuity, and others. This enlargement of the scope of geometry led to a change of meaning of the word "space", which originally referred to the three-dimensional space of the physical world and its model provided by Euclidean geometry; presently a geometric space, or simply a space is a mathematical structure on which some geometry is defined.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Geometry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Geometry) 
 
 
 ## Confidential Links & Embeds: 

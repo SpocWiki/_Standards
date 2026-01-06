@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1845-01-01 
-has_time_stopped: 1852-01-01 
+---
 aliases:
   - Great Irish Famine
   - Great Hunger

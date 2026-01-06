@@ -93,7 +93,7 @@ EPPO_Code: RHNDTY
 >
 > The species was distinguished in April 1828 after the harpooning of a 4.6 m (15 ft) specimen in Table Bay, South Africa. Andrew Smith, a military doctor associated with British troops stationed in Cape Town, described it the following year. The name "whale shark" refers to the animal's appearance and large size; it is a fish, not a mammal, and, like all sharks, is not closely related to whales.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Whale%20shark)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Whale%20shark) 
 
 
 ## Confidential Links & Embeds: 

@@ -48,7 +48,8 @@ A time period from 497 to 485.4 million years ago.
 
 > The **Furongian**  is the fourth and final epoch and series of the Cambrian. It lasted from 497 to 485.4 million years ago. It succeeds the Miaolingian series of the Cambrian and precedes the Lower Ordovician Tremadocian Stage. It is subdivided into three stages: the Paibian, Jiangshanian and the unnamed 10th stage of the Cambrian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Furongian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Furongian) 
+
 
 #has_/label_/bg  :: Фуронг
 #has_/label_/cs  :: Furong

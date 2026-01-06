@@ -90,7 +90,7 @@ software_version_identifier: MR12.7
 > [[OS~Unix]] was developed at Bell to allow their Multics team to continue their research 
 > using smaller machines, first a [[PDP-7]] and ultimately the [[PDP-11]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Multics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Multics) 
 
 
 ## Confidential Links & Embeds: 

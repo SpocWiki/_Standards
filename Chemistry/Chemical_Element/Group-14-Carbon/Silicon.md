@@ -132,7 +132,7 @@ Group :: [[../Group-14-Carbon]]
 >
 > The late 20th century to early 21st century has been described as the Silicon Age (also known as the Digital Age or Information Age) because of the large impact that elemental silicon has on the modern world economy. The small portion of very highly purified elemental silicon used in semiconductor electronics (<10%) is essential to the transistors and integrated circuit chips used in most modern technology such as smartphones and other computers. In 2019, 32.4% of the semiconductor market segment was for networks and communications devices, and the semiconductors industry is projected to reach $726.73 billion by 2027. Silicon is an essential element in biology. Only traces are required by most animals, but some sea sponges and microorganisms, such as diatoms and radiolaria, secrete skeletal structures made of silica. Silica is deposited in many plant tissues.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Silicon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Silicon) 
 
 
 ## Confidential Links & Embeds: 

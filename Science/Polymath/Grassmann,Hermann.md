@@ -99,7 +99,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20Gra%C3%9Fman
 > the space which parameterizes all k-dimensional linear subspaces 
 > of an n-dimensional vector space V.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20Grassmann)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20Grassmann) 
+
 
 He is an example for a misunderstood Genius, blocked from University Carreer. 
 Similar to [[../../Mathematics/Mathematician/Frege,Gottlob|Frege,Gottlob]]. 

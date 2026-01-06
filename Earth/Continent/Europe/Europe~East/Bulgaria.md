@@ -584,7 +584,7 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 > Bulgaria's foreign relations have been shaped by its geographical location 
 > and its modern membership in the [[../EU(European_Union)|European Union]] and [[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bulgaria)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bulgaria) 
 
 
 ## Confidential Links & Embeds: 

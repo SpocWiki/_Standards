@@ -14,7 +14,7 @@ aliases:
 > His book [[Refactoring,1999]] popularized the practice of code refactoring. 
 > In 2004 he introduced a new architectural pattern, called Presentation Model (PM).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Fowler%20(software%20engineer))
+> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Fowler%20(software%20engineer)) 
 
 
 ## Confidential Links & Embeds: 

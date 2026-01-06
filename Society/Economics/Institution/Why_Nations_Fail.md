@@ -21,7 +21,7 @@
 > The authors also maintain a website (with a blog inactive since 2014) 
 > about the ongoing discussion of the book.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Why%20Nations%20Fail)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Why%20Nations%20Fail) 
 
 
 ## Confidential Links & Embeds: 

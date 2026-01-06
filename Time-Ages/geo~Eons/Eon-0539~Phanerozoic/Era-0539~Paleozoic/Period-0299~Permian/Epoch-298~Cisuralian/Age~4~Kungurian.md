@@ -48,7 +48,8 @@ A time period from 283.5 to 273.01 million years ago.
 
 > In the geologic timescale, the **Kungurian** is an age or stage of the Permian. It is the latest or upper of four subdivisions of the Cisuralian Epoch or Series. The Kungurian lasted between 283.5 and 273.01 million years ago (Ma). It was preceded by the Artinskian and followed by the Roadian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kungurian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Kungurian) 
+
 
 #has_/label_/bg  :: Кунгур
 #has_/label_/cs  :: Kungur

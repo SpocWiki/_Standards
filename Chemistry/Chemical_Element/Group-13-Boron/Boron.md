@@ -93,7 +93,6 @@ ZVG_number: 8030
 
 ## #has_/text_of_/abstract 
 
-
 > **Boron** is a chemical element with the symbol (Abbr::B) and atomic number (Charge-e::5). 
 > In its crystalline form it is a brittle, dark, lustrous metalloid; 
 > in its amorphous form it is a brown powder. 
@@ -110,7 +109,7 @@ ZVG_number: 8030
 >
 > The intersection of boron with biology is very small.  Consensus on it as essential for mammalian life is lacking. Borates have low toxicity in mammals (similar to table salt) but are more toxic to arthropods and are occasionally used as insecticides. Boron-containing organic antibiotics are known. Although only traces are required, it is an essential plant nutrient.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Boron)
+> [Wikipedia](https://en.wikipedia.org/wiki/Boron) 
 
 
 ## Confidential Links & Embeds: 

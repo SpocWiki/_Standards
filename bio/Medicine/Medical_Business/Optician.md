@@ -70,7 +70,7 @@ A store that sells reading glasses and similar devices for improving vision.
 > They are able to translate and adapt ophthalmic prescriptions, dispense products, 
 > and work with accessories.  There are several specialties within the field.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Optician)
+> [Wikipedia](https://en.wikipedia.org/wiki/Optician) 
 
 
 ## Confidential Links & Embeds: 

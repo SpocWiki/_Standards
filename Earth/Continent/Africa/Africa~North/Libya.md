@@ -490,7 +490,7 @@ Capital :: [[Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli]]
 >
 > Libya is a developing country ranking 92nd by HDI, the highest score in mainland Africa, and has the 10th-largest proven oil reserves in the world. Libya is a member of the United Nations, the Non-Aligned Movement, the African Union, the Arab League, the Organisation of Islamic Cooperation, and OPEC.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Libya)
+> [Wikipedia](https://en.wikipedia.org/wiki/Libya) 
 
 
 ## Confidential Links & Embeds: 

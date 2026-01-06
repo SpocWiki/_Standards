@@ -151,7 +151,7 @@ Swedish_Royal_Theater_Archive: Person/1043
 >
 > From 1900 his poetry grew more physical, realistic and politicised. He moved away from the transcendental beliefs of his youth, though he remained preoccupied with some elements including cyclical theories of life. He had become the chief playwright for the Irish Literary Theatre in 1897, and early on promoted younger poets such as Ezra Pound. His major works include The Land of Heart's Desire (1894), Cathleen ni Houlihan (1902), Deirdre (1907), The Wild Swans at Coole (1919), The Tower (1928) and Last Poems and Plays (1940).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/W.%20B.%20Yeats)
+> [Wikipedia](https://en.wikipedia.org/wiki/W.%20B.%20Yeats) 
 
 
 ## Confidential Links & Embeds: 

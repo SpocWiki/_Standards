@@ -192,7 +192,7 @@ NLC_authorities: 051064532
 >
 > Beginning in 2019, Rowling began making public remarks about transgender people, in opposition to the notion that gender identity differs from birth sex. She has been condemned as transphobic by LGBT rights groups, some Harry Potter fans, and various other critics, including academics, which has affected her public image and relationship with readers and colleagues, altering the way they engage with her works.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/J.%20K.%20Rowling)
+> [Wikipedia](https://en.wikipedia.org/wiki/J.%20K.%20Rowling) 
 
 
 ## Confidential Links & Embeds: 

@@ -194,7 +194,7 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 >
 > Caesar was an accomplished author and historian as well as a statesman; much of his life is known from his own accounts of his military campaigns. Other contemporary sources include the letters and speeches of Cicero and the historical writings of Sallust. Later biographies of Caesar by Suetonius and Plutarch are also important sources. Caesar is considered by many historians to be one of the greatest military commanders in history. His cognomen was subsequently adopted as a synonym for "Emperor"; the title "Caesar" was used throughout the Roman Empire, giving rise to modern descendants such as Kaiser and Tsar. He has frequently appeared in literary and artistic works.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Julius%20Caesar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Julius%20Caesar) 
 
 
 ## Confidential Links & Embeds: 

@@ -19,7 +19,8 @@ aliases:
 > However, its Victorian narrative takes in Gray's previous 
 > concerns with social inequalities, relationships, memory and identity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Poor%20Things)
+> [Wikipedia](https://en.wikipedia.org/wiki/Poor%20Things) 
+
 
 It is a modification of [[../../books/Authors/Shelley,Mary]]s [[../../../Writing/Book/Writer/English_Writer/Shelley,Mary/Frankenstein|Frankenstein]] 
 With many Allusions to the novel and its Metadata: 

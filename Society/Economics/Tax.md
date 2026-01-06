@@ -61,7 +61,7 @@ UMLS_CUI: C0039371
 >
 > Certain countries (usually small in size or population, which results in a smaller infrastructure and social expenditure) function as tax havens by imposing minimal taxes on the personal income of individuals and corporate income. These tax havens attract capital from abroad (particularly from larger economies) while resulting in loss of tax revenues within other non-haven countries (through base erosion and profit shifting).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tax)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tax) 
 
 
 ## Confidential Links & Embeds: 

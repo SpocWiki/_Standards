@@ -145,7 +145,7 @@ IMDb_keyword: great-depression
 > that followed the initial economic shock of 1929 and the subsequent bank failures 
 > accompanied by a general collapse of the financial markets.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Depression)
+> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Depression) 
 
 
 [[../../../../../../../../../_protect/Society/Sociology/Politics/German_Politics/Hurricane_Katrina]] 

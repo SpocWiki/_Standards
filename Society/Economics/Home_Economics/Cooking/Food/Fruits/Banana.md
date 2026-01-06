@@ -92,7 +92,7 @@ hashtag_: banana
 >
 > Banana plantations are subject to damage by parasitic nematodes and insect pests, and to fungal and bacterial diseases, one of the most serious being Panama disease which is caused by a Fusarium fungus. This and black sigatoka threaten the production of Cavendish bananas, the main kind eaten in the Western world, which is a triploid Musa acuminata. Plant breeders are seeking new varieties, but these are difficult to breed given that commercial varieties are seedless. To enable future breeding, banana germplasm is conserved in multiple gene banks around the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Banana)
+> [Wikipedia](https://en.wikipedia.org/wiki/Banana) 
 
 
 ## Confidential Links & Embeds: 

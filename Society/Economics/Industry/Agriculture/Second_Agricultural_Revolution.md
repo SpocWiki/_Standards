@@ -96,7 +96,7 @@ an unprecedented increase in agricultural productivity in Great Britain
 > and provided fodder to support increased livestock numbers 
 > whose manure added further to soil fertility.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/British%20Agricultural%20Revolution)
+> [Wikipedia](https://en.wikipedia.org/wiki/British%20Agricultural%20Revolution) 
 
 
 Crop Yield net of Seed  (bushels/acre) 

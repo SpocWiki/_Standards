@@ -50,7 +50,8 @@ A time period from 145.0 to 66.0 million years ago.
 >
 > The Cretaceous (along with the Mesozoic) ended with the Cretaceous–Paleogene extinction event, a large mass extinction in which many groups, including non-avian dinosaurs, pterosaurs, and large marine reptiles, died out, widely thought to have been caused by the impact of a large asteroid that formed the [[Chicxulub-crater]] in the Gulf of Mexico. The end of the Cretaceous is defined by the abrupt Cretaceous–Paleogene boundary (K–Pg boundary), a geologic signature associated with the mass extinction that  lies between the Mesozoic and following [[../Era-0066~Cenozoic]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cretaceous)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cretaceous) 
+
 
 #has_/label_/bg  :: Креда
 #has_/label_/cs  :: Křída

@@ -50,7 +50,7 @@ Commons_category: Spectrometers
 > 
 > These types of spectrometers are used in chemical analysis and particle physics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spectrometer)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Spectrometer) 
 
 
 ## Confidential Links & Embeds: 

@@ -72,7 +72,7 @@ uses:
 >
 > Shooters aim firearms at their targets with hand-eye coordination, using either iron sights or optical sights. The accurate range of pistols generally does not exceed 100 metres (110 yd; 330 ft), while most rifles are accurate to 500 metres (550 yd; 1,600 ft) using iron sights, or to longer ranges whilst using optical sights. Purpose-built sniper rifles and anti-materiel rifles are accurate to ranges of more than 2,000 metres (2,200 yd). (Firearm rounds may be dangerous or lethal well beyond their accurate range; the minimum distance for safety is much greater than the specified range for accuracy.)
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Firearm)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Firearm) 
 
 
 ## Confidential Links & Embeds: 

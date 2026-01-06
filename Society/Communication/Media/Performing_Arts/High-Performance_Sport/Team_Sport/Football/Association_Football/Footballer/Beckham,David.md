@@ -134,7 +134,7 @@ Facebook_username: Beckham
 >
 > A global ambassador of football, Beckham is considered a British cultural icon. He has been in a well publicised marriage to Victoria Beckham since 1999 and was consistently ranked among the highest earners in football, in 2013 being listed as the highest-paid player in the world having earned over US$50 million in the previous twelve months. Beckham was runner-up in the Ballon d'Or in 1999, twice runner-up for FIFA World Player of the Year (1999 and 2001) and in 2004 was named by Pelé in the FIFA 100 list of the world's greatest living players. He was inducted into the English Football Hall of Fame in 2008, and the Premier League Hall of Fame in 2021. He has been a UNICEF ambassador since 2005, and in 2015 he launched 7: The David Beckham UNICEF Fund. In 2014, MLS announced that Beckham and a group of investors would own Inter Miami, which began playing in 2020.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/David%20Beckham)
+> [Wikipedia](https://en.wikipedia.org/wiki/David%20Beckham) 
 
 
 ## Confidential Links & Embeds: 

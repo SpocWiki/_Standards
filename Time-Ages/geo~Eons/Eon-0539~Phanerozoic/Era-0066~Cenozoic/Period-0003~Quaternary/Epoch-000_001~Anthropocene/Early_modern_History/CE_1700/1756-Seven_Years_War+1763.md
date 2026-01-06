@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1756-05-17 
-has_time_stopped: 1763-02-15 
+---
 aliases:
 has_id_wikidata: Q33143
 participant:

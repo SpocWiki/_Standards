@@ -114,6 +114,7 @@ ISNI: 0000000108847933
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Henry%20George) 
 
+
 Singapore has realized some of these ideas by forcing Land-Owners to sell it back to the State
 and only rents it out for max. 99 years. 
 

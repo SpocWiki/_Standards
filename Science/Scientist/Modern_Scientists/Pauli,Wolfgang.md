@@ -144,7 +144,7 @@ student_of: '[[_Standards/WikiData/WD~Max_Born,58978]]'
 > the exclusion principle or Pauli principle". 
 > The discovery involved spin theory, which is the basis of a theory of the structure of matter.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wolfgang%20Pauli)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wolfgang%20Pauli) 
 
 
 ## Confidential Links & Embeds: 

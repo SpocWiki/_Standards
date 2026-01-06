@@ -1,3 +1,19 @@
+---
+aliases:
+  - Tithonian
+has_id_wikidata: Q855125
+named_by: "[[_Standards/WikiData/WD~Albert_Oppel,66578]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_after: "[[_Standards/WikiData/WD~Tithonus,737306]]"
+replaces: "[[_Standards/WikiData/WD~Portland_Group,3399326]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Tithonian,21693869]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -152100000-01-01T00:00:00Z
+end_time: -145000000-01-01T00:00:00Z
+sRGB_color_hex_triplet: CFF0FC
+---
 # [[Age~3~Tithonian]] 
 
 #is_a_/time_/Age 
@@ -8,9 +24,9 @@ A time period from 149.2 to 145 million years ago.
 
 #has_/previous_/item :: [[Age~2~Kimmeridgian]] 
 #has_/next_/item :: [[../../Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~1~Berriasian|Age~1~Berriasian]] 
+#is_/same_as :: [[WD~Tithonian,855125]] 
 
 ## #has_/text_of_/abstract 
-
 
 > In the geological timescale, the **Tithonian** is the latest age of the Late Jurassic Epoch 
 > and the uppermost stage of the Upper Jurassic Series. 
@@ -19,7 +35,8 @@ A time period from 149.2 to 145 million years ago.
 > It is preceded by the [[Age~2~Kimmeridgian]] 
 > and followed by the [[../../Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~1~Berriasian|Age~1~Berriasian]] (part of the Cretaceous).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tithonian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tithonian) 
+
 
 #has_/label_/bg  :: Титон
 #has_/label_/cs  :: Tithon

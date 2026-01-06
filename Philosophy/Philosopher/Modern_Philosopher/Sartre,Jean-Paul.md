@@ -156,7 +156,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > Sartre's introduction to his philosophy is his work Existentialism Is a Humanism
 >  (L'existentialisme est un humanisme, 1946), originally presented as a lecture.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jean-Paul%20Sartre)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jean-Paul%20Sartre) 
 
 
 ## Confidential Links & Embeds: 

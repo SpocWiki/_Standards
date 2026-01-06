@@ -50,7 +50,8 @@ type: private_note
 >
 > Although Abbey Road was an instant commercial success, it received mixed reviews upon release. Some critics found its music inauthentic and criticised perceived artificial elements of the production. Critical reception improved in the following years and the album is now widely regarded as one of the Beatles' best and one of the greatest albums of all time. George Harrison's two songs on the album, "Something" and "Here Comes the Sun", are considered among the best he wrote for the group. The album's cover, featuring the Beatles walking across the zebra crossing outside Abbey Road Studios (then officially named EMI Studios), is one of the most famous and imitated in music history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Abbey%20Road)
+> [Wikipedia](https://en.wikipedia.org/wiki/Abbey%20Road) 
+
 
 ## Beatles~Abbey_Road
 

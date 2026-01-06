@@ -48,7 +48,7 @@ A time period from 419.2 to 410.8 million years ago.
 >
 > In North America the Lochkovian Stage is represented by Gedinnian or Helderbergian time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lochkovian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Lochkovian) 
 
 
 #has_/label_/bg  :: Ложков

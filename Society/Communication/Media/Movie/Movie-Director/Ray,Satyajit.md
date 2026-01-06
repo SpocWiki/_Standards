@@ -157,7 +157,7 @@ writing_language: '[[_Standards/WikiData/WD~Bangla,9610]]'
 >
 > Ray received many major awards in his career, including a record thirty-seven Indian National Film Awards which includes Dadasaheb Phalke Award, a Golden Lion, a Golden Bear, two Silver Bears, many additional awards at international film festivals and ceremonies, and an Academy Honorary Award in 1992. In 1978, he was awarded an honorary degree by Oxford University. The Government of India honoured him with the Bharat Ratna, its highest civilian award, in 1992. On the occasion of the birth centenary of Ray, the International Film Festival of India, in recognition of the auteur's legacy, rechristened in 2021 its annual Lifetime Achievement Award to the "Satyajit Ray Lifetime Achievement Award".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Satyajit%20Ray)
+> [Wikipedia](https://en.wikipedia.org/wiki/Satyajit%20Ray) 
 
 
 ## Confidential Links & Embeds: 

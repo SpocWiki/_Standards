@@ -1,3 +1,20 @@
+---
+aliases:
+  - Callovian
+has_id_wikidata: Q764255
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+named_after: "[[_Standards/WikiData/WD~Kellaways,15059063]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Callovian,21697519]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -163500000-01-01T00:00:00Z
+start_time: -166100000-01-01T00:00:00Z
+Commons_category: Callovian
+sRGB_color_hex_triplet: AEE6F0
+---
 # [[Age~4~Callovian]] 
 
 #is_a_/time_/Age 
@@ -8,9 +25,9 @@ A time period from 165.3 to 161.5 million years ago.
 
 #has_/previous_/item :: [[Age~3~Bathonian]] 
 #has_/next_/item :: [[../Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]] 
+#is_/same_as :: [[WD~Callovian,764255]] 
 
 ## #has_/text_of_/abstract 
-
 
 > In the geologic timescale, the **Callovian** is an age and stage in the Middle Jurassic, 
 > lasting between 165.3 ± 1.1 Ma (million years ago) and 161.5 ± 1.0 Ma. 
@@ -18,7 +35,8 @@ A time period from 165.3 to 161.5 million years ago.
 > It is the last stage of the Middle Jurassic, following the [[Age~3~Bathonian]] 
 > and preceding the [[../Epoch-162~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Callovian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Callovian) 
+
 
 #has_/label_/bg  :: Калов
 #has_/label_/cs  :: Callov

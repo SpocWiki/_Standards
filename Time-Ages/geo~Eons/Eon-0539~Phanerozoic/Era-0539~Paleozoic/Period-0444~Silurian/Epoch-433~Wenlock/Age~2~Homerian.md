@@ -48,7 +48,7 @@ A time period from 430.5 to 427.4 million years ago.
 >
 > The name comes from the small village of Homer, Shropshire near Much Wenlock. The defining lower boundary of Homerian rock layers (GSSP) is located within the Coalbrookdale Formation of England.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Homerian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Homerian) 
 
 
 #has_/label_/bg  :: Хомер

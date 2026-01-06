@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1526-01-01 
-has_time_stopped: 1857-01-01 
+---
 aliases:
   - Mughal Empire
   - Mughal_Empire
@@ -83,7 +81,7 @@ inception: 1526-01-01T00:00:00Z
 >
 > The relative peace maintained by the empire during much of the 17th century was a factor in India's economic expansion. The burgeoning European presence in the Indian Ocean and an increasing demand for Indian raw and finished products generated much wealth for the Mughal court. There was more conspicuous consumption among the Mughal elite, resulting in greater patronage of painting, literary forms, textiles, and architecture, especially during the reign of Shah Jahan. Among the Mughal UNESCO World Heritage Sites in South Asia are: Agra Fort, Fatehpur Sikri, Red Fort, Humayun's Tomb, Lahore Fort, Shalamar Gardens, and the Taj Mahal, which is described as "the jewel of Muslim art in India, and one of the universally admired masterpieces of the world's heritage".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mughal%20Empire)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mughal%20Empire) 
 
 
 ## Confidential Links & Embeds: 

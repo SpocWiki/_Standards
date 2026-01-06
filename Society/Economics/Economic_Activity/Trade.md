@@ -86,7 +86,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Fredmeyer%20edit%201.j
 >
 > Historically, openness to free trade substantially increased in some areas from 1815 until the outbreak of World War I in 1914. Trade openness increased again during the 1920s but collapsed (in particular in Europe and North America) during the Great Depression of the 1930s. Trade openness increased substantially again from the 1950s onward (albeit with a slowdown during the oil crisis of the 1970s). Economists and economic historians contend that current levels of trade openness are the highest they have ever been.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Trade)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Trade) 
 
 
 ## Confidential Links & Embeds: 

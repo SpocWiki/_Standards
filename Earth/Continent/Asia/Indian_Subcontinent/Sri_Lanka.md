@@ -461,7 +461,7 @@ Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]
 >
 > Sri Lanka is a developing country, ranking 78th on the Human Development Index. It is the highest-ranked South Asian nation in terms of development and has the second-highest per capita income in South Asia. The country has had a long history of engagement with modern international groups; it is a founding member of the SAARC, the G77 and the Non-Aligned Movement, as well as a member of the United Nations and the Commonwealth of Nations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sri%20Lanka)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sri%20Lanka) 
 
 
 ## Confidential Links & Embeds: 

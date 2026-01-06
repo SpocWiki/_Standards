@@ -1,6 +1,10 @@
-﻿---
-location: [ 44.1 , 33.1 ] 
+---
+location:
+  - 44.1
+  - 33.1
 aliases:
+  - Akkadian_Empire
+  - Akkadian Empire
 has_id_wikidata: Q4461035
 replaces: "[[_Standards/WikiData/WD~Kish,132272]]"
 capital: "[[_Standards/WikiData/WD~Akkad,150996]]"

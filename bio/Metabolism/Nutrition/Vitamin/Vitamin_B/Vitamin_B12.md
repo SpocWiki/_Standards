@@ -44,11 +44,7 @@ Dewey_Decimal_Classification:
 >
 > Deficiency is especially harmful in pregnancy, childhood, and older adults. It can lead to neuropathy, megaloblastic anemia, and pernicious anemia, causing symptoms such as fatigue, paresthesia, cognitive decline, ataxia, and even irreversible nerve damage. In infants, untreated deficiency may result in neurological impairment and anemia. Maternal deficiency increases the risk of miscarriage, neural tube defects, and developmental delays in offspring. Folate levels may modify the presentation of symptoms and disease course.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vitamin%20B12)  
-
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Vitamin%20B12) 
 
 
 ## Confidential Links & Embeds: 

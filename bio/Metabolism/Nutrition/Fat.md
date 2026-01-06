@@ -57,7 +57,7 @@ UMLS_CUI:
 >
 > Fats are one of the three main macronutrient groups in human diet, along with carbohydrates and proteins, and the main components of common food products like milk, butter, tallow, lard, salt pork, and cooking oils. They are a major and dense source of food energy for many animals and play important structural and metabolic functions in most living beings, including energy storage, waterproofing, and thermal insulation. The human body can produce the fat it requires from other food ingredients, except for a few essential fatty acids that must be included in the diet. Dietary fats are also the carriers of some flavor and aroma ingredients and vitamins that are not water-soluble.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fat)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fat) 
 
 
 ## Confidential Links & Embeds: 

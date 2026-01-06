@@ -93,7 +93,7 @@ Krugosvet_article: istoriya/CHERNAYA_SMERT.html
 >
 > The Black Death was the second great natural disaster to strike Europe during the Late Middle Ages (the first one being the Great Famine of 1315–1317) and is estimated to have killed 30% to 60% of the European population, as well as approximately 33% of the population of the Middle East. There were further outbreaks throughout the Late Middle Ages and, also due to other contributing factors (the crisis of the late Middle Ages), the European population did not regain its 14th century level until the 16th century. Outbreaks of the plague recurred around the world until the early 19th century.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Black%20Death)
+> [Wikipedia](https://en.wikipedia.org/wiki/Black%20Death) 
 
 
 ## Confidential Links & Embeds: 

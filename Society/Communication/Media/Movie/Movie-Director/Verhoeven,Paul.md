@@ -34,7 +34,7 @@
 > Verhoeven's films have received a total of nine [[../Academy_Award]] nominations, 
 > mainly for editing and effects.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Verhoeven)
+> [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Verhoeven) 
 
 
 ## Confidential Links & Embeds: 

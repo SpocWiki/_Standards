@@ -36,8 +36,6 @@ Commons_category: Rush hour
 > [Wikipedia](https://en.wikipedia.org/wiki/Rush%20hour) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour|Rush_Hour]] 

@@ -126,7 +126,9 @@ A time period from 538.8 to 251.902 million years ago.
 >
 > Recovery of life in the sea may have been much faster.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paleozoic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Paleozoic) 
+
+
 ## All Contents
 
 ```folderv

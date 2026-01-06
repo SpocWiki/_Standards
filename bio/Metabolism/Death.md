@@ -117,7 +117,7 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Death,10728979]]"
 >
 > Many cultures and religions have a concept of an afterlife that may hold the idea of judgment of good and bad deeds in one's life. There are also different customs for honoring the body, such as a funeral, cremation, or sky burial. After a death, an obituary may be posted in a newspaper, and the "survived by" kin and friends usually go through the grieving process.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Death)
+> [Wikipedia](https://en.wikipedia.org/wiki/Death) 
 
 
 ## Confidential Links & Embeds: 

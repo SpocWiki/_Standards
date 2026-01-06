@@ -20,7 +20,7 @@
 >
 > The later SL5 (1977) and Icon (1978) languages were designed by Griswold to combine the backtracking of SNOBOL4 pattern matching with more standard ALGOL-like structuring.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/SNOBOL)
+> [Wikipedia](https://en.wikipedia.org/wiki/SNOBOL) 
 
 
 ## Confidential Links & Embeds: 

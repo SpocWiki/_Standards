@@ -60,7 +60,7 @@ subclass_of: '[[_Standards/WikiData/WD~molecular_entity,2393187]]'
 > Refined over time by scientists such as Robert Boyle, Amedeo Avogadro, Jean Perrin, and Linus Pauling, 
 > the study of molecules is today known as molecular physics or molecular chemistry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Molecule)
+> [Wikipedia](https://en.wikipedia.org/wiki/Molecule) 
 
 
 ## Edit

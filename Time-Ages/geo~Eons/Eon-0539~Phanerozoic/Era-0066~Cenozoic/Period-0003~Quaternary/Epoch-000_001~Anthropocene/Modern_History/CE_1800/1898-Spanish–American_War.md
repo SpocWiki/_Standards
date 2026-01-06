@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1898-04-25 
-has_time_stopped: 1898-08-11 
+---
 aliases:
   - Spanish–American War
   - 1898-Spanish–American_War

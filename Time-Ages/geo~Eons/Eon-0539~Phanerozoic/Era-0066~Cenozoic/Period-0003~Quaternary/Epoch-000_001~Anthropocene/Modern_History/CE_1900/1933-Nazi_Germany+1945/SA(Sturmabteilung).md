@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1921-01-01 
-has_time_stopped: 1945-10-10 
+---
 aliases:
 has_id_wikidata: Q150793
 chairperson:

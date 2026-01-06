@@ -213,7 +213,7 @@ Wolfram_Language_entity_code: Entity["Planet", "Mars"]
 > Mars is an attractive target for future human exploration missions, 
 > though in the 2020s no such mission is planned.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mars)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mars) 
 
 
 ## Confidential Links & Embeds: 

@@ -441,7 +441,7 @@ Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]
 >
 > Tajikistan is a presidential republic consisting of four provinces. Tajiks form the ethnic majority in the country, and their national language is Tajik. Russian is used as the official inter-ethnic language. While the state is constitutionally secular, the Islamic religion is nominally adhered to by 97.5% of the population. In the Gorno-Badakhshan oblast, there is a linguistic diversity where Rushani, Shughni, Ishkashimi, Wakhi, and Tajik are some of the languages spoken. Mountains cover more than 90% of the country. It is a developing country with a transitional economy that is dependent on remittances, and on production of aluminium and cotton. Tajikistan is a member of the United Nations, CIS, OSCE, OIC, ECO, SCO, CSTO, and a NATO PfP partner.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tajikistan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tajikistan) 
 
 
 ## Confidential Links & Embeds: 

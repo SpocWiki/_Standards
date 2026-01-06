@@ -44,12 +44,12 @@ A time period from 2800 to 2500 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Neoarchean** ( NEE-oh-ar-KEE-ən; also spelled Neoarchaean) is the last geologic era in the Archean Eon that spans from 2800 to 2500 million years ago—the period being defined chronometrically and not referencing a specific level in a rock section on Earth. 
 > 
 > The era is marked by major developments in complex life and continental formation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neoarchean)
+> [Wikipedia](https://en.wikipedia.org/wiki/Neoarchean) 
+
 
 #has_/abbreviation :: NA
 

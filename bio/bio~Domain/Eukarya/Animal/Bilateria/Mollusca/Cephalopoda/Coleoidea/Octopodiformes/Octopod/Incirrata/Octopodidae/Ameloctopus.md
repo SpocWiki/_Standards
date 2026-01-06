@@ -39,6 +39,7 @@ Banded Drop-arm Octopus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ameloctopus) 
 
+
 ![ ](Ameloctopus/AmeloctI.JPG)
 
 

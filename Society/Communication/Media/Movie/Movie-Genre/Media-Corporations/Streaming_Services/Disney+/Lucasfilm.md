@@ -15,7 +15,7 @@
 > - $4.05 billion in the form of cash and 
 > - $1.855 billion in stock.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lucasfilm)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lucasfilm) 
 
 
 ## Confidential Links & Embeds: 

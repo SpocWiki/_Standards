@@ -27,7 +27,7 @@ Commons_category: Sparkling wine
 >
 > In European Union countries, the word "champagne" is reserved by law only for sparkling wine from the Champagne region of France. The French terms Mousseux and Crémant refer to sparkling wine not made in the Champagne region, such as Blanquette de Limoux produced in Southern France. Sparkling wines are produced around the world, and are often referred to by their local name or region, such as Prosecco, Franciacorta, Trento DOC, Oltrepò Pavese Metodo Classico and Asti from Italy (the generic Italian term for sparkling wine being spumante), Espumante from Portugal, Cava from Spain, and Cap Classique from South Africa. Sparkling wines have been produced in Central and Eastern Europe since the early 19th century. "Champagne" was further popularised in the region, late in the century, when József Törley started production in Hungary using French methods, learned as an apprentice in Reims. Törley has since become one of the largest European producers of sparkling wine. The United States is a significant producer of sparkling wine today, with producers in numerous states. Recently, production of sparkling wine was restarted by United Kingdom winemakers after a long hiatus.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sparkling%20wine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sparkling%20wine) 
 
 
 ## Confidential Links & Embeds: 

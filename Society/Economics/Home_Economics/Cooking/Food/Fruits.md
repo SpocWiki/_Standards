@@ -85,7 +85,8 @@ Use it like this:
 > that typically are sweet (or sour) and edible in the raw state, 
 > such as apples, bananas, grapes, lemons, oranges, and strawberries. 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fruit)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fruit) 
+
 
 ## #has_/examples 
 

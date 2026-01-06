@@ -29,7 +29,7 @@ aliases:
 > Anderson is noted for his collaborations with the cinematographer Robert Elswit, 
 > the costume designer Mark Bridges, the composers Jon Brion and Jonny Greenwood, and actors including Philip Seymour Hoffman, Daniel Day-Lewis and Joaquin Phoenix. He has directed music videos for artists including Fiona Apple, Haim, Aimee Mann, Joanna Newsom, Michael Penn, Radiohead, and the Smile. He also directed the documentary Junun (2015), about Greenwood's album of the same name, and the short music film Anima (2019), for the Radiohead singer, Thom Yorke.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Thomas%20Anderson)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Thomas%20Anderson) 
 
 
 | Title                              | Year | Genre                     | Director          | Metascore% |

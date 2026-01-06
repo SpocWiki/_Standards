@@ -99,7 +99,7 @@ Wolfram_Language_entity_type: Forest
 >
 > Human society and forests can affect one another positively or negatively. Forests provide ecosystem services to humans and serve as tourist attractions. Forests can also affect people's health. Human activities, including unsustainable use of forest resources, can negatively affect forest ecosystems.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Forest)
+> [Wikipedia](https://en.wikipedia.org/wiki/Forest) 
 
 
 ## Confidential Links & Embeds: 

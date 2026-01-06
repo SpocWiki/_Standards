@@ -1,7 +1,6 @@
 
 ## #has_/text_of_/abstract 
 
-
 > **Stachyose** is a tetrasaccharide 
 > consisting of two α-D-galactose units, one α-D-glucose unit, and one β-D-fructose unit 
 > sequentially linked as Gal(α1→6)Gal(α1→6)Glc(α1↔2β)Fruf. 
@@ -14,7 +13,7 @@
 > It is mainly used as a bulk sweetener or for its functional oligosaccharide properties. 
 > Stachyose is not completely digestible by humans and delivers 1.5 to 2.4 kcal/g (6 to 10 kJ/g).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stachyose)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stachyose) 
 
 
 ## Confidential Links & Embeds: 

@@ -69,7 +69,7 @@ Commons_category: Pragmatism
 > "Consider the practical effects of the objects of your conception. 
 > Then, your conception of those effects is the whole of your conception of the object."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pragmatism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pragmatism) 
 
 
 Pragmatism, as a philosophical movement, was primarily developed by Charles Sanders Peirce, 

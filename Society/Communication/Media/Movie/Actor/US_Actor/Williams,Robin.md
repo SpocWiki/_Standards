@@ -228,7 +228,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/UILYAMS_ROBIN.ht
 > his symptoms were consistent with dementia with Lewy bodies. 
 > In the weeks following his suicide, Williams was celebrated in a wave of tributes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robin%20Williams)
+> [Wikipedia](https://en.wikipedia.org/wiki/Robin%20Williams) 
 
 
 ## Confidential Links & Embeds: 

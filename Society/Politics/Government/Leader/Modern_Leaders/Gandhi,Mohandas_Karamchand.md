@@ -265,8 +265,7 @@ These are pretty redundant though, e.g. the 5 concepts 1, 3, 4, 5 and 6 essentia
 > During India's nationalist movement and in several decades immediately after, 
 > he was also commonly called Bapu (Gujarati endearment for "father", roughly "papa", "daddy").
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mahatma%20Gandhi)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Mahatma%20Gandhi) 
 
 
 # [[Gandhi,Mohandas_Karamchand]] 

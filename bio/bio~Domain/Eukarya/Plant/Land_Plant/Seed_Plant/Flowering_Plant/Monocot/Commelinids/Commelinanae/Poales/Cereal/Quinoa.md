@@ -105,7 +105,7 @@ UNII: 9KMA964L92
 >
 > The quinoa monoculture that arose from increased production, combined with climate change effects in the native Andean region, created challenges for production and yield, and led to environmental degradation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Quinoa)
+> [Wikipedia](https://en.wikipedia.org/wiki/Quinoa) 
 
 
 ## Confidential Links & Embeds: 

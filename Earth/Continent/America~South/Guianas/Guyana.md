@@ -406,7 +406,7 @@ Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]
 >
 > In 2017, 41% of the population of Guyana lived below the poverty line.  Guyana's economy has been undergoing a transformation since the discovery of crude oil in 2015 and commercial drilling in 2019,  with its economy growing by 49% in 2020, making it, by some accounts, currently the world's fastest-growing economy. As it is said to have 11 billion barrels in oil reserves, the country is set to become one of the largest per capita oil producers in the world by 2025. The discovery of over 11 billion barrels of oil reserves off the coast of Guyana since 2017 is the largest addition to global oil reserves since the 1970s. Guyana is now ranked as having the fourth-highest GDP per capita in the Americas after the United States, Canada, and The Bahamas.  According to the World Bank in 2023, very significant poverty still exists and the country faces significant risks in structurally managing its growth.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Guyana)
+> [Wikipedia](https://en.wikipedia.org/wiki/Guyana) 
 
 
 ## Confidential Links & Embeds: 

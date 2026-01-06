@@ -52,7 +52,7 @@ A time period from 485.4 to 477.7 million years ago.
 
 > The **Tremadocian** is the lowest stage of Ordovician. Together with the later Floian Stage it forms the Lower Ordovician Epoch. The Tremadocian lasted from 485.4 to 477.7 million years ago. The base of the Tremadocian is defined as the first appearance of the conodont species Iapetognathus fluctivagus at the Global Boundary Stratotype Section and Point (GSSP) section on Newfoundland.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tremadocian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Tremadocian) 
 
 
 #has_/label_/bg  :: Тремадок

@@ -10,7 +10,7 @@
 > winning the Golden Lion, the festival's top prize, 
 > in a tie with Atlantic City by Louis Malle.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gloria%20(1980%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Gloria%20(1980%20film)) 
 
 
 ## Confidential Links & Embeds: 

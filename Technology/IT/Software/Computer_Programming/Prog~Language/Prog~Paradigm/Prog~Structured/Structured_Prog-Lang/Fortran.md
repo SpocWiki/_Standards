@@ -94,7 +94,7 @@ name_in_kana: フォートラン
 >
 > Since August 2021, Fortran has ranked among the top fifteen languages in the TIOBE index, a measure of the popularity of programming languages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fortran)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fortran) 
 
 
 ## Confidential Links & Embeds: 

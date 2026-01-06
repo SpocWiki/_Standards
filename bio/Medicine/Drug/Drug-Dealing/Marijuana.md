@@ -86,7 +86,7 @@ type: private_note
 > and the District of Columbia, though the drug remains federally illegal. 
 > In Australia, it is legalized only in the Australian Capital Territory.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cannabis%20(drug))
+> [Wikipedia](https://en.wikipedia.org/wiki/Cannabis%20(drug)) 
 
 
 ## Confidential Links & Embeds: 

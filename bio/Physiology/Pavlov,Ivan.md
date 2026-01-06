@@ -142,7 +142,7 @@ ISNI: 000000008115516X
 > Pavlov also conducted significant research on the physiology of digestion, 
 > for which he was awarded the Nobel Prize in Physiology or Medicine in 1904.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ivan%20Pavlov)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Ivan%20Pavlov) 
 
 
 ## Confidential Links & Embeds: 

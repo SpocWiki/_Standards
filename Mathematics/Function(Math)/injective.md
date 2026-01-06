@@ -50,7 +50,7 @@ aliases:
 >
 >  that is not injective is sometimes called many-to-one.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Injective%20function)
+> [Wikipedia](https://en.wikipedia.org/wiki/Injective%20function) 
 
 
 ## Confidential Links & Embeds: 

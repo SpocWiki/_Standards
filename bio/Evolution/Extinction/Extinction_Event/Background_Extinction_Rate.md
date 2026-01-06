@@ -8,7 +8,8 @@
 > excluding major extinction events, including the current human-induced Holocene extinction. 
 > There have been five mass extinction events throughout Earth's history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Background%20extinction%20rate)
+> [Wikipedia](https://en.wikipedia.org/wiki/Background%20extinction%20rate) 
+
 
 ## Average Lifespan (in Millions of Years) varies by Species: 
 

@@ -48,7 +48,7 @@ A time period from 477.7 to 470.0 million years ago.
 
 > The **Floian** is the second stage of the Ordovician Period. It succeeds the Tremadocian with which it forms the Lower Ordovician epoch. It precedes the Dapingian Stage of the Middle Ordovician. The Floian extended from 477.7 to 470 million years ago. The lower boundary is defined as the first appearance of the graptolite species Tetragraptus approximatus.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Floian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Floian) 
 
 
 #has_/label_/cs  :: Flo

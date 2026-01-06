@@ -49,7 +49,7 @@ OpenStreetMap_tag_or_key: Tag:reef=coral
 >
 > Coral reefs deliver ecosystem services for tourism, fisheries and shoreline protection. The annual global economic value of coral reefs has been estimated at anywhere from US$30–375 billion (1997 and 2003 estimates) to US$2.7 trillion (a 2020 estimate) to US$9.9 trillion (a 2014 estimate).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Coral%20reef)
+> [Wikipedia](https://en.wikipedia.org/wiki/Coral%20reef) 
 
 
 ## Confidential Links & Embeds: 

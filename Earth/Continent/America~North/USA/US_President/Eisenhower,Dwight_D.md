@@ -248,7 +248,7 @@ Plex_person_key: 5d77683b961905001eb951ed
 >
 > On the domestic front, Eisenhower governed as a moderate conservative who continued New Deal agencies and expanded Social Security. He covertly opposed Joseph McCarthy and contributed to the end of McCarthyism by openly invoking executive privilege. He signed the Civil Rights Act of 1957 and sent Army troops to enforce federal court orders which integrated schools in Little Rock, Arkansas. His administration undertook the development and construction of the Interstate Highway System, which remains the largest construction of roadways in American history. In 1957, following the Soviet launch of Sputnik, Eisenhower led the American response which included the creation of NASA and the establishment of a stronger, science-based education via the National Defense Education Act. The Soviet Union began to reinforce their own space program, escalating the Space Race. His two terms saw unprecedented economic prosperity except for a minor recession in 1958. In his farewell address, he expressed his concerns about the dangers of massive military spending, particularly deficit spending and government contracts to private military manufacturers, which he dubbed "the military–industrial complex". Historical evaluations of his presidency place him among the upper tier of American presidents.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dwight%20D.%20Eisenhower)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dwight%20D.%20Eisenhower) 
 
 
 ## Confidential Links & Embeds: 

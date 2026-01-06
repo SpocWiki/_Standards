@@ -24,7 +24,7 @@ The[[../../../../../Knowledge/Military.internal/War-Theater/Cognitive-Force/Prop
 > 
 > It is a notable example of propaganda in the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Committee%20on%20Public%20Information)
+> [Wikipedia](https://en.wikipedia.org/wiki/Committee%20on%20Public%20Information) 
 
 
 ## Confidential Links & Embeds: 

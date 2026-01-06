@@ -106,7 +106,7 @@ native_label: British East India Company
 > 
 > The company was dissolved in 1874 under the terms of the East India Stock Dividend Redemption Act enacted one year earlier, as the Government of India Act had by then rendered it vestigial, powerless, and obsolete. The official government machinery of the British Empire had assumed its governmental functions and absorbed its armies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/East%20India%20Company)
+> [Wikipedia](https://en.wikipedia.org/wiki/East%20India%20Company) 
 
 
 ## Confidential Links & Embeds: 

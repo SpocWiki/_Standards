@@ -581,7 +581,7 @@ Capital :: [[Afghanistan/Counties/Kabul/City/Kabul]]
 >
 > Afghanistan is rich in natural resources, including lithium, iron, zinc, and copper. It is the second-largest producer of cannabis resin, and third largest of both saffron and cashmere. The country is a member of the South Asian Association for Regional Cooperation and a founding member of the Organization of Islamic Cooperation. Due to the effects of war in recent decades, the country has dealt with high levels of terrorism, poverty, and child malnutrition. Afghanistan remains among the world's least developed countries, ranking 182nd on the Human Development Index. Afghanistan's gross domestic product (GDP) is $81 billion by purchasing power parity and $20.1 billion by nominal values. Per capita, its GDP is among the lowest of any country as of 2020.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Afghanistan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Afghanistan) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1487-01-01 
-has_time_stopped: 1583-01-01 
+---
 aliases:
   - Muscovite–Lithuanian Wars
   - Russo-Lithuanian Wars

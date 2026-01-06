@@ -119,7 +119,7 @@ ZVG_number: 7340
 >
 > Although trace amounts of selenium are necessary for cellular function in many animals, including humans, both elemental selenium and (especially) selenium salts are toxic in even small doses, causing selenosis. Selenium is listed as an ingredient in many multivitamins and other dietary supplements, as well as in infant formula, and is a component of the antioxidant enzymes glutathione peroxidase and thioredoxin reductase (which indirectly reduce certain oxidized molecules in animals and some plants) as well as in 3 deiodinase enzymes. Selenium requirements in plants differ by species, with some plants requiring relatively large amounts and others apparently not requiring any.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Selenium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Selenium) 
 
 
 ## Confidential Links & Embeds: 

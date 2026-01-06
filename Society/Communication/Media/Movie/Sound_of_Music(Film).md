@@ -166,8 +166,6 @@ Commons_category: The Sound of Music (film)
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Sound%20of%20Music%20(film)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Sound_of_Music(Film)|Sound_of_Music(Film)]] 

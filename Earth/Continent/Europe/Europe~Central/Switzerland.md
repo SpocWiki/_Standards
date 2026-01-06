@@ -607,7 +607,8 @@ Population in 1000s as of @2024
 > 
 > On coins and stamps, the Latin name, Confoederatio Helvetica—frequently shortened to "Helvetia"—is used instead of the spoken languages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Switzerland)
+> [Wikipedia](https://en.wikipedia.org/wiki/Switzerland) 
+
 
 ## Government 
 

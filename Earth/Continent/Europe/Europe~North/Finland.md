@@ -697,7 +697,6 @@ Capital :: [[Helsingfors]]
 
 ## #has_/text_of_/abstract 
 
-
 > **Finland**, officially the Republic of Finland, is a Nordic country in Northern Europe. 
 > It borders Sweden to the northwest, Norway to the north, and Russia to the east, 
 > with the Gulf of Bothnia to the west and the Gulf of Finland to the south, opposite Estonia. 
@@ -748,7 +747,7 @@ Capital :: [[Helsingfors]]
 > The nation performs exceedingly well in national performance metrics, including education, 
 > economic competitiveness, civil liberties, quality of life, and human development.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Finland)
+> [Wikipedia](https://en.wikipedia.org/wiki/Finland) 
 
 
 ## Confidential Links & Embeds: 

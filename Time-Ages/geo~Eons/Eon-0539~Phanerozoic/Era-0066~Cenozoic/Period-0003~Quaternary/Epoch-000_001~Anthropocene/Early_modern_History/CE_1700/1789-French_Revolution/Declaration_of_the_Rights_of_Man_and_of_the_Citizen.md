@@ -1,5 +1,4 @@
-﻿---
-has_time_started: 1790-01-01 
+---
 aliases:
   - Declaration of the Rights of Man and of the Citizen
   - Déclaration des droits de l'Homme et du citoyen

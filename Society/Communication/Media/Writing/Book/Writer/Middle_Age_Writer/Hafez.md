@@ -93,7 +93,7 @@ writing_language: '[[_Standards/WikiData/WD~Persian,9168]]'
 > His tomb is located in his birthplace of Shiraz. 
 > Adaptations, imitations and translations of his poems exist in all major languages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hafez)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hafez) 
 
 
 ## Confidential Links & Embeds: 

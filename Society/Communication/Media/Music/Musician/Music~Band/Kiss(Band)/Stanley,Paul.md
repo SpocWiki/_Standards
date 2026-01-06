@@ -17,7 +17,7 @@ aliases:
 > In 2006, Hit Parader ranked him 18th on their list of the Top 100 Metal Vocalists of All Time. 
 > A Gibson.com readers' poll in 2010 named him 13th on their list of Top 25 Frontmen.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Stanley)
+> [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Stanley) 
 
 
 ## Confidential Links & Embeds: 

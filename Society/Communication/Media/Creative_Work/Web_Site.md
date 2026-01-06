@@ -54,7 +54,7 @@ A WebSite is a set of related web pages and other items typically served from a 
 >
 > All publicly-accessible websites collectively constitute the World Wide Web. There are also private websites that can only be accessed on a private network, such as a company's internal website for its employees. Users can access websites on a range of devices, including desktops, laptops, tablets, and smartphones. The app used on these devices is called a web browser.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Website)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Website) 
 
 
 ## Confidential Links & Embeds: 

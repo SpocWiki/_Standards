@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1402-01-01 
-has_time_stopped: 1976-02-26 
+---
 aliases:
   - Spanish Empire
   - 1492-Spanish_Empire+1976
@@ -71,7 +69,7 @@ coordinate_location: Point(-3.68333333 40.41666667)
 >
 > The Bourbon monarchy implemented reforms like the Nueva Planta decrees, which centralized power and abolished regional privileges. Economic policies promoted trade with the colonies, enhancing Spanish influence in the Americas. Socially, tensions emerged between the ruling elite and the rising bourgeoisie, as well as divisions between peninsular Spaniards and Creoles in the Americas. These factors ultimately set the stage for the independence movements that began in the early 19th century, leading to the gradual disintegration of Spanish colonial authority. By the mid-1820s, Spain had lost its territories in Mexico, Central America, and South America. By 1900, it had also lost Cuba, Puerto Rico, the Philippine Islands, and Guam in the Mariana Islands following the Spanish–American War in 1898.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20Empire)
+> [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20Empire) 
 
 
 ## Confidential Links & Embeds: 

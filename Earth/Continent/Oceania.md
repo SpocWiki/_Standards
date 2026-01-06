@@ -113,7 +113,7 @@ defaultZoom: 4
 >
 > The rock art of Aboriginal Australians is the longest continuously practiced artistic tradition in the world. Most Oceanian countries are parliamentary democracies, with tourism serving as a large source of income for the Pacific island nations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Oceania)
+> [Wikipedia](https://en.wikipedia.org/wiki/Oceania) 
 
 
 ## Confidential Links & Embeds: 

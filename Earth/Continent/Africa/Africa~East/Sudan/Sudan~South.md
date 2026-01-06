@@ -458,7 +458,7 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 >
 > South Sudan is a member of the United Nations, African Union, East African Community, and the Intergovernmental Authority on Development. It is one of the least developed countries in the world, ranking second to last in the Human Development Index, ahead of only Somalia, and having the second-lowest nominal GDP per capita, after Burundi.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/South%20Sudan)
+> [Wikipedia](https://en.wikipedia.org/wiki/South%20Sudan) 
 
 
 ## Confidential Links & Embeds: 

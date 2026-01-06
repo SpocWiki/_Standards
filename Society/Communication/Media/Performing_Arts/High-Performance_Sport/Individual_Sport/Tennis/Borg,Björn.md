@@ -305,7 +305,7 @@ aliases:
 > The 1972 US Open had a special preliminary round before the main 128 player draw began.
 >
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bj%C3%B6rn%20Borg)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bj%C3%B6rn%20Borg) 
 
 
 ## Confidential Links & Embeds: 

@@ -49,7 +49,7 @@ subreddit: SetTheory
 >
 > Set theory is commonly employed as a foundational system for the whole of mathematics, particularly in the form of Zermelo–Fraenkel set theory with the axiom of choice. Besides its foundational role, set theory also provides the framework to develop a mathematical theory of infinity, and has various applications in computer science (such as in the theory of relational algebra), philosophy, formal semantics, and evolutionary dynamics. Its foundational appeal, together with its paradoxes, and its implications for the concept of infinity and its multiple applications have made set theory an area of major interest for logicians and philosophers of mathematics. Contemporary research into set theory covers a vast array of topics, ranging from the structure of the real number line to the study of the consistency of large cardinals.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Set%20theory)
+> [Wikipedia](https://en.wikipedia.org/wiki/Set%20theory) 
 
 
 ## Confidential Links & Embeds: 

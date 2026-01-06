@@ -225,7 +225,7 @@ writing_language:
 > the Fermi Gamma-ray Space Telescope, the Fermi paradox, 
 > and the synthetic element fermium, making him one of 16 scientists who have elements named after them.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Enrico%20Fermi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Enrico%20Fermi) 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,6 @@ A time period from 259.51 to 254.14 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > In the geologic timescale, the **Wuchiapingian** or Wujiapingian (from Chinese: 吴家坪; 
 > pinyin: Wújiāpíng; 
 > lit. 'Wu Family Flatland") in the Liangshan area of Hanzhong, Shaanxi Province) 
@@ -47,7 +46,8 @@ A time period from 259.51 to 254.14 million years ago.
 > Regional stages with which the Wuchiapingian is coeval or overlaps include 
 > the Djulfian or Dzhulfian, Longtanian, Rustlerian, Saladoan, and Castilian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wuchiapingian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wuchiapingian) 
+
 
 #has_/label_/bg  :: Вучиапинг
 #has_/label_/cs  :: Wuchiaping

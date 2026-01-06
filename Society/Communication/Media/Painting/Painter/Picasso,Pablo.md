@@ -411,7 +411,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PIKA
 > Picasso achieved universal renown and immense fortune for his revolutionary artistic accomplishments, 
 > and became one of the best-known figures in 20th-century art.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pablo%20Picasso)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pablo%20Picasso) 
 
 
 ## Confidential Links & Embeds: 

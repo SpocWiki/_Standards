@@ -40,7 +40,7 @@ aliases:
 > for his role in Frankie and Johnny in the Clair de Lune (2003), 
 > and a Grammy Award for narrating the audiobook The One and Only Shrek! (2008).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stanley%20Tucci)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stanley%20Tucci) 
 
 
 ## Confidential Links & Embeds: 

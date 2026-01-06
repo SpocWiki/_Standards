@@ -277,7 +277,7 @@ Y_DNA_Haplogroup: '[[_Standards/WikiData/WD~Haplogroup_R1b,674896]]'
 > 
 > Darwin's scientific discovery is the unifying theory of the life sciences, explaining the diversity of life.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Darwin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Darwin) 
 
 
 ## Confidential Links & Embeds: 

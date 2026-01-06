@@ -119,7 +119,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Welche%20Form%20hat%20
 >
 > There are many competing hypotheses about the ultimate fate of the universe and about what, if anything, preceded the Big Bang, while other physicists and philosophers refuse to speculate, doubting that information about prior states will ever be accessible. Some physicists have suggested various multiverse hypotheses, in which the universe might be one among many.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Universe)
+> [Wikipedia](https://en.wikipedia.org/wiki/Universe) 
 
 
 ## Confidential Links & Embeds: 

@@ -13,6 +13,7 @@ title: Ichthyostega
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ichthyostega) 
 
+
 ## Introduction
 
 [Jennifer A. Clack](http://www.tolweb.org/)

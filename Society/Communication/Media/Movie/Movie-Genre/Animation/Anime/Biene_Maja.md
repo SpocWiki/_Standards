@@ -12,7 +12,7 @@
 > The book depicts Maya's development from an adventurous youngster 
 > to a responsible adult member of bee society.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Maya%20the%20Bee)
+> [Wikipedia](https://en.wikipedia.org/wiki/Maya%20the%20Bee) 
 
 
 It was made into an animated Series by [[Studio_Ghibli]]. 

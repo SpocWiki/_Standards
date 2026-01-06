@@ -40,7 +40,7 @@ defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"
 >
 > A consequence of the law of conservation of energy is that a perpetual motion machine of the first kind cannot exist; that is to say, no system without an external energy supply can deliver an unlimited amount of energy to its surroundings. Depending on the definition of energy, the conservation of energy can arguably be violated by general relativity on the cosmological scale. In quantum mechanics, Noether's theorem is known to apply to the expected value, making any consistent conservation violation provably impossible, but whether individual conservation-violating events could ever exist or be observed is subject to some debate.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Conservation%20of%20energy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Conservation%20of%20energy) 
 
 
 ## Confidential Links & Embeds: 

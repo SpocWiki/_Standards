@@ -117,7 +117,8 @@ Wolfram_Language_entity_type: Star
 >
 > Stars can form orbital systems with other astronomical objects, as in planetary systems and star systems with two or more stars. When two such stars orbit closely, their gravitational interaction can significantly impact their evolution. Stars can form part of a much larger gravitationally bound structure, such as a star cluster or a galaxy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Star)
+> [Wikipedia](https://en.wikipedia.org/wiki/Star) 
+
 
 ```leaflet
 id: leaflet-map

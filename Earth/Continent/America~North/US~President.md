@@ -161,8 +161,7 @@ Dreadnought_Project_page: President_of_the_United_States
 > [[USA/US_President/Biden,Joe]] is the 46th and current president of the United States, 
 > having assumed office on January 20, 2021.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/President%20of%20the%20United%20States)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/President%20of%20the%20United%20States) 
 
 
 ```dataviewjs

@@ -13,7 +13,7 @@ title: Lepilemur
 
 > The sportive lemurs are the medium-sized primates that make up the family **Lepilemur**idae. The family consists of only one extant genus, Lepilemur. They are closely related to the other lemurs and exclusively live on the island of Madagascar. For a time, this family was named Megaladapidae, but the current name was given precedence since the extinct genus Megaladapis was removed from the family.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sportive%20lemur)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sportive%20lemur) 
 
 
 ## Phylogeny 

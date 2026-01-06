@@ -92,7 +92,6 @@ ZVG_number: 7810
 
 ## #has_/text_of_/abstract 
 
-
 > **Thallium**  is a chemical element with the symbol (Abbr::Tl) and atomic number (Charge-e::81). 
 > It is a gray post-transition metal that is not found free in nature. 
 > 
@@ -109,7 +108,7 @@ ZVG_number: 7810
 >
 > Soluble thallium salts (many of which are nearly tasteless) are highly toxic, and they were historically used in rat poisons and insecticides.  Because of their nonselective toxicity, use of these compounds has been restricted or banned in many countries. Thallium poisoning usually results in hair loss. Because of its historic popularity as a murder weapon, thallium has gained notoriety as "the poisoner's poison" and "inheritance powder" (alongside arsenic).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thallium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thallium) 
 
 
 ## Confidential Links & Embeds: 

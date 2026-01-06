@@ -48,7 +48,7 @@ Library_of_Congress_Classification: UG1282.A8
 >
 > Thermonuclear weapons are the only artificial source of explosions above one megaton TNT. The Tsar Bomba was the most powerful bomb ever detonated at 50 megatons TNT. As they are the most efficient design for yields above 50 kilotons of TNT (210 TJ), and with decreased relevance of tactical nuclear weapons, virtually all nuclear weapons deployed by the five recognized nuclear-weapons states today are thermonuclear. Their development dominated the Cold War's nuclear arms race. Their destructiveness and ability to miniaturize high yields, such as in MIRV warheads, defines nuclear deterrence and mutual assured destruction. Extensions of thermonuclear weapon design include clean bombs with marginal fallout and neutron bombs with enhanced penetrating radiation. Nonetheless, most thermonuclear weapons designed, including all current US and UK nuclear warheads, derive most of their energy from fast fission, causing high fallout.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thermonuclear%20weapon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thermonuclear%20weapon) 
 
 
 ## Confidential Links & Embeds: 

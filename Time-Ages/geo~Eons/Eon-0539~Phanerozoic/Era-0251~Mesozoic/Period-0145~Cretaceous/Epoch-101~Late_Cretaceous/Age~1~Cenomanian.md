@@ -1,3 +1,25 @@
+---
+aliases:
+  - Cenomanian
+has_id_wikidata: Q185567
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Cenomanian,20979613]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Cenomanian,133930647]]"
+end_time: -93900000-01-01T00:00:00Z
+start_time: -100500000-01-01T00:00:00Z
+coordinate_location: Point(5.5119 44.3925)
+named_after: "[[_Standards/WikiData/WD~Le_Mans,1476]]"
+country: "[[_Standards/WikiData/WD~France,142]]"
+sRGB_color_hex_triplet: B5DA71
+Commons_category: Cenomanian
+---
 # [[Age~1~Cenomanian]] 
 
 #is_a_/time_/Age 
@@ -8,9 +30,9 @@ A time period from 100.5 to 93.9 million years ago.
 
 #has_/previous_/item :: [[../Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]] 
 #has_/next_/item :: [[Age~2~Turonian]] 
+#is_/same_as :: [[WD~Cenomanian,185567]] 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Cenomanian** is, in the ICS' geological timescale, the oldest or earliest age of the Late Cretaceous Epoch or the lowest stage of the Upper Cretaceous Series. An age is a unit of geochronology; it is a unit of time; the stage is a unit in the stratigraphic column deposited during the corresponding age. Both age and stage bear the same name.
 >
@@ -18,7 +40,8 @@ A time period from 100.5 to 93.9 million years ago.
 >
 > At the end of the Cenomanian, an anoxic event took place, called the Cenomanian-Turonian boundary event or the "Bonarelli event", that is associated with a minor extinction event for marine species.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cenomanian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cenomanian) 
+
 
 #has_/label_/bg  :: Ценоман
 #has_/label_/cs  :: Cenoman

@@ -964,7 +964,7 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 > and the Community of Portuguese Language Countries; 
 > it is also an observer state of the Arab League and a major non-NATO ally of the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Brazil)
+> [Wikipedia](https://en.wikipedia.org/wiki/Brazil) 
 
 
 ## Confidential Links & Embeds: 

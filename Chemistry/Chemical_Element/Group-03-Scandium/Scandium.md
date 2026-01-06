@@ -119,7 +119,7 @@ ZVG_number: 7210
 > just as there is between beryllium and aluminium. 
 > In the chemical compounds of the elements in group 3, the predominant oxidation state is +3.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Scandium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Scandium) 
 
 
 ## Confidential Links & Embeds: 

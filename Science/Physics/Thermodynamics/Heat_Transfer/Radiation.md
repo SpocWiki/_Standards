@@ -39,8 +39,6 @@ Krugosvet_article_archived_: voennoe-delo/radiatsiya
 > [Wikipedia](https://en.wikipedia.org/wiki/Radiation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Heat_Transfer/Radiation|Radiation]] 

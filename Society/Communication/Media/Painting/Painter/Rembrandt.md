@@ -439,7 +439,7 @@ work_period_start_: 1625
 > and illustrations of scenes from the Bible are regarded as his greatest creative triumphs. 
 > His approximately 40 self-portraits form an intimate autobiography.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rembrandt)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rembrandt) 
 
 
 ## Confidential Links & Embeds: 

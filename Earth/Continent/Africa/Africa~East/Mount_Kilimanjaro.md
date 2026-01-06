@@ -38,7 +38,7 @@ part_of:
 topographic_isolation: 5510
 topographic_prominence: 5895
 U_S_National_Archives_Identifier: 10038408
-__is_:
+dv_is_:
   same_as:
     - "[[../../../../WikiData/WD~Mount_Kilimanjaro,7296|WD~Mount_Kilimanjaro,7296]]"
     - "[[Mount_Kilimanjaro]]"
@@ -48,7 +48,7 @@ __is_:
     - "[[/_private/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.private|Mount_Kilimanjaro.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.personal|Mount_Kilimanjaro.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.secret|Mount_Kilimanjaro.secret]]"
-__is_same_as:
+dv_is_same_as:
   - "[[../../../../WikiData/WD~Mount_Kilimanjaro,7296|WD~Mount_Kilimanjaro,7296]]"
   - "[[Mount_Kilimanjaro]]"
   - "[[/_public/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.public|Mount_Kilimanjaro.public]]"

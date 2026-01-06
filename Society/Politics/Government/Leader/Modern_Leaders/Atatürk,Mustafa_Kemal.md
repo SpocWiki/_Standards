@@ -150,7 +150,7 @@ writing_language: '[[_Standards/WikiData/WD~Turkish,256]]'
 >
 > In 1981, the centennial of Atatürk's birth, his memory was honoured by the United Nations and UNESCO, which declared it The Atatürk Year in the World and adopted the Resolution on the Atatürk Centennial, describing him as "the leader of the first struggle given against colonialism and imperialism" and a "remarkable promoter of the sense of understanding between peoples and durable peace between the nations of the world and that he worked all his life for the development of harmony and cooperation between peoples without distinction". Atatürk was also credited for his peace-in-the-world oriented foreign policy and friendship with neighboring countries such as Iran, Yugoslavia, Iraq, and Greece, as well as the creation of the Balkan Pact that resisted the expansionist aggressions of Fascist Italy and Tsarist Bulgaria.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mustafa%20Kemal%20Atat%C3%BCrk)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mustafa%20Kemal%20Atat%C3%BCrk) 
 
 
 ## Confidential Links & Embeds: 

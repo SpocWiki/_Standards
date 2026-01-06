@@ -139,14 +139,13 @@ ZVG_number: 7570
 
 ## #has_/text_of_/abstract 
 
-
 > **Lanthanum** is a chemical element with the symbol (Abbr::La) and atomic number (Charge-e::57). It is a soft, ductile, silvery-white metal that tarnishes slowly when exposed to air. It is the eponym of the lanthanide series, a group of 15 similar elements between lanthanum and lutetium in the periodic table, of which lanthanum is the first and the prototype. Lanthanum is traditionally counted among the rare earth elements. Like most other rare earth elements, the usual oxidation state is +3. Lanthanum has no biological role in humans but is essential to some bacteria. It is not particularly toxic to humans but does show some antimicrobial activity.
 >
 > Lanthanum usually occurs together with cerium and the other rare earth elements. Lanthanum was first found by the Swedish chemist Carl Gustaf Mosander in 1839 as an impurity in cerium nitrate – hence the name lanthanum, from the Ancient Greek λανθάνειν (lanthanein), meaning 'to lie hidden'. Although it is classified as a rare earth element, lanthanum is the 28th most abundant element in the Earth's crust, almost three times as abundant as lead. In minerals such as monazite and bastnäsite, lanthanum composes about a quarter of the lanthanide content. It is extracted from those minerals by a process of such complexity that pure lanthanum metal was not isolated until 1923.
 >
 > Lanthanum compounds have numerous applications as catalysts, additives in glass, carbon arc lamps for studio lights and projectors, ignition elements in lighters and torches, electron cathodes, scintillators, gas tungsten arc welding electrodes, and other things. Lanthanum carbonate is used as a phosphate binder in cases of high levels of phosphate in the blood seen with kidney failure.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lanthanum)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lanthanum) 
 
 
 ## Confidential Links & Embeds: 

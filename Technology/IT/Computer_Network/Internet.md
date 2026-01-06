@@ -77,7 +77,7 @@ Gujarati_Vishwakosh_entry: ઇન્ટરનેટ
 >
 > The Internet has no single centralized governance in either technological implementation or policies for access and usage; each constituent network sets its own policies. The overarching definitions of the two principal name spaces on the Internet, the Internet Protocol address (IP address) space and the Domain Name System (DNS), are directed by a maintainer organization, the Internet Corporation for Assigned Names and Numbers (ICANN). The technical underpinning and standardization of the core protocols is an activity of the Internet Engineering Task Force (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise. In November 2006, the Internet was included on USA Today's list of the New Seven Wonders.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Internet)
+> [Wikipedia](https://en.wikipedia.org/wiki/Internet) 
 
 
 ## Confidential Links & Embeds: 

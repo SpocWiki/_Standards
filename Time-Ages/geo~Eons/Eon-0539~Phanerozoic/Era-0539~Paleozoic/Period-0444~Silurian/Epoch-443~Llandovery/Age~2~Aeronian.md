@@ -49,7 +49,7 @@ A time period from 440.8 to 438.5 million years ago.
 > 
 > During the Aeronian the [[Sedgwickii-Event]] occurred in which graptolite diversity was greatly reduced. This event has been attested in locations such as today's Canada, Libya as well as in La Chilca Formation in Argentina (then part of Gondwana).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Aeronian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Aeronian) 
 
 
 #has_/label_/bg  :: перон

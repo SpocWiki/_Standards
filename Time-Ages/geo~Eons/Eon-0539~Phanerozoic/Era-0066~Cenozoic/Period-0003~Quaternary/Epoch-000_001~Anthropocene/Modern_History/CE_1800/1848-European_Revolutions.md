@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1848-01-12 
-has_time_stopped: 1849-10-04 
+---
 aliases:
   - revolutions of 1848
   - springtime of the peoples
@@ -40,7 +38,7 @@ Dewey_Decimal_Classification:
 >
 > The uprisings were led by temporary coalitions of workers and reformers, including figures from the middle and upper classes (the bourgeoisie); however, the coalitions did not hold together for long. Many of the revolutions were quickly suppressed, as tens of thousands of people were killed, and even more were forced into exile. Significant lasting reforms included the abolition of serfdom in Austria and Hungary, the end of absolute monarchy in Denmark, and the introduction of representative democracy in the Netherlands. The revolutions were most important in France, the Netherlands, Italy, the Austrian Empire, and the states of the German Confederation that would make up the German Empire in the late 19th and early 20th centuries. The wave of uprisings ended in October 1849.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Revolutions%20of%201848)
+> [Wikipedia](https://en.wikipedia.org/wiki/Revolutions%20of%201848) 
 
 
 ## Confidential Links & Embeds: 

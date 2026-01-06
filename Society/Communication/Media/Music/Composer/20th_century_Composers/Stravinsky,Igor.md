@@ -161,7 +161,7 @@ Europeana_entity: agent/base/146972
 >
 > While many supporters were confused by Stravinsky's constant stylistic changes, later writers recognized his versatile language as important in the development of modernist music. Stravinsky's revolutionary ideas influenced composers as diverse as Aaron Copland, Philip Glass, Béla Bartók, and Pierre Boulez, who were all challenged to innovate music in areas beyond tonality, especially rhythm and musical form. In 1998, Time magazine listed Stravinsky as one of the 100 most influential people of the century. Stravinsky died of pulmonary edema on 6 April 1971 in New York City, having left six memoirs written with his friend and assistant Robert Craft, as well as an earlier autobiography and a series of lectures.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Igor%20Stravinsky)
+> [Wikipedia](https://en.wikipedia.org/wiki/Igor%20Stravinsky) 
 
 
 ## Confidential Links & Embeds: 

@@ -39,7 +39,7 @@ aliases:
 > has been credited with reviving the anthology television format, 
 > and a number of episodes have been seen by reviewers as prescient.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Black%20Mirror)
+> [Wikipedia](https://en.wikipedia.org/wiki/Black%20Mirror) 
 
 
 ## Confidential Links & Embeds: 

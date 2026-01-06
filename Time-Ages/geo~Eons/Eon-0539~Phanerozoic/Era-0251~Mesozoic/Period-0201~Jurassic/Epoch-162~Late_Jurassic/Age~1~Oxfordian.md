@@ -1,3 +1,18 @@
+---
+aliases:
+  - Oxfordian
+has_id_wikidata: Q375784
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Oxfordian_(stage),21685168]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -163500000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Oxford,34217]]"
+sRGB_color_hex_triplet: ABE7FB
+end_time: -157300000-01-01T00:00:00Z
+---
 # [[Age~1~Oxfordian]] 
 
 #is_a_/time_/Age 
@@ -6,6 +21,7 @@
 
 #has_/previous_/item :: [[../Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]] 
 #has_/next_/item :: [[Age~2~Kimmeridgian]] 
+#is_/same_as :: [[WD~Oxfordian,375784]] 
 
 A time period from 161.5 to 154.8 million years ago. 
 
@@ -14,10 +30,10 @@ A time period from 161.5 to 154.8 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Oxfordian** is, in the ICS' geologic timescale, the earliest age of the Late Jurassic Epoch, or the lowest stage of the Upper Jurassic Series. It spans the time between 161.5 ± 1.0 Ma and 154.8 ± 0.8 Ma (million years ago). The Oxfordian is preceded by the [[../Epoch-175~Middle_Jurassic/Age~4~Callovian|Age~4~Callovian]] and is followed by the [[Age~2~Kimmeridgian]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxfordian%20(stage)) 
+
 
 #has_/label_/bg  :: Окѿфорд
 #has_/label_/cs  :: Oxford

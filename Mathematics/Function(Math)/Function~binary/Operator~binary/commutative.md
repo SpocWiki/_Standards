@@ -61,7 +61,7 @@ This allows faster searching and Comparison!
 >  for example, equality is symmetric as two equal mathematical objects are equal 
 >  regardless of their order.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Commutative%20property)
+> [Wikipedia](https://en.wikipedia.org/wiki/Commutative%20property) 
 
 
 ## Confidential Links & Embeds: 

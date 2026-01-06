@@ -458,7 +458,7 @@ Capital :: [[Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_M
 >
 > In 1980, political tensions from the rule of William R. Tolbert resulted in a military coup, marking the end of Americo-Liberian rule and the seizure of power of Liberia's first indigenous leader, Samuel Doe. Establishing a dictatorial regime, Doe was assassinated in 1990 in the context of the First Liberian Civil War which ran from 1989 until 1997 with the election of rebel leader Charles Taylor as president. In 1998, the Second Liberian Civil War erupted against his own dictatorship, and Taylor was overthrown by the end of the war in 2003. The two wars resulted in the deaths of 250,000 people (about 8% of the population) and the displacement of many more, with Liberia's economy shrinking by 90%. A peace agreement in 2003 led to democratic elections in 2005. The country has remained relatively stable since then.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Liberia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Liberia) 
 
 
 ## Confidential Links & Embeds: 

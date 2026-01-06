@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1815-06-10 
-has_time_stopped: 1866-08-24 
 location: [ 8.675 , 50.108 ] 
 aliases:
   - German Confederation
@@ -123,7 +121,7 @@ Libris_URI: 75kmqkzr1z1rbwk
 >
 > Most historians have judged the Confederation to have been weak and ineffective, as well as an obstacle to the creation of a German nation-state. This weakness was part of its design, as the European Great Powers, including Prussia and especially Austria, did not want it to become a nation-state. However, the Confederation was not a loose tie between the German states, as it was impossible to leave the Confederation, and as Confederation law stood above the law of the aligned states. The constitutional weakness of the Confederation lay in the principle of unanimity in the Diet and the limits of the Confederation's scope: it was essentially a military alliance to defend Germany against external attacks and internal riots. The War of 1866 proved its ineffectiveness, as it was unable to combine the federal troops in order to fight the Prussian secession.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/German%20Confederation)
+> [Wikipedia](https://en.wikipedia.org/wiki/German%20Confederation) 
 
 
 ## Confidential Links & Embeds: 

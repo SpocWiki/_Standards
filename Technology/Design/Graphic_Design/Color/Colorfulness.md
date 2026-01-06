@@ -41,6 +41,7 @@ IEV_number: 845-22-072
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Colorfulness) 
 
+
 # Colorfulness
 
 Colorfulness is the "attribute of a visual perception according to which the perceived color of an area appears to be more or less chromatic (Any color that is absent of white, grey, or black)". The colorfulness evoked by an object depends not only on its spectral reflectance but also on the strength of the illumination, and increases with the latter unless the brightness is very high (Hunt effect).

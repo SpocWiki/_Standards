@@ -104,7 +104,7 @@ markerFolder: ./Europe~East/
 > being inferior (poorer, less developed) to Western Europe; 
 > the term Central and Eastern Europe is sometimes used for a more neutral grouping.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Eastern%20Europe)
+> [Wikipedia](https://en.wikipedia.org/wiki/Eastern%20Europe) 
 
 
 ## Confidential Links & Embeds: 

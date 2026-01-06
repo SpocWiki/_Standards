@@ -169,7 +169,7 @@ Libris_URI: hftx2w414tkxmv0
 > Connery was made a Commander of the Order of Arts and Letters in France 
 > and a knight by Queen Elizabeth II for his services to drama in 2000.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sean%20Connery)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sean%20Connery) 
 
 
 ## Confidential Links & Embeds: 

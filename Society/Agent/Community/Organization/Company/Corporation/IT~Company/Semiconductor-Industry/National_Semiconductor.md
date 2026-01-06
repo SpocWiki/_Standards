@@ -16,7 +16,7 @@
 > On 2011-09-23, the company formally became part of Texas Instruments 
 > as the "Silicon Valley" division.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/National%20Semiconductor)
+> [Wikipedia](https://en.wikipedia.org/wiki/National%20Semiconductor) 
 
 
 ## Confidential Links & Embeds: 

@@ -40,7 +40,7 @@ Wolfram_Language_entity_code: Entity["FoodType", "Gin"]
 >
 > Gin is produced from a wide range of herbal ingredients in a number of distinct styles and brands. After juniper, gin tends to be flavoured with herbs, spices, floral or fruit flavours, or often a combination. It is commonly mixed with tonic water in a gin and tonic. Gin is also used as a base spirit to produce flavoured, gin-based liqueurs, for example sloe gin, traditionally produced by the addition of fruit, flavourings and sugar.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gin) 
 
 
 ## Confidential Links & Embeds: 

@@ -8,7 +8,8 @@
 >
 > The name (pronunciation varies) is an acronym of Z integrated logic, also thought of as "Z for the last word of Integrated Logic".  In the oral history interview video which Federico Faggin (co-founder of Zilog) recorded for the Computer History Museum, he pronounced Zilog with a long "i" () consistently.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Zilog)
+> [Wikipedia](https://en.wikipedia.org/wiki/Zilog) 
+
 
 [Masatoshi Shima](https://en.wikipedia.org/wiki/Masatoshi_Shima "Masatoshi Shima"), who also worked with Faggin on the 4004 and 8080 at [[Intel]], 
 joined Zilog in 1975. 

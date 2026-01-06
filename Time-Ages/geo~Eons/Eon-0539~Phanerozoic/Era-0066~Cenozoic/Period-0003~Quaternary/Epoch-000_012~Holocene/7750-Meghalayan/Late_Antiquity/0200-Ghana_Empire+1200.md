@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 0100-01-01 
-has_time_stopped: 1200-01-01 
+---
 aliases:
   - Ghana Empire
   - Ghanata
@@ -47,7 +45,7 @@ coordinate_location: Point(-8.0 15.66666667)
 >
 > After centuries of prosperity, the empire began its decline in the second millennium, and would finally become a vassal state of the rising Mali Empire at some point in the 13th century. Despite its collapse, the empire's influence can be felt in the establishment of numerous urban centers throughout its former territory. In 1957, the British colony of the Gold Coast, under the leadership of Kwame Nkrumah named itself Ghana upon independence.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ghana%20Empire)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ghana%20Empire) 
 
 
 ## Confidential Links & Embeds: 

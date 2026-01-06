@@ -43,7 +43,7 @@ U_S_National_Archives_Identifier: 10638452
 >
 > Most clinical studies use the term 'malnutrition' to refer to undernutrition. However, the use of 'malnutrition' instead of 'undernutrition' makes it impossible to distinguish between undernutrition and overnutrition, a less acknowledged form of malnutrition. Accordingly, a 2019 report by The Lancet Commission suggested expanding the definition of malnutrition to include "all its forms, including obesity, undernutrition, and other dietary risks." The World Health Organization and The Lancet Commission have also identified "[t]he double burden of malnutrition", which occurs from "the coexistence of overnutrition (overweight and obesity) alongside undernutrition (stunted growth and wasting)."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Malnutrition)
+> [Wikipedia](https://en.wikipedia.org/wiki/Malnutrition) 
 
 
 ## Confidential Links & Embeds: 

@@ -96,7 +96,6 @@ ZVG_number: 8260
 
 ## #has_/text_of_/abstract 
 
-
 > **Gallium** is a chemical element with the symbol (Abbr::Ga) and atomic number (Charge-e::31). 
 > Discovered by French chemist Paul-Émile Lecoq de Boisbaudran in 1875, 
 > Gallium is in group (GroupNo::13) of the periodic table 
@@ -115,7 +114,7 @@ ZVG_number: 8260
 >
 > Gallium is predominantly used in electronics. Gallium arsenide, the primary chemical compound of gallium in electronics, is used in microwave circuits, high-speed switching circuits, and infrared circuits. Semiconducting gallium nitride and indium gallium nitride produce blue and violet light-emitting diodes and diode lasers. Gallium is also used in the production of artificial gadolinium gallium garnet for jewelry. Gallium is considered a technology-critical element by the United States National Library of Medicine and Frontiers Media.Gallium has no known natural role in biology. Gallium(III) behaves in a similar manner to ferric salts in biological systems and has been used in some medical applications, including pharmaceuticals and radiopharmaceuticals.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gallium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gallium) 
 
 
 ## Confidential Links & Embeds: 

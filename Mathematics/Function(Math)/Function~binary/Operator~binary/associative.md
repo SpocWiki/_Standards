@@ -74,7 +74,7 @@ a^(b ^ c)  !=  (a ^ b) ^ c = a^(b * c)
 >
 > However, many important and interesting operations are non-associative; some examples include subtraction, exponentiation, and the vector cross product. In contrast to the theoretical properties of real numbers, the addition of floating point numbers in computer science is not associative, and the choice of how to associate an expression can have a significant effect on rounding error.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Associative%20property)
+> [Wikipedia](https://en.wikipedia.org/wiki/Associative%20property) 
 
 
 ## Confidential Links & Embeds: 

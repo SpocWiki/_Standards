@@ -8,6 +8,7 @@ if (-not $parent_directory) {
 
 Set-Location -Path $parent_directory
 
+git stash
 
 Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
     $directory = $_.FullName

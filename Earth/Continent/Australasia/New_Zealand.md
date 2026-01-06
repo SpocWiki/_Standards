@@ -502,7 +502,7 @@ Capital :: [[Wellington]]
 >
 > Nationally, legislative authority is vested in an elected, unicameral Parliament, while executive political power is exercised by the Government, led by the prime minister, currently Christopher Luxon. Charles III is the country's king and is represented by the governor-general, Cindy Kiro. In addition, New Zealand is organised into 11 regional councils and 67 territorial authorities for local government purposes. The Realm of New Zealand also includes Tokelau (a dependent territory); the Cook Islands and Niue (self-governing states in free association with New Zealand); and the Ross Dependency, which is New Zealand's territorial claim in Antarctica.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/New%20Zealand)
+> [Wikipedia](https://en.wikipedia.org/wiki/New%20Zealand) 
 
 
 ## Confidential Links & Embeds: 

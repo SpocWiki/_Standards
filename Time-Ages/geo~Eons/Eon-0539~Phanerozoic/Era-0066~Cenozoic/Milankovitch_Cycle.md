@@ -28,6 +28,7 @@ Commons_category: Milankovitch cycles
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Milankovitch%20cycles) 
 
+
 ## Overview of orbital variations affecting Earth’s climate
 
 Earth’s orbital parameters vary through well-quantified gravitational interactions 

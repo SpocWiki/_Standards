@@ -44,7 +44,7 @@ aliases:
 > His life and legacy were commemorated at a memorial service at St Bartholomew's 
 > with the other five Pythons two months after his death.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Graham%20Chapman)
+> [Wikipedia](https://en.wikipedia.org/wiki/Graham%20Chapman) 
 
 
 ## Confidential Links & Embeds: 

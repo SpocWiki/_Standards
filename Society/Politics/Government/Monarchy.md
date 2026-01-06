@@ -51,7 +51,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Monarchy::44v86"]
 > retaining under a constitution unique legal and ceremonial roles for monarchs 
 > exercising limited or no political power, similar to heads of state in a parliamentary republic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Monarchy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Monarchy) 
 
 
 ## Confidential Links & Embeds: 

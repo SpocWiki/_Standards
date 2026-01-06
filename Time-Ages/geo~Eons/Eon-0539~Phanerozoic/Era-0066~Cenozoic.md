@@ -62,7 +62,6 @@ A time period from 66.0 million years ago to the present.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Cenozoic** ( SEE-nə-ZOH-ik, SEN-ə-; lit. 'new life') is Earth's __current__ geological era, 
 > representing the last 66 million years of Earth's history. 
 > 
@@ -87,7 +86,8 @@ A time period from 66.0 million years ago to the present.
 > particularly during the Paleocene–Eocene Thermal Maximum. 
 > However, the Eocene to Oligocene transition and the Quaternary glaciation dried and cooled Earth.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cenozoic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cenozoic) 
+
 
 #has_/label_/bg  :: пеозой
 #has_/label_/cs  :: Kenozoikum

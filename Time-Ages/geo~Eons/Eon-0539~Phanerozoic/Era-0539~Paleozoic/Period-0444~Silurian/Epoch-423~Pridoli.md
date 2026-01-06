@@ -55,7 +55,7 @@ A time period from 423.0 to 419.2 million years ago.
 > The [[Šilalė-Event]], a negative carbon isotope excursion 
 > corresponding to an extinction event of conodonts, occurred during the early **Pridoli**.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pridoli%20Epoch)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Pridoli%20Epoch) 
 
 
 #has_/label_/bg  :: Пржидол

@@ -146,7 +146,7 @@ Facebook_username: louisarmstrong
 >
 > With his instantly recognizable, rich, gravelly voice, Armstrong was also an influential singer and skillful improviser. He was also skilled at scat singing. By the end of Armstrong's life, his influence had spread to popular music. He was one of the first popular African-American entertainers to "cross over" to wide popularity with white and international audiences. Armstrong rarely publicly discussed racial issues, to the dismay of fellow African Americans, but took a well-publicized stand for desegregation in the Little Rock crisis. He could access the upper echelons of American society at a time when this was difficult for Black men.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Louis%20Armstrong)
+> [Wikipedia](https://en.wikipedia.org/wiki/Louis%20Armstrong) 
 
 
 ## Confidential Links & Embeds: 

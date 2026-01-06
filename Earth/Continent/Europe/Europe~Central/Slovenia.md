@@ -685,7 +685,7 @@ Capital :: [[Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslove
 >
 > Slovenia is a developed country, with a high-income economy characterized by a mixture of both traditional industries, such as manufacturing and agriculture, and modern sectors, such as information technology and financial service. The economy is highly dependent on foreign trade, with exports accounting for a significant portion of the country's GDP. Slovenia is a member of the European Union, the United Nations, NATO, the Organization for Security and Co-operation in Europe, and other associations in the global community.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Slovenia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Slovenia) 
 
 
 ## Confidential Links & Embeds: 

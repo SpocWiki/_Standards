@@ -94,7 +94,6 @@ vapor_pressure: 1
 
 ## #has_/text_of_/abstract 
 
-
 > **Fluorine** is a chemical element with the symbol (Abbr::F) and atomic number (Charge-e::9). 
 > It is the lightest halogen and exists at standard conditions as a highly toxic, pale yellow diatomic gas. 
 > As the most electronegative reactive element, it is extremely reactive, 
@@ -117,7 +116,7 @@ vapor_pressure: 1
 >
 > Fluorocarbon gases are generally greenhouse gases with global-warming potentials 100 to 23,500 times that of carbon dioxide, and SF6 has the highest global warming potential of any known substance. Organofluorine compounds often persist in the environment due to the strength of the carbon–fluorine bond. Fluorine has no known metabolic role in mammals; a few plants and sea sponges synthesize organofluorine poisons (most often monofluoroacetates) that help deter predation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fluorine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fluorine) 
 
 
 ## Confidential Links & Embeds: 

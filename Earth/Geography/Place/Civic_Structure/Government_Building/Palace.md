@@ -60,7 +60,7 @@ OpenStreetMap_tag_or_key:
 >
 > A palace is typically distinguished from a castle in that the latter is fortified or has the style of a fortification, whereas a palace does not.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Palace)
+> [Wikipedia](https://en.wikipedia.org/wiki/Palace) 
 
 
 ## Confidential Links & Embeds: 

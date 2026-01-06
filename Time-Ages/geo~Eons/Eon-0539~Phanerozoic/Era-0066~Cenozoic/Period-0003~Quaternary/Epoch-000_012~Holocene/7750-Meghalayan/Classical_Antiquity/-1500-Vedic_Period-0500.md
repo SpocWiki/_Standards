@@ -37,7 +37,7 @@ start_time: -1500-01-01T00:00:00Z
 >
 > Archaeological cultures identified with phases of Indo-Aryan material culture include the Ochre Coloured Pottery culture (OCP), the Gandhara grave culture, the Black and Red ware culture (BRW) and the Painted Grey Ware culture (PGW).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vedic%20period)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Vedic%20period) 
 
 
 ## Confidential Links & Embeds: 

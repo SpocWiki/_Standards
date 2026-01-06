@@ -61,7 +61,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_calculus,7112574]]'
 >
 > Infinitesimal calculus was formulated separately in the late 17th century by Isaac Newton and Gottfried Wilhelm Leibniz. Later work, including codifying the idea of limits, put these developments on a more solid conceptual footing. Today, calculus is widely used in science, engineering, biology, and even has applications in social science and other branches of math.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Calculus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Calculus) 
 
 
 ## Confidential Links & Embeds: 

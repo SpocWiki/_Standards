@@ -77,7 +77,7 @@ A time period from 358.9 to 298.9 million years ago.
 >
 > The later half of the period experienced glaciations, low sea level, and mountain building as the continents collided to form Pangaea. A minor marine and terrestrial extinction event, the Carboniferous rainforest collapse, occurred at the end of the period, caused by climate change.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Carboniferous)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Carboniferous) 
 
 
 #has_/label_/bg  :: Карбон

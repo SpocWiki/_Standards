@@ -202,7 +202,7 @@ ISNI: 0000000121364370
 > Tom Siegfried described Maxwell as "one of those once-in-a-century geniuses 
 > who perceived the physical world with sharper senses than those around him".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/James%20Clerk%20Maxwell)
+> [Wikipedia](https://en.wikipedia.org/wiki/James%20Clerk%20Maxwell) 
 
 
 ## Confidential Links & Embeds: 

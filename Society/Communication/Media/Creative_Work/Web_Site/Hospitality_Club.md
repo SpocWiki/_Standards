@@ -28,8 +28,6 @@ domain_name: hospitalityclub.org
 > [Wikipedia](https://en.wikipedia.org/wiki/Hospitality%20Club) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Site/Hospitality_Club|Hospitality_Club]] 

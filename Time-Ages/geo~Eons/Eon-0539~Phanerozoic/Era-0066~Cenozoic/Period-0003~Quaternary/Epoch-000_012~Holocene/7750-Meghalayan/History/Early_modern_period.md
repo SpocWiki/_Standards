@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1500-01-01 
-has_time_stopped: 1800-01-01 
+---
 aliases:
   - Early modern period
   - Early_modern_period
@@ -35,7 +33,7 @@ start_time: 1500-01-01T00:00:00Z
 >
 > Historians in recent decades have argued that, from a worldwide standpoint, the most important feature of the early modern period was its spreading globalizing character. New economies and institutions emerged, becoming more sophisticated and globally articulated over the course of the period. The early modern period also included the rise of the dominance of mercantilism as an economic theory. Other notable trends of the period include the development of experimental science, increasingly rapid technological progress, secularized civic politics, accelerated travel due to improvements in mapping and ship design, and the emergence of nation states.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Early%20modern%20period)
+> [Wikipedia](https://en.wikipedia.org/wiki/Early%20modern%20period) 
 
 
 ## Confidential Links & Embeds: 

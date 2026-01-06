@@ -209,7 +209,7 @@ Social_Security_Death_Index_entry: 026-22-3747
 >
 > On November 22, 1963, Kennedy was assassinated in Dallas. His vice president, Lyndon B. Johnson, assumed the presidency. Lee Harvey Oswald was arrested for the assassination, but he was shot and killed by Jack Ruby two days later. The FBI and the Warren Commission both concluded Oswald had acted alone, but conspiracy theories about the assassination persist. After Kennedy's death, Congress enacted many of his proposals, including the Civil Rights Act of 1964 and the Revenue Act of 1964. Kennedy ranks highly in polls of U.S. presidents with historians and the general public. His personal life has been the focus of considerable sustained interest following public revelations in the 1970s of his chronic health ailments and extramarital affairs. Kennedy is the most recent U.S. president to have died in office.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20F.%20Kennedy)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20F.%20Kennedy) 
 
 
 ## Confidential Links & Embeds: 

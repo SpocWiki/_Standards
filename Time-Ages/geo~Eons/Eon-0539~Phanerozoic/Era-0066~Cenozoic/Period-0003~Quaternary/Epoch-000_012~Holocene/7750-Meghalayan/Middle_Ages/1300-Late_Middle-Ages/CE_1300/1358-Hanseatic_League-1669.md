@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1358-01-01 
-has_time_stopped: 1862-01-01 
+---
 aliases:
   - Hanse
   - Hansa

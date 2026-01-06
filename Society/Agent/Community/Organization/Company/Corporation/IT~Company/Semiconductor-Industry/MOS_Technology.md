@@ -7,8 +7,7 @@
 > It is most famous for its 6502 microprocessor 
 > and various designs for Commodore International's range of home computers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/MOS%20Technology)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/MOS%20Technology) 
 
 
 1975 [[Peddle,Chuck]] was a Motorola Sales Agent, who realized that 

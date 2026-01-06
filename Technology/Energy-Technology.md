@@ -14,7 +14,7 @@ subclass_of: '[[_Standards/WikiData/WD~technology,11016]]'
 >
 > Thousands of people are employed in the energy industry. The conventional industry comprises the petroleum industry, the natural gas industry, the electrical power industry, and the nuclear industry. New energy industries include the renewable energy industry, comprising alternative and sustainable manufacture, distribution, and sale of alternative fuels.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Energy%20development)
+> [Wikipedia](https://en.wikipedia.org/wiki/Energy%20development) 
 
 
 ## Confidential Links & Embeds: 

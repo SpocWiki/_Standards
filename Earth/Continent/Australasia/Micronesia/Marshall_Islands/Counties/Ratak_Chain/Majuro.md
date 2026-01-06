@@ -110,7 +110,7 @@ maxZoom: 18
 > and flights to domestic destinations around the country. 
 > Its economy is primarily service sector-dominated.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Majuro)
+> [Wikipedia](https://en.wikipedia.org/wiki/Majuro) 
 
 
 ## Confidential Links & Embeds: 

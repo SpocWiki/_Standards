@@ -111,7 +111,7 @@ official_website: https://www.acm.org
 > 
 > The ACM is a non-profit professional membership group, reporting nearly 110,000 student and professional members as of 2022. Its headquarters are in New York City.The ACM is an umbrella organization for academic and scholarly interests in computer science (informatics). Its motto is "Advancing Computing as a Science & Profession".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Association%20for%20Computing%20Machinery)
+> [Wikipedia](https://en.wikipedia.org/wiki/Association%20for%20Computing%20Machinery) 
 
 
 ## Confidential Links & Embeds: 

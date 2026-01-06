@@ -32,7 +32,7 @@ aliases:
 > The integrity of some priming studies cited in the book 
 > has been called into question in the midst of the psychological replication crisis.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thinking,%20Fast%20and%20Slow)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thinking,%20Fast%20and%20Slow) 
 
 
 #is_/similar_to :: [[Denken hilft zwar, nützt aber Nichts]] 

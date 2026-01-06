@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1914-08-03 
-has_time_stopped: 1918-11-11 
+---
 aliases:
 has_id_wikidata: Q152989
 location:

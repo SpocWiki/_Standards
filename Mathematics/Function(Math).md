@@ -78,7 +78,7 @@ direction LR
 #is_/same_as :: [[../WikiData/WD~Function,11348|WD~Function,11348]] 
 ## Functions are single-Valued Relations
 
-__Functions__ are single-valued [[Relation(Math)]]s, that map to **exactly 1 Value**. 
+dv_Functions__ are single-valued [[Relation(Math)]]s, that map to **exactly 1 Value**. 
 Each n-ary function is equivalent to an (n+1)-ary Relation. 
 
 Storing Functions as [[../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/DotNET-Dictionaries|DotNET-Dictionaries]] makes them easier to reason about, 
@@ -134,7 +134,7 @@ Relations are equivalent to directed [[Graph(Math)]].
 > Functions are widely used in science, engineering, and in most fields of mathematics. 
 > It has been said that functions are "the central objects of investigation" in most fields of mathematics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Function%20(mathematics))
+> [Wikipedia](https://en.wikipedia.org/wiki/Function%20(mathematics)) 
 
 
 ![[Function(Math).svg]] 

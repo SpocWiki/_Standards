@@ -55,7 +55,8 @@ A time period from 298.9 to 293.51 million years ago.
 > It was preceded by the Gzhelian (the latest or uppermost subdivision in the Carboniferous) 
 > and followed by the [[Age~2~Sakmarian]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Asselian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Asselian) 
+
 
 #has_/label_/bg  :: пѿел
 #has_/label_/cs  :: Assel

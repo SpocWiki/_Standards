@@ -20,7 +20,7 @@ aliases:
 > and again in the 2016 film adaptation of Inferno, 
 > while Ashley Zukerman plays a younger version of the character in the TV series, The Lost Symbol.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Langdon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Langdon) 
 
 
 ## Confidential Links & Embeds: 

@@ -172,7 +172,7 @@ Instagram_username: the_imf
 >
 > Despite its stated mission, the IMF has been widely criticized for policies that centralize economic decision-making, impose conditions that limit national sovereignty, and entrench the influence of powerful governments over developing nations. Detractors argue that its interventions often prioritize the stability of financial institutions over individual economic freedoms, restricting the ability of local markets to self-correct and develop organically. Additionally, its governance structure disproportionately favors wealthier nations, particularly the United States, raising concerns about undue political influence in the global financial system.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/International%20Monetary%20Fund)
+> [Wikipedia](https://en.wikipedia.org/wiki/International%20Monetary%20Fund) 
 
 
 ## Confidential Links & Embeds: 

@@ -33,7 +33,7 @@
 > In 1974 the book was loosely adapted as the ninth film in the Eon Productions James Bond series, 
 > with Roger Moore playing Bond and Fleming's cousin, [[../../../Actor/British_Actor/Lee,Christopher]], as Scaramanga.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Man%20with%20the%20Golden%20Gun%20(novel))
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Man%20with%20the%20Golden%20Gun%20(novel)) 
 
 
 ## Confidential Links & Embeds: 

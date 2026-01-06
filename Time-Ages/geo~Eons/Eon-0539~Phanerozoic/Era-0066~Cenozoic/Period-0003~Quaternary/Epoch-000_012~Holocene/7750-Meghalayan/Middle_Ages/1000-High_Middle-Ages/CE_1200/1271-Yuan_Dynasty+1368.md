@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1271-01-01 
-has_time_stopped: 1368-01-01 
 location: [ 116.39 , 39.915 ] 
 aliases:
 has_id_wikidata: Q7313
@@ -115,7 +113,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Yuen%20Dyn
 >
 > Kublai, as a Khagan (Great Khan) of the Mongol Empire from 1260, had claimed supremacy over the other successor Mongol khanates: the Chagatai, the Golden Horde, and the Ilkhanate, before proclaiming as the Emperor of China in 1271. As such, the Yuan was also sometimes referred to as the Empire of the Great Khan. However, even though the claim of supremacy by the Yuan emperors was recognized by the western khans in 1304, their subservience was nominal and each continued its own separate development.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yuan%20dynasty)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Yuan%20dynasty) 
 
 
 ## Confidential Links & Embeds: 

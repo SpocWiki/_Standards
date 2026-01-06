@@ -39,7 +39,7 @@ aliases:
 > She has also directed ten episodes of the series 
 > as well as two episodes of the Netflix crime series Ozark in 2022.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robin%20Wright)
+> [Wikipedia](https://en.wikipedia.org/wiki/Robin%20Wright) 
 
 
 ## Confidential Links & Embeds: 

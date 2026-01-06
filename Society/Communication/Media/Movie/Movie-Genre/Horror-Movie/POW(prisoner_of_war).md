@@ -18,7 +18,7 @@ aliases:
 > collecting military and political intelligence from them, 
 > or indoctrinating them in new political or religious beliefs.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Prisoner%20of%20war)
+> [Wikipedia](https://en.wikipedia.org/wiki/Prisoner%20of%20war) 
 
 
 ## Confidential Links & Embeds: 

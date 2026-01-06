@@ -58,7 +58,7 @@ Wikidata_property:
 > A combination of hardware and software forms a usable computing system, 
 > although other systems exist with only hardware.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Computer%20hardware)
+> [Wikipedia](https://en.wikipedia.org/wiki/Computer%20hardware) 
 
 
 ## Confidential Links & Embeds: 

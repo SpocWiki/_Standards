@@ -420,7 +420,7 @@ Capital :: [[geo/Continent/Europe/Europe~South/Bosnia-Herzegovina/Counties/Saraj
 >
 > Bosnia and Herzegovina is a developing country and ranks 74th in the 2018 Human Development Index. Its economy is dominated by industry and agriculture, followed by tourism and the service sector. Tourism has increased significantly in recent years. The country has a social-security and universal-healthcare system, and primary and secondary level education is free. It is a member of the United Nations, the Organization for Security and Co-operation in Europe, the Council of Europe, the Partnership for Peace, and the Central European Free Trade Agreement; it is also a founding member of the Union for the Mediterranean, established in July 2008. Bosnia and Herzegovina is an EU candidate country and has also been a candidate for NATO membership since April 2010.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bosnia%20and%20Herzegovina)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bosnia%20and%20Herzegovina) 
 
 
 ## Confidential Links & Embeds: 

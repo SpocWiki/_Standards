@@ -72,7 +72,7 @@ markerFile: [[Malay_Archipelago]]
 >
 > Situated between the Indian and Pacific oceans, the archipelago of over 25,000 islands and islets is the largest archipelago by area and fifth by number of islands in the world. It includes Brunei, East Timor, Indonesia, Malaysia, Papua New Guinea, the Philippines, and Singapore The term is largely __synonymous with Maritime Southeast Asia__.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Malay%20Archipelago)
+> [Wikipedia](https://en.wikipedia.org/wiki/Malay%20Archipelago) 
 
 
 ```folderv

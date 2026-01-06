@@ -675,7 +675,8 @@ Population in 1000s as of @2024
 > as well as a member of the [[../../../../WikiData/WD~World Trade Organization]], [[../../../../../Knowledge/Literature/Workshop-Tactics/Ideation-Workshop/OECD]], [[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO]], 
 > and the [[../EU(European_Union)|European Union]] (including the [[../Schengen-Area]]).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Poland)
+> [Wikipedia](https://en.wikipedia.org/wiki/Poland) 
+
 
 ## Maps and Flags 
 

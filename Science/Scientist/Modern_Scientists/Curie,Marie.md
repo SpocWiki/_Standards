@@ -240,7 +240,7 @@ writing_language:
 > and Poland declared 2011 the Year of Marie Curie during the International Year of Chemistry. 
 > She is the subject of numerous biographical works.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marie%20Curie)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marie%20Curie) 
 
 
 ## Confidential Links & Embeds: 

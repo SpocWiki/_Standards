@@ -155,7 +155,7 @@ short_name: Windows
 >
 > The first version of Windows was released on 1985-11-20, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).Windows is the most popular desktop operating system in the world, with a 70% market share as of March 2023, according to StatCounter. However, Windows is not the most used operating system when including both mobile and desktop OSes, due to Android's massive growth.As of December 2023, the most recent version of Windows is Windows 11 for consumer PCs and tablets, Windows 11 Enterprise for corporations, and Windows Server 2022 for servers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Microsoft%20Windows)
+> [Wikipedia](https://en.wikipedia.org/wiki/Microsoft%20Windows) 
 
 
 ## Windows-Administration 

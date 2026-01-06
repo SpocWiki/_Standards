@@ -123,7 +123,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > Upon his death in 1947, he left most of his wealth to the Ford Foundation, 
 > and control of the company to his family.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Ford)
+> [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Ford) 
 
 
 ## Confidential Links & Embeds: 

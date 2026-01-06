@@ -46,7 +46,7 @@ GOST_7_75_97_code: них 497
 >
 > Nilo-Saharan is not accepted by all linguists. Glottolog (2013), for example, a publication of the Max Planck Institute in Germany, does not recognise the unity of the Nilo-Saharan family or even of the Eastern Sudanic branch; Georgiy Starostin (2016) likewise does not accept a relationship between the branches of Nilo-Saharan, though he leaves open the possibility that some of them may prove to be related to each other once the necessary reconstructive work is done. According to Güldemann (2018), "the current state of research is not sufficient to prove the Nilo-Saharan hypothesis."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nilo-Saharan%20languages)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nilo-Saharan%20languages) 
 
 
 ## Confidential Links & Embeds: 

@@ -66,7 +66,7 @@ Unicode_character: 🪟
 > Types include the 
 > - eyebrow window, fixed windows, hexagonal windows, single-hung, and double-hung sash windows, horizontal sliding sash windows, casement windows, awning windows, hopper windows, tilt, and slide windows (often door-sized), tilt and turn windows, transom windows, sidelight windows, jalousie or louvered windows, clerestory windows, lancet windows, skylights, roof windows, roof lanterns, bay windows, oriel windows, thermal, or Diocletian, windows, picture windows, rose windows, emergency exit windows, stained glass windows, French windows, panel windows, double/triple-paned windows, and witch windows.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Window)
+> [Wikipedia](https://en.wikipedia.org/wiki/Window) 
 
 
 ## Confidential Links & Embeds: 

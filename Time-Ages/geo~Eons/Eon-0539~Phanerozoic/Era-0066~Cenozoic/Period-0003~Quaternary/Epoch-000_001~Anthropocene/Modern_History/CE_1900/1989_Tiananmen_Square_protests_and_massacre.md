@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1989-04-15 
-has_time_stopped: 1989-06-04 
 location: [ 116.391666666 , 39.903333333 ] 
 aliases:
   - Tiananmen Square protests

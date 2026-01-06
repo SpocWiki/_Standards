@@ -24,7 +24,7 @@ Commons_category: Television channels
 > Many early television networks such as the BBC, CBC, PBS, PTV, NBC 
 > or ABC in the US and in Australia evolved from earlier radio networks.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Television%20broadcaster)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Television%20broadcaster) 
 
 
 ## Confidential Links & Embeds: 

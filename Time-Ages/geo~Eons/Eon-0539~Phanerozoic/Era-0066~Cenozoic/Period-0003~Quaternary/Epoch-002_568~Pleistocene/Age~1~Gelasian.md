@@ -66,7 +66,8 @@ A time period from 2.58 to 1.8 million years ago.
 > It follows the [[../../Period-0023~Neogene/Epoch-005~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]] Stage (part of the Pliocene) 
 > and is followed by the [[Age~2~Calabrian]] Stage.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gelasian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gelasian) 
+
 
 #has_/label_/cs  :: Gelas
 #has_/label_/da  :: Gelasian

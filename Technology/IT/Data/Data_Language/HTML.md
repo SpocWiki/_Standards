@@ -106,7 +106,8 @@ issue_tracker_URL: https://github.com/whatwg/html/issues
 >
 > HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. The inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997. A form of HTML, known as HTML5, is used to display video and audio, primarily using the < canvas> element, together with JavaScript.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/HTML)
+> [Wikipedia](https://en.wikipedia.org/wiki/HTML) 
+
 
 ## Cleanup 
 

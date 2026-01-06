@@ -96,7 +96,7 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 > and greatly influenced Western art and literature. 
 > The Metamorphoses remains one of the most important sources of classical mythology today.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ovid)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ovid) 
 
 
 ## Confidential Links & Embeds: 

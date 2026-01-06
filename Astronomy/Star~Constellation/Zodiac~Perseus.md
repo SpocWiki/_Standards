@@ -62,7 +62,7 @@ official_name: Perseus
 >
 > The galactic plane of the Milky Way passes through Perseus, whose brightest star is the yellow-white supergiant Alpha Persei (also called Mirfak), which shines at magnitude 1.79. It and many of the surrounding stars are members of an open cluster known as the Alpha Persei Cluster. The best-known star, however, is Algol (Beta Persei), linked with ominous legends because of its variability, which is noticeable to the naked eye. Rather than being an intrinsically variable star, it is an eclipsing binary. Other notable star systems in Perseus include X Persei, a binary system containing a neutron star, and GK Persei, a nova that peaked at magnitude 0.2 in 1901. The Double Cluster, comprising two open clusters quite near each other in the sky, was known to the ancient Chinese. The constellation gives its name to the Perseus Cluster (Abell 426), a massive galaxy cluster located 250 million light-years from Earth. It hosts the radiant of the annual Perseids meteor shower—one of the most prominent meteor showers in the sky.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Perseus%20(constellation))
+> [Wikipedia](https://en.wikipedia.org/wiki/Perseus%20(constellation)) 
 
 
 ## Confidential Links & Embeds: 

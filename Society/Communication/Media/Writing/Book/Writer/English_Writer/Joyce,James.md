@@ -205,7 +205,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > because if I can get to the heart of Dublin I can get to the heart of all the cities of the world. 
 > In the particular is contained the universal."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/James%20Joyce)
+> [Wikipedia](https://en.wikipedia.org/wiki/James%20Joyce) 
 
 
 ## Confidential Links & Embeds: 

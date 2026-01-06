@@ -7,6 +7,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Memistor) 
 
+
 ## History
 
 While the [memristor](https://en.wikipedia.org/wiki/Memristor "Memristor") is defined in terms of a two-terminal circuit element, there was an implementation of a three-terminal device called a _memistor_ developed by [Bernard Widrow](https://en.wikipedia.org/wiki/Bernard_Widrow "Bernard Widrow") in 1960. 

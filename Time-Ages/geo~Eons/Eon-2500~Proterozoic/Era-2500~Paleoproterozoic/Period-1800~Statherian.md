@@ -48,7 +48,8 @@ sRGB_color_hex_triplet: F875A7
 > 
 > Instead of being based on stratigraphy, these dates are defined chronometrically.The period was characterized on most continents by either new platforms or final cratonization of fold belts. Oxygen levels were 10% to 20% of current values.Rafatazmia, controversially claimed to be present in Statherian beds in India, may be the oldest known confirmably eukaryotic fossil organism.By the beginning of the Statherian, the supercontinent Columbia had assembled.Approximately 1.7 billion years ago, a series of natural nuclear fission reactors was operational in what is now Oklo, Gabon.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Statherian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Statherian) 
+
 
 #has_/label_/bg  :: Статер
 #has_/label_/cs  :: Stather

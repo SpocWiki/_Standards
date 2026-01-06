@@ -157,7 +157,7 @@ wears: "[[_Standards/WikiData/WD~Neil_Armstrong's_spacesuit_for_Apollo_11,633443
 >
 > After he resigned from NASA in 1971, Armstrong taught in the Department of Aerospace Engineering at the University of Cincinnati until 1979. He served on the Apollo 13 accident investigation and on the Rogers Commission, which investigated the Space Shuttle Challenger disaster. In 2012, Armstrong died because of complications resulting from coronary bypass surgery, at the age of 82.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neil%20Armstrong)
+> [Wikipedia](https://en.wikipedia.org/wiki/Neil%20Armstrong) 
 
 
 ## Confidential Links & Embeds: 

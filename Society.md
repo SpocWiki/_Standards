@@ -107,7 +107,7 @@ This Folder also covers all types of social Sciences:
 > Human behavior varies immensely between different societies; 
 > humans shape society, but society in turn shapes human beings.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Society)
+> [Wikipedia](https://en.wikipedia.org/wiki/Society) 
 
 
 ## Confidential Links & Embeds: 

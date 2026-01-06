@@ -38,7 +38,7 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~business_activity,19862406]]"
 > 
 > It is also applied to such diverse subjects as crime, education, the family, feminism, law, philosophy, politics, religion, social institutions, war, science, and the environment.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Economics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Economics) 
 
 
 ## Confidential Links & Embeds: 

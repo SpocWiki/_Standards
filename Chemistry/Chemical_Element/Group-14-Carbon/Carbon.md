@@ -104,7 +104,6 @@ ZVG_number: 8040
 
 ## #has_/text_of_/abstract 
 
-
 > **Carbon** (from Latin  carbo 'coal') is a chemical element with the symbol (Abbr::C) and atomic number (Charge-e::6). 
 > It is nonmetallic and tetravalent—its atom making 
 > four electrons available to form covalent chemical bonds. 
@@ -131,7 +130,7 @@ ZVG_number: 8040
 >
 > The most common oxidation state of carbon in inorganic compounds is +4, while +2 is found in carbon monoxide and transition metal carbonyl complexes. The largest sources of inorganic carbon are limestones, dolomites and carbon dioxide, but significant quantities occur in organic deposits of coal, peat, oil, and methane clathrates. Carbon forms a vast number of compounds, with almost ten million compounds described to date, and yet that number is but a fraction of the number of theoretically possible compounds under standard conditions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Carbon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Carbon) 
 
 
 ## Confidential Links & Embeds: 

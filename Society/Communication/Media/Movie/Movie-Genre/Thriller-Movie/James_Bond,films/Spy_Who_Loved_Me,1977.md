@@ -31,7 +31,7 @@ aliases:
 > The film was nominated for three Academy Awards amid many other nominations 
 > and novelised in 1977 by Christopher Wood as James Bond, The Spy Who Loved Me.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Spy%20Who%20Loved%20Me%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Spy%20Who%20Loved%20Me%20(film)) 
 
 
 ## Confidential Links & Embeds: 

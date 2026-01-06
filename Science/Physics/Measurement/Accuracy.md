@@ -30,8 +30,6 @@ Accuracy describes the Influence of **systematic errors**.
 > [Wikipedia](https://en.wikipedia.org/wiki/Accuracy%20and%20precision) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Physics/Measurement/Accuracy|Accuracy]] 

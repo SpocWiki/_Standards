@@ -32,7 +32,6 @@ type: geo-Region
 
 ## #has_/text_of_/abstract 
 
-
 > Scarborough Shoal, also known as Bajo de Masinloc ("Masinloc shoal" in Spanish), Huangyan Island (Mandarin Chinese: 黄岩岛; pinyin: Huáng Yán Dǎo; lit. 'yellow rock island'),  Minzhu Jiao (Mandarin Chinese: 民主礁; lit. 'Democracy Reef') and Panatag Shoal (Filipino: Kulumpol ng Panatag, lit. 'serene cluster'), are two skerries (rocks) located between Macclesfield Bank to the west and Luzon to the east. Luzon is 220 kilometres (119 nmi) away and the nearest landmass. 
 > 
 > The atoll is a disputed territory claimed by the Republic of the Philippines through the 1734 Velarde map, while the People's Republic of China and the Republic of China (Taiwan) claim it through the disputed nine-dash line (originally an eleven-dash line which included waters in the Gulf of Tonkin). 
@@ -46,7 +45,8 @@ type: geo-Region
 > 
 > The atoll was named by Captain Philip D'Auvergne, whose East India Company East Indiaman Scarborough grounded on one of the rocks on 12 September 1784, before sailing on to China, although it already had a Spanish name recorded in the 1734 Velarde map of Spanish Philippines.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Scarborough%20Shoal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Scarborough%20Shoal) 
+
 
 ## #has_/map  
 

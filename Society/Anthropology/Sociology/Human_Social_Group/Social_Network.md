@@ -37,7 +37,7 @@ MeSH_tree_code: L01.143.910
 >
 > Social networks and the analysis of them is an inherently interdisciplinary academic field which emerged from social psychology, sociology, statistics, and graph theory. Georg Simmel authored early structural theories in sociology emphasizing the dynamics of triads and "web of group affiliations". Jacob Moreno is credited with developing the first sociograms in the 1930s to study interpersonal relationships. These approaches were mathematically formalized in the 1950s and theories and methods of social networks became pervasive in the social and behavioral sciences by the 1980s. Social network analysis is now one of the major paradigms in contemporary sociology, and is also employed in a number of other social and formal sciences. Together with other complex networks, it forms part of the nascent field of network science.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Social%20network)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Social%20network) 
 
 
 ## Confidential Links & Embeds: 

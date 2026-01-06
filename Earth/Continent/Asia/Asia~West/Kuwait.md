@@ -405,7 +405,8 @@ Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]
 >
 > Kuwait is considered to be a pioneer in the region when it comes to the arts and popular culture, often called the "Hollywood of the Gulf"; the nation started the oldest modern arts movement in the Arabian Peninsula and is known to have created among the leading artists in the region. Kuwaiti popular culture, in the form of theatre, radio, music, and television soap opera, is exported to neighboring Gulf Cooperation Council (GCC) states. Kuwait is a founding member of the GCC and is also a member of the United Nations, the Arab League, and OPEC.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kuwait)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kuwait) 
+
 
 |Governorate|[ISO 3166-2:KW](https://en.wikipedia.org/wiki/ISO_3166-2:KW "ISO 3166-2:KW")|Formation|Population|Area (km2)|Notes|
 |---|---|---|---|---|---|

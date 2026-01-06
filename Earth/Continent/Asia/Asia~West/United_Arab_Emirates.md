@@ -570,7 +570,7 @@ By <a href="//commons.wikimedia.org/wiki/User:NuclearVacuum" title="User:Nuclear
 >
 > Human rights organisations consider the UAE substandard on human rights, ranking only 6.06 in the human freedom index, citing reports of government critics being imprisoned and tortured, families harassed by the state security apparatus, and cases of forced disappearances. Individual rights such as the freedoms of assembly, association, expression, and the freedom of the press are severely repressed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20Arab%20Emirates)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Arab%20Emirates) 
 
 
 ## Confidential Links & Embeds: 

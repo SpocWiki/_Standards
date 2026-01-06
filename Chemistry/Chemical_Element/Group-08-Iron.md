@@ -21,7 +21,7 @@ type: ElementGroup
 >
 > While groups (columns) of the periodic table are sometimes named after their lighter member (as in "the oxygen group" for group 16), the term iron group does not mean "group 8".  Most often, it means a set of adjacent elements on period (row) 4 of the table that includes iron, such as chromium, manganese, iron, cobalt, and nickel, or only the last three, or some other set, depending on the context.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Group%208%20element)
+> [Wikipedia](https://en.wikipedia.org/wiki/Group%208%20element) 
 
 
 ## Confidential Links & Embeds: 

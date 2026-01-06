@@ -36,8 +36,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dolores%20O'Riordan) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)/O'Riordan,Dolores|O'Riordan,Dolores]] 

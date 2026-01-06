@@ -101,7 +101,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/medicine
 > remain commonly used in the absence of scientific medicine and are thus called alternative medicine. 
 > Alternative treatments outside of scientific medicine with ethical, safety and efficacy concerns are termed quackery.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Medicine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Medicine) 
 
 
 ## Confidential Links & Embeds: 

@@ -158,7 +158,7 @@ birth_name: Richard Matthew Stallman
 > Stallman remained head of the GNU Project, 
 > and in 2021 returned to the FSF board of directors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Stallman)
+> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Stallman) 
 
 
 ## Confidential Links & Embeds: 

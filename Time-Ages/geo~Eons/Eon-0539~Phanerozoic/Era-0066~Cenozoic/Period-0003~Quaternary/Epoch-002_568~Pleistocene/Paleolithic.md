@@ -83,7 +83,7 @@ defined by climatic and environmental changes, particularly the **glacial–inte
 > By the end of the Upper Paleolithic Age humans had crossed Beringia 
 > and expanded throughout the Americas continents.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paleolithic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Paleolithic) 
 
 
 ## Confidential Links & Embeds: 

@@ -42,10 +42,7 @@ Participants were Quakers and black People.
 > by the end of the American Civil War 500,000 or more African Americans 
 > self-emancipated themselves from slavery on the Underground Railroad.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Underground%20Railroad)
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Underground%20Railroad) 
 
 
 ## Confidential Links & Embeds: 

@@ -15,7 +15,7 @@
 > to negative reviews and was a commercial failure. 
 > It was later released on DVD and Blu-ray on April 14, 2009.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Spirit%20(2008%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Spirit%20(2008%20film)) 
 
 
 ## Confidential Links & Embeds: 

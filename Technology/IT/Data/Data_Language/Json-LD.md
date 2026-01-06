@@ -43,7 +43,8 @@ JSON-Linked Data
 
 > **JSON-LD** (JavaScript Object Notation for Linked Data) is a method of encoding linked data using JSON. One goal for JSON-LD was to require as little effort as possible from developers to transform their existing JSON to JSON-LD. JSON-LD allows data to be serialized in a way that is similar to traditional JSON. It was initially developed by the JSON for Linking Data Community Group before being transferred to the W3C RDF Working Group for review, improvement, and standardization, and is currently maintained by the W3C JSON-LD Working Group. JSON-LD is a W3C (World Wide Web Consortium) Recommendation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/JSON-LD)
+> [Wikipedia](https://en.wikipedia.org/wiki/JSON-LD) 
+
 
 JSON-LD defines a @context: Property 
 to map Json Properties to a specified @id, @type or @language. 

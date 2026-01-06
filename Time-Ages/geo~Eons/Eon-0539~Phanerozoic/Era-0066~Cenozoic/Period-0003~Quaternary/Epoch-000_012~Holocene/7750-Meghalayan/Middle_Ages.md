@@ -147,7 +147,6 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/middle_ages
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Ages) 
 
 
-
 ## All Contents
 
 ```folderv

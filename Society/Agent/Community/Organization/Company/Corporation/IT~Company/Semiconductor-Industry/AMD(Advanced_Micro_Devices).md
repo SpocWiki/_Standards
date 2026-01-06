@@ -27,7 +27,7 @@
 > which were considerably more competitive with Intel microprocessors 
 > in terms of their performance in business applications, including cloud applications.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/AMD)
+> [Wikipedia](https://en.wikipedia.org/wiki/AMD) 
 
 
 ## Confidential Links & Embeds: 

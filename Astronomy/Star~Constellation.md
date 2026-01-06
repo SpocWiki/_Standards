@@ -102,7 +102,7 @@ The Milky Way is projected as a white Band  through the Equator formed by the Ea
 > Examples of asterisms include the teapot within the constellation Sagittarius, 
 > or the Big Dipper in the constellation of Ursa Major.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Constellation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Constellation) 
 
 
 ![[Star~Constellation/Zodiac_DbFolder]]

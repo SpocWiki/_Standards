@@ -26,7 +26,7 @@ aliases:
 > the number of objects an average human can hold in short-term memory is 7 ± 2. 
 > This has occasionally been referred to as Miller's law.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Magical%20Number%20Seven,%20Plus%20or%20Minus%20Two)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Magical%20Number%20Seven,%20Plus%20or%20Minus%20Two) 
 
 
 ## Confidential Links & Embeds: 

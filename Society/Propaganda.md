@@ -91,7 +91,7 @@ Part of Propaganda is the creation of Panic, not only Urgency.
 > for example, bots and algorithms are currently being used to create computational propaganda 
 > and [[../../../Life/Politics/Fake_News|fake news]] or biased news and spread it on social media.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Propaganda)
+> [Wikipedia](https://en.wikipedia.org/wiki/Propaganda) 
 
 
 ## Confidential Links & Embeds: 

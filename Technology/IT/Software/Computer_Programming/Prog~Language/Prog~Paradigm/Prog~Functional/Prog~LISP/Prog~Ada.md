@@ -80,7 +80,7 @@ Commons_category: Ada (programming language)
 > Ada was originally designed by a team led by French computer scientist Jean Ichbiah of Honeywell under contract to the United States Department of Defense (DoD) from 1977 to 1983 to supersede over 450 programming languages used by the DoD at that time. 
 > Ada was named after Ada Lovelace (1815–1852), who has been credited as the first computer programmer.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ada%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Ada%20(programming%20language)) 
 
 
 ## Confidential Links & Embeds: 

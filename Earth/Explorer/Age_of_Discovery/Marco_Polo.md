@@ -103,7 +103,7 @@ work_location:
 >
 > Though he was not the first European to reach China, Marco Polo was the first to leave a detailed chronicle of his experience. His account provided the Europeans with a clear picture of the East's geography and ethnic customs, and it included the first Western record of porcelain,  gunpowder, paper money, and some Asian plants and exotic animals. His narrative inspired Christopher Columbus and many other travellers. There is substantial literature based on Polo's writings; he also influenced European cartography, leading to the introduction of the Catalan Atlas and the Fra Mauro map.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marco%20Polo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marco%20Polo) 
 
 
 ## Confidential Links & Embeds: 

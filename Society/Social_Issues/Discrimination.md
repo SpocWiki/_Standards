@@ -78,7 +78,7 @@ U_S_National_Archives_Identifier: 10639691
 >
 > Discriminatory traditions, policies, ideas, practices and laws exist in many countries and institutions in all parts of the world, including some, where such discrimination is generally decried. In some places, countervailing measures such as quotas have been used to redress the balance in favor of those who are believed to be current or past victims of discrimination. These attempts have often been met with controversy, and sometimes been called reverse discrimination.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Discrimination)
+> [Wikipedia](https://en.wikipedia.org/wiki/Discrimination) 
 
 
 ## Confidential Links & Embeds: 

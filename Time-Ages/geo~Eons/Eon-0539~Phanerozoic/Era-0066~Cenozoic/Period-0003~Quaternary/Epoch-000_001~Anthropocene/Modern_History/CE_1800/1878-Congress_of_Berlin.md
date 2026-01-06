@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1878-06-13 
-has_time_stopped: 1878-07-13 
 location: [ 13.381944444 , 52.511666666 ] 
 aliases:
   - Congress of Berlin

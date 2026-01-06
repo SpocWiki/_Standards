@@ -149,7 +149,7 @@ Commons_category: Smallpox
 >
 > The United States and Russia retain samples of variola virus in laboratories, which has sparked debates over safety.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Smallpox)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Smallpox) 
 
 
 ## Confidential Links & Embeds: 

@@ -47,7 +47,7 @@ aliases:
 > his ability to synthesize sculpture, painting, and architecture into a coherent conceptual and visual whole 
 > has been termed by the late art historian Irving Lavin the "unity of the visual arts".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gian%20Lorenzo%20Bernini)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gian%20Lorenzo%20Bernini) 
 
 
 ## Confidential Links & Embeds: 

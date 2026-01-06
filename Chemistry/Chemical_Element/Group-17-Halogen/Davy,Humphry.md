@@ -29,7 +29,7 @@ aliases:
 > Berzelius called Davy's 1806 Bakerian Lecture "On Some Chemical Agencies of Electricity" 
 > "one of the best memoirs which has ever enriched the theory of chemistry."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Humphry%20Davy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Humphry%20Davy) 
 
 
 ## Confidential Links & Embeds: 

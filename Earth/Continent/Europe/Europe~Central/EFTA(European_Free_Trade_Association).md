@@ -56,7 +56,7 @@ Its members in 2024 are `$=dv.current().has_member`.
 > with compliances regulated by the EFTA Surveillance Authority and the EFTA Court. 
 > Switzerland has a set of multilateral agreements with the EU and its member states instead.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/European%20Free%20Trade%20Association)
+> [Wikipedia](https://en.wikipedia.org/wiki/European%20Free%20Trade%20Association) 
 
 
 ## Confidential Links & Embeds: 

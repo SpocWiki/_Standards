@@ -69,7 +69,7 @@ uses:
 >
 > The first photosynthetic organisms probably evolved early in the evolutionary history of life using reducing agents such as hydrogen or hydrogen sulfide, rather than water, as sources of electrons. Cyanobacteria appeared later; the excess oxygen they produced contributed directly to the oxygenation of the Earth, which rendered the evolution of complex life possible. The average rate of energy captured by global photosynthesis is approximately 130 terawatts, which is about eight times the total power consumption of human civilization. Photosynthetic organisms also convert around 100–115 billion tons (91–104 Pg petagrams, or billions of metric tons), of carbon into biomass per year. Photosynthesis was discovered in 1779 by Jan Ingenhousz who showed that plants need light, not just soil and water.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Photosynthesis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Photosynthesis) 
 
 
 ## Confidential Links & Embeds: 

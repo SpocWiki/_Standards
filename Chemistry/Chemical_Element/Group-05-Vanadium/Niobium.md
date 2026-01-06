@@ -96,7 +96,6 @@ ZVG_number: 7410
 
 ## #has_/text_of_/abstract 
 
-
 > **Niobium** is a chemical element 
 > with chemical symbol (Abbr::Nb) (formerly columbium, Cb) and atomic number (Charge-e::41). 
 > 
@@ -129,7 +128,7 @@ ZVG_number: 7410
 >
 > Niobium is used in various superconducting materials. These alloys, also containing titanium and tin, are widely used in the superconducting magnets of MRI scanners. Other applications of niobium include welding, nuclear industries, electronics, optics, numismatics, and jewelry. In the last two applications, the low toxicity and iridescence produced by anodization are highly desired properties. Niobium is considered a technology-critical element.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Niobium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Niobium) 
 
 
 ## Confidential Links & Embeds: 

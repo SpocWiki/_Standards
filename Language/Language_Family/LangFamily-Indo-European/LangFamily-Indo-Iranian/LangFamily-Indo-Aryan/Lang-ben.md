@@ -29,7 +29,6 @@ type: Lang
 
 ## #has_/text_of_/abstract 
 
-
 > Bengali, generally known by its endonym Bangla (বাংলা [ˈbaŋla] ), 
 > is an Indo-Aryan language native to the Bengal region of South Asia. 
 > 
@@ -86,7 +85,7 @@ type: Lang
 > In 1999, UNESCO recognized 21 February as International Mother Language Day 
 > in recognition of the language movement.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bengali%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bengali%20language) 
 
 
 ## Confidential Links & Embeds: 

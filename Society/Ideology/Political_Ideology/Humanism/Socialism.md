@@ -66,7 +66,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_socialism,39087403]]"
 >
 > Although the emergence of the Soviet Union as the world's first nominally socialist state led to widespread association of socialism with the Soviet economic model, it has since shifted in favour of democratic socialism. Academics recognised the mixed economies of several Western European and Nordic countries as "democratic socialist". Following the revolutions of 1989, many of these countries moved away from socialism as a neoliberal consensus replaced the social democratic consensus in the advanced capitalist world. In parallel, many former socialist politicians and political parties embraced "Third Way" politics, remaining committed to equality and welfare while abandoning public ownership and class-based politics. Socialism experienced a resurgence in popularity in the 2010s.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Socialism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Socialism) 
 
 
 ## Confidential Links & Embeds: 

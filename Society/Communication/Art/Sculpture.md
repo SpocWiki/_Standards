@@ -99,7 +99,7 @@ Commons_category: Sculpturing
 > with the making of constructed sculpture, 
 > and the presentation of found objects as finished artworks.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sculpture)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sculpture) 
 
 
 ## Confidential Links & Embeds: 

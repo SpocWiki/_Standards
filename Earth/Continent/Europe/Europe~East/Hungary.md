@@ -646,7 +646,7 @@ Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]
 >
 > Hungary is a high-income economy with universal health care and tuition-free secondary education. Hungary has a long history of significant contributions to arts, music, literature, sports, science and technology. It is a popular tourist destination in Europe, drawing 24.5 million international visitors in 2019. Hungary is a member of numerous international organisations, including the Council of Europe, European Union, NATO, United Nations, World Health Organization, World Trade Organization, World Bank, Asian Infrastructure Investment Bank, and the Visegrád Group.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hungary)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hungary) 
 
 
 ## Confidential Links & Embeds: 

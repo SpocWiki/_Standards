@@ -200,7 +200,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/UELLS_GERBERT_DZHO
 > Wells was a diabetic 
 > and co-founded the charity The Diabetic Association (Diabetes UK) in 1934.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/H.%20G.%20Wells)
+> [Wikipedia](https://en.wikipedia.org/wiki/H.%20G.%20Wells) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 0732-01-01 
-has_time_stopped: 1492-01-11 
+---
 aliases:
 has_id_wikidata: Q79791
 participant:

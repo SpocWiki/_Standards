@@ -92,7 +92,7 @@ UNII: Q70I3KBF4W
 > and all of its isotopes having relatively short half-lives, 
 > there are currently no uses for it outside basic scientific research.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fermium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fermium) 
 
 
 ## Confidential Links & Embeds: 

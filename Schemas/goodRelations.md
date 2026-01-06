@@ -45,7 +45,8 @@ type: private note
 > 
 > In November 2012, it was integrated into the Schema.org ontology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/GoodRelations)
+> [Wikipedia](https://en.wikipedia.org/wiki/GoodRelations) 
+
 
 Consequently it uses the `schema` Prefix for its Definitions. 
 

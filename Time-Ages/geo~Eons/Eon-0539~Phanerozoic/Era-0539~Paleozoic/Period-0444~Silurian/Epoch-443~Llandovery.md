@@ -47,7 +47,7 @@ A time period from 443.8 to 433.4 million years ago.
 >
 > The Llandoverian Epoch ended with the [[Ireviken-event]] which killed off 50% of trilobite species, and 80% of the global conodont species.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Llandovery%20Epoch)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Llandovery%20Epoch) 
 
 
 #has_/label_/bg  :: Лиандовери

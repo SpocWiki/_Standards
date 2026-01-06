@@ -11,7 +11,6 @@ A time period from 201.4 to 199.5 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Hettangian** is the earliest age and lowest stage of the Jurassic Period. 
 > 
 > It spans the time between 201.3 ± 0.2 Ma and 199.3 ± 0.3 Ma (million years ago).  
@@ -26,7 +25,8 @@ A time period from 201.4 to 199.5 million years ago.
 > Another example is the lower Lias from the Northern Limestone Alps 
 > where well-preserved but very rare ammonites, including Alsatites, have been found.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hettangian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hettangian) 
+
 
 #has_/label_/bg  :: Хетанж
 #has_/label_/cs  :: Hettang

@@ -57,7 +57,7 @@ A time period from 458.4 to 443.8 million years ago.
 > 
 > Brachiopods, bryozoans and echinoderms were also heavily affected, and the endocerid cephalopods died out completely, except for possible rare Silurian forms. The Ordovician-Silurian Extinction Events may have been caused by an ice age that occurred at the end of the Ordovician period as the end of the Late Ordovician was __one of the coldest times in the last 600 million years of earth history__.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Ordovician)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Ordovician) 
 
 
 #has_/label_/bg  :: Къѿен Ордовик

@@ -75,7 +75,7 @@ The Name is derived from the roman goddess [[../../../../../../../../../../../Ph
 > which reduce the impact on soil and improve biodiversity, 
 > such as no-till farming and intercropping.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cereal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cereal) 
 
 
 ## Inheritance among Cereal 

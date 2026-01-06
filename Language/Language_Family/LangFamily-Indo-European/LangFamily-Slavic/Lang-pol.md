@@ -204,7 +204,7 @@ OpenStreetMap_key: language:pl
 > in countries such as Canada, Argentina, Brazil, Israel, Australia, 
 > the United Kingdom and the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Polish%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Polish%20language) 
 
 
 ## Confidential Links & Embeds: 

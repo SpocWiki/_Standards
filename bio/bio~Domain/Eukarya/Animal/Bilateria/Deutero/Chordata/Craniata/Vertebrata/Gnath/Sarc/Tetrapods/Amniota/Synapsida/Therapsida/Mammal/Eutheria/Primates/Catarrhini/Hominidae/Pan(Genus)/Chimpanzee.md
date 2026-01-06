@@ -80,10 +80,6 @@ EPPO_Code: PANZTR
 > [Wikipedia](https://en.wikipedia.org/wiki/Chimpanzee) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus)/Chimpanzee|Chimpanzee]] 

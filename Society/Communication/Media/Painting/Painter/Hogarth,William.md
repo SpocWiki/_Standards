@@ -214,7 +214,7 @@ ISNI: 0000000120993749
 >
 > Influenced by French and Italian painting and engraving, Hogarth's works are mostly satirical caricatures, sometimes bawdily sexual, mostly of the first rank of realistic portraiture. They became widely popular and mass-produced via prints in his lifetime, and he was by far the most significant English artist of his generation. Charles Lamb deemed Hogarth's images to be books, filled with "the teeming, fruitful, suggestive meaning of words. Other pictures we look at; his pictures we read."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/William%20Hogarth)  
+> [Wikipedia](https://en.wikipedia.org/wiki/William%20Hogarth) 
 
 
 ## Confidential Links & Embeds: 

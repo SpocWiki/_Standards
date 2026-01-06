@@ -38,7 +38,7 @@
 > 
 > These devices were frequently adorned with carvings of creatures.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spear)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Spear) 
 
 
 ## Confidential Links & Embeds: 

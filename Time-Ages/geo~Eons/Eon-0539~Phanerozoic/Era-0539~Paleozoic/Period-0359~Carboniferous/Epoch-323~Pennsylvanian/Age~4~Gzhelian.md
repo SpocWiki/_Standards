@@ -52,7 +52,7 @@ A time period from 303.7 to 298.9 million years ago.
 >
 > The Gzhelian is more or less coeval with the Stephanian Stage of the regional stratigraphy of Europe.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gzhelian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Gzhelian) 
 
 
 #has_/label_/bg  :: Гжел

@@ -76,6 +76,7 @@ i.e. high Emotion.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Equanimity) 
 
+
 The Set-Point Theory documents the fact that People return to their specific emotional Set Point even after strong emotional Disturbances. 
 
 ## Emotionale Stabilität 

@@ -91,7 +91,7 @@ hashtag_: woman
 >
 > The glyph (♀) for the planet and Roman goddess Venus, or Aphrodite in Greek, is the symbol used to represent the female sex. In ancient alchemy, the Venus symbol stood for copper and was associated with femininity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Woman)
+> [Wikipedia](https://en.wikipedia.org/wiki/Woman) 
 
 
 ## Confidential Links & Embeds: 

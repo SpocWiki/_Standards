@@ -32,9 +32,6 @@ tags: mediaDB/book
 > [Wikipedia](https://en.wikipedia.org/wiki/Nexus:%20A%20Brief%20History%20of%20Information%20Networks%20from%20the%20Stone%20Age%20to%20AI) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[Nexus(2024)|Nexus(2024)]] 

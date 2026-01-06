@@ -27,7 +27,7 @@ aliases:
 > so he could allocate more time toward artificial general intelligence (AGI). 
 > In 2022, he left Oculus to work on his AGI startup, Keen Technologies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Carmack)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Carmack) 
 
 
 ## Confidential Links & Embeds: 

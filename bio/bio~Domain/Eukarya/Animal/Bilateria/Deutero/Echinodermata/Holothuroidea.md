@@ -15,7 +15,6 @@ Sea cucumbers
 
 ## #has_/text_of_/abstract 
 
-
 > Sea cucumbers are echinoderms from the class **Holothuroidea** ( HOL-ə-thyuu-ROY-dee-ə, HOH-lə-). 
 > They are benthic marine animals found on the sea floor worldwide, 
 > and the number of known holothuroid species worldwide is about 1,786, 
@@ -30,7 +29,8 @@ Sea cucumbers
 >
 > Many species of sea cucumbers are foraged as food by humans, and some species are cultivated in aquaculture systems. They are considered a delicacy seafood, especially in Asian cuisines, and the harvested product is variously referred to as trepang, namako, bêche-de-mer, or balate.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sea%20cucumber)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sea%20cucumber) 
+
 
 ### Information on the Internet
 

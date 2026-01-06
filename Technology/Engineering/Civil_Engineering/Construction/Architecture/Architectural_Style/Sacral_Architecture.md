@@ -57,7 +57,7 @@ Commons_category: Religious architecture
 > Sacred geometry, iconography, and the use of sophisticated semiotics 
 > such as signs, symbols and religious motifs are endemic to sacred architecture.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sacral%20architecture)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Sacral%20architecture) 
 
 
 ## Confidential Links & Embeds: 

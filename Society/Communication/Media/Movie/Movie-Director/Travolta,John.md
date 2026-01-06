@@ -35,7 +35,7 @@ aliases:
 > such as Grease: The Original Soundtrack from the Motion Picture (1978)–
 > which topped the Billboard 200. Travolta is also a private pilot.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Travolta)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Travolta) 
 
 
 ## Confidential Links & Embeds: 

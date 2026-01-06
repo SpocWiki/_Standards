@@ -56,8 +56,6 @@ time_of_discovery_or_invention: 2000-07-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Livermorium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium|Livermorium]] 

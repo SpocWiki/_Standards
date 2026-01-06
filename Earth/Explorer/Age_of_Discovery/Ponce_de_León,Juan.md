@@ -78,7 +78,7 @@ date_of_death: 1521-01-01T00:00:00Z
 >
 > In March 1521, Ponce de León finally returned to Southwest Florida with the first large-scale attempt to establish a Spanish colony in what is now the continental United States. However, the native Calusa people fiercely resisted the incursion, and Ponce de Léon was seriously wounded in a skirmish. The colonization attempt was abandoned, and he died from his wounds soon after returning to Cuba in early July. He was interred in Puerto Rico; his tomb is located inside the Cathedral of San Juan Bautista in San Juan.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Juan%20Ponce%20de%20Le%C3%B3n)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Juan%20Ponce%20de%20Le%C3%B3n) 
 
 
 ## Confidential Links & Embeds: 

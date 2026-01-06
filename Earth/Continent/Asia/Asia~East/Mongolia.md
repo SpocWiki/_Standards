@@ -466,7 +466,7 @@ Capital :: [[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator]]
 >
 > Approximately 30% of the population is nomadic or semi-nomadic; horse culture remains integral. Buddhism is the majority religion (51.7%), with the nonreligious being the second-largest group (40.6%). Islam is the third-largest religious identification (3.2%), concentrated among ethnic Kazakhs. The vast majority of citizens are ethnic Mongols, with roughly 5% of the population being Kazakhs, Tuvans, and other ethnic minorities, who are especially concentrated in the western regions. Mongolia is a member of the United Nations, Asia Cooperation Dialogue, G77, Asian Infrastructure Investment Bank, Non-Aligned Movement and a NATO global partner. Mongolia joined the World Trade Organization in 1997 and seeks to expand its participation in regional economic and trade groups.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mongolia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mongolia) 
 
 
 ## Confidential Links & Embeds: 

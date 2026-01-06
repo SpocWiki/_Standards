@@ -64,7 +64,8 @@ A time period from 4567 to 538.8 million years ago.
 > to the beginning of the Cambrian Period, about 538.8 million years ago (Ma), 
 > when hard-shelled creatures first appeared in abundance.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Precambrian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Precambrian) 
+
 
 #is_/comprised_of ::    [[Eon-4567~Hadean]] ,  [[Eon-4031~Archean]], [[Eon-2500~Proterozoic]] 
 

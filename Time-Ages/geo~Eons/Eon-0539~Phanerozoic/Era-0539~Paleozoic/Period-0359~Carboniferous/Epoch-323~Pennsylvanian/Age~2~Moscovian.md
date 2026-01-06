@@ -93,10 +93,10 @@ A time period from 315.2 to 307.0 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The Moscovian is in the ICS geologic timescale a stage or age in the Pennsylvanian, the youngest subsystem of the Carboniferous. The Moscovian age lasted from 315.2 to 307 Ma, is preceded by the Bashkirian and is followed by the Kasimovian. The Moscovian overlaps with the European regional Westphalian stage and the North American Atokan and Desmoinesian stages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Moscovian%20(Carboniferous))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Moscovian%20(Carboniferous)) 
+
 
 #has_/label_/bg  :: Моѿков
 #has_/label_/cs  :: Moscov

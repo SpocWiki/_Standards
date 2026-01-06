@@ -94,7 +94,8 @@ A time period from 323.2 to 315.2 million years ago.
 >
 > The Bashkirian overlaps with the upper part of the Namurian and lower part of the Westphalian stages from regional European stratigraphy. It also overlaps with the North American Morrowan and Atokan stages and the Chinese Luosuan and lower Huashibanian stages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bashkirian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Bashkirian) 
+
 
 #has_/label_/bg  :: Башкир
 #has_/label_/cs  :: Bashkir

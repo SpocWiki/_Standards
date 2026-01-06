@@ -7,7 +7,7 @@
 >
 > Treatment is with either nicotinic acid or nicotinamide supplementation. Improvements typically begin within a couple of days. General improvements in diet are also frequently recommended. Decreasing sun exposure via sunscreen and proper clothing is important while the skin heals. Without treatment death may occur. The disease occurs most commonly in the developing world, often as a disease of poverty associated with malnutrition, specifically sub-Saharan Africa.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pellagra)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pellagra) 
 
 
 ## Confidential Links & Embeds: 

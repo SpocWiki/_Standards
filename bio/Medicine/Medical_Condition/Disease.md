@@ -108,7 +108,7 @@ Wolfram_Language_entity_type: Disease
 >
 > The study of disease is called pathology, which includes the study of etiology, or cause.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Disease)
+> [Wikipedia](https://en.wikipedia.org/wiki/Disease) 
 
 
 ## Confidential Links & Embeds: 

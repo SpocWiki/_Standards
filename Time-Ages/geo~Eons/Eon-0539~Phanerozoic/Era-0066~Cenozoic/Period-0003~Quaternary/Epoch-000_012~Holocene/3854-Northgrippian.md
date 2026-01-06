@@ -39,7 +39,6 @@ This is 3854 to 7750 HE (Human Era 10_000BC)
 
 ## #has_/text_of_/abstract 
 
-
 > In the geologic time scale, the **Northgrippian** is the middle one of three ages or stages of the Holocene Epoch or Series. 
 > It was officially ratified by the International Commission on Stratigraphy in June 2018 
 > along with the earlier Greenlandian and later Meghalayan ages/stages. 
@@ -49,7 +48,8 @@ This is 3854 to 7750 HE (Human Era 10_000BC)
 > and goes up to the start of the Meghalayan, 
 > which began 4,200 BP (2250 BCE or 7750 HE), near the 4.2-kiloyear event.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Northgrippian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Northgrippian) 
+
 
 ## All Contents
 

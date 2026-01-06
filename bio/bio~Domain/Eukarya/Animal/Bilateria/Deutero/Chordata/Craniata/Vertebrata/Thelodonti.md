@@ -22,7 +22,9 @@ title: Thelodonti
 >
 > The fish lived in both freshwater and marine environments, first appearing during the Ordovician, and perishing during the Frasnian–Famennian extinction event of the Late Devonian. Traditionally they were considered predominantly deposit-feeding bottom dwellers, but more recent studies have shown they occupied various ecological roles in various parts of the water column, much like modern bony fishes and sharks. In particular, a large variety of species preferred reef ecosystems, and it has been suggested that this preference was the reason for the development of their unique scales, protecting against abrasion and allowing for the development of more flexible bodies than other jawless fish, which had inflexible armors and were restricted to open habitats.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thelodonti)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thelodonti) 
+
+
 ## Introduction
 
 Thelodonts are an ensemble of fossil, presumably jawless vertebrates,

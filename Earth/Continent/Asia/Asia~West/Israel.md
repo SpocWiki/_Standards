@@ -636,7 +636,7 @@ Capital :: [[Israel/Counties/Jerusalem]]
 >
 > The country's Basic Laws establish a parliament elected by proportional representation, the Knesset, which determines the makeup of the government headed by the prime minister and elects the figurehead president. Israel is the only country to have a revived official language, Hebrew. Israel is the only country where Jews constitute more than 2% of the total population, and in which they are the largest demographic. Its culture comprises Jewish and Jewish diaspora elements alongside Arab influences. Israel has one of the largest economies in the Middle East, the third highest nominal GDP per capita in Asia, and one of the highest standards of living in Asia. One of the most technologically advanced and developed countries, it spends proportionally more on research and development than any other and is widely believed to possess nuclear weapons.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Israel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Israel) 
 
 
 [[Abraham-Accords]] 

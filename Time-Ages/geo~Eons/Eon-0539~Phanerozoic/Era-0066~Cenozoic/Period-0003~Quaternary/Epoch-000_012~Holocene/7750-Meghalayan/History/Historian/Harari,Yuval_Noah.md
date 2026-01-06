@@ -35,7 +35,8 @@ aliases:
 > In Sapiens: A Brief History of Humankind, Harari surveys human history from the evolutionary emergence of Homo sapiens to 21st-century political and technological revolutions. The book is based on his lectures to an undergraduate world history class, although 
 > outside of popular discourse his work has been met with a generally negative or mixed scholarly reception.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yuval%20Noah%20Harari)
+> [Wikipedia](https://en.wikipedia.org/wiki/Yuval%20Noah%20Harari) 
+
 
 His criterion for Ethics is the capability to suffer. 
 Unlike Happiness, Misery can clearly be identified. 

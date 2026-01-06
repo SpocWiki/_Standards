@@ -34,7 +34,7 @@ A time period from 100.5 to 66.0 million years ago.
 
 > The Late Cretaceous (100.5–66 Ma) is the younger of two epochs into which the Cretaceous Period is divided in the geologic time scale. Rock strata from this epoch form the Upper Cretaceous Series. The Cretaceous is named after creta, the Latin word for the white limestone known as chalk. The chalk of northern France and the white cliffs of south-eastern England date from the  Cretaceous Period.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Cretaceous)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Cretaceous) 
 
 
 #has_/label_/bg  :: Къѿна Креда

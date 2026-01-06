@@ -33,7 +33,7 @@ aliases:
 > production, and inventing new electronic equipment. 
 > In more recent years, he has dedicated much of his money and time to charitable work.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tom%20Scholz)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tom%20Scholz) 
 
 
 ## Confidential Links & Embeds: 

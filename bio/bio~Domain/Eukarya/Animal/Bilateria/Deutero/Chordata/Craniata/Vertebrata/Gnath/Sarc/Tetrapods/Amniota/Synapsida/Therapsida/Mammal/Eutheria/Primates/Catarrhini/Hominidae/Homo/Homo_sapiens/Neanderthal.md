@@ -102,7 +102,7 @@ short_name: H. neanderthalensis
 > and is also implicated in several other biological functions and structures, 
 > but a large portion appears to be non-coding DNA.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neanderthal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Neanderthal) 
 
 
 ## Confidential Links & Embeds: 

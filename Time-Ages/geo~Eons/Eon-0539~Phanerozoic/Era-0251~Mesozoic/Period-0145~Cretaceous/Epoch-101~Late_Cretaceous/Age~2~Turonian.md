@@ -11,10 +11,10 @@ A time period from 93.9 to 89.8 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Turonian** is, in the ICS' geologic timescale, the second age in the Late Cretaceous Epoch, or a stage in the Upper Cretaceous Series. It spans the time between 93.9 ± 0.8 Ma and 89.8 ± 1 Ma (million years ago). The Turonian is preceded by the [[Age~1~Cenomanian]] Stage and underlies the [[Age~3~Coniacian]] Stage. At the beginning of the Turonian an oceanic anoxic event (OAE 2) took place, also referred to as the Cenomanian-Turonian boundary event or the "Bonarelli Event". Sea level fall took place in the latter part of the Turonian from the highstand at the beginning of the Turonian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Turonian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Turonian) 
+
 
 #has_/label_/bg  :: Турон
 #has_/label_/cs  :: Turon

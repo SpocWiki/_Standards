@@ -21,7 +21,7 @@
 > Development was later restarted by the community as eMule Community; 
 > the latest stable version is 0.70a.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/EMule)
+> [Wikipedia](https://en.wikipedia.org/wiki/EMule) 
 
 
 ## Confidential Links & Embeds: 

@@ -47,7 +47,7 @@ aliases:
 > winning an Academy Award, a Golden Globe, 
 > and a BAFTA Award for his portrayal of Lewis Strauss in the latter.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Downey%20Jr.)
+> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Downey%20Jr.) 
 
 
 ## Confidential Links & Embeds: 

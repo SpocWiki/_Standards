@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1980-09-22 
-has_time_stopped: 1988-08-20 
+---
 aliases:
   - Iran–Iraq War
   - 1980-Iran–Iraq_War+1988

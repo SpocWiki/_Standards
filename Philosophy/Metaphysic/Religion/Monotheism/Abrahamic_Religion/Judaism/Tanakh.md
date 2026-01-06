@@ -87,7 +87,7 @@ Archive_of_Our_Own_tag: תנ"ך | Tanakh
 >
 > There are many similarities between the Hebrew Bible and the Christian Old Testament. The Protestant Old Testament includes the same books as the Hebrew Bible, but the books are arranged in different orders. The Catholic, Eastern Orthodox, Oriental Orthodox, and Assyrian churches include the Deuterocanonical books, which are not included in certain versions of the Hebrew Bible. In Islam, the Tawrat (Arabic: توراة) is often identified not only with the Pentateuch (the five books of Moses), but also with the other books of the Hebrew Bible. Scholars increasingly view the Hebrew Bible as a mix of folklore and history, with some narratives after the 9th century BCE partly supported by archaeology but many traditional accounts debated or questioned.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hebrew%20Bible)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Hebrew%20Bible) 
 
 
 ## Confidential Links & Embeds: 

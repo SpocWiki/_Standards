@@ -46,7 +46,7 @@ Commons_category: Multiculturalism
 >
 > In reference to political science, multiculturalism can be defined as a state's capacity to effectively and efficiently deal with cultural plurality within its sovereign borders. Multiculturalism as a political philosophy involves ideologies and policies which vary widely. It has been described as a "salad bowl" and as a "cultural mosaic", in contrast to a "melting pot".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Multiculturalism)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Multiculturalism) 
 
 
 ## Confidential Links & Embeds: 

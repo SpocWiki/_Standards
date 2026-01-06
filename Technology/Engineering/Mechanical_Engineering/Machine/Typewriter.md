@@ -56,8 +56,6 @@ Commons_category: Typewriters
 > [Wikipedia](https://en.wikipedia.org/wiki/Typewriter) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Typewriter|Typewriter]] 

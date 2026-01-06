@@ -17,7 +17,7 @@ aliases:
 > her awards include three Bambi Awards, two Romys, an Adolf Grimme Award, 
 > both a Deutscher and a Bayerischer Fernsehpreis, and a Goldene Kamera.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Senta%20Berger)
+> [Wikipedia](https://en.wikipedia.org/wiki/Senta%20Berger) 
 
 
 ## Confidential Links & Embeds: 

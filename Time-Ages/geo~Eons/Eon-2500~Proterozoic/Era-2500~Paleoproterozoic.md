@@ -52,7 +52,8 @@ A time period from 2500 to 1600 million years ago.
 > 
 > It was during this era that the continents first stabilized.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paleoproterozoic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Paleoproterozoic) 
+
 
 #has_/abbreviation :: PP
 

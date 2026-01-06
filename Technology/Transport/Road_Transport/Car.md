@@ -230,7 +230,7 @@ A car is a wheeled, self-powered motor [[../Vehicle|vehicle]] used for transport
 > People's ability to move flexibly from place to place 
 > has far-reaching implications for the nature of societies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Car)
+> [Wikipedia](https://en.wikipedia.org/wiki/Car) 
 
 
 ## Confidential Links & Embeds: 

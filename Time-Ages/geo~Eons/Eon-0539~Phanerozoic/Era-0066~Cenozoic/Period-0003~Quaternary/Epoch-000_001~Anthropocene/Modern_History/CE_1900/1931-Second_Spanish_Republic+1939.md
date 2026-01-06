@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1931-04-14 
-has_time_stopped: 1939-04-01 
+---
 aliases:
   - Spanish Republic
   - República Española

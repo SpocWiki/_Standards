@@ -82,7 +82,7 @@ Commons_category: Soviet deportations
 > and 300,000 to 360,000 perishing during the expulsion of Germans from Eastern Europe 
 > due to Soviet deportation, massacres, and internment and labour camps.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Population%20transfer%20in%20the%20Soviet%20Union)
+> [Wikipedia](https://en.wikipedia.org/wiki/Population%20transfer%20in%20the%20Soviet%20Union) 
 
 
 ## Confidential Links & Embeds: 

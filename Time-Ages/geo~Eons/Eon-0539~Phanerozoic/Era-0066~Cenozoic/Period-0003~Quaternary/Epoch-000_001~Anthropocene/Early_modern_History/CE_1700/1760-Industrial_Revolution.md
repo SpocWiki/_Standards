@@ -154,7 +154,7 @@ Each revolution laid the groundwork for significant shifts in how humans live an
 >
 > Rapid economic growth began to reoccur after 1870, springing from a new group of innovations in what has been called the Second Industrial Revolution. These included new steel-making processes, mass production, assembly lines, electrical grid systems, the large-scale manufacture of machine tools, and the use of increasingly advanced machinery in steam-powered factories.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Industrial%20Revolution)
+> [Wikipedia](https://en.wikipedia.org/wiki/Industrial%20Revolution) 
 
 
 ## Confidential Links & Embeds: 

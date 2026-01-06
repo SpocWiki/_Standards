@@ -35,7 +35,7 @@ aliases:
 > to "reflect its focus on building the metaverse", 
 > an integrated environment linking the company's products and services.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Meta%20Platforms)
+> [Wikipedia](https://en.wikipedia.org/wiki/Meta%20Platforms) 
 
 
 ## Confidential Links & Embeds: 

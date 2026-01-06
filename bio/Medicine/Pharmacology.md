@@ -59,7 +59,7 @@ U_S_National_Archives_Identifier: 10642247
 >
 > Pharmacology is not synonymous with pharmacy and the two terms are frequently confused. Pharmacology, a biomedical science, deals with the research, discovery, and characterization of chemicals which show biological effects and the elucidation of cellular and organismal function in relation to these chemicals. In contrast, pharmacy, a health services profession, is concerned with the application of the principles learned from pharmacology in its clinical settings; whether it be in a dispensing or clinical care role. In either field, the primary contrast between the two is their distinctions between direct-patient care, pharmacy practice, and the science-oriented research field, driven by pharmacology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pharmacology)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pharmacology) 
 
 
 ## Confidential Links & Embeds: 

@@ -220,7 +220,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > After his death in 1937, he was buried in Westminster Abbey near Charles Darwin and Isaac Newton. 
 > The chemical element rutherfordium (104Rf) was named after him in 1997.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ernest%20Rutherford)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ernest%20Rutherford) 
 
 
 ## Confidential Links & Embeds: 

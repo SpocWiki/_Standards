@@ -9,7 +9,7 @@
 > 
 > Although not implemented, it has proved very influential in the development of programming languages, especially functional programming languages such as SASL, Miranda, ML, Haskell and their successors, and dataflow programming languages like Lucid.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/ISWIM)
+> [Wikipedia](https://en.wikipedia.org/wiki/ISWIM) 
 
 
 ## Confidential Links & Embeds: 

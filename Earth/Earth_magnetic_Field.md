@@ -36,7 +36,7 @@ Krugosvet_article: nauka_i_tehnika/fizika/MAGNITNOE_POLE_ZEMLI.html
 >
 > While the North and South magnetic poles are usually located near the geographic poles, they slowly and continuously move over geological time scales, but sufficiently slowly for ordinary compasses to remain useful for navigation. However, at irregular intervals averaging several hundred thousand years, Earth's field reverses and the North and South Magnetic Poles abruptly switch places. These reversals of the geomagnetic poles leave a record in rocks that are of value to paleomagnetists in calculating geomagnetic fields in the past. Such information in turn is helpful in studying the motions of continents and ocean floors. The magnetosphere is defined by the extent of Earth's magnetic field in space or geospace. It extends above the ionosphere, several tens of thousands of kilometres into space, protecting Earth from the charged particles of the solar wind and cosmic rays that would otherwise strip away the upper atmosphere, including the ozone layer that protects Earth from harmful ultraviolet radiation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20magnetic%20field)
+> [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20magnetic%20field) 
 
 
 ## Confidential Links & Embeds: 

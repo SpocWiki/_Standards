@@ -84,7 +84,6 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/human_rights
 
 ## #has_/text_of_/abstract 
 
-
 > **Human rights** are universally recognized moral principles or norms 
 > that establish standards of human behavior 
 > and are often protected by both national and international laws. 
@@ -159,7 +158,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/human_rights
 > various non-governmental organizations, 
 > and national bodies dedicated to monitoring and enforcing human rights standards worldwide.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Human%20rights)
+> [Wikipedia](https://en.wikipedia.org/wiki/Human%20rights) 
 
 
 # [[Human_Rights]] 

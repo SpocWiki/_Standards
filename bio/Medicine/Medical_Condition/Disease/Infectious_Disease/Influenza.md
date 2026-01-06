@@ -105,7 +105,7 @@ U_S_National_Archives_Identifier: 10638694
 >
 > In a typical year, five to 15 percent of the population contracts influenza. There are 3 to 5 million severe cases annually, with up to 650,000 respiratory-related deaths globally each year. Deaths most commonly occur in high-risk groups, including young children, the elderly, and people with chronic health conditions. In temperate regions, the number of influenza cases peaks during winter, whereas in the tropics, influenza can occur year-round. Since the late 1800s, pandemic outbreaks of novel influenza strains have occurred every 10 to 50 years. Five flu pandemics have occurred since 1900: the Spanish flu from 1918 to 1920, which was the most severe; the Asian flu in 1957; the Hong Kong flu in 1968; the Russian flu in 1977; and the swine flu pandemic in 2009.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Influenza)
+> [Wikipedia](https://en.wikipedia.org/wiki/Influenza) 
 
 
 ## Confidential Links & Embeds: 

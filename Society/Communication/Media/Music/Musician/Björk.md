@@ -41,7 +41,7 @@
 > A retrospective exhibition dedicated to Björk was held 
 > at New York's Museum of Modern Art in 2015.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bj%C3%B6rk)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bj%C3%B6rk) 
 
 
 ## Confidential Links & Embeds: 

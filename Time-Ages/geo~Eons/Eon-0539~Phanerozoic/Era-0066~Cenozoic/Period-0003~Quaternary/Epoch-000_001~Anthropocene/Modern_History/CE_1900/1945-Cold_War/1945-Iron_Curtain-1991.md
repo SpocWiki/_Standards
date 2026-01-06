@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1946-03-05 
-has_time_stopped: 1989-08-19 
 location: [ 15.873611 , 48.875833 ] 
 aliases:
 has_id_wikidata: Q124425

@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1936-07-18 
-has_time_stopped: 1939-04-01 
+---
 aliases:
   - Spanish Civil War
   - 1936-Spanish_Civil_War+1939
@@ -44,7 +42,7 @@ EcuRed_article: Guerra_civil_española
 >
 > The war became notable for the passion and political division it inspired worldwide and for the many atrocities that occurred. Organised purges occurred in territory captured by Franco's forces so they could consolidate their future regime. Mass executions also took place in areas controlled by the Republicans, with the participation of local authorities varying from location to location.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20Civil%20War)
+> [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20Civil%20War) 
 
 
 ## Confidential Links & Embeds: 

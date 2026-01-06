@@ -108,7 +108,7 @@ which is available for use by the general public, or by customers or employees o
 >
 > Historically, sanitation has been a concern from the earliest stages of human settlements. However, many poor households in developing countries use very basic, and often unhygienic, toilets – and 419 million people have no access to a toilet at all; they must openly defecate and urinate. These issues can lead to the spread of diseases transmitted via the fecal-oral route, or the transmission of waterborne diseases such as cholera and dysentery. Therefore, the United Nations Sustainable Development Goal 6 wants to "achieve access to adequate and equitable sanitation and hygiene for all and end open defecation".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Toilet)
+> [Wikipedia](https://en.wikipedia.org/wiki/Toilet) 
 
 
 ## Confidential Links & Embeds: 

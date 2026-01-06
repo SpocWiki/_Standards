@@ -55,7 +55,7 @@ Dewey_Decimal_Classification: 336.271
 >
 > There is near unanimous consensus among economists that tariffs are self-defeating and have a negative effect on economic growth and economic welfare, while free trade and the reduction of trade barriers has a positive effect on economic growth. American economist Milton Friedman said of tariffs: "We call a tariff a protective measure. It does protect . . . It protects the consumer against low prices." Although trade liberalisation can sometimes result in unequally distributed losses and gains, and can, in the short run, cause economic dislocation of workers in import-competing sectors, the advantages of free trade are lowering costs of goods for both producers and consumers. The economic burden of tariffs falls on the importer, the exporter, and the consumer. Often intended to protect specific industries, tariffs can end up backfiring and harming the industries they were intended to protect through rising input costs and retaliatory tariffs. Import tariffs can also harm domestic exporters by disrupting their supply chains and raising their input costs.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tariff)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Tariff) 
 
 
 ## Confidential Links & Embeds: 

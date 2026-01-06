@@ -306,7 +306,6 @@ markerFolder: ./Micronesia~Fed._States/
 > [Wikipedia](https://en.wikipedia.org/wiki/Federated%20States%20of%20Micronesia) 
 
 
-
 [name-en::Micronesia, Fed. States] 
 [name-de::Mikronesien] 
 [Area-Total::700] 

@@ -110,7 +110,7 @@ lat: -45
 >
 > The Southern Ocean overturning circulation is important because it makes up the second half of the global thermohaline circulation, after the better known Atlantic meridional overturning circulation (AMOC). Much like AMOC, it has also been substantially affected by climate change, in ways that have increased ocean stratification, and which may also result in the circulation substantially slowing or even passing a tipping point and collapsing outright. The latter would have adverse impacts on global weather and the function of marine ecosystems here, unfolding over centuries. The ongoing warming is already changing marine ecosystems here.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Southern%20Ocean)
+> [Wikipedia](https://en.wikipedia.org/wiki/Southern%20Ocean) 
 
 
 ## Confidential Links & Embeds: 

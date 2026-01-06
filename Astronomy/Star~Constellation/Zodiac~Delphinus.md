@@ -67,7 +67,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/DelphinusCC.jpg
 > Delphinus is a faint constellation with only two stars brighter than an apparent magnitude of 4, 
 > Beta Delphini (Rotanev) at magnitude 3.6 and Alpha Delphini (Sualocin) at magnitude 3.8.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Delphinus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Delphinus) 
 
 
 ## Confidential Links & Embeds: 

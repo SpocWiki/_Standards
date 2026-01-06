@@ -20,7 +20,7 @@
 >
 > In Apr 2024, IBM announced plans to acquire HashiCorp.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/HashiCorp)
+> [Wikipedia](https://en.wikipedia.org/wiki/HashiCorp) 
 
 
 ## Confidential Links & Embeds: 

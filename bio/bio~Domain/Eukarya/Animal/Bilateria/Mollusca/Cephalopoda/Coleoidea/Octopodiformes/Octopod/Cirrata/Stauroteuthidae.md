@@ -49,7 +49,8 @@ However similar octopods from outside the Atlantic Ocean have not been criticall
 > some of the muscle cells that control the suckers in most species 
 > have been replaced with photophores which are believed to fool prey by directing them towards the mouth.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stauroteuthis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stauroteuthis) 
+
 
 ## Introduction
 

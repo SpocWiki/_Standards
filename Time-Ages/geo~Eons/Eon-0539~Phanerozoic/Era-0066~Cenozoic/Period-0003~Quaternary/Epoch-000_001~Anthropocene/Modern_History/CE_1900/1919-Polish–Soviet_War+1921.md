@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1919-02-01 
-has_time_stopped: 1921-03-01 
+---
 aliases:
 has_id_wikidata: Q186284
 participant:

@@ -50,7 +50,7 @@ UMLS_CUI: C0206763
 >
 > Oxygen is generally obtained by separation of air into nitrogen and oxygen. Sulfur is extracted from oil and natural gas. Selenium and tellurium are produced as byproducts of copper refining. Polonium is most available in naturally occurring actinide-containing materials.  Livermorium has been synthesized in particle accelerators. The primary use of elemental oxygen is in steelmaking. Sulfur is mostly converted into sulfuric acid, which is heavily used in the chemical industry. Selenium's most common application is glassmaking. Tellurium compounds are mostly used in optical disks, electronic devices, and solar cells. Some of polonium's applications are due to its radioactivity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chalcogen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chalcogen) 
 
 
 ## Confidential Links & Embeds: 

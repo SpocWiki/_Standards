@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1989-11-09 
-has_time_stopped: 1990-10-03 
+---
 aliases:
   - German reunification
   - Wiedervereinigung Deutschlands
@@ -42,7 +40,7 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "GermanReuinification"]
 >
 > The reunited state is not a successor state, but an enlarged continuation of the 1949–1990 West German state. The enlarged Federal Republic of Germany retained the West German seats in the governing bodies of the European Economic Community (EEC) (later the European Union) and in international organizations including the North Atlantic Treaty Organization (NATO) and the United Nations (UN), while relinquishing membership in the Warsaw Pact (WP) and other international organizations to which only East Germany belonged.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/German%20reunification)
+> [Wikipedia](https://en.wikipedia.org/wiki/German%20reunification) 
 
 
 ## Confidential Links & Embeds: 

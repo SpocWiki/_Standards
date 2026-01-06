@@ -18,7 +18,7 @@
 >
 > Rainbow were ranked No. 90 on VH1's 100 Greatest Artists of Hard Rock. The band have sold over 28 million records worldwide.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rainbow%20(rock%20band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Rainbow%20(rock%20band)) 
 
 
 ## Confidential Links & Embeds: 

@@ -73,7 +73,7 @@ Commons_category: Verbs
 > The word verb comes from Latin  verbum 'word or verb' 
 > and shares the same Indo-European root as word.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Verb)
+> [Wikipedia](https://en.wikipedia.org/wiki/Verb) 
 
 
 ## Confidential Links & Embeds: 

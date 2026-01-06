@@ -46,7 +46,7 @@ A time period from 438.5 to 433.4 million years ago.
 >
 > It ended with the [[Ireviken-event]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Telychian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Telychian) 
 
 
 #has_/label_/bg  :: Телич

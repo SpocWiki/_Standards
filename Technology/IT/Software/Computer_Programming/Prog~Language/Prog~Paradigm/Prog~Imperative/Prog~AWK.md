@@ -17,7 +17,7 @@
 > 
 > AWK was created at Bell Labs in the 1970s, and its name is derived from the surnames of its authors: Alfred Aho (author of egrep), Peter Weinberger (who worked on tiny relational databases), and Brian Kernighan. The acronym is pronounced the same as the name of the bird species auk, which is illustrated on the cover of The AWK Programming Language.  When written in all lowercase letters, as awk, it refers to the Unix or Plan 9 program that runs scripts written in the AWK programming language.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/AWK)
+> [Wikipedia](https://en.wikipedia.org/wiki/AWK) 
 
 
 ## Confidential Links & Embeds: 

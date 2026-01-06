@@ -77,7 +77,7 @@ Commons_category: Mikhail Alexandrovich Ulyanov
 > He was named a People's Artist of the USSR in 1969 and a Hero of Socialist Labour in 1986 
 > and received a special prize from the Venice Film Festival in 1982.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mikhail%20Ulyanov%20(actor))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Mikhail%20Ulyanov%20(actor)) 
 
 
 ## Confidential Links & Embeds: 

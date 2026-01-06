@@ -25,10 +25,6 @@ MeSH_tree_code: D10.212.507
 > [Wikipedia](https://en.wikipedia.org/wiki/Unsaturated%20fat) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Fat/Unsaturated_Fat|Unsaturated_Fat]] 

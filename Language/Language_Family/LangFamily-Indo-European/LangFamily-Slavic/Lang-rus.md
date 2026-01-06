@@ -285,7 +285,7 @@ writing_system: '[[_Standards/WikiData/WD~Cyrillic_script,8209]]'
 > (e.g. замо́к [zamók, 'lock'] and за́мок [zámok, 'castle']), 
 > or to indicate the proper pronunciation of uncommon words or names.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Russian%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Russian%20language) 
 
 
 ## Confidential Links & Embeds: 

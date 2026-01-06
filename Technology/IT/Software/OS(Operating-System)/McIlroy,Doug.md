@@ -21,7 +21,7 @@ aliases:
 > makes him a pioneer of component-based software engineering 
 > and software product line engineering.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Douglas%20McIlroy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Douglas%20McIlroy) 
 
 
 ## Confidential Links & Embeds: 

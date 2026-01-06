@@ -89,7 +89,6 @@ A time period from 307.0 to 303.7 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Kasimovian) 
 
 
-
 #has_/label_/bg  :: Каѿимов
 #has_/label_/cs  :: Kasimov
 #has_/label_/da  :: Kasimovien

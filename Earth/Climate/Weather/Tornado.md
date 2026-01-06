@@ -56,7 +56,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Tornado%20time%20lapse
 >
 > Tornadoes occur most frequently in North America (particularly in central and southeastern regions of the United States colloquially known as Tornado Alley; the United States has by far the most tornadoes of any country in the world). Tornadoes also occur in South Africa, much of Europe (except most of the Alps), western and eastern Australia, New Zealand, Bangladesh and adjacent eastern India, Japan, the Philippines, and southeastern South America (Uruguay and Argentina). Tornadoes can be detected before or as they occur through the use of pulse-Doppler radar by recognizing patterns in velocity and reflectivity data, such as hook echoes or debris balls, as well as through the efforts of storm spotters.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tornado)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tornado) 
 
 
 ## Confidential Links & Embeds: 

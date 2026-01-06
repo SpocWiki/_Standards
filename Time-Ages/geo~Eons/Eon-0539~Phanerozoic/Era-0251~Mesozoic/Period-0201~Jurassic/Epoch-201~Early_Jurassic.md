@@ -1,3 +1,27 @@
+---
+aliases:
+  - Early_Jurassic
+has_id_wikidata: Q284787
+named_after: "[[_Standards/WikiData/WD~Jura_Mountains,178611]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~Black_Jura,2253989]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Early_Jurassic,20963454]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hettangian,134318266]]"
+Commons_category: Early Jurassic
+start_time: -201300000-01-01T00:00:00Z
+sRGB_color_hex_triplet: 00B7EA
+end_time: -174100000-01-01T00:00:00Z
+Dewey_Decimal_Classification:
+  - "551.766"
+  - "560.1766"
+  - "561.1166"
+---
 
 # [[Epoch-201~Early_Jurassic]] 
 
@@ -7,6 +31,7 @@
 
 #has_/previous_/item :: [[../Period-0252~Triassic/Epoch-237~Late_Triassic|Epoch~3~Late_Triassic]] 
 #has_/next_/item :: [[Epoch-175~Middle_Jurassic]] 
+#is_/same_as :: [[WD~Early_Jurassic,284787]] 
 
 A time period from 201.4 to 174.7 million years ago. 
 
@@ -18,7 +43,8 @@ A time period from 201.4 to 174.7 million years ago.
 >
 > Certain rocks of marine origin of this age in Europe are called "Lias" and that name was used for the period, as well, in 19th-century geology. In southern Germany rocks of this age are called Black Jurassic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Jurassic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Jurassic) 
+
 
 #has_/label_/bg  :: Ранна Юра
 #has_/label_/cs  :: brzy jura

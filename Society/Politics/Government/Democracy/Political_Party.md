@@ -80,7 +80,7 @@ Wikidata_property: member of political party
 >
 > Many political parties are motivated by ideological goals. It is common for democratic elections to feature competitions between liberal, conservative, and socialist parties; other common ideologies of very large political parties include communism, populism, nationalism, and Islamism. Political parties in different countries will often adopt similar colours and symbols to identify themselves with a particular ideology. However, many political parties have no ideological affiliation, and may instead be primarily engaged in patronage, clientelism, the advancement of a specific political entrepreneur, or be a "big tent", in that they wish to attract voters who have a variety of positions on issues.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Political%20party)
+> [Wikipedia](https://en.wikipedia.org/wiki/Political%20party) 
 
 
 ## Confidential Links & Embeds: 

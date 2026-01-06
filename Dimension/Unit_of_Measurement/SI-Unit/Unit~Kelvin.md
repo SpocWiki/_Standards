@@ -70,7 +70,7 @@ Historically, the Kelvin scale was developed from the Celsius scale, such that 2
 
 The kelvin is the primary unit of temperature for engineering and the physical sciences, while in most countries the Celsius scale remains the dominant scale outside of these fields. In the United States, outside of the physical sciences, the Fahrenheit scale predominates, with the kelvin or Rankine scale employed for absolute temperature.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kelvin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kelvin) 
 
 
 ## Confidential Links & Embeds: 

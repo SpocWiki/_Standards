@@ -97,8 +97,6 @@ Commons_category: Lewis and Clark Expedition
 > [Wikipedia](https://en.wikipedia.org/wiki/Lewis%20and%20Clark%20Expedition) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806|1804-Lewis_and_Clark_Expedition-1806]] 

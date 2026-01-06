@@ -78,7 +78,6 @@ ZVG_number: 7640
 
 ## #has_/text_of_/abstract 
 
-
 > **Gadolinium** is a chemical element with the symbol (Abbr::Gd) and atomic number (Charge-e::64). Gadolinium is a silvery-white metal when oxidation is removed. It is only slightly malleable and is a ductile rare-earth element. Gadolinium reacts with atmospheric oxygen or moisture slowly to form a black coating. Gadolinium below its Curie point of 20 °C (68 °F) is ferromagnetic, with an attraction to a magnetic field higher than that of nickel. Above this temperature it is the most paramagnetic element. It is found in nature only in an oxidized form. When separated, it usually has impurities of the other rare-earths because of their similar chemical properties.
 >
 > Gadolinium was discovered in 1880 by Jean Charles de Marignac, who detected its oxide by using spectroscopy. It is named after the mineral gadolinite, one of the minerals in which gadolinium is found, itself named for the Finnish chemist Johan Gadolin. Pure gadolinium was first isolated by the chemist Paul-Émile Lecoq de Boisbaudran around 1886.
@@ -89,7 +88,7 @@ ZVG_number: 7640
 >
 > Gadolinium(III) ions in water-soluble salts are highly toxic to mammals. However, chelated gadolinium(III) compounds prevent the gadolinium(III) from being exposed to the organism and the majority is excreted by healthy kidneys before it can deposit in tissues. Because of its paramagnetic properties, solutions of chelated organic gadolinium complexes are used as intravenously administered gadolinium-based MRI contrast agents in medical magnetic resonance imaging. Varying amounts deposit in tissues of the brain, cardiac muscle, kidney, other organs and the skin, mainly depending on kidney function, structure of the chelates (linear or macrocyclic) and the dose administered.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gadolinium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gadolinium) 
 
 
 ## Confidential Links & Embeds: 

@@ -42,7 +42,7 @@ Library_of_Congress_Classification: QE420-QE499
 > 
 > Modern sedimentary petrology is making increasing use of chemistry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Petrology)
+> [Wikipedia](https://en.wikipedia.org/wiki/Petrology) 
 
 
 ## Confidential Links & Embeds: 

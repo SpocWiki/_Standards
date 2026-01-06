@@ -57,7 +57,9 @@ UMLS_CUI: C0025553
 >
 > Of the actinides, primordial thorium and uranium occur naturally in substantial quantities. The radioactive decay of uranium produces transient amounts of actinium and protactinium, and atoms of neptunium and plutonium are occasionally produced from transmutation reactions in uranium ores. The other actinides are purely synthetic elements. Nuclear weapons tests have released at least six actinides heavier than plutonium into the environment; analysis of debris from a 1952 hydrogen bomb explosion showed the presence of americium, curium, berkelium, californium, einsteinium and fermium.In presentations of the periodic table, the f-block elements are customarily shown as two additional rows below the main body of the table. This convention is entirely a matter of aesthetics and formatting practicality; a rarely used wide-formatted periodic table inserts the 4f and 5f series in their proper places, as parts of the table's sixth and seventh rows (periods).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Actinide)
+> [Wikipedia](https://en.wikipedia.org/wiki/Actinide) 
+
+
  
 ```folderv
 ```

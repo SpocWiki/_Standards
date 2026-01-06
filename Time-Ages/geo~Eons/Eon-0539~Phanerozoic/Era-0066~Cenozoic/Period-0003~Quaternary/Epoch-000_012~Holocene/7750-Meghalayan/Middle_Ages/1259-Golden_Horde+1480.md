@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1243-01-01 
-has_time_stopped: 1502-01-01 
 location: [ 60.0 , 52.0 ] 
 aliases:
   - Golden Horde

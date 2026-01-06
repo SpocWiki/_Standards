@@ -40,7 +40,7 @@ aliases:
 > Attenborough has also won four BAFTA Awards, six Golden Globe Awards, 
 > and the 1983 BAFTA Fellowship for lifetime achievement.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Attenborough)
+> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Attenborough) 
 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

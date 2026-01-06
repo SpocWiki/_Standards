@@ -1,3 +1,23 @@
+---
+aliases:
+  - Pliensbachian
+has_id_wikidata: Q540479
+named_by: "[[_Standards/WikiData/WD~Albert_Oppel,66578]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_after: "[[_Standards/WikiData/WD~Pliensbach,2099493]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Pliensbachian,17273414]]"
+replaces: "[[_Standards/WikiData/WD~Q19607173,19607173]]"
+significant_place: "[[_Standards/WikiData/WD~Robin_Hood's_Bay,24658757]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pliensbachian,134291380]]"
+coordinate_location: Point(-0.4975 54.4069)
+end_time: -182700000-01-01T00:00:00Z
+Commons_category: Pliensbachian
+start_time: -190800000-01-01T00:00:00Z
+sRGB_color_hex_triplet: 3CC9EF
+---
 # [[Age~3~Pliensbachian]] 
 
 #is_a_/time_/Age 
@@ -6,13 +26,13 @@
 
 #has_/previous_/item :: [[Age~2~Sinemurian]] 
 #has_/next_/item :: [[Age~4~Toarcian]] 
+#is_/same_as :: [[WD~Pliensbachian,540479]] 
 
 A time period from 192.9 to 184.2 million years ago. 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-190_Ma_(Pliensbachian_Age).png]] 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Pliensbachian** is an age of the geologic timescale and stage in the stratigraphic column. 
 > 
@@ -26,7 +46,8 @@ A time period from 192.9 to 184.2 million years ago.
 > During the Pliensbachian, the middle part of the Lias was deposited in Europe. 
 > The Pliensbachian is roughly coeval with the Charmouthian regional stage of North America.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pliensbachian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pliensbachian) 
+
 
 #has_/label_/bg  :: Плиинѿбах
 #has_/label_/cs  :: Pliensbach

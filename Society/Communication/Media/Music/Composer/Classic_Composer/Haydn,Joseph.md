@@ -131,7 +131,7 @@ Europeana_entity: agent/base/146848
 >
 > Haydn was a friend and mentor of Mozart, a teacher of Beethoven, and the elder brother of composer Michael Haydn.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Haydn)
+> [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Haydn) 
 
 
 ## Confidential Links & Embeds: 

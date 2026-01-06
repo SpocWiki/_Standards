@@ -42,7 +42,7 @@
 > due to its backwards-compatibility with ASCII and its space-conservation for [[Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng|English]] Text and [[Base64]] .
 > Before that [[Latin1]] was the most common [[Technology/IT/Data/Code/Encoding]]
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Unicode)
+> [Wikipedia](https://en.wikipedia.org/wiki/Unicode) 
 
 
 # [[Unicode]] 

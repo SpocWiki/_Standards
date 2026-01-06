@@ -66,7 +66,7 @@ part_of: '[[_Standards/WikiData/WD~organization,43229]]'
 > and their associations of persons and assets, as well as associations. 
 > At least three persons were required in Rome to found an association.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Juridical%20person)
+> [Wikipedia](https://en.wikipedia.org/wiki/Juridical%20person) 
 
 
 ## Confidential Links & Embeds: 

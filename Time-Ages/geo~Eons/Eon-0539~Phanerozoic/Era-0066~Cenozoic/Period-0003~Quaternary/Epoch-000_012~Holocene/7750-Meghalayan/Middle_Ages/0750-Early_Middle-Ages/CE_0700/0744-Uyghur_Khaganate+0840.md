@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 0744-01-01 
-has_time_stopped: 0840-01-01 
+---
 aliases:
 has_id_wikidata: Q831218
 official_religion:

@@ -53,7 +53,8 @@ A time period from 290.1 to 283.5 million years ago.
 > 
 > It was preceded by the [[Age~2~Sakmarian]] and followed by the [[Age~4~Kungurian]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Artinskian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Artinskian) 
+
 
 #has_/label_/bg  :: пртин
 #has_/label_/cs  :: Artinsk

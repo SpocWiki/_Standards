@@ -383,7 +383,7 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "UnionSovietSocialistR
 > (particularly in the Global South), military and economic strengths, 
 > and scientific accomplishments.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Soviet%20Union)
+> [Wikipedia](https://en.wikipedia.org/wiki/Soviet%20Union) 
 
 
 ## Confidential Links & Embeds: 

@@ -604,7 +604,7 @@ Capital :: [[./Latvia/Counties/Riga]]
 >
 > Latvia is a developed country with a high-income, advanced economy ranking 39th in the Human Development Index. It is a member of the European Union, Eurozone, NATO, the Council of Europe, the United Nations, the Council of the Baltic Sea States, the International Monetary Fund, the Nordic-Baltic Eight, the Nordic Investment Bank, the Organisation for Economic Co-operation and Development, the Organization for Security and Co-operation in Europe, and the World Trade Organization.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Latvia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Latvia) 
 
 
 ## Confidential Links & Embeds: 

@@ -45,7 +45,7 @@ native_label: 夏朝
 >
 > According to the traditional chronology, based upon calculations by Liu Xin, the Xia ruled between 2205 and 1766 BC. According to the chronology based on the "current text" Bamboo Annals, it ruled between 1989 and 1558 BC. Comparing the same text with dates of five-planet conjunctions, David Pankenier, supported by David Nivison, proposed dates of 1953 and 1555 BC. The Xia–Shang–Zhou Chronology Project, commissioned by the Chinese government in 1996, proposed that the Xia existed between 2070 and 1600 BC.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Xia%20dynasty)
+> [Wikipedia](https://en.wikipedia.org/wiki/Xia%20dynasty) 
 
 
 ## Confidential Links & Embeds: 

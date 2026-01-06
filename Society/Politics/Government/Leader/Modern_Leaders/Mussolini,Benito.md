@@ -256,7 +256,7 @@ U_S_National_Archives_Identifier: 10582992
 > and summarily executed on 28 April near Lake Como, 
 > and their bodies were strung up by the heels outside a service station in Milan.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Benito%20Mussolini)
+> [Wikipedia](https://en.wikipedia.org/wiki/Benito%20Mussolini) 
 
 
 ## Confidential Links & Embeds: 

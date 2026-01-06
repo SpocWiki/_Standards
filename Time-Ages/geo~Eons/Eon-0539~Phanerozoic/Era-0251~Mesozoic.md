@@ -102,7 +102,8 @@ A time period from 251.902 to 66.0 million years ago.
 >
 > Dinosaurs first appeared in the Mid-Triassic, and became the dominant terrestrial vertebrates in the Late Triassic or Early Jurassic, occupying this position for about 150 or 135 million years until their demise at the end of the Cretaceous. Archaic birds appeared in the Jurassic, having evolved from a branch of theropod dinosaurs, then true toothless birds appeared in the Cretaceous. The first mammals also appeared during the Mesozoic, but would remain small—less than 15 kg (33 lb)—until the Cenozoic. Flowering plants appeared in the Early Cretaceous and would rapidly diversify through the end of the era, replacing conifers and other gymnosperms (sensu lato), such as ginkgoales, cycads and bennettitales as the dominant group of plants.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mesozoic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mesozoic) 
+
 
 ## All Contents
 

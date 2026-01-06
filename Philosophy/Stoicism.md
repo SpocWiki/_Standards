@@ -102,7 +102,8 @@ PhilPapers_topic: stoics
 > - in the Renaissance (Neostoicism) and 
 > - in the contemporary era (modern Stoicism), fueled by Forums on the Internet.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stoicism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stoicism) 
+
 
 Modern Stoicism was captured by the [[../Society/Ideology/Political_Ideology/Fascism/Manosphere]] to form [[../Society/Ideology/Political_Ideology/Fascism/Broicism]]. 
 

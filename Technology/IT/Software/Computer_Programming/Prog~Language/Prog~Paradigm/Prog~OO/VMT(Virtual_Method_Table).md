@@ -19,7 +19,7 @@ aliases:
 >
 > Suppose a program contains three classes in an inheritance hierarchy: a superclass, Cat, and two subclasses, HouseCat and Lion. Class Cat defines a virtual function named speak, so its subclasses may provide an appropriate implementation (e.g. either meow or roar). When the program calls the speak function on a Cat reference (which can refer to an instance of Cat, or an instance of HouseCat or Lion), the code must be able to determine which implementation of the function the call should be dispatched to. This depends on the actual class of the object, not the class of the reference to it (Cat). The class cannot generally be determined statically (that is, at compile time), so neither can the compiler decide which function to call at that time. The call must be dispatched to the right function dynamically (that is, at run time) instead.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Virtual%20method%20table)
+> [Wikipedia](https://en.wikipedia.org/wiki/Virtual%20method%20table) 
 
 
 ## Confidential Links & Embeds: 

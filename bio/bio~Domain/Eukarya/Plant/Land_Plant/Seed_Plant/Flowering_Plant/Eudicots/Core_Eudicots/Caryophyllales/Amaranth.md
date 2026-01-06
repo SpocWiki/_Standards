@@ -100,7 +100,7 @@ taxon_synonym: '[[_Standards/WikiData/WD~Mengea,66685065]]'
 > with members of the closely related genus Celosia. 
 > Amaranth grain is collected from the genus. The leaves of some species are also eaten.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Amaranth)
+> [Wikipedia](https://en.wikipedia.org/wiki/Amaranth) 
 
 
 ## Confidential Links & Embeds: 

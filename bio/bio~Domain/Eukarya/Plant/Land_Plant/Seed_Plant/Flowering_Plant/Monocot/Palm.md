@@ -27,7 +27,6 @@ The palms
 > [Wikipedia](https://en.wikipedia.org/wiki/Arecales) 
 
 
-
 ## Introduction
 
 [William J. Hahn]()

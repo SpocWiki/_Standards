@@ -89,7 +89,7 @@ start_time: 1932-01-01T00:00:00Z
 > In 2008, the Russian State Duma condemned the Soviet regime 
 > "that has neglected the lives of people for the achievement of economic and political goals".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Holodomor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Holodomor) 
 
 
 ## Confidential Links & Embeds: 

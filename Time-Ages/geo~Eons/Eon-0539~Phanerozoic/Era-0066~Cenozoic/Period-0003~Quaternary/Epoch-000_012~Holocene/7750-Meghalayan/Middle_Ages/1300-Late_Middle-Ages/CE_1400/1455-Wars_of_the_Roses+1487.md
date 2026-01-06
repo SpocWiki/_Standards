@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1455-05-22 
-has_time_stopped: 1487-06-16 
+---
 aliases:
 has_id_wikidata: Q127751
 participant:

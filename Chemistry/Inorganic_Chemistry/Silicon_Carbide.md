@@ -26,7 +26,7 @@ aliases:
 > SiC is used in semiconductor electronics devices that operate at high temperatures 
 > or high voltages, or both.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Silicon%20carbide)
+> [Wikipedia](https://en.wikipedia.org/wiki/Silicon%20carbide) 
 
 
 ## Confidential Links & Embeds: 

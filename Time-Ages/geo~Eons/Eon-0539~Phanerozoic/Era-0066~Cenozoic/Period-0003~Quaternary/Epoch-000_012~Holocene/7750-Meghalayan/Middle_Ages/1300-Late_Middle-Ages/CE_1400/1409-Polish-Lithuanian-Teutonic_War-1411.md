@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1409-08-14 
-has_time_stopped: 1411-02-01 
+---
 aliases:
   - Polish–Lithuanian–Teutonic War, also known as the Great Teutonic War
   - 1409-Polish-Lithuanian-Teutonic_War-1411

@@ -169,7 +169,7 @@ date_of_birth: 1920-01-02T00:00:00Z
 >
 > He was the president of the American Humanist Association. Several entities have been named in his honor, including the asteroid (5020) Asimov, a crater on Mars, a Brooklyn elementary school, Honda's humanoid robot ASIMO, and four literary awards.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Isaac%20Asimov)
+> [Wikipedia](https://en.wikipedia.org/wiki/Isaac%20Asimov) 
 
 
 ## Confidential Links & Embeds: 

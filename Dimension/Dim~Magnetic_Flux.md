@@ -14,8 +14,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnetic%20flux) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Dimension/Dim~Magnetic_Flux|Dim~Magnetic_Flux]] 

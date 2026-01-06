@@ -340,7 +340,7 @@ writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
 > the third most useful language for business, 
 > after English and Standard Mandarin Chinese.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/French%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/French%20language) 
 
 
 ## Confidential Links & Embeds: 

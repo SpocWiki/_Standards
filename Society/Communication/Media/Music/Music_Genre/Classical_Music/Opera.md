@@ -116,7 +116,7 @@ type: private_note
 >
 > The first third of the 19th century saw the high point of the bel canto style, with Gioachino Rossini, Gaetano Donizetti and Vincenzo Bellini all creating signature works of that style. It also saw the advent of grand opera typified by the works of Daniel Auber and Giacomo Meyerbeer as well as Carl Maria von Weber's introduction of German Romantische Oper (German Romantic Opera). The mid-to-late 19th century was a golden age of opera, led and dominated by Giuseppe Verdi in Italy and Richard Wagner in Germany. The popularity of opera continued through the verismo era in Italy and contemporary French opera through to Giacomo Puccini and Richard Strauss in the early 20th century. During the 19th century, parallel operatic traditions emerged in central and eastern Europe, particularly in Russia and Bohemia. The 20th century saw many experiments with modern styles, such as atonality and serialism (Arnold Schoenberg and Alban Berg), neoclassicism (Igor Stravinsky), and minimalism (Philip Glass and John Adams). With the rise of recording technology, singers such as Enrico Caruso and Maria Callas became known to much wider audiences that went beyond the circle of opera fans. Since the invention of radio and television, operas were also performed on (and written for) these media. Beginning in 2006, a number of major opera houses began to present live high-definition video transmissions of their performances in cinemas all over the world. Since 2009, complete performances can be downloaded and are live streamed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Opera)
+> [Wikipedia](https://en.wikipedia.org/wiki/Opera) 
 
 
 ## Confidential Links & Embeds: 

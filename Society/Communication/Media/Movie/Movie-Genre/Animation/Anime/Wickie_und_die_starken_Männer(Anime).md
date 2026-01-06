@@ -18,7 +18,7 @@ and was followed by .
 > It premiered on the German TV channel ZDF on 31 January 1974 and aired in various countries. 
 > In 2013–2014, the series also existed in 3D animation produced by Studio 100.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vicky%20the%20Viking)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vicky%20the%20Viking) 
 
 
 ## Confidential Links & Embeds: 

@@ -100,7 +100,7 @@ ZVG_number: 12570
 >
 > Some animals, particularly ruminants and termites, can digest cellulose with the help of symbiotic micro-organisms that live in their guts, such as Trichonympha. In human nutrition, cellulose is a non-digestible constituent of insoluble dietary fiber, acting as a hydrophilic bulking agent for feces and potentially aiding in defecation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cellulose)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cellulose) 
 
 
 ## Confidential Links & Embeds: 

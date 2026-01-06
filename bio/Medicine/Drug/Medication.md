@@ -74,7 +74,7 @@ Wikidata_property: drug or therapy used for treatment
 >
 > Drug discovery and drug development are complex and expensive endeavors undertaken by pharmaceutical companies, academic scientists, and governments. As a result of this complex path from discovery to commercialization, partnering has become a standard practice for advancing drug candidates through development pipelines. Governments generally regulate what drugs can be marketed, how drugs are marketed, and in some jurisdictions, drug pricing. Controversies have arisen over drug pricing and disposal of used medications.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Medication)
+> [Wikipedia](https://en.wikipedia.org/wiki/Medication) 
 
 
 ## Confidential Links & Embeds: 

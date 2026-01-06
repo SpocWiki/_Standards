@@ -87,7 +87,7 @@ U_S_National_Archives_Identifier: 10646853
 >
 > Further advances in astronomy led to the discovery of over five thousand planets outside the Solar System, termed exoplanets. These often show unusual features that the Solar System planets do not show, such as hot Jupiters—giant planets that orbit close to their parent stars, like 51 Pegasi b—and extremely eccentric orbits, such as HD 20782 b. The discovery of brown dwarfs and planets larger than Jupiter also spurred debate on the definition, regarding where exactly to draw the line between a planet and a star. Multiple exoplanets have been found to orbit in the habitable zones of their stars (where liquid water can potentially exist on a planetary surface), but Earth remains the only planet known to support life.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Planet)
+> [Wikipedia](https://en.wikipedia.org/wiki/Planet) 
 
 
 ## Confidential Links & Embeds: 

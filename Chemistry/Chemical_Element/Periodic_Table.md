@@ -75,7 +75,7 @@ video:
 >
 > The periodic table continues to evolve with the progress of science. In nature, only elements up to atomic number 94  exist; to go further, it was necessary to synthesize new elements in the laboratory. By 2010, the first 118 elements were known, thereby completing the first seven rows of the table; however, chemical characterization is still needed for the heaviest elements to confirm that their properties match their positions. New discoveries will extend the table beyond these seven rows, though it is not yet known how many more elements are possible; moreover, theoretical calculations suggest that this unknown region will not follow the patterns of the known part of the table. Some scientific discussion also continues regarding whether some elements are correctly positioned in today's table. Many alternative representations of the periodic law exist, and there is some discussion as to whether there is an optimal form of the periodic table.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Periodic%20table)
+> [Wikipedia](https://en.wikipedia.org/wiki/Periodic%20table) 
 
 
 | Shell (n) | Symbol |       | s²  |      | p⁶  |      | d¹⁰ |      | f¹⁴ |     | g¹⁸ |     | h²² |     | i²⁶ | Total e⁻ | Total e⁻ |

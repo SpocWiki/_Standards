@@ -105,7 +105,7 @@ GOST_7_75_97_code: узб 710
 >
 > In February 2021, the Uzbek government announced that Uzbekistan plans to fully transition the Uzbek language from the Cyrillic script to a Latin-based alphabet by 1 January 2023. Similar deadlines had been extended several times. As of 2024, most institutions still use both alphabets.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Uzbek%20language)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Uzbek%20language) 
 
 
 ## Confidential Links & Embeds: 

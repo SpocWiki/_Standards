@@ -78,7 +78,7 @@ native_label:
 > unlike the Straits of Tiran, 
 > though Iranian threats to close the strait and preparations to mine it have been made.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Strait%20of%20Hormuz)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Strait%20of%20Hormuz) 
 
 
 ## Confidential Links & Embeds: 

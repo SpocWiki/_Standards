@@ -25,7 +25,7 @@
 > though some of the humor has become controversial in retrospect. 
 > It was nominated for the Academy Award for Best Sound.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Diamonds%20Are%20Forever%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Diamonds%20Are%20Forever%20(film)) 
 
 
 ## Confidential Links & Embeds: 

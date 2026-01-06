@@ -63,7 +63,8 @@ A time period from 485.4 to 443.8 million years ago.
 >
 > Life continued to flourish during the Ordovician as it did in the earlier Cambrian Period, although the end of the period was marked by the Ordovician–Silurian extinction events. Invertebrates, namely molluscs and arthropods, dominated the oceans, with members of the latter group probably starting their establishment on land during this time, becoming fully established by the Devonian. The first land plants are known from this period. The Great Ordovician Biodiversification Event considerably increased the diversity of life. Fish, the world's first true vertebrates, continued to evolve, and those with jaws may have first appeared late in the period. About 100 times as many meteorites struck the Earth per year during the Ordovician compared with today.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ordovician)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ordovician) 
+
 
 #has_/label_/bg  :: Ордовик
 #has_/label_/cs  :: Ordovik

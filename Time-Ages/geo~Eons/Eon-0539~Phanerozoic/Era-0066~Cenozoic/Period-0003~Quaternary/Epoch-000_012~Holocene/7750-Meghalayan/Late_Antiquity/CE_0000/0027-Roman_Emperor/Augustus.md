@@ -194,7 +194,7 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 > He was succeeded as emperor by his adopted son Tiberius, 
 > Livia's son and former husband of Augustus's only biological child, Julia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Augustus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Augustus) 
 
 
 ## Confidential Links & Embeds: 

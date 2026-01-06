@@ -146,7 +146,7 @@ Krugosvet_article: nauka_i_tehnika/himiya/GABER_FRITS.html
 > He accepted the offer but died of heart failure mid-journey in a Basel, Switzerland hotel 
 > on 29 January 1934, aged 65.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fritz%20Haber)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fritz%20Haber) 
 
 
 ## Confidential Links & Embeds: 

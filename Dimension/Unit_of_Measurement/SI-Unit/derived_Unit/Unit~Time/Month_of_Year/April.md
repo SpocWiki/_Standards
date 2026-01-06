@@ -101,7 +101,7 @@ Iconclass_notation: 23I21
 >
 > April is commonly associated with the season of spring in the Northern Hemisphere, and autumn in the Southern Hemisphere, where it is the seasonal equivalent to October in the Northern Hemisphere and vice versa.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/April)  
+> [Wikipedia](https://en.wikipedia.org/wiki/April) 
 
 
 ## Confidential Links & Embeds: 

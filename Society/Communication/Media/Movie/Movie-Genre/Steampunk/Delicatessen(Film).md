@@ -12,10 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Delicatessen%20(1991%20film)) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Delicatessen(Film)|Delicatessen(Film)]] 

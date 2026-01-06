@@ -33,7 +33,7 @@ subclass_of: '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
 > These philosophies are often considered to be universal 
 > and include beliefs about concepts such as the afterlife, souls, and miracles.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Religious%20philosophy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Religious%20philosophy) 
 
 
 ## Confidential Links & Embeds: 

@@ -79,7 +79,7 @@ DPLA_subject_term:
 > many more than the number of the country's primary schools and health centers. 
 > The United States, by comparison, has approximately 1.5 million NGOs.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Non-governmental%20organization)
+> [Wikipedia](https://en.wikipedia.org/wiki/Non-governmental%20organization) 
 
 
 ## Confidential Links & Embeds: 

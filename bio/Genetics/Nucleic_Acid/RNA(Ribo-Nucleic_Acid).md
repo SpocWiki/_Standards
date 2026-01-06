@@ -82,7 +82,7 @@ Biology_Online_Biology_Dictionary_entry: ribonucleic-acid
 > a function performed today by protein enzymes, 
 > with the notable and important exception of the ribosome, which is a ribozyme.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/RNA)
+> [Wikipedia](https://en.wikipedia.org/wiki/RNA) 
 
 
 ## Confidential Links & Embeds: 

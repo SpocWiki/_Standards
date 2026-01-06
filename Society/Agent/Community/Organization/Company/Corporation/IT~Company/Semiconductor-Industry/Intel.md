@@ -69,7 +69,7 @@
 > Nevertheless, with a 68.4% market share as of 2023, 
 > Intel still leads the x86 market by a wide margin.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Intel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Intel) 
 
 
 ## Confidential Links & Embeds: 

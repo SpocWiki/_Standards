@@ -29,7 +29,7 @@ code_name: protective custody
 >
 > Museums commemorating the victims of the Nazi regime have been established at many of the former camps, and the **Nazi concentration camp** system is universally known for violence, terror, and mass murder.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nazi%20concentration%20camps)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nazi%20concentration%20camps) 
 
 
 ## Confidential Links & Embeds: 

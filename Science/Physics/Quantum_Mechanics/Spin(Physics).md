@@ -56,7 +56,7 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 > These are indicated by assigning the particle a spin quantum number.
 >
 > The SI units of spin are the same as classical angular momentum 
-> (i.e., N·m·s, J·s, or kg·m2·s−1). 
+> (i.e., N·m·s, J·s, or kg·m2·s�?). 
 > 
 > In quantum mechanics, angular momentum and spin angular momentum 
 > take discrete values proportional to the Planck constant. 

@@ -123,7 +123,7 @@ UNII: 0S6855V29M
 > Analysis of the relative concentrations of various uranium, thorium, and protactinium isotopes in water and minerals 
 > is used in radiometric dating of sediments up to 175,000 years old, and in modeling of various geological processes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Protactinium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Protactinium) 
 
 
 ## Confidential Links & Embeds: 

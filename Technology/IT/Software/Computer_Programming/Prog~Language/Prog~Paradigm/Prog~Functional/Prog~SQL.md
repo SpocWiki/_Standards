@@ -96,7 +96,8 @@ official_name: SQL
 > and most SQL code requires at least some changes 
 > before being ported to different database systems.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/SQL)
+> [Wikipedia](https://en.wikipedia.org/wiki/SQL) 
+
 
 #see  ![[../../../../../IT/Data/DataBase/Sql|Sql]]
 

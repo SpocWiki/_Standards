@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 2001-10-07 
-has_time_stopped: 2021-08-30 
+---
 aliases:
 has_id_wikidata: Q182865
 participant:
@@ -124,7 +122,7 @@ booru_tag: war_in_afghanistan
 > by the time the Taliban returned to power in 2021, 2.6 million Afghans remained refugees, 
 > while another 4 million were internally displaced.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/War%20in%20Afghanistan%20(2001%E2%80%932021))  
+> [Wikipedia](https://en.wikipedia.org/wiki/War%20in%20Afghanistan%20(2001%E2%80%932021)) 
 
 
 ## Confidential Links & Embeds: 

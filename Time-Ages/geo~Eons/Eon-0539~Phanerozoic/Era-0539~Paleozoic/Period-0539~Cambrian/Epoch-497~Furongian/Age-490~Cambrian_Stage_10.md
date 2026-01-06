@@ -31,7 +31,7 @@ A time period from 489.5 to 485.4 million years ago.
 
 > Stage 10 of the Cambrian is the still-unnamed third and final stage of the Furongian series. It follows the Jiangshanian and precedes the Ordovician Tremadocian Stage. The proposed lower boundary is the first appearance of the trilobite Lotagnostus americanus around 491 million years ago, but other fossils are also being discussed (see below). The upper boundary is defined as the appearance of the conodont Iapetognathus fluctivagus which marks the beginning of the Tremadocian and is radiometrically dated as 486.85 million years ago.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%2010)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%2010) 
 
 
 #has_/label_/bg  :: Камбрий - 10 етаж

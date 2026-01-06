@@ -28,7 +28,7 @@ aliases:
 > It was also the first Eon-produced Bond film officially released by Metro-Goldwyn-Mayer Pictures 
 > instead of MGM subsidiary United Artists, the franchise's original owner and distributor.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20World%20Is%20Not%20Enough)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20World%20Is%20Not%20Enough) 
 
 
 ## Confidential Links & Embeds: 

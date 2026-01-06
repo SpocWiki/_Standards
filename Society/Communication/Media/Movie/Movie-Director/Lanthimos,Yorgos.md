@@ -22,7 +22,7 @@ aliases:
 > He received nominations for the Academy Award for Best Director and Best Picture for both films; 
 > the latter also won the Golden Lion at the 80th Venice International Film Festival.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yorgos%20Lanthimos)
+> [Wikipedia](https://en.wikipedia.org/wiki/Yorgos%20Lanthimos) 
 
 
 ## Confidential Links & Embeds: 

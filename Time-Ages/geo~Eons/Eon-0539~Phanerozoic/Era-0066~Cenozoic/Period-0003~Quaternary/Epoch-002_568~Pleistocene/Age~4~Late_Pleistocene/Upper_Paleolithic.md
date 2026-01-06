@@ -56,7 +56,7 @@ Commons_category: Upper Paleolithic
 >
 > In Western Eurasia, the Paleolithic eases into the so-called Epipaleolithic or Mesolithic from the end of the LGM, beginning 15 ka. The Holocene glacial retreat begins 11.7 ka (10th millennium BC), falling well into the Old World Epipaleolithic, and marking the beginning of the earliest forms of farming in the Fertile Crescent.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Upper%20Paleolithic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Upper%20Paleolithic) 
 
 
 ## Confidential Links & Embeds: 

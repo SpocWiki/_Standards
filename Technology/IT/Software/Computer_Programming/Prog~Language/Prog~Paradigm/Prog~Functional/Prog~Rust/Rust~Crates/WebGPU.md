@@ -15,7 +15,7 @@
 > The first conceptual prototype called NXT was showcased in early 2017 by the Chromium team. The Google Chrome Development Team has named it as a "successor" to the WebGL/2 JavaScript APIs. 
 > On 2023-04-06, Google announced that the Chromium and Google Chrome browsers will ship with WebGPU support enabled on ChromeOS devices with Vulkan support, macOS, and Windows devices with Direct3D 12 starting with Chromium/Chrome 113. WebGPU support for other platforms including Linux and Android will be added at a later date.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/WebGPU)
+> [Wikipedia](https://en.wikipedia.org/wiki/WebGPU) 
 
 
 ## Confidential Links & Embeds: 

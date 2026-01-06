@@ -36,7 +36,7 @@ aliases:
 > Regardless, the film has since received critical acclaim. 
 > In the late 1990s, British director Adrian Lyne again adapted the novel to the big screen.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lolita%20(1962%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Lolita%20(1962%20film)) 
 
 
 ## Confidential Links & Embeds: 

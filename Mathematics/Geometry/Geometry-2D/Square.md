@@ -100,7 +100,7 @@ Dewey_Decimal_Classification: "516.154"
 > they have square-like regular polygons with four sides and other angles, 
 > or with right angles and different numbers of sides.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Square)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Square) 
 
 
 ## Confidential Links & Embeds: 

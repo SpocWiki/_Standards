@@ -228,7 +228,6 @@ ZVG_number: 8430
 
 ## #has_/text_of_/abstract 
 
-
 > **Cerium** is a chemical element with the symbol (Abbr::Ce) and atomic number (Charge-e::58). 
 > Cerium is a soft, ductile, and silvery-white metal that tarnishes when exposed to air. 
 > Cerium is the second element in the lanthanide series, 
@@ -256,7 +255,7 @@ ZVG_number: 8430
 > In 1839 Carl Gustaf Mosander became the first to isolate the metal. 
 > Today, cerium and its compounds have a variety of uses: for example, cerium(IV) oxide is used to polish glass and is an important part of catalytic converters. Cerium metal is used in ferrocerium lighters for its pyrophoric properties. Cerium-doped YAG phosphor is used in conjunction with blue light-emitting diodes to produce white light in most commercial white LED light sources.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cerium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cerium) 
 
 
 ## Confidential Links & Embeds: 

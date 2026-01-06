@@ -122,7 +122,7 @@ Information is Data with Relationships and Context
 > was already in digital bits in 2007 and that the year 2002 was the beginning of the digital age 
 > for information storage (with digital storage capacity bypassing analogue for the first time).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Information)
+> [Wikipedia](https://en.wikipedia.org/wiki/Information) 
 
 
 ## Confidential Links & Embeds: 

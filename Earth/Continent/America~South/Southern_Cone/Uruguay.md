@@ -553,7 +553,7 @@ Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]
 > as well as __same-sex marriage and abortion__. 
 > It is a founding member of the United Nations, OAS, and Mercosur.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Uruguay)
+> [Wikipedia](https://en.wikipedia.org/wiki/Uruguay) 
 
 
 ## #has_/place_/city   

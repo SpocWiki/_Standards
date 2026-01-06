@@ -11,7 +11,8 @@
 > One can transfer or lose ownership of property by selling it for money, exchanging it for other property, giving it as a gift, misplacing it, or having it stripped from one's ownership through legal means such as eviction, foreclosure, seizure, or taking. 
 > Ownership implies that the owner of a property also owns any economic benefits or deficits associated with the property.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ownership)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ownership) 
+
 
 Ownership was already discussed controversially by [[../../../Philosophy/Philosopher/Ancient_Philosopher/Plato|Plato]] and [[../../../Philosophy/Philosopher/Ancient_Philosopher/Aristotle|Aristotle]] . 
 

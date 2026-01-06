@@ -160,7 +160,7 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 >
 > The historian Diarmaid MacCulloch has written: "Augustine's impact on Western Christian thought can hardly be overstated; only his beloved example, Paul of Tarsus, has been more influential, and Westerners have generally seen Paul through Augustine's eyes."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Augustine%20of%20Hippo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Augustine%20of%20Hippo) 
 
 
 ## Confidential Links & Embeds: 

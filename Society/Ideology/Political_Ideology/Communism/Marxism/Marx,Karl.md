@@ -235,7 +235,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > on modern heterodox theories of labour and capital, 
 > and he is often cited as one of the principal architects of modern sociology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Karl%20Marx)
+> [Wikipedia](https://en.wikipedia.org/wiki/Karl%20Marx) 
 
 
 ## Confidential Links & Embeds: 

@@ -61,9 +61,7 @@ Commons_category: Illuminance
 > or about 1000 times that of direct sunlight, 
 > although this can be very uncomfortable and cause long-lasting afterimages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Illuminance)  
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Illuminance) 
 
 
 ## Confidential Links & Embeds: 

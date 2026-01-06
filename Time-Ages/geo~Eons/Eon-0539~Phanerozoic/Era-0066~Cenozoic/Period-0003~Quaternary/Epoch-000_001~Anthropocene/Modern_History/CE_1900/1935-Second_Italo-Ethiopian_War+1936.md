@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1935-10-03 
-has_time_stopped: 1937-02-19 
+---
 aliases:
   - Italian Invasion
   - ጣልያን ወረራ

@@ -49,7 +49,7 @@ aliases:
 > After living for several years with a degenerative aphasia, 
 > he gradually lost the ability to speak and died in 2020 from frontotemporal dementia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Terry%20Jones)
+> [Wikipedia](https://en.wikipedia.org/wiki/Terry%20Jones) 
 
 
 ## Confidential Links & Embeds: 

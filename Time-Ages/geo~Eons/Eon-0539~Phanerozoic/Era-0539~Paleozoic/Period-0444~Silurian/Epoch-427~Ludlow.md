@@ -41,7 +41,7 @@ A time period from 427.4 to 419.2 million years ago.
 >
 > The Ludlow Epoch is subdivided into two stages: Gorstian and Ludfordian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ludlow%20Epoch)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Ludlow%20Epoch) 
 
 
 #has_/label_/bg  :: Лудлоу

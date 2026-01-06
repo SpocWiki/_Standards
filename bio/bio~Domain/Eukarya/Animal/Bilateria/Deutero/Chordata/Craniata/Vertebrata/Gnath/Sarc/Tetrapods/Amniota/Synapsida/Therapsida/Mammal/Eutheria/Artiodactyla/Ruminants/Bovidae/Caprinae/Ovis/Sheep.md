@@ -90,7 +90,8 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/OVTSA.html
 >
 > As a key animal in the history of farming, sheep have a deeply entrenched place in human culture, and are represented in much modern language and symbolism. As livestock, sheep are most often associated with pastoral, Arcadian imagery. Sheep figure in many mythologies—such as the Golden Fleece—and major religions, especially the Abrahamic traditions. In both ancient and modern religious ritual, sheep are used as sacrificial animals.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sheep)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sheep) 
+
 
 ## Phylogeny 
 

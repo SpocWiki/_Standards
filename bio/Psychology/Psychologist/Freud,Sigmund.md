@@ -166,7 +166,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 >
 > Though in overall decline as a diagnostic and clinical practice, psychoanalysis remains influential within psychology, psychiatry, psychotherapy, and across the humanities. It thus continues to generate extensive and highly contested debate concerning its therapeutic efficacy, its scientific status, and whether it advances or hinders the feminist cause. Nonetheless, Freud's work has suffused contemporary Western thought and popular culture. W. H. Auden's 1940 poetic tribute to Freud describes him as having created "a whole climate of opinion / under whom we conduct our different lives".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sigmund%20Freud)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sigmund%20Freud) 
 
 
 ## Confidential Links & Embeds: 

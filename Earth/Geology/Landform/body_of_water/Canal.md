@@ -87,7 +87,7 @@ A canal, like the Panama Canal.
 >
 > The term was once used to describe linear features seen on the surface of Mars, Martian canals, an optical illusion.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Canal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Canal) 
 
 
 ## Confidential Links & Embeds: 

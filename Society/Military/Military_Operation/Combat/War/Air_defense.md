@@ -28,7 +28,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/voennaya_tehnika/PROTIVOVOZDUSHNAYA
 >
 > Until the 1950s, guns firing ballistic munitions ranging from 7.62 mm (.30 in) to 152.4 mm (6 in) were the standard weapons; guided missiles then became dominant, except at the very shortest ranges (as with close-in weapon systems, which typically use rotary autocannons or, in very modern systems, surface-to-air adaptations of short-range air-to-air missiles, often combined in one system with rotary cannons).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Anti-aircraft%20warfare)
+> [Wikipedia](https://en.wikipedia.org/wiki/Anti-aircraft%20warfare) 
 
 
 ## Confidential Links & Embeds: 

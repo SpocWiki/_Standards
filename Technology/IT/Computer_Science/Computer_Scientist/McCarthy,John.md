@@ -121,7 +121,8 @@ ISNI: "0000000083561989"
 > the United States National Medal of Science, 
 > and the Kyoto Prize.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20McCarthy%20(computer%20scientist))
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20McCarthy%20(computer%20scientist)) 
+
 
 ![John McCarthy (computer scientist) - Wikipedia](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 

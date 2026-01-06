@@ -146,7 +146,9 @@ i.e. **all cetaceans apart from** [dolphins](https://en.wikipedia.org/wiki/Dolph
 >
 > Cetaceans have been extensively hunted for their meat, blubber and oil by commercial operations. Although the International Whaling Commission has agreed on putting a halt to commercial whaling, whale hunting is still going on, either under IWC quotas to assist the subsistence of Arctic native people or in the name of scientific research, although a large spectrum of non-lethal methods are now available to study marine mammals in the wild. Cetaceans also face severe environmental hazards from underwater noise pollution, entanglement in abandoned ropes and nets, collisions with ships, plastic and heavy metals build-up, to accelerating climate change, but how much they are affected varies widely from species to species, from minimally in the case of the southern bottlenose whale to the baiji (Chinese river dolphin) which is considered to be functionally extinct due to human activity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cetacea)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cetacea) 
+
+
     -   [Primates](Primates.md)
     -   [Scandentia](Scandentia.md)
     -   [Chiroptera](Chiroptera.md)

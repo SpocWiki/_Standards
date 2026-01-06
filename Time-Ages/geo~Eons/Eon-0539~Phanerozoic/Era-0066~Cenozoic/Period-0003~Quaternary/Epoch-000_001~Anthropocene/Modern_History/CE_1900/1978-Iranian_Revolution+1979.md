@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1978-01-01 
-has_time_stopped: 1979-02-01 
+---
 aliases:
   - Iranian Revolution
   - Iranian_Revolution

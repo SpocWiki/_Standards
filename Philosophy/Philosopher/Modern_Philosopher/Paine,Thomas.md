@@ -160,7 +160,7 @@ Krugosvet_article_archived_: istoriya/PEN_TOMAS.html
 > Only six people attended his funeral, 
 > as he had been ostracized for his ridicule of Christianity and his attacks on the nation's leaders.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Paine)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Paine) 
 
 
 ## Confidential Links & Embeds: 

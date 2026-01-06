@@ -113,7 +113,6 @@ ZVG_number: 8130
 
 ## #has_/text_of_/abstract 
 
-
 > **Sulfur** (or sulphur in British English) 
 > is a chemical element with the symbol (Abbr::S) and atomic number (Charge-e::16). 
 > It is abundant, multivalent and nonmetallic. 
@@ -146,7 +145,7 @@ ZVG_number: 8130
 > Sulfur is one of the core chemical elements needed for biochemical functioning 
 > and is an elemental macronutrient for all living organisms.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sulfur)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sulfur) 
 
 
 ## Confidential Links & Embeds: 

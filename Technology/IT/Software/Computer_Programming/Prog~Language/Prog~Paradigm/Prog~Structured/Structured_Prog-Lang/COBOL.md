@@ -82,7 +82,7 @@ name_in_kana: コボル
 >
 > For years, COBOL has been assumed as a programming language for business operations in mainframes, although in recent years, many COBOL operations have been moved to cloud computing.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/COBOL)
+> [Wikipedia](https://en.wikipedia.org/wiki/COBOL) 
 
 
 ## Confidential Links & Embeds: 

@@ -37,7 +37,7 @@ P8189: 987007541111005171
 >
 > Particular points of Buddhist philosophy have often been the subject of disputes between different schools of Buddhism, as well as between representative thinkers of Buddhist schools and Hindu or Jaina philosophers. These elaborations and disputes gave rise to various early Buddhist schools of Abhidharma, the Mahāyāna movement, and scholastic traditions such as Prajñāpāramitā, Sarvāstivāda, Mādhyamaka, Sautrāntika, Vaibhāṣika, Buddha-nature, Yogācāra, and more. One recurrent theme in Buddhist philosophy has been the desire to find a Middle Way between philosophical views seen as extreme.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Buddhist%20philosophy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Buddhist%20philosophy) 
 
 
 ## Confidential Links & Embeds: 

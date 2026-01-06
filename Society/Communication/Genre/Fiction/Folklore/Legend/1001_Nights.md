@@ -111,7 +111,7 @@ vocalized_name: أَلْفُ لَيْلَةٍ وَلَيْلَة
 > Other stories, such as "The Seven Voyages of Sinbad the Sailor", 
 > had an independent existence before being added to the collection.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/One%20Thousand%20and%20One%20Nights)
+> [Wikipedia](https://en.wikipedia.org/wiki/One%20Thousand%20and%20One%20Nights) 
 
 
 ## Confidential Links & Embeds: 

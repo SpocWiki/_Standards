@@ -59,7 +59,7 @@ The SI-Unit is [[Torque/Unit~NewtonMeter]].
 > for example, driving a screw uses torque to force it into an object, 
 > which is applied by the screwdriver rotating around its axis to the drives on the head.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Torque)
+> [Wikipedia](https://en.wikipedia.org/wiki/Torque) 
 
 
 ## Confidential Links & Embeds: 

@@ -14,7 +14,7 @@ aliases:
 > 
 > Simmons was inducted into the Rock and Roll Hall of Fame in 2014 as a member of Kiss.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gene%20Simmons)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gene%20Simmons) 
 
 
 ## Confidential Links & Embeds: 

@@ -212,7 +212,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > In 1948, it was renamed the **Max Planck** Society (Max-Planck-Gesellschaft) 
 > and nowadays includes 83 institutions representing a wide range of scientific directions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Max%20Planck)
+> [Wikipedia](https://en.wikipedia.org/wiki/Max%20Planck) 
 
 
 ## Confidential Links & Embeds: 

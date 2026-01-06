@@ -258,7 +258,7 @@ DSSTOX_compound_identifier: DTXCID501030562
 > In 2017, the Global Burden of Disease study found that 
 > cocaine use caused around 7,300 deaths annually.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cocaine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cocaine) 
 
 
 ## Confidential Links & Embeds: 

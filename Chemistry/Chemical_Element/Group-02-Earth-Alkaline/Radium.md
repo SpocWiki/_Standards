@@ -85,7 +85,6 @@ UNII: W90AYD6R3Q
 
 ## #has_/text_of_/abstract 
 
-
 > **Radium** is a chemical element with the symbol (Abbr::Ra) and atomic number (Charge-e::88). 
 > It is the sixth element in group 2 of the periodic table, also known as the alkaline earth metals. 
 > 
@@ -117,7 +116,7 @@ UNII: W90AYD6R3Q
 > These applications have become obsolete owing to radium's toxicity; 
 > as of 2020, less dangerous isotopes (of other elements) are instead used in radioluminescent devices.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Radium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Radium) 
 
 
 ## Confidential Links & Embeds: 

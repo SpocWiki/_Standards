@@ -360,7 +360,7 @@ writing_system:
 > 
 > Thus, although most of its total vocabulary now comes from Romance languages, its grammar, phonology, and most commonly-used words keep it genealogically classified under the Germanic branch. English exists on a dialect continuum with Scots and then is most closely related to the Low Saxon and Frisian languages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/English%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/English%20language) 
 
 
 | Cockney Feature                | Estuary English |

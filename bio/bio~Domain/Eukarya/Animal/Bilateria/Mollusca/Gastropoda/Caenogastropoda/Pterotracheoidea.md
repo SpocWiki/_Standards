@@ -16,7 +16,7 @@ Heteropoda [Lamarck, 1812], heteropods, sea elephants
 > a taxonomic  superfamily of sea snails or sea slugs, marine gastropod molluscs 
 > in the clade Littorinimorpha. They are commonly called heteropods or sea elephants.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pterotracheoidea)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Pterotracheoidea) 
 
 
 ## Introduction

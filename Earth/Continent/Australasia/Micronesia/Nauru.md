@@ -359,7 +359,7 @@ Capital :: [[Yaren]]
 >
 > Nauru is a phosphate-rock island with rich deposits near the surface, which allowed easy strip mining operations for over a century. However, this has seriously harmed the country's environment, causing the island nation to suffer from what is often referred to as the "resource curse". The phosphate was exhausted in the 1990s, and the remaining reserves are not economically viable for extraction. A trust established to manage the island's accumulated mining wealth, set up for the day the reserves would be exhausted, has diminished in value. To earn income, Nauru briefly became a tax haven and illegal money laundering centre.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nauru)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nauru) 
 
 
 ## Confidential Links & Embeds: 

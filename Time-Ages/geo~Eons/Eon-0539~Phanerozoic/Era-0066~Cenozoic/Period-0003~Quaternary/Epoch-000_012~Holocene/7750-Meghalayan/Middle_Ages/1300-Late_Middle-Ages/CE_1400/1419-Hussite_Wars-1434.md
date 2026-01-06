@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1419-08-08 
-has_time_stopped: 1434-06-08 
+---
 aliases:
   - Hussite Wars
   - Bohemian Wars

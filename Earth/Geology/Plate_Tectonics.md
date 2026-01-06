@@ -44,7 +44,7 @@ Commons_gallery: Tectonic plate
 >
 > Tectonic plates are relatively rigid and float across the ductile asthenosphere beneath. Lateral density variations in the mantle result in convection currents, the slow creeping motion of Earth's solid mantle. At a seafloor spreading ridge, plates move away from the ridge, which is a topographic high, and the newly formed crust cools as it moves away, increasing its density and contributing to the motion. At a subduction zone, the relatively cold, dense oceanic crust sinks down into the mantle, forming the downward convecting limb of a mantle cell, which is the strongest driver of plate motion. The relative importance and interaction of other proposed factors such as active convection, upwelling inside the mantle, and tidal drag of the Moon is still the subject of debate.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Plate%20tectonics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Plate%20tectonics) 
 
 
 ## Confidential Links & Embeds: 

@@ -421,7 +421,7 @@ Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]
 >
 > Seychellois culture and society is an eclectic mix of French, British, and African influences, with infusions of Chinese and Indian elements. The country is a member of the United Nations, the African Union, the Southern African Development Community, and the Commonwealth of Nations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Seychelles)
+> [Wikipedia](https://en.wikipedia.org/wiki/Seychelles) 
 
 
 ## Confidential Links & Embeds: 

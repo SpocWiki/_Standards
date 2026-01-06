@@ -155,7 +155,7 @@ Wolfram_Language_entity_code: Entity["Element", "Hydrogen"]
 > 
 > Hydrogen's interaction with metals may cause embrittlement.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hydrogen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hydrogen) 
 
 
 ## Hydrogen_Source
@@ -177,7 +177,6 @@ Hydrogen is classified by **"color labels"** to indicate the **primary energy so
 ## TriHydrogen 
 
 ### #has_/text_of_/abstract 
-
 
 > The trihydrogen cation or protonated molecular hydrogen is a cation (positive ion) 
 > with formula H+3, consisting of three hydrogen nuclei (protons) sharing two electrons.

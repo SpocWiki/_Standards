@@ -1,5 +1,4 @@
-﻿---
-has_time_started: 1190-01-01 
+---
 aliases:
   - Teutonic Order
   - Deutscher Orden

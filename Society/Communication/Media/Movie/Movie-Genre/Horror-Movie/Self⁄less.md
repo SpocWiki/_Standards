@@ -20,7 +20,7 @@
 > The film grossed $12 million in North America 
 > and a total of $30 million worldwide, against a $26 million production budget.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Self/less)
+> [Wikipedia](https://en.wikipedia.org/wiki/Self/less) 
 
 
 ## Confidential Links & Embeds: 

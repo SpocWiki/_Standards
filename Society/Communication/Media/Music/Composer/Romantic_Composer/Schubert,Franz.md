@@ -111,7 +111,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 >
 > Appreciation of Schubert's music while he was alive was limited to a relatively small circle of admirers in Vienna, but interest in his work increased greatly in the decades following his death. Felix Mendelssohn, Robert Schumann, Franz Liszt, Johannes Brahms and other 19th-century composers discovered and championed his works. Today, Schubert is considered one of the greatest composers in the history of Western classical music and his music continues to be widely performed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Schubert)
+> [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Schubert) 
 
 
 ## Confidential Links & Embeds: 

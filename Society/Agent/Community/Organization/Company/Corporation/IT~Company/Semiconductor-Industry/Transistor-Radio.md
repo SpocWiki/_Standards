@@ -24,7 +24,8 @@
 > portable CD players, personal audio players, MP3 players 
 > and (eventually) by smartphones, many of which contain FM radios. 
 > 
-> [Wikipedia](https://en.wikipedia.org/wiki/Transistor%20radio)
+> [Wikipedia](https://en.wikipedia.org/wiki/Transistor%20radio) 
+
 
 The use of transistors instead of [vacuum tubes](https://en.wikipedia.org/wiki/Vacuum_tube "Vacuum tube") as the amplifier elements 
 meant that the device was much smaller, required far less power to operate 

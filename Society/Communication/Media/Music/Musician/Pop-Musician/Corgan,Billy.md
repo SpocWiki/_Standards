@@ -38,7 +38,7 @@ aliases:
 > He purchased the National Wrestling Alliance (NWA) in 2017 
 > and thereafter made it his primary focus in professional wrestling.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Billy%20Corgan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Billy%20Corgan) 
 
 
 ## Confidential Links & Embeds: 

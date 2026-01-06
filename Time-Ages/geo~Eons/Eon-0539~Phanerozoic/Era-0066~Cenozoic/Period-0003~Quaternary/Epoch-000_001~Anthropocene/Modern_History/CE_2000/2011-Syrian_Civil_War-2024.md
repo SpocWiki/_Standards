@@ -1,5 +1,4 @@
 ﻿---
-has_time_started: 2011-03-15 
 location: [ 38.0 , 35.0 ] 
 aliases:
   - Syrischer Bürgerkrieg

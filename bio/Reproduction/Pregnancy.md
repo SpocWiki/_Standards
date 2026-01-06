@@ -60,7 +60,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Time%20Lapse%20Pregnan
 >
 > Prenatal care improves pregnancy outcomes. Nutrition during pregnancy is important to ensure healthy growth of the fetus.  Prenatal care also include avoiding recreational drugs (including tobacco and alcohol), taking regular exercise, having blood tests, and regular physical examinations. Complications of pregnancy may include disorders of high blood pressure, gestational diabetes, iron-deficiency anemia, and severe nausea and vomiting. In the ideal childbirth, labor begins on its own "at term". Babies born before 37 weeks are "preterm" and at higher risk of health problems such as cerebral palsy. Babies born between weeks 37 and 39 are considered "early term" while those born between weeks 39 and 41 are considered "full term". Babies born between weeks 41 and 42 weeks are considered "late-term" while after 42 weeks they are considered "post-term". Delivery before 39 weeks by labor induction or caesarean section is not recommended unless required for other medical reasons.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pregnancy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pregnancy) 
 
 
 ## Confidential Links & Embeds: 

@@ -59,7 +59,7 @@ Library_of_Congress_Classification: GN419.3
 >
 > Although tattoo art has existed at least since the first known tattooed person, Ötzi, lived around the year 3330 BCE, the way society perceives tattoos has varied immensely throughout history. In the 20th century, tattoo art throughout most of the world was associated with certain lifestyles, notably sailors and prisoners (see sailor tattoos and prison tattooing). In the 21st century, people choose to be tattooed for artistic, cosmetic, sentimental/memorial, religious, and spiritual reasons, or to symbolize their belonging to or identification with particular groups, including criminal gangs (see criminal tattoos) or a particular ethnic group or law-abiding subculture. Tattoos may show how a person feels about a relative (commonly a parent or child) or about an unrelated person. Tattoos can also be used for functional purposes, such as identification, permanent makeup, and medical purposes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tattoo)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Tattoo) 
 
 
 ## Confidential Links & Embeds: 

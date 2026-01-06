@@ -237,7 +237,7 @@ ISNI: 0000000121334032
 >
 > Mondrian's work had an enormous influence on 20th-century art, influencing not only the course of abstract painting and numerous major styles and art movements (e.g. Color Field painting, Abstract Expressionism and Minimalism), but also fields outside the domain of painting, such as design, architecture and fashion. Design historian Stephen Bayley said: "Mondrian has come to mean Modernism. His name and his work sum up the High Modernist ideal. I don't like the word 'iconic', so let's say that he's become totemic – a totem for everything Modernism set out to be."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Piet%20Mondrian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Piet%20Mondrian) 
 
 
 ## Confidential Links & Embeds: 

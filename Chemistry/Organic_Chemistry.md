@@ -50,7 +50,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_organic_chemistry,711269
 >
 > Organic compounds form the basis of all earthly life and constitute the majority of known chemicals. The bonding patterns of carbon, with its valence of four—formal single, double, and triple bonds, plus structures with delocalized electrons—make the array of organic compounds structurally diverse, and their range of applications enormous. They form the basis of, or are constituents of, many commercial products including pharmaceuticals; petrochemicals and agrichemicals, and products made from them including lubricants, solvents; plastics; fuels and explosives. The study of organic chemistry overlaps organometallic chemistry and biochemistry, but also with medicinal chemistry, polymer chemistry, and materials science.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Organic%20chemistry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Organic%20chemistry) 
 
 
 ## Confidential Links & Embeds: 

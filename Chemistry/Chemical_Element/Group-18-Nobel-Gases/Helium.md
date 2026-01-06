@@ -109,7 +109,6 @@ ZVG_number: 7020
 
 ## #has_/text_of_/abstract 
 
-
 > **Helium** (from Greek: ἥλιος, romanized: helios, lit. 'sun') 
 > is a chemical element with the symbol (Abbr::He) and atomic number (Charge-e::2). 
 > 
@@ -129,7 +128,7 @@ ZVG_number: 7020
 >
 > On Earth, it is relatively rare—5.2 ppm by volume in the atmosphere. Most terrestrial helium present today is created by the natural radioactive decay of heavy radioactive elements (thorium and uranium, although there are other examples), as the alpha particles emitted by such decays consist of helium-4 nuclei. This radiogenic helium is trapped with natural gas in concentrations as great as 7% by volume, from which it is extracted commercially by a low-temperature separation process called fractional distillation. Terrestrial helium is a non-renewable resource because once released into the atmosphere, it promptly escapes into space. Its supply is thought to be rapidly diminishing. However, some studies suggest that helium produced deep in the earth by radioactive decay can collect in natural gas reserves in larger than expected quantities, in some cases, having been released by volcanic activity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Helium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Helium) 
 
 
 ## Confidential Links & Embeds: 

@@ -18,7 +18,7 @@
 >
 > Borland added support for object-oriented programming to [[OO-Lang/Turbo-Pascal]] 5.5, which would eventually become the basis for the Object Pascal dialect used in [[OO-Lang/Prog~Delphi]]. Delphi remained mainstream for business applications on the PC into the early 2000s, and was partly displaced in the 2000s with the introduction of the .NET Framework.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Object%20Pascal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Object%20Pascal) 
 
 
 ## Confidential Links & Embeds: 

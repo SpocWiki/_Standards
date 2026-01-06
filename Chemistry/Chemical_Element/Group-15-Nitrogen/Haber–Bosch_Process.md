@@ -231,7 +231,7 @@ Mineral Fertilizer can be fine-adjusted to the soil.
 >
 > The German chemists Fritz Haber and Carl Bosch developed the process in the first decade of the 20th century, and its improved efficiency over existing methods such as the Birkeland-Eyde and Frank-Caro processes was a major advancement in the industrial production of ammonia. The Haber process can be combined with steam reforming to produce ammonia with just three chemical inputs: water, natural gas, and atmospheric nitrogen. Both Haber and Bosch were eventually awarded the Nobel Prize in Chemistry: Haber in 1918 for ammonia synthesis specifically, and Bosch in 1931 for related contributions to high-pressure chemistry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Haber%20process)
+> [Wikipedia](https://en.wikipedia.org/wiki/Haber%20process) 
 
 
 ## Confidential Links & Embeds: 

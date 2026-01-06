@@ -5,7 +5,7 @@
 >
 > Valmont received an Oscar nomination for Best Costume Design (Theodor Pištěk). It was Fabia Drake's final film role.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Valmont%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Valmont%20(film)) 
 
 
 ## Confidential Links & Embeds: 

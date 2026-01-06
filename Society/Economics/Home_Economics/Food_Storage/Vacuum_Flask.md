@@ -51,7 +51,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Thermos
 > They are also used for thermal cooking. 
 > Vacuum flasks are also used for many purposes in industry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vacuum%20flask)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Vacuum%20flask) 
 
 
 ## Confidential Links & Embeds: 

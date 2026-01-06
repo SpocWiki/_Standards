@@ -44,7 +44,8 @@
 > as an indicator for the semiconductor and electronics industry as a whole, 
 > since the company sells to more than 100,000 customers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Texas%20Instruments)
+> [Wikipedia](https://en.wikipedia.org/wiki/Texas%20Instruments) 
+
 
 In early 1952, Texas Instruments purchased a patent license 
 to produce germanium [[../../../../../../../../Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor]]s from [Western Electric](https://en.wikipedia.org/wiki/Western_Electric "Western Electric"), 

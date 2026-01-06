@@ -25,7 +25,7 @@ TA98_Latin_term: canalis radicis dentis
 > the main canal(s), and more intricate anatomical branches 
 > that may connect the root canals to each other or to the surface of the root.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Root%20canal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Root%20canal) 
 
 
 ## Confidential Links & Embeds: 

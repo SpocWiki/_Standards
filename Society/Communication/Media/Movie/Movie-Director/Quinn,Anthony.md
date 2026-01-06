@@ -44,7 +44,7 @@ aliases:
 > Through both his artistic endeavors and activism, he is considered 
 > a seminal figure of Latin-American representation in the media of the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Anthony%20Quinn)
+> [Wikipedia](https://en.wikipedia.org/wiki/Anthony%20Quinn) 
 
 
 ## Confidential Links & Embeds: 

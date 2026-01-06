@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 0395-01-18 
-has_time_stopped: 0476-01-01 
+---
 aliases:
 has_id_wikidata: Q42834
 inception: 0395-01-18T00:00:00Z
@@ -90,7 +88,7 @@ OpenStreetMap_tag: historic:civilization=western_roman
 >
 > In the 6th century, Emperor Justinian I re-imposed direct Imperial rule on large parts of the former Western Roman Empire, including the prosperous regions of North Africa, the ancient Roman heartland of Italy and parts of Hispania. Political instability in the Eastern heartlands, combined with foreign invasions, plague, and religious differences, made efforts to retain control of these territories difficult and they were gradually lost for good. Though the Eastern Empire retained territories in the south of Italy until the eleventh century, the influence that the Empire had over Western Europe had diminished significantly. The papal coronation of the Frankish king Charlemagne as Roman Emperor in 800 marked a new imperial line that would evolve into the Holy Roman Empire, which presented a revival of the Imperial title in Western Europe but was in no meaningful sense an extension of Roman traditions or institutions. The Great Schism of 1054 between the churches of Rome and Constantinople further diminished any authority the emperor in Constantinople could hope to exert in the West.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Western%20Roman%20Empire)
+> [Wikipedia](https://en.wikipedia.org/wiki/Western%20Roman%20Empire) 
 
 
 ## Confidential Links & Embeds: 

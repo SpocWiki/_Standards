@@ -16,7 +16,7 @@
 >
 > Simula has been used in a wide range of applications such as simulating very-large-scale integration (VLSI) designs, process modeling, communication protocols, algorithms, and other applications such as typesetting, computer graphics, and education. The influence of Simula is often understated, and Simula-type objects are reimplemented in C++, Object Pascal, Java, C#, and many other languages. Computer scientists such as Bjarne Stroustrup, creator of C++, and James Gosling, creator of Java, have acknowledged Simula as a major influence.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Simula)
+> [Wikipedia](https://en.wikipedia.org/wiki/Simula) 
 
 
 ## Confidential Links & Embeds: 

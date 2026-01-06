@@ -91,7 +91,6 @@ under high temperatures and pressures together with mineralic Sources like [[Hyd
 
 ## #has_/text_of_/abstract 
 
-
 > **Life** is a quality that distinguishes matter that has biological processes, 
 > such as signaling and self-sustaining processes, from matter that does not. 
 > 
@@ -131,7 +130,7 @@ under high temperatures and pressures together with mineralic Sources like [[Hyd
 > Life is only known to exist on Earth but extraterrestrial life is thought probable. 
 > Artificial life is being simulated and explored by scientists and engineers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Life)
+> [Wikipedia](https://en.wikipedia.org/wiki/Life) 
 
 
 ## Confidential Links & Embeds: 

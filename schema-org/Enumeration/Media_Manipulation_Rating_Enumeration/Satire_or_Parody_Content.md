@@ -70,7 +70,8 @@ Content coded 'satire or parody content' in a [[MediaReview]], considered in the
 > Satire is found in many artistic forms of expression, including internet memes, 
 > literature, plays, commentary, music, film and television shows, and media such as lyrics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Satire)
+> [Wikipedia](https://en.wikipedia.org/wiki/Satire) 
+
 
 Content that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context 
 are more likely to fall under the missing context rating.)

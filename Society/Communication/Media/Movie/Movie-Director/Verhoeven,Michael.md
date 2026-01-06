@@ -6,7 +6,8 @@
 > was a German film director, screenwriter, film and television producer, actor. 
 > He was also a qualified doctor of medicine.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Verhoeven)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Verhoeven) 
+
 
 [[Weiße_Rose(1982)]]  
 [[schreckliche_Mädchen(1990)]] was nominated for an Academy Award. 

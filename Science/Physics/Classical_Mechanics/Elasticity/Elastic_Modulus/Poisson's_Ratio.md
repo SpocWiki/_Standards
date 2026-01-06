@@ -59,8 +59,6 @@ Commons_category: Poisson coefficient
 > [Wikipedia](https://en.wikipedia.org/wiki/Poisson's%20ratio) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus/Poisson's_Ratio|Poisson's_Ratio]] 

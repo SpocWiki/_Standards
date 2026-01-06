@@ -26,7 +26,8 @@
 > (including graphics, sound, and other programs) in creative ways 
 > by creating and "remixing" projects, like video games, animations, music, and simulations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Scratch%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Scratch%20(programming%20language)) 
+
 
 ![[../../../../../../assets/Knowledge/Prog~Scratch.png]] 
 

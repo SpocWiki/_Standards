@@ -17,7 +17,7 @@
 > and the 2020 Nobel Prize in Physics 
 > "for the discovery that black hole formation is a robust prediction of the general theory of relativity".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Penrose)
+> [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Penrose) 
 
 
 ## Confidential Links & Embeds: 

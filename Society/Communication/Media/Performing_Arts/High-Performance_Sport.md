@@ -151,7 +151,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
 > The world's most accessible and practised sport is running, 
 > while [[High-Performance_Sport/Team_Sport/Football/Association_Football]] is the most popular spectator sport.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sport)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sport) 
 
 
 ## Confidential Links & Embeds: 

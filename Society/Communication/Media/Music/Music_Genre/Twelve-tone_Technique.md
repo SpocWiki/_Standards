@@ -50,8 +50,6 @@ inception: 1923-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Twelve-tone%20technique) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Twelve-tone_Technique|Twelve-tone_Technique]] 

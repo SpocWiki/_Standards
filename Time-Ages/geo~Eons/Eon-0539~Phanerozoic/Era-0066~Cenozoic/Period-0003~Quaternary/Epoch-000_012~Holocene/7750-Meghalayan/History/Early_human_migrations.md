@@ -28,7 +28,7 @@ image:
 >
 > After the Last Glacial Maximum, North Eurasian populations migrated to the Americas about 20,000 years ago.  Arctic Canada and Greenland were reached by the Paleo-Eskimo expansion around 4,000 years ago. Finally, Polynesia was populated within the past 2,000 years in the last wave of the Austronesian expansion.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Early%20human%20migrations)
+> [Wikipedia](https://en.wikipedia.org/wiki/Early%20human%20migrations) 
 
 
 ## Confidential Links & Embeds: 

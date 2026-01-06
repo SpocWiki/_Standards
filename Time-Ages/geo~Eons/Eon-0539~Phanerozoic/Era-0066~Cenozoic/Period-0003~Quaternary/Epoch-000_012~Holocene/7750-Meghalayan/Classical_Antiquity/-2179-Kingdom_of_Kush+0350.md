@@ -1,5 +1,4 @@
 ﻿---
-has_time_stopped: 0350-01-01 
 location: [ 33.83 , 17.18 ] 
 aliases:
   - Kushite Empire
@@ -106,7 +105,7 @@ name: ⲉϭⲱϣ
 > maintained a complex economy based on trade and industry; mastered archery; 
 > and developed a complex, urban society with uniquely high levels of female participation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kingdom%20of%20Kush)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kingdom%20of%20Kush) 
 
 
 ## Confidential Links & Embeds: 

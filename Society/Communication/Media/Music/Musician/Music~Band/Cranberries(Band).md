@@ -23,9 +23,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Cranberries) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Cranberries(Band)|Cranberries(Band)]] 

@@ -113,7 +113,7 @@ X_Twitter_username: ASEAN
 >
 > ASEAN engages with other supranational entities in the Asia-Pacific region and other parts of the world. It is a major partner of the UN, SCO, PA, GCC, MERCOSUR, CELAC, and ECO. It also hosts diplomatic missions throughout the world, maintaining a global network of relationships that is widely regarded as the central forum for cooperation in the region. Its success has become the driving force of some of the largest trade blocs in history, including APEC and RCEP.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/ASEAN)
+> [Wikipedia](https://en.wikipedia.org/wiki/ASEAN) 
 
 
 ## Confidential Links & Embeds: 

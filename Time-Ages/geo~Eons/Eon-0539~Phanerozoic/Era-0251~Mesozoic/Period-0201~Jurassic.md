@@ -54,7 +54,6 @@ A time period from 201.4 million years ago to 145 Mya.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Jurassic** ( juu-RASS-ik) is a geologic period and stratigraphic system that spanned 
 > from the end of the [[Period-0252~Triassic]] 201.4 million years ago (Mya) 
 > to the beginning of the [[Period-0145~Cretaceous]], approximately 145 Mya. 
@@ -69,7 +68,8 @@ A time period from 201.4 million years ago to 145 Mya.
 >
 > On land, the fauna transitioned from the Triassic fauna, dominated jointly by dinosauromorph and pseudosuchian archosaurs, to one dominated by dinosaurs alone. The first birds appeared during the Jurassic, evolving from a branch of theropod dinosaurs. Other major events include the appearance of the earliest crabs and modern lizards, and the diversification of early mammals. Crocodylomorphs made the transition from a terrestrial to an aquatic life. The oceans were inhabited by marine reptiles such as ichthyosaurs and plesiosaurs, while pterosaurs were the dominant flying vertebrates. Modern sharks and rays first appeared and diversified during the period. The flora was dominated by ferns and gymnosperms, including conifers, of which many modern groups made their first appearance during the period, as well as other groups the extinct Bennettitales.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jurassic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jurassic) 
+
 
 #has_/label_/bg  :: Юра
 #has_/label_/cs  :: Jura

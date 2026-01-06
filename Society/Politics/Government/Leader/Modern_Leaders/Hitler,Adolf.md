@@ -209,7 +209,7 @@ type: private_note
 > The number of civilians killed during World War II was unprecedented in warfare, 
 > and the casualties constitute the deadliest conflict in history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Adolf%20Hitler)
+> [Wikipedia](https://en.wikipedia.org/wiki/Adolf%20Hitler) 
 
 
 ## Confidential Links & Embeds: 

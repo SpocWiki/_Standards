@@ -113,7 +113,7 @@ Libris_URI: gdsvpsv01w1kcbk
 >
 > Genghis Khan remains a controversial figure. He was generous and intensely loyal to his followers, but ruthless towards his enemies. He welcomed advice from diverse sources in his quest for world domination, for which he believed the shamanic supreme deity Tengri had destined him. The Mongol army under Genghis killed millions of people, yet his conquests also facilitated unprecedented commercial and cultural exchange over a vast geographical area. He is remembered as a backwards, savage tyrant in Russia and the Arab world, while recent Western scholarship has begun to reassess its previous view of him as a barbarian warlord. He was posthumously deified in Mongolia; modern Mongolians recognise him as the founding father of their nation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Genghis%20Khan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Genghis%20Khan) 
 
 
 ## Confidential Links & Embeds: 

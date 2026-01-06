@@ -43,7 +43,7 @@ aliases:
 > He was inducted into the Rock and Roll Hall of Fame as a member of Genesis in 2010, 
 > and as a solo artist in 2014. In March 2015, he was awarded an honorary doctorate from the University of South Australia in recognition of his achievements in music.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Gabriel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Gabriel) 
 
 
 ## Confidential Links & Embeds: 

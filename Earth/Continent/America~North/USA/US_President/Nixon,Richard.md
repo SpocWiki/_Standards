@@ -205,7 +205,7 @@ Plex_person_key: 5d77682b2e80df001ebdd55e
 > contrasting his presidency's domestic and foreign policy successes 
 > with the acrimonious circumstances of his departure.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Nixon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Nixon) 
 
 
 ## Confidential Links & Embeds: 

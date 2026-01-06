@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1933-03-15 
-has_time_stopped: 1945-05-23 
 location: [ 13.379722222 , 52.511111111 ] 
 aliases:
   - Nazi Germany
@@ -133,7 +131,7 @@ Commons_gallery: Third Reich
 >
 > After the initial success of German invasion of the Soviet Union in 1941, Nazi Germany attempted to implement the Generalplan Ost and Hunger Plan, as part of its war of extermination in Eastern Europe. The Soviet resurgence and entry of the US into the war meant Germany lost the initiative in 1943, and by late 1944 had been pushed back to the 1939 border. Large-scale aerial bombing of Germany escalated and the Axis powers were driven back in Eastern and Southern Europe. After the Allied invasion of France, Germany was conquered by the Soviet Union from the east and the other Allies from the west, and capitulated on 8 May 1945. Hitler's refusal to admit defeat led to massive destruction of German infrastructure and additional war-related deaths in the closing months of the war. The Allies initiated a policy of denazification and put many of the surviving Nazi leadership on trial for war crimes at the Nuremberg trials.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nazi%20Germany)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nazi%20Germany) 
 
 
 ## Confidential Links & Embeds: 

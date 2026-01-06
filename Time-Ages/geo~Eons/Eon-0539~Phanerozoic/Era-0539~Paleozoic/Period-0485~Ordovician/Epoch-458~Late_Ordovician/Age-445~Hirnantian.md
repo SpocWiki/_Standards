@@ -53,7 +53,7 @@ A time period from 445.2 to 443.8 million years ago.
 >
 > Most scientists believe that this climatic oscillation caused the major extinction event that took place during this time. In fact, the Hirnantian (also known as the End Ordovician and the Ordovician-Silurian) mass extinction event represents the second largest such event in geologic history. Approximately 85% of marine (sea-dwelling) species died. Only the End Permian mass extinction was larger. Unlike many smaller extinction events, however, the long-term consequences of the End Ordovician event were relatively small.  Following the climatic oscillation, the climate returned to its previous state, and the species that survived soon (within two or three million years) evolved into species very similar to the ones that existed before.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hirnantian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Hirnantian) 
 
 
 #has_/label_/bg  :: Хирнант

@@ -26,8 +26,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Dumbing%20down) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Culture/Education/Pedagogy/Dumbing_down|Dumbing_down]] 

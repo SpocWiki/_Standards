@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1939-01-01 
-has_time_stopped: 1946-01-01 
+---
 aliases:
 has_id_wikidata: Q127050
 instance_of:

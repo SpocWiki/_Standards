@@ -75,7 +75,8 @@ This that was soon reverse-engineered though by [[Phoenix_Technologies]].
 > with one or more microprocessors used in everything from the smallest embedded systems and handheld devices 
 > to the largest mainframes and supercomputers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Microprocessor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Microprocessor) 
+
 
 #is_/different_from :: [[Micro-Controller]] 
 #is_/different_from :: [[Signal-Processor]] 

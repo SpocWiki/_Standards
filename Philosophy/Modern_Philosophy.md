@@ -28,7 +28,7 @@ Provenio_UUID: af3bd97e-9be8-4c91-ad5e-f5b1826d2335
 > as is whether modernity ended in the 20th century and has been replaced by postmodernity. 
 > How one answers these questions will determine the scope of one's use of the term "modern philosophy."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Modern%20philosophy)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Modern%20philosophy) 
 
 
 ## Confidential Links & Embeds: 

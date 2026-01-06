@@ -114,7 +114,7 @@ CAS_Registry_Number: 7697-37-2
 > 
 > Nitric acid is also commonly used as a strong oxidizing agent.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nitric%20acid)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nitric%20acid) 
 
 
 ## Confidential Links & Embeds: 

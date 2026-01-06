@@ -41,7 +41,7 @@ Commons_category: Defensive walls
 >
 > Simpler defensive walls of earth or stone, thrown up around hillforts, ringworks, early castles and the like, tend to be referred to as ramparts or banks.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Defensive%20wall)
+> [Wikipedia](https://en.wikipedia.org/wiki/Defensive%20wall) 
 
 
 ## Confidential Links & Embeds: 

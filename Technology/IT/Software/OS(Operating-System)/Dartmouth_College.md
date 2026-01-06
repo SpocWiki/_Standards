@@ -79,7 +79,7 @@ aliases:
 > 10 CEOs of Fortune 500 companies, and 
 > 51 Olympic medalists.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dartmouth%20College)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dartmouth%20College) 
 
 
 ## Confidential Links & Embeds: 

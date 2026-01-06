@@ -44,7 +44,7 @@ A time period from 433.4 to 430.5 million years ago.
 
 > In the geologic timescale, the **Sheinwoodian** is the age of the  Wenlock Epoch of the Silurian Period of the Paleozoic Era of the Phanerozoic Eon that is comprehended between 432.9 ± 1.2 Ma and 430.6 ± 1.3 Ma (million years ago), approximately. The Sheinwoodian Age succeeds the Telychian Age and precedes the Homerian Age.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sheinwoodian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Sheinwoodian) 
 
 
 #has_/label_/bg  :: Шейнуд

@@ -1,3 +1,19 @@
+---
+aliases:
+  - Middle_Jurassic
+has_id_wikidata: Q500054
+named_after: "[[_Standards/WikiData/WD~Jura_Mountains,178611]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Middle_Jurassic,9009611]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -163500000-01-01T00:00:00Z
+start_time: -174100000-01-01T00:00:00Z
+sRGB_color_hex_triplet: 34D1EB
+Commons_category: Middle Jurassic
+---
 
 # [[Epoch-175~Middle_Jurassic]] 
 
@@ -7,6 +23,7 @@
 
 #has_/previous_/item :: [[Epoch-201~Early_Jurassic]] 
 #has_/next_/item :: [[Epoch-162~Late_Jurassic]] 
+#is_/same_as :: [[WD~Middle_Jurassic,500054]] 
 
 A time period from 174.7 to 161.5 million years ago. 
 
@@ -17,7 +34,8 @@ A time period from 174.7 to 161.5 million years ago.
 
 > The Middle Jurassic is the second epoch of the Jurassic Period. It lasted from about 174.1 to 163.5 million years ago. Fossils of land-dwelling animals, such as dinosaurs, from the Middle Jurassic are relatively rare, but geological formations containing land animal fossils include the Forest Marble Formation in England, the Kilmaluag Formation in Scotland, the Calcaire de Caen of France, the Daohugou Beds in China, the Itat Formation in Russia, the Tiouraren Formation of Niger, and the Isalo III Formation of western Madagascar.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Jurassic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Jurassic) 
+
 
 #has_/label_/bg  :: Средна Юра
 #has_/label_/cs  :: Střední jura

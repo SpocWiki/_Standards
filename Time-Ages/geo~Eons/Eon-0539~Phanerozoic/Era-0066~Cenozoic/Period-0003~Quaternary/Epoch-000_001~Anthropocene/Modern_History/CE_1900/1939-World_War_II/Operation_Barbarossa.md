@@ -78,7 +78,7 @@ aliases:
 > These Soviet victories ended Germany's territorial expansion 
 > and presaged the eventual collapse of the Nazi German state in 1945.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Operation%20Barbarossa)
+> [Wikipedia](https://en.wikipedia.org/wiki/Operation%20Barbarossa) 
 
 
 ## Confidential Links & Embeds: 

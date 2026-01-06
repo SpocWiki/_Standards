@@ -1,5 +1,4 @@
-﻿---
-has_time_started: 1918-01-01 
+---
 aliases:
   - stab-in-the-back myth
   - Dolchstoßlegende

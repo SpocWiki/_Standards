@@ -73,7 +73,7 @@ Wolfram_Language_entity_code:
 >
 > Anarchists employ diverse approaches, which may be generally divided into revolutionary and evolutionary strategies; there is significant overlap between the two. Evolutionary methods try to simulate what an anarchist society might be like, but revolutionary tactics, which have historically taken a violent turn, aim to overthrow authority and the state. Many facets of human civilization have been influenced by anarchist theory, critique, and praxis.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Anarchism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Anarchism) 
 
 
 ## Confidential Links & Embeds: 

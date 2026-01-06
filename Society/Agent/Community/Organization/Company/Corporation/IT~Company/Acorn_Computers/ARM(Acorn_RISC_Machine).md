@@ -38,7 +38,8 @@
 > More recent changes include the addition of [[SMT(simultaneous_multithreading)]] 
 > for improved performance or fault tolerance.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/ARM%20architecture%20family)
+> [Wikipedia](https://en.wikipedia.org/wiki/ARM%20architecture%20family) 
+
 
 From 1993 to 1998 Apple was building its [[Apple_Newton]] and needed a low-Power Processor. 
 The [[../AT&T]] Hobbit Processor was not reliable and took too much Power.

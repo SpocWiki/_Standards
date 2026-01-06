@@ -25,7 +25,7 @@
 > for its risk of creating a culture of mediocrity, 
 > and for being overoptimistic about the learning benefits of failure.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fail%20fast%20(business))
+> [Wikipedia](https://en.wikipedia.org/wiki/Fail%20fast%20(business)) 
 
 
 ## Confidential Links & Embeds: 

@@ -110,7 +110,6 @@ A time period from 358.9 to 346.7 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Tournaisian** is in the ICS geologic timescale the lowest stage 
 > or oldest age of the Mississippian, the oldest subsystem of the Carboniferous. 
 > 
@@ -123,7 +122,7 @@ A time period from 358.9 to 346.7 million years ago.
 > - Ivorian (upper Tournaisian). 
 > These two substages were originally designated as European regional stages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tournaisian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Tournaisian) 
 
 
 ## All Contents

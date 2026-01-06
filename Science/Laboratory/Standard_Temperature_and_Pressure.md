@@ -58,8 +58,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 > [Wikipedia](https://en.wikipedia.org/wiki/Standard%20temperature%20and%20pressure) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Laboratory/Standard_Temperature_and_Pressure|Standard_Temperature_and_Pressure]] 

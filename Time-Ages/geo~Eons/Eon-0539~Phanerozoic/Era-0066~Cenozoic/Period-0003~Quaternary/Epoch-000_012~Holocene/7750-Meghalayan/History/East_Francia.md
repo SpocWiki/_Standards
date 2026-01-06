@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 0843-01-01 
-has_time_stopped: 0962-01-01 
+---
 aliases:
   - East_Francia
   - East Francia
@@ -49,7 +47,7 @@ dissolved_abolished_or_demolished_date: 0962-01-01T00:00:00Z
 >
 > The east–west division with the Treaty of Verdun, enforced by the Germanic-Latin language split, "gradually hardened into the establishment of separate kingdoms", with East Francia becoming (or being) the Kingdom of Germany, and West Francia becoming the Kingdom of France.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/East%20Francia)
+> [Wikipedia](https://en.wikipedia.org/wiki/East%20Francia) 
 
 
 ## Confidential Links & Embeds: 

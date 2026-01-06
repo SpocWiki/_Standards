@@ -117,7 +117,7 @@ Law raises important and complex issues concerning equality, fairness, and justi
 >
 > Law provides a source of scholarly inquiry into legal history, philosophy, economic analysis and sociology. 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Law)
+> [Wikipedia](https://en.wikipedia.org/wiki/Law) 
 
 
 ## Confidential Links & Embeds: 

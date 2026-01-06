@@ -99,7 +99,7 @@ UNII: 2YQA718KUU
 > Berkelium is a soft, silvery-white, radioactive metal. 
 > The berkelium-249 isotope emits low-energy electrons and thus is relatively safe to handle. It decays with a half-life of 330 days to californium-249, which is a strong emitter of ionizing alpha particles. This gradual transformation is an important consideration when studying the properties of elemental berkelium and its chemical compounds, since the formation of californium brings not only chemical contamination, but also free-radical effects and self-heating from the emitted alpha particles.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Berkelium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Berkelium) 
 
 
 ## Confidential Links & Embeds: 

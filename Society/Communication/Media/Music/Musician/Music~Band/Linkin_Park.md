@@ -37,7 +37,7 @@ Most famous Tracks:
 >
 > Linkin Park is among both the best-selling bands of the 21st century and the world's best-selling music artists, having sold over 100 million records worldwide. They have won two Grammy Awards, six American Music Awards, two Billboard Music Awards, four MTV Video Music Awards, 10 MTV Europe Music Awards, and three World Music Awards. In 2003, MTV2 named Linkin Park the sixth-greatest band of the music video era and the third-best of the new millennium. Billboard ranked Linkin Park No. 19 on the Best Artists of the Decade list. In 2012, the band was voted as the greatest artist of the 2000s in a Bracket Madness poll on VH1. In 2014, the band was declared as "The Biggest Rock Band in the World Right Now" by Kerrang!.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Linkin%20Park)
+> [Wikipedia](https://en.wikipedia.org/wiki/Linkin%20Park) 
 
 
 ## Confidential Links & Embeds: 

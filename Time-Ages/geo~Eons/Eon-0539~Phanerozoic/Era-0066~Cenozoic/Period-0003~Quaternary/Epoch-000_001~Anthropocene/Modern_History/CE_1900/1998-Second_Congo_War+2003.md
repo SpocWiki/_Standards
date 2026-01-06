@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1998-08-02 
-has_time_stopped: 2003-06-30 
+---
 aliases:
   - Second Congo War
   - Africa's World War

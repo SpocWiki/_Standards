@@ -232,7 +232,7 @@ Both also have a common Ancestor:
 >
 > After Germany and Italy declared war on the U.S. on December 11, 1941, the U.S. Congress approved a declaration of war in return. He worked closely with other national leaders in leading the Allies against the Axis powers. Roosevelt supervised the mobilization of the American economy to support the war effort and implemented a Europe first strategy. He also initiated the development of the first atomic bomb and worked with the other Allied leaders to lay the groundwork for the United Nations and other post-war institutions, even coining the term "United Nations". Roosevelt won reelection in 1944 but died in 1945 after his physical health seriously and steadily declined during the war years. Since then, several of his actions have come under criticism, including his ordering of the internment of Japanese Americans, German and Italian Americans, and refusal to accept Jewish refugees from Germany or Italy. Nonetheless, historical rankings consistently place him as one of the greatest American presidents.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Franklin%20D.%20Roosevelt)
+> [Wikipedia](https://en.wikipedia.org/wiki/Franklin%20D.%20Roosevelt) 
 
 
 # [[Roosevelt,Franklin_Delano]] 

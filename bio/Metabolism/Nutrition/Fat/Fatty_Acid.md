@@ -33,7 +33,6 @@ ZVG_number: 91170
 
 ## #has_/text_of_/abstract 
 
-
 > In chemistry, particularly in biochemistry, a fatty acid is a[[../../../../Chemistry/Organic_Chemistry/Carboxylic_Acid]]] 
 > with an [[Aliphatic_Chain]], which is either saturated or unsaturated. 
 > 
@@ -47,7 +46,7 @@ ZVG_number: 91170
 > In any of these forms, fatty acids are both important dietary sources of fuel for animals 
 > and important structural components for cells.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fatty%20acid)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fatty%20acid) 
 
 
 ## Confidential Links & Embeds: 

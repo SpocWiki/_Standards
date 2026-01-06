@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1962-10-14 
-has_time_stopped: 1962-10-28 
+---
 aliases:
   - Cuban Missile Crisis
   - October Crisis in Cuba

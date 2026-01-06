@@ -21,7 +21,7 @@
 >
 > A derivative named [[../../Prog~OO/Object-Pascal]] designed for object-oriented programming was developed in 1985. This was used by Apple Computer (for the Lisa and Macintosh machines) and Borland in the late 1980s and later developed into [[../../Prog~OO/OO-Lang/Prog~Delphi]] on the Microsoft Windows platform. Extensions to the Pascal concepts led to the languages [[Modula-2]] and [[Prog~Oberon]], both developed by Wirth.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pascal%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Pascal%20(programming%20language)) 
 
 
 ## Confidential Links & Embeds: 

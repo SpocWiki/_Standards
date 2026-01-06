@@ -30,7 +30,7 @@
 > it is still used as an example of principles such as Bayesian probability and implicit religion. 
 > It is also regarded as a simplified, derivative version of [[Pascal's wager]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Roko's%20basilisk)
+> [Wikipedia](https://en.wikipedia.org/wiki/Roko's%20basilisk) 
 
 
 ## Confidential Links & Embeds: 

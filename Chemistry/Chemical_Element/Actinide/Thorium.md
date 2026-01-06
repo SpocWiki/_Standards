@@ -137,7 +137,7 @@ UNII: 60YU5MIG9W
 > Other uses for thorium include heat-resistant ceramics, aircraft engines, and in light bulbs. 
 > Ocean science has utilised 231Pa/230Th isotope ratios to understand the ancient ocean.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thorium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thorium) 
 
 
 ## Confidential Links & Embeds: 

@@ -41,7 +41,7 @@ aliases:
 > He noted that establishing safety guidelines will require cooperation 
 > among those competing in use of AI in order to avoid the worst outcomes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Geoffrey%20Hinton)
+> [Wikipedia](https://en.wikipedia.org/wiki/Geoffrey%20Hinton) 
 
 
 ## Confidential Links & Embeds: 

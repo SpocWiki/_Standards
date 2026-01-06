@@ -64,7 +64,7 @@ male_form_of_label:
 > (releasing and repatriating them in an orderly manner after hostilities), 
 > demonstrating military victory, punishment, prosecution of war crimes, labour exploitation, recruiting or even conscripting them as combatants, extracting or collecting military and political intelligence, and political or religious indoctrination.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Prisoner%20of%20war)
+> [Wikipedia](https://en.wikipedia.org/wiki/Prisoner%20of%20war) 
 
 
 ## Confidential Links & Embeds: 

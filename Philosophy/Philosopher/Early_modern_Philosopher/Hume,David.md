@@ -161,7 +161,7 @@ in opposition to [[../Ancient_Philosopher/Plato]]ns Model
 > early analytic philosophy, cognitive science, theology, and many other fields and thinkers. 
 > [[Kant,Immanuel]] credited Hume as the inspiration that had awakened him from his "dogmatic slumbers."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/David%20Hume)
+> [Wikipedia](https://en.wikipedia.org/wiki/David%20Hume) 
 
 
 ## Confidential Links & Embeds: 

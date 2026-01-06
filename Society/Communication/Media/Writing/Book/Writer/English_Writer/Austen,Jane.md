@@ -148,7 +148,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > - as well as the BBC movie Persuasion (1995), 
 > - and BBC miniseries Pride and Prejudice (1995).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jane%20Austen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jane%20Austen) 
 
 
 ## Confidential Links & Embeds: 

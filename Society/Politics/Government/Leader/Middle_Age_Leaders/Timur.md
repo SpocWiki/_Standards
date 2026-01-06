@@ -101,7 +101,7 @@ time_period: '[[_Standards/WikiData/WD~Timurid_Empire,484195]]'
 >
 > He was the grandfather of the Timurid sultan, astronomer and mathematician Ulugh Beg, who ruled Central Asia from 1411 to 1449, and the great-great-great-grandfather of Babur (1483–1530), founder of the Mughal Empire.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Timur)
+> [Wikipedia](https://en.wikipedia.org/wiki/Timur) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,3 +1,18 @@
+---
+aliases:
+  - Berriasian
+has_id_wikidata: Q663355
+named_after: "[[_Standards/WikiData/WD~Berrias_et_Casteljau,273917]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Henri_Coquand,3130874]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Berriasian,21708760]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -139800000-01-01T00:00:00Z
+start_time: -145000000-01-01T00:00:00Z
+sRGB_color_hex_triplet: 7CCE7C
+---
 # [[Age~1~Berriasian]] 
 
 #is_a_/time_/Age 
@@ -8,13 +23,14 @@ A time period from 145.0 to 139.8 million years ago.
 
 #has_/previous_/item :: [[../../Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~3~Tithonian|Age~3~Tithonian]] 
 #has_/next_/item :: [[Age~2~Valanginian]] 
+#is_/same_as :: [[WD~Berriasian,663355]] 
 
 ## #has_/text_of_/abstract 
 
-
 > In the geological timescale, the **Berriasian** is an age/stage of the Early/Lower Cretaceous. It is the oldest subdivision in the entire Cretaceous. It has been taken to span the time between 145.0 ± 4.0 Ma and 139.8 ± 3.0 Ma (million years ago). The Berriasian succeeds the [[../../Period-0201~Jurassic/Epoch-162~Late_Jurassic/Age~3~Tithonian|Age~3~Tithonian]] (part of the Jurassic) and precedes the [[Age~2~Valanginian]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Berriasian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Berriasian) 
+
 
 #has_/label_/bg  :: Бериаѿ
 #has_/label_/cs  :: Berrias

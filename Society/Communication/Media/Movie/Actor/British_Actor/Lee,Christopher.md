@@ -58,7 +58,7 @@ aliases:
 > - Charlemagne: By the Sword and the Cross (2010) and 
 > - Charlemagne: The Omens of Death (2013).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Christopher%20Lee)
+> [Wikipedia](https://en.wikipedia.org/wiki/Christopher%20Lee) 
 
 
 ## Confidential Links & Embeds: 

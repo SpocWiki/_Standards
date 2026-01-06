@@ -51,7 +51,7 @@ Wolfram_Language_entity_type: Galaxy
 >
 > The space between galaxies is filled with a tenuous gas (the intergalactic medium) with an average density of less than one atom per cubic metre. Most galaxies are gravitationally organised into groups, clusters and superclusters. The Milky Way is part of the Local Group, which it dominates along with the Andromeda Galaxy. The group is part of the Virgo Supercluster. At the largest scale, these associations are generally arranged into sheets and filaments surrounded by immense voids. Both the Local Group and the Virgo Supercluster are contained in a much larger cosmic structure named Laniakea.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Galaxy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Galaxy) 
 
 
 ## Confidential Links & Embeds: 

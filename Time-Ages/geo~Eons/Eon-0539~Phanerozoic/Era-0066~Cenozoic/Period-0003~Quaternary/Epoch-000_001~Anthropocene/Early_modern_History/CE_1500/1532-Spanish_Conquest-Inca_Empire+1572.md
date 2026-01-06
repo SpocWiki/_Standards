@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1532-01-01 
-has_time_stopped: 1572-01-01 
+---
 aliases:
   - Spanish conquest Inca Empire
   - Spanish conquest of the Inca Empire
@@ -91,7 +89,7 @@ coordinate_location: Point(-71.983333 -13.522222)
 >
 > At the time of Huayna Capac's death, Huáscar was in the capital Cuzco, while Atahualpa was in Quito with the main body of the Inca army. Huáscar had himself proclaimed Sapa Inca (i.e. "Only Emperor") in Cuzco, but the army declared loyalty to Atahualpa. The resulting dispute led to the Inca Civil War.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20conquest%20of%20the%20Inca%20Empire)
+> [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20conquest%20of%20the%20Inca%20Empire) 
 
 
 ## Confidential Links & Embeds: 

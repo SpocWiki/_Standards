@@ -156,7 +156,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 >
 > His one child conceived within marriage, Ada Lovelace, was a founding figure in the field of computer programming based on her notes for Charles Babbage's Analytical Engine. Byron's extramarital children include Allegra Byron, who died in childhood, and possibly Elizabeth Medora Leigh, daughter of his half-sister Augusta Leigh.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lord%20Byron)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lord%20Byron) 
 
 
 ## Confidential Links & Embeds: 

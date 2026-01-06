@@ -15,7 +15,7 @@
 > or with IBM's RFT-DCA (Revisable Format Text-Document Content Architecture), 
 > as these are different specifications.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rich%20Text%20Format)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rich%20Text%20Format) 
 
 
 ## Encoding 

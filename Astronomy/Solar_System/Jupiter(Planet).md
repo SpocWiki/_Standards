@@ -236,7 +236,7 @@ Wolfram_Language_entity_code: Entity["Planet", "Jupiter"]
 > Since 1973, Jupiter has been visited by nine robotic probes: 
 > seven flybys and two dedicated orbiters, with one more en route and one awaiting launch.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jupiter)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jupiter) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1914-08-17 
-has_time_stopped: 1918-03-03 
+---
 aliases:
   - Eastern Front
   - Eastern Theater

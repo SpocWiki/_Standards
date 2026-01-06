@@ -134,7 +134,7 @@ Wolfram_Language_entity_code: Entity["MinorPlanet", "Pluto"]
 > Many planetary astronomers, however, continue to consider Pluto 
 > and other dwarf planets to be planets.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pluto)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pluto) 
 
 
 ## Confidential Links & Embeds: 

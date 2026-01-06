@@ -23,8 +23,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Chromatic%20scale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Chromatic_Scale|Chromatic_Scale]] 

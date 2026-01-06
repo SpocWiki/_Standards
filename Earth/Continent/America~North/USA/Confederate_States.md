@@ -163,8 +163,6 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20CSA%20
 > [Wikipedia](https://en.wikipedia.org/wiki/Confederate%20States%20of%20America) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/Confederate_States|Confederate_States]] 

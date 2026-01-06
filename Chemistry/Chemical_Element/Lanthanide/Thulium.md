@@ -77,14 +77,13 @@ UNII: 8RKC5ATI4P
 
 ## #has_/text_of_/abstract 
 
-
 > **Thulium** is a chemical element with the symbol (Abbr::Tm) and atomic number (Charge-e::69). It is the thirteenth and third-last element in the lanthanide series. Like the other lanthanides, the most common oxidation state is +3, seen in its oxide, halides and other compounds; however, the +2 oxidation state can also be stable. In aqueous solution, like compounds of other late lanthanides, soluble thulium compounds form coordination complexes with nine water molecules.
 >
 > In 1879, the Swedish chemist Per Teodor Cleve separated from the rare earth oxide erbia another two previously unknown components, which he called holmia and thulia; these were the oxides of holmium and thulium, respectively. A relatively pure sample of thulium metal was first obtained in 1911.
 >
 > Thulium is the second-least abundant of the lanthanides, after radioactively unstable promethium which is only found in trace quantities on Earth. It is an easily workable metal with a bright silvery-gray luster. It is fairly soft and slowly tarnishes in air. Despite its high price and rarity, thulium is used as the radiation source in portable X-ray devices, and in some solid-state lasers. It has no significant biological role and is not particularly toxic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thulium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thulium) 
 
 
 ## Confidential Links & Embeds: 

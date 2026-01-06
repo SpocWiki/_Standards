@@ -173,7 +173,7 @@ name_in_native_language: Ἄρης
 > the myths of Ares were reinterpreted by Roman writers under the name of Mars, 
 > and in later Western art and literature, the mythology of the two figures became virtually indistinguishable.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ares)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Ares) 
 
 
 ## Confidential Links & Embeds: 

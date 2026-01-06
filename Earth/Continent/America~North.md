@@ -208,7 +208,7 @@ zoomFeatures: false
 > and Central America have indigenous populations 
 > that continue adhering to their respective pre-European colonial cultural and linguistic traditions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/North%20America)
+> [Wikipedia](https://en.wikipedia.org/wiki/North%20America) 
 
 
 ## Confidential Links & Embeds: 

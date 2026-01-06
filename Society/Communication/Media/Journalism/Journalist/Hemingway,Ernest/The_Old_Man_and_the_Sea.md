@@ -92,7 +92,7 @@ OCLC_number: "232125095"
 > on the similarity of the novella's themes to its predecessors in the Hemingway canon, 
 > and on the character of the fisherman Santiago.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Old%20Man%20and%20the%20Sea)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Old%20Man%20and%20the%20Sea) 
 
 
 ## Confidential Links & Embeds: 

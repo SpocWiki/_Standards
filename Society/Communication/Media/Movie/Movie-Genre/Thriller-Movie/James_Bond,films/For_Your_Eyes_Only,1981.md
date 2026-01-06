@@ -35,7 +35,7 @@
 > This was the final Bond film to be distributed solely by United Artists; 
 > the company was absorbed by Metro-Goldwyn-Mayer soon after this film's release.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/For%20Your%20Eyes%20Only%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/For%20Your%20Eyes%20Only%20(film)) 
 
 
 ## Confidential Links & Embeds: 

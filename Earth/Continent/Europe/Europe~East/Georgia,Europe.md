@@ -473,7 +473,7 @@ Capital ::[[Georgia,Europe/Regions~Georgia/Tbilisi]]]
 >
 > Georgia is a representative democracy governed as a unitary parliamentary republic. It is a developing country with a very high Human Development Index and an emerging market economy. Sweeping economic reforms since 2003 have resulted in one of the freest business climates in the world, greater economic freedom and transparency, and among the fastest rates of GDP growth. In 2018, Georgia became the second country to legalize cannabis, and the first former socialist state to do so. Georgia is a member of numerous international organizations, including the Council of Europe, Eurocontrol, BSEC, GUAM, Energy Community. As part of the Association Trio, Georgia is a candidate for membership in the European Union.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Georgia%20(country))
+> [Wikipedia](https://en.wikipedia.org/wiki/Georgia%20(country)) 
 
 
 ## Confidential Links & Embeds: 

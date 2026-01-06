@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1885-01-01 
-has_time_stopped: 1914-01-01 
+---
 aliases:
 has_id_wikidata: Q179848
 instance_of: "[[_Standards/WikiData/WD~partition,518554]]"

@@ -34,7 +34,8 @@ Microformats use several pre-defined Vocabularies in Attributes, but only [[hCar
 >
 > Microformats2 abbreviated as mf2 is the updated version of microformats. Mf2 provides a more easy way of interpreting HTML(hypertext Markup Language) structured syntax and vocabularies than the earlier ways that made use of RDFa and microdata.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Microformat)
+> [Wikipedia](https://en.wikipedia.org/wiki/Microformat) 
+
 
 HTML Meta-Tags are often used to describe Web Pages using 
 ## either Facebooks OpenGraph Semantic

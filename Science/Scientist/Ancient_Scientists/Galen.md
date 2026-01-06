@@ -67,7 +67,7 @@ aliases:
 > although many were destroyed and some credited to him are believed to be spurious. 
 > Although there is some debate over the date of his death, he was no younger than seventy when he died.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Galen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Galen) 
 
 
 ## Confidential Links & Embeds: 

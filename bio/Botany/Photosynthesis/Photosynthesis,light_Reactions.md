@@ -51,8 +51,6 @@ part_of: "[[_Standards/WikiData/WD~photosynthesis,11982]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Light-dependent%20reactions) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Botany/Photosynthesis/Photosynthesis,light_Reactions|Photosynthesis,light_Reactions]] 

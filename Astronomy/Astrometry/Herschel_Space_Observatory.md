@@ -73,7 +73,7 @@ service_retirement: 2013-06-17T00:00:00Z
 >
 > NASA was a partner in the Herschel mission, with US participants contributing to the mission; providing mission-enabling instrument technology and sponsoring the NASA Herschel Science Center (NHSC) at the Infrared Processing and Analysis Center and the Herschel Data Search at the Infrared Science Archive.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Herschel%20Space%20Observatory)
+> [Wikipedia](https://en.wikipedia.org/wiki/Herschel%20Space%20Observatory) 
 
 
 ## Confidential Links & Embeds: 

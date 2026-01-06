@@ -25,7 +25,7 @@
 > When a director's cut of the film was released in 2008, 
 > among the changes was the removal of the opening narration.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dark%20City%20(1998%20film))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Dark%20City%20(1998%20film)) 
 
 
 ## Confidential Links & Embeds: 

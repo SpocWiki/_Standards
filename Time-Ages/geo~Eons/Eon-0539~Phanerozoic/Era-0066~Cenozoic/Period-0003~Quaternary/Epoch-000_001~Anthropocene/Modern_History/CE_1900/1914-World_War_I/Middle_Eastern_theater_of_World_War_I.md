@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1914-10-29 
-has_time_stopped: 1918-10-30 
+---
 aliases:
   - Middle Eastern theatre of World War I
   - Middle_Eastern_theater_of_World_War_I

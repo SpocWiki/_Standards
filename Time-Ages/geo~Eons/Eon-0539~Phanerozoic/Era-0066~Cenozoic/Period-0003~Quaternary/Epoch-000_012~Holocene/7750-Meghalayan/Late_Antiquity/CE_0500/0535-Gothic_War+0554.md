@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 0535-01-01 
-has_time_stopped: 0554-01-01 
+---
 aliases:
   - Gothic War
   - 0535-Gothic_War+0554
@@ -40,7 +38,7 @@ end_time: 0554-01-01T00:00:00Z
 >
 > In 250, the invasions continued, the Carpiani attacked Dacia, while the Gothic King Cniva commanding various groups of Goths and other allied peoples, defeated the Romans in two major battles, in one of these he killed the Roman emperor Decius (r.  249–251) and his co-emperor Herennius Etruscus (r.  251). The imperial successor Trebonianus Gallus (r.  251–253) pledged to pay an annual tribute if the invaders left, however, he did not keep his promise, which provoked new attacks in 253, although the governor and future emperor Aemilianus (r.  253) managed to stop these raids.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gothic%20War%20(248%E2%80%93253))
+> [Wikipedia](https://en.wikipedia.org/wiki/Gothic%20War%20(248%E2%80%93253)) 
 
 
 ## Confidential Links & Embeds: 

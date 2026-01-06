@@ -95,7 +95,7 @@ EAGLE_id: material/lod/87
 >
 > Minerals are classified by key chemical constituents; the two dominant systems are the Dana classification and the Strunz classification. Silicate minerals comprise approximately 90% of the Earth's crust. Other important mineral groups include the native elements (made up of a single pure element) and compounds (combinations of multiple elements) namely sulfides (e.g. Galena PbS), oxides (e.g. quartz SiO2), halides (e.g. rock salt NaCl), carbonates (e.g. calcite CaCO3), sulfates (e.g. gypsum CaSO4·2H2O), silicates (e.g. orthoclase KAlSi3O8), molybdates (e.g. wulfenite PbMoO4) and phosphates (e.g. pyromorphite Pb5(PO4)3Cl).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mineral)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mineral) 
 
 
 ## Confidential Links & Embeds: 

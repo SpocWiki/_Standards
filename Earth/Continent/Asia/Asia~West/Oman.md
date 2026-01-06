@@ -433,7 +433,7 @@ Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]
 >
 > Formerly a maritime empire, Oman is the oldest continuously independent state in the Arab world. It is a member of the United Nations, the Arab League, the Gulf Cooperation Council, the Non-Aligned Movement, and the Organisation of Islamic Cooperation. It has oil reserves ranked 22nd globally. In 2010, the United Nations Development Programme ranked Oman as the most-improved country in the world in terms of development during the preceding 40 years. A portion of its economy involves tourism and trading fish, dates and other agricultural produce. The World Bank categorizes Oman as a high-income economy and as of 2024 Oman ranks as the 37th most peaceful country in the world according to the Global Peace Index.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Oman)
+> [Wikipedia](https://en.wikipedia.org/wiki/Oman) 
 
 
 ## Confidential Links & Embeds: 

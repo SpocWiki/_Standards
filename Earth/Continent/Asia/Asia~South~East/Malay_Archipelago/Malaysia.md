@@ -704,7 +704,7 @@ Capital :: [[Kuala_Lumpur]]
 >
 > The country's economy has traditionally been driven by its natural resources but is expanding into commerce, tourism, and medical tourism. The country has a newly industrialised market economy, which is relatively open and state-oriented. The country is a founding member of the Organisation of Islamic Cooperation (OIC), the East Asia Summit (EAS), and the Association of Southeast Asian Nations (ASEAN), and a member of the Non-Aligned Movement (NAM), the Commonwealth, and the Asia-Pacific Economic Cooperation (APEC).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Malaysia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Malaysia) 
 
 
 ## Confidential Links & Embeds: 

@@ -66,8 +66,6 @@ OpenStreetMap_tag: place=neighbourhood
 > [Wikipedia](https://en.wikipedia.org/wiki/Neighbourhood) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood|Neighborhood]] 

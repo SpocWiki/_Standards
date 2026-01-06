@@ -13,7 +13,7 @@ aliases:
 > This group includes many of the beans cultivated for human and animal food, 
 > most importantly from the genera Glycine, Phaseolus, and Vigna.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Phaseoleae)
+> [Wikipedia](https://en.wikipedia.org/wiki/Phaseoleae) 
 
 
 ## Confidential Links & Embeds: 

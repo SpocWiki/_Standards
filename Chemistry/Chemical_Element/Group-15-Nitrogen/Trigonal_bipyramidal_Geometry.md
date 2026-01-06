@@ -15,7 +15,7 @@
 > Examples of this molecular geometry are phosphorus pentafluoride (PF5), 
 > and phosphorus pentachloride (PCl5) in the gas phase.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Trigonal%20bipyramidal%20molecular%20geometry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Trigonal%20bipyramidal%20molecular%20geometry) 
 
 
 ## Confidential Links & Embeds: 

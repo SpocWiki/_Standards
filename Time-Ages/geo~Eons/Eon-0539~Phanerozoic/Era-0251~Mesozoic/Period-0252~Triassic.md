@@ -41,7 +41,6 @@ A time period from 251.902 to 201.4 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Triassic** (try-ASS-ik; sometimes symbolized 🝈) is a geologic period and system 
 > which spans 50.5 million years from the end of the [[../Era-0539~Paleozoic/Period-0299~Permian|Period-0299~Permian]] 251.902 million years ago (Mya), 
 > to the beginning of the [[Period-0201~Jurassic]] 201.4 Mya. 
@@ -68,7 +67,7 @@ A time period from 251.902 to 201.4 million years ago.
 >
 > The global climate during the Triassic was mostly hot and dry, with deserts spanning much of Pangaea's interior. However, the climate shifted and became more humid as Pangaea began to drift apart. The end of the period was marked by yet another major mass extinction, the Triassic–Jurassic extinction event, that wiped out many groups, including most pseudosuchians, and allowed dinosaurs to assume dominance in the Jurassic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Triassic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Triassic) 
 
 
 #has_/label_/bg  :: Триаѿ

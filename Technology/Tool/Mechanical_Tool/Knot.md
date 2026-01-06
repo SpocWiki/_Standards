@@ -1,5 +1,5 @@
 ---
-__is_:
+dv_is_:
   similar_to: "[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]"
   same_as:
     - "[[../../../WikiData/WD~Knot,527395]]"
@@ -10,8 +10,8 @@ __is_:
     - "[[/_private/Technology/Tool/Mechanical_Tool/Knot.private|Knot.private]]"
     - "[[/_personal/Technology/Tool/Mechanical_Tool/Knot.personal|Knot.personal]]"
     - "[[/_secret/Technology/Tool/Mechanical_Tool/Knot.secret|Knot.secret]]"
-__is_similar_to: "[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]"
-__is_same_as:
+dv_is_similar_to: "[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]"
+dv_is_same_as:
   - "[[../../../WikiData/WD~Knot,527395]]"
   - "[[Knot]]"
   - "[[/_public/Technology/Tool/Mechanical_Tool/Knot.public|Knot.public]]"

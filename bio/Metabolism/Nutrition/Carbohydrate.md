@@ -86,7 +86,6 @@ The different levels of carbohydrates are classified based on their complexity a
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbohydrate) 
 
 
-
 ## Simple Carbohydrates
 
 ### **Monosaccharides**

@@ -306,7 +306,7 @@ has_place_continent:: [[Africa]]
 >
 > The people of São Tomé and Príncipe are predominantly of African and mestiço descent, with most practicing Christianity. The legacy of Portuguese rule is also visible in the country's culture, customs, and music, which fuse European and African influences. São Tomé and Príncipe is a founding member state of the Community of Portuguese Language Countries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe)
+> [Wikipedia](https://en.wikipedia.org/wiki/S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe) 
 
 
 ## Confidential Links & Embeds: 

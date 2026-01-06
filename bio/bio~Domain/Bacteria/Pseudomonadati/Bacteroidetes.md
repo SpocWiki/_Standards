@@ -32,6 +32,7 @@ title: Bacteroidetes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bacteroidota) 
 
+
 ## Phylogeny 
 
 -   « Ancestral Groups  

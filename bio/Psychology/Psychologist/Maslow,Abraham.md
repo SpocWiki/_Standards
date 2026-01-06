@@ -86,7 +86,7 @@ student_of: '[[_Standards/WikiData/WD~Alfred_Adler,152393]]'
 > A Review of General Psychology survey, published in 2002, 
 > ranked Maslow as the tenth most cited psychologist of the 20th century.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Abraham%20Maslow)
+> [Wikipedia](https://en.wikipedia.org/wiki/Abraham%20Maslow) 
 
 
 ## Confidential Links & Embeds: 

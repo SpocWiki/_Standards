@@ -54,7 +54,7 @@ OpenStreetMap_tag: industrial=oil
 >
 > Other geographic regions' consumption patterns are as follows: South and Central America (44%), Africa (41%), and North America (40%). The world consumes 36 billion barrels (5.8 km3) of oil per year, with developed nations being the largest consumers. The United States consumed 18% of the oil produced in 2015. The production, distribution, refining, and retailing of petroleum taken as a whole represents the world's largest industry in terms of dollar value.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Petroleum%20industry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Petroleum%20industry) 
 
 
 ## Confidential Links & Embeds: 

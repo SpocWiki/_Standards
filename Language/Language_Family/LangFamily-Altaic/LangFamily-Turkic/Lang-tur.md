@@ -153,7 +153,7 @@ writing_system: '[[_Standards/WikiData/WD~Turkish_alphabet,637405]]'
 > In 1928, as one of Atatürk's Reforms in the early years of the Republic of Turkey, 
 > the Ottoman Turkish alphabet was replaced with a Latin alphabet.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20language) 
 
 
 ## Confidential Links & Embeds: 

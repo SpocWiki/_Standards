@@ -42,7 +42,7 @@
 > It also received award nominations for Best Special Visual Effects 
 > and Best Sound from the British Academy of Film and Television Arts.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/GoldenEye)
+> [Wikipedia](https://en.wikipedia.org/wiki/GoldenEye) 
 
 
 ## Confidential Links & Embeds: 

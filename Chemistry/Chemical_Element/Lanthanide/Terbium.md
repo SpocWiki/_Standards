@@ -80,7 +80,6 @@ UNII: 06SSF7P179
 
 ## #has_/text_of_/abstract 
 
-
 > **Terbium** is a chemical element with the symbol (Abbr::Tb) and atomic number (Charge-e::65). 
 > It is a silvery-white, rare earth metal that is malleable, and ductile. 
 > The ninth member of the lanthanide series, 
@@ -94,7 +93,7 @@ UNII: 06SSF7P179
 >
 > Most of the world's terbium supply is used in green phosphors. Terbium oxide is in fluorescent lamps and television and monitor cathode-ray tubes (CRTs). Terbium green phosphors are combined with divalent europium blue phosphors and trivalent europium red phosphors to provide trichromatic lighting technology, a high-efficiency white light used for standard illumination in indoor lighting.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Terbium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Terbium) 
 
 
 ## Confidential Links & Embeds: 

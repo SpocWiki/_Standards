@@ -197,7 +197,7 @@ Sub-region_Name ::  [[Western Asia]]
 >
 > Some of the challenges to Palestine include ineffective government, Israeli occupation,  a blockade, restrictions on movement, Israeli settlements and settler violence, as well as an overall poor security situation. The questions of Palestine's borders, the legal and diplomatic status of Jerusalem, and the right of return of Palestinian refugees remain unsolved. Despite these challenges, the country maintains an emerging economy and sees frequent tourism. Arabic is the official language of the country. While the majority of Palestinians practice Islam, Christianity also has a presence. Palestine is also a member of several international organizations, including the Arab League and the Organization of Islamic Cooperation. It has been a non-member observer state of the United Nations since 2012.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Palestine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Palestine) 
 
 
 ## Confidential Links & Embeds: 

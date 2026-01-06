@@ -64,7 +64,7 @@ A school.
 >
 > In homeschooling and distance education, teaching and learning take place independent from the institution of school or in a virtual school outside a traditional school building, respectively. Schools are organized in several different organizational models, including departmental, small learning communities, academies, integrated, and schools-within-a-school.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/School)
+> [Wikipedia](https://en.wikipedia.org/wiki/School) 
 
 
 ## Confidential Links & Embeds: 

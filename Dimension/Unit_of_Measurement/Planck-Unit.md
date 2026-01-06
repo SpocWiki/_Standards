@@ -16,7 +16,8 @@
 >
 > The term Planck scale refers to quantities of space, time, energy 
 > and other units that are similar in magnitude to corresponding Planck units. 
-> [Wikipedia](https://en.wikipedia.org/wiki/Planck%20units)
+> [Wikipedia](https://en.wikipedia.org/wiki/Planck%20units) 
+
 
 This region may be characterized by 
 - particle energies of around 10^19 GeV or 10^9 J, 

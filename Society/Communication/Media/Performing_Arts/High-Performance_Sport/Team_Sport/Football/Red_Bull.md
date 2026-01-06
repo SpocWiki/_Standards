@@ -21,7 +21,7 @@ aliases:
 >
 > Red Bull was derived from a similar drink called Krating Daeng which originated in Thailand and was introduced by the pharmacist Chaleo Yoovidhya. While doing business in Thailand, Austrian entrepreneur Dietrich Mateschitz purchased a can of Krating Daeng and claimed it cured his jet lag. Mateschitz sought to create a partnership with Yoovidhya and formulated a product that would suit the tastes of Westerners, such as by carbonating the drink. In 1984, the two founded Red Bull GmbH in Fuschl am See, Salzburg, Austria. When branding their new product, Mateschitz referenced Krating Daeng's name: in Thai, daeng means red, and a krating (known in English as a gaur) is a large species of wild bovine native to the Indian subcontinent. Red Bull and Kraeting Daeng use the same red bull on yellow sun logo while continuing to market their drinks separately in the Thai and Western markets.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Red%20Bull)
+> [Wikipedia](https://en.wikipedia.org/wiki/Red%20Bull) 
 
 
 ## Confidential Links & Embeds: 

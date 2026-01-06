@@ -35,7 +35,7 @@ Commons_category: Hackney horse
 > Hackneys possess good stamina, 
 > and are capable of trotting at high speed for extended periods of time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hackney%20horse)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hackney%20horse) 
 
 
 ## Confidential Links & Embeds: 

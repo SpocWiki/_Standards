@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1654-01-01 
-has_time_stopped: 1667-01-01 
+---
 aliases:
 has_id_wikidata: Q631991
 participant:
@@ -37,7 +35,7 @@ Commons_category: Polish-Russian War 1654-1667
 > The war ended with significant Russian territorial gains 
 > and marked the beginning of the rise of Russia as a great power in Eastern Europe.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Polish%E2%80%93Russian%20War%20(1654%E2%80%931667))
+> [Wikipedia](https://en.wikipedia.org/wiki/Polish%E2%80%93Russian%20War%20(1654%E2%80%931667)) 
 
 
 ## Confidential Links & Embeds: 

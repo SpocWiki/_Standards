@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1918-11-11 
-has_time_stopped: 1939-09-11 
+---
 aliases:
   - interwar period
   - interbellum

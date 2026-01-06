@@ -12,7 +12,7 @@
 > and excerpts of it were published in The New Yorker. 
 > The original Czech text was published the following year.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Unbearable%20Lightness%20of%20Being)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Unbearable%20Lightness%20of%20Being) 
 
 
 ## Confidential Links & Embeds: 

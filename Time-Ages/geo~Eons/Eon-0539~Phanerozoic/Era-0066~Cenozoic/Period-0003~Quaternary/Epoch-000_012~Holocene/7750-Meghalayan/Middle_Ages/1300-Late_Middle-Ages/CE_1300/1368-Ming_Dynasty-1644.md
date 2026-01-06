@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1368-01-01 
-has_time_stopped: 1644-01-01 
 location: [ 103.0833333 , 32.8 ] 
 aliases:
   - Ming Dynasty

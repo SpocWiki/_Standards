@@ -211,7 +211,7 @@ different_from:
 > observations by Edwin Hubble in 1923 showed that 
 > the Milky Way is just one of many galaxies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Milky%20Way)
+> [Wikipedia](https://en.wikipedia.org/wiki/Milky%20Way) 
 
 
 ## Confidential Links & Embeds: 

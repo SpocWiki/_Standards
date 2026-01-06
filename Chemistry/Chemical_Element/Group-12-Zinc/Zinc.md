@@ -139,7 +139,6 @@ ZVG_number:
 
 ## #has_/text_of_/abstract 
 
-
 > **Zinc** is a chemical element with the symbol (Abbr::Zn) and atomic number (Charge-e::30). 
 > Zinc is a slightly brittle metal at room temperature 
 > and has a shiny-greyish appearance when oxidation is removed. 
@@ -158,7 +157,7 @@ ZVG_number:
 >
 > The element was probably named by the alchemist Paracelsus after the German word Zinke (prong, tooth). German chemist Andreas Sigismund Marggraf is credited with discovering pure metallic zinc in 1746. Work by Luigi Galvani and Alessandro Volta uncovered the electrochemical properties of zinc by 1800. Corrosion-resistant zinc plating of iron (hot-dip galvanizing) is the major application for zinc. Other applications are in electrical batteries, small non-structural castings, and alloys such as brass. A variety of zinc compounds are commonly used, such as zinc carbonate and zinc gluconate (as dietary supplements), zinc chloride (in deodorants), zinc pyrithione (anti-dandruff shampoos), zinc sulfide (in luminescent paints), and dimethylzinc or diethylzinc in the organic laboratory.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Zinc)
+> [Wikipedia](https://en.wikipedia.org/wiki/Zinc) 
 
 
 ## Confidential Links & Embeds: 

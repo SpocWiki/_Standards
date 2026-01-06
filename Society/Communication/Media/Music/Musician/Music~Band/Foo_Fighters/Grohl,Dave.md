@@ -16,7 +16,7 @@ aliases:
 >
 > In 2016, Grohl was ranked 27th on the list of the best drummers of all time by Rolling Stone. Grohl was inducted into the Rock and Roll Hall of Fame as part of Nirvana in 2014 and as a member of Foo Fighters in 2021.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dave%20Grohl)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dave%20Grohl) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,3 +1,25 @@
+---
+aliases:
+  - Danian
+has_id_wikidata: Q502179
+named_by: "[[_Standards/WikiData/WD~Édouard_Desor,84445]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~Dan,1158949]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Danian,24068488]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Danian,133886032]]"
+start_time: -66000000-01-01T00:00:00Z
+end_time: -61600000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Denmark,35]]"
+Commons_category: Danian
+sRGB_color_hex_triplet: FEB872
+coordinate_location: Point(8.6486 36.1537)
+---
 # [[Age~1~Danian]] 
 
 #is_a_/time_/Age 
@@ -8,15 +30,19 @@ A time period from 66.0 to 61.6 million years ago.
 
 #has_/previous_/item :: [[../../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]] 
 #has_/next_/item :: [[Age~2~Selandian]] 
+#is_/same_as :: [[WD~Danian,502179]] 
 
 ## #has_/text_of_/abstract 
 
-
-> The **Danian** is the oldest age or lowest stage of the Paleocene Epoch or Series, of the Paleogene Period or System, and of the Cenozoic Era or Erathem. 
-> The beginning of the Danian (and the end of the preceding Maastrichtian) is at the Cretaceous–Paleogene extinction event 66 Ma. 
+> The **Danian** is the oldest age or lowest stage of the Paleocene Epoch or Series, 
+> of the Paleogene Period or System, and of the Cenozoic Era or Erathem. 
+> 
+> The beginning of the Danian (and the end of the preceding Maastrichtian) 
+> is at the Cretaceous–Paleogene extinction event 66 Ma. 
 > The age ended 61.6 Ma, being followed by the [[Age~2~Selandian]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Danian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Danian) 
+
 
 #has_/label_/bg  :: Дан
 #has_/label_/cs  :: Dan

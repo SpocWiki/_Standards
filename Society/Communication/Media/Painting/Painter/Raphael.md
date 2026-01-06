@@ -300,7 +300,7 @@ work_location:
 >
 > After his death, the influence of his great rival Michelangelo exceeded his until the 18th and 19th centuries, when Raphael's more serene and harmonious qualities were again regarded as the highest models. Thanks to the influence of art historian Johann Joachim Winckelmann, his work became a formative influence on Neoclassical painting, but his techniques would later be explicitly and emphatically rejected by groups such as the Pre-Raphaelite Brotherhood.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Raphael)
+> [Wikipedia](https://en.wikipedia.org/wiki/Raphael) 
 
 
 ## Confidential Links & Embeds: 

@@ -104,7 +104,7 @@ ZVG_number: 7360
 > meter was based on the wavelength of one spectral line of krypton-86, 
 > because of the high power and relative ease of operation of krypton discharge tubes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Krypton)
+> [Wikipedia](https://en.wikipedia.org/wiki/Krypton) 
 
 
 ## Confidential Links & Embeds: 

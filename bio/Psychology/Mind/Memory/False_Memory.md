@@ -14,6 +14,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/False%20memory) 
 
+
 It is proven that traumatic Memories are not hidden. 
 It is much more probable that false Memories are created by Suggestion. 
 

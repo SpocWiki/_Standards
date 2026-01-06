@@ -39,7 +39,7 @@ Commons_category: Inorganic compounds
 > Many of these are normal parts of mostly organic systems, including organisms; 
 > describing a chemical as inorganic does not necessarily mean that it cannot occur within living things.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Inorganic%20compound)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Inorganic%20compound) 
 
 
 ## Confidential Links & Embeds: 

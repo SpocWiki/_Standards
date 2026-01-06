@@ -1,5 +1,4 @@
 ﻿---
-has_time_started: 1949-10-07 
 location: [ 12.389 , 52.052 ] 
 aliases:
   - German Democratic Republic
@@ -186,7 +185,7 @@ GitHub_topic: german-democratic-republic
 >
 > In 1989, numerous social, economic, and political forces in the GDR and abroad – one of the most notable being peaceful protests starting in the city of Leipzig – led to the fall of the Berlin Wall and the establishment of a government committed to liberalization. The following year, a free and fair election was held in the country, and international negotiations between the four former Allied countries and the two German states commenced. The negotiations led to the signing of the Final Settlement treaty, which replaced the Potsdam Agreement on the status and borders of a future, reunited Germany. The GDR ceased to exist when its five states ("Länder") joined the Federal Republic of Germany under Article 23 of the Basic Law, and its capital East Berlin united with West Berlin on 3 October 1990. Several of the GDR's leaders, notably its last communist leader Egon Krenz, were later prosecuted for offenses committed during the GDR era.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/East%20Germany)
+> [Wikipedia](https://en.wikipedia.org/wiki/East%20Germany) 
 
 
 ## Confidential Links & Embeds: 

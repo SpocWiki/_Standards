@@ -57,7 +57,7 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/dentistry
 >
 > The modern movement of evidence-based dentistry calls for the use of high-quality scientific research and evidence to guide decision-making such as in manual tooth conservation, use of fluoride water treatment and fluoride toothpaste, dealing with oral diseases such as tooth decay and periodontitis, as well as systematic diseases such as osteoporosis, diabetes, celiac disease, cancer, and HIV/AIDS which could also affect the oral cavity. Other practices relevant to evidence-based dentistry include radiology of the mouth to inspect teeth deformity or oral malaises, haematology (study of blood) to avoid bleeding complications during dental surgery, cardiology (due to various severe complications arising from dental surgery with patients with heart disease), etc.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dentistry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dentistry) 
 
 
 ## Confidential Links & Embeds: 

@@ -39,10 +39,6 @@ taxon_common_name: Mosquitoes and Midges
 > [Wikipedia](https://en.wikipedia.org/wiki/Culicomorpha) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Culicomorpha|Culicomorpha]] 

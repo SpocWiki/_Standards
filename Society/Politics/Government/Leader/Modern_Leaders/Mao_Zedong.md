@@ -143,7 +143,7 @@ work_period_end_: 1976
 >
 > Mao is considered one of the most significant figures of the 20th century. His policies were responsible for a vast number of deaths, with estimates ranging from 40 to 80 million victims of starvation, persecution, prison labour, and mass executions, and his regime has been described as totalitarian. He has also been credited with transforming China from a semi-colony to a leading world power by advancing literacy, women's rights, basic healthcare, primary education, and life expectancy. Under Mao, China's population grew from about 550 million to more than 900 million. Within China, he is revered as a national hero who liberated the country from foreign occupation and exploitation. He became an ideological figurehead and a prominent influence within the international communist movement, inspiring various Maoist organisations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mao%20Zedong)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mao%20Zedong) 
 
 
 ## Confidential Links & Embeds: 

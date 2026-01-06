@@ -38,7 +38,8 @@ A time period from 259.51 to 251.902 million years ago.
 >
 > The name was introduced by Amadeus William Grabau in 1931 and derives from Leping, Jiangxi in China. It consists of two stages/ages. The earlier is the Wuchiapingian and the later is the Changhsingian.The International Chronostratigraphic Chart (v2018/07) provides a numerical age of 259.1 ±0.5 Ma. If a Global Boundary Stratotype Section and Point (GSSP) has been approved, the lower boundary of the earliest stage determines numerical age of an epoch. The GSSP for the Wuchiapingian has a numerical age of 259.8 ± 0.4 Ma.Evidence from Milankovitch cycles suggests that the length of an Earth day during this epoch was approximately 22 hours.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lopingian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lopingian) 
+
 
 #has_/label_/bg  :: Лопинг
 #has_/label_/cs  :: Loping

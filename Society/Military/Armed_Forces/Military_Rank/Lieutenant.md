@@ -55,6 +55,7 @@ short_name: por.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lieutenant) 
 
+
 Literally a Lieutenant is a place-holder, acting in in place (lieu) of a higher rank. 
 
 

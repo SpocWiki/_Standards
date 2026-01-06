@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 0375-01-01 
-has_time_stopped: 0568-01-01 
+---
 aliases:
   - Migration Period
   - Barbarian Invasions

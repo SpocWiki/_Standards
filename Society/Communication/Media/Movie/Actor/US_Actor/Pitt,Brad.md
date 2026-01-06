@@ -43,7 +43,7 @@ aliases:
 > He is divorced from actresses [[Jennifer Aniston]] and [[Jolie,Angelina]]. 
 > Pitt has six children with Jolie, three of whom were adopted internationally.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Brad%20Pitt)
+> [Wikipedia](https://en.wikipedia.org/wiki/Brad%20Pitt) 
 
 
 ## Confidential Links & Embeds: 

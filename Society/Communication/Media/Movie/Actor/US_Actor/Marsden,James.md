@@ -33,7 +33,7 @@ aliases:
 > He starred as a fictionalized version of himself in the mockumentary series Jury Duty (2023), 
 > for which he received nominations for a Golden Globe Award and a Primetime Emmy Award.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/James%20Marsden)
+> [Wikipedia](https://en.wikipedia.org/wiki/James%20Marsden) 
 
 
 ## Confidential Links & Embeds: 

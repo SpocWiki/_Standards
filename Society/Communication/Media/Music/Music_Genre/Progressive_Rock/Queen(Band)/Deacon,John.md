@@ -84,7 +84,7 @@ work_period_end_: 1997-01-01T00:00:00Z
 > He was inducted into the Rock and Roll Hall of Fame as a member of Queen in 2001 
 > and into the Songwriters Hall of Fame in 2003.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Deacon)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Deacon) 
 
 
 ## Confidential Links & Embeds: 

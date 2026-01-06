@@ -80,7 +80,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/What%20is%20suicide.we
 >
 > Views on suicide have been influenced by broad existential themes such as religion, honor, and the meaning of life. The Abrahamic religions traditionally consider suicide as an offense towards God due to belief in the sanctity of life. During the samurai era in Japan, a form of suicide known as seppuku (腹切り, harakiri) was respected as a means of making up for failure or as a form of protest. Similarly, a ritual fast unto death, known as Vatakkiruttal (Tamil: வடக்கிருத்தல், Vaṭakkiruttal, 'fasting facing north'), was a Tamil ritual suicide in ancient India during the Sangam age. Suicide and attempted suicide, while previously illegal, are no longer so in most Western countries. It remains a criminal offense in some countries. In the 20th and 21st centuries, suicide has been used on rare occasions as a form of protest; it has also been committed while or after murdering others, a tactic that has been used both militarily and by terrorists. Suicide is often seen as a major catastrophe, causing significant grief to the deceased's relatives, friends and community members, and it is viewed negatively almost everywhere around the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Suicide)
+> [Wikipedia](https://en.wikipedia.org/wiki/Suicide) 
 
 
 ## Confidential Links & Embeds: 

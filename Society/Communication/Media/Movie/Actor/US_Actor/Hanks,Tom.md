@@ -176,7 +176,7 @@ birth_name: Thomas Jeffrey Hanks
 > He made his Broadway debut in Nora Ephron's Lucky Guy (2013) 
 > earning a Tony Award for Best Actor in a Play nomination.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tom%20Hanks)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tom%20Hanks) 
 
 
 ## Confidential Links & Embeds: 

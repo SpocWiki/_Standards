@@ -77,7 +77,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_journalism,7112670]]'
 > Newspapers have seen print revenues sink at a faster pace 
 > than the rate of growth for digital revenues.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Journalism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Journalism) 
 
 
 ## Confidential Links & Embeds: 

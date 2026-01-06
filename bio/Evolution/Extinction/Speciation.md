@@ -47,7 +47,8 @@ Commons_category: Speciation
 > New species can also be created through hybridization, followed by reproductive isolation, 
 > if the hybrid is favoured by natural selection.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Speciation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Speciation) 
+
 
 ## Speciation-Rates
 

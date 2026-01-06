@@ -78,7 +78,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_culture,4773237]]'
 >
 > Organizations like UNESCO attempt to preserve culture and cultural heritage.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Culture)
+> [Wikipedia](https://en.wikipedia.org/wiki/Culture) 
 
 
 ## Confidential Links & Embeds: 

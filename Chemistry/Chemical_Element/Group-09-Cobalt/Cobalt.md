@@ -113,7 +113,6 @@ ZVG_number: 7270
 
 ## #has_/text_of_/abstract 
 
-
 > **Cobalt** is a chemical element with the symbol (Abbr::Co) and atomic number (Charge-e::27). 
 > As with nickel, cobalt is found in the Earth's crust only in a chemically combined form, 
 > save for small deposits found in alloys of natural meteoric iron. 
@@ -153,7 +152,7 @@ ZVG_number: 7270
 > Vitamin B12, the best-known example of the type, is an essential vitamin for all animals. 
 > Cobalt in inorganic form is also a micronutrient for bacteria, algae, and fungi.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cobalt)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cobalt) 
 
 
 ## Confidential Links & Embeds: 

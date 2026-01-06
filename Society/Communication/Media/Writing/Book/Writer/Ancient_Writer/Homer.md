@@ -114,7 +114,7 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 >
 > The question of by whom, when, where and under what circumstances the Iliad and Odyssey were composed continues to be debated. Scholars generally regard the two poems as the works of separate authors. It is thought that the poems were composed at some point around the late eighth or early seventh century BCE. Many accounts of Homer's life circulated in classical antiquity, the most widespread that he was a blind bard from Ionia, a region of central coastal Anatolia in present-day Turkey. Modern scholars consider these accounts legendary.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Homer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Homer) 
 
 
 ## Confidential Links & Embeds: 

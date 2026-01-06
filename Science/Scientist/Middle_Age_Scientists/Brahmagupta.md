@@ -86,7 +86,7 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 > He is also credited with the first clear description of the quadratic formula 
 > (the solution of the quadratic equation) in his main work, the Brāhma-sphuṭa-siddhānta.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Brahmagupta)
+> [Wikipedia](https://en.wikipedia.org/wiki/Brahmagupta) 
 
 
 ## Confidential Links & Embeds: 

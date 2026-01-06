@@ -7,7 +7,8 @@
 > from the original PET of 1977, followed by the extended but related versions used in its successors: 
 > the VIC-20, Commodore 64, Plus/4, Commodore 16, and Commodore 128.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/KERNAL)
+> [Wikipedia](https://en.wikipedia.org/wiki/KERNAL) 
+
 
 The Kernal was separated from the [[Commodore_BASIC]], 
 which is a Port of Microsofts [[6502_BASIC]] which again was a Port from [[../Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC|Microsoft_BASIC]], 

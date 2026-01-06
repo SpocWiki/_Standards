@@ -73,7 +73,8 @@ A time period from 2.58 million years ago to the present.
 > of continental ice sheets related to the [[Milankovitch_Cycle]]s  
 > and the associated climate and environmental changes that they caused.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Quaternary)
+> [Wikipedia](https://en.wikipedia.org/wiki/Quaternary) 
+
 
 #has_/label_/bg  :: Кватернер
 #has_/label_/cs  :: Kvartér

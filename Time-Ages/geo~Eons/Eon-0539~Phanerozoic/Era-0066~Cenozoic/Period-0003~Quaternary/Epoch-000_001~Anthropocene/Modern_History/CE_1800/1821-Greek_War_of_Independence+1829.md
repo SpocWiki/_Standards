@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1821-01-01 
-has_time_stopped: 1829-01-01 
+---
 aliases:
 has_id_wikidata: Q182062
 participant:

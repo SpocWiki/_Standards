@@ -4,7 +4,7 @@ aliases:
   - cardinal sin
   - Seven deadly Sins
   - Seven_deadly_Sins
-__is_:
+dv_is_:
   same_as:
     - "[[Seven_deadly_Sins]]"
     - "[[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.public|Seven_deadly_Sins.public]]"
@@ -13,7 +13,7 @@ __is_:
     - "[[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.private|Seven_deadly_Sins.private]]"
     - "[[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.personal|Seven_deadly_Sins.personal]]"
     - "[[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.secret|Seven_deadly_Sins.secret]]"
-__is_same_as:
+dv_is_same_as:
   - "[[Seven_deadly_Sins]]"
   - "[[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.public|Seven_deadly_Sins.public]]"
   - "[[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.internal|Seven_deadly_Sins.internal]]"
@@ -34,7 +34,7 @@ __is_same_as:
 > According to the standard list, the seven deadly sins in Christianity are 
 > 1. [[../../../../../../bio/Psychology/Affect/Emotion/Pride]], 
 > 2. [[../../../../../Ethics/Vice/Greed]], 
-> 3. [[Wrath]], 
+> 3. [[../../../../../Ethics/Vice/Anger]], 
 > 4.[[../../../../../../Life/Psychological_Resilience/Envy]]], 
 > 5. [[../../../../../../bio/Psychology/Affect/Emotion/Lust]], 
 > 6. [[Gluttony]] and 
@@ -44,7 +44,8 @@ __is_same_as:
 >
 > Subsequently, over the centuries into modern times, the idea of sins (especially seven in number) has permutated in various ways into the streams of religious and philosophical thought, fine art painting, and popular culture, including literature and new forms of media such as film and digital streaming.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Seven%20deadly%20sins)
+> [Wikipedia](https://en.wikipedia.org/wiki/Seven%20deadly%20sins) 
+
 
 These were themes in the [[Seven(1995_film)]] 
 

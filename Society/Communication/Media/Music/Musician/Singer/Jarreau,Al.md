@@ -21,7 +21,7 @@ aliases:
 > Jarreau also sang the theme song of the 1980s television series Moonlighting 
 > and was among the performers on the 1985 charity song "We Are the World".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Al%20Jarreau)
+> [Wikipedia](https://en.wikipedia.org/wiki/Al%20Jarreau) 
 
 
 ## Confidential Links & Embeds: 

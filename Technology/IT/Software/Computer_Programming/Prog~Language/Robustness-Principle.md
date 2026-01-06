@@ -18,7 +18,8 @@ aliases:
 > but programs that receive messages should accept non-conformant input 
 > as long as the meaning is clear.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robustness%20principle)
+> [Wikipedia](https://en.wikipedia.org/wiki/Robustness%20principle) 
+
 
 Among programmers, to produce compatible functions, the principle is also known in the form: 
 - be contravariant (more generic) in the input type and 

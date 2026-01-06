@@ -59,7 +59,7 @@ U_S_National_Archives_Identifier: 10639437
 >
 > The study of electrical phenomena dates back to antiquity, with theoretical understanding progressing slowly until the 17th and 18th centuries. The development of the theory of electromagnetism in the 19th century marked significant progress, leading to electricity's industrial and residential application by electrical engineers by the century's end. This rapid expansion in electrical technology at the time was the driving force behind the Second Industrial Revolution, with electricity's versatility driving transformations in both industry and society. Electricity is integral to applications spanning transport, heating, lighting, communications, and computation, making it the foundation of modern industrial society.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Electricity)
+> [Wikipedia](https://en.wikipedia.org/wiki/Electricity) 
 
 
 ## Confidential Links & Embeds: 

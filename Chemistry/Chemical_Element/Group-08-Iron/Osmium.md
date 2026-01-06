@@ -109,7 +109,7 @@ ZVG_number: 7760
 > It is estimated to be about 0.6 parts per billion in the universe 
 > and is therefore the rarest precious metal.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Osmium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Osmium) 
 
 
 ## Confidential Links & Embeds: 

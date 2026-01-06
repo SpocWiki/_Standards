@@ -52,7 +52,7 @@ A time period from 521 to 509 million years ago.
 
 > **Cambrian Series 2** is the unnamed 2nd series of the Cambrian. It lies above the [[Epoch-538~Terreneuvian]] series and below the [[Epoch-509~Miaolingian]]. Series 2 has not been formally defined by the International Commission on Stratigraphy, lacking a precise lower boundary and subdivision into stages. The proposed lower boundary is the first appearance of trilobites which is estimated to be around 521 million years ago.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Series%202)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Series%202) 
 
 
 #has_/label_/bg  :: Камбрий - 2 ѿериѿ

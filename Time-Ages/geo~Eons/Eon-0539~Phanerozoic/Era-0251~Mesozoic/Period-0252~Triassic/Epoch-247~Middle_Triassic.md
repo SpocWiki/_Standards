@@ -3,6 +3,17 @@ aliases:
   - Epoch~2~Middle_Triassic
   - Epoch~2~Middle Triassic
 ischart: MiddleTriassic
+has_id_wikidata: Q929395
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Middle_Triassic,21605749]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+named_after: "[[_Standards/WikiData/WD~Q201,201]]"
+start_time: -247200000-01-01T00:00:00Z
+Commons_category: Middle Triassic
+sRGB_color_hex_triplet: BF7CB1
+end_time: -235000000-01-01T00:00:00Z
 ---
 
 # [[Epoch-247~Middle_Triassic]] 
@@ -13,6 +24,7 @@ ischart: MiddleTriassic
 
 #has_/previous_/item :: [[Epoch-252~Early_Triassic]] 
 #has_/next_/item :: [[Epoch-237~Late_Triassic]] 
+#is_/same_as :: [[WD~Middle_Triassic,929395]] 
 
 A time period from 247.2 to 237 million years ago. 
 
@@ -20,12 +32,12 @@ A time period from 247.2 to 237 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > In the geologic timescale, the Middle Triassic is the second of three epochs of the Triassic period or the middle of three series in which the Triassic system is divided in chronostratigraphy. The Middle Triassic spans the time between 247.2 Ma and 237 Ma (million years ago). It is preceded by the Early Triassic Epoch and followed by the Late Triassic Epoch. The Middle Triassic is divided into the Anisian and Ladinian ages or stages.
 >
 > Formerly the middle series in the Triassic was also known as Muschelkalk. This name is now only used for a specific unit of rock strata with approximately Middle Triassic age, found in western Europe.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Triassic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Triassic) 
+
 
 #has_/label_/bg  :: Среден Триаѿ
 #has_/label_/cs  :: Střední trias

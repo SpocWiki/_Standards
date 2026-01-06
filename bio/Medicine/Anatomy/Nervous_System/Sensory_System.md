@@ -24,7 +24,7 @@
 > Receptive fields have been identified for the visual system, auditory system 
 > and somatosensory system.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sensory%20nervous%20system)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Sensory%20nervous%20system) 
 
 
 ## Confidential Links & Embeds: 

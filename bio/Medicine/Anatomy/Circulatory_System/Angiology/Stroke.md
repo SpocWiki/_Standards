@@ -141,7 +141,7 @@ WordLift_URL:
 > About half of people who have had a stroke live less than one year. 
 > Overall, two thirds of cases of stroke occurred in those over 65 years old.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stroke)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stroke) 
 
 
 ## Confidential Links & Embeds: 

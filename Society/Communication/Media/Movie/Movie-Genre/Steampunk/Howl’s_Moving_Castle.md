@@ -51,7 +51,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Howl's%20Moving%20Castle%20(film)) 
 
 
-
 ## #has_/text_of_/abstract 
 
 > Howl's Moving Castle is a fantasy novel by British author Diana Wynne Jones, 

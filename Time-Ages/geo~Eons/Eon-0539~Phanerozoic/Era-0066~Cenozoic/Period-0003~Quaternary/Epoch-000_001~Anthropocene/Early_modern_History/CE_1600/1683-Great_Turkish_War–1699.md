@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1683-01-01 
-has_time_stopped: 1699-01-01 
+---
 aliases:
   - Great Turkish War
   - 1683-Great_Turkish_War–1699
@@ -45,7 +43,7 @@ Commons_category: Great Turkish War
 >
 > The war largely overlapped with the Nine Years' War (1688–1697), which took up the vast majority of the Habsburgs' attention while it was active. In 1695, for instance, the Holy Roman Empire states had 280,000 troops in the field, with England, the Dutch Republic, and Spain contributing another 156,000, specifically to the conflict against France. Of those 280,000, only 74,000, or about one quarter, were positioned against the Turks; the rest were fighting France. Overall, from 1683 to 1699, the Imperial States had on average 88,100 men fighting the Turks, while from 1688 to 1697, they had on average 127,410 fighting the French.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Turkish%20War)
+> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Turkish%20War) 
 
 
 ## Confidential Links & Embeds: 

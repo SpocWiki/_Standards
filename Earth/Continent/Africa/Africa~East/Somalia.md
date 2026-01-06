@@ -444,7 +444,7 @@ Capital :: [Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadi
 >
 > A new provisional constitution was passed in August 2012, reforming Somalia as a federation. The same month, the Federal Government of Somalia was formed and a period of reconstruction began in Mogadishu, despite al-Shabaab frequently carrying out attacks there. Somalia is among the least developed countries in the world, as evidenced by its ranking in metrics such as GDP per capita, It has maintained an informal economy mainly based on livestock, remittances from Somalis working abroad, and telecommunications. It is a member of the United Nations, the Arab League, African Union, Non-Aligned Movement, East African Community, and the Organisation of Islamic Cooperation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Somalia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Somalia) 
 
 
 ## Confidential Links & Embeds: 

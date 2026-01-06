@@ -56,7 +56,7 @@ A time period from 410.8 to 407.6 million years ago.
 >
 > In North America the Pragian Stage is represented by Siegenian or Deerparkian time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pragian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Pragian) 
 
 
 #has_/label_/bg  :: Праг

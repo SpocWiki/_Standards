@@ -20,8 +20,7 @@ aliases:
 >
 > - VBScript, an Active Scripting language
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Visual%20Basic)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Visual%20Basic) 
 
 
 # [[Prog~VB]] 

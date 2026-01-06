@@ -55,7 +55,7 @@ subreddit: RenewableEnergy
 >
 > The deployment of renewable energy still faces obstacles, especially fossil fuel subsidies, lobbying by incumbent power providers, and local opposition to the use of land for renewable installations. Like all mining, the extraction of minerals required for many renewable energy technologies also results in environmental damage. In addition, although most renewable energy sources are sustainable, some are not.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Renewable%20energy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Renewable%20energy) 
 
 
 ## Confidential Links & Embeds: 

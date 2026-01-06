@@ -58,7 +58,7 @@ aliases:
 > Their divorce drew media attention, as both alleged abuse against each other 
 > and engaged in two highly publicized defamation cases: the Depp v. NGN and the Depp v. Heard trials.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Johnny%20Depp)
+> [Wikipedia](https://en.wikipedia.org/wiki/Johnny%20Depp) 
 
 
 ## Confidential Links & Embeds: 

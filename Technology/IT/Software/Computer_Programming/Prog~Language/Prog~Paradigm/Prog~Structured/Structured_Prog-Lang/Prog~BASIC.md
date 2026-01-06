@@ -60,7 +60,8 @@ Code
 > Many of the original source listings in BASIC Computer Games and related works 
 > also trace their history to Dartmouth BASIC.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dartmouth%20BASIC)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dartmouth%20BASIC) 
+
 
 Kemeny later noted that "Our vision was that every student on campus should have access to a computer, and any faculty member should be able to use a computer in the classroom whenever appropriate. It was as simple as that."
 

@@ -61,7 +61,8 @@ A time period from 4567 to 4031 million years ago.
 > Earth in the early Hadean had a very thick carbon dioxide- and methane-rich prebiotic atmosphere, 
 > but eventually oceans made of liquid water were formed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hadean)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hadean) 
+
 
 #has_/label_/cs  :: Hád (spodní hranice není definována)
 #has_/label_/da  :: Hadean

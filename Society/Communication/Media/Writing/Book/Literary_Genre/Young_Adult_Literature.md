@@ -43,7 +43,7 @@ Commons_category: Young adult fiction
 > 
 > This highlights the fact that readers of young adult literature are often adults.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Young%20adult%20literature)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Young%20adult%20literature) 
 
 
 ## Confidential Links & Embeds: 

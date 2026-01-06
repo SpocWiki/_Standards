@@ -13,7 +13,7 @@
 >
 > Since the exposure of European scholars to his Aṣṭādhyāyī in the nineteenth century, Pāṇini has been considered the "first descriptive linguist", and even labelled as "the father of linguistics". His approach to grammar influenced such foundational linguists as Ferdinand de Saussure and Leonard Bloomfield.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini)  
+> [Wikipedia](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) 
 
 
 ## Confidential Links & Embeds: 

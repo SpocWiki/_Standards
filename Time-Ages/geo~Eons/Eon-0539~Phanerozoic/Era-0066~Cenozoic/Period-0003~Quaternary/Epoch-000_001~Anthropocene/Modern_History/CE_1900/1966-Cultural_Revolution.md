@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1966-05-16 
-has_time_stopped: 1976-10-06 
+---
 aliases:
   - Cultural Revolution, formally known as the Great Proletarian Cultural Revolution
   - 1966-Cultural_Revolution

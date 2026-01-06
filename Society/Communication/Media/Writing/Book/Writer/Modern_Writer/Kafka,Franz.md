@@ -183,7 +183,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > influencing German literature, and its influence spread elsewhere in the world in the 1960s. 
 > It has also influenced artists, composers, and philosophers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Kafka)
+> [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Kafka) 
 
 
 ## Confidential Links & Embeds: 

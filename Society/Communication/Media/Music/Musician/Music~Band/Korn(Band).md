@@ -48,7 +48,7 @@ aliases:
 > "[[Korn(Band)/Korn~Freak_on_a_Leash]]"; "Falling Away from Me"; "Here to Stay"; "Did My Time"; "Twisted Transistor"; "Coming Undone"; and "Get Up!" 
 > Korn has earned two Grammy Awards out of eight nominations and two MTV Video Music Awards out of 11 nominations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Korn)
+> [Wikipedia](https://en.wikipedia.org/wiki/Korn) 
 
 
 ## Confidential Links & Embeds: 

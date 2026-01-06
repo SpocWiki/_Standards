@@ -60,7 +60,7 @@ UMLS_CUI: C0007226
 >
 > The circulatory system can be affected by many cardiovascular diseases. Cardiologists are medical professionals which specialise in the heart, and cardiothoracic surgeons specialise in operating on the heart and its surrounding areas. Vascular surgeons focus on disorders of the blood vessels, and lymphatic vessels.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Circulatory%20system)
+> [Wikipedia](https://en.wikipedia.org/wiki/Circulatory%20system) 
 
 
 ## Confidential Links & Embeds: 

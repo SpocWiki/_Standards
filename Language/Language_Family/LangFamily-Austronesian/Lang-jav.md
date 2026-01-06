@@ -34,7 +34,7 @@ type: Lang
 >
 > There are speakers of Javanese in Malaysia (concentrated in the West Coast part of the states of Selangor and Johor) and Singapore. Javanese is also spoken by traditional immigrant communities of Javanese descent in Suriname, Sri Lanka and New Caledonia.Along with Indonesian, Javanese is an official language in the Special Region of Yogyakarta, Indonesia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Javanese%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Javanese%20language) 
 
 
 ## Confidential Links & Embeds: 

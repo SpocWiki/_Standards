@@ -49,7 +49,8 @@ sRGB_color_hex_triplet: F74F7C
 >
 > The deposition of banded iron formations peaked early in this period. These iron rich formations were formed as anaerobic cyanobacteria produced waste oxygen that combined with iron, forming magnetite (Fe3O4, an iron oxide). This process removed iron from the Earth's oceans, presumably turning greenish seas clear. Eventually, with no remaining iron in the oceans to serve as an oxygen sink, the process allowed the buildup of an oxygen-rich atmosphere. This second, follow-on event is known as the oxygen catastrophe, which, some geologists believe triggered the Huronian glaciation.Since the time period from 2420 Ma to 2250 Ma is well-defined by the lower edge of iron-deposition layers, an alternative period named the Oxygenian, based on stratigraphy instead of chronometry, was suggested in 2012 in a geological timescale review.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Siderian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Siderian) 
+
 
 #has_/label_/bg  :: Сидер
 #has_/label_/cs  :: Sider

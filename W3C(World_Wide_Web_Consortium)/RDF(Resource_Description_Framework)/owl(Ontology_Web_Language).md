@@ -28,8 +28,7 @@ is a very expressive Language with more inference and strictness than [[rdfs]]
 > 
 > The OWL family contains many species, serializations, syntaxes and specifications with similar names. OWL and OWL2 are used to refer to the 2004 and 2009 specifications, respectively. Full species names will be used, including specification version (for example, OWL2 EL). When referring more generally, OWL Family will be used.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Web%20Ontology%20Language)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Web%20Ontology%20Language) 
 
 
 ## All Contents

@@ -127,7 +127,6 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## #has_/text_of_/abstract 
 
-
 > Eric Arthur Blair (25 June 1903 – 21 January 1950) 
 > was an English novelist, poet, essayist, journalist and critic who wrote under the **pen name** of __George Orwell__. 
 > 
@@ -158,7 +157,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > 
 > In 2008, The Times named Orwell the second-greatest British writer since 1945.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/George%20Orwell)
+> [Wikipedia](https://en.wikipedia.org/wiki/George%20Orwell) 
 
 
 ## Confidential Links & Embeds: 

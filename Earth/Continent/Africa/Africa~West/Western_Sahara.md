@@ -242,7 +242,7 @@ Capital :: [[El_Aaiún_(Laâyoune)]]
 >
 > In 1984, the African Union's predecessor, the Organisation of African Unity, recognized the SADR as one of its full members, with the same status as Morocco, and Morocco protested by suspending its membership of the OAU. Morocco was readmitted to the Union in 2017, after promising conflicting claims would be resolved peacefully and it would stop building walls to extend its military control. Meanwhile, the African Union has not issued any formal statement about the border separating the sovereign territories of Morocco and the SADR. Instead, the African Union works with the UN mission to maintain the ceasefire and reach a peace agreement. The African Union provides a peacekeeping contingent to the UN mission which is used to control a buffer zone near the de facto border walls built by Morocco.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Western%20Sahara)
+> [Wikipedia](https://en.wikipedia.org/wiki/Western%20Sahara) 
 
 
 ## Confidential Links & Embeds: 

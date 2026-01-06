@@ -58,7 +58,7 @@ short_name: Cnc
 > Its name is Latin for crab and it is commonly represented as one. 
 > Cancer is a medium-size constellation with an area of 506 square degrees and its stars are rather faint, its brightest star Beta Cancri having an apparent magnitude of 3.5. It contains ten stars with known planets, including 55 Cancri, which has five: one super-Earth and four gas giants, one of which is in the habitable zone and as such has expected temperatures similar to Earth. At the (angular) heart of this sector of our celestial sphere is Praesepe (Messier 44), one of the closest open clusters to Earth and a popular target for amateur astronomers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cancer%20(constellation))
+> [Wikipedia](https://en.wikipedia.org/wiki/Cancer%20(constellation)) 
 
 
 ## Confidential Links & Embeds: 

@@ -13,7 +13,7 @@
 >
 > Haskell is used in academia and industry. As of May 2021, Haskell was the 28th most popular programming language by Google searches for tutorials,  and made up less than 1% of active users on the GitHub source code repository.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Haskell)
+> [Wikipedia](https://en.wikipedia.org/wiki/Haskell) 
 
 
 ## Confidential Links & Embeds: 

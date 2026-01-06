@@ -603,7 +603,7 @@ Capital :: [[Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holl
 >
 > The Netherlands has been a parliamentary constitutional monarchy with a unitary structure since 1848. The country has a tradition of pillarisation (separation of citizens into groups by religion and political beliefs) and a long record of social tolerance, having legalised prostitution and euthanasia, along with maintaining a liberal drug policy. The Netherlands allowed women's suffrage in 1919 and was the first country to legalise same-sex marriage in 2001. Its mixed-market advanced economy has the eleventh-highest per capita income globally. The Hague holds the seat of the States General, Cabinet, and Supreme Court. The Port of Rotterdam is the busiest in Europe. Schiphol is the busiest airport in the Netherlands, and the fourth busiest in Europe. Being a developed country, the Netherlands is a founding member of the European Union, eurozone, G10, NATO, OECD, and WTO, as well as a part of the Schengen Area and the trilateral Benelux Union. It hosts intergovernmental organisations and international courts, many of which are in The Hague.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Netherlands)
+> [Wikipedia](https://en.wikipedia.org/wiki/Netherlands) 
 
 
 ## Confidential Links & Embeds: 

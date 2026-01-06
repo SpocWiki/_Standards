@@ -1,3 +1,20 @@
+---
+aliases:
+  - Norian
+has_id_wikidata: Q1080207
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_after: "[[_Standards/WikiData/WD~Noric_Alps,685267]]"
+named_by: "[[_Standards/WikiData/WD~Johann_August_Georg_Edmund_Mojsisovics_von_Mojsvar,873571]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Norian,21607947]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -208500000-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Otisk%20stopy%20ceskeho%20dinosaura.jpg
+sRGB_color_hex_triplet: DDB4D1
+Commons_category: Norian
+start_time: -227000000-01-01T00:00:00Z
+---
 # [[Age~2~Norian]] 
 
 #is_a_/time_/Age 
@@ -6,6 +23,7 @@
 
 #has_/previous_/item :: [[Age~1~Carnian]] 
 #has_/next_/item :: [[Age~3~Rhaetian]] 
+#is_/same_as :: [[WD~Norian,1080207]] 
 
 A time period from 227 to 208.5 million years ago. 
 
@@ -14,14 +32,14 @@ A time period from 227 to 208.5 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Norian** is a division of the Triassic Period. 
 > It has the rank of an age (geochronology) or stage (chronostratigraphy). 
 > 
 > It lasted from ~227 to 208.5 million years ago. 
 > It was preceded by the Carnian and succeeded by the Rhaetian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Norian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Norian) 
+
 
 #has_/label_/bg  :: пор
 #has_/label_/cs  :: Nor

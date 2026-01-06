@@ -1,7 +1,9 @@
 
 # [[Attention Economy]] 
 
-Algorithms figured out that Attention can best be obtained by focusing on many of the conventional [[../../../Philosophy/Ethics/Vice|Vice]]s like . 
+Algorithms figured out that Attention can best be obtained by 
+focusing on many of the conventional [[../../../Philosophy/Ethics/Vice|Vice]]s like [[../Affect/Emotion/Envy|Envy]], [[../../../Philosophy/Ethics/Vice/Greed|Greed]], [[../Affect/Emotion/Fear|Fear]], [[../../../Philosophy/Ethics/Vice/Anger|Anger]], [[../Affect/Emotion/Lust|Lust]]. 
+
 
 ## #has_/text_of_/abstract 
 
@@ -13,8 +15,6 @@ Algorithms figured out that Attention can best be obtained by focusing on many o
 > and applies economic theory to solve various information management problems.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Attention%20economy) 
-
-
 
 
 ## Confidential Links & Embeds: 

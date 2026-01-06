@@ -7,7 +7,7 @@
 >
 > Akira has since been cited as a masterpiece and as among one of the greatest films ever made, especially in the field of animation and the action and science fiction genres. A landmark in Japanese animation, and the most influential and iconic anime film ever made, it is also considered a pivotal film in the cyberpunk genre, particularly the Japanese cyberpunk subgenre, as well as adult animation. The film had a significant effect on popular culture worldwide, paving the way for the growth of anime and Japanese popular culture in the Western world as well as influencing numerous works in animation, comics, film, music, television, and video games.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Akira%20(1988%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Akira%20(1988%20film)) 
 
 
 ## Confidential Links & Embeds: 

@@ -28,7 +28,7 @@ subclass_of: '[[_Standards/WikiData/WD~world_view,49447]]'
 >
 > The term was coined by Antoine Destutt de Tracy, a French Enlightenment aristocrat and philosopher, who conceived it in 1796 as the "science of ideas" to develop a rational system of ideas to oppose the irrational impulses of the mob. In political science, the term is used in a descriptive sense to refer to political belief systems.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ideology)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ideology) 
 
 
 ## Confidential Links & Embeds: 

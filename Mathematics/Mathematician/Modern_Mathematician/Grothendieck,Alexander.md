@@ -35,7 +35,7 @@ aliases:
 > In 1991, he moved to the French village of Lasserre in the Pyrenees, where he lived in seclusion, 
 > still working on mathematics and his philosophical and religious thoughts until his death in 2014.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Grothendieck)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Grothendieck) 
 
 
 ## Confidential Links & Embeds: 

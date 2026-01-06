@@ -132,7 +132,6 @@ A time period from 2500 to 538.8 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Proterozoic** (IPA:  PROH-tər-ə-ZOH-ik, PROT-, -⁠ər-oh-, -⁠trə-, -⁠troh-) 
 > is the third of the four geologic eons of Earth's history, 
 > spanning the time interval from 2500 to 538.8 Mya, the longest eon of the Earth's geologic time scale. 
@@ -160,6 +159,7 @@ A time period from 2500 to 538.8 million years ago.
 >   (some of which had evolved sexual reproduction) and provides the first obvious fossil evidence of life on Earth.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Proterozoic) 
+
 
 #has_/label_/bg  :: Протерозой
 #has_/label_/cs  :: Proterozoikum

@@ -57,7 +57,7 @@ Dewey_Decimal_Classification:
 > while decreasing food miles, leading to lower greenhouse gas emissions, 
 > thereby contributing to climate change mitigation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Urban%20agriculture)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Urban%20agriculture) 
 
 
 ## Confidential Links & Embeds: 

@@ -72,7 +72,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_physics,2427913]]'
 >
 > Advances in physics often enable new technologies. For example, advances in the understanding of electromagnetism, solid-state physics, and nuclear physics led directly to the development of technologies that have transformed modern society, such as television, computers, domestic appliances, and nuclear weapons; advances in thermodynamics led to the development of industrialization; and advances in mechanics inspired the development of calculus.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Physics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Physics) 
 
 
 ## Confidential Links & Embeds: 

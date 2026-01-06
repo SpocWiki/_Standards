@@ -108,7 +108,7 @@ Wikidata_property:
 > The word "families" can be used metaphorically to create more inclusive categories 
 > such as community, nationhood, and global village.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Family)
+> [Wikipedia](https://en.wikipedia.org/wiki/Family) 
 
 
 ## Confidential Links & Embeds: 

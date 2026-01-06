@@ -363,7 +363,7 @@ work_period_start_: 1484
 > This is reinforced by his theoretical treatises, 
 > which involve principles of mathematics for linear perspective and body proportions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Albrecht%20D%C3%BCrer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Albrecht%20D%C3%BCrer) 
 
 
 ## Confidential Links & Embeds: 

@@ -40,7 +40,7 @@ aliases:
 > In addition, Fuji TV is the first TV station in Japan 
 > to broadcast and produce locally-made animated series made specifically to be televised.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fuji%20Television)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fuji%20Television) 
 
 
 ## Confidential Links & Embeds: 

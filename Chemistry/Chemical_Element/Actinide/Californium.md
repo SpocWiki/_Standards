@@ -104,7 +104,7 @@ UNII: 975X05H15A
 >
 > Californium is one of the few transuranium elements with practical uses. Most of these applications exploit the fact that certain isotopes of californium emit neutrons. For example, californium can be used to help start up nuclear reactors, and it is used as a source of neutrons when studying materials using neutron diffraction and neutron spectroscopy. It can also be used in nuclear synthesis of higher mass elements; oganesson (element 118) was synthesized by bombarding californium-249 atoms with calcium-48 ions. Users of californium must take into account radiological concerns and the element's ability to disrupt the formation of red blood cells by bioaccumulating in skeletal tissue.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Californium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Californium) 
 
 
 ## Confidential Links & Embeds: 

@@ -43,7 +43,7 @@ aliases:
 > after winning Best Actor at the three most prestigious Chinese-language film awards: 
 > the Golden Horse Awards, the Hong Kong Film Awards and the Golden Rooster Awards.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tony%20Leung%20Chiu-wai)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tony%20Leung%20Chiu-wai) 
 
 
 ## Confidential Links & Embeds: 

@@ -128,7 +128,7 @@ X_Twitter_username: _AfricanUnion
 >
 > At a G20 (Group of 20) meeting held in New Delhi, India in 2023, the African Union was admitted as a member to the G20 like the European Union.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/African%20Union)
+> [Wikipedia](https://en.wikipedia.org/wiki/African%20Union) 
 
 
 ## Confidential Links & Embeds: 

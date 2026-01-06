@@ -101,7 +101,7 @@ ISNI: 0000000109203822
 > In his later life, while a professor of electrical engineering at [[../../../../../../../../Earth/Continent/America~North/USA/USA~Pacific/California/counties~California/Santa_Clara,County/Stanford_University]] 
 > and afterward, Shockley became known as a racist and eugenicist.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/William%20Shockley)
+> [Wikipedia](https://en.wikipedia.org/wiki/William%20Shockley) 
 
 
 ## Confidential Links & Embeds: 

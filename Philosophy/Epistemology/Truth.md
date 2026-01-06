@@ -71,7 +71,7 @@ subclass_of: "[[_Standards/WikiData/WD~proposition,108163]]"
 > the role that truth plays in constituting knowledge; 
 > and, if truth is always absolute or if it can be relative to one's perspective.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Truth)
+> [Wikipedia](https://en.wikipedia.org/wiki/Truth) 
 
 
 ## Confidential Links & Embeds: 

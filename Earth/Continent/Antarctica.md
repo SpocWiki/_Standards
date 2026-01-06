@@ -149,7 +149,7 @@ markerFolder: ./Antarctica/
 >
 > Antarctica is governed by about 30 countries, all of which are parties of the 1959 Antarctic Treaty System. According to the terms of the treaty, military activity, mining, nuclear explosions, and nuclear waste disposal are all prohibited in Antarctica. Tourism, fishing and research are the main human activities in and around Antarctica. During the summer months, about 5,000 people reside at research stations, a figure that drops to around 1,000 in the winter. Despite the continent's remoteness, human activity has a significant effect on it via pollution, ozone depletion, and climate change. The melting of the potentially unstable West Antarctic ice sheet causes the most uncertainty in century-scale projections of sea level rise, and the same melting also affects the Southern Ocean overturning circulation, which can eventually lead to significant impacts on the Southern Hemisphere climate and Southern Ocean productivity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Antarctica)
+> [Wikipedia](https://en.wikipedia.org/wiki/Antarctica) 
 
 
 ## Confidential Links & Embeds: 

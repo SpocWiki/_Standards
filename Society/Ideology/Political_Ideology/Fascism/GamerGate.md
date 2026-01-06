@@ -54,7 +54,7 @@
 > 
 > Gamergate has been viewed as contributing to the [[alt-right_Movement]] and other right-wing movements.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gamergate%20(harassment%20campaign))
+> [Wikipedia](https://en.wikipedia.org/wiki/Gamergate%20(harassment%20campaign)) 
 
 
 ## Confidential Links & Embeds: 

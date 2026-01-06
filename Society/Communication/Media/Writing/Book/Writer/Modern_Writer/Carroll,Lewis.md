@@ -191,7 +191,7 @@ Europeana_entity: agent/base/120840
 > In 1982 a memorial stone to Carroll was unveiled at Poets' Corner in Westminster Abbey. 
 > There are societies in many parts of the world dedicated to the enjoyment and promotion of his works.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lewis%20Carroll)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lewis%20Carroll) 
 
 
 ## Confidential Links & Embeds: 

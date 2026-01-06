@@ -32,8 +32,6 @@ has_id_wikidata: Q313013
 > [Wikipedia](https://en.wikipedia.org/wiki/Brian%20Wilson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Beach_Boys/Wilson,Brian(Musician)|Wilson,Brian(Musician)]] 

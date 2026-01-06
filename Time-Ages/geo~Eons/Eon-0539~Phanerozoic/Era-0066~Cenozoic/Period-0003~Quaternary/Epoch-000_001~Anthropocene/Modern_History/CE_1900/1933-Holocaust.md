@@ -146,7 +146,7 @@ UMLS_CUI: C0206236
 > It has become central to Western historical consciousness 
 > as a symbol of the ultimate human evil.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Holocaust)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Holocaust) 
 
 
 ## Confidential Links & Embeds: 

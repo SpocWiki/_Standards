@@ -157,7 +157,7 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/48638
 > influence generations of academics and politicians, 
 > and his approach has been compared to the Realpolitik of figures such as Otto von Bismarck.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Niccol%C3%B2%20Machiavelli)
+> [Wikipedia](https://en.wikipedia.org/wiki/Niccol%C3%B2%20Machiavelli) 
 
 
 ## Confidential Links & Embeds: 

@@ -25,7 +25,7 @@ aliases:
 > it was the only one of Brosnan's Bond films not to open at No. 1 at the box office, 
 > as it opened the same day as Titanic, and finished at No. 2 that week.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tomorrow%20Never%20Dies)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tomorrow%20Never%20Dies) 
 
 
 ## Confidential Links & Embeds: 

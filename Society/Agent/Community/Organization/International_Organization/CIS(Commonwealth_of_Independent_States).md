@@ -170,7 +170,7 @@ official_website: https://e-cis.info/
 >
 > Eight of the nine CIS member states participate in the CIS Free Trade Area. Three organizations originated from the CIS, namely the Collective Security Treaty Organization, the Eurasian Economic Union (alongside subdivisions, the Eurasian Customs Union and the Eurasian Economic Space); and the Union State. While the first and the second are military and economic alliances, the third aims to reach a supranational union of Russia and Belarus with a common government and currency.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Commonwealth%20of%20Independent%20States)
+> [Wikipedia](https://en.wikipedia.org/wiki/Commonwealth%20of%20Independent%20States) 
 
 
 ## Confidential Links & Embeds: 

@@ -123,7 +123,7 @@ UNII: 5H0DOZ21UJ
 > 
 > Lutetium has the highest Brinell hardness of any lanthanide, at 890–1300 MPa.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lutetium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lutetium) 
 
 
 ## Confidential Links & Embeds: 

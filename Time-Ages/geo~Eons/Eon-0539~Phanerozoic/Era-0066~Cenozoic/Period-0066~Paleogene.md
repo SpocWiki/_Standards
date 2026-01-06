@@ -64,7 +64,8 @@ A time period from 66.0 to 23.03 million years ago.
 > 
 > The earlier term Tertiary Period was used to define the span of time now covered by the Paleogene Period and subsequent Neogene Period; despite no longer being recognized as a formal stratigraphic term, "Tertiary" still sometimes remains in informal use. Paleogene is often abbreviated "Pg" (but the United States Geological Survey uses the abbreviation Pe for the Paleogene on the Survey's geologic maps).During the Paleogene, mammals diversified from relatively small, simple forms into a large group of diverse animals in the wake of the Cretaceous–Paleogene extinction event that ended the preceding Cretaceous Period.This period consists of the Paleocene, Eocene, and Oligocene epochs. The end of the Paleocene (56 Mya) was marked by the Paleocene–Eocene Thermal Maximum, one of the most significant periods of global change during the Cenozoic, which upset oceanic and atmospheric circulation and led to the extinction of numerous deep-sea benthic foraminifera and on land, a major turnover in mammals. The term "Paleogene System" is applied to the rocks deposited during the Paleogene Period.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paleogene)
+> [Wikipedia](https://en.wikipedia.org/wiki/Paleogene) 
+
 
 #has_/label_/bg  :: Палеоген
 #has_/label_/cs  :: Paleogén

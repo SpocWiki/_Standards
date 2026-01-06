@@ -47,7 +47,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_industry,16000278]]'
 >
 > Industry classification is valuable for economic analysis because it leads to largely distinct categories with simple relationships. Through these classifications, economists are able to compare companies within the same industry to evaluate the attractiveness of that industry. Companies within the same industry can also have similar stock price movements due to their similarity and macroeconomic factors that affect all members of an industry. However, more complex cases, such as otherwise different processes yielding similar products, require an element of standardization and prevent any one schema from fitting all possible uses.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Industry%20(economics))
+> [Wikipedia](https://en.wikipedia.org/wiki/Industry%20(economics)) 
 
 
 ## Confidential Links & Embeds: 

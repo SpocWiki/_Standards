@@ -75,7 +75,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/global_warming
 >
 > Fossil fuel use can be phased out by conserving energy and switching to energy sources that do not produce significant carbon pollution. These energy sources include wind, solar, hydro, and nuclear power. Cleanly generated electricity can replace fossil fuels for powering transportation, heating buildings, and running industrial processes. Carbon can also be removed from the atmosphere, for instance by increasing forest cover and farming with methods that capture carbon in soil.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Climate%20change)
+> [Wikipedia](https://en.wikipedia.org/wiki/Climate%20change) 
 
 
 ## Confidential Links & Embeds: 

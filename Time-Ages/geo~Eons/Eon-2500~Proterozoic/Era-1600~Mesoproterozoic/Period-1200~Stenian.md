@@ -17,7 +17,7 @@ aliases:
   - stenij
   - 狭带纪
 has_id_wikidata: Q776333
-__has_:
+dv_has_:
   duration_:
     years: "2.000e+8"
   previous_:
@@ -51,7 +51,7 @@ __has_:
     stopped: -1000000000
   text_of_:
     color: "0xFED99A"
-__is_:
+dv_is_:
   same_as:
     - "[[WD~Stenian,776333]]"
     - "[[Period-1200~Stenian]]"
@@ -61,10 +61,10 @@ __is_:
     - "[[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.private|Period~3~Stenian.private]]"
     - "[[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.personal|Period~3~Stenian.personal]]"
     - "[[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.secret|Period~3~Stenian.secret]]"
-__has_duration_years: "2.000e+8"
-__has_previous_item: "[[Period-1400~Ectasian]]"
-__has_next_item: "[[../Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]"
-__is_same_as:
+dv_has_duration_years: "2.000e+8"
+dv_has_previous_item: "[[Period-1400~Ectasian]]"
+dv_has_next_item: "[[../Era-1000~Neoproterozoic/Period-1000~Tonian|Period-1000~Tonian]]"
+dv_is_same_as:
   - "[[WD~Stenian,776333]]"
   - "[[Period-1200~Stenian]]"
   - "[[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.public|Period~3~Stenian.public]]"
@@ -73,30 +73,30 @@ __is_same_as:
   - "[[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.private|Period~3~Stenian.private]]"
   - "[[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.personal|Period~3~Stenian.personal]]"
   - "[[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.secret|Period~3~Stenian.secret]]"
-__has_label_bg: Стен
-__has_label_cs: Sten
-__has_label_da: Stenien
-__has_label_de: Stenium
-__has_label_es: Esteniense
-__has_label_et: Sten
-__has_label_fi: Sten
-__has_label_fr: Sténien
-__has_label_hu: steni
-__has_label_it: steniano
-__has_label_ja: ステニアン紀
-__has_label_lt: Stenis
-__has_label_nl: Steniën
-__has_label_no: Stenium
-__has_label_pl: Sten
-__has_label_pt: Steniano
-__has_label_sk: stenium
-__has_label_sl: stenij
-__has_label_sv: stenium
-__has_label_zh: 狭带纪
-__has_abbreviation: MP3
-__has_time_started: -1200000000
-__has_time_stopped: -1000000000
-__has_text_of_color: "0xFED99A"
+dv_has_label_bg: Стен
+dv_has_label_cs: Sten
+dv_has_label_da: Stenien
+dv_has_label_de: Stenium
+dv_has_label_es: Esteniense
+dv_has_label_et: Sten
+dv_has_label_fi: Sten
+dv_has_label_fr: Sténien
+dv_has_label_hu: steni
+dv_has_label_it: steniano
+dv_has_label_ja: ステニアン紀
+dv_has_label_lt: Stenis
+dv_has_label_nl: Steniën
+dv_has_label_no: Stenium
+dv_has_label_pl: Sten
+dv_has_label_pt: Steniano
+dv_has_label_sk: stenium
+dv_has_label_sl: stenij
+dv_has_label_sv: stenium
+dv_has_label_zh: 狭带纪
+dv_has_abbreviation: MP3
+dv_has_time_started: -1200000000
+dv_has_time_stopped: -1000000000
+dv_has_text_of_color: "0xFED99A"
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"
   - "[[_Standards/WikiData/WD~system,403523]]"
@@ -134,7 +134,8 @@ sRGB_color_hex_triplet: FED99A
 >
 > This period includes the formation of the Keweenawan Rift at about 1100 Mya.Fossils of the oldest known sexually reproducing organism, Bangiomorpha pubescens, first appeared in the Stenian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stenian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stenian) 
+
 
  has_label_bg = `$= dv.current().__has_label_bg` 
  has_label_cs = `$= dv.current().__has_label_cs` 

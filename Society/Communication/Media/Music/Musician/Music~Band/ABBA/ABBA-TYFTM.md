@@ -23,7 +23,7 @@ The box set contains 4 CDs, each focusing on different aspects of their work.
 >
 > In 2008 the Thank You for the Music box set was reissued in downsized packaging with a revised booklet.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thank%20You%20for%20the%20Music%20(box%20set))
+> [Wikipedia](https://en.wikipedia.org/wiki/Thank%20You%20for%20the%20Music%20(box%20set)) 
 
 
 ### Disc 1

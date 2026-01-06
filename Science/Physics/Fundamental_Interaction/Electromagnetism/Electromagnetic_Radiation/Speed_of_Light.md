@@ -80,7 +80,7 @@ Wolfram_Language_unit_code: '"SpeedOfLight"'
 >
 > The speed at which light propagates through transparent materials, such as glass or air, is less than c; similarly, the speed of electromagnetic waves in wire cables is slower than c. The ratio between c and the speed v at which light travels in a material is called the refractive index n of the material (n = ⁠c/v⁠). For example, for visible light, the refractive index of glass is typically around 1.5, meaning that light in glass travels at ⁠c/1.5⁠ ≈ 200000 km/s (124000 mi/s); the refractive index of air for visible light is about 1.0003, so the speed of light in air is about 90 km/s (56 mi/s) slower than c.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Speed%20of%20light)
+> [Wikipedia](https://en.wikipedia.org/wiki/Speed%20of%20light) 
 
 
 ## Confidential Links & Embeds: 

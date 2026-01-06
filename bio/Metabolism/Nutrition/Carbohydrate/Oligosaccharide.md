@@ -25,7 +25,7 @@
 > Others, such as maltodextrins or cellodextrins, 
 > result from the microbial breakdown of larger polysaccharides such as starch or [[Polysaccharide/Cellulose]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Oligosaccharide)
+> [Wikipedia](https://en.wikipedia.org/wiki/Oligosaccharide) 
 
 
 ## Confidential Links & Embeds: 

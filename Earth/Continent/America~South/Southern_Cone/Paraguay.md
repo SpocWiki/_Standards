@@ -459,7 +459,7 @@ Capital :: [[Paraguay/Counties/Presidente_Hayes/City/Asuncion]]
 >
 > While it is the only landlocked country in South America besides Bolivia, Paraguayan ports are able to access the Atlantic Ocean via the Paraná–Paraguay Waterway. The majority of Paraguay's 6 million people are mestizo, and Guarani culture remains widely influential; more than 90% of the population speak various dialects of the Guarani language alongside Spanish. Paraguay's GDP per capita PPP is the seventh-highest in South America. In a 2014 Positive Experience Index based on global polling data, Paraguay ranked as the "world's happiest place".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paraguay)
+> [Wikipedia](https://en.wikipedia.org/wiki/Paraguay) 
 
 
 ## Confidential Links & Embeds: 

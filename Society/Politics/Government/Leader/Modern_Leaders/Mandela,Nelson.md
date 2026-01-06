@@ -190,7 +190,7 @@ X_username: NelsonMandela
 >
 > Mandela was a controversial figure for much of his life. Although critics on the right denounced him as a communist terrorist and those on the far left deemed him too eager to negotiate and reconcile with apartheid's supporters, he gained international acclaim for his activism. Globally regarded as an icon of democracy and social justice, he received more than 250 honours, including the Nobel Peace Prize. He is held in deep respect within South Africa, where he is often referred to by his Thembu clan name, Madiba, and described as the "Father of the Nation".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nelson%20Mandela)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nelson%20Mandela) 
 
 
 ## Confidential Links & Embeds: 

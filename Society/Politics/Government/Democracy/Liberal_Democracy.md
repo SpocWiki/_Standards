@@ -114,7 +114,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Feminist%20Suffrage%20
 > After a period of expansion in the second half of the 20th century, 
 > liberal democracy became a prevalent political system in the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Liberal%20democracy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Liberal%20democracy) 
 
 
 ## Confidential Links & Embeds: 

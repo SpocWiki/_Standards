@@ -84,7 +84,7 @@ U_S_National_Archives_Identifier: 10638171
 > include movie studios, publishing companies, and radio and television stations 
 > (the latter are also sometimes known as mass media networks); they often form media conglomerates.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mass%20media)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mass%20media) 
 
 
 ## Confidential Links & Embeds: 

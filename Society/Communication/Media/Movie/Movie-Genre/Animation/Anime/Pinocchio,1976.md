@@ -4,7 +4,7 @@
 > which was created in coproduction with the [[ZDF]] and [[ORF]]. 
 > The story is based on the novel The [[Adventures of Pinocchio]] (1883) by Italian author [[Carlo Collodi]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Piccolino%20no%20B%C5%8Dken)
+> [Wikipedia](https://en.wikipedia.org/wiki/Piccolino%20no%20B%C5%8Dken) 
 
 
 The Title Music was written by [[Svoboda,Karel]]. 

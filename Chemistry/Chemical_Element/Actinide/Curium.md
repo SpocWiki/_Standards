@@ -104,7 +104,7 @@ UNII: M5LL84MZ2W
 >
 > All known isotopes of curium are radioactive and have small critical mass for a nuclear chain reaction. The most stable isotope, 247Cm, has a half-life of 15.6 million years; the longest-lived curium isotopes predominantly emit alpha particles. Radioisotope thermoelectric generators can use the heat from this process, but this is hindered by the rarity and high cost of curium. Curium is used in making heavier actinides and the 238Pu radionuclide for power sources in artificial cardiac pacemakers and RTGs for spacecraft. It served as the α-source in the alpha particle X-ray spectrometers of several space probes, including the Sojourner, Spirit, Opportunity, and Curiosity Mars rovers and the Philae lander on comet 67P/Churyumov–Gerasimenko, to analyze the composition and structure of the surface.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Curium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Curium) 
 
 
 ## Confidential Links & Embeds: 

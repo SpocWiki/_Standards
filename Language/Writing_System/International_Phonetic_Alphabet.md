@@ -182,7 +182,7 @@ Commons_category: IPA charts
 > These are illustrated in the current IPA chart 
 > and on the International Phonetic Association's website.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet)  
+> [Wikipedia](https://en.wikipedia.org/wiki/International%20Phonetic%20Alphabet) 
 
 
 ## Confidential Links & Embeds: 

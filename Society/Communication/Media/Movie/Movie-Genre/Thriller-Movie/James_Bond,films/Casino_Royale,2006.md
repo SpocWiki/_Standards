@@ -39,7 +39,7 @@ aliases:
 > and the highest-grossing James Bond film until the release of Skyfall (2012). 
 > A sequel, Quantum of Solace, was released in 2008.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Casino%20Royale%20(2006%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Casino%20Royale%20(2006%20film)) 
 
 
 ## Confidential Links & Embeds: 

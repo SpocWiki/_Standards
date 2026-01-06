@@ -56,7 +56,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/hard_disk_drive
 >
 > The two most common form factors for modern HDDs are 3.5-inch, for desktop computers, and 2.5-inch, primarily for laptops. HDDs are connected to systems by standard interface cables such as SATA (Serial ATA), USB, SAS (Serial Attached SCSI), or PATA (Parallel ATA) cables.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hard%20disk%20drive)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hard%20disk%20drive) 
 
 
 ## Confidential Links & Embeds: 

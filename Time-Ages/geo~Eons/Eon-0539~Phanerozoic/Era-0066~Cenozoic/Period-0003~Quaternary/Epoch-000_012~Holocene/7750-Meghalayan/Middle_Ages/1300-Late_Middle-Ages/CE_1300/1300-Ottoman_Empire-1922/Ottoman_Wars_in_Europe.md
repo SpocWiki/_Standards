@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1354-01-01 
-has_time_stopped: 1683-01-01 
 location: [ 22.0 , 42.0 ] 
 aliases:
 has_id_wikidata: Q698985

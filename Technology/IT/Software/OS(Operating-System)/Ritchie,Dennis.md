@@ -26,7 +26,7 @@ aliases:
 > Ritchie was the head of Lucent Technologies System Software 
 > Research Department when he retired in 2007.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dennis%20Ritchie)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dennis%20Ritchie) 
 
 
 ## Confidential Links & Embeds: 

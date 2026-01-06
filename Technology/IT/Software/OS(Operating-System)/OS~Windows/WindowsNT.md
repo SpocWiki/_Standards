@@ -33,7 +33,7 @@ cost 86M€
 >
 > Many system services including: Windows shell, Windows API, Native API, Active Directory, Group Policy, Hardware Abstraction Layer, NTFS, BitLocker, Windows Store, Windows Update, and Hyper-V
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Windows%20NT)
+> [Wikipedia](https://en.wikipedia.org/wiki/Windows%20NT) 
 
 
 ## Confidential Links & Embeds: 

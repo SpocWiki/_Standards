@@ -49,7 +49,7 @@ A time period from 467.3 to 458.4 million years ago.
 
 > The **Darriwilian** is the upper stage of the Middle Ordovician. It is preceded by the Dapingian and succeeded by the Upper Ordovician Sandbian Stage. The lower boundary of the Darriwilian is defined as the first appearance of the graptolite species Undulograptus austrodentatus around 467.3 million years ago. It lasted for about 8.9 million years until the beginning of the Sandbian around 458.4 million years ago. This stage of the Ordovician was marked by the beginning of the Andean-Saharan glaciation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Darriwilian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Darriwilian) 
 
 
 #has_/label_/bg  :: Даривил

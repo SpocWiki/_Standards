@@ -48,7 +48,8 @@ taxon_common_name:
 >
 > Extinct members of Proboscidea include the deinotheres, mastodons, gomphotheres and stegodonts. The family Elephantidae also contains several extinct groups, including mammoths and Palaeoloxodon. Proboscideans include some of the largest known land mammals, with the elephant Palaeoloxodon namadicus and mastodon "Mammut" borsoni suggested to have body masses surpassing 16 tonnes (35,000 lb), rivalling or exceeding paraceratheres (the otherwise largest known land mammals) in size. The largest extant proboscidean is the African bush elephant, with a world record of size of 4 m (13.1 ft) at the shoulder and 10.4 t (11.5 short tons). In addition to their enormous size, later proboscideans are distinguished by tusks and long, muscular trunks, which were less developed or absent in early proboscideans.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Proboscidea)
+> [Wikipedia](https://en.wikipedia.org/wiki/Proboscidea) 
+
 
 ## Phylogeny 
 

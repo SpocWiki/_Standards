@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1937-07-07 
-has_time_stopped: 1945-09-09 
+---
 aliases:
 has_id_wikidata: Q170314
 participant:

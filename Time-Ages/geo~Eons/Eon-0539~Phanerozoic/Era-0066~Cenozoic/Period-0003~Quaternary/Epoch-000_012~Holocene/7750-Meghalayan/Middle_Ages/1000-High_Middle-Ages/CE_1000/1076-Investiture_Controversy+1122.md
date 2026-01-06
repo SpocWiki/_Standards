@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1075-01-01 
-has_time_stopped: 1124-01-01 
+---
 aliases:
   - Investiturstreit
   - Investiture Controversy

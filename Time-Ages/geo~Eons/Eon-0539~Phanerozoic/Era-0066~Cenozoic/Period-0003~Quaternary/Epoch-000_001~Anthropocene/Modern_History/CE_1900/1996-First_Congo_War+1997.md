@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1996-10-24 
-has_time_stopped: 1997-05-16 
+---
 aliases:
   - First Congo War
   - Africa's First World War
@@ -49,7 +47,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Congo%20War%20
 >
 > After Mobutu's ousting, Kabila's government renamed the country the Democratic Republic of the Congo. However, his regime remained unstable, as he sought to distance himself from his former Rwandan and Ugandan backers. In response, Kabila expelled foreign troops and forged alliances with regional powers such as Angola, Zimbabwe, and Namibia. These actions prompted a second invasion from Rwanda and Uganda, triggering the Second Congo War in 1998. Some historians and analysts view the First and Second Congo Wars as part of a continuous conflict with lasting effects that continue to affect the region today.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/First%20Congo%20War)
+> [Wikipedia](https://en.wikipedia.org/wiki/First%20Congo%20War) 
+
 
 ---
 aliases:

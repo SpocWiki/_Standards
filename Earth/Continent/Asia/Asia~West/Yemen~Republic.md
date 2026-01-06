@@ -382,7 +382,7 @@ Capital :: [[Yemen~Republic/City/Sana‘a]] ]
 >
 > Yemen is one of the least developed countries in the world, facing significant obstacles to sustainable development, and is one of the poorest countries in the Middle East and North Africa. In 2019, the United Nations reported that Yemen had the highest number of people in need of humanitarian aid, amounting to about 24 million individuals, or nearly 75% of its population. As of 2020, Yemen ranked highest on the Fragile States Index and second-worst on the Global Hunger Index, surpassed only by the Central African Republic. Additionally, it has the lowest Human Development Index out of all non-African countries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yemen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Yemen) 
 
 
 ## Confidential Links & Embeds: 

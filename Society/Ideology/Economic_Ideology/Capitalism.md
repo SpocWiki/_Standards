@@ -154,7 +154,7 @@ This shows what [[../Political_Ideology/Humanism/Liberalism|Liberalism]] will le
 > however a business cycle of economic growth followed by recession 
 > is a common characteristic of such economies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Capitalism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Capitalism) 
 
 
 ## Confidential Links & Embeds: 

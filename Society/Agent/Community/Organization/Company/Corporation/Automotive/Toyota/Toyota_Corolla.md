@@ -44,7 +44,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2021%20Toyota%20Coroll
 >
 > Early models were mostly rear-wheel drive, while later models have been front-wheel drive. Four-wheel drive versions have also been produced, and it has undergone several major redesigns. The Corolla's traditional competitors have been the Nissan Sunny, introduced the same year as the Corolla in Japan and the later Subaru Leone, Honda Civic, and Mitsubishi Lancer. The Corolla's chassis designation code is "E", as described in Toyota's chassis and engine codes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Toyota%20Corolla)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Toyota%20Corolla) 
 
 
 ## Confidential Links & Embeds: 

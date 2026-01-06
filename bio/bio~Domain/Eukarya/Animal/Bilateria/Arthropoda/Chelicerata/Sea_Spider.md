@@ -54,7 +54,8 @@ Sea spiders, Pantopoda
 >
 > Despite their name and brief resemblance, "sea spiders" are not spiders, nor even arachnids. While some literature around the 2000s suggests they may be a sister group to all other living arthropods, their traditional classification as a member of chelicerates alongside horseshoe crabs and arachnids has regained wide support in subsequent studies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sea%20spider)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sea%20spider) 
+
 
 ## Phylogeny 
 

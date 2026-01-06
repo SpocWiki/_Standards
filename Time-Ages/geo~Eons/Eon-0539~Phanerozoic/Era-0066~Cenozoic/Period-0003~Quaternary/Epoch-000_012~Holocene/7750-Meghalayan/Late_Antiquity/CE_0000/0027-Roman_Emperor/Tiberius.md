@@ -155,7 +155,7 @@ Krugosvet_article_archived_: istoriya/TIBERI.html
 > He came to be remembered as a dark, reclusive and sombre ruler who never really wanted to be emperor; 
 > Pliny the Elder called him "the gloomiest of men".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tiberius)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Tiberius) 
 
 
 ## Confidential Links & Embeds: 

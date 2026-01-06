@@ -636,7 +636,7 @@ Capital :: [[Hanoe]]
 >
 > Vietnam is a developing country with a lower-middle-income economy. It has high levels of corruption, censorship, environmental issues and a poor human rights record. It is part of international and intergovernmental institutions including the ASEAN, the APEC, the Non-Aligned Movement, the OIF, and the WTO. It has assumed a seat on the United Nations Security Council twice.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vietnam)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vietnam) 
 
 
 ## Confidential Links & Embeds: 

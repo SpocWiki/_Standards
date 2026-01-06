@@ -49,7 +49,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/KanjiYakuza.gif
 >
 > The yakuza still regularly engage in an array of criminal activities, and many Japanese citizens remain fearful of the threat these individuals pose to their safety. There remains no strict prohibition on yakuza membership in Japan today, although many pieces of legislation have been passed by the Japanese government aimed at impeding revenue and increasing liability for criminal activities.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yakuza)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Yakuza) 
 
 
 ## Confidential Links & Embeds: 

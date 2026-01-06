@@ -39,7 +39,7 @@ aliases:
 > Wilson is currently working on his forthcoming eighth studio album, 
 > The Overview, scheduled for release in early 2025.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Steven%20Wilson)
+> [Wikipedia](https://en.wikipedia.org/wiki/Steven%20Wilson) 
 
 
 ## Confidential Links & Embeds: 

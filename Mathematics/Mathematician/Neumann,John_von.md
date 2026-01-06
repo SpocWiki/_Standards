@@ -199,7 +199,7 @@ ISNI: 0000000110316592
 > mathematics, and beyond. 
 > Accolades he received range from the Medal of Freedom to a crater on the Moon named in his honor.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20von%20Neumann)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20von%20Neumann) 
 
 
 ## Confidential Links & Embeds: 

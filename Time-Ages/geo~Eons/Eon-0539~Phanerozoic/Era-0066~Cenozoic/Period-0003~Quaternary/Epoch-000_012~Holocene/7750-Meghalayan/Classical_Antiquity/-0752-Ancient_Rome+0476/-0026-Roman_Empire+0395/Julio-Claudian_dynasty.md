@@ -37,8 +37,6 @@ Commons_category: Julio-Claudian dynasty
 > [Wikipedia](https://en.wikipedia.org/wiki/Julio-Claudian%20dynasty) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[Julio-Claudian_dynasty|Julio-Claudian_dynasty]] 

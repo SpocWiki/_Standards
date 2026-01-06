@@ -48,7 +48,7 @@ aliases:
 > She became a Fellow of the Ivors Academy in the UK in 2020, 
 > and was inducted into the Rock and Roll Hall of Fame in 2023.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kate%20Bush)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kate%20Bush) 
 
 
 ## Confidential Links & Embeds: 

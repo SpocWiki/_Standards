@@ -19,7 +19,7 @@
 > WebGL is designed and maintained by the non-profit Khronos Group. 
 > On 2022-02-09, Khronos Group announced WebGL 2.0 support from all major browsers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/WebGL)
+> [Wikipedia](https://en.wikipedia.org/wiki/WebGL) 
 
 
 ## Confidential Links & Embeds: 

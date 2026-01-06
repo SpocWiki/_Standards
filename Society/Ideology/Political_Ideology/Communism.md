@@ -65,7 +65,7 @@ U_S_National_Archives_Identifier: 10639138
 >
 > While the emergence of the Soviet Union as the world's first nominally Communist state led to communism's widespread association with the Soviet economic model, several scholars posit that in practice the model functioned as a form of state capitalism. Public memory of 20th-century Communist states has been described as a battleground between anti anti-communism and anti-communism. Many authors have written about mass killings under communist regimes and mortality rates, such as excess mortality in the Soviet Union under Joseph Stalin, which remain controversial, polarized, and debated topics in academia, historiography, and politics when discussing communism and the legacy of Communist states.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Communism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Communism) 
 
 
 ## Confidential Links & Embeds: 

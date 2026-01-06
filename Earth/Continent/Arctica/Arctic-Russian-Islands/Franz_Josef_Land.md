@@ -26,7 +26,7 @@
 >
 > In 1926, the Soviet Union annexed the islands, which were known at the time as Fridtjof Nansen Land, and settled small outposts for research and military purposes. The Kingdom of Norway rejected the claim and several private expeditions were sent to the islands. With the Cold War, the islands became off limits for foreigners and two military airfields were built. The islands have been a nature sanctuary since 1994 and became part of the Russian Arctic National Park in 2012.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Josef%20Land)
+> [Wikipedia](https://en.wikipedia.org/wiki/Franz%20Josef%20Land) 
 
 
 ## Confidential Links & Embeds: 

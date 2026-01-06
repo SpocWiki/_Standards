@@ -127,7 +127,7 @@ type: private_note
 >
 > Efforts to manage earthquake risks involve prediction, forecasting, and preparedness, including seismic retrofitting and earthquake engineering to design structures that withstand shaking. The cultural impact of earthquakes spans myths, religious beliefs, and modern media, reflecting their profound influence on human societies. Similar seismic phenomena, known as marsquakes and moonquakes, have been observed on other celestial bodies, indicating the universality of such events beyond Earth.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Earthquake)
+> [Wikipedia](https://en.wikipedia.org/wiki/Earthquake) 
 
 
 # [[Earthquake]] 

@@ -53,8 +53,7 @@ A time period from 393.3 to 387.7 million years ago.
 > North American subdivisions of the Eifelian Stage include Southwood, 
 > and part of Cazenovia (or Cazenovian).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Eifelian)  
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Eifelian) 
 
 
 #has_/label_/bg  :: пйфел

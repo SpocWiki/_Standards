@@ -182,7 +182,7 @@ composed Music for
 >
 > He has received numerous honors, including the Kennedy Center Honor in 2004, the National Medal of the Arts in 2009, and the AFI Life Achievement Award in 2016. He was inducted into the Songwriters Hall of Fame in 1998, the Hollywood Bowl's Hall of Fame in 2000, and the American Classical Music Hall of Fame in 2004. He has composed the score for nine of the top 25 highest-grossing films at the U.S. box office. In 2022, Williams was appointed an Honorary Knight Commander of the Order of the British Empire (KBE) by Queen Elizabeth II, "for services to film music". In 2005, the American Film Institute placed Williams's score to Star Wars first on its list AFI's 100 Years of Film Scores; his scores for Jaws and E.T. also made the list. The Library of Congress entered the Star Wars soundtrack into the National Recording Registry for being "culturally, historically, or aesthetically significant".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Williams)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Williams) 
 
 
 ## Confidential Links & Embeds: 

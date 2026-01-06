@@ -97,7 +97,7 @@ UNII: LW3E571O0Z
 > there are currently no uses for it outside basic scientific research, 
 > and only small amounts are produced.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mendelevium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mendelevium) 
 
 
 ## Confidential Links & Embeds: 

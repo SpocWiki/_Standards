@@ -216,7 +216,7 @@ writing_system:
 >
 > Since 2004, heads of state of the German-speaking countries have met every year and the Council for German Orthography has been the main international body regulating German orthography.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/German%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/German%20language) 
 
 
 ## Confidential Links & Embeds: 

@@ -64,7 +64,8 @@ OpenStreetMap_tag: historic:era=neolithic
 > In China, it lasted until circa 2000 BC with the rise of the pre-Shang Erlitou culture, 
 > and in Scandinavia, the Neolithic lasted until about 2000 BC.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neolithic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Neolithic) 
+
 
 ## Edit
 

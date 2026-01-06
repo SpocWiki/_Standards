@@ -26,7 +26,7 @@ aliases:
 > that included the creation of endgame tablebases and the chess machine Belle. 
 > He won the Turing Award in 1983 with his long-term colleague [[Ritchie,Dennis]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ken%20Thompson)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ken%20Thompson) 
 
 
 ## Confidential Links & Embeds: 

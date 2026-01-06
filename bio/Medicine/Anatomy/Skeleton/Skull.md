@@ -70,7 +70,7 @@ Commons_category: Skulls
 >
 > The English word skull is probably derived from Old Norse skulle, while the Latin word cranium comes from the Greek root κρανίον (kranion).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Skull)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Skull) 
 
 
 ## Confidential Links & Embeds: 

@@ -64,7 +64,7 @@ of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Di
 >
 > For example, when a vehicle starts from a standstill (zero velocity, in an inertial frame of reference) and travels in a straight line at increasing speeds, it is accelerating in the direction of travel. If the vehicle turns, an acceleration occurs toward the new direction and changes its motion vector.  The acceleration of the vehicle in its current direction of motion is called a linear (or tangential during circular motions) acceleration, the reaction to which the passengers on board experience as a force pushing them back into their seats. When changing direction, the effecting acceleration is called radial (or centripetal during circular motions) acceleration, the reaction to which the passengers experience as a centrifugal force. If the speed of the vehicle decreases, this is an acceleration in the opposite direction of the velocity vector (mathematically a negative, if the movement is unidimensional and the velocity is positive), sometimes called deceleration or retardation, and passengers experience the reaction to deceleration as an inertial force pushing them forward.  Such negative accelerations are often achieved by retrorocket burning in spacecraft. Both acceleration and deceleration are treated the same, as they are both changes in velocity. Each of these accelerations (tangential, radial, deceleration) is felt by passengers until their relative (differential) velocity are neutralised in reference to the acceleration due to change in speed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Acceleration)
+> [Wikipedia](https://en.wikipedia.org/wiki/Acceleration) 
 
 
 ## Confidential Links & Embeds: 

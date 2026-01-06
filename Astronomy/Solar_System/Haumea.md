@@ -85,7 +85,7 @@ periapsis: 34.4961098
 >
 > Haumea's gravity was until recently thought to be sufficient for it to have relaxed into hydrostatic equilibrium, though that is now unclear. Haumea's elongated shape together with its rapid rotation, rings, and high albedo (from a surface of crystalline water ice), are thought to be the consequences of a giant collision, which left Haumea the largest member of a collisional family (the Haumea family) that includes several large trans-Neptunian objects and Haumea's two known moons, Hiʻiaka and Namaka.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Haumea)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Haumea) 
 
 
 ## Confidential Links & Embeds: 

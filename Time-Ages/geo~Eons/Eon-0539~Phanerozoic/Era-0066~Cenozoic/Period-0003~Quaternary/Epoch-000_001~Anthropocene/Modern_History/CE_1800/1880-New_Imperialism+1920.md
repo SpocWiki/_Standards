@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1880-01-01 
-has_time_stopped: 1920-01-01 
+---
 aliases:
 has_id_wikidata: Q304121
 instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
@@ -33,8 +31,6 @@ end_time: 1920-01-01T00:00:00Z
 > The main participants in New Imperialism were the United Kingdom, France, Germany, Italy, the Netherlands, Belgium, Portugal, Russia, the United States, and Japan.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20Imperialism) 
-
-
 
 
 ## Confidential Links & Embeds: 

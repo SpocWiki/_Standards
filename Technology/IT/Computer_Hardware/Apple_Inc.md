@@ -286,7 +286,8 @@ catalog_code: DEBYLT0273
 > at $3 trillion in January 2022. 
 > In June 2023, it was valued at just over $3 trillion.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Apple%20Inc.)
+> [Wikipedia](https://en.wikipedia.org/wiki/Apple%20Inc.) 
+
 
 [[Apple_Inc]]
 ## All Contents

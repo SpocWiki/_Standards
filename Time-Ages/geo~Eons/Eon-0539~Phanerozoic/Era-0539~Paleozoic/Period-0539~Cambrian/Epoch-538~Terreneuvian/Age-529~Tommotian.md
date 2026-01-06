@@ -59,7 +59,7 @@ A time period from 529 to 521 million years ago.
 > 
 > The proposed upper boundary might be the first appearance of trilobites around 521 million years ago.Possible candidates for a GSSP include the first appearance of Watsonella crosbyi in the Zhujiaqing Formation (朱家庆组) in Yunnan, China or the Pestrotsvet Formation near the Aldan River on the Siberian Platform.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%202)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%202) 
 
 
 #has_/label_/bg  :: Камбрий - 2 етаж

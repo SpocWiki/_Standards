@@ -36,7 +36,7 @@
 > An animated spin-off series, developed by Eric Robles and produced by Flying Bark Productions, 
 > is in development.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stranger%20Things)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stranger%20Things) 
 
 
 ## Confidential Links & Embeds: 

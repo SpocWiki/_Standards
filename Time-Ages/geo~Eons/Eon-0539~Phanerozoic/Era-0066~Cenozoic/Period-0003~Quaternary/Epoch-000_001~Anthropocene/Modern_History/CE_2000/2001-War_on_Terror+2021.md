@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 2001-09-11 
-has_time_stopped: 2021-08-30 
+---
 aliases:
   - war on terror
   - Global War on Terrorism

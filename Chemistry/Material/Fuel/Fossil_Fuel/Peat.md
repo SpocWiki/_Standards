@@ -53,6 +53,7 @@ OpenStreetMap_tag: resource=peat
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peat) 
 
+
 Most modern peat [bogs](https://en.wikipedia.org/wiki/Bog "Bog") formed 12,000 years ago in high latitudes 
 after the glaciers retreated at the end of the [last ice age](https://en.wikipedia.org/wiki/Last_glacial_period "Last glacial period"). 
 Peat usually accumulates slowly at the rate of about a millimetre per year. 

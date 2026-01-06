@@ -26,6 +26,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ultimatum%20game) 
 
+
 A [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium "Nash equilibrium") is a set of strategies (one for the proposer and one for the responder in this case), 
 where **no individual party can improve their reward** by changing strategy. 
 

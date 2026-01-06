@@ -49,7 +49,7 @@ A time period from 453.0 to 445.2 million years ago.
 >
 > During the Katian the climate cooled which started the Late Ordovician glaciation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Katian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Katian) 
 
 
 #has_/label_/bg  :: Кат

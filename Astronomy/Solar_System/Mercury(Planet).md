@@ -168,7 +168,7 @@ expiryDate: ''
 > There are many competing hypotheses about Mercury's origins and development, 
 > some of which incorporate collision with planetesimals and rock vaporization.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mercury%20(planet))
+> [Wikipedia](https://en.wikipedia.org/wiki/Mercury%20(planet)) 
 
 
 ## Confidential Links & Embeds: 

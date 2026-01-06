@@ -45,7 +45,6 @@ A time period from 264.28 to 259.51 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > In the geologic timescale, the **Capitanian** is an age or stage of the Permian. 
 > It is also the uppermost or latest of three subdivisions of the Guadalupian Epoch or Series. 
 > The Capitanian lasted between 264.28 and 259.51 million years ago. 
@@ -58,7 +57,8 @@ A time period from 264.28 to 259.51 million years ago.
 > This extinction event may be related to the much larger Permian–Triassic extinction event 
 > that followed about 10 million years later.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Capitanian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Capitanian) 
+
 
 #has_/label_/bg  :: Капитан
 #has_/label_/cs  :: Capitan

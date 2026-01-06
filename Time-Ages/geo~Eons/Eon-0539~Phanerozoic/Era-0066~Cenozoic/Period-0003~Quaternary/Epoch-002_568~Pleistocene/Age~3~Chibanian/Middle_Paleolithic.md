@@ -53,6 +53,7 @@ Stadtwiki_Dresden_article: Mittelpaläolithikum
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Paleolithic) 
 
+
 ### Quantitative Evidence
 
 | Indicator                                                      | Before 100 000 BP | After 70 000 BP |     % |

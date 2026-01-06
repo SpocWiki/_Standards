@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 0800-01-01 
-has_time_stopped: 1600-01-01 
+---
 aliases:
 has_id_wikidata: Q1052095
 instance_of:

@@ -20,7 +20,8 @@
 >
 > The cocaine alkaloid content of dry Erythroxylum coca var. coca leaves was measured ranging from 0.23% to 0.96%. Coca-Cola used coca leaf extract in its products from 1885 until about 1903, when it began using decocainized leaf extract. Extraction of cocaine from coca requires several solvents and a chemical process known as an acid–base extraction, which can fairly easily extract the alkaloids from the plant.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Coca)
+> [Wikipedia](https://en.wikipedia.org/wiki/Coca) 
+
 
 ## #has_/text_of_/abstract 
 
@@ -56,7 +57,7 @@
 > and a chemical process known as an acid–base extraction, 
 > which can fairly easily extract the alkaloids from the plant.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Coca)
+> [Wikipedia](https://en.wikipedia.org/wiki/Coca) 
 
 
 ## Confidential Links & Embeds: 

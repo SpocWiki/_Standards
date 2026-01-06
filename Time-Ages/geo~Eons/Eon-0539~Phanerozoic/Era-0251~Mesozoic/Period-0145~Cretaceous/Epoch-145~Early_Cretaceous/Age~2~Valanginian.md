@@ -11,14 +11,14 @@ A time period from 132.6 to 139.8 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > In the geologic timescale, the **Valanginian** is an age or stage of the Early or Lower Cretaceous. 
 > It spans between 139.8 ± 3.0 Ma and 132.6 ± 2.0 Ma (million years ago). 
 > 
 > The Valanginian Stage succeeds the [[Age~1~Berriasian]] Stage of the Lower Cretaceous 
 > and precedes the [[Age~3~Hauterivian]] Stage of the Lower Cretaceous.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Valanginian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Valanginian) 
+
 
 #has_/label_/bg  :: Валанжин
 #has_/label_/cs  :: Valangin

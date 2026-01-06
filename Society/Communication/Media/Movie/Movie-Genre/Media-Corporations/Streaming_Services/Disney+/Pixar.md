@@ -33,7 +33,7 @@
 > by the Venice Film Festival. 
 > The physical award was ceremoniously handed to [[Lucasfilm]]'s founder, George Lucas.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pixar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pixar) 
 
 
 ## Confidential Links & Embeds: 

@@ -158,7 +158,7 @@ writing_language: '[[_Standards/WikiData/WD~Early_Modern_Spanish,5364419]]'
 > and according to the tradition of Argamasilla de Alba, was the prison of Cervantes 
 > and the place where he conceived and began to write Don Quixote.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Miguel%20de%20Cervantes)
+> [Wikipedia](https://en.wikipedia.org/wiki/Miguel%20de%20Cervantes) 
 
 
 ## Confidential Links & Embeds: 

@@ -133,7 +133,7 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/NOBEL_ALFRED_BERNHARD.html
 > Nobel was elected a member of the Royal Swedish Academy of Sciences, 
 > which, pursuant to his will, is responsible for choosing the Nobel laureates in Physics and in Chemistry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alfred%20Nobel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alfred%20Nobel) 
 
 
 ## Confidential Links & Embeds: 

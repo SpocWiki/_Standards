@@ -14,7 +14,7 @@ aliases:
 > His films are noted for their folkloric and mythological elements, 
 > as well as his thorough efforts to ensure historical authenticity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Eggers)
+> [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Eggers) 
 
 
 ## Confidential Links & Embeds: 

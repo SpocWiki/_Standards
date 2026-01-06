@@ -114,7 +114,8 @@ defined by climatic and environmental changes, particularly the **glacial–inte
 > allowing the connection of Asia and North America via Beringia 
 > and the covering of most of northern North America by the Laurentide Ice Sheet.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pleistocene)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pleistocene) 
+
 
 #has_/label_/bg  :: Плейѿтоцен
 #has_/label_/cs  :: Pleistocén

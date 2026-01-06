@@ -169,7 +169,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > In 1999, the American Film Institute named Dietrich the 
 > ninth greatest female screen legend of classic Hollywood cinema.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marlene%20Dietrich)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marlene%20Dietrich) 
 
 
 ## Confidential Links & Embeds: 

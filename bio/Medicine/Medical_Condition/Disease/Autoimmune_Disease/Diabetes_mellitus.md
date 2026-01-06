@@ -104,7 +104,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_diabetes,7112608]]'
 >
 > The number of people diagnosed as living with diabetes has increased sharply in recent decades, from 200 million in 1990 to 830 million by 2022. It affects one in seven of the adult population, with type 2 diabetes accounting for more than 95% of cases. These numbers have already risen beyond earlier projections of 783 million adults by 2045. The prevalence of the disease continues to increase, most dramatically in low- and middle-income nations. Rates are similar in women and men, with diabetes being the seventh leading cause of death globally. The global expenditure on diabetes-related healthcare is an estimated US$760 billion a year.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Diabetes)
+> [Wikipedia](https://en.wikipedia.org/wiki/Diabetes) 
 
 
 ## Confidential Links & Embeds: 

@@ -37,18 +37,18 @@ Commons_category: Vices
 | Gambling         | Behavioral |  2.0 | APA        | Persistent harmful gambling behavior                |
 | shopping         | Behavioral |  5.8 | OECD       | Repetitive purchasing with financial harm           |
 | overeating       | Behavioral | 13.0 | WHO        | Excessive caloric intake beyond metabolic need      |
-| Pornography      | Behavioral |  4.5 | APA        | Compulsive sexual media consumption                 |
 | internet use     | Behavioral |  6.0 | WHO / OECD | Loss of control over online activities              |
 | Video game       | Behavioral |  3.4 | WHO        | Impaired control over gaming behavior               |
 | Workaholism      | Behavioral |  8.3 | ILO        | Compulsive overinvestment in work activities        |
+| Pornography      | Behavioral |  4.5 | APA        | Compulsive sexual media consumption                 |
+| [[Lust]]         | Character  |      | Religion   | Excessive or uncontrolled sexual desire             |
 | [[Vice/Greed]]   | Character  |      |            | Excessive desire for wealth or power                |
 | [[Envy]]         | Character  |      |            | Resentment toward others’ advantages                |
 | [[Vice/Hubris]]  | Character  |      |            | Inflated self-importance or superiority             |
 | Sloth            | Character  |      |            | Chronic avoidance of effort or responsibility       |
-| Wrath            | Character  |      |            | Disproportionate or uncontrolled anger              |
+| [[Vice/Anger]]   | Character  |      |            | Disproportionate or uncontrolled anger              |
 | Deceitfulness    | Character  |      | Ethics     | Habitual dishonesty for advantage                   |
-| Lust             | Character  |      | Religion   | Excessive or uncontrolled sexual desire             |
-| [[Vanity]]       | Character  |      |            |                                                     |
+| [[Vice/Vanity]]  | Character  |      |            |                                                     |
 
 ## #has_/text_of_/abstract 
 
@@ -66,8 +66,6 @@ Commons_category: Vices
 > The antonym of vice is virtue.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vice) 
-
-
 
 
 ## Confidential Links & Embeds: 

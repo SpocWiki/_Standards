@@ -75,7 +75,8 @@ Multi-cellular life develops.
 >
 > The supercontinent Pannotia formed and broke apart by the end of the period. The Ediacaran also witnessed several glaciation events, such as the Gaskiers and Baykonurian glaciations. The Shuram excursion also occurred during this period, but its glacial origin is unlikely.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ediacaran)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Ediacaran) 
+
 
 #has_/label_/bg  :: Едиакар
 #has_/label_/cs  :: Ediacar

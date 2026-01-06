@@ -39,7 +39,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Diego-homem-black-sea-
 >
 > If the region of the map is small enough to ignore Earth's curvature, such as in a town plan, then a single value can be used as the scale without causing measurement errors. In maps covering larger areas, or the whole Earth, the map's scale may be less useful or even useless in measuring distances. The map projection becomes critical in understanding how scale varies throughout the map. When scale varies noticeably, it can be accounted for as the scale factor. Tissot's indicatrix is often used to illustrate the variation of point scale across a map.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Scale%20(map))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Scale%20(map)) 
 
 
 ## Confidential Links & Embeds: 

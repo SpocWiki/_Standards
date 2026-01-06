@@ -19,7 +19,8 @@ Salticine Division).
 > **Lyssomaninae** is a subfamily of jumping spiders. 
 > It includes four genera, three from the New World.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lyssomaninae)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lyssomaninae) 
+
 
 ## Phylogeny 
 

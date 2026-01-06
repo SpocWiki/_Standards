@@ -120,7 +120,6 @@ ZVG_number: 8160
 
 ## #has_/text_of_/abstract 
 
-
 > **Calcium** is a chemical element with the symbol (Abbr::Ca) and atomic number (Charge-e::20). 
 > As an alkaline earth metal, calcium is a reactive metal 
 > that forms a dark oxide-nitride layer when exposed to air. 
@@ -161,7 +160,7 @@ ZVG_number: 8160
 > maintaining the potential difference across excitable cell membranes, 
 > protein synthesis, and bone formation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Calcium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Calcium) 
 
 
 ## Confidential Links & Embeds: 

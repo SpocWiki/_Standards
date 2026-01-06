@@ -16,8 +16,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Victimisation) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Ideology/Economic_Ideology/Victimization|Victimization]] 

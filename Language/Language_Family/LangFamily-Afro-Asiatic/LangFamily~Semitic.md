@@ -50,7 +50,7 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Semitic%20m
 >
 > The Semitic languages are notable for their nonconcatenative morphology. That is, word roots are not themselves syllables or words, but instead are isolated sets of consonants (usually three, making a so-called triliteral root). Words are composed from roots not so much by adding prefixes or suffixes, but rather by filling in the vowels between the root consonants, although prefixes and suffixes are often added as well. For example, in Arabic, the root meaning "write" has the form k-t-b. From this root, words are formed by filling in the vowels and sometimes adding consonants, e.g. كِتاب kitāb "book", كُتُب kutub "books", كاتِب kātib "writer", كُتّاب kuttāb "writers", كَتَب kataba "he wrote", يكتُب yaktubu "he writes", etc..
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Semitic%20languages)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Semitic%20languages) 
 
 
 ## Confidential Links & Embeds: 

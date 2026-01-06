@@ -205,7 +205,7 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 > and every language of the Islamic world. 
 > After the Bible, it was the most popular form of European literature.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20the%20Great)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20the%20Great) 
 
 
 ## Confidential Links & Embeds: 

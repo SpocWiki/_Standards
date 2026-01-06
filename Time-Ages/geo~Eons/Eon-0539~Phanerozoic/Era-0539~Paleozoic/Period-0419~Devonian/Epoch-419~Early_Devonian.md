@@ -56,7 +56,7 @@ A time period from 419.2 to 393.3 million years ago.
 >
 > During this time, the first ammonoids appeared, descending from bactritoid nautiloids. Ammonoids during this time period were simple and differed little from their nautiloid counterparts. These ammonoids belong to the order Agoniatitida, which in later epochs evolved to new ammonoid orders, for example Goniatitida and Clymeniida. This class of cephalopod molluscs would dominate the marine fauna until the beginning of the Mesozoic Era.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Devonian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Devonian) 
 
 
 #has_/label_/bg  :: Ранен Девон

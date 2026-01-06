@@ -16,7 +16,7 @@
 >
 > Perl borrows features from other programming languages including C, sh, AWK, and sed. It provides text processing facilities without the arbitrary data-length limits of many contemporary Unix command line tools. Perl is a highly expressive programming language: source code for a given algorithm can be short and highly compressible.Perl gained widespread popularity in the mid-1990s as a CGI scripting language, in part due to its powerful regular expression and string parsing abilities. In addition to CGI, Perl 5 is used for system administration, network programming, finance, bioinformatics, and other applications, such as for GUIs. It has been nicknamed "the Swiss Army chainsaw of scripting languages" because of its flexibility and power. In 1998, it was also referred to as the "duct tape that holds the Internet together", in reference to both its ubiquitous use as a glue language and its perceived inelegance.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Perl)
+> [Wikipedia](https://en.wikipedia.org/wiki/Perl) 
 
 
 ## Confidential Links & Embeds: 

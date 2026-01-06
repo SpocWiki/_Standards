@@ -123,7 +123,7 @@ work_location:
 >
 > Mahler's œuvre is relatively limited; for much of his life composing was necessarily a part-time activity while he earned his living as a conductor. Aside from early works such as a movement from a piano quartet composed when he was a student in Vienna, Mahler's works are generally designed for large orchestral forces, symphonic choruses and operatic soloists. These works were frequently controversial when first performed, and several were slow to receive critical and popular approval; exceptions included his Second Symphony, and the triumphant premiere of his Eighth Symphony in 1910. Some of Mahler's immediate musical successors included the composers of the Second Viennese School, notably Arnold Schoenberg, Alban Berg and Anton Webern. Dmitri Shostakovich and Benjamin Britten are among later 20th-century composers who admired and were influenced by Mahler. The International Gustav Mahler Society was established in 1955 to honour the composer's life and achievements.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gustav%20Mahler)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gustav%20Mahler) 
 
 
 ## Confidential Links & Embeds: 

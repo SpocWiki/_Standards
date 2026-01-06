@@ -100,7 +100,8 @@ It follows the Last Glacial Period, which concluded with the Holocene glacial re
 > The most recent age of the Holocene is the present Meghalayan, 
 > which began with extreme drought that lasted around 200 years.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Holocene)
+> [Wikipedia](https://en.wikipedia.org/wiki/Holocene) 
+
 
 #has_/label_/bg  :: Холоцен
 #has_/label_/cs  :: Holocén

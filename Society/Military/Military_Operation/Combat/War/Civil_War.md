@@ -43,7 +43,7 @@ EcuRed_article: Guerra_civil
 >
 > Civil wars since the end of World War II have lasted on average just over four years, a dramatic rise from the one-and-a-half-year average of the 1900–1944 period. While the rate of emergence of new civil wars has been relatively steady since the mid-19th century, the increasing length of those wars has resulted in increasing numbers of wars ongoing at any one time. For example, there were no more than five civil wars underway simultaneously in the first half of the 20th century while there were over 20 concurrent civil wars close to the end of the Cold War. Since 1945, civil wars have resulted in the deaths of over 25 million people, as well as the forced displacement of millions more. Civil wars have further resulted in economic collapse; Somalia, Burma (Myanmar), Uganda and Angola are examples of nations that were considered to have had promising futures before being engulfed in civil wars.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Civil%20war)
+> [Wikipedia](https://en.wikipedia.org/wiki/Civil%20war) 
 
 
 ## Confidential Links & Embeds: 

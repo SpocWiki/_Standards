@@ -54,7 +54,7 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Tip-of-the-day-bulb-%28
 > when the problem being solved is of a technical or scientific nature. 
 > The opposite of innovation is exnovation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Innovation)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Innovation) 
 
 
 ## Patterns of Failure  

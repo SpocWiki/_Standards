@@ -41,7 +41,7 @@ aliases:
 > He also acted in the blockbusters Prince of Persia: The Sands of Time (2010), and Ender's Game (2013). 
 > Kingsley lent his voice to the films The Boxtrolls (2014), and The Jungle Book (2016).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ben%20Kingsley)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ben%20Kingsley) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1945-02-04 
-has_time_stopped: 1945-02-11 
 location: [ 34.143333333 , 44.467777777 ] 
 aliases:
   - Yalta Conference

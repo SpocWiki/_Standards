@@ -62,7 +62,7 @@ U_S_National_Archives_Identifier: 10644258
 > Plants acquire nutrients through the soil and the atmosphere. 
 > Fungi absorb nutrients around them by breaking them down and absorbing them through the mycelium.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nutrition)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nutrition) 
 
 
 ## Confidential Links & Embeds: 

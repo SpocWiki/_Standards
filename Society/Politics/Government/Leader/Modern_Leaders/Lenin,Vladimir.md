@@ -238,7 +238,7 @@ writing_language:
 > Today, he is widely considered 
 > one of the most significant and influential figures of the 20th century.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Lenin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Lenin) 
 
 
 ## Confidential Links & Embeds: 

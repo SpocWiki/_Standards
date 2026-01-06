@@ -17,7 +17,7 @@ aliases:
 >
 > Social research has influence throughout various industries and sectors of life, such as among politicians, policy makers, and legislators; educators; planners; administrators; developers; business magnates and managers; social workers; non-governmental organizations; and non-profit organizations, as well as individuals interested in resolving social issues in general.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sociology)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sociology) 
 
 
 ## Confidential Links & Embeds: 

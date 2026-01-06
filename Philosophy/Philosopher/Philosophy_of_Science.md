@@ -54,7 +54,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_science,
 >
 > Philosophies of the particular sciences range from questions about the nature of time raised by Einstein's general relativity, to the implications of economics for public policy. A central theme is whether the terms of one scientific theory can be intra- or intertheoretically reduced to the terms of another. Can chemistry be reduced to physics, or can sociology be reduced to individual psychology? The general questions of philosophy of science also arise with greater specificity in some particular sciences. For instance, the question of the validity of scientific reasoning is seen in a different guise in the foundations of statistics. The question of what counts as science and what should be excluded arises as a life-or-death matter in the philosophy of medicine. Additionally, the philosophies of biology, psychology, and the social sciences explore whether the scientific studies of human nature can achieve objectivity or are inevitably shaped by values and by social relations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Philosophy%20of%20science)
+> [Wikipedia](https://en.wikipedia.org/wiki/Philosophy%20of%20science) 
 
 
 ## Confidential Links & Embeds: 

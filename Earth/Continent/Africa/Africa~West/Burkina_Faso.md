@@ -497,7 +497,7 @@ Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/Ci
 >
 > The country's territory is geographically biodiverse, and includes plentiful reserves of gold, manganese, copper and limestone. Due to its multicultural make-up, Burkinabè art has a rich and long history, and is globally renowned for its orthodox style. The country is governed as a semi-presidential republic, with executive, legislative and judicial powers. It is a member of the United Nations, La Francophonie and the Organisation of Islamic Cooperation. On 18 January 2024, Burkina Faso announced its exit from ECOWAS and the African Union.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Burkina%20Faso)
+> [Wikipedia](https://en.wikipedia.org/wiki/Burkina%20Faso) 
 
 
 ## Confidential Links & Embeds: 

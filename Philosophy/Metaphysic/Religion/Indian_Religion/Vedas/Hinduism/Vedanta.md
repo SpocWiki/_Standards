@@ -49,7 +49,7 @@ Commons_category: Vedanta
 >
 > Most major Vedanta schools, except Advaita Vedanta and Neo-Vedanta, are related to Vaishnavism and emphasize devotion (Bhakti) to God, understood as Vishnu or a related manifestation. Advaita Vedanta, on the other hand, emphasizes Jñana (knowledge) and Jñana Yoga over theistic devotion, though Shankara may also have been a Vaishnavite. While the monism of Advaita has attracted considerable attention in the West due to the influence of the 14th century Advaitin Vidyaranya and modern Hindus like Swami Vivekananda and Ramana Maharshi, most Vedanta traditions focus on Vaishnava theology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vedanta)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Vedanta) 
 
 
 ## Confidential Links & Embeds: 

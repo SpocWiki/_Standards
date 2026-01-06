@@ -446,7 +446,7 @@ Capital :: [[Nicaragua/Counties/Managua/City/Managua]]
 >
 > Known as the "land of lakes and volcanoes", Nicaragua is also home to the Bosawás Biosphere Reserve, the second-largest rainforest of the Americas. The biological diversity, warm tropical climate and active volcanoes have made Nicaragua an increasingly popular tourist destination. Nicaragua is a founder member of the United Nations and is also a member of the Non-Aligned Movement, Bolivarian Alliance for the Peoples of Our America, and Community of Latin American and Caribbean States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nicaragua)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nicaragua) 
 
 
 ## Confidential Links & Embeds: 

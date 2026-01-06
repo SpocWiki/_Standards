@@ -171,7 +171,7 @@ Capital :: [[Port_Moresby]]
 >
 > Papua New Guinea is classified as a developing economy by the International Monetary Fund; nearly 40% of the population are subsistence farmers, living relatively independently of the cash economy. Their traditional social groupings are explicitly acknowledged by the Papua New Guinea Constitution, which expresses the wish for "traditional villages and communities to remain as viable units of Papua New Guinean society" and protects their continuing importance to local and national community life. Papua New Guinea has been an observer state in the Association of Southeast Asian Nations (ASEAN) since 1976, and has filed its application for full membership status. It is a full member of the Commonwealth of Nations, the Pacific Community, the Pacific Islands Forum, and the United Nations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Papua%20New%20Guinea)
+> [Wikipedia](https://en.wikipedia.org/wiki/Papua%20New%20Guinea) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1543-06 
-has_time_stopped: 1687-06 
+---
 aliases:
   - 1543-Scientific_Revolution
   - 1543-Scientific Revolution

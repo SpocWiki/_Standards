@@ -28,7 +28,7 @@ aliases:
 > that gravitation might be a manifestation of an underlying geometry. 
 > In his philosophical writings he coined the expression [[mind-stuff]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/William%20Kingdon%20Clifford)
+> [Wikipedia](https://en.wikipedia.org/wiki/William%20Kingdon%20Clifford) 
 
 
 ## Confidential Links & Embeds: 

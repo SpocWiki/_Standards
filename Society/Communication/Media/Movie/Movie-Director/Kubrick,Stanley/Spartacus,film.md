@@ -36,7 +36,7 @@ aliases:
 > In 2017, it was selected for preservation in the United States National Film Registry by the Library of Congress 
 > as being "culturally, historically, or aesthetically significant."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spartacus%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Spartacus%20(film)) 
 
 
 ## Confidential Links & Embeds: 

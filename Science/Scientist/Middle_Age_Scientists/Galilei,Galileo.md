@@ -198,7 +198,7 @@ writing_language:
 > During this time, he wrote Two New Sciences (1638), 
 > primarily concerning kinematics and the strength of materials.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Galileo%20Galilei)
+> [Wikipedia](https://en.wikipedia.org/wiki/Galileo%20Galilei) 
 
 
 ## Confidential Links & Embeds: 

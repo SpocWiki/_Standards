@@ -45,7 +45,7 @@
 > Additional areas were examined by geophysical surveys, 
 > which showed the mound to contain at least 20 large enclosures.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6bekli%20Tepe)
+> [Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6bekli%20Tepe) 
 
 
 ## Confidential Links & Embeds: 

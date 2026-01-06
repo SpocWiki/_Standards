@@ -88,7 +88,8 @@ Commons_category: Water Margin
 > Water Margin also exerted a significant influence on the 
 > development of fiction elsewhere in East Asia, such as on Japanese literature.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Water%20Margin)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Water%20Margin) 
+
 
 ### TV-Adaptions 
 

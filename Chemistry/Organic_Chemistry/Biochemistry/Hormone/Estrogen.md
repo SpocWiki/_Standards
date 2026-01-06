@@ -62,7 +62,7 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/estrogens
 > Estrogens are among the wide range of endocrine-disrupting compounds (EDCs) 
 > and can cause health issues and reproductive disfunction in both wildlife and humans.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Estrogen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Estrogen) 
 
 
 ## Confidential Links & Embeds: 

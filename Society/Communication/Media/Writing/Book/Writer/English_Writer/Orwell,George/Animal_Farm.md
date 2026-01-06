@@ -9,7 +9,6 @@ aliases:
 
 ## #has_/text_of_/abstract 
 
-
 > **Animal Farm** is a satirical allegorical novella, in the form of a beast fable, by George Orwell, 
 > first published in England on 17 August 1945. 
 > It tells the story of a group of anthropomorphic farm animals 
@@ -56,7 +55,7 @@ aliases:
 > It won a Retrospective Hugo Award in 1996 
 > and is included in the Great Books of the Western World selection.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Animal%20Farm)
+> [Wikipedia](https://en.wikipedia.org/wiki/Animal%20Farm) 
 
 
 ## Confidential Links & Embeds: 

@@ -73,7 +73,7 @@ topic_s_main_template:
 >
 > He has been called one of the most prominent Muslim and Arab scholars and historians. Recently, Ibn Khaldun's works have been compared with those of influential European philosophers such as Niccolò Machiavelli, Giambattista Vico, David Hume, G. W. F. Hegel, Karl Marx, and Auguste Comte as well as the economists David Ricardo and Adam Smith, suggesting that their ideas found precedent (although not direct influence) in his. He has also been influential on certain modern Islamic thinkers (e.g. those of the traditionalist school).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ibn%20Khaldun)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ibn%20Khaldun) 
 
 
 ## Confidential Links & Embeds: 

@@ -133,7 +133,7 @@ Europeana_entity: agent/base/145331
 > he also wrote about many other topics, including epistemology, metaphysics, aesthetics, 
 > art, logic, social theory, and ethics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Dewey)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Dewey) 
 
 
 ## Confidential Links & Embeds: 

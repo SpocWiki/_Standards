@@ -145,7 +145,7 @@ Wolfram_Language_entity_code: Entity["Concept", "CyrusII::spbg8"]
 > He remains a cult figure in Iran, with the Tomb of Cyrus at Pasargadae 
 > serving as a spot of reverence for millions of the country's citizens.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cyrus%20the%20Great)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cyrus%20the%20Great) 
 
 
 ## Confidential Links & Embeds: 

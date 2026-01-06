@@ -24,7 +24,7 @@ aliases:
 >
 > Phoenix is an animal rights activist. He has been vegan since the age of three and regularly supports charitable causes and has produced several documentaries on global meat consumption and its impact on the environment. He is in a relationship with actress Rooney Mara, with whom he has two children.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Joaquin%20Phoenix)
+> [Wikipedia](https://en.wikipedia.org/wiki/Joaquin%20Phoenix) 
 
 
 ## Confidential Links & Embeds: 

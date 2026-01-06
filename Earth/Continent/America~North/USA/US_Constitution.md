@@ -147,8 +147,6 @@ work_available_at_URL: https://www.archives.gov/founding-docs/constitution-trans
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitution%20of%20the%20United%20States) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_Constitution|US_Constitution]] 

@@ -49,7 +49,7 @@ aliases:
 > Wollstonecraft's advocacy of women's equality 
 > and critiques of conventional femininity became increasingly important.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mary%20Wollstonecraft)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mary%20Wollstonecraft) 
 
 
 ## Confidential Links & Embeds: 

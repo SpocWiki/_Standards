@@ -160,8 +160,7 @@ ZVG_number: 7920
 > Spent nuclear fuel forms radioactive waste, which mostly consists of uranium-238 
 > and poses a significant health threat and environmental impact.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Uranium)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Uranium) 
 
 
 | Purity/% | Application      |

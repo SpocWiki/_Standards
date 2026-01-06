@@ -111,7 +111,7 @@ A stadium.
 > the various codes of rugby, field lacrosse, bandy, and bullfighting. 
 > Many large sports venues are also used for concerts.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stadium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stadium) 
 
 
 ## Confidential Links & Embeds: 

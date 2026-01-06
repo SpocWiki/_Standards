@@ -34,7 +34,6 @@ A time period from 254.14 to 251.902 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > In the geologic time scale, the **Changhsingian** or Changxingian 
 > is the latest age or uppermost stage of the Permian. 
 > 
@@ -47,7 +46,8 @@ A time period from 254.14 to 251.902 million years ago.
 > The greatest mass extinction in the Phanerozoic eon, 
 > the Permian–Triassic extinction event, occurred around the end of this age.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Changhsingian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Changhsingian) 
+
 
 #has_/label_/bg  :: Чангшинг
 #has_/label_/cs  :: Changhsing

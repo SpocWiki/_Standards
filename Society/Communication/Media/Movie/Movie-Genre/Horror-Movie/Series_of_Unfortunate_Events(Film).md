@@ -37,7 +37,7 @@
 > (the second to involve Carrey, after How the Grinch Stole Christmas in 2000) 
 > and received nominations for Best Art Direction, Best Costume Design, and Best Original Score.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lemony%20Snicket's%20A%20Series%20of%20Unfortunate%20Events)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lemony%20Snicket's%20A%20Series%20of%20Unfortunate%20Events) 
 
 
 ## Confidential Links & Embeds: 

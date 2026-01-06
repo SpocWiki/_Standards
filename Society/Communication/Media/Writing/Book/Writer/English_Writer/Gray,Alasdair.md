@@ -41,7 +41,7 @@ aliases:
 > On his death The Guardian referred to him as 
 > "the father figure of the renaissance in Scottish literature and art".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alasdair%20Gray)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alasdair%20Gray) 
 
 
 ## Confidential Links & Embeds: 

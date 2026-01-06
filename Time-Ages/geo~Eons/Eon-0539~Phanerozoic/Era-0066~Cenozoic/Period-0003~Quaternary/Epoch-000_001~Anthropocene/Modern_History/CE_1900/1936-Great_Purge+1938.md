@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 1936-08-01 
-has_time_stopped: 1938-11-17 
 location: [ 90.0 , 65.0 ] 
 aliases:
   - Great Purge
@@ -55,7 +53,7 @@ coordinate_location: Point(90.0 65.0)
 >
 > Stalin reversed his stance on the purges in 1938, criticizing the NKVD for carrying out mass executions and overseeing the execution of NKVD chiefs Yagoda and Yezhov. Scholars estimate the death toll of the Great Purge at 700,000 to 1.2 million. Despite the end of the purge, widespread surveillance and an atmosphere of mistrust continued for decades. Similar purges took place in Mongolia and Xinjiang. The Soviet government wanted to put Leon Trotsky on trial during the purge, but his exile prevented this. Trotsky survived the purge, although he was assassinated in 1940 by the NKVD in Mexico on orders from Stalin.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Purge)
+> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Purge) 
 
 
 ## Confidential Links & Embeds: 

@@ -77,7 +77,7 @@ Wikidata_property: weather history
 >
 > Studying how the weather works on other planets has been helpful in understanding how weather works on Earth. A famous landmark in the Solar System, Jupiter's Great Red Spot, is an anticyclonic storm known to have existed for at least 300 years. However, the weather is not limited to planetary bodies. A star's corona is constantly being lost to space, creating what is essentially a very thin atmosphere throughout the Solar System. The movement of mass ejected from the Sun is known as the solar wind.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Weather)
+> [Wikipedia](https://en.wikipedia.org/wiki/Weather) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1775-04-19 
-has_time_stopped: 1783-09-03 
+---
 aliases:
   - American War of Independence
   - American Revolution

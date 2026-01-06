@@ -306,7 +306,7 @@ ISNI: 000000012281955X
 > As a result, he became increasingly isolated from mainstream modern physics. 
 > In 1999, he was named Time's  Person of the Century.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Albert%20Einstein)
+> [Wikipedia](https://en.wikipedia.org/wiki/Albert%20Einstein) 
 
 
 ## Confidential Links & Embeds: 

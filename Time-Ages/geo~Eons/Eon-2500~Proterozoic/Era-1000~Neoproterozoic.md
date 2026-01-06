@@ -55,7 +55,8 @@ A time period from 1000 to 538.8 million years ago.
 >
 > According to Rino and co-workers, the sum of the continental crust formed in the Pan-African orogeny and the Grenville orogeny makes the Neoproterozoic the period of Earth's history that has produced most continental crust.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neoproterozoic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Neoproterozoic) 
+
 
 #has_/label_/bg  :: пеопротерозой
 #has_/label_/cs  :: Neoproterozoikum

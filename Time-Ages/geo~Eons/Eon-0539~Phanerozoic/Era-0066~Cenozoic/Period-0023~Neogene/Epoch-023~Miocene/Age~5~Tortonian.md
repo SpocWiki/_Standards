@@ -11,12 +11,12 @@ A time period from 11.63 to 7.246 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Tortonian** is in the geologic time scale an age or stage of the late Miocene that spans the time between 11.608 ± 0.005 Ma and 7.246 ± 0.005 Ma (million years ago). It follows the Serravallian and is followed by the Messinian.
 >
 > The Tortonian roughly overlaps with the regional Pannonian Stage of the Paratethys timescale of Central Europe. It also overlaps the upper Astaracian, Vallesian and lower Turolian European land mammal ages, the upper Clarendonian and lower Hemphillian North American land mammal ages and the upper Chasicoan and lower Huayquerian South American land mammal ages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tortonian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tortonian) 
+
 
 #has_/label_/bg  :: Тортон
 #has_/label_/cs  :: Torton

@@ -50,7 +50,7 @@ The idealised Stirling cycle consists of four [thermodynamic processes](https:/
 >
 > Contemporary investment in renewable energy, especially solar energy, has given rise to its application within concentrated solar power and as a heat pump.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stirling%20engine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stirling%20engine) 
 
 
 ## Confidential Links & Embeds: 

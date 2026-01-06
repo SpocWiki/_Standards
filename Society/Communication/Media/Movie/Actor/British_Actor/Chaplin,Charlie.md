@@ -259,7 +259,7 @@ X_username: ChaplinOfficial
 > He continues to be held in high regard, with The Gold Rush, City Lights, Modern Times, 
 > and The Great Dictator often ranked on lists of the greatest films.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Charlie%20Chaplin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Charlie%20Chaplin) 
 
 
 ## Confidential Links & Embeds: 

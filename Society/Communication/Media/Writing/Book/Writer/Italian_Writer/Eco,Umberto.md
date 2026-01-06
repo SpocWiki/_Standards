@@ -177,7 +177,7 @@ P1015: "90055304"
 > for his 1995 essay "[[Eco,Umberto/Ur-Fascism]]", 
 > where Eco lists fourteen general properties he believes comprise fascist ideologies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Umberto%20Eco)
+> [Wikipedia](https://en.wikipedia.org/wiki/Umberto%20Eco) 
 
 
 ## Confidential Links & Embeds: 

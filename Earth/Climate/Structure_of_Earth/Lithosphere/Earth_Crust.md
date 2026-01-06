@@ -40,7 +40,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Erdkruste-i.png
 >
 > The temperature of the crust increases with depth, reaching values typically in the range from about 700 to 1,600 °C (1,292 to 2,912 °F) at the boundary with the underlying mantle. The temperature increases by as much as 30 °C (54 °F) for every kilometer locally in the upper part of the crust.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20crust)
+> [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20crust) 
 
 
 ## Confidential Links & Embeds: 

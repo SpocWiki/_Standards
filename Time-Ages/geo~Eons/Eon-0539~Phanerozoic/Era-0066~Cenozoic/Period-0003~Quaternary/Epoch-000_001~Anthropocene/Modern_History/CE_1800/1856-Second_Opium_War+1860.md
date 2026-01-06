@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1856-01-01 
-has_time_stopped: 1860-01-01 
+---
 aliases:
   - 'Second Opium War (simplified Chinese: 第二次鸦片战争; traditional Chinese: 第二次鴉片戰爭), also known as the Second Anglo-Chinese War or Arrow War'
   - 1856-Second_Opium_War+1860

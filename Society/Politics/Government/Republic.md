@@ -68,7 +68,7 @@ In summary, while both terms relate to systems where power ultimately resides wi
 > but there are also subnational state entities that are referred to as republics, 
 > or that have governments that are described as republican in nature.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Republic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Republic) 
 
 
 ## Confidential Links & Embeds: 

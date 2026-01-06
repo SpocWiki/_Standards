@@ -69,8 +69,7 @@ A time period from 382.7 to 372.2 million years ago.
 > - Sonyea Group
 > - Genesee Group
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Frasnian)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Frasnian) 
 
 
 #has_/label_/bg  :: Фран

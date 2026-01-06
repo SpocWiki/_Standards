@@ -441,7 +441,7 @@ hashtag_:
 > threatening the livelihood of humans and many other forms of life, 
 > and causing widespread extinctions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Earth)
+> [Wikipedia](https://en.wikipedia.org/wiki/Earth) 
 
 
 ## Orbits 

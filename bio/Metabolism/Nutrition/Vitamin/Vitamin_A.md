@@ -56,8 +56,6 @@ GitHub_topic: elearning
 > [Wikipedia](https://en.wikipedia.org/wiki/Vitamin%20A) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_A|Vitamin_A]] 

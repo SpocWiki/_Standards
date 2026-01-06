@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1919-05-15 
-has_time_stopped: 1922-10-11 
+---
 aliases:
 has_id_wikidata: Q87138
 instance_of: "[[_Standards/WikiData/WD~war,198]]"

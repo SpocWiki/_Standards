@@ -38,7 +38,6 @@ title: Double-stranded RNA Viruses
 > [Wikipedia](https://en.wikipedia.org/wiki/Double-stranded%20RNA%20viruses) 
 
 
-
 ## Title Illustrations 
 
   ------------------------------------------

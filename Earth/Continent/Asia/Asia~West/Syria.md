@@ -454,7 +454,7 @@ Capital :: [[Syria/Counties/Damascus/City/Damascus=Damaskus]]
 >
 > A country of fertile plains, high mountains, and deserts, Syria is home to diverse ethnic and religious groups. Arabs are the largest ethnic group, and Sunni Muslims are the largest religious group. Up until the capture of Damascus by rebel forces, it was the only country governed by neo-Ba'athists. The neo-Ba'athist government was a totalitarian dictatorship with a comprehensive cult of personality around the Assad family, and attracted widespread condemnation for its severe domestic repression and war crimes. Prior to the fall of Assad, Syria was ranked fourth-worst in the 2024 Fragile States Index, and it was one of the most dangerous places in the world for journalists. Freedom of the press was extremely limited, and the country was ranked second-worst in the 2024 World Press Freedom Index. It was the most corrupt country in the MENA region and was ranked the second-worst globally on the 2023 Corruption Perceptions Index. Syria had also become the epicentre of an Assad-sponsored Captagon industry, exporting billions of dollars worth of the illicit drug annually, making it one of the largest narco-states in the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Syria)
+> [Wikipedia](https://en.wikipedia.org/wiki/Syria) 
 
 
 ## Confidential Links & Embeds: 

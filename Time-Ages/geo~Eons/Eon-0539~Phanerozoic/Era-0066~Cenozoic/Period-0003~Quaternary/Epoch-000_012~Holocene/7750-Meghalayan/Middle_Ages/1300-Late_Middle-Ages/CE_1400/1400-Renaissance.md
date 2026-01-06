@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1400-01-01 
-has_time_stopped: 1650-01-01 
+---
 aliases:
   - 1400-Renaissance
 has_id_wikidata: Q4692

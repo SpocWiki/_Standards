@@ -58,7 +58,7 @@ UMLS_CUI: C0023779
 > both to break down and to synthesize lipids, 
 > some essential lipids cannot be made this way and must be obtained from the diet.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lipid)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lipid) 
 
 
 ## Confidential Links & Embeds: 

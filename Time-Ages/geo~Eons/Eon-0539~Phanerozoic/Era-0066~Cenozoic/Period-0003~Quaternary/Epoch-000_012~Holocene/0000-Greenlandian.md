@@ -38,7 +38,6 @@ This is 0300 to 3854 HE (Human Era 10_000BC)
 
 ## #has_/text_of_/abstract 
 
-
 > In the geologic time scale, the **Greenlandian** is the earliest age or lowest stage of the Holocene Epoch or Series, part of the Quaternary. 
 > Beginning in 11,650 BP (9701 BCE or 300 HE) 
 > and ending with the 8.2-kiloyear event (c. 8200–8300 BP, 6200–6300 BCE, 3600–3700 HE), 
@@ -53,7 +52,8 @@ This is 0300 to 3854 HE (Human Era 10_000BC)
 > The Greenlandian GSSP has been correlated with the end of Younger Dryas (from near-glacial to interglacial) 
 > and a "shift in deuterium excess values".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Greenlandian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Greenlandian) 
+
 
 ## All Contents
 

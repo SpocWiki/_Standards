@@ -23,7 +23,7 @@ aliases:
 > He is also known for his role as executive producer on the popular TV series Miami Vice (1984–90), 
 > which he adapted into a 2006 feature film.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Mann)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Mann) 
 
 
 ## Confidential Links & Embeds: 

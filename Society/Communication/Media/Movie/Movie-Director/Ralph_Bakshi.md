@@ -17,7 +17,7 @@
 >
 > During the 2000s, he focused largely on fine art and painting, and in 2003, co-founded the Bakshi School of Animation with his son Eddie and Jess Gorell. Bakshi has received several awards for his work, including the 1980 Golden Gryphon for The Lord of the Rings at the Giffoni Film Festival, the 1988 Annie Award for Distinguished Contribution to the Art of Animation, and the 2003 Maverick Tribute Award at the Cinequest Film Festival.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ralph%20Bakshi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ralph%20Bakshi) 
 
 
 ## Confidential Links & Embeds: 

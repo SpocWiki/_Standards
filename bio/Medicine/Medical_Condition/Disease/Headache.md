@@ -73,7 +73,7 @@ Unicode_character: 🤕
 > Tension headaches are the most common, affecting about 1.6 billion people 
 > (21.8% of the population) followed by migraine headaches which affect about 848 million (11.7%).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Headache)
+> [Wikipedia](https://en.wikipedia.org/wiki/Headache) 
 
 
 ## Confidential Links & Embeds: 

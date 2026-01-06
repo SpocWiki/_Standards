@@ -53,7 +53,7 @@ A time period from 407.6 to 393.3 million years ago.
 >
 > In North America the Emsian Stage is represented by Sawkill or Sawkillian time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Emsian)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Emsian) 
 
 
 #has_/label_/bg  :: Емѿ

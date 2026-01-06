@@ -12,7 +12,8 @@
 > and internationally through Gaumont Buena Vista International on 14 September 1994, 
 > and received mostly positive reviews from critics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9on:%20The%20Professional)
+> [Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9on:%20The%20Professional) 
+
 
 #has_/feature_/song :: [[Shape_of_My_Heart(Sting_song)]] 
 #has_/feature_/song :: [[../../music/Song/Venus_as_a_Boy]] 

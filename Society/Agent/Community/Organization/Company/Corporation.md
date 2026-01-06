@@ -87,13 +87,6 @@ dv_is_same_as:
 
 # [[Corporation]] 
 
-Class of all Corporations.
-
-Tag Instances like this: 
-#is_a_/corporation
-
-Organization: A business corporation.
-
 [ #is_/sub_class_of :: [[../../Organization]] ] 
 [ #is_/sub_class_of :: [[../../../../../../Knowledge/Business/Business-Entity|Business-Entity]] ] 
 
@@ -102,18 +95,30 @@ Organization: A business corporation.
 #has_/owner :: [[Shareholder]]s  
 #has_/manager :: [[Board_of_Directors]] 
 #has_/liability :: limited by absolute Amount of Share  
-Directors and officers (managers) of a corporation have 'fiduciary duties' to act in the best interests of the company and its shareholders. 
-This comes from 'fides', Trust of the Shareholders in these People. 
-Lower Managers, similar to Employees, have no liabilities, except specified by their Contract. 
 
 #has_/taxation:: Subject to double taxation unless elects S corporation status
 
 #has_/examples :: Large publicly traded companies, tech giants, multinational corporations
 
-
-[ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, tickerSymbol, unnamedSourcesPolicy, url, vatID ] ]
+#has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, tickerSymbol, unnamedSourcesPolicy, url, vatID ] 
 
 #is_/similar_to :: [[Company]]  
+
+Class of all Corporations.
+
+Tag Instances like this: 
+#is_a_/corporation
+
+Organization: A business corporation.
+
+Directors and officers (managers) of a corporation 
+have 'fiduciary duties' to act in the best interests of the company and its shareholders. 
+This comes from 'fides', Trust of the Shareholders in these People. 
+Lower Managers, similar to Employees, have no liabilities, 
+except specified by their Contract. 
+
+In some Jurisdictions, e.g. the [[../../../../../Earth/Continent/America~North/USA|USA]], Corporations have [[../../../../Social_Issues/Human_Rights|Human_Rights]], 
+which opens up the Avenue for [[../../../../../Technology/IT/AI(Artificial_Intelligence)/AGI(Artificial_general_Intelligence)|AGI(Artificial_general_Intelligence)]] to obtain many Rights. 
 
 | Attribute                | [[../Company\|Company]]                                                           | [[Corporation]]                                          |
 | ------------------------ | --------------------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -126,7 +131,6 @@ Lower Managers, similar to Employees, have no liabilities, except specified by t
 | **Registration**         | May or may not be incorporated                                                    | Must be incorporated under corporate law                 |
 
 ## #has_/text_of_/abstract 
-
 
 > A **Corporation** is an organization—usually a group of people or a company—
 > authorized by the state to act as a single entity 
@@ -212,7 +216,7 @@ Lower Managers, similar to Employees, have no liabilities, except specified by t
 > GmbH and LLC forms of organization are technically not corporations 
 > (even though they have many of the same features).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Corporation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Corporation) 
 
 
 ## Confidential Links & Embeds: 

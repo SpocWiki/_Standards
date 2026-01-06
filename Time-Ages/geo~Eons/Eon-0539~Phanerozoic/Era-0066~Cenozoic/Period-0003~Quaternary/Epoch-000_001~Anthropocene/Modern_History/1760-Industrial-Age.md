@@ -29,7 +29,8 @@
 > Even though many developing countries remain largely industrial, 
 > the Information Age is increasingly on the ground.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Industrial%20Age)
+> [Wikipedia](https://en.wikipedia.org/wiki/Industrial%20Age) 
+
 
 ## Edit 
 

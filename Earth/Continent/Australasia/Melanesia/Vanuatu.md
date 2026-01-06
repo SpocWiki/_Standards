@@ -510,7 +510,7 @@ Capital :: [[Port_Vila]]
 >
 > An independence movement arose in the 1970s, and the Republic of Vanuatu was founded in 1980. Since independence, the country has become a member of the United Nations, Commonwealth of Nations, Organisation internationale de la Francophonie, and the Pacific Islands Forum.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vanuatu)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vanuatu) 
 
 
 ## Confidential Links & Embeds: 

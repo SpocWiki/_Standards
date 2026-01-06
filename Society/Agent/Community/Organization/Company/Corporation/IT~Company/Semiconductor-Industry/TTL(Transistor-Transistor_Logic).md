@@ -34,7 +34,7 @@ which accounts for considerable Heat-Production in TTL Devices.
 > TTL devices still found extensive use as glue logic 
 > interfacing between more densely integrated components.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor%20logic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor%20logic) 
 
 
 ## Confidential Links & Embeds: 

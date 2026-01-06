@@ -117,7 +117,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_metaphysics,17004632]]'
 > then revived with various criticisms of earlier theories 
 > and new approaches to metaphysical inquiry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Metaphysics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Metaphysics) 
 
 
 ## Confidential Links & Embeds: 

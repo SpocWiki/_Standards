@@ -136,7 +136,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/feminism
 > These criticisms have led to the creation of ethnically specific or multicultural forms of feminism, 
 > such as black feminism and intersectional feminism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Feminism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Feminism) 
 
 
 ## Confidential Links & Embeds: 

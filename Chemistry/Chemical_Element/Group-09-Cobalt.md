@@ -26,7 +26,7 @@ type: ElementGroup
 > and called group "VIIIB" in the Chemical Abstracts Service (CAS) "U.S. system", 
 > or "VIII" in the old IUPAC (pre-1990) "European system" (and in Mendeleev's original table).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Group%209%20element)
+> [Wikipedia](https://en.wikipedia.org/wiki/Group%209%20element) 
 
 
 ## Confidential Links & Embeds: 

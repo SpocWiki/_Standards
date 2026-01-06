@@ -78,8 +78,6 @@ birth_name: Ann Dustin Wilson
 > [Wikipedia](https://en.wikipedia.org/wiki/Ann%20Wilson) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Ann|Wilson,Ann]] 

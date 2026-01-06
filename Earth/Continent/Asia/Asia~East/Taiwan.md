@@ -576,7 +576,7 @@ Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]
 >
 > The political status of Taiwan is contentious. Despite being a founding member, the ROC no longer represents China as a member of the United Nations after UN members voted in 1971 to recognize the PRC instead. The ROC maintained its claim of being the sole legitimate representative of China and its territory until 1991, when it ceased to regard the Chinese Communist Party as a rebellious group and acknowledged its control over mainland China. Taiwan is claimed by the PRC, which refuses to establish diplomatic relations with countries that recognise the ROC. Taiwan maintains official diplomatic relations with 11 out of 193 UN member states and the Holy See. Many others maintain unofficial diplomatic ties through representative offices and institutions that function as de facto embassies and consulates. International organizations in which the PRC participates either refuse to grant membership to Taiwan or allow it to participate on a non-state basis. Domestically, the major political contention is between the Pan-Blue Coalition, who favors eventual Chinese unification under the ROC and promoting a pan-Chinese identity, contrasted with the Pan-Green Coalition, which favors eventual Taiwanese independence and promoting a Taiwanese identity; in the 21st century, both sides have moderated their positions to broaden their appeal.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Taiwan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Taiwan) 
 
 
 ## Confidential Links & Embeds: 

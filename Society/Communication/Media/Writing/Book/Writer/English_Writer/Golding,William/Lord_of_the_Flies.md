@@ -59,7 +59,7 @@ Wolfram_Language_entity_code: Entity["Book", "LordOfTheFlies"]
 > Lord of the Flies was generally well received, 
 > and is a popular assigned book in schools.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lord%20of%20the%20Flies)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lord%20of%20the%20Flies) 
 
 
 ## Confidential Links & Embeds: 

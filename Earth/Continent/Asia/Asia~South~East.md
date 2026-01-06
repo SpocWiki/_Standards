@@ -107,9 +107,7 @@ markerFile: [[Asia~South~East]]
 >
 > Southeast Asia is one of the most culturally diverse regions of the world. There are many different languages and ethnicities in the region. Historically, Southeast Asia was significantly influenced by Indian, Chinese, Muslim, and colonial cultures, which became core components of the region's cultural and political institutions. Most modern Southeast Asian countries were colonised by European powers. European colonisation exploited natural resources and labour from the lands they conquered, and attempted to spread European institutions to the region. Several Southeast Asian countries were also briefly occupied by the Empire of Japan during World War II. The aftermath of World War II saw most of the region decolonised. Today, Southeast Asia is predominantly governed by independent states.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Southeast%20Asia)  
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Southeast%20Asia) 
 
 
 ```folderv

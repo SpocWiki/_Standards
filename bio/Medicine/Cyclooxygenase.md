@@ -18,7 +18,7 @@ Cyclooxygenase generates Prostaglandine which is detected by Pain Receptors.
 >
 > In medicine, the root symbol "COX" is encountered more often than "PTGS". In genetics, "PTGS" is officially used for this family of genes and proteins because the root symbol "COX" was already used for the cytochrome c oxidase family. Thus, the two isozymes found in humans, PTGS1 and PTGS2, are frequently called COX-1 and COX-2 in medical literature. The names "prostaglandin synthase (PHS)", "prostaglandin synthetase (PHS)", and "prostaglandin-endoperoxide synthetase (PES)" are older terms still sometimes used to refer to COX.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cyclooxygenase)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cyclooxygenase) 
 
 
 ## Confidential Links & Embeds: 

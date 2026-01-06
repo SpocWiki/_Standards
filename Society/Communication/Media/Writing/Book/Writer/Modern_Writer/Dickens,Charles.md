@@ -218,7 +218,7 @@ writing_language: '[[_Standards/WikiData/WD~British_English,7979]]'
 > The term Dickensian is used to describe something that is reminiscent of Dickens and his writings, 
 > such as poor social or working conditions, or comically repulsive characters.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Dickens)
+> [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Dickens) 
 
 
 ## Confidential Links & Embeds: 

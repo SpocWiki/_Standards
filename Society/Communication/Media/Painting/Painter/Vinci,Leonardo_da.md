@@ -270,7 +270,7 @@ writing_language: '[[_Standards/WikiData/WD~Italian,652]]'
 >
 > Revered for his technological ingenuity, he conceptualised flying machines, a type of armoured fighting vehicle, concentrated solar power, a ratio machine that could be used in an adding machine, and the double hull. Relatively few of his designs were constructed or were even feasible during his lifetime, as the modern scientific approaches to metallurgy and engineering were only in their infancy during the Renaissance. Some of his smaller inventions, however, entered the world of manufacturing unheralded, such as an automated bobbin winder and a machine for testing the tensile strength of wire. He made substantial discoveries in anatomy, civil engineering, hydrodynamics, geology, optics, and tribology, but he did not publish his findings and they had little to no direct influence on subsequent science.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Leonardo%20da%20Vinci)
+> [Wikipedia](https://en.wikipedia.org/wiki/Leonardo%20da%20Vinci) 
 
 
 ## Confidential Links & Embeds: 

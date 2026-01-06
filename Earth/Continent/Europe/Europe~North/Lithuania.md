@@ -463,7 +463,7 @@ Capital :: [[Vilnius]]
 >
 > Lithuania is a developed country with a high income and an advanced economy. Lithuania is a member of the European Union, the Council of Europe, the eurozone, the Nordic Investment Bank, the Schengen Agreement, NATO, and OECD. It also participates in the Nordic-Baltic Eight (NB8) regional co-operation format.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lithuania)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lithuania) 
 
 
 ## Confidential Links & Embeds: 

@@ -85,7 +85,7 @@ UMLS_CUI: C0949248
 > a cannabinoid and the plant's principal psychoactive constituent. 
 > Compounds such as hashish and hash oil are extracted from the plant.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cannabis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cannabis) 
 
 
 ## Confidential Links & Embeds: 

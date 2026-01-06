@@ -159,7 +159,7 @@ Europeana_entity: agent/base/60431
 > includes three of Berry's: "Johnny B. Goode", "Maybellene", and "Rock and Roll Music". 
 > "Johnny B. Goode" is the only rock-and-roll song included on the Voyager Golden Record.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chuck%20Berry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chuck%20Berry) 
 
 
 ## Confidential Links & Embeds: 

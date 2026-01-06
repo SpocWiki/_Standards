@@ -1065,7 +1065,7 @@ Capital :: [[Abuja]]
 > the Economic Community of West African States, Organisation of Islamic Cooperation and OPEC. 
 > It is also a member of the informal MINT group of countries and is one of the Next Eleven economies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nigeria)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nigeria) 
 
 
 ## Confidential Links & Embeds: 

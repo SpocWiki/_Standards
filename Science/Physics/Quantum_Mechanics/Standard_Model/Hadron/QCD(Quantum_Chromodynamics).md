@@ -57,7 +57,7 @@ PhilPapers_topic: quantum-chromodynamics
 > - Asymptotic freedom, a steady reduction in the strength of interactions between quarks and gluons as the energy scale of those interactions increases (and the corresponding length scale decreases).  The asymptotic freedom of QCD was discovered in 1973 by David Gross and Frank Wilczek, and independently by David Politzer in the same year.  For this work, all three shared the 2004 Nobel Prize in Physics.
 > - Chiral symmetry breaking, the spontaneous symmetry breaking of an important global symmetry of quarks, detailed below, with the result of generating masses for hadrons far above the masses of the quarks, and making pseudoscalar mesons exceptionally light.  Yoichiro Nambu was awarded the 2008 Nobel Prize in Physics for elucidating the phenomenon in 1960, a dozen years before the advent of QCD. Lattice simulations have confirmed all his generic predictions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20chromodynamics)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20chromodynamics) 
 
 
 ## Confidential Links & Embeds: 

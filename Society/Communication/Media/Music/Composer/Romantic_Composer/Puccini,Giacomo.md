@@ -114,7 +114,7 @@ work_period_start_: 1876
 > all of which are among the most frequently performed and recorded 
 > in the entirety of the operatic repertoire.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Giacomo%20Puccini)
+> [Wikipedia](https://en.wikipedia.org/wiki/Giacomo%20Puccini) 
 
 
 ## Confidential Links & Embeds: 

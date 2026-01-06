@@ -123,7 +123,6 @@ IMDb_keyword: reference-to-world-war-one
 
 ## #has_/text_of_/abstract 
 
-
 > World War I or the First World War (28 July 1914 – 11 November 1918) 
 > was a global conflict between two coalitions: the Allies and the Central Powers.  
 > 
@@ -176,7 +175,7 @@ IMDb_keyword: reference-to-world-war-one
 > The __inability to manage post-war instability__ 
 > contributed to the outbreak of [[1939-World_War_II]] in September 1939.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/World%20War%20I)
+> [Wikipedia](https://en.wikipedia.org/wiki/World%20War%20I) 
 
 
 ## Confidential Links & Embeds: 

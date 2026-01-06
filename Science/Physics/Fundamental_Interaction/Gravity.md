@@ -138,7 +138,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Schwerkraft%20als%20Kr
 > which would allow gravity to be united in a common mathematical framework 
 > (a theory of everything) with the other three fundamental interactions of physics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gravity)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gravity) 
 
 
 ## Confidential Links & Embeds: 

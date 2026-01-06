@@ -15,7 +15,6 @@ leading to a sucrose content of around 18% in modern varieties
 
 ## #has_/text_of_/abstract 
 
-
 > A **sugar beet** is a plant whose root contains a high concentration of sucrose 
 > and that is grown commercially for sugar production. 
 > In plant breeding, it is known as the Altissima cultivar group of the common beet (Beta vulgaris). 
@@ -37,7 +36,7 @@ leading to a sucrose content of around 18% in modern varieties
 > that sugar beets generally account for about 55 percent of domestically produced sugar, 
 > and sugar cane for about 45 percent.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sugar%20beet)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sugar%20beet) 
 
 
 ## Confidential Links & Embeds: 

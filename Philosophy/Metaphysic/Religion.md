@@ -119,7 +119,7 @@ Monogamy prevents diseases and jealousy and arguments about inheritance.
 >
 > The study of religion comprises a wide variety of academic disciplines, including theology, philosophy of religion, comparative religion, and social scientific studies. Theories of religion offer various explanations for its origins and workings, including the ontological foundations of religious being and belief.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Religion)
+> [Wikipedia](https://en.wikipedia.org/wiki/Religion) 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,6 @@ A time period from 0.774 to 0.129 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Chibanian**, widely known as the Middle Pleistocene, is an age in the international geologic timescale or a stage in chronostratigraphy, being a division of the Pleistocene Epoch within the ongoing Quaternary Period. 
 > 
 > The Chibanian name was officially ratified in January 2020. It is currently estimated to span the time between 0.770 Ma (770,000 years ago) and 0.126 Ma (126,000 years ago), also expressed as 770–126 ka. It includes the transition in palaeoanthropology from the Lower to the Middle Paleolithic over 300 ka.
@@ -47,7 +46,8 @@ A time period from 0.774 to 0.129 million years ago.
 > 
 > The term Middle Pleistocene was in use as a provisional or "quasi-formal" designation by the International Union of Geological Sciences (IUGS). While the three lowest ages of the Pleistocene, the Gelasian, Calabrian and Chibanian have been officially defined, the [[Age~4~Late_Pleistocene]] has yet to be formally defined, along with consideration of a proposed Anthropocene sub-division of the Holocene.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chibanian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chibanian) 
+
 
 #has_/abbreviation :: q3
 

@@ -108,7 +108,7 @@ X_Twitter_username: cij_icj
 > the court's rulings and opinions are binding on the parties 
 > with respect to the particular case ruled on by the court.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/International%20Court%20of%20Justice)
+> [Wikipedia](https://en.wikipedia.org/wiki/International%20Court%20of%20Justice) 
 
 
 ## Confidential Links & Embeds: 

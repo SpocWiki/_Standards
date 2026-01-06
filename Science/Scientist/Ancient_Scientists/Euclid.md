@@ -110,7 +110,7 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 > Euclid's authorship of On Divisions of Figures and Catoptrics has been questioned. 
 > He is thought to have written many lost works.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Euclid)
+> [Wikipedia](https://en.wikipedia.org/wiki/Euclid) 
 
 
 ## Confidential Links & Embeds: 

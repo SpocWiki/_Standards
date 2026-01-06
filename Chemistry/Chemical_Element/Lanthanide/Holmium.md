@@ -90,7 +90,6 @@ ZVG_number: 7670
 
 ## #has_/text_of_/abstract 
 
-
 > **Holmium** is a chemical element with the symbol (Abbr::Ho) and atomic number (Charge-e::67). 
 > It is a rare-earth element and the eleventh member of the lanthanide series. 
 > It is a relatively soft, silvery, fairly corrosion-resistant and malleable metal. 
@@ -108,7 +107,7 @@ ZVG_number: 7670
 >
 > Holmium has the highest magnetic permeability and magnetic saturation of any element and is thus used for the polepieces of the strongest static magnets. Because holmium strongly absorbs neutrons, it is also used as a burnable poison in nuclear reactors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Holmium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Holmium) 
 
 
 ## Confidential Links & Embeds: 

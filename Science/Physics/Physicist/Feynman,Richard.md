@@ -191,7 +191,7 @@ ISNI: "0000000120960218"
 > and books written about him such as Tuva or Bust! by Ralph Leighton 
 > and the biography Genius: The Life and Science of Richard Feynman by James Gleick.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Feynman)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Feynman) 
 
 
 ## Confidential Links & Embeds: 

@@ -89,7 +89,7 @@ A sea (for example, the Caspian sea).
 >
 > The seas have been an integral element for humans throughout history and culture. Humans harnessing and studying the seas have been recorded since ancient times and evidenced well into prehistory, while its modern scientific study is called oceanography and maritime space is governed by the law of the sea, with admiralty law regulating human interactions at sea. The seas provide substantial supplies of food for humans, mainly fish, but also shellfish, mammals and seaweed, whether caught by fishermen or farmed underwater. Other human uses of the seas include trade, travel, mineral extraction, power generation, warfare, and leisure activities such as swimming, sailing, and scuba diving. Many of these activities create marine pollution.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sea)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sea) 
 
 
 ## Confidential Links & Embeds: 

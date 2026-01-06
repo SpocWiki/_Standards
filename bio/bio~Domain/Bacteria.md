@@ -256,6 +256,7 @@ as well as their diverse metabolic capabilities and ecological roles.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bacteria) 
 
+
 ## Characteristics
 
 Here are some key features and characteristics of Eubacteria:

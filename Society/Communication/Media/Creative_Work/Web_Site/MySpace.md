@@ -60,8 +60,6 @@ Commons_category: Myspace
 > [Wikipedia](https://en.wikipedia.org/wiki/Myspace) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Site/MySpace|MySpace]] 

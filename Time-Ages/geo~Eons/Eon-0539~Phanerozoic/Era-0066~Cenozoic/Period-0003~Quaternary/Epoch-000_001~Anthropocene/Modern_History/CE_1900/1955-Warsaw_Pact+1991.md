@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1955-05-14 
-has_time_stopped: 1991-07-01 
+---
 aliases:
 has_id_wikidata: Q41644
 short_name:

@@ -183,7 +183,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > 
 > There has been a resurgence in popular interest in Tesla since the 1990s.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nikola%20Tesla)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nikola%20Tesla) 
 
 
 ## Confidential Links & Embeds: 

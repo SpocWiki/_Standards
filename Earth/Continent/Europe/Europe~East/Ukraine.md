@@ -539,7 +539,7 @@ Capital :: [[Ukraine/Regions~Ukraine/Kiev,City]]
 >
 > Ukraine is a unitary state and its system of government is a semi-presidential republic. Ukraine has a transition economy and has the lowest nominal GDP per capita in Europe as of 2024, with corruption being a significant issue. Due to its extensive fertile land, the country is an important exporter of grain, with grain produce reduced since 2022 due the Russian invasion, endangering global food security. Ukraine is considered a middle power in global affairs. Its military is the sixth largest in the world with the eighth largest defence budget, and operates one of the world's largest and most diverse drone fleets. Ukraine is a founding member of the United Nations and a member of the Council of Europe, the World Trade Organisation, and the OSCE. It is in the process of joining the European Union and has applied to join NATO.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ukraine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ukraine) 
 
 
 ## Confidential Links & Embeds: 

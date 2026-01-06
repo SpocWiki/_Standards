@@ -43,7 +43,7 @@ aliases:
 > the band was announced as recipients of the first "Global Icon" award at the 2021 MTV Video Music Awards. 
 > They were inducted into the Rock and Roll Hall of Fame in 2021, their first year of eligibility.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Foo%20Fighters)
+> [Wikipedia](https://en.wikipedia.org/wiki/Foo%20Fighters) 
 
 
 ## Confidential Links & Embeds: 

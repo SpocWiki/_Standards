@@ -1,6 +1,4 @@
-﻿---
-has_time_started: 1000-01-01 
-has_time_stopped: 1308-01-01 
+---
 aliases:
   - Seljuk dynasty
   - Seljukids

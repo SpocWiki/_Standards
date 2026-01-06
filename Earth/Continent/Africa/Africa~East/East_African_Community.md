@@ -73,7 +73,7 @@ Facebook_username: proudlyeastafrican
 >
 > The EAC is a potential precursor to the establishment of the East African Federation, a proposed federation of its members into a single sovereign state. In 2010, the EAC launched its own common market for goods, labour, and capital within the region, with the goal of creating a common currency and eventually a full political federation with its capital at Arusha, Tanzania. In 2013, a protocol was signed outlining their plans for launching a monetary union within 10 years. In September 2018, a committee was formed to begin the process of drafting a regional constitution.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/East%20African%20Community)
+> [Wikipedia](https://en.wikipedia.org/wiki/East%20African%20Community) 
 
 
 ## Confidential Links & Embeds: 

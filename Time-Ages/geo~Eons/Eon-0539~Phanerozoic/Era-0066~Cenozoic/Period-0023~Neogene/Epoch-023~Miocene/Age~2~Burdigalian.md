@@ -11,10 +11,10 @@ A time period from 20.44 to 15.98 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Burdigalian** is, in the geologic timescale, an age or stage in the early Miocene. It spans the time  between 20.43 ± 0.05 Ma and 15.97 ± 0.05 Ma (million years ago). Preceded by the [[Age~1~Aquitanian]], the Burdigalian was the first and longest warming period of the Miocene and is succeeded by the [[Age~3~Langhian]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Burdigalian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Burdigalian) 
+
 
 #has_/label_/bg  :: Бурдигал
 #has_/label_/cs  :: Burdigal

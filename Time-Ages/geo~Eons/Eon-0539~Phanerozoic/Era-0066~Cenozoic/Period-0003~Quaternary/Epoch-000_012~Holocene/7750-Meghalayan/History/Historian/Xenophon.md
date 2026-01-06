@@ -63,7 +63,7 @@
 > and is believed to be one of the first 
 > to utilize and describe flanking maneuvers and feints in military tactics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Xenophon)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Xenophon) 
 
 
 ## Confidential Links & Embeds: 

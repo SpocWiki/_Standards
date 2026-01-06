@@ -35,7 +35,7 @@ aliases:
 > Lambert is set to make his Broadway debut as the Emcee 
 > in the 2024 revival of Cabaret on September 16.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Adam%20Lambert)
+> [Wikipedia](https://en.wikipedia.org/wiki/Adam%20Lambert) 
 
 
 ## Confidential Links & Embeds: 

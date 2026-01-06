@@ -17,7 +17,8 @@
 > ISIC Rev.4 continues to use criteria such as input, output and use of the products produced, 
 > but places additional emphasis on production processes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/International%20Standard%20Industrial%20Classification)
+> [Wikipedia](https://en.wikipedia.org/wiki/International%20Standard%20Industrial%20Classification) 
+
 
 ## Overview
 

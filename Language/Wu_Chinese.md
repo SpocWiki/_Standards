@@ -66,7 +66,7 @@ native_label:
 >
 > Historical linguists view Wu of great significance because of its obviously distinct nature. The Wu languages typically preserve all voiced initials of medieval Chinese, as well as the checked tone in the form of a glottal stop. Wu varieties also have noticeably unique morphological and syntactic innovations, as well as lexicon exclusively found in the Wu grouping. It is also of note that the influential linguist Chao Yuen Ren was a native speaker of Changzhounese, a variety of Northern Wu. The Wu varieties, especially that of Suzhou, are traditionally perceived as soft in the ears of speakers of both Wu and non-Wu languages, leading to the idiom "the tender speech of Wu" (吴侬软语; 吳儂軟語).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wu%20Chinese)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wu%20Chinese) 
 
 
 ## Confidential Links & Embeds: 

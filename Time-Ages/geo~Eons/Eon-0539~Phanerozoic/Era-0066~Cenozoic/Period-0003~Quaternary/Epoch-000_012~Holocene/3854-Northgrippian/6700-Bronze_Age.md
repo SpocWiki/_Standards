@@ -106,7 +106,6 @@ subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
 > [Wikipedia](https://en.wikipedia.org/wiki/Bronze%20Age) 
 
 
-
 ## Edit
 
 ## All Contents

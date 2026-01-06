@@ -47,7 +47,7 @@ Commons_category: Overtures (music)
 > More important was the prologue, consisting of sung dialogue between allegorical characters 
 > which introduced the overarching themes of the stories depicted.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Overture)
+> [Wikipedia](https://en.wikipedia.org/wiki/Overture) 
 
 
 ## Confidential Links & Embeds: 

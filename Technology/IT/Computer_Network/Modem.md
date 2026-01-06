@@ -61,6 +61,7 @@ Commons_category: Modems
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Modem) 
 
+
   
 
 | Connection                                                                                                                                                             | [Modulation](https://en.wikipedia.org/wiki/Modulation "Modulation")                          |        kbit/s | Year  |

@@ -228,7 +228,7 @@ IMDb_keyword: world-war-two
 > Most countries whose industries had been damaged 
 > moved towards economic recovery and expansion.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/World%20War%20II)
+> [Wikipedia](https://en.wikipedia.org/wiki/World%20War%20II) 
 
 
 ## Confidential Links & Embeds: 

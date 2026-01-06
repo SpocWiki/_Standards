@@ -198,7 +198,8 @@ Their Logo inspired the Logo of the [[../../../media/music/Music~Album/ELO(Elect
 > General Electric Company changed its name to GE Aerospace, 
 > pivoted to aviation, and ceased to exist as a conglomerate.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/General%20Electric)
+> [Wikipedia](https://en.wikipedia.org/wiki/General%20Electric) 
+
 
 During 1889, [Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison "Thomas Edison") (1847–1931) 
 had business interests in many electricity-related companies, including 

@@ -36,8 +36,6 @@ Dewey_Decimal_Classification: "621.98"
 > [Wikipedia](https://en.wikipedia.org/wiki/Machine%20press) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Machine_Press|Machine_Press]] 

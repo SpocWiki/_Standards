@@ -410,7 +410,7 @@ Capital :: [[Maldives/Counties/Malé/City/Malé]]
 >
 > The Maldives is a member of the United Nations, the Commonwealth of Nations, the Organisation of Islamic Cooperation, and the Non-Aligned Movement. The World Bank classifies the Maldives as having an upper-middle income economy. The Maldives is a Dialogue Partner of the Shanghai Cooperation Organisation. Fishing has historically been the dominant economic activity, and remains the largest sector by far, followed by the rapidly growing tourism industry. The Maldives rates "high" on the Human Development Index, with per capita income significantly higher than other SAARC nations. The Maldives was a member of the Commonwealth of Nations from July 1982 until withdrawing from the organisation in October 2016 in protest of allegations of its human rights abuses and failing democracy. The Maldives rejoined the Commonwealth on 1 February 2020 after showing evidence of functioning democratic processes and popular support.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Maldives)
+> [Wikipedia](https://en.wikipedia.org/wiki/Maldives) 
 
 
 ## Confidential Links & Embeds: 

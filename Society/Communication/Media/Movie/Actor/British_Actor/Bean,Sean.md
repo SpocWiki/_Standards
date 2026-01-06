@@ -47,7 +47,7 @@ aliases:
 > Since 2002, Bean has been the main voiceover for O2 adverts. 
 > In 2022, Bean won the British Academy Television Award as Leading Actor in Time, a BBC One drama.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sean%20Bean)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sean%20Bean) 
 
 
 ## Confidential Links & Embeds: 

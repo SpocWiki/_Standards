@@ -8,7 +8,7 @@
 >
 > Spectre premiered at the Royal Albert Hall on 26 October 2015 and was theatrically released in conventional and IMAX formats in the United Kingdom that day, and in the United States on 6 November. The film received mixed reviews from critics, who praised the action sequences, cast performances (particularly Craig's and Bautista's), and the musical score, but criticised the pacing and formulaic narrative decisions. It grossed $880 million worldwide, making it the sixth-highest-grossing film of 2015 and the second-highest grossing James Bond film after Skyfall, unadjusted for inflation (fourth when adjusted). The film's theme song, "Writing's on the Wall", won an Academy Award and Golden Globe for Best Original Song. The next film in the series, No Time to Die, was released in 2021.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spectre%20(2015%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Spectre%20(2015%20film)) 
 
 
 ## Confidential Links & Embeds: 

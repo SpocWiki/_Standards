@@ -138,7 +138,7 @@ U_S_National_Archives_Identifier: 10582138
 > while flying on a rescue mission for the airship Italia in the Arctic. 
 > The search for his remains, which have not been found, was called off that September.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Roald%20Amundsen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Roald%20Amundsen) 
 
 
 ## Confidential Links & Embeds: 

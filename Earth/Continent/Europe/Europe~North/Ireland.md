@@ -605,7 +605,8 @@ Major Cities with Population in 1000s as of @2022
 > including the English language, and sports 
 > such as association football, rugby, horse racing, golf, and boxing.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ireland)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ireland) 
+
 
 # [[Republic_of_Ireland]] 
 
@@ -625,7 +626,7 @@ Major Cities with Population in 1000s as of @2022
 >
 > It is a member of the EU and a founding member of the Council of Europe and the OECD. The Irish government has followed a policy of military neutrality through non-alignment since before World War II, and the country is consequently not a member of NATO, although it is a member of the Partnership for Peace and certain aspects of PESCO. Ireland's economy is advanced, with one of Europe's major financial hubs being centred on Dublin. It ranks among the top five wealthiest countries in the world in terms of both GDP and GNI per capita. After joining the EC, the country's government enacted a series of liberal economic policies that helped to boost economic growth between 1995 and 2007, a time now often referred to as the Celtic Tiger period. A recession and reversal in growth then followed during the Great Recession, which was exacerbated by the bursting of the Irish property bubble. The Great Recession lasted until 2014, and was followed by a new period of strong economic growth.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Republic%20of%20Ireland)
+> [Wikipedia](https://en.wikipedia.org/wiki/Republic%20of%20Ireland) 
 
 
 ## Confidential Links & Embeds: 

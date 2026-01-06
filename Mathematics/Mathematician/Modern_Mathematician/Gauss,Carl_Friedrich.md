@@ -205,7 +205,7 @@ writing_language:
 > Gauss confessed to disliking teaching, but some of his students became influential mathematicians, 
 > such as Richard Dedekind and Bernhard Riemann.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Friedrich%20Gauss)
+> [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Friedrich%20Gauss) 
 
 
 ## Confidential Links & Embeds: 

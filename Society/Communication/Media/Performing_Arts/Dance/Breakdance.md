@@ -39,7 +39,7 @@ alternative_name: Bboying
 >
 > The dance form has expanded globally, with an array of organizations and independent competitions supporting its growth. Breaking became an Olympic sport at the 2024 Summer Olympics in Paris, as per a December 7, 2020 decision by the International Olympic Committee, after a proposal by the World DanceSport Federation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Breakdancing)
+> [Wikipedia](https://en.wikipedia.org/wiki/Breakdancing) 
 
 
 ## Confidential Links & Embeds: 

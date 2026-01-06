@@ -110,7 +110,7 @@ Unit :: #Unit/SI/m
 > 
 > This series of amendments did **not** alter the size of the metre significantly - today Earth's polar circumference measures 40007.863 km, a change of 0.02% from the original value of exactly 40000 km, which also includes improvements in the accuracy of measuring the circumference.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Metre)
+> [Wikipedia](https://en.wikipedia.org/wiki/Metre) 
 
 
 ## Confidential Links & Embeds: 

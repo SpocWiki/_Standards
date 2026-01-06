@@ -58,8 +58,7 @@ A time period from 372.2 to 358.9 million years ago.
 > estimated that it lasted from 372.2 million years ago to 358.9 million years ago. 
 > It was preceded by the [[Age~1~Frasnian]] stage and followed by the [[../../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]] stage.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Famennian)  
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Famennian) 
 
 
 #has_/label_/bg  :: Фамен

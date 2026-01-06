@@ -1,6 +1,4 @@
 ﻿---
-has_time_started: 0601-01-01 
-has_time_stopped: 1240-01-01 
 location: [ 49.033333333 , 54.966666666 ] 
 aliases:
   - Volga Bulgaria

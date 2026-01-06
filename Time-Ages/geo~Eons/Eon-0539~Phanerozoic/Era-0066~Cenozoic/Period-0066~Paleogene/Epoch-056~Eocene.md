@@ -41,7 +41,6 @@ A time period from 56.0 to 33.9 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Eocene** (IPA:  EE-ə-seen, EE-oh-) Epoch is a geological epoch that lasted from about 56 to 33.9 million years ago (Ma). It is the second epoch of the Paleogene Period in the modern Cenozoic Era. The name Eocene comes from the Ancient Greek ἠώς (ēṓs, "dawn") and καινός (kainós, "new") and refers to the "dawn" of modern ('new') fauna that appeared during the epoch.The Eocene spans the time from the end of the Paleocene Epoch to the beginning of the Oligocene Epoch. The start of the Eocene is marked by a brief period in which the concentration of the carbon isotope 13C in the atmosphere was exceptionally low in comparison with the more common isotope 12C. The end is set at a major extinction event called the Grande Coupure (the "Great Break" in continuity) or the Eocene–Oligocene extinction event, which may be related to the impact of one or more large bolides in Siberia and in what is now Chesapeake Bay. As with other geologic periods, the strata that define the start and end of the epoch are well identified, though their exact dates are slightly uncertain.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eocene) 

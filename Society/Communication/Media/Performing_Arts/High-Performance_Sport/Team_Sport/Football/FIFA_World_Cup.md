@@ -44,7 +44,7 @@ aliases:
 > which will give Mexico the distinction of 
 > being the first country to host games in three World Cups.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/FIFA%20World%20Cup)
+> [Wikipedia](https://en.wikipedia.org/wiki/FIFA%20World%20Cup) 
 
 
 | Year | Host                                                                                | Teams | Champion                                                                | Score12           | 2nd Place                                                               | 3rd Place                                                                       | Score34      | 4th Place                                                                   |

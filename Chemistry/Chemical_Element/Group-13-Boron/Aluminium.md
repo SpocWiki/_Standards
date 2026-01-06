@@ -142,7 +142,6 @@ ZVG_number: 7130
 
 ## #has_/text_of_/abstract 
 
-
 > **Aluminium** (aluminum in North American English) 
 > is a chemical element with the symbol (Abbr::Al) and atomic number (Charge-e::13). 
 > 
@@ -163,7 +162,7 @@ ZVG_number: 7130
 >
 > Despite its prevalence in the environment, no living organism is known to use aluminium salts for metabolism, but aluminium is well tolerated by plants and animals. Because of the abundance of these salts, the potential for a biological role for them is of interest, and studies continue.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Aluminium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Aluminium) 
 
 
 ## Confidential Links & Embeds: 

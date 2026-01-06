@@ -392,7 +392,7 @@ Capital :: [[Marshall_Islands/Counties/Ratak_Chain/Majuro]]
 >
 > The majority of the citizens of the Republic of Marshall Islands are of Marshallese descent, though there are small numbers of immigrants from the United States, China, Philippines, and other Pacific islands. The two official languages are Marshallese, which is one of the Oceanic languages, and English. Almost the entire population of the islands practices some religion: three-quarters of the country follows either the United Church of Christ – Congregational in the Marshall Islands (UCCCMI) or the Assemblies of God.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marshall%20Islands)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marshall%20Islands) 
 
 
 ## Confidential Links & Embeds: 

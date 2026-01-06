@@ -45,7 +45,7 @@ aliases:
 > at levels consumed in the normal UK diet, leads to adverse health outcomes 
 > independent of any effects related to its presence as a component of total and free sugars."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fructose)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fructose) 
 
 
 ## Confidential Links & Embeds: 

@@ -92,7 +92,7 @@ OpenStreetMap_key: currency:USD
 > As of January 1, 2025, the Federal Reserve estimated that the total amount of currency in circulation 
 > was approximately US$2.37 trillion.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20States%20dollar)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20States%20dollar) 
 
 
 ## Confidential Links & Embeds: 

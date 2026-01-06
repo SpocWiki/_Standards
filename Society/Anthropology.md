@@ -91,6 +91,7 @@ greek from Andos "Man" and "Logos"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anthropology) 
 
+
 ## Edit
 
 ## All Contents

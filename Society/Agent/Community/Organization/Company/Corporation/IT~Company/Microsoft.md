@@ -347,7 +347,6 @@ PermID: 4295907168
 > [Wikipedia](https://en.wikipedia.org/wiki/Microsoft) 
 
 
-
 ## Edit 
 
 ## All Contents

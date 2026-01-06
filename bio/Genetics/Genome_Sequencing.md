@@ -7,7 +7,7 @@
 >
 > Whole genome sequencing should not be confused with DNA profiling, which only determines the likelihood that genetic material came from a particular individual or group, and does not contain additional information on genetic relationships, origin or susceptibility to specific diseases. In addition, whole genome sequencing should not be confused with methods that sequence specific subsets of the genome – such methods include whole exome sequencing (1–2% of the genome) or SNP genotyping (< 0.1% of the genome).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Whole%20genome%20sequencing)
+> [Wikipedia](https://en.wikipedia.org/wiki/Whole%20genome%20sequencing) 
 
 
  ## Cost Reduction in Genome Sequencing

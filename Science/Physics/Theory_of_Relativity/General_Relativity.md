@@ -66,7 +66,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_General_relativity_sid
 >
 > Widely acknowledged as a theory of extraordinary beauty, general relativity has often been described as the most beautiful of all existing physical theories.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/General%20relativity)
+> [Wikipedia](https://en.wikipedia.org/wiki/General%20relativity) 
 
 
 ## Confidential Links & Embeds: 

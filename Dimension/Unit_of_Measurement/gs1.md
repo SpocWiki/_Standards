@@ -3,7 +3,7 @@
 >
 > GS1 has 116 local member organizations and over 2 million user companies. Its main office is in Brussels (Avenue Louise).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/GS1)
+> [Wikipedia](https://en.wikipedia.org/wiki/GS1) 
 
 
 ## Confidential Links & Embeds: 

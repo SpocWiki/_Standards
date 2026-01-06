@@ -119,7 +119,6 @@ A time period from 346.7 to 330.9 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Visean**, Viséan or Visian is an age in the ICS geologic timescale 
 > or a stage in the stratigraphic column. 
 > 
@@ -127,7 +126,7 @@ A time period from 346.7 to 330.9 million years ago.
 > The Visean lasted from 346.7 to 330.9 Ma. 
 > It follows the Tournaisian age/stage and is followed by the Serpukhovian age/stage.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vis%C3%A9an)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Vis%C3%A9an) 
 
 
 ## All Contents
