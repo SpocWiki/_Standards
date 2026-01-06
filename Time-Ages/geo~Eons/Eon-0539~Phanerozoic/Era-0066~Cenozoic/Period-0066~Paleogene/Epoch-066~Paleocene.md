@@ -1,6 +1,23 @@
 ---
 aliases:
   - Paleocene
+has_id_wikidata: Q76252
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Paleocene,7358142]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -66000000-01-01T00:00:00Z
+named_by: "[[_Standards/WikiData/WD~Wilhelm_Philippe_Schimper,63251]]"
+Commons_category: Paleocene
+end_time: -56000000-01-01T00:00:00Z
+coordinate_location: Point(8.6486 36.1537)
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%2060%20Ma%20%28Selandian%20Age%29.png
+sRGB_color_hex_triplet: FEAD6E
+Dewey_Decimal_Classification:
+  - "560.1783"
+  - "561.1183"
 ---
 
 # [[Epoch-066~Paleocene]] 
@@ -11,6 +28,7 @@ aliases:
 
 #has_/previous_/item :: [[../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous|Epoch~2~Late_Cretaceous]]  
 #has_/next_/item :: [[Epoch-056~Eocene]]  
+#is_/same_as :: [[WD~Paleocene,76252]] 
 
 A time period from 66.0 to 56.0 million years ago. 
 
@@ -27,8 +45,8 @@ A time period from 66.0 to 56.0 million years ago.
 >
 > The K–Pg extinction event caused a floral and faunal turnover of species, with previously abundant species being replaced by previously uncommon ones. In the Paleocene, with a global average temperature of about 24–25 °C (75–77 °F), compared to 14 °C (57 °F) in more recent times, the Earth had a greenhouse climate without permanent ice sheets at the poles, like the preceding Mesozoic. As such, there were forests worldwide—including at the poles—but they had low species richness in regards to plant life, and were populated by mainly small creatures that were rapidly evolving to take advantage of the recently emptied Earth. Though some animals attained great size, most remained rather small. The forests grew quite dense in the general absence of large herbivores. Mammals proliferated in the Paleocene, and the earliest placental and marsupial mammals are recorded from this time, but most Paleocene taxa have ambiguous affinities. In the seas, ray-finned fish rose to dominate open ocean and recovering reef ecosystems.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paleocene)
-> 
+> [Wikipedia](https://en.wikipedia.org/wiki/Paleocene) 
+
 
 #has_/label_/bg  :: Палеоцен
 #has_/label_/cs  :: Paleocén

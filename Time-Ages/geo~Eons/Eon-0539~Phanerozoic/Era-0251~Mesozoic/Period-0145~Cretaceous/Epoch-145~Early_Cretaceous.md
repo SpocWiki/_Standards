@@ -3,6 +3,18 @@ aliases:
   - Epoch~1~Early_Cretaceous
   - Epoch~1~Early Cretaceous
 ischart: LowerCretaceous
+has_id_wikidata: Q752187
+named_after: "[[_Standards/WikiData/WD~chalk,183670]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Early_Cretaceous,20078603]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -100500000-01-01T00:00:00Z
+start_time: -145000000-01-01T00:00:00Z
+Commons_category: Early Cretaceous
+sRGB_color_hex_triplet: 7ECD74
+Dewey_Decimal_Classification: "551.77"
 ---
 
 # [[Epoch-145~Early_Cretaceous]] 
@@ -13,6 +25,7 @@ ischart: LowerCretaceous
 
 #has_/previous_/item :: [[../Period-0201~Jurassic/Epoch-162~Late_Jurassic|Epoch~3~Late_Jurassic]] 
 #has_/next_/item :: [[Epoch-101~Late_Cretaceous]] 
+#is_/same_as :: [[WD~Early_Cretaceous,752187]] 
 
 A time period from 145.0 to 100.5 million years ago. 
 
@@ -20,10 +33,10 @@ A time period from 145.0 to 100.5 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The Early Cretaceous (geochronological name) or the Lower Cretaceous (chronostratigraphic name) is the earlier or lower of the two major divisions of the Cretaceous. It is usually considered to stretch from 145 Ma to 100.5 Ma.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Cretaceous)
+> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Cretaceous) 
+
 
 #has_/label_/bg  :: Ранна Креда
 #has_/label_/da  :: Tidlig Kridt

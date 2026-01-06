@@ -1,6 +1,22 @@
 ---
 aliases:
   - Induan
+has_id_wikidata: Q855153
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Induan,21708767]]"
+significant_place: "[[_Standards/WikiData/WD~Q28832371,28832371]]"
+named_by:
+  - "[[_Standards/WikiData/WD~Liubov_Dmitrievna_Kiparisova,54605830]]"
+  - "[[_Standards/WikiData/WD~Yuri_Nikolaevich_Popov,119138054]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Induan,134385243]]"
+coordinate_location: Point(119.70583333 31.07972222)
+start_time: -251902000-01-01T00:00:00Z
+end_time: -251200000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Indus_River,7348]]"
+sRGB_color_hex_triplet: B861A0
 ---
 # [[Age~1~Induan]]
 
@@ -10,11 +26,11 @@ aliases:
 
 #has_/previous_/item :: [[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]] 
 #has_/next_/item :: [[Age~2~Olenekian]] 
+#is_/same_as :: [[WD~Induan,855153]] 
 
 A time period from 251.902 to 251.2 million years ago. 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Induan** is the first age of the Early Triassic epoch in the geologic timescale, 
 > or the lowest stage of the Lower Triassic series in chronostratigraphy. 
@@ -27,7 +43,8 @@ A time period from 251.902 to 251.2 million years ago.
 >
 > The Induan is roughly coeval with the regional Feixianguanian Stage of China.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Induan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Induan) 
+
 
 #has_/label_/bg  :: Инд
 #has_/label_/cs  :: Indu

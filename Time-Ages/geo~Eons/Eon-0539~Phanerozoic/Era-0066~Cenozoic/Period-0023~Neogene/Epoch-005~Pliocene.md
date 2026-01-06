@@ -19,6 +19,23 @@ aliases:
   - pliocen
   - 上新世
   - Epoch~2~Pliocene
+has_id_wikidata: Q76259
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Pliocene,7344876]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -2580000-01-01T00:00:00Z
+named_by: "[[_Standards/WikiData/WD~Charles_Lyell,5333]]"
+Commons_category: Pliocene
+sRGB_color_hex_triplet: FFFF99
+start_time: -5333000-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%205%20Ma%20%28Zanclean%20Age%29.png
+Dewey_Decimal_Classification: "551.788"
 ---
 
 # [[Epoch-005~Pliocene]] 
@@ -34,6 +51,7 @@ aliases:
 
 #has_/previous_/item :: [[Epoch-023~Miocene]]  
 #has_/next_/item :: [[../Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch~1~Pleistocene]] 
+#is_/same_as :: [[WD~Pliocene,76259]] 
 
 A time period from 5.333 to 2.58 million years ago. 
 
@@ -42,7 +60,6 @@ The average Temperature was 2.5° higher than before the industrial Revolution.
 ![[../../../../../../xLarge/Earth/Geology/Earth-005_Ma_(Zanclean_Age).png]]  
 
 ## #has_/text_of_/abstract 
-
 
 > The **Pliocene** (  PLY-ə-seen, PLY-oh-; also Pleiocene) is the epoch in the geologic time scale 
 > that extends from 5.333 million to 2.58 million years ago. 
@@ -62,7 +79,8 @@ The average Temperature was 2.5° higher than before the industrial Revolution.
 > and the relatively cooler Pleistocene. 
 > The upper boundary was set at the start of the Pleistocene glaciations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pliocene)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pliocene) 
+
 
 #has_/label_/bg  :: Плиоцен
 #has_/label_/cs  :: Pliocén

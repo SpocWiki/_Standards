@@ -1,3 +1,23 @@
+---
+aliases:
+  - Zanclean
+has_id_wikidata: Q146094
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Giuseppe_Seguenza,3771433]]"
+named_after: "[[_Standards/WikiData/WD~Messana,4023782]]"
+significant_place: "[[_Standards/WikiData/WD~Eraclea_Minoa,18451539]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Zanclean,24068595]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Zanclean,133807943]]"
+coordinate_location: Point(13.28055556 37.39166667)
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Etapa4muda.jpg
+sRGB_color_hex_triplet: FFFFB3
+Commons_category: Zanclean
+end_time: -3600000-01-01T00:00:00Z
+start_time: -5333000-01-01T00:00:00Z
+---
 # [[Age~1~Zanclean]] 
 
 #is_a_/time_/Age 
@@ -6,6 +26,7 @@
 
 #has_/previous_/item :: [[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]] 
 #has_/next_/item :: [[Age~2~Piacenzian]] 
+#is_/same_as :: [[WD~Zanclean,146094]] 
 
 A time period from 5.333 to 3.6 million years ago. 
 
@@ -17,7 +38,8 @@ A time period from 5.333 to 3.6 million years ago.
 >
 > The Zanclean can be correlated with regionally used stages, such as the Opoitian of New Zealand, and the Tabianian or Dacian of Central Europe. It also corresponds to the late Hemphillian to mid-Blancan North American Land Mammal Ages. In California, the Zanclean roughly corresponds to the middle part of the Delmontian stage.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Zanclean)
+> [Wikipedia](https://en.wikipedia.org/wiki/Zanclean) 
+
 
 #has_/label_/bg  :: Занклѿки
 #has_/label_/cs  :: Zancl

@@ -3,6 +3,17 @@ aliases:
   - Epoch~2~Late_Cretaceous
   - Epoch~2~Late Cretaceous
 ischart: UpperCretaceous
+has_id_wikidata: Q338199
+named_after: "[[_Standards/WikiData/WD~chalk,183670]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Late_Cretaceous,20078604]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -66000000-01-01T00:00:00Z
+start_time: -100500000-01-01T00:00:00Z
+Commons_category: Late Cretaceous
+sRGB_color_hex_triplet: A6D468
 ---
 
 # [[Epoch-101~Late_Cretaceous]] 
@@ -13,6 +24,7 @@ ischart: UpperCretaceous
 
 #has_/previous_/item :: [[Epoch-145~Early_Cretaceous]] 
 #has_/next_/item :: [[../../Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene|Epoch-066~Paleocene]] 
+#is_/same_as :: [[WD~Late_Cretaceous,338199]] 
 
 A time period from 100.5 to 66.0 million years ago. 
 
@@ -20,10 +32,9 @@ A time period from 100.5 to 66.0 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The Late Cretaceous (100.5–66 Ma) is the younger of two epochs into which the Cretaceous Period is divided in the geologic time scale. Rock strata from this epoch form the Upper Cretaceous Series. The Cretaceous is named after creta, the Latin word for the white limestone known as chalk. The chalk of northern France and the white cliffs of south-eastern England date from the  Cretaceous Period.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Cretaceous)
+> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Cretaceous)  
 
 
 #has_/label_/bg  :: Къѿна Креда

@@ -1,6 +1,21 @@
 ---
 aliases:
   - Anisian
+has_id_wikidata: Q549024
+named_by:
+  - "[[_Standards/WikiData/WD~Carl_Diener,94065]]"
+  - "[[_Standards/WikiData/WD~Wilhelm_Heinrich_Waagen,2655440]]"
+named_after: "[[_Standards/WikiData/WD~Enns,217524]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Anisian,21605751]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -247000000-01-01T00:00:00Z
+Commons_category: Anisian
+sRGB_color_hex_triplet: C986B6
+coordinate_location: Point(28.8022 45.0742)
+end_time: -242000000-01-01T00:00:00Z
 ---
 # [[Age~1~Anisian]] 
 
@@ -10,12 +25,12 @@ aliases:
 
 #has_/previous_/item :: [[../Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]] 
 #has_/next_/item :: [[Age~2~Ladinian]] 
+#is_/same_as :: [[WD~Anisian,549024]] 
 
 A time period from 247.2 to 242 million years ago. 
 
 
 ## #has_/text_of_/abstract 
-
 
 > In the geologic timescale, the **Anisian** is the lower stage 
 > or earliest age of the Middle Triassic series or epoch 
@@ -24,7 +39,8 @@ A time period from 247.2 to 242 million years ago.
 > The Anisian Age succeeds the Olenekian Age (part of the Lower Triassic Epoch) 
 > and precedes the Ladinian Age.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Anisian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Anisian) 
+
 
 #has_/label_/bg  :: пниз
 #has_/label_/cs  :: Anis

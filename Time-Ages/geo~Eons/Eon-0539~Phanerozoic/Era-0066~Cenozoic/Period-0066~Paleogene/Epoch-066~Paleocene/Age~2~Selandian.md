@@ -1,3 +1,22 @@
+---
+aliases:
+  - Selandian
+has_id_wikidata: Q503349
+significant_place: "[[_Standards/WikiData/WD~Zumaia,229659]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Alfred_Rosenkrantz,6079980]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Selandian,24068668]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Selandian,133871292]]"
+start_time: -61600000-01-01T00:00:00Z
+coordinate_location: Point(-2.25944444 43.30055556)
+named_after: "[[_Standards/WikiData/WD~Zealand,25535]]"
+end_time: -59200000-01-01T00:00:00Z
+Commons_category: Selandian
+sRGB_color_hex_triplet: FEC274
+---
 # [[Age~2~Selandian]] 
 
 #is_a_/time_/Age 
@@ -8,15 +27,16 @@ A time period from 61.6 to 59.2 million years ago.
 
 #has_/previous_/item :: [[Age~1~Danian]] 
 #has_/next_/item :: [[Age~3~Thanetian]] 
+#is_/same_as :: [[WD~Selandian,503349]] 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-060_Ma_(Selandian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 
-
 > The **Selandian** is a stage in the Paleocene. It spans the time between 61.6 and 59.2 Ma. It is preceded by the [[Age~1~Danian]] and followed by the [[Age~3~Thanetian]]. Sometimes the Paleocene is subdivided in subepochs, in which the Selandian forms the "middle Paleocene".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Selandian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Selandian) 
+
 
 #has_/label_/bg  :: Селанд
 #has_/label_/cs  :: Seland

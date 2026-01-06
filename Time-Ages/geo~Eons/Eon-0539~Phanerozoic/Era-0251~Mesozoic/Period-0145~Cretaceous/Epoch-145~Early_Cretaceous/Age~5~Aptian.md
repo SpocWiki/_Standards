@@ -1,3 +1,22 @@
+---
+aliases:
+  - Aptian
+has_id_wikidata: Q622265
+named_after: "[[_Standards/WikiData/WD~Apt,207632]]"
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Aptian,21757623]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -113000000-01-01T00:00:00Z
+start_time: -125000000-01-01T00:00:00Z
+Commons_category: Aptian
+sRGB_color_hex_triplet: BFE19F
+---
 # [[Age~5~Aptian]] 
 
 #is_a_/time_/Age 
@@ -6,6 +25,7 @@
 
 #has_/previous_/item :: [[Age~4~Barremian]] 
 #has_/next_/item :: [[Age~6~Albian]] 
+#is_/same_as :: [[WD~Aptian,622265]] 
 
 A time period from 121.4 to 113.0 million years ago. 
 
@@ -13,7 +33,6 @@ A time period from 121.4 to 113.0 million years ago.
 ![[../../../../../../../xLarge/Earth/Geology/Earth-120_Ma_(Aptian_Age).png]] 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Aptian** is an age in the geologic timescale or a stage in the stratigraphic column. 
 > It is a subdivision of the Early or Lower Cretaceous Epoch or Series 
@@ -32,7 +51,8 @@ A time period from 121.4 to 113.0 million years ago.
 > The Aptian extinction was a minor extinction event 
 > hypothesized to have occurred around 116 to 117 Ma.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Aptian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Aptian) 
+
 
 #has_/label_/bg  :: ппт
 #has_/label_/cs  :: Apt

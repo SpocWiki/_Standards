@@ -3,6 +3,16 @@ aliases:
   - Tarantian Age
   - Late_Pleistocene
   - Late Pleistocene
+has_id_wikidata: Q498831
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Late_Pleistocene,24068315]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -9700-01-01T00:00:00Z
+Commons_category: Late Pleistocene
+start_time: -129000-01-01T00:00:00Z
+sRGB_color_hex_triplet: FFF2D3
 ---
 
 # [[Age~4~Late_Pleistocene]] 
@@ -16,6 +26,7 @@ aliases:
 
 #has_/previous_/item :: [[Age~3~Chibanian]]   
 #has_/next_/item :: [[../Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]   
+#is_/same_as :: [[WD~Late_Pleistocene,498831 ]] 
 
 A time period from 129 to 11.7 thousand years ago, right before the [[../../../../../../../Knowledge/Economy/Agricultural_Revolution|Agricultural_Revolution]]. [[../../../../../../bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo/Homo_sapiens|Homo_sapiens]] developed and migrated out of [[../../../../../../Earth/Continent/Africa|Africa]]. 
 
@@ -33,7 +44,8 @@ A time period from 129 to 11.7 thousand years ago, right before the [[../../../.
 > 
 > The estimated beginning of the Tarantian is the start of the Eemian interglacial period (Marine Isotope Stage 5). It is held to end with the termination of the Younger Dryas, some 11,700 years ago when the Holocene Epoch began.The term Upper Pleistocene is currently in use as a provisional or "quasi-formal" designation by the International Union of Geological Sciences (IUGS). Although the three oldest ages of the Pleistocene (the Gelasian, the Calabrian and the Chibanian) have been officially defined, the late Pleistocene has yet to be formally defined, along with consideration of a proposed Anthropocene sub-division of the Holocene.The main feature of the late Pleistocene was glaciation, for example the Würm glaciation in the Alps of Europe, to 14 ka, and the subsequent Younger Dryas. Most of the world's large (megafaunal) animals  became extinct during the Late Pleistocene as part of the Quaternary extinction event, a trend that continued into the Holocene. In palaeoanthropology, the late Pleistocene contains the Upper Palaeolithic stage of human development, including the early human migrations of modern humans outside of Africa, and the extinction of the last remaining archaic human species.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Pleistocene)
+> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Pleistocene) 
+
 
 #has_/label_/bg  :: Къѿен плейѿтоцен
 #has_/label_/cs  :: Pozdní pleistocén

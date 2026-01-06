@@ -17,6 +17,25 @@ aliases:
   - Miocénico
   - miocen
   - Epoch~1~Miocene
+has_id_wikidata: Q76267
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Miocene,7063284]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -23030000-01-01T00:00:00Z
+named_by: "[[_Standards/WikiData/WD~Charles_Lyell,5333]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%2015%20Ma%20%28Langhian%20Age%29.png
+sRGB_color_hex_triplet: FFFF00
+end_time: -5333000-01-01T00:00:00Z
+Commons_category: Miocene
+Dewey_Decimal_Classification: "551.787"
 ---
 
 # [[Epoch-023~Miocene]] 
@@ -25,6 +44,7 @@ aliases:
 
 #has_/previous_/item :: [[../Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]  
 #has_/next_/item :: [[Epoch-005~Pliocene]] 
+#is_/same_as :: [[WD~Miocene,76267]] 
 
 #has_/abbreviation :: N1
 #has_/time_/started :: -23.030e6 
@@ -41,7 +61,6 @@ A time period from 23.03 to 5.333 million years ago.
 ![[../../../../../../xLarge/Earth/Geology/Earth-015_Ma_(Langhian_Age).png]] 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Miocene** ( MY-ə-seen, -⁠oh-) is the first geological epoch of the Neogene Period 
 > and extends from about 23.03 to 5.333 million years ago (Ma). 
@@ -67,7 +86,7 @@ A time period from 23.03 to 5.333 million years ago.
 > causing the Mediterranean Sea to nearly completely evaporate, 
 > in an event called the [[Messinian_salinity_crisis]]. 
 > The Strait of Gibraltar opened and the Mediterranean refilled 
-> at the Miocene–Pliocene boundary, in an event called the [[Zanclean_flood]].
+> at the Miocene–Pliocene boundary, in an event called the [[../Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood]].
 >
 > The apes first evolved, arose, and diversified during the early Miocene 
 > (Aquitanian and Burdigalian Stages), becoming widespread in the Old World. 
@@ -87,7 +106,8 @@ A time period from 23.03 to 5.333 million years ago.
 > affecting monsoonal patterns in Asia, 
 > which were interlinked with glacial periods in the northern hemisphere.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Miocene)
+> [Wikipedia](https://en.wikipedia.org/wiki/Miocene) 
+
 
 #has_/label_/bg  :: Миоцен
 #has_/label_/cs  :: Miocén

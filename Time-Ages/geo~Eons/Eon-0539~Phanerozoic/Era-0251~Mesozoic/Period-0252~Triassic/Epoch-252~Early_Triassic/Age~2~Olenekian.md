@@ -1,6 +1,20 @@
 ---
 aliases:
   - Olenekian
+has_id_wikidata: Q914322
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Olenekian,21586916]]"
+named_by:
+  - "[[_Standards/WikiData/WD~Liubov_Dmitrievna_Kiparisova,54605830]]"
+  - "[[_Standards/WikiData/WD~Yuri_Nikolaevich_Popov,119138054]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -251200000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Olenyok,26799]]"
+end_time: -247200000-01-01T00:00:00Z
+coordinate_location: Point(78.02472222 31.96527778)
+sRGB_color_hex_triplet: C26AA5
 ---
 # [[Age~2~Olenekian]] 
 
@@ -10,6 +24,7 @@ aliases:
 
 #has_/previous_/item :: [[Age~1~Induan]] 
 #has_/next_/item :: [[../Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]] 
+#is_/same_as :: [[WD~Olenekian,914322]] 
 
 A time period from 247.2 to 251.2 million years ago. 
 
@@ -29,7 +44,8 @@ A time period from 247.2 to 251.2 million years ago.
 > The Olenekian saw the deposition of a large part of the Buntsandstein in Europe. 
 > The Olenekian is roughly coeval with the regional Yongningzhenian Stage used in China.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Olenekian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Olenekian) 
+
 
 #has_/label_/bg  :: Оленек
 #has_/label_/cs  :: Olenek

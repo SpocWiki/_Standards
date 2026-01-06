@@ -19,6 +19,19 @@ aliases:
   - chattij
   - 恰特期
 has_id_wikidata: Q502171
+named_by: "[[_Standards/WikiData/WD~Theodor_Fuchs,89937]]"
+named_after: "[[_Standards/WikiData/WD~Chatti,164076]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Chattian,24068513]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Chattian,133854302]]"
+end_time: -23030000-01-01T00:00:00Z
+start_time: -28100000-01-01T00:00:00Z
+Commons_category: Chattian
+sRGB_color_hex_triplet: FEE4B2
+coordinate_location: Point(12.467730555 43.646613888)
 ---
 # [[Age~2~Chattian]] 
 

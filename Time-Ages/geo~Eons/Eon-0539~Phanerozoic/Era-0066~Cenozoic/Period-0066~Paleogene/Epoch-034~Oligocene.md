@@ -1,6 +1,25 @@
 ---
 aliases:
   - Oligocene
+  - Oligozän
+has_id_wikidata: Q101873
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Oligocene,8904579]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -23030000-01-01T00:00:00Z
+named_by: "[[_Standards/WikiData/WD~Heinrich_Ernst_Beyrich,64133]]"
+Commons_category: Oligocene
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Indricotherium11.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Palaeocastor%20BW.jpg
+sRGB_color_hex_triplet: FEC386
+start_time: -33900000-01-01T00:00:00Z
+Dewey_Decimal_Classification: "551.785"
 ---
 
 # [[Epoch-034~Oligocene]] 
@@ -11,13 +30,13 @@ aliases:
 
 #has_/previous_/item :: [[Epoch-056~Eocene]] 
 #has_/next_/item :: [[../Period-0023~Neogene/Epoch-023~Miocene|Epoch~1~Miocene]] 
+#is_/same_as :: [[WD~Oligocene,101873]] 
 
 A time period from 33.9 to 23.03 million years ago. 
 
 ![[../../../../../../xLarge/Earth/Geology/Earth-030_Ma_(Rupelian_Age).png]] 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Oligocene** (IPA:  OL-ə-gə-seen, -⁠goh-) is a geologic epoch of the [[../Period-0066~Paleogene]] and extends from about 33.9 million to 23 million years before the present (33.9±0.1 to 23.03±0.05 Ma). As with other older geologic periods, the rock beds that define the epoch are well identified but the exact dates of the start and end of the epoch are slightly uncertain. 
 > 
@@ -30,7 +49,8 @@ A time period from 33.9 to 23.03 million years ago.
 > The start of the Oligocene is marked by a notable extinction event called the Grande Coupure; 
 > it featured the replacement of European fauna with Asian fauna, except for the endemic rodent and marsupial families. By contrast, the Oligocene–Miocene boundary is not set at an easily identified worldwide event but rather at regional boundaries between the warmer late Oligocene and the relatively cooler Miocene.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Oligocene)
+> [Wikipedia](https://en.wikipedia.org/wiki/Oligocene) 
+
 
 #has_/label_/bg  :: Олигоцен
 #has_/label_/cs  :: Oligocén

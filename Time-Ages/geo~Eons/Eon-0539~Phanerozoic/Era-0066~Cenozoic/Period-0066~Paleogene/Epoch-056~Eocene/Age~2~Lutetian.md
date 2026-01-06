@@ -1,3 +1,22 @@
+---
+aliases:
+  - Lutetian
+has_id_wikidata: Q514893
+named_after: "[[_Standards/WikiData/WD~Lutetia,270273]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Albert_de_Lapparent,2739611]]"
+significant_place: "[[_Standards/WikiData/WD~Gorrondatxe,8210861]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Lutetian,24069006]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Lutetian,133864043]]"
+coordinate_location: Point(-3.014336111 43.379575)
+Commons_category: Lutetian
+sRGB_color_hex_triplet: FEB98A
+end_time: -41200000-01-01T00:00:00Z
+start_time: -47800000-01-01T00:00:00Z
+---
 # [[Age~2~Lutetian]] 
 
 #is_a_/time_/Age 
@@ -8,15 +27,17 @@ A time period from 47.8 to 41.2 million years ago.
 
 #has_/previous_/item :: [[Age~1~Ypresian]] 
 #has_/next_/item :: [[Age~3~Bartonian]] 
+#is_/same_as :: [[WD~Lutetian,514893]] 
+
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-045_Ma_(Lutetian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 
-
 > The **Lutetian** is, in the geologic timescale, a stage or age in the Eocene. It spans the time between 47.8 and 41.2 Ma. The Lutetian is preceded by the [[Age~1~Ypresian]] and is followed by the [[Age~3~Bartonian]]. Together with the Bartonian it is sometimes referred to as the Middle Eocene Subepoch.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lutetian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lutetian) 
+
 
 #has_/label_/bg  :: Лютеѿ
 #has_/label_/cs  :: Lutet
