@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Tenth_Russo-Turkish_War
+  - Crimean War
 has_id_wikidata: Q174205
 instance_of: "[[_Standards/WikiData/WD~armed_conflict,350604]]"
 described_by_source:
@@ -21,75 +23,15 @@ Commons_category: Russo-Turkish War (1877–1878)
 
 ## #has_/text_of_/abstract 
 
-> The Crimean War was fought between the Russian Empire 
-> and an alliance of the Ottoman Empire, the Second French Empire, the United Kingdom of Great Britain and Ireland, and the Kingdom of Sardinia-Piedmont from October 1853 to February 1856. 
+> The Russo-Turkish War (1877–1878) was a conflict between the Ottoman Empire 
+> and a coalition led by the Russian Empire which included 
+> Romania, Serbia, and Montenegro.  
 > 
-> Geopolitical causes of the war included 
-> - the "Eastern question" (the decline of the Ottoman Empire), 
-> - expansion of Imperial Russia in the preceding Russo-Turkish wars, and 
-> - the British and French preference to preserve the Ottoman Empire 
->   to maintain the balance of power in the Concert of Europe.
+> Precipitating factors included the Russian goals of recovering territorial losses endured during the Crimean War of 1853–1856, re-establishing itself in the Black Sea and supporting the political movement attempting to free Balkan nations from the Ottoman Empire. In Romania the war is called the Russo-Romanian-Turkish War (1877–1878) or the Romanian War of Independence (1877–1878).
+> 
+> The Russian-led coalition won the war, pushing the Ottomans back all the way to the gates of Constantinople, leading to the intervention of the Western European great powers. As a result, Russia succeeded in claiming provinces in the Caucasus, namely Kars and Batum, and also annexed the Budjak region. The principalities of Romania, Serbia, and Montenegro, each of which had had de facto sovereignty for some years, formally proclaimed independence from the Ottoman Empire. After almost five centuries of Ottoman domination (1396–1878), Bulgaria emerged as an autonomous state with support and military intervention from Russia.
 >
-> The war's proximate cause was a dispute between France and Russia 
-> over the rights of Catholic and Orthodox minorities in Palestine. 
-> 
-> After the Sublime Porte refused Tsar Nicholas I's demand 
-> that the Empire's Orthodox subjects be placed under his protection, 
-> Russian troops occupied the Danubian Principalities in July 1853. 
-> 
-> The Ottomans declared war on Russia in October. Fearing the growth of Russian influence 
-> and compelled by public outrage over the annihilation of the Ottoman squadron at Sinop, 
-> Britain and France joined the war on the Ottoman side in March 1854. 
-> The Russian advance was halted at Silistria in June.
->
-> In September 1854, after extended preparations, allied forces landed in Crimea 
-> in an attempt to capture Russia's main naval base in the Black Sea, Sevastopol. 
-> 
-> They scored an early victory at the Battle of the Alma. 
-> The Russians counterattacked in late October in what became the Battle of Balaclava 
-> and were repulsed, and a second counterattack at Inkerman ended in a stalemate. 
-> The front settled into the 11-month Siege of Sevastopol, 
-> involving brutal conditions for troops on both sides. 
-> 
-> Smaller military actions took place in the Caucasus (1853–1855), 
-> the White Sea (July–August 1854) and the North Pacific (1854–1855). 
-> The Kingdom of Sardinia-Piedmont entered on the allies' side in 1855.
->
-> Sevastopol ultimately fell after a renewed French assault on the Malakoff redoubt 
-> in September 1855. 
-> Diplomatically isolated and facing the prospect of invasion from the west if the war continued, 
-> Russia sued for peace in March 1856. 
-> 
-> France and Britain welcomed the development due to the conflict's domestic unpopularity. 
-> The Treaty of Paris, signed on 30 March 1856, ended the war. 
-> 
-> It forbade Russia to base warships in the Black Sea. 
-> The Ottoman vassal states of Wallachia and Moldavia became largely independent. 
-> Christians in the Ottoman Empire gained a degree of official equality, 
-> and the Orthodox Church regained control of the Christian churches in dispute.
->
-> The Crimean War was one of the first conflicts 
-> in which military forces used modern technologies such as 
-> explosive naval shells, railways, and telegraphs. 
-> 
-> It was also one of the first to be documented extensively 
-> in written reports and in photographs. 
-> 
-> The war quickly symbolized logistical, medical and tactical failures and mismanagement. 
-> The reaction in Britain led to a demand for the professionalization of medicine, 
-> most famously achieved by Florence Nightingale, who gained worldwide attention for pioneering modern nursing while she treated the wounded.
->
-> The Crimean War also marked a turning point for the Russian Empire. 
-> It weakened the Imperial Russian Army, drained the treasury, 
-> and undermined its influence in Europe. 
-> 
-> The defeat forced Russia's educated elites to identify the country's fundamental problems. 
-> It became a catalyst for reforms of Russia's social institutions, 
-> including the emancipation reform of 1861, which abolished serfdom in Russia, 
-> and overhauls in the justice system, local self-government, education, and military service.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Crimean%20War) 
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Russo-Turkish%20War%20(1877%E2%80%931878)) 
 
 ## Confidential Links & Embeds: 
 

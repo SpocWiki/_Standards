@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Greco-Turkish_War
+  - Greco-Turkish War
 has_id_wikidata: Q87138
 instance_of: "[[_Standards/WikiData/WD~war,198]]"
 locations: "[[_Standards/WikiData/WD~Anatolia,51614]]"

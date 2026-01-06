@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Scramble_for_Africa
+  - Scramble for Africa
 has_id_wikidata: Q179848
 instance_of: "[[_Standards/WikiData/WD~partition,518554]]"
 facet_of:

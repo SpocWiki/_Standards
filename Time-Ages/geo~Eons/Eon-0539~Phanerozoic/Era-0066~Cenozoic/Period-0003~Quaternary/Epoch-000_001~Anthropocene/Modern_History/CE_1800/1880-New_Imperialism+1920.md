@@ -1,5 +1,7 @@
 ---
 aliases:
+  - New_Imperialism
+  - New Imperialism
 has_id_wikidata: Q304121
 instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
 start_time: 1880-01-01T00:00:00Z

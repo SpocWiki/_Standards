@@ -1,5 +1,8 @@
 ---
 aliases:
+  - War_of_the_Pacific
+  - War of the Pacific 
+  - Guerra del Pacífico
 has_id_wikidata: Q152004
 described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 named_after:

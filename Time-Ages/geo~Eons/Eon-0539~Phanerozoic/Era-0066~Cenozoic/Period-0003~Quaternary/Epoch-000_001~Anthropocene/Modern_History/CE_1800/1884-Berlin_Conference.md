@@ -3,14 +3,45 @@ aliases:
   - Berlin Conference
   - 1884-Berlin_Conference
   - 1884-Berlin Conference
-has_id_wikidata: ''
+has_id_wikidata: Q13582
+interested_in:
+  - "[[_Standards/WikiData/WD~colony,133156]]"
+  - "[[_Standards/WikiData/WD~German_colonial_empire,329618]]"
+participant:
+  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
+  - "[[_Standards/WikiData/WD~Austria_Hungary,28513]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Belgium,31]]"
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Netherlands,55]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+  - "[[_Standards/WikiData/WD~German_Empire,43287]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Portugal,45670]]"
+  - "[[_Standards/WikiData/WD~Union_between_Sweden_and_Norway,62589]]"
+facet_of: "[[_Standards/WikiData/WD~German_colonial_empire,329618]]"
+main_subject: "[[_Standards/WikiData/WD~German_colonial_empire,329618]]"
+instance_of: "[[_Standards/WikiData/WD~international_conference,18564543]]"
+end_time: 1885-02-26T00:00:00Z
+start_time: 1884-11-15T00:00:00Z
+coordinate_location: Point(13.38253 52.51245)
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Berlin,64]]"
+location: "[[_Standards/WikiData/WD~Germany,183]]"
+country: "[[_Standards/WikiData/WD~Germany,183]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Afrikakonferenz.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-BerlinConference-article.ogg
+Commons_category: Berlin Conference (1884)
+Wolfram_Language_entity_code: Entity["HistoricalEvent", "BerlinConference1885"]
 ---
 
 # [[1884-Berlin_Conference]] 
 
 #is_/different_from :: [[1878-Congress_of_Berlin]] 
 
-#is_/same_as :: [[WD~Berlin_Conference]] 
+#is_/same_as :: [[WD~Berlin_Conference,13582]] 
 
 ## #has_/text_of_/abstract 
 
