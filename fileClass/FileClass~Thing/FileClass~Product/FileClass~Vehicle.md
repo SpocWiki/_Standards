@@ -227,7 +227,7 @@ The time needed to accelerate the vehicle from a given start velocity to a given
 
 Typical unit code(s): SEC for seconds
 
-\* Note: There are unfortunately no standard unit codes for seconds/0..100 km/h or seconds/0..60 mph. Simply use "SEC" for seconds and indicate the velocities in the [[name]] of the [[QuantitativeValue]], or use [[valueReference]] with a [[QuantitativeValue]] of 0..60 mph or 0..100 km/h to specify the reference speeds.
+\* Note: There are unfortunately no standard unit codes for seconds/0..100 km/h or seconds/0..60 mph. Simply use "SEC" for seconds and indicate the velocities in the [[../../../schema-org/Property/has_name|Name]] of the [[QuantitativeValue]], or use [[valueReference]] with a [[QuantitativeValue]] of 0..60 mph or 0..100 km/h to specify the reference speeds.
 
 AccelerationTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
@@ -356,7 +356,7 @@ The permitted weight of passengers and cargo, EXCLUDING the weight of the empty 
 Typical unit code(s): KGM for kilogram, LBR for pound
 
 \* Note 1: Many databases specify the permitted TOTAL weight instead, which is the sum of [[../../../Dimension/Mass/Weight]] and [[payload]]
-\* Note 2: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.
+\* Note 2: You can indicate additional information in the [[../../../schema-org/Property/has_name|Name]] of the [[../../../schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] node.
 \* Note 3: You may also link to a [[QualitativeValue]] node that provides additional information using [[valueReference]].
 \* Note 4: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.
 
@@ -389,7 +389,7 @@ The permitted vertical load (TWR) of a trailer attached to the vehicle. Also ref
 
 Typical unit code(s): KGM for kilogram, LBR for pound
 
-\* Note 1: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.
+\* Note 1: You can indicate additional information in the [[../../../schema-org/Property/has_name|Name]] of the [[QuantitativeValue]] node.
 \* Note 2: You may also link to a [[QualitativeValue]] node that provides additional information using [[valueReference]].
 \* Note 3: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.
 
@@ -399,7 +399,7 @@ TongueWeight:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 The permitted weight of a trailer attached to the vehicle.
 
 Typical unit code(s): KGM for kilogram, LBR for pound
-\* Note 1: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.
+\* Note 1: You can indicate additional information in the [[../../../schema-org/Property/has_name|Name]] of the [[QuantitativeValue]] node.
 \* Note 2: You may also link to a [[QualitativeValue]] node that provides additional information using [[valueReference]].
 \* Note 3: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.
 
@@ -457,7 +457,7 @@ The permitted total weight of the loaded vehicle, including passengers and cargo
 
 Typical unit code(s): KGM for kilogram, LBR for pound
 
-\* Note 1: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.
+\* Note 1: You can indicate additional information in the [[../../../schema-org/Property/has_name|Name]] of the [[QuantitativeValue]] node.
 \* Note 2: You may also link to a [[QualitativeValue]] node that provides additional information using [[valueReference]].
 \* Note 3: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.
 

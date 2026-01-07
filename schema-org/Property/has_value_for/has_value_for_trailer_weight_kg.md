@@ -40,7 +40,7 @@ The permitted weight of a trailer attached to the vehicle.
 
 
 Typical unit code(s): KGM for kilogram, LBR for pound
-* Note 1: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.
+* Note 1: You can indicate additional information in the [[../has_name|Name]] of the [[QuantitativeValue]] node.
 * Note 2: You may also link to a [[QualitativeValue]] node that provides additional information using [[valueReference]].
 * Note 3: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.
 

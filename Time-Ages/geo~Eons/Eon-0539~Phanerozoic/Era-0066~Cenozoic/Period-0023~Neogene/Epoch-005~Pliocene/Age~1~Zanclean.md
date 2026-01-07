@@ -34,9 +34,15 @@ A time period from 5.333 to 3.6 million years ago.
 
 ## #has_/text_of_/abstract 
 
-> The **Zanclean** is the lowest stage or earliest age on the geologic time scale of the Pliocene. It spans the time between 5.332 ± 0.005 Ma (million years ago) and 3.6 ± 0.005 Ma. It is preceded by the [[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]] of the Miocene Epoch, and followed by the [[Age~2~Piacenzian]] Age.
+> The **Zanclean** is the lowest stage or earliest age on the geologic time scale of the Pliocene. It spans the time between 5.332 ± 0.005 Ma (million years ago) and 3.6 ± 0.005 Ma. 
+> It is preceded by the [[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]] of the Miocene Epoch, 
+> and followed by the [[Age~2~Piacenzian]] Age.
 >
-> The Zanclean can be correlated with regionally used stages, such as the Opoitian of New Zealand, and the Tabianian or Dacian of Central Europe. It also corresponds to the late Hemphillian to mid-Blancan North American Land Mammal Ages. In California, the Zanclean roughly corresponds to the middle part of the Delmontian stage.
+> The Zanclean can be correlated with regionally used stages, such as 
+> - the Opoitian of New Zealand, and 
+> - the Tabianian or Dacian of Central Europe. 
+> It also corresponds to the late Hemphillian to mid-Blancan North American Land Mammal Ages. 
+> In California, the Zanclean roughly corresponds to the middle part of the Delmontian stage.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zanclean) 
 

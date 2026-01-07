@@ -40,7 +40,7 @@ equivalent_class:
 #is_/same_as :: [[_Standards/WikiData/WD~identifier,853614]] 
 #is_/similar_to :: [[has_name]] 
 
-But different from [[has_name/Name|Name]]s, IDs are usually 
+But different from [[has_name|Name]]s, IDs are usually 
 - unique 
 - standardized Format 
 - not localized 

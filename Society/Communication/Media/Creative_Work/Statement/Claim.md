@@ -47,7 +47,7 @@ Claims are subject to debate.
 
 The content of a claim can be summarized with the [[text]] property. 
 Variations on well known claims can have their common identity indicated via [[sameAs]] links, 
-and summarized with a [[name]]. 
+and summarized with a [[../../../../../schema-org/Property/has_name|Name]]. 
 
 Ideally, a [[Claim]] description includes enough contextual information 
 to minimize the risk of ambiguity or inclarity. 
