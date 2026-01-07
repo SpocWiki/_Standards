@@ -20,10 +20,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Zoonotic-helminths-aff
 # [[Internal_Parasite]] 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Metabolism/Parasitism/Internal_Parasite|Internal_Parasite]] 

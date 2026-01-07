@@ -75,17 +75,17 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Liberalism,12269868]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Liberalism|Liberalism]] 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Humanism/Liberalism|Liberalism]] 
 
-### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Liberalism.public|Liberalism.public]] 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Humanism/Liberalism.public|Liberalism.public]] 
 
-### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Liberalism.internal|Liberalism.internal]] 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Humanism/Liberalism.internal|Liberalism.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Liberalism.protect|Liberalism.protect]] 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Humanism/Liberalism.protect|Liberalism.protect]] 
 
-### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Liberalism.private|Liberalism.private]] 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Humanism/Liberalism.private|Liberalism.private]] 
 
-### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Liberalism.personal|Liberalism.personal]] 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Humanism/Liberalism.personal|Liberalism.personal]] 
 
-### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Liberalism.secret|Liberalism.secret]] 
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Humanism/Liberalism.secret|Liberalism.secret]] 
 

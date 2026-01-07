@@ -38,9 +38,6 @@ aliases:
 - [¢](https://en.wikipedia.org/wiki/%C2%A2 "¢") — Claim  
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Legal_Shorthand|Legal_Shorthand]] 

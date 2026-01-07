@@ -17,3 +17,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Belief) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Truth/Belief|Belief]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Truth/Belief.public|Belief.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Truth/Belief.internal|Belief.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Truth/Belief.protect|Belief.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Truth/Belief.private|Belief.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Truth/Belief.personal|Belief.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Truth/Belief.secret|Belief.secret]] 
+

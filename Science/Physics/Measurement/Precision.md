@@ -4,10 +4,6 @@
 Precision describes the Influence of **random errors** (a measure of statistical variability), 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Physics/Measurement/Precision|Precision]] 

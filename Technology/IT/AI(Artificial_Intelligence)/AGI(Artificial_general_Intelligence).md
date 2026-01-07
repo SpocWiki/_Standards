@@ -2,8 +2,6 @@
 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/IT/AI(Artificial_Intelligence)/AGI(Artificial_general_Intelligence)|AGI(Artificial_general_Intelligence)]] 

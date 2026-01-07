@@ -117,3 +117,20 @@ Wolfram_Language_entity_code: Entity["Person", "ErichFromm::y6933"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Erich%20Fromm) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Fromm,Erich|Fromm,Erich]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Fromm,Erich.public|Fromm,Erich.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Fromm,Erich.internal|Fromm,Erich.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Fromm,Erich.protect|Fromm,Erich.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Fromm,Erich.private|Fromm,Erich.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Fromm,Erich.personal|Fromm,Erich.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Fromm,Erich.secret|Fromm,Erich.secret]] 
+

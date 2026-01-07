@@ -41,3 +41,20 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-zero-sum%20game.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zero-sum%20game) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Ideology/Economic_Ideology/Zero-Sum_Game|Zero-Sum_Game]] 
+
+### #is_/same_as :: [[/_public/Society/Ideology/Economic_Ideology/Zero-Sum_Game.public|Zero-Sum_Game.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Ideology/Economic_Ideology/Zero-Sum_Game.internal|Zero-Sum_Game.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Ideology/Economic_Ideology/Zero-Sum_Game.protect|Zero-Sum_Game.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Ideology/Economic_Ideology/Zero-Sum_Game.private|Zero-Sum_Game.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Ideology/Economic_Ideology/Zero-Sum_Game.personal|Zero-Sum_Game.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Ideology/Economic_Ideology/Zero-Sum_Game.secret|Zero-Sum_Game.secret]] 
+

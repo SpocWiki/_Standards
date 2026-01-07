@@ -146,17 +146,17 @@ OpenStreetMap_tag_or_key: Tag:religion=zoroastrian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Zoroastrianism|Zoroastrianism]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism|Zoroastrianism]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Zoroastrianism.public|Zoroastrianism.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism.public|Zoroastrianism.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Zoroastrianism.internal|Zoroastrianism.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism.internal|Zoroastrianism.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Zoroastrianism.protect|Zoroastrianism.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism.protect|Zoroastrianism.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Zoroastrianism.private|Zoroastrianism.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism.private|Zoroastrianism.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Zoroastrianism.personal|Zoroastrianism.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism.personal|Zoroastrianism.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Zoroastrianism.secret|Zoroastrianism.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism.secret|Zoroastrianism.secret]] 
 

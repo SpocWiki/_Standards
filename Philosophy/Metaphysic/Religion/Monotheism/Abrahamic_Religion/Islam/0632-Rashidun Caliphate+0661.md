@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 0632-06-01 
 has_time_stopped: 0661-07-31 
 aliases:
@@ -112,17 +112,17 @@ native_label: الخلافة الراشدة
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661|0632-Rashidun Caliphate+0661]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661|0632-Rashidun Caliphate+0661]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.public|0632-Rashidun Caliphate+0661.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.public|0632-Rashidun Caliphate+0661.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.internal|0632-Rashidun Caliphate+0661.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.internal|0632-Rashidun Caliphate+0661.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.protect|0632-Rashidun Caliphate+0661.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.protect|0632-Rashidun Caliphate+0661.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.private|0632-Rashidun Caliphate+0661.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.private|0632-Rashidun Caliphate+0661.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.personal|0632-Rashidun Caliphate+0661.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.personal|0632-Rashidun Caliphate+0661.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.secret|0632-Rashidun Caliphate+0661.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661.secret|0632-Rashidun Caliphate+0661.secret]] 
 

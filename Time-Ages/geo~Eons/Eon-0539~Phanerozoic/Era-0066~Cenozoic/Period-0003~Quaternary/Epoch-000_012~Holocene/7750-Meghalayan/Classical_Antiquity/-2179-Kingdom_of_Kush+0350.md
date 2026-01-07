@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 33.83 , 17.18 ] 
 aliases:
   - Kushite Empire
@@ -110,17 +110,17 @@ name: ⲉϭⲱϣ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[-2179-Kingdom_of_Kush+0350|-2179-Kingdom_of_Kush+0350]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350|-2179-Kingdom_of_Kush+0350]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.public|-2179-Kingdom_of_Kush+0350.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.public|-2179-Kingdom_of_Kush+0350.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.internal|-2179-Kingdom_of_Kush+0350.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.internal|-2179-Kingdom_of_Kush+0350.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.protect|-2179-Kingdom_of_Kush+0350.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.protect|-2179-Kingdom_of_Kush+0350.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.private|-2179-Kingdom_of_Kush+0350.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.private|-2179-Kingdom_of_Kush+0350.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.personal|-2179-Kingdom_of_Kush+0350.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.personal|-2179-Kingdom_of_Kush+0350.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.secret|-2179-Kingdom_of_Kush+0350.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2179-Kingdom_of_Kush+0350.secret|-2179-Kingdom_of_Kush+0350.secret]] 
 

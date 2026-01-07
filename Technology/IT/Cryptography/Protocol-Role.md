@@ -21,8 +21,6 @@ In Science and [[../../Engineering|Engineering]] Literature a set of common Name
 | Heidi                                                                   | Honest **voter**                     | Electronic voting            | 2004 |  20 |
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/IT/Cryptography/Protocol-Role|Protocol-Role]] 

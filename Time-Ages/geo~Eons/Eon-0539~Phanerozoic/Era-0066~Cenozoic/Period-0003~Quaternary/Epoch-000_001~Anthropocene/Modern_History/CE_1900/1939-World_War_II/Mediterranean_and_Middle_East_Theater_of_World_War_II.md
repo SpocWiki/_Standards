@@ -54,17 +54,17 @@ Commons_category: Mediterranean, Middle Eastern and African theatre of World War
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Mediterranean_and_Middle_East_Theater_of_World_War_II|Mediterranean_and_Middle_East_Theater_of_World_War_II]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II|Mediterranean_and_Middle_East_Theater_of_World_War_II]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.public|Mediterranean_and_Middle_East_Theater_of_World_War_II.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.public|Mediterranean_and_Middle_East_Theater_of_World_War_II.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.internal|Mediterranean_and_Middle_East_Theater_of_World_War_II.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.internal|Mediterranean_and_Middle_East_Theater_of_World_War_II.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.protect|Mediterranean_and_Middle_East_Theater_of_World_War_II.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.protect|Mediterranean_and_Middle_East_Theater_of_World_War_II.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.private|Mediterranean_and_Middle_East_Theater_of_World_War_II.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.private|Mediterranean_and_Middle_East_Theater_of_World_War_II.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.personal|Mediterranean_and_Middle_East_Theater_of_World_War_II.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.personal|Mediterranean_and_Middle_East_Theater_of_World_War_II.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.secret|Mediterranean_and_Middle_East_Theater_of_World_War_II.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.secret|Mediterranean_and_Middle_East_Theater_of_World_War_II.secret]] 
 

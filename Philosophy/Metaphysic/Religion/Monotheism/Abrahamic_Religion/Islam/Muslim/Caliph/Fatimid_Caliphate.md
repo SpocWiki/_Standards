@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 0909-01-01 
 has_time_stopped: 1171-01-01 
 aliases:
@@ -131,17 +131,17 @@ Commons_category: Fatimid Caliphate
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate|Fatimid_Caliphate]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate|Fatimid_Caliphate]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.public|Fatimid_Caliphate.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.public|Fatimid_Caliphate.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.internal|Fatimid_Caliphate.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.internal|Fatimid_Caliphate.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.protect|Fatimid_Caliphate.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.protect|Fatimid_Caliphate.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.private|Fatimid_Caliphate.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.private|Fatimid_Caliphate.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.personal|Fatimid_Caliphate.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.personal|Fatimid_Caliphate.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.secret|Fatimid_Caliphate.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Fatimid_Caliphate.secret|Fatimid_Caliphate.secret]] 
 

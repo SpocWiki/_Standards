@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 0661-01-01 
 has_time_stopped: 0750-07-01 
 aliases:
@@ -114,17 +114,17 @@ native_label: الدَّوْلَةُ الأُمَوِيَّةُ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750|0661-Umayyad Caliphate+0750]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750|0661-Umayyad Caliphate+0750]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.public|0661-Umayyad Caliphate+0750.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.public|0661-Umayyad Caliphate+0750.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.internal|0661-Umayyad Caliphate+0750.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.internal|0661-Umayyad Caliphate+0750.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.protect|0661-Umayyad Caliphate+0750.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.protect|0661-Umayyad Caliphate+0750.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.private|0661-Umayyad Caliphate+0750.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.private|0661-Umayyad Caliphate+0750.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.personal|0661-Umayyad Caliphate+0750.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.personal|0661-Umayyad Caliphate+0750.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.secret|0661-Umayyad Caliphate+0750.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750.secret|0661-Umayyad Caliphate+0750.secret]] 
 

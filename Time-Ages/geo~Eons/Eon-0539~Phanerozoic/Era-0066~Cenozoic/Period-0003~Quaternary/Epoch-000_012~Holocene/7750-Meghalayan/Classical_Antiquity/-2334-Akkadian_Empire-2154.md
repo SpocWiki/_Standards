@@ -58,3 +58,20 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Akkadian%20Empire) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154|-2334-Akkadian_Empire-2154]] 
+
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.public|-2334-Akkadian_Empire-2154.public]] 
+
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.internal|-2334-Akkadian_Empire-2154.internal]] 
+
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.protect|-2334-Akkadian_Empire-2154.protect]] 
+
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.private|-2334-Akkadian_Empire-2154.private]] 
+
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.personal|-2334-Akkadian_Empire-2154.personal]] 
+
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154.secret|-2334-Akkadian_Empire-2154.secret]] 
+

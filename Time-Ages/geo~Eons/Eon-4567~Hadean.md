@@ -105,17 +105,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Eon-4567~Hadean|Eon~1~Hadean]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-4567~Hadean|Eon-4567~Hadean]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~1~Hadean.public|Eon~1~Hadean.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-4567~Hadean.public|Eon-4567~Hadean.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~1~Hadean.internal|Eon~1~Hadean.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-4567~Hadean.internal|Eon-4567~Hadean.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~1~Hadean.protect|Eon~1~Hadean.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-4567~Hadean.protect|Eon-4567~Hadean.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~1~Hadean.private|Eon~1~Hadean.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-4567~Hadean.private|Eon-4567~Hadean.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~1~Hadean.personal|Eon~1~Hadean.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-4567~Hadean.personal|Eon-4567~Hadean.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~1~Hadean.secret|Eon~1~Hadean.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-4567~Hadean.secret|Eon-4567~Hadean.secret]] 
 

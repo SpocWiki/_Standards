@@ -23,3 +23,20 @@ short_name: FOMO
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fear%20of%20missing%20out) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Meditation/FOMO|FOMO]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Mind/Meditation/FOMO.public|FOMO.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind/Meditation/FOMO.internal|FOMO.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind/Meditation/FOMO.protect|FOMO.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Mind/Meditation/FOMO.private|FOMO.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind/Meditation/FOMO.personal|FOMO.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind/Meditation/FOMO.secret|FOMO.secret]] 
+

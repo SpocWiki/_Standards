@@ -63,8 +63,6 @@ The estimated carbon content is
 15 Gt (17 billion short tons) (South America). 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Peat|Peat]] 

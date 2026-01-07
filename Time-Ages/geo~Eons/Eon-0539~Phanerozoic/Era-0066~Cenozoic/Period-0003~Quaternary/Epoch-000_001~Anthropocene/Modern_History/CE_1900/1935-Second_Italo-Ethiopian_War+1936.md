@@ -73,17 +73,17 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Ethiopia%20War%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[1935-Second_Italo-Ethiopian_War+1936|1935-Second_Italo-Ethiopian_War+1936]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936|1935-Second_Italo-Ethiopian_War+1936]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.public|1935-Second_Italo-Ethiopian_War+1936.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.public|1935-Second_Italo-Ethiopian_War+1936.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.internal|1935-Second_Italo-Ethiopian_War+1936.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.internal|1935-Second_Italo-Ethiopian_War+1936.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.protect|1935-Second_Italo-Ethiopian_War+1936.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.protect|1935-Second_Italo-Ethiopian_War+1936.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.private|1935-Second_Italo-Ethiopian_War+1936.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.private|1935-Second_Italo-Ethiopian_War+1936.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.personal|1935-Second_Italo-Ethiopian_War+1936.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.personal|1935-Second_Italo-Ethiopian_War+1936.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.secret|1935-Second_Italo-Ethiopian_War+1936.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.secret|1935-Second_Italo-Ethiopian_War+1936.secret]] 
 

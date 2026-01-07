@@ -111,3 +111,19 @@ Colon_Classification: Q:332
 > [Wikipedia](https://en.wikipedia.org/wiki/Saint) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Saint|Saint]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Saint.public|Saint.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Saint.internal|Saint.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Saint.protect|Saint.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Saint.private|Saint.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Saint.personal|Saint.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Saint.secret|Saint.secret]] 
+

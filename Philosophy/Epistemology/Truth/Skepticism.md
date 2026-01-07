@@ -60,17 +60,17 @@ Commons_category: Skepticism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Skepticism|Skepticism]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Truth/Skepticism|Skepticism]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Epistemology/Skepticism.public|Skepticism.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Truth/Skepticism.public|Skepticism.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Skepticism.internal|Skepticism.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Truth/Skepticism.internal|Skepticism.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Skepticism.protect|Skepticism.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Truth/Skepticism.protect|Skepticism.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Epistemology/Skepticism.private|Skepticism.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Truth/Skepticism.private|Skepticism.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Skepticism.personal|Skepticism.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Truth/Skepticism.personal|Skepticism.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Skepticism.secret|Skepticism.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Truth/Skepticism.secret|Skepticism.secret]] 
 
