@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Hunne
+  - Hunnen
+  - Huns
 has_id_wikidata: Q45813
 described_by_source:
   - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"

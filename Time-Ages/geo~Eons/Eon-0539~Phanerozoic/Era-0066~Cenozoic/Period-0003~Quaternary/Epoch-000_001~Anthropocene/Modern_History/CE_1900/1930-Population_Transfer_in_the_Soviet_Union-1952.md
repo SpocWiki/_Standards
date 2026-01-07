@@ -1,6 +1,10 @@
-﻿---
-location: [ 90.0 , 65.0 ] 
+---
+location:
+  - 90
+  - 65
 aliases:
+  - Population Transfer in the Soviet Union
+  - Population_Transfer_in_the_Soviet_Union
 has_id_wikidata: Q85125
 victim_s_:
   - "[[_Standards/WikiData/WD~Crimean_Tatars,117458]]"
@@ -19,7 +23,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~deportation,379693]]"
   - "[[_Standards/WikiData/WD~forced_displacement,837556]]"
   - "[[_Standards/WikiData/WD~genocide,41397]]"
-location: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+locations: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 coordinate_location: Point(90.0 65.0)
 Commons_category: Soviet deportations

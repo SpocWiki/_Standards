@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Peninsular_War
+  - Peninsular War
 has_id_wikidata: Q152499
 participant:
   - "[[_Standards/WikiData/WD~First_French_Empire,71084]]"

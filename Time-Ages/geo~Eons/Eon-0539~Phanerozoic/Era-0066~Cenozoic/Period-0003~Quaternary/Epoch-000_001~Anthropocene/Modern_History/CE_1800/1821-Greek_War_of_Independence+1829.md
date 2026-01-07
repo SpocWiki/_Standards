@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Greek_War_of_Independence
+  - Greek War of Independence
+  - Greek Revolution
 has_id_wikidata: Q182062
 participant:
   - "[[_Standards/WikiData/WD~Greeks,539051]]"

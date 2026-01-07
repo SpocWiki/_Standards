@@ -1,3 +1,25 @@
+---
+aliases:
+  - Soviet–Afghan_War
+  - Soviet–Afghan War
+has_id_wikidata: Q83085
+participant:
+  - "[[_Standards/WikiData/WD~Democratic_Republic_of_Afghanistan,476757]]"
+  - "[[_Standards/WikiData/WD~Islamic_Unity_of_Afghanistan_Mujahideen,1360256]]"
+  - "[[_Standards/WikiData/WD~Tehran_Eight,4523722]]"
+  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+location: "[[_Standards/WikiData/WD~Democratic_Republic_of_Afghanistan,476757]]"
+order_of_battle: "[[_Standards/WikiData/WD~order_of_battle_of_the_War_in_Afghanistan,3885428]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Soviet_Afghan_War,8784316]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q25721418,25721418]]"
+instance_of: "[[_Standards/WikiData/WD~war,198]]"
+U_S_National_Archives_Identifier: "10645469"
+start_time: 1979-12-25T00:00:00Z
+end_time: 1989-02-15T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Afghan-Soviet%20war.png
+Wolfram_Language_entity_code: Entity["HistoricalEvent", "SovietWarAfghanistan"]
+Commons_category: Soviet–Afghan War
+---
 
 # [[1979-Soviet–Afghan_War+1989]] 
 

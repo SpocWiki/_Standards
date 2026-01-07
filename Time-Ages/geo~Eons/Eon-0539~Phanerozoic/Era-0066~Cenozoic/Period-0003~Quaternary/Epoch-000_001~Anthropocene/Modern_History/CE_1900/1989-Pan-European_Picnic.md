@@ -7,12 +7,27 @@ aliases:
   - Panevropský piknik
   - 1989-Pan-European_Picnic
   - 1989-Pan-European Picnic
+has_id_wikidata: Q160056
+organizer: "[[_Standards/WikiData/WD~Otto_von_Habsburg,76343]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~demonstration,175331]]"
+  - "[[_Standards/WikiData/WD~picnic,506294]]"
+located_on_street: "[[_Standards/WikiData/WD~Route_8532,105354554]]"
+location: "[[_Standards/WikiData/WD~Pan_European_Picnic_Memorial_Park,131579592]]"
+coordinate_location: Point(16.622336 47.757099)
+country:
+  - "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410]]"
+  - "[[_Standards/WikiData/WD~Austria,40]]"
+point_in_time: 1989-08-19T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Paneur%20grenz%C3%BCbergang%20130609.JPG
+Commons_category: Pan-European Picnic
 ---
 
 # [[1989-Pan-European_Picnic]] 
 
 #is_/same_as :: 
 #has_/time_/started :: 1989-08-19 
+#is_/same_as :: [[WD~Pan-European_Picnic,160056]] 
 
 ## #has_/text_of_/abstract 
 

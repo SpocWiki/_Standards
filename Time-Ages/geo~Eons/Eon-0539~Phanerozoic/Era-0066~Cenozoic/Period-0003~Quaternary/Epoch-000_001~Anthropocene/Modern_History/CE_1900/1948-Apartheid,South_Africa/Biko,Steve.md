@@ -1,5 +1,65 @@
+---
+aliases:
+  - Steve_Biko
+  - Bantu Stephen Biko
+  - Stephen Biko
+  - Biko
+has_id_wikidata: Q214473
+Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/1553970
+Google_Doodle: steve-bikos-70th-birthday
+name_in_native_language: Steve Biko
+occupation:
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+  - "[[_Standards/WikiData/WD~civil_rights_advocate,1021386]]"
+  - "[[_Standards/WikiData/WD~trade_unionist,15627169]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+present_in_work:
+  - "[[_Standards/WikiData/WD~Cry_Freedom,962363]]"
+  - "[[_Standards/WikiData/WD~Biko,2902619]]"
+place_of_birth:
+  - "[[_Standards/WikiData/WD~Tarkastad,993209]]"
+  - "[[_Standards/WikiData/WD~Qonce,1016100]]"
+place_of_burial: "[[_Standards/WikiData/WD~Qonce,1016100]]"
+archives_at: "[[_Standards/WikiData/WD~Schomburg_Center_for_Research_in_Black_Culture,1060566]]"
+educated_at: "[[_Standards/WikiData/WD~University_of_Natal,2021166]]"
+member_of_political_party:
+  - "[[_Standards/WikiData/WD~South_African_Students'_Organization,4411992]]"
+  - "[[_Standards/WikiData/WD~Black_People's_Convention,4921453]]"
+given_name:
+  - "[[_Standards/WikiData/WD~Stephen,4927100]]"
+  - "[[_Standards/WikiData/WD~Steve,18336566]]"
+child: "[[_Standards/WikiData/WD~Hlumelo_Biko,5873580]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+significant_event: "[[_Standards/WikiData/WD~death_in_police_custody,20730691]]"
+spouse: "[[_Standards/WikiData/WD~Ntsiki_Mashalaba,40026140]]"
+described_by_source: "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
+different_from: "[[_Standards/WikiData/WD~Nomhlangano_Beauty_Mkhize,97482122]]"
+family_name: "[[_Standards/WikiData/WD~Biko,112274329]]"
+mother: "[[_Standards/WikiData/WD~Alice_'Mameete',116468794]]"
+father: "[[_Standards/WikiData/WD~Mzingayi_Mathew_Biko,116468792]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~South_Africa,258]]"
+languages_spoken_written_or_signed:
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Xhosa,13218]]"
+  - "[[_Standards/WikiData/WD~Afrikaans,14196]]"
+place_of_death: "[[_Standards/WikiData/WD~Pretoria,3926]]"
+field_of_work: "[[_Standards/WikiData/WD~apartheid,11409]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+Commons_category: Steve Biko
+date_of_death: 1977-09-12T00:00:00Z
+date_of_birth: 1946-12-18T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Biko%20on%20Flyer%20for%20Steve%20Biko%20Memorial%20at%20the%20Carver%20Cultural%20Center.jpg
+image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/StevenBantuBiko%27sGrave.jpg
+official_website: http://www.sbf.org.za/home/
+ISNI: "0000000081456296"
+P1015: "90081591"
+Libris_URI: fcrtngbz5hcpt4h
+pseudonym: Frank Talk
+---
 
-# [[Steve_Biko]] 
+# [[Biko,Steve]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Steve_Biko,214473|WD~Steve_Biko,214473]]   
 
@@ -47,7 +107,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Steve_Biko|Steve_Biko]] 
+### #is_/same_as :: [[Biko,Steve|Steve_Biko]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Steve_Biko.public|Steve_Biko.public]] 
 

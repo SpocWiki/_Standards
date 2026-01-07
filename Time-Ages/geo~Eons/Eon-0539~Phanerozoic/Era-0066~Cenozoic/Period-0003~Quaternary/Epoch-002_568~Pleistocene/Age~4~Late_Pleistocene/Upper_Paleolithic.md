@@ -39,7 +39,7 @@ Commons_category: Upper Paleolithic
 > until the advent of the Neolithic Revolution and agriculture.
 >
 > The  Upper Paleolithic was preceded by the Middle Paleolithic subdivision 
-> and was paralleled by the so-called [[../Age~3~Chibanian/Cognitive Revolution]]. 
+> and was paralleled by the so-called [[../Age~3~Chibanian/Cognitive_Revolution]]. 
 > 
 > Anatomically modern humans (i.e. Homo sapiens) 
 > are believed to have emerged in Africa around 300,000 years ago. 

@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Syrian_Wars
+  - Syrian Wars
 has_id_wikidata: Q1330607
 participant:
   - "[[_Standards/WikiData/WD~Seleucid_Empire,93180]]"
@@ -13,7 +15,7 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Diadochs-fr
 Iconclass_notation: 71K2722
 Commons_category: Syrian Wars
 Baidu_Tieba_name: 叙利亚战争
-start_time: -0273-01-01T00:00:00Z 
+start_time: -0273-01-01T00:00:00Z
 ---
 
 # [[-0274-Syrian_Wars-0168]] 

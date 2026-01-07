@@ -1,9 +1,13 @@
 ---
 aliases:
+  - Western_Roman_Empire
+  - Western Roman Empire
 has_id_wikidata: Q42834
 inception: 0395-01-18T00:00:00Z
 coordinate_location: Point(12.482777777 41.893055555)
-location: [ 41.893055555, 12.482777777]
+location:
+  - 41.893055555
+  - 12.482777777
 dissolved_abolished_or_demolished_date: 0476-01-01T00:00:00Z
 replaced_by:
   - "[[_Standards/WikiData/WD~Francia,146246]]"

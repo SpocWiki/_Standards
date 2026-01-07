@@ -1,7 +1,10 @@
-﻿---
-location: [ 15.873611 , 48.875833 ] 
+---
 aliases:
+  - Iron_Curtain
 has_id_wikidata: Q124425
+location:
+  - 15.873611
+  - 48.875833
 different_from: "[[_Standards/WikiData/WD~Bamboo_Curtain,1072056]]"
 instance_of:
   - "[[_Standards/WikiData/WD~political_border,1292279]]"
@@ -18,7 +21,7 @@ dissolved_abolished_or_demolished_date: 1989-08-19T00:00:00Z
 inception: 1946-03-05T00:00:00Z
 coordinate_location: Point(15.873611 48.875833)
 ---
-
+﻿
 # [[1945-Iron_Curtain-1991]] 
 
 #is_/same_as :: [[WD~Iron_Curtain,124425]] 

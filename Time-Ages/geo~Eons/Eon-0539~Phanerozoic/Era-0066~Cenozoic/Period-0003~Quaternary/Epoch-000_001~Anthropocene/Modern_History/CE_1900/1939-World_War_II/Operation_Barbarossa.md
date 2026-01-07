@@ -2,10 +2,49 @@
 aliases:
   - Operation Barbarossa
   - Operation_Barbarossa
+has_id_wikidata: Q83055
+named_after: "[[_Standards/WikiData/WD~Frederick_Barbarossa,79789]]"
+location:
+  - "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
+  - "[[_Standards/WikiData/WD~General_Government,156111]]"
+  - "[[_Standards/WikiData/WD~Moldavian_Soviet_Socialist_Republic,170895]]"
+  - "[[_Standards/WikiData/WD~European_Russia,875134]]"
+  - "[[_Standards/WikiData/WD~Byelorussian_Soviet_Socialist_Republic,2895]]"
+  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - "[[_Standards/WikiData/WD~Lithuania,37]]"
+  - "[[_Standards/WikiData/WD~Estonia,191]]"
+  - "[[_Standards/WikiData/WD~Latvia,211]]"
+participant:
+  - "[[_Standards/WikiData/WD~Slovak_Republic,154401]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]"
+  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
+  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - "[[_Standards/WikiData/WD~Finland,33]]"
+has_cause: "[[_Standards/WikiData/WD~Lebensraum,157136]]"
+instance_of: "[[_Standards/WikiData/WD~invasion,467011]]"
+order_of_battle: "[[_Standards/WikiData/WD~order_of_battle_for_Operation_Barbarossa,820353]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Operation_Barbarossa,8810407]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Fall_Barbarossa,16711666]]"
+foundational_text: "[[_Standards/WikiData/WD~Hitler_over_Russia_,21660923]]"
+category_for_maps_or_plans: "[[_Standards/WikiData/WD~Category_Maps_of_Operation_Barbarossa,84062134]]"
+BHCL_UUID: a75a6d28-d89c-4a2d-91c2-932a21d65c79
+end_time: 1941-12-05T00:00:00Z
+start_time: 1941-06-22T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Moscow.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-OperationBarbarossa-article.ogg
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Operation%20Barbarossa%20corrected%20border.png
+Wolfram_Language_entity_code: Entity["MilitaryConflict", "OperationBarbarossa"]
+Commons_category: Operation Barbarossa
 ---
+
+# [[Operation_Barbarossa]] 
 
 #has_/time_/started :: 1941-06-22 
 #has_/time_/stopped  :: 1941-12-01 
+#is_/same_as :: [[WD~Operation Barbarossa,83055]] 
+
+## #has_/text_of_/abstract  
 
 > **Operation Barbarossa** (German: Unternehmen Barbarossa; 
 > Russian: Операция Барбаросса, romanized: Operatsiya Barbarossa) 

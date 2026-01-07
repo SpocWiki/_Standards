@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Russo-Japanese_War
+  - Russo-Japanese War
 has_id_wikidata: Q159950
 location: "[[_Standards/WikiData/WD~Manchuria,81126]]"
 participant:

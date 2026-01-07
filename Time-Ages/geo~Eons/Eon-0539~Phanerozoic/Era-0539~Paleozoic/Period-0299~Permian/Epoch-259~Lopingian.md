@@ -15,6 +15,18 @@ aliases:
   - loping
   - lopingij
   - 乐平世
+has_id_wikidata: Q1077390
+named_by: "[[_Standards/WikiData/WD~Ferdinand_von_Richthofen,76791]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Zechstein,184168]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+named_after: "[[_Standards/WikiData/WD~Leping,1335313]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q32103916,32103916]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -251902000-01-01T00:00:00Z
+sRGB_color_hex_triplet: FEAF97
+start_time: -259100000-01-01T00:00:00Z
 ---
 
 # [[Epoch-259~Lopingian]] 
@@ -25,6 +37,7 @@ aliases:
 
 #has_/previous_/item :: [[Epoch-273~Guadalupian]] 
 #has_/next_/item :: [[../../Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic|Epoch~1~Early_Triassic]] 
+#is_/same_as :: [[WD~Lopingian,1077390]] 
 
 A time period from 259.51 to 251.902 million years ago. 
 

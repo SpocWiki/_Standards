@@ -79,7 +79,7 @@ inception: 1358-01-01T00:00:00Z
 > The Grand Master of the Teutonic Order was often seen as the head of the Hanse 
 > (caput Hansae), both abroad and by some League members. 
 > 
-> The [[../../1000-High_Middle-Ages/CE_1000/1095-Crusades/Teutonic_Order]] was an official member of the Hanseatic League, 
+> The [[../../1000-High_Middle-Ages+1300/CE_1000/1095-Crusades/Teutonic_Order]] was an official member of the Hanseatic League, 
 > unique as the only autonomous landed state to hold membership, 
 > while other members were cities or individual merchants. 
 > 

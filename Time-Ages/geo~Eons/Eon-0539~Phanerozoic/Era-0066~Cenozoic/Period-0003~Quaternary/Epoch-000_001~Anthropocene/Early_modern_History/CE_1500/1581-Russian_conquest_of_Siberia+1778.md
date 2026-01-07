@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Russian_conquest_of_Siberia
+  - Russian conquest of Siberia
 has_id_wikidata: Q735349
 depicted_by: "[[_Standards/WikiData/WD~Vasily_Surikov,110228]]"
 instance_of:

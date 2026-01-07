@@ -4,6 +4,10 @@ aliases:
   - Third_Estate
 ---
 
+# [[Third_Estate]] 
+
+#is_/same_as :: [[WD~Third_Estate,]]
+
 ## #has_/text_of_/abstract 
 
 > The estates of the realm, or three estates, were the broad orders of social hierarchy 

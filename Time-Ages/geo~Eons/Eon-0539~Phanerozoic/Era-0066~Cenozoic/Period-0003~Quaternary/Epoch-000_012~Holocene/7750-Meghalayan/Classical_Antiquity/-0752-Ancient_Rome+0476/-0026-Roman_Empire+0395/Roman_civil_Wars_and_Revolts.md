@@ -1,3 +1,14 @@
+---
+aliases:
+  - Roman_civil_Wars_and_Revolts
+  - Roman civil wars and revolts
+has_id_wikidata: Q1747183
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Roman_civil_wars,7708534]]"
+instance_of: "[[_Standards/WikiData/WD~Wikimedia_list_article,13406463]]"
+end_time: 0476-01-01T00:00:00Z
+Commons_category: Roman civil wars
+start_time: -0508-01-01T00:00:00Z
+---
 
 # [[Roman_civil_Wars_and_Revolts]] 
 

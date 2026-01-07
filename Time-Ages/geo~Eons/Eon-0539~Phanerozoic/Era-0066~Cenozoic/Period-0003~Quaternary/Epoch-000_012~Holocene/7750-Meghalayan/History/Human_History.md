@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Human_History
+  - Human history
 has_id_wikidata: Q200325
 different_from:
   - "[[_Standards/WikiData/WD~history_of_Earth,156312]]"

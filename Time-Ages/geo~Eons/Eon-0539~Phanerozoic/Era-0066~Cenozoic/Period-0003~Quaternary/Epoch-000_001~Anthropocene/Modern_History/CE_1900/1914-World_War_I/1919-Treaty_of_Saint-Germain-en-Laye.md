@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Treaty of Saint-Germain-en-Laye 
+  - Traité de Saint-Germain-en-Laye
 has_id_wikidata: Q192924
 signatory:
   - "[[_Standards/WikiData/WD~French_Third_Republic,70802]]"

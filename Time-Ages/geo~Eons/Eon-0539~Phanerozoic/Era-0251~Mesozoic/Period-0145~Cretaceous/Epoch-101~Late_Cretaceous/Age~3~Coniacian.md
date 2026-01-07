@@ -1,3 +1,24 @@
+---
+aliases:
+  - Coniacian
+has_id_wikidata: Q645398
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Henri_Coquand,3130874]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Coniacian,21708743]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Coniacian,133895092]]"
+different_from: "[[_Standards/WikiData/WD~cognac,284]]"
+named_after: "[[_Standards/WikiData/WD~Cognac,285]]"
+significant_place: "[[_Standards/WikiData/WD~Salzgitter,3200]]"
+country: "[[_Standards/WikiData/WD~Germany,183]]"
+Commons_category: Coniacian
+start_time: -89800000-01-01T00:00:00Z
+end_time: -86300000-01-01T00:00:00Z
+sRGB_color_hex_triplet: D1E382
+coordinate_location: Point(10.3295 52.1243)
+---
 # [[Age~3~Coniacian]] 
 
 #is_a_/time_/Age 
@@ -8,6 +29,7 @@ A time period from 89.8 to 86.3 million years ago.
 
 #has_/previous_/item :: [[Age~2~Turonian]] 
 #has_/next_/item :: [[Age~4~Santonian]] 
+#is_/same_as :: [[WD~Coniacian,645398]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Wars_of_the_Roses
+  - Wars of the Roses
+  - Cousins' War
 has_id_wikidata: Q127751
 participant:
   - "[[_Standards/WikiData/WD~House_of_Tudor,101978]]"

@@ -1,7 +1,21 @@
+---
+aliases:
+  - Benes-Decrees
+  - Benes Decrees
+  - Beneš decrees
+has_id_wikidata: Q165559
+legislated_by: "[[_Standards/WikiData/WD~Edvard_Beneš,152274]]"
+named_after: "[[_Standards/WikiData/WD~Edvard_Beneš,152274]]"
+instance_of: "[[_Standards/WikiData/WD~decree,2571972]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q16267118,16267118]]"
+applies_to_jurisdiction: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
+country: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
+BHCL_UUID: b26c8083-3a61-48ef-846c-8e25ba880caa
+---
 
 # [[1940-Benes-Decrees+1946]] 
 
-#is_/same_as :: 
+#is_/same_as :: [[WD~Benes-Decrees,165559]] 
 
 ## #has_/text_of_/abstract 
 

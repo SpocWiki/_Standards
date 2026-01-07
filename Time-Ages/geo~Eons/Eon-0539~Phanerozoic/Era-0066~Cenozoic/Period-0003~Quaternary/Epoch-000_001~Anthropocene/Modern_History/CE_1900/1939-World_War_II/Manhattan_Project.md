@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Manhattan_Project
+  - Manhattan Project
 has_id_wikidata: Q127050
 instance_of:
   - "[[_Standards/WikiData/WD~experiment,101965]]"

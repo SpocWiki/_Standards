@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Greco-Persian_Wars
+  - Greco-Persian Wars
+  - Persian Wars
 has_id_wikidata: Q76026
 end_time: -0448-01-01T00:00:00Z
 start_time: -0498-01-01T00:00:00Z

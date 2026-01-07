@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Winter_War
+  - Winter War
+  - Winterkrieg
 has_id_wikidata: Q134949
 has_part_s_: "[[_Standards/WikiData/WD~battles_at_the_Karelian_Isthmus_during_the_Winter_War,18607874]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"

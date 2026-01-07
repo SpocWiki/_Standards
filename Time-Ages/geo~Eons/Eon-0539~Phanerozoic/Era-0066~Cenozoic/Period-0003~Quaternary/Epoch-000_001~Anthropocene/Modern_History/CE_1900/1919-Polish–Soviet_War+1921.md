@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Polish–Soviet_War
+  - Polish–Soviet War
 has_id_wikidata: Q186284
 participant:
   - "[[_Standards/WikiData/WD~Lithuanian_Byelorussian_Soviet_Socialist_Republic,76236]]"

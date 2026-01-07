@@ -1,3 +1,23 @@
+---
+aliases:
+  - Tortonian
+has_id_wikidata: Q499299
+named_by: "[[_Standards/WikiData/WD~Karl_Mayer_Eymar,116704]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Astaracian,746788]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Tortonian,21607906]]"
+significant_place: "[[_Standards/WikiData/WD~Monte_dei_Corvi,31220608]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Tortonian,133824745]]"
+coordinate_location: Point(13.5661724 43.587292)
+end_time: -7246000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Tortona,17686]]"
+start_time: -11630000-01-01T00:00:00Z
+Commons_category: Tortonian
+sRGB_color_hex_triplet: FEF47D
+---
 # [[Age~5~Tortonian]] 
 
 #is_a_/time_/Age 
@@ -8,6 +28,7 @@ A time period from 11.63 to 7.246 million years ago.
 
 #has_/previous_/item :: [[Age~4~Serravallian]] 
 #has_/next_/item :: [[Age~6~Messinian]] 
+#is_/same_as :: [[WD~Tortonian,499299]] 
 
 ## #has_/text_of_/abstract 
 

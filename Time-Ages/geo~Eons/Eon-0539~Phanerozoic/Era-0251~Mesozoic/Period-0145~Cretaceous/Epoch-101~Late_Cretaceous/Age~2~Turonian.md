@@ -1,3 +1,24 @@
+---
+aliases:
+  - Turonian
+has_id_wikidata: Q691429
+named_by: "[[_Standards/WikiData/WD~Alcide_d'Orbigny,344661]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+significant_place: "[[_Standards/WikiData/WD~Pueblo,675576]]"
+different_from: "[[_Standards/WikiData/WD~Túrony,686116]]"
+described_by_source: "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Turonian,21771248]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Turonian,133929232]]"
+coordinate_location: Point(-104.7275 38.2822)
+start_time: -93900000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Tours,288]]"
+Commons_category: Turonian
+end_time: -89800000-01-01T00:00:00Z
+sRGB_color_hex_triplet: C3DF79
+---
 # [[Age~2~Turonian]] 
 
 #is_a_/time_/Age 
@@ -8,6 +29,7 @@ A time period from 93.9 to 89.8 million years ago.
 
 #has_/previous_/item :: [[Age~1~Cenomanian]] 
 #has_/next_/item :: [[Age~3~Coniacian]] 
+#is_/same_as :: [[WD~Turonian,691429]] 
 
 ## #has_/text_of_/abstract 
 

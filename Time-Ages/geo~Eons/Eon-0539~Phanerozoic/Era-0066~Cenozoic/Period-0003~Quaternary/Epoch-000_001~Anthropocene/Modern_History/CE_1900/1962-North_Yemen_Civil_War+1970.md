@@ -1,5 +1,8 @@
 ---
 aliases:
+  - North_Yemen_Civil_War
+  - North Yemen civil war
+  - 26 September Revolution
 has_id_wikidata: Q521199
 participant:
   - "[[_Standards/WikiData/WD~Hussein_I_of_Jordan,146906]]"

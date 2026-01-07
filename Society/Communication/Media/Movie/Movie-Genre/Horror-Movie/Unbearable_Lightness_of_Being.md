@@ -1,5 +1,38 @@
+---
+aliases:
+  - Unbearable Lightness of Being
+has_id_wikidata: Q917055
+author: "[[_Standards/WikiData/WD~Milan_Kundera,93166]]"
+derivative_work: "[[_Standards/WikiData/WD~The_Unbearable_Lightness_of_Being,1122571]]"
+different_from: "[[_Standards/WikiData/WD~The_Unbearable_Lightness_of_Being,1122571]]"
+instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
+characters:
+  - "[[_Standards/WikiData/WD~Tereza,17716070]]"
+  - "[[_Standards/WikiData/WD~Sabina,17716439]]"
+  - "[[_Standards/WikiData/WD~Tomáš,18918303]]"
+genre: "[[_Standards/WikiData/WD~philosophical_fiction,20737414]]"
+has_edition_or_translation:
+  - "[[_Standards/WikiData/WD~Q50326783,50326783]]"
+  - "[[_Standards/WikiData/WD~Nesnesitelná_lehkost_bytí,50326809]]"
+  - "[[_Standards/WikiData/WD~L_insoutenable_légèreté_de_l_être,50326832]]"
+  - "[[_Standards/WikiData/WD~Q50326877,50326877]]"
+  - "[[_Standards/WikiData/WD~Die_unerträgliche_Leichtigkeit_des_Seins,50326890]]"
+form_of_creative_work: "[[_Standards/WikiData/WD~novel,8261]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~Czech,9056]]"
+title:
+  - The Unbearable Lightness of Being
+  - Nesnesitelná lehkost bytí
+  - 存在の耐えられない軽さ
+publication_date: 1984-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Milan%20Kundera%20L%27%20insoutenable%20l%C3%A9g%C3%A8ret%C3%A9%20de%20l%27%C3%AAtre%201984%20couverture.jpg
+---
+
+# [[Unbearable_Lightness_of_Being]] 
 
 #has_/time_/started :: 1968-06-01 
+#is_/same_as :: [[WD~Unbearable_Lightness_of_Being,917055]] 
+
+## #has_/text_of_/abstract  
 
 > The **Unbearable Lightness of Being** (Czech: Nesnesitelná lehkost bytí) 
 > is a 1984 novel by Milan Kundera, about two women, two men, a dog, 

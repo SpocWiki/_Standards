@@ -4,7 +4,18 @@ aliases:
   - High Medieval Period
   - 1000-High_Middle-Ages
   - 1000-High Middle-Ages
+has_id_wikidata: Q212685
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_High_Middle_Ages,8512228]]"
+instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
+end_time: 1300-01-01T00:00:00Z
+location: "[[_Standards/WikiData/WD~Europe,46]]"
+OmegaWiki_Defined_Meaning: "1258252"
+start_time: 1000-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20mediterranean%201190.jpg
+Commons_category: High Middle Ages
 ---
+
+# [[1000-High_Middle-Ages+1300]] 
 
 #is_a_/time_/Culture 
 
@@ -16,6 +27,7 @@ aliases:
 
 #has_/previous_item :: [[0750-Early_Middle-Ages]] 
 #has_/next_/item :: [[1300-Late_Middle-Ages]]
+#is_/same_as :: [[WD~High_Middle-Ages,212685]] 
 
 ## #has_/text_of_/abstract 
 
@@ -40,7 +52,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[1000-High_Middle-Ages|1000-High_Middle-Ages]] 
+### #is_/same_as :: [[1000-High_Middle-Ages+1300|1000-High_Middle-Ages]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages.public|1000-High_Middle-Ages.public]] 
 

@@ -1,6 +1,9 @@
-﻿---
-location: [ 18.0 , 35.0 ] 
+---
+location:
+  - 18
+  - 35
 aliases:
+  - Mediterranean_and_Middle_East_Theater_of_World_War_II
 has_id_wikidata: Q696817
 instance_of: "[[_Standards/WikiData/WD~theater_of_war,718893]]"
 has_part_s_: "[[_Standards/WikiData/WD~Operation_Catapult,3354678]]"
@@ -9,7 +12,7 @@ country:
   - "[[_Standards/WikiData/WD~Eritrea,986]]"
   - "[[_Standards/WikiData/WD~Somalia,1045]]"
   - "[[_Standards/WikiData/WD~Ethiopia,115]]"
-location:
+locations:
   - "[[_Standards/WikiData/WD~Middle_East,7204]]"
   - "[[_Standards/WikiData/WD~North_Africa,27381]]"
   - "[[_Standards/WikiData/WD~Southern_Europe,27449]]"

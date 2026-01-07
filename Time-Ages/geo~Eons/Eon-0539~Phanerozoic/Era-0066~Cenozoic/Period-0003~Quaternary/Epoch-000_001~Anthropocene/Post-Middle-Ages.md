@@ -1,6 +1,21 @@
+---
+aliases:
+  - Post-Middle-Ages
+  - Post-medieval
+  - Post-medieval archaeology
+has_id_wikidata: Q1982103
+instance_of: "[[_Standards/WikiData/WD~archaeological_sub_discipline,4785472]]"
+subclass_of: "[[_Standards/WikiData/WD~archaeology,23498]]"
+---
 # [[Post-Middle-Ages]] 
 
+#has_/time_/started :: 1.5e3 
+#has_/time_/stopped :: 1.8e3 
+
 #is_a_/time_/Culture 
+#is_/same_as :: [[WD~Post-medieval_archaeology,1982103]]
+
+## #has_/text_of_/abstract  
 
 > Post-medieval archaeology is a term used in Europe 
 > to describe the study of the material past over the last 500 years. 
@@ -60,10 +75,6 @@
 > and Fort Amherst in Chatham.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Post-medieval%20archaeology) 
-
-
-#has_/time_/started :: 1.5e3 
-#has_/time_/stopped :: 1.8e3 
 
 
 ## Edit

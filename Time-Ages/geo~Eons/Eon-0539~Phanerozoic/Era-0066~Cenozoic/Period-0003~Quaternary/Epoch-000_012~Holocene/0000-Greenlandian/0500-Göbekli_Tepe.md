@@ -1,4 +1,41 @@
+---
+aliases:
+  - Göbekli Tepe
+  - Gobekli Tepe
+has_id_wikidata: Q214944
+director_of_archaeological_fieldwork: "[[_Standards/WikiData/WD~Klaus_Schmidt,88419]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southeastern_Anatolia_Region,155638]]"
+located_in_the_administrative_territorial_entity:
+  - "[[_Standards/WikiData/WD~Şanlıurfa_Province,388469]]"
+  - "[[_Standards/WikiData/WD~Haliliye_district,16841546]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~tell,755017]]"
+  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
+World_Heritage_criteria:
+  - "[[_Standards/WikiData/WD~(i),23038972]]"
+  - "[[_Standards/WikiData/WD~(iv),23038978]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976]]"
+state_of_conservation: "[[_Standards/WikiData/WD~preserved,56557591]]"
+affiliation: "[[_Standards/WikiData/WD~Museum_Directorate_of_Şanlıurfa,108563849]]"
+dissolved_abolished_or_demolished_date: -7000-01-01T00:00:00Z
+inception: -9999-01-01T00:00:00Z
+coordinate_location: Point(38.9225 37.223055555)
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+country: "[[_Standards/WikiData/WD~Turkey,43]]"
+elevation_above_sea_level: 760
+area:
+  - 126
+  - 461
+image: http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6bekli%20Tepe%2C%20Urfa.jpg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6bekli%20Tepe%20banner.jpg
+official_website: https://muze.gov.tr/muze-detay?sectionId=SGT01&distId=SGT
+Commons_category: Göbekli Tepe
+native_label: Göbeklitepe
+---
 
+# [[0500-Göbekli_Tepe]] 
+
+#is_/same_as :: [[WD~Göbekli Tepe,214944]] 
 
 ## #has_/text_of_/abstract 
 

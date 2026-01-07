@@ -1,3 +1,20 @@
+---
+aliases:
+  - Little_Ice_Age
+  - Little Ice Age
+has_id_wikidata: Q190530
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+named_by: "[[_Standards/WikiData/WD~François_E._Matthes,19893340]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Little_Ice_Age,55274235]]"
+end_time: 1850-01-01T00:00:00Z
+start_time: 1303-01-01T00:00:00Z
+followed_by: "[[_Standards/WikiData/WD~global_warming,7942]]"
+instance_of: "[[_Standards/WikiData/WD~ice_age,49367]]"
+schematic: http://commons.wikimedia.org/wiki/Special:FilePath/2000%2B%20year%20global%20temperature%20including%20Medieval%20Warm%20Period%20and%20Little%20Ice%20Age%20-%20Ed%20Hawkins.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Venice%20frozen%20lagoon%201708.jpg
+Commons_gallery: Little Ice Age
+Commons_category: Little Ice Age
+---
 
 # [[1300-Little_Ice_Age-1850]] 
 

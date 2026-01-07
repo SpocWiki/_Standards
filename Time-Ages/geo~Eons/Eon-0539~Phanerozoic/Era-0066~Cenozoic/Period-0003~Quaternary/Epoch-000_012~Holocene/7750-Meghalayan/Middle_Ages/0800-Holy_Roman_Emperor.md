@@ -1,5 +1,42 @@
+---
+aliases:
+  - Holy Roman Emperor
+has_id_wikidata: Q181765
+instance_of:
+  - "[[_Standards/WikiData/WD~noble_title,355567]]"
+  - "[[_Standards/WikiData/WD~elective_office,17279032]]"
+  - "[[_Standards/WikiData/WD~historical_position,114962596]]"
+  - "[[_Standards/WikiData/WD~head_of_state,48352]]"
+different_from:
+  - "[[_Standards/WikiData/WD~German_Emperor,501503]]"
+  - "[[_Standards/WikiData/WD~King_of_the_Romans,782985]]"
+replaced_by: "[[_Standards/WikiData/WD~German_Emperor,501503]]"
+elected_in: "[[_Standards/WikiData/WD~Imperial_election_(Holy_Roman_Empire),832107]]"
+spouse: "[[_Standards/WikiData/WD~archduke_of_Austria,3944505]]"
+has_characteristic: "[[_Standards/WikiData/WD~male,6581097]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Holy_Roman_Emperors,7025389]]"
+has_list: "[[_Standards/WikiData/WD~list_of_Holy_Roman_Emperors,8336442]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~emperor_of_the_Occident,23906200]]"
+  - "[[_Standards/WikiData/WD~emperor,39018]]"
+replaces: "[[_Standards/WikiData/WD~Carolingian_Roman_emperor,111841382]]"
+organization_directed_by_the_office_or_position: "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
+applies_to_jurisdiction: "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
+country: "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
+coat_of_arms_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Holy%20Roman%20Empire%20Arms-double%20head.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Shield%20and%20Coat%20of%20Arms%20of%20the%20Holy%20Roman%20Emperor%20%28c.1300-c.1400%29.svg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Banner%20of%20the%20Holy%20Roman%20Emperor%20with%20haloes%20%281430-1806%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20II%2C%20Holy%20Roman%20Emperor%20by%20Friedrich%20von%20Amerling%20003.jpg
+male_form_of_label: Holy Roman Emperor
+Commons_category: Holy Roman Emperors
+Colon_Classification: V1-5,1
+dissolved_abolished_or_demolished_date: 1806-08-06T00:00:00Z
+inception: 0962-01-01T00:00:00Z
+---
 
 #has_/previous_ :: [[../Classical_Antiquity/9247-Ancient_Rome/0027-Roman_Emperor|0027-Roman_Emperor]] 
+#is_/same_as :: [[WD~Holy_Roman_Emperor,181765]] 
 
 ## #has_/text_of_/abstract 
 

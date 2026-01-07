@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Treaty_of_Paris
+  - Treaty of Paris
 has_id_wikidata: Q740724
 signatory:
   - "[[_Standards/WikiData/WD~Austrian_Empire,131964]]"

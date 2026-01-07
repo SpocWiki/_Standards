@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Viking_Age
+  - Viking Age
 has_id_wikidata: Q213649
 part_of:
   - "[[_Standards/WikiData/WD~history_of_Scandinavia,568251]]"

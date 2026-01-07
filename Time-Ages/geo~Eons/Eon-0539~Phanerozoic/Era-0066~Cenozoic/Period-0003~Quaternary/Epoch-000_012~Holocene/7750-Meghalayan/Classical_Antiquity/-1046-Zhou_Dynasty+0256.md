@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Zhou_Dynasty
+  - Zhou dynasty
 has_id_wikidata: Q35216
 follows: "[[_Standards/WikiData/WD~Shang_dynasty,128938]]"
 described_by_source:

@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Sturmabteilung
 has_id_wikidata: Q150793
 chairperson:
   - "[[_Standards/WikiData/WD~Baldur_von_Schirach,76876]]"

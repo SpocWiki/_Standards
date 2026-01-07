@@ -19,6 +19,18 @@ aliases:
   - changhsingij
   - changhsing
   - 长兴期
+has_id_wikidata: Q860048
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_after: "[[_Standards/WikiData/WD~Changxing_County,1062178]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Ochoan,7076350]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Changhsingian,134394788]]"
+end_time: -251902000-01-01T00:00:00Z
+coordinate_location: Point(119.70638889 31.08194444)
+start_time: -254140000-01-01T00:00:00Z
+sRGB_color_hex_triplet: FEC6B3
 ---
 
 # [[Age~2~Changhsingian]] 
@@ -29,6 +41,7 @@ aliases:
 
 #has_/previous_/item :: [[Age~1~Wuchiapingian]] 
 #has_/next_/item :: [[../../../Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]] 
+#is_/same_as :: [[WD~Changhsingian,860048]] 
 
 A time period from 254.14 to 251.902 million years ago. 
 

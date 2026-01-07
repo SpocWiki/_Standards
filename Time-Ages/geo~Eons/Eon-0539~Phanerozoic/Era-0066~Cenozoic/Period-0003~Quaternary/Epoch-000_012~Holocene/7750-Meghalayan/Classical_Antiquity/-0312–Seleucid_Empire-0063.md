@@ -1,3 +1,55 @@
+---
+aliases:
+  - Seleucid_Empire
+  - Seleucid Empire
+has_id_wikidata: Q93180
+country: "[[_Standards/WikiData/WD~Seleucid_Empire,93180]]"
+capital:
+  - "[[_Standards/WikiData/WD~Antioch,200441]]"
+  - "[[_Standards/WikiData/WD~Lysimachia,517690]]"
+  - "[[_Standards/WikiData/WD~Seleucia,1136681]]"
+  - "[[_Standards/WikiData/WD~Babylon,5684]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]"
+  - "[[_Standards/WikiData/WD~Book_of_the_Later_Han,430428]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~History_of_Northern_Dynasties,1188548]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+different_from: "[[_Standards/WikiData/WD~Seleucid_dynasty,705904]]"
+official_religion: "[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~rump_state,1088391]]"
+  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - "[[_Standards/WikiData/WD~Hellenistic_kingdom,3932025]]"
+  - "[[_Standards/WikiData/WD~empire,48349]]"
+replaced_by: "[[_Standards/WikiData/WD~Parthian_Empire,1986139]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Seleucid_Empire,8728274]]"
+shares_border_with: "[[_Standards/WikiData/WD~Hasmonean_Judea,10359001]]"
+category_of_associated_people: "[[_Standards/WikiData/WD~Category_People_from_the_Seleucid_Empire,19921769]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Seleucid_ruler,28089939]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Seleucid_ruler,28089939]]"
+coordinate_location: Point(44.522222222 33.094444444)
+inception: -0311-01-01T00:00:00Z
+dissolved_abolished_or_demolished_date: -0062-01-01T00:00:00Z
+basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
+language_used:
+  - "[[_Standards/WikiData/WD~Aramaic,28602]]"
+  - "[[_Standards/WikiData/WD~Old_Persian,35225]]"
+  - "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
+area: 4000000
+population: 35000000
+official_language: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+OmegaWiki_Defined_Meaning: "1499477"
+Commons_category: Seleucids
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Xenoph%C3%B4n-S%C3%A9leucides.wav
+locator_map_image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/PtolemaicEmpireinArabic.PNG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Seleucid301BC.png
+Library_of_Congress_Classification: DS284.9
+Wolfram_Language_entity_code: Entity["HistoricalCountry", "SeleucidEmpire"]
+---
 
 # [[-0312–Seleucid_Empire-0063]] 
 

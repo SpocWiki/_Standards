@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Napoleonic_Wars
+  - Napoleonic Wars
 has_id_wikidata: Q78994
 described_by_source:
   - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"

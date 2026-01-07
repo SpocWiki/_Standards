@@ -1,6 +1,10 @@
-﻿---
-location: [ 70.1167 , 58.65 ] 
+---
+location:
+  - 70.1167
+  - 58.65
 aliases:
+  - Russian_Empire
+  - Russian Empire
 has_id_wikidata: Q34266
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bogatyr%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gorskii%2004422u.jpg
@@ -113,6 +117,7 @@ flag_image:
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Greater%20Coat%20of%20Arms%20of%20the%20Russian%20Empire.svg
 official_name: Российская империя
 ---
+﻿
 
 # [[1721-Russian_Empire+1917]] 
 

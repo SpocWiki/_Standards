@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Reconquista
 has_id_wikidata: Q79791
 participant:
   - "[[_Standards/WikiData/WD~Almoravid_dynasty,75613]]"

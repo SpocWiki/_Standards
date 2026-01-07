@@ -1,3 +1,20 @@
+---
+aliases:
+  - Burdigalian
+has_id_wikidata: Q508650
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Orleanian,2031089]]"
+named_by: "[[_Standards/WikiData/WD~Charles_Depéret,2958889]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Burdigalian,21607908]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -20440000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Bordeaux,1479]]"
+Commons_category: Burdigalian
+sRGB_color_hex_triplet: FFFF41
+end_time: -15980000-01-01T00:00:00Z
+---
 # [[Age~2~Burdigalian]] 
 
 #is_a_/time_/Age 
@@ -8,6 +25,7 @@ A time period from 20.44 to 15.98 million years ago.
 
 #has_/previous_/item :: [[Age~1~Aquitanian]] 
 #has_/next_/item :: [[Age~3~Langhian]] 
+#is_/same_as :: [[WD~Burdigalian,508650]] 
 
 ## #has_/text_of_/abstract 
 

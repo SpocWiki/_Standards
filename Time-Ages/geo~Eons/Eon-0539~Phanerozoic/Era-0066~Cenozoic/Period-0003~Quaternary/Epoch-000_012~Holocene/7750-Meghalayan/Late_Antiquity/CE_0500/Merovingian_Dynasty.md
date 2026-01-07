@@ -1,9 +1,11 @@
 ---
 aliases:
+  - Merovingian_Dynasty
+  - Merovingian dynasty
 has_id_wikidata: Q59488
 instance_of: "[[_Standards/WikiData/WD~dynasty,164950]]"
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -17,6 +19,7 @@ Library_of_Congress_Classification:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fibules%20m%C3%A9rovingiennes%2002.JPG
 Krugosvet_article_archived_: istoriya/MEROVINGI.html
 Commons_category: Merovingians
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Merovingian_dynasty,7148746]]"
 ---
 
 # [[Merovingian_Dynasty]] 

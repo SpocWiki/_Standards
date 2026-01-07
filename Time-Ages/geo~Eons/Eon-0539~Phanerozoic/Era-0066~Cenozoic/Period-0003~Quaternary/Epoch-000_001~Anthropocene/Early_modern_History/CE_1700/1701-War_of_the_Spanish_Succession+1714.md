@@ -1,5 +1,7 @@
 ---
 aliases:
+  - War_of_the_Spanish_Succession
+  - War of the Spanish Succession
 has_id_wikidata: Q150701
 end_time: 1714-09-07T00:00:00Z
 start_time: 1701-03-01T00:00:00Z

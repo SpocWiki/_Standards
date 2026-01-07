@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Russo-Polish_War
+  - Polish–Russian War
 has_id_wikidata: Q631991
 participant:
   - "[[_Standards/WikiData/WD~Crimean_Khanate,160440]]"

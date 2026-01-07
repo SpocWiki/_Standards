@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Philosophy_of_History
+  - Philosophy of history
 has_id_wikidata: Q190721
 described_by_source:
   - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"

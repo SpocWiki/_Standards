@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Seven_Years_War
+  - Seven Years' War
+  - Seven Years War
 has_id_wikidata: Q33143
 participant:
   - "[[_Standards/WikiData/WD~Iroquois,68518]]"

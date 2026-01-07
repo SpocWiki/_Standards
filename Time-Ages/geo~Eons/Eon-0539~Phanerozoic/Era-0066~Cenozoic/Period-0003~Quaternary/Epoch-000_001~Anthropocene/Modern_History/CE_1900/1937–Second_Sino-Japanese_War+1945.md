@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Second_Sino-Japanese_War
+  - Second Sino-Japanese War
 has_id_wikidata: Q170314
 participant:
   - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"

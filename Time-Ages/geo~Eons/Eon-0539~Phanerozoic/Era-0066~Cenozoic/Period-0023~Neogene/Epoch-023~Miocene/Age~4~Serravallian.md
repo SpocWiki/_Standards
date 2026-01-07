@@ -1,3 +1,24 @@
+---
+aliases:
+  - Serravallian
+has_id_wikidata: Q499307
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Astaracian,746788]]"
+named_by: "[[_Standards/WikiData/WD~Lorenzo_Pareto,3259491]]"
+replaces: "[[_Standards/WikiData/WD~Q16641518,16641518]]"
+significant_place: "[[_Standards/WikiData/WD~Fomm_ir_Riħ_Bay,20925959]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Serravallian,21607904]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Serravallian,133829794]]"
+start_time: -13820000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Serravalle_Scrivia,17669]]"
+coordinate_location: Point(14.3361 35.9139)
+end_time: -11630000-01-01T00:00:00Z
+Commons_category: Serravallian
+sRGB_color_hex_triplet: FFFF59
+---
 # [[Age~4~Serravallian]] 
 
 #is_a_/time_/Age 
@@ -8,6 +29,7 @@ A time period from 13.82 to 11.63 million years ago.
 
 #has_/previous_/item :: [[Age~3~Langhian]] 
 #has_/next_/item :: [[Age~5~Tortonian]] 
+#is_/same_as :: [[WD~Serravallian,499307]] 
 
 ## #has_/text_of_/abstract 
 

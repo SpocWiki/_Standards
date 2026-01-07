@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Warring_States
+  - Warring States period
+  - Warring States
 has_id_wikidata: Q185063
 named_after: "[[_Standards/WikiData/WD~Zhan_Guo_Ce,197396]]"
 instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"

@@ -2,7 +2,23 @@
 aliases:
   - Generational Cohort
   - Generation
+has_id_wikidata: Q213381
+described_by_source:
+  - "[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+different_from: "[[_Standards/WikiData/WD~Q11821256,11821256]]"
+subclass_of: "[[_Standards/WikiData/WD~group_of_humans,16334295]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Template_Generation,20313577]]"
+  - "[[_Standards/WikiData/WD~Template_Generations_sidebar,28124449]]"
+studied_by: "[[_Standards/WikiData/WD~sociology_of_age_and_generations,119093071]]"
+Dewey_Decimal_Classification: "305.2"
+Commons_category: Generations
 ---
+
+# [[Generation]] 
+
+#is_/same_as :: [[WD~Generation,213381]] 
 
 | Generation Name       | Start | End  | Age     | Pop/US | Notable Characteristics                                        |
 | --------------------- | ----- | ---- | ------- | -----: | -------------------------------------------------------------- |

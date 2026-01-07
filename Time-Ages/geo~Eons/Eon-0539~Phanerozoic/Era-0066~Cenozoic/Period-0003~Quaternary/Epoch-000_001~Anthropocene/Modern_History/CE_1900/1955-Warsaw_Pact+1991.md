@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Warsaw_Pact
+  - Warsaw Pact
 has_id_wikidata: Q41644
 short_name:
   - VMT

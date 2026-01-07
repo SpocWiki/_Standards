@@ -89,7 +89,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/middle_ages
 >
 > The medieval period is itself subdivided into the 
 > - [[Middle_Ages/0750-Early_Middle-Ages|Early Middle Ages]], 
-> - [[Middle_Ages/1000-High_Middle-Ages|High Middle Ages]], and 
+> - [[Middle_Ages/1000-High_Middle-Ages+1300|High Middle Ages]], and 
 > - [[Middle_Ages/1300-Late_Middle-Ages|Late Middle Ages]].
 >
 > Population decline, counterurbanisation, the collapse of centralised authority, invasions, 
@@ -116,13 +116,13 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/middle_ages
 > - Magyars from the east, and 
 > - Saracens from the south.
 >
-> During the [[Middle_Ages/1000-High_Middle-Ages|High Middle Ages]], which began after 1000, the population of Europe increased significantly 
+> During the [[Middle_Ages/1000-High_Middle-Ages+1300|High Middle Ages]], which began after 1000, the population of Europe increased significantly 
 > as technological and agricultural innovations allowed trade to flourish 
 > and the Medieval Warm Period climate change allowed crop yields to increase. 
 > Manorialism, the organisation of peasants into villages that owed rent and labour services to the nobles, 
 > and feudalism, the political structure whereby knights and lower-status nobles owed military service 
 > to their overlords in return for the right to rent from lands and manors, 
-> were two of the ways society was organised in the [[Middle_Ages/1000-High_Middle-Ages|High Middle Ages]].
+> were two of the ways society was organised in the [[Middle_Ages/1000-High_Middle-Ages+1300|High Middle Ages]].
 >
 > This period also saw the collapse of the unified Christian church with the East–West Schism of 1054. 
 > The Crusades, first preached in 1095, were military attempts by Western European Christians 

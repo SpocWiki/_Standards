@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Turkish_War_of_Independence
+  - Turkish War of Independence
 has_id_wikidata: Q234738
 participant:
   - "[[_Standards/WikiData/WD~French_Third_Republic,70802]]"
@@ -37,7 +39,13 @@ start_time: 1919-05-19T00:00:00Z
 
 ## #has_/text_of_/abstract 
 
-> The Turkish War of Independence (15 May 1919 – 24 July 1923) was a series of military campaigns and a revolution waged by the Turkish National Movement, after the Ottoman Empire was occupied and partitioned following its defeat in World War I. The conflict was between the Turkish Nationalists against Allied and separatist forces over the application of Wilsonian principles, especially self-determination, in post-World War I Anatolia and eastern Thrace. The revolution concluded the collapse of the Ottoman Empire and the Eastern question, ending the Ottoman sultanate and the Ottoman caliphate, and establishing the Republic of Turkey. This resulted in the transfer of sovereignty from the sultan-caliph to the nation, setting the stage for nationalist revolutionary reform in Republican Turkey.
+> The Turkish War of Independence (15 May 1919 – 24 July 1923) 
+> was a series of military campaigns and a revolution 
+> waged by the Turkish National Movement, 
+> after the Ottoman Empire was occupied and partitioned 
+> following its defeat in World War I. 
+> 
+> The conflict was between the Turkish Nationalists against Allied and separatist forces over the application of Wilsonian principles, especially self-determination, in post-World War I Anatolia and eastern Thrace. The revolution concluded the collapse of the Ottoman Empire and the Eastern question, ending the Ottoman sultanate and the Ottoman caliphate, and establishing the Republic of Turkey. This resulted in the transfer of sovereignty from the sultan-caliph to the nation, setting the stage for nationalist revolutionary reform in Republican Turkey.
 >
 > While World War I ended for the Ottomans with the Armistice of Mudros, the Allies continued occupying land per the Sykes–Picot Agreement, and to facilitate the prosecution of former members of the Committee of Union and Progress and those involved in the Armenian genocide. Ottoman commanders therefore refused orders from the Allies and Ottoman government to disband their forces. In an atmosphere of turmoil, Sultan Mehmed VI dispatched general Mustafa Kemal Pasha (Atatürk), to restore order; however, he became an enabler and leader of Turkish Nationalist resistance. In an attempt to establish control over the power vacuum in Anatolia, the Allies agreed to launch a Greek peacekeeping force and occupy Smyrna (İzmir), inflaming sectarian tensions and beginning the Turkish War of Independence. A nationalist counter government led by Mustafa Kemal was established in Ankara when it became clear the Ottoman government was appeasing the Allies. The Allies pressured the Ottoman "Istanbul government" to suspend the Constitution, Parliament, and sign the Treaty of Sèvres, a treaty unfavorable to Turkish interests that the "Ankara government" declared illegal.
 >

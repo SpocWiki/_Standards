@@ -1,6 +1,28 @@
 ---
 aliases:
   - Cambrian-Stage-10
+  - Cambrian Stage 10
+  - Камбрий - 10 етаж
+  - Kambrium-Stupeň 10
+  - Kambrium-Etage 10
+  - Kambrium-Stufe 10
+  - Cámbrico-Piso 10
+  - Kambrium, Lade 10
+  - Kambri-vaihe 10
+  - Cambrien-Etage 10
+  - kambrium 10. emelet
+  - cambriano - stage 10
+  - 第10期
+  - Kambras-Aukštas 10
+  - Cambrium, Zone 10
+  - Kambrium-etasje10
+  - Kambr-Piętro 10
+  - Câmbrico-Piso 10
+  - kambrium, stupeň 10
+  - kambrij-stopnja 10
+  - kambrium etage 10
+  - 第十期
+  - "{ newTitle: }":
 has_id_wikidata: Q5025305
 instance_of:
   - "[[_Standards/WikiData/WD~age,568683]]"
@@ -9,6 +31,35 @@ part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geoc
 end_time: -486850000-01-01T00:00:00Z
 sRGB_color_hex_triplet: E6F5C9
 start_time: -491000000-01-01T00:00:00Z
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 # [[Age-490~Cambrian_Stage_10]] 
@@ -94,3 +145,22 @@ noteOnly: true
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.secret|Age~3~Cambrian-Stage-10.secret]] 
 
+
+# [[Age-490~Cambrian_Stage_10]] 
+
+#is_/part_of :: [[Age-490~Cambrian-Stage-10]] 
+
+![[Age-490~Cambrian_Stage_10.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Age-490~Cambrian_Stage_10.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

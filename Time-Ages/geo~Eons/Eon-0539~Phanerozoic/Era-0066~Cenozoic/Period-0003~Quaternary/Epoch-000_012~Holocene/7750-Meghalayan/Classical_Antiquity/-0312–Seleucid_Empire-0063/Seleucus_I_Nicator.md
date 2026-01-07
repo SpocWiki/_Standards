@@ -1,5 +1,10 @@
 ---
 aliases:
+  - Seleucus_I_Nicator
+  - Seleucus I Nicator 
+  - Σέλευκος Νικάτωρ
+  - Séleukos Nikátōr
+  - Seleucus the Victorious
 has_id_wikidata: Q184176
 country_of_citizenship:
   - "[[_Standards/WikiData/WD~Macedonia,83958]]"
@@ -53,7 +58,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Seleucus::92cn8"]
 
 ## #has_/text_of_/abstract 
 
-> Seleucus I Nicator (; Greek: Σέλευκος Νικάτωρ, Séleukos Nikátōr, "Seleucus the Victorious"; 
+> Seleucus I Nicator (Greek: Σέλευκος Νικάτωρ, Séleukos Nikátōr, "Seleucus the Victorious"; 
 > c. 358 BC – 281 BC) was a Macedonian Greek general, officer 
 > and successor of Alexander the Great who went on to found the eponymous Seleucid Empire, 
 > led by the Seleucid dynasty. 

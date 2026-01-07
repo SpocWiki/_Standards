@@ -1,5 +1,7 @@
 ---
 aliases:
+  - War_in_Afghanistan
+  - war in Afghanistan
 has_id_wikidata: Q182865
 participant:
   - "[[_Standards/WikiData/WD~Northern_Alliance,309368]]"
@@ -35,6 +37,7 @@ official_name: Afghanistan Campaign
 start_time: 2001-10-07T00:00:00Z
 end_time: 2021-08-30T00:00:00Z
 booru_tag: war_in_afghanistan
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_War_in_Afghanistan_(2001_2021),7009851]]"
 ---
 
 # [[2001-War_in_Afghanistan+2021]] 

@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Uyghur_Khaganate
+  - Uyghur Khaganate
 has_id_wikidata: Q831218
 official_religion:
   - "[[_Standards/WikiData/WD~Manichaeism,131165]]"

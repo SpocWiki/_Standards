@@ -2,15 +2,31 @@
 aliases:
   - Upper Paleolithic Revolution
   - Cognitive Revolution
+  - Behavioral modernity
+has_id_wikidata: Q2706556
+facet_of:
+  - "[[_Standards/WikiData/WD~human_evolution,83944]]"
+  - "[[_Standards/WikiData/WD~human_behavior,3769299]]"
+  - "[[_Standards/WikiData/WD~evolution_of_human_intelligence,4117055]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~origin_of_language,501032]]"
+  - "[[_Standards/WikiData/WD~origins_of_society,7102639]]"
+has_effect: "[[_Standards/WikiData/WD~cultural_universal,3825100]]"
+instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+earliest_date: -50000-01-01T00:00:00Z
 ---
 
-# [[Cognitive Revolution]] 
+# [[Cognitive_Revolution]] 
 
-
+#is_/same_as :: [[WD~Behavioral_modernity,2706556]] 
 
 ## #has_/text_of_/abstract 
 
-> Behavioral modernity is a suite of behavioral and cognitive traits believed to distinguish current Homo sapiens from other anatomically modern humans, hominins, and primates. Most scholars agree that modern human behavior can be characterized by abstract thinking, planning depth, symbolic behavior (e.g., art, ornamentation), music and dance, exploitation of large game, and blade technologies, among others.
+> Behavioral modernity is a suite of behavioral and cognitive traits 
+> believed to distinguish current Homo sapiens 
+> from other anatomically modern humans, hominins, and primates. 
+> 
+> Most scholars agree that modern human behavior can be characterized by abstract thinking, planning depth, symbolic behavior (e.g., art, ornamentation), music and dance, exploitation of large game, and blade technologies, among others.
 >
 > Underlying these behaviors and technological innovations are cognitive and cultural foundations that have been documented experimentally and ethnographically by evolutionary and cultural anthropologists. These human universal patterns include cumulative cultural adaptation, social norms, language, and extensive help and cooperation beyond close kin.
 >
@@ -25,7 +41,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Cognitive Revolution|Cognitive Revolution]] 
+### #is_/same_as :: [[Cognitive_Revolution|Cognitive Revolution]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian/Cognitive Revolution.public|Cognitive Revolution.public]] 
 

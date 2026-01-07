@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Muslim_conquest_of_Persia
+  - Muslim conquest of Persia
 has_id_wikidata: Q887684
 participant:
   - "[[_Standards/WikiData/WD~Sasanian_Empire,83891]]"

@@ -1,3 +1,24 @@
+---
+aliases:
+  - Second_Balkan_War
+  - Second Balkan War
+has_id_wikidata: Q184183
+participant:
+  - "[[_Standards/WikiData/WD~Kingdom_of_Bulgaria,147909]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Greece,209065]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Serbia,241748]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Montenegro,386496]]"
+  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
+order_of_battle: "[[_Standards/WikiData/WD~Order_of_battle_of_the_Bulgarian_Army_in_the_Second_Balkan_War,7100616]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Second_Balkan_War,8725684]]"
+location: "[[_Standards/WikiData/WD~Balkans,23522]]"
+instance_of: "[[_Standards/WikiData/WD~war,198]]"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/2nd-balkan-war-bulgarian-plan.JPG
+Commons_category: Second Balkan War
+end_time: 1913-08-10T00:00:00Z
+start_time: 1913-06-29T00:00:00Z
+---
 
 # [[1913-Second_Balkan_War]] 
 

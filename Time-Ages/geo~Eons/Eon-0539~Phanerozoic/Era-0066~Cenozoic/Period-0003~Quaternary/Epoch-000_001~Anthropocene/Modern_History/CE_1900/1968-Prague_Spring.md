@@ -70,7 +70,7 @@ Commons_category: Prague Spring
 > reversed almost all of the reforms. 
 > 
 > The Prague Spring inspired music and literature including the work of 
-> Václav Havel, Karel Husa, Karel Kryl and Milan Kundera's novel The Unbearable Lightness of Being.
+> Václav Havel, Karel Husa, Karel Kryl and [[../../../../../../../../Society/Communication/Media/Writing/Book/Writer/Kundera,Milan|Milan Kundera]]'s novel The Unbearable Lightness of Being.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prague%20Spring) 
 

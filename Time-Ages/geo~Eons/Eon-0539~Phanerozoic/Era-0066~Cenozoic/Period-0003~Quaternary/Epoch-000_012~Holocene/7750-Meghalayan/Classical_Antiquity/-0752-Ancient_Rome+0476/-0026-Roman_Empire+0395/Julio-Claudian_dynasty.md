@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Julio-Claudian_dynasty
+  - Julio-Claudian dynasty
 has_id_wikidata: Q192841
 instance_of: "[[_Standards/WikiData/WD~dynasty,164950]]"
 replaced_by: "[[_Standards/WikiData/WD~Flavian_dynasty,200565]]"
@@ -13,6 +15,7 @@ schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/JulioClaudian%20de.svg
 EAGLE_id: dates/lod/43
 Commons_category: Julio-Claudian dynasty
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Julio_Claudian_dynasty,8568961]]"
 ---
 
 # [[Julio-Claudian_dynasty]] 

@@ -1,3 +1,10 @@
+---
+aliases:
+  - Fall_of_the_western_Roman_Empire
+  - fall of the Western Roman Empire
+  - fall of the Roman Empire 
+  - fall of Rome
+---
 
 # [[0476-Fall_of_the_western_Roman_Empire]] 
 

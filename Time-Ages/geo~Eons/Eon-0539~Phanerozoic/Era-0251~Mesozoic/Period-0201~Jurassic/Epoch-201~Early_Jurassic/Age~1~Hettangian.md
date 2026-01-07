@@ -1,3 +1,21 @@
+---
+aliases:
+  - Hettangian
+has_id_wikidata: Q633834
+named_by: "[[_Standards/WikiData/WD~Eugène_Renevier,116809]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Hettangian,21683218]]"
+significant_place: "[[_Standards/WikiData/WD~Kuhjoch,21881790]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Hettangian,134318266]]"
+named_after: "[[_Standards/WikiData/WD~Hettange_Grande,22739]]"
+start_time: -201300000-01-01T00:00:00Z
+coordinate_location: Point(11.530555555 47.483888888)
+sRGB_color_hex_triplet: 00BBEB
+end_time: -199300000-01-01T00:00:00Z
+---
 # [[Age~1~Hettangian]] 
 
 #is_a_/time_/Age 
@@ -8,6 +26,7 @@ A time period from 201.4 to 199.5 million years ago.
 
 #has_/previous_/item :: [[../../Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]] 
 #has_/next_/item :: [[Age~2~Sinemurian]] 
+#is_/same_as :: [[WD~Hettangian,633834]] 
 
 ## #has_/text_of_/abstract 
 
