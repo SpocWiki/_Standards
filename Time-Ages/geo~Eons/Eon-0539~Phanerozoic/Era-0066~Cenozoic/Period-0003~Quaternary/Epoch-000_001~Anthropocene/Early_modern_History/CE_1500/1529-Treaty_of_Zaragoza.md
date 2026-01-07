@@ -7,27 +7,46 @@ aliases:
   - 1529-Treaty of Zaragoza
 has_id_wikidata: Q1147471
 participant:
-  - '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
-  - '[[_Standards/WikiData/WD~Portuguese_Empire,200464]]'
+  - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
+  - "[[_Standards/WikiData/WD~Portuguese_Empire,200464]]"
 signatory:
-  - '[[_Standards/WikiData/WD~John_III_of_Portugal,216789]]'
-  - '[[_Standards/WikiData/WD~Charles_V,32500]]'
-instance_of: '[[_Standards/WikiData/WD~peace_treaty,625298]]'
+  - "[[_Standards/WikiData/WD~John_III_of_Portugal,216789]]"
+  - "[[_Standards/WikiData/WD~Charles_V,32500]]"
+instance_of: "[[_Standards/WikiData/WD~peace_treaty,625298]]"
 place_of_publication:
-  - '[[_Standards/WikiData/WD~Zaragoza_City,31926034]]'
-  - '[[_Standards/WikiData/WD~Zaragoza,10305]]'
+  - "[[_Standards/WikiData/WD~Zaragoza_City,31926034]]"
+  - "[[_Standards/WikiData/WD~Zaragoza,10305]]"
 location:
-  - '[[_Standards/WikiData/WD~Zaragoza_City,31926034]]'
-  - '[[_Standards/WikiData/WD~Zaragoza,10305]]'
-named_after: '[[_Standards/WikiData/WD~Zaragoza,10305]]'
+  - "[[_Standards/WikiData/WD~Zaragoza_City,31926034]]"
+  - "[[_Standards/WikiData/WD~Zaragoza,10305]]"
+named_after: "[[_Standards/WikiData/WD~Zaragoza,10305]]"
 country:
-  - '[[_Standards/WikiData/WD~Spain,29]]'
-  - '[[_Standards/WikiData/WD~Portugal,45]]'
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+  - "[[_Standards/WikiData/WD~Portugal,45]]"
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Verdrag%20van%20Zaragoza-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Spain%20and%20Portugal.png
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "TheTreatyOfSaragossaIsSigned"]
 Commons_category: Treaty of Zaragoza
 point_in_time: 1529-05-02T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Treaty_of_Zaragoza,1147471|WD~Treaty_of_Zaragoza,1147471]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza|1529-Treaty_of_Zaragoza]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.public|1529-Treaty_of_Zaragoza.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.internal|1529-Treaty_of_Zaragoza.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.protect|1529-Treaty_of_Zaragoza.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.private|1529-Treaty_of_Zaragoza.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.personal|1529-Treaty_of_Zaragoza.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.secret|1529-Treaty_of_Zaragoza.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Treaty_of_Zaragoza,1147471|WD~Treaty_of_Zaragoza,1147471]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza|1529-Treaty_of_Zaragoza]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.public|1529-Treaty_of_Zaragoza.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.internal|1529-Treaty_of_Zaragoza.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.protect|1529-Treaty_of_Zaragoza.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.private|1529-Treaty_of_Zaragoza.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.personal|1529-Treaty_of_Zaragoza.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1529-Treaty_of_Zaragoza.secret|1529-Treaty_of_Zaragoza.secret]]"
 ---
 
 # [[1529-Treaty_of_Zaragoza]] 

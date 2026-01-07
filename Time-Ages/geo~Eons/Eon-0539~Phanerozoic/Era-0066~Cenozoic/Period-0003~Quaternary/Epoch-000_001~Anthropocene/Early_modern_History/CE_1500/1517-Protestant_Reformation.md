@@ -7,30 +7,56 @@ aliases:
 has_id_wikidata: Q12562
 Commons_category: Reformation
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-different_from: '[[_Standards/WikiData/WD~reformism,1323572]]'
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+different_from: "[[_Standards/WikiData/WD~reformism,1323572]]"
 end_time: 1648-06
 facet_of:
-  - '[[_Standards/WikiData/WD~Protestantism,23540]]'
-  - '[[_Standards/WikiData/WD~Reformed_Christianity,101849]]'
+  - "[[_Standards/WikiData/WD~Protestantism,23540]]"
+  - "[[_Standards/WikiData/WD~Reformed_Christianity,101849]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~English_Reformation,1645505]]'
+  - "[[_Standards/WikiData/WD~English_Reformation,1645505]]"
 has_time_started: 1517-11-10
 has_time_stopped: 1648-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/95Thesen%20facsimile%20colour.png
 instance_of:
-  - '[[_Standards/WikiData/WD~schism_from_the_Catholic_Church,126288065]]'
-  - '[[_Standards/WikiData/WD~subject_heading,1128340]]'
+  - "[[_Standards/WikiData/WD~schism_from_the_Catholic_Church,126288065]]"
+  - "[[_Standards/WikiData/WD~subject_heading,1128340]]"
 Krugosvet_article: kultura_i_obrazovanie/religiya/REFORMATSIYA.html
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Protestant%20Reformation%20pagebanner.jpg
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Religious_reform,22827749]]'
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Religious_reform,22827749]]"
 start_time: 1517-11-10
-subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Reformation_sidebar,10934624]]'
+subclass_of: "[[_Standards/WikiData/WD~Protestantism,23540]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Reformation_sidebar,10934624]]"
+dv_has_:
+  time_:
+    started: 1517-11-10T00:00:00.000+00:53
+    stopped: 1648-06-01T00:00:00.000+00:53
+  duration_: P130Y6M3W1D
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Protestant_Reformation,12562|WD~Protestant_Reformation,12562]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation|1517-Protestant_Reformation]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.public|1517-Protestant_Reformation.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.internal|1517-Protestant_Reformation.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.protect|1517-Protestant_Reformation.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.private|1517-Protestant_Reformation.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.personal|1517-Protestant_Reformation.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.secret|1517-Protestant_Reformation.secret]]"
+dv_has_duration_years: 131
+dv_has_duration_: P130Y6M3W1D
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Protestant_Reformation,12562|WD~Protestant_Reformation,12562]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation|1517-Protestant_Reformation]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.public|1517-Protestant_Reformation.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.internal|1517-Protestant_Reformation.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.protect|1517-Protestant_Reformation.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.private|1517-Protestant_Reformation.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.personal|1517-Protestant_Reformation.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1517-Protestant_Reformation.secret|1517-Protestant_Reformation.secret]]"
 ---
 
 # [[1517-Protestant_Reformation]] 

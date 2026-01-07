@@ -7,23 +7,23 @@ aliases:
   - 1545-Counter-Reformation
 has_id_wikidata: Q128168
 instance_of:
-  - '[[_Standards/WikiData/WD~doctrine,117850]]'
-  - '[[_Standards/WikiData/WD~reformism,1323572]]'
-  - '[[_Standards/WikiData/WD~religious_controversy,7311342]]'
-  - '[[_Standards/WikiData/WD~religious_revival,7311395]]'
-  - '[[_Standards/WikiData/WD~social_movement,49773]]'
+  - "[[_Standards/WikiData/WD~doctrine,117850]]"
+  - "[[_Standards/WikiData/WD~reformism,1323572]]"
+  - "[[_Standards/WikiData/WD~religious_controversy,7311342]]"
+  - "[[_Standards/WikiData/WD~religious_revival,7311395]]"
+  - "[[_Standards/WikiData/WD~social_movement,49773]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
-has_effect: '[[_Standards/WikiData/WD~second_scholasticism,7443754]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Counter_Reformation,26869078]]'
-part_of: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
+has_effect: "[[_Standards/WikiData/WD~second_scholasticism,7443754]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Counter_Reformation,26869078]]"
+part_of: "[[_Standards/WikiData/WD~Catholicism,1841]]"
 location:
-  - '[[_Standards/WikiData/WD~Western_Europe,27496]]'
-  - '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+  - "[[_Standards/WikiData/WD~Western_Europe,27496]]"
+  - "[[_Standards/WikiData/WD~Central_Europe,27509]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Allegoria%20della%20battaglia%20di%20Lepanto%20-%20Gallerie%20Accademia.jpg
 start_time: 1545-01-01T00:00:00Z
 inception: 1545-01-01T00:00:00Z
@@ -32,10 +32,31 @@ Library_of_Congress_Classification: BR430
 Commons_category: Counter-Reformation
 Provenio_UUID: eca64b35-55fc-468b-9dcb-16d142960db8
 Wolfram_Language_entity_code:
-  - Entity["Concept", "CounterReformation::r948d"]
+  - Entity"Concept", "CounterReformation = `=this.dv_"Concept", "CounterReformation`
   - Entity["HistoricalEvent", "CatholicCounterReformation"]
 Krugosvet_article: religiya/kontrreformaciya
 end_time: 1648-01-01T00:00:00Z
+dv_"Concept", "CounterReformation: r948d"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Counter-Reformation,128168|WD~Counter-Reformation,128168]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation|1545-Counter-Reformation]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.public|1545-Counter-Reformation.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.internal|1545-Counter-Reformation.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.protect|1545-Counter-Reformation.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.private|1545-Counter-Reformation.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.personal|1545-Counter-Reformation.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.secret|1545-Counter-Reformation.secret]]"
+dv_concept-counterreformation: r948d"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Counter-Reformation,128168|WD~Counter-Reformation,128168]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation|1545-Counter-Reformation]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.public|1545-Counter-Reformation.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.internal|1545-Counter-Reformation.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.protect|1545-Counter-Reformation.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.private|1545-Counter-Reformation.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.personal|1545-Counter-Reformation.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1545-Counter-Reformation.secret|1545-Counter-Reformation.secret]]"
 ---
 
 # [[1545-Counter-Reformation]] 

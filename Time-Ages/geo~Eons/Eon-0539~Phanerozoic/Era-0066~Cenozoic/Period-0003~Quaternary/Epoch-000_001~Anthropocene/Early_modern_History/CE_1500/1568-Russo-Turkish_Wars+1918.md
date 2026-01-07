@@ -9,15 +9,34 @@ aliases:
   - 1568-Russo-Turkish Wars+1918
 has_id_wikidata: Q743046
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+instance_of: "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
 start_time: 1568-01-01T00:00:00Z
 Commons_category: Russo-Turkish Wars
 Universal_Decimal_Classification: 355.48(47:560)
 Krugosvet_article_archived_: istoriya/RUSSKO-TURETSKIE_VONI.html
 end_time: 1918-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Russo-Turkish_Wars,743046|WD~Russo-Turkish_Wars,743046]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918|1568-Russo-Turkish_Wars+1918]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.public|1568-Russo-Turkish_Wars+1918.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.internal|1568-Russo-Turkish_Wars+1918.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.protect|1568-Russo-Turkish_Wars+1918.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.private|1568-Russo-Turkish_Wars+1918.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.personal|1568-Russo-Turkish_Wars+1918.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.secret|1568-Russo-Turkish_Wars+1918.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Russo-Turkish_Wars,743046|WD~Russo-Turkish_Wars,743046]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918|1568-Russo-Turkish_Wars+1918]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.public|1568-Russo-Turkish_Wars+1918.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.internal|1568-Russo-Turkish_Wars+1918.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.protect|1568-Russo-Turkish_Wars+1918.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.private|1568-Russo-Turkish_Wars+1918.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.personal|1568-Russo-Turkish_Wars+1918.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1568-Russo-Turkish_Wars+1918.secret|1568-Russo-Turkish_Wars+1918.secret]]"
 ---
 
 # [[1568-Russo-Turkish_Wars+1918]] 

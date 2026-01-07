@@ -7,18 +7,37 @@ aliases:
   - 1519-Spanish Conquest-Aztec Empire+1521
 has_id_wikidata: Q828435
 participant:
-  - '[[_Standards/WikiData/WD~Tlaxcala,614072]]'
-  - '[[_Standards/WikiData/WD~Hispanic_Monarchy,766543]]'
-  - '[[_Standards/WikiData/WD~Aztec_Triple_Alliance,794210]]'
-  - '[[_Standards/WikiData/WD~Totonac_people,898658]]'
-  - '[[_Standards/WikiData/WD~Texcoco,2047652]]'
-  - '[[_Standards/WikiData/WD~Governorate_of_Cuba,5589753]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Zaachila,21003537]]'
-instance_of: '[[_Standards/WikiData/WD~conquest,1361229]]'
+  - "[[_Standards/WikiData/WD~Tlaxcala,614072]]"
+  - "[[_Standards/WikiData/WD~Hispanic_Monarchy,766543]]"
+  - "[[_Standards/WikiData/WD~Aztec_Triple_Alliance,794210]]"
+  - "[[_Standards/WikiData/WD~Totonac_people,898658]]"
+  - "[[_Standards/WikiData/WD~Texcoco,2047652]]"
+  - "[[_Standards/WikiData/WD~Governorate_of_Cuba,5589753]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Zaachila,21003537]]"
+instance_of: "[[_Standards/WikiData/WD~conquest,1361229]]"
 end_time: 1521-08-23T00:00:00Z
 start_time: 1519-02-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20Mendoza%20folio%2067r%20bottom.jpg
 Commons_category: Spanish conquest of the Aztec Empire
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Aztec_Empire,828435|WD~Spanish_conquest_of_the_Aztec_Empire,828435]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521|1519-Spanish_Conquest-Aztec_Empire+1521]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.public|1519-Spanish_Conquest-Aztec_Empire+1521.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.internal|1519-Spanish_Conquest-Aztec_Empire+1521.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.protect|1519-Spanish_Conquest-Aztec_Empire+1521.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.private|1519-Spanish_Conquest-Aztec_Empire+1521.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.personal|1519-Spanish_Conquest-Aztec_Empire+1521.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.secret|1519-Spanish_Conquest-Aztec_Empire+1521.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Aztec_Empire,828435|WD~Spanish_conquest_of_the_Aztec_Empire,828435]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521|1519-Spanish_Conquest-Aztec_Empire+1521]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.public|1519-Spanish_Conquest-Aztec_Empire+1521.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.internal|1519-Spanish_Conquest-Aztec_Empire+1521.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.protect|1519-Spanish_Conquest-Aztec_Empire+1521.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.private|1519-Spanish_Conquest-Aztec_Empire+1521.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.personal|1519-Spanish_Conquest-Aztec_Empire+1521.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1519-Spanish_Conquest-Aztec_Empire+1521.secret|1519-Spanish_Conquest-Aztec_Empire+1521.secret]]"
 ---
 
 # [[1519-Spanish_Conquest-Aztec_Empire+1521]]  
