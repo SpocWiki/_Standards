@@ -21,7 +21,7 @@ aliases:
 > which focus on documentary heritage of great regional or national importance, 
 > but not necessarily of global importance.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Memory%20of%20the%20World%20Programme)
+> [Wikipedia](https://en.wikipedia.org/wiki/Memory%20of%20the%20World%20Programme) 
 
 
 | Region                                                                                                                                                                                                                                  | inscriptions | countries |

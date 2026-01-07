@@ -152,7 +152,7 @@ OmegaWiki_Defined_Meaning: 712247
 >
 > The WHO is governed by the World Health Assembly (WHA), which is composed of its 194 member states. The WHA elects and advises an executive board made up of 34 health specialists; selects the WHO's chief administrator, the director-general (currently Tedros Adhanom Ghebreyesus of Ethiopia); sets goals and priorities; and approves the budget and activities. The WHO is funded primarily by contributions from member states (both assessed and voluntary), followed by private donors. Its total approved budget for 2020–2021 is over $7.2 billion, while the approved budget for 2022–2023 is over $6.2 billion. The budget is $6.83 billion for 2024–2025.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/World%20Health%20Organization)
+> [Wikipedia](https://en.wikipedia.org/wiki/World%20Health%20Organization) 
 
 
 ## Confidential Links & Embeds: 

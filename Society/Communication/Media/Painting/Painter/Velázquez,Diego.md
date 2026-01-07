@@ -195,7 +195,7 @@ work_location:
 >
 > Most of his work entered the Spanish royal collection, and by far the best collection is in the Museo del Prado in Madrid, although some portraits were sent abroad as diplomatic gifts, especially to the Austrian Habsburgs.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Diego%20Vel%C3%A1zquez)
+> [Wikipedia](https://en.wikipedia.org/wiki/Diego%20Vel%C3%A1zquez) 
 
 
 ## Confidential Links & Embeds: 

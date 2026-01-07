@@ -67,7 +67,7 @@
 > Moore has expressed his displeasure with adaptations and sequels of Watchmen 
 > and asked it not be used for future works.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Watchmen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Watchmen) 
 
 
 [[Morgan,Jeffrey_Dean]] plays the Comedian 

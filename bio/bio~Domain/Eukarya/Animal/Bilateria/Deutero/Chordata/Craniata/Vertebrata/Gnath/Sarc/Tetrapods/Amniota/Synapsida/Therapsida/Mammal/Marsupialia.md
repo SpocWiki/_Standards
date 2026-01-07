@@ -76,7 +76,6 @@ Metatheria, Kangaroos, koalas, gliders, wombats, opossums, bandicoots, bilbies, 
 > [Wikipedia](https://en.wikipedia.org/wiki/Marsupial) 
 
 
-
 ### Information on the Internet
 
 -   [Mammals of     Tasmania.](http://www.parks.tas.gov.au/wildlife/mammals/Tasmlist.html)

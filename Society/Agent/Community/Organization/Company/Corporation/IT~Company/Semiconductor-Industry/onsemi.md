@@ -20,7 +20,8 @@ aliases:
 > onsemi ranked among the __worldwide top 20 semiconductor sales leaders__, 
 > and was ranked No. 483 on the 2022 Fortune 500 based on its 2021 sales.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Onsemi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Onsemi) 
+
 
 It's Process is licensed to [[GlobalFoundries]]. 
 

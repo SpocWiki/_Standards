@@ -23,7 +23,9 @@ type: ElementGroup
 >
 > Several **Group 13 element**s have biological roles in the ecosystem. Boron is a trace element in humans and is essential for some plants. Lack of boron can lead to stunted plant growth, while an excess can also cause harm by inhibiting growth. Aluminium has neither a biological role nor significant toxicity and is considered safe. Indium and gallium can stimulate metabolism; gallium is credited with the ability to bind itself to iron proteins. Thallium is highly toxic, interfering with the function of numerous vital enzymes, and has seen use as a pesticide.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Boron%20group)
+> [Wikipedia](https://en.wikipedia.org/wiki/Boron%20group) 
+
+
  
 ```folderv
 ```

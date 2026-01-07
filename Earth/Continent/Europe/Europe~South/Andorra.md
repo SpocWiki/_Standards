@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 1.555277777 , 42.558333333 ] 
 aliases:
   - Andorra
   - Andorre

@@ -73,7 +73,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infinity,15603314]]'
 >
 > In physics and cosmology, it is an open question whether the universe is spatially infinite or not.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Infinity)
+> [Wikipedia](https://en.wikipedia.org/wiki/Infinity) 
 
 
 ## Confidential Links & Embeds: 

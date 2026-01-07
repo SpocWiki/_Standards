@@ -93,7 +93,9 @@ One of the continents (for example, Europe or Africa).
 >
 > Oceanic islands are occasionally grouped with a nearby continent to divide all the world's land into geographical regions. Under this scheme, most of the island countries and territories in the Pacific Ocean are grouped together with the continent of Australia to form the geographical region Oceania.In geology, a continent is defined as "one of Earth's major landmasses, including both dry land and continental shelves". The geological continents correspond to seven large areas of continental crust that are found on the tectonic plates, but exclude small continental fragments such as Madagascar that are generally referred to as microcontinents. Continental crust is only known to exist on Earth.The idea of continental drift gained recognition in the 20th century. It postulates that the current continents formed from the breaking up of a supercontinent (Pangaea) that formed hundreds of millions of years ago.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Continent)
+> [Wikipedia](https://en.wikipedia.org/wiki/Continent) 
+
+
  
 
 ```folderv

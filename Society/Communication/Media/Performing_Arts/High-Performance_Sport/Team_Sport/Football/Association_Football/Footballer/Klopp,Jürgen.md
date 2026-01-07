@@ -37,7 +37,8 @@ aliases:
 > The importance of emotion is something Klopp has underlined throughout his managerial career, 
 > and he has gained both admiration and notoriety for his enthusiastic touchline celebrations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/J%C3%BCrgen%20Klopp)
+> [Wikipedia](https://en.wikipedia.org/wiki/J%C3%BCrgen%20Klopp) 
+
 
 Ende 2023 hat er geäußert dass er spürt "wie ihm die Kraft schwindet". 
 Ende 2024 verkündet er seinen Wechsel zu [[Red_Bull]]. 

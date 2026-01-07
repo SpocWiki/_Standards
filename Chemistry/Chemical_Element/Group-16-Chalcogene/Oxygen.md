@@ -115,7 +115,6 @@ Krugosvet_article_archived_: himiya/kislorod
 
 ## #has_/text_of_/abstract 
 
-
 > **Oxygen** is the chemical element with the symbol (Abbr::O) and atomic number (Charge-e::8). 
 > It is a member of the chalcogen group in the periodic table, a highly reactive nonmetal, 
 > and an oxidizing agent that readily forms oxides with most elements as well as with other compounds. 
@@ -178,7 +177,7 @@ Krugosvet_article_archived_: himiya/kislorod
 > and cutting of steels and other metals, rocket propellant, oxygen therapy, 
 > and life support systems in aircraft, submarines, spaceflight and diving.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Oxygen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Oxygen) 
 
 
 ## Confidential Links & Embeds: 

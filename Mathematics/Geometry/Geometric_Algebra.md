@@ -88,7 +88,7 @@ aliases:
 > Geometric algebra has been advocated, most notably by David Hestenes and Chris Doran, 
 > as the preferred mathematical framework for physics. Proponents claim that it provides compact and intuitive descriptions in many areas including classical and quantum mechanics, electromagnetic theory and relativity. GA has also found use as a computational tool in computer graphics and robotics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Geometric%20algebra)
+> [Wikipedia](https://en.wikipedia.org/wiki/Geometric%20algebra) 
 
 
 ## Confidential Links & Embeds: 

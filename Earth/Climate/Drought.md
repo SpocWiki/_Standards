@@ -93,7 +93,7 @@ U_S_National_Archives_Identifier: 10640804
 >
 > Throughout history, humans have usually viewed droughts as disasters due to the impact on food availability and the rest of society. People have viewed drought as a natural disaster or as something influenced by human activity, or as a result of supernatural forces.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Drought)
+> [Wikipedia](https://en.wikipedia.org/wiki/Drought) 
 
 
 ## Confidential Links & Embeds: 

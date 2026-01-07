@@ -120,7 +120,7 @@ ISNI: 0000000110614506
 > including the Royal Society's first gold prize for mathematics, the Keith Medal, 
 > and honorary degrees from the Universities of Dublin and Oxford.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/George%20Boole)
+> [Wikipedia](https://en.wikipedia.org/wiki/George%20Boole) 
 
 
 ## Confidential Links & Embeds: 

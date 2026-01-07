@@ -41,7 +41,7 @@ aliases:
 > as one of the greatest rock vocalists of his generation. 
 > Writing for Billboard, Dan Weiss stated that Bennington "turned nu-metal universal."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chester%20Bennington)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chester%20Bennington) 
 
 
 ## Confidential Links & Embeds: 

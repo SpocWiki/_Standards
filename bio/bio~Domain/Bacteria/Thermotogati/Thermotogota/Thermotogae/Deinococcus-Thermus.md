@@ -19,6 +19,7 @@ title: Deinococcus-Thermus
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Deinococcota) 
 
+
 ## Phylogeny 
 
 -   « Ancestral Groups  

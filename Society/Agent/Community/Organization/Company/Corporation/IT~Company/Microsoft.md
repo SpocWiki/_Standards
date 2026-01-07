@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1975-04-04 
 aliases:
   - Microsoft
 has_id_wikidata: Q2283
@@ -344,7 +345,6 @@ PermID: 4295907168
 > It has been criticized for its monopolistic practices, and the company's software has been criticized for problems with ease of use, robustness, and security.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Microsoft) 
-
 
 
 ## Edit 

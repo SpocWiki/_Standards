@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 40.0 , 57.5 ] 
 aliases:
   - East European Plain
   - East_European_Plain
@@ -36,7 +37,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20de
 
 > The **East European Plain** (also called the Russian Plain, or historically the Sarmatic Plain) is a vast interior plain extending east of the North European Plain, and comprising several plateaus stretching roughly from 25 degrees longitude eastward. It includes Volhynian-Podolian Upland on its westernmost fringe, the Central Russian Upland, and, on the eastern border, encompasses the Volga Upland. The plain includes also a series of major river basins such as the Dnieper Lowland, the Oka–Don Lowland, and the Volga Basin. At the southeastern point of the East European Plain are the Caucasus and Crimean mountain ranges. Together with the North European Plain (covering much of Belgium, the Netherlands, Denmark, Germany and Poland), and covering the Baltic states (Estonia, Latvia and Lithuania), European Russia, Belarus, Ukraine, Moldova, southeastern Romania, and, at its southernmost point, the Danubian Plain in Northern Bulgaria (including Ludogorie and Southern Dobruja), it constitutes the majority of the Great European Plain (European Plain), the greatest mountain-free part of the European landscape. The plain spans approximately 4,000,000 km2 (2,000,000 sq mi) and averages about 170 m (560 ft) in elevation. The highest point of the plain (480 metres (1,574.8 ft)) is in the Bugulma-Belebey Upland, in the Eastern part of the plain, in the elevated area by the Ural Mountains (priyralie).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/East%20European%20Plain)
+> [Wikipedia](https://en.wikipedia.org/wiki/East%20European%20Plain) 
 
 
 ## Confidential Links & Embeds: 

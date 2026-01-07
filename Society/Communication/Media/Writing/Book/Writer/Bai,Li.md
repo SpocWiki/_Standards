@@ -123,7 +123,7 @@ writing_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
 > Unlike his younger friend Du Fu, Li did not live to see the end of the chaos. 
 > Li Bai is depicted in the Wu Shuang Pu (無雙譜, Table of Peerless Heroes) by Jin Guliang.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Li%20Bai)
+> [Wikipedia](https://en.wikipedia.org/wiki/Li%20Bai) 
 
 
 ## Confidential Links & Embeds: 

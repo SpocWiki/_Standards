@@ -25,7 +25,7 @@
 >
 > Alternatives to a CLI include a GUI (including the desktop metaphor such as Windows), text-based menuing (including DOS Shell and IBM AIX SMIT), and keyboard shortcuts.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Command-line%20interface)
+> [Wikipedia](https://en.wikipedia.org/wiki/Command-line%20interface) 
 
 
 ## Confidential Links & Embeds: 

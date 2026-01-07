@@ -34,7 +34,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Wetterph%C3%A4nomen%20
 >
 > In climate change science, ENSO is known as one of the internal climate variability phenomena.: 23  Future trends in ENSO due to climate change are uncertain, although climate change exacerbates the effects of droughts and floods. The IPCC Sixth Assessment Report summarized the scientific knowledge in 2021 for the future of ENSO as follows: "In the long term, it is very likely that the precipitation variance related to El Niño–Southern Oscillation will increase".: 113  The scientific consensus is also that "it is very likely that rainfall variability related to changes in the strength and spatial extent of ENSO teleconnections will lead to significant changes at regional scale".: 114
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/El%20Ni%C3%B1o%E2%80%93Southern%20Oscillation)
+> [Wikipedia](https://en.wikipedia.org/wiki/El%20Ni%C3%B1o%E2%80%93Southern%20Oscillation) 
 
 
 ## Confidential Links & Embeds: 

@@ -95,7 +95,6 @@ declination: -59.6844587777
 > [Wikipedia](https://en.wikipedia.org/wiki/Eta%20Carinae) 
 
 
-
 ## Embedded Graph 
 
 ![[Eta_Carinae.svg]] 

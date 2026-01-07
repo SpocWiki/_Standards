@@ -164,7 +164,6 @@ ZVG_number: 8240
 
 ## #has_/text_of_/abstract 
 
-
 > **Copper** is a chemical element with the symbol (Abbr::Cu) (from Latin: cuprum) and atomic number (Charge-e::29). 
 > It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. 
 > A freshly exposed surface of pure copper has a pinkish-orange color. 
@@ -180,7 +179,7 @@ ZVG_number: 8240
 >
 > Copper is essential to all living organisms as a trace dietary mineral because it is a key constituent of the respiratory enzyme complex cytochrome c oxidase. In molluscs and crustaceans, copper is a constituent of the blood pigment hemocyanin, replaced by the iron-complexed hemoglobin in fish and other vertebrates. In humans, copper is found mainly in the liver, muscle, and bone. The adult body contains between 1.4 and 2.1 mg of copper per kilogram of body weight.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Copper)
+> [Wikipedia](https://en.wikipedia.org/wiki/Copper) 
 
 
 ## Confidential Links & Embeds: 

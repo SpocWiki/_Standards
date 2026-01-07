@@ -55,7 +55,7 @@ meaning 'eastern' or loosely 'oriental'.
 > **East** is one of the four cardinal directions or points of the compass. 
 > It is the opposite direction from west and is the direction from which the Sun rises on the Earth.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/East)
+> [Wikipedia](https://en.wikipedia.org/wiki/East) 
 
 
 ## Confidential Links & Embeds: 

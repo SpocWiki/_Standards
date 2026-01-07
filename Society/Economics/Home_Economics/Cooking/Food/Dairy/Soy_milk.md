@@ -46,7 +46,7 @@ MeSH_tree_code:
 >
 > Soy milk is also used in making imitation dairy products such as soy yogurt, soy cream, soy kefir, and soy-based cheese analogues. It is also used as an ingredient for making milkshakes, pancakes, smoothies, bread, mayonnaise, and baked goods.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Soy%20milk)
+> [Wikipedia](https://en.wikipedia.org/wiki/Soy%20milk) 
 
 
 ## Confidential Links & Embeds: 

@@ -99,7 +99,7 @@ Commons_gallery: Marcus Vitruvius Pollio
 > are known to have studied the work of Vitruvius, 
 > and consequently it has had a significant impact on the architecture of many European countries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vitruvius)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Vitruvius) 
 
 
 ## Confidential Links & Embeds: 

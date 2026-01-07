@@ -205,7 +205,7 @@ P1015: 90057066
 >
 > Disney was a shy, self-deprecating and insecure man in private but adopted a warm and outgoing public persona. He had high standards and high expectations of those with whom he worked. Although there have been accusations that he was racist or antisemitic, they have been contradicted by many who knew him. Historiography of Disney has taken a variety of perspectives, ranging from views of him as a purveyor of homely patriotic values to being a representative of American cultural imperialism. Widely considered to be one of the most influential cultural figures of the 20th century, Disney remains an important presence in the history of animation and in the cultural history of the United States, where he is acknowledged as a national cultural icon. His film work continues to be shown and adapted, the Disney theme parks have grown in size and number around the world and his company has grown to become one of the world's largest mass media and entertainment conglomerates.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Walt%20Disney)
+> [Wikipedia](https://en.wikipedia.org/wiki/Walt%20Disney) 
 
 
 ## Confidential Links & Embeds: 

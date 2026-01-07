@@ -85,7 +85,7 @@ Note that the individual posts ([[BlogPosting]]s) in a [[Blog]] are often colloq
 >
 > Blog and blogging are now loosely used for content creation and sharing on social media, especially when the content is long-form and one creates and shares content on a regular basis, so one could be maintaining a blog on Facebook or blogging on Instagram. A 2022 estimate suggested that there were over 600 million public blogs out of more than 1.9 billion websites.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Blog)
+> [Wikipedia](https://en.wikipedia.org/wiki/Blog) 
 
 
 ## Confidential Links & Embeds: 

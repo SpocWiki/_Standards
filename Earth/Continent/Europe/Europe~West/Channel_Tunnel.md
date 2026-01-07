@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1993-06-20 
+location: [ 1.45 , 51.01667 ] 
 aliases:
   - Kanal-Tunnel
   - Tunnel sous la Manche

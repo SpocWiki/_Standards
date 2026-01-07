@@ -54,7 +54,7 @@ type: private_note
 >
 > In his 1800 bid for reelection to the presidency, opposition from Federalists and accusations of despotism from Jeffersonians led to Adams losing to his vice president and former friend, Thomas Jefferson. After his defeat, he retired to Massachusetts. He eventually resumed his friendship with Jefferson by initiating a continuing correspondence. He and Abigail started the Adams political family, which includes their son John Quincy Adams, the sixth president. John Adams died on July 4, 1826 – the fiftieth anniversary of the adoption of the Declaration of Independence. Adams and his son are the only presidents of the first twelve who never owned slaves. Historians and scholars have favorably ranked his administration.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Adams)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Adams) 
 
 
 ## Confidential Links & Embeds: 

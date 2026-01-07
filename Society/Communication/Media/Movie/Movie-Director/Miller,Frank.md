@@ -25,7 +25,7 @@ aliases:
 > producing the film [[300]], and directing the big screen adaptation of [[../Movie-Genre/Fantasy-Movie/Spirit(film,2008)]]. 
 > Sin City earned a Palme d'Or nomination.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Miller)
+> [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Miller) 
 
 
 ## Confidential Links & Embeds: 

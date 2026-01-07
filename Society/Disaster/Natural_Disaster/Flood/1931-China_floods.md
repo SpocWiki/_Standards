@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 114.273 , 30.5812 ] 
 aliases:
   - Yangtze–Huai River floods
   - 1931 China floods

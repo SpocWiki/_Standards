@@ -49,8 +49,6 @@ Commons_category: Universalism
 > [Wikipedia](https://en.wikipedia.org/wiki/Universalism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Universalism|Universalism]] 

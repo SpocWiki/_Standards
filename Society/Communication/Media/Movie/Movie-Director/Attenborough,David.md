@@ -37,7 +37,7 @@ aliases:
 >
 > While Attenborough's earlier work focused primarily on the wonders of the natural world, his later work has been more vocal in support of environmental causes. He has advocated for restoring planetary biodiversity, limiting population growth, switching to renewable energy, mitigating climate change, reducing meat consumption, and setting aside more areas for natural preservation. On his broadcasting and passion for nature, NPR stated Attenborough "roamed the globe and shared his discoveries and enthusiasms with his patented semi-whisper way of narrating". He is widely considered a national treasure in the UK, although he himself does not embrace the term.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/David%20Attenborough)
+> [Wikipedia](https://en.wikipedia.org/wiki/David%20Attenborough) 
 
 
 ## Confidential Links & Embeds: 

@@ -118,7 +118,7 @@ date_of_birth: 1802-08-05T00:00:00Z
 > The Abel Prize in mathematics, originally proposed in 1899 to complement the Nobel Prizes 
 > (but first awarded in 2003), is named in his honour.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Niels%20Henrik%20Abel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Niels%20Henrik%20Abel) 
 
 
 ## Confidential Links & Embeds: 

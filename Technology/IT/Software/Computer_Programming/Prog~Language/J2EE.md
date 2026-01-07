@@ -20,8 +20,7 @@
 > Examples of contexts in which Jakarta EE referencing runtimes are used are: 
 > e-commerce, accounting, banking information systems.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jakarta%20EE)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Jakarta%20EE) 
 
 
 ## Java enterprise platform history

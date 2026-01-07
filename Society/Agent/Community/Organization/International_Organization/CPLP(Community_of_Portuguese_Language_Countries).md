@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1996-07-17 
 aliases:
   - Community of Portuguese Language Countries
   - Comunidade dos Países de Língua Portuguesa

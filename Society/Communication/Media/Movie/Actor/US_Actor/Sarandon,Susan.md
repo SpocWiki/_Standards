@@ -49,7 +49,7 @@ aliases:
 > Sarandon was appointed a UNICEF Goodwill Ambassador in 1999 
 > and received the Action Against Hunger Humanitarian Award in 2006.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Susan%20Sarandon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Susan%20Sarandon) 
 
 
 ## Confidential Links & Embeds: 

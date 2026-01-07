@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 71.0 , 35.0 ] 
 aliases:
 has_id_wikidata: Q5472
 highest_point: "[[_Standards/WikiData/WD~Terich_Mir,207132]]"

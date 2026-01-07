@@ -33,7 +33,8 @@ aliases:
 >
 > South Sudan and Sudan – collectively part of the Nile Valley. They are situated in the northeastern portion of the continent. Also members of the Common Market for Eastern and Southern Africa (COMESA) free trade area.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/East%20Africa)
+> [Wikipedia](https://en.wikipedia.org/wiki/East%20Africa) 
+
 
 ## #has_/map 
 

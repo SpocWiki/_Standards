@@ -138,7 +138,7 @@ Dewey_Decimal_Classification: 439.7
 >
 > Swedish was long spoken in parts of Estonia, although the current status of the Estonian Swedish speakers is almost extinct. It is also used in the Swedish diaspora, most notably in Oslo, Norway, with more than 50,000 Swedish residents.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Swedish%20language)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Swedish%20language) 
 
 
 ## Confidential Links & Embeds: 

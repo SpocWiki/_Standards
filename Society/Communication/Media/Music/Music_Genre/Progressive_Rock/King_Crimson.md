@@ -34,7 +34,7 @@ aliases:
 >
 > Following another hiatus (2009–2012), during which Fripp was thought to be retired, King Crimson came together again in 2013; this time as a septet (and, later, octet) with an unusual three-drumkit frontline, and new second guitarist and singer Jakko Jakszyk. This version of King Crimson continued to tour from 2014 to 2021, and released multiple live albums.  After the band's final show in 2021, Fripp commented that King Crimson had "moved from sound to silence."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/King%20Crimson)
+> [Wikipedia](https://en.wikipedia.org/wiki/King%20Crimson) 
 
 
 ## Confidential Links & Embeds: 

@@ -110,7 +110,6 @@ ZVG_number:
 
 ## #has_/text_of_/abstract 
 
-
 > **Zirconium** is a chemical element with the symbol (Abbr::Zr) and atomic number (Charge-e::40). 
 > The name zirconium is taken from the name of the mineral zircon, 
 > the most important source of zirconium. 
@@ -128,7 +127,7 @@ ZVG_number:
 > Five isotopes occur naturally, four of which are stable. 
 > Zirconium compounds have no known biological role.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Zirconium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Zirconium) 
 
 
 ## Confidential Links & Embeds: 

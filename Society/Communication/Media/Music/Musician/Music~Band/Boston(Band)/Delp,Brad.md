@@ -24,7 +24,7 @@ aliases:
 > ILoveClassicRock.com described Delp's tenor voice as "flawless" and "effortless", 
 > and ranked Delp third on its list of the top 10 male classic rock vocalists.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Brad%20Delp)
+> [Wikipedia](https://en.wikipedia.org/wiki/Brad%20Delp) 
 
 
 ## Confidential Links & Embeds: 

@@ -12,7 +12,7 @@ aliases:
 > and Kad Network clients typically query known nodes on the eDonkey network 
 > in order to find an initial node on the Kad network.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kad%20network)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kad%20network) 
 
 
 ## Confidential Links & Embeds: 

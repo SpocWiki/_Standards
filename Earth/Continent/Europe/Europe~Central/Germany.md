@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 10.0 , 51.0 ] 
 aliases:
   - Deutschland
   - DEU
@@ -743,8 +744,8 @@ with numbers as of 2023-06
 > The nation's capital and most populous city is [[Germany/Germany~West/Berlin,State/cities~Berlin/Berlin,City|Berlin]] 
 > and its main financial center is [[Frankfurt]]; the largest urban area is [[Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Essen,Ruhr|Essen,Ruhr]].
 >
-> Settlement in what is now Germany began in the Lower [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Paleolithic|Paleolithic]], 
-> with various tribes inhabiting it from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/2000-Neolithic|2000-Neolithic]] onward, chiefly the Celts. 
+> Settlement in what is now Germany began in the Lower [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Paleolithic|Paleolithic]], 
+> with various tribes inhabiting it from the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/2000-Neolithic|2000-Neolithic]] onward, chiefly the Celts. 
 > 
 > Various Germanic tribes have inhabited the northern parts of modern Germany 
 > since classical antiquity. A region named Germania was documented before AD 100. 
@@ -765,9 +766,9 @@ with numbers as of 2023-06
 > the Empire was in turn transformed into the semi-presidential Weimar Republic. 
 > 
 > The Nazi seizure of power in 1933 led to the establishment of a totalitarian dictatorship, 
-> [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]], and the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Holocaust|1933-Holocaust]]. 
+> [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]], and the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Holocaust|1933-Holocaust]]. 
 > 
-> After the end of [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
+> After the end of [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]] in Europe and a period of Allied occupation, in 1949, 
 > Germany as a whole was organized into two separate polities with limited sovereignty: 
 > the [[Germany/Germany~West|Federal Republic of Germany]], generally known as West Germany, 
 > and the [[Germany/Germany~East|German Democratic Republic]], known as [[Germany/Germany~East|East Germany]], 
@@ -796,7 +797,7 @@ with numbers as of 2023-06
 > 
 > It has the third-greatest number of UNESCO World Heritage Sites.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Germany)
+> [Wikipedia](https://en.wikipedia.org/wiki/Germany) 
 
 
 ## Maps and Flags 
@@ -911,7 +912,7 @@ Capital :: [[../../../../WikiData/WD~Berlin,64]]
 >
 > In 1989, the Berlin Wall was opened, the Eastern Bloc collapsed, and East and West Germany were reunited in 1990. The Franco-German friendship became the basis for the political integration of Western Europe in the European Union. In 1998–1999, Germany was one of the founding countries of the eurozone. Germany remains one of the economic powerhouses of Europe, contributing about 1/4 of the eurozone's annual gross domestic product. In the early 2010s, Germany played a critical role in trying to resolve the escalating euro crisis, especially concerning Greece and other Southern European nations. In 2015, Germany faced the European migrant crisis as the main receiver of asylum seekers from Syria and other troubled regions. Germany opposed Russia's 2022 invasion of Ukraine and decided to strengthen its armed forces.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Germany)
+> [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Germany) 
 
 
 ## Confidential Links & Embeds: 

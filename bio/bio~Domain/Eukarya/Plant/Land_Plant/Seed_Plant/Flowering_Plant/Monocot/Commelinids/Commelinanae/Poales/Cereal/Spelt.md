@@ -118,7 +118,7 @@ UNII: W8705D5S0Q
 > in which case its botanical name is considered to be Triticum aestivum subsp. spelta. 
 > It is a hexaploid, most likely a hybrid of wheat and emmer.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spelt)
+> [Wikipedia](https://en.wikipedia.org/wiki/Spelt) 
 
 
 ## Confidential Links & Embeds: 

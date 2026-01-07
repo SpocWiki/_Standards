@@ -60,8 +60,6 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%2
 > [Wikipedia](https://en.wikipedia.org/wiki/Guiana%20Shield) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Guiana_Shield|Guiana_Shield]] 

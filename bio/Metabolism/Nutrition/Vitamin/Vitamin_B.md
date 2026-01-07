@@ -34,9 +34,7 @@ Krugosvet_article_archived_: meditsina/vitaminy-gruppy-v
 >
 > Each B vitamin is either a cofactor (generally a coenzyme) for key metabolic processes or is a precursor needed to make one.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/B%20vitamins)  
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/B%20vitamins) 
 
 
 ## Confidential Links & Embeds: 

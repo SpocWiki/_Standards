@@ -61,9 +61,7 @@ aliases:
 > In foreign policy, the party includes both those who promote tough stances against China and Russia 
 > and those who promote non-interventionism and isolationism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Republican%20Party%20(United%20States))
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Republican%20Party%20(United%20States)) 
 
 
 ## Confidential Links & Embeds: 

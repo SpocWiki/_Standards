@@ -65,7 +65,7 @@ The word _vodka_ is a [diminutive](https://en.wikipedia.org/wiki/Diminutive "Dim
 >
 > Since 1960s, the unflavoured Swedish brännvin also came to be called vodka.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vodka)   
+> [Wikipedia](https://en.wikipedia.org/wiki/Vodka) 
 
 
 ## Confidential Links & Embeds: 

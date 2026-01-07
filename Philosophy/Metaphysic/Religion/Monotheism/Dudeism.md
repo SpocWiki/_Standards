@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2005-01-01 
 aliases:
 has_id_wikidata: Q2671570
 instance_of: "[[_Standards/WikiData/WD~world_view,49447]]"

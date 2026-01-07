@@ -72,7 +72,7 @@ Commons_category: Yogurt
 >
 > The bacterial culture is mixed in, and a warm temperature of 30–45 °C (86–113 °F) is maintained for 4 to 12 hours to allow fermentation to occur, with the higher temperatures working faster but risking a lumpy texture or whey separation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yogurt)
+> [Wikipedia](https://en.wikipedia.org/wiki/Yogurt) 
 
 
 ## Confidential Links & Embeds: 

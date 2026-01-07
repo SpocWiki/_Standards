@@ -120,7 +120,7 @@ EC_number: 233-069-2
 > a higher concentration in the ozone layer (from two to eight ppm) is beneficial, 
 > preventing damaging UV light from reaching the Earth's surface.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ozone)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ozone) 
 
 
 ## Confidential Links & Embeds: 

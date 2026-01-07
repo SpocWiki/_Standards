@@ -214,7 +214,7 @@ Wolfram_Language_entity_code: Entity["Concept", "CharlesEdouardJeanneret::46q6f"
 > Le Corbusier also designed well-known furniture such as the LC4 Chaise Lounge Chair, 
 > and the ALC-3001 chair, both made of leather with metal framing.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Le%20Corbusier)
+> [Wikipedia](https://en.wikipedia.org/wiki/Le%20Corbusier) 
 
 
 # [[Le_Corbusier]] 

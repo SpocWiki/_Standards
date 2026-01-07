@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1787-01-01 
 aliases:
   - 'The Death of Socrates (French: La Mort de Socrate'
   - Death_of_Socrates

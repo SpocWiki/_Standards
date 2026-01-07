@@ -185,7 +185,7 @@ date_of_birth: 1941-01-21T00:00:00Z
 > Budapest, Cologne, Graz, Madrid, Mérida, Milan, Monte Carlo, Moscow, 
 > Munich, Palermo, Rome, Salzburg, Sofia, Verona, Versailles, Vienna and Zurich.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pl%C3%A1cido%20Domingo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pl%C3%A1cido%20Domingo) 
 
 
 ## Confidential Links & Embeds: 

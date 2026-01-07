@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 44.95 , 40.383333 ] 
 aliases:
   - Armenia
   - Arménie
@@ -479,7 +480,7 @@ Capital :: [[Armenia/Counties/Erevan/City/Yerevan]]
 >
 > Armenia is a developing country and ranks 76th on the Human Development Index as of 2024. Its economy is primarily based on industrial output and mineral extraction. While Armenia is geographically located in the South Caucasus, it is generally considered geopolitically European. Since Armenia aligns itself in many respects geopolitically with Europe, the country is a member of numerous European organisations including the Organization for Security and Co-Operation in Europe, the Council of Europe, the Eastern Partnership, Eurocontrol, the Assembly of European Regions, and the European Bank for Reconstruction and Development. Armenia is also a member of certain regional groups throughout Eurasia, including the Asian Development Bank, the Collective Security Treaty Organization, the Eurasian Economic Union, and the Eurasian Development Bank. Armenia supported the once de facto independent Republic of Artsakh (Nagorno-Karabakh), which was proclaimed in 1991 on territory internationally recognized as part of Azerbaijan, until the republic's dissolution in September 2023.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Armenia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Armenia) 
 
 
 ## Confidential Links & Embeds: 

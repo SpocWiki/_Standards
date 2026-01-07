@@ -255,7 +255,7 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/29260
 > 
 > His work is characterised by muscular figures, dramatic gestures and bold use of perspective, in the Mannerist style.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tintoretto)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tintoretto) 
 
 
 ## Confidential Links & Embeds: 

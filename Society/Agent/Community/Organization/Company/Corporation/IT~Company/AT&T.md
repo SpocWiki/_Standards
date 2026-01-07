@@ -200,7 +200,8 @@ D_U_N_S_number: 108024050
 > SBC then changed its name to AT&T Inc., 
 > with AT&T Corporation continuing to exist as the long distance subsidiary.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/AT&T%20Corporation)
+> [Wikipedia](https://en.wikipedia.org/wiki/AT&T%20Corporation) 
+
 
 In 1880 the management of American Bell had created what would become **AT&T Long Lines**. 
 The project was the first of its kind to create a nationwide long-distance network with a commercially viable cost-structure. 

@@ -79,7 +79,7 @@ aliases:
 > responsible for various murders and terrorist attacks in the U.S. since 2014. 
 > Critics charge that the term "alt-right" is merely a rebranding of white supremacism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alt-right)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alt-right) 
 
 
 ## Confidential Links & Embeds: 

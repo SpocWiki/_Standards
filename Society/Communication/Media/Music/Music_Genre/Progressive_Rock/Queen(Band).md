@@ -58,7 +58,7 @@
 > from the British Academy of Songwriters, Composers, and Authors, 
 > and in 2018 were presented the Grammy Lifetime Achievement Award.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Queen%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Queen%20(band)) 
 
 
 ## Confidential Links & Embeds: 

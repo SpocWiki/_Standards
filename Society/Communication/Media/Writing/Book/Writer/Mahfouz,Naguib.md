@@ -136,7 +136,7 @@ work_period_start_: 1932
 > no Arab writer exceeds Mahfouz in number of works that have been adapted for cinema and television. 
 > While Mahfouz's literature is classified as realist literature, existential themes appear in it.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Naguib%20Mahfouz)
+> [Wikipedia](https://en.wikipedia.org/wiki/Naguib%20Mahfouz) 
 
 
 ## Confidential Links & Embeds: 

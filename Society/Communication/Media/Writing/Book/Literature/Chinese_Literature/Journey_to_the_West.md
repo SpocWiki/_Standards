@@ -119,7 +119,7 @@ Commons_category: Journey to the West
 >
 > Journey to the West has strong roots in Chinese folk religion, Chinese mythology, Chinese Buddhism, Confucianism, Taoist and Buddhist folklore, and the pantheon of Taoist immortals and Buddhist bodhisattvas are still reflective of certain Chinese religious attitudes today, while being the inspiration of many modern manhwa, manhua, manga and anime series. Enduringly popular, the novel is at once a comic adventure story, a humorous satire of Chinese bureaucracy, a source of spiritual insight, and an extended allegory.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Journey%20to%20the%20West)
+> [Wikipedia](https://en.wikipedia.org/wiki/Journey%20to%20the%20West) 
 
 
 ## Confidential Links & Embeds: 

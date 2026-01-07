@@ -14,7 +14,7 @@
 > social insects foraging behaviour, where feedback from returning individuals 
 > affects the activity of other members of the group.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Exploration)
+> [Wikipedia](https://en.wikipedia.org/wiki/Exploration) 
 
 
 ## Confidential Links & Embeds: 

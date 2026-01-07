@@ -170,7 +170,7 @@ ISNI: "0000000121449542"
 >
 > Chiang is a controversial figure. Supporters credit him with unifying the nation and ending the century of humiliation, leading the resistance against Japan, fostering economic development and promoting Chinese culture in contrast to Mao's Cultural Revolution. He is also credited with safeguarding Forbidden City treasures during the wars with Japan and the CCP, eventually relocating some of the best to Taiwan, where he founded the National Palace Museum. Critics fault him for his early pacifism toward Japan's occupation of Manchuria, flooding of the Yellow River, cronyism and tolerating corruption of the four big families, and his white terror on both mainland China and Taiwan.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chiang%20Kai-shek)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chiang%20Kai-shek) 
 
 
 ## Confidential Links & Embeds: 

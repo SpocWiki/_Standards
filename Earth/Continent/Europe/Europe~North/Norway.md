@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 11.0 , 65.0 ] 
 aliases:
   - Norway
   - Noruega
@@ -633,7 +634,8 @@ Major Cities with Population in 1000s as of @2024
 >
 > Norway maintains the Nordic welfare model with universal health care and a comprehensive social security system, and its values are rooted in egalitarian ideals. The Norwegian state has large ownership positions in key industrial sectors, having extensive reserves of petroleum, natural gas, minerals, lumber, seafood, and fresh water. The petroleum industry accounts for around a quarter of the country's gross domestic product (GDP). On a per-capita basis, Norway is the world's largest producer of oil and natural gas outside of the Middle East. The country has the fourth- and eighth-highest per-capita income in the world on the World Bank's and IMF's list, respectively. It has the world's largest sovereign wealth fund, with a value of US$1.3 trillion.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Norway)
+> [Wikipedia](https://en.wikipedia.org/wiki/Norway) 
+
 
 ![[Coat_of_arms_of_Norway.svg|350]]
 

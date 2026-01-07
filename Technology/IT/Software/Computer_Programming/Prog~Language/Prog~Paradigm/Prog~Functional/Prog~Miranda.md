@@ -12,7 +12,7 @@
 > 
 > Miranda was first released in 1985 as a fast interpreter in C for Unix-flavour operating systems, with subsequent releases in 1987 and 1989. It had a strong influence on the later Haskell language. Turner stated that the benefits of Miranda over Haskell are:  "Smaller language, simpler type system, simpler arithmetic".In 2020 a version of Miranda was released as open source under a BSD licence. The code has been updated to conform to modern C standards (C11/C18) and to generate 64-bit binaries. This has been tested on operating systems including Debian, Ubuntu, WSL/Ubuntu, and macOS (Catalina).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Miranda%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Miranda%20(programming%20language)) 
 
 
 ## Confidential Links & Embeds: 

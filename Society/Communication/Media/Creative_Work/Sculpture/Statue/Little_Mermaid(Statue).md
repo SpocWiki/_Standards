@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1913-01-01 
+location: [ 12.59926 , 55.69286 ] 
 aliases:
   - The_Little_Mermaid
   - Den lille Havfrue

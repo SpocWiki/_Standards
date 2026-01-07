@@ -187,7 +187,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 >
 > Some of his other notable achievements include the construction of the Canal du Midi, the patronage of artists, and the founding of the French Academy of Sciences.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Louis%20XIV)
+> [Wikipedia](https://en.wikipedia.org/wiki/Louis%20XIV) 
 
 
 ## Confidential Links & Embeds: 

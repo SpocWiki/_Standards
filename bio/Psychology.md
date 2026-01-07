@@ -122,7 +122,7 @@ Baidu_Tieba_name: 心理学
 >
 > While psychological knowledge is often applied to the assessment and treatment of mental health problems, it is also directed towards understanding and solving problems in several spheres of human activity. By many accounts, psychology ultimately aims to benefit society. Many psychologists are involved in some kind of therapeutic role, practicing psychotherapy in clinical, counseling, or school settings. Other psychologists conduct scientific research on a wide range of topics related to mental processes and behavior. Typically the latter group of psychologists work in academic settings (e.g., universities, medical schools, or hospitals). Another group of psychologists is employed in industrial and organizational settings. Yet others are involved in work on human development, aging, sports, health, forensic science, education, and the media.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Psychology)
+> [Wikipedia](https://en.wikipedia.org/wiki/Psychology) 
 
 
 ## Confidential Links & Embeds: 

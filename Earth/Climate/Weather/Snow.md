@@ -63,7 +63,7 @@ winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Field-with-snow-
 >
 > Snow affects such human activities as transportation: creating the need for keeping roadways, wings, and windows clear; agriculture: providing water to crops and safeguarding livestock; sports such as skiing, snowboarding, and snowmachine travel; and warfare. Snow affects ecosystems, as well, by providing an insulating layer during winter under which plants and animals are able to survive the cold.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Snow)
+> [Wikipedia](https://en.wikipedia.org/wiki/Snow) 
 
 
 ## Confidential Links & Embeds: 

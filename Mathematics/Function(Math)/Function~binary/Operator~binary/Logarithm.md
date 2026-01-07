@@ -56,7 +56,7 @@ subreddit: Logarithms
 >
 > The concept of logarithm as the inverse of [[Exponentiation]] extends to other mathematical structures as well. However, in general settings, the logarithm tends to be a multi-valued function. For example, the complex logarithm is the multi-valued inverse of the complex exponential function. Similarly, the discrete logarithm is the multi-valued inverse of the exponential function in finite groups; it has uses in public-key cryptography.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
+> [Wikipedia](https://en.wikipedia.org/wiki/Logarithm) 
 
 
 ## Confidential Links & Embeds: 

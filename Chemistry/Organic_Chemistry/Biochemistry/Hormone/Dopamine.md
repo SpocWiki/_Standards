@@ -4,7 +4,6 @@
 
 ## #has_/text_of_/abstract 
 
-
 > **Dopamine** (DA, a contraction of 3,4-dihydroxyphenethylamine) 
 > is a neuromodulatory molecule that plays several important roles in cells. 
 > 
@@ -63,7 +62,7 @@
 >
 > Dopamine itself is available as a manufactured medication for intravenous injection. 
 > 
-> [Wikipedia](https://en.wikipedia.org/wiki/Dopamine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dopamine) 
 
 
 ## Confidential Links & Embeds: 

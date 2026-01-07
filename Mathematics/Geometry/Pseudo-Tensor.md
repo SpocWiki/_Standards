@@ -8,7 +8,6 @@ elements of the algebra with dimension between n/2 and (n − 2): __⋀<sup>n-2<
 
 ## #has_/text_of_/abstract 
 
-
 > In physics and mathematics, 
 > a **Pseudotensor** is usually a quantity that transforms like a tensor 
 > under an orientation-preserving coordinate transformation 
@@ -45,7 +44,7 @@ elements of the algebra with dimension between n/2 and (n − 2): __⋀<sup>n-2<
 > This makes pseudotensors of limited relevance 
 > because equations in which they appear are not invariant in form.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pseudotensor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pseudotensor) 
 
 
 ## Confidential Links & Embeds: 

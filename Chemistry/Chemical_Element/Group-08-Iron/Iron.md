@@ -134,7 +134,6 @@ ZVG_number: 8210
 
 ## #has_/text_of_/abstract 
 
-
 > **Iron** ( or ) is a chemical element with symbol (Abbr::Fe) (from Latin: ferrum) and atomic number (Charge-e::26). 
 > It is a metal that belongs to the first transition series and group (GroupNo::8) of the periodic table. 
 > 
@@ -181,7 +180,7 @@ ZVG_number: 8210
 > Iron also forms many coordination compounds; 
 > some of them, such as ferrocene, ferrioxalate, and [[Prussian blue]] have substantial industrial, medical, or research applications.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Iron)
+> [Wikipedia](https://en.wikipedia.org/wiki/Iron) 
 
 
 ## Steel 

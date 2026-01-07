@@ -22,7 +22,7 @@ aliases:
 > some are exactly defined, including extended Backus–Naur form (EBNF) 
 > and augmented Backus–Naur form (ABNF).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur%20form)
+> [Wikipedia](https://en.wikipedia.org/wiki/Backus%E2%80%93Naur%20form) 
 
 
 ## EBNF
@@ -51,7 +51,7 @@ aliases:
 >
 > This article uses EBNF as specified by the ISO for examples applying to all EBNFs. Other EBNF variants use somewhat different syntactic conventions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Extended%20Backus%E2%80%93Naur%20form)
+> [Wikipedia](https://en.wikipedia.org/wiki/Extended%20Backus%E2%80%93Naur%20form) 
 
 
 ## Confidential Links & Embeds: 

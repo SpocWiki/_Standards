@@ -53,7 +53,7 @@
 >
 > Shortly after his death in 1971, the University of Kansas science fiction program established the annual John W. Campbell Memorial Award for Best Science Fiction Novel and also renamed its annual Campbell Conference after him. The World Science Fiction Society established the annual John W. Campbell Award for Best New Writer, since renamed the Astounding Award for Best New Writer. The Science Fiction and Fantasy Hall of Fame inducted Campbell in 1996, in its inaugural class of two deceased and two living persons.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20W.%20Campbell)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20W.%20Campbell) 
 
 
 ## Confidential Links & Embeds: 

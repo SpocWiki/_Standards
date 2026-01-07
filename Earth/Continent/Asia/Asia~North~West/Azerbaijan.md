@@ -160,7 +160,7 @@ Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]
 >
 > The vast majority of the country's population (97%) is nominally Muslim. The Constitution of Azerbaijan does not declare an official religion, and all major political forces in the country are secular. Azerbaijan is a developing country and ranks 89th on the Human Development Index. The ruling New Azerbaijan Party, in power since 1993, has been accused of authoritarianism under presidents Heydar Aliyev and his son Ilham Aliyev, and worsening the country's human rights record, including increasing restrictions on civil liberties, particularly on press freedom, and political repression.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Azerbaijan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Azerbaijan) 
 
 
 ## Confidential Links & Embeds: 

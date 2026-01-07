@@ -38,7 +38,7 @@
 > and was theatrically released in the United States on October 4. 
 > The film was a box office success and set records for an October release. It grossed over $1 billion, becoming the first R-rated film to do so, and it was the highest-grossing R-rated film until being surpassed by Deadpool & Wolverine in 2024. It was also the sixth-highest-grossing film of 2019. The film received numerous accolades, including two Academy Award wins at the 92nd Academy Awards for Best Actor (Phoenix) and Best Original Score out of 11 nominations including Best Picture, becoming the first DC film to do so. A sequel, Joker: Folie à Deux, was released on October 4, 2024.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Joker%20(2019%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Joker%20(2019%20film)) 
 
 
 ## Confidential Links & Embeds: 

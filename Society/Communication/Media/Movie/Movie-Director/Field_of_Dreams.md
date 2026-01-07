@@ -19,7 +19,7 @@ aliases:
 > Best Picture, Best Original Score, and Best Adapted Screenplay. 
 > In 2017, it was selected for preservation in the United States National Film Registry by the Library of Congress.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Field%20of%20Dreams)
+> [Wikipedia](https://en.wikipedia.org/wiki/Field%20of%20Dreams) 
 
 
 ## Confidential Links & Embeds: 

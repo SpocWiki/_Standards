@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1974-05-19 
 aliases:
   - Zauberwürfel
   - Rubik's Cube

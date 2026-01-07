@@ -50,7 +50,7 @@ compared to a true [[Scalar]] or [[../Algebra/Linear_Algebra/Vector_Space/Tensor
 > pseudovectors are equivalent to bivectors, 
 > from which the transformation rules of pseudovectors can be derived. 
 > 
-> [Wikipedia](https://en.wikipedia.org/wiki/Pseudovector)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pseudovector) 
 
 
 ## Confidential Links & Embeds: 

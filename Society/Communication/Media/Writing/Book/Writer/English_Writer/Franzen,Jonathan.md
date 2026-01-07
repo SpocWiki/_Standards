@@ -30,7 +30,7 @@ aliases:
 > Oprah Winfrey's book club selection in 2001 of The Corrections 
 > led to a much publicized feud with the talk show host.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jonathan%20Franzen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jonathan%20Franzen) 
 
 
 His Essay Collection [[the end of the end of the earth]] 

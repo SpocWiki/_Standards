@@ -110,7 +110,7 @@ Plex_person_key: 5d776844880197001ec962f7
 > hosted by Mike Read. 
 > In 2014, he appeared in The Life of Rock with Brian Pern as himself.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Taylor%20(Queen%20drummer))
+> [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Taylor%20(Queen%20drummer)) 
 
 
 ## Confidential Links & Embeds: 

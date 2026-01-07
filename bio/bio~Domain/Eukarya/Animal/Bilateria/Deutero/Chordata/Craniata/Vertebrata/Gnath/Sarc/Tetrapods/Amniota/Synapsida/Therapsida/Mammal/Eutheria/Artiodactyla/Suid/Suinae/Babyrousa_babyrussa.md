@@ -29,7 +29,8 @@ title: Babyrousa babyrussa
 >
 > The Buru babirusa has been assessed as vulnerable on the IUCN Red List, as its habitat is restricted a total area of 20,000 km2 (7,700 sq mi), and its gradual loss due to logging. Hunting by the local population is another cause of concern. Whereas it is unpopular among Muslim communities for religious reasons, it is widely hunted by the indigenous people of Buru, which are predominantly Christian. The meat of the Buru babirusa has low fat (only 1.27% compared to 5–15% for domestic pigs) and is regarded as a delicacy. It is also preferred by the locals to the meat of other wild pigs or deer in terms of texture and flavor. The establishment of two protected areas on Buru, Gunung Kapalat Mada (1,380 km2 or 530 sq mi) and Waeapo (50 km2 or 20 sq mi), partly aim at preserving the habitat of the Buru babirusa. This species also enjoys full protection under Indonesian law since 1931.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Buru%20babirusa)
+> [Wikipedia](https://en.wikipedia.org/wiki/Buru%20babirusa) 
+
 
 ## Phylogeny 
 

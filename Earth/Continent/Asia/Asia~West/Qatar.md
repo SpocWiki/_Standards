@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 51.212767 , 25.269535 ] 
 aliases:
   - Qatar
   - قطر
@@ -419,7 +420,7 @@ Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]
 >
 > In the 21st century, Qatar emerged as both a major non-NATO ally of the United States and a middle power in the Arab world. Its economy has risen rapidly through its resource-wealth, and its geopolitical power has risen through its media group, Al Jazeera Media Network, and reported support for rebel groups financially during the Arab Spring. Qatar also forms part of the Gulf Cooperation Council.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Qatar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Qatar) 
 
 
 ## Confidential Links & Embeds: 

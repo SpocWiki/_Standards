@@ -50,7 +50,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_aesthetics,16000272]]'
 >
 > The philosophy of art specifically studies how artists imagine, create, and perform works of art, as well as how people use, enjoy, and criticize art. Aesthetics considers why people like some works of art and not others, as well as how art can affect our moods and our beliefs. Both aesthetics and the philosophy of art try to find answers to what exactly is art and what makes good art.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Aesthetics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Aesthetics) 
 
 
 ## Confidential Links & Embeds: 

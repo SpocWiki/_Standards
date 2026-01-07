@@ -24,7 +24,8 @@
 > He achieved his break-through with his novel Small World in 1997, 
 > which was published by Diogenes Verlag.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Suter)
+> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Suter) 
+
 
 ### Romane 
 

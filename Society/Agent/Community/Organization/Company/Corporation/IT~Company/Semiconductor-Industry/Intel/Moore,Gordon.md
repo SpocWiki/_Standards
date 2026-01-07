@@ -18,7 +18,7 @@ title: Gordon Moore
 > He proposed[[../../../../../../../../../../Heuristics/Moore's_Law]]] which makes the observation that 
 > the number of transistors in an integrated circuit (IC) doubles about every two years.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gordon%20Moore)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gordon%20Moore) 
 
 
 ## Confidential Links & Embeds: 

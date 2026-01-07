@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1988-01-01 
 aliases:
   - La Amistad International Park
   - Spanish Parque Internacional La Amistad

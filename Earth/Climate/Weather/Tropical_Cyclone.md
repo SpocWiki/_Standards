@@ -64,7 +64,7 @@ Commons_category: Tropical cyclones
 >
 > Heat energy from the ocean acts as the accelerator for tropical cyclones. This causes inland regions to suffer far less damage from cyclones than coastal regions, although the impacts of flooding are felt across the board. Coastal damage may be caused by strong winds and rain, high waves (due to winds), storm surges (due to wind and severe pressure changes), and the potential of spawning tornadoes. Climate change affects tropical cyclones in several ways. Scientists found that climate change can exacerbate the impact of tropical cyclones by increasing their duration, occurrence, and intensity due to the warming of ocean waters and intensification of the water cycle. Tropical cyclones draw in air from a large area and concentrate the water content of that air into precipitation over a much smaller area. This replenishing of moisture-bearing air after rain may cause multi-hour or multi-day extremely heavy rain up to 40 km (25 mi) from the coastline, far beyond the amount of water that the local atmosphere holds at any one time. This in turn can lead to river flooding, overland flooding, and a general overwhelming of local water control structures across a large area.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tropical%20cyclone)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tropical%20cyclone) 
 
 
 ## Confidential Links & Embeds: 

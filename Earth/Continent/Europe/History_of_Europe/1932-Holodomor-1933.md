@@ -1,4 +1,7 @@
----
+﻿---
+has_time_started: 1932-01-01 
+has_time_stopped: 1933-01-01 
+location: [ 32.0 , 49.0 ] 
 aliases:
   - Ukrainian Famine
   - 1932-Holodomor-1933
@@ -86,7 +89,7 @@ start_time: 1932-01-01T00:00:00Z
 > In 2008, the Russian State Duma condemned the Soviet regime 
 > "that has neglected the lives of people for the achievement of economic and political goals".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Holodomor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Holodomor) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1948-01-01 
 aliases:
   - Nineteen Eighty-Four
   - Nineteen_Eighty-Four
@@ -98,7 +99,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/1984%20first%20edition
 
 ## #has_/text_of_/abstract 
 
-
 > **Nineteen Eighty-Four** (also published as 1984) is a dystopian novel and cautionary tale by English writer George Orwell. 
 > It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. 
 > Thematically, it centres on the consequences of totalitarianism, mass surveillance, 
@@ -148,7 +148,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/1984%20first%20edition
 > It has been adapted across media since its publication, 
 > most notably as a film, released in 1984, starring [[../../../movie/Actors/British_Actors/Hurt,John]], Suzanna Hamilton and [[Richard Burton]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nineteen%20Eighty-Four)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nineteen%20Eighty-Four) 
 
 
 ## Confidential Links & Embeds: 

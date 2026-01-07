@@ -16,7 +16,8 @@ that any Algorithm can be implemented withou[[../Prog~Imperative/GOTO-Statement]
 > who were both graduate students at Stony Brook University. 
 > These diagrams are also called **Structogram**s, as they show a program's structures.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nassi%E2%80%93Shneiderman%20diagram)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nassi%E2%80%93Shneiderman%20diagram) 
+
 
 It's Blocky structure is easy for small, Top-Down structured Programs, 
 because they have no representation fo[[../Prog~Imperative/GOTO-Statement]]]]. 

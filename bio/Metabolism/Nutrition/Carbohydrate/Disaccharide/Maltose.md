@@ -19,7 +19,7 @@
 > which is why it was named after malt. 
 > Unlike sucrose, it is a reducing sugar.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Maltose)
+> [Wikipedia](https://en.wikipedia.org/wiki/Maltose) 
 
 
 ## Confidential Links & Embeds: 

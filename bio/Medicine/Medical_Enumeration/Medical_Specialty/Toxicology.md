@@ -88,7 +88,7 @@ their nature, effects and detection and involved in the treatment of poisoning.
 > from the combining forms toxico- + -logy, which in turn come from the Ancient Greek words 
 > τοξικός toxikos, "poisonous", and λόγος logos, "subject matter").
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Toxicology)
+> [Wikipedia](https://en.wikipedia.org/wiki/Toxicology) 
 
 
 ## Confidential Links & Embeds: 

@@ -184,7 +184,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > he is recognised as an incomparable, if controversial, interpreter of how empire was experienced. 
 > That, and an increasing recognition of his extraordinary narrative gifts, make him a force to be reckoned with."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rudyard%20Kipling)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rudyard%20Kipling) 
 
 
 ## Confidential Links & Embeds: 

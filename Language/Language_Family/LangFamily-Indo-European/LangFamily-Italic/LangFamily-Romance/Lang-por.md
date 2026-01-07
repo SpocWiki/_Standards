@@ -186,7 +186,7 @@ writing_system:
 > an international organization made up of all of the world's officially Lusophone nations. 
 > In 1997, a comprehensive academic study ranked Portuguese as one of the 10 most influential languages in the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Portuguese%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Portuguese%20language) 
 
 
 ## Confidential Links & Embeds: 

@@ -125,7 +125,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_communication,7112587]]'
 > The technological advances also led to new forms of communication, 
 > such as the exchange of data between computers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Communication)
+> [Wikipedia](https://en.wikipedia.org/wiki/Communication) 
 
 
 ## Confidential Links & Embeds: 

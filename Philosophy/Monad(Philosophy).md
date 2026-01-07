@@ -12,7 +12,7 @@
 > there are infinite monads, which are the basic and immaterial elementary particles, 
 > or simplest units, that make up the universe.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Monad%20(philosophy))
+> [Wikipedia](https://en.wikipedia.org/wiki/Monad%20(philosophy)) 
 
 
 ## Confidential Links & Embeds: 

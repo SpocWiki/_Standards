@@ -25,10 +25,6 @@ The International Organization for Standardization (ISO) defines trueness as,
 > [Wikipedia](https://en.wikipedia.org/wiki/Accuracy%20and%20precision) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Physics/Measurement/Trueness|Trueness]] 

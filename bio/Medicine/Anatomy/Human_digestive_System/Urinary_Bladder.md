@@ -66,7 +66,7 @@ Dewey_Decimal_Classification: 573.49
 > The modern Latin word for "bladder" – cystis – 
 > appears in associated terms such as cystitis (inflammation of the bladder).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bladder)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Bladder) 
 
 
 ## Confidential Links & Embeds: 

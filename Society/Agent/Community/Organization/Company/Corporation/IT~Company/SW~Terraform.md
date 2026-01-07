@@ -7,7 +7,8 @@
 > Users define and provide data center infrastructure 
 > using a declarative configuration language known as [[HCL(HashiCorp_Configuration_Language)]] , or optionally JSON.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Terraform%20(software))
+> [Wikipedia](https://en.wikipedia.org/wiki/Terraform%20(software)) 
+
 
 **Bicep** and **Terraform** are both Infrastructure as Code (IaC) tools used to define, provision, and manage cloud infrastructure in a declarative manner. They allow you to write code that automates the deployment and management of resources, reducing the potential for manual configuration errors and enabling repeatable and scalable infrastructure management.
 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2003-10-01 
 aliases:
   - JAXA
   - 国立研究開発法人宇宙航空研究開発機構

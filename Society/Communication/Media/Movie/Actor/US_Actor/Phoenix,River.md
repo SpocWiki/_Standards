@@ -34,7 +34,7 @@ aliases:
 > in the early hours of Halloween, 1993, having overdosed on cocaine and heroin 
 > (a mixture commonly known as speedball) at The Viper Room.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/River%20Phoenix)
+> [Wikipedia](https://en.wikipedia.org/wiki/River%20Phoenix) 
 
 
 ## Confidential Links & Embeds: 

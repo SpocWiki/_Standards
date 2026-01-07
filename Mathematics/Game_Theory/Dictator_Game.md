@@ -22,7 +22,8 @@ aliases:
 > evidence the role of fairness and norms in economic behavior, 
 > and undermine the assumption of narrow self-interest when given the opportunity to maximise one's own profits.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dictator%20game)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dictator%20game) 
+
 
 While the ultimatum game is informative, it can be considered an over simplified model when discussing most real-world negotiation situations. Real-world games tend to involve offers and counteroffers while the ultimatum game is simply player one placing forward a division of an amount that player 2 has to accept or reject. Based on this limited scope, it is expected that the second player will accept any offer they are given, which is not necessarily seen in real world examples. 
 

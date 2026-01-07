@@ -19,6 +19,7 @@ title: Thermomicrobium
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thermomicrobia) 
 
+
 ## Phylogeny 
 
 -   « Ancestral Groups  

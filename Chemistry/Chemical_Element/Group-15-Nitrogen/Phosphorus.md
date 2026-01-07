@@ -119,7 +119,6 @@ ZVG_number: 3930
 
 ## #has_/text_of_/abstract 
 
-
 > **Phosphorus** is a chemical element with the symbol (Abbr::P) and atomic number (Charge-e::15). 
 > Elemental phosphorus exists in two major forms, white phosphorus 
 > and red phosphorus, but because it is highly reactive, 
@@ -153,7 +152,8 @@ ZVG_number: 3930
 > and its annual demand is rising nearly twice as fast as the growth of the human population. 
 > Other applications include organophosphorus compounds in detergents, pesticides, and nerve agents.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Phosphorus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Phosphorus) 
+
 
 Phosphorus naturally occurs as phosphate, the salt of Phosphoric Acid H3PO4. 
 Phosphate is essential as a Fertilizer, but also for Doting Semiconductors and Accumulators. 

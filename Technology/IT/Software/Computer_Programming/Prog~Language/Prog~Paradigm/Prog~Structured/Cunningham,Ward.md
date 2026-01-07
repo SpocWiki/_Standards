@@ -63,7 +63,8 @@ name_in_native_language: Ward Cunningham
 > at the first three instances of the WikiSym conference series 
 > on wiki research and practice, and also at the Wikimedia Developer Summit 2017.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ward%20Cunningham)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ward%20Cunningham) 
+
 
 ## Cunningham's_Law
 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 43.54980469 , 37.558513 ] 
 aliases:
   - Dome of the Rock
   - Felsendom
@@ -112,7 +113,7 @@ demonym:
 > including as a "work of art and as a cultural and pious document", 
 > according to art historian Oleg Grabar.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dome%20of%20the%20Rock)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Dome%20of%20the%20Rock) 
 
 
 ## Confidential Links & Embeds: 

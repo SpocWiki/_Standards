@@ -141,7 +141,7 @@ writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 >
 > Monroe's troubled private life received much attention. Her marriages to retired baseball star Joe DiMaggio and to playwright Arthur Miller were highly publicized; both ended in divorce. On August 4, 1962, she died at age 36 of an overdose of barbiturates at her Los Angeles home. Her death was ruled a probable suicide. Monroe remains a pop culture icon, with the American Film Institute ranking her as the sixth-greatest female screen legend from the Golden Age of Hollywood.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marilyn%20Monroe)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marilyn%20Monroe) 
 
 
 ## Confidential Links & Embeds: 

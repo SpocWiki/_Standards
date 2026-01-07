@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 123.0 , 35.0 ] 
 aliases:
   - Yellow Sea
   - 黄海

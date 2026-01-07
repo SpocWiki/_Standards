@@ -491,7 +491,7 @@ Capital :: [[Angola/Provinces~Angola/Luanda,Province/Luanda,City]]
 >
 > Angola is a member of the United Nations, African Union, the Community of Portuguese Language Countries, and the Southern African Development Community. As of 2023, the Angolan population is estimated at 37.2 million. Angolan culture reflects centuries of Portuguese influence, namely the predominance of the Portuguese language and of the Catholic Church, intermingled with a variety of indigenous customs and traditions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Angola)
+> [Wikipedia](https://en.wikipedia.org/wiki/Angola) 
 
 
 ## Confidential Links & Embeds: 

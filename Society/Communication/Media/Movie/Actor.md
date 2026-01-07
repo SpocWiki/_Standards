@@ -20,7 +20,7 @@ aliases:
 >
 > Formerly, in ancient Greece and the medieval world, and in England at the time of William Shakespeare, only men could become **Actors**, and women's roles were generally played by men or boys. While Ancient Rome did allow female stage performers, only a small minority of them were given speaking parts. The commedia dell'arte of Italy, however, allowed professional women to perform early on; Lucrezia Di Siena, whose name is on a contract of actors from 10 October 1564, has been referred to as the first Italian actress known by name, with Vincenza Armani and Barbara Flaminia as the first primadonnas and the first well-documented actresses in Italy (and in Europe). After the English Restoration of 1660, women began to appear onstage in England. In modern times, particularly in pantomime and some operas, women occasionally play the roles of boys or young men.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Actor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Actor) 
 
 
 ## Confidential Links & Embeds: 

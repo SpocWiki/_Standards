@@ -13,7 +13,7 @@
 > As a result of his death, streams of the song increased and charted on the Billboard Global 200 at #123, 
 > the band's first appearance on the chart.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Everlong)
+> [Wikipedia](https://en.wikipedia.org/wiki/Everlong) 
 
 
 ## #has_/text_of_/lyrics 

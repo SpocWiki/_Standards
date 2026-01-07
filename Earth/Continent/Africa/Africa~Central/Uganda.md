@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 32.39 , 1.28 ] 
 aliases:
   - Uganda
   - Ouganda
@@ -605,7 +606,7 @@ Capital :: [[Uganda/regions~Uganda/Uganda~Central/Kampala]]
 >
 > Geographically, Uganda is diverse, with volcanic hills, mountains, and lakes, including Lake Victoria, the world's second-largest freshwater lake. The country has significant natural resources, including fertile agricultural land and untapped oil reserves, contributing to its economic development. The service sector dominates the economy, surpassing agriculture. Uganda's rich biodiversity, with national parks and wildlife reserves, attracts tourism, a vital sector for the economy. Uganda is a member of the United Nations, the African Union, G77, the East African Community, and the Organisation of Islamic Cooperation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Uganda)
+> [Wikipedia](https://en.wikipedia.org/wiki/Uganda) 
 
 
 ## Confidential Links & Embeds: 

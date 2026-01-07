@@ -19,11 +19,7 @@
 >
 > In modified forms, it is employed today in a variety of pedagogical contexts.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Socratic%20method)
-
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Socratic%20method) 
 
 
 ## Confidential Links & Embeds: 

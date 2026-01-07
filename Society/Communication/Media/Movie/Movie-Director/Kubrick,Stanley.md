@@ -183,7 +183,7 @@ work_period_start_: 1951
 > A few days after hosting a screening for his family and the stars of his final film, 
 > the erotic drama [[Eyes Wide Shut(1999)]], he died from a heart attack at the age of 70.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stanley%20Kubrick)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stanley%20Kubrick) 
 
 
 ## Confidential Links & Embeds: 

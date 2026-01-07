@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1958-01-01 
 aliases:
   - LISP
   - Prog~LISP
@@ -102,7 +103,8 @@ Modern Variants are  CLOS and [[Prog~LISP/Prog~Clojure]]
 > - and the arguments following; 
 > for instance, a function f that takes three arguments would be called as (f arg1 arg2 arg3).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lisp%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Lisp%20(programming%20language)) 
+
 
 ## All Contents
 

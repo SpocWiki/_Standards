@@ -16,7 +16,7 @@ aliases:
 > used in describing the syntax for most programming languages. 
 > He also contributed to creating the language ALGOL 60.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Naur)
+> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Naur) 
 
 
 ## Programming Views 

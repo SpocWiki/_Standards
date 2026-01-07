@@ -42,7 +42,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ion%20Engine%20Test%20
 >
 > A type of electric propulsion, spacecraft such as Dawn use an ion engine. In an ion engine, electric power is used to create charged particles of the propellant, usually the gas xenon, and accelerate them to extremely high velocities. The exhaust velocity of conventional rockets is limited to about 5 km/s by the chemical energy stored in the fuel's molecular bonds. They produce a high thrust (about 106 N), but they have a low specific impulse, and that limits their top speed. By contrast, ion engines have low force, but the top speed in principle is limited only by the electrical power available on the spacecraft and on the gas ions being accelerated. The exhaust speed of the charged particles range from 15 km/s to 35 km/s.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ion%20thruster)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Ion%20thruster) 
 
 
 ## Confidential Links & Embeds: 

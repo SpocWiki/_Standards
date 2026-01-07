@@ -69,7 +69,9 @@ Commons_category: Noble gases
 >
 > Neon, argon, krypton, and xenon are obtained from air in an air separation unit using the methods of liquefaction of gases and fractional distillation. Helium is sourced from natural gas fields that have high concentrations of helium in the natural gas, using cryogenic gas separation techniques, and radon is usually isolated from the radioactive decay of dissolved radium, thorium, or uranium compounds. Noble gases have several important applications in industries such as lighting, welding, and space exploration. A helium-oxygen breathing gas is often used by deep-sea divers at depths of seawater over 55 m (180 ft). After the risks caused by the flammability of hydrogen became apparent in the Hindenburg disaster, it was replaced with helium in blimps and balloons.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Noble%20gas)
+> [Wikipedia](https://en.wikipedia.org/wiki/Noble%20gas) 
+
+
  
 
 

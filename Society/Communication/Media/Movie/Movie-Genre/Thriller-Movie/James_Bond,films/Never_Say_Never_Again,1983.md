@@ -23,7 +23,7 @@ aliases:
 >
 > Never Say Never Again was released by Warner Bros. on 7 October 1983, and opened to positive reviews, with the performances of Connery and Klaus Maria Brandauer singled out for praise as more emotionally resonant than the typical Bond films of the day. The film grossed $160 million at the box office, making it a commercial success, although it earned less overall than the Eon-produced Octopussy, released earlier the same year.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Never%20Say%20Never%20Again)
+> [Wikipedia](https://en.wikipedia.org/wiki/Never%20Say%20Never%20Again) 
 
 
 ## Confidential Links & Embeds: 

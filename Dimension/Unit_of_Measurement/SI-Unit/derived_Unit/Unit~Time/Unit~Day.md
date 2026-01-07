@@ -92,7 +92,7 @@ Wolfram_Language_unit_code: '"Days"'
 >
 > In specific applications, the definition of a day is slightly modified, such as in the SI day (exactly 86,400 seconds) used for computers and standards keeping, local mean time accounting of the Earth's natural fluctuation of a solar day, and stellar day and sidereal day (using the celestial sphere) used for astronomy.  In some countries outside of the tropics, daylight saving time is practiced, and each year there will be one 23-hour civil day and one 25-hour civil day.  Due to slight variations in the rotation of the Earth, there are rare times when a leap second will get inserted at the end of a UTC day, and so while almost all days have a duration of 86,400 seconds, there are these exceptional cases of a day with 86,401 seconds (in the half-century spanning 1972 through 2022, there have been a total of 27 leap seconds that have been inserted, so roughly once every other year).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Day)
+> [Wikipedia](https://en.wikipedia.org/wiki/Day) 
 
 
 ## Confidential Links & Embeds: 

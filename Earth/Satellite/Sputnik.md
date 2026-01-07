@@ -83,7 +83,7 @@ Google_Doodle: sputnik-50th-anniversary
 > having completed 1,440 orbits of the Earth, 
 > and travelling a distance of approximately 70,000,000 km (43,000,000 mi).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sputnik%201)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Sputnik%201) 
 
 
 ## Confidential Links & Embeds: 

@@ -30,7 +30,7 @@ subclass_of:
 >
 > The term inductor seems to come from Heinrich Daniel Ruhmkorff, who called the induction coil he invented in 1851 an inductorium.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Inductor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Inductor) 
 
 
 ## Confidential Links & Embeds: 

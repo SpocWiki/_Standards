@@ -45,7 +45,7 @@ U_S_National_Archives_Identifier: 10637733
 >
 > Adam Smith defined capital as "that part of man's stock which he expects to afford him revenue". In economic models, capital is an input in the production function. The total physical capital at any given moment in time is referred to as the capital stock (not to be confused with the capital stock of a business entity). Capital goods, real capital, or capital assets are already-produced, durable goods or any non-financial asset that is used in production of goods or services.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Capital%20(economics))
+> [Wikipedia](https://en.wikipedia.org/wiki/Capital%20(economics)) 
 
 
 ## Confidential Links & Embeds: 

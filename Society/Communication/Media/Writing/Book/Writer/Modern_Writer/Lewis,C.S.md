@@ -176,7 +176,7 @@ subreddit: CSLewis
 > In 2013, on the 50th anniversary of his death, 
 > Lewis was honoured with a memorial in Poets' Corner in Westminster Abbey.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/C.%20S.%20Lewis)
+> [Wikipedia](https://en.wikipedia.org/wiki/C.%20S.%20Lewis) 
 
 
 ## Confidential Links & Embeds: 

@@ -298,7 +298,7 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20J
 > His poems were set to music by many composers 
 > including Mozart, Beethoven, Schubert, Berlioz, Liszt, Wagner, and Mahler.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Wolfgang%20von%20Goethe)
+> [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Wolfgang%20von%20Goethe) 
 
 
 ## Confidential Links & Embeds: 

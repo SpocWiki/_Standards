@@ -513,7 +513,7 @@ Capital :: [[Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Lisboa,Ci
 >
 > Portugal's imperial history has left a vast cultural legacy, with around 300 million Portuguese speakers around the world. Today, it is a developed country with an advanced economy relying chiefly upon services, industry, and tourism. Portugal, a member of the United Nations, the European Union, the Schengen Area, and the Council of Europe, was one of the founding members of NATO, the eurozone, the OECD, and the Community of Portuguese Language Countries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Portugal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Portugal) 
 
 
 ## Confidential Links & Embeds: 

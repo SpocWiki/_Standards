@@ -71,7 +71,7 @@ ISNI: "0000000121432476"
 > surpassing Zheng He with about 50,000 km (31,000 mi) 
 > and Marco Polo with 24,000 km (15,000 mi).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ibn%20Battuta)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ibn%20Battuta) 
 
 
 ## Confidential Links & Embeds: 

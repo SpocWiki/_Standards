@@ -100,7 +100,6 @@ ZVG_number: 8420
 
 ## #has_/text_of_/abstract 
 
-
 > **Barium** is a chemical element with the symbol (Abbr::Ba) and atomic number (Charge-e::56). 
 > It is the fifth element ((PeriodNo::6)) in group (GroupNo::2) and is a soft, silvery alkaline earth metal. 
 > Because of its high chemical reactivity, barium is never found in nature as a free element.
@@ -126,7 +125,7 @@ ZVG_number: 8420
 > In a purer form it is used as X-ray radiocontrast agents for imaging the human gastrointestinal tract. 
 > Water-soluble barium compounds are poisonous and have been used as rodenticides.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Barium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Barium) 
 
 
 ## Confidential Links & Embeds: 

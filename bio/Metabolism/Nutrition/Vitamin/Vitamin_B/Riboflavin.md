@@ -132,11 +132,7 @@ Dewey_Decimal_Classification:
 >
 > In 2023, riboflavin was the 294th most commonly prescribed medication in the United States, with more than 400,000 prescriptions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Riboflavin)  
-
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Riboflavin) 
 
 
 ## Confidential Links & Embeds: 

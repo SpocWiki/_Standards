@@ -46,7 +46,7 @@ aliases:
 >
 > Several COVID-19 vaccines have been approved and distributed in various countries, many of which have initiated mass vaccination campaigns. Other preventive measures include physical or social distancing, quarantining, ventilation of indoor spaces, use of face masks or coverings in public, covering coughs and sneezes, hand washing, and keeping unwashed hands away from the face. While drugs have been developed to inhibit the virus, the primary treatment is still symptomatic, managing the disease through supportive care, isolation, and experimental measures.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/COVID-19)
+> [Wikipedia](https://en.wikipedia.org/wiki/COVID-19) 
 
 
 ## Confidential Links & Embeds: 

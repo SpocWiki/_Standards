@@ -42,7 +42,7 @@ Commons_category: Nebular hypothesis
 >
 > The formation of giant planets is a more complicated process. It is thought to occur beyond the frost line, where planetary embryos mainly are made of various types of ice. As a result, they are several times more massive than in the inner part of the protoplanetary disk. What follows after the embryo formation is not completely clear. Some embryos appear to continue to grow and eventually reach 5–10 Earth masses—the threshold value, which is necessary to begin accretion of the hydrogen–helium gas from the disk. The accumulation of gas by the core is initially a slow process, which continues for several million years, but after the forming protoplanet reaches about 30 Earth masses (M🜨) it accelerates and proceeds in a runaway manner. Jupiter- and Saturn-like planets are thought to accumulate the bulk of their mass during only 10,000 years. The accretion stops when the gas is exhausted. The formed planets can migrate over long distances during or after their formation. Ice giants such as Uranus and Neptune are thought to be failed cores, which formed too late when the disk had almost disappeared.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nebular%20hypothesis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nebular%20hypothesis) 
 
 
 ## Confidential Links & Embeds: 

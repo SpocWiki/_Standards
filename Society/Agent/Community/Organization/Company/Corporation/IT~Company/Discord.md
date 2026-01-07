@@ -11,7 +11,7 @@ Discord is rewritten in [[../../../../../../../Technology/IT/Software/Computer_P
 > 
 > It is primarily used by gamers, although the share of users interested in other topics is growing. As of September 2023, Discord is the 35th most visited website in the world with 23.42% of its traffic coming from the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Discord)
+> [Wikipedia](https://en.wikipedia.org/wiki/Discord) 
 
 
 ## Edit

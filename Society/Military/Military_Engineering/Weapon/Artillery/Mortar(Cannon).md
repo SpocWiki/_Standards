@@ -48,7 +48,7 @@ Artillery weapon that launches explosive projectiles at high angles.
 > Mortars launch explosive shells (technically called bombs) 
 > in high arching ballistic trajectories.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mortar%20(weapon))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Mortar%20(weapon)) 
 
 
 ## Confidential Links & Embeds: 

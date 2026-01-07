@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1948-08-23 
 aliases:
 has_id_wikidata: Q283639
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/VSEMIRNI_SOVET_TSERKVE.html

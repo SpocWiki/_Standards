@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 86.925 , 27.988055555 ] 
 aliases:
   - Mount_Everest
   - Mount Everest

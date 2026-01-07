@@ -112,7 +112,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PALESTRINA_DZHOVANNI_P
 > as well as giving his style (or, more precisely, later generations' selective view of it) 
 > an iconic stature as a model of perfect achievement."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Giovanni%20Pierluigi%20da%20Palestrina)
+> [Wikipedia](https://en.wikipedia.org/wiki/Giovanni%20Pierluigi%20da%20Palestrina) 
 
 
 ## Confidential Links & Embeds: 

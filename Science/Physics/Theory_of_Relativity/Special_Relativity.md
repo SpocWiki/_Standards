@@ -41,7 +41,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Experiment%20zur%20Rel
 >
 > The first postulate was first formulated by Galileo Galilei (see Galilean invariance).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Special%20relativity)
+> [Wikipedia](https://en.wikipedia.org/wiki/Special%20relativity) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 105.0 , 12.5 ] 
 aliases:
   - Cambodia
   - Camboya
@@ -470,7 +471,7 @@ Capital :: [[Phnom_Penh]]
 >
 > Cambodia is a constitutional monarchy and multi-party state, although the CPP dominates the political system. The UN designates Cambodia a least developed country. Agriculture remains its dominant economic sector, with growth in textiles, construction, garments, and tourism leading to increased foreign investment and international trade. Corruption, human rights issues and deforestation have remained challenges in Cambodia's post-conflict development. The official and most widely spoken language is Khmer, and the most widely practiced religion is Buddhism. The country's culture and traditions are shaped by its Angkorean heritage and international influences over its history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cambodia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cambodia) 
 
 
 ## Confidential Links & Embeds: 

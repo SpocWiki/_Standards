@@ -38,7 +38,7 @@ UMLS_CUI: C0019868
 >
 > The polyunsaturated fatty acids are lipid derivatives of omega-3 (docosahexaenoic acid, and eicosapentaenoic acid) or of omega-6 (arachidonic acid). They are synthesized from membrane phospholipids and used as precursors for endocannabinoids to mediate significant effects in the fine-tuning adjustment of body homeostasis.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Homeostasis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Homeostasis) 
 
 
 ## Confidential Links & Embeds: 

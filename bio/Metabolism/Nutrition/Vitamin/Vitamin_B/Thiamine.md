@@ -138,10 +138,6 @@ SPLASH:
 > [Wikipedia](https://en.wikipedia.org/wiki/Thiamine) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Thiamine|Thiamine]] 

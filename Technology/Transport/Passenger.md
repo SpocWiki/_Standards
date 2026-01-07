@@ -51,7 +51,7 @@ Wolfram_Language_unit_code: '"Passengers"'
 > For example, a flight attendant on an airline would not be considered a passenger 
 > while on duty and the same with those working in the kitchen or restaurant on board a ship as well as cleaning staff, but an employee riding in a company car being driven by another person would be considered a passenger, even if the car was being driven on company business.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Passenger)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Passenger) 
 
 
 ## Confidential Links & Embeds: 

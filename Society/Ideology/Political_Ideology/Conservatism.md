@@ -61,7 +61,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Reagan%27s
 >
 > Conservatism has varied considerably as it has adapted itself to existing traditions and national cultures. Thus, conservatives from different parts of the world, each upholding their respective traditions, may disagree on a wide range of issues. One of the three major ideologies along with liberalism and socialism, conservatism is the dominant ideology in many nations across the world, including Hungary, India, Iran, Israel, Italy, Japan, Poland, Russia, Singapore, and South Korea. Historically associated with right-wing politics, the term has been used to describe a wide range of views. Conservatism may be either libertarian or authoritarian, populist or elitist, progressive or reactionary, moderate or extreme.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Conservatism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Conservatism) 
 
 
 ## Confidential Links & Embeds: 

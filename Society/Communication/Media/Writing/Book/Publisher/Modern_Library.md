@@ -19,7 +19,7 @@ aliases:
 > and eventually overtook its parent company, 
 > with Modern Library becoming an imprint of Random House.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Modern%20Library)
+> [Wikipedia](https://en.wikipedia.org/wiki/Modern%20Library) 
 
 
 ## Confidential Links & Embeds: 

@@ -66,7 +66,7 @@
 > [[Oscar_Isaac]] portrays Marc Spector / Moon Knight, Steven Grant / Mr. Knight, 
 > and Jake Lockley in the [[../Marvel_Entertainment|Marvel_Entertainment]] Cinematic Universe live-action television series Moon Knight (2022).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Moon%20Knight)
+> [Wikipedia](https://en.wikipedia.org/wiki/Moon%20Knight) 
 
 
 ## Confidential Links & Embeds: 

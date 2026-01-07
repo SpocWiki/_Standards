@@ -8,6 +8,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/R/changemyview) 
 
+
 It turned out that LLMs are 20 times more successful than humans in changing user's views. 
 
 

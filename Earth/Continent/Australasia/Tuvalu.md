@@ -355,7 +355,7 @@ Capital :: [[Funafuti]]
 >
 > The islands do not have a significant amount of soil, so the country relies heavily on imports and fishing for food. Licensing fishing permits to international companies, grants and aid projects, and remittances to their families from Tuvaluan seafarers who work on cargo ships are important parts of the economy. Because it is a low-lying island nation, Tuvalu is extremely vulnerable to sea level rise due to climate change. It is active in international climate negotiations as part of the Alliance of Small Island States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tuvalu)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tuvalu) 
 
 
 ## Confidential Links & Embeds: 

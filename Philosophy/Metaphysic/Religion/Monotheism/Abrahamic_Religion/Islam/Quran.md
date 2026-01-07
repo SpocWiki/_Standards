@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0631-01-01 
 aliases:
   - Qur’an
   - Quran

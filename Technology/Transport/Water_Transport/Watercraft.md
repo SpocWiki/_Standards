@@ -29,7 +29,7 @@ Commons_category: Watercraft
 > for travel across or through water bodies, such as a 
 > boat, ship, hovercraft, submersible or submarine.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Watercraft)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Watercraft) 
 
 
 ## Confidential Links & Embeds: 

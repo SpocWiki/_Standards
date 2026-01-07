@@ -53,7 +53,7 @@ OpenStreetMap_tag_or_key: Tag:military_service=navy
 >
 > The strategic offensive role of a navy is projection of force into areas beyond a country's shores (for example, to protect sea-lanes, deter or confront piracy, ferry troops, or attack other navies, ports, or shore installations). The strategic defensive purpose of a navy is to frustrate seaborne projection-of-force by enemies. The strategic task of a navy also may incorporate nuclear deterrence by use of submarine-launched ballistic missiles. Naval operations can be broadly divided between riverine and littoral applications (brown-water navy), open-ocean applications (blue-water navy), and something in between (green-water navy), although these distinctions are more about strategic scope than tactical or operational division.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Navy)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Navy) 
 
 
 ## Confidential Links & Embeds: 

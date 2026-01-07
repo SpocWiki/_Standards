@@ -464,7 +464,7 @@ Capital :: [[Nouakchott]]
 >
 > Mauritania is culturally and politically part of the Arab world; it is a member of the Arab League and Arabic is the official language. The official religion is Islam, and almost all inhabitants are Sunni Muslims. Despite its prevailing Arab identity, Mauritanian society is multiethnic; the Bidhan, or so-called "white moors", make up 30% of the population, while the Haratin, or so-called "black moors", comprise 40%. Both groups reflect a fusion of Arab-Berber ethnicity, language, and culture. The remaining 30% of the population comprises various sub-Saharan ethnic groups.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mauritania)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mauritania) 
 
 
 ## Confidential Links & Embeds: 

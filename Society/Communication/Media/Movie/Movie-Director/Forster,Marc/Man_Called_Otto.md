@@ -22,7 +22,7 @@ aliases:
 > The film received positive reviews from critics 
 > and grossed $113 million worldwide against a $50 million production budget.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/A%20Man%20Called%20Otto)  
+> [Wikipedia](https://en.wikipedia.org/wiki/A%20Man%20Called%20Otto) 
 
 
 ## Confidential Links & Embeds: 

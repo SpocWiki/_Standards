@@ -83,7 +83,7 @@ Instagram_username: larry_page
 > a search ranking algorithm for Google for which he received the Marconi Prize in 2004 
 > along with co-writer Brin.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Larry%20Page)
+> [Wikipedia](https://en.wikipedia.org/wiki/Larry%20Page) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1768-01-01 
 aliases:
   - British Encyclopaedia
   - Encyclopædia_Britannica

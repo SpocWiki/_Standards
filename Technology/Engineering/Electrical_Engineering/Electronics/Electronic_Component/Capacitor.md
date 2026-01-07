@@ -80,7 +80,7 @@ subclass_of:
 > The property of energy storage in capacitors 
 > was exploited as dynamic memory in early digital computers, and still is in modern DRAM.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Capacitor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Capacitor) 
 
 
 ## Confidential Links & Embeds: 

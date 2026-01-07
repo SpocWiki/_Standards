@@ -157,7 +157,7 @@ Europeana_entity: agent/base/147127
 >
 > His innovative music was among the most influential and polemicized of 20th-century classical music. At least three generations of composers extended its somewhat formal principles. His aesthetic and music-historical views influenced musicologists Theodor W. Adorno and Carl Dahlhaus. The **Arnold Schönberg** Center collects his archival legacy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Arnold%20Schoenberg)
+> [Wikipedia](https://en.wikipedia.org/wiki/Arnold%20Schoenberg) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1066-01-01 
 aliases:
   - Tower of London
   - Tower_of_London

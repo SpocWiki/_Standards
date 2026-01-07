@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1940-01-01 
+has_time_stopped: 1960-01-01 
 aliases:
   - Third Agricultural Revolution
   - green revolution

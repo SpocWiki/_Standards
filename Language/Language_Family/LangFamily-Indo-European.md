@@ -84,7 +84,7 @@ ISO_639_6_code: ineu
 >
 > The Indo-European language family is not considered by the current academic consensus in the field of linguistics to have any genetic relationships with other language families, although several disputed hypotheses propose such relations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Indo-European%20languages)
+> [Wikipedia](https://en.wikipedia.org/wiki/Indo-European%20languages) 
 
 
 ## Confidential Links & Embeds: 

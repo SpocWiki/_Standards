@@ -216,7 +216,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Spielberg%202
 > in the U.S. Reviewing Close Encounters, 
 > [[../Move-Critics/Kael,Pauline]] called the young Spielberg "a magician in the age of movies." 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Steven%20Spielberg)
+> [Wikipedia](https://en.wikipedia.org/wiki/Steven%20Spielberg) 
 
 
 ## Confidential Links & Embeds: 

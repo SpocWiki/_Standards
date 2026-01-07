@@ -112,7 +112,8 @@ short_name: V. vicugna
 > Today, the vicuña is mainly wild, but the local people still perform special rituals with these creatures, 
 > including a fertility rite.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vicu%C3%B1a)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vicu%C3%B1a) 
+
 
 ## Phylogeny 
 

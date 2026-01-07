@@ -41,7 +41,7 @@ Dewey_Decimal_Classification:
 >
 > As of 2022, the United States reached 1 million cumulative transplants, with kidneys being the most common globally. Challenges include global shortages, with only 10-20% of needs met, and inequities in access. Recent advances include xenotransplantation and machine perfusion to extend organ viability.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Organ%20transplantation)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Organ%20transplantation) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 66.0 , 41.0 ] 
 aliases:
   - Uzbekistan
   - Uzbekistán
@@ -459,7 +460,7 @@ Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]
 >
 > The Uzbek economy is in a gradual transition to the market economy, with foreign trade policy being based on import substitution. In September 2017, the country's currency became fully convertible at market rates. Uzbekistan is a major producer and exporter of cotton. With the gigantic power-generation facilities from the Soviet era and an ample supply of natural gas, Uzbekistan has become the largest electricity producer in Central Asia. From 2018 to 2021, the republic received a BB− sovereign credit rating by both Standard and Poor (S&P) and Fitch Ratings. The Brookings Institution described Uzbekistan as having large liquid assets, high economic growth, low public debt, and a low GDP per capita. Uzbekistan is a member of the Commonwealth of Independent States (CIS), United Nations (UN) and the Shanghai Cooperation Organisation (SCO).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Uzbekistan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Uzbekistan) 
 
 
 ## Confidential Links & Embeds: 

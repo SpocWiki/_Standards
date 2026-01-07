@@ -154,7 +154,7 @@ work_period_start_: 1944-01-01
 >
 > Bertrand Tavernier said: “Bergman was the first to bring metaphysics — religion, death, existentialism — to the screen. But the best of Bergman is the way he speaks of women, of the relationship between men and women. He’s like a miner digging in search of purity.”
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ingmar%20Bergman)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ingmar%20Bergman) 
 
 
 ## Confidential Links & Embeds: 

@@ -86,7 +86,7 @@ aliases:
 > while his sister Geshtinanna remains in the underworld for the other half, 
 > resulting in the cycle of the seasons.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Inanna)
+> [Wikipedia](https://en.wikipedia.org/wiki/Inanna) 
 
 
 ## Confidential Links & Embeds: 

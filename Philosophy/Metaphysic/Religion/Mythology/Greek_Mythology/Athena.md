@@ -63,7 +63,7 @@ aliases:
 >
 > In the later writings of the Roman poet Ovid, Athena was said to have competed against the mortal Arachne in a weaving competition, afterward transforming Arachne into the first spider, and to have transformed Medusa into the Gorgon after witnessing the young woman being raped by Poseidon in the goddess's temple. Ovid also says that Athena saved the mortal maiden Corone from the same god by transforming her into a crow. Since the Renaissance, Athena has become an international symbol of wisdom, the arts, and classical learning. Western artists and allegorists have often used Athena as a symbol of freedom and democracy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Athena)
+> [Wikipedia](https://en.wikipedia.org/wiki/Athena) 
 
 
 ## Confidential Links & Embeds: 

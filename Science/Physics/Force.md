@@ -88,7 +88,7 @@ Wikidata_property: force
 > 
 > However, the understanding of force provided by classical mechanics is useful for practical purposes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Force)
+> [Wikipedia](https://en.wikipedia.org/wiki/Force) 
 
 
 ## Confidential Links & Embeds: 

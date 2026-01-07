@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1540-01-01 
 aliases:
   - Society_of_Jesus
   - Societas Iesu

@@ -143,7 +143,7 @@ date_of_death: 1918-01-06T00:00:00Z
 > David Hilbert defended it from its critics by declaring, 
 > "No one shall expel us from the paradise that Cantor has created."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Georg%20Cantor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Georg%20Cantor) 
 
 
 ## Confidential Links & Embeds: 

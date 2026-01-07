@@ -97,8 +97,6 @@ Commons_category: History of the United States
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20the%20United%20States) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA|History_of_the_USA]] 

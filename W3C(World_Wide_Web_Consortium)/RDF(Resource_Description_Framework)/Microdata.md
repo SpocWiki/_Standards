@@ -14,7 +14,8 @@
 >
 > In 2013, because the W3C HTML Working Group failed to find someone to serve as an editor for the **Microdata (HTML)** specification, its development was terminated with a 'Note'. However, since that time, two new editors were selected, and five newer versions of the working draft have been published, the most recent being W3C Working Draft 26 April 2018.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Microdata%20(HTML))
+> [Wikipedia](https://en.wikipedia.org/wiki/Microdata%20(HTML)) 
+
 
 Attributes of Microdata are: 
 - `itemscope` – Creates an Item and indicates that descendants of this [element](https://en.wikipedia.org/wiki/HTML_element "HTML element") 

@@ -57,7 +57,7 @@ U_S_National_Archives_Identifier: 10637899
 >
 > Trans men have a gender identity that does not align with their female sex assignment at birth, while intersex men may have sex characteristics that do not fit typical notions of male biology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Man)
+> [Wikipedia](https://en.wikipedia.org/wiki/Man) 
 
 
 ## Confidential Links & Embeds: 

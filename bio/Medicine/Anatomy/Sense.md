@@ -47,7 +47,7 @@ Commons_category: Senses
 >
 > Sensory systems, or senses, are often divided into external (exteroception) and internal (interoception) sensory systems. Human external senses are based on the sensory organs of the eyes, ears, skin, nose, and mouth. Internal sensation detects stimuli from internal organs and tissues. Internal senses possessed by humans include spatial orientation, proprioception (body position) both perceived by the vestibular system (located inside the ears) and nociception (pain). Further internal senses lead to signals such as hunger, thirst, suffocation, and nausea, or different involuntary behaviors, such as vomiting. Some animals are able to detect electrical and magnetic fields, air moisture, or polarized light, while others sense and perceive through alternative systems, such as echolocation. Sensory modalities or sub modalities are different ways sensory information is encoded or transduced. Multimodality integrates different senses into one unified perceptual experience. For example, information from one sense has the potential to influence how information from another is perceived. Sensation and perception are studied by a variety of related fields, most notably psychophysics, neurobiology, cognitive psychology, and cognitive science.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sense)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Sense) 
 
 
 ## Confidential Links & Embeds: 

@@ -41,7 +41,7 @@ Krugosvet_article: tekhnologiya-i-promyshlennost/viski
 >
 > Whisky is a strictly regulated spirit worldwide with many classes and types. The typical unifying characteristics of the different classes and types are the fermentation of grains, distillation, and aging in wooden barrels.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Whisky)
+> [Wikipedia](https://en.wikipedia.org/wiki/Whisky) 
 
 
 ## Confidential Links & Embeds: 

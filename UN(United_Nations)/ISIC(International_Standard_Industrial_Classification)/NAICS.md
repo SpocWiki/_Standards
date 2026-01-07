@@ -19,7 +19,8 @@ System
 >
 > An establishment is typically a single physical location, though administratively distinct operations at a single location may be treated as separate establishments.  Each establishment is classified as an industry according to the primary business activity taking place there.  NAICS does not offer guidance on organizing enterprises (companies) composed of multiple establishments.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/North%20American%20Industry%20Classification%20System)  
+> [Wikipedia](https://en.wikipedia.org/wiki/North%20American%20Industry%20Classification%20System) 
+
 
 The NAICS numbering system employs a 5-digit  code (6 at the most detailed industry level). 
 The first five digits are generally (although not always strictly) the same in all three countries. 

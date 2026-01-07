@@ -75,7 +75,7 @@ because was shunned by the scientific community in Harvard and the US east coast
 > views he labeled synechism and tychism respectively. 
 > Peirce believed an epistemic fallibilism and anti-skepticism went along with these views.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Sanders%20Peirce)
+> [Wikipedia](https://en.wikipedia.org/wiki/Charles%20Sanders%20Peirce) 
 
 
 ## Confidential Links & Embeds: 

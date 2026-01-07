@@ -23,8 +23,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Lawsuit) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Lawsuit|Lawsuit]] 

@@ -84,7 +84,7 @@ sibling:
 >
 > Qin Shi Huang has often been portrayed as a tyrant and strict Legalist—characterizations that stem partly from the scathing assessments made during the Han dynasty that succeeded the Qin. Since the mid-20th century, scholars have begun questioning this evaluation, inciting considerable discussion on the actual nature of his policies and reforms. According to the sinologist Michael Loewe "few would contest the view that the achievements of his reign have exercised a paramount influence on the whole of China's subsequent history, marking the start of an epoch that closed in 1911".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Qin%20Shi%20Huang)
+> [Wikipedia](https://en.wikipedia.org/wiki/Qin%20Shi%20Huang) 
 
 
 ## Confidential Links & Embeds: 

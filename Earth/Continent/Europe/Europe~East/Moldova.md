@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 28.516667 , 47.25 ] 
 aliases:
   - Moldova
   - Republic of Moldova
@@ -467,7 +468,7 @@ Capital :: [[Chisinau]]
 >
 > Moldova is the second poorest country in Europe by GDP per official capita after Ukraine and much of its GDP is dominated by the service sector. It has one of the lowest Human Development Indexes in Europe, ranking 76th in the world (2022). Moldova ranks 68th in the world on the Global Innovation Index as of 2024. Moldova is a member state of the United Nations, the Council of Europe, the World Trade Organization, the Organization for Security and Cooperation in Europe, the GUAM Organization for Democracy and Economic Development, the Organization of the Black Sea Economic Cooperation, and the Association Trio.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Moldova)
+> [Wikipedia](https://en.wikipedia.org/wiki/Moldova) 
 
 
 ## Confidential Links & Embeds: 

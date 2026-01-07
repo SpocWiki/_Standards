@@ -18,7 +18,7 @@ aliases:
 > was an English playwright, screenwriter, and novelist. 
 > He wrote numerous award-winning plays, of which several were adapted into films.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Shaffer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Shaffer) 
 
 
 ## Confidential Links & Embeds: 

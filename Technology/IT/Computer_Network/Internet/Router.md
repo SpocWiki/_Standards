@@ -56,7 +56,7 @@ Baidu_Tieba_name: 路由器
 > More sophisticated devices use application-specific integrated circuits (ASICs) 
 > to increase performance or add advanced filtering and firewall functionality.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Router%20(computing))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Router%20(computing)) 
 
 
 ## Confidential Links & Embeds: 

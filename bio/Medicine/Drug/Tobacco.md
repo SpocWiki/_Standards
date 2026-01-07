@@ -44,7 +44,7 @@ water_footprint: 2925
 >
 > Tobacco contains the highly addictive stimulant alkaloid nicotine as well as harmala alkaloids. Tobacco use is a cause or risk factor for many deadly diseases, especially those affecting the heart, liver, and lungs as well as many cancers. In 2008, the World Health Organization named tobacco use as the world's single greatest preventable cause of death.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tobacco)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tobacco) 
 
 
 ## Confidential Links & Embeds: 

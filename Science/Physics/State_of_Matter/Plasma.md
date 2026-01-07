@@ -52,7 +52,7 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "Plasma"]
 >
 > Unlike the phase transitions between the other three states of matter, the transition to plasma is not well defined and is a matter of interpretation and context. Whether a given degree of ionization suffices to call a substance "plasma" depends on the specific phenomenon being considered.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Plasma%20(physics))
+> [Wikipedia](https://en.wikipedia.org/wiki/Plasma%20(physics)) 
 
 
 ## Confidential Links & Embeds: 

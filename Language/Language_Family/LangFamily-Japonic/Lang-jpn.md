@@ -210,7 +210,7 @@ writing_system:
 > 
 > The numeral system uses mostly Arabic numerals, but also traditional Chinese numerals.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Japanese%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Japanese%20language) 
 
 
 ## Confidential Links & Embeds: 

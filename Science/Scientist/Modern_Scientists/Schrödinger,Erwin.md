@@ -161,7 +161,7 @@ student_of: '[[_Standards/WikiData/WD~Friedrich_Hasenöhrl,78849]]'
 > finally finding a long-term arrangement in Dublin, Ireland, 
 > where he remained until retirement in 1955, and where he sexually abused several minors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Erwin%20Schr%C3%B6dinger)
+> [Wikipedia](https://en.wikipedia.org/wiki/Erwin%20Schr%C3%B6dinger) 
 
 
 ## Confidential Links & Embeds: 

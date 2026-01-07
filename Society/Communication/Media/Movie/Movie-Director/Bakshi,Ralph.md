@@ -38,7 +38,7 @@ aliases:
 > the 1988 Annie Award for Distinguished Contribution to the Art of Animation, 
 > and the 2003 Maverick Tribute Award at the Cinequest Film Festival.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ralph%20Bakshi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ralph%20Bakshi) 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ topic_s_main_category: '[[_Standards/WikiData/WD~Q9734169,9734169]]'
 >
 > The branch of physics that deals with solids is called solid-state physics, and is the main branch of condensed matter physics (which also includes liquids). Materials science is primarily concerned with the physical and chemical properties of solids. Solid-state chemistry is especially concerned with the synthesis of novel materials, as well as the science of identification and chemical composition.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Solid)
+> [Wikipedia](https://en.wikipedia.org/wiki/Solid) 
 
 
 ## Confidential Links & Embeds: 

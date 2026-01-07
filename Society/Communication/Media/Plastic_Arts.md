@@ -15,6 +15,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plastic%20arts) 
 
+
 #is_/same_as :: [[_Standards/WikiData/WD~plastic_arts,1078913]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Art_of_sculpture,11634|WD~Art_of_sculpture,11634]] 

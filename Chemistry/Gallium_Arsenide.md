@@ -13,7 +13,6 @@ aliases:
 
 ## #has_/text_of_/abstract 
 
-
 > Gallium arsenide (GaAs) is a III-V direct band gap semiconductor 
 > with a zinc blende crystal structure.
 >
@@ -28,7 +27,7 @@ aliases:
 > GaAs is often used as a substrate material for the epitaxial growth of other III-V semiconductors, 
 > including indium gallium arsenide, aluminum gallium arsenide and others.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gallium%20arsenide)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gallium%20arsenide) 
 
 
 ## Confidential Links & Embeds: 

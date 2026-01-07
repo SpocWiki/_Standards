@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 2010-06-23 
+location: [ 103.86 , 1.2825 ] 
 aliases:
   - Marina Sands
   - Marina Bay Sands, Singapore

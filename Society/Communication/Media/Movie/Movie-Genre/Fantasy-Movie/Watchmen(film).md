@@ -60,7 +60,7 @@
 > lengthening the runtime to 3 hours and 35 minutes, and was released on November 3, 2009. 
 > The director's cut was better received than the theatrical release.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Watchmen%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Watchmen%20(film)) 
 
 
 ## Confidential Links & Embeds: 

@@ -76,7 +76,7 @@ the **EM-DAT International Disaster Database**, **UNDRR**, **WHO**, and peer-rev
 >
 > Some things can make natural disasters worse. Examples are inadequate building norms, marginalization of people and poor choices on land use planning. Many developing countries do not have proper disaster risk reduction systems. This makes them more vulnerable to natural disasters than high income countries. An adverse event only becomes a disaster if it occurs in an area with a vulnerable population.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Natural%20disaster)
+> [Wikipedia](https://en.wikipedia.org/wiki/Natural%20disaster) 
 
 
 ## Confidential Links & Embeds: 

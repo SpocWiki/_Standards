@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1415-08-30 
+has_time_stopped: 1999-12-20 
 aliases:
 has_id_wikidata: Q200464
 flag: "[[_Standards/WikiData/WD~flag_of_Portugal,128812]]"

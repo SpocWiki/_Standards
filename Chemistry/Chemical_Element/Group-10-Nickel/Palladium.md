@@ -98,7 +98,6 @@ ZVG_number: 8340
 
 ## #has_/text_of_/abstract 
 
-
 > **Palladium** is a chemical element with the symbol (Abbr::Pd) and atomic number (Charge-e::46). 
 > It is a rare and lustrous silvery-white metal 
 > discovered in 1803 by the English chemist William Hyde Wollaston. 
@@ -132,7 +131,7 @@ ZVG_number: 8340
 > Recycling is also a source, mostly from scrapped catalytic converters. 
 > The numerous applications and limited supply sources result in considerable investment interest.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Palladium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Palladium) 
 
 
 ## Confidential Links & Embeds: 

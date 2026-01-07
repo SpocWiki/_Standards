@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 163.0 , 72.0 ] 
 aliases:
   - East Siberian Sea
   - East_Siberian_Sea
@@ -54,7 +55,7 @@ coordinate_location: Point(163.0 72.0)
 >
 > Major industrial activities in the area are mining and navigation within the Northern Sea Route; commercial fishing is poorly developed. The largest city and port is Pevek, the northernmost city of mainland Russia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/East%20Siberian%20Sea)
+> [Wikipedia](https://en.wikipedia.org/wiki/East%20Siberian%20Sea) 
 
 
 ## Confidential Links & Embeds: 

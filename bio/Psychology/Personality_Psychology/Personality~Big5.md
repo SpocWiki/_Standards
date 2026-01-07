@@ -88,7 +88,7 @@ All other dimensions exhibit clear advantages and disadvantages depending on con
 > The five-factor structure has been confirmed by many subsequent studies across cultures 
 > and languages, which have replicated the original model and reported largely similar factors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Big%20Five%20personality%20traits)
+> [Wikipedia](https://en.wikipedia.org/wiki/Big%20Five%20personality%20traits) 
 
 
 ## Confidential Links & Embeds: 

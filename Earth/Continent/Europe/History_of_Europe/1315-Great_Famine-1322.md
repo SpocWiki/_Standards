@@ -26,18 +26,15 @@
 > The crisis had consequences for the Church, state, European society, 
 > and for future calamities to follow in the 14th century.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Famine%20of%201315%E2%80%931317)
-
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Famine%20of%201315%E2%80%931317) 
 
 
 ## #has_/text_of_/abstract 
 
 > **Great Famine** may refer to:
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Famine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Famine) 
+
 
 Great Famine of 1315–1317
 

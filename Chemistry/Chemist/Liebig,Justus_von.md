@@ -189,7 +189,7 @@ ISNI: 0000000121328329
 > He popularized an earlier invention for condensing vapors, 
 > which came to be known as the Liebig condenser.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Justus%20von%20Liebig)
+> [Wikipedia](https://en.wikipedia.org/wiki/Justus%20von%20Liebig) 
 
 
 ## Confidential Links & Embeds: 

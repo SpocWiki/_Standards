@@ -12,6 +12,8 @@ title: Eodiscoglossus santonjae
 > **Eodiscoglossus** is an extinct genus of prehistoric frogs. It is known from the type species E. santonjae from the Early Cretaceous (Barremian) La Pedrera de Rúbies Formation and El Castellar Formation of Spain, as well as a referred species E. oxoniensis known from the Forest Marble Formation of the UK and an indeterminate species from the Dzunbain Formation of Mongolia. It was a small primitive frog, with a length of only 27 mm (1.1 in) from the premaxilla to the ischium. Formerly considered to be closely related to discoglossids, E. santonjae is now regarded as close to the root of the crown group of modern frogs in a position more derived than New Zealand frogs and tailed frogs, but more basal than costatans like alytids and other more advanced frogs like neobatrachians. The morphology of E. santonjae suggests a generalist and unspecialised movement habit. The referral of E. oxoniensis to Eodiscoglossus has been questioned, as it is much earlier than the type species and it is based on homoplasic and plesiomorphic characteristics inherited from a common ancestor, so there is no clear evidence of a close relation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eodiscoglossus) 
+
+
 ## Introduction
 
 [David Cannatella](http://www.tolweb.org/)

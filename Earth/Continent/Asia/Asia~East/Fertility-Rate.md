@@ -26,7 +26,7 @@ It depends on good Women's living Conditions.  Globally, estimated to be between
 > 
 > The global TFR has declined rapidly since the 1960s, and some forecasters like Sanjeev Sanyal argue that the effective global fertility rate will fall below global replacement rate, estimated to be 2.3, in the 2020s. Projections of world human population indicate the transition from long-term growth to long-term decline during the period 2050–2070. The United Nations predicts that global fertility will continue to decline for the remainder of this century and reach a below-replacement level of 1.8 by 2100, and that world population will peak during the period 2084–2088.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Total%20fertility%20rate)
+> [Wikipedia](https://en.wikipedia.org/wiki/Total%20fertility%20rate) 
 
 
 ## Confidential Links & Embeds: 

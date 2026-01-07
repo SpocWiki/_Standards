@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1986-11-03 
+location: [ 158.183333333 , 6.916666666 ] 
 aliases:
   - Federated_States_of_Micronesia
   - Federated States of Micronesia
@@ -302,7 +304,6 @@ markerFolder: ./Micronesia~Fed._States/
 > The FSM was a part of the former Trust Territory of the Pacific Islands (TTPI), a United Nations Trust Territory administered by the United States from 1947 to 1994. On May 10, 1979, the islands ratified a constitutional government and then became a sovereign state after attaining independence on November 3, 1986—under a Compact of Free Association with the United States. Other neighboring island entities (also former members of the TTPI), also formed constitutional governments, becoming the Republic of the Marshall Islands and the Republic of Palau. The FSM has a seat in the United Nations and has been a member of the Pacific Community since 1983.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Federated%20States%20of%20Micronesia) 
-
 
 
 [name-en::Micronesia, Fed. States] 

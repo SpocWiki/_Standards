@@ -624,8 +624,7 @@ Numbers are of 2022-06
 > Canada's peacekeeping role during the 20th century has had a significant influence on its global image. 
 > Canada is part of multiple international organizations and forums.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Canada)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Canada) 
 
 
 ## #has_/place_/city   

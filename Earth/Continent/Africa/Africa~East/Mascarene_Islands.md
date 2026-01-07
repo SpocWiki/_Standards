@@ -59,7 +59,7 @@ Commons_category: Mascarene Islands
 > The islands share a common geological origin beneath the Mascarene Plateau 
 > known as the Mauritia microcontinent which was a Precambrian microcontinent situated between India and Madagascar until their separation about 70 million years ago. They form a distinct ecoregion with unique biodiversity and endemism of flora and fauna.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mascarene%20Islands)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mascarene%20Islands) 
 
 
 ## Confidential Links & Embeds: 

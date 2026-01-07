@@ -119,7 +119,7 @@ UNSPSC_Code: 12141742
 >
 > One short-lived gamma ray-emitting nuclear isomer, technetium-99m, is used in nuclear medicine for a wide variety of tests, such as bone cancer diagnoses. The ground state of the nuclide technetium-99 is used as a gamma-ray-free source of beta particles. Long-lived technetium isotopes produced commercially are byproducts of the fission of uranium-235 in nuclear reactors and are extracted from nuclear fuel rods. Because even the longest-lived isotope of technetium has a relatively short half-life (4.21 million years), the 1952 detection of technetium in red giants helped to prove that stars can produce heavier elements.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Technetium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Technetium) 
 
 
 ## Confidential Links & Embeds: 

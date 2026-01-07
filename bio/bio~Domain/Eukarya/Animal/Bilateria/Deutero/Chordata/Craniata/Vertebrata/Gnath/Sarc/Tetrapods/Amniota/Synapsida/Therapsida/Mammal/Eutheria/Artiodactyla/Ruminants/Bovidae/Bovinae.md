@@ -6,7 +6,7 @@
 >
 > In many countries, bovid milk and meat is used as food by humans. Cattle are kept as livestock almost everywhere except in parts of India and Nepal, where they are considered sacred by most Hindus. Bovids are used as draft animals and as riding animals. Small breeds of domestic bovid, such as the Miniature Zebu, are kept as pets. Bovid leather is durable and flexible and is used to produce a wide range of goods including clothing and bags.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bovinae)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bovinae) 
 
 
 ## Confidential Links & Embeds: 

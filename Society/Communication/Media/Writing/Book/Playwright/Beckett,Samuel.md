@@ -156,7 +156,7 @@ pseudonym: Andrew Belis
 >
 > Beckett is considered to be one of the last modernist writers and a key figure in what Martin Esslin called the "Theatre of the Absurd." He died in 1989 and was buried at the Cimetière du Montparnasse. His most well-known play, Waiting for Godot, has since become a centrepiece of modernist literature, and in a public poll conducted by London's Royal National Theatre in 1998, it was voted as "the most significant English-language play of the 20th century."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Beckett)
+> [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Beckett) 
 
 
 ## Confidential Links & Embeds: 

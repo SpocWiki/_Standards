@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1945-03-22 
 aliases:
   - Arab League
   - Arab_League
@@ -110,7 +111,7 @@ EU_Corporate_body_code: LEAGUE_ARAB
 >
 > In the early 1970s, the Economic Council put forward a proposal to create the Joint Arab Chambers of Commerce across international states. That led to the setting up of mandates to promote, encourage and facilitate bilateral trade between the Arab world and significant trading partners.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Arab%20League)
+> [Wikipedia](https://en.wikipedia.org/wiki/Arab%20League) 
 
 
 ## Confidential Links & Embeds: 

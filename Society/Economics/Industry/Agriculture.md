@@ -113,7 +113,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_agriculture,7112548]]'
 >
 > Modern agronomy, plant breeding, agrochemicals such as pesticides and fertilizers, and technological developments have sharply increased crop yields, but also contributed to ecological and environmental damage. Selective breeding and modern practices in animal husbandry have similarly increased the output of meat, but have raised concerns about animal welfare and environmental damage. Environmental issues include contributions to climate change, depletion of aquifers, deforestation, antibiotic resistance, and other agricultural pollution. Agriculture is both a cause of and sensitive to environmental degradation, such as biodiversity loss, desertification, soil degradation, and climate change, all of which can cause decreases in crop yield. Genetically modified organisms are widely used, although some countries ban them.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Agriculture)
+> [Wikipedia](https://en.wikipedia.org/wiki/Agriculture) 
 
 
 ## Confidential Links & Embeds: 

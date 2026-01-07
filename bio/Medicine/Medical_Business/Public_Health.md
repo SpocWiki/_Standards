@@ -97,7 +97,7 @@ especially epidemiology, sanitation, immunization, and preventive medicine.
 >
 > From the beginnings of human civilization, communities promoted health and fought disease at the population level. In complex, pre-industrialized societies, interventions designed to reduce health risks could be the initiative of different stakeholders, such as army generals, the clergy or rulers. Great Britain became a leader in the development of public health initiatives, beginning in the 19th century, due to the fact that it was the first modern urban nation worldwide. The public health initiatives that began to emerge initially focused on sanitation (for example, the Liverpool and London sewerage systems), control of infectious diseases (including vaccination and quarantine) and an evolving infrastructure of various sciences, e.g. statistics, microbiology, epidemiology, sciences of engineering.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Public%20health)
+> [Wikipedia](https://en.wikipedia.org/wiki/Public%20health) 
 
 
 ## Confidential Links & Embeds: 

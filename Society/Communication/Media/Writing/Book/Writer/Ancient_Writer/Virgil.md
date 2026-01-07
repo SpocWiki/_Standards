@@ -118,7 +118,7 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 > it cannot be one which excludes Virgil – 
 > we may say confidently that it must be one which will expressly reckon with him."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Virgil)
+> [Wikipedia](https://en.wikipedia.org/wiki/Virgil) 
 
 
 ## Confidential Links & Embeds: 

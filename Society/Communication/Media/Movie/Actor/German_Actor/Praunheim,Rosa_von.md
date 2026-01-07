@@ -41,7 +41,6 @@ type: private_note
 
 ## #has_/text_of_/abstract 
 
-
 > **Rosa von Praunheim** (bürgerlich Holger Bernhard Bruno Mischwitzky, 
 > geboren als Holger Radtke; * 25. November 1942 in Riga) 
 > ist ein deutscher Film- und Theaterregisseur, Produzent, Autor, Professor für Regie 

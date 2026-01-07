@@ -15,7 +15,7 @@ type: ElementGroup
 >
 > Like other groups, the members of this family show patterns in their electron configurations, especially the outermost shells resulting in trends in chemical behavior.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Group%207%20element)
+> [Wikipedia](https://en.wikipedia.org/wiki/Group%207%20element) 
 
 
 ## Confidential Links & Embeds: 

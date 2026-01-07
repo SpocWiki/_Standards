@@ -49,6 +49,7 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000427
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Meander) 
 
+
 The term derives from the winding river [Menderes](https://en.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Menderes_River "Büyük Menderes River") located in [Asia-Minor](https://en.wikipedia.org/wiki/Asia-Minor "Asia-Minor") 
 and known to the [Ancient Greeks](https://en.wikipedia.org/wiki/Ancient_Greeks "Ancient Greeks") as Μαίανδρος _Maiandros_ (Latin: Maeander) 
 

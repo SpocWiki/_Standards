@@ -113,7 +113,7 @@ Libris_URI: tr5774gc3th392d
 > revealing that she had collaborated directly with the Nazi intelligence service, the Sicherheitsdienst. 
 > One plan in late 1943 was for her to carry an SS peace overture to Churchill to end the war.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Coco%20Chanel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Coco%20Chanel) 
 
 
 ## Confidential Links & Embeds: 

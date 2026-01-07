@@ -35,7 +35,7 @@ Unicode_character: 📼
 >
 > Tape is a linear method of storing information and thus imposes delays to access a portion of the tape that is not already against the heads. The early 2000s saw the introduction and rise to prominence of high-quality random-access video recording media such as hard disks and flash memory. Since then, videotape has been increasingly relegated to archival and similar uses.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Videotape)
+> [Wikipedia](https://en.wikipedia.org/wiki/Videotape) 
 
 
 ## Confidential Links & Embeds: 

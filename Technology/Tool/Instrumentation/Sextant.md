@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1757-01-01 
 aliases:
 has_id_wikidata: Q179430
 replaces: "[[_Standards/WikiData/WD~astrolabe,164992]]"

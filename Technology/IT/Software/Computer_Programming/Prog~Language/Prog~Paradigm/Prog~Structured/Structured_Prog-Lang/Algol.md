@@ -19,7 +19,7 @@
 >
 > Niklaus Wirth based his own ALGOL W on ALGOL 60 before moving to develop Pascal. Algol-W was intended to be the next generation ALGOL but the ALGOL 68 committee decided on a design that was more complex and advanced rather than a cleaned simplified ALGOL 60. The official ALGOL versions are named after the year they were first published. ALGOL 68 is substantially different from ALGOL 60 and was criticised partially for being so, so that in general "ALGOL" refers to dialects of ALGOL 60.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/ALGOL%2060)
+> [Wikipedia](https://en.wikipedia.org/wiki/ALGOL%2060) 
 
 
 ## Confidential Links & Embeds: 

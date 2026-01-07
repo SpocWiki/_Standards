@@ -69,7 +69,7 @@ Wikidata_usage_instructions: focus on agriculture here, not on taxonomy
 >
 > Wheat is an important source of  carbohydrates. Globally, it is the leading source of vegetable proteins in human food, having a protein content of about 13%, which is relatively high compared to other major cereals but relatively low in protein quality (supplying essential amino acids). When eaten as the whole grain, wheat is a source of multiple nutrients and dietary fiber. In a small part of the general population, gluten – which comprises most of the protein in wheat – can trigger coeliac disease, noncoeliac gluten sensitivity, gluten ataxia, and dermatitis herpetiformis.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wheat)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wheat) 
 
 
 ## Confidential Links & Embeds: 

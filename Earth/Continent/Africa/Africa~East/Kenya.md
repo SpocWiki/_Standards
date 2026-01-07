@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 38.0 , 0.1 ] 
 aliases:
   - Kenya
   - كينيا
@@ -532,7 +533,7 @@ Capital :: [[Kenya/Counties/Nairobi.County]]
 >
 > Kenya is a member of the United Nations, the Commonwealth, World Bank, International Monetary Fund, World Trade Organization, COMESA, International Criminal Court, as well as other international organisations. It is also a major non-NATO ally of the United States. With a GNI of 1,840, Kenya is a lower-middle-income economy. Kenya's economy is the second largest in eastern and central Africa, after Ethiopia, with Nairobi serving as a major regional commercial hub. Agriculture is the largest sector; tea and coffee are traditional cash crops, while fresh flowers are a fast-growing export. The service industry is also a major economic driver, particularly tourism. Kenya is a member of the East African Community trade bloc, though some international trade organisations categorise it as part of the Greater Horn of Africa. Africa is Kenya's largest export market, followed by the European Union.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kenya)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kenya) 
 
 
 ## Confidential Links & Embeds: 

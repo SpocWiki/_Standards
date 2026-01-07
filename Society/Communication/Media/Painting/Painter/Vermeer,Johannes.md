@@ -151,7 +151,7 @@ ISNI: 000000010901268X
 > The modest celebrity he enjoyed during his life gave way to obscurity after his death. 
 > He was barely mentioned in Arnold Houbraken's major source book on 17th-century Dutch painting (Grand Theatre of Dutch Painters and Women Artists, published 1718) and, as a result, was omitted from subsequent surveys of Dutch art for nearly two centuries. In the 19th century, Vermeer was rediscovered by Gustav Friedrich Waagen and Théophile Thoré-Bürger, who published an essay attributing 66 pictures to him, although only 34 paintings are universally attributed to him today. Since that time, Vermeer's reputation has grown enormously.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Vermeer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Vermeer) 
 
 
 ## Confidential Links & Embeds: 

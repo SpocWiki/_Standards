@@ -32,7 +32,7 @@ aliases:
 > 
 > The film earned over $156 million worldwide and received generally positive reviews but criticism for the darker tone.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Licence%20to%20Kill)
+> [Wikipedia](https://en.wikipedia.org/wiki/Licence%20to%20Kill) 
 
 
 ## Confidential Links & Embeds: 

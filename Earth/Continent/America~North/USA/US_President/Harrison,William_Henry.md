@@ -90,7 +90,7 @@ type: private_note
 > However, he is remembered for his Indian entreaties, 
 > and also his inventive election campaign tactics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/William%20Henry%20Harrison)
+> [Wikipedia](https://en.wikipedia.org/wiki/William%20Henry%20Harrison) 
 
 
 ## Confidential Links & Embeds: 

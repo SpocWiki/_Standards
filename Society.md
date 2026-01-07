@@ -49,7 +49,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_society,7112731]]'
 # [[Society]] 
 
 #is_/same_as :: [[WikiData/WD~Society,8425|WD~Society,8425]] 
-#see [[Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History|History]] 
+#see [[Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History|History]] 
 
 Pre-historic human Societies were hunters and gatherers, 
 usually living in Clans or larger Families. 
@@ -67,7 +67,7 @@ This Folder also covers all types of social Sciences:
 - [[./Society/Economics|Economics]], 
 - human geography is covered in [[./Earth]] ,  
 - [[./bio/Psychology|Psychology]] is handled in , 
-- [[./Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History|History]] is handled [[./Time-Ages]] .
+- [[Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History|History]] is handled [[./Time-Ages]] .
 
 | Dimension                              | Social Science                                               | Sociology                                                    |
 | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -107,7 +107,7 @@ This Folder also covers all types of social Sciences:
 > Human behavior varies immensely between different societies; 
 > humans shape society, but society in turn shapes human beings.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Society)
+> [Wikipedia](https://en.wikipedia.org/wiki/Society) 
 
 
 ## Confidential Links & Embeds: 

@@ -143,7 +143,7 @@ That gives him a certain fascinating, arrogant freedom."
 > he turned down an offer from the party to nominate him for a life peerage. 
 > In 2023, he began presenting a talk show on GB News.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Cleese)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Cleese) 
 
 
 ## Confidential Links & Embeds: 

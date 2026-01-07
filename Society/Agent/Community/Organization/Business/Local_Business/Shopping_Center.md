@@ -74,7 +74,7 @@ A shopping center or mall.
 >
 > In Europe shopping malls/centers continue to grow and thrive. In the region distinction is made between shopping centers (shops under one roof), shopping precincts (pedestrianized zones of a town or city where many retail stores are located), the High Street (street – pedestrianized or not – with a high concentration of retail shops), and retail parks (usually out of the city centre, 5000 sq.m. or larger and anchored by big-box stores or supermarkets, rather than department stores).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Shopping%20center)
+> [Wikipedia](https://en.wikipedia.org/wiki/Shopping%20center) 
 
 
 ## Confidential Links & Embeds: 

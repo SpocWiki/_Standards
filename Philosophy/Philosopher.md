@@ -116,7 +116,7 @@ type: private_note
 > 
 > It also investigates their methods and ethical implications.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Philosophy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Philosophy) 
 
 
 [[Philosopher/Modern_Philosopher/Fukuyama,Francis]] 

@@ -715,7 +715,8 @@ Population @2024 in 1000s.
 > the Organization for Security and Co-operation in Europe (OSCE), 
 > and the World Trade Organization (WTO).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spain)
+> [Wikipedia](https://en.wikipedia.org/wiki/Spain) 
+
 
 ## Maps and Flags 
 

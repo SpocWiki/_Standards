@@ -159,7 +159,8 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > 
 > Huxley was a pacifist. He grew interested in philosophical mysticism, as well as universalism, addressing these subjects in his works such as The Perennial Philosophy (1945), which illustrates commonalities between Western and Eastern mysticism, and The Doors of Perception (1954), which interprets his own psychedelic experience with mescaline. In his most famous novel Brave New World (1932) and his final novel Island (1962), he presented his visions of dystopia and utopia, respectively.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Aldous%20Huxley)
+> [Wikipedia](https://en.wikipedia.org/wiki/Aldous%20Huxley) 
+
 
 #has_/created :: [  ]
 

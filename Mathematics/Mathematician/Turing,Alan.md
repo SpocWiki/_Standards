@@ -180,7 +180,7 @@ unmarried_partner: '[[_Standards/WikiData/WD~Christopher_Morcom,21693479]]'
 > which was released on 23 June 2021 to coincide with his birthday. 
 > A 2019 BBC series, as voted by the audience, named Turing the greatest person of the 20th century.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alan%20Turing)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alan%20Turing) 
 
 
 ## Confidential Links & Embeds: 

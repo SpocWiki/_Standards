@@ -1,4 +1,6 @@
----
+﻿---
+has_time_stopped: 0400-01-01 
+location: [ 29.909167 , 31.208889 ] 
 aliases:
 has_id_wikidata: Q435
 dedicated_to: "[[_Standards/WikiData/WD~Muse,66016]]"

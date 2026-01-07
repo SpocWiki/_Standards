@@ -10,7 +10,8 @@ aliases:
 > It aired from 1969 to 1997 and from 2007 to 2009.
 > It is commonly abbreviated to Meigeki (名劇, Meigeki).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/World%20Masterpiece%20Theater)
+> [Wikipedia](https://en.wikipedia.org/wiki/World%20Masterpiece%20Theater) 
+
 
 #has_/products :: [[Heidi_(Anime)]], [[Biene_Maja]], [[Pinocchio,1976]], [[Sindbad(Anime)]] 
 

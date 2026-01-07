@@ -127,7 +127,7 @@ scholarly estimates have ranged from 1393 to 1406. 1400 was chosen for convenien
 > In 1997, Time Life picked Gutenberg's invention 
 > as the most important of the second millennium.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Gutenberg)
+> [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Gutenberg) 
 
 
 ## Confidential Links & Embeds: 

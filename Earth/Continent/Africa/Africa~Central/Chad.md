@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 19.4 , 15.466667 ] 
 aliases:
   - Chad
   - Tchad

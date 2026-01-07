@@ -31,7 +31,7 @@
 > In 2022, the Napster streaming service was acquired by two Web3 companies, 
 > Hivemind and Algorand. Jon Vlassopulos was appointed as CEO.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Napster)
+> [Wikipedia](https://en.wikipedia.org/wiki/Napster) 
 
 
 ## Confidential Links & Embeds: 

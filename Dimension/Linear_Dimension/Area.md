@@ -102,7 +102,7 @@ Wikidata_property: area
 >
 > Area can be defined through the use of axioms, defining it as a function of a collection of certain plane figures to the set of real numbers. It can be proved that such a function exists.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Area)
+> [Wikipedia](https://en.wikipedia.org/wiki/Area) 
 
 
 ## Confidential Links & Embeds: 

@@ -99,7 +99,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_government,25113003]]'
 > The main aspect of any philosophy of government is how political power is obtained, 
 > with the two main forms being electoral contest and hereditary succession.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Government)
+> [Wikipedia](https://en.wikipedia.org/wiki/Government) 
 
 
 ## Confidential Links & Embeds: 

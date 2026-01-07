@@ -408,7 +408,7 @@ Capital :: [[Guinea-Bissau/Regions~Guinea-Bissau/Bissau]]
 >
 > Guinea-Bissau is a member of the United Nations, African Union, Economic Community of West African States, Organisation of Islamic Cooperation, Community of Portuguese Language Countries, Organisation internationale de la Francophonie, and the South Atlantic Peace and Cooperation Zone. It was also a member of the now-defunct Latin Union.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Guinea-Bissau)
+> [Wikipedia](https://en.wikipedia.org/wiki/Guinea-Bissau) 
 
 
 ## Confidential Links & Embeds: 

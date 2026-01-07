@@ -44,7 +44,7 @@ subclass_of: '[[_Standards/WikiData/WD~multicellular_organismal_process,22299433
 >
 > When the pyloric sphincter valve opens, partially digested food (chyme) enters the duodenum where it mixes with digestive enzymes from the pancreas and bile juice from the liver and then passes through the small intestine, in which digestion continues. When the chyme is fully digested, it is absorbed into the blood. 95% of nutrient absorption occurs in the small intestine. Water and minerals are reabsorbed back into the blood in the colon (large intestine) where the pH is slightly acidic (about 5.6 ~ 6.9). Some vitamins, such as biotin and vitamin K (K2MK7) produced by bacteria in the colon are also absorbed into the blood in the colon. Absorption of water, simple sugar and alcohol also takes place in stomach. Waste material (feces) is eliminated from the rectum during defecation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Digestion)
+> [Wikipedia](https://en.wikipedia.org/wiki/Digestion) 
 
 
 ## Confidential Links & Embeds: 

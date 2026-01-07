@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 31.133333 , 29.983333 ] 
 aliases:
   - Giza_Pyramids
   - Giza Pyramids

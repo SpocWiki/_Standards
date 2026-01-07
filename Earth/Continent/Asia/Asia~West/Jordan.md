@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 36.5 , 31.2 ] 
 aliases:
   - Jordan
   - Jordania
@@ -438,7 +439,7 @@ Capital :: [[Jordan/Counties/Amman/City/Amman]]
 >
 > The sovereign state is a constitutional monarchy, but the king holds wide executive and legislative powers. Jordan is a founding member of the Arab League and the Organisation of Islamic Cooperation. The country has a high Human Development Index, ranking 99th, and is considered a lower middle income economy. The Jordanian economy, one of the smallest economies in the region, is attractive to foreign investors based upon a skilled workforce. The country is a major tourist destination, also attracting medical tourism with its well-developed health sector. Nonetheless, a lack of natural resources, large flow of refugees, and regional turmoil have hampered economic growth.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jordan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jordan) 
 
 
 ## Confidential Links & Embeds: 

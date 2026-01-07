@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 104.1 , 18.2 ] 
 aliases:
   - Laos
   - Lao People's Democratic Republic
@@ -493,7 +494,7 @@ Capital :: [[Laos/Counties/Vientiane]]
 >
 > Laos's development strategy emphasizes regional connectivity through infrastructure development. The 2021 completion of the Laos-China Railway, connecting Vientiane to Kunming, has increased trade and tourism accessibility. The country participates in the Greater Mekong Subregion economic cooperation program, focusing on cross-border infrastructure and energy projects. The World Bank has recognized Laos as one of Southeast Asia and Pacific's fastest growing economies, with annual GDP growth averaging 7.4% since 2009, driven by expanding tourism, energy exports, and foreign investment. While classified as a least developed country by the United Nations, Laos is a member of ASEAN, the Asia-Pacific Trade Agreement, East Asia Summit, La Francophonie, and the World Trade Organization.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Laos)
+> [Wikipedia](https://en.wikipedia.org/wiki/Laos) 
 
 
 ## Confidential Links & Embeds: 

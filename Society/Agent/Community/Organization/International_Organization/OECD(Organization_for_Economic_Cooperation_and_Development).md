@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.269235555 , 48.861673888 ] 
 aliases:
   - Organization_for_Economic_Cooperation_and_Development
   - Organisation for Economic Cooperation and Development
@@ -176,7 +177,8 @@ type: private_note
 > and is recognized as a highly influential publisher of mostly economic data 
 > through publications as well as annual evaluations and rankings of member countries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/OECD)
+> [Wikipedia](https://en.wikipedia.org/wiki/OECD) 
+
 
 ## Chronology 
 ```dataviewjs

@@ -26,7 +26,7 @@ aliases:
 > His work has been criticized for its violence and sexual content 
 > but has also been championed by American critics such as [[../Move-Critics/Ebert,Roger]] and Pauline Kael.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Brian%20De%20Palma)
+> [Wikipedia](https://en.wikipedia.org/wiki/Brian%20De%20Palma) 
 
 
 ## Confidential Links & Embeds: 

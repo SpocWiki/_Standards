@@ -19,7 +19,7 @@ aliases:
 > grossing over $104 million against a $33 million budget, 
 > and it earned a nomination for the Academy Award for Best Makeup.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Cell%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Cell%20(film)) 
 
 
 ## Confidential Links & Embeds: 

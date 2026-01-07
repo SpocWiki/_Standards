@@ -10,7 +10,7 @@ aliases:
 > guitarist/vocalist John Lees (b. 1947), drummer/percussionist Mel Pritchard (1948–2004), 
 > and keyboardist/vocalist Stuart "Woolly" Wolstenholme (1947–2010).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Barclay%20James%20Harvest)
+> [Wikipedia](https://en.wikipedia.org/wiki/Barclay%20James%20Harvest) 
 
 
 ## Confidential Links & Embeds: 

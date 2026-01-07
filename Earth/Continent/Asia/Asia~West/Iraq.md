@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 43.0 , 33.0 ] 
 aliases:
   - Iraq
   - العراق
@@ -498,7 +499,7 @@ Capital :: [[Iraq/Counties/Baghdad/City/Baghdad]]
 >
 > A federal parliamentary republic country, Iraq is considered an emerging middle power. It is home to diverse population, geography and wildlife. Majority of Iraqis are Muslims, while minorities are Christians, Zoroastrians, Mandaens, Yazidis, Yarsanism and Jews. Iraqi people are ethnically diverse; mostly Arabs, as well as Kurds, Turkmen, Yazidis, Assyrians, Armenians, Domcs, Persians and Shabakis. Arabic and Kurdish are official languages of Iraq, while Suret, Turkish and Mandaic spoken regionally. With a strategic location, Iraq has one of the largest oil reserves in the world and a significant oil and gas industry. In addition, it has been popular for its agriculture and tourism. At present, Iraq is putting efforts to rebuild with foreign support.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Iraq)
+> [Wikipedia](https://en.wikipedia.org/wiki/Iraq) 
 
 
 ## Confidential Links & Embeds: 

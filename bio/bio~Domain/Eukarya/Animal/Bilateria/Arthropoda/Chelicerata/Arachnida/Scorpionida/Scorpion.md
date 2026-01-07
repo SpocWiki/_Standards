@@ -69,7 +69,8 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/scorpion
 >
 > Scorpions appear in art, folklore, mythology, and commercial brands. Scorpion motifs are woven into kilim carpets for protection from their sting. Scorpius is the name of a constellation; the corresponding astrological sign is Scorpio. A classical myth about Scorpius tells how the giant scorpion and its enemy Orion became constellations on opposite sides of the sky.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Scorpion)
+> [Wikipedia](https://en.wikipedia.org/wiki/Scorpion) 
+
 
 ## Phylogeny 
 

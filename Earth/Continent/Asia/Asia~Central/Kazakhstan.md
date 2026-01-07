@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 68.0 , 48.0 ] 
 aliases:
   - Kazakhstan
   - Kazajstán
@@ -497,7 +498,7 @@ Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]
 >
 > Kazakhstan dominates Central Asia both economically and politically, accounting for 60 percent of the region's GDP, primarily through its oil and gas industry; it also has vast mineral resources, ranking among the highest producers of iron and silver in the world. Kazakhstan also has the highest Human Development Index ranking in the region. It is a unitary constitutional republic; however, its government is authoritarian. Nevertheless, there have been incremental efforts at democratization and political reform since the resignation of Nursultan Nazarbayev in 2019, who had led the country since independence. Kazakhstan is a member state of the United Nations, World Trade Organization, Commonwealth of Independent States, Shanghai Cooperation Organisation, Eurasian Economic Union, Collective Security Treaty Organization, Organization for Security and Cooperation in Europe, Organization of Islamic Cooperation, Organization of Turkic States, and International Organization of Turkic Culture.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kazakhstan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kazakhstan) 
 
 
 ## Confidential Links & Embeds: 

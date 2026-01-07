@@ -13,7 +13,8 @@ title: Heterohyrax
 
 > The yellow-spotted rock hyrax or bush hyrax (**Heterohyrax** brucei) is a species of mammal in the family Procaviidae. It is found in Angola, Botswana, Burundi, the Democratic Republic of the Congo, southern Egypt, Eritrea, Ethiopia, Kenya, Malawi, Mozambique, Rwanda, Somalia, northern South Africa, South Sudan, Sudan, Tanzania, Uganda, Zambia, and Zimbabwe. Its natural habitats are dry savanna and rocky areas.  Hyrax comes from the Greek word ὕραξ, or shrew-mouse.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yellow-spotted%20rock%20hyrax)
+> [Wikipedia](https://en.wikipedia.org/wiki/Yellow-spotted%20rock%20hyrax) 
+
 
 ## Phylogeny 
 

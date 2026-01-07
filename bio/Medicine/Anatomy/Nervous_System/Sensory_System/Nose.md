@@ -70,7 +70,7 @@ UMLS_CUI: C0028429
 > It has been theorized that this unique mammalian nose 
 > evolved from the anterior part of the upper jaw of the reptilian-like ancestors (synapsids).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nose)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Nose) 
 
 
 ## human Sense of Smell 

@@ -108,7 +108,7 @@ exact_match:
 >
 > Tetanus occurs in all parts of the world but is most frequent in hot and wet climates where the soil has a high organic content. In 2015, there were about 209,000 infections and about 59,000 deaths globally. This is down from 356,000 deaths in 1990. In the US, there are about 30 cases per year, almost all of which were in people who had not been vaccinated. An early description of the disease was made by Hippocrates in the 5th century BC. The cause of the disease was determined in 1884 by Antonio Carle and Giorgio Rattone at the University of Turin, and a vaccine was developed in 1924.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tetanus)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Tetanus) 
 
 
 ## Confidential Links & Embeds: 

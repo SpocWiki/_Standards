@@ -45,7 +45,7 @@ aliases:
 > bestowed by the Academy Awards in 2019 
 > and with the Governors Award given by the Primetime Emmy Awards in 2022.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Geena%20Davis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Geena%20Davis) 
 
 
 ## Confidential Links & Embeds: 

@@ -225,7 +225,7 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "CharlesDeGaulleBecomesP
 > many streets and monuments in France and other parts of the world 
 > were dedicated to his memory after his death.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Charles%20de%20Gaulle)
+> [Wikipedia](https://en.wikipedia.org/wiki/Charles%20de%20Gaulle) 
 
 
 ## Confidential Links & Embeds: 

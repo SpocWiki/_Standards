@@ -27,7 +27,7 @@ different_from: "[[_Standards/WikiData/WD~Trophic_level_index,7845626]]"
 >
 > The word trophic derives from the Greek τροφή (trophē) referring to food or nourishment.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Trophic%20level)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Trophic%20level) 
 
 
 ## Confidential Links & Embeds: 

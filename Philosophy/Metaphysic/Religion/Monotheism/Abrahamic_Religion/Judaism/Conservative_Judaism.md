@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1900-01-01 
 aliases:
 has_id_wikidata: Q205644
 subclass_of: "[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]"

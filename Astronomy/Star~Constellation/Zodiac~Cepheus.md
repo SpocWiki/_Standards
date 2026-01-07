@@ -61,7 +61,7 @@ short_name: Cep
 > about 10,000 times more massive than the central black hole of the Milky Way, 
 > making this among the most massive black holes currently known.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cepheus%20(constellation))
+> [Wikipedia](https://en.wikipedia.org/wiki/Cepheus%20(constellation)) 
 
 
 ## Confidential Links & Embeds: 

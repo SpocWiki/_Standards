@@ -45,7 +45,7 @@ A function is bijective
 > Galois correspondences are bijections between sets of mathematical objects 
 > of apparently very different nature.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bijection)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bijection) 
 
 
 ## Confidential Links & Embeds: 

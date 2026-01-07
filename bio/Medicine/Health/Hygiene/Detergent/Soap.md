@@ -69,8 +69,6 @@ Unicode_character: 🧼
 > [Wikipedia](https://en.wikipedia.org/wiki/Soap) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Hygiene/Detergent/Soap|Soap]] 

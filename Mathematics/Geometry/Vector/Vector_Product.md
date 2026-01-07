@@ -77,7 +77,7 @@ Commons_category: Cross product
 > The product can be generalized in various ways, 
 > using the orientation and metric structure just as for the traditional 3-dimensional cross product; one can, in n dimensions, take the product of n − 1 vectors to produce a vector perpendicular to all of them. But if the product is limited to non-trivial binary products with vector results, it exists only in three and seven dimensions. The cross-product in seven dimensions has undesirable properties (e.g. it fails to satisfy the Jacobi identity), so it is not used in mathematical physics to represent quantities such as multi-dimensional space-time. (See § Generalizations below for other dimensions.)
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cross%20product)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Cross%20product) 
 
 
 ## Confidential Links & Embeds: 

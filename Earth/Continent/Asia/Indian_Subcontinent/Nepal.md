@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 84.0 , 28.0 ] 
 aliases:
   - Nepal
   - Népal
@@ -581,7 +582,7 @@ Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu]]
 >
 > The Constitution of Nepal, adopted in 2015, affirms the country as a federal parliamentary republic divided into seven provinces. Nepal was admitted to the United Nations in 1955, and friendship treaties were signed with India in 1950 and China in 1960. Nepal hosts the permanent secretariat of the South Asian Association for Regional Cooperation (SAARC), of which it is a founding member. Nepal is also a member of the Non-Aligned Movement and the Bay of Bengal Initiative.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nepal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nepal) 
 
 
 ## Confidential Links & Embeds: 

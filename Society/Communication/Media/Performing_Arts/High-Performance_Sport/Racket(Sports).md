@@ -60,8 +60,6 @@ Commons_gallery: Racquet
 > [Wikipedia](https://en.wikipedia.org/wiki/Racket%20(sports%20equipment)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Racket(Sports)|Racket(Sports)]] 

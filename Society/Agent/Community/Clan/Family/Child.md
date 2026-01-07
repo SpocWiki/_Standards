@@ -72,7 +72,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/child_2
 > it can also signify being strongly affected by a specific time, place, 
 > or circumstance, as in "a child of nature" or "a child of the Sixties."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Child)
+> [Wikipedia](https://en.wikipedia.org/wiki/Child) 
 
 
 ## Confidential Links & Embeds: 

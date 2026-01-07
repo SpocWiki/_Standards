@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 83.0 , 22.8 ] 
 aliases:
   - India
   - Inde
@@ -1459,7 +1460,7 @@ Capital :: [[India/Counties/Delhi/City/New_Delhi]]
 >
 > During this time, its nominal per capita income increased from US$64 annually to US$2,601, and its literacy rate from 16.6% to 74%. A comparatively destitute country in 1951, India has become a fast-growing major economy and a hub for information technology services; it has an expanding middle class. Indian movies and music increasingly influence global culture. India has reduced its poverty rate, though at the cost of increasing economic inequality. It is a nuclear-weapon state that ranks high in military expenditure. It has disputes over Kashmir with its neighbours, Pakistan and China, unresolved since the mid-20th century. Among the socio-economic challenges India faces are gender inequality, child malnutrition, and rising levels of air pollution. India's land is megadiverse with four biodiversity hotspots. India's wildlife, which has traditionally been viewed with tolerance in its culture, is supported among these forests and elsewhere in protected habitats.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/India)
+> [Wikipedia](https://en.wikipedia.org/wiki/India) 
 
 
 ## Confidential Links & Embeds: 

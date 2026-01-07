@@ -63,7 +63,7 @@ aliases:
 > The series draws consistently high ratings for the [[FX_network]], 
 > with its first season being the most-viewed new cable series of 2011.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/American%20Horror%20Story)
+> [Wikipedia](https://en.wikipedia.org/wiki/American%20Horror%20Story) 
 
 
 ## Confidential Links & Embeds: 

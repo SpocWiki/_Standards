@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 53.0 , 32.0 ] 
 aliases:
   - Iran
   - Iran (Islamic Republic of)

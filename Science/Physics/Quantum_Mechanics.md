@@ -79,7 +79,7 @@ UMLS_CUI: C0034385
 >
 > Quantum mechanics arose gradually from theories to explain observations that could not be reconciled with classical physics, such as Max Planck's solution in 1900 to the black-body radiation problem, and the correspondence between energy and frequency in Albert Einstein's 1905 paper, which explained the photoelectric effect. These early attempts to understand microscopic phenomena, now known as the "old quantum theory", led to the full development of quantum mechanics in the mid-1920s by Niels Bohr, Erwin Schrödinger, Werner Heisenberg, Max Born, Paul Dirac and others. The modern theory is formulated in various specially developed mathematical formalisms. In one of them, a mathematical entity called the wave function provides information, in the form of probability amplitudes, about what measurements of a particle's energy, momentum, and other physical properties may yield.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20mechanics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20mechanics) 
 
 
 ## Confidential Links & Embeds: 

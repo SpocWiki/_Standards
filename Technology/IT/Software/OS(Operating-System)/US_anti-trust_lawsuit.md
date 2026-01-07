@@ -17,7 +17,8 @@
 > the Clayton Antitrust Act and the Federal Trade Commission Act of 1914, 
 > the Robinson-Patman Act of 1936, and the Celler-Kefauver Act of 1950.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20United%20States%20antitrust%20law)
+> [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20United%20States%20antitrust%20law) 
+
 
 Court-Trials: 
 - Oil-Magnate [[Rockefeller,John_D]]  @ 1911 

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1420-01-01 
+location: [ 37.617777777 , 55.751666666 ] 
 aliases:
   - Kreml
   - Kremlin

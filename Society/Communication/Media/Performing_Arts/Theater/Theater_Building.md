@@ -99,7 +99,7 @@ OpenStreetMap_tag: amenity=theatre
 > while some theaters, such as black box theaters have movable seating 
 > allowing the production to create a performance area suitable for the production.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Theater%20(structure))
+> [Wikipedia](https://en.wikipedia.org/wiki/Theater%20(structure)) 
 
 
 ## Confidential Links & Embeds: 

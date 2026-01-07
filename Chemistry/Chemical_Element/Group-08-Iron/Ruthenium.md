@@ -95,7 +95,6 @@ ZVG_number: 7440
 
 ## #has_/text_of_/abstract 
 
-
 > **Ruthenium** is a chemical element with the symbol (Abbr::Ru) and atomic number (Charge-e::44). 
 > It is a rare transition metal belonging to the platinum group of the periodic table. 
 > Like the other metals of the platinum group, ruthenium is inert to most other chemicals. 
@@ -117,7 +116,7 @@ ZVG_number: 7440
 > are also found in pentlandite extracted from Sudbury, Ontario 
 > and in pyroxenite deposits in South Africa.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ruthenium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ruthenium) 
 
 
 ## Confidential Links & Embeds: 

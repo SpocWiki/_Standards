@@ -28,7 +28,7 @@
 > - being a metaphorical "stream" of contents, or 
 > - being a mental state, mental event, or mental process of the brain.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Consciousness)
+> [Wikipedia](https://en.wikipedia.org/wiki/Consciousness) 
 
 
 ## Confidential Links & Embeds: 

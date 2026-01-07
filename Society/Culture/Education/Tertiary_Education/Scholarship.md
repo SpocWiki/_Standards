@@ -72,8 +72,6 @@ MeSH_tree_code: N03.219.483.838.276
 > [Wikipedia](https://en.wikipedia.org/wiki/Scholarship) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Culture/Education/Tertiary_Education/Scholarship|Scholarship]] 

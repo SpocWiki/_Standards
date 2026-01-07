@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2000-06 
 aliases:
   - Couchsurfing
 has_id_wikidata: Q744312
@@ -25,8 +26,6 @@ domain_name: hospitalityclub.org
 > "intercultural understanding ... bringing people together ... travelers and locals".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hospitality%20Club) 
-
-
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/ARIYA.html
 >
 > The typical context for arias is opera, but vocal arias also feature in oratorios and cantatas, or they can be stand-alone concert arias. The term was originally used to refer to any expressive melody, usually, but not always, performed by a singer.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Aria)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Aria) 
 
 
 ## Confidential Links & Embeds: 

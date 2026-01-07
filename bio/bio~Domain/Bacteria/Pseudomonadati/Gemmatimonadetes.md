@@ -16,6 +16,7 @@ title: Gemmatimonas aurantiaca
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gemmatimonadota) 
 
+
 ## Phylogeny 
 
 -   « Ancestral Groups  

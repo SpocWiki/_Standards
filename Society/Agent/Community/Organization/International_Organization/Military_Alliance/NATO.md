@@ -182,7 +182,7 @@ X_Twitter_username: NATO
 >
 > NATO formed with twelve founding members and has added new members ten times, most recently when Sweden joined the alliance on 7 March 2024. In addition, NATO recognizes Bosnia and Herzegovina, Georgia, and Ukraine as aspiring members. Enlargement has led to tensions with non-member Russia, one of the 18 additional countries participating in NATO's Partnership for Peace programme. Another 19 countries are involved in institutionalized dialogue programmes with NATO.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/NATO)
+> [Wikipedia](https://en.wikipedia.org/wiki/NATO) 
 
 
 ## Confidential Links & Embeds: 

@@ -78,7 +78,7 @@ and return a small SubSet that you can test externally.
 > even if it would be safe to consider it variant, 
 > or treat it as covariant even though that could violate type safety.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Covariance%20and%20contravariance%20(computer%20science))
+> [Wikipedia](https://en.wikipedia.org/wiki/Covariance%20and%20contravariance%20(computer%20science)) 
 
 
 | rules for overriding methods in some languages                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Parameter type | Return type |

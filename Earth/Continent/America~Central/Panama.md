@@ -464,7 +464,7 @@ Capital :: [[Panama_City]]
 >
 > Panama is a founding member of the United Nations and other international organizations such as the Organization of American States, Latin America Integration Association, Group of 77, World Health Organization, and Non-Aligned Movement.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Panama)
+> [Wikipedia](https://en.wikipedia.org/wiki/Panama) 
 
 
 ## Confidential Links & Embeds: 

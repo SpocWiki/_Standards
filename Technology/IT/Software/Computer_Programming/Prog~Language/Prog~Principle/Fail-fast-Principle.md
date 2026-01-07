@@ -17,7 +17,8 @@
 > The responsibility of a fail-fast module is detecting errors, 
 > and then letting the next-highest level of the system handle them.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fail-fast%20system)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fail-fast%20system) 
+
 
 ## #has_/examples 
 

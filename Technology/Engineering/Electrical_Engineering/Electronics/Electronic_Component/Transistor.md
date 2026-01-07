@@ -83,6 +83,7 @@ UMLS_CUI: C2713584
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Transistor) 
 
+
 | Year | Technology                                                                                               | Organization                                            |
 | ---- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | 1947 | [Point contact](https://en.wikipedia.org/wiki/Point-contact_transistor "Point-contact transistor")       | [[../Bell_Telephone_Company/Bell_Labs]]                                        |

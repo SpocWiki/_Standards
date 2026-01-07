@@ -137,7 +137,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
 
 ## #has_/text_of_/abstract 
 
-
 > **Manganese** is a chemical element with the symbol (Abbr::Mn) and atomic number (Charge-e::25). 
 > It is a hard, brittle, silvery metal, often found in minerals in combination with iron. 
 > 
@@ -162,7 +161,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
 > Of particular interest is the use of a Mn-O cluster, the oxygen-evolving complex, 
 > in the production of oxygen by plants.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Manganese)
+> [Wikipedia](https://en.wikipedia.org/wiki/Manganese) 
 
 
 ## Confidential Links & Embeds: 

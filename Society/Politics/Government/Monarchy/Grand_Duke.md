@@ -38,7 +38,7 @@ male_form_of_label: Gran Duque
 > formerly also in some countries in Northern Europe, such as the Grand Duchy of Finland or the Grand Duchy of Lithuania
 > currently by claimants to the Russian Imperial Throne (eg. Grand Duke George Mikhailovich of Russia)
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Grand%20duke)
+> [Wikipedia](https://en.wikipedia.org/wiki/Grand%20duke) 
 
 
 ## Confidential Links & Embeds: 

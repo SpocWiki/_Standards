@@ -300,7 +300,7 @@ work_location:
 >
 > His mastery of the expressive language of colour and drawing, displayed in a body of work spanning over a half-century, won him recognition as a leading figure in modern art.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Matisse)
+> [Wikipedia](https://en.wikipedia.org/wiki/Henri%20Matisse) 
 
 
 ## Confidential Links & Embeds: 

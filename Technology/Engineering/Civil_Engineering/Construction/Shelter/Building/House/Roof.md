@@ -57,7 +57,7 @@ Iconclass_notation: 41A36
 >
 > A roof may also provide additional living space, for example, a roof garden.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Roof)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Roof) 
 
 
 ## Confidential Links & Embeds: 

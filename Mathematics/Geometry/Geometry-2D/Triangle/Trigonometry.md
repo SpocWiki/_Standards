@@ -60,7 +60,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_trigonometry,7112803]]'
 > for rewriting trigonometrical expressions with the aim to simplify an expression, 
 > to find a more useful form of an expression, or to solve an equation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Trigonometry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Trigonometry) 
 
 
 ## Confidential Links & Embeds: 

@@ -158,7 +158,6 @@ Wolfram_Language_entity_code: Entity["Concept", "Aquinas::45zwz"]
 
 ## #has_/text_of_/abstract 
 
-
 > **Thomas Aquinas**  (  ə-KWY-nəs; Italian: Tommaso d'Aquino, lit. 'Thomas of Aquino'; c. 1225 – 7 March 1274) 
 > was an Italian Dominican friar and priest, the foremost Scholastic thinker, 
 > as well one of the most influential philosophers and theologians in the Western tradition. 
@@ -187,7 +186,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Aquinas::45zwz"]
 > In 1999, John Paul II added a new title to these traditional ones: 
 > Doctor Humanitatis ("Doctor of Humanity/Humaneness").
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Aquinas)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Aquinas) 
 
 
 ## Confidential Links & Embeds: 

@@ -77,7 +77,7 @@ short_name: Her
 > It is the fifth-largest of the modern constellations 
 > and is the largest of the 50 which have no stars brighter than apparent magnitude +2.5.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hercules%20(constellation))
+> [Wikipedia](https://en.wikipedia.org/wiki/Hercules%20(constellation)) 
 
 
 ## Confidential Links & Embeds: 

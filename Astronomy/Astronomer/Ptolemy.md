@@ -130,7 +130,8 @@ birth_name: Κλαύδιος Πτολεμαῖος
 > His work on [[epicycles]] has come to symbolize a very complex theoretical model built 
 > in order to __explain a false assumption__.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ptolemy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ptolemy) 
+
 
 [[../../../_protect/Society/Communication/Media/Literature/Bridge_to_Terabithia]] 
 [[../../../_Standards/Society/Communication/Media/Movie/Role/Deadpan-Role]] 

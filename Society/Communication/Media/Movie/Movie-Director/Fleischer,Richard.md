@@ -48,7 +48,7 @@
 > many of his films proved very financially and critically successful, winning accolades 
 > and being some of the highest-grossing features of their respective release years.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Fleischer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Fleischer) 
 
 
 ## Confidential Links & Embeds: 

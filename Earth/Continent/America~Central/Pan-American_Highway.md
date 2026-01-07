@@ -22,7 +22,7 @@
 > to the southern cities of [[Puerto Montt]] and [[Quellón]] in Chile, 
 > and [[Ushuaia]] in Argentina.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pan-American%20Highway)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pan-American%20Highway) 
 
 
 However, the highway is interrupted at the [[Darién_Gap]], 

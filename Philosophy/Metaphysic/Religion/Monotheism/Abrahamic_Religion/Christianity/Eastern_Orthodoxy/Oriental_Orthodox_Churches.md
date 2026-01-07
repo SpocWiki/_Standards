@@ -56,8 +56,6 @@ Stack_Exchange_tag: https://christianity.stackexchange.com/tags/oriental-orthodo
 > [Wikipedia](https://en.wikipedia.org/wiki/Oriental%20Orthodox%20Churches) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Oriental_Orthodox_Churches|Oriental_Orthodox_Churches]] 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1998-11-20 
 aliases:
   - International_Space_Station
   - International Space Station

@@ -23,7 +23,7 @@
 > 
 > Since then, HM has been extended in various ways, most notably with type class constraints like those in Haskell.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner%20type%20system)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner%20type%20system) 
 
 
 ## Confidential Links & Embeds: 

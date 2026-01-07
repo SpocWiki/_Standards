@@ -208,7 +208,7 @@ Wolfram_Language_entity_code: Entity["Planet", "Uranus"]
 > a top priority in the 2023–2032 survey, and the CNSA's proposal 
 > to fly by the planet with a subprobe of Tianwen-4.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Uranus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Uranus) 
 
 
 ## Confidential Links & Embeds: 

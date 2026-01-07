@@ -238,7 +238,7 @@ ZVG_number: 7390
 > When one of the chemicals in ytterbite was later found to be the previously unidentified element, 
 > yttrium, the element was then named after the mineral.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yttrium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Yttrium) 
 
 
 ## Confidential Links & Embeds: 

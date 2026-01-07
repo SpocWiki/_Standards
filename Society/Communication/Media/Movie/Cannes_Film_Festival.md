@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1946-01-01 
+location: [ 7.018055555 , 43.550833333 ] 
 aliases:
   - Cannes Film Festival
   - Cannes_Film_Festival

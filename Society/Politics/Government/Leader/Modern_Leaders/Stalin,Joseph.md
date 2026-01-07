@@ -250,7 +250,7 @@ The quote above is from _Children of the Arbat_ (Russian: _Дети Арбата
 >
 > Widely considered one of the 20th century's most significant figures, Stalin was the subject of a pervasive personality cult within the international Marxist–Leninist movement, which revered him as a champion of socialism and the working class. Since the dissolution of the Soviet Union in 1991, Stalin has retained a degree of popularity in post-Soviet states as an economic moderniser and victorious wartime leader who cemented the Soviet Union as a major world power. Conversely, his regime has been widely condemned for overseeing mass repressions, ethnic cleansing, and famines which caused the deaths of millions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Stalin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Stalin) 
 
 
 ## Confidential Links & Embeds: 

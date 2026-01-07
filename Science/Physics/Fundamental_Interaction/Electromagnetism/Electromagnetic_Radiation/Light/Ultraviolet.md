@@ -98,7 +98,7 @@ Commons_category: Ultraviolet light
 > Insects, birds, and some mammals can see near-UV (NUV), 
 > i.e., somewhat shorter wavelengths than what humans can see.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ultraviolet)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ultraviolet) 
 
 
 ## Confidential Links & Embeds: 

@@ -217,7 +217,7 @@ writing_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 > His books have been translated into more than 170 languages, 
 > and served as the inspiration for many films.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fyodor%20Dostoevsky)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fyodor%20Dostoevsky) 
 
 
 ## Confidential Links & Embeds: 

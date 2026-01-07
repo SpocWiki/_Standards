@@ -193,7 +193,7 @@ work_period_start_: 1893
 > his tempestuous marriage with second wife Miriam Noel (m. 1923–1927); 
 > and his courtship and marriage with Olgivanna Lazović (m. 1928–1959).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Lloyd%20Wright)
+> [Wikipedia](https://en.wikipedia.org/wiki/Frank%20Lloyd%20Wright) 
 
 
 ## Confidential Links & Embeds: 

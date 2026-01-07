@@ -63,7 +63,7 @@ Commons_category: Hydroxide ion
 >
 > Many inorganic substances which bear the word hydroxide in their names are not ionic compounds of the hydroxide ion, but covalent compounds which contain hydroxy groups.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hydroxide)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hydroxide) 
 
 
 ## Confidential Links & Embeds: 

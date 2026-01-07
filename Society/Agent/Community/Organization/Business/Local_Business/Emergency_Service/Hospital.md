@@ -56,7 +56,7 @@ A hospital.
 >
 > Hospitals are currently staffed by professional physicians, surgeons, nurses, and allied health practitioners. In the past, however, this work was usually performed by the members of founding religious orders or by volunteers. However, there are various Catholic religious orders, such as the Alexians and the Bon Secours Sisters that still focus on hospital ministry in the late 1990s, as well as several other Christian denominations, including the Methodists and Lutherans, which run hospitals. In accordance with the original meaning of the word, hospitals were original "places of hospitality", and this meaning is still preserved in the names of some institutions such as the Royal Hospital Chelsea, established in 1681 as a retirement and nursing home for veteran soldiers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hospital)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hospital) 
 
 
 ## Confidential Links & Embeds: 

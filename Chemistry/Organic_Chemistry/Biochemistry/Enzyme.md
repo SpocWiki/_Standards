@@ -60,7 +60,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/FERMENTI.html
 >
 > Some enzymes are used commercially, for example, in the synthesis of antibiotics. Some household products use enzymes to speed up chemical reactions: enzymes in biological washing powders break down protein, starch or fat stains on clothes, and enzymes in meat tenderizer break down proteins into smaller molecules, making the meat easier to chew.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Enzyme)
+> [Wikipedia](https://en.wikipedia.org/wiki/Enzyme) 
 
 
 ## Confidential Links & Embeds: 

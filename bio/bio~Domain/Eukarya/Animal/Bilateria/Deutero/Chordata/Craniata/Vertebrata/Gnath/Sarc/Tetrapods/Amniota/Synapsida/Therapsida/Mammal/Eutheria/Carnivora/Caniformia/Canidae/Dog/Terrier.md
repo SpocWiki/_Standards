@@ -23,7 +23,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20dog%20book%20-%2
 
 > **Terrier** (from Latin  terra 'earth') is a type of dog originally bred to hunt vermin. A terrier is a dog of any one of many breeds or landraces of the terrier type, which are typically small, wiry, game, and fearless.  There are five different groups of terrier, with each group having different shapes and sizes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Terrier)
+> [Wikipedia](https://en.wikipedia.org/wiki/Terrier) 
 
 
 ## Confidential Links & Embeds: 

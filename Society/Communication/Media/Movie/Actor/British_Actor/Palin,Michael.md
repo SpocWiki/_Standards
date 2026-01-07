@@ -50,7 +50,7 @@ aliases:
 > 
 > From 2009 to 2012 he was President of the [[Royal_Geographical_Society]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Palin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Palin) 
 
 
 ## Confidential Links & Embeds: 

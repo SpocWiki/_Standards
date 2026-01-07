@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 1521-01-01 
 aliases:
   - Maya civilization
   - Maya_Civilization

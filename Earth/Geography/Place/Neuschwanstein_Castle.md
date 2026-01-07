@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1869-01-01 
+location: [ 10.749441807 , 47.557488542 ] 
 aliases:
   - Neuschwanstein Castle
   - Neuschwanstein_Castle

@@ -173,7 +173,8 @@ short_name: S. scrofa
 >
 > As of 2005, up to 16 subspecies are recognized, which are divided into four regional groupings based on skull height and lacrimal bone length. The species lives in matriarchal societies consisting of interrelated females and their young (both male and female). Fully grown males are usually solitary outside the breeding season. The wolf is the wild boar's main predator in most of its natural range except in the Far East and the Lesser Sunda Islands, where it is replaced by the tiger and Komodo dragon respectively. The wild boar has a long history of association with humans, having been the ancestor of most domestic pig breeds and a big-game animal for millennia. Boars have also re-hybridized in recent decades with feral pigs; these boar–pig hybrids have become a serious pest wild animal in the Americas and Australia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wild%20boar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wild%20boar) 
+
 
 ## Phylogeny 
 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1964-04-26 
 aliases:
   - Unguja
   - Zanzibar

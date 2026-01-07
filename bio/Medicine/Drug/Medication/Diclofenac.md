@@ -28,7 +28,8 @@ aliases:
 > with more than 12 million prescriptions. 
 > It is available as its acid or in two salts, as either diclofenac sodium or potassium.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Diclofenac)
+> [Wikipedia](https://en.wikipedia.org/wiki/Diclofenac) 
+
 
 Applied on the skin only 5% are resorbed. 
 The effect can be only superficial. 

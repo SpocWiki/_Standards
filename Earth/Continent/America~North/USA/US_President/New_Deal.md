@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1933-01-01 
+has_time_stopped: 1939-01-01 
 aliases:
   - New Deal
   - New_Deal

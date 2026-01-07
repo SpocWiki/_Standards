@@ -24,7 +24,7 @@ aliases:
 >
 > Ashoka's existence as a historical emperor had almost been forgotten, but since the decipherment in the 19th century of sources written in the Brahmi script, Ashoka holds a reputation as one of the greatest Indian emperors. The State Emblem of the modern Republic of India is an adaptation of the Lion Capital of Ashoka. Ashoka's wheel, the Ashoka Chakra, is adopted at the centre of the National Flag of India.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ashoka)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ashoka) 
 
 
 ## Confidential Links & Embeds: 

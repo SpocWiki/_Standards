@@ -16,7 +16,7 @@ aliases:
 > where it became the streaming service's most-viewed film. 
 > Apple's decision to pivot the film to streaming despite pre-arranged agreements for a theatrical release led Watts to not move forward with a planned sequel.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wolfs%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Wolfs%20(film)) 
 
 
 ## Confidential Links & Embeds: 

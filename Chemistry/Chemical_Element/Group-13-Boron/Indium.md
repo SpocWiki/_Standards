@@ -106,7 +106,6 @@ ZVG_number: 8370
 
 ## #has_/text_of_/abstract 
 
-
 > **Indium** is a chemical element with the symbol (Abbr::In) and atomic number (Charge-e::49). 
 > Indium is the softest metal that is not an alkali metal. 
 > It is a silvery-white metal that resembles tin in appearance. 
@@ -125,7 +124,7 @@ ZVG_number: 8370
 >
 > Indium has no biological role. Its compounds are toxic when injected into the bloodstream. Most occupational exposure is through ingestion, from which indium compounds are not absorbed well, and inhalation, from which they are moderately absorbed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Indium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Indium) 
 
 
 ## Confidential Links & Embeds: 

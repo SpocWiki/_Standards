@@ -4,7 +4,7 @@
 > is a 52-episode anime series directed by Fumio Kurokawa and produced by [[Nippon_Animation|Nippon Animation]] 
 > which was first aired in 1975. The story is based on the children's story "Sinbad the Sailor".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Arabian%20Nights:%20Sinbad's%20Adventures)
+> [Wikipedia](https://en.wikipedia.org/wiki/Arabian%20Nights:%20Sinbad's%20Adventures) 
 
 
 ## Confidential Links & Embeds: 

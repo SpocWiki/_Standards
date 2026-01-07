@@ -13,7 +13,7 @@
 > D-Galactose is also known as brain sugar, 
 > since it is a component of glycoproteins (oligosaccharide-protein compounds) found in nerve tissue.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Galactose)
+> [Wikipedia](https://en.wikipedia.org/wiki/Galactose) 
 
 
 ## Confidential Links & Embeds: 

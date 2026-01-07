@@ -10,7 +10,7 @@
 > It is part of [[Penguin Random House]], 
 > which is owned by the Germany-based media conglomerate [[Bertelsmann]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Random%20House)
+> [Wikipedia](https://en.wikipedia.org/wiki/Random%20House) 
 
 
 ## Confidential Links & Embeds: 

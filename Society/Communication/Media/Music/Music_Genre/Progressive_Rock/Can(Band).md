@@ -16,7 +16,7 @@
 > and "I Want More" (1976) reaching national singles charts. 
 > Their work has influenced rock, post-punk, and ambient acts.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Can%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Can%20(band)) 
 
 
 ## Confidential Links & Embeds: 

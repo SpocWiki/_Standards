@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 60.0 , 39.0 ] 
 aliases:
   - Turkmenistan
   - Turkmenistán
@@ -425,7 +426,7 @@ Capital :: [[Turkmenistan/Counties/Ahal/City/Ashgabat]]
 >
 > Turkmenistan possesses the world's fifth largest reserves of natural gas. Most of the country is covered by the Karakum Desert. From 1993 to 2019, citizens received government-provided electricity, water and natural gas free of charge. Turkmenistan is an observer state in the Organisation of Turkic States, the Türksoy community and a member of the United Nations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Turkmenistan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Turkmenistan) 
 
 
 ## Confidential Links & Embeds: 

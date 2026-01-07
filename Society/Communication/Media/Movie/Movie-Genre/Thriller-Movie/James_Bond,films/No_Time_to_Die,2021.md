@@ -46,7 +46,7 @@
 > The film was nominated for three awards at the 94th Academy Awards, 
 > winning Best Original Song, and received numerous other accolades.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/No%20Time%20to%20Die)
+> [Wikipedia](https://en.wikipedia.org/wiki/No%20Time%20to%20Die) 
 
 
 ## Confidential Links & Embeds: 

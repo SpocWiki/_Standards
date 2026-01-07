@@ -126,7 +126,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_statistics,7112738]]'
 > The presence of missing data or censoring may result in biased estimates 
 > and specific techniques have been developed to address these problems.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Statistics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Statistics) 
 
 
 ## #has_/text_of_/abstract 
@@ -147,7 +147,8 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_statistics,7112738]]'
 > due to seemingly random changes in the different markets within the financial sector 
 > and in medicine, linguistics,  music, media, color theory,  botany, manufacturing and geomorphology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stochastic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stochastic) 
+
 
 ## Distributions 
 

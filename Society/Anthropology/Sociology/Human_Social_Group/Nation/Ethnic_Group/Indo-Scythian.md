@@ -1,4 +1,6 @@
----
+﻿---
+has_time_stopped: 0400-01-01 
+location: [ 74.48 , 28.49 ] 
 aliases:
   - Indo-Scythians
   - Indo-Sakas

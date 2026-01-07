@@ -55,7 +55,7 @@ A point in time recurring on multiple days in the form hh:mm:ss(Z|(+|-)hh:mm)
 >
 > Throughout history, time has been an important subject of study in religion, philosophy, and science. Temporal measurement has occupied scientists and technologists, and has been a prime motivation in navigation and astronomy. Time is also of significant social importance, having economic value ("time is money") as well as personal value, due to an awareness of the limited time in each day ("carpe diem") and in human life spans.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Time)
+> [Wikipedia](https://en.wikipedia.org/wiki/Time) 
 
 
 ## Confidential Links & Embeds: 

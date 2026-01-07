@@ -130,7 +130,8 @@ type: private_note
 > This ongoing research is designed to help accurately forecast the passage of tsunamis 
 > across oceans as well as how tsunami waves interact with shorelines.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tsunami)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tsunami) 
+
 
 # [[Tsunami]] 
 

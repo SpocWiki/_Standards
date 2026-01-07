@@ -39,7 +39,7 @@ UMLS_CUI: C0032042
 >
 > Placebos are also popular because they can sometimes produce relief through psychological mechanisms (a phenomenon known as the "placebo effect"). They can affect how patients perceive their condition and encourage the body's chemical processes for relieving pain and a few other symptoms, but have no impact on the disease itself.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Placebo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Placebo) 
 
 
 ## Confidential Links & Embeds: 

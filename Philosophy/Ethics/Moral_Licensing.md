@@ -55,7 +55,7 @@ aliases:
 > that people are faced with a temptation to do something morally dubious, 
 > and use a prior good deed as an excuse or reason why it is allowed for them to indulge.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Self-licensing)
+> [Wikipedia](https://en.wikipedia.org/wiki/Self-licensing) 
 
 
 ## Confidential Links & Embeds: 

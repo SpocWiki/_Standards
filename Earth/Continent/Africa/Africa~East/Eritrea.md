@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 38.25 , 15.483333 ] 
 aliases:
   - Eritrea
   - Érythrée

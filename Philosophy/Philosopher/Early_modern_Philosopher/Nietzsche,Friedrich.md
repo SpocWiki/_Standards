@@ -219,7 +219,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 >
 > After his death, Nietzsche's sister Elisabeth became the curator and editor of his manuscripts. She edited his unpublished writings to fit her German ultranationalist ideology, often contradicting or obfuscating Nietzsche's stated opinions, which were explicitly opposed to antisemitism and nationalism. Through her published editions, Nietzsche's work became associated with fascism and Nazism. 20th-century scholars such as Walter Kaufmann, R. J. Hollingdale, and Georges Bataille defended Nietzsche against this interpretation, and corrected editions of his writings were soon made available. Nietzsche's thought enjoyed renewed popularity in the 1960s and his ideas have since had a profound impact on 20th- and early 21st-century thinkers across philosophy—especially in schools of continental philosophy such as existentialism, postmodernism, and post-structuralism—as well as art, literature, music, poetry, politics, and popular culture.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Friedrich%20Nietzsche)
+> [Wikipedia](https://en.wikipedia.org/wiki/Friedrich%20Nietzsche) 
 
 
 ## Criticism of Weakness 

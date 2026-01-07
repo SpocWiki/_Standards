@@ -50,7 +50,7 @@ Unicode_character: 🦓
 >
 > Zebras' dazzling stripes make them among the most recognisable mammals. They have been featured in art and stories in Africa and beyond. Historically, they have been highly sought by exotic animal collectors, but unlike horses and donkeys, zebras have never been completely domesticated. The International Union for Conservation of Nature (IUCN) lists Grévy's zebra as endangered, the mountain zebra as vulnerable and the plains zebra as near-threatened. The quagga (E. quagga quagga), a type of plains zebra, was driven to extinction in the 19th century. Nevertheless, zebras can be found in numerous protected areas.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Zebra)
+> [Wikipedia](https://en.wikipedia.org/wiki/Zebra) 
 
 
 ## Confidential Links & Embeds: 

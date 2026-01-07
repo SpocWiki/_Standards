@@ -156,7 +156,7 @@ A museum.
 > Museums originated as private collections of interesting items, 
 > and not until much later did the emphasis on educating the public take root.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Museum)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Museum) 
 
 
 ## Confidential Links & Embeds: 

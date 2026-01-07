@@ -27,7 +27,7 @@ aliases:
 > On June 24, 2009, ZeniMax Media acquired the company. 
 > In 2015, they opened a second studio in Frankfurt, Germany.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Id%20Software)
+> [Wikipedia](https://en.wikipedia.org/wiki/Id%20Software) 
 
 
 ## Confidential Links & Embeds: 

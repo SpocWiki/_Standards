@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1857-01-01 
 aliases:
   - Symbolismus
   - Symbolism

@@ -53,7 +53,6 @@ Unicode_character: π
 
 ## #has_/text_of_/abstract 
 
-
 > The number π ( ; spelled out as "**Pi**") is a mathematical constant, approximately equal to 3.14159, that is the ratio of a circle's circumference to its diameter.  It appears in many formulae across mathematics and physics, and some of these formulae are commonly used for defining π, to avoid relying on the definition of the length of a curve.
 >
 > The number π is an irrational number, meaning that it cannot be expressed exactly as a ratio of two integers, although fractions such as 22/7 are commonly used to approximate it. 
@@ -63,7 +62,7 @@ Unicode_character: π
 >
 > Because it relates to a circle, π is found in many formulae in trigonometry and geometry, especially those concerning circles, ellipses and spheres. It is also found in formulae from other topics in science, such as cosmology, fractals, thermodynamics, mechanics, and electromagnetism. It also appears in areas having little to do with geometry, such as number theory and statistics, and in modern mathematical analysis can be defined without any reference to geometry. The ubiquity of π makes it one of the most widely known mathematical constants inside and outside of science. Several books devoted to π have been published, and record-setting calculations of the digits of π often result in news headlines.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pi) 
 
 
 ## Confidential Links & Embeds: 

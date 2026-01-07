@@ -92,7 +92,7 @@ UMLS_CUI: C0017596
 >
 > The refractive, reflective and transmission properties of glass make glass suitable for manufacturing optical lenses, prisms, and optoelectronics materials. Extruded glass fibres have applications as optical fibres in communications networks, thermal insulating material when matted as glass wool to trap air, or in glass-fibre reinforced plastic (fibreglass).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Glass)
+> [Wikipedia](https://en.wikipedia.org/wiki/Glass) 
 
 
 ## Confidential Links & Embeds: 

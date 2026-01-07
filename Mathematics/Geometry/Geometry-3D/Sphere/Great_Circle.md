@@ -26,6 +26,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20circle%20hemis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20circle) 
 
+
 This is the circle with a maximum Radius R on the Sphere with Radius R. 
 
 

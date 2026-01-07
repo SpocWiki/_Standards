@@ -41,7 +41,7 @@ publication_date: 1651-01-01T00:00:00Z
 > Hobbes wrote that civil war and the brute situation of a state of nature 
 > ("the war of all against all") could be avoided only by a strong, undivided government.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Leviathan%20(Hobbes%20book))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Leviathan%20(Hobbes%20book)) 
 
 
 ## Confidential Links & Embeds: 

@@ -117,7 +117,6 @@ ZVG_number: 8390
 
 ## #has_/text_of_/abstract 
 
-
 > **Antimony** is a chemical element with the symbol (Abbr::Sb) (from Latin: stibium) and atomic number (Charge-e::51). 
 > A lustrous gray metalloid, it is found in nature mainly as the sulfide mineral stibnite (Sb2S3). 
 > 
@@ -132,7 +131,7 @@ ZVG_number: 8390
 >
 > The largest applications for metallic antimony are in alloys with lead and tin, which have improved properties for solders, bullets, and plain bearings. It improves the rigidity of lead-alloy plates in lead–acid batteries. Antimony trioxide is a prominent additive for halogen-containing flame retardants. Antimony is used as a dopant in semiconductor devices.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Antimony)
+> [Wikipedia](https://en.wikipedia.org/wiki/Antimony) 
 
 
 ## Confidential Links & Embeds: 

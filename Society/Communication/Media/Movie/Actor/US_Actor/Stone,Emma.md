@@ -38,7 +38,7 @@ for Best Supporting Actress for playing a recovering drug addict in Birdman (201
 >
 > On Broadway, Stone has starred as Sally Bowles in a revival of the musical Cabaret (2014–2015). She and her husband, Dave McCary, founded the production company Fruit Tree in 2020, under which they have produced the films When You Finish Saving the World (2022), Problemista (2023), and I Saw the TV Glow (2024).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Emma%20Stone)
+> [Wikipedia](https://en.wikipedia.org/wiki/Emma%20Stone) 
 
 
 ## Confidential Links & Embeds: 

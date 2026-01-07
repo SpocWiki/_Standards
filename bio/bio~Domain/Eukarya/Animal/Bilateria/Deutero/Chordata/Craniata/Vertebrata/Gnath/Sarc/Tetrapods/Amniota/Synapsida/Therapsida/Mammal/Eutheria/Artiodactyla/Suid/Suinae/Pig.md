@@ -131,7 +131,7 @@ IPA_transcription: sʌs
 > Pigs are biologically similar to humans 
 > and are thus frequently used for human medical research.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sus%20(genus))
+> [Wikipedia](https://en.wikipedia.org/wiki/Sus%20(genus)) 
 
 
 ## Phylogeny 

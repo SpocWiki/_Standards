@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1945-01-01 
 aliases:
   - Bebop
 has_id_wikidata: Q105513

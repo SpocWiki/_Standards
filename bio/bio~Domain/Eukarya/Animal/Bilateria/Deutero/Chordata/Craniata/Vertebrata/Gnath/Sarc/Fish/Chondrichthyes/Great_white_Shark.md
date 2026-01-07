@@ -205,7 +205,7 @@ NBN_System_Key: NHMSYS0001745235
 >
 > The great white shark is depicted in popular culture as a ferocious man-eater, largely as a result of the novel Jaws by Peter Benchley and its subsequent film adaptation by Steven Spielberg. While humans are not a preferred prey, this species is nonetheless responsible for the largest number of reported and identified fatal unprovoked shark attacks on humans. However, attacks are rare, typically occurring fewer than 10 times per year globally.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Great%20white%20shark)
+> [Wikipedia](https://en.wikipedia.org/wiki/Great%20white%20shark) 
 
 
 ## Confidential Links & Embeds: 

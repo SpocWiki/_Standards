@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2000-01-01 
 aliases:
 has_id_wikidata: Q89640
 opposite_of: "[[_Standards/WikiData/WD~anti_consumerism,1783091]]"

@@ -125,7 +125,7 @@ P8189: 987007284759505171
 > the expansion of the universe is accelerating, 
 > an observation attributed to an unexplained phenomenon known as dark energy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Big%20Bang)
+> [Wikipedia](https://en.wikipedia.org/wiki/Big%20Bang) 
 
 
 ## Confidential Links & Embeds: 

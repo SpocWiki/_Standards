@@ -65,7 +65,7 @@ aliases:
 > He lived with his second wife, producer Anne Buydens, until his death in 2020. 
 > A centenarian, Douglas was one of the last surviving stars of the film industry's Golden Age.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kirk%20Douglas)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kirk%20Douglas) 
 
 
 ## Confidential Links & Embeds: 

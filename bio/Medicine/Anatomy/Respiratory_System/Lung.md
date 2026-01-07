@@ -51,7 +51,7 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/lungs
 >
 > In embryonic development, the lungs begin to develop as an outpouching of the foregut, a tube which goes on to form the upper part of the digestive system. When the lungs are formed the fetus is held in the fluid-filled amniotic sac and so they do not function to breathe. Blood is also diverted from the lungs through the ductus arteriosus. At birth however, air begins to pass through the lungs, and the diversionary duct closes so that the lungs can begin to respire. The lungs only fully develop in early childhood.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lung)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lung) 
 
 
 ## Confidential Links & Embeds: 

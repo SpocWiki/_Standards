@@ -94,7 +94,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 >
 > Upon India's independence on 15 August 1947, Nehru gave a critically acclaimed speech, "Tryst with Destiny"; he was sworn in as the Dominion of India's prime minister and raised the Indian flag at the Red Fort in Delhi. On 26 January 1950, when India became a republic within the Commonwealth of Nations, Nehru became the Republic of India's first prime minister. He embarked on an ambitious economic, social, and political reform programme. Nehru promoted a pluralistic multi-party democracy. In foreign affairs, he led the establishment the Non-Aligned Movement, a group of nations that did not seek membership in the two main ideological blocs of the Cold War. Under Nehru's leadership, the Congress dominated national and state-level politics and won elections in 1951, 1957 and 1962. He died in office from a heart attack in 1964. His birthday is celebrated as Children's Day in India.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal%20Nehru)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jawaharlal%20Nehru) 
 
 
 ## Confidential Links & Embeds: 

@@ -24,7 +24,7 @@
 >
 > The concept of dimension is not restricted to physical objects. High-dimensional spaces frequently occur in mathematics and the sciences. They may be Euclidean spaces or more general parameter spaces or configuration spaces such as in Lagrangian or Hamiltonian mechanics; these are abstract spaces, independent of the physical space.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dimension)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dimension) 
 
 
 ## Confidential Links & Embeds: 

@@ -75,10 +75,7 @@ markerFolder: ./Greenhouse-Effect/
 > 
 > The term greenhouse was first applied to this phenomenon by Nils Gustaf Ekholm in 1901.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Greenhouse%20effect)
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Greenhouse%20effect) 
 
 
 # data

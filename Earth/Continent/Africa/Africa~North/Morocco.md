@@ -547,7 +547,7 @@ Capital :: [[./Morocco/City/Rabat|Rabat]]
 >
 > Morocco claims ownership of the non-self-governing territory of Western Sahara, which it has designated its Southern Provinces. In 1975, after Spain agreed to decolonise the territory and cede its control to Morocco and Mauritania, a guerrilla war broke out between those powers and some of the local inhabitants. In 1979, Mauritania relinquished its claim to the area, but the war continued to rage. In 1991, a ceasefire agreement was reached, but the issue of sovereignty remained unresolved. Today, Morocco occupies two-thirds of the territory, and efforts to resolve the dispute have thus far failed to break the political deadlock.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Morocco)
+> [Wikipedia](https://en.wikipedia.org/wiki/Morocco) 
 
 
 ## Confidential Links & Embeds: 

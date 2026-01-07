@@ -44,7 +44,7 @@
 > It was nominated for several awards, including the Academy Award for Best Animated Feature 
 > and the Golden Globe Award for Best Animated Feature Film.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Elemental%20(2023%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Elemental%20(2023%20film)) 
 
 
 ## Confidential Links & Embeds: 

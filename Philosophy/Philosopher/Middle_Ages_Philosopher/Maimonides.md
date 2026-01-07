@@ -137,7 +137,7 @@ Europeana_entity: agent/base/145343
 > Influenced by [[../Ancient_Philosopher/Aristotle|Aristotle]], Al-Farabi, [[../../../Science/Scientist/Middle_Age_Scientists/Avicenna]], and his contemporary Ibn Rushd, 
 > he became a prominent philosopher and polymath in both the Jewish and Islamic worlds.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Maimonides)
+> [Wikipedia](https://en.wikipedia.org/wiki/Maimonides) 
 
 
 ## Confidential Links & Embeds: 

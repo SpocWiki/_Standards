@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1600-01-01 
 aliases:
   - Tequila
 has_id_wikidata: Q122195
@@ -38,7 +39,7 @@ OmegaWiki_Defined_Meaning: 490269
 >
 > Tequila is commonly served neat in Mexico and as a shot with salt and lime around the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tequila)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tequila) 
 
 
 ## Confidential Links & Embeds: 

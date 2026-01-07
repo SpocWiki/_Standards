@@ -62,7 +62,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20entsteht%20Wind%
 >
 > Winds can shape landforms, via a variety of aeolian processes such as the formation of fertile soils, for example loess, and by erosion. Dust from large deserts can be moved great distances from its source region by the prevailing winds; winds that are accelerated by rough topography and associated with dust outbreaks have been assigned regional names in various parts of the world because of their significant effects on those regions. Wind also affects the spread of wildfires. Winds can disperse seeds from various plants, enabling the survival and dispersal of those plant species, as well as flying insect and bird populations. When combined with cold temperatures, the wind has a negative impact on livestock. Wind affects animals' food stores, as well as their hunting and defensive strategies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wind)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wind) 
 
 
 ## Confidential Links & Embeds: 

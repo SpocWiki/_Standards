@@ -66,7 +66,6 @@ X_username: hedislimanetwit
 
 ## #has_/text_of_/abstract 
 
-
 > **Lithium** (from Greek: λίθος, romanized: lithos, lit. 'stone') 
 > is a chemical element with the symbol Li and atomic number 3. It is a soft, silvery-white alkali metal. 
 > Under standard conditions, it is the least dense metal and the least dense solid element. 
@@ -103,7 +102,8 @@ X_username: hedislimanetwit
 > Lithium salts have proven to be useful as a mood stabilizer 
 > and antidepressant in the treatment of mental illness such as bipolar disorder.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lithium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lithium) 
+
 
 ## Lithium Batteries 
 

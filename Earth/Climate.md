@@ -93,7 +93,7 @@ Wikidata_property: Köppen climate classification
 > Climate models are mathematical models of past, present, and future climates. 
 > Climate change may occur over long and short timescales due to various factors. Recent warming is discussed in terms of global warming, which results in redistributions of biota. For example, as climate scientist Lesley Ann Hughes has written: "a 3 °C [5 °F] change in mean annual temperature corresponds to a shift in isotherms of approximately 300–400 km [190–250 mi] in latitude (in the temperate zone) or 500 m [1,600 ft] in elevation. Therefore, species are expected to move upwards in elevation or towards the poles in latitude in response to shifting climate zones."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Climate)
+> [Wikipedia](https://en.wikipedia.org/wiki/Climate) 
 
 
 ## Confidential Links & Embeds: 

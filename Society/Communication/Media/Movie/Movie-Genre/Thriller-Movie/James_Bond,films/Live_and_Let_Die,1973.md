@@ -31,7 +31,7 @@
 > Its title song, written by Paul and Linda McCartney and performed by their band Wings, 
 > was also nominated for the Academy Award for Best Original Song.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Live%20and%20Let%20Die%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Live%20and%20Let%20Die%20(film)) 
 
 
 ## Confidential Links & Embeds: 

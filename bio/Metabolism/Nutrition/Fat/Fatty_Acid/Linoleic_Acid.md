@@ -656,10 +656,10 @@ MeSH_tree_code:
 DSSTOX_compound_identifier: DTXCID505505
 CSD_Refcode: LINOLA
 Commons_category: Linoleic acid
-__has_:
+dv_has_:
   formula_:
     structural: CH3(CH2)4CH=CHCH2CH=CH(CH2)7COOH
-__is_:
+dv_is_:
   same_as:
     - "[[WD~Linoleic_Acid,407426]]"
     - "[[Linoleic_Acid]]"
@@ -669,8 +669,8 @@ __is_:
     - "[[/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.private|Linoleic_Acid.private]]"
     - "[[/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.personal|Linoleic_Acid.personal]]"
     - "[[/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.secret|Linoleic_Acid.secret]]"
-__has_formula_structural: CH3(CH2)4CH=CHCH2CH=CH(CH2)7COOH
-__is_same_as:
+dv_has_formula_structural: CH3(CH2)4CH=CHCH2CH=CH(CH2)7COOH
+dv_is_same_as:
   - "[[WD~Linoleic_Acid,407426]]"
   - "[[Linoleic_Acid]]"
   - "[[/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.public|Linoleic_Acid.public]]"
@@ -683,7 +683,7 @@ __is_same_as:
 
 # [[Linoleic_Acid]] 
 
- has_formula_structural = `$= dv.current().__has_formula_structural` 
+ has_formula_structural = `$= dv.current.dv_has_formula_structural` 
 #is_/same_as :: [[WD~Linoleic_Acid,407426]] 
 
 ## #has_/text_of_/abstract 

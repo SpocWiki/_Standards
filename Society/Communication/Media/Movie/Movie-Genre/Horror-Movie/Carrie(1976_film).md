@@ -44,7 +44,7 @@ aliases:
 > United States National Film Registry by the Library of Congress 
 > as being "culturally, historically, or aesthetically significant".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Carrie%20(1976%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Carrie%20(1976%20film)) 
 
 
 ## Confidential Links & Embeds: 

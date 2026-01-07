@@ -164,7 +164,7 @@ writing_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 > He made no apologies for the difficulties this posed to readers, 
 > insisting that the role of an artist was to ask questions, not to answer them.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Anton%20Chekhov)
+> [Wikipedia](https://en.wikipedia.org/wiki/Anton%20Chekhov) 
 
 
 ## Confidential Links & Embeds: 

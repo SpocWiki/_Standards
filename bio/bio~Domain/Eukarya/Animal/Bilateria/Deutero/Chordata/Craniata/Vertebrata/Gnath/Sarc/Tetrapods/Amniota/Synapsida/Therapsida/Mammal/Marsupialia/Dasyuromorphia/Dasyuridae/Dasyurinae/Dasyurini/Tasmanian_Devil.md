@@ -109,6 +109,7 @@ nickname: T-devil
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tasmanian%20devil) 
 
+
 [[Tasmanian_Devil]]s]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Sarcophilus,937821|WD~Sarcophilus,937821]]  

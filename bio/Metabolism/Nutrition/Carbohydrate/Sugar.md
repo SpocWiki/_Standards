@@ -152,7 +152,7 @@ U_S_National_Archives_Identifier: 10641540
 > About 185 million tonnes of sugar were produced worldwide in 2017. 
 > 
 > [Wikipedia](https://en.wikipedia.org/wiki/Sucrose)
-> [Wikipedia](https://en.wikipedia.org/wiki/Sugar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sugar) 
 
 
 ## Confidential Links & Embeds: 

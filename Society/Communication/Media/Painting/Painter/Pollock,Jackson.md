@@ -135,7 +135,7 @@ date_of_birth: 1912-01-28T00:00:00Z
 >
 > A reclusive and volatile personality, Pollock struggled with alcoholism for most of his life. In 1945, he married artist Lee Krasner, who became an important influence on his career and on his legacy. Pollock died in August 1956 at age 44 in an alcohol-related single-car collision when he was driving. Four months after his death, Pollock was given a memorial retrospective exhibition at the Museum of Modern Art (MoMA) in New York City. A larger, more comprehensive exhibition of his work was held there in 1967. In 1998 and 1999, Pollock's work was honored with large-scale retrospective exhibitions at MoMA and the Tate Gallery in London.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jackson%20Pollock)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Jackson%20Pollock) 
 
 
 ## Confidential Links & Embeds: 

@@ -49,7 +49,7 @@ aliases:
 > . In 2018, he released the album 44/876, a collaboration with Jamaican musician [[Shaggy]], 
 > which won the Grammy Award for Best Reggae Album in 2019.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sting%20(musician))
+> [Wikipedia](https://en.wikipedia.org/wiki/Sting%20(musician)) 
 
 
 ## Confidential Links & Embeds: 

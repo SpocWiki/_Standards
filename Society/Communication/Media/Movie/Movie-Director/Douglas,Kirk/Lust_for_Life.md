@@ -17,7 +17,7 @@ aliases:
 > and the New York Film Critics Circle Award for Best Actor for his performance, 
 > while Quinn won the [[../../TV-Series/Academy_Award|Academy Award]] for Best Supporting Actor.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lust%20for%20Life%20(1956%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Lust%20for%20Life%20(1956%20film)) 
 
 
 ## Confidential Links & Embeds: 

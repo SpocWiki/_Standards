@@ -26,7 +26,8 @@
 > developed by Joe Armstrong, Robert Virding, and Mike Williams in 1986, but was released as free and open-source software in 1998. 
 > Erlang/OTP is supported and maintained by the Open Telecom Platform (OTP) product unit at Ericsson.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Erlang%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Erlang%20(programming%20language)) 
+
 
 Notably [[RabbitMQ]] is written in [[Prog~Erlang]]. 
 

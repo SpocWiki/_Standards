@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1886-05-08 
 aliases:
   - Coke
   - Cola
@@ -97,7 +98,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Coca%20Cola%20Flasche%
 >
 > The Coca-Cola Company has on occasion introduced other cola drinks under the Coke name. The most common of these is Diet Coke, along with others including Caffeine-Free Coca-Cola, Diet Coke Caffeine-Free, Coca-Cola Zero Sugar, Coca-Cola Cherry, Coca-Cola Vanilla, and special versions with lemon, lime, and coffee. Coca-Cola was called "Coca-Cola Classic" from July 1985 to 2009, to distinguish it from "New Coke".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Coca-Cola)
+> [Wikipedia](https://en.wikipedia.org/wiki/Coca-Cola) 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ aliases:
 > **John Backus** retired in 1991. 
 > He died at his home in Ashland, Oregon on March 17, 2007.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Backus)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Backus) 
 
 
 ## Confidential Links & Embeds: 

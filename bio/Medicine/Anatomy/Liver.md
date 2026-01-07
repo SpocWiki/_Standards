@@ -60,7 +60,7 @@ Wolfram_Language_entity_code: Entity["AnatomicalStructure", "Liver"]
 >
 > It is not known how to compensate for the absence of liver function in the long term, although liver dialysis techniques can be used in the short term. Artificial livers have not been developed to promote long-term replacement in the absence of the liver. As of 2018, liver transplantation is the only option for complete liver failure.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Liver)
+> [Wikipedia](https://en.wikipedia.org/wiki/Liver) 
 
 
 ## Confidential Links & Embeds: 

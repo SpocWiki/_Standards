@@ -38,7 +38,7 @@
 > one of the "big three" of the progressive metal genre, 
 > responsible for its development and popularization.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dream%20Theater)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dream%20Theater) 
 
 
 ## Confidential Links & Embeds: 

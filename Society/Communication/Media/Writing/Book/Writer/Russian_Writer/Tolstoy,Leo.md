@@ -266,7 +266,8 @@ Tolstoy liked the Novels of [[Modern_Writer/Verne,Jules]].
 > Virginia Woolf called Tolstoy "the greatest of all novelists", 
 > and Gary Saul Morson referred to War and Peace as the greatest of all novels.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Leo%20Tolstoy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Leo%20Tolstoy) 
+
 
 ## Trivia 
 Sophia Tolstaya, Leo Tolstoy's wife, 

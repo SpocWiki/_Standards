@@ -58,7 +58,7 @@ Wikidata_property: produced sound
 > 
 > Only acoustic waves that have frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.7 centimeters (0.67 in). Sound waves above 20 kHz are known as ultrasound and are not audible to humans. Sound waves below 20 Hz are known as infrasound. Different animal species have varying hearing ranges, allowing some to even hear ultrasounds.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sound)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sound) 
 
 
 ## Confidential Links & Embeds: 

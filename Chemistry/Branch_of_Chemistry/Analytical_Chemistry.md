@@ -34,7 +34,7 @@ Universal_Decimal_Classification: 543
 >
 > Analytical chemistry is also focused on improvements in experimental design, chemometrics, and the creation of new measurement tools. Analytical chemistry has broad applications to medicine, science, and engineering.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Analytical%20chemistry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Analytical%20chemistry) 
 
 
 ## Confidential Links & Embeds: 

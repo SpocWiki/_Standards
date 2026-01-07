@@ -100,7 +100,6 @@ ZVG_number: 7520
 
 ## #has_/text_of_/abstract 
 
-
 > **Tellurium** is a chemical element with the symbol (Abbr::Te) and atomic number (Charge-e::53). 
 > It is a brittle, mildly toxic, rare, silver-white metalloid. 
 > Tellurium is chemically related to selenium and sulfur, all three of which are chalcogens. 
@@ -132,7 +131,7 @@ ZVG_number: 7520
 > In humans, tellurium is partly metabolized into dimethyl telluride, (CH3)2Te, 
 > a gas with a garlic-like odor exhaled in the breath of victims of tellurium exposure or poisoning.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tellurium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tellurium) 
 
 
 ## Confidential Links & Embeds: 

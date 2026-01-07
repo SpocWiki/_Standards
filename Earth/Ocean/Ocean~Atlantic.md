@@ -176,7 +176,7 @@ Named after the fabled Island of Atlantis.
 >
 > The Atlantic Ocean occupies an elongated, S-shaped basin extending longitudinally between Europe and Africa to the east, and the Americas to the west. As one component of the interconnected World Ocean, it is connected in the north to the Arctic Ocean, to the Pacific Ocean in the southwest, the Indian Ocean in the southeast, and the Southern Ocean in the south. Other definitions describe the Atlantic as extending southward to Antarctica. The Atlantic Ocean is divided in two parts, the northern and southern Atlantic, by the Equator.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Atlantic%20Ocean)
+> [Wikipedia](https://en.wikipedia.org/wiki/Atlantic%20Ocean) 
 
 
 ## Confidential Links & Embeds: 

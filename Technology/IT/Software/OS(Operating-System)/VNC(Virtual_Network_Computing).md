@@ -26,7 +26,7 @@
 > The original VNC source code and many modern derivatives 
 > are open source under the GNU General Public License.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/VNC)
+> [Wikipedia](https://en.wikipedia.org/wiki/VNC) 
 
 
 ## Confidential Links & Embeds: 

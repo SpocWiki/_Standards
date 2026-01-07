@@ -73,7 +73,8 @@
 > The 4004 design was later improved by Faggin as the Intel 4040 in 1974. 
 > The Intel 8008 and 8080 were unrelated designs in spite of the similar naming.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Intel%204004)
+> [Wikipedia](https://en.wikipedia.org/wiki/Intel%204004) 
+
 
 [[Faggin,Federico]] later created [[../Zilog]] 
 

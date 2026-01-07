@@ -75,7 +75,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > For reasons that remain obscure, shortly after his release from prison, 
 > Galois fought in a duel and died of the wounds he suffered.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/%C3%89variste%20Galois)
+> [Wikipedia](https://en.wikipedia.org/wiki/%C3%89variste%20Galois) 
 
 
 ## Confidential Links & Embeds: 

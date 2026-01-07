@@ -144,7 +144,7 @@ X_username: FridaKahlo
 >
 > In 2025 all of Kahlo’s work entered the public domain in the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Frida%20Kahlo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Frida%20Kahlo) 
 
 
 ## Confidential Links & Embeds: 

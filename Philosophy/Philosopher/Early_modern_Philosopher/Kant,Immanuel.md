@@ -188,7 +188,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > by his promulgation of scientific racism for much of his career, 
 > although he altered his views on the subject in the last decade of his life.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Immanuel%20Kant)
+> [Wikipedia](https://en.wikipedia.org/wiki/Immanuel%20Kant) 
 
 
 ## Confidential Links & Embeds: 

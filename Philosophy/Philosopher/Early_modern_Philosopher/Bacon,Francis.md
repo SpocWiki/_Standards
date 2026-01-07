@@ -203,7 +203,7 @@ CYT_CCS: AC000089995
 > 
 > He is buried at St Michael's Church, St Albans, Hertfordshire.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Bacon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Bacon) 
 
 
 ## Confidential Links & Embeds: 

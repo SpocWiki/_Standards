@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1937-08-28 
 aliases:
   - Toyota Motor Corporation
   - トヨタ自動車株式会社
@@ -433,7 +434,7 @@ ISO_9362_SWIFT_BIC_code: TOMCJP22XXX
 >
 > Toyota is listed on the London Stock Exchange, Nagoya Stock Exchange, New York Stock Exchange and on the Tokyo Stock Exchange, where its stock is a component of the Nikkei 225 and TOPIX Core30 indices.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Toyota)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Toyota) 
 
 
 ## Confidential Links & Embeds: 

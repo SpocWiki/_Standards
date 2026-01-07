@@ -66,7 +66,7 @@ taxon_common_name: Domesticated Guinea Pig
 >
 > Biological experimentation on domestic guinea pigs has been carried out since the 17th century. The animals were used so frequently as model organisms in the 19th and 20th centuries that the epithet guinea pig came into use to describe a human test subject. Since that time, they have mainly been replaced by other rodents, such as mice and rats. However, they are still used in research, primarily as models to study such human medical conditions as juvenile diabetes, tuberculosis, scurvy (like humans, they require dietary intake of vitamin C), and pregnancy complications.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Guinea%20pig)
+> [Wikipedia](https://en.wikipedia.org/wiki/Guinea%20pig) 
 
 
 ## Confidential Links & Embeds: 

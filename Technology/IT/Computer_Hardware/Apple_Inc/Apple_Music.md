@@ -56,7 +56,8 @@ by July 2018, Apple Music had surpassed [Spotify](https://en.wikipedia.org/wiki/
 > Taylor Swift was the most listened-to artist by Apple Music subscribers, 
 > simultaneously setting a new all-time record for the most listeners for any artist in a single year.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Apple%20Music)
+> [Wikipedia](https://en.wikipedia.org/wiki/Apple%20Music) 
+
 
 ### Royalty payment policy
 

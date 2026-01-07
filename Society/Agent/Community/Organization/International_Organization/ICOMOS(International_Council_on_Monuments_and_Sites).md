@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1965-01-01 
+location: [ 2.405083333 , 48.821194444 ] 
 aliases:
   - ICOMOS
   - International Council on Monuments and Sites

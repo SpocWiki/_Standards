@@ -25,7 +25,7 @@
 > In 2019, Universal released a second live-action film direct-to-video 
 > titled Doom: Annihilation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Doom%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Doom%20(film)) 
 
 
 ## Confidential Links & Embeds: 

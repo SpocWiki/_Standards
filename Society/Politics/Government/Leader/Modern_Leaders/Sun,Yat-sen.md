@@ -132,7 +132,7 @@ writing_language:
 > and the livelihood of the people in an ethnically harmonious union (Zhonghua minzu). 
 > The philosophy is commemorated as the National Anthem of the Republic of China, which Sun composed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sun%20Yat-sen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sun%20Yat-sen) 
 
 
 ## Confidential Links & Embeds: 

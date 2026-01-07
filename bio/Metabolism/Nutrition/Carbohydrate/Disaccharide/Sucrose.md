@@ -40,7 +40,7 @@ aliases:
 > dextran-based polysaccharide that allows them to cohere, forming plaque. 
 > Sucrose is the only sugar that bacteria can use to form this sticky polysaccharide.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sucrose)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sucrose) 
 
 
 ## Confidential Links & Embeds: 

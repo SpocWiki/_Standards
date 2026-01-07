@@ -19,7 +19,7 @@
 > 
 > Logo is usually an interpreted language, although compiled Logo dialects (such as Lhogho and Liogo) have been developed. Logo is not case-sensitive but retains the case used for formatting purposes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Logo%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Logo%20(programming%20language)) 
 
 
 ## Confidential Links & Embeds: 

@@ -49,7 +49,7 @@ short_name: H. suspectum
 
 > The **Gila monster** (Heloderma suspectum,  HEE-lə) is a species of venomous lizard native to the Southwestern United States and the northwestern Mexican state of Sonora. It is a heavy, slow-moving reptile, up to 56 centimetres (22 in) long, and it is the only venomous lizard native to the United States. Its venomous close relatives, the four beaded lizards (all former subspecies of Heloderma horridum) inhabit Mexico and Guatemala. The Gila monster is sluggish in nature, so it is not generally dangerous and very rarely poses a real threat to humans. However, it has a fearsome reputation and is sometimes killed despite the species being protected by state law in Arizona.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gila%20monster)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gila%20monster) 
 
 
 ## Confidential Links & Embeds: 

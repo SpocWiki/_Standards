@@ -5,7 +5,6 @@
 
 ## #has_/text_of_/abstract 
 
-
 > Joseph John Campbell (1904-03-26 – 1987-10-30) was an American writer. 
 > He was a professor of literature at Sarah Lawrence College 
 > who worked in comparative mythology and comparative religion. 
@@ -24,7 +23,7 @@
 > Campbell's approach to folklore topics such as myth and his influence on popular culture 
 > has been the subject of criticism, especially from academic folklorists.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Campbell)
+> [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Campbell) 
 
 
 ## Confidential Links & Embeds: 

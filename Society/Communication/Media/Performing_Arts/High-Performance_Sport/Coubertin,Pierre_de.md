@@ -112,7 +112,7 @@ birth_name: Charles Pierre Frédy de Coubertin
 > The Pierre de Coubertin World Trophy 
 > and the Pierre de Coubertin Medal are named in his honour.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20de%20Coubertin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20de%20Coubertin) 
 
 
 ## Confidential Links & Embeds: 

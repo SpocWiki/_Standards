@@ -62,7 +62,7 @@ Unicode character: 🦟
 >
 > The mosquito's saliva is transferred to the host during the bite, and can cause an itchy rash. In addition, blood-feeding species can ingest pathogens while biting, and transmit them to other hosts. Those species include vectors of parasitic diseases such as malaria and filariasis, and arboviral diseases such as yellow fever and dengue fever. By transmitting diseases, mosquitoes cause the deaths of over 725,000 people each year.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mosquito)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mosquito) 
 
 
 ## Phylogeny 

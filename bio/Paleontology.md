@@ -62,7 +62,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/paleontology
 >
 > Body fossils and trace fossils are the principal types of evidence about ancient life, and geochemical evidence has helped to decipher the evolution of life before there were organisms large enough to leave body fossils. Estimating the dates of these remains is essential but difficult: sometimes adjacent rock layers allow radiometric dating, which provides absolute dates that are accurate to within 0.5%, but more often paleontologists have to rely on relative dating by solving the "jigsaw puzzles" of biostratigraphy (arrangement of rock layers from youngest to oldest). Classifying ancient organisms is also difficult, as many do not fit well into the Linnaean taxonomy classifying living organisms, and paleontologists more often use cladistics to draw up evolutionary "family trees". The final quarter of the 20th century saw the development of molecular phylogenetics, which investigates how closely organisms are related by measuring the similarity of the DNA in their genomes. Molecular phylogenetics has also been used to estimate the dates when species diverged, but there is controversy about the reliability of the molecular clock on which such estimates depend.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paleontology)
+> [Wikipedia](https://en.wikipedia.org/wiki/Paleontology) 
 
 
 ## Confidential Links & Embeds: 

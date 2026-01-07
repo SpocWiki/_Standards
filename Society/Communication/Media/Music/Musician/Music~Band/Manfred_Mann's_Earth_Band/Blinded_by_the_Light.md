@@ -9,6 +9,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Blinded%20by%20the%20Light) 
 
+
 Manfred Mann's arrangement features classical Elements e.g. the "Fi-ga-ro"  [[../../../Music_Theory/Arpeggio]] 
 and the Keyboard Chopstick Harmonization before the finale, both with [[../../../Music_Theory/Syncopation]]. 
 

@@ -149,7 +149,7 @@ writing_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 > Upon García Márquez's death in April 2014, 
 > Juan Manuel Santos, the president of Colombia, called him "the greatest Colombian who ever lived."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gabriel%20Garc%C3%ADa%20M%C3%A1rquez)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gabriel%20Garc%C3%ADa%20M%C3%A1rquez) 
 
 
 ## Confidential Links & Embeds: 

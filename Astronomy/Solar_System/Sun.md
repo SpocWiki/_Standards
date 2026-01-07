@@ -645,7 +645,7 @@ volume_as_quantity: 1412000000000000000
 > but it will still glow and give off heat from its previous fusion for trillions of years. 
 > After that, it is theorized to become a super dense black dwarf, giving off no more energy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sun)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sun) 
 
 
 ## Confidential Links & Embeds: 

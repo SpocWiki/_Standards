@@ -58,7 +58,7 @@ Unicode_character: ☮
 >
 > "Psychological peace" (such as peaceful thinking and emotions) is less relatively well-defined, yet perhaps a necessary precursor to establishing "behavioural peace". Peaceful behaviour sometimes results from a "peaceful inner disposition". It has been argued by some that inner qualities such as tranquility, patience, respect, compassion, kindness, self-control, courage, moderation, forgiveness, equanimity, and the ability to see the big picture can promote peace within an individual, regardless of the external circumstances of their life.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Peace)
+> [Wikipedia](https://en.wikipedia.org/wiki/Peace) 
 
 
 ## Confidential Links & Embeds: 

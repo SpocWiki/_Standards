@@ -142,7 +142,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 >
 > Brahms saw his music become internationally important in his own lifetime. His contributions and craftsmanship were admired by his contemporaries like Antonín Dvořák, whose music he enthusiastically supported, and a variety of later composers. Max Reger and Alexander Zemlinsky reconciled Brahms's and Wagner's often contrasted styles. So did Arnold Schoenberg, who emphasized Brahms's "progressive" side. He and Anton Webern were inspired by the intricate structural coherence of Brahms's music, including what Schoenberg termed its developing variation. It remains a staple of the concert repertoire, continuing to influence composers into the 21st century.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Brahms)
+> [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Brahms) 
 
 
 ## Confidential Links & Embeds: 

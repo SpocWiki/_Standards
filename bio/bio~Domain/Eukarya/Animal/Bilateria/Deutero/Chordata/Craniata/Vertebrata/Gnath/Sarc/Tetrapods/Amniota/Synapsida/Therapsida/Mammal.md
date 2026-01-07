@@ -84,8 +84,7 @@ Mammals
 >
 > Domestication of many types of mammals by humans played a major role in the Neolithic Revolution, and resulted in farming replacing hunting and gathering as the primary source of food for humans. This led to a major restructuring of human societies from nomadic to sedentary, with more co-operation among larger and larger groups, and ultimately the development of the first civilisations. Domesticated mammals provided, and continue to provide, power for transport and agriculture, as well as food (meat and dairy products), fur, and leather. Mammals are also hunted and raced for sport, kept as pets and working animals of various types, and are used as model organisms in science. Mammals have been depicted in art since Paleolithic times, and appear in literature, film, mythology, and religion. Decline in numbers and extinction of many mammals is primarily driven by human poaching and habitat destruction, primarily deforestation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mammal)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Mammal) 
 
 
 Mammalia, the class of vertebrates that includes mammals, 

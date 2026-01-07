@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2006-03-21 
 aliases:
 has_id_wikidata: Q918
 instance_of:
@@ -205,7 +206,8 @@ and considers switching to [[../../../../../../../Technology/IT/Software/Compute
 > Fidelity at about the same time estimated the value to be down 65 percent from its purchase price. 
 > In December 2023, Fidelity further estimated the value to be down 71.5 percent from its purchase price.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Twitter)
+> [Wikipedia](https://en.wikipedia.org/wiki/Twitter) 
+
 
 ## Edit
 

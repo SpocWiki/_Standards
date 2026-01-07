@@ -64,7 +64,7 @@ GenBank_assembly_accession_number: GCA_000004335.1
 >
 > As a result of farming, deforestation and infrastructural development, the giant panda has been driven out of the lowland areas where it once lived. The Fourth National Survey (2011–2014), published in 2015, estimated that the wild population of giant pandas aged over 1.5 years (i.e. excluding dependent young) had increased to 1,864 individuals; based on this number, and using the available estimated percentage of cubs in the population (9.6%), the IUCN estimated the total number of Pandas to be approximately 2,060. Since 2016, it has been listed as Vulnerable on the IUCN Red List. In July 2021, Chinese authorities also classified the giant panda as vulnerable. It is a conservation-reliant species. By 2007, the captive population comprised 239 giant pandas in China and another 27 outside the country. It has often served as China's national symbol, appeared on Chinese Gold Panda coins since 1982 and as one of the five Fuwa mascots of the 2008 Summer Olympics held in Beijing.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Giant%20panda)
+> [Wikipedia](https://en.wikipedia.org/wiki/Giant%20panda) 
 
 
 ## Confidential Links & Embeds: 

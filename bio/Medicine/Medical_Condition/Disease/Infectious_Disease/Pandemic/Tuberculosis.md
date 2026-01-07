@@ -150,7 +150,7 @@ U_S_National_Archives_Identifier: 10646685
 >
 > In 2018, one quarter of the world's population was thought to have a latent infection of TB. New infections occur in about 1% of the population each year. In 2022, an estimated 10.6 million people developed active TB, resulting in 1.3 million deaths, making it the second leading cause of death from an infectious disease after COVID-19. As of 2018, most TB cases occurred in the WHO regions of South-East Asia (44%), Africa (24%), and the Western Pacific (18%), with more than 50% of cases being diagnosed in seven countries: India (27%), China (9%), Indonesia (8%), the Philippines (6%), Pakistan (6%), Nigeria (4%), and Bangladesh (4%). By 2021, the number of new cases each year was decreasing by around 2% annually. About 80% of people in many Asian and African countries test positive, while 5–10% of people in the United States test positive via the tuberculin test. Tuberculosis has been present in humans since ancient times.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tuberculosis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tuberculosis) 
 
 
 ## Confidential Links & Embeds: 

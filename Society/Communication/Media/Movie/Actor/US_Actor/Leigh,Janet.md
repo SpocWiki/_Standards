@@ -115,7 +115,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Janet%20Leigh%20Public
 > 
 > She died in 2004 at age 77, following a year-long battle with vasculitis.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Janet%20Leigh)
+> [Wikipedia](https://en.wikipedia.org/wiki/Janet%20Leigh) 
 
 
 ## Confidential Links & Embeds: 

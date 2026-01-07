@@ -62,7 +62,7 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 > Symbiosis has often driven the evolution of species; 
 > mutualism has enabled species for example to colonise new environments. Symbiogenesis is thought to have helped to create the eukaryotes as bacteria were incorporated as mitochondria and chloroplasts within cells. Major co-evolutionary relationships include mycorrhiza, the pollination of flowers by insects, the protection of acacia trees by ants, seed dispersal by animals, nitrogen fixation by bacteria in the root nodules of legumes, and the mutualistic partnership of algae and fungi to form lichens.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Symbiosis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Symbiosis) 
 
 
 ## Confidential Links & Embeds: 

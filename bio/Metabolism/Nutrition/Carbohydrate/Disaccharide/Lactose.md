@@ -101,7 +101,7 @@ SPLASH:
 > The compound is a white, water-soluble, non-hygroscopic solid with a mildly sweet taste.  
 > It is used in the food industry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lactose)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lactose) 
 
 
 ## Confidential Links & Embeds: 

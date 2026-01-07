@@ -85,7 +85,6 @@ Roman Law usually restricted Power by Time.
 > [Wikipedia](https://en.wikipedia.org/wiki/Roman%20magistrate) 
 
 
-
 ## #has_/text_of_/abstract 
 
 > A magistrates' court is a lower court where, in several jurisdictions, all criminal proceedings start. 

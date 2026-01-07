@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 4.668055555 , 50.641111111 ] 
 aliases:
   - Belgium
   - Bélgica

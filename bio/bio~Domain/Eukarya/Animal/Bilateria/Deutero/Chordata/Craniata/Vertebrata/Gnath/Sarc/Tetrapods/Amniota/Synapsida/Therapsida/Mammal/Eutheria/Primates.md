@@ -163,7 +163,8 @@ from Purvis (1995).
 >
 > Close interactions between humans and non-human primates (NHPs) can create opportunities for the transmission of zoonotic diseases, especially virus diseases including herpes, measles, ebola, rabies and hepatitis. Thousands of non-human primates are used in research around the world because of their psychological and physiological similarity to humans. About 60% of primate species are threatened with extinction. Common threats include deforestation, forest fragmentation, monkey drives, and primate hunting for use in medicines, as pets, and for food. Large-scale tropical forest clearing for agriculture most threatens primates.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Primate)
+> [Wikipedia](https://en.wikipedia.org/wiki/Primate) 
+
 
 ### Information on the Internet
 

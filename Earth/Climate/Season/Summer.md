@@ -63,7 +63,7 @@ label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-e
 
 > **Summer** or summertime is the hottest and brightest of the four temperate seasons, occurring after spring and before autumn. At or centred on the summer solstice, daylight hours are the longest and darkness hours are the shortest, with day length decreasing as the season progresses after the solstice. The earliest sunrises and latest sunsets also occur near the date of the solstice. The date of the beginning of summer varies according to definition, climate, tradition, and culture. When it is summer in the Northern Hemisphere, it is winter in the Southern Hemisphere, and vice versa.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Summer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Summer) 
 
 
 ## Confidential Links & Embeds: 

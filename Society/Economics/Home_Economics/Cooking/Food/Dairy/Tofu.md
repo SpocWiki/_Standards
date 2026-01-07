@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0100-01-01 
 aliases:
   - 豆腐
   - Tōfu

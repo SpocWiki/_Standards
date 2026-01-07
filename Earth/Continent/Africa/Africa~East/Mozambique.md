@@ -500,7 +500,7 @@ Capital :: [[Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/
 > 
 > The largest religion in Mozambique is Christianity, with significant minorities following Islam and African traditional religions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mozambique)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mozambique) 
 
 
 ## Confidential Links & Embeds: 

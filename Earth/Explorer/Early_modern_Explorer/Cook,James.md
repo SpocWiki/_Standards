@@ -114,7 +114,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 >
 > In January 1778, while en route to explore the Pacific coast of North America on his third voyage, Cook became the first known European to encounter the Hawaiian islands. He returned to Hawaii the following year and was killed when a dispute with indigenous Hawaiians turned violent. Cook left a legacy of scientific and geographical knowledge that influenced his successors well into the 20th century, and numerous memorials worldwide have been dedicated to him. He remains controversial for his occasionally violent encounters with indigenous peoples and there is debate on whether he can be held responsible for paving the way for British imperialism and colonialism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/James%20Cook)
+> [Wikipedia](https://en.wikipedia.org/wiki/James%20Cook) 
 
 
 ## Confidential Links & Embeds: 

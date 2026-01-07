@@ -22,9 +22,7 @@
 > 
 > One example would be the [[Socratic_Method]]. 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pedagogy)
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Pedagogy) 
 
 
 ## Confidential Links & Embeds: 

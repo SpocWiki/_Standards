@@ -38,7 +38,6 @@ OCCOCCO
 > [Wikipedia](https://en.wikipedia.org/wiki/Diethylene%20glycol) 
 
 
-
 ## 1985 Diethylene Glycol Wine Scandal
 
 #has_/time :: 1985-06 

@@ -158,7 +158,7 @@ Capital :: [[Naypyidaw]]
 >
 > Myanmar is a member of the East Asia Summit, Non-Aligned Movement, ASEAN, and BIMSTEC, but it is not a member of the Commonwealth of Nations despite once being part of the British Empire. Myanmar is a Dialogue Partner of the Shanghai Cooperation Organization. The country is very rich in natural resources, such as jade, gems, oil, natural gas, teak and other minerals, as well as also endowed with renewable energy, having the highest solar power potential compared to other countries of the Great Mekong Subregion. However, Myanmar has long suffered from instability, factional violence, corruption, poor infrastructure, as well as a long history of colonial exploitation with little regard to human development. In 2013, its GDP (nominal) stood at US$56.7 billion and its GDP (PPP) at US$221.5 billion. The income gap in Myanmar is among the widest in the world, as a large proportion of the economy is controlled by cronies of the military junta. Myanmar is one of the least developed countries. Since 2021, more than 600,000 people were displaced across Myanmar due to the civil war post-coup, with more than three million people in dire need of humanitarian assistance. According to the United Nations High Commissioner for Refugees (UNHCR), there are over 1.3 million people counted as refugees and asylum seekers, and 3.5 million people displaced internally as of December 2024.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Myanmar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Myanmar) 
 
 
 ## Confidential Links & Embeds: 

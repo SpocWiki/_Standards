@@ -150,7 +150,6 @@ ZVG_number: 8080
 
 ## #has_/text_of_/abstract 
 
-
 > **Sodium** is a chemical element with the symbol (Abbr::Na) (from Latin natrium) and atomic number (Charge-e::11). 
 > It is a soft, silvery-white, highly reactive metal. 
 > 
@@ -185,7 +184,8 @@ ZVG_number: 8080
 > enables transmission of the nerve impulse—an action potential—
 > when the charge is dissipated; sodium plays a key role in that activity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sodium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sodium) 
+
 
 ## Natrium-Batteries 
 

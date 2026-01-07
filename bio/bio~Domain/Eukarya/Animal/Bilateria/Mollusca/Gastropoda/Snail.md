@@ -37,7 +37,7 @@ MeSH_tree_code: B01.050.500.644.400.750
 >
 > Snails have considerable human relevance, including as food items, as pests, and as vectors of disease, and their shells are used as decorative objects and are incorporated into jewellery. The snail has also had some cultural significance, tending to be associated with lethargy. The snail has also been used as a figure of speech in reference to slow-moving things.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Snail)
+> [Wikipedia](https://en.wikipedia.org/wiki/Snail) 
 
 
 ## Confidential Links & Embeds: 

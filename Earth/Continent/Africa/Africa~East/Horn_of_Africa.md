@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 48.0 , 9.5 ] 
 aliases:
   - Horn of Africa
   - Somali Peninsula

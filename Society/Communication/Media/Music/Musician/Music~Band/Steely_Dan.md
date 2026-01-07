@@ -17,7 +17,7 @@
 >
 > They have sold more than 40 million albums worldwide and were inducted into the Rock and Roll Hall of Fame in March 2001. VH1 ranked Steely Dan at No. 82 on their list of the 100 Greatest Musical Artists of All Time. Rolling Stone ranked them No. 15 on its list of the 20 greatest duos of all time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Steely%20Dan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Steely%20Dan) 
 
 
 ## Confidential Links & Embeds: 

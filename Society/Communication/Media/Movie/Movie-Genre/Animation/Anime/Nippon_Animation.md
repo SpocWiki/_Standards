@@ -18,7 +18,7 @@ aliases:
 > [[Miyazaki,Hayao|Hayao Miyazaki]] and [[Takahata,Isao]], co-founders of [[Studio_Ghibli|Studio Ghibli]], 
 > directed several episodes in the [[World_Masterpiece_Theater]] series.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nippon%20Animation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nippon%20Animation) 
 
 
 ## Confidential Links & Embeds: 

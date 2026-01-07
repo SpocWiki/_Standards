@@ -195,7 +195,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > and states throughout the United States beginning in 1971; the federal holiday was first observed in 1986. 
 > The Martin Luther King Jr. Memorial on the National Mall in Washington, D.C., was dedicated in 2011.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Luther%20King%20Jr.)
+> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Luther%20King%20Jr.) 
 
 
 ## Confidential Links & Embeds: 

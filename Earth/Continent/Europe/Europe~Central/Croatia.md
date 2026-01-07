@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 15.466667 , 45.25 ] 
 aliases:
   - Croatia
   - Croacia
@@ -525,7 +526,7 @@ Capital :: [[Zagreb]]
 >
 > Croatia is a developed country with an advanced high-income economy. Service, industrial sectors, and agriculture dominate the economy. Tourism is a significant source of revenue for the country, with nearly 20 million tourist arrivals as of 2019. Since the 2000s, the Croatian government has heavily invested in infrastructure, especially transport routes and facilities along the Pan-European corridors. Croatia has also positioned itself as a regional energy leader in the early 2020s and is contributing to the diversification of Europe's energy supply via its floating liquefied natural gas import terminal off Krk island, LNG Hrvatska. Croatia provides social security, universal health care, and tuition-free primary and secondary education while supporting culture through public institutions and corporate investments in media and publishing.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Croatia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Croatia) 
 
 
 ## Confidential Links & Embeds: 

@@ -29,7 +29,7 @@
 > including 300,000 collective SoundScans of their albums Blackwater Park, Damnation, 
 > and Deliverance in the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Opeth)
+> [Wikipedia](https://en.wikipedia.org/wiki/Opeth) 
 
 
 ## Confidential Links & Embeds: 

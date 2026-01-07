@@ -148,7 +148,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ridolfo%20del%20Ghirla
 >
 > Columbus's expeditions inaugurated a period of exploration, conquest, and colonization that lasted for centuries, thus bringing the Americas into the European sphere of influence. The transfer of plants, animals, precious metals, culture, human populations, technology, diseases, and ideas between the Old World and New World that followed his first voyage are known as the Columbian exchange, named after him. These events and the effects which persist to the present are often cited as the beginning of the modern era. Diseases introduced from the Old World contributed to the depopulation of Hispaniola's indigenous Taíno people, who were also subject to enslavement and other mistreatments by Columbus's government. Increased public awareness of these interactions has led to Columbus being less celebrated in Western culture, which has historically idealized him as a heroic discoverer. Numerous places have been named for him, as has Columbia, a personification commonly used to represent the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Christopher%20Columbus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Christopher%20Columbus) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1908-07-26 
 aliases:
   - Federal Bureau of Investigation
   - FBI
@@ -107,8 +108,6 @@ Libris_URI: 64jljnjq3dhvq37
 > The FBI headquarters is the J. Edgar Hoover Building in Washington, D.C.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Federal%20Bureau%20of%20Investigation) 
-
-
 
 
 ## Confidential Links & Embeds: 

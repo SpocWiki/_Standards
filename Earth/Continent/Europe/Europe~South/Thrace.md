@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 26.0 , 42.0 ] 
 aliases:
   - thrayss
   - Тракия

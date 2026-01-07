@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 134.55 , 7.466667 ] 
 aliases:
   - Palau
   - Palaos
@@ -391,7 +392,7 @@ Capital :: [[Melekeok]]
 >
 > Politically, Palau is a presidential republic in free association with the United States, which provides defense, funding, and access to social services. Legislative power is concentrated in the bicameral Palau National Congress. Palau's economy is based mainly on tourism, subsistence agriculture and fishing, with a significant portion of gross national product (GNP) derived from foreign aid. The country uses the United States dollar as its official currency. The islands' culture mixes Micronesian, Melanesian, Asian, and Western elements. Ethnic Palauans, the majority of the population, are of mixed Micronesian, Melanesian, and Austronesian descent. A smaller proportion of the population is of Japanese descent. The country's two official languages are Palauan (a member of the Austronesian language family) and English, with Japanese, Sonsorolese, and Tobian recognized as regional languages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Palau)
+> [Wikipedia](https://en.wikipedia.org/wiki/Palau) 
 
 
 ## Confidential Links & Embeds: 

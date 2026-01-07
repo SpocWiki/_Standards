@@ -103,7 +103,7 @@ work_period_start_: 1924
 > In its 2012 decennial poll, the magazine Sight & Sound 
 > named his Battleship Potemkin the 11th-greatest film of all time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sergei%20Eisenstein)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sergei%20Eisenstein) 
 
 
 ## Confidential Links & Embeds: 

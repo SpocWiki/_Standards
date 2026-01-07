@@ -31,7 +31,7 @@ aliases:
 > Moonrise Kingdom (2012), The Grand Budapest Hotel (2014), and Isle of Dogs (2018). 
 > From 1995 to 2017, he was a co-president of the Actors Studio, alongside Al Pacino and Ellen Burstyn.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Harvey%20Keitel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Harvey%20Keitel) 
 
 
 ## Confidential Links & Embeds: 

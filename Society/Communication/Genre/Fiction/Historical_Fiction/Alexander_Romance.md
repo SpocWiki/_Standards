@@ -36,7 +36,7 @@
 > Owing to the great variety of distinct works derived from the original Greek romance, 
 > the "Alexander romance" is sometimes treated as a literary genre, instead of a single work.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Romance)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Romance) 
 
 
 ## Confidential Links & Embeds: 

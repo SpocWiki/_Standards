@@ -57,7 +57,7 @@ Most T9 devices include a key labeled **C**, **CLR**, or a left-arrow symbol.
 >
 > The technology was protected by multiple US patents, but they have since expired.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/T9%20(predictive%20text))
+> [Wikipedia](https://en.wikipedia.org/wiki/T9%20(predictive%20text)) 
 
 
 ## Confidential Links & Embeds: 

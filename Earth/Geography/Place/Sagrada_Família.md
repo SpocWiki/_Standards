@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.17433 , 41.40369 ] 
 aliases:
   - Sagrada Família
   - Sagrada Familia

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1954-09-08 
+has_time_stopped: 1977-06-30 
 aliases:
 has_id_wikidata: Q277252
 instance_of:

@@ -1,0 +1,111 @@
+---
+aliases:
+  - Telychian
+  - Телич
+  - Telych
+  - Telychien
+  - Telychium
+  - Telychiense
+  - Telychi
+  - Télychien
+  - telychi
+  - telychiano
+  - テリチアン期
+  - TelyĿis
+  - Telychiën
+  - Telychiano
+  - telych
+  - telychij
+  - 特列奇期
+has_id_wikidata: Q681835
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Telychian,134698359]]"
+start_time: -438500000-01-01T00:00:00Z
+end_time: -433400000-01-01T00:00:00Z
+sRGB_color_hex_triplet: B4E5DB
+coordinate_location: Point(-5.9285 37.9853)
+---
+# [[Age~3~Telychian]] 
+
+#is_a_/time_/Age 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/previous_/item :: [[Age~2~Aeronian]] 
+#has_/next_/item :: [[../Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]] 
+#is_/same_as :: [[WD~Telychian,681835]]  
+
+A time period from 438.5 to 433.4 million years ago. 
+
+## #has_/text_of_/abstract 
+
+> In the geologic timescale, the **Telychian** is the third and final age of the Llandovery Epoch of the Silurian Period of the Paleozoic Era of the Phanerozoic Eon. The Telychian Age was between 438.5 ± 1.2 million years ago (Ma) and 433.4 ± 0.8 Ma. The Telychian Age succeeds the Aeronian Age and precedes the Sheinwoodian Age. The name of the interval is derived from the Pen-lan-Telych Farm near Llandovery, Powys, Wales. The GSSP is located within the Wormwood Formation.
+>
+> It ended with the [[Ireviken-event]].
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Telychian) 
+
+
+#has_/label_/bg  :: Телич
+#has_/label_/cs  :: Telych
+#has_/label_/da  :: Telychien
+#has_/label_/de  :: Telychium
+#has_/label_/es  :: Telychiense
+#has_/label_/et  :: Telychi
+#has_/label_/fi  :: Telych
+#has_/label_/fr  :: Télychien
+#has_/label_/hu  :: telychi
+#has_/label_/it  :: telychiano
+#has_/label_/ja  :: テリチアン期
+#has_/label_/lt  :: TelyĿis
+#has_/label_/nl  :: Telychiën
+#has_/label_/no  :: Telychium
+#has_/label_/pl  :: Telych
+#has_/label_/pt  :: Telychiano
+#has_/label_/sk  :: telych
+#has_/label_/sl  :: telychij
+#has_/label_/sv  :: telych
+#has_/label_/zh  :: 特列奇期
+
+#has_/abbreviation :: s3
+
+#has_/time_/started :: -438.5e6 
+#has_/time_/stopped :: -433.4e6 
+
+    sh:order 126 
+
+#has_/text_of_/color :: 0xBFE6CF
+
+## All Contents
+
+```folderv
+```
+
+```ccard
+type: folder_brief_live
+style : card
+col: 2
+briefMax: 128
+noteOnly: true
+```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[Age~3~Telychian|Age~3~Telychian]] 
+
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.public|Age~3~Telychian.public]] 
+
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.internal|Age~3~Telychian.internal]] 
+
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.protect|Age~3~Telychian.protect]] 
+
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.private|Age~3~Telychian.private]] 
+
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.personal|Age~3~Telychian.personal]] 
+
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.secret|Age~3~Telychian.secret]] 
+

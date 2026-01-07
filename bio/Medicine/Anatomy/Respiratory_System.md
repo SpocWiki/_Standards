@@ -50,7 +50,7 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/respirato
 >
 > Other animals, such as insects, have respiratory systems with very simple anatomical features, and in amphibians, even the skin plays a vital role in gas exchange. Plants also have respiratory systems but the directionality of gas exchange can be opposite to that in animals. The respiratory system in plants includes anatomical features such as stomata, that are found in various parts of the plant.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Respiratory%20system)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Respiratory%20system) 
 
 
 ## Confidential Links & Embeds: 

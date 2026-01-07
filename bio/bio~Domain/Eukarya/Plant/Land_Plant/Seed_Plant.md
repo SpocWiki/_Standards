@@ -18,7 +18,6 @@ Seed Plants
 
 ## #has_/text_of_/abstract 
 
-
 > A seed plant or spermatophyte (lit. 'seed plant'; New Latin spermat- and Greek φυτόν (phytón)|plant), 
 > also known as a phanerogam (taxon Phanerogamae) or a phaenogam (taxon Phaenogamae), 
 > is any plant that produces seeds. 
@@ -35,6 +34,7 @@ Seed Plants
 > from those with visible ones (phanerogamae).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seed%20plant) 
+
 
 ## Phylogeny 
 

@@ -147,7 +147,7 @@ ISNI: 0000000110406491
 > Heike Kamerlingh Onnes was significantly influenced by the pioneering work of Van der Waals. 
 > In 1908, Onnes became the first to make liquid helium; this led directly to his 1911 discovery of superconductivity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Diderik%20van%20der%20Waals)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Diderik%20van%20der%20Waals) 
 
 
 ## Confidential Links & Embeds: 

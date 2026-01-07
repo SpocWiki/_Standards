@@ -12,8 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Kielce%20pogrom) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Kielce_Pogrom,1946|Kielce_Pogrom,1946]] 

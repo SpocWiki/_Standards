@@ -50,7 +50,7 @@
 > to purchase the transportation division of the financially struggling [[Bombardier_Inc]]. 
 > The purchase was finalized in January 2021.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alstom)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alstom) 
 
 
 ## Confidential Links & Embeds: 

@@ -83,7 +83,7 @@ IPTC_NewsCode: mediatopic/20000742
 > 
 > In modern academic practice, researchers are often eclectic, using multiple methodologies (combining both quantitative and qualitative research). To gain a deeper understanding of complex human behavior in digital environments, social science disciplines have increasingly integrated interdisciplinary approaches, big data, and computational tools. The term social research has also acquired a degree of autonomy as practitioners from various disciplines share similar goals and methods.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Social%20science)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Social%20science) 
 
 
 ## Confidential Links & Embeds: 

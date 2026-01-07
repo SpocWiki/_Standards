@@ -80,7 +80,7 @@ Pathogenic fungus.
 >
 > The fungus kingdom encompasses an enormous diversity of taxa with varied ecologies, life cycle strategies, and morphologies ranging from unicellular aquatic chytrids to large mushrooms. However, little is known of the true biodiversity of the fungus kingdom, which has been estimated at 2.2 million to 3.8 million species. Of these, only about 148,000 have been described, with over 8,000 species known to be detrimental to plants and at least 300 that can be pathogenic to humans. Ever since the pioneering 18th and 19th century taxonomical works of Carl Linnaeus, Christiaan Hendrik Persoon, and Elias Magnus Fries, fungi have been classified according to their morphology (e.g., characteristics such as spore color or microscopic features) or physiology. Advances in molecular genetics have opened the way for DNA analysis to be incorporated into taxonomy, which has sometimes challenged the historical groupings based on morphology and other traits. Phylogenetic studies published in the first decade of the 21st century have helped reshape the classification within the fungi kingdom, which is divided into one subkingdom, seven phyla, and ten subphyla.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fungus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fungus) 
 
 
 ## Confidential Links & Embeds: 

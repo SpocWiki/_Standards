@@ -102,7 +102,7 @@ name: ꠇꠝ꠆ꠙꠥꠐꠣꠞ
 >
 > Conventionally, a modern computer consists of at least one processing element, typically a central processing unit (CPU) in the form of a microprocessor, together with some type of computer memory, typically semiconductor memory chips. The processing element carries out arithmetic and logical operations, and a sequencing and control unit can change the order of operations in response to stored information. Peripheral devices include input devices (keyboards, mice, joysticks, etc.), output devices (monitors, printers, etc.), and input/output devices that perform both functions (e.g. touchscreens). Peripheral devices allow information to be retrieved from an external source, and they enable the results of operations to be saved and retrieved.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Computer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Computer) 
 
 
 ## Confidential Links & Embeds: 

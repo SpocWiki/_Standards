@@ -58,7 +58,7 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Marxism,60647992
 >
 > As a school of thought, Marxism has had a profound effect on society and global academia. To date, it has influenced many fields, including anthropology, archaeology, art theory, criminology, cultural studies, economics, education, ethics, film theory, geography, historiography, literary criticism, media studies, philosophy, political science, political economy, psychoanalysis, science studies, sociology, theatre, and urban planning.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marxism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marxism) 
 
 
 ## Confidential Links & Embeds: 

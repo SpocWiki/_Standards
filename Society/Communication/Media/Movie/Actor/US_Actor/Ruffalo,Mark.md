@@ -36,7 +36,7 @@ aliases:
 > and a Primetime Emmy Award for Outstanding Lead Actor for his dual 
 > role as identical twins in the miniseries I Know This Much Is True (2020).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mark%20Ruffalo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mark%20Ruffalo) 
 
 
 ## Confidential Links & Embeds: 

@@ -73,7 +73,7 @@ Baidu_Tieba_name: 密码
 >
 > The growth of cryptographic technology has raised a number of legal issues in the Information Age. Cryptography's potential for use as a tool for espionage and sedition has led many governments to classify it as a weapon and to limit or even prohibit its use and export. In some jurisdictions where the use of cryptography is legal, laws permit investigators to compel the disclosure of encryption keys for documents relevant to an investigation. Cryptography also plays a major role in digital rights management and copyright infringement disputes with regard to digital media.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cryptography)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cryptography) 
 
 
 ## Confidential Links & Embeds: 

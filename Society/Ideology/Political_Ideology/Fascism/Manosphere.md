@@ -31,7 +31,8 @@
 > - as well as the online harassment campaign against women in the video game industry 
 > known as [[GamerGate]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Manosphere)
+> [Wikipedia](https://en.wikipedia.org/wiki/Manosphere) 
+
 
 Modern [[../../../../../Philosophy/Stoicism]] was captured by the [[Manosphere]] to form [[Broicism]]. 
 

@@ -26,7 +26,7 @@ aliases:
 > Spencer also became a certified commercial airline and helicopter pilot, 
 > and supported and funded many children's charities, including the Spencer Scholarship Fund.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bud%20Spencer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bud%20Spencer) 
 
 
 ## Confidential Links & Embeds: 

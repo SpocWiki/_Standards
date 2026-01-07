@@ -78,8 +78,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Category%20SVG.svg
 > (with a single object whose self-morphisms are represented by the elements of the monoid), 
 > and so can any preorder.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Category%20(mathematics))
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Category%20(mathematics)) 
 
 
 ## #has_/text_of_/abstract 

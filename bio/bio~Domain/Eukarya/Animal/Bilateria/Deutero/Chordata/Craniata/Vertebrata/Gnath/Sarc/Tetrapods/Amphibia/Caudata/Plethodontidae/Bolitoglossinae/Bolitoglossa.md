@@ -2,7 +2,7 @@
 aliases:
   - Bolitoglossa
 title: Bolitoglossa
-__is_:
+dv_is_:
   same_as:
     - "[[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa|Bolitoglossa]]"
     - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public|Bolitoglossa.public]]"
@@ -11,7 +11,7 @@ __is_:
     - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private|Bolitoglossa.private]]"
     - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal|Bolitoglossa.personal]]"
     - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret|Bolitoglossa.secret]]"
-__is_same_as:
+dv_is_same_as:
   - "[[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa|Bolitoglossa]]"
   - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public|Bolitoglossa.public]]"
   - "[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal|Bolitoglossa.internal]]"
@@ -19,10 +19,10 @@ __is_same_as:
   - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private|Bolitoglossa.private]]"
   - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal|Bolitoglossa.personal]]"
   - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret|Bolitoglossa.secret]]"
-__scientific_name: Bolitoglossa striatula
-__location: Costa Rica
-__image_use: "[Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/)."
-__copyright: © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
+dv_scientific_name: Bolitoglossa striatula
+dv_location: Costa Rica
+dv_image_use: "[Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/)."
+dv_copyright: © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
 ---
 
 # [[Bolitoglossa]] 
@@ -34,6 +34,7 @@ __copyright: © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_liz
 > **Bolitoglossa** is a genus of lungless salamanders, commonly called mushroom-tongued salamanders, tropical climbing salamanders, and web-footed salamanders, in the family Plethodontidae. Their combined geographic ranges extend from northern Mexico through Central America to Colombia, Venezuela, Ecuador, Peru, northeastern Brazil, and central Bolivia. Neotropical salamanders of the genus Bolitoglossa make up the largest genus in the order Caudata, consisting of approximately one-fifth of all known species of salamanders.  Adult salamanders of the genus Bolitoglossa have a snout-to-vent length in the range of 45–200 mm (1.8–7.9 in) depending on the particular species. They are known for the ability to project the tongue to seize prey items. They are also known for webbed feet, having significantly more webbing than any other species outside their genus with the exception of the cave-dwelling Mexican bolitoglossine Chiropterotriton magnipes. Although webbed feet are a common characteristic of these salamanders, only about half of the species in this genus contain webbed feet.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bolitoglossa) 
+
 
 ## Introduction
 
@@ -199,12 +200,12 @@ sister to a clade containing *Nototriton* and *Oedipina , Bradytriton*.
 ------------------------------------------------------------------ 
 ![](Bolitoglossa/103881968_74ffee5d5b_o.jpg) 
 <<<<<<< HEAD
- scientific_name = `$= dv.current().__scientific_name` 
- location = `$= dv.current().__location` 
+ scientific_name = `$= dv.current.dv_scientific_name` 
+ location = `$= dv.current.dv_location` 
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 Specimen Condition   Live Specimen
- image_use = `$= dv.current().__image_use` 
- copyright = `$= dv.current().__copyright` 
+ image_use = `$= dv.current.dv_image_use` 
+ copyright = `$= dv.current.dv_copyright` 
 =======
 scientific_name ::     Bolitoglossa striatula
 location ::           Costa Rica

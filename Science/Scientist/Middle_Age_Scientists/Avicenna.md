@@ -150,7 +150,7 @@ Wolfram_Language_entity_code: Entity["Concept", "AbuAliAl-HusainIbnAbdallahIbnSi
 > Of the 450 works  he is believed to have written, around 240 have survived, 
 > including 150 on philosophy and 40 on medicine.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Avicenna)
+> [Wikipedia](https://en.wikipedia.org/wiki/Avicenna) 
 
 
 ## Confidential Links & Embeds: 

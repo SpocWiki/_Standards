@@ -119,7 +119,7 @@ type: Element
 >
 > Neodymium alloys are used to make high-strength neodymium magnets—a type of powerful permanent magnet. These magnets are widely used in products like microphones, professional loudspeakers, in-ear headphones, high-performance hobby DC electric motors, and computer hard disks, where low magnet mass (or volume) or strong magnetic fields are required. Larger neodymium magnets are used in electric motors with a high power-to-weight ratio (e.g., in hybrid cars) and generators (e.g., aircraft and wind turbine electric generators).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neodymium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Neodymium) 
 
 
 ## Confidential Links & Embeds: 

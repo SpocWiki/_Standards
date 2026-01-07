@@ -53,7 +53,7 @@ male_form_of_label: našlaitis
 > When referring to animals, only the mother's condition is usually relevant 
 > (i.e., if the female parent has gone, the offspring is an orphan, regardless of the father's condition).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Orphan)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Orphan) 
 
 
 ## Confidential Links & Embeds: 

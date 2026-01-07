@@ -112,7 +112,7 @@ spouse: '[[_Standards/WikiData/WD~Catarina_de_Ataíde,108650778]]'
 > and homages worldwide have celebrated his explorations and accomplishments. 
 > The Portuguese national epic poem, Os Lusíadas, was written in his honour by Luís de Camões.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vasco%20da%20Gama)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vasco%20da%20Gama) 
 
 
 ## Confidential Links & Embeds: 

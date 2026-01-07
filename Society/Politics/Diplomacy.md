@@ -64,7 +64,7 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Diplomacy,13502958]]'
 >
 > Modern diplomatic methods, practices, and principles originated largely from 17th-century European customs. Beginning in the early 20th century, diplomacy became professionalized; the 1961 Vienna Convention on Diplomatic Relations, ratified by most of the world's sovereign states, provides a framework for diplomatic procedures, methods, and conduct. Most diplomacy is now conducted by accredited officials, such as envoys and ambassadors, through a dedicated foreign affairs office. Diplomats operate through diplomatic missions, most commonly consulates and embassies, and rely on a number of support staff; the term diplomat is thus sometimes applied broadly to diplomatic and consular personnel and foreign ministry officials.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Diplomacy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Diplomacy) 
 
 
 ## Confidential Links & Embeds: 

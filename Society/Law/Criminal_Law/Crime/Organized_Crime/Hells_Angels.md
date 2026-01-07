@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1948-03-17 
 aliases:
   - Hells Angels Motorcycle Club
   - Hells Angels

@@ -115,7 +115,7 @@ Properties that take Energy as values are of the form '{Number} {Energy unit of 
 >
 > All living organisms constantly take in and release energy. The Earth's climate and ecosystems processes are driven primari[has_value_for_energy](has_value_for_energy.md)he sun. The energy industry provides the energy required for human civilization to function, which it obtains from energy resources such as fossil fuels, nuclear fuel, and renewable energy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Energy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Energy) 
 
 
 ## Confidential Links & Embeds: 

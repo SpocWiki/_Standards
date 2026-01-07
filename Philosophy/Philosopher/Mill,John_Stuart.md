@@ -133,7 +133,7 @@ catchphrase: It is better to be a human being dissatisfied than a pig satisfied
 >
 > A member of the Liberal Party and author of the early feminist work The Subjection of Women, Mill was also the second member of Parliament to call for women's suffrage after Henry Hunt in 1832.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Stuart%20Mill)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Stuart%20Mill) 
 
 
 ## Confidential Links & Embeds: 

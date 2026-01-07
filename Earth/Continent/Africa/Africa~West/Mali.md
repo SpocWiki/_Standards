@@ -516,7 +516,7 @@ Capital :: [[Mali/Regions~Mali/Bamako,Region]]
 >
 > In January 2012, an armed conflict broke out in northern Mali, in which Tuareg rebels took control of a territory in the north, and in April declared the secession of a new state, Azawad. The conflict was complicated by a military coup in March 2012 and later fighting between Tuareg and other rebel factions. In response to territorial gains, the French military launched Operation Serval in January 2013. A month later, Malian and French forces recaptured most of the north, although the conflict continued. Presidential elections were held on 28 July 2013, with a second-round run-off held on 11 August, and legislative elections were held on 24 November and 15 December 2013. In the early 2020s, Mali experienced two military takeovers by Assimi Goïta.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mali)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mali) 
 
 
 ## Confidential Links & Embeds: 

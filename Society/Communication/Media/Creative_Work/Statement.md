@@ -61,6 +61,7 @@ Use the [[text]] property to capture the text of the statement.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sentence%20(linguistics)) 
 
+
 It is problematic that Statements are used for both: 
 - expressing Facts and 
 - expressing Opinions 

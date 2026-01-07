@@ -186,7 +186,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > promoted by her husband Percy Shelley 
 > and the Enlightenment political theories articulated by her father, [[Godwin,William]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mary%20Shelley)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mary%20Shelley) 
 
 
 ## Confidential Links & Embeds: 

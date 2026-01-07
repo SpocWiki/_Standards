@@ -25,7 +25,6 @@ title: Hyracoidea
 > [Wikipedia](https://en.wikipedia.org/wiki/Hyrax) 
 
 
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

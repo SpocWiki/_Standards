@@ -286,7 +286,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > reintroduced a hereditary monarchy and nobility, 
 > and violently repressed popular uprisings against his rule.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Napoleon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Napoleon) 
 
 
 ## Confidential Links & Embeds: 

@@ -24,7 +24,7 @@
 > as well as in the role of catalysts to increase the rates of such reactions (e.g., as in uses of homogeneous catalysis), 
 > where target molecules include polymers, pharmaceuticals, and many other types of practical products.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Organometallic%20chemistry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Organometallic%20chemistry) 
 
 
 ## Confidential Links & Embeds: 

@@ -243,7 +243,7 @@ work_location:
 > contributed to the rise of Mannerism, 
 > a short-lived movement in Western art between the High Renaissance and the Baroque.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michelangelo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michelangelo) 
 
 
 ## Confidential Links & Embeds: 

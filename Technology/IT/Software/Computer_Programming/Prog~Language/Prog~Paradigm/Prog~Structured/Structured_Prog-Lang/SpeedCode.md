@@ -25,7 +25,7 @@
 > 
 > The interpreter took 310 memory words, about 30% of the memory available on a 701.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Speedcoding)
+> [Wikipedia](https://en.wikipedia.org/wiki/Speedcoding) 
 
 
 ## Confidential Links & Embeds: 

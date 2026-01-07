@@ -25,7 +25,7 @@
 >
 > At the most basic level, characters are composed of strokes that are written in a fixed order. Historically, methods of writing characters have included inscribing stone, bone, or bronze; brushing ink onto silk, bamboo, or paper; and printing with woodblocks or moveable type. Technologies invented since the 19th century to facilitate the use of characters include telegraph codes and typewriters, as well as input methods and text encodings on computers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20characters)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20characters) 
 
 
 ## Confidential Links & Embeds: 

@@ -94,7 +94,6 @@ ZVG_number: 7100
 
 ## #has_/text_of_/abstract 
 
-
 > **Neon** is a chemical element with the symbol (Abbr::Ne) and atomic number (Charge-e::10). 
 > It is a noble gas. Neon is a colorless, odorless, inert monatomic gas under standard conditions, 
 > with about two-thirds the density of air. 
@@ -120,7 +119,7 @@ ZVG_number: 7100
 > 
 > It composes about 18.2 ppm of air by volume (this is about the same as the molecular or mole fraction) and a smaller fraction in Earth's crust. The reason for neon's relative scarcity on Earth and the inner (terrestrial) planets is that neon is highly volatile and forms no compounds to fix it to solids. As a result, it escaped from the planetesimals under the warmth of the newly ignited Sun in the early Solar System. Even the outer atmosphere of Jupiter is somewhat depleted of neon, although for a different reason.Neon gives a distinct reddish-orange glow when used in low-voltage neon glow lamps, high-voltage discharge tubes and neon advertising signs. The red emission line from neon also causes the well known red light of helium–neon lasers. Neon is used in some plasma tube and refrigerant applications but has few other commercial uses. It is commercially extracted by the fractional distillation of liquid air. Since air is the only source, it is considerably more expensive than helium.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Neon) 
 
 
 ## Confidential Links & Embeds: 

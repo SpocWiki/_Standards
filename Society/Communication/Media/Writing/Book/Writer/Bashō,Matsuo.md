@@ -109,7 +109,7 @@ writing_language: '[[_Standards/WikiData/WD~Japanese,5287]]'
 >
 > Bashō was introduced to poetry at a young age, and after integrating himself into the intellectual scene of Edo (modern Tokyo) he quickly became well known throughout Japan. He made a living as a teacher; but then renounced the social, urban life of the literary circles and was inclined to wander throughout the country, heading west, east, and far into the northern wilderness to gain inspiration for his writing. His poems were influenced by his firsthand experience of the world around him, often encapsulating the feeling of a scene in a few simple elements.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Matsuo%20Bash%C5%8D)
+> [Wikipedia](https://en.wikipedia.org/wiki/Matsuo%20Bash%C5%8D) 
 
 
 ## Confidential Links & Embeds: 

@@ -52,7 +52,7 @@ Properties that take Mass as values are of the form '[[../../Class/is_a_/data_ty
 >
 > In the Standard Model of physics, the mass of elementary particles is believed to be a result of their coupling with the Higgs boson in what is known as the Brout–Englert–Higgs mechanism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mass)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Mass) 
 
 
 ## Confidential Links & Embeds: 

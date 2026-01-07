@@ -68,7 +68,7 @@ Unicode_range:
 >
 > Latin script is the basis for the largest number of alphabets of any writing system and is the most widely adopted writing system in the world. Latin script is used as the standard method of writing the languages of Western and Central Europe, most of sub-Saharan Africa, the Americas, and Oceania, as well as many languages in other parts of the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Latin%20script)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Latin%20script) 
 
 
 ## Confidential Links & Embeds: 

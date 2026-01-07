@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1967-01-01 
 aliases:
   - AFL–NFL World Championship Game
   - Super_Bowl

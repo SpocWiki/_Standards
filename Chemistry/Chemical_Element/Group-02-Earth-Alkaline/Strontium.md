@@ -98,7 +98,6 @@ ZVG_number: 8310
 
 ## #has_/text_of_/abstract 
 
-
 > **Strontium** is the chemical element with the symbol (Abbr::Sr) and atomic number (Charge-e::38). 
 > 
 > An alkaline earth metal, strontium is a soft silver-white yellowish metallic element 
@@ -130,7 +129,7 @@ ZVG_number: 8310
 > as strontium is absorbed by the body in a similar manner to calcium. 
 > Natural stable strontium, on the other hand, is not hazardous to health.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Strontium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Strontium) 
 
 
 ## Confidential Links & Embeds: 

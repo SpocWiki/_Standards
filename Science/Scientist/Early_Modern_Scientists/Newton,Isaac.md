@@ -249,7 +249,7 @@ Europeana_entity: agent/base/146840
 > in which he increased the accuracy and security of British coinage, 
 > as well as president of the Royal Society (1703–1727).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Isaac%20Newton)
+> [Wikipedia](https://en.wikipedia.org/wiki/Isaac%20Newton) 
 
 
 ## Confidential Links & Embeds: 

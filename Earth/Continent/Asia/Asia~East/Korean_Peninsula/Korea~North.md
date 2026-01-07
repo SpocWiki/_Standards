@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 127.0 , 40.0 ] 
 aliases:
   - North-Korea
   - Korea~Dem-Rep
@@ -569,7 +570,7 @@ Capital :: [[Korea~North/City/Pyongyang]] ]
 >
 > North Korea follows Songun, a "military first" policy which prioritizes the Korean People's Army in state affairs and the allocation of resources. It possesses nuclear weapons. Its active-duty army of 1.28 million soldiers is the fourth-largest in the world. In addition to being a member of the United Nations since 1991, North Korea is also a member of the Non-Aligned Movement, G77, and the ASEAN Regional Forum.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/North%20Korea)
+> [Wikipedia](https://en.wikipedia.org/wiki/North%20Korea) 
 
 
 ## Confidential Links & Embeds: 

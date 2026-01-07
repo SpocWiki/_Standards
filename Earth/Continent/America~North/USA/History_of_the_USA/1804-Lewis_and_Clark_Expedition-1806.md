@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1804-05-14 
+has_time_stopped: 1806-09-23 
 aliases:
   - Lewis and Clark Expedition
   - Corps of Discovery Expedition
@@ -93,8 +95,6 @@ Commons_category: Lewis and Clark Expedition
 > via maps, sketches, and various journals.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lewis%20and%20Clark%20Expedition) 
-
-
 
 
 ## Confidential Links & Embeds: 

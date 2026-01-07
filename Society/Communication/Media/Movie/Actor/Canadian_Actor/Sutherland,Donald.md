@@ -32,7 +32,7 @@ aliases:
 >
 > Sutherland has received various honours including inductions into the Canadian Walk of Fame in 2000 and Hollywood Walk of Fame 2011. He was made an Officer of the Order of Canada (OC) in 1978, a Commandeur of the Ordre des Arts et des Lettres in 2012 and received the Companion of the Order of Canada (CC) in 2019. He is the father of actors Kiefer Sutherland, Rossif Sutherland, and Angus Sutherland. In October 2023, Canada Post issued a stamp in his honour, commemorating his career as one of Canada's most respected and versatile actors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Donald%20Sutherland)
+> [Wikipedia](https://en.wikipedia.org/wiki/Donald%20Sutherland) 
 
 
 ## Confidential Links & Embeds: 

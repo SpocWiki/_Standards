@@ -60,7 +60,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%
 >
 > The main source of natural light on Earth is the Sun.  Historically, another important source of light for humans has been fire, from ancient campfires to modern kerosene lamps. With the development of electric lights and power systems, electric lighting has effectively replaced firelight.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Light)
+> [Wikipedia](https://en.wikipedia.org/wiki/Light) 
 
 
 ## Confidential Links & Embeds: 

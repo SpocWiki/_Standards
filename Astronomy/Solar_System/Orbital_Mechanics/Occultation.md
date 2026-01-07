@@ -43,7 +43,8 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/HD%2071567.webm
 > Both transit and occultation may be referred to generally as occlusion; 
 > and if a shadow is cast onto the observer, it is called an eclipse.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Occultation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Occultation) 
+
 
  
 

@@ -12,7 +12,7 @@ title: Tupaia
 
 > **Tupaia** (also spelled Tupaea or Tupia; c. 1725 – 20 December 1770) was a Tahitian Polynesian navigator and arioi (a kind of priest), originally from the island of Ra'iatea in the Pacific Islands group known to Europeans as the Society Islands.  His remarkable navigational skills and Pacific geographical knowledge were used by Lt. James Cook, R.N. when he took him aboard HMS Endeavour as guide on its voyage of exploration to Terra Australis Incognita. Tupaia travelled with Cook to New Zealand, acting as the expedition's navigator to the Polynesian Māori, and Australia. He died in December 1770 from a shipborne illness contracted when Endeavour was docked in Batavia for repairs ahead of its return journey to England.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tupaia%20(navigator))
+> [Wikipedia](https://en.wikipedia.org/wiki/Tupaia%20(navigator)) 
 
 
 ## Phylogeny 

@@ -163,7 +163,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > there is no honour too great to pay to the memory of Faraday, 
 > one of the greatest scientific discoverers of all time."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Faraday)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Faraday) 
 
 
 ## Confidential Links & Embeds: 

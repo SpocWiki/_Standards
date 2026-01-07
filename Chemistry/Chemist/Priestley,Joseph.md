@@ -161,7 +161,7 @@ Regensburg_Classification: BF 4435
 > as now considered primary sources for utilitarianism 
 > by philosophers such as Jeremy Bentham, John Stuart Mill, and Herbert Spencer.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Priestley)
+> [Wikipedia](https://en.wikipedia.org/wiki/Joseph%20Priestley) 
 
 
 ## Confidential Links & Embeds: 

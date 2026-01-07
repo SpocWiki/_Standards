@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1800-01-01 
+has_time_stopped: 1900-01-01 
 aliases:
 has_id_wikidata: Q207591
 start_time: 1800-01-01T00:00:00Z

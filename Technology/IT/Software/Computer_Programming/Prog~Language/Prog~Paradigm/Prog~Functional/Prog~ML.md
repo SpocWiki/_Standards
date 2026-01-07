@@ -21,7 +21,7 @@ ML can be referred to as an _impure_ functional language, because although it 
 > 
 > While a general-purpose programming language, ML is used heavily in programming language research and is one of the few languages to be completely specified and verified using formal semantics. Its types and pattern matching make it well-suited and commonly used to operate on other formal languages, such as in compiler writing, automated theorem proving, and formal verification.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/ML%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/ML%20(programming%20language)) 
 
 
 ## Confidential Links & Embeds: 

@@ -68,8 +68,7 @@ Commons_category: Monosaccharides
 > and the citric acid cycle to provide energy to living organisms.  
 > Maltose is the dehydration condensate of two glucose molecules.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Monosaccharide)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Monosaccharide) 
 
 
 [[Monosaccharide/Glucose]] 

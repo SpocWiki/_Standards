@@ -61,7 +61,7 @@ subclass_of:
 > that are not commonly called as such **in everyday language**, 
 > such as nuts, bean pods, corn kernels, tomatoes, and wheat grains.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fruit)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fruit) 
 
 
 ## Confidential Links & Embeds: 

@@ -99,7 +99,7 @@ Commons_category: Comets
 > which blasted a crater on Comet Tempel 1 to study its interior, 
 > and the European Space Agency's Rosetta, which became the first to land a robotic spacecraft on a comet.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Comet)
+> [Wikipedia](https://en.wikipedia.org/wiki/Comet) 
 
 
 ## Confidential Links & Embeds: 

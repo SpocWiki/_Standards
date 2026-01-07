@@ -42,7 +42,7 @@ OpenStreetMap_tag:
 >
 > Humanity has made use of rocks since the time the earliest humans lived. This early period, called the Stone Age, saw the development of many stone tools. Stone was then used as a major component in the construction of buildings and early infrastructure. Mining developed to extract rocks from the Earth and obtain the minerals within them, including metals. Modern technology has allowed the development of new human-made rocks and rock-like substances, such as concrete.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rock%20(geology))
+> [Wikipedia](https://en.wikipedia.org/wiki/Rock%20(geology)) 
 
 
 ## Confidential Links & Embeds: 

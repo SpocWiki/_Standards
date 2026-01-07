@@ -50,7 +50,7 @@ Universal_Decimal_Classification: 546
 > It has applications in every aspect of the chemical industry, 
 > including catalysis, materials science, pigments, surfactants, coatings, medications, fuels, and agriculture.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Inorganic%20chemistry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Inorganic%20chemistry) 
 
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,7 @@
 >
 > The code includes features intended to help with programs that perform simple problem solving actions such as lists, dynamic memory allocation, data types, recursion, functions as arguments, generators, and cooperative multitasking.  IPL invented the concept of list processing, albeit in an assembly-language style.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Information%20Processing%20Language)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Information%20Processing%20Language) 
 
 
 IPL was first utilized to demonstrate that the theorems in _[Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica "Principia Mathematica")_ which were proven laboriously by hand, by [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell "Bertrand Russell") and [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead "Alfred North Whitehead"), could in fact be [proven by computation](https://en.wikipedia.org/wiki/Automated_theorem_proving "Automated theorem proving"). According to Simon's autobiography _Models of My Life_, this application was originally developed first by hand simulation, using his children as the computing elements, while writing on and holding up note cards as the registers which contained the state variables of the program.

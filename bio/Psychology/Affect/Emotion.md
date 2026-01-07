@@ -80,7 +80,7 @@ Colon_Classification: S:52
 >
 > Nowadays, most research into emotions in the clinical and well-being context focuses on emotion dynamics in daily life, predominantly the intensity of specific emotions and their variability, instability, inertia, and differentiation, as well as whether and how emotions augment or blunt each other over time and differences in these dynamics between people and along the lifespan.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Emotion)
+> [Wikipedia](https://en.wikipedia.org/wiki/Emotion) 
 
 
 ## Confidential Links & Embeds: 

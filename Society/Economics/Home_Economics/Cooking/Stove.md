@@ -49,7 +49,7 @@ Dewey_Decimal_Classification:
 >
 > Research and development on safer and less emission releasing stoves is continuously evolving.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stove)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stove) 
 
 
 ## Confidential Links & Embeds: 

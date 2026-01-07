@@ -10,7 +10,7 @@
 >
 > Under Saladin's command, the Ayyubid army defeated the Crusaders at the decisive Battle of Hattin in 1187, capturing Jerusalem and re-establishing Muslim military dominance in the Levant. Although the Crusaders' Kingdom of Jerusalem persisted until the late 13th century, the defeat in 1187 marked a turning point in the Christian military effort against Muslim powers in the region. Saladin died in Damascus in 1193, having given away much of his personal wealth to his subjects; he is buried in a mausoleum adjacent to the Umayyad Mosque. Alongside his significance to Muslim culture, Saladin is revered prominently in Kurdish, Turkic, and Arab culture. He has frequently been described as the most famous Kurdish figure in history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Saladin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Saladin) 
 
 
 ## Confidential Links & Embeds: 

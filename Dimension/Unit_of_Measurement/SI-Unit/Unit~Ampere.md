@@ -74,7 +74,7 @@ Unit :: #Unit/SI/A
 > 
 > In SI, the unit of charge, the coulomb, is defined as the charge carried by one ampere during one second.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ampere)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ampere) 
 
 
 ## Confidential Links & Embeds: 

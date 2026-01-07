@@ -78,7 +78,7 @@ See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.htm
 >
 > The term observation may refer both to the process of observing and to the information recorded as a result of that process.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Observation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Observation) 
 
 
 ## Confidential Links & Embeds: 

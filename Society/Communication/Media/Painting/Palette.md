@@ -50,9 +50,7 @@ Commons_category: Painting palettes
 > Palettes are also a universal symbol of painting and art in general, 
 > alongside paintbrushes, for example in the symbol of Microsoft Paint.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Palette%20(painting))
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Palette%20(painting)) 
 
 
 ## Confidential Links & Embeds: 

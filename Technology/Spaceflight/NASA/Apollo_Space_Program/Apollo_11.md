@@ -124,9 +124,7 @@ P8189: 987007594503605171
 > "before this decade is out, of landing a man on the Moon 
 > and returning him safely to the Earth."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Apollo%2011)
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Apollo%2011) 
 
 
 ## #has_/text_of_/abstract 

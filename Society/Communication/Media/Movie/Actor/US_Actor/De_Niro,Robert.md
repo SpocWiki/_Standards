@@ -230,7 +230,6 @@ Plex_person_key: 5d776824961905001eb90984
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20De%20Niro) 
 
 
-
 ## #has_/text_of_/abstract 
 
 > Robert Anthony De Niro, Jr. (* 17. August 1943 in New York City) ist ein US-amerikanischer Schauspieler, zweifacher Oscarpreisträger und Filmproduzent. Er zählt seit Mitte der 1970er Jahre zu den führenden Charakterdarstellern des US-amerikanischen Films und ist in zahlreichen Filmklassikern zu sehen.

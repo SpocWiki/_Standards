@@ -37,7 +37,7 @@ aliases:
 > He portrayed E. Howard Hunt in the HBO political limited series White House Plumbers (2023) 
 > and received a Golden Globe nomination for Best Actor – Miniseries or Television Film.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Woody%20Harrelson)
+> [Wikipedia](https://en.wikipedia.org/wiki/Woody%20Harrelson) 
 
 
 ## Confidential Links & Embeds: 

@@ -201,7 +201,7 @@ U_S_National_Archives_Identifier: 10582281
 > are named after him, and he has been memorialized all over the world 
 > in the form of public art or street names and in popular culture.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sim%C3%B3n%20Bol%C3%ADvar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sim%C3%B3n%20Bol%C3%ADvar) 
 
 
 ## Confidential Links & Embeds: 

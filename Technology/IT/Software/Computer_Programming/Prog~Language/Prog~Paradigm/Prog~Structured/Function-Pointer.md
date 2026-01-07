@@ -18,7 +18,8 @@
 >  (such as PL/I, COBOL, Fortran, dBASE dBL, and C) 
 >  and object-oriented programming languages (such as C++, C#, and D).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Function%20pointer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Function%20pointer) 
+
 
 Function Pointers should be typed, to ensure the [[Call-Stack]] is filled and cleaned up correctly. 
 These Pointers are polymorph, because they can be exchanged with different Strategies/Algorithms. 

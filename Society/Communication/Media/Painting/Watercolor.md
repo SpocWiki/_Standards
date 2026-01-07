@@ -67,7 +67,7 @@ Dewey_Decimal_Classification: 751.422
 >
 > As well as the growing importance of finished watercolors, especially in England from the later part of the 18th century, many Western artists used watercolor primarily as a sketching tool in preparation for the "finished" work in oil or engraving. Until the end of the eighteenth century, traditional watercolors were known as 'tinted drawings', and calling watercolor paintings "drawings" persisted until at least the 20th century in some quarters.  The development of high quality color lithography by the end of the 19th century made possible attractive reproductive prints of watercolors, which have remained common, especially of landscape and still-life subjects.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Watercolor%20painting)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Watercolor%20painting) 
 
 
 ## Confidential Links & Embeds: 

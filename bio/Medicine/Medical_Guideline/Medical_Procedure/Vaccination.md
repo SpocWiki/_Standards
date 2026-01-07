@@ -73,7 +73,8 @@ OpenStreetMap_tag: healthcare:speciality=vaccination
 >
 > Vaccination and immunization have a similar meaning in everyday language. This is distinct from inoculation, which uses unweakened live pathogens. Vaccination efforts have been met with some reluctance on scientific, ethical, political, medical safety, and religious grounds, although no major religions oppose vaccination, and some consider it an obligation due to the potential to save lives. In the United States, people may receive compensation for alleged injuries under the National Vaccine Injury Compensation Program. Early success brought widespread acceptance, and mass vaccination campaigns have greatly reduced the incidence of many diseases in numerous geographic regions. The US Centers for Disease Control and Prevention lists vaccination as one of the ten great public health achievements of the 20th century in the US.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vaccination)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vaccination) 
+
 
 ## Timeline of Vaccination Development and Milestones
 
@@ -151,7 +152,7 @@ Vaccination has played a critical role in public health by preventing the spread
 > The Centers for Disease Control and Prevention lists vaccination as 
 > one of the ten great public health achievements of the 20th century in the U.S.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vaccination)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vaccination) 
 
 
 ## Confidential Links & Embeds: 

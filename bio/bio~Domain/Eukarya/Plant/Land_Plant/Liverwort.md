@@ -51,8 +51,6 @@ Botanical division containing terrestrial plants without stomata.
 > [Wikipedia](https://en.wikipedia.org/wiki/Liverwort) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liverwort|Liverwort]] 

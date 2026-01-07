@@ -110,7 +110,7 @@ Europeana_entity: agent/base/61660
 >
 > Waters incorporates political themes in his work, many of them considered radical. He supports socialism, has defended [[../../../../../../Politics/Government/Leader/Modern_Leaders/Putin,Vladimir|Vladimir Putin]], and has been ruled by a court to have made defamatory comments. Waters is a prominent supporter of Palestine in the Israeli–Palestinian conflict. He supports the Boycott, Divestment and Sanctions (BDS) movement against Israel, and describes Israel's treatment of Palestinians as apartheid. Elements of his live show and some of his comments, such as his likening of Israel to Nazi Germany, have drawn accusations of antisemitism, which Waters has dismissed as a conflation with anti-Zionism. Waters has been banned, cancelled or sanctioned by a wide variety of entities in reaction to his comments. Those who have acted against him include Major League Baseball, BMG, the German city of Frankfurt, multiple Argentine hotels, as well as the country of Poland.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Waters)
+> [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Waters) 
 
 
 ## Confidential Links & Embeds: 

@@ -168,7 +168,7 @@ writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
 >
 > Soybeans contain significant amounts of phytic acid, dietary minerals and B vitamins. Soy vegetable oil, used in food and industrial applications, is another product of processing the soybean crop. Soybean is a common protein source in feed for farm animals that in turn yield animal protein for human consumption.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Soybean)
+> [Wikipedia](https://en.wikipedia.org/wiki/Soybean) 
 
 
 ## Confidential Links & Embeds: 

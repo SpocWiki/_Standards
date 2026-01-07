@@ -119,7 +119,7 @@ date_of_birth: 1903-02-28T00:00:00Z
 > He directed his final film A Matter of Time (1976), starring his daughter Liza. 
 > Ten years later, in 1986, Minnelli died at his Beverly Hills residence, at age 83.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vincente%20Minnelli)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vincente%20Minnelli) 
 
 
 ## Confidential Links & Embeds: 

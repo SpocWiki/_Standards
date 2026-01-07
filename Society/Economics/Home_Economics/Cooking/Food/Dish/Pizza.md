@@ -85,7 +85,7 @@ Commons_category: Pizzas
 >
 > In 2017, the world pizza market was US$128 billion; in the US, it was $44 billion spread over 76,000 pizzerias. Overall, 13% of the US population aged two years and over consumed pizza on any given day. Furthermore, pizza is the most eaten food in the world after rice, followed by pasta.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pizza)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pizza) 
 
 
 ## Confidential Links & Embeds: 

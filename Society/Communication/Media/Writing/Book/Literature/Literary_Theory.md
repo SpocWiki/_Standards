@@ -31,7 +31,7 @@ Commons_category: Literary theory
 > 
 > In the humanities in modern academia, the latter style of literary scholarship is an offshoot of post-structuralism. Consequently, the word theory became an umbrella term for scholarly approaches to reading texts, some of which are informed by strands of semiotics, cultural studies, philosophy of language, and continental philosophy, often witnessed within Western canon along with some postmodernist theory.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Literary%20theory)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Literary%20theory) 
 
 
 ## Confidential Links & Embeds: 

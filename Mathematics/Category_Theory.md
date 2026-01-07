@@ -72,7 +72,7 @@ GitHub_topic: category-theory
 >    A third fundamental concept is a natural transformation 
 >    that may be viewed as a morphism of functors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Category%20theory)
+> [Wikipedia](https://en.wikipedia.org/wiki/Category%20theory) 
 
 
 ## Confidential Links & Embeds: 

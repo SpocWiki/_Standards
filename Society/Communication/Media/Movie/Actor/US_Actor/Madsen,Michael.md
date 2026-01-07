@@ -23,7 +23,7 @@ aliases:
 > Narc (2005), the Dishonored series (2012–2017), and Crime Boss: Rockay City (2023). 
 > Madsen has five children, including actor Christian Madsen.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Madsen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Madsen) 
 
 
 ## Confidential Links & Embeds: 

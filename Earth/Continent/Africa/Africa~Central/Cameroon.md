@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.65 , 5.133333333 ] 
 aliases:
   - Cameroon
   - Camerún
@@ -724,7 +725,7 @@ Capital :: [[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_
 >
 > Cameroon's most populous cities are Douala on the Wouri River, its economic capital and main seaport; Yaoundé, its political capital; and Garoua. Limbé in the southwest has a natural seaport. Cameroon is well known for its native music styles, particularly Makossa, Njang, and Bikutsi, and its successful national football team. It is a member state of the African Union, the United Nations, the Organisation Internationale de la Francophonie (OIF), the Commonwealth of Nations, the Non-Aligned Movement, and the Organisation of Islamic Cooperation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cameroon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cameroon) 
 
 
 ## Confidential Links & Embeds: 

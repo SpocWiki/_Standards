@@ -56,7 +56,7 @@ line between the Earth's poles with the same longitude.
 > The length of a meridian is twice the length of an Earth quadrant, 
 > equal to 20,003.93144 km (12,429.86673 mi) on a modern ellipsoid (WGS 84).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Meridian%20(geography))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Meridian%20(geography)) 
 
 
 ## Confidential Links & Embeds: 

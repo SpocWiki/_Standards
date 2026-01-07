@@ -53,9 +53,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bonobo%20at%20Nsele%20
 > [Wikipedia](https://en.wikipedia.org/wiki/Bonobo) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus)/Bonobo|Bonobo]] 

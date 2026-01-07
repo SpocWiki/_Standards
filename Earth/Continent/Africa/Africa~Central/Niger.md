@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 10.0 , 17.0 ] 
 aliases:
   - Niger
   - Níger
@@ -470,7 +471,7 @@ Capital :: [[Niger/Regions~Niger/Niamey]]
 >
 > According to the UN's Multidimensional Poverty Index (MPI) report of 2023, Niger is one of the poorest countries in the world. Some non-desert portions of the country undergo periodic drought and desertification. The economy is concentrated around subsistence agriculture, with some export agriculture in the less arid south, and the export of raw materials, including uranium ore. It faces challenges to development due to its landlocked position, desert terrain, low literacy rate, jihadist insurgencies, and the world's highest fertility rates due to birth control not being used and the resulting rapid population growth.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Niger)
+> [Wikipedia](https://en.wikipedia.org/wiki/Niger) 
 
 
 ## Confidential Links & Embeds: 

@@ -5,7 +5,6 @@
 
 ## #has_/text_of_/abstract 
 
-
 > **lounge music** is a type of easy listening music popular in the 1950s and 1960s. 
 > This music is meant to evoke in the listeners an emotion, 
 > or the feeling of being in a place with a tranquil theme such as a jungle, an island paradise or outer space. 

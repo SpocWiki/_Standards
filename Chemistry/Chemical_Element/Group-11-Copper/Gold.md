@@ -131,7 +131,6 @@ ZVG_number: 8480
 
 ## #has_/text_of_/abstract 
 
-
 > **Gold** is a chemical element with the symbol (Abbr::Au) (from Latin: aurum) and atomic number (Charge-e::79). 
 > 
 > This makes it one of the higher atomic number elements that occur naturally. 
@@ -153,7 +152,7 @@ ZVG_number: 8480
 >
 > In 2020, the world's largest gold producer was China, followed by Russia and Australia. A total of around 201,296 tonnes of gold exists above ground, as of 2020. This is equal to a cube with each side measuring roughly 21.7 meters (71 ft). The world consumption of new gold produced is about 50% in jewelry, 40% in investments and 10% in industry. Gold's high malleability, ductility, resistance to corrosion and most other chemical reactions, and conductivity of electricity have led to its continued use in corrosion-resistant electrical connectors in all types of computerized devices (its chief industrial use). Gold is also used in infrared shielding, production of colored glass, gold leafing, and tooth restoration. Certain gold salts are still used as anti-inflammatories in medicine.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gold)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gold) 
 
 
 ## Confidential Links & Embeds: 

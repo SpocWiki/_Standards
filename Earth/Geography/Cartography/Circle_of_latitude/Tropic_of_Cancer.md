@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 0.0 , 23.436027777 ] 
 aliases:
 has_id_wikidata: Q176635
 instance_of:

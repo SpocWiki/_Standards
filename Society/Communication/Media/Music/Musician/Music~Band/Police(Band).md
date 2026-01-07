@@ -61,7 +61,7 @@
 > The band were included among both Rolling Stone's and VH1's 
 > lists of the "100 Greatest Artists of All Time".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Police)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Police) 
 
 
 ## Confidential Links & Embeds: 

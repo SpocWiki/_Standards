@@ -26,8 +26,6 @@ facet_of: "[[_Standards/WikiData/WD~neoclassical_music,106576145]]"
 > [Wikipedia](https://en.wikipedia.org/wiki/Neoclassicism%20(music)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Neoclassicism(Music)|Neoclassicism(Music)]] 

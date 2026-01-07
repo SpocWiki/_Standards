@@ -47,7 +47,7 @@ subclass_of: '[[_Standards/WikiData/WD~fluid,102205]]'
 >
 > Although liquid water is abundant on Earth, this state of matter is actually the least common in the known universe, because liquids require a relatively narrow temperature/pressure range to exist. Most known matter in the universe is either gas (as interstellar clouds) or plasma (as stars).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Liquid)
+> [Wikipedia](https://en.wikipedia.org/wiki/Liquid) 
 
 
 ## Confidential Links & Embeds: 

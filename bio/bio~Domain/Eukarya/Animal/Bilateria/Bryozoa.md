@@ -24,6 +24,8 @@ Moss Animals, Sea Mats, Ectoprocts
 > Mineralized skeletons of bryozoans first appear in rocks from the Early Ordovician period, making it the last major phylum to appear in the fossil record. This has led researchers to suspect that bryozoans arose earlier but were initially unmineralized, and may have differed significantly from fossilized and modern forms. In 2021, some research suggested Protomelission, a genus known from the Cambrian period, could be an example of an early bryozoan, but later research suggested that this taxon may instead represent a dasyclad alga. Early fossils are mainly of erect forms, but encrusting forms gradually became dominant. It is uncertain whether the phylum is monophyletic. Bryozoans' evolutionary relationships to other phyla are also unclear, partly because scientists' view of the family tree of animals is mainly influenced by better-known phyla. Both morphological and molecular phylogeny analyses disagree over bryozoans' relationships with entoprocts, about whether bryozoans should be grouped with brachiopods and phoronids in Lophophorata, and whether bryozoans should be considered protostomes or deuterostomes.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bryozoa) 
+
+
 ### Information on the Internet
 -   [Introduction to the     Bryozoa](http://www.ucmp.berkeley.edu/bryozoa/bryozoa.html). UCMP Berkeley.
 -   [Recent and Fossil     Bryozoa](http://www.civgeo.rmit.edu.au/bryozoa/default.html). Philip Bock

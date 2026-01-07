@@ -106,8 +106,6 @@ In XML-Syntax, the value can be specified either as an Attribute or as the Node'
 > [Wikipedia](https://en.wikipedia.org/wiki/Unit%20of%20measurement) 
 
 
-
-
 ## All Contents
 
 ```folderv

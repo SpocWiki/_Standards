@@ -45,7 +45,7 @@ The Tempo is slow, the riffs similar to AC/DC-s Hells Bells.
 > was promoted and transformed into "Papa Emeritus IV", 
 > a persona he continued with for the 2022 album Impera and the corresponding Imperatour.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ghost%20(Swedish%20band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Ghost%20(Swedish%20band)) 
 
 
 ## Confidential Links & Embeds: 

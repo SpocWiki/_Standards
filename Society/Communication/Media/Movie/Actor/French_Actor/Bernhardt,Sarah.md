@@ -132,7 +132,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > She is also linked with the success of artist Alphonse Mucha, whose work she helped to publicize. 
 > Mucha became one of the more sought-after artists of this period for his Art Nouveau style.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sarah%20Bernhardt)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sarah%20Bernhardt) 
 
 
 ## Confidential Links & Embeds: 

@@ -120,7 +120,7 @@ date_of_birth: 1986-08-21T00:00:00Z
 > Bolt retired after the 2017 World Championships, when he finished third in his last solo 100 m race, 
 > opted out of the 200 m, and pulled up injured in the 4 × 100 m relay final.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Usain%20Bolt)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Usain%20Bolt) 
 
 
 ## Confidential Links & Embeds: 

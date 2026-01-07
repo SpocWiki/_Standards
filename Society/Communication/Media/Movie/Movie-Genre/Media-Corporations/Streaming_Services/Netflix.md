@@ -20,7 +20,7 @@
 > with 23.66% of its traffic coming from the United States, 
 > followed by the United Kingdom at 5.84% and Brazil at 5.64%.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Netflix)
+> [Wikipedia](https://en.wikipedia.org/wiki/Netflix) 
 
 
 ## Netflix-Originals 

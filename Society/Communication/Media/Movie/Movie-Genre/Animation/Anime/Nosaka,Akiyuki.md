@@ -6,7 +6,8 @@
 > As a broadcasting writer he used the name Yukio Aki (阿木 由紀夫, Aki Yukio) 
 > and his alias as a chanson singer was Claude Nosaka (クロード 野坂, Kurōdo Nosaka).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Akiyuki%20Nosaka)
+> [Wikipedia](https://en.wikipedia.org/wiki/Akiyuki%20Nosaka) 
+
 
 ## Early life 
 

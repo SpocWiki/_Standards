@@ -14,7 +14,7 @@
 > and co-produced by his daughter, Barbara Broccoli. 
 > The Living Daylights grossed $191.2 million worldwide.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Living%20Daylights)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Living%20Daylights) 
 
 
 ## Confidential Links & Embeds: 

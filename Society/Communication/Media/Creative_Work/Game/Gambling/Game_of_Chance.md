@@ -29,7 +29,7 @@ different_from: "[[_Standards/WikiData/WD~gambling,11416]]"
 >
 > Gambling is known in nearly all human societies, even though many have passed laws restricting it. Early people used the knucklebones of sheep as dice.  Some people develop a psychological addiction to gambling and will risk food and shelter to continue.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Game%20of%20chance)
+> [Wikipedia](https://en.wikipedia.org/wiki/Game%20of%20chance) 
 
 
 ## Confidential Links & Embeds: 

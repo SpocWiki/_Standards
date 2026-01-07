@@ -1090,7 +1090,7 @@ Capital :: [[Canberra]]
 >
 > Australia is a middle power, and has the world's thirteenth-highest military expenditure. It is a member of international groups including the United Nations; the G20; the OECD; the World Trade Organization; Asia-Pacific Economic Cooperation; the Pacific Islands Forum; the Pacific Community; the Commonwealth of Nations; and the defence and security organisations ANZUS, AUKUS, and the Five Eyes. It is also a major non-NATO ally of the United States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Australia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Australia) 
 
 
 ## Confidential Links & Embeds: 

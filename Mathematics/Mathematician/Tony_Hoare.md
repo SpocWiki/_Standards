@@ -99,7 +99,7 @@
 >
 > In 1962, Hoare married Jill Pym, a member of his research team.
 > 
-> [Wikipedia](https://en.wikipedia.org/wiki/Tony%20Hoare)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tony%20Hoare) 
 
 
 ## Confidential Links & Embeds: 

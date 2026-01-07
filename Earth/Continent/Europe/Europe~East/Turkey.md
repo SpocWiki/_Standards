@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 36.0 , 39.0 ] 
 aliases:
   - Turkey
   - Turquía

@@ -19,7 +19,8 @@ It has slowly fallen out of favor both with Developers and with MS.
 >
 > Visual Basic is often used in conjunction with the Windows Forms GUI library to make desktop apps for Windows. Programming for Windows Forms with Visual Basic involves dragging and dropping controls on a form using a GUI designer and writing corresponding code for each control.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Visual%20Basic%20(.NET))
+> [Wikipedia](https://en.wikipedia.org/wiki/Visual%20Basic%20(.NET)) 
+
 
 ## Edit
 

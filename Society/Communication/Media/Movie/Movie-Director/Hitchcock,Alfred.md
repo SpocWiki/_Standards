@@ -190,7 +190,7 @@ work_period_start_: 1921
 >
 > In 2012, Hitchcock's psychological thriller Vertigo, starring Stewart, displaced Orson Welles' Citizen Kane (1941) as the British Film Institute's greatest film ever made based on its world-wide poll of hundreds of film critics. As of 2021, nine of his films had been selected for preservation in the United States National Film Registry, including his personal favourite, Shadow of a Doubt (1943). He received the BAFTA Fellowship in 1971, the AFI Life Achievement Award in 1979, and was knighted in December of that year, four months before his death on 29 April 1980.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alfred%20Hitchcock)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alfred%20Hitchcock) 
 
 
 ## Confidential Links & Embeds: 

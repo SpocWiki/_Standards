@@ -12,9 +12,7 @@ in Cryptography.
 
 > Alice is a feminine first name with roots in the French and German languages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alice%20(name))
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Alice%20(name)) 
 
 
 ## Confidential Links & Embeds: 

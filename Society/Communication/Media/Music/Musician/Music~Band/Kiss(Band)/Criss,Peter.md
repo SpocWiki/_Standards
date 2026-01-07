@@ -12,7 +12,7 @@ aliases:
 > Criss established the Catman character for his Kiss persona. 
 > In 2014, he was inducted into the Rock and Roll Hall of Fame as a member of Kiss.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Criss)
+> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Criss) 
 
 
 ## Confidential Links & Embeds: 

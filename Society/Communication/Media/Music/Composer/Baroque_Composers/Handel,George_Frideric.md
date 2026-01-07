@@ -188,7 +188,7 @@ Libris_URI: 31fhj8wm55gk2h8
 > he was a dramatic genius of the first order." 
 > His music was admired by Classical-era composers, especially Mozart, Haydn and Beethoven.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/George%20Frideric%20Handel)
+> [Wikipedia](https://en.wikipedia.org/wiki/George%20Frideric%20Handel) 
 
 
 ## Confidential Links & Embeds: 

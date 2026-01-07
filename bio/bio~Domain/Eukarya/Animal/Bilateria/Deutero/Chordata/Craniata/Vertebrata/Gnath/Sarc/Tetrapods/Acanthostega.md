@@ -15,6 +15,8 @@ Acanthostega gunnari
 > **Acanthostega**, from Ancient Greek ἄκανθα (ákantha), meaning "spine", and στέγη (stégē), meaning "roof", is an extinct genus of stem-tetrapod, among the first vertebrate animals to have recognizable limbs. It appeared in the late Devonian period (Famennian age) about 365 million years ago, and was anatomically intermediate between lobe-finned fishes and those that were able to come onto land.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Acanthostega) 
+
+
 ## Introduction
 
 [Jennifer A. Clack](http://www.tolweb.org/)

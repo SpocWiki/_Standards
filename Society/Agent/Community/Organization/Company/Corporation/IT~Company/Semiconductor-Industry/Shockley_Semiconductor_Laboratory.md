@@ -23,7 +23,7 @@ aliases:
 > By 2017 the site was redeveloped with new signage 
 > marking it as the "Real Birthplace of Silicon Valley."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Shockley%20Semiconductor%20Laboratory)
+> [Wikipedia](https://en.wikipedia.org/wiki/Shockley%20Semiconductor%20Laboratory) 
 
 
 ## Confidential Links & Embeds: 

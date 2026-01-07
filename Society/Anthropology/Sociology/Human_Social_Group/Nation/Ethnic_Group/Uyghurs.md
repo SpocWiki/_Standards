@@ -65,7 +65,7 @@ Commons_category: Uyghur people
 >
 > Since 2014, the Chinese government has been accused by various governments and organizations, such as Human Rights Watch of subjecting Uyghurs living in Xinjiang to widespread persecution, including forced sterilization and forced labor. Scholars estimate that at least one million Uyghurs have been arbitrarily detained in the Xinjiang internment camps since 2017; Chinese government officials claim that these camps, created under CCP general secretary Xi Jinping's administration, serve the goals of ensuring adherence to Chinese Communist Party (CCP) ideology, preventing separatism, fighting terrorism, and providing vocational training to Uyghurs. Various scholars, human rights organizations and governments consider abuses perpetrated against the Uyghurs to amount to crimes against humanity and genocide.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Uyghurs)
+> [Wikipedia](https://en.wikipedia.org/wiki/Uyghurs) 
 
 
 ## Confidential Links & Embeds: 

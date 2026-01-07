@@ -13,7 +13,8 @@
 > and his extensive research on fascist movements, 
 > the essay offers his insights into the nature of fascism and its manifestations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ur-Fascism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ur-Fascism) 
+
 
 [[../../English_Writer/Golding,William/Lord_of_the_Flies]] 
 ## further 

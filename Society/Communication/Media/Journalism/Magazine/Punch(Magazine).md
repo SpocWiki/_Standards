@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1841-01-01 
+has_time_stopped: 2002-01-01 
 aliases:
   - London Charivari
   - Punch(Magazine)

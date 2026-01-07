@@ -177,7 +177,7 @@ short_name:
 >
 > Dutch is one of the closest relatives of both German and English, and is colloquially said to be "roughly in between" them. Dutch, like English, has not undergone the High German consonant shift, does not use Germanic umlaut as a grammatical marker, has largely abandoned the use of the subjunctive, and has levelled much of its morphology, including most of its case system. Features shared with German, however, include the survival of two to three grammatical genders – albeit with few grammatical consequences – as well as the use of modal particles, final-obstruent devoicing, and (similar) word order. Dutch vocabulary is mostly Germanic; it incorporates slightly more Romance loans than German, but far fewer than English.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dutch%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dutch%20language) 
 
 
 ## Confidential Links & Embeds: 

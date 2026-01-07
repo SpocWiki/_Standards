@@ -73,7 +73,7 @@ Krugosvet_article_archived_: psikhologiya-i-pedagogika/moda
 > reducing fashion's environmental impact and improving sustainability 
 > has become an urgent issue among politicians, brands, and consumers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fashion)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fashion) 
 
 
 ## Confidential Links & Embeds: 

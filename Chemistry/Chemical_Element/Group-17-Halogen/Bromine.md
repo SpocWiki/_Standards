@@ -84,7 +84,6 @@ Unicode_character: 溴
 
 ## #has_/text_of_/abstract 
 
-
 > **Bromine** is a chemical element with the symbol (Abbr::Br) and atomic number (Charge-e::35). 
 > It is a volatile red-brown liquid at room temperature 
 > that evaporates readily to form a similarly coloured vapour. 
@@ -125,7 +124,7 @@ Unicode_character: 溴
 >
 > Large amounts of bromide salts are toxic from the action of soluble bromide ions, causing bromism. However, a clear biological role for bromide ions and hypobromous acid has recently been elucidated, and it now appears that bromine is an essential trace element in humans. The role of biological organobromine compounds in sea life such as algae has been known for much longer. As a pharmaceutical, the simple bromide ion (Br−) has inhibitory effects on the central nervous system, and bromide salts were once a major medical sedative, before replacement by shorter-acting drugs. They retain niche uses as antiepileptics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bromine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bromine) 
 
 
 ## Confidential Links & Embeds: 

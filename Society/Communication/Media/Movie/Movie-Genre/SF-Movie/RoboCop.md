@@ -35,7 +35,7 @@
 > children's animated series, live-action television shows, video games, comic books, toys, clothing and other merchandise. 
 > A remake was released in 2014.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/RoboCop)
+> [Wikipedia](https://en.wikipedia.org/wiki/RoboCop) 
 
 
 ## Confidential Links & Embeds: 

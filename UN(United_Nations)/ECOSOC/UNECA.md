@@ -13,7 +13,7 @@ aliases:
 >
 > On 2023-10-06, The UN Secretary General appointed Rwandan Claver Gatete as the Executive Secretary of UNECA, replacing the Cameroonian Vera Songwe.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20Commission%20for%20Africa)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20Commission%20for%20Africa) 
 
 
 ## Confidential Links & Embeds: 

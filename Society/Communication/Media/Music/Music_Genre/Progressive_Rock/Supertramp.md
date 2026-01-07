@@ -36,7 +36,7 @@
 > (Crime of the Century and Breakfast in America), 
 > and their only number 1 singles anywhere ("The Logical Song" and "Dreamer").
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Supertramp)
+> [Wikipedia](https://en.wikipedia.org/wiki/Supertramp) 
 
 
 ## Confidential Links & Embeds: 

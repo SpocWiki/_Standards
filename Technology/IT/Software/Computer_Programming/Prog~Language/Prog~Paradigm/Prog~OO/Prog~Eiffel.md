@@ -16,7 +16,7 @@
 >
 > Many concepts initially introduced by Eiffel later found their way into Java, C#, and other languages.  New language design ideas, particularly through the Ecma/ISO standardization process, continue to be incorporated into the Eiffel language.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Eiffel%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Eiffel%20(programming%20language)) 
 
 
 ## Confidential Links & Embeds: 

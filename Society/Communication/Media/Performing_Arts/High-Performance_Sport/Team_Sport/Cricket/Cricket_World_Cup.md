@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1975-01-01 
 aliases:
   - ICC Men's Cricket World Cup
   - Cricket_World_Cup

@@ -151,7 +151,7 @@ Facebook_username: JamieLeeCurtis
 > She is married to British-American filmmaker Christopher Guest, 
 > with whom she has two adopted children.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jamie%20Lee%20Curtis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jamie%20Lee%20Curtis) 
 
 
 ## Confidential Links & Embeds: 

@@ -77,7 +77,7 @@ Dewey_Decimal_Classification:
 > trend toward acceptance of touchscreens as a user interface component 
 > and have begun to integrate touchscreens into the fundamental design of their products.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Touchscreen)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Touchscreen) 
 
 
 ## Confidential Links & Embeds: 

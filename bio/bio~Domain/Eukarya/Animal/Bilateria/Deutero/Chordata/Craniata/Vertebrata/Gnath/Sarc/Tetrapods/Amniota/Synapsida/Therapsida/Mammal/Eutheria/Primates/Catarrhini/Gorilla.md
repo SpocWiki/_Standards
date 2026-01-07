@@ -41,7 +41,7 @@ Unicode_character: 🦍
 >
 > There are thought to be around 316,000 western gorillas in the wild, and 5,000 eastern gorillas. Both species are classified as Critically Endangered by the IUCN; all subspecies are classified as Critically Endangered with the exception of the mountain gorilla, which is classified as Endangered. There are many threats to their survival, such as poaching, habitat destruction, and disease, which threaten the survival of the species. However, conservation efforts have been successful in some areas where they live.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gorilla)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gorilla) 
 
 
 ## Confidential Links & Embeds: 

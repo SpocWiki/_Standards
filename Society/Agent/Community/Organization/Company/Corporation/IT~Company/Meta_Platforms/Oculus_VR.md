@@ -28,7 +28,8 @@ aliases:
 > as well as Oculus, a company that was founded in 2012 by Palmer Luckey, Brendan Iribe, 
 > Michael Antonov and Nate Mitchell to develop a VR headset for video gaming.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Reality%20Labs)
+> [Wikipedia](https://en.wikipedia.org/wiki/Reality%20Labs) 
+
 
 Oculus Rift was founded as a [[Kickstarter]] Initiative and bought 2 years later for 2.3 mio 
 

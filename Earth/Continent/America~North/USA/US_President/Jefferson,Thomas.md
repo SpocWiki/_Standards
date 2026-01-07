@@ -205,7 +205,7 @@ Libris_URI: b8nqrxpv1v5qwk3
 >
 > Jefferson is ranked among the upper tier of U.S. presidents both by scholars and in public opinion. Presidential scholars and historians have praised Jefferson's advocacy of religious freedom and tolerance, his peaceful acquisition of the Louisiana Territory from France, and his leadership in supporting the Lewis and Clark Expedition. They acknowledge his lifelong ownership of large numbers of slaves, but offer varying interpretations of his views on and relationship with slavery.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Jefferson)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Jefferson) 
 
 
 ## Confidential Links & Embeds: 

@@ -26,7 +26,7 @@ Gujarati_Vishwakosh_entry: શ્વાર્ઝસ્ચાઇલ્ડ-ત્�
 > 
 > It is a characteristic quantity that may be associated with any quantity of mass. 
 > The Schwarzschild radius was named after the German astronomer Karl Schwarzschild, 
-> who calculated this solution for the theory of general relativity in 1916 before he died in [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I|WWI]] .
+> who calculated this solution for the theory of general relativity in 1916 before he died in [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I|WWI]] .
 >
 > The Schwarzschild radius is given as r_s = 2GM / c²
 >

@@ -72,6 +72,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Kurzerkl%C3%A4rt%2C%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Inflation) 
 
+
 ## #has_/examples 
 
 1973 Oil-Crisis 

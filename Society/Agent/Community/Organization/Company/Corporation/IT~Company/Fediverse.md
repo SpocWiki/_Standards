@@ -15,7 +15,7 @@
 > Diaspora is the only actively developed software project 
 > classified under the original definition of Fediverse that does not support ActivityPub.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fediverse)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fediverse) 
 
 
 ## Confidential Links & Embeds: 

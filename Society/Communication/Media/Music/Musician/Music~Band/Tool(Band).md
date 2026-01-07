@@ -28,7 +28,7 @@
 > The relationship between the band and the music industry is ambivalent, 
 > at times marked by censorship, and the band's insistence on privacy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tool%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Tool%20(band)) 
 
 
 ## Confidential Links & Embeds: 

@@ -149,7 +149,7 @@ Leistungsgesellschaft
 > and his general approach and writing style 
 > were often satirized by writers such as Horace Walpole.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Adam%20Smith)
+> [Wikipedia](https://en.wikipedia.org/wiki/Adam%20Smith) 
 
 
 ## Confidential Links & Embeds: 

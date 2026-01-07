@@ -16,7 +16,8 @@ title: Oryzorictes
 > - Mole-like rice tenrec (Oryzorictes hova)
 > - Four-toed rice tenrec (Oryzorictes tetradactylus)
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rice%20tenrec)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rice%20tenrec) 
+
 
 ## Phylogeny 
 

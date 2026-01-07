@@ -20,7 +20,7 @@
 > in the United Kingdom on 3 December, and in the United States on 8 December. 
 > It was praised for providing a historically accurate portrayal of the life of Gandhi, the Indian independence movement and the deleterious results of British colonisation on India. Its production values, costume design, and Kingsley's performance received worldwide critical acclaim. It became a commercial success, grossing $127.8 million on a $22 million budget. Gandhi received a leading eleven nominations at the 55th [[../../TV-Series/Academy_Award|Academy Awards]], winning eight, including Best Picture, Best Director, and Best Actor (for Kingsley). The British Film Institute ranked it as the 34th greatest British film of the 20th century. The American Film Institute ranked the film 29th on its list of most inspiring movies.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gandhi%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Gandhi%20(film)) 
 
 
 ## Confidential Links & Embeds: 

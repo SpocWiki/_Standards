@@ -50,7 +50,7 @@ dv_is_same_as:
 > One source notes that by his accomplishments at Intel alone, 
 > he "merits a place alongside the great business leaders of the 20th century."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Andrew%20Grove)
+> [Wikipedia](https://en.wikipedia.org/wiki/Andrew%20Grove) 
 
 
 ## Confidential Links & Embeds: 

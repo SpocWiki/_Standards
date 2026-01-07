@@ -51,7 +51,7 @@ aliases:
 > Jolie is divorced from actors Jonny Lee Miller, Billy Bob Thornton, and Brad Pitt. 
 > She has six children with Pitt, three of these adopted internationally.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Angelina%20Jolie)
+> [Wikipedia](https://en.wikipedia.org/wiki/Angelina%20Jolie) 
 
 
 ## Confidential Links & Embeds: 

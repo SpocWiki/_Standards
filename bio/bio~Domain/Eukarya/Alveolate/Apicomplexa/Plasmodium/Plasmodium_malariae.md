@@ -41,9 +41,6 @@ taxon_common_name: zarodziec pasmowy
 > [Wikipedia](https://en.wikipedia.org/wiki/Plasmodium%20malariae) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium/Plasmodium_malariae|Plasmodium_malariae]] 

@@ -70,7 +70,7 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Template_Liberalism,12269868]]"
 >
 > Liberals sought and established a constitutional order that prized important individual freedoms, such as freedom of speech and freedom of association; an independent judiciary and public trial by jury; and the abolition of aristocratic privileges. Later waves of modern liberal thought and struggle were strongly influenced by the need to expand civil rights. Liberals have advocated gender and racial equality in their drive to promote civil rights, and global civil rights movements in the 20th century achieved several objectives towards both goals. Other goals often accepted by liberals include universal suffrage and universal access to education. In Europe and North America, the establishment of social liberalism (often called simply liberalism in the United States) became a key component in expanding the welfare state. Today, liberal parties continue to wield power and influence throughout the world. The fundamental elements of contemporary society have liberal roots. The early waves of liberalism popularised economic individualism while expanding constitutional government and parliamentary authority.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Liberalism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Liberalism) 
 
 
 ## Confidential Links & Embeds: 

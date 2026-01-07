@@ -115,7 +115,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 >
 > Due to her pointed criticism of both the Leninist and the more moderate social democratic schools of Marxism, Luxemburg has always had a somewhat ambivalent reception among scholars and theorists of the political left. Nonetheless, Luxemburg and Liebknecht were extensively idolised as communist martyrs by the East German government. The German Federal Office for the Protection of the Constitution (BVS) asserts that idolisation of Luxemburg and Liebknecht is an important tradition of the 21st-century German far-left. Despite her own Polish nationality and strong ties to Polish culture, opposition from the Polish Socialist Party due to her stance against the 1918 independence of the Second Polish Republic and later criticism from Stalinists have made her a controversial historical figure in the present-day political discourse of the Third Polish Republic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rosa%20Luxemburg)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rosa%20Luxemburg) 
 
 
 ## Confidential Links & Embeds: 

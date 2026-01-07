@@ -20,7 +20,8 @@ aliases:
 > but programs that receive messages should accept non-conformant input 
 > as long as the meaning is clear.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Robustness%20principle)
+> [Wikipedia](https://en.wikipedia.org/wiki/Robustness%20principle) 
+
 
 ## Variance and OO
 Among programmers, to produce compatible functions, the principle is also known in the form: 

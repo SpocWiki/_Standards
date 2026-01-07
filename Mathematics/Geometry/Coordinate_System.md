@@ -41,7 +41,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BF%
 > to be translated into problems about numbers and vice versa; 
 > this is the basis of analytic geometry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Coordinate%20system)
+> [Wikipedia](https://en.wikipedia.org/wiki/Coordinate%20system) 
 
 
 ## Confidential Links & Embeds: 

@@ -14,7 +14,7 @@
 > He was nominated for the Academy Award for Best Supporting Actor 
 > for his performance as Leon Shermer in Dog Day Afternoon (1975).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chris%20Sarandon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chris%20Sarandon) 
 
 
 ## Confidential Links & Embeds: 

@@ -20,7 +20,7 @@ aliases:
 > would condemn the fact that he was specifically freed in exchange for him 
 > due to Krasikov originally being sentenced to life in prison for the murder of Khangoshvili.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vadim%20Krasikov)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vadim%20Krasikov) 
 
 
 ## Confidential Links & Embeds: 

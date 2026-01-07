@@ -19,7 +19,8 @@ aliases:
 > such as the Strega Prize in 1981 and Prix Medicis Étranger in 1982, 
 > and was ranked 14th on Le Monde's 100 Books of the Century list.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Name%20of%20the%20Rose)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Name%20of%20the%20Rose) 
+
 
 The Book is full of literary References: 
 William of Baskerville refers the the [[Hound of Baskerville]] by Arthur Conan Doyle. 

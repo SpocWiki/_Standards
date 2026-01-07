@@ -19,7 +19,7 @@ aliases:
 > before relocating to the University of Fribourg in 1966.  
 > He became a full professor at Fribourg in 1967.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Heinrich%20Kleisli)
+> [Wikipedia](https://en.wikipedia.org/wiki/Heinrich%20Kleisli) 
 
 
 ## Confidential Links & Embeds: 

@@ -36,7 +36,7 @@
 > Other current members of the band include guitarist Gary Pihl, 
 > bassist Tracy Ferrie, drummer Jeff Neal and vocalist/multi-instrumentalist Beth Cohen.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Boston%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Boston%20(band)) 
 
 
 ## Confidential Links & Embeds: 

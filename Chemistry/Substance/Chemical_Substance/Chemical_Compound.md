@@ -94,7 +94,7 @@ Wolfram_Language_entity_type: Chemical
 >
 > A chemical formula specifies the number of atoms of each element in a compound molecule, using the standard chemical symbols with numerical subscripts. Many chemical compounds have a unique CAS number identifier assigned by the Chemical Abstracts Service. Globally, more than 350,000 chemical compounds (including mixtures of chemicals) have been registered for production and use.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20compound)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20compound) 
 
 
 ## Confidential Links & Embeds: 

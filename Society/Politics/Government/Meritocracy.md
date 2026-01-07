@@ -31,7 +31,7 @@ Commons_category: Meritocracy
 > 
 > Although the concept of meritocracy has existed for centuries, the first known use of the term was by sociologist Alan Fox in the journal Socialist Commentary in 1956. It was then popularized by sociologist Michael Dunlop Young, who used the term in his dystopian political and satirical book The Rise of the Meritocracy in 1958. While the word was coined and popularized as a pejorative, its usage has ameliorated. Today, the term is often utilised to refer to social systems in which personal advancement and success primarily reflect an individual's capabilities and merits, frequently seen as equality of opportunity. It thus challenges forms of nepotism or hereditary aristocracy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Meritocracy)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Meritocracy) 
 
 
 ## Confidential Links & Embeds: 

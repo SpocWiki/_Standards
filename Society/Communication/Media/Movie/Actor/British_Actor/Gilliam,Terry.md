@@ -118,7 +118,7 @@ Wolfram_Language_entity_code: Entity["Person", "TerryGilliam::s59y7"]
 > Gilliam became a naturalised British citizen in 1968 
 > and formally renounced his American citizenship in 2006.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Terry%20Gilliam)
+> [Wikipedia](https://en.wikipedia.org/wiki/Terry%20Gilliam) 
 
 
 ## Confidential Links & Embeds: 

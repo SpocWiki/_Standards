@@ -48,8 +48,6 @@ taxon_common_name: bielinek
 > [Wikipedia](https://en.wikipedia.org/wiki/Pieris%20(plant)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Cornales/Ericales/Ericaceae/Vaccinioideae/Pieris(Plant)|Pieris(Plant)]] 

@@ -37,7 +37,7 @@ type: ElementGroup
 >
 > All the **Group 4 element**s are hard, refractory metals. Their inherent reactivity is completely masked due to the formation of a dense oxide layer that protects them from corrosion, as well as attack by many acids and alkalis. The first three of them occur naturally. Rutherfordium is strongly radioactive: it does not occur naturally and must be produced by artificial synthesis, but its observed and theoretically predicted properties are consistent with it being a heavier homologue of hafnium. None of them have any biological role.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Group%204%20element)
+> [Wikipedia](https://en.wikipedia.org/wiki/Group%204%20element) 
 
 
 ## Confidential Links & Embeds: 

@@ -9,7 +9,7 @@
 > is a German chemist, science communicator, television presenter and YouTuber. 
 > In June 2020 she was elected to the senate of the Max Planck Society.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mai%20Thi%20Nguyen-Kim)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mai%20Thi%20Nguyen-Kim) 
 
 
 ## Confidential Links & Embeds: 

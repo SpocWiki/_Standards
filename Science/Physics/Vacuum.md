@@ -55,7 +55,7 @@ UMLS_CUI: C0042221
 >
 > Vacuum became a valuable industrial tool in the 20th century with the introduction of incandescent light bulbs and vacuum tubes, and a wide array of vacuum technologies has since become available. The development of human spaceflight has raised interest in the impact of vacuum on human health, and on life forms in general.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vacuum)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vacuum) 
 
 
 ## Confidential Links & Embeds: 

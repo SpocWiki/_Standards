@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 34.26 , 43.41 ] 
 aliases:
 has_id_wikidata: Q166
 inflows:

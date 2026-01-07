@@ -125,7 +125,7 @@ ISNI: 0000000122812593
 >
 > Buñuel earned five Cannes Film Festival prizes, two Berlin International Film Festival prizes, a BAFTA Award, and an Academy Award in 1972. Buñuel received numerous honors including National Prize for Arts and Sciences for Fine Arts in 1977, the Moscow International Film Festival Contribution to Cinema Prize in 1979, and the Career Golden Lion in 1982. He was nominated twice for the Nobel Prize in Literature, in 1968 and then in 1972. Seven of Buñuel's films are included in Sight & Sound's 2012 critics' poll of the top 250 films of all time. Buñuel's obituary in The New York Times called him "an iconoclast, moralist, and revolutionary who was a leader of avant-garde surrealism in his youth and a dominant international movie director half a century later."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Luis%20Bu%C3%B1uel)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Luis%20Bu%C3%B1uel) 
 
 
 ## Confidential Links & Embeds: 

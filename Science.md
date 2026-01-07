@@ -98,7 +98,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/science
 >
 > New knowledge in science is advanced by research from scientists who are motivated by curiosity about the world and a desire to solve problems. Contemporary scientific research is highly collaborative and is usually done by teams in academic and research institutions, government agencies, and companies. The practical impact of their work has led to the emergence of science policies that seek to influence the scientific enterprise by prioritising the ethical and moral development of commercial products, armaments, health care, public infrastructure, and environmental protection.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Science)
+> [Wikipedia](https://en.wikipedia.org/wiki/Science) 
 
 
 ## Confidential Links & Embeds: 

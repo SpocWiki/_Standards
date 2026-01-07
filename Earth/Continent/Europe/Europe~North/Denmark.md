@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 10.0 , 56.0 ] 
 aliases:
   - Denmark
   - Dinamarca

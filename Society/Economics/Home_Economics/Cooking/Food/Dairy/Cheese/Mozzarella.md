@@ -53,7 +53,7 @@ native_label: Mozzarella
 >
 > Mozzarella is used for most types of pizza and several pasta dishes or served with sliced tomatoes and basil in Caprese salad.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mozzarella)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mozzarella) 
 
 
 ## Confidential Links & Embeds: 

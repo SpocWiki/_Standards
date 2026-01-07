@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1949-01-01 
 aliases:
   - 2GL
   - Prog~Assembler
@@ -99,7 +100,7 @@ different from the 1st Generation [[Machine-Language]].
 > For instance, just under 2% of version 4.9 of the Linux kernel source code 
 > is written in assembly; more than 97% is written in C.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Assembly%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Assembly%20language) 
 
 
 ## Confidential Links & Embeds: 

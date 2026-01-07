@@ -18,7 +18,7 @@ aliases:
 >
 > Scurvy is rare compared to other nutritional deficiencies. It occurs more often in the developing world in association with malnutrition. Rates among refugees are reported at 5 to 45 percent. Scurvy was described as early as the time of ancient Egypt, and historically it was a limiting factor in long-distance sea travel, often killing large numbers of people. During the Age of Sail, it was assumed that 50 percent of the sailors would die of scurvy on a major trip.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Scurvy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Scurvy) 
 
 
 ## Confidential Links & Embeds: 

@@ -30,6 +30,7 @@ It is estimated that there are ca. 4e9 kg on Earth.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/RuBisCO) 
 
+
 [[RuBisCO]] is inefficient though; it can also catalyze the reverse Reaction. 
 
 

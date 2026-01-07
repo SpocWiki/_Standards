@@ -167,7 +167,8 @@ ISNI: 0000000080818611
 > 
 > He was a co-developer of [[../../Language/Writing_System/Morse_Code]] in 1837 and helped to develop the commercial use of telegraphy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Morse)
+> [Wikipedia](https://en.wikipedia.org/wiki/Samuel%20Morse) 
+
 
 He may be motivated by his absence from his wife in New Haven, Connecticut 
 while painting a picture of the Marquis de Lafayette when she died. 

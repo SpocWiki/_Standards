@@ -27,6 +27,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Uber) 
 
+
 A common strategy against the take rate is to persuade the client 
 - to cancel the Reservation (costs a fee) and 
 - to pay in cash. 

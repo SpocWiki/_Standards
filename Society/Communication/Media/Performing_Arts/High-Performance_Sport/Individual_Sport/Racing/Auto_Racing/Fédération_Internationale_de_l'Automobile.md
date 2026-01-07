@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1904-06-20 
 aliases:
   - Fédération Internationale de l'Automobile
   - International Automobile Federation

@@ -106,7 +106,7 @@ UNII: 6200K977BQ
 > This isotope, and the isotope neptunium-239, 
 > are also found in trace amounts in uranium ores due to neutron capture reactions and beta decay.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neptunium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Neptunium) 
 
 
 ## Confidential Links & Embeds: 

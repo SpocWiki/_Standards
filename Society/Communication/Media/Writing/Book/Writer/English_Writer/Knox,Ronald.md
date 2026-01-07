@@ -37,7 +37,7 @@ aliases:
 > in which the reader may participate by attempting 
 > to find a solution to the mystery before the fictional detective reveals it.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ronald%20Knox)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ronald%20Knox) 
 
 
 ## Confidential Links & Embeds: 

@@ -71,7 +71,7 @@ Commons_gallery: Loudspeaker
 >
 > Smaller speakers are found in devices such as radios, televisions, portable audio players, personal computers (computer speakers), headphones, and earphones. Larger, louder speaker systems are used for home hi-fi systems (stereos), electronic musical instruments, sound reinforcement in theaters and concert halls, and in public address systems.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Loudspeaker)
+> [Wikipedia](https://en.wikipedia.org/wiki/Loudspeaker) 
 
 
 ## Confidential Links & Embeds: 

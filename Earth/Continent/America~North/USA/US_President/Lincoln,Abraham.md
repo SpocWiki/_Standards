@@ -198,7 +198,7 @@ This quote is often attributed to Abraham Lincoln, though there is no definitive
 >
 > Lincoln is remembered as a martyr and a national hero for his wartime leadership and for his efforts to preserve the Union and abolish slavery. He is often ranked in both popular and scholarly polls as the greatest president in American history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Abraham%20Lincoln)
+> [Wikipedia](https://en.wikipedia.org/wiki/Abraham%20Lincoln) 
 
 
 ## Confidential Links & Embeds: 

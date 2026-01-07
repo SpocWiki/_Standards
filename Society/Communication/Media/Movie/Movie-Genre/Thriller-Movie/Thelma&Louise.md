@@ -22,7 +22,7 @@
 > In 2016, the Library of Congress selected the film for preservation in the National Film Registry, 
 > finding it "culturally, historically, or aesthetically significant".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thelma%20&%20Louise)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thelma%20&%20Louise) 
 
 
 ## Confidential Links & Embeds: 

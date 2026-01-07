@@ -62,7 +62,8 @@
 > The handset division, along with the cable set-top box and modem businesses, 
 > were later spun off into [[Motorola Mobility]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Motorola)
+> [Wikipedia](https://en.wikipedia.org/wiki/Motorola) 
+
 
 In 1969, [Neil Armstrong](https://en.wikipedia.org/wiki/Neil_Armstrong "Neil Armstrong") spoke the famous words "That's one small step for man, one giant leap for mankind" from the [Moon](https://en.wikipedia.org/wiki/Moon "Moon") on a Motorola transceiver.
 

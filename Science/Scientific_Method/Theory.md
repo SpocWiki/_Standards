@@ -69,8 +69,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Darwin%20Tree%201837.p
 > [Wikipedia](https://en.wikipedia.org/wiki/Theory) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory|Theory]] 

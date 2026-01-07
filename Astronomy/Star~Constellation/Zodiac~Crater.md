@@ -62,7 +62,7 @@ short_name: Crt
 > A few notable galaxies, including Crater 2 and NGC 3981, 
 > and a famous quasar lie within the borders of the constellation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Crater%20(constellation))
+> [Wikipedia](https://en.wikipedia.org/wiki/Crater%20(constellation)) 
 
 
 ## Confidential Links & Embeds: 

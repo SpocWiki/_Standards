@@ -109,7 +109,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/TRIKARBONOVIH_KISLOT_TSIKL.h
 > For each pyruvate molecule (from glycolysis), the overall yield of energy-containing compounds 
 > from the citric acid cycle is three NADH, one FADH2, and one GTP or ATP.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Citric%20acid%20cycle)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Citric%20acid%20cycle) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 101.0 , 14.0 ] 
 aliases:
   - Thailand
   - Tailandia
@@ -584,7 +585,7 @@ Capital :: [[Bangkok]]
 >
 > Thailand is a middle power in global affairs and a founding member of ASEAN. It has the second-largest economy in Southeast Asia and the 23rd-largest in the world by PPP, and it ranks 29th by nominal GPD. Thailand is classified as a newly industrialised economy, with manufacturing, agriculture, and tourism as leading sectors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thailand)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thailand) 
 
 
 ## Confidential Links & Embeds: 

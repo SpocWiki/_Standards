@@ -52,7 +52,8 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 >
 > Often when a closed-form expression for the solutions is not available, solutions may be approximated numerically using computers, and many numerical methods have been developed to determine solutions with a given degree of accuracy. The theory of dynamical systems analyzes the qualitative aspects of solutions, such as their average behavior over a long time interval.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Differential%20equation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Differential%20equation) 
+
 
 ## Well-known Differential Equations: 
 

@@ -86,7 +86,7 @@ Dewey_Decimal_Classification: "512.788"
 >
 > The complex numbers form a rich structure that is simultaneously an algebraically closed field, a commutative algebra over the reals, and a Euclidean vector space of dimension two.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Complex%20number)
+> [Wikipedia](https://en.wikipedia.org/wiki/Complex%20number) 
 
 
 ## Confidential Links & Embeds: 

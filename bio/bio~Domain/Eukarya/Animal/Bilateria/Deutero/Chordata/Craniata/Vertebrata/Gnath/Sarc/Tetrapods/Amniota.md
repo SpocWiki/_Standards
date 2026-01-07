@@ -37,7 +37,8 @@ which includes all vertebrates with four limbs or descended from such animals.
 >
 > This basal divergence within Amniota has also been dated by molecular studies at 310–329 Ma, or 312–330 Ma, and by a fossilized birth–death process study at 322–340 Ma. However, the Snowy Plains footprints suggest a minimum divergence of 358.9–354 Ma.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Amniote)
+> [Wikipedia](https://en.wikipedia.org/wiki/Amniote) 
+
 
 ## Characteristics 
 

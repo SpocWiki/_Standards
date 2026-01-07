@@ -34,7 +34,9 @@ Commons_category: Computational complexity theory
 >
 > Closely related fields in theoretical computer science are analysis of algorithms and computability theory. A key distinction between analysis of algorithms and computational complexity theory is that the former is devoted to analyzing the amount of resources needed by a particular algorithm to solve a problem, whereas the latter asks a more general question about all possible algorithms that could be used to solve the same problem. More precisely, computational complexity theory tries to classify problems that can or cannot be solved with appropriately restricted resources. In turn, imposing restrictions on the available resources is what distinguishes computational complexity from computability theory: the latter theory asks what kinds of problems can, in principle, be solved algorithmically.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Computational%20complexity%20theory)
+> [Wikipedia](https://en.wikipedia.org/wiki/Computational%20complexity%20theory) 
+
+
 ## #has_/text_of_/abstract 
 
 > In theoretical computer science and mathematics, computational complexity theory focuses on classifying computational problems according to their resource usage, and explores the relationships between these classifications. A computational problem is a task solved by a computer. A computation problem is solvable by mechanical application of mathematical steps, such as an algorithm.
@@ -43,7 +45,7 @@ Commons_category: Computational complexity theory
 >
 > Closely related fields in theoretical computer science are analysis of algorithms and computability theory. A key distinction between analysis of algorithms and computational complexity theory is that the former is devoted to analyzing the amount of resources needed by a particular algorithm to solve a problem, whereas the latter asks a more general question about all possible algorithms that could be used to solve the same problem. More precisely, computational complexity theory tries to classify problems that can or cannot be solved with appropriately restricted resources. In turn, imposing restrictions on the available resources is what distinguishes computational complexity from computability theory: the latter theory asks what kinds of problems can, in principle, be solved algorithmically.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Computational%20complexity%20theory)
+> [Wikipedia](https://en.wikipedia.org/wiki/Computational%20complexity%20theory) 
 
 
 ## Confidential Links & Embeds: 

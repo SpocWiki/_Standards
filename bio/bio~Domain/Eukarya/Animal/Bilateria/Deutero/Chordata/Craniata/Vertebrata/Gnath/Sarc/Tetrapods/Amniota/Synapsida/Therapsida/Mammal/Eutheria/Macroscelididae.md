@@ -54,7 +54,8 @@ UMLS_CUI: C0324735
 >
 > They are widely distributed across the southern part of Africa, and although common nowhere, can be found in almost any type of habitat, from the Namib Desert to boulder-strewn outcrops in South Africa to thick forest. One species, the North African elephant shrew, remains in the semi-arid, mountainous country in the far northwest of Africa. The Somali elephant shrew went unobserved from 1968 to 2020 but was rediscovered by a group of scientists in Djibouti.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Elephant%20shrew)
+> [Wikipedia](https://en.wikipedia.org/wiki/Elephant%20shrew) 
+
 
 ### Information on the Internet
 

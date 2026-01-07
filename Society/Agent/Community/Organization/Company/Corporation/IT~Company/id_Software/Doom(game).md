@@ -56,7 +56,7 @@ and freely released under the [GNU General Public License](https://en.wikipedia.
 > and Doom: The Dark Ages (2025), 
 > as well as the films [[Doom(game)/Doom(film)]] and Doom: Annihilation (2019).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Doom%20(1993%20video%20game))
+> [Wikipedia](https://en.wikipedia.org/wiki/Doom%20(1993%20video%20game)) 
 
 
 ## Confidential Links & Embeds: 

@@ -37,7 +37,8 @@ topic_s_main_template:
 >
 > If the present state of an object that obeys the laws of classical mechanics is known, it is possible to determine how it will move in the future, and how it has moved in the past. Chaos theory shows that the long term predictions of classical mechanics are not reliable. Classical mechanics provides accurate results when studying objects that are not extremely massive and have speeds not approaching the speed of light. With objects  about the size of an atom's diameter, it becomes necessary to use quantum mechanics. To describe velocities approaching the speed of light, special relativity is needed. In cases where objects become extremely massive, general relativity becomes applicable. Some modern sources include relativistic mechanics in classical physics, as representing the field in its most developed and accurate form.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Classical%20mechanics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Classical%20mechanics) 
+
 
 ## #has_/text_of_/abstract 
 
@@ -55,7 +56,7 @@ topic_s_main_template:
 > In the 20th century the concepts of classical mechanics were challenged by new discoveries, 
 > leading to fundamentally new approaches including relativistic mechanics and quantum mechanics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mechanics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mechanics) 
 
 
 ## Confidential Links & Embeds: 

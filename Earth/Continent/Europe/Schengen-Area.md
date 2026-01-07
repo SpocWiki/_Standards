@@ -76,7 +76,7 @@ has_member:
 > States in the Schengen Area have 
 > strengthened border controls with non-Schengen countries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Schengen%20Area)
+> [Wikipedia](https://en.wikipedia.org/wiki/Schengen%20Area) 
 
 
 ## Confidential Links & Embeds: 

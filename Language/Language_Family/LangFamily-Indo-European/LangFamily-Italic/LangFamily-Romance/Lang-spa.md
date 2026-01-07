@@ -200,7 +200,7 @@ Glottolog_code: stan1288
 >
 > Spanish is used as an official language by many international organizations, including the United Nations, European Union, Organization of American States, Union of South American Nations, Community of Latin American and Caribbean States, African Union, among others.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Spanish%20language) 
 
 
 ## Confidential Links & Embeds: 

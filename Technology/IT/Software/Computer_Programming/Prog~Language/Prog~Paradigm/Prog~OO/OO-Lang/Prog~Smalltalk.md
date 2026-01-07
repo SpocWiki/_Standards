@@ -19,7 +19,7 @@
 > 
 > Smalltalk took second place for "most loved programming language" in the Stack Overflow Developer Survey in 2017, but it was not among the 26 most loved programming languages of the 2018 survey.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Smalltalk)
+> [Wikipedia](https://en.wikipedia.org/wiki/Smalltalk) 
 
 
 ## Confidential Links & Embeds: 

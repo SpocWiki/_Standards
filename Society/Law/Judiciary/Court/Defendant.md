@@ -28,8 +28,6 @@ has_id_wikidata: Q159394
 > [Wikipedia](https://en.wikipedia.org/wiki/Defendant) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Defendant|Defendant]] 

@@ -32,7 +32,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 >
 > Earth's gravity acceleration (the vertical derivative of geopotential) is thus non-uniform over the geoid.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Geoid)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Geoid) 
 
 
 ## Confidential Links & Embeds: 

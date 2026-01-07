@@ -16,7 +16,7 @@
 > In the 1960s, laboratory and company headquarters were moved to Murray Hill, New Jersey. 
 > [[Nokia]] acquired [[Bell Labs]] in 2016 as part of its acquisition of [[Alcatel-Lucent]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bell%20Labs)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bell%20Labs) 
 
 
 ## Confidential Links & Embeds: 

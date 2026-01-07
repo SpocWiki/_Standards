@@ -14,7 +14,7 @@
 > The set R² of the ordered pairs of real numbers (the real coordinate plane), 
 > equipped with the dot product, is often called the Euclidean plane or standard Euclidean plane, since every Euclidean plane is isomorphic to it.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Euclidean%20plane)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Euclidean%20plane) 
 
 
 ## Confidential Links & Embeds: 

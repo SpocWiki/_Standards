@@ -47,7 +47,7 @@ A short band of tough, flexible, fibrous connective tissue that functions to con
 >
 > It is also known as articular ligament, articular larua, fibrous ligament, or true ligament.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ligament)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ligament) 
 
 
 ## Confidential Links & Embeds: 

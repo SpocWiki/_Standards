@@ -218,7 +218,7 @@ Archive_of_Our_Own_tag: David Bowie (Musician)
 >
 > During his lifetime, his record sales, estimated at over 100 million worldwide, made him one of the best-selling musicians of all time. He is the recipient of numerous accolades, including six Grammy Awards and four Brit Awards. Often dubbed the "chameleon of rock" due to his continual musical reinventions, he was inducted into the Rock and Roll Hall of Fame in 1996. Rolling Stone ranked him among the greatest singers, songwriters and artists of all time. As of 2022, Bowie was the best-selling vinyl artist of the 21st century.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/David%20Bowie)
+> [Wikipedia](https://en.wikipedia.org/wiki/David%20Bowie) 
 
 
 ## Confidential Links & Embeds: 

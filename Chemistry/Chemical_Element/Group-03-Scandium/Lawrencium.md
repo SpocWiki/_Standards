@@ -108,7 +108,7 @@ UNII: QRT37X99RQ
 > this was reevaluated in 1992, giving both teams shared credit for the discovery 
 > but not changing the element's name.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lawrencium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lawrencium) 
 
 
 ## Confidential Links & Embeds: 

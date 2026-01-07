@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 31.13422 , 29.97915 ] 
 aliases:
   - Great Pyramid of Giza
   - Great_Pyramid_of_Giza

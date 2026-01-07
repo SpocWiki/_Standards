@@ -28,7 +28,7 @@ aliases:
 >
 > Winkler was a member of the main cast of the National Broadcasting Company (NBC) reality series Better Late Than Never (2016–2018). In 2003, he drew upon his childhood struggles with dyslexia to co-write the Hank Zipzer series of children's books, which he then adapted into the British Broadcasting Corporation (BBC) Hank Zipzer TV series (2014–2016) in which Winkler appears as Mr. Rock. He has also written three memoirs: Being Henry: The Fonz ... and Beyond (2023), I've Never Met an Idiot on the River (2011), and The Other Side of **Henry Winkler**: My Story (1976).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Winkler)
+> [Wikipedia](https://en.wikipedia.org/wiki/Henry%20Winkler) 
 
 
 ## Confidential Links & Embeds: 

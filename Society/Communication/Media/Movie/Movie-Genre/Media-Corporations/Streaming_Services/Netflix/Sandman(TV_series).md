@@ -35,7 +35,7 @@ aliases:
 > The series has received generally positive reviews from critics with praise going towards the casting, 
 > production design, costumes, faithfulness to its source material, visual effects, and performances.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Sandman%20(TV%20series))
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Sandman%20(TV%20series)) 
 
 
 ## Confidential Links & Embeds: 

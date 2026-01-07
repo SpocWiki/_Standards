@@ -140,7 +140,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 >
 > Locke is often credited for describing private property as a Natural Law principle, arguing that when a person mixes their labour with nature, the labour enters the object conferring individual ownership.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Locke)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Locke) 
 
 
 ## Confidential Links & Embeds: 

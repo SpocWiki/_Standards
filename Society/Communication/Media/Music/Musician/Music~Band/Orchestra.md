@@ -89,7 +89,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Oman%20Symphon
 > The term orchestra derives from the Greek ὀρχήστρα (orchestra), 
 > the name for the area in front of a stage in ancient Greek theatre reserved for the Greek chorus.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Orchestra)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Orchestra) 
 
 
 ## Confidential Links & Embeds: 

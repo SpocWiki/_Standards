@@ -186,7 +186,7 @@ X_Twitter_username: DrBrianMay
 > May was knighted by King Charles III in the 2023 New Year Honours 
 > for services to music and charity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Brian%20May)
+> [Wikipedia](https://en.wikipedia.org/wiki/Brian%20May) 
 
 
 ## Confidential Links & Embeds: 

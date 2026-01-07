@@ -379,7 +379,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > His legacy is celebrated by the Van Gogh Museum in Amsterdam, 
 > which holds the world's largest collection of his paintings and drawings.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vincent%20van%20Gogh)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vincent%20van%20Gogh) 
 
 
 ## Confidential Links & Embeds: 

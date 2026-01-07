@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 44.116667 , 23.716667 ] 
 aliases:
   - Saudi Arabia
   - Arabia Saudita
@@ -546,7 +547,7 @@ Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]
 >
 > Saudi Arabia is considered both a regional and middle power. Since petroleum was discovered in the country in 1938, the kingdom has become the world's third-largest oil producer and leading oil exporter, controlling the world's second-largest oil reserves and the sixth-largest gas reserves. Saudi Arabia is categorized as a World Bank high-income economy and is the only Arab country among the G20 major economies. The Saudi economy is the largest in the Middle East and the world's nineteenth largest by nominal GDP and seventeenth largest by PPP. Ranking very high in the Human Development Index, Saudi Arabia offers tuition-free university education, no personal income tax, and free universal health care. With its dependency on foreign labour, Saudi Arabia has the world's third-largest immigrant population. Saudi Arabians are among the world's youngest people, with approximately half being under 25 years old. Saudi Arabia is a member of the Gulf Cooperation Council, United Nations, Organisation of Islamic Cooperation, Arab League, and OPEC, as well as a dialogue partner of the Shanghai Cooperation Organisation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Saudi%20Arabia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Saudi%20Arabia) 
 
 
 ## Confidential Links & Embeds: 

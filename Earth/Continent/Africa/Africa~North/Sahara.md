@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.612222222 , 23.079722222 ] 
 aliases:
   - Sahara Desert
   - Sahara
@@ -80,6 +81,7 @@ width: 1800
 > For several hundred thousand years, the Sahara has alternated between desert and savanna grassland in a 20,000-year cycle caused by the precession of Earth's axis (about 26,000 years) as it rotates around the Sun, which changes the location of the North African monsoon.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sahara) 
+
 
 ![[SAHARA-Desert.geojson]]
 

@@ -57,7 +57,8 @@ type: private_note
 >
 > Revolver expanded the boundaries of pop music, revolutionised standard practices in studio recording, advanced principles espoused by the 1960s counterculture, and inspired the development of psychedelic rock, electronica, progressive rock and world music. The album cover, designed by Klaus Voormann, combined Aubrey Beardsley-inspired line drawing with photo collage and won the 1967 Grammy Award for Best Album Cover, Graphic Arts. Aided by the 1987 international CD release, which standardised its content to the original Parlophone version, Revolver has surpassed Sgt. Pepper's Lonely Hearts Club Band (1967) in many critics' estimation as the Beatles' best album. It was ranked first in the 1998 and 2000 editions of Colin Larkin's book All Time Top 1000 Albums and third in the 2003 and 2012 editions of Rolling Stone magazine's list of the "500 Greatest Albums of All Time". It has been certified double platinum by the British Phonographic Industry (BPI) and 5× platinum by the Recording Industry Association of America (RIAA). A remixed and expanded edition of the album was released in 2022.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Revolver%20(Beatles%20album))
+> [Wikipedia](https://en.wikipedia.org/wiki/Revolver%20(Beatles%20album)) 
+
 
 ## Beatles~Revolver
 

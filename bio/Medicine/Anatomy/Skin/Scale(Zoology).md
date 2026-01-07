@@ -37,7 +37,7 @@ Commons_category: Scalation
 > Scales are generally classified as part of an organism's integumentary system. 
 > There are various types of scales according to the shape and class of an animal.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Scale%20(zoology))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Scale%20(zoology)) 
 
 
 ## Confidential Links & Embeds: 

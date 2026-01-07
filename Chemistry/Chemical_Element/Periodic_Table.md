@@ -3,52 +3,53 @@ aliases:
   - Periodic table
   - Periodic_Table
   - Periodic Table
+  - Periodensystem
 has_id_wikidata: Q10693
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Periodic%20Table%20-%20Atomic%20Radius%20%28Tolle%20via%20Thingiverse%29.stl
-based_on: '[[_Standards/WikiData/WD~periodic_trends,2622089]]'
+based_on: "[[_Standards/WikiData/WD~periodic_trends,2622089]]"
 Colon_Classification: E:17
 Commons_category: Periodic table
 Commons_gallery: Periodic table of elements
-country_of_origin: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
-depicted_by: '[[_Standards/WikiData/WD~Tableau_périodique_des_éléments,63967990]]'
-depicts: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+country_of_origin: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+depicted_by: "[[_Standards/WikiData/WD~Tableau_périodique_des_éléments,63967990]]"
+depicts: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
 Dewey_Decimal_Classification: 546.8
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]'
-does_not_have_part: '[[_Standards/WikiData/WD~isotope,25276]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]"
+does_not_have_part: "[[_Standards/WikiData/WD~isotope,25276]]"
 Gujarati_Vishwakosh_entry: આવર્તક-કોષ્ટક
 has_part_s_:
-  - '[[_Standards/WikiData/WD~group,83306]]'
-  - '[[_Standards/WikiData/WD~period,101843]]'
-  - '[[_Standards/WikiData/WD~block,193099]]'
+  - "[[_Standards/WikiData/WD~group,83306]]"
+  - "[[_Standards/WikiData/WD~period,101843]]"
+  - "[[_Standards/WikiData/WD~block,193099]]"
 has_time_started: 1869-03-06
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_periodic_table,14916030]]'
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_periodic_table,14916030]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Periodic%20table%20%2832-col%2C%20enwiki%29%2C%20black%20and%20white.png
 inception: 1869-03-06
-instance_of: '[[_Standards/WikiData/WD~chemical_classification,732744]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_classification,732744]]"
 Krugosvet_article: nauka_i_tehnika/himiya/PERIODICHESKAYA_SISTEMA_ELEMENTOV.html
-location_of_creation: '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+location_of_creation: "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
 named_after:
-  - '[[_Standards/WikiData/WD~period,101843]]'
-  - '[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]'
+  - "[[_Standards/WikiData/WD~period,101843]]"
+  - "[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]"
 OmegaWiki_Defined_Meaning: 8381
-part_of: '[[_Standards/WikiData/WD~extended_periodic_table,428887]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q18325033,18325033]]'
+part_of: "[[_Standards/WikiData/WD~extended_periodic_table,428887]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q18325033,18325033]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%20%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%80.wav
 short_name:
   - PSdE
   - PSE
-subclass_of: '[[_Standards/WikiData/WD~table,496946]]'
+subclass_of: "[[_Standards/WikiData/WD~table,496946]]"
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Periodic_table_(32_columns,_micro),5485101]]'
-  - '[[_Standards/WikiData/WD~Template_Periodic_table_(navbox),5866775]]'
-  - '[[_Standards/WikiData/WD~Template_Periodic_table,6310132]]'
-  - '[[_Standards/WikiData/WD~Template_Navbox_periodic_table,6439622]]'
-  - '[[_Standards/WikiData/WD~Template_Periodic_table_(group_names),19822721]]'
+  - "[[_Standards/WikiData/WD~Template_Periodic_table_(32_columns,_micro),5485101]]"
+  - "[[_Standards/WikiData/WD~Template_Periodic_table_(navbox),5866775]]"
+  - "[[_Standards/WikiData/WD~Template_Periodic_table,6310132]]"
+  - "[[_Standards/WikiData/WD~Template_Navbox_periodic_table,6439622]]"
+  - "[[_Standards/WikiData/WD~Template_Periodic_table_(group_names),19822721]]"
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Erfindung%20des%20Periodensystems.webm
   - http://commons.wikimedia.org/wiki/Special:FilePath/Orbitales%20atomiques%20et%20classification%20p%C3%A9riodique.ogv
@@ -74,7 +75,7 @@ video:
 >
 > The periodic table continues to evolve with the progress of science. In nature, only elements up to atomic number 94  exist; to go further, it was necessary to synthesize new elements in the laboratory. By 2010, the first 118 elements were known, thereby completing the first seven rows of the table; however, chemical characterization is still needed for the heaviest elements to confirm that their properties match their positions. New discoveries will extend the table beyond these seven rows, though it is not yet known how many more elements are possible; moreover, theoretical calculations suggest that this unknown region will not follow the patterns of the known part of the table. Some scientific discussion also continues regarding whether some elements are correctly positioned in today's table. Many alternative representations of the periodic law exist, and there is some discussion as to whether there is an optimal form of the periodic table.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Periodic%20table)
+> [Wikipedia](https://en.wikipedia.org/wiki/Periodic%20table) 
 
 
 | Shell (n) | Symbol |       | s²  |      | p⁶  |      | d¹⁰ |      | f¹⁴ |     | g¹⁸ |     | h²² |     | i²⁶ | Total e⁻ | Total e⁻ |

@@ -31,7 +31,7 @@ aliases:
 > that could possibly be simulated by machines and 
 > was an important early step towards the development of modern artificial intelligence.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Norbert%20Wiener)
+> [Wikipedia](https://en.wikipedia.org/wiki/Norbert%20Wiener) 
 
 
 ## Biography

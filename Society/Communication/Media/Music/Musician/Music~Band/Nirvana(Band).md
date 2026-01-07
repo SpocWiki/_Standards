@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1987-01-01 
 aliases:
 has_id_wikidata: Q11649
 record_label:
@@ -116,7 +117,7 @@ work_period_end_: 1994-01-01T00:00:00Z
 > In 2004, Rolling Stone named Nirvana among the 100 greatest artists of all time. 
 > They were inducted into the Rock and Roll Hall of Fame in their first year of eligibility in 2014.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nirvana%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Nirvana%20(band)) 
 
 
 ## Confidential Links & Embeds: 

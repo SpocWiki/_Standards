@@ -88,7 +88,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > 
 > His experiments about energy transformations were first published in 1843.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/James%20Prescott%20Joule)
+> [Wikipedia](https://en.wikipedia.org/wiki/James%20Prescott%20Joule) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1971-02-04 
 aliases:
   - National Association of Securities Dealers Automated Quotations
   - Nasdaq

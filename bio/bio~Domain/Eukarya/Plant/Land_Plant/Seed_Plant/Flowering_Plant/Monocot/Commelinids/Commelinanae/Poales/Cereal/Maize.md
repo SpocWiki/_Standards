@@ -326,7 +326,7 @@ water_footprint:
 > and the niacin it contains only becomes available if freed by alkali treatment. 
 > In Mesoamerica, maize is deified as a maize god and depicted in sculptures.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Maize)
+> [Wikipedia](https://en.wikipedia.org/wiki/Maize) 
 
 
 ## Confidential Links & Embeds: 

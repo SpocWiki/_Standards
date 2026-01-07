@@ -99,7 +99,7 @@ inception: -1500-01-01T00:00:00Z
 >
 > The various Indian philosophies and Hindu sects have taken differing positions on the Vedas. Schools of Indian philosophy that acknowledge the importance or primal authority of the Vedas comprise Hindu philosophy specifically and are together classified as the six "orthodox" (āstika) schools. However, śramaṇa traditions, such as Charvaka, Ajivika, Buddhism, and Jainism, which did not regard the Vedas as authoritative, are referred to as "heterodox" or "non-orthodox" (nāstika) schools.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vedas)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Vedas) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 9.553889 , 47.145 ] 
 aliases:
   - Liechtenstein
 has_id_wikidata: Q347
@@ -432,7 +433,7 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz]]
 >
 > Economically, Liechtenstein has one of the highest gross domestic products per person in the world when adjusted for purchasing power parity. The country has a strong financial sector centred in Vaduz. It was once known as a billionaire tax haven, culminating in a tax affair in 2008, but the principality has since made significant efforts to shed this reputation. An Alpine country, Liechtenstein is mountainous, making it a winter sport destination.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Liechtenstein)
+> [Wikipedia](https://en.wikipedia.org/wiki/Liechtenstein) 
 
 
 ## Confidential Links & Embeds: 

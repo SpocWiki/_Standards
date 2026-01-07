@@ -115,7 +115,6 @@ ZVG_number: 8020
 
 ## #has_/text_of_/abstract 
 
-
 > **[Name-en::Beryllium]** is a chemical element with the symbol (Abbr::Be) and atomic number (Charge-e::4). 
 > 
 > It is a steel-gray, strong, lightweight and brittle alkaline earth metal. 
@@ -158,7 +157,7 @@ ZVG_number: 8020
 > that can cause a chronic life-threatening allergic disease in some people called berylliosis. 
 > Berylliosis causes pneumonia and other associated respiratory illness.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Beryllium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Beryllium) 
 
 
 ## Confidential Links & Embeds: 

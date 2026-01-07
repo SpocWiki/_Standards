@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1792-01-01 
 aliases:
   - United States dollar
   - American dollar
@@ -74,9 +75,9 @@ OpenStreetMap_key: currency:USD
 > From 1934, its equivalence to gold was revised to $35 per troy ounce. 
 > In 1971 all links to gold were repealed. 
 > 
-> The U.S. dollar became an important international reserve currency after the [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I|First World War]], 
+> The U.S. dollar became an important international reserve currency after the [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I|First World War]], 
 > and displaced the pound sterling as the world's primary reserve currency 
-> by the [[Bretton_Woods_Agreement]] towards the end of the [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II|Second World War]]. 
+> by the [[Bretton_Woods_Agreement]] towards the end of the [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|Second World War]]. 
 > 
 > The dollar is the most widely used currency in international transactions, and a free-floating currency. 
 > It is also the official currency in several countries and the de facto currency in many others, 
@@ -91,7 +92,7 @@ OpenStreetMap_key: currency:USD
 > As of January 1, 2025, the Federal Reserve estimated that the total amount of currency in circulation 
 > was approximately US$2.37 trillion.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20States%20dollar)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20States%20dollar) 
 
 
 ## Confidential Links & Embeds: 

@@ -32,7 +32,7 @@ Commons_category: Social work
 >
 > The social work profession developed in the 19th century, with some of its roots in voluntary philanthropy and in grassroots organizing. However, responses to social needs had existed long before then, primarily from public almshouses, private charities and religious organizations. The effects of the Industrial Revolution and of the Great Depression of the 1930s placed pressure on social work to become a more defined discipline as social workers responded to the child welfare concerns related to widespread poverty and reliance on child labor in industrial settings.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Social%20work)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Social%20work) 
 
 
 ## Confidential Links & Embeds: 

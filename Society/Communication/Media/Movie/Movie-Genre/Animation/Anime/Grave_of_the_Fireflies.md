@@ -12,7 +12,8 @@
 > Universally acclaimed, Grave of the Fireflies has been ranked 
 > as one of the greatest war films of all time and is recognized as a major work of Japanese animation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Grave%20of%20the%20Fireflies)
+> [Wikipedia](https://en.wikipedia.org/wiki/Grave%20of%20the%20Fireflies) 
+
 
 In the last Months of the war 75% or all economic Activity was devoted to the war, 
 leaving the average(!) Person with only 1600kCal per day and the poorest were starving. 

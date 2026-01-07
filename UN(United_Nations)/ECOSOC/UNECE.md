@@ -9,7 +9,7 @@
 > 
 > Its transcontinental Eurasian or non-European member states include: Armenia, Azerbaijan, Canada, Cyprus, Georgia, Israel, Kazakhstan, Kyrgyzstan, the Russian Federation, Tajikistan, Turkey, Turkmenistan, the United States of America and Uzbekistan.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20Commission%20for%20Europe)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20Commission%20for%20Europe) 
 
 
 ## Confidential Links & Embeds: 

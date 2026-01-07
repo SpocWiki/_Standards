@@ -19,7 +19,7 @@ Seen often in the 1990s and early 2000s it has become rare in the 2010s, mostly 
 > Possible issues that can cause a BSoD include hardware failures, 
 > an issue with or without a device driver, or unexpected termination of a crucial process or thread.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Blue%20screen%20of%20death)
+> [Wikipedia](https://en.wikipedia.org/wiki/Blue%20screen%20of%20death) 
 
 
 ## Confidential Links & Embeds: 

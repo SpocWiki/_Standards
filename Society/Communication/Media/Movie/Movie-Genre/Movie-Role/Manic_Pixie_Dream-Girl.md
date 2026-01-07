@@ -14,7 +14,8 @@
 > 
 > The term has since entered the general vernacular.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Manic%20Pixie%20Dream%20Girl)
+> [Wikipedia](https://en.wikipedia.org/wiki/Manic%20Pixie%20Dream%20Girl) 
+
 
 ## #has_/examples 
 

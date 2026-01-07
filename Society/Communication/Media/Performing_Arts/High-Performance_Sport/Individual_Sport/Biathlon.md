@@ -49,7 +49,7 @@ Krugosvet_article: sport/BIATLON.html
 > The shooting rounds are not timed per se, but depending on the competition, 
 > missed shots result in extra distance or time being added to the contestant's total.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Biathlon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Biathlon) 
 
 
 ## Confidential Links & Embeds: 

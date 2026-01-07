@@ -141,7 +141,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SHELLI_PERSI_BISH.
 > His second wife, Mary Shelley, was the author of Frankenstein. 
 > He died in a boating accident in 1822 at age 29.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Percy%20Bysshe%20Shelley)
+> [Wikipedia](https://en.wikipedia.org/wiki/Percy%20Bysshe%20Shelley) 
 
 
 ## Confidential Links & Embeds: 

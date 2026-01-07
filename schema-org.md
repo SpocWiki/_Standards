@@ -8,7 +8,6 @@
 
 ## #has_/text_of_/abstract 
 
-
 > **Schema.org** is a reference website that publishes documentation and guidelines 
 > for using structured data mark-up on web-pages (called microdata). 
 > 
@@ -21,7 +20,7 @@
 > which aims to make document mark-up codes more readable and meaningful 
 > to both humans and machines.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Schema.org)
+> [Wikipedia](https://en.wikipedia.org/wiki/Schema.org) 
 
 
 Most [[OpenId]] Claims are mapped to the http://schemas.xmlsoap.org/ws/2005/05/identity/claims/ Namespace. 

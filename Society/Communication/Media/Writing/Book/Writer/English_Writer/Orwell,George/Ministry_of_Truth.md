@@ -30,7 +30,7 @@ aliases:
 > and then became the Department of Defense in 1949, 
 > right around the time that Nineteen Eighty-Four was published.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ministries%20in%20Nineteen%20Eighty-Four)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ministries%20in%20Nineteen%20Eighty-Four) 
 
 
 ## Confidential Links & Embeds: 

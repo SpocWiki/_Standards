@@ -127,7 +127,7 @@ ZVG_number: 7370
 > However, rubidium ions have similar properties and the same charge as potassium ions, 
 > and are actively taken up and treated by animal cells in similar ways.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rubidium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rubidium) 
 
 
 ## Confidential Links & Embeds: 

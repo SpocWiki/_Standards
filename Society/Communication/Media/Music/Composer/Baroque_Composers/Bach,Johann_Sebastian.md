@@ -285,7 +285,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > including the Air on the G String and "Jesu, Joy of Man's Desiring", 
 > and of recordings such as three different box sets with complete performances of his oeuvre marking the 250th anniversary of his death.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Sebastian%20Bach)
+> [Wikipedia](https://en.wikipedia.org/wiki/Johann%20Sebastian%20Bach) 
 
 
 ## Confidential Links & Embeds: 

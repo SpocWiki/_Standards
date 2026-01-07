@@ -18,7 +18,7 @@
 > where software programs compete to correctly classify and detect objects and scenes. 
 > The challenge uses a "trimmed" list of one thousand non-overlapping classes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/ImageNet)
+> [Wikipedia](https://en.wikipedia.org/wiki/ImageNet) 
 
 
 ## Confidential Links & Embeds: 

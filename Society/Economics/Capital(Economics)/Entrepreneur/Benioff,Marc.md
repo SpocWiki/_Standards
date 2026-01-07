@@ -16,7 +16,7 @@ aliases:
 > Benioff is best known as the co-founder, chairman and CEO of the software company Salesforce, 
 > as well as being the owner of Time magazine since 2018.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marc%20Benioff)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marc%20Benioff) 
 
 
 ## Confidential Links & Embeds: 

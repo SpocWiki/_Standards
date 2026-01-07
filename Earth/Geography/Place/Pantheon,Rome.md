@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0128-01-01 
+location: [ 12.476944444 , 41.898611111 ] 
 aliases:
   - Pantheon
   - Pantheon,Rome

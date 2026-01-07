@@ -33,7 +33,7 @@ U_S_National_Archives_Identifier: 10637576
 
 > **Imperialism** is the maintaining and extending of power over foreign nations, particularly through expansionism, employing both hard power (military and economic power) and soft power (diplomatic power and cultural imperialism). Imperialism focuses on establishing or maintaining hegemony and a more or less formal empire. While related to the concept of colonialism, imperialism is a distinct concept that can apply to other forms of expansion and many forms of government.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Imperialism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Imperialism) 
 
 
 ## Confidential Links & Embeds: 

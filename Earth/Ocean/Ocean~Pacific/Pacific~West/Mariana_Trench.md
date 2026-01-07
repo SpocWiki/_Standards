@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 142.2 , 11.35 ] 
 aliases:
 has_id_wikidata: Q510
 location:

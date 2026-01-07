@@ -58,8 +58,6 @@ taxon_common_name: マラリア原虫
 > [Wikipedia](https://en.wikipedia.org/wiki/Plasmodium) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium|Plasmodium]] 

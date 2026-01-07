@@ -81,8 +81,6 @@ By combining the Methods below, 12mm Panes can resist Wind up to 120 km/h
 > [Wikipedia](https://en.wikipedia.org/wiki/Poly(methyl%20methacrylate)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate|Polymethyl_Methacrylate]] 

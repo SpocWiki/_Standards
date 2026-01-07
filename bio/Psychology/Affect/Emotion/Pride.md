@@ -24,9 +24,7 @@ has_id_wikidata: Q3071551
 >
 > It may also refer to foolhardiness, or a corrupt, irrational sense of one's personal value, status, or accomplishments. In this sense, pride can be used synonymously with hubris or vanity. It is traditionally interpreted in classical theology as one of the seven deadly sins. When viewed as a virtue, pride in one's abilities is known as virtuous pride, greatness of soul, or magnanimity, but when viewed as a vice, it is often known to be self-idolatry, sadistic contempt, or vainglory.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pride)
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Pride) 
 
 
 ## Confidential Links & Embeds: 

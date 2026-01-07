@@ -114,8 +114,6 @@ Libris_URI: 20dgkxxl45jwf27
 > [Wikipedia](https://en.wikipedia.org/wiki/Sojourner%20Truth) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/Truth,Sojourner|Truth,Sojourner]] 

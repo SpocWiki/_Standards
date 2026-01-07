@@ -133,10 +133,6 @@ DSSTOX_compound_identifier: DTXCID102519
 > [Wikipedia](https://en.wikipedia.org/wiki/Folate) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Folate|Folate]] 

@@ -15,7 +15,7 @@
 >
 > Scientists and engineers at or from the university have played an essential role in many modern scientific breakthroughs and innovations, including advances in space research, sustainability science, quantum physics, and seismology. As of October 2022, there are 79 Nobel laureates who have been affiliated with Caltech, making it the institution with the highest number of Nobelists per capita in America. This includes 46 alumni and faculty members (47 prizes, with chemist Linus Pauling being the only individual in history to win two unshared prizes). In addition, 66 National Medal of Science Recipients, 43 MacArthur Fellows, 14 National Medal of Technology and Innovation recipients, 11 astronauts, 5 Science Advisors to the President, 4 Fields Medalists, and 6 Turing Award winners have been affiliated with Caltech.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/California%20Institute%20of%20Technology)
+> [Wikipedia](https://en.wikipedia.org/wiki/California%20Institute%20of%20Technology) 
 
 
 ## Confidential Links & Embeds: 

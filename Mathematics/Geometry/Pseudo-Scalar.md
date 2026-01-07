@@ -25,7 +25,7 @@ elements of the Algebra with dimension n: __⋀ⁿ Rⁿ__.
 > and the [[Cross-Product]] between the two other vectors, 
 > where the latter is a [[Pseudo-Vector]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pseudoscalar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pseudoscalar) 
 
 
 ## Confidential Links & Embeds: 

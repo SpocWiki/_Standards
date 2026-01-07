@@ -105,7 +105,8 @@ but some are counted separately like [[Europe~West/France~Metropolitan|France~Me
 > In 2012, the EU was awarded the Nobel Peace Prize. The United Kingdom became the only member state to leave the EU, in 2020; 
 > ten countries are aspiring or negotiating to join it.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/European%20Union)
+> [Wikipedia](https://en.wikipedia.org/wiki/European%20Union) 
+
 
 [[../Europe|Europe]] 
 

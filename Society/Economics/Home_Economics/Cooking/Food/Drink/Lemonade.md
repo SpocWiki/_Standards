@@ -38,7 +38,7 @@ Wolfram_Language_entity_code: Entity["FoodType", "Lemonade"]
 >
 > The suffix "-ade" may also be applied to other similar drinks made with different fruits, such as limeade, orangeade, or cherryade.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lemonade)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lemonade) 
 
 
 ## Confidential Links & Embeds: 

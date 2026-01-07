@@ -77,7 +77,7 @@ official_name: Lyra
 > Epsilon Lyrae, known informally as the  Double Double, is a complex multiple star system. 
 > Lyra also hosts the Ring Nebula, the second-discovered and best-known planetary nebula.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lyra)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lyra) 
 
 
 ## Confidential Links & Embeds: 

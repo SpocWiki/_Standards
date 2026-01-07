@@ -30,7 +30,7 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/immune_sy
 >
 > Dysfunction of the immune system can cause autoimmune diseases, inflammatory diseases and cancer. Immunodeficiency occurs when the immune system is less active than normal, resulting in recurring and life-threatening infections. In humans, immunodeficiency can be the result of a genetic disease such as severe combined immunodeficiency, acquired conditions such as HIV/AIDS, or the use of immunosuppressive medication. Autoimmunity results from a hyperactive immune system attacking normal tissues as if they were foreign organisms. Common autoimmune diseases include Hashimoto's thyroiditis, rheumatoid arthritis, diabetes mellitus type 1, and systemic lupus erythematosus. Immunology covers the study of all aspects of the immune system.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Immune%20system)
+> [Wikipedia](https://en.wikipedia.org/wiki/Immune%20system) 
 
 
 ## Confidential Links & Embeds: 

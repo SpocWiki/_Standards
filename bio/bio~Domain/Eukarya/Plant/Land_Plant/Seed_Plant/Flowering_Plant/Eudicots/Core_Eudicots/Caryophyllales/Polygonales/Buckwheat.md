@@ -143,7 +143,7 @@ UNII: B10M69172N
 >
 > Despite its name, buckwheat is not closely related to wheat. Buckwheat is not a cereal, nor is it even a member of the grass family. It is related to sorrel, knotweed, and rhubarb.  Buckwheat is considered a pseudocereal, because its seeds' high starch content allows them to be used in cooking like a cereal.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Buckwheat)
+> [Wikipedia](https://en.wikipedia.org/wiki/Buckwheat) 
 
 
 ## Confidential Links & Embeds: 

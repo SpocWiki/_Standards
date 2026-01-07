@@ -178,7 +178,7 @@ Wolfram_Language_entity_code: Entity["Person", "LudwigWittgenstein::4kv26"]
 > and attempting to prepare a second manuscript for publication, 
 > which was published posthumously as the hugely influential Philosophical Investigations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20Wittgenstein)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20Wittgenstein) 
 
 
 ## Confidential Links & Embeds: 

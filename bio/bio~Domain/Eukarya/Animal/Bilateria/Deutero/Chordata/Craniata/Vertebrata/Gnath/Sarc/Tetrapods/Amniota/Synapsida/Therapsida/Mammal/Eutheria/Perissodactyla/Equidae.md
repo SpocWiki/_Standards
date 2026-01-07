@@ -49,7 +49,7 @@ start_time: -54000000-06
 >
 > The term equid refers to any member of this family, including any equine.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Equidae)
+> [Wikipedia](https://en.wikipedia.org/wiki/Equidae) 
 
 
 Equids are characterized by their large size, herbivorous diet, and distinctive hooves. 

@@ -43,7 +43,7 @@ Baidu_Tieba_name: 德国牧羊犬
 >
 > It was originally bred as a herding dog, for herding sheep. It has since been used in many other types of work, including disability assistance, search-and-rescue, police work, and warfare. It is commonly kept as a companion dog, and according to the Fédération Cynologique Internationale had the second-highest number of annual registrations in 2013.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/German%20Shepherd)
+> [Wikipedia](https://en.wikipedia.org/wiki/German%20Shepherd) 
 
 
 ## Confidential Links & Embeds: 

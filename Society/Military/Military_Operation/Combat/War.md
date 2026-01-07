@@ -102,7 +102,7 @@ Wikidata_property: conflict
 >
 > While some war studies scholars consider war a universal and ancestral aspect of human nature, others argue it is a result of specific socio-cultural, economic, or ecological circumstances.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/War)
+> [Wikipedia](https://en.wikipedia.org/wiki/War) 
 
 
 ```mermaid

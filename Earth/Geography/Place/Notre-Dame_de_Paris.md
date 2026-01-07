@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1163-01-01 
+location: [ 2.3498 , 48.853 ] 
 aliases:
   - Notre-Dame de Paris
   - Notre-Dame

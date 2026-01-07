@@ -21,7 +21,7 @@ aliases:
 > as well as inspiring comic strips and children's TV characters 
 > and having things named after it.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Max%20and%20Moritz)
+> [Wikipedia](https://en.wikipedia.org/wiki/Max%20and%20Moritz) 
 
 
 ## Confidential Links & Embeds: 

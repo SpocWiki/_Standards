@@ -52,7 +52,7 @@ UMLS_CUI: C0816871
 >
 > Vertebrates are animals with an endoskeleton centered around an axial vertebral column, and their skeletons are typically composed of bones and cartilages. Invertebrates are other animals that lack a vertebral column, and their skeletons vary, including hard-shelled exoskeleton (arthropods and most molluscs), plated internal shells (e.g. cuttlebones in some cephalopods) or rods (e.g. ossicles in echinoderms), hydrostatically supported body cavities (most), and spicules (sponges). Cartilage is a rigid connective tissue that is found in the skeletal systems of vertebrates and invertebrates.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Skeleton)
+> [Wikipedia](https://en.wikipedia.org/wiki/Skeleton) 
 
 
 ## Confidential Links & Embeds: 

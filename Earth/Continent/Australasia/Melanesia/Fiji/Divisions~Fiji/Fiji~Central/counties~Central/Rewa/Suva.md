@@ -93,7 +93,7 @@ maxZoom: 18
 >
 > Suva is the political, economic, and cultural centre of Fiji. It is also the economic and cultural capital of the South Pacific, hosting the majority of the regional headquarters of major international corporations, international agencies, and diplomatic missions. The city also has a thriving arts and performance scene, and a growing reputation as the region's fashion capital.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Suva)
+> [Wikipedia](https://en.wikipedia.org/wiki/Suva) 
 
 
 ## Confidential Links & Embeds: 

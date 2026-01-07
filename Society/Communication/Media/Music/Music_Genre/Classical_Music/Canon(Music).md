@@ -45,7 +45,7 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/KANON.html
 > An accompanied canon is a canon accompanied by one or more additional independent parts 
 > that do not imitate the melody.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Canon%20(music))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Canon%20(music)) 
 
 
 ## Confidential Links & Embeds: 

@@ -172,7 +172,7 @@ work_period_start_: 1859-06-01
 >
 > While his music has remained popular among audiences, critical opinions were initially mixed. Some Russians did not feel it sufficiently represented native musical values and expressed suspicion that Europeans accepted the music for its Western elements. In an apparent reinforcement of that claim, some Europeans lauded Tchaikovsky for offering music more substantive than exoticism, and said he transcended the stereotypes of Russian classical music. Others dismissed Tchaikovsky's music as deficient because it did not stringently follow Western principles.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pyotr%20Ilyich%20Tchaikovsky)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pyotr%20Ilyich%20Tchaikovsky) 
 
 
 ## Confidential Links & Embeds: 

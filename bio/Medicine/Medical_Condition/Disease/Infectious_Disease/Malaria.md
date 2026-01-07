@@ -145,7 +145,7 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/malaria
 >
 > The disease is widespread in the tropical and subtropical regions that exist in a broad band around the equator. This includes much of sub-Saharan Africa, Asia, and Latin America. In 2022, some 249 million cases of malaria worldwide resulted in an estimated 608,000 deaths, with 80 percent being five years old or less. Around 95% of the cases and deaths occurred in sub-Saharan Africa. Rates of disease decreased from 2010 to 2014, but increased from 2015 to 2021. According to UNICEF, nearly every minute, a child under five died of malaria in 2021, and "many of these deaths are preventable and treatable". Malaria is commonly associated with poverty and has a significant negative effect on economic development. In Africa, it is estimated to result in losses of US$12 billion a year due to increased healthcare costs, lost ability to work, and adverse effects on tourism. The malaria caseload in India was slashed by 69 per cent from 6.4 million (64 lakh) in 2017 to two million (20 lakh) in 2023. Similarly, the estimated malaria deaths decreased from 11,100 to 3,500 (a 68-per cent decrease) in the same period.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Malaria)
+> [Wikipedia](https://en.wikipedia.org/wiki/Malaria) 
 
 
 ## Confidential Links & Embeds: 

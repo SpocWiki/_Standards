@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0082-01-01 
+location: [ 12.492222222 , 41.890277777 ] 
 aliases:
   - Colosseum
 has_id_wikidata: Q10285

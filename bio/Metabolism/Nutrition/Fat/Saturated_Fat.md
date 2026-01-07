@@ -25,11 +25,7 @@ has_part_s_:
 >
 > Guidelines released by many medical organizations, including the World Health Organization, have advocated for reduction in the intake of saturated fat to promote health and reduce the risk from cardiovascular diseases.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Saturated%20fat)  
-
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Saturated%20fat) 
 
 
 ## Confidential Links & Embeds: 
