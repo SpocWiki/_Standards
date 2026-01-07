@@ -51,26 +51,26 @@ sRGB_color_hex_triplet: F875A7
 > [Wikipedia](https://en.wikipedia.org/wiki/Statherian) 
 
 
-#has_/label_/bg  :: Статер
-#has_/label_/cs  :: Stather
-#has_/label_/da  :: Statherien
-#has_/label_/de  :: Statherium
-#has_/label_/es  :: Statheriense
-#has_/label_/et  :: Stather
-#has_/label_/fi  :: Stather
-#has_/label_/fr  :: Stathérien
-#has_/label_/hu  :: statheri
-#has_/label_/it  :: statheriano
-#has_/label_/ja  :: スタテリアン紀
-#has_/label_/lt  :: Stateris
-#has_/label_/nl  :: Statheriën
-#has_/label_/no  :: Staterium
-#has_/label_/pl  :: Stater
-#has_/label_/pt  :: Stateriano
-#has_/label_/sk  :: staterium
-#has_/label_/sl  :: statherij
-#has_/label_/sv  :: staterium
-#has_/label_/zh  :: 固结纪
+#has_/name_/bg  :: Статер
+#has_/name_/cs  :: Stather
+#has_/name_/da  :: Statherien
+#has_/name_/de  :: Statherium
+#has_/name_/es  :: Statheriense
+#has_/name_/et  :: Stather
+#has_/name_/fi  :: Stather
+#has_/name_/fr  :: Stathérien
+#has_/name_/hu  :: statheri
+#has_/name_/it  :: statheriano
+#has_/name_/ja  :: スタテリアン紀
+#has_/name_/lt  :: Stateris
+#has_/name_/nl  :: Statheriën
+#has_/name_/no  :: Staterium
+#has_/name_/pl  :: Stater
+#has_/name_/pt  :: Stateriano
+#has_/name_/sk  :: staterium
+#has_/name_/sl  :: statherij
+#has_/name_/sv  :: staterium
+#has_/name_/zh  :: 固结纪
 
 #has_/abbreviation :: PP4
 

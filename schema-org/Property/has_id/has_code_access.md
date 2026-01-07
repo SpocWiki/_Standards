@@ -28,6 +28,8 @@ title: has_code_access
 type: Pred_Text
 ---
 
+# [[has_code_access]] 
+
 Predicate to describe the Text of DeliveryEvent.
 
 Use it like this: 

@@ -56,26 +56,26 @@ A time period from 393.3 to 387.7 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Eifelian) 
 
 
-#has_/label_/bg  :: пйфел
-#has_/label_/cs  :: Eifel
-#has_/label_/da  :: Eifelien
-#has_/label_/de  :: Eifelium
-#has_/label_/es  :: Eifeliense
-#has_/label_/et  :: Eifeli
-#has_/label_/fi  :: Eifel
-#has_/label_/fr  :: Eifélien
-#has_/label_/hu  :: eifeli
-#has_/label_/it  :: eifeliano
-#has_/label_/ja  :: アイフェリアン期
-#has_/label_/lt  :: Eifelis
-#has_/label_/nl  :: Eifeliën
-#has_/label_/no  :: Eifelium
-#has_/label_/pl  :: Eifel
-#has_/label_/pt  :: Eifeliano
-#has_/label_/sk  :: eifel
-#has_/label_/sl  :: eifelij
-#has_/label_/sv  :: eifel
-#has_/label_/zh  :: 艾菲尔期
+#has_/name_/bg  :: пйфел
+#has_/name_/cs  :: Eifel
+#has_/name_/da  :: Eifelien
+#has_/name_/de  :: Eifelium
+#has_/name_/es  :: Eifeliense
+#has_/name_/et  :: Eifeli
+#has_/name_/fi  :: Eifel
+#has_/name_/fr  :: Eifélien
+#has_/name_/hu  :: eifeli
+#has_/name_/it  :: eifeliano
+#has_/name_/ja  :: アイフェリアン期
+#has_/name_/lt  :: Eifelis
+#has_/name_/nl  :: Eifeliën
+#has_/name_/no  :: Eifelium
+#has_/name_/pl  :: Eifel
+#has_/name_/pt  :: Eifeliano
+#has_/name_/sk  :: eifel
+#has_/name_/sl  :: eifelij
+#has_/name_/sv  :: eifel
+#has_/name_/zh  :: 艾菲尔期
 
 #has_/abbreviation :: d4
 #has_/time_/started :: -393.3e6 

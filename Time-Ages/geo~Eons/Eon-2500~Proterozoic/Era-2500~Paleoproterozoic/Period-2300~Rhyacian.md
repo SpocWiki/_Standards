@@ -56,26 +56,26 @@ IPA_transcription: raɪˈeɪsiən
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhyacian) 
 
 
-#has_/label_/bg  :: Риац
-#has_/label_/cs  :: Rhyak
-#has_/label_/da  :: Rhyacien
-#has_/label_/de  :: Rhyacium
-#has_/label_/es  :: Ryaciense
-#has_/label_/et  :: Rhyac
-#has_/label_/fi  :: Ryak
-#has_/label_/fr  :: Rhyacien
-#has_/label_/hu  :: rhyaci
-#has_/label_/it  :: rhyaciano
-#has_/label_/ja  :: リヤシアン紀
-#has_/label_/lt  :: Riacis
-#has_/label_/nl  :: Rhyaciën
-#has_/label_/no  :: Ryasium
-#has_/label_/pl  :: Riak
-#has_/label_/pt  :: Riaciano
-#has_/label_/sk  :: rhyacium
-#has_/label_/sl  :: rhyacij
-#has_/label_/sv  :: ryacium
-#has_/label_/zh  :: 层侵纪
+#has_/name_/bg  :: Риац
+#has_/name_/cs  :: Rhyak
+#has_/name_/da  :: Rhyacien
+#has_/name_/de  :: Rhyacium
+#has_/name_/es  :: Ryaciense
+#has_/name_/et  :: Rhyac
+#has_/name_/fi  :: Ryak
+#has_/name_/fr  :: Rhyacien
+#has_/name_/hu  :: rhyaci
+#has_/name_/it  :: rhyaciano
+#has_/name_/ja  :: リヤシアン紀
+#has_/name_/lt  :: Riacis
+#has_/name_/nl  :: Rhyaciën
+#has_/name_/no  :: Ryasium
+#has_/name_/pl  :: Riak
+#has_/name_/pt  :: Riaciano
+#has_/name_/sk  :: rhyacium
+#has_/name_/sl  :: rhyacij
+#has_/name_/sv  :: ryacium
+#has_/name_/zh  :: 层侵纪
 
 #has_/abbreviation :: PP2
 

@@ -42,26 +42,26 @@ A time period from 154.8 to 149.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Kimmeridgian) 
 
 
-#has_/label_/bg  :: Кимеридж
-#has_/label_/cs  :: Kimmeridž
-#has_/label_/da  :: Kimmeridgien
-#has_/label_/de  :: Kimmeridgium
-#has_/label_/es  :: Kimmeridgiense
-#has_/label_/et  :: Kimmeridge
-#has_/label_/fi  :: Kimmeridge
-#has_/label_/fr  :: Kimméridgien
-#has_/label_/hu  :: kimmeridgei
-#has_/label_/it  :: kimmeridgiano
-#has_/label_/ja  :: キンメリッジアン期
-#has_/label_/lt  :: Kimeridis
-#has_/label_/nl  :: Kimmeridgiën
-#has_/label_/no  :: Kimmeridge
-#has_/label_/pl  :: Kimeryd
-#has_/label_/pt  :: Kimeridgiano
-#has_/label_/sk  :: kimeridž
-#has_/label_/sl  :: kimmeridgij
-#has_/label_/sv  :: kimmeridge
-#has_/label_/zh  :: 启莫里支期
+#has_/name_/bg  :: Кимеридж
+#has_/name_/cs  :: Kimmeridž
+#has_/name_/da  :: Kimmeridgien
+#has_/name_/de  :: Kimmeridgium
+#has_/name_/es  :: Kimmeridgiense
+#has_/name_/et  :: Kimmeridge
+#has_/name_/fi  :: Kimmeridge
+#has_/name_/fr  :: Kimméridgien
+#has_/name_/hu  :: kimmeridgei
+#has_/name_/it  :: kimmeridgiano
+#has_/name_/ja  :: キンメリッジアン期
+#has_/name_/lt  :: Kimeridis
+#has_/name_/nl  :: Kimmeridgiën
+#has_/name_/no  :: Kimmeridge
+#has_/name_/pl  :: Kimeryd
+#has_/name_/pt  :: Kimeridgiano
+#has_/name_/sk  :: kimeridž
+#has_/name_/sl  :: kimmeridgij
+#has_/name_/sv  :: kimmeridge
+#has_/name_/zh  :: 启莫里支期
 
 #has_/abbreviation :: j6
 

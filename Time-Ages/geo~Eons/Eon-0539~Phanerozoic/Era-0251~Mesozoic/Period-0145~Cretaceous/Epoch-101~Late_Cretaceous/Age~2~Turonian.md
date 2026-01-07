@@ -38,26 +38,26 @@ A time period from 93.9 to 89.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Turonian) 
 
 
-#has_/label_/bg  :: Турон
-#has_/label_/cs  :: Turon
-#has_/label_/da  :: Turonien
-#has_/label_/de  :: Turonium
-#has_/label_/es  :: Turoniense
-#has_/label_/et  :: Turoni
-#has_/label_/fi  :: Turon
-#has_/label_/fr  :: Turonien
-#has_/label_/hu  :: turon
-#has_/label_/it  :: turoniano
-#has_/label_/ja  :: チュロニアン期
-#has_/label_/lt  :: Turonis
-#has_/label_/nl  :: Tuironiën
-#has_/label_/no  :: Turonium
-#has_/label_/pl  :: Turon
-#has_/label_/pt  :: Turoniano
-#has_/label_/sk  :: turón
-#has_/label_/sl  :: turonij
-#has_/label_/sv  :: turon
-#has_/label_/zh  :: 土仑期
+#has_/name_/bg  :: Турон
+#has_/name_/cs  :: Turon
+#has_/name_/da  :: Turonien
+#has_/name_/de  :: Turonium
+#has_/name_/es  :: Turoniense
+#has_/name_/et  :: Turoni
+#has_/name_/fi  :: Turon
+#has_/name_/fr  :: Turonien
+#has_/name_/hu  :: turon
+#has_/name_/it  :: turoniano
+#has_/name_/ja  :: チュロニアン期
+#has_/name_/lt  :: Turonis
+#has_/name_/nl  :: Tuironiën
+#has_/name_/no  :: Turonium
+#has_/name_/pl  :: Turon
+#has_/name_/pt  :: Turoniano
+#has_/name_/sk  :: turón
+#has_/name_/sl  :: turonij
+#has_/name_/sv  :: turon
+#has_/name_/zh  :: 土仑期
 
 #has_/abbreviation :: k2
 

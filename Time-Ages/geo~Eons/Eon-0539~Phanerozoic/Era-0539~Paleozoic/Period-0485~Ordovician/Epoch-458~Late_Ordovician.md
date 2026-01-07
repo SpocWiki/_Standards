@@ -60,22 +60,22 @@ A time period from 458.4 to 443.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Late%20Ordovician) 
 
 
-#has_/label_/bg  :: Къѿен Ордовик
-#has_/label_/cs  :: Pozdní ordovik
-#has_/label_/da  :: Sen Ordovicium
-#has_/label_/de  :: Spätes Ordovizium
-#has_/label_/et  :: Hilis-Ordoviitsium
-#has_/label_/fi  :: Myöhäis-Ordoviikki
-#has_/label_/hu  :: késő-ordovícium
-#has_/label_/ja  :: 後期オルドビス紀
-#has_/label_/lt  :: Vėlyvasis Ordovikas
-#has_/label_/nl  :: Laat Ordovicium
-#has_/label_/no  :: Sen ordovicium
-#has_/label_/pl  :: Późny Ordowik
-#has_/label_/sk  :: mladší ordovik
-#has_/label_/sl  :: starejši ordovicij
-#has_/label_/sv  :: yngre ordovicium
-#has_/label_/zh  :: 晚奥陶世
+#has_/name_/bg  :: Къѿен Ордовик
+#has_/name_/cs  :: Pozdní ordovik
+#has_/name_/da  :: Sen Ordovicium
+#has_/name_/de  :: Spätes Ordovizium
+#has_/name_/et  :: Hilis-Ordoviitsium
+#has_/name_/fi  :: Myöhäis-Ordoviikki
+#has_/name_/hu  :: késő-ordovícium
+#has_/name_/ja  :: 後期オルドビス紀
+#has_/name_/lt  :: Vėlyvasis Ordovikas
+#has_/name_/nl  :: Laat Ordovicium
+#has_/name_/no  :: Sen ordovicium
+#has_/name_/pl  :: Późny Ordowik
+#has_/name_/sk  :: mladší ordovik
+#has_/name_/sl  :: starejši ordovicij
+#has_/name_/sv  :: yngre ordovicium
+#has_/name_/zh  :: 晚奥陶世
 
 #has_/abbreviation :: O3
 

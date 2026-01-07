@@ -49,26 +49,26 @@ A time period from 443.8 to 440.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhuddanian) 
 
 
-#has_/label_/bg  :: Рудан
-#has_/label_/cs  :: Rhuddan
-#has_/label_/da  :: Rhuddanien
-#has_/label_/de  :: Rhuddanium
-#has_/label_/es  :: Rhuddaniense
-#has_/label_/et  :: Rhuddani
-#has_/label_/fi  :: Rhuddan
-#has_/label_/fr  :: Rhuddanien
-#has_/label_/hu  :: rhuddani
-#has_/label_/it  :: rhuddaniano
-#has_/label_/ja  :: ルダニアン期
-#has_/label_/lt  :: Rudanis
-#has_/label_/nl  :: Rhuddaniën
-#has_/label_/no  :: Rhuddanium
-#has_/label_/pl  :: Rhuddan
-#has_/label_/pt  :: Rudaniano
-#has_/label_/sk  :: rhuddan
-#has_/label_/sl  :: rhuddanij
-#has_/label_/sv  :: rhuddan
-#has_/label_/zh  :: 鲁丹期
+#has_/name_/bg  :: Рудан
+#has_/name_/cs  :: Rhuddan
+#has_/name_/da  :: Rhuddanien
+#has_/name_/de  :: Rhuddanium
+#has_/name_/es  :: Rhuddaniense
+#has_/name_/et  :: Rhuddani
+#has_/name_/fi  :: Rhuddan
+#has_/name_/fr  :: Rhuddanien
+#has_/name_/hu  :: rhuddani
+#has_/name_/it  :: rhuddaniano
+#has_/name_/ja  :: ルダニアン期
+#has_/name_/lt  :: Rudanis
+#has_/name_/nl  :: Rhuddaniën
+#has_/name_/no  :: Rhuddanium
+#has_/name_/pl  :: Rhuddan
+#has_/name_/pt  :: Rudaniano
+#has_/name_/sk  :: rhuddan
+#has_/name_/sl  :: rhuddanij
+#has_/name_/sv  :: rhuddan
+#has_/name_/zh  :: 鲁丹期
 
 #has_/abbreviation :: s1
 

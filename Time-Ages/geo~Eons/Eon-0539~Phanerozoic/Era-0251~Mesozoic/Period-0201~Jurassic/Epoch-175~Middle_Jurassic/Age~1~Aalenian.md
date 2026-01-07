@@ -40,26 +40,26 @@ A time period from 174.7 to 170.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Aalenian) 
 
 
-#has_/label_/bg  :: пален
-#has_/label_/cs  :: Aalen
-#has_/label_/da  :: Aalenien
-#has_/label_/de  :: Aalénium
-#has_/label_/es  :: Aaleniense
-#has_/label_/et  :: Aaleni
-#has_/label_/fi  :: Aalen
-#has_/label_/fr  :: Aalénien
-#has_/label_/hu  :: aaleni
-#has_/label_/it  :: aaleniano
-#has_/label_/ja  :: アーレニアン期
-#has_/label_/lt  :: Alenis
-#has_/label_/nl  :: Aaleniën
-#has_/label_/no  :: Aalen
-#has_/label_/pl  :: Aalen
-#has_/label_/pt  :: Aaleniano
-#has_/label_/sk  :: álen
-#has_/label_/sl  :: aalenij
-#has_/label_/sv  :: aalen
-#has_/label_/zh  :: 阿连期
+#has_/name_/bg  :: пален
+#has_/name_/cs  :: Aalen
+#has_/name_/da  :: Aalenien
+#has_/name_/de  :: Aalénium
+#has_/name_/es  :: Aaleniense
+#has_/name_/et  :: Aaleni
+#has_/name_/fi  :: Aalen
+#has_/name_/fr  :: Aalénien
+#has_/name_/hu  :: aaleni
+#has_/name_/it  :: aaleniano
+#has_/name_/ja  :: アーレニアン期
+#has_/name_/lt  :: Alenis
+#has_/name_/nl  :: Aaleniën
+#has_/name_/no  :: Aalen
+#has_/name_/pl  :: Aalen
+#has_/name_/pt  :: Aaleniano
+#has_/name_/sk  :: álen
+#has_/name_/sl  :: aalenij
+#has_/name_/sv  :: aalen
+#has_/name_/zh  :: 阿连期
 
 #has_/abbreviation :: j1
 

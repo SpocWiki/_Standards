@@ -55,26 +55,26 @@ A time period from 393.3 to 382.7 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Devonian) 
 
 
-#has_/label_/bg  :: Среден Девон
-#has_/label_/cs  :: Střední devon
-#has_/label_/da  :: Mellem Devon
-#has_/label_/de  :: Mitteldevon
-#has_/label_/es  :: Devónico Medio
-#has_/label_/et  :: Kesk-Devon
-#has_/label_/fi  :: Keski-Devoni
-#has_/label_/fr  :: Dévonien moyen
-#has_/label_/hu  :: középső-devon
-#has_/label_/it  :: devoniano medio
-#has_/label_/ja  :: 中期デボン紀
-#has_/label_/lt  :: Vidurinis Devonas
-#has_/label_/nl  :: Midden Devoon
-#has_/label_/no  :: Midtre devon
-#has_/label_/pl  :: Środkowy Dewon
-#has_/label_/pt  :: Devónico Médio
-#has_/label_/sk  :: stredný devón
-#has_/label_/sl  :: srednji devon
-#has_/label_/sv  :: mellersta devon
-#has_/label_/zh  :: 中泥盆世
+#has_/name_/bg  :: Среден Девон
+#has_/name_/cs  :: Střední devon
+#has_/name_/da  :: Mellem Devon
+#has_/name_/de  :: Mitteldevon
+#has_/name_/es  :: Devónico Medio
+#has_/name_/et  :: Kesk-Devon
+#has_/name_/fi  :: Keski-Devoni
+#has_/name_/fr  :: Dévonien moyen
+#has_/name_/hu  :: középső-devon
+#has_/name_/it  :: devoniano medio
+#has_/name_/ja  :: 中期デボン紀
+#has_/name_/lt  :: Vidurinis Devonas
+#has_/name_/nl  :: Midden Devoon
+#has_/name_/no  :: Midtre devon
+#has_/name_/pl  :: Środkowy Dewon
+#has_/name_/pt  :: Devónico Médio
+#has_/name_/sk  :: stredný devón
+#has_/name_/sl  :: srednji devon
+#has_/name_/sv  :: mellersta devon
+#has_/name_/zh  :: 中泥盆世
 
 #has_/abbreviation :: D2
 

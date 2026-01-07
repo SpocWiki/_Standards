@@ -70,26 +70,26 @@ A time period from 1.8 to 0.774 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Calabrian%20(stage)) 
 
 
-#has_/label_/bg  :: Калабрий
-#has_/label_/cs  :: Calabr
-#has_/label_/da  :: Calabrian
-#has_/label_/de  :: Calabrium
-#has_/label_/es  :: Calabriense
-#has_/label_/et  :: Kalaabria
-#has_/label_/fi  :: Calabria
-#has_/label_/fr  :: Calabrien
-#has_/label_/hu  :: kalabriai
-#has_/label_/it  :: calabriano
-#has_/label_/ja  :: カラブリア期
-#has_/label_/lt  :: Kalabris
-#has_/label_/nl  :: Onder Pleistoceen/ Hoog Terras
-#has_/label_/no  :: Calabrium
-#has_/label_/pl  :: Kalambr
-#has_/label_/pt  :: Calabriano
-#has_/label_/sk  :: kalábrian
-#has_/label_/sl  :: calabrij
-#has_/label_/sv  :: calabr
-#has_/label_/zh  :: 卡拉布里亚期
+#has_/name_/bg  :: Калабрий
+#has_/name_/cs  :: Calabr
+#has_/name_/da  :: Calabrian
+#has_/name_/de  :: Calabrium
+#has_/name_/es  :: Calabriense
+#has_/name_/et  :: Kalaabria
+#has_/name_/fi  :: Calabria
+#has_/name_/fr  :: Calabrien
+#has_/name_/hu  :: kalabriai
+#has_/name_/it  :: calabriano
+#has_/name_/ja  :: カラブリア期
+#has_/name_/lt  :: Kalabris
+#has_/name_/nl  :: Onder Pleistoceen/ Hoog Terras
+#has_/name_/no  :: Calabrium
+#has_/name_/pl  :: Kalambr
+#has_/name_/pt  :: Calabriano
+#has_/name_/sk  :: kalábrian
+#has_/name_/sl  :: calabrij
+#has_/name_/sv  :: calabr
+#has_/name_/zh  :: 卡拉布里亚期
 
 #has_/abbreviation :: q2
 

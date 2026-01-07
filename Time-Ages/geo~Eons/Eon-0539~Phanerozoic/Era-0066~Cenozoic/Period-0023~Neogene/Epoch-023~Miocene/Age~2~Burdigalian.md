@@ -34,26 +34,26 @@ A time period from 20.44 to 15.98 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Burdigalian) 
 
 
-#has_/label_/bg  :: Бурдигал
-#has_/label_/cs  :: Burdigal
-#has_/label_/da  :: Burdigalien
-#has_/label_/de  :: Burdigalium
-#has_/label_/es  :: Burdigaliense
-#has_/label_/et  :: Burdigali
-#has_/label_/fi  :: Burdigal
-#has_/label_/fr  :: Burdigalien
-#has_/label_/hu  :: burdigaliai
-#has_/label_/it  :: burdigaliano
-#has_/label_/ja  :: バーディガリアン期
-#has_/label_/lt  :: Burdigalis
-#has_/label_/nl  :: Burdigaliën-Hemmoor
-#has_/label_/no  :: Burdigalium
-#has_/label_/pl  :: Burdygał
-#has_/label_/pt  :: Burdigaliano
-#has_/label_/sk  :: burdigal
-#has_/label_/sl  :: burdigalij
-#has_/label_/sv  :: burdigal
-#has_/label_/zh  :: 布迪加尔期
+#has_/name_/bg  :: Бурдигал
+#has_/name_/cs  :: Burdigal
+#has_/name_/da  :: Burdigalien
+#has_/name_/de  :: Burdigalium
+#has_/name_/es  :: Burdigaliense
+#has_/name_/et  :: Burdigali
+#has_/name_/fi  :: Burdigal
+#has_/name_/fr  :: Burdigalien
+#has_/name_/hu  :: burdigaliai
+#has_/name_/it  :: burdigaliano
+#has_/name_/ja  :: バーディガリアン期
+#has_/name_/lt  :: Burdigalis
+#has_/name_/nl  :: Burdigaliën-Hemmoor
+#has_/name_/no  :: Burdigalium
+#has_/name_/pl  :: Burdygał
+#has_/name_/pt  :: Burdigaliano
+#has_/name_/sk  :: burdigal
+#has_/name_/sl  :: burdigalij
+#has_/name_/sv  :: burdigal
+#has_/name_/zh  :: 布迪加尔期
 
 #has_/abbreviation :: n2
 #has_/time_/started :: -20.44e6 

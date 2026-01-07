@@ -48,26 +48,26 @@ A time period from 433.4 to 427.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Wenlock%20Epoch) 
 
 
-#has_/label_/bg  :: Венлок
-#has_/label_/cs  :: Wenlock
-#has_/label_/da  :: Wenlock
-#has_/label_/de  :: Wenlock
-#has_/label_/es  :: Wenlock
-#has_/label_/et  :: Wenlock
-#has_/label_/fi  :: Wenlock
-#has_/label_/fr  :: Wenlock
-#has_/label_/hu  :: wenlocki
-#has_/label_/it  :: wenlockiano
-#has_/label_/ja  :: ウェンロッキアン世
-#has_/label_/lt  :: Uenlokis
-#has_/label_/nl  :: Wenlock
-#has_/label_/no  :: Welnlock
-#has_/label_/pl  :: Wenlok
-#has_/label_/pt  :: Wenlock
-#has_/label_/sk  :: wenlock
-#has_/label_/sl  :: wenlockij
-#has_/label_/sv  :: wenlock
-#has_/label_/zh  :: 温洛克世
+#has_/name_/bg  :: Венлок
+#has_/name_/cs  :: Wenlock
+#has_/name_/da  :: Wenlock
+#has_/name_/de  :: Wenlock
+#has_/name_/es  :: Wenlock
+#has_/name_/et  :: Wenlock
+#has_/name_/fi  :: Wenlock
+#has_/name_/fr  :: Wenlock
+#has_/name_/hu  :: wenlocki
+#has_/name_/it  :: wenlockiano
+#has_/name_/ja  :: ウェンロッキアン世
+#has_/name_/lt  :: Uenlokis
+#has_/name_/nl  :: Wenlock
+#has_/name_/no  :: Welnlock
+#has_/name_/pl  :: Wenlok
+#has_/name_/pt  :: Wenlock
+#has_/name_/sk  :: wenlock
+#has_/name_/sl  :: wenlockij
+#has_/name_/sv  :: wenlock
+#has_/name_/zh  :: 温洛克世
 
 #has_/abbreviation :: S2
 

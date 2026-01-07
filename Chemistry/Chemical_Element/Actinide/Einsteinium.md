@@ -56,18 +56,18 @@ UNII: WV8XL34X3O
 
 
 
-[Name-en::Einsteinium]
-[Name-de::Einsteinium]
+[#has_/name_/en::Einsteinium]
+[#has_/name_/de::Einsteinium]
 (Abbr::Es)
-[Weight-u::254]
+[#has_/value_for_/weight_/u::254]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[Radius-nm::6.42]
+[#has_/radius_/nm::6.42]
 [Electronegative::1.3]
 [Density::0]
-[MeltingPoint-C::0]
-[BoilingPoint-C::0]
+[#has_/value_for_/temperature_/melt_/c ::0]
+[#has_/value_for_/temperature_/boil_/c ::0]
 [HeatCapacity::0]
 [HeatConduct::0.1]
 [Enthalpy::0]

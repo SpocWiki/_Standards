@@ -72,26 +72,26 @@ A time period from 382.7 to 372.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Frasnian) 
 
 
-#has_/label_/bg  :: Фран
-#has_/label_/cs  :: Frasn
-#has_/label_/da  :: Frasnien
-#has_/label_/de  :: Frasnium
-#has_/label_/es  :: Frasniense
-#has_/label_/et  :: Frasne
-#has_/label_/fi  :: Frasn
-#has_/label_/fr  :: Frasnien
-#has_/label_/hu  :: frasni
-#has_/label_/it  :: frasniano
-#has_/label_/ja  :: フラスニアン期
-#has_/label_/lt  :: Franis
-#has_/label_/nl  :: Frasniën
-#has_/label_/no  :: Frasneium
-#has_/label_/pl  :: Fran
-#has_/label_/pt  :: Frasniano
-#has_/label_/sk  :: frasn
-#has_/label_/sl  :: frasnij
-#has_/label_/sv  :: frasn
-#has_/label_/zh  :: 弗拉斯期
+#has_/name_/bg  :: Фран
+#has_/name_/cs  :: Frasn
+#has_/name_/da  :: Frasnien
+#has_/name_/de  :: Frasnium
+#has_/name_/es  :: Frasniense
+#has_/name_/et  :: Frasne
+#has_/name_/fi  :: Frasn
+#has_/name_/fr  :: Frasnien
+#has_/name_/hu  :: frasni
+#has_/name_/it  :: frasniano
+#has_/name_/ja  :: フラスニアン期
+#has_/name_/lt  :: Franis
+#has_/name_/nl  :: Frasniën
+#has_/name_/no  :: Frasneium
+#has_/name_/pl  :: Fran
+#has_/name_/pt  :: Frasniano
+#has_/name_/sk  :: frasn
+#has_/name_/sl  :: frasnij
+#has_/name_/sv  :: frasn
+#has_/name_/zh  :: 弗拉斯期
 
 #has_/abbreviation :: d6
 

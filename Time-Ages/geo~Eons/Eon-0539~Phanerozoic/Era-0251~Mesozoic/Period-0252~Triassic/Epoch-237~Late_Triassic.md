@@ -41,22 +41,22 @@ A time period from 237 to 201.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Late%20Triassic) 
 
 
-#has_/label_/bg  :: Къѿен Триаѿ
-#has_/label_/cs  :: Pozdní trias
-#has_/label_/da  :: Sen Triassisk
-#has_/label_/de  :: Späte Trias
-#has_/label_/et  :: Hilis-Triias
-#has_/label_/fi  :: Myöhäis-Trias
-#has_/label_/hu  :: késő-triász
-#has_/label_/ja  :: 後期三畳紀
-#has_/label_/lt  :: Vėlyvasis Triasas
-#has_/label_/nl  :: Laat Trias
-#has_/label_/no  :: Sen trias
-#has_/label_/pl  :: Późny Trias
-#has_/label_/sk  :: mladší trias
-#has_/label_/sl  :: pozni trias
-#has_/label_/sv  :: yngre trias
-#has_/label_/zh  :: 晚三叠世
+#has_/name_/bg  :: Къѿен Триаѿ
+#has_/name_/cs  :: Pozdní trias
+#has_/name_/da  :: Sen Triassisk
+#has_/name_/de  :: Späte Trias
+#has_/name_/et  :: Hilis-Triias
+#has_/name_/fi  :: Myöhäis-Trias
+#has_/name_/hu  :: késő-triász
+#has_/name_/ja  :: 後期三畳紀
+#has_/name_/lt  :: Vėlyvasis Triasas
+#has_/name_/nl  :: Laat Trias
+#has_/name_/no  :: Sen trias
+#has_/name_/pl  :: Późny Trias
+#has_/name_/sk  :: mladší trias
+#has_/name_/sl  :: pozni trias
+#has_/name_/sv  :: yngre trias
+#has_/name_/zh  :: 晚三叠世
 
 #has_/abbreviation :: T3
 

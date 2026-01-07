@@ -56,26 +56,26 @@ A time period from 514 to 509 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%204) 
 
 
-#has_/label_/bg  :: Камбрий - 4 етаж
-#has_/label_/cs  :: Kambrium-Stupeň 4
-#has_/label_/da  :: Kambrium-Etage 4
-#has_/label_/de  :: Kambrium-Stufe 4
-#has_/label_/es  :: Cámbrico-Piso 4
-#has_/label_/et  :: Kambrium, Lade 4
-#has_/label_/fi  :: Kambri-vaihe 4
-#has_/label_/fr  :: Cambrien-Etage 4
-#has_/label_/hu  :: kambrium 4. emelet
-#has_/label_/it  :: cambriano - stage 4
-#has_/label_/ja  :: 第4期
-#has_/label_/lt  :: Kambras-Aukšts 4
-#has_/label_/nl  :: Cambrium, Zone 4
-#has_/label_/no  :: Kambrium-etasje 4
-#has_/label_/pl  :: Kambr-Piętro 4
-#has_/label_/pt  :: Câmbrico-Piso 4
-#has_/label_/sk  :: kambrium, stupeň 4
-#has_/label_/sl  :: kambrij stopnja 4
-#has_/label_/sv  :: kambrium etage 4
-#has_/label_/zh  :: 第四期
+#has_/name_/bg  :: Камбрий - 4 етаж
+#has_/name_/cs  :: Kambrium-Stupeň 4
+#has_/name_/da  :: Kambrium-Etage 4
+#has_/name_/de  :: Kambrium-Stufe 4
+#has_/name_/es  :: Cámbrico-Piso 4
+#has_/name_/et  :: Kambrium, Lade 4
+#has_/name_/fi  :: Kambri-vaihe 4
+#has_/name_/fr  :: Cambrien-Etage 4
+#has_/name_/hu  :: kambrium 4. emelet
+#has_/name_/it  :: cambriano - stage 4
+#has_/name_/ja  :: 第4期
+#has_/name_/lt  :: Kambras-Aukšts 4
+#has_/name_/nl  :: Cambrium, Zone 4
+#has_/name_/no  :: Kambrium-etasje 4
+#has_/name_/pl  :: Kambr-Piętro 4
+#has_/name_/pt  :: Câmbrico-Piso 4
+#has_/name_/sk  :: kambrium, stupeň 4
+#has_/name_/sl  :: kambrij stopnja 4
+#has_/name_/sv  :: kambrium etage 4
+#has_/name_/zh  :: 第四期
 
 #has_/abbreviation :: ep4
 

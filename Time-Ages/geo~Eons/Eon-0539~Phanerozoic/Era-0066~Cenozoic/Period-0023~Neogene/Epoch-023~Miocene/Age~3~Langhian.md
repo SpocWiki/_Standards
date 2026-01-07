@@ -43,26 +43,26 @@ A time period from 15.98 to 13.82 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Langhian) 
 
 
-#has_/label_/bg  :: Ланг
-#has_/label_/cs  :: Langh
-#has_/label_/da  :: Langhien
-#has_/label_/de  :: Langhium
-#has_/label_/es  :: Langhiense
-#has_/label_/et  :: Langhi
-#has_/label_/fi  :: Langh
-#has_/label_/fr  :: Langhien
-#has_/label_/hu  :: langhei
-#has_/label_/it  :: langhiano
-#has_/label_/ja  :: ランギアン期
-#has_/label_/lt  :: Langis
-#has_/label_/nl  :: Langhiën-Reinbek
-#has_/label_/no  :: Langhium
-#has_/label_/pl  :: Lang
-#has_/label_/pt  :: Langhiano
-#has_/label_/sk  :: langh
-#has_/label_/sl  :: langhij
-#has_/label_/sv  :: langh
-#has_/label_/zh  :: 兰海期
+#has_/name_/bg  :: Ланг
+#has_/name_/cs  :: Langh
+#has_/name_/da  :: Langhien
+#has_/name_/de  :: Langhium
+#has_/name_/es  :: Langhiense
+#has_/name_/et  :: Langhi
+#has_/name_/fi  :: Langh
+#has_/name_/fr  :: Langhien
+#has_/name_/hu  :: langhei
+#has_/name_/it  :: langhiano
+#has_/name_/ja  :: ランギアン期
+#has_/name_/lt  :: Langis
+#has_/name_/nl  :: Langhiën-Reinbek
+#has_/name_/no  :: Langhium
+#has_/name_/pl  :: Lang
+#has_/name_/pt  :: Langhiano
+#has_/name_/sk  :: langh
+#has_/name_/sl  :: langhij
+#has_/name_/sv  :: langh
+#has_/name_/zh  :: 兰海期
 
 #has_/abbreviation :: n3
 

@@ -56,26 +56,26 @@ A time period from 290.1 to 283.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Artinskian) 
 
 
-#has_/label_/bg  :: пртин
-#has_/label_/cs  :: Artinsk
-#has_/label_/da  :: Artinskien
-#has_/label_/de  :: Artinskium
-#has_/label_/es  :: Artinskiense
-#has_/label_/et  :: Artinski
-#has_/label_/fi  :: Artinsk
-#has_/label_/fr  :: Artinskien
-#has_/label_/hu  :: artyinszki
-#has_/label_/it  :: artinskiano
-#has_/label_/ja  :: アルティンスキアン期
-#has_/label_/lt  :: Artinskis
-#has_/label_/nl  :: Artinskiën
-#has_/label_/no  :: Artiskium
-#has_/label_/pl  :: Artinsk
-#has_/label_/pt  :: Artinskiano
-#has_/label_/sk  :: artinsk
-#has_/label_/sl  :: artinskij
-#has_/label_/sv  :: artinsk
-#has_/label_/zh  :: 亚丁斯克期
+#has_/name_/bg  :: пртин
+#has_/name_/cs  :: Artinsk
+#has_/name_/da  :: Artinskien
+#has_/name_/de  :: Artinskium
+#has_/name_/es  :: Artinskiense
+#has_/name_/et  :: Artinski
+#has_/name_/fi  :: Artinsk
+#has_/name_/fr  :: Artinskien
+#has_/name_/hu  :: artyinszki
+#has_/name_/it  :: artinskiano
+#has_/name_/ja  :: アルティンスキアン期
+#has_/name_/lt  :: Artinskis
+#has_/name_/nl  :: Artinskiën
+#has_/name_/no  :: Artiskium
+#has_/name_/pl  :: Artinsk
+#has_/name_/pt  :: Artinskiano
+#has_/name_/sk  :: artinsk
+#has_/name_/sl  :: artinskij
+#has_/name_/sv  :: artinsk
+#has_/name_/zh  :: 亚丁斯克期
 
 #has_/abbreviation :: p3
 

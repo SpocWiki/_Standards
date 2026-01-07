@@ -52,26 +52,26 @@ A time period from 467.3 to 458.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Darriwilian) 
 
 
-#has_/label_/bg  :: Даривил
-#has_/label_/cs  :: Darriwil
-#has_/label_/da  :: Darriwilien
-#has_/label_/de  :: Darriwilium
-#has_/label_/es  :: Darriwiliense
-#has_/label_/et  :: Darriwili
-#has_/label_/fi  :: Darriwil
-#has_/label_/fr  :: Darriwilien
-#has_/label_/hu  :: darriwili
-#has_/label_/it  :: darriwilliano
-#has_/label_/ja  :: ダーリウィリアン期
-#has_/label_/lt  :: Darivilis
-#has_/label_/nl  :: Darriwiliën
-#has_/label_/no  :: Daewillium
-#has_/label_/pl  :: Darriwil
-#has_/label_/pt  :: Darriwiliano
-#has_/label_/sk  :: darriwil
-#has_/label_/sl  :: darriwilij
-#has_/label_/sv  :: darriwil
-#has_/label_/zh  :: 达瑞威尔期
+#has_/name_/bg  :: Даривил
+#has_/name_/cs  :: Darriwil
+#has_/name_/da  :: Darriwilien
+#has_/name_/de  :: Darriwilium
+#has_/name_/es  :: Darriwiliense
+#has_/name_/et  :: Darriwili
+#has_/name_/fi  :: Darriwil
+#has_/name_/fr  :: Darriwilien
+#has_/name_/hu  :: darriwili
+#has_/name_/it  :: darriwilliano
+#has_/name_/ja  :: ダーリウィリアン期
+#has_/name_/lt  :: Darivilis
+#has_/name_/nl  :: Darriwiliën
+#has_/name_/no  :: Daewillium
+#has_/name_/pl  :: Darriwil
+#has_/name_/pt  :: Darriwiliano
+#has_/name_/sk  :: darriwil
+#has_/name_/sl  :: darriwilij
+#has_/name_/sv  :: darriwil
+#has_/name_/zh  :: 达瑞威尔期
 
 #has_/abbreviation :: o4
 

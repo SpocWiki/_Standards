@@ -60,18 +60,18 @@ UNII: 2YQA718KUU
 
 
 
-[Name-en::Berkelium]
-[Name-de::Berkelium]
+[#has_/name_/en::Berkelium]
+[#has_/name_/de::Berkelium]
 (Abbr::Bk)
-[Weight-u::247]
+[#has_/value_for_/weight_/u::247]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[Radius-nm::6.23]
+[#has_/radius_/nm::6.23]
 [Electronegative::1.3]
 [Density::0]
-[MeltingPoint-C::0]
-[BoilingPoint-C::0]
+[#has_/value_for_/temperature_/melt_/c ::0]
+[#has_/value_for_/temperature_/boil_/c ::0]
 [HeatCapacity::0]
 [HeatConduct::0.1]
 [Enthalpy::0]

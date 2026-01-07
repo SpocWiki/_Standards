@@ -47,28 +47,28 @@ A time period from 66.0 to 56.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Paleocene) 
 
 
-#has_/label_/bg  :: Палеоцен
-#has_/label_/cs  :: Paleocén
-#has_/label_/da  :: Paleocæn
-#has_/label_/de  :: Paläozän
-#has_/label_/en-GB  :: Palaeocene
-#has_/label_/en-US  :: Paleocene
-#has_/label_/es  :: Paleoceno
-#has_/label_/et  :: Paleotseen
-#has_/label_/fi  :: Paleoseeni
-#has_/label_/fr  :: Paléocène
-#has_/label_/hu  :: paleocén
-#has_/label_/it  :: paleocene
-#has_/label_/ja  :: 暁新世
-#has_/label_/lt  :: Paleocenas
-#has_/label_/nl  :: Paleoceen
-#has_/label_/no  :: Paleocen
-#has_/label_/pl  :: Paleocen
-#has_/label_/pt  :: Paleocénico
-#has_/label_/sk  :: paleocén
-#has_/label_/sl  :: paleocen
-#has_/label_/sv  :: paleocen
-#has_/label_/zh  :: 古新世
+#has_/name_/bg  :: Палеоцен
+#has_/name_/cs  :: Paleocén
+#has_/name_/da  :: Paleocæn
+#has_/name_/de  :: Paläozän
+#has_/name_/en-GB  :: Palaeocene
+#has_/name_/en-US  :: Paleocene
+#has_/name_/es  :: Paleoceno
+#has_/name_/et  :: Paleotseen
+#has_/name_/fi  :: Paleoseeni
+#has_/name_/fr  :: Paléocène
+#has_/name_/hu  :: paleocén
+#has_/name_/it  :: paleocene
+#has_/name_/ja  :: 暁新世
+#has_/name_/lt  :: Paleocenas
+#has_/name_/nl  :: Paleoceen
+#has_/name_/no  :: Paleocen
+#has_/name_/pl  :: Paleocen
+#has_/name_/pt  :: Paleocénico
+#has_/name_/sk  :: paleocén
+#has_/name_/sl  :: paleocen
+#has_/name_/sv  :: paleocen
+#has_/name_/zh  :: 古新世
 
 #has_/abbreviation :: E1
 

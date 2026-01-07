@@ -36,26 +36,26 @@ A time period from 83.6 to 72.1 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Campanian) 
 
 
-#has_/label_/bg  :: Кампан
-#has_/label_/cs  :: Campan
-#has_/label_/da  :: Campanien
-#has_/label_/de  :: Campanium
-#has_/label_/es  :: Campaniense
-#has_/label_/et  :: Campani
-#has_/label_/fi  :: Campan
-#has_/label_/fr  :: Campanien
-#has_/label_/hu  :: campaniai
-#has_/label_/it  :: campaniano
-#has_/label_/ja  :: カンパニアン期
-#has_/label_/lt  :: Kampanis
-#has_/label_/nl  :: Campaniën
-#has_/label_/no  :: Campanium
-#has_/label_/pl  :: Kampan
-#has_/label_/pt  :: Campaniano
-#has_/label_/sk  :: kampán
-#has_/label_/sl  :: campanij
-#has_/label_/sv  :: campan
-#has_/label_/zh  :: 坎佩尼期
+#has_/name_/bg  :: Кампан
+#has_/name_/cs  :: Campan
+#has_/name_/da  :: Campanien
+#has_/name_/de  :: Campanium
+#has_/name_/es  :: Campaniense
+#has_/name_/et  :: Campani
+#has_/name_/fi  :: Campan
+#has_/name_/fr  :: Campanien
+#has_/name_/hu  :: campaniai
+#has_/name_/it  :: campaniano
+#has_/name_/ja  :: カンパニアン期
+#has_/name_/lt  :: Kampanis
+#has_/name_/nl  :: Campaniën
+#has_/name_/no  :: Campanium
+#has_/name_/pl  :: Kampan
+#has_/name_/pt  :: Campaniano
+#has_/name_/sk  :: kampán
+#has_/name_/sl  :: campanij
+#has_/name_/sv  :: campan
+#has_/name_/zh  :: 坎佩尼期
 
 #has_/abbreviation :: k5
 

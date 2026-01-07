@@ -69,26 +69,26 @@ A time period from 4567 to 538.8 million years ago.
 
 #is_/comprised_of ::    [[Eon-4567~Hadean]] ,  [[Eon-4031~Archean]], [[Eon-2500~Proterozoic]] 
 
-#has_/label_/bg  :: Прекамбрий
-#has_/label_/cs  :: Prekambrium
-#has_/label_/da  :: Prækambrium
-#has_/label_/de  :: Präkambrium
-#has_/label_/es  :: Precámbrico
-#has_/label_/et  :: Prekambrium
-#has_/label_/fi  :: Prekambri
-#has_/label_/fr  :: Précambrien
-#has_/label_/hu  :: prekambrium
-#has_/label_/it  :: precambriano
-#has_/label_/ja  :: 先カンブリア時代
-#has_/label_/lt  :: Prekambras
-#has_/label_/nl  :: Precambrium
-#has_/label_/no  :: Prekambrium
-#has_/label_/pl  :: Prekambr
-#has_/label_/pt  :: Precâmbrico
-#has_/label_/sk  :: prekambrium
-#has_/label_/sl  :: predkambrij
-#has_/label_/sv  :: prekambrium
-#has_/label_/zh  :: 前寒武纪
+#has_/name_/bg  :: Прекамбрий
+#has_/name_/cs  :: Prekambrium
+#has_/name_/da  :: Prækambrium
+#has_/name_/de  :: Präkambrium
+#has_/name_/es  :: Precámbrico
+#has_/name_/et  :: Prekambrium
+#has_/name_/fi  :: Prekambri
+#has_/name_/fr  :: Précambrien
+#has_/name_/hu  :: prekambrium
+#has_/name_/it  :: precambriano
+#has_/name_/ja  :: 先カンブリア時代
+#has_/name_/lt  :: Prekambras
+#has_/name_/nl  :: Precambrium
+#has_/name_/no  :: Prekambrium
+#has_/name_/pl  :: Prekambr
+#has_/name_/pt  :: Precâmbrico
+#has_/name_/sk  :: prekambrium
+#has_/name_/sl  :: predkambrij
+#has_/name_/sv  :: prekambrium
+#has_/name_/zh  :: 前寒武纪
 
 #has_/abbreviation :: PE
 

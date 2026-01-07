@@ -61,26 +61,26 @@ A time period from 720 to 635 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cryogenian) 
 
 
-#has_/label_/bg  :: Криоген
-#has_/label_/cs  :: Cryogen
-#has_/label_/da  :: Cryogenien
-#has_/label_/de  :: Kryogenium
-#has_/label_/es  :: Criogeniense
-#has_/label_/et  :: Krüogeen
-#has_/label_/fi  :: Cryogen
-#has_/label_/fr  :: Cryogénien
-#has_/label_/hu  :: cryogeni
-#has_/label_/it  :: cryogeniano
-#has_/label_/ja  :: クリオジェニアン紀
-#has_/label_/lt  :: Kriogenis
-#has_/label_/nl  :: Cryogeniën
-#has_/label_/no  :: Kryogenium
-#has_/label_/pl  :: Kriogen
-#has_/label_/pt  :: Criogeniano
-#has_/label_/sk  :: kryogén
-#has_/label_/sl  :: cryogenij
-#has_/label_/sv  :: kryogenium
-#has_/label_/zh  :: 成冰纪
+#has_/name_/bg  :: Криоген
+#has_/name_/cs  :: Cryogen
+#has_/name_/da  :: Cryogenien
+#has_/name_/de  :: Kryogenium
+#has_/name_/es  :: Criogeniense
+#has_/name_/et  :: Krüogeen
+#has_/name_/fi  :: Cryogen
+#has_/name_/fr  :: Cryogénien
+#has_/name_/hu  :: cryogeni
+#has_/name_/it  :: cryogeniano
+#has_/name_/ja  :: クリオジェニアン紀
+#has_/name_/lt  :: Kriogenis
+#has_/name_/nl  :: Cryogeniën
+#has_/name_/no  :: Kryogenium
+#has_/name_/pl  :: Kriogen
+#has_/name_/pt  :: Criogeniano
+#has_/name_/sk  :: kryogén
+#has_/name_/sl  :: cryogenij
+#has_/name_/sv  :: kryogenium
+#has_/name_/zh  :: 成冰纪
 
 #has_/abbreviation :: NP2
 

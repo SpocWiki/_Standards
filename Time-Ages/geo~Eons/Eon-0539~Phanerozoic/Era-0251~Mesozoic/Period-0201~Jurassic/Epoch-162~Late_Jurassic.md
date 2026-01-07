@@ -38,22 +38,22 @@ A time period from 161.5 to 145 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Late%20Jurassic) 
 
 
-#has_/label_/bg  :: Къѿна Юра
-#has_/label_/cs  :: Pozdní jura
-#has_/label_/da  :: Sen Jurassisk
-#has_/label_/de  :: Später Jura
-#has_/label_/et  :: Hilis-Juura
-#has_/label_/fi  :: Myöhäis-Jura
-#has_/label_/hu  :: késő-jura
-#has_/label_/ja  :: 後期ジュラ紀
-#has_/label_/lt  :: Vėlyvoji Jura
-#has_/label_/nl  :: Laat Jura
-#has_/label_/no  :: Sen jura
-#has_/label_/pl  :: Późna Jura
-#has_/label_/sk  :: mladšia jura
-#has_/label_/sl  :: pozna jura
-#has_/label_/sv  :: yngre jura
-#has_/label_/zh  :: 晚侏罗世
+#has_/name_/bg  :: Къѿна Юра
+#has_/name_/cs  :: Pozdní jura
+#has_/name_/da  :: Sen Jurassisk
+#has_/name_/de  :: Später Jura
+#has_/name_/et  :: Hilis-Juura
+#has_/name_/fi  :: Myöhäis-Jura
+#has_/name_/hu  :: késő-jura
+#has_/name_/ja  :: 後期ジュラ紀
+#has_/name_/lt  :: Vėlyvoji Jura
+#has_/name_/nl  :: Laat Jura
+#has_/name_/no  :: Sen jura
+#has_/name_/pl  :: Późna Jura
+#has_/name_/sk  :: mladšia jura
+#has_/name_/sl  :: pozna jura
+#has_/name_/sv  :: yngre jura
+#has_/name_/zh  :: 晚侏罗世
 
 #has_/abbreviation :: J3
 

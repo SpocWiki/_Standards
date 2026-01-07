@@ -58,26 +58,26 @@ A time period from 1000 to 538.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Neoproterozoic) 
 
 
-#has_/label_/bg  :: пеопротерозой
-#has_/label_/cs  :: Neoproterozoikum
-#has_/label_/da  :: Neoproterozoisk
-#has_/label_/de  :: Neoproterozoikum
-#has_/label_/es  :: Neoproerozoico
-#has_/label_/et  :: Neoproterosoikum
-#has_/label_/fi  :: Neoproterotsoikum
-#has_/label_/fr  :: Néoprotérozoïque
-#has_/label_/hu  :: neoproterozoikum
-#has_/label_/it  :: neoproterozoico
-#has_/label_/ja  :: 原生代後期
-#has_/label_/lt  :: Neoproterozojus
-#has_/label_/nl  :: Neoproterozoïcum
-#has_/label_/no  :: Neoproterozoikum
-#has_/label_/pl  :: Neoproterozoik
-#has_/label_/pt  :: Neoproterozóico
-#has_/label_/sk  :: neoproterozoikum
-#has_/label_/sl  :: neoproterozoik
-#has_/label_/sv  :: neoproterozoikum
-#has_/label_/zh  :: 新元古代
+#has_/name_/bg  :: пеопротерозой
+#has_/name_/cs  :: Neoproterozoikum
+#has_/name_/da  :: Neoproterozoisk
+#has_/name_/de  :: Neoproterozoikum
+#has_/name_/es  :: Neoproerozoico
+#has_/name_/et  :: Neoproterosoikum
+#has_/name_/fi  :: Neoproterotsoikum
+#has_/name_/fr  :: Néoprotérozoïque
+#has_/name_/hu  :: neoproterozoikum
+#has_/name_/it  :: neoproterozoico
+#has_/name_/ja  :: 原生代後期
+#has_/name_/lt  :: Neoproterozojus
+#has_/name_/nl  :: Neoproterozoïcum
+#has_/name_/no  :: Neoproterozoikum
+#has_/name_/pl  :: Neoproterozoik
+#has_/name_/pt  :: Neoproterozóico
+#has_/name_/sk  :: neoproterozoikum
+#has_/name_/sl  :: neoproterozoik
+#has_/name_/sv  :: neoproterozoikum
+#has_/name_/zh  :: 新元古代
 
 #has_/abbreviation :: NP
 

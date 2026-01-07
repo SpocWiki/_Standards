@@ -66,26 +66,26 @@ A time period from 485.4 to 443.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Ordovician) 
 
 
-#has_/label_/bg  :: Ордовик
-#has_/label_/cs  :: Ordovik
-#has_/label_/da  :: Ordovicium
-#has_/label_/de  :: Ordovizium
-#has_/label_/es  :: Ordovícico
-#has_/label_/et  :: Ordoviitsium
-#has_/label_/fi  :: Ordoviikki
-#has_/label_/fr  :: Ordovicien
-#has_/label_/hu  :: ordovícium
-#has_/label_/it  :: ordoviciano
-#has_/label_/ja  :: オルドビス紀
-#has_/label_/lt  :: Ordovikas
-#has_/label_/nl  :: Ordovicium
-#has_/label_/no  :: Ordovicium
-#has_/label_/pl  :: Ordowik
-#has_/label_/pt  :: Ordovícico
-#has_/label_/sk  :: ordovik
-#has_/label_/sl  :: ordovicij
-#has_/label_/sv  :: ordovicium
-#has_/label_/zh  :: 奥陶纪
+#has_/name_/bg  :: Ордовик
+#has_/name_/cs  :: Ordovik
+#has_/name_/da  :: Ordovicium
+#has_/name_/de  :: Ordovizium
+#has_/name_/es  :: Ordovícico
+#has_/name_/et  :: Ordoviitsium
+#has_/name_/fi  :: Ordoviikki
+#has_/name_/fr  :: Ordovicien
+#has_/name_/hu  :: ordovícium
+#has_/name_/it  :: ordoviciano
+#has_/name_/ja  :: オルドビス紀
+#has_/name_/lt  :: Ordovikas
+#has_/name_/nl  :: Ordovicium
+#has_/name_/no  :: Ordovicium
+#has_/name_/pl  :: Ordowik
+#has_/name_/pt  :: Ordovícico
+#has_/name_/sk  :: ordovik
+#has_/name_/sl  :: ordovicij
+#has_/name_/sv  :: ordovicium
+#has_/name_/zh  :: 奥陶纪
 
 #has_/abbreviation :: O
 

@@ -42,26 +42,26 @@ A time period from 23.03 to 20.44 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Aquitanian%20(stage)) 
 
 
-#has_/label_/bg  :: пквитан
-#has_/label_/cs  :: Aquitan
-#has_/label_/da  :: Aquitanien
-#has_/label_/de  :: Aquitanium
-#has_/label_/es  :: Aquitaninse
-#has_/label_/et  :: Aquitani
-#has_/label_/fi  :: Aquitan
-#has_/label_/fr  :: Aquitanien
-#has_/label_/hu  :: aquitaniai
-#has_/label_/it  :: aquitaniano
-#has_/label_/ja  :: アキタニアン期
-#has_/label_/lt  :: Akvitanis
-#has_/label_/nl  :: Aquitaniën-Vierland
-#has_/label_/no  :: Aquitanium
-#has_/label_/pl  :: Akwitan
-#has_/label_/pt  :: Aquitaniano
-#has_/label_/sk  :: akvitán
-#has_/label_/sl  :: akvitanij
-#has_/label_/sv  :: aquitan
-#has_/label_/zh  :: 阿启坦期
+#has_/name_/bg  :: пквитан
+#has_/name_/cs  :: Aquitan
+#has_/name_/da  :: Aquitanien
+#has_/name_/de  :: Aquitanium
+#has_/name_/es  :: Aquitaninse
+#has_/name_/et  :: Aquitani
+#has_/name_/fi  :: Aquitan
+#has_/name_/fr  :: Aquitanien
+#has_/name_/hu  :: aquitaniai
+#has_/name_/it  :: aquitaniano
+#has_/name_/ja  :: アキタニアン期
+#has_/name_/lt  :: Akvitanis
+#has_/name_/nl  :: Aquitaniën-Vierland
+#has_/name_/no  :: Aquitanium
+#has_/name_/pl  :: Akwitan
+#has_/name_/pt  :: Aquitaniano
+#has_/name_/sk  :: akvitán
+#has_/name_/sl  :: akvitanij
+#has_/name_/sv  :: aquitan
+#has_/name_/zh  :: 阿启坦期
 
 #has_/abbreviation :: n1
 

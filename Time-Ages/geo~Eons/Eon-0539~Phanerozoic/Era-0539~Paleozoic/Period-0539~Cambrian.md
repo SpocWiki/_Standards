@@ -62,26 +62,26 @@ P8189: 987007290943505200
 > [Wikipedia](https://en.wikipedia.org/wiki/Cambrian) 
 
 
-#has_/label_/bg  :: Камбрий
-#has_/label_/cs  :: Kambrium
-#has_/label_/da  :: Kambrium
-#has_/label_/de  :: Kambrium
-#has_/label_/es  :: Cámbrico
-#has_/label_/et  :: Kambrium
-#has_/label_/fi  :: Kambri
-#has_/label_/fr  :: Cambrien
-#has_/label_/hu  :: kambriumi
-#has_/label_/it  :: cambriano
-#has_/label_/ja  :: カンブリア紀
-#has_/label_/lt  :: Kambras
-#has_/label_/nl  :: Cambrium
-#has_/label_/no  :: Cambrium
-#has_/label_/pl  :: Kambr
-#has_/label_/pt  :: Câmbrico
-#has_/label_/sk  :: kambrium
-#has_/label_/sl  :: kambrij
-#has_/label_/sv  :: kambrium
-#has_/label_/zh  :: 寒武纪
+#has_/name_/bg  :: Камбрий
+#has_/name_/cs  :: Kambrium
+#has_/name_/da  :: Kambrium
+#has_/name_/de  :: Kambrium
+#has_/name_/es  :: Cámbrico
+#has_/name_/et  :: Kambrium
+#has_/name_/fi  :: Kambri
+#has_/name_/fr  :: Cambrien
+#has_/name_/hu  :: kambriumi
+#has_/name_/it  :: cambriano
+#has_/name_/ja  :: カンブリア紀
+#has_/name_/lt  :: Kambras
+#has_/name_/nl  :: Cambrium
+#has_/name_/no  :: Cambrium
+#has_/name_/pl  :: Kambr
+#has_/name_/pt  :: Câmbrico
+#has_/name_/sk  :: kambrium
+#has_/name_/sl  :: kambrij
+#has_/name_/sv  :: kambrium
+#has_/name_/zh  :: 寒武纪
 
 #has_/abbreviation :: Ep
 

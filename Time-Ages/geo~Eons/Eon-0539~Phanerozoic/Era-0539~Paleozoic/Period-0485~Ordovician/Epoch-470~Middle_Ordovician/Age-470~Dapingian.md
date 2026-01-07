@@ -50,26 +50,26 @@ A time period from 470.0 to 467.3 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Dapingian) 
 
 
-#has_/label_/bg  :: Дапинг
-#has_/label_/cs  :: Daping
-#has_/label_/da  :: Dapingien
-#has_/label_/de  :: Dapingium
-#has_/label_/es  :: Dapingiense
-#has_/label_/et  :: Dapingi
-#has_/label_/fi  :: Daping
-#has_/label_/fr  :: Dapingien
-#has_/label_/hu  :: dapingi
-#has_/label_/it  :: dapingiano
-#has_/label_/ja  :: ダピンギアン期
-#has_/label_/lt  :: Dapingis
-#has_/label_/nl  :: Dapingiën
-#has_/label_/no  :: Dapingium
-#has_/label_/pl  :: Daping
-#has_/label_/pt  :: Dapingiano
-#has_/label_/sk  :: daping
-#has_/label_/sl  :: dapingij
-#has_/label_/sv  :: daping
-#has_/label_/zh  :: 大坪期
+#has_/name_/bg  :: Дапинг
+#has_/name_/cs  :: Daping
+#has_/name_/da  :: Dapingien
+#has_/name_/de  :: Dapingium
+#has_/name_/es  :: Dapingiense
+#has_/name_/et  :: Dapingi
+#has_/name_/fi  :: Daping
+#has_/name_/fr  :: Dapingien
+#has_/name_/hu  :: dapingi
+#has_/name_/it  :: dapingiano
+#has_/name_/ja  :: ダピンギアン期
+#has_/name_/lt  :: Dapingis
+#has_/name_/nl  :: Dapingiën
+#has_/name_/no  :: Dapingium
+#has_/name_/pl  :: Daping
+#has_/name_/pt  :: Dapingiano
+#has_/name_/sk  :: daping
+#has_/name_/sl  :: dapingij
+#has_/name_/sv  :: daping
+#has_/name_/zh  :: 大坪期
 
 #has_/abbreviation :: o3
 

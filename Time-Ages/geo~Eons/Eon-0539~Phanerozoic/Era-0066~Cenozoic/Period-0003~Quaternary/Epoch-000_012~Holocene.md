@@ -103,26 +103,26 @@ It follows the Last Glacial Period, which concluded with the Holocene glacial re
 > [Wikipedia](https://en.wikipedia.org/wiki/Holocene) 
 
 
-#has_/label_/bg  :: Холоцен
-#has_/label_/cs  :: Holocén
-#has_/label_/da  :: Holocæn
-#has_/label_/de  :: Holozän
-#has_/label_/es  :: Holoceno
-#has_/label_/et  :: Holotseen
-#has_/label_/fi  :: Holoseeni
-#has_/label_/fr  :: Holocène
-#has_/label_/hu  :: holocén
-#has_/label_/it  :: olocene
-#has_/label_/ja  :: 完新世
-#has_/label_/lt  :: Holocenas
-#has_/label_/nl  :: Holoceen
-#has_/label_/no  :: Holocen
-#has_/label_/pl  :: Holocen
-#has_/label_/pt  :: Holocénico
-#has_/label_/sk  :: holocén
-#has_/label_/sl  :: holocen
-#has_/label_/sv  :: holocen
-#has_/label_/zh  :: 全新世
+#has_/name_/bg  :: Холоцен
+#has_/name_/cs  :: Holocén
+#has_/name_/da  :: Holocæn
+#has_/name_/de  :: Holozän
+#has_/name_/es  :: Holoceno
+#has_/name_/et  :: Holotseen
+#has_/name_/fi  :: Holoseeni
+#has_/name_/fr  :: Holocène
+#has_/name_/hu  :: holocén
+#has_/name_/it  :: olocene
+#has_/name_/ja  :: 完新世
+#has_/name_/lt  :: Holocenas
+#has_/name_/nl  :: Holoceen
+#has_/name_/no  :: Holocen
+#has_/name_/pl  :: Holocen
+#has_/name_/pt  :: Holocénico
+#has_/name_/sk  :: holocén
+#has_/name_/sl  :: holocen
+#has_/name_/sv  :: holocen
+#has_/name_/zh  :: 全新世
 
 ## All Contents
 

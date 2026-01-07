@@ -62,26 +62,26 @@ Little biological diversion happened.
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesoproterozoic) 
 
 
-#has_/label_/bg  :: Мезопротерозой
-#has_/label_/cs  :: Mezoproterozoikum
-#has_/label_/da  :: Mesoproterozoisk
-#has_/label_/de  :: Mesoproterozoikum
-#has_/label_/es  :: Mesoproterozoico
-#has_/label_/et  :: Mesoproterosoikum
-#has_/label_/fi  :: Mesoproterotsoikum
-#has_/label_/fr  :: Mésoprotérozoïque
-#has_/label_/hu  :: mezoproterozoikum
-#has_/label_/it  :: mesoproterozoico
-#has_/label_/ja  :: 原生代中期
-#has_/label_/lt  :: Mezoproterozojus
-#has_/label_/nl  :: Mesoproterozoïcum
-#has_/label_/no  :: Mesoproterozoikum
-#has_/label_/pl  :: Mezoproterozoik
-#has_/label_/pt  :: Mesoproterozóico
-#has_/label_/sk  :: mezoproterozoikum
-#has_/label_/sl  :: mezoproterozoik
-#has_/label_/sv  :: mesoproterozoikum
-#has_/label_/zh  :: 中元古代
+#has_/name_/bg  :: Мезопротерозой
+#has_/name_/cs  :: Mezoproterozoikum
+#has_/name_/da  :: Mesoproterozoisk
+#has_/name_/de  :: Mesoproterozoikum
+#has_/name_/es  :: Mesoproterozoico
+#has_/name_/et  :: Mesoproterosoikum
+#has_/name_/fi  :: Mesoproterotsoikum
+#has_/name_/fr  :: Mésoprotérozoïque
+#has_/name_/hu  :: mezoproterozoikum
+#has_/name_/it  :: mesoproterozoico
+#has_/name_/ja  :: 原生代中期
+#has_/name_/lt  :: Mezoproterozojus
+#has_/name_/nl  :: Mesoproterozoïcum
+#has_/name_/no  :: Mesoproterozoikum
+#has_/name_/pl  :: Mezoproterozoik
+#has_/name_/pt  :: Mesoproterozóico
+#has_/name_/sk  :: mezoproterozoikum
+#has_/name_/sl  :: mezoproterozoik
+#has_/name_/sv  :: mesoproterozoikum
+#has_/name_/zh  :: 中元古代
 
 #has_/abbreviation :: MP
 

@@ -60,26 +60,26 @@ A time period from 23.03 to 2.58 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Neogene) 
 
 
-#has_/label_/bg  :: пеоген
-#has_/label_/cs  :: Neogén
-#has_/label_/da  :: Neogen
-#has_/label_/de  :: Neogen
-#has_/label_/es  :: Neógeno
-#has_/label_/et  :: Neogeen
-#has_/label_/fi  :: Neogeeni
-#has_/label_/fr  :: Néogène
-#has_/label_/hu  :: neogén
-#has_/label_/it  :: neogene
-#has_/label_/ja  :: 新第三紀
-#has_/label_/lt  :: Neogenas
-#has_/label_/nl  :: Neogeen
-#has_/label_/no  :: Neogen
-#has_/label_/pl  :: Neogen
-#has_/label_/pt  :: Neogénico
-#has_/label_/sk  :: neogén
-#has_/label_/sl  :: neogen
-#has_/label_/sv  :: neogen
-#has_/label_/zh  :: 晚第三纪
+#has_/name_/bg  :: пеоген
+#has_/name_/cs  :: Neogén
+#has_/name_/da  :: Neogen
+#has_/name_/de  :: Neogen
+#has_/name_/es  :: Neógeno
+#has_/name_/et  :: Neogeen
+#has_/name_/fi  :: Neogeeni
+#has_/name_/fr  :: Néogène
+#has_/name_/hu  :: neogén
+#has_/name_/it  :: neogene
+#has_/name_/ja  :: 新第三紀
+#has_/name_/lt  :: Neogenas
+#has_/name_/nl  :: Neogeen
+#has_/name_/no  :: Neogen
+#has_/name_/pl  :: Neogen
+#has_/name_/pt  :: Neogénico
+#has_/name_/sk  :: neogén
+#has_/name_/sl  :: neogen
+#has_/name_/sv  :: neogen
+#has_/name_/zh  :: 晚第三纪
 
 ## All Contents
 

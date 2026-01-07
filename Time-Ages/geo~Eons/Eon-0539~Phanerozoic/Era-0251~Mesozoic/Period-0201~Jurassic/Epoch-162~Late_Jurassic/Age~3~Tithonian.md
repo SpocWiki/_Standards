@@ -38,26 +38,26 @@ A time period from 149.2 to 145 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Tithonian) 
 
 
-#has_/label_/bg  :: Титон
-#has_/label_/cs  :: Tithon
-#has_/label_/da  :: Tithonien
-#has_/label_/de  :: Tithonium
-#has_/label_/es  :: Tithoniense
-#has_/label_/et  :: Tithoni
-#has_/label_/fi  :: Tithon
-#has_/label_/fr  :: Tithonien
-#has_/label_/hu  :: tithon
-#has_/label_/it  :: titoniano
-#has_/label_/ja  :: チトニアン期
-#has_/label_/lt  :: Titonis
-#has_/label_/nl  :: Tithoniën
-#has_/label_/no  :: Tithonium
-#has_/label_/pl  :: Tyton
-#has_/label_/pt  :: Titoniano
-#has_/label_/sk  :: titón
-#has_/label_/sl  :: tithonij
-#has_/label_/sv  :: tithon
-#has_/label_/zh  :: 提通期
+#has_/name_/bg  :: Титон
+#has_/name_/cs  :: Tithon
+#has_/name_/da  :: Tithonien
+#has_/name_/de  :: Tithonium
+#has_/name_/es  :: Tithoniense
+#has_/name_/et  :: Tithoni
+#has_/name_/fi  :: Tithon
+#has_/name_/fr  :: Tithonien
+#has_/name_/hu  :: tithon
+#has_/name_/it  :: titoniano
+#has_/name_/ja  :: チトニアン期
+#has_/name_/lt  :: Titonis
+#has_/name_/nl  :: Tithoniën
+#has_/name_/no  :: Tithonium
+#has_/name_/pl  :: Tyton
+#has_/name_/pt  :: Titoniano
+#has_/name_/sk  :: titón
+#has_/name_/sl  :: tithonij
+#has_/name_/sv  :: tithon
+#has_/name_/zh  :: 提通期
 
 #has_/abbreviation :: j7
 

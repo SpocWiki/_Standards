@@ -53,26 +53,26 @@ A time period from 504.5 to 500.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Drumian) 
 
 
-#has_/label_/bg  :: Друм
-#has_/label_/cs  :: Drum
-#has_/label_/da  :: Drumien
-#has_/label_/de  :: Drumium
-#has_/label_/es  :: Drumiense
-#has_/label_/et  :: Drumi
-#has_/label_/fi  :: Drum
-#has_/label_/fr  :: Drumien
-#has_/label_/hu  :: drumi
-#has_/label_/it  :: drumiano
-#has_/label_/ja  :: ドルミアン期
-#has_/label_/lt  :: Drumis
-#has_/label_/nl  :: Drumiën
-#has_/label_/no  :: Drumium
-#has_/label_/pl  :: Drum
-#has_/label_/pt  :: Drumiano
-#has_/label_/sk  :: drum
-#has_/label_/sl  :: drumij
-#has_/label_/sv  :: drum
-#has_/label_/zh  :: 鼓山期
+#has_/name_/bg  :: Друм
+#has_/name_/cs  :: Drum
+#has_/name_/da  :: Drumien
+#has_/name_/de  :: Drumium
+#has_/name_/es  :: Drumiense
+#has_/name_/et  :: Drumi
+#has_/name_/fi  :: Drum
+#has_/name_/fr  :: Drumien
+#has_/name_/hu  :: drumi
+#has_/name_/it  :: drumiano
+#has_/name_/ja  :: ドルミアン期
+#has_/name_/lt  :: Drumis
+#has_/name_/nl  :: Drumiën
+#has_/name_/no  :: Drumium
+#has_/name_/pl  :: Drum
+#has_/name_/pt  :: Drumiano
+#has_/name_/sk  :: drum
+#has_/name_/sl  :: drumij
+#has_/name_/sv  :: drum
+#has_/name_/zh  :: 鼓山期
 
 #has_/abbreviation :: ep6
 

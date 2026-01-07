@@ -57,26 +57,26 @@ sRGB_color_hex_triplet: FDCC8A
 > [Wikipedia](https://en.wikipedia.org/wiki/Ectasian) 
 
 
-#has_/label_/bg  :: Ектаз
-#has_/label_/cs  :: Ectas
-#has_/label_/da  :: Ectasien
-#has_/label_/de  :: Ectasium
-#has_/label_/es  :: Ectasiense
-#has_/label_/et  :: Ectas
-#has_/label_/fi  :: Ectas
-#has_/label_/fr  :: Ectasien
-#has_/label_/hu  :: ectasi
-#has_/label_/it  :: ectasiano
-#has_/label_/ja  :: エクタシアン紀
-#has_/label_/lt  :: Ektasis
-#has_/label_/nl  :: Ectasiën
-#has_/label_/no  :: Ektasium
-#has_/label_/pl  :: Ektas
-#has_/label_/pt  :: Ectasiano
-#has_/label_/sk  :: ektazium
-#has_/label_/sl  :: ectasij
-#has_/label_/sv  :: ectasium
-#has_/label_/zh  :: 延展纪
+#has_/name_/bg  :: Ектаз
+#has_/name_/cs  :: Ectas
+#has_/name_/da  :: Ectasien
+#has_/name_/de  :: Ectasium
+#has_/name_/es  :: Ectasiense
+#has_/name_/et  :: Ectas
+#has_/name_/fi  :: Ectas
+#has_/name_/fr  :: Ectasien
+#has_/name_/hu  :: ectasi
+#has_/name_/it  :: ectasiano
+#has_/name_/ja  :: エクタシアン紀
+#has_/name_/lt  :: Ektasis
+#has_/name_/nl  :: Ectasiën
+#has_/name_/no  :: Ektasium
+#has_/name_/pl  :: Ektas
+#has_/name_/pt  :: Ectasiano
+#has_/name_/sk  :: ektazium
+#has_/name_/sl  :: ectasij
+#has_/name_/sv  :: ectasium
+#has_/name_/zh  :: 延展纪
 
 #has_/abbreviation :: MP2
 

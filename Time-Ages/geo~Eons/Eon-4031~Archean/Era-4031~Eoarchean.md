@@ -62,28 +62,28 @@ A time period from 4031 to 3600 million years ago.
 
 #has_/abbreviation :: EA
 
-#has_/label_/bg  :: Еоархай
-#has_/label_/cs  :: Eoarchaikum
-#has_/label_/da  :: Eoarkæisk
-#has_/label_/de  :: Eoarchaikum
-#has_/label_/en-GB  :: Eoarchaean
-#has_/label_/en-US  :: Eoarchean
-#has_/label_/es  :: Eoarcaico
-#has_/label_/et  :: Eoarhaikum
-#has_/label_/fi  :: Eoarkeikum
-#has_/label_/fr  :: Eoarchéen
-#has_/label_/hu  :: eoarchaikum
-#has_/label_/it  :: eoarcheano
-#has_/label_/ja  :: 暁始生代
-#has_/label_/lt  :: Eoarchejus
-#has_/label_/nl  :: Eo-archaicum
-#has_/label_/no  :: Eoarkeikum
-#has_/label_/pl  :: Eoarchaik
-#has_/label_/pt  :: Eoarcaico
-#has_/label_/sk  :: eoarchaikum
-#has_/label_/sl  :: eoarhaik
-#has_/label_/sv  :: eoarkeikum
-#has_/label_/zh  :: 始太古代
+#has_/name_/bg  :: Еоархай
+#has_/name_/cs  :: Eoarchaikum
+#has_/name_/da  :: Eoarkæisk
+#has_/name_/de  :: Eoarchaikum
+#has_/name_/en-GB  :: Eoarchaean
+#has_/name_/en-US  :: Eoarchean
+#has_/name_/es  :: Eoarcaico
+#has_/name_/et  :: Eoarhaikum
+#has_/name_/fi  :: Eoarkeikum
+#has_/name_/fr  :: Eoarchéen
+#has_/name_/hu  :: eoarchaikum
+#has_/name_/it  :: eoarcheano
+#has_/name_/ja  :: 暁始生代
+#has_/name_/lt  :: Eoarchejus
+#has_/name_/nl  :: Eo-archaicum
+#has_/name_/no  :: Eoarkeikum
+#has_/name_/pl  :: Eoarchaik
+#has_/name_/pt  :: Eoarcaico
+#has_/name_/sk  :: eoarchaikum
+#has_/name_/sl  :: eoarhaik
+#has_/name_/sv  :: eoarkeikum
+#has_/name_/zh  :: 始太古代
 
 ## All Contents
 

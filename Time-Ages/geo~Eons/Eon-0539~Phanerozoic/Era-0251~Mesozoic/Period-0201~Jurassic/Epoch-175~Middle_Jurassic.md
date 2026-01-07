@@ -37,26 +37,26 @@ A time period from 174.7 to 161.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Jurassic) 
 
 
-#has_/label_/bg  :: Средна Юра
-#has_/label_/cs  :: Střední jura
-#has_/label_/da  :: Mellem Jurassisk
-#has_/label_/de  :: Mittlerer Jura
-#has_/label_/es  :: Jurásico Medio
-#has_/label_/et  :: Kesk-Juura
-#has_/label_/fi  :: Keski-Jura
-#has_/label_/fr  :: Jurassique moyen
-#has_/label_/hu  :: középső-jura
-#has_/label_/it  :: giurassico medio
-#has_/label_/ja  :: 中期ジュラ紀
-#has_/label_/lt  :: Vidurinė Jura
-#has_/label_/nl  :: Midden Jura
-#has_/label_/no  :: Midtre jura
-#has_/label_/pl  :: Środkowa Jura
-#has_/label_/pt  :: Jurássico Médio
-#has_/label_/sk  :: stredná jura
-#has_/label_/sl  :: srednja jura
-#has_/label_/sv  :: mellersta jura
-#has_/label_/zh  :: 中侏罗世
+#has_/name_/bg  :: Средна Юра
+#has_/name_/cs  :: Střední jura
+#has_/name_/da  :: Mellem Jurassisk
+#has_/name_/de  :: Mittlerer Jura
+#has_/name_/es  :: Jurásico Medio
+#has_/name_/et  :: Kesk-Juura
+#has_/name_/fi  :: Keski-Jura
+#has_/name_/fr  :: Jurassique moyen
+#has_/name_/hu  :: középső-jura
+#has_/name_/it  :: giurassico medio
+#has_/name_/ja  :: 中期ジュラ紀
+#has_/name_/lt  :: Vidurinė Jura
+#has_/name_/nl  :: Midden Jura
+#has_/name_/no  :: Midtre jura
+#has_/name_/pl  :: Środkowa Jura
+#has_/name_/pt  :: Jurássico Médio
+#has_/name_/sk  :: stredná jura
+#has_/name_/sl  :: srednja jura
+#has_/name_/sv  :: mellersta jura
+#has_/name_/zh  :: 中侏罗世
 
 #has_/abbreviation :: J2
 

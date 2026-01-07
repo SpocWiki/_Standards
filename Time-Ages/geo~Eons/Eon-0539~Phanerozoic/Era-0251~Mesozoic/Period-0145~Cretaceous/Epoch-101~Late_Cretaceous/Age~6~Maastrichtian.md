@@ -40,26 +40,26 @@ A time period from 72.1 to 66.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Maastrichtian) 
 
 
-#has_/label_/bg  :: Маѿтрихт
-#has_/label_/cs  :: Maastricht
-#has_/label_/da  :: Maastrichtien
-#has_/label_/de  :: Maastrichtium
-#has_/label_/es  :: Maastrichtiense
-#has_/label_/et  :: Maastrichti
-#has_/label_/fi  :: Maastricht
-#has_/label_/fr  :: Maastrichtien
-#has_/label_/hu  :: maastrichti
-#has_/label_/it  :: maastrichtiano
-#has_/label_/ja  :: マーストリヒシアン期
-#has_/label_/lt  :: Mastrichtis
-#has_/label_/nl  :: Maastrichtiën
-#has_/label_/no  :: Maastricht
-#has_/label_/pl  :: Mastrycht
-#has_/label_/pt  :: Maestrichtiano
-#has_/label_/sk  :: mástricht
-#has_/label_/sl  :: maastrichtij
-#has_/label_/sv  :: maastricht
-#has_/label_/zh  :: 马斯特里赫特期
+#has_/name_/bg  :: Маѿтрихт
+#has_/name_/cs  :: Maastricht
+#has_/name_/da  :: Maastrichtien
+#has_/name_/de  :: Maastrichtium
+#has_/name_/es  :: Maastrichtiense
+#has_/name_/et  :: Maastrichti
+#has_/name_/fi  :: Maastricht
+#has_/name_/fr  :: Maastrichtien
+#has_/name_/hu  :: maastrichti
+#has_/name_/it  :: maastrichtiano
+#has_/name_/ja  :: マーストリヒシアン期
+#has_/name_/lt  :: Mastrichtis
+#has_/name_/nl  :: Maastrichtiën
+#has_/name_/no  :: Maastricht
+#has_/name_/pl  :: Mastrycht
+#has_/name_/pt  :: Maestrichtiano
+#has_/name_/sk  :: mástricht
+#has_/name_/sl  :: maastrichtij
+#has_/name_/sv  :: maastricht
+#has_/name_/zh  :: 马斯特里赫特期
 
 #has_/abbreviation :: k6
 

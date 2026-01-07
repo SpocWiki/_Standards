@@ -46,26 +46,26 @@ A time period from 201.4 to 174.7 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Early%20Jurassic) 
 
 
-#has_/label_/bg  :: Ранна Юра
-#has_/label_/cs  :: brzy jura
-#has_/label_/da  :: Tidlig Jurassisk
-#has_/label_/de  :: Früher Jura
-#has_/label_/es  :: Jurásico temprano
-#has_/label_/et  :: Vara-Juura
-#has_/label_/fi  :: Varhais-Jura
-#has_/label_/fr  :: Jurassique précoce
-#has_/label_/hu  :: kora-jura
-#has_/label_/it  :: giurassico precoce
-#has_/label_/ja  :: ジュラ紀前期
-#has_/label_/lt  :: Ankstyvoji Jura
-#has_/label_/nl  :: Vroeg Jura
-#has_/label_/no  :: Tidlig jura
-#has_/label_/pl  :: Wczesna Jura
-#has_/label_/pt  :: Jurássico primitivo
-#has_/label_/sk  :: raná jura
-#has_/label_/sl  :: zgodnja jura
-#has_/label_/sv  :: äldre jura
-#has_/label_/zh  :: 早侏罗世
+#has_/name_/bg  :: Ранна Юра
+#has_/name_/cs  :: brzy jura
+#has_/name_/da  :: Tidlig Jurassisk
+#has_/name_/de  :: Früher Jura
+#has_/name_/es  :: Jurásico temprano
+#has_/name_/et  :: Vara-Juura
+#has_/name_/fi  :: Varhais-Jura
+#has_/name_/fr  :: Jurassique précoce
+#has_/name_/hu  :: kora-jura
+#has_/name_/it  :: giurassico precoce
+#has_/name_/ja  :: ジュラ紀前期
+#has_/name_/lt  :: Ankstyvoji Jura
+#has_/name_/nl  :: Vroeg Jura
+#has_/name_/no  :: Tidlig jura
+#has_/name_/pl  :: Wczesna Jura
+#has_/name_/pt  :: Jurássico primitivo
+#has_/name_/sk  :: raná jura
+#has_/name_/sl  :: zgodnja jura
+#has_/name_/sv  :: äldre jura
+#has_/name_/zh  :: 早侏罗世
 
 #has_/abbreviation :: J1
 

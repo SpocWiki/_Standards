@@ -55,26 +55,26 @@ A time period from 303.7 to 298.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Gzhelian) 
 
 
-#has_/label_/bg  :: Гжел
-#has_/label_/cs  :: Gzhel
-#has_/label_/da  :: Gzhelien
-#has_/label_/de  :: Gzhelium
-#has_/label_/es  :: Gzeliense
-#has_/label_/et  :: Gzheli
-#has_/label_/fi  :: Gzhel
-#has_/label_/fr  :: Gzhélien
-#has_/label_/hu  :: gzseli
-#has_/label_/it  :: gzheliano
-#has_/label_/ja  :: グゼリアン期
-#has_/label_/lt  :: Gželis
-#has_/label_/nl  :: Gzheliën
-#has_/label_/no  :: Gzhelium
-#has_/label_/pl  :: Gżel
-#has_/label_/pt  :: Gzeliano
-#has_/label_/sk  :: gžel
-#has_/label_/sl  :: gželij
-#has_/label_/sv  :: gzhel
-#has_/label_/zh  :: 格热尔期
+#has_/name_/bg  :: Гжел
+#has_/name_/cs  :: Gzhel
+#has_/name_/da  :: Gzhelien
+#has_/name_/de  :: Gzhelium
+#has_/name_/es  :: Gzeliense
+#has_/name_/et  :: Gzheli
+#has_/name_/fi  :: Gzhel
+#has_/name_/fr  :: Gzhélien
+#has_/name_/hu  :: gzseli
+#has_/name_/it  :: gzheliano
+#has_/name_/ja  :: グゼリアン期
+#has_/name_/lt  :: Gželis
+#has_/name_/nl  :: Gzheliën
+#has_/name_/no  :: Gzhelium
+#has_/name_/pl  :: Gżel
+#has_/name_/pt  :: Gzeliano
+#has_/name_/sk  :: gžel
+#has_/name_/sl  :: gželij
+#has_/name_/sv  :: gzhel
+#has_/name_/zh  :: 格热尔期
 
 #has_/abbreviation :: c7
 

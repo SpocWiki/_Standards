@@ -95,17 +95,17 @@ ZVG_number: 8440
 `=this.Dewey_Decimal_Classification`
 `=this.oxidation_state[2]`
 
-[Name-en::Tantalum]
-[Name-de::Tantal]
-[Weight-u::180.9479]
+[#has_/name_/en::Tantalum]
+[#has_/name_/de::Tantal]
+[#has_/value_for_/weight_/u::180.9479]
 [AtomRadius::2.09]
 [Atom-Vol-ccm-mol::10.9]
 [Unknown2::1.34]
-[Radius-nm::7.89]
+[#has_/radius_/nm::7.89]
 [Electronegative::1.5]
 [Density::16.6]
-[MeltingPoint-C::2996]
-[BoilingPoint-C::5425]
+[#has_/value_for_/temperature_/melt_/c ::2996]
+[#has_/value_for_/temperature_/boil_/c ::5425]
 [HeatCapacity::0.14]
 [HeatConduct::0.575]
 [Enthalpy::31.6]

@@ -49,26 +49,26 @@ A time period from 192.9 to 184.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pliensbachian) 
 
 
-#has_/label_/bg  :: Плиинѿбах
-#has_/label_/cs  :: Pliensbach
-#has_/label_/da  :: Pliensbachien
-#has_/label_/de  :: Pliensbachium
-#has_/label_/es  :: Pliensbachiense
-#has_/label_/et  :: Pliensbachi
-#has_/label_/fi  :: Plienbach
-#has_/label_/fr  :: Pliensbachien
-#has_/label_/hu  :: pliensbachi
-#has_/label_/it  :: pliensbachiano
-#has_/label_/ja  :: プリンスバッキアン期
-#has_/label_/lt  :: Plynsbachis
-#has_/label_/nl  :: Pliënsbachiën
-#has_/label_/no  :: Pliensbach
-#has_/label_/pl  :: Pliensbach
-#has_/label_/pt  :: Pliensbaquiano
-#has_/label_/sk  :: pliensbach
-#has_/label_/sl  :: pleinsbachij
-#has_/label_/sv  :: pliensbach
-#has_/label_/zh  :: 普连斯巴奇期
+#has_/name_/bg  :: Плиинѿбах
+#has_/name_/cs  :: Pliensbach
+#has_/name_/da  :: Pliensbachien
+#has_/name_/de  :: Pliensbachium
+#has_/name_/es  :: Pliensbachiense
+#has_/name_/et  :: Pliensbachi
+#has_/name_/fi  :: Plienbach
+#has_/name_/fr  :: Pliensbachien
+#has_/name_/hu  :: pliensbachi
+#has_/name_/it  :: pliensbachiano
+#has_/name_/ja  :: プリンスバッキアン期
+#has_/name_/lt  :: Plynsbachis
+#has_/name_/nl  :: Pliënsbachiën
+#has_/name_/no  :: Pliensbach
+#has_/name_/pl  :: Pliensbach
+#has_/name_/pt  :: Pliensbaquiano
+#has_/name_/sk  :: pliensbach
+#has_/name_/sl  :: pleinsbachij
+#has_/name_/sv  :: pliensbach
+#has_/name_/zh  :: 普连斯巴奇期
 
 #has_/abbreviation :: I3
 

@@ -55,26 +55,26 @@ A time period from 521 to 509 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Series%202) 
 
 
-#has_/label_/bg  :: Камбрий - 2 ѿериѿ
-#has_/label_/cs  :: Kambrium-Oddělení 2
-#has_/label_/da  :: Kambrium-Serie 2
-#has_/label_/de  :: Kambrium-Serie 2
-#has_/label_/es  :: Cámbrico-Serie 2
-#has_/label_/et  :: Kambrium, Ladestik 2
-#has_/label_/fi  :: Kambri-sarja 2
-#has_/label_/fr  :: Cambrien-Séries 2
-#has_/label_/hu  :: kambrium 2. sorozat
-#has_/label_/it  :: cambriano - serie 2
-#has_/label_/ja  :: 第2世
-#has_/label_/lt  :: Kambras-Serija 2
-#has_/label_/nl  :: Cambrium, Zone 2
-#has_/label_/no  :: Kambrium -serie 2
-#has_/label_/pl  :: Kambr-Oddział 2
-#has_/label_/pt  :: Câmbrico-Série 2
-#has_/label_/sk  :: kambrium - séria 2
-#has_/label_/sl  :: kambrij-serija 2
-#has_/label_/sv  :: kambrium serie 2
-#has_/label_/zh  :: 第二世
+#has_/name_/bg  :: Камбрий - 2 ѿериѿ
+#has_/name_/cs  :: Kambrium-Oddělení 2
+#has_/name_/da  :: Kambrium-Serie 2
+#has_/name_/de  :: Kambrium-Serie 2
+#has_/name_/es  :: Cámbrico-Serie 2
+#has_/name_/et  :: Kambrium, Ladestik 2
+#has_/name_/fi  :: Kambri-sarja 2
+#has_/name_/fr  :: Cambrien-Séries 2
+#has_/name_/hu  :: kambrium 2. sorozat
+#has_/name_/it  :: cambriano - serie 2
+#has_/name_/ja  :: 第2世
+#has_/name_/lt  :: Kambras-Serija 2
+#has_/name_/nl  :: Cambrium, Zone 2
+#has_/name_/no  :: Kambrium -serie 2
+#has_/name_/pl  :: Kambr-Oddział 2
+#has_/name_/pt  :: Câmbrico-Série 2
+#has_/name_/sk  :: kambrium - séria 2
+#has_/name_/sl  :: kambrij-serija 2
+#has_/name_/sv  :: kambrium serie 2
+#has_/name_/zh  :: 第二世
 
 #has_/abbreviation :: Ep2
 

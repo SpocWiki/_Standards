@@ -49,26 +49,26 @@ A time period from 358.9 to 323.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Mississippian%20(geology)) 
 
 
-#has_/label_/bg  :: Миѿиѿип
-#has_/label_/cs  :: Mississip
-#has_/label_/da  :: Mississippien
-#has_/label_/de  :: Mississippium
-#has_/label_/es  :: Mississippiense
-#has_/label_/et  :: Mississippi
-#has_/label_/fi  :: Mississippi
-#has_/label_/fr  :: Mississippien
-#has_/label_/hu  :: mississippi
-#has_/label_/it  :: mississippiano
-#has_/label_/ja  :: ミシシッピアン紀
-#has_/label_/lt  :: Misisipis
-#has_/label_/nl  :: Mississippiën
-#has_/label_/no  :: Mississippium
-#has_/label_/pl  :: Missisip
-#has_/label_/pt  :: Mississipiano
-#has_/label_/sk  :: mississip
-#has_/label_/sl  :: mississippij
-#has_/label_/sv  :: mississippi
-#has_/label_/zh  :: 密西西比亚纪
+#has_/name_/bg  :: Миѿиѿип
+#has_/name_/cs  :: Mississip
+#has_/name_/da  :: Mississippien
+#has_/name_/de  :: Mississippium
+#has_/name_/es  :: Mississippiense
+#has_/name_/et  :: Mississippi
+#has_/name_/fi  :: Mississippi
+#has_/name_/fr  :: Mississippien
+#has_/name_/hu  :: mississippi
+#has_/name_/it  :: mississippiano
+#has_/name_/ja  :: ミシシッピアン紀
+#has_/name_/lt  :: Misisipis
+#has_/name_/nl  :: Mississippiën
+#has_/name_/no  :: Mississippium
+#has_/name_/pl  :: Missisip
+#has_/name_/pt  :: Mississipiano
+#has_/name_/sk  :: mississip
+#has_/name_/sl  :: mississippij
+#has_/name_/sv  :: mississippi
+#has_/name_/zh  :: 密西西比亚纪
 
 #has_/abbreviation :: C1
 

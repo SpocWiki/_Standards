@@ -60,26 +60,26 @@ A time period from 264.28 to 259.51 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Capitanian) 
 
 
-#has_/label_/bg  :: Капитан
-#has_/label_/cs  :: Capitan
-#has_/label_/da  :: Capitanien
-#has_/label_/de  :: Capitanium
-#has_/label_/es  :: Capitaniense
-#has_/label_/et  :: Capitani
-#has_/label_/fi  :: Capitan
-#has_/label_/fr  :: Capitanien
-#has_/label_/hu  :: capitani
-#has_/label_/it  :: capitaniano
-#has_/label_/ja  :: カピタニアン期
-#has_/label_/lt  :: Kapitanis
-#has_/label_/nl  :: Capitaniën
-#has_/label_/no  :: Capitanium
-#has_/label_/pl  :: Kapitan
-#has_/label_/pt  :: Capitaniano
-#has_/label_/sk  :: capitan
-#has_/label_/sl  :: capitanij
-#has_/label_/sv  :: capitan
-#has_/label_/zh  :: 卡匹敦期
+#has_/name_/bg  :: Капитан
+#has_/name_/cs  :: Capitan
+#has_/name_/da  :: Capitanien
+#has_/name_/de  :: Capitanium
+#has_/name_/es  :: Capitaniense
+#has_/name_/et  :: Capitani
+#has_/name_/fi  :: Capitan
+#has_/name_/fr  :: Capitanien
+#has_/name_/hu  :: capitani
+#has_/name_/it  :: capitaniano
+#has_/name_/ja  :: カピタニアン期
+#has_/name_/lt  :: Kapitanis
+#has_/name_/nl  :: Capitaniën
+#has_/name_/no  :: Capitanium
+#has_/name_/pl  :: Kapitan
+#has_/name_/pt  :: Capitaniano
+#has_/name_/sk  :: capitan
+#has_/name_/sl  :: capitanij
+#has_/name_/sv  :: capitan
+#has_/name_/zh  :: 卡匹敦期
 
 #has_/abbreviation :: p7
 

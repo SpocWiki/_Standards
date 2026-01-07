@@ -38,24 +38,24 @@ A time period from 145.0 to 100.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Early%20Cretaceous) 
 
 
-#has_/label_/bg  :: Ранна Креда
-#has_/label_/da  :: Tidlig Kridt
-#has_/label_/de  :: Frühe Kreide
-#has_/label_/es  :: Cretácico temprano
-#has_/label_/et  :: Varajane kriit
-#has_/label_/fi  :: Varhais-Liitu
-#has_/label_/fr  :: Crétacé précoce
-#has_/label_/hu  :: kora-kréta
-#has_/label_/it  :: Cretaceo precoce
-#has_/label_/ja  :: 白亜紀前期
-#has_/label_/lt  :: Ankstyvoji Kreida
-#has_/label_/nl  :: Vroeg Krijt
-#has_/label_/pl  :: Wczesna Kreda
-#has_/label_/pt  :: Cretáceo Primitivo
-#has_/label_/sk  :: raná  krieda
-#has_/label_/sl  :: zgodnja kreda
-#has_/label_/sv  :: äldre krita
-#has_/label_/zh  :: 早白垩世
+#has_/name_/bg  :: Ранна Креда
+#has_/name_/da  :: Tidlig Kridt
+#has_/name_/de  :: Frühe Kreide
+#has_/name_/es  :: Cretácico temprano
+#has_/name_/et  :: Varajane kriit
+#has_/name_/fi  :: Varhais-Liitu
+#has_/name_/fr  :: Crétacé précoce
+#has_/name_/hu  :: kora-kréta
+#has_/name_/it  :: Cretaceo precoce
+#has_/name_/ja  :: 白亜紀前期
+#has_/name_/lt  :: Ankstyvoji Kreida
+#has_/name_/nl  :: Vroeg Krijt
+#has_/name_/pl  :: Wczesna Kreda
+#has_/name_/pt  :: Cretáceo Primitivo
+#has_/name_/sk  :: raná  krieda
+#has_/name_/sl  :: zgodnja kreda
+#has_/name_/sv  :: äldre krita
+#has_/name_/zh  :: 早白垩世
 
 #has_/abbreviation :: K1
 

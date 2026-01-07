@@ -56,26 +56,26 @@ A time period from 500.5 to 497 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Guzhangian) 
 
 
-#has_/label_/bg  :: Жужанг
-#has_/label_/cs  :: Guzhang
-#has_/label_/da  :: Guzhangien
-#has_/label_/de  :: Guzhangium
-#has_/label_/es  :: Guzhangiense
-#has_/label_/et  :: Guzhangi
-#has_/label_/fi  :: Guzhang
-#has_/label_/fr  :: Guzhangien
-#has_/label_/hu  :: guzhangi
-#has_/label_/it  :: guzhangiano
-#has_/label_/ja  :: グザンギアン期
-#has_/label_/lt  :: Gužangis
-#has_/label_/nl  :: Guzhangiën
-#has_/label_/no  :: Guzhangium
-#has_/label_/pl  :: Gużang
-#has_/label_/pt  :: Guzhangiano
-#has_/label_/sk  :: gužang
-#has_/label_/sl  :: guzhangij
-#has_/label_/sv  :: guzhang
-#has_/label_/zh  :: 古丈期
+#has_/name_/bg  :: Жужанг
+#has_/name_/cs  :: Guzhang
+#has_/name_/da  :: Guzhangien
+#has_/name_/de  :: Guzhangium
+#has_/name_/es  :: Guzhangiense
+#has_/name_/et  :: Guzhangi
+#has_/name_/fi  :: Guzhang
+#has_/name_/fr  :: Guzhangien
+#has_/name_/hu  :: guzhangi
+#has_/name_/it  :: guzhangiano
+#has_/name_/ja  :: グザンギアン期
+#has_/name_/lt  :: Gužangis
+#has_/name_/nl  :: Guzhangiën
+#has_/name_/no  :: Guzhangium
+#has_/name_/pl  :: Gużang
+#has_/name_/pt  :: Guzhangiano
+#has_/name_/sk  :: gužang
+#has_/name_/sl  :: guzhangij
+#has_/name_/sv  :: guzhang
+#has_/name_/zh  :: 古丈期
 
 #has_/abbreviation :: ep7
 

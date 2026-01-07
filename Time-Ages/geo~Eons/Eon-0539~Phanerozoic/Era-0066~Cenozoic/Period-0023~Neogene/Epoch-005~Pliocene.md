@@ -82,26 +82,26 @@ The average Temperature was 2.5° higher than before the industrial Revolution.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pliocene) 
 
 
-#has_/label_/bg  :: Плиоцен
-#has_/label_/cs  :: Pliocén
-#has_/label_/da  :: Pliocæn
-#has_/label_/de  :: Pliozän
-#has_/label_/es  :: Ploceno
-#has_/label_/et  :: Pliotseen
-#has_/label_/fi  :: Plioseeni
-#has_/label_/fr  :: Pliocène
-#has_/label_/hu  :: pliocén
-#has_/label_/it  :: pliocene
-#has_/label_/ja  :: 鮮新世
-#has_/label_/lt  :: Pliocenas
-#has_/label_/nl  :: Plioceen
-#has_/label_/no  :: Pliocen
-#has_/label_/pl  :: Pliocen
-#has_/label_/pt  :: Pliocénico
-#has_/label_/sk  :: pliocén
-#has_/label_/sl  :: pliocen
-#has_/label_/sv  :: pliocen
-#has_/label_/zh  :: 上新世
+#has_/name_/bg  :: Плиоцен
+#has_/name_/cs  :: Pliocén
+#has_/name_/da  :: Pliocæn
+#has_/name_/de  :: Pliozän
+#has_/name_/es  :: Ploceno
+#has_/name_/et  :: Pliotseen
+#has_/name_/fi  :: Plioseeni
+#has_/name_/fr  :: Pliocène
+#has_/name_/hu  :: pliocén
+#has_/name_/it  :: pliocene
+#has_/name_/ja  :: 鮮新世
+#has_/name_/lt  :: Pliocenas
+#has_/name_/nl  :: Plioceen
+#has_/name_/no  :: Pliocen
+#has_/name_/pl  :: Pliocen
+#has_/name_/pt  :: Pliocénico
+#has_/name_/sk  :: pliocén
+#has_/name_/sl  :: pliocen
+#has_/name_/sv  :: pliocen
+#has_/name_/zh  :: 上新世
 
     sh:order 12 
 

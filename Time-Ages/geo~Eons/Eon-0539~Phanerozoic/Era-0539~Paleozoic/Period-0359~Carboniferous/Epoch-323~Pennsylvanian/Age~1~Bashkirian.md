@@ -97,26 +97,26 @@ A time period from 323.2 to 315.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Bashkirian) 
 
 
-#has_/label_/bg  :: Башкир
-#has_/label_/cs  :: Bashkir
-#has_/label_/da  :: Bashkirien
-#has_/label_/de  :: Bashkirium
-#has_/label_/es  :: Bashkiriense
-#has_/label_/et  :: Baškiiri
-#has_/label_/fi  :: Bashkir
-#has_/label_/fr  :: Bashkirien
-#has_/label_/hu  :: baskír
-#has_/label_/it  :: bashkiriano
-#has_/label_/ja  :: バシキリアン期
-#has_/label_/lt  :: Bashkirian
-#has_/label_/nl  :: Bashkiriën
-#has_/label_/no  :: Bashkirium
-#has_/label_/pl  :: Baszkir
-#has_/label_/pt  :: Bashkiriano
-#has_/label_/sk  :: baškir
-#has_/label_/sl  :: baškirij
-#has_/label_/sv  :: bashkir
-#has_/label_/zh  :: 巴什基尔期
+#has_/name_/bg  :: Башкир
+#has_/name_/cs  :: Bashkir
+#has_/name_/da  :: Bashkirien
+#has_/name_/de  :: Bashkirium
+#has_/name_/es  :: Bashkiriense
+#has_/name_/et  :: Baškiiri
+#has_/name_/fi  :: Bashkir
+#has_/name_/fr  :: Bashkirien
+#has_/name_/hu  :: baskír
+#has_/name_/it  :: bashkiriano
+#has_/name_/ja  :: バシキリアン期
+#has_/name_/lt  :: Bashkirian
+#has_/name_/nl  :: Bashkiriën
+#has_/name_/no  :: Bashkirium
+#has_/name_/pl  :: Baszkir
+#has_/name_/pt  :: Bashkiriano
+#has_/name_/sk  :: baškir
+#has_/name_/sl  :: baškirij
+#has_/name_/sv  :: bashkir
+#has_/name_/zh  :: 巴什基尔期
 
 #has_/abbreviation :: c4
 

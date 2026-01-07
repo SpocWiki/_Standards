@@ -62,26 +62,26 @@ A time period from 538.8 to 529 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Fortunian) 
 
 
-#has_/label_/bg  :: Фортун
-#has_/label_/cs  :: Fortun
-#has_/label_/da  :: Fortunien
-#has_/label_/de  :: Fortunium
-#has_/label_/es  :: Fortuniense
-#has_/label_/et  :: Fortune
-#has_/label_/fi  :: Fortun
-#has_/label_/fr  :: Fortunien
-#has_/label_/hu  :: fortuni
-#has_/label_/it  :: fortuniano
-#has_/label_/ja  :: フォルツニアン期
-#has_/label_/lt  :: Fortunis
-#has_/label_/nl  :: Fortuniën
-#has_/label_/no  :: Fortunium
-#has_/label_/pl  :: Fortun
-#has_/label_/pt  :: Fortuniano
-#has_/label_/sk  :: fortun
-#has_/label_/sl  :: fortunij
-#has_/label_/sv  :: fortun
-#has_/label_/zh  :: 好运期
+#has_/name_/bg  :: Фортун
+#has_/name_/cs  :: Fortun
+#has_/name_/da  :: Fortunien
+#has_/name_/de  :: Fortunium
+#has_/name_/es  :: Fortuniense
+#has_/name_/et  :: Fortune
+#has_/name_/fi  :: Fortun
+#has_/name_/fr  :: Fortunien
+#has_/name_/hu  :: fortuni
+#has_/name_/it  :: fortuniano
+#has_/name_/ja  :: フォルツニアン期
+#has_/name_/lt  :: Fortunis
+#has_/name_/nl  :: Fortuniën
+#has_/name_/no  :: Fortunium
+#has_/name_/pl  :: Fortun
+#has_/name_/pt  :: Fortuniano
+#has_/name_/sk  :: fortun
+#has_/name_/sl  :: fortunij
+#has_/name_/sv  :: fortun
+#has_/name_/zh  :: 好运期
 
 #has_/abbreviation :: ep1
 

@@ -53,26 +53,26 @@ A time period from 145.0 to 66.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cretaceous) 
 
 
-#has_/label_/bg  :: Креда
-#has_/label_/cs  :: Křída
-#has_/label_/da  :: Kridt
-#has_/label_/de  :: Kreide
-#has_/label_/es  :: Cretácico
-#has_/label_/et  :: Kriit
-#has_/label_/fi  :: Liitu
-#has_/label_/fr  :: Crétacé
-#has_/label_/hu  :: kréta
-#has_/label_/it  :: cretacico
-#has_/label_/ja  :: 白亜紀
-#has_/label_/lt  :: Kreida
-#has_/label_/nl  :: Krijt
-#has_/label_/no  :: Kritt
-#has_/label_/pl  :: Kreda
-#has_/label_/pt  :: Cretácico
-#has_/label_/sk  :: krieda
-#has_/label_/sl  :: kreda
-#has_/label_/sv  :: krita
-#has_/label_/zh  :: 白垩纪
+#has_/name_/bg  :: Креда
+#has_/name_/cs  :: Křída
+#has_/name_/da  :: Kridt
+#has_/name_/de  :: Kreide
+#has_/name_/es  :: Cretácico
+#has_/name_/et  :: Kriit
+#has_/name_/fi  :: Liitu
+#has_/name_/fr  :: Crétacé
+#has_/name_/hu  :: kréta
+#has_/name_/it  :: cretacico
+#has_/name_/ja  :: 白亜紀
+#has_/name_/lt  :: Kreida
+#has_/name_/nl  :: Krijt
+#has_/name_/no  :: Kritt
+#has_/name_/pl  :: Kreda
+#has_/name_/pt  :: Cretácico
+#has_/name_/sk  :: krieda
+#has_/name_/sl  :: kreda
+#has_/name_/sv  :: krita
+#has_/name_/zh  :: 白垩纪
 
 #has_/abbreviation :: K
 

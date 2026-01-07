@@ -78,26 +78,26 @@ A time period from 538.8 million years ago to the present.
 > [Wikipedia](https://en.wikipedia.org/wiki/Phanerozoic) 
 
 
-#has_/label_/bg  :: Фанерозой
-#has_/label_/cs  :: Fanerozoikum
-#has_/label_/da  :: Phanerozoisk
-#has_/label_/de  :: Phanerozoikum
-#has_/label_/es  :: Fanerozoico
-#has_/label_/et  :: Fanerosoikum
-#has_/label_/fi  :: Fanerotsoikum
-#has_/label_/fr  :: Phanérozoïque
-#has_/label_/hu  :: fanerozoikum
-#has_/label_/it  :: fanerozoico
-#has_/label_/ja  :: 顕生代
-#has_/label_/lt  :: Fanerozojus
-#has_/label_/nl  :: Phanerozoïcum
-#has_/label_/no  :: Fanerozoikum
-#has_/label_/pl  :: Fanerozoik
-#has_/label_/pt  :: Fanerozóico
-#has_/label_/sk  :: fanerozoikum
-#has_/label_/sl  :: fanerozoik
-#has_/label_/sv  :: fanerozoikum
-#has_/label_/zh  :: 显生宙 
+#has_/name_/bg  :: Фанерозой
+#has_/name_/cs  :: Fanerozoikum
+#has_/name_/da  :: Phanerozoisk
+#has_/name_/de  :: Phanerozoikum
+#has_/name_/es  :: Fanerozoico
+#has_/name_/et  :: Fanerosoikum
+#has_/name_/fi  :: Fanerotsoikum
+#has_/name_/fr  :: Phanérozoïque
+#has_/name_/hu  :: fanerozoikum
+#has_/name_/it  :: fanerozoico
+#has_/name_/ja  :: 顕生代
+#has_/name_/lt  :: Fanerozojus
+#has_/name_/nl  :: Phanerozoïcum
+#has_/name_/no  :: Fanerozoikum
+#has_/name_/pl  :: Fanerozoik
+#has_/name_/pt  :: Fanerozóico
+#has_/name_/sk  :: fanerozoikum
+#has_/name_/sl  :: fanerozoik
+#has_/name_/sv  :: fanerozoikum
+#has_/name_/zh  :: 显生宙 
 
 #has_/time_/started :: -538.8e6 
 #has_/time_/stopped ::    0.0e6 
@@ -106,7 +106,7 @@ A time period from 538.8 million years ago to the present.
 
 
 `$=dv.current().has_label_de`
-`$=dv.current()["has_/label_/de"]`
+`$=dv.current()["has_/name_/de"]`
 
 ## All Contents
 

@@ -44,26 +44,26 @@ A time period from 66.0 to 61.6 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Danian) 
 
 
-#has_/label_/bg  :: Дан
-#has_/label_/cs  :: Dan
-#has_/label_/da  :: Danien
-#has_/label_/de  :: Danium
-#has_/label_/es  :: Daninese
-#has_/label_/et  :: Taani
-#has_/label_/fi  :: Dan
-#has_/label_/fr  :: Danien
-#has_/label_/hu  :: dániai
-#has_/label_/it  :: daniano
-#has_/label_/ja  :: ダニアン期
-#has_/label_/lt  :: Danis
-#has_/label_/nl  :: Daniën
-#has_/label_/no  :: Danium
-#has_/label_/pl  :: Dan
-#has_/label_/pt  :: Daniano
-#has_/label_/sk  :: dán
-#has_/label_/sl  :: danij
-#has_/label_/sv  :: dan
-#has_/label_/zh  :: 丹麦期
+#has_/name_/bg  :: Дан
+#has_/name_/cs  :: Dan
+#has_/name_/da  :: Danien
+#has_/name_/de  :: Danium
+#has_/name_/es  :: Daninese
+#has_/name_/et  :: Taani
+#has_/name_/fi  :: Dan
+#has_/name_/fr  :: Danien
+#has_/name_/hu  :: dániai
+#has_/name_/it  :: daniano
+#has_/name_/ja  :: ダニアン期
+#has_/name_/lt  :: Danis
+#has_/name_/nl  :: Daniën
+#has_/name_/no  :: Danium
+#has_/name_/pl  :: Dan
+#has_/name_/pt  :: Daniano
+#has_/name_/sk  :: dán
+#has_/name_/sl  :: danij
+#has_/name_/sv  :: dan
+#has_/name_/zh  :: 丹麦期
 
 #has_/abbreviation :: e1
 

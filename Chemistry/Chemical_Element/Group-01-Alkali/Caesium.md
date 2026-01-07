@@ -84,16 +84,16 @@ ZVG_number: 7550
 [Group:[[../Group-01-Alkali]]
 
 
-[Name-en::Caesium]
-[Name-de::Caesium]
+[#has_/name_/en::Caesium]
+[#has_/name_/de::Caesium]
 
-[Weight-u::132.905]
+[#has_/value_for_/weight_/u::132.905]
 [AtomRadius::3.34]
 [Atom-Vol-ccm-mol::71.07]
 [Unknown2::2.35]
-[Radius-nm::3.894]
+[#has_/radius_/nm::3.894]
 [Density::1.87]
-[BoilingPoint-C::678.4]
+[#has_/value_for_/temperature_/boil_/c ::678.4]
 [HeatCapacity::0.24]
 [HeatConduct::0.359]
 [Enthalpy::2.092]
@@ -107,7 +107,7 @@ ZVG_number: 7550
 > **Caesium** (IUPAC spelling) (or cesium in American English) 
 > is a chemical element with the symbol (Abbr::Cs) and atomic number (Charge-e::55). 
 > 
-> It is a soft, silvery-golden alkali metal with a melting point of [MeltingPoint-C::28.4] °C (83.3 °F), 
+> It is a soft, silvery-golden alkali metal with a melting point of [#has_/value_for_/temperature_/melt_/c ::28.4] °C (83.3 °F), 
 > which makes it one of only five elemental metals that are liquid at or near room temperature. 
 > 
 > Caesium has physical and chemical properties similar to those of rubidium and potassium. 

@@ -62,26 +62,26 @@ A time period from 259.51 to 254.14 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Wuchiapingian) 
 
 
-#has_/label_/bg  :: Вучиапинг
-#has_/label_/cs  :: Wuchiaping
-#has_/label_/da  :: Wuchiapingien
-#has_/label_/de  :: Wuchiapingium
-#has_/label_/es  :: Wuchiapingiense
-#has_/label_/et  :: Wuchiapingi
-#has_/label_/fi  :: Wuchiaiping
-#has_/label_/fr  :: Wuchiapingien
-#has_/label_/hu  :: wuchiapingi
-#has_/label_/it  :: wuchiapingiano
-#has_/label_/ja  :: ウキアピンギアン期
-#has_/label_/lt  :: VuĿiapingis
-#has_/label_/nl  :: Wuchiapingiën
-#has_/label_/no  :: Wuchianpingum
-#has_/label_/pl  :: Wuchiaping
-#has_/label_/pt  :: Wuchiapingiano
-#has_/label_/sk  :: wuťiapching
-#has_/label_/sl  :: wuchiapingij
-#has_/label_/sv  :: wuchiaping
-#has_/label_/zh  :: 吴家坪期
+#has_/name_/bg  :: Вучиапинг
+#has_/name_/cs  :: Wuchiaping
+#has_/name_/da  :: Wuchiapingien
+#has_/name_/de  :: Wuchiapingium
+#has_/name_/es  :: Wuchiapingiense
+#has_/name_/et  :: Wuchiapingi
+#has_/name_/fi  :: Wuchiaiping
+#has_/name_/fr  :: Wuchiapingien
+#has_/name_/hu  :: wuchiapingi
+#has_/name_/it  :: wuchiapingiano
+#has_/name_/ja  :: ウキアピンギアン期
+#has_/name_/lt  :: VuĿiapingis
+#has_/name_/nl  :: Wuchiapingiën
+#has_/name_/no  :: Wuchianpingum
+#has_/name_/pl  :: Wuchiaping
+#has_/name_/pt  :: Wuchiapingiano
+#has_/name_/sk  :: wuťiapching
+#has_/name_/sl  :: wuchiapingij
+#has_/name_/sv  :: wuchiaping
+#has_/name_/zh  :: 吴家坪期
 
 #has_/abbreviation :: p8
 

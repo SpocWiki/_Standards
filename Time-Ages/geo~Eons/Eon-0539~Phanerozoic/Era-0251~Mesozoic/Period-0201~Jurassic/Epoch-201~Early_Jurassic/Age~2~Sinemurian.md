@@ -44,26 +44,26 @@ A time period from 199.5 to 192.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Sinemurian) 
 
 
-#has_/label_/bg  :: Синемур
-#has_/label_/cs  :: Sinemur
-#has_/label_/da  :: Sinemurien
-#has_/label_/de  :: Sinémurium
-#has_/label_/es  :: Sinemuriense
-#has_/label_/et  :: Sinemuri
-#has_/label_/fi  :: Sinemur
-#has_/label_/fr  :: Sinémurien
-#has_/label_/hu  :: sinemuri
-#has_/label_/it  :: sinemuriano
-#has_/label_/ja  :: シネムール期
-#has_/label_/lt  :: Sinemiūris
-#has_/label_/nl  :: Sinemuriën
-#has_/label_/no  :: Sinemur
-#has_/label_/pl  :: Synemur
-#has_/label_/pt  :: Sinemuriano
-#has_/label_/sk  :: sinemúr
-#has_/label_/sl  :: sinemurij
-#has_/label_/sv  :: sinemur
-#has_/label_/zh  :: 辛涅穆尔期
+#has_/name_/bg  :: Синемур
+#has_/name_/cs  :: Sinemur
+#has_/name_/da  :: Sinemurien
+#has_/name_/de  :: Sinémurium
+#has_/name_/es  :: Sinemuriense
+#has_/name_/et  :: Sinemuri
+#has_/name_/fi  :: Sinemur
+#has_/name_/fr  :: Sinémurien
+#has_/name_/hu  :: sinemuri
+#has_/name_/it  :: sinemuriano
+#has_/name_/ja  :: シネムール期
+#has_/name_/lt  :: Sinemiūris
+#has_/name_/nl  :: Sinemuriën
+#has_/name_/no  :: Sinemur
+#has_/name_/pl  :: Synemur
+#has_/name_/pt  :: Sinemuriano
+#has_/name_/sk  :: sinemúr
+#has_/name_/sl  :: sinemurij
+#has_/name_/sv  :: sinemur
+#has_/name_/zh  :: 辛涅穆尔期
 
 #has_/abbreviation :: I2
 

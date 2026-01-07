@@ -76,26 +76,26 @@ start_time: -358900000-01-01T00:00:00Z
 
 #has_/previous_/item :: [[../../Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]] 
 #has_/next_/item :: [[Age~2~Visean|Age~Visean]] 
-#has_/label_/bg  :: Турней
-#has_/label_/cs  :: Tournai
-#has_/label_/da  :: Tournaisien
-#has_/label_/de  :: Tournaisium
-#has_/label_/es  :: Tournaisiense
-#has_/label_/et  :: Tournais
-#has_/label_/fi  :: Tournais
-#has_/label_/fr  :: Tournaisien
-#has_/label_/hu  :: tournaisi
-#has_/label_/it  :: tournasiano
-#has_/label_/ja  :: トルネージアン期
-#has_/label_/lt  :: Turnėjis
-#has_/label_/nl  :: Tournaisiën
-#has_/label_/no  :: Tournasium
-#has_/label_/pl  :: Turnej
-#has_/label_/pt  :: Turnaisiano
-#has_/label_/sk  :: turnén
-#has_/label_/sl  :: tournaisij
-#has_/label_/sv  :: tournas
-#has_/label_/zh  :: 杜内期
+#has_/name_/bg  :: Турней
+#has_/name_/cs  :: Tournai
+#has_/name_/da  :: Tournaisien
+#has_/name_/de  :: Tournaisium
+#has_/name_/es  :: Tournaisiense
+#has_/name_/et  :: Tournais
+#has_/name_/fi  :: Tournais
+#has_/name_/fr  :: Tournaisien
+#has_/name_/hu  :: tournaisi
+#has_/name_/it  :: tournasiano
+#has_/name_/ja  :: トルネージアン期
+#has_/name_/lt  :: Turnėjis
+#has_/name_/nl  :: Tournaisiën
+#has_/name_/no  :: Tournasium
+#has_/name_/pl  :: Turnej
+#has_/name_/pt  :: Turnaisiano
+#has_/name_/sk  :: turnén
+#has_/name_/sl  :: tournaisij
+#has_/name_/sv  :: tournas
+#has_/name_/zh  :: 杜内期
 
 #has_/abbreviation :: C1c1
 

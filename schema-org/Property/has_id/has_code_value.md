@@ -28,6 +28,8 @@ title: has_code_value
 type: Pred_Text
 ---
 
+# [[has_code_value]] 
+
 Predicate to describe the short textual code, 
 that uniquely identifies the value of CategoryCode, MedicalCode.
 

@@ -27,7 +27,7 @@ X_Twitter_username:
 #has_/next_/item :: [[Age-490~Cambrian_Stage_10]]   
 #is_/same_as :: [[WD~Jiangshanian,33062]] 
 
-#has_/label_/zh  :: 江山期 
+#has_/name_/zh  :: 江山期 
 
 #has_/abbreviation :: ep9
 #has_/time_/started :: -494.0e6 

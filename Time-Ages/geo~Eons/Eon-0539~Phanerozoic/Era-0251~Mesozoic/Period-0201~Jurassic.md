@@ -71,26 +71,26 @@ A time period from 201.4 million years ago to 145 Mya.
 > [Wikipedia](https://en.wikipedia.org/wiki/Jurassic) 
 
 
-#has_/label_/bg  :: Юра
-#has_/label_/cs  :: Jura
-#has_/label_/da  :: Jurassisk
-#has_/label_/de  :: Jura
-#has_/label_/es  :: Jurásico
-#has_/label_/et  :: Juura
-#has_/label_/fi  :: Jura
-#has_/label_/fr  :: Jurassique
-#has_/label_/hu  :: jura
-#has_/label_/it  :: giurassico
-#has_/label_/ja  :: ジュラ紀
-#has_/label_/lt  :: Jura
-#has_/label_/nl  :: Jura
-#has_/label_/no  :: Jura
-#has_/label_/pl  :: Jura
-#has_/label_/pt  :: Jurássico
-#has_/label_/sk  :: jura, jurský
-#has_/label_/sl  :: jura
-#has_/label_/sv  :: jura
-#has_/label_/zh  :: 侏罗纪
+#has_/name_/bg  :: Юра
+#has_/name_/cs  :: Jura
+#has_/name_/da  :: Jurassisk
+#has_/name_/de  :: Jura
+#has_/name_/es  :: Jurásico
+#has_/name_/et  :: Juura
+#has_/name_/fi  :: Jura
+#has_/name_/fr  :: Jurassique
+#has_/name_/hu  :: jura
+#has_/name_/it  :: giurassico
+#has_/name_/ja  :: ジュラ紀
+#has_/name_/lt  :: Jura
+#has_/name_/nl  :: Jura
+#has_/name_/no  :: Jura
+#has_/name_/pl  :: Jura
+#has_/name_/pt  :: Jurássico
+#has_/name_/sk  :: jura, jurský
+#has_/name_/sl  :: jura
+#has_/name_/sv  :: jura
+#has_/name_/zh  :: 侏罗纪
 
 #has_/abbreviation :: J
 

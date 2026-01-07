@@ -52,26 +52,26 @@ A time period from 33.9 to 23.03 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Oligocene) 
 
 
-#has_/label_/bg  :: Олигоцен
-#has_/label_/cs  :: Oligocén
-#has_/label_/da  :: Oligocæn
-#has_/label_/de  :: Oligozän
-#has_/label_/es  :: Oligoceno
-#has_/label_/et  :: Oligotseen
-#has_/label_/fi  :: Oligoseeni
-#has_/label_/fr  :: Oligocène
-#has_/label_/hu  :: oligocén
-#has_/label_/it  :: oligocene
-#has_/label_/ja  :: 漸新世
-#has_/label_/lt  :: Oligocenas
-#has_/label_/nl  :: Oliogoceen
-#has_/label_/no  :: Oligocen
-#has_/label_/pl  :: Oligocen
-#has_/label_/pt  :: Oligocénico
-#has_/label_/sk  :: oligocén
-#has_/label_/sl  :: oligocen
-#has_/label_/sv  :: oligocen
-#has_/label_/zh  :: 渐新世
+#has_/name_/bg  :: Олигоцен
+#has_/name_/cs  :: Oligocén
+#has_/name_/da  :: Oligocæn
+#has_/name_/de  :: Oligozän
+#has_/name_/es  :: Oligoceno
+#has_/name_/et  :: Oligotseen
+#has_/name_/fi  :: Oligoseeni
+#has_/name_/fr  :: Oligocène
+#has_/name_/hu  :: oligocén
+#has_/name_/it  :: oligocene
+#has_/name_/ja  :: 漸新世
+#has_/name_/lt  :: Oligocenas
+#has_/name_/nl  :: Oliogoceen
+#has_/name_/no  :: Oligocen
+#has_/name_/pl  :: Oligocen
+#has_/name_/pt  :: Oligocénico
+#has_/name_/sk  :: oligocén
+#has_/name_/sl  :: oligocen
+#has_/name_/sv  :: oligocen
+#has_/name_/zh  :: 渐新世
 
 #has_/abbreviation :: E3
 

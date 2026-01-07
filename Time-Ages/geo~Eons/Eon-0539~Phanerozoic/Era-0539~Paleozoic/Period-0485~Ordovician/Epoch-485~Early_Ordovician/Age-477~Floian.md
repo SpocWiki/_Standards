@@ -51,25 +51,25 @@ A time period from 477.7 to 470.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Floian) 
 
 
-#has_/label_/cs  :: Flo
-#has_/label_/da  :: Floian
-#has_/label_/de  :: Floium
-#has_/label_/es  :: Floiense
-#has_/label_/et  :: Floi
-#has_/label_/fi  :: Flo
-#has_/label_/fr  :: Floien
-#has_/label_/hu  :: floi
-#has_/label_/it  :: floiano
-#has_/label_/ja  :: フロイアン期
-#has_/label_/lt  :: Flois
-#has_/label_/nl  :: Floiën
-#has_/label_/no  :: Floium
-#has_/label_/pl  :: Flo
-#has_/label_/pt  :: Floiano
-#has_/label_/sk  :: flo
-#has_/label_/sl  :: floij
-#has_/label_/sv  :: flo
-#has_/label_/zh  :: 弗洛期
+#has_/name_/cs  :: Flo
+#has_/name_/da  :: Floian
+#has_/name_/de  :: Floium
+#has_/name_/es  :: Floiense
+#has_/name_/et  :: Floi
+#has_/name_/fi  :: Flo
+#has_/name_/fr  :: Floien
+#has_/name_/hu  :: floi
+#has_/name_/it  :: floiano
+#has_/name_/ja  :: フロイアン期
+#has_/name_/lt  :: Flois
+#has_/name_/nl  :: Floiën
+#has_/name_/no  :: Floium
+#has_/name_/pl  :: Flo
+#has_/name_/pt  :: Floiano
+#has_/name_/sk  :: flo
+#has_/name_/sl  :: floij
+#has_/name_/sv  :: flo
+#has_/name_/zh  :: 弗洛期
 
 #has_/abbreviation :: o2
 #has_/time_/started :: -477.7e6 

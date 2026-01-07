@@ -35,26 +35,26 @@ A time period from 41.2 to 37.71 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Bartonian) 
 
 
-#has_/label_/bg  :: Бартон
-#has_/label_/cs  :: Barton
-#has_/label_/da  :: Bartonien
-#has_/label_/de  :: Bartonium
-#has_/label_/es  :: Bartoniense
-#has_/label_/et  :: Bartoni
-#has_/label_/fi  :: Barton
-#has_/label_/fr  :: Bartonien
-#has_/label_/hu  :: bartoni
-#has_/label_/it  :: bartoniano
-#has_/label_/ja  :: バートニアン期
-#has_/label_/lt  :: Bartonis
-#has_/label_/nl  :: Bartoniën
-#has_/label_/no  :: Barton
-#has_/label_/pl  :: Barton
-#has_/label_/pt  :: Bartoniano
-#has_/label_/sk  :: bartón
-#has_/label_/sl  :: bartonij
-#has_/label_/sv  :: barton
-#has_/label_/zh  :: 巴尔顿期
+#has_/name_/bg  :: Бартон
+#has_/name_/cs  :: Barton
+#has_/name_/da  :: Bartonien
+#has_/name_/de  :: Bartonium
+#has_/name_/es  :: Bartoniense
+#has_/name_/et  :: Bartoni
+#has_/name_/fi  :: Barton
+#has_/name_/fr  :: Bartonien
+#has_/name_/hu  :: bartoni
+#has_/name_/it  :: bartoniano
+#has_/name_/ja  :: バートニアン期
+#has_/name_/lt  :: Bartonis
+#has_/name_/nl  :: Bartoniën
+#has_/name_/no  :: Barton
+#has_/name_/pl  :: Barton
+#has_/name_/pt  :: Bartoniano
+#has_/name_/sk  :: bartón
+#has_/name_/sl  :: bartonij
+#has_/name_/sv  :: barton
+#has_/name_/zh  :: 巴尔顿期
 
 #has_/abbreviation :: e6
 

@@ -42,26 +42,26 @@ A time period from 247.2 to 242 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Anisian) 
 
 
-#has_/label_/bg  :: пниз
-#has_/label_/cs  :: Anis
-#has_/label_/da  :: Anisien
-#has_/label_/de  :: Anisium
-#has_/label_/es  :: Anisiense
-#has_/label_/et  :: Anisi
-#has_/label_/fi  :: Anis
-#has_/label_/fr  :: Anisien
-#has_/label_/hu  :: anisusi
-#has_/label_/it  :: anisico
-#has_/label_/ja  :: アニシアン期
-#has_/label_/lt  :: Anizis
-#has_/label_/nl  :: Anisiën
-#has_/label_/no  :: Ansin
-#has_/label_/pl  :: Anizyk
-#has_/label_/pt  :: Anisiano
-#has_/label_/sk  :: anis
-#has_/label_/sl  :: anizij
-#has_/label_/sv  :: anis
-#has_/label_/zh  :: 安尼期
+#has_/name_/bg  :: пниз
+#has_/name_/cs  :: Anis
+#has_/name_/da  :: Anisien
+#has_/name_/de  :: Anisium
+#has_/name_/es  :: Anisiense
+#has_/name_/et  :: Anisi
+#has_/name_/fi  :: Anis
+#has_/name_/fr  :: Anisien
+#has_/name_/hu  :: anisusi
+#has_/name_/it  :: anisico
+#has_/name_/ja  :: アニシアン期
+#has_/name_/lt  :: Anizis
+#has_/name_/nl  :: Anisiën
+#has_/name_/no  :: Ansin
+#has_/name_/pl  :: Anizyk
+#has_/name_/pt  :: Anisiano
+#has_/name_/sk  :: anis
+#has_/name_/sl  :: anizij
+#has_/name_/sv  :: anis
+#has_/name_/zh  :: 安尼期
 
 #has_/abbreviation :: t3
 

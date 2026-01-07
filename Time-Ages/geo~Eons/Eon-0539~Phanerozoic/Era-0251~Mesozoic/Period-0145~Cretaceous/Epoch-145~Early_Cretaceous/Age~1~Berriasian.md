@@ -32,26 +32,26 @@ A time period from 145.0 to 139.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Berriasian) 
 
 
-#has_/label_/bg  :: Бериаѿ
-#has_/label_/cs  :: Berrias
-#has_/label_/da  :: Berriasien
-#has_/label_/de  :: Berriasium
-#has_/label_/es  :: Berriasiense
-#has_/label_/et  :: Berriasi
-#has_/label_/fi  :: Berrias
-#has_/label_/fr  :: Berriasien
-#has_/label_/hu  :: berriasi
-#has_/label_/it  :: berriasiano
-#has_/label_/ja  :: ベリアシアン期
-#has_/label_/lt  :: Beriasis
-#has_/label_/nl  :: Berrasiën
-#has_/label_/no  :: Berriasium
-#has_/label_/pl  :: Berias
-#has_/label_/pt  :: Berriasiano
-#has_/label_/sk  :: berias
-#has_/label_/sl  :: berriasij
-#has_/label_/sv  :: berrias
-#has_/label_/zh  :: 贝利亚斯期
+#has_/name_/bg  :: Бериаѿ
+#has_/name_/cs  :: Berrias
+#has_/name_/da  :: Berriasien
+#has_/name_/de  :: Berriasium
+#has_/name_/es  :: Berriasiense
+#has_/name_/et  :: Berriasi
+#has_/name_/fi  :: Berrias
+#has_/name_/fr  :: Berriasien
+#has_/name_/hu  :: berriasi
+#has_/name_/it  :: berriasiano
+#has_/name_/ja  :: ベリアシアン期
+#has_/name_/lt  :: Beriasis
+#has_/name_/nl  :: Berrasiën
+#has_/name_/no  :: Berriasium
+#has_/name_/pl  :: Berias
+#has_/name_/pt  :: Berriasiano
+#has_/name_/sk  :: berias
+#has_/name_/sl  :: berriasij
+#has_/name_/sv  :: berrias
+#has_/name_/zh  :: 贝利亚斯期
 
 #has_/abbreviation :: b1
 

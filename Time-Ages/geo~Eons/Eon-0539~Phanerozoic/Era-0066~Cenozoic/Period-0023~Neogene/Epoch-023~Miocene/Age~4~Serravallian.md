@@ -38,26 +38,26 @@ A time period from 13.82 to 11.63 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Serravallian) 
 
 
-#has_/label_/bg  :: Саравал
-#has_/label_/cs  :: Serraval
-#has_/label_/da  :: Serravallien
-#has_/label_/de  :: Serravallium
-#has_/label_/es  :: Serravalliense
-#has_/label_/et  :: Serravalli
-#has_/label_/fi  :: Serravall
-#has_/label_/fr  :: Serravallien
-#has_/label_/hu  :: serravallei
-#has_/label_/it  :: serravaliano
-#has_/label_/ja  :: サーラバリアン期
-#has_/label_/lt  :: Seravalis
-#has_/label_/nl  :: Serravalliën - Langeveld
-#has_/label_/no  :: Servallium
-#has_/label_/pl  :: Serrawal
-#has_/label_/pt  :: Serravaliano
-#has_/label_/sk  :: serravall
-#has_/label_/sl  :: serravallij
-#has_/label_/sv  :: serravall
-#has_/label_/zh  :: 塞拉瓦尔期
+#has_/name_/bg  :: Саравал
+#has_/name_/cs  :: Serraval
+#has_/name_/da  :: Serravallien
+#has_/name_/de  :: Serravallium
+#has_/name_/es  :: Serravalliense
+#has_/name_/et  :: Serravalli
+#has_/name_/fi  :: Serravall
+#has_/name_/fr  :: Serravallien
+#has_/name_/hu  :: serravallei
+#has_/name_/it  :: serravaliano
+#has_/name_/ja  :: サーラバリアン期
+#has_/name_/lt  :: Seravalis
+#has_/name_/nl  :: Serravalliën - Langeveld
+#has_/name_/no  :: Servallium
+#has_/name_/pl  :: Serrawal
+#has_/name_/pt  :: Serravaliano
+#has_/name_/sk  :: serravall
+#has_/name_/sl  :: serravallij
+#has_/name_/sv  :: serravall
+#has_/name_/zh  :: 塞拉瓦尔期
 
 #has_/abbreviation :: n4
 

@@ -51,26 +51,26 @@ A time period from 497 to 485.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Furongian) 
 
 
-#has_/label_/bg  :: Фуронг
-#has_/label_/cs  :: Furong
-#has_/label_/da  :: Furongien
-#has_/label_/de  :: Furongium
-#has_/label_/es  :: Furogiense
-#has_/label_/et  :: Furong
-#has_/label_/fi  :: Furong
-#has_/label_/fr  :: Furongien
-#has_/label_/hu  :: furongi
-#has_/label_/it  :: furongiano
-#has_/label_/ja  :: フロンギアン世
-#has_/label_/lt  :: Furongis
-#has_/label_/nl  :: Furongiën
-#has_/label_/no  :: Furongium
-#has_/label_/pl  :: Furong
-#has_/label_/pt  :: Furongiano
-#has_/label_/sk  :: furong
-#has_/label_/sl  :: furongij
-#has_/label_/sv  :: furong
-#has_/label_/zh  :: 芙蓉世
+#has_/name_/bg  :: Фуронг
+#has_/name_/cs  :: Furong
+#has_/name_/da  :: Furongien
+#has_/name_/de  :: Furongium
+#has_/name_/es  :: Furogiense
+#has_/name_/et  :: Furong
+#has_/name_/fi  :: Furong
+#has_/name_/fr  :: Furongien
+#has_/name_/hu  :: furongi
+#has_/name_/it  :: furongiano
+#has_/name_/ja  :: フロンギアン世
+#has_/name_/lt  :: Furongis
+#has_/name_/nl  :: Furongiën
+#has_/name_/no  :: Furongium
+#has_/name_/pl  :: Furong
+#has_/name_/pt  :: Furongiano
+#has_/name_/sk  :: furong
+#has_/name_/sl  :: furongij
+#has_/name_/sv  :: furong
+#has_/name_/zh  :: 芙蓉世
 
 #has_/abbreviation :: Ep4
 

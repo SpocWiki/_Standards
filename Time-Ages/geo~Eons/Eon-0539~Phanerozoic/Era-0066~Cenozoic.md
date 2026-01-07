@@ -89,28 +89,28 @@ A time period from 66.0 million years ago to the present.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cenozoic) 
 
 
-#has_/label_/bg  :: пеозой
-#has_/label_/cs  :: Kenozoikum
-#has_/label_/da  :: Kænozoisk
-#has_/label_/de  :: Känozoikum
-#has_/label_/en-GB  :: Cainozoic
-#has_/label_/en-US  :: Cenozoic
-#has_/label_/es  :: Cenozoico
-#has_/label_/et  :: Kainosoikum
-#has_/label_/fi  :: Kenotsoikum
-#has_/label_/fr  :: Cénozoïque
-#has_/label_/hu  :: kainozoikum
-#has_/label_/it  :: cenozoico
-#has_/label_/ja  :: 新生代
-#has_/label_/lt  :: Cenozojus
-#has_/label_/nl  :: Kaenozoïcum
-#has_/label_/no  :: Kenozoikum
-#has_/label_/pl  :: Kenozoik
-#has_/label_/pt  :: Cenozóico
-#has_/label_/sk  :: kenozoikum
-#has_/label_/sl  :: kenozoik
-#has_/label_/sv  :: kenozoikum
-#has_/label_/zh  :: 新生代
+#has_/name_/bg  :: пеозой
+#has_/name_/cs  :: Kenozoikum
+#has_/name_/da  :: Kænozoisk
+#has_/name_/de  :: Känozoikum
+#has_/name_/en-GB  :: Cainozoic
+#has_/name_/en-US  :: Cenozoic
+#has_/name_/es  :: Cenozoico
+#has_/name_/et  :: Kainosoikum
+#has_/name_/fi  :: Kenotsoikum
+#has_/name_/fr  :: Cénozoïque
+#has_/name_/hu  :: kainozoikum
+#has_/name_/it  :: cenozoico
+#has_/name_/ja  :: 新生代
+#has_/name_/lt  :: Cenozojus
+#has_/name_/nl  :: Kaenozoïcum
+#has_/name_/no  :: Kenozoikum
+#has_/name_/pl  :: Kenozoik
+#has_/name_/pt  :: Cenozóico
+#has_/name_/sk  :: kenozoikum
+#has_/name_/sl  :: kenozoik
+#has_/name_/sv  :: kenozoikum
+#has_/name_/zh  :: 新生代
 
         
 #has_/abbreviation :: CZ

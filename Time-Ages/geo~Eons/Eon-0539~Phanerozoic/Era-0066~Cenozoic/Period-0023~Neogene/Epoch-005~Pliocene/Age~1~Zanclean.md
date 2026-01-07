@@ -41,26 +41,26 @@ A time period from 5.333 to 3.6 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Zanclean) 
 
 
-#has_/label_/bg  :: Занклѿки
-#has_/label_/cs  :: Zancl
-#has_/label_/da  :: Zanclien
-#has_/label_/de  :: Zanclium
-#has_/label_/es  :: Zanclayense
-#has_/label_/et  :: Zancle
-#has_/label_/fi  :: Zancl
-#has_/label_/fr  :: Zancléen
-#has_/label_/hu  :: zanclai
-#has_/label_/it  :: zancleano
-#has_/label_/ja  :: ザンクレアン期
-#has_/label_/lt  :: Zanklis
-#has_/label_/nl  :: Brunssummiën
-#has_/label_/no  :: Zancleium
-#has_/label_/pl  :: Zankl
-#has_/label_/pt  :: Zancleano
-#has_/label_/sk  :: zanclean
-#has_/label_/sl  :: zanclij
-#has_/label_/sv  :: zancl
-#has_/label_/zh  :: 赞克勒期
+#has_/name_/bg  :: Занклѿки
+#has_/name_/cs  :: Zancl
+#has_/name_/da  :: Zanclien
+#has_/name_/de  :: Zanclium
+#has_/name_/es  :: Zanclayense
+#has_/name_/et  :: Zancle
+#has_/name_/fi  :: Zancl
+#has_/name_/fr  :: Zancléen
+#has_/name_/hu  :: zanclai
+#has_/name_/it  :: zancleano
+#has_/name_/ja  :: ザンクレアン期
+#has_/name_/lt  :: Zanklis
+#has_/name_/nl  :: Brunssummiën
+#has_/name_/no  :: Zancleium
+#has_/name_/pl  :: Zankl
+#has_/name_/pt  :: Zancleano
+#has_/name_/sk  :: zanclean
+#has_/name_/sl  :: zanclij
+#has_/name_/sv  :: zancl
+#has_/name_/zh  :: 赞克勒期
 
 #has_/abbreviation :: n7
 

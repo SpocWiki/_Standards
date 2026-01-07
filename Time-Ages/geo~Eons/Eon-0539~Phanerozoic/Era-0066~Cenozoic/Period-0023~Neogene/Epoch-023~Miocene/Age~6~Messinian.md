@@ -42,26 +42,26 @@ A time period from 7.246 to 5.333 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Messinian) 
 
 
-#has_/label_/bg  :: Меѿин
-#has_/label_/cs  :: Messin
-#has_/label_/da  :: Messinien
-#has_/label_/de  :: Messinium
-#has_/label_/es  :: Messiniense
-#has_/label_/et  :: Messini
-#has_/label_/fi  :: Messina
-#has_/label_/fr  :: Messinien
-#has_/label_/hu  :: messinai
-#has_/label_/it  :: messiniano
-#has_/label_/ja  :: メッシニアン期
-#has_/label_/lt  :: Mesinis
-#has_/label_/nl  :: Susteriën
-#has_/label_/no  :: Messinium
-#has_/label_/pl  :: Messyn
-#has_/label_/pt  :: Messiniano
-#has_/label_/sk  :: messin
-#has_/label_/sl  :: messinij
-#has_/label_/sv  :: messin
-#has_/label_/zh  :: 墨西拿期
+#has_/name_/bg  :: Меѿин
+#has_/name_/cs  :: Messin
+#has_/name_/da  :: Messinien
+#has_/name_/de  :: Messinium
+#has_/name_/es  :: Messiniense
+#has_/name_/et  :: Messini
+#has_/name_/fi  :: Messina
+#has_/name_/fr  :: Messinien
+#has_/name_/hu  :: messinai
+#has_/name_/it  :: messiniano
+#has_/name_/ja  :: メッシニアン期
+#has_/name_/lt  :: Mesinis
+#has_/name_/nl  :: Susteriën
+#has_/name_/no  :: Messinium
+#has_/name_/pl  :: Messyn
+#has_/name_/pt  :: Messiniano
+#has_/name_/sk  :: messin
+#has_/name_/sl  :: messinij
+#has_/name_/sv  :: messin
+#has_/name_/zh  :: 墨西拿期
 
 #has_/abbreviation :: n6
 

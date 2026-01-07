@@ -98,26 +98,26 @@ A time period from 315.2 to 307.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Moscovian%20(Carboniferous)) 
 
 
-#has_/label_/bg  :: Моѿков
-#has_/label_/cs  :: Moscov
-#has_/label_/da  :: Moscovien
-#has_/label_/de  :: Moskovium
-#has_/label_/es  :: Moscoviense
-#has_/label_/et  :: Moskva
-#has_/label_/fi  :: Moskova
-#has_/label_/fr  :: Moscovien
-#has_/label_/hu  :: moszkvai
-#has_/label_/it  :: moscoviano
-#has_/label_/ja  :: モスコビアン期
-#has_/label_/lt  :: Moskovis
-#has_/label_/nl  :: Moscoviën
-#has_/label_/no  :: Moskovium
-#has_/label_/pl  :: Moskow
-#has_/label_/pt  :: Moscoviano
-#has_/label_/sk  :: moskov
-#has_/label_/sl  :: moskovij
-#has_/label_/sv  :: moscov
-#has_/label_/zh  :: 莫斯科期
+#has_/name_/bg  :: Моѿков
+#has_/name_/cs  :: Moscov
+#has_/name_/da  :: Moscovien
+#has_/name_/de  :: Moskovium
+#has_/name_/es  :: Moscoviense
+#has_/name_/et  :: Moskva
+#has_/name_/fi  :: Moskova
+#has_/name_/fr  :: Moscovien
+#has_/name_/hu  :: moszkvai
+#has_/name_/it  :: moscoviano
+#has_/name_/ja  :: モスコビアン期
+#has_/name_/lt  :: Moskovis
+#has_/name_/nl  :: Moscoviën
+#has_/name_/no  :: Moskovium
+#has_/name_/pl  :: Moskow
+#has_/name_/pt  :: Moscoviano
+#has_/name_/sk  :: moskov
+#has_/name_/sl  :: moskovij
+#has_/name_/sv  :: moscov
+#has_/name_/zh  :: 莫斯科期
 
 #has_/abbreviation :: c5
 

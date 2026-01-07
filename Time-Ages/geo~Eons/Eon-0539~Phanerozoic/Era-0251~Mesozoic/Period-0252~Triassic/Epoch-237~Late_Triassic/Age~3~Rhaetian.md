@@ -57,26 +57,26 @@ A time period from 208.5 to 201.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhaetian) 
 
 
-#has_/label_/bg  :: Рет
-#has_/label_/cs  :: Rhaet
-#has_/label_/da  :: Rhaetien
-#has_/label_/de  :: Rhätium
-#has_/label_/es  :: Rhetiense
-#has_/label_/et  :: Rhaeti
-#has_/label_/fi  :: Rhaet
-#has_/label_/fr  :: Rhétien
-#has_/label_/hu  :: rhaeti
-#has_/label_/it  :: retico
-#has_/label_/ja  :: レーティアン期
-#has_/label_/lt  :: Retis
-#has_/label_/nl  :: Rhaetiën
-#has_/label_/no  :: Ræt
-#has_/label_/pl  :: Retyk
-#has_/label_/pt  :: Reciano
-#has_/label_/sk  :: rét
-#has_/label_/sl  :: retij
-#has_/label_/sv  :: rät
-#has_/label_/zh  :: 瑞替期
+#has_/name_/bg  :: Рет
+#has_/name_/cs  :: Rhaet
+#has_/name_/da  :: Rhaetien
+#has_/name_/de  :: Rhätium
+#has_/name_/es  :: Rhetiense
+#has_/name_/et  :: Rhaeti
+#has_/name_/fi  :: Rhaet
+#has_/name_/fr  :: Rhétien
+#has_/name_/hu  :: rhaeti
+#has_/name_/it  :: retico
+#has_/name_/ja  :: レーティアン期
+#has_/name_/lt  :: Retis
+#has_/name_/nl  :: Rhaetiën
+#has_/name_/no  :: Ræt
+#has_/name_/pl  :: Retyk
+#has_/name_/pt  :: Reciano
+#has_/name_/sk  :: rét
+#has_/name_/sl  :: retij
+#has_/name_/sv  :: rät
+#has_/name_/zh  :: 瑞替期
 
 #has_/abbreviation :: t7
 

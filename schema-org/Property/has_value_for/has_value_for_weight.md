@@ -3,8 +3,8 @@ aliases:
   - weight
   - weight
   - weight
-  - has_value_for_weight_in_gram
-  - has value for weight in gram
+  - has_value_for_weight_gram
+  - has value for weight gram
 confidential: public
 cssclasses:
   - Predicate
@@ -27,6 +27,10 @@ title: has_weight
 type: Predi_Quantity
 ---
 
+# [[has_value_for_weight]] 
+
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]] 
+
 Predicate to describe the Quantity of OfferShippingDetails, Person, Product.
 
 Use it like this: 
@@ -39,7 +43,6 @@ Predicate describes that:
 [ #has_/domain  :: OfferShippingDetails, Person, Product ]
 ( #has_/name :: has_value_for_weight_in_gram )
 ( #has_/range :: QuantitativeValue )
-
 
 ## Confidential Links & Embeds: 
 

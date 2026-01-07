@@ -80,26 +80,26 @@ A time period from 358.9 to 298.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Carboniferous) 
 
 
-#has_/label_/bg  :: Карбон
-#has_/label_/cs  :: Karbon
-#has_/label_/da  :: Karbon
-#has_/label_/de  :: Karbon
-#has_/label_/es  :: Carbonífero
-#has_/label_/et  :: Karbon
-#has_/label_/fi  :: Kivihiili
-#has_/label_/fr  :: Carbonifère
-#has_/label_/hu  :: karbon
-#has_/label_/it  :: carbonifero
-#has_/label_/ja  :: 石炭紀
-#has_/label_/lt  :: Karbonas
-#has_/label_/nl  :: Carboon
-#has_/label_/no  :: Karbon
-#has_/label_/pl  :: Karbon
-#has_/label_/pt  :: Carbónico
-#has_/label_/sk  :: karbón
-#has_/label_/sl  :: karbon
-#has_/label_/sv  :: karbon
-#has_/label_/zh  :: 石炭纪
+#has_/name_/bg  :: Карбон
+#has_/name_/cs  :: Karbon
+#has_/name_/da  :: Karbon
+#has_/name_/de  :: Karbon
+#has_/name_/es  :: Carbonífero
+#has_/name_/et  :: Karbon
+#has_/name_/fi  :: Kivihiili
+#has_/name_/fr  :: Carbonifère
+#has_/name_/hu  :: karbon
+#has_/name_/it  :: carbonifero
+#has_/name_/ja  :: 石炭紀
+#has_/name_/lt  :: Karbonas
+#has_/name_/nl  :: Carboon
+#has_/name_/no  :: Karbon
+#has_/name_/pl  :: Karbon
+#has_/name_/pt  :: Carbónico
+#has_/name_/sk  :: karbón
+#has_/name_/sl  :: karbon
+#has_/name_/sv  :: karbon
+#has_/name_/zh  :: 石炭纪
 
 #has_/abbreviation :: C
 

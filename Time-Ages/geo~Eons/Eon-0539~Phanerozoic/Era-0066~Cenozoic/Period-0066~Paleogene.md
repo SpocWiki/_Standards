@@ -67,28 +67,28 @@ A time period from 66.0 to 23.03 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Paleogene) 
 
 
-#has_/label_/bg  :: Палеоген
-#has_/label_/cs  :: Paleogén
-#has_/label_/da  :: Palæogen
-#has_/label_/de  :: Paläogen
-#has_/label_/en-GB  :: Palaeogene
-#has_/label_/en-US  :: Paleogene
-#has_/label_/es  :: Paleógeno
-#has_/label_/et  :: Paleogeen
-#has_/label_/fi  :: Paleogeeni
-#has_/label_/fr  :: Paléogène
-#has_/label_/hu  :: paleogén
-#has_/label_/it  :: paleogene
-#has_/label_/ja  :: 古第三紀
-#has_/label_/lt  :: Paleogenas
-#has_/label_/nl  :: Paleogeen
-#has_/label_/no  :: Paleogen
-#has_/label_/pl  :: Paleogen
-#has_/label_/pt  :: Paleogénico
-#has_/label_/sk  :: paleogén
-#has_/label_/sl  :: paleogen
-#has_/label_/sv  :: paleogen
-#has_/label_/zh  :: 早第三纪
+#has_/name_/bg  :: Палеоген
+#has_/name_/cs  :: Paleogén
+#has_/name_/da  :: Palæogen
+#has_/name_/de  :: Paläogen
+#has_/name_/en-GB  :: Palaeogene
+#has_/name_/en-US  :: Paleogene
+#has_/name_/es  :: Paleógeno
+#has_/name_/et  :: Paleogeen
+#has_/name_/fi  :: Paleogeeni
+#has_/name_/fr  :: Paléogène
+#has_/name_/hu  :: paleogén
+#has_/name_/it  :: paleogene
+#has_/name_/ja  :: 古第三紀
+#has_/name_/lt  :: Paleogenas
+#has_/name_/nl  :: Paleogeen
+#has_/name_/no  :: Paleogen
+#has_/name_/pl  :: Paleogen
+#has_/name_/pt  :: Paleogénico
+#has_/name_/sk  :: paleogén
+#has_/name_/sl  :: paleogen
+#has_/name_/sv  :: paleogen
+#has_/name_/zh  :: 早第三纪
 
 #has_/abbreviation :: E
 

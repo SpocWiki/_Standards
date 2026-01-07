@@ -41,26 +41,26 @@ A time period from 227 to 208.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Norian) 
 
 
-#has_/label_/bg  :: пор
-#has_/label_/cs  :: Nor
-#has_/label_/da  :: Norien
-#has_/label_/de  :: Norium
-#has_/label_/es  :: Noriense
-#has_/label_/et  :: Nori
-#has_/label_/fi  :: Nor
-#has_/label_/fr  :: Norien
-#has_/label_/hu  :: nori
-#has_/label_/it  :: norico
-#has_/label_/ja  :: ノーリアン期
-#has_/label_/lt  :: Noris
-#has_/label_/nl  :: Noriën
-#has_/label_/no  :: Nor
-#has_/label_/pl  :: Noryk
-#has_/label_/pt  :: Noriano
-#has_/label_/sk  :: norik
-#has_/label_/sl  :: norij
-#has_/label_/sv  :: nor
-#has_/label_/zh  :: 诺利克期
+#has_/name_/bg  :: пор
+#has_/name_/cs  :: Nor
+#has_/name_/da  :: Norien
+#has_/name_/de  :: Norium
+#has_/name_/es  :: Noriense
+#has_/name_/et  :: Nori
+#has_/name_/fi  :: Nor
+#has_/name_/fr  :: Norien
+#has_/name_/hu  :: nori
+#has_/name_/it  :: norico
+#has_/name_/ja  :: ノーリアン期
+#has_/name_/lt  :: Noris
+#has_/name_/nl  :: Noriën
+#has_/name_/no  :: Nor
+#has_/name_/pl  :: Noryk
+#has_/name_/pt  :: Noriano
+#has_/name_/sk  :: norik
+#has_/name_/sl  :: norij
+#has_/name_/sv  :: nor
+#has_/name_/zh  :: 诺利克期
 
 #has_/abbreviation :: t6
 

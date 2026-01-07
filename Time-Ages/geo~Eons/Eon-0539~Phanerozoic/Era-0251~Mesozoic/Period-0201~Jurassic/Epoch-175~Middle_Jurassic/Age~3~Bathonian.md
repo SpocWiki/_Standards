@@ -38,26 +38,26 @@ A time period from 168.2 to 165.3 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Bathonian) 
 
 
-#has_/label_/bg  :: Бат
-#has_/label_/cs  :: Bathon
-#has_/label_/da  :: Bathonien
-#has_/label_/de  :: Bathonium
-#has_/label_/es  :: Bathoniense
-#has_/label_/et  :: Bathoni
-#has_/label_/fi  :: Bathon
-#has_/label_/fr  :: Bathonien
-#has_/label_/hu  :: bath
-#has_/label_/it  :: bathoniano
-#has_/label_/ja  :: バソニアン期
-#has_/label_/lt  :: Batonis
-#has_/label_/nl  :: Barthoniën
-#has_/label_/no  :: Bathon
-#has_/label_/pl  :: Baton
-#has_/label_/pt  :: Batoniano
-#has_/label_/sk  :: bath
-#has_/label_/sl  :: bathonij
-#has_/label_/sv  :: bathon
-#has_/label_/zh  :: 巴通期
+#has_/name_/bg  :: Бат
+#has_/name_/cs  :: Bathon
+#has_/name_/da  :: Bathonien
+#has_/name_/de  :: Bathonium
+#has_/name_/es  :: Bathoniense
+#has_/name_/et  :: Bathoni
+#has_/name_/fi  :: Bathon
+#has_/name_/fr  :: Bathonien
+#has_/name_/hu  :: bath
+#has_/name_/it  :: bathoniano
+#has_/name_/ja  :: バソニアン期
+#has_/name_/lt  :: Batonis
+#has_/name_/nl  :: Barthoniën
+#has_/name_/no  :: Bathon
+#has_/name_/pl  :: Baton
+#has_/name_/pt  :: Batoniano
+#has_/name_/sk  :: bath
+#has_/name_/sl  :: bathonij
+#has_/name_/sv  :: bathon
+#has_/name_/zh  :: 巴通期
 
 #has_/abbreviation :: j3
 

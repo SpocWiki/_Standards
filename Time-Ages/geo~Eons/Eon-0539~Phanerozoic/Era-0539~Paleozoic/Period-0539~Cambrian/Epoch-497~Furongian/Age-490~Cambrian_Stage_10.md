@@ -85,26 +85,26 @@ A time period from 489.5 to 485.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%2010) 
 
 
-#has_/label_/bg  :: Камбрий - 10 етаж
-#has_/label_/cs  :: Kambrium-Stupeň 10
-#has_/label_/da  :: Kambrium-Etage 10
-#has_/label_/de  :: Kambrium-Stufe 10
-#has_/label_/es  :: Cámbrico-Piso 10
-#has_/label_/et  :: Kambrium, Lade 10
-#has_/label_/fi  :: Kambri-vaihe 10
-#has_/label_/fr  :: Cambrien-Etage 10
-#has_/label_/hu  :: kambrium 10. emelet
-#has_/label_/it  :: cambriano - stage 10
-#has_/label_/ja  :: 第10期
-#has_/label_/lt  :: Kambras-Aukštas 10
-#has_/label_/nl  :: Cambrium, Zone 10
-#has_/label_/no  :: Kambrium-etasje10
-#has_/label_/pl  :: Kambr-Piętro 10
-#has_/label_/pt  :: Câmbrico-Piso 10
-#has_/label_/sk  :: kambrium, stupeň 10
-#has_/label_/sl  :: kambrij-stopnja 10
-#has_/label_/sv  :: kambrium etage 10
-#has_/label_/zh  :: 第十期
+#has_/name_/bg  :: Камбрий - 10 етаж
+#has_/name_/cs  :: Kambrium-Stupeň 10
+#has_/name_/da  :: Kambrium-Etage 10
+#has_/name_/de  :: Kambrium-Stufe 10
+#has_/name_/es  :: Cámbrico-Piso 10
+#has_/name_/et  :: Kambrium, Lade 10
+#has_/name_/fi  :: Kambri-vaihe 10
+#has_/name_/fr  :: Cambrien-Etage 10
+#has_/name_/hu  :: kambrium 10. emelet
+#has_/name_/it  :: cambriano - stage 10
+#has_/name_/ja  :: 第10期
+#has_/name_/lt  :: Kambras-Aukštas 10
+#has_/name_/nl  :: Cambrium, Zone 10
+#has_/name_/no  :: Kambrium-etasje10
+#has_/name_/pl  :: Kambr-Piętro 10
+#has_/name_/pt  :: Câmbrico-Piso 10
+#has_/name_/sk  :: kambrium, stupeň 10
+#has_/name_/sl  :: kambrij-stopnja 10
+#has_/name_/sv  :: kambrium etage 10
+#has_/name_/zh  :: 第十期
 
 #has_/abbreviation :: ep10
 

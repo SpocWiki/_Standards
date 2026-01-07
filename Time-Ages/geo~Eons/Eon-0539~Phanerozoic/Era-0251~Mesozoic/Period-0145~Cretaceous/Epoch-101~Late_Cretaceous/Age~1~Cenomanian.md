@@ -43,26 +43,26 @@ A time period from 100.5 to 93.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cenomanian) 
 
 
-#has_/label_/bg  :: Ценоман
-#has_/label_/cs  :: Cenoman
-#has_/label_/da  :: Cenomanien
-#has_/label_/de  :: Cenomanium
-#has_/label_/es  :: Cenomaniense
-#has_/label_/et  :: Cenomani
-#has_/label_/fi  :: Cenoman
-#has_/label_/fr  :: Cénomanien
-#has_/label_/hu  :: cenoman
-#has_/label_/it  :: cenomaniano
-#has_/label_/ja  :: セノマニアン期
-#has_/label_/lt  :: Cenomanis
-#has_/label_/nl  :: Laat/Boven Krijt
-#has_/label_/no  :: Cenomanium
-#has_/label_/pl  :: Cenoman
-#has_/label_/pt  :: Cenomaniano
-#has_/label_/sk  :: cenoman
-#has_/label_/sl  :: cenomanij
-#has_/label_/sv  :: cenoman
-#has_/label_/zh  :: 森诺曼期
+#has_/name_/bg  :: Ценоман
+#has_/name_/cs  :: Cenoman
+#has_/name_/da  :: Cenomanien
+#has_/name_/de  :: Cenomanium
+#has_/name_/es  :: Cenomaniense
+#has_/name_/et  :: Cenomani
+#has_/name_/fi  :: Cenoman
+#has_/name_/fr  :: Cénomanien
+#has_/name_/hu  :: cenoman
+#has_/name_/it  :: cenomaniano
+#has_/name_/ja  :: セノマニアン期
+#has_/name_/lt  :: Cenomanis
+#has_/name_/nl  :: Laat/Boven Krijt
+#has_/name_/no  :: Cenomanium
+#has_/name_/pl  :: Cenoman
+#has_/name_/pt  :: Cenomaniano
+#has_/name_/sk  :: cenoman
+#has_/name_/sl  :: cenomanij
+#has_/name_/sv  :: cenoman
+#has_/name_/zh  :: 森诺曼期
 
 #has_/abbreviation :: k1
 

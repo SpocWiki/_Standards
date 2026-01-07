@@ -62,26 +62,26 @@ A time period from 529 to 521 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%202) 
 
 
-#has_/label_/bg  :: Камбрий - 2 етаж
-#has_/label_/cs  :: Kambrium-Stupeň 2
-#has_/label_/da  :: Kambrium-Etage 2
-#has_/label_/de  :: Kambrium-Stufe 2
-#has_/label_/es  :: Cámbrico-Piso 2
-#has_/label_/et  :: Kambrium, Lade 2
-#has_/label_/fi  :: Kambri-vaihe 2
-#has_/label_/fr  :: Cambrien-Etage 2
-#has_/label_/hu  :: kambrium 2. emelet
-#has_/label_/it  :: cambriano - stage 2
-#has_/label_/ja  :: 第2期
-#has_/label_/lt  :: Kambras-Aukštas 2
-#has_/label_/nl  :: Cambrium, Zone 2
-#has_/label_/no  :: Kambrium-etasje 2
-#has_/label_/pl  :: Kambr-Piętro 2
-#has_/label_/pt  :: Câmbrico-Piso 2
-#has_/label_/sk  :: kambrium, stupeň 2
-#has_/label_/sl  :: kambrij-stopnja 2
-#has_/label_/sv  :: kambrium etage 1
-#has_/label_/zh  :: 第二期
+#has_/name_/bg  :: Камбрий - 2 етаж
+#has_/name_/cs  :: Kambrium-Stupeň 2
+#has_/name_/da  :: Kambrium-Etage 2
+#has_/name_/de  :: Kambrium-Stufe 2
+#has_/name_/es  :: Cámbrico-Piso 2
+#has_/name_/et  :: Kambrium, Lade 2
+#has_/name_/fi  :: Kambri-vaihe 2
+#has_/name_/fr  :: Cambrien-Etage 2
+#has_/name_/hu  :: kambrium 2. emelet
+#has_/name_/it  :: cambriano - stage 2
+#has_/name_/ja  :: 第2期
+#has_/name_/lt  :: Kambras-Aukštas 2
+#has_/name_/nl  :: Cambrium, Zone 2
+#has_/name_/no  :: Kambrium-etasje 2
+#has_/name_/pl  :: Kambr-Piętro 2
+#has_/name_/pt  :: Câmbrico-Piso 2
+#has_/name_/sk  :: kambrium, stupeň 2
+#has_/name_/sl  :: kambrij-stopnja 2
+#has_/name_/sv  :: kambrium etage 1
+#has_/name_/zh  :: 第二期
 
 #has_/abbreviation :: ep3
 

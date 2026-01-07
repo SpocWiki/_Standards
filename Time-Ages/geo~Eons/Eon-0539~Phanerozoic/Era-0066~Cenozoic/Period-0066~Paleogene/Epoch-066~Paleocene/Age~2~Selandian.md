@@ -38,26 +38,26 @@ A time period from 61.6 to 59.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Selandian) 
 
 
-#has_/label_/bg  :: Селанд
-#has_/label_/cs  :: Seland
-#has_/label_/da  :: Selandien
-#has_/label_/de  :: Selandium
-#has_/label_/es  :: Selandiense
-#has_/label_/et  :: Selandi
-#has_/label_/fi  :: Seland
-#has_/label_/fr  :: Sélandien
-#has_/label_/hu  :: selandi
-#has_/label_/it  :: selandiano
-#has_/label_/ja  :: セランディアン期
-#has_/label_/lt  :: Selandis
-#has_/label_/nl  :: Selandiën
-#has_/label_/no  :: Selandium
-#has_/label_/pl  :: Zeland
-#has_/label_/pt  :: Selandiano
-#has_/label_/sk  :: seland
-#has_/label_/sl  :: selandij
-#has_/label_/sv  :: seland
-#has_/label_/zh  :: 塞兰特期
+#has_/name_/bg  :: Селанд
+#has_/name_/cs  :: Seland
+#has_/name_/da  :: Selandien
+#has_/name_/de  :: Selandium
+#has_/name_/es  :: Selandiense
+#has_/name_/et  :: Selandi
+#has_/name_/fi  :: Seland
+#has_/name_/fr  :: Sélandien
+#has_/name_/hu  :: selandi
+#has_/name_/it  :: selandiano
+#has_/name_/ja  :: セランディアン期
+#has_/name_/lt  :: Selandis
+#has_/name_/nl  :: Selandiën
+#has_/name_/no  :: Selandium
+#has_/name_/pl  :: Zeland
+#has_/name_/pt  :: Selandiano
+#has_/name_/sk  :: seland
+#has_/name_/sl  :: selandij
+#has_/name_/sv  :: seland
+#has_/name_/zh  :: 塞兰特期
 
 #has_/abbreviation :: e2
 

@@ -73,28 +73,28 @@ A time period from 4031 to 2500 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Archean) 
 
 
-#has_/label_/bg  :: прхай
-#has_/label_/cs  :: Archaikum
-#has_/label_/da  :: Arkæisk
-#has_/label_/de  :: Archaikum
-#has_/label_/en-GB  :: Archaean
-#has_/label_/en-US  :: Archean
-#has_/label_/es  :: Arcaico
-#has_/label_/et  :: Arhaikum
-#has_/label_/fi  :: Arkeikum
-#has_/label_/fr  :: Archéen
-#has_/label_/hu  :: archaikum
-#has_/label_/it  :: archeano
-#has_/label_/ja  :: 始生代
-#has_/label_/lt  :: Archejus
-#has_/label_/nl  :: Archaïcum
-#has_/label_/no  :: Arkeikum
-#has_/label_/pl  :: Archaik
-#has_/label_/pt  :: Arcaico
-#has_/label_/sk  :: archaikum, prahory
-#has_/label_/sl  :: arhaik
-#has_/label_/sv  :: arkeikum
-#has_/label_/zh  :: 太古宙
+#has_/name_/bg  :: прхай
+#has_/name_/cs  :: Archaikum
+#has_/name_/da  :: Arkæisk
+#has_/name_/de  :: Archaikum
+#has_/name_/en-GB  :: Archaean
+#has_/name_/en-US  :: Archean
+#has_/name_/es  :: Arcaico
+#has_/name_/et  :: Arhaikum
+#has_/name_/fi  :: Arkeikum
+#has_/name_/fr  :: Archéen
+#has_/name_/hu  :: archaikum
+#has_/name_/it  :: archeano
+#has_/name_/ja  :: 始生代
+#has_/name_/lt  :: Archejus
+#has_/name_/nl  :: Archaïcum
+#has_/name_/no  :: Arkeikum
+#has_/name_/pl  :: Archaik
+#has_/name_/pt  :: Arcaico
+#has_/name_/sk  :: archaikum, prahory
+#has_/name_/sl  :: arhaik
+#has_/name_/sv  :: arkeikum
+#has_/name_/zh  :: 太古宙
 
 #has_/abbreviation :: AR
 

@@ -52,26 +52,26 @@ A time period from 273.01 to 259.51 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Guadalupian) 
 
 
-#has_/label_/bg  :: Гуадалуп
-#has_/label_/cs  :: Guadalup
-#has_/label_/da  :: Guadalupien
-#has_/label_/de  :: Guadalupium
-#has_/label_/es  :: Guadalupiense
-#has_/label_/et  :: Guadalup
-#has_/label_/fi  :: Guadalup
-#has_/label_/fr  :: Guadalupéen
-#has_/label_/hu  :: guadalupei
-#has_/label_/it  :: guadalupiano
-#has_/label_/ja  :: ガダリューピアン世
-#has_/label_/lt  :: Gvadalupis
-#has_/label_/nl  :: Guadalupiën
-#has_/label_/no  :: Guadalupium
-#has_/label_/pl  :: Gwadelup
-#has_/label_/pt  :: Guadalupiano
-#has_/label_/sk  :: guadalup
-#has_/label_/sl  :: guadalupij
-#has_/label_/sv  :: guadalup
-#has_/label_/zh  :: 瓜德鲁普世
+#has_/name_/bg  :: Гуадалуп
+#has_/name_/cs  :: Guadalup
+#has_/name_/da  :: Guadalupien
+#has_/name_/de  :: Guadalupium
+#has_/name_/es  :: Guadalupiense
+#has_/name_/et  :: Guadalup
+#has_/name_/fi  :: Guadalup
+#has_/name_/fr  :: Guadalupéen
+#has_/name_/hu  :: guadalupei
+#has_/name_/it  :: guadalupiano
+#has_/name_/ja  :: ガダリューピアン世
+#has_/name_/lt  :: Gvadalupis
+#has_/name_/nl  :: Guadalupiën
+#has_/name_/no  :: Guadalupium
+#has_/name_/pl  :: Gwadelup
+#has_/name_/pt  :: Guadalupiano
+#has_/name_/sk  :: guadalup
+#has_/name_/sl  :: guadalupij
+#has_/name_/sv  :: guadalup
+#has_/name_/zh  :: 瓜德鲁普世
 
 #has_/abbreviation :: P2
 

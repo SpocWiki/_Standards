@@ -46,26 +46,26 @@ A time period from 247.2 to 251.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Olenekian) 
 
 
-#has_/label_/bg  :: Оленек
-#has_/label_/cs  :: Olenek
-#has_/label_/da  :: Olenekien
-#has_/label_/de  :: Olenekium
-#has_/label_/es  :: Olenekiense
-#has_/label_/et  :: Oleneki
-#has_/label_/fi  :: Olenek
-#has_/label_/fr  :: Olénekien
-#has_/label_/hu  :: olenyoki
-#has_/label_/it  :: olenekiano
-#has_/label_/ja  :: オレネキアン期
-#has_/label_/lt  :: Olenekis
-#has_/label_/nl  :: Olenekiën
-#has_/label_/no  :: Olenek
-#has_/label_/pl  :: Olenek
-#has_/label_/pt  :: Olenekiano
-#has_/label_/sk  :: olenek
-#has_/label_/sl  :: olenekij
-#has_/label_/sv  :: olenek
-#has_/label_/zh  :: 奥伦尼克期
+#has_/name_/bg  :: Оленек
+#has_/name_/cs  :: Olenek
+#has_/name_/da  :: Olenekien
+#has_/name_/de  :: Olenekium
+#has_/name_/es  :: Olenekiense
+#has_/name_/et  :: Oleneki
+#has_/name_/fi  :: Olenek
+#has_/name_/fr  :: Olénekien
+#has_/name_/hu  :: olenyoki
+#has_/name_/it  :: olenekiano
+#has_/name_/ja  :: オレネキアン期
+#has_/name_/lt  :: Olenekis
+#has_/name_/nl  :: Olenekiën
+#has_/name_/no  :: Olenek
+#has_/name_/pl  :: Olenek
+#has_/name_/pt  :: Olenekiano
+#has_/name_/sk  :: olenek
+#has_/name_/sl  :: olenekij
+#has_/name_/sv  :: olenek
+#has_/name_/zh  :: 奥伦尼克期
 
 #has_/abbreviation :: t2
 

@@ -48,26 +48,26 @@ A time period from 427.4 to 425.6 million years ago.
 
 
 ischart::Gorstian
-#has_/label_/bg  :: Горѿт
-#has_/label_/cs  :: Gorst
-#has_/label_/da  :: Gorstien
-#has_/label_/de  :: Gorstium
-#has_/label_/es  :: Gorstiense
-#has_/label_/et  :: Gorsti
-#has_/label_/fi  :: Gorst
-#has_/label_/fr  :: Gorstien
-#has_/label_/hu  :: gorsti
-#has_/label_/it  :: gorstiano
-#has_/label_/ja  :: ゴースティアン期
-#has_/label_/lt  :: Gorstis
-#has_/label_/nl  :: Gorstiën
-#has_/label_/no  :: Gorstium
-#has_/label_/pl  :: Gorst
-#has_/label_/pt  :: Gorstiano
-#has_/label_/sk  :: gorst
-#has_/label_/sl  :: gorstij
-#has_/label_/sv  :: gorst
-#has_/label_/zh  :: 格斯特期
+#has_/name_/bg  :: Горѿт
+#has_/name_/cs  :: Gorst
+#has_/name_/da  :: Gorstien
+#has_/name_/de  :: Gorstium
+#has_/name_/es  :: Gorstiense
+#has_/name_/et  :: Gorsti
+#has_/name_/fi  :: Gorst
+#has_/name_/fr  :: Gorstien
+#has_/name_/hu  :: gorsti
+#has_/name_/it  :: gorstiano
+#has_/name_/ja  :: ゴースティアン期
+#has_/name_/lt  :: Gorstis
+#has_/name_/nl  :: Gorstiën
+#has_/name_/no  :: Gorstium
+#has_/name_/pl  :: Gorst
+#has_/name_/pt  :: Gorstiano
+#has_/name_/sk  :: gorst
+#has_/name_/sl  :: gorstij
+#has_/name_/sv  :: gorst
+#has_/name_/zh  :: 格斯特期
 
 #has_/abbreviation :: s6
 #has_/time_/started :: -427.4e6 

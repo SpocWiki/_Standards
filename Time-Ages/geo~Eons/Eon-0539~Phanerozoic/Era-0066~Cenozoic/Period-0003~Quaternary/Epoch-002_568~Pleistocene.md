@@ -117,26 +117,26 @@ defined by climatic and environmental changes, particularly the **glacial–inte
 > [Wikipedia](https://en.wikipedia.org/wiki/Pleistocene) 
 
 
-#has_/label_/bg  :: Плейѿтоцен
-#has_/label_/cs  :: Pleistocén
-#has_/label_/da  :: Pleistocæn
-#has_/label_/de  :: Pleistozän
-#has_/label_/es  :: Pleistoceno
-#has_/label_/et  :: Pleistotseen
-#has_/label_/fi  :: Pleistoseeni
-#has_/label_/fr  :: Pléistocène
-#has_/label_/hu  :: pleisztocén
-#has_/label_/it  :: pleistocene
-#has_/label_/ja  :: 更新世
-#has_/label_/lt  :: Pleistocenas
-#has_/label_/nl  :: Pleistoceen
-#has_/label_/no  :: Pleistocen
-#has_/label_/pl  :: Plejstocen
-#has_/label_/pt  :: Plistocénico
-#has_/label_/sk  :: pleistocén
-#has_/label_/sl  :: pleistocen
-#has_/label_/sv  :: pleistocen
-#has_/label_/zh  :: 更新世
+#has_/name_/bg  :: Плейѿтоцен
+#has_/name_/cs  :: Pleistocén
+#has_/name_/da  :: Pleistocæn
+#has_/name_/de  :: Pleistozän
+#has_/name_/es  :: Pleistoceno
+#has_/name_/et  :: Pleistotseen
+#has_/name_/fi  :: Pleistoseeni
+#has_/name_/fr  :: Pléistocène
+#has_/name_/hu  :: pleisztocén
+#has_/name_/it  :: pleistocene
+#has_/name_/ja  :: 更新世
+#has_/name_/lt  :: Pleistocenas
+#has_/name_/nl  :: Pleistoceen
+#has_/name_/no  :: Pleistocen
+#has_/name_/pl  :: Plejstocen
+#has_/name_/pt  :: Plistocénico
+#has_/name_/sk  :: pleistocén
+#has_/name_/sl  :: pleistocen
+#has_/name_/sv  :: pleistocen
+#has_/name_/zh  :: 更新世
 
 ## All Contents
 

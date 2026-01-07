@@ -52,26 +52,26 @@ A time period from 237 to 227 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Carnian) 
 
 
-#has_/label_/bg  :: Карн
-#has_/label_/cs  :: Carn
-#has_/label_/da  :: Carnien
-#has_/label_/de  :: Karnium
-#has_/label_/es  :: Carniense
-#has_/label_/et  :: Carni
-#has_/label_/fi  :: Carn
-#has_/label_/fr  :: Carnien
-#has_/label_/hu  :: karni
-#has_/label_/it  :: carnico
-#has_/label_/ja  :: カーニアン期
-#has_/label_/lt  :: Karnis
-#has_/label_/nl  :: Carniën
-#has_/label_/no  :: Carn
-#has_/label_/pl  :: Karnik
-#has_/label_/pt  :: Carniano
-#has_/label_/sk  :: karn
-#has_/label_/sl  :: karnij
-#has_/label_/sv  :: carn
-#has_/label_/zh  :: 卡尼期
+#has_/name_/bg  :: Карн
+#has_/name_/cs  :: Carn
+#has_/name_/da  :: Carnien
+#has_/name_/de  :: Karnium
+#has_/name_/es  :: Carniense
+#has_/name_/et  :: Carni
+#has_/name_/fi  :: Carn
+#has_/name_/fr  :: Carnien
+#has_/name_/hu  :: karni
+#has_/name_/it  :: carnico
+#has_/name_/ja  :: カーニアン期
+#has_/name_/lt  :: Karnis
+#has_/name_/nl  :: Carniën
+#has_/name_/no  :: Carn
+#has_/name_/pl  :: Karnik
+#has_/name_/pt  :: Carniano
+#has_/name_/sk  :: karn
+#has_/name_/sl  :: karnij
+#has_/name_/sv  :: carn
+#has_/name_/zh  :: 卡尼期
 
 #has_/abbreviation :: t5
 

@@ -53,26 +53,26 @@ A time period from 266.9 to 264.28 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Wordian) 
 
 
-#has_/label_/bg  :: Уорд
-#has_/label_/cs  :: Word
-#has_/label_/da  :: Wordien
-#has_/label_/de  :: Wordium
-#has_/label_/es  :: Wordiense
-#has_/label_/et  :: Wordi
-#has_/label_/fi  :: Word
-#has_/label_/fr  :: Wordien
-#has_/label_/hu  :: wordi
-#has_/label_/it  :: wordiano
-#has_/label_/ja  :: ワーディアン期
-#has_/label_/lt  :: Vordis
-#has_/label_/nl  :: Wordiën
-#has_/label_/no  :: Wordium
-#has_/label_/pl  :: Word
-#has_/label_/pt  :: Wordiano
-#has_/label_/sk  :: word
-#has_/label_/sl  :: wordij
-#has_/label_/sv  :: word
-#has_/label_/zh  :: 沃德期
+#has_/name_/bg  :: Уорд
+#has_/name_/cs  :: Word
+#has_/name_/da  :: Wordien
+#has_/name_/de  :: Wordium
+#has_/name_/es  :: Wordiense
+#has_/name_/et  :: Wordi
+#has_/name_/fi  :: Word
+#has_/name_/fr  :: Wordien
+#has_/name_/hu  :: wordi
+#has_/name_/it  :: wordiano
+#has_/name_/ja  :: ワーディアン期
+#has_/name_/lt  :: Vordis
+#has_/name_/nl  :: Wordiën
+#has_/name_/no  :: Wordium
+#has_/name_/pl  :: Word
+#has_/name_/pt  :: Wordiano
+#has_/name_/sk  :: word
+#has_/name_/sl  :: wordij
+#has_/name_/sv  :: word
+#has_/name_/zh  :: 沃德期
 
 #has_/abbreviation :: p6
 

@@ -55,26 +55,26 @@ A time period from 1000 to 720 Mya.
 > [Wikipedia](https://en.wikipedia.org/wiki/Tonian) 
 
 
-#has_/label_/bg  :: Тон
-#has_/label_/cs  :: Ton
-#has_/label_/da  :: Tonien
-#has_/label_/de  :: Tonium
-#has_/label_/es  :: Toniense
-#has_/label_/et  :: Ton
-#has_/label_/fi  :: Ton
-#has_/label_/fr  :: Tonien
-#has_/label_/hu  :: toni
-#has_/label_/it  :: toniano
-#has_/label_/ja  :: トニアン紀
-#has_/label_/lt  :: Tonis
-#has_/label_/nl  :: Toniën
-#has_/label_/no  :: Tonium
-#has_/label_/pl  :: Ton
-#has_/label_/pt  :: Toniano
-#has_/label_/sk  :: tonium
-#has_/label_/sl  :: tonij
-#has_/label_/sv  :: tonium
-#has_/label_/zh  :: 拉伸纪
+#has_/name_/bg  :: Тон
+#has_/name_/cs  :: Ton
+#has_/name_/da  :: Tonien
+#has_/name_/de  :: Tonium
+#has_/name_/es  :: Toniense
+#has_/name_/et  :: Ton
+#has_/name_/fi  :: Ton
+#has_/name_/fr  :: Tonien
+#has_/name_/hu  :: toni
+#has_/name_/it  :: toniano
+#has_/name_/ja  :: トニアン紀
+#has_/name_/lt  :: Tonis
+#has_/name_/nl  :: Toniën
+#has_/name_/no  :: Tonium
+#has_/name_/pl  :: Ton
+#has_/name_/pt  :: Toniano
+#has_/name_/sk  :: tonium
+#has_/name_/sl  :: tonij
+#has_/name_/sv  :: tonium
+#has_/name_/zh  :: 拉伸纪
 
 #has_/abbreviation :: NP1
 #has_/time_/started :: -1000e6 

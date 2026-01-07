@@ -51,26 +51,26 @@ A time period from 387.7 to 382.7 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Givetian) 
 
 
-#has_/label_/bg  :: Живет
-#has_/label_/cs  :: Givet
-#has_/label_/da  :: Givetien
-#has_/label_/de  :: Givetium
-#has_/label_/es  :: Givetiense
-#has_/label_/et  :: Givet
-#has_/label_/fi  :: Givet
-#has_/label_/fr  :: Givétien
-#has_/label_/hu  :: giveti
-#has_/label_/it  :: givetiano
-#has_/label_/ja  :: ジベーチアン期
-#has_/label_/lt  :: Živetis
-#has_/label_/nl  :: Givetiën
-#has_/label_/no  :: Givetium
-#has_/label_/pl  :: Żywet
-#has_/label_/pt  :: Givetiano
-#has_/label_/sk  :: givet
-#has_/label_/sl  :: givetij
-#has_/label_/sv  :: givet
-#has_/label_/zh  :: 吉维特期
+#has_/name_/bg  :: Живет
+#has_/name_/cs  :: Givet
+#has_/name_/da  :: Givetien
+#has_/name_/de  :: Givetium
+#has_/name_/es  :: Givetiense
+#has_/name_/et  :: Givet
+#has_/name_/fi  :: Givet
+#has_/name_/fr  :: Givétien
+#has_/name_/hu  :: giveti
+#has_/name_/it  :: givetiano
+#has_/name_/ja  :: ジベーチアン期
+#has_/name_/lt  :: Živetis
+#has_/name_/nl  :: Givetiën
+#has_/name_/no  :: Givetium
+#has_/name_/pl  :: Żywet
+#has_/name_/pt  :: Givetiano
+#has_/name_/sk  :: givet
+#has_/name_/sl  :: givetij
+#has_/name_/sv  :: givet
+#has_/name_/zh  :: 吉维特期
 
 #has_/abbreviation :: d5
 #has_/time_/started :: -387.7e6 

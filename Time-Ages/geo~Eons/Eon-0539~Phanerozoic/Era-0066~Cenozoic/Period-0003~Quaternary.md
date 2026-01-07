@@ -76,26 +76,26 @@ A time period from 2.58 million years ago to the present.
 > [Wikipedia](https://en.wikipedia.org/wiki/Quaternary) 
 
 
-#has_/label_/bg  :: Кватернер
-#has_/label_/cs  :: Kvartér
-#has_/label_/da  :: Kvartær
-#has_/label_/de  :: Quartär
-#has_/label_/es  :: Cuaternario
-#has_/label_/et  :: Kvaternaar
-#has_/label_/fi  :: Kvartääri
-#has_/label_/fr  :: Quaternaire
-#has_/label_/hu  :: negyedidőszak
-#has_/label_/it  :: quaternario
-#has_/label_/ja  :: 第四紀
-#has_/label_/lt  :: Kvarteras
-#has_/label_/nl  :: Kwartair
-#has_/label_/no  :: Kvartær
-#has_/label_/pl  :: Czwartorzęd
-#has_/label_/pt  :: Quaternário
-#has_/label_/sk  :: kvartér
-#has_/label_/sl  :: kvartar
-#has_/label_/sv  :: kvartär
-#has_/label_/zh  :: 第四纪
+#has_/name_/bg  :: Кватернер
+#has_/name_/cs  :: Kvartér
+#has_/name_/da  :: Kvartær
+#has_/name_/de  :: Quartär
+#has_/name_/es  :: Cuaternario
+#has_/name_/et  :: Kvaternaar
+#has_/name_/fi  :: Kvartääri
+#has_/name_/fr  :: Quaternaire
+#has_/name_/hu  :: negyedidőszak
+#has_/name_/it  :: quaternario
+#has_/name_/ja  :: 第四紀
+#has_/name_/lt  :: Kvarteras
+#has_/name_/nl  :: Kwartair
+#has_/name_/no  :: Kvartær
+#has_/name_/pl  :: Czwartorzęd
+#has_/name_/pt  :: Quaternário
+#has_/name_/sk  :: kvartér
+#has_/name_/sl  :: kvartar
+#has_/name_/sv  :: kvartär
+#has_/name_/zh  :: 第四纪
 
 #has_/abbreviation :: Q
 

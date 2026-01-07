@@ -51,26 +51,26 @@ A time period from 419.2 to 410.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Lochkovian) 
 
 
-#has_/label_/bg  :: Ложков
-#has_/label_/cs  :: Lochkov
-#has_/label_/da  :: Lochkovien
-#has_/label_/de  :: Lochkovium
-#has_/label_/es  :: Lochkoviense
-#has_/label_/et  :: Lochkovi
-#has_/label_/fi  :: Lochkov
-#has_/label_/fr  :: Lochkovien
-#has_/label_/hu  :: lochkovi
-#has_/label_/it  :: lochkoviano
-#has_/label_/ja  :: ロッコビアン期
-#has_/label_/lt  :: Lochkovis
-#has_/label_/nl  :: Lochkoviën
-#has_/label_/no  :: Lochkovium
-#has_/label_/pl  :: Lochkow
-#has_/label_/pt  :: Lochkoviano
-#has_/label_/sk  :: lochkov
-#has_/label_/sl  :: lochkovij
-#has_/label_/sv  :: lochkov
-#has_/label_/zh  :: 洛赫科夫期
+#has_/name_/bg  :: Ложков
+#has_/name_/cs  :: Lochkov
+#has_/name_/da  :: Lochkovien
+#has_/name_/de  :: Lochkovium
+#has_/name_/es  :: Lochkoviense
+#has_/name_/et  :: Lochkovi
+#has_/name_/fi  :: Lochkov
+#has_/name_/fr  :: Lochkovien
+#has_/name_/hu  :: lochkovi
+#has_/name_/it  :: lochkoviano
+#has_/name_/ja  :: ロッコビアン期
+#has_/name_/lt  :: Lochkovis
+#has_/name_/nl  :: Lochkoviën
+#has_/name_/no  :: Lochkovium
+#has_/name_/pl  :: Lochkow
+#has_/name_/pt  :: Lochkoviano
+#has_/name_/sk  :: lochkov
+#has_/name_/sl  :: lochkovij
+#has_/name_/sv  :: lochkov
+#has_/name_/zh  :: 洛赫科夫期
 
 #has_/abbreviation :: d1
 #has_/time_/started :: -419.2e6 

@@ -57,26 +57,26 @@ A time period from 323.2 to 298.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pennsylvanian%20(geology)) 
 
 
-#has_/label_/bg  :: Пенѿилван
-#has_/label_/cs  :: Pennsylván
-#has_/label_/da  :: Pennsylvanien
-#has_/label_/de  :: Pennsylvanium
-#has_/label_/es  :: Pennsylvaniense
-#has_/label_/et  :: Pennsylvania
-#has_/label_/fi  :: Pennsylvania
-#has_/label_/fr  :: Pennsylvanien
-#has_/label_/hu  :: pennsylvaniai
-#has_/label_/it  :: pennsylvaniano
-#has_/label_/ja  :: ペンシルバニア紀
-#has_/label_/lt  :: Pensilvanis
-#has_/label_/nl  :: Pennsylvaniën
-#has_/label_/no  :: Pennsylvanium
-#has_/label_/pl  :: Pensylwan
-#has_/label_/pt  :: Pensilvaniano
-#has_/label_/sk  :: penssylván
-#has_/label_/sl  :: pennsylvanij
-#has_/label_/sv  :: pennsylvan
-#has_/label_/zh  :: 宾夕法尼亚亚纪
+#has_/name_/bg  :: Пенѿилван
+#has_/name_/cs  :: Pennsylván
+#has_/name_/da  :: Pennsylvanien
+#has_/name_/de  :: Pennsylvanium
+#has_/name_/es  :: Pennsylvaniense
+#has_/name_/et  :: Pennsylvania
+#has_/name_/fi  :: Pennsylvania
+#has_/name_/fr  :: Pennsylvanien
+#has_/name_/hu  :: pennsylvaniai
+#has_/name_/it  :: pennsylvaniano
+#has_/name_/ja  :: ペンシルバニア紀
+#has_/name_/lt  :: Pensilvanis
+#has_/name_/nl  :: Pennsylvaniën
+#has_/name_/no  :: Pennsylvanium
+#has_/name_/pl  :: Pensylwan
+#has_/name_/pt  :: Pensilvaniano
+#has_/name_/sk  :: penssylván
+#has_/name_/sl  :: pennsylvanij
+#has_/name_/sv  :: pennsylvan
+#has_/name_/zh  :: 宾夕法尼亚亚纪
 
 #has_/abbreviation :: C2
 

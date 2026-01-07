@@ -51,26 +51,26 @@ A time period from 283.5 to 273.01 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Kungurian) 
 
 
-#has_/label_/bg  :: Кунгур
-#has_/label_/cs  :: Kungur
-#has_/label_/da  :: Kungurien
-#has_/label_/de  :: Kungurium
-#has_/label_/es  :: Kunguriense
-#has_/label_/et  :: Kunguri
-#has_/label_/fi  :: Kungur
-#has_/label_/fr  :: Kungurien
-#has_/label_/hu  :: kunguri
-#has_/label_/it  :: kungurianno
-#has_/label_/ja  :: クングリアン期
-#has_/label_/lt  :: Kunguris
-#has_/label_/nl  :: Kunguriën
-#has_/label_/no  :: Kungurium
-#has_/label_/pl  :: Kungur
-#has_/label_/pt  :: Kunguriano
-#has_/label_/sk  :: kungur
-#has_/label_/sl  :: kungurij
-#has_/label_/sv  :: kungur
-#has_/label_/zh  :: 孔古尔期
+#has_/name_/bg  :: Кунгур
+#has_/name_/cs  :: Kungur
+#has_/name_/da  :: Kungurien
+#has_/name_/de  :: Kungurium
+#has_/name_/es  :: Kunguriense
+#has_/name_/et  :: Kunguri
+#has_/name_/fi  :: Kungur
+#has_/name_/fr  :: Kungurien
+#has_/name_/hu  :: kunguri
+#has_/name_/it  :: kungurianno
+#has_/name_/ja  :: クングリアン期
+#has_/name_/lt  :: Kunguris
+#has_/name_/nl  :: Kunguriën
+#has_/name_/no  :: Kungurium
+#has_/name_/pl  :: Kungur
+#has_/name_/pt  :: Kunguriano
+#has_/name_/sk  :: kungur
+#has_/name_/sl  :: kungurij
+#has_/name_/sv  :: kungur
+#has_/name_/zh  :: 孔古尔期
 
 #has_/abbreviation :: p4
 

@@ -39,26 +39,26 @@ A time period from 47.8 to 41.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Lutetian) 
 
 
-#has_/label_/bg  :: Лютеѿ
-#has_/label_/cs  :: Lutet
-#has_/label_/da  :: Lutetien
-#has_/label_/de  :: Lutetium
-#has_/label_/es  :: Luteciense
-#has_/label_/et  :: Luteti
-#has_/label_/fi  :: Lutet
-#has_/label_/fr  :: Lutétien
-#has_/label_/hu  :: lutetiai
-#has_/label_/it  :: leteziano
-#has_/label_/ja  :: ルテシアン期
-#has_/label_/lt  :: Liutetis
-#has_/label_/nl  :: Lutetiën
-#has_/label_/no  :: Litetium
-#has_/label_/pl  :: Lutet
-#has_/label_/pt  :: Luteciano
-#has_/label_/sk  :: lutét
-#has_/label_/sl  :: lutecij
-#has_/label_/sv  :: lutet
-#has_/label_/zh  :: 卢台特期
+#has_/name_/bg  :: Лютеѿ
+#has_/name_/cs  :: Lutet
+#has_/name_/da  :: Lutetien
+#has_/name_/de  :: Lutetium
+#has_/name_/es  :: Luteciense
+#has_/name_/et  :: Luteti
+#has_/name_/fi  :: Lutet
+#has_/name_/fr  :: Lutétien
+#has_/name_/hu  :: lutetiai
+#has_/name_/it  :: leteziano
+#has_/name_/ja  :: ルテシアン期
+#has_/name_/lt  :: Liutetis
+#has_/name_/nl  :: Lutetiën
+#has_/name_/no  :: Litetium
+#has_/name_/pl  :: Lutet
+#has_/name_/pt  :: Luteciano
+#has_/name_/sk  :: lutét
+#has_/name_/sl  :: lutecij
+#has_/name_/sv  :: lutet
+#has_/name_/zh  :: 卢台特期
 
 #has_/abbreviation :: e5
 

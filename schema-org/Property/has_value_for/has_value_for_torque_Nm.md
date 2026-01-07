@@ -25,6 +25,10 @@ title: has_torque
 type: Predi_Quantity
 ---
 
+# [[has_value_for_torque_Nm]] 
+
+#has_/unit_for_/default :: [[../../../Dimension/Linear_Dimension/Torque/Unit~NewtonMeter|Unit~NewtonMeter]]  
+
 Predicate to describe the Quantity of [[../../../fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification|FileClass~EngineSpecification]].
 
 [ #is_/part_of :: https://auto.schema.org ]
@@ -35,11 +39,10 @@ Use it like this:
 
 The torque (turning force) of the vehicle's engine.
 
-
-
-Typical unit code(s): NU for newton metre (N m), F17 for pound-force per foot, or F48 for pound-force per inch
-
-
+Typical unit code(s): 
+- NU for newton metre (N m), 
+- F17 for pound-force per foot, or 
+- F48 for pound-force per inch
 
 <ul>
 <li>Note 1: You can link to information about how the given value has been determined (e.g. reference RPM) using the [[valueReference]] property.</li>

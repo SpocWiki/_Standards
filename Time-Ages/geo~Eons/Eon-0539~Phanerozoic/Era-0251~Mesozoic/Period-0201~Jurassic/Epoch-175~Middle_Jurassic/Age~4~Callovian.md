@@ -38,26 +38,26 @@ A time period from 165.3 to 161.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Callovian) 
 
 
-#has_/label_/bg  :: Калов
-#has_/label_/cs  :: Callov
-#has_/label_/da  :: Callovien
-#has_/label_/de  :: Callovium
-#has_/label_/es  :: Calloviense
-#has_/label_/et  :: Callovi
-#has_/label_/fi  :: Callov
-#has_/label_/fr  :: Callovien
-#has_/label_/hu  :: callovi
-#has_/label_/it  :: calloviano
-#has_/label_/ja  :: カロビアン期
-#has_/label_/lt  :: Kelovėjis
-#has_/label_/nl  :: Calloviën
-#has_/label_/no  :: Callove
-#has_/label_/pl  :: Kelowej
-#has_/label_/pt  :: Caloviano
-#has_/label_/sk  :: kelovej
-#has_/label_/sl  :: callovij
-#has_/label_/sv  :: callov
-#has_/label_/zh  :: 卡洛夫期
+#has_/name_/bg  :: Калов
+#has_/name_/cs  :: Callov
+#has_/name_/da  :: Callovien
+#has_/name_/de  :: Callovium
+#has_/name_/es  :: Calloviense
+#has_/name_/et  :: Callovi
+#has_/name_/fi  :: Callov
+#has_/name_/fr  :: Callovien
+#has_/name_/hu  :: callovi
+#has_/name_/it  :: calloviano
+#has_/name_/ja  :: カロビアン期
+#has_/name_/lt  :: Kelovėjis
+#has_/name_/nl  :: Calloviën
+#has_/name_/no  :: Callove
+#has_/name_/pl  :: Kelowej
+#has_/name_/pt  :: Caloviano
+#has_/name_/sk  :: kelovej
+#has_/name_/sl  :: callovij
+#has_/name_/sv  :: callov
+#has_/name_/zh  :: 卡洛夫期
 
 #has_/abbreviation :: j4
 

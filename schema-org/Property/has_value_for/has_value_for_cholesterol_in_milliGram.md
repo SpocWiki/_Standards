@@ -1,6 +1,6 @@
 ---
 aliases:
-  - cholesterol_in_gram
+  - cholesterol_in_milligram
   - cholesterol-content
   - cholesterolContent
   - has_value_for_cholesterol_in_milliGram
@@ -26,6 +26,10 @@ tags:
 title: has_cholesterol-content
 type: Predi_Quantity
 ---
+
+# [[has_value_for_cholesterol_in_milliGram]] 
+
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]] 
 
 Predicate to describe the Quantity of NutritionInformation.
 

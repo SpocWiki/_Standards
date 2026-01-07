@@ -46,26 +46,26 @@ A time period from 56.0 to 33.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Eocene) 
 
 
-#has_/label_/bg  :: Еоцен
-#has_/label_/cs  :: Eocén
-#has_/label_/da  :: Eocæn
-#has_/label_/de  :: Eozän
-#has_/label_/es  :: Eoceno
-#has_/label_/et  :: Eotseen
-#has_/label_/fi  :: Eoseeni
-#has_/label_/fr  :: Eocène
-#has_/label_/hu  :: eocén
-#has_/label_/it  :: eocene
-#has_/label_/ja  :: 始新世
-#has_/label_/lt  :: Eocenas
-#has_/label_/nl  :: Eoceen
-#has_/label_/no  :: Eocen
-#has_/label_/pl  :: Eocen
-#has_/label_/pt  :: Eocénico
-#has_/label_/sk  :: eocén
-#has_/label_/sl  :: eocen
-#has_/label_/sv  :: eocen
-#has_/label_/zh  :: 始新世
+#has_/name_/bg  :: Еоцен
+#has_/name_/cs  :: Eocén
+#has_/name_/da  :: Eocæn
+#has_/name_/de  :: Eozän
+#has_/name_/es  :: Eoceno
+#has_/name_/et  :: Eotseen
+#has_/name_/fi  :: Eoseeni
+#has_/name_/fr  :: Eocène
+#has_/name_/hu  :: eocén
+#has_/name_/it  :: eocene
+#has_/name_/ja  :: 始新世
+#has_/name_/lt  :: Eocenas
+#has_/name_/nl  :: Eoceen
+#has_/name_/no  :: Eocen
+#has_/name_/pl  :: Eocen
+#has_/name_/pt  :: Eocénico
+#has_/name_/sk  :: eocén
+#has_/name_/sl  :: eocen
+#has_/name_/sv  :: eocen
+#has_/name_/zh  :: 始新世
 
 #has_/abbreviation :: E2
 

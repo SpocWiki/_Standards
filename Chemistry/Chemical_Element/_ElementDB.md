@@ -28,12 +28,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Name-en:
+  #has_/name_/en:
     input: text
-    accessorKey: Name-en
-    label: Name-en
-    key: Name-en
-    id: Name-en
+    accessorKey: #has_/name_/en
+    label: #has_/name_/en
+    key: #has_/name_/en
+    id: #has_/name_/en
     position: 9
     skipPersist: false
     isHidden: false
@@ -47,12 +47,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Name-de:
+  #has_/name_/de:
     input: text
-    accessorKey: Name-de
-    label: Name-de
-    key: Name-de
-    id: Name-de
+    accessorKey: #has_/name_/de
+    label: #has_/name_/de
+    key: #has_/name_/de
+    id: #has_/name_/de
     position: 10
     skipPersist: false
     isHidden: false
@@ -87,12 +87,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Weight-u:
+  #has_/value_for_/weight_/u:
     input: number
-    accessorKey: Weight-u
-    label: Weight-u
-    key: Weight-u
-    id: Weight-u
+    accessorKey: #has_/value_for_/weight_/u
+    label: #has_/value_for_/weight_/u
+    key: #has_/value_for_/weight_/u
+    id: #has_/value_for_/weight_/u
     position: 3
     skipPersist: false
     isHidden: false
@@ -163,12 +163,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Radius-nm:
+  #has_/radius_/nm:
     input: number
-    accessorKey: Radius-nm
-    label: Radius-nm
-    key: Radius-nm
-    id: Radius-nm
+    accessorKey: #has_/radius_/nm
+    label: #has_/radius_/nm
+    key: #has_/radius_/nm
+    id: #has_/radius_/nm
     position: 13
     skipPersist: false
     isHidden: false

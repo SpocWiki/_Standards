@@ -70,26 +70,26 @@ A time period from 251.902 to 201.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Triassic) 
 
 
-#has_/label_/bg  :: Триаѿ
-#has_/label_/cs  :: Trias
-#has_/label_/da  :: Triassisk
-#has_/label_/de  :: Trias
-#has_/label_/es  :: Triásico
-#has_/label_/et  :: Triias
-#has_/label_/fi  :: Trias
-#has_/label_/fr  :: Trias
-#has_/label_/hu  :: triász
-#has_/label_/it  :: triassico
-#has_/label_/ja  :: 三畳紀
-#has_/label_/lt  :: Triasas
-#has_/label_/nl  :: Trias
-#has_/label_/no  :: Trias
-#has_/label_/pl  :: Trias
-#has_/label_/pt  :: Triásico
-#has_/label_/sk  :: trias
-#has_/label_/sl  :: trias
-#has_/label_/sv  :: trias
-#has_/label_/zh  :: 三叠纪
+#has_/name_/bg  :: Триаѿ
+#has_/name_/cs  :: Trias
+#has_/name_/da  :: Triassisk
+#has_/name_/de  :: Trias
+#has_/name_/es  :: Triásico
+#has_/name_/et  :: Triias
+#has_/name_/fi  :: Trias
+#has_/name_/fr  :: Trias
+#has_/name_/hu  :: triász
+#has_/name_/it  :: triassico
+#has_/name_/ja  :: 三畳紀
+#has_/name_/lt  :: Triasas
+#has_/name_/nl  :: Trias
+#has_/name_/no  :: Trias
+#has_/name_/pl  :: Trias
+#has_/name_/pt  :: Triásico
+#has_/name_/sk  :: trias
+#has_/name_/sl  :: trias
+#has_/name_/sv  :: trias
+#has_/name_/zh  :: 三叠纪
 
 #has_/abbreviation :: T
 

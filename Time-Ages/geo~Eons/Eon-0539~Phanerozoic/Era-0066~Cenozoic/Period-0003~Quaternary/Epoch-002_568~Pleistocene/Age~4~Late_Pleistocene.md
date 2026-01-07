@@ -47,22 +47,22 @@ A time period from 129 to 11.7 thousand years ago, right before the [[../../../.
 > [Wikipedia](https://en.wikipedia.org/wiki/Late%20Pleistocene) 
 
 
-#has_/label_/bg  :: Къѿен плейѿтоцен
-#has_/label_/cs  :: Pozdní pleistocén
-#has_/label_/da  :: Sen Pleistocæn
-#has_/label_/de  :: Spätes Pleistozän
-#has_/label_/et  :: Hiline pleistotseen
-#has_/label_/fi  :: Myöhäis-Pleistoseeni
-#has_/label_/hu  :: késő pleisztocén
-#has_/label_/ja  :: 後期更新世
-#has_/label_/lt  :: Apatinis Pleistocenas
-#has_/label_/nl  :: Laat Pleistoceen
-#has_/label_/no  :: Yngre pleistocen
-#has_/label_/pl  :: Późny Plejstocen
-#has_/label_/sk  :: mladší pleistocén
-#has_/label_/sl  :: pozni pleistocen
-#has_/label_/sv  :: yngre pleistocen
-#has_/label_/zh  :: 晚更新世
+#has_/name_/bg  :: Къѿен плейѿтоцен
+#has_/name_/cs  :: Pozdní pleistocén
+#has_/name_/da  :: Sen Pleistocæn
+#has_/name_/de  :: Spätes Pleistozän
+#has_/name_/et  :: Hiline pleistotseen
+#has_/name_/fi  :: Myöhäis-Pleistoseeni
+#has_/name_/hu  :: késő pleisztocén
+#has_/name_/ja  :: 後期更新世
+#has_/name_/lt  :: Apatinis Pleistocenas
+#has_/name_/nl  :: Laat Pleistoceen
+#has_/name_/no  :: Yngre pleistocen
+#has_/name_/pl  :: Późny Plejstocen
+#has_/name_/sk  :: mladší pleistocén
+#has_/name_/sl  :: pozni pleistocen
+#has_/name_/sv  :: yngre pleistocen
+#has_/name_/zh  :: 晚更新世
 
 #has_/abbreviation :: q4
 

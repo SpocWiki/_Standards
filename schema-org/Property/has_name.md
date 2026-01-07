@@ -44,8 +44,8 @@ subclass_of:
   - "[[_Standards/WikiData/WD~signifier,651943]]"
   - "[[_Standards/WikiData/WD~identifier,853614]]"
   - "[[_Standards/WikiData/WD~word_or_phrase,115372263]]"
-manifestation_of: "[[_Standards/WikiData/WD~𝑛_tuple,600590]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+manifestation_of: "[[_Standards/WikiData/WD~??_tuple,600590]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Names,15884604]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]"
 part_of: "[[_Standards/WikiData/WD~language,315]]"
@@ -66,15 +66,15 @@ equivalent_class:
   - http://iflastandards.info/ns/lrm/lrmer/E9
 MeSH_tree_code: L01.559.598.400.556
 Wikidata_usage_instructions:
-  - слова ці тэрмін, ужыванае для ідэнтыфікацыі; глядзіце таксама «ўласнае імя» (Q147276) і «поўнае імя» (Q1071027)
+  - ????? ?? ??????, ???????? ??? ?????????????; ???????? ??????? �??????? ???� (Q147276) ? �?????? ???� (Q1071027)
   - word or phrase used for identification; see also proper noun (Q147276) and personal name (Q1071027)
-  - sana tai termi, jota käytetään tunnistamiseen; katso myös erisnimi (Q147276) ja henkilönnimi (Q1071027)
-  - mot ou terme utilisé pour l'identification; voir aussi le nom propre (Q147276) et le nom personnel (Q1071027)
-  - nome ou termo usado para a identificación. Ver tamén nome propio (Q147276) e antropónimo (Q1071027)
-  - слово или словосочетание, идентифицирующее конкретного человека, продукт, идею или концепцию
+  - sana tai termi, jota k�ytet��n tunnistamiseen; katso my�s erisnimi (Q147276) ja henkil�nnimi (Q1071027)
+  - mot ou terme utilis� pour l'identification; voir aussi le nom propre (Q147276) et le nom personnel (Q1071027)
+  - nome ou termo usado para a identificaci�n. Ver tam�n nome propio (Q147276) e antrop�nimo (Q1071027)
+  - ????? ??? ??????????????, ???????????????? ??????????? ????????, ???????, ???? ??? ?????????
   - beseda ali besedna zveza za identifikacijo; glej tudi lastno ime (Q147276) in osebno ime (Q1071027)
-  - слово чи словосполучення, яке ідентифікує окремий елемент
-  - 用于识别的字词；另可参见常用词（Q147276）和人名（Q1071027）
+  - ????? ?? ???????????????, ??? ??????????? ??????? ???????
+  - ???????;???????(Q147276)???(Q1071027)
 ---
 
 # [[has_name]] 
@@ -97,7 +97,7 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: http://www.w3.org/2000/01/rdf-schema#label ]
 
-#has_/value_for_/weight_in_gram  
+
 
 ## #has_/text_of_/abstract 
 
@@ -124,17 +124,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/Name|Name]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_name|has_name]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_name/Name.public|Name.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_name.public|has_name.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_name/Name.internal|Name.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_name.internal|has_name.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_name/Name.protect|Name.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_name.protect|has_name.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_name/Name.private|Name.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_name.private|has_name.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_name/Name.personal|Name.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_name.personal|has_name.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_name/Name.secret|Name.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_name.secret|has_name.secret]] 
 

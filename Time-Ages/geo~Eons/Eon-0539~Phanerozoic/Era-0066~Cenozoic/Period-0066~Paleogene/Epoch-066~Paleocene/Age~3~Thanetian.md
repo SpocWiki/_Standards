@@ -37,26 +37,26 @@ A time period from 59.2 to 56.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Thanetian) 
 
 
-#has_/label_/bg  :: Танет
-#has_/label_/cs  :: Thanet
-#has_/label_/da  :: Thanetien
-#has_/label_/de  :: Thanetium
-#has_/label_/es  :: Thanetiense
-#has_/label_/et  :: Thaneti
-#has_/label_/fi  :: Thanet
-#has_/label_/fr  :: Thanétien
-#has_/label_/hu  :: thaneti
-#has_/label_/it  :: thanetiano
-#has_/label_/ja  :: サネティアン期
-#has_/label_/lt  :: Tanetis
-#has_/label_/nl  :: Thanetiën
-#has_/label_/no  :: Thanetium
-#has_/label_/pl  :: Tanet
-#has_/label_/pt  :: Tanetiano
-#has_/label_/sk  :: tanet
-#has_/label_/sl  :: thanetij
-#has_/label_/sv  :: thanet
-#has_/label_/zh  :: 塔内提期
+#has_/name_/bg  :: Танет
+#has_/name_/cs  :: Thanet
+#has_/name_/da  :: Thanetien
+#has_/name_/de  :: Thanetium
+#has_/name_/es  :: Thanetiense
+#has_/name_/et  :: Thaneti
+#has_/name_/fi  :: Thanet
+#has_/name_/fr  :: Thanétien
+#has_/name_/hu  :: thaneti
+#has_/name_/it  :: thanetiano
+#has_/name_/ja  :: サネティアン期
+#has_/name_/lt  :: Tanetis
+#has_/name_/nl  :: Thanetiën
+#has_/name_/no  :: Thanetium
+#has_/name_/pl  :: Tanet
+#has_/name_/pt  :: Tanetiano
+#has_/name_/sk  :: tanet
+#has_/name_/sl  :: thanetij
+#has_/name_/sv  :: thanet
+#has_/name_/zh  :: 塔内提期
 
 #has_/abbreviation :: e3
 

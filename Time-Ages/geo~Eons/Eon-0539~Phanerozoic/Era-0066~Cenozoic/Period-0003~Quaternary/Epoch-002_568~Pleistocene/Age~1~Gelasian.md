@@ -69,25 +69,25 @@ A time period from 2.58 to 1.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Gelasian) 
 
 
-#has_/label_/cs  :: Gelas
-#has_/label_/da  :: Gelasian
-#has_/label_/de  :: Gelasium
-#has_/label_/es  :: Gelasiense
-#has_/label_/et  :: Gelasi
-#has_/label_/fi  :: Gelas
-#has_/label_/fr  :: Gelasien
-#has_/label_/hu  :: gelasi
-#has_/label_/it  :: gelasiano
-#has_/label_/ja  :: ゲラシアン期
-#has_/label_/lt  :: Gelasis
-#has_/label_/nl  :: Pretigliën + Tigliën
-#has_/label_/no  :: Gelasium
-#has_/label_/pl  :: Gelas
-#has_/label_/pt  :: Gelasiano
-#has_/label_/sk  :: gelas
-#has_/label_/sl  :: gelasij
-#has_/label_/sv  :: gelas
-#has_/label_/zh  :: 格拉斯期
+#has_/name_/cs  :: Gelas
+#has_/name_/da  :: Gelasian
+#has_/name_/de  :: Gelasium
+#has_/name_/es  :: Gelasiense
+#has_/name_/et  :: Gelasi
+#has_/name_/fi  :: Gelas
+#has_/name_/fr  :: Gelasien
+#has_/name_/hu  :: gelasi
+#has_/name_/it  :: gelasiano
+#has_/name_/ja  :: ゲラシアン期
+#has_/name_/lt  :: Gelasis
+#has_/name_/nl  :: Pretigliën + Tigliën
+#has_/name_/no  :: Gelasium
+#has_/name_/pl  :: Gelas
+#has_/name_/pt  :: Gelasiano
+#has_/name_/sk  :: gelas
+#has_/name_/sl  :: gelasij
+#has_/name_/sv  :: gelas
+#has_/name_/zh  :: 格拉斯期
 
 #has_/abbreviation :: q1
 

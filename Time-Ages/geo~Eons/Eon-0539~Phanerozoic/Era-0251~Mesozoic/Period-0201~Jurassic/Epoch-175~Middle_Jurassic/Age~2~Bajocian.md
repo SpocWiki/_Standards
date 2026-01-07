@@ -41,26 +41,26 @@ A time period from 170.9 to 168.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Bajocian) 
 
 
-#has_/label_/bg  :: Байоѿ
-#has_/label_/cs  :: Bajok
-#has_/label_/da  :: Bajocien
-#has_/label_/de  :: Bajocium
-#has_/label_/es  :: Bajociense
-#has_/label_/et  :: Bajoci
-#has_/label_/fi  :: Bajoc
-#has_/label_/fr  :: Bajocien
-#has_/label_/hu  :: bajoci
-#has_/label_/it  :: bajociano
-#has_/label_/ja  :: バジョシアン期
-#has_/label_/lt  :: Bajosis
-#has_/label_/nl  :: Bajociën
-#has_/label_/no  :: Bajoc
-#has_/label_/pl  :: Bajos
-#has_/label_/pt  :: Bajociano
-#has_/label_/sk  :: bajok
-#has_/label_/sl  :: bajocij
-#has_/label_/sv  :: bajoc
-#has_/label_/zh  :: 巴柔期
+#has_/name_/bg  :: Байоѿ
+#has_/name_/cs  :: Bajok
+#has_/name_/da  :: Bajocien
+#has_/name_/de  :: Bajocium
+#has_/name_/es  :: Bajociense
+#has_/name_/et  :: Bajoci
+#has_/name_/fi  :: Bajoc
+#has_/name_/fr  :: Bajocien
+#has_/name_/hu  :: bajoci
+#has_/name_/it  :: bajociano
+#has_/name_/ja  :: バジョシアン期
+#has_/name_/lt  :: Bajosis
+#has_/name_/nl  :: Bajociën
+#has_/name_/no  :: Bajoc
+#has_/name_/pl  :: Bajos
+#has_/name_/pt  :: Bajociano
+#has_/name_/sk  :: bajok
+#has_/name_/sl  :: bajocij
+#has_/name_/sv  :: bajoc
+#has_/name_/zh  :: 巴柔期
 
 #has_/abbreviation :: j2
 

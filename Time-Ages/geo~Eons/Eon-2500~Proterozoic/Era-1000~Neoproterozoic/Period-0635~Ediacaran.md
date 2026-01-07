@@ -78,26 +78,26 @@ Multi-cellular life develops.
 > [Wikipedia](https://en.wikipedia.org/wiki/Ediacaran) 
 
 
-#has_/label_/bg  :: Едиакар
-#has_/label_/cs  :: Ediacar
-#has_/label_/da  :: Ediacara
-#has_/label_/de  :: Ediacarium
-#has_/label_/es  :: Ediacariense
-#has_/label_/et  :: Ediacara
-#has_/label_/fi  :: Ediacar
-#has_/label_/fr  :: Ediacarien
-#has_/label_/hu  :: ediacaranum
-#has_/label_/it  :: ediacariano
-#has_/label_/ja  :: エディアカラ紀
-#has_/label_/lt  :: Ediakaras
-#has_/label_/nl  :: Ediacaran
-#has_/label_/no  :: Ediacara
-#has_/label_/pl  :: Ediakar
-#has_/label_/pt  :: Ediacariano
-#has_/label_/sk  :: ediakarium
-#has_/label_/sl  :: ediacarij
-#has_/label_/sv  :: ediacara
-#has_/label_/zh  :: 埃迪卡拉纪
+#has_/name_/bg  :: Едиакар
+#has_/name_/cs  :: Ediacar
+#has_/name_/da  :: Ediacara
+#has_/name_/de  :: Ediacarium
+#has_/name_/es  :: Ediacariense
+#has_/name_/et  :: Ediacara
+#has_/name_/fi  :: Ediacar
+#has_/name_/fr  :: Ediacarien
+#has_/name_/hu  :: ediacaranum
+#has_/name_/it  :: ediacariano
+#has_/name_/ja  :: エディアカラ紀
+#has_/name_/lt  :: Ediakaras
+#has_/name_/nl  :: Ediacaran
+#has_/name_/no  :: Ediacara
+#has_/name_/pl  :: Ediakar
+#has_/name_/pt  :: Ediacariano
+#has_/name_/sk  :: ediakarium
+#has_/name_/sl  :: ediacarij
+#has_/name_/sv  :: ediacara
+#has_/name_/zh  :: 埃迪卡拉纪
 
 #has_/abbreviation :: NP3
 

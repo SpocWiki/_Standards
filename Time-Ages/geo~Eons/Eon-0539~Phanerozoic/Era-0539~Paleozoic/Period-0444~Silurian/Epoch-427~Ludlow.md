@@ -44,26 +44,26 @@ A time period from 427.4 to 419.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Ludlow%20Epoch) 
 
 
-#has_/label_/bg  :: Лудлоу
-#has_/label_/cs  :: Ludlow
-#has_/label_/da  :: Ludlow
-#has_/label_/de  :: Ludlow
-#has_/label_/es  :: Ludlow
-#has_/label_/et  :: Ludlow
-#has_/label_/fi  :: Ludlow
-#has_/label_/fr  :: Ludlow
-#has_/label_/hu  :: ludlowi
-#has_/label_/it  :: ludlow
-#has_/label_/ja  :: ルーロビアン世
-#has_/label_/lt  :: Ludlovis
-#has_/label_/nl  :: Ludlow
-#has_/label_/no  :: Ludlow
-#has_/label_/pl  :: Ludlow
-#has_/label_/pt  :: Ludlow
-#has_/label_/sk  :: ludlow
-#has_/label_/sl  :: ludlowij
-#has_/label_/sv  :: ludlow
-#has_/label_/zh  :: 卢德洛世
+#has_/name_/bg  :: Лудлоу
+#has_/name_/cs  :: Ludlow
+#has_/name_/da  :: Ludlow
+#has_/name_/de  :: Ludlow
+#has_/name_/es  :: Ludlow
+#has_/name_/et  :: Ludlow
+#has_/name_/fi  :: Ludlow
+#has_/name_/fr  :: Ludlow
+#has_/name_/hu  :: ludlowi
+#has_/name_/it  :: ludlow
+#has_/name_/ja  :: ルーロビアン世
+#has_/name_/lt  :: Ludlovis
+#has_/name_/nl  :: Ludlow
+#has_/name_/no  :: Ludlow
+#has_/name_/pl  :: Ludlow
+#has_/name_/pt  :: Ludlow
+#has_/name_/sk  :: ludlow
+#has_/name_/sl  :: ludlowij
+#has_/name_/sv  :: ludlow
+#has_/name_/zh  :: 卢德洛世
 
 #has_/abbreviation :: S3
 

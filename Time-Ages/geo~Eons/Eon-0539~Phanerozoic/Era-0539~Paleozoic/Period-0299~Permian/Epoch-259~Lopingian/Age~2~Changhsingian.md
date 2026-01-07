@@ -62,26 +62,26 @@ A time period from 254.14 to 251.902 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Changhsingian) 
 
 
-#has_/label_/bg  :: Чангшинг
-#has_/label_/cs  :: Changhsing
-#has_/label_/da  :: Changhsingien
-#has_/label_/de  :: Changhsingium
-#has_/label_/es  :: Changsingiense
-#has_/label_/et  :: Changhsingi
-#has_/label_/fi  :: Changhsing
-#has_/label_/fr  :: Changhsingien
-#has_/label_/hu  :: changhsingi
-#has_/label_/it  :: changsingiano
-#has_/label_/ja  :: チャンシンギアン期
-#has_/label_/lt  :: Čangšinjanis
-#has_/label_/nl  :: Changhsingiën
-#has_/label_/no  :: Changxingium
-#has_/label_/pl  :: Changhsing
-#has_/label_/pt  :: Changhsingiano
-#has_/label_/sk  :: Ŀchangsing
-#has_/label_/sl  :: changhsingij
-#has_/label_/sv  :: changhsing
-#has_/label_/zh  :: 长兴期
+#has_/name_/bg  :: Чангшинг
+#has_/name_/cs  :: Changhsing
+#has_/name_/da  :: Changhsingien
+#has_/name_/de  :: Changhsingium
+#has_/name_/es  :: Changsingiense
+#has_/name_/et  :: Changhsingi
+#has_/name_/fi  :: Changhsing
+#has_/name_/fr  :: Changhsingien
+#has_/name_/hu  :: changhsingi
+#has_/name_/it  :: changsingiano
+#has_/name_/ja  :: チャンシンギアン期
+#has_/name_/lt  :: Čangšinjanis
+#has_/name_/nl  :: Changhsingiën
+#has_/name_/no  :: Changxingium
+#has_/name_/pl  :: Changhsing
+#has_/name_/pt  :: Changhsingiano
+#has_/name_/sk  :: Ŀchangsing
+#has_/name_/sl  :: changhsingij
+#has_/name_/sv  :: changhsing
+#has_/name_/zh  :: 长兴期
 
 #has_/abbreviation :: p9
 

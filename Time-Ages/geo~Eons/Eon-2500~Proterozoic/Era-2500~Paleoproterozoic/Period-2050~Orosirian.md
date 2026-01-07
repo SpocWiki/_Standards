@@ -58,26 +58,26 @@ A time period from 2050 to 1800 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Orosirian) 
 
 
-#has_/label_/bg  :: Ороѿир
-#has_/label_/cs  :: Orosir
-#has_/label_/da  :: Orosirien
-#has_/label_/de  :: Orosirium
-#has_/label_/es  :: Orosiriense
-#has_/label_/et  :: Orosir
-#has_/label_/fi  :: Orosir
-#has_/label_/fr  :: Orosirien
-#has_/label_/hu  :: orosiri
-#has_/label_/it  :: orosiriano
-#has_/label_/ja  :: オロシリアン紀
-#has_/label_/lt  :: Orosiris
-#has_/label_/nl  :: Orosiriën
-#has_/label_/no  :: Orosirium
-#has_/label_/pl  :: Orosir
-#has_/label_/pt  :: Orosiriano
-#has_/label_/sk  :: orosirium
-#has_/label_/sl  :: orosijrij
-#has_/label_/sv  :: orosirium
-#has_/label_/zh  :: 造山纪
+#has_/name_/bg  :: Ороѿир
+#has_/name_/cs  :: Orosir
+#has_/name_/da  :: Orosirien
+#has_/name_/de  :: Orosirium
+#has_/name_/es  :: Orosiriense
+#has_/name_/et  :: Orosir
+#has_/name_/fi  :: Orosir
+#has_/name_/fr  :: Orosirien
+#has_/name_/hu  :: orosiri
+#has_/name_/it  :: orosiriano
+#has_/name_/ja  :: オロシリアン紀
+#has_/name_/lt  :: Orosiris
+#has_/name_/nl  :: Orosiriën
+#has_/name_/no  :: Orosirium
+#has_/name_/pl  :: Orosir
+#has_/name_/pt  :: Orosiriano
+#has_/name_/sk  :: orosirium
+#has_/name_/sl  :: orosijrij
+#has_/name_/sv  :: orosirium
+#has_/name_/zh  :: 造山纪
 
 #has_/abbreviation :: PP3
 

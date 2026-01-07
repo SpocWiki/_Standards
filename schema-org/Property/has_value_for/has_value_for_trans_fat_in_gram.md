@@ -27,6 +27,10 @@ title: has_trans-fat-content
 type: Predi_Quantity
 ---
 
+# [[has_value_for_trans_fat_in_gram]] 
+
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]] 
+
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 

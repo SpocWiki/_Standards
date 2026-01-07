@@ -56,18 +56,18 @@ UNII: VW92PHU2UY
 
 
 
-[Name-en::Americium]
-[Name-de::Americium]
+[#has_/name_/en::Americium]
+[#has_/name_/de::Americium]
 (Abbr::Am)
-[Weight-u::243]
+[#has_/value_for_/weight_/u::243]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::17.86]
 [Unknown2::0]
-[Radius-nm::5.993]
+[#has_/radius_/nm::5.993]
 [Electronegative::1.3]
 [Density::13.6]
-[MeltingPoint-C::994]
-[BoilingPoint-C::2607]
+[#has_/value_for_/temperature_/melt_/c ::994]
+[#has_/value_for_/temperature_/boil_/c ::2607]
 [HeatCapacity::0.11]
 [HeatConduct::0.1]
 [Enthalpy::14.4]

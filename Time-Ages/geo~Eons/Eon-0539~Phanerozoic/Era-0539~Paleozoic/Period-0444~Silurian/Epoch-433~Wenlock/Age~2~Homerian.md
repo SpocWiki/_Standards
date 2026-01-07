@@ -51,26 +51,26 @@ A time period from 430.5 to 427.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Homerian) 
 
 
-#has_/label_/bg  :: Хомер
-#has_/label_/cs  :: Homer
-#has_/label_/da  :: Homerien
-#has_/label_/de  :: Homerium
-#has_/label_/es  :: Homeriense
-#has_/label_/et  :: Homeri
-#has_/label_/fi  :: Homer
-#has_/label_/fr  :: Homérien
-#has_/label_/hu  :: homeri
-#has_/label_/it  :: homeriano
-#has_/label_/ja  :: ホメリアン期
-#has_/label_/lt  :: Homeris
-#has_/label_/nl  :: Homeriën
-#has_/label_/no  :: Homer
-#has_/label_/pl  :: Homer
-#has_/label_/pt  :: Homeriano
-#has_/label_/sk  :: homer
-#has_/label_/sl  :: homerij
-#has_/label_/sv  :: homer
-#has_/label_/zh  :: 侯默期
+#has_/name_/bg  :: Хомер
+#has_/name_/cs  :: Homer
+#has_/name_/da  :: Homerien
+#has_/name_/de  :: Homerium
+#has_/name_/es  :: Homeriense
+#has_/name_/et  :: Homeri
+#has_/name_/fi  :: Homer
+#has_/name_/fr  :: Homérien
+#has_/name_/hu  :: homeri
+#has_/name_/it  :: homeriano
+#has_/name_/ja  :: ホメリアン期
+#has_/name_/lt  :: Homeris
+#has_/name_/nl  :: Homeriën
+#has_/name_/no  :: Homer
+#has_/name_/pl  :: Homer
+#has_/name_/pt  :: Homeriano
+#has_/name_/sk  :: homer
+#has_/name_/sl  :: homerij
+#has_/name_/sv  :: homer
+#has_/name_/zh  :: 侯默期
 
 #has_/abbreviation :: s5
 

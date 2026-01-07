@@ -51,26 +51,26 @@ A time period from 273.01 to 266.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Roadian) 
 
 
-#has_/label_/bg  :: Роад
-#has_/label_/cs  :: Road
-#has_/label_/da  :: Roadien
-#has_/label_/de  :: Roadium
-#has_/label_/es  :: Roadiense
-#has_/label_/et  :: Roadi
-#has_/label_/fi  :: Road
-#has_/label_/fr  :: Roadien
-#has_/label_/hu  :: roadi
-#has_/label_/it  :: roadiano
-#has_/label_/ja  :: ローディアン期
-#has_/label_/lt  :: Roadis
-#has_/label_/nl  :: Roadiën
-#has_/label_/no  :: Roadium
-#has_/label_/pl  :: Road
-#has_/label_/pt  :: Roadiano
-#has_/label_/sk  :: road
-#has_/label_/sl  :: roadij
-#has_/label_/sv  :: road
-#has_/label_/zh  :: 罗德期
+#has_/name_/bg  :: Роад
+#has_/name_/cs  :: Road
+#has_/name_/da  :: Roadien
+#has_/name_/de  :: Roadium
+#has_/name_/es  :: Roadiense
+#has_/name_/et  :: Roadi
+#has_/name_/fi  :: Road
+#has_/name_/fr  :: Roadien
+#has_/name_/hu  :: roadi
+#has_/name_/it  :: roadiano
+#has_/name_/ja  :: ローディアン期
+#has_/name_/lt  :: Roadis
+#has_/name_/nl  :: Roadiën
+#has_/name_/no  :: Roadium
+#has_/name_/pl  :: Road
+#has_/name_/pt  :: Roadiano
+#has_/name_/sk  :: road
+#has_/name_/sl  :: roadij
+#has_/name_/sv  :: road
+#has_/name_/zh  :: 罗德期
 
 #has_/abbreviation :: p5
 

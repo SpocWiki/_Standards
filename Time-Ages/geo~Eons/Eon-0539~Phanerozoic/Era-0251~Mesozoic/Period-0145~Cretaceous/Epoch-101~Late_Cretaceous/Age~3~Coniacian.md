@@ -38,26 +38,26 @@ A time period from 89.8 to 86.3 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Coniacian) 
 
 
-#has_/label_/bg  :: Кониак
-#has_/label_/cs  :: Coniak
-#has_/label_/da  :: Coniacien
-#has_/label_/de  :: Coniacium
-#has_/label_/es  :: Coni
-#has_/label_/et  :: Coniaci
-#has_/label_/fi  :: Coniac
-#has_/label_/fr  :: Coniacien
-#has_/label_/hu  :: coniaci
-#has_/label_/it  :: coniaciano
-#has_/label_/ja  :: コニアシアン期
-#has_/label_/lt  :: Konjakis
-#has_/label_/nl  :: Conaciën
-#has_/label_/no  :: Coniacium
-#has_/label_/pl  :: Koniak
-#has_/label_/pt  :: Coniaciano
-#has_/label_/sk  :: koňak
-#has_/label_/sl  :: coniacij
-#has_/label_/sv  :: coniac
-#has_/label_/zh  :: 科尼亚克期
+#has_/name_/bg  :: Кониак
+#has_/name_/cs  :: Coniak
+#has_/name_/da  :: Coniacien
+#has_/name_/de  :: Coniacium
+#has_/name_/es  :: Coni
+#has_/name_/et  :: Coniaci
+#has_/name_/fi  :: Coniac
+#has_/name_/fr  :: Coniacien
+#has_/name_/hu  :: coniaci
+#has_/name_/it  :: coniaciano
+#has_/name_/ja  :: コニアシアン期
+#has_/name_/lt  :: Konjakis
+#has_/name_/nl  :: Conaciën
+#has_/name_/no  :: Coniacium
+#has_/name_/pl  :: Koniak
+#has_/name_/pt  :: Coniaciano
+#has_/name_/sk  :: koňak
+#has_/name_/sl  :: coniacij
+#has_/name_/sv  :: coniac
+#has_/name_/zh  :: 科尼亚克期
 
 #has_/abbreviation :: k3
 

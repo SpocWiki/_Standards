@@ -87,26 +87,26 @@ A time period from 346.7 to 330.9 million years ago.
 
 ![[../../../../../../../../xLarge/Earth/Geology/Earth-340_Ma_(Viséan_Age).png]] 
 
-#has_/label_/bg  :: Визей
-#has_/label_/cs  :: Visé
-#has_/label_/da  :: Viseen
-#has_/label_/de  :: Viseum
-#has_/label_/es  :: Viseense
-#has_/label_/et  :: Vise
-#has_/label_/fi  :: Vis
-#has_/label_/fr  :: Viséen
-#has_/label_/hu  :: viséi
-#has_/label_/it  :: viseano
-#has_/label_/ja  :: ビゼアン期
-#has_/label_/lt  :: Vizejis
-#has_/label_/nl  :: Vise-iën
-#has_/label_/no  :: Viseium
-#has_/label_/pl  :: Wizen
-#has_/label_/pt  :: Viseano
-#has_/label_/sk  :: visén
-#has_/label_/sl  :: viseij
-#has_/label_/sv  :: vis
-#has_/label_/zh  :: 韦宪期
+#has_/name_/bg  :: Визей
+#has_/name_/cs  :: Visé
+#has_/name_/da  :: Viseen
+#has_/name_/de  :: Viseum
+#has_/name_/es  :: Viseense
+#has_/name_/et  :: Vise
+#has_/name_/fi  :: Vis
+#has_/name_/fr  :: Viséen
+#has_/name_/hu  :: viséi
+#has_/name_/it  :: viseano
+#has_/name_/ja  :: ビゼアン期
+#has_/name_/lt  :: Vizejis
+#has_/name_/nl  :: Vise-iën
+#has_/name_/no  :: Viseium
+#has_/name_/pl  :: Wizen
+#has_/name_/pt  :: Viseano
+#has_/name_/sk  :: visén
+#has_/name_/sl  :: viseij
+#has_/name_/sv  :: vis
+#has_/name_/zh  :: 韦宪期
 
 #has_/abbreviation :: c2
 

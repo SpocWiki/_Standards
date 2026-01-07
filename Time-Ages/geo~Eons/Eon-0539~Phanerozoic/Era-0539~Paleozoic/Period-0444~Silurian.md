@@ -67,26 +67,26 @@ A time period from 443.8 to 419.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Silurian) 
 
 
-#has_/label_/bg  :: Силур
-#has_/label_/cs  :: Silur
-#has_/label_/da  :: Silur
-#has_/label_/de  :: Silur
-#has_/label_/es  :: Silúrcio
-#has_/label_/et  :: Silur
-#has_/label_/fi  :: Siluuri
-#has_/label_/fr  :: Silurien
-#has_/label_/hu  :: szilur
-#has_/label_/it  :: siluriano
-#has_/label_/ja  :: シルル紀
-#has_/label_/lt  :: Silūras
-#has_/label_/nl  :: Siluur
-#has_/label_/no  :: Silur
-#has_/label_/pl  :: Sylur
-#has_/label_/pt  :: Silúrico
-#has_/label_/sk  :: silúr
-#has_/label_/sl  :: silur
-#has_/label_/sv  :: silur
-#has_/label_/zh  :: 志留纪
+#has_/name_/bg  :: Силур
+#has_/name_/cs  :: Silur
+#has_/name_/da  :: Silur
+#has_/name_/de  :: Silur
+#has_/name_/es  :: Silúrcio
+#has_/name_/et  :: Silur
+#has_/name_/fi  :: Siluuri
+#has_/name_/fr  :: Silurien
+#has_/name_/hu  :: szilur
+#has_/name_/it  :: siluriano
+#has_/name_/ja  :: シルル紀
+#has_/name_/lt  :: Silūras
+#has_/name_/nl  :: Siluur
+#has_/name_/no  :: Silur
+#has_/name_/pl  :: Sylur
+#has_/name_/pt  :: Silúrico
+#has_/name_/sk  :: silúr
+#has_/name_/sl  :: silur
+#has_/name_/sv  :: silur
+#has_/name_/zh  :: 志留纪
 
 #has_/abbreviation :: S
 #has_/time_/started :: -443.8e6 

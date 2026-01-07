@@ -52,26 +52,26 @@ sRGB_color_hex_triplet: F74F7C
 > [Wikipedia](https://en.wikipedia.org/wiki/Siderian) 
 
 
-#has_/label_/bg  :: Сидер
-#has_/label_/cs  :: Sider
-#has_/label_/da  :: Siderien
-#has_/label_/de  :: Siderium
-#has_/label_/es  :: Sideriense
-#has_/label_/et  :: Sider
-#has_/label_/fi  :: Sider
-#has_/label_/fr  :: Sidérien
-#has_/label_/hu  :: sideri
-#has_/label_/it  :: sideriano
-#has_/label_/ja  :: シデリアン紀
-#has_/label_/lt  :: Sideris
-#has_/label_/nl  :: Sideriën
-#has_/label_/no  :: Siderium
-#has_/label_/pl  :: Sider
-#has_/label_/pt  :: Sideriano
-#has_/label_/sk  :: siderium
-#has_/label_/sl  :: siderij
-#has_/label_/sv  :: siderium
-#has_/label_/zh  :: 成铁纪
+#has_/name_/bg  :: Сидер
+#has_/name_/cs  :: Sider
+#has_/name_/da  :: Siderien
+#has_/name_/de  :: Siderium
+#has_/name_/es  :: Sideriense
+#has_/name_/et  :: Sider
+#has_/name_/fi  :: Sider
+#has_/name_/fr  :: Sidérien
+#has_/name_/hu  :: sideri
+#has_/name_/it  :: sideriano
+#has_/name_/ja  :: シデリアン紀
+#has_/name_/lt  :: Sideris
+#has_/name_/nl  :: Sideriën
+#has_/name_/no  :: Siderium
+#has_/name_/pl  :: Sider
+#has_/name_/pt  :: Sideriano
+#has_/name_/sk  :: siderium
+#has_/name_/sl  :: siderij
+#has_/name_/sv  :: siderium
+#has_/name_/zh  :: 成铁纪
 
 #has_/abbreviation :: PP1
 

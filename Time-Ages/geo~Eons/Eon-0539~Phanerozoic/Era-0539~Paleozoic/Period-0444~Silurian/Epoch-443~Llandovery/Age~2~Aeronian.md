@@ -52,26 +52,26 @@ A time period from 440.8 to 438.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Aeronian) 
 
 
-#has_/label_/bg  :: перон
-#has_/label_/cs  :: Aeron
-#has_/label_/da  :: Aeronien
-#has_/label_/de  :: Aeronium
-#has_/label_/es  :: Aeroniense
-#has_/label_/et  :: Aeroni
-#has_/label_/fi  :: Aeron
-#has_/label_/fr  :: Aéronien
-#has_/label_/hu  :: aeroni
-#has_/label_/it  :: aeroniano
-#has_/label_/ja  :: アエロニアン期
-#has_/label_/lt  :: Aeronis
-#has_/label_/nl  :: Aeroniën
-#has_/label_/no  :: Aeronium
-#has_/label_/pl  :: Aeron
-#has_/label_/pt  :: Aeroniano
-#has_/label_/sk  :: aerón
-#has_/label_/sl  :: aeronij
-#has_/label_/sv  :: aeron
-#has_/label_/zh  :: 埃隆期
+#has_/name_/bg  :: перон
+#has_/name_/cs  :: Aeron
+#has_/name_/da  :: Aeronien
+#has_/name_/de  :: Aeronium
+#has_/name_/es  :: Aeroniense
+#has_/name_/et  :: Aeroni
+#has_/name_/fi  :: Aeron
+#has_/name_/fr  :: Aéronien
+#has_/name_/hu  :: aeroni
+#has_/name_/it  :: aeroniano
+#has_/name_/ja  :: アエロニアン期
+#has_/name_/lt  :: Aeronis
+#has_/name_/nl  :: Aeroniën
+#has_/name_/no  :: Aeronium
+#has_/name_/pl  :: Aeron
+#has_/name_/pt  :: Aeroniano
+#has_/name_/sk  :: aerón
+#has_/name_/sl  :: aeronij
+#has_/name_/sv  :: aeron
+#has_/name_/zh  :: 埃隆期
 
 #has_/abbreviation :: s2
 

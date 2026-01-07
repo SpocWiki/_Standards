@@ -39,26 +39,26 @@ A time period from 247.2 to 237 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Triassic) 
 
 
-#has_/label_/bg  :: Среден Триаѿ
-#has_/label_/cs  :: Střední trias
-#has_/label_/da  :: Mellem Triassisk
-#has_/label_/de  :: Mittlere Trias
-#has_/label_/es  :: Triásico Medio
-#has_/label_/et  :: Kesk-Triias
-#has_/label_/fi  :: Keski-Trias
-#has_/label_/fr  :: Trias moyen
-#has_/label_/hu  :: középső-triász
-#has_/label_/it  :: triassico medio
-#has_/label_/ja  :: 中期三畳紀
-#has_/label_/lt  :: Vidurinis Triasas
-#has_/label_/nl  :: Midden Trias
-#has_/label_/no  :: Midtre trias
-#has_/label_/pl  :: Środkowy Trias
-#has_/label_/pt  :: Triásico Médio
-#has_/label_/sk  :: stredný trias
-#has_/label_/sl  :: srednji trias
-#has_/label_/sv  :: mellersta trias
-#has_/label_/zh  :: 中三叠世
+#has_/name_/bg  :: Среден Триаѿ
+#has_/name_/cs  :: Střední trias
+#has_/name_/da  :: Mellem Triassisk
+#has_/name_/de  :: Mittlere Trias
+#has_/name_/es  :: Triásico Medio
+#has_/name_/et  :: Kesk-Triias
+#has_/name_/fi  :: Keski-Trias
+#has_/name_/fr  :: Trias moyen
+#has_/name_/hu  :: középső-triász
+#has_/name_/it  :: triassico medio
+#has_/name_/ja  :: 中期三畳紀
+#has_/name_/lt  :: Vidurinis Triasas
+#has_/name_/nl  :: Midden Trias
+#has_/name_/no  :: Midtre trias
+#has_/name_/pl  :: Środkowy Trias
+#has_/name_/pt  :: Triásico Médio
+#has_/name_/sk  :: stredný trias
+#has_/name_/sl  :: srednji trias
+#has_/name_/sv  :: mellersta trias
+#has_/name_/zh  :: 中三叠世
 
 #has_/abbreviation :: T2
 

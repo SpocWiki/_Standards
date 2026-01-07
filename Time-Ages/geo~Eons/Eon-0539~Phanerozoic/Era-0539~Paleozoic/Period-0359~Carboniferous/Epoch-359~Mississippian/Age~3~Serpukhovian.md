@@ -90,26 +90,26 @@ A time period from 330.9 to 323.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Serpukhovian) 
 
 
-#has_/label_/bg  :: Серпухов
-#has_/label_/cs  :: Serpukhov
-#has_/label_/da  :: Serpukhovien
-#has_/label_/de  :: Serpukhovium
-#has_/label_/es  :: Serpulkhoviense
-#has_/label_/et  :: Serpuhhovi
-#has_/label_/fi  :: Serpukhov
-#has_/label_/fr  :: Serpukhovien
-#has_/label_/hu  :: szerpuhovi
-#has_/label_/it  :: serpukhoviano
-#has_/label_/ja  :: サプコビアン期
-#has_/label_/lt  :: Serpuchovis
-#has_/label_/nl  :: Serpukhoviën
-#has_/label_/no  :: Serpukovium
-#has_/label_/pl  :: Serpuchow
-#has_/label_/pt  :: Serpukoviano
-#has_/label_/sk  :: serpuchov
-#has_/label_/sl  :: serpukhovij
-#has_/label_/sv  :: serpukhov
-#has_/label_/zh  :: 谢尔普霍夫期
+#has_/name_/bg  :: Серпухов
+#has_/name_/cs  :: Serpukhov
+#has_/name_/da  :: Serpukhovien
+#has_/name_/de  :: Serpukhovium
+#has_/name_/es  :: Serpulkhoviense
+#has_/name_/et  :: Serpuhhovi
+#has_/name_/fi  :: Serpukhov
+#has_/name_/fr  :: Serpukhovien
+#has_/name_/hu  :: szerpuhovi
+#has_/name_/it  :: serpukhoviano
+#has_/name_/ja  :: サプコビアン期
+#has_/name_/lt  :: Serpuchovis
+#has_/name_/nl  :: Serpukhoviën
+#has_/name_/no  :: Serpukovium
+#has_/name_/pl  :: Serpuchow
+#has_/name_/pt  :: Serpukoviano
+#has_/name_/sk  :: serpuchov
+#has_/name_/sl  :: serpukhovij
+#has_/name_/sv  :: serpukhov
+#has_/name_/zh  :: 谢尔普霍夫期
 
 #has_/abbreviation :: c3
 #has_/time_/started :: -330.9e6 

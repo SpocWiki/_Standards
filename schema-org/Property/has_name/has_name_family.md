@@ -28,6 +28,8 @@ title: has_name_family
 type: Pred_Text
 ---
 
+# [[has_name_family]] 
+
 Predicate to describe the Text of Person. 
 
 Use it like this: 
@@ -43,7 +45,7 @@ Predicated describes that:
 ( #has_/name :: has_name_family ) 
 ( #has_/range :: Text ) 
 
-## as last Part of a Persons Name in Countries 
+## as last Part of a Persons Name in these Countries 
 
 - [[../../../Earth/Continent/Asia/Asia~East/China|China]] 
 - [[../../../Earth/Continent/Asia/Asia~East/Japan|Japan]] 
@@ -54,7 +56,7 @@ Predicated describes that:
 - [[../../../Earth/Continent/Asia/Asia~East/Mongolia|Mongolia]] 
 - 
 
-## as first Part of a Persons Name in Countries 
+## as first Part of a Persons Name in all other Countries 
 
 
 ## Confidential Links & Embeds: 

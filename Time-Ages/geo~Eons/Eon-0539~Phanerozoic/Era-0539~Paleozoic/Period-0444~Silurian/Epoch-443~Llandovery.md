@@ -50,26 +50,26 @@ A time period from 443.8 to 433.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Llandovery%20Epoch) 
 
 
-#has_/label_/bg  :: Лиандовери
-#has_/label_/cs  :: Llandovery
-#has_/label_/da  :: Llandovery
-#has_/label_/de  :: Llandovery
-#has_/label_/es  :: Llandovery
-#has_/label_/et  :: Llandovery
-#has_/label_/fi  :: Llandovery
-#has_/label_/fr  :: Llandovery
-#has_/label_/hu  :: llandoveryi
-#has_/label_/it  :: llandovery
-#has_/label_/ja  :: ランドベリアン世
-#has_/label_/lt  :: Landoveris
-#has_/label_/nl  :: Llandovery
-#has_/label_/no  :: Llandovery
-#has_/label_/pl  :: Landower
-#has_/label_/pt  :: Llandovery
-#has_/label_/sk  :: llandover
-#has_/label_/sl  :: llandoverij
-#has_/label_/sv  :: llandovery
-#has_/label_/zh  :: 兰多维列世
+#has_/name_/bg  :: Лиандовери
+#has_/name_/cs  :: Llandovery
+#has_/name_/da  :: Llandovery
+#has_/name_/de  :: Llandovery
+#has_/name_/es  :: Llandovery
+#has_/name_/et  :: Llandovery
+#has_/name_/fi  :: Llandovery
+#has_/name_/fr  :: Llandovery
+#has_/name_/hu  :: llandoveryi
+#has_/name_/it  :: llandovery
+#has_/name_/ja  :: ランドベリアン世
+#has_/name_/lt  :: Landoveris
+#has_/name_/nl  :: Llandovery
+#has_/name_/no  :: Llandovery
+#has_/name_/pl  :: Landower
+#has_/name_/pt  :: Llandovery
+#has_/name_/sk  :: llandover
+#has_/name_/sl  :: llandoverij
+#has_/name_/sv  :: llandovery
+#has_/name_/zh  :: 兰多维列世
 
 #has_/abbreviation :: S1
 

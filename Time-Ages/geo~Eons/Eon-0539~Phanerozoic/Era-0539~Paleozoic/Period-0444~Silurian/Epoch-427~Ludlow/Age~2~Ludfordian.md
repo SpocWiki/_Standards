@@ -50,26 +50,26 @@ A time period from 425.6 to 423.0 million years ago.
 
 ischart::Ludfordian 
 
-#has_/label_/bg  :: Лудфорд
-#has_/label_/cs  :: Ludford
-#has_/label_/da  :: Ludfordien
-#has_/label_/de  :: Ludfordium
-#has_/label_/es  :: Ludfordiense
-#has_/label_/et  :: Ludfordi
-#has_/label_/fi  :: Ludford
-#has_/label_/fr  :: Ludfordien
-#has_/label_/hu  :: ludfordi
-#has_/label_/it  :: ludfordiano
-#has_/label_/ja  :: ルドフォーディアン期
-#has_/label_/lt  :: Lutfordis
-#has_/label_/nl  :: Ludfordiën
-#has_/label_/no  :: Ludford
-#has_/label_/pl  :: Ludford
-#has_/label_/pt  :: Ludfordiano
-#has_/label_/sk  :: ludford
-#has_/label_/sl  :: ludfordij
-#has_/label_/sv  :: ludford
-#has_/label_/zh  :: 卢德福德期
+#has_/name_/bg  :: Лудфорд
+#has_/name_/cs  :: Ludford
+#has_/name_/da  :: Ludfordien
+#has_/name_/de  :: Ludfordium
+#has_/name_/es  :: Ludfordiense
+#has_/name_/et  :: Ludfordi
+#has_/name_/fi  :: Ludford
+#has_/name_/fr  :: Ludfordien
+#has_/name_/hu  :: ludfordi
+#has_/name_/it  :: ludfordiano
+#has_/name_/ja  :: ルドフォーディアン期
+#has_/name_/lt  :: Lutfordis
+#has_/name_/nl  :: Ludfordiën
+#has_/name_/no  :: Ludford
+#has_/name_/pl  :: Ludford
+#has_/name_/pt  :: Ludfordiano
+#has_/name_/sk  :: ludford
+#has_/name_/sl  :: ludfordij
+#has_/name_/sv  :: ludford
+#has_/name_/zh  :: 卢德福德期
 
 #has_/abbreviation :: s7
 

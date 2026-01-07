@@ -109,26 +109,26 @@ A time period from 23.03 to 5.333 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Miocene) 
 
 
-#has_/label_/bg  :: Миоцен
-#has_/label_/cs  :: Miocén
-#has_/label_/da  :: Miocæn
-#has_/label_/de  :: Miozän
-#has_/label_/es  :: Mioceno
-#has_/label_/et  :: Miotseen
-#has_/label_/fi  :: Mioseeni
-#has_/label_/fr  :: Miocène
-#has_/label_/hu  :: miocén
-#has_/label_/it  :: miocene
-#has_/label_/ja  :: 中新世
-#has_/label_/lt  :: Miocenas
-#has_/label_/nl  :: Mioceen
-#has_/label_/no  :: Miocen
-#has_/label_/pl  :: Miocen
-#has_/label_/pt  :: Miocénico
-#has_/label_/sk  :: miocén
-#has_/label_/sl  :: miocen
-#has_/label_/sv  :: miocen
-#has_/label_/zh  :: 中新世
+#has_/name_/bg  :: Миоцен
+#has_/name_/cs  :: Miocén
+#has_/name_/da  :: Miocæn
+#has_/name_/de  :: Miozän
+#has_/name_/es  :: Mioceno
+#has_/name_/et  :: Miotseen
+#has_/name_/fi  :: Mioseeni
+#has_/name_/fr  :: Miocène
+#has_/name_/hu  :: miocén
+#has_/name_/it  :: miocene
+#has_/name_/ja  :: 中新世
+#has_/name_/lt  :: Miocenas
+#has_/name_/nl  :: Mioceen
+#has_/name_/no  :: Miocen
+#has_/name_/pl  :: Miocen
+#has_/name_/pt  :: Miocénico
+#has_/name_/sk  :: miocén
+#has_/name_/sl  :: miocen
+#has_/name_/sv  :: miocen
+#has_/name_/zh  :: 中新世
 
 ## All Contents
 

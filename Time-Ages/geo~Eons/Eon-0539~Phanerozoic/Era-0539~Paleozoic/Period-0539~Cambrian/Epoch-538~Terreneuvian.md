@@ -53,26 +53,26 @@ A time period from 538.8 to 521 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Terreneuvian) 
 
 
-#has_/label_/bg  :: Теренеув
-#has_/label_/cs  :: Terreneuv
-#has_/label_/da  :: Terreneuvien
-#has_/label_/de  :: Terreneuvium
-#has_/label_/es  :: Terreneuviense
-#has_/label_/et  :: Terreneuvi
-#has_/label_/fi  :: Terreneuv
-#has_/label_/fr  :: Terreneuvien
-#has_/label_/hu  :: terreneuvi
-#has_/label_/it  :: terreneuviano
-#has_/label_/ja  :: テレニュービアン世
-#has_/label_/lt  :: Tereniuvis
-#has_/label_/nl  :: Terreneuviën
-#has_/label_/no  :: Terreneuvium
-#has_/label_/pl  :: Terenew
-#has_/label_/pt  :: Terreneuviano
-#has_/label_/sk  :: terreneuv
-#has_/label_/sl  :: terreneuvij
-#has_/label_/sv  :: terreneuv
-#has_/label_/zh  :: 纽芬兰世
+#has_/name_/bg  :: Теренеув
+#has_/name_/cs  :: Terreneuv
+#has_/name_/da  :: Terreneuvien
+#has_/name_/de  :: Terreneuvium
+#has_/name_/es  :: Terreneuviense
+#has_/name_/et  :: Terreneuvi
+#has_/name_/fi  :: Terreneuv
+#has_/name_/fr  :: Terreneuvien
+#has_/name_/hu  :: terreneuvi
+#has_/name_/it  :: terreneuviano
+#has_/name_/ja  :: テレニュービアン世
+#has_/name_/lt  :: Tereniuvis
+#has_/name_/nl  :: Terreneuviën
+#has_/name_/no  :: Terreneuvium
+#has_/name_/pl  :: Terenew
+#has_/name_/pt  :: Terreneuviano
+#has_/name_/sk  :: terreneuv
+#has_/name_/sl  :: terreneuvij
+#has_/name_/sv  :: terreneuv
+#has_/name_/zh  :: 纽芬兰世
 
 #has_/abbreviation :: Ep1
 #has_/time_/started :: -538.8e6 

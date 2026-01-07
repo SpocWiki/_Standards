@@ -47,26 +47,26 @@ A time period from 201.4 to 199.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Hettangian) 
 
 
-#has_/label_/bg  :: Хетанж
-#has_/label_/cs  :: Hettang
-#has_/label_/da  :: Hettangien
-#has_/label_/de  :: Hettangium
-#has_/label_/es  :: Hettagiense
-#has_/label_/et  :: Hettangi
-#has_/label_/fi  :: Hettang
-#has_/label_/fr  :: Hettangien
-#has_/label_/hu  :: hettangi
-#has_/label_/it  :: hettangiano
-#has_/label_/ja  :: ヘッタンギアン期
-#has_/label_/lt  :: Hetangis
-#has_/label_/nl  :: Hettangiën
-#has_/label_/no  :: Hettang
-#has_/label_/pl  :: Hetang
-#has_/label_/pt  :: Hetangiano
-#has_/label_/sk  :: hetanž
-#has_/label_/sl  :: hettangij
-#has_/label_/sv  :: hettang
-#has_/label_/zh  :: 赫唐期
+#has_/name_/bg  :: Хетанж
+#has_/name_/cs  :: Hettang
+#has_/name_/da  :: Hettangien
+#has_/name_/de  :: Hettangium
+#has_/name_/es  :: Hettagiense
+#has_/name_/et  :: Hettangi
+#has_/name_/fi  :: Hettang
+#has_/name_/fr  :: Hettangien
+#has_/name_/hu  :: hettangi
+#has_/name_/it  :: hettangiano
+#has_/name_/ja  :: ヘッタンギアン期
+#has_/name_/lt  :: Hetangis
+#has_/name_/nl  :: Hettangiën
+#has_/name_/no  :: Hettang
+#has_/name_/pl  :: Hetang
+#has_/name_/pt  :: Hetangiano
+#has_/name_/sk  :: hetanž
+#has_/name_/sl  :: hettangij
+#has_/name_/sv  :: hettang
+#has_/name_/zh  :: 赫唐期
 
 #has_/abbreviation :: I1
 

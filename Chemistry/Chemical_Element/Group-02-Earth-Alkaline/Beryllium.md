@@ -96,16 +96,16 @@ ZVG_number: 8020
 [Group:[[../Group-02-Earth-Alkaline]]
 
 
-[Name-de::Beryllium]
-[Weight-u::9.0122]
+[#has_/name_/de::Beryllium]
+[#has_/value_for_/weight_/u::9.0122]
 [AtomRadius::1.4]
 [Atom-Vol-ccm-mol::5.009]
 [Unknown2::0.9]
-[Radius-nm::9.322]
+[#has_/radius_/nm::9.322]
 [Electronegative::1.6]
 [Density::1.85]
-[MeltingPoint-C::1278]
-[BoilingPoint-C::2970]
+[#has_/value_for_/temperature_/melt_/c ::1278]
+[#has_/value_for_/temperature_/boil_/c ::2970]
 [HeatCapacity::1.82]
 [HeatConduct::2]
 [Enthalpy::12.2]
@@ -115,7 +115,7 @@ ZVG_number: 8020
 
 ## #has_/text_of_/abstract 
 
-> **[Name-en::Beryllium]** is a chemical element with the symbol (Abbr::Be) and atomic number (Charge-e::4). 
+> **[#has_/name_/en::Beryllium]** is a chemical element with the symbol (Abbr::Be) and atomic number (Charge-e::4). 
 > 
 > It is a steel-gray, strong, lightweight and brittle alkaline earth metal. 
 > 

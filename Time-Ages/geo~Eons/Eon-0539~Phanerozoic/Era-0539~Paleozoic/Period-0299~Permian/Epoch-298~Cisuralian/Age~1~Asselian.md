@@ -58,26 +58,26 @@ A time period from 298.9 to 293.51 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Asselian) 
 
 
-#has_/label_/bg  :: пѿел
-#has_/label_/cs  :: Assel
-#has_/label_/da  :: Asselien
-#has_/label_/de  :: Asselium
-#has_/label_/es  :: Asseliense
-#has_/label_/et  :: Asseli
-#has_/label_/fi  :: Assel
-#has_/label_/fr  :: Assélien
-#has_/label_/hu  :: asszeli
-#has_/label_/it  :: asseliano
-#has_/label_/ja  :: アセリアン期
-#has_/label_/lt  :: Aselis
-#has_/label_/nl  :: Asseliën
-#has_/label_/no  :: Asselium
-#has_/label_/pl  :: Aselsk
-#has_/label_/pt  :: Asseliano
-#has_/label_/sk  :: assel
-#has_/label_/sl  :: asselij
-#has_/label_/sv  :: assel
-#has_/label_/zh  :: 阿瑟尔期
+#has_/name_/bg  :: пѿел
+#has_/name_/cs  :: Assel
+#has_/name_/da  :: Asselien
+#has_/name_/de  :: Asselium
+#has_/name_/es  :: Asseliense
+#has_/name_/et  :: Asseli
+#has_/name_/fi  :: Assel
+#has_/name_/fr  :: Assélien
+#has_/name_/hu  :: asszeli
+#has_/name_/it  :: asseliano
+#has_/name_/ja  :: アセリアン期
+#has_/name_/lt  :: Aselis
+#has_/name_/nl  :: Asseliën
+#has_/name_/no  :: Asselium
+#has_/name_/pl  :: Aselsk
+#has_/name_/pt  :: Asseliano
+#has_/name_/sk  :: assel
+#has_/name_/sl  :: asselij
+#has_/name_/sv  :: assel
+#has_/name_/zh  :: 阿瑟尔期
 
 #has_/abbreviation :: p1
 

@@ -39,8 +39,8 @@ Use it like this:
 An organization identifier as defined in ISO 6523(-1). 
 Note that many existing organization identifiers such as 
 - [leiCode](leiCode), 
-- [duns](duns) and [
-- vatID](vatID) 
+- [duns](duns) and 
+- [vatID](vatID) 
 can be expressed as an ISO 6523 identifier 
 by setting the ICD part of the ISO 6523 identifier accordingly.
 

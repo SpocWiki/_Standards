@@ -54,26 +54,26 @@ A time period from 259.51 to 251.902 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Lopingian) 
 
 
-#has_/label_/bg  :: Лопинг
-#has_/label_/cs  :: Loping
-#has_/label_/da  :: Lopingien
-#has_/label_/de  :: Lopingium
-#has_/label_/es  :: Lopingiense
-#has_/label_/et  :: Loping
-#has_/label_/fi  :: Loping
-#has_/label_/fr  :: Lopingien
-#has_/label_/hu  :: lopingi
-#has_/label_/it  :: lopingiano
-#has_/label_/ja  :: ロピンギアン世
-#has_/label_/lt  :: Lopingis
-#has_/label_/nl  :: Lopingiën
-#has_/label_/no  :: Lopingium
-#has_/label_/pl  :: Loping
-#has_/label_/pt  :: Lopingiano
-#has_/label_/sk  :: loping
-#has_/label_/sl  :: lopingij
-#has_/label_/sv  :: loping
-#has_/label_/zh  :: 乐平世
+#has_/name_/bg  :: Лопинг
+#has_/name_/cs  :: Loping
+#has_/name_/da  :: Lopingien
+#has_/name_/de  :: Lopingium
+#has_/name_/es  :: Lopingiense
+#has_/name_/et  :: Loping
+#has_/name_/fi  :: Loping
+#has_/name_/fr  :: Lopingien
+#has_/name_/hu  :: lopingi
+#has_/name_/it  :: lopingiano
+#has_/name_/ja  :: ロピンギアン世
+#has_/name_/lt  :: Lopingis
+#has_/name_/nl  :: Lopingiën
+#has_/name_/no  :: Lopingium
+#has_/name_/pl  :: Loping
+#has_/name_/pt  :: Lopingiano
+#has_/name_/sk  :: loping
+#has_/name_/sl  :: lopingij
+#has_/name_/sv  :: loping
+#has_/name_/zh  :: 乐平世
 
 #has_/abbreviation :: P3
 

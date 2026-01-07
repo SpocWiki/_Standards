@@ -61,26 +61,26 @@ A time period from 372.2 to 358.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Famennian) 
 
 
-#has_/label_/bg  :: Фамен
-#has_/label_/cs  :: Famen
-#has_/label_/da  :: Famennien
-#has_/label_/de  :: Fammennium
-#has_/label_/es  :: Fameniense
-#has_/label_/et  :: Famenne
-#has_/label_/fi  :: Fammenn
-#has_/label_/fr  :: Famennien
-#has_/label_/hu  :: famenni
-#has_/label_/it  :: famenniano
-#has_/label_/ja  :: ファメニアン期
-#has_/label_/lt  :: Famenis
-#has_/label_/nl  :: Famenniën
-#has_/label_/no  :: Famennium
-#has_/label_/pl  :: Famen
-#has_/label_/pt  :: Fameniano
-#has_/label_/sk  :: famen
-#has_/label_/sl  :: fammenij
-#has_/label_/sv  :: famenn
-#has_/label_/zh  :: 法门期
+#has_/name_/bg  :: Фамен
+#has_/name_/cs  :: Famen
+#has_/name_/da  :: Famennien
+#has_/name_/de  :: Fammennium
+#has_/name_/es  :: Fameniense
+#has_/name_/et  :: Famenne
+#has_/name_/fi  :: Fammenn
+#has_/name_/fr  :: Famennien
+#has_/name_/hu  :: famenni
+#has_/name_/it  :: famenniano
+#has_/name_/ja  :: ファメニアン期
+#has_/name_/lt  :: Famenis
+#has_/name_/nl  :: Famenniën
+#has_/name_/no  :: Famennium
+#has_/name_/pl  :: Famen
+#has_/name_/pt  :: Fameniano
+#has_/name_/sk  :: famen
+#has_/name_/sl  :: fammenij
+#has_/name_/sv  :: famenn
+#has_/name_/zh  :: 法门期
 
 #has_/abbreviation :: d7
 

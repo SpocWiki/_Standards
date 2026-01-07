@@ -56,26 +56,26 @@ A time period from 407.6 to 393.3 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Emsian) 
 
 
-#has_/label_/bg  :: Емѿ
-#has_/label_/cs  :: Ems
-#has_/label_/da  :: Emsien
-#has_/label_/de  :: Emsium
-#has_/label_/es  :: Emsiense
-#has_/label_/et  :: Emsi
-#has_/label_/fi  :: Ems
-#has_/label_/fr  :: Emsien
-#has_/label_/hu  :: emsi
-#has_/label_/it  :: emsiano
-#has_/label_/ja  :: エムシアン期
-#has_/label_/lt  :: Emsis
-#has_/label_/nl  :: Emsiën
-#has_/label_/no  :: Emsium
-#has_/label_/pl  :: Ems
-#has_/label_/pt  :: Emsiano
-#has_/label_/sk  :: ems
-#has_/label_/sl  :: emsij
-#has_/label_/sv  :: ems
-#has_/label_/zh  :: 艾姆斯期
+#has_/name_/bg  :: Емѿ
+#has_/name_/cs  :: Ems
+#has_/name_/da  :: Emsien
+#has_/name_/de  :: Emsium
+#has_/name_/es  :: Emsiense
+#has_/name_/et  :: Emsi
+#has_/name_/fi  :: Ems
+#has_/name_/fr  :: Emsien
+#has_/name_/hu  :: emsi
+#has_/name_/it  :: emsiano
+#has_/name_/ja  :: エムシアン期
+#has_/name_/lt  :: Emsis
+#has_/name_/nl  :: Emsiën
+#has_/name_/no  :: Emsium
+#has_/name_/pl  :: Ems
+#has_/name_/pt  :: Emsiano
+#has_/name_/sk  :: ems
+#has_/name_/sl  :: emsij
+#has_/name_/sv  :: ems
+#has_/name_/zh  :: 艾姆斯期
 
 #has_/abbreviation :: d3
 #has_/time_/started :: -407.6e6 

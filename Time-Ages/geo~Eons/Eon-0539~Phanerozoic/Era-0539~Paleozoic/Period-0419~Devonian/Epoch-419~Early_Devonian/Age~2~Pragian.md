@@ -59,26 +59,26 @@ A time period from 410.8 to 407.6 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pragian) 
 
 
-#has_/label_/bg  :: Праг
-#has_/label_/cs  :: Prag
-#has_/label_/da  :: Pragien
-#has_/label_/de  :: Pragium
-#has_/label_/es  :: Praguiense
-#has_/label_/et  :: Praha
-#has_/label_/fi  :: Praha
-#has_/label_/fr  :: Praguien
-#has_/label_/hu  :: prágai
-#has_/label_/it  :: pragiano
-#has_/label_/ja  :: プラギアン期
-#has_/label_/lt  :: Pragis
-#has_/label_/nl  :: Pragiën
-#has_/label_/no  :: Pragium
-#has_/label_/pl  :: Prag
-#has_/label_/pt  :: Pragiano
-#has_/label_/sk  :: prág
-#has_/label_/sl  :: pragij
-#has_/label_/sv  :: prag
-#has_/label_/zh  :: 布拉格期
+#has_/name_/bg  :: Праг
+#has_/name_/cs  :: Prag
+#has_/name_/da  :: Pragien
+#has_/name_/de  :: Pragium
+#has_/name_/es  :: Praguiense
+#has_/name_/et  :: Praha
+#has_/name_/fi  :: Praha
+#has_/name_/fr  :: Praguien
+#has_/name_/hu  :: prágai
+#has_/name_/it  :: pragiano
+#has_/name_/ja  :: プラギアン期
+#has_/name_/lt  :: Pragis
+#has_/name_/nl  :: Pragiën
+#has_/name_/no  :: Pragium
+#has_/name_/pl  :: Prag
+#has_/name_/pt  :: Pragiano
+#has_/name_/sk  :: prág
+#has_/name_/sl  :: pragij
+#has_/name_/sv  :: prag
+#has_/name_/zh  :: 布拉格期
 
 #has_/abbreviation :: d2
 #has_/time_/started :: -410.8e6 

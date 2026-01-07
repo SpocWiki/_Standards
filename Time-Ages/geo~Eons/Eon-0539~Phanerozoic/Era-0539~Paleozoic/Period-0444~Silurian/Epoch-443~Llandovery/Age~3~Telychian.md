@@ -49,26 +49,26 @@ A time period from 438.5 to 433.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Telychian) 
 
 
-#has_/label_/bg  :: Телич
-#has_/label_/cs  :: Telych
-#has_/label_/da  :: Telychien
-#has_/label_/de  :: Telychium
-#has_/label_/es  :: Telychiense
-#has_/label_/et  :: Telychi
-#has_/label_/fi  :: Telych
-#has_/label_/fr  :: Télychien
-#has_/label_/hu  :: telychi
-#has_/label_/it  :: telychiano
-#has_/label_/ja  :: テリチアン期
-#has_/label_/lt  :: TelyĿis
-#has_/label_/nl  :: Telychiën
-#has_/label_/no  :: Telychium
-#has_/label_/pl  :: Telych
-#has_/label_/pt  :: Telychiano
-#has_/label_/sk  :: telych
-#has_/label_/sl  :: telychij
-#has_/label_/sv  :: telych
-#has_/label_/zh  :: 特列奇期
+#has_/name_/bg  :: Телич
+#has_/name_/cs  :: Telych
+#has_/name_/da  :: Telychien
+#has_/name_/de  :: Telychium
+#has_/name_/es  :: Telychiense
+#has_/name_/et  :: Telychi
+#has_/name_/fi  :: Telych
+#has_/name_/fr  :: Télychien
+#has_/name_/hu  :: telychi
+#has_/name_/it  :: telychiano
+#has_/name_/ja  :: テリチアン期
+#has_/name_/lt  :: TelyĿis
+#has_/name_/nl  :: Telychiën
+#has_/name_/no  :: Telychium
+#has_/name_/pl  :: Telych
+#has_/name_/pt  :: Telychiano
+#has_/name_/sk  :: telych
+#has_/name_/sl  :: telychij
+#has_/name_/sv  :: telych
+#has_/name_/zh  :: 特列奇期
 
 #has_/abbreviation :: s3
 

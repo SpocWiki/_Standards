@@ -39,26 +39,26 @@ A time period from 37.71 to 33.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Priabonian) 
 
 
-#has_/label_/bg  :: Приабон
-#has_/label_/cs  :: Priabon
-#has_/label_/da  :: Priabonien
-#has_/label_/de  :: Priabonium
-#has_/label_/es  :: Priaboniense
-#has_/label_/et  :: Priaboni
-#has_/label_/fi  :: Priabon
-#has_/label_/fr  :: Priabonien
-#has_/label_/hu  :: priabonai
-#has_/label_/it  :: priaboniano
-#has_/label_/ja  :: プリアボニアン期
-#has_/label_/lt  :: Priabonis
-#has_/label_/nl  :: Priaboniën
-#has_/label_/no  :: Priabon
-#has_/label_/pl  :: Priabon
-#has_/label_/pt  :: Priaboniano
-#has_/label_/sk  :: priabón
-#has_/label_/sl  :: priabonij
-#has_/label_/sv  :: priabon
-#has_/label_/zh  :: 普里阿邦期
+#has_/name_/bg  :: Приабон
+#has_/name_/cs  :: Priabon
+#has_/name_/da  :: Priabonien
+#has_/name_/de  :: Priabonium
+#has_/name_/es  :: Priaboniense
+#has_/name_/et  :: Priaboni
+#has_/name_/fi  :: Priabon
+#has_/name_/fr  :: Priabonien
+#has_/name_/hu  :: priabonai
+#has_/name_/it  :: priaboniano
+#has_/name_/ja  :: プリアボニアン期
+#has_/name_/lt  :: Priabonis
+#has_/name_/nl  :: Priaboniën
+#has_/name_/no  :: Priabon
+#has_/name_/pl  :: Priabon
+#has_/name_/pt  :: Priaboniano
+#has_/name_/sk  :: priabón
+#has_/name_/sl  :: priabonij
+#has_/name_/sv  :: priabon
+#has_/name_/zh  :: 普里阿邦期
 
 #has_/abbreviation :: e7
 #has_/time_/started :: -37.71e6 

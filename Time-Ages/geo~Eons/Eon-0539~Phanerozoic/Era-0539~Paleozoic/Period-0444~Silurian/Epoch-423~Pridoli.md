@@ -58,26 +58,26 @@ A time period from 423.0 to 419.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pridoli%20Epoch) 
 
 
-#has_/label_/bg  :: Пржидол
-#has_/label_/cs  :: Přídolí
-#has_/label_/da  :: Pridoli
-#has_/label_/de  :: Pridoli
-#has_/label_/es  :: Prídoli
-#has_/label_/et  :: Pridoli
-#has_/label_/fi  :: Pridoli
-#has_/label_/fr  :: Pridoli
-#has_/label_/hu  :: pridoli
-#has_/label_/it  :: pridoli
-#has_/label_/ja  :: プリドリアン世
-#has_/label_/lt  :: Pržidolis
-#has_/label_/nl  :: Pridoli
-#has_/label_/no  :: Pridoli
-#has_/label_/pl  :: Przydol
-#has_/label_/pt  :: Pridoli
-#has_/label_/sk  :: přídol
-#has_/label_/sl  :: pridolij
-#has_/label_/sv  :: pridoli
-#has_/label_/zh  :: 普里多利世
+#has_/name_/bg  :: Пржидол
+#has_/name_/cs  :: Přídolí
+#has_/name_/da  :: Pridoli
+#has_/name_/de  :: Pridoli
+#has_/name_/es  :: Prídoli
+#has_/name_/et  :: Pridoli
+#has_/name_/fi  :: Pridoli
+#has_/name_/fr  :: Pridoli
+#has_/name_/hu  :: pridoli
+#has_/name_/it  :: pridoli
+#has_/name_/ja  :: プリドリアン世
+#has_/name_/lt  :: Pržidolis
+#has_/name_/nl  :: Pridoli
+#has_/name_/no  :: Pridoli
+#has_/name_/pl  :: Przydol
+#has_/name_/pt  :: Pridoli
+#has_/name_/sk  :: přídol
+#has_/name_/sl  :: pridolij
+#has_/name_/sv  :: pridoli
+#has_/name_/zh  :: 普里多利世
 
 #has_/abbreviation :: S4
 

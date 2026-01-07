@@ -46,26 +46,26 @@ A time period from 251.902 to 251.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Induan) 
 
 
-#has_/label_/bg  :: Инд
-#has_/label_/cs  :: Indu
-#has_/label_/da  :: Induen
-#has_/label_/de  :: Indusium
-#has_/label_/es  :: Induense
-#has_/label_/et  :: Indu
-#has_/label_/fi  :: Indus
-#has_/label_/fr  :: Induen
-#has_/label_/hu  :: indusi
-#has_/label_/it  :: induano
-#has_/label_/ja  :: インドゥアン期
-#has_/label_/lt  :: Indis
-#has_/label_/nl  :: Induiën
-#has_/label_/no  :: Indu
-#has_/label_/pl  :: Ind
-#has_/label_/pt  :: Induano
-#has_/label_/sk  :: indu
-#has_/label_/sl  :: indij
-#has_/label_/sv  :: indu
-#has_/label_/zh  :: 印度期
+#has_/name_/bg  :: Инд
+#has_/name_/cs  :: Indu
+#has_/name_/da  :: Induen
+#has_/name_/de  :: Indusium
+#has_/name_/es  :: Induense
+#has_/name_/et  :: Indu
+#has_/name_/fi  :: Indus
+#has_/name_/fr  :: Induen
+#has_/name_/hu  :: indusi
+#has_/name_/it  :: induano
+#has_/name_/ja  :: インドゥアン期
+#has_/name_/lt  :: Indis
+#has_/name_/nl  :: Induiën
+#has_/name_/no  :: Indu
+#has_/name_/pl  :: Ind
+#has_/name_/pt  :: Induano
+#has_/name_/sk  :: indu
+#has_/name_/sl  :: indij
+#has_/name_/sv  :: indu
+#has_/name_/zh  :: 印度期
 
 #has_/abbreviation :: t1
 

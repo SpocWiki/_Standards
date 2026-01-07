@@ -161,26 +161,26 @@ A time period from 2500 to 538.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Proterozoic) 
 
 
-#has_/label_/bg  :: Протерозой
-#has_/label_/cs  :: Proterozoikum
-#has_/label_/da  :: Proterozoikum
-#has_/label_/de  :: Proterozoikum
-#has_/label_/es  :: Proterozoico
-#has_/label_/et  :: Proterosoikum
-#has_/label_/fi  :: Proterotsoikum
-#has_/label_/fr  :: Protérozoïque
-#has_/label_/hu  :: proterozoos
-#has_/label_/it  :: proterozoico
-#has_/label_/ja  :: 原生代
-#has_/label_/lt  :: Proterozojus
-#has_/label_/nl  :: Proterozoïcum
-#has_/label_/no  :: Proterozoisk
-#has_/label_/pl  :: Proterozoik
-#has_/label_/pt  :: Proterozóico
-#has_/label_/sk  :: proterozoikum
-#has_/label_/sl  :: proterozoik
-#has_/label_/sv  :: proterozoikum
-#has_/label_/zh  :: 元古宙
+#has_/name_/bg  :: Протерозой
+#has_/name_/cs  :: Proterozoikum
+#has_/name_/da  :: Proterozoikum
+#has_/name_/de  :: Proterozoikum
+#has_/name_/es  :: Proterozoico
+#has_/name_/et  :: Proterosoikum
+#has_/name_/fi  :: Proterotsoikum
+#has_/name_/fr  :: Protérozoïque
+#has_/name_/hu  :: proterozoos
+#has_/name_/it  :: proterozoico
+#has_/name_/ja  :: 原生代
+#has_/name_/lt  :: Proterozojus
+#has_/name_/nl  :: Proterozoïcum
+#has_/name_/no  :: Proterozoisk
+#has_/name_/pl  :: Proterozoik
+#has_/name_/pt  :: Proterozóico
+#has_/name_/sk  :: proterozoikum
+#has_/name_/sl  :: proterozoik
+#has_/name_/sv  :: proterozoikum
+#has_/name_/zh  :: 元古宙
 
 #has_/time_/started :: -2500.0e6 
 #has_/time_/stopped ::  -538.8e6 

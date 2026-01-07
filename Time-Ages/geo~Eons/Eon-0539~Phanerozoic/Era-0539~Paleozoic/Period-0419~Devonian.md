@@ -72,26 +72,26 @@ A time period from 419.2 to 358.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Devonian) 
 
 
-#has_/label_/bg  :: Девон
-#has_/label_/cs  :: Devon
-#has_/label_/da  :: Devon
-#has_/label_/de  :: Devon
-#has_/label_/es  :: Devónico
-#has_/label_/et  :: Devon
-#has_/label_/fi  :: Devoni
-#has_/label_/fr  :: Dévonien
-#has_/label_/hu  :: devon
-#has_/label_/it  :: devoniano
-#has_/label_/ja  :: デボン紀
-#has_/label_/lt  :: Devonas
-#has_/label_/nl  :: Devoon
-#has_/label_/no  :: Devon
-#has_/label_/pl  :: Dewon
-#has_/label_/pt  :: Devónico
-#has_/label_/sk  :: devón
-#has_/label_/sl  :: devon
-#has_/label_/sv  :: devon
-#has_/label_/zh  :: 泥盆纪
+#has_/name_/bg  :: Девон
+#has_/name_/cs  :: Devon
+#has_/name_/da  :: Devon
+#has_/name_/de  :: Devon
+#has_/name_/es  :: Devónico
+#has_/name_/et  :: Devon
+#has_/name_/fi  :: Devoni
+#has_/name_/fr  :: Dévonien
+#has_/name_/hu  :: devon
+#has_/name_/it  :: devoniano
+#has_/name_/ja  :: デボン紀
+#has_/name_/lt  :: Devonas
+#has_/name_/nl  :: Devoon
+#has_/name_/no  :: Devon
+#has_/name_/pl  :: Dewon
+#has_/name_/pt  :: Devónico
+#has_/name_/sk  :: devón
+#has_/name_/sl  :: devon
+#has_/name_/sv  :: devon
+#has_/name_/zh  :: 泥盆纪
 
 #has_/abbreviation :: D
 

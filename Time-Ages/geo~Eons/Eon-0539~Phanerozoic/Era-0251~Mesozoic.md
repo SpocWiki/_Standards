@@ -61,26 +61,26 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mesozoic,1014354
 
 #is_/same_as :: [[../../../WikiData/WD~Mesozoic,83222|WD~Mesozoic,83222]] 
 
-#has_/label_/bg  :: Мезозой
-#has_/label_/cs  :: Mezozoikum
-#has_/label_/da  :: Mesozoisk
-#has_/label_/de  :: Mesozoikum
-#has_/label_/es  :: Mesozoico
-#has_/label_/et  :: Mesosoikum
-#has_/label_/fi  :: Mesotsoikum
-#has_/label_/fr  :: Mésozoïque
-#has_/label_/hu  :: mezozoikum
-#has_/label_/it  :: mesozoico
-#has_/label_/ja  :: 中生代
-#has_/label_/lt  :: Mezozojus
-#has_/label_/nl  :: Mesozoïcum
-#has_/label_/no  :: Mesozoikum
-#has_/label_/pl  :: Mezozoik
-#has_/label_/pt  :: Mesozóico
-#has_/label_/sk  :: mezozoikum
-#has_/label_/sl  :: mezozoik
-#has_/label_/sv  :: mesozoikum
-#has_/label_/zh  :: 中生代
+#has_/name_/bg  :: Мезозой
+#has_/name_/cs  :: Mezozoikum
+#has_/name_/da  :: Mesozoisk
+#has_/name_/de  :: Mesozoikum
+#has_/name_/es  :: Mesozoico
+#has_/name_/et  :: Mesosoikum
+#has_/name_/fi  :: Mesotsoikum
+#has_/name_/fr  :: Mésozoïque
+#has_/name_/hu  :: mezozoikum
+#has_/name_/it  :: mesozoico
+#has_/name_/ja  :: 中生代
+#has_/name_/lt  :: Mezozojus
+#has_/name_/nl  :: Mesozoïcum
+#has_/name_/no  :: Mesozoikum
+#has_/name_/pl  :: Mezozoik
+#has_/name_/pt  :: Mesozóico
+#has_/name_/sk  :: mezozoikum
+#has_/name_/sl  :: mezozoik
+#has_/name_/sv  :: mesozoikum
+#has_/name_/zh  :: 中生代
 
 A time period from 251.902 to 66.0 million years ago.
 

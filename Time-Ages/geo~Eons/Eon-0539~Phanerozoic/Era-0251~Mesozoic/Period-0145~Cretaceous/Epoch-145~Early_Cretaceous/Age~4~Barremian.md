@@ -35,26 +35,26 @@ A time period from 125.77 to 121.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Barremian) 
 
 
-#has_/label_/bg  :: Барем
-#has_/label_/cs  :: Barrem
-#has_/label_/da  :: Barremien
-#has_/label_/de  :: Barrêmium
-#has_/label_/es  :: Barremiense
-#has_/label_/et  :: Barremi
-#has_/label_/fi  :: Barrem
-#has_/label_/fr  :: Barrémien
-#has_/label_/hu  :: barremi
-#has_/label_/it  :: berremiano
-#has_/label_/ja  :: バレミアン期
-#has_/label_/lt  :: Baremis
-#has_/label_/nl  :: Barremiën
-#has_/label_/no  :: Barremium
-#has_/label_/pl  :: Barrem
-#has_/label_/pt  :: Barremiano
-#has_/label_/sk  :: barém
-#has_/label_/sl  :: barremij
-#has_/label_/sv  :: barrem
-#has_/label_/zh  :: 巴列姆期
+#has_/name_/bg  :: Барем
+#has_/name_/cs  :: Barrem
+#has_/name_/da  :: Barremien
+#has_/name_/de  :: Barrêmium
+#has_/name_/es  :: Barremiense
+#has_/name_/et  :: Barremi
+#has_/name_/fi  :: Barrem
+#has_/name_/fr  :: Barrémien
+#has_/name_/hu  :: barremi
+#has_/name_/it  :: berremiano
+#has_/name_/ja  :: バレミアン期
+#has_/name_/lt  :: Baremis
+#has_/name_/nl  :: Barremiën
+#has_/name_/no  :: Barremium
+#has_/name_/pl  :: Barrem
+#has_/name_/pt  :: Barremiano
+#has_/name_/sk  :: barém
+#has_/name_/sl  :: barremij
+#has_/name_/sv  :: barrem
+#has_/name_/zh  :: 巴列姆期
 
 #has_/abbreviation :: b4
 

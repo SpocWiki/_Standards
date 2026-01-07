@@ -55,26 +55,26 @@ A time period from 497 to 494 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Paibian) 
 
 
-#has_/label_/bg  :: Паиб
-#has_/label_/cs  :: Paib
-#has_/label_/da  :: Paibien
-#has_/label_/de  :: Paibium
-#has_/label_/es  :: Paibiense
-#has_/label_/et  :: Paibi
-#has_/label_/fi  :: Paib
-#has_/label_/fr  :: Paibien
-#has_/label_/hu  :: paibi
-#has_/label_/it  :: paibiano
-#has_/label_/ja  :: パイビアン期
-#has_/label_/lt  :: Paibis
-#has_/label_/nl  :: Paibiën
-#has_/label_/no  :: Paibium
-#has_/label_/pl  :: Paib
-#has_/label_/pt  :: Paibiano
-#has_/label_/sk  :: pajb
-#has_/label_/sl  :: paibij
-#has_/label_/sv  :: paib
-#has_/label_/zh  :: 排碧期
+#has_/name_/bg  :: Паиб
+#has_/name_/cs  :: Paib
+#has_/name_/da  :: Paibien
+#has_/name_/de  :: Paibium
+#has_/name_/es  :: Paibiense
+#has_/name_/et  :: Paibi
+#has_/name_/fi  :: Paib
+#has_/name_/fr  :: Paibien
+#has_/name_/hu  :: paibi
+#has_/name_/it  :: paibiano
+#has_/name_/ja  :: パイビアン期
+#has_/name_/lt  :: Paibis
+#has_/name_/nl  :: Paibiën
+#has_/name_/no  :: Paibium
+#has_/name_/pl  :: Paib
+#has_/name_/pt  :: Paibiano
+#has_/name_/sk  :: pajb
+#has_/name_/sl  :: paibij
+#has_/name_/sv  :: paib
+#has_/name_/zh  :: 排碧期
 
 #has_/abbreviation :: ep8
 

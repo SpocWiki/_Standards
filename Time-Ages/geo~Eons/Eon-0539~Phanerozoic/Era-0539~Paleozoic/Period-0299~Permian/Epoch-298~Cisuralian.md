@@ -48,26 +48,26 @@ A time period from 298.9 to 273.01 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cisuralian) 
 
 
-#has_/label_/bg  :: Циѿурал
-#has_/label_/cs  :: Cisural
-#has_/label_/da  :: Cisuralien
-#has_/label_/de  :: Cisuralium
-#has_/label_/es  :: Cisuraliense
-#has_/label_/et  :: Cisural
-#has_/label_/fi  :: Cisural
-#has_/label_/fr  :: Cisuralien
-#has_/label_/hu  :: ciszurali
-#has_/label_/it  :: cisuraliano
-#has_/label_/ja  :: キスラリアン世
-#has_/label_/lt  :: Kisuralis
-#has_/label_/nl  :: Cisuraliën
-#has_/label_/no  :: Cisuralium
-#has_/label_/pl  :: Cisural
-#has_/label_/pt  :: Cisuraliano
-#has_/label_/sk  :: cisural
-#has_/label_/sl  :: cisuralij
-#has_/label_/sv  :: cisural
-#has_/label_/zh  :: 乌拉尔世
+#has_/name_/bg  :: Циѿурал
+#has_/name_/cs  :: Cisural
+#has_/name_/da  :: Cisuralien
+#has_/name_/de  :: Cisuralium
+#has_/name_/es  :: Cisuraliense
+#has_/name_/et  :: Cisural
+#has_/name_/fi  :: Cisural
+#has_/name_/fr  :: Cisuralien
+#has_/name_/hu  :: ciszurali
+#has_/name_/it  :: cisuraliano
+#has_/name_/ja  :: キスラリアン世
+#has_/name_/lt  :: Kisuralis
+#has_/name_/nl  :: Cisuraliën
+#has_/name_/no  :: Cisuralium
+#has_/name_/pl  :: Cisural
+#has_/name_/pt  :: Cisuraliano
+#has_/name_/sk  :: cisural
+#has_/name_/sl  :: cisuralij
+#has_/name_/sv  :: cisural
+#has_/name_/zh  :: 乌拉尔世
 
 #has_/abbreviation :: P1
 

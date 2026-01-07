@@ -38,26 +38,26 @@ A time period from 132.6 to 139.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Valanginian) 
 
 
-#has_/label_/bg  :: Валанжин
-#has_/label_/cs  :: Valangin
-#has_/label_/da  :: Valanginien
-#has_/label_/de  :: Valanginium
-#has_/label_/es  :: Valanginiense
-#has_/label_/et  :: Valangini
-#has_/label_/fi  :: Valangin
-#has_/label_/fr  :: Valanginien
-#has_/label_/hu  :: valangini
-#has_/label_/it  :: valanginiano
-#has_/label_/ja  :: バランギニアン期
-#has_/label_/lt  :: Valendis
-#has_/label_/nl  :: Vanlangiën
-#has_/label_/no  :: Valanginium
-#has_/label_/pl  :: Walanżyn
-#has_/label_/pt  :: Valanginiano
-#has_/label_/sk  :: valanžin
-#has_/label_/sl  :: valanginij
-#has_/label_/sv  :: valangin
-#has_/label_/zh  :: 凡兰吟期
+#has_/name_/bg  :: Валанжин
+#has_/name_/cs  :: Valangin
+#has_/name_/da  :: Valanginien
+#has_/name_/de  :: Valanginium
+#has_/name_/es  :: Valanginiense
+#has_/name_/et  :: Valangini
+#has_/name_/fi  :: Valangin
+#has_/name_/fr  :: Valanginien
+#has_/name_/hu  :: valangini
+#has_/name_/it  :: valanginiano
+#has_/name_/ja  :: バランギニアン期
+#has_/name_/lt  :: Valendis
+#has_/name_/nl  :: Vanlangiën
+#has_/name_/no  :: Valanginium
+#has_/name_/pl  :: Walanżyn
+#has_/name_/pt  :: Valanginiano
+#has_/name_/sk  :: valanžin
+#has_/name_/sl  :: valanginij
+#has_/name_/sv  :: valangin
+#has_/name_/zh  :: 凡兰吟期
 
 #has_/abbreviation :: b2
 

@@ -51,26 +51,26 @@ A time period from 293.51 to 290.1 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Sakmarian) 
 
 
-#has_/label_/bg  :: Сакмар
-#has_/label_/cs  :: Sakmar
-#has_/label_/da  :: Sakmarien
-#has_/label_/de  :: Sakmarium
-#has_/label_/es  :: Sakmariense
-#has_/label_/et  :: Sakmaria
-#has_/label_/fi  :: Sakmar
-#has_/label_/fr  :: Sakmarien
-#has_/label_/hu  :: szakmarai
-#has_/label_/it  :: sakmariano
-#has_/label_/ja  :: サクマリアン期
-#has_/label_/lt  :: Sakmaris
-#has_/label_/nl  :: Sakmariën
-#has_/label_/no  :: Samarkium
-#has_/label_/pl  :: Sakmar
-#has_/label_/pt  :: Sakmariano
-#has_/label_/sk  :: sakmar
-#has_/label_/sl  :: sakmarij
-#has_/label_/sv  :: sakmar
-#has_/label_/zh  :: 萨克马尔期
+#has_/name_/bg  :: Сакмар
+#has_/name_/cs  :: Sakmar
+#has_/name_/da  :: Sakmarien
+#has_/name_/de  :: Sakmarium
+#has_/name_/es  :: Sakmariense
+#has_/name_/et  :: Sakmaria
+#has_/name_/fi  :: Sakmar
+#has_/name_/fr  :: Sakmarien
+#has_/name_/hu  :: szakmarai
+#has_/name_/it  :: sakmariano
+#has_/name_/ja  :: サクマリアン期
+#has_/name_/lt  :: Sakmaris
+#has_/name_/nl  :: Sakmariën
+#has_/name_/no  :: Samarkium
+#has_/name_/pl  :: Sakmar
+#has_/name_/pt  :: Sakmariano
+#has_/name_/sk  :: sakmar
+#has_/name_/sl  :: sakmarij
+#has_/name_/sv  :: sakmar
+#has_/name_/zh  :: 萨克马尔期
 
 #has_/abbreviation :: p2
 

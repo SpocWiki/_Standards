@@ -61,26 +61,26 @@ A time period from 298.9 to 251.902 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Permian) 
 
 
-#has_/label_/bg  :: Перм
-#has_/label_/cs  :: Perm
-#has_/label_/da  :: Perm
-#has_/label_/de  :: Perm
-#has_/label_/es  :: Pérmico
-#has_/label_/et  :: Perm
-#has_/label_/fi  :: Permi
-#has_/label_/fr  :: Permien
-#has_/label_/hu  :: perm
-#has_/label_/it  :: permiano
-#has_/label_/ja  :: ペルム紀
-#has_/label_/lt  :: Permas
-#has_/label_/nl  :: Perm
-#has_/label_/no  :: Perm
-#has_/label_/pl  :: Perm
-#has_/label_/pt  :: Pérmico
-#has_/label_/sk  :: perm
-#has_/label_/sl  :: perm
-#has_/label_/sv  :: perm
-#has_/label_/zh  :: 二叠纪
+#has_/name_/bg  :: Перм
+#has_/name_/cs  :: Perm
+#has_/name_/da  :: Perm
+#has_/name_/de  :: Perm
+#has_/name_/es  :: Pérmico
+#has_/name_/et  :: Perm
+#has_/name_/fi  :: Permi
+#has_/name_/fr  :: Permien
+#has_/name_/hu  :: perm
+#has_/name_/it  :: permiano
+#has_/name_/ja  :: ペルム紀
+#has_/name_/lt  :: Permas
+#has_/name_/nl  :: Perm
+#has_/name_/no  :: Perm
+#has_/name_/pl  :: Perm
+#has_/name_/pt  :: Pérmico
+#has_/name_/sk  :: perm
+#has_/name_/sl  :: perm
+#has_/name_/sv  :: perm
+#has_/name_/zh  :: 二叠纪
 
 #has_/abbreviation :: P
 

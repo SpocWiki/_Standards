@@ -47,26 +47,26 @@ A time period from 433.4 to 430.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Sheinwoodian) 
 
 
-#has_/label_/bg  :: Шейнуд
-#has_/label_/cs  :: Sheinwood
-#has_/label_/da  :: Sheinwoodien
-#has_/label_/de  :: Sheinwoodium
-#has_/label_/es  :: Sheinwoodiense
-#has_/label_/et  :: Sheinwoodi
-#has_/label_/fi  :: Sheinwood
-#has_/label_/fr  :: Sheinwoodien
-#has_/label_/hu  :: sheinwoodi
-#has_/label_/it  :: sheinwoodiano
-#has_/label_/ja  :: シェインウッディアン期
-#has_/label_/lt  :: Šeinvudis
-#has_/label_/nl  :: Sheinwoodiën
-#has_/label_/no  :: Sheinwood
-#has_/label_/pl  :: Sheinwood
-#has_/label_/pt  :: Sheinwoodiano
-#has_/label_/sk  :: sheinwood
-#has_/label_/sl  :: sheinwodij
-#has_/label_/sv  :: sheinwood
-#has_/label_/zh  :: 申伍德期
+#has_/name_/bg  :: Шейнуд
+#has_/name_/cs  :: Sheinwood
+#has_/name_/da  :: Sheinwoodien
+#has_/name_/de  :: Sheinwoodium
+#has_/name_/es  :: Sheinwoodiense
+#has_/name_/et  :: Sheinwoodi
+#has_/name_/fi  :: Sheinwood
+#has_/name_/fr  :: Sheinwoodien
+#has_/name_/hu  :: sheinwoodi
+#has_/name_/it  :: sheinwoodiano
+#has_/name_/ja  :: シェインウッディアン期
+#has_/name_/lt  :: Šeinvudis
+#has_/name_/nl  :: Sheinwoodiën
+#has_/name_/no  :: Sheinwood
+#has_/name_/pl  :: Sheinwood
+#has_/name_/pt  :: Sheinwoodiano
+#has_/name_/sk  :: sheinwood
+#has_/name_/sl  :: sheinwodij
+#has_/name_/sv  :: sheinwood
+#has_/name_/zh  :: 申伍德期
 
 #has_/abbreviation :: s4
 

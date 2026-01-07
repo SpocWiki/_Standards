@@ -42,26 +42,26 @@ A time period from 242 to 237 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Ladinian) 
 
 
-#has_/label_/bg  :: Ладин
-#has_/label_/cs  :: Ladin
-#has_/label_/da  :: Ladinien
-#has_/label_/de  :: Ladinium
-#has_/label_/es  :: Ladiniense
-#has_/label_/et  :: Ladini
-#has_/label_/fi  :: Ladin
-#has_/label_/fr  :: Ladinien
-#has_/label_/hu  :: ladin
-#has_/label_/it  :: ladinico
-#has_/label_/ja  :: ラディニアン期
-#has_/label_/lt  :: Ladinis
-#has_/label_/nl  :: Ladiniën
-#has_/label_/no  :: Ladin
-#has_/label_/pl  :: Ladyn
-#has_/label_/pt  :: Ladiniano
-#has_/label_/sk  :: ladin
-#has_/label_/sl  :: ladinij
-#has_/label_/sv  :: ladin
-#has_/label_/zh  :: 拉迪尼亚期
+#has_/name_/bg  :: Ладин
+#has_/name_/cs  :: Ladin
+#has_/name_/da  :: Ladinien
+#has_/name_/de  :: Ladinium
+#has_/name_/es  :: Ladiniense
+#has_/name_/et  :: Ladini
+#has_/name_/fi  :: Ladin
+#has_/name_/fr  :: Ladinien
+#has_/name_/hu  :: ladin
+#has_/name_/it  :: ladinico
+#has_/name_/ja  :: ラディニアン期
+#has_/name_/lt  :: Ladinis
+#has_/name_/nl  :: Ladiniën
+#has_/name_/no  :: Ladin
+#has_/name_/pl  :: Ladyn
+#has_/name_/pt  :: Ladiniano
+#has_/name_/sk  :: ladin
+#has_/name_/sl  :: ladinij
+#has_/name_/sv  :: ladin
+#has_/name_/zh  :: 拉迪尼亚期
 
 #has_/abbreviation :: t4
 

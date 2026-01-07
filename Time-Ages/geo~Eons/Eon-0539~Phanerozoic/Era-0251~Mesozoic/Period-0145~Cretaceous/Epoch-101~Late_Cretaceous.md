@@ -37,22 +37,22 @@ A time period from 100.5 to 66.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Late%20Cretaceous) 
 
 
-#has_/label_/bg  :: Къѿна Креда
-#has_/label_/cs  :: Pozdní křída
-#has_/label_/da  :: Sen Kridt
-#has_/label_/de  :: Späte Kreide
-#has_/label_/et  :: Hilis-Kriit
-#has_/label_/fi  :: Myöhäis-Liitu
-#has_/label_/hu  :: késő-kréta
-#has_/label_/ja  :: 後期白亜紀
-#has_/label_/lt  :: Vėlyva kreida
-#has_/label_/nl  :: Laat Krijt
-#has_/label_/no  :: Sen kritt
-#has_/label_/pl  :: Późna Kreda
-#has_/label_/sk  :: mladšia krieda
-#has_/label_/sl  :: pozna kreda
-#has_/label_/sv  :: yngre krita
-#has_/label_/zh  :: 晚白垩世
+#has_/name_/bg  :: Къѿна Креда
+#has_/name_/cs  :: Pozdní křída
+#has_/name_/da  :: Sen Kridt
+#has_/name_/de  :: Späte Kreide
+#has_/name_/et  :: Hilis-Kriit
+#has_/name_/fi  :: Myöhäis-Liitu
+#has_/name_/hu  :: késő-kréta
+#has_/name_/ja  :: 後期白亜紀
+#has_/name_/lt  :: Vėlyva kreida
+#has_/name_/nl  :: Laat Krijt
+#has_/name_/no  :: Sen kritt
+#has_/name_/pl  :: Późna Kreda
+#has_/name_/sk  :: mladšia krieda
+#has_/name_/sl  :: pozna kreda
+#has_/name_/sv  :: yngre krita
+#has_/name_/zh  :: 晚白垩世
 
 #has_/abbreviation :: K2
 

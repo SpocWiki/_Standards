@@ -41,26 +41,26 @@ A time period from 113.0 to 100.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Albian) 
 
 
-#has_/label_/bg  :: плб
-#has_/label_/cs  :: Alb
-#has_/label_/da  :: Albien
-#has_/label_/de  :: Albium
-#has_/label_/es  :: Albiense
-#has_/label_/et  :: Albi
-#has_/label_/fi  :: Alb
-#has_/label_/fr  :: Albien
-#has_/label_/hu  :: albai
-#has_/label_/it  :: albiano
-#has_/label_/ja  :: アルビアン期
-#has_/label_/lt  :: Albis
-#has_/label_/nl  :: Albiën
-#has_/label_/no  :: Alb
-#has_/label_/pl  :: Alb
-#has_/label_/pt  :: Albiano
-#has_/label_/sk  :: alb
-#has_/label_/sl  :: albij
-#has_/label_/sv  :: alban
-#has_/label_/zh  :: 阿尔布期
+#has_/name_/bg  :: плб
+#has_/name_/cs  :: Alb
+#has_/name_/da  :: Albien
+#has_/name_/de  :: Albium
+#has_/name_/es  :: Albiense
+#has_/name_/et  :: Albi
+#has_/name_/fi  :: Alb
+#has_/name_/fr  :: Albien
+#has_/name_/hu  :: albai
+#has_/name_/it  :: albiano
+#has_/name_/ja  :: アルビアン期
+#has_/name_/lt  :: Albis
+#has_/name_/nl  :: Albiën
+#has_/name_/no  :: Alb
+#has_/name_/pl  :: Alb
+#has_/name_/pt  :: Albiano
+#has_/name_/sk  :: alb
+#has_/name_/sl  :: albij
+#has_/name_/sv  :: alban
+#has_/name_/zh  :: 阿尔布期
 
 #has_/abbreviation :: b6
 

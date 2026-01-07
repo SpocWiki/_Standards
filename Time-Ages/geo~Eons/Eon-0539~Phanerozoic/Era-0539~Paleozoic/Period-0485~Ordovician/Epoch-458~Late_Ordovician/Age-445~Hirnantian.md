@@ -56,26 +56,26 @@ A time period from 445.2 to 443.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Hirnantian) 
 
 
-#has_/label_/bg  :: Хирнант
-#has_/label_/cs  :: Hirnant
-#has_/label_/da  :: Hirnantien
-#has_/label_/de  :: Hirnantium
-#has_/label_/es  :: Hirnantiense
-#has_/label_/et  :: Hirnantia
-#has_/label_/fi  :: Hirnant
-#has_/label_/fr  :: Hirnantien
-#has_/label_/hu  :: hirnanti
-#has_/label_/it  :: hirnantiano
-#has_/label_/ja  :: ヒルナンティアン期
-#has_/label_/lt  :: Hirnantis
-#has_/label_/nl  :: Hirnantiën
-#has_/label_/no  :: Hirnatium
-#has_/label_/pl  :: Hirnant
-#has_/label_/pt  :: Hirnantiano
-#has_/label_/sk  :: hirnant
-#has_/label_/sl  :: hirnantij
-#has_/label_/sv  :: hirnant
-#has_/label_/zh  :: 赫南特期
+#has_/name_/bg  :: Хирнант
+#has_/name_/cs  :: Hirnant
+#has_/name_/da  :: Hirnantien
+#has_/name_/de  :: Hirnantium
+#has_/name_/es  :: Hirnantiense
+#has_/name_/et  :: Hirnantia
+#has_/name_/fi  :: Hirnant
+#has_/name_/fr  :: Hirnantien
+#has_/name_/hu  :: hirnanti
+#has_/name_/it  :: hirnantiano
+#has_/name_/ja  :: ヒルナンティアン期
+#has_/name_/lt  :: Hirnantis
+#has_/name_/nl  :: Hirnantiën
+#has_/name_/no  :: Hirnatium
+#has_/name_/pl  :: Hirnant
+#has_/name_/pt  :: Hirnantiano
+#has_/name_/sk  :: hirnant
+#has_/name_/sl  :: hirnantij
+#has_/name_/sv  :: hirnant
+#has_/name_/zh  :: 赫南特期
 
 #has_/abbreviation :: o7
 

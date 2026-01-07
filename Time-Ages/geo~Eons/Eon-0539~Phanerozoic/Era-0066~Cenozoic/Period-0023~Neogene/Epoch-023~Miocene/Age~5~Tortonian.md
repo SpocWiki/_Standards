@@ -39,26 +39,26 @@ A time period from 11.63 to 7.246 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Tortonian) 
 
 
-#has_/label_/bg  :: Тортон
-#has_/label_/cs  :: Torton
-#has_/label_/da  :: Tortonien
-#has_/label_/de  :: Tortonium
-#has_/label_/es  :: Tortoniense
-#has_/label_/et  :: Tortoni
-#has_/label_/fi  :: Torton
-#has_/label_/fr  :: Tortonien
-#has_/label_/hu  :: tortonai
-#has_/label_/it  :: toroniano
-#has_/label_/ja  :: トートニアン期
-#has_/label_/lt  :: Tortonis
-#has_/label_/nl  :: Tortoniën - Linne
-#has_/label_/no  :: Tortonium
-#has_/label_/pl  :: Torton
-#has_/label_/pt  :: Tortoniano
-#has_/label_/sk  :: tortón
-#has_/label_/sl  :: tortonij
-#has_/label_/sv  :: torton
-#has_/label_/zh  :: 托尔顿期
+#has_/name_/bg  :: Тортон
+#has_/name_/cs  :: Torton
+#has_/name_/da  :: Tortonien
+#has_/name_/de  :: Tortonium
+#has_/name_/es  :: Tortoniense
+#has_/name_/et  :: Tortoni
+#has_/name_/fi  :: Torton
+#has_/name_/fr  :: Tortonien
+#has_/name_/hu  :: tortonai
+#has_/name_/it  :: toroniano
+#has_/name_/ja  :: トートニアン期
+#has_/name_/lt  :: Tortonis
+#has_/name_/nl  :: Tortoniën - Linne
+#has_/name_/no  :: Tortonium
+#has_/name_/pl  :: Torton
+#has_/name_/pt  :: Tortoniano
+#has_/name_/sk  :: tortón
+#has_/name_/sl  :: tortonij
+#has_/name_/sv  :: torton
+#has_/name_/zh  :: 托尔顿期
 
 #has_/abbreviation :: n5
 

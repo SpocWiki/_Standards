@@ -89,26 +89,26 @@ A time period from 307.0 to 303.7 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Kasimovian) 
 
 
-#has_/label_/bg  :: Каѿимов
-#has_/label_/cs  :: Kasimov
-#has_/label_/da  :: Kasimovien
-#has_/label_/de  :: Kasimovium
-#has_/label_/es  :: Kasimoviense
-#has_/label_/et  :: Kasimovi
-#has_/label_/fi  :: Kasimov
-#has_/label_/fr  :: Kasimovien
-#has_/label_/hu  :: kaszimovi
-#has_/label_/it  :: kasimoviano
-#has_/label_/ja  :: カシモビアン期
-#has_/label_/lt  :: Kasimovis
-#has_/label_/nl  :: Kasimoviën
-#has_/label_/no  :: Kasimovium
-#has_/label_/pl  :: Kasimow
-#has_/label_/pt  :: Kasimoviano
-#has_/label_/sk  :: kasimov
-#has_/label_/sl  :: kasimovij
-#has_/label_/sv  :: kasimov
-#has_/label_/zh  :: 卡西莫夫期
+#has_/name_/bg  :: Каѿимов
+#has_/name_/cs  :: Kasimov
+#has_/name_/da  :: Kasimovien
+#has_/name_/de  :: Kasimovium
+#has_/name_/es  :: Kasimoviense
+#has_/name_/et  :: Kasimovi
+#has_/name_/fi  :: Kasimov
+#has_/name_/fr  :: Kasimovien
+#has_/name_/hu  :: kaszimovi
+#has_/name_/it  :: kasimoviano
+#has_/name_/ja  :: カシモビアン期
+#has_/name_/lt  :: Kasimovis
+#has_/name_/nl  :: Kasimoviën
+#has_/name_/no  :: Kasimovium
+#has_/name_/pl  :: Kasimow
+#has_/name_/pt  :: Kasimoviano
+#has_/name_/sk  :: kasimov
+#has_/name_/sl  :: kasimovij
+#has_/name_/sv  :: kasimov
+#has_/name_/zh  :: 卡西莫夫期
 
 #has_/abbreviation :: c6
 

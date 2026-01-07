@@ -64,25 +64,25 @@ A time period from 4567 to 4031 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Hadean) 
 
 
-#has_/label_/cs  :: Hád (spodní hranice není definována)
-#has_/label_/da  :: Hadean
-#has_/label_/de  :: Hadaikum
-#has_/label_/es  :: Hadeánico
-#has_/label_/et  :: Hadesi??
-#has_/label_/fi  :: Hadea
-#has_/label_/fr  :: Hadéen
-#has_/label_/hu  :: hadei
-#has_/label_/it  :: adeano
-#has_/label_/ja  :: 冥王代（非公式の）
-#has_/label_/lt  :: Hadejus (neoficialus)
-#has_/label_/nl  :: Hadeïcum
-#has_/label_/no  :: Hadeikum
-#has_/label_/pl  :: Hadean (Nieformalny)
-#has_/label_/pt  :: Hadeano
-#has_/label_/sk  :: hadaikum
-#has_/label_/sl  :: hadej (neformalno)
-#has_/label_/sv  :: hadeikum
-#has_/label_/zh  :: 冥古宙（非正式）
+#has_/name_/cs  :: Hád (spodní hranice není definována)
+#has_/name_/da  :: Hadean
+#has_/name_/de  :: Hadaikum
+#has_/name_/es  :: Hadeánico
+#has_/name_/et  :: Hadesi??
+#has_/name_/fi  :: Hadea
+#has_/name_/fr  :: Hadéen
+#has_/name_/hu  :: hadei
+#has_/name_/it  :: adeano
+#has_/name_/ja  :: 冥王代（非公式の）
+#has_/name_/lt  :: Hadejus (neoficialus)
+#has_/name_/nl  :: Hadeïcum
+#has_/name_/no  :: Hadeikum
+#has_/name_/pl  :: Hadean (Nieformalny)
+#has_/name_/pt  :: Hadeano
+#has_/name_/sk  :: hadaikum
+#has_/name_/sl  :: hadej (neformalno)
+#has_/name_/sv  :: hadeikum
+#has_/name_/zh  :: 冥古宙（非正式）
 
 #has_/abbreviation :: HA
 

@@ -107,13 +107,13 @@ ZVG_number: 7740
 [GroupName::Group-06-Chromium]
 [Group:[[../Group-06-Chromium]]
 
-[Name-en::Tungsten]
-[Name-de::Wolfram]
-[Weight-u::183.85]
+[#has_/name_/en::Tungsten]
+[#has_/name_/de::Wolfram]
+[#has_/value_for_/weight_/u::183.85]
 [AtomRadius::2.02]
 [Atom-Vol-ccm-mol::9.53]
 [Unknown2::1.3]
-[Radius-nm::7.98]
+[#has_/radius_/nm::7.98]
 [Electronegative::2.4]
 [HeatCapacity::0.13]
 [HeatConduct::1.74]
@@ -134,8 +134,8 @@ ZVG_number: 7740
 >
 > The free element is remarkable for its robustness, especially the fact that 
 > it has the highest melting point of all known elements barring carbon 
-> (which sublimes at normal pressure), melting at [MeltingPoint-C::3422] °C (6,192 °F; 3,695 K). 
-> It also has the highest boiling point, at [BoilingPoint-C::5930] °C (10,706 °F; 6,203 K). 
+> (which sublimes at normal pressure), melting at [#has_/value_for_/temperature_/melt_/c ::3422] °C (6,192 °F; 3,695 K). 
+> It also has the highest boiling point, at [#has_/value_for_/temperature_/boil_/c ::5930] °C (10,706 °F; 6,203 K). 
 > Its density is (Density::19.3) grams per cubic centimetre (0.697 lb/cu in), 
 > comparable with that of[[../Actinide/Uranium]]] and[[../Group-11-Copper/Gold]]], and much higher (about 1.7 times) than that of[[../Group-14-Carbon/Lead]]]. 
 > 

@@ -54,26 +54,26 @@ A time period from 121.4 to 113.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Aptian) 
 
 
-#has_/label_/bg  :: ппт
-#has_/label_/cs  :: Apt
-#has_/label_/da  :: Aptien
-#has_/label_/de  :: Aptium
-#has_/label_/es  :: Aptiense
-#has_/label_/et  :: Apti
-#has_/label_/fi  :: Apt
-#has_/label_/fr  :: Aptien
-#has_/label_/hu  :: apti
-#has_/label_/it  :: aptiano
-#has_/label_/ja  :: アプチアン期
-#has_/label_/lt  :: Aptis
-#has_/label_/nl  :: Aptiën
-#has_/label_/no  :: Apt
-#has_/label_/pl  :: Apt
-#has_/label_/pt  :: Aptiano
-#has_/label_/sk  :: apt
-#has_/label_/sl  :: aptij
-#has_/label_/sv  :: apt
-#has_/label_/zh  :: 阿普弟期
+#has_/name_/bg  :: ппт
+#has_/name_/cs  :: Apt
+#has_/name_/da  :: Aptien
+#has_/name_/de  :: Aptium
+#has_/name_/es  :: Aptiense
+#has_/name_/et  :: Apti
+#has_/name_/fi  :: Apt
+#has_/name_/fr  :: Aptien
+#has_/name_/hu  :: apti
+#has_/name_/it  :: aptiano
+#has_/name_/ja  :: アプチアン期
+#has_/name_/lt  :: Aptis
+#has_/name_/nl  :: Aptiën
+#has_/name_/no  :: Apt
+#has_/name_/pl  :: Apt
+#has_/name_/pt  :: Aptiano
+#has_/name_/sk  :: apt
+#has_/name_/sl  :: aptij
+#has_/name_/sv  :: apt
+#has_/name_/zh  :: 阿普弟期
 
 #has_/abbreviation :: b5
 #has_/time_/started :: -121.4e6  

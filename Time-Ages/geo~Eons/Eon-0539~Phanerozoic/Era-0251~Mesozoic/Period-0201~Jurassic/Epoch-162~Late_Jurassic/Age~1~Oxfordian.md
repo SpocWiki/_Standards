@@ -35,26 +35,26 @@ A time period from 161.5 to 154.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxfordian%20(stage)) 
 
 
-#has_/label_/bg  :: Окѿфорд
-#has_/label_/cs  :: Oxford
-#has_/label_/da  :: Oxfordien
-#has_/label_/de  :: Oxfordium
-#has_/label_/es  :: Oxfordiense
-#has_/label_/et  :: Oxfordi
-#has_/label_/fi  :: Oxford
-#has_/label_/fr  :: Oxfordien
-#has_/label_/hu  :: oxfordi
-#has_/label_/it  :: oxfordiano
-#has_/label_/ja  :: オックスフォーディアン期
-#has_/label_/lt  :: Oksfordis
-#has_/label_/nl  :: Oxfordiën
-#has_/label_/no  :: Oxford
-#has_/label_/pl  :: Oksford
-#has_/label_/pt  :: Oxfordiano
-#has_/label_/sk  :: oxford
-#has_/label_/sl  :: oxfordij
-#has_/label_/sv  :: oxford
-#has_/label_/zh  :: 牛津期
+#has_/name_/bg  :: Окѿфорд
+#has_/name_/cs  :: Oxford
+#has_/name_/da  :: Oxfordien
+#has_/name_/de  :: Oxfordium
+#has_/name_/es  :: Oxfordiense
+#has_/name_/et  :: Oxfordi
+#has_/name_/fi  :: Oxford
+#has_/name_/fr  :: Oxfordien
+#has_/name_/hu  :: oxfordi
+#has_/name_/it  :: oxfordiano
+#has_/name_/ja  :: オックスフォーディアン期
+#has_/name_/lt  :: Oksfordis
+#has_/name_/nl  :: Oxfordiën
+#has_/name_/no  :: Oxford
+#has_/name_/pl  :: Oksford
+#has_/name_/pt  :: Oxfordiano
+#has_/name_/sk  :: oxford
+#has_/name_/sl  :: oxfordij
+#has_/name_/sv  :: oxford
+#has_/name_/zh  :: 牛津期
 
 #has_/abbreviation :: j5
 

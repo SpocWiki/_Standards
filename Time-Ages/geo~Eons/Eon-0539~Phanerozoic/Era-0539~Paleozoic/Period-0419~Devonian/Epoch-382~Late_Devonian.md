@@ -74,22 +74,22 @@ A time period from 382.7 to 358.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Devonian) 
 
 
-#has_/label_/bg  :: Къѿен Девон
-#has_/label_/cs  :: Svrchní devon
-#has_/label_/da  :: Sen Devon
-#has_/label_/de  :: Spätes Devon
-#has_/label_/et  :: Hilis-Devon
-#has_/label_/fi  :: Myöhäis-Devoni
-#has_/label_/hu  :: késő-devon
-#has_/label_/ja  :: 後期デボン紀
-#has_/label_/lt  :: Vėlyvasis Devonas
-#has_/label_/nl  :: Laat Devoon
-#has_/label_/no  :: Sen devon
-#has_/label_/pl  :: Późny Dewon
-#has_/label_/sk  :: mladší devón
-#has_/label_/sl  :: pozni devon
-#has_/label_/sv  :: yngre devon
-#has_/label_/zh  :: 晚泥盆世
+#has_/name_/bg  :: Къѿен Девон
+#has_/name_/cs  :: Svrchní devon
+#has_/name_/da  :: Sen Devon
+#has_/name_/de  :: Spätes Devon
+#has_/name_/et  :: Hilis-Devon
+#has_/name_/fi  :: Myöhäis-Devoni
+#has_/name_/hu  :: késő-devon
+#has_/name_/ja  :: 後期デボン紀
+#has_/name_/lt  :: Vėlyvasis Devonas
+#has_/name_/nl  :: Laat Devoon
+#has_/name_/no  :: Sen devon
+#has_/name_/pl  :: Późny Dewon
+#has_/name_/sk  :: mladší devón
+#has_/name_/sl  :: pozni devon
+#has_/name_/sv  :: yngre devon
+#has_/name_/zh  :: 晚泥盆世
 #has_/abbreviation :: D3
 
 #has_/time_/started :: -382.7e6 

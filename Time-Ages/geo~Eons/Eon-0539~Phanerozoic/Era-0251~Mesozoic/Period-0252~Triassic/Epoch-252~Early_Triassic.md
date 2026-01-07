@@ -42,26 +42,26 @@ A time period from 251.902 to 247.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Early%20Triassic) 
 
 
-#has_/label_/bg  :: Раннен Триаѿ
-#has_/label_/cs  :: brzy trias
-#has_/label_/da  :: Tidlig Triassisk
-#has_/label_/de  :: Frühe Trias (Buntsandstein)
-#has_/label_/es  :: Triásico temprano
-#has_/label_/et  :: Vara-Triias
-#has_/label_/fi  :: Varhais-Trias
-#has_/label_/fr  :: Trias précoce
-#has_/label_/hu  :: kora-triász
-#has_/label_/it  :: triassico precoce
-#has_/label_/ja  :: 三畳紀前期
-#has_/label_/lt  :: Ankstyvasis Triasas
-#has_/label_/nl  :: Vroeg Trias
-#has_/label_/no  :: Tidlig trias
-#has_/label_/pl  :: Wczesny Trias
-#has_/label_/pt  :: Triássico primitivo
-#has_/label_/sk  :: raný trias
-#has_/label_/sl  :: zgodnji trias
-#has_/label_/sv  :: äldre trias
-#has_/label_/zh  :: 早三叠世
+#has_/name_/bg  :: Раннен Триаѿ
+#has_/name_/cs  :: brzy trias
+#has_/name_/da  :: Tidlig Triassisk
+#has_/name_/de  :: Frühe Trias (Buntsandstein)
+#has_/name_/es  :: Triásico temprano
+#has_/name_/et  :: Vara-Triias
+#has_/name_/fi  :: Varhais-Trias
+#has_/name_/fr  :: Trias précoce
+#has_/name_/hu  :: kora-triász
+#has_/name_/it  :: triassico precoce
+#has_/name_/ja  :: 三畳紀前期
+#has_/name_/lt  :: Ankstyvasis Triasas
+#has_/name_/nl  :: Vroeg Trias
+#has_/name_/no  :: Tidlig trias
+#has_/name_/pl  :: Wczesny Trias
+#has_/name_/pt  :: Triássico primitivo
+#has_/name_/sk  :: raný trias
+#has_/name_/sl  :: zgodnji trias
+#has_/name_/sv  :: äldre trias
+#has_/name_/zh  :: 早三叠世
 
 #has_/abbreviation :: T1
 #has_/time_/started :: -251.902e6  

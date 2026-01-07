@@ -38,26 +38,26 @@ A time period from 86.3 to 83.6 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Santonian) 
 
 
-#has_/label_/bg  :: Сантон
-#has_/label_/cs  :: Santon
-#has_/label_/da  :: Santonien
-#has_/label_/de  :: Santonium
-#has_/label_/es  :: Santoniense
-#has_/label_/et  :: Santoni
-#has_/label_/fi  :: Santon
-#has_/label_/fr  :: Santonien
-#has_/label_/hu  :: santoni
-#has_/label_/it  :: santoniano
-#has_/label_/ja  :: サントニアン期
-#has_/label_/lt  :: Santonis
-#has_/label_/nl  :: Santoniën
-#has_/label_/no  :: Santonium
-#has_/label_/pl  :: Santon
-#has_/label_/pt  :: Santoniano
-#has_/label_/sk  :: santón
-#has_/label_/sl  :: santonij
-#has_/label_/sv  :: santon
-#has_/label_/zh  :: 桑托期
+#has_/name_/bg  :: Сантон
+#has_/name_/cs  :: Santon
+#has_/name_/da  :: Santonien
+#has_/name_/de  :: Santonium
+#has_/name_/es  :: Santoniense
+#has_/name_/et  :: Santoni
+#has_/name_/fi  :: Santon
+#has_/name_/fr  :: Santonien
+#has_/name_/hu  :: santoni
+#has_/name_/it  :: santoniano
+#has_/name_/ja  :: サントニアン期
+#has_/name_/lt  :: Santonis
+#has_/name_/nl  :: Santoniën
+#has_/name_/no  :: Santonium
+#has_/name_/pl  :: Santon
+#has_/name_/pt  :: Santoniano
+#has_/name_/sk  :: santón
+#has_/name_/sl  :: santonij
+#has_/name_/sv  :: santon
+#has_/name_/zh  :: 桑托期
 
 #has_/abbreviation :: k4
 
