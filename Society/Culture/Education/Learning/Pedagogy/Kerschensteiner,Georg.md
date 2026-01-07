@@ -14,8 +14,6 @@ aliases:
 #has_/created_/quote :: Bildung is das was übrig bleibt wenn man alles was man gelernt hat, wieder vergessen hat. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Culture/Education/Learning/Pedagogy/Kerschensteiner,Georg|Kerschensteiner,Georg]] 

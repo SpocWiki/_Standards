@@ -56,19 +56,20 @@ Commons_category: Settlement of the Americas
 
 <a title="User:Dbachmann, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Early_migrations_mercator.svg"><img width="512" alt="World map of the peopling of the world through migration during the Upper Paleolithic." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Early_migrations_mercator.svg/512px-Early_migrations_mercator.svg.png?20231005061128"></a>
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Peopling_of_the_Americas|Peopling_of_the_Americas]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas|Peopling_of_the_Americas]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.public|Peopling_of_the_Americas.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.public|Peopling_of_the_Americas.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.internal|Peopling_of_the_Americas.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.internal|Peopling_of_the_Americas.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.protect|Peopling_of_the_Americas.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.protect|Peopling_of_the_Americas.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.private|Peopling_of_the_Americas.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.private|Peopling_of_the_Americas.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.personal|Peopling_of_the_Americas.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.personal|Peopling_of_the_Americas.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.secret|Peopling_of_the_Americas.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.secret|Peopling_of_the_Americas.secret]] 
 

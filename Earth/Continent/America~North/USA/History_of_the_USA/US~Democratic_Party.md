@@ -89,8 +89,6 @@ aliases:
 ### #is_/same_as :: [US~Democratic_Party.secret](/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.secret.md)
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party|US~Democratic_Party]] 

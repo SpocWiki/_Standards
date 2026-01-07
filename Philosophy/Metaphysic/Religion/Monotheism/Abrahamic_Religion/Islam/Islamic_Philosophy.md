@@ -46,17 +46,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/ARABSKAYA_FILOSOFIYA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy|Islamic_Philosophy]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Islamic_Philosophy|Islamic_Philosophy]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.public|Islamic_Philosophy.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Islamic_Philosophy.public|Islamic_Philosophy.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.internal|Islamic_Philosophy.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Islamic_Philosophy.internal|Islamic_Philosophy.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.protect|Islamic_Philosophy.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Islamic_Philosophy.protect|Islamic_Philosophy.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.private|Islamic_Philosophy.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Islamic_Philosophy.private|Islamic_Philosophy.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.personal|Islamic_Philosophy.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Islamic_Philosophy.personal|Islamic_Philosophy.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamic_Philosophy.secret|Islamic_Philosophy.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Islamic_Philosophy.secret|Islamic_Philosophy.secret]] 
 

@@ -34,7 +34,6 @@ It is estimated that there are ca. 4e9 kg on Earth.
 [[RuBisCO]] is inefficient though; it can also catalyze the reverse Reaction. 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Botany/Photosynthesis/RuBisCO|RuBisCO]] 

@@ -101,17 +101,17 @@ ISNI: 116616596
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster|Zoroaster]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism/Zoroaster|Zoroaster]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.public|Zoroaster.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism/Zoroaster.public|Zoroaster.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.internal|Zoroaster.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism/Zoroaster.internal|Zoroaster.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.protect|Zoroaster.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism/Zoroaster.protect|Zoroaster.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.private|Zoroaster.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism/Zoroaster.private|Zoroaster.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.personal|Zoroaster.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism/Zoroaster.personal|Zoroaster.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Zoroastrianism/Zoroaster.secret|Zoroaster.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Dualistic_Religion/Zoroastrianism/Zoroaster.secret|Zoroaster.secret]] 
 

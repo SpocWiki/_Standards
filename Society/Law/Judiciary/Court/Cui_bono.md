@@ -20,8 +20,6 @@ Cicero attributes this question to Lucius Cassius.
 ![[../../../../../assets/Bosses’_Cookie.png]] 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Cui_bono|Cui_bono]] 

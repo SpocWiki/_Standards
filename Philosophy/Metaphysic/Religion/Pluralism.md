@@ -26,3 +26,20 @@ instance_of:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pluralism%20(philosophy)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Pluralism|Pluralism]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Pluralism.public|Pluralism.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Pluralism.internal|Pluralism.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Pluralism.protect|Pluralism.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Pluralism.private|Pluralism.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Pluralism.personal|Pluralism.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Pluralism.secret|Pluralism.secret]] 
+

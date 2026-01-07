@@ -86,17 +86,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/GUMANIZM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Humanism|Humanism]] 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Humanism|Humanism]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Humanism.public|Humanism.public]] 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Humanism.public|Humanism.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Humanism.internal|Humanism.internal]] 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Humanism.internal|Humanism.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Humanism.protect|Humanism.protect]] 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Humanism.protect|Humanism.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Humanism.private|Humanism.private]] 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Humanism.private|Humanism.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Humanism.personal|Humanism.personal]] 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Humanism.personal|Humanism.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Humanism.secret|Humanism.secret]] 
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Humanism.secret|Humanism.secret]] 
 

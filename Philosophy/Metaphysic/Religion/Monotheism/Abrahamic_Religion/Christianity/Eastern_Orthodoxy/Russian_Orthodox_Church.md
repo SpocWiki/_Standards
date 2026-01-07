@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1448-12-24 
 aliases:
   - Russian Orthodox Church
@@ -120,17 +120,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RUSSKAYA_PRAVOSLAVNA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church|Russian_Orthodox_Church]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church|Russian_Orthodox_Church]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.public|Russian_Orthodox_Church.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.public|Russian_Orthodox_Church.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.internal|Russian_Orthodox_Church.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.internal|Russian_Orthodox_Church.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.protect|Russian_Orthodox_Church.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.protect|Russian_Orthodox_Church.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.private|Russian_Orthodox_Church.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.private|Russian_Orthodox_Church.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.personal|Russian_Orthodox_Church.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.personal|Russian_Orthodox_Church.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.secret|Russian_Orthodox_Church.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.secret|Russian_Orthodox_Church.secret]] 
 

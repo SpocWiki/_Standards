@@ -76,15 +76,15 @@ The Structure and Processes of Communities depends very much on their Size.
 
 ### #is_/same_as :: [[/_Standards/Society/Agent/Community|Community]] 
 
-### #is_/same_as :: [Community.public](/_public/Society/Agent/Community.public) 
+### #is_/same_as :: [[/_public/Society/Agent/Community.public|Community.public]] 
 
 ### #is_/same_as :: [[/_internal/Society/Agent/Community.internal|Community.internal]] 
 
-### #is_/same_as :: [[/_protect/Society/Agent/Community.protect|Community.protect]]
+### #is_/same_as :: [[/_protect/Society/Agent/Community.protect|Community.protect]] 
 
 ### #is_/same_as :: [[/_private/Society/Agent/Community.private|Community.private]] 
 
-### #is_/same_as :: [Community.personal](/_personal/Society/Agent/Community.personal) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community.personal|Community.personal]] 
 
-### #is_/same_as :: [Community.secret](/_secret/Society/Agent/Community.secret)
+### #is_/same_as :: [[/_secret/Society/Agent/Community.secret|Community.secret]] 
 

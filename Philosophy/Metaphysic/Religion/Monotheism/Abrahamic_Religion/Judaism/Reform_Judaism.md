@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1900-01-01 
 aliases:
 has_id_wikidata: Q1133485
@@ -38,17 +38,17 @@ native_label: יהדות רפורמית
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism|Reform_Judaism]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Reform_Judaism|Reform_Judaism]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.public|Reform_Judaism.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Reform_Judaism.public|Reform_Judaism.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.internal|Reform_Judaism.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Reform_Judaism.internal|Reform_Judaism.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.protect|Reform_Judaism.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Reform_Judaism.protect|Reform_Judaism.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.private|Reform_Judaism.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Reform_Judaism.private|Reform_Judaism.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.personal|Reform_Judaism.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Reform_Judaism.personal|Reform_Judaism.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Reform_Judaism.secret|Reform_Judaism.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Reform_Judaism.secret|Reform_Judaism.secret]] 
 

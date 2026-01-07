@@ -97,17 +97,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Era-3600~Paleoarchean|Era~2~Paleoarchean]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean|Era-3600~Paleoarchean]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.public|Era~2~Paleoarchean.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.public|Era-3600~Paleoarchean.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.internal|Era~2~Paleoarchean.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.internal|Era-3600~Paleoarchean.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.protect|Era~2~Paleoarchean.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.protect|Era-3600~Paleoarchean.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.private|Era~2~Paleoarchean.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.private|Era-3600~Paleoarchean.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.personal|Era~2~Paleoarchean.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.personal|Era-3600~Paleoarchean.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.secret|Era~2~Paleoarchean.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3600~Paleoarchean.secret|Era-3600~Paleoarchean.secret]] 
 

@@ -23,3 +23,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anger)  
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Vice/Anger|Anger]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Vice/Anger.public|Anger.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Vice/Anger.internal|Anger.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Vice/Anger.protect|Anger.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Vice/Anger.private|Anger.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Vice/Anger.personal|Anger.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Vice/Anger.secret|Anger.secret]] 
+

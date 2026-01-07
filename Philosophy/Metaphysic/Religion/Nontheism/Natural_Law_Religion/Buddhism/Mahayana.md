@@ -63,17 +63,17 @@ Library_of_Congress_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana|Mahayana]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Mahayana|Mahayana]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.public|Mahayana.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Mahayana.public|Mahayana.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.internal|Mahayana.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Mahayana.internal|Mahayana.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.protect|Mahayana.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Mahayana.protect|Mahayana.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.private|Mahayana.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Mahayana.private|Mahayana.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.personal|Mahayana.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Mahayana.personal|Mahayana.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Mahayana.secret|Mahayana.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Mahayana.secret|Mahayana.secret]] 
 

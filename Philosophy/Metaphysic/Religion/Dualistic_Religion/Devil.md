@@ -73,17 +73,17 @@ IMDb_keyword: reference-to-the-devil
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Devil|Devil]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Dualistic_Religion/Devil|Devil]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Devil.public|Devil.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Dualistic_Religion/Devil.public|Devil.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Devil.internal|Devil.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Dualistic_Religion/Devil.internal|Devil.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Devil.protect|Devil.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Dualistic_Religion/Devil.protect|Devil.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Devil.private|Devil.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Dualistic_Religion/Devil.private|Devil.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Devil.personal|Devil.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Dualistic_Religion/Devil.personal|Devil.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Devil.secret|Devil.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Dualistic_Religion/Devil.secret|Devil.secret]] 
 
