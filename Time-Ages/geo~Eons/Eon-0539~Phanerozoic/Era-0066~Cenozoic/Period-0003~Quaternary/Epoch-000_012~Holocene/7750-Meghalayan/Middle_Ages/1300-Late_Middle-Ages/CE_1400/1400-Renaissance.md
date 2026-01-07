@@ -2,42 +2,43 @@
 aliases:
   - 1400-Renaissance
 has_id_wikidata: Q4692
-Commons_category: Renaissance
-Commons_gallery: Renaissance
+start_time: 1400-01-01T00:00:00Z
+end_time: 1650-01-01T00:00:00Z
 described_by_source:
-  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~Renaissance,13400700]]'
-end_time: 1650-01-01
-has_part_s_: '[[_Standards/WikiData/WD~Renaissance_art,1133779]]'
-Iconclass_notation: 23T26
-image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20046.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Da%20Vinci%20Vitruve%20Luc%20Viatour.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Last%20Judgement%20by%20Michelangelo.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%27David%27%20by%20Michelangelo%20JBU04.JPG
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-Krugosvet_article: istoriya/EPOHA_VOZROZHDENIYA.html
-location: '[[_Standards/WikiData/WD~Europe,46]]'
+  - "[[_Standards/WikiData/WD~art_movement,968159]]"
+  - "[[_Standards/WikiData/WD~cultural_movement,2198855]]"
+has_part_s_: "[[_Standards/WikiData/WD~Renaissance_art,1133779]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Renaissance,7112776]]"
+topic_has_template:
+  - "[[_Standards/WikiData/WD~Q10721172,10721172]]"
+  - "[[_Standards/WikiData/WD~Template_Renaissance,10999203]]"
+different_from: "[[_Standards/WikiData/WD~Renaissance,13400700]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Renaissance,13830551]]"
+studied_by: "[[_Standards/WikiData/WD~Renaissance_studies,25111456]]"
+locations: "[[_Standards/WikiData/WD~Europe,46]]"
+subject_named_as: Renaissance
+Commons_gallery: Renaissance
+Commons_category: Renaissance
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Da%20Vinci%20Vitruve%20Luc%20Viatour.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/%27David%27%20by%20Michelangelo%20JBU04.JPG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Last%20Judgement%20by%20Michelangelo.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20Botticelli%20046.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Renaissance.ogg
-Provenio_UUID: 631fd529-d8cd-4644-84ca-6d658d19663b
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Renaissance.ogg
-start_time: 1400-01-01
-studied_by: '[[_Standards/WikiData/WD~Renaissance_studies,25111456]]'
-topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Q10721172,10721172]]'
-  - '[[_Standards/WikiData/WD~Template_Renaissance,10999203]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Renaissance,13830551]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Renaissance,7112776]]'
+Iconclass_notation: 23T26
+Provenio_UUID: 631fd529-d8cd-4644-84ca-6d658d19663b
+Krugosvet_article: istoriya/EPOHA_VOZROZHDENIYA.html
 ---
 
-# [[1400-Renaissance]] 
+# [[1400-Renaissance+1650]] 
 
 has_/time_/started :: 1400-06 
 has_/time_/stopped :: 1650-06 
@@ -45,6 +46,7 @@ has_/time_/stopped :: 1650-06
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Renaissance,4692|WD~Renaissance,4692]] 
 
 ## #has_/text_of_/abstract 
 
