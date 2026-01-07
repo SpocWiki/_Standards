@@ -52,7 +52,7 @@ UNII: WV8XL34X3O
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide]]
+Group::[[../Actinide]]
 
 
 
@@ -63,7 +63,7 @@ UNII: WV8XL34X3O
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[#has_/radius_/nm::6.42]
+[#has_/radius_/nano_/m::6.42]
 [Electronegative::1.3]
 [Density::0]
 [#has_/value_for_/temperature_/melt_/c ::0]

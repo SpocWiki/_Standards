@@ -118,7 +118,7 @@ ZVG_number: 8350
 #chemic/Element 
 
 [GroupName::Group-11-Copper]
-[Group:[[../Group-11-Copper]]
+Group::[[../Group-11-Copper]]
 
 [#has_/name_/en::Silver]
 [#has_/name_/de::Silber]
@@ -126,7 +126,7 @@ ZVG_number: 8350
 [AtomRadius::1.75]
 [Atom-Vol-ccm-mol::10.3]
 [Unknown2::1.34]
-[#has_/radius_/nm::7.576]
+[#has_/radius_/nano_/m::7.576]
 [Electronegative::1.9]
 [Density::10.5]
 [#has_/value_for_/temperature_/melt_/c ::961.93]

@@ -40,7 +40,7 @@ Unicode_character: 鑪
 #is_/same_as :: [[../../../WikiData/WD~Rutherfordium,1226]] 
 
 [GroupName::Group-04-Titanium]
-[Group:[[../Group-04-Titanium]]
+Group::[[../Group-04-Titanium]]
 
 
 [#has_/name_/en::Rutherfordium]
@@ -49,7 +49,7 @@ Unicode_character: 鑪
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[#has_/radius_/nm::0]
+[#has_/radius_/nano_/m::0]
 [Electronegative::0]
 [Density::0]
 [#has_/value_for_/temperature_/melt_/c ::0]

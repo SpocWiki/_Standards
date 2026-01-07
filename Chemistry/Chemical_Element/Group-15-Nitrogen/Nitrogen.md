@@ -81,7 +81,7 @@ Unicode_character: 氮
 
 #chemic/Element 
 [GroupName::Group-15-Nitrogen]
-[Group:[[../Group-15-Nitrogen]]
+Group::[[../Group-15-Nitrogen]]
 
 [#has_/name_/en::Nitrogen]
 [#has_/name_/de::Stickstoff]
@@ -89,7 +89,7 @@ Unicode_character: 氮
 [AtomRadius::0.75]
 [Atom-Vol-ccm-mol::17.3]
 [Unknown2::0.75]
-[#has_/radius_/nm::14.534]
+[#has_/radius_/nano_/m::14.534]
 [Electronegative::3]
 [Density::1.251]
 [#has_/value_for_/temperature_/melt_/c ::-209.86]

@@ -83,7 +83,7 @@ ZVG_number: 8180
 #is_/same_as :: [[../../../WikiData/WD~Vanadium,722]] 
 
 [GroupName::Group-05-Vanadium]
-[Group:[[../Group-05-Vanadium]]
+Group::[[../Group-05-Vanadium]]
 
 
 [#has_/name_/en::Vanadium]
@@ -92,7 +92,7 @@ ZVG_number: 8180
 [AtomRadius::1.92]
 [Atom-Vol-ccm-mol::8.78]
 [Unknown2::1.22]
-[#has_/radius_/nm::6.74]
+[#has_/radius_/nano_/m::6.74]
 [Electronegative::1.6]
 [Density::5.8]
 [#has_/value_for_/temperature_/melt_/c ::1890]

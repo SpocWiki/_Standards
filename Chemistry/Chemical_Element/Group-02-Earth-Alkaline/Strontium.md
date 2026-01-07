@@ -74,7 +74,7 @@ ZVG_number: 8310
 #is_/same_as :: [[../../../WikiData/WD~Strontium,938]] 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group:[[../Group-02-Earth-Alkaline]]
+Group::[[../Group-02-Earth-Alkaline]]
 
 [#has_/name_/en::Strontium]
 [#has_/name_/de::Strontium]
@@ -82,7 +82,7 @@ ZVG_number: 8310
 [AtomRadius::2.45]
 [Atom-Vol-ccm-mol::23.7]
 [Unknown2::1.91]
-[#has_/radius_/nm::5.695]
+[#has_/radius_/nano_/m::5.695]
 [Electronegative::0.9]
 [Density::2.6]
 [#has_/value_for_/temperature_/melt_/c ::769]

@@ -113,7 +113,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
 #is_/same_as :: [[../../../WikiData/WD~Manganese,731]] 
 
 [GroupName::Group-07-Manganese]
-[Group:[[../Group-07-Manganese]]
+Group::[[../Group-07-Manganese]]
 
 
 [#has_/name_/en::Manganese]
@@ -122,7 +122,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
 [AtomRadius::1.79]
 [Atom-Vol-ccm-mol::1.39]
 [Unknown2::1.17]
-[#has_/radius_/nm::7.435]
+[#has_/radius_/nano_/m::7.435]
 [Electronegative::1.5]
 [Density::7.43]
 [#has_/value_for_/temperature_/melt_/c ::1244]

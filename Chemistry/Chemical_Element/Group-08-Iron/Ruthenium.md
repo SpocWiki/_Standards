@@ -70,7 +70,7 @@ ZVG_number: 7440
 #is_/same_as :: [[../../../WikiData/WD~Ruthenium,1086]] 
 
 [GroupName::Group-08-Iron]
-[Group:[[../Group-08-Iron]]
+Group::[[../Group-08-Iron]]
 
 
 [#has_/name_/en::Ruthenium]
@@ -79,7 +79,7 @@ ZVG_number: 7440
 [AtomRadius::1.89]
 [Atom-Vol-ccm-mol::8.3]
 [Unknown2::1.25]
-[#has_/radius_/nm::7.37]
+[#has_/radius_/nano_/m::7.37]
 [Electronegative::2.2]
 [Density::12.2]
 [#has_/value_for_/temperature_/melt_/c ::2310]

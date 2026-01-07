@@ -95,7 +95,7 @@ ZVG_number: 8160
 #is_/same_as :: [[../../../WikiData/WD~Calcium,706]] 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group:[[../Group-02-Earth-Alkaline]]
+Group::[[../Group-02-Earth-Alkaline]]
 
 
 [#has_/name_/en::Calcium]
@@ -104,7 +104,7 @@ ZVG_number: 8160
 [AtomRadius::2.23]
 [Atom-Vol-ccm-mol::29.9]
 [Unknown2::1.74]
-[#has_/radius_/nm::6.113]
+[#has_/radius_/nano_/m::6.113]
 [Electronegative::1]
 [Density::1.55]
 [#has_/value_for_/temperature_/melt_/c ::839]

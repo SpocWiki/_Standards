@@ -58,7 +58,7 @@ UNII: 42OD65L39F
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+Group::[[../Lanthanide]]
 
 
 [#has_/name_/en::Samarium]
@@ -67,7 +67,7 @@ UNII: 42OD65L39F
 [AtomRadius::2.59]
 [Atom-Vol-ccm-mol::19.95]
 [Unknown2::1.62]
-[#has_/radius_/nm::5.64]
+[#has_/radius_/nano_/m::5.64]
 [Electronegative::1.2]
 [Density::7.54]
 [#has_/value_for_/temperature_/melt_/c ::1072]

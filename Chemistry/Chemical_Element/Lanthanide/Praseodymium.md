@@ -58,7 +58,7 @@ UNII: NKN7EZA750
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+Group::[[../Lanthanide]]
 
 
 [#has_/name_/en::Praseodymium]
@@ -67,7 +67,7 @@ UNII: NKN7EZA750
 [AtomRadius::2.67]
 [Atom-Vol-ccm-mol::20.8]
 [Unknown2::1.65]
-[#has_/radius_/nm::5.46]
+[#has_/radius_/nano_/m::5.46]
 [Electronegative::1.1]
 [Density::6.77]
 [#has_/value_for_/temperature_/melt_/c ::931]

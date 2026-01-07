@@ -89,7 +89,7 @@ ZVG_number: 8380
 
 #chemic/Element 
 [GroupName::Group-14-Carbon]
-[Group::[[../Group-14-Carbon]]]
+Group::[[../Group-14-Carbon]]]
 
 
 [#has_/name_/en::Tin]
@@ -99,7 +99,7 @@ ZVG_number: 8380
 [AtomRadius::1.72]
 [Atom-Vol-ccm-mol::16.3]
 [Unknown2::1.41]
-[#has_/radius_/nm::7.344]
+[#has_/radius_/nano_/m::7.344]
 [Electronegative::2]
 [Density::7.3]
 [#has_/value_for_/temperature_/melt_/c ::231.97]

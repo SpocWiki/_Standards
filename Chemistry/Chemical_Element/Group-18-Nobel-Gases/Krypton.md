@@ -62,7 +62,7 @@ ZVG_number: 7360
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
-[Group:[[../Group-18-Nobel-Gases]]
+Group::[[../Group-18-Nobel-Gases]]
 
 
 [#has_/name_/en::Krypton]
@@ -71,7 +71,7 @@ ZVG_number: 7360
 [AtomRadius::1.03]
 [Atom-Vol-ccm-mol::38.9]
 [Unknown2::1.12]
-[#has_/radius_/nm::13.999]
+[#has_/radius_/nano_/m::13.999]
 [Electronegative::0]
 [Density::3.74]
 [#has_/value_for_/temperature_/melt_/c ::-156.6]

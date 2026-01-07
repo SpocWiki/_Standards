@@ -119,7 +119,7 @@ ZVG_number: 7130
 #chemic/Element 
 
 [GroupName::Group-13-Boron]
-[Group:[[../Group-13-Boron]]
+Group::[[../Group-13-Boron]]
 
 
 [#has_/name_/en::Aluminium]
@@ -128,7 +128,7 @@ ZVG_number: 7130
 [AtomRadius::1.82]
 [Atom-Vol-ccm-mol::10]
 [Unknown2::1.18]
-[#has_/radius_/nm::5.986]
+[#has_/radius_/nano_/m::5.986]
 [Electronegative::1.6]
 [Density::2.7]
 [#has_/value_for_/temperature_/melt_/c ::660.37]

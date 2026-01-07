@@ -80,7 +80,7 @@ ZVG_number: 7370
 #chemic/Element 
 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]
+Group::[[../Group-01-Alkali]]
 
 
 [#has_/name_/en::Rubidium]
@@ -90,7 +90,7 @@ ZVG_number: 7370
 [AtomRadius::2.98]
 [Atom-Vol-ccm-mol::55.9]
 [Unknown2::2.16]
-[#has_/radius_/nm::4.177]
+[#has_/radius_/nano_/m::4.177]
 [Electronegative::0.8]
 [Density::1.53]
 [#has_/value_for_/temperature_/melt_/c ::38.89]

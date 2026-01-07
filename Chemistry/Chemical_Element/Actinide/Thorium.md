@@ -65,7 +65,7 @@ UNII: 60YU5MIG9W
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide]]
+Group::[[../Actinide]]
 
 
 
@@ -76,7 +76,7 @@ UNII: 60YU5MIG9W
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::19.9]
 [Unknown2::1.65]
-[#has_/radius_/nm::6.08]
+[#has_/radius_/nano_/m::6.08]
 [Electronegative::1.3]
 [Density::11.7]
 [#has_/value_for_/temperature_/melt_/c ::1750]

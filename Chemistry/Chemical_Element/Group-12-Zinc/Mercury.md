@@ -102,7 +102,7 @@ ZVG_number: 8490
 #is_/same_as :: [[../../../WikiData/WD~Mercury,925]] 
 
 [GroupName::Group-12-Zinc]
-[Group:[[../Group-12-Zinc]]
+Group::[[../Group-12-Zinc]]
 
 
 [#has_/name_/en::Mercury]
@@ -111,7 +111,7 @@ ZVG_number: 8490
 [AtomRadius::1.76]
 [Atom-Vol-ccm-mol::14.82]
 [Unknown2::1.49]
-[#has_/radius_/nm::10.437]
+[#has_/radius_/nano_/m::10.437]
 [Electronegative::2]
 [Density::13.53]
 [#has_/value_for_/temperature_/melt_/c ::-38.87]

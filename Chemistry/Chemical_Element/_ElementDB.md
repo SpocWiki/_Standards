@@ -163,12 +163,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  #has_/radius_/nm:
+  #has_/radius_/nano_/m:
     input: number
-    accessorKey: #has_/radius_/nm
-    label: #has_/radius_/nm
-    key: #has_/radius_/nm
-    id: #has_/radius_/nm
+    accessorKey: #has_/radius_/nano_/m
+    label: #has_/radius_/nano_/m
+    key: #has_/radius_/nano_/m
+    id: #has_/radius_/nano_/m
     position: 13
     skipPersist: false
     isHidden: false

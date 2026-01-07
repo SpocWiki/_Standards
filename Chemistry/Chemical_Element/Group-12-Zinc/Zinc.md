@@ -113,7 +113,7 @@ ZVG_number:
 #is_/same_as :: [[../../../WikiData/WD~Zinc,758]] 
 
 [GroupName::Group-12-Zinc]
-[Group::[[../Group-12-Zinc]]]
+Group::[[../Group-12-Zinc]]]
 
 
 [#has_/name_/en::Zinc]
@@ -122,7 +122,7 @@ ZVG_number:
 [AtomRadius::1.53]
 [Atom-Vol-ccm-mol::9.2]
 [Unknown2::1.25]
-[#has_/radius_/nm::9.394]
+[#has_/radius_/nano_/m::9.394]
 [Electronegative::1.6]
 [Density::7.14]
 [#has_/value_for_/temperature_/melt_/c ::419.58]

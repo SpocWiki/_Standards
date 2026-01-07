@@ -94,7 +94,7 @@ ZVG_number: 3930
 
 #chemic/Element 
 [GroupName::Group-15-Nitrogen]
-[Group:[[../Group-15-Nitrogen]]
+Group::[[../Group-15-Nitrogen]]
 
 
 [#has_/name_/en::Phosphorus]
@@ -103,7 +103,7 @@ ZVG_number: 3930
 [AtomRadius::1.23]
 [Atom-Vol-ccm-mol::17]
 [Unknown2::1.06]
-[#has_/radius_/nm::10.486]
+[#has_/radius_/nano_/m::10.486]
 [Electronegative::2.2]
 [Density::1.82]
 [#has_/value_for_/temperature_/melt_/c ::44.1]

@@ -89,7 +89,7 @@ ZVG_number: 8440
 #chemic/Element 
 
 [GroupName::Group-05-Vanadium]
-[Group:[[../Group-05-Vanadium]]
+Group::[[../Group-05-Vanadium]]
 
 `=this["Dewey Decimal Classification"]`
 `=this.Dewey_Decimal_Classification`
@@ -101,7 +101,7 @@ ZVG_number: 8440
 [AtomRadius::2.09]
 [Atom-Vol-ccm-mol::10.9]
 [Unknown2::1.34]
-[#has_/radius_/nm::7.89]
+[#has_/radius_/nano_/m::7.89]
 [Electronegative::1.5]
 [Density::16.6]
 [#has_/value_for_/temperature_/melt_/c ::2996]

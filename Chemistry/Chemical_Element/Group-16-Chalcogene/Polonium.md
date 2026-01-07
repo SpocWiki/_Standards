@@ -57,7 +57,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/POLONI.html
 
 #chemic/Element 
 [GroupName::Group-16-Chalcogene]
-[Group:[[../Group-16-Chalcogene]]
+Group::[[../Group-16-Chalcogene]]
 
 [#has_/name_/en::Polonium]
 [#has_/name_/de::Polonium]
@@ -65,7 +65,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/POLONI.html
 [AtomRadius::1.53]
 [Atom-Vol-ccm-mol::22.23]
 [Unknown2::1.46]
-[#has_/radius_/nm::8.42]
+[#has_/radius_/nano_/m::8.42]
 [Electronegative::2]
 [Density::9.4]
 [#has_/value_for_/temperature_/melt_/c ::254]

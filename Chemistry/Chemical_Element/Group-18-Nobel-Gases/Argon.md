@@ -69,7 +69,7 @@ ZVG_number: 7180
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
-[Group::[[../Group-18-Nobel-Gases]]]
+Group::[[../Group-18-Nobel-Gases]]]
 
 
 [#has_/name_/en::Argon]
@@ -78,7 +78,7 @@ ZVG_number: 7180
 [AtomRadius::0.51]
 [Atom-Vol-ccm-mol::16.7]
 [Unknown2::0.71]
-[#has_/radius_/nm::21.564]
+[#has_/radius_/nano_/m::21.564]
 [Electronegative::0]
 [Density::1.784]
 [#has_/value_for_/temperature_/melt_/c ::-189.2]

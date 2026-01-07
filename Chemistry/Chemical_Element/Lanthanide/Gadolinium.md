@@ -53,7 +53,7 @@ ZVG_number: 7640
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+Group::[[../Lanthanide]]
 
 
 [#has_/name_/en::Gadolinium]
@@ -62,7 +62,7 @@ ZVG_number: 7640
 [AtomRadius::2.54]
 [Atom-Vol-ccm-mol::19.9]
 [Unknown2::1.61]
-[#has_/radius_/nm::6.15]
+[#has_/radius_/nano_/m::6.15]
 [Electronegative::1.2]
 [Density::7.89]
 [#has_/value_for_/temperature_/melt_/c ::1311]

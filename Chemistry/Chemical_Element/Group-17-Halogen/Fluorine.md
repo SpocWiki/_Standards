@@ -69,7 +69,7 @@ vapor_pressure: 1
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
-[Group:[[../Group-17-Halogen]]
+Group::[[../Group-17-Halogen]]
 
 
 [#has_/name_/en::Fluorine]
@@ -78,7 +78,7 @@ vapor_pressure: 1
 [AtomRadius::0.57]
 [Atom-Vol-ccm-mol::17.1]
 [Unknown2::0.72]
-[#has_/radius_/nm::17.422]
+[#has_/radius_/nano_/m::17.422]
 [Electronegative::4]
 [Density::1.696]
 [#has_/value_for_/temperature_/melt_/c ::-219.62]

@@ -50,7 +50,7 @@ UNII: 6200K977BQ
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide]]
+Group::[[../Actinide]]
 
 [#has_/name_/en::Neptunium]
 [#has_/name_/de::Neptunium]
@@ -59,7 +59,7 @@ UNII: 6200K977BQ
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::11.62]
 [Unknown2::0]
-[#has_/radius_/nm::6.19]
+[#has_/radius_/nano_/m::6.19]
 [Electronegative::1.4]
 [Density::20.4]
 [#has_/value_for_/temperature_/melt_/c ::640]

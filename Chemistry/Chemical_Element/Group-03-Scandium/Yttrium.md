@@ -190,7 +190,7 @@ ZVG_number: 7390
 #chemic/Element 
 
 [GroupName::Group-03-Scandium]
-[Group:[[../Group-03-Scandium]]
+Group::[[../Group-03-Scandium]]
 
 
 [#has_/name_/en::Yttrium]
@@ -199,7 +199,7 @@ ZVG_number: 7390
 [AtomRadius::2.27]
 [Atom-Vol-ccm-mol::19.8]
 [Unknown2::1.62]
-[#has_/radius_/nm::6.38]
+[#has_/radius_/nano_/m::6.38]
 [Electronegative::1.2]
 [Density::4.5]
 [#has_/value_for_/temperature_/melt_/c ::1523]

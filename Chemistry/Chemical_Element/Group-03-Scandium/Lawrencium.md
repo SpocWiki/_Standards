@@ -48,7 +48,7 @@ UNII: QRT37X99RQ
 #is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905]] 
 
 [GroupName::Group-03-Scandium]
-[Group:[[../Group-03-Scandium]]
+Group::[[../Group-03-Scandium]]
 
 [#has_/name_/en::Lawrencium]
 [#has_/name_/de::Lawrencium]
@@ -57,7 +57,7 @@ UNII: QRT37X99RQ
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[#has_/radius_/nm::0]
+[#has_/radius_/nano_/m::0]
 [Electronegative::0]
 [Density::0]
 [#has_/value_for_/temperature_/melt_/c ::0]

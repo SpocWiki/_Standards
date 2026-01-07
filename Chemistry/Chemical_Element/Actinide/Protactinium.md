@@ -57,7 +57,7 @@ UNII: 0S6855V29M
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide]]
+Group::[[../Actinide]]
 
 [#has_/name_/en::Protactinium]
 [#has_/name_/de::Protactinium]
@@ -66,7 +66,7 @@ UNII: 0S6855V29M
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::15]
 [Unknown2::0]
-[#has_/radius_/nm::5.89]
+[#has_/radius_/nano_/m::5.89]
 [Electronegative::1.5]
 [Density::15.4]
 [#has_/value_for_/temperature_/melt_/c ::0]

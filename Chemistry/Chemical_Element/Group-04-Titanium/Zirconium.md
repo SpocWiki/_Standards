@@ -87,7 +87,7 @@ ZVG_number:
 #is_/same_as :: [[../../../WikiData/WD~Zirconium,1038]] 
 
 [GroupName::Group-04-Titanium]
-[Group:[[../Group-04-Titanium]] 
+Group::[[../Group-04-Titanium]] 
 
 [#has_/name_/en::Zirconium]
 [#has_/name_/de::Zirkonium]
@@ -95,7 +95,7 @@ ZVG_number:
 [AtomRadius::2.16]
 [Atom-Vol-ccm-mol::14.1]
 [Unknown2::1.45]
-[#has_/radius_/nm::6.84]
+[#has_/radius_/nano_/m::6.84]
 [Electronegative::1.3]
 [Density::6.49]
 [#has_/value_for_/temperature_/melt_/c ::1852]

@@ -90,7 +90,7 @@ ZVG_number: 8130
 #is_/same_as :: [[../../../WikiData/WD~Sulfur,682]] 
 
 [GroupName::Group-16-Chalcogene]
-[Group:[[../Group-16-Chalcogene]]
+Group::[[../Group-16-Chalcogene]]
 
 [#has_/name_/en::Sulfur]
 [#has_/name_/de::Schwefel]
@@ -98,7 +98,7 @@ ZVG_number: 8130
 [AtomRadius::1.09]
 [Atom-Vol-ccm-mol::15.5]
 [Unknown2::1.02]
-[#has_/radius_/nm::10.36]
+[#has_/radius_/nano_/m::10.36]
 [Electronegative::2.6]
 [Density::2.07]
 [#has_/value_for_/temperature_/melt_/c ::112.8]

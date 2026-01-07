@@ -67,7 +67,7 @@ ZVG_number: 8520
 
 #chemic/Element 
 [GroupName::Group-15-Nitrogen]
-[Group:[[../Group-15-Nitrogen]]
+Group::[[../Group-15-Nitrogen]]
 
 
 [#has_/name_/en::Bismuth]
@@ -76,7 +76,7 @@ ZVG_number: 8520
 [AtomRadius::1.63]
 [Atom-Vol-ccm-mol::21.3]
 [Unknown2::1.46]
-[#has_/radius_/nm::7.289]
+[#has_/radius_/nano_/m::7.289]
 [Electronegative::2]
 [Density::9.8]
 [#has_/value_for_/temperature_/melt_/c ::271.3]

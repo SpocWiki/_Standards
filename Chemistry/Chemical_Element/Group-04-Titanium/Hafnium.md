@@ -74,7 +74,7 @@ ZVG_number: 7720
 #is_/same_as :: [[../../../WikiData/WD~Hafnium,1119]] 
 
 [GroupName::Group-04-Titanium]
-[Group:[[../Group-04-Titanium]]
+Group::[[../Group-04-Titanium]]
 
 [#has_/name_/en::Hafnium]
 [#has_/name_/de::Hafnium]
@@ -83,7 +83,7 @@ ZVG_number: 7720
 [AtomRadius::2.16]
 [Atom-Vol-ccm-mol::13.6]
 [Unknown2::1.44]
-[#has_/radius_/nm::6.65]
+[#has_/radius_/nano_/m::6.65]
 [Electronegative::1.3]
 [Density::13.1]
 [#has_/value_for_/temperature_/melt_/c ::2227]

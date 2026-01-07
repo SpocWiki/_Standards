@@ -51,7 +51,7 @@ Unicode_character: 砈
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
-[Group::[[../Group-17-Halogen]]]
+Group::[[../Group-17-Halogen]]]
 
 
 [#has_/name_/en::Astatine]
@@ -60,7 +60,7 @@ Unicode_character: 砈
 [AtomRadius::1.43]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::1.45]
-[#has_/radius_/nm::0]
+[#has_/radius_/nano_/m::0]
 [Electronegative::2.2]
 [Density::0]
 [#has_/value_for_/temperature_/melt_/c ::302]

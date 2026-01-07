@@ -64,7 +64,7 @@ ZVG_number: 7670
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+Group::[[../Lanthanide]]
 
 
 [#has_/name_/en::Holmium]
@@ -73,7 +73,7 @@ ZVG_number: 7670
 [AtomRadius::2.47]
 [Atom-Vol-ccm-mol::18.7]
 [Unknown2::1.58]
-[#has_/radius_/nm::6.018]
+[#has_/radius_/nano_/m::6.018]
 [Electronegative::1.2]
 [Density::8.8]
 [#has_/value_for_/temperature_/melt_/c ::1470]

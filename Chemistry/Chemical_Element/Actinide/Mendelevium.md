@@ -45,7 +45,7 @@ UNII: LW3E571O0Z
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide]]
+Group::[[../Actinide]]
 
 [#has_/name_/en::Mendelevium]
 [#has_/name_/de::Mendelevium]
@@ -54,7 +54,7 @@ UNII: LW3E571O0Z
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[#has_/radius_/nm::6.58]
+[#has_/radius_/nano_/m::6.58]
 [Electronegative::1.3]
 [Density::0]
 [#has_/value_for_/temperature_/melt_/c ::0]

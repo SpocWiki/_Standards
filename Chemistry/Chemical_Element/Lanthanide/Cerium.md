@@ -204,7 +204,7 @@ ZVG_number: 8430
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+Group::[[../Lanthanide]]
 
 [#has_/name_/en::Cerium]
 [#has_/name_/de::Cer]
@@ -212,7 +212,7 @@ ZVG_number: 8430
 [AtomRadius::2.7]
 [Atom-Vol-ccm-mol::20.67]
 [Unknown2::1.65]
-[#has_/radius_/nm::5.54]
+[#has_/radius_/nano_/m::5.54]
 [Electronegative::1.1]
 [Density::6.78]
 [#has_/value_for_/temperature_/melt_/c ::798]

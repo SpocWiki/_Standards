@@ -116,7 +116,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.
 #is_/same_as :: [[../../../WikiData/WD~Nickel,744]] 
 
 [GroupName::Group-10-Nickel]
-[Group:[[../Group-10-Nickel]]
+Group::[[../Group-10-Nickel]]
 
 
 [#has_/name_/en::Nickel]
@@ -125,7 +125,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.
 [AtomRadius::1.62]
 [Atom-Vol-ccm-mol::6.59]
 [Unknown2::1.15]
-[#has_/radius_/nm::7.635]
+[#has_/radius_/nano_/m::7.635]
 [Electronegative::1.9]
 [Density::8.9]
 [#has_/value_for_/temperature_/melt_/c ::1453]

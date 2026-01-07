@@ -63,7 +63,7 @@ Wolfram_Language_entity_code: Entity["Mineral", "Platinum"]
 #chemic/Element 
 
 [GroupName::Group-10-Nickel]
-[Group:[[../Group-10-Nickel]]
+Group::[[../Group-10-Nickel]]
 
 
 [#has_/name_/en::Platinum]
@@ -72,7 +72,7 @@ Wolfram_Language_entity_code: Entity["Mineral", "Platinum"]
 [AtomRadius::1.83]
 [Atom-Vol-ccm-mol::9.1]
 [Unknown2::1.3]
-[#has_/radius_/nm::9]
+[#has_/radius_/nano_/m::9]
 [Electronegative::2.3]
 [Density::21.4]
 [#has_/value_for_/temperature_/melt_/c ::0]

@@ -56,7 +56,7 @@ UNII: 2YQA718KUU
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group::[[../Actinide]]]
+Group::[[../Actinide]]]
 
 
 
@@ -67,7 +67,7 @@ UNII: 2YQA718KUU
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[#has_/radius_/nm::6.23]
+[#has_/radius_/nano_/m::6.23]
 [Electronegative::1.3]
 [Density::0]
 [#has_/value_for_/temperature_/melt_/c ::0]

@@ -89,7 +89,7 @@ Krugosvet_article_archived_: himiya/kislorod
 
 #chemic/Element 
 [GroupName::Group-16-Chalcogene]
-[Group:[[../Group-16-Chalcogene]]
+Group::[[../Group-16-Chalcogene]]
 
 
 [#has_/name_/en::Oxygen]
@@ -98,7 +98,7 @@ Krugosvet_article_archived_: himiya/kislorod
 [AtomRadius::0.65]
 [Atom-Vol-ccm-mol::14]
 [Unknown2::0.73]
-[#has_/radius_/nm::13.618]
+[#has_/radius_/nano_/m::13.618]
 [Electronegative::3.4]
 [Density::1.429]
 [#has_/value_for_/temperature_/melt_/c ::-218.4]

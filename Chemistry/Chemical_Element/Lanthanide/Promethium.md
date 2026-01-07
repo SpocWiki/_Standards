@@ -59,7 +59,7 @@ UNII: ZGV62C09KN
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+Group::[[../Lanthanide]]
 
 
 [#has_/name_/en::Promethium]
@@ -68,7 +68,7 @@ UNII: ZGV62C09KN
 [AtomRadius::2.62]
 [Atom-Vol-ccm-mol::22.39]
 [Unknown2::1.63]
-[#has_/radius_/nm::5.554]
+[#has_/radius_/nano_/m::5.554]
 [Electronegative::1.1]
 [Density::6.475]
 [#has_/value_for_/temperature_/melt_/c ::1080]
