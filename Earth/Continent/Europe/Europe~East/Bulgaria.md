@@ -551,7 +551,7 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 > and permanently invaded the Balkans in the late 7th century. 
 > 
 > They established the First Bulgarian Empire, 
-> victoriously recognised by treaty in 681 AD by the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire|Byzantine Empire]]. 
+> victoriously recognised by treaty in 681 AD by the[[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0395-Byzantine_Empire|Byzantine Empire]]]. 
 > It dominated most of the Balkans 
 > and significantly influenced Slavic cultures by developing the Cyrillic script. 
 > 

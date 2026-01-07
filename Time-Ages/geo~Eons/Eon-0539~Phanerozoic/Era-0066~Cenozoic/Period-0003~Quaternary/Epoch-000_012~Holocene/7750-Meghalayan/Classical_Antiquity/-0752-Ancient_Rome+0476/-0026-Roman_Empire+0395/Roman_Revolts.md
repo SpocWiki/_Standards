@@ -10,13 +10,15 @@ Commons_category: Roman civil wars
 start_time: -0508-01-01T00:00:00Z
 ---
 
-# [[Roman_civil_Wars_and_Revolts]] 
+# [[Roman_Revolts]] 
 
 #is_/same_as :: [[WD~List_of_Roman_civil_wars_and_revolts,1747183]] 
 
 ## #has_/text_of_/abstract 
 
-> This list of Roman civil wars and revolts includes civil wars and organized civil disorder, revolts, and rebellions in ancient Rome (Roman Kingdom, Roman Republic, and Roman Empire) until the fall of the Western Roman Empire (753 BC – AD 476). 
+> This list of Roman civil wars and revolts includes civil wars and organized civil disorder, 
+> revolts, and rebellions in ancient Rome (Roman Kingdom, Roman Republic, and Roman Empire) 
+> until the fall of the Western Roman Empire (753 BC – AD 476). 
 > 
 > For the Eastern Roman Empire or Byzantine Empire 
 > after the division of the Empire in West and East, 
@@ -66,7 +68,7 @@ start_time: -0508-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Roman_civil_Wars_and_Revolts|Roman_civil_Wars_and_Revolts]] 
+### #is_/same_as :: [[Roman_Revolts|Roman_civil_Wars_and_Revolts]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395/Roman_civil_Wars_and_Revolts.public|Roman_civil_Wars_and_Revolts.public]] 
 
