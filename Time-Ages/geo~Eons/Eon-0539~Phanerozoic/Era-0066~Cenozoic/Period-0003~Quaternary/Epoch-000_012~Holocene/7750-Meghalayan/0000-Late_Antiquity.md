@@ -16,7 +16,7 @@ instance_of:
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Late_antiquity,10968580]]'
 ---
 
-# [[Late_Antiquity]] 
+# [[0000-Late_Antiquity]] 
 
 #has_/time_/started :: 0250-06 
 #has_/time_/stopped :: 0750-06 
@@ -48,7 +48,7 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Late_antiquity,1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Late_Antiquity|Late_Antiquity]] 
+### #is_/same_as :: [[0000-Late_Antiquity|Late_Antiquity]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity.public|Late_Antiquity.public]] 
 

@@ -187,7 +187,7 @@ Libris_URI: 1zcf88vk3gb8kvv
 > After Caesar's assassination in 44 BC, he led the Senate against Mark Antony, 
 > attacking him in a series of speeches. 
 > 
-> He elevated Caesar's heir [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus|Octavian]] to rally support against Antony in the ensuing violent conflict. 
+> He elevated Caesar's heir [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus|Octavian]] to rally support against Antony in the ensuing violent conflict. 
 > But after Octavian and Antony reconciled to form the triumvirate, 
 > Cicero was proscribed and executed in late 43 BC while attempting to escape Italy for safety. 
 > His severed hands and head (taken by order of Antony 
