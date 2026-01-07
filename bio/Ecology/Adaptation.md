@@ -47,7 +47,7 @@ Dewey_Decimal_Classification: "578.47"
 >
 > Adaptation is a major topic in the philosophy of biology, as it concerns function and purpose (teleology). Some biologists try to avoid terms which imply purpose in adaptation, not least because they suggest a deity's intentions, but others note that adaptation is necessarily purposeful.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Adaptation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Adaptation) 
 
 
 ## Confidential Links & Embeds: 

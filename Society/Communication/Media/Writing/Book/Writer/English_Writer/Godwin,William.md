@@ -108,7 +108,7 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Wollstonecraf
 > some of enduring significance. 
 > Godwin has had considerable influence on British literature and literary culture.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/William%20Godwin)
+> [Wikipedia](https://en.wikipedia.org/wiki/William%20Godwin) 
 
 
 ## Confidential Links & Embeds: 

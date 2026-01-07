@@ -36,7 +36,7 @@ Commons_category: Activism
 >
 > Separating activism and terrorism can be difficult and has been described as a 'fine line'.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Activism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Activism) 
 
 
 ## Confidential Links & Embeds: 

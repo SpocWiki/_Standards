@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1923-01-01 
 aliases:
   - dodecaphony
   - twelve-tone serialism
@@ -47,8 +48,6 @@ inception: 1923-01-01T00:00:00Z
 > Schoenberg's fellow countryman and contemporary Hauer also developed a similar system using unordered hexachords or tropes—independent of Schoenberg's development of the twelve-tone technique. Other composers have created systematic use of the chromatic scale, but Schoenberg's method is considered to be most historically and aesthetically significant.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Twelve-tone%20technique) 
-
-
 
 
 ## Confidential Links & Embeds: 

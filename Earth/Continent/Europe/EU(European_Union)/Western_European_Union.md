@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1954-01-01 
+has_time_stopped: 2011-01-01 
 aliases:
   - Western European Union
   - Union de l'Europe occidentale

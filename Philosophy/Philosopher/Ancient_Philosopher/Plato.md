@@ -242,7 +242,7 @@ Hierarchical Idea-Theory with the "Good" as 'highest' Idea.
 > "the safest general characterization of the European philosophical tradition is that 
 > it consists of a series of footnotes to Plato."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Plato)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Plato) 
 
 
 ## Confidential Links & Embeds: 

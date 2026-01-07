@@ -31,7 +31,7 @@
 > The film was a financial success, recouping its budget in two weeks and grossing over $120 million worldwide. 
 > In 1999, it was ranked 70th on the BFI Top 100 British films list.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Goldfinger%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Goldfinger%20(film)) 
 
 
 ## Confidential Links & Embeds: 

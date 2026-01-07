@@ -18,6 +18,7 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Satiety) 
 
+
 Satiation depends on these Factors: 
 - Stomach extension 
 - calory-density (Porridge contains a lot of water) 

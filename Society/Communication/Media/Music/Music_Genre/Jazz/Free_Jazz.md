@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1960-01-01 
 aliases:
   - Free_jazz
   - Free_Jazz

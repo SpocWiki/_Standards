@@ -28,7 +28,7 @@ Prolog is a [[../Prog~Logic|Prog~Logic]] Programming Language
 > as well as its original intended field of use, natural language processing. 
 > Prolog is a Turing-complete, general-purpose programming language, which is well-suited for intelligent knowledge-processing applications.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Prolog)
+> [Wikipedia](https://en.wikipedia.org/wiki/Prolog) 
 
 
 ## Confidential Links & Embeds: 

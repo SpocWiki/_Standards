@@ -69,7 +69,7 @@ Mithril, Valar, Palantir etc.
 > 
 > The lawsuit eventually bankrupted Gawker, and led to founder Nick Denton's bankruptcy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Thiel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Thiel) 
 
 
 ## Confidential Links & Embeds: 

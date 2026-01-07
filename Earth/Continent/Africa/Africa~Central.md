@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 21.0 , 2.0 ] 
 aliases:
   - Afrique centrale
   - África central

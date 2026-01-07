@@ -41,7 +41,7 @@
 > Best Music Direction (Keeravani) and Best Male Playback Singer 
 > (Kaala Bhairava for "Komuram Bheemudo").
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/RRR)
+> [Wikipedia](https://en.wikipedia.org/wiki/RRR) 
 
 
 ## Confidential Links & Embeds: 

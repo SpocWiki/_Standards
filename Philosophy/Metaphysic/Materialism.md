@@ -39,7 +39,7 @@ part_of: '[[_Standards/WikiData/WD~monism,178801]]'
 >
 > Discoveries of neural correlates between consciousness and the brain are taken as empirical support for materialism, but some philosophers of mind find that association fallacious or consider it compatible with non-materialist ideas. Alternative philosophies opposed or alternative to materialism or physicalism include idealism, pluralism, dualism, panpsychism, and other forms of monism. Epicureanism is a philosophy of materialism from classical antiquity that was a major forerunner of modern science. Though ostensibly a deist, Epicurus affirmed the literal existence of the Greek gods in either some type of celestial "heaven" cognate from which they ruled the universe (if not on a literal Mount Olympus), and his philosophy promulgated atomism, while Platonism taught roughly the opposite, despite Plato's teaching of Zeus as God.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Materialism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Materialism) 
 
 
 ## Confidential Links & Embeds: 

@@ -28,10 +28,7 @@ Many RDFS Definitions are included in the more expressive [[owl(Ontology_Web_Lan
 > The first version was published by the World-Wide Web Consortium (W3C) in April 1998, 
 > and the final W3C recommendation was released in February 2014. 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/RDF%20Schema)
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/RDF%20Schema) 
 
 
 ## Edit

@@ -78,7 +78,7 @@ they **flip their sign when mirrored**.
 > In the case of an angle of rotation, the arc is centered at the center of the rotation 
 > and delimited by any other point and its image after the rotation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Angle)
+> [Wikipedia](https://en.wikipedia.org/wiki/Angle) 
 
 
 ## Confidential Links & Embeds: 

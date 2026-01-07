@@ -105,7 +105,6 @@ Unicode_character: 氮
 
 ## #has_/text_of_/abstract 
 
-
 > **Nitrogen** is the chemical element with the symbol (Abbr::N) and atomic number (Charge-e::7). 
 > Nitrogen is a nonmetal and the lightest member of group (GroupNo::15) of the periodic table, 
 > often called the pnictogens. I
@@ -121,7 +120,7 @@ Unicode_character: 氮
 >
 > Apart from its use in fertilisers and energy stores, nitrogen is a constituent of organic compounds as diverse as Kevlar used in high-strength fabric and cyanoacrylate used in superglue. Nitrogen is a constituent of every major pharmacological drug class, including antibiotics. Many drugs are mimics or prodrugs of natural nitrogen-containing signal molecules: for example, the organic nitrates nitroglycerin and nitroprusside control blood pressure by metabolizing into nitric oxide. Many notable nitrogen-containing drugs, such as the natural caffeine and morphine or the synthetic amphetamines, act on receptors of animal neurotransmitters.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nitrogen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nitrogen) 
 
 
 ## History 

@@ -24,7 +24,7 @@ aliases:
 > which is a simplified version of Classical Latin. 
 > Most of his books and papers are in Latino sine flexione, while others are in Italian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Giuseppe%20Peano)
+> [Wikipedia](https://en.wikipedia.org/wiki/Giuseppe%20Peano) 
 
 
 ## Confidential Links & Embeds: 

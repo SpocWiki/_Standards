@@ -46,7 +46,7 @@ aliases:
 > with the condition for the BBC, and became a patron for ARUK. 
 > Pratchett died in March 2015, aged 66.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Terry%20Pratchett)
+> [Wikipedia](https://en.wikipedia.org/wiki/Terry%20Pratchett) 
 
 
 ## Confidential Links & Embeds: 

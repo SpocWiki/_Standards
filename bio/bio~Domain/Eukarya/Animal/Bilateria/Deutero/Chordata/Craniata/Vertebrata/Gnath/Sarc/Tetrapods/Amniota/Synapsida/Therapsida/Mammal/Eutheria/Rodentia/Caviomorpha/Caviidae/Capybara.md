@@ -138,7 +138,7 @@ EPPO_Code: HYUSHY
 > as large as one hundred individuals, but usually live in groups of 10–20 individuals. 
 > The capybara is hunted for its meat and hide and also for grease from its thick fatty skin.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Capybara)
+> [Wikipedia](https://en.wikipedia.org/wiki/Capybara) 
 
 
 ## Confidential Links & Embeds: 

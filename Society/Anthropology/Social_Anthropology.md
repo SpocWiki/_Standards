@@ -15,7 +15,7 @@
 > In the United States, social anthropology is commonly subsumed 
 > within cultural anthropology or sociocultural anthropology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Social%20anthropology)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Social%20anthropology) 
 
 
 ## Confidential Links & Embeds: 

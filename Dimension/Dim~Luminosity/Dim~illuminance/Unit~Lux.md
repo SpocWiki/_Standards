@@ -56,8 +56,6 @@ unit_symbol:
 > [Wikipedia](https://en.wikipedia.org/wiki/Lux) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Dimension/Dim~Luminosity/Dim~illuminance/Unit~Lux|Unit~Lux]] 

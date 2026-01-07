@@ -26,7 +26,8 @@
 > Meta added virtual assistant features to Facebook and WhatsApp in select regions, 
 > and a standalone website. Both services use a Llama 3 model.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Llama%20(language%20model))
+> [Wikipedia](https://en.wikipedia.org/wiki/Llama%20(language%20model)) 
+
 
 The Training Code and Corpus  itself is closed. 
 

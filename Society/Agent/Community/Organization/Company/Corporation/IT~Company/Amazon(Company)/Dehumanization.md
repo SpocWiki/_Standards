@@ -7,7 +7,7 @@
 > 
 > Dehumanization is one form of incitement to genocide. It has also been used to justify war, judicial and extrajudicial killing, slavery, the confiscation of property, denial of suffrage and other rights, and to attack enemies or political opponents.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dehumanization)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dehumanization) 
 
 
 Partition of Work and [[Exploitation]] without Attribution can lead to [[Dehumanization]]. 

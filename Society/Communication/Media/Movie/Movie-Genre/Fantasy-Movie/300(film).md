@@ -4,7 +4,6 @@
 
 ## #has_/text_of_/abstract 
 
-
 > 300 is a 2006 American epic historical action film directed by Zack Snyder, 
 > who co-wrote the screenplay with Kurt Johnstad and Michael B. Gordon, 
 > based on the 1998 comic book limited series of the same name by [[../Movie-Directors/Miller,Frank]] and Lynn Varley. 
@@ -37,7 +36,7 @@
 > based on Miller's previously unpublished graphic novel prequel Xerxes, 
 > was released on March 7, 2014.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/300%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/300%20(film)) 
 
 
 ## Confidential Links & Embeds: 

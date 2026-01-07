@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0532-02-25 
+location: [ 28.98 , 41.008333333 ] 
 aliases:
   - Hagia Sophia
   - Hagia_Sophia

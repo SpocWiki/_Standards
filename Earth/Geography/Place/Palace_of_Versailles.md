@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1661-01-01 
+location: [ 2.120277777 , 48.804722222 ] 
 aliases:
   - Palace of Versailles
   - Palace_of_Versailles

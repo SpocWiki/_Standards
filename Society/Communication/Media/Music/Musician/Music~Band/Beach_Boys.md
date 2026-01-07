@@ -9,9 +9,7 @@
 >
 > The Beach Boys are one of the most critically acclaimed and commercially successful bands of all time, selling over 100 million records worldwide. They helped legitimize popular music as a recognized art form, and influenced the development of music genres and movements such as psychedelia, power pop, progressive rock, punk, alternative, and lo-fi. Between the 1960s and 2020s, the group had 37 songs reach the U.S. Top 40 of the Billboard Hot 100 (the most by an American band), with four topping the chart. In 2004, the group was ranked number 12 on Rolling Stone's list of the greatest artists of all time, the highest ranking of any American band. Many critics' polls have ranked Surfer Girl (1963), The Beach Boys Today! (1965), Pet Sounds, Smiley Smile, Wild Honey (both 1967), Friends (1968), Sunflower (1970), Surf's Up (1971), and the archival compilation box set The Smile Sessions (2011) among the finest albums in history. The founding members were inducted into the Rock and Roll Hall of Fame in 1988.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Beach%20Boys)
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Beach%20Boys) 
 
 
 ## Confidential Links & Embeds: 

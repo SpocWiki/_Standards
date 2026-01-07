@@ -66,7 +66,6 @@ Unicode_character: 鑪
 
 ## #has_/text_of_/abstract 
 
-
 > **Rutherfordium** is a chemical element with the symbol (Abbr::Ru) and atomic number 104, 
 > named after New Zealand-born British physicist Ernest Rutherford. 
 > 
@@ -92,7 +91,7 @@ Unicode_character: 鑪
 > that the International Union of Pure and Applied Chemistry (IUPAC) 
 > established rutherfordium as the official name of the element.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rutherfordium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rutherfordium) 
 
 
 ## Confidential Links & Embeds: 

@@ -33,7 +33,7 @@ aliases:
 > or three-dimensional space, but can be easily generalized 
 > to Euclidean spaces and affine spaces of any dimension.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Position%20(geometry))
+> [Wikipedia](https://en.wikipedia.org/wiki/Position%20(geometry)) 
 
 
 ## Confidential Links & Embeds: 

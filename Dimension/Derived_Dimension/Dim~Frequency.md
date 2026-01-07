@@ -53,7 +53,8 @@ Wikidata_property: frequency
 >
 > For example, if a heart beats at a frequency of 120 times per minute (2 hertz), the period—the time interval between beats—is half a second (60 seconds divided by 120).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Frequency)
+> [Wikipedia](https://en.wikipedia.org/wiki/Frequency) 
+
 
 The Frequency is the number of Events within a [[../Dim~Time|Dim~Time]]- Interval. 
 

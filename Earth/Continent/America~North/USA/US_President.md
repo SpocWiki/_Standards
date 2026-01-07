@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1787-04-30 
 aliases:
   - POTUS
 has_id_wikidata: Q11696
@@ -149,9 +150,7 @@ Dreadnought_Project_page: President_of_the_United_States
 > In all, 45 individuals have served 47 presidencies spanning 60 four-year terms. 
 > Donald Trump is the 47th and current president since January 20, 2025.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/President%20of%20the%20United%20States)
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/President%20of%20the%20United%20States) 
 
 
 ## Confidential Links & Embeds: 

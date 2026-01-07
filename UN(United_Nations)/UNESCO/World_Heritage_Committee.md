@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1977-01-01 
 aliases:
 has_id_wikidata: Q1147477
 instance_of: "[[_Standards/WikiData/WD~panel,938236]]"

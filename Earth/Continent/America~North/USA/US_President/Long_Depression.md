@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1873-01-01 
 aliases:
   - Long Depression
   - Long_Depression

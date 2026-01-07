@@ -201,7 +201,7 @@ ISNI: 0000000108983070
 > - the Wolf Prize in Mathematics in 2001 and 
 > - the Shaw Prize in 2008 (with Ludwig Faddeev).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Arnold)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Vladimir%20Arnold) 
 
 
 ## Confidential Links & Embeds: 

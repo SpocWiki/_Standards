@@ -132,7 +132,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_logic,7112678]]'
 > Deviant logics, on the other hand, reject certain classical intuitions 
 > and provide alternative explanations of the basic laws of logic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Logic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Logic) 
 
 
 ## Confidential Links & Embeds: 

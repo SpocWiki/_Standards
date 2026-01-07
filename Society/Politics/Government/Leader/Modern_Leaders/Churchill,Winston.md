@@ -313,7 +313,7 @@ writing_language:
 > in addition to some wartime decisions such as area bombing, 
 > but historians nevertheless rank Churchill as one of the greatest British prime ministers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Winston%20Churchill)
+> [Wikipedia](https://en.wikipedia.org/wiki/Winston%20Churchill) 
 
 
 ## Confidential Links & Embeds: 

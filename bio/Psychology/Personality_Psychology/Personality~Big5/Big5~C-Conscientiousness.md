@@ -46,6 +46,7 @@ conscientiousness (C) measures self-control, diligence, and attention to detail.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Conscientiousness) 
 
+
 ## Gewissenhaftigkeit 
 
 ### Ordnungsliebe 

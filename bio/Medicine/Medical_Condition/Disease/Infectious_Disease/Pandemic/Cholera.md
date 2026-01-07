@@ -105,7 +105,7 @@ exact_match:
 >
 > Cholera continues to affect an estimated 3–5 million people worldwide and causes 28,800–130,000 deaths a year. To date, seven cholera pandemics have occurred, with the most recent beginning in 1961, and continuing today. The illness is rare in high-income countries, and affects children most severely. Cholera occurs as both outbreaks and chronically in certain areas. Areas with an ongoing risk of disease include Africa and Southeast Asia. The risk of death among those affected is usually less than 5%, given improved treatment, but may be as high as 50% without such access to treatment. Descriptions of cholera are found as early as the 5th century BCE in Sanskrit literature. In Europe, cholera was a term initially used to describe any kind of gastroenteritis, and was not used for this disease until the early 19th century. The study of cholera in England by John Snow between 1849 and 1854 led to significant advances in the field of epidemiology because of his insights about transmission via contaminated water, and a map of the same was the first recorded incidence of epidemiological tracking.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cholera)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cholera) 
 
 
 ## Confidential Links & Embeds: 

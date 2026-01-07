@@ -206,7 +206,7 @@ ISNI: 0000000121441970
 >
 > While many other authors had published works of fantasy before Tolkien, the tremendous success of The Hobbit and The Lord of the Rings ignited a profound interest in the fantasy genre and ultimately precipitated an avalanche of new fantasy books and authors. As a result he has been popularly identified as the "father" of modern fantasy literature and is widely regarded as one of the most influential authors of all time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/J.%20R.%20R.%20Tolkien)
+> [Wikipedia](https://en.wikipedia.org/wiki/J.%20R.%20R.%20Tolkien) 
 
 
 ## Confidential Links & Embeds: 

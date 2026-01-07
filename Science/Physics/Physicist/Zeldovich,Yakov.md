@@ -110,7 +110,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Yakov%20Zeldovich%2C%2
 >
 > From 1943, Zeldovich, a self-taught physicist, started his career by playing a crucial role in the development of the former Soviet program of nuclear weapons. In 1963, he returned to academia to embark on pioneering contributions on the fundamental understanding of the thermodynamics of black holes and expanding the scope of physical cosmology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yakov%20Zeldovich)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Yakov%20Zeldovich) 
 
 
 ## Confidential Links & Embeds: 

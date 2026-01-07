@@ -18,7 +18,7 @@ aliases:
 >
 > Paracetamol (acetaminophen) inhibits COX-2 almost exclusively within the brain and only minimally in the rest of the body, although it is not considered an NSAID, since it has only minor anti-inflammatory activity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cyclooxygenase-2%20inhibitor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cyclooxygenase-2%20inhibitor) 
 
 
 ## Confidential Links & Embeds: 

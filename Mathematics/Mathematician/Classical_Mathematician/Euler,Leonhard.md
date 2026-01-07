@@ -253,7 +253,7 @@ writing_language:
 > Carl Friedrich Gauss wrote: "The study of Euler's works will remain the best school 
 > for the different fields of mathematics, and nothing else can replace it."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Leonhard%20Euler)
+> [Wikipedia](https://en.wikipedia.org/wiki/Leonhard%20Euler) 
 
 
 ## Confidential Links & Embeds: 

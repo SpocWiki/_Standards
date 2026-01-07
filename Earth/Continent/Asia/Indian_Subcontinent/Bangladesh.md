@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 89.866666666 , 24.016666666 ] 
 aliases:
   - Bangladesh
   - بنغلاديش
@@ -556,7 +557,7 @@ Capital :: [[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka]]
 >
 > Bangladesh is a unitary parliamentary republic based on the Westminster system. It is a middle power with the second-largest economy in South Asia. Bangladesh is home to the third-largest Muslim-majority population and the fifth-most spoken native language. It maintains the third-largest military in South Asia and is the largest contributor to UN peacekeeping operations. It consists of eight divisions, 64 districts, and 495 sub districts, and includes the largest mangrove forest in the world. However, Bangladesh has one of the largest refugee populations in the world and continues to face challenges such as corruption, political instability, overpopulation, and the effects of climate change. It has twice chaired the Climate Vulnerable Forum and hosts the headquarters of the BIMSTEC. Bangladesh is also a founding member of SAARC and a member of the OIC and the Commonwealth of Nations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bangladesh)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bangladesh) 
 
 
 ## Confidential Links & Embeds: 

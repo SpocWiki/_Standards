@@ -15,7 +15,7 @@
 >
 > Bob Fabry, University of Chicago, was responsible for COMIT II on Compatible Time Sharing System.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/COMIT)
+> [Wikipedia](https://en.wikipedia.org/wiki/COMIT) 
 
 
 ## Confidential Links & Embeds: 

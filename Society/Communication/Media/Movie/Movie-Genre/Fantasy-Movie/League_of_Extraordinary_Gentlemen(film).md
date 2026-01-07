@@ -32,7 +32,7 @@
 > and earning rental revenue of $48.6 million 
 > and DVD sales (as of 2003) of $36.4 million, against its $78 million budget.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20League%20of%20Extraordinary%20Gentlemen%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20League%20of%20Extraordinary%20Gentlemen%20(film)) 
 
 
 ## Confidential Links & Embeds: 

@@ -45,7 +45,7 @@ Commons_category: Functional groups
 >
 > Combining the names of functional groups with the names of the parent alkanes generates what is termed a systematic nomenclature for naming organic compounds. In traditional nomenclature, the first carbon atom after the carbon that attaches to the functional group is called the alpha carbon; the second, beta carbon, the third, gamma carbon, etc. If there is another functional group at a carbon, it may be named with the Greek letter, e.g., the gamma-amine in gamma-aminobutyric acid is on the third carbon of the carbon chain attached to the carboxylic acid group. IUPAC conventions call for numeric labeling of the position, e.g. 4-aminobutanoic acid. In traditional names various qualifiers are used to label isomers, for example, isopropanol (IUPAC name: propan-2-ol) is an isomer of n-propanol (propan-1-ol). The term moiety has some overlap with the term "functional group". However, a moiety is an entire "half" of a molecule, which can be not only a single functional group, but also a larger unit consisting of multiple functional groups. For example, an "aryl moiety" may be any group containing an aromatic ring, regardless of how many functional groups the said aryl has.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Functional%20group)
+> [Wikipedia](https://en.wikipedia.org/wiki/Functional%20group) 
 
 
 ## Confidential Links & Embeds: 

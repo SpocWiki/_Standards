@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1769-01-01 
+has_time_stopped: 1854-07-05 
 aliases:
   - Mechanical Turk
   - Mechanical_Turk
@@ -81,7 +83,7 @@ inception: 1769-01-01T00:00:00Z
 > William Lewis, Jacques Mouret, and William Schlumberger, 
 > but the operators within the mechanism during Kempelen's original tour remain unknown.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mechanical%20Turk)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mechanical%20Turk) 
 
 
 ## Confidential Links & Embeds: 

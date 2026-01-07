@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1972-01-01 
 aliases:
 has_id_wikidata: Q15777
 media_type:
@@ -104,7 +105,7 @@ by Martin Richards at MIT. BCPL introduced curly Braces.
 >
 > C is an imperative procedural language, supporting structured programming, lexical variable scope, and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support. Despite its low-level capabilities, the language was designed to encourage cross-platform programming. A standards-compliant C program written with portability in mind can be compiled for a wide variety of computer platforms and operating systems with few changes to its source code. Since 2000, C has consistently ranked among the top two languages in the TIOBE index, a measure of the popularity of programming languages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/C%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/C%20(programming%20language)) 
 
 
 C is ubiquitous, because it is a Systems Programming Language 

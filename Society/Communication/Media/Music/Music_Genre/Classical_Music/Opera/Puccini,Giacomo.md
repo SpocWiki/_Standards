@@ -109,7 +109,6 @@ IPI_name_number: 00025018029
 
 ## #has_/text_of_/abstract 
 
-
 > Giacomo Antonio Domenico Michele Secondo Maria Puccini (22 December 1858 –  29 November 1924) 
 > was an Italian composer known primarily for his operas. 
 > 
@@ -124,7 +123,7 @@ IPI_name_number: 00025018029
 > all of which are among the most frequently performed and recorded in the entirety 
 > of the operatic repertoire.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Giacomo%20Puccini)
+> [Wikipedia](https://en.wikipedia.org/wiki/Giacomo%20Puccini) 
 
 
 Puccini verwendete das Orchester um die Wirkung der Stimmen zu verstärken. 

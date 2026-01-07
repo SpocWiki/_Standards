@@ -95,7 +95,7 @@ Krugosvet_article_archived_: medicina/PSIHIATRIYA.html
 > influence from the pharmaceutical industry, 
 > and its historical role in social control and contentious treatments.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Psychiatry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Psychiatry) 
 
 
 ## Confidential Links & Embeds: 

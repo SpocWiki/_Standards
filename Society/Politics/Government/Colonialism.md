@@ -69,7 +69,7 @@ UMLS_CUI: C0009372
 > to describe the continuation or imposition of elements of colonial rule 
 > through indirect means in the contemporary period.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Colonialism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Colonialism) 
 
 
 ## Confidential Links & Embeds: 

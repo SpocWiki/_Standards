@@ -27,7 +27,7 @@
 > its supreme decision-making body, which meets once a year. 
 > The organisation also contains the Regional Anti-Terrorist Structure (RATS).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Shanghai%20Cooperation%20Organisation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Shanghai%20Cooperation%20Organisation) 
 
 
 ## Confidential Links & Embeds: 

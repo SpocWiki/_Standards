@@ -20,7 +20,7 @@ aliases:
 > Among the group's most popular songs are "I Wouldn't Want to Be Like You", 
 > "Games People Play", "Time", "Sirius"/"Eye in the Sky", and "Don't Answer Me".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Alan%20Parsons%20Project)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Alan%20Parsons%20Project) 
 
 
 ## Confidential Links & Embeds: 

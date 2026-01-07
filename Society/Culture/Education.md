@@ -147,7 +147,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/education
 > In prehistory, education primarily occurred informally through oral communication and imitation. 
 > With the emergence of ancient civilizations, the invention of writing led to an expansion of knowledge, prompting a transition from informal to formal education. Initially, formal education was largely accessible to elites and religious groups. The advent of the printing press in the 15th century facilitated widespread access to books, thus increasing general literacy. In the 18th and 19th centuries, public education gained significance, paving the way for the global movement to provide primary education to all, free of charge, and compulsory up to a certain age. Presently, over 90% of primary-school-age children worldwide attend primary school.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Education)
+> [Wikipedia](https://en.wikipedia.org/wiki/Education) 
 
 
 ## Learnings 

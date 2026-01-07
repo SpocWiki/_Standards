@@ -116,7 +116,6 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Moon"]
 
 ## #has_/text_of_/abstract 
 
-
 > The **Moon** is Earth's only natural satellite. 
 > It orbits at an average distance of 384,400 km (238,900 mi), about 30 times the diameter of Earth. 
 > Over time Earth's gravity has caused tidal locking, 
@@ -170,7 +169,7 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Moon"]
 > Since then, exploration of the Moon has continued robotically, 
 > and crewed missions are being planned to return beginning in the late 2020s.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Moon)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Moon) 
 
 
 ## Confidential Links & Embeds: 

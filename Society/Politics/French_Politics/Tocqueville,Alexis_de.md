@@ -130,7 +130,7 @@ Libris_URI: 0xbdf66j3xfhnj9
 > and the complex and restless nature of his liberalism 
 > has led to contrasting interpretations and admirers across the political spectrum.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alexis%20de%20Tocqueville)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alexis%20de%20Tocqueville) 
 
 
 ## Confidential Links & Embeds: 

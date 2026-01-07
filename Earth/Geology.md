@@ -75,7 +75,7 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Geology,15077486]]'
 >
 > Geologists broadly study the properties and processes of Earth and other terrestrial planets. Geologists use a wide variety of methods to understand the Earth's structure and evolution, including fieldwork, rock description, geophysical techniques, chemical analysis, physical experiments, and numerical modelling. In practical terms, geology is important for mineral and hydrocarbon exploration and exploitation, evaluating water resources, understanding natural hazards, remediating environmental problems, and providing insights into past climate change. Geology is a major academic discipline, and it is central to geological engineering and plays an important role in geotechnical engineering.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Geology)
+> [Wikipedia](https://en.wikipedia.org/wiki/Geology) 
 
 
 ## Confidential Links & Embeds: 

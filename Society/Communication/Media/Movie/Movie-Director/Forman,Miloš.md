@@ -144,7 +144,7 @@ Plex_person_key: 5d776825151a60001f24a6c5
 > Loves of a Blonde (1965), [[../Movie-Genre/Horror-Movie/Hair(1978)]], Ragtime (1981), [[../Movie-Genre/Horror-Movie/Valmont(1989)]], 
 > The [[People vs. Larry Flynt]] (1996) and [[../Movie-Genre/Horror-Movie/Man_on_the_Moon(film)]] (1999).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Milo%C5%A1%20Forman)
+> [Wikipedia](https://en.wikipedia.org/wiki/Milo%C5%A1%20Forman) 
 
 
 ## Confidential Links & Embeds: 

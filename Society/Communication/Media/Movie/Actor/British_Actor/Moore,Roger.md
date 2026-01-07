@@ -41,7 +41,7 @@ aliases:
 >
 > Moore was appointed a UNICEF Goodwill Ambassador in 1991 and was knighted by Queen Elizabeth II in 2003 for services to charity. In 2007, he received a star on the Hollywood Walk of Fame for his contributions to the film industry. He was made a Commander of the Order of Arts and Letters by the French government in 2008.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Moore)
+> [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Moore) 
 
 
 ## Confidential Links & Embeds: 

@@ -300,7 +300,7 @@ writing_language:
 > and still influences contemporary analytic philosophy, 
 > such as its adopted use of the term "possible world" to define modal notions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gottfried%20Wilhelm%20Leibniz)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gottfried%20Wilhelm%20Leibniz) 
 
 
 ## Confidential Links & Embeds: 

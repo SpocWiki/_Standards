@@ -117,7 +117,6 @@ GenBank_assembly_accession_number: GCA_006408695.1
 > [Wikipedia](https://en.wikipedia.org/wiki/Impala) 
 
 
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -233,7 +233,7 @@ writing_language:
 > Its Preface was a prescient poem by Ben Jonson, a former rival of Shakespeare, 
 > who hailed Shakespeare with the now famous epithet: "not of an age, but for all time".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/William%20Shakespeare)
+> [Wikipedia](https://en.wikipedia.org/wiki/William%20Shakespeare) 
 
 
 ## Confidential Links & Embeds: 

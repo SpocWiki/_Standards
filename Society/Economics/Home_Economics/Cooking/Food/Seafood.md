@@ -48,7 +48,7 @@ OpenStreetMap_tag: cuisine=seafood
 >
 > The harvesting of wild seafood is usually known as fishing or hunting, while the cultivation and farming of seafood is known as aquaculture and fish farming (in the case of fish). Most of the seafood harvest is consumed by humans, but a significant proportion is used as fish food to farm other fish or rear farm animals. Some seafoods (i.e. kelp) are used as food for other plants (a fertilizer). In these ways, seafoods are used to produce further food for human consumption. Also, products such as fish oil, spirulina tablets, fish collagen, and chitin are made from seafoods. Some seafood is fed to aquarium fish, or used to feed domestic pets such as cats. A small proportion is used in medicine or is used industrially for nonfood purposes (e.g. leather).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Seafood)
+> [Wikipedia](https://en.wikipedia.org/wiki/Seafood) 
 
 
 ## Confidential Links & Embeds: 

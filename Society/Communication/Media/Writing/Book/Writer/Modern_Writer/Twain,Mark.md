@@ -215,7 +215,7 @@ writing_language:
 > they came in together, they must go out together.'" 
 > He died a day after the comet was at its closest to Earth.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mark%20Twain)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mark%20Twain) 
 
 
 ## Confidential Links & Embeds: 

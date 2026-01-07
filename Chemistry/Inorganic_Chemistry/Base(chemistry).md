@@ -49,7 +49,7 @@ subclass_of:
 >
 > Some other definitions of both bases and acids have been proposed in the past, but are not commonly used today.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Base%20(chemistry))
+> [Wikipedia](https://en.wikipedia.org/wiki/Base%20(chemistry)) 
 
 
 ## Confidential Links & Embeds: 

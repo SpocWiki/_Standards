@@ -22,7 +22,7 @@ aliases:
 >
 > The joining of monosaccharides into a double sugar happens by a condensation reaction, which involves the elimination of a water molecule from the functional groups only. Breaking apart a double sugar into its two monosaccharides is accomplished by hydrolysis with the help of a type of enzyme called a disaccharidase. As building the larger sugar ejects a water molecule, breaking it down consumes a water molecule. These reactions are vital in metabolism. Each disaccharide is broken down with the help of a corresponding disaccharidase (sucrase, lactase, and maltase).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Disaccharide)
+> [Wikipedia](https://en.wikipedia.org/wiki/Disaccharide) 
 
 
 ## Confidential Links & Embeds: 

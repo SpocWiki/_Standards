@@ -20,7 +20,7 @@
 > and papers on the theory of real numbers, 
 > an area in which he extended the research begun by[[Dedekind,Richard]]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gregorio%20Ricci-Curbastro)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gregorio%20Ricci-Curbastro) 
 
 
 ## Confidential Links & Embeds: 

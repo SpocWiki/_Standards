@@ -45,7 +45,8 @@ aliases:
 > In 2022, Time named her one of the world's 100 most influential people on its annual listicle 
 > and its Icon of the Year. In 2024, she received the Presidential Medal of Freedom.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michelle%20Yeoh)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michelle%20Yeoh) 
+
 
 [[Tony_Leung_Chiu-wai]] 
 

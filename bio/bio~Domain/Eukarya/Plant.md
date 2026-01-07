@@ -143,7 +143,7 @@ The scientific study of plants is known as [[../../Botany|botany]], a branch of 
 > People use plants for many purposes, such as building materials, 
 > ornaments, writing materials, and, in great variety, for medicines. 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Plant)
+> [Wikipedia](https://en.wikipedia.org/wiki/Plant) 
 
 
 ## Introduction

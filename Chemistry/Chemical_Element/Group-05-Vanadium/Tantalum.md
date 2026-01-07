@@ -115,7 +115,6 @@ ZVG_number: 8440
 
 ## #has_/text_of_/abstract 
 
-
 > **Tantalum** is a chemical element with the symbol (Abbr::Ta) and atomic number (Charge-e::73). 
 > Previously known as tantalium, it is named after Tantalus, a figure in Greek mythology. 
 > 
@@ -136,7 +135,7 @@ ZVG_number: 8440
 > The Vander Waals radius for the atoms of the Tantalum element is 220 pm 
 > and the ChemSpider ID of the Tantalum element is 22395.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tantalum)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tantalum) 
 
 
 ## Confidential Links & Embeds: 

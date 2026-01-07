@@ -151,7 +151,7 @@ work_period_start_: 1685
 > Many of Vivaldi's compositions, once thought lost, have been rediscovered – some as recently as 2015. 
 > His music remains widely popular in the present day and is regularly played all over the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Antonio%20Vivaldi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Antonio%20Vivaldi) 
 
 
 ## Confidential Links & Embeds: 

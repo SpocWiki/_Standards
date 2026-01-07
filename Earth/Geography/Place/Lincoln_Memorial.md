@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1922-05-30 
 aliases:
   - Lincoln Memorial
   - Lincoln_Memorial

@@ -38,7 +38,9 @@ direction LR
 > - The composition of surjective functions is always surjective. 
 > - Any function can be decomposed into a surjection and an injection.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Surjective%20function)
+> [Wikipedia](https://en.wikipedia.org/wiki/Surjective%20function) 
+
+
 [[../../../Knowledge/Math/Combinatorics/Twelvefold_way]]] 
 
 

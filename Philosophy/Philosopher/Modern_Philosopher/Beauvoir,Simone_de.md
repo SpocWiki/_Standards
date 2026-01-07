@@ -151,7 +151,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > However, Beauvoir generated controversy when she briefly lost her teaching job 
 > after being accused of sexually abusing some of her students.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Simone%20de%20Beauvoir)
+> [Wikipedia](https://en.wikipedia.org/wiki/Simone%20de%20Beauvoir) 
 
 
 ## Confidential Links & Embeds: 

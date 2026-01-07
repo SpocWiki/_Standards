@@ -31,7 +31,7 @@ aliases:
 > In 2007, Rubin was called "the most important producer of the last 20 years" by MTV 
 > and was named on Time's list of the "100 Most Influential People in the World".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rick%20Rubin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rick%20Rubin) 
 
 
 ## Confidential Links & Embeds: 

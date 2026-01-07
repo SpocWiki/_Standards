@@ -54,7 +54,7 @@ RTECS_number: VV8760000
 >
 > Micas are used in products such as drywalls, paints, and fillers, especially in parts for automobiles, roofing, and in electronics. The mineral is used in cosmetics and food to add "shimmer" or "frost".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mica)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Mica) 
 
 
 ## Confidential Links & Embeds: 

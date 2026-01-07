@@ -142,7 +142,7 @@ work_period_start_: 1877-01-01T00:00:00Z
 > Hamsun's last book, On Overgrown Paths, authored in semi-imprisonment in Landvik, 
 > concerned his treatment and rebuttal of accusations of his mental ineptness.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Knut%20Hamsun)
+> [Wikipedia](https://en.wikipedia.org/wiki/Knut%20Hamsun) 
 
 
 ## Confidential Links & Embeds: 

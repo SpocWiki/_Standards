@@ -20,7 +20,7 @@
 >
 > Amazon has been criticized for customer data collection practices, a toxic work culture, censorship, tax avoidance, and anti-competitive behavior.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20(company))
+> [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20(company)) 
 
 
 ## Confidential Links & Embeds: 

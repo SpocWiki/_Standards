@@ -24,6 +24,7 @@ title: Planctomycetes
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Planctomycetota) 
 
+
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -47,8 +47,6 @@ Commons_category: Independence movements
 > [Wikipedia](https://en.wikipedia.org/wiki/Separatism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Separatism|Separatism]] 

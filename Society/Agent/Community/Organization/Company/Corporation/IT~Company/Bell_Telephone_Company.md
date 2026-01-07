@@ -36,7 +36,8 @@ aliases:
 > 
 > The Baby Bells became independent companies and several of them are large corporations today.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bell%20System)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bell%20System) 
+
 
 AT&T started with [Bell Patent Association](https://en.wikipedia.org/wiki/Bell_Patent_Association "Bell Patent Association"), a legal entity established in 1874 
 to protect the patent rights o[[../../../../../../../../Knowledge/Science/Scientist/Bell,Alexander_Graham]] after he invented the telephone system. 

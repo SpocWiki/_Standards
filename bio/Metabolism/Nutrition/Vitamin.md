@@ -75,7 +75,7 @@ Since Lemons were too expensive and perishable,
 >
 > All the vitamins were discovered between 1913 and 1948. Historically, when intake of vitamins from diet was lacking, the results were vitamin deficiency diseases. Then, starting in 1935, commercially produced tablets of yeast-extract vitamin B complex and semi-synthetic vitamin C became available. This was followed in the 1950s by the mass production and marketing of vitamin supplements, including multivitamins, to prevent vitamin deficiencies in the general population. Governments have mandated the addition of some vitamins to staple foods such as flour or milk, referred to as food fortification, to prevent deficiencies. Recommendations for folic acid supplementation during pregnancy reduced risk of infant neural tube defects.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vitamin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vitamin) 
 
 
 | Vit | Key Functions                                   | Slv | Alternative Names          | Common Food Sources                  |

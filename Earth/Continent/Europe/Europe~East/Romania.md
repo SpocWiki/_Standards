@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 25.0 , 46.0 ] 
 aliases:
   - Romania
   - Rumania
@@ -548,7 +549,7 @@ Capital :: [[Bukarest]]
 >
 > Romania is a developing country with a high-income economy, recognized as a middle power in international affairs. It is a unitary republic with a multi-party system and a semi-presidential representative democracy. It is home to 11 UNESCO World Heritage Sites and has become an increasingly popular tourist destination, attracting 14 million foreign visitors in 2024. Romania is a net exporter of automotive and vehicle parts worldwide and has established a growing reputation as a technology center, with some of the fastest internet speeds globally. Romania is a member of several international organizations, including the European Union, NATO, and the BSEC.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Romania)
+> [Wikipedia](https://en.wikipedia.org/wiki/Romania) 
 
 
 ## Confidential Links & Embeds: 

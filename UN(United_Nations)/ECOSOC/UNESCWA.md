@@ -15,7 +15,7 @@ aliases:
 > The Commission works closely with the divisions of the Headquarters in New York and United Nations specialized agencies, as well as with international and regional organizations. 
 > Some of its regional partners include: the League of Arab States, the Gulf Cooperation Council and the Organisation of Islamic Cooperation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20and%20Social%20Commission%20for%20Western%20Asia)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20and%20Social%20Commission%20for%20Western%20Asia) 
 
 
 ## Confidential Links & Embeds: 

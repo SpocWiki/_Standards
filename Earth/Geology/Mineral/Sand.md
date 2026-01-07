@@ -66,7 +66,7 @@ OpenStreetMap_tag: resource=sand
 >
 > Sand is a non-renewable resource over human timescales, and sand suitable for making concrete is in high demand. Desert sand, although plentiful, is not suitable for concrete. Fifty billion tons of beach sand and fossil sand are used each year for construction.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sand)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Sand) 
 
 
 ## Confidential Links & Embeds: 

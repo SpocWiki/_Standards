@@ -35,7 +35,8 @@ aliases:
 > On March 29, 2023, Marvel Entertainment's operations, 
 > including Marvel Comics and Marvel Games, were folded into Disney's larger business units.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marvel%20Entertainment)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marvel%20Entertainment) 
+
 
 ## Exclusive 
 

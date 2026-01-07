@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1450-01-01 
+has_time_stopped: 1572-01-01 
 aliases:
   - Machu Picchu
   - Machu_Picchu

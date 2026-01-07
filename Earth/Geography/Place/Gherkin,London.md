@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2004-01-01 
 aliases:
   - Swiss Re Building
   - 30 Saint Mary Axe

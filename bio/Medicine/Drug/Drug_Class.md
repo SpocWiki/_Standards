@@ -81,7 +81,7 @@ common mechanisms of action, common physiological effects, etc.
 > A drug class is typically defined by a prototype drug, the most important, 
 > and typically the first developed drug within the class, used as a reference for comparison.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Drug%20class)
+> [Wikipedia](https://en.wikipedia.org/wiki/Drug%20class) 
 
 
 ## Confidential Links & Embeds: 

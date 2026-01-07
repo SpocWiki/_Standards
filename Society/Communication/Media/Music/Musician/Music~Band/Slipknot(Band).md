@@ -33,7 +33,7 @@
 > The band parted ways with Jones and Weinberg in 2023, 
 > with the latter being replaced by Eloy Casagrande the following year.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Slipknot%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Slipknot%20(band)) 
 
 
 ## Confidential Links & Embeds: 

@@ -43,7 +43,7 @@ Wikidata_usage_instructions: for ghosts from a work of fiction see Q30061299
 >
 > In folklore studies, ghosts fall within the motif index designation E200–E599 ("Ghosts and other revenants").
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ghost)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ghost) 
 
 
 ## Confidential Links & Embeds: 

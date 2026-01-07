@@ -103,7 +103,7 @@ short_name: S. bicolor
 >
 > Sorghum is the world's fifth-most important cereal crop after rice, wheat, maize, and barley. Sorghum is typically an annual, but some cultivars are perennial. It grows in clumps that may reach over 4 metres (13 ft) high. The grain is small, 2 to 4 millimetres (0.08 to 0.2 in) in diameter. Sweet sorghums are cultivars primarily grown for forage, syrup production, and ethanol. They are taller than those grown for grain.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sorghum)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sorghum) 
 
 
 ## Confidential Links & Embeds: 

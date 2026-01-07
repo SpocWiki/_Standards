@@ -8,7 +8,7 @@
 > Digimon, One Piece, Toriko, World Trigger, The Transformers (between 1984 and 1990, 
 > including several Japanese exclusive productions), and the Pretty Cure series.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Toei%20Animation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Toei%20Animation) 
 
 
 ## Confidential Links & Embeds: 

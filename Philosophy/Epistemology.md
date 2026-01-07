@@ -68,7 +68,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_epistemology,7112624]]'
 >
 > Early reflections on the nature, sources, and scope of knowledge are found in ancient Greek, Indian, and Chinese philosophy. The relation between reason and faith was a central topic in the medieval period. The modern era was characterized by the contrasting perspectives of empiricism and rationalism. Epistemologists in the 20th century examined the components, structure, and value of knowledge while integrating insights from the natural sciences and linguistics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Epistemology)
+> [Wikipedia](https://en.wikipedia.org/wiki/Epistemology) 
 
 
 ## Confidential Links & Embeds: 

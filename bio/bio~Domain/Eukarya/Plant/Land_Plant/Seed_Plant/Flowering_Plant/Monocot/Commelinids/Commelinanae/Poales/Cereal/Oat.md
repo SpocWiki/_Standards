@@ -228,7 +228,7 @@ water_footprint: 1788
 >
 > Oats are used for human consumption as oatmeal, including as steel cut oats or rolled oats. Global production is dominated by Canada and Russia; global trade is a small part of production, most of the grain being consumed within the producing countries. Oats are a nutrient-rich food associated with lower blood cholesterol and reduced risk of human heart disease when consumed regularly. One of the most common uses of oats is as livestock feed; the crop can also be grown as groundcover and ploughed in as a green manure.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Oat)
+> [Wikipedia](https://en.wikipedia.org/wiki/Oat) 
 
 
 ## Confidential Links & Embeds: 

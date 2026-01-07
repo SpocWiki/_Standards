@@ -159,7 +159,7 @@ ISNI: 0000000109142724
 > but also to predict the properties of three elements that were yet to be discovered 
 > (germanium, gallium and scandium).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dmitri%20Mendeleev)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dmitri%20Mendeleev) 
 
 
 ## Confidential Links & Embeds: 

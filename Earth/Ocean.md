@@ -125,7 +125,7 @@ long: 10
 >
 > The ocean provides many benefits to humans such as ecosystem services, access to seafood and other marine resources, and a means of transport. The ocean is known to be the habitat of over 230,000 species, but may hold considerably more – perhaps over two million species. Yet, the ocean faces many environmental threats, such as marine pollution, overfishing, and the effects of climate change. Those effects include ocean warming, ocean acidification and sea level rise. The continental shelf and coastal waters are most affected by human activity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ocean)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ocean) 
 
 
 ## Confidential Links & Embeds: 

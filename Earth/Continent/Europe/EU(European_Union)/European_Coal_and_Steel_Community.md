@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1951-04-18 
+has_time_stopped: 2002-07-23 
 aliases:
   - European Coal and Steel Community
   - ECSC

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1989-12-17 
 aliases:
   - The_Simpsons
   - The Simpsons
@@ -297,7 +298,7 @@ official_website: https://www.fox.com/the-simpsons/
 > Homer's exclamatory catchphrase of "D'oh!" has been adopted into the English language, 
 > while The Simpsons has influenced many other later adult-oriented animated sitcom television series.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Simpsons)  
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Simpsons) 
 
 
 ## Confidential Links & Embeds: 

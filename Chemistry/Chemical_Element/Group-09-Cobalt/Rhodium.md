@@ -104,7 +104,6 @@ ZVG_number: 7450
 
 ## #has_/text_of_/abstract 
 
-
 > **Rhodium** is a chemical element with the symbol (Abbr::Rh) and atomic number (Charge-e::45). 
 > It is a very rare, silvery-white, hard, corrosion-resistant transition metal. 
 > It is a noble metal and a member of the platinum group. 
@@ -137,7 +136,7 @@ ZVG_number: 7450
 > Other uses of rhodium include asymmetric hydrogenation used to form drug precursors 
 > and the processes for the production of acetic acid.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rhodium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rhodium) 
 
 
 ## Confidential Links & Embeds: 

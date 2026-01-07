@@ -54,7 +54,7 @@ aliases:
 > in movies, literature, politics and, to quote the title of his 2011 autobiography, Life Itself." 
 > In 2014, [[Life Itself]] was adapted as a documentary of the same title.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Ebert)
+> [Wikipedia](https://en.wikipedia.org/wiki/Roger%20Ebert) 
 
 
 ## Confidential Links & Embeds: 

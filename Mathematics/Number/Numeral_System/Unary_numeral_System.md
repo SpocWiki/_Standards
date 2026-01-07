@@ -32,7 +32,7 @@ b0+b1 * 1^1 + b2 * 1^2 + ...
 > which are also written as sequences of ones 
 > but have their usual decimal numerical interpretation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Unary%20numeral%20system)
+> [Wikipedia](https://en.wikipedia.org/wiki/Unary%20numeral%20system) 
 
 
 ## Confidential Links & Embeds: 

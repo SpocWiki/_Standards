@@ -73,7 +73,7 @@ short_name: PsA
 >   (though still too faint to see with the naked eye); and 
 > - PKS 2155-304, a BL Lacertae object that is one of the optically brightest blazars in the sky.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Piscis%20Austrinus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Piscis%20Austrinus) 
 
 
 ## Confidential Links & Embeds: 

@@ -168,7 +168,7 @@ Modern OS run in 2 Hardware-supported Modes:
 >
 > Some operating systems require installation or may come pre-installed with purchased computers (OEM-installation), whereas others may run directly from media (i.e. live CD) or flash memory (i.e. USB stick).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Operating%20system)
+> [Wikipedia](https://en.wikipedia.org/wiki/Operating%20system) 
 
 
 ## All Contents

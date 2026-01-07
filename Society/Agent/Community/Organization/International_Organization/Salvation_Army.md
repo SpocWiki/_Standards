@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1865-07-02 
 aliases:
   - The_Salvation_Army
   - Salvation_Army

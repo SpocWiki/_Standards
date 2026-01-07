@@ -4,7 +4,6 @@
 
 ## #has_/text_of_/abstract 
 
-
 > **Elasmobranchii** is a subclass of Chondrichthyes or cartilaginous fish, 
 > including modern sharks (division Selachii), 
 > and batomorphs (division Batomorphi, including rays, skates, and sawfish). 

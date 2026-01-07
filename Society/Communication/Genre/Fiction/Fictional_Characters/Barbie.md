@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1959-03-09 
 aliases:
   - Barbie
 has_id_wikidata: Q167447

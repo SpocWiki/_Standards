@@ -61,7 +61,7 @@ UMLS_CUI: C0038126
 > The ISO 15510 standard lists the chemical compositions of stainless steels of the specifications 
 > in existing ISO, ASTM, EN, JIS, and GB standards in a useful interchange table.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Stainless%20steel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Stainless%20steel) 
 
 
 ## Confidential Links & Embeds: 

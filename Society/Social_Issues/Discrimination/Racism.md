@@ -124,7 +124,7 @@ IMDb_keyword: racism
 >
 > Racism is frequently described as a relatively modern concept, evolving during the European age of imperialism, transformed by capitalism, and the Atlantic slave trade, of which it was a major driving force. It was also a major force behind racial segregation in the United States in the 19th and early 20th centuries, and of apartheid in South Africa; 19th and 20th-century racism in Western culture is particularly well documented and constitutes a reference point in studies and discourses about racism. Racism has played a role in genocides such as the Holocaust, the Armenian genocide, the Rwandan genocide, and the Genocide of Serbs in the Independent State of Croatia, as well as colonial projects including the European colonization of the Americas, Africa, Asia, and the population transfer in the Soviet Union including deportations of indigenous minorities. Indigenous peoples have been—and are—often subject to racist attitudes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Racism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Racism) 
 
 
 ## Confidential Links & Embeds: 

@@ -16,7 +16,7 @@
 > He preferred speaking German to Swedish his whole life, 
 > as German was commonly spoken among Swedish pharmacists.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Wilhelm%20Scheele)
+> [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Wilhelm%20Scheele) 
 
 
 ## Confidential Links & Embeds: 

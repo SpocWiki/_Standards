@@ -49,7 +49,7 @@
 > who has not been part of the band since 1999. 
 > Styx sold over 20 million records for A&M between their signing in 1975 and 1984.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Styx%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Styx%20(band)) 
 
 
 ## Confidential Links & Embeds: 

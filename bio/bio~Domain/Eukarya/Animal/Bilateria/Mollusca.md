@@ -80,7 +80,8 @@ Snails, clams, mussels, squids, octopi, chitons, and tusk shells
 >
 > A handful of mollusc species are sometimes considered hazards or pests for human activities. The bite of the blue-ringed octopus is often fatal, and that of Enteroctopus dofleini causes inflammation that can last over a month. Stings from a few species of large tropical cone shells of the family Conidae can also kill, but their sophisticated, though easily produced, venoms have become important tools in neurological research. Schistosomiasis (also known as bilharzia, bilharziosis, or snail fever) is transmitted to humans by water snail hosts, and affects about 200 million people. Snails and slugs can also be serious agricultural pests, and accidental or deliberate introduction of some snail species into new environments has seriously damaged some ecosystems.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mollusca)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mollusca) 
+
 
 ## Phylogeny 
 

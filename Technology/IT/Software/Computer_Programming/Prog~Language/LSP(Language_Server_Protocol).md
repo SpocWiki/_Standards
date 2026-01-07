@@ -9,7 +9,8 @@
 > 
 > The goal of the protocol is to allow programming language support to be implemented and distributed independently of any given editor or IDE. In the early 2020s LSP quickly became a "norm" for language intelligence tools providers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Language%20Server%20Protocol)
+> [Wikipedia](https://en.wikipedia.org/wiki/Language%20Server%20Protocol) 
+
 
 Standard Compiler Protocol to feed back the Language Model to an Editor. 
 

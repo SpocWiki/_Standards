@@ -129,7 +129,7 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 >
 > The age of Constantine marked a distinct epoch in the history of the Roman Empire and a pivotal moment in the transition from classical antiquity to the Middle Ages. He built a new imperial residence in the city of Byzantium and renamed it New Rome, later adopting the name Constantinople after himself, where it was located in modern Istanbul. It subsequently became the capital of the empire for more than a thousand years, the later Eastern Roman Empire often being referred to in English as the Byzantine Empire, a term never used by the Empire, invented by German historian Hieronymus Wolf. His more immediate political legacy was that he replaced Diocletian's Tetrarchy with the de facto principle of dynastic succession by leaving the empire to his sons and other members of the Constantinian dynasty. His reputation flourished during the lifetime of his children and for centuries after his reign. The medieval church held him up as a paragon of virtue, while secular rulers invoked him as a prototype, a point of reference, and the symbol of imperial legitimacy and identity. At the beginning of the Renaissance, there were more critical appraisals of his reign with the rediscovery of anti-Constantinian sources. Trends in modern and recent scholarship have attempted to balance the extremes of previous scholarship.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Constantine%20the%20Great)
+> [Wikipedia](https://en.wikipedia.org/wiki/Constantine%20the%20Great) 
 
 
 ## Confidential Links & Embeds: 

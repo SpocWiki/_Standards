@@ -199,7 +199,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 >
 > While visiting Vienna in 1781, Mozart was dismissed from his Salzburg position. He stayed in Vienna, where he achieved fame but little financial security. During Mozart's early years in Vienna, he produced several notable works, such as the opera Die Entführung aus dem Serail, the Great Mass in C minor, the "Haydn" Quartets and a number of symphonies. Throughout his Vienna years, Mozart composed over a dozen piano concertos, many considered some of his greatest achievements. In the final years of his life, Mozart wrote many of his best-known works, including his last three symphonies, culminating in the Jupiter Symphony, the serenade Eine kleine Nachtmusik, his Clarinet Concerto, the four operas The Marriage of Figaro, Don Giovanni, Così fan tutte and The Magic Flute and his Requiem. The Requiem was largely unfinished at the time of his death at age 35, the circumstances of which are uncertain and much mythologised.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wolfgang%20Amadeus%20Mozart)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wolfgang%20Amadeus%20Mozart) 
 
 
 ## Confidential Links & Embeds: 

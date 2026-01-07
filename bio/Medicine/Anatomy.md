@@ -83,7 +83,7 @@ U_S_National_Archives_Identifier: 10666355
 >
 > The history of anatomy is characterized by a progressive understanding of the functions of the organs and structures of the human body. Methods have also improved dramatically, advancing from the examination of animals by dissection of carcasses and cadavers (corpses) to 20th-century medical imaging techniques, including X-ray, ultrasound, and magnetic resonance imaging.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Anatomy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Anatomy) 
 
 
 ## Confidential Links & Embeds: 

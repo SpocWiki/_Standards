@@ -150,7 +150,7 @@ It is one of the most common types of dementia, after [[Autoimmune_Disease/Alzhe
 > Dementia with Lewy bodies is marked by the presence of Lewy bodies in the cortical regions, 
 > and Parkinson's disease dementia with Lewy bodies primarily in the subcortical basal ganglia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lewy%20body%20dementia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lewy%20body%20dementia) 
 
 
 ## Confidential Links & Embeds: 

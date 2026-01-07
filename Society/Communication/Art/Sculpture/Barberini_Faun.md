@@ -18,7 +18,7 @@ aliases:
 > satyrs were human-like male woodland spirits with several animal features, 
 > often a goat-like tail, hooves, ears, or horns. Satyrs attended Dionysus.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Barberini%20Faun)
+> [Wikipedia](https://en.wikipedia.org/wiki/Barberini%20Faun) 
 
 
 ## Confidential Links & Embeds: 

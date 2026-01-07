@@ -42,7 +42,7 @@ subclass_of:
 > regarding the separation processes required to obtain their constituents 
 > (physical or chemical processes or, even a blend of them).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mixture)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mixture) 
 
 
 ## Solution, homogeneous and heterogeneous mixtures 

@@ -67,11 +67,6 @@ exact_match: http://purl.obolibrary.org/obo/GO_0019685
 > [Wikipedia](https://en.wikipedia.org/wiki/Calvin%20cycle) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Botany/Photosynthesis/Photosynthesis,dark_Reaction|Photosynthesis,dark_Reaction]] 

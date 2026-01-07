@@ -14,7 +14,7 @@
 >
 > The acronym CAML originally stood for Categorical Abstract Machine Language, but OCaml omits this abstract machine. OCaml is a free and open-source software project managed and principally maintained by the French Institute for Research in Computer Science and Automation (Inria). In the early 2000s, elements from OCaml were adopted by many languages, notably F# and Scala.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/OCaml)
+> [Wikipedia](https://en.wikipedia.org/wiki/OCaml) 
 
 
 ## Confidential Links & Embeds: 

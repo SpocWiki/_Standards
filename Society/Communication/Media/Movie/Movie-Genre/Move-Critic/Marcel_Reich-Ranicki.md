@@ -11,7 +11,7 @@
 > in the field of German literature 
 > and has often been called Literaturpapst ("Pope of Literature") in Germany.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marcel%20Reich-Ranicki)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marcel%20Reich-Ranicki) 
 
 
 ## Confidential Links & Embeds: 

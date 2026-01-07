@@ -29,7 +29,7 @@ aliases:
 > The Boy and the Heron won the 2024 Golden Globe Award for Best Animated Feature Film, 
 > BAFTA Award for Best Animated Film, and the 2024 Academy Award for Best Animated Feature.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Studio%20Ghibli)
+> [Wikipedia](https://en.wikipedia.org/wiki/Studio%20Ghibli) 
 
 
 ## Confidential Links & Embeds: 

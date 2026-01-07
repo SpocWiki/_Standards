@@ -21,8 +21,6 @@ XUV-Lithography at [[../../../../../Knowledge/Economy/Company/ASML(Advanced_Semi
 > [Wikipedia](https://en.wikipedia.org/wiki/Stannane) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane|Stannane]] 

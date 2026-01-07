@@ -78,7 +78,7 @@ has_member: ''
 > as well as being ranked as the third "Best Metal and Hard Rock Live Band of All Time" 
 > by Loudwire magazine.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kiss%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Kiss%20(band)) 
 
 
 ## Confidential Links & Embeds: 

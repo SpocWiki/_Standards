@@ -174,7 +174,7 @@ Wolfram_Language_entity_code: Entity["Planet", "Venus"]
 > This finding ended the theories and then popular science fiction 
 > about Venus being a habitable or inhabited planet.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Venus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Venus) 
 
 
 ## Confidential Links & Embeds: 

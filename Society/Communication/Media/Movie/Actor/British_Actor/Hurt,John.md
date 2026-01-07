@@ -55,7 +55,7 @@ aliases:
 > and BBC's Merlin (2008–2012), as well as The Gruffalo's Child (2011), 
 > and Sailor John in Thomas & Friends: Sodor's Legend of the Lost Treasure (2015).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Hurt)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Hurt) 
 
 
 ## Confidential Links & Embeds: 

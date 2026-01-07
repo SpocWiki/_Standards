@@ -446,7 +446,7 @@ Capital :: [[Freetown]]
 >
 > Sierra Leone is a culturally diverse country, home to approximately 18 ethnic groups, with the Temne and Mende peoples being predominant. The Creole people, descendants of freed African-American, Afro-Caribbean slaves and liberated Africans, constitute about 1.2% of the population. English is the official language, while Krio is the lingua franca, spoken by 97% of the population. The country is rich with natural resources, notably diamonds, gold, bauxite and aluminium. As of the most recent survey in 2019, 59.2% of the population is affected by multidimensional poverty and an additional 21.3% vulnerable to it. Sierra Leone maintains membership in several international organizations, including the United Nations, African Union, Economic Community of West African States (ECOWAS), and the Commonwealth of Nations, among others.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sierra%20Leone)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sierra%20Leone) 
 
 
 ## Confidential Links & Embeds: 

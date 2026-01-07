@@ -63,7 +63,7 @@ U_S_National_Archives_Identifier: 10641550
 >
 > Various organizations have used terrorism to achieve their objectives. These include left-wing and right-wing political organizations, nationalist groups, religious groups, revolutionaries, and ruling governments. In recent decades, hybrid terrorist organizations have emerged, incorporating both military and political arms.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Terrorism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Terrorism) 
 
 
 ## Confidential Links & Embeds: 

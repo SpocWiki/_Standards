@@ -14,7 +14,7 @@
 >
 > In the late 1980s, Apple considered using HyperCard's HyperTalk scripting language as the standard language across the company and within its classic Mac OS operating system, as well as for interprocess communication between Apple and non-Apple products. The company did not oppose the development of imitations like SuperCard, but it created the HyperTalk Standards Committee to avoid incompatibility between language variants. The case-insensitive language was initially interpreted, but gained just-in-time compilation with HyperCard 2.0.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/HyperTalk)
+> [Wikipedia](https://en.wikipedia.org/wiki/HyperTalk) 
 
 
 ## Confidential Links & Embeds: 

@@ -4,7 +4,7 @@
 Similar to [[NET~record]]s, the Constructor Parameters are 
 directly appended to the `class` Declaration, making them easy to spot. 
 
-__Unlike [[NET~record]]s__, where the Primary Parameters are converted into Properties, 
+dv_Unlike [[NET~record]]s__, where the Primary Parameters are converted into Properties, 
 primary Constructors 
 - hide the Constructor Parameters and convert them... 
 - ...to __hidden Fields _only_ if they are being used__ in Methods other than Initializers. 

@@ -100,7 +100,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > In Foundations and "The Thought", Frege argues for Platonism 
 > against psychologism or formalism, concerning numbers and propositions respectively.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gottlob%20Frege)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gottlob%20Frege) 
 
 
 ## Confidential Links & Embeds: 

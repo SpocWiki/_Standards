@@ -439,7 +439,7 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 >
 > Honduran society is predominantly Mestizo; however, there are also significant Indigenous, black, and white communities in Honduras. The nation had a relatively high political stability until a 2009 military coup and controversy arising from claims of electoral fraud in the 2017 presidential election. Honduras spans about 112,492 km2 (43,433 sq mi) and has a population exceeding 10 million. Its northern portions are part of the western Caribbean zone, as reflected in the area's demographics and culture. Honduras is known for its rich natural resources, including minerals, coffee, tropical fruit, and sugar cane, as well as for its growing textiles industry, which serves the international market.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Honduras)
+> [Wikipedia](https://en.wikipedia.org/wiki/Honduras) 
 
 
 ## Confidential Links & Embeds: 

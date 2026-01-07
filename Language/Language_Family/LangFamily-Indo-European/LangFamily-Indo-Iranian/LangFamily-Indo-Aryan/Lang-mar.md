@@ -101,7 +101,7 @@ GOST_7_75_97_code: мар 440
 > In its phonology, it contrasts apico-alveolar with alveopalatal affricates 
 > and alveolar with retroflex laterals ([l] and [ɭ] (Marathi letters ल and ळ respectively).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marathi%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marathi%20language) 
 
 
 ## Confidential Links & Embeds: 

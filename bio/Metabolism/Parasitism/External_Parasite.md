@@ -27,7 +27,7 @@ subclass_of: "[[_Standards/WikiData/WD~parasite,10253316]]"
 > - Gamasoidosis (avian mites)
 > - Lernaeocera branchialis (cod worm)
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ectoparasitic%20infestation)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Ectoparasitic%20infestation) 
 
 
 ## Confidential Links & Embeds: 

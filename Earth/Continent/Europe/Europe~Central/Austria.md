@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 14.0 , 48.0 ] 
 aliases:
   - Austria
   - Autriche
@@ -493,7 +494,7 @@ Major Cities with Population in 1000s as of @2020
 > Austria was its part with the name Cisleithania.
 >
 > After the assassination of Archduke Franz Ferdinand in 1914, 
-> Emperor Franz Joseph declared war on Serbia, which ultimately escalated into [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I|World War I]]. 
+> Emperor Franz Joseph declared war on Serbia, which ultimately escalated into [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I|World War I]]. 
 > 
 > The empire's defeat and subsequent collapse 
 > led to the proclamation of the Republic of German-Austria in 1918 
@@ -503,7 +504,7 @@ Major Cities with Population in 1000s as of @2020
 > culminated in the formation of an Austrofascist dictatorship 
 > under Engelbert Dollfuss in 1934. 
 > 
-> A year before the outbreak of [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]], Austria was annexed into [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945|Nazi Germany]] 
+> A year before the outbreak of [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]], Austria was annexed into [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945|Nazi Germany]] 
 > by [[../../../../Society/Politics/Government/Leader/Modern_Leaders/Hitler,Adolf|Adolf Hitler]], and it became a sub-national division. 
 > 
 > After its liberation in 1945 and a decade of Allied occupation, 
@@ -526,7 +527,8 @@ Major Cities with Population in 1000s as of @2020
 > 
 > It also signed the Schengen Agreement in 1995, and adopted the euro currency in 1999.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Austria)
+> [Wikipedia](https://en.wikipedia.org/wiki/Austria) 
+
 
 ## Maps and Flags 
 

@@ -58,7 +58,7 @@ Wikidata_property: main regulatory text
 >
 > The Constitution of India is the longest written constitution of any country in the world, with 146,385 words in its English-language version, while the Constitution of Monaco is the shortest written constitution with 3,814 words. The Constitution of San Marino might be the world's oldest active written constitution, since some of its core documents have been in operation since 1600, while the Constitution of the United States is the oldest active codified constitution. The historical life expectancy of a constitution since 1789 is approximately 19 years.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Constitution)
+> [Wikipedia](https://en.wikipedia.org/wiki/Constitution) 
 
 
 ## Confidential Links & Embeds: 

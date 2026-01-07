@@ -76,7 +76,7 @@ Wikidata_property: sex or gender
 >
 > The terms male and female typically do not apply in sexually undifferentiated species in which the individuals are isomorphic (look the same) and the gametes are isogamous (indistinguishable in size and shape), such as the green alga Ulva lactuca. Some kinds of functional differences between individuals, such as in fungi, may be referred to as mating types.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sex)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sex) 
 
 
 ## Confidential Links & Embeds: 

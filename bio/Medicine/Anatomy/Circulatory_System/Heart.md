@@ -86,7 +86,7 @@ Commons_category: Heart (organ)
 >
 > Cardiovascular diseases are the most common cause of death globally as of 2008, accounting for 30% of all human deaths. Of these more than three-quarters are a result of coronary artery disease and stroke. Risk factors include: smoking, being overweight, little exercise, high cholesterol, high blood pressure, and poorly controlled diabetes, among others. Cardiovascular diseases do not frequently have symptoms but may cause chest pain or shortness of breath. Diagnosis of heart disease is often done by the taking of a medical history, listening to the heart-sounds with a stethoscope, as well as with ECG, and echocardiogram which uses ultrasound. Specialists who focus on diseases of the heart are called cardiologists, although many specialties of medicine may be involved in treatment.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Heart)
+> [Wikipedia](https://en.wikipedia.org/wiki/Heart) 
 
 
 ## Confidential Links & Embeds: 

@@ -10,7 +10,7 @@
 > which became one of the world's largest music publishers during that time. 
 > BMG is 100% owned by Bertelsmann and one of the group's eight business divisions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/BMG%20Rights%20Management)
+> [Wikipedia](https://en.wikipedia.org/wiki/BMG%20Rights%20Management) 
 
 
 ## Confidential Links & Embeds: 

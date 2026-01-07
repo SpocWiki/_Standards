@@ -62,7 +62,7 @@ X_Twitter_username: PeterOHearn12
 > (as in reverse mathematics) 
 > rather than trying to find theories in which all of mathematics can be developed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20logic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20logic) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.269235555 , 48.861673888 ] 
 aliases:
   - Organization for Security and Co-operation in Europe
   - OSZE
@@ -125,7 +126,7 @@ Facebook_username: theOECD
 > It has observer status at the United Nations.
 >
 > The OSCE had its origins in 1975: 
-> its predecessors came together during the era of the [Cold War](../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War.md) 
+> its predecessors came together during the era of the [Cold War](../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War.md) 
 > to form a forum for discussion between the Western Bloc and the Eastern Bloc. 
 > 
 > Most of its 57 participating countries are in [[../../../../../Earth/Continent/Europe|Europe]], 
@@ -135,7 +136,8 @@ Facebook_username: theOECD
 > The OSCE is concerned with early warning, conflict prevention, crisis management, 
 > and post-conflict rehabilitation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Organization%20for%20Security%20and%20Co-operation%20in%20Europe)
+> [Wikipedia](https://en.wikipedia.org/wiki/Organization%20for%20Security%20and%20Co-operation%20in%20Europe) 
+
 
 ## Chronology 
 

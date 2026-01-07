@@ -29,7 +29,7 @@ aliases:
 > Owen Gleiberman said she "was more than a great critic. 
 > She reinvented the form, and pioneered an entire aesthetic of writing."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pauline%20Kael)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pauline%20Kael) 
 
 
 ## Confidential Links & Embeds: 

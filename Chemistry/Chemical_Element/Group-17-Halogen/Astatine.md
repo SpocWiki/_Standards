@@ -77,7 +77,6 @@ Unicode_character: 砈
 
 ## #has_/text_of_/abstract 
 
-
 > **Astatine** is a chemical element with the symbol (Abbr::At) and atomic number (Charge-e::85). 
 > It is the rarest naturally occurring element in the Earth's crust, 
 > occurring only as the decay product of various heavier elements. 
@@ -101,7 +100,7 @@ Unicode_character: 砈
 > 
 > Four isotopes of astatine were subsequently found to be naturally occurring, although much less than one gram is present at any given time in the Earth's crust. Neither the most stable isotope astatine-210, nor the medically useful astatine-211, occur naturally; they can only be produced synthetically, usually by bombarding bismuth-209 with alpha particles.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Astatine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Astatine) 
 
 
 ## Confidential Links & Embeds: 

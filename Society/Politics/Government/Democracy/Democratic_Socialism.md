@@ -42,7 +42,7 @@ Commons_category: Democratic socialism
 >
 > The phrase "democratic socialism" has been used in multiple senses, including a broad sense that refers to all forms of socialism which reject autocracy. In the broad sense, democratic socialism includes all anti-capitalist stances in support of democracy including reformist socialism, revolutionary socialism, state socialism, and left-wing populism. In colloquial usage, democratic socialism may more narrowly refer to the anti-capitalist wing of social democracy (or reformist socialism), seeking to move beyond the welfare state toward social ownership.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Democratic%20socialism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Democratic%20socialism) 
 
 
 ## Confidential Links & Embeds: 

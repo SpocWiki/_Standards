@@ -148,7 +148,6 @@ ZVG_number: 8280
 
 ## #has_/text_of_/abstract 
 
-
 > **Arsenic** is a chemical element with the symbol (Abbr::As) and atomic number (Charge-e::33). 
 > Arsenic occurs in many minerals, usually in combination with sulfur and metals, 
 > but also as a pure elemental crystal. 
@@ -160,7 +159,7 @@ ZVG_number: 8280
 >
 > The United States' Environmental Protection Agency states that all forms of arsenic are a serious risk to human health. The United States' Agency for Toxic Substances and Disease Registry ranked arsenic as number 1 in its 2001 Priority List of Hazardous Substances at Superfund sites. Arsenic is classified as a Group-A carcinogen.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Arsenic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Arsenic) 
 
 
 ## Confidential Links & Embeds: 

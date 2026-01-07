@@ -70,7 +70,7 @@ Dewey_Decimal_Classification: "398.21"
 >
 > The charismatic and sophisticated vampire of modern fiction was born in 1819 with the publication of "The Vampyre" by the English writer John Polidori; the story was highly successful and arguably the most influential vampire work of the early 19th century. Bram Stoker's 1897 novel Dracula is remembered as the quintessential vampire novel and provided the basis of the modern vampire legend, even though it was published after fellow Irish author Joseph Sheridan Le Fanu's 1872 novel Carmilla. The success of this book spawned a distinctive vampire genre, still popular in the 21st century, with books, films, television shows, and video games. The vampire has since become a dominant figure in the horror genre.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vampire)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vampire) 
 
 
 ## Confidential Links & Embeds: 

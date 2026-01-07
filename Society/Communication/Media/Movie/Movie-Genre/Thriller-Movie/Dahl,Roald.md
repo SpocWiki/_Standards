@@ -152,7 +152,7 @@ date_of_birth: 1916-09-13T00:00:00Z
 > His works for older audiences include the short story collections [[Tales of the Unexpected]] 
 > and The [[Wonderful Story of Henry Sugar]] and [[Six More]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Roald%20Dahl)
+> [Wikipedia](https://en.wikipedia.org/wiki/Roald%20Dahl) 
 
 
 ## Confidential Links & Embeds: 

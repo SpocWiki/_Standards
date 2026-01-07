@@ -216,7 +216,7 @@ Danbooru_tag: joe_biden
 > 
 > In foreign policy, Biden restored America's membership in the Paris Agreement. He oversaw the complete withdrawal of U.S. troops from Afghanistan that ended the war in Afghanistan, during which the Afghan government collapsed and the Taliban seized control. He responded to the Russian invasion of Ukraine by imposing sanctions on Russia and authorizing civilian and military aid to Ukraine. During the Israel–Hamas war, Biden condemned the actions of Hamas and other Palestinian militants as terrorism, announced military support for Israel, and ordered the U.S. military to build a port to facilitate the delivery of humanitarian aid to Palestinian civilians in Gaza. In April 2023, Biden announced his candidacy for the Democratic nomination in the 2024 presidential election.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Joe%20Biden)
+> [Wikipedia](https://en.wikipedia.org/wiki/Joe%20Biden) 
 
 
 ## Confidential Links & Embeds: 

@@ -13,7 +13,7 @@
 > 
 > Derivations such as QA4, Conniver, QLISP and Ether (see scientific community metaphor) were important tools in artificial intelligence research in the 1970s, which influenced commercial developments such as Knowledge Engineering Environment (KEE) and Automated Reasoning Tool (ART).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Planner%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Planner%20(programming%20language)) 
 
 
 ## Confidential Links & Embeds: 

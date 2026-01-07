@@ -53,7 +53,7 @@ NanoID
 > with many computing platforms providing support for generating them 
 > and for parsing their textual representation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Universally%20unique%20identifier)
+> [Wikipedia](https://en.wikipedia.org/wiki/Universally%20unique%20identifier) 
 
 
 ## Confidential Links & Embeds: 

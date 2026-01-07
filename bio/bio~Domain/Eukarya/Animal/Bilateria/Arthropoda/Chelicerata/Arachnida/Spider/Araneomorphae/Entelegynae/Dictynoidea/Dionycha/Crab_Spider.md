@@ -27,7 +27,6 @@ title: Thomisidae
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomisidae) 
 
 
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 1984-01-01 
 aliases:
 has_id_wikidata: Q13409231
 product_or_material_produced:

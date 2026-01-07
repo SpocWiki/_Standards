@@ -142,7 +142,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q26145231,26145231]]'
 >
 > Peter is primarily credited with the modernization of the country, quickly transforming it into a major European power. His administrative reforms, creating a Governing Senate in 1711, the Collegium in 1717 and the Table of Ranks in 1722 had a lasting impact on Russia, and many institutions of the Russian government trace their origins to his reign.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20the%20Great)
+> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20the%20Great) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.0 , 47.0 ] 
 aliases:
   - France
   - Francia
@@ -764,7 +765,7 @@ Population in 1000s as of @2019
 > as well as a key member of the Group of Seven, North Atlantic Treaty Organization (NATO), 
 > Organisation for Economic Co-operation and Development (OECD), and Francophonie.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/France)
+> [Wikipedia](https://en.wikipedia.org/wiki/France) 
 
 
 ## Maps and Flags 

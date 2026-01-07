@@ -11,7 +11,7 @@
 > and are used as flavoring ingredients in various carbonated soft drinks, 
 > from which the name cola originates.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kola%20nut)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kola%20nut) 
 
 
 ## Confidential Links & Embeds: 

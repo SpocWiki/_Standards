@@ -133,7 +133,7 @@ writing_language: "[[_Standards/WikiData/WD~German,188]]"
 > Riemann laid the foundations of the mathematics of general relativity. 
 > He is considered by many to be one of the greatest mathematicians of all time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bernhard%20Riemann)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bernhard%20Riemann) 
 
 
 ## Confidential Links & Embeds: 

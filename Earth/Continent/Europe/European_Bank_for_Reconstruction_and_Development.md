@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1991-01-01 
 aliases:
   - 'European Bank for Reconstruction and Development, shortened to EBRD (French: Banque européenne pour la reconstruction et le développement or BERD'
   - European_Bank_for_Reconstruction_and_Development

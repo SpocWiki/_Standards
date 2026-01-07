@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1606-01-01 
 aliases:
   - The Tragedy of King Lear
   - King Lear
@@ -70,7 +71,7 @@ number_of_parts_of_this_work: 5
 Commons_gallery: King Lear
 Commons_category: King Lear
 image: http://commons.wikimedia.org/wiki/Special:FilePath/King%20Lear.jpg
-__is_:
+dv_is_:
   same_as:
     - "[[../../../../../../../../WikiData/WD~King_Lear,181598]]"
     - "[[King_Lear]]"
@@ -80,7 +81,7 @@ __is_:
     - "[[/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.private|King_Lear.private]]"
     - "[[/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.personal|King_Lear.personal]]"
     - "[[/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.secret|King_Lear.secret]]"
-__is_same_as:
+dv_is_same_as:
   - "[[../../../../../../../../WikiData/WD~King_Lear,181598]]"
   - "[[King_Lear]]"
   - "[[/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/King_Lear.public|King_Lear.public]]"

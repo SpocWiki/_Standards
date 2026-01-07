@@ -23,7 +23,7 @@ Is named after [[Watt]]
 > who improved the Newcomen engine with his own steam engine in 1776, 
 > which became fundamental for the Industrial Revolution.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Watt)
+> [Wikipedia](https://en.wikipedia.org/wiki/Watt) 
 
 
 ## Confidential Links & Embeds: 

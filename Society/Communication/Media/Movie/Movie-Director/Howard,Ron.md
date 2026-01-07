@@ -44,7 +44,7 @@ aliases:
 >
 > He also directed the children's fantasy film How the Grinch Stole Christmas (2000), the comedy The Dilemma (2011), and Solo: A Star Wars Story (2018), as well as the [[../Actor/US_Actor/Langdon,Robert|Robert Langdon]] film series: The Da Vinci Code (2006), Angels & Demons (2009), and Inferno (2016). Howard has gained recognition for directing numerous documentary films such as The Beatles: Eight Days a Week (2016), Pavarotti (2019), and We Feed People (2022).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ron%20Howard)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ron%20Howard) 
 
 
 ## Confidential Links & Embeds: 

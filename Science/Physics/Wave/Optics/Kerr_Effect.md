@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1875-01-01 
 aliases:
   - Kerr effect
   - quadratic electro-optic effect

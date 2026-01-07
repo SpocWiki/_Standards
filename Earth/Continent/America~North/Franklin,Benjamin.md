@@ -209,7 +209,7 @@ described_at_URL:
 > Anne Robert Jacques Turgot said of him: "Eripuit fulmen cœlo, mox sceptra tyrannis" 
 > ("He snatched lightning from the sky and the scepter from tyrants").
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Benjamin%20Franklin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Benjamin%20Franklin) 
 
 
 ## Confidential Links & Embeds: 

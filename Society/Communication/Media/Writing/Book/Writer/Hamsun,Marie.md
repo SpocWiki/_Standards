@@ -18,7 +18,8 @@ aliases:
 > **Marie Hamsun** (born Marie Andersen) (19 November 1881 – 4 August 1969) 
 > was a Norwegian actress and writer.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marie%20Hamsun)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marie%20Hamsun) 
+
 
 In 1909, she became the second wife of the noted author, [[Hamsun,Knut]] 
 with whom she had four children, sons [Tore](https://en.wikipedia.org/wiki/Tore_Hamsun "Tore Hamsun") and [Arild](https://en.wikipedia.org/w/index.php?title=Arild_Hamsun&action=edit&redlink=1 "Arild Hamsun (page does not exist)") and daughters Eleanor and Cecilia.

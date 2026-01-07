@@ -39,7 +39,7 @@
 > which includes a 1976 made-for-TV sequel, 
 > an upcoming streaming exclusive prequel (2024), and a television series adaptation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rosemary's%20Baby%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Rosemary's%20Baby%20(film)) 
 
 
 ## Confidential Links & Embeds: 

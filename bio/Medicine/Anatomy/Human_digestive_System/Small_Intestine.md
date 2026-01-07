@@ -45,7 +45,7 @@ venous_drainage: '[[_Standards/WikiData/WD~hepatic_portal_vein,464543]]'
 >
 > The small intestine has three distinct regions – the duodenum, jejunum, and ileum. The duodenum, the shortest, is where preparation for absorption through small finger-like protrusions called villi begins. The jejunum is specialized for the absorption through its lining by enterocytes: small nutrient particles which have been previously digested by enzymes in the duodenum.  The main function of the ileum is to absorb vitamin B12, bile salts, and whatever products of digestion that were not absorbed by the jejunum.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Small%20intestine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Small%20intestine) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1960-01-01 
+location: [ 20.9 , 6.7 ] 
 aliases:
   - Central African Republic
   - Central_African_Republic

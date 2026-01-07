@@ -69,7 +69,7 @@ official_name: Microscopium
 > Nicknamed "Speedy Mic", BO Microscopii 
 > is a star with an extremely fast rotation period of 9 hours, 7 minutes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Microscopium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Microscopium) 
 
 
 ## Confidential Links & Embeds: 

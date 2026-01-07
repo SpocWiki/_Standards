@@ -115,7 +115,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/FLEMING_YAN.html
 > Two of his James Bond books were published posthumously; other writers have since produced Bond novels. 
 > Fleming's creation has appeared in film twenty-seven times, portrayed by six actors in the official film series.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ian%20Fleming)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ian%20Fleming) 
 
 
 ## Confidential Links & Embeds: 

@@ -44,7 +44,7 @@ OpenStreetMap_tag_or_key: Tag:historic=cannon
 >
 > In the modern era, the term cannon has fallen into decline, replaced by guns or artillery, if not a more specific term such as howitzer or mortar, except for high-caliber automatic weapons firing bigger rounds than machine guns, called autocannons.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cannon)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Cannon) 
 
 
 ## Confidential Links & Embeds: 

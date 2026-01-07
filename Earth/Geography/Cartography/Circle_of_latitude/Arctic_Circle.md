@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 0.0 , 66.561611111 ] 
 aliases:
   - Arctic_Circle
   - Arctic Circle

@@ -51,7 +51,7 @@
 >
 > Quasi-bialgebra – discusses the Drinfeld associator
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Associator)
+> [Wikipedia](https://en.wikipedia.org/wiki/Associator) 
 
 
 ## Confidential Links & Embeds: 

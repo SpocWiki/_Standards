@@ -71,7 +71,7 @@ MeSH_tree_code:
 >
 > Most alkali metals have many different applications. One of the best-known applications of the pure elements is the use of rubidium and caesium in atomic clocks, of which caesium atomic clocks form the basis of the second. A common application of the compounds of sodium is the sodium-vapour lamp, which emits light very efficiently. Table salt, or sodium chloride, has been used since antiquity. Lithium finds use as a psychiatric medication and as an anode in lithium batteries. Sodium, potassium and lithium are essential elements, having major biological roles as electrolytes, and although the other alkali metals are not essential, they also have various effects on the body, both beneficial and harmful.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alkali%20metal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alkali%20metal) 
 
 
 ## Confidential Links & Embeds: 

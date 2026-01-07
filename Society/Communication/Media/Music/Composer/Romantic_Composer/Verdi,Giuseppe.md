@@ -131,7 +131,7 @@ Europeana_entity: agent/base/146827
 >
 > Verdi's operas remain among the most popular in the repertory. In 2013, the bicentenary of his birth was widely celebrated around the world with television and radio broadcasts and live performances.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Giuseppe%20Verdi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Giuseppe%20Verdi) 
 
 
 ## Confidential Links & Embeds: 

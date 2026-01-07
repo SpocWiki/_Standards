@@ -67,7 +67,7 @@ Commons_category: Polysaccharides
 >
 > [[Polysaccharide/Cellulose]] and [[Polysaccharide/Chitin]] are examples of structural polysaccharides. [[Polysaccharide/Cellulose]] is used in the cell walls of plants and other organisms and is said to be the most abundant organic molecule on Earth. It has many uses such as a significant role in the paper and textile industries and is used as a feedstock for the production of rayon (via the viscose process), [[Polysaccharide/Cellulose]] acetate, celluloid, and nitrocellulose. [[Polysaccharide/Chitin]] has a similar structure but has nitrogen-containing side branches, increasing its strength. It is found in arthropod exoskeletons and in the cell walls of some fungi. It also has multiple uses, including surgical threads. Polysaccharides also include callose or laminarin, chrysolaminarin, xylan, arabinoxylan, mannan, fucoidan, and galactomannan.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Polysaccharide)
+> [Wikipedia](https://en.wikipedia.org/wiki/Polysaccharide) 
 
 
 ## Confidential Links & Embeds: 

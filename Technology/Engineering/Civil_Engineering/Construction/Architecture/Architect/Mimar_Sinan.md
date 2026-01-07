@@ -94,7 +94,7 @@ work_location:
 > by the Sublime Porte to submit plans for a bridge spanning the Golden Horn. 
 > Mimar Sinan's works are among the most influential buildings in history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mimar%20Sinan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mimar%20Sinan) 
 
 
 ## Confidential Links & Embeds: 

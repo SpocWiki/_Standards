@@ -172,7 +172,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 >
 > Wagner's unorthodox operas, essays, and personal dealings engendered considerable controversy during his lifetime, and continue to do so. Declared a "genius" by some and a "disease" by others, his music is widely performed, but his views on religion, politics, and social life are debated—most notably on the extent to which his antisemitism finds expression in his stage and prose works. The effect of his ideas can be traced in many of the arts throughout the 20th century; his influence spread beyond composition into conducting, philosophy, literature, the visual arts and theatre.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Wagner)
+> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Wagner) 
 
 
 ## Confidential Links & Embeds: 

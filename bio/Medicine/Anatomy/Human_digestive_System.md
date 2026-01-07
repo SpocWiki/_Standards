@@ -65,7 +65,7 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/digestive
 >
 > Peristalsis is the rhythmic contraction of muscles that begins in the esophagus and continues along the wall of the stomach and the rest of the gastrointestinal tract. This initially results in the production of chyme which when fully broken down in the small intestine is absorbed as chyle into the lymphatic system. Most of the digestion of food takes place in the small intestine. Water and some minerals are reabsorbed back into the blood in the colon of the large intestine. The waste products of digestion (feces) are defecated from the rectum via the anus.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Human%20digestive%20system)
+> [Wikipedia](https://en.wikipedia.org/wiki/Human%20digestive%20system) 
 
 
 ## Confidential Links & Embeds: 

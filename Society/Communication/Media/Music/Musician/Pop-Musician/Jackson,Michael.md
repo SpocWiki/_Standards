@@ -259,7 +259,7 @@ X_username: michaeljackson
 >
 > Jackson is one of the bestselling music artists of all time, with estimated sales of over 500 million records worldwide. He had 13 Billboard Hot 100 number-one singles (the fourth-highest in Hot 100 history) and is the first artist to have a top-ten single on the Billboard Hot 100 in five different decades. Jackson's inductions include the Rock and Roll Hall of Fame (twice), the National Rhythm & Blues Hall of Fame, the Vocal Group Hall of Fame, the Songwriters Hall of Fame and the Dance Hall of Fame (making him the only recording artist to be inducted). As one of the most-awarded artists in popular music, he received 13 Grammy Awards the Grammy Legend Award, and the Grammy Lifetime Achievement Award, 26 American Music Awards, including the Artist of the Century and Artist of the 1980s, six Brit Awards, and 12 World Music Awards. He also received three presidential honors, including Artist of the Decade, and the Bambi Pop Artist of the Millennium Award, among other awards. In 2024, half of his music catalogue sold to Sony for $600 million, the largest music acquisition for a single artist in history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Jackson)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Jackson) 
 
 
 ## Confidential Links & Embeds: 

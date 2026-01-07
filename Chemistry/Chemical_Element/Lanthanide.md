@@ -80,7 +80,9 @@ MeSH_tree_code:
 > as the ending "-ide" normally indicates a negative ion. 
 > However, owing to wide current use, "lanthanide" is still allowed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lanthanide)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lanthanide) 
+
+
  
 ```folderv
 ```

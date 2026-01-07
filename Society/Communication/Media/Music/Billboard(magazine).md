@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1894-01-01 
 aliases:
   - Billboard (magazine)
   - Billboard magazine

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 2008-10-01 
 aliases:
   - Bertelsmann Music Group
   - Bertelsmann Music

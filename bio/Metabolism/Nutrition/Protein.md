@@ -184,7 +184,7 @@ They can be imagined, synthetic, hypothetical or naturally occurring.
 > to provide the essential amino acids that cannot be synthesized. 
 > Digestion breaks the proteins down for metabolic use.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Protein)
+> [Wikipedia](https://en.wikipedia.org/wiki/Protein) 
 
 
 ## Protein-sources 

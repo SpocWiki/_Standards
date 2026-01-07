@@ -109,7 +109,6 @@ type: Element
 
 ## #has_/text_of_/abstract 
 
-
 > **Germanium** is a chemical element with the symbol (Abbr::Ge) and atomic number (Charge-e::32). 
 > It is lustrous, hard-brittle, grayish-white and similar in appearance to silicon. 
 > It is a metalloid in the carbon group that is chemically similar to its group neighbors silicon and tin. 
@@ -131,7 +130,7 @@ type: Element
 >
 > Elemental germanium is used as a semiconductor in transistors and various other electronic devices. Historically, the first decade of semiconductor electronics was based entirely on germanium. Presently, the major end uses are fibre-optic systems, infrared optics, solar cell applications, and light-emitting diodes (LEDs). Germanium compounds are also used for polymerization catalysts and have most recently found use in the production of nanowires. This element forms a large number of organogermanium compounds, such as tetraethylgermanium, useful in organometallic chemistry. Germanium is considered a technology-critical element.Germanium is not thought to be an essential element for any living organism. Similar to silicon and aluminium, naturally-occurring germanium compounds tend to be insoluble in water and thus have little oral toxicity. However, synthetic soluble germanium salts are nephrotoxic, and synthetic chemically reactive germanium compounds with halogens and hydrogen are irritants and toxins.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Germanium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Germanium) 
 
 
 ## Confidential Links & Embeds: 

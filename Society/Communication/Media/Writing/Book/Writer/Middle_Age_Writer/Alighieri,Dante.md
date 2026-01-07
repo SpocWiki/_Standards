@@ -217,7 +217,7 @@ writing_language:
 > and in Italy he is often referred to as il Sommo Poeta ("the Supreme Poet"). 
 > Dante, Petrarch, and Boccaccio are also called the tre corone ("three crowns") of Italian literature.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dante%20Alighieri)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dante%20Alighieri) 
 
 
 ## Confidential Links & Embeds: 

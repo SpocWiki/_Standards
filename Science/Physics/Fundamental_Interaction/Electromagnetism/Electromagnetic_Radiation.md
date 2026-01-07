@@ -58,7 +58,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Circular.Polarization.
 >
 > The effects of EMR upon chemical compounds and biological organisms depend both upon the radiation's power and its frequency. EMR of lower energy ultraviolet or lower frequencies (i.e., near ultraviolet, visible light, infrared, microwaves, and radio waves) is non-ionizing because its photons do not individually have enough energy to ionize atoms or molecules or to break chemical bonds. The effect of non-ionizing radiation on chemical systems and living tissue is primarily simply heating, through the combined energy transfer of many photons. In contrast, high frequency ultraviolet, X-rays and gamma rays are ionizing – individual photons of such high frequency have enough energy to ionize molecules or break chemical bonds. Ionizing radiation can cause chemical reactions and damage living cells beyond simply heating, and can be a health hazard and dangerous.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic%20radiation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Electromagnetic%20radiation) 
 
 
 ## Confidential Links & Embeds: 

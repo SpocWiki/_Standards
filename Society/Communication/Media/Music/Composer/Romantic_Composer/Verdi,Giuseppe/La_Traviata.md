@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1852-01-01 
 aliases:
   - La traviata
   - La_Traviata
@@ -86,7 +87,7 @@ name: L'esgarriada
 > La traviata has become immensely popular 
 > and is among the most frequently performed of all operas.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/La%20traviata)
+> [Wikipedia](https://en.wikipedia.org/wiki/La%20traviata) 
 
 
 ## Confidential Links & Embeds: 

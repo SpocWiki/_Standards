@@ -84,7 +84,7 @@
 > The American Society of Civil Engineers has ranked the Panama Canal 
 > one of the Seven Wonders of the Modern World.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Panama%20Canal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Panama%20Canal) 
 
 
 ## Confidential Links & Embeds: 

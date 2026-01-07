@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 96.0 , 10.0 ] 
 aliases:
   - Andaman_Sea
   - Andaman Sea

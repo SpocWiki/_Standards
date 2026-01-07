@@ -110,7 +110,7 @@ U_S_National_Archives_Identifier: 10663067
 > and the [[Grammy_Award]]s for music – are modeled after the Academy Awards. 
 > The Oscar statuette depicts a knight, rendered in the Art Deco style.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Academy%20Awards)
+> [Wikipedia](https://en.wikipedia.org/wiki/Academy%20Awards) 
 
 
 # [[Academy_Award]] 

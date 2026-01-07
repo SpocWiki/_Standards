@@ -55,7 +55,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/A-Detailed-History-of-
 #is_a/bio-Domain 
 #is_a :: [[../bio~Domain|bio~Domain]] 
 
-Eukaryota, Organisms with nucleated cells 
+Eukaryota, Organisms with nucleated cells. 
 
 ![pair of saguaros](Eukarya/saguaro.jpg) ![Acantharea](Eukarya/acantb.jpg) ![Ithomiine butterfly feeding on Senecio flowers](Eukarya/clearwing.jpg) 
 
@@ -97,6 +97,7 @@ Eukaryota, Organisms with nucleated cells
 > and sexually through meiosis and gamete fusion (fertilization).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eukaryote) 
+
 
 ## Phylogeny 
 

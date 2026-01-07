@@ -32,7 +32,7 @@ aliases:
 > by numerous women. This affected or halted production on several adaptations of his work. 
 > One accuser sued Gaiman and his estranged wife Amanda Palmer for rape and human trafficking.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neil%20Gaiman)
+> [Wikipedia](https://en.wikipedia.org/wiki/Neil%20Gaiman) 
 
 
 ## Confidential Links & Embeds: 

@@ -54,7 +54,7 @@ IMDb_keyword: criminal-organization
 >
 > In some countries, football hooliganism has been linked to organized crime.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Organized%20crime)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Organized%20crime) 
 
 
 ## Confidential Links & Embeds: 

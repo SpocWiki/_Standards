@@ -17,7 +17,7 @@
 > Cell received negative reviews from critics upon its release 
 > for being poorly crafted and lacking suspense.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cell%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Cell%20(film)) 
 
 
 ## Confidential Links & Embeds: 

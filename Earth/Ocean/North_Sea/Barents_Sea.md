@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 40.0 , 75.0 ] 
 aliases:
   - Barents_Sea
   - Barents Sea

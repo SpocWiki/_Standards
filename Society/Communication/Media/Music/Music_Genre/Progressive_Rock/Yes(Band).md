@@ -65,7 +65,7 @@
 > which chose to induct current and former members 
 > Anderson, Squire, Bruford, Kaye, Howe, Wakeman, White, and Rabin.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yes%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Yes%20(band)) 
 
 
 ## Confidential Links & Embeds: 

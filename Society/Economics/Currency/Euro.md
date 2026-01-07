@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2002-01-01 
 aliases:
   - Euro
 has_id_wikidata: Q4916
@@ -112,7 +113,8 @@ Wolfram_Language_unit_code: '"Euros"'
 >
 > Between December 1999 and December 2002, the euro traded below the US dollar, but has since traded near parity with or above the US dollar, peaking at US$1.60 on 18 July 2008 and since then returning near to its original issue rate. On 13 July 2022, the two currencies hit parity for the first time in nearly two decades due in part to the 2022 Russian invasion of Ukraine. Then, in September 2022, the US dollar again had a face value higher than the Euro, at around US dollar 0.95 per euro.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Euro)
+> [Wikipedia](https://en.wikipedia.org/wiki/Euro) 
+
 
 After introducing the Euro with a high credibility, 
 many countries, namely Greece have taken up big loans. 

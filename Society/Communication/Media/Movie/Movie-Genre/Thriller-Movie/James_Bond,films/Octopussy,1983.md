@@ -27,7 +27,7 @@
 > with the plot and humour being targeted for criticism; 
 > Adams's portrayal of the titular character also drew polarised responses.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Octopussy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Octopussy) 
 
 
 ## Confidential Links & Embeds: 

@@ -60,8 +60,6 @@ Experiment --test--> World
 > [Wikipedia](https://en.wikipedia.org/wiki/DIKW%20pyramid) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Knowledge/Knowledge_Pyramid|Knowledge_Pyramid]] 

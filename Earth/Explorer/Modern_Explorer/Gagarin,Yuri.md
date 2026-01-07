@@ -158,7 +158,7 @@ RIA_Novosti_reference: 45597107
 >
 > Vostok 1 was Gagarin's only spaceflight, but he served as the backup crew to Soyuz 1, which ended in a fatal crash, killing his friend and fellow cosmonaut Vladimir Komarov. Fearful that a high-level national hero might be killed, Soviet officials banned Gagarin from participating in further spaceflights. After completing training at the Zhukovsky Air Force Engineering Academy in February 1968, he was again allowed to fly regular aircraft. However, Gagarin died five weeks later, when the MiG-15 that he was piloting with flight instructor Vladimir Seryogin crashed near the town of Kirzhach.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yuri%20Gagarin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Yuri%20Gagarin) 
 
 
 ## Confidential Links & Embeds: 

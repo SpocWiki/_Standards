@@ -53,7 +53,7 @@ writing_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 > 
 > He also entered the folkloric tradition, appearing several times in [[One Thousand and One Nights]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Nuwas)
+> [Wikipedia](https://en.wikipedia.org/wiki/Abu%20Nuwas) 
 
 
 ## Confidential Links & Embeds: 

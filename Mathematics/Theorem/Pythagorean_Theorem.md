@@ -63,7 +63,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/2.%D0%A2%D0%B5%D0%BE%D
 > - to objects that are not right triangles, and 
 > - to objects that are not triangles at all but n-dimensional solids.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pythagorean%20theorem)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pythagorean%20theorem) 
 
 
 ## Confidential Links & Embeds: 

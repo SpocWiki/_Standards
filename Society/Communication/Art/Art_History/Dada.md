@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1910-01-01 
 aliases:
   - Dad
   - Dadaism

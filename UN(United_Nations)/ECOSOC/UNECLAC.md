@@ -11,7 +11,7 @@ aliases:
 >
 > ECLAC (or UNECLA) was established in 1948 as the UN Economic Commission for Latin America. In 1984, a resolution was passed to include the countries of the Caribbean in the name.  It reports to the UN Economic and Social Council (ECOSOC).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20Commission%20for%20Latin%20America%20and%20the%20Caribbean)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20Commission%20for%20Latin%20America%20and%20the%20Caribbean) 
 
 
 ## Confidential Links & Embeds: 

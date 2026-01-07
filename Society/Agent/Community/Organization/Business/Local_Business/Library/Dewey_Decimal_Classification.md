@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1876-01-01 
 aliases:
   - Dewey Decimal Classification
   - Dewey_Decimal_Classification

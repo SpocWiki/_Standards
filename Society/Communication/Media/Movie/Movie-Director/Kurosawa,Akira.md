@@ -137,7 +137,7 @@ writing_language: '[[_Standards/WikiData/WD~Japanese,5287]]'
 >
 > In 1990, he accepted the Academy Award for Lifetime Achievement. Posthumously, he was named "Asian of the Century" in the "Arts, Literature, and Culture" category by AsianWeek magazine and CNN, cited there as being among the five people who most prominently contributed to the improvement of Asia in the 20th century. His career has been honored by many retrospectives, critical studies and biographies in both print and video, and by releases in many consumer media. Kurosawa told the critic Donald Richie: "I suppose all of my films have a common theme. If I think about it, though, the only theme I can think of is really a question: Why can't people be happier together?"
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Akira%20Kurosawa)
+> [Wikipedia](https://en.wikipedia.org/wiki/Akira%20Kurosawa) 
 
 
 ## Confidential Links & Embeds: 

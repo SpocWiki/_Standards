@@ -72,7 +72,7 @@ GitHub_topic: number-theory
 > in the second half of the twentieth century, arguably in part due to French influence. 
 > In particular, arithmetical is commonly preferred as an adjective to number-theoretic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Number%20theory)
+> [Wikipedia](https://en.wikipedia.org/wiki/Number%20theory) 
 
 
 ## Confidential Links & Embeds: 

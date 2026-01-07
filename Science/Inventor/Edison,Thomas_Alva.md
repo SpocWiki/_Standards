@@ -177,7 +177,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > Edison married twice and fathered six children. 
 > He died in 1931 due to complications from diabetes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Edison)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Edison) 
 
 
 ## Confidential Links & Embeds: 

@@ -18,6 +18,7 @@ Mammals and extinct relatives
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Therapsida) 
 
+
 Therapsida is a group of synapsids, which are a lineage of tetrapods 
 that includes mammals and their extinct relatives. 
 The parent group of Therapsida is the class [[../Synapsida]], which also includes pelycosaurs, 

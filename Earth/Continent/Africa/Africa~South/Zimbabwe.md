@@ -463,7 +463,7 @@ Capital :: [[Zimbabwe/Provinces~Zimbabwe/Harare,Province]]
 >
 > Robert Mugabe became Prime Minister of Zimbabwe in 1980, when his ZANU–PF party won the general election following the end of white minority rule and has remained the country's dominant party since. He was the President of Zimbabwe from 1987, after converting the country's initial parliamentary system into a presidential one, until his resignation in 2017. Under Mugabe's authoritarian regime, the state security apparatus dominated the country and was responsible for widespread human rights violations. From 1997 to 2008. the economy experienced consistent decline (and in the latter years, hyperinflation), though it has since seen rapid growth after the use of currencies other than the Zimbabwean dollar was permitted. In 2017, in the wake of over a year of protests against his government as well as Zimbabwe's rapidly declining economy, a coup d'état resulted in Mugabe's resignation. Emmerson Mnangagwa has since served as Zimbabwe's president.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Zimbabwe)
+> [Wikipedia](https://en.wikipedia.org/wiki/Zimbabwe) 
 
 
 ## Confidential Links & Embeds: 

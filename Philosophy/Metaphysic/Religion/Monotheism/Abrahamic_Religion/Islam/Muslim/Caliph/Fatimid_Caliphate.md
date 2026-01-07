@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0909-01-01 
+has_time_stopped: 1171-01-01 
 aliases:
 has_id_wikidata: Q160307
 instance_of:

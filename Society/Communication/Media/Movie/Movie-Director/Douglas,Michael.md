@@ -50,7 +50,7 @@ aliases:
 > and he was appointed as a United Nations Messenger of Peace in 1998. 
 > He has been married to actress Catherine Zeta-Jones since 2000.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Douglas)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Douglas) 
 
 
 ## Confidential Links & Embeds: 

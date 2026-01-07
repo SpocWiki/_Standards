@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1905-10-14 
 aliases:
   - World Air Sports Federation
   - Fédération aéronautique internationale

@@ -19,7 +19,7 @@
 > the treaty negotiated tensions between member states seeking deeper integration and those wishing to retain greater national control. 
 > The resulting compromise faced what was to be the first in a series of EU treaty ratification crises.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Maastricht%20Treaty)
+> [Wikipedia](https://en.wikipedia.org/wiki/Maastricht%20Treaty) 
 
 
 ## Confidential Links & Embeds: 

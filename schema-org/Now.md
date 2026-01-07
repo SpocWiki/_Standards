@@ -17,10 +17,7 @@ which yields the current Date and Time in a fixed Resolution/[[../Science/Physic
 >
 > It is sometimes represented as a hyperplane in space-time, typically called "now", although modern physics demonstrates that such a hyperplane cannot be defined uniquely for observers in relative motion. The present may also be viewed as a duration.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Present)
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Present) 
 
 
 ## Confidential Links & Embeds: 

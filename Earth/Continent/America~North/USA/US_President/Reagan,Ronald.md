@@ -240,7 +240,7 @@ ISNI: 0000000121400474
 >
 > Reagan left the presidency in 1989 with the American economy having seen a significant reduction of inflation, a fall in the unemployment rate, and the longest peacetime economic expansion in U.S. history at that time. Conversely, despite cuts to domestic discretionary spending, the national debt had nearly tripled since 1981 as a result of his tax cuts and increased military spending. Reagan's foreign policies also contributed to the end of the Cold War. Though he planned an active post-presidency, it was hindered after he was diagnosed with Alzheimer's disease in 1994, and his physical and mental capacities gradually deteriorated, leading to his death in 2004. His tenure constituted a realignment toward conservative policies in the United States, and he is often considered an icon of American conservatism. Historical rankings of U.S. presidents have typically placed Reagan in the middle to upper tier, and his post-presidential approval ratings by the general public are usually high.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ronald%20Reagan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ronald%20Reagan) 
 
 
 ## Confidential Links & Embeds: 

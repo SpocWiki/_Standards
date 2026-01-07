@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1890-01-01 
+has_time_stopped: 1910-01-01 
 aliases:
   - Jugendstil
   - Sezessionstil

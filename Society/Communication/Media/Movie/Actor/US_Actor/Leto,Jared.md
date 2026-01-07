@@ -49,7 +49,7 @@ The Fan-Base names itself the Echelon.
 > both of which polarized critics upon release. 
 > The band has sold over 15 million albums worldwide.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jared%20Leto)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jared%20Leto) 
 
 
 ## Confidential Links & Embeds: 

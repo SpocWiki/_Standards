@@ -76,7 +76,7 @@ Unicode_character: 🗣
 >
 > The evolutionary origin of speech is subject to debate and speculation. While animals also communicate using vocalizations, and trained apes such as Washoe and Kanzi can use simple sign language, no animals' vocalizations are articulated phonemically and syntactically, and do not constitute speech.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Speech)
+> [Wikipedia](https://en.wikipedia.org/wiki/Speech) 
 
 
 ## Confidential Links & Embeds: 

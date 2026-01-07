@@ -19,9 +19,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ideology) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology|Political_Ideology]] 

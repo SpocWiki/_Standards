@@ -121,7 +121,7 @@ The Game type represents things which are games. These are typically rule-govern
 >
 > Attested as early as 2600 BC, games are a universal part of human experience and present in all cultures. The Royal Game of Ur, Senet, and Mancala are some of the oldest known games.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Game)
+> [Wikipedia](https://en.wikipedia.org/wiki/Game) 
 
 
 ## Confidential Links & Embeds: 

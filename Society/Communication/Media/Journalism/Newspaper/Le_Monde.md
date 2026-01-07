@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1944-12-18 
 aliases:
   - Le Monde
   - Le_Monde

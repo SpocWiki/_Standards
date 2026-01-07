@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1925-02-21 
 aliases:
   - The_New_Yorker
   - New_Yorker

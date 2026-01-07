@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1992-05-15 
+location: [ 37.5354 , 55.7963 ] 
 aliases:
   - CSTO
   - CSTO(Collective_Security_Treaty_Organization)

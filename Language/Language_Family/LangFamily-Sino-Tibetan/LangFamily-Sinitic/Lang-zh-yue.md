@@ -109,7 +109,7 @@ Glottolog_code: yuec1235
 > but have lost several distinctions in the initial consonants and medial glides 
 > that other Chinese varieties have retained.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yue%20Chinese)
+> [Wikipedia](https://en.wikipedia.org/wiki/Yue%20Chinese) 
 
 
 ## Confidential Links & Embeds: 

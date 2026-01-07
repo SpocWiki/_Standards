@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 158.183333333 , 6.916666666 ] 
 aliases:
   - Micronesia
 has_id_wikidata: Q702
@@ -252,7 +253,8 @@ official_name: les États fédérés de Micronésie
 >
 > Notwithstanding the fact that the notion of "Micronesia" has been quite well established since 1832 and has been used ever since, by most popular works, this set does not correspond to any geomorphological, archaeological, linguistic, ethnic or cultural unity, but on the contrary represents a disparate ensemble, with no real deep unity. In fact, "Micronesian people" doesn't exist as a subset of the sea-migrating Austronesian people, who may also include the Polynesian people and the hypothetical Australo-Melanesian or "Melanesian people". Human settlement of Micronesia began several millennia ago. Based on the current scientific consensus, the Austronesian peoples originated from a prehistoric seaborne migration, known as the Austronesian expansion, from pre-Han Formosa, at around 3000 to 1500 BCE. Austronesians reached the northernmost Philippines, specifically the Batanes Islands, by around 2200 BCE. Austronesians were the first people to invent oceangoing sailing technologies (notably catamarans, outrigger boats, lashed-lug boat building, and the crab claw sail), which enabled their rapid dispersal into the islands of the Indo-Pacific. From 2000 BCE they assimilated (or were assimilated by) the earlier populations on the islands in their migration pathway.The earliest known contact of Europeans with Micronesia was in 1521, when Magellan expedition landed in the Marianas. Jules Dumont d'Urville is usually credited with coining the term "Micronesia" in 1832, but in fact, Louis Domeny de Rienzi used this term a year earlier.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Micronesia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Micronesia) 
+
 
 ## #has_/map 
 

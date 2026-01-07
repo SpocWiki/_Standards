@@ -37,7 +37,6 @@ title: Single-stranded DNA Viruses
 > [Wikipedia](https://en.wikipedia.org/wiki/DNA%20virus) 
 
 
-
 ## Title Illustrations
 
   ---------------------------------------

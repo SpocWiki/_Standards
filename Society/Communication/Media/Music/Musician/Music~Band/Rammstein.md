@@ -17,7 +17,7 @@ Named after the City [[Ramstein]] where 1988 Planes crashed during a Flight Show
 >
 > Rammstein was one of the first bands to emerge within the Neue Deutsche Härte genre, with their debut album leading the music press to coin the term, and their style of music has generally had a positive reception from music critics. Commercially, the band has been very successful, earning many No. 1 albums as well as gold and platinum certifications in countries around the world. Their grand live performances, which often feature pyrotechnics, have contributed to the growth in their popularity. Despite success, the band has been subject to some controversies, with their overall image having been criticized; for instance, the song "Ich tu dir weh" forced its parent album Liebe ist für alle da to be re-released in Germany with the song removed due to its sexually explicit lyrics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rammstein)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rammstein) 
 
 
 ## Confidential Links & Embeds: 

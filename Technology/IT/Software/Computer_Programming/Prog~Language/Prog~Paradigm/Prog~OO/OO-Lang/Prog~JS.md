@@ -164,7 +164,8 @@ also due to it's LISP Roots, which enabled its use it in Functional and OO Progr
 > Although Java and JavaScript are similar in name, syntax, and respective standard libraries, 
 > the two languages are distinct and differ greatly in design.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
+> [Wikipedia](https://en.wikipedia.org/wiki/JavaScript) 
+
 
  
 JavaScript was initially named ActionScript, but due to the huge Success of Sun's [[Prog~Java|Prog~Java]] it was renamed. 

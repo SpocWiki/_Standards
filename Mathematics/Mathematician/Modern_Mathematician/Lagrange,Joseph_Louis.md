@@ -155,7 +155,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > became the first professor of analysis at the École Polytechnique upon its opening in 1794, 
 > was a founding member of the Bureau des Longitudes, and became Senator in 1799.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Joseph-Louis%20Lagrange)
+> [Wikipedia](https://en.wikipedia.org/wiki/Joseph-Louis%20Lagrange) 
 
 
 ## Confidential Links & Embeds: 

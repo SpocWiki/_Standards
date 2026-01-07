@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 1.0 , 28.0 ] 
 aliases:
   - Algeria
   - Argelia

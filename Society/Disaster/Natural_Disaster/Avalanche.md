@@ -103,8 +103,7 @@ type: private_note
 > Avalanches can be described by their size, destructive potential, initiation mechanism, composition, 
 > and dynamics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Avalanche)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Avalanche) 
 
 
 # [[Avalanche]] 

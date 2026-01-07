@@ -58,8 +58,6 @@ Commons_category: Schisms
 > [Wikipedia](https://en.wikipedia.org/wiki/Schism) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Schism|Schism]] 

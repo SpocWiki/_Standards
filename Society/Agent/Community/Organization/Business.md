@@ -168,7 +168,6 @@ Colloquially, Business is anything that keeps you occupied / busy.
 
 ## #has_/text_of_/abstract 
 
-
 > **Business** is the practice of making one's living or making money 
 > by producing or buying and selling products (such as goods and services). 
 > It is also "any activity or enterprise entered into for [[Profit]]."
@@ -190,7 +189,7 @@ Colloquially, Business is anything that keeps you occupied / busy.
 > They are also more complicated and expensive to set up, 
 > but offer more protection and benefits for the owners and members.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Business)
+> [Wikipedia](https://en.wikipedia.org/wiki/Business) 
 
 
 ## Confidential Links & Embeds: 

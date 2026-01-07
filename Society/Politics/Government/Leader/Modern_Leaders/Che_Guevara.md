@@ -180,7 +180,7 @@ Wolfram_Language_entity_code: Entity["Person", "CheGuevara::95v73"]
 > while an Alberto Korda photograph of him, titled Guerrillero Heroico, 
 > was cited by the Maryland Institute College of Art as "the most famous photograph in the world".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Che%20Guevara)
+> [Wikipedia](https://en.wikipedia.org/wiki/Che%20Guevara) 
 
 
 ## Confidential Links & Embeds: 

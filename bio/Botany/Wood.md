@@ -81,7 +81,7 @@ ZVG_number: 531358
 >
 > Wood is scientifically studied and researched through the discipline of wood science, which was initiated since the beginning of the 20th century.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wood)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wood) 
 
 
 ## Confidential Links & Embeds: 

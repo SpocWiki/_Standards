@@ -754,7 +754,7 @@ into the Subfolder `USA` so this Link can be resolved: [[USA/ReadMe]]
 > The national capital of the United States is Washington, D.C. 
 > and its most populous city and principal financial center is [[USA/USA~Eastern/New_York,State/New_York.Cities/New_York,City|New_York,City]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20States)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20States) 
 
 
 ## Maps and Flags 

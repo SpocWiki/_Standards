@@ -30,8 +30,7 @@
 > - the European Stability Mechanism, and 
 > - the Unified Patent Court.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/European%20Communities)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/European%20Communities) 
 
 
 1 January 1973

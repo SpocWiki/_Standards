@@ -448,7 +448,7 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/obesity
 >
 > Obesity is a leading preventable cause of death worldwide, with increasing rates in adults and children. In 2022, over 1 billion people lived with obesity worldwide (879 million adults and 159 million children), representing more than a double of adult cases (and four times higher than cases among children) registered in 1990. Obesity is more common in women than in men. Today, obesity is stigmatized in most of the world. Conversely, some cultures, past and present, have a favorable view of obesity, seeing it as a symbol of wealth and fertility. The World Health Organization, the US, Canada, Japan, Portugal, Germany, the European Parliament and medical societies, e.g. the American Medical Association, classify obesity as a disease. Others, such as the UK, do not.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Obesity)
+> [Wikipedia](https://en.wikipedia.org/wiki/Obesity) 
 
 
 ## Confidential Links & Embeds: 

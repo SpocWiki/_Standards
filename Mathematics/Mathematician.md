@@ -92,7 +92,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Mathematician::42t84"]
 > **Mathematicians** are concerned with numbers, 
 > data, quantity, structure, space, models, and change.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mathematician)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mathematician) 
 
 
 ## Confidential Links & Embeds: 

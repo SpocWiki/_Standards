@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1922-01-01 
+location: [ 37.677 , 55.761 ] 
 aliases:
 has_id_wikidata: Q194009
 legal_form: "[[_Standards/WikiData/WD~joint_stock_company,134161]]"

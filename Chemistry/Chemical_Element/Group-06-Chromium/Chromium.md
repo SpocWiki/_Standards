@@ -145,7 +145,6 @@ ZVG_number: 8190
 
 ## #has_/text_of_/abstract 
 
-
 > **Chromium** is a chemical element with the symbol (Abbr::Cr) and atomic number (Charge-e::24). 
 > It is the first element in group (GroupNo::6). 
 > It is a steely-grey, lustrous, hard, and brittle transition metal. 
@@ -168,7 +167,7 @@ ZVG_number: 8190
 >
 > In the United States, trivalent chromium (Cr(III)) ion is considered an essential nutrient in humans for insulin, sugar, and lipid metabolism. However, in 2014, the European Food Safety Authority, acting for the European Union, concluded that there was insufficient evidence for chromium to be recognized as essential.While chromium metal and Cr(III) ions are considered non-toxic, hexavalent chromium, Cr(VI), is toxic and carcinogenic. According to the European Chemicals Agency (ECHA), chromium trioxide that is used in industrial electroplating processes is a "substance of very high concern" (SVHC).Abandoned chromium production sites often require environmental cleanup.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chromium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chromium) 
 
 
 ## Confidential Links & Embeds: 

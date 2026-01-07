@@ -4,7 +4,6 @@
 
 ## #has_/text_of_/abstract 
 
-
 > Mastodon is an open source, self-hosted,  social networking service.  
 > Mastodon uses the ActivityPub protocol for federation 
 > which allows users to communicate between independent Mastodon instances 
@@ -23,7 +22,7 @@
 > In mid-January 2025, the Mastodon team announced it would transition to a new non-profit 
 > to run the Mastodon project and called for funding assistance.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mastodon%20(social%20network))
+> [Wikipedia](https://en.wikipedia.org/wiki/Mastodon%20(social%20network)) 
 
 
 ## #has_/text_of_/abstract 

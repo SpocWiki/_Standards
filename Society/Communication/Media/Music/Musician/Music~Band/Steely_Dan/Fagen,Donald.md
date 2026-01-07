@@ -16,7 +16,7 @@ aliases:
 > In 2001, Fagen was inducted into the Rock and Roll Hall of Fame as a member of Steely Dan. 
 > Following Becker's death in 2017, Fagen continued to tour alone under the Steely Dan name.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Donald%20Fagen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Donald%20Fagen) 
 
 
 ## Confidential Links & Embeds: 

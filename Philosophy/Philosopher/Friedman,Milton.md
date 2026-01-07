@@ -157,7 +157,7 @@ U_S_National_Archives_Identifier: 131043481
 >
 > Friedman's works cover a broad range of economic topics and public policy issues. His books and essays have had global influence, including in former communist states. A 2011 survey of economists commissioned by the EJW ranked Friedman as the second-most popular economist of the 20th century, following only John Maynard Keynes. Upon his death, The Economist described him as "the most influential economist of the second half of the 20th century ... possibly of all of it".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Milton%20Friedman)
+> [Wikipedia](https://en.wikipedia.org/wiki/Milton%20Friedman) 
 
 
 ## Confidential Links & Embeds: 

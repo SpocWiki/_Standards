@@ -435,7 +435,7 @@ Capital :: [[Malawi/Districts~Malawi/Lilongwe]]
 >
 > Malawi has a low life expectancy and high infant mortality. HIV/AIDS is highly prevalent, which both reduces the labour force and requires increased government expenditures. The country has a diverse population that includes native peoples, Asians, and Europeans. Several languages are spoken, and there is an array of religious beliefs. Although in the past there was a periodic regional conflict fuelled in part by ethnic divisions, by 2008 this internal conflict had considerably diminished, and the idea of identifying with one's Malawian nationality had reemerged.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Malawi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Malawi) 
 
 
 ## Confidential Links & Embeds: 

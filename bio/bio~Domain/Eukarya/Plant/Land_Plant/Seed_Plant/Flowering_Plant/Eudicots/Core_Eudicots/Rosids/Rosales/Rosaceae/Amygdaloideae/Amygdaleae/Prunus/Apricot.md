@@ -115,7 +115,7 @@ taxon_name: Prunus armeniaca
 > 
 > In Austria, they are the basis of Marillenknödel, sweet apricot dumplings.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Apricot)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Apricot) 
 
 
 ## Confidential Links & Embeds: 

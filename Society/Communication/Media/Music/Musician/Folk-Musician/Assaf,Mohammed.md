@@ -30,7 +30,7 @@ aliases:
 > and has released two albums and a great number of singles and collaborations. 
 > Most of his music is sung in the Iraqi and Gulf dialects.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mohammed%20Assaf)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mohammed%20Assaf) 
 
 
 ## Confidential Links & Embeds: 

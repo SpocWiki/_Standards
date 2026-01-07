@@ -28,7 +28,7 @@ aliases:
 > but is still distributed in reprints by King Features Syndicate, 
 > making it the oldest comic strip still in syndication and the longest-running ever.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Katzenjammer%20Kids)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Katzenjammer%20Kids) 
 
 
 ## Confidential Links & Embeds: 

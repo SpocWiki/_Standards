@@ -70,7 +70,7 @@ U_S_National_Archives_Identifier: 10639595
 >
 > Globally, there has been a widespread trend towards greater legal access to abortion since 1973, but there remains debate with regard to moral, religious, ethical, and legal issues. Those who oppose abortion often argue that an embryo or fetus is a person with a right to life, and thus equate abortion with murder. Those who support abortion's legality often argue that it is a woman's reproductive right. Others favor legal and accessible abortion as a public health measure. Abortion laws and views of the procedure are different around the world. In some countries abortion is legal and women have the right to make the choice about abortion. In some areas, abortion is legal only in specific cases such as rape, incest, fetal defects, poverty, and risk to a woman's health.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Abortion)
+> [Wikipedia](https://en.wikipedia.org/wiki/Abortion) 
 
 
 ## Confidential Links & Embeds: 

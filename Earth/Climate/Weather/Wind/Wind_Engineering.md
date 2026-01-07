@@ -55,9 +55,6 @@ for [[../../../Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/count
 > [Wikipedia](https://en.wikipedia.org/wiki/Wind%20engineering) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Wind/Wind_Engineering|Wind_Engineering]] 

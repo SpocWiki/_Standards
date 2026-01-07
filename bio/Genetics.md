@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1900-01-01 
 aliases:
   - Genetik
   - Genetics
@@ -66,7 +67,7 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Genetics,1104653
 >
 > Genetic processes work in combination with an organism's environment and experiences to influence development and behavior, often referred to as nature versus nurture. The intracellular or extracellular environment of a living cell or organism may increase or decrease gene transcription. A classic example is two seeds of genetically identical corn, one placed in a temperate climate and one in an arid climate (lacking sufficient waterfall or rain). While the average height the two corn stalks could grow to is genetically determined, the one in the arid climate only grows to half the height of the one in the temperate climate due to lack of water and nutrients in its environment.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Genetics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Genetics) 
 
 
 ## Confidential Links & Embeds: 

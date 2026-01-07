@@ -59,7 +59,7 @@ short_name: CMi
 >
 > Canis Minor contains only two stars brighter than the fourth magnitude, Procyon (Alpha Canis Minoris), with a magnitude of 0.34, and Gomeisa (Beta Canis Minoris), with a magnitude of 2.9. The constellation's dimmer stars were noted by Johann Bayer, who named eight stars including Alpha and Beta, and John Flamsteed, who numbered fourteen. Procyon is the eighth-brightest star in the night sky, as well as one of the closest. A yellow-white main-sequence star, it has a white dwarf companion. Gomeisa is a blue-white main-sequence star. Luyten's Star is a ninth-magnitude red dwarf and the Solar System's next closest stellar neighbour in the constellation after Procyon. Additionally, Procyon and Luyten's Star are only 1.12 light-years away from each other, and Procyon would be the brightest star in Luyten's Star's sky. The fourth-magnitude HD 66141, which has evolved into an orange giant towards the end of its life cycle, was discovered to have a planet in 2012. There are two faint deep-sky objects within the constellation's borders. The 11 Canis-Minorids are a meteor shower that can be seen in early December.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Canis%20Minor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Canis%20Minor) 
 
 
 ## Confidential Links & Embeds: 

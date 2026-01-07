@@ -26,7 +26,7 @@ aliases:
 > (formerly known as Cruel and Unusual Films) 
 > alongside his wife Deborah Snyder and producing partner Wesley Coller.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Zack%20Snyder)
+> [Wikipedia](https://en.wikipedia.org/wiki/Zack%20Snyder) 
 
 
 ## Confidential Links & Embeds: 

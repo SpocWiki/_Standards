@@ -45,7 +45,7 @@ aliases:
 > He also wrote [[Not the Messiah]] (2009). 
 > He also performed at the London 2012 Olympic Games closing ceremony.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Eric%20Idle)
+> [Wikipedia](https://en.wikipedia.org/wiki/Eric%20Idle) 
 
 
 ## Confidential Links & Embeds: 

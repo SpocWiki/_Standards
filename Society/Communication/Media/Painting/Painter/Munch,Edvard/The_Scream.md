@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1893-01-01 
+location: [ 10.7375 , 59.916111111 ] 
 aliases:
   - The_Scream
   - Skrik

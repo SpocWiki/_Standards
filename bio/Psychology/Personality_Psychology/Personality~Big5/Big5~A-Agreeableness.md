@@ -45,7 +45,7 @@ Big Five Agreeableness emphasizes kindness and cooperation.
 >
 > Agreeableness is a superordinate trait, meaning it is a grouping of personality sub-traits that cluster together statistically. Some lower-level traits, or facets, that are commonly grouped under agreeableness include trust, straightforwardness, altruism, helpfulness, modesty, and tender-mindedness.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Agreeableness)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Agreeableness) 
 
 
 ## Verträglichkeit 

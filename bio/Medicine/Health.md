@@ -65,7 +65,7 @@ UMLS_CUI: C0949333
 > 
 > Still, other factors are beyond both individual and group choices, such as genetic disorders.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Health)
+> [Wikipedia](https://en.wikipedia.org/wiki/Health) 
 
 
 ## Confidential Links & Embeds: 

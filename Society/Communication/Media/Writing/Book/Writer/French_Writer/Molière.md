@@ -177,7 +177,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > while playing the hypochondriac Argan; 
 > he finished the performance but collapsed again and died a few hours later.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Moli%C3%A8re)
+> [Wikipedia](https://en.wikipedia.org/wiki/Moli%C3%A8re) 
 
 
 ## Confidential Links & Embeds: 

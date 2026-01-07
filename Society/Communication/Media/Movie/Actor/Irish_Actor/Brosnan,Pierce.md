@@ -41,7 +41,7 @@ aliases:
 > In 1997, Brosnan received a star on the Hollywood Walk of Fame for his contributions to the film industry. 
 > In 2020, he was listed at No. 15 on The Irish Times' list of the greatest Irish film actors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pierce%20Brosnan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pierce%20Brosnan) 
 
 
 ## Confidential Links & Embeds: 

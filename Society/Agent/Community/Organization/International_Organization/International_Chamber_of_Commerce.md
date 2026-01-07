@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1919-01-01 
+location: [ 2.292307 , 48.864112 ] 
 aliases:
   - International Chamber of Commerce
   - Chambre de commerce internationale

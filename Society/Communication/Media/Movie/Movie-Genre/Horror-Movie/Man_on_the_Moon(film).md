@@ -32,7 +32,7 @@
 > and chronicles Carrey's performance as Kaufman in the film, 
 > a performance he maintained during much of the film's production.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Man%20on%20the%20Moon%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Man%20on%20the%20Moon%20(film)) 
 
 
 ## Confidential Links & Embeds: 

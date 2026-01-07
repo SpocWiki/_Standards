@@ -25,7 +25,7 @@
 > The hub shares similarities with the Star hub 
 > that was previously launched on Disney+ in February 2021 outside the U.S. as a substitute to Hulu.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hulu)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hulu) 
 
 
 ## Confidential Links & Embeds: 

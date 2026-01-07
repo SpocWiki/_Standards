@@ -33,7 +33,7 @@ has_id_wikidata: Q215210
 >
 > Insoluble fiber – which does not dissolve in water – is inert to digestive enzymes in the upper gastrointestinal tract. Examples are wheat bran, cellulose, and lignin. Coarsely ground insoluble fiber triggers the secretion of mucus in the large intestine providing bulking. However, finely ground insoluble fiber does not have this effect and instead can cause a constipation. Some forms of insoluble fiber, such as resistant starches, can be fermented in the colon.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dietary%20fiber)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dietary%20fiber) 
 
 
 ## Confidential Links & Embeds: 

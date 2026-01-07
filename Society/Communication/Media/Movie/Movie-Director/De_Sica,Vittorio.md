@@ -128,7 +128,7 @@ P1015: 90382225
 > 
 > De Sica's acting was considered the highlight of the film.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vittorio%20De%20Sica)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vittorio%20De%20Sica) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1200-01-01 
+location: [ 78.119444444 , 9.919722222 ] 
 aliases:
   - Meenakshi Temple
   - Arulmigu Meenakshi Sundareswarar Temple

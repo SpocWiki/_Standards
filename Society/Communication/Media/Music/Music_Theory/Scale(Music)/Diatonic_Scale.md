@@ -41,8 +41,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Diatonic%20scale) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale|Diatonic_Scale]] 

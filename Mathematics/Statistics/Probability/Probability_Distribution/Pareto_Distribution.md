@@ -46,7 +46,7 @@ Commons_category: Pareto distribution
 > Empirical observation has shown that this 80:20 distribution 
 > fits a wide range of cases, including natural phenomena and human activities.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pareto%20distribution)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pareto%20distribution) 
 
 
 ## Confidential Links & Embeds: 

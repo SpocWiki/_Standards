@@ -22,7 +22,7 @@ aliases:
 > Altman returned a week later, and Sutskever stepped down from the board. 
 > In June 2024, Sutskever co-founded [[Safe_Superintelligence]] with Daniel Gross and Daniel Levy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ilya%20Sutskever)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ilya%20Sutskever) 
 
 
 ## Confidential Links & Embeds: 

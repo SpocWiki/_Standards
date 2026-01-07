@@ -21,9 +21,6 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Protocols%20of%20the%20Elders%20of%20Zion) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Protocols_of_the_Elders_of_Zion|Protocols_of_the_Elders_of_Zion]] 

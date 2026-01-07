@@ -46,10 +46,6 @@ Commons_category: Vitamin B6
 > [Wikipedia](https://en.wikipedia.org/wiki/Vitamin%20B6) 
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B6|Vitamin_B6]] 

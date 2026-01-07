@@ -48,7 +48,7 @@ Dewey_Decimal_Classification: "539.752"
 >
 > There are 28 naturally occurring chemical elements on Earth that are radioactive, consisting of 35 radionuclides (seven elements have two different radionuclides each) that date before the time of formation of the Solar System. These 35 are known as primordial radionuclides. Well-known examples are uranium and thorium, but also included are naturally occurring long-lived radioisotopes, such as potassium-40. Each of the heavy primordial radionuclides participates in one of the four decay chains.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Radioactive%20decay)
+> [Wikipedia](https://en.wikipedia.org/wiki/Radioactive%20decay) 
 
 
 ## Confidential Links & Embeds: 

@@ -212,7 +212,7 @@ writing_language:
 > and her sister's husband, Georges-Charles de Heeckeren d'Anthès, also known as Dantes-Gekkern, 
 > a French officer serving with the Chevalier Guard Regiment.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Pushkin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alexander%20Pushkin) 
 
 
 ## Confidential Links & Embeds: 

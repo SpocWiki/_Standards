@@ -23,6 +23,7 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/List%20of%20legal%20abbreviations) 
 
+
 ## Legal Symbols 
 
 - [©](https://en.wikipedia.org/wiki/%C2%A9 "©") or [Copr.] or [C](https://en.wikipedia.org/wiki/C "C") — Copyright (meaning someone claims ownership of the text, book, music, software, etc.) 

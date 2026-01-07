@@ -84,7 +84,7 @@ InChI: InChI=1S/C24H42O21/c25-1-5-9(28)11(30)16(35)22(41-5)39-4-8-20(45-23-17(36
 >
 > Glycogen is an analogue of starch, a glucose polymer that functions as energy storage in plants. It has a structure similar to amylopectin (a component of starch), but is more extensively branched and compact than starch. Both are white powders in their dry state. Glycogen is found in the form of granules in the cytosol/cytoplasm in many cell types, and plays an important role in the glucose cycle. Glycogen forms an energy reserve that can be quickly mobilized to meet a sudden need for glucose, but one that is less compact than the energy reserves of triglycerides (lipids). As such it is also found as storage reserve in many parasitic protozoa.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Glycogen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Glycogen) 
 
 
 ## Glycogen Size in Humans

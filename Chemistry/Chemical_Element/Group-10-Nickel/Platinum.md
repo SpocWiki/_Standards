@@ -89,7 +89,6 @@ Wolfram_Language_entity_code: Entity["Mineral", "Platinum"]
 
 ## #has_/text_of_/abstract 
 
-
 > **Platinum** is a chemical element with the symbol (Abbr::Pt) and atomic number (Charge-e::78). 
 > It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal. 
 > Its name originates from Spanish platina, a diminutive of plata "silver".
@@ -129,7 +128,7 @@ Wolfram_Language_entity_code: Entity["Mineral", "Platinum"]
 > but has been twice as expensive or more, mostly prior to 2008. 
 > In early 2021, the value of platinum ranged from US$1,055 to US$1,320 per troy ounce.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Platinum)
+> [Wikipedia](https://en.wikipedia.org/wiki/Platinum) 
 
 
 ## Confidential Links & Embeds: 

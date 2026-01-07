@@ -173,7 +173,7 @@ Regensburg_Classification: BF 4870
 > is a novella that comments on, criticizes, and ridicules many events, thinkers and philosophies of his time, 
 > most notably Gottfried Leibniz and his belief that our world is of necessity the "best of all possible worlds".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Voltaire)
+> [Wikipedia](https://en.wikipedia.org/wiki/Voltaire) 
 
 
 ## Confidential Links & Embeds: 

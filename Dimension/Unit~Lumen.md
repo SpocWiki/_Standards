@@ -57,7 +57,7 @@ This is the luminous Flow into 1 Steradian Space
 >
 > One lux is one lumen per square metre.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lumen%20(unit))
+> [Wikipedia](https://en.wikipedia.org/wiki/Lumen%20(unit)) 
 
 
 ## Confidential Links & Embeds: 

@@ -69,7 +69,8 @@ aliases:
 > In foreign policy, the party supports liberal internationalism, 
 > as well as tough stances against China and Russia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Democratic%20Party%20(United%20States))
+> [Wikipedia](https://en.wikipedia.org/wiki/Democratic%20Party%20(United%20States)) 
+
 
 ## Confidential Links & Embeds
 

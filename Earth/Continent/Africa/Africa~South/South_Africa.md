@@ -579,7 +579,7 @@ Capital :: [[Pretoria]]
 >
 > South Africa is a multi-ethnic society encompassing a variety of cultures, languages, and religions; it is often called the "rainbow nation" to describe its multicultural diversity, especially in the wake of apartheid. Recognised as a middle power in international affairs, South Africa maintains significant regional influence and is a member of BRICS+, the African Union, SADC, SACU, the Commonwealth of Nations, and the G20. A developing, newly industrialised country, it has the largest economy in Africa by nominal GDP, is tied with Ethiopia for the most UNESCO World Heritage Sites in Africa, and is a biodiversity hotspot with unique biomes, plant, and animal life. Since the end of apartheid, government accountability and quality of life have substantially improved. However, crime, poverty, and inequality remain widespread, with about 32% of the population unemployed as of 2024, while some 56% lived below the poverty line and 21% below $2.15 a day in 2014. Having the highest Gini coefficient of 0.63, South Africa is considered one of the most unequal countries in the world, if not the most unequal.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/South%20Africa)
+> [Wikipedia](https://en.wikipedia.org/wiki/South%20Africa) 
 
 
 ## Confidential Links & Embeds: 

@@ -387,7 +387,7 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 >
 > Christianity is the most widely professed faith in the country. According to the 2024 rendition of the World Happiness Report, the Republic of the Congo is ranked 89th among 140 nations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Republic%20of%20the%20Congo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Republic%20of%20the%20Congo) 
 
 
 ## Confidential Links & Embeds: 

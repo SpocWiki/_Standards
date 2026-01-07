@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 3.6825 , 56.459 ] 
 aliases:
 has_id_wikidata: Q1693
 has_part_s_:
@@ -201,7 +202,8 @@ lat: 67.8
 > 
 > Due to the dense population, heavy industrialisation, and intense use of the sea and the area surrounding it, various environmental issues affect the sea's ecosystems. Adverse environmental issues – commonly including overfishing, industrial and agricultural runoff, dredging, and dumping, among others –  have led to several efforts to prevent degradation and to safeguard long-term economic benefits.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/North%20Sea)
+> [Wikipedia](https://en.wikipedia.org/wiki/North%20Sea) 
+
 
 67.8,26.6
 ## All Contents

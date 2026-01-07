@@ -29,7 +29,7 @@ aliases:
 > and can apply for permanent observer state status. 
 > Non-state observers are the international organizations and other entities.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20General%20Assembly%20observers)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20General%20Assembly%20observers) 
 
 
 - **International Committee of the Red Cross** (ICRC)

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1787-09-17 
 aliases:
   - United_States_Constitution
   - Constitution of the United States
@@ -144,8 +145,6 @@ work_available_at_URL: https://www.archives.gov/founding-docs/constitution-trans
 > The Constitution of the United States is the oldest and longest-standing written and codified national constitution in force in the world. The first permanent constitution, it has been interpreted, supplemented, and implemented by a large body of federal constitutional law and has influenced the constitutions of other nations.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Constitution%20of%20the%20United%20States) 
-
-
 
 
 ## Confidential Links & Embeds: 

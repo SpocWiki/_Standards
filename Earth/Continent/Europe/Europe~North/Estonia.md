@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 26.0 , 59.0 ] 
 aliases:
   - Estonia
   - Estonie

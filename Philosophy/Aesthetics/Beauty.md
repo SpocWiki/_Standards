@@ -57,7 +57,7 @@ UMLS_CUI: C0004898
 > Conceptions of beauty aim to capture what is essential to all beautiful things. 
 > Classical conceptions define beauty in terms of the relation between the beautiful object as a whole and its parts: the parts should stand in the right proportion to each other and thus compose an integrated harmonious whole. Hedonist conceptions see a necessary connection between pleasure and beauty, e.g. that for an object to be beautiful is for it to cause disinterested pleasure. Other conceptions include defining beautiful objects in terms of their value, of a loving attitude toward them or of their function.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Beauty)
+> [Wikipedia](https://en.wikipedia.org/wiki/Beauty) 
 
 
 ## Confidential Links & Embeds: 

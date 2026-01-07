@@ -23,7 +23,8 @@ title: Proteobacteria
 > The Pseudomonadota are widely diverse, 
 > with differences in morphology, metabolic processes, relevance to humans, and ecological influence.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pseudomonadota)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pseudomonadota) 
+
 
 ## Phylogeny 
 

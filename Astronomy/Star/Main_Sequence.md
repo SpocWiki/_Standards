@@ -68,6 +68,7 @@ Commons_category: Main-sequence stars
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Main%20sequence) 
 
+
 ## Evolutions 
 ### Red Giant Evolution for small Stars 
 #### A. Core Hydrogen Exhaustion

@@ -50,7 +50,7 @@ U_S_National_Archives_Identifier: 10676224
 > a behavior consists of actor, operation, interactions, and their properties. 
 > This can be represented as a behavior vector.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Behavior)
+> [Wikipedia](https://en.wikipedia.org/wiki/Behavior) 
 
 
 ## Confidential Links & Embeds: 

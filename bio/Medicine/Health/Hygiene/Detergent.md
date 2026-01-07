@@ -41,11 +41,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/MOYUSH
 > [Wikipedia](https://en.wikipedia.org/wiki/Detergent) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Hygiene/Detergent|Detergent]] 

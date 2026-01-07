@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1954-05-15 
+has_time_stopped: 2012-07-31 
 aliases:
   - Latin Union
   - Latin_Union
@@ -47,7 +49,7 @@ dissolved_abolished_or_demolished_date: 2012-07-31T00:00:00Z
 > the dissolution of its Secretariat General (effective 31 July 2012), 
 > and the termination of employment for all the organization's personnel.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Latin%20Union)
+> [Wikipedia](https://en.wikipedia.org/wiki/Latin%20Union) 
 
 
 ## Confidential Links & Embeds: 

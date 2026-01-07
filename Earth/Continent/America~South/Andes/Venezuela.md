@@ -553,7 +553,7 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 >
 > The results of the 2024 presidential election were not recognized by the Carter Center and Organization of American States due to the lack of granular results and have been disputed by the opposition, leading to protests across the country.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Venezuela)
+> [Wikipedia](https://en.wikipedia.org/wiki/Venezuela) 
 
 
 ## Confidential Links & Embeds: 

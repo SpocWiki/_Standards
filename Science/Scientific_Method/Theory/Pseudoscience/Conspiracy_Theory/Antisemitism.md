@@ -137,6 +137,7 @@ Universal_Decimal_Classification: 323.12(=411.16)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Antisemitism) 
 
+
 ## Examples of Antisemitism 
 
 - [[../../../../../Philosophy/Philosopher/Ancient_Philosopher/Hippo,Augustine_of|Augustine of Hippo]] quotes Jewish Relition as inferior in trying to demarcate Christianity from it. 

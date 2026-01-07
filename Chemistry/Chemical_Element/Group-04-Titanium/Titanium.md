@@ -168,7 +168,7 @@ type: Element
 > There are two allotropic forms and five naturally occurring isotopes of this element, 
 > 46Ti through 50Ti, with 48Ti being the most abundant (73.8%).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Titanium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Titanium) 
 
 
 ## Confidential Links & Embeds: 

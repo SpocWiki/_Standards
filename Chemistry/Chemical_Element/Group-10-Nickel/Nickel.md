@@ -140,7 +140,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.
 
 ## #has_/text_of_/abstract 
 
-
 > **Nickel** is a chemical element with symbol (Abbr::Ni) and atomic number (Charge-e::28). 
 > It is a silvery-white lustrous metal with a slight golden tinge. 
 > Nickel is a hard and ductile transition metal. 
@@ -179,7 +178,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.
 > The metal is used chiefly in alloys and corrosion-resistant plating. 
 > About 68% of world production is used in stainless steel. A further 10% is used for nickel-based and copper-based alloys, 9% for plating, 7% for alloy steels, 3% in foundries, and 4% in other applications such as in rechargeable batteries, including those in electric vehicles (EVs). Nickel is widely used in coins, though nickel-plated objects sometimes provoke nickel allergy. As a compound, nickel has a number of niche chemical manufacturing uses, such as a catalyst for hydrogenation, cathodes for rechargeable batteries, pigments and metal surface treatments. Nickel is an essential nutrient for some microorganisms and plants that have enzymes with nickel as an active site.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nickel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nickel) 
 
 
 ## Confidential Links & Embeds: 

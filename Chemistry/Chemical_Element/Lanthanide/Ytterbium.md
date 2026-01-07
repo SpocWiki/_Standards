@@ -80,7 +80,6 @@ UNII: MNQ4O4WSI1
 
 ## #has_/text_of_/abstract 
 
-
 > **Ytterbium** is a chemical element with the symbol (Abbr::Yb) and atomic number (Charge-e::70). 
 > It is a metal, the fourteenth and penultimate element in the lanthanide series, 
 > which is the basis of the relative stability of its +2 oxidation state. 
@@ -101,7 +100,7 @@ UNII: MNQ4O4WSI1
 >
 > Natural ytterbium is a mixture of seven stable isotopes, which altogether are present at concentrations of 0.3 parts per million. This element is mined in China, the United States, Brazil, and India in form of the minerals monazite, euxenite, and xenotime. The ytterbium concentration is low because it is found only among many other rare-earth elements; moreover, it is among the least abundant. Once extracted and prepared, ytterbium is somewhat hazardous as an eye and skin irritant. The metal is a fire and explosion hazard.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ytterbium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ytterbium) 
 
 
 ## Confidential Links & Embeds: 

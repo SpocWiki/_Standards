@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 123.0 , 12.0 ] 
 aliases:
   - Philippines
   - Filipinas
@@ -758,7 +759,7 @@ Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Re
 >
 > The Philippines is an emerging market and a developing and newly industrialized country, whose economy is transitioning from being agricultural to service- and manufacturing-centered. Its location as an island country on the Pacific Ring of Fire and close to the equator makes it prone to earthquakes and typhoons. The Philippines has a variety of natural resources and a globally-significant level of biodiversity. The country is part of multiple international organizations and forums.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Philippines)
+> [Wikipedia](https://en.wikipedia.org/wiki/Philippines) 
 
 
 ## Confidential Links & Embeds: 

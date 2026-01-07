@@ -136,7 +136,7 @@ Wolfram_Language_entity_code: Entity["Concept", "JeanneDArc::98yg9"]
 > and, two years later, was declared one of the patron saints of France. 
 > She is portrayed in numerous cultural works, including literature, music, paintings, sculptures, and theater.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Joan%20of%20Arc)
+> [Wikipedia](https://en.wikipedia.org/wiki/Joan%20of%20Arc) 
 
 
 ## Confidential Links & Embeds: 

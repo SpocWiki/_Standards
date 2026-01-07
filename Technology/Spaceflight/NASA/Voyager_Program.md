@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1977-01-01 
 aliases:
 has_id_wikidata: Q155311
 different_from: "[[_Standards/WikiData/WD~Voyager,155257]]"

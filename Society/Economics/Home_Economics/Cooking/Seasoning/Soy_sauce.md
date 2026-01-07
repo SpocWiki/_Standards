@@ -42,7 +42,7 @@ native_label: 酱油
 >
 > Soy sauce was created in its current form about 2,200 years ago during the Western Han dynasty of ancient China. Since then, it has become an important ingredient in East and Southeast Asian cooking as well as a condiment worldwide.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Soy%20sauce)
+> [Wikipedia](https://en.wikipedia.org/wiki/Soy%20sauce) 
 
 
 ## Confidential Links & Embeds: 

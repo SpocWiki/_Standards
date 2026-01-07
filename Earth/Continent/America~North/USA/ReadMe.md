@@ -71,7 +71,7 @@ and the subsequent drafting and ratification of the U.S. Constitution in 1787.
 > The national capital of the United States is Washington, D.C. 
 > and its most populous city and principal financial center is New York City.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20States)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20States) 
 
 
 ## Maps and Flags 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1785-01-01 
 aliases:
   - The London Times
   - The Times of London

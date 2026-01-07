@@ -81,8 +81,6 @@ Dewey_Decimal_Classification: "206.57"
 > [Wikipedia](https://en.wikipedia.org/wiki/Monastery) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery|Monastery]] 

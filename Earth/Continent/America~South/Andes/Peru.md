@@ -599,7 +599,7 @@ Capital :: [[Peru/Counties/Lima_Province/City/Lima]]
 >
 > Peru's population includes Mestizos, Amerindians, Europeans, Africans and Asians. The main spoken language is Spanish, although a significant number of Peruvians speak Quechuan languages, Aymara, or other Indigenous languages. This mixture of cultural traditions has resulted in a wide diversity of expressions in fields such as art, cuisine, literature, and music.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Peru)
+> [Wikipedia](https://en.wikipedia.org/wiki/Peru) 
 
 
 ## Confidential Links & Embeds: 

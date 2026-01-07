@@ -48,7 +48,7 @@ UMLS_CUI: C0028645
 >
 > Numerical analysis continues this long tradition: rather than giving exact symbolic answers translated into digits and applicable only to real-world measurements, approximate solutions within specified error bounds are used.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Numerical%20analysis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Numerical%20analysis) 
 
 
 ## Confidential Links & Embeds: 

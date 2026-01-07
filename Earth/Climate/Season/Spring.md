@@ -84,7 +84,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Krokusse%20violett.jpg
 >
 > Spring and "springtime" refer to the season, and also to ideas of rebirth, rejuvenation, renewal, resurrection and regrowth. Subtropical and tropical areas have climates better described in terms of other seasons, e.g. dry or wet, monsoonal or cyclonic. Cultures may have local names for seasons which have little equivalence to the terms originating in Europe.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Spring%20(season))
+> [Wikipedia](https://en.wikipedia.org/wiki/Spring%20(season)) 
 
 
 ## Confidential Links & Embeds: 

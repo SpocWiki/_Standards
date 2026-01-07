@@ -20,7 +20,7 @@ aliases:
 > They have released four studio albums, two EPs, and 18 music videos. 
 > Their most recent studio album, Keep Me Fed, was released on June 28, 2024.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Warning%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Warning%20(band)) 
 
 
 ## Confidential Links & Embeds: 

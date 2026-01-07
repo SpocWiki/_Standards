@@ -38,7 +38,7 @@ aliases:
 > He has also won five Grammy Awards, including Producer of the Year, 
 > and nominations for an Academy Award and two Golden Globe Awards.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Max%20Martin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Max%20Martin) 
 
 
 ## Confidential Links & Embeds: 

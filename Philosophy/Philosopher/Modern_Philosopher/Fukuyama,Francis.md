@@ -24,7 +24,7 @@ every Country tries to find its own Narrative (India, China, Russia, ...)
 >
 > He is a council member of the International Forum for Democratic Studies founded by the National Endowment for Democracy and was a member of the Political Science Department of the RAND Corporation. He is also one of the 25 leading figures on the Information and Democracy Commission launched by Reporters Without Borders. In 2024 he received the Riggs Award for Lifetime Achievement in International and Comparative Public Administration.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Fukuyama)
+> [Wikipedia](https://en.wikipedia.org/wiki/Francis%20Fukuyama) 
 
 
 ## Confidential Links & Embeds: 

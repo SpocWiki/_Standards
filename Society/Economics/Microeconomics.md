@@ -51,7 +51,7 @@ Commons_category: Microeconomics
 >
 > While microeconomics focuses on firms and individuals, macroeconomics focuses on the total of economic activity, dealing with the issues of growth, inflation, and unemployment—and with national policies relating to these issues. Microeconomics also deals with the effects of economic policies (such as changing taxation levels) on microeconomic behavior and thus on the aforementioned aspects of the economy. Particularly in the wake of the Lucas critique, much of modern macroeconomic theories has been built upon microfoundations—i.e., based upon basic assumptions about micro-level behavior.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Microeconomics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Microeconomics) 
 
 
 ## Confidential Links & Embeds: 

@@ -64,7 +64,7 @@ Dewey_Decimal_Classification: "794.6"
 >
 > Tenpin bowling is often simply referred to as bowling. Tenpin, or less commonly big-ball, is prepended in the English-speaking world to distinguish it from other bowling types such as bowls, candlepin, duckpin and five-pin.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tenpin%20bowling)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tenpin%20bowling) 
 
 
 ## Confidential Links & Embeds: 

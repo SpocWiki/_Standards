@@ -13,7 +13,7 @@
 > from 2013 until 2022. 
 > He has a PhD in mathematical physics from Harvard.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Eric%20Weinstein)
+> [Wikipedia](https://en.wikipedia.org/wiki/Eric%20Weinstein) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0632-01-01 
+has_time_stopped: 1924-01-01 
 aliases:
   - Kalif
   - Caliphate

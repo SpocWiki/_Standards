@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0100-01-01 
 aliases:
   - New Testament
   - Neue Testament
@@ -136,7 +137,7 @@ title: Καινή Διαθήκη
 >
 > The New Testament was transmitted through thousands of manuscripts in various languages and church quotations and contains variants. Textual criticism uses surviving manuscripts to reconstruct the oldest version feasible and to chart the history of the written tradition. It has varied reception among Christians today. It is viewed as a holy scripture alongside Sacred Tradition among Catholics and Orthodox, while evangelicals and some other Protestants view it as the inspired word of God without tradition.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/New%20Testament)  
+> [Wikipedia](https://en.wikipedia.org/wiki/New%20Testament) 
 
 
 ## Confidential Links & Embeds: 

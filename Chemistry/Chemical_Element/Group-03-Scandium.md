@@ -26,7 +26,7 @@ type: ElementGroup
 >
 > Historically, sometimes lanthanum (La) and actinium (Ac) were included in the group instead of lutetium and lawrencium, because the electron configurations of many of the rare earths were initially measured wrongly. This version of group 3 is still commonly found in textbooks, but most authors focusing on the subject are against it. Some authors attempt to compromise between the two formats by leaving the spaces below yttrium blank, but this contradicts quantum mechanics as it results in an f-block that is 15 elements wide rather than 14 (the maximum occupancy of an f-subshell).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Group%203%20element)
+> [Wikipedia](https://en.wikipedia.org/wiki/Group%203%20element) 
 
 
 ## Confidential Links & Embeds: 

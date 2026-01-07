@@ -20,7 +20,7 @@
 > was engineered completely by Zuiyo, with no additional involvement from [[Nippon_Animation|Nippon Animation]], 
 > Takahata or Miyazaki. Zuiyo also re-edited the series in two OVA released in 1996.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Heidi,%20Girl%20of%20the%20Alps)
+> [Wikipedia](https://en.wikipedia.org/wiki/Heidi,%20Girl%20of%20the%20Alps) 
 
 
 ## Confidential Links & Embeds: 

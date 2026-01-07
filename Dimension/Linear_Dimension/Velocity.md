@@ -75,7 +75,7 @@ of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Di
 > If there is a change in speed, direction or both, 
 > then the object is said to be undergoing an acceleration.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Velocity)
+> [Wikipedia](https://en.wikipedia.org/wiki/Velocity) 
 
 
 ## Confidential Links & Embeds: 

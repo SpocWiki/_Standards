@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 20.833333333 , 42.55 ] 
 aliases:
   - Kosovo
 has_id_wikidata: Q1246
@@ -311,7 +312,7 @@ markerFolder: ./Kosovo//
 >
 > Kosovo is a developing country, with an upper-middle-income economy. It has experienced solid economic growth over the last decade as measured by international financial institutions since the onset of the financial crisis of 2007–2008. Kosovo is a member of the International Monetary Fund, World Bank, EBRD, Venice Commission, and the International Olympic Committee, and has applied for membership in the Council of Europe, UNESCO, and Interpol, and for observer status in the Organisation of Islamic Cooperation. In December 2022, Kosovo filed a formal application to become a member of the European Union.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kosovo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kosovo) 
 
 
 ## Confidential Links & Embeds: 

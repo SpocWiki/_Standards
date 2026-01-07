@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1983-09-27 
 aliases:
 has_id_wikidata: Q44571
 has_part_s_:
@@ -159,7 +160,7 @@ search_formatter_URL: https://www.gnu.org/cgi-bin/estseek.cgi?phrase=$1
 > Relatedly, Lawrence Lessig states in his introduction to the second edition of Stallman's book Free Software, Free Society 
 > that in it Stallman has written about "the social aspects of software and how Free Software can create community and social justice".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/GNU)
+> [Wikipedia](https://en.wikipedia.org/wiki/GNU) 
 
 
 ## #has_/text_of_/abstract 
@@ -186,7 +187,7 @@ search_formatter_URL: https://www.gnu.org/cgi-bin/estseek.cgi?phrase=$1
 >
 > The project's current work includes software development, awareness building, political campaigning, and sharing of new material.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/GNU%20Project)
+> [Wikipedia](https://en.wikipedia.org/wiki/GNU%20Project) 
 
 
 ## Confidential Links & Embeds: 

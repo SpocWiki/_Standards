@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 173.033333333 , 1.466666666 ] 
 aliases:
   - Kiribati
   - كيريباس
@@ -367,7 +368,7 @@ Capital :: [[South_Tarawa]]
 >
 > Kiribati is a member of the Pacific Community, Commonwealth of Nations, the International Monetary Fund, the World Bank, and the Organisation of African, Caribbean and Pacific States, and became a full member of the United Nations in 1999. As an island nation, the islands are vulnerable to climate change and tsunamis. Addressing climate change has been a central part of its international policy, as a member of the Alliance of Small Island States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kiribati)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kiribati) 
 
 
 ## Confidential Links & Embeds: 

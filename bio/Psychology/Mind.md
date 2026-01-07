@@ -78,7 +78,7 @@ writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
 > 
 > The mind is relevant to many other fields, including epistemology, anthropology, religion, and education.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mind)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mind) 
 
 
 ## Confidential Links & Embeds: 

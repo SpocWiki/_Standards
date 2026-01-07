@@ -26,7 +26,7 @@
 > In 2015, a collection of essays on the novel and the film adaptation was published 
 > entitled The Princess Bride and Philosophy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Princess%20Bride%20(novel))
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Princess%20Bride%20(novel)) 
 
 
 ## Confidential Links & Embeds: 

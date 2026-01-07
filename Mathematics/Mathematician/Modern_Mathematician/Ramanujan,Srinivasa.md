@@ -108,7 +108,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/SRINIVASA%20RAMANUJAN-
 >
 > In 1919, ill health—now believed to have been hepatic amoebiasis (a complication from episodes of dysentery many years previously)—compelled Ramanujan's return to India, where he died in 1920 at the age of 32. His last letters to Hardy, written in January 1920, show that he was still continuing to produce new mathematical ideas and theorems. His "lost notebook", containing discoveries from the last year of his life, caused great excitement among mathematicians when it was rediscovered in 1976.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Srinivasa%20Ramanujan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Srinivasa%20Ramanujan) 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ Commons_category: Duchies
 > that had unified either partially or completely during the medieval era, 
 > such as France, Spain, Sicily, Naples, and the Papal States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Duchy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Duchy) 
 
 
 ## Confidential Links & Embeds: 

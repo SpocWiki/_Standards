@@ -41,7 +41,8 @@ OpenStreetMap_tag: activity:dating=yes
 >
 > With the internet, many dating sites have been created to modernize the personals section of newspapers as a way to find prospective partners. Speed dating, blind dating, and the use of matchmaking are all possible ways of beginning the dating process. Group dating is a modern dating practice especially popular in Japan.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dating)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dating) 
+
 
  
 

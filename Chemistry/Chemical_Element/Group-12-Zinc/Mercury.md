@@ -127,7 +127,6 @@ ZVG_number: 8490
 
 ## #has_/text_of_/abstract 
 
-
 > Mercury is a chemical element with the symbol (Abbr::Hg) and atomic number (Charge-e::80). 
 > It is also known as quicksilver and was formerly named hydrargyrum ( hy-DRAR-jər-əm) 
 > from the Greek words hydor (water) and argyros (silver). 
@@ -145,7 +144,7 @@ ZVG_number: 8490
 >
 > Mercury poisoning can result from exposure to water-soluble forms of mercury (such as mercuric chloride or methylmercury), by inhalation of mercury vapor, or by ingesting any form of mercury. Mercury poisoning is intensified with lead co-exposures. Concurrent mercury and lead exposures are considered one risk factor for autism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mercury%20(element))
+> [Wikipedia](https://en.wikipedia.org/wiki/Mercury%20(element)) 
 
 
 ## Confidential Links & Embeds: 

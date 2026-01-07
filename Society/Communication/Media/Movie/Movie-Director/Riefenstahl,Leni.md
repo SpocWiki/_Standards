@@ -101,7 +101,7 @@ Europeana_entity: agent/base/146877
 >
 > After the war, Riefenstahl was arrested and found to be a Nazi "fellow traveller" but was not charged with war crimes.  Throughout her later life, she denied having known about the Holocaust, and was criticized as the "voice of the 'how could we have known?' defence." Riefenstahl's postwar work included her autobiography and two photography books on the Nuba peoples of southern Sudan.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Leni%20Riefenstahl)
+> [Wikipedia](https://en.wikipedia.org/wiki/Leni%20Riefenstahl) 
 
 
 ## Confidential Links & Embeds: 

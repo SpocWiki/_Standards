@@ -69,6 +69,7 @@ name_in_native_language: Seymour Cray
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seymour%20Cray) 
 
+
 Cray Computers were individually manufactured at a cost between 15 and 80 million Dollars. 
 
 

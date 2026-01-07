@@ -17,9 +17,6 @@ It is not an Operator, because the first Argument is a [[../../schema-org/Class/
 > [Wikipedia](https://en.wikipedia.org/wiki/Ternary%20operation) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~ternary|Function~ternary]] 

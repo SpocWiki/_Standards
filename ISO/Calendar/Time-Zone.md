@@ -41,7 +41,7 @@ Wolfram_Language_entity_type: TimeZone
 >
 > Each time zone is defined by a standard offset from Coordinated Universal Time (UTC). The offsets range from UTC−12:00 to UTC+14:00, and are usually a whole number of hours, but a few zones are offset by an additional 30 or 45 minutes, such as in India and Nepal. Some areas in a time zone may use a different offset for part of the year, typically one hour ahead during spring and summer, a practice known as daylight saving time (DST).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Time%20zone)
+> [Wikipedia](https://en.wikipedia.org/wiki/Time%20zone) 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ aliases:
 > and a custom Les Paul that emits light based on song tempo. 
 > Frehley was inducted into the Rock and Roll Hall of Fame in 2014 as a member of Kiss.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ace%20Frehley)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ace%20Frehley) 
 
 
 ## Confidential Links & Embeds: 

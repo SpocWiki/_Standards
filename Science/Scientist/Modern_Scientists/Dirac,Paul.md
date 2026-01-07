@@ -188,7 +188,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 >
 > Dirac was regarded by his friends and colleagues as unusual in character. In a 1926 letter to Paul Ehrenfest, Albert Einstein wrote of a Dirac paper, "I am toiling over Dirac. This balancing on the dizzying path between genius and madness is awful." In another letter concerning the Compton effect he wrote, "I don't understand the details of Dirac at all." In 1987, Abdus Salam declared that "Dirac was undoubtedly one of the greatest physicists of this or any century . . . No man except Einstein has had such a decisive influence, in so short a time, on the course of physics in this century." In 1995, Stephen Hawking stated that "Dirac has done more than anyone this century, with the exception of Einstein, to advance physics and change our picture of the universe". Antonino Zichichi asserted that Dirac had a greater impact on modern physics than Einstein, while Stanley Deser remarked that "We all stand on Dirac's shoulders." Dirac is widely considered to be on par with Sir Isaac Newton, James Clerk Maxwell, and Einstein.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Dirac)
+> [Wikipedia](https://en.wikipedia.org/wiki/Paul%20Dirac) 
 
 
 ## Confidential Links & Embeds: 

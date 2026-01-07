@@ -48,7 +48,8 @@ Stack_Exchange_tag:
 >
 > In contrast, compatibilists hold that free will is compatible with determinism. Some compatibilists even hold that determinism is necessary for free will, arguing that choice involves preference for one course of action over another, requiring a sense of how choices will turn out. Compatibilists thus consider the debate between libertarians and hard determinists over free will vs. determinism a false dilemma. Different compatibilists offer very different definitions of what "free will" means and consequently find different types of constraints to be relevant to the issue. Classical compatibilists considered free will nothing more than freedom of action, considering one free of will simply if, had one counterfactually wanted to do otherwise, one could have done otherwise without physical impediment. Many contemporary compatibilists instead identify free will as a psychological capacity, such as to direct one's behavior in a way responsive to reason, and there are still further different conceptions of free will, each with their own concerns, sharing only the common feature of not finding the possibility of determinism a threat to the possibility of free will.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Free%20will)
+> [Wikipedia](https://en.wikipedia.org/wiki/Free%20will) 
+
 
 MRT-Experiments showed that subconscious decisions can be determined 8-10s before the actual action. 
 On the other hand, conscious decisions can override these in the event of new Data. 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 21.716667 , 41.65 ] 
 aliases:
   - North_Macedonia
   - Macedonia~North
@@ -496,7 +497,7 @@ Capital :: [[./Macedonia~North/Counties/Skopje]]
 >
 > North Macedonia is also a member of NATO, the Council of Europe, the World Bank, OSCE, CEFTA, BSEC and the WTO. Since 2005, it has also been a candidate for joining the European Union. North Macedonia is an upper-middle-income country according to the World Bank's definitions and has undergone considerable economic reform since its independence in developing an open economy. It is a developing country, ranked 82nd on the Human Development Index; and provides social security, a universal health care system, and free primary and secondary education to its citizens.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/North%20Macedonia)
+> [Wikipedia](https://en.wikipedia.org/wiki/North%20Macedonia) 
 
 
 ## Confidential Links & Embeds: 

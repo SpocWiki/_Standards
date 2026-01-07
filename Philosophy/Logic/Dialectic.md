@@ -27,7 +27,7 @@ subclass_of: '[[_Standards/WikiData/WD~discourse,190539]]'
 >
 > Dialectic implies a developmental process and so does not fit naturally within classical logic. Nevertheless, some twentieth-century logicians have attempted to formalize it.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dialectic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dialectic) 
 
 
 ## Confidential Links & Embeds: 

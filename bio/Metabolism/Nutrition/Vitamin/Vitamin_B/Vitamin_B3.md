@@ -39,8 +39,6 @@ UMLS_CUI: C0027996
 > [Wikipedia](https://en.wikipedia.org/wiki/Vitamin%20B3) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[Vitamin_B3|Vitamin_B3]] 

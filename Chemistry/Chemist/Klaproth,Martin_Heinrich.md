@@ -40,7 +40,7 @@ aliases:
 > He was recognized internationally as a member of the Royal Society in London, 
 > the Institut de France, and the Royal Swedish Academy of Sciences.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Heinrich%20Klaproth)
+> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Heinrich%20Klaproth) 
 
 
 ## Confidential Links & Embeds: 

@@ -99,7 +99,7 @@ A public swimming pool.
 >
 > Educational facilities such as high schools and universities often have pools for physical education classes, recreational activities, leisure, and competitive athletics such as swimming teams. Hot tubs and spas are small heated pools used for relaxation or hydrotherapy. Specialised pools are also used for diving, water sports, and physical therapy, as well as for training of lifeguards and astronauts. Swimming pools most commonly use chlorinated water, or salt water, and may be heated or unheated.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Swimming%20pool)
+> [Wikipedia](https://en.wikipedia.org/wiki/Swimming%20pool) 
 
 
 ## Confidential Links & Embeds: 

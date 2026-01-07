@@ -88,7 +88,7 @@ Krugosvet_article: nauka_i_tehnika/biologiya/BOTANIKA.html
 >
 > Modern botany is a broad subject with contributions and insights from most other areas of science and technology. Research topics include the study of plant structure, growth and differentiation, reproduction, biochemistry and primary metabolism, chemical products, development, diseases, evolutionary relationships, systematics, and plant taxonomy. Dominant themes in 21st-century plant science are molecular genetics and epigenetics, which study the mechanisms and control of gene expression during differentiation of plant cells and tissues. Botanical research has diverse applications in providing staple foods, materials such as timber, oil, rubber, fibre and drugs, in modern horticulture, agriculture and forestry, plant propagation, breeding and genetic modification, in the synthesis of chemicals and raw materials for construction and energy production, in environmental management, and the maintenance of biodiversity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Botany)
+> [Wikipedia](https://en.wikipedia.org/wiki/Botany) 
 
 
 ## Confidential Links & Embeds: 

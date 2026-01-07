@@ -116,6 +116,7 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/MAK-LYUEN_MARSHALL.ht
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Marshall%20McLuhan) 
 
+
 McLuhan appeared as an expert in the [[../../../../WikiData/WD~Woody_Allen,25089|WD~Woody_Allen,25089]] movie [[Annie_Hall]]. 
 
 

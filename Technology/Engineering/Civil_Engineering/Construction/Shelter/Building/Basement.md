@@ -47,7 +47,7 @@ EAGLE_id: objtyp/lod/380
 > The word cellar applies to the whole underground level or to any large underground room. 
 > A subcellar or subbasement is a level that lies below the basement or cellar.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Basement)
+> [Wikipedia](https://en.wikipedia.org/wiki/Basement) 
 
 
 ## Confidential Links & Embeds: 

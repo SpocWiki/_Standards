@@ -478,7 +478,7 @@ Capital :: [[Windhoek]]
 >
 > Namibia is a member state of the United Nations, the Southern African Development Community, the African Union and the Commonwealth of Nations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Namibia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Namibia) 
 
 
 ## Confidential Links & Embeds: 

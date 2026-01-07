@@ -36,7 +36,7 @@ aliases:
 > Busch remains one of the most influential poets and artists in Western Europe, 
 > being called the "Forefather of Comics".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wilhelm%20Busch)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wilhelm%20Busch) 
 
 
 ## Confidential Links & Embeds: 

@@ -109,7 +109,7 @@ native_label: پښتو ژبه
 > although some estimates place it as high as 60 million. 
 > Pashto is "one of the primary markers of ethnic identity" amongst Pashtuns.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pashto)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pashto) 
 
 
 ## Confidential Links & Embeds: 

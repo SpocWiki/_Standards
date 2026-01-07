@@ -143,8 +143,6 @@ publication_date: 1776-07-04T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20States%20Declaration%20of%20Independence) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence|1776-US_Declaration_of_Independence]] 

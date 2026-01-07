@@ -21,7 +21,8 @@ aliases:
 >
 > Historically, beavers have been hunted for their fur, meat, and castoreum. Castoreum has been used in medicine, perfume, and food flavoring; beaver pelts have been a major driver of the fur trade. Before protections began in the 19th and early 20th centuries, overhunting had nearly exterminated both species. Their populations have since rebounded, and they are listed as species of least concern by the IUCN Red List of mammals. In human culture, the beaver symbolizes industriousness, especially in connection with construction; it is the national animal of Canada.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Beaver)
+> [Wikipedia](https://en.wikipedia.org/wiki/Beaver) 
+
 
 ## #has_/text_of_/abstract 
 

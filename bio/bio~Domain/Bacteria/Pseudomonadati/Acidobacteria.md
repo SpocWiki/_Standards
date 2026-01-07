@@ -17,6 +17,7 @@ title: Acidobacteria
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Acidobacteriota) 
 
+
 ## Phylogeny 
 
 -   « Ancestral Groups  

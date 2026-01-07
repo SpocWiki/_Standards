@@ -13,7 +13,7 @@ Age: `$=Math.round((new Date() - dv.current().has_time_started)/365.2425/24/60/6
 > and its sequel [[Addams Family Values (1993)]], [[Get Shorty]] (1995), 
 > the [[Men in Black]] trilogy (1997–2012), and [[../Steampunk/Wild_Wild_West]] (1999).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Barry%20Sonnenfeld)
+> [Wikipedia](https://en.wikipedia.org/wiki/Barry%20Sonnenfeld) 
 
 
 ## Confidential Links & Embeds: 

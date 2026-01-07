@@ -92,7 +92,7 @@ A synagogue.
 >
 > Any Jew or group of Jews can build a synagogue. Synagogues have been constructed by ancient Jewish leaders, wealthy patrons, and as part of a wide range of human institutions, including secular educational institutions, governments, and hotels. They have been built by the entire Jewish community living in a particular village or region, or by sub-groups of Jewish people organized by occupation, tradition/background (e.g., the Sephardic, Yemenite, Romaniote or Persian Jews of a town), style of religious observance (e.g., Orthodox or Reform synagogues), or by the followers of a particular rabbi, such as the shtiebelekh (Yiddish: שטיבעלעך, romanized: shtibelekh, singular שטיבל shtibl) of Hasidic Judaism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Synagogue)
+> [Wikipedia](https://en.wikipedia.org/wiki/Synagogue) 
 
 
 ## Confidential Links & Embeds: 

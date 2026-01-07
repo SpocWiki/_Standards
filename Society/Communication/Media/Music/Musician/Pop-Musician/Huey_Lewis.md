@@ -11,7 +11,7 @@
 > and their contribution to the soundtrack of the 1985 feature film Back to the Future. 
 > Lewis previously played with the band Clover from 1972 to 1979.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Huey%20Lewis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Huey%20Lewis) 
 
 
 ## Confidential Links & Embeds: 

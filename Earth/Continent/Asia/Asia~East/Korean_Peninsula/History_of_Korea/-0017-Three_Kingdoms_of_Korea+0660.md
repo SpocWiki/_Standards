@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 0660-01-01 
 aliases:
 has_id_wikidata: Q165292
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~kingdom,417175]]"

@@ -22,7 +22,8 @@ title: Cainotheriidae
 >
 > A peculiar characteristic of this group were the auditory bulla, protective structures of the bones of the ear : they were very large, like those that are found today in small mammals that live in open and dry environments. This evolved cranial anatomy was in stark contrast to the rest of the skeleton, rather primitive: the cainotheriids still possessed four non-reduced toes (an ancestral condition of the artiodactyls), even if the lateral fingers were shorter; they ended in long claws, as in modern rabbits. The hind legs were much longer than the front ones, and indicate a remarkable adaptation to running and jumping.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cainotheriidae)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cainotheriidae) 
+
 
 ## Phylogeny 
 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1900-01-01 
 aliases:
   - Die Elenden
   - Les_Misérables
@@ -96,7 +97,7 @@ work_available_at_URL: https://standardebooks.org/ebooks/victor-hugo/les-miserab
 >
 > Examining the nature of law and grace, the novel elaborates upon the history of France, the architecture and urban design of Paris, politics, moral philosophy, antimonarchism, justice, religion, and the types and nature of romantic and familial love.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Les%20Mis%C3%A9rables)
+> [Wikipedia](https://en.wikipedia.org/wiki/Les%20Mis%C3%A9rables) 
 
 
 ## Confidential Links & Embeds: 

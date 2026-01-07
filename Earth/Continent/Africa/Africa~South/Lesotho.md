@@ -413,7 +413,7 @@ For more Details, check out this Repository into this Subfolder:
 >
 > Lesotho is considered a lower middle income country with significant socioeconomic challenges. Almost half of its population is below the poverty line, and the country's HIV/AIDS prevalence rate is the second-highest in the world. However, it also targets a high rate of universal primary education and has one of the highest rates of literacy in Africa (81% as of 2021). Lesotho is a member of the United Nations, the Non-Aligned Movement, the Commonwealth of Nations, the African Union, and the Southern African Development Community. According to 2023 V-Dem Democracy indices, Lesotho is ranked 64th electoral democracy worldwide and 7th electoral democracy in Africa.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lesotho)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lesotho) 
 
 
 ## Confidential Links & Embeds: 

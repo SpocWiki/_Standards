@@ -34,7 +34,7 @@
 > The Bond series continued with On Her Majesty's Secret Service in 1969, 
 > the first film without Sean Connery in the lead role.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/You%20Only%20Live%20Twice%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/You%20Only%20Live%20Twice%20(film)) 
 
 
 ## Confidential Links & Embeds: 

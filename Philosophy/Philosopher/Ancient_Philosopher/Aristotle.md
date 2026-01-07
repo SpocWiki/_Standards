@@ -203,7 +203,7 @@ Experience => Thinking => Reality
 > In addition, his ethics, although always influential, 
 > gained renewed interest with the modern advent of virtue ethics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Aristotle)
+> [Wikipedia](https://en.wikipedia.org/wiki/Aristotle) 
 
 
 ## Confidential Links & Embeds: 

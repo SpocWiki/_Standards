@@ -94,7 +94,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > which was published in seven volumes between 1913 and 1927. 
 > He is considered by critics and writers to be one of the most influential authors of the 20th century.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marcel%20Proust)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marcel%20Proust) 
 
 
 ## Confidential Links & Embeds: 

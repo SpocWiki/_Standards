@@ -80,9 +80,6 @@ birth_name: Nancy Lamoureaux Wilson
 > [Wikipedia](https://en.wikipedia.org/wiki/Nancy%20Wilson%20(rock%20musician)) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Nancy|Wilson,Nancy]] 

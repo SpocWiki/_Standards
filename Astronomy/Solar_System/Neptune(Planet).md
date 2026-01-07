@@ -194,7 +194,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Neptune,30589066]]'
 > Neptune has a faint and fragmented ring system (labelled "arcs"), 
 > discovered in 1984 and confirmed by Voyager 2.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neptune)
+> [Wikipedia](https://en.wikipedia.org/wiki/Neptune) 
 
 
 ## Confidential Links & Embeds: 

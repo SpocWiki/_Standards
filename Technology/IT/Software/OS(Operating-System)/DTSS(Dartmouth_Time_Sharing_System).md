@@ -24,7 +24,8 @@
 > eventually emerging as the consumer-oriented [[GEnie online service]], 
 > that ran from 1985 through the end of 1999. 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dartmouth%20Time%20Sharing%20System)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dartmouth%20Time%20Sharing%20System) 
+
 
 [[Multics]] and [[DTSS]] were developed independently, 
 but they were part of a broader movement in the 1960s towards time-sharing systems 

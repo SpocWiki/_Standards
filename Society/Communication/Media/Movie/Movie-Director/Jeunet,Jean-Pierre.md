@@ -78,8 +78,6 @@ P1015: "98063187"
 > [Wikipedia](https://en.wikipedia.org/wiki/Jean-Pierre%20Jeunet) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Jeunet,Jean-Pierre|Jeunet,Jean-Pierre]] 

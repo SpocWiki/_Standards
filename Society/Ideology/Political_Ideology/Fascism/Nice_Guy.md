@@ -8,7 +8,8 @@
 > who is perceived or portrays himself as agreeable, 
 > gentle, compassionate, sensitive, and vulnerable.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nice%20Guy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nice%20Guy) 
+
 
 This external image can be accompanied by either
 - Resentment or 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 50.551111 , 26.0675 ] 
 aliases:
   - Bahrain
   - Bahrein
@@ -430,7 +431,7 @@ Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]
 >
 > Bahrain developed one of the first post-oil economies in the Persian Gulf, the result of decades of investing in the banking and tourism sectors; many of the world's largest financial institutions have a presence in the country's capital. It is recognized by the World Bank as a high-income economy. Bahrain is a member of the United Nations, Non-Aligned Movement, Arab League, Organisation of Islamic Cooperation and the Gulf Cooperation Council. Bahrain is a Dialogue partner of the Shanghai Cooperation Organization.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bahrain)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bahrain) 
 
 
 ## Confidential Links & Embeds: 

@@ -287,7 +287,7 @@ work_location:
 > which holds an extensive permanent collection of art and archives, 
 > is the largest museum in the United States dedicated to a single artist.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Andy%20Warhol)
+> [Wikipedia](https://en.wikipedia.org/wiki/Andy%20Warhol) 
 
 
 ## Confidential Links & Embeds: 

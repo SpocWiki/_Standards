@@ -18,7 +18,7 @@ aliases:
 > at the University of Art and Design Karlsruhe. 
 > He co-hosted the German television show Das Philosophische Quartett from 2002 until 2012.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Sloterdijk)
+> [Wikipedia](https://en.wikipedia.org/wiki/Peter%20Sloterdijk) 
 
 
 ## Confidential Links & Embeds: 

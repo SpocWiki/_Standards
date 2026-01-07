@@ -78,7 +78,7 @@ Commons_category: Primary colors
 > In other domains, the three primary colors are typically red, green and blue, 
 > which are more closely aligned to the sensitivities of the photoreceptor pigments in the cone cells.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Primary%20color)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Primary%20color) 
 
 
 ## Confidential Links & Embeds: 

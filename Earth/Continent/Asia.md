@@ -202,7 +202,7 @@ markerFile: [[Asia]]
 >
 > Asia varies greatly across and within its regions with regard to ethnic groups, cultures, environments, economics, historical ties, and government systems. It also has a mix of many different climates ranging from the equatorial south via the hot deserts in parts of West Asia, Central Asia and South Asia, temperate areas in the east and the continental centre to vast subarctic and polar areas in North Asia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Asia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Asia) 
 
 
 ## Confidential Links & Embeds: 

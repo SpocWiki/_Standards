@@ -67,7 +67,7 @@ P1015: "90165117"
 > after the Iroquoian names for the two big settlements he saw at Stadacona (Quebec City) 
 > and at Hochelaga (Montreal Island).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jacques%20Cartier)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jacques%20Cartier) 
 
 
 ## Confidential Links & Embeds: 

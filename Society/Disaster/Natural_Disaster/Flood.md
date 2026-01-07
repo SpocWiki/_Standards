@@ -106,7 +106,8 @@ type: private_note
 >
 > A large amount of the world's population lives in close proximity to major coastlines, while many major cities and agricultural areas are located near floodplains. There is significant risk for increased coastal and fluvial flooding due to changing climatic conditions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Flood)
+> [Wikipedia](https://en.wikipedia.org/wiki/Flood) 
+
 
 # [[Flood]] 
 

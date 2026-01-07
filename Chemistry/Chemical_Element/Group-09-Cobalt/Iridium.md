@@ -89,7 +89,6 @@ ZVG_number: 8460
 
 ## #has_/text_of_/abstract 
 
-
 > **Iridium** is a chemical element with the symbol (Abbr::Ir) and atomic number (Charge-e::77). 
 > A very hard, brittle, silvery-white transition metal of the platinum group, 
 > it is considered the second-densest naturally occurring metal (after osmium) 
@@ -115,7 +114,7 @@ ZVG_number: 8460
 >
 > Iridium is found in meteorites in much higher abundance than in the Earth's crust. For this reason, the unusually high abundance of iridium in the clay layer at the Cretaceous–Paleogene boundary gave rise to the Alvarez hypothesis that the impact of a massive extraterrestrial object caused the extinction of dinosaurs and many other species 66 million years ago, now known to be produced by the impact that formed the Chicxulub crater. Similarly, an iridium anomaly in core samples from the Pacific Ocean suggested the Eltanin impact of about 2.5 million years ago.It is thought that the total amount of iridium in the planet Earth is much higher than that observed in crustal rocks, but as with other platinum-group metals, the high density and tendency of iridium to bond with iron caused most iridium to descend below the crust when the planet was young and still molten.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Iridium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Iridium) 
 
 
 ## Confidential Links & Embeds: 

@@ -94,7 +94,6 @@ ZVG_number: 7180
 
 ## #has_/text_of_/abstract 
 
-
 > **Argon** is a chemical element with the symbol (Abbr::Ar) and atomic number (Charge-e::18). 
 > It is in group 18 of the periodic table and is a noble gas. 
 > Argon is the third-most abundant gas in Earth's atmosphere, at 0.934% (9340 ppmv). 
@@ -109,7 +108,7 @@ ZVG_number: 7180
 >
 > Argon is extracted industrially by the fractional distillation of liquid air. Argon is mostly used as an inert shielding gas in welding and other high-temperature industrial processes where ordinarily unreactive substances become reactive; for example, an argon atmosphere is used in graphite electric furnaces to prevent the graphite from burning. Argon is also used in incandescent, fluorescent lighting, and other gas-discharge tubes. Argon makes a distinctive blue-green gas laser. Argon is also used in fluorescent glow starters.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Argon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Argon) 
 
 
 ## Confidential Links & Embeds: 

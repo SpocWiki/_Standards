@@ -153,7 +153,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 >
 > After his death, the rise of Weberian scholarship was slowed by the Weimar Republic's political instability and the rise of Nazi Germany. In the post-war era, organised scholarship began to appear, led by Talcott Parsons. Other American and British scholars were also involved in its development. Over the course of the twentieth century, Weber's reputation rose due to the publication of translations of his works and scholarly interpretations of his life and works. As a result of these works, he began to be regarded as a founding father of sociology, alongside Karl Marx and Émile Durkheim, and one of the central figures in the development of the social sciences more generally.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Max%20Weber)
+> [Wikipedia](https://en.wikipedia.org/wiki/Max%20Weber) 
 
 
 ## Confidential Links & Embeds: 

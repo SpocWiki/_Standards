@@ -19,7 +19,7 @@ title: Nitrospira
 >
 > Nitrospira is a ubiquitous bacterium that plays a role in the nitrogen cycle by performing nitrite oxidation in the second step of nitrification. Nitrospira live in a wide array of environments including but not limited to, drinking water systems, waste treatment plants, rice paddies, forest soils, geothermal springs, and sponge tissue. Despite being abundant in many natural and engineered ecosystems Nitrospira are difficult to culture, so most knowledge of them is from molecular and genomic data. However, due to their difficulty to be cultivated in laboratory settings, the entire genome was only sequenced in one species, Nitrospira defluvii.   In addition, Nitrospira bacteria's 16S rRNA sequences are too dissimilar to use for PCR primers, thus some members go unnoticed. In addition, members of Nitrospira with the capabilities to perform complete nitrification (comammox bacteria) has also been discovered and cultivated.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nitrospira)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nitrospira) 
 
 
 ## Phylogeny 

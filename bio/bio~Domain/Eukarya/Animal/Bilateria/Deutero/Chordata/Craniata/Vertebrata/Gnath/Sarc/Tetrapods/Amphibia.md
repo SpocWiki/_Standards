@@ -151,7 +151,8 @@ Frogs and toads, salamanders and newts, and caecilians
 >
 > The number of known amphibian species is approximately 8,000, of which nearly 90% are frogs. The smallest amphibian (and vertebrate) in the world is a frog from New Guinea (Paedophryne amauensis) with a length of just 7.7 mm (0.30 in). The largest living amphibian is the 1.8 m (5 ft 11 in) South China giant salamander (Andrias sligoi), but this is dwarfed by prehistoric temnospondyls such as Mastodonsaurus which could reach up to 6 m (20 ft) in length. The study of amphibians is called batrachology, while the study of both reptiles and amphibians is called herpetology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Amphibian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Amphibian) 
+
 
 ### Information on the Internet
 

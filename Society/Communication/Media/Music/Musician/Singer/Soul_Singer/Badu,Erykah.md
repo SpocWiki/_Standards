@@ -51,7 +51,7 @@ Her music is very funky and soulful.
 > She also has appeared in the documentaries Before the Music Dies 
 > and The Black Power Mixtape 1967-1975.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Erykah%20Badu)
+> [Wikipedia](https://en.wikipedia.org/wiki/Erykah%20Badu) 
 
 
 ## Confidential Links & Embeds: 

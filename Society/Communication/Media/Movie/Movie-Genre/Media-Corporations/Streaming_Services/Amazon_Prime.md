@@ -11,7 +11,7 @@
 > video, e-books, gaming, and grocery shopping services. 
 > In April 2021, Amazon reported that Prime had more than 200 million subscribers worldwide.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20Prime)
+> [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20Prime) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1954-06-15 
 aliases:
   - Union of European Football Associations
   - Union des associations européennes de football

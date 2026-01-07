@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1958-01-01 
+has_time_stopped: 2024-01-01 
 aliases:
   - European Common Market
   - European Community

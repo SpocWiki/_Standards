@@ -30,7 +30,7 @@
 >
 > Before and during the Holocaust, enormous numbers of Jews immigrated to Mandatory Palestine. On May 14, 1948, upon the termination of the British Mandate, David Ben-Gurion declared the creation of the State of Israel, a Jewish and democratic state in Eretz Israel (Land of Israel). Immediately afterwards, all neighbouring Arab states invaded, yet the newly formed IDF resisted. In 1949, the war ended and Israel started building the state and absorbing massive waves of Aliyah from all over Europe and Middle Eastern countries. As of 2022, Israel is a parliamentary democracy with a population of 9.6 million people, of whom 7 million are Jewish. The largest Jewish community outside Israel is the United States, while large communities also exist in France, Canada, Argentina, Russia, United Kingdom, Australia, and Germany.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jewish%20history)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Jewish%20history) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 90.5 , 27.45 ] 
 aliases:
   - Bhutan
   - Bhután
@@ -440,7 +441,7 @@ Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]
 >
 > The 2008 Constitution established a parliamentary government with an elected National Assembly and a National Council. Bhutan is a founding member of the South Asian Association for Regional Cooperation (SAARC). In 2020, Bhutan ranked third in South Asia after Sri Lanka and the Maldives in the Human Development Index, and 21st on the Global Peace Index as the most peaceful country in South Asia as of 2024, as well as the only South Asian country in the list's first quartile. Bhutan is also a member of the Climate Vulnerable Forum, the Non-Aligned Movement, BIMSTEC, the IMF, the World Bank, UNESCO and the World Health Organization (WHO). Bhutan ranked first in SAARC in economic freedom, ease of doing business, peace and lack of corruption in 2016. Bhutan has one of the largest water reserves for hydropower in the world. Melting glaciers caused by climate change are a growing concern in Bhutan.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bhutan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bhutan) 
 
 
 ## Confidential Links & Embeds: 

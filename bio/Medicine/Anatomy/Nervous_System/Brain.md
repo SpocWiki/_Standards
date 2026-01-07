@@ -91,7 +91,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Garuna%2C%20erosle.web
 >
 > This article compares the properties of brains across the entire range of animal species, with the greatest attention to vertebrates. It deals with the human brain insofar as it shares the properties of other brains. The ways in which the human brain differs from other brains are covered in the human brain article. Several topics that might be covered here are instead covered there because much more can be said about them in a human context. The most important that are covered in the human brain article are brain disease and the effects of brain damage.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Brain)
+> [Wikipedia](https://en.wikipedia.org/wiki/Brain) 
 
 
 ## Confidential Links & Embeds: 

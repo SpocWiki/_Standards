@@ -230,7 +230,7 @@ Libris_URI: 1zcff2jk33lctb6
 > and bestowed upon him the title of "Universal Supreme Leader of the Buddhist World"; 
 > they also designated 6 July, his birthday, as the Universal Day of Compassion.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/14th%20Dalai%20Lama)  
+> [Wikipedia](https://en.wikipedia.org/wiki/14th%20Dalai%20Lama) 
 
 
 ## Confidential Links & Embeds: 

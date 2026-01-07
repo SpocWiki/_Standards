@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1837-01-01 
 aliases:
 has_id_wikidata: Q79897
 creator:
@@ -85,7 +86,7 @@ GitHub_topic: morse-code
 >
 > To increase the efficiency of transmission, Morse code was originally designed so that the duration of each symbol is approximately inverse to the frequency of occurrence of the character that it represents in text of the English language. Thus the most common letter in English, the letter E, has the shortest code – a single dit. Because the Morse code elements are specified by proportion rather than specific time durations, the code is usually transmitted at the highest rate that the receiver is capable of decoding. Morse code transmission rate (speed) is specified in groups per minute, commonly referred to as words per minute.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Morse%20code)
+> [Wikipedia](https://en.wikipedia.org/wiki/Morse%20code) 
 
 
 | Character | Morse Code |

@@ -70,7 +70,7 @@ IPTC_NewsCode: mediatopic/20000344
 >
 > Economic activity is spurred by production which uses natural resources, labor and capital. It has changed over time due to technology, innovation (new products, services, processes, expanding markets, diversification of markets, niche markets, increases revenue functions) and changes in industrial relations (most notably child labor being replaced in some parts of the world with universal access to education).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Economy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Economy) 
 
 
 ## Confidential Links & Embeds: 

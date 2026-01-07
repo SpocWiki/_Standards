@@ -73,7 +73,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_arithmetic,7112559]]'
 > The 18th and 19th centuries saw the development of modern number theory and the formulation of axiomatic foundations of arithmetic. 
 > In the 20th century, the emergence of electronic calculators and computers revolutionized the accuracy and speed with which arithmetic calculations could be performed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Arithmetic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Arithmetic) 
 
 
 ## Confidential Links & Embeds: 

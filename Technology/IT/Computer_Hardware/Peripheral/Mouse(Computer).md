@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1963-01-01 
 aliases:
   - Computer mouse
   - Mouse(Computer)

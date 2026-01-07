@@ -525,7 +525,7 @@ Capital :: [[Accra]]
 > and a member of the Economic Community of West African States, the Group of 24 
 > and the Commonwealth of Nations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ghana)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ghana) 
 
 
 ## Confidential Links & Embeds: 

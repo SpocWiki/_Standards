@@ -101,8 +101,7 @@ This also reduces the Intensity of the Hostility.
 >
 > The Ancient Romans wrote many treatises and writings on warfare, as well as many decorated triumphal arches and victory columns.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Military)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Military) 
 
 
 ## All Contents

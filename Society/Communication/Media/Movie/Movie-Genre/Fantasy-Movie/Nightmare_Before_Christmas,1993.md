@@ -43,7 +43,7 @@
 > In 2023, the film was selected for preservation in the United States National Film Registry 
 > by the Library of Congress as being "culturally, historically or aesthetically significant."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Nightmare%20Before%20Christmas)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Nightmare%20Before%20Christmas) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1100-01-01 
 aliases:
   - Gilde
   - Guild

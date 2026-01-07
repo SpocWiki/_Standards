@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1939-05-27 
 aliases:
   - Bruce Wayne
   - Batman

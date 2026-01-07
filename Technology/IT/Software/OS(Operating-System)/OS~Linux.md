@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1991-09-17 
 aliases:
   - Linux
   - OS~Linux
@@ -135,7 +136,7 @@ IRC_channel_URL: irc://irc.freenode.net/linux
 > with an exception for system calls that allows code that calls the kernel via system calls 
 > NOT to be licensed under the GPL.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Linux)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Linux) 
 
 
 [[Mac_OS]] is based on Linux too. 

@@ -22,7 +22,7 @@ aliases:
 > The single peaked at number six on the Alternative Songs chart, 
 > 10 on the Mainstream Rock Songs chart, and 24 on the UK Singles Chart.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Freak%20on%20a%20Leash)
+> [Wikipedia](https://en.wikipedia.org/wiki/Freak%20on%20a%20Leash) 
 
 
 ## Confidential Links & Embeds: 

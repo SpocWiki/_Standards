@@ -17,7 +17,8 @@
 > which method should be called when the user clicks on some button. 
 > Delegates allow the programmer to notify several methods that an event has occurred.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Delegate%20(CLI))
+> [Wikipedia](https://en.wikipedia.org/wiki/Delegate%20(CLI)) 
+
 
 Delegates were the first variant Language Elements already in in C# 1.0 
 where they could be assigned from Methods with differing Parameter or Result Types. 

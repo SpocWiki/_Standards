@@ -19,7 +19,7 @@ aliases:
 >
 > Umar is generally viewed by historians as one of the most powerful and influential Muslim caliphs in history. In Sunni Islamic tradition, he is revered as a just ruler and a paragon of Islamic virtues, with some hadiths identifying him as the second greatest of the Sahabah after Abu Bakr. However, he is viewed negatively in the Twelver Shia tradition.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Umar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Umar) 
 
 
 ## Confidential Links & Embeds: 

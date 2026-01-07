@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1917-11-26 
 aliases:
   - National Hockey League
   - Ligue nationale de hockey

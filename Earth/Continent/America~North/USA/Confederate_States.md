@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1861-02-08 
+has_time_stopped: 1865-05-01 
 aliases:
   - Confederate States of America (CSA), also known as the Confederate States (C.S.), the Confederacy, or the South
   - Confederate_States
@@ -112,7 +114,7 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20CSA%20
 > The Confederate States of America (CSA), also known as the Confederate States (C.S.), the Confederacy, 
 > or the South, was an unrecognized breakaway republic in the Southern United States from 1861 to 1865. 
 > It comprised eleven U.S. states that declared secession: [[USA~Eastern/South_Carolina|South Carolina]], [[USA~Central/Mississippi|Mississippi]], [[USA~Eastern/Florida|Florida]], [[USA~Central/Alabama|Alabama]], Georgia, [[USA~Central/Louisiana|Louisiana]], [[USA~Mountain/Texas|Texas]], [[USA~Eastern/Virginia|Virginia]], [[USA~Central/Arkansas|Arkansas]], [[USA~Central/Tennessee|Tennessee]], and [[USA~Eastern/North_Carolina|North Carolina]]. 
-> These states fought against the United States during the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War|American Civil War]].
+> These states fought against the United States during the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War|American Civil War]].
 >
 > With Abraham Lincoln's election as President of the United States in 1860, 
 > eleven southern states believed their slavery-dependent plantation economies were threatened, 
@@ -159,8 +161,6 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20CSA%20
 > when it was used by the pro-segregationist and white supremacist Dixiecrat Party.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Confederate%20States%20of%20America) 
-
-
 
 
 ## Confidential Links & Embeds: 

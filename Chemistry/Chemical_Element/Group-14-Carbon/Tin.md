@@ -118,7 +118,6 @@ ZVG_number: 8380
 
 ## #has_/text_of_/abstract 
 
-
 > **Tin** is a chemical element with the symbol (Abbr::Sn) (from Latin: stannum) and atomic number (Charge-e::50). 
 > Tin is a silvery-coloured metal.
 >
@@ -135,7 +134,7 @@ ZVG_number: 8380
 >
 > The first tin alloy used on a large scale was bronze, made of 1⁄8 tin and 7⁄8 copper, from as early as 3000 BC. After 600 BC, pure metallic tin was produced. Pewter, which is an alloy of 85–90% tin with the remainder commonly consisting of copper, antimony, bismuth, and sometimes lead and silver, has been used for flatware since the Bronze Age. In modern times, tin is used in many alloys, most notably tin / lead soft solders, which are typically 60% or more tin, and in the manufacture of transparent, electrically conducting films of indium tin oxide in optoelectronic applications. Another large application is corrosion-resistant tin plating of steel. Because of the low toxicity of inorganic tin, tin-plated steel is widely used for food packaging as tin cans. Some organotin compounds can be extremely toxic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tin) 
 
 
 ## Confidential Links & Embeds: 

@@ -144,7 +144,7 @@ Facebook_username: OfficialAlanMoore
 > and he has said in various interviews that his stories 
 > draw heavily from his experiences living there.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alan%20Moore)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alan%20Moore) 
 
 
 ## Confidential Links & Embeds: 

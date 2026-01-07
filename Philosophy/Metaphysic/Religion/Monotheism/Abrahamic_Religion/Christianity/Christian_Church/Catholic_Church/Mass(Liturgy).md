@@ -39,8 +39,6 @@ subclass_of:
 > [Wikipedia](https://en.wikipedia.org/wiki/Mass%20(liturgy)) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy)|Mass(Liturgy)]] 

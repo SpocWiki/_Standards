@@ -121,7 +121,7 @@ YouTube_handle: JimCarreyisHere
 > He also starred as Jeff Piccirillo in the Showtime tragicomedy series Kidding (2018–2020), 
 > for which he received his seventh Golden Globe nomination.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jim%20Carrey)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jim%20Carrey) 
 
 
 ## Confidential Links & Embeds: 

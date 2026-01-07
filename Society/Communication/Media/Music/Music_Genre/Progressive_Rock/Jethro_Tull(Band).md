@@ -47,7 +47,7 @@
 > who were part of Jethro Tull during the last years of its initial run, 
 > as well as newer musicians associated with Anderson's solo band, without Barre's involvement.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jethro%20Tull%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Jethro%20Tull%20(band)) 
 
 
 ## Confidential Links & Embeds: 

@@ -18,7 +18,8 @@ aliases:
 > 
 > Workers, colloquially known as Turkers or crowdworkers, browse among existing jobs and complete them in exchange for a fee set by the employer. To place jobs, the requesting programs use an open application programming interface (API), or the more limited MTurk Requester site. As of April 2019, Requesters could register from 49 approved countries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20Mechanical%20Turk)
+> [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20Mechanical%20Turk) 
+
 
 The Median Income of a [[Turker]] is 2$/hour, which makes it[[../../../../../../../Social_Issues/Slavery]]]. 
 

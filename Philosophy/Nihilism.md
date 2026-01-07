@@ -51,7 +51,7 @@ subreddit: nihilism
 >
 > Some aspects of nihilism have their roots in ancient philosophy in the form of challenges to established beliefs, values, and practices. However, nihilism is primarily associated with modernity, emerging in the 18th and 19th centuries, particularly in Germany and Russia through the works of Friedrich Heinrich Jacobi and Ivan Turgenev. It took center stage in the thought of Friedrich Nietzsche, who understood nihilism as a pervasive cultural trend in which people lose the values and ideals guiding their lives as a result of secularization. In the 20th century, nihilist themes were explored by Dadaism, existentialism, and postmodern philosophy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nihilism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nihilism) 
 
 
 ## Confidential Links & Embeds: 

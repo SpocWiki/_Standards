@@ -171,7 +171,7 @@ ZVG_number: 8350
 > are used as disinfectants and microbiocides (oligodynamic effect), 
 > added to bandages, wound-dressings, catheters, and other medical instruments.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Silver)
+> [Wikipedia](https://en.wikipedia.org/wiki/Silver) 
 
 
 ## Confidential Links & Embeds: 

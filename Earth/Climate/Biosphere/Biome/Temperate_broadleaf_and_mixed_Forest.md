@@ -34,8 +34,6 @@ Commons_category: Temperate broadleaf and mixed forests
 > [Wikipedia](https://en.wikipedia.org/wiki/Temperate%20broadleaf%20and%20mixed%20forests) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest|Temperate_broadleaf_and_mixed_Forest]] 

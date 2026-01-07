@@ -123,7 +123,7 @@ YouTube_handle: WorldBank
 >
 > The World Bank has been criticized as promoting inflation and harming economic development. There has also been criticism of the bank's governance and response to the COVID-19 pandemic. The current president (starting in 2023) is Ajay Banga who is known to support climate action, unlike his predecessor David Malpass.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/World%20Bank)
+> [Wikipedia](https://en.wikipedia.org/wiki/World%20Bank) 
 
 
 ## Confidential Links & Embeds: 

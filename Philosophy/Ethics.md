@@ -65,7 +65,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/ethics
 >
 > The history of ethics started in the ancient period with the development of ethical principles and theories in ancient Egypt, India, China, and Greece. This period saw the emergence of ethical teachings associated with Hinduism, Buddhism, Confucianism, Daoism, and contributions of philosophers like Socrates and Aristotle. During the medieval period, ethical thought was strongly influenced by religious teachings. In the modern period, this focus shifted to a more secular approach concerned with moral experience, reasons for acting, and the consequences of actions. An influential development in the 20th century was the emergence of metaethics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ethics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ethics) 
 
 
 ## Confidential Links & Embeds: 

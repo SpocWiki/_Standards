@@ -113,7 +113,7 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/BS%20Relief%20R
 > He is also considered a pioneer in the development of modern set theory 
 > and of the philosophy of mathematics known as Logicism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Dedekind)
+> [Wikipedia](https://en.wikipedia.org/wiki/Richard%20Dedekind) 
 
 
 ## Confidential Links & Embeds: 

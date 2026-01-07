@@ -249,7 +249,7 @@ Wolfram_Language_entity_code: Entity["Planet", "Saturn"]
 > is larger (while less massive) than the planet Mercury 
 > and is the only moon in the Solar System to have a substantial atmosphere.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Saturn)
+> [Wikipedia](https://en.wikipedia.org/wiki/Saturn) 
 
 
 ## Confidential Links & Embeds: 

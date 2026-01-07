@@ -80,7 +80,7 @@ short_name: Cyg
 > a giant galaxy filament that is the largest known structure in the observable universe, 
 > covering most of the northern sky.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cygnus%20(constellation))
+> [Wikipedia](https://en.wikipedia.org/wiki/Cygnus%20(constellation)) 
 
 
 ## Confidential Links & Embeds: 

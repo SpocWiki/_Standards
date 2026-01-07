@@ -28,6 +28,7 @@ title: Chactoidea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scorpion) 
 
+
 ### Information on the Internet
 
 -   The [Scorpion     Emporium](http://wrbu.si.edu/www/stockwell/emporium/emporium.html)

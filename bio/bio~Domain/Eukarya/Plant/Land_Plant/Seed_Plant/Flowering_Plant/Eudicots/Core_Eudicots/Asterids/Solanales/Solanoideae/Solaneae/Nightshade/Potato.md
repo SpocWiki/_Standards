@@ -217,7 +217,7 @@ parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Solanum,1
 >
 > Like the tomato and the nightshades, the potato is in the genus Solanum; the aerial parts of the potato contain the toxin solanine. Normal potato tubers that have been grown and stored properly produce glycoalkaloids in negligible amounts, but, if sprouts and potato skins are exposed to light, tubers can become toxic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Potato)
+> [Wikipedia](https://en.wikipedia.org/wiki/Potato) 
 
 
 ## Confidential Links & Embeds: 

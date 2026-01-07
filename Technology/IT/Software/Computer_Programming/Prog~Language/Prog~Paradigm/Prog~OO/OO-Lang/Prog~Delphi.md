@@ -13,7 +13,7 @@
 >
 > Delphi and its C++ counterpart, C++Builder, are interoperable and jointly sold under the name RAD Studio. There are Professional, Enterprise, and Architect editions, with the higher editions having more features at a higher price. There is also a free-of-charge Community edition, with most of the features of Professional, but restricted to users and companies with low revenue.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Delphi%20(software))
+> [Wikipedia](https://en.wikipedia.org/wiki/Delphi%20(software)) 
 
 
 ## Confidential Links & Embeds: 

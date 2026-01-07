@@ -102,7 +102,7 @@ Linguasphere_code: 12-AAB-a
 >
 > Estimates of worldwide usage include five million speakers in 1998, and over nine million people in 2013. After Israel, the United States has the largest Hebrew-speaking population, with approximately 220,000 fluent speakers (see Israeli Americans and Jewish Americans). Pre-revival forms of Hebrew are used for prayer or study in Jewish and Samaritan communities around the world today; the latter group utilizes the Samaritan dialect as their liturgical tongue. As a non-first language, it is studied mostly by non-Israeli Jews and students in Israel, by archaeologists and linguists specializing in the Middle East and its civilizations, and by theologians in Christian seminaries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hebrew%20language)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Hebrew%20language) 
 
 
 ## Confidential Links & Embeds: 

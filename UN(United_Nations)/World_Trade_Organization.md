@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 6.09 , 46.12 ] 
 aliases:
   - World Trade Organization
   - World_Trade_Organization
@@ -75,7 +76,7 @@ X_Twitter_username: wto
 >
 > Studies show the WTO has increased trade and reduced trade barriers. It has also influenced trade agreement generally; the vast majority of preferential trade agreements (PTAs) explicitly reference the WTO, with substantial portions of text copied from WTO agreements. Goal 10 of the United Nations Sustainable Development Goals also referenced WTO agreements as instruments of reducing inequality. However, critics contend that the benefits of WTO-facilitated free trade are not shared equally.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/World%20Trade%20Organization)
+> [Wikipedia](https://en.wikipedia.org/wiki/World%20Trade%20Organization) 
 
 
 ## Confidential Links & Embeds: 

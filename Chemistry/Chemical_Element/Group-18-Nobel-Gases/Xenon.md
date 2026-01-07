@@ -94,14 +94,13 @@ ZVG_number: 7540
 
 ## #has_/text_of_/abstract 
 
-
 > **Xenon** is a chemical element with the symbol (Abbr::Xe) and atomic number (Charge-e::54). 
 > It is a dense, colorless, odorless noble gas found in Earth's atmosphere in trace amounts. 
 > Although generally unreactive, it can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized.Xenon is used in flash lamps and arc lamps, and as a general anesthetic. The first excimer laser design used a xenon dimer molecule (Xe2) as the lasing medium, and the earliest laser designs used xenon flash lamps as pumps. Xenon is also used to search for hypothetical weakly interacting massive particles
 >
 > and as a propellant for ion thrusters in spacecraft.Naturally occurring xenon consists of seven stable isotopes and two long-lived radioactive isotopes. More than 40 unstable xenon isotopes undergo radioactive decay, and the isotope ratios of xenon are an important tool for studying the early history of the Solar System. Radioactive xenon-135 is produced by beta decay from iodine-135 (a product of nuclear fission), and is the most significant (and unwanted) neutron absorber in nuclear reactors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Xenon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Xenon) 
 
 
 ## Confidential Links & Embeds: 

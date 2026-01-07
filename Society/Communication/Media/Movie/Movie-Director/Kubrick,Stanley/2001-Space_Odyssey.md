@@ -206,7 +206,7 @@ Wolfram_Language_entity_code: Entity["Movie", "2001:ASpaceOdyssey::4y48p"]
 > Clarke published a novelisation of 2001 (in part written concurrently with the screenplay) 
 > soon after the film's 1968 release, for which Kubrick received co-writing credit.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/2001:%20A%20Space%20Odyssey)
+> [Wikipedia](https://en.wikipedia.org/wiki/2001:%20A%20Space%20Odyssey) 
 
 
 ## Confidential Links & Embeds: 

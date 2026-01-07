@@ -53,7 +53,7 @@
 > from various stages of the band's career. 
 > In 2010, Genesis were inducted into the Rock and Roll Hall of Fame.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Genesis%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Genesis%20(band)) 
 
 
 ## Confidential Links & Embeds: 

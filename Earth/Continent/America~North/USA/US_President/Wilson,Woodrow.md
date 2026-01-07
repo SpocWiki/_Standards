@@ -253,7 +253,7 @@ The new Slogan was "A War to end all Wars".
 > His liberalism nevertheless lives on as a major factor in American foreign policy, 
 > and his vision of national self-determination resonated globally to this day.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Woodrow%20Wilson)
+> [Wikipedia](https://en.wikipedia.org/wiki/Woodrow%20Wilson) 
 
 
 ## Confidential Links & Embeds: 

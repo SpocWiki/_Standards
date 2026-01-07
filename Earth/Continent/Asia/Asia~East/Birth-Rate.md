@@ -14,7 +14,7 @@ More descriptive is the [[Fertility-Rate]], which puts it into relation to the N
 >
 > In 2012, the average global birth rate was 19.611 according to the World Bank and 19.15 births per 1,000 total population according to the CIA, compared to 20.09 per 1,000 total population in 2007.The 2021 average of 18.1 births per 1,000 total population equates to approximately 4.3 births per second or about 259 births per minute for the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Birth%20rate)
+> [Wikipedia](https://en.wikipedia.org/wiki/Birth%20rate) 
 
 
 ## Confidential Links & Embeds: 

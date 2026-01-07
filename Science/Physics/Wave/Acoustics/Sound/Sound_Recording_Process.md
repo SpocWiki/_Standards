@@ -36,8 +36,6 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/sound_recording
 > [Wikipedia](https://en.wikipedia.org/wiki/Sound%20recording%20and%20reproduction) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Acoustics/Sound/Sound_Recording_Process|Sound_Recording_Process]] 

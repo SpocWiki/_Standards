@@ -42,7 +42,7 @@ aliases:
 > and the fourth highest-grossing James Bond film, unadjusted for inflation. 
 > The next film in the series, Skyfall, was released in 2012.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20of%20Solace)
+> [Wikipedia](https://en.wikipedia.org/wiki/Quantum%20of%20Solace) 
 
 
 ## Confidential Links & Embeds: 

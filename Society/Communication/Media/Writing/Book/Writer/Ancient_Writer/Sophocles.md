@@ -113,7 +113,7 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 > thereby reducing the importance of the chorus in the presentation of the plot. 
 > He also developed his characters to a greater extent than earlier playwrights.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sophocles)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sophocles) 
 
 
 ## Confidential Links & Embeds: 

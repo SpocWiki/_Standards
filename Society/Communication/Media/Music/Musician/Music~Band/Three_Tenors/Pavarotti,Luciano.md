@@ -121,7 +121,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PAVAROTTI_LUCHANO.html
 > He was appointed a Knight Grand Cross of the Order of Merit of the Italian Republic 
 > in 1988, and died from pancreatic cancer on 6 September 2007.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Luciano%20Pavarotti)
+> [Wikipedia](https://en.wikipedia.org/wiki/Luciano%20Pavarotti) 
 
 
 ## Confidential Links & Embeds: 

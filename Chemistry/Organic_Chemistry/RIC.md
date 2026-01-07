@@ -15,7 +15,7 @@ the RIC is aligned with the EU [[Recycling_codes]].
 > Subsequent revisions to the RIC have replaced the arrows with a solid triangle, 
 > but the old symbols are still in common use.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Resin%20identification%20code)
+> [Wikipedia](https://en.wikipedia.org/wiki/Resin%20identification%20code) 
 
 
 ## Confidential Links & Embeds: 

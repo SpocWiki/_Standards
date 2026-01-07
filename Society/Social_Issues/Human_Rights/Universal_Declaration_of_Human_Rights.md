@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1948-12-10 
 aliases:
   - Universal Declaration of Human Rights
   - Universal_Declaration_of_Human_Rights
@@ -192,7 +193,7 @@ Commons_category: Universal Declaration of Human Rights
 > Nevertheless, the UDHR has influenced legal, political, and social developments 
 > on both the global and national levels, with its significance partly evidenced by its 530 translations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Universal%20Declaration%20of%20Human%20Rights)
+> [Wikipedia](https://en.wikipedia.org/wiki/Universal%20Declaration%20of%20Human%20Rights) 
 
 
 ## Confidential Links & Embeds: 

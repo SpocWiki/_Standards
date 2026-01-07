@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1896-01-01 
 aliases:
   - Jeux olympiques
   - Olympics
@@ -153,6 +154,7 @@ RIA_Novosti_reference: 1604374469
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Olympic%20Games) 
 
+
 ## History 
 
 Modern Olympic Games started after Greece achieved Independence from the [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~3~Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Ottoman_Empire]]. 
@@ -203,7 +205,7 @@ As of 1994 the Winter Games are held interleaved with 2 year distance to the Sum
 | 1976 | [[../../../../../../Earth/Continent/Europe/Europe~Central/Austria\|Austria]]                                                                                 | [[../../../../../Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Tirol/City/Innsbruck]] |  W  | 1976-02-04 | 1968-02-15 |
 | 1976 | [[../../../../../../Earth/Continent/America~North/Canada\|Canada]]                   | [[../../../../../Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté]]                    |  S  | 1976-07-17 | 1968-08-01 |
 | 1980 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Lake Placid]]                 |  W  | 1980-02-13 | 1964-02-24 |
-| 1980 | [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991\|Soviet_Union]] | [[Moscow]]                                                                                            |  S  | 1980-07-19 | 1964-08-03 |
+| 1980 | [[../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991\|Soviet_Union]] | [[Moscow]]                                                                                            |  S  | 1980-07-19 | 1964-08-03 |
 | 1984 | [[../../../../../../Earth/Continent/Europe/Europe~South/Yugoslavia\|Yugoslavia]]     | [[Sarajevo]]                    |  W  | 1984-02-08 | 1960-02-19 |
 | 1984 | [[../../../../../../Earth/Continent/America~North/USA\|USA]]                         | [[Los Angeles]]                 |  S  | 1984-07-28 | 1960-08-12 |
 | 1988 | [[../../../../../../Earth/Continent/America~North/Canada\|Canada]]                   | [[Calgary]]                     |  W  | 1988-02-13 | 1956-02-28 |

@@ -57,7 +57,7 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/nervous_s
 >
 > The central nervous system functions to send signals from one cell to others, or from one part of the body to others and to receive feedback. Malfunction of the nervous system can occur as a result of genetic defects, physical damage due to trauma or toxicity, infection, or simply senescence. The medical specialty of neurology studies disorders of the nervous system and looks for interventions that can prevent or treat them. In the peripheral nervous system, the most common problem is the failure of nerve conduction, which can be due to different causes including diabetic neuropathy and demyelinating disorders such as multiple sclerosis and amyotrophic lateral sclerosis. Neuroscience is the field of science that focuses on the study of the nervous system.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nervous%20system)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nervous%20system) 
 
 
 ## Confidential Links & Embeds: 

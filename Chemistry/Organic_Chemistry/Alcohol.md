@@ -70,7 +70,8 @@ U_S_National_Archives_Identifier: 10640163
 > 
 > The OH group provides a site at which many reactions can occur.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alcohol%20(chemistry))
+> [Wikipedia](https://en.wikipedia.org/wiki/Alcohol%20(chemistry)) 
+
 
 Commonly referring to [[Alcohol/Ethanol]]. 
 

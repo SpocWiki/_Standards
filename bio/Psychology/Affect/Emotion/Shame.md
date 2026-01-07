@@ -31,8 +31,6 @@ MeSH_tree_code: F01.470.483.666
 > [Wikipedia](https://en.wikipedia.org/wiki/Shame) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Shame|Shame]] 

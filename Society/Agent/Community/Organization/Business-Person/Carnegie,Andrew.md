@@ -144,7 +144,7 @@ and thus create a positive public Image.
 > - Carnegie Mellon University, and 
 > - the Carnegie Museums of Pittsburgh, among others.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Andrew%20Carnegie)
+> [Wikipedia](https://en.wikipedia.org/wiki/Andrew%20Carnegie) 
 
 
 ## Confidential Links & Embeds: 

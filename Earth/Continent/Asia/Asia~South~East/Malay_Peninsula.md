@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 100.0 , 7.0 ] 
 aliases:
 has_id_wikidata: Q18758
 located_in_or_next_to_body_of_water:

@@ -89,7 +89,7 @@ Europeana_entity: agent/base/147108
 >
 > For many years, Mussorgsky's works were mainly known in versions revised or completed by other composers. Many of his most important compositions have posthumously come into their own in their original forms, and some of the original scores are now also available.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Modest%20Mussorgsky)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Modest%20Mussorgsky) 
 
 
 ## Confidential Links & Embeds: 

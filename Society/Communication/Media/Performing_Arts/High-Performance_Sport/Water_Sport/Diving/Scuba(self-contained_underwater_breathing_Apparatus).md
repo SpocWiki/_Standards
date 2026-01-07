@@ -40,8 +40,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/EL54p.jpg
 > [Wikipedia](https://en.wikipedia.org/wiki/Scuba%20set) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving/Scuba(self-contained_underwater_breathing_Apparatus)|Scuba(self-contained_underwater_breathing_Apparatus)]] 

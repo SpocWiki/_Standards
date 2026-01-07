@@ -63,8 +63,7 @@ has_id_wikidata: Q151599
 > On 1 January 2023, the film's American reserved copyright expired, 
 > thereby entering the film into the public domain.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Metropolis%20(1927%20film))  
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Metropolis%20(1927%20film)) 
 
 
 ## #has_/text_of_/abstract 

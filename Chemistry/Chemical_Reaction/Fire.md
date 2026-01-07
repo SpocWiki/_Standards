@@ -60,7 +60,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Burning%20Tent.ogv
 >
 > Fire is one of the four classical elements and has been used by humans in rituals, in agriculture for clearing land, for cooking, generating heat and light, for signaling, propulsion purposes, smelting, forging, incineration of waste, cremation, and as a weapon or mode of destruction.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fire)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fire) 
 
 
 ## Confidential Links & Embeds: 

@@ -91,7 +91,7 @@ Commons_category: 0 (number)
 >
 > Common names for the number 0 in English include zero, nought, naught (), and nil. In contexts where at least one adjacent digit distinguishes it from the letter O, the number is sometimes pronounced as oh or o (). Informal or slang terms for 0 include zilch and zip. Historically, ought, aught (), and cipher have also been used.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/0)
+> [Wikipedia](https://en.wikipedia.org/wiki/0) 
 
 
 ## Confidential Links & Embeds: 

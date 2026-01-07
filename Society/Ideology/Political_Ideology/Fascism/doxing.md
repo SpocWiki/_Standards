@@ -19,7 +19,7 @@ aliases:
 > and vigilante aid to law enforcement. 
 > It also may be associated with hacktivism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Doxing)
+> [Wikipedia](https://en.wikipedia.org/wiki/Doxing) 
 
 
 ## Confidential Links & Embeds: 

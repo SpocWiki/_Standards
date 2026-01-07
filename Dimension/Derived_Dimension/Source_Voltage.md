@@ -76,8 +76,6 @@ short_name:
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromotive%20force) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Dimension/Derived_Dimension/Source_Voltage|Source_Voltage]] 

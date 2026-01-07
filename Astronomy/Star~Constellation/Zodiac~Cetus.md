@@ -62,7 +62,7 @@ short_name: Cet
 > Cetus is in the region of the sky that contains other water-related constellations: 
 > Aquarius, Pisces and Eridanus.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cetus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cetus) 
 
 
 ## Confidential Links & Embeds: 

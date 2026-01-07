@@ -73,7 +73,7 @@ Wikidata_SPARQL_query_equivalent: wd:Q177612 p:P2370/psn:P2370 [wikibase:quantit
 > but this category was abolished in 1995 
 > and the steradian is now considered an SI derived unit.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Steradian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Steradian) 
 
 
 ## Confidential Links & Embeds: 

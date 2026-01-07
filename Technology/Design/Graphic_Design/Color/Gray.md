@@ -55,7 +55,7 @@ OpenStreetMap_tag_or_key: Tag:colour=gray
 > 
 > Only one percent of respondents chose it as their favorite color.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Grey)
+> [Wikipedia](https://en.wikipedia.org/wiki/Grey) 
 
 
 ## Confidential Links & Embeds: 

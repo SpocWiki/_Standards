@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 1970-04-10 
 aliases:
   - The_Beatles
   - '{ newTitle: }': ''
@@ -259,7 +260,7 @@ type: private_note
 > 
 > [[../../../Journalism/Magazine/Time_Magazine]] named them among the 20th century's 100 most important people.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Beatles)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Beatles) 
 
 
 ## Confidential Links & Embeds: 

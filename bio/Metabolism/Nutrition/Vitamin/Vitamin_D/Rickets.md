@@ -28,7 +28,7 @@ aliases:
 >
 > Rickets occurs relatively commonly in the Middle East, Africa, and Asia. It is generally uncommon in the United States and Europe, except among certain minority groups but rates have been increasing among some populations. It begins in childhood, typically between the ages of 3 and 18 months old. Rates of disease are equal in males and females. Cases of what is believed to have been rickets have been described since the 1st century, and the condition was widespread in the Roman Empire. The disease was common into the 20th century. Early treatments included the use of cod liver oil.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rickets)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rickets) 
 
 
 ## Confidential Links & Embeds: 

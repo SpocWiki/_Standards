@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1400-01-01 
+has_time_stopped: 1700-01-01 
 aliases:
   - Plate armour
   - Plate armor

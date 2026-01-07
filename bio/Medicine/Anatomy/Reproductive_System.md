@@ -40,7 +40,7 @@ topic_s_main_template:
 > These differences allow for a combination of genetic material between two individuals, 
 > which allows for the possibility of greater genetic fitness of the offspring.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Reproductive%20system)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Reproductive%20system) 
 
 
 ## Confidential Links & Embeds: 

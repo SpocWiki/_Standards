@@ -125,7 +125,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SHOINKA_VOLE.html
 >
 > Many of Soyinka's novels and plays are set in Nigeria, reflecting the country’s history, culture, and political struggles. Alongside these works, he produced a wide range of satirical writings that reached a broad audience and enjoyed considerable popularity. He is also an accomplished poet, with numerous individual poems and several published collections to his name. He achieved successes with his plays including The Swamp Dwellers (1958), The Lion and the Jewel (1958), and The Invention, which was one of his early plays to be produced at the Royal Court Theatre. Soyinka wrote a number of other works, including The Interpreters (1965), Season of Anomy (1973), Chronicles from the Land of the Happiest People on Earth, and Harmattan Haze on an African Spring. In July 2024, Bola Tinubu renamed the National Arts Theatre after Soyinka during his 90th birthday.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wole%20Soyinka)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wole%20Soyinka) 
 
 
 ## Confidential Links & Embeds: 

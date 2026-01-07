@@ -124,8 +124,6 @@ because a pure power law would allow for arbitrarily large or small values.
 > [Wikipedia](https://en.wikipedia.org/wiki/Power%20law) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Power-Law_Distribution|Power-Law_Distribution]] 

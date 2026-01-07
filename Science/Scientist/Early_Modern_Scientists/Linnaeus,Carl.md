@@ -243,7 +243,7 @@ work_period_start_: 1722
 > following the International Code of Zoological Nomenclature, 
 > since the sole specimen that he is known to have examined was himself.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Linnaeus)
+> [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Linnaeus) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 126.74704 , 37.967751 ] 
 aliases:
   - demilitarized zone
   - demilitarisierte Zone

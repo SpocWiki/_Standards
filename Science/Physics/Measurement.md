@@ -57,7 +57,7 @@ Wikidata_property: measures
 >
 > Measurement is defined as the process of comparison of an unknown quantity with a known or standard quantity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Measurement)
+> [Wikipedia](https://en.wikipedia.org/wiki/Measurement) 
 
 
 ## Confidential Links & Embeds: 

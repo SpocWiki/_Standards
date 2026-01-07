@@ -65,7 +65,7 @@ isomeric_SMILES: N([C@@H]1[C@H](O[C@@H]([C@@H]([C@H]1O)O)CO)*O*[C@@H]1[C@@H](O)[
 > 
 > Chitin has proved useful for several medicinal, industrial and biotechnological purposes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chitin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chitin) 
 
 
 ## Confidential Links & Embeds: 

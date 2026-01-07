@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0900-01-01 
 aliases:
   - Gregorian chant
   - Gregorian_Chant

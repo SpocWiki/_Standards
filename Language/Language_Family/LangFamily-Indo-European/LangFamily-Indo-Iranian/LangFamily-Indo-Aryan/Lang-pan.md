@@ -210,7 +210,7 @@ OpenStreetMap_key:
 >
 > In Pakistan, Punjabi is written using the Shahmukhi alphabet, based on the Perso-Arabic script; in India, it is written using the Gurmukhi alphabet, based on the Indic scripts. Punjabi is unusual among the Indo-Aryan languages and the broader Indo-European language family in its usage of lexical tone.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Punjabi%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Punjabi%20language) 
 
 
 ## Confidential Links & Embeds: 

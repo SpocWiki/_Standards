@@ -69,7 +69,7 @@ aliases:
 > four years later he died from a heart attack. 
 > His final film role was in the Oscar-nominated [[Field_of_Dreams]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Burt%20Lancaster)
+> [Wikipedia](https://en.wikipedia.org/wiki/Burt%20Lancaster) 
 
 
 ## Confidential Links & Embeds: 

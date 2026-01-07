@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.294479 , 48.858296 ] 
 aliases:
   - Eiffel Tower
   - Eiffel_Tower

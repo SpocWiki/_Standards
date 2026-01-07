@@ -106,7 +106,7 @@ UMLS_CUI: C0027051
 >
 > Worldwide, about 15.9 million myocardial infarctions occurred in 2015. More than 3 million people had an ST elevation MI, and more than 4 million had an NSTEMI. STEMIs occur about twice as often in men as women. About one million people have an MI each year in the United States. In the developed world, the risk of death in those who have had a STEMI is about 10%. Rates of MI for a given age have decreased globally between 1990 and 2010. In 2011, an MI was one of the top five most expensive conditions during inpatient hospitalizations in the US, with a cost of about $11.5 billion for 612,000 hospital stays.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Myocardial%20infarction)
+> [Wikipedia](https://en.wikipedia.org/wiki/Myocardial%20infarction) 
 
 
 ## Confidential Links & Embeds: 

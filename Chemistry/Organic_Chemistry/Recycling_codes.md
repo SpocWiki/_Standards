@@ -23,8 +23,7 @@
 > such as RepRap and other prosumer 3-D printer users, 
 > to adopt a voluntary recycling code based on the more comprehensive Chinese system.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Recycling%20codes)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Recycling%20codes) 
 
 
 | Sy  | Code                                                | Description                                                                                                                                                                                                                                                                                                            | Examples                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

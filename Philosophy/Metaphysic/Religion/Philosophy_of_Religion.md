@@ -37,7 +37,7 @@ Library_of_Congress_Classification: BL51
 >
 > The philosophy of religion differs from religious philosophy in that it seeks to discuss questions regarding the nature of religion as a whole, rather than examining the problems brought forth by a particular belief-system. The philosophy of religion differs from theology in that it aims to examine religious concepts from an objective philosophical perspective rather than from the perspective of a specific religious tradition. The philosophy of religion also differs from religious studies in that it seeks to evaluate the truth of religious worldviews. It can be carried out dispassionately by those who identify as believers or non-believers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Philosophy%20of%20religion)
+> [Wikipedia](https://en.wikipedia.org/wiki/Philosophy%20of%20religion) 
 
 
 ## Confidential Links & Embeds: 

@@ -117,7 +117,6 @@ ZVG_number:
 
 ## #has_/text_of_/abstract 
 
-
 > **Cadmium** is a chemical element with the symbol (Abbr::Cd) and atomic number (Charge-e::48). 
 > 
 > This soft, silvery-white metal is chemically 
@@ -147,7 +146,7 @@ ZVG_number:
 > Although cadmium has no known biological function in higher organisms, 
 > a cadmium-dependent carbonic anhydrase has been found in marine diatoms.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cadmium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cadmium) 
 
 
 ## Confidential Links & Embeds: 

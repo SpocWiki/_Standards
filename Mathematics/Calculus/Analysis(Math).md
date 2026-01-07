@@ -54,7 +54,7 @@ Universal_Decimal_Classification: 517
 > however, it can be applied to any space of mathematical objects that has a definition of nearness 
 > (a topological space) or specific distances between objects  (a metric space).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20analysis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20analysis) 
 
 
 ## Confidential Links & Embeds: 

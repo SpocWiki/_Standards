@@ -10,7 +10,7 @@
 > the word thoughtcrime describes the personal beliefs that are contrary to the accepted norms of society; 
 > thus thoughtcrime describes the theological practices of disbelief and idolatry, and the rejection of an ideology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thoughtcrime)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thoughtcrime) 
 
 
 ## Confidential Links & Embeds: 

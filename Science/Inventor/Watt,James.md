@@ -139,7 +139,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 >
 > As Watt developed the concept of horsepower, the SI unit of power, the watt, was named after him.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/James%20Watt)
+> [Wikipedia](https://en.wikipedia.org/wiki/James%20Watt) 
 
 
 ## Confidential Links & Embeds: 

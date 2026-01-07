@@ -104,7 +104,7 @@ A college, university, or other third-level educational institution.
 > - (with teaching conducted by both clergy and non-clergy): 
 > 	- grammar, rhetoric, logic, theology, canon law and notarial law.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/University)
+> [Wikipedia](https://en.wikipedia.org/wiki/University) 
 
 
 ## #has_/text_of_/abstract 
@@ -120,7 +120,7 @@ A college, university, or other third-level educational institution.
 >
 > Colleges in countries such as France, Belgium, and Switzerland provide secondary education.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/College)
+> [Wikipedia](https://en.wikipedia.org/wiki/College) 
 
 
 ## Confidential Links & Embeds: 

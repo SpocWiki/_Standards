@@ -2,7 +2,20 @@
 # [[Happiness]] 
 
 #is_/opposite_of :: [[Suffering]] 
+#is_/different_from :: [[Pleasure]] 
 #is_/same_as :: [[WD~Happiness,8]] 
+
+Happiness = Situation - Expectation  
+
+Happiness is regulated by Evolution to improve Procreation. 
+Therefore, permanent Changes in Happiness are minor. 
+Happiness tends to take a U-Shape with a dip around the 30s, 
+primarily due to Business and Childcare. 
+
+The average Happiness varies by person 
+and usually is only temporarily modified by external Events. 
+
+Happiness is improved with a Sense of Meaning, Purpose and self-efficacy. 
 
 ## #has_/text_of_/abstract 
 

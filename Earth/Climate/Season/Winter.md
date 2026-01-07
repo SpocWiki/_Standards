@@ -67,7 +67,7 @@ CPV_Supplementary_code: FD04
 >
 > The earliest sunset and latest sunrise dates outside the polar regions differ from the date of the winter solstice and depend on latitude. They differ due to the variation in the solar day throughout the year caused by the Earth's elliptical orbit (see: earliest and latest sunrise and sunset).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Winter)
+> [Wikipedia](https://en.wikipedia.org/wiki/Winter) 
 
 
 ## Confidential Links & Embeds: 

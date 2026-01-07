@@ -231,7 +231,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > Hugo died on 22 May 1885, aged 83. He was given a state funeral in the Panthéon of Paris, 
 > which was attended by over two million people, the largest in French history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Victor%20Hugo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Victor%20Hugo) 
 
 
 ## Confidential Links & Embeds: 

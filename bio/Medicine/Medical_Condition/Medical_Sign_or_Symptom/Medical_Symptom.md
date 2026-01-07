@@ -82,7 +82,7 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 >
 > A sign, for example, can be an elevated or lower than normal temperature or blood pressure; or an abnormal finding showing on medical imaging. A symptom is something out of the ordinary that is experienced by an individual such as feeling feverish, a headache or other pains in the body. Symptoms can be a result of the immune system's response to an infection, the physical manifestation of an abnormal body condition, or the effect of a consumed substance. Symptoms, though often indicative of a disease process, are not always diagnostically relevant, and can be idiopathic in nature.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Signs%20and%20symptoms)
+> [Wikipedia](https://en.wikipedia.org/wiki/Signs%20and%20symptoms) 
 
 
 ## Confidential Links & Embeds: 

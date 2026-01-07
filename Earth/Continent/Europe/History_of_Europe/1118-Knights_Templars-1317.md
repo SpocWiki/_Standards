@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1120-01-23 
+has_time_stopped: 1312-03-30 
 aliases:
   - Tempelritter
   - Templerorden

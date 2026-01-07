@@ -35,7 +35,7 @@ launched: 1995-09-22
 >
 > In the years since its release, the critical reception has been more positive. The film has inspired a number of TV series and films with its aesthetic, music, and premise. Its title sequence, which depicts the killer preparing for his actions in the film, is considered an important design innovation that sparked a renewed interest in title design, while the film's twist ending has been named as one of the most shocking and unforgettable in cinematic history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Seven%20(1995%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Seven%20(1995%20film)) 
 
 
 ## Confidential Links & Embeds: 

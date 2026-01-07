@@ -54,7 +54,7 @@ Related actions:
 >
 > In finance, monetary [[../../../../../Society/Economics/Money/Debt|Debt]] 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Borrow)
+> [Wikipedia](https://en.wikipedia.org/wiki/Borrow) 
 
 
 ## Confidential Links & Embeds: 

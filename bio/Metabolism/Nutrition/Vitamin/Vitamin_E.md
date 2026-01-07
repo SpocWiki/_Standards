@@ -50,11 +50,6 @@ Commons_category: Vitamin E
 > [Wikipedia](https://en.wikipedia.org/wiki/Vitamin%20E) 
 
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_E|Vitamin_E]] 

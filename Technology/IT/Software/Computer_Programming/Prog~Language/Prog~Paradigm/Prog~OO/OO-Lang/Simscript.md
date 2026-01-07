@@ -10,7 +10,7 @@
 > 
 > Though earlier versions were released into the public domain, SIMSCRIPT was commercialized by Markowitz's company, California Analysis Center, Inc. (CACI), which produced proprietary versions SIMSCRIPT I.5 and SIMSCRIPT II.5.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/SIMSCRIPT)
+> [Wikipedia](https://en.wikipedia.org/wiki/SIMSCRIPT) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2003-01-01 
 aliases:
   - my␣
 has_id_wikidata: Q40629
@@ -57,8 +58,6 @@ Commons_category: Myspace
 > In June 2009, Myspace employed approximately 1,600 people. In June 2011, Specific Media Group and Justin Timberlake jointly purchased the company for approximately $35 million. On February 11, 2016, it was announced that Myspace and its parent company had been purchased by Time Inc. for $87 million. On January 31, 2018, Time Inc. was in turn purchased by Meredith Corporation, and later that year, on November 4, 2019, Meredith spun off Myspace and its original holding company (Viant Technology Holding Inc.) and sold it to Viant Technology LLC.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Myspace) 
-
-
 
 
 ## Confidential Links & Embeds: 

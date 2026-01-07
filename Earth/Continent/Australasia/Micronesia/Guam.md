@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 144.8 , 13.5 ] 
 aliases:
   - Guam
   - غوام
@@ -311,7 +312,7 @@ Capital :: [[Hagåtña]]
 >
 > Guam is called Guåhan by Chamorro speakers, from the word guaha, meaning 'to have'; its English gloss 'we have' references the island's providing everything needed to live.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Guam)
+> [Wikipedia](https://en.wikipedia.org/wiki/Guam) 
 
 
 ## Confidential Links & Embeds: 

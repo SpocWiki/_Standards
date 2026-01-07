@@ -163,7 +163,7 @@ X_Twitter_username: OPECSecretariat
 >
 > Current OPEC members are Algeria, Equatorial Guinea, Gabon, Iran, Iraq, Kuwait, Libya, Nigeria, the Republic of the Congo, Saudi Arabia, the United Arab Emirates and Venezuela. Meanwhile, Angola, Ecuador, Indonesia, and Qatar are former OPEC members. A larger group called OPEC+, consisting of OPEC members plus other oil-producing countries,  formed in late 2016 to exert more control on the global crude-oil market. Canada, Egypt, Norway, and Oman are observer states.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/OPEC)
+> [Wikipedia](https://en.wikipedia.org/wiki/OPEC) 
 
 
 ## Confidential Links & Embeds: 

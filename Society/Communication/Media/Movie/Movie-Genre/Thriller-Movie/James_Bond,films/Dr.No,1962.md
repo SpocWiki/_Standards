@@ -29,7 +29,8 @@
 > It also introduced the iconic theme music. 
 > Production designer Ken Adam established an elaborate visual style that is one of the hallmarks of the film series.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dr.%20No%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Dr.%20No%20(film)) 
+
 
 Museumsraub im Grünen Gewölbe in [[../../../../../../../../Earth/Continent/Europe/Europe~Central/Germany/Germany~East/Sachsen/counties~Sachsen/Dresden|Dresden]] 
 August der Starke hat das Grüne Gewölbe der Öffentlichkeit geöffnet. 1700 

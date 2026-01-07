@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1998-09-04 
 aliases:
   - Google LLC
   - Google
@@ -636,7 +637,6 @@ Zhihu_username: google-gu-ge
 > Google Search and YouTube are the two most-visited websites worldwide, followed by Facebook, Instagram, and ChatGPT. Google is the largest provider of search engines, mapping and navigation applications, email services, office suites, online video platforms, photo and cloud storage, mobile operating systems, web browsers, machine learning frameworks, and AI virtual assistants in the world as measured by market share. On the list of most valuable brands, Google is ranked second by Forbes as of January 2022, and is fourth by Interbrand as of February 2022. The company has received significant criticism involving issues such as privacy concerns, tax avoidance, censorship, search neutrality, antitrust, and abuse of its monopoly position.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Google) 
-
 
 
 ## All Contents

@@ -23,9 +23,6 @@ has_id_wikidata: Q735766
 > [Wikipedia](https://en.wikipedia.org/wiki/Hubris) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Vice/Hubris|Hubris]] 

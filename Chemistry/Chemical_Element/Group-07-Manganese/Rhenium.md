@@ -89,7 +89,6 @@ ZVG_number: 7750
 
 ## #has_/text_of_/abstract 
 
-
 > **Rhenium** is a chemical element with the symbol (Abbr::Re) and atomic number (Charge-e::75). 
 > It is a silvery-gray, heavy, third-row transition metal in group (GroupNo::7) of the periodic table. 
 > 
@@ -119,7 +118,7 @@ ZVG_number: 7750
 > Due to increases in rhenium recycling and a drop in demand for rhenium in catalysts, 
 > the price of rhenium had dropped to US$2,844 per kilogram (US$1,290 per pound) as of July 2018.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rhenium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rhenium) 
 
 
 ## Confidential Links & Embeds: 

@@ -163,7 +163,7 @@ In dieser Situation taucht Sokrates auf.
 > Depictions of Socrates in art, literature, and popular culture 
 > have made him a widely known figure in the Western philosophical tradition.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Socrates)
+> [Wikipedia](https://en.wikipedia.org/wiki/Socrates) 
 
 
 ## Confidential Links & Embeds: 

@@ -26,7 +26,7 @@ Commons_category: White wine
 >
 > White wines are often used as an apéritif before a meal, with dessert, or as a refreshing drink between meals. White wines are often considered more refreshing and lighter in both style and taste than the majority of their red wine counterparts. Due to their acidity, aroma and ability to soften meat and deglaze cooking juices, white wines are often used in cooking.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/White%20wine)
+> [Wikipedia](https://en.wikipedia.org/wiki/White%20wine) 
 
 
 ## Confidential Links & Embeds: 

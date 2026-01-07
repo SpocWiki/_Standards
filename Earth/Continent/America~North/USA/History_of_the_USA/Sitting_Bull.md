@@ -104,8 +104,6 @@ Libris_URI: 31fjpsbm0dmm76g
 > [Wikipedia](https://en.wikipedia.org/wiki/Sitting%20Bull) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/Sitting_Bull|Sitting_Bull]] 

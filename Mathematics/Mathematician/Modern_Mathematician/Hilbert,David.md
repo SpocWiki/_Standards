@@ -210,7 +210,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > and developed important tools used in modern mathematical physics. 
 > Hilbert was one of the founders of proof theory and mathematical logic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/David%20Hilbert)
+> [Wikipedia](https://en.wikipedia.org/wiki/David%20Hilbert) 
 
 
 ## Confidential Links & Embeds: 

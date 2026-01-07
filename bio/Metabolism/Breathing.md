@@ -31,7 +31,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20wichtig%20ist%20t
 >
 > Breathing has other important functions. It provides a mechanism for speech, laughter and similar expressions of the emotions. It is also used for reflexes such as yawning, coughing and sneezing. Animals that cannot thermoregulate by perspiration, because they lack sufficient sweat glands, may lose heat by evaporation through panting.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Breathing)
+> [Wikipedia](https://en.wikipedia.org/wiki/Breathing) 
 
 
 ## Confidential Links & Embeds: 

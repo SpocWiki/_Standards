@@ -44,7 +44,7 @@ NBN_System_Key: NHMSYS0000459097
 > The genus is best known for liquorice (British English; licorice in American English), G. glabra, 
 > a species native to Eurasia and North Africa, from which most confectionery liquorice is produced.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Glycyrrhiza)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Glycyrrhiza) 
 
 
 ## Confidential Links & Embeds: 

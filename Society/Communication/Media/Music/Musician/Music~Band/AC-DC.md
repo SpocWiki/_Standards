@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1973-12-31 
 aliases:
   - AC/DC
   - AC-DC
@@ -114,7 +115,7 @@ ISNI: 000000012271298X
 > Their supporting tour was announced in February 2024, 
 > with drummer Matt Laug replacing Rudd, and bass guitarist Chris Chaney replacing Williams.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/AC/DC)
+> [Wikipedia](https://en.wikipedia.org/wiki/AC/DC) 
 
 
 ## Confidential Links & Embeds: 

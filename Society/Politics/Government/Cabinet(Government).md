@@ -75,7 +75,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cabinet%20table.
 > in the ministries before it is passed to the parliament. 
 > Thus, often the majority of new legislation actually originates from the cabinet and its ministries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cabinet%20(government))
+> [Wikipedia](https://en.wikipedia.org/wiki/Cabinet%20(government)) 
 
 
 ## Confidential Links & Embeds: 

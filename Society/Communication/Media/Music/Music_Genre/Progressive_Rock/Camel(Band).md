@@ -13,7 +13,7 @@
 > Their music has influenced artists including [[Marillion|Marillion]], [[../../../../../../../_Standards/Society/Communication/Media/Music/Musician/Music~Band/Opeth|Opeth]] and [[Wilson,Steven]]. 
 > Music journalist Mark Blake described Camel as "the great unsung heroes of 70s prog rock".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Camel%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Camel%20(band)) 
 
 
 ## Confidential Links & Embeds: 

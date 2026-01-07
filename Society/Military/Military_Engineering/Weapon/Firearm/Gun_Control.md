@@ -12,7 +12,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Gun%20control) 
 
 
-
 Australia had on 10 massacres in 10 years before the biggest Massacre on Earth in 1996. 
 ### Port Arthur Massacre (1996-04-28)
 

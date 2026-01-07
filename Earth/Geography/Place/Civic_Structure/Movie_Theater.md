@@ -84,7 +84,7 @@ A movie theater.
 >
 > A great variety of films are shown at cinemas, ranging from animated films to blockbusters to documentaries. The smallest movie theaters have a single viewing room with a single screen. In the 2010s, most movie theaters had multiple screens. The largest theater complexes, which are called multiplexes—a concept developed in Canada in the 1950s—have up to thirty screens. The audience members often sit on padded seats, which in most movie theaters are set on a sloped floor, with the highest part at the rear of the theater. Movie theaters often sell soft drinks, popcorn and candy, and some theaters sell hot fast food. In some jurisdictions, movie theaters can be licensed to sell alcoholic drinks.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Movie%20theater)
+> [Wikipedia](https://en.wikipedia.org/wiki/Movie%20theater) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1953-10-01 
 aliases:
 has_id_wikidata: Q150820
 product_or_material_produced: "[[_Standards/WikiData/WD~pornographic_film,185529]]"

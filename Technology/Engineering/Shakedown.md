@@ -11,7 +11,7 @@
 > Shakedown concept can be applied to solid metallic materials under cyclic repeated loading 
 > or to granular materials under cyclic loading (such case can occur in road pavements under traffic loading).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Shakedown%20(continuum%20mechanics))
+> [Wikipedia](https://en.wikipedia.org/wiki/Shakedown%20(continuum%20mechanics)) 
 
 
 The term **“shakedown”** refers to a **process of testing, adjustment, or extortion**, depending on context. 

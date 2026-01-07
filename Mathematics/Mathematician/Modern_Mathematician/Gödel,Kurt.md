@@ -152,7 +152,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > He also made important contributions to proof theory 
 > by clarifying the connections between classical logic, intuitionistic logic, and modal logic.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kurt%20G%C3%B6del)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kurt%20G%C3%B6del) 
 
 
 ## Confidential Links & Embeds: 

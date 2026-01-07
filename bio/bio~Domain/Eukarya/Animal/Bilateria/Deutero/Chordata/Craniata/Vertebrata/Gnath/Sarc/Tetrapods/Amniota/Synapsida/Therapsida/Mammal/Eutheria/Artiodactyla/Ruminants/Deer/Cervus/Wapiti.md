@@ -81,7 +81,7 @@ NBN_System_Key: NHMSYS0021109635
 >
 > As a member of the Artiodactyla order (and distant relative of the Bovidae), elk are susceptible to several infectious diseases which can be transmitted to or from domesticated livestock. Efforts to eliminate infectious diseases from elk populations, primarily by vaccination, have had mixed success. Some cultures revere the elk as having spiritual significance. Antlers and velvet are used in traditional medicines in parts of Asia; the production of ground antler and velvet supplements is also a thriving naturopathic industry in several countries, including the United States, China and Canada. The elk is hunted as a game species, and their meat is lean and higher in protein than beef or chicken.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Elk)
+> [Wikipedia](https://en.wikipedia.org/wiki/Elk) 
 
 
 ## Confidential Links & Embeds: 

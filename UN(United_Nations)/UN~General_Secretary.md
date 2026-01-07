@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1945-06-26 
 aliases:
   - UN~General_Secretary
   - UN~General Secretary

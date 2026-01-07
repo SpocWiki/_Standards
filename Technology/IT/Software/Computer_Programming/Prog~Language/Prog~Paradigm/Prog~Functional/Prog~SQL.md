@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1974-01-01 
 aliases:
 has_id_wikidata: Q47607
 designed_by:
@@ -95,7 +96,8 @@ official_name: SQL
 > and most SQL code requires at least some changes 
 > before being ported to different database systems.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/SQL)
+> [Wikipedia](https://en.wikipedia.org/wiki/SQL) 
+
 
 #see  ![[../../../../../IT/Data/DataBase/Sql|Sql]]
 

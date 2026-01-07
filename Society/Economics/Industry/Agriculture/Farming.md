@@ -42,7 +42,9 @@ image:
 >
 > The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials (such as rubber). Food classes include cereals (grains), vegetables, fruits, cooking oils, meat, milk, eggs, and fungi. Global agricultural production amounts to approximately 11 billion tonnes of food, 32 million tonnes of natural fibres and 4 billion m3 of wood. However, around 14% of the world's food is lost from production before reaching the retail level.Modern agronomy, plant breeding, agrochemicals such as pesticides and fertilizers, and technological developments have sharply increased crop yields, but also contributed to ecological and environmental damage. Selective breeding and modern practices in animal husbandry have similarly increased the output of meat, but have raised concerns about animal welfare and environmental damage. Environmental issues include contributions to climate change, depletion of aquifers, deforestation, antibiotic resistance, and other agricultural pollution. Agriculture is both a cause of and sensitive to environmental degradation, such as biodiversity loss, desertification, soil degradation, and climate change, all of which can cause decreases in crop yield. Genetically modified organisms are widely used, although some countries ban them.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Agriculture)
+> [Wikipedia](https://en.wikipedia.org/wiki/Agriculture) 
+
+
 ## Edit
 
 ## All Contents

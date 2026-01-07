@@ -22,7 +22,7 @@ aliases:
 > analytic mechanics (the Levi-Civita separability conditions in the Hamilton–Jacobi equation) 
 > and hydrodynamics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tullio%20Levi-Civita)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tullio%20Levi-Civita) 
 
 
 ## Confidential Links & Embeds: 

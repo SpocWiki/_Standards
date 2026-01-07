@@ -96,7 +96,7 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/organisms.html
 > including the fungus/alga partnership of different species in a lichen, 
 > or the permanent sexual partnership of an anglerfish, as an organism.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Organism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Organism) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2004-02-04 
 aliases:
   - Facebook
 has_id_wikidata: Q355
@@ -149,7 +150,8 @@ YouTube_handle: facebookapp
 > Commentators have accused Facebook of willingly facilitating the spread of such content, 
 > as well as exaggerating its number of users to appeal to advertisers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Facebook)
+> [Wikipedia](https://en.wikipedia.org/wiki/Facebook) 
+
 
 ## All Contents
 

@@ -195,7 +195,7 @@ work_period_start_: 1775
 > Innovative in his compositions and exceptional in his drawing technique, 
 > Hokusai is considered one of the greatest masters in the history of art.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hokusai)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hokusai) 
 
 
 ## Confidential Links & Embeds: 

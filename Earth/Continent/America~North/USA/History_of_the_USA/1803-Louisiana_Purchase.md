@@ -58,14 +58,7 @@ aliases:
 > The western borders of the purchase were later settled by the 1819 Adams–Onís Treaty with [[../../../_Standards/Earth/Continent/Europe/Europe~South/Spain|Spain]], 
 > while the northern borders of the purchase were adjusted by the Treaty of 1818 with the British.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Louisiana%20Purchase)
-
-
-
-
-
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Louisiana%20Purchase) 
 
 
 ## Confidential Links & Embeds: 

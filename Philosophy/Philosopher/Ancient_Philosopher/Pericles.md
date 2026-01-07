@@ -104,7 +104,7 @@ name_in_native_language: Περικλῆς
 > succumbed to the Plague of Athens in 429 BC, 
 > which weakened the city-state during a protracted conflict with Sparta.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pericles)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pericles) 
 
 
 ## Confidential Links & Embeds: 

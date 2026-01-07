@@ -75,7 +75,7 @@ type: private_note
 > giving Semmelweis' observations a theoretical explanation, and Joseph Lister, 
 > acting on Pasteur's research, practised and operated using hygienic methods, with great success.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ignaz%20Semmelweis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ignaz%20Semmelweis) 
 
 
 # [[Semmelweis,Ignaz]] 

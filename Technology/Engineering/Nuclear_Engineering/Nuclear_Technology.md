@@ -27,8 +27,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20technology) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/Engineering/Nuclear_Engineering/Nuclear_Technology|Nuclear_Technology]] 

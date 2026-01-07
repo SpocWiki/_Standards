@@ -144,7 +144,7 @@ Capital :: [[Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guad
 >
 > The official name of the then-British administration was changed from the "British Solomon Islands Protectorate" to "The Solomon Islands" in 1975, and self-government was achieved the following year. Independence was obtained, and the name changed to just "Solomon Islands" (without the definite article), in 1978. At independence, Solomon Islands became a constitutional monarchy. The King of Solomon Islands is Charles III, who is represented in the country by a governor-general appointed on the advice of the prime minister.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Solomon%20Islands)
+> [Wikipedia](https://en.wikipedia.org/wiki/Solomon%20Islands) 
 
 
 ## Confidential Links & Embeds: 

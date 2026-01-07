@@ -37,7 +37,7 @@ aliases:
 > He had two sons with his third wife Leslie Allen, one of whom predeceased him. 
 > From 1998 until his death, he was married to horse trainer Jill Vandenberg.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tony%20Curtis)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tony%20Curtis) 
 
 
 ## Confidential Links & Embeds: 

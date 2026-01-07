@@ -131,7 +131,7 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/UATHED_ALFRED_NORT.html
 > For this reason, one of the most promising applications of Whitehead's thought in recent years 
 > has been in the area of ecological civilization and environmental ethics pioneered by John B. Cobb.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alfred%20North%20Whitehead)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alfred%20North%20Whitehead) 
 
 
 ## Confidential Links & Embeds: 

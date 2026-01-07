@@ -66,7 +66,7 @@ different from the 1st Generation [[Machine-Language]].
 > and the operation of microcode and the transformation of machine-code instructions into micro-ops 
 > happens transparently to the programmer except for performance related side effects.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Machine%20code)
+> [Wikipedia](https://en.wikipedia.org/wiki/Machine%20code) 
 
 
 ## Confidential Links & Embeds: 

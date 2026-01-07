@@ -33,7 +33,7 @@ aliases:
 > and The [[White_Lotus(2022)]], with the latter earning him a 
 > nominations for the Golden Globe Award and the Primetime Emmy Award.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/F.%20Murray%20Abraham)
+> [Wikipedia](https://en.wikipedia.org/wiki/F.%20Murray%20Abraham) 
 
 
 ## Confidential Links & Embeds: 

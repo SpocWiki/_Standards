@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 88.0 , 15.0 ] 
 aliases:
   - Bay_of_Bengal
   - Bay of Bengal

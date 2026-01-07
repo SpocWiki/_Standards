@@ -26,7 +26,7 @@
 > 
 > In chronicles, acrostics are common in German and English but rare in other languages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Acrostic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Acrostic) 
 
 
 ## Confidential Links & Embeds: 

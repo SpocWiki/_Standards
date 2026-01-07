@@ -39,7 +39,7 @@ which was followed up by the [[DMCA(Digital Millennium Copyright Act)]] of 1998.
 > Wikipedia is copyleft under the Creative Commons Attribution-ShareAlike license, 
 > as mentioned at the bottom of the page.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
+> [Wikipedia](https://en.wikipedia.org/wiki/Copyleft) 
 
 
 ## Confidential Links & Embeds: 

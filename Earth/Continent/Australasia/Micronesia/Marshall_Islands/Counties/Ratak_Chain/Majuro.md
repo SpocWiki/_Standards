@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 171.3802 , 7.0918 ] 
 aliases:
 has_id_wikidata: Q12919
 confidential: public
@@ -109,7 +110,7 @@ maxZoom: 18
 > and flights to domestic destinations around the country. 
 > Its economy is primarily service sector-dominated.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Majuro)
+> [Wikipedia](https://en.wikipedia.org/wiki/Majuro) 
 
 
 ## Confidential Links & Embeds: 

@@ -51,7 +51,8 @@ Unit :: #Unit/SI/cd
 >
 > The word candela is Latin for candle. The old name "candle" is still sometimes used, as in foot-candle and the modern definition of candlepower.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Candela)
+> [Wikipedia](https://en.wikipedia.org/wiki/Candela) 
+
 
 1 Candela is the luminous intensity of a source that emits monochromatic radiation of frequency 5.4×1014 hertz and that has a radiant intensity in that direction of 1/683 watt per [steradian](https://en.wikipedia.org/wiki/Steradian "Steradian"). 
 

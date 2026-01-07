@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 14.0 , 63.0 ] 
 aliases:
 has_id_wikidata: Q73169
 highest_point: "[[_Standards/WikiData/WD~Galdhøpiggen,203942]]"

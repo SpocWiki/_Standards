@@ -70,7 +70,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_technology,7112740]]'
 >
 > While technology contributes to economic development and improves human prosperity, it can also have negative impacts like pollution and resource depletion, and can cause social harms like technological unemployment resulting from automation. As a result, philosophical and political debates about the role and use of technology, the ethics of technology, and ways to mitigate its downsides are ongoing.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Technology)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Technology) 
 
 
 ## Confidential Links & Embeds: 

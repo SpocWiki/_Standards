@@ -25,7 +25,7 @@ aliases:
 > are frequently cited by other researchers. 
 > He is also the main author of the CIFAR-10 and CIFAR-100 datasets.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alex%20Krizhevsky)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alex%20Krizhevsky) 
 
 
 ## Confidential Links & Embeds: 

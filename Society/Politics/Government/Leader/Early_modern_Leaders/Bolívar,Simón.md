@@ -19,7 +19,7 @@ aliases:
 >
 > In his final years, Bolívar became increasingly disillusioned with the South American republics, and distanced from them because of his centralist ideology. He was successively removed from his offices until he resigned the presidency of Colombia and died of tuberculosis in 1830. His legacy is diverse and far-reaching within Latin America and beyond. He is regarded as a hero and national and cultural icon throughout Latin America; the nations of Bolivia and Venezuela (as the Bolivarian Republic of Venezuela) are named after him, and he has been memorialized all over the world in the form of public art or street names and in popular culture.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sim%C3%B3n%20Bol%C3%ADvar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sim%C3%B3n%20Bol%C3%ADvar) 
 
 
 ## Confidential Links & Embeds: 

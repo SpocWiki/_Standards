@@ -29,7 +29,7 @@ aliases:
 > and is given to recognize achievements each year in the comics medium; 
 > he was one of the three inaugural inductees to the **Will Eisner** Comic Book Hall of Fame.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Will%20Eisner)
+> [Wikipedia](https://en.wikipedia.org/wiki/Will%20Eisner) 
 
 
 ## Confidential Links & Embeds: 

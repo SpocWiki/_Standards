@@ -52,7 +52,7 @@ A process of care using radiation aimed at improving a health condition.
 >
 > The precise treatment intent (curative, adjuvant, neoadjuvant therapeutic, or palliative) will depend on the tumor type, location, and stage, as well as the general health of the patient. Total body irradiation (TBI) is a radiation therapy technique used to prepare the body to receive a bone marrow transplant. Brachytherapy, in which a radioactive source is placed inside or next to the area requiring treatment, is another form of radiation therapy that minimizes exposure to healthy tissue during procedures to treat cancers of the breast, prostate, and other organs. Radiation therapy has several applications in non-malignant conditions, such as the treatment of trigeminal neuralgia, acoustic neuromas, severe thyroid eye disease, pterygium, pigmented villonodular synovitis, and prevention of keloid scar growth, vascular restenosis, and heterotopic ossification. The use of radiation therapy in non-malignant conditions is limited partly by worries about the risk of radiation-induced cancers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Radiation%20therapy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Radiation%20therapy) 
 
 
 ## Confidential Links & Embeds: 

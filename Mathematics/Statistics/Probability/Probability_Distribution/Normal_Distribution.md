@@ -135,7 +135,7 @@ When the Contributions multiply you get a
 > The univariate probability distribution is generalized for vectors in the multivariate normal distribution 
 > and for matrices in the matrix normal distribution.
 > 
-> [Wikipedia](https://en.wikipedia.org/wiki/Normal%20distribution)
+> [Wikipedia](https://en.wikipedia.org/wiki/Normal%20distribution) 
 
 
 ```dataviewjs

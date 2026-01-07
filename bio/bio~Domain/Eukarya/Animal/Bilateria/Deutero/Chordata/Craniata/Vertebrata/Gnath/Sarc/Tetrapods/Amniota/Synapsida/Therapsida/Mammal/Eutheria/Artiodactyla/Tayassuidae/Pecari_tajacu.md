@@ -23,7 +23,8 @@ title: Pecari tajacu
 > The species is also known as the musk hog. 
 > In Trinidad, it is colloquially known as quenk.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Collared%20peccary)
+> [Wikipedia](https://en.wikipedia.org/wiki/Collared%20peccary) 
+
 
 ## Phylogeny 
 

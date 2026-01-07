@@ -500,7 +500,7 @@ Capital :: [[Guatemala_City]]
 >
 > With an estimated population of around 17.6 million, Guatemala is the most populous country in Central America, the 4th most populous country in North America and the 11th most populous country in the Americas. Its capital and largest city, Guatemala City, is the most populous city in Central America.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Guatemala)
+> [Wikipedia](https://en.wikipedia.org/wiki/Guatemala) 
 
 
 ## Confidential Links & Embeds: 

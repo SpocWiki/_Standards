@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1862-01-01 
 aliases:
   - Alice in Wonderland
   - Alice's Adventures in Wonderland
@@ -153,7 +154,7 @@ Wolfram_Language_entity_code: Entity["Book", "AlicesAdventuresInWonderland"]
 > Carroll published a sequel in 1871 entitled Through the Looking-Glass 
 > and a shortened version for young children, The Nursery "Alice", in 1890.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alice's%20Adventures%20in%20Wonderland)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alice's%20Adventures%20in%20Wonderland) 
 
 
 ## Confidential Links & Embeds: 

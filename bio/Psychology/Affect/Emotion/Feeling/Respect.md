@@ -42,8 +42,6 @@ MeSH_tree_code: F01.100.907
 > [Wikipedia](https://en.wikipedia.org/wiki/Respect) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Feeling/Respect|Respect]] 

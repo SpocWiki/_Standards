@@ -54,7 +54,7 @@ studied_in:
 > whereby **in the modern world emphasis is put on reason, empirical evidence and science** 
 > as sources and methods to determine or investigate reality.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Reality)
+> [Wikipedia](https://en.wikipedia.org/wiki/Reality) 
 
 
 ## Confidential Links & Embeds: 

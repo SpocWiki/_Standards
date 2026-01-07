@@ -82,7 +82,7 @@ Commons_category: Macintosh operating systems
 > - tvOS in 2015 for the Apple TV set-top box; and 
 > - visionOS in 2024 for the Apple Vision Pro mixed reality headset.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mac%20operating%20systems)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mac%20operating%20systems) 
 
 
 ## Confidential Links & Embeds: 

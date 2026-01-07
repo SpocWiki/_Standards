@@ -67,7 +67,7 @@ UMLS_CUI: C0030797
 > 
 > Their offspring pass through this gap when they are born.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pelvis)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Pelvis) 
 
 
 ## Confidential Links & Embeds: 

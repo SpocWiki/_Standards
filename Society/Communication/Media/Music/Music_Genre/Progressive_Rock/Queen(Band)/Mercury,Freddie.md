@@ -189,7 +189,7 @@ official_website: http://www.freddiemercury.com
 > from the British Academy of Songwriters, Composers, and Authors. 
 > In 2002, Mercury was voted number 58 in the BBC's poll of the 100 Greatest Britons.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Freddie%20Mercury)
+> [Wikipedia](https://en.wikipedia.org/wiki/Freddie%20Mercury) 
 
 
 ## Confidential Links & Embeds: 

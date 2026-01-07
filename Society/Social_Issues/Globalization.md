@@ -79,7 +79,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Globalisation::zbks4"]
 >
 > Proponents of globalization point to economic growth and broader societal development as benefits, while opponents claim globalizing processes are detrimental to social well-being due to ethnocentrism, environmental consequences, and other potential drawbacks.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Globalization)
+> [Wikipedia](https://en.wikipedia.org/wiki/Globalization) 
 
 
 [[../../../_protect/Society/Sociology/Politics/German_Politics/Jamaika-Koalition]] 

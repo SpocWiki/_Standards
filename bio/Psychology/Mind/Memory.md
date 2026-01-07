@@ -158,6 +158,7 @@ type: private_note
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Memory) 
 
+
 ## explicit memory 
 
 Declarative, or explicit memory, is the conscious storage and recollection of data. 

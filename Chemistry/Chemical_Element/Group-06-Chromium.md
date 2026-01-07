@@ -37,7 +37,7 @@ type: ElementGroup
 >
 > "Group 6" is the new IUPAC name for this group; the old style name was "group VIB" in the old US system (CAS) or "group VIA" in the European system (old IUPAC). Group 6 must not be confused with the group with the old-style group crossed names of either VIA (US system, CAS) or VIB (European system, old IUPAC). That group is now called group 16.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Group%206%20element)
+> [Wikipedia](https://en.wikipedia.org/wiki/Group%206%20element) 
 
 
 ## Confidential Links & Embeds: 

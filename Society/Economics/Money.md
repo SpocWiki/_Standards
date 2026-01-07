@@ -60,7 +60,7 @@ Wikidata_property: cash
 >
 > The money supply of a country comprises all currency in circulation (banknotes and coins currently issued) and, depending on the particular definition used, one or more types of bank money (the balances held in checking accounts, savings accounts, and other types of bank accounts). Bank money, whose value exists on the books of financial institutions and can be converted into physical notes or used for cashless payment, forms by far the largest part of broad money in developed countries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Money)
+> [Wikipedia](https://en.wikipedia.org/wiki/Money) 
 
 
 ## Confidential Links & Embeds: 

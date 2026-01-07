@@ -35,7 +35,7 @@ aliases:
 > Primetime Emmy Award for Outstanding Animated Program and won an 
 > Annie Award for Best General Audience Animated Television Broadcast Production.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Arcane%20(TV%20series))
+> [Wikipedia](https://en.wikipedia.org/wiki/Arcane%20(TV%20series)) 
 
 
 ## Confidential Links & Embeds: 

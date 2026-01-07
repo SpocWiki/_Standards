@@ -77,7 +77,8 @@ Centipedes
 >
 > Centipedes are predominantly generalist carnivorous, hunting for a variety of prey items that can be overpowered. They have a wide geographical range, which can be found in terrestrial habitats from tropical rainforests to deserts. Within these habitats, centipedes require a moist microhabitat because they lack the waxy cuticle of insects and arachnids, causing them to rapidly lose water. Accordingly, they avoid direct sunlight by staying under cover or by being active at night.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Centipede)
+> [Wikipedia](https://en.wikipedia.org/wiki/Centipede) 
+
 
 ## Phylogeny 
 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 1.183333 , 8.25 ] 
 aliases:
   - Togo
   - توغو
@@ -454,7 +455,7 @@ Capital :: [[Lomé]]
 >
 > Togo is a tropical, sub-Saharan nation whose economy depends mostly on agriculture. The official language is French, but other languages are spoken, particularly those of the Gbe family. 47.8% of the population adhere to Christianity, making it the largest religion in the country. Togo is a member of the United Nations, African Union, Organisation of Islamic Cooperation, South Atlantic Peace and Cooperation Zone, Francophonie, Commonwealth of Nations, and Economic Community of West African States.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Togo)
+> [Wikipedia](https://en.wikipedia.org/wiki/Togo) 
 
 
 ## Confidential Links & Embeds: 

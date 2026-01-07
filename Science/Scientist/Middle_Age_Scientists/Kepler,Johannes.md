@@ -191,7 +191,7 @@ Google_Doodle: johannes-keplers-442nd-birthday
 > transforming the ancient tradition of physical cosmology 
 > by treating astronomy as part of a universal mathematical physics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Kepler)
+> [Wikipedia](https://en.wikipedia.org/wiki/Johannes%20Kepler) 
 
 
 ## Confidential Links & Embeds: 

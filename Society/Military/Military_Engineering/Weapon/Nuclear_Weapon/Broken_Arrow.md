@@ -10,6 +10,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20States%20military%20nuclear%20incident%20terminology) 
 
+
 The US Department of Defense has officially recognized at least 32 "Broken Arrow" incidents from 1950 to 1980. Examples of these events include:
 
 - [1950 British Columbia B-36 crash](https://en.wikipedia.org/wiki/1950_British_Columbia_B-36_crash "1950 British Columbia B-36 crash")

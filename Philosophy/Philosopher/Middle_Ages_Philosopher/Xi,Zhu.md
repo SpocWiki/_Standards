@@ -85,7 +85,7 @@ spouse: '[[_Standards/WikiData/WD~Liu_Shi,65801332]]'
 >
 > Zhu was a scholar with a wide learning in the classics, commentaries, histories and other writings of his predecessors. In his lifetime, he was able to serve multiple times as a government official, although he avoided public office for most of his adult life. He also wrote, compiled and edited almost a hundred books and corresponded with dozens of other scholars. He acted as a teacher to groups of students, many of whom chose to study under him for years. He built upon the teachings of the Cheng brothers and others, further developing their metaphysical theories in regards to principle (li) and vital force (qi). His followers recorded thousands of his conversations in writing.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Zhu%20Xi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Zhu%20Xi) 
 
 
 ## Confidential Links & Embeds: 

@@ -19,7 +19,7 @@
 > Bertelsmann is an unlisted and capital market-oriented company, 
 > which remains primarily controlled by the Mohn family.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bertelsmann)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bertelsmann) 
 
 
 ## Confidential Links & Embeds: 

@@ -94,7 +94,7 @@ spouse: '[[_Standards/WikiData/WD~Beatriz_Barbosa,22668563]]'
 >
 > While in the Kingdom of Portugal's service, Magellan had already reached the Malay Archipelago in Southeast Asia on previous voyages traveling east (from 1505 to 1511–1512). By visiting this area again but now traveling west, Magellan achieved a nearly complete personal circumnavigation of the globe for the first time in history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ferdinand%20Magellan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ferdinand%20Magellan) 
 
 
 ## Confidential Links & Embeds: 

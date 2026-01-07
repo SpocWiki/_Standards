@@ -68,7 +68,7 @@ P8189: 987007283918205171
 >
 > Tropospheric clouds can have a direct effect on climate change on Earth. They may reflect incoming rays from the Sun which can contribute to a cooling effect where and when these clouds occur, or trap longer wave radiation that reflects up from the Earth's surface which can cause a warming effect. The altitude, form, and thickness of the clouds are the main factors that affect the local heating or cooling of the Earth and the atmosphere. Clouds that form above the troposphere are too scarce and too thin to have any influence on climate change. Clouds are the main uncertainty in climate sensitivity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cloud)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cloud) 
 
 
 ## Confidential Links & Embeds: 

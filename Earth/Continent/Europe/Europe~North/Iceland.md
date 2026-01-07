@@ -441,7 +441,7 @@ Capital :: [[Reykjavik]]
 >
 > Iceland has a market economy with relatively low taxes, compared to other OECD countries, as well as the highest trade union membership in the world. It maintains a Nordic social welfare system that provides universal health care and tertiary education. Iceland ranks highly in international comparisons of national performance, such as quality of life, education, protection of civil liberties, government transparency, and economic freedom. It has the smallest population of any NATO member and is the only one with no standing army, possessing only a lightly armed coast guard.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Iceland)
+> [Wikipedia](https://en.wikipedia.org/wiki/Iceland) 
 
 
 ## Confidential Links & Embeds: 

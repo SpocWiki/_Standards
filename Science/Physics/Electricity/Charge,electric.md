@@ -79,7 +79,7 @@ Since 2019 the Charge is defined as exactly 1 Electron Charge every 1.602176634Ã
 >
 > The SI derived unit of electric charge is the coulomb (C) named after French physicist Charles-Augustin de Coulomb. In electrical engineering it is also common to use the ampere-hour (Aâ‹…h). In physics and chemistry it is common to use the elementary charge (e) as a unit. Chemistry also uses the Faraday constant, which is the charge of one mole of elementary charges.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Electric%20charge)
+> [Wikipedia](https://en.wikipedia.org/wiki/Electric%20charge) 
 
 
 ## Confidential Links & Embeds: 

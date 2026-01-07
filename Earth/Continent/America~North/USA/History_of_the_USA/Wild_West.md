@@ -36,8 +36,6 @@ Commons_gallery: Wild West
 > [Wikipedia](https://en.wikipedia.org/wiki/American%20frontier) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/Wild_West|Wild_West]] 

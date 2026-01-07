@@ -59,8 +59,6 @@ Library_of_Congress_Classification: TK6573-TK6595
 > [Wikipedia](https://en.wikipedia.org/wiki/Radar) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Measuring_Instrument/Radar(Radio_Detection_and_Ranging)|Radar(Radio_Detection_and_Ranging)]] 

@@ -40,7 +40,6 @@ type: private_note
 
 ## #has_/text_of_/abstract 
 
-
 > Martin Van Buren (Dutch: Maarten van Buren; December 5, 1782 – July 24, 1862) 
 > was an American lawyer, diplomat, and statesman 
 > who served as the eighth president of the United States from 1837 to 1841. 
@@ -116,7 +115,7 @@ type: private_note
 > who supported the policies of President Abraham Lincoln, a Republican. 
 > He died of asthma at his home in Kinderhook in 1862, aged 79.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Van%20Buren)
+> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Van%20Buren) 
 
 
 ## Confidential Links & Embeds: 

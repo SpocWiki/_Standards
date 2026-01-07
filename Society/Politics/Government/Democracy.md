@@ -111,7 +111,7 @@ Each characteristic is given a binary distinction, representing possible alterna
 >
 > Democracy contrasts with forms of government where power is not vested in the general population of a state, such as authoritarian systems. World public opinion strongly favors democratic systems of government. According to the V-Dem Democracy indices and The Economist Democracy Index, less than half the world's population lives in a democracy as of 2022.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Democracy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Democracy) 
 
 
 ## Confidential Links & Embeds: 

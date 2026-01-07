@@ -51,7 +51,7 @@ but it was not accepted well.
 > Some exceptions, especially hardware ones, must be handled so gracefully 
 > that execution can resume where it was interrupted.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Exception%20handling)
+> [Wikipedia](https://en.wikipedia.org/wiki/Exception%20handling) 
 
 
 ## Exceptions_vs_Options 

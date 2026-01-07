@@ -26,7 +26,7 @@ aliases:
 > as well as two nominations at the 67th Golden Globe Awards: Best Motion Picture – Musical or Comedy 
 > and Best Actor – Musical or Comedy (Gordon-Levitt).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/500%20Days%20of%20Summer)
+> [Wikipedia](https://en.wikipedia.org/wiki/500%20Days%20of%20Summer) 
 
 
 It has strong autobiographical streaks of Scott Neustadter

@@ -43,7 +43,7 @@ Commons_category: Sandpaper
 > A small number such as 20 or 40 indicates a coarse grit, 
 > while a large number such as 1500 indicates a fine grit.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sandpaper)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Sandpaper) 
 
 
 ## Confidential Links & Embeds: 

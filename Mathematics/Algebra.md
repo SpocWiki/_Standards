@@ -62,7 +62,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_algebra,7112546]]'
 >
 > Algebraic methods were first studied in the ancient period to solve specific problems in fields like geometry. Subsequent mathematicians examined general techniques to solve equations independent of their specific applications. They described equations and their solutions using words and abbreviations until the 16th and 17th centuries, when a rigorous symbolic formalism was developed. In the mid-19th century, the scope of algebra broadened beyond a theory of equations to cover diverse types of algebraic operations and structures. Algebra is relevant to many branches of mathematics, such as geometry, topology, number theory, and calculus, and other fields of inquiry, like logic and the empirical sciences.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Algebra)
+> [Wikipedia](https://en.wikipedia.org/wiki/Algebra) 
 
 
 ## Confidential Links & Embeds: 

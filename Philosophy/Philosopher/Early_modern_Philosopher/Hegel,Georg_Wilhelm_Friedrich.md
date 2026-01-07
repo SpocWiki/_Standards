@@ -160,7 +160,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 >
 > Guided by the Delphic imperative to "know thyself", Hegel presents free self-determination as the essence of humankind – a conclusion from his 1806–07 Phenomenology that he claims is further verified by the systematic account of the interdependence of logic, nature, and spirit in his later Encyclopedia. He asserts that the Logic at once preserves and overcomes the dualisms of the material and the mental – that is, it accounts for both the continuity and difference marking the domains of nature and culture – as a metaphysically necessary and coherent "identity of identity and non-identity".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Georg%20Wilhelm%20Friedrich%20Hegel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Georg%20Wilhelm%20Friedrich%20Hegel) 
 
 
 ## Confidential Links & Embeds: 

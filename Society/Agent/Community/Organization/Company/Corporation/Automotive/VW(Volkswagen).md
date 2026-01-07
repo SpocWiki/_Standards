@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1937-05-28 
 aliases:
   - Volkswagen
   - VW(Volkswagen)
@@ -107,6 +108,7 @@ Zhihu_username: da-zhong-qi-che-pin-pai
 > meaning 'people's car', or more directly 'folk's wain (wagon)'.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Volkswagen) 
+
 
 #has_/parts :: [[VW(Volkswagen)/Cariad_SE]] 
 

@@ -176,7 +176,7 @@ writing_language:
 >
 > In 1961, Borges came to international attention when he received the first Formentor Prize, which he shared with Samuel Beckett. In 1971, he won the Jerusalem Prize. His international reputation was consolidated in the 1960s, aided by the growing number of English translations, the Latin American Boom, and by the success of García Márquez's One Hundred Years of Solitude. He dedicated his final work, The Conspirators, to the city of Geneva, Switzerland. Writer and essayist J. M. Coetzee said of him: "He, more than anyone, renovated the language of fiction and thus opened the way to a remarkable generation of Spanish-American novelists." David Foster Wallace wrote: "The truth, briefly stated, is that Borges is arguably the great bridge between modernism and post-modernism in world literature. He is modernist in that his fiction shows a first-rate human mind stripped of all foundations of religious or ideological certainty – a mind turned wholly inward on itself. His stories are inbent and hermetic, with the oblique terror of a game whose rules are unknown and its stakes everything."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jorge%20Luis%20Borges)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jorge%20Luis%20Borges) 
 
 
 ## Confidential Links & Embeds: 

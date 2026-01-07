@@ -32,6 +32,7 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ANTROPONIMIKA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anthroponymy) 
 
+
 ## Family Name Derivation 
 
 | Country                                      | Policy or Mandate Title                                    |                         Date | Nature of Regulation                                         | Patrilin% | Origin of Family Names                                      | Illustrative Example                               | Administrative Authority at Introduction |

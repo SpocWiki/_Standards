@@ -84,7 +84,7 @@ water_footprint:
 >
 > Production of rice is estimated to have caused over 1% of global greenhouse gas emissions in 2022. Predictions of how rice yields will be affected by climate change vary across geographies and socioeconomic contexts. In human culture, rice plays a role in various religions and traditions, such as in weddings.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rice)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rice) 
 
 
 ## Confidential Links & Embeds: 

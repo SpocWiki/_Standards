@@ -124,7 +124,7 @@ Wolfram_Language_entity_code: Entity["FoodType", "Apple"]
 >
 > There are more than 7,500 cultivars of apples. Different cultivars are bred for various tastes and uses, including cooking, eating raw, and cider or apple juice production. Trees and fruit are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Apple)
+> [Wikipedia](https://en.wikipedia.org/wiki/Apple) 
 
 
 ## Confidential Links & Embeds: 

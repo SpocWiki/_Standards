@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1995-01-01 
 aliases:
   - Prog~Java
 has_id_wikidata: Q251
@@ -136,7 +137,7 @@ Java was originally called Oak.
 >
 > As of September 2023, Java 21 is the latest version, which is also a long-term support (LTS) version. Java 8, 11, and 17 are previous LTS versions still officially supported.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Java%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Java%20(programming%20language)) 
 
 
 ## Confidential Links & Embeds: 

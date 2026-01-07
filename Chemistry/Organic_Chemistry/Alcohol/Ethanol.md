@@ -300,6 +300,7 @@ C-C-O
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ethanol) 
 
+
 Apes developed an Enzyme to digest ethanol 40 times faster ca. 10My ago. 
 Reasons are probably food shortage due to climate Change. 
 Since fallen sugary Fruits are often infected by yeasts, 

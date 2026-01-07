@@ -150,7 +150,7 @@ U_S_National_Archives_Identifier: 10640824
 > Some opposition groups have adopted the label anti-fascist (often shortened to antifa) 
 > to signify their stance.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fascism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fascism) 
 
 
 ## Confidential Links & Embeds: 

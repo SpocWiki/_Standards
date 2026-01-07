@@ -276,7 +276,7 @@ work_location:
 >
 > His late period culminates with the Black Paintings of 1819–1823, applied on oil on the plaster walls of his house the Quinta del Sordo (House of the Deaf Man) where, disillusioned by political and social developments in Spain, he lived in near isolation. Goya eventually abandoned Spain in 1824 to retire to the French city of Bordeaux, accompanied by his much younger maid and companion, Leocadia Weiss, who may have been his lover. There he completed his La Tauromaquia series and a number of other works. Following a stroke that left him paralyzed on his right side, Goya died and was buried on 16 April 1828 aged 82.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Francisco%20Goya)
+> [Wikipedia](https://en.wikipedia.org/wiki/Francisco%20Goya) 
 
 
 ## Confidential Links & Embeds: 

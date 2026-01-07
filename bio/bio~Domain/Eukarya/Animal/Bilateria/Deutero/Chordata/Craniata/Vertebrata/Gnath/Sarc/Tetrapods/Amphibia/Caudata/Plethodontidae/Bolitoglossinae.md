@@ -2,10 +2,10 @@
 aliases:
   - Bolitoglossinae
 title: Bolitoglossinae
-__scientific_name: Bolitoglossa lincolni
-__location: Caxaque (San Marcos, Guatemala)
-__copyright: © 2006 [Sean Michael Rovito](mailto:smrovito@berkeley.edu)
-__is_:
+dv_scientific_name: Bolitoglossa lincolni
+dv_location: Caxaque (San Marcos, Guatemala)
+dv_copyright: © 2006 [Sean Michael Rovito](mailto:smrovito@berkeley.edu)
+dv_is_:
   same_as:
     - "[[Bolitoglossinae]]"
     - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.public|Bolitoglossinae.public]]"
@@ -14,7 +14,7 @@ __is_:
     - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.private|Bolitoglossinae.private]]"
     - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.personal|Bolitoglossinae.personal]]"
     - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.secret|Bolitoglossinae.secret]]"
-__is_same_as:
+dv_is_same_as:
   - "[[Bolitoglossinae]]"
   - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.public|Bolitoglossinae.public]]"
   - "[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.internal|Bolitoglossinae.internal]]"
@@ -22,7 +22,7 @@ __is_same_as:
   - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.private|Bolitoglossinae.private]]"
   - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.personal|Bolitoglossinae.personal]]"
   - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.secret|Bolitoglossinae.secret]]"
-__specimen_condition: Live Specimen
+dv_specimen_condition: Live Specimen
 ---
 
 # [[Bolitoglossinae]] 

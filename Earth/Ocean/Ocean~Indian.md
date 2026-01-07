@@ -303,8 +303,7 @@ lat: -10
 >
 > Historically, the Indian Ocean has been a hub of cultural and commercial exchange since ancient times. It played a key role in early human migrations and the spread of civilizations. In modern times, it remains crucial for global trade, especially in oil and hydrocarbons. Environmental and geopolitical concerns in the region include the effects of climate change, piracy, and strategic disputes over island territories.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Indian%20Ocean)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Indian%20Ocean) 
 
 
 ## All Contents

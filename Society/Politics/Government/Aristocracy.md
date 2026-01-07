@@ -9,7 +9,7 @@
 >
 > In modern times, aristocracy was usually seen as rule by a privileged group, the aristocratic class, and has since been contrasted with democracy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Aristocracy)
+> [Wikipedia](https://en.wikipedia.org/wiki/Aristocracy) 
 
 
 ## Confidential Links & Embeds: 

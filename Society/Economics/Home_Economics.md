@@ -51,7 +51,7 @@ U_S_National_Archives_Identifier: 10640041
 >
 > Now family and consumer science have been included in the broader subject of Career Technical Education, a program that teaches skilled trades, applied sciences, modern technologies, and career preparation.  Despite the widening of the subject matter over the past century, there has been a major decline in home economics courses offered by educational institutions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Home%20economics)
+> [Wikipedia](https://en.wikipedia.org/wiki/Home%20economics) 
 
 
 ## Confidential Links & Embeds: 

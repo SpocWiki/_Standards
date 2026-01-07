@@ -183,7 +183,7 @@ Huizhou: czh
 > For example, practicing Chinese calligraphy 
 > requires the knowledge of traditional Chinese characters.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20language)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20language) 
 
 
 ## Confidential Links & Embeds: 

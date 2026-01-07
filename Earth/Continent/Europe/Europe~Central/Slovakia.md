@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 20.0 , 49.0 ] 
 aliases:
   - Slovakia
   - Eslovaquia
@@ -510,7 +511,7 @@ Capital :: [[Bratislava]]
 >
 > Slovakia is a developed country with an advanced high-income economy. The country maintains a combination of a market economy with a comprehensive social security system, providing citizens with universal health care, free education, one of the lowest retirement age in Europe and one of the longest paid parental leaves in the OECD. Slovakia is a member of the European Union, the Eurozone, the Schengen Area, the United Nations, NATO, CERN, the OECD, the WTO, the Council of Europe, the Visegrád Group, and the OSCE. Slovakia is also home to eight UNESCO World Heritage Sites. The world's largest per-capita car producer, Slovakia manufactured a total of 1.1 million cars in 2019, representing 43% of its total industrial output.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Slovakia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Slovakia) 
 
 
 ## Confidential Links & Embeds: 

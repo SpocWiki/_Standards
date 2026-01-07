@@ -68,7 +68,7 @@ Commons_category: Veterinary medicine
 > Veterinary science helps human health through the monitoring 
 > and control of zoonotic disease (infectious disease transmitted from nonhuman animals to humans), food safety, and through human applications via medical research. They also help to maintain food supply through livestock health monitoring and treatment, and mental health by keeping pets healthy and long-living. Veterinary scientists often collaborate with epidemiologists and other health or natural scientists, depending on type of work. Ethically, veterinarians are usually obliged to look after animal welfare. Veterinarians diagnose, treat, and help keep animals safe and healthy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Veterinary%20medicine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Veterinary%20medicine) 
 
 
 ## Confidential Links & Embeds: 

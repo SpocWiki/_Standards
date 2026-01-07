@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1977-01-01 
 aliases:
 has_id_wikidata: Q462
 X_Twitter_username: StarWars
@@ -89,7 +90,7 @@ Facebook_username: StarWars
 > the combined box office revenue of the films equated to over US$10 billion, 
 > making Star Wars the third-highest-grossing film franchise of all time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Star%20Wars)
+> [Wikipedia](https://en.wikipedia.org/wiki/Star%20Wars) 
 
 
 ## Confidential Links & Embeds: 

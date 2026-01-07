@@ -176,7 +176,7 @@ writing_language:
 >
 > In two later works, Luther expressed anti-Judaistic views, calling for the expulsion of Jews and the burning of synagogues. These works also targeted Roman Catholics, Anabaptists, and nontrinitarian Christians. Based upon his teachings, despite the fact that Luther did not directly advocate the murder of Jews, some historians contend that his rhetoric contributed to the development of antisemitism in Germany and the emergence, centuries later, of the Nazi Party.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Luther)
+> [Wikipedia](https://en.wikipedia.org/wiki/Martin%20Luther) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1884-01-01 
 aliases:
   - Köppen climate classification
   - Köppen–Geiger climate classification

@@ -11,7 +11,7 @@
 >
 > RDF was adopted as a W3C recommendation in 1999. The RDF 1.0 specification was published in 2004, and the RDF 1.1 specification in 2014. SPARQL is a standard query language for RDF graphs. RDF Schema (RDFS), Web Ontology Language (OWL) and SHACL (Shapes Constraint Language) are ontology languages that are used to describe RDF data.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Resource%20Description%20Framework)
+> [Wikipedia](https://en.wikipedia.org/wiki/Resource%20Description%20Framework) 
 
 
 ## Confidential Links & Embeds: 

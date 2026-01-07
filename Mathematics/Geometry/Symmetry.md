@@ -48,7 +48,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Simetri
 >
 > The opposite of symmetry is asymmetry, which refers to the absence of symmetry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Symmetry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Symmetry) 
 
 
 ## Confidential Links & Embeds: 

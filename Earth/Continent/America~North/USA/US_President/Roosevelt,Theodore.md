@@ -286,7 +286,7 @@ after the publicity of him not shooting a captive bear.
 > Roosevelt's health deteriorated and he died in 1919. 
 > Polls of historians and political scientists rank him as one of the greatest American presidents.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Theodore%20Roosevelt)
+> [Wikipedia](https://en.wikipedia.org/wiki/Theodore%20Roosevelt) 
 
 
 # [[Roosevelt,Theodore]] 

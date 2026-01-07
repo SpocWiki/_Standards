@@ -252,7 +252,7 @@ Krugosvet_article: nauka_i_tehnika/biologiya/ZHIRAF.html
 >
 > The giraffe has intrigued various ancient and modern cultures for its peculiar appearance and has often been featured in paintings, books, and cartoons. It is classified by the International Union for Conservation of Nature (IUCN) as vulnerable to extinction. It has been extirpated from many parts of its former range. Giraffes are still found in many national parks and game reserves, but estimates as of 2016 indicate there are approximately 97,500 members of Giraffa in the wild. More than 1,600 were kept in zoos in 2010.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Giraffe)
+> [Wikipedia](https://en.wikipedia.org/wiki/Giraffe) 
 
 
 ## Confidential Links & Embeds: 

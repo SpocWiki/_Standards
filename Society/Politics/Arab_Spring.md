@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 2010-12-18 
+has_time_stopped: 2012-12-01 
 aliases:
   - Arab_Spring
   - Arab Spring
@@ -105,7 +107,7 @@ dissolved_abolished_or_demolished_date: 2012-12-01T00:00:00Z
 > the Assad dynasty ending after over 50 years, the fall of Damascus, 
 > and the 2024 Israeli invasion of Syria.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Arab%20Spring)
+> [Wikipedia](https://en.wikipedia.org/wiki/Arab%20Spring) 
 
 
 ## Confidential Links & Embeds: 

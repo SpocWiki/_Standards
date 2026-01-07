@@ -42,7 +42,7 @@ OpenStreetMap_tag: playground=trampoline
 > is not elastic itself; the elasticity is provided by the springs that connect it to the frame, 
 > which store potential energy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Trampoline)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Trampoline) 
 
 
 ## Confidential Links & Embeds: 

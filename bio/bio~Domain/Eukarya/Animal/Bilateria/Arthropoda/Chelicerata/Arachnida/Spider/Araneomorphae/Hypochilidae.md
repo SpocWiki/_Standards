@@ -17,6 +17,7 @@ Containing group:[Araneomorphae](../Araneomorphae.md)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lampshade%20spider) 
 
+
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -153,7 +153,7 @@ who claimed that the natural state is peaceful.
 > and contentious debates with contemporaries, 
 > Hobbes's work profoundly influenced the understanding of political structure and human nature.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Hobbes)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Hobbes) 
 
 
 ## Confidential Links & Embeds: 

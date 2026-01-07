@@ -135,7 +135,7 @@ ISNI:
 >
 > He has received critical acclaim for his idiosyncratic cinematic work, winning numerous awards with Japanese film critic Nagaharu Yodogawa having once dubbed him "the true successor" to influential filmmaker Akira Kurosawa. Many of Kitano's films are dramas about yakuza gangsters or the police. Described by critics as using an acting style that is highly deadpan or a camera style that approaches near-stasis, Kitano often uses long takes during which little appears to be happening, or editing that cuts immediately to the aftermath of an event. Many of his films express a bleak worldview, but are also filled with humor and affection for their characters.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Takeshi%20Kitano)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Takeshi%20Kitano) 
 
 
 ## Confidential Links & Embeds: 

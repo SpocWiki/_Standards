@@ -87,9 +87,7 @@ aliases:
 > The rally drew only 20–30 protesters amidst thousands of counter-protesters, 
 > including religious organizations, civil rights groups, and anti-fascist organizers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Unite%20the%20Right%20rally)
-
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Unite%20the%20Right%20rally) 
 
 
 ## #has_/text_of_/abstract 
@@ -107,7 +105,7 @@ aliases:
 > The goal of uniting the right was accomplished in December 2003 
 > with the formation of the Conservative Party of Canada.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Unite%20the%20Right%20(Canada))
+> [Wikipedia](https://en.wikipedia.org/wiki/Unite%20the%20Right%20(Canada)) 
 
 
 ## Confidential Links & Embeds: 

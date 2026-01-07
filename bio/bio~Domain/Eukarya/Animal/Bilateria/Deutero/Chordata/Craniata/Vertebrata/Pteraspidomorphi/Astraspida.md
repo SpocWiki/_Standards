@@ -18,7 +18,6 @@ title: Astraspida
 > [Wikipedia](https://en.wikipedia.org/wiki/Astraspida) 
 
 
-
 ## Introduction
 
 The Astraspida, or astraspids, are a small group of fossil, armored,

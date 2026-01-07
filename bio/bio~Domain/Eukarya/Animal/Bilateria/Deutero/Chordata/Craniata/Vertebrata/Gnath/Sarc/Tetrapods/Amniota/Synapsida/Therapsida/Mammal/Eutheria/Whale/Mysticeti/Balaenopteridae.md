@@ -16,7 +16,8 @@ title: Balaenopteridae
 >
 > Rorquals take their name from French rorqual, which derives from the Norwegian word røyrkval: the first element røyr originated from the Old Norse name for this type of whale, reyðr, probably related to the Norse word for "red", and the second from the Norse word hvalr meaning "whale" in general. The family name Balaenopteridae is from the type genus, Balaenoptera.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rorqual)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rorqual) 
+
 
 ## Phylogeny 
 

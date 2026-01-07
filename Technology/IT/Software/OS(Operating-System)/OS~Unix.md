@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1969-01-01 
 aliases:
   - Unics
   - OS~Unix
@@ -87,7 +88,8 @@ official_website: https://www.opengroup.org/unix-systems
 > almost the entire operating system is written in the C programming language, 
 > which allows Unix to operate on numerous platforms.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Unix)
+> [Wikipedia](https://en.wikipedia.org/wiki/Unix) 
+
 
 ## Unix-History 
 

@@ -27,7 +27,7 @@ aliases:
 > producing several tracks for American rapper and illustrator MC Paul Barman 
 > on his album Thought Balloon Mushroom Cloud (2009).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michel%20Gondry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michel%20Gondry) 
 
 
 ## Confidential Links & Embeds: 

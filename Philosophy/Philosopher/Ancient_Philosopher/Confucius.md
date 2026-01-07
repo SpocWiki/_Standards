@@ -197,7 +197,7 @@ namely [[../Xunzi(Philosopher)]], who wants to enforce correctness.
 >
 > Confucius's principles share common ground with Chinese tradition and belief. He advocated for filial piety, endorsing strong family loyalty, ancestor veneration, the respect of elders by their children and of husbands by their wives. Confucius recommended a robust family unit as the cornerstone for an ideal government. He championed the Silver Rule, or a negative form of the Golden Rule, advising, "Do not do unto others what you do not want done to yourself."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Confucius)
+> [Wikipedia](https://en.wikipedia.org/wiki/Confucius) 
 
 
 ## Confidential Links & Embeds: 

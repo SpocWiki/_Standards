@@ -226,7 +226,7 @@ UMLS_CUI: C0002395
 > Alzheimer's financial burden on society is large, with an estimated global annual cost of US$1 trillion. 
 > It is ranked as the seventh leading cause of death worldwide.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Alzheimer's%20disease)
+> [Wikipedia](https://en.wikipedia.org/wiki/Alzheimer's%20disease) 
 
 
 ## Confidential Links & Embeds: 

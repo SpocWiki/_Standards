@@ -9,7 +9,7 @@
 > and absence from any streaming platforms made it a case-study in the ways 
 > that even critically acclaimed cinema can be essentially lost.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20Fall%20(2006%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20Fall%20(2006%20film)) 
 
 
 ## Confidential Links & Embeds: 

@@ -20,6 +20,7 @@ title: Eutheria
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Eutheria) 
 
+
 ## Characteristics 
 
 Eutheria, also known as placental mammals, are distinguished from their parent group 

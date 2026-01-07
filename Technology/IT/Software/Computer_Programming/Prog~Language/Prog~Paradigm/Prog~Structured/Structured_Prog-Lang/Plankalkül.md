@@ -11,7 +11,8 @@
 >
 > Kalkül is the German term for a formal system—as in Hilbert-Kalkül, the original name for the Hilbert-style deduction system—so Plankalkül refers to a formal system for planning.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Plankalk%C3%BCl)
+> [Wikipedia](https://en.wikipedia.org/wiki/Plankalk%C3%BCl) 
+
 
 Most of his computers were destroyed by Allied bombs, but Zuse was able to rescue one machine, the [Z4](https://en.wikipedia.org/wiki/Z4_(computer) "Z4 (computer)"), and move it to the Alpine village of [Hinterstein](https://en.wikipedia.org/wiki/Hinterstein) 
 Unable to continue building computers 

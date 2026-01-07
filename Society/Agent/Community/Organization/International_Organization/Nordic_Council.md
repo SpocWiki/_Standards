@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1952-03-16 
 aliases:
 has_id_wikidata: Q146165
 currency: "[[_Standards/WikiData/WD~Swedish_krona,122922]]"

@@ -649,10 +649,10 @@ SPLASH:
   - splash10-0aou-9000000000-64594906d693e8a08650
   - splash10-0apm-9100000000-8d5c8ecf0c7a7cc3ccf6
   - splash10-0apm-9100000000-a71c58b95cb65487eeed
-__has_:
+dv_has_:
   formula_:
     structural: CH3−(CH2)7−CH=CH−(CH2)7−COOH
-__is_:
+dv_is_:
   same_as:
     - "[[WD~Oleic_Acid,207688]]"
     - "[[Oleic_Acid]]"
@@ -662,8 +662,8 @@ __is_:
     - "[[/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.private|Oleic_Acid.private]]"
     - "[[/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.personal|Oleic_Acid.personal]]"
     - "[[/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.secret|Oleic_Acid.secret]]"
-__has_formula_structural: CH3−(CH2)7−CH=CH−(CH2)7−COOH
-__is_same_as:
+dv_has_formula_structural: CH3−(CH2)7−CH=CH−(CH2)7−COOH
+dv_is_same_as:
   - "[[WD~Oleic_Acid,207688]]"
   - "[[Oleic_Acid]]"
   - "[[/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.public|Oleic_Acid.public]]"

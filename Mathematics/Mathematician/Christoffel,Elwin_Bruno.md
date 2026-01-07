@@ -13,7 +13,7 @@ aliases:
 > opening the way for the development of tensor calculus, 
 > which would later provide the mathematical basis for general relativity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Elwin%20Bruno%20Christoffel)
+> [Wikipedia](https://en.wikipedia.org/wiki/Elwin%20Bruno%20Christoffel) 
 
 
 ## Confidential Links & Embeds: 

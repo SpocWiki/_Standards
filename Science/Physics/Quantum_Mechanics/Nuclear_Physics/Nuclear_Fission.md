@@ -51,7 +51,7 @@ UMLS_CUI: C0028576
 >
 > The products of nuclear fission, however, are on average far more radioactive than the heavy elements which are normally fissioned as fuel, and remain so for significant amounts of time, giving rise to a nuclear waste problem. However, the seven long-lived fission products make up only a small fraction of fission products. Neutron absorption which does not lead to fission produces plutonium (from 238U) and minor actinides (from both 235U and 238U) whose radiotoxicity is far higher than that of the long lived fission products. Concerns over nuclear waste accumulation and the destructive potential of nuclear weapons are a counterbalance to the peaceful desire to use fission as an energy source. The thorium fuel cycle produces virtually no plutonium and much less minor actinides, but 232U - or rather its decay products - are a major gamma ray emitter. All actinides are fertile or fissile and fast breeder reactors can fission them all albeit only in certain configurations. Nuclear reprocessing aims to recover usable material from spent nuclear fuel to both enable uranium (and thorium) supplies to last longer and to reduce the amount of "waste". The industry term for a process that fissions all or nearly all actinides is a "closed fuel cycle".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20fission)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20fission) 
 
 
 ## Confidential Links & Embeds: 

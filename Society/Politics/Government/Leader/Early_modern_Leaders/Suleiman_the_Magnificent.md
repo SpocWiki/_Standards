@@ -154,7 +154,7 @@ date_of_birth: 1494-11-15T00:00:00Z
 > the Ottoman Empire began to experience significant political, institutional, and economic changes—
 > a phenomenon often referred to as the Era of Transformation 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Suleiman%20the%20Magnificent)
+> [Wikipedia](https://en.wikipedia.org/wiki/Suleiman%20the%20Magnificent) 
 
 
 ## Confidential Links & Embeds: 

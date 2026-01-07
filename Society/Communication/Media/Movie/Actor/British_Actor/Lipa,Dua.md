@@ -48,7 +48,7 @@ aliases:
 > and was preceded by the UK top-ten singles "Houdini", "Training Season", and "Illusion". 
 > She also had a supporting role in the 2024 spy film Argylle.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dua%20Lipa)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dua%20Lipa) 
 
 
 ## Confidential Links & Embeds: 

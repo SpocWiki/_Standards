@@ -46,7 +46,7 @@ aliases:
 > to name the greatest comedians of all time, and 
 > half of Monty Python's members made the top 50.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Monty%20Python)
+> [Wikipedia](https://en.wikipedia.org/wiki/Monty%20Python) 
 
 
 ## Confidential Links & Embeds: 

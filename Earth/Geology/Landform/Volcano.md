@@ -56,7 +56,7 @@ A volcano, like Fujisan.
 >
 > This article mainly covers volcanoes on Earth. See § Volcanoes on other celestial bodies and cryovolcano for more information.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Volcano)
+> [Wikipedia](https://en.wikipedia.org/wiki/Volcano) 
 
 
 ## Confidential Links & Embeds: 

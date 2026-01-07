@@ -23,7 +23,7 @@ He is also impatient.
 >
 > Miyazaki's works are characterized by the recurrence of themes such as humanity's relationship with nature and technology, the wholesomeness of natural and traditional patterns of living, the importance of art and craftsmanship, and the difficulty of maintaining a pacifist ethic in a violent world. The protagonists of his films are often strong girls or young women, and several of his films present morally ambiguous antagonists with redeeming qualities. Miyazaki's works have been highly praised and awarded; he was named a Person of Cultural Merit for outstanding cultural contributions in November 2012, and received the Academy Honorary Award for his impact on animation and cinema in November 2014. Miyazaki has frequently been cited as an inspiration for numerous animators, directors, and writers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hayao%20Miyazaki)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hayao%20Miyazaki) 
 
 
 ## Confidential Links & Embeds: 

@@ -26,7 +26,7 @@ aliases:
 > including The Texas Chainsaw Massacre (2003), The Amityville Horror (2005), The Hitcher (2007), 
 > Friday the 13th (2009) and A Nightmare on Elm Street (2010).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Bay)
+> [Wikipedia](https://en.wikipedia.org/wiki/Michael%20Bay) 
 
 
 ## Confidential Links & Embeds: 

@@ -60,7 +60,7 @@ In summary, while both terms relate to systems where power ultimately resides wi
 > - to the establishment of the Empire in 27 BC. 
 > 
 > This constitution was characterized by 
-> - a [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate]] composed of wealthy aristocrats wielding significant influence; 
+> - a [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/Roman_Senate]] composed of wealthy aristocrats wielding significant influence; 
 > - a series of [[Roman_Magistrate]]s with varying types of civil and political authority.
 > - and several popular assemblies of all free citizens, possessing the power to elect magistrates from the populace and pass laws; 
 >
@@ -68,7 +68,7 @@ In summary, while both terms relate to systems where power ultimately resides wi
 > but there are also subnational state entities that are referred to as republics, 
 > or that have governments that are described as republican in nature.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Republic)
+> [Wikipedia](https://en.wikipedia.org/wiki/Republic) 
 
 
 ## Confidential Links & Embeds: 

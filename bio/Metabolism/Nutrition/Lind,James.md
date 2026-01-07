@@ -22,7 +22,7 @@ aliases:
 > He also proposed that fresh water could be obtained by distilling sea water. 
 > His work advanced the practice of preventive medicine and improved nutrition.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/James%20Lind)
+> [Wikipedia](https://en.wikipedia.org/wiki/James%20Lind) 
 
 
 ## Confidential Links & Embeds: 

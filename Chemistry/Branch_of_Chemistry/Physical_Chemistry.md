@@ -63,7 +63,7 @@ Universal_Decimal_Classification: 544
 >
 > Calculation of the energy of electron movement in molecules and metal complexes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Physical%20chemistry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Physical%20chemistry) 
 
 
 ## Confidential Links & Embeds: 

@@ -27,7 +27,8 @@
 > 
 > Hickey continues to lead development of the language as its [[../BDfL(benevolent_dictator_for_life)]]. 
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Clojure)
+> [Wikipedia](https://en.wikipedia.org/wiki/Clojure) 
+
 
 ## Closure~STM 
 

@@ -23,7 +23,7 @@
 > and earning a Golden Globe nomination for Best Song. 
 > The film was followed by The Living Daylights in 1987.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/A%20View%20to%20a%20Kill)
+> [Wikipedia](https://en.wikipedia.org/wiki/A%20View%20to%20a%20Kill) 
 
 
 ## Confidential Links & Embeds: 

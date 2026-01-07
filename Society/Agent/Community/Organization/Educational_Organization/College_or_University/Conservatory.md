@@ -42,7 +42,7 @@ Commons_category: Music conservatories
 >
 > The term "music school" can also be applied to institutions of higher education under names such as school of music, such as the Eastman School of Music of the University of Rochester; music academy, like the Sibelius Academy or the Royal Academy of Music, London; music faculty as the Don Wright Faculty of Music of the University of Western Ontario; college of music, characterized by the Royal College of Music and the Berklee College of Music; music department, like the Department of Music at the University of California, Santa Cruz; or the term conservatory, exemplified by the Conservatoire de Paris and the New England Conservatory. In other parts of Europe, the equivalents of higher school of music or university of music may be used, such as the Hochschule für Musik und Tanz Köln (Cologne University of Music).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Music%20school)
+> [Wikipedia](https://en.wikipedia.org/wiki/Music%20school) 
 
 
 ## Confidential Links & Embeds: 

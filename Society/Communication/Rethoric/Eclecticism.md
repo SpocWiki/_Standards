@@ -53,7 +53,7 @@ without necessarily blending them into a new, cohesive belief system
 > where the selection is based on individual merit or preference 
 > rather than an attempt to create a new unified tradition.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Eclecticism)
+> [Wikipedia](https://en.wikipedia.org/wiki/Eclecticism) 
 
 
 ## Confidential Links & Embeds: 

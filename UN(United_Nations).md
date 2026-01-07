@@ -293,7 +293,7 @@ Libris_URI: vs686bpd13rcfvg
 >
 > The UN, its officers, and its agencies have won many Nobel Peace Prizes, though other evaluations of its effectiveness have been mixed. Some commentators believe the organization to be an important force for peace and human development, while others have called it ineffective, biased, and corrupt.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations) 
 
 
 ## Confidential Links & Embeds: 

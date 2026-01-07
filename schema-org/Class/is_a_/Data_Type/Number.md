@@ -117,7 +117,7 @@ Usage guidelines:
 > (such as the p-adic numbers and hypercomplex numbers) while others are not, 
 > but this is more a matter of convention than a mathematical distinction.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Number)
+> [Wikipedia](https://en.wikipedia.org/wiki/Number) 
 
 
 ## Confidential Links & Embeds: 

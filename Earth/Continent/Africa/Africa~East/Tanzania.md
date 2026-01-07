@@ -592,7 +592,7 @@ Capital :: [[Dodoma]]
 >
 > Tanzania is mountainous and densely forested in the north-east, where Mount Kilimanjaro is located. Three of Africa's Great Lakes are partly within Tanzania. To the north and west lie Lake Victoria, Africa's largest lake, and Lake Tanganyika, the continent's deepest lake, known for its unique species of fish. To the south lies Lake Malawi. The eastern shore is hot and humid, with the Zanzibar Archipelago just offshore. The Menai Bay Conservation Area is Zanzibar's largest marine protected area. The Kalambo Falls, located on the Kalambo River at the Zambian border, is the second-highest uninterrupted waterfall in Africa. Tanzania is one of the most visited tourist destinations for safaris.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tanzania)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tanzania) 
 
 
 ## #has_/Etymology 

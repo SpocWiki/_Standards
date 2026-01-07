@@ -115,7 +115,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 >
 > As she grew older, Elizabeth became celebrated for her virginity. A cult of personality grew around her which was celebrated in the portraits, pageants, and literature of the day. The Elizabethan era is famous for the flourishing of English drama, led by playwrights such as William Shakespeare and Christopher Marlowe, the prowess of English maritime adventurers, such as Francis Drake and Walter Raleigh, and for the defeat of the Spanish Armada. Some historians depict Elizabeth as a short-tempered, sometimes indecisive ruler, who enjoyed more than her fair share of luck. Towards the end of her reign, a series of economic and military problems weakened her popularity. Elizabeth is acknowledged as a charismatic performer ("Gloriana") and a dogged survivor ("Good Queen Bess") in an era when government was ramshackle and limited, and when monarchs in neighbouring countries faced internal problems that jeopardised their thrones. After the short, disastrous reigns of her half-siblings, her 44 years on the throne provided welcome stability for the kingdom and helped to forge a sense of national identity.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Elizabeth%20I)
+> [Wikipedia](https://en.wikipedia.org/wiki/Elizabeth%20I) 
 
 
 ## Confidential Links & Embeds: 

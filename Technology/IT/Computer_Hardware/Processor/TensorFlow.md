@@ -13,7 +13,7 @@
 > including Python, JavaScript, C++, and Java, 
 > facilitating its use in a range of applications in many sectors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/TensorFlow)
+> [Wikipedia](https://en.wikipedia.org/wiki/TensorFlow) 
 
 
 ## Confidential Links & Embeds: 

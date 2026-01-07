@@ -227,7 +227,7 @@ writing_language:
 > In France and Italy, he wrote his last work, The Ballad of Reading Gaol (1898), 
 > a long poem commemorating the harsh rhythms of prison life.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Oscar%20Wilde)
+> [Wikipedia](https://en.wikipedia.org/wiki/Oscar%20Wilde) 
 
 
 ## Confidential Links & Embeds: 

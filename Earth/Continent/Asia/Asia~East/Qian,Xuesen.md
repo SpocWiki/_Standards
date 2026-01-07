@@ -65,7 +65,7 @@ aliases:
 > who was involved in the aerospace industries of both China and the United States. 
 > His nephew, [[Roger Y. Tsien]], was the 2008 winner of the Nobel Prize in Chemistry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Qian%20Xuesen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Qian%20Xuesen) 
 
 
 ## Confidential Links & Embeds: 

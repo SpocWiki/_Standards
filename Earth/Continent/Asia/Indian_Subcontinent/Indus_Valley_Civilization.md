@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 68.138889 , 27.329167 ] 
 aliases:
   - Indus Valley Civilisation
   - Indus Civilisation

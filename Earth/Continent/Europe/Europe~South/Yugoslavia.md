@@ -40,7 +40,8 @@ type: Country
 > known from 2003 to 2006 as Serbia and Montenegro. 
 > This state aspired to the status of sole legal successor to the SFRY, but those claims were opposed by the other former republics. Eventually, it accepted the opinion of the Badinter Arbitration Committee about shared succession and in 2003 its official name was changed to Serbia and Montenegro. This state dissolved when Montenegro and Serbia each became independent states in 2006, with Kosovo having an ongoing dispute over its declaration of independence in 2008.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yugoslavia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Yugoslavia) 
+
 
 ## Ethnic/Religious Groups 
 Although all spoke similar South-slavic Languages, 

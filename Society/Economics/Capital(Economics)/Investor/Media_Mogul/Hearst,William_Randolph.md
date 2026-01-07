@@ -146,7 +146,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > His Hearst Castle, constructed on a hill overlooking the Pacific Ocean near San Simeon, 
 > has been preserved as a State Historical Monument and is designated as a National Historic Landmark.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/William%20Randolph%20Hearst)
+> [Wikipedia](https://en.wikipedia.org/wiki/William%20Randolph%20Hearst) 
 
 
 ## Confidential Links & Embeds: 

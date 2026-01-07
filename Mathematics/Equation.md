@@ -32,7 +32,7 @@ subclass_of: '[[_Standards/WikiData/WD~formula,976981]]'
 >
 > The "=" symbol, which appears in every equation, was invented in 1557 by Robert Recorde, who considered that nothing could be more equal than parallel straight lines with the same length.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Equation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Equation) 
 
 
 ## Confidential Links & Embeds: 

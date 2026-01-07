@@ -1364,7 +1364,7 @@ Capital :: [[Indonesia/provinces~Indonesia/Jakarta_Raya/City/Jakarta]]
 >
 > Indonesian society comprises hundreds of ethnic and linguistic groups, with Javanese being the largest. The nation's identity is unified under the motto Bhinneka Tunggal Ika, defined by a national language, cultural and religious pluralism, a history of colonialism and rebellion against it. A newly industrialised country, Indonesia's economy ranks as the world's 16th-largest by nominal GDP and the 8th-largest by PPP. As the world's third-largest democracy and a middle power in global affairs, the country is a member of several multilateral organisations, including the United Nations, World Trade Organization, G20, BRICS and a founding member of the Non-Aligned Movement, Association of Southeast Asian Nations, East Asia Summit, APEC and the Organisation of Islamic Cooperation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Indonesia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Indonesia) 
 
 
 ## Confidential Links & Embeds: 

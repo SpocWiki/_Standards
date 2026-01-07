@@ -92,7 +92,7 @@ Baidu_Tieba_name: 结婚
 >
 > Marriage can be recognized by a state, an organization, a religious authority, a tribal group, a local community, or peers. It is often viewed as a legal contract. A religious marriage ceremony is performed by a religious institution to recognize and create the rights and obligations intrinsic to matrimony in that religion. Religious marriage is known variously as sacramental marriage in Christianity (especially Catholicism), nikah in Islam, nissuin in Judaism, and various other names in other faith traditions, each with their own constraints as to what constitutes, and who can enter into, a valid religious marriage.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Marriage)
+> [Wikipedia](https://en.wikipedia.org/wiki/Marriage) 
 
 
 ## Confidential Links & Embeds: 

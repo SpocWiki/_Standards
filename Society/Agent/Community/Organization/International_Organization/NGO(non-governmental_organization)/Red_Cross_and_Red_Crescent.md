@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 6.136944444 , 46.2275 ] 
 aliases:
   - International Red Cross and Red Crescent Movement
   - International_Red_Cross_and_Red_Crescent_Movement
@@ -109,7 +110,7 @@ X_Twitter_username: icrc
 > It was founded to protect human life and health, to ensure respect for all human beings, 
 > and to prevent and alleviate human suffering.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/International%20Red%20Cross%20and%20Red%20Crescent%20Movement)
+> [Wikipedia](https://en.wikipedia.org/wiki/International%20Red%20Cross%20and%20Red%20Crescent%20Movement) 
 
 
 ## Confidential Links & Embeds: 

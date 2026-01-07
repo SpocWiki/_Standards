@@ -100,7 +100,7 @@ composed of molecular entities of the same type or of different types' (source: 
 > Pure water will tend to boil near 100 °C (212 °F), an example of one of the characteristic properties that define it. 
 > Other notable chemical substances include diamond (a form of the element carbon), table salt (NaCl; an ionic compound), and refined sugar (C12H22O11; an organic compound).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20substance)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20substance) 
 
 
 ## Confidential Links & Embeds: 

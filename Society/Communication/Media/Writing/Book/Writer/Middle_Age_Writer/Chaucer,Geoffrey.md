@@ -115,7 +115,7 @@ writing_language: '[[_Standards/WikiData/WD~Middle_English,36395]]'
 > (i.e., the first one capable of finding poetic matter in English). 
 > Almost two thousand English words are first attested in Chaucerian manuscripts.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Geoffrey%20Chaucer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Geoffrey%20Chaucer) 
 
 
 ## Confidential Links & Embeds: 

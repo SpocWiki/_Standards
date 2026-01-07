@@ -271,7 +271,7 @@ work_period_start_: 1922
 > - the Dalí Theatre-Museum in Figueres, Spain, and 
 > - the Salvador Dalí Museum in St. Petersburg, Florida, U.S.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Salvador%20Dal%C3%AD)
+> [Wikipedia](https://en.wikipedia.org/wiki/Salvador%20Dal%C3%AD) 
 
 
 ## Confidential Links & Embeds: 

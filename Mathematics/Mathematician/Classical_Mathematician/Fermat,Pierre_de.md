@@ -105,7 +105,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > 
 > He was also a lawyer at the parlement of Toulouse, France.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20de%20Fermat)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20de%20Fermat) 
 
 
 ## Confidential Links & Embeds: 

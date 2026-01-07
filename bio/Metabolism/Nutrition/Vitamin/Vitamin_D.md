@@ -55,8 +55,6 @@ Commons_category: Vitamin D
 > [Wikipedia](https://en.wikipedia.org/wiki/Vitamin%20D) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_D|Vitamin_D]] 

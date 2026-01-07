@@ -19,7 +19,7 @@
 > 
 > The Scheme language is standardized in the official Institute of Electrical and Electronics Engineers (IEEE) standard and a de facto standard called the Revisedn Report on the Algorithmic Language Scheme (RnRS). A widely implemented standard is R5RS (1998). The most recently ratified standard of Scheme is "R7RS-small" (2013). The more expansive and modular R6RS was ratified in 2007. Both trace their descent from R5RS; the timeline below reflects the chronological order of ratification.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Scheme%20(programming%20language))
+> [Wikipedia](https://en.wikipedia.org/wiki/Scheme%20(programming%20language)) 
 
 
 ## Confidential Links & Embeds: 

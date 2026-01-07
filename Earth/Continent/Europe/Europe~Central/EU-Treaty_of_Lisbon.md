@@ -64,7 +64,7 @@
 > a decision which was reversed in a second referendum in October 2009 
 > after Ireland secured a number of concessions related to the treaty.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Lisbon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Treaty%20of%20Lisbon) 
 
 
 ## Confidential Links & Embeds: 

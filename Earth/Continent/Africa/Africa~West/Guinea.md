@@ -459,7 +459,7 @@ Capital :: [[Conakry]]
 >
 > Muslims represent 90% of the population. The country is divided into four geographic regions: Maritime Guinea on the Atlantic coast, the Fouta Djallon or Middle Guinea highlands, the Upper Guinea savanna region in the northeast, and the Guinée forestière region of tropical forests. French, the official language of Guinea, is the language of communication in schools, government administration, and the media. More than 24 indigenous languages are spoken, and the largest are Susu, Pular, and Maninka, which dominate respectively in Maritime Guinea, Fouta Djallon, and Upper Guinea, while Guinée forestière is ethnolinguistically diverse. Guinea's economy is mostly dependent on agriculture and mineral production. It is the world's second-largest producer of bauxite and has deposits of diamonds and gold. As of the most recent survey in 2018, 66.2% of the population is affected by multidimensional poverty, and an additional 16.4% are vulnerable to it..
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Guinea)
+> [Wikipedia](https://en.wikipedia.org/wiki/Guinea) 
 
 
 ## Confidential Links & Embeds: 

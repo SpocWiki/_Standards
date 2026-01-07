@@ -52,6 +52,7 @@ Commons_category: Mercator projection
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mercator%20projection) 
 
+
 Conformality was achieved by scaling the y-Coordinates by 1/cos(x,y). 
 This Conformality allows sailors to set a constant Direction for navigating to a remote Place. 
 This constant Direction is easy to keep when compared to a Compass, 

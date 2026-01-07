@@ -127,7 +127,6 @@ ZVG_number:
 
 ## #has_/text_of_/abstract 
 
-
 > **Magnesium** is a chemical element with the symbol (Abbr::Mg) and atomic number (Charge-e::12). 
 > It is a shiny gray metal having a low density, low melting point and high chemical reactivity. 
 > 
@@ -158,7 +157,7 @@ ZVG_number:
 > Magnesium compounds are used medicinally as common laxatives, antacids (e.g., milk of magnesia), 
 > and to stabilize abnormal nerve excitation or blood vessel spasm in such conditions as eclampsia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Magnesium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Magnesium) 
 
 
 ## Confidential Links & Embeds: 

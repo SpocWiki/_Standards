@@ -40,7 +40,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/menstruation
 >
 > Up to 80% of women do not experience problems sufficient to disrupt daily functioning either during menstruation or in the days leading up to menstruation. Symptoms in advance of menstruation that do interfere with normal life are called premenstrual syndrome (PMS). Some 20 to 30% of women experience PMS, with 3 to 8% experiencing severe symptoms. These include acne, tender breasts, bloating, feeling tired, irritability, and mood changes. Other symptoms some women experience include painful periods (estimates are between 50 and 90%) and heavy bleeding during menstruation and abnormal bleeding at any time during the menstrual cycle. A lack of periods, known as amenorrhea, is when periods do not occur by age 15 or have not re-occurred in 90 days.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Menstruation)
+> [Wikipedia](https://en.wikipedia.org/wiki/Menstruation) 
 
 
 ## Confidential Links & Embeds: 

@@ -61,7 +61,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Night-a
 >
 > Cultures have personified night through deities associated with some or all of these aspects of nighttime. The folklore of many cultures contains "creatures of the night", including werewolves, witches, ghosts, and goblins, reflecting societal fears and anxieties. The introduction of artificial lighting extended daytime activities. Major European cities hung lanterns housing candles and oil lamps in the 1600s. Nineteenth-century gas and electric lights created unprecedented illumination. The range of socially acceptable leisure activities expanded, and various industries introduced a night shift. Nightlife, encompassing bars, nightclubs, and cultural venues, has become a significant part of urban culture, contributing to social and political movements.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Night)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Night) 
 
 
 ## Confidential Links & Embeds: 

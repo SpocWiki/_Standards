@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 103.8 , 1.3 ] 
 aliases:
   - Singapore
   - Singapur

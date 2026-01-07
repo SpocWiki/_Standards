@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1940-05-15 
 aliases:
   - McDonalds
   - McDonald’s

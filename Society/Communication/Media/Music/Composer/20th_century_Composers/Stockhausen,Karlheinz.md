@@ -50,7 +50,7 @@ aliases:
 >
 > He died at the age of 79, on 5 December 2007 at his home in Kürten, Germany.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Karlheinz%20Stockhausen)
+> [Wikipedia](https://en.wikipedia.org/wiki/Karlheinz%20Stockhausen) 
 
 
 ## Confidential Links & Embeds: 

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1955-09-10 
+has_time_stopped: 1975-03-31 
 aliases:
   - Rauchende Colts
   - Gun Law

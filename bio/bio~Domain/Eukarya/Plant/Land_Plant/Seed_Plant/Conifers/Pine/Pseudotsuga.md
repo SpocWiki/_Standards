@@ -37,7 +37,8 @@ title: Pseudotsuga
 > (meaning "false hemlock") by the French botanist Carrière in 1867.  
 > The genus name has also been hyphenated as Pseudo-tsuga.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pseudotsuga)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Pseudotsuga) 
+
 
 ## Introduction
 

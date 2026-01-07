@@ -225,7 +225,7 @@ DSSTOX_compound_identifier: DTXCID50930
 >
 > The Surgeon General of the United States indicates that evidence is inadequate to infer the presence or absence of a causal relationship between exposure to nicotine and risk for cancer. Nicotine has been shown to produce birth defects in humans and is considered a teratogen. The median lethal dose of nicotine in humans is unknown. High doses are known to cause nicotine poisoning, organ failure, and death through paralysis of respiratory muscles, though serious or fatal overdoses are rare.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nicotine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nicotine) 
 
 
 ## Confidential Links & Embeds: 

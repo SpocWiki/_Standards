@@ -32,7 +32,7 @@
 > In 2024, Downes announced a new touring line-up of himself, Virgil Donati, John Mitchell
 > and Harry Whitley.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Asia%20(band))
+> [Wikipedia](https://en.wikipedia.org/wiki/Asia%20(band)) 
 
 
 ## Confidential Links & Embeds: 

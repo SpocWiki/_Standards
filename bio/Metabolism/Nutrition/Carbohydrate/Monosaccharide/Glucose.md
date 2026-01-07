@@ -115,7 +115,8 @@ MeSH_tree_code: D09.947.875.359.448
 > The name glucose is derived from Ancient Greek γλεῦκος (gleûkos) 'wine, must', from γλυκύς (glykýs) 'sweet'. 
 > The suffix -ose is a chemical classifier denoting a sugar.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Glucose)
+> [Wikipedia](https://en.wikipedia.org/wiki/Glucose) 
+
 
 The North-American [[Wood_Frog]] accumulates Urea and Glucoses in Cells and Blood to survive up to -20°C. 
 

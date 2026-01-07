@@ -53,7 +53,8 @@ taxon_common_name: trespissmus
 >
 > Though called 'treeshrews', and despite having previously been classified in Insectivora, they are not true shrews, and not all species live in trees. They are omnivores; among other things, treeshrews eat fruit. As fellow members of Euarchonta, treeshrews are closely related to primates, and have been used as an alternative to primates in experimental studies of myopia, psychosocial stress, and hepatitis.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Treeshrew)
+> [Wikipedia](https://en.wikipedia.org/wiki/Treeshrew) 
+
 
 ### Information on the Internet
 

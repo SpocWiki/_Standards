@@ -194,7 +194,7 @@ film_poster: http://commons.wikimedia.org/wiki/Special:FilePath/CasablancaPoster
 > 
 > Roger Ebert wrote, "If there is ever a time when they decide that some movies should be spelled with an upper-case M, Casablanca should be voted first on the list of Movies."
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Casablanca%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Casablanca%20(film)) 
 
 
 ## Confidential Links & Embeds: 

@@ -30,7 +30,7 @@ aliases:
 > Several of Irving's books (Garp, Meany, Widow) and short stories 
 > have been set in and around Phillips Exeter Academy in the town of Exeter, New Hampshire.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/John%20Irving)
+> [Wikipedia](https://en.wikipedia.org/wiki/John%20Irving) 
 
 
 ## Confidential Links & Embeds: 

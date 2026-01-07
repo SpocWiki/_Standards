@@ -89,8 +89,7 @@ Common among most Governments are these Levels:
 > to protect its people, government, or administrative officials from legitimate recourses 
 > consistent with a fair and just social contract.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Classified%20information)
-
+> [Wikipedia](https://en.wikipedia.org/wiki/Classified%20information) 
 
 
 ```folderv

@@ -39,7 +39,7 @@ used_by: '[[_Standards/WikiData/WD~infrared_perception,47015713]]'
 >
 > Infrared radiation is used in industrial, scientific, military, commercial, and medical applications. Night-vision devices using active near-infrared illumination allow people or animals to be observed without the observer being detected. Infrared astronomy uses sensor-equipped telescopes to penetrate dusty regions of space such as molecular clouds, to detect objects such as planets, and to view highly red-shifted objects from the early days of the universe. Infrared thermal-imaging cameras are used to detect heat loss in insulated systems, to observe changing blood flow in the skin, to assist firefighting, and to detect the overheating of electrical components.  Military and civilian applications include target acquisition, surveillance, night vision, homing, and tracking. Humans at normal body temperature radiate chiefly at wavelengths around 10 μm. Non-military uses include thermal efficiency analysis, environmental monitoring, industrial facility inspections, detection of grow-ops, remote temperature sensing, short-range wireless communication, spectroscopy, and weather forecasting.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Infrared)
+> [Wikipedia](https://en.wikipedia.org/wiki/Infrared) 
 
 
 ## Confidential Links & Embeds: 

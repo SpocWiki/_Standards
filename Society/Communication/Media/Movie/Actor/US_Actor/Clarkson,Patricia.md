@@ -51,7 +51,7 @@ aliases:
 > In 2023, Clarkson took on the lead role in the espionage thriller series Gray, 
 > co-produced by AGC Television and Lionsgate Films.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Patricia%20Clarkson)
+> [Wikipedia](https://en.wikipedia.org/wiki/Patricia%20Clarkson) 
 
 
 ## Confidential Links & Embeds: 

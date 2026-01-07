@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 17.0 , 38.0 ] 
 aliases:
   - Mediterranean Sea
   - Mediterranean_Sea
@@ -420,7 +421,7 @@ volume_as_quantity: 3839000
 > The drainage basin encompasses a large number of other countries, 
 > the Nile being the longest river ending in the Mediterranean Sea.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mediterranean%20Sea)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mediterranean%20Sea) 
 
 
 ```leaflet

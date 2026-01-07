@@ -104,7 +104,7 @@ HealthCare: this is a benefit for health care.
 >
 > An efficient health care system can contribute to a significant part of a country's economy, development, and industrialization. Health care is an important determinant in promoting the general physical and mental health and well-being of people around the world. An example of this was the worldwide eradication of smallpox in 1980, declared by the WHO, as the first disease in human history to be eliminated by deliberate health care interventions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Health%20care)
+> [Wikipedia](https://en.wikipedia.org/wiki/Health%20care) 
 
 
 ## Confidential Links & Embeds: 

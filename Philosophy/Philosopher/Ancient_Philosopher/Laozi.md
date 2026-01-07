@@ -96,7 +96,7 @@ temple_name: 聖祖
 >
 > The Tao Te Ching had a profound influence on Chinese religious movements and on subsequent Chinese philosophers, who annotated, commended, and criticized the texts extensively. In the 20th century, textual criticism by historians led to theories questioning Laozi's timing or even existence, positing that the received text of the Tao Te Ching was not composed until the Warring States period (c. 475 – 221 BC), and was the product of multiple authors.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Laozi)
+> [Wikipedia](https://en.wikipedia.org/wiki/Laozi) 
 
 
 ## Confidential Links & Embeds: 

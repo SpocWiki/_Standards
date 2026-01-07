@@ -167,7 +167,7 @@ booru_tag: osama_bin_laden
 > and was reviled in the United States and elsewhere 
 > as a mass murderer due to his orchestration of numerous attacks and bombings.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Osama%20bin%20Laden)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Osama%20bin%20Laden) 
 
 
 ## Confidential Links & Embeds: 

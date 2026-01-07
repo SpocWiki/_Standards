@@ -184,7 +184,7 @@ X_Twitter_username:
 > The Times maintains several regional bureaus staffed with journalists across six continents, 
 > and has received 137 [[Pulitzer_Prize]]s as of 2023, the most of any publication, among other accolades.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/The%20New%20York%20Times)
+> [Wikipedia](https://en.wikipedia.org/wiki/The%20New%20York%20Times) 
 
 
 ## Confidential Links & Embeds: 

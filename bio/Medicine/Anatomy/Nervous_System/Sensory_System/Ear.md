@@ -72,7 +72,7 @@ topic_has_template:
 >
 > The ear has been adorned by earrings and other jewelry in numerous cultures for thousands of years, and has been subjected to surgical and cosmetic alterations.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ear)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ear) 
 
 
 ## Confidential Links & Embeds: 

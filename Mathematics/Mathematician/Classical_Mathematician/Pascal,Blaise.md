@@ -176,7 +176,7 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 > Between 1658 and 1659, he wrote on the cycloid and its use in calculating the volume of solids. 
 > Following several years of illness, Pascal died in Paris at the age of 39.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Blaise%20Pascal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Blaise%20Pascal) 
 
 
 ## Confidential Links & Embeds: 

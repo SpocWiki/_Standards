@@ -73,7 +73,7 @@ water_footprint: 1544
 >
 > Rye grain is used for  bread, beer, rye whiskey, and animal fodder. In Scandinavia, rye was a staple food in the Middle Ages, and rye crispbread remains a popular food in the region. Europe produces around half of the world's rye; relatively little is traded between countries. A wheat-rye hybrid, triticale, combines the qualities of the two parent crops and is produced in large quantities worldwide. In European folklore, the Roggenwolf ("rye wolf") is a carnivorous corn demon or Feldgeist.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rye)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rye) 
 
 
 ## Confidential Links & Embeds: 

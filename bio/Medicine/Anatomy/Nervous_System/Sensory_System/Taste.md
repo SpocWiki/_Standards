@@ -84,7 +84,7 @@ UMLS_CUI: C0039336
 > cats cannot taste sweetness, and several other carnivores, including hyenas, dolphins, and sea lions, 
 > have lost the ability to sense up to four of their ancestral five basic tastes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Taste)
+> [Wikipedia](https://en.wikipedia.org/wiki/Taste) 
 
 
 ## Confidential Links & Embeds: 

@@ -59,7 +59,8 @@ dv_is_same_as:
 > On 2021-10-28, the company sold shares in an IPO on the Nasdaq stock exchange at US$47 each, 
 > at the higher end of its targeted price range, and raised about US$2.6 billion.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/GlobalFoundries)
+> [Wikipedia](https://en.wikipedia.org/wiki/GlobalFoundries) 
+
 
 It lizenses Procudction Processes from [[onsemi]] and [[STMicroelectronics]]. 
 

@@ -159,7 +159,7 @@ ISNI: 0000000121451116
 > 
 > Rousseau's autobiographical writings—the posthumously published Confessions (completed in 1770), which initiated the modern autobiography, and the unfinished Reveries of the Solitary Walker (composed 1776–1778)—exemplified the late 18th-century "Age of Sensibility", and featured an increased focus on subjectivity and introspection that later characterized modern writing.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jean-Jacques%20Rousseau)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jean-Jacques%20Rousseau) 
 
 
 ## Confidential Links & Embeds: 

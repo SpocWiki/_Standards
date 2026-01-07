@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1846-05-22 
 aliases:
   - Associated_Press
   - Associated Press

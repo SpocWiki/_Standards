@@ -103,7 +103,6 @@ Unicode_character: 碘
 
 ## #has_/text_of_/abstract 
 
-
 > **Iodine** is a chemical element with the symbol (Abbr::I) and atomic number (Charge-e::52). 
 > The heaviest of the stable halogens, it exists as a semi-lustrous, 
 > non-metallic solid at standard conditions that melts to form a deep violet liquid at 114 °C (237 °F), 
@@ -128,7 +127,7 @@ Unicode_character: 碘
 >
 > It is on the World Health Organization's List of Essential Medicines.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Iodine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Iodine) 
 
 
 ## Confidential Links & Embeds: 

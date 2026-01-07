@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 76.97021 , 22.20775 ] 
 aliases:
   - South Asia
   - Indian subcontinent

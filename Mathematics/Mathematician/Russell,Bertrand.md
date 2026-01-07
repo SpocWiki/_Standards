@@ -213,7 +213,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 > He was also the recipient of the De Morgan Medal (1932), 
 > Sylvester Medal (1934), Kalinga Prize (1957), and Jerusalem Prize (1963).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bertrand%20Russell)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bertrand%20Russell) 
 
 
 #has_/created_/quote :: Righteousness cannot be born before until self-Righteousness is dead. 

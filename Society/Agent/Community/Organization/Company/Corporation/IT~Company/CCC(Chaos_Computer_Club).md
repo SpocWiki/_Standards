@@ -24,7 +24,7 @@
 >
 > Notable members of the CCC regularly function as expert witnesses for the German constitutional court, organize lawsuits and campaigns, or otherwise influence the political process.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chaos%20Computer%20Club)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chaos%20Computer%20Club) 
 
 
 ## Confidential Links & Embeds: 

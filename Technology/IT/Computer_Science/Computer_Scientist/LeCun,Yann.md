@@ -25,7 +25,7 @@ aliases:
 >
 > The three are sometimes referred to as the "Godfathers of AI" and "Godfathers of Deep Learning".
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yann%20LeCun)
+> [Wikipedia](https://en.wikipedia.org/wiki/Yann%20LeCun) 
 
 
 ## Confidential Links & Embeds: 

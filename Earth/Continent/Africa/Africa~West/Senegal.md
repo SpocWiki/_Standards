@@ -493,7 +493,7 @@ Capital :: [[Dakar]]
 >
 > Senegal is classified as a heavily indebted poor country, with a relatively low ranking on the Human Development Index (169th out of 193). Most of the population lives on the coast and works in agriculture or other food industries; other major industries include mining, tourism, and services. The country does not have notable natural resources, but the basis of its development lies in education, where almost half the state's budget is spent. Senegal is a member state of the African Union, the United Nations, the Economic Community of West African States (ECOWAS), Organisation internationale de la Francophonie, the Organisation of Islamic Cooperation, and the Community of Sahel–Saharan States. In the world of motor sports, Senegal is known for the Paris–Dakar Rally.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Senegal)
+> [Wikipedia](https://en.wikipedia.org/wiki/Senegal) 
 
 
 ## Confidential Links & Embeds: 

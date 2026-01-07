@@ -35,7 +35,7 @@ subclass_of:
 >
 > Dictatorships often attempt to portray a democratic facade, frequently holding elections to establish their legitimacy or provide incentives to members of the ruling party, but these elections are not competitive for the opposition. Stability in a dictatorship is maintained through coercion and political repression, which involves the restriction of access to information, the tracking of the political opposition, and acts of violence. Dictatorships that fail to repress the opposition are susceptible to collapse through a coup or a revolution.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dictatorship)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dictatorship) 
 
 
 ## Confidential Links & Embeds: 

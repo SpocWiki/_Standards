@@ -27,7 +27,7 @@
 > Nevertheless, the film was a box-office success with it grossing $431.9 million worldwide, 
 > becoming the sixth highest-grossing-film of 2002.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Die%20Another%20Day)
+> [Wikipedia](https://en.wikipedia.org/wiki/Die%20Another%20Day) 
 
 
 ## Confidential Links & Embeds: 

@@ -108,7 +108,7 @@ X_Twitter_username: NobelPrize
 > have been awarded 609 times to 975 people and 25 organisations. 
 > Five individuals and two organisations have received more than one Nobel Prize.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nobel%20Prize)
+> [Wikipedia](https://en.wikipedia.org/wiki/Nobel%20Prize) 
 
 
 ## Confidential Links & Embeds: 

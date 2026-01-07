@@ -10,7 +10,7 @@
 > In addition, he is the author of the CRC Concise Encyclopedia of Mathematics. 
 > He works for [[Wolfram_Research]] with [[../../../IT/Data/Data~Tools/Mathematica|Mathematica]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Eric%20W.%20Weisstein)
+> [Wikipedia](https://en.wikipedia.org/wiki/Eric%20W.%20Weisstein) 
 
 
 ## Confidential Links & Embeds: 

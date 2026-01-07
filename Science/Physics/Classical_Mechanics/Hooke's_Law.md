@@ -82,7 +82,7 @@ Commons_category: Hooke's law
 > with a stiffness k directly proportional to its cross-section area 
 > and inversely proportional to its length.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hooke's%20law)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hooke's%20law) 
 
 
 ## Confidential Links & Embeds: 

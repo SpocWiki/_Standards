@@ -32,7 +32,7 @@
 > Similar examples of dimensionally equivalent units include 
 > Pa versus J/m3, Bq versus Hz, and ohm versus ohm per square.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Newton-metre)   
+> [Wikipedia](https://en.wikipedia.org/wiki/Newton-metre) 
 
 
 ## Confidential Links & Embeds: 

@@ -87,7 +87,7 @@ UNII: VW92PHU2UY
 >
 > Americium is a relatively soft radioactive metal with a silvery appearance. Its most common isotopes are 241Am and 243Am. In chemical compounds, americium usually assumes the oxidation state +3, especially in solutions. Several other oxidation states are known, ranging from +2 to +7, and can be identified by their characteristic optical absorption spectra. The crystal lattices of solid americium and its compounds contain small intrinsic radiogenic defects, due to metamictization induced by self-irradiation with alpha particles, which accumulates with time; this can cause a drift of some material properties over time, more noticeable in older samples.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Americium)
+> [Wikipedia](https://en.wikipedia.org/wiki/Americium) 
 
 
 ## Confidential Links & Embeds: 

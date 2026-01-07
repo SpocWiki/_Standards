@@ -140,7 +140,8 @@ U_S_National_Archives_Identifier:
 >
 > Rodents have been used as food, for clothing, as pets, and as laboratory animals in research. Some species, in particular, the brown rat, the black rat, and the house mouse, are serious pests, eating and spoiling food stored by humans and spreading diseases. Accidentally introduced species of rodents are often considered to be invasive and have caused the extinction of numerous species, such as island birds, the dodo being an example, previously isolated from land-based predators.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rodent)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rodent) 
+
 
 ### Information on the Internet
 

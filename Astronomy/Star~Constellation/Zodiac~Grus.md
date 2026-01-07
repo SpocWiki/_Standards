@@ -76,7 +76,7 @@ official_name: Grus
 > also known as the Spare Tyre Nebula, 
 > and a group of four interacting galaxies known as the Grus Quartet.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Grus%20(constellation))
+> [Wikipedia](https://en.wikipedia.org/wiki/Grus%20(constellation)) 
 
 
 ## Confidential Links & Embeds: 

@@ -50,7 +50,7 @@ aliases:
 > the MTV Video Music Award for Video of the Year, 
 > and the IFPI Global Recording Artist of the Year a record four times each.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Taylor%20Swift)
+> [Wikipedia](https://en.wikipedia.org/wiki/Taylor%20Swift) 
 
 
 ## Confidential Links & Embeds: 

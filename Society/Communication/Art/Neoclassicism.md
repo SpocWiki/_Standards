@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1760-01-01 
+has_time_stopped: 1830-01-01 
 aliases:
 has_id_wikidata: Q14378
 different_from: "[[_Standards/WikiData/WD~neoclassicism,535611]]"

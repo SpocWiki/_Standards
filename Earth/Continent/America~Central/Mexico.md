@@ -956,7 +956,7 @@ Capital :: [[Mexico/States~Mexico/Mexico_City]]
 >
 > Mexico is a newly industrialized and developing country, with the world's 12th-largest economy by both nominal GDP and PPP. Mexico ranks first in the Americas and seventh in the world by the number of UNESCO World Heritage Sites. It is also one of the world's 17 megadiverse countries, ranking fifth in natural biodiversity. It is a major tourist destination: as of 2022, it is the sixth most-visited country in the world, with 42.2 million international arrivals. Mexico's large economy and population, global cultural influence, and steady democratization make it a regional and middle power, increasingly identifying as an emerging power. However, as with much of Latin America, poverty, systemic corruption, and crime remain widespread. Since 2006, an ongoing conflict between drug trafficking syndicates has led to over 127,000 deaths. Mexico is a member of United Nations, the G20, the OECD, the WTO, the APEC forum, the OAS, the CELAC, and the OEI.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mexico)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mexico) 
 
 
 ## Confidential Links & Embeds: 

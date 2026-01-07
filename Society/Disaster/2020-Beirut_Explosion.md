@@ -31,7 +31,7 @@
 >
 > The Lebanese government declared a two-week state of emergency in response to the disaster. Protests, which had been ongoing since 2019, grew in scale, leading to the resignation of Prime Minister Hassan Diab and his cabinet on 10 August 2020. Claims surfaced suggesting Hezbollah's possible connection to the explosion, citing unverified reports of weapons stored at the site. Hezbollah denied the allegations but participated in demonstrations opposing the official investigation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/2020%20Beirut%20explosion)
+> [Wikipedia](https://en.wikipedia.org/wiki/2020%20Beirut%20explosion) 
 
 
 ## Confidential Links & Embeds: 

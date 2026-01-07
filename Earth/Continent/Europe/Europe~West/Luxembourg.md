@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 6.13 , 49.77 ] 
 aliases:
   - Luxembourg
   - Luxemburgo
@@ -490,7 +491,7 @@ Capital :: [[geo/Continent/Europe/Europe~West/Luxembourg]]
 >
 > Luxembourg is a developed country with an advanced economy and one of the world's highest PPP-adjusted GDPs per capita, per the IMF and World Bank. It also ranks highly in terms of life expectancy, human development, and human rights. The historic city of Luxembourg was declared a UNESCO World Heritage Site in 1994 due to the exceptional preservation of its vast fortifications and historic quarters. Luxembourg is a founding member of the European Union, OECD, the United Nations, NATO, and the Benelux. It served on the United Nations Security Council for the first time in 2013 and 2014.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Luxembourg)
+> [Wikipedia](https://en.wikipedia.org/wiki/Luxembourg) 
 
 
 ## Confidential Links & Embeds: 

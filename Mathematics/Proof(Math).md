@@ -76,7 +76,7 @@ video:
 > The philosophy of mathematics is concerned with the role of language and logic in proofs, 
 > and mathematics as a language.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20proof)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mathematical%20proof) 
 
 
 ## Confidential Links & Embeds: 

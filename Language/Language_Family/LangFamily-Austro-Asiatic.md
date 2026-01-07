@@ -45,7 +45,7 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/AUSTROAZIATSKIE_YAZIKI.html
 >
 > Scholars generally date the ancestral language to c. 3000 BCE – c. 2000 BCE with a homeland in southern China or the Mekong River valley. Sidwell (2022) proposes that the locus of Proto-Austroasiatic was in the Red River Delta area around c. 2500 BCE – c. 2000 BCE. Genetic and linguistic research in 2015 about ancient people in East Asia suggest an origin and homeland of Austroasiatic in today southern China or even further north.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Austroasiatic%20languages)
+> [Wikipedia](https://en.wikipedia.org/wiki/Austroasiatic%20languages) 
 
 
 ## Confidential Links & Embeds: 

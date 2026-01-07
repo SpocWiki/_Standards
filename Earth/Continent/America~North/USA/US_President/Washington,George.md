@@ -229,7 +229,7 @@ IMDb_keyword: reference-to-george-washington
 >
 > Washington's image is an icon of American culture and he has been extensively memorialized; his namesakes include the national capital and the State of Washington. In both popular and scholarly polls, he is consistently considered one of the greatest presidents in American history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/George%20Washington)
+> [Wikipedia](https://en.wikipedia.org/wiki/George%20Washington) 
 
 
 ## Confidential Links & Embeds: 

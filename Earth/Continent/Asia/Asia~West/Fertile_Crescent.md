@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 40.0 , 36.0 ] 
 aliases:
   - Fruchtbarer Halbmond
   - Fertile Crescent

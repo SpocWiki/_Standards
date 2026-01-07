@@ -98,7 +98,7 @@ researches the Formation of "Society" and the Interaction with the Individual.
 > 
 > The range of social scientific methods has also expanded, as social researchers draw upon a variety of qualitative and quantitative techniques. The linguistic and cultural turns of the mid-20th century, especially, have led to increasingly interpretative, hermeneutic, and philosophical approaches towards the analysis of society. Conversely, the turn of the 21st century has seen the rise of new analytically, mathematically, and computationally rigorous techniques, such as agent-based modelling and social network analysis.Social research has influence throughout various industries and sectors of life, such as among politicians, policy makers, and legislators; educators; planners; administrators; developers; business magnates and managers; social workers; non-governmental organizations; and non-profit organizations, as well as individuals interested in resolving social issues in general.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sociology)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sociology) 
 
 
 ## Confidential Links & Embeds: 

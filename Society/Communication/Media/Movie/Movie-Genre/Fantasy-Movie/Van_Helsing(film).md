@@ -25,7 +25,7 @@
 > The film grossed $300.2 million worldwide 
 > against a budget of $160–170 million but received generally negative reviews.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Van%20Helsing%20(film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Van%20Helsing%20(film)) 
 
 
 ## Confidential Links & Embeds: 

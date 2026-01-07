@@ -12,6 +12,7 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Leslie%20cube) 
 
+
 It has a typical Side-Length of 10cm, so it holds 1 Liter 
 and 4 different Surfaces: 
 

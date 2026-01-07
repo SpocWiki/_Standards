@@ -10,7 +10,7 @@ aliases:
 >
 > The region covered by the commission is home to 4.1 billion people, or two-thirds of the world's population, making ESCAP the most comprehensive of the United Nations' five regional commissions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20and%20Social%20Commission%20for%20Asia%20and%20the%20Pacific)
+> [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20and%20Social%20Commission%20for%20Asia%20and%20the%20Pacific) 
 
 
 ## Confidential Links & Embeds: 

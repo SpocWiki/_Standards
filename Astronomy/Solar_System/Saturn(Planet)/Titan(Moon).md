@@ -98,7 +98,7 @@ time_of_discovery_or_invention: 1655-03-25T00:00:00Z
 > 
 > Due to these factors, Titan is sometimes called the most Earth-like celestial object in the Solar System.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Titan%20(moon))  
+> [Wikipedia](https://en.wikipedia.org/wiki/Titan%20(moon)) 
 
 
 ## Confidential Links & Embeds: 

@@ -88,7 +88,7 @@ Knowledge introduces understanding and predictive capacity.
 >
 > The main discipline investigating knowledge is epistemology, which studies what people know, how they come to know it, and what it means to know something. It discusses the value of knowledge and the thesis of philosophical skepticism, which questions the possibility of knowledge. Knowledge is relevant to many fields like the sciences, which aim to acquire knowledge using the scientific method based on repeatable experimentation, observation, and measurement. Various religions hold that humans should seek knowledge and that God or the divine is the source of knowledge. The anthropology of knowledge studies how knowledge is acquired, stored, retrieved, and communicated in different cultures. The sociology of knowledge examines under what sociohistorical circumstances knowledge arises, and what sociological consequences it has. The history of knowledge investigates how knowledge in different fields has developed, and evolved, in the course of history.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Knowledge)
+> [Wikipedia](https://en.wikipedia.org/wiki/Knowledge) 
 
 
 ## Confidential Links & Embeds: 

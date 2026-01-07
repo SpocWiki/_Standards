@@ -63,7 +63,7 @@ venous_drainage: '[[_Standards/WikiData/WD~superior_mesenteric_vein,751322]]'
 > Overall, in humans, the large intestine is about 1.5 metres (5 ft) long, 
 > which is about one-fifth of the whole length of the human gastrointestinal tract.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Large%20intestine)
+> [Wikipedia](https://en.wikipedia.org/wiki/Large%20intestine) 
 
 
 ## Confidential Links & Embeds: 

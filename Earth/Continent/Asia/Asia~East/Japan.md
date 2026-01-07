@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 136.0 , 35.0 ] 
 aliases:
   - Japan
   - Japón
@@ -768,7 +769,7 @@ Here is a detailed table of Japan's 47 prefectures with Data of 2020:
 >
 > Japan is a constitutional monarchy with a bicameral legislature, the National Diet. A great power and the only Asian member of the G7, Japan has constitutionally renounced its right to declare war, but maintains one of the world's strongest militaries. A developed country with one of the world's largest economies by nominal GDP, Japan is a global leader in the automotive, robotics, and electronics industries, and has made significant contributions to science and technology. It has one of the world's highest life expectancies, though it is undergoing a population decline. Japan's culture is well known around the world, including its art, cuisine, film, music, and popular culture, which includes prominent animation, comics, and video game industries.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Japan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Japan) 
 
 
 ## Confidential Links & Embeds: 

@@ -229,7 +229,7 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 > 
 > After several months of illness, which left him bedridden, he died on 26 March 1827 at the age of 56.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20van%20Beethoven)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20van%20Beethoven) 
 
 
 ## Confidential Links & Embeds: 

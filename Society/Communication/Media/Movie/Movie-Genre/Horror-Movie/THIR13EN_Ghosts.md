@@ -10,7 +10,8 @@
 >
 > Released theatrically on October 26, 2001, the film grossed $68 million at the box office on a budget of $42 million and received generally negative reviews upon release.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Thirteen%20Ghosts)
+> [Wikipedia](https://en.wikipedia.org/wiki/Thirteen%20Ghosts) 
+
 
 This Film showed how a Lawyer was cut in half vertically by Glass-Doors, 
 similar to [[Cell,film@2000]] or the [[Cube_(film_series)]]. 

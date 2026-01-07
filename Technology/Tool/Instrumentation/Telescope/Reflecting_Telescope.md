@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1721-01-01 
 aliases:
 has_id_wikidata: Q35221
 discoverer_or_inventor: "[[_Standards/WikiData/WD~James_Gregory,313906]]"
@@ -29,7 +30,7 @@ video:
 >
 > Reflecting telescopes became extraordinarily popular for astronomy and many famous telescopes, such as the Hubble Space Telescope, and popular amateur models use this design. In addition, the reflection telescope principle was applied to other electromagnetic wavelengths, and for example, X-ray telescopes also use the reflection principle to make image-forming optics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Reflecting%20telescope)
+> [Wikipedia](https://en.wikipedia.org/wiki/Reflecting%20telescope) 
 
 
 ## Confidential Links & Embeds: 

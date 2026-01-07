@@ -39,7 +39,7 @@ Commons_category: Somatosensation
 >
 > The neural pathways that go to the brain are structured such that information about the location of the physical stimulus is preserved. In this way, neighboring neurons in the somatosensory cortex represent nearby locations on the skin or in the body, creating a map or sensory homunculus.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Somatosensory%20system)
+> [Wikipedia](https://en.wikipedia.org/wiki/Somatosensory%20system) 
 
 
 ## Confidential Links & Embeds: 

@@ -38,9 +38,6 @@ T = absolute temperature in Kelvin (K) = 273.15 K + °C
 > [Wikipedia](https://en.wikipedia.org/wiki/Wien%20approximation) 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Heat_Transfer/Radiation/Wien’s_Law|Wien’s_Law]] 

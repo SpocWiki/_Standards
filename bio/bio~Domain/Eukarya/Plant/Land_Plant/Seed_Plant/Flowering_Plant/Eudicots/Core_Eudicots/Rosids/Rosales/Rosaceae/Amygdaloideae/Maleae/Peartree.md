@@ -75,7 +75,7 @@ NBN_System_Key: NHMSYS0000462196
 > 
 > The fruit is consumed fresh, canned, as juice, dried, or fermented as perry.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pear)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Pear) 
 
 
 ## Confidential Links & Embeds: 

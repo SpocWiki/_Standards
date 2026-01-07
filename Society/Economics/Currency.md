@@ -62,7 +62,7 @@ Wikidata_property: currency
 >
 > The concept of a digital currency has arisen in recent years. Whether government-backed digital notes and coins (such as the digital renminbi in China, for example) will be successfully developed and implemented remains unknown. Digital currencies that are not issued by a government monetary authority, such as cryptocurrencies like Bitcoin, are different because their value is market-dependent and has no safety net. Various countries have expressed concern about the opportunities that cryptocurrencies create for illegal activities such as scams, ransomware (extortion), money laundering and terrorism. In 2014, the United States IRS advised that virtual currency is treated as property for federal income-tax purposes, and it provides examples of how long-standing tax principles applicable to transactions involving property apply to virtual currency.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Currency)
+> [Wikipedia](https://en.wikipedia.org/wiki/Currency) 
 
 
 ## Confidential Links & Embeds: 

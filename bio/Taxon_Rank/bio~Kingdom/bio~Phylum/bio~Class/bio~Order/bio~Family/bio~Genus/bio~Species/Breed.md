@@ -2,6 +2,8 @@
 aliases:
   - Race
   - Breed
+  - Rasse
+  - Züchtung
 has_id_wikidata: Q38829
 studied_by: "[[_Standards/WikiData/WD~animal_husbandry,80962]]"
 different_from:
@@ -53,9 +55,6 @@ By comparison, natural mammalian subspecies often show F_ST values of only 5% to
 > Another point of view is that a breed is consistent enough in type to be logically grouped together and when mated within the group produce the same type. When bred together, individuals of the same breed pass on these predictable traits to their offspring, and this ability – known as "breeding true" – is a requirement for a breed. Plant breeds are more commonly known as cultivars. The offspring produced as a result of breeding animals of one breed with other animals of another breed are known as crossbreeds or mixed breeds. Crosses between animal or plant variants above the level of breed/cultivar (i.e. between species, subspecies, botanical variety, even different genera) are referred to as hybrids.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Breed) 
-
-
-
 
 
 ## Confidential Links & Embeds: 

@@ -41,7 +41,7 @@ Colon_Classification: J:7
 >
 > The completion of harvesting marks the end of the growing season, or the growing cycle for a particular crop, and the social importance of this event makes it the focus of seasonal celebrations such as harvest festivals, found in many cultures and religions.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Harvest)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Harvest) 
 
 
 ## Confidential Links & Embeds: 

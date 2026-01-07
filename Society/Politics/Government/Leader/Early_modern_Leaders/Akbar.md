@@ -38,7 +38,7 @@ aliases:
 >
 > Akbar was succeeded as emperor by his son, Prince Salim, later known as Jahangir.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Akbar)
+> [Wikipedia](https://en.wikipedia.org/wiki/Akbar) 
 
 
 ## Confidential Links & Embeds: 

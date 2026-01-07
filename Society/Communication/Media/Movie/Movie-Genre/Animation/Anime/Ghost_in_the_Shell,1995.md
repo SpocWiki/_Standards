@@ -10,7 +10,7 @@
 >
 > An updated remastered version of the film, Ghost in the Shell 2.0, was released in 2008, featuring newly added digital effects, additional 3D animation, and new audio. Oshii also directed Ghost in the Shell 2: Innocence, released in 2004, which was billed as a separate work and a non-canonical sequel. Hollywood made a live-action reinterpretation of the original film in 2017, bearing an identical title, directed by Rupert Sanders and starring Scarlett Johansson.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ghost%20in%20the%20Shell%20(1995%20film))
+> [Wikipedia](https://en.wikipedia.org/wiki/Ghost%20in%20the%20Shell%20(1995%20film)) 
 
 
 ## Confidential Links & Embeds: 

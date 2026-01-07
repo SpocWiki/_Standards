@@ -35,7 +35,7 @@ H
 > Pyramidalization is a distortion of this molecular shape towards a tetrahedral molecular geometry. 
 > One way to observe this distortion is in pyramidal alkenes.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Trigonal%20planar%20molecular%20geometry)
+> [Wikipedia](https://en.wikipedia.org/wiki/Trigonal%20planar%20molecular%20geometry) 
 
 
 ## Confidential Links & Embeds: 

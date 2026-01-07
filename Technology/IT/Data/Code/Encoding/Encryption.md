@@ -77,7 +77,7 @@ GitHub_topic: encryption
 > Modern encryption techniques ensure security, 
 > because modern computers are inefficient at cracking the encryption.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Encryption)
+> [Wikipedia](https://en.wikipedia.org/wiki/Encryption) 
 
 
 ## Confidential Links & Embeds: 

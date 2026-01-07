@@ -107,7 +107,7 @@ ZVG_number: 12160
 > A similar paste, clothing or laundry starch, 
 > can be applied to certain textile goods before ironing to stiffen them.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Starch)
+> [Wikipedia](https://en.wikipedia.org/wiki/Starch) 
 
 
 ## Confidential Links & Embeds: 

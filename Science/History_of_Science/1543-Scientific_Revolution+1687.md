@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1543-01-01 
+has_time_stopped: 1687-01-01 
 aliases:
 has_id_wikidata: Q214078
 facet_of: "[[_Standards/WikiData/WD~innovation,174165]]"

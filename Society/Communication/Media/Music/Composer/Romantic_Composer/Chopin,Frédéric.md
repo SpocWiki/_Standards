@@ -183,7 +183,7 @@ U_S_National_Archives_Identifier: 25341204
 >
 > Chopin's music, his status as one of music's earliest celebrities, his indirect association with political insurrection, his high-profile love life, and his early death have made him a leading symbol of the Romantic era. His works remain popular, and he has been the subject of numerous films and biographies of varying historical fidelity. Among his many memorials is the Fryderyk Chopin Institute, which was created by the Parliament of Poland to research and promote his life and works. It hosts the International Chopin Piano Competition, a prestigious competition devoted entirely to his works.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric%20Chopin)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric%20Chopin) 
 
 
 ## Confidential Links & Embeds: 

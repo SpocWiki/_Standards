@@ -24,7 +24,8 @@ aliases:
 > 
 > Outside the US, it operated locations in Australia; Singapore; Bucheon, South Korea; Penang, Malaysia; Suzhou, China; and Cebu, Philippines, among others.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Fairchild%20Semiconductor)
+> [Wikipedia](https://en.wikipedia.org/wiki/Fairchild%20Semiconductor) 
+
 
 The members of the Traitorous Eight were:
 1. Julius Blank 

@@ -49,7 +49,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/LogicGates.svg
 > and is provided for in all modern programming languages. 
 > It is also used in set theory and statistics.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Boolean%20algebra)
+> [Wikipedia](https://en.wikipedia.org/wiki/Boolean%20algebra) 
 
 
 ## Confidential Links & Embeds: 

@@ -82,7 +82,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~Q2682086,2682086]]"
 >
 > Within eukaryotic cells, DNA is organized into long structures called chromosomes. Before typical cell division, these chromosomes are duplicated in the process of DNA replication, providing a complete set of chromosomes for each daughter cell. Eukaryotic organisms (animals, plants, fungi and protists) store most of their DNA inside the cell nucleus as nuclear DNA, and some in the mitochondria as mitochondrial DNA or in chloroplasts as chloroplast DNA. In contrast, prokaryotes (bacteria and archaea) store their DNA only in the cytoplasm, in circular chromosomes. Within eukaryotic chromosomes, chromatin proteins, such as histones, compact and organize DNA. These compacting structures guide the interactions between DNA and other proteins, helping control which parts of the DNA are transcribed.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/DNA)
+> [Wikipedia](https://en.wikipedia.org/wiki/DNA) 
 
 
 ## Confidential Links & Embeds: 

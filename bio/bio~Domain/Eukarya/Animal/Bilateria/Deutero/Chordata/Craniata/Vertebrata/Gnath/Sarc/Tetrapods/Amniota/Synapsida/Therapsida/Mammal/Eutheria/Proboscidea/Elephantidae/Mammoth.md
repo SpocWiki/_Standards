@@ -18,7 +18,7 @@ Mammoths
 >
 > Mammoths and Asian elephants are more closely related to each other than they are to African elephants. The oldest mammoth representative, Mammuthus subplanifrons, appeared around 6 million years ago during the late Miocene in what is now southern and Eastern Africa. Later in the Pliocene, by about three million years ago, mammoths dispersed into Eurasia, eventually covering most of Eurasia before migrating into North America around 1.5–1.3 million years ago, becoming ancestral to the Columbian mammoth (M. columbi). The woolly mammoth (M. primigenius) evolved about 700–400,000 years ago in Siberia, with some surviving on Russia's Wrangel Island in the Arctic Ocean until as recently as 4,000 years ago, still extant during the existence of the earliest civilisations in ancient Egypt and Mesopotamia.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Mammoth)
+> [Wikipedia](https://en.wikipedia.org/wiki/Mammoth) 
 
 
 ## Phylogeny 

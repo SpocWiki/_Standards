@@ -130,6 +130,7 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/philosophy
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Philosophy) 
 
+
 One of the most fundamental Questions is that of Existence. 
 As [[Descartes]] proved, no Existence can be proven except ones own. ([[cogito_ergo_sum]]). 
 Therefore [[everyone_is_an_island]]. 

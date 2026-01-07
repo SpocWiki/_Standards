@@ -80,7 +80,7 @@ Data type: Integer.
 > to distinguish them from the more general algebraic integers. 
 > In fact, (rational) integers are algebraic integers that are also rational numbers.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Integer)
+> [Wikipedia](https://en.wikipedia.org/wiki/Integer) 
 
 
 ## Confidential Links & Embeds: 

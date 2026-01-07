@@ -70,7 +70,7 @@ U_S_National_Archives_Identifier: 10637723
 >
 > As of 2015, there were 940 million people with some degree of vision loss. 246 million had low vision and 39 million were blind. The majority of people with poor vision are in the developing world and are over the age of 50 years. Rates of visual impairment have decreased since the 1990s. Visual impairments have considerable economic costs both directly due to the cost of treatment and indirectly due to decreased ability to work.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Visual%20impairment)
+> [Wikipedia](https://en.wikipedia.org/wiki/Visual%20impairment) 
 
 
 ## Confidential Links & Embeds: 

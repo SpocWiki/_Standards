@@ -5,7 +5,7 @@
 >
 > The name Melanesia (in French, Mélanésie) was first used in 1832 by French navigator Jules Dumont d'Urville: he coined the terms Melanesia and Micronesia to go alongside the pre-existing Polynesia to designate what he viewed as the three main ethnic and geographical regions forming the Pacific.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Melanesia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Melanesia) 
 
 
 ## #has_/map 

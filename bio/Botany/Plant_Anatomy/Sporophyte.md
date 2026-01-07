@@ -23,7 +23,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Alternation%20of%20gen
 > It is a diploid multicellular organism which produces asexual spores. 
 > This stage alternates with a multicellular haploid gametophyte phase.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sporophyte)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Sporophyte) 
 
 
 ## Confidential Links & Embeds: 

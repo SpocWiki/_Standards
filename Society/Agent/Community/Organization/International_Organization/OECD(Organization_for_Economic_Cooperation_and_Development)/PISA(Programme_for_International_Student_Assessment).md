@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1997-01-01 
 aliases:
 has_id_wikidata: Q323481
 follows: "[[_Standards/WikiData/WD~Programme_for_International_Student_Assessment_2000_2012,25242029]]"

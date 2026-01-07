@@ -16,7 +16,7 @@
 > [[Thomson_Semiconducteurs]] of France and 
 > [[SGS_Microelettronica]] of Italy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/STMicroelectronics)
+> [Wikipedia](https://en.wikipedia.org/wiki/STMicroelectronics) 
 
 
 ## Confidential Links & Embeds: 

@@ -16,7 +16,7 @@
 >
 > People have struggled to live in deserts and the surrounding semi-arid lands for millennia. Nomads have moved their flocks and herds to wherever grazing is available, and oases have provided opportunities for a more settled way of life. The cultivation of semi-arid regions encourages erosion of soil and is one of the causes of increased desertification. Desert farming is possible with the aid of irrigation, and the Imperial Valley in California provides an example of how previously barren land can be made productive by the import of water from an outside source. Many trade routes have been forged across deserts, especially across the Sahara, and traditionally were used by caravans of camels carrying salt, gold, ivory and other goods. Large numbers of slaves were also taken northwards across the Sahara. Some mineral extraction also takes place in deserts, and the uninterrupted sunlight gives potential for capturing large quantities of solar energy.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Desert)
+> [Wikipedia](https://en.wikipedia.org/wiki/Desert) 
 
 
 ## Confidential Links & Embeds: 

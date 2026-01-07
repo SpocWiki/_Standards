@@ -28,7 +28,7 @@ aliases:
 > In addition to the flagship U.S. network, the "FX" name is licensed 
 > to a number of related pay television channels in various countries around the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/FX%20(TV%20channel))
+> [Wikipedia](https://en.wikipedia.org/wiki/FX%20(TV%20channel)) 
 
 
 ## Confidential Links & Embeds: 

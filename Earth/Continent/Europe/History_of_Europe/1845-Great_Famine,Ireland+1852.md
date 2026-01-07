@@ -82,7 +82,7 @@ aliases:
 > the consequent reduction in homelessness and house demolition 
 > resulted in a drastic reduction in the number of deaths.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Famine%20(Ireland))
+> [Wikipedia](https://en.wikipedia.org/wiki/Great%20Famine%20(Ireland)) 
 
 
 ## Confidential Links & Embeds: 

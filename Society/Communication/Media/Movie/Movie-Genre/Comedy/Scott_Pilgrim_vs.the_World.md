@@ -39,7 +39,7 @@ aliases:
 > The film has made several top ten lists and received over 70 awards and nominations. 
 > In scholarly analysis, it has been widely discussed as a transmedia narrative.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Scott%20Pilgrim%20vs.%20the%20World)
+> [Wikipedia](https://en.wikipedia.org/wiki/Scott%20Pilgrim%20vs.%20the%20World) 
 
 
 ## Confidential Links & Embeds: 

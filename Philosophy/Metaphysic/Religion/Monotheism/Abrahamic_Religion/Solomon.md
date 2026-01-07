@@ -140,7 +140,7 @@ date_of_death: -0930-01-01T00:00:00Z
 > In primarily non-biblical circles, Solomon also came to be known as a magician and an exorcist, 
 > with numerous amulets and medallion seals dating from the Hellenistic period invoking his name.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Solomon)
+> [Wikipedia](https://en.wikipedia.org/wiki/Solomon) 
 
 
 ## Confidential Links & Embeds: 
