@@ -1,7 +1,7 @@
 
 # [[Thiol]] 
 
-#is_/similar_to :: [[Alcohol|Alcohol]] 
+#is_/similar_to :: [[Functional_Group/Alcohol|Alcohol]] 
 #has_/formula_/structural :: R−SH 
 #is_/same_as :: [[WD~Thiol,220410]] 
 
