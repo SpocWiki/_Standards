@@ -66,17 +66,17 @@ Colon_Classification: Q:365
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Hell|Hell]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Dualistic_Religion/Hell|Hell]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Hell.public|Hell.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Dualistic_Religion/Hell.public|Hell.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Hell.internal|Hell.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Dualistic_Religion/Hell.internal|Hell.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Hell.protect|Hell.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Dualistic_Religion/Hell.protect|Hell.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Hell.private|Hell.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Dualistic_Religion/Hell.private|Hell.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Hell.personal|Hell.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Dualistic_Religion/Hell.personal|Hell.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Hell.secret|Hell.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Dualistic_Religion/Hell.secret|Hell.secret]] 
 

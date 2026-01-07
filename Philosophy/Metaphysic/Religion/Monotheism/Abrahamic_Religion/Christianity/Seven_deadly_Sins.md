@@ -52,17 +52,17 @@ These were themes in the [[Seven(1995_film)]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins|Seven_deadly_Sins]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Seven_deadly_Sins|Seven_deadly_Sins]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.public|Seven_deadly_Sins.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Seven_deadly_Sins.public|Seven_deadly_Sins.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.internal|Seven_deadly_Sins.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Seven_deadly_Sins.internal|Seven_deadly_Sins.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.protect|Seven_deadly_Sins.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Seven_deadly_Sins.protect|Seven_deadly_Sins.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.private|Seven_deadly_Sins.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Seven_deadly_Sins.private|Seven_deadly_Sins.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.personal|Seven_deadly_Sins.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Seven_deadly_Sins.personal|Seven_deadly_Sins.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.secret|Seven_deadly_Sins.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Seven_deadly_Sins.secret|Seven_deadly_Sins.secret]] 
 

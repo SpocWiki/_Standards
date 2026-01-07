@@ -21,3 +21,20 @@ subclass_of: "[[_Standards/WikiData/WD~religious_cosmology,2998321]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dualism%20in%20cosmology) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Dualistic_Religion|Dualistic_Religion]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Dualistic_Religion.public|Dualistic_Religion.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Dualistic_Religion.internal|Dualistic_Religion.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Dualistic_Religion.protect|Dualistic_Religion.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Dualistic_Religion.private|Dualistic_Religion.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Dualistic_Religion.personal|Dualistic_Religion.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Dualistic_Religion.secret|Dualistic_Religion.secret]] 
+

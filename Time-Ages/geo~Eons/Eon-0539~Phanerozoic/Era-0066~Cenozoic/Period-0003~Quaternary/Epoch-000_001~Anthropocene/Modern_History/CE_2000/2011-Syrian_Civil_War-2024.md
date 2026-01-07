@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 38.0 , 35.0 ] 
 aliases:
   - Syrischer Bürgerkrieg
@@ -72,17 +72,17 @@ start_time: 2011-03-15T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[2011-Syrian_Civil_War-2024|2011-Syrian_Civil_War-2024]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024|2011-Syrian_Civil_War-2024]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.public|2011-Syrian_Civil_War-2024.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.public|2011-Syrian_Civil_War-2024.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.internal|2011-Syrian_Civil_War-2024.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.internal|2011-Syrian_Civil_War-2024.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.protect|2011-Syrian_Civil_War-2024.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.protect|2011-Syrian_Civil_War-2024.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.private|2011-Syrian_Civil_War-2024.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.private|2011-Syrian_Civil_War-2024.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.personal|2011-Syrian_Civil_War-2024.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.personal|2011-Syrian_Civil_War-2024.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.secret|2011-Syrian_Civil_War-2024.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2011-Syrian_Civil_War-2024.secret|2011-Syrian_Civil_War-2024.secret]] 
 

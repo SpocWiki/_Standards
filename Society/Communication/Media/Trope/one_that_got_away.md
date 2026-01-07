@@ -14,8 +14,6 @@ The expression “the one that got away” refers to a person or opportunity per
 The phrase is idiomatic English, most commonly applied to romantic relationships, but also used for careers, investments, or life chances. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Trope/one_that_got_away|one_that_got_away]] 

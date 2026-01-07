@@ -134,17 +134,17 @@ P1015: "97013967"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr|Abu_Bakr]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr|Abu_Bakr]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.public|Abu_Bakr.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.public|Abu_Bakr.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.internal|Abu_Bakr.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.internal|Abu_Bakr.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.protect|Abu_Bakr.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.protect|Abu_Bakr.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.private|Abu_Bakr.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.private|Abu_Bakr.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.personal|Abu_Bakr.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.personal|Abu_Bakr.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.secret|Abu_Bakr.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/Muslim/Caliph/Abu_Bakr.secret|Abu_Bakr.secret]] 
 

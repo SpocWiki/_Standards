@@ -47,17 +47,17 @@ point_in_time: 1919-09-10T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[1919-Treaty_of_Saint-Germain-en-Laye|1919-Treaty_of_Saint-Germain-en-Laye]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye|1919-Treaty_of_Saint-Germain-en-Laye]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.public|1919-Treaty_of_Saint-Germain-en-Laye.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.public|1919-Treaty_of_Saint-Germain-en-Laye.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.internal|1919-Treaty_of_Saint-Germain-en-Laye.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.internal|1919-Treaty_of_Saint-Germain-en-Laye.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.protect|1919-Treaty_of_Saint-Germain-en-Laye.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.protect|1919-Treaty_of_Saint-Germain-en-Laye.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.private|1919-Treaty_of_Saint-Germain-en-Laye.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.private|1919-Treaty_of_Saint-Germain-en-Laye.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.personal|1919-Treaty_of_Saint-Germain-en-Laye.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.personal|1919-Treaty_of_Saint-Germain-en-Laye.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.secret|1919-Treaty_of_Saint-Germain-en-Laye.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.secret|1919-Treaty_of_Saint-Germain-en-Laye.secret]] 
 

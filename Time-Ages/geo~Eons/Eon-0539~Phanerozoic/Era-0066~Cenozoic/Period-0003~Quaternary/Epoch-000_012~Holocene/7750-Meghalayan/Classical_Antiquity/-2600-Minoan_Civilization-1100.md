@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 24.893333 , 35.309722 ] 
 aliases:
   - Minoan civilization
@@ -66,17 +66,17 @@ Dewey_Decimal_Classification: "939.18"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[-2600-Minoan_Civilization-1100|-2600-Minoan_Civilization-1100]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100|-2600-Minoan_Civilization-1100]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.public|-2600-Minoan_Civilization-1100.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.public|-2600-Minoan_Civilization-1100.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.internal|-2600-Minoan_Civilization-1100.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.internal|-2600-Minoan_Civilization-1100.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.protect|-2600-Minoan_Civilization-1100.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.protect|-2600-Minoan_Civilization-1100.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.private|-2600-Minoan_Civilization-1100.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.private|-2600-Minoan_Civilization-1100.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.personal|-2600-Minoan_Civilization-1100.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.personal|-2600-Minoan_Civilization-1100.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.secret|-2600-Minoan_Civilization-1100.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-2600-Minoan_Civilization-1100.secret|-2600-Minoan_Civilization-1100.secret]] 
 

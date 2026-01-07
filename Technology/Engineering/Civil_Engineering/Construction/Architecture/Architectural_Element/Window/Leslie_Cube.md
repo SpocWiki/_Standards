@@ -27,7 +27,6 @@ white only reflects visible Light. it still emits a lot of IR!
 € is the Emission Ratio 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Leslie_Cube|Leslie_Cube]] 

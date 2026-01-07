@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2005-01-01 
 aliases:
   - Pastafarianism
@@ -81,17 +81,17 @@ inception: 2005-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Pastafari|Pastafari]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Pastafari|Pastafari]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Pastafari.public|Pastafari.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Pastafari.public|Pastafari.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Pastafari.internal|Pastafari.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Pastafari.internal|Pastafari.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Pastafari.protect|Pastafari.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Pastafari.protect|Pastafari.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Pastafari.private|Pastafari.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Pastafari.private|Pastafari.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Pastafari.personal|Pastafari.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Pastafari.personal|Pastafari.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Pastafari.secret|Pastafari.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Pastafari.secret|Pastafari.secret]] 
 

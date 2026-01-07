@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1980-01-01 
 aliases:
   - Transhumanismus
@@ -53,17 +53,17 @@ Commons_category: Transhumanism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Humanism/Transhumanism|Transhumanism]] 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Humanism/Transhumanism|Transhumanism]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Humanism/Transhumanism.public|Transhumanism.public]] 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Humanism/Transhumanism.public|Transhumanism.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Humanism/Transhumanism.internal|Transhumanism.internal]] 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Humanism/Transhumanism.internal|Transhumanism.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Humanism/Transhumanism.protect|Transhumanism.protect]] 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Humanism/Transhumanism.protect|Transhumanism.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Humanism/Transhumanism.private|Transhumanism.private]] 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Humanism/Transhumanism.private|Transhumanism.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Humanism/Transhumanism.personal|Transhumanism.personal]] 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Humanism/Transhumanism.personal|Transhumanism.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Humanism/Transhumanism.secret|Transhumanism.secret]] 
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Humanism/Transhumanism.secret|Transhumanism.secret]] 
 

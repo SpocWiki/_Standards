@@ -94,17 +94,17 @@ title: 道德經
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Taoism/Tao_Te_Ching|Tao_Te_Ching]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Taoism/Tao_Te_Ching|Tao_Te_Ching]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Taoism/Tao_Te_Ching.public|Tao_Te_Ching.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Taoism/Tao_Te_Ching.public|Tao_Te_Ching.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Taoism/Tao_Te_Ching.internal|Tao_Te_Ching.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Taoism/Tao_Te_Ching.internal|Tao_Te_Ching.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Taoism/Tao_Te_Ching.protect|Tao_Te_Ching.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Taoism/Tao_Te_Ching.protect|Tao_Te_Ching.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Taoism/Tao_Te_Ching.private|Tao_Te_Ching.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Taoism/Tao_Te_Ching.private|Tao_Te_Ching.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Taoism/Tao_Te_Ching.personal|Tao_Te_Ching.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Taoism/Tao_Te_Ching.personal|Tao_Te_Ching.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Taoism/Tao_Te_Ching.secret|Tao_Te_Ching.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Taoism/Tao_Te_Ching.secret|Tao_Te_Ching.secret]] 
 

@@ -52,17 +52,17 @@ Suffering arises from Craving.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Dharma|Dharma]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Dharma|Dharma]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Dharma.public|Dharma.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Dharma.public|Dharma.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Dharma.internal|Dharma.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Dharma.internal|Dharma.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Dharma.protect|Dharma.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Dharma.protect|Dharma.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Dharma.private|Dharma.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Dharma.private|Dharma.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Dharma.personal|Dharma.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Dharma.personal|Dharma.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Dharma.secret|Dharma.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Dharma.secret|Dharma.secret]] 
 

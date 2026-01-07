@@ -16,7 +16,6 @@ For Measuring you can use a [[Leslie_Cube]]
 [[Polymethyl_Methacrylate]] 
 
 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Heat-Loss,Window|Heat-Loss,Window]] 

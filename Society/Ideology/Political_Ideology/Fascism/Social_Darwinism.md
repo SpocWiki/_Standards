@@ -31,3 +31,20 @@ exact_match:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Social%20Darwinism) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Fascism/Social_Darwinism|Social_Darwinism]] 
+
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Fascism/Social_Darwinism.public|Social_Darwinism.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Fascism/Social_Darwinism.internal|Social_Darwinism.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Fascism/Social_Darwinism.protect|Social_Darwinism.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Fascism/Social_Darwinism.private|Social_Darwinism.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Fascism/Social_Darwinism.personal|Social_Darwinism.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Fascism/Social_Darwinism.secret|Social_Darwinism.secret]] 
+

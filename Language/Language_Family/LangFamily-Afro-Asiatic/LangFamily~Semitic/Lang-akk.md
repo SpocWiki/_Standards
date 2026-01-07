@@ -64,3 +64,20 @@ end_time: -0269-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Akkadian%20language) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-akk|Lang-akk]] 
+
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-akk.public|Lang-akk.public]] 
+
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-akk.internal|Lang-akk.internal]] 
+
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-akk.protect|Lang-akk.protect]] 
+
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-akk.private|Lang-akk.private]] 
+
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-akk.personal|Lang-akk.personal]] 
+
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-akk.secret|Lang-akk.secret]] 
+

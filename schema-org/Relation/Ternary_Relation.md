@@ -15,9 +15,6 @@ instance_of: "[[_Standards/WikiData/WD~type_of_relation,130324710]]"
 #is_/same_as :: [[_Standards/WikiData/WD~ternary_relation,3756532]] 
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/Ternary_Relation|Ternary_Relation]] 

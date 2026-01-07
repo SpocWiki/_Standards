@@ -176,3 +176,19 @@ CAS_Registry_Number: 57-13-6
 > [Wikipedia](https://en.wikipedia.org/wiki/Urea) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Amine/Urea|Urea]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Amine/Urea.public|Urea.public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Amine/Urea.internal|Urea.internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Amine/Urea.protect|Urea.protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Amine/Urea.private|Urea.private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Amine/Urea.personal|Urea.personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Amine/Urea.secret|Urea.secret]] 
+
