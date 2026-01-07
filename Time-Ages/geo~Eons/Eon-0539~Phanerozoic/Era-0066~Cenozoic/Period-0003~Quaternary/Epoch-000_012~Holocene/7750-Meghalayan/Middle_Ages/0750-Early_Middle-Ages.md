@@ -5,6 +5,17 @@ aliases:
   - Dark Ages
   - 0750-Early_Middle-Ages
   - 0750-Early Middle-Ages
+has_id_wikidata: Q202763
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Early_Middle_Ages,7473381]]"
+instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
+start_time: 0500-01-01T00:00:00Z
+end_time: 0900-01-01T00:00:00Z
+location: "[[_Standards/WikiData/WD~Europe,46]]"
+OmegaWiki_Defined_Meaning: "1258174"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Meister%20der%20Reichenauer%20Schule%20004.jpg
+Basisklassifikation: "15.31"
+EAGLE_id: dates/lod/57
+Commons_category: Early Middle Ages
 ---
 
 # [[0750-Early_Middle-Ages]] 
@@ -17,8 +28,11 @@ aliases:
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
-#has_/previous_item :: [[../Late_Antiquity]] 
+#has_/previous_item :: [[../0000-Late_Antiquity]] 
 #has_/next_/item :: [[1000-High_Middle-Ages+1300]]
+#is_/same_as :: [[WD~Early_Middle-Ages,202763]] 
+
+## #has_/text_of_/abstract 
 
 > The **Early Middle Ages** (or early medieval period), 
 > sometimes controversially referred to as the Dark Ages, 
@@ -57,7 +71,7 @@ aliases:
 > although the Viking expansion greatly affected Northern Europe.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Early%20Middle%20Ages)
-> 
+
 
 ## Edit
 
