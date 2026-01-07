@@ -4,42 +4,23 @@ aliases:
 has_id_wikidata: Q106675
 Commons_category: Periodic table group 15
 has_part_s_:
-  - "[[_Standards/WikiData/WD~nitrogen,627]]"
-  - "[[_Standards/WikiData/WD~phosphorus,674]]"
-  - "[[_Standards/WikiData/WD~arsenic,871]]"
-  - "[[_Standards/WikiData/WD~bismuth,942]]"
-  - "[[_Standards/WikiData/WD~antimony,1099]]"
-  - "[[_Standards/WikiData/WD~moscovium,1303]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~nitrogen,627]]'
+  - '[[_Standards/WikiData/WD~phosphorus,674]]'
+  - '[[_Standards/WikiData/WD~arsenic,871]]'
+  - '[[_Standards/WikiData/WD~bismuth,942]]'
+  - '[[_Standards/WikiData/WD~antimony,1099]]'
+  - '[[_Standards/WikiData/WD~moscovium,1303]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stickstoff-gruppe.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~group,83306]]"
-  - "[[_Standards/WikiData/WD~main_group,428830]]"
+  - '[[_Standards/WikiData/WD~group,83306]]'
+  - '[[_Standards/WikiData/WD~main_group,428830]]'
 OmegaWiki_Defined_Meaning: 1134
-P8189: 987007535177505200
+P8189: 987007535177505171
 part_of:
-  - "[[_Standards/WikiData/WD~p_block,214483]]"
-  - "[[_Standards/WikiData/WD~periodic_table,10693]]"
+  - '[[_Standards/WikiData/WD~p_block,214483]]'
+  - '[[_Standards/WikiData/WD~periodic_table,10693]]'
 type: ElementGroup
-dv_is_:
-  same_as:
-    - "[[../../WikiData/WD~Group_15,106675]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen|Group-15-Nitrogen]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen.public|Group-15-Nitrogen.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen.internal|Group-15-Nitrogen.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen.protect|Group-15-Nitrogen.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen.private|Group-15-Nitrogen.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen.personal|Group-15-Nitrogen.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen.secret|Group-15-Nitrogen.secret]]"
-dv_is_same_as:
-  - "[[../../WikiData/WD~Group_15,106675]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen|Group-15-Nitrogen]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen.public|Group-15-Nitrogen.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen.internal|Group-15-Nitrogen.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen.protect|Group-15-Nitrogen.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen.private|Group-15-Nitrogen.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen.personal|Group-15-Nitrogen.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen.secret|Group-15-Nitrogen.secret]]"
 ---
 
 # [[Group-15-Nitrogen]] 

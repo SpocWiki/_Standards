@@ -1,22 +1,3 @@
----
-dv_is_:
-  same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/README|README]]"
-    - "[[/_public/Chemistry/Chemical_Element/README.public|README.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/README.internal|README.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/README.protect|README.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/README.private|README.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/README.personal|README.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/README.secret|README.secret]]"
-dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/README|README]]"
-  - "[[/_public/Chemistry/Chemical_Element/README.public|README.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/README.internal|README.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/README.protect|README.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/README.private|README.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/README.personal|README.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/README.secret|README.secret]]"
----
 # Obsidian.Elements
 Shared Facts about chemical Elements
 

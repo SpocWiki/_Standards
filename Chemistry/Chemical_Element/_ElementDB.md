@@ -1,25 +1,8 @@
 ---
 aliases:
   - _ElementDB
-  - " ElementDB"
+  - ' ElementDB'
 database_plugin: basic
-dv_is_:
-  same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/_ElementDB|_ElementDB]]"
-    - "[[/_public/Chemistry/Chemical_Element/_ElementDB.public|_ElementDB.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/_ElementDB.internal|_ElementDB.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/_ElementDB.protect|_ElementDB.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/_ElementDB.private|_ElementDB.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/_ElementDB.personal|_ElementDB.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/_ElementDB.secret|_ElementDB.secret]]"
-dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/_ElementDB|_ElementDB]]"
-  - "[[/_public/Chemistry/Chemical_Element/_ElementDB.public|_ElementDB.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/_ElementDB.internal|_ElementDB.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/_ElementDB.protect|_ElementDB.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/_ElementDB.private|_ElementDB.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/_ElementDB.personal|_ElementDB.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/_ElementDB.secret|_ElementDB.secret]]"
 ---
 
 ```yaml:dbfolder

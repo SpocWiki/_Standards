@@ -4,30 +4,30 @@ aliases:
 has_id_wikidata: Q19609
 type: ElementGroup
 instance_of:
-  - "[[_Standards/WikiData/WD~group,83306]]"
-  - "[[_Standards/WikiData/WD~main_group,428830]]"
+  - '[[_Standards/WikiData/WD~group,83306]]'
+  - '[[_Standards/WikiData/WD~main_group,428830]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~inertness,262175]]"
-  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
-  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
-  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
+  - '[[_Standards/WikiData/WD~inertness,262175]]'
+  - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
+  - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
+  - '[[_Standards/WikiData/WD~tastelessness,30100868]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-  - "[[_Standards/WikiData/WD~inert_gas,11136680]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-different_from: "[[_Standards/WikiData/WD~inert_gas,11136680]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Noble_gases,18177184]]"
+  - '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+  - '[[_Standards/WikiData/WD~inert_gas,11136680]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~inert_gas,11136680]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Noble_gases,18177184]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~helium,560]]"
-  - "[[_Standards/WikiData/WD~neon,654]]"
-  - "[[_Standards/WikiData/WD~argon,696]]"
-  - "[[_Standards/WikiData/WD~krypton,888]]"
-  - "[[_Standards/WikiData/WD~xenon,1106]]"
-  - "[[_Standards/WikiData/WD~radon,1133]]"
-  - "[[_Standards/WikiData/WD~oganesson,1307]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-part_of: "[[_Standards/WikiData/WD~periodic_table,10693]]"
+  - '[[_Standards/WikiData/WD~helium,560]]'
+  - '[[_Standards/WikiData/WD~neon,654]]'
+  - '[[_Standards/WikiData/WD~argon,696]]'
+  - '[[_Standards/WikiData/WD~krypton,888]]'
+  - '[[_Standards/WikiData/WD~xenon,1106]]'
+  - '[[_Standards/WikiData/WD~radon,1133]]'
+  - '[[_Standards/WikiData/WD~oganesson,1307]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+part_of: '[[_Standards/WikiData/WD~periodic_table,10693]]'
 OmegaWiki_Defined_Meaning: 1129
 Dewey_Decimal_Classification:
   - 665.822
@@ -42,25 +42,6 @@ MeSH_tree_code:
   - D01.268.613
   - D01.362.641
 Commons_category: Noble gases
-dv_is_:
-  same_as:
-    - "[[../../WikiData/WD~Noble_gases,19609|WD~Noble_gases,19609]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases|Group-18-Nobel-Gases]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases.public|Group-18-Nobel-Gases.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases.internal|Group-18-Nobel-Gases.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases.protect|Group-18-Nobel-Gases.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases.private|Group-18-Nobel-Gases.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases.personal|Group-18-Nobel-Gases.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases.secret|Group-18-Nobel-Gases.secret]]"
-dv_is_same_as:
-  - "[[../../WikiData/WD~Noble_gases,19609|WD~Noble_gases,19609]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases|Group-18-Nobel-Gases]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases.public|Group-18-Nobel-Gases.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases.internal|Group-18-Nobel-Gases.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases.protect|Group-18-Nobel-Gases.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases.private|Group-18-Nobel-Gases.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases.personal|Group-18-Nobel-Gases.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases.secret|Group-18-Nobel-Gases.secret]]"
 ---
 
 # [[Group-18-Nobel-Gases]]

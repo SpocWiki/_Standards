@@ -2,23 +2,6 @@
 aliases:
   - Group-09-Cobalt
 type: ElementGroup
-dv_is_:
-  same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt|Group-09-Cobalt]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt.public|Group-09-Cobalt.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt.internal|Group-09-Cobalt.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt.protect|Group-09-Cobalt.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt.private|Group-09-Cobalt.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt.personal|Group-09-Cobalt.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt.secret|Group-09-Cobalt.secret]]"
-dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt|Group-09-Cobalt]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt.public|Group-09-Cobalt.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt.internal|Group-09-Cobalt.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt.protect|Group-09-Cobalt.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt.private|Group-09-Cobalt.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt.personal|Group-09-Cobalt.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt.secret|Group-09-Cobalt.secret]]"
 ---
 
 #chemic/Group 

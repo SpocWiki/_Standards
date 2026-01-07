@@ -3,25 +3,6 @@ aliases:
   - Group-14-Carbon
 has_id_wikidata: Q106693
 type: ElementGroup
-dv_is_:
-  same_as:
-    - "[[../../WikiData/WD~Group_14,106693 ]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon|Group-14-Carbon]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon.public|Group-14-Carbon.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon.internal|Group-14-Carbon.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon.protect|Group-14-Carbon.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon.private|Group-14-Carbon.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon.personal|Group-14-Carbon.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon.secret|Group-14-Carbon.secret]]"
-dv_is_same_as:
-  - "[[../../WikiData/WD~Group_14,106693 ]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon|Group-14-Carbon]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon.public|Group-14-Carbon.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon.internal|Group-14-Carbon.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon.protect|Group-14-Carbon.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon.private|Group-14-Carbon.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon.personal|Group-14-Carbon.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon.secret|Group-14-Carbon.secret]]"
 ---
 
 # [[Group-14-Carbon]] 

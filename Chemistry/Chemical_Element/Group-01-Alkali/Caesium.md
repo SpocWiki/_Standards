@@ -3,7 +3,7 @@ aliases:
   - Caesium
 has_id_wikidata: Q1108
 atomic_number: 55
-canonical_SMILES: "[Cs]"
+canonical_SMILES: '[Cs]'
 CAS_Registry_Number: 7440-46-2
 chemical_formula: Cs
 Commons_category: Caesium
@@ -12,30 +12,30 @@ Common_Procurement_Vocabulary_code:
   - 14771000-6
   - 14771000
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 Dewey_Decimal_Classification: 546.385
-different_from: "[[_Standards/WikiData/WD~cerium,1385]]"
+different_from: '[[_Standards/WikiData/WD~cerium,1385]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Robert_Bunsen,71031]]"
-  - "[[_Standards/WikiData/WD~Gustav_Kirchhoff,60052]]"
+  - '[[_Standards/WikiData/WD~Robert_Bunsen,71031]]'
+  - '[[_Standards/WikiData/WD~Gustav_Kirchhoff,60052]]'
 DSSTOX_compound_identifier: DTXCID40820345
 EC_number: 231-155-4
 electronegativity: 0.79
 electron_configuration:
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s¹
-  - "[Xe] 6s¹"
+  - '[Xe] 6s¹'
 element_symbol: Cs
-has_characteristic: "[[_Standards/WikiData/WD~paramagnetism,188479]]"
+has_characteristic: '[[_Standards/WikiData/WD~paramagnetism,188479]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cesium.jpg
 InChI: InChI=1S/Cs
 InChIKey: TVFDJXOCXUVLDH-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
   - 1.67
   - 1.74
@@ -46,7 +46,7 @@ ionization_energy:
   - 375.7
   - 2234.3
 Krugosvet_article: himiya/ceziy
-location_of_discovery: "[[_Standards/WikiData/WD~Heidelberg,2966]]"
+location_of_discovery: '[[_Standards/WikiData/WD~Heidelberg,2966]]'
 mass: 132.90545196
 MeSH_tree_code:
   - D01.268.549.125
@@ -54,105 +54,66 @@ MeSH_tree_code:
   - D01.552.528.160
   - D01.552.544.165
 Mohs_hardness: 0.2
-named_after: "[[_Standards/WikiData/WD~sky_blue,373160]]"
+named_after: '[[_Standards/WikiData/WD~sky_blue,373160]]'
 OmegaWiki_Defined_Meaning: 470
 oxidation_state: 1
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~group_1,10801007]]"
-  - "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - '[[_Standards/WikiData/WD~group_1,10801007]]'
+  - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
 PubChem_CID: 5354618
 SpocWebEntityId: 21951
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Caesium.ogg
 standard_molar_entropy: 85.2
 subclass_of:
-  - "[[_Standards/WikiData/WD~s-block,208106]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-  - "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+  - '[[_Standards/WikiData/WD~s-block,208106]]'
+  - '[[_Standards/WikiData/WD~metal,11426]]'
+  - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
 time_of_discovery_or_invention: 1860
 type: Element
 UMLS_CUI: C0007886
 Unicode_character: 銫
 UNII: 1KSV9V4Y4I
 ZVG_number: 7550
-dv_is_:
-  same_as:
-    - "[[../../../WikiData/WD~Caesium,1108]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Caesium|Caesium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.public|Caesium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.internal|Caesium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.protect|Caesium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.private|Caesium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.personal|Caesium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.secret|Caesium.secret]]"
-dv_GroupName: Group-01-Alkali
-dv_Name-en: Caesium
-dv_Name-de: Caesium
-dv_Weight-u: 132.905
-dv_AtomRadius: 3.34
-dv_Atom-Vol-ccm-mol: 71.07
-dv_Unknown2: 2.35
-dv_Radius-nm: 3.894
-dv_Density: 1.87
-dv_BoilingPoint-C: 678.4
-dv_HeatCapacity: 0.24
-dv_HeatConduct: 0.359
-dv_Enthalpy: 2.092
-dv_FormEnergy-kj-mol: 67.74
-dv_PeriodNo: 6
-dv_GroupNo: 1
-dv_Abbr: Cs
-dv_Charge-e: 55
-dv_MeltingPoint-C: 28.4
-dv_Electronegative: 0.79
-dv_is_same_as:
-  - "[[../../../WikiData/WD~Caesium,1108]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Caesium|Caesium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.public|Caesium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.internal|Caesium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.protect|Caesium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.private|Caesium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.personal|Caesium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.secret|Caesium.secret]]"
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Caesium,1108]] 
 
 #chemic/Element 
-GroupName = `=this.dv_GroupName`
+[GroupName::Group-01-Alkali]
 [Group:[[../Group-01-Alkali]]
 
 
-Name-en = `=this.dv_Name-en`
-Name-de = `=this.dv_Name-de`
+[Name-en::Caesium]
+[Name-de::Caesium]
 
-Weight-u = `=this.dv_Weight-u`
-AtomRadius = `=this.dv_AtomRadius`
-Atom-Vol-ccm-mol = `=this.dv_Atom-Vol-ccm-mol`
-Unknown2 = `=this.dv_Unknown2`
-Radius-nm = `=this.dv_Radius-nm`
-Density = `=this.dv_Density`
-BoilingPoint-C = `=this.dv_BoilingPoint-C`
-HeatCapacity = `=this.dv_HeatCapacity`
-HeatConduct = `=this.dv_HeatConduct`
-Enthalpy = `=this.dv_Enthalpy`
-FormEnergy-kj-mol = `=this.dv_FormEnergy-kj-mol`
-PeriodNo = `=this.dv_PeriodNo`
-GroupNo = `=this.dv_GroupNo`
+[Weight-u::132.905]
+[AtomRadius::3.34]
+[Atom-Vol-ccm-mol::71.07]
+[Unknown2::2.35]
+[Radius-nm::3.894]
+[Density::1.87]
+[BoilingPoint-C::678.4]
+[HeatCapacity::0.24]
+[HeatConduct::0.359]
+[Enthalpy::2.092]
+[FormEnergy-kj-mol::67.74]
+(PeriodNo::6)
+(GroupNo::1)
 
 
 ## #has_/text_of_/abstract 
 
 > **Caesium** (IUPAC spelling) (or cesium in American English) 
-> is a chemical element with the symbol (Abbr::Cs) and atomic numberCharge-e = `=this.dv_Charge-e`
+> is a chemical element with the symbol (Abbr::Cs) and atomic number (Charge-e::55). 
 > 
-> It is a soft, silvery-golden alkali metal with a melting point ofMeltingPoint-C = `=this.dv_MeltingPoint-C`
+> It is a soft, silvery-golden alkali metal with a melting point of [MeltingPoint-C::28.4] °C (83.3 °F), 
 > which makes it one of only five elemental metals that are liquid at or near room temperature. 
 > 
 > Caesium has physical and chemical properties similar to those of rubidium and potassium. 
 > It is pyrophoric and reacts with water even at −116 °C (−177 °F). 
 > 
-> It is the least electronegative element, with a value ofElectronegative = `=this.dv_Electronegative`
+> It is the least electronegative element, with a value of [Electronegative::0.79] on the Pauling scale. 
 > It has only one stable isotope, caesium-133. 
 > 
 > Caesium is mined mostly from pollucite. 

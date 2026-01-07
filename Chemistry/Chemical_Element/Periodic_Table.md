@@ -53,32 +53,11 @@ topic_s_main_template:
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Erfindung%20des%20Periodensystems.webm
   - http://commons.wikimedia.org/wiki/Special:FilePath/Orbitales%20atomiques%20et%20classification%20p%C3%A9riodique.ogv
-dv_is_:
-  similar_to: "[[Table_of_Nuclides]]"
-  same_as:
-    - "[[../../WikiData/WD~Periodic_table,10693|WD~Periodic_table,10693]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Periodic_Table|Periodic_Table]]"
-    - "[[/_public/Chemistry/Chemical_Element/Periodic_Table.public|Periodic_Table.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Periodic_Table.internal|Periodic_Table.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Periodic_Table.protect|Periodic_Table.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Periodic_Table.private|Periodic_Table.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Periodic_Table.personal|Periodic_Table.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Periodic_Table.secret|Periodic_Table.secret]]"
-dv_is_similar_to: "[[Table_of_Nuclides]]"
-dv_is_same_as:
-  - "[[../../WikiData/WD~Periodic_table,10693|WD~Periodic_table,10693]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Periodic_Table|Periodic_Table]]"
-  - "[[/_public/Chemistry/Chemical_Element/Periodic_Table.public|Periodic_Table.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Periodic_Table.internal|Periodic_Table.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Periodic_Table.protect|Periodic_Table.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Periodic_Table.private|Periodic_Table.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Periodic_Table.personal|Periodic_Table.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Periodic_Table.secret|Periodic_Table.secret]]"
 ---
 
 # [[Periodic_Table]] 
 
-is_similar_to = `=this.dv_is_similar_to`
+#is_/similar_to :: [[Table_of_Nuclides]]  
 #is_/same_as :: [[../../WikiData/WD~Periodic_table,10693|WD~Periodic_table,10693]] 
 
 ## #has_/text_of_/abstract 

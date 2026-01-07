@@ -72,47 +72,6 @@ UMLS_CUI: C0035930
 Unicode_character: 銣
 UNII: MLT4718TJW
 ZVG_number: 7370
-dv_is_:
-  same_as:
-    - "[[../../../WikiData/WD~Rubidium,895]]"
-    - "[[../../../WikiData/WD~Rubidium,895|WD~Rubidium,895]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium|Rubidium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.public|Rubidium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.internal|Rubidium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.protect|Rubidium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.private|Rubidium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.personal|Rubidium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.secret|Rubidium.secret]]"
-dv_GroupName: Group-01-Alkali
-dv_Name-en: Rubidium
-dv_Name-de: Rubidium
-dv_Abbr: Rb
-dv_Weight-u: 85.4678
-dv_AtomRadius: 2.98
-dv_Atom-Vol-ccm-mol: 55.9
-dv_Unknown2: 2.16
-dv_Radius-nm: 4.177
-dv_Electronegative: 0.8
-dv_Density: 1.53
-dv_MeltingPoint-C: 38.89
-dv_BoilingPoint-C: 688
-dv_HeatCapacity: 0.363
-dv_HeatConduct: 0.582
-dv_Enthalpy: 2.192
-dv_FormEnergy-kj-mol: 72.216
-dv_PeriodNo: 5
-dv_GroupNo: 1
-dv_Charge-e: 37
-dv_is_same_as:
-  - "[[../../../WikiData/WD~Rubidium,895]]"
-  - "[[../../../WikiData/WD~Rubidium,895|WD~Rubidium,895]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium|Rubidium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.public|Rubidium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.internal|Rubidium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.protect|Rubidium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.private|Rubidium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.personal|Rubidium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.secret|Rubidium.secret]]"
 ---
 
 # [[Rubidium]] 
@@ -120,29 +79,29 @@ dv_is_same_as:
 #is_/same_as :: [[../../../WikiData/WD~Rubidium,895]] 
 #chemic/Element 
 
-GroupName = `=this.dv_GroupName`
+[GroupName::Group-01-Alkali]
 [Group:[[../Group-01-Alkali]]
 
 
-Name-en = `=this.dv_Name-en`
-Name-de = `=this.dv_Name-de`
-Abbr = `=this.dv_Abbr`
-Weight-u = `=this.dv_Weight-u`
-AtomRadius = `=this.dv_AtomRadius`
-Atom-Vol-ccm-mol = `=this.dv_Atom-Vol-ccm-mol`
-Unknown2 = `=this.dv_Unknown2`
-Radius-nm = `=this.dv_Radius-nm`
-Electronegative = `=this.dv_Electronegative`
-Density = `=this.dv_Density`
-MeltingPoint-C = `=this.dv_MeltingPoint-C`
-BoilingPoint-C = `=this.dv_BoilingPoint-C`
-HeatCapacity = `=this.dv_HeatCapacity`
-HeatConduct = `=this.dv_HeatConduct`
-Enthalpy = `=this.dv_Enthalpy`
-FormEnergy-kj-mol = `=this.dv_FormEnergy-kj-mol`
-PeriodNo = `=this.dv_PeriodNo`
-GroupNo = `=this.dv_GroupNo`
-Charge-e = `=this.dv_Charge-e`
+[Name-en::Rubidium]
+[Name-de::Rubidium]
+(Abbr::Rb)
+[Weight-u::85.4678]
+[AtomRadius::2.98]
+[Atom-Vol-ccm-mol::55.9]
+[Unknown2::2.16]
+[Radius-nm::4.177]
+[Electronegative::0.8]
+[Density::1.53]
+[MeltingPoint-C::38.89]
+[BoilingPoint-C::688]
+[HeatCapacity::0.363]
+[HeatConduct::0.582]
+[Enthalpy::2.192]
+[FormEnergy-kj-mol::72.216]
+(PeriodNo::5)
+(GroupNo::1)
+(Charge-e::37)
 #is_/same_as :: [[../../../WikiData/WD~Rubidium,895|WD~Rubidium,895]] 
 
 ## #has_/text_of_/abstract 

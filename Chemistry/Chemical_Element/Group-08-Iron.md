@@ -2,23 +2,6 @@
 aliases:
   - Group-08-Iron
 type: ElementGroup
-dv_is_:
-  same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron|Group-08-Iron]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron.public|Group-08-Iron.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron.internal|Group-08-Iron.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron.protect|Group-08-Iron.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron.private|Group-08-Iron.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron.personal|Group-08-Iron.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron.secret|Group-08-Iron.secret]]"
-dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron|Group-08-Iron]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron.public|Group-08-Iron.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron.internal|Group-08-Iron.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron.protect|Group-08-Iron.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron.private|Group-08-Iron.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron.personal|Group-08-Iron.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron.secret|Group-08-Iron.secret]]"
 ---
 
 #chemic/Group 

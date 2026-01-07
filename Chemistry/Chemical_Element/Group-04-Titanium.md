@@ -5,36 +5,17 @@ has_id_wikidata: Q189302
 Commons_category: Periodic table group 4
 Dewey_Decimal_Classification: 546.51
 has_part_s_:
-  - "[[_Standards/WikiData/WD~titanium,716]]"
-  - "[[_Standards/WikiData/WD~zirconium,1038]]"
-  - "[[_Standards/WikiData/WD~hafnium,1119]]"
-  - "[[_Standards/WikiData/WD~rutherfordium,1226]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-instance_of: "[[_Standards/WikiData/WD~group,83306]]"
-P8189: 987007538813205100
+  - '[[_Standards/WikiData/WD~titanium,716]]'
+  - '[[_Standards/WikiData/WD~zirconium,1038]]'
+  - '[[_Standards/WikiData/WD~hafnium,1119]]'
+  - '[[_Standards/WikiData/WD~rutherfordium,1226]]'
+  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~group,83306]]'
+P8189: 987007538813205171
 part_of:
-  - "[[_Standards/WikiData/WD~d_block,214503]]"
-  - "[[_Standards/WikiData/WD~periodic_table,10693]]"
+  - '[[_Standards/WikiData/WD~d_block,214503]]'
+  - '[[_Standards/WikiData/WD~periodic_table,10693]]'
 type: ElementGroup
-dv_is_:
-  same_as:
-    - "[[../../WikiData/WD~Group_4,189302]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium|Group-04-Titanium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium.public|Group-04-Titanium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium.internal|Group-04-Titanium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium.protect|Group-04-Titanium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium.private|Group-04-Titanium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium.personal|Group-04-Titanium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium.secret|Group-04-Titanium.secret]]"
-dv_is_same_as:
-  - "[[../../WikiData/WD~Group_4,189302]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium|Group-04-Titanium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium.public|Group-04-Titanium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium.internal|Group-04-Titanium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium.protect|Group-04-Titanium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium.private|Group-04-Titanium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium.personal|Group-04-Titanium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium.secret|Group-04-Titanium.secret]]"
 ---
 
 # [[Group-04-Titanium]] 

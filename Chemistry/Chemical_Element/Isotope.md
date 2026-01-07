@@ -3,13 +3,13 @@ aliases:
   - Isotop
   - Isotope
 has_id_wikidata: Q25276
-different_from: "[[_Standards/WikiData/WD~nuclide,108149]]"
-subclass_of: "[[_Standards/WikiData/WD~nuclide,108149]]"
-instance_of: "[[_Standards/WikiData/WD~second_order_class,24017414]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~introduction_to_isotopes,113332700]]"
+different_from: '[[_Standards/WikiData/WD~nuclide,108149]]'
+subclass_of: '[[_Standards/WikiData/WD~nuclide,108149]]'
+instance_of: '[[_Standards/WikiData/WD~second_order_class,24017414]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~introduction_to_isotopes,113332700]]'
 properties_for_this_type: natural abundance
-is_metaclass_for: "[[_Standards/WikiData/WD~chemical_element,11344]]"
-metasubclass_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+is_metaclass_for: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+metasubclass_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 OmegaWiki_Defined_Meaning: 2035
 Dewey_Decimal_Classification:
   - 539.723
@@ -28,30 +28,9 @@ IEV_number:
   - 881-02-37
 UMLS_CUI: C0022262
 MeSH_tree_code: D01.496
-Wolfram_Language_entity_code: Entity"Concept", "Isotope = `=this.dv_"Concept", "Isotope`
+Wolfram_Language_entity_code: Entity["Concept", "Isotope::nxqs5"]
 Commons_category: Isotopes
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/IZOTOPI.html
-dv_"Concept", "Isotope: nxqs5"
-dv_is_:
-  same_as:
-    - "[[../../WikiData/WD~Isotope,25276]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Isotope|Isotope]]"
-    - "[[/_public/Chemistry/Chemical_Element/Isotope.public|Isotope.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Isotope.internal|Isotope.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Isotope.protect|Isotope.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Isotope.private|Isotope.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Isotope.personal|Isotope.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Isotope.secret|Isotope.secret]]"
-dv_concept-isotope: nxqs5"
-dv_is_same_as:
-  - "[[../../WikiData/WD~Isotope,25276]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Isotope|Isotope]]"
-  - "[[/_public/Chemistry/Chemical_Element/Isotope.public|Isotope.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Isotope.internal|Isotope.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Isotope.protect|Isotope.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Isotope.private|Isotope.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Isotope.personal|Isotope.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Isotope.secret|Isotope.secret]]"
 ---
 
 #is_/same_as :: [[WD~Isotope,25276]] 

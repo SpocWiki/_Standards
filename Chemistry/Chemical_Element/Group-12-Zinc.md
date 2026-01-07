@@ -3,25 +3,6 @@ aliases:
   - Group-12-Zinc
 has_id_wikidata: Q191875
 type: ElementGroup
-dv_is_:
-  same_as:
-    - "[[../../WikiData/WD~Group_12,191875]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc|Group-12-Zinc]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-12-Zinc.public|Group-12-Zinc.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc.internal|Group-12-Zinc.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-12-Zinc.protect|Group-12-Zinc.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-12-Zinc.private|Group-12-Zinc.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc.personal|Group-12-Zinc.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc.secret|Group-12-Zinc.secret]]"
-dv_is_same_as:
-  - "[[../../WikiData/WD~Group_12,191875]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc|Group-12-Zinc]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-12-Zinc.public|Group-12-Zinc.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc.internal|Group-12-Zinc.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-12-Zinc.protect|Group-12-Zinc.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-12-Zinc.private|Group-12-Zinc.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc.personal|Group-12-Zinc.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc.secret|Group-12-Zinc.secret]]"
 ---
 
 # [[Group-12-Zinc]] 

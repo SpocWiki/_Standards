@@ -2,23 +2,6 @@
 aliases:
   - Group-02-Earth-Alkaline
 type: ElementGroup
-dv_is_:
-  same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.public|Group-02-Earth-Alkaline.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.internal|Group-02-Earth-Alkaline.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.protect|Group-02-Earth-Alkaline.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.private|Group-02-Earth-Alkaline.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.personal|Group-02-Earth-Alkaline.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.secret|Group-02-Earth-Alkaline.secret]]"
-dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.public|Group-02-Earth-Alkaline.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.internal|Group-02-Earth-Alkaline.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.protect|Group-02-Earth-Alkaline.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.private|Group-02-Earth-Alkaline.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.personal|Group-02-Earth-Alkaline.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.secret|Group-02-Earth-Alkaline.secret]]"
 ---
 
 #chemic/Group 
