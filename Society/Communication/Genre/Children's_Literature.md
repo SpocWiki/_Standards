@@ -1,5 +1,8 @@
 ---
 aliases:
+  - Children's Literature
+  - Kinder- und Jugendliteratur
+  - KJL
 has_id_wikidata: Q131539
 instance_of:
   - "[[_Standards/WikiData/WD~literary_genre,223393]]"
