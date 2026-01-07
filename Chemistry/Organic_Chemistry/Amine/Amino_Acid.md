@@ -58,10 +58,14 @@ MeSH_tree_code: D12.125
 # [[Amino_Acid]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Amino_acid,8066|WD~Amino_acid,8066]] 
+#has_/formula_/structural :: R-CH(NH²)-(C=O)-OH
 
 ## #has_/text_of_/abstract 
 
-> Amino acids are organic compounds that contain both amino and carboxylic acid functional groups. 
+> Amino acids are organic compounds that contain 
+> - both amino 
+> - and carboxylic acid functional groups.
+> 
 > Although over 500 amino acids exist in nature, 
 > by far the most important are the 22 α-amino acids incorporated into proteins. 
 > Only these 22 appear in the genetic code of life.
