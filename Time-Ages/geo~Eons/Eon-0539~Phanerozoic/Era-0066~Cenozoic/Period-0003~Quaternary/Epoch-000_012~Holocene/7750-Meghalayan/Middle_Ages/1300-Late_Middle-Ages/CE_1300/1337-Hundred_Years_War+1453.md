@@ -90,17 +90,17 @@ Wolfram_Language_entity_code: Entity["MilitaryConflict", "HundredYearsWar"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[1337-Hundred_Years_War+1453|1337-Hundred_Years_War+1453]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453|1337-Hundred_Years_War+1453]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.public|1337-Hundred_Years_War+1453.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.public|1337-Hundred_Years_War+1453.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.internal|1337-Hundred_Years_War+1453.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.internal|1337-Hundred_Years_War+1453.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.protect|1337-Hundred_Years_War+1453.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.protect|1337-Hundred_Years_War+1453.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.private|1337-Hundred_Years_War+1453.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.private|1337-Hundred_Years_War+1453.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.personal|1337-Hundred_Years_War+1453.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.personal|1337-Hundred_Years_War+1453.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.secret|1337-Hundred_Years_War+1453.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.secret|1337-Hundred_Years_War+1453.secret]] 
 

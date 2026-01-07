@@ -37,17 +37,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Fourth_Estate|Fourth_Estate]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate|Fourth_Estate]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.public|Fourth_Estate.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.public|Fourth_Estate.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.internal|Fourth_Estate.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.internal|Fourth_Estate.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.protect|Fourth_Estate.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.protect|Fourth_Estate.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.private|Fourth_Estate.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.private|Fourth_Estate.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.personal|Fourth_Estate.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.personal|Fourth_Estate.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/Fourth_Estate.secret|Fourth_Estate.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.secret|Fourth_Estate.secret]] 
 

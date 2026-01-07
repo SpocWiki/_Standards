@@ -61,17 +61,17 @@ native_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur|Yom_Kippur]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Yom_Kippur|Yom_Kippur]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.public|Yom_Kippur.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Yom_Kippur.public|Yom_Kippur.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.internal|Yom_Kippur.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Yom_Kippur.internal|Yom_Kippur.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.protect|Yom_Kippur.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Yom_Kippur.protect|Yom_Kippur.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.private|Yom_Kippur.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Yom_Kippur.private|Yom_Kippur.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.personal|Yom_Kippur.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Yom_Kippur.personal|Yom_Kippur.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Yom_Kippur.secret|Yom_Kippur.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Yom_Kippur.secret|Yom_Kippur.secret]] 
 

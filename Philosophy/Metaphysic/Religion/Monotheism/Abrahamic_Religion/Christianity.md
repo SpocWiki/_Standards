@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 0033-01-01 
 aliases:
   - Christentum
@@ -114,17 +114,17 @@ Mastodon_instance_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity|Christianity]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity|Christianity]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity.public|Christianity.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity.public|Christianity.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity.internal|Christianity.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity.internal|Christianity.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity.protect|Christianity.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity.protect|Christianity.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity.private|Christianity.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity.private|Christianity.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity.personal|Christianity.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity.personal|Christianity.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity.secret|Christianity.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity.secret|Christianity.secret]] 
 

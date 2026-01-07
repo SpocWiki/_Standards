@@ -118,17 +118,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Eon-4031~Archean|Eon~2~Archean]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~2~Archean.public|Eon~2~Archean.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~2~Archean.internal|Eon~2~Archean.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~2~Archean.protect|Eon~2~Archean.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean.protect|Eon-4031~Archean.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~2~Archean.private|Eon~2~Archean.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-4031~Archean.private|Eon-4031~Archean.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~2~Archean.personal|Eon~2~Archean.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean.personal|Eon-4031~Archean.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~2~Archean.secret|Eon~2~Archean.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean.secret|Eon-4031~Archean.secret]] 
 

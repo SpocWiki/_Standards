@@ -54,17 +54,17 @@ date_of_birth: 1496-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons|Menno_Simons]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons|Menno_Simons]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.public|Menno_Simons.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.public|Menno_Simons.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.internal|Menno_Simons.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.internal|Menno_Simons.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.protect|Menno_Simons.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.protect|Menno_Simons.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.private|Menno_Simons.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.private|Menno_Simons.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.personal|Menno_Simons.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.personal|Menno_Simons.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.secret|Menno_Simons.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Protestantism/Menno_Simons.secret|Menno_Simons.secret]] 
 

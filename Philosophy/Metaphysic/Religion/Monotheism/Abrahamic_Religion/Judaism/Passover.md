@@ -67,17 +67,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PESAH.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Passover|Passover]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Passover|Passover]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Passover.public|Passover.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Passover.public|Passover.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Passover.internal|Passover.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Passover.internal|Passover.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Passover.protect|Passover.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Passover.protect|Passover.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Passover.private|Passover.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Passover.private|Passover.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Passover.personal|Passover.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Passover.personal|Passover.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Judaism/Passover.secret|Passover.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Passover.secret|Passover.secret]] 
 

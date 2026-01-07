@@ -116,17 +116,17 @@ ISNI: "0000000122432187"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican|Dominican]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican|Dominican]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.public|Dominican.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.public|Dominican.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.internal|Dominican.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.internal|Dominican.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.protect|Dominican.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.protect|Dominican.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.private|Dominican.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.private|Dominican.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.personal|Dominican.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.personal|Dominican.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.secret|Dominican.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Dominican.secret|Dominican.secret]] 
 

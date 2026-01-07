@@ -101,17 +101,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Age~3~Emsian|Age~3~Emsian]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.public|Age~3~Emsian.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.public|Age~3~Emsian.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.internal|Age~3~Emsian.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.internal|Age~3~Emsian.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.protect|Age~3~Emsian.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.protect|Age~3~Emsian.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.private|Age~3~Emsian.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.private|Age~3~Emsian.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.personal|Age~3~Emsian.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.personal|Age~3~Emsian.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.secret|Age~3~Emsian.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~3~Emsian.secret|Age~3~Emsian.secret]] 
 

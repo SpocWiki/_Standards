@@ -147,8 +147,6 @@ Universal_Decimal_Classification: 323.12(=411.16)
 - 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism|Antisemitism]] 

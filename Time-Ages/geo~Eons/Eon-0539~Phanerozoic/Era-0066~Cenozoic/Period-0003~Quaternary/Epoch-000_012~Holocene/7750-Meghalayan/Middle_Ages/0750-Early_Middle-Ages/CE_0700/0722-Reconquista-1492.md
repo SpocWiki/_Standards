@@ -108,17 +108,17 @@ Krugosvet_article_archived_: istoriya/rekonkista
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[0722-Reconquista-1492|0722-Reconquista-1492]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492|0722-Reconquista-1492]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.public|0722-Reconquista-1492.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.public|0722-Reconquista-1492.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.internal|0722-Reconquista-1492.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.internal|0722-Reconquista-1492.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.protect|0722-Reconquista-1492.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.protect|0722-Reconquista-1492.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.private|0722-Reconquista-1492.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.private|0722-Reconquista-1492.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.personal|0722-Reconquista-1492.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.personal|0722-Reconquista-1492.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.secret|0722-Reconquista-1492.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0722-Reconquista-1492.secret|0722-Reconquista-1492.secret]] 
 

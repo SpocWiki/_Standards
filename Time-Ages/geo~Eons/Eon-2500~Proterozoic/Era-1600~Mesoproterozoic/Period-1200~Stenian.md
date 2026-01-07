@@ -183,17 +183,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Period-1200~Stenian|Period-1200~Stenian]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian|Period-1200~Stenian]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.public|Period~3~Stenian.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.public|Period-1200~Stenian.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.internal|Period~3~Stenian.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.internal|Period-1200~Stenian.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.protect|Period~3~Stenian.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.protect|Period-1200~Stenian.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.private|Period~3~Stenian.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.private|Period-1200~Stenian.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.personal|Period~3~Stenian.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.personal|Period-1200~Stenian.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.secret|Period~3~Stenian.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1200~Stenian.secret|Period-1200~Stenian.secret]] 
 

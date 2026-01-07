@@ -100,17 +100,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Age-485~Tremadocian|Age-485~Tremadocian]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.public|Age~1~Tremadocian.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.public|Age-485~Tremadocian.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.internal|Age~1~Tremadocian.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.internal|Age-485~Tremadocian.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.protect|Age~1~Tremadocian.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.protect|Age-485~Tremadocian.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.private|Age~1~Tremadocian.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.private|Age-485~Tremadocian.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.personal|Age~1~Tremadocian.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.personal|Age-485~Tremadocian.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.secret|Age~1~Tremadocian.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.secret|Age-485~Tremadocian.secret]] 
 

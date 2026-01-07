@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.0 , 30.0 ] 
 aliases:
 has_id_wikidata: Q180568
@@ -61,17 +61,17 @@ OpenStreetMap_tag: historic:period=new_kingdom
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[-1550-New_Kingdom_of_Egypt-1077|-1550-New_Kingdom_of_Egypt-1077]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077|-1550-New_Kingdom_of_Egypt-1077]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.public|-1550-New_Kingdom_of_Egypt-1077.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.public|-1550-New_Kingdom_of_Egypt-1077.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.internal|-1550-New_Kingdom_of_Egypt-1077.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.internal|-1550-New_Kingdom_of_Egypt-1077.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.protect|-1550-New_Kingdom_of_Egypt-1077.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.protect|-1550-New_Kingdom_of_Egypt-1077.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.private|-1550-New_Kingdom_of_Egypt-1077.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.private|-1550-New_Kingdom_of_Egypt-1077.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.personal|-1550-New_Kingdom_of_Egypt-1077.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.personal|-1550-New_Kingdom_of_Egypt-1077.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.secret|-1550-New_Kingdom_of_Egypt-1077.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.secret|-1550-New_Kingdom_of_Egypt-1077.secret]] 
 

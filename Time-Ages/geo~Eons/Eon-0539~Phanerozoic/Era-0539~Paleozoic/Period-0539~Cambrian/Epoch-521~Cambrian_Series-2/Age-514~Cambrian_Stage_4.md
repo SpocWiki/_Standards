@@ -102,17 +102,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.public|Age~2~Cambrian-Stage-4.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.public|Age-514~Cambrian_Stage_4.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.internal|Age~2~Cambrian-Stage-4.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.internal|Age-514~Cambrian_Stage_4.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.protect|Age~2~Cambrian-Stage-4.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.protect|Age-514~Cambrian_Stage_4.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.private|Age~2~Cambrian-Stage-4.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.private|Age-514~Cambrian_Stage_4.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.personal|Age~2~Cambrian-Stage-4.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.personal|Age-514~Cambrian_Stage_4.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~2~Cambrian_Series-2/Age~2~Cambrian-Stage-4.secret|Age~2~Cambrian-Stage-4.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4.secret|Age-514~Cambrian_Stage_4.secret]] 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2005-01-01 
 aliases:
 has_id_wikidata: Q2671570
@@ -41,17 +41,17 @@ inception: 2005-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Dudeism|Dudeism]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Dudeism|Dudeism]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Dudeism.public|Dudeism.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Dudeism.public|Dudeism.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Dudeism.internal|Dudeism.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Dudeism.internal|Dudeism.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Dudeism.protect|Dudeism.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Dudeism.protect|Dudeism.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Dudeism.private|Dudeism.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Dudeism.private|Dudeism.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Dudeism.personal|Dudeism.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Dudeism.personal|Dudeism.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Dudeism.secret|Dudeism.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Dudeism.secret|Dudeism.secret]] 
 

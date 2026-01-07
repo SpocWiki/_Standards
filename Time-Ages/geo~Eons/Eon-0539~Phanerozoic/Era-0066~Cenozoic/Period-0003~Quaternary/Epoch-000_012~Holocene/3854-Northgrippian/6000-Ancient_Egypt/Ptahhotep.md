@@ -37,17 +37,17 @@ date_of_birth: -2450-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Ptahhotep|Ptahhotep]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep|Ptahhotep]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.public|Ptahhotep.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.public|Ptahhotep.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.internal|Ptahhotep.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.internal|Ptahhotep.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.protect|Ptahhotep.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.protect|Ptahhotep.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.private|Ptahhotep.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.private|Ptahhotep.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.personal|Ptahhotep.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.personal|Ptahhotep.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.secret|Ptahhotep.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt/Ptahhotep.secret|Ptahhotep.secret]] 
 

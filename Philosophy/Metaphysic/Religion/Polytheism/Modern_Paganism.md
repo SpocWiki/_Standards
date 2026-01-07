@@ -57,17 +57,17 @@ Dewey_Decimal_Classification: "299.94"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Modern_Paganism|Modern_Paganism]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Polytheism/Modern_Paganism|Modern_Paganism]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Modern_Paganism.public|Modern_Paganism.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Polytheism/Modern_Paganism.public|Modern_Paganism.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Modern_Paganism.internal|Modern_Paganism.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Polytheism/Modern_Paganism.internal|Modern_Paganism.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Modern_Paganism.protect|Modern_Paganism.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Polytheism/Modern_Paganism.protect|Modern_Paganism.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Modern_Paganism.private|Modern_Paganism.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Polytheism/Modern_Paganism.private|Modern_Paganism.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Modern_Paganism.personal|Modern_Paganism.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Polytheism/Modern_Paganism.personal|Modern_Paganism.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Modern_Paganism.secret|Modern_Paganism.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Polytheism/Modern_Paganism.secret|Modern_Paganism.secret]] 
 

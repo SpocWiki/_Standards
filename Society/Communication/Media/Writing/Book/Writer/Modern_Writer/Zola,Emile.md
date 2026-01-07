@@ -135,3 +135,19 @@ P1015: "90054100"
 > [Wikipedia](https://en.wikipedia.org/wiki/%C3%89mile%20Zola) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Zola,Emile|Zola,Emile]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Zola,Emile.public|Zola,Emile.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Zola,Emile.internal|Zola,Emile.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Zola,Emile.protect|Zola,Emile.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Zola,Emile.private|Zola,Emile.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Zola,Emile.personal|Zola,Emile.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Zola,Emile.secret|Zola,Emile.secret]] 
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.389 , 52.052 ] 
 aliases:
   - German Democratic Republic
@@ -190,17 +190,17 @@ GitHub_topic: german-democratic-republic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[1949-German_Democratic_Republic+1990|1949-German_Democratic_Republic+1990]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990|1949-German_Democratic_Republic+1990]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.public|1949-German_Democratic_Republic+1990.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.public|1949-German_Democratic_Republic+1990.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.internal|1949-German_Democratic_Republic+1990.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.internal|1949-German_Democratic_Republic+1990.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.protect|1949-German_Democratic_Republic+1990.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.protect|1949-German_Democratic_Republic+1990.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.private|1949-German_Democratic_Republic+1990.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.private|1949-German_Democratic_Republic+1990.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.personal|1949-German_Democratic_Republic+1990.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.personal|1949-German_Democratic_Republic+1990.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.secret|1949-German_Democratic_Republic+1990.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1949-German_Democratic_Republic+1990.secret|1949-German_Democratic_Republic+1990.secret]] 
 

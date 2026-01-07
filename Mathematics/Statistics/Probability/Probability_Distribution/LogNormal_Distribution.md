@@ -16,8 +16,6 @@ When the Contributions multiply you get a
 - 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/LogNormal_Distribution|LogNormal_Distribution]] 

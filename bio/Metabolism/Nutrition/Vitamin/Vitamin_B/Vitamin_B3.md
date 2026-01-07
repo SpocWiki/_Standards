@@ -41,17 +41,17 @@ UMLS_CUI: C0027996
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Vitamin_B3|Vitamin_B3]] 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3|Vitamin_B3]] 
 
-### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.public|Niacin.public]] 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3.public|Vitamin_B3.public]] 
 
-### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.internal|Niacin.internal]] 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3.internal|Vitamin_B3.internal]] 
 
-### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.protect|Niacin.protect]] 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3.protect|Vitamin_B3.protect]] 
 
-### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.private|Niacin.private]] 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3.private|Vitamin_B3.private]] 
 
-### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.personal|Niacin.personal]] 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3.personal|Vitamin_B3.personal]] 
 
-### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin.secret|Niacin.secret]] 
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3.secret|Vitamin_B3.secret]] 
 

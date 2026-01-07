@@ -101,17 +101,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Era-2500~Paleoproterozoic|Era~1~Paleoproterozoic]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic|Era-2500~Paleoproterozoic]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.public|Era~1~Paleoproterozoic.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.public|Era-2500~Paleoproterozoic.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.internal|Era~1~Paleoproterozoic.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.internal|Era-2500~Paleoproterozoic.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.protect|Era~1~Paleoproterozoic.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.protect|Era-2500~Paleoproterozoic.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.private|Era~1~Paleoproterozoic.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.private|Era-2500~Paleoproterozoic.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.personal|Era~1~Paleoproterozoic.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.personal|Era-2500~Paleoproterozoic.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.secret|Era~1~Paleoproterozoic.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic.secret|Era-2500~Paleoproterozoic.secret]] 
 

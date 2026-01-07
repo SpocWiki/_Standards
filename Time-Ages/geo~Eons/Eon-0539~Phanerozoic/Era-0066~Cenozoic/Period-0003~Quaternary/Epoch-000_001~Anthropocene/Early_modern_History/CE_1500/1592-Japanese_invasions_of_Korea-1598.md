@@ -64,17 +64,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Siege-of-Busanjin-1592
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[1592-Japanese_invasions_of_Korea-1598|1592-Japanese_invasions_of_Korea-1598]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598|1592-Japanese_invasions_of_Korea-1598]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.public|1592-Japanese_invasions_of_Korea-1598.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.public|1592-Japanese_invasions_of_Korea-1598.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.internal|1592-Japanese_invasions_of_Korea-1598.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.internal|1592-Japanese_invasions_of_Korea-1598.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.protect|1592-Japanese_invasions_of_Korea-1598.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.protect|1592-Japanese_invasions_of_Korea-1598.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.private|1592-Japanese_invasions_of_Korea-1598.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.private|1592-Japanese_invasions_of_Korea-1598.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.personal|1592-Japanese_invasions_of_Korea-1598.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.personal|1592-Japanese_invasions_of_Korea-1598.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.secret|1592-Japanese_invasions_of_Korea-1598.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1500/1592-Japanese_invasions_of_Korea-1598.secret|1592-Japanese_invasions_of_Korea-1598.secret]] 
 

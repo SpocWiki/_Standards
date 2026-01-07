@@ -125,17 +125,17 @@ ISNI: 121428944
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola|Ignatius_of_Loyola]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola|Ignatius_of_Loyola]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.public|Ignatius_of_Loyola.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.public|Ignatius_of_Loyola.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.internal|Ignatius_of_Loyola.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.internal|Ignatius_of_Loyola.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.protect|Ignatius_of_Loyola.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.protect|Ignatius_of_Loyola.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.private|Ignatius_of_Loyola.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.private|Ignatius_of_Loyola.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.personal|Ignatius_of_Loyola.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.personal|Ignatius_of_Loyola.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.secret|Ignatius_of_Loyola.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Jesuit/Ignatius_of_Loyola.secret|Ignatius_of_Loyola.secret]] 
 

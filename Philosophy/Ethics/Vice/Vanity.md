@@ -37,17 +37,17 @@ Dewey_Decimal_Classification: "155.232"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Vanity|Vanity]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Vice/Vanity|Vanity]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Ethics/Vanity.public|Vanity.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Vice/Vanity.public|Vanity.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Ethics/Vanity.internal|Vanity.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Vice/Vanity.internal|Vanity.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Ethics/Vanity.protect|Vanity.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Vice/Vanity.protect|Vanity.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Ethics/Vanity.private|Vanity.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Vice/Vanity.private|Vanity.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Ethics/Vanity.personal|Vanity.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Vice/Vanity.personal|Vanity.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Ethics/Vanity.secret|Vanity.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Vice/Vanity.secret|Vanity.secret]] 
 

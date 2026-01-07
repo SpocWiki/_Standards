@@ -90,17 +90,17 @@ Dewey_Decimal_Classification: 294.3927
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen|Zen]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Zen|Zen]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.public|Zen.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Zen.public|Zen.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.internal|Zen.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Zen.internal|Zen.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.protect|Zen.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Zen.protect|Zen.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.private|Zen.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Zen.private|Zen.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.personal|Zen.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Zen.personal|Zen.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.secret|Zen.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Nontheism/Natural_Law_Religion/Buddhism/Zen.secret|Zen.secret]] 
 

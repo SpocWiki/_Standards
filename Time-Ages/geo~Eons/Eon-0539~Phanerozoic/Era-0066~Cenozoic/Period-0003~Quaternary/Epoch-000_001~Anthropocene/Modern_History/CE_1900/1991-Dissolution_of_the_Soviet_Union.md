@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 90.0 , 65.0 ] 
 aliases:
 has_id_wikidata: Q5167679
@@ -105,17 +105,17 @@ short_name: Dezmembrarea URSS
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[1991-Dissolution_of_the_Soviet_Union|1991-Dissolution_of_the_Soviet_Union]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union|1991-Dissolution_of_the_Soviet_Union]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.public|1991-Dissolution_of_the_Soviet_Union.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.public|1991-Dissolution_of_the_Soviet_Union.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.internal|1991-Dissolution_of_the_Soviet_Union.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.internal|1991-Dissolution_of_the_Soviet_Union.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.protect|1991-Dissolution_of_the_Soviet_Union.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.protect|1991-Dissolution_of_the_Soviet_Union.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.private|1991-Dissolution_of_the_Soviet_Union.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.private|1991-Dissolution_of_the_Soviet_Union.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.personal|1991-Dissolution_of_the_Soviet_Union.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.personal|1991-Dissolution_of_the_Soviet_Union.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.secret|1991-Dissolution_of_the_Soviet_Union.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.secret|1991-Dissolution_of_the_Soviet_Union.secret]] 
 

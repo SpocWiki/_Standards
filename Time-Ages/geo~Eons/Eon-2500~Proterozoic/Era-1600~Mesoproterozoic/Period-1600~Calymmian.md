@@ -104,17 +104,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Period-1600~Calymmian|Period-1600~Calymmian]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.public|Period~1~Calymmian.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.public|Period-1600~Calymmian.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.internal|Period~1~Calymmian.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.internal|Period-1600~Calymmian.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.protect|Period~1~Calymmian.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.protect|Period-1600~Calymmian.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.private|Period~1~Calymmian.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.private|Period-1600~Calymmian.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.personal|Period~1~Calymmian.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.personal|Period-1600~Calymmian.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.secret|Period~1~Calymmian.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.secret|Period-1600~Calymmian.secret]] 
 

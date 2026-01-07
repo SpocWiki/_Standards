@@ -49,3 +49,19 @@ end_time: -4520000000-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Theia%20(hypothetical%20planet)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet)|Theia(Planet)]] 
+
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).public|Theia(Planet).public]] 
+
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).internal|Theia(Planet).internal]] 
+
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).protect|Theia(Planet).protect]] 
+
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).private|Theia(Planet).private]] 
+
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).personal|Theia(Planet).personal]] 
+
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).secret|Theia(Planet).secret]] 
+

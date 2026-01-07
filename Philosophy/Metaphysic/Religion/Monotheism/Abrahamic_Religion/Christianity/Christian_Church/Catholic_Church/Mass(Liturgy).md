@@ -41,17 +41,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy)|Mass(Liturgy)]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy)|Mass(Liturgy)]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).public|Mass(Liturgy).public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).public|Mass(Liturgy).public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).internal|Mass(Liturgy).internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).internal|Mass(Liturgy).internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).protect|Mass(Liturgy).protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).protect|Mass(Liturgy).protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).private|Mass(Liturgy).private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).private|Mass(Liturgy).private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).personal|Mass(Liturgy).personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).personal|Mass(Liturgy).personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).secret|Mass(Liturgy).secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass(Liturgy).secret|Mass(Liturgy).secret]] 
 

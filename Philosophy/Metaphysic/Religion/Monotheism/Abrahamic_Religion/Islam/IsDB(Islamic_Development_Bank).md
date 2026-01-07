@@ -49,17 +49,17 @@ official_name: البنك الإسلامي للتنمية
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank)|IsDB(Islamic_Development_Bank)]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank)|IsDB(Islamic_Development_Bank)]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).public|IsDB(Islamic_Development_Bank).public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).public|IsDB(Islamic_Development_Bank).public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).internal|IsDB(Islamic_Development_Bank).internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).internal|IsDB(Islamic_Development_Bank).internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).protect|IsDB(Islamic_Development_Bank).protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).protect|IsDB(Islamic_Development_Bank).protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).private|IsDB(Islamic_Development_Bank).private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).private|IsDB(Islamic_Development_Bank).private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).personal|IsDB(Islamic_Development_Bank).personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).personal|IsDB(Islamic_Development_Bank).personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).secret|IsDB(Islamic_Development_Bank).secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/IsDB(Islamic_Development_Bank).secret|IsDB(Islamic_Development_Bank).secret]] 
 

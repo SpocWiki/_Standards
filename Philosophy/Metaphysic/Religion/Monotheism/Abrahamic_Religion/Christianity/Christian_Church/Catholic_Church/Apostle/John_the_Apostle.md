@@ -101,17 +101,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/IOANN_BOGOSLOV_SV.ht
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle|John_the_Apostle]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle|John_the_Apostle]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.public|John_the_Apostle.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.public|John_the_Apostle.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.internal|John_the_Apostle.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.internal|John_the_Apostle.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.protect|John_the_Apostle.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.protect|John_the_Apostle.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.private|John_the_Apostle.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.private|John_the_Apostle.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.personal|John_the_Apostle.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.personal|John_the_Apostle.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.secret|John_the_Apostle.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Apostle/John_the_Apostle.secret|John_the_Apostle.secret]] 
 

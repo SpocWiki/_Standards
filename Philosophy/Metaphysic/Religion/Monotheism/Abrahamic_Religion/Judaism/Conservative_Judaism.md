@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1900-01-01 
 aliases:
 has_id_wikidata: Q205644
@@ -32,17 +32,17 @@ OpenStreetMap_tag_or_key: Tag:denomination=conservative
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Conservative_Judaism|Conservative_Judaism]] 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Conservative_Judaism|Conservative_Judaism]] 
 
-### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Conservative_Judaism.public|Conservative_Judaism.public]] 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Conservative_Judaism.public|Conservative_Judaism.public]] 
 
-### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Conservative_Judaism.internal|Conservative_Judaism.internal]] 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Conservative_Judaism.internal|Conservative_Judaism.internal]] 
 
-### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Conservative_Judaism.protect|Conservative_Judaism.protect]] 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Conservative_Judaism.protect|Conservative_Judaism.protect]] 
 
-### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Conservative_Judaism.private|Conservative_Judaism.private]] 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Conservative_Judaism.private|Conservative_Judaism.private]] 
 
-### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Conservative_Judaism.personal|Conservative_Judaism.personal]] 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Conservative_Judaism.personal|Conservative_Judaism.personal]] 
 
-### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Conservative_Judaism.secret|Conservative_Judaism.secret]] 
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Judaism/Conservative_Judaism.secret|Conservative_Judaism.secret]] 
 

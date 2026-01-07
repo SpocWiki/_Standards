@@ -140,17 +140,17 @@ ISNI: 0000000115203458
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[SS(Schutzstaffel)|SS(Schutzstaffel)]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel)|SS(Schutzstaffel)]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).public|SS(Schutzstaffel).public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).public|SS(Schutzstaffel).public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).internal|SS(Schutzstaffel).internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).internal|SS(Schutzstaffel).internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).protect|SS(Schutzstaffel).protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).protect|SS(Schutzstaffel).protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).private|SS(Schutzstaffel).private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).private|SS(Schutzstaffel).private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).personal|SS(Schutzstaffel).personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).personal|SS(Schutzstaffel).personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).secret|SS(Schutzstaffel).secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).secret|SS(Schutzstaffel).secret]] 
 

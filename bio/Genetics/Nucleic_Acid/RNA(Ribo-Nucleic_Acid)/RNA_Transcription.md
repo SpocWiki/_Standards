@@ -41,9 +41,6 @@
    A protein that assists in the binding of RNA polymerase to the promoter and the subsequent initiation of transcription.
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/RNA_Transcription|RNA_Transcription]] 

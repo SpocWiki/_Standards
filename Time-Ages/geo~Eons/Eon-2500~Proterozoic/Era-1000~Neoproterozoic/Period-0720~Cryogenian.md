@@ -107,17 +107,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Period-0720~Cryogenian|Period-0720~Cryogenian]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian|Period-0720~Cryogenian]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.public|Period~2~Cryogenian.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.public|Period-0720~Cryogenian.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.internal|Period~2~Cryogenian.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.internal|Period-0720~Cryogenian.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.protect|Period~2~Cryogenian.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.protect|Period-0720~Cryogenian.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.private|Period~2~Cryogenian.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.private|Period-0720~Cryogenian.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.personal|Period~2~Cryogenian.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.personal|Period-0720~Cryogenian.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.secret|Period~2~Cryogenian.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0720~Cryogenian.secret|Period-0720~Cryogenian.secret]] 
 

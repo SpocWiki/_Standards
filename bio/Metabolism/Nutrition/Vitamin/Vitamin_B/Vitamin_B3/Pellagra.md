@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Pellagra|Pellagra]] 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3/Pellagra|Pellagra]] 
 
-### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin/Pellagra.public|Pellagra.public]] 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3/Pellagra.public|Pellagra.public]] 
 
-### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin/Pellagra.internal|Pellagra.internal]] 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3/Pellagra.internal|Pellagra.internal]] 
 
-### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin/Pellagra.protect|Pellagra.protect]] 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3/Pellagra.protect|Pellagra.protect]] 
 
-### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin/Pellagra.private|Pellagra.private]] 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3/Pellagra.private|Pellagra.private]] 
 
-### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin/Pellagra.personal|Pellagra.personal]] 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3/Pellagra.personal|Pellagra.personal]] 
 
-### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Niacin/Pellagra.secret|Pellagra.secret]] 
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_B/Vitamin_B3/Pellagra.secret|Pellagra.secret]] 
 

@@ -56,3 +56,20 @@ Commons_category: Pogroms
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pogrom) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Pogrom|Pogrom]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Pogrom.public|Pogrom.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Pogrom.internal|Pogrom.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Pogrom.protect|Pogrom.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Pogrom.private|Pogrom.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Pogrom.personal|Pogrom.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Pogrom.secret|Pogrom.secret]] 
+

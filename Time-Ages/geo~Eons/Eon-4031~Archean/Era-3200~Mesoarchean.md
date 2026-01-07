@@ -98,17 +98,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Era-3200~Mesoarchean|Era~3~Mesoarchean]] 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean|Era-3200~Mesoarchean]] 
 
-### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.public|Era~3~Mesoarchean.public]] 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.public|Era-3200~Mesoarchean.public]] 
 
-### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.internal|Era~3~Mesoarchean.internal]] 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.internal|Era-3200~Mesoarchean.internal]] 
 
-### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.protect|Era~3~Mesoarchean.protect]] 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.protect|Era-3200~Mesoarchean.protect]] 
 
-### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.private|Era~3~Mesoarchean.private]] 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.private|Era-3200~Mesoarchean.private]] 
 
-### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.personal|Era~3~Mesoarchean.personal]] 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.personal|Era-3200~Mesoarchean.personal]] 
 
-### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.secret|Era~3~Mesoarchean.secret]] 
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.secret|Era-3200~Mesoarchean.secret]] 
 

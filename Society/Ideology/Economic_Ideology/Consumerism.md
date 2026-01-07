@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2000-01-01 
 aliases:
 has_id_wikidata: Q89640
@@ -64,4 +64,21 @@ This drives the [[Experience Economy]] and [[Entertainment Industry]] as well as
 > - creation of inequalities.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Consumerism) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Ideology/Economic_Ideology/Consumerism|Consumerism]] 
+
+### #is_/same_as :: [[/_public/Society/Ideology/Economic_Ideology/Consumerism.public|Consumerism.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Ideology/Economic_Ideology/Consumerism.internal|Consumerism.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Ideology/Economic_Ideology/Consumerism.protect|Consumerism.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Ideology/Economic_Ideology/Consumerism.private|Consumerism.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Ideology/Economic_Ideology/Consumerism.personal|Consumerism.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Ideology/Economic_Ideology/Consumerism.secret|Consumerism.secret]] 
 

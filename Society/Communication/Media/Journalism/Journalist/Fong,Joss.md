@@ -20,8 +20,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Joss%20Fong%20in%20the
 Fong was a founding Member of Vox, but left it after 9 years to create her own channel. 
 
 
-
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist/Fong,Joss|Fong,Joss]] 
