@@ -70,7 +70,7 @@ Commons_category: Early Middle Ages
 > Barbarian migration stabilized in much of Europe, 
 > although the Viking expansion greatly affected Northern Europe.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Middle%20Ages) 
+> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Middle%20Ages)
 
 
 ## Edit
