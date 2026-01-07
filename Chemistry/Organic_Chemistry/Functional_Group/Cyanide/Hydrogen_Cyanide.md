@@ -1,0 +1,158 @@
+---
+aliases:
+  - hydrogen cyanide
+  - prussic acid
+has_id_wikidata: Q26075
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl Wilhelm Scheele,70538]]"
+found_in_taxon:
+  - "[[_Standards/WikiData/WD~Manihot esculenta,83124]]"
+  - "[[_Standards/WikiData/WD~Trifolium repens,148675]]"
+  - "[[_Standards/WikiData/WD~Euphorbiaceae,156584]]"
+  - "[[_Standards/WikiData/WD~Aronia melanocarpa,162774]]"
+  - "[[_Standards/WikiData/WD~Prunus avium,165137]]"
+  - "[[_Standards/WikiData/WD~Nicotiana tabacum,181095]]"
+  - "[[_Standards/WikiData/WD~Vigna umbellata,1368391]]"
+  - "[[_Standards/WikiData/WD~Canavalia ensiformis,1677262]]"
+  - "[[_Standards/WikiData/WD~Canavalia gladiata,1937714]]"
+  - "[[_Standards/WikiData/WD~Spongiidae,2312061]]"
+  - "[[_Standards/WikiData/WD~Passiflora capsularis,3437553]]"
+  - "[[_Standards/WikiData/WD~Trifolium semipilosum,3539126]]"
+  - "[[_Standards/WikiData/WD~Clostridium pasteurianum,3681124]]"
+  - "[[_Standards/WikiData/WD~Eucalyptus cladocalyx,5405566]]"
+  - "[[_Standards/WikiData/WD~Mucuna curranii,15472749]]"
+  - "[[_Standards/WikiData/WD~Canavalia africana,15527917]]"
+  - "[[_Standards/WikiData/WD~Prunus persica,13189]]"
+  - "[[_Standards/WikiData/WD~Escherichia coli,25419]]"
+  - "[[_Standards/WikiData/WD~Prunus armeniaca,37453]]"
+  - "[[_Standards/WikiData/WD~Prunus dulcis,39918]]"
+  - "[[_Standards/WikiData/WD~Linum usitatissimum,45108]]"
+different_from:
+  - "[[_Standards/WikiData/WD~Zyklon B,152409]]"
+  - "[[_Standards/WikiData/WD~hydrocyanic acid,20754997]]"
+conjugate_base: "[[_Standards/WikiData/WD~cyanide anion,185076]]"
+has_use:
+  - "[[_Standards/WikiData/WD~gas chamber,205348]]"
+  - "[[_Standards/WikiData/WD~chemical warfare agent,21973549]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~nitrile,333936]]"
+  - "[[_Standards/WikiData/WD~monoprotic acid,4272322]]"
+  - "[[_Standards/WikiData/WD~carbon acid,11567135]]"
+has_characteristic:
+  - "[[_Standards/WikiData/WD~odor,485537]]"
+  - "[[_Standards/WikiData/WD~bitterness,1517187]]"
+  - "[[_Standards/WikiData/WD~Class IA flammable liquid,21009053]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+tautomer_of: "[[_Standards/WikiData/WD~hydrogen isocyanide,1107746]]"
+conjugate_acid: "[[_Standards/WikiData/WD~protonated hydrogen cyanide,3008064]]"
+subject_has_role:
+  - "[[_Standards/WikiData/WD~primary metabolite,3333419]]"
+  - "[[_Standards/WikiData/WD~poison,40867]]"
+associated_hazard: "[[_Standards/WikiData/WD~hydrogen cyanide exposure,21174754]]"
+part_of:
+  - "[[_Standards/WikiData/WD~thiosulfate sulfurtransferase activity,21209348]]"
+  - "[[_Standards/WikiData/WD~cyanide biosynthetic process,21759021]]"
+  - "[[_Standards/WikiData/WD~glycine dehydrogenase (cyanide-forming) activity,21759491]]"
+  - "[[_Standards/WikiData/WD~cellular response to cyanide,22273590]]"
+  - "[[_Standards/WikiData/WD~response to cyanide,22273589]]"
+  - "[[_Standards/WikiData/WD~cyanide metabolic process,22281322]]"
+  - "[[_Standards/WikiData/WD~cyanide catabolic process,22281336]]"
+  - "[[_Standards/WikiData/WD~cyanocobalamin reductase (cyanide-eliminating) activity,22318031]]"
+  - "[[_Standards/WikiData/WD~1-aminocyclopropane-1-carboxylate oxidase activity,22319762]]"
+  - "[[_Standards/WikiData/WD~L-3-cyanoalanine synthase activity,22324159]]"
+  - "[[_Standards/WikiData/WD~aromatic (S)-hydroxynitrile lyase activity,22324272]]"
+  - "[[_Standards/WikiData/WD~(2R)-2-hydroxy-2-methylbutanenitrile lyase activity,22324276]]"
+  - "[[_Standards/WikiData/WD~acetone-cyanohydrin acetone-lyase (cyanide-forming) activity,22324277]]"
+  - "[[_Standards/WikiData/WD~hydroxymandelonitrile lyase activity,22324284]]"
+  - "[[_Standards/WikiData/WD~mandelonitrile lyase activity,22324308]]"
+  - "[[_Standards/WikiData/WD~cyanide hydratase activity,22324501]]"
+safety_classification_and_labelling:
+  - "[[_Standards/WikiData/WD~Globally Harmonized System of Classification and Labelling of Chemicals (GHS),51079642]]"
+  - "[[_Standards/WikiData/WD~NFPA 704_ Standard System for the Identification of the Hazards of Materials for Emergency Response,51139288]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikiproject Nuremberg Trials,100137722]]"
+instance_of: "[[_Standards/WikiData/WD~type of chemical entity,113145171]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~carbon,623]]"
+  - "[[_Standards/WikiData/WD~nitrogen,627]]"
+flash_point: -17.8
+melting_point:
+  - -13.4
+  - 7
+upper_flammable_limit: 40
+short_term_exposure_limit: 5
+time_weighted_average_exposure_limit: 11
+boiling_point:
+  - 26
+  - 78
+immediately_dangerous_to_life_or_health: 55
+lower_flammable_limit: 5.6
+vapor_pressure: 630
+ionization_energy: 13.6
+dynamic_viscosity: 0.201
+electric_dipole_moment:
+  - 2.98
+  - 2.984
+density: 0.000671
+pKa: 9.21
+ZVG_number: "12450"
+UN_number: "1051"
+refractive_index: 1.2675
+PubChem_CID: "768"
+mass: 27.011
+OmegaWiki_Defined_Meaning: "1041046"
+InChIKey: LELOWRISYMNNSU-UHFFFAOYSA-N
+chemical_formula: CHN
+RxNorm_CUI: "1367183"
+UNII: 2WTB3V159F
+InChI: InChI=1S/CHN/c1-2/h1H
+P1931: "0333"
+chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-cyanide-2D.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20cyanide.jpg
+canonical_SMILES:
+  - "[H+].[C-]#N"
+  - C#N
+Reaxys_registry_number: "1718793"
+EC_number: 200-821-6
+CAS_Registry_Number: 74-90-8
+MeSH_tree_code:
+  - D01.029.260.330
+  - D01.625.400
+DSSTOX_compound_identifier: DTXCID004148
+Commons_category: Hydrogen cyanide
+RTECS_number: MW6825000
+SPLASH: splash10-004i-9000000000-ff23e89c9d09e6b92cbc
+image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-cyanide-3D-balls.png
+---
+
+# [[Hydrogen_Cyanide]] 
+
+#is_/same_as :: [[WD~Hydrogen_Cyanide,26075]] 
+
+## #has_/text_of_/abstract 
+
+> **hydrogen cyanide** (also called prussic acid) is a chemical compound 
+> with the formula HCN and structural formula H−C≡N. 
+> 
+> It is a highly toxic and flammable liquid that boils slightly above room temperature, at 25.6 °C (78.1 °F). 
+> 
+> HCN is produced on an industrial scale 
+> and is a highly valued precursor to many chemical compounds 
+> ranging from polymers to pharmaceuticals. 
+> 
+> Large-scale applications are for the production of potassium cyanide and adiponitrile, 
+> used in mining and plastics, respectively. 
+> 
+> It is more toxic than solid cyanide compounds due to its volatile nature. 
+> 
+> A solution of hydrogen cyanide in water, represented as HCN(aq), is called hydrocyanic acid. 
+> The salts of the cyanide anion are known as cyanides.
+>
+> Whether hydrogen cyanide is an organic compound or not is a topic of debate among chemists. 
+> It is traditionally considered inorganic, but can also be considered a nitrile, 
+> giving rise to its alternative names of methanenitrile and formonitrile.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Hydrogen%20cyanide) 
+
