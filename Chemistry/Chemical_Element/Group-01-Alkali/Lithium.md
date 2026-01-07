@@ -3,63 +3,102 @@ aliases:
   - Lithium
 has_id_wikidata: Q558
 Commons_category: Hedi Slimane
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
 date_of_birth: 1968-07-05
 educated_at:
-  - '[[_Standards/WikiData/WD~École_du_Louvre,273534]]'
-  - '[[_Standards/WikiData/WD~Panthéon-Assas_University_Paris,662976]]'
-family_name: '[[_Standards/WikiData/WD~Slimane,63486092]]'
-given_name: '[[_Standards/WikiData/WD~Hedi,1593262]]'
+  - "[[_Standards/WikiData/WD~École_du_Louvre,273534]]"
+  - "[[_Standards/WikiData/WD~Panthéon-Assas_University_Paris,662976]]"
+family_name: "[[_Standards/WikiData/WD~Slimane,63486092]]"
+given_name: "[[_Standards/WikiData/WD~Hedi,1593262]]"
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]'
-  - '[[_Standards/WikiData/WD~Kunstmuseum_Den_Haag,1499958]]'
+  - "[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]"
+  - "[[_Standards/WikiData/WD~Kunstmuseum_Den_Haag,1499958]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hedi%20Slimane%20in%202015.jpg
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-ISNI: 0000000121016085
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+ISNI: 121016085
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
 name_in_native_language: Hedi Slimane
 occupation:
-  - '[[_Standards/WikiData/WD~dressmaker,2034021]]'
-  - '[[_Standards/WikiData/WD~fashion_designer,3501317]]'
-  - '[[_Standards/WikiData/WD~photographer,33231]]'
+  - "[[_Standards/WikiData/WD~dressmaker,2034021]]"
+  - "[[_Standards/WikiData/WD~fashion_designer,3501317]]"
+  - "[[_Standards/WikiData/WD~photographer,33231]]"
 official_website: https://www.hedislimane.com/
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
-place_of_birth: '[[_Standards/WikiData/WD~19th_arrondissement_of_Paris,204622]]'
-represented_by: '[[_Standards/WikiData/WD~Almine_Rech_Gallery,55661948]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
+place_of_birth: "[[_Standards/WikiData/WD~19th_arrondissement_of_Paris,204622]]"
+represented_by: "[[_Standards/WikiData/WD~Almine_Rech_Gallery,55661948]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 social_media_followers: 43663
 SpocWebEntityId: 21906
 type: Element
 X_username: hedislimanetwit
+dv_GroupName: Group-01-Alkali
+dv_Name-en: Lithium
+dv_Name-de: Lithium
+dv_Abbr: Li
+dv_Weight-u: 6.941
+dv_AtomRadius: 2.05
+dv_Atom-Vol-ccm-mol: 13.1
+dv_Unknown2: 1.23
+dv_Radius-nm: 5.392
+dv_Electronegative: 1
+dv_Density: 0.53
+dv_MeltingPoint-C: 180.54
+dv_BoilingPoint-C: 1347
+dv_HeatCapacity: 3.6
+dv_HeatConduct: 0.847
+dv_Enthalpy: 3
+dv_FormEnergy-kj-mol: 145.92
+dv_PeriodNo: 2
+dv_GroupNo: 1
+dv_Charge-e: 3
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Lithium,568|WD~Lithium,568]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Lithium|Lithium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.public|Lithium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.internal|Lithium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.protect|Lithium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.private|Lithium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.personal|Lithium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.secret|Lithium.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Lithium,568|WD~Lithium,568]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Lithium|Lithium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.public|Lithium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.internal|Lithium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.protect|Lithium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.private|Lithium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.personal|Lithium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.secret|Lithium.secret]]"
 ---
 
 # [[Lithium]] 
 
 #chemic/Element 
-[GroupName::Group-01-Alkali]
+GroupName = `=this.dv_GroupName`
 [Group:[[../Group-01-Alkali]]
 
 
-[Name-en::Lithium]
-[Name-de::Lithium]
-(Abbr::Li)
-[Weight-u::6.941]
-[AtomRadius::2.05]
-[Atom-Vol-ccm-mol::13.1]
-[Unknown2::1.23]
-[Radius-nm::5.392]
-[Electronegative::1]
-[Density::0.53]
-[MeltingPoint-C::180.54]
-[BoilingPoint-C::1347]
-[HeatCapacity::3.6]
-[HeatConduct::0.847]
-[Enthalpy::3]
-[FormEnergy-kj-mol::145.92]
-(PeriodNo::2)
-(GroupNo::1)
-(Charge-e::3)
+Name-en = `=this.dv_Name-en`
+Name-de = `=this.dv_Name-de`
+Abbr = `=this.dv_Abbr`
+Weight-u = `=this.dv_Weight-u`
+AtomRadius = `=this.dv_AtomRadius`
+Atom-Vol-ccm-mol = `=this.dv_Atom-Vol-ccm-mol`
+Unknown2 = `=this.dv_Unknown2`
+Radius-nm = `=this.dv_Radius-nm`
+Electronegative = `=this.dv_Electronegative`
+Density = `=this.dv_Density`
+MeltingPoint-C = `=this.dv_MeltingPoint-C`
+BoilingPoint-C = `=this.dv_BoilingPoint-C`
+HeatCapacity = `=this.dv_HeatCapacity`
+HeatConduct = `=this.dv_HeatConduct`
+Enthalpy = `=this.dv_Enthalpy`
+FormEnergy-kj-mol = `=this.dv_FormEnergy-kj-mol`
+PeriodNo = `=this.dv_PeriodNo`
+GroupNo = `=this.dv_GroupNo`
+Charge-e = `=this.dv_Charge-e`
 
 #is_/same_as :: [[../../../WikiData/WD~Lithium,568|WD~Lithium,568]]  
 
