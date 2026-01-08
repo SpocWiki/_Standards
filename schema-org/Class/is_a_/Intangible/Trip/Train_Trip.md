@@ -41,17 +41,17 @@ A trip on a commercial train line.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Trip/Train_Trip|Train_Trip]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Train_Trip|Train_Trip]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Trip/Train_Trip.public|Train_Trip.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.public|Train_Trip.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Trip/Train_Trip.internal|Train_Trip.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.internal|Train_Trip.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Trip/Train_Trip.protect|Train_Trip.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.protect|Train_Trip.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Trip/Train_Trip.private|Train_Trip.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.private|Train_Trip.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Trip/Train_Trip.personal|Train_Trip.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.personal|Train_Trip.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Trip/Train_Trip.secret|Train_Trip.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.secret|Train_Trip.secret]] 
 

@@ -130,17 +130,17 @@ Data type: URL.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Text/Url|Url]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url|Url]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Text/Url.public|Url.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Text/Url.internal|Url.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Text/Url.internal|Url.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Text/Url.protect|Url.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Text/Url.protect|Url.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Text/Url.private|Url.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Text/Url.private|Url.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Text/Url.personal|Url.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Text/Url.secret|Url.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]] 
 

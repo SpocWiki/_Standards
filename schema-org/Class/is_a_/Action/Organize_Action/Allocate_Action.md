@@ -43,17 +43,17 @@ The act of organizing tasks/objects/events by associating resources to it.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Organize_Action/Allocate_Action|Allocate_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action|Allocate_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Organize_Action/Allocate_Action.public|Allocate_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.public|Allocate_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Organize_Action/Allocate_Action.internal|Allocate_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.internal|Allocate_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Organize_Action/Allocate_Action.protect|Allocate_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.protect|Allocate_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Organize_Action/Allocate_Action.private|Allocate_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.private|Allocate_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Organize_Action/Allocate_Action.personal|Allocate_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.personal|Allocate_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Organize_Action/Allocate_Action.secret|Allocate_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.secret|Allocate_Action.secret]] 
 

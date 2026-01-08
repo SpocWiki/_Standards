@@ -54,17 +54,17 @@ or Fast and expensive: $15 in 1-2 days.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Structured_Value/Offer_Shipping_Details.public|Offer_Shipping_Details.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.public|Offer_Shipping_Details.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Structured_Value/Offer_Shipping_Details.internal|Offer_Shipping_Details.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.internal|Offer_Shipping_Details.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Structured_Value/Offer_Shipping_Details.protect|Offer_Shipping_Details.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.protect|Offer_Shipping_Details.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Structured_Value/Offer_Shipping_Details.private|Offer_Shipping_Details.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.private|Offer_Shipping_Details.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Structured_Value/Offer_Shipping_Details.personal|Offer_Shipping_Details.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.personal|Offer_Shipping_Details.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Structured_Value/Offer_Shipping_Details.secret|Offer_Shipping_Details.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.secret|Offer_Shipping_Details.secret]] 
 

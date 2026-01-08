@@ -34,7 +34,7 @@ Indicates a [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry
 
 Use it like this: 
 - [ #has_/toc_entry :: [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]] ] or 
-- [ has_toc_entry :: [[../../Class/is_a_/creative_work_/hyper_toc_entry|HyperTocEntry]] ] 
+- [ has_toc_entry :: [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] ] 
 
 Relation describes that: 
 [ #has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc|HyperToc]] ] 

@@ -340,8 +340,8 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   source_data: query_js
-  source_form_result: "#geo/City & \"_/Continent_/Australia\""
-  source_destination_path: _/Continent_/Australia
+  source_form_result: "#geo/City & \"_/Continent/Australia\""
+  source_destination_path: _/Continent/Australia
   row_templates_folder: _/Continent
   current_row_template: 
   pagination_size: 10

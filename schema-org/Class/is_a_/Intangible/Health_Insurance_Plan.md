@@ -43,17 +43,17 @@ A US-style health insurance plan, including PPOs, EPOs, and HMOs.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Health_Insurance_Plan|Health_Insurance_Plan]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Health_Insurance_Plan.public|Health_Insurance_Plan.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.public|Health_Insurance_Plan.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Health_Insurance_Plan.internal|Health_Insurance_Plan.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.internal|Health_Insurance_Plan.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Health_Insurance_Plan.protect|Health_Insurance_Plan.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.protect|Health_Insurance_Plan.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Health_Insurance_Plan.private|Health_Insurance_Plan.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.private|Health_Insurance_Plan.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Health_Insurance_Plan.personal|Health_Insurance_Plan.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.personal|Health_Insurance_Plan.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Health_Insurance_Plan.secret|Health_Insurance_Plan.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.secret|Health_Insurance_Plan.secret]] 
 

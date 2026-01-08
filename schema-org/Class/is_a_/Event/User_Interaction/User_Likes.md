@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/User_Interaction/User_Likes|User_Likes]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Likes|User_Likes]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/User_Interaction/User_Likes.public|User_Likes.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Likes.public|User_Likes.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/User_Interaction/User_Likes.internal|User_Likes.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Likes.internal|User_Likes.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/User_Interaction/User_Likes.protect|User_Likes.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Likes.protect|User_Likes.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/User_Interaction/User_Likes.private|User_Likes.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Likes.private|User_Likes.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/User_Interaction/User_Likes.personal|User_Likes.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Likes.personal|User_Likes.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/User_Interaction/User_Likes.secret|User_Likes.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Likes.secret|User_Likes.secret]] 
 

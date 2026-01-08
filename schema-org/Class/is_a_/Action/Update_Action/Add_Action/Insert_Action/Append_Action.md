@@ -41,17 +41,17 @@ The act of inserting at the end if an ordered collection.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Update_Action/Add_Action/Insert_Action/Append_Action|Append_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Append_Action|Append_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Update_Action/Add_Action/Insert_Action/Append_Action.public|Append_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Append_Action.public|Append_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Update_Action/Add_Action/Insert_Action/Append_Action.internal|Append_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Append_Action.internal|Append_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Update_Action/Add_Action/Insert_Action/Append_Action.protect|Append_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Append_Action.protect|Append_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Update_Action/Add_Action/Insert_Action/Append_Action.private|Append_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Append_Action.private|Append_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Update_Action/Add_Action/Insert_Action/Append_Action.personal|Append_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Append_Action.personal|Append_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Update_Action/Add_Action/Insert_Action/Append_Action.secret|Append_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Append_Action.secret|Append_Action.secret]] 
 

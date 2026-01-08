@@ -41,17 +41,17 @@ A publication event, e.g. catch-up TV or radio podcast, during which a program i
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Publication_Event/On_Demand_Event|On_Demand_Event]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event|On_Demand_Event]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Publication_Event/On_Demand_Event.public|On_Demand_Event.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.public|On_Demand_Event.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Publication_Event/On_Demand_Event.internal|On_Demand_Event.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.internal|On_Demand_Event.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Publication_Event/On_Demand_Event.protect|On_Demand_Event.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.protect|On_Demand_Event.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Publication_Event/On_Demand_Event.private|On_Demand_Event.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.private|On_Demand_Event.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Publication_Event/On_Demand_Event.personal|On_Demand_Event.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.personal|On_Demand_Event.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Publication_Event/On_Demand_Event.secret|On_Demand_Event.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.secret|On_Demand_Event.secret]] 
 

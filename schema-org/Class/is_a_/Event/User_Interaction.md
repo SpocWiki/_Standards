@@ -45,17 +45,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/User_Interaction|User_Interaction]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/User_Interaction|User_Interaction]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/User_Interaction.public|User_Interaction.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/User_Interaction.public|User_Interaction.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/User_Interaction.internal|User_Interaction.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/User_Interaction.internal|User_Interaction.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/User_Interaction.protect|User_Interaction.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/User_Interaction.protect|User_Interaction.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/User_Interaction.private|User_Interaction.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/User_Interaction.private|User_Interaction.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/User_Interaction.personal|User_Interaction.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/User_Interaction.personal|User_Interaction.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/User_Interaction.secret|User_Interaction.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/User_Interaction.secret|User_Interaction.secret]] 
 

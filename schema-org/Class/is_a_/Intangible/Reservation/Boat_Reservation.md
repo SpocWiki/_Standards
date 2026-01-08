@@ -45,17 +45,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Reservation/Boat_Reservation|Boat_Reservation]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation|Boat_Reservation]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Reservation/Boat_Reservation.public|Boat_Reservation.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.public|Boat_Reservation.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Reservation/Boat_Reservation.internal|Boat_Reservation.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.internal|Boat_Reservation.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Reservation/Boat_Reservation.protect|Boat_Reservation.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.protect|Boat_Reservation.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Reservation/Boat_Reservation.private|Boat_Reservation.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.private|Boat_Reservation.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Reservation/Boat_Reservation.personal|Boat_Reservation.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.personal|Boat_Reservation.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Reservation/Boat_Reservation.secret|Boat_Reservation.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.secret|Boat_Reservation.secret]] 
 

@@ -41,17 +41,17 @@ A subscription which allows a user to access media including audio, video, books
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Media_Subscription|Media_Subscription]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Media_Subscription|Media_Subscription]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Media_Subscription.public|Media_Subscription.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Media_Subscription.public|Media_Subscription.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Media_Subscription.internal|Media_Subscription.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Media_Subscription.internal|Media_Subscription.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Media_Subscription.protect|Media_Subscription.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Media_Subscription.protect|Media_Subscription.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Media_Subscription.private|Media_Subscription.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Media_Subscription.private|Media_Subscription.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Media_Subscription.personal|Media_Subscription.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Media_Subscription.personal|Media_Subscription.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Media_Subscription.secret|Media_Subscription.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Media_Subscription.secret|Media_Subscription.secret]] 
 

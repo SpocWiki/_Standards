@@ -41,17 +41,17 @@ The act of swallowing solid objects.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Consume_Action/Eat_Action|Eat_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Eat_Action|Eat_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Consume_Action/Eat_Action.public|Eat_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Consume_Action/Eat_Action.public|Eat_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Consume_Action/Eat_Action.internal|Eat_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Consume_Action/Eat_Action.internal|Eat_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Consume_Action/Eat_Action.protect|Eat_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Consume_Action/Eat_Action.protect|Eat_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Consume_Action/Eat_Action.private|Eat_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Consume_Action/Eat_Action.private|Eat_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Consume_Action/Eat_Action.personal|Eat_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Consume_Action/Eat_Action.personal|Eat_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Consume_Action/Eat_Action.secret|Eat_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Consume_Action/Eat_Action.secret|Eat_Action.secret]] 
 

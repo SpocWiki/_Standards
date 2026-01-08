@@ -74,7 +74,7 @@ uses:
 > - [[bio~Kingdom|kingdom]], 
 > - [[bio~Kingdom/bio~Phylum|phylum]] (division is sometimes used in botany in place of phylum), 
 > - [[bio~Kingdom/bio~Phylum/bio~Class|class]], 
-> - [[../../schema-org/Class/is_a_/Intangible_/Order|order]], 
+> - [[../../schema-org/Class/is_a_/Intangible/Order|order]], 
 > - [[../../Society/Agent/Community/Clan/Family|family]], 
 > - [[bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus|genus]], and 
 > - [[bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species|species]]. 

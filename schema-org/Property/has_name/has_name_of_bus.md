@@ -28,7 +28,7 @@ title: has_name_of_bus
 type: Pred_Text
 ---
 
-Predicate to describe the Text of [[../../Class/is_a_/Intangible_/trip/bus_trip|BusTrip]].
+Predicate to describe the Text of [[../../Class/is_a_/Intangible/trip/bus_trip|BusTrip]].
 
 Use it like this: 
 - [ #has_/name_/of_bus :: Text ] or 

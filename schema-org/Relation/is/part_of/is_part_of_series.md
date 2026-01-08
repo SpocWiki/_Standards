@@ -33,7 +33,7 @@ type: Predi_Relation
 
 Use it like this: 
 - [ #is_/part_of_/series :: [[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]] ] or 
-- [ is_part_of_series :: [[../../../Class/is_a_/creative_work_/creative_work_series|CreativeWorkSeries]] ] 
+- [ is_part_of_series :: [[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]] ] 
 
 The series to which this episode or season belongs.
 

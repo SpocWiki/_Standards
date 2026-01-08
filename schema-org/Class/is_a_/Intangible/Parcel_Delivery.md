@@ -41,17 +41,17 @@ The delivery of a parcel either via the postal service or a commercial service.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Parcel_Delivery|Parcel_Delivery]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Parcel_Delivery.public|Parcel_Delivery.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Parcel_Delivery.public|Parcel_Delivery.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Parcel_Delivery.internal|Parcel_Delivery.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Parcel_Delivery.internal|Parcel_Delivery.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Parcel_Delivery.protect|Parcel_Delivery.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Parcel_Delivery.protect|Parcel_Delivery.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Parcel_Delivery.private|Parcel_Delivery.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Parcel_Delivery.private|Parcel_Delivery.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Parcel_Delivery.personal|Parcel_Delivery.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Parcel_Delivery.personal|Parcel_Delivery.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Parcel_Delivery.secret|Parcel_Delivery.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Parcel_Delivery.secret|Parcel_Delivery.secret]] 
 

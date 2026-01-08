@@ -43,17 +43,17 @@ The act of ingesting information/resources/food.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Consume_Action|Consume_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Consume_Action|Consume_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Consume_Action.public|Consume_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Consume_Action.public|Consume_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Consume_Action.internal|Consume_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Consume_Action.internal|Consume_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Consume_Action.protect|Consume_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Consume_Action.protect|Consume_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Consume_Action.private|Consume_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Consume_Action.private|Consume_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Consume_Action.personal|Consume_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Consume_Action.personal|Consume_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Consume_Action.secret|Consume_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Consume_Action.secret|Consume_Action.secret]] 
 

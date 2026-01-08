@@ -39,17 +39,17 @@ A demand entity represents the public, not necessarily binding, not necessarily 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Demand|Demand]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Demand|Demand]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Demand.public|Demand.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Demand.public|Demand.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Demand.internal|Demand.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Demand.internal|Demand.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Demand.protect|Demand.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Demand.protect|Demand.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Demand.private|Demand.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Demand.private|Demand.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Demand.personal|Demand.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Demand.personal|Demand.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Demand.secret|Demand.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Demand.secret|Demand.secret]] 
 

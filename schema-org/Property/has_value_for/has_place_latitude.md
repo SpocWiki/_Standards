@@ -37,18 +37,18 @@ For example <code>37.42242</code> (<a href="https://en.wikipedia.org/wiki/World_
 
 - #is_/different_from :: #has_/location which is a Relation to a [[../../../Earth/Geography/Place]] with Latitude 
 
-Predicate to describe the Quantity of [[../../../Earth/Geography/Place|Places]] and [[../../Class/is_a_/Intangible_/structured_value/geo_coordinates|GeoCoordinates]], 
+Predicate to describe the Quantity of [[../../../Earth/Geography/Place|Places]] and [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], 
 together with [[has_place_longitude|longitude]] and [[has_place_elevation_meters|elevation]].
 but not [[has_place_altitude_meters|altitude]], which adds to [[has_place_elevation_meters|elevation]] and is typically used for flying (positive) or diving (negative) Objects.
 
 Use it like this: 
 - [ #has_/place_/latitude :: Number, Text ] or 
-- [ has_place_latitude :: [[../../Class/is_a_/data_type_/number|Number]], [[../../Class/is_a_/data_type_/text|Text]] ] 
+- [ has_place_latitude :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ] 
 
 Predicate describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/Intangible_/structured_value/geo_coordinates|GeoCoordinates]], [[../../../Earth/Geography/Place|Place]] ]
+[ #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], [[../../../Earth/Geography/Place|Place]] ]
 ( #has_/name :: has_place_latitude )
-( #has_/range :: [[../../Class/is_a_/data_type_/number|Number]], [[../../Class/is_a_/data_type_/text|Text]] )
+( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
 #is_/similar_to :: [[../../../WikiData/WD~Latitude,34027|WD~Latitude,34027]] 
 

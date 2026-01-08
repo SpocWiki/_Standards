@@ -41,17 +41,17 @@ A compound price specification is one that bundles multiple prices that all appl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification/Compound_Price_Specification|Compound_Price_Specification]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification|Compound_Price_Specification]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification/Compound_Price_Specification.public|Compound_Price_Specification.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification.public|Compound_Price_Specification.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification/Compound_Price_Specification.internal|Compound_Price_Specification.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification.internal|Compound_Price_Specification.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification/Compound_Price_Specification.protect|Compound_Price_Specification.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification.protect|Compound_Price_Specification.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification/Compound_Price_Specification.private|Compound_Price_Specification.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification.private|Compound_Price_Specification.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification/Compound_Price_Specification.personal|Compound_Price_Specification.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification.personal|Compound_Price_Specification.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification/Compound_Price_Specification.secret|Compound_Price_Specification.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification.secret|Compound_Price_Specification.secret]] 
 

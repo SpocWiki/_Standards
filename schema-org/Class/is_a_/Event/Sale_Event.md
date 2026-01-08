@@ -41,17 +41,17 @@ Event type: Sales event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Sale_Event|Sale_Event]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Sale_Event|Sale_Event]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Sale_Event.public|Sale_Event.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Sale_Event.public|Sale_Event.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Sale_Event.internal|Sale_Event.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Sale_Event.internal|Sale_Event.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Sale_Event.protect|Sale_Event.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Sale_Event.protect|Sale_Event.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Sale_Event.private|Sale_Event.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Sale_Event.private|Sale_Event.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Sale_Event.personal|Sale_Event.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Sale_Event.personal|Sale_Event.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Sale_Event.secret|Sale_Event.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Sale_Event.secret|Sale_Event.secret]] 
 

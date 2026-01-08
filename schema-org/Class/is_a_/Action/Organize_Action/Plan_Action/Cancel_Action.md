@@ -47,17 +47,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Cancel_Action|Cancel_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Cancel_Action|Cancel_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Cancel_Action.public|Cancel_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Cancel_Action.public|Cancel_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Cancel_Action.internal|Cancel_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Cancel_Action.internal|Cancel_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Cancel_Action.protect|Cancel_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Cancel_Action.protect|Cancel_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Cancel_Action.private|Cancel_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Cancel_Action.private|Cancel_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Cancel_Action.personal|Cancel_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Cancel_Action.personal|Cancel_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Cancel_Action.secret|Cancel_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Cancel_Action.secret|Cancel_Action.secret]] 
 

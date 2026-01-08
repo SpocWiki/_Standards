@@ -41,17 +41,17 @@ A set of characteristics describing parents, who can be interested in viewing so
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Audience/People_Audience/Parent_Audience|Parent_Audience]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience|Parent_Audience]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Audience/People_Audience/Parent_Audience.public|Parent_Audience.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.public|Parent_Audience.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Audience/People_Audience/Parent_Audience.internal|Parent_Audience.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.internal|Parent_Audience.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Audience/People_Audience/Parent_Audience.protect|Parent_Audience.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.protect|Parent_Audience.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Audience/People_Audience/Parent_Audience.private|Parent_Audience.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.private|Parent_Audience.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Audience/People_Audience/Parent_Audience.personal|Parent_Audience.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.personal|Parent_Audience.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Audience/People_Audience/Parent_Audience.secret|Parent_Audience.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.secret|Parent_Audience.secret]] 
 

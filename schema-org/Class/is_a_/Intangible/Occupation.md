@@ -41,17 +41,17 @@ A profession, may involve prolonged training and/or a formal qualification.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Occupation|Occupation]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Occupation|Occupation]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Occupation.public|Occupation.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Occupation.public|Occupation.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Occupation.internal|Occupation.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Occupation.internal|Occupation.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Occupation.protect|Occupation.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Occupation.protect|Occupation.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Occupation.private|Occupation.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Occupation.private|Occupation.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Occupation.personal|Occupation.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Occupation.personal|Occupation.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Occupation.secret|Occupation.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Occupation.secret|Occupation.secret]] 
 

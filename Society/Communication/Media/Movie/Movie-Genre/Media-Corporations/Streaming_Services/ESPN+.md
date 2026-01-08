@@ -1,5 +1,5 @@
 
-#has_/text_of_/genre :: [[../../../../../../../schema-org/Class/is_a_/event/sports_event|SportsEvent]]
+#has_/text_of_/genre :: [[../../../../../../../schema-org/Class/is_a_/event_/sports_event|SportsEvent]]
 
 ## #has_/text_of_/abstract 
 

@@ -31,7 +31,7 @@ type: Predi_Relation
 
 Use it like this: 
 - [ #is_/predecessor_of :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] ] or 
-- [ is_predecessor_of :: [[../../Class/is_a_/product_/product_model|ProductModel]] ] 
+- [ is_predecessor_of :: [[../../Class/is_a_/product/product_model|ProductModel]] ] 
 
 A pointer from a previous, often [[../../Enumeration/Item_Availability/Discontinued|discontinued]] variant of the product 
 to its newer variant.

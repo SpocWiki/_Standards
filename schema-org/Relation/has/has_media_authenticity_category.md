@@ -41,7 +41,7 @@ Indicates a MediaManipulationRatingEnumeration classification of a media object
 Relation describes that: 
 [ #has_/domain  :: MediaReview ]
 ( #has_/name :: has_media_authenticity_category )
-( #has_/range :: [[../../../Class/is_a_/intangible_/enumeration/media_manipulation_rating_enumeration]] )
+( #has_/range :: [[../../../Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration]] )
 
 
 ## Confidential Links & Embeds: 

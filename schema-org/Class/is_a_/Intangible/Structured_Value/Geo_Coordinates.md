@@ -45,17 +45,17 @@ The geographic coordinates of a place or event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Coordinates|Geo_Coordinates]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Coordinates.public|Geo_Coordinates.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.public|Geo_Coordinates.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Coordinates.internal|Geo_Coordinates.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.internal|Geo_Coordinates.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Coordinates.protect|Geo_Coordinates.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.protect|Geo_Coordinates.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Coordinates.private|Geo_Coordinates.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.private|Geo_Coordinates.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Coordinates.personal|Geo_Coordinates.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.personal|Geo_Coordinates.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Coordinates.secret|Geo_Coordinates.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.secret|Geo_Coordinates.secret]] 
 

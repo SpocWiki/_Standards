@@ -2,7 +2,7 @@
 # [[Function~ternary]] 
 
 The most common ternary Function is the `?:` Operator or its equivalend `if/else` structure. 
-It is not an Operator, because the first Argument is a [[../../schema-org/Class/is_a_/Data_Type_/Boolean|Boolean]] Value. 
+It is not an Operator, because the first Argument is a [[../../schema-org/Class/is_a_/Data_Type/Boolean|Boolean]] Value. 
 
 ## #has_/text_of_/abstract 
 

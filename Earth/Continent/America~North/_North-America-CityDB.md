@@ -347,8 +347,8 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   source_data: query_js
-  source_form_result: "#geo/City & \"_/Continent_/North-America\""
-  source_destination_path: _/Continent_/North-America
+  source_form_result: "#geo/City & \"_/Continent/North-America\""
+  source_destination_path: _/Continent/North-America
   row_templates_folder: _/Continent
   current_row_template: 
   pagination_size: 10

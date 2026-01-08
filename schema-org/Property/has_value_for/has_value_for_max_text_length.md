@@ -27,7 +27,7 @@ title: has_value-max-text-length
 type: Predi_Quantity
 ---
 
-Predicate to describe the Quantity of [[../../Class/is_a_/Intangible_/property_value_specification|PropertyValueSpecification]].
+Predicate to describe the Quantity of [[../../Class/is_a_/Intangible/property_value_specification|PropertyValueSpecification]].
 
 Use it like this: 
 - [ #has_/value_for_/max_text_length :: Number ] or 

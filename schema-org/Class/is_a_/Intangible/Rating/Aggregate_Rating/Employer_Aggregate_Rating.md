@@ -41,17 +41,17 @@ An aggregate rating of an Organization related to its role as an employer.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating/Employer_Aggregate_Rating|Employer_Aggregate_Rating]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating|Employer_Aggregate_Rating]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating/Employer_Aggregate_Rating.public|Employer_Aggregate_Rating.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.public|Employer_Aggregate_Rating.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating/Employer_Aggregate_Rating.internal|Employer_Aggregate_Rating.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.internal|Employer_Aggregate_Rating.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating/Employer_Aggregate_Rating.protect|Employer_Aggregate_Rating.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.protect|Employer_Aggregate_Rating.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating/Employer_Aggregate_Rating.private|Employer_Aggregate_Rating.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.private|Employer_Aggregate_Rating.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating/Employer_Aggregate_Rating.personal|Employer_Aggregate_Rating.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.personal|Employer_Aggregate_Rating.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating/Employer_Aggregate_Rating.secret|Employer_Aggregate_Rating.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.secret|Employer_Aggregate_Rating.secret]] 
 

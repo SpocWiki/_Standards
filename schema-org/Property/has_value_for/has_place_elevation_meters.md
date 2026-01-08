@@ -49,9 +49,9 @@ Use it like this:
 The elevation of a location (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>). 
 
 Predicate describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/Intangible_/structured_value/geo_coordinates|GeoCoordinates]], [[../../Class/is_a_/Intangible_/structured_value/geo_shape|GeoShape]] ]
+[ #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], [[../../Class/is_a_/Intangible/structured_value/geo_shape|GeoShape]] ]
 ( #has_/name :: has_place_elevation_in_meters )
-( #has_/range :: [[../../Class/is_a_/data_type_/number|Number]], [[../../Class/is_a_/data_type_/text|Text]] )
+( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
 
 ## Confidential Links & Embeds: 

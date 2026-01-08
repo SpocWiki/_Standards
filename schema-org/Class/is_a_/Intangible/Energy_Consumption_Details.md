@@ -43,17 +43,17 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Energy_Consumption_Details|Energy_Consumption_Details]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details|Energy_Consumption_Details]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Energy_Consumption_Details.public|Energy_Consumption_Details.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.public|Energy_Consumption_Details.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Energy_Consumption_Details.internal|Energy_Consumption_Details.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.internal|Energy_Consumption_Details.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Energy_Consumption_Details.protect|Energy_Consumption_Details.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.protect|Energy_Consumption_Details.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Energy_Consumption_Details.private|Energy_Consumption_Details.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.private|Energy_Consumption_Details.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Energy_Consumption_Details.personal|Energy_Consumption_Details.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.personal|Energy_Consumption_Details.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Energy_Consumption_Details.secret|Energy_Consumption_Details.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.secret|Energy_Consumption_Details.secret]] 
 

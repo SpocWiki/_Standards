@@ -41,8 +41,8 @@ Similarly the common [[../has_number_of/has_number_of_stars_rating]]  #has_/valu
 
 
 Use it like this: 
-- [ #has_/value_for_/rating  :: [ [[../../Class/is_a_/data_type_/number|Number]], [[../../Class/is_a_/data_type_/text|Text]] ] ] or 
-- [ has_value_for_rating :: [ [[../../Class/is_a_/data_type_/number|Number]], [[../../Class/is_a_/data_type_/text|Text]] ] ] 
+- [ #has_/value_for_/rating  :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ] ] or 
+- [ has_value_for_rating :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ] ] 
 
 The rating for the content.
 
@@ -54,9 +54,9 @@ Usage guidelines:
 </ul>
 
 [[../../Predicate|Predicate]] describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/Intangible_/rating|Rating]] ]
+[ #has_/domain  :: [[../../Class/is_a_/Intangible/rating|Rating]] ]
 ( #has_/name :: has_value_for_rating )
-( #has_/range :: [ [[../../Class/is_a_/data_type_/number|Number]], [[../../Class/is_a_/data_type_/text|Text]]  ])
+( #has_/range :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ])
 
 
 ## Confidential Links & Embeds: 

@@ -41,17 +41,17 @@ Event type: Education event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Education_Event|Education_Event]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Education_Event|Education_Event]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Education_Event.public|Education_Event.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Education_Event.public|Education_Event.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Education_Event.internal|Education_Event.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Education_Event.internal|Education_Event.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Education_Event.protect|Education_Event.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Education_Event.protect|Education_Event.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Education_Event.private|Education_Event.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Education_Event.private|Education_Event.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Education_Event.personal|Education_Event.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Education_Event.personal|Education_Event.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Education_Event.secret|Education_Event.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Education_Event.secret|Education_Event.secret]] 
 

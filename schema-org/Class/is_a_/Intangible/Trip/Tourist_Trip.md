@@ -44,17 +44,17 @@ A tourist trip. A created itinerary of visits to one or more places of interest 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Trip/Tourist_Trip|Tourist_Trip]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip|Tourist_Trip]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Trip/Tourist_Trip.public|Tourist_Trip.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.public|Tourist_Trip.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Trip/Tourist_Trip.internal|Tourist_Trip.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.internal|Tourist_Trip.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Trip/Tourist_Trip.protect|Tourist_Trip.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.protect|Tourist_Trip.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Trip/Tourist_Trip.private|Tourist_Trip.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.private|Tourist_Trip.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Trip/Tourist_Trip.personal|Tourist_Trip.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.personal|Tourist_Trip.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Trip/Tourist_Trip.secret|Tourist_Trip.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.secret|Tourist_Trip.secret]] 
 

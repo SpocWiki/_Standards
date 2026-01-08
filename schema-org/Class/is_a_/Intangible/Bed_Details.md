@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Bed_Details|Bed_Details]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Bed_Details|Bed_Details]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Bed_Details.public|Bed_Details.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Bed_Details.public|Bed_Details.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Bed_Details.internal|Bed_Details.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Bed_Details.internal|Bed_Details.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Bed_Details.protect|Bed_Details.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Bed_Details.protect|Bed_Details.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Bed_Details.private|Bed_Details.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Bed_Details.private|Bed_Details.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Bed_Details.personal|Bed_Details.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Bed_Details.personal|Bed_Details.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Bed_Details.secret|Bed_Details.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Bed_Details.secret|Bed_Details.secret]] 
 

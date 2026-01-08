@@ -43,17 +43,17 @@ A GeoCircle is a GeoShape representing a circular geographic area. As it is a Ge
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Shape/Geo_Circle|Geo_Circle]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle|Geo_Circle]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Shape/Geo_Circle.public|Geo_Circle.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.public|Geo_Circle.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Shape/Geo_Circle.internal|Geo_Circle.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.internal|Geo_Circle.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Shape/Geo_Circle.protect|Geo_Circle.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.protect|Geo_Circle.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Shape/Geo_Circle.private|Geo_Circle.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.private|Geo_Circle.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Shape/Geo_Circle.personal|Geo_Circle.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.personal|Geo_Circle.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Structured_Value/Geo_Shape/Geo_Circle.secret|Geo_Circle.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.secret|Geo_Circle.secret]] 
 

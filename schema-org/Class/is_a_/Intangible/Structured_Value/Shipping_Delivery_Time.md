@@ -43,17 +43,17 @@ ShippingDeliveryTime provides various pieces of information about delivery times
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Structured_Value/Shipping_Delivery_Time|Shipping_Delivery_Time]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time|Shipping_Delivery_Time]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Structured_Value/Shipping_Delivery_Time.public|Shipping_Delivery_Time.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.public|Shipping_Delivery_Time.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Structured_Value/Shipping_Delivery_Time.internal|Shipping_Delivery_Time.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.internal|Shipping_Delivery_Time.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Structured_Value/Shipping_Delivery_Time.protect|Shipping_Delivery_Time.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.protect|Shipping_Delivery_Time.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Structured_Value/Shipping_Delivery_Time.private|Shipping_Delivery_Time.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.private|Shipping_Delivery_Time.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Structured_Value/Shipping_Delivery_Time.personal|Shipping_Delivery_Time.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.personal|Shipping_Delivery_Time.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Structured_Value/Shipping_Delivery_Time.secret|Shipping_Delivery_Time.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.secret|Shipping_Delivery_Time.secret]] 
 

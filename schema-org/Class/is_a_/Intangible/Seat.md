@@ -39,17 +39,17 @@ Used to describe a seat, such as a reserved seat in an event reservation.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Seat|Seat]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Seat|Seat]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Seat.public|Seat.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Seat.public|Seat.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Seat.internal|Seat.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Seat.internal|Seat.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Seat.protect|Seat.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Seat.protect|Seat.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Seat.private|Seat.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Seat.private|Seat.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Seat.personal|Seat.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Seat.personal|Seat.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Seat.secret|Seat.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Seat.secret|Seat.secret]] 
 

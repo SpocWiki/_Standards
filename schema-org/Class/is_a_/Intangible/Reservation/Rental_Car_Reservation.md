@@ -43,17 +43,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Reservation/Rental_Car_Reservation|Rental_Car_Reservation]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation|Rental_Car_Reservation]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Reservation/Rental_Car_Reservation.public|Rental_Car_Reservation.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.public|Rental_Car_Reservation.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Reservation/Rental_Car_Reservation.internal|Rental_Car_Reservation.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.internal|Rental_Car_Reservation.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Reservation/Rental_Car_Reservation.protect|Rental_Car_Reservation.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.protect|Rental_Car_Reservation.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Reservation/Rental_Car_Reservation.private|Rental_Car_Reservation.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.private|Rental_Car_Reservation.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Reservation/Rental_Car_Reservation.personal|Rental_Car_Reservation.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.personal|Rental_Car_Reservation.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Reservation/Rental_Car_Reservation.secret|Rental_Car_Reservation.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Rental_Car_Reservation.secret|Rental_Car_Reservation.secret]] 
 

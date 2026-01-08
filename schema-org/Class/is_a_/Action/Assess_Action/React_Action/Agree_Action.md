@@ -41,17 +41,17 @@ The act of expressing a consistency of opinion with the object. An agent agrees 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Agree_Action|Agree_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Agree_Action|Agree_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Agree_Action.public|Agree_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Agree_Action.public|Agree_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Agree_Action.internal|Agree_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Agree_Action.internal|Agree_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Agree_Action.protect|Agree_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Agree_Action.protect|Agree_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Agree_Action.private|Agree_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Agree_Action.private|Agree_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Agree_Action.personal|Agree_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Agree_Action.personal|Agree_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Agree_Action.secret|Agree_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Agree_Action.secret|Agree_Action.secret]] 
 

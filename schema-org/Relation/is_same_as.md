@@ -38,20 +38,20 @@ type: Predi_Url
 #is_/different_from :: [[is_similar_to]]
 #is_/similar_to :: [[is_similar_to]]
 
-Predicate to specify another [[../Class/is_a_/data_type_/text/URL|url]] for the same [[../Class/Thing|Thing]].
+Predicate to specify another [[../Class/is_a_/data_type/text/URL|url]] for the same [[../Class/Thing|Thing]].
 
 URLs of reference Web pages that unambiguously indicate the item's identity. 
 E.g. the URLs of the item's Wikidata entry, 
 Wikipedia page, database-IDs, social media websites, or official website.
 
 Use it like this: 
-- [ #has_/url_for_/same_as :: [[../Class/is_a_/data_type_/text/URL]] ] or 
-- [ has_url_for_same_as :: [[../../Class/is_a_/data_type_/text/URLs]] ] 
+- [ #has_/url_for_/same_as :: [[../Class/is_a_/data_type/text/URL]] ] or 
+- [ has_url_for_same_as :: [[../../Class/is_a_/data_type/text/URLs]] ] 
 
 Predicate describes that: 
 [ #has_/domain  :: [[../Class/Thing|Thing]] ]
 ( #has_/name :: has_url_for_same_as )
-( #has_/range :: [[../Class/is_a_/data_type_/text/URL]] )
+( #has_/range :: [[../Class/is_a_/data_type/text/URL]] )
 
 
 ## Confidential Links & Embeds: 

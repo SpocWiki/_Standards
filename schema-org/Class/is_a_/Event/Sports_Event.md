@@ -41,17 +41,17 @@ Event type: Sports event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Sports_Event|Sports_Event]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Sports_Event|Sports_Event]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Sports_Event.public|Sports_Event.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Sports_Event.public|Sports_Event.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Sports_Event.internal|Sports_Event.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Sports_Event.internal|Sports_Event.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Sports_Event.protect|Sports_Event.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Sports_Event.protect|Sports_Event.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Sports_Event.private|Sports_Event.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Sports_Event.private|Sports_Event.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Sports_Event.personal|Sports_Event.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Sports_Event.personal|Sports_Event.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Sports_Event.secret|Sports_Event.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Sports_Event.secret|Sports_Event.secret]] 
 

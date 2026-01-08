@@ -41,17 +41,17 @@ A set of requirements that must be fulfilled in order to perform an Action.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Action_Access_Specification|Action_Access_Specification]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Action_Access_Specification|Action_Access_Specification]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Action_Access_Specification.public|Action_Access_Specification.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Action_Access_Specification.public|Action_Access_Specification.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Action_Access_Specification.internal|Action_Access_Specification.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Action_Access_Specification.internal|Action_Access_Specification.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Action_Access_Specification.protect|Action_Access_Specification.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Action_Access_Specification.protect|Action_Access_Specification.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Action_Access_Specification.private|Action_Access_Specification.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Action_Access_Specification.private|Action_Access_Specification.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Action_Access_Specification.personal|Action_Access_Specification.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Action_Access_Specification.personal|Action_Access_Specification.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Action_Access_Specification.secret|Action_Access_Specification.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Action_Access_Specification.secret|Action_Access_Specification.secret]] 
 

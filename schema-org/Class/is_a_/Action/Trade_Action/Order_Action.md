@@ -41,17 +41,17 @@ An agent orders an object/product/service to be delivered/sent.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Trade_Action/Order_Action|Order_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Order_Action|Order_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Trade_Action/Order_Action.public|Order_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.public|Order_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Trade_Action/Order_Action.internal|Order_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.internal|Order_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Trade_Action/Order_Action.protect|Order_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.protect|Order_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Trade_Action/Order_Action.private|Order_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.private|Order_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Trade_Action/Order_Action.personal|Order_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.personal|Order_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Trade_Action/Order_Action.secret|Order_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.secret|Order_Action.secret]] 
 

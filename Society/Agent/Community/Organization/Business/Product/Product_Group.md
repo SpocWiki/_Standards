@@ -36,7 +36,7 @@ Tag Instances like this:
 
 A ProductGroup represents a group of [[../Product]]s that vary only in certain well-described ways, such as by [[size][[../../../../bio/Psychology/Color]]],[[../../../../../../Chemistry/Material]]] etc.
 
-While a ProductGroup itself is not directly offered for sale, the various varying products that it represents can be. The ProductGroup serves as a prototype or template, standing in for all of the products who have an [[isVariantOf]] relationship to it. As such, properties (including additional types) can be applied to the ProductGroup to represent characteristics shared by each of the (possibly very many) variants. Properties that reference a ProductGroup are not included in this mechanism; neither are the following specific properties [[variesBy]], [[hasVariant]][[../../../../../../schema-org/Class/is_a_/Data_Type/Text/Url]].
+While a ProductGroup itself is not directly offered for sale, the various varying products that it represents can be. The ProductGroup serves as a prototype or template, standing in for all of the products who have an [[isVariantOf]] relationship to it. As such, properties (including additional types) can be applied to the ProductGroup to represent characteristics shared by each of the (possibly very many) variants. Properties that reference a ProductGroup are not included in this mechanism; neither are the following specific properties [[variesBy]], [[hasVariant]][[../../../../../../schema-org/Class/is_a_/Data_Type_/Text/Url]].
 
 [ #is_/sub_class_of :: [[../Product]] ]
 

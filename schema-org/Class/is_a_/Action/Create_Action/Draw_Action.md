@@ -41,17 +41,17 @@ The act of producing a visual/graphical representation of an object, typically w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Create_Action/Draw_Action|Draw_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Create_Action/Draw_Action|Draw_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Create_Action/Draw_Action.public|Draw_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.public|Draw_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Create_Action/Draw_Action.internal|Draw_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.internal|Draw_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Create_Action/Draw_Action.protect|Draw_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.protect|Draw_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Create_Action/Draw_Action.private|Draw_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.private|Draw_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Create_Action/Draw_Action.personal|Draw_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.personal|Draw_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Create_Action/Draw_Action.secret|Draw_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Create_Action/Draw_Action.secret|Draw_Action.secret]] 
 

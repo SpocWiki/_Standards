@@ -43,17 +43,17 @@ A DeliveryTimeSettings represents re-usable pieces of shipping information, rela
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Structured_Value/Delivery_Time_Settings|Delivery_Time_Settings]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings|Delivery_Time_Settings]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Structured_Value/Delivery_Time_Settings.public|Delivery_Time_Settings.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.public|Delivery_Time_Settings.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Structured_Value/Delivery_Time_Settings.internal|Delivery_Time_Settings.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.internal|Delivery_Time_Settings.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Structured_Value/Delivery_Time_Settings.protect|Delivery_Time_Settings.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.protect|Delivery_Time_Settings.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Structured_Value/Delivery_Time_Settings.private|Delivery_Time_Settings.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.private|Delivery_Time_Settings.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Structured_Value/Delivery_Time_Settings.personal|Delivery_Time_Settings.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.personal|Delivery_Time_Settings.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Structured_Value/Delivery_Time_Settings.secret|Delivery_Time_Settings.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.secret|Delivery_Time_Settings.secret]] 
 

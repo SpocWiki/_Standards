@@ -72,7 +72,7 @@ A Unit  is a standardized Scales for a [[Dimension]].
 Units are required, because Measurements are always relative to a standard Quantity. 
 Often Units are implied. 
 
-Together with a [[schema-org/Class/is_a_/data_type_/number|number]] they form a [[schema-org/Predicate/Quantity|Quantity]]. 
+Together with a [[schema-org/Class/is_a_/data_type/number|number]] they form a [[schema-org/Predicate/Quantity|Quantity]]. 
 
 When not using Default Units and Reference-Systems, you have to specify them together with the Value: 
 Create an {object with "value" and "unit" Properties, possibly also with "reference" to specify Origin}, similar to XML Elements: 

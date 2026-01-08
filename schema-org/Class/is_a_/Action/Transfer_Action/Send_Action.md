@@ -48,17 +48,17 @@ The act of physically/electronically dispatching an object for transfer from an 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Transfer_Action/Send_Action|Send_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Send_Action|Send_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Transfer_Action/Send_Action.public|Send_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Send_Action.public|Send_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Transfer_Action/Send_Action.internal|Send_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Send_Action.internal|Send_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Transfer_Action/Send_Action.protect|Send_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Send_Action.protect|Send_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Transfer_Action/Send_Action.private|Send_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Send_Action.private|Send_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Transfer_Action/Send_Action.personal|Send_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Send_Action.personal|Send_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Transfer_Action/Send_Action.secret|Send_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Send_Action.secret|Send_Action.secret]] 
 

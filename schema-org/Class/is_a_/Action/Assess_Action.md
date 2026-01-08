@@ -43,17 +43,17 @@ The act of forming one's opinion, reaction or sentiment.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Assess_Action|Assess_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Assess_Action|Assess_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Assess_Action.public|Assess_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Assess_Action.public|Assess_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Assess_Action.internal|Assess_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Assess_Action.internal|Assess_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Assess_Action.protect|Assess_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Assess_Action.protect|Assess_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Assess_Action.private|Assess_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Assess_Action.private|Assess_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Assess_Action.personal|Assess_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Assess_Action.personal|Assess_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Assess_Action.secret|Assess_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Assess_Action.secret|Assess_Action.secret]] 
 

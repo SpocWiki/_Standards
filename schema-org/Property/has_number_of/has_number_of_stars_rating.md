@@ -44,8 +44,8 @@ The interpretation of each star can vary, but a general understanding is:
 The Rating can be mapped to an equivalent linear scale (although the Distribution is often Gaussian) using 20* Stars - 10%
 
 Use it like this: 
-- [ #has_/number_of_/stars_rating :: [[../../Class/is_a_/Intangible_/rating|Rating]] ] or 
-- [ has_number_of_stars_rating :: [[../../Class/is_a_/Intangible_/rating|Rating]] ] 
+- [ #has_/number_of_/stars_rating :: [[../../Class/is_a_/Intangible/rating|Rating]] ] or 
+- [ has_number_of_stars_rating :: [[../../Class/is_a_/Intangible/rating|Rating]] ] 
 
 An official rating for a lodging business or food establishment, e.g. from national associations or standards bodies. 
 
@@ -55,7 +55,7 @@ e.g. as an Organization with name such as (e.g. HOTREC, DEHOGA, WHR, or Hotelsta
 Predicate describes that: 
 [ #has_/domain  :: [ [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]] ] ]
 ( #has_/name :: has_number_of_stars_rating )
-( #has_/range :: [[../../Class/is_a_/Intangible_/rating|Rating]] )
+( #has_/range :: [[../../Class/is_a_/Intangible/rating|Rating]] )
 
 
 ## Confidential Links & Embeds: 

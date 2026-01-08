@@ -46,17 +46,17 @@ identifiable as a separately distinguishable entity.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Bio_Chem_Entity_/Molecular_Entity|Molecular_Entity]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Bio_Chem_Entity_/Molecular_Entity.public|Molecular_Entity.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.public|Molecular_Entity.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Bio_Chem_Entity_/Molecular_Entity.internal|Molecular_Entity.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.internal|Molecular_Entity.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Bio_Chem_Entity_/Molecular_Entity.protect|Molecular_Entity.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.protect|Molecular_Entity.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Bio_Chem_Entity_/Molecular_Entity.private|Molecular_Entity.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.private|Molecular_Entity.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Bio_Chem_Entity_/Molecular_Entity.personal|Molecular_Entity.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.personal|Molecular_Entity.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Bio_Chem_Entity_/Molecular_Entity.secret|Molecular_Entity.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.secret|Molecular_Entity.secret]] 
 

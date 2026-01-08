@@ -35,17 +35,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting|Collecting]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting|Collecting]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting.public|Collecting.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.public|Collecting.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting.internal|Collecting.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.internal|Collecting.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting.protect|Collecting.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.protect|Collecting.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting.private|Collecting.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.private|Collecting.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting.personal|Collecting.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.personal|Collecting.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting.secret|Collecting.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.secret|Collecting.secret]] 
 

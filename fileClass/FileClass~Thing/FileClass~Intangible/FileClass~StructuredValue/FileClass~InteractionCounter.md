@@ -68,7 +68,7 @@ and the [[#UserInteractionCount]]-Property to store the actual Count.
 
 These Counters are typically collected in an [[../../../../Relation/has/has_interaction_statistic|interactionStatistic]] List. 
 
-The [[#InteractionType]]-Relation allows to dynamically extend the Kinds of Interaction, unlike the simpler, but fixed [[../../../../schema-org/Class/is_a_/event_/user_interaction|user_interaction]] Values. 
+The [[#InteractionType]]-Relation allows to dynamically extend the Kinds of Interaction, unlike the simpler, but fixed [[../../../../schema-org/Class/is_a_/event/user_interaction|user_interaction]] Values. 
 
 ## Use one of these Tags for Objects of this Type:
 

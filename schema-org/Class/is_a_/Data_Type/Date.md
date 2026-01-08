@@ -37,17 +37,17 @@ A date value in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date fo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Date|Date]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Date|Date]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Date.public|Date.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Date.public|Date.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Date.internal|Date.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Date.internal|Date.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Date.protect|Date.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Date.protect|Date.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Date.private|Date.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Date.private|Date.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Date.personal|Date.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Date.personal|Date.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Date.secret|Date.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Date.secret|Date.secret]] 
 

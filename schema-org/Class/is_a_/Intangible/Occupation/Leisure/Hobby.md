@@ -62,17 +62,17 @@ Library_of_Congress_Classification: GV1201.5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby|Hobby]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby|Hobby]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby.public|Hobby.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.public|Hobby.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby.internal|Hobby.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.internal|Hobby.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby.protect|Hobby.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.protect|Hobby.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby.private|Hobby.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.private|Hobby.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby.personal|Hobby.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.personal|Hobby.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby.secret|Hobby.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.secret|Hobby.secret]] 
 

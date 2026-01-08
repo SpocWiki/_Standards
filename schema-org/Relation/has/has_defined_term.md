@@ -29,7 +29,7 @@ title: has_defined_term
 type: Predi_Relation
 ---
 
-A [[../../Class/is_a_/Intangible_/defined_term|defined_term]] contained in this term set.
+A [[../../Class/is_a_/Intangible/defined_term|defined_term]] contained in this term set.
 
 [ #is_/part_of :: pending: ]
 

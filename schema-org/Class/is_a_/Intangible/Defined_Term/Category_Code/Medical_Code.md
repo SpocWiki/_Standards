@@ -39,17 +39,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Defined_Term/Category_Code/Medical_Code|Medical_Code]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code|Medical_Code]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Defined_Term/Category_Code/Medical_Code.public|Medical_Code.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.public|Medical_Code.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Defined_Term/Category_Code/Medical_Code.internal|Medical_Code.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.internal|Medical_Code.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Defined_Term/Category_Code/Medical_Code.protect|Medical_Code.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.protect|Medical_Code.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Defined_Term/Category_Code/Medical_Code.private|Medical_Code.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.private|Medical_Code.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Defined_Term/Category_Code/Medical_Code.personal|Medical_Code.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.personal|Medical_Code.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Defined_Term/Category_Code/Medical_Code.secret|Medical_Code.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.secret|Medical_Code.secret]] 
 

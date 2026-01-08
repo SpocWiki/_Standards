@@ -41,17 +41,17 @@ Event type: Literary event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Literary_Event|Literary_Event]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Literary_Event|Literary_Event]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Literary_Event.public|Literary_Event.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Literary_Event.public|Literary_Event.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Literary_Event.internal|Literary_Event.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Literary_Event.internal|Literary_Event.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Literary_Event.protect|Literary_Event.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Literary_Event.protect|Literary_Event.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Literary_Event.private|Literary_Event.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Literary_Event.private|Literary_Event.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Literary_Event.personal|Literary_Event.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Literary_Event.personal|Literary_Event.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Literary_Event.secret|Literary_Event.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Literary_Event.secret|Literary_Event.secret]] 
 

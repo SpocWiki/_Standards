@@ -42,17 +42,17 @@ An entry point, within some Web-based protocol.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Entry_Point|Entry_Point]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Entry_Point|Entry_Point]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Entry_Point.public|Entry_Point.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Entry_Point.public|Entry_Point.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Entry_Point.internal|Entry_Point.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Entry_Point.internal|Entry_Point.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Entry_Point.protect|Entry_Point.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Entry_Point.protect|Entry_Point.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Entry_Point.private|Entry_Point.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Entry_Point.private|Entry_Point.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Entry_Point.personal|Entry_Point.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Entry_Point.personal|Entry_Point.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Entry_Point.secret|Entry_Point.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Entry_Point.secret|Entry_Point.secret]] 
 

@@ -43,17 +43,17 @@ The average rating based on multiple ratings or reviews.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating|Aggregate_Rating]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating|Aggregate_Rating]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating.public|Aggregate_Rating.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating.public|Aggregate_Rating.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating.internal|Aggregate_Rating.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating.internal|Aggregate_Rating.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating.protect|Aggregate_Rating.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating.protect|Aggregate_Rating.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating.private|Aggregate_Rating.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating.private|Aggregate_Rating.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating.personal|Aggregate_Rating.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating.personal|Aggregate_Rating.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Rating/Aggregate_Rating.secret|Aggregate_Rating.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating.secret|Aggregate_Rating.secret]] 
 

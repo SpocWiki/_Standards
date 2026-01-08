@@ -33,7 +33,7 @@ type: Predi_Date_Time
 #is_/similar_to :: #cancelled  
 #has_/dual_/property  :: [[has_time_started]] 
 
-Predicate to describe the date of [[../../Class/is_a_/Intangible_/data_feed_item]].
+Predicate to describe the date of [[../../Class/is_a_/Intangible/data_feed_item]].
 
 Use it like this: 
 - [has_time_destroyed::P#Y#M#W#DT#H#M#s.fff] or 

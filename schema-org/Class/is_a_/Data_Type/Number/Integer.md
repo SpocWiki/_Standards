@@ -85,17 +85,17 @@ Data type: Integer.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Number/Integer|Integer]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Integer|Integer]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Number/Integer.public|Integer.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Number/Integer.public|Integer.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Number/Integer.internal|Integer.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Number/Integer.internal|Integer.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Number/Integer.protect|Integer.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Number/Integer.protect|Integer.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Number/Integer.private|Integer.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Number/Integer.private|Integer.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Number/Integer.personal|Integer.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Number/Integer.personal|Integer.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Number/Integer.secret|Integer.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Number/Integer.secret|Integer.secret]] 
 

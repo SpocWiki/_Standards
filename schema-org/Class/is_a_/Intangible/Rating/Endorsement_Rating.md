@@ -46,17 +46,17 @@ endorsement rating is particularly useful in the absence of numeric scales as it
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Rating/Endorsement_Rating|Endorsement_Rating]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating|Endorsement_Rating]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Rating/Endorsement_Rating.public|Endorsement_Rating.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.public|Endorsement_Rating.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Rating/Endorsement_Rating.internal|Endorsement_Rating.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.internal|Endorsement_Rating.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Rating/Endorsement_Rating.protect|Endorsement_Rating.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.protect|Endorsement_Rating.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Rating/Endorsement_Rating.private|Endorsement_Rating.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.private|Endorsement_Rating.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Rating/Endorsement_Rating.personal|Endorsement_Rating.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.personal|Endorsement_Rating.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Rating/Endorsement_Rating.secret|Endorsement_Rating.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.secret|Endorsement_Rating.secret]] 
 

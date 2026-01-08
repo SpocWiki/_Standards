@@ -32,8 +32,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/member_/of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible_/program_membership]] ] or 
-- [ is_member_of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible_/program_membership]] ] 
+- [ #is_/member_/of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] ] or 
+- [ is_member_of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] ] 
 
 This relation can have additional Attributes to indicate the Time-Period: 
 - #is_/member_/since  to indicate the Start of Membership  
@@ -45,12 +45,12 @@ Alternatively uses the well-known Time attributes for [[Tasks]]:
 - [-] text  [createdw:: 2022-01-11]  [cancelled:: 2029-02-11] 
 
 
-An [organization](../../../Class/is_a_/organization) (or [program_membership](../../../Class/is_a_/intangible_/program_membership)) to which this Person or Organization belongs.
+An [organization](../../../Class/is_a_/organization) (or [program_membership](../../../Class/is_a_/intangible/program_membership)) to which this Person or Organization belongs.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Person ]
 ( #has_/name :: is_member_of )
-( #has_/range :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible_/program_membership]] )
+( #has_/range :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] )
 
 [ #is_/inverse_of  :: [[has_member]] ]
 

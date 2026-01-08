@@ -43,17 +43,17 @@ A set of characteristics belonging to people, e.g. who compose an item's target 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Audience/People_Audience|People_Audience]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Audience/People_Audience|People_Audience]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Audience/People_Audience.public|People_Audience.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Audience/People_Audience.public|People_Audience.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Audience/People_Audience.internal|People_Audience.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Audience/People_Audience.internal|People_Audience.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Audience/People_Audience.protect|People_Audience.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Audience/People_Audience.protect|People_Audience.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Audience/People_Audience.private|People_Audience.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Audience/People_Audience.private|People_Audience.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Audience/People_Audience.personal|People_Audience.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Audience/People_Audience.personal|People_Audience.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Audience/People_Audience.secret|People_Audience.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Audience/People_Audience.secret|People_Audience.secret]] 
 

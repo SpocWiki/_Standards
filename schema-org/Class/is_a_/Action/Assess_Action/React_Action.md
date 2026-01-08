@@ -45,17 +45,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Assess_Action/React_Action|React_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action|React_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Assess_Action/React_Action.public|React_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action.public|React_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Assess_Action/React_Action.internal|React_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action.internal|React_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Assess_Action/React_Action.protect|React_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Assess_Action/React_Action.protect|React_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Assess_Action/React_Action.private|React_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action.private|React_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Assess_Action/React_Action.personal|React_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action.personal|React_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Assess_Action/React_Action.secret|React_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action.secret|React_Action.secret]] 
 

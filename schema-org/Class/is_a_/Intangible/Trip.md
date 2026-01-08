@@ -41,17 +41,17 @@ A trip or journey. An itinerary of visits to one or more places.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Trip|Trip]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Trip|Trip]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Trip.public|Trip.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Trip.public|Trip.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Trip.internal|Trip.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Trip.internal|Trip.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Trip.protect|Trip.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Trip.protect|Trip.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Trip.private|Trip.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Trip.private|Trip.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Trip.personal|Trip.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Trip.personal|Trip.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Trip.secret|Trip.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Trip.secret|Trip.secret]] 
 

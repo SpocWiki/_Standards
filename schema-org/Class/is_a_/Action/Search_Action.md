@@ -47,17 +47,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Search_Action|Search_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Search_Action|Search_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Search_Action.public|Search_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Search_Action.public|Search_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Search_Action.internal|Search_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Search_Action.internal|Search_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Search_Action.protect|Search_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Search_Action.protect|Search_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Search_Action.private|Search_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Search_Action.private|Search_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Search_Action.personal|Search_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Search_Action.personal|Search_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Search_Action.secret|Search_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Search_Action.secret|Search_Action.secret]] 
 

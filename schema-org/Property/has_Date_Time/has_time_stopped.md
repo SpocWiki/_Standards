@@ -40,7 +40,7 @@ type: Predi_Date_Time
 
 Alternatively use the equivalent #cancelled  , because that is supported in [[../../../../Tasks/Tasks|Tasks]]: 
 
-Predicate to describe the date of [[../../Class/is_a_/Intangible_/data_feed_item]].
+Predicate to describe the date of [[../../Class/is_a_/Intangible/data_feed_item]].
 
 Use it like this: 
 - [has_time_deleted::P#Y#M#W#DT#H#M#s.fff] or 

@@ -40,17 +40,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Rating|Rating]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Rating|Rating]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Rating.public|Rating.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Rating.public|Rating.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Rating.internal|Rating.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Rating.internal|Rating.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Rating.protect|Rating.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Rating.protect|Rating.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Rating.private|Rating.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Rating.private|Rating.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Rating.personal|Rating.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Rating.personal|Rating.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Rating.secret|Rating.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Rating.secret|Rating.secret]] 
 

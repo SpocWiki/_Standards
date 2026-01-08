@@ -41,17 +41,17 @@ The act of capturing sound and moving images on film, video, or digitally.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Create_Action/Film_Action|Film_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Create_Action/Film_Action|Film_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Create_Action/Film_Action.public|Film_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Create_Action/Film_Action.public|Film_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Create_Action/Film_Action.internal|Film_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Create_Action/Film_Action.internal|Film_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Create_Action/Film_Action.protect|Film_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Create_Action/Film_Action.protect|Film_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Create_Action/Film_Action.private|Film_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Create_Action/Film_Action.private|Film_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Create_Action/Film_Action.personal|Film_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Create_Action/Film_Action.personal|Film_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Create_Action/Film_Action.secret|Film_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Create_Action/Film_Action.secret|Film_Action.secret]] 
 

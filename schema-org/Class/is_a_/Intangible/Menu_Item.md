@@ -41,17 +41,17 @@ A food or drink item listed in a menu or menu section.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Menu_Item|Menu_Item]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Menu_Item|Menu_Item]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Menu_Item.public|Menu_Item.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Menu_Item.public|Menu_Item.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Menu_Item.internal|Menu_Item.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Menu_Item.internal|Menu_Item.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Menu_Item.protect|Menu_Item.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Menu_Item.protect|Menu_Item.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Menu_Item.private|Menu_Item.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Menu_Item.private|Menu_Item.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Menu_Item.personal|Menu_Item.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Menu_Item.personal|Menu_Item.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Menu_Item.secret|Menu_Item.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Menu_Item.secret|Menu_Item.secret]] 
 

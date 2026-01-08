@@ -36,7 +36,7 @@ Class of all mass-value statements.
 Tag Instances like this: 
 #has_/value_for_/mass
 
-Properties that take Mass as values are of the form '[[../../Class/is_a_/data_type_/number|number]] {Mass unit of measure}'. E.g., '7 kg'.
+Properties that take Mass as values are of the form '[[../../Class/is_a_/data_type/number|number]] {Mass unit of measure}'. E.g., '7 kg'.
 
 [ #is_/sub_class_of :: [[../Quantity]] ]
 

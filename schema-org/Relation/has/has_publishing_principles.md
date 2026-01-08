@@ -32,7 +32,7 @@ Use it like this:
 - [ #has_/publishing_principles :: CreativeWork, URL ] or 
 - [ has_publishing_principles :: CreativeWork, URL ] 
 
-The publishingPrinciples property indicates (typically via [[../../Class/is_a_/data_type_/text/URL]]) a document describing the editorial principles of an [[../../../Society/Agent/Community/Organization]] (or individual, e.g. a [[../../../Society/Agent/Person]] writing a blog) that relate to their activities as a publisher, e.g. ethics or diversity policies. When applied to a [[CreativeWork]] (e.g. [[NewsArticle]]) the principles are those of the party primarily responsible for the creation of the [[CreativeWork]].
+The publishingPrinciples property indicates (typically via [[../../Class/is_a_/data_type/text/URL]]) a document describing the editorial principles of an [[../../../Society/Agent/Community/Organization]] (or individual, e.g. a [[../../../Society/Agent/Person]] writing a blog) that relate to their activities as a publisher, e.g. ethics or diversity policies. When applied to a [[CreativeWork]] (e.g. [[NewsArticle]]) the principles are those of the party primarily responsible for the creation of the [[CreativeWork]].
 
 
 
