@@ -42,7 +42,6 @@ dv_has_:
   name_:
     ar_:
       Latn: Ash_Sharqiyah
-    ar-:
       Arab: الشرقية
 dv_is_:
   same_as:
@@ -55,7 +54,7 @@ dv_is_:
     - "[[/_personal/Earth/2D-Directions/Direction~East.personal|Direction~East.personal]]"
     - "[[/_secret/Earth/2D-Directions/Direction~East.secret|Direction~East.secret]]"
 dv_has_name_ar_latn: Ash_Sharqiyah
-dv_has_name_ar-arab: الشرقية
+dv_has_name_ar_arab: الشرقية
 dv_is_same_as:
   - "[[../../WikiData/WD~East,684|WD~East,684]]"
   - "[[/_Standards/Earth/2D-Directions/Direction~East|Direction~East]]"
@@ -70,7 +69,7 @@ dv_is_same_as:
 # [[Direction~East]] 
 
 has_name_ar_latn = `=this.dv_has_name_ar_latn`
-#has_/name_/ar-/Arab :: الشرقية 
+has_name_ar_arab = `=this.dv_has_name_ar_arab` 
 
 #is_/same_as :: [[../../WikiData/WD~East,684|WD~East,684]] 
 

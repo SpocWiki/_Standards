@@ -308,6 +308,14 @@ ISNI: 120977669
 MeSH_tree_code: Z01.058.290.120.180
 image: http://commons.wikimedia.org/wiki/Special:FilePath/By-map-fr.png
 dv_has_:
+  name_:
+    en: Burundi
+    es: Burundi
+    fr: Burundi
+    cn: 布隆迪
+    ar: بوروندي
+    ru: Бурунди
+    de: Burundi
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Burundi
 dv_ISO4217-currency_alphabetic: BIF
@@ -319,14 +327,13 @@ dv_Telephone: 257
 dv_Global: true
 dv_Global_Name: World
 dv_name: Burundi
-dv_name-en:
-  - Burundi
-  - Burundi
-dv_name-es: Burundi
-dv_name-fr: Burundi
-dv_name-cn: 布隆迪
-dv_name-ar: بوروندي
-dv_name-ru: Бурунди
+dv_has_name_en: Burundi
+dv_has_name_es: Burundi
+dv_has_name_fr: Burundi
+dv_has_name_cn: 布隆迪
+dv_has_name_ar: بوروندي
+dv_has_name_ru: Бурунди
+dv_has_name_de: Burundi
 dv_CLDR_display_name: Burundi
 dv_UNTERM_English: Burundi
 dv_UNTERM_English_Formal: the Republic of Burundi
@@ -376,7 +383,6 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~Central/Burundi.private|Burundi.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Burundi.personal|Burundi.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Burundi.secret|Burundi.secret]]"
-dv_name-de: Burundi
 dv_Area-Total: 27834
 dv_Area-Land: 25680
 dv_has_place_continent: "[[../../Africa]]"
@@ -401,10 +407,7 @@ dv_is_same_as:
 
 # [[Burundi]] 
 
-For more Details, check out this Repository into this Subfolder: 
-has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
-
-[[Burundi/ReadMe]] 
+## [[Burundi]] has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -419,11 +422,11 @@ Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
 [	name-en	 :: Burundi ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+name-es = `=this.dv_has_name_es`
+name-fr = `=this.dv_has_name_fr`
+name-cn = `=this.dv_has_name_cn` = `=this.dv_has_.name_.cn`
+name-ar = `=this.dv_has_name_ar`
+name-ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -474,6 +477,11 @@ ISO3 = `=this.dv_ISO3`
 
 is_a_ = `=this.dv_is_a_`
 
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
+
+[[Burundi/ReadMe]] 
+
 ## #has_/map 
 
 ```leaflet
@@ -486,7 +494,7 @@ markerFolder: ./Burundi//
 ```
 
 [name-en::Burundi]
-name-de = `=this.dv_name-de`
+name-de = `=this.dv_has_name_de`
 
 ![[Coat_of_arms_of_Burundi.svg|350]]
 
