@@ -36,7 +36,7 @@ The length of time it takes to perform instructions or a direction (not includin
 
 Formal Predicate: 
 [domain::HowTo, HowToDirection]
-(name::has_duration_to_perform)
+(has_/name::has_duration_to_perform)
 (range::Duration)
 
 Has [sub_properties::cookTime]

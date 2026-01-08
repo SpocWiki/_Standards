@@ -126,7 +126,7 @@ writing_system: '[[_Standards/WikiData/WD~Greek_alphabet,8216]]'
 # [[Lang-grk]] 
 
  [SpocWebEntityId:: 491] 
-[Name::Greek] 
+[has_/name::Greek] 
 [PropId_Name::791] 
 [PropId_Text::691] 
 [LangFamilyId::] 

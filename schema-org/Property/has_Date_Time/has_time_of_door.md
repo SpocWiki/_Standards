@@ -36,7 +36,7 @@ The time, admission will commence.
 
 Formal Predicate: 
 [domain::Event]
-(name::has_time_of_door)
+(has_/name::has_time_of_door)
 (range::DateTime, Time)
 
 

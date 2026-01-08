@@ -54,7 +54,7 @@ The date on which the CreativeWork was created or the item was added to a DataFe
 
 Formal Predicate: 
 [domain::CreativeWork, DataFeedItem]
-(name::has_time_started)
+(has_/name::has_time_started)
 (range::Date, DateTime)
 
 Has [sub_properties::legislationDate]

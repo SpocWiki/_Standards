@@ -36,7 +36,7 @@ The date of production of the item, e.g. vehicle.
 
 Formal Predicate: 
 [domain::Product, Vehicle]
-(name::has_time_of_production)
+(has_/name::has_time_of_production)
 (range::Date)
 
 

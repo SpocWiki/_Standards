@@ -43,7 +43,7 @@ Libris_URI: b8nqp0jv3sv1359
 # [[LangFamily-Altaic]] 
 
 [SpocWebEntityId:: 239 ]
-[Name::Altaic]
+[has_/name::Altaic]
 
 #is_/same_as :: [[../../WikiData/WD~Altaic,37845]] 
 

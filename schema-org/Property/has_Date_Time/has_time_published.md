@@ -39,7 +39,7 @@ Date of first broadcast/publication.
 
 Formal Predicate: 
 [domain::CreativeWork]
-(name::has_time_published)
+(has_/name::has_time_published)
 (range::Date, DateTime)
 
 

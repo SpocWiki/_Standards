@@ -14,10 +14,10 @@ _Radius-sol: 0
 _Mass-sol: 0
 ---
 
-[name::W]
-[Temperature::0]
-[Radius-sol::0]
-[Mass-sol::0]
+[has_/name::W]
+[has_/value_for_/temperature_/K::0]
+[has_/value_for_/radius_/sol::0]
+[has_/value_for_/weight_/sol::0]
 
 
 ## Confidential Links & Embeds: 

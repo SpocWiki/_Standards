@@ -36,7 +36,7 @@ Length of time to engage in the activity.
 
 Formal Predicate: 
 [domain::ExercisePlan]
-(name::has_duration_of_activity)
+(has_/name::has_duration_of_activity)
 (range::Duration, QuantitativeValue)
 
 

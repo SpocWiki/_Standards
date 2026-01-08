@@ -34,7 +34,7 @@ WALS_family_code: sinotibetan
 # [[LangFamily-Sino-Tibetan]] 
 
 [SpocWebEntityId:: 234 ]
-[Name::Sino-Tibetan ]
+[has_/name::Sino-Tibetan ]
 
 #is_/same_as :: [[../../WikiData/WD~Sino-Tibetan,45961|WD~Sino-Tibetan,45961]] 
 

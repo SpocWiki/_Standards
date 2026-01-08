@@ -36,7 +36,7 @@ The time when a passenger can check into the flight online.
 
 Formal Predicate: 
 [domain::Flight]
-(name::has_time_of_web_checkin)
+(has_/name::has_time_of_web_checkin)
 (range::DateTime)
 
 

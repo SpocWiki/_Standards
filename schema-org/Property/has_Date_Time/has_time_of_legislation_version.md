@@ -38,7 +38,7 @@ The point-in-time at which the provided description of the legislation is valid 
 
 Formal Predicate: 
 [domain::Legislation]
-(name::has_time_of_legislation_version)
+(has_/name::has_time_of_legislation_version)
 (range::Date)
 
 

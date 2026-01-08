@@ -39,7 +39,7 @@ Date of birth.
 
 Formal Predicate: 
 [domain::Person]
-(name::has_time_of_birth)
+(has_/name::has_time_of_birth)
 (range::Date)
 
 

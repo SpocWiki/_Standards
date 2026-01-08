@@ -76,7 +76,7 @@ native_label: Qhichwa simi
 # [[LangFamily-Quechuan]] 
 
 [SpocWebEntityId:: 244 ]
-[Name::Quechuan] 
+[has_/name::Quechuan] 
 #is_/same_as :: [[../../WikiData/WD~Quechua,5218|WD~Quechua,5218]] 
 
 ## #has_/text_of_/abstract 

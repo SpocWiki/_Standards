@@ -38,7 +38,7 @@ The observationDate of an [[Observation]].
 
 Formal Predicate: 
 [domain::Observation]
-(name::has_time_of_observation)
+(has_/name::has_time_of_observation)
 (range::DateTime)
 
 

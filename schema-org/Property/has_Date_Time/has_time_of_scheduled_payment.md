@@ -36,7 +36,7 @@ The date the invoice is scheduled to be paid.
 
 Formal Predicate: 
 [domain::Invoice]
-(name::has_time_of_scheduled_payment)
+(has_/name::has_time_of_scheduled_payment)
 (range::Date)
 
 

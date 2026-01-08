@@ -87,7 +87,7 @@ Glottolog_code: viet1252
 # [[Lang-vie]] 
 
 [SpocWebEntityId:: 460 ]
-[Name::Vietnamese]
+[has_/name::Vietnamese]
 [PropId_Name::760]
 [PropId_Text::660]
 [LangFamilyId::240]

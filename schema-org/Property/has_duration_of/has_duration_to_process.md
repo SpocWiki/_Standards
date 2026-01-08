@@ -36,7 +36,7 @@ Estimated processing time for the service using this channel.
 
 Formal Predicate: 
 [domain::ServiceChannel]
-(name::has_duration_to_process)
+(has_/name::has_duration_to_process)
 (range::Duration)
 
 

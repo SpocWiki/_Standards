@@ -36,7 +36,7 @@ The expected arrival time.
 
 Formal Predicate: 
 [domain::Trip]
-(name::has_time_of_arrival)
+(has_/name::has_time_of_arrival)
 (range::DateTime, Time)
 
 

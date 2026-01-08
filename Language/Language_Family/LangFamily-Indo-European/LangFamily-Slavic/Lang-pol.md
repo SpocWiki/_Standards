@@ -135,7 +135,7 @@ OpenStreetMap_key: language:pl
 #has_/name_/de_ :: Polnisch  
 
 [SpocWebEntityId:: 494 ]
-[Name::Polish]
+[has_/name::Polish]
 [PropId_Name::794]
 [PropId_Text::694]
 [LangFamilyId::]

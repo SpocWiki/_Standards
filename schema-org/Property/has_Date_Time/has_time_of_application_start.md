@@ -38,7 +38,7 @@ The date at which the program begins collecting applications for the next enroll
 
 Formal Predicate: 
 [domain::EducationalOccupationalProgram]
-(name::has_time_of_application_start)
+(has_/name::has_time_of_application_start)
 (range::Date)
 
 

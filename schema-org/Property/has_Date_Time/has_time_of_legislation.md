@@ -38,7 +38,7 @@ The date of adoption or signature of the legislation. This is the date at which 
 
 Formal Predicate: 
 [domain::Legislation]
-(name::has_time_of_legislation)
+(has_/name::has_time_of_legislation)
 (range::Date)
 
 Is [sub_property_of::dateCreated]

@@ -36,7 +36,7 @@ Date the content expires and is no longer useful or available. For example a [[V
 
 Formal Predicate: 
 [domain::CreativeWork]
-(name::has_time_to_expire)
+(has_/name::has_time_to_expire)
 (range::Date, DateTime)
 
 

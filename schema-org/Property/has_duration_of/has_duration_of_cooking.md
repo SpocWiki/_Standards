@@ -36,7 +36,7 @@ The time it takes to actually cook the dish, in [ISO 8601 duration format](http:
 
 Formal Predicate: 
 [domain::Recipe]
-(name::has_duration_of_cooking)
+(has_/name::has_duration_of_cooking)
 (range::Duration)
 
 Is [sub_property_of::performTime]

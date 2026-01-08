@@ -36,7 +36,7 @@ When the item is available for pickup from the store, locker, etc.
 
 Formal Predicate: 
 [domain::DeliveryEvent]
-(name::has_time_available_from)
+(has_/name::has_time_available_from)
 (range::DateTime)
 
 

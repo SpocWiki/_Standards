@@ -36,7 +36,7 @@ Publication date of an online listing.
 
 Formal Predicate: 
 [domain::CDCPMDRecord, JobPosting, RealEstateListing, SpecialAnnouncement]
-(name::has_time_posted)
+(has_/name::has_time_posted)
 (range::Date, DateTime)
 
 

@@ -14,10 +14,10 @@ _Radius-sol: 0
 _Mass-sol: 60
 ---
 
-[name::O]
-[Temperature::50000]
-[Radius-sol::0]
-[Mass-sol::60]
+[has_/name::O]
+[has_/value_for_/temperature_/K::50000]
+[has_/value_for_/radius_/sol::0]
+[has_/value_for_/weight_/sol::60]
 
 
 ## Confidential Links & Embeds: 

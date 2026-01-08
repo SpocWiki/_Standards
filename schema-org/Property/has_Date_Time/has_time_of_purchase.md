@@ -36,7 +36,7 @@ The date the item, e.g. vehicle, was purchased by the current owner.
 
 Formal Predicate: 
 [domain::Product, Vehicle]
-(name::has_time_of_purchase)
+(has_/name::has_time_of_purchase)
 (range::Date)
 
 

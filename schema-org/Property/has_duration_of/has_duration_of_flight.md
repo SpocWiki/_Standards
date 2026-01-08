@@ -36,7 +36,7 @@ The estimated time the flight will take.
 
 Formal Predicate: 
 [domain::Flight]
-(name::has_duration_of_flight)
+(has_/name::has_duration_of_flight)
 (range::Duration, Text)
 
 

@@ -36,7 +36,7 @@ The date of the first registration of the vehicle with the respective public aut
 
 Formal Predicate: 
 [domain::Vehicle]
-(name::has_time_vehicle_first_registered)
+(has_/name::has_time_vehicle_first_registered)
 (range::Date)
 
 

@@ -36,7 +36,7 @@ The date the ticket was issued.
 
 Formal Predicate: 
 [domain::Ticket]
-(name::has_time_issued)
+(has_/name::has_time_issued)
 (range::Date, DateTime)
 
 

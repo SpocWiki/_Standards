@@ -40,7 +40,7 @@ Note that Event uses startDate/endDate instead of startTime/endTime, even when d
 
 Formal Predicate: 
 [domain::Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule, CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule]
-(name::has_time_to_start)
+(has_/name::has_time_to_start)
 (range::Date, DateTime, Time)
 
 

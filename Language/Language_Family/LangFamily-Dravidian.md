@@ -36,7 +36,7 @@ writing_system: '[[_Standards/WikiData/WD~Brahmic_scripts,467037]]'
 ---
 
 [SpocWebEntityId:: 238 ]
-[Name::Dravidian]
+[has_/name::Dravidian]
 
 #is_/same_as :: [[../../WikiData/WD~Dravidian,33311|WD~Dravidian,33311]] 
 

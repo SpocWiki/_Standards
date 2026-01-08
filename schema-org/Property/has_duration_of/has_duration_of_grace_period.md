@@ -38,7 +38,7 @@ The period of time after any due date that the borrower has to fulfil its obliga
 
 Formal Predicate: 
 [domain::LoanOrCredit]
-(name::has_duration_of_grace_period)
+(has_/name::has_duration_of_grace_period)
 (range::Duration)
 
 

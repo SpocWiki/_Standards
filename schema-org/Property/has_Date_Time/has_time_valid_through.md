@@ -36,7 +36,7 @@ The date after when the item is not valid. For example the end of an offer, sala
 
 Formal Predicate: 
 [domain::Demand, JobPosting, LocationFeatureSpecification, MonetaryAmount, Offer, OpeningHoursSpecification, PriceSpecification]
-(name::has_time_valid_through)
+(has_/name::has_time_valid_through)
 (range::Date, DateTime)
 
 

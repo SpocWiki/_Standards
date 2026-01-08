@@ -16,7 +16,7 @@ SpocWebEntityId: {{SpocWebEntityId}}
 [AtomRadius::{{AtomRadius}}]
 [Atom-Vol-ccm-mol::{{Atomvol-ccm-mol}}]
 [Unknown2::{{Unknown2}}]
-[#has_/radius_/nano_/m::{{#has_/radius_/nano_/m}}]
+[#has_/value_for_/radius_/nano_/m::{{#has_/value_for_/radius_/nano_/m}}]
 [Electronegative::{{Electronegativ}}]
 [Density::{{Density0°}}]
 [#has_/value_for_/temperature_/melt_/c ::{{MeltingPoint}}]

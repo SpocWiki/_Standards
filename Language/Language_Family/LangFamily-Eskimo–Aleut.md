@@ -7,7 +7,7 @@ type: LangFamily
 ---
 
 [SpocWebEntityId:: 242 ]
-[Name::Eskimo–Aleut]
+[has_/name::Eskimo–Aleut]
 
 
 ## Confidential Links & Embeds: 

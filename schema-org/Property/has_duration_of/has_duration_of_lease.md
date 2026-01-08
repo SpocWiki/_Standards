@@ -38,7 +38,7 @@ Length of the lease for some [[../../../Earth/Geography/Place/Accommodation]], e
 
 Formal Predicate: 
 [domain::Accommodation, Offer, RealEstateListing]
-(name::has_duration_of_lease)
+(has_/name::has_duration_of_lease)
 (range::Duration, QuantitativeValue)
 
 

@@ -38,7 +38,7 @@ Defines a [[Date]] or [[DateTime]] during which a scheduled [[Event]] will not t
 
 Formal Predicate: 
 [domain::Schedule]
-(name::has_time_excepted)
+(has_/name::has_time_excepted)
 (range::Date, DateTime)
 
 

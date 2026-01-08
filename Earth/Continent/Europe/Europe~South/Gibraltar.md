@@ -174,7 +174,7 @@ ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
 [has_place_longitude::-5.35]
 [has_place_latitude::36.1]
-[name::Gibraltar]
+[has_/name::Gibraltar]
 has_place_province::  
 has_place_country = `=this.dv_has_place_country`
 [StateId::]

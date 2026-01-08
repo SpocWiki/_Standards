@@ -14,10 +14,10 @@ _Radius-sol: 0
 _Mass-sol: 0.013
 ---
 
-[name::T]
-[Temperature::1300]
-[Radius-sol::0]
-[Mass-sol::0.013]
+[has_/name::T]
+[has_/value_for_/temperature_/K::1300]
+[has_/value_for_/radius_/sol::0]
+[has_/value_for_/weight_/sol::0.013]
 
 
 ## Confidential Links & Embeds: 

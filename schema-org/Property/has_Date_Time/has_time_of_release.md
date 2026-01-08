@@ -39,7 +39,7 @@ The release date of a product or product model. This can be used to distinguish 
 
 Formal Predicate: 
 [domain::Product]
-(name::has_time_of_release)
+(has_/name::has_time_of_release)
 (range::Date)
 
 

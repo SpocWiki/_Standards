@@ -36,7 +36,7 @@ After this date, the item will no longer be available for pickup.
 
 Formal Predicate: 
 [domain::DeliveryEvent]
-(name::has_time_available_through)
+(has_/name::has_time_available_through)
 (range::DateTime)
 
 

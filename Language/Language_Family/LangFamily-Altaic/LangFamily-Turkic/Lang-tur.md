@@ -108,7 +108,7 @@ writing_system: '[[_Standards/WikiData/WD~Turkish_alphabet,637405]]'
 # [[Lang-tur]] 
 
 [SpocWebEntityId:: 456 ]
-[Name::Turkish]
+[has_/name::Turkish]
 [PropId_Name::756]
 [PropId_Text::656]
 [LangFamilyId::454]

@@ -38,7 +38,7 @@ The expected length of time to complete the program if attending full-time.
 
 Formal Predicate: 
 [domain::EducationalOccupationalProgram]
-(name::has_duration_to_complete)
+(has_/name::has_duration_to_complete)
 (range::Duration)
 
 

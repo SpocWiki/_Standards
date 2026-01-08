@@ -234,7 +234,7 @@ writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
 # [[Lang-fra]] 
 
 [SpocWebEntityId:: 496 ]
-[Name::French]
+[has_/name::French]
 [PropId_Name::796]
 [PropId_Text::696]
 [LangFamilyId::233]

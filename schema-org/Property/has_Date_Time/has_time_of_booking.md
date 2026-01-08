@@ -36,7 +36,7 @@ The date and time the reservation was booked.
 
 Formal Predicate: 
 [domain::Reservation]
-(name::has_time_of_booking)
+(has_/name::has_time_of_booking)
 (range::DateTime)
 
 

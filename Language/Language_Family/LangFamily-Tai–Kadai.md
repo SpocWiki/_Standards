@@ -7,7 +7,7 @@ type: LangFamily
 ---
 
 [SpocWebEntityId:: 241 ]
-[Name::Tai–Kadai]
+[has_/name::Tai–Kadai]
 
 
 ## Confidential Links & Embeds: 

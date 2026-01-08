@@ -36,7 +36,7 @@ When a rental car can be dropped off.
 
 Formal Predicate: 
 [domain::RentalCarReservation]
-(name::has_time_to_drop_off)
+(has_/name::has_time_to_drop_off)
 (range::DateTime)
 
 

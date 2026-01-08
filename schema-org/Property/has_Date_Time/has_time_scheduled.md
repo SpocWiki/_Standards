@@ -36,7 +36,7 @@ The time the object is scheduled to.
 
 Formal Predicate: 
 [domain::PlanAction]
-(name::has_time_scheduled)
+(has_/name::has_time_scheduled)
 (range::DateTime)
 
 

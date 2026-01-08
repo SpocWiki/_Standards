@@ -36,7 +36,7 @@ The date/time at which the message was sent.
 
 Formal Predicate: 
 [domain::Message]
-(name::has_time_sent)
+(has_/name::has_time_sent)
 (range::DateTime)
 
 

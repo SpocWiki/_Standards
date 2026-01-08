@@ -143,7 +143,7 @@ ISNI: 0000000121451116
 # [[Lang-ita]] 
 
 [SpocWebEntityId:: 495 ]
-[Name::Italian]
+[has_/name::Italian]
 [PropId_Name::795]
 [PropId_Text::695]
 [LangFamilyId::233]

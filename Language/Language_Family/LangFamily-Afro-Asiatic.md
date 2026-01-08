@@ -50,7 +50,7 @@ GOST_7_75_97_code: афз 069
 # [[LangFamily-Afro-Asiatic]] 
 
  [SpocWebEntityId:: 236 ]
-[Name::Afro-Asiatic]
+[has_/name::Afro-Asiatic]
 
 #is_/same_as :: [[../../WikiData/WD~Afroasiatic,25268]] 
 

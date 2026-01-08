@@ -19,13 +19,13 @@ _namefirst: A
 _namelast: A
 ---
 
-[name::A]
-[name.first::A]
+[has_/name::A]
+[has_/name_/given::A]
 [name/last::A]
 [name middle::A]
-[Temperature::9750]
-[Radius-sol::2]
-[Mass-sol::3.2]
+[has_/value_for_/temperature_/K::9750]
+[has_/value_for_/radius_/sol::2]
+[has_/value_for_/weight_/sol::3.2]
 
 
 ## Confidential Links & Embeds: 

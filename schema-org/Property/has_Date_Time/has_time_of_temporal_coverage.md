@@ -49,7 +49,7 @@ Open-ended date ranges can be written with ".." in place of the end date. For ex
 
 Formal Predicate: 
 [domain::CreativeWork]
-(name::has_time_of_temporal_coverage)
+(has_/name::has_time_of_temporal_coverage)
 (range::DateTime, Text, URL)
 
 
