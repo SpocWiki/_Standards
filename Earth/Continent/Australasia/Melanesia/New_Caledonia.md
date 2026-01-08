@@ -33,6 +33,7 @@ tags:
 title: New Caledonia
 type: Country
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Australia-New_Caledonia
 dv_ISO4217-currency_alphabetic: XPF
@@ -44,14 +45,14 @@ dv_Telephone: 687
 dv_Global: true
 dv_Global_Name: World
 dv_name: New Caledonia
-dv_name-en:
+dv_has_name_en:
   - New Caledonia
   - New Caledonia
-dv_name-es: Nueva Caledonia
-dv_name-fr: Nouvelle-Calédonie
-dv_name-cn: 新喀里多尼亚
-dv_name-ar: كاليدونيا الجديدة
-dv_name-ru: Новая Каледония
+dv_has_name_es: Nueva Caledonia
+dv_has_name_fr: Nouvelle-Calédonie
+dv_has_name_cn: 新喀里多尼亚
+dv_has_name_ar: كاليدونيا الجديدة
+dv_has_name_ru: Новая Каледония
 dv_CLDR_display_name: New Caledonia
 dv_Region_Name: "[[../../Oceania]]"
 dv_Intermediate_Region_Name: "[[New_Caledonia]]"
@@ -77,7 +78,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 540
 dv_ISO2: NC
 dv_ISO3: NCL
-dv_name-de: Neukaledonien
+dv_has_name_de: Neukaledonien
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../Australia]]"
@@ -129,12 +130,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: New Caledonia ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: New Caledonia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -193,8 +194,8 @@ geojsonFolder: ./New_Caledonia//
 markerFolder: ./New_Caledonia/
 ```
 
-[name-en::New Caledonia]
-name-de = `=this.dv_name-de`
+[has_name_en::New Caledonia]
+has_name_de = `=this.dv_has_name_de`
 
 ![[Emblem_of_New_Caledonia.svg|250]]
 

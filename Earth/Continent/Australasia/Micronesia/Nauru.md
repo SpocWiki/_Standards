@@ -255,14 +255,12 @@ dv_Telephone: 674
 dv_Global: true
 dv_Global_Name: World
 dv_name: Nauru
-dv_name-en:
-  - Nauru
-  - Nauru
-dv_name-es: Nauru
-dv_name-fr: Nauru
-dv_name-cn: 瑙鲁
-dv_name-ar: ناورو
-dv_name-ru: Науру
+dv_has_name_en: Nauru
+dv_has_name_es: Nauru
+dv_has_name_fr: Nauru
+dv_has_name_cn: 瑙鲁
+dv_has_name_ar: ناورو
+dv_has_name_ru: Науру
 dv_CLDR_display_name: Nauru
 dv_UNTERM_English: Nauru
 dv_UNTERM_English_Formal: the Republic of Nauru
@@ -310,7 +308,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru.private|Nauru.private]]"
     - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru.personal|Nauru.personal]]"
     - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru.secret|Nauru.secret]]"
-dv_name-de: Nauru
+dv_has_name_de: Nauru
 dv_Area-Total: 21
 dv_Area-Land: 20
 dv_has_place_continent: "[[../../Oceania]]"
@@ -346,12 +344,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Nauru ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Nauru ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -413,8 +411,8 @@ geojsonFolder: ./Nauru//
 markerFolder: ./Nauru/
 ```
 
-[name-en::Nauru] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Nauru] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Coat_of_arms_of_Nauru.svg|350]] 
 

@@ -8,14 +8,12 @@ dv_Telephone: 976
 dv_Global: true
 dv_Global_Name: World
 dv_name: Mongolia
-dv_name-en:
-  - Mongolia
-  - Mongolia
-dv_name-es: Mongolia
-dv_name-fr: Mongolie
-dv_name-cn: 蒙古
-dv_name-ar: منغوليا
-dv_name-ru: Монголия
+dv_has_name_en: Mongolia
+dv_has_name_es: Mongolia
+dv_has_name_fr: Mongolie
+dv_has_name_cn: 蒙古
+dv_has_name_ar: منغوليا
+dv_has_name_ru: Монголия
 dv_CLDR_display_name: Mongolia
 dv_UNTERM_English: Mongolia
 dv_UNTERM_English_Formal: Mongolia
@@ -64,9 +62,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~East/Mongolia.personal|Mongolia.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~East/Mongolia.secret|Mongolia.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Mongolia
-dv_name-de: Mongolei
+dv_has_name_de: Mongolei
 dv_Area-Total: 1565000
 dv_Area-Land: 1566500
 dv_has_place_continent: "[[../../Asia]]"
@@ -456,12 +455,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Mongolia ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Mongolia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -531,8 +530,8 @@ markerFile: [[Mongolia]]
 defaultZoom: 4 
 ```
 
-[name-en::Mongolia]
-name-de = `=this.dv_name-de`
+[has_name_en::Mongolia]
+has_name_de = `=this.dv_has_name_de`
 ![[../Indian_Subcontinent/Maldives/Flag_of_Maldives.svg|350]]  
 
 

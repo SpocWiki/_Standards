@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Saint-Pierre-et-Miquelon
 dv_ISO2: PM
@@ -14,8 +15,8 @@ dv_is_:
     - "[[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]]"
     - "[[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]]"
     - "[[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]]"
-dv_name-en: Saint-Pierre-et-Miquelon
-dv_name-de: St. Pierre und Miquelon
+dv_has_name_en: Saint-Pierre-et-Miquelon
+dv_has_name_de: St. Pierre und Miquelon
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[North-America]]"
@@ -162,8 +163,8 @@ geojsonFolder: ./Saint-Pierre-et-Miquelon//
 markerFolder: ./Saint-Pierre-et-Miquelon///
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

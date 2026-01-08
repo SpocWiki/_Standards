@@ -3,12 +3,12 @@ aliases:
   - "{ ISO3166-1-Alpha-2: }": ""
   - "{ ISO3166-1-Alpha-3: }": ""
   - "{ CLDR_display_name: }": ""
-  - "{ name-en: }": ""
-  - "{ name-es: }": ""
-  - "{ name-fr: }": ""
-  - "{ name-ar: }": ""
-  - "{ name-cn: }": ""
-  - "{ name-ru: }": ""
+  - "{ has_name_en: }": ""
+  - "{ has_name_es: }": ""
+  - "{ has_name_fr: }": ""
+  - "{ has_name_ar: }": ""
+  - "{ has_name_cn: }": ""
+  - "{ has_name_ru: }": ""
   - "{ UNTERM_English_Formal: }": ""
   - "{ UNTERM_English: }": ""
   - "{ UNTERM_Spanish_Formal: }": ""
@@ -45,12 +45,12 @@ dv_Telephone: "{{Dial}}"
 dv_Global: "{{Global}}"
 dv_Global_Name: "{{Global_Name}}"
 dv_name: "{{CLDR_display_name}}"
-dv_name-en: "{{name-en}}"
-dv_name-es: "{{name-es}}"
-dv_name-fr: "{{name-fr}}"
-dv_name-cn: "{{name-cn}}"
-dv_name-ar: "{{name-ar}}"
-dv_name-ru: "{{name-ru}}"
+dv_has_name_en: "{{has_name_en}}"
+dv_has_name_es: "{{has_name_es}}"
+dv_has_name_fr: "{{has_name_fr}}"
+dv_has_name_cn: "{{has_name_cn}}"
+dv_has_name_ar: "{{has_name_ar}}"
+dv_has_name_ru: "{{has_name_ru}}"
 dv_CLDR_display_name: "{{CLDR_display_name}}"
 dv_UNTERM_English: "{{UNTERM_English}}"
 dv_UNTERM_English_Formal: "{{UNTERM_English_Formal}}"
@@ -121,12 +121,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-name-en = `=this.dv_name-en`
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 

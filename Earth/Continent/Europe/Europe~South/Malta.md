@@ -8,14 +8,12 @@ dv_Telephone: 356
 dv_Global: true
 dv_Global_Name: World
 dv_name: Malta
-dv_name-en:
-  - Malta
-  - Malta
-dv_name-es: Malta
-dv_name-fr: Malte
-dv_name-cn: 马耳他
-dv_name-ar: مالطة
-dv_name-ru: Мальта
+dv_has_name_en: Malta
+dv_has_name_es: Malta
+dv_has_name_fr: Malte
+dv_has_name_cn: 马耳他
+dv_has_name_ar: مالطة
+dv_has_name_ru: Мальта
 dv_CLDR_display_name: Malta
 dv_UNTERM_English: Malta
 dv_UNTERM_English_Formal: the Republic of Malta
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~South/Malta.personal|Malta.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Malta.secret|Malta.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Malta
-dv_name-de: Malta
+dv_has_name_de: Malta
 dv_Area-Total: 316
 dv_Area-Land: 320
 dv_has_place_continent: "[[../../Europe]]"
@@ -425,12 +424,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Malta ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Malta ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -500,8 +499,8 @@ markerFile: [[Malta]]
 defaultZoom: 7 
 ```
 
-[name-en::Malta]
-name-de = `=this.dv_name-de`
+[has_name_en::Malta]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

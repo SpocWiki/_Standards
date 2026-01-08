@@ -43,14 +43,14 @@ dv_Telephone: 378
 dv_Global: true
 dv_Global_Name: World
 dv_name: San Marino
-dv_name-en:
+dv_has_name_en:
   - San Marino
   - San Marino
-dv_name-es: San Marino
-dv_name-fr: Saint-Marin
-dv_name-cn: 圣马力诺
-dv_name-ar: سان مارينو
-dv_name-ru: Сан-Марино
+dv_has_name_es: San Marino
+dv_has_name_fr: Saint-Marin
+dv_has_name_cn: 圣马力诺
+dv_has_name_ar: سان مارينو
+dv_has_name_ru: Сан-Марино
 dv_CLDR_display_name: San Marino
 dv_UNTERM_English: San Marino
 dv_UNTERM_English_Formal: the Republic of San Marino
@@ -97,9 +97,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-San_Marino
-dv_name-de: San Marino
+dv_has_name_de: San Marino
 dv_Area-Total: 61
 dv_Area-Land: 60
 dv_has_place_continent: "[[../../Europe]]"
@@ -135,12 +136,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: San Marino ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: San Marino ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -208,8 +209,8 @@ geojsonFolder: ./San_Marino/
 markerFolder: ./San_Marino//
 ```
 
-[name-en::San Marino]
-name-de = `=this.dv_name-de`
+[has_name_en::San Marino]
+has_name_de = `=this.dv_has_name_de`
 ![[San_Marino/Coat_of_arms_of_San_Marino.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3]]
 ![[San_Marino/Flag_of_San_Marino.svg|350]]

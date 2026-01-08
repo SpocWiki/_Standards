@@ -21,13 +21,13 @@ dv_has_:
   sound_of_:
     anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Austria.mp3]]"
 dv_name: Austria
-dv_name-en: Austria
-dv_name-es: Austria
-dv_name-fr: Autriche
-dv_name-cn: 奥地利
-dv_name-ar: النمسا
-dv_name-ru: Австрия
-dv_name-de: Österreich
+dv_has_name_en: Austria
+dv_has_name_es: Austria
+dv_has_name_fr: Autriche
+dv_has_name_cn: 奥地利
+dv_has_name_ar: النمسا
+dv_has_name_ru: Австрия
+dv_has_name_de: Österreich
 dv_ISO2: AT
 dv_ISO3: AUT
 dv_ISO4217-currency_alphabetic: EUR
@@ -503,13 +503,13 @@ has_treaties = `=this.dv_has_treaties`
 ## International Names
 
 name = `=this.dv_name` 
-name-en = `=this.dv_name-en` 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
+has_name_de = `=this.dv_has_name_de` 
 
 
 ISO2 = `=this.dv_ISO2` 

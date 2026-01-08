@@ -8,14 +8,12 @@ dv_Telephone: 20
 dv_Global: true
 dv_Global_Name: World
 dv_name: Egypt
-dv_name-en:
-  - Egypt
-  - Egypt
-dv_name-es: Egipto
-dv_name-fr: Égypte
-dv_name-cn: 埃及
-dv_name-ar: مصر
-dv_name-ru: Египет
+dv_has_name_en: Egypt
+dv_has_name_es: Egipto
+dv_has_name_fr: Égypte
+dv_has_name_cn: 埃及
+dv_has_name_ar: مصر
+dv_has_name_ru: Египет
 dv_CLDR_display_name: Egypt
 dv_UNTERM_English: Egypt
 dv_UNTERM_English_Formal: the Arab Republic of Egypt
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~North/Egypt.personal|Egypt.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret|Egypt.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Egypt
-dv_name-de: Ägypten
+dv_has_name_de: Ägypten
 dv_Area-Total: 997739
 dv_Area-Land: 995450
 dv_has_place_continent: "[[../../Africa]]"
@@ -542,12 +541,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Egypt ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Egypt ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -614,8 +613,8 @@ geojsonFolder: ./Egypt//
 markerFolder: ./Egypt//
 ```
 
-[name-en::Egypt]
-name-de = `=this.dv_name-de`
+[has_name_en::Egypt]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

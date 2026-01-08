@@ -11,8 +11,8 @@ publish: true
 tags:
   - geo/Continent
 type: Continent
-dv_name-en: "{{EnglishName}}"
-dv_name-de: "{{GermanName}}"
+dv_has_name_en: "{{EnglishName}}"
+dv_has_name_de: "{{GermanName}}"
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/_ContinentTemplate|_ContinentTemplate]]"
@@ -43,8 +43,8 @@ geojsonFolder: ./{{EnglishName}}/
 markerFolder: ./{{EnglishName}}/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 
 
 ## Confidential Links & Embeds: 

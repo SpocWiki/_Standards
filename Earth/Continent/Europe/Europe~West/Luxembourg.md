@@ -8,14 +8,12 @@ dv_Telephone: 352
 dv_Global: true
 dv_Global_Name: World
 dv_name: Luxembourg
-dv_name-en:
-  - Luxembourg
-  - Luxembourg
-dv_name-es: Luxemburgo
-dv_name-fr: Luxembourg
-dv_name-cn: 卢森堡
-dv_name-ar: لكسمبرغ
-dv_name-ru: Люксембург
+dv_has_name_en: Luxembourg
+dv_has_name_es: Luxemburgo
+dv_has_name_fr: Luxembourg
+dv_has_name_cn: 卢森堡
+dv_has_name_ar: لكسمبرغ
+dv_has_name_ru: Люксембург
 dv_CLDR_display_name: Luxembourg
 dv_UNTERM_English: Luxembourg
 dv_UNTERM_English_Formal: the Grand Duchy of Luxembourg
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~West/Luxembourg.personal|Luxembourg.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~West/Luxembourg.secret|Luxembourg.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Luxembourg
-dv_name-de: Luxemburg
+dv_has_name_de: Luxemburg
 dv_Area-Total: 2586
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Europe]]"
@@ -474,12 +473,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Luxembourg ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Luxembourg ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -550,8 +549,8 @@ coordinates: [[Luxembourg]]
 markerFile: [[Luxembourg]] 
 ```
 
-[name-en::Luxembourg]
-name-de = `=this.dv_name-de`
+[has_name_en::Luxembourg]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

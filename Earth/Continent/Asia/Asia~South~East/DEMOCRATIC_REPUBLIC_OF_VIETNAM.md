@@ -8,8 +8,8 @@ SpocWebEntityId: 76724
 tags:
   - geo/Country
 type: Country
-dv_name-en: DEMOCRATIC REPUBLIC OF VIETNAM
-dv_name-de: Nord Vietnam
+dv_has_name_en: DEMOCRATIC REPUBLIC OF VIETNAM
+dv_has_name_de: Nord Vietnam
 dv_has_place_continent: "[[../../Asia]]"
 dv_Capital: "[[../../Europe/Europe~North/Sweden/City/Hanoe]]"
 dv_is_:
@@ -42,8 +42,8 @@ geojsonFolder: ./DEMOCRATIC_REPUBLIC_OF_VIETNAM/
 markerFolder: ./DEMOCRATIC_REPUBLIC_OF_VIETNAM/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

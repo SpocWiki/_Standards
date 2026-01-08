@@ -8,14 +8,12 @@ dv_Telephone: 1-671
 dv_Global: true
 dv_Global_Name: World
 dv_name: Guam
-dv_name-en:
-  - Guam
-  - Guam
-dv_name-es: Guam
-dv_name-fr: Guam
-dv_name-cn: 关岛
-dv_name-ar: غوام
-dv_name-ru: Гуам
+dv_has_name_en: Guam
+dv_has_name_es: Guam
+dv_has_name_fr: Guam
+dv_has_name_cn: 关岛
+dv_has_name_ar: غوام
+dv_has_name_ru: Гуам
 dv_CLDR_display_name: Guam
 dv_Region_Name: "[[../../Oceania]]"
 dv_Intermediate_Region_Name: "[[Guam]]"
@@ -51,7 +49,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Australasia/Micronesia/Guam.private|Guam.private]]"
     - "[[/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal|Guam.personal]]"
     - "[[/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret|Guam.secret]]"
-dv_name-de: Guam
+dv_has_name_de: Guam
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Oceania]]"
@@ -285,12 +283,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Guam ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Guam ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -355,8 +353,8 @@ markerFile: [[Guam]]
 defaultZoom: 5 
 ```
 
-[name-en::Guam] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Guam] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Seal_of_Guam.svg|350]] 
 

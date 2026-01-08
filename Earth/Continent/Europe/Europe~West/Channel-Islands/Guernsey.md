@@ -40,14 +40,12 @@ dv_Telephone: 44
 dv_Global: true
 dv_Global_Name: World
 dv_name: Guernsey
-dv_name-en:
-  - Guernsey
-  - Guernsey
-dv_name-es: Guernsey
-dv_name-fr: Guernesey
-dv_name-cn: 根西
-dv_name-ar: غيرنزي
-dv_name-ru: Гернси
+dv_has_name_en: Guernsey
+dv_has_name_es: Guernsey
+dv_has_name_fr: Guernesey
+dv_has_name_cn: 根西
+dv_has_name_ar: غيرنزي
+dv_has_name_ru: Гернси
 dv_CLDR_display_name: Guernsey
 dv_Region_Name: "[[../../../Europe]]"
 dv_Intermediate_Region_Name: "[[Channel Islands]]"
@@ -68,7 +66,7 @@ dv_is_independent: Crown dependency of GB
 dv_Developed_:
   Developing_Countries: Developed
 dv_ISO3166-1-numeric: 831
-dv_name-de: Guernsey
+dv_has_name_de: Guernsey
 dv_has_place_continent: "[[../../../Europe]]"
 dv_has_place_longitude: -2.55
 dv_has_place_latitude: 49.45
@@ -104,12 +102,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Guernsey ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Guernsey ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -168,8 +166,8 @@ geojsonFolder: ./Guernsey/
 markerFolder: ./Guernsey/
 ```
 
-[name-en::Guernsey]
-name-de = `=this.dv_name-de`
+[has_name_en::Guernsey]
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

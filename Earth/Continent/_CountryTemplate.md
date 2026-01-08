@@ -13,8 +13,8 @@ tags:
 type: Country
 dv_ISO2: "{{ISO2}}"
 dv_ISO3: "{{ISO3}}"
-dv_name-en: "{{EnglishName}}"
-dv_name-de: "{{GermanName}}"
+dv_has_name_en: "{{EnglishName}}"
+dv_has_name_de: "{{GermanName}}"
 dv_Area-Total: "{{AreaTotal}}"
 dv_Area-Land: "{{AreaLand}}"
 dv_Continent-Id: "{{ContinentId}}"
@@ -57,8 +57,8 @@ geojsonFolder: ./{{EnglishName}}/
 markerFolder: ./{{EnglishName}}/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 Continent-Id = `=this.dv_Continent-Id`

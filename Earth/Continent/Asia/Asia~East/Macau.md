@@ -40,14 +40,14 @@ dv_Telephone: 853
 dv_Global: true
 dv_Global_Name: World
 dv_name: Macau
-dv_name-en:
+dv_has_name_en:
   - China, Macao Special Administrative Region
   - Macau
-dv_name-es: China, región administrativa especial de Macao
-dv_name-fr: Chine, région administrative spéciale de Macao
-dv_name-cn: 中国澳门特别行政区
-dv_name-ar: منطقة ماكاو الإدارية الخاصة التابعة للصين
-dv_name-ru: Китай, Специальный административный район Макао
+dv_has_name_es: China, región administrativa especial de Macao
+dv_has_name_fr: Chine, région administrative spéciale de Macao
+dv_has_name_cn: 中国澳门特别行政区
+dv_has_name_ar: منطقة ماكاو الإدارية الخاصة التابعة للصين
+dv_has_name_ru: Китай, Специальный административный район Макао
 dv_CLDR_display_name: Macau
 dv_Region_Name: "[[../../Asia]]"
 dv_Intermediate_Region_Name: "[[Macau]]"
@@ -70,7 +70,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 446
 dv_ISO2: MO
 dv_ISO3: MAC
-dv_name-de: Macao
+dv_has_name_de: Macao
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Asia]]"
@@ -107,12 +107,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: China, Macao Special Administrative Region ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: China, Macao Special Administrative Region ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -171,8 +171,8 @@ geojsonFolder: ./Macau/
 markerFolder: ./Macau/
 ```
 
-[name-en::Macau]
-name-de = `=this.dv_name-de`
+[has_name_en::Macau]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

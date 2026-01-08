@@ -153,8 +153,8 @@ UMLS_CUI: C0003980
 U_S_National_Archives_Identifier: 10035693
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Asia,7112190]]"
 Wikitribune_category: asia
-dv_name-en: Asia
-dv_name-de: Asien
+dv_has_name_en: Asia
+dv_has_name_de: Asien
 dv_#has_:
   code: AS
 dv_is_:
@@ -197,8 +197,8 @@ coordinates: [[Asia]]
 markerFile: [[Asia]] 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 has_code = `=this.dv_has_code`
 #is_/same_as :: [[../../WikiData/WD~Asia,48|WD~Asia,48]] 
 

@@ -325,14 +325,12 @@ dv_Telephone: 265
 dv_Global: true
 dv_Global_Name: World
 dv_name: Malawi
-dv_name-en:
-  - Malawi
-  - Malawi
-dv_name-es: Malawi
-dv_name-fr: Malawi
-dv_name-cn: 马拉维
-dv_name-ar: ملاوي
-dv_name-ru: Малави
+dv_has_name_en: Malawi
+dv_has_name_es: Malawi
+dv_has_name_fr: Malawi
+dv_has_name_cn: 马拉维
+dv_has_name_ar: ملاوي
+dv_has_name_ru: Малави
 dv_CLDR_display_name: Malawi
 dv_UNTERM_English: Malawi
 dv_UNTERM_English_Formal: the Republic of Malawi
@@ -383,9 +381,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Malawi
-dv_name-de: Malawi
+dv_has_name_de: Malawi
 dv_Area-Total: 118484
 dv_Area-Land: 94080
 dv_has_place_continent: "[[../../Africa]]"
@@ -422,12 +421,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Malawi ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Malawi ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -494,8 +493,8 @@ geojsonFolder: ./Malawi//
 markerFolder: ./Malawi//
 ```
 
-[name-en::Malawi]
-name-de = `=this.dv_name-de`
+[has_name_en::Malawi]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

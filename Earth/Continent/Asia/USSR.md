@@ -14,8 +14,8 @@ type: Country
 dv_has_:
   next_:
     item: "[[../Europe/Europe~East/Russia]]"
-dv_name-en: USSR
-dv_name-de: UdSSR
+dv_has_name_en: USSR
+dv_has_name_de: UdSSR
 dv_has_place_continent: "[[../Asia]]"
 dv_Language-Id: 469
 dv_is_:
@@ -51,8 +51,8 @@ geojsonFolder: ./Russia~Asia//
 markerFolder: ./Russia~Asia//
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

@@ -13,8 +13,8 @@ tags:
 type: Country
 dv_ISO2: PS
 dv_ISO3: PSE
-dv_name-en: Palestinian Territory, Occupied
-dv_name-de: Palästina
+dv_has_name_en: Palestinian Territory, Occupied
+dv_has_name_de: Palästina
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Asia]]"
@@ -52,8 +52,8 @@ geojsonFolder: ./Palestinian_Territory,_Occupied//
 markerFolder: ./Palestinian_Territory,_Occupied/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

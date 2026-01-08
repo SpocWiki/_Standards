@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Belarus
 dv_ISO4217-currency_alphabetic: BYN
@@ -11,14 +12,12 @@ dv_Telephone: 375
 dv_Global: true
 dv_Global_Name: World
 dv_name: Belarus
-dv_name-en:
-  - Belarus
-  - Belarus
-dv_name-es: Belarús
-dv_name-fr: Bélarus
-dv_name-cn: 白俄罗斯
-dv_name-ar: بيلاروس
-dv_name-ru: Беларусь
+dv_has_name_en: Belarus
+dv_has_name_es: Belarús
+dv_has_name_fr: Bélarus
+dv_has_name_cn: 白俄罗斯
+dv_has_name_ar: بيلاروس
+dv_has_name_ru: Беларусь
 dv_CLDR_display_name: Belarus
 dv_UNTERM_English: Belarus
 dv_UNTERM_English_Formal: the Republic of Belarus
@@ -65,7 +64,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Europe/Europe~East/Belarus.private|Belarus.private]]"
     - "[[/_personal/Earth/Continent/Europe/Europe~East/Belarus.personal|Belarus.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~East/Belarus.secret|Belarus.secret]]"
-dv_name-de: Weißrussland
+dv_has_name_de: Weißrussland
 dv_Area-Total: 207595
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Europe]]"
@@ -511,12 +510,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Belarus ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Belarus ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -586,8 +585,8 @@ markerFile: [[Belarus]]
 defaultZoom: 5 
 ```
 
-[name-en::Belarus]
-name-de = `=this.dv_name-de`
+[has_name_en::Belarus]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -12,10 +12,11 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.personal|Korea~South.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.secret|Korea~South.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Korea~South
-dv_name-en: Korea, Rep.
-dv_name-de: Südkorea
+dv_has_name_en: Korea, Rep.
+dv_has_name_de: Südkorea
 dv_Area-Total: 99392
 dv_Area-Land: 98730
 dv_has_place_continent: "[[../../../Asia]]"
@@ -487,8 +488,8 @@ markerFile: [[Korea~South]]
 defaultZoom: 6 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

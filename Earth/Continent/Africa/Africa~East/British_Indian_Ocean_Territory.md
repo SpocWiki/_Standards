@@ -33,6 +33,7 @@ tags:
 title: British Indian Ocean Territory
 type: Country
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-British_Indian_Ocean_Territory
 dv_ISO4217-currency_alphabetic: USD
@@ -44,14 +45,14 @@ dv_Telephone: 246
 dv_Global: true
 dv_Global_Name: World
 dv_name: British Indian Ocean Territory
-dv_name-en:
+dv_has_name_en:
   - British Indian Ocean Territory
   - British Indian Ocean Territory
-dv_name-es: Territorio Británico del Océano Índico
-dv_name-fr: Territoire britannique de l'océan Indien
-dv_name-cn: 英属印度洋领土
-dv_name-ar: المحيط الهندي الإقليم البريطاني في
-dv_name-ru: Британская территория в Индийском океане
+dv_has_name_es: Territorio Británico del Océano Índico
+dv_has_name_fr: Territoire britannique de l'océan Indien
+dv_has_name_cn: 英属印度洋领土
+dv_has_name_ar: المحيط الهندي الإقليم البريطاني في
+dv_has_name_ru: Британская территория в Индийском океане
 dv_CLDR_display_name: British Indian Ocean Territory
 dv_Region_Name: "[[../../Africa]]"
 dv_Intermediate_Region_Name: "[[Eastern Africa]]"
@@ -73,7 +74,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 86
 dv_ISO2: IO
 dv_ISO3: IOT
-dv_name-de: Britisches Territorium im indischen Ozean
+dv_has_name_de: Britisches Territorium im indischen Ozean
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Africa]]"
@@ -122,12 +123,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: British Indian Ocean Territory ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: British Indian Ocean Territory ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -186,8 +187,8 @@ geojsonFolder: ./British_Indian_Ocean_Territory/
 markerFolder: ./British_Indian_Ocean_Territory/
 ```
 
-[name-en::British Indian Ocean Territory]
-name-de = `=this.dv_name-de`
+[has_name_en::British Indian Ocean Territory]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

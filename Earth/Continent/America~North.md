@@ -140,8 +140,8 @@ dv_is_:
     - "[[/_private/Earth/Continent/America~North.private|America~North.private]]"
     - "[[/_personal/Earth/Continent/America~North.personal|America~North.personal]]"
     - "[[/_secret/Earth/Continent/America~North.secret|America~North.secret]]"
-dv_name-en: North America
-dv_name-de: Nordamerika
+dv_has_name_en: North America
+dv_has_name_de: Nordamerika
 dv_#has_:
   code: NA
 dv_is_same_as:
@@ -174,8 +174,8 @@ markerFile: [[America~North]]
 zoomFeatures: false
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 has_code = `=this.dv_has_code`
 
 

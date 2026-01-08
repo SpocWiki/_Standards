@@ -8,14 +8,14 @@ dv_Telephone: 98
 dv_Global: true
 dv_Global_Name: World
 dv_name: Iran
-dv_name-en:
+dv_has_name_en:
   - Iran (Islamic Republic of)
   - Iran
-dv_name-es: Irán (República Islámica del)
-dv_name-fr: Iran (République islamique d')
-dv_name-cn: 伊朗(伊斯兰共和国)
-dv_name-ar: إيران (جمهورية - الإسلامية)
-dv_name-ru: Иран (Исламская Республика)
+dv_has_name_es: Irán (República Islámica del)
+dv_has_name_fr: Iran (République islamique d')
+dv_has_name_cn: 伊朗(伊斯兰共和国)
+dv_has_name_ar: إيران (جمهورية - الإسلامية)
+dv_has_name_ru: Иран (Исламская Республика)
 dv_CLDR_display_name: Iran
 dv_UNTERM_English: Iran (Islamic Republic of)
 dv_UNTERM_English_Formal: the Islamic Republic of Iran
@@ -62,9 +62,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Iran.personal|Iran.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Iran.secret|Iran.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Iran
-dv_name-de: Iran (Islamic Republic of)
+dv_has_name_de: Iran (Islamic Republic of)
 dv_Area-Total: 1648000
 dv_Area-Land: 1636000
 dv_has_place_continent: "[[../../Asia]]"
@@ -635,12 +636,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Iran (Islamic Republic of) ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Iran (Islamic Republic of) ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -711,8 +712,8 @@ markerFile: [[Iran]]
 defaultZoom: 5 
 ```
 
-[name-en::Iran]
-name-de = `=this.dv_name-de`
+[has_name_en::Iran]
+has_name_de = `=this.dv_has_name_de`
 ![[Iran/Emblem_of_Iran.svg|350]]  
 
 ![[Iran/Flag_of_Iran.svg|350]]  

@@ -361,6 +361,7 @@ VAT_rate: 17
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mozambique,16056528]]"
 WIPO_ST_3: MZ
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Mozambique
 dv_ISO4217-currency_alphabetic: MZN
@@ -372,14 +373,12 @@ dv_Telephone: 258
 dv_Global: true
 dv_Global_Name: World
 dv_name: Mozambique
-dv_name-en:
-  - Mozambique
-  - Mozambique
-dv_name-es: Mozambique
-dv_name-fr: Mozambique
-dv_name-cn: 莫桑比克
-dv_name-ar: موزامبيق
-dv_name-ru: Мозамбик
+dv_has_name_en: Mozambique
+dv_has_name_es: Mozambique
+dv_has_name_fr: Mozambique
+dv_has_name_cn: 莫桑比克
+dv_has_name_ar: موزامبيق
+dv_has_name_ru: Мозамбик
 dv_CLDR_display_name: Mozambique
 dv_UNTERM_English: Mozambique
 dv_UNTERM_English_Formal: the Republic of Mozambique
@@ -429,7 +428,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~East/Mozambique.private|Mozambique.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Mozambique.personal|Mozambique.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Mozambique.secret|Mozambique.secret]]"
-dv_name-de: Mozambique
+dv_has_name_de: Mozambique
 dv_Area-Total: 799380
 dv_Area-Land: 784090
 dv_has_place_continent: "[[../../Africa]]"
@@ -472,12 +471,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Mozambique ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Mozambique ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -539,8 +538,8 @@ geojsonFolder: ./Mozambique//
 markerFolder: ./Mozambique//
 ```
 
-[name-en::Mozambique]
-name-de = `=this.dv_name-de`
+[has_name_en::Mozambique]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

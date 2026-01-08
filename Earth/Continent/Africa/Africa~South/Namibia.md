@@ -365,14 +365,12 @@ dv_Telephone: 264
 dv_Global: true
 dv_Global_Name: World
 dv_name: Namibia
-dv_name-en:
-  - Namibia
-  - Namibia
-dv_name-es: Namibia
-dv_name-fr: Namibie
-dv_name-cn: 纳米比亚
-dv_name-ar: ناميبيا
-dv_name-ru: Намибия
+dv_has_name_en: Namibia
+dv_has_name_es: Namibia
+dv_has_name_fr: Namibie
+dv_has_name_cn: 纳米比亚
+dv_has_name_ar: ناميبيا
+dv_has_name_ru: Намибия
 dv_CLDR_display_name: Namibia
 dv_UNTERM_English: Namibia
 dv_UNTERM_English_Formal: the Republic of Namibia
@@ -421,9 +419,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~South/Namibia.personal|Namibia.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~South/Namibia.secret|Namibia.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Namibia
-dv_name-de: Namibia
+dv_has_name_de: Namibia
 dv_Area-Total: 824292
 dv_Area-Land: 823290
 dv_has_place_continent: "[[../../Africa]]"
@@ -460,12 +459,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Namibia ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Namibia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -532,8 +531,8 @@ geojsonFolder: ./Namibia//
 markerFolder: ./Namibia//
 ```
 
-[name-en::Namibia]
-name-de = `=this.dv_name-de`
+[has_name_en::Namibia]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

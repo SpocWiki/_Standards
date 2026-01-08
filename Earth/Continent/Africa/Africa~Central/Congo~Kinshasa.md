@@ -568,10 +568,11 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.personal|Congo~Kinshasa.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.secret|Congo~Kinshasa.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Congo-Kinshasa
-dv_name-en: Congo, Dem. Rep.
-dv_name-de: Republik Kongo
+dv_has_name_en: Congo, Dem. Rep.
+dv_has_name_de: Republik Kongo
 dv_Area-Total: 342000
 dv_Area-Land: 341500
 dv_has_place_continent: "[[../../Africa]]"
@@ -618,8 +619,8 @@ geojsonFolder: ./Congo~Kinshasa//
 markerFolder: ./Congo~Kinshasa//
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

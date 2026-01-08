@@ -382,14 +382,12 @@ dv_Telephone: 56
 dv_Global: true
 dv_Global_Name: World
 dv_name: Chile
-dv_name-en:
-  - Chile
-  - Chile
-dv_name-es: Chile
-dv_name-fr: Chili
-dv_name-cn: 智利
-dv_name-ar: شيلي
-dv_name-ru: Чили
+dv_has_name_en: Chile
+dv_has_name_es: Chile
+dv_has_name_fr: Chili
+dv_has_name_cn: 智利
+dv_has_name_ar: شيلي
+dv_has_name_ru: Чили
 dv_CLDR_display_name: Chile
 dv_UNTERM_English: Chile
 dv_UNTERM_English_Formal: the Republic of Chile
@@ -438,9 +436,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~South/Southern_Cone/Chile.personal|Chile.personal]]"
     - "[[/_secret/Earth/Continent/America~South/Southern_Cone/Chile.secret|Chile.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Chile
-dv_name-de: Chile
+dv_has_name_de: Chile
 dv_Area-Total: 756626
 dv_Area-Land: 748800
 dv_has_place_continent: "[[South-America]]"
@@ -476,12 +475,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Chile ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Chile ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -548,8 +547,8 @@ geojsonFolder: ./Chile//
 markerFolder: ./Chile/
 ```
 
-[name-en::Chile]
-name-de = `=this.dv_name-de`
+[has_name_en::Chile]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

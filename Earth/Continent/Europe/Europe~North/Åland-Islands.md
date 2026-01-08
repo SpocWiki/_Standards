@@ -42,14 +42,14 @@ dv_Telephone: 358
 dv_Global: true
 dv_Global_Name: World
 dv_name: Åland Islands
-dv_name-en:
+dv_has_name_en:
   - Åland Islands
   - Åland
-dv_name-es: Islas Åland
-dv_name-fr: Îles d'Åland
-dv_name-cn: 奥兰群岛
-dv_name-ar: جزر ألاند
-dv_name-ru: Аландские острова
+dv_has_name_es: Islas Åland
+dv_has_name_fr: Îles d'Åland
+dv_has_name_cn: 奥兰群岛
+dv_has_name_ar: جزر ألاند
+dv_has_name_ru: Аландские острова
 dv_CLDR_display_name: Åland Islands
 dv_Region_Name: "[[../../Europe]]"
 dv_Intermediate_Region_Name: "[[Åland-Islands]]"
@@ -77,7 +77,7 @@ dv_Small_Island_Developing_States:
   - 
   - 
 dv_ISO3166-1-numeric: 248
-dv_name-de: Åland Inseln
+dv_has_name_de: Åland Inseln
 dv_has_place_continent: "[[../../Europe]]"
 dv_has_place_latitude: 60.1481
 dv_independent: Part of FI ]
@@ -118,12 +118,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Åland Islands ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Åland Islands ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -183,8 +183,8 @@ geojsonFolder: ./Åland-Islands////
 markerFolder: ./Åland-Islands//
 ```
 
-[name-en::Åland]
-name-de = `=this.dv_name-de`
+[has_name_en::Åland]
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

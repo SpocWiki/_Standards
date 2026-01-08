@@ -10,6 +10,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~North/Norway.personal|Norway.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~North/Norway.secret|Norway.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Norway
 dv_ISO4217-currency_alphabetic: NOK
@@ -21,14 +22,12 @@ dv_Telephone: 47
 dv_Global: true
 dv_Global_Name: World
 dv_name: Norway
-dv_name-en:
-  - Norway
-  - Norway
-dv_name-es: Noruega
-dv_name-fr: Norvège
-dv_name-cn: 挪威
-dv_name-ar: النرويج
-dv_name-ru: Норвегия
+dv_has_name_en: Norway
+dv_has_name_es: Noruega
+dv_has_name_fr: Norvège
+dv_has_name_cn: 挪威
+dv_has_name_ar: النرويج
+dv_has_name_ru: Норвегия
 dv_CLDR_display_name: Norway
 dv_UNTERM_English: Norway
 dv_UNTERM_English_Formal: the Kingdom of Norway
@@ -65,7 +64,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 578
 dv_ISO2: NO
 dv_ISO3: NOR
-dv_name-de: Norwegen
+dv_has_name_de: Norwegen
 dv_Area-Total: 323877
 dv_Area-Land: 306830
 dv_has_place_continent: "[[../../Europe]]"
@@ -601,12 +600,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Norway ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Norway ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -669,8 +668,8 @@ markerFile: [[Norway]]
 defaultZoom: 5 
 ```
 
-[name-en::Norway]
-name-de = `=this.dv_name-de`
+[has_name_en::Norway]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

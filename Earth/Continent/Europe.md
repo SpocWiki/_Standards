@@ -189,8 +189,8 @@ dv_is_:
     - "[[/_private/Earth/Continent/Europe.private|Europe.private]]"
     - "[[/_personal/Earth/Continent/Europe.personal|Europe.personal]]"
     - "[[/_secret/Earth/Continent/Europe.secret|Europe.secret]]"
-dv_name-en: Europe
-dv_name-de: Europa
+dv_has_name_en: Europe
+dv_has_name_de: Europa
 dv_#has_:
   code: EU
 dv_has_:
@@ -235,8 +235,8 @@ geojsonFolder: ./Europe//
 markerFolder: ./Europe/City/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 has_code = `=this.dv_has_code`
 
 

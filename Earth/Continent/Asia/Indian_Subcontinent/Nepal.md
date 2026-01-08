@@ -8,14 +8,12 @@ dv_Telephone: 977
 dv_Global: true
 dv_Global_Name: World
 dv_name: Nepal
-dv_name-en:
-  - Nepal
-  - Nepal
-dv_name-es: Nepal
-dv_name-fr: Népal
-dv_name-cn: 尼泊尔
-dv_name-ar: نيبال
-dv_name-ru: Непал
+dv_has_name_en: Nepal
+dv_has_name_es: Nepal
+dv_has_name_fr: Népal
+dv_has_name_cn: 尼泊尔
+dv_has_name_ar: نيبال
+dv_has_name_ru: Непал
 dv_CLDR_display_name: Nepal
 dv_UNTERM_English: Nepal
 dv_UNTERM_English_Formal: the Federal Democratic Republic of Nepal
@@ -65,9 +63,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.personal|Nepal.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal.secret|Nepal.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Nepal
-dv_name-de: Nepal
+dv_has_name_de: Nepal
 dv_Area-Total: 147181
 dv_Area-Land: 136800
 dv_has_place_continent: "[[../../Asia]]"
@@ -569,12 +568,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Nepal ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Nepal ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -645,8 +644,8 @@ markerFile: [[Nepal]]
 defaultZoom: 6  
 ```
 
-[name-en::Nepal]
-name-de = `=this.dv_name-de`
+[has_name_en::Nepal]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

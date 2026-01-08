@@ -8,14 +8,14 @@ dv_Telephone: 84
 dv_Global: true
 dv_Global_Name: World
 dv_name: Vietnam
-dv_name-en:
+dv_has_name_en:
   - Viet Nam
   - Vietnam
-dv_name-es: Viet Nam
-dv_name-fr: Viet Nam
-dv_name-cn: 越南
-dv_name-ar: فييت نام
-dv_name-ru: Вьетнам
+dv_has_name_es: Viet Nam
+dv_has_name_fr: Viet Nam
+dv_has_name_cn: 越南
+dv_has_name_ar: فييت نام
+dv_has_name_ru: Вьетнам
 dv_CLDR_display_name: Vietnam
 dv_UNTERM_English: Viet Nam
 dv_UNTERM_English_Formal: the Socialist Republic of Viet Nam
@@ -63,9 +63,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam.personal|Vietnam.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam.secret|Vietnam.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Vietnam
-dv_name-de: Vietnam
+dv_has_name_de: Vietnam
 dv_Area-Total: 331114
 dv_Area-Land: 325490
 dv_has_place_continent: "[[../../Asia]]"
@@ -622,12 +623,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Viet Nam ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Viet Nam ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -697,8 +698,8 @@ markerFile: [[Vietnam]]
 defaultZoom: 5 
 ```
 
-[name-en::Vietnam]
-name-de = `=this.dv_name-de`
+[has_name_en::Vietnam]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

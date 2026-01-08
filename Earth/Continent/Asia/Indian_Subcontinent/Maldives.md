@@ -8,14 +8,12 @@ dv_Telephone: 960
 dv_Global: true
 dv_Global_Name: World
 dv_name: Maldives
-dv_name-en:
-  - Maldives
-  - Maldives
-dv_name-es: Maldivas
-dv_name-fr: Maldives
-dv_name-cn: 马尔代夫
-dv_name-ar: ملديف
-dv_name-ru: Мальдивские Острова
+dv_has_name_en: Maldives
+dv_has_name_es: Maldivas
+dv_has_name_fr: Maldives
+dv_has_name_cn: 马尔代夫
+dv_has_name_ar: ملديف
+dv_has_name_ru: Мальдивские Острова
 dv_CLDR_display_name: Maldives
 dv_UNTERM_English: Maldives
 dv_UNTERM_English_Formal: the Republic of Maldives
@@ -64,9 +62,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.personal|Maldives.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives.secret|Maldives.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Maldives
-dv_name-de: Malediven
+dv_has_name_de: Malediven
 dv_Area-Total: 298
 dv_Area-Land: 300
 dv_has_place_continent: "[[../../Asia]]"
@@ -394,12 +393,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Maldives ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Maldives ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -470,8 +469,8 @@ coordinates: [[Maldives]]
 markerFile: [[Maldives]] 
 ```
 
-[name-en::Maldives]
-name-de = `=this.dv_name-de`
+[has_name_en::Maldives]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

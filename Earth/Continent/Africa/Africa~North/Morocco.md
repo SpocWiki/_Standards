@@ -439,14 +439,12 @@ dv_Telephone: 212
 dv_Global: true
 dv_Global_Name: World
 dv_name: Morocco
-dv_name-en:
-  - Morocco
-  - Morocco
-dv_name-es: Marruecos
-dv_name-fr: Maroc
-dv_name-cn: 摩洛哥
-dv_name-ar: المغرب
-dv_name-ru: Марокко
+dv_has_name_en: Morocco
+dv_has_name_es: Marruecos
+dv_has_name_fr: Maroc
+dv_has_name_cn: 摩洛哥
+dv_has_name_ar: المغرب
+dv_has_name_ru: Марокко
 dv_CLDR_display_name: Morocco
 dv_UNTERM_English: Morocco
 dv_UNTERM_English_Formal: the Kingdom of Morocco
@@ -494,9 +492,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~North/Morocco.personal|Morocco.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret|Morocco.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Morocco
-dv_name-de: Marokko
+dv_has_name_de: Marokko
 dv_Area-Total: 458730
 dv_Area-Land: 446300
 dv_has_place_continent: "[[../../Africa]]"
@@ -532,12 +531,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Morocco ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Morocco ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -604,8 +603,8 @@ geojsonFolder: ./Morocco//
 markerFolder: ./Morocco//
 ```
 
-[name-en::Morocco]
-name-de = `=this.dv_name-de`
+[has_name_en::Morocco]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Eritrea
 dv_ISO4217-currency_alphabetic: ERN
@@ -11,14 +12,12 @@ dv_Telephone: 291
 dv_Global: true
 dv_Global_Name: World
 dv_name: Eritrea
-dv_name-en:
-  - Eritrea
-  - Eritrea
-dv_name-es: Eritrea
-dv_name-fr: Érythrée
-dv_name-cn: 厄立特里亚
-dv_name-ar: إريتريا
-dv_name-ru: Эритрея
+dv_has_name_en: Eritrea
+dv_has_name_es: Eritrea
+dv_has_name_fr: Érythrée
+dv_has_name_cn: 厄立特里亚
+dv_has_name_ar: إريتريا
+dv_has_name_ru: Эритрея
 dv_CLDR_display_name: Eritrea
 dv_UNTERM_English: Eritrea
 dv_UNTERM_English_Formal: the State of Eritrea
@@ -66,7 +65,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~East/Eritrea.private|Eritrea.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Eritrea.personal|Eritrea.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Eritrea.secret|Eritrea.secret]]"
-dv_name-de: Eritrea
+dv_has_name_de: Eritrea
 dv_Area-Total: 121144
 dv_Area-Land: 101000
 dv_has_place_continent: "[[../../Africa|Africa]]"
@@ -402,12 +401,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Eritrea ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Eritrea ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -478,8 +477,8 @@ markerFile: [[Eritrea]]
 defaultZoom: 5 
 ```
 
-[name-en::Eritrea]
-name-de = `=this.dv_name-de`
+[has_name_en::Eritrea]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

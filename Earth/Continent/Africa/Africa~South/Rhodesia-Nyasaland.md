@@ -10,8 +10,8 @@ SpocWebEntityId: 76702
 tags:
   - geo/Country
 type: Country
-dv_name-en: Rhodesia-Nyasaland
-dv_name-de: Rhodesien-Nyasaland
+dv_has_name_en: Rhodesia-Nyasaland
+dv_has_name_de: Rhodesien-Nyasaland
 dv_has_place_continent: "[[../../Africa]]"
 dv_Capital: "[[Zimbabwe/Provinces~Zimbabwe/Harare,Province]]"
 dv_is_a_: "[[../../../Geography/Place]]"
@@ -47,8 +47,8 @@ geojsonFolder: ./Rhodesia-Nyasaland//
 markerFolder: ./Rhodesia-Nyasaland//
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

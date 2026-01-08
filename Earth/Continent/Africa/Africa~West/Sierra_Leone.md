@@ -323,14 +323,14 @@ dv_Telephone: 232
 dv_Global: true
 dv_Global_Name: World
 dv_name: Sierra Leone
-dv_name-en:
+dv_has_name_en:
   - Sierra Leone
   - Sierra Leone
-dv_name-es: Sierra Leona
-dv_name-fr: Sierra Leone
-dv_name-cn: 塞拉利昂
-dv_name-ar: سيراليون
-dv_name-ru: Сьерра-Леоне
+dv_has_name_es: Sierra Leona
+dv_has_name_fr: Sierra Leone
+dv_has_name_cn: 塞拉利昂
+dv_has_name_ar: سيراليون
+dv_has_name_ru: Сьерра-Леоне
 dv_CLDR_display_name: Sierra Leone
 dv_UNTERM_English: Sierra Leone
 dv_UNTERM_English_Formal: the Republic of Sierra Leone
@@ -380,9 +380,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone.personal|Sierra_Leone.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret|Sierra_Leone.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Sierra_Leone
-dv_name-de: Sierra Leone
+dv_has_name_de: Sierra Leone
 dv_Area-Total: 71740
 dv_Area-Land: 71620
 dv_has_place_continent: "[[../../Africa]]"
@@ -418,12 +419,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Sierra Leone ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Sierra Leone ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -496,8 +497,8 @@ markerFile: [[Sierra_Leone]]
 defaultZoom: 11 
 ```
 
-[name-en::Sierra Leone]
-name-de = `=this.dv_name-de`
+[has_name_en::Sierra Leone]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

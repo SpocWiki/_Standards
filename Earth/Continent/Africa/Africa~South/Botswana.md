@@ -335,6 +335,7 @@ GitHub_topic: botswana
 Krugosvet_article: strany_mira/BOTSVANA.html
 native_label: Botswana
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Botswana
 dv_ISO4217-currency_alphabetic: BWP
@@ -346,14 +347,12 @@ dv_Telephone: 267
 dv_Global: true
 dv_Global_Name: World
 dv_name: Botswana
-dv_name-en:
-  - Botswana
-  - Botswana
-dv_name-es: Botswana
-dv_name-fr: Botswana
-dv_name-cn: 博茨瓦纳
-dv_name-ar: بوتسوانا
-dv_name-ru: Ботсвана
+dv_has_name_en: Botswana
+dv_has_name_es: Botswana
+dv_has_name_fr: Botswana
+dv_has_name_cn: 博茨瓦纳
+dv_has_name_ar: بوتسوانا
+dv_has_name_ru: Ботсвана
 dv_CLDR_display_name: Botswana
 dv_UNTERM_English: Botswana
 dv_UNTERM_English_Formal: the Republic of Botswana
@@ -392,7 +391,7 @@ dv_Land_Locked_Developing_Countries: x
 dv_ISO3166-1-numeric: 72
 dv_ISO2: BW
 dv_ISO3: BWA
-dv_name-de: Botswana
+dv_has_name_de: Botswana
 dv_Area-Total: 582000
 dv_Area-Land: 566730
 dv_has_place_continent: "[[../../Africa]]"
@@ -443,12 +442,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Botswana ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Botswana ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -507,8 +506,8 @@ geojsonFolder: ./Botswana//
 markerFolder: ./Botswana//
 ```
 
-[name-en::Botswana]
-name-de = `=this.dv_name-de`
+[has_name_en::Botswana]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

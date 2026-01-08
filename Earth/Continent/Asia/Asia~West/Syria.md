@@ -8,14 +8,14 @@ dv_Telephone: 963
 dv_Global: true
 dv_Global_Name: World
 dv_name: Syria
-dv_name-en:
+dv_has_name_en:
   - Syrian Arab Republic
   - Syria
-dv_name-es: República Árabe Siria
-dv_name-fr: République arabe syrienne
-dv_name-cn: 阿拉伯叙利亚共和国
-dv_name-ar: الجمهورية العربية السورية
-dv_name-ru: Сирийская Арабская Республика
+dv_has_name_es: República Árabe Siria
+dv_has_name_fr: République arabe syrienne
+dv_has_name_cn: 阿拉伯叙利亚共和国
+dv_has_name_ar: الجمهورية العربية السورية
+dv_has_name_ru: Сирийская Арабская Республика
 dv_CLDR_display_name: Syria
 dv_UNTERM_English: Syrian Arab Republic
 dv_UNTERM_English_Formal: the Syrian Arab Republic
@@ -63,9 +63,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Syria.personal|Syria.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Syria.secret|Syria.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Syria
-dv_name-de: Syrien, Syrian Arab Republic
+dv_has_name_de: Syrien, Syrian Arab Republic
 dv_Area-Total: 185180
 dv_Area-Land: 183780
 dv_has_place_continent: "[[../../Asia]]"
@@ -440,12 +441,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Syrian Arab Republic ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Syrian Arab Republic ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -515,8 +516,8 @@ markerFile: [[Syria]]
 defaultZoom: 6 
 ```
 
-[name-en::Syria]
-name-de = `=this.dv_name-de`
+[has_name_en::Syria]
+has_name_de = `=this.dv_has_name_de`
 ![[Syria/Coat_of_arms_of_Syria.svg|350]]  
 ![[Syria/Flag_of_Syria.svg|350]]  
 

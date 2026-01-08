@@ -8,14 +8,12 @@ dv_Telephone: 91
 dv_Global: true
 dv_Global_Name: World
 dv_name: India
-dv_name-en:
-  - India
-  - India
-dv_name-es: India
-dv_name-fr: Inde
-dv_name-cn: 印度
-dv_name-ar: الهند
-dv_name-ru: Индия
+dv_has_name_en: India
+dv_has_name_es: India
+dv_has_name_fr: Inde
+dv_has_name_cn: 印度
+dv_has_name_ar: الهند
+dv_has_name_ru: Индия
 dv_CLDR_display_name: India
 dv_UNTERM_English: India
 dv_UNTERM_English_Formal: the Republic of India
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India.personal|India.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India.secret|India.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-India
-dv_name-de: Indien
+dv_has_name_de: Indien
 dv_Area-Total: 3287263
 dv_Area-Land: 2973190
 dv_has_place_continent: "[[../../Asia]]"
@@ -1397,12 +1396,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: India ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: India ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -1521,8 +1520,8 @@ markerFile: [[India]]
 defaultZoom: 5 
 ```
 
-[name-en::India]
-name-de = `=this.dv_name-de`
+[has_name_en::India]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

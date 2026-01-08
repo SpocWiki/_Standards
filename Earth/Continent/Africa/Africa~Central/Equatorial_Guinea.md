@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Equatorial_Guinea
 dv_ISO4217-currency_alphabetic: XAF
@@ -11,14 +12,14 @@ dv_Telephone: 240
 dv_Global: true
 dv_Global_Name: World
 dv_name: Equatorial Guinea
-dv_name-en:
+dv_has_name_en:
   - Equatorial Guinea
   - Equatorial Guinea
-dv_name-es: Guinea Ecuatorial
-dv_name-fr: Guinée équatoriale
-dv_name-cn: 赤道几内亚
-dv_name-ar: غينيا الاستوائية
-dv_name-ru: Экваториальная Гвинея
+dv_has_name_es: Guinea Ecuatorial
+dv_has_name_fr: Guinée équatoriale
+dv_has_name_cn: 赤道几内亚
+dv_has_name_ar: غينيا الاستوائية
+dv_has_name_ru: Экваториальная Гвинея
 dv_CLDR_display_name: Equatorial Guinea
 dv_UNTERM_English: Equatorial Guinea
 dv_UNTERM_English_Formal: the Republic of Equatorial Guinea
@@ -66,7 +67,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.private|Equatorial_Guinea.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.personal|Equatorial_Guinea.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret|Equatorial_Guinea.secret]]"
-dv_name-de: Äquatorial-Guinea
+dv_has_name_de: Äquatorial-Guinea
 dv_Area-Total: 28051
 dv_Area-Land: 28050
 dv_has_place_continent: "[[../../Africa]]"
@@ -408,12 +409,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Equatorial Guinea ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Equatorial Guinea ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -483,8 +484,8 @@ markerFile: [[Equatorial_Guinea]]
 defaultZoom: 8 
 ```
 
-[name-en::Equatorial Guinea]
-name-de = `=this.dv_name-de`
+[has_name_en::Equatorial Guinea]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

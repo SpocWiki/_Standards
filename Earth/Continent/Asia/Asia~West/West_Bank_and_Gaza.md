@@ -8,8 +8,8 @@ SpocWebEntityId: 57607
 tags:
   - geo/Country
 type: Country
-dv_name-en: West Bank and Gaza
-dv_name-de: West Bank und Gaza
+dv_has_name_en: West Bank and Gaza
+dv_has_name_de: West Bank und Gaza
 dv_has_place_continent: "[[../../Africa]]"
 dv_Language-Id: 472
 dv_is_:
@@ -42,8 +42,8 @@ geojsonFolder: ./West_Bank_and_Gaza//
 markerFolder: ./West_Bank_and_Gaza/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

@@ -293,14 +293,12 @@ dv_Telephone: 220
 dv_Global: true
 dv_Global_Name: World
 dv_name: Gambia
-dv_name-en:
-  - Gambia
-  - Gambia
-dv_name-es: Gambia
-dv_name-fr: Gambie
-dv_name-cn: 冈比亚
-dv_name-ar: غامبيا
-dv_name-ru: Гамбия
+dv_has_name_en: Gambia
+dv_has_name_es: Gambia
+dv_has_name_fr: Gambie
+dv_has_name_cn: 冈比亚
+dv_has_name_ar: غامبيا
+dv_has_name_ru: Гамбия
 dv_CLDR_display_name: Gambia
 dv_UNTERM_English: Gambia (the)
 dv_UNTERM_English_Formal: the Republic of the Gambia
@@ -350,9 +348,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal|Gambia.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret|Gambia.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Gambia
-dv_name-de: Gambia
+dv_has_name_de: Gambia
 dv_Area-Total: 11295
 dv_Area-Land: 10000
 dv_has_place_continent: "[[../../Africa]]"
@@ -388,12 +387,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Gambia ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Gambia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -461,8 +460,8 @@ geojsonFolder: ./Gambia//
 markerFolder: ./Gambia//
 ```
 
-[name-en::Gambia]
-name-de = `=this.dv_name-de`
+[has_name_en::Gambia]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Estonia
 dv_ISO4217-currency_alphabetic: EUR
@@ -11,14 +12,12 @@ dv_Telephone: 372
 dv_Global: true
 dv_Global_Name: World
 dv_name: Estonia
-dv_name-en:
-  - Estonia
-  - Estonia
-dv_name-es: Estonia
-dv_name-fr: Estonie
-dv_name-cn: 爱沙尼亚
-dv_name-ar: إستونيا
-dv_name-ru: Эстония
+dv_has_name_en: Estonia
+dv_has_name_es: Estonia
+dv_has_name_fr: Estonie
+dv_has_name_cn: 爱沙尼亚
+dv_has_name_ar: إستونيا
+dv_has_name_ru: Эстония
 dv_CLDR_display_name: Estonia
 dv_UNTERM_English: Estonia
 dv_UNTERM_English_Formal: the Republic of Estonia
@@ -65,7 +64,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Europe/Europe~North/Estonia.private|Estonia.private]]"
     - "[[/_personal/Earth/Continent/Europe/Europe~North/Estonia.personal|Estonia.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~North/Estonia.secret|Estonia.secret]]"
-dv_name-de: Estland
+dv_has_name_de: Estland
 dv_Area-Total: 45227
 dv_Area-Land: 42270
 dv_has_place_continent: "[[../../Europe]]"
@@ -513,12 +512,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Estonia ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Estonia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -588,8 +587,8 @@ markerFile: [[Estonia]]
 defaultZoom: 5 
 ```
 
-[name-en::Estonia]
-name-de = `=this.dv_name-de`
+[has_name_en::Estonia]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

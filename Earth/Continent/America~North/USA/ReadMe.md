@@ -26,6 +26,7 @@ Languages:
   - en-US
 icon: flag-us
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-USA
   time_:
@@ -39,8 +40,8 @@ dv_has_:
     Prefix_:
       International: 11
       country: 1
-dv_name-en: United States of America
-dv_name-de: Vereinigte Staaten von Amerika
+dv_has_name_en: United States of America
+dv_has_name_de: Vereinigte Staaten von Amerika
 dv_ISO2: US
 dv_ISO3: USA
 dv_Area-Total: 9809155
@@ -82,8 +83,8 @@ dv_is_same_as:
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3` 
@@ -178,7 +179,7 @@ dv.table(
                 d.Capital,
                 d.has_place_longitude,
                 d.has_place_latitude,
-                d["name-abbr"]
+                d["has_name_abbr"]
             ])
     ),
 );

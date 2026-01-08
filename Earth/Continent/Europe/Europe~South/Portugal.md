@@ -403,14 +403,12 @@ dv_Telephone: 351
 dv_Global: true
 dv_Global_Name: World
 dv_name: Portugal
-dv_name-en:
-  - Portugal
-  - Portugal
-dv_name-es: Portugal
-dv_name-fr: Portugal
-dv_name-cn: 葡萄牙
-dv_name-ar: البرتغال
-dv_name-ru: Португалия
+dv_has_name_en: Portugal
+dv_has_name_es: Portugal
+dv_has_name_fr: Portugal
+dv_has_name_cn: 葡萄牙
+dv_has_name_ar: البرتغال
+dv_has_name_ru: Португалия
 dv_CLDR_display_name: Portugal
 dv_UNTERM_English: Portugal
 dv_UNTERM_English_Formal: the Portuguese Republic
@@ -458,9 +456,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~South/Portugal.personal|Portugal.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Portugal.secret|Portugal.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Portugal
-dv_name-de: Portugal
+dv_has_name_de: Portugal
 dv_Area-Total: 92270
 dv_Area-Land: 91950
 dv_has_place_continent: "[[../../Europe]]"
@@ -496,12 +495,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Portugal ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Portugal ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -571,8 +570,8 @@ markerFile: [[Portugal]]
 defaultZoom: 11 
 ```
 
-[name-en::Portugal]
-name-de = `=this.dv_name-de`
+[has_name_en::Portugal]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -11,8 +11,8 @@ SpocWebEntityId: 76720
 tags:
   - geo/Country
 type: Country
-dv_name-en: Eritrea and Ethiopia
-dv_name-de: Eritrea und Äthiopien
+dv_has_name_en: Eritrea and Ethiopia
+dv_has_name_de: Eritrea und Äthiopien
 dv_has_place_continent: "[[../../Africa]]"
 dv_Capital: "[[Addis_Abeba]]"
 dv_Language-Id: 472
@@ -52,8 +52,8 @@ geojsonFolder: [./Eritrea//,./Ethiopia//]
 markerFolder: [./Eritrea/,./Ethiopia/]
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

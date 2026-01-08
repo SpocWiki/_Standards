@@ -8,14 +8,12 @@ dv_Telephone: 962
 dv_Global: true
 dv_Global_Name: World
 dv_name: Jordan
-dv_name-en:
-  - Jordan
-  - Jordan
-dv_name-es: Jordania
-dv_name-fr: Jordanie
-dv_name-cn: 约旦
-dv_name-ar: الأردن
-dv_name-ru: Иордания
+dv_has_name_en: Jordan
+dv_has_name_es: Jordania
+dv_has_name_fr: Jordanie
+dv_has_name_cn: 约旦
+dv_has_name_ar: الأردن
+dv_has_name_ru: Иордания
 dv_CLDR_display_name: Jordan
 dv_UNTERM_English: Jordan
 dv_UNTERM_English_Formal: the Hashemite Kingdom of Jordan
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Jordan.personal|Jordan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret|Jordan.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Jordan
-dv_name-de: Jordanien
+dv_has_name_de: Jordanien
 dv_Area-Total: 88946
 dv_Area-Land: 88930
 dv_has_place_continent: "[[../../Asia]]"
@@ -429,12 +428,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Jordan ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Jordan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -504,8 +503,8 @@ markerFile: [[Jordan]]
 defaultZoom: 7 
 ```
 
-[name-en::Jordan]
-name-de = `=this.dv_name-de`
+[has_name_en::Jordan]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

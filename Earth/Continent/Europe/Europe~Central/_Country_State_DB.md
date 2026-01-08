@@ -223,12 +223,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  name-abbr:
+  has_name_abbr:
     input: text
-    accessorKey: name-abbr
-    label: name-abbr
-    key: name-abbr
-    id: name-abbr
+    accessorKey: has_name_abbr
+    label: has_name_abbr
+    key: has_name_abbr
+    id: has_name_abbr
     position: 2
     skipPersist: false
     isHidden: false

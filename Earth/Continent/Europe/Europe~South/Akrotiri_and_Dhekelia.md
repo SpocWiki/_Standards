@@ -9,8 +9,8 @@ SpocWebEntityId: 76719
 tags:
   - geo/Country
 type: Country
-dv_name-en: Akrotiri and Dhekelia
-dv_name-de: Akrotiri und Dhekelia (Zypern)
+dv_has_name_en: Akrotiri and Dhekelia
+dv_has_name_de: Akrotiri und Dhekelia (Zypern)
 dv_has_place_continent: "[[../../Europe]]"
 dv_is_:
   same_as:
@@ -43,8 +43,8 @@ geojsonFolder: ./Akrotiri_and_Dhekelia/
 markerFolder: ./Akrotiri_and_Dhekelia/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

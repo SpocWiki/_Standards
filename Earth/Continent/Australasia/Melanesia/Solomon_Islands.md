@@ -45,14 +45,14 @@ dv_Telephone: 677
 dv_Global: true
 dv_Global_Name: World
 dv_name: Solomon Islands
-dv_name-en:
+dv_has_name_en:
   - Solomon Islands
   - Solomon Islands
-dv_name-es: Islas Salomón
-dv_name-fr: Îles Salomon
-dv_name-cn: 所罗门群岛
-dv_name-ar: جزر سليمان
-dv_name-ru: Соломоновы Острова
+dv_has_name_es: Islas Salomón
+dv_has_name_fr: Îles Salomon
+dv_has_name_cn: 所罗门群岛
+dv_has_name_ar: جزر سليمان
+dv_has_name_ru: Соломоновы Острова
 dv_CLDR_display_name: Solomon Islands
 dv_UNTERM_English: Solomon Islands
 dv_UNTERM_English_Formal: Solomon Islands
@@ -101,7 +101,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands.private|Solomon_Islands.private]]"
     - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands.personal|Solomon_Islands.personal]]"
     - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands.secret|Solomon_Islands.secret]]"
-dv_name-de: Salomonen
+dv_has_name_de: Salomonen
 dv_Area-Total: 29785
 dv_Area-Land: 27990
 dv_has_place_continent: "[[../../Oceania]]"
@@ -138,12 +138,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Solomon Islands ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Solomon Islands ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -205,8 +205,8 @@ geojsonFolder: ./Solomon_Islands/
 markerFolder: ./Solomon_Islands/
 ```
 
-[name-en::Solomon Islands] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Solomon Islands] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 has_place_continent = `=this.dv_has_place_continent`

@@ -1244,14 +1244,12 @@ dv_Telephone: 62
 dv_Global: true
 dv_Global_Name: World
 dv_name: Indonesia
-dv_name-en:
-  - Indonesia
-  - Indonesia
-dv_name-es: Indonesia
-dv_name-fr: Indonésie
-dv_name-cn: 印度尼西亚
-dv_name-ar: إندونيسيا
-dv_name-ru: Индонезия
+dv_has_name_en: Indonesia
+dv_has_name_es: Indonesia
+dv_has_name_fr: Indonésie
+dv_has_name_cn: 印度尼西亚
+dv_has_name_ar: إندونيسيا
+dv_has_name_ru: Индонезия
 dv_CLDR_display_name: Indonesia
 dv_UNTERM_English: Indonesia
 dv_UNTERM_English_Formal: the Republic of Indonesia
@@ -1299,9 +1297,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.personal|Indonesia.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.secret|Indonesia.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Indonesia
-dv_name-de: Indonesien
+dv_has_name_de: Indonesien
 dv_Area-Total: 1904443
 dv_Area-Land: 1919440
 dv_has_place_continent: "[[../../../Oceania]]"
@@ -1337,12 +1336,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Indonesia ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Indonesia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -1425,8 +1424,8 @@ coordinates: [[Indonesia]]
 markerFile: [[Indonesia]] 
 ```
 
-[name-en::Indonesia]
-name-de = `=this.dv_name-de`
+[has_name_en::Indonesia]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

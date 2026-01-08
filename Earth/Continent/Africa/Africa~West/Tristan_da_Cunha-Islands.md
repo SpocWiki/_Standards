@@ -12,12 +12,13 @@ tags:
   - geo/Country
 type: Country
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Saint_Helena
 dv_ISO2: SH
 dv_ISO3: SHN
-dv_name-en: Saint Helena
-dv_name-de: St. Helena
+dv_has_name_en: Saint Helena
+dv_has_name_de: St. Helena
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Africa]]"
@@ -63,8 +64,8 @@ geojsonFolder: ./Saint_Helena/
 markerFolder: ./Saint_Helena/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 
 ![[Coat_of_arms_of_Saint_Helena.svg|350]]
 

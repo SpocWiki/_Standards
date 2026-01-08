@@ -8,14 +8,12 @@ dv_Telephone: 256
 dv_Global: true
 dv_Global_Name: World
 dv_name: Uganda
-dv_name-en:
-  - Uganda
-  - Uganda
-dv_name-es: Uganda
-dv_name-fr: Ouganda
-dv_name-cn: 乌干达
-dv_name-ar: أوغندا
-dv_name-ru: Уганда
+dv_has_name_en: Uganda
+dv_has_name_es: Uganda
+dv_has_name_fr: Ouganda
+dv_has_name_cn: 乌干达
+dv_has_name_ar: أوغندا
+dv_has_name_ru: Уганда
 dv_CLDR_display_name: Uganda
 dv_UNTERM_English: Uganda
 dv_UNTERM_English_Formal: the Republic of Uganda
@@ -66,9 +64,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Uganda.personal|Uganda.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Uganda.secret|Uganda.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Uganda
-dv_name-de: Uganda
+dv_has_name_de: Uganda
 dv_Area-Total: 241139
 dv_Area-Land: 199650
 dv_has_place_continent: "[[../../Africa]]"
@@ -592,12 +591,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Uganda ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Uganda ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -666,8 +665,8 @@ markerFile: [[Uganda]]
 defaultZoom: 6 
 ```
 
-[name-en::Uganda]
-name-de = `=this.dv_name-de`
+[has_name_en::Uganda]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -337,10 +337,11 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.personal|Congo~Brazzaville.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.secret|Congo~Brazzaville.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Congo-Brazzaville
-dv_name-en: Congo, Rep.
-dv_name-de: Kongo
+dv_has_name_en: Congo, Rep.
+dv_has_name_de: Kongo
 dv_Area-Total: 342000
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Africa]]"
@@ -386,8 +387,8 @@ geojsonFolder: ./Congo~Brazzaville//
 markerFolder: ./Congo~Brazzaville//
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

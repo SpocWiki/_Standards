@@ -404,6 +404,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Uruguay,7112501]]"
 WIPO_ST_3: UY
 Wolfram_Language_entity_code: Entity["Country", "Uruguay"]
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Uruguay
 dv_ISO4217-currency_alphabetic: UYU
@@ -415,14 +416,12 @@ dv_Telephone: 598
 dv_Global: true
 dv_Global_Name: World
 dv_name: Uruguay
-dv_name-en:
-  - Uruguay
-  - Uruguay
-dv_name-es: Uruguay
-dv_name-fr: Uruguay
-dv_name-cn: 乌拉圭
-dv_name-ar: أوروغواي
-dv_name-ru: Уругвай
+dv_has_name_en: Uruguay
+dv_has_name_es: Uruguay
+dv_has_name_fr: Uruguay
+dv_has_name_cn: 乌拉圭
+dv_has_name_ar: أوروغواي
+dv_has_name_ru: Уругвай
 dv_CLDR_display_name: Uruguay
 dv_UNTERM_English: Uruguay
 dv_UNTERM_English_Formal: the Eastern Republic of Uruguay
@@ -470,7 +469,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay.private|Uruguay.private]]"
     - "[[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay.personal|Uruguay.personal]]"
     - "[[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay.secret|Uruguay.secret]]"
-dv_name-de: Uruguay
+dv_has_name_de: Uruguay
 dv_Area-Total: 176215
 dv_Area-Land: 174810
 dv_has_place_continent: "[[South-America]]"
@@ -512,12 +511,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Uruguay ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Uruguay ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -581,8 +580,8 @@ geojsonFolder: ./Uruguay//
 markerFolder: ./Uruguay/
 ```
 
-[name-en::Uruguay]
-name-de = `=this.dv_name-de`
+[has_name_en::Uruguay]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

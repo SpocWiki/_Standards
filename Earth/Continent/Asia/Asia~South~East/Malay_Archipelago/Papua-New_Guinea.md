@@ -49,14 +49,14 @@ dv_Telephone: 675
 dv_Global: true
 dv_Global_Name: World
 dv_name: Papua New Guinea
-dv_name-en:
+dv_has_name_en:
   - Papua New Guinea
   - Papua New Guinea
-dv_name-es: Papua Nueva Guinea
-dv_name-fr: Papouasie-Nouvelle-Guinée
-dv_name-cn: 巴布亚新几内亚
-dv_name-ar: بابوا غينيا الجديدة
-dv_name-ru: Папуа-Новая Гвинея
+dv_has_name_es: Papua Nueva Guinea
+dv_has_name_fr: Papouasie-Nouvelle-Guinée
+dv_has_name_cn: 巴布亚新几内亚
+dv_has_name_ar: بابوا غينيا الجديدة
+dv_has_name_ru: Папуа-Новая Гвинея
 dv_CLDR_display_name: Papua New Guinea
 dv_UNTERM_English: Papua New Guinea
 dv_UNTERM_English_Formal: Independent State of Papua New Guinea
@@ -104,7 +104,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private|Papua-New_Guinea.private]]"
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal|Papua-New_Guinea.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret|Papua-New_Guinea.secret]]"
-dv_name-de: Papua-Neuguinea
+dv_has_name_de: Papua-Neuguinea
 dv_Area-Total: 462840
 dv_Area-Land: 452860
 dv_has_place_continent: "[[../../../Oceania]]"
@@ -141,12 +141,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Papua New Guinea ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Papua New Guinea ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -208,8 +208,8 @@ geojsonFolder: ./Papua-New_Guinea//
 markerFolder: ./Papua-New_Guinea/
 ```
 
-[name-en::Papua New Guinea] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Papua New Guinea] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Papua_New_Guinea/Emblem_of_Papua_New_Guinea.svg]] 
 

@@ -308,14 +308,12 @@ dv_Telephone: 266
 dv_Global: true
 dv_Global_Name: World
 dv_name: Lesotho
-dv_name-en:
-  - Lesotho
-  - Lesotho
-dv_name-es: Lesotho
-dv_name-fr: Lesotho
-dv_name-cn: 莱索托
-dv_name-ar: ليسوتو
-dv_name-ru: Лесото
+dv_has_name_en: Lesotho
+dv_has_name_es: Lesotho
+dv_has_name_fr: Lesotho
+dv_has_name_cn: 莱索托
+dv_has_name_ar: ليسوتو
+dv_has_name_ru: Лесото
 dv_CLDR_display_name: Lesotho
 dv_UNTERM_English: Lesotho
 dv_UNTERM_English_Formal: the Kingdom of Lesotho
@@ -355,7 +353,7 @@ dv_Least_Developed_Countries: x
 dv_ISO3166-1-numeric: 426
 dv_ISO2: LS
 dv_ISO3: LSO
-dv_name-de: Lesotho
+dv_has_name_de: Lesotho
 dv_Area-Total: 30355
 dv_Area-Land: 30350
 dv_has_place_continent: "[[../../Africa]]"
@@ -376,6 +374,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal|Lesotho.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret|Lesotho.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Lesotho
 dv_developed_developing_countries: Developing
@@ -405,12 +404,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Lesotho ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Lesotho ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -469,8 +468,8 @@ geojsonFolder: ./Lesotho//
 markerFolder: ./Lesotho//
 ```
 
-[name-en::Lesotho]
-name-de = `=this.dv_name-de`
+[has_name_en::Lesotho]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

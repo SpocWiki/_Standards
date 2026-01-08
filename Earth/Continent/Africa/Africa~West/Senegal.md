@@ -384,14 +384,12 @@ dv_Telephone: 221
 dv_Global: true
 dv_Global_Name: World
 dv_name: Senegal
-dv_name-en:
-  - Senegal
-  - Senegal
-dv_name-es: Senegal
-dv_name-fr: Sénégal
-dv_name-cn: 塞内加尔
-dv_name-ar: السنغال
-dv_name-ru: Сенегал
+dv_has_name_en: Senegal
+dv_has_name_es: Senegal
+dv_has_name_fr: Sénégal
+dv_has_name_cn: 塞内加尔
+dv_has_name_ar: السنغال
+dv_has_name_ru: Сенегал
 dv_CLDR_display_name: Senegal
 dv_UNTERM_English: Senegal
 dv_UNTERM_English_Formal: the Republic of Senegal
@@ -441,9 +439,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Senegal.personal|Senegal.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Senegal.secret|Senegal.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Senegal
-dv_name-de: Senegal
+dv_has_name_de: Senegal
 dv_Area-Total: 196722
 dv_Area-Land: 192530
 dv_has_place_continent: "[[../../Africa]]"
@@ -479,12 +478,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Senegal ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Senegal ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -551,8 +550,8 @@ geojsonFolder: ./Senegal//
 markerFolder: ./Senegal//
 ```
 
-[name-en::Senegal]
-name-de = `=this.dv_name-de`
+[has_name_en::Senegal]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

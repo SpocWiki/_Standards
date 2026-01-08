@@ -8,14 +8,12 @@ dv_Telephone: 380
 dv_Global: true
 dv_Global_Name: World
 dv_name: Ukraine
-dv_name-en:
-  - Ukraine
-  - Ukraine
-dv_name-es: Ucrania
-dv_name-fr: Ukraine
-dv_name-cn: 乌克兰
-dv_name-ar: أوكرانيا
-dv_name-ru: Украина
+dv_has_name_en: Ukraine
+dv_has_name_es: Ucrania
+dv_has_name_fr: Ukraine
+dv_has_name_cn: 乌克兰
+dv_has_name_ar: أوكرانيا
+dv_has_name_ru: Украина
 dv_CLDR_display_name: Ukraine
 dv_UNTERM_English: Ukraine
 dv_UNTERM_English_Formal: Ukraine
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~East/Ukraine.personal|Ukraine.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~East/Ukraine.secret|Ukraine.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Ukraine
-dv_name-de: Ukraine
+dv_has_name_de: Ukraine
 dv_Area-Total: 603700
 dv_Area-Land: 579350
 dv_has_place_continent: "[[../../Europe]]"
@@ -524,12 +523,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Ukraine ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Ukraine ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -599,8 +598,8 @@ markerFile: [[Ukraine]]
 defaultZoom: 5 
 ```
 
-[name-en::Ukraine]
-name-de = `=this.dv_name-de`
+[has_name_en::Ukraine]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

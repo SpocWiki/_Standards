@@ -8,14 +8,12 @@ dv_Telephone: 382
 dv_Global: true
 dv_Global_Name: World
 dv_name: Montenegro
-dv_name-en:
-  - Montenegro
-  - Montenegro
-dv_name-es: Montenegro
-dv_name-fr: Monténégro
-dv_name-cn: 黑山
-dv_name-ar: الجبل الأسود
-dv_name-ru: Черногория
+dv_has_name_en: Montenegro
+dv_has_name_es: Montenegro
+dv_has_name_fr: Monténégro
+dv_has_name_cn: 黑山
+dv_has_name_ar: الجبل الأسود
+dv_has_name_ru: Черногория
 dv_CLDR_display_name: Montenegro
 dv_UNTERM_English: Montenegro
 dv_UNTERM_English_Formal: Montenegro
@@ -62,9 +60,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~South/Montenegro.personal|Montenegro.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Montenegro.secret|Montenegro.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Montenegro
-dv_name-de: Montenegro
+dv_has_name_de: Montenegro
 dv_has_place_continent: "[[../../Europe]]"
 dv_VehicleCode: MNE
 dv_Capital: "[[./Montenegro/Counties/Podgorica]]"
@@ -456,12 +455,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Montenegro ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Montenegro ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -531,8 +530,8 @@ markerFile: [[Montenegro]]
 defaultZoom: 7 
 ```
 
-[name-en::Montenegro]
-name-de = `=this.dv_name-de`
+[has_name_en::Montenegro]
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

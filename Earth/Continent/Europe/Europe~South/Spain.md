@@ -548,13 +548,13 @@ WIPO_ST_3: ES
 Wolfram_Language_entity_code: Entity["Country", "Spain"]
 X_Twitter_username: 060gobes
 dv_name: Spain
-dv_name-en: Spain
-dv_name-es: España
-dv_name-fr: Espagne
-dv_name-cn: 西班牙
-dv_name-ar: إسبانيا
-dv_name-ru: Испания
-dv_name-de: Spanien
+dv_has_name_en: Spain
+dv_has_name_es: España
+dv_has_name_fr: Espagne
+dv_has_name_cn: 西班牙
+dv_has_name_ar: إسبانيا
+dv_has_name_ru: Испания
+dv_has_name_de: Spanien
 dv_ISO2: ES
 dv_ISO3: ESP
 dv_is_:
@@ -568,6 +568,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~South/Spain.personal|Spain.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Spain.secret|Spain.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-France
   image_for_:
@@ -647,13 +648,13 @@ dv_developed_developing_countries: Developed
 ## International Names
 
 name = `=this.dv_name`
-name-en = `=this.dv_name-en`
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+has_name_de = `=this.dv_has_name_de`
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`

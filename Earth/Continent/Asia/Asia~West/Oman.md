@@ -8,14 +8,12 @@ dv_Telephone: 968
 dv_Global: true
 dv_Global_Name: World
 dv_name: Oman
-dv_name-en:
-  - Oman
-  - Oman
-dv_name-es: Omán
-dv_name-fr: Oman
-dv_name-cn: 阿曼
-dv_name-ar: عمان
-dv_name-ru: Оман
+dv_has_name_en: Oman
+dv_has_name_es: Omán
+dv_has_name_fr: Oman
+dv_has_name_cn: 阿曼
+dv_has_name_ar: عمان
+dv_has_name_ru: Оман
 dv_CLDR_display_name: Oman
 dv_UNTERM_English: Oman
 dv_UNTERM_English_Formal: the Sultanate of Oman
@@ -62,9 +60,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Oman.personal|Oman.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Oman.secret|Oman.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Oman
-dv_name-de: Oman
+dv_has_name_de: Oman
 dv_Area-Total: 212457
 dv_Area-Land: 212460
 dv_has_place_continent: "[[../../Asia]]"
@@ -423,12 +422,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Oman ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Oman ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -499,8 +498,8 @@ markerFile: [[Oman]]
 defaultZoom: 5 
 ```
 
-[name-en::Oman]
-name-de = `=this.dv_name-de`
+[has_name_en::Oman]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

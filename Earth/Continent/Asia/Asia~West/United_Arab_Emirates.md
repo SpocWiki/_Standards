@@ -8,14 +8,14 @@ dv_Telephone: 971
 dv_Global: true
 dv_Global_Name: World
 dv_name: United Arab Emirates
-dv_name-en:
+dv_has_name_en:
   - United Arab Emirates
   - United Arab Emirates
-dv_name-es: Emiratos Árabes Unidos
-dv_name-fr: Émirats arabes unis
-dv_name-cn: 阿拉伯联合酋长国
-dv_name-ar: الإمارات العربية المتحدة
-dv_name-ru: Объединенные Арабские Эмираты
+dv_has_name_es: Emiratos Árabes Unidos
+dv_has_name_fr: Émirats arabes unis
+dv_has_name_cn: 阿拉伯联合酋长国
+dv_has_name_ar: الإمارات العربية المتحدة
+dv_has_name_ru: Объединенные Арабские Эмираты
 dv_CLDR_display_name: United Arab Emirates
 dv_UNTERM_English: United Arab Emirates (the)
 dv_UNTERM_English_Formal: the United Arab Emirates
@@ -62,9 +62,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.personal|United_Arab_Emirates.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.secret|United_Arab_Emirates.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-United_Arab_Emirates
-dv_name-de: Vereinigte Arabische Emirate
+dv_has_name_de: Vereinigte Arabische Emirate
 dv_Area-Total: 77700
 dv_Area-Land: 83600
 dv_has_place_continent: "[[../../Asia]]"
@@ -550,12 +551,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: United Arab Emirates ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: United Arab Emirates ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -626,8 +627,8 @@ markerFile: [[United_Arab_Emirates]]
 defaultZoom: 6 
 ```
 
-[name-en::United Arab Emirates]
-name-de = `=this.dv_name-de`
+[has_name_en::United Arab Emirates]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -13,14 +13,12 @@ dv_Telephone: 972
 dv_Global: true
 dv_Global_Name: World
 dv_name: Israel
-dv_name-en:
-  - Israel
-  - Israel
-dv_name-es: Israel
-dv_name-fr: Israël
-dv_name-cn: 以色列
-dv_name-ar: إسرائيل
-dv_name-ru: Израиль
+dv_has_name_en: Israel
+dv_has_name_es: Israel
+dv_has_name_fr: Israël
+dv_has_name_cn: 以色列
+dv_has_name_ar: إسرائيل
+dv_has_name_ru: Израиль
 dv_CLDR_display_name: Israel
 dv_UNTERM_English: Israel
 dv_UNTERM_English_Formal: the State of Israel
@@ -67,7 +65,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Asia/Asia~West/Israel.private|Israel.private]]"
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Israel.personal|Israel.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Israel.secret|Israel.secret]]"
-dv_name-de: Israel
+dv_has_name_de: Israel
 dv_Area-Total: 21946
 dv_Area-Land: 20620
 dv_has_place_continent: "[[../../Asia]]"
@@ -622,12 +620,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Israel ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Israel ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -697,8 +695,8 @@ markerFile: [[Israel]]
 defaultZoom: 7 
 ```
 
-[name-en::Israel]
-name-de = `=this.dv_name-de`
+[has_name_en::Israel]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

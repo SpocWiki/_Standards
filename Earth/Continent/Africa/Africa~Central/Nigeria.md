@@ -8,14 +8,12 @@ dv_Telephone: 234
 dv_Global: true
 dv_Global_Name: World
 dv_name: Nigeria
-dv_name-en:
-  - Nigeria
-  - Nigeria
-dv_name-es: Nigeria
-dv_name-fr: Nigéria
-dv_name-cn: 尼日利亚
-dv_name-ar: نيجيريا
-dv_name-ru: Нигерия
+dv_has_name_en: Nigeria
+dv_has_name_es: Nigeria
+dv_has_name_fr: Nigéria
+dv_has_name_cn: 尼日利亚
+dv_has_name_ar: نيجيريا
+dv_has_name_ru: Нигерия
 dv_CLDR_display_name: Nigeria
 dv_UNTERM_English: Nigeria
 dv_UNTERM_English_Formal: the Federal Republic of Nigeria
@@ -64,9 +62,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria.personal|Nigeria.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria.secret|Nigeria.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Nigeria
-dv_name-de: Nigeria
+dv_has_name_de: Nigeria
 dv_Area-Total: 923768
 dv_Area-Land: 910770
 dv_has_place_continent: "[[../../Africa]]"
@@ -1020,12 +1019,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Nigeria ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Nigeria ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -1095,8 +1094,8 @@ markerFile: [[Nigeria]]
 defaultZoom: 5 
 ```
 
-[name-en::Nigeria]
-name-de = `=this.dv_name-de`
+[has_name_en::Nigeria]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -968,6 +968,7 @@ vehicles_per_thousand_people: 784
 width: 4000
 water_as_percent_of_area: 0.8
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Australia-Australia
   telephone_:
@@ -981,14 +982,12 @@ dv_ISO4217-currency_minor_unit: 2
 dv_ISO4217-currency_country_name: AUSTRALIA
 dv_Global: true
 dv_Global_Name: World
-dv_name-en:
-  - Australia
-  - Australia
-dv_name-es: Australia
-dv_name-fr: Australie
-dv_name-cn: 澳大利亚
-dv_name-ar: أستراليا
-dv_name-ru: Австралия
+dv_has_name_en: Australia
+dv_has_name_es: Australia
+dv_has_name_fr: Australie
+dv_has_name_cn: 澳大利亚
+dv_has_name_ar: أستراليا
+dv_has_name_ru: Австралия
 dv_CLDR_display_name: Australia
 dv_UNTERM_English: Australia
 dv_UNTERM_English_Formal: Australia
@@ -1035,7 +1034,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Australasia/Australia.private|Australia.private]]"
     - "[[/_personal/Earth/Continent/Australasia/Australia.personal|Australia.personal]]"
     - "[[/_secret/Earth/Continent/Australasia/Australia.secret|Australia.secret]]"
-dv_name-de: Australien
+dv_has_name_de: Australien
 dv_Area-Total: 7682300
 dv_Area-Land: 7644440
 dv_has_place_continent: Australia
@@ -1080,12 +1079,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 [	name	 :: Australia ]
-[	name-en	 :: Australia ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Australia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -1149,8 +1148,8 @@ coordinates: [[Australia]]
 markerFile: [[Australia]] 
 ```
 
-[name-en::Australia]
-name-de = `=this.dv_name-de`
+[has_name_en::Australia]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

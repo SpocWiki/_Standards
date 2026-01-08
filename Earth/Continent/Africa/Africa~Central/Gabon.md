@@ -336,6 +336,7 @@ expiryDate: ""
 Languages:
   - fr-GA
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Gabon
 dv_ISO4217-currency_alphabetic: XAF
@@ -347,14 +348,12 @@ dv_Telephone: 241
 dv_Global: true
 dv_Global_Name: World
 dv_name: Gabon
-dv_name-en:
-  - Gabon
-  - Gabon
-dv_name-es: Gabón
-dv_name-fr: Gabon
-dv_name-cn: 加蓬
-dv_name-ar: غابون
-dv_name-ru: Габон
+dv_has_name_en: Gabon
+dv_has_name_es: Gabón
+dv_has_name_fr: Gabon
+dv_has_name_cn: 加蓬
+dv_has_name_ar: غابون
+dv_has_name_ru: Габон
 dv_CLDR_display_name: Gabon
 dv_UNTERM_English: Gabon
 dv_UNTERM_English_Formal: the Gabonese Republic
@@ -402,7 +401,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~Central/Gabon.private|Gabon.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Gabon.personal|Gabon.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Gabon.secret|Gabon.secret]]"
-dv_name-de: Gabun
+dv_has_name_de: Gabun
 dv_Area-Total: 267667
 dv_Area-Land: 257670
 dv_has_place_continent: "[[../../Africa]]"
@@ -445,12 +444,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Gabon ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Gabon ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -512,8 +511,8 @@ geojsonFolder: ./Gabon//
 markerFolder: ./Gabon//
 ```
 
-[name-en::Gabon]
-name-de = `=this.dv_name-de`
+[has_name_en::Gabon]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Bahrain
 dv_ISO4217-currency_alphabetic: BHD
@@ -11,14 +12,12 @@ dv_Telephone: 973
 dv_Global: true
 dv_Global_Name: World
 dv_name: Bahrain
-dv_name-en:
-  - Bahrain
-  - Bahrain
-dv_name-es: Bahrein
-dv_name-fr: Bahreïn
-dv_name-cn: 巴林
-dv_name-ar: البحرين
-dv_name-ru: Бахрейн
+dv_has_name_en: Bahrain
+dv_has_name_es: Bahrein
+dv_has_name_fr: Bahreïn
+dv_has_name_cn: 巴林
+dv_has_name_ar: البحرين
+dv_has_name_ru: Бахрейн
 dv_CLDR_display_name: Bahrain
 dv_UNTERM_English: Bahrain
 dv_UNTERM_English_Formal: the Kingdom of Bahrain
@@ -65,7 +64,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Asia/Asia~West/Bahrain.private|Bahrain.private]]"
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Bahrain.personal|Bahrain.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Bahrain.secret|Bahrain.secret]]"
-dv_name-de: Bahrain
+dv_has_name_de: Bahrain
 dv_Area-Total: 680
 dv_Area-Land: 680
 dv_has_place_continent: "[[../../Asia]]"
@@ -415,12 +414,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Bahrain ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Bahrain ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -492,8 +491,8 @@ markerFile: [[Bahrain]]
 defaultZoom: 7 
 ```
 
-[name-en::Bahrain]
-name-de = `=this.dv_name-de`
+[has_name_en::Bahrain]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

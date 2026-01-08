@@ -13,8 +13,8 @@ tags:
 type: Country
 dv_ISO2: HK
 dv_ISO3: HKG
-dv_name-en: Hong Kong, China
-dv_name-de: Hong Kong
+dv_has_name_en: Hong Kong, China
+dv_has_name_de: Hong Kong
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Asia]]"
@@ -54,8 +54,8 @@ geojsonFolder: ./Hong_Kong,_China/
 markerFolder: ./Hong_Kong,_China/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -9,14 +9,12 @@ dv_Telephone: 92
 dv_Global: true
 dv_Global_Name: World
 dv_name: Pakistan
-dv_name-en:
-  - Pakistan
-  - Pakistan
-dv_name-es: Pakistán
-dv_name-fr: Pakistan
-dv_name-cn: 巴基斯坦
-dv_name-ar: باكستان
-dv_name-ru: Пакистан
+dv_has_name_en: Pakistan
+dv_has_name_es: Pakistán
+dv_has_name_fr: Pakistan
+dv_has_name_cn: 巴基斯坦
+dv_has_name_ar: باكستان
+dv_has_name_ru: Пакистан
 dv_CLDR_display_name: Pakistan
 dv_UNTERM_English: Pakistan
 dv_UNTERM_English_Formal: the Islamic Republic of Pakistan
@@ -64,9 +62,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.personal|Pakistan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.secret|Pakistan.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Pakistan
-dv_name-de: Pakistan
+dv_has_name_de: Pakistan
 dv_Area-Total: 796095
 dv_Area-Land: 770880
 dv_has_place_continent: "[[../../Asia]]"
@@ -587,12 +586,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Pakistan ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Pakistan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -662,8 +661,8 @@ markerFile: [[Pakistan]]
 defaultZoom: 5 
 ```
 
-[name-en::Pakistan]
-name-de = `=this.dv_name-de`
+[has_name_en::Pakistan]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

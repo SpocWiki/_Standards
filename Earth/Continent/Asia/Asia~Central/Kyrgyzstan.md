@@ -8,14 +8,12 @@ dv_Telephone: 996
 dv_Global: true
 dv_Global_Name: World
 dv_name: Kyrgyzstan
-dv_name-en:
-  - Kyrgyzstan
-  - Kyrgyzstan
-dv_name-es: Kirguistán
-dv_name-fr: Kirghizistan
-dv_name-cn: 吉尔吉斯斯坦
-dv_name-ar: قيرغيزستان
-dv_name-ru: Кыргызстан
+dv_has_name_en: Kyrgyzstan
+dv_has_name_es: Kirguistán
+dv_has_name_fr: Kirghizistan
+dv_has_name_cn: 吉尔吉斯斯坦
+dv_has_name_ar: قيرغيزستان
+dv_has_name_ru: Кыргызстан
 dv_CLDR_display_name: Kyrgyzstan
 dv_UNTERM_English: Kyrgyzstan
 dv_UNTERM_English_Formal: the Kyrgyz Republic
@@ -64,9 +62,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.personal|Kyrgyzstan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.secret|Kyrgyzstan.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Kyrgyzstan
-dv_name-de: Kirgisistan
+dv_has_name_de: Kirgisistan
 dv_Area-Total: 198500
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Asia]]"
@@ -434,12 +433,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Kyrgyzstan ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Kyrgyzstan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -509,8 +508,8 @@ markerFile: [[Kyrgyzstan]]
 defaultZoom: 5 
 ```
 
-[name-en::Kyrgyzstan]
-name-de = `=this.dv_name-de`
+[has_name_en::Kyrgyzstan]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

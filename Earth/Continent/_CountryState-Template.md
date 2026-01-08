@@ -12,7 +12,7 @@ tags:
   - geo/State
 type: State
 dv_name: "{{State}}"
-dv_name-abbr: "{{StateAbbr}}"
+dv_has_name_abbr: "{{StateAbbr}}"
 dv_CountryId: "{{CountryId}}"
 dv_CapitalId: "{{CapitalId}}"
 dv_has_place_longitude: "{{x}}"
@@ -41,7 +41,7 @@ location: [{{y}},{{x}}]
 SpocWebEntityId: {{SpocWebEntityId}}
 
 name = `=this.dv_name`
-name-abbr = `=this.dv_name-abbr`
+has_name_abbr = `=this.dv_has_name_abbr`
 CountryId = `=this.dv_CountryId`
 CapitalId = `=this.dv_CapitalId`
 has_place_longitude = `=this.dv_has_place_longitude`

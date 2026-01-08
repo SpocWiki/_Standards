@@ -311,14 +311,12 @@ dv_Telephone: 250
 dv_Global: true
 dv_Global_Name: World
 dv_name: Rwanda
-dv_name-en:
-  - Rwanda
-  - Rwanda
-dv_name-es: Rwanda
-dv_name-fr: Rwanda
-dv_name-cn: 卢旺达
-dv_name-ar: رواندا
-dv_name-ru: Руанда
+dv_has_name_en: Rwanda
+dv_has_name_es: Rwanda
+dv_has_name_fr: Rwanda
+dv_has_name_cn: 卢旺达
+dv_has_name_ar: رواندا
+dv_has_name_ru: Руанда
 dv_CLDR_display_name: Rwanda
 dv_UNTERM_English: Rwanda
 dv_UNTERM_English_Formal: the Republic of Rwanda
@@ -369,9 +367,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Rwanda.personal|Rwanda.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Rwanda.secret|Rwanda.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Rwanda
-dv_name-de: Rwanda
+dv_has_name_de: Rwanda
 dv_Area-Total: 26338
 dv_Area-Land: 24670
 dv_has_place_continent: "[[../../Africa]]"
@@ -408,12 +407,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Rwanda ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Rwanda ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -484,8 +483,8 @@ zoomFeatures: true
 defaultZoom: 11 
 ```
 
-[name-en::Rwanda]
-name-de = `=this.dv_name-de`
+[has_name_en::Rwanda]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -24,10 +24,11 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.personal|Sao_Tome_and_Principe.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.secret|Sao_Tome_and_Principe.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Sao_Tome_and_Principe
-dv_name-en: Sao Tome And Principe
-dv_name-de: São Tomé und Príncipe
+dv_has_name_en: Sao Tome And Principe
+dv_has_name_de: São Tomé und Príncipe
 dv_Area-Total: 1001
 dv_Area-Land: 960
 dv_has_place_continent: "[[../../Africa]]"
@@ -306,8 +307,8 @@ markerFile: [[Sao_Tome_and_Principe]]
 defaultZoom: 5 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

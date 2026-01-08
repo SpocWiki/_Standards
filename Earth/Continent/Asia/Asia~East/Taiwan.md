@@ -1,7 +1,7 @@
 ---
 dv_Telephone: 886
 dv_name: Taiwan
-dv_name-en:
+dv_has_name_en:
   - 
   - Taiwan
 dv_CLDR_display_name: Taiwan
@@ -32,9 +32,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Taiwan
-dv_name-de: Taiwan, Province Of China
+dv_has_name_de: Taiwan, Province Of China
 dv_Area-Total: 36000
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Asia]]"
@@ -535,12 +536,12 @@ Telephone = `=this.dv_Telephone`
 [	Global_name = `=this.dv_name`
 
 name = `=this.dv_name`
-[	name-en	 ::  ]
-[	name-es	 ::  ]
-[	name-fr	 ::  ]
-[	name-cn	 ::  ]
-[	name-ar	 ::  ]
-[	name-ru	 ::  ]
+[	has_name_en	 ::  ]
+[	has_name_es	 ::  ]
+[	has_name_fr	 ::  ]
+[	has_name_cn	 ::  ]
+[	has_name_ar	 ::  ]
+[	has_name_ru	 ::  ]
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -611,8 +612,8 @@ markerFile: [[Taiwan]]
 defaultZoom: 5 
 ```
 
-[name-en::Taiwan]
-name-de = `=this.dv_name-de`
+[has_name_en::Taiwan]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

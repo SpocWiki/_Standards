@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Bangladesh
 dv_ISO4217-currency_alphabetic: BDT
@@ -11,14 +12,12 @@ dv_Telephone: 880
 dv_Global: true
 dv_Global_Name: World
 dv_name: Bangladesh
-dv_name-en:
-  - Bangladesh
-  - Bangladesh
-dv_name-es: Bangladesh
-dv_name-fr: Bangladesh
-dv_name-cn: 孟加拉国
-dv_name-ar: بنغلاديش
-dv_name-ru: Бангладеш
+dv_has_name_en: Bangladesh
+dv_has_name_es: Bangladesh
+dv_has_name_fr: Bangladesh
+dv_has_name_cn: 孟加拉国
+dv_has_name_ar: بنغلاديش
+dv_has_name_ru: Бангладеш
 dv_CLDR_display_name: Bangladesh
 dv_UNTERM_English: Bangladesh
 dv_UNTERM_English_Formal: the People's Republic of Bangladesh
@@ -66,7 +65,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.private|Bangladesh.private]]"
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.personal|Bangladesh.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.secret|Bangladesh.secret]]"
-dv_name-de: Bangladesh
+dv_has_name_de: Bangladesh
 dv_Area-Total: 147570
 dv_Area-Land: 130170
 dv_has_place_continent: "[[../../Asia]]"
@@ -532,12 +531,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Bangladesh ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Bangladesh ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -607,8 +606,8 @@ markerFile: [[Bangladesh]]
 defaultZoom: 5 
 ```
 
-[name-en::Bangladesh]
-name-de = `=this.dv_name-de`
+[has_name_en::Bangladesh]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

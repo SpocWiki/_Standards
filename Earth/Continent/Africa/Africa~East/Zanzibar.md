@@ -1,6 +1,6 @@
 ---
-dv_name-en: Zanzibar
-dv_name-de: Sansibar
+dv_has_name_en: Zanzibar
+dv_has_name_de: Sansibar
 dv_has_place_continent: "[[../../Africa]]"
 dv_is_a_: "[[../../../Geography/Place]]"
 dv_has_place_longitude: 39.3167
@@ -102,8 +102,8 @@ geojsonFolder: ./Zanzibar/
 markerFolder: ./Zanzibar/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

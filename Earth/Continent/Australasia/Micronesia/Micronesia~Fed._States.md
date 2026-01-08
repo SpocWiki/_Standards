@@ -12,8 +12,8 @@ dv_is_:
     - "[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.private|Micronesia~Fed._States.private]]"
     - "[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.personal|Micronesia~Fed._States.personal]]"
     - "[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.secret|Micronesia~Fed._States.secret]]"
-dv_name-en: Micronesia, Fed. States
-dv_name-de: Mikronesien
+dv_has_name_en: Micronesia, Fed. States
+dv_has_name_de: Mikronesien
 dv_Area-Total: 700
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Oceania]]"
@@ -343,8 +343,8 @@ defaultZoom: 5
 > [Wikipedia](https://en.wikipedia.org/wiki/Federated%20States%20of%20Micronesia) 
 
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 has_place_continent = `=this.dv_has_place_continent`

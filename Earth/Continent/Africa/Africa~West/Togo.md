@@ -8,14 +8,12 @@ dv_Telephone: 228
 dv_Global: true
 dv_Global_Name: World
 dv_name: Togo
-dv_name-en:
-  - Togo
-  - Togo
-dv_name-es: Togo
-dv_name-fr: Togo
-dv_name-cn: 多哥
-dv_name-ar: توغو
-dv_name-ru: Того
+dv_has_name_en: Togo
+dv_has_name_es: Togo
+dv_has_name_fr: Togo
+dv_has_name_cn: 多哥
+dv_has_name_ar: توغو
+dv_has_name_ru: Того
 dv_CLDR_display_name: Togo
 dv_UNTERM_English: Togo
 dv_UNTERM_English_Formal: the Togolese Republic
@@ -65,9 +63,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Togo.personal|Togo.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Togo.secret|Togo.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Togo
-dv_name-de: Togo
+dv_has_name_de: Togo
 dv_Area-Total: 56785
 dv_Area-Land: 54390
 dv_has_place_continent: "[[../../Africa]]"
@@ -447,12 +446,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Togo ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Togo ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -517,8 +516,8 @@ geojsonFolder: ./Togo//
 markerFolder: ./Togo//
 ```
 
-[name-en::Togo]
-name-de = `=this.dv_name-de`
+[has_name_en::Togo]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

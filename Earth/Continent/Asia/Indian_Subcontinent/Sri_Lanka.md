@@ -8,14 +8,14 @@ dv_Telephone: 94
 dv_Global: true
 dv_Global_Name: World
 dv_name: Sri Lanka
-dv_name-en:
+dv_has_name_en:
   - Sri Lanka
   - Sri Lanka
-dv_name-es: Sri Lanka
-dv_name-fr: Sri Lanka
-dv_name-cn: 斯里兰卡
-dv_name-ar: سري لانكا
-dv_name-ru: Шри-Ланка
+dv_has_name_es: Sri Lanka
+dv_has_name_fr: Sri Lanka
+dv_has_name_cn: 斯里兰卡
+dv_has_name_ar: سري لانكا
+dv_has_name_ru: Шри-Ланка
 dv_CLDR_display_name: Sri Lanka
 dv_UNTERM_English: Sri Lanka
 dv_UNTERM_English_Formal: the Democratic Socialist Republic of Sri Lanka
@@ -63,9 +63,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.personal|Sri_Lanka.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.secret|Sri_Lanka.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Sri_Lanka
-dv_name-de: Sri Lanka
+dv_has_name_de: Sri Lanka
 dv_Area-Total: 65628
 dv_Area-Land: 64630
 dv_has_place_continent: "[[../../Asia]]"
@@ -443,12 +444,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Sri Lanka ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Sri Lanka ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -519,8 +520,8 @@ coordinates: [[Sri_Lanka]]
 markerFile: [[Sri_Lanka]] 
 ```
 
-[name-en::Sri Lanka]
-name-de = `=this.dv_name-de`
+[has_name_en::Sri Lanka]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

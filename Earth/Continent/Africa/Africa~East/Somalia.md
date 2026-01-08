@@ -8,14 +8,12 @@ dv_Telephone: 252
 dv_Global: true
 dv_Global_Name: World
 dv_name: Somalia
-dv_name-en:
-  - Somalia
-  - Somalia
-dv_name-es: Somalia
-dv_name-fr: Somalie
-dv_name-cn: 索马里
-dv_name-ar: الصومال
-dv_name-ru: Сомали
+dv_has_name_en: Somalia
+dv_has_name_es: Somalia
+dv_has_name_fr: Somalie
+dv_has_name_cn: 索马里
+dv_has_name_ar: الصومال
+dv_has_name_ru: Сомали
 dv_CLDR_display_name: Somalia
 dv_UNTERM_English: Somalia
 dv_UNTERM_English_Formal: the Federal Republic of Somalia
@@ -65,9 +63,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal|Somalia.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret|Somalia.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Reunion
-dv_name-de: Somalia
+dv_has_name_de: Somalia
 dv_Area-Total: 637657
 dv_Area-Land: 627340
 dv_has_place_continent: "[Africa](../../Africa.md)"
@@ -427,12 +426,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Somalia ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Somalia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -503,8 +502,8 @@ zoomFeatures: true
 defaultZoom: 5 
 ```
 
-[name-en::Somalia]
-name-de = `=this.dv_name-de`
+[has_name_en::Somalia]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

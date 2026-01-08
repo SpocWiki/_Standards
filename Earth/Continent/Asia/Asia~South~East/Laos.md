@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Laos
 dv_ISO4217-currency_alphabetic: LAK
@@ -11,14 +12,14 @@ dv_Telephone: 856
 dv_Global: true
 dv_Global_Name: World
 dv_name: Laos
-dv_name-en:
+dv_has_name_en:
   - Lao People's Democratic Republic
   - Laos
-dv_name-es: República Democrática Popular Lao
-dv_name-fr: République démocratique populaire lao
-dv_name-cn: 老挝人民民主共和国
-dv_name-ar: جمهورية لاو الديمقراطية الشعبية
-dv_name-ru: Лаосская Народно-Демократическая Республика
+dv_has_name_es: República Democrática Popular Lao
+dv_has_name_fr: République démocratique populaire lao
+dv_has_name_cn: 老挝人民民主共和国
+dv_has_name_ar: جمهورية لاو الديمقراطية الشعبية
+dv_has_name_ru: Лаосская Народно-Демократическая Республика
 dv_CLDR_display_name: Laos
 dv_UNTERM_English: Lao People's Democratic Republic (the)
 dv_UNTERM_English_Formal: the Lao People's Democratic Republic
@@ -66,7 +67,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Asia/Asia~South~East/Laos.private|Laos.private]]"
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Laos.personal|Laos.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Laos.secret|Laos.secret]]"
-dv_name-de: Lao People's Democratic Republic
+dv_has_name_de: Lao People's Democratic Republic
 dv_Area-Total: 236800
 dv_Area-Land: 230800
 dv_has_place_continent: "[[../../Asia]]"
@@ -479,12 +480,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Lao People's Democratic Republic ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Lao People's Democratic Republic ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -555,8 +556,8 @@ markerFile: [[Laos]]
 defaultZoom: 5 
 ```
 
-[name-en::Laos]
-name-de = `=this.dv_name-de`
+[has_name_en::Laos]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

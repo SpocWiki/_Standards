@@ -379,6 +379,7 @@ Languages:
   - fr-BF
   - mos
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Burkina_Faso
 dv_ISO4217-currency_alphabetic: XOF
@@ -390,14 +391,14 @@ dv_Telephone: 226
 dv_Global: true
 dv_Global_Name: World
 dv_name: Burkina Faso
-dv_name-en:
+dv_has_name_en:
   - Burkina Faso
   - Burkina Faso
-dv_name-es: Burkina Faso
-dv_name-fr: Burkina Faso
-dv_name-cn: 布基纳法索
-dv_name-ar: بوركينا فاسو
-dv_name-ru: Буркина-Фасо
+dv_has_name_es: Burkina Faso
+dv_has_name_fr: Burkina Faso
+dv_has_name_cn: 布基纳法索
+dv_has_name_ar: بوركينا فاسو
+dv_has_name_ru: Буркина-Фасо
 dv_CLDR_display_name: Burkina Faso
 dv_UNTERM_English: Burkina Faso
 dv_UNTERM_English_Formal: Burkina Faso
@@ -437,7 +438,7 @@ dv_Least_Developed_Countries: x
 dv_ISO3166-1-numeric: 854
 dv_ISO2: BF
 dv_ISO3: BFA
-dv_name-de: Burkina Faso
+dv_has_name_de: Burkina Faso
 dv_Area-Total: 274200
 dv_Area-Land: 273600
 dv_has_place_continent: "[[../../Africa]]"
@@ -487,12 +488,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Burkina Faso ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Burkina Faso ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -551,8 +552,8 @@ geojsonFolder: ./Burkina_Faso//
 markerFolder: ./Burkina_Faso//
 ```
 
-[name-en::Burkina Faso]
-name-de = `=this.dv_name-de`
+[has_name_en::Burkina Faso]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

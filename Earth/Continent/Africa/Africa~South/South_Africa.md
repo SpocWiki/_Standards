@@ -464,14 +464,14 @@ dv_Telephone: 27
 dv_Global: true
 dv_Global_Name: World
 dv_name: South Africa
-dv_name-en:
+dv_has_name_en:
   - South Africa
   - South Africa
-dv_name-es: Sudáfrica
-dv_name-fr: Afrique du Sud
-dv_name-cn: 南非
-dv_name-ar: جنوب أفريقيا
-dv_name-ru: Южная Африка
+dv_has_name_es: Sudáfrica
+dv_has_name_fr: Afrique du Sud
+dv_has_name_cn: 南非
+dv_has_name_ar: جنوب أفريقيا
+dv_has_name_ru: Южная Африка
 dv_CLDR_display_name: South Africa
 dv_UNTERM_English: South Africa
 dv_UNTERM_English_Formal: the Republic of South Africa
@@ -521,9 +521,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~South/South_Africa.personal|South_Africa.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret|South_Africa.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-South_Africa
-dv_name-de: Südafrika
+dv_has_name_de: Südafrika
 dv_Area-Total: 1221037
 dv_Area-Land: 1221040
 dv_has_place_continent: "[[../../Africa]]"
@@ -561,12 +562,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: South Africa ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: South Africa ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -636,8 +637,8 @@ markerFile: [[South_Africa]]
 defaultZoom: 5 
 ```
 
-[name-en::South Africa]
-name-de = `=this.dv_name-de`
+[has_name_en::South Africa]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

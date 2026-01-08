@@ -405,6 +405,7 @@ dv_"Concept", "CoteDIvoire: xrhh5"
 dv_ISO2: CI
 dv_ISO3: CIV
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Cote_d-ivoire
 dv_is_:
@@ -417,8 +418,8 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.private|Cote_d'ivoire.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.personal|Cote_d'ivoire.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.secret|Cote_d'ivoire.secret]]"
-dv_name-en: Cote D'ivoire
-dv_name-de: Elfenbeinküste
+dv_has_name_en: Cote D'ivoire
+dv_has_name_de: Elfenbeinküste
 dv_Area-Total: 322462
 dv_Area-Land: 318000
 dv_has_place_continent: "[[../../Africa]]"
@@ -463,8 +464,8 @@ geojsonFolder: ./Cote_d'ivoire//
 markerFolder: ./Cote_d'ivoire//
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

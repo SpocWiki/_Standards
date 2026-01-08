@@ -1,12 +1,12 @@
 ---
 dv_name: Belgium
-dv_name-en: Belgium
-dv_name-es: Bélgica
-dv_name-fr: Belgique
-dv_name-cn: 比利时
-dv_name-ar: بلجيكا
-dv_name-ru: Бельгия
-dv_name-de: Belgien
+dv_has_name_en: Belgium
+dv_has_name_es: Bélgica
+dv_has_name_fr: Belgique
+dv_has_name_cn: 比利时
+dv_has_name_ar: بلجيكا
+dv_has_name_ru: Бельгия
+dv_has_name_de: Belgien
 dv_ISO2: BE
 dv_ISO3: BEL
 dv_is_:
@@ -20,6 +20,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~West/Belgium.personal|Belgium.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~West/Belgium.secret|Belgium.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Belgium
 dv_ISO4217-currency_alphabetic: EUR
@@ -575,13 +576,13 @@ coordinates_of_westernmost_point: Point(2.545269566 51.089449723)
 # [[Belgium]] 
 
 name = `=this.dv_name`
-name-en = `=this.dv_name-en`
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+has_name_de = `=this.dv_has_name_de`
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`

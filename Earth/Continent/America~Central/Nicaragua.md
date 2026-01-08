@@ -331,14 +331,12 @@ dv_Telephone: 505
 dv_Global: true
 dv_Global_Name: World
 dv_name: Nicaragua
-dv_name-en:
-  - Nicaragua
-  - Nicaragua
-dv_name-es: Nicaragua
-dv_name-fr: Nicaragua
-dv_name-cn: 尼加拉瓜
-dv_name-ar: نيكاراغوا
-dv_name-ru: Никарагуа
+dv_has_name_en: Nicaragua
+dv_has_name_es: Nicaragua
+dv_has_name_fr: Nicaragua
+dv_has_name_cn: 尼加拉瓜
+dv_has_name_ar: نيكاراغوا
+dv_has_name_ru: Никарагуа
 dv_CLDR_display_name: Nicaragua
 dv_UNTERM_English: Nicaragua
 dv_UNTERM_English_Formal: the Republic of Nicaragua
@@ -387,9 +385,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~Central/Nicaragua.personal|Nicaragua.personal]]"
     - "[[/_secret/Earth/Continent/America~Central/Nicaragua.secret|Nicaragua.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Nicaragua
-dv_name-de: Nicaragua
+dv_has_name_de: Nicaragua
 dv_Area-Total: 120254
 dv_Area-Land: 118750
 dv_has_place_continent: "[[South-America]]"
@@ -425,12 +424,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Nicaragua ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Nicaragua ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -501,8 +500,8 @@ geojsonFolder: ./Nicaragua//
 markerFolder: ./Nicaragua/
 ```
 
-[name-en::Nicaragua]
-name-de = `=this.dv_name-de`
+[has_name_en::Nicaragua]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

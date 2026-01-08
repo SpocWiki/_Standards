@@ -1,12 +1,12 @@
 ---
 dv_name: France
-dv_name-en: France
-dv_name-es: Francia
-dv_name-fr: France
-dv_name-cn: 法国
-dv_name-ar: فرنسا
-dv_name-ru: Франция
-dv_name-de: Frankreich
+dv_has_name_en: France
+dv_has_name_es: Francia
+dv_has_name_fr: France
+dv_has_name_cn: 法国
+dv_has_name_ar: فرنسا
+dv_has_name_ru: Франция
+dv_has_name_de: Frankreich
 dv_ISO2: FR
 dv_ISO3: FRA
 dv_is_:
@@ -20,6 +20,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~West/France.personal|France.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~West/France.secret|France.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-France
   image_for_:
@@ -702,13 +703,13 @@ defaultZoom: 5
 ## International Names
 
 name = `=this.dv_name`
-name-en = `=this.dv_name-en`
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+has_name_de = `=this.dv_has_name_de`
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`

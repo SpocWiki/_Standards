@@ -8,14 +8,12 @@ dv_Telephone: 355
 dv_Global: true
 dv_Global_Name: World
 dv_name: Albania
-dv_name-en:
-  - Albania
-  - Albania
-dv_name-es: Albania
-dv_name-fr: Albanie
-dv_name-cn: 阿尔巴尼亚
-dv_name-ar: ألبانيا
-dv_name-ru: Албания
+dv_has_name_en: Albania
+dv_has_name_es: Albania
+dv_has_name_fr: Albanie
+dv_has_name_cn: 阿尔巴尼亚
+dv_has_name_ar: ألبانيا
+dv_has_name_ru: Албания
 dv_CLDR_display_name: Albania
 dv_UNTERM_English: Albania
 dv_UNTERM_English_Formal: the Republic of Albania
@@ -69,7 +67,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 8
 dv_ISO2: AL
 dv_ISO3: ALB
-dv_name-de: Albanien
+dv_has_name_de: Albanien
 dv_Area-Total: 28748
 dv_Area-Land: 27400
 dv_has_place_continent: "[[../../Europe]]"
@@ -474,12 +472,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Albania ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Albania ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -553,8 +551,8 @@ markerFile: [[Albania]]
 defaultZoom: 7 
 ```
 
-[name-en::Albania]
-name-de = `=this.dv_name-de`
+[has_name_en::Albania]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

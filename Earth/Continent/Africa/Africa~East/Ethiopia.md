@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Ethiopia
 dv_ISO4217-currency_alphabetic: ETB
@@ -11,14 +12,12 @@ dv_Telephone: 251
 dv_Global: true
 dv_Global_Name: World
 dv_name: Ethiopia
-dv_name-en:
-  - Ethiopia
-  - Ethiopia
-dv_name-es: Etiopía
-dv_name-fr: Éthiopie
-dv_name-cn: 埃塞俄比亚
-dv_name-ar: إثيوبيا
-dv_name-ru: Эфиопия
+dv_has_name_en: Ethiopia
+dv_has_name_es: Etiopía
+dv_has_name_fr: Éthiopie
+dv_has_name_cn: 埃塞俄比亚
+dv_has_name_ar: إثيوبيا
+dv_has_name_ru: Эфиопия
 dv_CLDR_display_name: Ethiopia
 dv_UNTERM_English: Ethiopia
 dv_UNTERM_English_Formal: the Federal Democratic Republic of Ethiopia
@@ -68,7 +67,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~East/Ethiopia.private|Ethiopia.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Ethiopia.personal|Ethiopia.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Ethiopia.secret|Ethiopia.secret]]"
-dv_name-de: Äthiopien
+dv_has_name_de: Äthiopien
 dv_Area-Total: 1133380
 dv_Area-Land: 1000000
 dv_has_place_continent: "[[../../Africa]]"
@@ -557,12 +556,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Ethiopia ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Ethiopia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -633,8 +632,8 @@ markerFile: [[Ethiopia]]
 defaultZoom: 5 
 ```
 
-[name-en::Ethiopia]
-name-de = `=this.dv_name-de`
+[has_name_en::Ethiopia]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -1,12 +1,12 @@
 ---
 dv_name: Switzerland
-dv_name-en: Switzerland
-dv_name-es: Suiza
-dv_name-fr: Suisse
-dv_name-cn: 瑞士
-dv_name-ar: سويسرا
-dv_name-ru: Швейцария
-dv_name-de: Schweiz
+dv_has_name_en: Switzerland
+dv_has_name_es: Suiza
+dv_has_name_fr: Suisse
+dv_has_name_cn: 瑞士
+dv_has_name_ar: سويسرا
+dv_has_name_ru: Швейцария
+dv_has_name_de: Schweiz
 dv_ISO2: CH
 dv_ISO3: CHE
 dv_has_:
@@ -573,13 +573,13 @@ defaultZoom: 5
 ## International Names
 
 name = `=this.dv_name` 
-name-en = `=this.dv_name-en` 
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru` 
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en` 
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru` 
+has_name_de = `=this.dv_has_name_de`
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`

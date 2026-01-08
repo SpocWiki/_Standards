@@ -8,14 +8,12 @@ dv_Telephone: 66
 dv_Global: true
 dv_Global_Name: World
 dv_name: Thailand
-dv_name-en:
-  - Thailand
-  - Thailand
-dv_name-es: Tailandia
-dv_name-fr: Thaïlande
-dv_name-cn: 泰国
-dv_name-ar: تايلند
-dv_name-ru: Таиланд
+dv_has_name_en: Thailand
+dv_has_name_es: Tailandia
+dv_has_name_fr: Thaïlande
+dv_has_name_cn: 泰国
+dv_has_name_ar: تايلند
+dv_has_name_ru: Таиланд
 dv_CLDR_display_name: Thailand
 dv_UNTERM_English: Thailand
 dv_UNTERM_English_Formal: the Kingdom of Thailand
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand.personal|Thailand.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret|Thailand.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Thailand
-dv_name-de: Thailand
+dv_has_name_de: Thailand
 dv_Area-Total: 513115
 dv_Area-Land: 510890
 dv_has_place_continent: "[[../../Asia]]"
@@ -571,12 +570,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Thailand ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Thailand ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -645,8 +644,8 @@ markerFile: [[Thailand]]
 defaultZoom:  
 ```
 
-[name-en::Thailand]
-name-de = `=this.dv_name-de`
+[has_name_en::Thailand]
+has_name_de = `=this.dv_has_name_de`
 
 ![[Emblem_of_Thailand.svg|350]]
 

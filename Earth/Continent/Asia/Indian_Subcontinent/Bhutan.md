@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Bhutan
 dv_ISO4217-currency_alphabetic: INR,BTN
@@ -15,14 +16,12 @@ dv_Telephone: 975
 dv_Global: true
 dv_Global_Name: World
 dv_name: Bhutan
-dv_name-en:
-  - Bhutan
-  - Bhutan
-dv_name-es: Bhután
-dv_name-fr: Bhoutan
-dv_name-cn: 不丹
-dv_name-ar: بوتان
-dv_name-ru: Бутан
+dv_has_name_en: Bhutan
+dv_has_name_es: Bhután
+dv_has_name_fr: Bhoutan
+dv_has_name_cn: 不丹
+dv_has_name_ar: بوتان
+dv_has_name_ru: Бутан
 dv_CLDR_display_name: Bhutan
 dv_UNTERM_English: Bhutan
 dv_UNTERM_English_Formal: the Kingdom of Bhutan
@@ -60,7 +59,7 @@ dv_Least_Developed_Countries: x
 dv_ISO3166-1-numeric: 64
 dv_ISO2: BT
 dv_ISO3: BTN
-dv_name-de: Bhutan
+dv_has_name_de: Bhutan
 dv_Area-Total: 46500
 dv_Area-Land: 47000
 dv_has_place_continent: "[[../../Asia]]"
@@ -425,12 +424,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Bhutan ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Bhutan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -500,8 +499,8 @@ markerFile: [[Bhutan]]
 defaultZoom: 5 
 ```
 
-[name-en::Bhutan] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Bhutan] 
+has_name_de = `=this.dv_has_name_de` 
 ![[Bhutan/Emblem_of_Bhutan.svg|350]]  
 
 ![[Bhutan/Flag_of_Bhutan.svg|350]]  

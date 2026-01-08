@@ -8,14 +8,12 @@ dv_Telephone: 227
 dv_Global: true
 dv_Global_Name: World
 dv_name: Niger
-dv_name-en:
-  - Niger
-  - Niger
-dv_name-es: Níger
-dv_name-fr: Niger
-dv_name-cn: 尼日尔
-dv_name-ar: النيجر
-dv_name-ru: Нигер
+dv_has_name_en: Niger
+dv_has_name_es: Níger
+dv_has_name_fr: Niger
+dv_has_name_cn: 尼日尔
+dv_has_name_ar: النيجر
+dv_has_name_ru: Нигер
 dv_CLDR_display_name: Niger
 dv_UNTERM_English: Niger (the)
 dv_UNTERM_English_Formal: the Republic of the Niger
@@ -66,9 +64,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Niger.personal|Niger.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Niger.secret|Niger.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Niger
-dv_name-de: Niger
+dv_has_name_de: Niger
 dv_Area-Total: 1267000
 dv_Area-Land: 1266700
 dv_has_place_continent: "[[../../Africa]]"
@@ -456,12 +455,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Niger ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Niger ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -532,8 +531,8 @@ markerFile: [[Niger]]
 defaultZoom: 5 
 ```
 
-[name-en::Niger]
-name-de = `=this.dv_name-de`
+[has_name_en::Niger]
+has_name_de = `=this.dv_has_name_de`
 
 ![[Coat_of_arms_of_Niger.svg|550]]
 

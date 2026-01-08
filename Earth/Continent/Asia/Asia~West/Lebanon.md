@@ -8,14 +8,12 @@ dv_Telephone: 961
 dv_Global: true
 dv_Global_Name: World
 dv_name: Lebanon
-dv_name-en:
-  - Lebanon
-  - Lebanon
-dv_name-es: Líbano
-dv_name-fr: Liban
-dv_name-cn: 黎巴嫩
-dv_name-ar: لبنان
-dv_name-ru: Ливан
+dv_has_name_en: Lebanon
+dv_has_name_es: Líbano
+dv_has_name_fr: Liban
+dv_has_name_cn: 黎巴嫩
+dv_has_name_ar: لبنان
+dv_has_name_ru: Ливан
 dv_CLDR_display_name: Lebanon
 dv_UNTERM_English: Lebanon
 dv_UNTERM_English_Formal: the Lebanese Republic
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal|Lebanon.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret|Lebanon.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Lebanon
-dv_name-de: Libanon
+dv_has_name_de: Libanon
 dv_Area-Total: 10452
 dv_Area-Land: 10230
 dv_has_place_continent: "[[../../Asia]]"
@@ -460,12 +459,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Lebanon ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Lebanon ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -536,8 +535,8 @@ markerFile: [[Lebanon]]
 defaultZoom: 6 
 ```
 
-[name-en::Lebanon]
-name-de = `=this.dv_name-de`
+[has_name_en::Lebanon]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -10,8 +10,8 @@ SpocWebEntityId: 76701
 tags:
   - geo/Country
 type: Country
-dv_name-en: South Vietnam
-dv_name-de: Süd Vietnam
+dv_has_name_en: South Vietnam
+dv_has_name_de: Süd Vietnam
 dv_has_place_continent: "[[../../Asia]]"
 dv_Capital: "[[Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City]]"
 dv_Language-Id: 460
@@ -48,8 +48,8 @@ geojsonFolder: ./Vietnam~South/
 markerFolder: ./Vietnam~South/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

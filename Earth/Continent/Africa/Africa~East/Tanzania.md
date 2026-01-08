@@ -472,14 +472,14 @@ dv_Telephone: 255
 dv_Global: true
 dv_Global_Name: World
 dv_name: Tanzania
-dv_name-en:
+dv_has_name_en:
   - United Republic of Tanzania
   - Tanzania
-dv_name-es: República Unida de Tanzanía
-dv_name-fr: République-Unie de Tanzanie
-dv_name-cn: 坦桑尼亚联合共和国
-dv_name-ar: جمهورية تنزانيا المتحدة
-dv_name-ru: Объединенная Республика Танзания
+dv_has_name_es: República Unida de Tanzanía
+dv_has_name_fr: République-Unie de Tanzanie
+dv_has_name_cn: 坦桑尼亚联合共和国
+dv_has_name_ar: جمهورية تنزانيا المتحدة
+dv_has_name_ru: Объединенная Республика Танзания
 dv_CLDR_display_name: Tanzania
 dv_UNTERM_English: United Republic of Tanzania (the)
 dv_UNTERM_English_Formal: the United Republic of Tanzania
@@ -529,9 +529,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Tanzania.personal|Tanzania.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret|Tanzania.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Tanzania
-dv_name-de: Tansania
+dv_has_name_de: Tansania
 dv_Area-Total: 945087
 dv_Area-Land: 883590
 dv_has_place_continent: "[[../../Africa]]"
@@ -568,12 +569,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: United Republic of Tanzania ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: United Republic of Tanzania ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -641,8 +642,8 @@ markerFolder: ./Tanzania/
 ```
 
 
-[name-en::Tanzania]
-name-de = `=this.dv_name-de`
+[has_name_en::Tanzania]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

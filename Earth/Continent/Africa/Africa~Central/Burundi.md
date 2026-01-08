@@ -309,6 +309,7 @@ MeSH_tree_code: Z01.058.290.120.180
 image: http://commons.wikimedia.org/wiki/Special:FilePath/By-map-fr.png
 dv_has_:
   name_:
+    : Burundi
     en: Burundi
     es: Burundi
     fr: Burundi
@@ -420,13 +421,15 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
-[	name-en	 :: Burundi ]
-name-es = `=this.dv_has_name_es`
-name-fr = `=this.dv_has_name_fr`
-name-cn = `=this.dv_has_name_cn` = `=this.dv_has_.name_.cn`
-name-ar = `=this.dv_has_name_ar`
-name-ru = `=this.dv_has_name_ru`
+has_name = `=this.dv_name`
+has_name = `=this.dv_has_.name_`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn` = `=this.dv_has_.name_.cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -492,9 +495,6 @@ maxZoom: 18
 geojsonFolder: ./Burundi//
 markerFolder: ./Burundi//
 ```
-
-[name-en::Burundi]
-name-de = `=this.dv_has_name_de`
 
 ![[Coat_of_arms_of_Burundi.svg|350]]
 

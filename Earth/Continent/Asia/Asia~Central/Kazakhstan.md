@@ -8,14 +8,12 @@ dv_Telephone: 7
 dv_Global: true
 dv_Global_Name: World
 dv_name: Kazakhstan
-dv_name-en:
-  - Kazakhstan
-  - Kazakhstan
-dv_name-es: Kazajstán
-dv_name-fr: Kazakhstan
-dv_name-cn: 哈萨克斯坦
-dv_name-ar: كازاخستان
-dv_name-ru: Казахстан
+dv_has_name_en: Kazakhstan
+dv_has_name_es: Kazajstán
+dv_has_name_fr: Kazakhstan
+dv_has_name_cn: 哈萨克斯坦
+dv_has_name_ar: كازاخستان
+dv_has_name_ru: Казахстан
 dv_CLDR_display_name: Kazakhstan
 dv_UNTERM_English: Kazakhstan
 dv_UNTERM_English_Formal: the Republic of Kazakhstan
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan.personal|Kazakhstan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan.secret|Kazakhstan.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Kazakhstan
-dv_name-de: Kasachstan
+dv_has_name_de: Kasachstan
 dv_Area-Total: 2717300
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Asia]]"
@@ -477,12 +476,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Kazakhstan ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Kazakhstan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -552,8 +551,8 @@ markerFile: [[Kazakhstan]]
 defaultZoom: 4 
 ```
 
-[name-en::Kazakhstan]
-name-de = `=this.dv_name-de`
+[has_name_en::Kazakhstan]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

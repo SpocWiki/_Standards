@@ -8,14 +8,12 @@ dv_Telephone: 63
 dv_Global: true
 dv_Global_Name: World
 dv_name: Philippines
-dv_name-en:
-  - Philippines
-  - Philippines
-dv_name-es: Filipinas
-dv_name-fr: Philippines
-dv_name-cn: 菲律宾
-dv_name-ar: الفلبين
-dv_name-ru: Филиппины
+dv_has_name_en: Philippines
+dv_has_name_es: Filipinas
+dv_has_name_fr: Philippines
+dv_has_name_cn: 菲律宾
+dv_has_name_ar: الفلبين
+dv_has_name_ru: Филиппины
 dv_CLDR_display_name: Philippines
 dv_UNTERM_English: Philippines (the)
 dv_UNTERM_English_Formal: the Republic of the Philippines
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal|Philippines.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret|Philippines.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Philippines
-dv_name-de: Philippinen
+dv_has_name_de: Philippinen
 dv_Area-Total: 300000
 dv_Area-Land: 298170
 dv_has_place_continent: "[[../../../Oceania]]"
@@ -747,12 +746,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Philippines ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Philippines ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -824,8 +823,8 @@ markerFile: [[Philippines]]
 defaultZoom: 5 
 ```
 
-[name-en::Philippines]
-name-de = `=this.dv_name-de`
+[has_name_en::Philippines]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

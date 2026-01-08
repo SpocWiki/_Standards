@@ -8,8 +8,8 @@ SpocWebEntityId: 76714
 tags:
   - geo/Country
 type: Country
-dv_name-en: FRENCH WEST AFRICA
-dv_name-de: Franz. Westafrika
+dv_has_name_en: FRENCH WEST AFRICA
+dv_has_name_de: Franz. Westafrika
 dv_has_place_continent: "[[../../Africa]]"
 dv_Language-Id: 496
 dv_is_:
@@ -42,8 +42,8 @@ geojsonFolder: ./FRENCH_WEST_AFRICA/
 markerFolder: ./FRENCH_WEST_AFRICA/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

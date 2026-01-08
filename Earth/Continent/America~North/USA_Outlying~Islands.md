@@ -39,14 +39,14 @@ dv_ISO4217-currency_country_name: UNITED STATES MINOR OUTLYING ISLANDS
 dv_Global: true
 dv_Global_Name: World
 dv_name: U.S. Outlying Islands
-dv_name-en:
+dv_has_name_en:
   - United States Minor Outlying Islands
   - USA minor outlying Islands
-dv_name-es: Islas menores alejadas de Estados Unidos
-dv_name-fr: Îles mineures éloignées des États-Unis
-dv_name-cn: 美国本土外小岛屿
-dv_name-ar: نائية التابعة للولايات المتحدة
-dv_name-ru: Внешние малые острова Coeдинeнныx Штaтoв
+dv_has_name_es: Islas menores alejadas de Estados Unidos
+dv_has_name_fr: Îles mineures éloignées des États-Unis
+dv_has_name_cn: 美国本土外小岛屿
+dv_has_name_ar: نائية التابعة للولايات المتحدة
+dv_has_name_ru: Внешние малые острова Coeдинeнныx Штaтoв
 dv_CLDR_display_name: U.S. Outlying Islands
 dv_Region_Name: "[[../Oceania]]"
 dv_Intermediate_Region_Name: "[[USA_Outlying~Islands]]"
@@ -66,7 +66,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 581
 dv_ISO2: UM
 dv_ISO3: UMI
-dv_name-de: USA Inseln
+dv_has_name_de: USA Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[North-America]]"
@@ -103,12 +103,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: United States Minor Outlying Islands ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: United States Minor Outlying Islands ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -167,8 +167,8 @@ geojsonFolder: ./USA_Outlying~Islands/
 markerFolder: ./USA_Outlying~Islands/
 ```
 
-[name-en::USA minor outlying Islands]
-name-de = `=this.dv_name-de`
+[has_name_en::USA minor outlying Islands]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

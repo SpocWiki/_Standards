@@ -137,14 +137,14 @@ dv_Telephone: 212
 dv_Global: true
 dv_Global_Name: World
 dv_name: Western Sahara
-dv_name-en:
+dv_has_name_en:
   - Western Sahara
   - Western Sahara
-dv_name-es: Sáhara Occidental
-dv_name-fr: Sahara occidental
-dv_name-cn: 西撒哈拉
-dv_name-ar: الصحراء الغربية
-dv_name-ru: Западная Сахара
+dv_has_name_es: Sáhara Occidental
+dv_has_name_fr: Sahara occidental
+dv_has_name_cn: 西撒哈拉
+dv_has_name_ar: الصحراء الغربية
+dv_has_name_ru: Западная Сахара
 dv_CLDR_display_name: Western Sahara
 dv_Region_Name: "[[../../Africa]]"
 dv_Intermediate_Region_Name: "[[Western_Sahara]]"
@@ -177,9 +177,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Western_Sahara
-dv_name-de: Western Sahara
+dv_has_name_de: Western Sahara
 dv_Area-Total: 267000
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Africa]]"
@@ -214,12 +215,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Western Sahara ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Western Sahara ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -289,8 +290,8 @@ markerFile: [[Western_Sahara]]
 ```
 
 
-[name-en::Western Sahara]
-name-de = `=this.dv_name-de`
+[has_name_en::Western Sahara]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

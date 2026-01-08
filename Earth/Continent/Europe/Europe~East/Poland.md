@@ -3,13 +3,13 @@ dv_is_a_: "[[../../../Geography/Place]]"
 dv_has_place_longitude: 17.6996
 dv_has_place_latitude: 52.0027
 dv_name: Poland
-dv_name-en: Poland
-dv_name-es: Polonia
-dv_name-fr: Pologne
-dv_name-cn: 波兰
-dv_name-ar: بولندا
-dv_name-ru: Польша
-dv_name-de: Polen
+dv_has_name_en: Poland
+dv_has_name_es: Polonia
+dv_has_name_fr: Pologne
+dv_has_name_cn: 波兰
+dv_has_name_ar: بولندا
+dv_has_name_ru: Польша
+dv_has_name_de: Polen
 dv_ISO2: PL
 dv_ISO3: POL
 dv_is_:
@@ -23,6 +23,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~East/Poland.personal|Poland.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~East/Poland.secret|Poland.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Poland
   image_for_:
@@ -642,13 +643,13 @@ defaultZoom: 5
 ## International Names
 
 name = `=this.dv_name`
-name-en = `=this.dv_name-en`
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+has_name_de = `=this.dv_has_name_de`
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 

@@ -521,13 +521,13 @@ Wolfram_Language_entity_code: Entity["Country", "Canada"]
 X_Twitter_username:
   - Canada
   - AuCanada
-dv_name-en: Canada
-dv_name-es: Canadá
-dv_name-fr: Canada
-dv_name-cn: 加拿大
-dv_name-ar: كندا
-dv_name-ru: Канада
-dv_name-de: Kanada
+dv_has_name_en: Canada
+dv_has_name_es: Canadá
+dv_has_name_fr: Canada
+dv_has_name_cn: 加拿大
+dv_has_name_ar: كندا
+dv_has_name_ru: Канада
+dv_has_name_de: Kanada
 dv_ISO2: CA
 dv_ISO3: CAN
 dv_is_:
@@ -541,6 +541,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~North/Canada.personal|Canada.personal]]"
     - "[[/_secret/Earth/Continent/America~North/Canada.secret|Canada.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Canada
   image_for_:
@@ -623,13 +624,13 @@ dv_developed_developing_countries: Developed
 ## International Names
 
 [	name	 :: Canada ]
-name-en = `=this.dv_name-en`
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+has_name_de = `=this.dv_has_name_de`
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`  

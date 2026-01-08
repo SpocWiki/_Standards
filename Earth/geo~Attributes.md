@@ -53,7 +53,7 @@ Here are some with their Type and Description:
 | brk_a3            | character(3)  | AFG                          |                                                   |     |            |     |     |                                           |
 | brk_name          | character(36) | Afghanistan                  |                                                   |     |            |     |     |                                           |
 | brk_group         | character(30) | null                         |                                                   |     |            |     |     |                                           |
-| abbrev            | character(13) |                              | Name-Abbreviation                                 |     |            |     |     |                                           |
+| abbrev            | character(13) |                              | has_name_Abbreviation                                 |     |            |     |     |                                           |
 | postal            | character(4)  |                              | International Postal Code                         |     |            |     |     |                                           |
 | formal_en         | character(52) | Islamic State of Afghanistan | Full English Name according to UN                 |     |            |     |     |                                           |
 | min_zoom          | smallint      |                              | Minimum Zoom Level to show this Feature           |     |            |     |     |                                           |

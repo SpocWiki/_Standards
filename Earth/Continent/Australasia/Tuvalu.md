@@ -252,14 +252,12 @@ dv_Telephone: 688
 dv_Global: true
 dv_Global_Name: World
 dv_name: Tuvalu
-dv_name-en:
-  - Tuvalu
-  - Tuvalu
-dv_name-es: Tuvalu
-dv_name-fr: Tuvalu
-dv_name-cn: 图瓦卢
-dv_name-ar: توفالو
-dv_name-ru: Тувалу
+dv_has_name_en: Tuvalu
+dv_has_name_es: Tuvalu
+dv_has_name_fr: Tuvalu
+dv_has_name_cn: 图瓦卢
+dv_has_name_ar: توفالو
+dv_has_name_ru: Тувалу
 dv_CLDR_display_name: Tuvalu
 dv_UNTERM_English: Tuvalu
 dv_UNTERM_English_Formal: Tuvalu
@@ -298,7 +296,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 798
 dv_ISO2: TV
 dv_ISO3: TUV
-dv_name-de: Tuvalu
+dv_has_name_de: Tuvalu
 dv_Area-Total: 26
 dv_Area-Land: 30
 dv_has_place_continent: "[[../Oceania]]"
@@ -339,12 +337,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Tuvalu ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Tuvalu ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -408,8 +406,8 @@ geojsonFolder: ./Tuvalu/
 markerFolder: ./Tuvalu/
 ```
 
-[name-en::Tuvalu] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Tuvalu] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Coat_of_arms_of_Tuvalu.svg|350]] 
 

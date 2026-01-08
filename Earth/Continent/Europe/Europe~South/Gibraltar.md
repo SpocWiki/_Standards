@@ -43,14 +43,12 @@ dv_Global_Name: World
 dv_name:
   - Gibraltar
   - Gibraltar
-dv_name-en:
-  - Gibraltar
-  - Gibraltar
-dv_name-es: Gibraltar
-dv_name-fr: Gibraltar
-dv_name-cn: 直布罗陀
-dv_name-ar: جبل طارق
-dv_name-ru: Гибралтар
+dv_has_name_en: Gibraltar
+dv_has_name_es: Gibraltar
+dv_has_name_fr: Gibraltar
+dv_has_name_cn: 直布罗陀
+dv_has_name_ar: جبل طارق
+dv_has_name_ru: Гибралтар
 dv_CLDR_display_name: Gibraltar
 dv_Region_Name: "[[../../Europe]]"
 dv_Intermediate_Region_Name: "[[Gibraltar]]"
@@ -82,7 +80,7 @@ dv_has_place_latitude:
   - 36.1
   - 36.143
 dv_has_place_country: "[[../Europe~North/UK]]"
-dv_name-de: Gibraltar
+dv_has_name_de: Gibraltar
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Europe]]"
@@ -119,12 +117,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 [	name	 :: Gibraltar ]
-[	name-en	 :: Gibraltar ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Gibraltar ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -194,8 +192,8 @@ markerFolder: ./Gibraltar/
 coordinates: [[Gibraltar]]
 ```
 
-[name-en::Gibraltar]
-name-de = `=this.dv_name-de`
+[has_name_en::Gibraltar]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -75,6 +75,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Oceania,7112396]]"
 Wolfram_Language_entity_code: Entity"GeographicRegion", "Oceania = `=this.dv_"GeographicRegion", "Oceania`
 dv_"GeographicRegion", "Oceania: kpx45"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Oceania
 dv_is_:
@@ -87,8 +88,8 @@ dv_is_:
     - "[[/_private/Earth/Continent/Oceania.private|Oceania.private]]"
     - "[[/_personal/Earth/Continent/Oceania.personal|Oceania.personal]]"
     - "[[/_secret/Earth/Continent/Oceania.secret|Oceania.secret]]"
-dv_name-en: Oceania
-dv_name-de: Ozeanien
+dv_has_name_en: Oceania
+dv_has_name_de: Ozeanien
 dv_#has_:
   code: OC
 dv_geographicregion-oceania: kpx45"
@@ -128,8 +129,8 @@ markerFile: [[Oceania]]
 defaultZoom: 4 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 has_code = `=this.dv_has_code`
 
 

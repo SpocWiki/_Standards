@@ -16,17 +16,18 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.personal|Sudan~South.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.secret|Sudan~South.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Sudan-South
 dv_Global: true
 dv_Global_Name: World
 dv_name: South Sudan
-dv_name-en: South Sudan
-dv_name-es: Sudán del Sur
-dv_name-fr: Soudan du Sud
-dv_name-cn: 南苏丹
-dv_name-ar: جنوب السودان
-dv_name-ru: Южный Судан
+dv_has_name_en: South Sudan
+dv_has_name_es: Sudán del Sur
+dv_has_name_fr: Soudan du Sud
+dv_has_name_cn: 南苏丹
+dv_has_name_ar: جنوب السودان
+dv_has_name_ru: Южный Судан
 dv_CLDR_display_name: South Sudan
 dv_UNTERM_English: South Sudan
 dv_UNTERM_English_Formal: the Republic of South Sudan
@@ -459,12 +460,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-name-en = `=this.dv_name-en`
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 

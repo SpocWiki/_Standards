@@ -9,8 +9,8 @@ tags:
 type: Country
 dv_ISO2: FX
 dv_ISO3: FXX
-dv_name-en: France, Metropolitan
-dv_name-de: Frankreich, Metropolen
+dv_has_name_en: France, Metropolitan
+dv_has_name_de: Frankreich, Metropolen
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Europe]]"
@@ -47,8 +47,8 @@ geojsonFolder: ./France~Metropolitan/
 markerFolder: ./France~Metropolitan/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

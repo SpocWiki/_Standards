@@ -12,10 +12,11 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North.personal|Macedonia~North.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North.secret|Macedonia~North.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Macedonia-North
-dv_name-en: Macedonia, FYR
-dv_name-de: Mazedonien
+dv_has_name_en: Macedonia, FYR
+dv_has_name_de: Mazedonien
 dv_Area-Total: 25713
 dv_Area-Land: 25430
 dv_has_place_continent: "[[../../Europe]]"
@@ -505,8 +506,8 @@ geojsonFolder: ./Macedonia~North//
 markerFolder: ./Macedonia~North//
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

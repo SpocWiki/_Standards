@@ -8,14 +8,14 @@ dv_Telephone: 692
 dv_Global: true
 dv_Global_Name: World
 dv_name: Marshall Islands
-dv_name-en:
+dv_has_name_en:
   - Marshall Islands
   - Marshall Islands
-dv_name-es: Islas Marshall
-dv_name-fr: Îles Marshall
-dv_name-cn: 马绍尔群岛
-dv_name-ar: جزر مارشال
-dv_name-ru: Маршалловы Острова
+dv_has_name_es: Islas Marshall
+dv_has_name_fr: Îles Marshall
+dv_has_name_cn: 马绍尔群岛
+dv_has_name_ar: جزر مارشال
+dv_has_name_ru: Маршалловы Острова
 dv_CLDR_display_name: Marshall Islands
 dv_UNTERM_English: Marshall Islands (the)
 dv_UNTERM_English_Formal: the Republic of the Marshall Islands
@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands.private|Marshall_Islands.private]]"
     - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands.personal|Marshall_Islands.personal]]"
     - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands.secret|Marshall_Islands.secret]]"
-dv_name-de: Marshall-Inseln
+dv_has_name_de: Marshall-Inseln
 dv_Area-Total: 181
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Oceania]]"
@@ -378,12 +378,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Marshall Islands ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Marshall Islands ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -449,8 +449,8 @@ markerFile: [[Marshall_Islands]]
 defaultZoom: 5 
 ```
 
-[name-en::Marshall Islands] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Marshall Islands] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 has_place_continent = `=this.dv_has_place_continent`

@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Bosnia_and_Herzegovina
 dv_ISO2: BA
@@ -14,8 +15,8 @@ dv_is_:
     - "[[/_private/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.private|Bosnia-Herzegovina.private]]"
     - "[[/_personal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.personal|Bosnia-Herzegovina.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.secret|Bosnia-Herzegovina.secret]]"
-dv_name-en: Bosnia and Herzegovina
-dv_name-de: Bosnien-Herzegowina
+dv_has_name_en: Bosnia and Herzegovina
+dv_has_name_de: Bosnien-Herzegowina
 dv_Area-Total: 51129
 dv_Area-Land: 51000
 dv_has_place_continent: "[[../../Europe]]"
@@ -429,8 +430,8 @@ markerFile: [[Bosnia-Herzegovina]]
 defaultZoom: 6 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

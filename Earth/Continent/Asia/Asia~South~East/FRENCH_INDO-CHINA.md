@@ -8,8 +8,8 @@ SpocWebEntityId: 76712
 tags:
   - geo/Country
 type: Country
-dv_name-en: FRENCH INDO-CHINA
-dv_name-de: Franz. Indochina
+dv_has_name_en: FRENCH INDO-CHINA
+dv_has_name_de: Franz. Indochina
 dv_has_place_continent: "[[../../Asia]]"
 dv_is_:
   same_as:
@@ -41,8 +41,8 @@ geojsonFolder: ./FRENCH_INDO-CHINA/
 markerFolder: ./FRENCH_INDO-CHINA/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

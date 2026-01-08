@@ -8,14 +8,12 @@ dv_Telephone: 381
 dv_Global: true
 dv_Global_Name: World
 dv_name: Serbia
-dv_name-en:
-  - Serbia
-  - Serbia
-dv_name-es: Serbia
-dv_name-fr: Serbie
-dv_name-cn: 塞尔维亚
-dv_name-ar: صربيا
-dv_name-ru: Сербия
+dv_has_name_en: Serbia
+dv_has_name_es: Serbia
+dv_has_name_fr: Serbie
+dv_has_name_cn: 塞尔维亚
+dv_has_name_ar: صربيا
+dv_has_name_ru: Сербия
 dv_CLDR_display_name: Serbia
 dv_UNTERM_English: Serbia
 dv_UNTERM_English_Formal: the Republic of Serbia
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~South/Serbia.personal|Serbia.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Serbia.secret|Serbia.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Serbia
-dv_name-de: Serbien
+dv_has_name_de: Serbien
 dv_has_place_continent: "[[../../Europe]]"
 dv_VehicleCode: SRB
 dv_Capital: "[[Serbia/districts~Serbia/Beograd]]"
@@ -543,12 +542,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Serbia ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Serbia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -618,8 +617,8 @@ markerFile: [[Serbia]]
 defaultZoom: 6 
 ```
 
-[name-en::Serbia]  
-name-de = `=this.dv_name-de`
+[has_name_en::Serbia]  
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

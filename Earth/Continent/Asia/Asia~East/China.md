@@ -8,14 +8,12 @@ dv_Telephone: 86
 dv_Global: true
 dv_Global_Name: World
 dv_name: China
-dv_name-en:
-  - China
-  - China
-dv_name-es: China
-dv_name-fr: Chine
-dv_name-cn: 中国
-dv_name-ar: الصين
-dv_name-ru: Китай
+dv_has_name_en: China
+dv_has_name_es: China
+dv_has_name_fr: Chine
+dv_has_name_cn: 中国
+dv_has_name_ar: الصين
+dv_has_name_ru: Китай
 dv_CLDR_display_name: China
 dv_UNTERM_English: China
 dv_UNTERM_English_Formal: the People's Republic of China
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~East/China.personal|China.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~East/China.secret|China.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-China
-dv_name-de: China
+dv_has_name_de: China
 dv_Area-Total: 9571300
 dv_Area-Land: 9326410
 dv_has_place_continent: "[[../../Asia]]"
@@ -1090,12 +1089,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: China ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: China ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -1169,8 +1168,8 @@ zoomFeatures: true
 defaultZoom: 4 
 ```
 
-[name-en::China]
-name-de = `=this.dv_name-de`
+[has_name_en::China]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

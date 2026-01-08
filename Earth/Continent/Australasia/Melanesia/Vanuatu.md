@@ -404,14 +404,12 @@ dv_Telephone: 678
 dv_Global: true
 dv_Global_Name: World
 dv_name: Vanuatu
-dv_name-en:
-  - Vanuatu
-  - Vanuatu
-dv_name-es: Vanuatu
-dv_name-fr: Vanuatu
-dv_name-cn: 瓦努阿图
-dv_name-ar: فانواتو
-dv_name-ru: Вануату
+dv_has_name_en: Vanuatu
+dv_has_name_es: Vanuatu
+dv_has_name_fr: Vanuatu
+dv_has_name_cn: 瓦努阿图
+dv_has_name_ar: فانواتو
+dv_has_name_ru: Вануату
 dv_CLDR_display_name: Vanuatu
 dv_UNTERM_English: Vanuatu
 dv_UNTERM_English_Formal: the Republic of Vanuatu
@@ -450,7 +448,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 548
 dv_ISO2: VU
 dv_ISO3: VUT
-dv_name-de: Vanuatu
+dv_has_name_de: Vanuatu
 dv_Area-Total: 12190
 dv_Area-Land: 12190
 dv_has_place_continent: "[[../../Oceania]]"
@@ -494,12 +492,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Vanuatu ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Vanuatu ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -563,8 +561,8 @@ geojsonFolder: ./Vanuatu/
 markerFolder: ./Vanuatu/
 ```
 
-[name-en::Vanuatu] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Vanuatu] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Coat_of_arms_of_Vanuatu.svg|350]] 
 

@@ -12,10 +12,11 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.personal|Sudan~North.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.secret|Sudan~North.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Sudan-North
-dv_name-en: Sudan
-dv_name-de: Sudan
+dv_has_name_en: Sudan
+dv_has_name_de: Sudan
 dv_Area-Total: 2505813
 dv_Area-Land: 2376000
 dv_has_place_continent: "[[../../../Africa]]"
@@ -452,8 +453,8 @@ markerFile: [[Sudan~North]]
 defaultZoom: 5 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

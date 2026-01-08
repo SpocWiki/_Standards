@@ -8,8 +8,8 @@ SpocWebEntityId: 76717
 tags:
   - geo/Country
 type: Country
-dv_name-en: EAST &amp; WEST PAKISTAN
-dv_name-de: Pakistan
+dv_has_name_en: EAST &amp; WEST PAKISTAN
+dv_has_name_de: Pakistan
 dv_has_place_continent: "[[../Asia]]"
 dv_is_:
   same_as:
@@ -41,8 +41,8 @@ geojsonFolder: ./EAST_&amp;_WEST_PAKISTAN/
 markerFolder: ./EAST_&amp;_WEST_PAKISTAN/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

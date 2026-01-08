@@ -285,6 +285,7 @@ Languages:
   - ar
   - fr-KM
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Comoros
 dv_ISO4217-currency_alphabetic: KMF
@@ -296,14 +297,12 @@ dv_Telephone: 269
 dv_Global: true
 dv_Global_Name: World
 dv_name: Comoros
-dv_name-en:
-  - Comoros
-  - Comoros
-dv_name-es: Comoras
-dv_name-fr: Comores
-dv_name-cn: 科摩罗
-dv_name-ar: جزر القمر
-dv_name-ru: Коморские Острова
+dv_has_name_en: Comoros
+dv_has_name_es: Comoras
+dv_has_name_fr: Comores
+dv_has_name_cn: 科摩罗
+dv_has_name_ar: جزر القمر
+dv_has_name_ru: Коморские Острова
 dv_CLDR_display_name: Comoros
 dv_UNTERM_English: Comoros (the)
 dv_UNTERM_English_Formal: the Union of the Comoros
@@ -353,7 +352,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~East/Comoros.private|Comoros.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Comoros.personal|Comoros.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Comoros.secret|Comoros.secret]]"
-dv_name-de: Komoren
+dv_has_name_de: Komoren
 dv_Area-Total: 1862
 dv_Area-Land: 2230
 dv_has_place_continent: "[[../../Africa]]"
@@ -396,12 +395,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Comoros ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Comoros ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -463,8 +462,8 @@ geojsonFolder: ./Comoros//
 markerFolder: ./Comoros//
 ```
 
-[name-en::Comoros]
-name-de = `=this.dv_name-de`
+[has_name_en::Comoros]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

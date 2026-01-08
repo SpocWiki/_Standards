@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Cyprus
 dv_ISO4217-currency_alphabetic: EUR
@@ -11,14 +12,12 @@ dv_Telephone: 357
 dv_Global: true
 dv_Global_Name: World
 dv_name: Cyprus
-dv_name-en:
-  - Cyprus
-  - Cyprus
-dv_name-es: Chipre
-dv_name-fr: Chypre
-dv_name-cn: 塞浦路斯
-dv_name-ar: قبرص
-dv_name-ru: Кипр
+dv_has_name_en: Cyprus
+dv_has_name_es: Chipre
+dv_has_name_fr: Chypre
+dv_has_name_cn: 塞浦路斯
+dv_has_name_ar: قبرص
+dv_has_name_ru: Кипр
 dv_CLDR_display_name: Cyprus
 dv_UNTERM_English: Cyprus
 dv_UNTERM_English_Formal: the Republic of Cyprus
@@ -65,7 +64,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Europe/Europe~South/Cyprus.private|Cyprus.private]]"
     - "[[/_personal/Earth/Continent/Europe/Europe~South/Cyprus.personal|Cyprus.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Cyprus.secret|Cyprus.secret]]"
-dv_name-de: Zypern
+dv_has_name_de: Zypern
 dv_Area-Total: 9251
 dv_Area-Land: 9240
 dv_has_place_continent: "[[../../Europe]]"
@@ -459,12 +458,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Cyprus ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Cyprus ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -537,8 +536,8 @@ markerFile: [[Cyprus]]
 defaultZoom: 7 
 ```
 
-[name-en::Cyprus]
-name-de = `=this.dv_name-de`
+[has_name_en::Cyprus]
+has_name_de = `=this.dv_has_name_de`
 ![[Flag_of_Cyprus.svg|350]]
 
 Area-Total = `=this.dv_Area-Total`

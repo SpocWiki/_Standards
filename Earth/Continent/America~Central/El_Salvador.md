@@ -324,6 +324,7 @@ Languages:
   - es-SV
 icon: flag-sv
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-El_Salvador
 dv_ISO4217-currency_alphabetic: SVC,USD
@@ -339,14 +340,14 @@ dv_Telephone: 503
 dv_Global: true
 dv_Global_Name: World
 dv_name: El Salvador
-dv_name-en:
+dv_has_name_en:
   - El Salvador
   - El Salvador
-dv_name-es: El Salvador
-dv_name-fr: El Salvador
-dv_name-cn: 萨尔瓦多
-dv_name-ar: السلفادور
-dv_name-ru: Сальвадор
+dv_has_name_es: El Salvador
+dv_has_name_fr: El Salvador
+dv_has_name_cn: 萨尔瓦多
+dv_has_name_ar: السلفادور
+dv_has_name_ru: Сальвадор
 dv_CLDR_display_name: El Salvador
 dv_UNTERM_English: El Salvador
 dv_UNTERM_English_Formal: the Republic of El Salvador
@@ -394,7 +395,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/America~Central/El_Salvador.private|El_Salvador.private]]"
     - "[[/_personal/Earth/Continent/America~Central/El_Salvador.personal|El_Salvador.personal]]"
     - "[[/_secret/Earth/Continent/America~Central/El_Salvador.secret|El_Salvador.secret]]"
-dv_name-de: El Salvador
+dv_has_name_de: El Salvador
 dv_Area-Total: 21041
 dv_Area-Land: 20720
 dv_has_place_continent: "[[South-America]]"
@@ -435,12 +436,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: El Salvador ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: El Salvador ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -503,8 +504,8 @@ geojsonFolder: ./El_Salvador//
 markerFolder: ./El_Salvador/
 ```
 
-[name-en::El Salvador]
-name-de = `=this.dv_name-de`
+[has_name_en::El Salvador]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

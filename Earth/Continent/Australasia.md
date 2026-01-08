@@ -10,8 +10,8 @@ location:
 tags:
   - geo/Continent
 type: Continent
-dv_name-en: Australia
-dv_name-de: Australien
+dv_has_name_en: Australia
+dv_has_name_de: Australien
 dv_#has_:
   code: AU
 dv_is_:
@@ -59,8 +59,8 @@ markerFile: [[Australasia]]
 zoomFeatures: false 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 has_code = `=this.dv_has_code`
 
 

@@ -8,14 +8,12 @@ dv_Telephone: 90
 dv_Global: true
 dv_Global_Name: World
 dv_name: Turkey
-dv_name-en:
-  - Turkey
-  - Turkey
-dv_name-es: Turquía
-dv_name-fr: Turquie
-dv_name-cn: 土耳其
-dv_name-ar: تركيا
-dv_name-ru: Турция
+dv_has_name_en: Turkey
+dv_has_name_es: Turquía
+dv_has_name_fr: Turquie
+dv_has_name_cn: 土耳其
+dv_has_name_ar: تركيا
+dv_has_name_ru: Турция
 dv_CLDR_display_name: Turkey
 dv_UNTERM_English: Turkey
 dv_UNTERM_English_Formal: the Republic of Turkey
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal|Turkey.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret|Turkey.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Turkey
-dv_name-de: Türkei
+dv_has_name_de: Türkei
 dv_Area-Total: 779452
 dv_Area-Land: 769630
 dv_has_place_continent: "[[../../Europe]]"
@@ -670,12 +669,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Turkey ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Turkey ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -745,8 +744,8 @@ markerFile: [[Turkey]]
 defaultZoom: 6 
 ```
 
-[name-en::Turkey]
-name-de = `=this.dv_name-de`  
+[has_name_en::Turkey]
+has_name_de = `=this.dv_has_name_de`  
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

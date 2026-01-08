@@ -369,6 +369,7 @@ mobile_country_code: 631
 INSEE_countries_and_foreign_territories_code: 99395
 ITU_letter_code: AGL
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Angola
 dv_ISO4217-currency_alphabetic: AOA
@@ -380,14 +381,12 @@ dv_Telephone: 244
 dv_Global: true
 dv_Global_Name: World
 dv_name: Angola
-dv_name-en:
-  - Angola
-  - Angola
-dv_name-es: Angola
-dv_name-fr: Angola
-dv_name-cn: 安哥拉
-dv_name-ar: أنغولا
-dv_name-ru: Ангола
+dv_has_name_en: Angola
+dv_has_name_es: Angola
+dv_has_name_fr: Angola
+dv_has_name_cn: 安哥拉
+dv_has_name_ar: أنغولا
+dv_has_name_ru: Ангола
 dv_CLDR_display_name: Angola
 dv_UNTERM_English: Angola
 dv_UNTERM_English_Formal: the Republic of Angola
@@ -426,7 +425,7 @@ dv_Least_Developed_Countries: x
 dv_ISO3166-1-numeric: 24
 dv_ISO2: AO
 dv_ISO3: AGO
-dv_name-de: Angola
+dv_has_name_de: Angola
 dv_Area-Total: 1246700
 dv_Area-Land: 1246700
 dv_has_place_continent: "[[../../Africa]]"
@@ -479,12 +478,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Angola ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Angola ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -543,8 +542,8 @@ geojsonFolder: ./Angola//
 markerFolder: ./Angola//
 ```
 
-[name-en::Angola]
-name-de = `=this.dv_name-de`
+[has_name_en::Angola]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -320,6 +320,7 @@ expiryDate: ""
 Languages:
   - pt-CV
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Cape_Verde
 dv_ISO4217-currency_alphabetic: CVE
@@ -331,14 +332,14 @@ dv_Telephone: 238
 dv_Global: true
 dv_Global_Name: World
 dv_name: Cape Verde
-dv_name-en:
+dv_has_name_en:
   - Cabo Verde
   - Cape Verde
-dv_name-es: Cabo Verde
-dv_name-fr: Cabo Verde
-dv_name-cn: 佛得角
-dv_name-ar: كابو فيردي
-dv_name-ru: Кабо-Верде
+dv_has_name_es: Cabo Verde
+dv_has_name_fr: Cabo Verde
+dv_has_name_cn: 佛得角
+dv_has_name_ar: كابو فيردي
+dv_has_name_ru: Кабо-Верде
 dv_CLDR_display_name: Cape Verde
 dv_UNTERM_English: Cabo Verde
 dv_UNTERM_English_Formal: the Republic of Cabo Verde
@@ -386,7 +387,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde.private|Cape_Verde.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde.personal|Cape_Verde.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde.secret|Cape_Verde.secret]]"
-dv_name-de: Kap Verde
+dv_has_name_de: Kap Verde
 dv_Area-Total: 4033
 dv_Area-Land: 4030
 dv_has_place_continent: "[[../../Africa]]"
@@ -428,12 +429,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Cabo Verde ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Cabo Verde ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -495,8 +496,8 @@ geojsonFolder: ./Cape_Verde//
 markerFolder: ./Cape_Verde//
 ```
 
-[name-en::Cape Verde]
-name-de = `=this.dv_name-de`
+[has_name_en::Cape Verde]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

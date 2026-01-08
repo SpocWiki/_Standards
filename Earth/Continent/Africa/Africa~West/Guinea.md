@@ -345,6 +345,7 @@ expiryDate: ""
 Languages:
   - fr-GN
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Guinea
 dv_ISO4217-currency_alphabetic: GNF
@@ -356,14 +357,12 @@ dv_Telephone: 224
 dv_Global: true
 dv_Global_Name: World
 dv_name: Guinea
-dv_name-en:
-  - Guinea
-  - Guinea
-dv_name-es: Guinea
-dv_name-fr: Guinée
-dv_name-cn: 几内亚
-dv_name-ar: غينيا
-dv_name-ru: Гвинея
+dv_has_name_en: Guinea
+dv_has_name_es: Guinea
+dv_has_name_fr: Guinée
+dv_has_name_cn: 几内亚
+dv_has_name_ar: غينيا
+dv_has_name_ru: Гвинея
 dv_CLDR_display_name: Guinea
 dv_UNTERM_English: Guinea
 dv_UNTERM_English_Formal: the Republic of Guinea
@@ -412,7 +411,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~West/Guinea.private|Guinea.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Guinea.personal|Guinea.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Guinea.secret|Guinea.secret]]"
-dv_name-de: Guinea
+dv_has_name_de: Guinea
 dv_Area-Total: 245857
 dv_Area-Land: 245720
 dv_has_place_continent: "[[../../Africa]]"
@@ -453,12 +452,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Guinea ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Guinea ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -520,8 +519,8 @@ geojsonFolder: ./Guinea//
 markerFolder: ./Guinea//
 ```
 
-[name-en::Guinea]
-name-de = `=this.dv_name-de`
+[has_name_en::Guinea]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

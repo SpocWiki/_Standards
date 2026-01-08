@@ -267,6 +267,7 @@ urban_population:
   - 295322
 INSEE_countries_and_foreign_territories_code: 99391
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Swaziland
 dv_ISO2: SZ
@@ -281,8 +282,8 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~South/Swaziland.private|Swaziland.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~South/Swaziland.personal|Swaziland.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret|Swaziland.secret]]"
-dv_name-en: Swaziland
-dv_name-de: Swasiland
+dv_has_name_en: Swaziland
+dv_has_name_de: Swasiland
 dv_Area-Total: 17363
 dv_Area-Land: 17200
 dv_has_place_continent: "[[../../Africa]]"
@@ -328,8 +329,8 @@ geojsonFolder: ./Swaziland//
 markerFolder: ./Swaziland//
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

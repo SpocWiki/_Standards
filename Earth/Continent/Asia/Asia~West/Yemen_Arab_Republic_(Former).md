@@ -8,8 +8,8 @@ SpocWebEntityId: 76721
 tags:
   - geo/Country
 type: Country
-dv_name-en: Yemen Arab Republic (Former)
-dv_name-de: Nord Jemen
+dv_has_name_en: Yemen Arab Republic (Former)
+dv_has_name_de: Nord Jemen
 dv_has_place_continent: "[[../../Africa]]"
 dv_Language-Id: 472
 dv_is_:
@@ -42,8 +42,8 @@ geojsonFolder: ./Yemen_Arab_Republic_(Former)//
 markerFolder: ./Yemen_Arab_Republic_(Former)//
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

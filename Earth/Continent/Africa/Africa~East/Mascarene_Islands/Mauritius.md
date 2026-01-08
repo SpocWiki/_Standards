@@ -339,6 +339,7 @@ Languages:
   - bho
   - fr
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Mauritius
 dv_ISO4217-currency_alphabetic: MUR
@@ -350,14 +351,12 @@ dv_Telephone: 230
 dv_Global: true
 dv_Global_Name: World
 dv_name: Mauritius
-dv_name-en:
-  - Mauritius
-  - Mauritius
-dv_name-es: Mauricio
-dv_name-fr: Maurice
-dv_name-cn: 毛里求斯
-dv_name-ar: موريشيوس
-dv_name-ru: Маврикий
+dv_has_name_en: Mauritius
+dv_has_name_es: Mauricio
+dv_has_name_fr: Maurice
+dv_has_name_cn: 毛里求斯
+dv_has_name_ar: موريشيوس
+dv_has_name_ru: Маврикий
 dv_CLDR_display_name: Mauritius
 dv_UNTERM_English: Mauritius
 dv_UNTERM_English_Formal: the Republic of Mauritius
@@ -406,7 +405,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.private|Mauritius.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.personal|Mauritius.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.secret|Mauritius.secret]]"
-dv_name-de: Mauritius
+dv_has_name_de: Mauritius
 dv_Area-Total: 2040
 dv_Area-Land: 2030
 dv_has_place_continent: "[[../../../Africa]]"
@@ -448,12 +447,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Mauritius ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Mauritius ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -515,8 +514,8 @@ geojsonFolder: ./Mauritius//
 markerFolder: ./Mauritius//
 ```
 
-[name-en::Mauritius]
-name-de = `=this.dv_name-de`
+[has_name_en::Mauritius]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

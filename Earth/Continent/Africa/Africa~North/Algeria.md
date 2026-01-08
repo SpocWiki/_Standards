@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Algeria
 dv_ISO4217-currency_alphabetic: DZD
@@ -11,14 +12,12 @@ dv_Telephone: 213
 dv_Global: true
 dv_Global_Name: World
 dv_name: Algeria
-dv_name-en:
-  - Algeria
-  - Algeria
-dv_name-es: Argelia
-dv_name-fr: Algérie
-dv_name-cn: 阿尔及利亚
-dv_name-ar: الجزائر
-dv_name-ru: Алжир
+dv_has_name_en: Algeria
+dv_has_name_es: Argelia
+dv_has_name_fr: Algérie
+dv_has_name_cn: 阿尔及利亚
+dv_has_name_ar: الجزائر
+dv_has_name_ru: Алжир
 dv_CLDR_display_name: Algeria
 dv_UNTERM_English: Algeria
 dv_UNTERM_English_Formal: the People's Democratic Republic of Algeria
@@ -55,7 +54,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 12
 dv_ISO2: DZ
 dv_ISO3: DZA
-dv_name-de: Algerien
+dv_has_name_de: Algerien
 dv_Area-Total: 2381741
 dv_Area-Land: 2381740
 dv_has_place_continent: "[[../../Africa]]"
@@ -536,12 +535,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Algeria ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Algeria ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -611,8 +610,8 @@ zoomFeatures: true
 defaultZoom: 11 
 ```
 
-[name-en::Algeria] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Algeria] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 has_place_continent = `=this.dv_has_place_continent`

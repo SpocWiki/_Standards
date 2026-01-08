@@ -304,14 +304,14 @@ dv_Telephone: 670
 dv_Global: true
 dv_Global_Name: World
 dv_name: Timor-Leste
-dv_name-en:
+dv_has_name_en:
   - Timor-Leste
   - Timor-Leste
-dv_name-es: Timor-Leste
-dv_name-fr: Timor-Leste
-dv_name-cn: 东帝汶
-dv_name-ar: تيمور- ليشتي
-dv_name-ru: Тимор-Лешти
+dv_has_name_es: Timor-Leste
+dv_has_name_fr: Timor-Leste
+dv_has_name_cn: 东帝汶
+dv_has_name_ar: تيمور- ليشتي
+dv_has_name_ru: Тимор-Лешти
 dv_CLDR_display_name: Timor-Leste
 dv_UNTERM_English: Timor-Leste
 dv_UNTERM_English_Formal: the Democratic Republic of Timor-Leste
@@ -360,7 +360,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.private|Timor-Leste.private]]"
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.personal|Timor-Leste.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.secret|Timor-Leste.secret]]"
-dv_name-de: Osttimor
+dv_has_name_de: Osttimor
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../../../Oceania]]"
@@ -395,12 +395,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Timor-Leste ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Timor-Leste ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -465,8 +465,8 @@ coordinates: [[Timor-Leste]]
 markerFile: [[Timor-Leste]] 
 ```
 
-[name-en::Timor-Leste] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Timor-Leste] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 has_place_continent = `=this.dv_has_place_continent`

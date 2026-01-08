@@ -8,14 +8,12 @@ dv_Telephone: 377
 dv_Global: true
 dv_Global_Name: World
 dv_name: Monaco
-dv_name-en:
-  - Monaco
-  - Monaco
-dv_name-es: Mónaco
-dv_name-fr: Monaco
-dv_name-cn: 摩纳哥
-dv_name-ar: موناكو
-dv_name-ru: Монако
+dv_has_name_en: Monaco
+dv_has_name_es: Mónaco
+dv_has_name_fr: Monaco
+dv_has_name_cn: 摩纳哥
+dv_has_name_ar: موناكو
+dv_has_name_ru: Монако
 dv_CLDR_display_name: Monaco
 dv_UNTERM_English: Monaco
 dv_UNTERM_English_Formal: the Principality of Monaco
@@ -62,9 +60,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~West/Monaco.personal|Monaco.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~West/Monaco.secret|Monaco.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Monaco
-dv_name-de: Monaco
+dv_has_name_de: Monaco
 dv_Area-Total: 2
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Europe]]"
@@ -380,12 +379,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Monaco ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Monaco ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -458,8 +457,8 @@ markerFile: [[Monaco]]
 defaultZoom: 7 
 ```
 
-[name-en::Monaco]
-name-de = `=this.dv_name-de`
+[has_name_en::Monaco]
+has_name_de = `=this.dv_has_name_de`
 ![[Coat_of_arms_of_Monaco.svg|650]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3]]
 ![[Flag_of_Monaco.svg|350]]

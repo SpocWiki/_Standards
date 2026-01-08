@@ -48,14 +48,14 @@ dv_Telephone: 1-670
 dv_Global: true
 dv_Global_Name: World
 dv_name: Northern Mariana Islands
-dv_name-en:
+dv_has_name_en:
   - Northern Mariana Islands
   - Northern Mariana Islands
-dv_name-es: Islas Marianas Septentrionales
-dv_name-fr: Îles Mariannes du Nord
-dv_name-cn: 北马里亚纳群岛
-dv_name-ar: جزر ماريانا الشمالية
-dv_name-ru: Северные Марианские острова
+dv_has_name_es: Islas Marianas Septentrionales
+dv_has_name_fr: Îles Mariannes du Nord
+dv_has_name_cn: 北马里亚纳群岛
+dv_has_name_ar: جزر ماريانا الشمالية
+dv_has_name_ru: Северные Марианские острова
 dv_CLDR_display_name: Northern Mariana Islands
 dv_Region_Name: "[[../../Oceania]]"
 dv_Intermediate_Region_Name: "[[Northern_Mariana~Islands]]"
@@ -81,7 +81,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 580
 dv_ISO2: MP
 dv_ISO3: MNP
-dv_name-de: Nördliche Marianen Inseln
+dv_has_name_de: Nördliche Marianen Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Oceania]]"
@@ -121,12 +121,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Northern Mariana Islands ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Northern Mariana Islands ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -190,8 +190,8 @@ geojsonFolder: ./Northern_Mariana_Islands/
 markerFolder: ./Northern_Mariana_Islands/
 ```
 
-[name-en::Northern Mariana Islands] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Northern Mariana Islands] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 has_place_continent = `=this.dv_has_place_continent`

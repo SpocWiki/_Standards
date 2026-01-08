@@ -8,14 +8,12 @@ dv_Telephone: 974
 dv_Global: true
 dv_Global_Name: World
 dv_name: Qatar
-dv_name-en:
-  - Qatar
-  - Qatar
-dv_name-es: Qatar
-dv_name-fr: Qatar
-dv_name-cn: 卡塔尔
-dv_name-ar: قطر
-dv_name-ru: Катар
+dv_has_name_en: Qatar
+dv_has_name_es: Qatar
+dv_has_name_fr: Qatar
+dv_has_name_cn: 卡塔尔
+dv_has_name_ar: قطر
+dv_has_name_ru: Катар
 dv_CLDR_display_name: Qatar
 dv_UNTERM_English: Qatar
 dv_UNTERM_English_Formal: the State of Qatar
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Qatar.personal|Qatar.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Qatar.secret|Qatar.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Qatar
-dv_name-de: Katar
+dv_has_name_de: Katar
 dv_Area-Total: 11437
 dv_Area-Land: 11000
 dv_has_place_continent: "[[../../Asia]]"
@@ -404,12 +403,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Qatar ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Qatar ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -480,8 +479,8 @@ markerFile: [[Qatar]]
 defaultZoom: 11 
 ```
 
-[name-en::Qatar]
-name-de = `=this.dv_name-de`
+[has_name_en::Qatar]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

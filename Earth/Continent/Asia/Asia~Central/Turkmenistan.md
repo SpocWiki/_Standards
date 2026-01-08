@@ -8,14 +8,12 @@ dv_Telephone: 993
 dv_Global: true
 dv_Global_Name: World
 dv_name: Turkmenistan
-dv_name-en:
-  - Turkmenistan
-  - Turkmenistan
-dv_name-es: Turkmenistán
-dv_name-fr: Turkménistan
-dv_name-cn: 土库曼斯坦
-dv_name-ar: تركمانستان
-dv_name-ru: Туркменистан
+dv_has_name_en: Turkmenistan
+dv_has_name_es: Turkmenistán
+dv_has_name_fr: Turkménistan
+dv_has_name_cn: 土库曼斯坦
+dv_has_name_ar: تركمانستان
+dv_has_name_ru: Туркменистан
 dv_CLDR_display_name: Turkmenistan
 dv_UNTERM_English: Turkmenistan
 dv_UNTERM_English_Formal: Turkmenistan
@@ -64,9 +62,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan.personal|Turkmenistan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan.secret|Turkmenistan.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Turkmenistan
-dv_name-de: Turkmenistan
+dv_has_name_de: Turkmenistan
 dv_Area-Total: 488100
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Asia]]"
@@ -414,12 +413,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Turkmenistan ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Turkmenistan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -490,8 +489,8 @@ markerFile: [[Turkmenistan]]
 defaultZoom: 5 
 ```
 
-[name-en::Turkmenistan]
-name-de = `=this.dv_name-de`
+[has_name_en::Turkmenistan]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

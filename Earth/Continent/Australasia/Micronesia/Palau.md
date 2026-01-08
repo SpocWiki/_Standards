@@ -9,14 +9,12 @@ dv_Telephone: 680
 dv_Global: true
 dv_Global_Name: World
 dv_name: Palau
-dv_name-en:
-  - Palau
-  - Palau
-dv_name-es: Palau
-dv_name-fr: Palaos
-dv_name-cn: 帕劳
-dv_name-ar: بالاو
-dv_name-ru: Палау
+dv_has_name_en: Palau
+dv_has_name_es: Palau
+dv_has_name_fr: Palaos
+dv_has_name_cn: 帕劳
+dv_has_name_ar: بالاو
+dv_has_name_ru: Палау
 dv_CLDR_display_name: Palau
 dv_UNTERM_English: Palau
 dv_UNTERM_English_Formal: the Republic of Palau
@@ -62,7 +60,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau.private|Palau.private]]"
     - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal|Palau.personal]]"
     - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret|Palau.secret]]"
-dv_name-de: Palau
+dv_has_name_de: Palau
 dv_Area-Total: 508
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Oceania]]"
@@ -377,12 +375,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Palau ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Palau ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -447,8 +445,8 @@ markerFile: [[Palau]]
 defaultZoom: 6 
 ```
 
-[name-en::Palau] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Palau] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Seal_of_Palau.svg|350]] 
 

@@ -11,8 +11,8 @@ SpocWebEntityId: 57605
 tags:
   - geo/Country
 type: Country
-dv_name-en: Macao, China
-dv_name-de: Macao, China
+dv_has_name_en: Macao, China
+dv_has_name_de: Macao, China
 dv_has_place_continent: "[[../../Asia]]"
 dv_Language-Id: 467
 dv_is_a_: "[[../../../Geography/Place]]"
@@ -48,8 +48,8 @@ geojsonFolder: ./Macao,_China/
 markerFolder: ./Macao,_China/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

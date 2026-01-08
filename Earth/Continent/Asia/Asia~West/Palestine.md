@@ -5,12 +5,12 @@ dv_Telephone: 970
 dv_Global: true
 dv_Global_Name: World
 dv_name: Palestine
-dv_name-en: State of Palestine
-dv_name-es: Estado de Palestina
-dv_name-fr: État de Palestine
-dv_name-cn: 巴勒斯坦国
-dv_name-ar: دولة فلسطين
-dv_name-ru: Государство Палестина
+dv_has_name_en: State of Palestine
+dv_has_name_es: Estado de Palestina
+dv_has_name_fr: État de Palestine
+dv_has_name_cn: 巴勒斯坦国
+dv_has_name_ar: دولة فلسطين
+dv_has_name_ru: Государство Палестина
 dv_CLDR_display_name: Palestine
 dv_UNTERM_English: State of Palestine  *
 dv_UNTERM_English_Formal: State of Palestine
@@ -185,12 +185,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name`
-name-en = `=this.dv_name-en`
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 

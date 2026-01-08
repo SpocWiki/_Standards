@@ -42,14 +42,12 @@ dv_Telephone: 95
 dv_Global: true
 dv_Global_Name: World
 dv_name: Myanmar
-dv_name-en:
-  - Myanmar
-  - Myanmar
-dv_name-es: Myanmar
-dv_name-fr: Myanmar
-dv_name-cn: 缅甸
-dv_name-ar: ميانمار
-dv_name-ru: Мьянма
+dv_has_name_en: Myanmar
+dv_has_name_es: Myanmar
+dv_has_name_fr: Myanmar
+dv_has_name_cn: 缅甸
+dv_has_name_ar: ميانمار
+dv_has_name_ru: Мьянма
 dv_CLDR_display_name: Myanmar
 dv_UNTERM_English: Myanmar
 dv_UNTERM_English_Formal: the Republic of the Union of Myanmar
@@ -98,9 +96,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Myanmar
-dv_name-de: Myanmar
+dv_has_name_de: Myanmar
 dv_Area-Total: 676552
 dv_Area-Land: 657550
 dv_has_place_continent: "[[../../Asia]]"
@@ -137,12 +136,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Myanmar ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Myanmar ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -211,8 +210,8 @@ coordinates: [[Myanmar]]
 markerFile: [[Myanmar]] 
 ```
 
-[name-en::Myanmar]
-name-de = `=this.dv_name-de`
+[has_name_en::Myanmar]
+has_name_de = `=this.dv_has_name_de`
 
 ![[Flag_of_Myanmar.svg|350]]
 

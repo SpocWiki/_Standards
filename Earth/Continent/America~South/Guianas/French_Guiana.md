@@ -34,6 +34,7 @@ tags:
 title: French Guiana
 type: Country
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-French_Guiana
 dv_ISO4217-currency_alphabetic: EUR
@@ -45,14 +46,14 @@ dv_Telephone: 594
 dv_Global: true
 dv_Global_Name: World
 dv_name: French Guiana
-dv_name-en:
+dv_has_name_en:
   - French Guiana
   - French Guiana
-dv_name-es: Guayana Francesa
-dv_name-fr: Guyane française
-dv_name-cn: 法属圭亚那
-dv_name-ar: غيانا الفرنسية
-dv_name-ru: Французская Гвиана
+dv_has_name_es: Guayana Francesa
+dv_has_name_fr: Guyane française
+dv_has_name_cn: 法属圭亚那
+dv_has_name_ar: غيانا الفرنسية
+dv_has_name_ru: Французская Гвиана
 dv_CLDR_display_name: French Guiana
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[South America]]"
@@ -78,7 +79,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 254
 dv_ISO2: GF
 dv_ISO3: GUF
-dv_name-de: Französisch Guayana
+dv_has_name_de: Französisch Guayana
 dv_Area-Total: 90000
 dv_Area-Land: 0
 dv_has_place_continent: "[[South-America]]"
@@ -127,12 +128,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: French Guiana ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: French Guiana ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -196,8 +197,8 @@ geojsonFolder: ./French_Guiana/
 markerFolder: ./French_Guiana/
 ```
 
-[name-en::French Guiana]
-name-de = `=this.dv_name-de`
+[has_name_en::French Guiana]
+has_name_de = `=this.dv_has_name_de`
 
 
 ![[French_Guiana/Flag_of_French_Guiana.svg|350]]

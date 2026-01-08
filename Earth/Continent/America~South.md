@@ -146,8 +146,8 @@ dv_is_:
     - "[[/_private/Earth/Continent/America~South.private|America~South.private]]"
     - "[[/_personal/Earth/Continent/America~South.personal|America~South.personal]]"
     - "[[/_secret/Earth/Continent/America~South.secret|America~South.secret]]"
-dv_name-en: South America
-dv_name-de: Südamerika
+dv_has_name_en: South America
+dv_has_name_de: Südamerika
 dv_#has_:
   code: SA
 dv_is_same_as:
@@ -182,8 +182,8 @@ markerFile: [[America~South]]
 zoomFeatures: true 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 has_code = `=this.dv_has_code`
 
 

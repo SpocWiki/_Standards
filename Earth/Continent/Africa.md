@@ -9,8 +9,8 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa.private|Africa.private]]"
     - "[[/_personal/Earth/Continent/Africa.personal|Africa.personal]]"
     - "[[/_secret/Earth/Continent/Africa.secret|Africa.secret]]"
-dv_name-en: Africa
-dv_name-de: Afrika
+dv_has_name_en: Africa
+dv_has_name_de: Afrika
 dv_#has_:
   code: AF
 dv_is_same_as:
@@ -247,8 +247,8 @@ lat: -1
 long: 10
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 has_code = `=this.dv_has_code`
 
 

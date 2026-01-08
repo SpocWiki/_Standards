@@ -4,8 +4,8 @@ aliases:
 tags:
   - geo/Country
 type: Country
-dv_name-en: Channel Islands
-dv_name-de: Kanalinseln
+dv_has_name_en: Channel Islands
+dv_has_name_de: Kanalinseln
 dv_has_place_continent: "[[../../Europe]]"
 dv_is_:
   same_as:
@@ -46,8 +46,8 @@ coordinates: [[Channel-Islands]]
 markerFile: [[Channel-Islands]] 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

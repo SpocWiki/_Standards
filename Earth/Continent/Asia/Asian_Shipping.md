@@ -8,8 +8,8 @@ SpocWebEntityId: 72745
 tags:
   - geo/Country
 type: Country
-dv_name-en: Asian Shipping
-dv_name-de: Asien Schiffahrt
+dv_has_name_en: Asian Shipping
+dv_has_name_de: Asien Schiffahrt
 dv_has_place_continent: "[[../Asia]]"
 dv_is_:
   same_as:
@@ -41,8 +41,8 @@ geojsonFolder: ./Asian_Shipping/
 markerFolder: ./Asian_Shipping/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

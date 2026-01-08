@@ -1,12 +1,12 @@
 ---
 dv_name: Italy
-dv_name-en: Italy
-dv_name-es: Italia
-dv_name-fr: Italie
-dv_name-cn: 意大利
-dv_name-ar: إيطاليا
-dv_name-ru: Италия
-dv_name-de: Italien
+dv_has_name_en: Italy
+dv_has_name_es: Italia
+dv_has_name_fr: Italie
+dv_has_name_cn: 意大利
+dv_has_name_ar: إيطاليا
+dv_has_name_ru: Италия
+dv_has_name_de: Italien
 dv_ISO2: IT
 dv_ISO3: ITA
 dv_is_:
@@ -20,6 +20,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~South/Italy.personal|Italy.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Italy.secret|Italy.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-France
   image_for_:
@@ -661,13 +662,13 @@ population: 58850717
 
 #has_/name_ = 
 name = `=this.dv_name`
-name-en = `=this.dv_name-en`
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+has_name_de = `=this.dv_has_name_de`
 
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3` 

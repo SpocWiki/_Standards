@@ -10,8 +10,8 @@ SpocWebEntityId: 76709
 tags:
   - geo/Country
 type: Country
-dv_name-en: Tanganyika
-dv_name-de: Tanganjika
+dv_has_name_en: Tanganyika
+dv_has_name_de: Tanganjika
 dv_has_place_continent: "[[../../Africa]]"
 dv_Language-Id: 499
 dv_is_a_: "[[../../../Geography/Place]]"
@@ -50,8 +50,8 @@ geojsonFolder: ./Tanganyika//
 markerFolder: ./Tanganyika//
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Afghanistan
 dv_ISO4217-currency_alphabetic: AFN
@@ -11,14 +12,12 @@ dv_Telephone: 93
 dv_Global: true
 dv_Global_Name: World
 dv_name: Afghanistan
-dv_name-en:
-  - Afghanistan
-  - Afghanistan
-dv_name-es: Afganistán
-dv_name-fr: Afghanistan
-dv_name-cn: 阿富汗
-dv_name-ar: أفغانستان
-dv_name-ru: Афганистан
+dv_has_name_en: Afghanistan
+dv_has_name_es: Afganistán
+dv_has_name_fr: Afghanistan
+dv_has_name_cn: 阿富汗
+dv_has_name_ar: أفغانستان
+dv_has_name_ru: Афганистан
 dv_CLDR_display_name: Afghanistan
 dv_UNTERM_English: Afghanistan
 dv_UNTERM_English_Formal: the Islamic Republic of Afghanistan
@@ -67,7 +66,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan.private|Afghanistan.private]]"
     - "[[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan.personal|Afghanistan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan.secret|Afghanistan.secret]]"
-dv_name-de: Afghanistan
+dv_has_name_de: Afghanistan
 dv_Area-Total: 652225
 dv_Area-Land: 652090
 dv_has_place_continent: "[[../../Asia]]"
@@ -570,12 +569,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Afghanistan ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Afghanistan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -646,8 +645,8 @@ markerFile: [[Afghanistan]]
 defaultZoom: 5 
 ```
 
-[name-en::Afghanistan]
-name-de = `=this.dv_name-de`
+[has_name_en::Afghanistan]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

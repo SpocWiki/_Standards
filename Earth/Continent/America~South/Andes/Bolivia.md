@@ -402,14 +402,14 @@ dv_Telephone: 591
 dv_Global: true
 dv_Global_Name: World
 dv_name: Bolivia
-dv_name-en:
+dv_has_name_en:
   - Bolivia (Plurinational State of)
   - Bolivia
-dv_name-es: Bolivia (Estado Plurinacional de)
-dv_name-fr: Bolivie (État plurinational de)
-dv_name-cn: 玻利维亚(多民族国)
-dv_name-ar: بوليفيا (دولة - المتعددة القوميات)
-dv_name-ru: Боливия (Многонациональное Государство)
+dv_has_name_es: Bolivia (Estado Plurinacional de)
+dv_has_name_fr: Bolivie (État plurinational de)
+dv_has_name_cn: 玻利维亚(多民族国)
+dv_has_name_ar: بوليفيا (دولة - المتعددة القوميات)
+dv_has_name_ru: Боливия (Многонациональное Государство)
 dv_CLDR_display_name: Bolivia
 dv_UNTERM_English: Bolivia (Plurinational State of)
 dv_UNTERM_English_Formal: the Plurinational State of Bolivia
@@ -458,9 +458,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~South/Andes/Bolivia.personal|Bolivia.personal]]"
     - "[[/_secret/Earth/Continent/America~South/Andes/Bolivia.secret|Bolivia.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Bolivia
-dv_name-de: Bolivien
+dv_has_name_de: Bolivien
 dv_Area-Total: 1098581
 dv_Area-Land: 1084380
 dv_has_place_continent: "[[South-America]]"
@@ -496,12 +497,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Bolivia (Plurinational State of) ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Bolivia (Plurinational State of) ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -572,8 +573,8 @@ zoomFeatures: true
 defaultZoom: 7 
 ```
 
-[name-en::Bolivia]
-name-de = `=this.dv_name-de`
+[has_name_en::Bolivia]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

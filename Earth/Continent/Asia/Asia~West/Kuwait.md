@@ -8,14 +8,12 @@ dv_Telephone: 965
 dv_Global: true
 dv_Global_Name: World
 dv_name: Kuwait
-dv_name-en:
-  - Kuwait
-  - Kuwait
-dv_name-es: Kuwait
-dv_name-fr: Koweït
-dv_name-cn: 科威特
-dv_name-ar: الكويت
-dv_name-ru: Кувейт
+dv_has_name_en: Kuwait
+dv_has_name_es: Kuwait
+dv_has_name_fr: Koweït
+dv_has_name_cn: 科威特
+dv_has_name_ar: الكويت
+dv_has_name_ru: Кувейт
 dv_CLDR_display_name: Kuwait
 dv_UNTERM_English: Kuwait
 dv_UNTERM_English_Formal: the State of Kuwait
@@ -63,9 +61,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal|Kuwait.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret|Kuwait.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Kuwait
-dv_name-de: Kuwait
+dv_has_name_de: Kuwait
 dv_Area-Total: 17818
 dv_Area-Land: 17820
 dv_has_place_continent: "[[../../Asia]]"
@@ -393,12 +392,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Kuwait ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Kuwait ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -468,8 +467,8 @@ markerFile: [[Kuwait]]
 defaultZoom: 7 
 ```
 
-[name-en::Kuwait]
-name-de = `=this.dv_name-de`
+[has_name_en::Kuwait]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -12,12 +12,13 @@ tags:
   - geo/Country
 type: Country
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Reunion
 dv_ISO2: RE
 dv_ISO3: REU
-dv_name-en: Reunion
-dv_name-de: Réunion
+dv_has_name_en: Reunion
+dv_has_name_de: Réunion
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../../Africa]]"
@@ -63,8 +64,8 @@ geojsonFolder: ./Reunion/
 markerFolder: ./Reunion/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

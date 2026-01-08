@@ -352,14 +352,12 @@ dv_Telephone: 263
 dv_Global: true
 dv_Global_Name: World
 dv_name: Zimbabwe
-dv_name-en:
-  - Zimbabwe
-  - Zimbabwe
-dv_name-es: Zimbabwe
-dv_name-fr: Zimbabwe
-dv_name-cn: 津巴布韦
-dv_name-ar: زمبابوي
-dv_name-ru: Зимбабве
+dv_has_name_en: Zimbabwe
+dv_has_name_es: Zimbabwe
+dv_has_name_fr: Zimbabwe
+dv_has_name_cn: 津巴布韦
+dv_has_name_ar: زمبابوي
+dv_has_name_ru: Зимбабве
 dv_CLDR_display_name: Zimbabwe
 dv_UNTERM_English: Zimbabwe
 dv_UNTERM_English_Formal: the Republic of Zimbabwe
@@ -409,9 +407,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe.personal|Zimbabwe.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe.secret|Zimbabwe.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Zimbabwe
-dv_name-de: Zimbabwe
+dv_has_name_de: Zimbabwe
 dv_Area-Total: 390757
 dv_Area-Land: 386850
 dv_has_place_continent: "[[../../Africa]]"
@@ -448,12 +447,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Zimbabwe ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Zimbabwe ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -520,8 +519,8 @@ geojsonFolder: ./Zimbabwe//
 markerFolder: ./Zimbabwe//
 ```
 
-[name-en::Zimbabwe]
-name-de = `=this.dv_name-de`
+[has_name_en::Zimbabwe]
+has_name_de = `=this.dv_has_name_de`
 
 ![[Coat_of_arms_of_Zimbabwe.svg|550]]
 

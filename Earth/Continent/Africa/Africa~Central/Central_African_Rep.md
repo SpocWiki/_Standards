@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Central_African_Rep
 dv_is_:
@@ -14,8 +15,8 @@ dv_is_:
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep.secret|Central_African_Rep.secret]]"
 dv_ISO2: CF
 dv_ISO3: CAF
-dv_name-en: Central African Rep.
-dv_name-de: Zentralafrikanische Republik
+dv_has_name_en: Central African Rep.
+dv_has_name_de: Zentralafrikanische Republik
 dv_Area-Total: 622984
 dv_Area-Land: 622980
 dv_has_place_continent: "[[../../Africa]]"
@@ -461,8 +462,8 @@ markerFile: [[Central_African_Rep]]
 defaultZoom: 5 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

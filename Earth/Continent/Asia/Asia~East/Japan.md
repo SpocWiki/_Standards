@@ -14,14 +14,12 @@ dv_has_:
 dv_Global: true
 dv_Global_Name: World
 dv_name: Japan
-dv_name-en:
-  - Japan
-  - Japan
-dv_name-es: Japón
-dv_name-fr: Japon
-dv_name-cn: 日本
-dv_name-ar: اليابان
-dv_name-ru: Япония
+dv_has_name_en: Japan
+dv_has_name_es: Japón
+dv_has_name_fr: Japon
+dv_has_name_cn: 日本
+dv_has_name_ar: اليابان
+dv_has_name_ru: Япония
 dv_CLDR_display_name: Japan
 dv_UNTERM_English: Japan
 dv_UNTERM_English_Formal: Japan
@@ -58,7 +56,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 392
 dv_ISO2: JP
 dv_ISO3: JPN
-dv_name-de: Japan
+dv_has_name_de: Japan
 dv_Area-Total: 377750
 dv_Area-Land: 376520
 dv_has_place_continent: "[[../../Asia]]"
@@ -706,12 +704,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Japan ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Japan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -760,8 +758,8 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-[name-en::Japan]
-name-de = `=this.dv_name-de` 
+[has_name_en::Japan]
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

@@ -28,8 +28,8 @@ dv_is_:
     - "[[/_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret|Yugoslavia.secret]]"
 dv_ISO2: YU
 dv_ISO3: YUG
-dv_name-en: Yugoslavia
-dv_name-de: Jugoslawien
+dv_has_name_en: Yugoslavia
+dv_has_name_de: Jugoslawien
 dv_Area-Total: 102173
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Europe]]"
@@ -98,8 +98,8 @@ geojsonFolder: ./Serbia//
 markerFolder: ./Serbia//
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

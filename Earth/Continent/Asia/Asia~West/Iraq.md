@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Iraq
 dv_ISO4217-currency_alphabetic: IQD
@@ -11,14 +12,12 @@ dv_Telephone: 964
 dv_Global: true
 dv_Global_Name: World
 dv_name: Iraq
-dv_name-en:
-  - Iraq
-  - Iraq
-dv_name-es: Iraq
-dv_name-fr: Iraq
-dv_name-cn: 伊拉克
-dv_name-ar: العراق
-dv_name-ru: Ирак
+dv_has_name_en: Iraq
+dv_has_name_es: Iraq
+dv_has_name_fr: Iraq
+dv_has_name_cn: 伊拉克
+dv_has_name_ar: العراق
+dv_has_name_ru: Ирак
 dv_CLDR_display_name: Iraq
 dv_UNTERM_English: Iraq
 dv_UNTERM_English_Formal: the Republic of Iraq
@@ -65,7 +64,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Asia/Asia~West/Iraq.private|Iraq.private]]"
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Iraq.personal|Iraq.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Iraq.secret|Iraq.secret]]"
-dv_name-de: Irak
+dv_has_name_de: Irak
 dv_Area-Total: 438317
 dv_Area-Land: 437370
 dv_has_place_continent: "[[../../Asia]]"
@@ -488,12 +487,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Iraq ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Iraq ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -563,8 +562,8 @@ markerFile: [[Iraq]]
 defaultZoom: 5 
 ```
 
-[name-en::Iraq]
-name-de = `=this.dv_name-de`
+[has_name_en::Iraq]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

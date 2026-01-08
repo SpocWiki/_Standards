@@ -8,14 +8,12 @@ dv_Telephone: 992
 dv_Global: true
 dv_Global_Name: World
 dv_name: Tajikistan
-dv_name-en:
-  - Tajikistan
-  - Tajikistan
-dv_name-es: Tayikistán
-dv_name-fr: Tadjikistan
-dv_name-cn: 塔吉克斯坦
-dv_name-ar: طاجيكستان
-dv_name-ru: Таджикистан
+dv_has_name_en: Tajikistan
+dv_has_name_es: Tayikistán
+dv_has_name_fr: Tadjikistan
+dv_has_name_cn: 塔吉克斯坦
+dv_has_name_ar: طاجيكستان
+dv_has_name_ru: Таджикистан
 dv_CLDR_display_name: Tajikistan
 dv_UNTERM_English: Tajikistan
 dv_UNTERM_English_Formal: the Republic of Tajikistan
@@ -64,9 +62,10 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~Central/Tajikistan.personal|Tajikistan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~Central/Tajikistan.secret|Tajikistan.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Tajikistan
-dv_name-de: Tadschikistan
+dv_has_name_de: Tadschikistan
 dv_Area-Total: 143100
 dv_Area-Land: 140600
 dv_has_place_continent: "[[../../Asia]]"
@@ -429,12 +428,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Tajikistan ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Tajikistan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -505,8 +504,8 @@ markerFile: [[Tajikistan]]
 defaultZoom: 5 
 ```
 
-[name-en::Tajikistan]
-name-de = `=this.dv_name-de`
+[has_name_en::Tajikistan]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

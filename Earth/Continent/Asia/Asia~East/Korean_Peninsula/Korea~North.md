@@ -13,10 +13,11 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.personal|Korea~North.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.secret|Korea~North.secret]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Korea~North
-dv_name-en: Korea, Dem. Rep.
-dv_name-de: Nordkorea
+dv_has_name_en: Korea, Dem. Rep.
+dv_has_name_de: Nordkorea
 dv_Area-Total: 120538
 dv_Area-Land: 120410
 dv_has_place_continent: "[[../../../Asia]]"
@@ -587,8 +588,8 @@ markerFile: [[Korea~North]]
 defaultZoom: 5 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

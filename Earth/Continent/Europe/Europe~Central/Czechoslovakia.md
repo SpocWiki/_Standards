@@ -17,8 +17,8 @@ dv_#has_:
   time_:
     destroyed: 1993-01-01T00:00:00.000+01:00
 dv_ISO2: CZ
-dv_name-en: Czechoslovakia
-dv_name-de: Tschechoslovakei
+dv_has_name_en: Czechoslovakia
+dv_has_name_de: Tschechoslovakei
 dv_has_place_continent: "[[../../Europe]]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]"
@@ -249,8 +249,8 @@ markerFile: [[Czechoslovakia]]
 defaultZoom: 5 
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

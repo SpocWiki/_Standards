@@ -316,14 +316,14 @@ dv_Telephone: 506
 dv_Global: true
 dv_Global_Name: World
 dv_name: Costa Rica
-dv_name-en:
+dv_has_name_en:
   - Costa Rica
   - Costa Rica
-dv_name-es: Costa Rica
-dv_name-fr: Costa Rica
-dv_name-cn: 哥斯达黎加
-dv_name-ar: كوستاريكا
-dv_name-ru: Коста-Рика
+dv_has_name_es: Costa Rica
+dv_has_name_fr: Costa Rica
+dv_has_name_cn: 哥斯达黎加
+dv_has_name_ar: كوستاريكا
+dv_has_name_ru: Коста-Рика
 dv_CLDR_display_name: Costa Rica
 dv_UNTERM_English: Costa Rica
 dv_UNTERM_English_Formal: the Republic of Costa Rica
@@ -373,9 +373,10 @@ dv_is_:
     - "[[/_secret/Earth/Continent/America~Central/Costa_Rica.secret|Costa_Rica.secret]]"
   different_from: "[[../America~Caribbean/Greater_Antilles/Puerto_Rico|Puerto_Rico]]"
 dv_has_:
+  name:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Costa_Rica
-dv_name-de: Costa Rica
+dv_has_name_de: Costa Rica
 dv_Area-Total: 51100
 dv_Area-Land: 51060
 dv_has_place_continent: "[[South-America]]"
@@ -412,12 +413,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Costa Rica ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Costa Rica ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -485,8 +486,8 @@ geojsonFolder: ./Costa_Rica//
 markerFolder: ./Costa_Rica/
 ```
 
-[name-en::Costa Rica]
-name-de = `=this.dv_name-de`
+[has_name_en::Costa Rica]
+has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`

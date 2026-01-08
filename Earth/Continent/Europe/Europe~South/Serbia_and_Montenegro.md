@@ -11,8 +11,8 @@ SpocWebEntityId: 72747
 tags:
   - geo/Country
 type: Country
-dv_name-en: Serbia and Montenegro
-dv_name-de: Serbien-Montenegro
+dv_has_name_en: Serbia and Montenegro
+dv_has_name_de: Serbien-Montenegro
 dv_has_place_continent: "[[../../Europe]]"
 dv_is_a_: "[[../../../Geography/Place]]"
 dv_has_place_longitude: 20.4667
@@ -47,8 +47,8 @@ geojsonFolder: ./Serbia_and_Montenegro/
 markerFolder: ./Serbia_and_Montenegro/
 ```
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`
