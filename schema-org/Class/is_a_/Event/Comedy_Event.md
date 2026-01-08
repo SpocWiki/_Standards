@@ -41,17 +41,17 @@ Event type: Comedy event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Comedy_Event|Comedy_Event]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Comedy_Event|Comedy_Event]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Comedy_Event.public|Comedy_Event.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Comedy_Event.public|Comedy_Event.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Comedy_Event.internal|Comedy_Event.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Comedy_Event.internal|Comedy_Event.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Comedy_Event.protect|Comedy_Event.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Comedy_Event.protect|Comedy_Event.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Comedy_Event.private|Comedy_Event.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Comedy_Event.private|Comedy_Event.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Comedy_Event.personal|Comedy_Event.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Comedy_Event.personal|Comedy_Event.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Comedy_Event.secret|Comedy_Event.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Comedy_Event.secret|Comedy_Event.secret]] 
 

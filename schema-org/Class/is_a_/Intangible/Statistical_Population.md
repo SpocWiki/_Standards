@@ -58,17 +58,17 @@ population, and does not imply that the population consists of people. For examp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Statistical_Population|Statistical_Population]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Statistical_Population|Statistical_Population]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Statistical_Population.public|Statistical_Population.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Statistical_Population.public|Statistical_Population.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Statistical_Population.internal|Statistical_Population.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Statistical_Population.internal|Statistical_Population.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Statistical_Population.protect|Statistical_Population.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Statistical_Population.protect|Statistical_Population.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Statistical_Population.private|Statistical_Population.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Statistical_Population.private|Statistical_Population.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Statistical_Population.personal|Statistical_Population.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Statistical_Population.personal|Statistical_Population.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Statistical_Population.secret|Statistical_Population.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Statistical_Population.secret|Statistical_Population.secret]] 
 

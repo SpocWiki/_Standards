@@ -41,17 +41,17 @@ Event type: Social event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Social_Event|Social_Event]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Social_Event|Social_Event]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Social_Event.public|Social_Event.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Social_Event.public|Social_Event.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Social_Event.internal|Social_Event.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Social_Event.internal|Social_Event.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Social_Event.protect|Social_Event.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Social_Event.protect|Social_Event.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Social_Event.private|Social_Event.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Social_Event.private|Social_Event.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Social_Event.personal|Social_Event.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Social_Event.personal|Social_Event.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Social_Event.secret|Social_Event.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Social_Event.secret|Social_Event.secret]] 
 

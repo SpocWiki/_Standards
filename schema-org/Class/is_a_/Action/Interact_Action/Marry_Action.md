@@ -41,17 +41,17 @@ The act of marrying a person.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Marry_Action|Marry_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Interact_Action/Marry_Action|Marry_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Interact_Action/Marry_Action.public|Marry_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Interact_Action/Marry_Action.public|Marry_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Marry_Action.internal|Marry_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Interact_Action/Marry_Action.internal|Marry_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Marry_Action.protect|Marry_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Interact_Action/Marry_Action.protect|Marry_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Interact_Action/Marry_Action.private|Marry_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Interact_Action/Marry_Action.private|Marry_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Marry_Action.personal|Marry_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Interact_Action/Marry_Action.personal|Marry_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Marry_Action.secret|Marry_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Interact_Action/Marry_Action.secret|Marry_Action.secret]] 
 

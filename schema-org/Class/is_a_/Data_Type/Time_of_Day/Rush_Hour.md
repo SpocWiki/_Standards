@@ -38,17 +38,17 @@ Commons_category: Rush hour
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour|Rush_Hour]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Time_of_Day/Rush_Hour|Rush_Hour]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.public|Rush_Hour.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Time_of_Day/Rush_Hour.public|Rush_Hour.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.internal|Rush_Hour.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Time_of_Day/Rush_Hour.internal|Rush_Hour.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.protect|Rush_Hour.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Time_of_Day/Rush_Hour.protect|Rush_Hour.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.private|Rush_Hour.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Time_of_Day/Rush_Hour.private|Rush_Hour.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.personal|Rush_Hour.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Time_of_Day/Rush_Hour.personal|Rush_Hour.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.secret|Rush_Hour.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Time_of_Day/Rush_Hour.secret|Rush_Hour.secret]] 
 

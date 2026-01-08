@@ -43,17 +43,17 @@ The action that takes in a math expression and directs users to a page potential
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Solve_Math_Action|Solve_Math_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Solve_Math_Action|Solve_Math_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Solve_Math_Action.public|Solve_Math_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Solve_Math_Action.public|Solve_Math_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Solve_Math_Action.internal|Solve_Math_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Solve_Math_Action.internal|Solve_Math_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Solve_Math_Action.protect|Solve_Math_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Solve_Math_Action.protect|Solve_Math_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Solve_Math_Action.private|Solve_Math_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Solve_Math_Action.private|Solve_Math_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Solve_Math_Action.personal|Solve_Math_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Solve_Math_Action.personal|Solve_Math_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Solve_Math_Action.secret|Solve_Math_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Solve_Math_Action.secret|Solve_Math_Action.secret]] 
 

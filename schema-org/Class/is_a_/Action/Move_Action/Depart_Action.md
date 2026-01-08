@@ -41,17 +41,17 @@ The act of  departing from a place. An agent departs from a fromLocation for a d
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Move_Action/Depart_Action|Depart_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Move_Action/Depart_Action|Depart_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Move_Action/Depart_Action.public|Depart_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Move_Action/Depart_Action.public|Depart_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Move_Action/Depart_Action.internal|Depart_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Move_Action/Depart_Action.internal|Depart_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Move_Action/Depart_Action.protect|Depart_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Move_Action/Depart_Action.protect|Depart_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Move_Action/Depart_Action.private|Depart_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Move_Action/Depart_Action.private|Depart_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Move_Action/Depart_Action.personal|Depart_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Move_Action/Depart_Action.personal|Depart_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Move_Action/Depart_Action.secret|Depart_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Move_Action/Depart_Action.secret|Depart_Action.secret]] 
 

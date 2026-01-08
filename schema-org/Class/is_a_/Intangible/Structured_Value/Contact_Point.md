@@ -43,17 +43,17 @@ A contact point—for example, a Customer Complaints department.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Structured_Value/Contact_Point|Contact_Point]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.public|Contact_Point.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Structured_Value/Contact_Point.public|Contact_Point.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.internal|Contact_Point.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Structured_Value/Contact_Point.internal|Contact_Point.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.protect|Contact_Point.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Structured_Value/Contact_Point.protect|Contact_Point.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.private|Contact_Point.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Structured_Value/Contact_Point.private|Contact_Point.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.personal|Contact_Point.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Structured_Value/Contact_Point.personal|Contact_Point.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.secret|Contact_Point.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Structured_Value/Contact_Point.secret|Contact_Point.secret]] 
 

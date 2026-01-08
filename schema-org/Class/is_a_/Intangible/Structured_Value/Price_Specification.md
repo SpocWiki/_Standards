@@ -43,17 +43,17 @@ A structured value representing a price or price range. Typically, only the subc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification|Price_Specification]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.public|Price_Specification.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification.public|Price_Specification.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.internal|Price_Specification.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification.internal|Price_Specification.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.protect|Price_Specification.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification.protect|Price_Specification.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.private|Price_Specification.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification.private|Price_Specification.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.personal|Price_Specification.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification.personal|Price_Specification.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.secret|Price_Specification.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Structured_Value/Price_Specification.secret|Price_Specification.secret]] 
 

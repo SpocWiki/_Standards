@@ -41,17 +41,17 @@ An instance of a [[../../../../Society/Communication/Media/Creative_Work/Course]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Course_Instance|Course_Instance]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Course_Instance|Course_Instance]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Course_Instance.public|Course_Instance.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Course_Instance.public|Course_Instance.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Course_Instance.internal|Course_Instance.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Course_Instance.internal|Course_Instance.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Course_Instance.protect|Course_Instance.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Course_Instance.protect|Course_Instance.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Course_Instance.private|Course_Instance.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Course_Instance.private|Course_Instance.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Course_Instance.personal|Course_Instance.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Course_Instance.personal|Course_Instance.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Course_Instance.secret|Course_Instance.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Course_Instance.secret|Course_Instance.secret]] 
 

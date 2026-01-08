@@ -39,17 +39,17 @@ Used to describe a ticket to an event, a flight, a bus ride, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Ticket|Ticket]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Ticket|Ticket]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Ticket.public|Ticket.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Ticket.public|Ticket.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Ticket.internal|Ticket.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Ticket.internal|Ticket.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Ticket.protect|Ticket.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Ticket.protect|Ticket.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Ticket.private|Ticket.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Ticket.private|Ticket.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Ticket.personal|Ticket.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Ticket.personal|Ticket.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Ticket.secret|Ticket.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Ticket.secret|Ticket.secret]] 
 

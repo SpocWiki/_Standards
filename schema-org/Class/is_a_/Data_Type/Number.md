@@ -122,17 +122,17 @@ Usage guidelines:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Number|Number]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Number|Number]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Number.public|Number.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Number.public|Number.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Number.internal|Number.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Number.internal|Number.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Number.protect|Number.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Number.protect|Number.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Number.private|Number.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Number.private|Number.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Number.personal|Number.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Number.personal|Number.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Number.secret|Number.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Number.secret|Number.secret]] 
 

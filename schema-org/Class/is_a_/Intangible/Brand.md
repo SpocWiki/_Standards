@@ -39,17 +39,17 @@ A brand is a name used by an organization or business person for labeling a prod
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Brand|Brand]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Brand|Brand]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Brand.public|Brand.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Brand.public|Brand.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Brand.internal|Brand.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Brand.internal|Brand.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Brand.protect|Brand.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Brand.protect|Brand.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Brand.private|Brand.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Brand.private|Brand.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Brand.personal|Brand.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Brand.personal|Brand.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Brand.secret|Brand.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Brand.secret|Brand.secret]] 
 

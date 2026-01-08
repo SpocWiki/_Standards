@@ -41,17 +41,17 @@ An event involving the delivery of an item.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Delivery_Event|Delivery_Event]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Delivery_Event|Delivery_Event]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Delivery_Event.public|Delivery_Event.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Delivery_Event.public|Delivery_Event.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Delivery_Event.internal|Delivery_Event.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Delivery_Event.internal|Delivery_Event.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Delivery_Event.protect|Delivery_Event.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Delivery_Event.protect|Delivery_Event.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Delivery_Event.private|Delivery_Event.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Delivery_Event.private|Delivery_Event.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Delivery_Event.personal|Delivery_Event.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Delivery_Event.personal|Delivery_Event.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Delivery_Event.secret|Delivery_Event.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Delivery_Event.secret|Delivery_Event.secret]] 
 

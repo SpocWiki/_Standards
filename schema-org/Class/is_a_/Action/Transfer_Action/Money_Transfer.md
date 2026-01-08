@@ -43,17 +43,17 @@ The act of transferring money from one place to another place. This may occur el
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer|Money_Transfer]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Transfer_Action/Money_Transfer|Money_Transfer]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.public|Money_Transfer.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Transfer_Action/Money_Transfer.public|Money_Transfer.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.internal|Money_Transfer.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Transfer_Action/Money_Transfer.internal|Money_Transfer.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.protect|Money_Transfer.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Transfer_Action/Money_Transfer.protect|Money_Transfer.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.private|Money_Transfer.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Transfer_Action/Money_Transfer.private|Money_Transfer.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.personal|Money_Transfer.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Transfer_Action/Money_Transfer.personal|Money_Transfer.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.secret|Money_Transfer.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Transfer_Action/Money_Transfer.secret|Money_Transfer.secret]] 
 

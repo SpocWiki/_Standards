@@ -41,17 +41,17 @@ A single item within a larger data feed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Data_Feed_Item|Data_Feed_Item]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Data_Feed_Item|Data_Feed_Item]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Data_Feed_Item.public|Data_Feed_Item.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Data_Feed_Item.public|Data_Feed_Item.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Data_Feed_Item.internal|Data_Feed_Item.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Data_Feed_Item.internal|Data_Feed_Item.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Data_Feed_Item.protect|Data_Feed_Item.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Data_Feed_Item.protect|Data_Feed_Item.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Data_Feed_Item.private|Data_Feed_Item.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Data_Feed_Item.private|Data_Feed_Item.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Data_Feed_Item.personal|Data_Feed_Item.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Data_Feed_Item.personal|Data_Feed_Item.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Data_Feed_Item.secret|Data_Feed_Item.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Data_Feed_Item.secret|Data_Feed_Item.secret]] 
 

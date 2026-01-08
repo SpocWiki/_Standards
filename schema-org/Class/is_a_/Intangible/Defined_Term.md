@@ -75,17 +75,17 @@ Tag Term-Classes like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term|Defined_Term]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Defined_Term|Defined_Term]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Defined_Term.public|Defined_Term.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Defined_Term.public|Defined_Term.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term.internal|Defined_Term.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Defined_Term.internal|Defined_Term.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term.protect|Defined_Term.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Defined_Term.protect|Defined_Term.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Defined_Term.private|Defined_Term.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Defined_Term.private|Defined_Term.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term.personal|Defined_Term.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Defined_Term.personal|Defined_Term.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term.secret|Defined_Term.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Defined_Term.secret|Defined_Term.secret]] 
 

@@ -29,7 +29,7 @@ title: has_text_of_term_code
 type: Pred_Text
 ---
 
-Predicate to describe the Text of [[../../Class/is_a_/Intangible/defined_term|defined_Term]]. 
+Predicate to describe the Text of [[../../Class/is_a_/Intangible_/defined_term|defined_Term]]. 
 
 [ #is_/part_of :: pending: ]
 

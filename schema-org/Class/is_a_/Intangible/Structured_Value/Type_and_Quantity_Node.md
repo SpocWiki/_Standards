@@ -41,17 +41,17 @@ A structured value indicating the quantity, unit of measurement, and business fu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.public|Type_and_Quantity_Node.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Structured_Value/Type_and_Quantity_Node.public|Type_and_Quantity_Node.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.internal|Type_and_Quantity_Node.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Structured_Value/Type_and_Quantity_Node.internal|Type_and_Quantity_Node.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.protect|Type_and_Quantity_Node.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Structured_Value/Type_and_Quantity_Node.protect|Type_and_Quantity_Node.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.private|Type_and_Quantity_Node.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Structured_Value/Type_and_Quantity_Node.private|Type_and_Quantity_Node.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.personal|Type_and_Quantity_Node.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Structured_Value/Type_and_Quantity_Node.personal|Type_and_Quantity_Node.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.secret|Type_and_Quantity_Node.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Structured_Value/Type_and_Quantity_Node.secret|Type_and_Quantity_Node.secret]] 
 

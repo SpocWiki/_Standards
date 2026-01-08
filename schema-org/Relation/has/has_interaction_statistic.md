@@ -29,7 +29,7 @@ title: has_interaction_statistic
 type: Predi_Relation
 ---
 
-This is a List of [[../../Class/is_a_/Intangible/structured_value/interaction_counter|InteractionCounter]]s counting the number of interactions for this CreativeWork using a WebSite or SoftwareApplication. 
+This is a List of [[../../Class/is_a_/Intangible_/structured_value/interaction_counter|InteractionCounter]]s counting the number of interactions for this CreativeWork using a WebSite or SoftwareApplication. 
 
 Use a specific [[has_interaction_type|interactionType]] for each InteractionCounter.
 

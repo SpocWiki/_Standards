@@ -41,17 +41,17 @@ Information about the engine of the vehicle. A vehicle can have multiple engines
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification|Engine_Specification]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Structured_Value/Engine_Specification|Engine_Specification]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.public|Engine_Specification.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Structured_Value/Engine_Specification.public|Engine_Specification.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.internal|Engine_Specification.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Structured_Value/Engine_Specification.internal|Engine_Specification.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.protect|Engine_Specification.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Structured_Value/Engine_Specification.protect|Engine_Specification.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.private|Engine_Specification.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Structured_Value/Engine_Specification.private|Engine_Specification.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.personal|Engine_Specification.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Structured_Value/Engine_Specification.personal|Engine_Specification.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.secret|Engine_Specification.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Structured_Value/Engine_Specification.secret|Engine_Specification.secret]] 
 

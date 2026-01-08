@@ -44,17 +44,17 @@ Text representing a CSS selector.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type|Css_Selector_Type]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Text/Css_Selector_Type|Css_Selector_Type]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.public|Css_Selector_Type.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Text/Css_Selector_Type.public|Css_Selector_Type.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.internal|Css_Selector_Type.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Text/Css_Selector_Type.internal|Css_Selector_Type.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.protect|Css_Selector_Type.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Text/Css_Selector_Type.protect|Css_Selector_Type.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.private|Css_Selector_Type.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Text/Css_Selector_Type.private|Css_Selector_Type.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.personal|Css_Selector_Type.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Text/Css_Selector_Type.personal|Css_Selector_Type.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.secret|Css_Selector_Type.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Text/Css_Selector_Type.secret|Css_Selector_Type.secret]] 
 

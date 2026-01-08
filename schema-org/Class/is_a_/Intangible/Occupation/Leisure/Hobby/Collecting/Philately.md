@@ -50,17 +50,17 @@ Commons_category: Philately
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately|Philately]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting/Philately|Philately]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.public|Philately.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting/Philately.public|Philately.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.internal|Philately.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting/Philately.internal|Philately.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.protect|Philately.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting/Philately.protect|Philately.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.private|Philately.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting/Philately.private|Philately.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.personal|Philately.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting/Philately.personal|Philately.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.secret|Philately.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Occupation/Leisure/Hobby/Collecting/Philately.secret|Philately.secret]] 
 

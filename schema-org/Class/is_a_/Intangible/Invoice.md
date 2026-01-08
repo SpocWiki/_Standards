@@ -39,17 +39,17 @@ A statement of the money due for goods or services; a bill.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Invoice|Invoice]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Invoice|Invoice]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Invoice.public|Invoice.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Invoice.public|Invoice.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Invoice.internal|Invoice.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Invoice.internal|Invoice.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Invoice.protect|Invoice.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Invoice.protect|Invoice.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Invoice.private|Invoice.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Invoice.private|Invoice.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Invoice.personal|Invoice.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Invoice.personal|Invoice.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Invoice.secret|Invoice.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Invoice.secret|Invoice.secret]] 
 

@@ -58,17 +58,17 @@ short_name: UTC
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time)|UTC(Coordinated_Universal_Time)]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Time_of_Day/UTC(Coordinated_Universal_Time)|UTC(Coordinated_Universal_Time)]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).public|UTC(Coordinated_Universal_Time).public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Time_of_Day/UTC(Coordinated_Universal_Time).public|UTC(Coordinated_Universal_Time).public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).internal|UTC(Coordinated_Universal_Time).internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Time_of_Day/UTC(Coordinated_Universal_Time).internal|UTC(Coordinated_Universal_Time).internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).protect|UTC(Coordinated_Universal_Time).protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Time_of_Day/UTC(Coordinated_Universal_Time).protect|UTC(Coordinated_Universal_Time).protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).private|UTC(Coordinated_Universal_Time).private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Time_of_Day/UTC(Coordinated_Universal_Time).private|UTC(Coordinated_Universal_Time).private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).personal|UTC(Coordinated_Universal_Time).personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Time_of_Day/UTC(Coordinated_Universal_Time).personal|UTC(Coordinated_Universal_Time).personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).secret|UTC(Coordinated_Universal_Time).secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Time_of_Day/UTC(Coordinated_Universal_Time).secret|UTC(Coordinated_Universal_Time).secret]] 
 

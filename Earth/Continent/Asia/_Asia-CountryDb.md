@@ -442,8 +442,8 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   source_data: query_js
-  source_form_result: "#geo/Country & \"_/Continent/Asia\""
-  source_destination_path: _/Continent/Asia
+  source_form_result: "#geo/Country & \"_/Continent_/Asia\""
+  source_destination_path: _/Continent_/Asia
   row_templates_folder: _/Continent
   current_row_template: 
   pagination_size: 20

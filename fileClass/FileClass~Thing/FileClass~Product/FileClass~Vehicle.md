@@ -356,7 +356,7 @@ The permitted weight of passengers and cargo, EXCLUDING the weight of the empty 
 Typical unit code(s): KGM for kilogram, LBR for pound
 
 \* Note 1: Many databases specify the permitted TOTAL weight instead, which is the sum of [[../../../Dimension/Mass/Weight]] and [[payload]]
-\* Note 2: You can indicate additional information in the [[../../../schema-org/Property/has_name|Name]] of the [[../../../schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] node.
+\* Note 2: You can indicate additional information in the [[../../../schema-org/Property/has_name|Name]] of the [[../../../schema-org/Class/is_a_/Intangible_/Structured_Value/Quantitative_Value|QuantitativeValue]] node.
 \* Note 3: You may also link to a [[QualitativeValue]] node that provides additional information using [[valueReference]].
 \* Note 4: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.
 

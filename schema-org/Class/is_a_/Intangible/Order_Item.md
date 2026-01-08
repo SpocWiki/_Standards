@@ -41,17 +41,17 @@ An order item is a line of an order. It includes the quantity and shipping detai
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Order_Item|Order_Item]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Order_Item|Order_Item]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Order_Item.public|Order_Item.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Order_Item.public|Order_Item.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Order_Item.internal|Order_Item.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Order_Item.internal|Order_Item.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Order_Item.protect|Order_Item.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Order_Item.protect|Order_Item.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Order_Item.private|Order_Item.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Order_Item.private|Order_Item.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Order_Item.personal|Order_Item.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Order_Item.personal|Order_Item.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Order_Item.secret|Order_Item.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Order_Item.secret|Order_Item.secret]] 
 

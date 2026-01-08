@@ -66,17 +66,17 @@ Commons_category: Violence
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Aggression/Violence|Violence]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Aggression/Violence|Violence]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Aggression/Violence.public|Violence.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Aggression/Violence.public|Violence.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Aggression/Violence.internal|Violence.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Aggression/Violence.internal|Violence.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Aggression/Violence.protect|Violence.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Aggression/Violence.protect|Violence.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Aggression/Violence.private|Violence.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Aggression/Violence.private|Violence.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Aggression/Violence.personal|Violence.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Aggression/Violence.personal|Violence.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Aggression/Violence.secret|Violence.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Aggression/Violence.secret|Violence.secret]] 
 

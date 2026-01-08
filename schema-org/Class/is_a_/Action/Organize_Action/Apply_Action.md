@@ -47,17 +47,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Apply_Action|Apply_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Organize_Action/Apply_Action|Apply_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Organize_Action/Apply_Action.public|Apply_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Organize_Action/Apply_Action.public|Apply_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Apply_Action.internal|Apply_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Organize_Action/Apply_Action.internal|Apply_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Apply_Action.protect|Apply_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Organize_Action/Apply_Action.protect|Apply_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Organize_Action/Apply_Action.private|Apply_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Organize_Action/Apply_Action.private|Apply_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Apply_Action.personal|Apply_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Organize_Action/Apply_Action.personal|Apply_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Apply_Action.secret|Apply_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Organize_Action/Apply_Action.secret|Apply_Action.secret]] 
 

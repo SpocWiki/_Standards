@@ -55,17 +55,17 @@ it may also sometimes prove useful to describe a longer-term series as an Event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Event_Series|Event_Series]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Event_Series|Event_Series]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Event_Series.public|Event_Series.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Event_Series.public|Event_Series.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Event_Series.internal|Event_Series.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Event_Series.internal|Event_Series.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Event_Series.protect|Event_Series.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Event_Series.protect|Event_Series.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Event_Series.private|Event_Series.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Event_Series.private|Event_Series.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Event_Series.personal|Event_Series.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Event_Series.personal|Event_Series.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Event_Series.secret|Event_Series.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Event_Series.secret|Event_Series.secret]] 
 

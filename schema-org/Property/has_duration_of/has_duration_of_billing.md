@@ -26,7 +26,7 @@ title: has_duration_of_billing
 type: Predi_Duration
 ---
 
-Predicate to describe the Duration of [[../../Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification|unit_price_specification]].
+Predicate to describe the Duration of [[../../Class/is_a_/Intangible_/structured_value/price_specification/unit_price_specification|unit_price_specification]].
 Specifies for how long this price (or price component) will be billed. 
 Can be used, for example, to model the contractual duration of a subscription or payment plan. 
 Type can be either a Duration or a Number 

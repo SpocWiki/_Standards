@@ -5,7 +5,7 @@ aliases:
   - is using
 ---
 
-Different from [is_using_up](../../Class/is_a_/action/consume_action/use_action.md) this indicates a non-consuming application of an Entity/Tool for its intended Purpose. 
+Different from [is_using_up](../../Class/is_a_/action_/consume_action/use_action.md) this indicates a non-consuming application of an Entity/Tool for its intended Purpose. 
 
 Tag Instances like this: 
 #is_/using 

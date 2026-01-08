@@ -115,7 +115,7 @@ Agent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/O
 
 ### EndTime
 The end-Time of the Action. 
-For a reserved event or service (e.g. [[../../schema-org/Class/is_a_/Intangible/reservation/food_establishment_reservation|FoodEstablishmentReservation]]), the time that it is expected to end. 
+For a reserved event or service (e.g. [[../../schema-org/Class/is_a_/Intangible_/reservation/food_establishment_reservation|FoodEstablishmentReservation]]), the time that it is expected to end. 
 For actions that span a period of time, when the action was performed. 
 E.g. John wrote a book from January to \*December\*. 
 For media, including audio and video, it's the time offset of the end of a clip within a larger file.

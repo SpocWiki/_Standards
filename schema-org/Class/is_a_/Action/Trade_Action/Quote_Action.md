@@ -41,17 +41,17 @@ An agent quotes/estimates/appraises an object/product/service with a price at a 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Quote_Action|Quote_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Trade_Action/Quote_Action|Quote_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Trade_Action/Quote_Action.public|Quote_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Trade_Action/Quote_Action.public|Quote_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Quote_Action.internal|Quote_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Trade_Action/Quote_Action.internal|Quote_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Quote_Action.protect|Quote_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Trade_Action/Quote_Action.protect|Quote_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Trade_Action/Quote_Action.private|Quote_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Trade_Action/Quote_Action.private|Quote_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Quote_Action.personal|Quote_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Trade_Action/Quote_Action.personal|Quote_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Quote_Action.secret|Quote_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Trade_Action/Quote_Action.secret|Quote_Action.secret]] 
 

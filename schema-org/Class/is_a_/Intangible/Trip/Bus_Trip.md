@@ -41,17 +41,17 @@ A trip on a commercial bus line.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip|Bus_Trip]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Trip/Bus_Trip|Bus_Trip]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.public|Bus_Trip.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Trip/Bus_Trip.public|Bus_Trip.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.internal|Bus_Trip.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Trip/Bus_Trip.internal|Bus_Trip.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.protect|Bus_Trip.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Trip/Bus_Trip.protect|Bus_Trip.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.private|Bus_Trip.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Trip/Bus_Trip.private|Bus_Trip.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.personal|Bus_Trip.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Trip/Bus_Trip.personal|Bus_Trip.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.secret|Bus_Trip.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Trip/Bus_Trip.secret|Bus_Trip.secret]] 
 

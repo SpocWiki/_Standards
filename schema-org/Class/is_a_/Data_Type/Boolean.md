@@ -37,17 +37,17 @@ Boolean: True or False.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean|Boolean]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Boolean|Boolean]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Boolean.public|Boolean.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Boolean.public|Boolean.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Boolean.internal|Boolean.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Boolean.internal|Boolean.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Boolean.protect|Boolean.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Boolean.protect|Boolean.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Boolean.private|Boolean.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Boolean.private|Boolean.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Boolean.personal|Boolean.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Boolean.personal|Boolean.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Boolean.secret|Boolean.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Boolean.secret|Boolean.secret]] 
 

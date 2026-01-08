@@ -41,17 +41,17 @@ The act of asking someone to attend an event. Reciprocal of RsvpAction.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Invite_Action|Invite_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Invite_Action|Invite_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Invite_Action.public|Invite_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Invite_Action.public|Invite_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Invite_Action.internal|Invite_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Invite_Action.internal|Invite_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Invite_Action.protect|Invite_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Invite_Action.protect|Invite_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Invite_Action.private|Invite_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Invite_Action.private|Invite_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Invite_Action.personal|Invite_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Invite_Action.personal|Invite_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Invite_Action.secret|Invite_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Invite_Action.secret|Invite_Action.secret]] 
 

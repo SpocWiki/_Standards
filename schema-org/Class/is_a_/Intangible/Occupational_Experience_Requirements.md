@@ -43,17 +43,17 @@ Indicates employment-related experience requirements, e.g. [[monthsOfExperience]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements|Occupational_Experience_Requirements]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Occupational_Experience_Requirements|Occupational_Experience_Requirements]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.public|Occupational_Experience_Requirements.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Occupational_Experience_Requirements.public|Occupational_Experience_Requirements.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.internal|Occupational_Experience_Requirements.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Occupational_Experience_Requirements.internal|Occupational_Experience_Requirements.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.protect|Occupational_Experience_Requirements.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Occupational_Experience_Requirements.protect|Occupational_Experience_Requirements.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.private|Occupational_Experience_Requirements.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Occupational_Experience_Requirements.private|Occupational_Experience_Requirements.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.personal|Occupational_Experience_Requirements.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Occupational_Experience_Requirements.personal|Occupational_Experience_Requirements.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.secret|Occupational_Experience_Requirements.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Occupational_Experience_Requirements.secret|Occupational_Experience_Requirements.secret]] 
 

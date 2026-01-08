@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Plus_Ones|User_Plus_Ones]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/User_Interaction/User_Plus_Ones|User_Plus_Ones]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Plus_Ones.public|User_Plus_Ones.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/User_Interaction/User_Plus_Ones.public|User_Plus_Ones.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Plus_Ones.internal|User_Plus_Ones.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/User_Interaction/User_Plus_Ones.internal|User_Plus_Ones.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Plus_Ones.protect|User_Plus_Ones.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/User_Interaction/User_Plus_Ones.protect|User_Plus_Ones.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Plus_Ones.private|User_Plus_Ones.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/User_Interaction/User_Plus_Ones.private|User_Plus_Ones.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Plus_Ones.personal|User_Plus_Ones.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/User_Interaction/User_Plus_Ones.personal|User_Plus_Ones.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Plus_Ones.secret|User_Plus_Ones.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/User_Interaction/User_Plus_Ones.secret|User_Plus_Ones.secret]] 
 

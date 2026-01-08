@@ -28,7 +28,7 @@ Use it like this:
 - [ #has_/image :: ImageObject, URL ] or 
 - [ has_image :: ImageObject, URL ] 
 
-An image of the item. This can be a [[../../Class/is_a_/data_type/text/URL]] or a fully described [[ImageObject]].
+An image of the item. This can be a [[../../Class/is_a_/data_type_/text/URL]] or a fully described [[ImageObject]].
 
 Relation describes that: 
 [ #has_/domain  :: [Thing](../../../Class/Thing.md) ]

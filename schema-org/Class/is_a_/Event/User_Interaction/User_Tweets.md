@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets|User_Tweets]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/User_Interaction/User_Tweets|User_Tweets]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.public|User_Tweets.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/User_Interaction/User_Tweets.public|User_Tweets.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.internal|User_Tweets.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/User_Interaction/User_Tweets.internal|User_Tweets.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.protect|User_Tweets.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/User_Interaction/User_Tweets.protect|User_Tweets.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.private|User_Tweets.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/User_Interaction/User_Tweets.private|User_Tweets.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.personal|User_Tweets.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/User_Interaction/User_Tweets.personal|User_Tweets.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Tweets.secret|User_Tweets.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/User_Interaction/User_Tweets.secret|User_Tweets.secret]] 
 

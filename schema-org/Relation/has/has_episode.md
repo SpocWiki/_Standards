@@ -29,7 +29,7 @@ An episode of a TV, radio or game media within a series or season.
 
 Use it like this: 
 - [ #has_/episode :: [[../../../Society/Communication/Media/Creative_Work/Episode|Episode]] ] or 
-- [ has_episode :: [[../../Class/is_a_/creative_work/episode|Episode]] ] 
+- [ has_episode :: [[../../Class/is_a_/creative_work_/episode|Episode]] ] 
 
 [[../../Relation|Relation]] describes that: 
 [ #has_/domain  :: [ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ] ] 

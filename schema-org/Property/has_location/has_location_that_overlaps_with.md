@@ -29,7 +29,7 @@ title: has_location_that_overlaps_with
 type: Pred_geo
 ---
 
-Symmetric Relation of two overlapping [[../../Class/is_a_/Intangible/geospatial_geometry|GeospatialGeometries]] or [[../../../Earth/Geography/Place|places]].
+Symmetric Relation of two overlapping [[../../Class/is_a_/Intangible_/geospatial_geometry|GeospatialGeometries]] or [[../../../Earth/Geography/Place|places]].
 
 Use it like this: 
 - [ #has_/location_/overlap_with :: GeospatialGeometry, Place ] or 

@@ -43,17 +43,17 @@ A PublicationEvent corresponds indifferently to the event of publication for a C
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Publication_Event|Publication_Event]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Publication_Event|Publication_Event]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Publication_Event.public|Publication_Event.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Publication_Event.public|Publication_Event.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Publication_Event.internal|Publication_Event.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Publication_Event.internal|Publication_Event.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Publication_Event.protect|Publication_Event.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Publication_Event.protect|Publication_Event.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Publication_Event.private|Publication_Event.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Publication_Event.private|Publication_Event.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Publication_Event.personal|Publication_Event.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Publication_Event.personal|Publication_Event.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Publication_Event.secret|Publication_Event.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Publication_Event.secret|Publication_Event.secret]] 
 

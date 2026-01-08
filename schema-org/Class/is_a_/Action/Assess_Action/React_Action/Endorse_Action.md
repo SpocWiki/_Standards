@@ -41,17 +41,17 @@ An agent approves/certifies/likes/supports/sanctions an object.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Endorse_Action|Endorse_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Endorse_Action|Endorse_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Endorse_Action.public|Endorse_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Endorse_Action.public|Endorse_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Endorse_Action.internal|Endorse_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Endorse_Action.internal|Endorse_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Endorse_Action.protect|Endorse_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Endorse_Action.protect|Endorse_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Endorse_Action.private|Endorse_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Endorse_Action.private|Endorse_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Endorse_Action.personal|Endorse_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Endorse_Action.personal|Endorse_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Endorse_Action.secret|Endorse_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Assess_Action/React_Action/Endorse_Action.secret|Endorse_Action.secret]] 
 

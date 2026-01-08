@@ -58,17 +58,17 @@ NanoID
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Uuid|Uuid]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Text/Uuid|Uuid]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Text/Uuid.public|Uuid.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Text/Uuid.public|Uuid.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Text/Uuid.internal|Uuid.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Text/Uuid.internal|Uuid.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Text/Uuid.protect|Uuid.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Text/Uuid.protect|Uuid.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Text/Uuid.private|Uuid.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Text/Uuid.private|Uuid.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Text/Uuid.personal|Uuid.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Text/Uuid.personal|Uuid.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Text/Uuid.secret|Uuid.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Text/Uuid.secret|Uuid.secret]] 
 

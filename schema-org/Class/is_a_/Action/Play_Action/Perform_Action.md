@@ -41,17 +41,17 @@ The act of participating in performance arts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Play_Action/Perform_Action|Perform_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Play_Action/Perform_Action|Perform_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Play_Action/Perform_Action.public|Perform_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Play_Action/Perform_Action.public|Perform_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Play_Action/Perform_Action.internal|Perform_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Play_Action/Perform_Action.internal|Perform_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Play_Action/Perform_Action.protect|Perform_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Play_Action/Perform_Action.protect|Perform_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Play_Action/Perform_Action.private|Perform_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Play_Action/Perform_Action.private|Perform_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Play_Action/Perform_Action.personal|Perform_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Play_Action/Perform_Action.personal|Perform_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Play_Action/Perform_Action.secret|Perform_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Play_Action/Perform_Action.secret|Perform_Action.secret]] 
 

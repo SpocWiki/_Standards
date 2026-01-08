@@ -41,17 +41,17 @@ An agent bookmarks/flags/labels/tags/marks an object.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action|Bookmark_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Organize_Action/Bookmark_Action|Bookmark_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.public|Bookmark_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Organize_Action/Bookmark_Action.public|Bookmark_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.internal|Bookmark_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Organize_Action/Bookmark_Action.internal|Bookmark_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.protect|Bookmark_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Organize_Action/Bookmark_Action.protect|Bookmark_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.private|Bookmark_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Organize_Action/Bookmark_Action.private|Bookmark_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.personal|Bookmark_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Organize_Action/Bookmark_Action.personal|Bookmark_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.secret|Bookmark_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Organize_Action/Bookmark_Action.secret|Bookmark_Action.secret]] 
 

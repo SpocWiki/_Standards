@@ -43,17 +43,17 @@ This is the [[Action]] of navigating to a specific [[startOffset]] timestamp wit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Seek_to_Action|Seek_to_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Seek_to_Action|Seek_to_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Seek_to_Action.public|Seek_to_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Seek_to_Action.public|Seek_to_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Seek_to_Action.internal|Seek_to_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Seek_to_Action.internal|Seek_to_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Seek_to_Action.protect|Seek_to_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Seek_to_Action.protect|Seek_to_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Seek_to_Action.private|Seek_to_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Seek_to_Action.private|Seek_to_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Seek_to_Action.personal|Seek_to_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Seek_to_Action.personal|Seek_to_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Seek_to_Action.secret|Seek_to_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Seek_to_Action.secret|Seek_to_Action.secret]] 
 

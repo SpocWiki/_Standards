@@ -45,17 +45,17 @@ Data type: Text.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Text|Text]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Text|Text]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Text.public|Text.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Text.public|Text.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Text.internal|Text.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Text.internal|Text.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Text.protect|Text.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Text.protect|Text.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Text.private|Text.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Text.private|Text.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Text.personal|Text.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Text.personal|Text.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Text.secret|Text.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Text.secret|Text.secret]] 
 

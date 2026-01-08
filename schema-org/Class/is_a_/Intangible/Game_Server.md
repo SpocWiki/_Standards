@@ -41,17 +41,17 @@ Server that provides game interaction in a multiplayer game.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Game_Server|Game_Server]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Game_Server|Game_Server]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Game_Server.public|Game_Server.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Game_Server.public|Game_Server.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Game_Server.internal|Game_Server.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Game_Server.internal|Game_Server.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Game_Server.protect|Game_Server.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Game_Server.protect|Game_Server.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Game_Server.private|Game_Server.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Game_Server.private|Game_Server.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Game_Server.personal|Game_Server.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Game_Server.personal|Game_Server.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Game_Server.secret|Game_Server.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Game_Server.secret|Game_Server.secret]] 
 

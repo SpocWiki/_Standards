@@ -43,17 +43,17 @@ A description of costs to the patient under a given network or formulary.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification|Health_Plan_Cost_Sharing_Specification]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Health_Plan_Cost_Sharing_Specification|Health_Plan_Cost_Sharing_Specification]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.public|Health_Plan_Cost_Sharing_Specification.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Health_Plan_Cost_Sharing_Specification.public|Health_Plan_Cost_Sharing_Specification.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.internal|Health_Plan_Cost_Sharing_Specification.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Health_Plan_Cost_Sharing_Specification.internal|Health_Plan_Cost_Sharing_Specification.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.protect|Health_Plan_Cost_Sharing_Specification.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Health_Plan_Cost_Sharing_Specification.protect|Health_Plan_Cost_Sharing_Specification.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.private|Health_Plan_Cost_Sharing_Specification.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Health_Plan_Cost_Sharing_Specification.private|Health_Plan_Cost_Sharing_Specification.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.personal|Health_Plan_Cost_Sharing_Specification.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Health_Plan_Cost_Sharing_Specification.personal|Health_Plan_Cost_Sharing_Specification.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.secret|Health_Plan_Cost_Sharing_Specification.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Health_Plan_Cost_Sharing_Specification.secret|Health_Plan_Cost_Sharing_Specification.secret]] 
 

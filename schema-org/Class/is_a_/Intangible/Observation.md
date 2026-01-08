@@ -83,17 +83,17 @@ See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Observation|Observation]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Observation|Observation]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Observation.public|Observation.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Observation.public|Observation.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Observation.internal|Observation.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Observation.internal|Observation.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Observation.protect|Observation.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Observation.protect|Observation.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Observation.private|Observation.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Observation.private|Observation.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Observation.personal|Observation.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Observation.personal|Observation.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Observation.secret|Observation.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Observation.secret|Observation.secret]] 
 

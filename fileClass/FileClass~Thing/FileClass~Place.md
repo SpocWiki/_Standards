@@ -342,7 +342,7 @@ The fax number.
 FaxNumber:: {"type":"Input","options":{}}
 
 ### Geo
-The [[../../schema-org/Class/is_a_/Intangible/structured_value/geo_coordinates|Geo_Coordinates]] of the place.
+The [[../../schema-org/Class/is_a_/Intangible_/structured_value/geo_coordinates|Geo_Coordinates]] of the place.
 
 Geo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')"}}
 

@@ -47,17 +47,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Reserve_Action|Reserve_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Reserve_Action|Reserve_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Reserve_Action.public|Reserve_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Reserve_Action.public|Reserve_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Reserve_Action.internal|Reserve_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Reserve_Action.internal|Reserve_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Reserve_Action.protect|Reserve_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Reserve_Action.protect|Reserve_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Reserve_Action.private|Reserve_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Reserve_Action.private|Reserve_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Reserve_Action.personal|Reserve_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Reserve_Action.personal|Reserve_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Reserve_Action.secret|Reserve_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Organize_Action/Plan_Action/Reserve_Action.secret|Reserve_Action.secret]] 
 

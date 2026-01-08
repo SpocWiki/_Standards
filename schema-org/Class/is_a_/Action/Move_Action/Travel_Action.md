@@ -41,17 +41,17 @@ The act of traveling from a fromLocation to a destination by a specified mode of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Move_Action/Travel_Action|Travel_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Move_Action/Travel_Action|Travel_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.public|Travel_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Move_Action/Travel_Action.public|Travel_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.internal|Travel_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Move_Action/Travel_Action.internal|Travel_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.protect|Travel_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Move_Action/Travel_Action.protect|Travel_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.private|Travel_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Move_Action/Travel_Action.private|Travel_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.personal|Travel_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Move_Action/Travel_Action.personal|Travel_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.secret|Travel_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Move_Action/Travel_Action.secret|Travel_Action.secret]] 
 

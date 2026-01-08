@@ -407,7 +407,7 @@ Defines the energy efficiency Category (also known as "class" or "rating") for a
 HasEnergyConsumptionDetails:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/EnergyConsumptionDetails')"}}
 
 ### HasMeasurements 
-One or more measurements in the form of a [[../../schema-org/Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] . 
+One or more measurements in the form of a [[../../schema-org/Class/is_a_/Intangible_/structured_value/quantitative_value|QuantitativeValue]] . 
 For example the inseam of pants, 
 the wheel size of a bicycle, or the gauge of a screw. 
 Usually an exact measurement, 

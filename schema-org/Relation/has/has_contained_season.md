@@ -34,7 +34,7 @@ A season that is part of the media series.
 
 Use it like this: 
 - [ #has_/contained_season :: [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]] ] or 
-- [ has_contained_season :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] ] 
+- [ has_contained_season :: [[../../Class/is_a_/creative_work_/creative_work_season|CreativeWorkSeason]] ] 
 
 [[../../Relation|Relation]] describes that: 
 [ #has_/domain  :: [ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ] ] 

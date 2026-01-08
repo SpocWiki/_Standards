@@ -166,7 +166,7 @@ A refund type, from an enumerated list.
 RefundType:: {"type":"Select","options":{"valuesList":{"ExchangeRefund","FullRefund","StoreCreditRefund"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 ### RestockingFee
-Use [[MonetaryAmount]] to specify a fixed restocking fee for product returns, or use[[../../../schema-org/Class/is_a_/data_type/number]]] to specify a percentage of the product price paid by the customer.
+Use [[MonetaryAmount]] to specify a fixed restocking fee for product returns, or use[[../../../schema-org/Class/is_a_/data_type_/number]]] to specify a percentage of the product price paid by the customer.
 
 RestockingFee:: {"type":"Number","options":{}}
 

@@ -30,13 +30,13 @@ type: Predi_Quantity
 The height of an item.
 
 Use it like this: 
-- [ #has_/value_for_/height_in_meters :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] or 
-- [ has_value_for_height_in_meters :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] 
+- [ #has_/value_for_/height_in_meters :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible_/structured_value/quantitative_value|QuantitativeValue]] ] or 
+- [ has_value_for_height_in_meters :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible_/structured_value/quantitative_value|QuantitativeValue]] ] 
 
 Predicate describes that: 
-[ #has_/domain  :: [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]], [[../../Class/is_a_/Intangible/structured_value/offer_shipping_details|OfferShippingDetails]], [[../../../Society/Agent/Person|Person]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]], [[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|VisualArtwork]] ]
+[ #has_/domain  :: [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]], [[../../Class/is_a_/Intangible_/structured_value/offer_shipping_details|OfferShippingDetails]], [[../../../Society/Agent/Person|Person]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]], [[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|VisualArtwork]] ]
 ( #has_/name :: has_value_for_height_in_meters )
-( #has_/range :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] )
+( #has_/range :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible_/structured_value/quantitative_value|QuantitativeValue]] )
 
 
 ## Confidential Links & Embeds: 

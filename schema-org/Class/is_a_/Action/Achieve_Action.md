@@ -46,17 +46,17 @@ It is an instantaneous action rather than an ongoing process.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Achieve_Action|Achieve_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Achieve_Action|Achieve_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Achieve_Action.public|Achieve_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Achieve_Action.public|Achieve_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Achieve_Action.internal|Achieve_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Achieve_Action.internal|Achieve_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Achieve_Action.protect|Achieve_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Achieve_Action.protect|Achieve_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Achieve_Action.private|Achieve_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Achieve_Action.private|Achieve_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Achieve_Action.personal|Achieve_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Achieve_Action.personal|Achieve_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Achieve_Action.secret|Achieve_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Achieve_Action.secret|Achieve_Action.secret]] 
 

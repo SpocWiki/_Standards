@@ -43,17 +43,17 @@ The act of managing by changing/editing the state of the object.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Update_Action|Update_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Update_Action|Update_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Update_Action.public|Update_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Update_Action.public|Update_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Update_Action.internal|Update_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Update_Action.internal|Update_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Update_Action.protect|Update_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Update_Action.protect|Update_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Update_Action.private|Update_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Update_Action.private|Update_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Update_Action.personal|Update_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Update_Action.personal|Update_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Update_Action.secret|Update_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Update_Action.secret|Update_Action.secret]] 
 

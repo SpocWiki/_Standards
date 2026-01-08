@@ -41,17 +41,17 @@ A permit issued by a government agency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Permit/Government_Permit|Government_Permit]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Permit/Government_Permit|Government_Permit]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.public|Government_Permit.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Permit/Government_Permit.public|Government_Permit.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.internal|Government_Permit.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Permit/Government_Permit.internal|Government_Permit.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.protect|Government_Permit.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Permit/Government_Permit.protect|Government_Permit.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.private|Government_Permit.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Permit/Government_Permit.private|Government_Permit.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.personal|Government_Permit.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Permit/Government_Permit.personal|Government_Permit.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.secret|Government_Permit.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Permit/Government_Permit.secret|Government_Permit.secret]] 
 

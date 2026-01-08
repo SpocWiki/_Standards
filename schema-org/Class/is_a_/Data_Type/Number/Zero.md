@@ -96,17 +96,17 @@ Commons_category: 0 (number)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Zero|Zero]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type_/Number/Zero|Zero]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Number/Zero.public|Zero.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type_/Number/Zero.public|Zero.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Number/Zero.internal|Zero.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type_/Number/Zero.internal|Zero.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Number/Zero.protect|Zero.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type_/Number/Zero.protect|Zero.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Number/Zero.private|Zero.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type_/Number/Zero.private|Zero.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Number/Zero.personal|Zero.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type_/Number/Zero.personal|Zero.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Number/Zero.secret|Zero.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type_/Number/Zero.secret|Zero.secret]] 
 

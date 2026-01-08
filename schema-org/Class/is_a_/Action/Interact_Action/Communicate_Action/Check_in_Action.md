@@ -49,17 +49,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action|Check_in_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Check_in_Action|Check_in_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action.public|Check_in_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Check_in_Action.public|Check_in_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action.internal|Check_in_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Check_in_Action.internal|Check_in_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action.protect|Check_in_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Check_in_Action.protect|Check_in_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action.private|Check_in_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Check_in_Action.private|Check_in_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action.personal|Check_in_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Check_in_Action.personal|Check_in_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action.secret|Check_in_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Interact_Action/Communicate_Action/Check_in_Action.secret|Check_in_Action.secret]] 
 

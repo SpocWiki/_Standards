@@ -41,17 +41,17 @@ A <a href="https://en.wikipedia.org/wiki/Hackathon">hackathon</a> event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Hackathon|Hackathon]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event_/Hackathon|Hackathon]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Hackathon.public|Hackathon.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event_/Hackathon.public|Hackathon.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Hackathon.internal|Hackathon.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event_/Hackathon.internal|Hackathon.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Hackathon.protect|Hackathon.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event_/Hackathon.protect|Hackathon.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Hackathon.private|Hackathon.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event_/Hackathon.private|Hackathon.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Hackathon.personal|Hackathon.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event_/Hackathon.personal|Hackathon.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Hackathon.secret|Hackathon.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event_/Hackathon.secret|Hackathon.secret]] 
 

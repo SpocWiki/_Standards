@@ -41,17 +41,17 @@ The act of producing/preparing food.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Create_Action/Cook_Action|Cook_Action]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action_/Create_Action/Cook_Action|Cook_Action]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Create_Action/Cook_Action.public|Cook_Action.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action_/Create_Action/Cook_Action.public|Cook_Action.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Create_Action/Cook_Action.internal|Cook_Action.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action_/Create_Action/Cook_Action.internal|Cook_Action.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Create_Action/Cook_Action.protect|Cook_Action.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action_/Create_Action/Cook_Action.protect|Cook_Action.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Create_Action/Cook_Action.private|Cook_Action.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action_/Create_Action/Cook_Action.private|Cook_Action.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Create_Action/Cook_Action.personal|Cook_Action.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action_/Create_Action/Cook_Action.personal|Cook_Action.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Create_Action/Cook_Action.secret|Cook_Action.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action_/Create_Action/Cook_Action.secret|Cook_Action.secret]] 
 

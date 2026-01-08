@@ -43,17 +43,17 @@ A US-style health insurance plan network.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Health_Plan_Network|Health_Plan_Network]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible_/Health_Plan_Network|Health_Plan_Network]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Health_Plan_Network.public|Health_Plan_Network.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible_/Health_Plan_Network.public|Health_Plan_Network.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Health_Plan_Network.internal|Health_Plan_Network.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible_/Health_Plan_Network.internal|Health_Plan_Network.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Health_Plan_Network.protect|Health_Plan_Network.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible_/Health_Plan_Network.protect|Health_Plan_Network.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Health_Plan_Network.private|Health_Plan_Network.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible_/Health_Plan_Network.private|Health_Plan_Network.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Health_Plan_Network.personal|Health_Plan_Network.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible_/Health_Plan_Network.personal|Health_Plan_Network.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Health_Plan_Network.secret|Health_Plan_Network.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible_/Health_Plan_Network.secret|Health_Plan_Network.secret]] 
 
