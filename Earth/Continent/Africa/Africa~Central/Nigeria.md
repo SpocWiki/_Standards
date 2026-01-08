@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria.personal|Nigeria.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria.secret|Nigeria.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Nigeria
 dv_has_name_de: Nigeria

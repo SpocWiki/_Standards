@@ -385,7 +385,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~Central/Nicaragua.personal|Nicaragua.personal]]"
     - "[[/_secret/Earth/Continent/America~Central/Nicaragua.secret|Nicaragua.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Nicaragua
 dv_has_name_de: Nicaragua

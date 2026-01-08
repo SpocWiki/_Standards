@@ -96,7 +96,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal|Madagascar.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret|Madagascar.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Madagascar
 dv_has_name_de: Madagaskar

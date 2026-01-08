@@ -484,7 +484,7 @@ Languages:
   - es-CO
 icon: flag-co
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Colombia
 dv_ISO4217-currency_alphabetic: COP

@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.personal|Kyrgyzstan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.secret|Kyrgyzstan.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Kyrgyzstan
 dv_has_name_de: Kirgisistan

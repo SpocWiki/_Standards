@@ -290,7 +290,7 @@ water_as_percent_of_area: 8.4
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Guyana,7112284]]"
 WIPO_ST_3: GY
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Guyana
 dv_ISO4217-currency_alphabetic: GYD

@@ -64,7 +64,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Uganda.personal|Uganda.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Uganda.secret|Uganda.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Uganda
 dv_has_name_de: Uganda

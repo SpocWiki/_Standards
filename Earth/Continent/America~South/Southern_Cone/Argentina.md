@@ -405,7 +405,7 @@ motto_text:
   - Curiad eich Rhythm
   - Beats to your rhythm
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Argentina
 dv_ISO4217-currency_alphabetic: ARS

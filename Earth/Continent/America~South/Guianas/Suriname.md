@@ -350,7 +350,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~South/Guianas/Suriname.personal|Suriname.personal]]"
     - "[[/_secret/Earth/Continent/America~South/Guianas/Suriname.secret|Suriname.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Suriname
 dv_has_name_de: Surinam

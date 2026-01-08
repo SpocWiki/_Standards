@@ -541,7 +541,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~North/Canada.personal|Canada.personal]]"
     - "[[/_secret/Earth/Continent/America~North/Canada.secret|Canada.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Canada
   image_for_:

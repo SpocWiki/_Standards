@@ -374,7 +374,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal|Lesotho.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret|Lesotho.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Lesotho
 dv_developed_developing_countries: Developing

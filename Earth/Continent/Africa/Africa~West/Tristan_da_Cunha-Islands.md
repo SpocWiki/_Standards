@@ -12,7 +12,7 @@ tags:
   - geo/Country
 type: Country
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Saint_Helena
 dv_ISO2: SH

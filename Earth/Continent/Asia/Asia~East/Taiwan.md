@@ -32,7 +32,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Taiwan
 dv_has_name_de: Taiwan, Province Of China

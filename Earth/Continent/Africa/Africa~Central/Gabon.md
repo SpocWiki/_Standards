@@ -336,7 +336,14 @@ expiryDate: ""
 Languages:
   - fr-GA
 dv_has_:
-  name:
+  name_:
+    de: Gabun
+    en: Gabon
+    es: Gabón
+    fr: Gabon
+    cn: 加蓬
+    ar: غابون
+    ru: Габон
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Gabon
 dv_ISO4217-currency_alphabetic: XAF
@@ -348,6 +355,7 @@ dv_Telephone: 241
 dv_Global: true
 dv_Global_Name: World
 dv_name: Gabon
+dv_has_name_de: Gabun
 dv_has_name_en: Gabon
 dv_has_name_es: Gabón
 dv_has_name_fr: Gabon
@@ -401,7 +409,6 @@ dv_is_:
     - "[[/_private/Earth/Continent/Africa/Africa~Central/Gabon.private|Gabon.private]]"
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Gabon.personal|Gabon.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Gabon.secret|Gabon.secret]]"
-dv_has_name_de: Gabun
 dv_Area-Total: 267667
 dv_Area-Land: 257670
 dv_has_place_continent: "[[../../Africa]]"

@@ -901,7 +901,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~Central/Mexico.personal|Mexico.personal]]"
     - "[[/_secret/Earth/Continent/America~Central/Mexico.secret|Mexico.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Mexico
 dv_has_name_de: Mexiko

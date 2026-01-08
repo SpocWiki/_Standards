@@ -529,7 +529,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Tanzania.personal|Tanzania.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret|Tanzania.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Tanzania
 dv_has_name_de: Tansania

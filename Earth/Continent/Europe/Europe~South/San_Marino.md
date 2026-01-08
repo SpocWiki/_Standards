@@ -97,7 +97,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-San_Marino
 dv_has_name_de: San Marino

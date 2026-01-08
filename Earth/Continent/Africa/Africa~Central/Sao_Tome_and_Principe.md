@@ -24,7 +24,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.personal|Sao_Tome_and_Principe.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.secret|Sao_Tome_and_Principe.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Sao_Tome_and_Principe
 dv_has_name_en: Sao Tome And Principe

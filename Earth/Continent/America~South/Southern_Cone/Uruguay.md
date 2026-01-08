@@ -404,7 +404,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Uruguay,7112501]]"
 WIPO_ST_3: UY
 Wolfram_Language_entity_code: Entity["Country", "Uruguay"]
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Uruguay
 dv_ISO4217-currency_alphabetic: UYU

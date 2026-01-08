@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.personal|Nepal.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal.secret|Nepal.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Nepal
 dv_has_name_de: Nepal

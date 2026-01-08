@@ -458,7 +458,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~South/Andes/Bolivia.personal|Bolivia.personal]]"
     - "[[/_secret/Earth/Continent/America~South/Andes/Bolivia.secret|Bolivia.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Bolivia
 dv_has_name_de: Bolivien

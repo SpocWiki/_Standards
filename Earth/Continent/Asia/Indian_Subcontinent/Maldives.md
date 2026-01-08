@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.personal|Maldives.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives.secret|Maldives.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Maldives
 dv_has_name_de: Malediven

@@ -60,7 +60,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Oman.personal|Oman.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Oman.secret|Oman.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Oman
 dv_has_name_de: Oman

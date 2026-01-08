@@ -1,6 +1,6 @@
 ---
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Croatia
 dv_ISO4217-currency_alphabetic: HRK

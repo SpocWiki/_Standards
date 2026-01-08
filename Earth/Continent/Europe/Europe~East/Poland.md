@@ -23,7 +23,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~East/Poland.personal|Poland.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~East/Poland.secret|Poland.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Poland
   image_for_:

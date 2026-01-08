@@ -34,7 +34,7 @@ tags:
 title: French Guiana
 type: Country
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-French_Guiana
 dv_ISO4217-currency_alphabetic: EUR

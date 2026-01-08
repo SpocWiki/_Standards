@@ -439,7 +439,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Senegal.personal|Senegal.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Senegal.secret|Senegal.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Senegal
 dv_has_name_de: Senegal

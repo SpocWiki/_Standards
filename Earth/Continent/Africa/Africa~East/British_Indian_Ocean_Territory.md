@@ -33,7 +33,7 @@ tags:
 title: British Indian Ocean Territory
 type: Country
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-British_Indian_Ocean_Territory
 dv_ISO4217-currency_alphabetic: USD

@@ -20,7 +20,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~West/France.personal|France.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~West/France.secret|France.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-France
   image_for_:

@@ -60,7 +60,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~North/Libya.personal|Libya.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~North/Libya.secret|Libya.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Libya
 dv_has_name_de: Libyen Libyan Arab. Jamahiriya

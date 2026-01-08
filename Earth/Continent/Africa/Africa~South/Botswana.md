@@ -335,7 +335,7 @@ GitHub_topic: botswana
 Krugosvet_article: strany_mira/BOTSVANA.html
 native_label: Botswana
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Botswana
 dv_ISO4217-currency_alphabetic: BWP

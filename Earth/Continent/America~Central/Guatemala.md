@@ -376,7 +376,7 @@ Languages:
   - es-GT
 icon: flag-gt
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Guatemala
 dv_ISO4217-currency_alphabetic: GTQ

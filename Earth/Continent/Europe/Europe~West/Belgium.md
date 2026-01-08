@@ -20,7 +20,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~West/Belgium.personal|Belgium.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~West/Belgium.secret|Belgium.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Belgium
 dv_ISO4217-currency_alphabetic: EUR

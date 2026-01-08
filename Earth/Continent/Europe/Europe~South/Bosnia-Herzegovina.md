@@ -1,6 +1,6 @@
 ---
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Bosnia_and_Herzegovina
 dv_ISO2: BA

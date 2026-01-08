@@ -413,7 +413,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~Central/Panama.personal|Panama.personal]]"
     - "[[/_secret/Earth/Continent/America~Central/Panama.secret|Panama.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Panama
 dv_has_name_de: Panama

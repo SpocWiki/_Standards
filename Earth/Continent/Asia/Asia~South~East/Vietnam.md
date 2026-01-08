@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam.personal|Vietnam.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam.secret|Vietnam.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Vietnam
 dv_has_name_de: Vietnam

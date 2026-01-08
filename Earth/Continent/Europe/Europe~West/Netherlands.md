@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~West/Netherlands.personal|Netherlands.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~West/Netherlands.secret|Netherlands.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Netherlands
 dv_has_name_de: Niederlande

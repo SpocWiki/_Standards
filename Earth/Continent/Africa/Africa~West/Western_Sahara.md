@@ -177,7 +177,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Western_Sahara
 dv_has_name_de: Western Sahara

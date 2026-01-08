@@ -405,7 +405,7 @@ dv_"Concept", "CoteDIvoire: xrhh5"
 dv_ISO2: CI
 dv_ISO3: CIV
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Cote_d-ivoire
 dv_is_:

@@ -494,7 +494,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~South/Andes/Venezuela.personal|Venezuela.personal]]"
     - "[[/_secret/Earth/Continent/America~South/Andes/Venezuela.secret|Venezuela.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Venezuela
 dv_has_name_de: Venezuela

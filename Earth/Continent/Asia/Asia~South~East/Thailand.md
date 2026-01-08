@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand.personal|Thailand.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret|Thailand.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Thailand
 dv_has_name_de: Thailand

@@ -402,7 +402,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay.personal|Paraguay.personal]]"
     - "[[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay.secret|Paraguay.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Paraguay
 dv_has_name_de: Paraguay

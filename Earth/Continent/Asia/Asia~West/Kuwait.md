@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal|Kuwait.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret|Kuwait.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Kuwait
 dv_has_name_de: Kuwait

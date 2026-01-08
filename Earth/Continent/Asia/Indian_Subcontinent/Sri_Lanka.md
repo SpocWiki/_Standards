@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.personal|Sri_Lanka.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Sri_Lanka.secret|Sri_Lanka.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Sri_Lanka
 dv_has_name_de: Sri Lanka

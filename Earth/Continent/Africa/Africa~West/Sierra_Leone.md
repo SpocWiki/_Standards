@@ -380,7 +380,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone.personal|Sierra_Leone.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret|Sierra_Leone.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Sierra_Leone
 dv_has_name_de: Sierra Leone

@@ -12,7 +12,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic.personal|Czech_Republic.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic.secret|Czech_Republic.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Czech_Republic
 dv_has_name_en: Czech Rep.

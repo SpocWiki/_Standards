@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan.personal|Uzbekistan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan.secret|Uzbekistan.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Uzbekistan
 dv_has_name_de: Usbekistan

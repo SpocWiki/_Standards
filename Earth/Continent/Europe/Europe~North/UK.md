@@ -513,7 +513,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~North/UK.personal|UK.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
   image_for_:

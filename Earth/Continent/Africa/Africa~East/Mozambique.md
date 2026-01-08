@@ -361,7 +361,7 @@ VAT_rate: 17
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mozambique,16056528]]"
 WIPO_ST_3: MZ
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Mozambique
 dv_ISO4217-currency_alphabetic: MZN

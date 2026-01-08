@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Jordan.personal|Jordan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret|Jordan.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Jordan
 dv_has_name_de: Jordanien

@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal|Lebanon.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret|Lebanon.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Lebanon
 dv_has_name_de: Libanon

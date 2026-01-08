@@ -521,7 +521,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~South/South_Africa.personal|South_Africa.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret|South_Africa.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-South_Africa
 dv_has_name_de: Südafrika

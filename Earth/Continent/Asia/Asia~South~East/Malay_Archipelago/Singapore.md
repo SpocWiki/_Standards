@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.personal|Singapore.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.secret|Singapore.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Singapore
 dv_has_name_de: Singapur

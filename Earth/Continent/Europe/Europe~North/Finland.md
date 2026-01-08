@@ -10,7 +10,7 @@ dv_#is_:
       - 1999-01-01T00:00:00.000+01:00
       - 2023-04-04T00:00:00.000+02:00
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Finland
 dv_see: "[[Finland/ReadMe]]"

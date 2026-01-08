@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India.personal|India.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India.secret|India.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-India
 dv_has_name_de: Indien

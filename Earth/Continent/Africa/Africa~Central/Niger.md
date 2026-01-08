@@ -64,7 +64,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Niger.personal|Niger.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Niger.secret|Niger.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Niger
 dv_has_name_de: Niger

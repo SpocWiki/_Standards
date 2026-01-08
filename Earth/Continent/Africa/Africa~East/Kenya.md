@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Kenya.personal|Kenya.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Kenya.secret|Kenya.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Kenya
 dv_has_name_de: Kenia

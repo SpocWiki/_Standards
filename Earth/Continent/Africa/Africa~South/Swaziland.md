@@ -267,7 +267,7 @@ urban_population:
   - 295322
 INSEE_countries_and_foreign_territories_code: 99391
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Swaziland
 dv_ISO2: SZ

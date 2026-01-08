@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~East/Mongolia.personal|Mongolia.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~East/Mongolia.secret|Mongolia.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Mongolia
 dv_has_name_de: Mongolei

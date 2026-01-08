@@ -12,7 +12,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.personal|Korea~South.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.secret|Korea~South.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Korea~South
 dv_has_name_en: Korea, Rep.

@@ -381,7 +381,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Malawi
 dv_has_name_de: Malawi

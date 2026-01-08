@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Iran.personal|Iran.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Iran.secret|Iran.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Iran
 dv_has_name_de: Iran (Islamic Republic of)

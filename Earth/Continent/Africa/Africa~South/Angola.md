@@ -369,7 +369,7 @@ mobile_country_code: 631
 INSEE_countries_and_foreign_territories_code: 99395
 ITU_letter_code: AGL
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Angola
 dv_ISO4217-currency_alphabetic: AOA

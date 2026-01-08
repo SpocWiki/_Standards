@@ -348,7 +348,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal|Gambia.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret|Gambia.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Gambia
 dv_has_name_de: Gambia

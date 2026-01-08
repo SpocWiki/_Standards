@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~East/Moldova.personal|Moldova.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~East/Moldova.secret|Moldova.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Moldova
 dv_has_name_de: Moldawien, Republic of

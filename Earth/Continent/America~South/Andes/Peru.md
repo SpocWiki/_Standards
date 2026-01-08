@@ -541,7 +541,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/America~South/Andes/Peru.personal|Peru.personal]]"
     - "[[/_secret/Earth/Continent/America~South/Andes/Peru.secret|Peru.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Peru
 dv_has_name_de: Peru

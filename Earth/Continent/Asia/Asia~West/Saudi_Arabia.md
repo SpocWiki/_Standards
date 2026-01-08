@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.personal|Saudi_Arabia.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia.secret|Saudi_Arabia.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Saudi_Arabia
 dv_has_name_de: Saudi-Arabien

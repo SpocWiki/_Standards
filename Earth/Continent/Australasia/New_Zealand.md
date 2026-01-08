@@ -443,7 +443,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Australasia/New_Zealand.personal|New_Zealand.personal]]"
     - "[[/_secret/Earth/Continent/Australasia/New_Zealand.secret|New_Zealand.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Australia-New_Zealand
 dv_has_name_de: Neuseeland

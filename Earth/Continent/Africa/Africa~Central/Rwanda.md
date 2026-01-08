@@ -367,7 +367,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Rwanda.personal|Rwanda.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Rwanda.secret|Rwanda.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Rwanda
 dv_has_name_de: Rwanda

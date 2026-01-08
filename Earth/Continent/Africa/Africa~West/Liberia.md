@@ -400,7 +400,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~West/Liberia.personal|Liberia.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret|Liberia.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Liberia
 dv_has_name_de: Liberia

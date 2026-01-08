@@ -365,7 +365,7 @@ VAT_rate: 15
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Ghana,7112272]]"
 WIPO_ST_3: GH
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Ghana
 dv_ISO4217-currency_alphabetic: GHS

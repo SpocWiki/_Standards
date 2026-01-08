@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal|Philippines.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret|Philippines.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Philippines
 dv_has_name_de: Philippinen

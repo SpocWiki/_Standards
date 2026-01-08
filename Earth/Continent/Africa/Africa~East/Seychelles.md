@@ -360,7 +360,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~East/Seychelles.personal|Seychelles.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Seychelles.secret|Seychelles.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Reunion
 dv_has_name_de: Seychellen

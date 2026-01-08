@@ -337,7 +337,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.personal|Congo~Brazzaville.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.secret|Congo~Brazzaville.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Congo-Brazzaville
 dv_has_name_en: Congo, Rep.

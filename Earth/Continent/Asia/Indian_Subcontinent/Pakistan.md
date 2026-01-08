@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.personal|Pakistan.personal]]"
     - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.secret|Pakistan.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Pakistan
 dv_has_name_de: Pakistan

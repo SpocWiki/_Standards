@@ -12,7 +12,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe.personal|Georgia,Europe.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe.secret|Georgia,Europe.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Georgia
 dv_has_name_en: Georgia

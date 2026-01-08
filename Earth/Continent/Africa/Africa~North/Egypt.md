@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Africa/Africa~North/Egypt.personal|Egypt.personal]]"
     - "[[/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret|Egypt.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Egypt
 dv_has_name_de: Ägypten

@@ -278,7 +278,7 @@ coordinates_of_southernmost_point: Point(-89.22234714 15.88594166)
 nominal_GDP: 2824081836
 coordinate_location: Point(-88.7 17.066666666)
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Belize
 dv_ISO4217-currency_alphabetic: BZD

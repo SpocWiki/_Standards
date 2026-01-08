@@ -322,7 +322,7 @@ short_name: 🇭🇳
 coordinates_of_westernmost_point: Point(-89.35593 14.42045)
 coordinate_location: Point(-86.816667 14.633333)
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Honduras
 dv_ISO4217-currency_alphabetic: HNL

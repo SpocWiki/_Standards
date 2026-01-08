@@ -373,7 +373,7 @@ dv_is_:
     - "[[/_secret/Earth/Continent/America~Central/Costa_Rica.secret|Costa_Rica.secret]]"
   different_from: "[[../America~Caribbean/Greater_Antilles/Puerto_Rico|Puerto_Rico]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Costa_Rica
 dv_has_name_de: Costa Rica

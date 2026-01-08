@@ -383,7 +383,7 @@ dv_is_:
     - "[[/_personal/Earth/Continent/Europe/Europe~North/Iceland.personal|Iceland.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~North/Iceland.secret|Iceland.secret]]"
 dv_has_:
-  name:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Iceland
 dv_has_name_de: Island
