@@ -12,6 +12,25 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20Superhighway.
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Straalstroom.jpg
 Dewey_Decimal_Classification: "551.5183"
 Commons_category: Jet streams
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Jet_stream,202325]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Jet_Stream|Jet_Stream]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Jet_Stream.public|Jet_Stream.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Jet_Stream.internal|Jet_Stream.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Jet_Stream.protect|Jet_Stream.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Jet_Stream.private|Jet_Stream.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Jet_Stream.personal|Jet_Stream.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Jet_Stream.secret|Jet_Stream.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Jet_stream,202325]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Jet_Stream|Jet_Stream]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Jet_Stream.public|Jet_Stream.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Jet_Stream.internal|Jet_Stream.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Jet_Stream.protect|Jet_Stream.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Jet_Stream.private|Jet_Stream.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Jet_Stream.personal|Jet_Stream.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Jet_Stream.secret|Jet_Stream.secret]]"
 ---
 
 # [[Jet_Stream]] 

@@ -11,35 +11,35 @@ location:
   - -28.630833333
   - 23
 tributary:
-  - '[[_Standards/WikiData/WD~Senqunyane_River,177862]]'
-  - '[[_Standards/WikiData/WD~Vaal_River,209530]]'
-  - '[[_Standards/WikiData/WD~Caledon_River,509983]]'
-  - '[[_Standards/WikiData/WD~Molopo_River,546793]]'
-  - '[[_Standards/WikiData/WD~Fish_River,1143836]]'
-  - '[[_Standards/WikiData/WD~Gamkabrivier,1493009]]'
-  - '[[_Standards/WikiData/WD~Kraai_River,1505586]]'
-  - '[[_Standards/WikiData/WD~Makhaleng_River,1886345]]'
+  - "[[_Standards/WikiData/WD~Senqunyane_River,177862]]"
+  - "[[_Standards/WikiData/WD~Vaal_River,209530]]"
+  - "[[_Standards/WikiData/WD~Caledon_River,509983]]"
+  - "[[_Standards/WikiData/WD~Molopo_River,546793]]"
+  - "[[_Standards/WikiData/WD~Fish_River,1143836]]"
+  - "[[_Standards/WikiData/WD~Gamkabrivier,1493009]]"
+  - "[[_Standards/WikiData/WD~Kraai_River,1505586]]"
+  - "[[_Standards/WikiData/WD~Makhaleng_River,1886345]]"
   - "[[_Standards/WikiData/WD~Malibamat'so_River,4785397]]"
-  - '[[_Standards/WikiData/WD~Tele,34961686]]'
-origin_of_the_watercourse: '[[_Standards/WikiData/WD~Drakensberg,183295]]'
+  - "[[_Standards/WikiData/WD~Tele,34961686]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Drakensberg,183295]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-heritage_designation: '[[_Standards/WikiData/WD~Ramsar_site,19683138]]'
-lake_on_watercourse: '[[_Standards/WikiData/WD~Vanderkloof_Dam_Reservoir,31982172]]'
-drainage_basin: '[[_Standards/WikiData/WD~Orange_River_basin,46511967]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+heritage_designation: "[[_Standards/WikiData/WD~Ramsar_site,19683138]]"
+lake_on_watercourse: "[[_Standards/WikiData/WD~Vanderkloof_Dam_Reservoir,31982172]]"
+drainage_basin: "[[_Standards/WikiData/WD~Orange_River_basin,46511967]]"
 country:
-  - '[[_Standards/WikiData/WD~South_Africa,258]]'
-  - '[[_Standards/WikiData/WD~Lesotho,1013]]'
-  - '[[_Standards/WikiData/WD~Namibia,1030]]'
-basin_country: '[[_Standards/WikiData/WD~Lesotho,1013]]'
-instance_of: '[[_Standards/WikiData/WD~river,4022]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
-mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+  - "[[_Standards/WikiData/WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Lesotho,1013]]"
+  - "[[_Standards/WikiData/WD~Namibia,1030]]"
+basin_country: "[[_Standards/WikiData/WD~Lesotho,1013]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 discharge: 800
 elevation_above_sea_level: 1400
 length: 2200
@@ -52,6 +52,25 @@ Commons_category: Orange River
 coordinate_location:
   - Point(16.45 -28.630833333)
   - Point(29.017944444 -28.896611111)
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Orange_River,181475]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~South/Orange_River|Orange_River]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~South/Orange_River.public|Orange_River.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~South/Orange_River.internal|Orange_River.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~South/Orange_River.protect|Orange_River.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~South/Orange_River.private|Orange_River.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~South/Orange_River.personal|Orange_River.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~South/Orange_River.secret|Orange_River.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Orange_River,181475]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~South/Orange_River|Orange_River]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~South/Orange_River.public|Orange_River.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~South/Orange_River.internal|Orange_River.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~South/Orange_River.protect|Orange_River.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~South/Orange_River.private|Orange_River.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~South/Orange_River.personal|Orange_River.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~South/Orange_River.secret|Orange_River.secret]]"
 ---
 
 # [[Orange_River]] 

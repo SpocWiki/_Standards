@@ -22,6 +22,25 @@ Dewey_Decimal_Classification:
 Krugosvet_article: Earth_sciences/geologiya/POLEVIE_SHPATI.html
 Commons_category: Feldspar
 IMA_Mineral_Symbol: Fsp
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Feldspar,170258|WD~Feldspar,170258]]"
+    - "[[/_Standards/Earth/Geology/Mineral/Feldspar|Feldspar]]"
+    - "[[/_public/Earth/Geology/Mineral/Feldspar.public|Feldspar.public]]"
+    - "[[/_internal/Earth/Geology/Mineral/Feldspar.internal|Feldspar.internal]]"
+    - "[[/_protect/Earth/Geology/Mineral/Feldspar.protect|Feldspar.protect]]"
+    - "[[/_private/Earth/Geology/Mineral/Feldspar.private|Feldspar.private]]"
+    - "[[/_personal/Earth/Geology/Mineral/Feldspar.personal|Feldspar.personal]]"
+    - "[[/_secret/Earth/Geology/Mineral/Feldspar.secret|Feldspar.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Feldspar,170258|WD~Feldspar,170258]]"
+  - "[[/_Standards/Earth/Geology/Mineral/Feldspar|Feldspar]]"
+  - "[[/_public/Earth/Geology/Mineral/Feldspar.public|Feldspar.public]]"
+  - "[[/_internal/Earth/Geology/Mineral/Feldspar.internal|Feldspar.internal]]"
+  - "[[/_protect/Earth/Geology/Mineral/Feldspar.protect|Feldspar.protect]]"
+  - "[[/_private/Earth/Geology/Mineral/Feldspar.private|Feldspar.private]]"
+  - "[[/_personal/Earth/Geology/Mineral/Feldspar.personal|Feldspar.personal]]"
+  - "[[/_secret/Earth/Geology/Mineral/Feldspar.secret|Feldspar.secret]]"
 ---
 
 # [[Feldspar]] 

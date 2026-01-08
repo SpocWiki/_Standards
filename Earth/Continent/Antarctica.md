@@ -106,12 +106,41 @@ type: Continent
 Unicode_character: 🇦🇶
 U_S_National_Archives_Identifier: 10035701
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "Antarctica"]
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Antarctica
+dv_has_name_en: Antarctica
+dv_has_name_de: Antarktis
+dv_#has_:
+  code: AN
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Antarctica,51|WD~Antarctica,51]]"
+    - "[[/_Standards/Earth/Continent/Antarctica|Antarctica]]"
+    - "[[/_public/Earth/Continent/Antarctica.public|Antarctica.public]]"
+    - "[[/_internal/Earth/Continent/Antarctica.internal|Antarctica.internal]]"
+    - "[[/_protect/Earth/Continent/Antarctica.protect|Antarctica.protect]]"
+    - "[[/_private/Earth/Continent/Antarctica.private|Antarctica.private]]"
+    - "[[/_personal/Earth/Continent/Antarctica.personal|Antarctica.personal]]"
+    - "[[/_secret/Earth/Continent/Antarctica.secret|Antarctica.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Antarctica
+dv_has_code: AN
+dv_is_same_as:
+  - "[[../../WikiData/WD~Antarctica,51|WD~Antarctica,51]]"
+  - "[[/_Standards/Earth/Continent/Antarctica|Antarctica]]"
+  - "[[/_public/Earth/Continent/Antarctica.public|Antarctica.public]]"
+  - "[[/_internal/Earth/Continent/Antarctica.internal|Antarctica.internal]]"
+  - "[[/_protect/Earth/Continent/Antarctica.protect|Antarctica.protect]]"
+  - "[[/_private/Earth/Continent/Antarctica.private|Antarctica.private]]"
+  - "[[/_personal/Earth/Continent/Antarctica.personal|Antarctica.personal]]"
+  - "[[/_secret/Earth/Continent/Antarctica.secret|Antarctica.secret]]"
 ---
 
 # [[Antarctica]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Antarctica 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Antarctica/ReadMe]] 
 
@@ -128,9 +157,9 @@ geojsonFolder: ./Antarctica/
 markerFolder: ./Antarctica/
 ```
 
-[name-en::Antarctica]
-[name-de::Antarktis]
-[ #has_/code  :: AN ]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+has_code = `=this.dv_has_code`
 
 #is_/same_as :: [[../../WikiData/WD~Antarctica,51|WD~Antarctica,51]] 
 

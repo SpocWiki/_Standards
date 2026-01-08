@@ -1,5 +1,25 @@
-﻿---
-location: [ 68.138889 , 27.329167 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Indus_Valley,42534|WD~Indus_Valley,42534]]"
+    - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization|Indus_Valley_Civilization]]"
+    - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.public|Indus_Valley_Civilization.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.internal|Indus_Valley_Civilization.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.protect|Indus_Valley_Civilization.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.private|Indus_Valley_Civilization.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.personal|Indus_Valley_Civilization.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.secret|Indus_Valley_Civilization.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Indus_Valley,42534|WD~Indus_Valley,42534]]"
+  - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization|Indus_Valley_Civilization]]"
+  - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.public|Indus_Valley_Civilization.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.internal|Indus_Valley_Civilization.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.protect|Indus_Valley_Civilization.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.private|Indus_Valley_Civilization.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.personal|Indus_Valley_Civilization.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Indus_Valley_Civilization.secret|Indus_Valley_Civilization.secret]]"
+
+location: [ 27.329167, 68.138889 ] 
 aliases:
   - Indus Valley Civilisation
   - Indus Civilisation
@@ -32,6 +52,20 @@ subreddit: IndusValley
 # [[Indus_Valley_Civilization]] 
 
 #is_/same_as :: [[WikiData/WD~Indus_Valley,42534|WD~Indus_Valley,42534]] 
+
+## #has_/map  
+
+```leaflet
+id: Indus_Valley_Civilization
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Indus_Valley_Civilization//
+markerFolder: ./Indus_Valley_Civilization/
+coordinates: [[Indus_Valley_Civilization]] 
+markerFile: [[Indus_Valley_Civilization]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

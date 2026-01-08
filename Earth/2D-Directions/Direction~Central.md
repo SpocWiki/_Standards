@@ -1,7 +1,33 @@
+---
+dv_has_:
+  name_:
+    ar_:
+      Latn: Al Wusta
+      Arab: الوسطى
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/2D-Directions/Direction~Central|Direction~Central]]"
+    - "[[/_public/Earth/2D-Directions/Direction~Central.public|Direction~Central.public]]"
+    - "[[/_internal/Earth/2D-Directions/Direction~Central.internal|Direction~Central.internal]]"
+    - "[[/_protect/Earth/2D-Directions/Direction~Central.protect|Direction~Central.protect]]"
+    - "[[/_private/Earth/2D-Directions/Direction~Central.private|Direction~Central.private]]"
+    - "[[/_personal/Earth/2D-Directions/Direction~Central.personal|Direction~Central.personal]]"
+    - "[[/_secret/Earth/2D-Directions/Direction~Central.secret|Direction~Central.secret]]"
+dv_has_name_ar_latn: Al Wusta
+dv_has_name_ar_arab: الوسطى
+dv_is_same_as:
+  - "[[/_Standards/Earth/2D-Directions/Direction~Central|Direction~Central]]"
+  - "[[/_public/Earth/2D-Directions/Direction~Central.public|Direction~Central.public]]"
+  - "[[/_internal/Earth/2D-Directions/Direction~Central.internal|Direction~Central.internal]]"
+  - "[[/_protect/Earth/2D-Directions/Direction~Central.protect|Direction~Central.protect]]"
+  - "[[/_private/Earth/2D-Directions/Direction~Central.private|Direction~Central.private]]"
+  - "[[/_personal/Earth/2D-Directions/Direction~Central.personal|Direction~Central.personal]]"
+  - "[[/_secret/Earth/2D-Directions/Direction~Central.secret|Direction~Central.secret]]"
+---
 
 
-#has_/name_/ar_/Latn :: Al Wusta 
-#has_/name_/ar_/Arab ::  الوسطى  
+has_name_ar_latn = `=this.dv_has_name_ar_latn`
+has_name_ar_arab = `=this.dv_has_name_ar_arab`
 
 
 **Al Wusta** (from Arabic الوسطى, 'central') may refer to:

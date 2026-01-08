@@ -15,20 +15,44 @@ SpocWebEntityId: 36748
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 158.15
+dv_has_place_latitude: 6.916667
+dv_has_name_: Palikir
+dv_has_place_country: Micronesia,_Fed._States]
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Palikir,42751|WD~Palikir,42751]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir|Palikir]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.public|Palikir.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.internal|Palikir.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.protect|Palikir.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.private|Palikir.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.personal|Palikir.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret|Palikir.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Palikir,42751|WD~Palikir,42751]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir|Palikir]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.public|Palikir.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.internal|Palikir.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.protect|Palikir.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.private|Palikir.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.personal|Palikir.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei/counties~Pohnpei/Sokehs/Palikir.secret|Palikir.secret]]"
 ---
 
 # [[Palikir]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../../../../Geography/Place]] 
-[has_place_longitude::158.15] 
-[has_place_latitude::6.916667] 
-[name::Palikir] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 has_place_province::  
-has_place_country:: Micronesia,_Fed._States] 
+has_place_country = `=this.dv_has_place_country`
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Palikir,42751|WD~Palikir,42751]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 

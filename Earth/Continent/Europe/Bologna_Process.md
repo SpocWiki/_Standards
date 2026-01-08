@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q187073
 instance_of: "[[_Standards/WikiData/WD~higher_education_reform,1622288]]"
 named_after: "[[_Standards/WikiData/WD~Bologna,1891]]"
@@ -8,13 +8,36 @@ official_website: http://www.ehea.info
 ISNI: "0000000121920306"
 P8189: "987007547375305171"
 Commons_category: Bologna process
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Bologna_Process,187073|WD~Bologna_Process,187073]]"
+    - "[[/_Standards/Earth/Continent/Europe/Bologna_Process|Bologna_Process]]"
+    - "[[/_public/Earth/Continent/Europe/Bologna_Process.public|Bologna_Process.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Bologna_Process.internal|Bologna_Process.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Bologna_Process.protect|Bologna_Process.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Bologna_Process.private|Bologna_Process.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Bologna_Process.personal|Bologna_Process.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Bologna_Process.secret|Bologna_Process.secret]]"
+dv_has_:
+  time_:
+    started: 1999-06-01T00:00:00.000+02:00
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Bologna_Process,187073|WD~Bologna_Process,187073]]"
+  - "[[/_Standards/Earth/Continent/Europe/Bologna_Process|Bologna_Process]]"
+  - "[[/_public/Earth/Continent/Europe/Bologna_Process.public|Bologna_Process.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Bologna_Process.internal|Bologna_Process.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Bologna_Process.protect|Bologna_Process.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Bologna_Process.private|Bologna_Process.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Bologna_Process.personal|Bologna_Process.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Bologna_Process.secret|Bologna_Process.secret]]"
+dv_has_time_started: 1999-06-01
 ---
 
 # [[Bologna_Process]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Bologna_Process,187073|WD~Bologna_Process,187073]] 
 
-#has_/time_/started :: 1999-06 
+has_time_started = `=this.dv_has_time_started`
 
 ## #has_/text_of_/abstract 
 

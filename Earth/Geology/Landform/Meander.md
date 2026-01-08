@@ -3,19 +3,38 @@ aliases:
   - Mäander
   - Meander
 has_id_wikidata: Q180537
-named_after: '[[_Standards/WikiData/WD~Great_Menderes_River,211089]]'
-part_of: '[[_Standards/WikiData/WD~watercourse,355304]]'
+named_after: "[[_Standards/WikiData/WD~Great_Menderes_River,211089]]"
+part_of: "[[_Standards/WikiData/WD~watercourse,355304]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~point_bar,361950]]'
-  - '[[_Standards/WikiData/WD~cut_bank,2107707]]'
-model_item: '[[_Standards/WikiData/WD~Uvac,978571]]'
-different_from: '[[_Standards/WikiData/WD~Meander,1915464]]'
-subclass_of: '[[_Standards/WikiData/WD~water_area,2507626]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[_Standards/WikiData/WD~point_bar,361950]]"
+  - "[[_Standards/WikiData/WD~cut_bank,2107707]]"
+model_item: "[[_Standards/WikiData/WD~Uvac,978571]]"
+different_from: "[[_Standards/WikiData/WD~Meander,1915464]]"
+subclass_of: "[[_Standards/WikiData/WD~water_area,2507626]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 Commons_category: Meanders
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nowitna%20river%20retusche.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Warum%20m%C3%A4andern%20Fl%C3%BCsse%3F.webm
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000427
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Meander,180537]]"
+    - "[[/_Standards/Earth/Geology/Landform/Meander|Meander]]"
+    - "[[/_public/Earth/Geology/Landform/Meander.public|Meander.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Meander.internal|Meander.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Meander.protect|Meander.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Meander.private|Meander.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Meander.personal|Meander.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Meander.secret|Meander.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Meander,180537]]"
+  - "[[/_Standards/Earth/Geology/Landform/Meander|Meander]]"
+  - "[[/_public/Earth/Geology/Landform/Meander.public|Meander.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Meander.internal|Meander.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Meander.protect|Meander.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Meander.private|Meander.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Meander.personal|Meander.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Meander.secret|Meander.secret]]"
 ---
 
 # [[Meander]] 

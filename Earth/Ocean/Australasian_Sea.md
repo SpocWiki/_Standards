@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Australasian_Sea|Australasian_Sea]]"
+    - "[[/_public/Earth/Ocean/Australasian_Sea.public|Australasian_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Australasian_Sea.internal|Australasian_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Australasian_Sea.protect|Australasian_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Australasian_Sea.private|Australasian_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Australasian_Sea.personal|Australasian_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Australasian_Sea.secret|Australasian_Sea.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Australasian_Sea|Australasian_Sea]]"
+  - "[[/_public/Earth/Ocean/Australasian_Sea.public|Australasian_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Australasian_Sea.internal|Australasian_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Australasian_Sea.protect|Australasian_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Australasian_Sea.private|Australasian_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Australasian_Sea.personal|Australasian_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Australasian_Sea.secret|Australasian_Sea.secret]]"
+---
 # [[Australasian_Sea]] 
 
 ## Edit

@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[WD~The_Gherkin]]"
+    - "[[/_Standards/Earth/Geography/Place/Gherkin,London|Gherkin,London]]"
+    - "[[/_public/Earth/Geography/Place/Gherkin,London.public|Gherkin,London.public]]"
+    - "[[/_internal/Earth/Geography/Place/Gherkin,London.internal|Gherkin,London.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Gherkin,London.protect|Gherkin,London.protect]]"
+    - "[[/_private/Earth/Geography/Place/Gherkin,London.private|Gherkin,London.private]]"
+    - "[[/_personal/Earth/Geography/Place/Gherkin,London.personal|Gherkin,London.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Gherkin,London.secret|Gherkin,London.secret]]"
+dv_is_same_as:
+  - "[[WD~The_Gherkin]]"
+  - "[[/_Standards/Earth/Geography/Place/Gherkin,London|Gherkin,London]]"
+  - "[[/_public/Earth/Geography/Place/Gherkin,London.public|Gherkin,London.public]]"
+  - "[[/_internal/Earth/Geography/Place/Gherkin,London.internal|Gherkin,London.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Gherkin,London.protect|Gherkin,London.protect]]"
+  - "[[/_private/Earth/Geography/Place/Gherkin,London.private|Gherkin,London.private]]"
+  - "[[/_personal/Earth/Geography/Place/Gherkin,London.personal|Gherkin,London.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Gherkin,London.secret|Gherkin,London.secret]]"
+
 has_time_started: 2004-01-01 
 aliases:
   - Swiss Re Building

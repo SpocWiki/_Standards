@@ -3,9 +3,29 @@ aliases:
   - Creel Committee
   - Committee on Public Information
   - Creel-Commission
+dv_has_:
+  president: "[[Creel,George]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Creel-Commission|Creel-Commission]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/Creel-Commission.public|Creel-Commission.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Creel-Commission.internal|Creel-Commission.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Creel-Commission.protect|Creel-Commission.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/Creel-Commission.private|Creel-Commission.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Creel-Commission.personal|Creel-Commission.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Creel-Commission.secret|Creel-Commission.secret]]"
+dv_has_president: "[[Creel,George]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Creel-Commission|Creel-Commission]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/Creel-Commission.public|Creel-Commission.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Creel-Commission.internal|Creel-Commission.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Creel-Commission.protect|Creel-Commission.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/Creel-Commission.private|Creel-Commission.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Creel-Commission.personal|Creel-Commission.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Creel-Commission.secret|Creel-Commission.secret]]"
 ---
 
-#has_/president :: [[Creel,George]] 
+has_president = `=this.dv_has_president`
 
 
 The[[../../../../../Knowledge/Military.internal/War-Theater/Cognitive-Force/Propaganda.internal]]] was very effective and led to wide-spread anti-German sentiment that continued to [[../../../../_Standards/bio/Society/History/Modern_History/World_War_II|WWII]]. 

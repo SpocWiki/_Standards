@@ -1,42 +1,72 @@
 ---
 aliases:
   - Buren,Martin_van
-  - ''
+  - ""
   - Van_Buren,Martin
   - Van Buren,Martin
 has_id_wikidata: Q11820
 confidential: private
 cssclasses: private note
 draft: true
-expiryDate: ''
-has_Template: '[[Extract~Note~Template]]'
+expiryDate: ""
+has_Template: "[[Extract~Note~Template]]"
 isDeleted: false
 isReadOnly: false
 keywords: Buren,Martin_van
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle: Buren,Martin_van
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
   - Buren,Martin_van
   - Martin Van Buren
-  - ''
+  - ""
 title: Buren,Martin_van
 type: private_note
+dv_has_role: "[[../US_President]]"
+dv_created: 1837-03-04
+dv_cancelled: 1841-03-04
+dv_has_:
+  time_:
+    started: 1782-12-05T00:00:00.000+00:53
+    stopped: 1862-07-24T00:00:00.000+00:53
+dv_is_member_of:
+  - "[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]"
+  - "[[Free Soil Party]]"
+  - "[[Democratic-Republican Party]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin|Van_Buren,Martin]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.public|Van_Buren,Martin.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.internal|Van_Buren,Martin.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.protect|Van_Buren,Martin.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.private|Van_Buren,Martin.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.personal|Van_Buren,Martin.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.secret|Van_Buren,Martin.secret]]"
+dv_has_time_started: 1782-12-05
+dv_has_time_stopped: 1862-07-24
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin|Van_Buren,Martin]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.public|Van_Buren,Martin.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.internal|Van_Buren,Martin.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.protect|Van_Buren,Martin.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.private|Van_Buren,Martin.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.personal|Van_Buren,Martin.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.secret|Van_Buren,Martin.secret]]"
 ---
 
 # [[Van_Buren,Martin]] 
 
 
-#has_/time_/started :: 1782-12-05
-#has_/time_/stopped  :: 1862-07-24
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
 [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]] ] 
 [is_member_of :: [[Free Soil Party]] ] 
 [is_member_of :: [[Democratic-Republican Party]] ] 
 
--   [has_role :: [[../US_President]] ] [created:: 1837-03-04]  [cancelled:: 1841-03-04]  
+-   [has_role :: [[../US_President]] ] [created:: 1837-03-04]cancelled = `=this.dv_cancelled`
 
 ## #has_/text_of_/abstract 
 

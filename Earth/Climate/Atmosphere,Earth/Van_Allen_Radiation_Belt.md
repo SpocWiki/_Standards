@@ -7,6 +7,25 @@ time_of_discovery_or_invention: 1958-01-01T00:00:00Z
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Allen%20Belts.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Allen%20radiation%20belt.svg
 Commons_category: Van Allen radiation belts
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Van_Allen_radiation_belt,188533]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt|Van_Allen_Radiation_Belt]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.public|Van_Allen_Radiation_Belt.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.internal|Van_Allen_Radiation_Belt.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.protect|Van_Allen_Radiation_Belt.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.private|Van_Allen_Radiation_Belt.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.personal|Van_Allen_Radiation_Belt.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.secret|Van_Allen_Radiation_Belt.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Van_Allen_radiation_belt,188533]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt|Van_Allen_Radiation_Belt]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.public|Van_Allen_Radiation_Belt.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.internal|Van_Allen_Radiation_Belt.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.protect|Van_Allen_Radiation_Belt.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.private|Van_Allen_Radiation_Belt.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.personal|Van_Allen_Radiation_Belt.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.secret|Van_Allen_Radiation_Belt.secret]]"
 ---
 
 # [[Van_Allen_Radiation_Belt]] 

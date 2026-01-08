@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Economic_Cooperation_Organization,225950|WD~Economic_Cooperation_Organization,225950]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization|Economic_Cooperation_Organization]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.public|Economic_Cooperation_Organization.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.internal|Economic_Cooperation_Organization.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.protect|Economic_Cooperation_Organization.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.private|Economic_Cooperation_Organization.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.personal|Economic_Cooperation_Organization.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.secret|Economic_Cooperation_Organization.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Economic_Cooperation_Organization,225950|WD~Economic_Cooperation_Organization,225950]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization|Economic_Cooperation_Organization]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.public|Economic_Cooperation_Organization.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.internal|Economic_Cooperation_Organization.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.protect|Economic_Cooperation_Organization.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.private|Economic_Cooperation_Organization.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.personal|Economic_Cooperation_Organization.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Economic_Cooperation_Organization.secret|Economic_Cooperation_Organization.secret]]"
+
 has_time_started: 1985-01-01 
 aliases:
   - Economic Cooperation Organization

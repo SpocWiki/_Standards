@@ -57,7 +57,7 @@ UNII: M5LL84MZ2W
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide]]
+Group::[[../Actinide]]
 
 [#has_/name_/en::Curium]
 [#has_/name_/de::Curium]
@@ -66,7 +66,7 @@ UNII: M5LL84MZ2W
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::18.28]
 [Unknown2::0]
-[#has_/radius_/nm::6.02]
+[#has_/radius_/nano_/m::6.02]
 [Electronegative::1.3]
 [Density::13.511]
 [#has_/value_for_/temperature_/melt_/c ::1340]

@@ -4,32 +4,32 @@ aliases:
   - Beaufort Sea
 has_id_wikidata: Q131274
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Banks_Island,200226]]'
-  - '[[_Standards/WikiData/WD~Prince_Patrick_Island,213146]]'
+  - "[[_Standards/WikiData/WD~Banks_Island,200226]]"
+  - "[[_Standards/WikiData/WD~Prince_Patrick_Island,213146]]"
   - "[[_Standards/WikiData/WD~M'Clure_Strait,1135336]]"
-  - '[[_Standards/WikiData/WD~Point_Barrow,1343019]]'
+  - "[[_Standards/WikiData/WD~Point_Barrow,1343019]]"
 inflows:
-  - '[[_Standards/WikiData/WD~Anderson_River,491660]]'
-  - '[[_Standards/WikiData/WD~Colville_River,1113020]]'
-  - '[[_Standards/WikiData/WD~Firth_River,1419623]]'
-  - '[[_Standards/WikiData/WD~Sagavanirktok_River,1569192]]'
-  - '[[_Standards/WikiData/WD~Kongakut_River,3198650]]'
-  - '[[_Standards/WikiData/WD~Kuparuk_River,3200508]]'
-  - '[[_Standards/WikiData/WD~Clarence_River,5126724]]'
-  - '[[_Standards/WikiData/WD~Mackenzie_River,3411]]'
-described_by_source: '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+  - "[[_Standards/WikiData/WD~Anderson_River,491660]]"
+  - "[[_Standards/WikiData/WD~Colville_River,1113020]]"
+  - "[[_Standards/WikiData/WD~Firth_River,1419623]]"
+  - "[[_Standards/WikiData/WD~Sagavanirktok_River,1569192]]"
+  - "[[_Standards/WikiData/WD~Kongakut_River,3198650]]"
+  - "[[_Standards/WikiData/WD~Kuparuk_River,3200508]]"
+  - "[[_Standards/WikiData/WD~Clarence_River,5126724]]"
+  - "[[_Standards/WikiData/WD~Mackenzie_River,3411]]"
+described_by_source: "[[_Standards/WikiData/WD~Q35541239,35541239]]"
 coordinate_location: Point(-137.0 72.0)
-part_of: '[[_Standards/WikiData/WD~Arctic_Ocean,788]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Alaska,797]]'
-named_after: '[[_Standards/WikiData/WD~Francis_Beaufort,21186]]'
+part_of: "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Alaska,797]]"
+named_after: "[[_Standards/WikiData/WD~Francis_Beaufort,21186]]"
 basin_country:
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
 country:
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
 elevation_above_sea_level: 0
-instance_of: '[[_Standards/WikiData/WD~sea,165]]'
+instance_of: "[[_Standards/WikiData/WD~sea,165]]"
 area: 178000
 vertical_depth:
   - 1004
@@ -42,7 +42,26 @@ bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/BeaufortSea
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Beaufortzee.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wfm%20herschell%20island%20location.jpg
 Commons_category: Beaufort Sea
-P8189: 987007282406205171
+P8189: 987007282406205200
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Beaufort_Sea,131274|WD~Beaufort_Sea,131274]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Arctic/Beaufort_Sea|Beaufort_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.public|Beaufort_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.internal|Beaufort_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.protect|Beaufort_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.private|Beaufort_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.personal|Beaufort_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.secret|Beaufort_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Beaufort_Sea,131274|WD~Beaufort_Sea,131274]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Arctic/Beaufort_Sea|Beaufort_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.public|Beaufort_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.internal|Beaufort_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.protect|Beaufort_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.private|Beaufort_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.personal|Beaufort_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Arctic/Beaufort_Sea.secret|Beaufort_Sea.secret]]"
 ---
 
 # [[Beaufort_Sea]] 

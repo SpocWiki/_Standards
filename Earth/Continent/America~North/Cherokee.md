@@ -30,6 +30,25 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Inman%20-%20Sequoyah%20-%20Google%20Art%20Project.jpg
 U_S_National_Archives_Identifier: "10637180"
 P8189: "987007285056005171"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Cherokee,105405|WD~Cherokee,105405]]"
+    - "[[/_Standards/Earth/Continent/America~North/Cherokee|Cherokee]]"
+    - "[[/_public/Earth/Continent/America~North/Cherokee.public|Cherokee.public]]"
+    - "[[/_internal/Earth/Continent/America~North/Cherokee.internal|Cherokee.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/Cherokee.protect|Cherokee.protect]]"
+    - "[[/_private/Earth/Continent/America~North/Cherokee.private|Cherokee.private]]"
+    - "[[/_personal/Earth/Continent/America~North/Cherokee.personal|Cherokee.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/Cherokee.secret|Cherokee.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Cherokee,105405|WD~Cherokee,105405]]"
+  - "[[/_Standards/Earth/Continent/America~North/Cherokee|Cherokee]]"
+  - "[[/_public/Earth/Continent/America~North/Cherokee.public|Cherokee.public]]"
+  - "[[/_internal/Earth/Continent/America~North/Cherokee.internal|Cherokee.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/Cherokee.protect|Cherokee.protect]]"
+  - "[[/_private/Earth/Continent/America~North/Cherokee.private|Cherokee.private]]"
+  - "[[/_personal/Earth/Continent/America~North/Cherokee.personal|Cherokee.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/Cherokee.secret|Cherokee.secret]]"
 ---
 
 # [[Cherokee]] 

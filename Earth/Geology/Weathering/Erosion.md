@@ -19,6 +19,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Eroding%20rill%20in%20
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001346
 U_S_National_Archives_Identifier: "10637801"
 Krugosvet_article: Earth_sciences/geologiya/EROZIYA.html
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Erosion,80026|WD~Erosion,80026]]"
+    - "[[/_Standards/Earth/Geology/Weathering/Erosion|Erosion]]"
+    - "[[/_public/Earth/Geology/Weathering/Erosion.public|Erosion.public]]"
+    - "[[/_internal/Earth/Geology/Weathering/Erosion.internal|Erosion.internal]]"
+    - "[[/_protect/Earth/Geology/Weathering/Erosion.protect|Erosion.protect]]"
+    - "[[/_private/Earth/Geology/Weathering/Erosion.private|Erosion.private]]"
+    - "[[/_personal/Earth/Geology/Weathering/Erosion.personal|Erosion.personal]]"
+    - "[[/_secret/Earth/Geology/Weathering/Erosion.secret|Erosion.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Erosion,80026|WD~Erosion,80026]]"
+  - "[[/_Standards/Earth/Geology/Weathering/Erosion|Erosion]]"
+  - "[[/_public/Earth/Geology/Weathering/Erosion.public|Erosion.public]]"
+  - "[[/_internal/Earth/Geology/Weathering/Erosion.internal|Erosion.internal]]"
+  - "[[/_protect/Earth/Geology/Weathering/Erosion.protect|Erosion.protect]]"
+  - "[[/_private/Earth/Geology/Weathering/Erosion.private|Erosion.private]]"
+  - "[[/_personal/Earth/Geology/Weathering/Erosion.personal|Erosion.personal]]"
+  - "[[/_secret/Earth/Geology/Weathering/Erosion.secret|Erosion.secret]]"
 ---
 
 # [[Erosion]] 

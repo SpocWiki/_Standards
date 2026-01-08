@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q159954
 subclass_of:
   - "[[_Standards/WikiData/WD~depression,190429]]"
@@ -13,12 +13,33 @@ P8189: "987007293785105171"
 Commons_category: Calderas
 GeoNames_feature_code: T.CLDA
 OpenStreetMap_tag_or_key: Tag:geological=volcanic_caldera_rim
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Caldera,159954|WD~Caldera,159954]]"
+    - "[[/_Standards/Earth/Geology/Landform/Volcano/Caldera|Caldera]]"
+    - "[[/_public/Earth/Geology/Landform/Volcano/Caldera.public|Caldera.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Volcano/Caldera.internal|Caldera.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Volcano/Caldera.protect|Caldera.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Volcano/Caldera.private|Caldera.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Volcano/Caldera.personal|Caldera.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Volcano/Caldera.secret|Caldera.secret]]"
+  similar_to: "[[Volcanic_Crater]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Caldera,159954|WD~Caldera,159954]]"
+  - "[[/_Standards/Earth/Geology/Landform/Volcano/Caldera|Caldera]]"
+  - "[[/_public/Earth/Geology/Landform/Volcano/Caldera.public|Caldera.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Volcano/Caldera.internal|Caldera.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Volcano/Caldera.protect|Caldera.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Volcano/Caldera.private|Caldera.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Volcano/Caldera.personal|Caldera.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Volcano/Caldera.secret|Caldera.secret]]"
+dv_is_similar_to: "[[Volcanic_Crater]]"
 ---
 
 # [[Caldera]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Caldera,159954|WD~Caldera,159954]] 
-#is_/similar_to :: [[Landform/Volcano/Volcanic_Crater|Volcanic_Crater]] 
+is_similar_to = `=this.dv_is_similar_to`
 
 ## #has_/text_of_/abstract 
 

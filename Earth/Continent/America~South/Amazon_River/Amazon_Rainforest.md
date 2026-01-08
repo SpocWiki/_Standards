@@ -26,6 +26,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20Manaus%20fore
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Amazon%20Rainforest%20Brazil%20Google%20Earth%20Timelapse%201984-2018.webm
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Amazonia%20Wikivoyage%20Banner.jpg
 Commons_category: Amazon Rainforest
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Amazon_rainforest,177567|WD~Amazon_rainforest,177567]]"
+    - "[[/_Standards/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest|Amazon_Rainforest]]"
+    - "[[/_public/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.public|Amazon_Rainforest.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.internal|Amazon_Rainforest.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.protect|Amazon_Rainforest.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.private|Amazon_Rainforest.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.personal|Amazon_Rainforest.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.secret|Amazon_Rainforest.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Amazon_rainforest,177567|WD~Amazon_rainforest,177567]]"
+  - "[[/_Standards/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest|Amazon_Rainforest]]"
+  - "[[/_public/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.public|Amazon_Rainforest.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.internal|Amazon_Rainforest.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.protect|Amazon_Rainforest.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.private|Amazon_Rainforest.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.personal|Amazon_Rainforest.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.secret|Amazon_Rainforest.secret]]"
 ---
 
 # [[Amazon_Rainforest]] 

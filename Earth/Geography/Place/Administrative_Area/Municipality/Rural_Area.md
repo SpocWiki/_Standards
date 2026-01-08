@@ -22,6 +22,25 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Diksmuide%2C%20I
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000772
 UMLS_CUI: C0178837
 IMDb_keyword: countryside
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Rural_area,175185]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area|Rural_Area]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.public|Rural_Area.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.internal|Rural_Area.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.protect|Rural_Area.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.private|Rural_Area.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.personal|Rural_Area.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.secret|Rural_Area.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Rural_area,175185]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area|Rural_Area]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.public|Rural_Area.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.internal|Rural_Area.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.protect|Rural_Area.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.private|Rural_Area.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.personal|Rural_Area.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.secret|Rural_Area.secret]]"
 ---
 
 # [[Rural_Area]] 

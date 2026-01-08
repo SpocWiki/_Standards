@@ -62,7 +62,7 @@ UNII: 5H0DOZ21UJ
 #is_/same_as :: [[../../../WikiData/WD~Lutetium,1857]] 
 
 [GroupName::Group-03-Scandium]
-[Group:[[../Group-03-Scandium]]
+Group::[[../Group-03-Scandium]]
 
 [#has_/name_/en::Lutetium]
 [#has_/name_/de::Lutetium]
@@ -71,7 +71,7 @@ UNII: 5H0DOZ21UJ
 [AtomRadius::2.25]
 [Atom-Vol-ccm-mol::17.78]
 [Unknown2::1.56]
-[#has_/radius_/nm::5.43]
+[#has_/radius_/nano_/m::5.43]
 [Electronegative::1.3]
 [Density::9.84]
 [#has_/value_for_/temperature_/melt_/c ::1656]

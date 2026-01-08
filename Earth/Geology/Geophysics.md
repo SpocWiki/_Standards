@@ -33,6 +33,25 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20gravity.png
 Commons_category: Geophysics
 Krugosvet_article: nauka_i_tehnika/fizika/GEOFIZIKA.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Geophysics,46255|WD~Geophysics,46255]]"
+    - "[[/_Standards/Earth/Geology/Geophysics|Geophysics]]"
+    - "[[/_public/Earth/Geology/Geophysics.public|Geophysics.public]]"
+    - "[[/_internal/Earth/Geology/Geophysics.internal|Geophysics.internal]]"
+    - "[[/_protect/Earth/Geology/Geophysics.protect|Geophysics.protect]]"
+    - "[[/_private/Earth/Geology/Geophysics.private|Geophysics.private]]"
+    - "[[/_personal/Earth/Geology/Geophysics.personal|Geophysics.personal]]"
+    - "[[/_secret/Earth/Geology/Geophysics.secret|Geophysics.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Geophysics,46255|WD~Geophysics,46255]]"
+  - "[[/_Standards/Earth/Geology/Geophysics|Geophysics]]"
+  - "[[/_public/Earth/Geology/Geophysics.public|Geophysics.public]]"
+  - "[[/_internal/Earth/Geology/Geophysics.internal|Geophysics.internal]]"
+  - "[[/_protect/Earth/Geology/Geophysics.protect|Geophysics.protect]]"
+  - "[[/_private/Earth/Geology/Geophysics.private|Geophysics.private]]"
+  - "[[/_personal/Earth/Geology/Geophysics.personal|Geophysics.personal]]"
+  - "[[/_secret/Earth/Geology/Geophysics.secret|Geophysics.secret]]"
 ---
 
 # [[Geophysics]] 

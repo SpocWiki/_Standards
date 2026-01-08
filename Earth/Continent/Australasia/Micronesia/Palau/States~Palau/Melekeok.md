@@ -5,15 +5,15 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 7.35
   - 134.4667
@@ -22,7 +22,7 @@ mapzoom:
   - 7
   - 12
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 35964
 tags:
@@ -32,18 +32,41 @@ title: Melekeok
 type:
   - City
   - geo-Region
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 134.4667
+dv_has_place_latitude: 7.35
+dv_has_name_: Melekeok
+dv_Country: "[[../../../../Micronesia/Palau]]]"
+dv_Unknown: 32
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok|Melekeok]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.public|Melekeok.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.internal|Melekeok.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.protect|Melekeok.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.private|Melekeok.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.personal|Melekeok.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.secret|Melekeok.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok|Melekeok]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.public|Melekeok.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.internal|Melekeok.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.protect|Melekeok.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.private|Melekeok.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.personal|Melekeok.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Melekeok.secret|Melekeok.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../Geography/Place]] 
-[has_place_longitude::134.4667] 
-[has_place_latitude::7.35] 
-[name::Melekeok] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 has_place_province::  
-Country ::[[../../../../Micronesia/Palau]]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
 # Melekeok
 

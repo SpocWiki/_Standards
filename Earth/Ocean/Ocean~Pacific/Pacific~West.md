@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West|Pacific~West]]"
+    - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West.public|Pacific~West.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West.internal|Pacific~West.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West.protect|Pacific~West.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~West.private|Pacific~West.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West.personal|Pacific~West.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West.secret|Pacific~West.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West|Pacific~West]]"
+  - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West.public|Pacific~West.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West.internal|Pacific~West.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West.protect|Pacific~West.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~West.private|Pacific~West.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West.personal|Pacific~West.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West.secret|Pacific~West.secret]]"
+---
 # [[Pacific~West]] 
 
 The Western Part of the Pacific extends from East Asia 

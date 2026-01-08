@@ -13,101 +13,187 @@ confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate: ''
+expiryDate: ""
 icon: flag-sm
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - it-SM
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 43.93
   - 12.45
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27020
 tags:
   - geo/Country
 title: San Marino
 type: Country
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SAN MARINO
+dv_Telephone: 378
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: San Marino
+dv_has_name_en:
+  - San Marino
+  - San Marino
+dv_has_name_es: San Marino
+dv_has_name_fr: Saint-Marin
+dv_has_name_cn: 圣马力诺
+dv_has_name_ar: سان مارينو
+dv_has_name_ru: Сан-Марино
+dv_CLDR_display_name: San Marino
+dv_UNTERM_English: San Marino
+dv_UNTERM_English_Formal: the Republic of San Marino
+dv_UNTERM_Spanish_Formal: la República de San Marino
+dv_UNTERM_Spanish: San Marino
+dv_UNTERM_French: Saint-Marin [masc.]
+dv_UNTERM_Arabic: سان مارينو
+dv_UNTERM_Arabic_Formal: جمهورية سان مارينو
+dv_UNTERM_Chinese: 圣马力诺
+dv_UNTERM_Chinese_Formal: 圣马力诺共和国
+dv_UNTERM_French_Formal: la République de Saint-Marin
+dv_UNTERM_Russian: Сан-Марино
+dv_UNTERM_Russian_Formal: Республика Сан-Марино
+dv_Region_Name: "[[../../Europe]]"
+dv_Intermediate_Region_Name: "[[San_Marino]]"
+dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region: 150
+dv_Sub-region: 39
+dv_Geoname-ID: 3168068
+dv_FIPS: SM
+dv_FIFA: SMR
+dv_IOC: SMR
+dv_MARC: sm
+dv_GAUL: 213
+dv_ITU: SMR
+dv_DS: RSM
+dv_TLD: .sm
+dv_EDGAR: S8
+dv_M49: 674
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 674
+dv_ISO2: SM
+dv_ISO3: SMR
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~San_Marino,238|WD~San_Marino,238]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino|San_Marino]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/San_Marino.public|San_Marino.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal|San_Marino.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect|San_Marino.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/San_Marino.private|San_Marino.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-San_Marino
+dv_has_name_de: San Marino
+dv_Area-Total: 61
+dv_Area-Land: 60
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: RSM
+dv_Capital: "[[San_Marino]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 12.45
+dv_has_place_latitude: 43.93
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~San_Marino,238|WD~San_Marino,238]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino|San_Marino]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/San_Marino.public|San_Marino.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal|San_Marino.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect|San_Marino.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/San_Marino.private|San_Marino.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-San_Marino
 ---
 
 # [[San_Marino]] 
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SAN MARINO ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 378 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: San Marino ]
-[	name-en	 :: San Marino ]
-[	name-es	 :: San Marino ]
-[	name-fr	 :: Saint-Marin ]
-[	name-cn	 :: 圣马力诺 ]
-[	name-ar	 :: سان مارينو ]
-[	name-ru	 :: Сан-Марино ]
+name = `=this.dv_name`
+[	has_name_en	 :: San Marino ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: San Marino ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: San Marino ]
-[	UNTERM_English_Formal	 :: the Republic of San Marino ]
-[	UNTERM_Spanish_Formal	 :: la República de San Marino ]
-[	UNTERM_Spanish	 :: San Marino ]
-[	UNTERM_French	 :: Saint-Marin [masc.] ]
-[	UNTERM_Arabic	 :: سان مارينو ]
-[	UNTERM_Arabic_Formal	 :: جمهورية سان مارينو ]
-[	UNTERM_Chinese	 :: 圣马力诺 ]
-[	UNTERM_Chinese_Formal	 :: 圣马力诺共和国 ]
-[	UNTERM_French_Formal	 :: la République de Saint-Marin ]
-[	UNTERM_Russian	 :: Сан-Марино ]
-[	UNTERM_Russian_Formal	 :: Республика Сан-Марино ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Southern Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 39 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3168068 ]
-[	FIPS	 :: SM ]
-[	FIFA	 :: SMR ]
-[	IOC	 :: SMR ]
-[	MARC	 :: sm ]
-[	GAUL	 :: 213 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
 [	WMO	 ::  ]
-[	ITU	 :: SMR ]
-[	DS	 :: RSM ]
-[	TLD	 :: .sm ]
-[	EDGAR	 :: S8 ]
-[	M49	 :: 674 ]
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 674 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::SM]
-[ISO3::SMR] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~San_Marino,238|WD~San_Marino,238]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-San_Marino 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[San_Marino/ReadMe]] 
 
@@ -123,23 +209,23 @@ geojsonFolder: ./San_Marino/
 markerFolder: ./San_Marino//
 ```
 
-[name-en::San Marino]
-[name-de::San Marino]
+[has_name_en::San Marino]
+has_name_de = `=this.dv_has_name_de`
 ![[San_Marino/Coat_of_arms_of_San_Marino.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3]]
 ![[San_Marino/Flag_of_San_Marino.svg|350]]
 
-[Area-Total::61]
-[Area-Land::60]
-has_place_continent:: [[Europe]]  
-[VehicleCode::RSM]
-Capital :: [[San_Marino]]  
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::12.45]
-[has_place_latitude::43.93]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

@@ -26,6 +26,25 @@ model_item:
 Dewey_Decimal_Classification: "322"
 EntitySchema_for_this_class: E32
 Commons_category: Sovereign states
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Sovereign_state,3624078|WD~Sovereign_state,3624078]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Sovereign_State|Sovereign_State]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.public|Sovereign_State.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.internal|Sovereign_State.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.protect|Sovereign_State.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.private|Sovereign_State.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.personal|Sovereign_State.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.secret|Sovereign_State.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Sovereign_state,3624078|WD~Sovereign_state,3624078]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Sovereign_State|Sovereign_State]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.public|Sovereign_State.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.internal|Sovereign_State.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.protect|Sovereign_State.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.private|Sovereign_State.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.personal|Sovereign_State.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.secret|Sovereign_State.secret]]"
 ---
 
 # [[Sovereign_State]] 

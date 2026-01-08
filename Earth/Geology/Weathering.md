@@ -4,24 +4,24 @@ aliases:
   - Weathering
 has_id_wikidata: Q179177
 has_effect:
-  - '[[_Standards/WikiData/WD~erosion,80026]]'
-  - '[[_Standards/WikiData/WD~smoothness,104177302]]'
-  - '[[_Standards/WikiData/WD~limestone,23757]]'
-influenced_by: '[[_Standards/WikiData/WD~ocean_acidification,855711]]'
+  - "[[_Standards/WikiData/WD~erosion,80026]]"
+  - "[[_Standards/WikiData/WD~smoothness,104177302]]"
+  - "[[_Standards/WikiData/WD~limestone,23757]]"
+influenced_by: "[[_Standards/WikiData/WD~ocean_acidification,855711]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~transformation,2449090]]'
-  - '[[_Standards/WikiData/WD~destruction,17781833]]'
-  - '[[_Standards/WikiData/WD~pedologic_process,63382959]]'
+  - "[[_Standards/WikiData/WD~transformation,2449090]]"
+  - "[[_Standards/WikiData/WD~destruction,17781833]]"
+  - "[[_Standards/WikiData/WD~pedologic_process,63382959]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 destroyed:
-  - '[[_Standards/WikiData/WD~artificial_object,16686448]]'
-  - '[[_Standards/WikiData/WD~rock,8063]]'
-  - '[[_Standards/WikiData/WD~soil,36133]]'
+  - "[[_Standards/WikiData/WD~artificial_object,16686448]]"
+  - "[[_Standards/WikiData/WD~rock,8063]]"
+  - "[[_Standards/WikiData/WD~soil,36133]]"
 applies_to_part:
-  - '[[_Standards/WikiData/WD~water,283]]'
-  - '[[_Standards/WikiData/WD~calcium_carbonate,23767]]'
+  - "[[_Standards/WikiData/WD~water,283]]"
+  - "[[_Standards/WikiData/WD~calcium_carbonate,23767]]"
 Dewey_Decimal_Classification:
   - 620.11223
   - 551.302
@@ -29,11 +29,32 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/KharazaArch.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%9B%E0%A8%BF%E0%A9%B1%E0%A8%9C%E0%A8%A3.wav
 Commons_gallery: Weathering
 Commons_category: Weathering
+dv_is_:
+  different_from: "[[Weathering/Erosion|Erosion]]"
+  same_as:
+    - "[[../../WikiData/WD~Weathering,179177|WD~Weathering,179177]]"
+    - "[[/_Standards/Earth/Geology/Weathering|Weathering]]"
+    - "[[/_public/Earth/Geology/Weathering.public|Weathering.public]]"
+    - "[[/_internal/Earth/Geology/Weathering.internal|Weathering.internal]]"
+    - "[[/_protect/Earth/Geology/Weathering.protect|Weathering.protect]]"
+    - "[[/_private/Earth/Geology/Weathering.private|Weathering.private]]"
+    - "[[/_personal/Earth/Geology/Weathering.personal|Weathering.personal]]"
+    - "[[/_secret/Earth/Geology/Weathering.secret|Weathering.secret]]"
+dv_is_different_from: "[[Weathering/Erosion|Erosion]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Weathering,179177|WD~Weathering,179177]]"
+  - "[[/_Standards/Earth/Geology/Weathering|Weathering]]"
+  - "[[/_public/Earth/Geology/Weathering.public|Weathering.public]]"
+  - "[[/_internal/Earth/Geology/Weathering.internal|Weathering.internal]]"
+  - "[[/_protect/Earth/Geology/Weathering.protect|Weathering.protect]]"
+  - "[[/_private/Earth/Geology/Weathering.private|Weathering.private]]"
+  - "[[/_personal/Earth/Geology/Weathering.personal|Weathering.personal]]"
+  - "[[/_secret/Earth/Geology/Weathering.secret|Weathering.secret]]"
 ---
 
 # [[Weathering]] 
 
-#is_/different_from :: [[Weathering/Erosion|Erosion]] 
+is_different_from = `=this.dv_is_different_from`
 #is_/same_as :: [[../../WikiData/WD~Weathering,179177|WD~Weathering,179177]]  
 
 ## #has_/text_of_/abstract 

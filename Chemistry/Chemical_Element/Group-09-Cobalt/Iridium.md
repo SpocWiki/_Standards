@@ -64,7 +64,7 @@ ZVG_number: 8460
 #is_/same_as :: [[../../../WikiData/WD~Iridium,877]] 
 
 [GroupName::Group-09-Cobalt]
-[Group:[[../Group-09-Cobalt]]
+Group::[[../Group-09-Cobalt]]
 
 
 [#has_/name_/en::Iridium]
@@ -73,7 +73,7 @@ ZVG_number: 8460
 [AtomRadius::1.87]
 [Atom-Vol-ccm-mol::8.54]
 [Unknown2::1.27]
-[#has_/radius_/nm::9.1]
+[#has_/radius_/nano_/m::9.1]
 [Electronegative::2.2]
 [Density::22.5]
 [#has_/value_for_/temperature_/melt_/c ::2410]

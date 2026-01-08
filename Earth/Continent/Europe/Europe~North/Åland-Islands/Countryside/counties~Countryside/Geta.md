@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 60.36
   - 19.85
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Geta
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta|Geta]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.public|Geta.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.internal|Geta.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.protect|Geta.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.private|Geta.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.personal|Geta.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.secret|Geta.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta|Geta]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.public|Geta.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.internal|Geta.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.protect|Geta.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.private|Geta.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.personal|Geta.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Geta.secret|Geta.secret]]"
 ---
 
 # Geta

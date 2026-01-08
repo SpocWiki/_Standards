@@ -1,4 +1,26 @@
-﻿---
+---
+dv_"Building", "UnitedStatesCapitol: 8bbsh"
+dv_is_:
+  same_as:
+    - "[[wd United_States_Capitol,54109]]"
+    - "[[/_Standards/Earth/Geography/Place/US_Capitol|US_Capitol]]"
+    - "[[/_public/Earth/Geography/Place/US_Capitol.public|US_Capitol.public]]"
+    - "[[/_internal/Earth/Geography/Place/US_Capitol.internal|US_Capitol.internal]]"
+    - "[[/_protect/Earth/Geography/Place/US_Capitol.protect|US_Capitol.protect]]"
+    - "[[/_private/Earth/Geography/Place/US_Capitol.private|US_Capitol.private]]"
+    - "[[/_personal/Earth/Geography/Place/US_Capitol.personal|US_Capitol.personal]]"
+    - "[[/_secret/Earth/Geography/Place/US_Capitol.secret|US_Capitol.secret]]"
+dv_building-unitedstatescapitol: 8bbsh"
+dv_is_same_as:
+  - "[[wd United_States_Capitol,54109]]"
+  - "[[/_Standards/Earth/Geography/Place/US_Capitol|US_Capitol]]"
+  - "[[/_public/Earth/Geography/Place/US_Capitol.public|US_Capitol.public]]"
+  - "[[/_internal/Earth/Geography/Place/US_Capitol.internal|US_Capitol.internal]]"
+  - "[[/_protect/Earth/Geography/Place/US_Capitol.protect|US_Capitol.protect]]"
+  - "[[/_private/Earth/Geography/Place/US_Capitol.private|US_Capitol.private]]"
+  - "[[/_personal/Earth/Geography/Place/US_Capitol.personal|US_Capitol.personal]]"
+  - "[[/_secret/Earth/Geography/Place/US_Capitol.secret|US_Capitol.secret]]"
+
 has_time_started: 1793-09-18 
 aliases:
   - US Capitol
@@ -101,7 +123,7 @@ official_website: https://www.capitol.gov/
 phone_number: +1 202-226-8000
 P8189: 987007287166905171
 Krugosvet_article: arkhitektura/kapitolii-ssha
-Wolfram_Language_entity_code: Entity["Building", "UnitedStatesCapitol::8bbsh"]
+Wolfram_Language_entity_code: Entity"Building", "UnitedStatesCapitol = `=this.dv_"Building", "UnitedStatesCapitol`
 Library_of_Congress_Classification: NA4411
 IMDb_keyword: u.s.-capitol-building
 Commons_category: United States Capitol

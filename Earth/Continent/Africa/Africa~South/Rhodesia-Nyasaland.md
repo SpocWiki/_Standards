@@ -10,6 +10,30 @@ SpocWebEntityId: 76702
 tags:
   - geo/Country
 type: Country
+dv_has_name_en: Rhodesia-Nyasaland
+dv_has_name_de: Rhodesien-Nyasaland
+dv_has_place_continent: "[[../../Africa]]"
+dv_Capital: "[[Zimbabwe/Provinces~Zimbabwe/Harare,Province]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 31.0297
+dv_has_place_latitude: -17.8639
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland|Rhodesia-Nyasaland]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.public|Rhodesia-Nyasaland.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.internal|Rhodesia-Nyasaland.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.protect|Rhodesia-Nyasaland.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.private|Rhodesia-Nyasaland.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.personal|Rhodesia-Nyasaland.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.secret|Rhodesia-Nyasaland.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland|Rhodesia-Nyasaland]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.public|Rhodesia-Nyasaland.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.internal|Rhodesia-Nyasaland.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.protect|Rhodesia-Nyasaland.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.private|Rhodesia-Nyasaland.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.personal|Rhodesia-Nyasaland.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.secret|Rhodesia-Nyasaland.secret]]"
 ---
 
 [ISO2::]
@@ -23,19 +47,19 @@ geojsonFolder: ./Rhodesia-Nyasaland//
 markerFolder: ./Rhodesia-Nyasaland//
 ```
 
-[name-en::Rhodesia-Nyasaland]
-[name-de::Rhodesien-Nyasaland]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Africa]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
-Capital :: [[Zimbabwe/Provinces~Zimbabwe/Harare,Province]]  
+Capital = `=this.dv_Capital`
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::31.0297]
-[has_place_latitude::-17.8639]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

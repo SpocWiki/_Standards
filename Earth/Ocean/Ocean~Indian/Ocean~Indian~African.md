@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~African|Ocean~Indian~African]]"
+    - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.public|Ocean~Indian~African.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.internal|Ocean~Indian~African.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.protect|Ocean~Indian~African.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.private|Ocean~Indian~African.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.personal|Ocean~Indian~African.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.secret|Ocean~Indian~African.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~African|Ocean~Indian~African]]"
+  - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.public|Ocean~Indian~African.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.internal|Ocean~Indian~African.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.protect|Ocean~Indian~African.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.private|Ocean~Indian~African.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.personal|Ocean~Indian~African.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~African.secret|Ocean~Indian~African.secret]]"
+---
 # [[Ocean~Indian~African]] 
 
 ## Edit

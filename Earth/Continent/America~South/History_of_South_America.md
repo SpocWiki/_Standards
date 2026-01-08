@@ -4,13 +4,32 @@ aliases:
   - History_of_South_America
   - History of South America
 has_id_wikidata: Q912852
-subclass_of: '[[_Standards/WikiData/WD~history_of_the_Americas,690256]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351428,42351428]]'
-facet_of: '[[_Standards/WikiData/WD~South_America,18]]'
+subclass_of: "[[_Standards/WikiData/WD~history_of_the_Americas,690256]]"
+instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42351428,42351428]]"
+facet_of: "[[_Standards/WikiData/WD~South_America,18]]"
 Dewey_Decimal_Classification: 980
 Commons_category: History of South America
 image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20laea%20relief%20location%20map.jpg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~History_of_South_America,912852|WD~History_of_South_America,912852]]"
+    - "[[/_Standards/Earth/Continent/America~South/History_of_South_America|History_of_South_America]]"
+    - "[[/_public/Earth/Continent/America~South/History_of_South_America.public|History_of_South_America.public]]"
+    - "[[/_internal/Earth/Continent/America~South/History_of_South_America.internal|History_of_South_America.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/History_of_South_America.protect|History_of_South_America.protect]]"
+    - "[[/_private/Earth/Continent/America~South/History_of_South_America.private|History_of_South_America.private]]"
+    - "[[/_personal/Earth/Continent/America~South/History_of_South_America.personal|History_of_South_America.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/History_of_South_America.secret|History_of_South_America.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~History_of_South_America,912852|WD~History_of_South_America,912852]]"
+  - "[[/_Standards/Earth/Continent/America~South/History_of_South_America|History_of_South_America]]"
+  - "[[/_public/Earth/Continent/America~South/History_of_South_America.public|History_of_South_America.public]]"
+  - "[[/_internal/Earth/Continent/America~South/History_of_South_America.internal|History_of_South_America.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/History_of_South_America.protect|History_of_South_America.protect]]"
+  - "[[/_private/Earth/Continent/America~South/History_of_South_America.private|History_of_South_America.private]]"
+  - "[[/_personal/Earth/Continent/America~South/History_of_South_America.personal|History_of_South_America.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/History_of_South_America.secret|History_of_South_America.secret]]"
 ---
 
 # [[History_of_South_America]] 

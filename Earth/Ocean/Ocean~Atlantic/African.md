@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Atlantic/African|African]]"
+    - "[[/_public/Earth/Ocean/Ocean~Atlantic/African.public|African.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Atlantic/African.internal|African.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Atlantic/African.protect|African.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Atlantic/African.private|African.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Atlantic/African.personal|African.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Atlantic/African.secret|African.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Atlantic/African|African]]"
+  - "[[/_public/Earth/Ocean/Ocean~Atlantic/African.public|African.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Atlantic/African.internal|African.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Atlantic/African.protect|African.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Atlantic/African.private|African.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Atlantic/African.personal|African.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Atlantic/African.secret|African.secret]]"
+---
 # [[African]] 
 
 ## Edit

@@ -68,7 +68,7 @@ ZVG_number: 7760
 #is_/same_as :: [[../../../WikiData/WD~Osmium,751]] 
 
 [GroupName::Group-08-Iron]
-[Group:[[../Group-08-Iron]]
+Group::[[../Group-08-Iron]]
 
 
 [#has_/name_/en::Osmium]
@@ -77,7 +77,7 @@ ZVG_number: 7760
 [AtomRadius::1.92]
 [Atom-Vol-ccm-mol::8.49]
 [Unknown2::1.26]
-[#has_/radius_/nm::8.7]
+[#has_/radius_/nano_/m::8.7]
 [Electronegative::2.2]
 [#has_/value_for_/temperature_/melt_/c ::3045]
 [#has_/value_for_/temperature_/boil_/c ::5027]

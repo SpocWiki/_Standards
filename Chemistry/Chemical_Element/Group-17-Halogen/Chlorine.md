@@ -74,7 +74,7 @@ Unicode_character: 氯
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
-[Group:[[../Group-17-Halogen]]
+Group::[[../Group-17-Halogen]]
 
 
 [#has_/name_/en::Chlorine] 
@@ -83,7 +83,7 @@ Unicode_character: 氯
 [AtomRadius::0.97] 
 [Atom-Vol-ccm-mol::22.7]  
 [Unknown2::0.99] 
-[#has_/radius_/nm::12.967] 
+[#has_/radius_/nano_/m::12.967] 
 [Electronegative::3.2]  
 [Density::3.17] 
 [#has_/value_for_/temperature_/melt_/c ::-100.98] 

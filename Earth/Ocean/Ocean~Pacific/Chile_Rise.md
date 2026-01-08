@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q603531
 instance_of: "[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]"
 located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_Pacific_Ocean,12355425]]"
@@ -9,6 +9,25 @@ bathymetry_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Chile%20Rise.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chile%20Rise.jpg
 coordinate_location: Point(-94.0 -43.0)
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Chile_Rise,603531|WD~Chile_Rise,603531]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Chile_Rise|Chile_Rise]]"
+    - "[[/_public/Earth/Ocean/Ocean~Pacific/Chile_Rise.public|Chile_Rise.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Pacific/Chile_Rise.internal|Chile_Rise.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Pacific/Chile_Rise.protect|Chile_Rise.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Pacific/Chile_Rise.private|Chile_Rise.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Pacific/Chile_Rise.personal|Chile_Rise.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Pacific/Chile_Rise.secret|Chile_Rise.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Chile_Rise,603531|WD~Chile_Rise,603531]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Chile_Rise|Chile_Rise]]"
+  - "[[/_public/Earth/Ocean/Ocean~Pacific/Chile_Rise.public|Chile_Rise.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Pacific/Chile_Rise.internal|Chile_Rise.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Pacific/Chile_Rise.protect|Chile_Rise.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Pacific/Chile_Rise.private|Chile_Rise.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Pacific/Chile_Rise.personal|Chile_Rise.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Pacific/Chile_Rise.secret|Chile_Rise.secret]]"
 ---
 
 # [[Chile_Rise]] 

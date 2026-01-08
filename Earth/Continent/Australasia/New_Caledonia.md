@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/New_Caledonia|New_Caledonia]]"
+    - "[[/_public/Earth/Continent/Australasia/New_Caledonia.public|New_Caledonia.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/New_Caledonia.internal|New_Caledonia.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/New_Caledonia.protect|New_Caledonia.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/New_Caledonia.private|New_Caledonia.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/New_Caledonia.personal|New_Caledonia.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/New_Caledonia.secret|New_Caledonia.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/New_Caledonia|New_Caledonia]]"
+  - "[[/_public/Earth/Continent/Australasia/New_Caledonia.public|New_Caledonia.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/New_Caledonia.internal|New_Caledonia.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/New_Caledonia.protect|New_Caledonia.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/New_Caledonia.private|New_Caledonia.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/New_Caledonia.personal|New_Caledonia.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/New_Caledonia.secret|New_Caledonia.secret]]"
+---
 # [[New_Caledonia]] 
 
 ## Edit

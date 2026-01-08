@@ -115,7 +115,7 @@ ZVG_number: 7570
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+Group::[[../Lanthanide]]
 
 
 
@@ -125,7 +125,7 @@ ZVG_number: 7570
 [AtomRadius::2.74]
 [Atom-Vol-ccm-mol::20.73]
 [Unknown2::1.69]
-[#has_/radius_/nm::5.58]
+[#has_/radius_/nano_/m::5.58]
 [Electronegative::1.1]
 [Density::6.7]
 [#has_/value_for_/temperature_/melt_/c ::920]

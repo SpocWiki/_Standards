@@ -1,5 +1,25 @@
-﻿---
-location: [ 163.0 , 72.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~East_Siberian_Sea,163434|WD~East_Siberian_Sea,163434]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea|East_Siberian_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.public|East_Siberian_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.internal|East_Siberian_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.protect|East_Siberian_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.private|East_Siberian_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.personal|East_Siberian_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.secret|East_Siberian_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~East_Siberian_Sea,163434|WD~East_Siberian_Sea,163434]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea|East_Siberian_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.public|East_Siberian_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.internal|East_Siberian_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.protect|East_Siberian_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.private|East_Siberian_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.personal|East_Siberian_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Arctic/East_Siberian_Sea.secret|East_Siberian_Sea.secret]]"
+
+location: [ 72.0, 163 ] 
 aliases:
   - East Siberian Sea
   - East_Siberian_Sea
@@ -46,6 +66,20 @@ coordinate_location: Point(163.0 72.0)
 # [[East_Siberian_Sea]]
 
 #is_/same_as :: [[../../../WikiData/WD~East_Siberian_Sea,163434|WD~East_Siberian_Sea,163434]]
+
+## #has_/map  
+
+```leaflet
+id: East_Siberian_Sea
+zoomFeatures: false 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./East_Siberian_Sea//
+markerFolder: ./East_Siberian_Sea/
+coordinates: [[East_Siberian_Sea]] 
+markerFile: [[East_Siberian_Sea]] 
+defaultZoom: 3 
+```
 
 ## #has_/text_of_/abstract 
 

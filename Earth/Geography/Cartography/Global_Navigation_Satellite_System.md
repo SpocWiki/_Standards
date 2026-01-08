@@ -15,6 +15,25 @@ short_name:
   - GNSS
   - GNSS
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE%20%E0%A6%89%E0%A6%AA%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95%20%E0%A6%A6%E0%A6%BF%E0%A6%95%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AF%E0%A6%BC.wav
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Global_navigation_satellite_system,179435|WD~Global_navigation_satellite_system,179435]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Global_Navigation_Satellite_System|Global_Navigation_Satellite_System]]"
+    - "[[/_public/Earth/Geography/Cartography/Global_Navigation_Satellite_System.public|Global_Navigation_Satellite_System.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Global_Navigation_Satellite_System.internal|Global_Navigation_Satellite_System.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Global_Navigation_Satellite_System.protect|Global_Navigation_Satellite_System.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Global_Navigation_Satellite_System.private|Global_Navigation_Satellite_System.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Global_Navigation_Satellite_System.personal|Global_Navigation_Satellite_System.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Global_Navigation_Satellite_System.secret|Global_Navigation_Satellite_System.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Global_navigation_satellite_system,179435|WD~Global_navigation_satellite_system,179435]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Global_Navigation_Satellite_System|Global_Navigation_Satellite_System]]"
+  - "[[/_public/Earth/Geography/Cartography/Global_Navigation_Satellite_System.public|Global_Navigation_Satellite_System.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Global_Navigation_Satellite_System.internal|Global_Navigation_Satellite_System.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Global_Navigation_Satellite_System.protect|Global_Navigation_Satellite_System.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Global_Navigation_Satellite_System.private|Global_Navigation_Satellite_System.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Global_Navigation_Satellite_System.personal|Global_Navigation_Satellite_System.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Global_Navigation_Satellite_System.secret|Global_Navigation_Satellite_System.secret]]"
 ---
 
 # [[Global_Navigation_Satellite_System]] 

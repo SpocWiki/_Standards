@@ -79,7 +79,7 @@ Wolfram_Language_entity_code: Entity["Element", "Hydrogen"]
 
 #chemic/Element 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]
+Group::[[../Group-01-Alkali]]
 #has_/created :: [[Hydrogen/Hydrogen_Embrittlement]] 
 
 [#has_/name_/en::Hydrogenium]
@@ -89,7 +89,7 @@ Wolfram_Language_entity_code: Entity["Element", "Hydrogen"]
 [AtomRadius::0.79]
 [Atom-Vol-ccm-mol::14.4]
 [Unknown2::0.32]
-[#has_/radius_/nm::13.598]
+[#has_/radius_/nano_/m::13.598]
 [Electronegative::2.1]
 [Density::0.09]
 [#has_/value_for_/temperature_/melt_/c ::-259.14]

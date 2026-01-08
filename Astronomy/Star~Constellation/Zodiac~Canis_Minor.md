@@ -43,9 +43,9 @@ short_name: CMi
 
 [SpocWebEntityId::28097]
 
-[name-la::Canis Minor] 
-[name-genitive::Canis Minoris] 
-[name-de::Kleiner Hund] 
+[#has_/name_/la::Canis Minor] 
+[#has_/name_/la_/genitive::Canis Minoris] 
+[#has_/name_/de::Kleiner Hund] 
 
 #is_/same_as :: [[../../WikiData/WD~Canis_Minor,9305|WD~Canis_Minor,9305]]  
 

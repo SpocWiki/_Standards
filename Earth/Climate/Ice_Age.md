@@ -18,6 +18,25 @@ facet_of: "[[_Standards/WikiData/WD~geologic_time_scale,43521]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bathurst%20Inlet%20rebounding%20beach%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Iceage%20north-intergl%20glac%20hg.png
 Commons_category: Ice ages
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Ice_age,49367]]"
+    - "[[/_Standards/Earth/Climate/Ice_Age|Ice_Age]]"
+    - "[[/_public/Earth/Climate/Ice_Age.public|Ice_Age.public]]"
+    - "[[/_internal/Earth/Climate/Ice_Age.internal|Ice_Age.internal]]"
+    - "[[/_protect/Earth/Climate/Ice_Age.protect|Ice_Age.protect]]"
+    - "[[/_private/Earth/Climate/Ice_Age.private|Ice_Age.private]]"
+    - "[[/_personal/Earth/Climate/Ice_Age.personal|Ice_Age.personal]]"
+    - "[[/_secret/Earth/Climate/Ice_Age.secret|Ice_Age.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Ice_age,49367]]"
+  - "[[/_Standards/Earth/Climate/Ice_Age|Ice_Age]]"
+  - "[[/_public/Earth/Climate/Ice_Age.public|Ice_Age.public]]"
+  - "[[/_internal/Earth/Climate/Ice_Age.internal|Ice_Age.internal]]"
+  - "[[/_protect/Earth/Climate/Ice_Age.protect|Ice_Age.protect]]"
+  - "[[/_private/Earth/Climate/Ice_Age.private|Ice_Age.private]]"
+  - "[[/_personal/Earth/Climate/Ice_Age.personal|Ice_Age.personal]]"
+  - "[[/_secret/Earth/Climate/Ice_Age.secret|Ice_Age.secret]]"
 ---
 
 # [[Ice_Age]] 

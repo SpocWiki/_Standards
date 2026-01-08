@@ -1,5 +1,25 @@
-﻿---
-location: [ 20.0 , 58.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]"
+    - "[[/_Standards/Earth/Ocean/North_Sea/Baltic_Sea|Baltic_Sea]]"
+    - "[[/_public/Earth/Ocean/North_Sea/Baltic_Sea.public|Baltic_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/North_Sea/Baltic_Sea.internal|Baltic_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/North_Sea/Baltic_Sea.protect|Baltic_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/North_Sea/Baltic_Sea.private|Baltic_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/North_Sea/Baltic_Sea.personal|Baltic_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/North_Sea/Baltic_Sea.secret|Baltic_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]]"
+  - "[[/_Standards/Earth/Ocean/North_Sea/Baltic_Sea|Baltic_Sea]]"
+  - "[[/_public/Earth/Ocean/North_Sea/Baltic_Sea.public|Baltic_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/North_Sea/Baltic_Sea.internal|Baltic_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/North_Sea/Baltic_Sea.protect|Baltic_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/North_Sea/Baltic_Sea.private|Baltic_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/North_Sea/Baltic_Sea.personal|Baltic_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/North_Sea/Baltic_Sea.secret|Baltic_Sea.secret]]"
+
+location: [ 58.0, 20 ] 
 aliases:
   - Baltic_Sea
   - Baltic Sea
@@ -114,6 +134,20 @@ Libris_URI: wt798cbf4zqg1qp
 # [[Baltic_Sea]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Baltic_Sea,545|WD~Baltic_Sea,545]] 
+
+## #has_/map  
+
+```leaflet
+id: Baltic_Sea
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Baltic_Sea//
+markerFolder: ./Baltic_Sea/
+coordinates: [[Baltic_Sea]] 
+markerFile: [[Baltic_Sea]] 
+defaultZoom: 4 
+```
 
 ## #has_/text_of_/abstract 
 

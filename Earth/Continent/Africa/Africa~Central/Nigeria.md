@@ -1,5 +1,93 @@
-﻿---
-location: [ 8.0 , 9.0 ] 
+---
+dv_ISO4217-currency_alphabetic: NGN
+dv_ISO4217-currency_name: Naira
+dv_ISO4217-currency_numeric: 566
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: NIGERIA
+dv_Telephone: 234
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Nigeria
+dv_has_name_en: Nigeria
+dv_has_name_es: Nigeria
+dv_has_name_fr: Nigéria
+dv_has_name_cn: 尼日利亚
+dv_has_name_ar: نيجيريا
+dv_has_name_ru: Нигерия
+dv_CLDR_display_name: Nigeria
+dv_UNTERM_English: Nigeria
+dv_UNTERM_English_Formal: the Federal Republic of Nigeria
+dv_UNTERM_Spanish_Formal: la República Federal de Nigeria
+dv_UNTERM_Spanish: Nigeria
+dv_UNTERM_French: Nigéria (le)
+dv_UNTERM_Arabic: نيجيريا
+dv_UNTERM_Arabic_Formal: جمهورية نيجيريا الاتحادية
+dv_UNTERM_Chinese: 尼日利亚
+dv_UNTERM_Chinese_Formal: 尼日利亚联邦共和国
+dv_UNTERM_French_Formal: la République fédérale du Nigéria
+dv_UNTERM_Russian: Нигерия
+dv_UNTERM_Russian_Formal: Федеративная Республика Нигерия
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 2328926
+dv_FIPS: NI
+dv_FIFA: NGA
+dv_IOC: NGR
+dv_MARC: nr
+dv_GAUL: 182
+dv_WMO: NI
+dv_ITU: NIG
+dv_DS: WAN
+dv_TLD: .ng
+dv_EDGAR: Q5
+dv_M49: 566
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 566
+dv_ISO2: NG
+dv_ISO3: NGA
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria|Nigeria]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~Central/Nigeria.public|Nigeria.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria.internal|Nigeria.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~Central/Nigeria.protect|Nigeria.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~Central/Nigeria.private|Nigeria.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria.personal|Nigeria.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria.secret|Nigeria.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Nigeria
+dv_has_name_de: Nigeria
+dv_Area-Total: 923768
+dv_Area-Land: 910770
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: NGR
+dv_Capital: "[[Abuja]]"
+dv_Alcohol-l: 12.3
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 6.46778
+dv_has_place_latitude: 9.17222
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria|Nigeria]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~Central/Nigeria.public|Nigeria.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria.internal|Nigeria.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~Central/Nigeria.protect|Nigeria.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~Central/Nigeria.private|Nigeria.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria.personal|Nigeria.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria.secret|Nigeria.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Nigeria
+
 aliases:
   - Nigeria
   - Nigéria
@@ -919,76 +1007,76 @@ expiryDate: ""
 
 # [[Nigeria]] 
 
-[	ISO4217-currency_alphabetic	 :: NGN ]
-[	ISO4217-currency_name	 :: Naira ]
-[	ISO4217-currency_numeric	 :: 566 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: NIGERIA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 234 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Nigeria ]
-[	name-en	 :: Nigeria ]
-[	name-es	 :: Nigeria ]
-[	name-fr	 :: Nigéria ]
-[	name-cn	 :: 尼日利亚 ]
-[	name-ar	 :: نيجيريا ]
-[	name-ru	 :: Нигерия ]
+name = `=this.dv_name`
+[	has_name_en	 :: Nigeria ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Nigeria ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Nigeria ]
-[	UNTERM_English_Formal	 :: the Federal Republic of Nigeria ]
-[	UNTERM_Spanish_Formal	 :: la República Federal de Nigeria ]
-[	UNTERM_Spanish	 :: Nigeria ]
-[	UNTERM_French	 :: Nigéria (le) ]
-[	UNTERM_Arabic	 :: نيجيريا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية نيجيريا الاتحادية ]
-[	UNTERM_Chinese	 :: 尼日利亚 ]
-[	UNTERM_Chinese_Formal	 :: 尼日利亚联邦共和国 ]
-[	UNTERM_French_Formal	 :: la République fédérale du Nigéria ]
-[	UNTERM_Russian	 :: Нигерия ]
-[	UNTERM_Russian_Formal	 :: Федеративная Республика Нигерия ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2328926 ]
-[	FIPS	 :: NI ]
-[	FIFA	 :: NGA ]
-[	IOC	 :: NGR ]
-[	MARC	 :: nr ]
-[	GAUL	 :: 182 ]
-[	WMO	 :: NI ]
-[	ITU	 :: NIG ]
-[	DS	 :: WAN ]
-[	TLD	 :: .ng ]
-[	EDGAR	 :: Q5 ]
-[	M49	 :: 566 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 566 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::NG]
-[ISO3::NGA]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Nigeria,1033|WD~Nigeria,1033]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Nigeria 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Nigeria/ReadMe]] 
 
@@ -999,18 +1087,20 @@ id: Nigeria
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-coordinates: [[Nigeria]]
 geojsonFolder: ./Nigeria//
 markerFolder: ./Nigeria//
+coordinates: [[Nigeria]] 
+markerFile: [[Nigeria]] 
+defaultZoom: 5 
 ```
 
-[name-en::Nigeria]
-[name-de::Nigeria]
-[Area-Total::923768]
-[Area-Land::910770]
-has_place_continent:: [[Africa]]  
-[VehicleCode::NGR]
-Capital :: [[Abuja]]  
+[has_name_en::Nigeria]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Nigeria.svg|350]]
 
@@ -1018,12 +1108,12 @@ Capital :: [[Abuja]]
 
 ![[Flag_of_Nigeria.svg|350]]
 
-[Alcohol-l::12.3]
-[Language-Id::499]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::6.46778]
-[has_place_latitude::9.17222]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

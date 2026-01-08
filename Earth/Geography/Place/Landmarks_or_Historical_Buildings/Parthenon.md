@@ -1,5 +1,28 @@
-﻿---
-location: [ 23.726601 , 37.971527 ] 
+---
+dv_"Concept", "Parthenon: 564n4"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Parthenon,10288|WD~Parthenon,10288]]"
+    - "[[../../../../WikiData/WD~Parthenon,10288|WD~Parthenon,10288]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon|Parthenon]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.public|Parthenon.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.internal|Parthenon.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.protect|Parthenon.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.private|Parthenon.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.personal|Parthenon.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.secret|Parthenon.secret]]"
+dv_concept-parthenon: 564n4"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Parthenon,10288|WD~Parthenon,10288]]"
+  - "[[../../../../WikiData/WD~Parthenon,10288|WD~Parthenon,10288]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon|Parthenon]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.public|Parthenon.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.internal|Parthenon.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.protect|Parthenon.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.private|Parthenon.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.personal|Parthenon.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Parthenon.secret|Parthenon.secret]]"
+
 aliases:
   - Parthenon
 has_id_wikidata: Q10288
@@ -61,7 +84,7 @@ religion_or_worldview: '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
 state_of_use: '[[_Standards/WikiData/WD~open_to_the_public,55570821]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Athens%20Acropolis%20Parthenon%20day.ogv
 width: 30.8
-Wolfram_Language_entity_code: Entity["Concept", "Parthenon::564n4"]
+Wolfram_Language_entity_code: Entity"Concept", "Parthenon = `=this.dv_"Concept", "Parthenon`
 World_Heritage_criteria:
   - '[[_Standards/WikiData/WD~(i),23038972]]'
   - '[[_Standards/WikiData/WD~(iv),23038978]]'
@@ -87,7 +110,8 @@ geojsonFolder: ./Parthenon/
 markerFolder: ./Parthenon/
 coordinates: [[Parthenon]] 
 markerFile: [[Parthenon]] 
-defaultZoom: 11 
+defaultZoom: 17 
+minZoom: 4 
 maxZoom: 18
 ```
 

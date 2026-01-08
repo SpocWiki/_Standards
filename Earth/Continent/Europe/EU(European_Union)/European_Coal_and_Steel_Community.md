@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~European_Coal_and_Steel_Community,161549|WD~European_Coal_and_Steel_Community,161549]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community|European_Coal_and_Steel_Community]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.public|European_Coal_and_Steel_Community.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.internal|European_Coal_and_Steel_Community.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.protect|European_Coal_and_Steel_Community.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.private|European_Coal_and_Steel_Community.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.personal|European_Coal_and_Steel_Community.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.secret|European_Coal_and_Steel_Community.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~European_Coal_and_Steel_Community,161549|WD~European_Coal_and_Steel_Community,161549]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community|European_Coal_and_Steel_Community]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.public|European_Coal_and_Steel_Community.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.internal|European_Coal_and_Steel_Community.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.protect|European_Coal_and_Steel_Community.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.private|European_Coal_and_Steel_Community.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.personal|European_Coal_and_Steel_Community.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.secret|European_Coal_and_Steel_Community.secret]]"
+
 has_time_started: 1951-04-18 
 has_time_stopped: 2002-07-23 
 aliases:

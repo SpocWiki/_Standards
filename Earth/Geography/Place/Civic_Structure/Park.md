@@ -9,39 +9,39 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - park
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_park Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_park Class
 type: Type
 OpenStreetMap_tag: leisure=park
-different_from: '[[_Standards/WikiData/WD~Park,157821]]'
+different_from: "[[_Standards/WikiData/WD~Park,157821]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_park,6055178]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_park,6055178]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~facility,13226383]]'
-  - '[[_Standards/WikiData/WD~artificial_geographic_object,35145743]]'
-  - '[[_Standards/WikiData/WD~physical_public_space,111415237]]'
-  - '[[_Standards/WikiData/WD~urban_green_space,22652]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q113367929,113367929]]'
+  - "[[_Standards/WikiData/WD~facility,13226383]]"
+  - "[[_Standards/WikiData/WD~artificial_geographic_object,35145743]]"
+  - "[[_Standards/WikiData/WD~physical_public_space,111415237]]"
+  - "[[_Standards/WikiData/WD~urban_green_space,22652]]"
+category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q113367929,113367929]]"
 properties_for_this_type:
   - has part(s)
   - inception
@@ -73,6 +73,31 @@ MeSH_tree_code: J03.925.680
 GeoNames_feature_code: L.PRK
 IPTC_NewsCode: mediatopic/20000422
 EAGLE_id: objtyp/lod/388
+dv_#is_:
+  sub_class_of: "[[../CivicStructure]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Park,22698|WD~Park,22698]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Park|Park]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Park.public|Park.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Park.internal|Park.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Park.protect|Park.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Park.private|Park.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Park.personal|Park.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Park.secret|Park.secret]]"
+dv_is_sub_class_of: "[[../CivicStructure]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Park,22698|WD~Park,22698]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Park|Park]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Park.public|Park.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Park.internal|Park.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Park.protect|Park.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Park.private|Park.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Park.personal|Park.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Park.secret|Park.secret]]"
 ---
 
 # [[Park]] 
@@ -84,9 +109,9 @@ Tag Instances like this:
 
 A park.
 
-[ #is_/sub_class_of :: [[../CivicStructure]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 #is_/same_as :: [[../../../../WikiData/WD~Park,22698|WD~Park,22698]] 
 

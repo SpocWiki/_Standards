@@ -11,31 +11,31 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - landmarks_or_historical_buildings
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_landmarks_or_historical_buildings Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_landmarks_or_historical_buildings Class
 type: Type
 subclass_of:
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-  - '[[_Standards/WikiData/WD~landmark,4895393]]'
-different_from: '[[_Standards/WikiData/WD~landmark,4895393]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q7607402,7607402]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13439180,13439180]]'
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
+  - "[[_Standards/WikiData/WD~landmark,4895393]]"
+different_from: "[[_Standards/WikiData/WD~landmark,4895393]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q7607402,7607402]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q13439180,13439180]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
 properties_for_this_type:
   - plaque image
   - nighttime view
@@ -50,6 +50,31 @@ properties_for_this_type:
 Stadtwiki_Dresden_article: Wahrzeichen
 Commons_category: Visitor attractions
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mitsukoshi01%201024.jpg
+dv_#is_:
+  sub_class_of: "[[../Place]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public|Landmarks_or_Historical_Buildings.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal|Landmarks_or_Historical_Buildings.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings.protect|Landmarks_or_Historical_Buildings.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings.private|Landmarks_or_Historical_Buildings.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.personal|Landmarks_or_Historical_Buildings.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings.secret|Landmarks_or_Historical_Buildings.secret]]"
+dv_is_sub_class_of: "[[../Place]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public|Landmarks_or_Historical_Buildings.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal|Landmarks_or_Historical_Buildings.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings.protect|Landmarks_or_Historical_Buildings.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings.private|Landmarks_or_Historical_Buildings.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.personal|Landmarks_or_Historical_Buildings.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings.secret|Landmarks_or_Historical_Buildings.secret]]"
 ---
 
 # [[Landmarks_or_Historical_Buildings]] 
@@ -61,9 +86,9 @@ Tag Instances like this:
 
 An historical landmark or building.
 
-[ #is_/sub_class_of :: [[../../../../Earth/Geography/Place]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 
 #is_/same_as :: [[_Standards/WikiData/WD~architectural_landmark,2319498]] 

@@ -72,7 +72,7 @@ ZVG_number: 7410
 #is_/same_as :: [[../../../WikiData/WD~Niobium,1046]] 
 
 [GroupName::Group-05-Vanadium]
-[Group:[[../Group-05-Vanadium]]
+Group::[[../Group-05-Vanadium]]
 
 
 [#has_/name_/en::Niobium]
@@ -81,7 +81,7 @@ ZVG_number: 7410
 [AtomRadius::2.08]
 [Atom-Vol-ccm-mol::10.87]
 [Unknown2::1.34]
-[#has_/radius_/nm::6.88]
+[#has_/radius_/nano_/m::6.88]
 [Electronegative::1.6]
 [Density::8.55]
 [#has_/value_for_/temperature_/melt_/c ::2468]

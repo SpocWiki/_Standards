@@ -1,6 +1,32 @@
-﻿---
+---
+dv_"Building", "PalaceOfVersailles: xccj8"
+dv_"Concept", "PalaceOfVersailles: r63p4"
+dv_"HistoricalSite", "PalaceOfVersailles: 2fkr4"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Palace_of_Versailles,2946|WD~Palace_of_Versailles,2946]]"
+    - "[[/_Standards/Earth/Geography/Place/Palace_of_Versailles|Palace_of_Versailles]]"
+    - "[[/_public/Earth/Geography/Place/Palace_of_Versailles.public|Palace_of_Versailles.public]]"
+    - "[[/_internal/Earth/Geography/Place/Palace_of_Versailles.internal|Palace_of_Versailles.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Palace_of_Versailles.protect|Palace_of_Versailles.protect]]"
+    - "[[/_private/Earth/Geography/Place/Palace_of_Versailles.private|Palace_of_Versailles.private]]"
+    - "[[/_personal/Earth/Geography/Place/Palace_of_Versailles.personal|Palace_of_Versailles.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Palace_of_Versailles.secret|Palace_of_Versailles.secret]]"
+dv_building-palaceofversailles: xccj8"
+dv_concept-palaceofversailles: r63p4"
+dv_historicalsite-palaceofversailles: 2fkr4"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Palace_of_Versailles,2946|WD~Palace_of_Versailles,2946]]"
+  - "[[/_Standards/Earth/Geography/Place/Palace_of_Versailles|Palace_of_Versailles]]"
+  - "[[/_public/Earth/Geography/Place/Palace_of_Versailles.public|Palace_of_Versailles.public]]"
+  - "[[/_internal/Earth/Geography/Place/Palace_of_Versailles.internal|Palace_of_Versailles.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Palace_of_Versailles.protect|Palace_of_Versailles.protect]]"
+  - "[[/_private/Earth/Geography/Place/Palace_of_Versailles.private|Palace_of_Versailles.private]]"
+  - "[[/_personal/Earth/Geography/Place/Palace_of_Versailles.personal|Palace_of_Versailles.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Palace_of_Versailles.secret|Palace_of_Versailles.secret]]"
+
 has_time_started: 1661-01-01 
-location: [ 2.120277777 , 48.804722222 ] 
+location: [ 48.804722222, 2.120277777 ] 
 aliases:
   - Palace of Versailles
   - Palace_of_Versailles
@@ -98,10 +124,10 @@ Commons_Institution_page: Château de Versailles
 Facebook_username: chateauversailles
 X_Twitter_username: CVersailles
 Wolfram_Language_entity_code:
-  - Entity["Building", "PalaceOfVersailles::xccj8"]
+  - Entity"Building", "PalaceOfVersailles = `=this.dv_"Building", "PalaceOfVersailles`
   - Entity["Castle", "Versailles"]
-  - Entity["Concept", "PalaceOfVersailles::r63p4"]
-  - Entity["HistoricalSite", "PalaceOfVersailles::2fkr4"]
+  - Entity"Concept", "PalaceOfVersailles = `=this.dv_"Concept", "PalaceOfVersailles`
+  - Entity"HistoricalSite", "PalaceOfVersailles = `=this.dv_"HistoricalSite", "PalaceOfVersailles`
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/VERSAL.html
 Commons_category: Palace of Versailles
 Libris_URI: sq47dngb2phr98p
@@ -115,6 +141,20 @@ inception: 1661-01-01T00:00:00Z
 By <a href="https://fr.wikipedia.org/wiki/Utilisateur:G_CHP" class="extiw" title="fr:Utilisateur:G CHP">G CHP</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12214780">Link</a> 
 
 #is_/same_as :: [[../../../WikiData/WD~Palace_of_Versailles,2946|WD~Palace_of_Versailles,2946]] 
+
+## #has_/map  
+
+```leaflet
+id: Palace_of_Versailles
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Palace_of_Versailles//
+markerFolder: ./Palace_of_Versailles/
+coordinates: [[Palace_of_Versailles]] 
+markerFile: [[Palace_of_Versailles]] 
+defaultZoom: 15 
+```
 
 ## #has_/text_of_/abstract 
 

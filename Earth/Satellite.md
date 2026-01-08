@@ -23,6 +23,25 @@ Unicode_character: 🛰
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/ConstellationGPS.gif
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Geosynchronous%20orbit.gif
 Colon_Classification: B97894
+dv_is_:
+  same_as:
+    - "[[WD~Satellite,26540]]"
+    - "[[/_Standards/Earth/Satellite|Satellite]]"
+    - "[[/_public/Earth/Satellite.public|Satellite.public]]"
+    - "[[/_internal/Earth/Satellite.internal|Satellite.internal]]"
+    - "[[/_protect/Earth/Satellite.protect|Satellite.protect]]"
+    - "[[/_private/Earth/Satellite.private|Satellite.private]]"
+    - "[[/_personal/Earth/Satellite.personal|Satellite.personal]]"
+    - "[[/_secret/Earth/Satellite.secret|Satellite.secret]]"
+dv_is_same_as:
+  - "[[WD~Satellite,26540]]"
+  - "[[/_Standards/Earth/Satellite|Satellite]]"
+  - "[[/_public/Earth/Satellite.public|Satellite.public]]"
+  - "[[/_internal/Earth/Satellite.internal|Satellite.internal]]"
+  - "[[/_protect/Earth/Satellite.protect|Satellite.protect]]"
+  - "[[/_private/Earth/Satellite.private|Satellite.private]]"
+  - "[[/_personal/Earth/Satellite.personal|Satellite.personal]]"
+  - "[[/_secret/Earth/Satellite.secret|Satellite.secret]]"
 ---
 
 # [[Satellite]] 

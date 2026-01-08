@@ -9,6 +9,25 @@ facet_of:
 subclass_of: "[[_Standards/WikiData/WD~history,309]]"
 Commons_category: History of earth science
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2025-07-31-Elektro-L-3.png
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~History_of_Earth,156312|WD~History_of_Earth,156312]]"
+    - "[[/_Standards/Earth/History_of_Earth|History_of_Earth]]"
+    - "[[/_public/Earth/History_of_Earth.public|History_of_Earth.public]]"
+    - "[[/_internal/Earth/History_of_Earth.internal|History_of_Earth.internal]]"
+    - "[[/_protect/Earth/History_of_Earth.protect|History_of_Earth.protect]]"
+    - "[[/_private/Earth/History_of_Earth.private|History_of_Earth.private]]"
+    - "[[/_personal/Earth/History_of_Earth.personal|History_of_Earth.personal]]"
+    - "[[/_secret/Earth/History_of_Earth.secret|History_of_Earth.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~History_of_Earth,156312|WD~History_of_Earth,156312]]"
+  - "[[/_Standards/Earth/History_of_Earth|History_of_Earth]]"
+  - "[[/_public/Earth/History_of_Earth.public|History_of_Earth.public]]"
+  - "[[/_internal/Earth/History_of_Earth.internal|History_of_Earth.internal]]"
+  - "[[/_protect/Earth/History_of_Earth.protect|History_of_Earth.protect]]"
+  - "[[/_private/Earth/History_of_Earth.private|History_of_Earth.private]]"
+  - "[[/_personal/Earth/History_of_Earth.personal|History_of_Earth.personal]]"
+  - "[[/_secret/Earth/History_of_Earth.secret|History_of_Earth.secret]]"
 ---
 
 # [[History_of_Earth]] 

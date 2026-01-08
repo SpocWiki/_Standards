@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -17.9
   - 181.7
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Fiji~Eastern
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern|Fiji~Eastern]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.public|Fiji~Eastern.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.internal|Fiji~Eastern.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.protect|Fiji~Eastern.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.private|Fiji~Eastern.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.personal|Fiji~Eastern.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.secret|Fiji~Eastern.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern|Fiji~Eastern]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.public|Fiji~Eastern.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.internal|Fiji~Eastern.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.protect|Fiji~Eastern.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.private|Fiji~Eastern.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.personal|Fiji~Eastern.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.secret|Fiji~Eastern.secret]]"
 ---
 
 # Fiji~Eastern

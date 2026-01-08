@@ -4,11 +4,32 @@ aliases:
   - Sale of Louisiana
   - 1803-Louisiana_Purchase
   - 1803-Louisiana Purchase
+dv_has_:
+  time_:
+    started: 1803-06-01T00:00:00.000+00:53
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase|1803-Louisiana_Purchase]]"
+    - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.public|1803-Louisiana_Purchase.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.internal|1803-Louisiana_Purchase.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.protect|1803-Louisiana_Purchase.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.private|1803-Louisiana_Purchase.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.personal|1803-Louisiana_Purchase.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.secret|1803-Louisiana_Purchase.secret]]"
+dv_has_time_started: 1803-06-01
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase|1803-Louisiana_Purchase]]"
+  - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.public|1803-Louisiana_Purchase.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.internal|1803-Louisiana_Purchase.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.protect|1803-Louisiana_Purchase.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.private|1803-Louisiana_Purchase.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.personal|1803-Louisiana_Purchase.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.secret|1803-Louisiana_Purchase.secret]]"
 ---
 
 # [[1803-Louisiana_Purchase]] 
 
-#has_/time_/started :: 1803-06-01 
+has_time_started = `=this.dv_has_time_started`
 
 ## #has_/text_of_/abstract 
 

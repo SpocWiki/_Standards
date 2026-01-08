@@ -1,5 +1,27 @@
-﻿---
-location: [ 14.0 , 42.0 ] 
+---
+dv_"Concept", "ItalianPeninsula: jv739"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Italian_Peninsula,145694]]"
+    - "[[/_Standards/Earth/Continent/Europe/Italian_Peninsula|Italian_Peninsula]]"
+    - "[[/_public/Earth/Continent/Europe/Italian_Peninsula.public|Italian_Peninsula.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Italian_Peninsula.internal|Italian_Peninsula.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Italian_Peninsula.protect|Italian_Peninsula.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Italian_Peninsula.private|Italian_Peninsula.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Italian_Peninsula.personal|Italian_Peninsula.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Italian_Peninsula.secret|Italian_Peninsula.secret]]"
+dv_concept-italianpeninsula: jv739"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Italian_Peninsula,145694]]"
+  - "[[/_Standards/Earth/Continent/Europe/Italian_Peninsula|Italian_Peninsula]]"
+  - "[[/_public/Earth/Continent/Europe/Italian_Peninsula.public|Italian_Peninsula.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Italian_Peninsula.internal|Italian_Peninsula.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Italian_Peninsula.protect|Italian_Peninsula.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Italian_Peninsula.private|Italian_Peninsula.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Italian_Peninsula.personal|Italian_Peninsula.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Italian_Peninsula.secret|Italian_Peninsula.secret]]"
+
+location: [ 42.0, 14.0 ] 
 aliases:
   - Italian Peninsula
   - Italic Peninsula
@@ -34,7 +56,7 @@ area:
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Italy%20topographic%20map-blank.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rome%20Banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Italy%20in%20March%202003.jpg
-Wolfram_Language_entity_code: Entity["Concept", "ItalianPeninsula::jv739"]
+Wolfram_Language_entity_code: Entity"Concept", "ItalianPeninsula = `=this.dv_"Concept", "ItalianPeninsula`
 Commons_category: Italian Peninsula
 coordinate_location: Point(14.0 42.0)
 ---
@@ -42,6 +64,20 @@ coordinate_location: Point(14.0 42.0)
 # [[Italian_Peninsula]] 
 
 #is_/same_as :: [[WD~Italian_Peninsula,145694]] 
+
+## #has_/map  
+
+```leaflet
+id: Italian_Peninsula
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Italian_Peninsula//
+markerFolder: ./Italian_Peninsula/
+coordinates: [[Italian_Peninsula]] 
+markerFile: [[Italian_Peninsula]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

@@ -1,5 +1,25 @@
-﻿---
-location: [ 25.3 , 38.5 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Aegean_Sea,34575]]"
+    - "[[/_Standards/Earth/Ocean/Mediterranean_Sea/Aegean_Sea|Aegean_Sea]]"
+    - "[[/_public/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.public|Aegean_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.internal|Aegean_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.protect|Aegean_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.private|Aegean_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.personal|Aegean_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.secret|Aegean_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Aegean_Sea,34575]]"
+  - "[[/_Standards/Earth/Ocean/Mediterranean_Sea/Aegean_Sea|Aegean_Sea]]"
+  - "[[/_public/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.public|Aegean_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.internal|Aegean_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.protect|Aegean_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.private|Aegean_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.personal|Aegean_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.secret|Aegean_Sea.secret]]"
+
+location: [ 38.5, 25.3 ] 
 aliases:
   - Aegean_Sea
   - Aegean Sea
@@ -60,6 +80,20 @@ vertical_depth: 2100
 # [[Aegean_Sea]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Aegean_Sea,34575]]
+
+## #has_/map  
+
+```leaflet
+id: Aegean_Sea
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Aegean_Sea//
+markerFolder: ./Aegean_Sea/
+coordinates: [[Aegean_Sea]] 
+markerFile: [[Aegean_Sea]] 
+defaultZoom: 6 
+```
 
 ## #has_/text_of_/abstract 
 

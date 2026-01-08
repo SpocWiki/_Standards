@@ -38,6 +38,25 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Physiograp
 U_S_National_Archives_Identifier: "10038209"
 Libris_URI: 75kns2vr4bx4k08
 Commons_category: Great Plains
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Great_Plains,12707|WD~Great_Plains,12707]]"
+    - "[[/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains|Great_Plains]]"
+    - "[[/_public/Earth/Continent/America~North/Plain-North_America/Great_Plains.public|Great_Plains.public]]"
+    - "[[/_internal/Earth/Continent/America~North/Plain-North_America/Great_Plains.internal|Great_Plains.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/Plain-North_America/Great_Plains.protect|Great_Plains.protect]]"
+    - "[[/_private/Earth/Continent/America~North/Plain-North_America/Great_Plains.private|Great_Plains.private]]"
+    - "[[/_personal/Earth/Continent/America~North/Plain-North_America/Great_Plains.personal|Great_Plains.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/Plain-North_America/Great_Plains.secret|Great_Plains.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Great_Plains,12707|WD~Great_Plains,12707]]"
+  - "[[/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains|Great_Plains]]"
+  - "[[/_public/Earth/Continent/America~North/Plain-North_America/Great_Plains.public|Great_Plains.public]]"
+  - "[[/_internal/Earth/Continent/America~North/Plain-North_America/Great_Plains.internal|Great_Plains.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/Plain-North_America/Great_Plains.protect|Great_Plains.protect]]"
+  - "[[/_private/Earth/Continent/America~North/Plain-North_America/Great_Plains.private|Great_Plains.private]]"
+  - "[[/_personal/Earth/Continent/America~North/Plain-North_America/Great_Plains.personal|Great_Plains.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/Plain-North_America/Great_Plains.secret|Great_Plains.secret]]"
 ---
 
 # [[Great_Plains]] 

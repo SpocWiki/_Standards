@@ -1,4 +1,29 @@
-﻿---
+---
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Kosovo
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo|Kosovo]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Kosovo.public|Kosovo.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Kosovo.internal|Kosovo.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Kosovo.protect|Kosovo.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Kosovo.private|Kosovo.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Kosovo.personal|Kosovo.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Kosovo.secret|Kosovo.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Kosovo
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Kosovo|Kosovo]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Kosovo.public|Kosovo.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Kosovo.internal|Kosovo.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Kosovo.protect|Kosovo.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Kosovo.private|Kosovo.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Kosovo.personal|Kosovo.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Kosovo.secret|Kosovo.secret]]"
+
 location: [ 20.833333333 , 42.55 ] 
 aliases:
   - Kosovo
@@ -281,7 +306,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Velika%20Livada%
 # [[Kosovo]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Kosovo 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Kosovo/ReadMe]] 
 

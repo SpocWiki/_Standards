@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -0.506
   - 166.95
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Ijuw
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw|Ijuw]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.public|Ijuw.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.internal|Ijuw.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.protect|Ijuw.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.private|Ijuw.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.personal|Ijuw.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.secret|Ijuw.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw|Ijuw]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.public|Ijuw.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.internal|Ijuw.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.protect|Ijuw.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.private|Ijuw.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.personal|Ijuw.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ijuw.secret|Ijuw.secret]]"
 ---
 
 # Ijuw

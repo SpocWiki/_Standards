@@ -8,6 +8,25 @@ uses: "[[_Standards/WikiData/WD~lunar_lander,6703812]]"
 locations: "[[_Standards/WikiData/WD~Moon,405]]"
 OmegaWiki_Defined_Meaning: "1251971"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2011.%20Television%20clip%20of%20Buzz%20descending%20the%20ladder%20and%20stepping%20onto%20the%20moon%2C%201094228.ogv
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Moon_landing,495307]]"
+    - "[[/_Standards/Earth/Satellite/Moon/Moon_Landing|Moon_Landing]]"
+    - "[[/_public/Earth/Satellite/Moon/Moon_Landing.public|Moon_Landing.public]]"
+    - "[[/_internal/Earth/Satellite/Moon/Moon_Landing.internal|Moon_Landing.internal]]"
+    - "[[/_protect/Earth/Satellite/Moon/Moon_Landing.protect|Moon_Landing.protect]]"
+    - "[[/_private/Earth/Satellite/Moon/Moon_Landing.private|Moon_Landing.private]]"
+    - "[[/_personal/Earth/Satellite/Moon/Moon_Landing.personal|Moon_Landing.personal]]"
+    - "[[/_secret/Earth/Satellite/Moon/Moon_Landing.secret|Moon_Landing.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Moon_landing,495307]]"
+  - "[[/_Standards/Earth/Satellite/Moon/Moon_Landing|Moon_Landing]]"
+  - "[[/_public/Earth/Satellite/Moon/Moon_Landing.public|Moon_Landing.public]]"
+  - "[[/_internal/Earth/Satellite/Moon/Moon_Landing.internal|Moon_Landing.internal]]"
+  - "[[/_protect/Earth/Satellite/Moon/Moon_Landing.protect|Moon_Landing.protect]]"
+  - "[[/_private/Earth/Satellite/Moon/Moon_Landing.private|Moon_Landing.private]]"
+  - "[[/_personal/Earth/Satellite/Moon/Moon_Landing.personal|Moon_Landing.personal]]"
+  - "[[/_secret/Earth/Satellite/Moon/Moon_Landing.secret|Moon_Landing.secret]]"
 ---
 
 # [[Moon_Landing]] 

@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -17.7
   - 168.4
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Shefa
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa|Shefa]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.public|Shefa.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.internal|Shefa.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.protect|Shefa.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.private|Shefa.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.personal|Shefa.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.secret|Shefa.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa|Shefa]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.public|Shefa.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.internal|Shefa.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.protect|Shefa.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.private|Shefa.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.personal|Shefa.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.secret|Shefa.secret]]"
 ---
 
 # Shefa

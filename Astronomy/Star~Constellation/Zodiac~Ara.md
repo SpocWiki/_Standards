@@ -43,9 +43,9 @@ Hederich_encyclopedia_article: Arvla
 
 [SpocWebEntityId::28088]
 
-[name-la::Ara]
-[name-genitive::Arae]
-[name-de::Altar]
+[#has_/name_/la::Ara]
+[#has_/name_/la_/genitive::Arae]
+[#has_/name_/de::Altar]
 
 #is_/same_as :: [[../../WikiData/WD~Ara,9253|WD~Ara,9253]] 
 

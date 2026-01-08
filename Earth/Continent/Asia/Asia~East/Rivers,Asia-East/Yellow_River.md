@@ -1,5 +1,29 @@
 ---
+<<<<<<< HEAD
 location: [ 116.097666666 , 36.124194444 ] 
+=======
+dv_is_:
+  shorter_than: "[[Yangtze_River]]"
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River|Yellow_River]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.public|Yellow_River.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.internal|Yellow_River.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.protect|Yellow_River.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.private|Yellow_River.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.personal|Yellow_River.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.secret|Yellow_River.secret]]"
+dv_is_shorter_than: "[[Yangtze_River]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River|Yellow_River]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.public|Yellow_River.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.internal|Yellow_River.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.protect|Yellow_River.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.private|Yellow_River.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.personal|Yellow_River.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.secret|Yellow_River.secret]]"
+
+location: [ 36.124194444, 116.097666666 ] 
+>>>>>>> c6d40cfc45124e666bcaf84e3d112f501294f687
 aliases:
   - Yellow River
   - Huanghe
@@ -85,7 +109,21 @@ watershed_area: 752000
 
 # [[Yellow_River]] 
 
-#is_/shorter_than :: [[Yangtze_River]] 
+is_shorter_than = `=this.dv_is_shorter_than`
+
+## #has_/map  
+
+```leaflet
+id: Yellow_River
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Yellow_River//
+markerFolder: ./Yellow_River/
+coordinates: [[Yellow_River]] 
+markerFile: [[Yellow_River]] 
+defaultZoom: 5 
+```
 
 ## #has_/map  
 

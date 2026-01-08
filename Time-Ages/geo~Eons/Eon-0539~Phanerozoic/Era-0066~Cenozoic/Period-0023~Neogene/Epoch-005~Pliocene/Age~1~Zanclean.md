@@ -17,15 +17,95 @@ sRGB_color_hex_triplet: FFFFB3
 Commons_category: Zanclean
 end_time: -3600000-01-01T00:00:00Z
 start_time: -5333000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "1.733e+6"
+  previous_:
+    item: "[[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]]"
+  next_:
+    item: "[[Age~2~Piacenzian]]"
+  name_:
+    bg: Занклѿки
+    cs: Zancl
+    da: Zanclien
+    de: Zanclium
+    es: Zanclayense
+    et: Zancle
+    fi: Zancl
+    fr: Zancléen
+    hu: zanclai
+    it: zancleano
+    ja: ザンクレアン期
+    lt: Zanklis
+    nl: Brunssummiën
+    no: Zancleium
+    pl: Zankl
+    pt: Zancleano
+    sk: zanclean
+    sl: zanclij
+    sv: zancl
+    zh: 赞克勒期
+  abbreviation: n7
+  time_:
+    started: "-5.333e6"
+    stopped: "-3.600e6"
+  text_of_:
+    color: "0xFFFFB3"
+dv_is_:
+  same_as:
+    - "[[WD~Zanclean,146094]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.protect|Age~1~Zanclean.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.private|Age~1~Zanclean.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.personal|Age~1~Zanclean.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.secret|Age~1~Zanclean.secret]]"
+dv_has_duration_years: "1.733e+6"
+dv_has_previous_item: "[[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]]"
+dv_has_next_item: "[[Age~2~Piacenzian]]"
+dv_is_same_as:
+  - "[[WD~Zanclean,146094]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.protect|Age~1~Zanclean.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.private|Age~1~Zanclean.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.personal|Age~1~Zanclean.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene/Age~1~Zanclean.secret|Age~1~Zanclean.secret]]"
+dv_has_name_bg: Занклѿки
+dv_has_name_cs: Zancl
+dv_has_name_da: Zanclien
+dv_has_name_de: Zanclium
+dv_has_name_es: Zanclayense
+dv_has_name_et: Zancle
+dv_has_name_fi: Zancl
+dv_has_name_fr: Zancléen
+dv_has_name_hu: zanclai
+dv_has_name_it: zancleano
+dv_has_name_ja: ザンクレアン期
+dv_has_name_lt: Zanklis
+dv_has_name_nl: Brunssummiën
+dv_has_name_no: Zancleium
+dv_has_name_pl: Zankl
+dv_has_name_pt: Zancleano
+dv_has_name_sk: zanclean
+dv_has_name_sl: zanclij
+dv_has_name_sv: zancl
+dv_has_name_zh: 赞克勒期
+dv_has_abbreviation: n7
+dv_has_time_started: "-5.333e6"
+dv_has_time_stopped: "-3.600e6"
+dv_has_text_of_color: "0xFFFFB3"
 ---
 # [[Age~1~Zanclean]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]] 
-#has_/next_/item :: [[Age~2~Piacenzian]] 
+has_previous_item = `=this.dv_has_previous_item`
+has_next_item = `=this.dv_has_next_item`
 #is_/same_as :: [[WD~Zanclean,146094]] 
 
 A time period from 5.333 to 3.6 million years ago. 
@@ -47,35 +127,35 @@ A time period from 5.333 to 3.6 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Zanclean) 
 
 
-#has_/name_/bg  :: Занклѿки
-#has_/name_/cs  :: Zancl
-#has_/name_/da  :: Zanclien
-#has_/name_/de  :: Zanclium
-#has_/name_/es  :: Zanclayense
-#has_/name_/et  :: Zancle
-#has_/name_/fi  :: Zancl
-#has_/name_/fr  :: Zancléen
-#has_/name_/hu  :: zanclai
-#has_/name_/it  :: zancleano
-#has_/name_/ja  :: ザンクレアン期
-#has_/name_/lt  :: Zanklis
-#has_/name_/nl  :: Brunssummiën
-#has_/name_/no  :: Zancleium
-#has_/name_/pl  :: Zankl
-#has_/name_/pt  :: Zancleano
-#has_/name_/sk  :: zanclean
-#has_/name_/sl  :: zanclij
-#has_/name_/sv  :: zancl
-#has_/name_/zh  :: 赞克勒期
+has_name_bg = `=this.dv_has_name_bg`
+has_name_cs = `=this.dv_has_name_cs`
+has_name_da = `=this.dv_has_name_da`
+has_name_de = `=this.dv_has_name_de`
+has_name_es = `=this.dv_has_name_es`
+has_name_et = `=this.dv_has_name_et`
+has_name_fi = `=this.dv_has_name_fi`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_hu = `=this.dv_has_name_hu`
+has_name_it = `=this.dv_has_name_it`
+has_name_ja = `=this.dv_has_name_ja`
+has_name_lt = `=this.dv_has_name_lt`
+has_name_nl = `=this.dv_has_name_nl`
+has_name_no = `=this.dv_has_name_no`
+has_name_pl = `=this.dv_has_name_pl`
+has_name_pt = `=this.dv_has_name_pt`
+has_name_sk = `=this.dv_has_name_sk`
+has_name_sl = `=this.dv_has_name_sl`
+has_name_sv = `=this.dv_has_name_sv`
+has_name_zh = `=this.dv_has_name_zh`
 
-#has_/abbreviation :: n7
+has_abbreviation = `=this.dv_has_abbreviation`
 
-#has_/time_/started :: -5.333e6 
-#has_/time_/stopped :: -3.600e6 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
 
     sh:order 13 
 
-#has_/text_of_/color :: 0xFFFFB3
+has_text_of_color = `=this.dv_has_text_of_color`
 
 ## All Contents
 

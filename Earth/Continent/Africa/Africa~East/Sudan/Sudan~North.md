@@ -1,6 +1,44 @@
-﻿---
+---
+dv_ISO2: SD
+dv_ISO3: SDN
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Sudan,1049|WD~Sudan,1049]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North|Sudan~North]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.public|Sudan~North.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.internal|Sudan~North.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.protect|Sudan~North.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.private|Sudan~North.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.personal|Sudan~North.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.secret|Sudan~North.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Sudan-North
+dv_has_name_en: Sudan
+dv_has_name_de: Sudan
+dv_Area-Total: 2505813
+dv_Area-Land: 2376000
+dv_has_place_continent: "[[../../../Africa]]"
+dv_VehicleCode: SUD
+dv_Capital: "[[Sudan~North/Counties/Khartoum]]"
+dv_Alcohol-l: 2.6
+dv_Language-Id: 472
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 32.53
+dv_has_place_latitude: 15.6
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Sudan,1049|WD~Sudan,1049]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North|Sudan~North]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.public|Sudan~North.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.internal|Sudan~North.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.protect|Sudan~North.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.private|Sudan~North.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.personal|Sudan~North.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~North.secret|Sudan~North.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Sudan-North
+
 has_time_started: 1956-01-01 
-location: [ 32.0 , 15.0 ] 
 aliases:
   - Sudan
   - Sudan~North
@@ -392,33 +430,36 @@ WIPO_ST_3: SD
 
 # [[Sudan~North]] 
 
-[ISO2::SD]
-[ISO3::SDN]
-#is_/same_as :: [[../../../../../WikiData/WD~Sudan,1049|WD~Sudan,1049]] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Sudan-North 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Sudan~North/ReadMe]] 
 
 ## #has_/map 
 
 ```leaflet
-id: Sudan
+id: Sudan~North
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sudan~North//
 markerFolder: ./Sudan~North/
+coordinates: [[Sudan~North]] 
+markerFile: [[Sudan~North]] 
+defaultZoom: 5 
 ```
 
-[name-en::Sudan]
-[name-de::Sudan]
-[Area-Total::2505813]
-[Area-Land::2376000]
-has_place_continent:: [[Africa]]  
-[VehicleCode::SUD]
-Capital :: [[Sudan~North/Counties/Khartoum]]  
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Sudan~North/Emblem_of_Sudan.svg|350]]
 
@@ -426,12 +467,12 @@ Capital :: [[Sudan~North/Counties/Khartoum]]
 
 ![[Sudan~North/Flag_of_Sudan.svg|350]]
 
-[Alcohol-l::2.6]
-[Language-Id::472]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
-[has_place_longitude::32.53]
-[has_place_latitude::15.6]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

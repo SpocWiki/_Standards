@@ -6,25 +6,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -9.44
   - 159.99
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Capital_Territory_(Honiara)
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara)|Capital_Territory_(Honiara)]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).public|Capital_Territory_(Honiara).public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).internal|Capital_Territory_(Honiara).internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).protect|Capital_Territory_(Honiara).protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).private|Capital_Territory_(Honiara).private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).personal|Capital_Territory_(Honiara).personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).secret|Capital_Territory_(Honiara).secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara)|Capital_Territory_(Honiara)]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).public|Capital_Territory_(Honiara).public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).internal|Capital_Territory_(Honiara).internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).protect|Capital_Territory_(Honiara).protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).private|Capital_Territory_(Honiara).private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).personal|Capital_Territory_(Honiara).personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Capital_Territory_(Honiara).secret|Capital_Territory_(Honiara).secret]]"
 ---
 
 # Capital_Territory_(Honiara)

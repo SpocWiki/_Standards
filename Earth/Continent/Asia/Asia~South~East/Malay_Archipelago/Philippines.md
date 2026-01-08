@@ -1,5 +1,92 @@
-﻿---
-location: [ 123.0 , 12.0 ] 
+---
+dv_ISO4217-currency_alphabetic: PHP
+dv_ISO4217-currency_name: Philippine Peso
+dv_ISO4217-currency_numeric: 608
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: PHILIPPINES
+dv_Telephone: 63
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Philippines
+dv_has_name_en: Philippines
+dv_has_name_es: Filipinas
+dv_has_name_fr: Philippines
+dv_has_name_cn: 菲律宾
+dv_has_name_ar: الفلبين
+dv_has_name_ru: Филиппины
+dv_CLDR_display_name: Philippines
+dv_UNTERM_English: Philippines (the)
+dv_UNTERM_English_Formal: the Republic of the Philippines
+dv_UNTERM_Spanish_Formal: la República de Filipinas
+dv_UNTERM_Spanish: Filipinas
+dv_UNTERM_French: Philippines (les) [fém.]
+dv_UNTERM_Arabic: الفلبين
+dv_UNTERM_Arabic_Formal: جمهورية الفلبين
+dv_UNTERM_Chinese: 菲律宾
+dv_UNTERM_Chinese_Formal: 菲律宾共和国
+dv_UNTERM_French_Formal: la République des Philippines
+dv_UNTERM_Russian: Филиппины
+dv_UNTERM_Russian_Formal: Республика Филиппины
+dv_Region_Name: "[[../../../Asia]]"
+dv_Intermediate_Region_Name: "[[Philippines]]"
+dv_Sub-region_Name: "[[South-eastern Asia]]"
+dv_Region: 142
+dv_Sub-region: 35
+dv_Geoname-ID: 1694008
+dv_FIPS: RP
+dv_FIFA: PHI
+dv_IOC: PHI
+dv_MARC: ph
+dv_GAUL: 196
+dv_WMO: PH
+dv_ITU: PHL
+dv_DS: RP
+dv_TLD: .ph
+dv_EDGAR: R6
+dv_M49: 608
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 608
+dv_ISO2: PH
+dv_ISO3: PHL
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Philippines,928|WD~Philippines,928]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines|Philippines]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.public|Philippines.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal|Philippines.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.protect|Philippines.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.private|Philippines.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal|Philippines.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret|Philippines.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Philippines
+dv_has_name_de: Philippinen
+dv_Area-Total: 300000
+dv_Area-Land: 298170
+dv_has_place_continent: "[[../../../Oceania]]"
+dv_VehicleCode: RP
+dv_Capital: "[[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila]]"
+dv_Alcohol-l: 6.4
+dv_Language-Id: 472
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 120.97
+dv_has_place_latitude: 14.59
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Philippines,928|WD~Philippines,928]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines|Philippines]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.public|Philippines.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.internal|Philippines.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.protect|Philippines.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.private|Philippines.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.personal|Philippines.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines.secret|Philippines.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Philippines
+
 aliases:
   - Philippines
   - Filipinas
@@ -645,76 +732,78 @@ WIPO_ST_3: PH
 
 # [[Philippines]] 
 
-[	ISO4217-currency_alphabetic	 :: PHP ]
-[	ISO4217-currency_name	 :: Philippine Peso ]
-[	ISO4217-currency_numeric	 :: 608 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: PHILIPPINES ]
+## [[Philippines]] has Properties...
 
-[	Telephone	 :: 63 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Philippines ]
-[	name-en	 :: Philippines ]
-[	name-es	 :: Filipinas ]
-[	name-fr	 :: Philippines ]
-[	name-cn	 :: 菲律宾 ]
-[	name-ar	 :: الفلبين ]
-[	name-ru	 :: Филиппины ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Philippines ]
+name = `=this.dv_name`
+[	has_name_en	 :: Philippines ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: Philippines (the) ]
-[	UNTERM_English_Formal	 :: the Republic of the Philippines ]
-[	UNTERM_Spanish_Formal	 :: la República de Filipinas ]
-[	UNTERM_Spanish	 :: Filipinas ]
-[	UNTERM_French	 :: Philippines (les) [fém.] ]
-[	UNTERM_Arabic	 :: الفلبين ]
-[	UNTERM_Arabic_Formal	 :: جمهورية الفلبين ]
-[	UNTERM_Chinese	 :: 菲律宾 ]
-[	UNTERM_Chinese_Formal	 :: 菲律宾共和国 ]
-[	UNTERM_French_Formal	 :: la République des Philippines ]
-[	UNTERM_Russian	 :: Филиппины ]
-[	UNTERM_Russian_Formal	 :: Республика Филиппины ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[South-eastern Asia]] 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 35 ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 1694008 ]
-[	FIPS	 :: RP ]
-[	FIFA	 :: PHI ]
-[	IOC	 :: PHI ]
-[	MARC	 :: ph ]
-[	GAUL	 :: 196 ]
-[	WMO	 :: PH ]
-[	ITU	 :: PHL ]
-[	DS	 :: RP ]
-[	TLD	 :: .ph ]
-[	EDGAR	 :: R6 ]
-[	M49	 :: 608 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 608 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::PH]
-[ISO3::PHL] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Philippines,928|WD~Philippines,928]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Philippines 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe]] 
 
@@ -731,22 +820,22 @@ geojsonFolder: ./Philippines/
 markerFolder: ./Philippines/
 coordinates: [[Philippines]] 
 markerFile: [[Philippines]] 
-defaultZoom: 11 
+defaultZoom: 5 
 ```
 
-[name-en::Philippines]
-[name-de::Philippinen]
-[Area-Total::300000]
-[Area-Land::298170]
-has_place_continent:: [[Oceania]]  
-[VehicleCode::RP]
-Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila]]  
-[Alcohol-l::6.4]
-[Language-Id::472]
+[has_name_en::Philippines]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
-[has_place_longitude::120.97]
-[has_place_latitude::14.59]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

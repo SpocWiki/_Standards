@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q153840
-location: [-25.5, 70.0]
+location:
+  - -25.5
+  - 70
 coordinate_location: Point(70.0 -25.5)
 instance_of:
   - "[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]"
@@ -15,6 +17,25 @@ located_in_or_next_to_body_of_water:
 length: 7700
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Southwest%20Indian%20Ridge%20ETOPO1.png
 Commons_category: Southwest Indian Ridge
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Southwest_Indian_Ridge,153840|WD~Southwest_Indian_Ridge,153840]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge|Southwest_Indian_Ridge]]"
+    - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.public|Southwest_Indian_Ridge.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.internal|Southwest_Indian_Ridge.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.protect|Southwest_Indian_Ridge.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.private|Southwest_Indian_Ridge.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.personal|Southwest_Indian_Ridge.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.secret|Southwest_Indian_Ridge.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Southwest_Indian_Ridge,153840|WD~Southwest_Indian_Ridge,153840]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge|Southwest_Indian_Ridge]]"
+  - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.public|Southwest_Indian_Ridge.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.internal|Southwest_Indian_Ridge.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.protect|Southwest_Indian_Ridge.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.private|Southwest_Indian_Ridge.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.personal|Southwest_Indian_Ridge.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.secret|Southwest_Indian_Ridge.secret]]"
 ---
 
 # [[Southwest_Indian_Ridge]] 

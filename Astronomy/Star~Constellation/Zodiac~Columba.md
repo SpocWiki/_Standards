@@ -42,9 +42,9 @@ official_name: Columba
 
 [SpocWebEntityId::28106]
 
-[name-la::Columba]
-[name-genitive::Columbae]
-[name-de::Taube]
+[#has_/name_/la::Columba]
+[#has_/name_/la_/genitive::Columbae]
+[#has_/name_/de::Taube]
 
 #is_/same_as :: [[../../WikiData/WD~Columba,10425|WD~Columba,10425]] 
 

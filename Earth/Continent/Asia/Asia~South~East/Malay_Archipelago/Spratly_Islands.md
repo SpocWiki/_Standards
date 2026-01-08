@@ -6,25 +6,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 10.73
   - 115.82
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Spratly_Islands
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands|Spratly_Islands]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.public|Spratly_Islands.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.internal|Spratly_Islands.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.protect|Spratly_Islands.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.private|Spratly_Islands.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.personal|Spratly_Islands.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.secret|Spratly_Islands.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands|Spratly_Islands]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.public|Spratly_Islands.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.internal|Spratly_Islands.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.protect|Spratly_Islands.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.private|Spratly_Islands.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.personal|Spratly_Islands.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Spratly_Islands.secret|Spratly_Islands.secret]]"
 ---
 
 # Spratly_Islands

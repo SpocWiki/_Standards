@@ -2,13 +2,39 @@
 aliases:
   - Father of Chinese Rocketry
   - Qian,Xuesen
+dv_has_:
+  time_:
+    started: 1911-12-11T00:00:00.000+01:00
+    stopped: 2009-10-31T00:00:00.000+01:00
+  duration_:
+    years: 98
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Qian,Xuesen|Qian,Xuesen]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Qian,Xuesen.public|Qian,Xuesen.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.internal|Qian,Xuesen.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Qian,Xuesen.protect|Qian,Xuesen.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Qian,Xuesen.private|Qian,Xuesen.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.personal|Qian,Xuesen.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Qian,Xuesen.secret|Qian,Xuesen.secret]]"
+dv_has_time_started: 1911-12-11
+dv_has_time_stopped: 2009-10-31
+dv_has_duration_years: 98
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Qian,Xuesen|Qian,Xuesen]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Qian,Xuesen.public|Qian,Xuesen.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.internal|Qian,Xuesen.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Qian,Xuesen.protect|Qian,Xuesen.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Qian,Xuesen.private|Qian,Xuesen.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.personal|Qian,Xuesen.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Qian,Xuesen.secret|Qian,Xuesen.secret]]"
 ---
 
 # [[Qian,Xuesen]] 
 
-#has_/time_/started :: 1911-12-11 
-#has_/time_/stopped  :: 2009-10-31  
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
 
 ## #has_/text_of_/abstract 
 

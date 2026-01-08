@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Jewish_history,961603]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Jewish_History|Jewish_History]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Jewish_History.public|Jewish_History.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Jewish_History.internal|Jewish_History.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Jewish_History.protect|Jewish_History.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Jewish_History.private|Jewish_History.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Jewish_History.personal|Jewish_History.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Jewish_History.secret|Jewish_History.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Jewish_history,961603]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Jewish_History|Jewish_History]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Jewish_History.public|Jewish_History.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Jewish_History.internal|Jewish_History.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Jewish_History.protect|Jewish_History.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Jewish_History.private|Jewish_History.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Jewish_History.personal|Jewish_History.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Jewish_History.secret|Jewish_History.secret]]"
+---
 
 # [[Jewish_History]] 
 

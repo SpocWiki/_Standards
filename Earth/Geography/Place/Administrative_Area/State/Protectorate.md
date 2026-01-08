@@ -16,11 +16,32 @@ described_by_source:
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~protector,114049706]]"
 Library_of_Congress_Classification: KZ4061
 OmegaWiki_Defined_Meaning: "799006"
+dv_is_:
+  different_from: "[[../../../../../Society/Politics/Government/Colonialism/Colony|Colony]]"
+  same_as:
+    - "[[../../../../../WikiData/WD~Protectorate,164142]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Protectorate|Protectorate]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Protectorate.public|Protectorate.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Protectorate.internal|Protectorate.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Protectorate.protect|Protectorate.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Protectorate.private|Protectorate.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Protectorate.personal|Protectorate.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Protectorate.secret|Protectorate.secret]]"
+dv_is_different_from: "[[../../../../../Society/Politics/Government/Colonialism/Colony|Colony]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Protectorate,164142]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Protectorate|Protectorate]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Protectorate.public|Protectorate.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Protectorate.internal|Protectorate.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Protectorate.protect|Protectorate.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Protectorate.private|Protectorate.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Protectorate.personal|Protectorate.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Protectorate.secret|Protectorate.secret]]"
 ---
 
 # [[Protectorate]] 
 
-#is_/different_from :: [[../../../../../Society/Politics/Government/Colonialism/Colony|Colony]] 
+is_different_from = `=this.dv_is_different_from`
 #is_/same_as :: [[WD~Protectorate,164142]] 
 
 ## #has_/text_of_/abstract 

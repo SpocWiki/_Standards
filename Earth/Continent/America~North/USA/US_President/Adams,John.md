@@ -3,35 +3,64 @@ aliases:
   - Adams,John
   - John Adams
   - John_Adams
-  - ''
+  - ""
 has_id_wikidata: Q11806
 confidential: private
 cssclasses: private note
 draft: true
-expiryDate: ''
-has_Template: '[[Extract~Note~Template]]'
+expiryDate: ""
+has_Template: "[[Extract~Note~Template]]"
 isDeleted: false
 isReadOnly: false
 keywords: Adams,John
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle: Adams,John
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
-  - ''
+  - ""
 title: Adams,John
 type: private_note
+dv_has_role: "[[../US_President]]"
+dv_created: 1797-03-04
+dv_cancelled: 1801-03-04
+dv_has_:
+  time_:
+    started: 1735-10-30T00:00:00.000+00:53
+    stopped: 1826-07-04T00:00:00.000+00:53
+dv_is_member_of: "[[Federalist Party]]"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~John_Adams,11806|WD~John_Adams,11806]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Adams,John|Adams,John]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/Adams,John.public|Adams,John.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Adams,John.internal|Adams,John.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Adams,John.protect|Adams,John.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/Adams,John.private|Adams,John.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Adams,John.personal|Adams,John.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Adams,John.secret|Adams,John.secret]]"
+dv_has_time_started: 1735-10-30
+dv_has_time_stopped: 1826-07-04
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~John_Adams,11806|WD~John_Adams,11806]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Adams,John|Adams,John]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/Adams,John.public|Adams,John.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Adams,John.internal|Adams,John.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Adams,John.protect|Adams,John.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/Adams,John.private|Adams,John.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Adams,John.personal|Adams,John.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Adams,John.secret|Adams,John.secret]]"
 ---
 
 # [[Adams,John]] 
 
-#has_/time_/started :: 1735-10-30
-#has_/time_/stopped  :: 1826-07-04
-[is_member_of :: [[Federalist Party]]] 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
+is_member_of = `=this.dv_is_member_of`]] 
 
--   [has_role :: [[../US_President]] ] [created:: 1797-03-04]  [cancelled:: 1801-03-04]  
+-   [has_role :: [[../US_President]] ] [created:: 1797-03-04]cancelled = `=this.dv_cancelled`
 
 #is_/same_as :: [[../../../../WikiData/WD~John_Adams,11806|WD~John_Adams,11806]] 
 

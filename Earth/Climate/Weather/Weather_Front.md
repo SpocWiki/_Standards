@@ -5,22 +5,41 @@ aliases:
   - Weather Front
 has_id_wikidata: Q189796
 has_part_s_:
-  - '[[_Standards/WikiData/WD~cold_front,210316]]'
-  - '[[_Standards/WikiData/WD~warm_front,537536]]'
-  - '[[_Standards/WikiData/WD~occluded_front,747330]]'
-  - '[[_Standards/WikiData/WD~stationary_front,1194255]]'
-  - '[[_Standards/WikiData/WD~dry_line,2742789]]'
+  - "[[_Standards/WikiData/WD~cold_front,210316]]"
+  - "[[_Standards/WikiData/WD~warm_front,537536]]"
+  - "[[_Standards/WikiData/WD~occluded_front,747330]]"
+  - "[[_Standards/WikiData/WD~stationary_front,1194255]]"
+  - "[[_Standards/WikiData/WD~dry_line,2742789]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia,234535]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-instance_of: '[[_Standards/WikiData/WD~interface,901882]]'
-has_cause: '[[_Standards/WikiData/WD~frontogenesis,2678309]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia,234535]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+instance_of: "[[_Standards/WikiData/WD~interface,901882]]"
+has_cause: "[[_Standards/WikiData/WD~frontogenesis,2678309]]"
 OmegaWiki_Defined_Meaning: 6440
 Commons_category: Atmospheric fronts
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Surface%20analysis.gif
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/NWS%20weather%20fronts.svg
 Commons_gallery: Weather front
 Dewey_Decimal_Classification: 551.5512
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Weather_front,189796|WD~Weather_front,189796]]"
+    - "[[/_Standards/Earth/Climate/Weather/Weather_Front|Weather_Front]]"
+    - "[[/_public/Earth/Climate/Weather/Weather_Front.public|Weather_Front.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Weather_Front.internal|Weather_Front.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Weather_Front.protect|Weather_Front.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Weather_Front.private|Weather_Front.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Weather_Front.personal|Weather_Front.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Weather_Front.secret|Weather_Front.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Weather_front,189796|WD~Weather_front,189796]]"
+  - "[[/_Standards/Earth/Climate/Weather/Weather_Front|Weather_Front]]"
+  - "[[/_public/Earth/Climate/Weather/Weather_Front.public|Weather_Front.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Weather_Front.internal|Weather_Front.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Weather_Front.protect|Weather_Front.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Weather_Front.private|Weather_Front.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Weather_Front.personal|Weather_Front.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Weather_Front.secret|Weather_Front.secret]]"
 ---
 
 # [[Weather_Front]] 

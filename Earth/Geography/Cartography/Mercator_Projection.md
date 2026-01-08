@@ -27,6 +27,25 @@ image:
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Worlds%20animate.gif
 Stack_Exchange_tag: https://stackoverflow.com/tags/mercator
 Commons_category: Mercator projection
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Mercator_projection,309372]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Mercator_Projection|Mercator_Projection]]"
+    - "[[/_public/Earth/Geography/Cartography/Mercator_Projection.public|Mercator_Projection.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Mercator_Projection.internal|Mercator_Projection.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Mercator_Projection.protect|Mercator_Projection.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Mercator_Projection.private|Mercator_Projection.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Mercator_Projection.personal|Mercator_Projection.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Mercator_Projection.secret|Mercator_Projection.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Mercator_projection,309372]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Mercator_Projection|Mercator_Projection]]"
+  - "[[/_public/Earth/Geography/Cartography/Mercator_Projection.public|Mercator_Projection.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Mercator_Projection.internal|Mercator_Projection.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Mercator_Projection.protect|Mercator_Projection.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Mercator_Projection.private|Mercator_Projection.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Mercator_Projection.personal|Mercator_Projection.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Mercator_Projection.secret|Mercator_Projection.secret]]"
 ---
 
 # [[Mercator_Projection]] 

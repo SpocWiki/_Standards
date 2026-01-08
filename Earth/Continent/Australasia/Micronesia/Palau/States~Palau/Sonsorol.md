@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 5.3
   - 132.22
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Sonsorol
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol|Sonsorol]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.public|Sonsorol.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.internal|Sonsorol.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.protect|Sonsorol.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.private|Sonsorol.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.personal|Sonsorol.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.secret|Sonsorol.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol|Sonsorol]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.public|Sonsorol.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.internal|Sonsorol.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.protect|Sonsorol.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.private|Sonsorol.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.personal|Sonsorol.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.secret|Sonsorol.secret]]"
 ---
 
 # Sonsorol

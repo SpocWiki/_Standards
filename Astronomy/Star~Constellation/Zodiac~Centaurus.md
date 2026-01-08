@@ -44,9 +44,9 @@ Hederich_encyclopedia_article: Centavrvs
 
 [SpocWebEntityId::28101]
 
-[name-la::Centaurus]
-[name-genitive::Centauri]
-[name-de::Zentaur]
+[#has_/name_/la::Centaurus]
+[#has_/name_/la_/genitive::Centauri]
+[#has_/name_/de::Zentaur]
 
 #is_/same_as :: [[../../WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]  
 

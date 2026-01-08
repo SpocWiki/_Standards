@@ -1,6 +1,28 @@
-﻿---
+---
+dv_"Building", "LighthouseOfAlexandria: gjm46"
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Lighthouse_of_Alexandria,43244]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria|Lighthouse_of_Alexandria]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.public|Lighthouse_of_Alexandria.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.internal|Lighthouse_of_Alexandria.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.protect|Lighthouse_of_Alexandria.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.private|Lighthouse_of_Alexandria.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.personal|Lighthouse_of_Alexandria.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.secret|Lighthouse_of_Alexandria.secret]]"
+dv_building-lighthouseofalexandria: gjm46"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Lighthouse_of_Alexandria,43244]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria|Lighthouse_of_Alexandria]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.public|Lighthouse_of_Alexandria.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.internal|Lighthouse_of_Alexandria.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.protect|Lighthouse_of_Alexandria.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.private|Lighthouse_of_Alexandria.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.personal|Lighthouse_of_Alexandria.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Lighthouse_of_Alexandria.secret|Lighthouse_of_Alexandria.secret]]"
+
 has_time_stopped: 1480-01-01 
-location: [ 29.885 , 31.214167 ] 
+location: [ 31.214167, 29.885 ] 
 aliases:
   - Lighthouse of Alexandria
   - Pharos of Alexandria
@@ -42,13 +64,27 @@ Commons_category: Pharos of Alexandria
 coordinate_location: Point(29.885 31.214167)
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Antikes%20Alexandria%20Karte.JPG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse%20-%20Thiersch.png
-Wolfram_Language_entity_code: Entity["Building", "LighthouseOfAlexandria::gjm46"]
+Wolfram_Language_entity_code: Entity"Building", "LighthouseOfAlexandria = `=this.dv_"Building", "LighthouseOfAlexandria`
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/ALEKSANDRISKI_MAYAK.html
 ---
 
 # [[Lighthouse_of_Alexandria]] 
 
 #is_/same_as :: [[WD~Lighthouse_of_Alexandria,43244]] 
+
+## #has_/map  
+
+```leaflet
+id: Lighthouse_of_Alexandria
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Lighthouse_of_Alexandria//
+markerFolder: ./Lighthouse_of_Alexandria/
+coordinates: [[Lighthouse_of_Alexandria]] 
+markerFile: [[Lighthouse_of_Alexandria]] 
+defaultZoom: 12 
+```
 
 ## #has_/text_of_/abstract 
 

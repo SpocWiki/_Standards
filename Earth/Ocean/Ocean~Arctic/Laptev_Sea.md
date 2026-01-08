@@ -1,5 +1,24 @@
-﻿---
-location: [ 125.0 , 76.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Laptev_Sea,7988]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Arctic/Laptev_Sea|Laptev_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Arctic/Laptev_Sea.public|Laptev_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.internal|Laptev_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Arctic/Laptev_Sea.protect|Laptev_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Arctic/Laptev_Sea.private|Laptev_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.personal|Laptev_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Arctic/Laptev_Sea.secret|Laptev_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Laptev_Sea,7988]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Arctic/Laptev_Sea|Laptev_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Arctic/Laptev_Sea.public|Laptev_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.internal|Laptev_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Arctic/Laptev_Sea.protect|Laptev_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Arctic/Laptev_Sea.private|Laptev_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.personal|Laptev_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Arctic/Laptev_Sea.secret|Laptev_Sea.secret]]"
+
 aliases:
   - Laptev Sea
   - Nordenskiöld Sea
@@ -51,12 +70,12 @@ native_label:
 ```leaflet
 id: Laptev_Sea
 minZoom: 2 
-defaultZoom: 6 
 maxZoom: 18
 geojsonFolder: ./Laptev_Sea/
 markerFolder: ./Laptev_Sea/
 coordinates: [[Laptev_Sea]] 
 markerFile: [[Laptev_Sea]] 
+defaultZoom: 2 
 ```
 
 

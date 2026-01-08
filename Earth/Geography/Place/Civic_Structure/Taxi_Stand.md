@@ -10,21 +10,44 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - taxi_stand
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_taxi_stand Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_taxi_stand Class
 type: Type
+dv_#is_:
+  sub_class_of: "[[../CivicStructure]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Taxi_Stand|Taxi_Stand]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Taxi_Stand.public|Taxi_Stand.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Taxi_Stand.internal|Taxi_Stand.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Taxi_Stand.protect|Taxi_Stand.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Taxi_Stand.private|Taxi_Stand.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Taxi_Stand.personal|Taxi_Stand.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Taxi_Stand.secret|Taxi_Stand.secret]]"
+dv_is_sub_class_of: "[[../CivicStructure]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Taxi_Stand|Taxi_Stand]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Taxi_Stand.public|Taxi_Stand.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Taxi_Stand.internal|Taxi_Stand.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Taxi_Stand.protect|Taxi_Stand.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Taxi_Stand.private|Taxi_Stand.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Taxi_Stand.personal|Taxi_Stand.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Taxi_Stand.secret|Taxi_Stand.secret]]"
 ---
 
 Class of all taxi_stands.
@@ -34,9 +57,9 @@ Tag Instances like this:
 
 A taxi stand.
 
-[ #is_/sub_class_of :: [[../CivicStructure]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 
 ## Confidential Links & Embeds: 

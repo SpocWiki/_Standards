@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[WD~Meenakshi_Temple,1424358]]"
+    - "[[/_Standards/Earth/Geography/Place/Meenakshi_Temple|Meenakshi_Temple]]"
+    - "[[/_public/Earth/Geography/Place/Meenakshi_Temple.public|Meenakshi_Temple.public]]"
+    - "[[/_internal/Earth/Geography/Place/Meenakshi_Temple.internal|Meenakshi_Temple.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Meenakshi_Temple.protect|Meenakshi_Temple.protect]]"
+    - "[[/_private/Earth/Geography/Place/Meenakshi_Temple.private|Meenakshi_Temple.private]]"
+    - "[[/_personal/Earth/Geography/Place/Meenakshi_Temple.personal|Meenakshi_Temple.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Meenakshi_Temple.secret|Meenakshi_Temple.secret]]"
+dv_is_same_as:
+  - "[[WD~Meenakshi_Temple,1424358]]"
+  - "[[/_Standards/Earth/Geography/Place/Meenakshi_Temple|Meenakshi_Temple]]"
+  - "[[/_public/Earth/Geography/Place/Meenakshi_Temple.public|Meenakshi_Temple.public]]"
+  - "[[/_internal/Earth/Geography/Place/Meenakshi_Temple.internal|Meenakshi_Temple.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Meenakshi_Temple.protect|Meenakshi_Temple.protect]]"
+  - "[[/_private/Earth/Geography/Place/Meenakshi_Temple.private|Meenakshi_Temple.private]]"
+  - "[[/_personal/Earth/Geography/Place/Meenakshi_Temple.personal|Meenakshi_Temple.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Meenakshi_Temple.secret|Meenakshi_Temple.secret]]"
+
 has_time_started: 1200-01-01 
-location: [ 78.119444444 , 9.919722222 ] 
+location: [ 9.919722222, 78.119444444 ] 
 aliases:
   - Meenakshi Temple
   - Arulmigu Meenakshi Sundareswarar Temple
@@ -27,9 +47,23 @@ image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Meenakshi%
 
 # [[Meenakshi_Temple]] 
 
-![[../../../assets/Pasted image 20250817165100.png]] 
+![[../../../assets/Meenakshi_Temple.png]] 
 By <a href="//commons.wikimedia.org/wiki/User:%E0%AE%8E%E0%AE%B8%E0%AF%8D%E0%AE%B8%E0%AE%BE%E0%AE%B0%E0%AF%8D" title="User:எஸ்ஸார்">எஸ்ஸார்</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14140355">Link</a> 
 #is_/same_as :: [[WD~Meenakshi_Temple,1424358]]
+
+## #has_/map  
+
+```leaflet
+id: Meenakshi_Temple
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Meenakshi_Temple//
+markerFolder: ./Meenakshi_Temple/
+coordinates: [[Meenakshi_Temple]] 
+markerFile: [[Meenakshi_Temple]] 
+defaultZoom: 15 
+```
 
 ## #has_/text_of_/abstract 
 

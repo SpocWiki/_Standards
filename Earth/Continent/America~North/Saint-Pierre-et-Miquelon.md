@@ -1,4 +1,38 @@
-﻿---
+---
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Saint-Pierre-et-Miquelon
+dv_ISO2: PM
+dv_ISO3: SPM
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]"
+    - "[[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]]"
+    - "[[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public|Saint-Pierre-et-Miquelon.public]]"
+    - "[[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.protect|Saint-Pierre-et-Miquelon.protect]]"
+    - "[[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]]"
+    - "[[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]]"
+dv_has_name_en: Saint-Pierre-et-Miquelon
+dv_has_name_de: St. Pierre und Miquelon
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_has_place_continent: "[[North-America]]"
+dv_has_place_longitude: -56.1667
+dv_has_place_latitude: 46.7833
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Saint-Pierre-et-Miquelon
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]"
+  - "[[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]]"
+  - "[[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public|Saint-Pierre-et-Miquelon.public]]"
+  - "[[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.protect|Saint-Pierre-et-Miquelon.protect]]"
+  - "[[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]]"
+  - "[[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]]"
+
 has_time_started: 1700-01-01 
 aliases:
   - Saint Pierre and Miquelon
@@ -109,12 +143,12 @@ location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pierre%
 # [[Saint-Pierre-et-Miquelon]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Saint-Pierre-et-Miquelon 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Saint-Pierre-et-Miquelon/ReadMe]] 
 
-[ISO2::PM]
-[ISO3::SPM] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]
 
@@ -129,17 +163,17 @@ geojsonFolder: ./Saint-Pierre-et-Miquelon//
 markerFolder: ./Saint-Pierre-et-Miquelon///
 ```
 
-[name-en::Saint-Pierre-et-Miquelon]
-[name-de::St. Pierre und Miquelon]
-[Area-Total::0]
-[Area-Land::0]
-has_place_continent:: [[North-America]]  
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::]
-[has_place_longitude::-56.1667]
-[has_place_latitude::46.7833]
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/text_of_/abstract 
 

@@ -107,7 +107,7 @@ ZVG_number: 8480
 #is_/same_as :: [[../../../WikiData/WD~Gold,897]] 
 
 [GroupName::Group-11-Copper]
-[Group:[[../Group-11-Copper]]
+Group::[[../Group-11-Copper]]
 
 
 [#has_/name_/en::Gold]
@@ -116,7 +116,7 @@ ZVG_number: 8480
 [AtomRadius::1.79]
 [Atom-Vol-ccm-mol::10.2]
 [Unknown2::1.34]
-[#has_/radius_/nm::9.225]
+[#has_/radius_/nano_/m::9.225]
 [Electronegative::2.5]
 [Density::19.3]
 [#has_/value_for_/temperature_/melt_/c ::1064.4]

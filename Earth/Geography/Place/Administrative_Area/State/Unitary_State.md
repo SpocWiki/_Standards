@@ -9,11 +9,32 @@ has_part_s_: "[[_Standards/WikiData/WD~unitary_parliamentary_republic,22909549]]
 different_from: "[[_Standards/WikiData/WD~centralized_government,25585330]]"
 subclass_of: "[[_Standards/WikiData/WD~state,7275]]"
 vocalized_name: מְדִינַת שִׁלְטוֹן מָאֳחָד
+dv_is_:
+  opposite_of: "[[Federation]]"
+  same_as:
+    - "[[../../../../../WikiData/WD~Unitary_state,179164]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Unitary_State|Unitary_State]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Unitary_State.public|Unitary_State.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Unitary_State.internal|Unitary_State.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Unitary_State.protect|Unitary_State.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Unitary_State.private|Unitary_State.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Unitary_State.personal|Unitary_State.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Unitary_State.secret|Unitary_State.secret]]"
+dv_is_opposite_of: "[[Federation]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Unitary_state,179164]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Unitary_State|Unitary_State]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Unitary_State.public|Unitary_State.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Unitary_State.internal|Unitary_State.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Unitary_State.protect|Unitary_State.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Unitary_State.private|Unitary_State.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Unitary_State.personal|Unitary_State.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Unitary_State.secret|Unitary_State.secret]]"
 ---
 
 # [[Unitary_State]] 
 
-#is_/opposite_of :: [[Federation|Federation]] 
+is_opposite_of = `=this.dv_is_opposite_of`
 #is_/same_as :: [[WD~Unitary_state,179164]] 
 
 ## #has_/text_of_/abstract 

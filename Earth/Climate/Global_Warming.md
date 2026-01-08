@@ -6,55 +6,76 @@ aliases:
 has_id_wikidata: Q7942
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/The%20heat%20is%20on%20ESA19461898.jpeg
 Commons_category: Global warming
-contributing_factor_of: '[[_Standards/WikiData/WD~arctic_sea_ice_decline,16243069]]'
+contributing_factor_of: "[[_Standards/WikiData/WD~arctic_sea_ice_decline,16243069]]"
 GitHub_topic: global-warming
-has_cause: '[[_Standards/WikiData/WD~greenhouse_gas_emissions,106358009]]'
+has_cause: "[[_Standards/WikiData/WD~greenhouse_gas_emissions,106358009]]"
 has_characteristic:
-  - '[[_Standards/WikiData/WD~summer_heat,12888883]]'
-  - '[[_Standards/WikiData/WD~global_boiling,120999124]]'
-has_contributing_factor: '[[_Standards/WikiData/WD~coal-fired_power_station,6558431]]'
+  - "[[_Standards/WikiData/WD~summer_heat,12888883]]"
+  - "[[_Standards/WikiData/WD~global_boiling,120999124]]"
+has_contributing_factor: "[[_Standards/WikiData/WD~coal-fired_power_station,6558431]]"
 has_effect:
-  - '[[_Standards/WikiData/WD~wildfire,169950]]'
-  - '[[_Standards/WikiData/WD~heat_wave,215864]]'
-  - '[[_Standards/WikiData/WD~sea_level_rise,841083]]'
-  - '[[_Standards/WikiData/WD~ocean_acidification,855711]]'
-  - '[[_Standards/WikiData/WD~retreat_of_glaciers_since_1850,903816]]'
-  - '[[_Standards/WikiData/WD~extreme_weather,1277161]]'
-  - '[[_Standards/WikiData/WD~environmental_degradation,1334780]]'
-  - '[[_Standards/WikiData/WD~water_scarcity,5376358]]'
-  - '[[_Standards/WikiData/WD~extinction_risk_from_global_warming,5422084]]'
-  - '[[_Standards/WikiData/WD~social_inequality,5431887]]'
-  - '[[_Standards/WikiData/WD~polar_amplification,7209060]]'
-  - '[[_Standards/WikiData/WD~global_warming_controversy,15278684]]'
-  - '[[_Standards/WikiData/WD~biodiversity_loss,18466271]]'
-  - '[[_Standards/WikiData/WD~natural_disaster,8065]]'
-  - '[[_Standards/WikiData/WD~extinction_event,55814]]'
+  - "[[_Standards/WikiData/WD~wildfire,169950]]"
+  - "[[_Standards/WikiData/WD~heat_wave,215864]]"
+  - "[[_Standards/WikiData/WD~sea_level_rise,841083]]"
+  - "[[_Standards/WikiData/WD~ocean_acidification,855711]]"
+  - "[[_Standards/WikiData/WD~retreat_of_glaciers_since_1850,903816]]"
+  - "[[_Standards/WikiData/WD~extreme_weather,1277161]]"
+  - "[[_Standards/WikiData/WD~environmental_degradation,1334780]]"
+  - "[[_Standards/WikiData/WD~water_scarcity,5376358]]"
+  - "[[_Standards/WikiData/WD~extinction_risk_from_global_warming,5422084]]"
+  - "[[_Standards/WikiData/WD~social_inequality,5431887]]"
+  - "[[_Standards/WikiData/WD~polar_amplification,7209060]]"
+  - "[[_Standards/WikiData/WD~global_warming_controversy,15278684]]"
+  - "[[_Standards/WikiData/WD~biodiversity_loss,18466271]]"
+  - "[[_Standards/WikiData/WD~natural_disaster,8065]]"
+  - "[[_Standards/WikiData/WD~extinction_event,55814]]"
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Global%20Warming%20icon%20-%20Noun%20Project%204963.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Change%20in%20Average%20Temperature%20With%20Fahrenheit.svg
 IMDb_keyword: global-warming
 instance_of:
-  - '[[_Standards/WikiData/WD~human_impact_on_the_environment,574376]]'
-  - '[[_Standards/WikiData/WD~environmental_issue,2144359]]'
-  - '[[_Standards/WikiData/WD~atmospheric_phenomenon,4072190]]'
+  - "[[_Standards/WikiData/WD~human_impact_on_the_environment,574376]]"
+  - "[[_Standards/WikiData/WD~environmental_issue,2144359]]"
+  - "[[_Standards/WikiData/WD~atmospheric_phenomenon,4072190]]"
 IPTC_NewsCode: mediatopic/20000419
 MeSH_tree_code: G16.500.175.374.500
 OmegaWiki_Defined_Meaning: 1662
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-opposite_of: '[[_Standards/WikiData/WD~global_cooling,1322176]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+opposite_of: "[[_Standards/WikiData/WD~global_cooling,1322176]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Erderw%C3%A4rmung.ogg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Global%20Temperature%20Anomaly.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Calentamiento%20global%20%28hablado%20por%20voz%20AI%29.mp3
-studied_in: '[[_Standards/WikiData/WD~climatology,52139]]'
+studied_in: "[[_Standards/WikiData/WD~climatology,52139]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~climate_change,125928]]'
-  - '[[_Standards/WikiData/WD~external_risk,5422048]]'
+  - "[[_Standards/WikiData/WD~climate_change,125928]]"
+  - "[[_Standards/WikiData/WD~external_risk,5422048]]"
 UMLS_CUI: C0206217
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Animation%20of%20temperature%20changes%20by%20country%20between%201880%20and%202021.webm
   - http://commons.wikimedia.org/wiki/Special:FilePath/Global%20Warming.webm
   - http://commons.wikimedia.org/wiki/Special:FilePath/Klimafaktor%20Sonne%20%28ZDF%2C%20Terra%20X%29%20720p%20HD%2050FPS.webm
-Wolfram_Language_entity_code: Entity["Concept", "GlobalWarming::j9953"]
+Wolfram_Language_entity_code: Entity"Concept", "GlobalWarming = `=this.dv_"Concept", "GlobalWarming`
 WordLift_URL: http://data.thenextweb.com/tnw/entity/global_warming
+dv_"Concept", "GlobalWarming: j9953"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Global_warming,7942|WD~Global_warming,7942]]"
+    - "[[/_Standards/Earth/Climate/Global_Warming|Global_Warming]]"
+    - "[[/_public/Earth/Climate/Global_Warming.public|Global_Warming.public]]"
+    - "[[/_internal/Earth/Climate/Global_Warming.internal|Global_Warming.internal]]"
+    - "[[/_protect/Earth/Climate/Global_Warming.protect|Global_Warming.protect]]"
+    - "[[/_private/Earth/Climate/Global_Warming.private|Global_Warming.private]]"
+    - "[[/_personal/Earth/Climate/Global_Warming.personal|Global_Warming.personal]]"
+    - "[[/_secret/Earth/Climate/Global_Warming.secret|Global_Warming.secret]]"
+dv_concept-globalwarming: j9953"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Global_warming,7942|WD~Global_warming,7942]]"
+  - "[[/_Standards/Earth/Climate/Global_Warming|Global_Warming]]"
+  - "[[/_public/Earth/Climate/Global_Warming.public|Global_Warming.public]]"
+  - "[[/_internal/Earth/Climate/Global_Warming.internal|Global_Warming.internal]]"
+  - "[[/_protect/Earth/Climate/Global_Warming.protect|Global_Warming.protect]]"
+  - "[[/_private/Earth/Climate/Global_Warming.private|Global_Warming.private]]"
+  - "[[/_personal/Earth/Climate/Global_Warming.personal|Global_Warming.personal]]"
+  - "[[/_secret/Earth/Climate/Global_Warming.secret|Global_Warming.secret]]"
 ---
 
 # [[Global_Warming]] 

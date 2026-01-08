@@ -89,7 +89,7 @@ ZVG_number: 7270
 #is_/same_as :: [[../../../WikiData/WD~Cobalt,740]] 
 
 [GroupName::Group-09-Cobalt]
-[Group:[[../Group-09-Cobalt]]
+Group::[[../Group-09-Cobalt]]
 
 
 [#has_/name_/en::Cobalt]
@@ -98,7 +98,7 @@ ZVG_number: 7270
 [AtomRadius::1.67]
 [Atom-Vol-ccm-mol::6.7]
 [Unknown2::1.16]
-[#has_/radius_/nm::7.86]
+[#has_/radius_/nano_/m::7.86]
 [Electronegative::1.9]
 [Density::8.9]
 [#has_/value_for_/temperature_/melt_/c ::1495]

@@ -1,8 +1,25 @@
 ---
 aliases:
   - _South-America-CityDB
-  - ' South-America-CityDB'
+  - " South-America-CityDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~South/_South-America-CityDB|_South-America-CityDB]]"
+    - "[[/_public/Earth/Continent/America~South/_South-America-CityDB.public|_South-America-CityDB.public]]"
+    - "[[/_internal/Earth/Continent/America~South/_South-America-CityDB.internal|_South-America-CityDB.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/_South-America-CityDB.protect|_South-America-CityDB.protect]]"
+    - "[[/_private/Earth/Continent/America~South/_South-America-CityDB.private|_South-America-CityDB.private]]"
+    - "[[/_personal/Earth/Continent/America~South/_South-America-CityDB.personal|_South-America-CityDB.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/_South-America-CityDB.secret|_South-America-CityDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~South/_South-America-CityDB|_South-America-CityDB]]"
+  - "[[/_public/Earth/Continent/America~South/_South-America-CityDB.public|_South-America-CityDB.public]]"
+  - "[[/_internal/Earth/Continent/America~South/_South-America-CityDB.internal|_South-America-CityDB.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/_South-America-CityDB.protect|_South-America-CityDB.protect]]"
+  - "[[/_private/Earth/Continent/America~South/_South-America-CityDB.private|_South-America-CityDB.private]]"
+  - "[[/_personal/Earth/Continent/America~South/_South-America-CityDB.personal|_South-America-CityDB.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/_South-America-CityDB.secret|_South-America-CityDB.secret]]"
 ---
 
 ```yaml:dbfolder

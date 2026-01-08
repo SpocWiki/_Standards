@@ -9,21 +9,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_of_water
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_body_of_water Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_body_of_water Class
 type: Type
+dv_#has_:
+  sub_classes: "[ Canal, LakeBodyOfWater, OceanBodyOfWater, Pond, Reservoir, RiverBodyOfWater, SeaBodyOfWater, Waterfall ]"
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Geology/Landform/body_of_water|body_of_water]]"
+    - "[[/_public/Earth/Geology/Landform/body_of_water.public|body_of_water.public]]"
+    - "[[/_internal/Earth/Geology/Landform/body_of_water.internal|body_of_water.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/body_of_water.protect|body_of_water.protect]]"
+    - "[[/_private/Earth/Geology/Landform/body_of_water.private|body_of_water.private]]"
+    - "[[/_personal/Earth/Geology/Landform/body_of_water.personal|body_of_water.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/body_of_water.secret|body_of_water.secret]]"
+dv_has_sub_classes: "[ Canal, LakeBodyOfWater, OceanBodyOfWater, Pond, Reservoir, RiverBodyOfWater, SeaBodyOfWater, Waterfall ]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geology/Landform/body_of_water|body_of_water]]"
+  - "[[/_public/Earth/Geology/Landform/body_of_water.public|body_of_water.public]]"
+  - "[[/_internal/Earth/Geology/Landform/body_of_water.internal|body_of_water.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/body_of_water.protect|body_of_water.protect]]"
+  - "[[/_private/Earth/Geology/Landform/body_of_water.private|body_of_water.private]]"
+  - "[[/_personal/Earth/Geology/Landform/body_of_water.personal|body_of_water.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/body_of_water.secret|body_of_water.secret]]"
 ---
 
 Class of all body_of_waters.
@@ -35,9 +57,9 @@ A body of water, such as a sea, ocean, or lake.
 
 [ #is_/sub_class_of [[../Landform]]] ]
 
-[ #has_/sub_classes :: [ Canal, LakeBodyOfWater, OceanBodyOfWater, Pond, Reservoir, RiverBodyOfWater, SeaBodyOfWater, Waterfall ] ]
+has_sub_classes = `=this.dv_has_sub_classes` ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 
 ## Confidential Links & Embeds: 

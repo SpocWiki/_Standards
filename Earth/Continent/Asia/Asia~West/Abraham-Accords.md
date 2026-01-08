@@ -2,18 +2,40 @@
 aliases:
   - Abraham-Accords
 has_participants:
-  - '[[Israel]]'
-  - '[[Bahrain]]'
-  - '[[../../America~North/USA]]'
-  - '[[United_Arab_Emirates]]'
-  - '[[../../Africa/Africa~North/Morocco|Morocco]]'
-  - '[[../../Africa/Africa~East/Sudan/Sudan~North]]'
+  - "[[Israel]]"
+  - "[[Bahrain]]"
+  - "[[../../America~North/USA]]"
+  - "[[United_Arab_Emirates]]"
+  - "[[../../Africa/Africa~North/Morocco|Morocco]]"
+  - "[[../../Africa/Africa~East/Sudan/Sudan~North]]"
+dv_has_:
+  time_:
+    started: 2020-09-15T00:00:00.000+02:00
+  participants: "[[Israel]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Abraham-Accords|Abraham-Accords]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Abraham-Accords.public|Abraham-Accords.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Abraham-Accords.internal|Abraham-Accords.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Abraham-Accords.protect|Abraham-Accords.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Abraham-Accords.private|Abraham-Accords.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Abraham-Accords.personal|Abraham-Accords.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Abraham-Accords.secret|Abraham-Accords.secret]]"
+dv_has_time_started: 2020-09-15
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Abraham-Accords|Abraham-Accords]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Abraham-Accords.public|Abraham-Accords.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Abraham-Accords.internal|Abraham-Accords.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Abraham-Accords.protect|Abraham-Accords.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Abraham-Accords.private|Abraham-Accords.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Abraham-Accords.personal|Abraham-Accords.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Abraham-Accords.secret|Abraham-Accords.secret]]"
 ---
 
 # [[Abraham-Accords]] 
 
 
-#has_/time_/started :: 2020-09-15 
+has_time_started = `=this.dv_has_time_started`
 #has_/participants :: [[Israel]] 
 
 ## #has_/text_of_/abstract 

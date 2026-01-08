@@ -1,5 +1,91 @@
-﻿---
-location: [ 57.0 , 21.0 ] 
+---
+dv_ISO4217-currency_alphabetic: OMR
+dv_ISO4217-currency_name: Rial Omani
+dv_ISO4217-currency_numeric: 512
+dv_ISO4217-currency_minor_unit: 3
+dv_ISO4217-currency_country_name: OMAN
+dv_Telephone: 968
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Oman
+dv_has_name_en: Oman
+dv_has_name_es: Omán
+dv_has_name_fr: Oman
+dv_has_name_cn: 阿曼
+dv_has_name_ar: عمان
+dv_has_name_ru: Оман
+dv_CLDR_display_name: Oman
+dv_UNTERM_English: Oman
+dv_UNTERM_English_Formal: the Sultanate of Oman
+dv_UNTERM_Spanish_Formal: la Sultanía de Omán
+dv_UNTERM_Spanish: Omán
+dv_UNTERM_French: Oman [masc.]
+dv_UNTERM_Arabic: عمان
+dv_UNTERM_Arabic_Formal: سلطنة عمان
+dv_UNTERM_Chinese: 阿曼
+dv_UNTERM_Chinese_Formal: 阿曼苏丹国
+dv_UNTERM_French_Formal: le Sultanat d'Oman
+dv_UNTERM_Russian: Оман
+dv_UNTERM_Russian_Formal: Султанат Оман
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Oman]]"
+dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region: 142
+dv_Sub-region: 145
+dv_Geoname-ID: 286963
+dv_FIPS: MU
+dv_FIFA: OMA
+dv_IOC: OMA
+dv_MARC: mk
+dv_GAUL: 187
+dv_WMO: OM
+dv_ITU: OMA
+dv_TLD: .om
+dv_EDGAR: P4
+dv_M49: 512
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 512
+dv_ISO2: OM
+dv_ISO3: OMN
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Oman,842|WD~Oman,842]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Oman|Oman]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Oman.public|Oman.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Oman.internal|Oman.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Oman.protect|Oman.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Oman.private|Oman.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Oman.personal|Oman.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Oman.secret|Oman.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Oman
+dv_has_name_de: Oman
+dv_Area-Total: 212457
+dv_Area-Land: 212460
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: OM
+dv_Capital: "[[Oman/Counties/Muscat/City/Muscat=Maskat]]"
+dv_Alcohol-l: 0.9
+dv_Language-Id: 472
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 58.55
+dv_has_place_latitude: 23.48
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Oman,842|WD~Oman,842]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Oman|Oman]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Oman.public|Oman.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Oman.internal|Oman.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Oman.protect|Oman.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Oman.private|Oman.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Oman.personal|Oman.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Oman.secret|Oman.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Oman
+
 aliases:
   - Oman
   - Omán
@@ -322,76 +408,78 @@ icon: flag-om
 
 # [[Oman]] 
 
-[	ISO4217-currency_alphabetic	 :: OMR ]
-[	ISO4217-currency_name	 :: Rial Omani ]
-[	ISO4217-currency_numeric	 :: 512 ]
-[	ISO4217-currency_minor_unit	 :: 3 ]
-[	ISO4217-currency_country_name	 :: OMAN ]
+## [[Oman]] has Properties...
 
-[	Telephone	 :: 968 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Oman ]
-[	name-en	 :: Oman ]
-[	name-es	 :: Omán ]
-[	name-fr	 :: Oman ]
-[	name-cn	 :: 阿曼 ]
-[	name-ar	 :: عمان ]
-[	name-ru	 :: Оман ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Oman ]
+name = `=this.dv_name`
+[	has_name_en	 :: Oman ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: Oman ]
-[	UNTERM_English_Formal	 :: the Sultanate of Oman ]
-[	UNTERM_Spanish_Formal	 :: la Sultanía de Omán ]
-[	UNTERM_Spanish	 :: Omán ]
-[	UNTERM_French	 :: Oman [masc.] ]
-[	UNTERM_Arabic	 :: عمان ]
-[	UNTERM_Arabic_Formal	 :: سلطنة عمان ]
-[	UNTERM_Chinese	 :: 阿曼 ]
-[	UNTERM_Chinese_Formal	 :: 阿曼苏丹国 ]
-[	UNTERM_French_Formal	 :: le Sultanat d'Oman ]
-[	UNTERM_Russian	 :: Оман ]
-[	UNTERM_Russian_Formal	 :: Султанат Оман ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Asia]] 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 145 ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 286963 ]
-[	FIPS	 :: MU ]
-[	FIFA	 :: OMA ]
-[	IOC	 :: OMA ]
-[	MARC	 :: mk ]
-[	GAUL	 :: 187 ]
-[	WMO	 :: OM ]
-[	ITU	 :: OMA ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
+
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
 [	DS	 ::  ]
-[	TLD	 :: .om ]
-[	EDGAR	 :: P4 ]
-[	M49	 :: 512 ]
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 512 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::OM]
-[ISO3::OMN] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Oman,842|WD~Oman,842]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Oman 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Oman/ReadMe]] 
 
@@ -405,24 +493,27 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Oman//
 markerFolder: ./Oman/
+coordinates: [[Oman]] 
+markerFile: [[Oman]] 
+defaultZoom: 5 
 ```
 
-[name-en::Oman]
-[name-de::Oman]
-[Area-Total::212457]
-[Area-Land::212460]
-has_place_continent:: [[Asia]]  
-[VehicleCode::OM]
-Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]  
+[has_name_en::Oman]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Oman.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Oman.mp3]]
 ![[Oman/Flag_of_Oman.svg|350]]  
-[Alcohol-l::0.9]
-[Language-Id::472]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::58.55]
-[has_place_latitude::23.48]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

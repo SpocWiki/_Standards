@@ -15,6 +15,25 @@ radius: 1220
 density: 14.3
 time_of_discovery_or_invention: 1936-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCnyan%C4%B1n%20i%C3%A7%20yap%C4%B1s%C4%B1.png
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Inner_core,394352|WD~Inner_core,394352]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Earth_inner_Core|Earth_inner_Core]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Earth_inner_Core.public|Earth_inner_Core.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.internal|Earth_inner_Core.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Earth_inner_Core.protect|Earth_inner_Core.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Earth_inner_Core.private|Earth_inner_Core.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.personal|Earth_inner_Core.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Earth_inner_Core.secret|Earth_inner_Core.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Inner_core,394352|WD~Inner_core,394352]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Earth_inner_Core|Earth_inner_Core]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Earth_inner_Core.public|Earth_inner_Core.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.internal|Earth_inner_Core.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Earth_inner_Core.protect|Earth_inner_Core.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Earth_inner_Core.private|Earth_inner_Core.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.personal|Earth_inner_Core.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Earth_inner_Core.secret|Earth_inner_Core.secret]]"
 ---
 
 # [[Earth's_inner_Core]] 

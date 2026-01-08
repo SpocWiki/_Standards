@@ -76,7 +76,7 @@ ZVG_number: 8420
 #is_/same_as :: [[../../../WikiData/WD~Barium,1112]] 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group::[[../Group-02-Earth-Alkaline]]]
+Group::[[../Group-02-Earth-Alkaline]]]
 
 
 [#has_/name_/en::Barium]
@@ -86,7 +86,7 @@ ZVG_number: 8420
 [AtomRadius::2.78]
 [Atom-Vol-ccm-mol::39.24]
 [Unknown2::1.98]
-[#has_/radius_/nm::5.212]
+[#has_/radius_/nano_/m::5.212]
 [Electronegative::0.9]
 [Density::3.5]
 [#has_/value_for_/temperature_/melt_/c ::725]

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic|Atlantic~Arctic]]"
+    - "[[/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.public|Atlantic~Arctic.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.internal|Atlantic~Arctic.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.protect|Atlantic~Arctic.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.private|Atlantic~Arctic.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.personal|Atlantic~Arctic.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.secret|Atlantic~Arctic.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic|Atlantic~Arctic]]"
+  - "[[/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.public|Atlantic~Arctic.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.internal|Atlantic~Arctic.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.protect|Atlantic~Arctic.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.private|Atlantic~Arctic.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.personal|Atlantic~Arctic.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~Arctic.secret|Atlantic~Arctic.secret]]"
+---
 # [[Atlantic~Arctic]] 
 
 ## Edit

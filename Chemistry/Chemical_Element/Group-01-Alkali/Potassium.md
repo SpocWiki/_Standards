@@ -105,7 +105,7 @@ ZVG_number: 8150
 #is_/same_as :: [[../../../WikiData/WD~Potassium,703]] 
 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]
+Group::[[../Group-01-Alkali]]
 
 
 [#has_/name_/en::Potassium]
@@ -115,7 +115,7 @@ ZVG_number: 8150
 [AtomRadius::2.77]
 [Atom-Vol-ccm-mol::45.46]
 [Unknown2::2.03]
-[#has_/radius_/nm::4.341]
+[#has_/radius_/nano_/m::4.341]
 [Electronegative::0.8]
 [Density::0.86]
 [#has_/value_for_/temperature_/melt_/c ::63.65]

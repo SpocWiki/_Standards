@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Geography/Cartography/Meridian/Anti-Meridian|Anti-Meridian]]"
+    - "[[/_public/Earth/Geography/Cartography/Meridian/Anti-Meridian.public|Anti-Meridian.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Meridian/Anti-Meridian.internal|Anti-Meridian.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Meridian/Anti-Meridian.protect|Anti-Meridian.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Meridian/Anti-Meridian.private|Anti-Meridian.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Meridian/Anti-Meridian.personal|Anti-Meridian.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Meridian/Anti-Meridian.secret|Anti-Meridian.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geography/Cartography/Meridian/Anti-Meridian|Anti-Meridian]]"
+  - "[[/_public/Earth/Geography/Cartography/Meridian/Anti-Meridian.public|Anti-Meridian.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Meridian/Anti-Meridian.internal|Anti-Meridian.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Meridian/Anti-Meridian.protect|Anti-Meridian.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Meridian/Anti-Meridian.private|Anti-Meridian.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Meridian/Anti-Meridian.personal|Anti-Meridian.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Meridian/Anti-Meridian.secret|Anti-Meridian.secret]]"
+---
 
 # [[Anti-Meridian]] 
 

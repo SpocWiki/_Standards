@@ -37,6 +37,25 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/JohnCabotPainting.jpg
 ISNI: 58298605
 Krugosvet_article_archived_: Earth_sciences/geografiya/KABOT_DZHON.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~John_Cabot,85642]]"
+    - "[[/_Standards/Earth/Explorer/Cabot,John|Cabot,John]]"
+    - "[[/_public/Earth/Explorer/Cabot,John.public|Cabot,John.public]]"
+    - "[[/_internal/Earth/Explorer/Cabot,John.internal|Cabot,John.internal]]"
+    - "[[/_protect/Earth/Explorer/Cabot,John.protect|Cabot,John.protect]]"
+    - "[[/_private/Earth/Explorer/Cabot,John.private|Cabot,John.private]]"
+    - "[[/_personal/Earth/Explorer/Cabot,John.personal|Cabot,John.personal]]"
+    - "[[/_secret/Earth/Explorer/Cabot,John.secret|Cabot,John.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~John_Cabot,85642]]"
+  - "[[/_Standards/Earth/Explorer/Cabot,John|Cabot,John]]"
+  - "[[/_public/Earth/Explorer/Cabot,John.public|Cabot,John.public]]"
+  - "[[/_internal/Earth/Explorer/Cabot,John.internal|Cabot,John.internal]]"
+  - "[[/_protect/Earth/Explorer/Cabot,John.protect|Cabot,John.protect]]"
+  - "[[/_private/Earth/Explorer/Cabot,John.private|Cabot,John.private]]"
+  - "[[/_personal/Earth/Explorer/Cabot,John.personal|Cabot,John.personal]]"
+  - "[[/_secret/Earth/Explorer/Cabot,John.secret|Cabot,John.secret]]"
 ---
 
 # [[Cabot,John]] 

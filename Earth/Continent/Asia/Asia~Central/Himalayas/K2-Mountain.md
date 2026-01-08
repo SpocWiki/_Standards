@@ -1,5 +1,25 @@
-﻿---
-location: [ 76.513333333 , 35.881111111 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~K2,43512|WD~K2,43512]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain|K2-Mountain]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.public|K2-Mountain.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.internal|K2-Mountain.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.protect|K2-Mountain.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.private|K2-Mountain.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.personal|K2-Mountain.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.secret|K2-Mountain.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~K2,43512|WD~K2,43512]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain|K2-Mountain]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.public|K2-Mountain.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.internal|K2-Mountain.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.protect|K2-Mountain.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.private|K2-Mountain.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.personal|K2-Mountain.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~Central/Himalayas/K2-Mountain.secret|K2-Mountain.secret]]"
+
+location: [ 35.881111111, 76.513333333 ] 
 aliases:
 has_id_wikidata: Q43512
 peak_bagging_classification: "[[_Standards/WikiData/WD~eight_thousander,185552]]"
@@ -40,6 +60,21 @@ RIA_Novosti_reference: "52699902"
 # [[K2-Mountain]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~K2,43512|WD~K2,43512]]  
+
+## #has_/map  
+
+```leaflet
+id: K2-Mountain
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./K2-Mountain//
+markerFolder: ./K2-Mountain/
+coordinates: [[K2-Mountain]] 
+markerFile: [[K2-Mountain]] 
+defaultZoom: 5 
+```
+
 ## #has_/text_of_/abstract 
 
 > **K2**, at 8,611 metres (28,251 ft) above sea level, is the second-highest mountain on Earth, 

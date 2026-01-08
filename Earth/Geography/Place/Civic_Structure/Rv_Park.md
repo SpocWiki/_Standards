@@ -10,21 +10,44 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - rv_park
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_rv_park Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_rv_park Class
 type: Type
+dv_#is_:
+  sub_class_of: "[[../CivicStructure]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Rv_Park|Rv_Park]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Rv_Park.public|Rv_Park.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Rv_Park.internal|Rv_Park.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Rv_Park.protect|Rv_Park.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Rv_Park.private|Rv_Park.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Rv_Park.personal|Rv_Park.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Rv_Park.secret|Rv_Park.secret]]"
+dv_is_sub_class_of: "[[../CivicStructure]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Rv_Park|Rv_Park]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Rv_Park.public|Rv_Park.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Rv_Park.internal|Rv_Park.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Rv_Park.protect|Rv_Park.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Rv_Park.private|Rv_Park.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Rv_Park.personal|Rv_Park.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Rv_Park.secret|Rv_Park.secret]]"
 ---
 
 Class of all rv_parks.
@@ -34,9 +57,9 @@ Tag Instances like this:
 
 A place offering space for "Recreational Vehicles", Caravans, mobile homes and the like.
 
-[ #is_/sub_class_of :: [[../CivicStructure]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 
 ## Confidential Links & Embeds: 

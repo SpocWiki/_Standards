@@ -93,7 +93,7 @@ ZVG_number: 8390
 
 #chemic/Element 
 [GroupName::Group-15-Nitrogen]
-[Group::[[../Group-15-Nitrogen]]]
+Group::[[../Group-15-Nitrogen]]]
 
 
 [#has_/name_/en::Antimony]
@@ -102,7 +102,7 @@ ZVG_number: 8390
 [AtomRadius::1.53]
 [Atom-Vol-ccm-mol::18.23]
 [Unknown2::1.4]
-[#has_/radius_/nm::8.641]
+[#has_/radius_/nano_/m::8.641]
 [Electronegative::2]
 [Density::6.68]
 [#has_/value_for_/temperature_/melt_/c ::630.74]

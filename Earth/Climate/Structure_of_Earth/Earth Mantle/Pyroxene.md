@@ -3,19 +3,38 @@ aliases:
   - Pyroxenes
   - Pyroxene
 has_id_wikidata: Q192880
-subclass_of: '[[_Standards/WikiData/WD~inosilicate,279440]]'
+subclass_of: "[[_Standards/WikiData/WD~inosilicate,279440]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-instance_of: '[[_Standards/WikiData/WD~mineral_group,1936581]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q10716785,10716785]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+instance_of: "[[_Standards/WikiData/WD~mineral_group,1936581]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q10716785,10716785]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/PIA17768-MarsCuriosityRover-HarrisonRock-20140115.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Pyroxene%20crystals.jpg
 Krugosvet_article_archived_: Earth_sciences/geologiya/PIROKSENI.html
 IMA_Mineral_Symbol: Px
 Commons_category: Pyroxene
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Pyroxene,192880|WD~Pyroxene,192880]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene|Pyroxene]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.public|Pyroxene.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.internal|Pyroxene.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.protect|Pyroxene.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.private|Pyroxene.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.personal|Pyroxene.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.secret|Pyroxene.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Pyroxene,192880|WD~Pyroxene,192880]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene|Pyroxene]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.public|Pyroxene.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.internal|Pyroxene.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.protect|Pyroxene.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.private|Pyroxene.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.personal|Pyroxene.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.secret|Pyroxene.secret]]"
 ---
 
 # [[Pyroxene]] 

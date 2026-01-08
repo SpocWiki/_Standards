@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll|Palmyra-Atoll]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.public|Palmyra-Atoll.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.internal|Palmyra-Atoll.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.protect|Palmyra-Atoll.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.private|Palmyra-Atoll.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.personal|Palmyra-Atoll.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.secret|Palmyra-Atoll.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll|Palmyra-Atoll]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.public|Palmyra-Atoll.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.internal|Palmyra-Atoll.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.protect|Palmyra-Atoll.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.private|Palmyra-Atoll.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.personal|Palmyra-Atoll.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.secret|Palmyra-Atoll.secret]]"
 ---
 
 # [[Palmyra-Atoll]] 

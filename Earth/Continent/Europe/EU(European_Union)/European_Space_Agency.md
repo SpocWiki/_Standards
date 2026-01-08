@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~European_Space_Agency,42262|WD~European_Space_Agency,42262]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency|European_Space_Agency]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.public|European_Space_Agency.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.internal|European_Space_Agency.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.protect|European_Space_Agency.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.private|European_Space_Agency.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.personal|European_Space_Agency.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.secret|European_Space_Agency.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~European_Space_Agency,42262|WD~European_Space_Agency,42262]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency|European_Space_Agency]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.public|European_Space_Agency.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.internal|European_Space_Agency.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.protect|European_Space_Agency.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.private|European_Space_Agency.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.personal|European_Space_Agency.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.secret|European_Space_Agency.secret]]"
+
 has_time_started: 1975-05-30 
 aliases:
 has_id_wikidata: Q42262

@@ -140,7 +140,7 @@ ZVG_number: 8240
 #is_/same_as :: [[../../../WikiData/WD~Copper,753]] 
 
 [GroupName::Group-11-Copper]
-[Group:[[../Group-11-Copper]]
+Group::[[../Group-11-Copper]]
 
 
 [#has_/name_/en::Copper]
@@ -149,7 +149,7 @@ ZVG_number: 8240
 [AtomRadius::1.57]
 [Atom-Vol-ccm-mol::7.1]
 [Unknown2::1.17]
-[#has_/radius_/nm::7.726]
+[#has_/radius_/nano_/m::7.726]
 [Electronegative::1.9]
 [Density::8.96]
 [#has_/value_for_/temperature_/melt_/c ::1083.4]

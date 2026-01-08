@@ -1,5 +1,91 @@
-﻿---
-location: [ 20.0 , 49.0 ] 
+---
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SLOVAKIA
+dv_Telephone: 421
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Slovakia
+dv_has_name_en: Slovakia
+dv_has_name_es: Eslovaquia
+dv_has_name_fr: Slovaquie
+dv_has_name_cn: 斯洛伐克
+dv_has_name_ar: سلوفاكيا
+dv_has_name_ru: Словакия
+dv_CLDR_display_name: Slovakia
+dv_UNTERM_English: Slovakia
+dv_UNTERM_English_Formal: the Slovak Republic
+dv_UNTERM_Spanish_Formal: la República Eslovaca
+dv_UNTERM_Spanish: Eslovaquia
+dv_UNTERM_French: Slovaquie (la)
+dv_UNTERM_Arabic: سلوفاكيا
+dv_UNTERM_Arabic_Formal: الجمهورية السلوفاكية
+dv_UNTERM_Chinese: 斯洛伐克
+dv_UNTERM_Chinese_Formal: 斯洛伐克共和国
+dv_UNTERM_French_Formal: la République slovaque
+dv_UNTERM_Russian: Словакия
+dv_UNTERM_Russian_Formal: Словацкая Республика
+dv_Region_Name: "[[../../Europe]]"
+dv_Intermediate_Region_Name: "[[Slovakia]]"
+dv_Sub-region_Name: "[[Eastern Europe]]"
+dv_Region: 150
+dv_Sub-region: 151
+dv_Geoname-ID: 3057568
+dv_FIPS: LO
+dv_FIFA: SVK
+dv_IOC: SVK
+dv_MARC: xo
+dv_GAUL: 223
+dv_WMO: SQ
+dv_ITU: SVK
+dv_DS: SK
+dv_TLD: .sk
+dv_EDGAR: 2B
+dv_M49: 703
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 703
+dv_ISO2: SK
+dv_ISO3: SVK
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Slovakia,214|WD~Slovakia,214]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia|Slovakia]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public|Slovakia.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal|Slovakia.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia.protect|Slovakia.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Slovakia.private|Slovakia.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal|Slovakia.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret|Slovakia.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Slovakia
+dv_has_name_de: Slowakei
+dv_Area-Total: 49036
+dv_Area-Land: 48080
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: SK
+dv_Capital: "[[Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava]]"
+dv_Alcohol-l: 13.3
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 17.1
+dv_has_place_latitude: 48.13
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Slovakia,214|WD~Slovakia,214]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia|Slovakia]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public|Slovakia.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal|Slovakia.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia.protect|Slovakia.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Slovakia.private|Slovakia.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal|Slovakia.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret|Slovakia.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Slovakia
+
 aliases:
   - Slovakia
   - Eslovaquia
@@ -394,76 +480,78 @@ icon: flag-sk
 
 # [[Slovakia]] 
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SLOVAKIA ]
+## [[Slovakia]] has Properties...
 
-[	Telephone	 :: 421 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Slovakia ]
-[	name-en	 :: Slovakia ]
-[	name-es	 :: Eslovaquia ]
-[	name-fr	 :: Slovaquie ]
-[	name-cn	 :: 斯洛伐克 ]
-[	name-ar	 :: سلوفاكيا ]
-[	name-ru	 :: Словакия ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Slovakia ]
+name = `=this.dv_name`
+[	has_name_en	 :: Slovakia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: Slovakia ]
-[	UNTERM_English_Formal	 :: the Slovak Republic ]
-[	UNTERM_Spanish_Formal	 :: la República Eslovaca ]
-[	UNTERM_Spanish	 :: Eslovaquia ]
-[	UNTERM_French	 :: Slovaquie (la) ]
-[	UNTERM_Arabic	 :: سلوفاكيا ]
-[	UNTERM_Arabic_Formal	 :: الجمهورية السلوفاكية ]
-[	UNTERM_Chinese	 :: 斯洛伐克 ]
-[	UNTERM_Chinese_Formal	 :: 斯洛伐克共和国 ]
-[	UNTERM_French_Formal	 :: la République slovaque ]
-[	UNTERM_Russian	 :: Словакия ]
-[	UNTERM_Russian_Formal	 :: Словацкая Республика ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Eastern Europe]] 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 151 ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 3057568 ]
-[	FIPS	 :: LO ]
-[	FIFA	 :: SVK ]
-[	IOC	 :: SVK ]
-[	MARC	 :: xo ]
-[	GAUL	 :: 223 ]
-[	WMO	 :: SQ ]
-[	ITU	 :: SVK ]
-[	DS	 :: SK ]
-[	TLD	 :: .sk ]
-[	EDGAR	 :: 2B ]
-[	M49	 :: 703 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 703 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::SK]
-[ISO3::SVK] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Slovakia,214|WD~Slovakia,214]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Slovakia 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Slovakia/ReadMe]] 
 
@@ -471,34 +559,34 @@ For more Details, check out this Repository into this Subfolder:
 
 ```leaflet
 id: Slovakia
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Slovakia//
 markerFolder: ./Slovakia//
 coordinates: [[Slovakia]] 
 markerFile: [[Slovakia]] 
-defaultZoom: 11 
+defaultZoom: 6 
 ```
 
-[name-en::Slovakia]
-[name-de::Slowakei]
-[Area-Total::49036]
-[Area-Land::48080]
-has_place_continent:: [[Europe]]  
-[VehicleCode::SK]
-Capital :: [[Bratislava]]  
+[has_name_en::Slovakia]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Slovakia.svg|350]]
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Slovak-republic.mp3]]
 
 ![[Flag_of_Slovakia.svg|350]]
-[Alcohol-l::13.3]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::17.1]
-[has_place_latitude::48.13]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

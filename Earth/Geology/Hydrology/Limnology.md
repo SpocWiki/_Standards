@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Limnology,165838]]"
+    - "[[/_Standards/Earth/Geology/Hydrology/Limnology|Limnology]]"
+    - "[[/_public/Earth/Geology/Hydrology/Limnology.public|Limnology.public]]"
+    - "[[/_internal/Earth/Geology/Hydrology/Limnology.internal|Limnology.internal]]"
+    - "[[/_protect/Earth/Geology/Hydrology/Limnology.protect|Limnology.protect]]"
+    - "[[/_private/Earth/Geology/Hydrology/Limnology.private|Limnology.private]]"
+    - "[[/_personal/Earth/Geology/Hydrology/Limnology.personal|Limnology.personal]]"
+    - "[[/_secret/Earth/Geology/Hydrology/Limnology.secret|Limnology.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Limnology,165838]]"
+  - "[[/_Standards/Earth/Geology/Hydrology/Limnology|Limnology]]"
+  - "[[/_public/Earth/Geology/Hydrology/Limnology.public|Limnology.public]]"
+  - "[[/_internal/Earth/Geology/Hydrology/Limnology.internal|Limnology.internal]]"
+  - "[[/_protect/Earth/Geology/Hydrology/Limnology.protect|Limnology.protect]]"
+  - "[[/_private/Earth/Geology/Hydrology/Limnology.private|Limnology.private]]"
+  - "[[/_personal/Earth/Geology/Hydrology/Limnology.personal|Limnology.personal]]"
+  - "[[/_secret/Earth/Geology/Hydrology/Limnology.secret|Limnology.secret]]"
+---
 
 # [[Limnology]] 
 

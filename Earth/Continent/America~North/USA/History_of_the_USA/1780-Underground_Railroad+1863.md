@@ -3,6 +3,23 @@ aliases:
   - Underground Railroad
   - 1780-Underground_Railroad+1863
   - 1780-Underground Railroad+1863
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863|1780-Underground_Railroad+1863]]"
+    - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.public|1780-Underground_Railroad+1863.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.internal|1780-Underground_Railroad+1863.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.protect|1780-Underground_Railroad+1863.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.private|1780-Underground_Railroad+1863.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.personal|1780-Underground_Railroad+1863.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.secret|1780-Underground_Railroad+1863.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863|1780-Underground_Railroad+1863]]"
+  - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.public|1780-Underground_Railroad+1863.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.internal|1780-Underground_Railroad+1863.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.protect|1780-Underground_Railroad+1863.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.private|1780-Underground_Railroad+1863.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.personal|1780-Underground_Railroad+1863.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.secret|1780-Underground_Railroad+1863.secret]]"
 ---
 
 # [[1780-Underground_Railroad+1863]] 

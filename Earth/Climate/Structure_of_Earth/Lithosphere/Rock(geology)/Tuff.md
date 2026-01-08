@@ -13,6 +13,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/HoleInTheWallTuff.JPG
 Dewey_Decimal_Classification: "552.23"
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000661
 Commons_category: Tuff
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Tuff,484924|WD~Tuff,484924]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff|Tuff]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.public|Tuff.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.internal|Tuff.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.protect|Tuff.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.private|Tuff.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.personal|Tuff.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.secret|Tuff.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Tuff,484924|WD~Tuff,484924]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff|Tuff]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.public|Tuff.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.internal|Tuff.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.protect|Tuff.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.private|Tuff.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.personal|Tuff.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Tuff.secret|Tuff.secret]]"
 ---
 
 # [[Tuff]] 

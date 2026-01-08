@@ -44,9 +44,9 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pupp
 
 [SpocWebEntityId::28150] 
 
-[name-la::Puppis]
-[name-genitive::Puppis]
-[name-de::Achterschiff]
+[#has_/name_/la::Puppis]
+[#has_/name_/la_/genitive::Puppis]
+[#has_/name_/de::Achterschiff]
 
 #is_/same_as :: [[../../WikiData/WD~Puppis,9251|WD~Puppis,9251]] 
 

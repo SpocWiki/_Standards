@@ -1,24 +1,51 @@
-﻿---
-has_time_started: 1932-01-01 
-has_time_stopped: 1933-01-01 
-location: [ 32.0 , 49.0 ] 
+---
+dv_has_:
+  time_:
+    started: 1932-06-01T00:00:00.000+01:00
+    stopped: 1933-06-01T00:00:00.000+01:00
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Holodomor,165058|WD~Holodomor,165058]]"
+    - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933|1932-Holodomor-1933]]"
+    - "[[/_public/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.public|1932-Holodomor-1933.public]]"
+    - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.internal|1932-Holodomor-1933.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.protect|1932-Holodomor-1933.protect]]"
+    - "[[/_private/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.private|1932-Holodomor-1933.private]]"
+    - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.personal|1932-Holodomor-1933.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.secret|1932-Holodomor-1933.secret]]"
+dv_has_time_started: 1932-06-01
+dv_has_time_stopped: 1933-06-01
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Holodomor,165058|WD~Holodomor,165058]]"
+  - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933|1932-Holodomor-1933]]"
+  - "[[/_public/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.public|1932-Holodomor-1933.public]]"
+  - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.internal|1932-Holodomor-1933.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.protect|1932-Holodomor-1933.protect]]"
+  - "[[/_private/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.private|1932-Holodomor-1933.private]]"
+  - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.personal|1932-Holodomor-1933.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933.secret|1932-Holodomor-1933.secret]]"
+has_time_started: 1932-01-01
+has_time_stopped: 1933-01-01
+location:
+  - 49
+  - 32
 aliases:
   - Ukrainian Famine
   - 1932-Holodomor-1933
 has_id_wikidata: Q165058
-location: '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
+locations: "[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~famine,168247]]'
-  - '[[_Standards/WikiData/WD~mass_killings_under_communist_regimes,2235125]]'
-  - '[[_Standards/WikiData/WD~communist_crime,105967822]]'
-  - '[[_Standards/WikiData/WD~genocide,41397]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Holodomor,14347304]]'
-part_of: '[[_Standards/WikiData/WD~Holodomors_in_Ukraine,20071161]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Holodomor,24820257]]'
-studied_by: '[[_Standards/WikiData/WD~Holodomor_studies,109505011]]'
+  - "[[_Standards/WikiData/WD~famine,168247]]"
+  - "[[_Standards/WikiData/WD~mass_killings_under_communist_regimes,2235125]]"
+  - "[[_Standards/WikiData/WD~communist_crime,105967822]]"
+  - "[[_Standards/WikiData/WD~genocide,41397]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Holodomor,14347304]]"
+part_of: "[[_Standards/WikiData/WD~Holodomors_in_Ukraine,20071161]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Holodomor,24820257]]"
+studied_by: "[[_Standards/WikiData/WD~Holodomor_studies,109505011]]"
 coordinate_location: Point(32.0 49.0)
-country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 number_of_deaths:
   - 3500000
   - 4500000
@@ -43,10 +70,24 @@ start_time: 1932-01-01T00:00:00Z
 
 # [[1932-Holodomor-1933]] 
 
-#has_/time_/started :: 1932-06-01 
-#has_/time_/stopped  :: 1933-06-01 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
 
 #is_/same_as :: [[../../../../WikiData/WD~Holodomor,165058|WD~Holodomor,165058]] 
+
+## #has_/map  
+
+```leaflet
+id: 1932-Holodomor-1933
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./1932-Holodomor-1933//
+markerFolder: ./1932-Holodomor-1933/
+coordinates: [[1932-Holodomor-1933]] 
+markerFile: [[1932-Holodomor-1933]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

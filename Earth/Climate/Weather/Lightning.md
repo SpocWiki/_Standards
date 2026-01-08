@@ -52,6 +52,25 @@ MeSH_tree_code:
   - G16.500.750.775.375
   - N06.230.300.100.725.375
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/MOLNIYA.html
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Lightning,33741]]"
+    - "[[/_Standards/Earth/Climate/Weather/Lightning|Lightning]]"
+    - "[[/_public/Earth/Climate/Weather/Lightning.public|Lightning.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Lightning.internal|Lightning.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Lightning.protect|Lightning.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Lightning.private|Lightning.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Lightning.personal|Lightning.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Lightning.secret|Lightning.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Lightning,33741]]"
+  - "[[/_Standards/Earth/Climate/Weather/Lightning|Lightning]]"
+  - "[[/_public/Earth/Climate/Weather/Lightning.public|Lightning.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Lightning.internal|Lightning.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Lightning.protect|Lightning.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Lightning.private|Lightning.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Lightning.personal|Lightning.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Lightning.secret|Lightning.secret]]"
 ---
 
 # [[Lightning]] 

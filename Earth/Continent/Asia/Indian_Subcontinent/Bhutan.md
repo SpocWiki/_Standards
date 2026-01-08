@@ -1,5 +1,94 @@
-﻿---
-location: [ 90.5 , 27.45 ] 
+---
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Bhutan
+dv_ISO4217-currency_alphabetic: INR,BTN
+dv_ISO4217-currency_name: Indian Rupee,Ngultrum
+dv_ISO4217-currency_numeric:
+  - 356
+  - 64
+dv_ISO4217-currency_minor_unit:
+  - 2
+  - 2
+dv_ISO4217-currency_country_name: BHUTAN
+dv_Telephone: 975
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Bhutan
+dv_has_name_en: Bhutan
+dv_has_name_es: Bhután
+dv_has_name_fr: Bhoutan
+dv_has_name_cn: 不丹
+dv_has_name_ar: بوتان
+dv_has_name_ru: Бутан
+dv_CLDR_display_name: Bhutan
+dv_UNTERM_English: Bhutan
+dv_UNTERM_English_Formal: the Kingdom of Bhutan
+dv_UNTERM_Spanish_Formal: el Reino de Bhután
+dv_UNTERM_Spanish: Bhután
+dv_UNTERM_French: Bhoutan (le)
+dv_UNTERM_Arabic: بوتان
+dv_UNTERM_Arabic_Formal: مملكة بوتان
+dv_UNTERM_Chinese: 不丹
+dv_UNTERM_Chinese_Formal: 不丹王国
+dv_UNTERM_French_Formal: le Royaume du Bhoutan
+dv_UNTERM_Russian: Бутан
+dv_UNTERM_Russian_Formal: Королевство Бутан
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Bhutan]]"
+dv_Sub-region_Name: "[[Southern Asia]]"
+dv_Region: 142
+dv_Sub-region: 34
+dv_Geoname-ID: 1252634
+dv_FIPS: BT
+dv_FIFA: BHU
+dv_IOC: BHU
+dv_MARC: bt
+dv_GAUL: 31
+dv_ITU: BTN
+dv_DS: BT
+dv_TLD: .bt
+dv_EDGAR: D2
+dv_M49: 64
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 64
+dv_ISO2: BT
+dv_ISO3: BTN
+dv_has_name_de: Bhutan
+dv_Area-Total: 46500
+dv_Area-Land: 47000
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: BHT
+dv_Capital: "[[Bhutan/Counties/Tongsa/City/Thimphu]]"
+dv_Alcohol-l: 0.6
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 90.435
+dv_has_place_latitude: 27.417
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan|Bhutan]]"
+    - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.public|Bhutan.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.internal|Bhutan.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.protect|Bhutan.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.private|Bhutan.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.personal|Bhutan.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.secret|Bhutan.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Bhutan
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan|Bhutan]]"
+  - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.public|Bhutan.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.internal|Bhutan.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.protect|Bhutan.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.private|Bhutan.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.personal|Bhutan.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.secret|Bhutan.secret]]"
+
 aliases:
   - Bhutan
   - Bhután
@@ -321,83 +410,82 @@ icon: flag-bt
 
 # [[Bhutan]] 
 
+## [[Bhutan]] has Properties... 
+
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+[	ISO4217-currency_numeric	 :: 356,064 ]
+[	ISO4217-currency_minor_unit	 :: 2,2 ]
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
+
+Telephone = `=this.dv_Telephone`
+
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
+[	has_name_en	 :: Bhutan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+
+CLDR_display_name = `=this.dv_CLDR_display_name`
+
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
+
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
+
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
+
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+[	WMO	 ::  ]
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
+[	Small_is_a_ = `=this.dv_is_a_`
+
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
+
+
+
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
+
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Bhutan 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Bhutan/ReadMe]] 
 
-
-[	ISO4217-currency_alphabetic	 :: INR,BTN ]
-[	ISO4217-currency_name	 :: Indian Rupee,Ngultrum ]
-[	ISO4217-currency_numeric	 :: 356,064 ]
-[	ISO4217-currency_minor_unit	 :: 2,2 ]
-[	ISO4217-currency_country_name	 :: BHUTAN ]
-
-[	Telephone	 :: 975 ]
-
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
-
-[	name	 :: Bhutan ]
-[	name-en	 :: Bhutan ]
-[	name-es	 :: Bhután ]
-[	name-fr	 :: Bhoutan ]
-[	name-cn	 :: 不丹 ]
-[	name-ar	 :: بوتان ]
-[	name-ru	 :: Бутан ]
-
-[	CLDR_display_name	 :: Bhutan ]
-
-[	UNTERM_English	 :: Bhutan ]
-[	UNTERM_English_Formal	 :: the Kingdom of Bhutan ]
-[	UNTERM_Spanish_Formal	 :: el Reino de Bhután ]
-[	UNTERM_Spanish	 :: Bhután ]
-[	UNTERM_French	 :: Bhoutan (le) ]
-[	UNTERM_Arabic	 :: بوتان ]
-[	UNTERM_Arabic_Formal	 :: مملكة بوتان ]
-[	UNTERM_Chinese	 :: 不丹 ]
-[	UNTERM_Chinese_Formal	 :: 不丹王国 ]
-[	UNTERM_French_Formal	 :: le Royaume du Bhoutan ]
-[	UNTERM_Russian	 :: Бутан ]
-[	UNTERM_Russian_Formal	 :: Королевство Бутан ]
-
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Southern Asia]] 
-
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 34 ]
-
-[	Geoname-ID	 :: 1252634 ]
-[	FIPS	 :: BT ]
-[	FIFA	 :: BHU ]
-[	IOC	 :: BHU ]
-[	MARC	 :: bt ]
-[	GAUL	 :: 31 ]
-[	WMO	 ::  ]
-[	ITU	 :: BTN ]
-[	DS	 :: BT ]
-[	TLD	 :: .bt ]
-[	EDGAR	 :: D2 ]
-[	M49	 :: 64 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
-[	Least_Developed_Countries	 :: x ]
-[	Small_Island_Developing_States	 ::  ]
-
-[	ISO3166-1-numeric	 :: 064 ]
-
-
-
-[ISO2::BT]
-[ISO3::BTN] 
-
 ## #has_/map  
-
-
 
 ```leaflet
 id: Bhutan
@@ -406,25 +494,28 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Bhutan/
 markerFolder: ./Bhutan/
+coordinates: [[Bhutan]] 
+markerFile: [[Bhutan]] 
+defaultZoom: 5 
 ```
 
-[name-en::Bhutan]
-[name-de::Bhutan]
+[has_name_en::Bhutan] 
+has_name_de = `=this.dv_has_name_de` 
 ![[Bhutan/Emblem_of_Bhutan.svg|350]]  
 
 ![[Bhutan/Flag_of_Bhutan.svg|350]]  
 
-[Area-Total::46500]
-[Area-Land::47000]
-has_place_continent:: [[Asia]]  
-[VehicleCode::BHT]
-Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]  
-[Alcohol-l::0.6]
-[Language-Id::]
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent` 
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l` 
+[Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::90.435]
-[has_place_latitude::27.417]
+is_a_ = `=this.dv_is_a_` 
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

@@ -44,9 +44,9 @@ official_name: Triangulum Australe
 
 [SpocWebEntityId::28163]
 
-[name-la::Triangulum Australis]
-[name-genitive::Trianguli Australis]
-[name-de::Suedliches Dreieck]
+[#has_/name_/la::Triangulum Australis]
+[#has_/name_/la_/genitive::Trianguli Australis]
+[#has_/name_/de::Suedliches Dreieck]
 
 #is_/same_as :: [[../../WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]] 
 

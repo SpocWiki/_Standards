@@ -286,80 +286,166 @@ ITU_letter_code: SUR
 U_S_National_Archives_Identifier: 10046380
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Suriname.svg
 coordinates_of_northernmost_point: Point(-55.0 5.99)
+dv_ISO4217-currency_alphabetic: SRD
+dv_ISO4217-currency_name: Surinam Dollar
+dv_ISO4217-currency_numeric: 968
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SURINAME
+dv_Telephone: 597
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Suriname
+dv_has_name_en: Suriname
+dv_has_name_es: Suriname
+dv_has_name_fr: Suriname
+dv_has_name_cn: 苏里南
+dv_has_name_ar: سورينام
+dv_has_name_ru: Суринам
+dv_CLDR_display_name: Suriname
+dv_UNTERM_English: Suriname
+dv_UNTERM_English_Formal: the Republic of Suriname
+dv_UNTERM_Spanish_Formal: la República de Suriname
+dv_UNTERM_Spanish: Suriname
+dv_UNTERM_French: Suriname (le)
+dv_UNTERM_Arabic: سورينام
+dv_UNTERM_Arabic_Formal: جمهورية سورينام
+dv_UNTERM_Chinese: 苏里南
+dv_UNTERM_Chinese_Formal: 苏里南共和国
+dv_UNTERM_French_Formal: la République du Suriname
+dv_UNTERM_Russian: Суринам
+dv_UNTERM_Russian_Formal: Республика Суринам
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[South America]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 5
+dv_Sub-region: 419
+dv_Geoname-ID: 3382998
+dv_FIPS: NS
+dv_FIFA: SUR
+dv_IOC: SUR
+dv_MARC: sr
+dv_GAUL: 233
+dv_WMO: SM
+dv_ITU: SUR
+dv_DS: SME
+dv_TLD: .sr
+dv_EDGAR: V3
+dv_M49: 740
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 740
+dv_ISO2: SR
+dv_ISO3: SUR
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]"
+    - "[[/_Standards/Earth/Continent/America~South/Guianas/Suriname|Suriname]]"
+    - "[[/_public/Earth/Continent/America~South/Guianas/Suriname.public|Suriname.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Guianas/Suriname.internal|Suriname.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Guianas/Suriname.protect|Suriname.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Guianas/Suriname.private|Suriname.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Guianas/Suriname.personal|Suriname.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Guianas/Suriname.secret|Suriname.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Suriname
+dv_has_name_de: Surinam
+dv_Area-Total: 163265
+dv_Area-Land: 156000
+dv_has_place_continent: "[[South-America]]"
+dv_VehicleCode: SME
+dv_Alcohol-l: 6.1
+dv_has_place_longitude: -55.17
+dv_has_place_latitude: 5.86
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]"
+  - "[[/_Standards/Earth/Continent/America~South/Guianas/Suriname|Suriname]]"
+  - "[[/_public/Earth/Continent/America~South/Guianas/Suriname.public|Suriname.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Guianas/Suriname.internal|Suriname.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Guianas/Suriname.protect|Suriname.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Guianas/Suriname.private|Suriname.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Guianas/Suriname.personal|Suriname.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Guianas/Suriname.secret|Suriname.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Suriname
 ---
 
 # [[Suriname]] 
 
-[	ISO4217-currency_alphabetic	 :: SRD ]
-[	ISO4217-currency_name	 :: Surinam Dollar ]
-[	ISO4217-currency_numeric	 :: 968 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SURINAME ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 597 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Suriname ]
-[	name-en	 :: Suriname ]
-[	name-es	 :: Suriname ]
-[	name-fr	 :: Suriname ]
-[	name-cn	 :: 苏里南 ]
-[	name-ar	 :: سورينام ]
-[	name-ru	 :: Суринам ]
+name = `=this.dv_name`
+[	has_name_en	 :: Suriname ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Suriname ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Suriname ]
-[	UNTERM_English_Formal	 :: the Republic of Suriname ]
-[	UNTERM_Spanish_Formal	 :: la República de Suriname ]
-[	UNTERM_Spanish	 :: Suriname ]
-[	UNTERM_French	 :: Suriname (le) ]
-[	UNTERM_Arabic	 :: سورينام ]
-[	UNTERM_Arabic_Formal	 :: جمهورية سورينام ]
-[	UNTERM_Chinese	 :: 苏里南 ]
-[	UNTERM_Chinese_Formal	 :: 苏里南共和国 ]
-[	UNTERM_French_Formal	 :: la République du Suriname ]
-[	UNTERM_Russian	 :: Суринам ]
-[	UNTERM_Russian_Formal	 :: Республика Суринам ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[South America]] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ]
-[	Intermediate_Region	 :: 5 ]
-[	Sub-region	 :: 419 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3382998 ]
-[	FIPS	 :: NS ]
-[	FIFA	 :: SUR ]
-[	IOC	 :: SUR ]
-[	MARC	 :: sr ]
-[	GAUL	 :: 233 ]
-[	WMO	 :: SM ]
-[	ITU	 :: SUR ]
-[	DS	 :: SME ]
-[	TLD	 :: .sr ]
-[	EDGAR	 :: V3 ]
-[	M49	 :: 740 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 :: x ]
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States`
 
-[	ISO3166-1-numeric	 :: 740 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::SR]
-[ISO3::SUR] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Suriname 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Suriname/ReadMe]] 
 
@@ -375,8 +461,8 @@ geojsonFolder: ./Suriname//
 markerFolder: ./Suriname/
 ```
 
-[name-en::Suriname]
-[name-de::Surinam]
+[has_name_en::Suriname]
+has_name_de = `=this.dv_has_name_de`
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]]
 
@@ -384,15 +470,15 @@ markerFolder: ./Suriname/
 
 ![[Mexico/Flag_of_Mexico.svg|350]]
 
-[Area-Total::163265]
-[Area-Land::156000]
-has_place_continent:: [[South-America]]  
-[VehicleCode::SME]
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo]]  
-[Alcohol-l::6.1]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
-[has_place_longitude::-55.17]
-[has_place_latitude::5.86]
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

@@ -1,5 +1,27 @@
-﻿---
-location: [ 32.344166666 , 30.705 ] 
+---
+location: [ 30.705, 32.344166666] 
+dv_"Canal", "SuezCanal: xsbd4"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Suez_Canal,899|WD~Suez_Canal,899]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~North/Suez_Canal|Suez_Canal]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~North/Suez_Canal.public|Suez_Canal.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~North/Suez_Canal.internal|Suez_Canal.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~North/Suez_Canal.protect|Suez_Canal.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~North/Suez_Canal.private|Suez_Canal.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~North/Suez_Canal.personal|Suez_Canal.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~North/Suez_Canal.secret|Suez_Canal.secret]]"
+dv_canal-suezcanal: xsbd4"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Suez_Canal,899|WD~Suez_Canal,899]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~North/Suez_Canal|Suez_Canal]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~North/Suez_Canal.public|Suez_Canal.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~North/Suez_Canal.internal|Suez_Canal.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~North/Suez_Canal.protect|Suez_Canal.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~North/Suez_Canal.private|Suez_Canal.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~North/Suez_Canal.personal|Suez_Canal.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~North/Suez_Canal.secret|Suez_Canal.secret]]"
+
 aliases:
   - Suez Canal
   - قَنَاةُ ٱلسُّوَيْسِ
@@ -14,7 +36,6 @@ Commons_gallery: Suez Canal
 connects_with:
   - '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
   - '[[_Standards/WikiData/WD~Red_Sea,23406]]'
-coordinate_location: Point(32.344166666 30.705)
 country: '[[_Standards/WikiData/WD~Egypt,79]]'
 date_of_official_opening: 1869-11-17
 described_by_source:
@@ -56,12 +77,26 @@ U_S_National_Archives_Identifier:
   - 10044415
   - 10641285
 video: http://commons.wikimedia.org/wiki/Special:FilePath/1956-07-30%20Suez%20Canal%20Seized.ogv
-Wolfram_Language_entity_code: Entity["Canal", "SuezCanal::xsbd4"]
+Wolfram_Language_entity_code: Entity"Canal", "SuezCanal = `=this.dv_"Canal", "SuezCanal`
 ---
 
 # [[Suez_Canal]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Suez_Canal,899|WD~Suez_Canal,899]] 
+
+## #has_/map 
+
+```leaflet
+id: Suez_Canal
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Suez_Canal//
+markerFolder: ./Suez_Canal//
+coordinates: [[Suez_Canal]] 
+markerFile: [[Suez_Canal]] 
+defaultZoom: 6 
+```
 
 ## #has_/text_of_/abstract 
 
@@ -74,8 +109,6 @@ Wolfram_Language_entity_code: Entity["Canal", "SuezCanal::xsbd4"]
 > The canal was the property of the Egyptian government, but European shareholders, mostly British and French, owned the concessionary company which operated it until July 1956, when President Gamal Abdel Nasser nationalised it—an event which led to the Suez Crisis of October–November 1956. The canal is operated and maintained by the state-owned Suez Canal Authority (SCA) of Egypt. Under the Convention of Constantinople, it may be used "in time of war as in time of peace, by every vessel of commerce or of war, without distinction of flag." Nevertheless, the canal has played an important military strategic role as a naval short-cut and choke point. Navies with coastlines and bases on both the Mediterranean Sea and the Red Sea (Egypt and Israel) have a particular interest in the Suez Canal. After Egypt closed the Suez Canal at the beginning of the Six-Day War on 5 June 1967, the canal remained closed for eight years, reopening on 5 June 1975.
 >
 > The Egyptian government launched construction in 2014 to expand and widen the Ballah Bypass for 35 km (22 mi) to speed up the canal's transit time. The expansion intended to nearly double the capacity of the Suez Canal, from 49 to 97 ships per day. At a cost of LE 59.4 billion (US$9 billion), this project was funded with interest-bearing investment certificates issued exclusively to Egyptian entities and individuals.
->
-> 
 >
 > The Suez Canal Authority officially opened the new side channel in 2016. This side channel, at the northern side of the east extension of the Suez Canal, serves the East Terminal for berthing and unberthing vessels from the terminal. As the East Container Terminal is located on the Canal itself, before the construction of the new side channel it was not possible to berth or unberth vessels at the terminal while a convoy was running.
 >

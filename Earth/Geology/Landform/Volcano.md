@@ -9,28 +9,52 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - volcano
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_volcano Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_volcano Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Landform]]"
+  same_as:
+    - "[[../../../WikiData/WD~Volcano,8072|WD~Volcano,8072]]"
+    - "[[/_Standards/Earth/Geology/Landform/Volcano|Volcano]]"
+    - "[[/_public/Earth/Geology/Landform/Volcano.public|Volcano.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Volcano.internal|Volcano.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Volcano.protect|Volcano.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Volcano.private|Volcano.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Volcano.personal|Volcano.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Volcano.secret|Volcano.secret]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_sub_class_of: "[[../Landform]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Volcano,8072|WD~Volcano,8072]]"
+  - "[[/_Standards/Earth/Geology/Landform/Volcano|Volcano]]"
+  - "[[/_public/Earth/Geology/Landform/Volcano.public|Volcano.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Volcano.internal|Volcano.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Volcano.protect|Volcano.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Volcano.private|Volcano.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Volcano.personal|Volcano.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Volcano.secret|Volcano.secret]]"
 ---
 
 # [[Volcano]] 
 
-#is_/sub_class_of :: [[../Landform]] 
+is_sub_class_of = `=this.dv_is_sub_class_of`
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 #is_/same_as :: [[../../../WikiData/WD~Volcano,8072|WD~Volcano,8072]] 
 

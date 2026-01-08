@@ -9,29 +9,58 @@ cssclasses:
   - private
   - note
 draft: true
-expiryDate: ''
+expiryDate: ""
 has_Template:
-  - '[[Extract~Note~Template]]'
+  - "[[Extract~Note~Template]]"
 isDeleted: false
 isReadOnly: false
 keywords: Jackson,Andrew
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle: Jackson,Andrew
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
   - Jackson,Andrew
 title: Jackson,Andrew
 type: private_note
+dv_has_role: "[[../US_President]]"
+dv_is_member_of: "[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]"
+dv_created: 1829-03-04
+dv_cancelled: 1837-03-04
+dv_has_:
+  time_:
+    started: 1767-03-15T00:00:00.000+00:53
+    stopped: 1845-06-08T00:00:00.000+00:53
+dv_is_:
+  same_as:
+    - "[[../../../../../_Standards/WikiData/WD~Andrew_Jackson,11817|WD~Andrew_Jackson,11817]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Jackson,Andrew|Jackson,Andrew]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.public|Jackson,Andrew.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.internal|Jackson,Andrew.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.protect|Jackson,Andrew.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.private|Jackson,Andrew.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.personal|Jackson,Andrew.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.secret|Jackson,Andrew.secret]]"
+dv_has_time_started: 1767-03-15
+dv_has_time_stopped: 1845-06-08
+dv_is_same_as:
+  - "[[../../../../../_Standards/WikiData/WD~Andrew_Jackson,11817|WD~Andrew_Jackson,11817]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Jackson,Andrew|Jackson,Andrew]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.public|Jackson,Andrew.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.internal|Jackson,Andrew.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.protect|Jackson,Andrew.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.private|Jackson,Andrew.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.personal|Jackson,Andrew.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Jackson,Andrew.secret|Jackson,Andrew.secret]]"
 ---
 
 # [[Jackson,Andrew]] 
 
-#has_/time_/started :: 1767-03-15
-#has_/time_/stopped  :: 1845-06-08
--   [has_role :: [[../US_President]] ] [is_member_of :: [[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]] ] [created:: 1829-03-04]  [cancelled:: 1837-03-04]  
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
+-   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 #is_/same_as :: [[../../../../../_Standards/WikiData/WD~Andrew_Jackson,11817|WD~Andrew_Jackson,11817]] 
 

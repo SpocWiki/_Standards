@@ -346,80 +346,170 @@ motto_text:
   - Panama Surprises
   - Pro Mundi Beneficio
 native_label: República de Panamá
+dv_ISO4217-currency_alphabetic: PAB,USD
+dv_ISO4217-currency_name: Balboa,US Dollar
+dv_ISO4217-currency_numeric:
+  - 590
+  - 840
+dv_ISO4217-currency_minor_unit:
+  - 2
+  - 2
+dv_ISO4217-currency_country_name: PANAMA
+dv_Telephone: 507
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Panama
+dv_has_name_en: Panama
+dv_has_name_es: Panamá
+dv_has_name_fr: Panama
+dv_has_name_cn: 巴拿马
+dv_has_name_ar: بنما
+dv_has_name_ru: Панама
+dv_CLDR_display_name: Panama
+dv_UNTERM_English: Panama
+dv_UNTERM_English_Formal: the Republic of Panama
+dv_UNTERM_Spanish_Formal: la República de Panamá
+dv_UNTERM_Spanish: Panamá
+dv_UNTERM_French: Panama (le)
+dv_UNTERM_Arabic: بنما
+dv_UNTERM_Arabic_Formal: جمهورية بنما
+dv_UNTERM_Chinese: 巴拿马
+dv_UNTERM_Chinese_Formal: 巴拿马共和国
+dv_UNTERM_French_Formal: la République du Panama
+dv_UNTERM_Russian: Панама
+dv_UNTERM_Russian_Formal: Республика Панама
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Central America]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 13
+dv_Sub-region: 419
+dv_Geoname-ID: 3703430
+dv_FIPS: PM
+dv_FIFA: PAN
+dv_IOC: PAN
+dv_MARC: pn
+dv_GAUL: 191
+dv_WMO: PM
+dv_ITU: PNR
+dv_DS: PA
+dv_TLD: .pa
+dv_EDGAR: R1
+dv_M49: 591
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 591
+dv_ISO2: PA
+dv_ISO3: PAN
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Panama,804|WD~Panama,804]]"
+    - "[[/_Standards/Earth/Continent/America~Central/Panama|Panama]]"
+    - "[[/_public/Earth/Continent/America~Central/Panama.public|Panama.public]]"
+    - "[[/_internal/Earth/Continent/America~Central/Panama.internal|Panama.internal]]"
+    - "[[/_protect/Earth/Continent/America~Central/Panama.protect|Panama.protect]]"
+    - "[[/_private/Earth/Continent/America~Central/Panama.private|Panama.private]]"
+    - "[[/_personal/Earth/Continent/America~Central/Panama.personal|Panama.personal]]"
+    - "[[/_secret/Earth/Continent/America~Central/Panama.secret|Panama.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Panama
+dv_has_name_de: Panama
+dv_Area-Total: 75517
+dv_Area-Land: 74430
+dv_has_place_continent: "[[South-America]]"
+dv_VehicleCode: PA
+dv_Alcohol-l: 6.9
+dv_Language-Id: 492
+dv_has_place_longitude: -79.5333
+dv_has_place_latitude: 8.96667
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Panama,804|WD~Panama,804]]"
+  - "[[/_Standards/Earth/Continent/America~Central/Panama|Panama]]"
+  - "[[/_public/Earth/Continent/America~Central/Panama.public|Panama.public]]"
+  - "[[/_internal/Earth/Continent/America~Central/Panama.internal|Panama.internal]]"
+  - "[[/_protect/Earth/Continent/America~Central/Panama.protect|Panama.protect]]"
+  - "[[/_private/Earth/Continent/America~Central/Panama.private|Panama.private]]"
+  - "[[/_personal/Earth/Continent/America~Central/Panama.personal|Panama.personal]]"
+  - "[[/_secret/Earth/Continent/America~Central/Panama.secret|Panama.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Panama
 ---
 
 # [[Panama]] 
 
-[	ISO4217-currency_alphabetic	 :: PAB,USD ]
-[	ISO4217-currency_name	 :: Balboa,US Dollar ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 [	ISO4217-currency_numeric	 :: 590,840 ]
 [	ISO4217-currency_minor_unit	 :: 2,2 ]
-[	ISO4217-currency_country_name	 :: PANAMA ] 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 507 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Panama ]
-[	name-en	 :: Panama ]
-[	name-es	 :: Panamá ]
-[	name-fr	 :: Panama ]
-[	name-cn	 :: 巴拿马 ]
-[	name-ar	 :: بنما ]
-[	name-ru	 :: Панама ]
+name = `=this.dv_name`
+[	has_name_en	 :: Panama ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Panama ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Panama ]
-[	UNTERM_English_Formal	 :: the Republic of Panama ]
-[	UNTERM_Spanish_Formal	 :: la República de Panamá ]
-[	UNTERM_Spanish	 :: Panamá ]
-[	UNTERM_French	 :: Panama (le) ]
-[	UNTERM_Arabic	 :: بنما ]
-[	UNTERM_Arabic_Formal	 :: جمهورية بنما ]
-[	UNTERM_Chinese	 :: 巴拿马 ]
-[	UNTERM_Chinese_Formal	 :: 巴拿马共和国 ]
-[	UNTERM_French_Formal	 :: la République du Panama ]
-[	UNTERM_Russian	 :: Панама ]
-[	UNTERM_Russian_Formal	 :: Республика Панама ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[Central America]]  
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ]
-[	Intermediate_Region	 :: 13 ]
-[	Sub-region	 :: 419 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3703430 ]
-[	FIPS	 :: PM ]
-[	FIFA	 :: PAN ]
-[	IOC	 :: PAN ]
-[	MARC	 :: pn ]
-[	GAUL	 :: 191 ]
-[	WMO	 :: PM ]
-[	ITU	 :: PNR ]
-[	DS	 :: PA ]
-[	TLD	 :: .pa ]
-[	EDGAR	 :: R1 ]
-[	M49	 :: 591 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 591 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::PA]
-[ISO3::PAN] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../WikiData/WD~Panama,804|WD~Panama,804]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Panama 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Panama/ReadMe]] 
 
@@ -434,12 +524,12 @@ geojsonFolder: ./Panama/
 markerFolder: ./Panama/
 ```
 
-[name-en::Panama]
-[name-de::Panama]
-[Area-Total::75517]
-[Area-Land::74430]
-has_place_continent:: [[South-America]]  
-[VehicleCode::PA]
+[has_name_en::Panama]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Panama_City]]  
 
 ![[Panama/Coat_of_arms_of_Panama.svg|350]]
@@ -448,10 +538,10 @@ Capital :: [[Panama_City]]
 
 ![[Panama/Flag_of_Panama.svg|350]]
 
-[Alcohol-l::6.9]
-[Language-Id::492]
-[has_place_longitude::-79.5333]
-[has_place_latitude::8.96667]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

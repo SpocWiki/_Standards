@@ -6,33 +6,33 @@ aliases:
   - EU(European Union)
 has_id_wikidata: Q458
 has_member:
-  - '[[Europe~Central/Germany|Germany]]'
-  - '[[Europe~West/France|France]]'
-  - '[[Europe~South/Italy|Italy]]'
-  - '[[Europe~West/Belgium|Belgium]]'
-  - '[[Europe~West/Netherlands|Netherlands]]'
-  - '[[Europe~West/Luxembourg|Luxembourg]]'
-  - '[[Europe~Central/Austria|Austria]]'
-  - '[[Europe~East/Bulgaria|Bulgaria]]'
-  - '[[Europe~Central/Croatia|Croatia]]'
-  - '[[Europe~South/Cyprus|Cyprus]]'
-  - '[[Europe~Central/Czech_Republic|Czech_Republic]]'
-  - '[[Europe~North/Denmark|Denmark]]'
-  - '[[Europe~North/Estonia|Estonia]]'
-  - '[[Europe~North/Finland|Finland]]'
-  - '[[Europe~South/Greece|Greece]]'
-  - '[[Europe~East/Hungary|Hungary]]'
-  - '[[Europe~North/Ireland|Ireland]]'
-  - '[[Europe~North/Latvia|Latvia]]'
-  - '[[Europe~North/Lithuania|Lithuania]]'
-  - '[[Europe~South/Malta|Malta]]'
-  - '[[Europe~East/Poland|Poland]]'
-  - '[[Europe~South/Portugal|Portugal]]'
-  - '[[Europe~East/Romania|Romania]]'
-  - '[[Europe~Central/Slovakia|Slovakia]]'
-  - '[[Europe~Central/Slovenia|Slovenia]]'
-  - '[[Europe~South/Spain|Spain]]'
-  - '[[Europe~North/Sweden|Sweden]]'
+  - "[[Europe~Central/Germany|Germany]]"
+  - "[[Europe~West/France|France]]"
+  - "[[Europe~South/Italy|Italy]]"
+  - "[[Europe~West/Belgium|Belgium]]"
+  - "[[Europe~West/Netherlands|Netherlands]]"
+  - "[[Europe~West/Luxembourg|Luxembourg]]"
+  - "[[Europe~Central/Austria|Austria]]"
+  - "[[Europe~East/Bulgaria|Bulgaria]]"
+  - "[[Europe~Central/Croatia|Croatia]]"
+  - "[[Europe~South/Cyprus|Cyprus]]"
+  - "[[Europe~Central/Czech_Republic|Czech_Republic]]"
+  - "[[Europe~North/Denmark|Denmark]]"
+  - "[[Europe~North/Estonia|Estonia]]"
+  - "[[Europe~North/Finland|Finland]]"
+  - "[[Europe~South/Greece|Greece]]"
+  - "[[Europe~East/Hungary|Hungary]]"
+  - "[[Europe~North/Ireland|Ireland]]"
+  - "[[Europe~North/Latvia|Latvia]]"
+  - "[[Europe~North/Lithuania|Lithuania]]"
+  - "[[Europe~South/Malta|Malta]]"
+  - "[[Europe~East/Poland|Poland]]"
+  - "[[Europe~South/Portugal|Portugal]]"
+  - "[[Europe~East/Romania|Romania]]"
+  - "[[Europe~Central/Slovakia|Slovakia]]"
+  - "[[Europe~Central/Slovenia|Slovenia]]"
+  - "[[Europe~South/Spain|Spain]]"
+  - "[[Europe~North/Sweden|Sweden]]"
 icon: flag-eu
 TableByName:
   EU(European_Union).tsv:
@@ -40,7 +40,50 @@ TableByName:
       - country
       - submit-date
       - result-date
-    headings: ''
+    headings: ""
+dv_has_:
+  time_:
+    started: 1993-11-01T00:00:00.000+01:00
+  previous_item: "[[European_Communities(EC)]]"
+  event_:
+    created: "[[EU-Treaty_of_Maastricht]]"
+  member_:
+    count: 27
+  treaties:
+    - "[[EU-Treaty_of_Maastricht]]"
+    - "[[Europe~Central/EU-Treaty_of_Lisbon]]"
+  image_for_:
+    flag: "![Flag|350](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)"
+    coat_of_arms: "[[Seal_of_Europe.svg|350]]"
+dv_#has_:
+  code: EU
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)|EU(European_Union)]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union).public|EU(European_Union).public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union).internal|EU(European_Union).internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union).protect|EU(European_Union).protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union).private|EU(European_Union).private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union).personal|EU(European_Union).personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union).secret|EU(European_Union).secret]]"
+dv_has_time_started: 1993-11-01
+dv_has_previous_item: "[[European_Communities(EC)]]"
+dv_has_event_created: "[[EU-Treaty_of_Maastricht]]"
+dv_has_member_count: 27
+dv_has_treaties:
+  - "[[EU-Treaty_of_Maastricht]]"
+  - "[[Europe~Central/EU-Treaty_of_Lisbon]]"
+dv_has_code: EU
+dv_has_image_for_flag: "![Flag|350](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)"
+dv_has_image_for_coat_of_arms: "[[Seal_of_Europe.svg|350]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)|EU(European_Union)]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union).public|EU(European_Union).public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union).internal|EU(European_Union).internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union).protect|EU(European_Union).protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union).private|EU(European_Union).private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union).personal|EU(European_Union).personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union).secret|EU(European_Union).secret]]"
 ---
 
 # [[EU(European_Union)]] 
@@ -52,9 +95,9 @@ dv.paragraph(directoryName)
 
 ```
 
-#has_/time_/started :: 1993-11-01 
-#has_/previous_item :: [[European_Communities(EC)]] 
-#has_/event_/created :: [[EU-Treaty_of_Maastricht]] 
+has_time_started = `=this.dv_has_time_started`
+has_previous_item = `=this.dv_has_previous_item`
+has_event_created = `=this.dv_has_event_created`
 #has_/member_/count :: `$=dv.current().has_member.length` 
 Total Number of European Countries: `$=dv.pages().where(p => p.file.path.includes("/Europe") && p.type=='Country').limit(999).length` 
 but some are counted separately like [[Europe~West/France~Metropolitan|France~Metropolitan]], [[Europe~West/Channel-Islands|Channel-Islands]], [[Åland-Islands]] or are only Enclaves like [[Europe~South/Akrotiri_and_Dhekelia|Akrotiri_and_Dhekelia]] or don't exist anymore like [[Europe~Central/Czechoslovakia|Czechoslovakia]]. 
@@ -110,14 +153,14 @@ but some are counted separately like [[Europe~West/France~Metropolitan|France~Me
 
 [[../Europe|Europe]] 
 
-[ #has_/code  :: EU ] 
+has_code = `=this.dv_has_code` 
 #has_/
 ## #has_/image_for_/flag 
 
-#has_/image_for_/flag ::  ![Flag|350](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 ## #has_/image_for_/coat_of_arms 
-#has_/image_for_/coat_of_arms :: ![[Seal_of_Europe.svg|350]]
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
 ![[../../../../_public/xLarge.public/National-Anthem/Anthem-Eu-long.mp3]]
 

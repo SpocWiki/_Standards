@@ -1,5 +1,29 @@
-﻿---
-location: [ 171.3802 , 7.0918 ] 
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 171.3667
+dv_has_place_latitude: 7.116667
+dv_has_name_: Majuro
+dv_has_place_country: "[[../../../Marshall_Islands]]"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Majuro,12919|WD~Majuro,12919]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro|Majuro]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.public|Majuro.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.internal|Majuro.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.protect|Majuro.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.private|Majuro.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.personal|Majuro.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.secret|Majuro.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Majuro,12919|WD~Majuro,12919]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro|Majuro]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.public|Majuro.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.internal|Majuro.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.protect|Majuro.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.private|Majuro.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.personal|Majuro.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.secret|Majuro.secret]]"
+
 aliases:
 has_id_wikidata: Q12919
 confidential: public
@@ -54,17 +78,17 @@ UN_LOCODE: MHMAJ
 # [[Majuro]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../../Geography/Place]] 
-[has_place_longitude::171.3667] 
-[has_place_latitude::7.116667] 
-[name::Majuro] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 has_place_province::  
-has_place_country:: [[Marshall_Islands]]  
+has_place_country = `=this.dv_has_place_country`
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Majuro,12919|WD~Majuro,12919]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -72,6 +96,9 @@ has_place_country:: [[Marshall_Islands]]
 id: Majuro
 coordinates: [[Majuro]] 
 markerFile: [[Majuro]] 
+coordinates: [[Majuro]] 
+markerFile: [[Majuro]] 
+defaultZoom: 5 
 defaultZoom: 11 
 maxZoom: 18
 ```

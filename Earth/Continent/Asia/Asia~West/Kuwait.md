@@ -1,5 +1,92 @@
-﻿---
-location: [ 47.6 , 29.166667 ] 
+---
+dv_ISO4217-currency_alphabetic: KWD
+dv_ISO4217-currency_name: Kuwaiti Dinar
+dv_ISO4217-currency_numeric: 414
+dv_ISO4217-currency_minor_unit: 3
+dv_ISO4217-currency_country_name: KUWAIT
+dv_Telephone: 965
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Kuwait
+dv_has_name_en: Kuwait
+dv_has_name_es: Kuwait
+dv_has_name_fr: Koweït
+dv_has_name_cn: 科威特
+dv_has_name_ar: الكويت
+dv_has_name_ru: Кувейт
+dv_CLDR_display_name: Kuwait
+dv_UNTERM_English: Kuwait
+dv_UNTERM_English_Formal: the State of Kuwait
+dv_UNTERM_Spanish_Formal: el Estado de Kuwait
+dv_UNTERM_Spanish: Kuwait
+dv_UNTERM_French: Koweït (le)
+dv_UNTERM_Arabic: الكويت
+dv_UNTERM_Arabic_Formal: دولة الكويت
+dv_UNTERM_Chinese: 科威特
+dv_UNTERM_Chinese_Formal: 科威特国
+dv_UNTERM_French_Formal: l'État du Koweït
+dv_UNTERM_Russian: Кувейт
+dv_UNTERM_Russian_Formal: Государство Кувейт
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Kuwait]]"
+dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region: 142
+dv_Sub-region: 145
+dv_Geoname-ID: 285570
+dv_FIPS: KU
+dv_FIFA: KUW
+dv_IOC: KUW
+dv_MARC: ku
+dv_GAUL: 137
+dv_WMO: KW
+dv_ITU: KWT
+dv_DS: KWT
+dv_TLD: .kw
+dv_EDGAR: M6
+dv_M49: 414
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 414
+dv_ISO2: KW
+dv_ISO3: KWT
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Kuwait|Kuwait]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Kuwait.public|Kuwait.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal|Kuwait.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Kuwait.protect|Kuwait.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Kuwait.private|Kuwait.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal|Kuwait.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret|Kuwait.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Kuwait
+dv_has_name_de: Kuwait
+dv_Area-Total: 17818
+dv_Area-Land: 17820
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: KWT
+dv_Capital: "[[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]"
+dv_Alcohol-l: 0.1
+dv_Language-Id: 472
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 48
+dv_has_place_latitude: 29.33
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Kuwait|Kuwait]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Kuwait.public|Kuwait.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal|Kuwait.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Kuwait.protect|Kuwait.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Kuwait.private|Kuwait.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal|Kuwait.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret|Kuwait.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Kuwait
+
 aliases:
   - Kuwait
   - Koweït
@@ -291,76 +378,78 @@ CIVICUS_Monitor_country_entry: kuwait
 
 # [[Kuwait]] 
 
-[	ISO4217-currency_alphabetic	 :: KWD ]
-[	ISO4217-currency_name	 :: Kuwaiti Dinar ]
-[	ISO4217-currency_numeric	 :: 414 ]
-[	ISO4217-currency_minor_unit	 :: 3 ]
-[	ISO4217-currency_country_name	 :: KUWAIT ]
+## [[Kuwait]] has Properties 
 
-[	Telephone	 :: 965 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Kuwait ]
-[	name-en	 :: Kuwait ]
-[	name-es	 :: Kuwait ]
-[	name-fr	 :: Koweït ]
-[	name-cn	 :: 科威特 ]
-[	name-ar	 :: الكويت ]
-[	name-ru	 :: Кувейт ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Kuwait ]
+name = `=this.dv_name`
+[	has_name_en	 :: Kuwait ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: Kuwait ]
-[	UNTERM_English_Formal	 :: the State of Kuwait ]
-[	UNTERM_Spanish_Formal	 :: el Estado de Kuwait ]
-[	UNTERM_Spanish	 :: Kuwait ]
-[	UNTERM_French	 :: Koweït (le) ]
-[	UNTERM_Arabic	 :: الكويت ]
-[	UNTERM_Arabic_Formal	 :: دولة الكويت ]
-[	UNTERM_Chinese	 :: 科威特 ]
-[	UNTERM_Chinese_Formal	 :: 科威特国 ]
-[	UNTERM_French_Formal	 :: l'État du Koweït ]
-[	UNTERM_Russian	 :: Кувейт ]
-[	UNTERM_Russian_Formal	 :: Государство Кувейт ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Asia]] 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 145 ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 285570 ]
-[	FIPS	 :: KU ]
-[	FIFA	 :: KUW ]
-[	IOC	 :: KUW ]
-[	MARC	 :: ku ]
-[	GAUL	 :: 137 ]
-[	WMO	 :: KW ]
-[	ITU	 :: KWT ]
-[	DS	 :: KWT ]
-[	TLD	 :: .kw ]
-[	EDGAR	 :: M6 ]
-[	M49	 :: 414 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 414 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::KW]
-[ISO3::KWT] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Kuwait,817|WD~Kuwait,817]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Kuwait 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Kuwait/ReadMe]] 
 
@@ -373,26 +462,29 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Kuwait//
 markerFolder: ./Kuwait/
+coordinates: [[Kuwait]] 
+markerFile: [[Kuwait]] 
+defaultZoom: 7 
 ```
 
-[name-en::Kuwait]
-[name-de::Kuwait]
-[Area-Total::17818]
-[Area-Land::17820]
-has_place_continent:: [[Asia]]  
-[VehicleCode::KWT]
-Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]  
+[has_name_en::Kuwait]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Kuwait/Emblem_of_Kuwait.svg|350]]  
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Kuwait.mp3]]
 ![[Kuwait/Flag_of_Kuwait.svg|350]]  
 
-[Alcohol-l::0.1]
-[Language-Id::472]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::48]
-[has_place_latitude::29.33]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

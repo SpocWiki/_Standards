@@ -1,5 +1,73 @@
-﻿---
-location: [ 144.8 , 13.5 ] 
+---
+dv_ISO4217-currency_alphabetic: USD
+dv_ISO4217-currency_name: US Dollar
+dv_ISO4217-currency_numeric: 840
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: GUAM
+dv_Telephone: 1-671
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Guam
+dv_has_name_en: Guam
+dv_has_name_es: Guam
+dv_has_name_fr: Guam
+dv_has_name_cn: 关岛
+dv_has_name_ar: غوام
+dv_has_name_ru: Гуам
+dv_CLDR_display_name: Guam
+dv_Region_Name: "[[../../Oceania]]"
+dv_Intermediate_Region_Name: "[[Guam]]"
+dv_Sub-region_Name: "[[../Micronesia]]"
+dv_Region: 9
+dv_Sub-region: 57
+dv_Geoname-ID: 4043988
+dv_FIPS: GQ
+dv_FIFA: GUM
+dv_IOC: GUM
+dv_MARC: gu
+dv_GAUL: 101
+dv_WMO: GM
+dv_ITU: GUM
+dv_DS: USA
+dv_TLD: .gu
+dv_EDGAR: GU
+dv_M49: 316
+dv_is_independent: Territory of US
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 316
+dv_ISO2: GU
+dv_ISO3: GUM
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Guam,16635|WD~Guam,16635]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Guam|Guam]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Guam.public|Guam.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Guam.internal|Guam.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Guam.protect|Guam.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Guam.private|Guam.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal|Guam.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret|Guam.secret]]"
+dv_has_name_de: Guam
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Oceania]]"
+dv_Capital: "[[Guam/Villages~Guam/Hagåtña]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 144.75
+dv_has_place_latitude: 13.4792
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Guam,16635|WD~Guam,16635]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Guam|Guam]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Guam.public|Guam.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Guam.internal|Guam.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Guam.protect|Guam.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Guam.private|Guam.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal|Guam.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret|Guam.secret]]"
+
 aliases:
   - Guam
   - غوام
@@ -201,30 +269,32 @@ ISO_3166_1_alpha_3_code: GUM
 
 # [[Guam]] 
 
-[	ISO4217-currency_alphabetic	 :: USD ] 
-[	ISO4217-currency_name	 :: US Dollar ] 
-[	ISO4217-currency_numeric	 :: 840 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: GUAM ] 
+## [[Guam]] has Properties... 
 
-[	Telephone	 :: 1-671 ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Telephone = `=this.dv_Telephone` 
 
-[	name	 :: Guam ] 
-[	name-en	 :: Guam ] 
-[	name-es	 :: Guam ] 
-[	name-fr	 :: Guam ] 
-[	name-cn	 :: 关岛 ] 
-[	name-ar	 :: غوام ] 
-[	name-ru	 :: Гуам ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	CLDR_display_name	 :: Guam ] 
+name = `=this.dv_name` 
+[	has_name_en	 :: Guam ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
+
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
 [	UNTERM_English	 ::  ] 
-[	UNTERM_English_Formal	 ::  ] 
-[	UNTERM_Spanish_Formal	 ::  ] 
+[	UNTERM_Englis_a_ = `=this.dv_is_a_`
+[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ] 
 [	UNTERM_French	 ::  ] 
 [	UNTERM_Arabic	 ::  ] 
@@ -235,39 +305,39 @@ ISO_3166_1_alpha_3_code: GUM
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[../../Australasia/Micronesia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 57 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 4043988 ] 
-[	FIPS	 :: GQ ] 
-[	FIFA	 :: GUM ] 
-[	IOC	 :: GUM ] 
-[	MARC	 :: gu ] 
-[	GAUL	 :: 101 ] 
-[	WMO	 :: GM ] 
-[	ITU	 :: GUM ] 
-[	DS	 :: USA ] 
-[	TLD	 :: .gu ] 
-[	EDGAR	 :: GU ] 
-[	M49	 :: 316 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Territory of US ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 316 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::GU] 
-[ISO3::GUM]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../../WikiData/WD~Guam,16635|WD~Guam,16635]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
@@ -278,26 +348,29 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Guam/
 markerFolder: ./Guam/
+coordinates: [[Guam]] 
+markerFile: [[Guam]] 
+defaultZoom: 5 
 ```
 
-[name-en::Guam] 
-[name-de::Guam] 
+[has_name_en::Guam] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Seal_of_Guam.svg|350]] 
 
 ![[Flag_of_Guam.svg|350]] 
 
-[Area-Total::0] 
-[Area-Land::0] 
-has_place_continent:: [[Oceania]]  
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::] 
-Capital :: [[Hagåtña]]  
+Capital = `=this.dv_Capital`
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::144.75] 
-[has_place_latitude::13.4792] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

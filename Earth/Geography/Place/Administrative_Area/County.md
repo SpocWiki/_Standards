@@ -6,15 +6,15 @@ aliases:
   - County
 has_id_wikidata: Q28575
 subclass_of:
-  - '[[_Standards/WikiData/WD~region,82794]]'
-  - '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
-different_from: '[[_Standards/WikiData/WD~County,855080]]'
+  - "[[_Standards/WikiData/WD~region,82794]]"
+  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
+different_from: "[[_Standards/WikiData/WD~County,855080]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-instance_of: '[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]'
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+instance_of: "[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]"
 OmegaWiki_Defined_Meaning: 971834
 described_at_URL: https://www.whosonfirst.org/docs/placetypes/#county
 UMLS_CUI: C0079170
@@ -22,6 +22,25 @@ Commons_category: Counties
 OpenStreetMap_tag_or_key:
   - Tag:border_type=county
   - Tag:place=county
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~County,28575|WD~County,28575]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/County|County]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/County.public|County.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/County.internal|County.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/County.protect|County.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/County.private|County.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/County.personal|County.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/County.secret|County.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~County,28575|WD~County,28575]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/County|County]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/County.public|County.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/County.internal|County.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/County.protect|County.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/County.private|County.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/County.personal|County.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/County.secret|County.secret]]"
 ---
 
 # [[County]] 

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/geo~Coordinates|geo~Coordinates]]"
+    - "[[/_public/Earth/geo~Coordinates.public|geo~Coordinates.public]]"
+    - "[[/_internal/Earth/geo~Coordinates.internal|geo~Coordinates.internal]]"
+    - "[[/_protect/Earth/geo~Coordinates.protect|geo~Coordinates.protect]]"
+    - "[[/_private/Earth/geo~Coordinates.private|geo~Coordinates.private]]"
+    - "[[/_personal/Earth/geo~Coordinates.personal|geo~Coordinates.personal]]"
+    - "[[/_secret/Earth/geo~Coordinates.secret|geo~Coordinates.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/geo~Coordinates|geo~Coordinates]]"
+  - "[[/_public/Earth/geo~Coordinates.public|geo~Coordinates.public]]"
+  - "[[/_internal/Earth/geo~Coordinates.internal|geo~Coordinates.internal]]"
+  - "[[/_protect/Earth/geo~Coordinates.protect|geo~Coordinates.protect]]"
+  - "[[/_private/Earth/geo~Coordinates.private|geo~Coordinates.private]]"
+  - "[[/_personal/Earth/geo~Coordinates.personal|geo~Coordinates.personal]]"
+  - "[[/_secret/Earth/geo~Coordinates.secret|geo~Coordinates.secret]]"
+---
 There are many (local) Coordinate Systems 
 
 

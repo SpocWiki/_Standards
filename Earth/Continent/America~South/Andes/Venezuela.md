@@ -431,80 +431,166 @@ VAT_rate: 12
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Tambor%20Venezolano%20en%20el%20Zulia%202.ogv
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Venezuela,7112507]]"
 WIPO_ST_3: VE
+dv_ISO4217-currency_alphabetic: VES
+dv_ISO4217-currency_name: Bolívar
+dv_ISO4217-currency_numeric: 937
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: VENEZUELA (BOLIVARIAN REPUBLIC OF)
+dv_Telephone: 58
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_en:
+  - Venezuela (Bolivarian Republic of)
+  - Venezuela
+dv_has_name_es: Venezuela (República Bolivariana de)
+dv_has_name_fr: Venezuela (République bolivarienne du)
+dv_has_name_cn: 委内瑞拉(玻利瓦尔共和国)
+dv_has_name_ar: فنزويلا (جمهورية - البوليفارية)
+dv_has_name_ru: Венесуэла (Боливарианская Республика)
+dv_CLDR_display_name: Venezuela
+dv_UNTERM_English: Venezuela (Bolivarian Republic of)
+dv_UNTERM_English_Formal: the Bolivarian Republic of Venezuela
+dv_UNTERM_Spanish_Formal: la República Bolivariana de Venezuela
+dv_UNTERM_Spanish: Venezuela (República Bolivariana de)
+dv_UNTERM_French: Venezuela (République bolivarienne du)
+dv_UNTERM_Arabic: فنزويلا
+dv_UNTERM_Arabic_Formal: جمهورية فنزويلا البوليفارية
+dv_UNTERM_Chinese: 委内瑞拉(玻利瓦尔共和国)
+dv_UNTERM_Chinese_Formal: 委内瑞拉玻利瓦尔共和国
+dv_UNTERM_French_Formal: la République bolivarienne du Venezuela
+dv_UNTERM_Russian: Венесуэла (Боливарианская Республика)
+dv_UNTERM_Russian_Formal: Боливарианская Республика Венесуэла
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[South America]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 5
+dv_Sub-region: 419
+dv_Geoname-ID: 3625428
+dv_FIPS: VE
+dv_FIFA: VEN
+dv_IOC: VEN
+dv_MARC: ve
+dv_GAUL: 263
+dv_WMO: VN
+dv_ITU: VEN
+dv_DS: YV
+dv_TLD: .ve
+dv_M49: 862
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 862
+dv_ISO2: VE
+dv_ISO3: VEN
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Venezuela,717|WD~Venezuela,717]]"
+    - "[[/_Standards/Earth/Continent/America~South/Andes/Venezuela|Venezuela]]"
+    - "[[/_public/Earth/Continent/America~South/Andes/Venezuela.public|Venezuela.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Andes/Venezuela.internal|Venezuela.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Andes/Venezuela.protect|Venezuela.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Andes/Venezuela.private|Venezuela.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Andes/Venezuela.personal|Venezuela.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Andes/Venezuela.secret|Venezuela.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Venezuela
+dv_has_name_de: Venezuela
+dv_Area-Total: 912050
+dv_Area-Land: 882050
+dv_has_place_continent: "[[South-America]]"
+dv_VehicleCode: YV
+dv_Alcohol-l: 8.2
+dv_Language-Id: 492
+dv_has_place_longitude: -66.93
+dv_has_place_latitude: 10.5
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Venezuela,717|WD~Venezuela,717]]"
+  - "[[/_Standards/Earth/Continent/America~South/Andes/Venezuela|Venezuela]]"
+  - "[[/_public/Earth/Continent/America~South/Andes/Venezuela.public|Venezuela.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Andes/Venezuela.internal|Venezuela.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Andes/Venezuela.protect|Venezuela.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Andes/Venezuela.private|Venezuela.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Andes/Venezuela.personal|Venezuela.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Andes/Venezuela.secret|Venezuela.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Venezuela
 ---
 
 # [[Venezuela]] 
 
-[	ISO4217-currency_alphabetic	 :: VES ]
-[	ISO4217-currency_name	 :: Bolívar ]
-[	ISO4217-currency_numeric	 :: 937 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: VENEZUELA (BOLIVARIAN REPUBLIC OF) ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 58 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
 [	name	 :: Venezuela ]
-[	name-en	 :: Venezuela (Bolivarian Republic of) ]
-[	name-es	 :: Venezuela (República Bolivariana de) ]
-[	name-fr	 :: Venezuela (République bolivarienne du) ]
-[	name-cn	 :: 委内瑞拉(玻利瓦尔共和国) ]
-[	name-ar	 :: فنزويلا (جمهورية - البوليفارية) ]
-[	name-ru	 :: Венесуэла (Боливарианская Республика) ]
+[	has_name_en	 :: Venezuela (Bolivarian Republic of) ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Venezuela ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Venezuela (Bolivarian Republic of) ]
-[	UNTERM_English_Formal	 :: the Bolivarian Republic of Venezuela ]
-[	UNTERM_Spanish_Formal	 :: la República Bolivariana de Venezuela ]
-[	UNTERM_Spanish	 :: Venezuela (República Bolivariana de) ]
-[	UNTERM_French	 :: Venezuela (République bolivarienne du) ]
-[	UNTERM_Arabic	 :: فنزويلا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية فنزويلا البوليفارية ]
-[	UNTERM_Chinese	 :: 委内瑞拉(玻利瓦尔共和国) ]
-[	UNTERM_Chinese_Formal	 :: 委内瑞拉玻利瓦尔共和国 ]
-[	UNTERM_French_Formal	 :: la République bolivarienne du Venezuela ]
-[	UNTERM_Russian	 :: Венесуэла (Боливарианская Республика) ]
-[	UNTERM_Russian_Formal	 :: Боливарианская Республика Венесуэла ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[South America]] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ]
-[	Intermediate_Region	 :: 5 ]
-[	Sub-region	 :: 419 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3625428 ]
-[	FIPS	 :: VE ]
-[	FIFA	 :: VEN ]
-[	IOC	 :: VEN ]
-[	MARC	 :: ve ]
-[	GAUL	 :: 263 ]
-[	WMO	 :: VN ]
-[	ITU	 :: VEN ]
-[	DS	 :: YV ]
-[	TLD	 :: .ve ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
 [	EDGAR	 ::  ]
-[	M49	 :: 862 ]
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 862 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::VE]
-[ISO3::VEN] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Venezuela,717|WD~Venezuela,717]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Venezuela 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Venezuela/ReadMe]] 
 
@@ -523,12 +609,12 @@ zoomFeatures: true
 defaultZoom: 7 
 ```
 
-[name-en::Venezuela]
-[name-de::Venezuela]
-[Area-Total::912050]
-[Area-Land::882050]
-has_place_continent:: [[South-America]]  
-[VehicleCode::YV]
+[has_name_en::Venezuela]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]  
 
 ![[Venezuela/Coat_of_arms_of_Venezuela.svg|350]]
@@ -537,10 +623,10 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 
 ![[Venezuela/Flag_of_Venezuela.svg|350]]
 
-[Alcohol-l::8.2]
-[Language-Id::492]
-[has_place_longitude::-66.93]
-[has_place_latitude::10.5]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

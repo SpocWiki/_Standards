@@ -6,62 +6,62 @@ aliases:
   - Rio Grande
 has_id_wikidata: Q160636
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Tamaulipas,80007]]'
-  - '[[_Standards/WikiData/WD~Chihuahua,655]]'
-  - '[[_Standards/WikiData/WD~Colorado,1261]]'
-  - '[[_Standards/WikiData/WD~Texas,1439]]'
-  - '[[_Standards/WikiData/WD~New_Mexico,1522]]'
-  - '[[_Standards/WikiData/WD~Nuevo_León,15282]]'
-  - '[[_Standards/WikiData/WD~Coahuila,53079]]'
+  - "[[_Standards/WikiData/WD~Tamaulipas,80007]]"
+  - "[[_Standards/WikiData/WD~Chihuahua,655]]"
+  - "[[_Standards/WikiData/WD~Colorado,1261]]"
+  - "[[_Standards/WikiData/WD~Texas,1439]]"
+  - "[[_Standards/WikiData/WD~New_Mexico,1522]]"
+  - "[[_Standards/WikiData/WD~Nuevo_León,15282]]"
+  - "[[_Standards/WikiData/WD~Coahuila,53079]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 tributary:
-  - '[[_Standards/WikiData/WD~Pecos_River,1356561]]'
-  - '[[_Standards/WikiData/WD~Rio_Conchos,1970278]]'
-  - '[[_Standards/WikiData/WD~Alamito_Creek,4705929]]'
-  - '[[_Standards/WikiData/WD~Alamosa_River,4706000]]'
-  - '[[_Standards/WikiData/WD~Chacon_Creek,5066115]]'
-  - '[[_Standards/WikiData/WD~Conejos_River,5159491]]'
-  - '[[_Standards/WikiData/WD~Culebra_Creek,5192891]]'
-  - '[[_Standards/WikiData/WD~Rio_Salado,6115639]]'
-  - '[[_Standards/WikiData/WD~Jemez_River,6177133]]'
-  - '[[_Standards/WikiData/WD~Red_River,7304819]]'
-  - '[[_Standards/WikiData/WD~Rio_Chama,7335176]]'
-  - '[[_Standards/WikiData/WD~Rio_Hondo,7335259]]'
-  - '[[_Standards/WikiData/WD~Rio_Pueblo_de_Taos,7335306]]'
-  - '[[_Standards/WikiData/WD~Rio_Puerco,7335307]]'
-  - '[[_Standards/WikiData/WD~Rio_Salado,7335322]]'
-  - '[[_Standards/WikiData/WD~San_Francisco_Creek,7413989]]'
-  - '[[_Standards/WikiData/WD~San_Ildefonso_Creek,7414307]]'
-  - '[[_Standards/WikiData/WD~Santa_Isabel_Creek,7419622]]'
-  - '[[_Standards/WikiData/WD~Sombrerillito_Creek,7559329]]'
-  - '[[_Standards/WikiData/WD~Terlingua_Creek,7702534]]'
-  - '[[_Standards/WikiData/WD~Zacate_Creek,8063744]]'
-  - '[[_Standards/WikiData/WD~South_Fork_Rio_Grande,14685101]]'
-  - '[[_Standards/WikiData/WD~Trinchera_Creek,14685129]]'
-  - '[[_Standards/WikiData/WD~Santa_Fe_River,14706103]]'
-  - '[[_Standards/WikiData/WD~Maravillas_Creek,15246559]]'
-  - '[[_Standards/WikiData/WD~Río_San_Juan_(Nuevo_León),18621114]]'
-  - '[[_Standards/WikiData/WD~Galisteo_Creek,49914553]]'
-drainage_basin: '[[_Standards/WikiData/WD~Rio_Grande_basin,52228982]]'
+  - "[[_Standards/WikiData/WD~Pecos_River,1356561]]"
+  - "[[_Standards/WikiData/WD~Rio_Conchos,1970278]]"
+  - "[[_Standards/WikiData/WD~Alamito_Creek,4705929]]"
+  - "[[_Standards/WikiData/WD~Alamosa_River,4706000]]"
+  - "[[_Standards/WikiData/WD~Chacon_Creek,5066115]]"
+  - "[[_Standards/WikiData/WD~Conejos_River,5159491]]"
+  - "[[_Standards/WikiData/WD~Culebra_Creek,5192891]]"
+  - "[[_Standards/WikiData/WD~Rio_Salado,6115639]]"
+  - "[[_Standards/WikiData/WD~Jemez_River,6177133]]"
+  - "[[_Standards/WikiData/WD~Red_River,7304819]]"
+  - "[[_Standards/WikiData/WD~Rio_Chama,7335176]]"
+  - "[[_Standards/WikiData/WD~Rio_Hondo,7335259]]"
+  - "[[_Standards/WikiData/WD~Rio_Pueblo_de_Taos,7335306]]"
+  - "[[_Standards/WikiData/WD~Rio_Puerco,7335307]]"
+  - "[[_Standards/WikiData/WD~Rio_Salado,7335322]]"
+  - "[[_Standards/WikiData/WD~San_Francisco_Creek,7413989]]"
+  - "[[_Standards/WikiData/WD~San_Ildefonso_Creek,7414307]]"
+  - "[[_Standards/WikiData/WD~Santa_Isabel_Creek,7419622]]"
+  - "[[_Standards/WikiData/WD~Sombrerillito_Creek,7559329]]"
+  - "[[_Standards/WikiData/WD~Terlingua_Creek,7702534]]"
+  - "[[_Standards/WikiData/WD~Zacate_Creek,8063744]]"
+  - "[[_Standards/WikiData/WD~South_Fork_Rio_Grande,14685101]]"
+  - "[[_Standards/WikiData/WD~Trinchera_Creek,14685129]]"
+  - "[[_Standards/WikiData/WD~Santa_Fe_River,14706103]]"
+  - "[[_Standards/WikiData/WD~Maravillas_Creek,15246559]]"
+  - "[[_Standards/WikiData/WD~Río_San_Juan_(Nuevo_León),18621114]]"
+  - "[[_Standards/WikiData/WD~Galisteo_Creek,49914553]]"
+drainage_basin: "[[_Standards/WikiData/WD~Rio_Grande_basin,52228982]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~border_river,108822533]]'
-  - '[[_Standards/WikiData/WD~river,4022]]'
+  - "[[_Standards/WikiData/WD~border_river,108822533]]"
+  - "[[_Standards/WikiData/WD~river,4022]]"
 coordinate_location:
   - Point(-97.1452 25.9562)
   - Point(-107.5384 37.7978)
-mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Gulf_of_Mexico,12630]]'
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Gulf_of_Mexico,12630]]"
 basin_country:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Mexico,96]]'
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
 country:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Mexico,96]]'
-continent: '[[_Standards/WikiData/WD~North_America,49]]'
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 discharge: 85
 length: 3051
 watershed_area: 471900
@@ -74,6 +74,25 @@ native_label:
   - mets'ichi chena
   - paslápaane
   - posoge
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Rio_Grande,160636|WD~Rio_Grande,160636]]"
+    - "[[/_Standards/Earth/Continent/America~Central/Rio_Grande|Rio_Grande]]"
+    - "[[/_public/Earth/Continent/America~Central/Rio_Grande.public|Rio_Grande.public]]"
+    - "[[/_internal/Earth/Continent/America~Central/Rio_Grande.internal|Rio_Grande.internal]]"
+    - "[[/_protect/Earth/Continent/America~Central/Rio_Grande.protect|Rio_Grande.protect]]"
+    - "[[/_private/Earth/Continent/America~Central/Rio_Grande.private|Rio_Grande.private]]"
+    - "[[/_personal/Earth/Continent/America~Central/Rio_Grande.personal|Rio_Grande.personal]]"
+    - "[[/_secret/Earth/Continent/America~Central/Rio_Grande.secret|Rio_Grande.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Rio_Grande,160636|WD~Rio_Grande,160636]]"
+  - "[[/_Standards/Earth/Continent/America~Central/Rio_Grande|Rio_Grande]]"
+  - "[[/_public/Earth/Continent/America~Central/Rio_Grande.public|Rio_Grande.public]]"
+  - "[[/_internal/Earth/Continent/America~Central/Rio_Grande.internal|Rio_Grande.internal]]"
+  - "[[/_protect/Earth/Continent/America~Central/Rio_Grande.protect|Rio_Grande.protect]]"
+  - "[[/_private/Earth/Continent/America~Central/Rio_Grande.private|Rio_Grande.private]]"
+  - "[[/_personal/Earth/Continent/America~Central/Rio_Grande.personal|Rio_Grande.personal]]"
+  - "[[/_secret/Earth/Continent/America~Central/Rio_Grande.secret|Rio_Grande.secret]]"
 ---
 
 # [[Rio_Grande]] 

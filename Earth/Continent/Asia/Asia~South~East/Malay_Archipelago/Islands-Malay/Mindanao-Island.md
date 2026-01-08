@@ -1,5 +1,25 @@
-﻿---
-location: [ 125.0 , 7.5 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Mindanao,124873|WD~Mindanao,124873]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island|Mindanao-Island]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.public|Mindanao-Island.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.internal|Mindanao-Island.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.protect|Mindanao-Island.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.private|Mindanao-Island.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.personal|Mindanao-Island.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.secret|Mindanao-Island.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Mindanao,124873|WD~Mindanao,124873]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island|Mindanao-Island]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.public|Mindanao-Island.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.internal|Mindanao-Island.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.protect|Mindanao-Island.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.private|Mindanao-Island.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.personal|Mindanao-Island.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.secret|Mindanao-Island.secret]]"
+
+location: [ 7.5, 125.0 ] 
 aliases:
 has_id_wikidata: Q124873
 located_in_or_next_to_body_of_water:
@@ -45,6 +65,20 @@ population: 27021036
 # [[Mindanao-Island]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Mindanao,124873|WD~Mindanao,124873]] 
+
+## #has_/map  
+
+```leaflet
+id: Mindanao-Island
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Mindanao-Island//
+markerFolder: ./Mindanao-Island/
+coordinates: [[Mindanao-Island]] 
+markerFile: [[Mindanao-Island]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

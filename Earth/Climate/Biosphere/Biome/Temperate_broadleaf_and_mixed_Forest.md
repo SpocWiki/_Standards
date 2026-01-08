@@ -9,6 +9,25 @@ described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol
 OmegaWiki_Defined_Meaning: "5061"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Biome%20map%2004.svg
 Commons_category: Temperate broadleaf and mixed forests
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Temperate_broadleaf_and_mixed_forest,622896]]"
+    - "[[/_Standards/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest|Temperate_broadleaf_and_mixed_Forest]]"
+    - "[[/_public/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.public|Temperate_broadleaf_and_mixed_Forest.public]]"
+    - "[[/_internal/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.internal|Temperate_broadleaf_and_mixed_Forest.internal]]"
+    - "[[/_protect/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.protect|Temperate_broadleaf_and_mixed_Forest.protect]]"
+    - "[[/_private/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.private|Temperate_broadleaf_and_mixed_Forest.private]]"
+    - "[[/_personal/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.personal|Temperate_broadleaf_and_mixed_Forest.personal]]"
+    - "[[/_secret/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.secret|Temperate_broadleaf_and_mixed_Forest.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Temperate_broadleaf_and_mixed_forest,622896]]"
+  - "[[/_Standards/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest|Temperate_broadleaf_and_mixed_Forest]]"
+  - "[[/_public/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.public|Temperate_broadleaf_and_mixed_Forest.public]]"
+  - "[[/_internal/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.internal|Temperate_broadleaf_and_mixed_Forest.internal]]"
+  - "[[/_protect/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.protect|Temperate_broadleaf_and_mixed_Forest.protect]]"
+  - "[[/_private/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.private|Temperate_broadleaf_and_mixed_Forest.private]]"
+  - "[[/_personal/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.personal|Temperate_broadleaf_and_mixed_Forest.personal]]"
+  - "[[/_secret/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.secret|Temperate_broadleaf_and_mixed_Forest.secret]]"
 ---
 
 # [[Temperate_broadleaf_and_mixed_Forest]] 

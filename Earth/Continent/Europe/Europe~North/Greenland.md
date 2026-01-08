@@ -6,59 +6,131 @@ aliases:
   - غرينلند
   - 格陵兰
   - Гренландия
-  - ''
+  - ""
 has_id_wikidata: Q223
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate: ''
+expiryDate: ""
 icon: flag-gl
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - kl
   - da-GL
   - en
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 64.25
   - -51.67
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26905
 tags:
   - geo/Country
 title: Greenland
 type: Country
+dv_ISO4217-currency_alphabetic: DKK
+dv_ISO4217-currency_name: Danish Krone
+dv_ISO4217-currency_numeric: 208
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: GREENLAND
+dv_Telephone: 299
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Greenland
+dv_has_name_en: Greenland
+dv_has_name_es: Groenlandia
+dv_has_name_fr: Groenland
+dv_has_name_cn: 格陵兰
+dv_has_name_ar: غرينلند
+dv_has_name_ru: Гренландия
+dv_CLDR_display_name: Greenland
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Greenland]]"
+dv_Sub-region_Name: "[[Northern America]]"
+dv_Region: 19
+dv_Sub-region: 21
+dv_Geoname-ID: 3425505
+dv_FIPS: GL
+dv_FIFA: GRL
+dv_IOC: GRL
+dv_MARC: gl
+dv_GAUL: 98
+dv_WMO: GL
+dv_ITU: GRL
+dv_DS: DK
+dv_TLD: .gl
+dv_EDGAR: J4
+dv_M49: 304
+dv_is_independent: Part of DK
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 304
+dv_ISO2: GL
+dv_ISO3: GRL
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Greenland,223|WD~Greenland,223]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Greenland|Greenland]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Greenland.public|Greenland.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Greenland.internal|Greenland.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Greenland.protect|Greenland.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Greenland.private|Greenland.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal|Greenland.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret|Greenland.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Greenland
+dv_has_name_de: Grönland
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: KN
+dv_Capital: "[[Greenland/City/Godthab]]"
+dv_has_place_longitude: -51.67
+dv_has_place_latitude: 64.25
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Greenland,223|WD~Greenland,223]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Greenland|Greenland]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Greenland.public|Greenland.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Greenland.internal|Greenland.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Greenland.protect|Greenland.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Greenland.private|Greenland.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal|Greenland.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret|Greenland.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Greenland
 ---
 
 # [[Greenland]] 
 
-[	ISO4217-currency_alphabetic	 :: DKK ]
-[	ISO4217-currency_name	 :: Danish Krone ]
-[	ISO4217-currency_numeric	 :: 208 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: GREENLAND ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 299 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Greenland ]
-[	name-en	 :: Greenland ]
-[	name-es	 :: Groenlandia ]
-[	name-fr	 :: Groenland ]
-[	name-cn	 :: 格陵兰 ]
-[	name-ar	 :: غرينلند ]
-[	name-ru	 :: Гренландия ]
+name = `=this.dv_name`
+[	has_name_en	 :: Greenland ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Greenland ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
 [	UNTERM_English	 ::  ]
 [	UNTERM_English_Formal	 ::  ]
@@ -73,42 +145,42 @@ type: Country
 [	UNTERM_Russian	 ::  ]
 [	UNTERM_Russian_Formal	 ::  ]
 
-Region_Name ::  [[Americas]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Northern America]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 21 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3425505 ]
-[	FIPS	 :: GL ]
-[	FIFA	 :: GRL ]
-[	IOC	 :: GRL ]
-[	MARC	 :: gl ]
-[	GAUL	 :: 98 ]
-[	WMO	 :: GL ]
-[	ITU	 :: GRL ]
-[	DS	 :: DK ]
-[	TLD	 :: .gl ]
-[	EDGAR	 :: J4 ]
-[	M49	 :: 304 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Part of DK ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 304 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::GL] 
-[ISO3::GRL]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
 #is_/same_as :: [[../../../../WikiData/WD~Greenland,223|WD~Greenland,223]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Greenland 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Greenland/ReadMe]] 
 
@@ -124,20 +196,20 @@ geojsonFolder: ./Greenland//
 markerFolder: ./Greenland///
 ```
 
-[name-en::Greenland]
-[name-de::Grönland]
+[has_name_en::Greenland]
+has_name_de = `=this.dv_has_name_de`
 ![[Coat_of_arms_of_Greenland.svg|350]]
 ![[Flag_of_Greenland.svg|350]]
 
-[Area-Total::0]
-[Area-Land::0]
-has_place_continent:: [[Europe]]  
-[VehicleCode::KN]
-Capital :: [[Godthab]]  
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 [Alcohol-l::]
 [Language-Id::]
-[has_place_longitude::-51.67]
-[has_place_latitude::64.25]
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/text_of_/abstract 
 

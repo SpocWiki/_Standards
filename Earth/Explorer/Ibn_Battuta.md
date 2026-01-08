@@ -51,6 +51,23 @@ Commons_category: Ibn Battuta
 Commons_Creator_page: Ibn Battuta
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ibn%20Battuta%20Mall%20on%202%20June%202007%20Pict%203.jpg
 ISNI: "0000000121432476"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Explorer/Ibn_Battuta|Ibn_Battuta]]"
+    - "[[/_public/Earth/Explorer/Ibn_Battuta.public|Ibn_Battuta.public]]"
+    - "[[/_internal/Earth/Explorer/Ibn_Battuta.internal|Ibn_Battuta.internal]]"
+    - "[[/_protect/Earth/Explorer/Ibn_Battuta.protect|Ibn_Battuta.protect]]"
+    - "[[/_private/Earth/Explorer/Ibn_Battuta.private|Ibn_Battuta.private]]"
+    - "[[/_personal/Earth/Explorer/Ibn_Battuta.personal|Ibn_Battuta.personal]]"
+    - "[[/_secret/Earth/Explorer/Ibn_Battuta.secret|Ibn_Battuta.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Explorer/Ibn_Battuta|Ibn_Battuta]]"
+  - "[[/_public/Earth/Explorer/Ibn_Battuta.public|Ibn_Battuta.public]]"
+  - "[[/_internal/Earth/Explorer/Ibn_Battuta.internal|Ibn_Battuta.internal]]"
+  - "[[/_protect/Earth/Explorer/Ibn_Battuta.protect|Ibn_Battuta.protect]]"
+  - "[[/_private/Earth/Explorer/Ibn_Battuta.private|Ibn_Battuta.private]]"
+  - "[[/_personal/Earth/Explorer/Ibn_Battuta.personal|Ibn_Battuta.personal]]"
+  - "[[/_secret/Earth/Explorer/Ibn_Battuta.secret|Ibn_Battuta.secret]]"
 ---
 
 # [[Ibn_Battuta]] 

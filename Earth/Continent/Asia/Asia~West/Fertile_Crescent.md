@@ -1,5 +1,25 @@
-﻿---
-location: [ 40.0 , 36.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Fertile_Crescent,170526|WD~Fertile_Crescent,170526]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Fertile_Crescent|Fertile_Crescent]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Fertile_Crescent.public|Fertile_Crescent.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Fertile_Crescent.internal|Fertile_Crescent.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Fertile_Crescent.protect|Fertile_Crescent.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Fertile_Crescent.private|Fertile_Crescent.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Fertile_Crescent.personal|Fertile_Crescent.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Fertile_Crescent.secret|Fertile_Crescent.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Fertile_Crescent,170526|WD~Fertile_Crescent,170526]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Fertile_Crescent|Fertile_Crescent]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Fertile_Crescent.public|Fertile_Crescent.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Fertile_Crescent.internal|Fertile_Crescent.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Fertile_Crescent.protect|Fertile_Crescent.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Fertile_Crescent.private|Fertile_Crescent.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Fertile_Crescent.personal|Fertile_Crescent.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Fertile_Crescent.secret|Fertile_Crescent.secret]]"
+
+location: [ 36.0, 40.0 ] 
 aliases:
   - Fruchtbarer Halbmond
   - Fertile Crescent
@@ -38,6 +58,20 @@ Commons_category: Fertile Crescent
 # [[Fertile_Crescent]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fertile_Crescent,170526|WD~Fertile_Crescent,170526]] 
+
+## #has_/map  
+
+```leaflet
+id: Fertile_Crescent
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Fertile_Crescent//
+markerFolder: ./Fertile_Crescent/
+coordinates: [[Fertile_Crescent]] 
+markerFile: [[Fertile_Crescent]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

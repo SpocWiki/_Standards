@@ -4,21 +4,40 @@ aliases:
   - Province
 has_id_wikidata: Q34876
 permanent_duplicated_item:
-  - '[[_Standards/WikiData/WD~Roman_province,182547]]'
-  - '[[_Standards/WikiData/WD~Q25634186,25634186]]'
+  - "[[_Standards/WikiData/WD~Roman_province,182547]]"
+  - "[[_Standards/WikiData/WD~Q25634186,25634186]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
 different_from:
-  - '[[_Standards/WikiData/WD~province,4644326]]'
-  - '[[_Standards/WikiData/WD~province,106531650]]'
-instance_of: '[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Q105985227,105985227]]'
-subclass_of: '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
+  - "[[_Standards/WikiData/WD~province,4644326]]"
+  - "[[_Standards/WikiData/WD~province,106531650]]"
+instance_of: "[[_Standards/WikiData/WD~administrative_territorial_entity_type,15617994]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Q105985227,105985227]]"
+subclass_of: "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
 Commons_category: Provinces
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20country%20subdivisions%20%28provinces%29.svg
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Province,34876]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Province|Province]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/Province.public|Province.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/Province.internal|Province.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/Province.protect|Province.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/Province.private|Province.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/Province.personal|Province.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/Province.secret|Province.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Province,34876]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Province|Province]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/Province.public|Province.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/Province.internal|Province.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/Province.protect|Province.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/Province.private|Province.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/Province.personal|Province.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/Province.secret|Province.secret]]"
 ---
 
 # [[Province]] 

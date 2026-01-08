@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -0.52
   - 166.95
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Anibare
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare|Anibare]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.public|Anibare.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.internal|Anibare.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.protect|Anibare.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.private|Anibare.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.personal|Anibare.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.secret|Anibare.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare|Anibare]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.public|Anibare.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.internal|Anibare.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.protect|Anibare.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.private|Anibare.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.personal|Anibare.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anibare.secret|Anibare.secret]]"
 ---
 
 # Anibare

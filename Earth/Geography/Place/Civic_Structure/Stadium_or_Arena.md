@@ -78,6 +78,31 @@ Unicode_character: 🏟
 OpenStreetMap_tag:
   - building=stadium
   - leisure=stadium
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Stadium,483110|WD~Stadium,483110]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena|Stadium_or_Arena]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.public|Stadium_or_Arena.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.internal|Stadium_or_Arena.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.protect|Stadium_or_Arena.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.private|Stadium_or_Arena.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.personal|Stadium_or_Arena.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.secret|Stadium_or_Arena.secret]]"
+dv_#is_:
+  sub_class_of: "[[../CivicStructure, SportsActivityLocation]]"
+dv_has_:
+  properties: "[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Stadium,483110|WD~Stadium,483110]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena|Stadium_or_Arena]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.public|Stadium_or_Arena.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.internal|Stadium_or_Arena.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.protect|Stadium_or_Arena.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.private|Stadium_or_Arena.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.personal|Stadium_or_Arena.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Stadium_or_Arena.secret|Stadium_or_Arena.secret]]"
+dv_is_sub_class_of: "[[../CivicStructure, SportsActivityLocation]]"
+dv_has_properties: "[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]"
 ---
 
 # [[Stadium_or_Arena]] 🏟 
@@ -91,9 +116,9 @@ Tag Instances like this:
 
 A stadium.
 
-[ #is_/sub_class_of :: [[../CivicStructure, SportsActivityLocation]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-#has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] 
+has_properties = `=this.dv_has_properties`
 
 ## #has_/text_of_/abstract 
 

@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -12.5
   - 177.1
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Rotuma
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma|Rotuma]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.public|Rotuma.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.internal|Rotuma.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.protect|Rotuma.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.private|Rotuma.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.personal|Rotuma.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.secret|Rotuma.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma|Rotuma]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.public|Rotuma.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.internal|Rotuma.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.protect|Rotuma.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.private|Rotuma.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.personal|Rotuma.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Rotuma.secret|Rotuma.secret]]"
 ---
 
 # Rotuma

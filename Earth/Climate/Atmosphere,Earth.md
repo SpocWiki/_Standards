@@ -5,58 +5,78 @@ aliases:
   - Atmosphere,Earth
 has_id_wikidata: Q3230
 has_part_s_:
-  - '[[_Standards/WikiData/WD~stratosphere,108376]]'
-  - '[[_Standards/WikiData/WD~ionosphere,162219]]'
-  - '[[_Standards/WikiData/WD~tropopause,186433]]'
-  - '[[_Standards/WikiData/WD~stratopause,205397]]'
-  - '[[_Standards/WikiData/WD~homosphere_and_heterosphere,486613]]'
-  - '[[_Standards/WikiData/WD~thermopause,757229]]'
-  - '[[_Standards/WikiData/WD~upper_atmosphere,1621662]]'
-  - '[[_Standards/WikiData/WD~air,7391292]]'
-  - '[[_Standards/WikiData/WD~troposphere,40631]]'
+  - "[[_Standards/WikiData/WD~stratosphere,108376]]"
+  - "[[_Standards/WikiData/WD~ionosphere,162219]]"
+  - "[[_Standards/WikiData/WD~tropopause,186433]]"
+  - "[[_Standards/WikiData/WD~stratopause,205397]]"
+  - "[[_Standards/WikiData/WD~homosphere_and_heterosphere,486613]]"
+  - "[[_Standards/WikiData/WD~thermopause,757229]]"
+  - "[[_Standards/WikiData/WD~upper_atmosphere,1621662]]"
+  - "[[_Standards/WikiData/WD~air,7391292]]"
+  - "[[_Standards/WikiData/WD~troposphere,40631]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~geosphere,241284]]'
-  - '[[_Standards/WikiData/WD~geographic_envelope,2627400]]'
-  - '[[_Standards/WikiData/WD~atmosphere_of_a_planet,19704068]]'
-has_boundary: '[[_Standards/WikiData/WD~Kármán_line,275565]]'
+  - "[[_Standards/WikiData/WD~geosphere,241284]]"
+  - "[[_Standards/WikiData/WD~geographic_envelope,2627400]]"
+  - "[[_Standards/WikiData/WD~atmosphere_of_a_planet,19704068]]"
+has_boundary: "[[_Standards/WikiData/WD~Kármán_line,275565]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 made_from_material:
-  - '[[_Standards/WikiData/WD~dinitrogen,2370426]]'
-  - '[[_Standards/WikiData/WD~dioxygen,5203615]]'
-  - '[[_Standards/WikiData/WD~helium,560]]'
-  - '[[_Standards/WikiData/WD~neon,654]]'
-  - '[[_Standards/WikiData/WD~argon,696]]'
-  - '[[_Standards/WikiData/WD~krypton,888]]'
-  - '[[_Standards/WikiData/WD~carbon_dioxide,1997]]'
-  - '[[_Standards/WikiData/WD~methane,37129]]'
+  - "[[_Standards/WikiData/WD~dinitrogen,2370426]]"
+  - "[[_Standards/WikiData/WD~dioxygen,5203615]]"
+  - "[[_Standards/WikiData/WD~helium,560]]"
+  - "[[_Standards/WikiData/WD~neon,654]]"
+  - "[[_Standards/WikiData/WD~argon,696]]"
+  - "[[_Standards/WikiData/WD~krypton,888]]"
+  - "[[_Standards/WikiData/WD~carbon_dioxide,1997]]"
+  - "[[_Standards/WikiData/WD~methane,37129]]"
 studied_by:
-  - '[[_Standards/WikiData/WD~atmospheric_physics,5334416]]'
-  - '[[_Standards/WikiData/WD~aeronomy,16360]]'
-  - '[[_Standards/WikiData/WD~meteorology,25261]]'
-  - '[[_Standards/WikiData/WD~geophysics,46255]]'
+  - "[[_Standards/WikiData/WD~atmospheric_physics,5334416]]"
+  - "[[_Standards/WikiData/WD~aeronomy,16360]]"
+  - "[[_Standards/WikiData/WD~meteorology,25261]]"
+  - "[[_Standards/WikiData/WD~geophysics,46255]]"
 topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Earth's_atmosphere,5931320]]"
-  - '[[_Standards/WikiData/WD~Q16354698,16354698]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-located_on_astronomical_body: '[[_Standards/WikiData/WD~Earth,2]]'
+  - "[[_Standards/WikiData/WD~Q16354698,16354698]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+located_on_astronomical_body: "[[_Standards/WikiData/WD~Earth,2]]"
 part_of:
-  - '[[_Standards/WikiData/WD~Earth,2]]'
-  - '[[_Standards/WikiData/WD~natural_environment,43619]]'
+  - "[[_Standards/WikiData/WD~Earth,2]]"
+  - "[[_Standards/WikiData/WD~natural_environment,43619]]"
 OmegaWiki_Defined_Meaning: 106
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS043-E-184471%20-%20View%20of%20Earth.jpg
 Commons_category: Earth's atmosphere
 Krugosvet_article: nauka_i_tehnika/himiya/ATMOSFERA_ZEMLI.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Atmosphere_of_Earth,3230|WD~Atmosphere_of_Earth,3230]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth|Atmosphere,Earth]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth.public|Atmosphere,Earth.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth.internal|Atmosphere,Earth.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth.protect|Atmosphere,Earth.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth.private|Atmosphere,Earth.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth.personal|Atmosphere,Earth.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth.secret|Atmosphere,Earth.secret]]"
+dv_is_a_: "[[../../Astronomy/Planet/Atmosphere|Atmosphere]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Atmosphere_of_Earth,3230|WD~Atmosphere_of_Earth,3230]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth|Atmosphere,Earth]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth.public|Atmosphere,Earth.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth.internal|Atmosphere,Earth.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth.protect|Atmosphere,Earth.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth.private|Atmosphere,Earth.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth.personal|Atmosphere,Earth.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth.secret|Atmosphere,Earth.secret]]"
 ---
 
 # [[Atmosphere,Earth]] 
 
-#is_/same_as :: [[../../WikiData/WD~Atmosphere_of_Earth,3230|WD~Atmosphere_of_Earth,3230]] 
-#is_a_ :: [[../../Astronomy/Planet/Atmosphere|Atmosphere]] 
+is_a_ = `=this.dv_is_a_`
+is_a_ = `=this.dv_is_a_`
 ## Atmosphere-Composition 
 
 Roughly speaking 80% [[../../Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen|Nitrogen]] and 20% [[../../Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen|Oxygen]]. 

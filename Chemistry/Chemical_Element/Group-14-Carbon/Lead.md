@@ -97,7 +97,7 @@ ZVG_number: 8510
 
 #chemic/Element 
 [GroupName::Group-14-Carbon]
-[Group:[[../Group-14-Carbon]]
+Group::[[../Group-14-Carbon]]
 
 [#has_/name_/en::Lead]
 [#has_/name_/de::Blei]
@@ -105,7 +105,7 @@ ZVG_number: 8510
 [AtomRadius::1.81]
 [Atom-Vol-ccm-mol::18.17]
 [Unknown2::1.47]
-[#has_/radius_/nm::7.416]
+[#has_/radius_/nano_/m::7.416]
 [Electronegative::2.3]
 [Density::11.4]
 [#has_/value_for_/temperature_/melt_/c ::327.5]

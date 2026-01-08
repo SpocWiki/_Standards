@@ -1,5 +1,43 @@
-﻿---
-location: [ 48.0 , 15.5 ] 
+---
+dv_ISO2: YE
+dv_ISO3: YEM
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Yemen,805|WD~Yemen,805]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic|Yemen~Republic]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic.public|Yemen~Republic.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic.internal|Yemen~Republic.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic.protect|Yemen~Republic.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic.private|Yemen~Republic.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic.personal|Yemen~Republic.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic.secret|Yemen~Republic.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Yemen
+dv_has_name_en: Yemen, Rep.
+dv_has_name_de: Jemen
+dv_Area-Total: 536869
+dv_Area-Land: 527970
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: YEM
+dv_Capital: "[[Yemen~Republic/City/Sana‘a]] ]"
+dv_Alcohol-l: 0.2
+dv_Language-Id: 472
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 44.61
+dv_has_place_latitude: 14.06
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Yemen,805|WD~Yemen,805]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Yemen~Republic|Yemen~Republic]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic.public|Yemen~Republic.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic.internal|Yemen~Republic.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic.protect|Yemen~Republic.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic.private|Yemen~Republic.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic.personal|Yemen~Republic.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic.secret|Yemen~Republic.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Yemen
+
 aliases:
   - Yemen
   - Yemen~Republic
@@ -331,12 +369,12 @@ native_label: الجمهوريّة اليمنية
 
 # [[Yemen~Republic]] 
 
-[ISO2::YE]
-[ISO3::YEM] 
-#is_/same_as :: [[../../../../WikiData/WD~Yemen,805|WD~Yemen,805]] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Yemen
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 I contains the Country's Provinces and Cities, 
 
@@ -357,19 +395,19 @@ minZoom: 3
 ```
 
 
-[name-en::Yemen, Rep.]
-[name-de::Jemen]
-[Area-Total::536869]
-[Area-Land::527970]
-has_place_continent:: [[Asia]]  
-[VehicleCode::YEM]
-Capital :: [[Yemen~Republic/City/Sana‘a]] ] 
-[Alcohol-l::0.2]
-[Language-Id::472]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::44.61]
-[has_place_latitude::14.06]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

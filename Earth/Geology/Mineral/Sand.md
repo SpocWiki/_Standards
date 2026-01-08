@@ -42,6 +42,25 @@ MeSH_tree_code:
   - G16.500.320.500
   - N06.230.600.750
 OpenStreetMap_tag: resource=sand
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Sand,34679]]"
+    - "[[/_Standards/Earth/Geology/Mineral/Sand|Sand]]"
+    - "[[/_public/Earth/Geology/Mineral/Sand.public|Sand.public]]"
+    - "[[/_internal/Earth/Geology/Mineral/Sand.internal|Sand.internal]]"
+    - "[[/_protect/Earth/Geology/Mineral/Sand.protect|Sand.protect]]"
+    - "[[/_private/Earth/Geology/Mineral/Sand.private|Sand.private]]"
+    - "[[/_personal/Earth/Geology/Mineral/Sand.personal|Sand.personal]]"
+    - "[[/_secret/Earth/Geology/Mineral/Sand.secret|Sand.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Sand,34679]]"
+  - "[[/_Standards/Earth/Geology/Mineral/Sand|Sand]]"
+  - "[[/_public/Earth/Geology/Mineral/Sand.public|Sand.public]]"
+  - "[[/_internal/Earth/Geology/Mineral/Sand.internal|Sand.internal]]"
+  - "[[/_protect/Earth/Geology/Mineral/Sand.protect|Sand.protect]]"
+  - "[[/_private/Earth/Geology/Mineral/Sand.private|Sand.private]]"
+  - "[[/_personal/Earth/Geology/Mineral/Sand.personal|Sand.personal]]"
+  - "[[/_secret/Earth/Geology/Mineral/Sand.secret|Sand.secret]]"
 ---
 
 # [[Sand]] 

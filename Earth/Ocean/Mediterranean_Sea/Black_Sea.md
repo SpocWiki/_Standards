@@ -1,5 +1,25 @@
-﻿---
-location: [ 34.26 , 43.41 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Black_Sea,166|WD~Black_Sea,166]]"
+    - "[[/_Standards/Earth/Ocean/Mediterranean_Sea/Black_Sea|Black_Sea]]"
+    - "[[/_public/Earth/Ocean/Mediterranean_Sea/Black_Sea.public|Black_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Mediterranean_Sea/Black_Sea.internal|Black_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Mediterranean_Sea/Black_Sea.protect|Black_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Mediterranean_Sea/Black_Sea.private|Black_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Mediterranean_Sea/Black_Sea.personal|Black_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Mediterranean_Sea/Black_Sea.secret|Black_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Black_Sea,166|WD~Black_Sea,166]]"
+  - "[[/_Standards/Earth/Ocean/Mediterranean_Sea/Black_Sea|Black_Sea]]"
+  - "[[/_public/Earth/Ocean/Mediterranean_Sea/Black_Sea.public|Black_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Mediterranean_Sea/Black_Sea.internal|Black_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Mediterranean_Sea/Black_Sea.protect|Black_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Mediterranean_Sea/Black_Sea.private|Black_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Mediterranean_Sea/Black_Sea.personal|Black_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Mediterranean_Sea/Black_Sea.secret|Black_Sea.secret]]"
+
+location: [ 43.41, 34.26 ] 
 aliases:
 has_id_wikidata: Q166
 inflows:
@@ -228,6 +248,20 @@ MeSH_tree_code: Z01.756.217
 # [[Black_Sea]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Black_Sea,166|WD~Black_Sea,166]] 
+
+## #has_/map  
+
+```leaflet
+id: Black_Sea
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Black_Sea//
+markerFolder: ./Black_Sea/
+coordinates: [[Black_Sea]] 
+markerFile: [[Black_Sea]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

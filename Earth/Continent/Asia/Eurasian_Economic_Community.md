@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Eurasian_Economic_Community,473996|WD~Eurasian_Economic_Community,473996]]"
+    - "[[/_Standards/Earth/Continent/Asia/Eurasian_Economic_Community|Eurasian_Economic_Community]]"
+    - "[[/_public/Earth/Continent/Asia/Eurasian_Economic_Community.public|Eurasian_Economic_Community.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Eurasian_Economic_Community.internal|Eurasian_Economic_Community.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Eurasian_Economic_Community.protect|Eurasian_Economic_Community.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Eurasian_Economic_Community.private|Eurasian_Economic_Community.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Eurasian_Economic_Community.personal|Eurasian_Economic_Community.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Eurasian_Economic_Community.secret|Eurasian_Economic_Community.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Eurasian_Economic_Community,473996|WD~Eurasian_Economic_Community,473996]]"
+  - "[[/_Standards/Earth/Continent/Asia/Eurasian_Economic_Community|Eurasian_Economic_Community]]"
+  - "[[/_public/Earth/Continent/Asia/Eurasian_Economic_Community.public|Eurasian_Economic_Community.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Eurasian_Economic_Community.internal|Eurasian_Economic_Community.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Eurasian_Economic_Community.protect|Eurasian_Economic_Community.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Eurasian_Economic_Community.private|Eurasian_Economic_Community.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Eurasian_Economic_Community.personal|Eurasian_Economic_Community.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Eurasian_Economic_Community.secret|Eurasian_Economic_Community.secret]]"
+
 has_time_started: 2000-10-10 
 has_time_stopped: 2015-01-01 
 aliases:

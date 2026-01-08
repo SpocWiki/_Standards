@@ -59,7 +59,7 @@ Unicode_character: 溴
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
-[Group:[[../Group-17-Halogen]]
+Group::[[../Group-17-Halogen]]
 
 
 [#has_/name_/en::Bromine]
@@ -69,7 +69,7 @@ Unicode_character: 溴
 [AtomRadius::1.12]
 [Atom-Vol-ccm-mol::23.5]
 [Unknown2::1.14]
-[#has_/radius_/nm::11.814]
+[#has_/radius_/nano_/m::11.814]
 [Electronegative::3]
 [Density::3.12]
 [#has_/value_for_/temperature_/melt_/c ::-7.2]

@@ -314,80 +314,169 @@ Languages:
   - en-SL
   - men
   - tem
+dv_ISO4217-currency_alphabetic: SLL
+dv_ISO4217-currency_name: Leone
+dv_ISO4217-currency_numeric: 694
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SIERRA LEONE
+dv_Telephone: 232
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Sierra Leone
+dv_has_name_en:
+  - Sierra Leone
+  - Sierra Leone
+dv_has_name_es: Sierra Leona
+dv_has_name_fr: Sierra Leone
+dv_has_name_cn: 塞拉利昂
+dv_has_name_ar: سيراليون
+dv_has_name_ru: Сьерра-Леоне
+dv_CLDR_display_name: Sierra Leone
+dv_UNTERM_English: Sierra Leone
+dv_UNTERM_English_Formal: the Republic of Sierra Leone
+dv_UNTERM_Spanish_Formal: la República de Sierra Leona
+dv_UNTERM_Spanish: Sierra Leona
+dv_UNTERM_French: Sierra Leone (la)
+dv_UNTERM_Arabic: سيراليون
+dv_UNTERM_Arabic_Formal: جمهورية سيراليون
+dv_UNTERM_Chinese: 塞拉利昂
+dv_UNTERM_Chinese_Formal: 塞拉利昂共和国
+dv_UNTERM_French_Formal: la République de Sierra Leone
+dv_UNTERM_Russian: Сьерра-Леоне
+dv_UNTERM_Russian_Formal: Республика Сьерра-Леоне
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 2403846
+dv_FIPS: SL
+dv_FIFA: SLE
+dv_IOC: SLE
+dv_MARC: sl
+dv_GAUL: 221
+dv_WMO: SL
+dv_ITU: SRL
+dv_DS: WAL
+dv_TLD: .sl
+dv_EDGAR: T8
+dv_M49: 694
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 694
+dv_ISO2: SL
+dv_ISO3: SLE
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone|Sierra_Leone]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone.public|Sierra_Leone.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone.internal|Sierra_Leone.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone.protect|Sierra_Leone.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone.private|Sierra_Leone.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone.personal|Sierra_Leone.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret|Sierra_Leone.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Sierra_Leone
+dv_has_name_de: Sierra Leone
+dv_Area-Total: 71740
+dv_Area-Land: 71620
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: SLE
+dv_Alcohol-l: 9.7
+dv_Language-Id: 499
+dv_has_place_longitude: -13.2345
+dv_has_place_latitude: 8.48445
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Sierra_Leone|Sierra_Leone]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone.public|Sierra_Leone.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone.internal|Sierra_Leone.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone.protect|Sierra_Leone.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone.private|Sierra_Leone.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone.personal|Sierra_Leone.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret|Sierra_Leone.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Sierra_Leone
 ---
 
 # [[Sierra_Leone]] 
 
-[	ISO4217-currency_alphabetic	 :: SLL ]
-[	ISO4217-currency_name	 :: Leone ]
-[	ISO4217-currency_numeric	 :: 694 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SIERRA LEONE ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 232 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Sierra Leone ]
-[	name-en	 :: Sierra Leone ]
-[	name-es	 :: Sierra Leona ]
-[	name-fr	 :: Sierra Leone ]
-[	name-cn	 :: 塞拉利昂 ]
-[	name-ar	 :: سيراليون ]
-[	name-ru	 :: Сьерра-Леоне ]
+name = `=this.dv_name`
+[	has_name_en	 :: Sierra Leone ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Sierra Leone ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Sierra Leone ]
-[	UNTERM_English_Formal	 :: the Republic of Sierra Leone ]
-[	UNTERM_Spanish_Formal	 :: la República de Sierra Leona ]
-[	UNTERM_Spanish	 :: Sierra Leona ]
-[	UNTERM_French	 :: Sierra Leone (la) ]
-[	UNTERM_Arabic	 :: سيراليون ]
-[	UNTERM_Arabic_Formal	 :: جمهورية سيراليون ]
-[	UNTERM_Chinese	 :: 塞拉利昂 ]
-[	UNTERM_Chinese_Formal	 :: 塞拉利昂共和国 ]
-[	UNTERM_French_Formal	 :: la République de Sierra Leone ]
-[	UNTERM_Russian	 :: Сьерра-Леоне ]
-[	UNTERM_Russian_Formal	 :: Республика Сьерра-Леоне ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2403846 ]
-[	FIPS	 :: SL ]
-[	FIFA	 :: SLE ]
-[	IOC	 :: SLE ]
-[	MARC	 :: sl ]
-[	GAUL	 :: 221 ]
-[	WMO	 :: SL ]
-[	ITU	 :: SRL ]
-[	DS	 :: WAL ]
-[	TLD	 :: .sl ]
-[	EDGAR	 :: T8 ]
-[	M49	 :: 694 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 694 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::SL]
-[ISO3::SLE] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Sierra_Leone 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Sierra_Leone/ReadMe]] 
 
@@ -408,12 +497,12 @@ markerFile: [[Sierra_Leone]]
 defaultZoom: 11 
 ```
 
-[name-en::Sierra Leone]
-[name-de::Sierra Leone]
-[Area-Total::71740]
-[Area-Land::71620]
-has_place_continent:: [[Africa]]  
-[VehicleCode::SLE]
+[has_name_en::Sierra Leone]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Freetown]]  
 ![[Coat_of_arms_of_Sierra_Leone.svg|550]]
 
@@ -421,10 +510,10 @@ Capital :: [[Freetown]]
 
 ![[Flag_of_Sierra_Leone.svg|350]]
 
-[Alcohol-l::9.7]
-[Language-Id::499]
-[has_place_longitude::-13.2345]
-[has_place_latitude::8.48445]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

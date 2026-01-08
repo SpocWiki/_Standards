@@ -16,6 +16,25 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000087
 GeoNames_feature_code: T.CLF
 OpenStreetMap_tag: natural=cliff
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Cliff,107679|WD~Cliff,107679]]"
+    - "[[/_Standards/Earth/Geology/Landform/Cliff|Cliff]]"
+    - "[[/_public/Earth/Geology/Landform/Cliff.public|Cliff.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Cliff.internal|Cliff.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Cliff.protect|Cliff.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Cliff.private|Cliff.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Cliff.personal|Cliff.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Cliff.secret|Cliff.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Cliff,107679|WD~Cliff,107679]]"
+  - "[[/_Standards/Earth/Geology/Landform/Cliff|Cliff]]"
+  - "[[/_public/Earth/Geology/Landform/Cliff.public|Cliff.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Cliff.internal|Cliff.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Cliff.protect|Cliff.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Cliff.private|Cliff.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Cliff.personal|Cliff.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Cliff.secret|Cliff.secret]]"
 ---
 
 # [[Cliff]] 

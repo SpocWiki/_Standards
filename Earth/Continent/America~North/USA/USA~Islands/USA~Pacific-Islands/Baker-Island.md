@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island|Baker-Island]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.public|Baker-Island.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.internal|Baker-Island.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.protect|Baker-Island.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.private|Baker-Island.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.personal|Baker-Island.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.secret|Baker-Island.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island|Baker-Island]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.public|Baker-Island.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.internal|Baker-Island.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.protect|Baker-Island.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.private|Baker-Island.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.personal|Baker-Island.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Baker-Island.secret|Baker-Island.secret]]"
 ---
 
 # [[Baker-Island]] 

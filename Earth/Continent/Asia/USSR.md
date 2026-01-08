@@ -2,18 +2,43 @@
 aliases:
   - USSR
 confidential: public
-created: ''
-demised: ''
-destroyed: ''
-perished: ''
+created: ""
+demised: ""
+destroyed: ""
+perished: ""
 isDeleted: false
 SpocWebEntityId: 21455
 tags:
   - geo/Country
 type: Country
+dv_has_:
+  next_:
+    item: "[[../Europe/Europe~East/Russia]]"
+dv_has_name_en: USSR
+dv_has_name_de: UdSSR
+dv_has_place_continent: "[[../Asia]]"
+dv_Language-Id: 469
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/USSR|USSR]]"
+    - "[[/_public/Earth/Continent/Asia/USSR.public|USSR.public]]"
+    - "[[/_internal/Earth/Continent/Asia/USSR.internal|USSR.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/USSR.protect|USSR.protect]]"
+    - "[[/_private/Earth/Continent/Asia/USSR.private|USSR.private]]"
+    - "[[/_personal/Earth/Continent/Asia/USSR.personal|USSR.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/USSR.secret|USSR.secret]]"
+dv_has_next_item: "[[../Europe/Europe~East/Russia]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/USSR|USSR]]"
+  - "[[/_public/Earth/Continent/Asia/USSR.public|USSR.public]]"
+  - "[[/_internal/Earth/Continent/Asia/USSR.internal|USSR.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/USSR.protect|USSR.protect]]"
+  - "[[/_private/Earth/Continent/Asia/USSR.private|USSR.private]]"
+  - "[[/_personal/Earth/Continent/Asia/USSR.personal|USSR.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/USSR.secret|USSR.secret]]"
 ---
 
-#has_/next_/item :: [[../Europe/Europe~East/Russia]] 
+has_next_item = `=this.dv_has_next_item`
 
 [ISO2::]
 [ISO3::]
@@ -26,15 +51,15 @@ geojsonFolder: ./Russia~Asia//
 markerFolder: ./Russia~Asia//
 ```
 
-[name-en::USSR]
-[name-de::UdSSR]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Asia]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
-[Language-Id::469]
+Language-Id = `=this.dv_Language-Id`
 [has_place_longitude::]
 [has_place_latitude::]
 

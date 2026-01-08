@@ -2,37 +2,64 @@
 aliases:
   - Harrison,William_Henry
   - William Henry Harrison
-  - ''
+  - ""
   - Harrison,William Henry
 has_id_wikidata: Q11869
 confidential: private
 cssclasses: private note
 draft: true
-expiryDate: ''
-has_Template: '[[Extract~Note~Template]]'
+expiryDate: ""
+has_Template: "[[Extract~Note~Template]]"
 isDeleted: false
 isReadOnly: false
 keywords: Harrison,William_Henry
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle: Harrison,William_Henry
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
   - Harrison,William_Henry
-  - ''
+  - ""
 title: Harrison,William_Henry
 type: private_note
+dv_has_role: "[[../US_President]]"
+dv_created: 1841-03-04
+dv_cancelled: 1841-04-04
+dv_has_:
+  time_:
+    started: 1773-02-09T00:00:00.000+00:53
+    stopped: 1841-04-04T00:00:00.000+00:53
+dv_is_member_of: "[[Whig Party]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry|Harrison,William_Henry]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.public|Harrison,William_Henry.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.internal|Harrison,William_Henry.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.protect|Harrison,William_Henry.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.private|Harrison,William_Henry.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.personal|Harrison,William_Henry.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.secret|Harrison,William_Henry.secret]]"
+dv_has_time_started: 1773-02-09
+dv_has_time_stopped: 1841-04-04
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry|Harrison,William_Henry]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.public|Harrison,William_Henry.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.internal|Harrison,William_Henry.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.protect|Harrison,William_Henry.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.private|Harrison,William_Henry.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.personal|Harrison,William_Henry.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.secret|Harrison,William_Henry.secret]]"
 ---
 
 # [[Harrison,William_Henry]] 
 
-#has_/time_/started :: 1773-02-09
-#has_/time_/stopped  :: 1841-04-04
-[is_member_of :: [[Whig Party]] ] 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
+is_member_of = `=this.dv_is_member_of`] ] 
 
--   [has_role :: [[../US_President]] ] [created:: 1841-03-04]  [cancelled:: 1841-04-04]  
+-   [has_role :: [[../US_President]] ] [created:: 1841-03-04]cancelled = `=this.dv_cancelled`
 
 ## #has_/text_of_/abstract 
 

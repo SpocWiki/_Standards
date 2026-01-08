@@ -1,5 +1,42 @@
-﻿---
-location: [ 15.0 , 50.0 ] 
+---
+dv_ISO2: CZ
+dv_ISO3: CZE
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic|Czech_Republic]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic.public|Czech_Republic.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic.internal|Czech_Republic.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic.protect|Czech_Republic.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic.private|Czech_Republic.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic.personal|Czech_Republic.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic.secret|Czech_Republic.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Czech_Republic
+dv_has_name_en: Czech Rep.
+dv_has_name_de: Tschechische Republik
+dv_Area-Total: 78860
+dv_Area-Land: 77280
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: CZ
+dv_Capital: "[[Czech_Republic/regions~Czech_Republic/Prague/City/Praha]]"
+dv_Alcohol-l: 16.5
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 15.8734
+dv_has_place_latitude: 49.7633
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic|Czech_Republic]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic.public|Czech_Republic.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic.internal|Czech_Republic.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic.protect|Czech_Republic.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic.private|Czech_Republic.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic.personal|Czech_Republic.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic.secret|Czech_Republic.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Czech_Republic
+
 aliases:
   - Czechia
   - Czech Republic
@@ -474,13 +511,13 @@ icon: flag-cz
 
 # [[Czech_Republic]] 
 
-[ISO2::CZ]
-[ISO3::CZE] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Czech_Republic 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Czech_Republic/ReadMe]] 
 
@@ -488,31 +525,32 @@ For more Details, check out this Repository into this Subfolder:
 
 ```leaflet
 id: Czech_Republic
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Czech_Republic//
 markerFolder: ./Czech_Republic//
 coordinates: [[Czech_Republic]] 
 markerFile: [[Czech_Republic]] 
+defaultZoom: 5 
 ```
 
-[name-en::Czech Rep.]
-[name-de::Tschechische Republik]
-[Area-Total::78860]
-[Area-Land::77280]
-has_place_continent:: [[Europe]]  
-[VehicleCode::CZ]
-Capital :: [[Praha]]  
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Czech-republic.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Czech-republic.mp3]]
 ![[Flag_of_Czech-republic.svg|350]]
-[Alcohol-l::16.5]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::15.8734]
-[has_place_latitude::49.7633]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

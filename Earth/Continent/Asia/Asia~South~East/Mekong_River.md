@@ -5,52 +5,52 @@ aliases:
   - Mekong River
 has_id_wikidata: Q41179
 origin_of_the_watercourse:
-  - '[[_Standards/WikiData/WD~Tibetan_Plateau,179842]]'
+  - "[[_Standards/WikiData/WD~Tibetan_Plateau,179842]]"
   - "[[_Standards/WikiData/WD~Zha'a_Qu,116686210]]"
 tributary:
-  - '[[_Standards/WikiData/WD~Nam_Ngum,666581]]'
-  - '[[_Standards/WikiData/WD~Tonlé_Sap_River,939958]]'
-  - '[[_Standards/WikiData/WD~Nam_Ou,973135]]'
-  - '[[_Standards/WikiData/WD~Kok_River,1266640]]'
-  - '[[_Standards/WikiData/WD~Ing_River,1329928]]'
-  - '[[_Standards/WikiData/WD~Mun_River,1455933]]'
-  - '[[_Standards/WikiData/WD~Tha_River,1964109]]'
-  - '[[_Standards/WikiData/WD~Se_Qu,2271826]]'
-  - '[[_Standards/WikiData/WD~Ruak_River,3138616]]'
-  - '[[_Standards/WikiData/WD~Nam_Theun,3335399]]'
-  - '[[_Standards/WikiData/WD~Tonlé_San,3353153]]'
-  - '[[_Standards/WikiData/WD~Banghiang_River,4855162]]'
-  - '[[_Standards/WikiData/WD~Hueang_River,4926065]]'
-  - '[[_Standards/WikiData/WD~Ziqu_River,10944123]]'
-  - '[[_Standards/WikiData/WD~Ngom_Qu,11087314]]'
-  - '[[_Standards/WikiData/WD~Ngao_River,35441925]]'
-  - '[[_Standards/WikiData/WD~Kam_river,41584228]]'
+  - "[[_Standards/WikiData/WD~Nam_Ngum,666581]]"
+  - "[[_Standards/WikiData/WD~Tonlé_Sap_River,939958]]"
+  - "[[_Standards/WikiData/WD~Nam_Ou,973135]]"
+  - "[[_Standards/WikiData/WD~Kok_River,1266640]]"
+  - "[[_Standards/WikiData/WD~Ing_River,1329928]]"
+  - "[[_Standards/WikiData/WD~Mun_River,1455933]]"
+  - "[[_Standards/WikiData/WD~Tha_River,1964109]]"
+  - "[[_Standards/WikiData/WD~Se_Qu,2271826]]"
+  - "[[_Standards/WikiData/WD~Ruak_River,3138616]]"
+  - "[[_Standards/WikiData/WD~Nam_Theun,3335399]]"
+  - "[[_Standards/WikiData/WD~Tonlé_San,3353153]]"
+  - "[[_Standards/WikiData/WD~Banghiang_River,4855162]]"
+  - "[[_Standards/WikiData/WD~Hueang_River,4926065]]"
+  - "[[_Standards/WikiData/WD~Ziqu_River,10944123]]"
+  - "[[_Standards/WikiData/WD~Ngom_Qu,11087314]]"
+  - "[[_Standards/WikiData/WD~Ngao_River,35441925]]"
+  - "[[_Standards/WikiData/WD~Kam_river,41584228]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-distributary: '[[_Standards/WikiData/WD~Co_Chien_River,5137559]]'
-heritage_designation: '[[_Standards/WikiData/WD~Ramsar_site,19683138]]'
-drainage_basin: '[[_Standards/WikiData/WD~Mekong_River_Watershed,46507717]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+distributary: "[[_Standards/WikiData/WD~Co_Chien_River,5137559]]"
+heritage_designation: "[[_Standards/WikiData/WD~Ramsar_site,19683138]]"
+drainage_basin: "[[_Standards/WikiData/WD~Mekong_River_Watershed,46507717]]"
 coordinate_location:
   - Point(106.75 10.19)
   - Point(97.177777777 31.132222222)
   - Point(94.695555555 33.708611111)
 country:
-  - '[[_Standards/WikiData/WD~Cambodia,424]]'
-  - '[[_Standards/WikiData/WD~Laos,819]]'
-  - '[[_Standards/WikiData/WD~Myanmar,836]]'
-  - '[[_Standards/WikiData/WD~Thailand,869]]'
-  - '[[_Standards/WikiData/WD~Vietnam,881]]'
+  - "[[_Standards/WikiData/WD~Cambodia,424]]"
+  - "[[_Standards/WikiData/WD~Laos,819]]"
+  - "[[_Standards/WikiData/WD~Myanmar,836]]"
+  - "[[_Standards/WikiData/WD~Thailand,869]]"
+  - "[[_Standards/WikiData/WD~Vietnam,881]]"
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-instance_of: '[[_Standards/WikiData/WD~river,4022]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+instance_of: "[[_Standards/WikiData/WD~river,4022]]"
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
 basin_country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 elevation_above_sea_level: 1
 discharge: 15000
 watershed_area: 810000
-mouth_of_the_watercourse: '[[_Standards/WikiData/WD~South_China_Sea,37660]]'
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~South_China_Sea,37660]]"
 length: 4350
 Commons_category: Mekong
 U_S_National_Archives_Identifier: 10038708
@@ -61,7 +61,28 @@ native_label:
   - មេគុង
   - ປະເທດລາວ
   - Mê Kông
-Wolfram_Language_entity_code: Entity["River", "Mekong::3b95f"]
+Wolfram_Language_entity_code: Entity"River", "Mekong = `=this.dv_"River", "Mekong`
+dv_"River", "Mekong: 3b95f"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Mekong_River,41179]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Mekong_River|Mekong_River]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Mekong_River.public|Mekong_River.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Mekong_River.internal|Mekong_River.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Mekong_River.protect|Mekong_River.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Mekong_River.private|Mekong_River.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Mekong_River.personal|Mekong_River.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Mekong_River.secret|Mekong_River.secret]]"
+dv_river-mekong: 3b95f"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Mekong_River,41179]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Mekong_River|Mekong_River]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Mekong_River.public|Mekong_River.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Mekong_River.internal|Mekong_River.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Mekong_River.protect|Mekong_River.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Mekong_River.private|Mekong_River.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Mekong_River.personal|Mekong_River.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Mekong_River.secret|Mekong_River.secret]]"
 ---
 
 # [[Mekong_River]] 

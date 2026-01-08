@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~Central/Pan-American_Highway|Pan-American_Highway]]"
+    - "[[/_public/Earth/Continent/America~Central/Pan-American_Highway.public|Pan-American_Highway.public]]"
+    - "[[/_internal/Earth/Continent/America~Central/Pan-American_Highway.internal|Pan-American_Highway.internal]]"
+    - "[[/_protect/Earth/Continent/America~Central/Pan-American_Highway.protect|Pan-American_Highway.protect]]"
+    - "[[/_private/Earth/Continent/America~Central/Pan-American_Highway.private|Pan-American_Highway.private]]"
+    - "[[/_personal/Earth/Continent/America~Central/Pan-American_Highway.personal|Pan-American_Highway.personal]]"
+    - "[[/_secret/Earth/Continent/America~Central/Pan-American_Highway.secret|Pan-American_Highway.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~Central/Pan-American_Highway|Pan-American_Highway]]"
+  - "[[/_public/Earth/Continent/America~Central/Pan-American_Highway.public|Pan-American_Highway.public]]"
+  - "[[/_internal/Earth/Continent/America~Central/Pan-American_Highway.internal|Pan-American_Highway.internal]]"
+  - "[[/_protect/Earth/Continent/America~Central/Pan-American_Highway.protect|Pan-American_Highway.protect]]"
+  - "[[/_private/Earth/Continent/America~Central/Pan-American_Highway.private|Pan-American_Highway.private]]"
+  - "[[/_personal/Earth/Continent/America~Central/Pan-American_Highway.personal|Pan-American_Highway.personal]]"
+  - "[[/_secret/Earth/Continent/America~Central/Pan-American_Highway.secret|Pan-American_Highway.secret]]"
+---
 
 # [[Pan-American_Highway]] 
 

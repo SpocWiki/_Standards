@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen|Fahrerlaubnisklassen]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.public|Fahrerlaubnisklassen.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.internal|Fahrerlaubnisklassen.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.protect|Fahrerlaubnisklassen.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.private|Fahrerlaubnisklassen.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.personal|Fahrerlaubnisklassen.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.secret|Fahrerlaubnisklassen.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen|Fahrerlaubnisklassen]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.public|Fahrerlaubnisklassen.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.internal|Fahrerlaubnisklassen.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.protect|Fahrerlaubnisklassen.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.private|Fahrerlaubnisklassen.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.personal|Fahrerlaubnisklassen.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/Fahrerlaubnisklassen.secret|Fahrerlaubnisklassen.secret]]"
+---
 
 
 | Fahrerlaubnisklasse (2013-) | Fahrzeugdefinition | (-2013) |

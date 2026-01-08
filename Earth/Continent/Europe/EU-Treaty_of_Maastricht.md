@@ -1,5 +1,28 @@
+---
+dv_has_:
+  time_:
+    started: 1993-11-01T00:00:00.000+01:00
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/EU-Treaty_of_Maastricht|EU-Treaty_of_Maastricht]]"
+    - "[[/_public/Earth/Continent/Europe/EU-Treaty_of_Maastricht.public|EU-Treaty_of_Maastricht.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU-Treaty_of_Maastricht.internal|EU-Treaty_of_Maastricht.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU-Treaty_of_Maastricht.protect|EU-Treaty_of_Maastricht.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU-Treaty_of_Maastricht.private|EU-Treaty_of_Maastricht.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU-Treaty_of_Maastricht.personal|EU-Treaty_of_Maastricht.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU-Treaty_of_Maastricht.secret|EU-Treaty_of_Maastricht.secret]]"
+dv_has_time_started: 1993-11-01
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/EU-Treaty_of_Maastricht|EU-Treaty_of_Maastricht]]"
+  - "[[/_public/Earth/Continent/Europe/EU-Treaty_of_Maastricht.public|EU-Treaty_of_Maastricht.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU-Treaty_of_Maastricht.internal|EU-Treaty_of_Maastricht.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU-Treaty_of_Maastricht.protect|EU-Treaty_of_Maastricht.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU-Treaty_of_Maastricht.private|EU-Treaty_of_Maastricht.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU-Treaty_of_Maastricht.personal|EU-Treaty_of_Maastricht.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU-Treaty_of_Maastricht.secret|EU-Treaty_of_Maastricht.secret]]"
+---
 
-#has_/time_/started :: 1993-11-01  
+has_time_started = `=this.dv_has_time_started`
 
 > The Treaty on European Union, commonly known as the Maastricht Treaty, is the foundation treaty of the European Union (EU). 
 > Concluded in 1992 between the then-twelve member states of the European Communities, 

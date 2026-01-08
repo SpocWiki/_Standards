@@ -1,6 +1,28 @@
-﻿---
+---
+dv_"Building", "BrandenburgerTor: r5479"
+dv_is_:
+  same_as:
+    - "[[wd Brandenburg Gate,82425]]"
+    - "[[/_Standards/Earth/Geography/Place/Brandenburg_Gate|Brandenburg_Gate]]"
+    - "[[/_public/Earth/Geography/Place/Brandenburg_Gate.public|Brandenburg_Gate.public]]"
+    - "[[/_internal/Earth/Geography/Place/Brandenburg_Gate.internal|Brandenburg_Gate.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Brandenburg_Gate.protect|Brandenburg_Gate.protect]]"
+    - "[[/_private/Earth/Geography/Place/Brandenburg_Gate.private|Brandenburg_Gate.private]]"
+    - "[[/_personal/Earth/Geography/Place/Brandenburg_Gate.personal|Brandenburg_Gate.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Brandenburg_Gate.secret|Brandenburg_Gate.secret]]"
+dv_building-brandenburgertor: r5479"
+dv_is_same_as:
+  - "[[wd Brandenburg Gate,82425]]"
+  - "[[/_Standards/Earth/Geography/Place/Brandenburg_Gate|Brandenburg_Gate]]"
+  - "[[/_public/Earth/Geography/Place/Brandenburg_Gate.public|Brandenburg_Gate.public]]"
+  - "[[/_internal/Earth/Geography/Place/Brandenburg_Gate.internal|Brandenburg_Gate.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Brandenburg_Gate.protect|Brandenburg_Gate.protect]]"
+  - "[[/_private/Earth/Geography/Place/Brandenburg_Gate.private|Brandenburg_Gate.private]]"
+  - "[[/_personal/Earth/Geography/Place/Brandenburg_Gate.personal|Brandenburg_Gate.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Brandenburg_Gate.secret|Brandenburg_Gate.secret]]"
+
 has_time_started: 1791-01-01 
-location: [ 13.377722222 , 52.516272222 ] 
+location: [ 52.516272222, 13.377722222 ] 
 aliases:
   - Brandenburg Gate
   - Brandenburger Tor
@@ -68,7 +90,7 @@ hashtag_:
   - BrandenburgerTorBerlin
 Facebook_username: brandenburggate
 X_Twitter_username: brandenburgtor
-Wolfram_Language_entity_code: Entity["Building", "BrandenburgerTor::r5479"]
+Wolfram_Language_entity_code: Entity"Building", "BrandenburgerTor = `=this.dv_"Building", "BrandenburgerTor`
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brandenburger%20Tor%20morgens.jpg
 spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/2024-03-19%20192645%20Berlin%20Brandenburger%20Tor.jpg
 ---
@@ -79,9 +101,26 @@ spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/202
 
 #is_/same_as :: [[wd Brandenburg Gate,82425]]
 
+## #has_/map  
+
+```leaflet
+id: Brandenburg_Gate
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Brandenburg_Gate//
+markerFolder: ./Brandenburg_Gate/
+coordinates: [[Brandenburg_Gate]] 
+markerFile: [[Brandenburg_Gate]] 
+defaultZoom: 16 
+```
+
 ## #has_/text_of_/abstract 
 
-> The **Brandenburg Gate** (German: Brandenburger Tor [ˈbʁandn̩ˌbʊʁɡɐ ˈtoːɐ̯] ) is an 18th-century neoclassical monument in Berlin. One of the best-known landmarks of Germany, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel, the former capital of the Margraviate of Brandenburg. The current structure was built from 1788 to 1791 by orders of King Frederick William II of Prussia, based on designs by the royal architect Carl Gotthard Langhans. The bronze sculpture of the quadriga crowning the gate is a work by the sculptor Johann Gottfried Schadow.
+> The **Brandenburg Gate** (German: Brandenburger Tor [ˈbʁandn̩ˌbʊʁɡɐ ˈtoːɐ̯] ) 
+> is an 18th-century neoclassical monument in Berlin. 
+> 
+> One of the best-known landmarks of Germany, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel, the former capital of the Margraviate of Brandenburg. The current structure was built from 1788 to 1791 by orders of King Frederick William II of Prussia, based on designs by the royal architect Carl Gotthard Langhans. The bronze sculpture of the quadriga crowning the gate is a work by the sculptor Johann Gottfried Schadow.
 >
 > The Brandenburg Gate is located in the western part of the city centre within Mitte, at the junction of Unter den Linden and Ebertstraße. The gate dominates the Pariser Platz to the east, while to the immediate west it opens onto the Platz des 18. März beyond which the Straße des 17. Juni begins. One block to the north stands the Reichstag building, home to the German parliament (Bundestag), and further to the west is the Tiergarten inner-city park. The gate also forms the monumental entry to Unter den Linden, which leads directly to the former City Palace of the Prussian monarchs (now housing the Humboldt Forum museum), and Berlin Cathedral.
 >

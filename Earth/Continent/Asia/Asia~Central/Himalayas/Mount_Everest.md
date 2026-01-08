@@ -1,5 +1,25 @@
-﻿---
-location: [ 86.925 , 27.988055555 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Mount_Everest,513|WD~Mount_Everest,513]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest|Mount_Everest]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.public|Mount_Everest.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.internal|Mount_Everest.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.protect|Mount_Everest.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.private|Mount_Everest.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.personal|Mount_Everest.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.secret|Mount_Everest.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Mount_Everest,513|WD~Mount_Everest,513]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest|Mount_Everest]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.public|Mount_Everest.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.internal|Mount_Everest.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.protect|Mount_Everest.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.private|Mount_Everest.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.personal|Mount_Everest.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~Central/Himalayas/Mount_Everest.secret|Mount_Everest.secret]]"
+
+location: [ 27.988055555, 86.925 ] 
 aliases:
   - Mount_Everest
   - Mount Everest
@@ -53,7 +73,7 @@ located_in_the_administrative_territorial_entity:
 located_in_time_zone:
   - '[[_Standards/WikiData/WD~China_Standard_Time,1143153]]'
   - '[[_Standards/WikiData/WD~Nepal_Standard_Time,3297477]]'
-location: '[[_Standards/WikiData/WD~Himalayas,5451]]'
+locations: '[[_Standards/WikiData/WD~Himalayas,5451]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20Mount%20Everest.png
 made_from_material:
   - '[[_Standards/WikiData/WD~rock,8063]]'
@@ -109,6 +129,20 @@ visitors_per_year:
 # [[Mount_Everest]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Mount_Everest,513|WD~Mount_Everest,513]] 
+
+## #has_/map  
+
+```leaflet
+id: Mount_Everest
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Mount_Everest//
+markerFolder: ./Mount_Everest/
+coordinates: [[Mount_Everest]] 
+markerFile: [[Mount_Everest]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

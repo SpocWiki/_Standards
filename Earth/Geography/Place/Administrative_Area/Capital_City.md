@@ -26,6 +26,25 @@ equivalent_class: http://dbpedia.org/ontology/Capital
 Provenio_UUID: 6b91e8b0-1af9-40ae-ad7f-c48f0ce044f4
 GeoNames_feature_code: P.PPLC
 OpenStreetMap_tag: capital=yes
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Capital_city,5119|WD~Capital_city,5119]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Capital_City|Capital_City]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/Capital_City.public|Capital_City.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/Capital_City.internal|Capital_City.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/Capital_City.protect|Capital_City.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/Capital_City.private|Capital_City.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/Capital_City.personal|Capital_City.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/Capital_City.secret|Capital_City.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Capital_city,5119|WD~Capital_city,5119]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Capital_City|Capital_City]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/Capital_City.public|Capital_City.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/Capital_City.internal|Capital_City.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/Capital_City.protect|Capital_City.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/Capital_City.private|Capital_City.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/Capital_City.personal|Capital_City.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/Capital_City.secret|Capital_City.secret]]"
 ---
 
 # [[Capital_City]] 

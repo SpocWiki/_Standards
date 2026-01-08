@@ -26,6 +26,25 @@ IMDb_keyword: national-anthem
 OmegaWiki_Defined_Meaning: "731214"
 equivalent_class: http://dbpedia.org/ontology/NationalAnthem
 Commons_gallery: National anthem
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~National_anthem,23691]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Anthem|National_Anthem]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/State/National_Anthem.public|National_Anthem.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/National_Anthem.internal|National_Anthem.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/National_Anthem.protect|National_Anthem.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/State/National_Anthem.private|National_Anthem.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/National_Anthem.personal|National_Anthem.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/National_Anthem.secret|National_Anthem.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~National_anthem,23691]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Anthem|National_Anthem]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/State/National_Anthem.public|National_Anthem.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/National_Anthem.internal|National_Anthem.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/National_Anthem.protect|National_Anthem.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/State/National_Anthem.private|National_Anthem.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/National_Anthem.personal|National_Anthem.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/National_Anthem.secret|National_Anthem.secret]]"
 ---
 
 # [[National_Anthem]] 

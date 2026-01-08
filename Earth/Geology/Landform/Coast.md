@@ -3,15 +3,15 @@ aliases:
   - Küste
   - Coast
 has_id_wikidata: Q93352
-subclass_of: '[[_Standards/WikiData/WD~shore,468756]]'
-different_from: '[[_Standards/WikiData/WD~Côte,549892]]'
+subclass_of: "[[_Standards/WikiData/WD~shore,468756]]"
+different_from: "[[_Standards/WikiData/WD~Côte,549892]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-studied_by: '[[_Standards/WikiData/WD~coastal_geography,1421309]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~coastline,1701967]]'
-instance_of: '[[_Standards/WikiData/WD~place_type,25894868]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+studied_by: "[[_Standards/WikiData/WD~coastal_geography,1421309]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~coastline,1701967]]"
+instance_of: "[[_Standards/WikiData/WD~place_type,25894868]]"
 OmegaWiki_Defined_Meaning: 633
 IMDb_keyword: coast
 U_S_National_Archives_Identifier: 10638030
@@ -20,9 +20,28 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Knight%27s%20Point%2C%
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B3%D8%A7%D8%AD%D9%84.wav
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000687
 described_at_URL: https://new.opengreenmap.org/browse/sites?icon=5ca7bff0ecd8490100caba07
-P8189: 987007284074705171
+P8189: 987007284074705200
 Krugosvet_article: Earth_sciences/geologiya/POBEREZHE.html
 GeoNames_feature_code: L.CST
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Coast,93352|WD~Coast,93352]]"
+    - "[[/_Standards/Earth/Geology/Landform/Coast|Coast]]"
+    - "[[/_public/Earth/Geology/Landform/Coast.public|Coast.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Coast.internal|Coast.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Coast.protect|Coast.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Coast.private|Coast.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Coast.personal|Coast.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Coast.secret|Coast.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Coast,93352|WD~Coast,93352]]"
+  - "[[/_Standards/Earth/Geology/Landform/Coast|Coast]]"
+  - "[[/_public/Earth/Geology/Landform/Coast.public|Coast.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Coast.internal|Coast.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Coast.protect|Coast.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Coast.private|Coast.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Coast.personal|Coast.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Coast.secret|Coast.secret]]"
 ---
 
 # [[Coast]] 

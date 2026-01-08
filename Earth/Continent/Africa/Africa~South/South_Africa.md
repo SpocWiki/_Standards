@@ -455,80 +455,171 @@ Languages:
   - ss
   - ve
   - nr
+dv_ISO4217-currency_alphabetic: ZAR
+dv_ISO4217-currency_name: Rand
+dv_ISO4217-currency_numeric: 710
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SOUTH AFRICA
+dv_Telephone: 27
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: South Africa
+dv_has_name_en:
+  - South Africa
+  - South Africa
+dv_has_name_es: Sudáfrica
+dv_has_name_fr: Afrique du Sud
+dv_has_name_cn: 南非
+dv_has_name_ar: جنوب أفريقيا
+dv_has_name_ru: Южная Африка
+dv_CLDR_display_name: South Africa
+dv_UNTERM_English: South Africa
+dv_UNTERM_English_Formal: the Republic of South Africa
+dv_UNTERM_Spanish_Formal: la República de Sudáfrica
+dv_UNTERM_Spanish: Sudáfrica
+dv_UNTERM_French: Afrique du Sud (l') [fém.]
+dv_UNTERM_Arabic: جنوب أفريقيا
+dv_UNTERM_Arabic_Formal: جمهورية جنوب أفريقيا
+dv_UNTERM_Chinese: 南非
+dv_UNTERM_Chinese_Formal: 南非共和国
+dv_UNTERM_French_Formal: la République sud-africaine
+dv_UNTERM_Russian: Южная Африка
+dv_UNTERM_Russian_Formal: Южно-Африканская Республика
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Southern Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 18
+dv_Sub-region: 202
+dv_Geoname-ID: 953987
+dv_FIPS: SF
+dv_FIFA: RSA
+dv_IOC: RSA
+dv_MARC: sa
+dv_GAUL: 227
+dv_WMO: ZA
+dv_ITU: AFS
+dv_DS: ZA
+dv_TLD: .za
+dv_EDGAR: T3
+dv_M49: 710
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 710
+dv_ISO2: ZA
+dv_ISO3: ZAF
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+    - "[[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa|South_Africa]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~South/South_Africa.public|South_Africa.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~South/South_Africa.internal|South_Africa.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~South/South_Africa.protect|South_Africa.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~South/South_Africa.private|South_Africa.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~South/South_Africa.personal|South_Africa.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret|South_Africa.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-South_Africa
+dv_has_name_de: Südafrika
+dv_Area-Total: 1221037
+dv_Area-Land: 1221040
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: ZA
+dv_Alcohol-l: 9.5
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 22.87
+dv_has_place_latitude: -28.8175
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+  - "[[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa|South_Africa]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~South/South_Africa.public|South_Africa.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~South/South_Africa.internal|South_Africa.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~South/South_Africa.protect|South_Africa.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~South/South_Africa.private|South_Africa.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~South/South_Africa.personal|South_Africa.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret|South_Africa.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-South_Africa
 ---
 
 # [[South_Africa]] 
 
-[	ISO4217-currency_alphabetic	 :: ZAR ]
-[	ISO4217-currency_name	 :: Rand ]
-[	ISO4217-currency_numeric	 :: 710 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SOUTH AFRICA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 27 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: South Africa ]
-[	name-en	 :: South Africa ]
-[	name-es	 :: Sudáfrica ]
-[	name-fr	 :: Afrique du Sud ]
-[	name-cn	 :: 南非 ]
-[	name-ar	 :: جنوب أفريقيا ]
-[	name-ru	 :: Южная Африка ]
+name = `=this.dv_name`
+[	has_name_en	 :: South Africa ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: South Africa ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: South Africa ]
-[	UNTERM_English_Formal	 :: the Republic of South Africa ]
-[	UNTERM_Spanish_Formal	 :: la República de Sudáfrica ]
-[	UNTERM_Spanish	 :: Sudáfrica ]
-[	UNTERM_French	 :: Afrique du Sud (l') [fém.] ]
-[	UNTERM_Arabic	 :: جنوب أفريقيا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية جنوب أفريقيا ]
-[	UNTERM_Chinese	 :: 南非 ]
-[	UNTERM_Chinese_Formal	 :: 南非共和国 ]
-[	UNTERM_French_Formal	 :: la République sud-africaine ]
-[	UNTERM_Russian	 :: Южная Африка ]
-[	UNTERM_Russian_Formal	 :: Южно-Африканская Республика ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Southern Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 18 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 953987 ]
-[	FIPS	 :: SF ]
-[	FIFA	 :: RSA ]
-[	IOC	 :: RSA ]
-[	MARC	 :: sa ]
-[	GAUL	 :: 227 ]
-[	WMO	 :: ZA ]
-[	ITU	 :: AFS ]
-[	DS	 :: ZA ]
-[	TLD	 :: .za ]
-[	EDGAR	 :: T3 ]
-[	M49	 :: 710 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 710 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::ZA]
-[ISO3::ZAF]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-South_Africa 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[South_Africa/ReadMe]] 
 
@@ -546,12 +637,12 @@ markerFile: [[South_Africa]]
 defaultZoom: 5 
 ```
 
-[name-en::South Africa]
-[name-de::Südafrika]
-[Area-Total::1221037]
-[Area-Land::1221040]
-has_place_continent:: [[Africa]]  
-[VehicleCode::ZA]
+[has_name_en::South Africa]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Pretoria]]  
 
 ![[Coat_of_arms_of_South_Africa.svg|350]]
@@ -560,14 +651,14 @@ Capital :: [[Pretoria]]
 
 ![[Flag_of_South_Africa.svg|350]]
 
-[Alcohol-l::9.5]
-[Language-Id::499]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::22.87]
-[has_place_latitude::-28.8175]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
-#is_/same_as :: [[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract 
 

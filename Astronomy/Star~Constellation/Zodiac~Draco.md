@@ -50,9 +50,9 @@ short_name: Dra
 
 [SpocWebEntityId::28116]
 
-[name-la::Draco]
-[name-genitive::Draconis]
-[name-de::Drache]
+[#has_/name_/la::Draco]
+[#has_/name_/la_/genitive::Draconis]
+[#has_/name_/de::Drache]
 
 #is_/same_as :: [[../../WikiData/WD~Draco,8675|WD~Draco,8675]] 
 

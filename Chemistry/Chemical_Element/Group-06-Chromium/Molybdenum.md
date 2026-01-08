@@ -102,7 +102,7 @@ ZVG_number: 8330
 #is_/same_as :: [[../../../WikiData/WD~Molybdenum,1053]] 
 
 [GroupName::Group-06-Chromium]
-[Group:[[../Group-06-Chromium]]
+Group::[[../Group-06-Chromium]]
 
 [#has_/name_/en::Molybdenum]
 [#has_/name_/de::Molybdaen]
@@ -110,7 +110,7 @@ ZVG_number: 8330
 [AtomRadius::2.01]
 [Atom-Vol-ccm-mol::9.4]
 [Unknown2::1.3]
-[#has_/radius_/nm::7.099]
+[#has_/radius_/nano_/m::7.099]
 [Electronegative::2.2]
 [Density::10.2]
 [#has_/value_for_/temperature_/melt_/c ::2617]

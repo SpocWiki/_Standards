@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~South|Pacific~South]]"
+    - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~South.public|Pacific~South.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~South.internal|Pacific~South.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~South.protect|Pacific~South.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~South.private|Pacific~South.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~South.personal|Pacific~South.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~South.secret|Pacific~South.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~South|Pacific~South]]"
+  - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~South.public|Pacific~South.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~South.internal|Pacific~South.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~South.protect|Pacific~South.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~South.private|Pacific~South.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~South.personal|Pacific~South.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~South.secret|Pacific~South.secret]]"
+---
 # [[Pacific~South]] 
 
 ## Edit

@@ -1,8 +1,25 @@
 ---
 aliases:
   - _City_DB
-  - ' City DB'
+  - " City DB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/_City_DB|_City_DB]]"
+    - "[[/_public/Earth/Continent/America~North/_City_DB.public|_City_DB.public]]"
+    - "[[/_internal/Earth/Continent/America~North/_City_DB.internal|_City_DB.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/_City_DB.protect|_City_DB.protect]]"
+    - "[[/_private/Earth/Continent/America~North/_City_DB.private|_City_DB.private]]"
+    - "[[/_personal/Earth/Continent/America~North/_City_DB.personal|_City_DB.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/_City_DB.secret|_City_DB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/_City_DB|_City_DB]]"
+  - "[[/_public/Earth/Continent/America~North/_City_DB.public|_City_DB.public]]"
+  - "[[/_internal/Earth/Continent/America~North/_City_DB.internal|_City_DB.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/_City_DB.protect|_City_DB.protect]]"
+  - "[[/_private/Earth/Continent/America~North/_City_DB.private|_City_DB.private]]"
+  - "[[/_personal/Earth/Continent/America~North/_City_DB.personal|_City_DB.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/_City_DB.secret|_City_DB.secret]]"
 ---
 
 ```yaml:dbfolder

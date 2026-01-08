@@ -79,7 +79,7 @@ ZVG_number: 7920
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide]]
+Group::[[../Actinide]]
 
 [#has_/name_/en::Uranium]
 [#has_/name_/de::Uran]
@@ -88,7 +88,7 @@ ZVG_number: 7920
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::12.59]
 [Unknown2::1.42]
-[#has_/radius_/nm::6.05]
+[#has_/radius_/nano_/m::6.05]
 [Electronegative::1.4]
 [Density::18.9]
 [#has_/value_for_/temperature_/melt_/c ::1132.3]

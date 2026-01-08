@@ -4,12 +4,35 @@ aliases:
   - Great Hunger
   - 1845-Great_Famine,Ireland+1852
   - 1845-Great Famine,Ireland+1852
+dv_has_:
+  time_:
+    started: 1845-06-01T00:00:00.000+00:53
+    stopped: 1852-06-01T00:00:00.000+00:53
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852|1845-Great_Famine,Ireland+1852]]"
+    - "[[/_public/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.public|1845-Great_Famine,Ireland+1852.public]]"
+    - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.internal|1845-Great_Famine,Ireland+1852.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.protect|1845-Great_Famine,Ireland+1852.protect]]"
+    - "[[/_private/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.private|1845-Great_Famine,Ireland+1852.private]]"
+    - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.personal|1845-Great_Famine,Ireland+1852.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.secret|1845-Great_Famine,Ireland+1852.secret]]"
+dv_has_time_started: 1845-06-01
+dv_has_time_stopped: 1852-06-01
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852|1845-Great_Famine,Ireland+1852]]"
+  - "[[/_public/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.public|1845-Great_Famine,Ireland+1852.public]]"
+  - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.internal|1845-Great_Famine,Ireland+1852.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.protect|1845-Great_Famine,Ireland+1852.protect]]"
+  - "[[/_private/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.private|1845-Great_Famine,Ireland+1852.private]]"
+  - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.personal|1845-Great_Famine,Ireland+1852.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1845-Great_Famine,Ireland+1852.secret|1845-Great_Famine,Ireland+1852.secret]]"
 ---
 
 # [[1845-Great_Famine,Ireland+1852]] 
 
-#has_/time_/started :: 1845-06-01 
-#has_/time_/stopped  :: 1852-06-01 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
 
 ## #has_/text_of_/abstract 
 

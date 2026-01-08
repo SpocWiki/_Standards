@@ -3,33 +3,33 @@ aliases:
   - Season
 has_id_wikidata: Q24384
 subclass_of:
-  - '[[_Standards/WikiData/WD~time_interval,186081]]'
-  - '[[_Standards/WikiData/WD~season,10688145]]'
+  - "[[_Standards/WikiData/WD~time_interval,186081]]"
+  - "[[_Standards/WikiData/WD~season,10688145]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Tekufah,7065142]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Seasons,10723731]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110305385,110305385]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Tekufah,7065142]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Seasons,10723731]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110305385,110305385]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~winter,1311]]'
-  - '[[_Standards/WikiData/WD~autumn,1314]]'
-  - '[[_Standards/WikiData/WD~spring,1312]]'
-  - '[[_Standards/WikiData/WD~summer,1313]]'
+  - "[[_Standards/WikiData/WD~winter,1311]]"
+  - "[[_Standards/WikiData/WD~autumn,1314]]"
+  - "[[_Standards/WikiData/WD~spring,1312]]"
+  - "[[_Standards/WikiData/WD~summer,1313]]"
 duration: 3
 OmegaWiki_Defined_Meaning: 3345
 Commons_category: Seasons
 Dewey_Decimal_Classification: 508.2
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/180%C2%B0%20Eifel%20Winter.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jahreszeiten%20Jahresringe.jpg
-P8189: 987007565847105171
+P8189: 987007565847105200
 EAGLE_id: decor/lod/172
 Krugosvet_article: Earth_sciences/geografiya/VREMENA_GODA.html
 MeSH_tree_code:
@@ -37,6 +37,25 @@ MeSH_tree_code:
   - G16.500.275.071.590
   - N06.230.300.100.250.525
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Drone%20seasonal%20time-lapse%20video%20from%20Norway.webm
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Season,24384|WD~Season,24384]]"
+    - "[[/_Standards/Earth/Climate/Season|Season]]"
+    - "[[/_public/Earth/Climate/Season.public|Season.public]]"
+    - "[[/_internal/Earth/Climate/Season.internal|Season.internal]]"
+    - "[[/_protect/Earth/Climate/Season.protect|Season.protect]]"
+    - "[[/_private/Earth/Climate/Season.private|Season.private]]"
+    - "[[/_personal/Earth/Climate/Season.personal|Season.personal]]"
+    - "[[/_secret/Earth/Climate/Season.secret|Season.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Season,24384|WD~Season,24384]]"
+  - "[[/_Standards/Earth/Climate/Season|Season]]"
+  - "[[/_public/Earth/Climate/Season.public|Season.public]]"
+  - "[[/_internal/Earth/Climate/Season.internal|Season.internal]]"
+  - "[[/_protect/Earth/Climate/Season.protect|Season.protect]]"
+  - "[[/_private/Earth/Climate/Season.private|Season.private]]"
+  - "[[/_personal/Earth/Climate/Season.personal|Season.personal]]"
+  - "[[/_secret/Earth/Climate/Season.secret|Season.secret]]"
 ---
 
 # [[Season]] 

@@ -7,10 +7,29 @@ aliases:
   - European_sovereign-debt_crisis
   - European sovereign-debt crisis
 has_id_wikidata: Q217197
-instance_of: '[[_Standards/WikiData/WD~debt_crisis,773335]]'
-has_cause: '[[_Standards/WikiData/WD~Causes_of_the_Eurozone_crisis,16829027]]'
-locations: '[[_Standards/WikiData/WD~European_Union,458]]'
+instance_of: "[[_Standards/WikiData/WD~debt_crisis,773335]]"
+has_cause: "[[_Standards/WikiData/WD~Causes_of_the_Eurozone_crisis,16829027]]"
+locations: "[[_Standards/WikiData/WD~European_Union,458]]"
 point_in_time: 2010-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~European_sovereign-debt_crisis,217197|WD~European_sovereign-debt_crisis,217197]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis|European_sovereign-debt_crisis]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.public|European_sovereign-debt_crisis.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.internal|European_sovereign-debt_crisis.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.protect|European_sovereign-debt_crisis.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.private|European_sovereign-debt_crisis.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.personal|European_sovereign-debt_crisis.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.secret|European_sovereign-debt_crisis.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~European_sovereign-debt_crisis,217197|WD~European_sovereign-debt_crisis,217197]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis|European_sovereign-debt_crisis]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.public|European_sovereign-debt_crisis.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.internal|European_sovereign-debt_crisis.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.protect|European_sovereign-debt_crisis.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.private|European_sovereign-debt_crisis.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.personal|European_sovereign-debt_crisis.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.secret|European_sovereign-debt_crisis.secret]]"
 ---
 
 # [[European_sovereign-debt_crisis]] 

@@ -4,19 +4,38 @@ aliases:
   - Gneiss
 has_id_wikidata: Q166409
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]'
-subclass_of: '[[_Standards/WikiData/WD~metamorphic_rock,47069]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+award_received: "[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]"
+subclass_of: "[[_Standards/WikiData/WD~metamorphic_rock,47069]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gneiss.jpg
 Krugosvet_article: Earth_sciences/geologiya/GNES.html
 Commons_category: Gneiss
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Gneiss,166409]]"
+    - "[[/_Standards/Earth/Geology/Mineral/Gneiss|Gneiss]]"
+    - "[[/_public/Earth/Geology/Mineral/Gneiss.public|Gneiss.public]]"
+    - "[[/_internal/Earth/Geology/Mineral/Gneiss.internal|Gneiss.internal]]"
+    - "[[/_protect/Earth/Geology/Mineral/Gneiss.protect|Gneiss.protect]]"
+    - "[[/_private/Earth/Geology/Mineral/Gneiss.private|Gneiss.private]]"
+    - "[[/_personal/Earth/Geology/Mineral/Gneiss.personal|Gneiss.personal]]"
+    - "[[/_secret/Earth/Geology/Mineral/Gneiss.secret|Gneiss.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Gneiss,166409]]"
+  - "[[/_Standards/Earth/Geology/Mineral/Gneiss|Gneiss]]"
+  - "[[/_public/Earth/Geology/Mineral/Gneiss.public|Gneiss.public]]"
+  - "[[/_internal/Earth/Geology/Mineral/Gneiss.internal|Gneiss.internal]]"
+  - "[[/_protect/Earth/Geology/Mineral/Gneiss.protect|Gneiss.protect]]"
+  - "[[/_private/Earth/Geology/Mineral/Gneiss.private|Gneiss.private]]"
+  - "[[/_personal/Earth/Geology/Mineral/Gneiss.personal|Gneiss.personal]]"
+  - "[[/_secret/Earth/Geology/Mineral/Gneiss.secret|Gneiss.secret]]"
 ---
 
 # [[Gneiss]]

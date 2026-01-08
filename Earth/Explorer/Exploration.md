@@ -13,6 +13,25 @@ subclass_of:
 Commons_category: Exploration
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Footprints%20Banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz%20Nowak%20in%20jungle%202.jpg
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Exploration,6502154|WD~Exploration,6502154]]"
+    - "[[/_Standards/Earth/Explorer/Exploration|Exploration]]"
+    - "[[/_public/Earth/Explorer/Exploration.public|Exploration.public]]"
+    - "[[/_internal/Earth/Explorer/Exploration.internal|Exploration.internal]]"
+    - "[[/_protect/Earth/Explorer/Exploration.protect|Exploration.protect]]"
+    - "[[/_private/Earth/Explorer/Exploration.private|Exploration.private]]"
+    - "[[/_personal/Earth/Explorer/Exploration.personal|Exploration.personal]]"
+    - "[[/_secret/Earth/Explorer/Exploration.secret|Exploration.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Exploration,6502154|WD~Exploration,6502154]]"
+  - "[[/_Standards/Earth/Explorer/Exploration|Exploration]]"
+  - "[[/_public/Earth/Explorer/Exploration.public|Exploration.public]]"
+  - "[[/_internal/Earth/Explorer/Exploration.internal|Exploration.internal]]"
+  - "[[/_protect/Earth/Explorer/Exploration.protect|Exploration.protect]]"
+  - "[[/_private/Earth/Explorer/Exploration.private|Exploration.private]]"
+  - "[[/_personal/Earth/Explorer/Exploration.personal|Exploration.personal]]"
+  - "[[/_secret/Earth/Explorer/Exploration.secret|Exploration.secret]]"
 ---
 
 # [[Exploration]] 

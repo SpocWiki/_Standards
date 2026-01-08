@@ -23,6 +23,23 @@ tags:
   - geo/Country/Region
 title: Ewa
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa|Ewa]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.public|Ewa.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.internal|Ewa.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.protect|Ewa.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.private|Ewa.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.personal|Ewa.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.secret|Ewa.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa|Ewa]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.public|Ewa.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.internal|Ewa.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.protect|Ewa.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.private|Ewa.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.personal|Ewa.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.secret|Ewa.secret]]"
 ---
 
 # Ewa

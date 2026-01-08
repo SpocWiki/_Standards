@@ -1,5 +1,45 @@
-﻿---
-location: [ 127.0 , 40.0 ] 
+---
+dv_"Concept", "DemocraticPeoplesRepublicOfKorea: 7897g"
+dv_ISO2: KP
+dv_ISO3: PRK
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North|Korea~North]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.public|Korea~North.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.internal|Korea~North.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.protect|Korea~North.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.private|Korea~North.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.personal|Korea~North.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.secret|Korea~North.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Korea~North
+dv_has_name_en: Korea, Dem. Rep.
+dv_has_name_de: Nordkorea
+dv_Area-Total: 120538
+dv_Area-Land: 120410
+dv_has_place_continent: "[[../../../Asia]]"
+dv_VehicleCode: KP
+dv_Capital: "[[Korea~North/City/Pyongyang]] ]"
+dv_Alcohol-l: 3.5
+dv_Language-Id: 459
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 125.75
+dv_has_place_latitude: 39.0333
+dv_concept-democraticpeoplesrepublicofkorea: 7897g"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North|Korea~North]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.public|Korea~North.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.internal|Korea~North.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.protect|Korea~North.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.private|Korea~North.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.personal|Korea~North.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~North.secret|Korea~North.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Korea~North
+
 aliases:
   - North-Korea
   - Korea~Dem-Rep
@@ -47,7 +87,7 @@ OmegaWiki_Defined_Meaning: 154503
 UIC_numerical_country_code: 30
 UIC_alphabetical_country_code: PRK
 Wolfram_Language_entity_code:
-  - Entity["Concept", "DemocraticPeoplesRepublicOfKorea::7897g"]
+  - Entity"Concept", "DemocraticPeoplesRepublicOfKorea = `=this.dv_"Concept", "DemocraticPeoplesRepublicOfKorea`
   - Entity["HistoricalCountry", "NorthKorea"]
 WIPO_ST_3: KP
 FIPS_10_4_countries_and_regions_: KN
@@ -524,40 +564,43 @@ telephone_country_code: 850
 
 # [[Korea~North]] 
 
-[ISO2::KP] 
-[ISO3::PRK]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../../../WikiData/WD~North_Korea,423|WD~North_Korea,423]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Korea~North 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Korea~North/ReadMe]] 
 
 ## #has_/map  
 
 ```leaflet
-id: Korea, Dem. Rep.
+id: Korea~North
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Korea~North/
 markerFolder: ./Korea~North/
+coordinates: [[Korea~North]] 
+markerFile: [[Korea~North]] 
+defaultZoom: 5 
 ```
 
-[name-en::Korea, Dem. Rep.]
-[name-de::Nordkorea]
-[Area-Total::120538]
-[Area-Land::120410]
-has_place_continent:: [[Asia]]  
-[VehicleCode::KP]
-Capital :: [[Korea~North/City/Pyongyang]] ] 
-[Alcohol-l::3.5]
-[Language-Id::459]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
-[has_place_longitude::125.75]
-[has_place_latitude::39.0333]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

@@ -232,81 +232,166 @@ Languages:
   - sm
   - gil
 icon: flag-tv
+dv_is_:
+  part_of: "[[../Oceania/Polynesia|Polynesia]]"
+  same_as:
+    - "[[../../../WikiData/WD~Tuvalu,672|WD~Tuvalu,672]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Tuvalu|Tuvalu]]"
+    - "[[/_public/Earth/Continent/Australasia/Tuvalu.public|Tuvalu.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Tuvalu.internal|Tuvalu.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Tuvalu.protect|Tuvalu.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Tuvalu.private|Tuvalu.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Tuvalu.personal|Tuvalu.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Tuvalu.secret|Tuvalu.secret]]"
+dv_ISO4217-currency_alphabetic: AUD
+dv_ISO4217-currency_name: Australian Dollar
+dv_ISO4217-currency_numeric: 36
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: TUVALU
+dv_Telephone: 688
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Tuvalu
+dv_has_name_en: Tuvalu
+dv_has_name_es: Tuvalu
+dv_has_name_fr: Tuvalu
+dv_has_name_cn: 图瓦卢
+dv_has_name_ar: توفالو
+dv_has_name_ru: Тувалу
+dv_CLDR_display_name: Tuvalu
+dv_UNTERM_English: Tuvalu
+dv_UNTERM_English_Formal: Tuvalu
+dv_UNTERM_Spanish_Formal: Tuvalu
+dv_UNTERM_Spanish: Tuvalu
+dv_UNTERM_French: Tuvalu (les) [masc.]
+dv_UNTERM_Arabic: توفالو
+dv_UNTERM_Arabic_Formal: توفالو
+dv_UNTERM_Chinese: 图瓦卢
+dv_UNTERM_Chinese_Formal: 图瓦卢
+dv_UNTERM_French_Formal: Tuvalu (les) [masc.]
+dv_UNTERM_Russian: Тувалу
+dv_UNTERM_Russian_Formal: Тувалу
+dv_Region_Name: "[[../Oceania]]"
+dv_Intermediate_Region_Name: "[[Tuvalu]]"
+dv_Sub-region_Name: "[[../Oceania/Polynesia]]"
+dv_Region: 9
+dv_Sub-region: 61
+dv_Geoname-ID: 2110297
+dv_FIPS: TV
+dv_FIFA: TUV
+dv_IOC: TUV
+dv_MARC: tv
+dv_GAUL: 252
+dv_WMO: TV
+dv_ITU: TUV
+dv_DS: TV
+dv_TLD: .tv
+dv_EDGAR: 2G
+dv_M49: 798
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 798
+dv_ISO2: TV
+dv_ISO3: TUV
+dv_has_name_de: Tuvalu
+dv_Area-Total: 26
+dv_Area-Land: 30
+dv_has_place_continent: "[[../Oceania]]"
+dv_VehicleCode: TUV
+dv_Alcohol-l: 2.4
+dv_Language-Id: 499
+dv_is_a_: "[[../../Geography/Place]]"
+dv_has_place_longitude: 179.217
+dv_has_place_latitude: -8.51667
+dv_is_part_of: "[[../Oceania/Polynesia|Polynesia]]"
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Tuvalu,672|WD~Tuvalu,672]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Tuvalu|Tuvalu]]"
+  - "[[/_public/Earth/Continent/Australasia/Tuvalu.public|Tuvalu.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Tuvalu.internal|Tuvalu.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Tuvalu.protect|Tuvalu.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Tuvalu.private|Tuvalu.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Tuvalu.personal|Tuvalu.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Tuvalu.secret|Tuvalu.secret]]"
 ---
 
 # [[Tuvalu]] 
 
-#is_/part_of :: [[../Oceania/Polynesia|Polynesia]] 
+is_part_of = `=this.dv_is_part_of`
 
 despite being counted to [[../Oceania/Polynesia]], due to its position western to the date-Line, it is included here.
 
-[	ISO4217-currency_alphabetic	 :: AUD ] 
-[	ISO4217-currency_name	 :: Australian Dollar ] 
-[	ISO4217-currency_numeric	 :: 036 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: TUVALU ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 688 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Tuvalu ] 
-[	name-en	 :: Tuvalu ] 
-[	name-es	 :: Tuvalu ] 
-[	name-fr	 :: Tuvalu ] 
-[	name-cn	 :: 图瓦卢 ] 
-[	name-ar	 :: توفالو ] 
-[	name-ru	 :: Тувалу ] 
+name = `=this.dv_name` 
+[	has_name_en	 :: Tuvalu ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
-[	CLDR_display_name	 :: Tuvalu ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Tuvalu ] 
-[	UNTERM_English_Formal	 :: Tuvalu ] 
-[	UNTERM_Spanish_Formal	 :: Tuvalu ] 
-[	UNTERM_Spanish	 :: Tuvalu ] 
-[	UNTERM_French	 :: Tuvalu (les) [masc.] ] 
-[	UNTERM_Arabic	 :: توفالو ] 
-[	UNTERM_Arabic_Formal	 :: توفالو ] 
-[	UNTERM_Chinese	 :: 图瓦卢 ] 
-[	UNTERM_Chinese_Formal	 :: 图瓦卢 ] 
-[	UNTERM_French_Formal	 :: Tuvalu (les) [masc.] ] 
-[	UNTERM_Russian	 :: Тувалу ] 
-[	UNTERM_Russian_Formal	 :: Тувалу ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` ] 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Polynesia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 61 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 2110297 ] 
-[	FIPS	 :: TV ] 
-[	FIFA	 :: TUV ] 
-[	IOC	 :: TUV ] 
-[	MARC	 :: tv ] 
-[	GAUL	 :: 252 ] 
-[	WMO	 :: TV ] 
-[	ITU	 :: TUV ] 
-[	DS	 :: TV ] 
-[	TLD	 :: .tv ] 
-[	EDGAR	 :: 2G ] 
-[	M49	 :: 798 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 :: x ] 
-[	Small_Island_Developing_States	 :: x ] 
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries` 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 798 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::TV] 
-[ISO3::TUV]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../WikiData/WD~Tuvalu,672|WD~Tuvalu,672]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
@@ -321,24 +406,24 @@ geojsonFolder: ./Tuvalu/
 markerFolder: ./Tuvalu/
 ```
 
-[name-en::Tuvalu] 
-[name-de::Tuvalu] 
+[has_name_en::Tuvalu] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Coat_of_arms_of_Tuvalu.svg|350]] 
 
 ![[Flag_of_Tuvalu.svg|350]] 
 
-[Area-Total::26] 
-[Area-Land::30] 
-has_place_continent:: [[Oceania]]  
-[VehicleCode::TUV] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Funafuti]]  
-[Alcohol-l::2.4] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../Geography/Place]] 
-[has_place_longitude::179.217] 
-[has_place_latitude::-8.51667] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

@@ -57,7 +57,7 @@ UNII: 15TEQ7D2QF
 
 #chemic/Element 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]
+Group::[[../Group-01-Alkali]]
 
 
 [#has_/name_/en::Francium]
@@ -67,7 +67,7 @@ UNII: 15TEQ7D2QF
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[#has_/radius_/nm::0]
+[#has_/radius_/nano_/m::0]
 [Electronegative::0.7]
 [Density::0]
 [#has_/value_for_/temperature_/melt_/c ::27]

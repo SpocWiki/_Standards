@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q48359
-location: [ 2.5,101.166666694]
+location:
+  - 2.5
+  - 101.166666694
 coordinate_location: Point(101.166666694 2.5)
 inflows:
   - "[[_Standards/WikiData/WD~Klang_River,619086]]"
@@ -39,6 +41,25 @@ Commons_category: Strait of Malacca
 native_label:
   - Selat Melaka
   - Selat Melaka
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Strait_of_Malacca,48359|WD~Strait_of_Malacca,48359]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca|Strait_of_Malacca]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.public|Strait_of_Malacca.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.internal|Strait_of_Malacca.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.protect|Strait_of_Malacca.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.private|Strait_of_Malacca.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.personal|Strait_of_Malacca.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.secret|Strait_of_Malacca.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Strait_of_Malacca,48359|WD~Strait_of_Malacca,48359]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca|Strait_of_Malacca]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.public|Strait_of_Malacca.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.internal|Strait_of_Malacca.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.protect|Strait_of_Malacca.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.private|Strait_of_Malacca.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.personal|Strait_of_Malacca.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Strait_of_Malacca.secret|Strait_of_Malacca.secret]]"
 ---
 
 # [[Strait_of_Malacca]] 

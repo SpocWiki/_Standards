@@ -1,5 +1,94 @@
-﻿---
-location: [ 104.1 , 18.2 ] 
+---
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Laos
+dv_ISO4217-currency_alphabetic: LAK
+dv_ISO4217-currency_name: Lao Kip
+dv_ISO4217-currency_numeric: 418
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: LAO PEOPLE’S DEMOCRATIC REPUBLIC
+dv_Telephone: 856
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Laos
+dv_has_name_en:
+  - Lao People's Democratic Republic
+  - Laos
+dv_has_name_es: República Democrática Popular Lao
+dv_has_name_fr: République démocratique populaire lao
+dv_has_name_cn: 老挝人民民主共和国
+dv_has_name_ar: جمهورية لاو الديمقراطية الشعبية
+dv_has_name_ru: Лаосская Народно-Демократическая Республика
+dv_CLDR_display_name: Laos
+dv_UNTERM_English: Lao People's Democratic Republic (the)
+dv_UNTERM_English_Formal: the Lao People's Democratic Republic
+dv_UNTERM_Spanish_Formal: la República Democrática Popular Lao
+dv_UNTERM_Spanish: República Democrática Popular Lao (la)
+dv_UNTERM_French: République démocratique populaire lao (la)
+dv_UNTERM_Arabic: جمهورية لاو الديمقراطية الشعبية
+dv_UNTERM_Arabic_Formal: جمهورية لاو الديمقراطية الشعبية
+dv_UNTERM_Chinese: 老挝人民民主共和国
+dv_UNTERM_Chinese_Formal: 老挝人民民主共和国
+dv_UNTERM_French_Formal: la République démocratique populaire lao
+dv_UNTERM_Russian: Лаосская Народно-Демократическая Республика
+dv_UNTERM_Russian_Formal: Лаосская Народно-Демократическая Республика
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Laos]]"
+dv_Sub-region_Name: "[[South-eastern Asia]]"
+dv_Region: 142
+dv_Sub-region: 35
+dv_Geoname-ID: 1655842
+dv_FIPS: LA
+dv_FIFA: LAO
+dv_IOC: LAO
+dv_MARC: ls
+dv_GAUL: 139
+dv_WMO: LA
+dv_ITU: LAO
+dv_DS: LAO
+dv_TLD: .la
+dv_M49: 418
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 418
+dv_ISO2: LA
+dv_ISO3: LAO
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Laos,819|WD~Laos,819]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos|Laos]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Laos.public|Laos.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Laos.internal|Laos.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Laos.protect|Laos.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Laos.private|Laos.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Laos.personal|Laos.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Laos.secret|Laos.secret]]"
+dv_has_name_de: Lao People's Democratic Republic
+dv_Area-Total: 236800
+dv_Area-Land: 230800
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: LAO
+dv_Capital: "[[Laos/Counties/Vientiane]]"
+dv_Alcohol-l: 6.7
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 102.6
+dv_has_place_latitude: 17.9667
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Laos
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Laos,819|WD~Laos,819]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Laos|Laos]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Laos.public|Laos.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Laos.internal|Laos.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Laos.protect|Laos.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Laos.private|Laos.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Laos.personal|Laos.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Laos.secret|Laos.secret]]"
+
 aliases:
   - Laos
   - Lao People's Democratic Republic
@@ -377,78 +466,81 @@ Languages:
 
 # [[Laos]] 
 
+## [[Laos]] has Properties 
+
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
+
+Telephone = `=this.dv_Telephone`
+
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
+[	has_name_en	 :: Lao People's Democratic Republic ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+
+CLDR_display_name = `=this.dv_CLDR_display_name`
+
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
+
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
+
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
+
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+[	EDGAR	 ::  ]
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
+[	Small_is_a_ = `=this.dv_is_a_`
+
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
+
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
+
+is_a_ = `=this.dv_is_a_`
+
+
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Laos 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Laos/ReadMe]] 
-
-[	ISO4217-currency_alphabetic	 :: LAK ]
-[	ISO4217-currency_name	 :: Lao Kip ]
-[	ISO4217-currency_numeric	 :: 418 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: LAO PEOPLE’S DEMOCRATIC REPUBLIC ]
-
-[	Telephone	 :: 856 ]
-
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
-
-[	name	 :: Laos ]
-[	name-en	 :: Lao People's Democratic Republic ]
-[	name-es	 :: República Democrática Popular Lao ]
-[	name-fr	 :: République démocratique populaire lao ]
-[	name-cn	 :: 老挝人民民主共和国 ]
-[	name-ar	 :: جمهورية لاو الديمقراطية الشعبية ]
-[	name-ru	 :: Лаосская Народно-Демократическая Республика ]
-
-[	CLDR_display_name	 :: Laos ]
-
-[	UNTERM_English	 :: Lao People's Democratic Republic (the) ]
-[	UNTERM_English_Formal	 :: the Lao People's Democratic Republic ]
-[	UNTERM_Spanish_Formal	 :: la República Democrática Popular Lao ]
-[	UNTERM_Spanish	 :: República Democrática Popular Lao (la) ]
-[	UNTERM_French	 :: République démocratique populaire lao (la) ]
-[	UNTERM_Arabic	 :: جمهورية لاو الديمقراطية الشعبية ]
-[	UNTERM_Arabic_Formal	 :: جمهورية لاو الديمقراطية الشعبية ]
-[	UNTERM_Chinese	 :: 老挝人民民主共和国 ]
-[	UNTERM_Chinese_Formal	 :: 老挝人民民主共和国 ]
-[	UNTERM_French_Formal	 :: la République démocratique populaire lao ]
-[	UNTERM_Russian	 :: Лаосская Народно-Демократическая Республика ]
-[	UNTERM_Russian_Formal	 :: Лаосская Народно-Демократическая Республика ]
-
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[South-eastern Asia]] 
-
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 35 ]
-
-[	Geoname-ID	 :: 1655842 ]
-[	FIPS	 :: LA ]
-[	FIFA	 :: LAO ]
-[	IOC	 :: LAO ]
-[	MARC	 :: ls ]
-[	GAUL	 :: 139 ]
-[	WMO	 :: LA ]
-[	ITU	 :: LAO ]
-[	DS	 :: LAO ]
-[	TLD	 :: .la ]
-[	EDGAR	 ::  ]
-[	M49	 :: 418 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
-[	Least_Developed_Countries	 :: x ]
-[	Small_Island_Developing_States	 ::  ]
-
-[	ISO3166-1-numeric	 :: 418 ]
-
-[ISO2::LA]
-[ISO3::LAO] 
-
-#is_/same_as :: [[../../../../WikiData/WD~Laos,819|WD~Laos,819]] 
 
 ## #has_/map  
 
@@ -459,15 +551,18 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Laos//
 markerFolder: ./Laos/
+coordinates: [[Laos]] 
+markerFile: [[Laos]] 
+defaultZoom: 5 
 ```
 
-[name-en::Laos]
-[name-de::Lao People's Democratic Republic]
-[Area-Total::236800]
-[Area-Land::230800]
-has_place_continent:: [[Asia]]  
-[VehicleCode::LAO]
-Capital :: [[Laos/Counties/Vientiane]]  
+[has_name_en::Laos]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Emblem_of_Laos.svg|350]]
 
@@ -475,12 +570,12 @@ Capital :: [[Laos/Counties/Vientiane]]
 
 ![[Flag_of_Laos.svg|350]]
 
-[Alcohol-l::6.7]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::102.6]
-[has_place_latitude::17.9667]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

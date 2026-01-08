@@ -1,64 +1,113 @@
-﻿---
-location: [ 43.54980469 , 37.558513 ] 
+---
+dv_is_:
+  same_as:
+    - "[[WD~Dome_of_the_Rock,41470]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock|Dome_of_the_Rock]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.public|Dome_of_the_Rock.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.internal|Dome_of_the_Rock.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.protect|Dome_of_the_Rock.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.private|Dome_of_the_Rock.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.personal|Dome_of_the_Rock.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.secret|Dome_of_the_Rock.secret]]"
+dv_is_same_as:
+  - "[[WD~Dome_of_the_Rock,41470]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock|Dome_of_the_Rock]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.public|Dome_of_the_Rock.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.internal|Dome_of_the_Rock.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.protect|Dome_of_the_Rock.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.private|Dome_of_the_Rock.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.personal|Dome_of_the_Rock.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.secret|Dome_of_the_Rock.secret]]"
+location:
+  - 31.778055555
+  - 35.235277777
 aliases:
   - Dome of the Rock
   - Felsendom
   - Dome_of_the_Rock
-has_id_wikidata: Q41470
-instance_of:
-  - '[[_Standards/WikiData/WD~region,82794]]'
-  - '[[_Standards/WikiData/WD~great_homeland,3115110]]'
-  - '[[_Standards/WikiData/WD~cultural_region,3502482]]'
+  - قُبَّةُ الصَّخْرَةِ
+has_id_wikidata: Q172077
+name_in_native_language: قُبَّةُ الصَّخْرَةِ
+coordinate_location: Point(35.235277777 31.778055555)
+inception: 0691-01-01T00:00:00Z
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Old City of Jerusalem,213274]]"
+country: "[[_Standards/WikiData/WD~Palestine,219060]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from:
-  - '[[_Standards/WikiData/WD~Kurdistan,1572706]]'
-has_part_s_:
-  - '[[_Standards/WikiData/WD~Iranian_Kurdistan,2041508]]'
-  - '[[_Standards/WikiData/WD~Turkish_Kurdistan,3240533]]'
-  - '[[_Standards/WikiData/WD~Iraqi_Kurdistan,66711956]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Kurdistan,6994330]]'
-language_used:
-  - '[[_Standards/WikiData/WD~Turkish,256]]'
-  - '[[_Standards/WikiData/WD~Persian,9168]]'
-  - '[[_Standards/WikiData/WD~Arabic,13955]]'
-  - '[[_Standards/WikiData/WD~Kurdish,36368]]'
-country:
-  - '[[_Standards/WikiData/WD~Iran,794]]'
-  - '[[_Standards/WikiData/WD~Iraq,796]]'
-  - '[[_Standards/WikiData/WD~Syria,858]]'
-  - '[[_Standards/WikiData/WD~Turkey,43]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Middle_East,7204]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
-coordinate_location: Point(43.54980469 37.558513)
-flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kurdistan.svg
-Commons_category: Kurdistan
-native_label:
-  - کوردستان
-  - Kurdistan
-U_S_National_Archives_Identifier: 10037027
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Kurdish%20inhabited%20areas.svg
-page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Kurdistan%20banner%20Lake%20Dukan.jpeg
-WOEID: 55966782
-P8189: 987007548476705171
-subreddit:
-  - kurdistan
-demonym:
-  - Coirdíneach
+  - "[[_Standards/WikiData/WD~Great Norwegian Encyclopedia,746368]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Universalis,1340194]]"
+  - "[[_Standards/WikiData/WD~Internetowa encyklopedia PWN,4041526]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia Britannica Online,5375741]]"
+  - "[[_Standards/WikiData/WD~TDV Islamic Encyclopedia,21527102]]"
+  - "[[_Standards/WikiData/WD~The Oxford Encyclopedia of the Modern World,56521401]]"
+  - "[[_Standards/WikiData/WD~The Oxford Encyclopedia of the Islamic World,57275338]]"
+  - "[[_Standards/WikiData/WD~Encyclopaedia of Islam, 3rd edition,61720929]]"
+  - "[[_Standards/WikiData/WD~World Encyclopedia,64331136]]"
+  - "[[_Standards/WikiData/WD~Encyclopaedia of Islam, 1st edition,64729097]]"
+  - "[[_Standards/WikiData/WD~Encyclopaedia of Islam New Edition Online (EI-2 English),126919314]]"
+  - "[[_Standards/WikiData/WD~Encyclopaedia of Islam, 2nd edition (EI-2 French),127604907]]"
+  - "[[_Standards/WikiData/WD~Meyer’s Universum, Fünfter Band,130285551]]"
+architectural_style: "[[_Standards/WikiData/WD~Umayyad art,750181]]"
+made_from_material:
+  - "[[_Standards/WikiData/WD~gold leaf,929186]]"
+  - "[[_Standards/WikiData/WD~wood,287]]"
+  - "[[_Standards/WikiData/WD~aluminium,663]]"
+  - "[[_Standards/WikiData/WD~nickel,744]]"
+  - "[[_Standards/WikiData/WD~copper,753]]"
+  - "[[_Standards/WikiData/WD~marble,40861]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Islam,5496999]]"
+maintained_by: "[[_Standards/WikiData/WD~Jerusalem Islamic Waqf,6185161]]"
+different_from: "[[_Standards/WikiData/WD~Al-Aqsa Mosque,12192963]]"
+category_for_the_interior_of_the_item: "[[_Standards/WikiData/WD~Category_Interior of the Dome of the Rock,86115089]]"
+category_for_the_exterior_of_the_item: "[[_Standards/WikiData/WD~Category_Exterior of the Dome of the Rock,104582103]]"
+part_of: "[[_Standards/WikiData/WD~Masjid Al-Aqsa,121610806]]"
+image_of_interior:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/%D9%82%D8%A8%D8%A9%20%D8%A7%D9%84%D8%B5%D8%AE%D8%B1%D8%A9%20%D9%85%D9%86%20%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF%20%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20Dome%20of%20the%20Rock%202.jpg
+religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
+heritage_designation: "[[_Standards/WikiData/WD~World Heritage Site,9259]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~dome,12493]]"
+  - "[[_Standards/WikiData/WD~mosque,32815]]"
+commissioned_by: "[[_Standards/WikiData/WD~Abd al-Malik ibn Marwan,36788]]"
+described_at_URL:
+  - https://www.visitmasjidalaqsa.com
+  - https://masjidalaqsa.net/
+  - http://id.lib.harvard.edu/images/8001620776/catalog
+aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem-2013-Aerial-Temple%20Mount%2002.jpg
+image:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AE%D8%B1%D9%8A%D9%81..%D9%82%D8%A8%D8%A9%20%D8%A7%D9%84%D8%B5%D8%AE%D8%B1%D8%A9.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/%D9%82%D8%A8%D8%A9%20%D8%A7%D9%84%D8%B5%D8%AE%D8%B1%D8%A9%20%D9%85%D9%86%20%D8%A7%D9%84%D9%86%D8%A7%D8%AD%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/16-04-04-Felsendom-Tempelberg-Jerusalem-RalfR-WAT%206385.jpg
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/%D9%82%D8%A8%D8%A9%20%D8%A7%D9%84%D8%B5%D8%AE%D8%B1%D8%A9%20%D9%84%D9%8A%D9%84%D8%A7.jpg
+image_of_design_plans: http://commons.wikimedia.org/wiki/Special:FilePath/Dome%20of%20the%20Rock%27s%20plan.svg
+image_of_entrance: http://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20the%20Dome%20of%20the%20Rock-Door-2.jpg
+winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20snow%21%20%2811337302395%29.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Solomon%27s%20Stables%20in%20the%201936%20Old%20City%20of%20Jerusalem%20map%20by%20Survey%20of%20Palestine%20map%201-2%2C500%20%28cropped%29.jpg
+ISNI: "0000000122886525"
+P1015: "90834235"
+Commons_category: Dome of the Rock
+Library_of_Congress_Classification: DS109.32.R6
+Wolfram_Language_entity_code: Entity["Building", "DomeOfTheRock::s63yy"]
 ---
 
 # [[Dome_of_the_Rock]] 
 
 ![[../../../../assets/Dome_of_the_Rock,Jerusalem.png]] 
 
-#is_/same_as :: [[WD~Dome_of_the_Rock,41470]] 
+#is_/same_as :: [[WD~Dome_of_the_Rock,172077]] 
+## #has_/map  
+
+```leaflet
+id: Dome_of_the_Rock
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Dome_of_the_Rock//
+markerFolder: ./Dome_of_the_Rock/
+coordinates: [[Dome_of_the_Rock]] 
+markerFile: [[Dome_of_the_Rock]] 
+defaultZoom: 17 
+```
 
 ## #has_/text_of_/abstract 
 

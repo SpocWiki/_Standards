@@ -16,6 +16,25 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Asia,55512]]"
 Dewey_Decimal_Classification: "950"
 Classification_of_Instructional_Programs_code: "54.0106"
 Commons_category: History of Asia
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~History_of_Asia,627531|WD~History_of_Asia,627531]]"
+    - "[[/_Standards/Earth/Continent/Asia/History_of_Asia|History_of_Asia]]"
+    - "[[/_public/Earth/Continent/Asia/History_of_Asia.public|History_of_Asia.public]]"
+    - "[[/_internal/Earth/Continent/Asia/History_of_Asia.internal|History_of_Asia.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/History_of_Asia.protect|History_of_Asia.protect]]"
+    - "[[/_private/Earth/Continent/Asia/History_of_Asia.private|History_of_Asia.private]]"
+    - "[[/_personal/Earth/Continent/Asia/History_of_Asia.personal|History_of_Asia.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/History_of_Asia.secret|History_of_Asia.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~History_of_Asia,627531|WD~History_of_Asia,627531]]"
+  - "[[/_Standards/Earth/Continent/Asia/History_of_Asia|History_of_Asia]]"
+  - "[[/_public/Earth/Continent/Asia/History_of_Asia.public|History_of_Asia.public]]"
+  - "[[/_internal/Earth/Continent/Asia/History_of_Asia.internal|History_of_Asia.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/History_of_Asia.protect|History_of_Asia.protect]]"
+  - "[[/_private/Earth/Continent/Asia/History_of_Asia.private|History_of_Asia.private]]"
+  - "[[/_personal/Earth/Continent/Asia/History_of_Asia.personal|History_of_Asia.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/History_of_Asia.secret|History_of_Asia.secret]]"
 ---
 
 # [[History_of_Asia]] 

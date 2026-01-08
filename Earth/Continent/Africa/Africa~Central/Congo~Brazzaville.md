@@ -324,17 +324,54 @@ named_after: "[[_Standards/WikiData/WD~Congo,3503]]"
 capital: "[[_Standards/WikiData/WD~Brazzaville,3844]]"
 located_in_time_zone:
   - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+dv_ISO2: CG
+dv_ISO3: COG
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville|Congo~Brazzaville]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.public|Congo~Brazzaville.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.internal|Congo~Brazzaville.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.protect|Congo~Brazzaville.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.private|Congo~Brazzaville.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.personal|Congo~Brazzaville.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.secret|Congo~Brazzaville.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Congo-Brazzaville
+dv_has_name_en: Congo, Rep.
+dv_has_name_de: Kongo
+dv_Area-Total: 342000
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: RCB
+dv_Alcohol-l: 4.2
+dv_Language-Id: 496
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 15.2833
+dv_has_place_latitude: -4.26667
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville|Congo~Brazzaville]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.public|Congo~Brazzaville.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.internal|Congo~Brazzaville.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.protect|Congo~Brazzaville.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.private|Congo~Brazzaville.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.personal|Congo~Brazzaville.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.secret|Congo~Brazzaville.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Congo-Brazzaville
 ---
 
 # [[Congo~Brazzaville]] 
 
-[ISO2::CG]
-[ISO3::COG]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Congo-Brazzaville 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Congo~Brazzaville/ReadMe]] 
 
@@ -350,12 +387,12 @@ geojsonFolder: ./Congo~Brazzaville//
 markerFolder: ./Congo~Brazzaville//
 ```
 
-[name-en::Congo, Rep.]
-[name-de::Kongo]
-[Area-Total::342000]
-[Area-Land::0]
-has_place_continent:: [[Africa]]  
-[VehicleCode::RCB]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital ::  [[Congo~Rep/City/Brazzaville]] ] 
 
 ![[Coat_of_arms_of_the_Republic_of_the_Congo.svg|350]]
@@ -363,12 +400,12 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Congo.mp3]]
 
 ![[Flag_of_the_Republic_of_the_Congo.svg|350]]
-[Alcohol-l::4.2]
-[Language-Id::496]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::15.2833]
-[has_place_latitude::-4.26667]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

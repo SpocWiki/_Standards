@@ -1,4 +1,22 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia|Micronesia]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia.public|Micronesia.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia.internal|Micronesia.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia.protect|Micronesia.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia.private|Micronesia.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia.personal|Micronesia.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia.secret|Micronesia.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia|Micronesia]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia.public|Micronesia.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia.internal|Micronesia.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia.protect|Micronesia.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia.private|Micronesia.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia.personal|Micronesia.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia.secret|Micronesia.secret]]"
+
 location: [ 158.183333333 , 6.916666666 ] 
 aliases:
   - Micronesia
@@ -241,6 +259,20 @@ official_name: les États fédérés de Micronésie
 ---
 
 # [[Micronesia]] 
+
+## #has_/map  
+
+```leaflet
+id: Micronesia
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Micronesia//
+markerFolder: ./Micronesia/
+coordinates: [[Micronesia]] 
+markerFile: [[Micronesia]] 
+defaultZoom: 5 
+```
 
 
 ## #has_/text_of_/abstract 

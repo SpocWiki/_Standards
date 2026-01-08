@@ -11,6 +11,25 @@ described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol
 facet_of: "[[_Standards/WikiData/WD~Earth,2]]"
 Commons_category: Structure of the Earth
 Krugosvet_article_archived_: Earth_sciences/geologiya/ZEMLI_STROENIE.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Structure_of_Earth,1664027|WD~Structure_of_Earth,1664027]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth|Structure_of_Earth]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth.public|Structure_of_Earth.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth.internal|Structure_of_Earth.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth.protect|Structure_of_Earth.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth.private|Structure_of_Earth.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth.personal|Structure_of_Earth.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth.secret|Structure_of_Earth.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Structure_of_Earth,1664027|WD~Structure_of_Earth,1664027]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth|Structure_of_Earth]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth.public|Structure_of_Earth.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth.internal|Structure_of_Earth.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth.protect|Structure_of_Earth.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth.private|Structure_of_Earth.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth.personal|Structure_of_Earth.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth.secret|Structure_of_Earth.secret]]"
 ---
 
 # [[Structure_of_Earth]] 

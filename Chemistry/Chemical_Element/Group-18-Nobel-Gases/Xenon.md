@@ -67,7 +67,7 @@ ZVG_number: 7540
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
-[Group:[[../Group-18-Nobel-Gases]]
+Group::[[../Group-18-Nobel-Gases]]
 
 
 [#has_/name_/en::Xenon]
@@ -76,7 +76,7 @@ ZVG_number: 7540
 [AtomRadius::1.24]
 [Atom-Vol-ccm-mol::37.3]
 [Unknown2::1.31]
-[#has_/radius_/nm::12.13]
+[#has_/radius_/nano_/m::12.13]
 [Electronegative::0]
 [Density::5.89]
 [#has_/value_for_/temperature_/melt_/c ::-111.9]

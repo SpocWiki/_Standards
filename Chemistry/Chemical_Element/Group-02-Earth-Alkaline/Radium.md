@@ -60,7 +60,7 @@ UNII: W90AYD6R3Q
 #chemic/Element 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group:[[../Group-02-Earth-Alkaline]]
+Group::[[../Group-02-Earth-Alkaline]]
 
 
 [#has_/name_/en::Radium]
@@ -69,7 +69,7 @@ UNII: W90AYD6R3Q
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::45.2]
 [Unknown2::0]
-[#has_/radius_/nm::5.279]
+[#has_/radius_/nano_/m::5.279]
 [Electronegative::0.9]
 [Density::5]
 [#has_/value_for_/temperature_/melt_/c ::700]

@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~European_Broadcasting_Union,166400|WD~European_Broadcasting_Union,166400]]"
+    - "[[/_Standards/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union|European_Broadcasting_Union]]"
+    - "[[/_public/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.public|European_Broadcasting_Union.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.internal|European_Broadcasting_Union.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.protect|European_Broadcasting_Union.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.private|European_Broadcasting_Union.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.personal|European_Broadcasting_Union.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.secret|European_Broadcasting_Union.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~European_Broadcasting_Union,166400|WD~European_Broadcasting_Union,166400]]"
+  - "[[/_Standards/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union|European_Broadcasting_Union]]"
+  - "[[/_public/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.public|European_Broadcasting_Union.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.internal|European_Broadcasting_Union.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.protect|European_Broadcasting_Union.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.private|European_Broadcasting_Union.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.personal|European_Broadcasting_Union.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.secret|European_Broadcasting_Union.secret]]"
+
 has_time_started: 1950-02-12 
 aliases:
   - European Broadcasting Union

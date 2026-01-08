@@ -1,5 +1,25 @@
-﻿---
-location: [ 116.083333333 , 40.416666666 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Great_Wall_of_China,12501|WD~Great_Wall_of_China,12501]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China|Great_Wall_of_China]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.public|Great_Wall_of_China.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.internal|Great_Wall_of_China.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.protect|Great_Wall_of_China.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.private|Great_Wall_of_China.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.personal|Great_Wall_of_China.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.secret|Great_Wall_of_China.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Great_Wall_of_China,12501|WD~Great_Wall_of_China,12501]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China|Great_Wall_of_China]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.public|Great_Wall_of_China.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.internal|Great_Wall_of_China.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.protect|Great_Wall_of_China.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.private|Great_Wall_of_China.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.personal|Great_Wall_of_China.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.secret|Great_Wall_of_China.secret]]"
+
+location: [ 40.416666666, 116.083333333 ] 
 aliases:
   - Great Wall of China
   - Great_Wall_of_China
@@ -78,6 +98,20 @@ width: 4.5
 ![[../../../../assets/Great_Wall_of_China.png]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Great_Wall_of_China,12501|WD~Great_Wall_of_China,12501]] 
+
+## #has_/map  
+
+```leaflet
+id: Great_Wall_of_China
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Great_Wall_of_China//
+markerFolder: ./Great_Wall_of_China/
+coordinates: [[Great_Wall_of_China]] 
+markerFile: [[Great_Wall_of_China]] 
+defaultZoom: 7 
+```
 
 ## #has_/text_of_/abstract 
 

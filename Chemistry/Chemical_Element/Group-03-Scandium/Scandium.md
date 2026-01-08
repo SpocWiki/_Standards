@@ -73,7 +73,7 @@ ZVG_number: 7210
 #is_/same_as :: [[../../../WikiData/WD~Scandium,713]] 
 
 [GroupName::Group-03-Scandium]
-[Group:[[../Group-03-Scandium]]
+Group::[[../Group-03-Scandium]]
 
 [#has_/name_/en::Scandium]
 [#has_/name_/de::Scandium]
@@ -81,7 +81,7 @@ ZVG_number: 7210
 [AtomRadius::2.09]
 [Atom-Vol-ccm-mol::15]
 [Unknown2::1.44]
-[#has_/radius_/nm::6.54]
+[#has_/radius_/nano_/m::6.54]
 [Electronegative::1.4]
 [Density::3]
 [#has_/value_for_/temperature_/melt_/c ::1539]

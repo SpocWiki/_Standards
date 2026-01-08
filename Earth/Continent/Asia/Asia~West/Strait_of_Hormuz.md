@@ -1,5 +1,24 @@
-﻿---
-location: [ 56.5 , 26.6 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Strait_of_Hormuz,79883|WD~Strait_of_Hormuz,79883]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz|Strait_of_Hormuz]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.public|Strait_of_Hormuz.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.internal|Strait_of_Hormuz.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.protect|Strait_of_Hormuz.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.private|Strait_of_Hormuz.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.personal|Strait_of_Hormuz.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.secret|Strait_of_Hormuz.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Strait_of_Hormuz,79883|WD~Strait_of_Hormuz,79883]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz|Strait_of_Hormuz]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.public|Strait_of_Hormuz.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.internal|Strait_of_Hormuz.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.protect|Strait_of_Hormuz.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.private|Strait_of_Hormuz.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.personal|Strait_of_Hormuz.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.secret|Strait_of_Hormuz.secret]]"
+
 aliases:
   - Strait of Hormuz
   - تنگهٔ هُرمُز
@@ -49,6 +68,20 @@ native_label:
 # [[Strait_of_Hormuz]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Strait_of_Hormuz,79883|WD~Strait_of_Hormuz,79883]]  
+
+## #has_/map  
+
+```leaflet
+id: Strait_of_Hormuz
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Strait_of_Hormuz//
+markerFolder: ./Strait_of_Hormuz/
+coordinates: [[Strait_of_Hormuz]] 
+markerFile: [[Strait_of_Hormuz]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

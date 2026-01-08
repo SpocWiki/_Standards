@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian|Antarctic~Australasian]]"
+    - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.public|Antarctic~Australasian.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.internal|Antarctic~Australasian.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.protect|Antarctic~Australasian.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.private|Antarctic~Australasian.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.personal|Antarctic~Australasian.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.secret|Antarctic~Australasian.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian|Antarctic~Australasian]]"
+  - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.public|Antarctic~Australasian.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.internal|Antarctic~Australasian.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.protect|Antarctic~Australasian.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.private|Antarctic~Australasian.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.personal|Antarctic~Australasian.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.secret|Antarctic~Australasian.secret]]"
+---
 # [[Antarctic~Australasian]] 
 
 ## Edit

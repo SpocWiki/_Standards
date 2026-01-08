@@ -338,82 +338,170 @@ Languages:
   - en-MU
   - bho
   - fr
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Mauritius
+dv_ISO4217-currency_alphabetic: MUR
+dv_ISO4217-currency_name: Mauritius Rupee
+dv_ISO4217-currency_numeric: 480
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: MAURITIUS
+dv_Telephone: 230
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Mauritius
+dv_has_name_en: Mauritius
+dv_has_name_es: Mauricio
+dv_has_name_fr: Maurice
+dv_has_name_cn: 毛里求斯
+dv_has_name_ar: موريشيوس
+dv_has_name_ru: Маврикий
+dv_CLDR_display_name: Mauritius
+dv_UNTERM_English: Mauritius
+dv_UNTERM_English_Formal: the Republic of Mauritius
+dv_UNTERM_Spanish_Formal: la República de Mauricio
+dv_UNTERM_Spanish: Mauricio
+dv_UNTERM_French: Maurice [fém.]
+dv_UNTERM_Arabic: موريشيوس
+dv_UNTERM_Arabic_Formal: جمهورية موريشيوس
+dv_UNTERM_Chinese: 毛里求斯
+dv_UNTERM_Chinese_Formal: 毛里求斯共和国
+dv_UNTERM_French_Formal: la République de Maurice
+dv_UNTERM_Russian: Маврикий
+dv_UNTERM_Russian_Formal: Республика Маврикий
+dv_Region_Name: "[[../../../Africa]]"
+dv_Intermediate_Region_Name: "[[Eastern Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 14
+dv_Sub-region: 202
+dv_Geoname-ID: 934292
+dv_FIPS: MP
+dv_FIFA: MRI
+dv_IOC: MRI
+dv_MARC: mf
+dv_GAUL: 160
+dv_WMO: MA
+dv_ITU: MAU
+dv_DS: MS
+dv_TLD: .mu
+dv_EDGAR: O4
+dv_M49: 480
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 480
+dv_ISO2: MU
+dv_ISO3: MUS
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Mauritius,1027|WD~Mauritius,1027]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius|Mauritius]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.public|Mauritius.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.internal|Mauritius.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.protect|Mauritius.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.private|Mauritius.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.personal|Mauritius.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.secret|Mauritius.secret]]"
+dv_has_name_de: Mauritius
+dv_Area-Total: 2040
+dv_Area-Land: 2030
+dv_has_place_continent: "[[../../../Africa]]"
+dv_VehicleCode: MS
+dv_Alcohol-l: 3.7
+dv_Language-Id: 499
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 57.5167
+dv_has_place_latitude: -20.1667
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Mauritius
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Mauritius,1027|WD~Mauritius,1027]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius|Mauritius]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.public|Mauritius.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.internal|Mauritius.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.protect|Mauritius.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.private|Mauritius.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.personal|Mauritius.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.secret|Mauritius.secret]]"
 ---
 
 # [[Mauritius]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Mauritius 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Mauritius/ReadMe]] 
 
-[	ISO4217-currency_alphabetic	 :: MUR ]
-[	ISO4217-currency_name	 :: Mauritius Rupee ]
-[	ISO4217-currency_numeric	 :: 480 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: MAURITIUS ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 230 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Mauritius ]
-[	name-en	 :: Mauritius ]
-[	name-es	 :: Mauricio ]
-[	name-fr	 :: Maurice ]
-[	name-cn	 :: 毛里求斯 ]
-[	name-ar	 :: موريشيوس ]
-[	name-ru	 :: Маврикий ]
+name = `=this.dv_name`
+[	has_name_en	 :: Mauritius ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Mauritius ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Mauritius ]
-[	UNTERM_English_Formal	 :: the Republic of Mauritius ]
-[	UNTERM_Spanish_Formal	 :: la República de Mauricio ]
-[	UNTERM_Spanish	 :: Mauricio ]
-[	UNTERM_French	 :: Maurice [fém.] ]
-[	UNTERM_Arabic	 :: موريشيوس ]
-[	UNTERM_Arabic_Formal	 :: جمهورية موريشيوس ]
-[	UNTERM_Chinese	 :: 毛里求斯 ]
-[	UNTERM_Chinese_Formal	 :: 毛里求斯共和国 ]
-[	UNTERM_French_Formal	 :: la République de Maurice ]
-[	UNTERM_Russian	 :: Маврикий ]
-[	UNTERM_Russian_Formal	 :: Республика Маврикий ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Eastern Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 14 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 934292 ]
-[	FIPS	 :: MP ]
-[	FIFA	 :: MRI ]
-[	IOC	 :: MRI ]
-[	MARC	 :: mf ]
-[	GAUL	 :: 160 ]
-[	WMO	 :: MA ]
-[	ITU	 :: MAU ]
-[	DS	 :: MS ]
-[	TLD	 :: .mu ]
-[	EDGAR	 :: O4 ]
-[	M49	 :: 480 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 :: x ]
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States`
 
-[	ISO3166-1-numeric	 :: 480 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::MU] 
-[ISO3::MUS] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Mauritius,1027|WD~Mauritius,1027]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -426,12 +514,12 @@ geojsonFolder: ./Mauritius//
 markerFolder: ./Mauritius//
 ```
 
-[name-en::Mauritius]
-[name-de::Mauritius]
-[Area-Total::2040]
-[Area-Land::2030]
-has_place_continent:: [[Africa]]  
-[VehicleCode::MS]
+[has_name_en::Mauritius]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Port_Louis]]  
 
 ![[Coat_of_arms_of_Mauritius.svg|450]]
@@ -440,12 +528,12 @@ Capital :: [[Port_Louis]]
 
 ![[Flag_of_Mauritius.svg|350]]
 
-[Alcohol-l::3.7]
-[Language-Id::499]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
-[has_place_longitude::57.5167]
-[has_place_latitude::-20.1667] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

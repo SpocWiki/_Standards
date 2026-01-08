@@ -19,6 +19,25 @@ U_S_National_Archives_Identifier: "10639469"
 Basisklassifikation: "38.32"
 Commons_category: Geochemistry
 Stack_Exchange_tag: https://earthscience.stackexchange.com/tags/geochemistry
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Geochemistry,161764|WD~Geochemistry,161764]]"
+    - "[[/_Standards/Earth/Geology/Geochemistry|Geochemistry]]"
+    - "[[/_public/Earth/Geology/Geochemistry.public|Geochemistry.public]]"
+    - "[[/_internal/Earth/Geology/Geochemistry.internal|Geochemistry.internal]]"
+    - "[[/_protect/Earth/Geology/Geochemistry.protect|Geochemistry.protect]]"
+    - "[[/_private/Earth/Geology/Geochemistry.private|Geochemistry.private]]"
+    - "[[/_personal/Earth/Geology/Geochemistry.personal|Geochemistry.personal]]"
+    - "[[/_secret/Earth/Geology/Geochemistry.secret|Geochemistry.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Geochemistry,161764|WD~Geochemistry,161764]]"
+  - "[[/_Standards/Earth/Geology/Geochemistry|Geochemistry]]"
+  - "[[/_public/Earth/Geology/Geochemistry.public|Geochemistry.public]]"
+  - "[[/_internal/Earth/Geology/Geochemistry.internal|Geochemistry.internal]]"
+  - "[[/_protect/Earth/Geology/Geochemistry.protect|Geochemistry.protect]]"
+  - "[[/_private/Earth/Geology/Geochemistry.private|Geochemistry.private]]"
+  - "[[/_personal/Earth/Geology/Geochemistry.personal|Geochemistry.personal]]"
+  - "[[/_secret/Earth/Geology/Geochemistry.secret|Geochemistry.secret]]"
 ---
 
 # [[Geochemistry]] 

@@ -72,6 +72,63 @@ UMLS_CUI: C0035930
 Unicode_character: 銣
 UNII: MLT4718TJW
 ZVG_number: 7370
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Rubidium,895]]"
+    - "[[../../../WikiData/WD~Rubidium,895|WD~Rubidium,895]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium|Rubidium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.public|Rubidium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.internal|Rubidium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.protect|Rubidium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.private|Rubidium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.personal|Rubidium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.secret|Rubidium.secret]]"
+dv_GroupName: Group-01-Alkali
+dv_Group: "[[../Group-01-Alkali]]"
+dv_#has_:
+  name_:
+    en: Rubidium
+    de: Rubidium
+  value_for_:
+    weight_:
+      u: 85.4678
+    temperature_:
+      melt_:
+        c: 38.89
+      boil_:
+        c: 688
+  radius_:
+    nano_:
+      m: 4.177
+dv_Abbr: Rb
+dv_AtomRadius: 2.98
+dv_Atom-Vol-ccm-mol: 55.9
+dv_Unknown2: 2.16
+dv_Electronegative: 0.8
+dv_Density: 1.53
+dv_HeatCapacity: 0.363
+dv_HeatConduct: 0.582
+dv_Enthalpy: 2.192
+dv_FormEnergy-kj-mol: 72.216
+dv_PeriodNo: 5
+dv_GroupNo: 1
+dv_Charge-e: 37
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Rubidium,895]]"
+  - "[[../../../WikiData/WD~Rubidium,895|WD~Rubidium,895]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium|Rubidium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.public|Rubidium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.internal|Rubidium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.protect|Rubidium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.private|Rubidium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.personal|Rubidium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.secret|Rubidium.secret]]"
+dv_has_name_en: Rubidium
+dv_has_name_de: Rubidium
+dv_has_value_for_weight_u: 85.4678
+dv_has_radius_nano_m: 4.177
+dv_has_value_for_temperature_melt_c: 38.89
+dv_has_value_for_temperature_boil_c: 688
 ---
 
 # [[Rubidium]] 
@@ -79,29 +136,29 @@ ZVG_number: 7370
 #is_/same_as :: [[../../../WikiData/WD~Rubidium,895]] 
 #chemic/Element 
 
-[GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]
+GroupName = `=this.dv_GroupName`
+Group = `=this.dv_Group`
 
 
-[#has_/name_/en::Rubidium]
-[#has_/name_/de::Rubidium]
-(Abbr::Rb)
-[#has_/value_for_/weight_/u::85.4678]
-[AtomRadius::2.98]
-[Atom-Vol-ccm-mol::55.9]
-[Unknown2::2.16]
-[#has_/radius_/nm::4.177]
-[Electronegative::0.8]
-[Density::1.53]
-[#has_/value_for_/temperature_/melt_/c ::38.89]
-[#has_/value_for_/temperature_/boil_/c ::688]
-[HeatCapacity::0.363]
-[HeatConduct::0.582]
-[Enthalpy::2.192]
-[FormEnergy-kj-mol::72.216]
-(PeriodNo::5)
-(GroupNo::1)
-(Charge-e::37)
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Abbr = `=this.dv_Abbr`
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u`
+AtomRadius = `=this.dv_AtomRadius`
+Atom-Vol-ccm-mol = `=this.dv_Atom-Vol-ccm-mol`
+Unknown2 = `=this.dv_Unknown2`
+has_radius_nano_m = `=this.dv_has_radius_nano_m`
+Electronegative = `=this.dv_Electronegative`
+Density = `=this.dv_Density`
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c`
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c`
+HeatCapacity = `=this.dv_HeatCapacity`
+HeatConduct = `=this.dv_HeatConduct`
+Enthalpy = `=this.dv_Enthalpy`
+FormEnergy-kj-mol = `=this.dv_FormEnergy-kj-mol`
+PeriodNo = `=this.dv_PeriodNo`
+GroupNo = `=this.dv_GroupNo`
+Charge-e = `=this.dv_Charge-e`
 #is_/same_as :: [[../../../WikiData/WD~Rubidium,895|WD~Rubidium,895]] 
 
 ## #has_/text_of_/abstract 

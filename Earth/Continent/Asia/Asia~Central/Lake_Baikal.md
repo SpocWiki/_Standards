@@ -1,5 +1,24 @@
-﻿---
-location: [ 108.00472222 , 53.30277778 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Lake_Baikal,5513|WD~Lake_Baikal,5513]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Lake_Baikal|Lake_Baikal]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~Central/Lake_Baikal.public|Lake_Baikal.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~Central/Lake_Baikal.internal|Lake_Baikal.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~Central/Lake_Baikal.protect|Lake_Baikal.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~Central/Lake_Baikal.private|Lake_Baikal.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~Central/Lake_Baikal.personal|Lake_Baikal.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~Central/Lake_Baikal.secret|Lake_Baikal.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Lake_Baikal,5513|WD~Lake_Baikal,5513]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Lake_Baikal|Lake_Baikal]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~Central/Lake_Baikal.public|Lake_Baikal.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~Central/Lake_Baikal.internal|Lake_Baikal.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~Central/Lake_Baikal.protect|Lake_Baikal.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~Central/Lake_Baikal.private|Lake_Baikal.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~Central/Lake_Baikal.personal|Lake_Baikal.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~Central/Lake_Baikal.secret|Lake_Baikal.secret]]"
+
 aliases:
   - Lake Baikal
   - Lake_Baikal

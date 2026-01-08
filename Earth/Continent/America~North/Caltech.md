@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/Caltech|Caltech]]"
+    - "[[/_public/Earth/Continent/America~North/Caltech.public|Caltech.public]]"
+    - "[[/_internal/Earth/Continent/America~North/Caltech.internal|Caltech.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/Caltech.protect|Caltech.protect]]"
+    - "[[/_private/Earth/Continent/America~North/Caltech.private|Caltech.private]]"
+    - "[[/_personal/Earth/Continent/America~North/Caltech.personal|Caltech.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/Caltech.secret|Caltech.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/Caltech|Caltech]]"
+  - "[[/_public/Earth/Continent/America~North/Caltech.public|Caltech.public]]"
+  - "[[/_internal/Earth/Continent/America~North/Caltech.internal|Caltech.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/Caltech.protect|Caltech.protect]]"
+  - "[[/_private/Earth/Continent/America~North/Caltech.private|Caltech.private]]"
+  - "[[/_personal/Earth/Continent/America~North/Caltech.personal|Caltech.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/Caltech.secret|Caltech.secret]]"
+---
 
 # [[Caltech]] 
 

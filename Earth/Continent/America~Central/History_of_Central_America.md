@@ -10,6 +10,25 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Histori
 Commons_category: History of Central America
 name_in_kana: ちゅうおうアメリカし
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vergara%20detalle%20firmaacta1821.JPG
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~History_of_Central_America,1202140]]"
+    - "[[/_Standards/Earth/Continent/America~Central/History_of_Central_America|History_of_Central_America]]"
+    - "[[/_public/Earth/Continent/America~Central/History_of_Central_America.public|History_of_Central_America.public]]"
+    - "[[/_internal/Earth/Continent/America~Central/History_of_Central_America.internal|History_of_Central_America.internal]]"
+    - "[[/_protect/Earth/Continent/America~Central/History_of_Central_America.protect|History_of_Central_America.protect]]"
+    - "[[/_private/Earth/Continent/America~Central/History_of_Central_America.private|History_of_Central_America.private]]"
+    - "[[/_personal/Earth/Continent/America~Central/History_of_Central_America.personal|History_of_Central_America.personal]]"
+    - "[[/_secret/Earth/Continent/America~Central/History_of_Central_America.secret|History_of_Central_America.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~History_of_Central_America,1202140]]"
+  - "[[/_Standards/Earth/Continent/America~Central/History_of_Central_America|History_of_Central_America]]"
+  - "[[/_public/Earth/Continent/America~Central/History_of_Central_America.public|History_of_Central_America.public]]"
+  - "[[/_internal/Earth/Continent/America~Central/History_of_Central_America.internal|History_of_Central_America.internal]]"
+  - "[[/_protect/Earth/Continent/America~Central/History_of_Central_America.protect|History_of_Central_America.protect]]"
+  - "[[/_private/Earth/Continent/America~Central/History_of_Central_America.private|History_of_Central_America.private]]"
+  - "[[/_personal/Earth/Continent/America~Central/History_of_Central_America.personal|History_of_Central_America.personal]]"
+  - "[[/_secret/Earth/Continent/America~Central/History_of_Central_America.secret|History_of_Central_America.secret]]"
 ---
 
 # [[History_of_Central_America]] 

@@ -1,5 +1,93 @@
-﻿---
-location: [ 47.0 , 6.0 ] 
+---
+dv_ISO4217-currency_alphabetic: SOS
+dv_ISO4217-currency_name: Somali Shilling
+dv_ISO4217-currency_numeric: 706
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SOMALIA
+dv_Telephone: 252
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Somalia
+dv_has_name_en: Somalia
+dv_has_name_es: Somalia
+dv_has_name_fr: Somalie
+dv_has_name_cn: 索马里
+dv_has_name_ar: الصومال
+dv_has_name_ru: Сомали
+dv_CLDR_display_name: Somalia
+dv_UNTERM_English: Somalia
+dv_UNTERM_English_Formal: the Federal Republic of Somalia
+dv_UNTERM_Spanish_Formal: la República Federal de Somalia
+dv_UNTERM_Spanish: Somalia
+dv_UNTERM_French: Somalie (la)
+dv_UNTERM_Arabic: الصومال
+dv_UNTERM_Arabic_Formal: جمهورية الصومال الاتحادية
+dv_UNTERM_Chinese: 索马里
+dv_UNTERM_Chinese_Formal: 索马里联邦共和国
+dv_UNTERM_French_Formal: la République fédérale de Somalie
+dv_UNTERM_Russian: Сомали
+dv_UNTERM_Russian_Formal: Федеративная Республика Сомали
+dv_Region_Name: "[Africa](../../Africa.md)"
+dv_Intermediate_Region_Name: "[Eastern Africa](Eastern%20Africa)"
+dv_Sub-region_Name: "[Sub-Saharan Africa](Sub-Saharan%20Africa)"
+dv_Region: 2
+dv_Intermediate_Region: 14
+dv_Sub-region: 202
+dv_Geoname-ID: 51537
+dv_FIPS: SO
+dv_FIFA: SOM
+dv_IOC: SOM
+dv_MARC: so
+dv_GAUL: 226
+dv_WMO: SI
+dv_ITU: SOM
+dv_DS: SO
+dv_TLD: .so
+dv_EDGAR: U1
+dv_M49: 706
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 706
+dv_ISO2: SO
+dv_ISO3: SOM
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Somalia|Somalia]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Somalia.public|Somalia.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect|Somalia.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Somalia.private|Somalia.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal|Somalia.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret|Somalia.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Reunion
+dv_has_name_de: Somalia
+dv_Area-Total: 637657
+dv_Area-Land: 627340
+dv_has_place_continent: "[Africa](../../Africa.md)"
+dv_VehicleCode: SO
+dv_Capital: "[Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu.md)"
+dv_Alcohol-l: 0.5
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 45.33
+dv_has_place_latitude: 2.02
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Somalia|Somalia]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Somalia.public|Somalia.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect|Somalia.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Somalia.private|Somalia.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal|Somalia.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret|Somalia.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Reunion
+
 aliases:
   - Somalia
   - Somalie
@@ -324,76 +412,78 @@ Languages:
 
 # [Somalia](.md) 
 
-[	ISO4217-currency_alphabetic	 :: SOS ]
-[	ISO4217-currency_name	 :: Somali Shilling ]
-[	ISO4217-currency_numeric	 :: 706 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SOMALIA ]
+## [[Somalia]] has Properties...
 
-[	Telephone	 :: 252 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Somalia ]
-[	name-en	 :: Somalia ]
-[	name-es	 :: Somalia ]
-[	name-fr	 :: Somalie ]
-[	name-cn	 :: 索马里 ]
-[	name-ar	 :: الصومال ]
-[	name-ru	 :: Сомали ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Somalia ]
+name = `=this.dv_name`
+[	has_name_en	 :: Somalia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: Somalia ]
-[	UNTERM_English_Formal	 :: the Federal Republic of Somalia ]
-[	UNTERM_Spanish_Formal	 :: la República Federal de Somalia ]
-[	UNTERM_Spanish	 :: Somalia ]
-[	UNTERM_French	 :: Somalie (la) ]
-[	UNTERM_Arabic	 :: الصومال ]
-[	UNTERM_Arabic_Formal	 :: جمهورية الصومال الاتحادية ]
-[	UNTERM_Chinese	 :: 索马里 ]
-[	UNTERM_Chinese_Formal	 :: 索马里联邦共和国 ]
-[	UNTERM_French_Formal	 :: la République fédérale de Somalie ]
-[	UNTERM_Russian	 :: Сомали ]
-[	UNTERM_Russian_Formal	 :: Федеративная Республика Сомали ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [Africa](../../Africa.md) 
-Intermediate_Region_Name ::  [Eastern Africa](Eastern%20Africa) 
-Sub-region_Name ::  [Sub-Saharan Africa](Sub-Saharan%20Africa) 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 14 ]
-[	Sub-region	 :: 202 ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 51537 ]
-[	FIPS	 :: SO ]
-[	FIFA	 :: SOM ]
-[	IOC	 :: SOM ]
-[	MARC	 :: so ]
-[	GAUL	 :: 226 ]
-[	WMO	 :: SI ]
-[	ITU	 :: SOM ]
-[	DS	 :: SO ]
-[	TLD	 :: .so ]
-[	EDGAR	 :: U1 ]
-[	M49	 :: 706 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
-[	Small_Island_Developing_States	 ::  ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 706 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::SO]
-[ISO3::SOM]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Somalia,1045|WD~Somalia,1045]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Reunion 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [ReadMe](Mascarene-Islands/Reunion/ReadMe.md) 
 
@@ -412,13 +502,13 @@ zoomFeatures: true
 defaultZoom: 5 
 ```
 
-[name-en::Somalia]
-[name-de::Somalia]
-[Area-Total::637657]
-[Area-Land::627340]
-has_place_continent:: [Africa](../../Africa.md)  
-[VehicleCode::SO]
-Capital :: [Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu.md)  
+[has_name_en::Somalia]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![550](Somalia/Coat_of_arms_of_Somalia.svg)
 
@@ -426,12 +516,12 @@ Capital :: [Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadi
 
 ![350](Somalia/Flag_of_Somalia.svg)
 
-[Alcohol-l::0.5]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::45.33]
-[has_place_latitude::2.02]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

@@ -375,80 +375,167 @@ U_S_National_Archives_Identifier: 10035805
 VAT_rate: 18
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Senegal,7112445]]"
 WIPO_ST_3: SN
+dv_ISO4217-currency_alphabetic: XOF
+dv_ISO4217-currency_name: CFA Franc BCEAO
+dv_ISO4217-currency_numeric: 952
+dv_ISO4217-currency_minor_unit: 0
+dv_ISO4217-currency_country_name: SENEGAL
+dv_Telephone: 221
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Senegal
+dv_has_name_en: Senegal
+dv_has_name_es: Senegal
+dv_has_name_fr: Sénégal
+dv_has_name_cn: 塞内加尔
+dv_has_name_ar: السنغال
+dv_has_name_ru: Сенегал
+dv_CLDR_display_name: Senegal
+dv_UNTERM_English: Senegal
+dv_UNTERM_English_Formal: the Republic of Senegal
+dv_UNTERM_Spanish_Formal: la República del Senegal
+dv_UNTERM_Spanish: Senegal (el)
+dv_UNTERM_French: Sénégal (le)
+dv_UNTERM_Arabic: السنغال
+dv_UNTERM_Arabic_Formal: جمهورية السنغال
+dv_UNTERM_Chinese: 塞内加尔
+dv_UNTERM_Chinese_Formal: 塞内加尔共和国
+dv_UNTERM_French_Formal: la République du Sénégal
+dv_UNTERM_Russian: Сенегал
+dv_UNTERM_Russian_Formal: Республика Сенегал
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 2245662
+dv_FIPS: SG
+dv_FIFA: SEN
+dv_IOC: SEN
+dv_MARC: sg
+dv_GAUL: 217
+dv_WMO: SG
+dv_ITU: SEN
+dv_DS: SN
+dv_TLD: .sn
+dv_EDGAR: T1
+dv_M49: 686
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 686
+dv_ISO2: SN
+dv_ISO3: SEN
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Senegal,1041|WD~Senegal,1041]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Senegal|Senegal]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Senegal.public|Senegal.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Senegal.internal|Senegal.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Senegal.protect|Senegal.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Senegal.private|Senegal.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Senegal.personal|Senegal.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Senegal.secret|Senegal.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Senegal
+dv_has_name_de: Senegal
+dv_Area-Total: 196722
+dv_Area-Land: 192530
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: SN
+dv_Alcohol-l: 0.6
+dv_Language-Id: 496
+dv_has_place_longitude: -17.125
+dv_has_place_latitude: 14.435
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Senegal,1041|WD~Senegal,1041]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Senegal|Senegal]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Senegal.public|Senegal.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Senegal.internal|Senegal.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Senegal.protect|Senegal.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Senegal.private|Senegal.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Senegal.personal|Senegal.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Senegal.secret|Senegal.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Senegal
 ---
 
 # [[Senegal]] 
 
-[	ISO4217-currency_alphabetic	 :: XOF ]
-[	ISO4217-currency_name	 :: CFA Franc BCEAO ]
-[	ISO4217-currency_numeric	 :: 952 ]
-[	ISO4217-currency_minor_unit	 :: 0 ]
-[	ISO4217-currency_country_name	 :: SENEGAL ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 221 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Senegal ]
-[	name-en	 :: Senegal ]
-[	name-es	 :: Senegal ]
-[	name-fr	 :: Sénégal ]
-[	name-cn	 :: 塞内加尔 ]
-[	name-ar	 :: السنغال ]
-[	name-ru	 :: Сенегал ]
+name = `=this.dv_name`
+[	has_name_en	 :: Senegal ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Senegal ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Senegal ]
-[	UNTERM_English_Formal	 :: the Republic of Senegal ]
-[	UNTERM_Spanish_Formal	 :: la República del Senegal ]
-[	UNTERM_Spanish	 :: Senegal (el) ]
-[	UNTERM_French	 :: Sénégal (le) ]
-[	UNTERM_Arabic	 :: السنغال ]
-[	UNTERM_Arabic_Formal	 :: جمهورية السنغال ]
-[	UNTERM_Chinese	 :: 塞内加尔 ]
-[	UNTERM_Chinese_Formal	 :: 塞内加尔共和国 ]
-[	UNTERM_French_Formal	 :: la République du Sénégal ]
-[	UNTERM_Russian	 :: Сенегал ]
-[	UNTERM_Russian_Formal	 :: Республика Сенегал ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2245662 ]
-[	FIPS	 :: SG ]
-[	FIFA	 :: SEN ]
-[	IOC	 :: SEN ]
-[	MARC	 :: sg ]
-[	GAUL	 :: 217 ]
-[	WMO	 :: SG ]
-[	ITU	 :: SEN ]
-[	DS	 :: SN ]
-[	TLD	 :: .sn ]
-[	EDGAR	 :: T1 ]
-[	M49	 :: 686 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 686 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::SN]
-[ISO3::SEN] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Senegal,1041|WD~Senegal,1041]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Senegal 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Senegal/ReadMe]] 
 
@@ -463,12 +550,12 @@ geojsonFolder: ./Senegal//
 markerFolder: ./Senegal//
 ```
 
-[name-en::Senegal]
-[name-de::Senegal]
-[Area-Total::196722]
-[Area-Land::192530]
-has_place_continent:: [[Africa]]  
-[VehicleCode::SN]
+[has_name_en::Senegal]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Dakar]]  
 
 ![[Coat_of_arms_of_Senegal.svg|350]]
@@ -477,10 +564,10 @@ Capital :: [[Dakar]]
 
 ![[Flag_of_Senegal.svg|350]]
 
-[Alcohol-l::0.6]
-[Language-Id::496]
-[has_place_longitude::-17.125]
-[has_place_latitude::14.435]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

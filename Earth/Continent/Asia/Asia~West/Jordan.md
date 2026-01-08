@@ -1,5 +1,92 @@
-﻿---
-location: [ 36.5 , 31.2 ] 
+---
+dv_ISO4217-currency_alphabetic: JOD
+dv_ISO4217-currency_name: Jordanian Dinar
+dv_ISO4217-currency_numeric: 400
+dv_ISO4217-currency_minor_unit: 3
+dv_ISO4217-currency_country_name: JORDAN
+dv_Telephone: 962
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Jordan
+dv_has_name_en: Jordan
+dv_has_name_es: Jordania
+dv_has_name_fr: Jordanie
+dv_has_name_cn: 约旦
+dv_has_name_ar: الأردن
+dv_has_name_ru: Иордания
+dv_CLDR_display_name: Jordan
+dv_UNTERM_English: Jordan
+dv_UNTERM_English_Formal: the Hashemite Kingdom of Jordan
+dv_UNTERM_Spanish_Formal: el Reino Hachemita de Jordania
+dv_UNTERM_Spanish: Jordania
+dv_UNTERM_French: Jordanie (la)
+dv_UNTERM_Arabic: الأردن
+dv_UNTERM_Arabic_Formal: المملكة الأردنية الهاشمية
+dv_UNTERM_Chinese: 约旦
+dv_UNTERM_Chinese_Formal: 约旦哈希姆王国
+dv_UNTERM_French_Formal: le Royaume hachémite de Jordanie
+dv_UNTERM_Russian: Иордания
+dv_UNTERM_Russian_Formal: Иорданское Хашимитское Королевство
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Jordan]]"
+dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region: 142
+dv_Sub-region: 145
+dv_Geoname-ID: 248816
+dv_FIPS: JO
+dv_FIFA: JOR
+dv_IOC: JOR
+dv_MARC: jo
+dv_GAUL: 130
+dv_WMO: JD
+dv_ITU: JOR
+dv_DS: HKJ
+dv_TLD: .jo
+dv_EDGAR: M2
+dv_M49: 400
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 400
+dv_ISO2: JO
+dv_ISO3: JOR
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Jordan,810|WD~Jordan,810]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Jordan|Jordan]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Jordan.public|Jordan.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Jordan.internal|Jordan.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Jordan.protect|Jordan.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Jordan.private|Jordan.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Jordan.personal|Jordan.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret|Jordan.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Jordan
+dv_has_name_de: Jordanien
+dv_Area-Total: 88946
+dv_Area-Land: 88930
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: JOR
+dv_Capital: "[[Jordan/Counties/Amman/City/Amman]]"
+dv_Alcohol-l: 0.7
+dv_Language-Id: 472
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 35.93
+dv_has_place_latitude: 31.95
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Jordan,810|WD~Jordan,810]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Jordan|Jordan]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Jordan.public|Jordan.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Jordan.internal|Jordan.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Jordan.protect|Jordan.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Jordan.private|Jordan.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Jordan.personal|Jordan.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret|Jordan.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Jordan
+
 aliases:
   - Jordan
   - Jordania
@@ -327,76 +414,78 @@ icon: flag-jo
 
 # [[Jordan]] 
 
-[	ISO4217-currency_alphabetic	 :: JOD ]
-[	ISO4217-currency_name	 :: Jordanian Dinar ]
-[	ISO4217-currency_numeric	 :: 400 ]
-[	ISO4217-currency_minor_unit	 :: 3 ]
-[	ISO4217-currency_country_name	 :: JORDAN ]
+## [[Jordan]] has Properties...
 
-[	Telephone	 :: 962 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Jordan ]
-[	name-en	 :: Jordan ]
-[	name-es	 :: Jordania ]
-[	name-fr	 :: Jordanie ]
-[	name-cn	 :: 约旦 ]
-[	name-ar	 :: الأردن ]
-[	name-ru	 :: Иордания ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Jordan ]
+name = `=this.dv_name`
+[	has_name_en	 :: Jordan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: Jordan ]
-[	UNTERM_English_Formal	 :: the Hashemite Kingdom of Jordan ]
-[	UNTERM_Spanish_Formal	 :: el Reino Hachemita de Jordania ]
-[	UNTERM_Spanish	 :: Jordania ]
-[	UNTERM_French	 :: Jordanie (la) ]
-[	UNTERM_Arabic	 :: الأردن ]
-[	UNTERM_Arabic_Formal	 :: المملكة الأردنية الهاشمية ]
-[	UNTERM_Chinese	 :: 约旦 ]
-[	UNTERM_Chinese_Formal	 :: 约旦哈希姆王国 ]
-[	UNTERM_French_Formal	 :: le Royaume hachémite de Jordanie ]
-[	UNTERM_Russian	 :: Иордания ]
-[	UNTERM_Russian_Formal	 :: Иорданское Хашимитское Королевство ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Asia]] 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 145 ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 248816 ]
-[	FIPS	 :: JO ]
-[	FIFA	 :: JOR ]
-[	IOC	 :: JOR ]
-[	MARC	 :: jo ]
-[	GAUL	 :: 130 ]
-[	WMO	 :: JD ]
-[	ITU	 :: JOR ]
-[	DS	 :: HKJ ]
-[	TLD	 :: .jo ]
-[	EDGAR	 :: M2 ]
-[	M49	 :: 400 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 400 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::JO]
-[ISO3::JOR] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Jordan,810|WD~Jordan,810]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Jordan 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Jordan/ReadMe]] 
 
@@ -409,24 +498,27 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Jordan//
 markerFolder: ./Jordan/
+coordinates: [[Jordan]] 
+markerFile: [[Jordan]] 
+defaultZoom: 7 
 ```
 
-[name-en::Jordan]
-[name-de::Jordanien]
-[Area-Total::88946]
-[Area-Land::88930]
-has_place_continent:: [[Asia]]  
-[VehicleCode::JOR]
-Capital :: [[Jordan/Counties/Amman/City/Amman]] 
+[has_name_en::Jordan]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Jordan/Coat_of_arms_of_Jordan.svg|350]]  
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Jordan.mp3]]
 ![[Jordan/Flag_of_Jordan.svg|350]]  
-[Alcohol-l::0.7]
-[Language-Id::472]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::35.93]
-[has_place_latitude::31.95]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

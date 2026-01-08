@@ -84,7 +84,7 @@ type: Element
 
 #chemic/Element 
 [GroupName::Group-14-Carbon]
-[Group:[[../Group-14-Carbon]]
+Group::[[../Group-14-Carbon]]
 
 
 [#has_/name_/en::Germanium]
@@ -93,7 +93,7 @@ type: Element
 [AtomRadius::1.52]
 [Atom-Vol-ccm-mol::13.6]
 [Unknown2::1.22]
-[#has_/radius_/nm::7.899]
+[#has_/radius_/nano_/m::7.899]
 [Electronegative::2]
 [Density::5.32]
 [#has_/value_for_/temperature_/melt_/c ::937.4]

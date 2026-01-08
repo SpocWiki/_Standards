@@ -1,5 +1,29 @@
-﻿---
-location: [ 21.63 , 37.637861111 ] 
+---
+dv_"Artwork", "StatueOfZeusAtOlympia: Phidias"
+dv_"Building", "StatueOfZeusAtOlympia: 32jwn"
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Statue_of_Zeus_at_Olympia,46239|WD~Statue_of_Zeus_at_Olympia,46239]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia|Statue_of_Zeus_at_Olympia]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.public|Statue_of_Zeus_at_Olympia.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.internal|Statue_of_Zeus_at_Olympia.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.protect|Statue_of_Zeus_at_Olympia.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.private|Statue_of_Zeus_at_Olympia.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.personal|Statue_of_Zeus_at_Olympia.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.secret|Statue_of_Zeus_at_Olympia.secret]]"
+dv_artwork-statueofzeusatolympia: Phidias"
+dv_building-statueofzeusatolympia: 32jwn"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Statue_of_Zeus_at_Olympia,46239|WD~Statue_of_Zeus_at_Olympia,46239]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia|Statue_of_Zeus_at_Olympia]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.public|Statue_of_Zeus_at_Olympia.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.internal|Statue_of_Zeus_at_Olympia.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.protect|Statue_of_Zeus_at_Olympia.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.private|Statue_of_Zeus_at_Olympia.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.personal|Statue_of_Zeus_at_Olympia.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Statue_of_Zeus_at_Olympia.secret|Statue_of_Zeus_at_Olympia.secret]]"
+
+location: [ 37.637861111, 21.63 ] 
 aliases:
 has_id_wikidata: Q46239
 made_from_material:
@@ -22,7 +46,7 @@ depicts:
   - "[[_Standards/WikiData/WD~Zeus,34201]]"
   - "[[_Standards/WikiData/WD~beard,42804]]"
 creator: "[[_Standards/WikiData/WD~Phidias,177302]]"
-location: "[[_Standards/WikiData/WD~Temple_of_Zeus_in_Olympia,197019]]"
+locations: "[[_Standards/WikiData/WD~Temple_of_Zeus_in_Olympia,197019]]"
 part_of: "[[_Standards/WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772]]"
 genre: "[[_Standards/WikiData/WD~colossal_statue,1779653]]"
 instance_of:
@@ -39,8 +63,8 @@ height: 12
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Jupiter%20Olympien%20ou%20l%27art%20de%20la%20sculpture%20antique.jpg
 Commons_category: Statue of Zeus at Olympia
 Wolfram_Language_entity_code:
-  - Entity["Artwork", "StatueOfZeusAtOlympia::Phidias"]
-  - Entity["Building", "StatueOfZeusAtOlympia::32jwn"]
+  - Entity"Artwork", "StatueOfZeusAtOlympia = `=this.dv_"Artwork", "StatueOfZeusAtOlympia`
+  - Entity"Building", "StatueOfZeusAtOlympia = `=this.dv_"Building", "StatueOfZeusAtOlympia`
 Krugosvet_article_archived_: skulptura/statuya-zevsa-v-olimpii
 coordinate_location: Point(21.63 37.637861111)
 ---
@@ -48,6 +72,20 @@ coordinate_location: Point(21.63 37.637861111)
 # [[Statue_of_Zeus_at_Olympia]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Statue_of_Zeus_at_Olympia,46239|WD~Statue_of_Zeus_at_Olympia,46239]]  
+
+## #has_/map  
+
+```leaflet
+id: Statue_of_Zeus_at_Olympia
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Statue_of_Zeus_at_Olympia//
+markerFolder: ./Statue_of_Zeus_at_Olympia/
+coordinates: [[Statue_of_Zeus_at_Olympia]] 
+markerFile: [[Statue_of_Zeus_at_Olympia]] 
+defaultZoom: 16 
+```
 
 ## #has_/text_of_/abstract 
 

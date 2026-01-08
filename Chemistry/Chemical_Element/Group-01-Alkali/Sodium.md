@@ -127,7 +127,7 @@ ZVG_number: 8080
 #is_/same_as :: [[../../../WikiData/WD~Sodium,658]] 
 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]
+Group::[[../Group-01-Alkali]]
 
 
 [#has_/name_/en::Sodium]
@@ -137,7 +137,7 @@ ZVG_number: 8080
 [AtomRadius::2.23]
 [Atom-Vol-ccm-mol::23.7]
 [Unknown2::1.54]
-[#has_/radius_/nm::5.139]
+[#has_/radius_/nano_/m::5.139]
 [Electronegative::0.9]
 [Density::0.97]
 [#has_/value_for_/temperature_/melt_/c ::97.81]

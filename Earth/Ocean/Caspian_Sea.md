@@ -1,5 +1,27 @@
-﻿---
-location: [ 50.5 , 42.0 ] 
+---
+dv_"Lake", "CaspianSea: 8mv93"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Caspian_Sea,5484|WD~Caspian_Sea,5484]]"
+    - "[[/_Standards/Earth/Ocean/Caspian_Sea|Caspian_Sea]]"
+    - "[[/_public/Earth/Ocean/Caspian_Sea.public|Caspian_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Caspian_Sea.internal|Caspian_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Caspian_Sea.protect|Caspian_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Caspian_Sea.private|Caspian_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Caspian_Sea.personal|Caspian_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Caspian_Sea.secret|Caspian_Sea.secret]]"
+dv_lake-caspiansea: 8mv93"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Caspian_Sea,5484|WD~Caspian_Sea,5484]]"
+  - "[[/_Standards/Earth/Ocean/Caspian_Sea|Caspian_Sea]]"
+  - "[[/_public/Earth/Ocean/Caspian_Sea.public|Caspian_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Caspian_Sea.internal|Caspian_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Caspian_Sea.protect|Caspian_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Caspian_Sea.private|Caspian_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Caspian_Sea.personal|Caspian_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Caspian_Sea.secret|Caspian_Sea.secret]]"
+
+location: [ 42.0, 50.5 ] 
 aliases:
   - Caspian Sea
   - Caspian_Sea
@@ -110,13 +132,30 @@ vertical_depth:
 volume_as_quantity: 78700
 watershed_area: 3500000
 width: 435
-Wolfram_Language_entity_code: Entity["Lake", "CaspianSea::8mv93"]
+Wolfram_Language_entity_code: Entity"Lake", "CaspianSea = `=this.dv_"Lake", "CaspianSea`
 ---
 
 
 # [[Caspian_Sea]] 
 
+## #has_/map  
+
+
+```leaflet
+id: Caspian_Sea
+minZoom: 2 
+maxZoom: 18
+zoomFeatures: false
+geojsonFolder: ./Caspian_Sea/
+markerFolder: ./Caspian_Sea/
+coordinates: [[Caspian_Sea]] 
+markerFile: [[Caspian_Sea]] 
+defaultZoom: 5 
+```
+
+
 #is_/same_as :: [[../../WikiData/WD~Caspian_Sea,5484|WD~Caspian_Sea,5484]] 
+
 ## #has_/text_of_/abstract 
 
 > The Caspian Sea is the world's largest inland body of water, 
@@ -134,20 +173,6 @@ Wolfram_Language_entity_code: Entity["Lake", "CaspianSea::8mv93"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Caspian%20Sea)
 > 
-
-```leaflet
-id: Caspian_Sea
-minZoom: 2 
-defaultZoom: 5
-maxZoom: 18
-geojsonFolder: ./Caspian_Sea/
-markerFolder: ./Caspian_Sea/
-long: 50.88
-lat: 42.04
-```
-
-zoomFeatures: true
-
 
 ## All Contents
 

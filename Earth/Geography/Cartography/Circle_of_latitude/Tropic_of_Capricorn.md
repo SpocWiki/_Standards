@@ -23,6 +23,25 @@ place_name_sign: http://commons.wikimedia.org/wiki/Special:FilePath/Jpeg%2039.jp
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20map%20with%20tropic%20of%20capricorn.svg
 Commons_category: Tropic of Capricorn
 coordinate_location: Point(0.0 -23.436694444)
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Tropic_of_Capricorn,177440]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn|Tropic_of_Capricorn]]"
+    - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.public|Tropic_of_Capricorn.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.internal|Tropic_of_Capricorn.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.protect|Tropic_of_Capricorn.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.private|Tropic_of_Capricorn.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.personal|Tropic_of_Capricorn.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.secret|Tropic_of_Capricorn.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Tropic_of_Capricorn,177440]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn|Tropic_of_Capricorn]]"
+  - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.public|Tropic_of_Capricorn.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.internal|Tropic_of_Capricorn.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.protect|Tropic_of_Capricorn.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.private|Tropic_of_Capricorn.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.personal|Tropic_of_Capricorn.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Capricorn.secret|Tropic_of_Capricorn.secret]]"
 ---
 
 # [[Tropic_of_Capricorn]] 

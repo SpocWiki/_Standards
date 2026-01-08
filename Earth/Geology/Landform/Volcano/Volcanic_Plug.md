@@ -12,6 +12,25 @@ subclass_of:
   - "[[_Standards/WikiData/WD~igneous_intrusion,61041319]]"
 Commons_category: Volcanic plugs
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhumsiki%20Peak.jpg
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Volcanic_plug,653139|WD~Volcanic_plug,653139]]"
+    - "[[/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Plug|Volcanic_Plug]]"
+    - "[[/_public/Earth/Geology/Landform/Volcano/Volcanic_Plug.public|Volcanic_Plug.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Volcano/Volcanic_Plug.internal|Volcanic_Plug.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Volcano/Volcanic_Plug.protect|Volcanic_Plug.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Volcano/Volcanic_Plug.private|Volcanic_Plug.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Volcano/Volcanic_Plug.personal|Volcanic_Plug.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Volcano/Volcanic_Plug.secret|Volcanic_Plug.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Volcanic_plug,653139|WD~Volcanic_plug,653139]]"
+  - "[[/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Plug|Volcanic_Plug]]"
+  - "[[/_public/Earth/Geology/Landform/Volcano/Volcanic_Plug.public|Volcanic_Plug.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Volcano/Volcanic_Plug.internal|Volcanic_Plug.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Volcano/Volcanic_Plug.protect|Volcanic_Plug.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Volcano/Volcanic_Plug.private|Volcanic_Plug.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Volcano/Volcanic_Plug.personal|Volcanic_Plug.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Volcano/Volcanic_Plug.secret|Volcanic_Plug.secret]]"
 ---
 
 # [[Volcanic_Plug]] 

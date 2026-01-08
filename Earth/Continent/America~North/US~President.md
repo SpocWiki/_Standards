@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
+    - "[[/_Standards/Earth/Continent/America~North/US~President|US~President]]"
+    - "[[/_public/Earth/Continent/America~North/US~President.public|US~President.public]]"
+    - "[[/_internal/Earth/Continent/America~North/US~President.internal|US~President.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/US~President.protect|US~President.protect]]"
+    - "[[/_private/Earth/Continent/America~North/US~President.private|US~President.private]]"
+    - "[[/_personal/Earth/Continent/America~North/US~President.personal|US~President.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/US~President.secret|US~President.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
+  - "[[/_Standards/Earth/Continent/America~North/US~President|US~President]]"
+  - "[[/_public/Earth/Continent/America~North/US~President.public|US~President.public]]"
+  - "[[/_internal/Earth/Continent/America~North/US~President.internal|US~President.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/US~President.protect|US~President.protect]]"
+  - "[[/_private/Earth/Continent/America~North/US~President.private|US~President.private]]"
+  - "[[/_personal/Earth/Continent/America~North/US~President.personal|US~President.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/US~President.secret|US~President.secret]]"
+
 has_time_started: 1787-04-30 
 aliases:
   - US President

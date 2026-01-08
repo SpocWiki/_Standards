@@ -6,25 +6,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 11.16
   - 166.87
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Railik_Chain
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain|Railik_Chain]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.public|Railik_Chain.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.internal|Railik_Chain.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.protect|Railik_Chain.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.private|Railik_Chain.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.personal|Railik_Chain.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.secret|Railik_Chain.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain|Railik_Chain]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.public|Railik_Chain.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.internal|Railik_Chain.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.protect|Railik_Chain.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.private|Railik_Chain.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.personal|Railik_Chain.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Railik_Chain.secret|Railik_Chain.secret]]"
 ---
 
 # Railik_Chain

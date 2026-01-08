@@ -1,5 +1,105 @@
-﻿---
-location: [ 94.25 , 66.416666666 ] 
+---
+dv_has_:
+  previous_item: "[[../../Asia/USSR]]"
+  telephone_:
+    Prefix_:
+      country: 7
+      International:
+        - 8
+        - 9
+        - 10
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Russia
+dv_ISO4217-currency_alphabetic: RUB
+dv_ISO4217-currency_name: Russian Ruble
+dv_ISO4217-currency_numeric: 643
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: RUSSIAN FEDERATION
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Russia
+dv_has_name_en:
+  - Russian Federation
+  - Russia
+dv_has_name_es: Federación de Rusia
+dv_has_name_fr: Fédération de Russie
+dv_has_name_cn: 俄罗斯联邦
+dv_has_name_ar: الاتحاد الروسي
+dv_has_name_ru: Российская Федерация
+dv_CLDR_display_name: Russia
+dv_UNTERM_English: Russian Federation (the)
+dv_UNTERM_English_Formal: the Russian Federation
+dv_UNTERM_Spanish_Formal: la Federación de Rusia
+dv_UNTERM_Spanish: Federación de Rusia (la)
+dv_UNTERM_French: Fédération de Russie (la)
+dv_UNTERM_Arabic: الاتحاد الروسي
+dv_UNTERM_Arabic_Formal: الاتحاد الروسي
+dv_UNTERM_Chinese: 俄罗斯联邦
+dv_UNTERM_Chinese_Formal: 俄罗斯联邦
+dv_UNTERM_French_Formal: la Fédération de Russie
+dv_UNTERM_Russian: Российская Федерация
+dv_UNTERM_Russian_Formal: Российская Федерация
+dv_Region_Name: "[Europe](Europe.md)"
+dv_Intermediate_Region_Name: "[Russia](.md)"
+dv_Sub-region_Name: "[Eastern Europe](Eastern%20Europe)"
+dv_Region: 150
+dv_Sub-region: 151
+dv_Geoname-ID: 2017370
+dv_FIPS: RS
+dv_FIFA: RUS
+dv_IOC: RUS
+dv_MARC: ru
+dv_GAUL: 204
+dv_WMO: RS
+dv_ITU: RUS
+dv_DS: RUS
+dv_TLD: .ru
+dv_EDGAR: 1Z
+dv_M49: 643
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 643
+dv_ISO2: RU
+dv_ISO3: RUS
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Russia,159]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~East/Russia|Russia]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~East/Russia.public|Russia.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~East/Russia.internal|Russia.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~East/Russia.protect|Russia.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~East/Russia.private|Russia.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~East/Russia.personal|Russia.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~East/Russia.secret|Russia.secret]]"
+dv_has_name_de: Russland
+dv_Area-Total: "1.71E+07"
+dv_Area-Land: "1.69958E+07"
+dv_has_place_continent: "[Europe](Europe.md)"
+dv_Capital: "[Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City.md)"
+dv_Alcohol-l: 15.8
+dv_Language-Id: 469
+dv_is_a_: "[place](../../../Geography/Place.md)"
+dv_has_place_longitude: 47.4574
+dv_has_place_latitude: 52.6418
+dv_has_previous_item: "[[../../Asia/USSR]]"
+dv_has_telephone_prefix_country: 7
+dv_has_telephone_prefix_international:
+  - 8
+  - 9
+  - 10
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Russia,159]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~East/Russia|Russia]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~East/Russia.public|Russia.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~East/Russia.internal|Russia.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~East/Russia.protect|Russia.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~East/Russia.private|Russia.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~East/Russia.personal|Russia.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~East/Russia.secret|Russia.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Russia
+
 aliases:
   - Russia
   - Russian
@@ -872,83 +972,85 @@ official_website: http://gov.ru/
 
 # [Russia](Russia.md) 
 
-#has_/previous_item :: [[USSR]] 
+## [[Russia]] has Properties... 
 
-[	ISO4217-currency_alphabetic	 :: RUB ]
-[	ISO4217-currency_name	 :: Russian Ruble ]
-[	ISO4217-currency_numeric	 :: 643 ]
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: RUSSIAN FEDERATION ]
+has_previous_item = `=this.dv_has_previous_item`
 
-#has_/telephone_/Prefix_/country:: 7 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
+
+has_telephone_prefix_country = `=this.dv_has_telephone_prefix_country`
 #has_/telephone_/Prefix_/International :: 8,9,10  
 depending on the Provider 
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Russia ]
-[	name-en	 :: Russian Federation ]
-[	name-es	 :: Federación de Rusia ]
-[	name-fr	 :: Fédération de Russie ]
-[	name-cn	 :: 俄罗斯联邦 ]
-[	name-ar	 :: الاتحاد الروسي ]
-[	name-ru	 :: Российская Федерация ]
+name = `=this.dv_name`
+[	has_name_en	 :: Russian Federation ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Russia ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Russian Federation (the) ]
-[	UNTERM_English_Formal	 :: the Russian Federation ]
-[	UNTERM_Spanish_Formal	 :: la Federación de Rusia ]
-[	UNTERM_Spanish	 :: Federación de Rusia (la) ]
-[	UNTERM_French	 :: Fédération de Russie (la) ]
-[	UNTERM_Arabic	 :: الاتحاد الروسي ]
-[	UNTERM_Arabic_Formal	 :: الاتحاد الروسي ]
-[	UNTERM_Chinese	 :: 俄罗斯联邦 ]
-[	UNTERM_Chinese_Formal	 :: 俄罗斯联邦 ]
-[	UNTERM_French_Formal	 :: la Fédération de Russie ]
-[	UNTERM_Russian	 :: Российская Федерация ]
-[	UNTERM_Russian_Formal	 :: Российская Федерация ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [Europe](Europe.md) 
-Intermediate_Region_Name ::  [Russia](.md) 
-Sub-region_Name ::  [Eastern Europe](Eastern%20Europe) 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 151 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2017370 ]
-[	FIPS	 :: RS ]
-[	FIFA	 :: RUS ]
-[	IOC	 :: RUS ]
-[	MARC	 :: ru ]
-[	GAUL	 :: 204 ]
-[	WMO	 :: RS ]
-[	ITU	 :: RUS ]
-[	DS	 :: RUS ]
-[	TLD	 :: .ru ]
-[	EDGAR	 :: 1Z ]
-[	M49	 :: 643 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 643 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::RU]
-[ISO3::RUS] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Russia,159]]  
+is_a_ = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Russia)
 into a Subfolder named `Russia`, so that this Link into the Sub-Repository works: [[Russia/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Russia 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki!
 
@@ -1046,33 +1148,32 @@ Note: Sevastopol is recognized internationally as part of Ukraine, but it's de f
 
 ```leaflet
 id: Russia
-zoomFeatures: true 
-minZoom: 4 
+zoomFeatures: false 
+minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Russia//
 markerFolder: ./Russia////
 coordinates: [[Russia]] 
 markerFile: [[Russia]] 
-zoomFeatures: true
-defaultZoom: 4 
+defaultZoom: 3 
 ```
 
-[name-en::Russia]
-[name-de::Russland]
-[Area-Total::1.71E+07]
-[Area-Land::1.69958E+07]
-has_place_continent:: [Europe](Europe.md)  
+[has_name_en::Russia]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
-Capital :: [Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City.md)  
+Capital = `=this.dv_Capital`
 ![350](Coat_of_arms_of_Russia.svg)
 ![Anthem-Russia.mp3](../../../../../_public/xLarge.public/National-Anthem/Anthem-Russia.mp3)
 ![350](Flag_of_Russia.svg)
-[Alcohol-l::15.8]
-[Language-Id::469]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [place](../../../Geography/Place.md) 
-[has_place_longitude::47.4574]
-[has_place_latitude::52.6418]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 | Date       | Location           | Type of Infrastructure Affected | Description                                                        | Nature    |

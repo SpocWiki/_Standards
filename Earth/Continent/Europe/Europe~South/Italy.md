@@ -1,5 +1,99 @@
-﻿---
-location: [ 12.5 , 42.5 ] 
+---
+dv_has_name_: Italy
+dv_has_name_en: Italy
+dv_has_name_es: Italia
+dv_has_name_fr: Italie
+dv_has_name_cn: 意大利
+dv_has_name_ar: إيطاليا
+dv_has_name_ru: Италия
+dv_has_name_de: Italien
+dv_ISO2: IT
+dv_ISO3: ITA
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Italy,38|WD~Italy,38]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Italy.public|Italy.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Italy.internal|Italy.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Italy.protect|Italy.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Italy.private|Italy.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Italy.personal|Italy.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Italy.secret|Italy.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-France
+  image_for_:
+    flag: "![[./Flag_of_Italy.svg|200]] ![](./Flag_of_Italy.svg)"
+    coat_of_arms: "![[./Italy/Emblem_of_Italy.svg|150]] ![](./Italy/Emblem_of_Italy.svg)"
+  sound_of_:
+    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3]]"
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: ITALY
+dv_Telephone: 39
+dv_Global: true
+dv_Global_Name: World
+dv_CLDR_display_name: Italy
+dv_UNTERM_English: Italy
+dv_UNTERM_English_Formal: the Republic of Italy
+dv_UNTERM_Spanish_Formal: la República Italiana
+dv_UNTERM_Spanish: Italia
+dv_UNTERM_French: Italie (l') [fém.]
+dv_UNTERM_Arabic: إيطاليا
+dv_UNTERM_Arabic_Formal: جمهورية إيطاليا
+dv_UNTERM_Chinese: 意大利
+dv_UNTERM_Chinese_Formal: 意大利共和国
+dv_UNTERM_French_Formal: la République italienne
+dv_UNTERM_Russian: Италия
+dv_UNTERM_Russian_Formal: Итальянская Республика
+dv_Region_Name: "[[../../Europe]]"
+dv_Intermediate_Region_Name: "[[Italy]]"
+dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region: 150
+dv_Sub-region: 39
+dv_Geoname-ID: 3175395
+dv_FIPS: IT
+dv_FIFA: ITA
+dv_IOC: ITA
+dv_MARC: it
+dv_GAUL: 122
+dv_WMO: IY
+dv_ITU: I
+dv_DS: I
+dv_TLD: .it
+dv_EDGAR: L6
+dv_M49: 380
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 380
+dv_Area-Total: 301302
+dv_Area-Land: 294060
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: I
+dv_Capital: "[[Italy/Counties/Lazio/Roma/City/Roma]]"
+dv_Alcohol-l: 10.7
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 11.8169
+dv_has_place_latitude: 43.4809
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Italy,38|WD~Italy,38]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Italy|Italy]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Italy.public|Italy.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Italy.internal|Italy.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Italy.protect|Italy.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Italy.private|Italy.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Italy.personal|Italy.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Italy.secret|Italy.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-France
+dv_has_image_for_flag: "![[./Flag_of_Italy.svg|200]] ![](./Flag_of_Italy.svg)"
+dv_has_image_for_coat_of_arms: "![[./Italy/Emblem_of_Italy.svg|150]] ![](./Italy/Emblem_of_Italy.svg)"
+dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3]]"
+dv_developed_developing_countries: Developed
+
 aliases:
   - Italy
   - Italia
@@ -566,27 +660,42 @@ population: 58850717
 
 ## International Names
 
-[	name	 :: Italy ]
-[	name-en	 :: Italy ]
-[	name-es	 :: Italia ]
-[	name-fr	 :: Italie ]
-[	name-cn	 :: 意大利 ] 
-[	name-ar	 :: إيطاليا ]
-[	name-ru	 :: Италия ]
-[name-de::Italien]
+#has_/name_ = 
+name = `=this.dv_name`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+has_name_de = `=this.dv_has_name_de`
 
-[ISO2::IT] 
-[ISO3::ITA] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Italy,38|WD~Italy,38]] 
+is_a_ = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
 into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-France 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
+
+### #has_/map  
+
+```leaflet
+id: Italy
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Italy///
+markerFolder: ./Italy//
+coordinates: [[Italy]] 
+markerFile: [[Italy]] 
+defaultZoom: 5 
+```
 
 ## #has_/parts 
 
@@ -617,7 +726,7 @@ Numbers are of 2022-06
 
 ### #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./Flag_of_Italy.svg|200]] <img src="./Flag_of_Italy.svg" width="200"/> 
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 
 ## #has_/place_/city   
@@ -639,7 +748,6 @@ The population figures are based on data from 2024. ([statta.com](https://wwwtis
 
 
 ## #has_/text_of_/abstract  
-
 
 > **Italy**, officially the Italian Republic, is a country in Southern and Western Europe. 
 > It is located on a peninsula that extends into the middle of the Mediterranean Sea, 
@@ -732,89 +840,80 @@ The population figures are based on data from 2024. ([statta.com](https://wwwtis
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Italy/Emblem_of_Italy.svg|150]] <img src="./Italy/Emblem_of_Italy.svg" width="150"/> 
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
-#has_/sound_of_/anthem :: ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3]]
+has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
 
-### #has_/map  
+## [[Italy]] has Properties... 
 
-```leaflet
-id: Italy
-zoomFeatures: true 
-minZoom: 4 
-maxZoom: 18
-geojsonFolder: ./Italy///
-markerFolder: ./Italy//
-```
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: ITALY ]
+Telephone = `=this.dv_Telephone`
 
-[	Telephone	 :: 39 ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	CLDR_display_name	 :: Italy ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	UNTERM_English	 :: Italy ]
-[	UNTERM_English_Formal	 :: the Republic of Italy ]
-[	UNTERM_Spanish_Formal	 :: la República Italiana ]
-[	UNTERM_Spanish	 :: Italia ]
-[	UNTERM_French	 :: Italie (l') [fém.] ]
-[	UNTERM_Arabic	 :: إيطاليا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية إيطاليا ]
-[	UNTERM_Chinese	 :: 意大利 ]
-[	UNTERM_Chinese_Formal	 :: 意大利共和国 ]
-[	UNTERM_French_Formal	 :: la République italienne ]
-[	UNTERM_Russian	 :: Италия ]
-[	UNTERM_Russian_Formal	 :: Итальянская Республика ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Southern Europe]] 
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 39 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	Geoname-ID	 :: 3175395 ]
-[	FIPS	 :: IT ]
-[	FIFA	 :: ITA ]
-[	IOC	 :: ITA ]
-[	MARC	 :: it ]
-[	GAUL	 :: 122 ]
-[	WMO	 :: IY ]
-[	ITU	 :: I ]
-[	DS	 :: I ]
-[	TLD	 :: .it ]
-[	EDGAR	 :: L6 ]
-[	M49	 :: 380 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 380 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
-[Area-Total::301302]
-[Area-Land::294060]
-has_place_continent:: [[Europe]]  
-[VehicleCode::I]
-Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]  
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
-[Alcohol-l::10.7]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::11.8169]
-[has_place_latitude::43.4809]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

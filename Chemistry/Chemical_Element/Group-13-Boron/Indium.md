@@ -81,7 +81,7 @@ ZVG_number: 8370
 #is_/same_as :: [[../../../WikiData/WD~Indium,1094]] 
 
 [GroupName::Group-13-Boron]
-[Group:[[../Group-13-Boron]]
+Group::[[../Group-13-Boron]]
 
 
 [#has_/name_/en::Indium]
@@ -90,7 +90,7 @@ ZVG_number: 8370
 [AtomRadius::2]
 [Atom-Vol-ccm-mol::15.7]
 [Unknown2::1.44]
-[#has_/radius_/nm::5.786]
+[#has_/radius_/nano_/m::5.786]
 [Electronegative::1.8]
 [Density::7.31]
 [#has_/value_for_/temperature_/melt_/c ::156.61]

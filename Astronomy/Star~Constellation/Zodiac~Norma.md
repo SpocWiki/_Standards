@@ -38,9 +38,9 @@ official_name: Norma
 
 [SpocWebEntityId::28139]
 
-[name-la::Norma]
-[name-genitive::Normae]
-[name-de::Winkelmass]
+[#has_/name_/la::Norma]
+[#has_/name_/la_/genitive::Normae]
+[#has_/name_/de::Winkelmass]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Norma,10582]] 
 

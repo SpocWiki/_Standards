@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[WD~One_World_Trade_Center,11245]]"
+    - "[[/_Standards/Earth/Geography/Place/One World Trade Center|One World Trade Center]]"
+    - "[[/_public/Earth/Geography/Place/One World Trade Center.public|One World Trade Center.public]]"
+    - "[[/_internal/Earth/Geography/Place/One World Trade Center.internal|One World Trade Center.internal]]"
+    - "[[/_protect/Earth/Geography/Place/One World Trade Center.protect|One World Trade Center.protect]]"
+    - "[[/_private/Earth/Geography/Place/One World Trade Center.private|One World Trade Center.private]]"
+    - "[[/_personal/Earth/Geography/Place/One World Trade Center.personal|One World Trade Center.personal]]"
+    - "[[/_secret/Earth/Geography/Place/One World Trade Center.secret|One World Trade Center.secret]]"
+dv_is_same_as:
+  - "[[WD~One_World_Trade_Center,11245]]"
+  - "[[/_Standards/Earth/Geography/Place/One World Trade Center|One World Trade Center]]"
+  - "[[/_public/Earth/Geography/Place/One World Trade Center.public|One World Trade Center.public]]"
+  - "[[/_internal/Earth/Geography/Place/One World Trade Center.internal|One World Trade Center.internal]]"
+  - "[[/_protect/Earth/Geography/Place/One World Trade Center.protect|One World Trade Center.protect]]"
+  - "[[/_private/Earth/Geography/Place/One World Trade Center.private|One World Trade Center.private]]"
+  - "[[/_personal/Earth/Geography/Place/One World Trade Center.personal|One World Trade Center.personal]]"
+  - "[[/_secret/Earth/Geography/Place/One World Trade Center.secret|One World Trade Center.secret]]"
+
 has_time_started: 2014-11-03 
 aliases:
   - One WTC

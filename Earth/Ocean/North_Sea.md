@@ -1,5 +1,25 @@
-﻿---
-location: [ 3.6825 , 56.459 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~North_Sea,1693|WD~North_Sea,1693]]"
+    - "[[/_Standards/Earth/Ocean/North_Sea|North_Sea]]"
+    - "[[/_public/Earth/Ocean/North_Sea.public|North_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/North_Sea.internal|North_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/North_Sea.protect|North_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/North_Sea.private|North_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/North_Sea.personal|North_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/North_Sea.secret|North_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~North_Sea,1693|WD~North_Sea,1693]]"
+  - "[[/_Standards/Earth/Ocean/North_Sea|North_Sea]]"
+  - "[[/_public/Earth/Ocean/North_Sea.public|North_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/North_Sea.internal|North_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/North_Sea.protect|North_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/North_Sea.private|North_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/North_Sea.personal|North_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/North_Sea.secret|North_Sea.secret]]"
+
+location: [ 56.459, 3.6825 ] 
 aliases:
 has_id_wikidata: Q1693
 has_part_s_:
@@ -184,9 +204,8 @@ defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./North_Sea/
 markerFolder: ./North_Sea/
-long: 26.6
-lat: 67.8
-
+coordinates: [[North_Sea]] 
+markerFile: [[North_Sea]] 
 ```
 
 

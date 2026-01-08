@@ -93,7 +93,7 @@ ZVG_number: 8020
 #is_/same_as :: [[../../../WikiData/WD~Beryllium,569]] 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group:[[../Group-02-Earth-Alkaline]]
+Group::[[../Group-02-Earth-Alkaline]]
 
 
 [#has_/name_/de::Beryllium]
@@ -101,7 +101,7 @@ ZVG_number: 8020
 [AtomRadius::1.4]
 [Atom-Vol-ccm-mol::5.009]
 [Unknown2::0.9]
-[#has_/radius_/nm::9.322]
+[#has_/radius_/nano_/m::9.322]
 [Electronegative::1.6]
 [Density::1.85]
 [#has_/value_for_/temperature_/melt_/c ::1278]

@@ -42,6 +42,25 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Buurt-a
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shimokitazawa%20Station%20one%20week%20before%20track%20relocation%202013-03-16%20R0012271%20%288573277185%29.jpg
 described_at_URL: https://www.whosonfirst.org/docs/placetypes/#neighbourhood
 OpenStreetMap_tag: place=neighbourhood
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Neighborhood,123705]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood|Neighborhood]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.public|Neighborhood.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.internal|Neighborhood.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.protect|Neighborhood.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.private|Neighborhood.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.personal|Neighborhood.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.secret|Neighborhood.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Neighborhood,123705]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood|Neighborhood]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.public|Neighborhood.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.internal|Neighborhood.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.protect|Neighborhood.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.private|Neighborhood.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.personal|Neighborhood.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Neighborhood.secret|Neighborhood.secret]]"
 ---
 
 # [[Neighborhood]] 

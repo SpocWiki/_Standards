@@ -29,6 +29,25 @@ Krugosvet_article: Earth_sciences/geografiya/GEZER.html
 Commons_gallery: Geyser
 Commons_category: Geysers
 GeoNames_feature_code: H.GYSR
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Geyser,83471|WD~Geyser,83471]]"
+    - "[[/_Standards/Earth/Geology/Landform/Geyser|Geyser]]"
+    - "[[/_public/Earth/Geology/Landform/Geyser.public|Geyser.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Geyser.internal|Geyser.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Geyser.protect|Geyser.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Geyser.private|Geyser.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Geyser.personal|Geyser.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Geyser.secret|Geyser.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Geyser,83471|WD~Geyser,83471]]"
+  - "[[/_Standards/Earth/Geology/Landform/Geyser|Geyser]]"
+  - "[[/_public/Earth/Geology/Landform/Geyser.public|Geyser.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Geyser.internal|Geyser.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Geyser.protect|Geyser.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Geyser.private|Geyser.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Geyser.personal|Geyser.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Geyser.secret|Geyser.secret]]"
 ---
 
 # [[Geyser]] 

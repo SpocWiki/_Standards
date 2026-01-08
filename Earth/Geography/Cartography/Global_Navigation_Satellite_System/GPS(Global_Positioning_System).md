@@ -4,18 +4,18 @@ aliases:
   - GPS(Global_Positioning_System)
   - GPS(Global Positioning System)
 has_id_wikidata: Q18822
-manifestation_of: '[[_Standards/WikiData/WD~global_navigation_satellite_system,179435]]'
+manifestation_of: "[[_Standards/WikiData/WD~global_navigation_satellite_system,179435]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~global_navigation_satellite_system,179435]]'
-  - '[[_Standards/WikiData/WD~guidance_system,1707071]]'
-  - '[[_Standards/WikiData/WD~radionavigation_satellite_service,20181002]]'
+  - "[[_Standards/WikiData/WD~global_navigation_satellite_system,179435]]"
+  - "[[_Standards/WikiData/WD~guidance_system,1707071]]"
+  - "[[_Standards/WikiData/WD~radionavigation_satellite_service,20181002]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~avionics,221329]]'
-  - '[[_Standards/WikiData/WD~positioning_system,11886377]]'
-has_part_s_: '[[_Standards/WikiData/WD~GPS_satellite,1069313]]'
-has_use: '[[_Standards/WikiData/WD~geographic_location,2221906]]'
-operator: '[[_Standards/WikiData/WD~United_States_Space_Force,55088961]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+  - "[[_Standards/WikiData/WD~avionics,221329]]"
+  - "[[_Standards/WikiData/WD~positioning_system,11886377]]"
+has_part_s_: "[[_Standards/WikiData/WD~GPS_satellite,1069313]]"
+has_use: "[[_Standards/WikiData/WD~geographic_location,2221906]]"
+operator: "[[_Standards/WikiData/WD~United_States_Space_Force,55088961]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
 GitHub_topic: gps
 IMDb_keyword: gps
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/ConstellationGPS.gif
@@ -27,6 +27,25 @@ U_S_National_Archives_Identifier: 10638667
 Commons_gallery: Global Positioning System
 Commons_category: Global Positioning System
 OpenStreetMap_tag_or_key: Tag:source=GPS
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Global_Positioning_System,18822]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System)|GPS(Global_Positioning_System)]]"
+    - "[[/_public/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).public|GPS(Global_Positioning_System).public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).internal|GPS(Global_Positioning_System).internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).protect|GPS(Global_Positioning_System).protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).private|GPS(Global_Positioning_System).private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).personal|GPS(Global_Positioning_System).personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).secret|GPS(Global_Positioning_System).secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Global_Positioning_System,18822]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System)|GPS(Global_Positioning_System)]]"
+  - "[[/_public/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).public|GPS(Global_Positioning_System).public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).internal|GPS(Global_Positioning_System).internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).protect|GPS(Global_Positioning_System).protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).private|GPS(Global_Positioning_System).private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).personal|GPS(Global_Positioning_System).personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Global_Navigation_Satellite_System/GPS(Global_Positioning_System).secret|GPS(Global_Positioning_System).secret]]"
 ---
 
 # [[GPS(Global_Positioning_System)]] 

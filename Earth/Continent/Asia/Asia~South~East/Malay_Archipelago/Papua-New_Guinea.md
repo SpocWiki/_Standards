@@ -16,101 +16,186 @@ confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate: ''
+expiryDate: ""
 icon: flag-pg
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - en-PG
   - ho
   - meu
   - tpi
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -9.5
   - 147.117
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26993
 tags:
   - geo/Country
 title: Papua New Guinea
 type: Country
+dv_ISO4217-currency_alphabetic: PGK
+dv_ISO4217-currency_name: Kina
+dv_ISO4217-currency_numeric: 598
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: PAPUA NEW GUINEA
+dv_Telephone: 675
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Papua New Guinea
+dv_has_name_en:
+  - Papua New Guinea
+  - Papua New Guinea
+dv_has_name_es: Papua Nueva Guinea
+dv_has_name_fr: Papouasie-Nouvelle-Guinée
+dv_has_name_cn: 巴布亚新几内亚
+dv_has_name_ar: بابوا غينيا الجديدة
+dv_has_name_ru: Папуа-Новая Гвинея
+dv_CLDR_display_name: Papua New Guinea
+dv_UNTERM_English: Papua New Guinea
+dv_UNTERM_English_Formal: Independent State of Papua New Guinea
+dv_UNTERM_Spanish_Formal: Estado Independiente de Papua Nueva Guinea
+dv_UNTERM_Spanish: Papua Nueva Guinea
+dv_UNTERM_French: Papouasie-Nouvelle-Guinée (la)
+dv_UNTERM_Arabic: بابوا غينيا الجديدة
+dv_UNTERM_Arabic_Formal: دولة بابوا غينيا الجديدة المستقلة
+dv_UNTERM_Chinese: 巴布亚新几内亚
+dv_UNTERM_Chinese_Formal: 巴布亚新几内亚独立国
+dv_UNTERM_French_Formal: l'État indépendant de Papouasie-Nouvelle-Guinée
+dv_UNTERM_Russian: Папуа-Новая Гвинея
+dv_UNTERM_Russian_Formal: Независимое государство Папуа-Новая Гвинея
+dv_Region_Name: "[[../../../Oceania]]"
+dv_Intermediate_Region_Name: "[[Papua-New_Guinea]]"
+dv_Sub-region_Name: "[[../../../Australasia/Melanesia]]]"
+dv_Region: 9
+dv_Sub-region: 54
+dv_Geoname-ID: 2088628
+dv_FIPS: PP
+dv_FIFA: PNG
+dv_IOC: PNG
+dv_MARC: pp
+dv_GAUL: 192
+dv_WMO: NG
+dv_ITU: PNG
+dv_DS: PNG
+dv_TLD: .pg
+dv_EDGAR: R2
+dv_M49: 598
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 598
+dv_ISO2: PG
+dv_ISO3: PNG
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea|Papua-New_Guinea]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public|Papua-New_Guinea.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal|Papua-New_Guinea.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect|Papua-New_Guinea.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private|Papua-New_Guinea.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal|Papua-New_Guinea.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret|Papua-New_Guinea.secret]]"
+dv_has_name_de: Papua-Neuguinea
+dv_Area-Total: 462840
+dv_Area-Land: 452860
+dv_has_place_continent: "[[../../../Oceania]]"
+dv_VehicleCode: PNG
+dv_Capital: "[[Port_Moresby]]"
+dv_Alcohol-l: 3.5
+dv_Language-Id: 499
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 147.117
+dv_has_place_latitude: -9.5
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea|Papua-New_Guinea]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.public|Papua-New_Guinea.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal|Papua-New_Guinea.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect|Papua-New_Guinea.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private|Papua-New_Guinea.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal|Papua-New_Guinea.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret|Papua-New_Guinea.secret]]"
 ---
 
 # [[Papua-New_Guinea]] 
 
-[	ISO4217-currency_alphabetic	 :: PGK ] 
-[	ISO4217-currency_name	 :: Kina ] 
-[	ISO4217-currency_numeric	 :: 598 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: PAPUA NEW GUINEA ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 675 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Papua New Guinea ] 
-[	name-en	 :: Papua New Guinea ] 
-[	name-es	 :: Papua Nueva Guinea ] 
-[	name-fr	 :: Papouasie-Nouvelle-Guinée ] 
-[	name-cn	 :: 巴布亚新几内亚 ] 
-[	name-ar	 :: بابوا غينيا الجديدة ] 
-[	name-ru	 :: Папуа-Новая Гвинея ] 
+name = `=this.dv_name` 
+[	has_name_en	 :: Papua New Guinea ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
-[	CLDR_display_name	 :: Papua New Guinea ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Papua New Guinea ] 
-[	UNTERM_English_Formal	 :: Independent State of Papua New Guinea ] 
-[	UNTERM_Spanish_Formal	 :: Estado Independiente de Papua Nueva Guinea ] 
-[	UNTERM_Spanish	 :: Papua Nueva Guinea ] 
-[	UNTERM_French	 :: Papouasie-Nouvelle-Guinée (la) ] 
-[	UNTERM_Arabic	 :: بابوا غينيا الجديدة ] 
-[	UNTERM_Arabic_Formal	 :: دولة بابوا غينيا الجديدة المستقلة ] 
-[	UNTERM_Chinese	 :: 巴布亚新几内亚 ] 
-[	UNTERM_Chinese_Formal	 :: 巴布亚新几内亚独立国 ] 
-[	UNTERM_French_Formal	 :: l'État indépendant de Papouasie-Nouvelle-Guinée ] 
-[	UNTERM_Russian	 :: Папуа-Новая Гвинея ] 
-[	UNTERM_Russian_Formal	 :: Независимое государство Папуа-Новая Гвинея ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name :: [[../../../Australasia/Melanesia]]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 54 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 2088628 ] 
-[	FIPS	 :: PP ] 
-[	FIFA	 :: PNG ] 
-[	IOC	 :: PNG ] 
-[	MARC	 :: pp ] 
-[	GAUL	 :: 192 ] 
-[	WMO	 :: NG ] 
-[	ITU	 :: PNG ] 
-[	DS	 :: PNG ] 
-[	TLD	 :: .pg ] 
-[	EDGAR	 :: R2 ] 
-[	M49	 :: 598 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 598 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::PG] 
-[ISO3::PNG]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../../../WikiData/WD~Papua_New_Guinea,691|WD~Papua_New_Guinea,691]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
@@ -123,8 +208,8 @@ geojsonFolder: ./Papua-New_Guinea//
 markerFolder: ./Papua-New_Guinea/
 ```
 
-[name-en::Papua New Guinea] 
-[name-de::Papua-Neuguinea] 
+[has_name_en::Papua New Guinea] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Papua_New_Guinea/Emblem_of_Papua_New_Guinea.svg]] 
 
@@ -132,17 +217,17 @@ markerFolder: ./Papua-New_Guinea/
 ![[Papua_New_Guinea/Flag_of_Papua_New_Guinea.svg|350]] 
 
 
-[Area-Total::462840] 
-[Area-Land::452860] 
-has_place_continent:: [[Oceania]]  
-[VehicleCode::PNG] 
-Capital :: [[Port_Moresby]]  
-[Alcohol-l::3.5] 
-[Language-Id::499] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
-[has_place_longitude::147.117] 
-[has_place_latitude::-9.5] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

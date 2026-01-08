@@ -1,7 +1,29 @@
+---
+dv_has_:
+  created: "[[../Society/Politics/Government/Colonialism|Colonialism]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Explorer|Explorer]]"
+    - "[[/_public/Earth/Explorer.public|Explorer.public]]"
+    - "[[/_internal/Earth/Explorer.internal|Explorer.internal]]"
+    - "[[/_protect/Earth/Explorer.protect|Explorer.protect]]"
+    - "[[/_private/Earth/Explorer.private|Explorer.private]]"
+    - "[[/_personal/Earth/Explorer.personal|Explorer.personal]]"
+    - "[[/_secret/Earth/Explorer.secret|Explorer.secret]]"
+dv_has_created: "[[../Society/Politics/Government/Colonialism|Colonialism]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Explorer|Explorer]]"
+  - "[[/_public/Earth/Explorer.public|Explorer.public]]"
+  - "[[/_internal/Earth/Explorer.internal|Explorer.internal]]"
+  - "[[/_protect/Earth/Explorer.protect|Explorer.protect]]"
+  - "[[/_private/Earth/Explorer.private|Explorer.private]]"
+  - "[[/_personal/Earth/Explorer.personal|Explorer.personal]]"
+  - "[[/_secret/Earth/Explorer.secret|Explorer.secret]]"
+---
 
 # [[Explorer]] 
 
-#has_/created :: [[../Society/Politics/Government/Colonialism|Colonialism]] 
+has_created = `=this.dv_has_created`
 
 ## #has_/text_of_/abstract 
 

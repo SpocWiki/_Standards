@@ -93,7 +93,7 @@ ZVG_number:
 #is_/same_as :: [[../../../WikiData/WD~Cadmium,1091]]  
 
 [GroupName::Group-12-Zinc]
-[Group:[[../Group-12-Zinc]]
+Group::[[../Group-12-Zinc]]
 
 
 [#has_/name_/en::Cadmium]
@@ -102,7 +102,7 @@ ZVG_number:
 [AtomRadius::1.71]
 [Atom-Vol-ccm-mol::13.1]
 [Unknown2::1.48]
-[#has_/radius_/nm::8.993]
+[#has_/radius_/nano_/m::8.993]
 [Electronegative::1.7]
 [Density::8.65]
 [#has_/value_for_/temperature_/melt_/c ::320.9]

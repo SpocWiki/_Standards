@@ -33,6 +33,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Aut%C3%B3dromo%20Euseb
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Anden%20als%20Klimascheide.webm
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20for%20the%20Pampas%20region.svg
 Commons_category: Pampa fields
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Pampas,184382]]"
+    - "[[/_Standards/Earth/Continent/America~South/Southern_Cone/Pampas|Pampas]]"
+    - "[[/_public/Earth/Continent/America~South/Southern_Cone/Pampas.public|Pampas.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Southern_Cone/Pampas.internal|Pampas.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Southern_Cone/Pampas.protect|Pampas.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Southern_Cone/Pampas.private|Pampas.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Southern_Cone/Pampas.personal|Pampas.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Southern_Cone/Pampas.secret|Pampas.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Pampas,184382]]"
+  - "[[/_Standards/Earth/Continent/America~South/Southern_Cone/Pampas|Pampas]]"
+  - "[[/_public/Earth/Continent/America~South/Southern_Cone/Pampas.public|Pampas.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Southern_Cone/Pampas.internal|Pampas.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Southern_Cone/Pampas.protect|Pampas.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Southern_Cone/Pampas.private|Pampas.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Southern_Cone/Pampas.personal|Pampas.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Southern_Cone/Pampas.secret|Pampas.secret]]"
 ---
 
 # [[Pampas]] 

@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Songhai_Empire,202687|WD~Songhai_Empire,202687]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591|1464-Songhai_Empire+1591]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.public|1464-Songhai_Empire+1591.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.internal|1464-Songhai_Empire+1591.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.protect|1464-Songhai_Empire+1591.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.private|1464-Songhai_Empire+1591.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.personal|1464-Songhai_Empire+1591.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.secret|1464-Songhai_Empire+1591.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Songhai_Empire,202687|WD~Songhai_Empire,202687]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591|1464-Songhai_Empire+1591]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.public|1464-Songhai_Empire+1591.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.internal|1464-Songhai_Empire+1591.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.protect|1464-Songhai_Empire+1591.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.private|1464-Songhai_Empire+1591.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.personal|1464-Songhai_Empire+1591.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/1464-Songhai_Empire+1591.secret|1464-Songhai_Empire+1591.secret]]"
+
 has_time_started: 1464-01-01 
 has_time_stopped: 1591-03-12 
 aliases:

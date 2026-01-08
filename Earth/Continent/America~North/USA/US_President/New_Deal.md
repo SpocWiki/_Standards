@@ -1,4 +1,27 @@
-﻿---
+---
+dv_has_:
+  creator: "[[Roosevelt,Franklin_Delano]]"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~New_Deal,186356|WD~New_Deal,186356]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/New_Deal|New_Deal]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/New_Deal.public|New_Deal.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/New_Deal.internal|New_Deal.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/New_Deal.protect|New_Deal.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/New_Deal.private|New_Deal.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/New_Deal.personal|New_Deal.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/New_Deal.secret|New_Deal.secret]]"
+dv_has_creator: "[[Roosevelt,Franklin_Delano]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~New_Deal,186356|WD~New_Deal,186356]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/New_Deal|New_Deal]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/New_Deal.public|New_Deal.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/New_Deal.internal|New_Deal.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/New_Deal.protect|New_Deal.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/New_Deal.private|New_Deal.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/New_Deal.personal|New_Deal.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/New_Deal.secret|New_Deal.secret]]"
+
 has_time_started: 1933-01-01 
 has_time_stopped: 1939-01-01 
 aliases:
@@ -45,7 +68,7 @@ start_time: 1933-01-01T00:00:00Z
 
 # [[New_Deal]] 
 
-#has_/creator :: [[Roosevelt,Franklin_Delano]] 
+has_creator = `=this.dv_has_creator`
 #is_/same_as :: [[../../../../WikiData/WD~New_Deal,186356|WD~New_Deal,186356]]  
 
 ## #has_/text_of_/abstract 

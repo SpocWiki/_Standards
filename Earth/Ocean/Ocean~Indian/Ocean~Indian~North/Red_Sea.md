@@ -1,5 +1,24 @@
-﻿---
-location: [ 38.0 , 22.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Red_Sea,23406]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea|Red_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.public|Red_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.internal|Red_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.protect|Red_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.private|Red_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.personal|Red_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.secret|Red_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Red_Sea,23406]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea|Red_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.public|Red_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.internal|Red_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.protect|Red_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.private|Red_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.personal|Red_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Red_Sea.secret|Red_Sea.secret]]"
+
 aliases:
 has_id_wikidata: Q23406
 Commons_gallery: Red Sea
@@ -69,6 +88,20 @@ U_S_National_Archives_Identifier: "10046247"
 # [[Red_Sea]] 
 
 #is_/same_as :: [[WD~Red_Sea,23406]] 
+
+## #has_/map  
+
+```leaflet
+id: Red_Sea
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Red_Sea//
+markerFolder: ./Red_Sea/
+coordinates: [[Red_Sea]] 
+markerFile: [[Red_Sea]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

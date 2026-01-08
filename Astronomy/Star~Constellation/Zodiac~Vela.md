@@ -46,9 +46,9 @@ official_name: Vela
 
 [SpocWebEntityId::28167]
 
-[name-la::Vela]
-[name-genitive::Velorum]
-[name-de::Segel]
+[#has_/name_/la::Vela]
+[#has_/name_/la_/genitive::Velorum]
+[#has_/name_/de::Segel]
 
 #is_/same_as :: [[../../WikiData/WD~Vela,10521|WD~Vela,10521]] 
 

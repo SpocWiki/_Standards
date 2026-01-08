@@ -49,9 +49,9 @@ short_name: Cru
 
 [SpocWebEntityId::28112]
 
-[name-la::Crux]
-[name-genitive::Crucis]
-[name-de::Kreuz des Suedens]
+[#has_/name_/la::Crux]
+[#has_/name_/la_/genitive::Crucis]
+[#has_/name_/de::Kreuz des Suedens]
 
 #is_/same_as :: [[../../WikiData/WD~Crux,10542|WD~Crux,10542]] 
 

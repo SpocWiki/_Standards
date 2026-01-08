@@ -5,20 +5,39 @@ aliases:
   - Equator
 has_id_wikidata: Q23538
 instance_of:
-  - '[[_Standards/WikiData/WD~circle_of_latitude,146591]]'
-  - '[[_Standards/WikiData/WD~great_circle,146657]]'
-different_from: '[[_Standards/WikiData/WD~thermal_equator,545439]]'
+  - "[[_Standards/WikiData/WD~circle_of_latitude,146591]]"
+  - "[[_Standards/WikiData/WD~great_circle,146657]]"
+different_from: "[[_Standards/WikiData/WD~thermal_equator,545439]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 OmegaWiki_Defined_Meaning: 520846
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%AD%E0%A9%82-%E0%A8%AE%E0%A9%B1%E0%A8%A7%20%E0%A8%B0%E0%A9%87%E0%A8%96%E0%A8%BE.wav
 Commons_gallery: Equator
 Commons_category: Equator
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Equator,23538|WD~Equator,23538]]"
+    - "[[/_Standards/Earth/Geography/Equator|Equator]]"
+    - "[[/_public/Earth/Geography/Equator.public|Equator.public]]"
+    - "[[/_internal/Earth/Geography/Equator.internal|Equator.internal]]"
+    - "[[/_protect/Earth/Geography/Equator.protect|Equator.protect]]"
+    - "[[/_private/Earth/Geography/Equator.private|Equator.private]]"
+    - "[[/_personal/Earth/Geography/Equator.personal|Equator.personal]]"
+    - "[[/_secret/Earth/Geography/Equator.secret|Equator.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Equator,23538|WD~Equator,23538]]"
+  - "[[/_Standards/Earth/Geography/Equator|Equator]]"
+  - "[[/_public/Earth/Geography/Equator.public|Equator.public]]"
+  - "[[/_internal/Earth/Geography/Equator.internal|Equator.internal]]"
+  - "[[/_protect/Earth/Geography/Equator.protect|Equator.protect]]"
+  - "[[/_private/Earth/Geography/Equator.private|Equator.private]]"
+  - "[[/_personal/Earth/Geography/Equator.personal|Equator.personal]]"
+  - "[[/_secret/Earth/Geography/Equator.secret|Equator.secret]]"
 ---
 
 # [[Equator]] 

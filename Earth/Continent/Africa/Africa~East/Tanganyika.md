@@ -10,6 +10,30 @@ SpocWebEntityId: 76709
 tags:
   - geo/Country
 type: Country
+dv_has_name_en: Tanganyika
+dv_has_name_de: Tanganjika
+dv_has_place_continent: "[[../../Africa]]"
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 34.854
+dv_has_place_latitude: -6.307
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Tanganyika|Tanganyika]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Tanganyika.public|Tanganyika.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Tanganyika.internal|Tanganyika.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Tanganyika.protect|Tanganyika.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Tanganyika.private|Tanganyika.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Tanganyika.personal|Tanganyika.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Tanganyika.secret|Tanganyika.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Tanganyika|Tanganyika]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Tanganyika.public|Tanganyika.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Tanganyika.internal|Tanganyika.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Tanganyika.protect|Tanganyika.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Tanganyika.private|Tanganyika.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Tanganyika.personal|Tanganyika.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Tanganyika.secret|Tanganyika.secret]]"
 ---
 
 # [[Tanganyika]] 
@@ -26,19 +50,19 @@ geojsonFolder: ./Tanganyika//
 markerFolder: ./Tanganyika//
 ```
 
-[name-en::Tanganyika]
-[name-de::Tanganjika]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Africa]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
-[Language-Id::499]
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::34.854]
-[has_place_latitude::-6.307]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

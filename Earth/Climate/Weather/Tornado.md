@@ -42,6 +42,25 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Tornadoes,123154
 UMLS_CUI: C0040476
 Unicode_character: 🌪
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Tornado%20time%20lapse.webm
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Tornado,8081|WD~Tornado,8081]]"
+    - "[[/_Standards/Earth/Climate/Weather/Tornado|Tornado]]"
+    - "[[/_public/Earth/Climate/Weather/Tornado.public|Tornado.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Tornado.internal|Tornado.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Tornado.protect|Tornado.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Tornado.private|Tornado.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Tornado.personal|Tornado.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Tornado.secret|Tornado.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Tornado,8081|WD~Tornado,8081]]"
+  - "[[/_Standards/Earth/Climate/Weather/Tornado|Tornado]]"
+  - "[[/_public/Earth/Climate/Weather/Tornado.public|Tornado.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Tornado.internal|Tornado.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Tornado.protect|Tornado.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Tornado.private|Tornado.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Tornado.personal|Tornado.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Tornado.secret|Tornado.secret]]"
 ---
 
 # [[Tornado]] 🌪 

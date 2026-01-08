@@ -1,5 +1,27 @@
-﻿---
-location: [ 12.453416666 , 41.902222222 ] 
+---
+dv_"Building", "SaintPetersBasilica: 33xpq"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~St._Peter's_Basilica,12512|WD~St._Peter's_Basilica,12512]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica|St.Peter's_Basilica]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.public|St.Peter's_Basilica.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.internal|St.Peter's_Basilica.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.protect|St.Peter's_Basilica.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.private|St.Peter's_Basilica.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.personal|St.Peter's_Basilica.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.secret|St.Peter's_Basilica.secret]]"
+dv_building-saintpetersbasilica: 33xpq"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~St._Peter's_Basilica,12512|WD~St._Peter's_Basilica,12512]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica|St.Peter's_Basilica]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.public|St.Peter's_Basilica.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.internal|St.Peter's_Basilica.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.protect|St.Peter's_Basilica.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.private|St.Peter's_Basilica.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.personal|St.Peter's_Basilica.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/St.Peter's_Basilica.secret|St.Peter's_Basilica.secret]]"
+
+location: [ 41.902222222, 12.453416666 ] 
 aliases:
   - St. Peter's Basilica
   - St._Peter's_Basilica
@@ -82,7 +104,7 @@ image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Rom%20%28I
 image_of_design_plans: http://commons.wikimedia.org/wiki/Special:FilePath/StPetersplan%20OttoLeuger1904.jpg
 official_website: https://www.vatican.va/various/basiliche/san_pietro/index_it.htm
 Commons_gallery: Basilica Sancti Petri
-Wolfram_Language_entity_code: Entity["Building", "SaintPetersBasilica::33xpq"]
+Wolfram_Language_entity_code: Entity"Building", "SaintPetersBasilica = `=this.dv_"Building", "SaintPetersBasilica`
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/SV_PETRA_SOBOR.html
 Commons_category: Saint Peter's Basilica
 Commons_Institution_page: Saint Peter's Basilica
@@ -103,6 +125,20 @@ has_time_started: 1506-04-28
 #is_/same_as :: [[../../../../WikiData/WD~St._Peter's_Basilica,12512|WD~St._Peter's_Basilica,12512]] 
 
 ![[../../../../assets/St.Peter's_Basilica.png]] 
+
+## #has_/map  
+
+```leaflet
+id: St.Peter's_Basilica
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./St.Peter's_Basilica//
+markerFolder: ./St.Peter's_Basilica/
+coordinates: [[St.Peter's_Basilica]] 
+markerFile: [[St.Peter's_Basilica]] 
+defaultZoom: 15 
+```
 
 ## #has_/text_of_/abstract 
 

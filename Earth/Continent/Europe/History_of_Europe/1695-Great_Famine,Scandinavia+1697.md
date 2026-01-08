@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697|1695-Great_Famine,Scandinavia+1697]]"
+    - "[[/_public/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.public|1695-Great_Famine,Scandinavia+1697.public]]"
+    - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.internal|1695-Great_Famine,Scandinavia+1697.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.protect|1695-Great_Famine,Scandinavia+1697.protect]]"
+    - "[[/_private/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.private|1695-Great_Famine,Scandinavia+1697.private]]"
+    - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.personal|1695-Great_Famine,Scandinavia+1697.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.secret|1695-Great_Famine,Scandinavia+1697.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697|1695-Great_Famine,Scandinavia+1697]]"
+  - "[[/_public/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.public|1695-Great_Famine,Scandinavia+1697.public]]"
+  - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.internal|1695-Great_Famine,Scandinavia+1697.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.protect|1695-Great_Famine,Scandinavia+1697.protect]]"
+  - "[[/_private/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.private|1695-Great_Famine,Scandinavia+1697.private]]"
+  - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.personal|1695-Great_Famine,Scandinavia+1697.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.secret|1695-Great_Famine,Scandinavia+1697.secret]]"
+---
 
 # [[1695-Great_Famine,Scandinavia+1697]] 
 

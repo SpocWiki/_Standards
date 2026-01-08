@@ -18,6 +18,25 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Papua%20Ne
 Commons_category: Solomon Sea
 native_label: Solomon Sea
 coordinate_location: Point(152.666666666 -7.5)
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Solomon_Sea,199479|WD~Solomon_Sea,199479]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Sea|Solomon_Sea]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Sea.public|Solomon_Sea.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Sea.internal|Solomon_Sea.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Sea.protect|Solomon_Sea.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Sea.private|Solomon_Sea.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Sea.personal|Solomon_Sea.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Sea.secret|Solomon_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Solomon_Sea,199479|WD~Solomon_Sea,199479]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Sea|Solomon_Sea]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Sea.public|Solomon_Sea.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Sea.internal|Solomon_Sea.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Sea.protect|Solomon_Sea.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Sea.private|Solomon_Sea.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Sea.personal|Solomon_Sea.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Sea.secret|Solomon_Sea.secret]]"
 ---
 
 # [[Solomon_Sea]] 

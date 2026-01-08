@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef|Kingman_Reef]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.public|Kingman_Reef.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.internal|Kingman_Reef.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.protect|Kingman_Reef.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.private|Kingman_Reef.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.personal|Kingman_Reef.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.secret|Kingman_Reef.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef|Kingman_Reef]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.public|Kingman_Reef.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.internal|Kingman_Reef.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.protect|Kingman_Reef.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.private|Kingman_Reef.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.personal|Kingman_Reef.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Kingman_Reef.secret|Kingman_Reef.secret]]"
 ---
 
 # Kingman_Reef

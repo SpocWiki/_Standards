@@ -8,21 +8,44 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - campground
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_campground Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_campground Class
 type: Type
+dv_#is_:
+  sub_class_of: "[[../CivicStructure, LodgingBusiness]]"
+dv_#has_:
+  properties: "[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, audience, availableLanguage, award, awards, branchCode, branchOf, brand, checkinTime, checkoutTime, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, numberOfRooms, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, petsAllowed, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, starRating, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Campground|Campground]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Campground.public|Campground.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Campground.internal|Campground.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Campground.protect|Campground.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Campground.private|Campground.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Campground.personal|Campground.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Campground.secret|Campground.secret]]"
+dv_is_sub_class_of: "[[../CivicStructure, LodgingBusiness]]"
+dv_has_properties: "[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, audience, availableLanguage, award, awards, branchCode, branchOf, brand, checkinTime, checkoutTime, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, numberOfRooms, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, petsAllowed, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, starRating, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Campground|Campground]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Campground.public|Campground.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Campground.internal|Campground.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Campground.protect|Campground.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Campground.private|Campground.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Campground.personal|Campground.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Campground.secret|Campground.secret]]"
 ---
 
 Class of all campgrounds.
@@ -45,9 +68,9 @@ a campground may contain many campsites (source: Wikipedia, see https://en.wikip
 See also the dedicated <a href="https://schema.org/docs/hotels.html">
 document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
 
-[ #is_/sub_class_of :: [[../CivicStructure, LodgingBusiness]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, audience, availableLanguage, award, awards, branchCode, branchOf, brand, checkinTime, checkoutTime, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, numberOfRooms, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, petsAllowed, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, starRating, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
+has_properties = `=this.dv_has_properties` ]
 
 
 ## Confidential Links & Embeds: 

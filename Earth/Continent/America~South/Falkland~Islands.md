@@ -1,4 +1,38 @@
-﻿---
+---
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Falkland~Islands
+dv_ISO2: FK
+dv_ISO3: FLK
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Falkland_Islands,9648|WD~Falkland_Islands,9648]]"
+    - "[[/_Standards/Earth/Continent/America~South/Falkland~Islands|Falkland~Islands]]"
+    - "[[/_public/Earth/Continent/America~South/Falkland~Islands.public|Falkland~Islands.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Falkland~Islands.internal|Falkland~Islands.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Falkland~Islands.protect|Falkland~Islands.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Falkland~Islands.private|Falkland~Islands.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Falkland~Islands.personal|Falkland~Islands.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Falkland~Islands.secret|Falkland~Islands.secret]]"
+dv_has_name_en: Falkland Islands (Malvinas)
+dv_has_name_de: Falkland Inseln
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_has_place_continent: "[[South-America]]"
+dv_has_place_longitude: -57.85
+dv_has_place_latitude: -51.7
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Falkland~Islands
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Falkland_Islands,9648|WD~Falkland_Islands,9648]]"
+  - "[[/_Standards/Earth/Continent/America~South/Falkland~Islands|Falkland~Islands]]"
+  - "[[/_public/Earth/Continent/America~South/Falkland~Islands.public|Falkland~Islands.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Falkland~Islands.internal|Falkland~Islands.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Falkland~Islands.protect|Falkland~Islands.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Falkland~Islands.private|Falkland~Islands.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Falkland~Islands.personal|Falkland~Islands.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Falkland~Islands.secret|Falkland~Islands.secret]]"
+
 has_time_started: 1833-01-03 
 aliases:
   - Malvinas
@@ -116,12 +150,12 @@ hashtag_: falklands
 # [[Falkland~Islands]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Falkland~Islands 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Falkland~Islands/ReadMe]] 
 
-[ISO2::FK]
-[ISO3::FLK] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../WikiData/WD~Falkland_Islands,9648|WD~Falkland_Islands,9648]] 
 
@@ -136,17 +170,17 @@ geojsonFolder: ./Falkland~Islands/
 markerFolder: ./Falkland~Islands/
 ```
 
-[name-en::Falkland Islands (Malvinas)]
-[name-de::Falkland Inseln]
-[Area-Total::0]
-[Area-Land::0]
-has_place_continent:: [[South-America]]  
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 Capital :: [[Falkland~Islands/City/Stanley]]  
 [Alcohol-l::]
 [Language-Id::]
-[has_place_longitude::-57.85]
-[has_place_latitude::-51.7]
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

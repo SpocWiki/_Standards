@@ -38,7 +38,7 @@ Unicode_character: 𨧀
 #is_/same_as :: [[../../../WikiData/WD~Dubnium,1232]] 
 
 [GroupName::Group-05-Vanadium]
-[Group:[[../Group-05-Vanadium]]
+Group::[[../Group-05-Vanadium]]
 
 
 [#has_/name_/en::Dubnium]
@@ -47,7 +47,7 @@ Unicode_character: 𨧀
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[#has_/radius_/nm::0]
+[#has_/radius_/nano_/m::0]
 [Electronegative::0]
 [Density::0]
 [#has_/value_for_/temperature_/melt_/c ::0]

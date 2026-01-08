@@ -10,6 +10,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic-trench.JPG
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Tiefseegr%C3%A4ben%20Karte.png
 Commons_category: Oceanic trenches
 GeoNames_feature_code: U.TRNU
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Oceanic_trench,119253]]"
+    - "[[/_Standards/Earth/Ocean/Oceanic_Trench|Oceanic_Trench]]"
+    - "[[/_public/Earth/Ocean/Oceanic_Trench.public|Oceanic_Trench.public]]"
+    - "[[/_internal/Earth/Ocean/Oceanic_Trench.internal|Oceanic_Trench.internal]]"
+    - "[[/_protect/Earth/Ocean/Oceanic_Trench.protect|Oceanic_Trench.protect]]"
+    - "[[/_private/Earth/Ocean/Oceanic_Trench.private|Oceanic_Trench.private]]"
+    - "[[/_personal/Earth/Ocean/Oceanic_Trench.personal|Oceanic_Trench.personal]]"
+    - "[[/_secret/Earth/Ocean/Oceanic_Trench.secret|Oceanic_Trench.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Oceanic_trench,119253]]"
+  - "[[/_Standards/Earth/Ocean/Oceanic_Trench|Oceanic_Trench]]"
+  - "[[/_public/Earth/Ocean/Oceanic_Trench.public|Oceanic_Trench.public]]"
+  - "[[/_internal/Earth/Ocean/Oceanic_Trench.internal|Oceanic_Trench.internal]]"
+  - "[[/_protect/Earth/Ocean/Oceanic_Trench.protect|Oceanic_Trench.protect]]"
+  - "[[/_private/Earth/Ocean/Oceanic_Trench.private|Oceanic_Trench.private]]"
+  - "[[/_personal/Earth/Ocean/Oceanic_Trench.personal|Oceanic_Trench.personal]]"
+  - "[[/_secret/Earth/Ocean/Oceanic_Trench.secret|Oceanic_Trench.secret]]"
 ---
 
 # [[Oceanic_Trench]] 

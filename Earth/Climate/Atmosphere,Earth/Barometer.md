@@ -2,17 +2,17 @@
 aliases:
   - Barometer
 has_id_wikidata: Q79757
-measures: '[[_Standards/WikiData/WD~atmospheric_pressure,81809]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Evangelista_Torricelli,102490]]'
+measures: "[[_Standards/WikiData/WD~atmospheric_pressure,81809]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Evangelista_Torricelli,102490]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~manometer,216782]]'
-  - '[[_Standards/WikiData/WD~meteorological_instrument,3743695]]'
+  - "[[_Standards/WikiData/WD~manometer,216782]]"
+  - "[[_Standards/WikiData/WD~meteorological_instrument,3743695]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 Nomenclature_for_Museum_Cataloging: 9861
 Commons_gallery: Barometer
 image:
@@ -23,6 +23,25 @@ Iconclass_notation: 26C5
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "Barometer"]
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/BAROMETR.html
 time_of_discovery_or_invention: 1643-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Barometer,79757|WD~Barometer,79757]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Barometer|Barometer]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Barometer.public|Barometer.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Barometer.internal|Barometer.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Barometer.protect|Barometer.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Barometer.private|Barometer.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Barometer.personal|Barometer.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Barometer.secret|Barometer.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Barometer,79757|WD~Barometer,79757]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Barometer|Barometer]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Barometer.public|Barometer.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Barometer.internal|Barometer.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Barometer.protect|Barometer.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Barometer.private|Barometer.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Barometer.personal|Barometer.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Barometer.secret|Barometer.secret]]"
 ---
 
 # [[Barometer]] 

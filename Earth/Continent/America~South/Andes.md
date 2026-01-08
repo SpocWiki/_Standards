@@ -10,43 +10,62 @@ Commons_category: Andes
 Commons_gallery: Andes
 coordinate_location: Point(-66.698 -21.826)
 country:
-  - '[[_Standards/WikiData/WD~Chile,298]]'
-  - '[[_Standards/WikiData/WD~Argentina,414]]'
-  - '[[_Standards/WikiData/WD~Peru,419]]'
-  - '[[_Standards/WikiData/WD~Venezuela,717]]'
-  - '[[_Standards/WikiData/WD~Colombia,739]]'
-  - '[[_Standards/WikiData/WD~Ecuador,736]]'
-  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~Venezuela,717]]"
+  - "[[_Standards/WikiData/WD~Colombia,739]]"
+  - "[[_Standards/WikiData/WD~Ecuador,736]]"
+  - "[[_Standards/WikiData/WD~Bolivia,750]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
 elevation_above_sea_level: 6962
-highest_point: '[[_Standards/WikiData/WD~Aconcagua,39739]]'
+highest_point: "[[_Standards/WikiData/WD~Aconcagua,39739]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Andes%2070.30345W%2042.99203S.jpg
-instance_of: '[[_Standards/WikiData/WD~mountain_system,46831]]'
+instance_of: "[[_Standards/WikiData/WD~mountain_system,46831]]"
 length: 7000
 Libris_URI: ljx0z8142cqz9fx
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~South_America,18]]'
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~South_America,18]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20satellite%20plane.jpg
-mountain_range: '[[_Standards/WikiData/WD~American_Cordillera,605761]]'
+mountain_range: "[[_Standards/WikiData/WD~American_Cordillera,605761]]"
 native_label: Cordillera de los Andes
 OmegaWiki_Defined_Meaning: 155081
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Andes%20banner.jpg
-significant_event: '[[_Standards/WikiData/WD~Zonda_wind,219855]]'
+significant_event: "[[_Standards/WikiData/WD~Zonda_wind,219855]]"
 U_S_National_Archives_Identifier: 10046284
 video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Entstehung%20der%20Anden.webm
   - http://commons.wikimedia.org/wiki/Special:FilePath/Vulkanismus%20in%20den%20Anden.webm
 width: 500
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Andes,5456|WD~Andes,5456]]"
+    - "[[/_Standards/Earth/Continent/America~South/Andes|Andes]]"
+    - "[[/_public/Earth/Continent/America~South/Andes.public|Andes.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Andes.internal|Andes.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Andes.protect|Andes.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Andes.private|Andes.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Andes.personal|Andes.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Andes.secret|Andes.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Andes,5456|WD~Andes,5456]]"
+  - "[[/_Standards/Earth/Continent/America~South/Andes|Andes]]"
+  - "[[/_public/Earth/Continent/America~South/Andes.public|Andes.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Andes.internal|Andes.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Andes.protect|Andes.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Andes.private|Andes.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Andes.personal|Andes.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Andes.secret|Andes.secret]]"
 ---
 
 # [[Andes]] 

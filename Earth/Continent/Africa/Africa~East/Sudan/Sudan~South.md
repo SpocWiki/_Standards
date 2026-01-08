@@ -1,5 +1,76 @@
-﻿---
-location: [ 30.0 , 7.0 ] 
+---
+dv_ISO4217-currency_alphabetic: SSP
+dv_ISO4217-currency_name: South Sudanese Pound
+dv_ISO4217-currency_numeric: 728
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SOUTH SUDAN
+dv_Telephone: 211
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~South_Sudan,958|WD~South_Sudan,958]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South|Sudan~South]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.public|Sudan~South.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.internal|Sudan~South.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.protect|Sudan~South.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.private|Sudan~South.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.personal|Sudan~South.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.secret|Sudan~South.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Sudan-South
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: South Sudan
+dv_has_name_en: South Sudan
+dv_has_name_es: Sudán del Sur
+dv_has_name_fr: Soudan du Sud
+dv_has_name_cn: 南苏丹
+dv_has_name_ar: جنوب السودان
+dv_has_name_ru: Южный Судан
+dv_CLDR_display_name: South Sudan
+dv_UNTERM_English: South Sudan
+dv_UNTERM_English_Formal: the Republic of South Sudan
+dv_UNTERM_Spanish_Formal: la República de Sudán del Sur
+dv_UNTERM_Spanish: Sudán del Sur
+dv_UNTERM_French: Soudan du Sud (le)
+dv_UNTERM_Arabic: جنوب السودان
+dv_UNTERM_Arabic_Formal: جمهورية جنوب السودان
+dv_UNTERM_Chinese: 南苏丹
+dv_UNTERM_Chinese_Formal: 南苏丹共和国
+dv_UNTERM_French_Formal: la République du Soudan du Sud
+dv_UNTERM_Russian: Южный Судан
+dv_UNTERM_Russian_Formal: Республика Южный Судан
+dv_Region_Name: "[[../../../Africa]]"
+dv_Intermediate_Region_Name: "[[Eastern Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 14
+dv_Sub-region: 202
+dv_Geoname-ID: 7909807
+dv_FIPS: OD
+dv_MARC: sd
+dv_ITU: SSD
+dv_M49: 728
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 728
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~South_Sudan,958|WD~South_Sudan,958]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South|Sudan~South]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.public|Sudan~South.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.internal|Sudan~South.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.protect|Sudan~South.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.private|Sudan~South.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.personal|Sudan~South.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/Sudan~South.secret|Sudan~South.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Sudan-South
+dv_developed_developing_countries: Developing
+
+location: [ 7.0, 30.0] 
 aliases:
   - South Sudan
   - Sudán del Sur
@@ -355,18 +426,18 @@ Languages:
 
 # [[Sudan~South]]  
 
-[	ISO4217-currency_alphabetic	 :: SSP ]
-[	ISO4217-currency_name	 :: South Sudanese Pound ]
-[	ISO4217-currency_numeric	 :: 728 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SOUTH SUDAN ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 211 ]
+Telephone = `=this.dv_Telephone`
 
 #is_/same_as :: [[../../../../../WikiData/WD~South_Sudan,958|WD~South_Sudan,958]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Sudan-South 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Sudan~South/ReadMe]] 
 
@@ -379,63 +450,66 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Sudan~South//
 markerFolder: ./Sudan~South//
+coordinates: [[Sudan~South]] 
+markerFile: [[Sudan~South]] 
+defaultZoom: 5 
 ```
 
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: South Sudan ]
-[	name-en	 :: South Sudan ]
-[	name-es	 :: Sudán del Sur ]
-[	name-fr	 :: Soudan du Sud ]
-[	name-cn	 :: 南苏丹 ]
-[	name-ar	 :: جنوب السودان ]
-[	name-ru	 :: Южный Судан ]
+name = `=this.dv_name`
+has_name_en = `=this.dv_has_name_en`
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: South Sudan ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: South Sudan ]
-[	UNTERM_English_Formal	 :: the Republic of South Sudan ]
-[	UNTERM_Spanish_Formal	 :: la República de Sudán del Sur ]
-[	UNTERM_Spanish	 :: Sudán del Sur ]
-[	UNTERM_French	 :: Soudan du Sud (le) ]
-[	UNTERM_Arabic	 :: جنوب السودان ]
-[	UNTERM_Arabic_Formal	 :: جمهورية جنوب السودان ]
-[	UNTERM_Chinese	 :: 南苏丹 ]
-[	UNTERM_Chinese_Formal	 :: 南苏丹共和国 ]
-[	UNTERM_French_Formal	 :: la République du Soudan du Sud ]
-[	UNTERM_Russian	 :: Южный Судан ]
-[	UNTERM_Russian_Formal	 :: Республика Южный Судан ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Eastern Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 14 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 7909807 ]
-[	FIPS	 :: OD ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
 [	FIFA	 ::  ]
 [	IOC	 ::  ]
-[	MARC	 :: sd ]
+MARC = `=this.dv_MARC`
 [	GAUL	 ::  ]
 [	WMO	 ::  ]
-[	ITU	 :: SSD ]
+ITU = `=this.dv_ITU`
 [	DS	 ::  ]
 [	TLD	 ::  ]
 [	EDGAR	 ::  ]
-[	M49	 :: 728 ]
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
-[	Least_Developed_Countries	 :: x ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 728 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
 ## #has_/text_of_/abstract 

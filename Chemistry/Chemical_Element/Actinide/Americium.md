@@ -52,7 +52,7 @@ UNII: VW92PHU2UY
 
 #chemic/Element 
 [GroupName::Actinide-Group]
-[Group:[[../Actinide]]
+Group::[[../Actinide]]
 
 
 
@@ -63,7 +63,7 @@ UNII: VW92PHU2UY
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::17.86]
 [Unknown2::0]
-[#has_/radius_/nm::5.993]
+[#has_/radius_/nano_/m::5.993]
 [Electronegative::1.3]
 [Density::13.6]
 [#has_/value_for_/temperature_/melt_/c ::994]

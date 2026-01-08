@@ -7,17 +7,36 @@ aliases:
   - Puppet_State
   - Puppet State
 has_id_wikidata: Q208164
-opposite_of: '[[_Standards/WikiData/WD~great_power,185145]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~satellite_state,325261]]'
+opposite_of: "[[_Standards/WikiData/WD~great_power,185145]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~satellite_state,325261]]"
 different_from:
-  - '[[_Standards/WikiData/WD~client_state,1151405]]'
-  - '[[_Standards/WikiData/WD~vassal_state,1371288]]'
-subclass_of: '[[_Standards/WikiData/WD~client_state,1151405]]'
+  - "[[_Standards/WikiData/WD~client_state,1151405]]"
+  - "[[_Standards/WikiData/WD~vassal_state,1371288]]"
+subclass_of: "[[_Standards/WikiData/WD~client_state,1151405]]"
 facet_of:
-  - '[[_Standards/WikiData/WD~international_law,4394526]]'
-  - '[[_Standards/WikiData/WD~political_science,36442]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Puppet_ruler,7260719]]'
+  - "[[_Standards/WikiData/WD~international_law,4394526]]"
+  - "[[_Standards/WikiData/WD~political_science,36442]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Puppet_ruler,7260719]]"
 Commons_category: Puppet states
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Puppet_state,208164|WD~Puppet_state,208164]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Puppet_State|Puppet_State]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Puppet_State.public|Puppet_State.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Puppet_State.internal|Puppet_State.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Puppet_State.protect|Puppet_State.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Puppet_State.private|Puppet_State.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Puppet_State.personal|Puppet_State.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Puppet_State.secret|Puppet_State.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Puppet_state,208164|WD~Puppet_state,208164]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Puppet_State|Puppet_State]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Puppet_State.public|Puppet_State.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Puppet_State.internal|Puppet_State.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Puppet_State.protect|Puppet_State.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Puppet_State.private|Puppet_State.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Puppet_State.personal|Puppet_State.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Puppet_State.secret|Puppet_State.secret]]"
 ---
 
 # [[Puppet_State]] 

@@ -1,5 +1,42 @@
-﻿---
-location: [ 18.0 , 44.0 ] 
+---
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Bosnia_and_Herzegovina
+dv_ISO2: BA
+dv_ISO3: BIH
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Bosnia-Herzegovina,225|WD~Bosnia-Herzegovina,225]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina|Bosnia-Herzegovina]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.public|Bosnia-Herzegovina.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.internal|Bosnia-Herzegovina.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.protect|Bosnia-Herzegovina.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.private|Bosnia-Herzegovina.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.personal|Bosnia-Herzegovina.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.secret|Bosnia-Herzegovina.secret]]"
+dv_has_name_en: Bosnia and Herzegovina
+dv_has_name_de: Bosnien-Herzegowina
+dv_Area-Total: 51129
+dv_Area-Land: 51000
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: BIH
+dv_Capital: "[[geo/Continent/Europe/Europe~South/Bosnia-Herzegovina/Counties/Sarajevo]]"
+dv_Alcohol-l: 9.6
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 18.43
+dv_has_place_latitude: 43.87
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Bosnia_and_Herzegovina
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Bosnia-Herzegovina,225|WD~Bosnia-Herzegovina,225]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina|Bosnia-Herzegovina]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.public|Bosnia-Herzegovina.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.internal|Bosnia-Herzegovina.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.protect|Bosnia-Herzegovina.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.private|Bosnia-Herzegovina.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.personal|Bosnia-Herzegovina.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.secret|Bosnia-Herzegovina.secret]]"
+
 aliases:
   - Bosnia_and_Herzegovina
   - Bosnia and Herzegovina
@@ -367,47 +404,48 @@ hashtag: BosniaandHerzegovina
 # [[Bosnia-Herzegovina]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Bosnia_and_Herzegovina 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Bosnia_and_Herzegovina/ReadMe]] 
 
-SpocWebEntityId: 26841
-isDeleted: false
-confidential: public
-[ISO2::BA]
-[ISO3::BIH] 
+SpocWebEntityId:: 26841
+isDeleted:: false
+confidential:: public
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Bosnia-Herzegovina,225|WD~Bosnia-Herzegovina,225]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
-
-
 ```leaflet
 id: Bosnia and Herzegovina
-zoomFeatures: true 
-minZoom: 4 
+zoomFeatures: false 
+minZoom: 3 
 maxZoom: 18
 geojsonFolder: ./Bosnia-Herzegovina//
 markerFolder: ./Bosnia-Herzegovina//
+coordinates: [[Bosnia-Herzegovina]] 
+markerFile: [[Bosnia-Herzegovina]] 
+defaultZoom: 6 
 ```
 
-[name-en::Bosnia and Herzegovina]
-[name-de::Bosnien-Herzegowina]
-[Area-Total::51129]
-[Area-Land::51000]
-has_place_continent:: [[Europe]]  
-[VehicleCode::BIH]
-Capital :: [[geo/Continent/Europe/Europe~South/Bosnia-Herzegovina/Counties/Sarajevo]]  
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Bosnia_and_Herzegovina.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bosnia-herzegovina.mp3]]
 ![[Flag_of_Bosnia_and_Herzegovina.svg|350]]
-[Alcohol-l::9.6]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::18.43]
-[has_place_latitude::43.87]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

@@ -1,6 +1,31 @@
+---
+dv_has_:
+  time_:
+    started: 1658-10-02T00:00:00.000+00:53
+    stopped: 1742-07-30T00:00:00.000+00:53
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas|Roosevelt,Nicholas]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.public|Roosevelt,Nicholas.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.internal|Roosevelt,Nicholas.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.protect|Roosevelt,Nicholas.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.private|Roosevelt,Nicholas.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.personal|Roosevelt,Nicholas.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.secret|Roosevelt,Nicholas.secret]]"
+dv_has_time_started: 1658-10-02
+dv_has_time_stopped: 1742-07-30
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas|Roosevelt,Nicholas]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.public|Roosevelt,Nicholas.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.internal|Roosevelt,Nicholas.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.protect|Roosevelt,Nicholas.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.private|Roosevelt,Nicholas.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.personal|Roosevelt,Nicholas.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Roosevelt,Nicholas.secret|Roosevelt,Nicholas.secret]]"
+---
 
-#has_/time_/started :: 1658-10-02 
-#has_/time_/stopped :: 1742-07-30 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
 
 
 ## #has_/text_of_/abstract 

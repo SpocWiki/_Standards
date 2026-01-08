@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix|Saint_Croix]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.public|Saint_Croix.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.internal|Saint_Croix.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.protect|Saint_Croix.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.private|Saint_Croix.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.personal|Saint_Croix.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.secret|Saint_Croix.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix|Saint_Croix]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.public|Saint_Croix.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.internal|Saint_Croix.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.protect|Saint_Croix.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.private|Saint_Croix.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.personal|Saint_Croix.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_Croix.secret|Saint_Croix.secret]]"
 ---
 
 # Saint_Croix

@@ -1,5 +1,91 @@
-﻿---
-location: [ 33.0 , 35.0 ] 
+---
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Cyprus
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: CYPRUS
+dv_Telephone: 357
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Cyprus
+dv_has_name_en: Cyprus
+dv_has_name_es: Chipre
+dv_has_name_fr: Chypre
+dv_has_name_cn: 塞浦路斯
+dv_has_name_ar: قبرص
+dv_has_name_ru: Кипр
+dv_CLDR_display_name: Cyprus
+dv_UNTERM_English: Cyprus
+dv_UNTERM_English_Formal: the Republic of Cyprus
+dv_UNTERM_Spanish_Formal: la República de Chipre
+dv_UNTERM_Spanish: Chipre
+dv_UNTERM_French: Chypre [fém.]
+dv_UNTERM_Arabic: قبرص
+dv_UNTERM_Arabic_Formal: جمهورية قبرص
+dv_UNTERM_Chinese: 塞浦路斯
+dv_UNTERM_Chinese_Formal: 塞浦路斯共和国
+dv_UNTERM_French_Formal: la République de Chypre
+dv_UNTERM_Russian: Кипр
+dv_UNTERM_Russian_Formal: Республика Кипр
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Cyprus]]"
+dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region: 142
+dv_Sub-region: 145
+dv_Geoname-ID: 146669
+dv_FIPS: CY
+dv_FIFA: CYP
+dv_IOC: CYP
+dv_MARC: cy
+dv_GAUL: 64
+dv_WMO: CY
+dv_ITU: CYP
+dv_DS: CY
+dv_TLD: .cy
+dv_EDGAR: G4
+dv_M49: 196
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 196
+dv_ISO2: CY
+dv_ISO3: CYP
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Cyprus,229|WD~Cyprus,229]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus|Cyprus]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Cyprus.public|Cyprus.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Cyprus.internal|Cyprus.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Cyprus.protect|Cyprus.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Cyprus.private|Cyprus.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Cyprus.personal|Cyprus.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Cyprus.secret|Cyprus.secret]]"
+dv_has_name_de: Zypern
+dv_Area-Total: 9251
+dv_Area-Land: 9240
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: CY
+dv_Capital: "[[Cyprus/districts~Cyprus/Nicosia]]"
+dv_Alcohol-l: 9.3
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 33.4667
+dv_has_place_latitude: 35.1333
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Cyprus
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Cyprus,229|WD~Cyprus,229]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Cyprus|Cyprus]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Cyprus.public|Cyprus.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Cyprus.internal|Cyprus.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Cyprus.protect|Cyprus.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Cyprus.private|Cyprus.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Cyprus.personal|Cyprus.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Cyprus.secret|Cyprus.secret]]"
+
 aliases:
   - Cyprus
   - Chipre
@@ -358,109 +444,113 @@ icon: flag-cy
 
 # [[Cyprus]] 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Cyprus 
+## [[Cyprus]] has Properties... 
 
-[[Cyprus/ReadMe]] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: CYPRUS ]
+Telephone = `=this.dv_Telephone`
 
-[	Telephone	 :: 357 ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+name = `=this.dv_name`
+[	has_name_en	 :: Cyprus ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	name	 :: Cyprus ]
-[	name-en	 :: Cyprus ]
-[	name-es	 :: Chipre ]
-[	name-fr	 :: Chypre ]
-[	name-cn	 :: 塞浦路斯 ]
-[	name-ar	 :: قبرص ]
-[	name-ru	 :: Кипр ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	CLDR_display_name	 :: Cyprus ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	UNTERM_English	 :: Cyprus ]
-[	UNTERM_English_Formal	 :: the Republic of Cyprus ]
-[	UNTERM_Spanish_Formal	 :: la República de Chipre ]
-[	UNTERM_Spanish	 :: Chipre ]
-[	UNTERM_French	 :: Chypre [fém.] ]
-[	UNTERM_Arabic	 :: قبرص ]
-[	UNTERM_Arabic_Formal	 :: جمهورية قبرص ]
-[	UNTERM_Chinese	 :: 塞浦路斯 ]
-[	UNTERM_Chinese_Formal	 :: 塞浦路斯共和国 ]
-[	UNTERM_French_Formal	 :: la République de Chypre ]
-[	UNTERM_Russian	 :: Кипр ]
-[	UNTERM_Russian_Formal	 :: Республика Кипр ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Asia]] 
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 145 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	Geoname-ID	 :: 146669 ]
-[	FIPS	 :: CY ]
-[	FIFA	 :: CYP ]
-[	IOC	 :: CYP ]
-[	MARC	 :: cy ]
-[	GAUL	 :: 64 ]
-[	WMO	 :: CY ]
-[	ITU	 :: CYP ]
-[	DS	 :: CY ]
-[	TLD	 :: .cy ]
-[	EDGAR	 :: G4 ]
-[	M49	 :: 196 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 196 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 SpocWebEntityId: 4948
 isDeleted: false
 confidential: public
-[ISO2::CY]
-[ISO3::CYP]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
- #is_/same_as :: [[../../../../WikiData/WD~Cyprus,229|WD~Cyprus,229]] 
+is_a_ = `=this.dv_is_a_`
+
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
+
+[[Cyprus/ReadMe]] 
 
 ## #has_/map  
 
-
 ```leaflet
 id: Cyprus
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cyprus//
 markerFolder: ./Cyprus//
+coordinates: [[Cyprus]] 
+markerFile: [[Cyprus]] 
+defaultZoom: 7 
 ```
 
-[name-en::Cyprus]
-[name-de::Zypern]
+[has_name_en::Cyprus]
+has_name_de = `=this.dv_has_name_de`
 ![[Flag_of_Cyprus.svg|350]]
 
-[Area-Total::9251]
-[Area-Land::9240]
-has_place_continent:: [[Europe]]  
-[VehicleCode::CY]
-Capital :: [[Cyprus/districts~Cyprus/Nicosia]]  
-[Alcohol-l::9.3]
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::33.4667]
-[has_place_latitude::35.1333]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Hagia_Sophia,12506|WD~Hagia_Sophia,12506]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia|Hagia_Sophia]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.public|Hagia_Sophia.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.internal|Hagia_Sophia.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.protect|Hagia_Sophia.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.private|Hagia_Sophia.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.personal|Hagia_Sophia.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.secret|Hagia_Sophia.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Hagia_Sophia,12506|WD~Hagia_Sophia,12506]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia|Hagia_Sophia]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.public|Hagia_Sophia.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.internal|Hagia_Sophia.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.protect|Hagia_Sophia.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.private|Hagia_Sophia.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.personal|Hagia_Sophia.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.secret|Hagia_Sophia.secret]]"
+
 has_time_started: 0532-02-25 
-location: [ 28.98 , 41.008333333 ] 
+location: [ 41.008333333, 28.98 ] 
 aliases:
   - Hagia Sophia
   - Hagia_Sophia
@@ -87,6 +107,20 @@ P8189: 987007258064605171
 ![[../../../../assets/Hagia_Sophia.png]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Hagia_Sophia,12506|WD~Hagia_Sophia,12506]] 
+
+## #has_/map  
+
+```leaflet
+id: Hagia_Sophia
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Hagia_Sophia//
+markerFolder: ./Hagia_Sophia/
+coordinates: [[Hagia_Sophia]] 
+markerFile: [[Hagia_Sophia]] 
+defaultZoom: 12 
+```
 
 ## #has_/text_of_/abstract 
 

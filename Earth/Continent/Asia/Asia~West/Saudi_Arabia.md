@@ -1,5 +1,94 @@
-﻿---
-location: [ 44.116667 , 23.716667 ] 
+---
+dv_ISO4217-currency_alphabetic: SAR
+dv_ISO4217-currency_name: Saudi Riyal
+dv_ISO4217-currency_numeric: 682
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SAUDI ARABIA
+dv_Telephone: 966
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Saudi Arabia
+dv_has_name_en:
+  - Saudi Arabia
+  - Saudi Arabia
+dv_has_name_es: Arabia Saudita
+dv_has_name_fr: Arabie saoudite
+dv_has_name_cn: 沙特阿拉伯
+dv_has_name_ar: المملكة العربية السعودية
+dv_has_name_ru: Саудовская Аравия
+dv_CLDR_display_name: Saudi Arabia
+dv_UNTERM_English: Saudi Arabia
+dv_UNTERM_English_Formal: the Kingdom of Saudi Arabia
+dv_UNTERM_Spanish_Formal: el Reino de la Arabia Saudita
+dv_UNTERM_Spanish: Arabia Saudita (la)
+dv_UNTERM_French: Arabie saoudite (l') [fém.]
+dv_UNTERM_Arabic: المملكة العربية السعودية
+dv_UNTERM_Arabic_Formal: المملكة العربية السعودية
+dv_UNTERM_Chinese: 沙特阿拉伯
+dv_UNTERM_Chinese_Formal: 沙特阿拉伯王国
+dv_UNTERM_French_Formal: le Royaume d'Arabie saoudite
+dv_UNTERM_Russian: Саудовская Аравия
+dv_UNTERM_Russian_Formal: Королевство Саудовская Аравия
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Saudi_Arabia]]"
+dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region: 142
+dv_Sub-region: 145
+dv_Geoname-ID: 102358
+dv_FIPS: SA
+dv_FIFA: KSA
+dv_IOC: KSA
+dv_MARC: su
+dv_GAUL: 215
+dv_WMO: SD
+dv_ITU: ARS
+dv_DS: SA
+dv_TLD: .sa
+dv_EDGAR: T0
+dv_M49: 682
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 682
+dv_ISO2: SA
+dv_ISO3: SAU
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia|Saudi_Arabia]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia.public|Saudi_Arabia.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.internal|Saudi_Arabia.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia.protect|Saudi_Arabia.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia.private|Saudi_Arabia.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.personal|Saudi_Arabia.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia.secret|Saudi_Arabia.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Saudi_Arabia
+dv_has_name_de: Saudi-Arabien
+dv_Area-Total: 2240000
+dv_Area-Land: 2149690
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: KSA
+dv_Capital: "[[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]"
+dv_Alcohol-l: 0.3
+dv_Language-Id: 472
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 43.27
+dv_has_place_latitude: 23.05
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia|Saudi_Arabia]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia.public|Saudi_Arabia.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.internal|Saudi_Arabia.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia.protect|Saudi_Arabia.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia.private|Saudi_Arabia.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.personal|Saudi_Arabia.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia.secret|Saudi_Arabia.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Saudi_Arabia
+
 aliases:
   - Saudi Arabia
   - Arabia Saudita
@@ -432,76 +521,78 @@ icon: flag-sa
 
 # [[Saudi_Arabia]] 
 
-[	ISO4217-currency_alphabetic	 :: SAR ]
-[	ISO4217-currency_name	 :: Saudi Riyal ]
-[	ISO4217-currency_numeric	 :: 682 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SAUDI ARABIA ]
+## [[Saudi_Arabia]] has Properties...
 
-[	Telephone	 :: 966 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Saudi Arabia ]
-[	name-en	 :: Saudi Arabia ]
-[	name-es	 :: Arabia Saudita ]
-[	name-fr	 :: Arabie saoudite ]
-[	name-cn	 :: 沙特阿拉伯 ]
-[	name-ar	 :: المملكة العربية السعودية ]
-[	name-ru	 :: Саудовская Аравия ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Saudi Arabia ]
+name = `=this.dv_name`
+[	has_name_en	 :: Saudi Arabia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: Saudi Arabia ]
-[	UNTERM_English_Formal	 :: the Kingdom of Saudi Arabia ]
-[	UNTERM_Spanish_Formal	 :: el Reino de la Arabia Saudita ]
-[	UNTERM_Spanish	 :: Arabia Saudita (la) ]
-[	UNTERM_French	 :: Arabie saoudite (l') [fém.] ]
-[	UNTERM_Arabic	 :: المملكة العربية السعودية ]
-[	UNTERM_Arabic_Formal	 :: المملكة العربية السعودية ]
-[	UNTERM_Chinese	 :: 沙特阿拉伯 ]
-[	UNTERM_Chinese_Formal	 :: 沙特阿拉伯王国 ]
-[	UNTERM_French_Formal	 :: le Royaume d'Arabie saoudite ]
-[	UNTERM_Russian	 :: Саудовская Аравия ]
-[	UNTERM_Russian_Formal	 :: Королевство Саудовская Аравия ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Asia]] 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 145 ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 102358 ]
-[	FIPS	 :: SA ]
-[	FIFA	 :: KSA ]
-[	IOC	 :: KSA ]
-[	MARC	 :: su ]
-[	GAUL	 :: 215 ]
-[	WMO	 :: SD ]
-[	ITU	 :: ARS ]
-[	DS	 :: SA ]
-[	TLD	 :: .sa ]
-[	EDGAR	 :: T0 ]
-[	M49	 :: 682 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 682 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::SA]
-[ISO3::SAU] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Saudi_Arabia 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Saudi_Arabia/ReadMe]] 
 
@@ -515,26 +606,29 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Saudi_Arabia//
 markerFolder: ./Saudi_Arabia/
+coordinates: [[Saudi_Arabia]] 
+markerFile: [[Saudi_Arabia]] 
+defaultZoom: 5 
 ```
 
-[name-en::Saudi Arabia]
-[name-de::Saudi-Arabien]
-[Area-Total::2240000]
-[Area-Land::2149690]
-has_place_continent:: [[Asia]]  
-[VehicleCode::KSA]
-Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]  
+[has_name_en::Saudi Arabia]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Saudi_Arabia/Emblem_of_Saudi_Arabia.svg|350]]  
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Saudi-arabia.mp3]]
 ![[Saudi_Arabia/Flag_of_Saudi_Arabia.svg|350]]  
 
-[Alcohol-l::0.3]
-[Language-Id::472]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::43.27]
-[has_place_latitude::23.05]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

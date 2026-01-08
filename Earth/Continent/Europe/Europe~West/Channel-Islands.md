@@ -4,6 +4,26 @@ aliases:
 tags:
   - geo/Country
 type: Country
+dv_has_name_en: Channel Islands
+dv_has_name_de: Kanalinseln
+dv_has_place_continent: "[[../../Europe]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~West/Channel-Islands|Channel-Islands]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~West/Channel-Islands.public|Channel-Islands.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~West/Channel-Islands.internal|Channel-Islands.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~West/Channel-Islands.protect|Channel-Islands.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~West/Channel-Islands.private|Channel-Islands.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~West/Channel-Islands.personal|Channel-Islands.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~West/Channel-Islands.secret|Channel-Islands.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~West/Channel-Islands|Channel-Islands]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~West/Channel-Islands.public|Channel-Islands.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~West/Channel-Islands.internal|Channel-Islands.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~West/Channel-Islands.protect|Channel-Islands.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~West/Channel-Islands.private|Channel-Islands.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~West/Channel-Islands.personal|Channel-Islands.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~West/Channel-Islands.secret|Channel-Islands.secret]]"
 ---
 
 SpocWebEntityId: 76711
@@ -26,11 +46,11 @@ coordinates: [[Channel-Islands]]
 markerFile: [[Channel-Islands]] 
 ```
 
-[name-en::Channel Islands]
-[name-de::Kanalinseln]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Europe]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

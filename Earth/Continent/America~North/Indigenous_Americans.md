@@ -9,66 +9,66 @@ Commons_gallery: Indigenous peoples of the Americas
 Commons_category: Indigenous peoples of the Americas
 Krugosvet_article_archived_: narody-i-yazyki/indeitsy-amerikanskie
 subclass_of:
-  - '[[_Standards/WikiData/WD~indigenous_people,103817]]'
-  - '[[_Standards/WikiData/WD~Americans,2384959]]'
+  - "[[_Standards/WikiData/WD~indigenous_people,103817]]"
+  - "[[_Standards/WikiData/WD~Americans,2384959]]"
 different_from:
-  - '[[_Standards/WikiData/WD~First_Nations,392316]]'
-  - '[[_Standards/WikiData/WD~Indians,862086]]'
-  - '[[_Standards/WikiData/WD~redskin,5140747]]'
-  - '[[_Standards/WikiData/WD~Q108866854,108866854]]'
+  - "[[_Standards/WikiData/WD~First_Nations,392316]]"
+  - "[[_Standards/WikiData/WD~Indians,862086]]"
+  - "[[_Standards/WikiData/WD~redskin,5140747]]"
+  - "[[_Standards/WikiData/WD~Q108866854,108866854]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~population_group,851990]]'
-  - '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-  - '[[_Standards/WikiData/WD~ethnic_group,41710]]'
-named_after: '[[_Standards/WikiData/WD~Indians,862086]]'
+  - "[[_Standards/WikiData/WD~population_group,851990]]"
+  - "[[_Standards/WikiData/WD~group_of_humans,16334295]]"
+  - "[[_Standards/WikiData/WD~ethnic_group,41710]]"
+named_after: "[[_Standards/WikiData/WD~Indians,862086]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Indigenous_peoples_of_South_America,1479328]]'
-  - '[[_Standards/WikiData/WD~indigenous_peoples_of_the_Caribbean,4991716]]'
-  - '[[_Standards/WikiData/WD~indigenous_peoples_of_Central_America,13109203]]'
-  - '[[_Standards/WikiData/WD~indigenous_peoples_of_North_America,15571255]]'
-  - '[[_Standards/WikiData/WD~indigenous_cultures_of_the_Americas,108936685]]'
-has_list: '[[_Standards/WikiData/WD~list_of_indigenous_people_of_the_Americas,6623966]]'
+  - "[[_Standards/WikiData/WD~Indigenous_peoples_of_South_America,1479328]]"
+  - "[[_Standards/WikiData/WD~indigenous_peoples_of_the_Caribbean,4991716]]"
+  - "[[_Standards/WikiData/WD~indigenous_peoples_of_Central_America,13109203]]"
+  - "[[_Standards/WikiData/WD~indigenous_peoples_of_North_America,15571255]]"
+  - "[[_Standards/WikiData/WD~indigenous_cultures_of_the_Americas,108936685]]"
+has_list: "[[_Standards/WikiData/WD~list_of_indigenous_people_of_the_Americas,6623966]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Indigenous_peoples_of_the_Americas,8084770]]'
-  - '[[_Standards/WikiData/WD~Q25744733,25744733]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Indigenous_peoples_of_the_Americas,13360854]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Indigenous_peoples_of_the_Americas,20809420]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Amerindian_peoples,108808000]]'
+  - "[[_Standards/WikiData/WD~Template_Indigenous_peoples_of_the_Americas,8084770]]"
+  - "[[_Standards/WikiData/WD~Q25744733,25744733]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Indigenous_peoples_of_the_Americas,13360854]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Indigenous_peoples_of_the_Americas,20809420]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Amerindian_peoples,108808000]]"
 location:
-  - '[[_Standards/WikiData/WD~Chile,298]]'
-  - '[[_Standards/WikiData/WD~Argentina,414]]'
-  - '[[_Standards/WikiData/WD~Peru,419]]'
-  - '[[_Standards/WikiData/WD~Venezuela,717]]'
-  - '[[_Standards/WikiData/WD~Suriname,730]]'
-  - '[[_Standards/WikiData/WD~Paraguay,733]]'
-  - '[[_Standards/WikiData/WD~Colombia,739]]'
-  - '[[_Standards/WikiData/WD~Ecuador,736]]'
-  - '[[_Standards/WikiData/WD~Bolivia,750]]'
-  - '[[_Standards/WikiData/WD~Guatemala,774]]'
-  - '[[_Standards/WikiData/WD~The_Bahamas,778]]'
-  - '[[_Standards/WikiData/WD~El_Salvador,792]]'
-  - '[[_Standards/WikiData/WD~Costa_Rica,800]]'
-  - '[[_Standards/WikiData/WD~Panama,804]]'
-  - '[[_Standards/WikiData/WD~Nicaragua,811]]'
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Mexico,96]]'
-  - '[[_Standards/WikiData/WD~Brazil,155]]'
-  - '[[_Standards/WikiData/WD~Belize,242]]'
-  - '[[_Standards/WikiData/WD~Cuba,241]]'
-ancestral_home: '[[_Standards/WikiData/WD~Americas,828]]'
-indigenous_to: '[[_Standards/WikiData/WD~Americas,828]]'
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~Venezuela,717]]"
+  - "[[_Standards/WikiData/WD~Suriname,730]]"
+  - "[[_Standards/WikiData/WD~Paraguay,733]]"
+  - "[[_Standards/WikiData/WD~Colombia,739]]"
+  - "[[_Standards/WikiData/WD~Ecuador,736]]"
+  - "[[_Standards/WikiData/WD~Bolivia,750]]"
+  - "[[_Standards/WikiData/WD~Guatemala,774]]"
+  - "[[_Standards/WikiData/WD~The_Bahamas,778]]"
+  - "[[_Standards/WikiData/WD~El_Salvador,792]]"
+  - "[[_Standards/WikiData/WD~Costa_Rica,800]]"
+  - "[[_Standards/WikiData/WD~Panama,804]]"
+  - "[[_Standards/WikiData/WD~Nicaragua,811]]"
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Belize,242]]"
+  - "[[_Standards/WikiData/WD~Cuba,241]]"
+ancestral_home: "[[_Standards/WikiData/WD~Americas,828]]"
+indigenous_to: "[[_Standards/WikiData/WD~Americas,828]]"
 U_S_National_Archives_Identifier: 10640331
 OmegaWiki_Defined_Meaning: 1641183
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Amerindian%20girl%20holding%20her%20little%20brother.png
@@ -77,6 +77,25 @@ video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Joenia%20Wapixana%2C%20activist%20for%20the%20rights%20of%20indigenous%20communities%20%28Brazil%29.webm
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Distribution%20of%20Indigenous%20Peoples%20in%20the%20Americas.svg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Eagle%20Song%20of%20the%20Hopi%20Indians%20of%20AZ.ogg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Indigenous_peoples_of_the_Americas,36747|WD~Indigenous_peoples_of_the_Americas,36747]]"
+    - "[[/_Standards/Earth/Continent/America~North/Indigenous_Americans|Indigenous_Americans]]"
+    - "[[/_public/Earth/Continent/America~North/Indigenous_Americans.public|Indigenous_Americans.public]]"
+    - "[[/_internal/Earth/Continent/America~North/Indigenous_Americans.internal|Indigenous_Americans.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/Indigenous_Americans.protect|Indigenous_Americans.protect]]"
+    - "[[/_private/Earth/Continent/America~North/Indigenous_Americans.private|Indigenous_Americans.private]]"
+    - "[[/_personal/Earth/Continent/America~North/Indigenous_Americans.personal|Indigenous_Americans.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/Indigenous_Americans.secret|Indigenous_Americans.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Indigenous_peoples_of_the_Americas,36747|WD~Indigenous_peoples_of_the_Americas,36747]]"
+  - "[[/_Standards/Earth/Continent/America~North/Indigenous_Americans|Indigenous_Americans]]"
+  - "[[/_public/Earth/Continent/America~North/Indigenous_Americans.public|Indigenous_Americans.public]]"
+  - "[[/_internal/Earth/Continent/America~North/Indigenous_Americans.internal|Indigenous_Americans.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/Indigenous_Americans.protect|Indigenous_Americans.protect]]"
+  - "[[/_private/Earth/Continent/America~North/Indigenous_Americans.private|Indigenous_Americans.private]]"
+  - "[[/_personal/Earth/Continent/America~North/Indigenous_Americans.personal|Indigenous_Americans.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/Indigenous_Americans.secret|Indigenous_Americans.secret]]"
 ---
 # [[Indigenous_Americans]] 
 

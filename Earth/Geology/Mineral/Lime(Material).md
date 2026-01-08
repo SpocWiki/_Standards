@@ -2,6 +2,23 @@
 aliases:
   - Baukalk
   - Lime(Material)
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Geology/Mineral/Lime(Material)|Lime(Material)]]"
+    - "[[/_public/Earth/Geology/Mineral/Lime(Material).public|Lime(Material).public]]"
+    - "[[/_internal/Earth/Geology/Mineral/Lime(Material).internal|Lime(Material).internal]]"
+    - "[[/_protect/Earth/Geology/Mineral/Lime(Material).protect|Lime(Material).protect]]"
+    - "[[/_private/Earth/Geology/Mineral/Lime(Material).private|Lime(Material).private]]"
+    - "[[/_personal/Earth/Geology/Mineral/Lime(Material).personal|Lime(Material).personal]]"
+    - "[[/_secret/Earth/Geology/Mineral/Lime(Material).secret|Lime(Material).secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geology/Mineral/Lime(Material)|Lime(Material)]]"
+  - "[[/_public/Earth/Geology/Mineral/Lime(Material).public|Lime(Material).public]]"
+  - "[[/_internal/Earth/Geology/Mineral/Lime(Material).internal|Lime(Material).internal]]"
+  - "[[/_protect/Earth/Geology/Mineral/Lime(Material).protect|Lime(Material).protect]]"
+  - "[[/_private/Earth/Geology/Mineral/Lime(Material).private|Lime(Material).private]]"
+  - "[[/_personal/Earth/Geology/Mineral/Lime(Material).personal|Lime(Material).personal]]"
+  - "[[/_secret/Earth/Geology/Mineral/Lime(Material).secret|Lime(Material).secret]]"
 ---
 
 # [[Lime(Material)]] 

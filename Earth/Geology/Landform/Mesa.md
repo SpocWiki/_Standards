@@ -15,6 +15,31 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000179
 GeoNames_feature_code:
   - T.MESA
   - U.MESU
+dv_is_:
+  similar_to:
+    - "[[Plateau]]"
+    - "[[Guyot]]"
+  same_as:
+    - "[[../../../WikiData/WD~Mesa,623319]]"
+    - "[[/_Standards/Earth/Geology/Landform/Mesa|Mesa]]"
+    - "[[/_public/Earth/Geology/Landform/Mesa.public|Mesa.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Mesa.internal|Mesa.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Mesa.protect|Mesa.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Mesa.private|Mesa.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Mesa.personal|Mesa.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Mesa.secret|Mesa.secret]]"
+dv_is_similar_to:
+  - "[[Plateau]]"
+  - "[[Guyot]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Mesa,623319]]"
+  - "[[/_Standards/Earth/Geology/Landform/Mesa|Mesa]]"
+  - "[[/_public/Earth/Geology/Landform/Mesa.public|Mesa.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Mesa.internal|Mesa.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Mesa.protect|Mesa.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Mesa.private|Mesa.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Mesa.personal|Mesa.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Mesa.secret|Mesa.secret]]"
 ---
 
 # [[Mesa]] 

@@ -1,5 +1,88 @@
-﻿---
-location: [ 169.29 , 9.82 ] 
+---
+dv_ISO4217-currency_alphabetic: USD
+dv_ISO4217-currency_name: US Dollar
+dv_ISO4217-currency_numeric: 840
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: MARSHALL ISLANDS
+dv_Telephone: 692
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Marshall Islands
+dv_has_name_en:
+  - Marshall Islands
+  - Marshall Islands
+dv_has_name_es: Islas Marshall
+dv_has_name_fr: Îles Marshall
+dv_has_name_cn: 马绍尔群岛
+dv_has_name_ar: جزر مارشال
+dv_has_name_ru: Маршалловы Острова
+dv_CLDR_display_name: Marshall Islands
+dv_UNTERM_English: Marshall Islands (the)
+dv_UNTERM_English_Formal: the Republic of the Marshall Islands
+dv_UNTERM_Spanish_Formal: la República de las Islas Marshall
+dv_UNTERM_Spanish: Islas Marshall (las)
+dv_UNTERM_French: Îles Marshall (les)
+dv_UNTERM_Arabic: جزر مارشال
+dv_UNTERM_Arabic_Formal: جمهورية جزر مارشال
+dv_UNTERM_Chinese: 马绍尔群岛
+dv_UNTERM_Chinese_Formal: 马绍尔群岛共和国
+dv_UNTERM_French_Formal: la République des Îles Marshall
+dv_UNTERM_Russian: Маршалловы Острова
+dv_UNTERM_Russian_Formal: Республика Маршалловы Острова
+dv_Region_Name: "[[../../Oceania]]"
+dv_Intermediate_Region_Name: "[[Marshall_Islands]]"
+dv_Sub-region_Name: "[[../Micronesia]]"
+dv_Region: 9
+dv_Sub-region: 57
+dv_Geoname-ID: 2080185
+dv_FIPS: RM
+dv_FIFA: MHL
+dv_IOC: MSH
+dv_MARC: xe
+dv_GAUL: 157
+dv_WMO: MH
+dv_ITU: MHL
+dv_TLD: .mh
+dv_EDGAR: 1T
+dv_M49: 584
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 584
+dv_ISO2: MH
+dv_ISO3: MHL
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Marshall_Islands,709|WD~Marshall_Islands,709]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands|Marshall_Islands]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands.public|Marshall_Islands.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands.internal|Marshall_Islands.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands.protect|Marshall_Islands.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands.private|Marshall_Islands.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands.personal|Marshall_Islands.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands.secret|Marshall_Islands.secret]]"
+dv_has_name_de: Marshall-Inseln
+dv_Area-Total: 181
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Oceania]]"
+dv_VehicleCode: MH
+dv_Capital: "[[Marshall_Islands/Counties/Ratak_Chain/Majuro]]"
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 168.348
+dv_has_place_latitude: 9.34833
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Marshall_Islands,709|WD~Marshall_Islands,709]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands|Marshall_Islands]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands.public|Marshall_Islands.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands.internal|Marshall_Islands.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands.protect|Marshall_Islands.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands.private|Marshall_Islands.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands.personal|Marshall_Islands.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands.secret|Marshall_Islands.secret]]"
+
 aliases:
   - Marshall Islands
   - Islas Marshall
@@ -281,99 +364,104 @@ icon: flag-mh
 
 # [[Marshall_Islands]] 
 
-[	ISO4217-currency_alphabetic	 :: USD ] 
-[	ISO4217-currency_name	 :: US Dollar ] 
-[	ISO4217-currency_numeric	 :: 840 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: MARSHALL ISLANDS ] 
+## [[Marshall_Islands]] has Properties... 
 
-[	Telephone	 :: 692 ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Telephone = `=this.dv_Telephone` 
 
-[	name	 :: Marshall Islands ] 
-[	name-en	 :: Marshall Islands ] 
-[	name-es	 :: Islas Marshall ] 
-[	name-fr	 :: Îles Marshall ] 
-[	name-cn	 :: 马绍尔群岛 ] 
-[	name-ar	 :: جزر مارشال ] 
-[	name-ru	 :: Маршалловы Острова ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	CLDR_display_name	 :: Marshall Islands ] 
+name = `=this.dv_name` 
+[	has_name_en	 :: Marshall Islands ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
-[	UNTERM_English	 :: Marshall Islands (the) ] 
-[	UNTERM_English_Formal	 :: the Republic of the Marshall Islands ] 
-[	UNTERM_Spanish_Formal	 :: la República de las Islas Marshall ] 
-[	UNTERM_Spanish	 :: Islas Marshall (las) ] 
-[	UNTERM_French	 :: Îles Marshall (les) ] 
-[	UNTERM_Arabic	 :: جزر مارشال ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية جزر مارشال ] 
-[	UNTERM_Chinese	 :: 马绍尔群岛 ] 
-[	UNTERM_Chinese_Formal	 :: 马绍尔群岛共和国 ] 
-[	UNTERM_French_Formal	 :: la République des Îles Marshall ] 
-[	UNTERM_Russian	 :: Маршалловы Острова ] 
-[	UNTERM_Russian_Formal	 :: Республика Маршалловы Острова ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[../../Australasia/Micronesia]] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 57 ] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 2080185 ] 
-[	FIPS	 :: RM ] 
-[	FIFA	 :: MHL ] 
-[	IOC	 :: MSH ] 
-[	MARC	 :: xe ] 
-[	GAUL	 :: 157 ] 
-[	WMO	 :: MH ] 
-[	ITU	 :: MHL ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
+
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
 [	DS	 ::  ] 
-[	TLD	 :: .mh ] 
-[	EDGAR	 :: 1T ] 
-[	M49	 :: 584 ] 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 584 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::MH] 
-[ISO3::MHL]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../../WikiData/WD~Marshall_Islands,709|WD~Marshall_Islands,709]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
 ```leaflet
 id: Marshall Islands
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 2 
 defaultZoom: 11
 maxZoom: 18
 geojsonFolder: ./Marshall~Islands///
 markerFolder: ./Marshall~Islands////
+coordinates: [[Marshall_Islands]] 
+markerFile: [[Marshall_Islands]] 
+defaultZoom: 5 
 ```
 
-[name-en::Marshall Islands] 
-[name-de::Marshall-Inseln] 
-[Area-Total::181] 
-[Area-Land::0] 
-has_place_continent:: [[Oceania]]  
-[VehicleCode::MH] 
-Capital :: [[Marshall_Islands/Counties/Ratak_Chain/Majuro]]  
+[has_name_en::Marshall Islands] 
+has_name_de = `=this.dv_has_name_de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 [Alcohol-l::] 
-[Language-Id::499] 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::168.348] 
-[has_place_latitude::9.34833] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

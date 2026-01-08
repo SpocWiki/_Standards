@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island|Howland-Island]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.public|Howland-Island.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.internal|Howland-Island.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.protect|Howland-Island.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.private|Howland-Island.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.personal|Howland-Island.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.secret|Howland-Island.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island|Howland-Island]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.public|Howland-Island.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.internal|Howland-Island.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.protect|Howland-Island.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.private|Howland-Island.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.personal|Howland-Island.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.secret|Howland-Island.secret]]"
 ---
 
 # [[Howland-Island]] 

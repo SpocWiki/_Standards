@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Benelux,13116|WD~Benelux,13116]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~West/Benelux|Benelux]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~West/Benelux.public|Benelux.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~West/Benelux.internal|Benelux.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~West/Benelux.protect|Benelux.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~West/Benelux.private|Benelux.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~West/Benelux.personal|Benelux.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~West/Benelux.secret|Benelux.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Benelux,13116|WD~Benelux,13116]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~West/Benelux|Benelux]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~West/Benelux.public|Benelux.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~West/Benelux.internal|Benelux.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~West/Benelux.protect|Benelux.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~West/Benelux.private|Benelux.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~West/Benelux.personal|Benelux.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~West/Benelux.secret|Benelux.secret]]"
+
 has_time_started: 1944-09-05 
 aliases:
   - Benelux Unie

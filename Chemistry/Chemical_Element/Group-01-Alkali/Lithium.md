@@ -125,7 +125,7 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%2
 
 #chemic/Element 
 [GroupName::Group-01-Alkali]
-[Group:[[../Group-01-Alkali]]
+Group::[[../Group-01-Alkali]]
 
 
 [#has_/name_/en::Lithium]
@@ -135,7 +135,7 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%2
 [AtomRadius::2.05]
 [Atom-Vol-ccm-mol::13.1]
 [Unknown2::1.23]
-[#has_/radius_/nm::5.392]
+[#has_/radius_/nano_/m::5.392]
 [Electronegative::1]
 [Density::0.53]
 [#has_/value_for_/temperature_/melt_/c ::180.54]

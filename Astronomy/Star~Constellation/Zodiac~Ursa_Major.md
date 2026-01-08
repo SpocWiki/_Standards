@@ -79,9 +79,9 @@ short_name: UMa
 
 [SpocWebEntityId::28165]
 
-[name-la::Ursa Major]
-[name-genitive::Ursae Majoris]
-[name-de::Grosser Baer]
+[#has_/name_/la::Ursa Major]
+[#has_/name_/la_/genitive::Ursae Majoris]
+[#has_/name_/de::Grosser Baer]
 
 #is_/same_as :: [[../../WikiData/WD~Ursa_Major,8918|WD~Ursa_Major,8918]] 
 

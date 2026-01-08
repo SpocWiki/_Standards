@@ -73,7 +73,7 @@ UNSPSC_Code: 12141742
 #is_/same_as :: [[../../../WikiData/WD~Technetium,1054]] 
 
 [GroupName::Group-07-Manganese]
-[Group:[[../Group-07-Manganese]]
+Group::[[../Group-07-Manganese]]
 
 [#has_/name_/en::Technetium]
 [#has_/name_/de::Technetium]
@@ -81,7 +81,7 @@ UNSPSC_Code: 12141742
 [AtomRadius::1.95]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::1.27]
-[#has_/radius_/nm::7.28]
+[#has_/radius_/nano_/m::7.28]
 [Electronegative::1.9]
 [Density::11.5]
 [#has_/value_for_/temperature_/melt_/c ::2172]

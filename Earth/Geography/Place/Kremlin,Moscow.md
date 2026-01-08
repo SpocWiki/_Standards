@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Moscow_Kremlin,133274|WD~Moscow_Kremlin,133274]]"
+    - "[[/_Standards/Earth/Geography/Place/Kremlin,Moscow|Kremlin,Moscow]]"
+    - "[[/_public/Earth/Geography/Place/Kremlin,Moscow.public|Kremlin,Moscow.public]]"
+    - "[[/_internal/Earth/Geography/Place/Kremlin,Moscow.internal|Kremlin,Moscow.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Kremlin,Moscow.protect|Kremlin,Moscow.protect]]"
+    - "[[/_private/Earth/Geography/Place/Kremlin,Moscow.private|Kremlin,Moscow.private]]"
+    - "[[/_personal/Earth/Geography/Place/Kremlin,Moscow.personal|Kremlin,Moscow.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Kremlin,Moscow.secret|Kremlin,Moscow.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Moscow_Kremlin,133274|WD~Moscow_Kremlin,133274]]"
+  - "[[/_Standards/Earth/Geography/Place/Kremlin,Moscow|Kremlin,Moscow]]"
+  - "[[/_public/Earth/Geography/Place/Kremlin,Moscow.public|Kremlin,Moscow.public]]"
+  - "[[/_internal/Earth/Geography/Place/Kremlin,Moscow.internal|Kremlin,Moscow.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Kremlin,Moscow.protect|Kremlin,Moscow.protect]]"
+  - "[[/_private/Earth/Geography/Place/Kremlin,Moscow.private|Kremlin,Moscow.private]]"
+  - "[[/_personal/Earth/Geography/Place/Kremlin,Moscow.personal|Kremlin,Moscow.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Kremlin,Moscow.secret|Kremlin,Moscow.secret]]"
+
 has_time_started: 1420-01-01 
-location: [ 37.617777777 , 55.751666666 ] 
+location: [ 55.751666666, 37.617777777 ] 
 aliases:
   - Kreml
   - Kremlin
@@ -58,6 +78,20 @@ native_label: Московский Кремль
 ![[../../../assets/Kremlin,Moscow,Russia.png]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Moscow_Kremlin,133274|WD~Moscow_Kremlin,133274]] 
+
+## #has_/map  
+
+```leaflet
+id: Kremlin,Moscow
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Kremlin,Moscow//
+markerFolder: ./Kremlin,Moscow/
+coordinates: [[Kremlin,Moscow]] 
+markerFile: [[Kremlin,Moscow]] 
+defaultZoom: 15 
+```
 
 ## #has_/text_of_/abstract 
 

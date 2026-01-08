@@ -1,5 +1,25 @@
-﻿---
-location: [ 31.0 , 49.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~East|Europe~East]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~East.public|Europe~East.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~East.internal|Europe~East.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~East.protect|Europe~East.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~East.private|Europe~East.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~East.personal|Europe~East.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~East.secret|Europe~East.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~East|Europe~East]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~East.public|Europe~East.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~East.internal|Europe~East.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~East.protect|Europe~East.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~East.private|Europe~East.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~East.personal|Europe~East.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~East.secret|Europe~East.secret]]"
+
+location: [ 49.0, 31.0 ] 
 aliases:
   - East Europe
   - Eastern Europe
@@ -66,11 +86,14 @@ subreddit: easterneurope
 
 ```leaflet
 id: Austria
-zoomFeatures: true 
-minZoom: 4 
+zoomFeatures: false 
+minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Europe~East//
 markerFolder: ./Europe~East/
+coordinates: [[Europe~East]] 
+markerFile: [[Europe~East]] 
+defaultZoom: 4 
 ```
 
 ## #has_/text_of_/abstract 

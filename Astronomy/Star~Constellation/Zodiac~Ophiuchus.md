@@ -59,9 +59,9 @@ short_name: Oph
 
 [SpocWebEntityId::28141]
 
-[name-la::Ophiuchus]
-[name-genitive::Ophiuchi]
-[name-de::Schlangentraeger]
+[#has_/name_/la::Ophiuchus]
+[#has_/name_/la_/genitive::Ophiuchi]
+[#has_/name_/de::Schlangentraeger]
 
 #is_/same_as :: [[../../WikiData/WD~Ophiuchus,8906|WD~Ophiuchus,8906]] 
 

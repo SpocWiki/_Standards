@@ -5,13 +5,32 @@ aliases:
   - Geostationary Orbit
 has_id_wikidata: Q192316
 subclass_of:
-  - '[[_Standards/WikiData/WD~geosynchronous_orbit,472251]]'
-  - '[[_Standards/WikiData/WD~stationary_orbit,7604345]]'
-part_of: '[[_Standards/WikiData/WD~outer_space,4169]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2]]'
+  - "[[_Standards/WikiData/WD~geosynchronous_orbit,472251]]"
+  - "[[_Standards/WikiData/WD~stationary_orbit,7604345]]"
+part_of: "[[_Standards/WikiData/WD~outer_space,4169]]"
+parent_astronomical_body: "[[_Standards/WikiData/WD~Earth,2]]"
 short_name: GEO
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Geostationaryjava3D.gif
 Commons_category: Geostationary orbit
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Geostationary_orbit,192316]]"
+    - "[[/_Standards/Earth/Geostationary_Orbit|Geostationary_Orbit]]"
+    - "[[/_public/Earth/Geostationary_Orbit.public|Geostationary_Orbit.public]]"
+    - "[[/_internal/Earth/Geostationary_Orbit.internal|Geostationary_Orbit.internal]]"
+    - "[[/_protect/Earth/Geostationary_Orbit.protect|Geostationary_Orbit.protect]]"
+    - "[[/_private/Earth/Geostationary_Orbit.private|Geostationary_Orbit.private]]"
+    - "[[/_personal/Earth/Geostationary_Orbit.personal|Geostationary_Orbit.personal]]"
+    - "[[/_secret/Earth/Geostationary_Orbit.secret|Geostationary_Orbit.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Geostationary_orbit,192316]]"
+  - "[[/_Standards/Earth/Geostationary_Orbit|Geostationary_Orbit]]"
+  - "[[/_public/Earth/Geostationary_Orbit.public|Geostationary_Orbit.public]]"
+  - "[[/_internal/Earth/Geostationary_Orbit.internal|Geostationary_Orbit.internal]]"
+  - "[[/_protect/Earth/Geostationary_Orbit.protect|Geostationary_Orbit.protect]]"
+  - "[[/_private/Earth/Geostationary_Orbit.private|Geostationary_Orbit.private]]"
+  - "[[/_personal/Earth/Geostationary_Orbit.personal|Geostationary_Orbit.personal]]"
+  - "[[/_secret/Earth/Geostationary_Orbit.secret|Geostationary_Orbit.secret]]"
 ---
 
 # [[Geostationary_Orbit]] 

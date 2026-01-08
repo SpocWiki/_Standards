@@ -1,5 +1,24 @@
-﻿---
-location: [ 40.0 , 75.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Barents_Sea,45823|WD~Barents_Sea,45823]]"
+    - "[[/_Standards/Earth/Ocean/North_Sea/Barents_Sea|Barents_Sea]]"
+    - "[[/_public/Earth/Ocean/North_Sea/Barents_Sea.public|Barents_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/North_Sea/Barents_Sea.internal|Barents_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/North_Sea/Barents_Sea.protect|Barents_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/North_Sea/Barents_Sea.private|Barents_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/North_Sea/Barents_Sea.personal|Barents_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/North_Sea/Barents_Sea.secret|Barents_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Barents_Sea,45823|WD~Barents_Sea,45823]]"
+  - "[[/_Standards/Earth/Ocean/North_Sea/Barents_Sea|Barents_Sea]]"
+  - "[[/_public/Earth/Ocean/North_Sea/Barents_Sea.public|Barents_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/North_Sea/Barents_Sea.internal|Barents_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/North_Sea/Barents_Sea.protect|Barents_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/North_Sea/Barents_Sea.private|Barents_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/North_Sea/Barents_Sea.personal|Barents_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/North_Sea/Barents_Sea.secret|Barents_Sea.secret]]"
+
 aliases:
   - Barents_Sea
   - Barents Sea
@@ -98,6 +117,20 @@ P8189: 987007283153005200
 # [[Barents_Sea]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Barents_Sea,45823|WD~Barents_Sea,45823]] 
+
+## #has_/map  
+
+```leaflet
+id: Barents_Sea
+zoomFeatures: false 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Barents_Sea//
+markerFolder: ./Barents_Sea/
+coordinates: [[Barents_Sea]] 
+markerFile: [[Barents_Sea]] 
+defaultZoom: 3 
+```
 
 ## #has_/text_of_/abstract 
 

@@ -12,13 +12,50 @@ SpocWebEntityId: 27061
 tags:
   - geo/Country
 type: Country
+dv_has_:
+  time_:
+    started: 1918-12-01T00:00:00.000+01:00
+    stopped: 1992-04-27T00:00:00.000+02:00
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Yugoslavia,36704|WD~Yugoslavia,36704]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Yugoslavia|Yugoslavia]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Yugoslavia.public|Yugoslavia.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Yugoslavia.internal|Yugoslavia.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Yugoslavia.protect|Yugoslavia.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Yugoslavia.private|Yugoslavia.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Yugoslavia.personal|Yugoslavia.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret|Yugoslavia.secret]]"
+dv_ISO2: YU
+dv_ISO3: YUG
+dv_has_name_en: Yugoslavia
+dv_has_name_de: Jugoslawien
+dv_Area-Total: 102173
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: YU
+dv_Capital: "[[Serbia/districts~Serbia/Beograd]]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 17.6905
+dv_has_place_latitude: 43.9957
+dv_has_time_started: 1918-12-01
+dv_has_time_stopped: 1992-04-27
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Yugoslavia,36704|WD~Yugoslavia,36704]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Yugoslavia|Yugoslavia]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Yugoslavia.public|Yugoslavia.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Yugoslavia.internal|Yugoslavia.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Yugoslavia.protect|Yugoslavia.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Yugoslavia.private|Yugoslavia.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Yugoslavia.personal|Yugoslavia.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret|Yugoslavia.secret]]"
 ---
 
 # [[Yugoslavia]] 
 
-#has_/time_/started :: 1918-12-01 
-#has_/time_/stopped  :: 1992-04-27 
-#is_/same_as :: [[../../../../WikiData/WD~Yugoslavia,36704|WD~Yugoslavia,36704]] 
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract  
 
@@ -50,8 +87,8 @@ these major Groups were fighting and splitting after the Yugoslav Wars
 - [[Croats]] Roman Catholic 
 - [[Bosniaks]] Muslim 
 
-[ISO2::YU]
-[ISO3::YUG]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 ```leaflet
 id: Yugoslavia
 zoomFeatures: true 
@@ -61,19 +98,19 @@ geojsonFolder: ./Serbia//
 markerFolder: ./Serbia//
 ```
 
-[name-en::Yugoslavia]
-[name-de::Jugoslawien]
-[Area-Total::102173]
-[Area-Land::0]
-has_place_continent:: [[Europe]]  
-[VehicleCode::YU]
-Capital ::[[Serbia/districts~Serbia/Beograd]]]  
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::17.6905]
-[has_place_latitude::43.9957]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

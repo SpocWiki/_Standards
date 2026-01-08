@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~European_Club_Association,841054|WD~European_Club_Association,841054]]"
+    - "[[/_Standards/Earth/Continent/Europe/European_Club_Association|European_Club_Association]]"
+    - "[[/_public/Earth/Continent/Europe/European_Club_Association.public|European_Club_Association.public]]"
+    - "[[/_internal/Earth/Continent/Europe/European_Club_Association.internal|European_Club_Association.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/European_Club_Association.protect|European_Club_Association.protect]]"
+    - "[[/_private/Earth/Continent/Europe/European_Club_Association.private|European_Club_Association.private]]"
+    - "[[/_personal/Earth/Continent/Europe/European_Club_Association.personal|European_Club_Association.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/European_Club_Association.secret|European_Club_Association.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~European_Club_Association,841054|WD~European_Club_Association,841054]]"
+  - "[[/_Standards/Earth/Continent/Europe/European_Club_Association|European_Club_Association]]"
+  - "[[/_public/Earth/Continent/Europe/European_Club_Association.public|European_Club_Association.public]]"
+  - "[[/_internal/Earth/Continent/Europe/European_Club_Association.internal|European_Club_Association.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/European_Club_Association.protect|European_Club_Association.protect]]"
+  - "[[/_private/Earth/Continent/Europe/European_Club_Association.private|European_Club_Association.private]]"
+  - "[[/_personal/Earth/Continent/Europe/European_Club_Association.personal|European_Club_Association.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/European_Club_Association.secret|European_Club_Association.secret]]"
+
 has_time_started: 2008-01-01 
 aliases:
   - European Club Association

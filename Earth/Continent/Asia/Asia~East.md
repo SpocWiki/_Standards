@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East|Asia~East]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East.public|Asia~East.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East.internal|Asia~East.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East.protect|Asia~East.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East.private|Asia~East.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East.personal|Asia~East.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East.secret|Asia~East.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East|Asia~East]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East.public|Asia~East.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East.internal|Asia~East.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East.protect|Asia~East.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East.private|Asia~East.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East.personal|Asia~East.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East.secret|Asia~East.secret]]"
+---
 
 
 ```leaflet

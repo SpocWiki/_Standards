@@ -1,8 +1,25 @@
 ---
 aliases:
   - _Asia-CountryDb
-  - ' Asia-CountryDb'
+  - " Asia-CountryDb"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/_Asia-CountryDb|_Asia-CountryDb]]"
+    - "[[/_public/Earth/Continent/Asia/_Asia-CountryDb.public|_Asia-CountryDb.public]]"
+    - "[[/_internal/Earth/Continent/Asia/_Asia-CountryDb.internal|_Asia-CountryDb.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/_Asia-CountryDb.protect|_Asia-CountryDb.protect]]"
+    - "[[/_private/Earth/Continent/Asia/_Asia-CountryDb.private|_Asia-CountryDb.private]]"
+    - "[[/_personal/Earth/Continent/Asia/_Asia-CountryDb.personal|_Asia-CountryDb.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/_Asia-CountryDb.secret|_Asia-CountryDb.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/_Asia-CountryDb|_Asia-CountryDb]]"
+  - "[[/_public/Earth/Continent/Asia/_Asia-CountryDb.public|_Asia-CountryDb.public]]"
+  - "[[/_internal/Earth/Continent/Asia/_Asia-CountryDb.internal|_Asia-CountryDb.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/_Asia-CountryDb.protect|_Asia-CountryDb.protect]]"
+  - "[[/_private/Earth/Continent/Asia/_Asia-CountryDb.private|_Asia-CountryDb.private]]"
+  - "[[/_personal/Earth/Continent/Asia/_Asia-CountryDb.personal|_Asia-CountryDb.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/_Asia-CountryDb.secret|_Asia-CountryDb.secret]]"
 ---
 
 ```yaml:dbfolder
@@ -261,12 +278,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  name-en:
+  has_name_en:
     input: text
-    accessorKey: name-en
-    label: name-en
-    key: name-en
-    id: name-en
+    accessorKey: has_name_en
+    label: has_name_en
+    key: has_name_en
+    id: has_name_en
     position: 14
     skipPersist: false
     isHidden: false
@@ -280,12 +297,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  name-de:
+  has_name_de:
     input: text
-    accessorKey: name-de
-    label: name-de
-    key: name-de
-    id: name-de
+    accessorKey: has_name_de
+    label: has_name_de
+    key: has_name_de
+    id: has_name_de
     position: 15
     skipPersist: false
     isHidden: false

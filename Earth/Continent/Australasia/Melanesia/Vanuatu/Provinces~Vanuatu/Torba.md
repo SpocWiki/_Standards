@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -14.2
   - 167.5
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Torba
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba|Torba]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.public|Torba.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.internal|Torba.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.protect|Torba.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.private|Torba.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.personal|Torba.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.secret|Torba.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba|Torba]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.public|Torba.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.internal|Torba.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.protect|Torba.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.private|Torba.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.personal|Torba.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.secret|Torba.secret]]"
 ---
 
 # Torba

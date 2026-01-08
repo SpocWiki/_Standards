@@ -336,80 +336,167 @@ publishDate: ""
 expiryDate: ""
 Languages:
   - en-LR
+dv_ISO4217-currency_alphabetic: LRD
+dv_ISO4217-currency_name: Liberian Dollar
+dv_ISO4217-currency_numeric: 430
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: LIBERIA
+dv_Telephone: 231
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Liberia
+dv_has_name_en: Liberia
+dv_has_name_es: Liberia
+dv_has_name_fr: Libéria
+dv_has_name_cn: 利比里亚
+dv_has_name_ar: ليبريا
+dv_has_name_ru: Либерия
+dv_CLDR_display_name: Liberia
+dv_UNTERM_English: Liberia
+dv_UNTERM_English_Formal: the Republic of Liberia
+dv_UNTERM_Spanish_Formal: la República de Liberia
+dv_UNTERM_Spanish: Liberia
+dv_UNTERM_French: Libéria (le)
+dv_UNTERM_Arabic: ليبريا
+dv_UNTERM_Arabic_Formal: جمهورية ليبريا
+dv_UNTERM_Chinese: 利比里亚
+dv_UNTERM_Chinese_Formal: 利比里亚共和国
+dv_UNTERM_French_Formal: la République du Libéria
+dv_UNTERM_Russian: Либерия
+dv_UNTERM_Russian_Formal: Республика Либерия
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 2275384
+dv_FIPS: LI
+dv_FIFA: LBR
+dv_IOC: LBR
+dv_MARC: lb
+dv_GAUL: 144
+dv_WMO: LI
+dv_ITU: LBR
+dv_DS: LB
+dv_TLD: .lr
+dv_EDGAR: N0
+dv_M49: 430
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 430
+dv_ISO2: LR
+dv_ISO3: LBR
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Liberia,1014|WD~Liberia,1014]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Liberia|Liberia]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Liberia.public|Liberia.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Liberia.internal|Liberia.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Liberia.protect|Liberia.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Liberia.private|Liberia.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Liberia.personal|Liberia.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret|Liberia.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Liberia
+dv_has_name_de: Liberia
+dv_Area-Total: 97754
+dv_Area-Land: 96750
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: LB
+dv_Alcohol-l: 5.1
+dv_Language-Id: 499
+dv_has_place_longitude: -10.8
+dv_has_place_latitude: 6.31667
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Liberia,1014|WD~Liberia,1014]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Liberia|Liberia]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Liberia.public|Liberia.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Liberia.internal|Liberia.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Liberia.protect|Liberia.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Liberia.private|Liberia.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Liberia.personal|Liberia.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret|Liberia.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Liberia
 ---
 
 # [[Liberia]] 
 
-[	ISO4217-currency_alphabetic	 :: LRD ]
-[	ISO4217-currency_name	 :: Liberian Dollar ]
-[	ISO4217-currency_numeric	 :: 430 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: LIBERIA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 231 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Liberia ]
-[	name-en	 :: Liberia ]
-[	name-es	 :: Liberia ]
-[	name-fr	 :: Libéria ]
-[	name-cn	 :: 利比里亚 ]
-[	name-ar	 :: ليبريا ]
-[	name-ru	 :: Либерия ]
+name = `=this.dv_name`
+[	has_name_en	 :: Liberia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Liberia ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Liberia ]
-[	UNTERM_English_Formal	 :: the Republic of Liberia ]
-[	UNTERM_Spanish_Formal	 :: la República de Liberia ]
-[	UNTERM_Spanish	 :: Liberia ]
-[	UNTERM_French	 :: Libéria (le) ]
-[	UNTERM_Arabic	 :: ليبريا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية ليبريا ]
-[	UNTERM_Chinese	 :: 利比里亚 ]
-[	UNTERM_Chinese_Formal	 :: 利比里亚共和国 ]
-[	UNTERM_French_Formal	 :: la République du Libéria ]
-[	UNTERM_Russian	 :: Либерия ]
-[	UNTERM_Russian_Formal	 :: Республика Либерия ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2275384 ]
-[	FIPS	 :: LI ]
-[	FIFA	 :: LBR ]
-[	IOC	 :: LBR ]
-[	MARC	 :: lb ]
-[	GAUL	 :: 144 ]
-[	WMO	 :: LI ]
-[	ITU	 :: LBR ]
-[	DS	 :: LB ]
-[	TLD	 :: .lr ]
-[	EDGAR	 :: N0 ]
-[	M49	 :: 430 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 430 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::LR]
-[ISO3::LBR]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
 #is_/same_as :: [[../../../../WikiData/WD~Liberia,1014|WD~Liberia,1014]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Liberia 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Liberia/ReadMe]] 
 
@@ -427,12 +514,12 @@ coordinates: [[Liberia]]
 markerFile: [[Liberia]] 
 ```
 
-[name-en::Liberia]
-[name-de::Liberia]
-[Area-Total::97754]
-[Area-Land::96750]
-has_place_continent:: [[Africa]]  
-[VehicleCode::LB]
+[has_name_en::Liberia]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia]]  
 
 ![[Coat_of_arms_of_Liberia.svg|350]]
@@ -441,10 +528,10 @@ Capital :: [[Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_M
 
 ![[Flag_of_Liberia.svg|350]]
 
-[Alcohol-l::5.1]
-[Language-Id::499]
-[has_place_longitude::-10.8]
-[has_place_latitude::6.31667]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/text_of_/abstract 
 

@@ -6,18 +6,18 @@ aliases:
   - Taiga
 has_id_wikidata: Q69564
 instance_of:
-  - '[[_Standards/WikiData/WD~biome,101998]]'
-  - '[[_Standards/WikiData/WD~vegetational_formation,2083910]]'
-  - '[[_Standards/WikiData/WD~WWF_biome,119820518]]'
-  - '[[_Standards/WikiData/WD~ecosystem,37813]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-subclass_of: '[[_Standards/WikiData/WD~forest,4421]]'
+  - "[[_Standards/WikiData/WD~biome,101998]]"
+  - "[[_Standards/WikiData/WD~vegetational_formation,2083910]]"
+  - "[[_Standards/WikiData/WD~WWF_biome,119820518]]"
+  - "[[_Standards/WikiData/WD~ecosystem,37813]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+subclass_of: "[[_Standards/WikiData/WD~forest,4421]]"
 continent:
-  - '[[_Standards/WikiData/WD~South_America,18]]'
-  - '[[_Standards/WikiData/WD~Europe,46]]'
-  - '[[_Standards/WikiData/WD~Asia,48]]'
-  - '[[_Standards/WikiData/WD~North_America,49]]'
+  - "[[_Standards/WikiData/WD~South_America,18]]"
+  - "[[_Standards/WikiData/WD~Europe,46]]"
+  - "[[_Standards/WikiData/WD~Asia,48]]"
+  - "[[_Standards/WikiData/WD~North_America,49]]"
 OmegaWiki_Defined_Meaning: 1459570
 Commons_category: Taiga
 locator_map_image:
@@ -29,6 +29,25 @@ UMLS_CUI: C3850011
 MeSH_tree_code:
   - G16.500.275.157.437.750
   - N06.230.124.343.750
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Taiga,69564|WD~Taiga,69564]]"
+    - "[[/_Standards/Earth/Climate/Biosphere/Biome/Taiga|Taiga]]"
+    - "[[/_public/Earth/Climate/Biosphere/Biome/Taiga.public|Taiga.public]]"
+    - "[[/_internal/Earth/Climate/Biosphere/Biome/Taiga.internal|Taiga.internal]]"
+    - "[[/_protect/Earth/Climate/Biosphere/Biome/Taiga.protect|Taiga.protect]]"
+    - "[[/_private/Earth/Climate/Biosphere/Biome/Taiga.private|Taiga.private]]"
+    - "[[/_personal/Earth/Climate/Biosphere/Biome/Taiga.personal|Taiga.personal]]"
+    - "[[/_secret/Earth/Climate/Biosphere/Biome/Taiga.secret|Taiga.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Taiga,69564|WD~Taiga,69564]]"
+  - "[[/_Standards/Earth/Climate/Biosphere/Biome/Taiga|Taiga]]"
+  - "[[/_public/Earth/Climate/Biosphere/Biome/Taiga.public|Taiga.public]]"
+  - "[[/_internal/Earth/Climate/Biosphere/Biome/Taiga.internal|Taiga.internal]]"
+  - "[[/_protect/Earth/Climate/Biosphere/Biome/Taiga.protect|Taiga.protect]]"
+  - "[[/_private/Earth/Climate/Biosphere/Biome/Taiga.private|Taiga.private]]"
+  - "[[/_personal/Earth/Climate/Biosphere/Biome/Taiga.personal|Taiga.personal]]"
+  - "[[/_secret/Earth/Climate/Biosphere/Biome/Taiga.secret|Taiga.secret]]"
 ---
 
 # [[Taiga]] 

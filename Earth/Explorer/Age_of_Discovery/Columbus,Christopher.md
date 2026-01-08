@@ -5,96 +5,96 @@ aliases:
   - Christopher_Columbus
   - Columbus,Christopher
 has_id_wikidata: Q7322
-different_from: '[[_Standards/WikiData/WD~Chris_Columbus,75079]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Republic_of_Genoa,174306]]'
-cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
+different_from: "[[_Standards/WikiData/WD~Chris_Columbus,75079]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Republic_of_Genoa,174306]]"
+cause_of_death: "[[_Standards/WikiData/WD~heart_failure,181754]]"
 sibling:
-  - '[[_Standards/WikiData/WD~Bartholomew_Columbus,186138]]'
-  - '[[_Standards/WikiData/WD~Diego_Colombos,325909]]'
+  - "[[_Standards/WikiData/WD~Bartholomew_Columbus,186138]]"
+  - "[[_Standards/WikiData/WD~Diego_Colombos,325909]]"
 occupation:
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~explorer,11900058]]'
-  - '[[_Standards/WikiData/WD~seafarer,12038843]]'
-  - '[[_Standards/WikiData/WD~traveler,12356615]]'
-  - '[[_Standards/WikiData/WD~sailor,45199]]'
-allegiance: '[[_Standards/WikiData/WD~Crown_of_Castile,217196]]'
-place_of_burial: '[[_Standards/WikiData/WD~Seville_Cathedral,231606]]'
-family: '[[_Standards/WikiData/WD~Columbus_Family,279974]]'
+  - "[[_Standards/WikiData/WD~inventor,205375]]"
+  - "[[_Standards/WikiData/WD~explorer,11900058]]"
+  - "[[_Standards/WikiData/WD~seafarer,12038843]]"
+  - "[[_Standards/WikiData/WD~traveler,12356615]]"
+  - "[[_Standards/WikiData/WD~sailor,45199]]"
+allegiance: "[[_Standards/WikiData/WD~Crown_of_Castile,217196]]"
+place_of_burial: "[[_Standards/WikiData/WD~Seville_Cathedral,231606]]"
+family: "[[_Standards/WikiData/WD~Columbus_Family,279974]]"
 influenced_by:
   - "[[_Standards/WikiData/WD~Pierre_d'Ailly,318580]]"
-  - '[[_Standards/WikiData/WD~Paolo_dal_Pozzo_Toscanelli,321563]]'
-  - '[[_Standards/WikiData/WD~Marco_Polo,6101]]'
-  - '[[_Standards/WikiData/WD~John_Mandeville,24766]]'
-  - '[[_Standards/WikiData/WD~Ptolemy,34943]]'
+  - "[[_Standards/WikiData/WD~Paolo_dal_Pozzo_Toscanelli,321563]]"
+  - "[[_Standards/WikiData/WD~Marco_Polo,6101]]"
+  - "[[_Standards/WikiData/WD~John_Mandeville,24766]]"
+  - "[[_Standards/WikiData/WD~Ptolemy,34943]]"
 field_of_work:
-  - '[[_Standards/WikiData/WD~sea_shipping,349613]]'
-  - '[[_Standards/WikiData/WD~seamanship,351363]]'
-  - '[[_Standards/WikiData/WD~marine_transportation,107228380]]'
+  - "[[_Standards/WikiData/WD~sea_shipping,349613]]"
+  - "[[_Standards/WikiData/WD~seamanship,351363]]"
+  - "[[_Standards/WikiData/WD~marine_transportation,107228380]]"
 child:
-  - '[[_Standards/WikiData/WD~Diego_Columbus,452379]]'
-  - '[[_Standards/WikiData/WD~Ferdinand_Columbus,1406718]]'
-unmarried_partner: '[[_Standards/WikiData/WD~Beatriz_Enríquez_de_Arana,463646]]'
+  - "[[_Standards/WikiData/WD~Diego_Columbus,452379]]"
+  - "[[_Standards/WikiData/WD~Ferdinand_Columbus,1406718]]"
+unmarried_partner: "[[_Standards/WikiData/WD~Beatriz_Enríquez_de_Arana,463646]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-father: '[[_Standards/WikiData/WD~Domenico_Colombo,1056171]]'
-spouse: '[[_Standards/WikiData/WD~Filipa_Moniz_Perestrelo,2410239]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+father: "[[_Standards/WikiData/WD~Domenico_Colombo,1056171]]"
+spouse: "[[_Standards/WikiData/WD~Filipa_Moniz_Perestrelo,2410239]]"
 significant_person:
-  - '[[_Standards/WikiData/WD~Antonio_de_Marchena,2838760]]'
-  - '[[_Standards/WikiData/WD~Juan_Perez,5868869]]'
-  - '[[_Standards/WikiData/WD~Ferdinand_II_of_Aragon,12860]]'
-  - '[[_Standards/WikiData/WD~Isabella_I_of_Castile,45859]]'
-present_in_work: '[[_Standards/WikiData/WD~Christophe_Colomb,2966173]]'
-mother: '[[_Standards/WikiData/WD~Susanna_Fontanarossa,3436617]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-family_name: '[[_Standards/WikiData/WD~Colombo,13553768]]'
-military_or_police_rank: '[[_Standards/WikiData/WD~Almirante_del_Mar_Océano,16145664]]'
-given_name: '[[_Standards/WikiData/WD~Cristoforo,18195732]]'
-documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+  - "[[_Standards/WikiData/WD~Antonio_de_Marchena,2838760]]"
+  - "[[_Standards/WikiData/WD~Juan_Perez,5868869]]"
+  - "[[_Standards/WikiData/WD~Ferdinand_II_of_Aragon,12860]]"
+  - "[[_Standards/WikiData/WD~Isabella_I_of_Castile,45859]]"
+present_in_work: "[[_Standards/WikiData/WD~Christophe_Colomb,2966173]]"
+mother: "[[_Standards/WikiData/WD~Susanna_Fontanarossa,3436617]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+family_name: "[[_Standards/WikiData/WD~Colombo,13553768]]"
+military_or_police_rank: "[[_Standards/WikiData/WD~Almirante_del_Mar_Océano,16145664]]"
+given_name: "[[_Standards/WikiData/WD~Cristoforo,18195732]]"
+documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
 position_held:
-  - '[[_Standards/WikiData/WD~Governor_of_the_Indies,66626376]]'
-  - '[[_Standards/WikiData/WD~Viceroy_of_the_Indies,77380502]]'
-member_of: '[[_Standards/WikiData/WD~Columbus_Conquistador_of_America,66823411]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+  - "[[_Standards/WikiData/WD~Governor_of_the_Indies,66626376]]"
+  - "[[_Standards/WikiData/WD~Viceroy_of_the_Indies,77380502]]"
+member_of: "[[_Standards/WikiData/WD~Columbus_Conquistador_of_America,66823411]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
 depicted_by:
-  - '[[_Standards/WikiData/WD~Columbus_as_a_boy,125774976]]'
-  - '[[_Standards/WikiData/WD~Monument_to_Christopher_Columbus,126182510]]'
-  - '[[_Standards/WikiData/WD~Monument_to_Christopher_Columbus,126334847]]'
-  - '[[_Standards/WikiData/WD~Memorial_to_Christopher_Colombus,126680215]]'
-  - '[[_Standards/WikiData/WD~Plaque_to_Christopher_Columbus,126680353]]'
-  - '[[_Standards/WikiData/WD~Portrait_of_Christopher_Columbus,131760473]]'
+  - "[[_Standards/WikiData/WD~Columbus_as_a_boy,125774976]]"
+  - "[[_Standards/WikiData/WD~Monument_to_Christopher_Columbus,126182510]]"
+  - "[[_Standards/WikiData/WD~Monument_to_Christopher_Columbus,126334847]]"
+  - "[[_Standards/WikiData/WD~Memorial_to_Christopher_Colombus,126680215]]"
+  - "[[_Standards/WikiData/WD~Plaque_to_Christopher_Columbus,126680353]]"
+  - "[[_Standards/WikiData/WD~Portrait_of_Christopher_Columbus,131760473]]"
 date_of_birth: 1451-01-01T00:00:00Z
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~Portuguese,5146]]'
-  - '[[_Standards/WikiData/WD~Ligurian,36106]]'
-place_of_birth: '[[_Standards/WikiData/WD~Genoa,1449]]'
-place_of_death: '[[_Standards/WikiData/WD~Valladolid,8356]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~Portuguese,5146]]"
+  - "[[_Standards/WikiData/WD~Ligurian,36106]]"
+place_of_birth: "[[_Standards/WikiData/WD~Genoa,1449]]"
+place_of_death: "[[_Standards/WikiData/WD~Valladolid,8356]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
 described_at_URL:
   - http://www.digiporta.net/index.php?id=983572886
   - http://www.digiporta.net/index.php?id=377800724
-ISNI: 0000000121222444
+ISNI: 121222444
 Provenio_UUID: 002d5b40-4672-4220-98fb-8323e192b350
-P8189: 987007259925005171
-Wolfram_Language_entity_code: Entity["Concept", "ChristopherColumbus::4r362"]
+P8189: 987007259925005200
+Wolfram_Language_entity_code: Entity"Concept", "ChristopherColumbus = `=this.dv_"Concept", "ChristopherColumbus`
 Krugosvet_article: istoriya/KOLUMB_HRISTOFOR.html
 birth_name: Christophorus Columbus
 name_in_native_language: Christoffa Corombo
@@ -110,10 +110,31 @@ coat_of_arms_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20house%20of%20Col%C3%B2n%20%284%29.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20house%20of%20Col%C3%B2n%20%281%29.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20the%20house%20of%20Col%C3%B2n%20%282%29.svg
-NLC_authorities: 000041451
+NLC_authorities: 41451
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tumba%20de%20Colon-Sevilla.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Columbus%20Signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ridolfo%20del%20Ghirlandaio%20-%20Ritratto%20di%20Cristoforo%20Colombo%20%281520%29.jpg
+dv_"Concept", "ChristopherColumbus: 4r362"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Christopher_Columbus,7322|WD~Christopher_Columbus,7322]]"
+    - "[[/_Standards/Earth/Explorer/Age_of_Discovery/Columbus,Christopher|Columbus,Christopher]]"
+    - "[[/_public/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.public|Columbus,Christopher.public]]"
+    - "[[/_internal/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.internal|Columbus,Christopher.internal]]"
+    - "[[/_protect/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.protect|Columbus,Christopher.protect]]"
+    - "[[/_private/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.private|Columbus,Christopher.private]]"
+    - "[[/_personal/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.personal|Columbus,Christopher.personal]]"
+    - "[[/_secret/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.secret|Columbus,Christopher.secret]]"
+dv_concept-christophercolumbus: 4r362"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Christopher_Columbus,7322|WD~Christopher_Columbus,7322]]"
+  - "[[/_Standards/Earth/Explorer/Age_of_Discovery/Columbus,Christopher|Columbus,Christopher]]"
+  - "[[/_public/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.public|Columbus,Christopher.public]]"
+  - "[[/_internal/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.internal|Columbus,Christopher.internal]]"
+  - "[[/_protect/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.protect|Columbus,Christopher.protect]]"
+  - "[[/_private/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.private|Columbus,Christopher.private]]"
+  - "[[/_personal/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.personal|Columbus,Christopher.personal]]"
+  - "[[/_secret/Earth/Explorer/Age_of_Discovery/Columbus,Christopher.secret|Columbus,Christopher.secret]]"
 ---
 
 # [[Columbus,Christopher]] 

@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Federal_Bureau_of_Investigation,8333|WD~Federal_Bureau_of_Investigation,8333]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation)|FBI(Federal_Bureau_of_Investigation)]]"
+    - "[[/_public/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).public|FBI(Federal_Bureau_of_Investigation).public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).internal|FBI(Federal_Bureau_of_Investigation).internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).protect|FBI(Federal_Bureau_of_Investigation).protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).private|FBI(Federal_Bureau_of_Investigation).private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).personal|FBI(Federal_Bureau_of_Investigation).personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).secret|FBI(Federal_Bureau_of_Investigation).secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Federal_Bureau_of_Investigation,8333|WD~Federal_Bureau_of_Investigation,8333]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation)|FBI(Federal_Bureau_of_Investigation)]]"
+  - "[[/_public/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).public|FBI(Federal_Bureau_of_Investigation).public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).internal|FBI(Federal_Bureau_of_Investigation).internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).protect|FBI(Federal_Bureau_of_Investigation).protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).private|FBI(Federal_Bureau_of_Investigation).private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).personal|FBI(Federal_Bureau_of_Investigation).personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/FBI(Federal_Bureau_of_Investigation).secret|FBI(Federal_Bureau_of_Investigation).secret]]"
+
 has_time_started: 1908-07-26 
 aliases:
   - Federal Bureau of Investigation

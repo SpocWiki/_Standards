@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Burj_al-Arab,62939|WD~Burj_al-Arab,62939]]"
+    - "[[/_Standards/Earth/Geography/Place/Burj_al-Arab|Burj_al-Arab]]"
+    - "[[/_public/Earth/Geography/Place/Burj_al-Arab.public|Burj_al-Arab.public]]"
+    - "[[/_internal/Earth/Geography/Place/Burj_al-Arab.internal|Burj_al-Arab.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Burj_al-Arab.protect|Burj_al-Arab.protect]]"
+    - "[[/_private/Earth/Geography/Place/Burj_al-Arab.private|Burj_al-Arab.private]]"
+    - "[[/_personal/Earth/Geography/Place/Burj_al-Arab.personal|Burj_al-Arab.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Burj_al-Arab.secret|Burj_al-Arab.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Burj_al-Arab,62939|WD~Burj_al-Arab,62939]]"
+  - "[[/_Standards/Earth/Geography/Place/Burj_al-Arab|Burj_al-Arab]]"
+  - "[[/_public/Earth/Geography/Place/Burj_al-Arab.public|Burj_al-Arab.public]]"
+  - "[[/_internal/Earth/Geography/Place/Burj_al-Arab.internal|Burj_al-Arab.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Burj_al-Arab.protect|Burj_al-Arab.protect]]"
+  - "[[/_private/Earth/Geography/Place/Burj_al-Arab.private|Burj_al-Arab.private]]"
+  - "[[/_personal/Earth/Geography/Place/Burj_al-Arab.personal|Burj_al-Arab.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Burj_al-Arab.secret|Burj_al-Arab.secret]]"
+
 has_time_started: 1999-01-01 
-location: [ 55.185277777 , 25.141388888 ] 
+location: [ 25.141388888, 55.185277777 ] 
 aliases:
   - Burj Al Arab
   - Burj_al-Arab
@@ -45,6 +65,20 @@ Commons_gallery: برج العرب
 By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/joi/">Joi Ito</a> - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/joi/2086020608/">https://www.flickr.com/photos/joi/2086020608/</a>, <a href="https://creativecommons.org/licenses/by/2.0/" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://en.wikipedia.org/w/index.php?curid=36016613">Link</a> 
 
 #is_/same_as :: [[../../../WikiData/WD~Burj_al-Arab,62939|WD~Burj_al-Arab,62939]] 
+
+## #has_/map  
+
+```leaflet
+id: Burj_al-Arab
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Burj_al-Arab//
+markerFolder: ./Burj_al-Arab/
+coordinates: [[Burj_al-Arab]] 
+markerFile: [[Burj_al-Arab]] 
+defaultZoom: 11 
+```
 
 ## #has_/text_of_/abstract 
 

@@ -1,5 +1,25 @@
-﻿---
-location: [ 96.14944444 , 16.79833333 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Shwedagon_Pagoda,464535|WD~Shwedagon_Pagoda,464535]]"
+    - "[[/_Standards/Earth/Geography/Place/Shwedagon_Pagoda|Shwedagon_Pagoda]]"
+    - "[[/_public/Earth/Geography/Place/Shwedagon_Pagoda.public|Shwedagon_Pagoda.public]]"
+    - "[[/_internal/Earth/Geography/Place/Shwedagon_Pagoda.internal|Shwedagon_Pagoda.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Shwedagon_Pagoda.protect|Shwedagon_Pagoda.protect]]"
+    - "[[/_private/Earth/Geography/Place/Shwedagon_Pagoda.private|Shwedagon_Pagoda.private]]"
+    - "[[/_personal/Earth/Geography/Place/Shwedagon_Pagoda.personal|Shwedagon_Pagoda.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Shwedagon_Pagoda.secret|Shwedagon_Pagoda.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Shwedagon_Pagoda,464535|WD~Shwedagon_Pagoda,464535]]"
+  - "[[/_Standards/Earth/Geography/Place/Shwedagon_Pagoda|Shwedagon_Pagoda]]"
+  - "[[/_public/Earth/Geography/Place/Shwedagon_Pagoda.public|Shwedagon_Pagoda.public]]"
+  - "[[/_internal/Earth/Geography/Place/Shwedagon_Pagoda.internal|Shwedagon_Pagoda.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Shwedagon_Pagoda.protect|Shwedagon_Pagoda.protect]]"
+  - "[[/_private/Earth/Geography/Place/Shwedagon_Pagoda.private|Shwedagon_Pagoda.private]]"
+  - "[[/_personal/Earth/Geography/Place/Shwedagon_Pagoda.personal|Shwedagon_Pagoda.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Shwedagon_Pagoda.secret|Shwedagon_Pagoda.secret]]"
+
+location: [ 16.79833333, 96.14944444 ] 
 aliases:
   - Shwedagon Pagoda
   - ရွှေတိဂုံဘုရား
@@ -38,6 +58,20 @@ coordinate_location: Point(96.14944444 16.79833333)
 By <a href="//commons.wikimedia.org/wiki/User:Hintha" title="User:Hintha">Hintha</a>Photo by <a href="https://en.wikipedia.org/wiki/User:Sky89" class="extiw" title="en:User:Sky89">Sky89</a>, Design by <a href="//commons.wikimedia.org/wiki/User:Hintha" title="User:Hintha">Hintha</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=11323623">Link</a>
 
 #is_/same_as :: [[../../../WikiData/WD~Shwedagon_Pagoda,464535|WD~Shwedagon_Pagoda,464535]] 
+
+## #has_/map  
+
+```leaflet
+id: Shwedagon_Pagoda
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Shwedagon_Pagoda//
+markerFolder: ./Shwedagon_Pagoda/
+coordinates: [[Shwedagon_Pagoda]] 
+markerFile: [[Shwedagon_Pagoda]] 
+defaultZoom: 16 
+```
 
 ## #has_/text_of_/abstract 
 

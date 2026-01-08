@@ -1,6 +1,24 @@
 ---
 aliases:
   - Wind Load
+dv_see: "[[../../../../Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate|Acrylic panes]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Climate/Weather/Wind/Wind_Engineering|Wind_Engineering]]"
+    - "[[/_public/Earth/Climate/Weather/Wind/Wind_Engineering.public|Wind_Engineering.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Wind/Wind_Engineering.internal|Wind_Engineering.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Wind/Wind_Engineering.protect|Wind_Engineering.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Wind/Wind_Engineering.private|Wind_Engineering.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Wind/Wind_Engineering.personal|Wind_Engineering.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Wind/Wind_Engineering.secret|Wind_Engineering.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Climate/Weather/Wind/Wind_Engineering|Wind_Engineering]]"
+  - "[[/_public/Earth/Climate/Weather/Wind/Wind_Engineering.public|Wind_Engineering.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Wind/Wind_Engineering.internal|Wind_Engineering.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Wind/Wind_Engineering.protect|Wind_Engineering.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Wind/Wind_Engineering.private|Wind_Engineering.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Wind/Wind_Engineering.personal|Wind_Engineering.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Wind/Wind_Engineering.secret|Wind_Engineering.secret]]"
 ---
 
 # [[Wind_Engineering]] 
@@ -9,7 +27,7 @@ Wind pressure p on flat surfaces:
 
 p = 0.613 × v² Pa 
 
-#see :: [[../../../../Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate|Acrylic panes]] 
+see = `=this.dv_see`
 
 ## Storm Frequency 
 

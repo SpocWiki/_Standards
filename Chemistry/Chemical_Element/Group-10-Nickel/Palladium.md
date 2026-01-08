@@ -73,7 +73,7 @@ ZVG_number: 8340
 #chemic/Element 
 
 [GroupName::Group-10-Nickel]
-[Group:[[../Group-10-Nickel]]
+Group::[[../Group-10-Nickel]]
 
 
 [#has_/name_/en::Palladium]
@@ -82,7 +82,7 @@ ZVG_number: 8340
 [AtomRadius::1.79]
 [Atom-Vol-ccm-mol::8.9]
 [Unknown2::1.28]
-[#has_/radius_/nm::8.34]
+[#has_/radius_/nano_/m::8.34]
 [Electronegative::2.2]
 [Density::12]
 [#has_/value_for_/temperature_/melt_/c ::1552]

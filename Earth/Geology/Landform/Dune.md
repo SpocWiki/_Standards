@@ -4,17 +4,17 @@ aliases:
   - Dune
 has_id_wikidata: Q25391
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~aeolian_landform,4687862]]'
-  - '[[_Standards/WikiData/WD~Q16963184,16963184]]'
-  - '[[_Standards/WikiData/WD~hill,54050]]'
-different_from: '[[_Standards/WikiData/WD~Dune,6095696]]'
-part_of: '[[_Standards/WikiData/WD~dunefield,105100160]]'
+  - "[[_Standards/WikiData/WD~aeolian_landform,4687862]]"
+  - "[[_Standards/WikiData/WD~Q16963184,16963184]]"
+  - "[[_Standards/WikiData/WD~hill,54050]]"
+different_from: "[[_Standards/WikiData/WD~Dune,6095696]]"
+part_of: "[[_Standards/WikiData/WD~dunefield,105100160]]"
 OmegaWiki_Defined_Meaning: 3307
 Commons_gallery: Dune
 Commons_category: Dunes
@@ -24,6 +24,25 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000170
 Krugosvet_article: Earth_sciences/geografiya/DYUNA.html
 GeoNames_feature_code: T.DUNE
 OpenStreetMap_tag_or_key: Tag:landform=dune_system
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Dune,25391|WD~Dune,25391]]"
+    - "[[/_Standards/Earth/Geology/Landform/Dune|Dune]]"
+    - "[[/_public/Earth/Geology/Landform/Dune.public|Dune.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Dune.internal|Dune.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Dune.protect|Dune.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Dune.private|Dune.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Dune.personal|Dune.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Dune.secret|Dune.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Dune,25391|WD~Dune,25391]]"
+  - "[[/_Standards/Earth/Geology/Landform/Dune|Dune]]"
+  - "[[/_public/Earth/Geology/Landform/Dune.public|Dune.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Dune.internal|Dune.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Dune.protect|Dune.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Dune.private|Dune.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Dune.personal|Dune.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Dune.secret|Dune.secret]]"
 ---
 
 # [[Dune]] 

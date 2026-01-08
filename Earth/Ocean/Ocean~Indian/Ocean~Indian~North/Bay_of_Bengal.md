@@ -1,5 +1,25 @@
-﻿---
-location: [ 88.0 , 15.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Bay_of_Bengal,38684|WD~Bay_of_Bengal,38684]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal|Bay_of_Bengal]]"
+    - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.public|Bay_of_Bengal.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.internal|Bay_of_Bengal.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.protect|Bay_of_Bengal.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.private|Bay_of_Bengal.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.personal|Bay_of_Bengal.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.secret|Bay_of_Bengal.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Bay_of_Bengal,38684|WD~Bay_of_Bengal,38684]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal|Bay_of_Bengal]]"
+  - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.public|Bay_of_Bengal.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.internal|Bay_of_Bengal.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.protect|Bay_of_Bengal.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.private|Bay_of_Bengal.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.personal|Bay_of_Bengal.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Bay_of_Bengal.secret|Bay_of_Bengal.secret]]"
+
+location: [ 15.0, 88 ] 
 aliases:
   - Bay_of_Bengal
   - Bay of Bengal
@@ -71,6 +91,21 @@ Commons_category: Bay of Bengal
 # [[Bay_of_Bengal]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bay_of_Bengal,38684|WD~Bay_of_Bengal,38684]] 
+
+## #has_/map  
+
+```leaflet
+id: Bay_of_Bengal
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Bay_of_Bengal//
+markerFolder: ./Bay_of_Bengal/
+coordinates: [[Bay_of_Bengal]] 
+markerFile: [[Bay_of_Bengal]] 
+defaultZoom: 5 
+```
+
 ## #has_/text_of_/abstract 
 
 > The Bay of Bengal is the northeastern part of the Indian Ocean. 

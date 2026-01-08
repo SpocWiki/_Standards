@@ -6,6 +6,25 @@ subclass_of:
   - "[[_Standards/WikiData/WD~mountain_gap_wind,3555548]]"
 exact_match: https://www.metoffice.gov.uk/learning/atmosphere/polar-vortex
 Commons_category: Polar vortex
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Polar_vortex,1197111]]"
+    - "[[/_Standards/Earth/Climate/Polar_Vortex|Polar_Vortex]]"
+    - "[[/_public/Earth/Climate/Polar_Vortex.public|Polar_Vortex.public]]"
+    - "[[/_internal/Earth/Climate/Polar_Vortex.internal|Polar_Vortex.internal]]"
+    - "[[/_protect/Earth/Climate/Polar_Vortex.protect|Polar_Vortex.protect]]"
+    - "[[/_private/Earth/Climate/Polar_Vortex.private|Polar_Vortex.private]]"
+    - "[[/_personal/Earth/Climate/Polar_Vortex.personal|Polar_Vortex.personal]]"
+    - "[[/_secret/Earth/Climate/Polar_Vortex.secret|Polar_Vortex.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Polar_vortex,1197111]]"
+  - "[[/_Standards/Earth/Climate/Polar_Vortex|Polar_Vortex]]"
+  - "[[/_public/Earth/Climate/Polar_Vortex.public|Polar_Vortex.public]]"
+  - "[[/_internal/Earth/Climate/Polar_Vortex.internal|Polar_Vortex.internal]]"
+  - "[[/_protect/Earth/Climate/Polar_Vortex.protect|Polar_Vortex.protect]]"
+  - "[[/_private/Earth/Climate/Polar_Vortex.private|Polar_Vortex.private]]"
+  - "[[/_personal/Earth/Climate/Polar_Vortex.personal|Polar_Vortex.personal]]"
+  - "[[/_secret/Earth/Climate/Polar_Vortex.secret|Polar_Vortex.secret]]"
 ---
 
 # [[Polar_Vortex]] 

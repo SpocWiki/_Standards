@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Collective_Security_Treaty_Organization,318693|WD~Collective_Security_Treaty_Organization,318693]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization)|CSTO(Collective_Security_Treaty_Organization)]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).public|CSTO(Collective_Security_Treaty_Organization).public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).internal|CSTO(Collective_Security_Treaty_Organization).internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).protect|CSTO(Collective_Security_Treaty_Organization).protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).private|CSTO(Collective_Security_Treaty_Organization).private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).personal|CSTO(Collective_Security_Treaty_Organization).personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).secret|CSTO(Collective_Security_Treaty_Organization).secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Collective_Security_Treaty_Organization,318693|WD~Collective_Security_Treaty_Organization,318693]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization)|CSTO(Collective_Security_Treaty_Organization)]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).public|CSTO(Collective_Security_Treaty_Organization).public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).internal|CSTO(Collective_Security_Treaty_Organization).internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).protect|CSTO(Collective_Security_Treaty_Organization).protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).private|CSTO(Collective_Security_Treaty_Organization).private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).personal|CSTO(Collective_Security_Treaty_Organization).personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).secret|CSTO(Collective_Security_Treaty_Organization).secret]]"
+
 has_time_started: 1992-05-15 
-location: [ 37.5354 , 55.7963 ] 
+location: [ 55.7963, 37.5354 ] 
 aliases:
   - CSTO
   - CSTO(Collective_Security_Treaty_Organization)
@@ -75,6 +95,20 @@ official_name: Организация Договора о коллективно
 # [[CSTO(Collective_Security_Treaty_Organization)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Collective_Security_Treaty_Organization,318693|WD~Collective_Security_Treaty_Organization,318693]] 
+
+## #has_/map  
+
+```leaflet
+id: CSTO(Collective_Security_Treaty_Organization)
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./CSTO(Collective_Security_Treaty_Organization)//
+markerFolder: ./CSTO(Collective_Security_Treaty_Organization)/
+coordinates: [[CSTO(Collective_Security_Treaty_Organization)]] 
+markerFile: [[CSTO(Collective_Security_Treaty_Organization)]] 
+defaultZoom: 3 
+```
 
 ## #has_/text_of_/abstract 
 

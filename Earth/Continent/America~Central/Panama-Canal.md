@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~Central/Panama-Canal|Panama-Canal]]"
+    - "[[/_public/Earth/Continent/America~Central/Panama-Canal.public|Panama-Canal.public]]"
+    - "[[/_internal/Earth/Continent/America~Central/Panama-Canal.internal|Panama-Canal.internal]]"
+    - "[[/_protect/Earth/Continent/America~Central/Panama-Canal.protect|Panama-Canal.protect]]"
+    - "[[/_private/Earth/Continent/America~Central/Panama-Canal.private|Panama-Canal.private]]"
+    - "[[/_personal/Earth/Continent/America~Central/Panama-Canal.personal|Panama-Canal.personal]]"
+    - "[[/_secret/Earth/Continent/America~Central/Panama-Canal.secret|Panama-Canal.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~Central/Panama-Canal|Panama-Canal]]"
+  - "[[/_public/Earth/Continent/America~Central/Panama-Canal.public|Panama-Canal.public]]"
+  - "[[/_internal/Earth/Continent/America~Central/Panama-Canal.internal|Panama-Canal.internal]]"
+  - "[[/_protect/Earth/Continent/America~Central/Panama-Canal.protect|Panama-Canal.protect]]"
+  - "[[/_private/Earth/Continent/America~Central/Panama-Canal.private|Panama-Canal.private]]"
+  - "[[/_personal/Earth/Continent/America~Central/Panama-Canal.personal|Panama-Canal.personal]]"
+  - "[[/_secret/Earth/Continent/America~Central/Panama-Canal.secret|Panama-Canal.secret]]"
+---
 
 # [[Panama-Canal]] 
 

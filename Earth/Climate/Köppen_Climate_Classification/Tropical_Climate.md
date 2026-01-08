@@ -13,6 +13,25 @@ MeSH_tree_code:
   - G16.500.275.071.600
   - N06.230.300.100.250.600
 Commons_category: Tropical climate
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Tropical_climate,135712|WD~Tropical_climate,135712]]"
+    - "[[/_Standards/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate|Tropical_Climate]]"
+    - "[[/_public/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.public|Tropical_Climate.public]]"
+    - "[[/_internal/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.internal|Tropical_Climate.internal]]"
+    - "[[/_protect/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.protect|Tropical_Climate.protect]]"
+    - "[[/_private/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.private|Tropical_Climate.private]]"
+    - "[[/_personal/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.personal|Tropical_Climate.personal]]"
+    - "[[/_secret/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.secret|Tropical_Climate.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Tropical_climate,135712|WD~Tropical_climate,135712]]"
+  - "[[/_Standards/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate|Tropical_Climate]]"
+  - "[[/_public/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.public|Tropical_Climate.public]]"
+  - "[[/_internal/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.internal|Tropical_Climate.internal]]"
+  - "[[/_protect/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.protect|Tropical_Climate.protect]]"
+  - "[[/_private/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.private|Tropical_Climate.private]]"
+  - "[[/_personal/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.personal|Tropical_Climate.personal]]"
+  - "[[/_secret/Earth/Climate/Köppen_Climate_Classification/Tropical_Climate.secret|Tropical_Climate.secret]]"
 ---
 
 # [[Tropical_Climate]] 

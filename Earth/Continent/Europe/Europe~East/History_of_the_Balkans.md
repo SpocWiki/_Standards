@@ -5,6 +5,25 @@ instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
 subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
 facet_of: "[[_Standards/WikiData/WD~Balkans,23522]]"
 Commons_category: History of the Balkans
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~History_of_the_Balkans,1266338|WD~History_of_the_Balkans,1266338]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~East/History_of_the_Balkans|History_of_the_Balkans]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.public|History_of_the_Balkans.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.internal|History_of_the_Balkans.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.protect|History_of_the_Balkans.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.private|History_of_the_Balkans.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.personal|History_of_the_Balkans.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.secret|History_of_the_Balkans.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~History_of_the_Balkans,1266338|WD~History_of_the_Balkans,1266338]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~East/History_of_the_Balkans|History_of_the_Balkans]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.public|History_of_the_Balkans.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.internal|History_of_the_Balkans.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.protect|History_of_the_Balkans.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.private|History_of_the_Balkans.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.personal|History_of_the_Balkans.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.secret|History_of_the_Balkans.secret]]"
 ---
 
 # [[History_of_the_Balkans]] 

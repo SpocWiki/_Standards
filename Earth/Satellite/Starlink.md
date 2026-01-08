@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[WD~Starlink,19867977]]"
+    - "[[/_Standards/Earth/Satellite/Starlink|Starlink]]"
+    - "[[/_public/Earth/Satellite/Starlink.public|Starlink.public]]"
+    - "[[/_internal/Earth/Satellite/Starlink.internal|Starlink.internal]]"
+    - "[[/_protect/Earth/Satellite/Starlink.protect|Starlink.protect]]"
+    - "[[/_private/Earth/Satellite/Starlink.private|Starlink.private]]"
+    - "[[/_personal/Earth/Satellite/Starlink.personal|Starlink.personal]]"
+    - "[[/_secret/Earth/Satellite/Starlink.secret|Starlink.secret]]"
+dv_is_same_as:
+  - "[[WD~Starlink,19867977]]"
+  - "[[/_Standards/Earth/Satellite/Starlink|Starlink]]"
+  - "[[/_public/Earth/Satellite/Starlink.public|Starlink.public]]"
+  - "[[/_internal/Earth/Satellite/Starlink.internal|Starlink.internal]]"
+  - "[[/_protect/Earth/Satellite/Starlink.protect|Starlink.protect]]"
+  - "[[/_private/Earth/Satellite/Starlink.private|Starlink.private]]"
+  - "[[/_personal/Earth/Satellite/Starlink.personal|Starlink.personal]]"
+  - "[[/_secret/Earth/Satellite/Starlink.secret|Starlink.secret]]"
+
 has_time_started: 2015-01-01 
 aliases:
 has_id_wikidata: Q19867977

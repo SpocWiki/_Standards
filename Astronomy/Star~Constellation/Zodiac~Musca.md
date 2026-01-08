@@ -45,9 +45,9 @@ official_name: Musca
 
 [SpocWebEntityId::28138]
 
-[name-la::Musca]
-[name-genitive::Muscae]
-[name-de::Fliege]
+[#has_/name_/la::Musca]
+[#has_/name_/la_/genitive::Muscae]
+[#has_/name_/de::Fliege]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Musca,10435]] 
 

@@ -43,9 +43,9 @@ official_name: Pavo
 
 [SpocWebEntityId::28143]
 
-[name-la::Pavo]
-[name-genitive::Pavonis]
-[name-de::Pfau] 
+[#has_/name_/la::Pavo]
+[#has_/name_/la_/genitive::Pavonis]
+[#has_/name_/de::Pfau] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Pavo,10515]] 
 

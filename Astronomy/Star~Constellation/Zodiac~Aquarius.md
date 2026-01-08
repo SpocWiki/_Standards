@@ -54,9 +54,9 @@ official_name: Aquarius
 
 [SpocWebEntityId::28086]
 
-[name-la::Aquarius]
-[name-genitive::Aquarii]
-[name-de::Wassermann]
+[#has_/name_/la::Aquarius]
+[#has_/name_/la_/genitive::Aquarii]
+[#has_/name_/de::Wassermann]
 #is_/same_as :: [[../../WikiData/WD~Aquarius,10576|WD~Aquarius,10576]] 
 
 

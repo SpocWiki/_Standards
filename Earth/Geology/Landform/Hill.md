@@ -39,6 +39,25 @@ exact_match:
 described_at_URL: http://www.littre.org/definition/colline
 OpenStreetMap_tag: natural=hill
 Dewey_Decimal_Classification: "551.436"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Hill,54050]]"
+    - "[[/_Standards/Earth/Geology/Landform/Hill|Hill]]"
+    - "[[/_public/Earth/Geology/Landform/Hill.public|Hill.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Hill.internal|Hill.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Hill.protect|Hill.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Hill.private|Hill.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Hill.personal|Hill.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Hill.secret|Hill.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Hill,54050]]"
+  - "[[/_Standards/Earth/Geology/Landform/Hill|Hill]]"
+  - "[[/_public/Earth/Geology/Landform/Hill.public|Hill.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Hill.internal|Hill.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Hill.protect|Hill.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Hill.private|Hill.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Hill.personal|Hill.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Hill.secret|Hill.secret]]"
 ---
 
 # [[Hill]] 

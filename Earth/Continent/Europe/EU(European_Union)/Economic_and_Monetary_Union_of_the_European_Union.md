@@ -4,10 +4,29 @@ aliases:
   - Economic_and_Monetary_Union_of_the_European_Union
   - Economic and Monetary Union of the European Union
 has_id_wikidata: Q212141
-different_from: '[[_Standards/WikiData/WD~Emu,93208]]'
-subclass_of: '[[_Standards/WikiData/WD~currency_union,1125321]]'
-instance_of: '[[_Standards/WikiData/WD~organization,43229]]'
+different_from: "[[_Standards/WikiData/WD~Emu,93208]]"
+subclass_of: "[[_Standards/WikiData/WD~currency_union,1125321]]"
+instance_of: "[[_Standards/WikiData/WD~organization,43229]]"
 short_name: EWWU
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Economic_and_Monetary_Union_of_the_European_Union,212141|WD~Economic_and_Monetary_Union_of_the_European_Union,212141]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union|Economic_and_Monetary_Union_of_the_European_Union]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.public|Economic_and_Monetary_Union_of_the_European_Union.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.internal|Economic_and_Monetary_Union_of_the_European_Union.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.protect|Economic_and_Monetary_Union_of_the_European_Union.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.private|Economic_and_Monetary_Union_of_the_European_Union.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.personal|Economic_and_Monetary_Union_of_the_European_Union.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.secret|Economic_and_Monetary_Union_of_the_European_Union.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Economic_and_Monetary_Union_of_the_European_Union,212141|WD~Economic_and_Monetary_Union_of_the_European_Union,212141]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union|Economic_and_Monetary_Union_of_the_European_Union]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.public|Economic_and_Monetary_Union_of_the_European_Union.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.internal|Economic_and_Monetary_Union_of_the_European_Union.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.protect|Economic_and_Monetary_Union_of_the_European_Union.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.private|Economic_and_Monetary_Union_of_the_European_Union.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.personal|Economic_and_Monetary_Union_of_the_European_Union.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.secret|Economic_and_Monetary_Union_of_the_European_Union.secret]]"
 ---
 
 # [[Economic_and_Monetary_Union_of_the_European_Union]] 

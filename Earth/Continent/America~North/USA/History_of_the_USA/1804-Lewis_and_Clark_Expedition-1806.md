@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Lewis_and_Clark_Expedition,505802|WD~Lewis_and_Clark_Expedition,505802]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806|1804-Lewis_and_Clark_Expedition-1806]]"
+    - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.public|1804-Lewis_and_Clark_Expedition-1806.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.internal|1804-Lewis_and_Clark_Expedition-1806.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.protect|1804-Lewis_and_Clark_Expedition-1806.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.private|1804-Lewis_and_Clark_Expedition-1806.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.personal|1804-Lewis_and_Clark_Expedition-1806.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.secret|1804-Lewis_and_Clark_Expedition-1806.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Lewis_and_Clark_Expedition,505802|WD~Lewis_and_Clark_Expedition,505802]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806|1804-Lewis_and_Clark_Expedition-1806]]"
+  - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.public|1804-Lewis_and_Clark_Expedition-1806.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.internal|1804-Lewis_and_Clark_Expedition-1806.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.protect|1804-Lewis_and_Clark_Expedition-1806.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.private|1804-Lewis_and_Clark_Expedition-1806.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.personal|1804-Lewis_and_Clark_Expedition-1806.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.secret|1804-Lewis_and_Clark_Expedition-1806.secret]]"
+
 has_time_started: 1804-05-14 
 has_time_stopped: 1806-09-23 
 aliases:

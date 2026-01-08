@@ -6,14 +6,33 @@ aliases:
   - Hadley Cell
 has_id_wikidata: Q338589
 has_part_s_:
-  - '[[_Standards/WikiData/WD~trade_wind,160603]]'
-  - '[[_Standards/WikiData/WD~Q52731221,52731221]]'
-instance_of: '[[_Standards/WikiData/WD~cellular_circulation,187670]]'
-named_after: '[[_Standards/WikiData/WD~George_Hadley,968686]]'
-facet_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
-part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
+  - "[[_Standards/WikiData/WD~trade_wind,160603]]"
+  - "[[_Standards/WikiData/WD~Q52731221,52731221]]"
+instance_of: "[[_Standards/WikiData/WD~cellular_circulation,187670]]"
+named_after: "[[_Standards/WikiData/WD~George_Hadley,968686]]"
+facet_of: "[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]"
+part_of: "[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HadleyCross-sec.jpg
 Commons_category: Hadley cells
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Hadley_cell,338589]]"
+    - "[[/_Standards/Earth/Climate/Hadley_Cell|Hadley_Cell]]"
+    - "[[/_public/Earth/Climate/Hadley_Cell.public|Hadley_Cell.public]]"
+    - "[[/_internal/Earth/Climate/Hadley_Cell.internal|Hadley_Cell.internal]]"
+    - "[[/_protect/Earth/Climate/Hadley_Cell.protect|Hadley_Cell.protect]]"
+    - "[[/_private/Earth/Climate/Hadley_Cell.private|Hadley_Cell.private]]"
+    - "[[/_personal/Earth/Climate/Hadley_Cell.personal|Hadley_Cell.personal]]"
+    - "[[/_secret/Earth/Climate/Hadley_Cell.secret|Hadley_Cell.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Hadley_cell,338589]]"
+  - "[[/_Standards/Earth/Climate/Hadley_Cell|Hadley_Cell]]"
+  - "[[/_public/Earth/Climate/Hadley_Cell.public|Hadley_Cell.public]]"
+  - "[[/_internal/Earth/Climate/Hadley_Cell.internal|Hadley_Cell.internal]]"
+  - "[[/_protect/Earth/Climate/Hadley_Cell.protect|Hadley_Cell.protect]]"
+  - "[[/_private/Earth/Climate/Hadley_Cell.private|Hadley_Cell.private]]"
+  - "[[/_personal/Earth/Climate/Hadley_Cell.personal|Hadley_Cell.personal]]"
+  - "[[/_secret/Earth/Climate/Hadley_Cell.secret|Hadley_Cell.secret]]"
 ---
 
 # [[Hadley_Cell]] 

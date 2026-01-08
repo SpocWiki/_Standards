@@ -103,7 +103,7 @@ ZVG_number:
 #is_/same_as :: [[../../../WikiData/WD~Magnesium,660]] 
 
 [GroupName::Group-02-Earth-Alkaline]
-[Group:[[../Group-02-Earth-Alkaline]]
+Group::[[../Group-02-Earth-Alkaline]]
 
 [#has_/name_/en::Magnesium]
 [#has_/name_/de::Magnesium]
@@ -111,7 +111,7 @@ ZVG_number:
 [AtomRadius::1.72]
 [Atom-Vol-ccm-mol::13.97]
 [Unknown2::1.36]
-[#has_/radius_/nm::7.646]
+[#has_/radius_/nano_/m::7.646]
 [Electronegative::1.3]
 [Density::1.74]
 [#has_/value_for_/temperature_/melt_/c ::648.8]

@@ -19,6 +19,25 @@ MeSH_tree_code:
   - N06.230.124.531
 GeoNames_feature_code: V.TUND
 Dewey_Decimal_Classification: "551.453"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Tundra,43262|WD~Tundra,43262]]"
+    - "[[/_Standards/Earth/Climate/Biosphere/Biome/Tundra|Tundra]]"
+    - "[[/_public/Earth/Climate/Biosphere/Biome/Tundra.public|Tundra.public]]"
+    - "[[/_internal/Earth/Climate/Biosphere/Biome/Tundra.internal|Tundra.internal]]"
+    - "[[/_protect/Earth/Climate/Biosphere/Biome/Tundra.protect|Tundra.protect]]"
+    - "[[/_private/Earth/Climate/Biosphere/Biome/Tundra.private|Tundra.private]]"
+    - "[[/_personal/Earth/Climate/Biosphere/Biome/Tundra.personal|Tundra.personal]]"
+    - "[[/_secret/Earth/Climate/Biosphere/Biome/Tundra.secret|Tundra.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Tundra,43262|WD~Tundra,43262]]"
+  - "[[/_Standards/Earth/Climate/Biosphere/Biome/Tundra|Tundra]]"
+  - "[[/_public/Earth/Climate/Biosphere/Biome/Tundra.public|Tundra.public]]"
+  - "[[/_internal/Earth/Climate/Biosphere/Biome/Tundra.internal|Tundra.internal]]"
+  - "[[/_protect/Earth/Climate/Biosphere/Biome/Tundra.protect|Tundra.protect]]"
+  - "[[/_private/Earth/Climate/Biosphere/Biome/Tundra.private|Tundra.private]]"
+  - "[[/_personal/Earth/Climate/Biosphere/Biome/Tundra.personal|Tundra.personal]]"
+  - "[[/_secret/Earth/Climate/Biosphere/Biome/Tundra.secret|Tundra.secret]]"
 ---
 
 # [[Tundra]] 

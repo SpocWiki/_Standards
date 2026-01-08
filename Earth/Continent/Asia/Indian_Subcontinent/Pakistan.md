@@ -1,5 +1,93 @@
-﻿---
-location: [ 71.0 , 30.0 ] 
+---
+dv_"Concept", "IslamicRepublicOfPakistan: gcd4v"
+dv_ISO4217-currency_alphabetic: PKR
+dv_ISO4217-currency_name: Pakistan Rupee
+dv_ISO4217-currency_numeric: 586
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: PAKISTAN
+dv_Telephone: 92
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Pakistan
+dv_has_name_en: Pakistan
+dv_has_name_es: Pakistán
+dv_has_name_fr: Pakistan
+dv_has_name_cn: 巴基斯坦
+dv_has_name_ar: باكستان
+dv_has_name_ru: Пакистан
+dv_CLDR_display_name: Pakistan
+dv_UNTERM_English: Pakistan
+dv_UNTERM_English_Formal: the Islamic Republic of Pakistan
+dv_UNTERM_Spanish_Formal: la República Islámica del Pakistán
+dv_UNTERM_Spanish: Pakistán (el)
+dv_UNTERM_French: Pakistan (le)
+dv_UNTERM_Arabic: باكستان
+dv_UNTERM_Arabic_Formal: جمهورية باكستان الإسلامية
+dv_UNTERM_Chinese: 巴基斯坦
+dv_UNTERM_Chinese_Formal: 巴基斯坦伊斯兰共和国
+dv_UNTERM_French_Formal: la République islamique du Pakistan
+dv_UNTERM_Russian: Пакистан
+dv_UNTERM_Russian_Formal: Исламская Республика Пакистан
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Pakistan]]"
+dv_Sub-region_Name: "[[Southern Asia]]"
+dv_Region: 142
+dv_Sub-region: 34
+dv_Geoname-ID: 1168579
+dv_FIPS: PK
+dv_FIFA: PAK
+dv_IOC: PAK
+dv_MARC: pk
+dv_GAUL: 188
+dv_WMO: PK
+dv_ITU: PAK
+dv_DS: PK
+dv_TLD: .pk
+dv_EDGAR: R0
+dv_M49: 586
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 586
+dv_ISO2: PK
+dv_ISO3: PAK
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+    - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan|Pakistan]]"
+    - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.public|Pakistan.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.internal|Pakistan.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.protect|Pakistan.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.private|Pakistan.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.personal|Pakistan.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.secret|Pakistan.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Pakistan
+dv_has_name_de: Pakistan
+dv_Area-Total: 796095
+dv_Area-Land: 770880
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: PK
+dv_Capital: "[[Pakistan/Counties/F.C.T/City/Islamabad]]"
+dv_Alcohol-l: 0.1
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 70.1033
+dv_has_place_latitude: 29.2633
+dv_concept-islamicrepublicofpakistan: gcd4v"
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+  - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan|Pakistan]]"
+  - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.public|Pakistan.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.internal|Pakistan.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.protect|Pakistan.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.private|Pakistan.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.personal|Pakistan.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan.secret|Pakistan.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Pakistan
+
 aliases:
   - Pakistan
   - Pakistán
@@ -446,7 +534,7 @@ ISBN_identifier_group:
   - 978-627
   - 978-969
 Wolfram_Language_entity_code:
-  - Entity["Concept", "IslamicRepublicOfPakistan::gcd4v"]
+  - Entity"Concept", "IslamicRepublicOfPakistan = `=this.dv_"Concept", "IslamicRepublicOfPakistan`
   - Entity["Country", "Pakistan"]
 GitHub_topic: pakistan
 CIVICUS_Monitor_country_entry: pakistan
@@ -484,76 +572,78 @@ icon: flag-pk
 
 # [[Pakistan]] 
 
-[	ISO4217-currency_alphabetic	 :: PKR ]
-[	ISO4217-currency_name	 :: Pakistan Rupee ]
-[	ISO4217-currency_numeric	 :: 586 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: PAKISTAN ]
+## [[Pakistan]] has Properties... 
 
-[	Telephone	 :: 92 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Pakistan ]
-[	name-en	 :: Pakistan ]
-[	name-es	 :: Pakistán ]
-[	name-fr	 :: Pakistan ]
-[	name-cn	 :: 巴基斯坦 ]
-[	name-ar	 :: باكستان ]
-[	name-ru	 :: Пакистан ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Pakistan ]
+name = `=this.dv_name`
+[	has_name_en	 :: Pakistan ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: Pakistan ]
-[	UNTERM_English_Formal	 :: the Islamic Republic of Pakistan ]
-[	UNTERM_Spanish_Formal	 :: la República Islámica del Pakistán ]
-[	UNTERM_Spanish	 :: Pakistán (el) ]
-[	UNTERM_French	 :: Pakistan (le) ]
-[	UNTERM_Arabic	 :: باكستان ]
-[	UNTERM_Arabic_Formal	 :: جمهورية باكستان الإسلامية ]
-[	UNTERM_Chinese	 :: 巴基斯坦 ]
-[	UNTERM_Chinese_Formal	 :: 巴基斯坦伊斯兰共和国 ]
-[	UNTERM_French_Formal	 :: la République islamique du Pakistan ]
-[	UNTERM_Russian	 :: Пакистан ]
-[	UNTERM_Russian_Formal	 :: Исламская Республика Пакистан ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Southern Asia]] 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 34 ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 1168579 ]
-[	FIPS	 :: PK ]
-[	FIFA	 :: PAK ]
-[	IOC	 :: PAK ]
-[	MARC	 :: pk ]
-[	GAUL	 :: 188 ]
-[	WMO	 :: PK ]
-[	ITU	 :: PAK ]
-[	DS	 :: PK ]
-[	TLD	 :: .pk ]
-[	EDGAR	 :: R0 ]
-[	M49	 :: 586 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 586 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::PK]
-[ISO3::PAK] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Pakistan,843|WD~Pakistan,843]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Pakistan 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Pakistan/ReadMe]] 
 
@@ -571,23 +661,23 @@ markerFile: [[Pakistan]]
 defaultZoom: 5 
 ```
 
-[name-en::Pakistan]
-[name-de::Pakistan]
-[Area-Total::796095]
-[Area-Land::770880]
-has_place_continent:: [[Asia]]  
-[VehicleCode::PK]
-Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]  
+[has_name_en::Pakistan]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Pakistan.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Pakistan.mp3]]
 
 ![[Pakistan/Flag_of_Pakistan.svg|350]]  
-[Alcohol-l::0.1]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::70.1033]
-[has_place_latitude::29.2633]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

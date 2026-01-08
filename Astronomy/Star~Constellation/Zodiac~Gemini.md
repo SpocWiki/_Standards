@@ -53,9 +53,9 @@ short_name: Gem
 
 [SpocWebEntityId::28120]
 
-[name-la::Gemini]
-[name-genitive::Geminorum]
-[name-de::Zwillinge]
+[#has_/name_/la::Gemini]
+[#has_/name_/la_/genitive::Geminorum]
+[#has_/name_/de::Zwillinge]
 
 #is_/same_as :: [[../../WikiData/WD~Gemini,8923|WD~Gemini,8923]] 
 

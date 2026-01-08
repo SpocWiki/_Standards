@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Arabian_Peninsula,31945|WD~Arabian_Peninsula,31945]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Arabian_Peninsula|Arabian_Peninsula]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.public|Arabian_Peninsula.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.internal|Arabian_Peninsula.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.protect|Arabian_Peninsula.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.private|Arabian_Peninsula.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.personal|Arabian_Peninsula.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.secret|Arabian_Peninsula.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Arabian_Peninsula,31945|WD~Arabian_Peninsula,31945]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Arabian_Peninsula|Arabian_Peninsula]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.public|Arabian_Peninsula.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.internal|Arabian_Peninsula.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.protect|Arabian_Peninsula.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.private|Arabian_Peninsula.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.personal|Arabian_Peninsula.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.secret|Arabian_Peninsula.secret]]"
+---
 
 # [[Arabian_Peninsula]] 
 

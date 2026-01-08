@@ -1,4 +1,30 @@
-﻿---
+---
+dv_has_name_en: Zanzibar
+dv_has_name_de: Sansibar
+dv_has_place_continent: "[[../../Africa]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 39.3167
+dv_has_place_latitude: -6.13333
+dv_is_:
+  same_as:
+    - "[[WD~Zanzibar,1774]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Zanzibar|Zanzibar]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Zanzibar.public|Zanzibar.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Zanzibar.internal|Zanzibar.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Zanzibar.protect|Zanzibar.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Zanzibar.private|Zanzibar.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Zanzibar.personal|Zanzibar.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Zanzibar.secret|Zanzibar.secret]]"
+dv_is_same_as:
+  - "[[WD~Zanzibar,1774]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Zanzibar|Zanzibar]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Zanzibar.public|Zanzibar.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Zanzibar.internal|Zanzibar.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Zanzibar.protect|Zanzibar.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Zanzibar.private|Zanzibar.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Zanzibar.personal|Zanzibar.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Zanzibar.secret|Zanzibar.secret]]"
+
 has_time_started: 1964-04-26 
 aliases:
   - Unguja
@@ -76,21 +102,21 @@ geojsonFolder: ./Zanzibar/
 markerFolder: ./Zanzibar/
 ```
 
-[name-en::Zanzibar]
-[name-de::Sansibar]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Africa]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::39.3167]
-[has_place_latitude::-6.13333]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
-#is_/same_as :: [[WD~Zanzibar,1774]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract 
 

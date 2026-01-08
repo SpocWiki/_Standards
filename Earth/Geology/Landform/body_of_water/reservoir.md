@@ -9,36 +9,36 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservoir
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_reservoir Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_reservoir Class
 type: Type
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from:
-  - '[[_Standards/WikiData/WD~reservoir,1047832]]'
-  - '[[_Standards/WikiData/WD~water_reservoir,2551525]]'
-  - '[[_Standards/WikiData/WD~water_storage,7973769]]'
-  - '[[_Standards/WikiData/WD~Q25424259,25424259]]'
+  - "[[_Standards/WikiData/WD~reservoir,1047832]]"
+  - "[[_Standards/WikiData/WD~water_reservoir,2551525]]"
+  - "[[_Standards/WikiData/WD~water_storage,7973769]]"
+  - "[[_Standards/WikiData/WD~Q25424259,25424259]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~water_reservoir,2551525]]'
-  - '[[_Standards/WikiData/WD~artificial_lake,3215290]]'
-  - '[[_Standards/WikiData/WD~Q11727010,11727010]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_reservoir,13411749]]'
+  - "[[_Standards/WikiData/WD~water_reservoir,2551525]]"
+  - "[[_Standards/WikiData/WD~artificial_lake,3215290]]"
+  - "[[_Standards/WikiData/WD~Q11727010,11727010]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_reservoir,13411749]]"
 properties_for_this_type:
   - Code for China Reservoir Name
   - SNCZI-IPE reservoir ID
@@ -57,6 +57,31 @@ Commons_category: Reservoirs
 OpenStreetMap_tag:
   - landuse=reservoir
   - water=reservoir
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Reservoir,131681|WD~Reservoir,131681]]"
+    - "[[/_Standards/Earth/Geology/Landform/body_of_water/reservoir|reservoir]]"
+    - "[[/_public/Earth/Geology/Landform/body_of_water/reservoir.public|reservoir.public]]"
+    - "[[/_internal/Earth/Geology/Landform/body_of_water/reservoir.internal|reservoir.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/body_of_water/reservoir.protect|reservoir.protect]]"
+    - "[[/_private/Earth/Geology/Landform/body_of_water/reservoir.private|reservoir.private]]"
+    - "[[/_personal/Earth/Geology/Landform/body_of_water/reservoir.personal|reservoir.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/body_of_water/reservoir.secret|reservoir.secret]]"
+dv_#is_:
+  sub_class_of: "[[../BodyOfWater]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Reservoir,131681|WD~Reservoir,131681]]"
+  - "[[/_Standards/Earth/Geology/Landform/body_of_water/reservoir|reservoir]]"
+  - "[[/_public/Earth/Geology/Landform/body_of_water/reservoir.public|reservoir.public]]"
+  - "[[/_internal/Earth/Geology/Landform/body_of_water/reservoir.internal|reservoir.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/body_of_water/reservoir.protect|reservoir.protect]]"
+  - "[[/_private/Earth/Geology/Landform/body_of_water/reservoir.private|reservoir.private]]"
+  - "[[/_personal/Earth/Geology/Landform/body_of_water/reservoir.personal|reservoir.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/body_of_water/reservoir.secret|reservoir.secret]]"
+dv_is_sub_class_of: "[[../BodyOfWater]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 ---
 
 # [[Reservoir]] 
@@ -70,9 +95,9 @@ Tag Instances like this:
 
 A reservoir of water, typically an artificially created lake, like the Lake Kariba reservoir.
 
-[ #is_/sub_class_of :: [[../BodyOfWater]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 ## #has_/text_of_/abstract 
 

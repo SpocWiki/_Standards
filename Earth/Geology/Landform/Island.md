@@ -9,28 +9,28 @@ MeSH_tree_code:
   - N06.230.295
 OpenStreetMap_tag: place=island
 subclass_of:
-  - '[[_Standards/WikiData/WD~landmass,205895]]'
-  - '[[_Standards/WikiData/WD~landform,271669]]'
-  - '[[_Standards/WikiData/WD~geographic_location,2221906]]'
-  - '[[_Standards/WikiData/WD~physical_location,17334923]]'
+  - "[[_Standards/WikiData/WD~landmass,205895]]"
+  - "[[_Standards/WikiData/WD~landform,271669]]"
+  - "[[_Standards/WikiData/WD~geographic_location,2221906]]"
+  - "[[_Standards/WikiData/WD~physical_location,17334923]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Skärgårdsnamn,113529907]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-  - '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
-model_item: '[[_Standards/WikiData/WD~Gotland,1027830]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Skärgårdsnamn,113529907]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - "[[_Standards/WikiData/WD~Kartographer_icon,134980502]]"
+model_item: "[[_Standards/WikiData/WD~Gotland,1027830]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Songo_Mnara,2301527]]'
-  - '[[_Standards/WikiData/WD~Wyspa,9380282]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_islands,5616685]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Islands,14615962]]'
-instance_of: '[[_Standards/WikiData/WD~place_type,25894868]]'
-occupant: '[[_Standards/WikiData/WD~islanders,122974170]]'
+  - "[[_Standards/WikiData/WD~Songo_Mnara,2301527]]"
+  - "[[_Standards/WikiData/WD~Wyspa,9380282]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_islands,5616685]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Islands,14615962]]"
+instance_of: "[[_Standards/WikiData/WD~place_type,25894868]]"
+occupant: "[[_Standards/WikiData/WD~islanders,122974170]]"
 properties_for_this_type:
   - highest point
   - coordinate location
@@ -57,6 +57,25 @@ equivalent_class: http://dbpedia.org/ontology/Island
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000098
 EntitySchema_for_this_class: E453
 UMLS_CUI: C0022130
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Island,23442]]"
+    - "[[/_Standards/Earth/Geology/Landform/Island|Island]]"
+    - "[[/_public/Earth/Geology/Landform/Island.public|Island.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Island.internal|Island.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Island.protect|Island.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Island.private|Island.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Island.personal|Island.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Island.secret|Island.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Island,23442]]"
+  - "[[/_Standards/Earth/Geology/Landform/Island|Island]]"
+  - "[[/_public/Earth/Geology/Landform/Island.public|Island.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Island.internal|Island.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Island.protect|Island.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Island.private|Island.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Island.personal|Island.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Island.secret|Island.secret]]"
 ---
 
 # [[Island]] 

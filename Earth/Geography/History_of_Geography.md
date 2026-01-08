@@ -10,6 +10,25 @@ practiced_by: "[[_Standards/WikiData/WD~historian_of_geography,108669379]]"
 is_the_study_of: "[[_Standards/WikiData/WD~geography,1071]]"
 facet_of: "[[_Standards/WikiData/WD~geography,1071]]"
 Commons_category: History of geography
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~History_of_geography,911070|WD~History_of_geography,911070]]"
+    - "[[/_Standards/Earth/Geography/History_of_Geography|History_of_Geography]]"
+    - "[[/_public/Earth/Geography/History_of_Geography.public|History_of_Geography.public]]"
+    - "[[/_internal/Earth/Geography/History_of_Geography.internal|History_of_Geography.internal]]"
+    - "[[/_protect/Earth/Geography/History_of_Geography.protect|History_of_Geography.protect]]"
+    - "[[/_private/Earth/Geography/History_of_Geography.private|History_of_Geography.private]]"
+    - "[[/_personal/Earth/Geography/History_of_Geography.personal|History_of_Geography.personal]]"
+    - "[[/_secret/Earth/Geography/History_of_Geography.secret|History_of_Geography.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~History_of_geography,911070|WD~History_of_geography,911070]]"
+  - "[[/_Standards/Earth/Geography/History_of_Geography|History_of_Geography]]"
+  - "[[/_public/Earth/Geography/History_of_Geography.public|History_of_Geography.public]]"
+  - "[[/_internal/Earth/Geography/History_of_Geography.internal|History_of_Geography.internal]]"
+  - "[[/_protect/Earth/Geography/History_of_Geography.protect|History_of_Geography.protect]]"
+  - "[[/_private/Earth/Geography/History_of_Geography.private|History_of_Geography.private]]"
+  - "[[/_personal/Earth/Geography/History_of_Geography.personal|History_of_Geography.personal]]"
+  - "[[/_secret/Earth/Geography/History_of_Geography.secret|History_of_Geography.secret]]"
 ---
 
 # [[History_of_Geography]] 

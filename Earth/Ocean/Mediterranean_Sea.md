@@ -1,5 +1,33 @@
-﻿---
-location: [ 17.0 , 38.0 ] 
+---
+dv_has_:
+  time_:
+    destroyed:
+      Ma: -5.9
+    started:
+      Ma: -5.3
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]"
+    - "[[/_Standards/Earth/Ocean/Mediterranean_Sea|Mediterranean_Sea]]"
+    - "[[/_public/Earth/Ocean/Mediterranean_Sea.public|Mediterranean_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Mediterranean_Sea.internal|Mediterranean_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Mediterranean_Sea.protect|Mediterranean_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Mediterranean_Sea.private|Mediterranean_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Mediterranean_Sea.personal|Mediterranean_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Mediterranean_Sea.secret|Mediterranean_Sea.secret]]"
+dv_has_time_destroyedma: -5.9
+dv_has_time_startedma: -5.3
+dv_is_same_as:
+  - "[[../../WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]"
+  - "[[/_Standards/Earth/Ocean/Mediterranean_Sea|Mediterranean_Sea]]"
+  - "[[/_public/Earth/Ocean/Mediterranean_Sea.public|Mediterranean_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Mediterranean_Sea.internal|Mediterranean_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Mediterranean_Sea.protect|Mediterranean_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Mediterranean_Sea.private|Mediterranean_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Mediterranean_Sea.personal|Mediterranean_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Mediterranean_Sea.secret|Mediterranean_Sea.secret]]"
+
+location: [ 38.0, 17 ] 
 aliases:
   - Mediterranean Sea
   - Mediterranean_Sea
@@ -361,6 +389,20 @@ volume_as_quantity: 3839000
 #has_/time_/destroyed/Ma :: -5.9
 #has_/time_/started/Ma :: -5.3 
 #is_/same_as :: [[../../WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]] 
+
+## #has_/map  
+
+```leaflet
+id: Mediterranean_Sea
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Mediterranean_Sea//
+markerFolder: ./Mediterranean_Sea/
+coordinates: [[Mediterranean_Sea]] 
+markerFile: [[Mediterranean_Sea]] 
+defaultZoom: 4 
+```
 
 ## #has_/text_of_/abstract 
 

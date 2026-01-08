@@ -1,5 +1,94 @@
-﻿---
-location: [ 2.183333333 , 8.833333333 ] 
+---
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Benin
+dv_ISO4217-currency_alphabetic: XOF
+dv_ISO4217-currency_name: CFA Franc BCEAO
+dv_ISO4217-currency_numeric: 952
+dv_ISO4217-currency_minor_unit: 0
+dv_ISO4217-currency_country_name: BENIN
+dv_Telephone: 229
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Benin
+dv_has_name_en: Benin
+dv_has_name_es: Benin
+dv_has_name_fr: Bénin
+dv_has_name_cn: 贝宁
+dv_has_name_ar: بنن
+dv_has_name_ru: Бенин
+dv_CLDR_display_name: Benin
+dv_UNTERM_English: Benin
+dv_UNTERM_English_Formal: the Republic of Benin
+dv_UNTERM_Spanish_Formal: la República de Benin
+dv_UNTERM_Spanish: Benin
+dv_UNTERM_French: Bénin (le)
+dv_UNTERM_Arabic: بنن
+dv_UNTERM_Arabic_Formal: جمهورية بنن
+dv_UNTERM_Chinese: 贝宁
+dv_UNTERM_Chinese_Formal: 贝宁共和国
+dv_UNTERM_French_Formal: la République du Bénin
+dv_UNTERM_Russian: Бенин
+dv_UNTERM_Russian_Formal: Республика Бенин
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 2395170
+dv_FIPS: BN
+dv_FIFA: BEN
+dv_IOC: BEN
+dv_MARC: dm
+dv_GAUL: 29
+dv_WMO: BJ
+dv_ITU: BEN
+dv_DS: DY
+dv_TLD: .bj
+dv_EDGAR: G6
+dv_M49: 204
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 204
+dv_ISO2: BJ
+dv_ISO3: BEN
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Benin,962|WD~Benin,962]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Benin|Benin]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Benin.public|Benin.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Benin.internal|Benin.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Benin.protect|Benin.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Benin.private|Benin.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Benin.personal|Benin.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Benin.secret|Benin.secret]]"
+dv_has_name_de: Benin
+dv_Area-Total: 112622
+dv_Area-Land: 110620
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: BJ
+dv_Capital: "[[Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo]]"
+dv_Alcohol-l: 2.2
+dv_Language-Id: 496
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 2.6
+dv_has_place_latitude: 6.46667
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Benin
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Benin,962|WD~Benin,962]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Benin|Benin]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Benin.public|Benin.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Benin.internal|Benin.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Benin.protect|Benin.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Benin.private|Benin.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Benin.personal|Benin.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Benin.secret|Benin.secret]]"
+
 aliases:
   - Benin
   - Bénin
@@ -378,78 +467,80 @@ Languages:
 
 # [[Benin]] 
 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
+
+Telephone = `=this.dv_Telephone`
+
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
+[	has_name_en	 :: Benin ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+
+CLDR_display_name = `=this.dv_CLDR_display_name`
+
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
+
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
+
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
+
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
+[	Small_is_a_ = `=this.dv_is_a_`
+
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
+
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
+
+is_a_ = `=this.dv_is_a_`
+
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Benin 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Benin/ReadMe]] 
 
-[	ISO4217-currency_alphabetic	 :: XOF ]
-[	ISO4217-currency_name	 :: CFA Franc BCEAO ]
-[	ISO4217-currency_numeric	 :: 952 ]
-[	ISO4217-currency_minor_unit	 :: 0 ]
-[	ISO4217-currency_country_name	 :: BENIN ]
-
-[	Telephone	 :: 229 ]
-
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
-
-[	name	 :: Benin ]
-[	name-en	 :: Benin ]
-[	name-es	 :: Benin ]
-[	name-fr	 :: Bénin ]
-[	name-cn	 :: 贝宁 ]
-[	name-ar	 :: بنن ]
-[	name-ru	 :: Бенин ]
-
-[	CLDR_display_name	 :: Benin ]
-
-[	UNTERM_English	 :: Benin ]
-[	UNTERM_English_Formal	 :: the Republic of Benin ]
-[	UNTERM_Spanish_Formal	 :: la República de Benin ]
-[	UNTERM_Spanish	 :: Benin ]
-[	UNTERM_French	 :: Bénin (le) ]
-[	UNTERM_Arabic	 :: بنن ]
-[	UNTERM_Arabic_Formal	 :: جمهورية بنن ]
-[	UNTERM_Chinese	 :: 贝宁 ]
-[	UNTERM_Chinese_Formal	 :: 贝宁共和国 ]
-[	UNTERM_French_Formal	 :: la République du Bénin ]
-[	UNTERM_Russian	 :: Бенин ]
-[	UNTERM_Russian_Formal	 :: Республика Бенин ]
-
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
-
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
-
-[	Geoname-ID	 :: 2395170 ]
-[	FIPS	 :: BN ]
-[	FIFA	 :: BEN ]
-[	IOC	 :: BEN ]
-[	MARC	 :: dm ]
-[	GAUL	 :: 29 ]
-[	WMO	 :: BJ ]
-[	ITU	 :: BEN ]
-[	DS	 :: DY ]
-[	TLD	 :: .bj ]
-[	EDGAR	 :: G6 ]
-[	M49	 :: 204 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
-[	Small_Island_Developing_States	 ::  ]
-
-[	ISO3166-1-numeric	 :: 204 ]
-
-[ISO2::BJ]
-[ISO3::BEN]
-
-#is_/same_as :: [[../../../../WikiData/WD~Benin,962|WD~Benin,962]]  
+## #has_/map 
 
 ```leaflet
 id: Benin
@@ -458,27 +549,30 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Benin//
 markerFolder: ./Benin//
+coordinates: [[Benin]] 
+markerFile: [[Benin]] 
+defaultZoom: 5 
 ```
 
-[name-en::Benin]
-[name-de::Benin]
-[Area-Total::112622]
-[Area-Land::110620]
-has_place_continent:: [[Africa]]  
-[VehicleCode::BJ]
-Capital :: [[Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo]]  
+[has_name_en::Benin]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Benin.svg|350]]
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Benin.mp3]]
 
 ![[Flag_of_Benin.svg|350]]
-[Alcohol-l::2.2]
-[Language-Id::496]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::2.6]
-[has_place_latitude::6.46667]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

@@ -10,21 +10,46 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - civic_structure
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_civic_structure Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_civic_structure Class
 type: Type
+dv_#is_:
+  sub_class_of: "[[../Place]]"
+dv_#has_:
+  sub_classes: "[ Airport, Aquarium, Beach, BoatTerminal, Bridge, BusStation, BusStop, Campground, Cemetery, Crematorium, EducationalOrganization, EventVenue, FireStation, GovernmentBuilding, Hospital, MovieTheater, Museum, MusicVenue, Park, ParkingFacility, PerformingArtsTheater, PlaceOfWorship, Playground, PoliceStation, PublicToilet, RVPark, StadiumOrArena, SubwayStation, TaxiStand, TrainStation, Zoo ]"
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure|Civic_Structure]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure.public|Civic_Structure.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure.internal|Civic_Structure.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure.protect|Civic_Structure.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure.private|Civic_Structure.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure.personal|Civic_Structure.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure.secret|Civic_Structure.secret]]"
+dv_is_sub_class_of: "[[../Place]]"
+dv_has_sub_classes: "[ Airport, Aquarium, Beach, BoatTerminal, Bridge, BusStation, BusStop, Campground, Cemetery, Crematorium, EducationalOrganization, EventVenue, FireStation, GovernmentBuilding, Hospital, MovieTheater, Museum, MusicVenue, Park, ParkingFacility, PerformingArtsTheater, PlaceOfWorship, Playground, PoliceStation, PublicToilet, RVPark, StadiumOrArena, SubwayStation, TaxiStand, TrainStation, Zoo ]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure|Civic_Structure]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure.public|Civic_Structure.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure.internal|Civic_Structure.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure.protect|Civic_Structure.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure.private|Civic_Structure.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure.personal|Civic_Structure.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure.secret|Civic_Structure.secret]]"
 ---
 
 Class of all civic_structures.
@@ -34,11 +59,11 @@ Tag Instances like this:
 
 A public structure, such as a town hall or concert hall.
 
-[ #is_/sub_class_of :: [[../../../../Earth/Geography/Place]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/sub_classes :: [ Airport, Aquarium, Beach, BoatTerminal, Bridge, BusStation, BusStop, Campground, Cemetery, Crematorium, EducationalOrganization, EventVenue, FireStation, GovernmentBuilding, Hospital, MovieTheater, Museum, MusicVenue, Park, ParkingFacility, PerformingArtsTheater, PlaceOfWorship, Playground, PoliceStation, PublicToilet, RVPark, StadiumOrArena, SubwayStation, TaxiStand, TrainStation, Zoo ] ]
+has_sub_classes = `=this.dv_has_sub_classes` ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 
 ## Confidential Links & Embeds: 

@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB|Guantanamo_Bay_USNB]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.public|Guantanamo_Bay_USNB.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.internal|Guantanamo_Bay_USNB.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.protect|Guantanamo_Bay_USNB.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.private|Guantanamo_Bay_USNB.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.personal|Guantanamo_Bay_USNB.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.secret|Guantanamo_Bay_USNB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB|Guantanamo_Bay_USNB]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.public|Guantanamo_Bay_USNB.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.internal|Guantanamo_Bay_USNB.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.protect|Guantanamo_Bay_USNB.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.private|Guantanamo_Bay_USNB.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.personal|Guantanamo_Bay_USNB.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/Guantanamo_Bay_USNB.secret|Guantanamo_Bay_USNB.secret]]"
 ---
 
 # Guantanamo_Bay_USNB

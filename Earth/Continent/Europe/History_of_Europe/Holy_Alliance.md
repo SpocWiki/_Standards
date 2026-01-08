@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Holy_Alliance,154640]]"
+    - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/Holy_Alliance|Holy_Alliance]]"
+    - "[[/_public/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.public|Holy_Alliance.public]]"
+    - "[[/_internal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.internal|Holy_Alliance.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.protect|Holy_Alliance.protect]]"
+    - "[[/_private/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.private|Holy_Alliance.private]]"
+    - "[[/_personal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.personal|Holy_Alliance.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.secret|Holy_Alliance.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Holy_Alliance,154640]]"
+  - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/Holy_Alliance|Holy_Alliance]]"
+  - "[[/_public/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.public|Holy_Alliance.public]]"
+  - "[[/_internal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.internal|Holy_Alliance.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.protect|Holy_Alliance.protect]]"
+  - "[[/_private/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.private|Holy_Alliance.private]]"
+  - "[[/_personal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.personal|Holy_Alliance.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.secret|Holy_Alliance.secret]]"
+
 has_time_started: 1815-09-26 
 aliases:
   - Holy Alliance

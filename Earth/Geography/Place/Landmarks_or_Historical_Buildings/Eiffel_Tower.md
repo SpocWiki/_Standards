@@ -1,5 +1,27 @@
-﻿---
-location: [ 2.294479 , 48.858296 ] 
+---
+dv_"Building", "EiffelTower: 5h9w8"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Eiffel_Tower,243|WD~Eiffel_Tower,243]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower|Eiffel_Tower]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.public|Eiffel_Tower.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.internal|Eiffel_Tower.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.protect|Eiffel_Tower.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.private|Eiffel_Tower.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.personal|Eiffel_Tower.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.secret|Eiffel_Tower.secret]]"
+dv_building-eiffeltower: 5h9w8"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Eiffel_Tower,243|WD~Eiffel_Tower,243]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower|Eiffel_Tower]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.public|Eiffel_Tower.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.internal|Eiffel_Tower.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.protect|Eiffel_Tower.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.private|Eiffel_Tower.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.personal|Eiffel_Tower.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Eiffel_Tower.secret|Eiffel_Tower.secret]]"
+
+location: [ 48.858296, 2.294479 ] 
 aliases:
   - Eiffel Tower
   - Eiffel_Tower
@@ -59,7 +81,7 @@ located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~7th_
 located_on_street:
   - '[[_Standards/WikiData/WD~Champ_de_Mars,217925]]'
   - '[[_Standards/WikiData/WD~avenue_Anatole-France,2873520]]'
-location: '[[_Standards/WikiData/WD~Champ_de_Mars,217925]]'
+locations: '[[_Standards/WikiData/WD~Champ_de_Mars,217925]]'
 made_from_material:
   - '[[_Standards/WikiData/WD~wrought_iron,860451]]'
   - '[[_Standards/WikiData/WD~puddled_iron,2642947]]'
@@ -97,7 +119,7 @@ view: http://commons.wikimedia.org/wiki/Special:FilePath/Champ%20de%20Mars%20fro
 visitors_per_year: 6207303
 webcam_page_URL: https://www.skylinewebcams.com/fr/webcam/france/ile-de-france/paris/tour-eiffel.html
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Paris%20in%20the%20winter%20%2838441642120%29.jpg
-Wolfram_Language_entity_code: Entity["Building", "EiffelTower::5h9w8"]
+Wolfram_Language_entity_code: Entity"Building", "EiffelTower = `=this.dv_"Building", "EiffelTower`
 X_Twitter_username: LaTourEiffel
 ---
 
@@ -106,6 +128,20 @@ X_Twitter_username: LaTourEiffel
 #is_/same_as :: [[../../../../WikiData/WD~Eiffel_Tower,243|WD~Eiffel_Tower,243]] 
 
 ![[../../../../assets/Eiffel_Tower.png]] 
+
+## #has_/map  
+
+```leaflet
+id: Eiffel_Tower
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Eiffel_Tower//
+markerFolder: ./Eiffel_Tower/
+coordinates: [[Eiffel_Tower]] 
+markerFile: [[Eiffel_Tower]] 
+defaultZoom: 15 
+```
 
 ## #has_/text_of_/abstract 
 

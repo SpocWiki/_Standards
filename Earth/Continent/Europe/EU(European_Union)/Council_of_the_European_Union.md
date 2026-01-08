@@ -1,4 +1,26 @@
-﻿---
+---
+dv_is_:
+  different_from: "[[../Council_of_Europe|Council_of_Europe]]"
+  same_as:
+    - "[[../../../../WikiData/WD~Council_of_the_European_Union,8896|WD~Council_of_the_European_Union,8896]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union|Council_of_the_European_Union]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.public|Council_of_the_European_Union.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.internal|Council_of_the_European_Union.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.protect|Council_of_the_European_Union.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.private|Council_of_the_European_Union.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.personal|Council_of_the_European_Union.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.secret|Council_of_the_European_Union.secret]]"
+dv_is_different_from: "[[../Council_of_Europe|Council_of_Europe]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Council_of_the_European_Union,8896|WD~Council_of_the_European_Union,8896]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union|Council_of_the_European_Union]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.public|Council_of_the_European_Union.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.internal|Council_of_the_European_Union.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.protect|Council_of_the_European_Union.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.private|Council_of_the_European_Union.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.personal|Council_of_the_European_Union.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/Council_of_the_European_Union.secret|Council_of_the_European_Union.secret]]"
+
 has_time_started: 1957-01-01 
 aliases:
   - Council of the European Union
@@ -94,7 +116,7 @@ Bluesky_handle:
 
 # [[Council_of_the_European_Union]] 
 
-#is_/different_from :: [[../Council_of_Europe|Council_of_Europe]] 
+is_different_from = `=this.dv_is_different_from`
 #is_/same_as :: [[../../../../WikiData/WD~Council_of_the_European_Union,8896|WD~Council_of_the_European_Union,8896]] 
 
 ## #has_/text_of_/responsibilities 

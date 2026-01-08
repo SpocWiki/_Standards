@@ -54,7 +54,7 @@ UNII: MNQ4O4WSI1
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+Group::[[../Lanthanide]]
 
 
 [#has_/name_/en::Ytterbium]
@@ -63,7 +63,7 @@ UNII: MNQ4O4WSI1
 [AtomRadius::2.4]
 [Atom-Vol-ccm-mol::24.79]
 [Unknown2::1.74]
-[#has_/radius_/nm::6.254]
+[#has_/radius_/nano_/m::6.254]
 [Electronegative::1.1]
 [Density::6.98]
 [#has_/value_for_/temperature_/melt_/c ::824]

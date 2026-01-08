@@ -3,6 +3,25 @@ aliases:
 has_id_wikidata: Q595991
 subclass_of: "[[_Standards/WikiData/WD~geological_formation,736917]]"
 Commons_category: Greenstone belts
+dv_is_:
+  same_as:
+    - "[[Greenstone_belt,595991]]"
+    - "[[/_Standards/Earth/Geology/Mineral/Greenstone_Belt|Greenstone_Belt]]"
+    - "[[/_public/Earth/Geology/Mineral/Greenstone_Belt.public|Greenstone_Belt.public]]"
+    - "[[/_internal/Earth/Geology/Mineral/Greenstone_Belt.internal|Greenstone_Belt.internal]]"
+    - "[[/_protect/Earth/Geology/Mineral/Greenstone_Belt.protect|Greenstone_Belt.protect]]"
+    - "[[/_private/Earth/Geology/Mineral/Greenstone_Belt.private|Greenstone_Belt.private]]"
+    - "[[/_personal/Earth/Geology/Mineral/Greenstone_Belt.personal|Greenstone_Belt.personal]]"
+    - "[[/_secret/Earth/Geology/Mineral/Greenstone_Belt.secret|Greenstone_Belt.secret]]"
+dv_is_same_as:
+  - "[[Greenstone_belt,595991]]"
+  - "[[/_Standards/Earth/Geology/Mineral/Greenstone_Belt|Greenstone_Belt]]"
+  - "[[/_public/Earth/Geology/Mineral/Greenstone_Belt.public|Greenstone_Belt.public]]"
+  - "[[/_internal/Earth/Geology/Mineral/Greenstone_Belt.internal|Greenstone_Belt.internal]]"
+  - "[[/_protect/Earth/Geology/Mineral/Greenstone_Belt.protect|Greenstone_Belt.protect]]"
+  - "[[/_private/Earth/Geology/Mineral/Greenstone_Belt.private|Greenstone_Belt.private]]"
+  - "[[/_personal/Earth/Geology/Mineral/Greenstone_Belt.personal|Greenstone_Belt.personal]]"
+  - "[[/_secret/Earth/Geology/Mineral/Greenstone_Belt.secret|Greenstone_Belt.secret]]"
 ---
 
 # [[Greenstone_Belt]] 

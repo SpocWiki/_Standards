@@ -50,9 +50,9 @@ official_name: Aquila
 [SpocWebEntityId::28087]
 
 
-[name-la::Aquila]
-[name-genitive::Aquilae]
-[name-de::Adler]
+[#has_/name_/la::Aquila]
+[#has_/name_/la_/genitive::Aquilae]
+[#has_/name_/de::Adler]
 
 #is_/same_as :: [[../../WikiData/WD~Aquila,10586|WD~Aquila,10586]] 
 

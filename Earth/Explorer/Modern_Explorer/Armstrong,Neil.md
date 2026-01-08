@@ -3,123 +3,140 @@ aliases:
   - Neil Armstrong
   - Armstrong,Neil
 has_id_wikidata: Q1615
-ancestral_home: '[[_Standards/WikiData/WD~Germany,183]]'
+ancestral_home: "[[_Standards/WikiData/WD~Germany,183]]"
 astronaut_mission:
-  - '[[_Standards/WikiData/WD~Gemini_8,617651]]'
-  - '[[_Standards/WikiData/WD~Apollo_11,43653]]'
+  - "[[_Standards/WikiData/WD~Gemini_8,617651]]"
+  - "[[_Standards/WikiData/WD~Apollo_11,43653]]"
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Phrase%20de%20Neil%20Armstrong.oga
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_the_White_Elephant,400287]]'
-  - '[[_Standards/WikiData/WD~Cullum_Geographical_Medal,402425]]'
-  - '[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]'
-  - '[[_Standards/WikiData/WD~Order_of_Culture,530124]]'
-  - '[[_Standards/WikiData/WD~United_Nations_Medal,631727]]'
-  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-  - '[[_Standards/WikiData/WD~United_States_Astronaut_Hall_of_Fame,742943]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Yugoslav_Star,747248]]'
-  - '[[_Standards/WikiData/WD~Air_Medal,980090]]'
-  - '[[_Standards/WikiData/WD~Collier_Trophy,1109489]]'
-  - '[[_Standards/WikiData/WD~Congressional_Space_Medal_of_Honor,1126046]]'
-  - '[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]'
-  - '[[_Standards/WikiData/WD~Korean_Service_Medal,2613227]]'
-  - '[[_Standards/WikiData/WD~Eagle_Scout,3046356]]'
-  - '[[_Standards/WikiData/WD~NASA_Distinguished_Service_Medal,4286902]]'
-  - '[[_Standards/WikiData/WD~Hubbard_Medal,4287207]]'
-  - '[[_Standards/WikiData/WD~Sylvanus_Thayer_Award,4311715]]'
-  - '[[_Standards/WikiData/WD~Arthur_S._Flemming_Award,4800207]]'
-  - '[[_Standards/WikiData/WD~Distinguished_Eagle_Scout_Award,5282987]]'
-  - '[[_Standards/WikiData/WD~Langley_Gold_Medal,6486246]]'
-  - '[[_Standards/WikiData/WD~Silver_Buffalo_Award,7515877]]'
-  - '[[_Standards/WikiData/WD~Washington_Award,7971681]]'
-  - '[[_Standards/WikiData/WD~Livingstone_Medal,10568200]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+  - "[[_Standards/WikiData/WD~Order_of_the_White_Elephant,400287]]"
+  - "[[_Standards/WikiData/WD~Cullum_Geographical_Medal,402425]]"
+  - "[[_Standards/WikiData/WD~National_Aviation_Hall_of_Fame,488005]]"
+  - "[[_Standards/WikiData/WD~Order_of_Culture,530124]]"
+  - "[[_Standards/WikiData/WD~United_Nations_Medal,631727]]"
+  - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
+  - "[[_Standards/WikiData/WD~United_States_Astronaut_Hall_of_Fame,742943]]"
+  - "[[_Standards/WikiData/WD~Order_of_the_Yugoslav_Star,747248]]"
+  - "[[_Standards/WikiData/WD~Air_Medal,980090]]"
+  - "[[_Standards/WikiData/WD~Collier_Trophy,1109489]]"
+  - "[[_Standards/WikiData/WD~Congressional_Space_Medal_of_Honor,1126046]]"
+  - "[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]"
+  - "[[_Standards/WikiData/WD~Korean_Service_Medal,2613227]]"
+  - "[[_Standards/WikiData/WD~Eagle_Scout,3046356]]"
+  - "[[_Standards/WikiData/WD~NASA_Distinguished_Service_Medal,4286902]]"
+  - "[[_Standards/WikiData/WD~Hubbard_Medal,4287207]]"
+  - "[[_Standards/WikiData/WD~Sylvanus_Thayer_Award,4311715]]"
+  - "[[_Standards/WikiData/WD~Arthur_S._Flemming_Award,4800207]]"
+  - "[[_Standards/WikiData/WD~Distinguished_Eagle_Scout_Award,5282987]]"
+  - "[[_Standards/WikiData/WD~Langley_Gold_Medal,6486246]]"
+  - "[[_Standards/WikiData/WD~Silver_Buffalo_Award,7515877]]"
+  - "[[_Standards/WikiData/WD~Washington_Award,7971681]]"
+  - "[[_Standards/WikiData/WD~Livingstone_Medal,10568200]]"
+  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
   - "[[_Standards/WikiData/WD~Grande_Médaille_d'Or_des_Explorations,19904118]]"
-  - '[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+  - "[[_Standards/WikiData/WD~International_Space_Hall_of_Fame,99951011]]"
+  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
 BHCL_UUID: 2121ea23-af3a-4d59-80c4-35aa6fbb0179
 birth_name: Neil Alden Armstrong
-cause_of_death: '[[_Standards/WikiData/WD~surgical_complications,14467705]]'
-child: '[[_Standards/WikiData/WD~Rick_Armstrong,124318888]]'
+cause_of_death: "[[_Standards/WikiData/WD~surgical_complications,14467705]]"
+child: "[[_Standards/WikiData/WD~Rick_Armstrong,124318888]]"
 Commons_category: Neil Armstrong
 Commons_gallery: Neil Armstrong
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 date_of_birth: 1930-08-05
 date_of_death: 2012-08-25
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-  - '[[_Standards/WikiData/WD~Astronomers__A_Biographical_Reference,126740695]]'
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+  - "[[_Standards/WikiData/WD~Astronomers__A_Biographical_Reference,126740695]]"
 educated_at:
-  - '[[_Standards/WikiData/WD~Purdue_University,217741]]'
-  - '[[_Standards/WikiData/WD~Blume_High_School,4930726]]'
-  - '[[_Standards/WikiData/WD~USC_Viterbi_School_of_Engineering,7866378]]'
-  - '[[_Standards/WikiData/WD~Wapakoneta_High_School,14716921]]'
-  - '[[_Standards/WikiData/WD~University_of_Southern_California,4614]]'
+  - "[[_Standards/WikiData/WD~Purdue_University,217741]]"
+  - "[[_Standards/WikiData/WD~Blume_High_School,4930726]]"
+  - "[[_Standards/WikiData/WD~USC_Viterbi_School_of_Engineering,7866378]]"
+  - "[[_Standards/WikiData/WD~Wapakoneta_High_School,14716921]]"
+  - "[[_Standards/WikiData/WD~University_of_Southern_California,4614]]"
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Cincinnati,153265]]'
-  - '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
-  - '[[_Standards/WikiData/WD~Tallahassee,37043]]'
-family_name: '[[_Standards/WikiData/WD~Armstrong,13627772]]'
-father: '[[_Standards/WikiData/WD~Stephen_Koenig_Armstrong,21179300]]'
+  - "[[_Standards/WikiData/WD~University_of_Cincinnati,153265]]"
+  - "[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]"
+  - "[[_Standards/WikiData/WD~Tallahassee,37043]]"
+family_name: "[[_Standards/WikiData/WD~Armstrong,13627772]]"
+father: "[[_Standards/WikiData/WD~Stephen_Koenig_Armstrong,21179300]]"
 field_of_work:
-  - '[[_Standards/WikiData/WD~space_exploration,180046]]'
-  - '[[_Standards/WikiData/WD~naval_aviation,1898464]]'
-  - '[[_Standards/WikiData/WD~aerospace_engineering,3798668]]'
+  - "[[_Standards/WikiData/WD~space_exploration,180046]]"
+  - "[[_Standards/WikiData/WD~naval_aviation,1898464]]"
+  - "[[_Standards/WikiData/WD~aerospace_engineering,3798668]]"
 given_name:
-  - '[[_Standards/WikiData/WD~Neil,5570878]]'
-  - '[[_Standards/WikiData/WD~Alden,19550817]]'
+  - "[[_Standards/WikiData/WD~Neil,5570878]]"
+  - "[[_Standards/WikiData/WD~Alden,19550817]]"
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]'
+  - "[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]"
+  - "[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neil%20Armstrong%20pose.jpg
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
 ISNI: 000000012147959X
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 Libris_URI: jgvz77424xr80mg
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 member_of:
-  - '[[_Standards/WikiData/WD~Scouting_America,608132]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
-  - '[[_Standards/WikiData/WD~Kappa_Kappa_Psi,3192863]]'
-  - '[[_Standards/WikiData/WD~Phi_Delta_Theta,3378722]]'
-  - '[[_Standards/WikiData/WD~Purdue_All-American_Marching_Band,7260967]]'
-  - '[[_Standards/WikiData/WD~Academy_of_the_Kingdom_of__for_Royaume,115898215]]'
+  - "[[_Standards/WikiData/WD~Scouting_America,608132]]"
+  - "[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]"
+  - "[[_Standards/WikiData/WD~Kappa_Kappa_Psi,3192863]]"
+  - "[[_Standards/WikiData/WD~Phi_Delta_Theta,3378722]]"
+  - "[[_Standards/WikiData/WD~Purdue_All-American_Marching_Band,7260967]]"
+  - "[[_Standards/WikiData/WD~Academy_of_the_Kingdom_of__for_Royaume,115898215]]"
 member_of_the_crew_of:
-  - '[[_Standards/WikiData/WD~Gemini_8,617651]]'
-  - '[[_Standards/WikiData/WD~Apollo_11,43653]]'
-military_branch: '[[_Standards/WikiData/WD~United_States_Navy,11220]]'
-military_or_police_rank: '[[_Standards/WikiData/WD~lieutenant_(junor_grade),1824398]]'
-mother: '[[_Standards/WikiData/WD~Viola_Louise_Engel,21179311]]'
+  - "[[_Standards/WikiData/WD~Gemini_8,617651]]"
+  - "[[_Standards/WikiData/WD~Apollo_11,43653]]"
+military_branch: "[[_Standards/WikiData/WD~United_States_Navy,11220]]"
+military_or_police_rank: "[[_Standards/WikiData/WD~lieutenant_(junor_grade),1824398]]"
+mother: "[[_Standards/WikiData/WD~Viola_Louise_Engel,21179311]]"
 name_in_native_language: Neil Alden Armstrong
 National_Library_of_Poland_Descriptor: 9810646466705606
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: "[[_Standards/WikiData/WD~English,1860]]"
 number_of_children: 3
 occupation:
-  - '[[_Standards/WikiData/WD~test_pilot,730242]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~United_States_Naval_Aviator,7890793]]'
-  - '[[_Standards/WikiData/WD~military_flight_engineer,10497074]]'
-  - '[[_Standards/WikiData/WD~astronaut,11631]]'
-part_of: '[[_Standards/WikiData/WD~NASA_Astronaut_Group_2,2409842]]'
-place_of_birth: '[[_Standards/WikiData/WD~Wapakoneta,492796]]'
-place_of_burial: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-place_of_death: '[[_Standards/WikiData/WD~Cincinnati,43196]]'
-present_in_work: '[[_Standards/WikiData/WD~Star_Trek__The_Original_Series_Core_Game_Book,115519946]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~deism,620629]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+  - "[[_Standards/WikiData/WD~test_pilot,730242]]"
+  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
+  - "[[_Standards/WikiData/WD~United_States_Naval_Aviator,7890793]]"
+  - "[[_Standards/WikiData/WD~military_flight_engineer,10497074]]"
+  - "[[_Standards/WikiData/WD~astronaut,11631]]"
+part_of: "[[_Standards/WikiData/WD~NASA_Astronaut_Group_2,2409842]]"
+place_of_birth: "[[_Standards/WikiData/WD~Wapakoneta,492796]]"
+place_of_burial: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+place_of_death: "[[_Standards/WikiData/WD~Cincinnati,43196]]"
+present_in_work: "[[_Standards/WikiData/WD~Star_Trek__The_Original_Series_Core_Game_Book,115519946]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~deism,620629]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Neil%20Armstrong%20Signature.svg
 significant_event:
-  - '[[_Standards/WikiData/WD~extra-vehicular_activity,182020]]'
-  - '[[_Standards/WikiData/WD~coronary_artery_bypass_surgery,186020]]'
-  - '[[_Standards/WikiData/WD~walk_on_the_Moon,42882411]]'
+  - "[[_Standards/WikiData/WD~extra-vehicular_activity,182020]]"
+  - "[[_Standards/WikiData/WD~coronary_artery_bypass_surgery,186020]]"
+  - "[[_Standards/WikiData/WD~walk_on_the_Moon,42882411]]"
 spouse:
-  - '[[_Standards/WikiData/WD~Janet_Shearon,21179251]]'
-  - '[[_Standards/WikiData/WD~Carol_Held_Knight,90917344]]'
+  - "[[_Standards/WikiData/WD~Janet_Shearon,21179251]]"
+  - "[[_Standards/WikiData/WD~Carol_Held_Knight,90917344]]"
 time_in_space: 12372.5
 U_S_National_Archives_Identifier: 10581371
 video: http://commons.wikimedia.org/wiki/Special:FilePath/AP11%20FINAL%20APPROACH.ogv
 wears: "[[_Standards/WikiData/WD~Neil_Armstrong's_spacesuit_for_Apollo_11,63344356]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Explorer/Modern_Explorer/Armstrong,Neil|Armstrong,Neil]]"
+    - "[[/_public/Earth/Explorer/Modern_Explorer/Armstrong,Neil.public|Armstrong,Neil.public]]"
+    - "[[/_internal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.internal|Armstrong,Neil.internal]]"
+    - "[[/_protect/Earth/Explorer/Modern_Explorer/Armstrong,Neil.protect|Armstrong,Neil.protect]]"
+    - "[[/_private/Earth/Explorer/Modern_Explorer/Armstrong,Neil.private|Armstrong,Neil.private]]"
+    - "[[/_personal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.personal|Armstrong,Neil.personal]]"
+    - "[[/_secret/Earth/Explorer/Modern_Explorer/Armstrong,Neil.secret|Armstrong,Neil.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Explorer/Modern_Explorer/Armstrong,Neil|Armstrong,Neil]]"
+  - "[[/_public/Earth/Explorer/Modern_Explorer/Armstrong,Neil.public|Armstrong,Neil.public]]"
+  - "[[/_internal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.internal|Armstrong,Neil.internal]]"
+  - "[[/_protect/Earth/Explorer/Modern_Explorer/Armstrong,Neil.protect|Armstrong,Neil.protect]]"
+  - "[[/_private/Earth/Explorer/Modern_Explorer/Armstrong,Neil.private|Armstrong,Neil.private]]"
+  - "[[/_personal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.personal|Armstrong,Neil.personal]]"
+  - "[[/_secret/Earth/Explorer/Modern_Explorer/Armstrong,Neil.secret|Armstrong,Neil.secret]]"
 ---
 
 # [[Armstrong,Neil]] 

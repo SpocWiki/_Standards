@@ -67,7 +67,7 @@ ZVG_number: 7810
 #chemic/Element 
 
 [GroupName::Group-13-Boron]
-[Group:[[../Group-13-Boron]]
+Group::[[../Group-13-Boron]]
 
 
 [#has_/name_/en::Thallium]
@@ -76,7 +76,7 @@ ZVG_number: 7810
 [AtomRadius::2.08]
 [Atom-Vol-ccm-mol::17.2]
 [Unknown2::1.48]
-[#has_/radius_/nm::6.108]
+[#has_/radius_/nano_/m::6.108]
 [Electronegative::2]
 [Density::11.85]
 [#has_/value_for_/temperature_/melt_/c ::303.5]

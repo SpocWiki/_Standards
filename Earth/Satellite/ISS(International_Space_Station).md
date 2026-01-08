@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~International_Space_Station,25271]]"
+    - "[[/_Standards/Earth/Satellite/ISS(International_Space_Station)|ISS(International_Space_Station)]]"
+    - "[[/_public/Earth/Satellite/ISS(International_Space_Station).public|ISS(International_Space_Station).public]]"
+    - "[[/_internal/Earth/Satellite/ISS(International_Space_Station).internal|ISS(International_Space_Station).internal]]"
+    - "[[/_protect/Earth/Satellite/ISS(International_Space_Station).protect|ISS(International_Space_Station).protect]]"
+    - "[[/_private/Earth/Satellite/ISS(International_Space_Station).private|ISS(International_Space_Station).private]]"
+    - "[[/_personal/Earth/Satellite/ISS(International_Space_Station).personal|ISS(International_Space_Station).personal]]"
+    - "[[/_secret/Earth/Satellite/ISS(International_Space_Station).secret|ISS(International_Space_Station).secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~International_Space_Station,25271]]"
+  - "[[/_Standards/Earth/Satellite/ISS(International_Space_Station)|ISS(International_Space_Station)]]"
+  - "[[/_public/Earth/Satellite/ISS(International_Space_Station).public|ISS(International_Space_Station).public]]"
+  - "[[/_internal/Earth/Satellite/ISS(International_Space_Station).internal|ISS(International_Space_Station).internal]]"
+  - "[[/_protect/Earth/Satellite/ISS(International_Space_Station).protect|ISS(International_Space_Station).protect]]"
+  - "[[/_private/Earth/Satellite/ISS(International_Space_Station).private|ISS(International_Space_Station).private]]"
+  - "[[/_personal/Earth/Satellite/ISS(International_Space_Station).personal|ISS(International_Space_Station).personal]]"
+  - "[[/_secret/Earth/Satellite/ISS(International_Space_Station).secret|ISS(International_Space_Station).secret]]"
+
 has_time_started: 1998-11-20 
 aliases:
   - International_Space_Station

@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[WD~Long_Depression,1417847]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Long_Depression|Long_Depression]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/Long_Depression.public|Long_Depression.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Long_Depression.internal|Long_Depression.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Long_Depression.protect|Long_Depression.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/Long_Depression.private|Long_Depression.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Long_Depression.personal|Long_Depression.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Long_Depression.secret|Long_Depression.secret]]"
+dv_is_same_as:
+  - "[[WD~Long_Depression,1417847]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Long_Depression|Long_Depression]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/Long_Depression.public|Long_Depression.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Long_Depression.internal|Long_Depression.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Long_Depression.protect|Long_Depression.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/Long_Depression.private|Long_Depression.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Long_Depression.personal|Long_Depression.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Long_Depression.secret|Long_Depression.secret]]"
+
 has_time_started: 1873-01-01 
 aliases:
   - Long Depression

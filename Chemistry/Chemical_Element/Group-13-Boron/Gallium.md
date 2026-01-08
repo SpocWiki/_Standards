@@ -72,7 +72,7 @@ ZVG_number: 8260
 #is_/same_as :: [[../../../WikiData/WD~Gallium,861]] 
 
 [GroupName::Group-13-Boron]
-[Group:[[../Group-13-Boron]]
+Group::[[../Group-13-Boron]]
 
 
 [#has_/name_/en::Gallium]
@@ -82,7 +82,7 @@ ZVG_number: 8260
 [AtomRadius::1.81]
 [Atom-Vol-ccm-mol::11.8]
 [Unknown2::1.26]
-[#has_/radius_/nm::5.999]
+[#has_/radius_/nano_/m::5.999]
 [Electronegative::1.8]
 [Density::5.91]
 [#has_/value_for_/temperature_/melt_/c ::29.78]

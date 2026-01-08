@@ -6,23 +6,42 @@ aliases:
   - Earth Crust
 has_id_wikidata: Q15316
 studied_by:
-  - '[[_Standards/WikiData/WD~planetary_science,104499]]'
-  - '[[_Standards/WikiData/WD~geology,1069]]'
-  - '[[_Standards/WikiData/WD~geophysics,46255]]'
+  - "[[_Standards/WikiData/WD~planetary_science,104499]]"
+  - "[[_Standards/WikiData/WD~geology,1069]]"
+  - "[[_Standards/WikiData/WD~geophysics,46255]]"
 part_of:
-  - '[[_Standards/WikiData/WD~internal_structure_of_Earth,1664027]]'
-  - '[[_Standards/WikiData/WD~Earth,2]]'
-instance_of: '[[_Standards/WikiData/WD~crust,4232578]]'
+  - "[[_Standards/WikiData/WD~internal_structure_of_Earth,1664027]]"
+  - "[[_Standards/WikiData/WD~Earth,2]]"
+instance_of: "[[_Standards/WikiData/WD~crust,4232578]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~sedimentary_cover,12136494]]'
-  - '[[_Standards/WikiData/WD~granite,41177]]'
-  - '[[_Standards/WikiData/WD~basalt,43338]]'
+  - "[[_Standards/WikiData/WD~sedimentary_cover,12136494]]"
+  - "[[_Standards/WikiData/WD~granite,41177]]"
+  - "[[_Standards/WikiData/WD~basalt,43338]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
 OmegaWiki_Defined_Meaning: 1018
 Dewey_Decimal_Classification: 551.13
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erdkruste-i.png
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Earth's_crust,15316|WD~Earth's_crust,15316]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust|Earth_Crust]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.public|Earth_Crust.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.internal|Earth_Crust.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.protect|Earth_Crust.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.private|Earth_Crust.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.personal|Earth_Crust.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.secret|Earth_Crust.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Earth's_crust,15316|WD~Earth's_crust,15316]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust|Earth_Crust]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.public|Earth_Crust.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.internal|Earth_Crust.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.protect|Earth_Crust.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.private|Earth_Crust.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.personal|Earth_Crust.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust.secret|Earth_Crust.secret]]"
 ---
 
 

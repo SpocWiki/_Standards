@@ -3,17 +3,17 @@ aliases:
   - oases
   - Oasis
 has_id_wikidata: Q43742
-different_from: '[[_Standards/WikiData/WD~Oasis,227537]]'
+different_from: "[[_Standards/WikiData/WD~Oasis,227537]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Q134547386,134547386]]'
-subclass_of: '[[_Standards/WikiData/WD~physico_geographical_object,20719696]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Q134547386,134547386]]"
+subclass_of: "[[_Standards/WikiData/WD~physico_geographical_object,20719696]]"
 Commons_gallery: Oasis
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Oase.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Libyen-oase1.jpg
@@ -22,6 +22,25 @@ Iconclass_notation: 25K161
 IMDb_keyword: desert-oasis
 GeoNames_feature_code: L.OAS
 Commons_category: Oases
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Oasis,43742]]"
+    - "[[/_Standards/Earth/Geology/Landform/Oasis|Oasis]]"
+    - "[[/_public/Earth/Geology/Landform/Oasis.public|Oasis.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Oasis.internal|Oasis.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Oasis.protect|Oasis.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Oasis.private|Oasis.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Oasis.personal|Oasis.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Oasis.secret|Oasis.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Oasis,43742]]"
+  - "[[/_Standards/Earth/Geology/Landform/Oasis|Oasis]]"
+  - "[[/_public/Earth/Geology/Landform/Oasis.public|Oasis.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Oasis.internal|Oasis.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Oasis.protect|Oasis.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Oasis.private|Oasis.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Oasis.personal|Oasis.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Oasis.secret|Oasis.secret]]"
 ---
 
 # [[Oasis]]

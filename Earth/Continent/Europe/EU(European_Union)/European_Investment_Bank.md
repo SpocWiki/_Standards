@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~European_Investment_Bank,192247|WD~European_Investment_Bank,192247]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank|European_Investment_Bank]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.public|European_Investment_Bank.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.internal|European_Investment_Bank.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.protect|European_Investment_Bank.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.private|European_Investment_Bank.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.personal|European_Investment_Bank.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.secret|European_Investment_Bank.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~European_Investment_Bank,192247|WD~European_Investment_Bank,192247]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank|European_Investment_Bank]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.public|European_Investment_Bank.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.internal|European_Investment_Bank.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.protect|European_Investment_Bank.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.private|European_Investment_Bank.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.personal|European_Investment_Bank.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Investment_Bank.secret|European_Investment_Bank.secret]]"
+
 has_time_started: 1958-01-01 
-location: [ 6.1352313 , 49.6202892 ] 
+location: [ 49.6202892, 6.1352313 ] 
 aliases:
   - European Investment Bank
   - EIB

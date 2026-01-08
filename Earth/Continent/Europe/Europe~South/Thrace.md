@@ -1,5 +1,25 @@
-﻿---
-location: [ 26.0 , 42.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Thrace,41741|WD~Thrace,41741]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Thrace|Thrace]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Thrace.public|Thrace.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Thrace.internal|Thrace.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Thrace.protect|Thrace.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Thrace.private|Thrace.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Thrace.personal|Thrace.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Thrace.secret|Thrace.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Thrace,41741|WD~Thrace,41741]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Thrace|Thrace]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Thrace.public|Thrace.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Thrace.internal|Thrace.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Thrace.protect|Thrace.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Thrace.private|Thrace.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Thrace.personal|Thrace.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Thrace.secret|Thrace.secret]]"
+
+location: [ 42.0, 26.0 ] 
 aliases:
   - thrayss
   - Тракия
@@ -48,6 +68,20 @@ coordinate_location: Point(26.0 42.0)
 # [[Thrace]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Thrace,41741|WD~Thrace,41741]]  
+
+## #has_/map  
+
+```leaflet
+id: Thrace
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Thrace//
+markerFolder: ./Thrace/
+coordinates: [[Thrace]] 
+markerFile: [[Thrace]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

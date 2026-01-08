@@ -9,59 +9,59 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - museum
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_museum Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_museum Class
 type: Type
 subclass_of:
-  - '[[_Standards/WikiData/WD~institution,178706]]'
-  - '[[_Standards/WikiData/WD~GLAM,1030034]]'
-  - '[[_Standards/WikiData/WD~venue,17350442]]'
+  - "[[_Standards/WikiData/WD~institution,178706]]"
+  - "[[_Standards/WikiData/WD~GLAM,1030034]]"
+  - "[[_Standards/WikiData/WD~venue,17350442]]"
 model_item:
-  - '[[_Standards/WikiData/WD~Rijksmuseum,190804]]'
-  - '[[_Standards/WikiData/WD~Pablo_Gargallo_Museum,11323320]]'
+  - "[[_Standards/WikiData/WD~Rijksmuseum,190804]]"
+  - "[[_Standards/WikiData/WD~Pablo_Gargallo_Museum,11323320]]"
 subject_has_role:
-  - '[[_Standards/WikiData/WD~restoration,217102]]'
-  - '[[_Standards/WikiData/WD~exhibition,464980]]'
-  - '[[_Standards/WikiData/WD~collection,2668072]]'
-  - '[[_Standards/WikiData/WD~education,8434]]'
-  - '[[_Standards/WikiData/WD~communication,11024]]'
-  - '[[_Standards/WikiData/WD~research,42240]]'
+  - "[[_Standards/WikiData/WD~restoration,217102]]"
+  - "[[_Standards/WikiData/WD~exhibition,464980]]"
+  - "[[_Standards/WikiData/WD~collection,2668072]]"
+  - "[[_Standards/WikiData/WD~education,8434]]"
+  - "[[_Standards/WikiData/WD~communication,11024]]"
+  - "[[_Standards/WikiData/WD~research,42240]]"
 studied_by:
-  - '[[_Standards/WikiData/WD~museology,460162]]'
-  - '[[_Standards/WikiData/WD~sociology_of_museums,131825954]]'
+  - "[[_Standards/WikiData/WD~museology,460162]]"
+  - "[[_Standards/WikiData/WD~sociology_of_museums,131825954]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
-interested_in: '[[_Standards/WikiData/WD~preservation,830393]]'
-has_list: '[[_Standards/WikiData/WD~list_of_museums,1346256]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_museum,6232685]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Museums,14615937]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Museums,14942921]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~museum_director,22132694]]'
-uses: '[[_Standards/WikiData/WD~museum_building,24699794]]'
-different_from: '[[_Standards/WikiData/WD~museum_building,24699794]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_museums,113861702]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_institution,117023459]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Kartographer_icon,134980502]]"
+interested_in: "[[_Standards/WikiData/WD~preservation,830393]]"
+has_list: "[[_Standards/WikiData/WD~list_of_museums,1346256]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_museum,6232685]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Museums,14615937]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Museums,14942921]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~museum_director,22132694]]"
+uses: "[[_Standards/WikiData/WD~museum_building,24699794]]"
+different_from: "[[_Standards/WikiData/WD~museum_building,24699794]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_museums,113861702]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Open_Culture_GLAM_Glossary,115123216]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_institution,117023459]]"
 properties_for_this_type:
   - Museofile ID
   - officially opened by
@@ -118,6 +118,31 @@ MeSH_tree_code:
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/MUZEI.html
 GeoNames_feature_code: S.MUS
 OpenStreetMap_tag: tourism=museum
+dv_#is_:
+  sub_class_of: "[[../CivicStructure]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Museum,33506|WD~Museum,33506]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Museum|Museum]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Museum.public|Museum.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Museum.internal|Museum.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Museum.protect|Museum.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Museum.private|Museum.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Museum.personal|Museum.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Museum.secret|Museum.secret]]"
+dv_is_sub_class_of: "[[../CivicStructure]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Museum,33506|WD~Museum,33506]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Museum|Museum]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Museum.public|Museum.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Museum.internal|Museum.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Museum.protect|Museum.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Museum.private|Museum.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Museum.personal|Museum.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Museum.secret|Museum.secret]]"
 ---
 
 # [[Museum]] 
@@ -129,9 +154,9 @@ Tag Instances like this:
 
 A museum.
 
-[ #is_/sub_class_of :: [[../CivicStructure]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 #is_/same_as :: [[../../../../WikiData/WD~Museum,33506|WD~Museum,33506]] 
 

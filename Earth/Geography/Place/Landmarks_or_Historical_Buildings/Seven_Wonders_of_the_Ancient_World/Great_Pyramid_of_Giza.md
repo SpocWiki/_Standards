@@ -1,5 +1,29 @@
-﻿---
-location: [ 31.13422 , 29.97915 ] 
+---
+dv_"Building", "GreatPyramidOfGiza: jbm66"
+dv_"HistoricalSite", "GreatPyramidOfGiza: kbgx6"
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Great_Pyramid_of_Giza,37200|WD~Great_Pyramid_of_Giza,37200]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza|Great_Pyramid_of_Giza]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.public|Great_Pyramid_of_Giza.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.internal|Great_Pyramid_of_Giza.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.protect|Great_Pyramid_of_Giza.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.private|Great_Pyramid_of_Giza.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.personal|Great_Pyramid_of_Giza.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.secret|Great_Pyramid_of_Giza.secret]]"
+dv_building-greatpyramidofgiza: jbm66"
+dv_historicalsite-greatpyramidofgiza: kbgx6"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Great_Pyramid_of_Giza,37200|WD~Great_Pyramid_of_Giza,37200]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza|Great_Pyramid_of_Giza]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.public|Great_Pyramid_of_Giza.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.internal|Great_Pyramid_of_Giza.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.protect|Great_Pyramid_of_Giza.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.private|Great_Pyramid_of_Giza.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.personal|Great_Pyramid_of_Giza.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.secret|Great_Pyramid_of_Giza.secret]]"
+
+location: [ 29.97915, 31.13422 ] 
 aliases:
   - Great Pyramid of Giza
   - Great_Pyramid_of_Giza
@@ -42,8 +66,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kheops-Pyramid.jpg
 ground_level_360_degree_view_URL: https://giza.mused.org/en/guided/266/inside-the-great-pyramid
 P8189: 987007540906805171
 Wolfram_Language_entity_code:
-  - Entity["Building", "GreatPyramidOfGiza::jbm66"]
-  - Entity["HistoricalSite", "GreatPyramidOfGiza::kbgx6"]
+  - Entity"Building", "GreatPyramidOfGiza = `=this.dv_"Building", "GreatPyramidOfGiza`
+  - Entity"HistoricalSite", "GreatPyramidOfGiza = `=this.dv_"HistoricalSite", "GreatPyramidOfGiza`
 Commons_gallery: Great Pyramid of Giza
 Commons_category: Great Pyramid of Giza
 inception: -2559-01-01T00:00:00Z
@@ -55,6 +79,23 @@ inception: -2559-01-01T00:00:00Z
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Dvdzee&amp;action=edit&amp;redlink=1" class="new" title="User:Dvdzee (page does not exist)">Douwe C. van der Zee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=138278511">Link</a> 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Great_Pyramid_of_Giza,37200|WD~Great_Pyramid_of_Giza,37200]] 
+## #has_/map  
+
+```leaflet
+id: Great_Pyramid_of_Giza
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Great_Pyramid_of_Giza//
+markerFolder: ./Great_Pyramid_of_Giza/
+coordinates: [[Great_Pyramid_of_Giza]] 
+markerFile: [[Great_Pyramid_of_Giza]] 
+defaultZoom: 16 
+```
+
+
+![[../../../../../assets/Giza_pyramid_complex_(map).svg]]  
+
 
 ## #has_/text_of_/abstract 
 

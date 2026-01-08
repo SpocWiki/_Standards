@@ -38,9 +38,9 @@ official_name: Chamaeleon
 
 [SpocWebEntityId::28104]
 
-[name-la::Chamaeleon]
-[name-genitive::Chamaeleontis]
-[name-de::Chamaeleon]
+[#has_/name_/la::Chamaeleon]
+[#has_/name_/la_/genitive::Chamaeleontis]
+[#has_/name_/de::Chamaeleon]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Chamaeleon,10457]] 
 

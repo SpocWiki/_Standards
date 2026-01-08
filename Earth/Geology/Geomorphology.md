@@ -28,6 +28,25 @@ bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20sur
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Glacial%20landscape.svg
 U_S_National_Archives_Identifier: "10640304"
 Basisklassifikation: "38.45"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Geomorphology,52109|WD~Geomorphology,52109]]"
+    - "[[/_Standards/Earth/Geology/Geomorphology|Geomorphology]]"
+    - "[[/_public/Earth/Geology/Geomorphology.public|Geomorphology.public]]"
+    - "[[/_internal/Earth/Geology/Geomorphology.internal|Geomorphology.internal]]"
+    - "[[/_protect/Earth/Geology/Geomorphology.protect|Geomorphology.protect]]"
+    - "[[/_private/Earth/Geology/Geomorphology.private|Geomorphology.private]]"
+    - "[[/_personal/Earth/Geology/Geomorphology.personal|Geomorphology.personal]]"
+    - "[[/_secret/Earth/Geology/Geomorphology.secret|Geomorphology.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Geomorphology,52109|WD~Geomorphology,52109]]"
+  - "[[/_Standards/Earth/Geology/Geomorphology|Geomorphology]]"
+  - "[[/_public/Earth/Geology/Geomorphology.public|Geomorphology.public]]"
+  - "[[/_internal/Earth/Geology/Geomorphology.internal|Geomorphology.internal]]"
+  - "[[/_protect/Earth/Geology/Geomorphology.protect|Geomorphology.protect]]"
+  - "[[/_private/Earth/Geology/Geomorphology.private|Geomorphology.private]]"
+  - "[[/_personal/Earth/Geology/Geomorphology.personal|Geomorphology.personal]]"
+  - "[[/_secret/Earth/Geology/Geomorphology.secret|Geomorphology.secret]]"
 ---
 
 # [[Geomorphology]] 

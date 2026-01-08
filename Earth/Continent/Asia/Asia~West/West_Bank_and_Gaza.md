@@ -8,6 +8,27 @@ SpocWebEntityId: 57607
 tags:
   - geo/Country
 type: Country
+dv_has_name_en: West Bank and Gaza
+dv_has_name_de: West Bank und Gaza
+dv_has_place_continent: "[[../../Africa]]"
+dv_Language-Id: 472
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza|West_Bank_and_Gaza]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.public|West_Bank_and_Gaza.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.internal|West_Bank_and_Gaza.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.protect|West_Bank_and_Gaza.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.private|West_Bank_and_Gaza.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.personal|West_Bank_and_Gaza.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.secret|West_Bank_and_Gaza.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza|West_Bank_and_Gaza]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.public|West_Bank_and_Gaza.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.internal|West_Bank_and_Gaza.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.protect|West_Bank_and_Gaza.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.private|West_Bank_and_Gaza.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.personal|West_Bank_and_Gaza.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.secret|West_Bank_and_Gaza.secret]]"
 ---
 
 [ISO2::]
@@ -21,15 +42,15 @@ geojsonFolder: ./West_Bank_and_Gaza//
 markerFolder: ./West_Bank_and_Gaza/
 ```
 
-[name-en::West Bank and Gaza]
-[name-de::West Bank und Gaza]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Africa]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
-[Language-Id::472]
+Language-Id = `=this.dv_Language-Id`
 [has_place_longitude::]
 [has_place_latitude::]
 

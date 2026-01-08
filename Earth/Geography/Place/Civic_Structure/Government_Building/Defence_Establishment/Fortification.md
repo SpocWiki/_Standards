@@ -5,30 +5,30 @@ aliases:
   - Fortification
 has_id_wikidata: Q57821
 has_part_s_:
-  - '[[_Standards/WikiData/WD~city_gate,82117]]'
-  - '[[_Standards/WikiData/WD~moat,88480]]'
-  - '[[_Standards/WikiData/WD~bartizan,729998]]'
-  - '[[_Standards/WikiData/WD~place_of_arms,2538929]]'
-  - '[[_Standards/WikiData/WD~drill_hall,5307555]]'
-  - '[[_Standards/WikiData/WD~gunpowder_magazine,17504814]]'
-  - '[[_Standards/WikiData/WD~tower,12518]]'
-  - '[[_Standards/WikiData/WD~star_fort,12797]]'
-  - '[[_Standards/WikiData/WD~wall,42948]]'
-  - '[[_Standards/WikiData/WD~defensive_wall,57346]]'
-studied_by: '[[_Standards/WikiData/WD~fortification,324326]]'
-subclass_of: '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+  - "[[_Standards/WikiData/WD~city_gate,82117]]"
+  - "[[_Standards/WikiData/WD~moat,88480]]"
+  - "[[_Standards/WikiData/WD~bartizan,729998]]"
+  - "[[_Standards/WikiData/WD~place_of_arms,2538929]]"
+  - "[[_Standards/WikiData/WD~drill_hall,5307555]]"
+  - "[[_Standards/WikiData/WD~gunpowder_magazine,17504814]]"
+  - "[[_Standards/WikiData/WD~tower,12518]]"
+  - "[[_Standards/WikiData/WD~star_fort,12797]]"
+  - "[[_Standards/WikiData/WD~wall,42948]]"
+  - "[[_Standards/WikiData/WD~defensive_wall,57346]]"
+studied_by: "[[_Standards/WikiData/WD~fortification,324326]]"
+subclass_of: "[[_Standards/WikiData/WD~architectural_structure,811979]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_use: '[[_Standards/WikiData/WD~defense,1985622]]'
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+has_use: "[[_Standards/WikiData/WD~defense,1985622]]"
 different_from:
-  - '[[_Standards/WikiData/WD~coastal_defence_and_fortification,5138347]]'
-  - '[[_Standards/WikiData/WD~fortress,57831]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Fortifications,8084813]]'
+  - "[[_Standards/WikiData/WD~coastal_defence_and_fortification,5138347]]"
+  - "[[_Standards/WikiData/WD~fortress,57831]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Fortifications,8084813]]"
 Nomenclature_for_Museum_Cataloging:
   - 714
   - 718
@@ -40,9 +40,28 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Fort-Meigs-01%20
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-QueerEcofeminist-%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%97.wav
 U_S_National_Archives_Identifier: 10636983
 Provenio_UUID: 61b936d8-7b67-43e9-82e8-d50e27709139
-P8189: 987007545715705171
+P8189: 987007545715705200
 Commons_gallery: Fortification
 GeoNames_feature_code: S.FT
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Fortification,57821|WD~Fortification,57821]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification|Fortification]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.public|Fortification.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.internal|Fortification.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.protect|Fortification.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.private|Fortification.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.personal|Fortification.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.secret|Fortification.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Fortification,57821|WD~Fortification,57821]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification|Fortification]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.public|Fortification.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.internal|Fortification.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.protect|Fortification.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.private|Fortification.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.personal|Fortification.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification.secret|Fortification.secret]]"
 ---
 
 # [[Fortification]] 

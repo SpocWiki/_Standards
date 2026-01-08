@@ -43,9 +43,9 @@ official_name: Cassiopeia
 
 [SpocWebEntityId::28100]
 
-[name-la::Cassiopeia]
-[name-genitive::Cassiopeiae]
-[name-de::Kassiopeia]
+[#has_/name_/la::Cassiopeia]
+[#has_/name_/la_/genitive::Cassiopeiae]
+[#has_/name_/de::Kassiopeia]
 
 #is_/same_as :: [[../../WikiData/WD~Cassiopeia,10464|WD~Cassiopeia,10464]] 
 

@@ -1,5 +1,27 @@
-﻿---
-location: [ 9.898659358 , 46.955166412 ] 
+---
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Alpide_Belt|Alpide_Belt]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Alpide_Belt.public|Alpide_Belt.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Alpide_Belt.internal|Alpide_Belt.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Alpide_Belt.protect|Alpide_Belt.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Alpide_Belt.private|Alpide_Belt.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Alpide_Belt.personal|Alpide_Belt.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Alpide_Belt.secret|Alpide_Belt.secret]]"
+  similar_to: "[[circum-Pacific_Belt]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Alpide_Belt|Alpide_Belt]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Alpide_Belt.public|Alpide_Belt.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Alpide_Belt.internal|Alpide_Belt.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Alpide_Belt.protect|Alpide_Belt.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Alpide_Belt.private|Alpide_Belt.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Alpide_Belt.personal|Alpide_Belt.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Alpide_Belt.secret|Alpide_Belt.secret]]"
+dv_is_similar_to: "[[circum-Pacific_Belt]]"
+
+location: [ 46.955166412, 9.898659358 ] 
 aliases:
   - Alpine-Himalayan orogenic belt
   - Alpide belt
@@ -111,7 +133,21 @@ Commons_category: Alpide belt
 
 #is_/same_as :: [[_Standards/WikiData/WD~Alpide_belt,847514]] 
 
-#is_/similar_to :: [[circum-Pacific_Belt]] 
+is_similar_to = `=this.dv_is_similar_to`
+
+## #has_/map  
+
+```leaflet
+id: Alpide_Belt
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Alpide_Belt//
+markerFolder: ./Alpide_Belt/
+coordinates: [[Alpide_Belt]] 
+markerFile: [[Alpide_Belt]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

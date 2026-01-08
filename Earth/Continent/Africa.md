@@ -1,5 +1,29 @@
-﻿---
-location: [ 7.1881 , 21.09375 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Africa,15]]"
+    - "[[/_Standards/Earth/Continent/Africa|Africa]]"
+    - "[[/_public/Earth/Continent/Africa.public|Africa.public]]"
+    - "[[/_internal/Earth/Continent/Africa.internal|Africa.internal]]"
+    - "[[/_protect/Earth/Continent/Africa.protect|Africa.protect]]"
+    - "[[/_private/Earth/Continent/Africa.private|Africa.private]]"
+    - "[[/_personal/Earth/Continent/Africa.personal|Africa.personal]]"
+    - "[[/_secret/Earth/Continent/Africa.secret|Africa.secret]]"
+dv_has_name_en: Africa
+dv_has_name_de: Afrika
+dv_#has_:
+  code: AF
+dv_is_same_as:
+  - "[[../../WikiData/WD~Africa,15]]"
+  - "[[/_Standards/Earth/Continent/Africa|Africa]]"
+  - "[[/_public/Earth/Continent/Africa.public|Africa.public]]"
+  - "[[/_internal/Earth/Continent/Africa.internal|Africa.internal]]"
+  - "[[/_protect/Earth/Continent/Africa.protect|Africa.protect]]"
+  - "[[/_private/Earth/Continent/Africa.private|Africa.private]]"
+  - "[[/_personal/Earth/Continent/Africa.personal|Africa.personal]]"
+  - "[[/_secret/Earth/Continent/Africa.secret|Africa.secret]]"
+dv_has_code: AF
+
 aliases:
   - Africa
 has_id_wikidata: Q15
@@ -139,7 +163,6 @@ Wolfram_Language_entity_code: Entity["GeographicRegion", "Africa"]
 
 ## #has_/text_of_/abstract  
 
-
 > **Africa** is the world's second-largest and second-most populous continent after Asia. 
 > At about 30.3 million km2 (11.7 million square miles) including adjacent islands, 
 > it covers 20% of Earth's land area and 6% of its total surface area. 
@@ -217,14 +240,16 @@ defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./Africa/
 markerFolder: ./Africa/
+coordinates: [[Africa]] 
+markerFile: [[Africa]] 
 zoomFeatures: false
 lat: -1
 long: 10
 ```
 
-[name-en::Africa]
-[name-de::Afrika]
-[ #has_/code  :: AF ]
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+has_code = `=this.dv_has_code`
 
 
 ## Confidential Links & Embeds: 

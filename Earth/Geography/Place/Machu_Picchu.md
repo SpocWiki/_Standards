@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Machu_Picchu,676203|WD~Machu_Picchu,676203]]"
+    - "[[/_Standards/Earth/Geography/Place/Machu_Picchu|Machu_Picchu]]"
+    - "[[/_public/Earth/Geography/Place/Machu_Picchu.public|Machu_Picchu.public]]"
+    - "[[/_internal/Earth/Geography/Place/Machu_Picchu.internal|Machu_Picchu.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Machu_Picchu.protect|Machu_Picchu.protect]]"
+    - "[[/_private/Earth/Geography/Place/Machu_Picchu.private|Machu_Picchu.private]]"
+    - "[[/_personal/Earth/Geography/Place/Machu_Picchu.personal|Machu_Picchu.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Machu_Picchu.secret|Machu_Picchu.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Machu_Picchu,676203|WD~Machu_Picchu,676203]]"
+  - "[[/_Standards/Earth/Geography/Place/Machu_Picchu|Machu_Picchu]]"
+  - "[[/_public/Earth/Geography/Place/Machu_Picchu.public|Machu_Picchu.public]]"
+  - "[[/_internal/Earth/Geography/Place/Machu_Picchu.internal|Machu_Picchu.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Machu_Picchu.protect|Machu_Picchu.protect]]"
+  - "[[/_private/Earth/Geography/Place/Machu_Picchu.private|Machu_Picchu.private]]"
+  - "[[/_personal/Earth/Geography/Place/Machu_Picchu.personal|Machu_Picchu.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Machu_Picchu.secret|Machu_Picchu.secret]]"
+
 has_time_started: 1450-01-01 
 has_time_stopped: 1572-01-01 
 aliases:

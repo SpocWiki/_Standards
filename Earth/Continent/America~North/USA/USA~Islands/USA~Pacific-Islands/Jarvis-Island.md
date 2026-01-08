@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island|Jarvis-Island]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.public|Jarvis-Island.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.internal|Jarvis-Island.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.protect|Jarvis-Island.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.private|Jarvis-Island.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.personal|Jarvis-Island.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.secret|Jarvis-Island.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island|Jarvis-Island]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.public|Jarvis-Island.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.internal|Jarvis-Island.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.protect|Jarvis-Island.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.private|Jarvis-Island.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.personal|Jarvis-Island.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Jarvis-Island.secret|Jarvis-Island.secret]]"
 ---
 
 # [[Jarvis-Island]] 

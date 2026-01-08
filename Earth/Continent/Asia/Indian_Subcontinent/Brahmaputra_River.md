@@ -1,4 +1,26 @@
-﻿---
+---
+dv_"River", "Brahmaputra: 23z35"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Brahmaputra_River,45403|WD~Brahmaputra_River,45403]]"
+    - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River|Brahmaputra_River]]"
+    - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.public|Brahmaputra_River.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.internal|Brahmaputra_River.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.protect|Brahmaputra_River.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.private|Brahmaputra_River.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.personal|Brahmaputra_River.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.secret|Brahmaputra_River.secret]]"
+dv_river-brahmaputra: 23z35"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Brahmaputra_River,45403|WD~Brahmaputra_River,45403]]"
+  - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River|Brahmaputra_River]]"
+  - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.public|Brahmaputra_River.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.internal|Brahmaputra_River.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.protect|Brahmaputra_River.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.private|Brahmaputra_River.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.personal|Brahmaputra_River.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.secret|Brahmaputra_River.secret]]"
+
 location: [ 91.746833333 , 26.200722222 ] 
 aliases:
   - Brahmaputra River
@@ -59,7 +81,7 @@ Commons_category: Brahmaputra
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brahmaputra%20River%20Homeward%20bound.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Brahmapoutre.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%AA%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%B0%20%E0%A6%A8%E0%A6%A6.wav
-Wolfram_Language_entity_code: Entity["River", "Brahmaputra::23z35"]
+Wolfram_Language_entity_code: Entity"River", "Brahmaputra = `=this.dv_"River", "Brahmaputra`
 coordinate_location: Point(91.746833333 26.200722222)
 ---
 

@@ -10,21 +10,44 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - train_station
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_train_station Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_train_station Class
 type: Type
+dv_#is_:
+  sub_class_of: "[[../CivicStructure]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Train_Station|Train_Station]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Train_Station.public|Train_Station.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Train_Station.internal|Train_Station.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Train_Station.protect|Train_Station.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Train_Station.private|Train_Station.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Train_Station.personal|Train_Station.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Train_Station.secret|Train_Station.secret]]"
+dv_is_sub_class_of: "[[../CivicStructure]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Train_Station|Train_Station]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Train_Station.public|Train_Station.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Train_Station.internal|Train_Station.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Train_Station.protect|Train_Station.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Train_Station.private|Train_Station.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Train_Station.personal|Train_Station.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Train_Station.secret|Train_Station.secret]]"
 ---
 
 Class of all train_stations.
@@ -34,9 +57,9 @@ Tag Instances like this:
 
 A train station.
 
-[ #is_/sub_class_of :: [[../CivicStructure]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 
 ## Confidential Links & Embeds: 

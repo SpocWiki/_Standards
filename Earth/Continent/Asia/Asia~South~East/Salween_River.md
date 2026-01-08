@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Salween_River,26422|WD~Salween_River,26422]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Salween_River|Salween_River]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Salween_River.public|Salween_River.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Salween_River.internal|Salween_River.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Salween_River.protect|Salween_River.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Salween_River.private|Salween_River.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Salween_River.personal|Salween_River.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Salween_River.secret|Salween_River.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Salween_River,26422|WD~Salween_River,26422]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Salween_River|Salween_River]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Salween_River.public|Salween_River.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Salween_River.internal|Salween_River.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Salween_River.protect|Salween_River.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Salween_River.private|Salween_River.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Salween_River.personal|Salween_River.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Salween_River.secret|Salween_River.secret]]"
+---
 
 # [[Salween_River]] 
 

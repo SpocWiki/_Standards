@@ -84,7 +84,7 @@ ZVG_number: 7020
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
-[Group:[[../Group-18-Nobel-Gases]]
+Group::[[../Group-18-Nobel-Gases]]
 
 
 [#has_/name_/en::Helium]
@@ -94,7 +94,7 @@ ZVG_number: 7020
 [AtomRadius::0.49]
 [Atom-Vol-ccm-mol::24.587]
 [Unknown2::0.93]
-[#has_/radius_/nm::24.587]
+[#has_/radius_/nano_/m::24.587]
 [Electronegative::0]
 [Density::0.179]
 [#has_/value_for_/temperature_/melt_/c ::-272.2]

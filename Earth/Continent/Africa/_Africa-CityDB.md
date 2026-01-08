@@ -1,8 +1,25 @@
 ---
 aliases:
   - _Africa-CityDB
-  - ' Africa-CityDB'
+  - " Africa-CityDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Africa/_Africa-CityDB|_Africa-CityDB]]"
+    - "[[/_public/Earth/Continent/Africa/_Africa-CityDB.public|_Africa-CityDB.public]]"
+    - "[[/_internal/Earth/Continent/Africa/_Africa-CityDB.internal|_Africa-CityDB.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/_Africa-CityDB.protect|_Africa-CityDB.protect]]"
+    - "[[/_private/Earth/Continent/Africa/_Africa-CityDB.private|_Africa-CityDB.private]]"
+    - "[[/_personal/Earth/Continent/Africa/_Africa-CityDB.personal|_Africa-CityDB.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/_Africa-CityDB.secret|_Africa-CityDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Africa/_Africa-CityDB|_Africa-CityDB]]"
+  - "[[/_public/Earth/Continent/Africa/_Africa-CityDB.public|_Africa-CityDB.public]]"
+  - "[[/_internal/Earth/Continent/Africa/_Africa-CityDB.internal|_Africa-CityDB.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/_Africa-CityDB.protect|_Africa-CityDB.protect]]"
+  - "[[/_private/Earth/Continent/Africa/_Africa-CityDB.private|_Africa-CityDB.private]]"
+  - "[[/_personal/Earth/Continent/Africa/_Africa-CityDB.personal|_Africa-CityDB.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/_Africa-CityDB.secret|_Africa-CityDB.secret]]"
 ---
 
 ```yaml:dbfolder

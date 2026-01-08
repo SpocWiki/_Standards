@@ -39,6 +39,25 @@ Unicode_character: 🌈
 U_S_National_Archives_Identifier: 10675069
 Iconclass_notation: 26B2
 Commons_category: Rainbows
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Rainbow,1052|WD~Rainbow,1052]]"
+    - "[[/_Standards/Earth/Climate/Weather/Rainbow|Rainbow]]"
+    - "[[/_public/Earth/Climate/Weather/Rainbow.public|Rainbow.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Rainbow.internal|Rainbow.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Rainbow.protect|Rainbow.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Rainbow.private|Rainbow.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Rainbow.personal|Rainbow.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Rainbow.secret|Rainbow.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Rainbow,1052|WD~Rainbow,1052]]"
+  - "[[/_Standards/Earth/Climate/Weather/Rainbow|Rainbow]]"
+  - "[[/_public/Earth/Climate/Weather/Rainbow.public|Rainbow.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Rainbow.internal|Rainbow.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Rainbow.protect|Rainbow.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Rainbow.private|Rainbow.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Rainbow.personal|Rainbow.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Rainbow.secret|Rainbow.secret]]"
 ---
 
 # [[Rainbow]] 🌈 

@@ -1,5 +1,25 @@
-﻿---
-location: [ 21.0 , 2.0 ] 
+---
+location: [2.0, 21.0 ]
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Central_Africa,27433]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~Central|Africa~Central]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~Central.public|Africa~Central.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~Central.internal|Africa~Central.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~Central.protect|Africa~Central.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~Central.private|Africa~Central.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~Central.personal|Africa~Central.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~Central.secret|Africa~Central.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Central_Africa,27433]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~Central|Africa~Central]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~Central.public|Africa~Central.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~Central.internal|Africa~Central.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~Central.protect|Africa~Central.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~Central.private|Africa~Central.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~Central.personal|Africa~Central.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~Central.secret|Africa~Central.secret]]"
+
 aliases:
   - Afrique centrale
   - África central
@@ -44,7 +64,7 @@ shares_border_with:
   - '[[_Standards/WikiData/WD~East_Africa,27407]]'
   - '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Africa,15]]'
-location: '[[_Standards/WikiData/WD~Africa,15]]'
+locations: '[[_Standards/WikiData/WD~Africa,15]]'
 continent: '[[_Standards/WikiData/WD~Africa,15]]'
 language_used: '[[_Standards/WikiData/WD~Bantu,33146]]'
 Dewey_Decimal_Classification: 967
@@ -73,7 +93,7 @@ markerFolder: ./Africa~Central/
 coordinates: [[Africa~Central]] 
 markerFile: [[Africa~Central]] 
 zoomFeatures: true
-defaultZoom: 11 
+defaultZoom: 3 
 maxZoom: 18
 minZoom: 3
 ```

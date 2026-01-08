@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~United_States_Constitution,11698|WD~United_States_Constitution,11698]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_Constitution|US_Constitution]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_Constitution.public|US_Constitution.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_Constitution.internal|US_Constitution.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_Constitution.protect|US_Constitution.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_Constitution.private|US_Constitution.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_Constitution.personal|US_Constitution.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_Constitution.secret|US_Constitution.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~United_States_Constitution,11698|WD~United_States_Constitution,11698]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_Constitution|US_Constitution]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_Constitution.public|US_Constitution.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_Constitution.internal|US_Constitution.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_Constitution.protect|US_Constitution.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_Constitution.private|US_Constitution.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_Constitution.personal|US_Constitution.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_Constitution.secret|US_Constitution.secret]]"
+
 has_time_started: 1787-09-17 
 aliases:
   - United_States_Constitution

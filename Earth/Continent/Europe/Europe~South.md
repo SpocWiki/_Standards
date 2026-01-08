@@ -3,6 +3,23 @@ aliases:
   - South Europe
   - Southern Europe
   - Europe~South
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South|Europe~South]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South.public|Europe~South.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South.internal|Europe~South.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South.protect|Europe~South.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South.private|Europe~South.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South.personal|Europe~South.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South.secret|Europe~South.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South|Europe~South]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South.public|Europe~South.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South.internal|Europe~South.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South.protect|Europe~South.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South.private|Europe~South.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South.personal|Europe~South.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South.secret|Europe~South.secret]]"
 ---
 
 # Europe~South

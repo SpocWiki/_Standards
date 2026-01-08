@@ -9,39 +9,58 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Above%20the%20Cl
 Commons_category: Clouds
 Commons_gallery: Cloud
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-different_from: '[[_Standards/WikiData/WD~Chmura,50393484]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+different_from: "[[_Standards/WikiData/WD~Chmura,50393484]]"
 Digital_Atlas_of_Idaho_URL: https://digitalatlas.cose.isu.edu/clima/imaging/cldfr.htm
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000760
-has_effect: '[[_Standards/WikiData/WD~sun_dog,208589]]'
+has_effect: "[[_Standards/WikiData/WD~sun_dog,208589]]"
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Cloud%202%20outline.svg
 Iconclass_notation: 26A
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cumulus%20cloud.jpg
-instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
+instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Nuage%20Nm%201%201%201%20-%20Elix.webm
 made_from_material:
-  - '[[_Standards/WikiData/WD~water_vapor,190120]]'
-  - '[[_Standards/WikiData/WD~ice_crystal,1325808]]'
-  - '[[_Standards/WikiData/WD~droplet,87446208]]'
+  - "[[_Standards/WikiData/WD~water_vapor,190120]]"
+  - "[[_Standards/WikiData/WD~ice_crystal,1325808]]"
+  - "[[_Standards/WikiData/WD~droplet,87446208]]"
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Lightning%20cloud%20to%20cloud%20%28aka%29.jpg
 OmegaWiki_Defined_Meaning: 623
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Nuaj,12894866]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Nuaj,12894866]]"
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/8402%20STS41B%20Challenger%20Thunderstorms%20over%20Brazil.jpg
-studied_in: '[[_Standards/WikiData/WD~nephology,691312]]'
-subclass_of: '[[_Standards/WikiData/WD~weather,11663]]'
+studied_in: "[[_Standards/WikiData/WD~nephology,691312]]"
+subclass_of: "[[_Standards/WikiData/WD~weather,11663]]"
 Unicode_character: ☁
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Arcus%20passing%20overhead%2028%20July%202021%20Galley%20Common.webm
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Winter%20sun%20sets%20over%20Rose%20Valley.png
-studied_by: '[[_Standards/WikiData/WD~nephology,691312]]'
+studied_by: "[[_Standards/WikiData/WD~nephology,691312]]"
 subreddit: CLOUDS
-P8189: 987007283918205171
+P8189: 987007283918205200
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Cloud,8074|WD~Cloud,8074]]"
+    - "[[/_Standards/Earth/Climate/Weather/Cloud|Cloud]]"
+    - "[[/_public/Earth/Climate/Weather/Cloud.public|Cloud.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Cloud.internal|Cloud.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Cloud.protect|Cloud.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Cloud.private|Cloud.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Cloud.personal|Cloud.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Cloud.secret|Cloud.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Cloud,8074|WD~Cloud,8074]]"
+  - "[[/_Standards/Earth/Climate/Weather/Cloud|Cloud]]"
+  - "[[/_public/Earth/Climate/Weather/Cloud.public|Cloud.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Cloud.internal|Cloud.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Cloud.protect|Cloud.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Cloud.private|Cloud.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Cloud.personal|Cloud.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Cloud.secret|Cloud.secret]]"
 ---
 
 # [[Cloud]] 

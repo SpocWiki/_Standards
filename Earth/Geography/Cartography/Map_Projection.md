@@ -5,6 +5,25 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 subclass_of: "[[_Standards/WikiData/WD~projection,13415428]]"
 U_S_National_Archives_Identifier: "10640363"
 Commons_category: Map projections
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Map_projection,186386]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Map_Projection|Map_Projection]]"
+    - "[[/_public/Earth/Geography/Cartography/Map_Projection.public|Map_Projection.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Map_Projection.internal|Map_Projection.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Map_Projection.protect|Map_Projection.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Map_Projection.private|Map_Projection.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Map_Projection.personal|Map_Projection.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Map_Projection.secret|Map_Projection.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Map_projection,186386]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Map_Projection|Map_Projection]]"
+  - "[[/_public/Earth/Geography/Cartography/Map_Projection.public|Map_Projection.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Map_Projection.internal|Map_Projection.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Map_Projection.protect|Map_Projection.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Map_Projection.private|Map_Projection.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Map_Projection.personal|Map_Projection.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Map_Projection.secret|Map_Projection.secret]]"
 ---
 
 # [[Map_Projection]] 

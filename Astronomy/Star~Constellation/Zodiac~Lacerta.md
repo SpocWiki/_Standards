@@ -43,9 +43,9 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 
 [SpocWebEntityId::28127]
 
-[name-la::Lacerta]
-[name-genitive::Lacertae]
-[name-de::Eidechse]
+[#has_/name_/la::Lacerta]
+[#has_/name_/la_/genitive::Lacertae]
+[#has_/name_/de::Eidechse]
 
 #is_/same_as :: [[../../WikiData/WD~Lacerta,10430|WD~Lacerta,10430]] 
 

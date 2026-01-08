@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Tropical_forest,1048194|WD~Tropical_forest,1048194]]"
+    - "[[/_Standards/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest|Tropical_Forest]]"
+    - "[[/_public/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.public|Tropical_Forest.public]]"
+    - "[[/_internal/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.internal|Tropical_Forest.internal]]"
+    - "[[/_protect/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.protect|Tropical_Forest.protect]]"
+    - "[[/_private/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.private|Tropical_Forest.private]]"
+    - "[[/_personal/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.personal|Tropical_Forest.personal]]"
+    - "[[/_secret/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.secret|Tropical_Forest.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Tropical_forest,1048194|WD~Tropical_forest,1048194]]"
+  - "[[/_Standards/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest|Tropical_Forest]]"
+  - "[[/_public/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.public|Tropical_Forest.public]]"
+  - "[[/_internal/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.internal|Tropical_Forest.internal]]"
+  - "[[/_protect/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.protect|Tropical_Forest.protect]]"
+  - "[[/_private/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.private|Tropical_Forest.private]]"
+  - "[[/_personal/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.personal|Tropical_Forest.personal]]"
+  - "[[/_secret/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.secret|Tropical_Forest.secret]]"
+---
 
 # [[Tropical_Forest]] 
 

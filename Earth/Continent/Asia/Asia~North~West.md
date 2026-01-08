@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~North~West|Asia~North~West]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~North~West.public|Asia~North~West.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~North~West.internal|Asia~North~West.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~North~West.protect|Asia~North~West.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~North~West.private|Asia~North~West.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~North~West.personal|Asia~North~West.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~North~West.secret|Asia~North~West.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~North~West|Asia~North~West]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~North~West.public|Asia~North~West.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~North~West.internal|Asia~North~West.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~North~West.protect|Asia~North~West.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~North~West.private|Asia~North~West.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~North~West.personal|Asia~North~West.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~North~West.secret|Asia~North~West.secret]]"
+---
 
 # [[Asia~North~West]]
 

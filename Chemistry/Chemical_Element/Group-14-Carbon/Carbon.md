@@ -88,7 +88,7 @@ ZVG_number: 8040
 [AtomRadius::0.91]
 [Atom-Vol-ccm-mol::4.58]
 [Unknown2::0.77]
-[#has_/radius_/nm::11.26]
+[#has_/radius_/nano_/m::11.26]
 [Electronegative::2.5]
 [Density::2.52]
 [#has_/value_for_/temperature_/melt_/c ::3550]

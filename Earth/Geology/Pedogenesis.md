@@ -5,6 +5,25 @@ subclass_of: "[[_Standards/WikiData/WD~pedologic_process,63382959]]"
 has_effect: "[[_Standards/WikiData/WD~soil,36133]]"
 Commons_category: Soil forming factors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MollisolNebraska.JPG
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Pedogenesis,282070|WD~Pedogenesis,282070]]"
+    - "[[/_Standards/Earth/Geology/Pedogenesis|Pedogenesis]]"
+    - "[[/_public/Earth/Geology/Pedogenesis.public|Pedogenesis.public]]"
+    - "[[/_internal/Earth/Geology/Pedogenesis.internal|Pedogenesis.internal]]"
+    - "[[/_protect/Earth/Geology/Pedogenesis.protect|Pedogenesis.protect]]"
+    - "[[/_private/Earth/Geology/Pedogenesis.private|Pedogenesis.private]]"
+    - "[[/_personal/Earth/Geology/Pedogenesis.personal|Pedogenesis.personal]]"
+    - "[[/_secret/Earth/Geology/Pedogenesis.secret|Pedogenesis.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Pedogenesis,282070|WD~Pedogenesis,282070]]"
+  - "[[/_Standards/Earth/Geology/Pedogenesis|Pedogenesis]]"
+  - "[[/_public/Earth/Geology/Pedogenesis.public|Pedogenesis.public]]"
+  - "[[/_internal/Earth/Geology/Pedogenesis.internal|Pedogenesis.internal]]"
+  - "[[/_protect/Earth/Geology/Pedogenesis.protect|Pedogenesis.protect]]"
+  - "[[/_private/Earth/Geology/Pedogenesis.private|Pedogenesis.private]]"
+  - "[[/_personal/Earth/Geology/Pedogenesis.personal|Pedogenesis.personal]]"
+  - "[[/_secret/Earth/Geology/Pedogenesis.secret|Pedogenesis.secret]]"
 ---
 
 # [[Pedogenesis]]

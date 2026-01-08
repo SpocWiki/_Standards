@@ -1,5 +1,93 @@
-﻿---
-location: [ 54.3 , 24.4 ] 
+---
+dv_ISO4217-currency_alphabetic: AED
+dv_ISO4217-currency_name: UAE Dirham
+dv_ISO4217-currency_numeric: 784
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: UNITED ARAB EMIRATES
+dv_Telephone: 971
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: United Arab Emirates
+dv_has_name_en:
+  - United Arab Emirates
+  - United Arab Emirates
+dv_has_name_es: Emiratos Árabes Unidos
+dv_has_name_fr: Émirats arabes unis
+dv_has_name_cn: 阿拉伯联合酋长国
+dv_has_name_ar: الإمارات العربية المتحدة
+dv_has_name_ru: Объединенные Арабские Эмираты
+dv_CLDR_display_name: United Arab Emirates
+dv_UNTERM_English: United Arab Emirates (the)
+dv_UNTERM_English_Formal: the United Arab Emirates
+dv_UNTERM_Spanish_Formal: los Emiratos Árabes Unidos
+dv_UNTERM_Spanish: Emiratos Árabes Unidos (los)
+dv_UNTERM_French: Émirats arabes unis (les)
+dv_UNTERM_Arabic: الإمارات العربية المتحدة
+dv_UNTERM_Arabic_Formal: الإمارات العربية المتحدة
+dv_UNTERM_Chinese: 阿拉伯联合酋长国
+dv_UNTERM_Chinese_Formal: 阿拉伯联合酋长国
+dv_UNTERM_French_Formal: les Émirats arabes unis
+dv_UNTERM_Russian: Объединенные Арабские Эмираты
+dv_UNTERM_Russian_Formal: Объединенные Арабские Эмираты
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[United_Arab_Emirates]]"
+dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region: 142
+dv_Sub-region: 145
+dv_Geoname-ID: 290557
+dv_FIPS: AE
+dv_FIFA: UAE
+dv_IOC: UAE
+dv_MARC: ts
+dv_GAUL: 255
+dv_WMO: ER
+dv_ITU: UAE
+dv_TLD: .ae
+dv_EDGAR: C0
+dv_M49: 784
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 784
+dv_ISO2: AE
+dv_ISO3: ARE
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates|United_Arab_Emirates]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.public|United_Arab_Emirates.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.internal|United_Arab_Emirates.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.protect|United_Arab_Emirates.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.private|United_Arab_Emirates.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.personal|United_Arab_Emirates.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.secret|United_Arab_Emirates.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-United_Arab_Emirates
+dv_has_name_de: Vereinigte Arabische Emirate
+dv_Area-Total: 77700
+dv_Area-Land: 83600
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: UAE
+dv_Capital: "[[United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi]]"
+dv_Alcohol-l: 0.5
+dv_Language-Id: 472
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 54.42
+dv_has_place_latitude: 24.47
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates|United_Arab_Emirates]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.public|United_Arab_Emirates.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.internal|United_Arab_Emirates.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.protect|United_Arab_Emirates.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.private|United_Arab_Emirates.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.personal|United_Arab_Emirates.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.secret|United_Arab_Emirates.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-United_Arab_Emirates
+
 aliases:
   - United Arab Emirates
   - UAE
@@ -449,76 +537,78 @@ YouTube_handle: EmiratesEGovernment
 
 # [[United_Arab_Emirates]] 
 
-[	ISO4217-currency_alphabetic	 :: AED ]
-[	ISO4217-currency_name	 :: UAE Dirham ]
-[	ISO4217-currency_numeric	 :: 784 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: UNITED ARAB EMIRATES ]
+## [[United_Arab_Emirates]] has Property...
 
-[	Telephone	 :: 971 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: United Arab Emirates ]
-[	name-en	 :: United Arab Emirates ]
-[	name-es	 :: Emiratos Árabes Unidos ]
-[	name-fr	 :: Émirats arabes unis ]
-[	name-cn	 :: 阿拉伯联合酋长国 ]
-[	name-ar	 :: الإمارات العربية المتحدة ]
-[	name-ru	 :: Объединенные Арабские Эмираты ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: United Arab Emirates ]
+name = `=this.dv_name`
+[	has_name_en	 :: United Arab Emirates ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: United Arab Emirates (the) ]
-[	UNTERM_English_Formal	 :: the United Arab Emirates ]
-[	UNTERM_Spanish_Formal	 :: los Emiratos Árabes Unidos ]
-[	UNTERM_Spanish	 :: Emiratos Árabes Unidos (los) ]
-[	UNTERM_French	 :: Émirats arabes unis (les) ]
-[	UNTERM_Arabic	 :: الإمارات العربية المتحدة ]
-[	UNTERM_Arabic_Formal	 :: الإمارات العربية المتحدة ]
-[	UNTERM_Chinese	 :: 阿拉伯联合酋长国 ]
-[	UNTERM_Chinese_Formal	 :: 阿拉伯联合酋长国 ]
-[	UNTERM_French_Formal	 :: les Émirats arabes unis ]
-[	UNTERM_Russian	 :: Объединенные Арабские Эмираты ]
-[	UNTERM_Russian_Formal	 :: Объединенные Арабские Эмираты ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Asia]] 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 145 ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 290557 ]
-[	FIPS	 :: AE ]
-[	FIFA	 :: UAE ]
-[	IOC	 :: UAE ]
-[	MARC	 :: ts ]
-[	GAUL	 :: 255 ]
-[	WMO	 :: ER ]
-[	ITU	 :: UAE ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
+
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
 [	DS	 ::  ]
-[	TLD	 :: .ae ]
-[	EDGAR	 :: C0 ]
-[	M49	 :: 784 ]
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 784 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::AE]
-[ISO3::ARE] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~United_Arab_Emirates,878|WD~United_Arab_Emirates,878]]
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-United_Arab_Emirates 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[United_Arab_Emirates/ReadMe]] 
 
@@ -537,24 +627,24 @@ markerFile: [[United_Arab_Emirates]]
 defaultZoom: 6 
 ```
 
-[name-en::United Arab Emirates]
-[name-de::Vereinigte Arabische Emirate]
-[Area-Total::77700]
-[Area-Land::83600]
-has_place_continent:: [[Asia]]  
-[VehicleCode::UAE]
-Capital :: [[United_Arab_Emirates/Counties~UAE/Abu_Dhabi/Abu_Dhabi]]  
+[has_name_en::United Arab Emirates]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[United_Arab_Emirates/Emblem_of_the_United_Arab_Emirates.svg|350]]  
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-arab-emirates.mp3]]
 ![[United_Arab_Emirates/Flag_of_the_United_Arab_Emirates.svg|350]]  
 
-[Alcohol-l::0.5]
-[Language-Id::472]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::54.42]
-[has_place_latitude::24.47]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 United_Arab_Emirates (orthographic):
 ![United_Arab_Emirates (orthographic)](https://upload.wikimedia.org/wikipedia/commons/c/cd/United_Arab_Emirates_%28orthographic_projection%29.svg)

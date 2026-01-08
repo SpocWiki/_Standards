@@ -1,5 +1,91 @@
-﻿---
-location: [ 102.314361666 , 3.7805111 ] 
+---
+dv_ISO4217-currency_alphabetic: MYR
+dv_ISO4217-currency_name: Malaysian Ringgit
+dv_ISO4217-currency_numeric: 458
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: MALAYSIA
+dv_Telephone: 60
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Malaysia
+dv_has_name_en: Malaysia
+dv_has_name_es: Malasia
+dv_has_name_fr: Malaisie
+dv_has_name_cn: 马来西亚
+dv_has_name_ar: ماليزيا
+dv_has_name_ru: Малайзия
+dv_CLDR_display_name: Malaysia
+dv_UNTERM_English: Malaysia
+dv_UNTERM_English_Formal: Malaysia
+dv_UNTERM_Spanish_Formal: Federación de Malasia
+dv_UNTERM_Spanish: Malasia
+dv_UNTERM_French: Malaisie (la)
+dv_UNTERM_Arabic: ماليزيا
+dv_UNTERM_Arabic_Formal: ماليزيا
+dv_UNTERM_Chinese: 马来西亚
+dv_UNTERM_Chinese_Formal: 马来西亚
+dv_UNTERM_French_Formal: la Malaisie
+dv_UNTERM_Russian: Малайзия
+dv_UNTERM_Russian_Formal: Малайзия
+dv_Region_Name: "[[../../../Asia]]"
+dv_Intermediate_Region_Name: "[[Malaysia]]"
+dv_Sub-region_Name: "[[South-eastern Asia]]"
+dv_Region: 142
+dv_Sub-region: 35
+dv_Geoname-ID: 1733045
+dv_FIPS: MY
+dv_FIFA: MAS
+dv_IOC: MAS
+dv_MARC: my
+dv_GAUL: 153
+dv_WMO: MS
+dv_ITU: MLA
+dv_DS: MAL
+dv_TLD: .my
+dv_EDGAR: N8
+dv_M49: 458
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 458
+dv_ISO2: MY
+dv_ISO3: MYS
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia|Malaysia]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.public|Malaysia.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.internal|Malaysia.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.protect|Malaysia.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.private|Malaysia.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.personal|Malaysia.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.secret|Malaysia.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Malaysia
+dv_has_name_de: Malaysia
+dv_Area-Total: 329758
+dv_Area-Land: 328550
+dv_has_place_continent: "[[../../../Oceania]]"
+dv_VehicleCode: MAL
+dv_Capital: "[[Kuala_Lumpur]]"
+dv_Alcohol-l: 0.8
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 101.7
+dv_has_place_latitude: 3.17
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia|Malaysia]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.public|Malaysia.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.internal|Malaysia.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.protect|Malaysia.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.private|Malaysia.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.personal|Malaysia.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.secret|Malaysia.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Malaysia
+
 aliases:
   - Malaysia
   - Malasia
@@ -585,76 +671,78 @@ icon: flag-my
 
 # [[Malaysia]] 
 
-[	ISO4217-currency_alphabetic	 :: MYR ]
-[	ISO4217-currency_name	 :: Malaysian Ringgit ]
-[	ISO4217-currency_numeric	 :: 458 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: MALAYSIA ]
+## [[Malaysia]] has Properties...
 
-[	Telephone	 :: 60 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Malaysia ]
-[	name-en	 :: Malaysia ]
-[	name-es	 :: Malasia ]
-[	name-fr	 :: Malaisie ]
-[	name-cn	 :: 马来西亚 ]
-[	name-ar	 :: ماليزيا ]
-[	name-ru	 :: Малайзия ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Malaysia ]
+name = `=this.dv_name`
+[	has_name_en	 :: Malaysia ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	UNTERM_English	 :: Malaysia ]
-[	UNTERM_English_Formal	 :: Malaysia ]
-[	UNTERM_Spanish_Formal	 :: Federación de Malasia ]
-[	UNTERM_Spanish	 :: Malasia ]
-[	UNTERM_French	 :: Malaisie (la) ]
-[	UNTERM_Arabic	 :: ماليزيا ]
-[	UNTERM_Arabic_Formal	 :: ماليزيا ]
-[	UNTERM_Chinese	 :: 马来西亚 ]
-[	UNTERM_Chinese_Formal	 :: 马来西亚 ]
-[	UNTERM_French_Formal	 :: la Malaisie ]
-[	UNTERM_Russian	 :: Малайзия ]
-[	UNTERM_Russian_Formal	 :: Малайзия ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[South-eastern Asia]] 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 35 ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 1733045 ]
-[	FIPS	 :: MY ]
-[	FIFA	 :: MAS ]
-[	IOC	 :: MAS ]
-[	MARC	 :: my ]
-[	GAUL	 :: 153 ]
-[	WMO	 :: MS ]
-[	ITU	 :: MLA ]
-[	DS	 :: MAL ]
-[	TLD	 :: .my ]
-[	EDGAR	 :: N8 ]
-[	M49	 :: 458 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 458 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::MY]
-[ISO3::MYS] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Malaysia,833|WD~Malaysia,833]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Malaysia 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Malaysia/ReadMe]] 
 
@@ -672,24 +760,24 @@ coordinates: [[Malaysia]]
 markerFile: [[Malaysia]] 
 ```
 
-[name-en::Malaysia]
-[name-de::Malaysia]
+[has_name_en::Malaysia]
+has_name_de = `=this.dv_has_name_de`
 
 ![[Coat_of_arms_of_Malaysia.svg|350]]
 
 ![[Flag_of_Malaysia.svg|350]]
 
-[Area-Total::329758]
-[Area-Land::328550]
-has_place_continent:: [[Oceania]]  
-[VehicleCode::MAL]
-Capital :: [[Kuala_Lumpur]]  
-[Alcohol-l::0.8]
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
-[has_place_longitude::101.7]
-[has_place_latitude::3.17]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

@@ -10,26 +10,45 @@ aliases:
   - Town Hall
 has_id_wikidata: Q543654
 different_from:
-  - '[[_Standards/WikiData/WD~town_hall_meeting,1459915]]'
-  - '[[_Standards/WikiData/WD~Rathaus,4390853]]'
-  - '[[_Standards/WikiData/WD~Ratusz,20034697]]'
-  - '[[_Standards/WikiData/WD~Q120793870,120793870]]'
+  - "[[_Standards/WikiData/WD~town_hall_meeting,1459915]]"
+  - "[[_Standards/WikiData/WD~Rathaus,4390853]]"
+  - "[[_Standards/WikiData/WD~Ratusz,20034697]]"
+  - "[[_Standards/WikiData/WD~Q120793870,120793870]]"
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~mairie,9022797]]'
-  - '[[_Standards/WikiData/WD~hôtel_de_ville,15020931]]'
-  - '[[_Standards/WikiData/WD~city_hall,25550691]]'
-  - '[[_Standards/WikiData/WD~ratusz,64163168]]'
-  - '[[_Standards/WikiData/WD~casa_consistorial,112793351]]'
-  - '[[_Standards/WikiData/WD~town_hall,112818750]]'
-facet_of: '[[_Standards/WikiData/WD~civil_architecture,17995705]]'
+  - "[[_Standards/WikiData/WD~mairie,9022797]]"
+  - "[[_Standards/WikiData/WD~hôtel_de_ville,15020931]]"
+  - "[[_Standards/WikiData/WD~city_hall,25550691]]"
+  - "[[_Standards/WikiData/WD~ratusz,64163168]]"
+  - "[[_Standards/WikiData/WD~casa_consistorial,112793351]]"
+  - "[[_Standards/WikiData/WD~town_hall,112818750]]"
+facet_of: "[[_Standards/WikiData/WD~civil_architecture,17995705]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~city_hall,25550691]]'
-  - '[[_Standards/WikiData/WD~government_office_building,117863327]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+  - "[[_Standards/WikiData/WD~city_hall,25550691]]"
+  - "[[_Standards/WikiData/WD~government_office_building,117863327]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gemeentearchief2.jpg
 Commons_category: Town halls
 Commons_gallery: City hall
 name_in_kana: しちょうしゃ
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Rathaus,543654]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall|Town_Hall]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.public|Town_Hall.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.internal|Town_Hall.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.protect|Town_Hall.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.private|Town_Hall.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.personal|Town_Hall.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.secret|Town_Hall.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Rathaus,543654]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall|Town_Hall]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.public|Town_Hall.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.internal|Town_Hall.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.protect|Town_Hall.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.private|Town_Hall.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.personal|Town_Hall.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Town_Hall.secret|Town_Hall.secret]]"
 ---
 
 # [[Town_Hall]] 

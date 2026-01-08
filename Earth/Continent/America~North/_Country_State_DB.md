@@ -1,8 +1,25 @@
 ---
 aliases:
   - _Country_State_DB
-  - ' Country State DB'
+  - " Country State DB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/_Country_State_DB|_Country_State_DB]]"
+    - "[[/_public/Earth/Continent/America~North/_Country_State_DB.public|_Country_State_DB.public]]"
+    - "[[/_internal/Earth/Continent/America~North/_Country_State_DB.internal|_Country_State_DB.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/_Country_State_DB.protect|_Country_State_DB.protect]]"
+    - "[[/_private/Earth/Continent/America~North/_Country_State_DB.private|_Country_State_DB.private]]"
+    - "[[/_personal/Earth/Continent/America~North/_Country_State_DB.personal|_Country_State_DB.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/_Country_State_DB.secret|_Country_State_DB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/_Country_State_DB|_Country_State_DB]]"
+  - "[[/_public/Earth/Continent/America~North/_Country_State_DB.public|_Country_State_DB.public]]"
+  - "[[/_internal/Earth/Continent/America~North/_Country_State_DB.internal|_Country_State_DB.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/_Country_State_DB.protect|_Country_State_DB.protect]]"
+  - "[[/_private/Earth/Continent/America~North/_Country_State_DB.private|_Country_State_DB.private]]"
+  - "[[/_personal/Earth/Continent/America~North/_Country_State_DB.personal|_Country_State_DB.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/_Country_State_DB.secret|_Country_State_DB.secret]]"
 ---
 
 ```yaml:dbfolder
@@ -206,12 +223,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  name-abbr:
+  has_name_abbr:
     input: text
-    accessorKey: name-abbr
-    label: name-abbr
-    key: name-abbr
-    id: name-abbr
+    accessorKey: has_name_abbr
+    label: has_name_abbr
+    key: has_name_abbr
+    id: has_name_abbr
     position: 2
     skipPersist: false
     isHidden: false

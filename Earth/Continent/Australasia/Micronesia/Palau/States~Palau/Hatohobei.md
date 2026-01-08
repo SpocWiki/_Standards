@@ -6,25 +6,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 3.04
   - 131.16
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Hatobohei
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei|Hatohobei]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.public|Hatohobei.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.internal|Hatohobei.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.protect|Hatohobei.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.private|Hatohobei.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.personal|Hatohobei.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.secret|Hatohobei.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei|Hatohobei]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.public|Hatohobei.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.internal|Hatohobei.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.protect|Hatohobei.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.private|Hatohobei.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.personal|Hatohobei.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.secret|Hatohobei.secret]]"
 ---
 
 # Hatobohei

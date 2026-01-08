@@ -37,9 +37,9 @@ official_name: Horologium
 
 [SpocWebEntityId::28123] 
 
-[name-la::Horologium]
-[name-genitive::Horologii]
-[name-de::Pendeluhr]
+[#has_/name_/la::Horologium]
+[#has_/name_/la_/genitive::Horologii]
+[#has_/name_/de::Pendeluhr]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Horologium,10574]] 
 

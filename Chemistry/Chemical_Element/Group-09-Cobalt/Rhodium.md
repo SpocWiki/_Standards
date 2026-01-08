@@ -79,7 +79,7 @@ ZVG_number: 7450
 #chemic/Element 
 
 [GroupName::Group-09-Cobalt]
-[Group:[[../Group-09-Cobalt]]
+Group::[[../Group-09-Cobalt]]
 
 
 [#has_/name_/en::Rhodium]
@@ -88,7 +88,7 @@ ZVG_number: 7450
 [AtomRadius::1.83]
 [Atom-Vol-ccm-mol::8.3]
 [Unknown2::1.25]
-[#has_/radius_/nm::7.46]
+[#has_/radius_/nano_/m::7.46]
 [Electronegative::2.3]
 [Density::12.4]
 [#has_/value_for_/temperature_/melt_/c ::1966]

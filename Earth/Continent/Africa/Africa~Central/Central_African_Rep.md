@@ -1,6 +1,44 @@
-﻿---
+---
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Central_African_Rep
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep|Central_African_Rep]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep.public|Central_African_Rep.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.internal|Central_African_Rep.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep.protect|Central_African_Rep.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep.private|Central_African_Rep.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.personal|Central_African_Rep.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep.secret|Central_African_Rep.secret]]"
+dv_ISO2: CF
+dv_ISO3: CAF
+dv_has_name_en: Central African Rep.
+dv_has_name_de: Zentralafrikanische Republik
+dv_Area-Total: 622984
+dv_Area-Land: 622980
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: RCA
+dv_Capital: "[[Bangui]]"
+dv_Alcohol-l: 3.4
+dv_Language-Id: 496
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 18.5833
+dv_has_place_latitude: 4.36667
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Central_African_Rep
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep|Central_African_Rep]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep.public|Central_African_Rep.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.internal|Central_African_Rep.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep.protect|Central_African_Rep.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep.private|Central_African_Rep.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.personal|Central_African_Rep.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep.secret|Central_African_Rep.secret]]"
+
 has_time_started: 1960-01-01 
-location: [ 20.9 , 6.7 ] 
 aliases:
   - Central African Republic
   - Central_African_Republic
@@ -401,14 +439,17 @@ hashtag_: CentralAfricanRepublic
 # [[Central_African_Rep]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Central_African_Rep  
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Central_African_Rep/ReadMe]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]] 
+is_a_ = `=this.dv_is_a_`
 
-[ISO2::CF]
-[ISO3::CAF]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
+
+## #has_/map 
+
 ```leaflet
 id: Central African Rep.
 zoomFeatures: true 
@@ -416,24 +457,27 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Central_African_Rep//
 markerFolder: ./Central_African_Rep//
+coordinates: [[Central_African_Rep]] 
+markerFile: [[Central_African_Rep]] 
+defaultZoom: 5 
 ```
 
-[name-en::Central African Rep.]
-[name-de::Zentralafrikanische Republik]
-[Area-Total::622984]
-[Area-Land::622980]
-has_place_continent:: [[Africa]]  
-[VehicleCode::RCA]
-Capital :: [[Bangui]]  
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Central-african-republic.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Central-african-republic.mp3]]
 ![[Flag_of_Central-african-republic.svg|350]]
-[Alcohol-l::3.4]
-[Language-Id::496]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::18.5833]
-[has_place_latitude::4.36667]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

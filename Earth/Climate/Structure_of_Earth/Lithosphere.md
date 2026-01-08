@@ -17,6 +17,25 @@ part_of:
 Commons_category: Lithospheres
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000646
 Krugosvet_article: nauka_i_tehnika/himiya/LITOSFERA.html
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Lithosphere,83296|WD~Lithosphere,83296]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere|Lithosphere]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere.public|Lithosphere.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere.internal|Lithosphere.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere.protect|Lithosphere.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere.private|Lithosphere.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere.personal|Lithosphere.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere.secret|Lithosphere.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Lithosphere,83296|WD~Lithosphere,83296]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere|Lithosphere]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere.public|Lithosphere.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere.internal|Lithosphere.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere.protect|Lithosphere.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere.private|Lithosphere.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere.personal|Lithosphere.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere.secret|Lithosphere.secret]]"
 ---
 
 # [[Lithosphere]] 

@@ -42,9 +42,9 @@ short_name: Scl
 
 [SpocWebEntityId::28156]
 
-[name-la::Sculptor]
-[name-genitive::Sculptoris]
-[name-de::Bildhauer]
+[#has_/name_/la::Sculptor]
+[#has_/name_/la_/genitive::Sculptoris]
+[#has_/name_/de::Bildhauer]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Sculptor,9286]] 
 

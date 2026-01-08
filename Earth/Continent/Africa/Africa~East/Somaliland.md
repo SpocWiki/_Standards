@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 9.7
   - 46.1
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Somaliland
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Somaliland|Somaliland]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Somaliland.public|Somaliland.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Somaliland.internal|Somaliland.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Somaliland.protect|Somaliland.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Somaliland.private|Somaliland.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal|Somaliland.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret|Somaliland.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Somaliland|Somaliland]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Somaliland.public|Somaliland.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Somaliland.internal|Somaliland.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Somaliland.protect|Somaliland.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Somaliland.private|Somaliland.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal|Somaliland.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret|Somaliland.secret]]"
 ---
 
 # Somaliland

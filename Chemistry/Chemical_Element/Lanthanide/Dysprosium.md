@@ -65,7 +65,7 @@ ZVG_number: 7660
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+Group::[[../Lanthanide]]
 
 
 [#has_/name_/en::Dysprosium]
@@ -74,7 +74,7 @@ ZVG_number: 7660
 [AtomRadius::2.49]
 [Atom-Vol-ccm-mol::19]
 [Unknown2::1.59]
-[#has_/radius_/nm::5.94]
+[#has_/radius_/nano_/m::5.94]
 [Electronegative::1.2]
 [Density::8.54]
 [#has_/value_for_/temperature_/melt_/c ::1409]

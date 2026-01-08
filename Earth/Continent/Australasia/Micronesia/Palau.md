@@ -1,5 +1,88 @@
-﻿---
-location: [ 134.55 , 7.466667 ] 
+---
+dv_"Concept", "RepublicOfPalau: 62yw5"
+dv_ISO4217-currency_alphabetic: USD
+dv_ISO4217-currency_name: US Dollar
+dv_ISO4217-currency_numeric: 840
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: PALAU
+dv_Telephone: 680
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Palau
+dv_has_name_en: Palau
+dv_has_name_es: Palau
+dv_has_name_fr: Palaos
+dv_has_name_cn: 帕劳
+dv_has_name_ar: بالاو
+dv_has_name_ru: Палау
+dv_CLDR_display_name: Palau
+dv_UNTERM_English: Palau
+dv_UNTERM_English_Formal: the Republic of Palau
+dv_UNTERM_Spanish_Formal: la República de Palau
+dv_UNTERM_Spanish: Palau
+dv_UNTERM_French: Palaos (les)
+dv_UNTERM_Arabic: بالاو
+dv_UNTERM_Arabic_Formal: جمهورية بالاو
+dv_UNTERM_Chinese: 帕劳
+dv_UNTERM_Chinese_Formal: 帕劳共和国
+dv_UNTERM_French_Formal: la République des Palaos
+dv_UNTERM_Russian: Палау
+dv_UNTERM_Russian_Formal: Республика Палау
+dv_Region_Name: "[[../../Oceania]]"
+dv_Intermediate_Region_Name: "[[Palau]]"
+dv_Sub-region_Name: "[[../Micronesia]]"
+dv_Region: 9
+dv_Sub-region: 57
+dv_Geoname-ID: 1559582
+dv_FIPS: PS
+dv_FIFA: PLW
+dv_IOC: PLW
+dv_MARC: pw
+dv_GAUL: 189
+dv_ITU: PLW
+dv_TLD: .pw
+dv_EDGAR: 1Y
+dv_M49: 585
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 585
+dv_ISO2: PW
+dv_ISO3: PLW
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Palau,695|WD~Palau,695]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau|Palau]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau.public|Palau.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau.internal|Palau.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau.protect|Palau.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau.private|Palau.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal|Palau.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret|Palau.secret]]"
+dv_has_name_de: Palau
+dv_Area-Total: 508
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Oceania]]"
+dv_VehicleCode: PAL
+dv_Capital: "[[Palau/States~Palau/Melekeok]]"
+dv_Alcohol-l: 10.1
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 134.467
+dv_has_place_latitude: 7.35
+dv_concept-republicofpalau: 62yw5"
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Palau,695|WD~Palau,695]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau|Palau]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau.public|Palau.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau.internal|Palau.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau.protect|Palau.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau.private|Palau.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal|Palau.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret|Palau.secret]]"
+
 aliases:
   - Palau
   - Palaos
@@ -121,7 +204,7 @@ native_label:
   - Republic of Palau
 coordinates_of_westernmost_point: Point(131.12388889 3.00583333)
 Wolfram_Language_entity_code:
-  - Entity["Concept", "RepublicOfPalau::62yw5"]
+  - Entity"Concept", "RepublicOfPalau = `=this.dv_"Concept", "RepublicOfPalau`
   - Entity["HistoricalCountry", "Palau"]
 motto_text:
   - Paradwys Perffaith Palaw
@@ -278,73 +361,75 @@ icon: flag-pw
 
 # [[Palau]] 
 
-[	ISO4217-currency_alphabetic	 :: USD ] 
-[	ISO4217-currency_name	 :: US Dollar ] 
-[	ISO4217-currency_numeric	 :: 840 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: PALAU ] 
+## [[Palau]] has Properties... 
 
-[	Telephone	 :: 680 ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Telephone = `=this.dv_Telephone` 
 
-[	name	 :: Palau ] 
-[	name-en	 :: Palau ] 
-[	name-es	 :: Palau ] 
-[	name-fr	 :: Palaos ] 
-[	name-cn	 :: 帕劳 ] 
-[	name-ar	 :: بالاو ] 
-[	name-ru	 :: Палау ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	CLDR_display_name	 :: Palau ] 
+name = `=this.dv_name` 
+[	has_name_en	 :: Palau ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
-[	UNTERM_English	 :: Palau ] 
-[	UNTERM_English_Formal	 :: the Republic of Palau ] 
-[	UNTERM_Spanish_Formal	 :: la República de Palau ] 
-[	UNTERM_Spanish	 :: Palau ] 
-[	UNTERM_French	 :: Palaos (les) ] 
-[	UNTERM_Arabic	 :: بالاو ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية بالاو ] 
-[	UNTERM_Chinese	 :: 帕劳 ] 
-[	UNTERM_Chinese_Formal	 :: 帕劳共和国 ] 
-[	UNTERM_French_Formal	 :: la République des Palaos ] 
-[	UNTERM_Russian	 :: Палау ] 
-[	UNTERM_Russian_Formal	 :: Республика Палау ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[../../Australasia/Micronesia]] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 57 ] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Geoname-ID	 :: 1559582 ] 
-[	FIPS	 :: PS ] 
-[	FIFA	 :: PLW ] 
-[	IOC	 :: PLW ] 
-[	MARC	 :: pw ] 
-[	GAUL	 :: 189 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
+
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
 [	WMO	 ::  ] 
-[	ITU	 :: PLW ] 
+ITU = `=this.dv_ITU` 
 [	DS	 ::  ] 
-[	TLD	 :: .pw ] 
-[	EDGAR	 :: 1Y ] 
-[	M49	 :: 585 ] 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 585 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::PW] 
-[ISO3::PLW]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../../WikiData/WD~Palau,695|WD~Palau,695]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
@@ -360,24 +445,24 @@ markerFile: [[Palau]]
 defaultZoom: 6 
 ```
 
-[name-en::Palau] 
-[name-de::Palau] 
+[has_name_en::Palau] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Seal_of_Palau.svg|350]] 
 
 ![[Flag_of_Palau.svg|350]] 
 
-[Area-Total::508] 
-[Area-Land::0] 
-has_place_continent:: [[Oceania]]  
-[VehicleCode::PAL] 
-Capital :: [[Melekeok]]  
-[Alcohol-l::10.1] 
-[Language-Id::499] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::134.467] 
-[has_place_latitude::7.35] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

@@ -52,9 +52,9 @@ short_name: Tau
 
 [SpocWebEntityId::28160] 
 
-[name-la::Taurus]
-[name-genitive::Tauri]
-[name-de::Stier]
+[#has_/name_/la::Taurus]
+[#has_/name_/la_/genitive::Tauri]
+[#has_/name_/de::Stier]
 
 #is_/same_as :: [[../../WikiData/WD~Taurus,10570|WD~Taurus,10570]] 
 

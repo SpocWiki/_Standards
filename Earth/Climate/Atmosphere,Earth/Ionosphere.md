@@ -19,6 +19,25 @@ Dewey_Decimal_Classification:
   - "538.767"
   - "551.5145"
 Commons_category: Ionosphere
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ionosphere,162219]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Ionosphere|Ionosphere]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Ionosphere.public|Ionosphere.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Ionosphere.internal|Ionosphere.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Ionosphere.protect|Ionosphere.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Ionosphere.private|Ionosphere.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Ionosphere.personal|Ionosphere.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Ionosphere.secret|Ionosphere.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ionosphere,162219]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Ionosphere|Ionosphere]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Ionosphere.public|Ionosphere.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Ionosphere.internal|Ionosphere.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Ionosphere.protect|Ionosphere.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Ionosphere.private|Ionosphere.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Ionosphere.personal|Ionosphere.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Ionosphere.secret|Ionosphere.secret]]"
 ---
 
 # [[Ionosphere]] 

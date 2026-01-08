@@ -2,6 +2,23 @@
 aliases:
   - Total Fertility Rate
   - Fertility-Rate
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Fertility-Rate|Fertility-Rate]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Fertility-Rate.public|Fertility-Rate.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Fertility-Rate.internal|Fertility-Rate.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Fertility-Rate.protect|Fertility-Rate.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Fertility-Rate.private|Fertility-Rate.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Fertility-Rate.personal|Fertility-Rate.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Fertility-Rate.secret|Fertility-Rate.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Fertility-Rate|Fertility-Rate]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Fertility-Rate.public|Fertility-Rate.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Fertility-Rate.internal|Fertility-Rate.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Fertility-Rate.protect|Fertility-Rate.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Fertility-Rate.private|Fertility-Rate.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Fertility-Rate.personal|Fertility-Rate.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Fertility-Rate.secret|Fertility-Rate.secret]]"
 ---
 
 # [[Fertility-Rate]] 

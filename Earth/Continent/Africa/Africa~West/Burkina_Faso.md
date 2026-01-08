@@ -378,83 +378,171 @@ expiryDate: ""
 Languages:
   - fr-BF
   - mos
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Burkina_Faso
+dv_ISO4217-currency_alphabetic: XOF
+dv_ISO4217-currency_name: CFA Franc BCEAO
+dv_ISO4217-currency_numeric: 952
+dv_ISO4217-currency_minor_unit: 0
+dv_ISO4217-currency_country_name: BURKINA FASO
+dv_Telephone: 226
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Burkina Faso
+dv_has_name_en:
+  - Burkina Faso
+  - Burkina Faso
+dv_has_name_es: Burkina Faso
+dv_has_name_fr: Burkina Faso
+dv_has_name_cn: 布基纳法索
+dv_has_name_ar: بوركينا فاسو
+dv_has_name_ru: Буркина-Фасо
+dv_CLDR_display_name: Burkina Faso
+dv_UNTERM_English: Burkina Faso
+dv_UNTERM_English_Formal: Burkina Faso
+dv_UNTERM_Spanish_Formal: Burkina Faso
+dv_UNTERM_Spanish: Burkina Faso
+dv_UNTERM_French: Burkina Faso (le)
+dv_UNTERM_Arabic: بوركينا فاسو
+dv_UNTERM_Arabic_Formal: بوركينا فاسو
+dv_UNTERM_Chinese: 布基纳法索
+dv_UNTERM_Chinese_Formal: 布基纳法索
+dv_UNTERM_French_Formal: le Burkina Faso
+dv_UNTERM_Russian: Буркина-Фасо
+dv_UNTERM_Russian_Formal: Буркина-Фасо
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 2361809
+dv_FIPS: UV
+dv_FIFA: BFA
+dv_IOC: BUR
+dv_MARC: uv
+dv_GAUL: 42
+dv_WMO: HV
+dv_ITU: BFA
+dv_DS: BF
+dv_TLD: .bf
+dv_EDGAR: X2
+dv_M49: 854
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 854
+dv_ISO2: BF
+dv_ISO3: BFA
+dv_has_name_de: Burkina Faso
+dv_Area-Total: 274200
+dv_Area-Land: 273600
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: BF
+dv_Alcohol-l: 7
+dv_Language-Id: 496
+dv_has_place_longitude: -1.66667
+dv_has_place_latitude: 12.3333
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso|Burkina_Faso]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.public|Burkina_Faso.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal|Burkina_Faso.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso.protect|Burkina_Faso.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso.private|Burkina_Faso.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal|Burkina_Faso.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret|Burkina_Faso.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Burkina_Faso
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso|Burkina_Faso]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso.public|Burkina_Faso.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso.internal|Burkina_Faso.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso.protect|Burkina_Faso.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso.private|Burkina_Faso.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso.personal|Burkina_Faso.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso.secret|Burkina_Faso.secret]]"
 ---
 
 # [[Burkina_Faso]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Burkina_Faso 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Burkina_Faso/ReadMe]] 
 
 
-[	ISO4217-currency_alphabetic	 :: XOF ]
-[	ISO4217-currency_name	 :: CFA Franc BCEAO ]
-[	ISO4217-currency_numeric	 :: 952 ]
-[	ISO4217-currency_minor_unit	 :: 0 ]
-[	ISO4217-currency_country_name	 :: BURKINA FASO ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 226 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Burkina Faso ]
-[	name-en	 :: Burkina Faso ]
-[	name-es	 :: Burkina Faso ]
-[	name-fr	 :: Burkina Faso ]
-[	name-cn	 :: 布基纳法索 ]
-[	name-ar	 :: بوركينا فاسو ]
-[	name-ru	 :: Буркина-Фасо ]
+name = `=this.dv_name`
+[	has_name_en	 :: Burkina Faso ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Burkina Faso ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Burkina Faso ]
-[	UNTERM_English_Formal	 :: Burkina Faso ]
-[	UNTERM_Spanish_Formal	 :: Burkina Faso ]
-[	UNTERM_Spanish	 :: Burkina Faso ]
-[	UNTERM_French	 :: Burkina Faso (le) ]
-[	UNTERM_Arabic	 :: بوركينا فاسو ]
-[	UNTERM_Arabic_Formal	 :: بوركينا فاسو ]
-[	UNTERM_Chinese	 :: 布基纳法索 ]
-[	UNTERM_Chinese_Formal	 :: 布基纳法索 ]
-[	UNTERM_French_Formal	 :: le Burkina Faso ]
-[	UNTERM_Russian	 :: Буркина-Фасо ]
-[	UNTERM_Russian_Formal	 :: Буркина-Фасо ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2361809 ]
-[	FIPS	 :: UV ]
-[	FIFA	 :: BFA ]
-[	IOC	 :: BUR ]
-[	MARC	 :: uv ]
-[	GAUL	 :: 42 ]
-[	WMO	 :: HV ]
-[	ITU	 :: BFA ]
-[	DS	 :: BF ]
-[	TLD	 :: .bf ]
-[	EDGAR	 :: X2 ]
-[	M49	 :: 854 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
-[	Least_Developed_Countries	 :: x ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 854 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
 
-[ISO2::BF]
-[ISO3::BFA]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 ```leaflet
 id: Burkina Faso
 zoomFeatures: true 
@@ -464,12 +552,12 @@ geojsonFolder: ./Burkina_Faso//
 markerFolder: ./Burkina_Faso//
 ```
 
-[name-en::Burkina Faso]
-[name-de::Burkina Faso]
-[Area-Total::274200]
-[Area-Land::273600]
-has_place_continent:: [[Africa]]  
-[VehicleCode::BF]
+[has_name_en::Burkina Faso]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou]]  
 
 ![[Coat_of_arms_of_Burkina_Faso.svg|350]]
@@ -477,10 +565,10 @@ Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/Ci
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Burkina-faso.mp3]]
 
 ![[Flag_of_Burkina_Faso.svg|350]]
-[Alcohol-l::7]
-[Language-Id::496]
-[has_place_longitude::-1.66667]
-[has_place_latitude::12.3333]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

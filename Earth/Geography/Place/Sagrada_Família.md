@@ -1,5 +1,25 @@
-﻿---
-location: [ 2.17433 , 41.40369 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]]"
+    - "[[/_Standards/Earth/Geography/Place/Sagrada_Família|Sagrada_Família]]"
+    - "[[/_public/Earth/Geography/Place/Sagrada_Família.public|Sagrada_Família.public]]"
+    - "[[/_internal/Earth/Geography/Place/Sagrada_Família.internal|Sagrada_Família.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Sagrada_Família.protect|Sagrada_Família.protect]]"
+    - "[[/_private/Earth/Geography/Place/Sagrada_Família.private|Sagrada_Família.private]]"
+    - "[[/_personal/Earth/Geography/Place/Sagrada_Família.personal|Sagrada_Família.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Sagrada_Família.secret|Sagrada_Família.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]]"
+  - "[[/_Standards/Earth/Geography/Place/Sagrada_Família|Sagrada_Família]]"
+  - "[[/_public/Earth/Geography/Place/Sagrada_Família.public|Sagrada_Família.public]]"
+  - "[[/_internal/Earth/Geography/Place/Sagrada_Família.internal|Sagrada_Família.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Sagrada_Família.protect|Sagrada_Família.protect]]"
+  - "[[/_private/Earth/Geography/Place/Sagrada_Família.private|Sagrada_Família.private]]"
+  - "[[/_personal/Earth/Geography/Place/Sagrada_Família.personal|Sagrada_Família.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Sagrada_Família.secret|Sagrada_Família.secret]]"
+
+location: [ 41.40369, 2.17433 ] 
 aliases:
   - Sagrada Família
   - Sagrada Familia
@@ -79,7 +99,21 @@ Commons_category: Sagrada Família
 
 #is_/same_as :: [[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]] 
 
-![[../../../../assets/Sagrada_Família_side_view.jpg]] 
+![[../../../assets/Sagrada_Família.png]] 
+## #has_/map  
+
+```leaflet
+id: Sagrada_Família
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Sagrada_Família//
+markerFolder: ./Sagrada_Família/
+coordinates: [[Sagrada_Família]] 
+markerFile: [[Sagrada_Família]] 
+defaultZoom: 17 
+```
+
 ## #has_/text_of_/abstract 
 
 > The Basílica i Temple Expiatori de la **Sagrada Família**, otherwise known as Sagrada Família, 

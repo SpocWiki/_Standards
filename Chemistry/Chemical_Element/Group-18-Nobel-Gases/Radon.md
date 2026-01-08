@@ -62,7 +62,7 @@ UNII: Q74S4N8N1G
 
 #chemic/Element 
 [GroupName::Group-18-Nobel-Gases]
-[Group:[[../Group-18-Nobel-Gases]]
+Group::[[../Group-18-Nobel-Gases]]
 
 
 [#has_/name_/en::Radon]
@@ -71,7 +71,7 @@ UNII: Q74S4N8N1G
 [AtomRadius::1.34]
 [Atom-Vol-ccm-mol::50.5]
 [Unknown2::0]
-[#has_/radius_/nm::10.748]
+[#has_/radius_/nano_/m::10.748]
 [Electronegative::0]
 [Density::9.91]
 [#has_/value_for_/temperature_/melt_/c ::-71]

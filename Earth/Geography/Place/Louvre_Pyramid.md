@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[wd Louvre Pyramid]]"
+    - "[[/_Standards/Earth/Geography/Place/Louvre_Pyramid|Louvre_Pyramid]]"
+    - "[[/_public/Earth/Geography/Place/Louvre_Pyramid.public|Louvre_Pyramid.public]]"
+    - "[[/_internal/Earth/Geography/Place/Louvre_Pyramid.internal|Louvre_Pyramid.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Louvre_Pyramid.protect|Louvre_Pyramid.protect]]"
+    - "[[/_private/Earth/Geography/Place/Louvre_Pyramid.private|Louvre_Pyramid.private]]"
+    - "[[/_personal/Earth/Geography/Place/Louvre_Pyramid.personal|Louvre_Pyramid.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Louvre_Pyramid.secret|Louvre_Pyramid.secret]]"
+dv_is_same_as:
+  - "[[wd Louvre Pyramid]]"
+  - "[[/_Standards/Earth/Geography/Place/Louvre_Pyramid|Louvre_Pyramid]]"
+  - "[[/_public/Earth/Geography/Place/Louvre_Pyramid.public|Louvre_Pyramid.public]]"
+  - "[[/_internal/Earth/Geography/Place/Louvre_Pyramid.internal|Louvre_Pyramid.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Louvre_Pyramid.protect|Louvre_Pyramid.protect]]"
+  - "[[/_private/Earth/Geography/Place/Louvre_Pyramid.private|Louvre_Pyramid.private]]"
+  - "[[/_personal/Earth/Geography/Place/Louvre_Pyramid.personal|Louvre_Pyramid.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Louvre_Pyramid.secret|Louvre_Pyramid.secret]]"
+
 has_time_started: 1981-01-01 
-location: [ 2.335861111 , 48.861 ] 
+location: [ 48.861, 2.335861111 ] 
 aliases:
   - Louvre Pyramid
   - Louvre_Pyramid
@@ -39,6 +59,20 @@ coordinate_location: Point(2.335861111 48.861)
 ![[../../../assets/Louvre_Pyramid.png]] 
 
 #is_/same_as :: [[wd Louvre Pyramid]]
+
+## #has_/map  
+
+```leaflet
+id: Louvre_Pyramid
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Louvre_Pyramid//
+markerFolder: ./Louvre_Pyramid/
+coordinates: [[Louvre_Pyramid]] 
+markerFile: [[Louvre_Pyramid]] 
+defaultZoom: 15 
+```
 
 ## #has_/text_of_/abstract 
 

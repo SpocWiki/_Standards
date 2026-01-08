@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 5.3
   - 163
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Kosrae
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae|Kosrae]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.public|Kosrae.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.internal|Kosrae.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.protect|Kosrae.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.private|Kosrae.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.personal|Kosrae.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.secret|Kosrae.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae|Kosrae]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.public|Kosrae.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.internal|Kosrae.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.protect|Kosrae.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.private|Kosrae.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.personal|Kosrae.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.secret|Kosrae.secret]]"
 ---
 
 # Kosrae

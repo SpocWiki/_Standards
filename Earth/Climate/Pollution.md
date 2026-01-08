@@ -38,6 +38,25 @@ U_S_National_Archives_Identifier: "10642515"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Factory.gif
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AA%D9%84%D9%88%D8%AB.wav
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/ZAGRYAZNENIE_OKRUZHAYUSHCHE_SREDI.html lazio merda
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Pollution,58734]]"
+    - "[[/_Standards/Earth/Climate/Pollution|Pollution]]"
+    - "[[/_public/Earth/Climate/Pollution.public|Pollution.public]]"
+    - "[[/_internal/Earth/Climate/Pollution.internal|Pollution.internal]]"
+    - "[[/_protect/Earth/Climate/Pollution.protect|Pollution.protect]]"
+    - "[[/_private/Earth/Climate/Pollution.private|Pollution.private]]"
+    - "[[/_personal/Earth/Climate/Pollution.personal|Pollution.personal]]"
+    - "[[/_secret/Earth/Climate/Pollution.secret|Pollution.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Pollution,58734]]"
+  - "[[/_Standards/Earth/Climate/Pollution|Pollution]]"
+  - "[[/_public/Earth/Climate/Pollution.public|Pollution.public]]"
+  - "[[/_internal/Earth/Climate/Pollution.internal|Pollution.internal]]"
+  - "[[/_protect/Earth/Climate/Pollution.protect|Pollution.protect]]"
+  - "[[/_private/Earth/Climate/Pollution.private|Pollution.private]]"
+  - "[[/_personal/Earth/Climate/Pollution.personal|Pollution.personal]]"
+  - "[[/_secret/Earth/Climate/Pollution.secret|Pollution.secret]]"
 ---
 
 # [[Pollution]] 

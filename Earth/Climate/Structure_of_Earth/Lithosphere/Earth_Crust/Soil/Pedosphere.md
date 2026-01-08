@@ -7,6 +7,25 @@ instance_of:
   - "[[_Standards/WikiData/WD~geographic_envelope,2627400]]"
 part_of: "[[_Standards/WikiData/WD~landscape_sphere,8535454]]"
 OmegaWiki_Defined_Meaning: "2735"
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Pedosphere,941094]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere|Pedosphere]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.public|Pedosphere.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.internal|Pedosphere.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.protect|Pedosphere.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.private|Pedosphere.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.personal|Pedosphere.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.secret|Pedosphere.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Pedosphere,941094]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere|Pedosphere]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.public|Pedosphere.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.internal|Pedosphere.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.protect|Pedosphere.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.private|Pedosphere.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.personal|Pedosphere.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.secret|Pedosphere.secret]]"
 ---
 
 # [[Pedosphere]] 

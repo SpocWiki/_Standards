@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South|Ocean~Atlantic~South]]"
+    - "[[/_public/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.public|Ocean~Atlantic~South.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.internal|Ocean~Atlantic~South.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.protect|Ocean~Atlantic~South.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.private|Ocean~Atlantic~South.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.personal|Ocean~Atlantic~South.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.secret|Ocean~Atlantic~South.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South|Ocean~Atlantic~South]]"
+  - "[[/_public/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.public|Ocean~Atlantic~South.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.internal|Ocean~Atlantic~South.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.protect|Ocean~Atlantic~South.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.private|Ocean~Atlantic~South.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.personal|Ocean~Atlantic~South.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Atlantic/Ocean~Atlantic~South.secret|Ocean~Atlantic~South.secret]]"
+---
 # [[Ocean~Atlantic~South]] 
 
 ## Edit

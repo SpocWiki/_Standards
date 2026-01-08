@@ -12,6 +12,25 @@ described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~formation,56756187]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SEUtahStrat.JPG
 Commons_category: Geologic formations
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Formation,736917|WD~Formation,736917]]"
+    - "[[/_Standards/Earth/Geology/Rock_Formation|Rock_Formation]]"
+    - "[[/_public/Earth/Geology/Rock_Formation.public|Rock_Formation.public]]"
+    - "[[/_internal/Earth/Geology/Rock_Formation.internal|Rock_Formation.internal]]"
+    - "[[/_protect/Earth/Geology/Rock_Formation.protect|Rock_Formation.protect]]"
+    - "[[/_private/Earth/Geology/Rock_Formation.private|Rock_Formation.private]]"
+    - "[[/_personal/Earth/Geology/Rock_Formation.personal|Rock_Formation.personal]]"
+    - "[[/_secret/Earth/Geology/Rock_Formation.secret|Rock_Formation.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Formation,736917|WD~Formation,736917]]"
+  - "[[/_Standards/Earth/Geology/Rock_Formation|Rock_Formation]]"
+  - "[[/_public/Earth/Geology/Rock_Formation.public|Rock_Formation.public]]"
+  - "[[/_internal/Earth/Geology/Rock_Formation.internal|Rock_Formation.internal]]"
+  - "[[/_protect/Earth/Geology/Rock_Formation.protect|Rock_Formation.protect]]"
+  - "[[/_private/Earth/Geology/Rock_Formation.private|Rock_Formation.private]]"
+  - "[[/_personal/Earth/Geology/Rock_Formation.personal|Rock_Formation.personal]]"
+  - "[[/_secret/Earth/Geology/Rock_Formation.secret|Rock_Formation.secret]]"
 ---
 
 # [[Rock_Formation]] 

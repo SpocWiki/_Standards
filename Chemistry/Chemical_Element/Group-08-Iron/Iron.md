@@ -110,7 +110,7 @@ ZVG_number: 8210
 #is_/same_as :: [[../../../WikiData/WD~Iron,677]] 
 
 [GroupName::Group-08-Iron]
-[Group:[[../Group-08-Iron]]
+Group::[[../Group-08-Iron]]
 
 
 [#has_/name_/en::Iron]
@@ -119,7 +119,7 @@ ZVG_number: 8210
 [AtomRadius::1.72]
 [Atom-Vol-ccm-mol::7.1]
 [Unknown2::1.17]
-[#has_/radius_/nm::7.87]
+[#has_/radius_/nano_/m::7.87]
 [Electronegative::1.8]
 [Density::7.86]
 [#has_/value_for_/temperature_/melt_/c ::1535]

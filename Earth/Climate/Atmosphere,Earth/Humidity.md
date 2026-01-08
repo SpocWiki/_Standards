@@ -24,6 +24,25 @@ MeSH_tree_code:
   - N06.230.150.372
   - N06.230.300.100.725.310
 Commons_category: Humidity
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Humidity,180600]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Humidity|Humidity]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Humidity.public|Humidity.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Humidity.internal|Humidity.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Humidity.protect|Humidity.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Humidity.private|Humidity.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Humidity.personal|Humidity.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Humidity.secret|Humidity.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Humidity,180600]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Humidity|Humidity]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Humidity.public|Humidity.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Humidity.internal|Humidity.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Humidity.protect|Humidity.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Humidity.private|Humidity.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Humidity.personal|Humidity.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Humidity.secret|Humidity.secret]]"
 ---
 
 # [[Humidity]] 

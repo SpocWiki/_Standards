@@ -13,23 +13,40 @@ Libris_URI: pm136tj73pg9mnj
 OmegaWiki_Defined_Meaning: 933625
 OpenStreetMap_tag: historic:civilization=vikingian
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Wikingowie,16615111]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~Wikingowie,16615111]]"
 has_time_started: 0793-06
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Fries_Museum,848313]]'
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Fries_Museum,848313]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dublin%20-%20Dublinia%20-%2020190809102938.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~style,1292119]]'
-  - '[[_Standards/WikiData/WD~people,2472587]]'
-  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
-  - '[[_Standards/WikiData/WD~culture,11042]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110097651,110097651]]'
+  - "[[_Standards/WikiData/WD~style,1292119]]"
+  - "[[_Standards/WikiData/WD~people,2472587]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~culture,11042]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110097651,110097651]]"
 start_time: 0793-06
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Viking|Viking]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.public|Viking.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.internal|Viking.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.protect|Viking.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.private|Viking.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.personal|Viking.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.secret|Viking.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Viking|Viking]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.public|Viking.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.internal|Viking.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.protect|Viking.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.private|Viking.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.personal|Viking.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.secret|Viking.secret]]"
 ---
 
 # [[Viking]] 

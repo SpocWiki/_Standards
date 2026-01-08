@@ -52,6 +52,25 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20jacque
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Malo%20cath%C3%A9drale%20Saint-Vincent%20interieur-9.JPG
 ISNI: "0000000121334905"
 P1015: "90165117"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Jacques_Cartier,7321|WD~Jacques_Cartier,7321]]"
+    - "[[/_Standards/Earth/Explorer/Age_of_Discovery/Cartier,Jacques|Cartier,Jacques]]"
+    - "[[/_public/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.public|Cartier,Jacques.public]]"
+    - "[[/_internal/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.internal|Cartier,Jacques.internal]]"
+    - "[[/_protect/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.protect|Cartier,Jacques.protect]]"
+    - "[[/_private/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.private|Cartier,Jacques.private]]"
+    - "[[/_personal/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.personal|Cartier,Jacques.personal]]"
+    - "[[/_secret/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.secret|Cartier,Jacques.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Jacques_Cartier,7321|WD~Jacques_Cartier,7321]]"
+  - "[[/_Standards/Earth/Explorer/Age_of_Discovery/Cartier,Jacques|Cartier,Jacques]]"
+  - "[[/_public/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.public|Cartier,Jacques.public]]"
+  - "[[/_internal/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.internal|Cartier,Jacques.internal]]"
+  - "[[/_protect/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.protect|Cartier,Jacques.protect]]"
+  - "[[/_private/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.private|Cartier,Jacques.private]]"
+  - "[[/_personal/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.personal|Cartier,Jacques.personal]]"
+  - "[[/_secret/Earth/Explorer/Age_of_Discovery/Cartier,Jacques.secret|Cartier,Jacques.secret]]"
 ---
 
 # [[Cartier,Jacques]] 

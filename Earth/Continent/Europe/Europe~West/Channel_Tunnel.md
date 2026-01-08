@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Channel_Tunnel,10257|WD~Channel_Tunnel,10257]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~West/Channel_Tunnel|Channel_Tunnel]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~West/Channel_Tunnel.public|Channel_Tunnel.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~West/Channel_Tunnel.internal|Channel_Tunnel.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~West/Channel_Tunnel.protect|Channel_Tunnel.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~West/Channel_Tunnel.private|Channel_Tunnel.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~West/Channel_Tunnel.personal|Channel_Tunnel.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~West/Channel_Tunnel.secret|Channel_Tunnel.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Channel_Tunnel,10257|WD~Channel_Tunnel,10257]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~West/Channel_Tunnel|Channel_Tunnel]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~West/Channel_Tunnel.public|Channel_Tunnel.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~West/Channel_Tunnel.internal|Channel_Tunnel.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~West/Channel_Tunnel.protect|Channel_Tunnel.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~West/Channel_Tunnel.private|Channel_Tunnel.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~West/Channel_Tunnel.personal|Channel_Tunnel.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~West/Channel_Tunnel.secret|Channel_Tunnel.secret]]"
+
 has_time_started: 1993-06-20 
-location: [ 1.45 , 51.01667 ] 
+location: [ 51.01667, 1.45 ] 
 aliases:
   - Kanal-Tunnel
   - Tunnel sous la Manche
@@ -72,6 +92,20 @@ service_entry: 1994-11-14T00:00:00Z
 # [[Channel_Tunnel]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Channel_Tunnel,10257|WD~Channel_Tunnel,10257]] 
+
+## #has_/map  
+
+```leaflet
+id: Channel_Tunnel
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Channel_Tunnel//
+markerFolder: ./Channel_Tunnel/
+coordinates: [[Channel_Tunnel]] 
+markerFile: [[Channel_Tunnel]] 
+defaultZoom: 8 
+```
 
 ## #has_/text_of_/abstract 
 

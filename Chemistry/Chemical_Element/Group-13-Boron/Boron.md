@@ -69,7 +69,7 @@ ZVG_number: 8030
 #chemic/Element 
 
 [GroupName::Group-13-Boron]
-[Group:[[../Group-13-Boron]]
+Group::[[../Group-13-Boron]]
 
 
 [#has_/name_/en::Boron]
@@ -78,7 +78,7 @@ ZVG_number: 8030
 [AtomRadius::1.17]
 [Atom-Vol-ccm-mol::4.6]
 [Unknown2::0.82]
-[#has_/radius_/nm::8.298]
+[#has_/radius_/nano_/m::8.298]
 [Electronegative::2]
 [Density::2.34]
 [#has_/value_for_/temperature_/melt_/c ::2300]

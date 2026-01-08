@@ -122,7 +122,7 @@ ZVG_number: 8190
 #is_/same_as :: [[../../../WikiData/WD~Chromium,725]] 
 
 [GroupName::Group-06-Chromium]
-[Group:[[../Group-06-Chromium]]
+Group::[[../Group-06-Chromium]]
 
 [#has_/name_/en::Chromium]
 [#has_/name_/de::Chrom]
@@ -130,7 +130,7 @@ ZVG_number: 8190
 [AtomRadius::1.85]
 [Atom-Vol-ccm-mol::7.23]
 [Unknown2::1.18]
-[#has_/radius_/nm::6.766]
+[#has_/radius_/nano_/m::6.766]
 [Electronegative::1.7]
 [Density::7.19]
 [#has_/value_for_/temperature_/melt_/c ::1857]

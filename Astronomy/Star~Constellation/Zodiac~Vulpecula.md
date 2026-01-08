@@ -43,9 +43,9 @@ time_of_discovery_or_invention: 1683-01-01T00:00:00Z
 
 [SpocWebEntityId::28170]
 
-[name-la::Vulpecula] 
-[name-genitive::Vulpeculae]
-[name-de::Fuechschen]
+[#has_/name_/la::Vulpecula] 
+[#has_/name_/la_/genitive::Vulpeculae]
+[#has_/name_/de::Fuechschen]
 
 #is_/same_as :: [[../../WikiData/WD~Vulpecula,10519|WD~Vulpecula,10519]] 
 

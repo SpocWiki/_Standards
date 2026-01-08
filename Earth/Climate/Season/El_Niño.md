@@ -21,6 +21,25 @@ video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/El%20Ni%C3%B1o%20%E2%80%93%20WMO%20animated%20explainer%20video%20%28Spanish%29.webm
   - http://commons.wikimedia.org/wiki/Special:FilePath/Wetterph%C3%A4nomen%20El%20Ni%C3%B1o%20-%20kurzerkl%C3%A4rt.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ENSO%20-%20El%20Ni%C3%B1o.svg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~El_Niño,7939|WD~El_Niño,7939]]"
+    - "[[/_Standards/Earth/Climate/Season/El_Niño|El_Niño]]"
+    - "[[/_public/Earth/Climate/Season/El_Niño.public|El_Niño.public]]"
+    - "[[/_internal/Earth/Climate/Season/El_Niño.internal|El_Niño.internal]]"
+    - "[[/_protect/Earth/Climate/Season/El_Niño.protect|El_Niño.protect]]"
+    - "[[/_private/Earth/Climate/Season/El_Niño.private|El_Niño.private]]"
+    - "[[/_personal/Earth/Climate/Season/El_Niño.personal|El_Niño.personal]]"
+    - "[[/_secret/Earth/Climate/Season/El_Niño.secret|El_Niño.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~El_Niño,7939|WD~El_Niño,7939]]"
+  - "[[/_Standards/Earth/Climate/Season/El_Niño|El_Niño]]"
+  - "[[/_public/Earth/Climate/Season/El_Niño.public|El_Niño.public]]"
+  - "[[/_internal/Earth/Climate/Season/El_Niño.internal|El_Niño.internal]]"
+  - "[[/_protect/Earth/Climate/Season/El_Niño.protect|El_Niño.protect]]"
+  - "[[/_private/Earth/Climate/Season/El_Niño.private|El_Niño.private]]"
+  - "[[/_personal/Earth/Climate/Season/El_Niño.personal|El_Niño.personal]]"
+  - "[[/_secret/Earth/Climate/Season/El_Niño.secret|El_Niño.secret]]"
 ---
 # [[El_Niño]] 
 

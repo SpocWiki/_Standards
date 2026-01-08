@@ -4,38 +4,59 @@ aliases:
   - Schengen_Area
   - Schengen-Area
 has_member:
-  - '[[Europe~Central/Germany|Germany]]'
-  - '[[Europe~West/France|France]]'
-  - '[[Europe~South/Italy|Italy]]'
-  - '[[Europe~West/Belgium|Belgium]]'
-  - '[[Europe~West/Netherlands|Netherlands]]'
-  - '[[Europe~West/Luxembourg|Luxembourg]]'
-  - '[[Europe~Central/Austria|Austria]]'
-  - '[[Europe~East/Bulgaria|Bulgaria]]'
-  - '[[Europe~Central/Croatia|Croatia]]'
-  - '[[Europe~Central/Czech_Republic|Czech_Republic]]'
-  - '[[Europe~North/Denmark|Denmark]]'
-  - '[[Europe~North/Estonia|Estonia]]'
-  - '[[Europe~North/Finland|Finland]]'
-  - '[[Europe~South/Greece|Greece]]'
-  - '[[Europe~East/Hungary|Hungary]]'
-  - '[[Europe~North/Latvia|Latvia]]'
-  - '[[Europe~North/Lithuania|Lithuania]]'
-  - '[[Europe~South/Malta|Malta]]'
-  - '[[Europe~East/Poland|Poland]]'
-  - '[[Europe~South/Portugal|Portugal]]'
-  - '[[Europe~East/Romania|Romania]]'
-  - '[[Europe~Central/Slovakia|Slovakia]]'
-  - '[[Europe~Central/Slovenia|Slovenia]]'
-  - '[[Europe~South/Spain|Spain]]'
-  - '[[Europe~North/Sweden|Sweden]]'
-  - '[[Europe~North/Norway|Norway]]'
-  - '[[Europe~Central/Switzerland]]'
-  - '[[Europe~North/Iceland|Iceland]]'
-  - '[[Europe~Central/Liechtenstein]]'
+  - "[[Europe~Central/Germany|Germany]]"
+  - "[[Europe~West/France|France]]"
+  - "[[Europe~South/Italy|Italy]]"
+  - "[[Europe~West/Belgium|Belgium]]"
+  - "[[Europe~West/Netherlands|Netherlands]]"
+  - "[[Europe~West/Luxembourg|Luxembourg]]"
+  - "[[Europe~Central/Austria|Austria]]"
+  - "[[Europe~East/Bulgaria|Bulgaria]]"
+  - "[[Europe~Central/Croatia|Croatia]]"
+  - "[[Europe~Central/Czech_Republic|Czech_Republic]]"
+  - "[[Europe~North/Denmark|Denmark]]"
+  - "[[Europe~North/Estonia|Estonia]]"
+  - "[[Europe~North/Finland|Finland]]"
+  - "[[Europe~South/Greece|Greece]]"
+  - "[[Europe~East/Hungary|Hungary]]"
+  - "[[Europe~North/Latvia|Latvia]]"
+  - "[[Europe~North/Lithuania|Lithuania]]"
+  - "[[Europe~South/Malta|Malta]]"
+  - "[[Europe~East/Poland|Poland]]"
+  - "[[Europe~South/Portugal|Portugal]]"
+  - "[[Europe~East/Romania|Romania]]"
+  - "[[Europe~Central/Slovakia|Slovakia]]"
+  - "[[Europe~Central/Slovenia|Slovenia]]"
+  - "[[Europe~South/Spain|Spain]]"
+  - "[[Europe~North/Sweden|Sweden]]"
+  - "[[Europe~North/Norway|Norway]]"
+  - "[[Europe~Central/Switzerland]]"
+  - "[[Europe~North/Iceland|Iceland]]"
+  - "[[Europe~Central/Liechtenstein]]"
+dv_has_:
+  time_:
+    started: 1985
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Schengen-Area|Schengen-Area]]"
+    - "[[/_public/Earth/Continent/Europe/Schengen-Area.public|Schengen-Area.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Schengen-Area.internal|Schengen-Area.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Schengen-Area.protect|Schengen-Area.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Schengen-Area.private|Schengen-Area.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Schengen-Area.personal|Schengen-Area.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Schengen-Area.secret|Schengen-Area.secret]]"
+dv_has_time_started: 1985
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Schengen-Area|Schengen-Area]]"
+  - "[[/_public/Earth/Continent/Europe/Schengen-Area.public|Schengen-Area.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Schengen-Area.internal|Schengen-Area.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Schengen-Area.protect|Schengen-Area.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Schengen-Area.private|Schengen-Area.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Schengen-Area.personal|Schengen-Area.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Schengen-Area.secret|Schengen-Area.secret]]"
 ---
 
-#has_/time_/started :: 1985 
+has_time_started = `=this.dv_has_time_started`
 
 > The **Schengen Area** (English:  SHENG-ən, Luxembourgish: [ˈʃæŋən] ) 
 > is an area encompassing 29 European countries 

@@ -66,7 +66,7 @@ ZVG_number: 7750
 #chemic/Element 
 
 [GroupName::Group-07-Manganese]
-[Group:[[../Group-07-Manganese]]
+Group::[[../Group-07-Manganese]]
 
 
 [#has_/name_/en::Rhenium]
@@ -75,7 +75,7 @@ ZVG_number: 7750
 [AtomRadius::1.97]
 [Atom-Vol-ccm-mol::8.85]
 [Unknown2::1.28]
-[#has_/radius_/nm::7.88]
+[#has_/radius_/nano_/m::7.88]
 [Electronegative::1.9]
 [Density::21]
 [#has_/value_for_/temperature_/melt_/c ::3180]

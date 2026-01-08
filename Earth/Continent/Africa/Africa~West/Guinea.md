@@ -344,80 +344,167 @@ publishDate: ""
 expiryDate: ""
 Languages:
   - fr-GN
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Guinea
+dv_ISO4217-currency_alphabetic: GNF
+dv_ISO4217-currency_name: Guinean Franc
+dv_ISO4217-currency_numeric: 324
+dv_ISO4217-currency_minor_unit: 0
+dv_ISO4217-currency_country_name: GUINEA
+dv_Telephone: 224
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Guinea
+dv_has_name_en: Guinea
+dv_has_name_es: Guinea
+dv_has_name_fr: Guinée
+dv_has_name_cn: 几内亚
+dv_has_name_ar: غينيا
+dv_has_name_ru: Гвинея
+dv_CLDR_display_name: Guinea
+dv_UNTERM_English: Guinea
+dv_UNTERM_English_Formal: the Republic of Guinea
+dv_UNTERM_Spanish_Formal: la República de Guinea
+dv_UNTERM_Spanish: Guinea
+dv_UNTERM_French: Guinée (la)
+dv_UNTERM_Arabic: غينيا
+dv_UNTERM_Arabic_Formal: جمهورية غينيا
+dv_UNTERM_Chinese: 几内亚
+dv_UNTERM_Chinese_Formal: 几内亚共和国
+dv_UNTERM_French_Formal: la République de Guinée
+dv_UNTERM_Russian: Гвинея
+dv_UNTERM_Russian_Formal: Гвинейская Республика
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 2420477
+dv_FIPS: GV
+dv_FIFA: GUI
+dv_IOC: GUI
+dv_MARC: gv
+dv_GAUL: 106
+dv_WMO: GN
+dv_ITU: GUI
+dv_DS: RG
+dv_TLD: .gn
+dv_EDGAR: J9
+dv_M49: 324
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 324
+dv_ISO2: GN
+dv_ISO3: GIN
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Guinea,1006|WD~Guinea,1006]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Guinea|Guinea]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Guinea.public|Guinea.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Guinea.internal|Guinea.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Guinea.protect|Guinea.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Guinea.private|Guinea.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Guinea.personal|Guinea.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Guinea.secret|Guinea.secret]]"
+dv_has_name_de: Guinea
+dv_Area-Total: 245857
+dv_Area-Land: 245720
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: RG
+dv_Alcohol-l: 0.8
+dv_Language-Id: 496
+dv_has_place_longitude: -13.7
+dv_has_place_latitude: 9.51667
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Guinea
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Guinea,1006|WD~Guinea,1006]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Guinea|Guinea]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Guinea.public|Guinea.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Guinea.internal|Guinea.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Guinea.protect|Guinea.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Guinea.private|Guinea.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Guinea.personal|Guinea.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Guinea.secret|Guinea.secret]]"
 ---
 
 # [[Guinea]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Guinea 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Guinea/ReadMe]] 
 
-[	ISO4217-currency_alphabetic	 :: GNF ]
-[	ISO4217-currency_name	 :: Guinean Franc ]
-[	ISO4217-currency_numeric	 :: 324 ]
-[	ISO4217-currency_minor_unit	 :: 0 ]
-[	ISO4217-currency_country_name	 :: GUINEA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 224 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Guinea ]
-[	name-en	 :: Guinea ]
-[	name-es	 :: Guinea ]
-[	name-fr	 :: Guinée ]
-[	name-cn	 :: 几内亚 ]
-[	name-ar	 :: غينيا ]
-[	name-ru	 :: Гвинея ]
+name = `=this.dv_name`
+[	has_name_en	 :: Guinea ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Guinea ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Guinea ]
-[	UNTERM_English_Formal	 :: the Republic of Guinea ]
-[	UNTERM_Spanish_Formal	 :: la República de Guinea ]
-[	UNTERM_Spanish	 :: Guinea ]
-[	UNTERM_French	 :: Guinée (la) ]
-[	UNTERM_Arabic	 :: غينيا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية غينيا ]
-[	UNTERM_Chinese	 :: 几内亚 ]
-[	UNTERM_Chinese_Formal	 :: 几内亚共和国 ]
-[	UNTERM_French_Formal	 :: la République de Guinée ]
-[	UNTERM_Russian	 :: Гвинея ]
-[	UNTERM_Russian_Formal	 :: Гвинейская Республика ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2420477 ]
-[	FIPS	 :: GV ]
-[	FIFA	 :: GUI ]
-[	IOC	 :: GUI ]
-[	MARC	 :: gv ]
-[	GAUL	 :: 106 ]
-[	WMO	 :: GN ]
-[	ITU	 :: GUI ]
-[	DS	 :: RG ]
-[	TLD	 :: .gn ]
-[	EDGAR	 :: J9 ]
-[	M49	 :: 324 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 324 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::GN]
-[ISO3::GIN]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
 #is_/same_as :: [[../../../../WikiData/WD~Guinea,1006|WD~Guinea,1006]] 
 
@@ -432,12 +519,12 @@ geojsonFolder: ./Guinea//
 markerFolder: ./Guinea//
 ```
 
-[name-en::Guinea]
-[name-de::Guinea]
-[Area-Total::245857]
-[Area-Land::245720]
-has_place_continent:: [[Africa]]  
-[VehicleCode::RG]
+[has_name_en::Guinea]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Conakry]]  
 
 ![[Coat_of_arms_of_Guinea.svg|350]]
@@ -445,10 +532,10 @@ Capital :: [[Conakry]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Guinea.mp3]]
 
 ![[Flag_of_Guinea.svg|350]]
-[Alcohol-l::0.8]
-[Language-Id::496]
-[has_place_longitude::-13.7]
-[has_place_latitude::9.51667]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

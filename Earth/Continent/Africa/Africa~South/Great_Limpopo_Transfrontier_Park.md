@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Great_Limpopo_Transfrontier_Park,604422|WD~Great_Limpopo_Transfrontier_Park,604422]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park|Great_Limpopo_Transfrontier_Park]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.public|Great_Limpopo_Transfrontier_Park.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.internal|Great_Limpopo_Transfrontier_Park.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.protect|Great_Limpopo_Transfrontier_Park.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.private|Great_Limpopo_Transfrontier_Park.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.personal|Great_Limpopo_Transfrontier_Park.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.secret|Great_Limpopo_Transfrontier_Park.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Great_Limpopo_Transfrontier_Park,604422|WD~Great_Limpopo_Transfrontier_Park,604422]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park|Great_Limpopo_Transfrontier_Park]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.public|Great_Limpopo_Transfrontier_Park.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.internal|Great_Limpopo_Transfrontier_Park.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.protect|Great_Limpopo_Transfrontier_Park.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.private|Great_Limpopo_Transfrontier_Park.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.personal|Great_Limpopo_Transfrontier_Park.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~South/Great_Limpopo_Transfrontier_Park.secret|Great_Limpopo_Transfrontier_Park.secret]]"
+
 has_time_started: 2002-01-01 
 aliases:
   - Great Limpopo Transfrontier Park

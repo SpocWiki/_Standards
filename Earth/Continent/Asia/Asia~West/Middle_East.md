@@ -1,5 +1,25 @@
-﻿---
-location: [ 45.0 , 28.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Middle_East,7204]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Middle_East|Middle_East]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Middle_East.public|Middle_East.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Middle_East.internal|Middle_East.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Middle_East.protect|Middle_East.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Middle_East.private|Middle_East.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Middle_East.personal|Middle_East.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Middle_East.secret|Middle_East.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Middle_East,7204]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Middle_East|Middle_East]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Middle_East.public|Middle_East.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Middle_East.internal|Middle_East.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Middle_East.protect|Middle_East.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Middle_East.private|Middle_East.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Middle_East.personal|Middle_East.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Middle_East.secret|Middle_East.secret]]"
+
+location: [ 28.0, 45.0 ] 
 aliases:
 has_id_wikidata: Q7204
 instance_of:
@@ -96,6 +116,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Colorful%20shaded%20ma
 # [[Middle_East]] 
 
 #is_/same_as :: [[WD~Middle_East,7204]] 
+
+## #has_/map  
+
+```leaflet
+id: Middle_East
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Middle_East//
+markerFolder: ./Middle_East/
+coordinates: [[Middle_East]] 
+markerFile: [[Middle_East]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

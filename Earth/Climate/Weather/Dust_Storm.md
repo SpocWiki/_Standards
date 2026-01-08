@@ -7,12 +7,12 @@ aliases:
   - Dust Storm
 has_id_wikidata: Q182878
 subclass_of:
-  - '[[_Standards/WikiData/WD~storm,81054]]'
-  - '[[_Standards/WikiData/WD~lithometeor,1779287]]'
+  - "[[_Standards/WikiData/WD~storm,81054]]"
+  - "[[_Standards/WikiData/WD~lithometeor,1779287]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~dust,165632]]'
-  - '[[_Standards/WikiData/WD~sand,34679]]'
-instance_of: '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]'
+  - "[[_Standards/WikiData/WD~dust,165632]]"
+  - "[[_Standards/WikiData/WD~sand,34679]]"
+instance_of: "[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]"
 OmegaWiki_Defined_Meaning: 510537
 Iconclass_notation: 26C33
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sandstorm%20in%20Al%20Asad%2C%20Iraq.jpg
@@ -20,6 +20,25 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/2020-02-22%2C%20
 U_S_National_Archives_Identifier: 10637505
 Commons_gallery: Dust storm
 Commons_category: Dust storms
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Dust_storm,182878|WD~Dust_storm,182878]]"
+    - "[[/_Standards/Earth/Climate/Weather/Dust_Storm|Dust_Storm]]"
+    - "[[/_public/Earth/Climate/Weather/Dust_Storm.public|Dust_Storm.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Dust_Storm.internal|Dust_Storm.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Dust_Storm.protect|Dust_Storm.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Dust_Storm.private|Dust_Storm.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Dust_Storm.personal|Dust_Storm.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Dust_Storm.secret|Dust_Storm.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Dust_storm,182878|WD~Dust_storm,182878]]"
+  - "[[/_Standards/Earth/Climate/Weather/Dust_Storm|Dust_Storm]]"
+  - "[[/_public/Earth/Climate/Weather/Dust_Storm.public|Dust_Storm.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Dust_Storm.internal|Dust_Storm.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Dust_Storm.protect|Dust_Storm.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Dust_Storm.private|Dust_Storm.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Dust_Storm.personal|Dust_Storm.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Dust_Storm.secret|Dust_Storm.secret]]"
 ---
 
 # [[Dust_Storm]] 

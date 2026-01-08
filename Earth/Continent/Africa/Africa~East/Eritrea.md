@@ -1,5 +1,93 @@
-﻿---
-location: [ 38.25 , 15.483333 ] 
+---
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Eritrea
+dv_ISO4217-currency_alphabetic: ERN
+dv_ISO4217-currency_name: Nakfa
+dv_ISO4217-currency_numeric: 232
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: ERITREA
+dv_Telephone: 291
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Eritrea
+dv_has_name_en: Eritrea
+dv_has_name_es: Eritrea
+dv_has_name_fr: Érythrée
+dv_has_name_cn: 厄立特里亚
+dv_has_name_ar: إريتريا
+dv_has_name_ru: Эритрея
+dv_CLDR_display_name: Eritrea
+dv_UNTERM_English: Eritrea
+dv_UNTERM_English_Formal: the State of Eritrea
+dv_UNTERM_Spanish_Formal: el Estado de Eritrea
+dv_UNTERM_Spanish: Eritrea
+dv_UNTERM_French: Érythrée (l') [fém.]
+dv_UNTERM_Arabic: إريتريا
+dv_UNTERM_Arabic_Formal: دولة إريتريا
+dv_UNTERM_Chinese: 厄立特里亚
+dv_UNTERM_Chinese_Formal: 厄立特里亚国
+dv_UNTERM_French_Formal: l'État d'Érythrée
+dv_UNTERM_Russian: Эритрея
+dv_UNTERM_Russian_Formal: Государство Эритрея
+dv_Region_Name: "[[../../Africa|Africa]]"
+dv_Intermediate_Region_Name: "[[../Africa~East|Eastern Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan_Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 14
+dv_Sub-region: 202
+dv_Geoname-ID: 338010
+dv_FIPS: ER
+dv_FIFA: ERI
+dv_IOC: ERI
+dv_MARC: ea
+dv_GAUL: 77
+dv_ITU: ERI
+dv_DS: ER
+dv_TLD: .er
+dv_EDGAR: 1J
+dv_M49: 232
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 232
+dv_ISO2: ER
+dv_ISO3: ERI
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Eritrea,986|WD~Eritrea,986]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Eritrea|Eritrea]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Eritrea.public|Eritrea.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Eritrea.internal|Eritrea.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Eritrea.protect|Eritrea.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Eritrea.private|Eritrea.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Eritrea.personal|Eritrea.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Eritrea.secret|Eritrea.secret]]"
+dv_has_name_de: Eritrea
+dv_Area-Total: 121144
+dv_Area-Land: 101000
+dv_has_place_continent: "[[../../Africa|Africa]]"
+dv_VehicleCode: ER
+dv_Capital: "[[Asmara]]"
+dv_Alcohol-l: 1.5
+dv_Language-Id: 472
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 38.9167
+dv_has_place_latitude: 15.3333
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Eritrea
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Eritrea,986|WD~Eritrea,986]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Eritrea|Eritrea]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Eritrea.public|Eritrea.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Eritrea.internal|Eritrea.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Eritrea.protect|Eritrea.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Eritrea.private|Eritrea.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Eritrea.personal|Eritrea.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Eritrea.secret|Eritrea.secret]]"
+
 aliases:
   - Eritrea
   - Érythrée
@@ -301,79 +389,79 @@ WIPO_ST_3: ER
 
 # [[Eritrea]] 
 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
+
+Telephone = `=this.dv_Telephone`
+
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
+[	has_name_en	 :: Eritrea ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+
+CLDR_display_name = `=this.dv_CLDR_display_name`
+
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
+
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
+
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
+
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+[	WMO	 ::  ]
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
+[	Small_is_a_ = `=this.dv_is_a_`
+
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
+
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
+
+is_a_ = `=this.dv_is_a_`
+
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Eritrea 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Eritrea/ReadMe]] 
-
-[	ISO4217-currency_alphabetic	 :: ERN ]
-[	ISO4217-currency_name	 :: Nakfa ]
-[	ISO4217-currency_numeric	 :: 232 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: ERITREA ]
-
-[	Telephone	 :: 291 ]
-
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
-
-[	name	 :: Eritrea ]
-[	name-en	 :: Eritrea ]
-[	name-es	 :: Eritrea ]
-[	name-fr	 :: Érythrée ]
-[	name-cn	 :: 厄立特里亚 ]
-[	name-ar	 :: إريتريا ]
-[	name-ru	 :: Эритрея ]
-
-[	CLDR_display_name	 :: Eritrea ]
-
-[	UNTERM_English	 :: Eritrea ]
-[	UNTERM_English_Formal	 :: the State of Eritrea ]
-[	UNTERM_Spanish_Formal	 :: el Estado de Eritrea ]
-[	UNTERM_Spanish	 :: Eritrea ]
-[	UNTERM_French	 :: Érythrée (l') [fém.] ]
-[	UNTERM_Arabic	 :: إريتريا ]
-[	UNTERM_Arabic_Formal	 :: دولة إريتريا ]
-[	UNTERM_Chinese	 :: 厄立特里亚 ]
-[	UNTERM_Chinese_Formal	 :: 厄立特里亚国 ]
-[	UNTERM_French_Formal	 :: l'État d'Érythrée ]
-[	UNTERM_Russian	 :: Эритрея ]
-[	UNTERM_Russian_Formal	 :: Государство Эритрея ]
-
-Region_Name ::  [[../../Africa|Africa]] 
-Intermediate_Region_Name :: [[Africa~East.md|Eastern Africa]]  
-Sub-region_Name ::  [[Sub-Saharan_Africa]] 
-
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 14 ]
-[	Sub-region	 :: 202 ]
-
-[	Geoname-ID	 :: 338010 ]
-[	FIPS	 :: ER ]
-[	FIFA	 :: ERI ]
-[	IOC	 :: ERI ]
-[	MARC	 :: ea ]
-[	GAUL	 :: 77 ]
-[	WMO	 ::  ]
-[	ITU	 :: ERI ]
-[	DS	 :: ER ]
-[	TLD	 :: .er ]
-[	EDGAR	 :: 1J ]
-[	M49	 :: 232 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
-[	Small_Island_Developing_States	 ::  ]
-
-[	ISO3166-1-numeric	 :: 232 ]
-
-[ISO2::ER]
-[ISO3::ERI] 
-
-#is_/same_as :: [[../../../../WikiData/WD~Eritrea,986|WD~Eritrea,986]] 
 
 ## #has_/map 
 
@@ -384,24 +472,27 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Eritrea//
 markerFolder: ./Eritrea//
+coordinates: [[Eritrea]] 
+markerFile: [[Eritrea]] 
+defaultZoom: 5 
 ```
 
-[name-en::Eritrea]
-[name-de::Eritrea]
-[Area-Total::121144]
-[Area-Land::101000]
-has_place_continent:: [[../../Africa|Africa]]  
-[VehicleCode::ER]
-Capital :: [[Asmara]]  
+[has_name_en::Eritrea]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Eritrea.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Eritrea.mp3]]
 ![[Flag_of_Eritrea.svg|350]]
-[Alcohol-l::1.5]
-[Language-Id::472]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::38.9167]
-[has_place_latitude::15.3333]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

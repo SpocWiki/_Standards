@@ -18,6 +18,25 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5863
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000101
 Krugosvet_article_archived_: Earth_sciences/geografiya/DELTA.html
 Commons_category: River deltas
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~River_delta,43197]]"
+    - "[[/_Standards/Earth/Geology/Landform/River_Delta|River_Delta]]"
+    - "[[/_public/Earth/Geology/Landform/River_Delta.public|River_Delta.public]]"
+    - "[[/_internal/Earth/Geology/Landform/River_Delta.internal|River_Delta.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/River_Delta.protect|River_Delta.protect]]"
+    - "[[/_private/Earth/Geology/Landform/River_Delta.private|River_Delta.private]]"
+    - "[[/_personal/Earth/Geology/Landform/River_Delta.personal|River_Delta.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/River_Delta.secret|River_Delta.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~River_delta,43197]]"
+  - "[[/_Standards/Earth/Geology/Landform/River_Delta|River_Delta]]"
+  - "[[/_public/Earth/Geology/Landform/River_Delta.public|River_Delta.public]]"
+  - "[[/_internal/Earth/Geology/Landform/River_Delta.internal|River_Delta.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/River_Delta.protect|River_Delta.protect]]"
+  - "[[/_private/Earth/Geology/Landform/River_Delta.private|River_Delta.private]]"
+  - "[[/_personal/Earth/Geology/Landform/River_Delta.personal|River_Delta.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/River_Delta.secret|River_Delta.secret]]"
 ---
 
 # [[River_Delta]] 

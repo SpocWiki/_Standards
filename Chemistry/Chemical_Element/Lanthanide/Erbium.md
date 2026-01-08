@@ -64,7 +64,7 @@ ZVG_number: 7680
 
 #chemic/Element 
 [GroupName::Lanthanide-Group]
-[Group:[[../Lanthanide]]
+Group::[[../Lanthanide]]
 
 
 [#has_/name_/en::Erbium]
@@ -73,7 +73,7 @@ ZVG_number: 7680
 [AtomRadius::2.45]
 [Atom-Vol-ccm-mol::18.4]
 [Unknown2::1.57]
-[#has_/radius_/nm::6.101]
+[#has_/radius_/nano_/m::6.101]
 [Electronegative::1.2]
 [Density::9.05]
 [#has_/value_for_/temperature_/melt_/c ::1522]

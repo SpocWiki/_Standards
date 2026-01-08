@@ -8,84 +8,84 @@ has_id_wikidata: Q11613
 confidential: private
 cssclasses: private note
 draft: true
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords: Truman,Harry_S
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle: Truman,Harry_S
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
-  - ''
+  - ""
 title: Truman,Harry_S
 type: private_note
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~military_officer,189290]]'
-  - '[[_Standards/WikiData/WD~diarist,18939491]]'
-  - '[[_Standards/WikiData/WD~judge,16533]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Baptists,93191]]'
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+  - "[[_Standards/WikiData/WD~military_officer,189290]]"
+  - "[[_Standards/WikiData/WD~diarist,18939491]]"
+  - "[[_Standards/WikiData/WD~judge,16533]]"
+  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Baptists,93191]]"
 military_or_police_rank:
-  - '[[_Standards/WikiData/WD~colonel,104680]]'
-  - '[[_Standards/WikiData/WD~major,983927]]'
-  - '[[_Standards/WikiData/WD~captain,19100]]'
-spouse: '[[_Standards/WikiData/WD~Bess_Truman,233652]]'
-child: '[[_Standards/WikiData/WD~Margaret_Truman,266959]]'
+  - "[[_Standards/WikiData/WD~colonel,104680]]"
+  - "[[_Standards/WikiData/WD~major,983927]]"
+  - "[[_Standards/WikiData/WD~captain,19100]]"
+spouse: "[[_Standards/WikiData/WD~Bess_Truman,233652]]"
+child: "[[_Standards/WikiData/WD~Margaret_Truman,266959]]"
 member_of:
-  - '[[_Standards/WikiData/WD~American_Legion,468865]]'
-  - '[[_Standards/WikiData/WD~Veterans_of_Foreign_Wars,3556413]]'
-  - '[[_Standards/WikiData/WD~freemasonry,41726]]'
-archives_at: '[[_Standards/WikiData/WD~Harry_S._Truman_Presidential_Library_and_Museum,525981]]'
-place_of_burial: '[[_Standards/WikiData/WD~Harry_S._Truman_Presidential_Library_and_Museum,525981]]'
-place_of_birth: '[[_Standards/WikiData/WD~Lamar,572172]]'
+  - "[[_Standards/WikiData/WD~American_Legion,468865]]"
+  - "[[_Standards/WikiData/WD~Veterans_of_Foreign_Wars,3556413]]"
+  - "[[_Standards/WikiData/WD~freemasonry,41726]]"
+archives_at: "[[_Standards/WikiData/WD~Harry_S._Truman_Presidential_Library_and_Museum,525981]]"
+place_of_burial: "[[_Standards/WikiData/WD~Harry_S._Truman_Presidential_Library_and_Museum,525981]]"
+place_of_birth: "[[_Standards/WikiData/WD~Lamar,572172]]"
 given_name:
-  - '[[_Standards/WikiData/WD~Harry,668885]]'
-  - '[[_Standards/WikiData/WD~S.,19803518]]'
+  - "[[_Standards/WikiData/WD~Harry,668885]]"
+  - "[[_Standards/WikiData/WD~S.,19803518]]"
 award_received:
-  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-  - '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
-  - '[[_Standards/WikiData/WD~Armed_Forces_Reserve_Medal,4793010]]'
-handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
+  - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
+  - "[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]"
+  - "[[_Standards/WikiData/WD~Armed_Forces_Reserve_Medal,4793010]]"
+handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Missouri_Kansas_City,940690]]'
-  - '[[_Standards/WikiData/WD~William_Chrisman_High_School,8006792]]'
+  - "[[_Standards/WikiData/WD~University_of_Missouri_Kansas_City,940690]]"
+  - "[[_Standards/WikiData/WD~William_Chrisman_High_School,8006792]]"
 cause_of_death:
-  - '[[_Standards/WikiData/WD~multiple_organ_dysfunction_syndrome,1193870]]'
-  - '[[_Standards/WikiData/WD~pneumonia,12192]]'
+  - "[[_Standards/WikiData/WD~multiple_organ_dysfunction_syndrome,1193870]]"
+  - "[[_Standards/WikiData/WD~pneumonia,12192]]"
 position_held:
-  - '[[_Standards/WikiData/WD~Governor_General_of_the_Philippines,1542521]]'
-  - '[[_Standards/WikiData/WD~United_States_senator,4416090]]'
-  - '[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699]]'
-  - '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+  - "[[_Standards/WikiData/WD~Governor_General_of_the_Philippines,1542521]]"
+  - "[[_Standards/WikiData/WD~United_States_senator,4416090]]"
+  - "[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699]]"
+  - "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-mother: '[[_Standards/WikiData/WD~Martha_Ellen_Young_Truman,6774390]]'
-different_from: '[[_Standards/WikiData/WD~Harry_S._Truman,7492376]]'
-family_name: '[[_Standards/WikiData/WD~Truman,13560183]]'
-blood_type: '[[_Standards/WikiData/WD~Q19831451,19831451]]'
-father: '[[_Standards/WikiData/WD~John_Anderson_Truman,20760312]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+mother: "[[_Standards/WikiData/WD~Martha_Ellen_Young_Truman,6774390]]"
+different_from: "[[_Standards/WikiData/WD~Harry_S._Truman,7492376]]"
+family_name: "[[_Standards/WikiData/WD~Truman,13560183]]"
+blood_type: "[[_Standards/WikiData/WD~Q19831451,19831451]]"
+father: "[[_Standards/WikiData/WD~John_Anderson_Truman,20760312]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]"
 date_of_birth: 1884-05-08T00:00:00Z
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
-military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
-medical_condition: '[[_Standards/WikiData/WD~pneumonia,12192]]'
-member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-work_locations: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+native_language: "[[_Standards/WikiData/WD~English,1860]]"
+military_branch: "[[_Standards/WikiData/WD~United_States_Army,9212]]"
+medical_condition: "[[_Standards/WikiData/WD~pneumonia,12192]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+work_locations: "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
 number_of_children: 1
 height: 175
-place_of_death: '[[_Standards/WikiData/WD~Kansas_City,41819]]'
+place_of_death: "[[_Standards/WikiData/WD~Kansas_City,41819]]"
 Commons_category: Harry S. Truman
 Commons_Creator_page: Harry S. Truman
 Commons_gallery: Harry S. Truman
@@ -101,17 +101,46 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20S.%20
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20S.%20Truman%20signature.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Truman%20video%20montage.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/TRUMAN%2058-766-06%20%28cropped%29.jpg
-ISNI: 0000000109070193
+ISNI: 109070193
 U_S_National_Archives_Identifier: 10679518
 Libris_URI: 53hkm8dp18p3lpk
 Plex_person_key: 5d776852f59e58002189bb6a
+dv_has_role: "[[../US_President]]"
+dv_is_member_of: "[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]"
+dv_created: 1945-04-12
+dv_cancelled: 1953-01-20
+dv_has_:
+  time_:
+    started: 1884-05-08T00:00:00.000+00:53
+    stopped: 1972-12-26T00:00:00.000+01:00
+dv_is_:
+  same_as:
+    - "[[../../../../../_Standards/WikiData/WD~Harry_S._Truman,11613|WD~Harry_S._Truman,11613]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Truman,Harry_S|Truman,Harry_S]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.public|Truman,Harry_S.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.internal|Truman,Harry_S.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.protect|Truman,Harry_S.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.private|Truman,Harry_S.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.personal|Truman,Harry_S.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.secret|Truman,Harry_S.secret]]"
+dv_has_time_started: 1884-05-08
+dv_has_time_stopped: 1972-12-26
+dv_is_same_as:
+  - "[[../../../../../_Standards/WikiData/WD~Harry_S._Truman,11613|WD~Harry_S._Truman,11613]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Truman,Harry_S|Truman,Harry_S]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.public|Truman,Harry_S.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.internal|Truman,Harry_S.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.protect|Truman,Harry_S.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.private|Truman,Harry_S.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.personal|Truman,Harry_S.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Truman,Harry_S.secret|Truman,Harry_S.secret]]"
 ---
 
 # [[Truman,Harry_S]] 
 
-#has_/time_/started :: 1884-05-08
-#has_/time_/stopped  :: 1972-12-26
--   [has_role :: [[../US_President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]] ] [created:: 1945-04-12]  [cancelled:: 1953-01-20]  
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
+-   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 #is_/same_as :: [[../../../../../_Standards/WikiData/WD~Harry_S._Truman,11613|WD~Harry_S._Truman,11613]] 
 

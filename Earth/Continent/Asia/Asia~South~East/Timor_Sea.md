@@ -33,6 +33,25 @@ width: 480
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locatie%20Timorzee.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Timor%20island2.jpg
 Commons_category: Timor Sea
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Timor_Sea,131418|WD~Timor_Sea,131418]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Timor_Sea|Timor_Sea]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Timor_Sea.public|Timor_Sea.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Timor_Sea.internal|Timor_Sea.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Timor_Sea.protect|Timor_Sea.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Timor_Sea.private|Timor_Sea.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Timor_Sea.personal|Timor_Sea.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Timor_Sea.secret|Timor_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Timor_Sea,131418|WD~Timor_Sea,131418]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Timor_Sea|Timor_Sea]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Timor_Sea.public|Timor_Sea.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Timor_Sea.internal|Timor_Sea.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Timor_Sea.protect|Timor_Sea.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Timor_Sea.private|Timor_Sea.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Timor_Sea.personal|Timor_Sea.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Timor_Sea.secret|Timor_Sea.secret]]"
 ---
 
 # [[Timor_Sea]] 

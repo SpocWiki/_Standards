@@ -6,25 +6,44 @@ aliases:
   - Sedimentary Rock
 has_id_wikidata: Q82480
 studied_by:
-  - '[[_Standards/WikiData/WD~sedimentology,205768]]'
-  - '[[_Standards/WikiData/WD~lithology,6538759]]'
+  - "[[_Standards/WikiData/WD~sedimentology,205768]]"
+  - "[[_Standards/WikiData/WD~lithology,6538759]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~rock_type,11871901]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+instance_of: "[[_Standards/WikiData/WD~rock_type,11871901]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~sedimentary_material,12136486]]'
-  - '[[_Standards/WikiData/WD~rock,8063]]'
+  - "[[_Standards/WikiData/WD~sedimentary_material,12136486]]"
+  - "[[_Standards/WikiData/WD~rock,8063]]"
 different_from:
-  - '[[_Standards/WikiData/WD~igneous_rock,42045]]'
-  - '[[_Standards/WikiData/WD~metamorphic_rock,47069]]'
+  - "[[_Standards/WikiData/WD~igneous_rock,42045]]"
+  - "[[_Standards/WikiData/WD~metamorphic_rock,47069]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bentheimer-Sandstein.jpg
 U_S_National_Archives_Identifier: 10641000
 Commons_gallery: Sedimentary rock
 Commons_category: Sedimentary rocks
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002016
 EAGLE_id: material/lod/55
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Sedimentary_rock,82480|WD~Sedimentary_rock,82480]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock|Sedimentary_Rock]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.public|Sedimentary_Rock.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.internal|Sedimentary_Rock.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.protect|Sedimentary_Rock.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.private|Sedimentary_Rock.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.personal|Sedimentary_Rock.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.secret|Sedimentary_Rock.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Sedimentary_rock,82480|WD~Sedimentary_rock,82480]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock|Sedimentary_Rock]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.public|Sedimentary_Rock.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.internal|Sedimentary_Rock.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.protect|Sedimentary_Rock.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.private|Sedimentary_Rock.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.personal|Sedimentary_Rock.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Sedimentary_Rock.secret|Sedimentary_Rock.secret]]"
 ---
 
 # [[Sedimentary_Rock]] 

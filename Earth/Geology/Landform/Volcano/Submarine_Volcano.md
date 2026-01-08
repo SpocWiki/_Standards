@@ -8,6 +8,25 @@ has_effect: "[[_Standards/WikiData/WD~submarine_eruption,2546109]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bands%20of%20glowing%20magma%20from%20submarine%20volcano.jpg
 Commons_category: Submarine volcanoes
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Submarine_volcano,674775|WD~Submarine_volcano,674775]]"
+    - "[[/_Standards/Earth/Geology/Landform/Volcano/Submarine_Volcano|Submarine_Volcano]]"
+    - "[[/_public/Earth/Geology/Landform/Volcano/Submarine_Volcano.public|Submarine_Volcano.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Volcano/Submarine_Volcano.internal|Submarine_Volcano.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Volcano/Submarine_Volcano.protect|Submarine_Volcano.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Volcano/Submarine_Volcano.private|Submarine_Volcano.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Volcano/Submarine_Volcano.personal|Submarine_Volcano.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Volcano/Submarine_Volcano.secret|Submarine_Volcano.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Submarine_volcano,674775|WD~Submarine_volcano,674775]]"
+  - "[[/_Standards/Earth/Geology/Landform/Volcano/Submarine_Volcano|Submarine_Volcano]]"
+  - "[[/_public/Earth/Geology/Landform/Volcano/Submarine_Volcano.public|Submarine_Volcano.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Volcano/Submarine_Volcano.internal|Submarine_Volcano.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Volcano/Submarine_Volcano.protect|Submarine_Volcano.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Volcano/Submarine_Volcano.private|Submarine_Volcano.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Volcano/Submarine_Volcano.personal|Submarine_Volcano.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Volcano/Submarine_Volcano.secret|Submarine_Volcano.secret]]"
 ---
 
 # [[Submarine_Volcano]] 

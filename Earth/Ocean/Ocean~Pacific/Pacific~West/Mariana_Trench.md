@@ -1,5 +1,24 @@
-﻿---
-location: [ 142.2 , 11.35 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Mariana_Trench,510]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench|Mariana_Trench]]"
+    - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.public|Mariana_Trench.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.internal|Mariana_Trench.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.protect|Mariana_Trench.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.private|Mariana_Trench.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.personal|Mariana_Trench.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.secret|Mariana_Trench.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Mariana_Trench,510]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench|Mariana_Trench]]"
+  - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.public|Mariana_Trench.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.internal|Mariana_Trench.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.protect|Mariana_Trench.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.private|Mariana_Trench.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.personal|Mariana_Trench.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/Mariana_Trench.secret|Mariana_Trench.secret]]"
+
 aliases:
 has_id_wikidata: Q510
 location:
@@ -27,6 +46,20 @@ coordinate_location: Point(142.2 11.35)
 # [[Mariana_Trench]] 
 
 #is_/same_as :: [[WD~Mariana_Trench,510]] 
+
+## #has_/map  
+
+```leaflet
+id: Mariana_Trench
+zoomFeatures: false 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Mariana_Trench//
+markerFolder: ./Mariana_Trench/
+coordinates: [[Mariana_Trench]] 
+markerFile: [[Mariana_Trench]] 
+defaultZoom: 4 
+```
 
 ## #has_/text_of_/abstract 
 

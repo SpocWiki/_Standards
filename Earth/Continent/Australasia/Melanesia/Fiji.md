@@ -287,77 +287,157 @@ Languages:
   - en-FJ
   - fj
 icon: flag-fj
+dv_ISO4217-currency_alphabetic: FJD
+dv_ISO4217-currency_name: Fiji Dollar
+dv_ISO4217-currency_numeric: 242
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: FIJI
+dv_Telephone: 679
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Fiji
+dv_has_name_en: Fiji
+dv_has_name_es: Fiji
+dv_has_name_fr: Fidji
+dv_has_name_cn: 斐济
+dv_has_name_ar: فيجي
+dv_has_name_ru: Фиджи
+dv_CLDR_display_name: Fiji
+dv_UNTERM_English: Fiji
+dv_UNTERM_English_Formal: the Republic of Fiji
+dv_UNTERM_Spanish_Formal: la República de Fiji
+dv_UNTERM_Spanish: Fiji
+dv_UNTERM_French: Fidji (les) [fém.]
+dv_UNTERM_Arabic: فيجي
+dv_UNTERM_Arabic_Formal: جمهورية فيجي
+dv_UNTERM_Chinese: 斐济
+dv_UNTERM_Chinese_Formal: 斐济共和国
+dv_UNTERM_French_Formal: la République des Fidji
+dv_UNTERM_Russian: Фиджи
+dv_UNTERM_Russian_Formal: Республика  Фиджи
+dv_Region_Name: "[[../../Oceania]]"
+dv_Intermediate_Region_Name: "[[Fiji]]"
+dv_Sub-region_Name: "[[../Melanesia]]"
+dv_Region: 9
+dv_Sub-region: 54
+dv_Geoname-ID: 2205218
+dv_FIPS: FJ
+dv_FIFA: FIJ
+dv_IOC: FIJ
+dv_MARC: fj
+dv_GAUL: 83
+dv_WMO: FJ
+dv_ITU: FJI
+dv_DS: FJI
+dv_TLD: .fj
+dv_EDGAR: H8
+dv_M49: 242
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 242
+dv_ISO2: FJ
+dv_ISO3: FJI
+dv_has_name_de: Fiji
+dv_Area-Total: 18376
+dv_Area-Land: 18270
+dv_has_place_continent: "[[../../Oceania]]"
+dv_VehicleCode: FJI
+dv_Alcohol-l: 2.4
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 178.45
+dv_has_place_latitude: -18.1667
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji|Fiji]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia/Fiji.public|Fiji.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji.internal|Fiji.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji.protect|Fiji.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia/Fiji.private|Fiji.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji.personal|Fiji.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji.secret|Fiji.secret]]"
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji|Fiji]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia/Fiji.public|Fiji.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji.internal|Fiji.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji.protect|Fiji.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia/Fiji.private|Fiji.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji.personal|Fiji.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji.secret|Fiji.secret]]"
 ---
 
 # [[Fiji]] 
 
-[	ISO4217-currency_alphabetic	 :: FJD ] 
-[	ISO4217-currency_name	 :: Fiji Dollar ] 
-[	ISO4217-currency_numeric	 :: 242 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: FIJI ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 679 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Fiji ] 
-[	name-en	 :: Fiji ] 
-[	name-es	 :: Fiji ] 
-[	name-fr	 :: Fidji ] 
-[	name-cn	 :: 斐济 ] 
-[	name-ar	 :: فيجي ] 
-[	name-ru	 :: Фиджи ] 
+name = `=this.dv_name` 
+[	has_name_en	 :: Fiji ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
-[	CLDR_display_name	 :: Fiji ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Fiji ] 
-[	UNTERM_English_Formal	 :: the Republic of Fiji ] 
-[	UNTERM_Spanish_Formal	 :: la República de Fiji ] 
-[	UNTERM_Spanish	 :: Fiji ] 
-[	UNTERM_French	 :: Fidji (les) [fém.] ] 
-[	UNTERM_Arabic	 :: فيجي ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية فيجي ] 
-[	UNTERM_Chinese	 :: 斐济 ] 
-[	UNTERM_Chinese_Formal	 :: 斐济共和国 ] 
-[	UNTERM_French_Formal	 :: la République des Fidji ] 
-[	UNTERM_Russian	 :: Фиджи ] 
-[	UNTERM_Russian_Formal	 :: Республика  Фиджи ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[../../../../../../Australasia/Melanesia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 54 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 2205218 ] 
-[	FIPS	 :: FJ ] 
-[	FIFA	 :: FIJ ] 
-[	IOC	 :: FIJ ] 
-[	MARC	 :: fj ] 
-[	GAUL	 :: 83 ] 
-[	WMO	 :: FJ ] 
-[	ITU	 :: FJI ] 
-[	DS	 :: FJI ] 
-[	TLD	 :: .fj ] 
-[	EDGAR	 :: H8 ] 
-[	M49	 :: 242 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 242 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
 
 
-[ISO2::FJ] 
-[ISO3::FJI]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
 ## #has_/map  
 
@@ -372,24 +452,24 @@ geojsonFolder: ./Fiji///
 markerFolder: ./Fiji///
 ```
 
-[name-en::Fiji] 
-[name-de::Fiji] 
+[has_name_en::Fiji] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Coat_of_arms_of_Fiji.svg|350]] 
 
 ![[Flag_of_Fiji.svg|350]] 
 
-[Area-Total::18376] 
-[Area-Land::18270] 
-has_place_continent:: [[Oceania]]  
-[VehicleCode::FJI] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva]]  
-[Alcohol-l::2.4] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::178.45] 
-[has_place_latitude::-18.1667] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

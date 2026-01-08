@@ -368,83 +368,171 @@ maritime_identification_digits: 603
 mobile_country_code: 631
 INSEE_countries_and_foreign_territories_code: 99395
 ITU_letter_code: AGL
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Angola
+dv_ISO4217-currency_alphabetic: AOA
+dv_ISO4217-currency_name: Kwanza
+dv_ISO4217-currency_numeric: 973
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: ANGOLA
+dv_Telephone: 244
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Angola
+dv_has_name_en: Angola
+dv_has_name_es: Angola
+dv_has_name_fr: Angola
+dv_has_name_cn: 安哥拉
+dv_has_name_ar: أنغولا
+dv_has_name_ru: Ангола
+dv_CLDR_display_name: Angola
+dv_UNTERM_English: Angola
+dv_UNTERM_English_Formal: the Republic of Angola
+dv_UNTERM_Spanish_Formal: la República de Angola
+dv_UNTERM_Spanish: Angola
+dv_UNTERM_French: Angola (l') [masc.]
+dv_UNTERM_Arabic: أنغولا
+dv_UNTERM_Arabic_Formal: جمهورية أنغولا
+dv_UNTERM_Chinese: 安哥拉
+dv_UNTERM_Chinese_Formal: 安哥拉共和国
+dv_UNTERM_French_Formal: la République d'Angola
+dv_UNTERM_Russian: Ангола
+dv_UNTERM_Russian_Formal: Республика Ангола
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Middle Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 17
+dv_Sub-region: 202
+dv_Geoname-ID: 3351879
+dv_FIPS: AO
+dv_FIFA: ANG
+dv_IOC: ANG
+dv_MARC: ao
+dv_GAUL: 8
+dv_WMO: AN
+dv_ITU: AGL
+dv_DS: AO
+dv_TLD: .ao
+dv_EDGAR: B7
+dv_M49: 24
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 24
+dv_ISO2: AO
+dv_ISO3: AGO
+dv_has_name_de: Angola
+dv_Area-Total: 1246700
+dv_Area-Land: 1246700
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: ANG
+dv_Alcohol-l: 5.4
+dv_Language-Id: 467
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 13.23
+dv_has_place_latitude: -8.8
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Angola,916|WD~Angola,916]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~South/Angola|Angola]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~South/Angola.public|Angola.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~South/Angola.internal|Angola.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~South/Angola.protect|Angola.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~South/Angola.private|Angola.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~South/Angola.personal|Angola.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~South/Angola.secret|Angola.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Angola
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Angola,916|WD~Angola,916]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~South/Angola|Angola]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~South/Angola.public|Angola.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~South/Angola.internal|Angola.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~South/Angola.protect|Angola.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~South/Angola.private|Angola.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~South/Angola.personal|Angola.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~South/Angola.secret|Angola.secret]]"
 ---
 
 # [[Angola]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Angola 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Angola/ReadMe]] 
 
 
-[	ISO4217-currency_alphabetic	 :: AOA ]
-[	ISO4217-currency_name	 :: Kwanza ]
-[	ISO4217-currency_numeric	 :: 973 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: ANGOLA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 244 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Angola ]
-[	name-en	 :: Angola ]
-[	name-es	 :: Angola ]
-[	name-fr	 :: Angola ]
-[	name-cn	 :: 安哥拉 ]
-[	name-ar	 :: أنغولا ]
-[	name-ru	 :: Ангола ]
+name = `=this.dv_name`
+[	has_name_en	 :: Angola ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Angola ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Angola ]
-[	UNTERM_English_Formal	 :: the Republic of Angola ]
-[	UNTERM_Spanish_Formal	 :: la República de Angola ]
-[	UNTERM_Spanish	 :: Angola ]
-[	UNTERM_French	 :: Angola (l') [masc.] ]
-[	UNTERM_Arabic	 :: أنغولا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية أنغولا ]
-[	UNTERM_Chinese	 :: 安哥拉 ]
-[	UNTERM_Chinese_Formal	 :: 安哥拉共和国 ]
-[	UNTERM_French_Formal	 :: la République d'Angola ]
-[	UNTERM_Russian	 :: Ангола ]
-[	UNTERM_Russian_Formal	 :: Республика Ангола ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Middle Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 17 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3351879 ]
-[	FIPS	 :: AO ]
-[	FIFA	 :: ANG ]
-[	IOC	 :: ANG ]
-[	MARC	 :: ao ]
-[	GAUL	 :: 8 ]
-[	WMO	 :: AN ]
-[	ITU	 :: AGL ]
-[	DS	 :: AO ]
-[	TLD	 :: .ao ]
-[	EDGAR	 :: B7 ]
-[	M49	 :: 24 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
-[	Small_Island_Developing_States	 ::  ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 024 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
 
-[ISO2::AO]
-[ISO3::AGO]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 ```leaflet
 id: Angola
 zoomFeatures: true 
@@ -454,12 +542,12 @@ geojsonFolder: ./Angola//
 markerFolder: ./Angola//
 ```
 
-[name-en::Angola]
-[name-de::Angola]
-[Area-Total::1246700]
-[Area-Land::1246700]
-has_place_continent:: [[Africa]]  
-[VehicleCode::ANG]
+[has_name_en::Angola]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Angola/Provinces~Angola/Luanda,Province/Luanda,City]]  
 
 ![[../Africa~South/Angola/Emblem_of_Angola.svg|350]] 
@@ -468,14 +556,14 @@ Capital :: [[Angola/Provinces~Angola/Luanda,Province/Luanda,City]]
 
 ![[../Africa~South/Angola/Flag_of_Angola.svg|350]] 
 
-[Alcohol-l::5.4]
-[Language-Id::467]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::13.23]
-[has_place_latitude::-8.8]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
-#is_/same_as :: [[../../../../WikiData/WD~Angola,916|WD~Angola,916]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract 
 

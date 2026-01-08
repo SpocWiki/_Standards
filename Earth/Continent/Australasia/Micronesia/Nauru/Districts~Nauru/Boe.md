@@ -23,6 +23,23 @@ tags:
   - geo/Country/Region
 title: Boe
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe|Boe]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.public|Boe.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.internal|Boe.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.protect|Boe.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.private|Boe.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.personal|Boe.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.secret|Boe.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe|Boe]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.public|Boe.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.internal|Boe.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.protect|Boe.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.private|Boe.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.personal|Boe.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Boe.secret|Boe.secret]]"
 ---
 
 # Boe

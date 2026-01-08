@@ -379,80 +379,168 @@ VAT_rate: 15
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_New_Zealand,7112381]]"
 WIPO_ST_3: NZ
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "NewZealand"]
+dv_ISO4217-currency_alphabetic: NZD
+dv_ISO4217-currency_name: New Zealand Dollar
+dv_ISO4217-currency_numeric: 554
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: NEW ZEALAND
+dv_Telephone: 64
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: New Zealand
+dv_has_name_en:
+  - New Zealand
+  - New Zealand
+dv_has_name_es: Nueva Zelandia
+dv_has_name_fr: Nouvelle-Zélande
+dv_has_name_cn: 新西兰
+dv_has_name_ar: نيوزيلندا
+dv_has_name_ru: Новая Зеландия
+dv_CLDR_display_name: New Zealand
+dv_UNTERM_English: New Zealand
+dv_UNTERM_English_Formal: New Zealand
+dv_UNTERM_Spanish_Formal: Nueva Zelandia
+dv_UNTERM_Spanish: Nueva Zelandia
+dv_UNTERM_French: Nouvelle-Zélande (la)
+dv_UNTERM_Arabic: نيوزيلندا
+dv_UNTERM_Arabic_Formal: نيوزيلندا
+dv_UNTERM_Chinese: 新西兰
+dv_UNTERM_Chinese_Formal: 新西兰
+dv_UNTERM_French_Formal: la Nouvelle-Zélande
+dv_UNTERM_Russian: Новая Зеландия
+dv_UNTERM_Russian_Formal: Новая Зеландия
+dv_Region_Name: "[[../Oceania]]"
+dv_Intermediate_Region_Name: "[[New_Zealand]]"
+dv_Sub-region_Name: "[[Australia and New Zealand]]"
+dv_Region: 9
+dv_Sub-region: 53
+dv_Geoname-ID: 2186224
+dv_FIPS: NZ
+dv_FIFA: NZL
+dv_IOC: NZL
+dv_MARC: nz
+dv_GAUL: 179
+dv_WMO: NZ
+dv_ITU: NZL
+dv_DS: NZ
+dv_TLD: .nz
+dv_EDGAR: Q2
+dv_M49: 554
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 554
+dv_ISO2: NZ
+dv_ISO3: NZL
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]"
+    - "[[/_Standards/Earth/Continent/Australasia/New_Zealand|New_Zealand]]"
+    - "[[/_public/Earth/Continent/Australasia/New_Zealand.public|New_Zealand.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/New_Zealand.internal|New_Zealand.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/New_Zealand.protect|New_Zealand.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/New_Zealand.private|New_Zealand.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/New_Zealand.personal|New_Zealand.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/New_Zealand.secret|New_Zealand.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Australia-New_Zealand
+dv_has_name_de: Neuseeland
+dv_Area-Total: 270534
+dv_Area-Land: 267990
+dv_has_place_continent: "[[Australia]]"
+dv_VehicleCode: NZ
+dv_Alcohol-l: 9.6
+dv_Language-Id: 499
+dv_is_a_: "[[../../Geography/Place]]"
+dv_has_place_longitude: 174.78
+dv_has_place_latitude: -41.28
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]"
+  - "[[/_Standards/Earth/Continent/Australasia/New_Zealand|New_Zealand]]"
+  - "[[/_public/Earth/Continent/Australasia/New_Zealand.public|New_Zealand.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/New_Zealand.internal|New_Zealand.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/New_Zealand.protect|New_Zealand.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/New_Zealand.private|New_Zealand.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/New_Zealand.personal|New_Zealand.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/New_Zealand.secret|New_Zealand.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Australia-New_Zealand
 ---
 
 # [[New_Zealand]] 
 
-[	ISO4217-currency_alphabetic	 :: NZD ]
-[	ISO4217-currency_name	 :: New Zealand Dollar ]
-[	ISO4217-currency_numeric	 :: 554 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: NEW ZEALAND ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 64 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: New Zealand ]
-[	name-en	 :: New Zealand ]
-[	name-es	 :: Nueva Zelandia ]
-[	name-fr	 :: Nouvelle-Zélande ]
-[	name-cn	 :: 新西兰 ]
-[	name-ar	 :: نيوزيلندا ]
-[	name-ru	 :: Новая Зеландия ]
+name = `=this.dv_name`
+[	has_name_en	 :: New Zealand ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: New Zealand ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: New Zealand ]
-[	UNTERM_English_Formal	 :: New Zealand ]
-[	UNTERM_Spanish_Formal	 :: Nueva Zelandia ]
-[	UNTERM_Spanish	 :: Nueva Zelandia ]
-[	UNTERM_French	 :: Nouvelle-Zélande (la) ]
-[	UNTERM_Arabic	 :: نيوزيلندا ]
-[	UNTERM_Arabic_Formal	 :: نيوزيلندا ]
-[	UNTERM_Chinese	 :: 新西兰 ]
-[	UNTERM_Chinese_Formal	 :: 新西兰 ]
-[	UNTERM_French_Formal	 :: la Nouvelle-Zélande ]
-[	UNTERM_Russian	 :: Новая Зеландия ]
-[	UNTERM_Russian_Formal	 :: Новая Зеландия ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Australia and New Zealand]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 53 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2186224 ]
-[	FIPS	 :: NZ ]
-[	FIFA	 :: NZL ]
-[	IOC	 :: NZL ]
-[	MARC	 :: nz ]
-[	GAUL	 :: 179 ]
-[	WMO	 :: NZ ]
-[	ITU	 :: NZL ]
-[	DS	 :: NZ ]
-[	TLD	 :: .nz ]
-[	EDGAR	 :: Q2 ]
-[	M49	 :: 554 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 554 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::NZ]
-[ISO3::NZL] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]  
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Australia-New_Zealand 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[New_Zealand/ReadMe]] 
 
@@ -470,12 +558,12 @@ coordinates: [[New_Zealand]]
 markerFile: [[New_Zealand]] 
 ```
 
-[name-en::New Zealand]
-[name-de::Neuseeland]
-[Area-Total::270534]
-[Area-Land::267990]
-has_place_continent:: [[Australia]]  
-[VehicleCode::NZ]
+[has_name_en::New Zealand]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Wellington]]  
 
 ![[Coat_of_arms_of_New_Zealand.svg|550]]
@@ -484,12 +572,12 @@ Capital :: [[Wellington]]
 
 ![[Flag_of_New_Zealand.svg|350]]
 
-[Alcohol-l::9.6]
-[Language-Id::499]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../Geography/Place]] 
-[has_place_longitude::174.78]
-[has_place_latitude::-41.28]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

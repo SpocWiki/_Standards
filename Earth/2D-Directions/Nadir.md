@@ -14,11 +14,32 @@ described_by_source:
 part_of: "[[_Standards/WikiData/WD~celestial_sphere,12134]]"
 OmegaWiki_Defined_Meaning: "160096"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q145825-ar.ogg
+dv_is_:
+  opposite_of: "[[Zenith]]"
+  same_as:
+    - "[[../../WikiData/WD~Nadir,145825]]"
+    - "[[/_Standards/Earth/2D-Directions/Nadir|Nadir]]"
+    - "[[/_public/Earth/2D-Directions/Nadir.public|Nadir.public]]"
+    - "[[/_internal/Earth/2D-Directions/Nadir.internal|Nadir.internal]]"
+    - "[[/_protect/Earth/2D-Directions/Nadir.protect|Nadir.protect]]"
+    - "[[/_private/Earth/2D-Directions/Nadir.private|Nadir.private]]"
+    - "[[/_personal/Earth/2D-Directions/Nadir.personal|Nadir.personal]]"
+    - "[[/_secret/Earth/2D-Directions/Nadir.secret|Nadir.secret]]"
+dv_is_opposite_of: "[[Zenith]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Nadir,145825]]"
+  - "[[/_Standards/Earth/2D-Directions/Nadir|Nadir]]"
+  - "[[/_public/Earth/2D-Directions/Nadir.public|Nadir.public]]"
+  - "[[/_internal/Earth/2D-Directions/Nadir.internal|Nadir.internal]]"
+  - "[[/_protect/Earth/2D-Directions/Nadir.protect|Nadir.protect]]"
+  - "[[/_private/Earth/2D-Directions/Nadir.private|Nadir.private]]"
+  - "[[/_personal/Earth/2D-Directions/Nadir.personal|Nadir.personal]]"
+  - "[[/_secret/Earth/2D-Directions/Nadir.secret|Nadir.secret]]"
 ---
 
 # [[Nadir]] 
 
-#is_/opposite_of :: [[Zenith]]  
+is_opposite_of = `=this.dv_is_opposite_of`
 #is_/same_as :: [[WD~Nadir,145825]] 
 
 ## #has_/text_of_/abstract 

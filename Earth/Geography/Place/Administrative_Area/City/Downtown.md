@@ -4,18 +4,37 @@ aliases:
   - Downtown
 has_id_wikidata: Q1050303
 subclass_of:
-  - '[[_Standards/WikiData/WD~neighborhood,123705]]'
-  - '[[_Standards/WikiData/WD~central_business_district,738570]]'
-  - '[[_Standards/WikiData/WD~town_centre,7830048]]'
+  - "[[_Standards/WikiData/WD~neighborhood,123705]]"
+  - "[[_Standards/WikiData/WD~central_business_district,738570]]"
+  - "[[_Standards/WikiData/WD~town_centre,7830048]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Downtown_down_town,299094]]'
-  - '[[_Standards/WikiData/WD~shitamachi,11361229]]'
-  - '[[_Standards/WikiData/WD~prosperous_area,66364404]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~central_business_district,738570]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~central_business_district,738570]]'
+  - "[[_Standards/WikiData/WD~Downtown_down_town,299094]]"
+  - "[[_Standards/WikiData/WD~shitamachi,11361229]]"
+  - "[[_Standards/WikiData/WD~prosperous_area,66364404]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~central_business_district,738570]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~central_business_district,738570]]"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Bus%20Ride%20Through%20Downtown%20Seattle%20%28Time-lapse%29.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Financial%20District%2C%20Toronto.jpg
 Commons_category: Downtowns and city centers
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Downtown,1050303|WD~Downtown,1050303]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/City/Downtown|Downtown]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/City/Downtown.public|Downtown.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/City/Downtown.internal|Downtown.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/City/Downtown.protect|Downtown.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/City/Downtown.private|Downtown.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/City/Downtown.personal|Downtown.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/City/Downtown.secret|Downtown.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Downtown,1050303|WD~Downtown,1050303]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/City/Downtown|Downtown]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/City/Downtown.public|Downtown.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/City/Downtown.internal|Downtown.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/City/Downtown.protect|Downtown.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/City/Downtown.private|Downtown.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/City/Downtown.personal|Downtown.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/City/Downtown.secret|Downtown.secret]]"
 ---
 
 # [[Downtown]] 

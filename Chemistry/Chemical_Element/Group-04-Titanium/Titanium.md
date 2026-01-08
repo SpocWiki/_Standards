@@ -111,7 +111,7 @@ type: Element
 #is_/same_as :: [[../../../WikiData/WD~Titanium,716]] 
 
 [GroupName::Group-04-Titanium]
-[Group:[[../Group-04-Titanium]]
+Group::[[../Group-04-Titanium]]
 
 [#has_/name_/en::Titanium]
 [#has_/name_/de::Titan]
@@ -119,7 +119,7 @@ type: Element
 [AtomRadius::2]
 [Atom-Vol-ccm-mol::10.64]
 [Unknown2::1.32]
-[#has_/radius_/nm::6.82]
+[#has_/radius_/nano_/m::6.82]
 [Electronegative::1.5]
 [Density::4.5]
 [#has_/value_for_/temperature_/melt_/c ::1660]

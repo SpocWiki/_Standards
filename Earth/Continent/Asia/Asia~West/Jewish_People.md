@@ -21,45 +21,45 @@ demonym:
   - Židinja
   - evreică
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Sephardi_Jews,102251]]'
-  - '[[_Standards/WikiData/WD~Yemenite_Jews,657993]]'
-  - '[[_Standards/WikiData/WD~Romaniote_Jews,2265699]]'
-  - '[[_Standards/WikiData/WD~Iranian_Jews,2309935]]'
+  - "[[_Standards/WikiData/WD~Sephardi_Jews,102251]]"
+  - "[[_Standards/WikiData/WD~Yemenite_Jews,657993]]"
+  - "[[_Standards/WikiData/WD~Romaniote_Jews,2265699]]"
+  - "[[_Standards/WikiData/WD~Iranian_Jews,2309935]]"
   - "[[_Standards/WikiData/WD~Musta'arabi_Jews,2908477]]"
-  - '[[_Standards/WikiData/WD~Ashkenazi_Jews,34069]]'
-opposite_of: '[[_Standards/WikiData/WD~gentile,252837]]'
-named_after: '[[_Standards/WikiData/WD~Judah,282220]]'
+  - "[[_Standards/WikiData/WD~Ashkenazi_Jews,34069]]"
+opposite_of: "[[_Standards/WikiData/WD~gentile,252837]]"
+named_after: "[[_Standards/WikiData/WD~Judah,282220]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Jewish_Virtual_Library,2535917]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[_Standards/WikiData/WD~Jewish_Virtual_Library,2535917]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Castes_and_Tribes_of_Southern_India_Jew,63036417]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-has_list: '[[_Standards/WikiData/WD~list_of_lists_of_Jews,835475]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Castes_and_Tribes_of_Southern_India_Jew,63036417]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+has_list: "[[_Standards/WikiData/WD~list_of_lists_of_Jews,835475]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Israelis,875556]]'
-  - '[[_Standards/WikiData/WD~Israelites_(religion),65250032]]'
-history_of_topic: '[[_Standards/WikiData/WD~Jewish_history,961603]]'
+  - "[[_Standards/WikiData/WD~Israelis,875556]]"
+  - "[[_Standards/WikiData/WD~Israelites_(religion),65250032]]"
+history_of_topic: "[[_Standards/WikiData/WD~Jewish_history,961603]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~people,2472587]]'
-  - '[[_Standards/WikiData/WD~ethnoreligious_group,11197007]]'
-  - '[[_Standards/WikiData/WD~nation,6266]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Jews_and_Judaism,6638549]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9780693,9780693]]'
-country: '[[_Standards/WikiData/WD~Israel,801]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Hebrew,9288]]'
-studied_by: '[[_Standards/WikiData/WD~Jewish_studies,42002]]'
-country_of_origin: '[[_Standards/WikiData/WD~Kingdom_of_Judah,48685]]'
-subclass_of: '[[_Standards/WikiData/WD~Semitic_people,62928]]'
+  - "[[_Standards/WikiData/WD~people,2472587]]"
+  - "[[_Standards/WikiData/WD~ethnoreligious_group,11197007]]"
+  - "[[_Standards/WikiData/WD~nation,6266]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Jews_and_Judaism,6638549]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q9780693,9780693]]"
+country: "[[_Standards/WikiData/WD~Israel,801]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Judaism,9268]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Hebrew,9288]]"
+studied_by: "[[_Standards/WikiData/WD~Jewish_studies,42002]]"
+country_of_origin: "[[_Standards/WikiData/WD~Kingdom_of_Judah,48685]]"
+subclass_of: "[[_Standards/WikiData/WD~Semitic_people,62928]]"
 population: 14606000
 OmegaWiki_Defined_Meaning: 404899
 native_label: יהודים
@@ -74,6 +74,25 @@ Stack_Exchange_tag:
   - https://christianity.stackexchange.com/tags/jews
   - https://hermeneutics.stackexchange.com/tags/jews
   - https://islam.stackexchange.com/tags/jews
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Jewish_people,7325]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Jewish_People|Jewish_People]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Jewish_People.public|Jewish_People.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Jewish_People.internal|Jewish_People.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Jewish_People.protect|Jewish_People.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Jewish_People.private|Jewish_People.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Jewish_People.personal|Jewish_People.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Jewish_People.secret|Jewish_People.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Jewish_people,7325]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Jewish_People|Jewish_People]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Jewish_People.public|Jewish_People.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Jewish_People.internal|Jewish_People.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Jewish_People.protect|Jewish_People.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Jewish_People.private|Jewish_People.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Jewish_People.personal|Jewish_People.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Jewish_People.secret|Jewish_People.secret]]"
 ---
 
 # [[Jewish_People]] 

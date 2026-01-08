@@ -4,10 +4,33 @@ aliases:
   - GOP(Grand Old Party)
   - US~Republican_Party
   - US~Republican Party
+dv_has_:
+  time_:
+    started: 1854-06-01T00:00:00.000+00:53
+dv_is_:
+  different_from: "[[US~Democratic_Party]]"
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party|US~Republican_Party]]"
+    - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.public|US~Republican_Party.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.internal|US~Republican_Party.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.protect|US~Republican_Party.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.private|US~Republican_Party.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.personal|US~Republican_Party.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.secret|US~Republican_Party.secret]]"
+dv_has_time_started: 1854-06-01
+dv_is_different_from: "[[US~Democratic_Party]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party|US~Republican_Party]]"
+  - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.public|US~Republican_Party.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.internal|US~Republican_Party.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.protect|US~Republican_Party.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.private|US~Republican_Party.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.personal|US~Republican_Party.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Republican_Party.secret|US~Republican_Party.secret]]"
 ---
 
-#has_/time_/started :: 1854-06-01 
-#is_/different_from :: [[US~Democratic_Party]] 
+has_time_started = `=this.dv_has_time_started`
+is_different_from = `=this.dv_is_different_from`
 
 [[US~Republican_Party]] is originally Lincolns Party, founded in Northern USA. 
 

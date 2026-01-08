@@ -346,80 +346,167 @@ Languages:
   - fr
   - mey
   - wo
+dv_ISO4217-currency_alphabetic: MRU
+dv_ISO4217-currency_name: Ouguiya
+dv_ISO4217-currency_numeric: 929
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: MAURITANIA
+dv_Telephone: 222
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: Mauritania
+dv_has_name_en: Mauritania
+dv_has_name_es: Mauritania
+dv_has_name_fr: Mauritanie
+dv_has_name_cn: 毛里塔尼亚
+dv_has_name_ar: موريتانيا
+dv_has_name_ru: Мавритания
+dv_CLDR_display_name: Mauritania
+dv_UNTERM_English: Mauritania
+dv_UNTERM_English_Formal: the Islamic Republic of Mauritania
+dv_UNTERM_Spanish_Formal: la República Islámica de Mauritania
+dv_UNTERM_Spanish: Mauritania
+dv_UNTERM_French: Mauritanie (la)
+dv_UNTERM_Arabic: موريتانيا
+dv_UNTERM_Arabic_Formal: الجمهورية الإسلامية الموريتانية
+dv_UNTERM_Chinese: 毛里塔尼亚
+dv_UNTERM_Chinese_Formal: 毛里塔尼亚伊斯兰共和国
+dv_UNTERM_French_Formal: la République islamique de Mauritanie
+dv_UNTERM_Russian: Мавритания
+dv_UNTERM_Russian_Formal: Исламская Республика Мавритания
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 2378080
+dv_FIPS: MR
+dv_FIFA: MTN
+dv_IOC: MTN
+dv_MARC: mu
+dv_GAUL: 159
+dv_WMO: MT
+dv_ITU: MTN
+dv_DS: RIM
+dv_TLD: .mr
+dv_EDGAR: O3
+dv_M49: 478
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 478
+dv_ISO2: MR
+dv_ISO3: MRT
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania|Mauritania]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Mauritania.public|Mauritania.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Mauritania.internal|Mauritania.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Mauritania.protect|Mauritania.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Mauritania.private|Mauritania.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Mauritania.personal|Mauritania.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret|Mauritania.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Mauritania
+dv_has_name_de: Mauretanien
+dv_Area-Total: 1030700
+dv_Area-Land: 1025220
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: RIM
+dv_Alcohol-l: 0.1
+dv_Language-Id: 472
+dv_has_place_longitude: -15.9667
+dv_has_place_latitude: 18.15
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania|Mauritania]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Mauritania.public|Mauritania.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Mauritania.internal|Mauritania.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Mauritania.protect|Mauritania.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Mauritania.private|Mauritania.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Mauritania.personal|Mauritania.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret|Mauritania.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Mauritania
 ---
 
 # [[Mauritania]] 
 
-[	ISO4217-currency_alphabetic	 :: MRU ]
-[	ISO4217-currency_name	 :: Ouguiya ]
-[	ISO4217-currency_numeric	 :: 929 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: MAURITANIA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 222 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Mauritania ]
-[	name-en	 :: Mauritania ]
-[	name-es	 :: Mauritania ]
-[	name-fr	 :: Mauritanie ]
-[	name-cn	 :: 毛里塔尼亚 ]
-[	name-ar	 :: موريتانيا ]
-[	name-ru	 :: Мавритания ]
+name = `=this.dv_name`
+[	has_name_en	 :: Mauritania ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: Mauritania ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Mauritania ]
-[	UNTERM_English_Formal	 :: the Islamic Republic of Mauritania ]
-[	UNTERM_Spanish_Formal	 :: la República Islámica de Mauritania ]
-[	UNTERM_Spanish	 :: Mauritania ]
-[	UNTERM_French	 :: Mauritanie (la) ]
-[	UNTERM_Arabic	 :: موريتانيا ]
-[	UNTERM_Arabic_Formal	 :: الجمهورية الإسلامية الموريتانية ]
-[	UNTERM_Chinese	 :: 毛里塔尼亚 ]
-[	UNTERM_Chinese_Formal	 :: 毛里塔尼亚伊斯兰共和国 ]
-[	UNTERM_French_Formal	 :: la République islamique de Mauritanie ]
-[	UNTERM_Russian	 :: Мавритания ]
-[	UNTERM_Russian_Formal	 :: Исламская Республика Мавритания ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2378080 ]
-[	FIPS	 :: MR ]
-[	FIFA	 :: MTN ]
-[	IOC	 :: MTN ]
-[	MARC	 :: mu ]
-[	GAUL	 :: 159 ]
-[	WMO	 :: MT ]
-[	ITU	 :: MTN ]
-[	DS	 :: RIM ]
-[	TLD	 :: .mr ]
-[	EDGAR	 :: O3 ]
-[	M49	 :: 478 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 478 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::MR]
-[ISO3::MRT]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
 #is_/same_as :: [[../../../../WikiData/WD~Mauritania,1025|WD~Mauritania,1025]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Mauritania 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Mauritania/ReadMe]] 
 
@@ -434,12 +521,12 @@ geojsonFolder: ./Mauritania//
 markerFolder: ./Mauritania//
 ```
 
-[name-en::Mauritania]
-[name-de::Mauretanien]
-[Area-Total::1030700]
-[Area-Land::1025220]
-has_place_continent:: [[Africa]]  
-[VehicleCode::RIM]
+[has_name_en::Mauritania]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Nouakchott]]  
 
 ![[Seal_of_Mauritania_(2018).svg|350]] 
@@ -448,10 +535,10 @@ Capital :: [[Nouakchott]]
 
 ![[Flag_of_Mauritania.svg|350]]
 
-[Alcohol-l::0.1]
-[Language-Id::472]
-[has_place_longitude::-15.9667]
-[has_place_latitude::18.15]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

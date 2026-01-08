@@ -1,8 +1,25 @@
 ---
 aliases:
   - _ContinentDB
-  - ' ContinentDB'
+  - " ContinentDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/_ContinentDB|_ContinentDB]]"
+    - "[[/_public/Earth/Continent/_ContinentDB.public|_ContinentDB.public]]"
+    - "[[/_internal/Earth/Continent/_ContinentDB.internal|_ContinentDB.internal]]"
+    - "[[/_protect/Earth/Continent/_ContinentDB.protect|_ContinentDB.protect]]"
+    - "[[/_private/Earth/Continent/_ContinentDB.private|_ContinentDB.private]]"
+    - "[[/_personal/Earth/Continent/_ContinentDB.personal|_ContinentDB.personal]]"
+    - "[[/_secret/Earth/Continent/_ContinentDB.secret|_ContinentDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/_ContinentDB|_ContinentDB]]"
+  - "[[/_public/Earth/Continent/_ContinentDB.public|_ContinentDB.public]]"
+  - "[[/_internal/Earth/Continent/_ContinentDB.internal|_ContinentDB.internal]]"
+  - "[[/_protect/Earth/Continent/_ContinentDB.protect|_ContinentDB.protect]]"
+  - "[[/_private/Earth/Continent/_ContinentDB.private|_ContinentDB.private]]"
+  - "[[/_personal/Earth/Continent/_ContinentDB.personal|_ContinentDB.personal]]"
+  - "[[/_secret/Earth/Continent/_ContinentDB.secret|_ContinentDB.secret]]"
 ---
 
 ```yaml:dbfolder
@@ -85,12 +102,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  name-en:
+  has_name_en:
     input: text
-    accessorKey: name-en
-    label: name-en
-    key: name-en
-    id: name-en
+    accessorKey: has_name_en
+    label: has_name_en
+    key: has_name_en
+    id: has_name_en
     position: 4
     skipPersist: false
     isHidden: false
@@ -104,12 +121,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  name-de:
+  has_name_de:
     input: text
-    accessorKey: name-de
-    label: name-de
-    key: name-de
-    id: name-de
+    accessorKey: has_name_de
+    label: has_name_de
+    key: has_name_de
+    id: has_name_de
     position: 5
     skipPersist: false
     isHidden: false

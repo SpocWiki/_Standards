@@ -79,7 +79,7 @@ Unicode_character: 碘
 
 #chemic/Element 
 [GroupName::Group-17-Halogene]
-[Group:[[../Group-17-Halogen]]
+Group::[[../Group-17-Halogen]]
 
 [#has_/name_/en::Iodine]
 [#has_/name_/de::Iod]
@@ -87,7 +87,7 @@ Unicode_character: 碘
 [AtomRadius::1.32]
 [Atom-Vol-ccm-mol::25.74]
 [Unknown2::1.33]
-[#has_/radius_/nm::10.451]
+[#has_/radius_/nano_/m::10.451]
 [Electronegative::2.7]
 [Density::4.92]
 [#has_/value_for_/temperature_/melt_/c ::113.5]

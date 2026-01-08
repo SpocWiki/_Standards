@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific|Antarctic~Pacific]]"
+    - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.public|Antarctic~Pacific.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.internal|Antarctic~Pacific.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.protect|Antarctic~Pacific.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.private|Antarctic~Pacific.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.personal|Antarctic~Pacific.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.secret|Antarctic~Pacific.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific|Antarctic~Pacific]]"
+  - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.public|Antarctic~Pacific.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.internal|Antarctic~Pacific.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.protect|Antarctic~Pacific.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.private|Antarctic~Pacific.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.personal|Antarctic~Pacific.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.secret|Antarctic~Pacific.secret]]"
+---
 # [[Antarctic~Pacific]] 
 
 ## Edit

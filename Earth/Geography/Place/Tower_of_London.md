@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Tower_of_London,62378]]"
+    - "[[/_Standards/Earth/Geography/Place/Tower_of_London|Tower_of_London]]"
+    - "[[/_public/Earth/Geography/Place/Tower_of_London.public|Tower_of_London.public]]"
+    - "[[/_internal/Earth/Geography/Place/Tower_of_London.internal|Tower_of_London.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Tower_of_London.protect|Tower_of_London.protect]]"
+    - "[[/_private/Earth/Geography/Place/Tower_of_London.private|Tower_of_London.private]]"
+    - "[[/_personal/Earth/Geography/Place/Tower_of_London.personal|Tower_of_London.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Tower_of_London.secret|Tower_of_London.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Tower_of_London,62378]]"
+  - "[[/_Standards/Earth/Geography/Place/Tower_of_London|Tower_of_London]]"
+  - "[[/_public/Earth/Geography/Place/Tower_of_London.public|Tower_of_London.public]]"
+  - "[[/_internal/Earth/Geography/Place/Tower_of_London.internal|Tower_of_London.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Tower_of_London.protect|Tower_of_London.protect]]"
+  - "[[/_private/Earth/Geography/Place/Tower_of_London.private|Tower_of_London.private]]"
+  - "[[/_personal/Earth/Geography/Place/Tower_of_London.personal|Tower_of_London.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Tower_of_London.secret|Tower_of_London.secret]]"
+
 has_time_started: 1066-01-01 
 aliases:
   - Tower of London

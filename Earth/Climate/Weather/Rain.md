@@ -57,6 +57,25 @@ Unicode_character:
   - ⛆
   - 🌧
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Rain%202.gif
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Rain,7925|WD~Rain,7925]]"
+    - "[[/_Standards/Earth/Climate/Weather/Rain|Rain]]"
+    - "[[/_public/Earth/Climate/Weather/Rain.public|Rain.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Rain.internal|Rain.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Rain.protect|Rain.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Rain.private|Rain.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Rain.personal|Rain.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Rain.secret|Rain.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Rain,7925|WD~Rain,7925]]"
+  - "[[/_Standards/Earth/Climate/Weather/Rain|Rain]]"
+  - "[[/_public/Earth/Climate/Weather/Rain.public|Rain.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Rain.internal|Rain.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Rain.protect|Rain.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Rain.private|Rain.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Rain.personal|Rain.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Rain.secret|Rain.secret]]"
 ---
 
 # [[Rain]] 🌧 

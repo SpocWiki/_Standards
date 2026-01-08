@@ -1,5 +1,92 @@
-﻿---
-location: [ 103.451944444 , 35.844722222 ] 
+---
+dv_ISO4217-currency_alphabetic: CNY
+dv_ISO4217-currency_name: Yuan Renminbi
+dv_ISO4217-currency_numeric: 156
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: CHINA
+dv_Telephone: 86
+dv_Global: true
+dv_Global_Name: World
+dv_has_name_: China
+dv_has_name_en: China
+dv_has_name_es: China
+dv_has_name_fr: Chine
+dv_has_name_cn: 中国
+dv_has_name_ar: الصين
+dv_has_name_ru: Китай
+dv_CLDR_display_name: China
+dv_UNTERM_English: China
+dv_UNTERM_English_Formal: the People's Republic of China
+dv_UNTERM_Spanish_Formal: la República Popular China
+dv_UNTERM_Spanish: China
+dv_UNTERM_French: Chine (la)
+dv_UNTERM_Arabic: الصين
+dv_UNTERM_Arabic_Formal: جمهورية الصين الشعبية
+dv_UNTERM_Chinese: 中国
+dv_UNTERM_Chinese_Formal: 中华人民共和国
+dv_UNTERM_French_Formal: la République populaire de Chine
+dv_UNTERM_Russian: Китай
+dv_UNTERM_Russian_Formal: Китайская Народная Республика
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[China]]"
+dv_Sub-region_Name: "[[Eastern Asia]]"
+dv_Region: 142
+dv_Sub-region: 30
+dv_Geoname-ID: 1814991
+dv_FIPS: CH
+dv_FIFA: CHN
+dv_IOC: CHN
+dv_MARC: cc
+dv_GAUL: 53
+dv_WMO: CI
+dv_ITU: CHN
+dv_DS: CN
+dv_TLD: .cn
+dv_EDGAR: F4
+dv_M49: 156
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 156
+dv_ISO2: CN
+dv_ISO3: CHN
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/China|China]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/China.public|China.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/China.internal|China.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/China.protect|China.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/China.private|China.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/China.personal|China.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/China.secret|China.secret]]"
+dv_has_:
+  name_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-China
+dv_has_name_de: China
+dv_Area-Total: 9571300
+dv_Area-Land: 9326410
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: CHN
+dv_Capital: "[[China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City]]"
+dv_Alcohol-l: 5.9
+dv_Language-Id: 485
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 117.985
+dv_has_place_latitude: 35.6637
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/China|China]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/China.public|China.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/China.internal|China.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/China.protect|China.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/China.private|China.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/China.personal|China.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/China.secret|China.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-China
+
 aliases:
   - China
   - Chine
@@ -990,79 +1077,79 @@ Below is a detailed table of the 34 provincial-level divisions in China, which i
 | [[Earth/Continent/Asia/Asia~East/China/Macau\|Macau]]                       |    .680 |     .1 |    0.366 |    537.629 | 0.922 | Renowned for gaming and tourism, high per capita income                                   |
 
 
-[	ISO4217-currency_alphabetic	 :: CNY ]
-[	ISO4217-currency_name	 :: Yuan Renminbi ]
-[	ISO4217-currency_numeric	 :: 156 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: CHINA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 86 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: China ]
-[	name-en	 :: China ]
-[	name-es	 :: China ]
-[	name-fr	 :: Chine ]
-[	name-cn	 :: 中国 ]
-[	name-ar	 :: الصين ]
-[	name-ru	 :: Китай ]
+name = `=this.dv_name`
+[	has_name_en	 :: China ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-[	CLDR_display_name	 :: China ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: China ]
-[	UNTERM_English_Formal	 :: the People's Republic of China ]
-[	UNTERM_Spanish_Formal	 :: la República Popular China ]
-[	UNTERM_Spanish	 :: China ]
-[	UNTERM_French	 :: Chine (la) ]
-[	UNTERM_Arabic	 :: الصين ]
-[	UNTERM_Arabic_Formal	 :: جمهورية الصين الشعبية ]
-[	UNTERM_Chinese	 :: 中国 ]
-[	UNTERM_Chinese_Formal	 :: 中华人民共和国 ]
-[	UNTERM_French_Formal	 :: la République populaire de Chine ]
-[	UNTERM_Russian	 :: Китай ]
-[	UNTERM_Russian_Formal	 :: Китайская Народная Республика ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Eastern Asia]]  
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 30 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 1814991 ]
-[	FIPS	 :: CH ]
-[	FIFA	 :: CHN ]
-[	IOC	 :: CHN ]
-[	MARC	 :: cc ]
-[	GAUL	 :: 53 ]
-[	WMO	 :: CI ]
-[	ITU	 :: CHN ]
-[	DS	 :: CN ]
-[	TLD	 :: .cn ]
-[	EDGAR	 :: F4 ]
-[	M49	 :: 156 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 156 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::CN]
-[ISO3::CHN] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]   
+is_a_ = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-China)
 into a Subfolder named `China`, so that this Link into the Sub-Repository works: [[China/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-China 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki!
 
@@ -1081,22 +1168,22 @@ zoomFeatures: true
 defaultZoom: 4 
 ```
 
-[name-en::China]
-[name-de::China]
-[Area-Total::9571300]
-[Area-Land::9326410]
-has_place_continent:: [[Asia]]  
-[VehicleCode::CHN]
-Capital :: [[China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City]]  
+[has_name_en::China]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_China.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-China.mp3]]
 ![[Flag_of_China.svg|350]]
-[Alcohol-l::5.9]
-[Language-Id::485]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::117.985]
-[has_place_latitude::35.6637]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Chinese_Space-Travel  
