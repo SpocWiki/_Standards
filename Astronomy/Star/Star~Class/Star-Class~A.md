@@ -20,9 +20,6 @@ _namelast: A
 ---
 
 [has_/name::A]
-[has_/name_/given::A]
-[name/last::A]
-[name middle::A]
 [has_/value_for_/temperature_/K::9750]
 [has_/value_for_/radius_/sol::2]
 [has_/value_for_/weight_/sol::3.2]
