@@ -8,7 +8,7 @@ atomic_number: 19
 boiling_point:
   - 1047
   - 773.85
-canonical_SMILES: '[K]'
+canonical_SMILES: "[K]"
 CAS_Registry_Number: 7440-09-7
 chemical_formula: K
 Colon_Classification: E112
@@ -18,43 +18,43 @@ density:
   - 0.828
   - 0.862
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Potassium,108309884]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Potassium,108309884]]"
 Dewey_Decimal_Classification: 546.383
-different_from: '[[_Standards/WikiData/WD~serum_potassium_level,658883]]'
+different_from: "[[_Standards/WikiData/WD~serum_potassium_level,658883]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
+  - "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
 DSSTOX_compound_identifier: DTXCID70820696
 EC_number: 231-119-8
 electronegativity: 0.82
 electron_configuration:
-  - '[Ar] 4s¹'
+  - "[Ar] 4s¹"
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹
 element_symbol: K
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~Equisetum_arvense,107592]]'
-  - '[[_Standards/WikiData/WD~Hibiscus_sabdariffa,319390]]'
-  - '[[_Standards/WikiData/WD~Equisetum_telmateia,936546]]'
-  - '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
-  - '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]'
-  - '[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]'
-  - '[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]'
-  - '[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]'
-  - '[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]'
-  - '[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]'
-  - '[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]'
-  - '[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]'
-  - '[[_Standards/WikiData/WD~cacao,42385]]'
+  - "[[_Standards/WikiData/WD~Equisetum_arvense,107592]]"
+  - "[[_Standards/WikiData/WD~Hibiscus_sabdariffa,319390]]"
+  - "[[_Standards/WikiData/WD~Equisetum_telmateia,936546]]"
+  - "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+  - "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
+  - "[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]"
+  - "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
+  - "[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]"
+  - "[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]"
+  - "[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]"
+  - "[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]"
+  - "[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]"
+  - "[[_Standards/WikiData/WD~cacao,42385]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kalium.jpg
 InChI: InChI=1S/K
 InChIKey: ZLMJMSJWJFRBEC-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 1.37
   - 1.38
@@ -70,25 +70,25 @@ MeSH_tree_code:
   - D01.268.557.575
   - D01.552.528.652
   - D01.552.547.650
-named_after: '[[_Standards/WikiData/WD~potash,10564271]]'
+named_after: "[[_Standards/WikiData/WD~potash,10564271]]"
 OmegaWiki_Defined_Meaning: 7255
 oxidation_state:
   - -1
   - 1
 part_of:
-  - '[[_Standards/WikiData/WD~period_4,239825]]'
-  - '[[_Standards/WikiData/WD~group_1,10801007]]'
-  - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
+  - "[[_Standards/WikiData/WD~period_4,239825]]"
+  - "[[_Standards/WikiData/WD~group_1,10801007]]"
+  - "[[_Standards/WikiData/WD~alkali_metal,19557]]"
 PubChem_CID: 5462222
 safety_classification_and_labelling:
-  - '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
-  - '[[_Standards/WikiData/WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+  - "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+  - "[[_Standards/WikiData/WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
 SpocWebEntityId: 21920
 standard_molar_entropy: 64.2
 subclass_of:
-  - '[[_Standards/WikiData/WD~s-block,208106]]'
-  - '[[_Standards/WikiData/WD~metal,11426]]'
-  - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
+  - "[[_Standards/WikiData/WD~s-block,208106]]"
+  - "[[_Standards/WikiData/WD~metal,11426]]"
+  - "[[_Standards/WikiData/WD~alkali_metal,19557]]"
 time_of_discovery_or_invention: 1807
 type: Element
 UMLS_CUI: C0032821
@@ -97,6 +97,62 @@ UNII: RWP5GA015D
 vapor_pressure: 41928.0364705
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Potassium%20metal%20in%20water.webm
 ZVG_number: 8150
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Potassium,703]]"
+    - "[[../../../WikiData/WD~Potassium,703|WD~Potassium,703]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Potassium|Potassium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.public|Potassium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.internal|Potassium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.protect|Potassium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.private|Potassium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.personal|Potassium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.secret|Potassium.secret]]"
+dv_GroupName: Group-01-Alkali
+dv_Group: "[[../Group-01-Alkali]]"
+dv_#has_:
+  name_:
+    en: Potassium
+    de: Kalium
+  value_for_:
+    weight_:
+      u: 39.0983
+    radius_:
+      nano_:
+        m: 4.341
+    temperature_:
+      melt_:
+        c: 63.65
+      boil_:
+        c: 774
+dv_AtomRadius: 2.77
+dv_Atom-Vol-ccm-mol: 45.46
+dv_Unknown2: 2.03
+dv_Electronegative: 0.8
+dv_HeatCapacity: 0.75
+dv_HeatConduct: 1.024
+dv_Enthalpy: 2.334
+dv_FormEnergy-kj-mol: 79.87
+dv_PeriodNo: 4
+dv_GroupNo: 1
+dv_Abbr: K
+dv_Charge-e: 19
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Potassium,703]]"
+  - "[[../../../WikiData/WD~Potassium,703|WD~Potassium,703]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Potassium|Potassium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.public|Potassium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.internal|Potassium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.protect|Potassium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.private|Potassium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.personal|Potassium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Potassium.secret|Potassium.secret]]"
+dv_has_name_en: Potassium
+dv_has_name_de: Kalium
+dv_has_value_for_weight_u: 39.0983
+dv_has_value_for_radius_nano_m: 4.341
+dv_has_value_for_temperature_melt_c: 63.65
+dv_has_value_for_temperature_boil_c: 774
 ---
 
 # [[Potassium]] 
@@ -104,35 +160,35 @@ ZVG_number: 8150
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Potassium,703]] 
 
-[GroupName::Group-01-Alkali]
-Group::[[../Group-01-Alkali]]
+GroupName = `=this.dv_GroupName` 
+Group = `=this.dv_Group` 
 
 
-[#has_/name_/en::Potassium]
-[#has_/name_/de::Kalium]
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 
-[#has_/value_for_/weight_/u::39.0983]
-[AtomRadius::2.77]
-[Atom-Vol-ccm-mol::45.46]
-[Unknown2::2.03]
-[#has_/value_for_/radius_/nano_/m::4.341]
-[Electronegative::0.8]
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+AtomRadius = `=this.dv_AtomRadius` 
+Atom-Vol-ccm-mol = `=this.dv_Atom-Vol-ccm-mol` 
+Unknown2 = `=this.dv_Unknown2` 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+Electronegative = `=this.dv_Electronegative` 
 [Density::0.86]
-[#has_/value_for_/temperature_/melt_/c ::63.65]
-[#has_/value_for_/temperature_/boil_/c ::774]
-[HeatCapacity::0.75]
-[HeatConduct::1.024]
-[Enthalpy::2.334]
-[FormEnergy-kj-mol::79.87]
-(PeriodNo::4)
-(GroupNo::1)
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+HeatCapacity = `=this.dv_HeatCapacity` 
+HeatConduct = `=this.dv_HeatConduct` 
+Enthalpy = `=this.dv_Enthalpy` 
+FormEnergy-kj-mol = `=this.dv_FormEnergy-kj-mol` 
+PeriodNo = `=this.dv_PeriodNo` 
+GroupNo = `=this.dv_GroupNo` 
 
 #is_/same_as :: [[../../../WikiData/WD~Potassium,703|WD~Potassium,703]] 
 
 ## #has_/text_of_/abstract 
 
 > **Potassium** is the chemical element 
-> with the symbol (Abbr::K) (from Neo-Latin kalium) and atomic number (Charge-e::19). 
+> with the symbol (Abbr::K) (from Neo-Latin kalium) and atomic numberCharge-e = `=this.dv_Charge-e` 
 > 
 > It is a silvery-white metal that is soft enough to easily cut with a knife. 
 > Potassium metal reacts rapidly with atmospheric oxygen 
