@@ -47,9 +47,9 @@ official_name: Eridanus
 
 [SpocWebEntityId::28118] 
 
-[name-la::Eridanus]
-[name-genitive::Eridani]
-[name-de::Eridanus]
+[#has_\name_\la::Eridanus]
+[#has_\name_\la_\genitive::Eridani]
+[#has_\name_\de::Eridanus]
 
 #is_/same_as :: [[../../WikiData/WD~Eridanus,10433|WD~Eridanus,10433]] 
 

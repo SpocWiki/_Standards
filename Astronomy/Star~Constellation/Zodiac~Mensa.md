@@ -40,9 +40,9 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mens
 
 [SpocWebEntityId::28135]
 
-[name-la::Mensa]
-[name-genitive::Mensae]
-[name-de::Tafelberg]
+[#has_\name_\la::Mensa]
+[#has_\name_\la_\genitive::Mensae]
+[#has_\name_\de::Tafelberg]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Mensa,9289]] 
 

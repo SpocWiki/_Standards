@@ -53,9 +53,9 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/OrionCC.jpg
 
 [SpocWebEntityId::28142]
 
-[name-la::Orion] 
-[name-genitive::Orionis]
-[name-de::Orion]
+[#has_\name_\la::Orion] 
+[#has_\name_\la_\genitive::Orionis]
+[#has_\name_\de::Orion]
 
 #is_/same_as :: [[../../WikiData/WD~Orion,8860|WD~Orion,8860]] 
 

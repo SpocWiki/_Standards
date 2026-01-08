@@ -39,9 +39,9 @@ short_name: Ind
 
 [SpocWebEntityId::28126]
 
-[name-la::Indus]
-[name-genitive::Indi]
-[name-de::Inder]
+[#has_\name_\la::Indus]
+[#has_\name_\la_\genitive::Indi]
+[#has_\name_\de::Inder]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Indus,10450]] 
 

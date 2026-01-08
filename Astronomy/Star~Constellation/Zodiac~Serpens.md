@@ -55,9 +55,9 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/SerpensCaudaCC.jpg
 
 [SpocWebEntityId::28158] 
 
-[name-la::Serpens]
-[name-genitive::Serpentis]
-[name-de::Schlange]
+[#has_\name_\la::Serpens]
+[#has_\name_\la_\genitive::Serpentis]
+[#has_\name_\de::Schlange]
 
 #is_/same_as :: [[../../WikiData/WD~Serpens,8910|WD~Serpens,8910]] 
 

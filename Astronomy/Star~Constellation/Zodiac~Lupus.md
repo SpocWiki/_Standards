@@ -38,9 +38,9 @@ official_name: Lupus
 
 [SpocWebEntityId::28132]
 
-[name-la::Lupus]
-[name-genitive::Lupi]
-[name-de::Wolf]
+[#has_\name_\la::Lupus]
+[#has_\name_\la_\genitive::Lupi]
+[#has_\name_\de::Wolf]
 
 #is_/same_as :: [[../../WikiData/WD~Lupus,10571|WD~Lupus,10571]] 
 

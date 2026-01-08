@@ -19,9 +19,9 @@ _name-de: Rabe
 
 [SpocWebEntityId::28110] 
 
-[name-la::Corvus] 
-[name-genitive::Corvi] 
-[name-de::Rabe] 
+[#has_\name_\la::Corvus] 
+[#has_\name_\la_\genitive::Corvi] 
+[#has_\name_\de::Rabe] 
 
 #is_/same_as :: [[../../WikiData/WD~Corvus,10517|WD~Corvus,10517]] 
 

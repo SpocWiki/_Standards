@@ -51,9 +51,9 @@ short_name: Com
 
 [SpocWebEntityId::28107]
 
-[name-la::Coma Berenices]
-[name-genitive::Comae Berenices]
-[name-de::Haar der Berenike]
+[#has_\name_\la::Coma Berenices]
+[#has_\name_\la_\genitive::Comae Berenices]
+[#has_\name_\de::Haar der Berenike]
 
 #is_/same_as :: [[../../WikiData/WD~Coma_Berenices,9285|WD~Coma_Berenices,9285]] 
 

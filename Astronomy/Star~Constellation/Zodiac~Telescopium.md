@@ -39,9 +39,9 @@ official_name: Telescopium
 
 [SpocWebEntityId::28161]
 
-[name-la::Telescopium]
-[name-genitive::Telescopii]
-[name-de::Teleskop]
+[#has_\name_\la::Telescopium]
+[#has_\name_\la_\genitive::Telescopii]
+[#has_\name_\de::Teleskop]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Telescopium,10546]] 
 

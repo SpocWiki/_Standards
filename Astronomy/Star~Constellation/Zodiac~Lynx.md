@@ -43,9 +43,9 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 
 [SpocWebEntityId::28133]
 
-[name-la::Lynx]
-[name-genitive::Lyncis]
-[name-de::Luchs]
+[#has_\name_\la::Lynx]
+[#has_\name_\la_\genitive::Lyncis]
+[#has_\name_\de::Luchs]
 
 #is_/same_as :: [[../../WikiData/WD~Lynx,10443|WD~Lynx,10443]] 
 

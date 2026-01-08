@@ -47,9 +47,9 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Camelopardalis,1
 
 [SpocWebEntityId::28093]
 
-[name-la::Camelopardalis]
-[name-genitive::Camelopardalis]
-[name-de::Giraffe]
+[#has_\name_\la::Camelopardalis]
+[#has_\name_\la_\genitive::Camelopardalis]
+[#has_\name_\de::Giraffe]
 
 #is_/same_as :: [[../../WikiData/WD~Camelopardalis,8832|WD~Camelopardalis,8832]] 
 

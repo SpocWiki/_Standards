@@ -40,9 +40,9 @@ official_name: Microscopium
 
 [SpocWebEntityId::28136]
 
-[name-la::Microscopium]
-[name-genitive::Microscopii]
-[name-de::Mikroskop]
+[#has_\name_\la::Microscopium]
+[#has_\name_\la_\genitive::Microscopii]
+[#has_\name_\de::Mikroskop]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Microscopium,10492]] 
 

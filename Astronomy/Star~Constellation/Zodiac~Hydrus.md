@@ -41,9 +41,9 @@ short_name: Hyi
 
 [SpocWebEntityId::28125]
 
-[name-la::Hydrus]
-[name-genitive::Hydri]
-[name-de::Kl. Wasserschlange]
+[#has_\name_\la::Hydrus]
+[#has_\name_\la_\genitive::Hydri]
+[#has_\name_\de::Kl. Wasserschlange]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Hydrus,10416]] 
 

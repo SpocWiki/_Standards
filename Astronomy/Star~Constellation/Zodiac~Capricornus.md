@@ -46,9 +46,9 @@ official_name: Capricornus
 
 [SpocWebEntityId::28098]
 
-[name-la::Capricornus]
-[name-genitive::Capricorni]
-[name-de::Steinbock]
+[#has_\name_\la::Capricornus]
+[#has_\name_\la_\genitive::Capricorni]
+[#has_\name_\de::Steinbock]
 
 #is_/same_as :: [[../../WikiData/WD~Capricornus,10535|WD~Capricornus,10535]] 
 

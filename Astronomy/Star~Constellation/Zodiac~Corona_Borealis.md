@@ -45,9 +45,9 @@ short_name: CrB
 
 [SpocWebEntityId::28109]
 
-[name-la::Corona Borealis]
-[name-genitive::Coronae Borealis]
-[name-de::Noerdliche Krone]
+[#has_\name_\la::Corona Borealis]
+[#has_\name_\la_\genitive::Coronae Borealis]
+[#has_\name_\de::Noerdliche Krone]
 
 #is_/same_as :: [[../../WikiData/WD~Corona_Borealis,10406|WD~Corona_Borealis,10406]] 
 

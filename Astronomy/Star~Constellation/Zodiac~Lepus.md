@@ -42,9 +42,9 @@ official_name: Lepus
 
 [SpocWebEntityId::28130] 
 
-[name-la::Lepus]
-[name-genitive::Leporis]
-[name-de::Hase]
+[#has_\name_\la::Lepus]
+[#has_\name_\la_\genitive::Leporis]
+[#has_\name_\de::Hase]
 
 #is_/same_as :: [[../../WikiData/WD~Lepus,10446|WD~Lepus,10446]] 
 

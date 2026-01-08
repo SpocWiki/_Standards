@@ -52,9 +52,9 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 
 [SpocWebEntityId::28129]
 
-[name-la::Minor]
-[name-genitive::Leonis Minoris]
-[name-de::Kl. Loewe]
+[#has_\name_\la::Minor]
+[#has_\name_\la_\genitive::Leonis Minoris]
+[#has_\name_\de::Kl. Loewe]
 
 #is_/same_as :: [[../../WikiData/WD~Leo_Minor,10403|WD~Leo_Minor,10403]] 
 

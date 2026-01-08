@@ -45,9 +45,9 @@ official_name: Apus
 
 [SpocWebEntityId::28085]
 
-[name-la::Apus]
-[name-genitive::Apodis]
-[name-de::Paradiesvogel]
+[#has_\name_\la::Apus]
+[#has_\name_\la_\genitive::Apodis]
+[#has_\name_\de::Paradiesvogel]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Apus,10506]] 
 

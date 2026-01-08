@@ -55,9 +55,9 @@ Baidu_Tieba_name: 处女座
 
 [SpocWebEntityId::28168]
 
-[name-la::Virgo]
-[name-genitive::Virginis]
-[name-de::Jungfrau]
+[#has_\name_\la::Virgo]
+[#has_\name_\la_\genitive::Virginis]
+[#has_\name_\de::Jungfrau]
 
 #is_/same_as :: [[../../WikiData/WD~Virgo,8842|WD~Virgo,8842]] 
 

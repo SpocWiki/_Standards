@@ -70,9 +70,9 @@ official_name: Boötes
 
 [SpocWebEntityId::28091] 
 
-[name-la::Bootes] 
-[name-genitive::Bootis] 
-[name-de::Baerenhueter] 
+[#has_\name_\la::Bootes] 
+[#has_\name_\la_\genitive::Bootis] 
+[#has_\name_\de::Baerenhueter] 
 
 #is_/same_as :: [[../../WikiData/WD~Boötes,8667|WD~Boötes,8667]] 
 

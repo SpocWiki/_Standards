@@ -44,9 +44,9 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/DelphinusCC.jpg
 
 [SpocWebEntityId::28114]
 
-[name-la::Delphinus]
-[name-genitive::Delphini]
-[name-de::Delphin]
+[#has_\name_\la::Delphinus]
+[#has_\name_\la_\genitive::Delphini]
+[#has_\name_\de::Delphin]
 
 #is_/same_as :: [[../../WikiData/WD~Delphinus,9302|WD~Delphinus,9302]] 
 

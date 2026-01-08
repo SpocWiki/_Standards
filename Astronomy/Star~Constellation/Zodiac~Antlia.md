@@ -38,9 +38,9 @@ official_name: Antlia
 
 [SpocWebEntityId::28084]
 
-[name-la::Antlia]
-[name-genitive::Antliae]
-[name-de::Luftpumpe]
+[#has_\name_\la::Antlia]
+[#has_\name_\la_\genitive::Antliae]
+[#has_\name_\de::Luftpumpe]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Antlia,10481]] 
 

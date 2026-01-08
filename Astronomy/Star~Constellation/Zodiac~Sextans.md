@@ -47,9 +47,9 @@ time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 
 [SpocWebEntityId::28159]
 
-[name-la::Sextans]
-[name-genitive::Sextantis] 
-[name-de::Sextant]
+[#has_\name_\la::Sextans]
+[#has_\name_\la_\genitive::Sextantis] 
+[#has_\name_\de::Sextant]
 
 #is_/same_as :: [[../../WikiData/WD~Sextans,10525|WD~Sextans,10525]] 
 

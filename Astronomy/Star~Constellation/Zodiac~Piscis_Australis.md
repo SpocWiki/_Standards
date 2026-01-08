@@ -43,9 +43,9 @@ short_name: PsA
 
 [SpocWebEntityId::28149]
 
-[name-la::Piscis Australis]
-[name-genitive::Piscis Australis]
-[name-de::Suedlicher Fisch]
+[#has_\name_\la::Piscis Australis]
+[#has_\name_\la_\genitive::Piscis Australis]
+[#has_\name_\de::Suedlicher Fisch]
 
 #is_/same_as :: [[../../WikiData/WD~Piscis_Austrinus,10409|WD~Piscis_Austrinus,10409]] 
 

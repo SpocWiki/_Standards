@@ -41,9 +41,9 @@ short_name: Cir
 
 [SpocWebEntityId::28105]
 
-[name-la::Circinus] 
-[name-genitive::Circini]
-[name-de::Zirkel]
+[#has_\name_\la::Circinus] 
+[#has_\name_\la_\genitive::Circini]
+[#has_\name_\de::Zirkel]
 
 #is_/same_as ::  [[_Standards/WikiData/WD~Circinus,10508]] 
 

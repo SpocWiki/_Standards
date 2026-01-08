@@ -42,9 +42,9 @@ short_name: Dor
 
 [SpocWebEntityId::28115]
 
-[name-la::Dorado]
-[name-genitive::Doradus] 
-[name-de::Schwertfisch] 
+[#has_\name_\la::Dorado]
+[#has_\name_\la_\genitive::Doradus] 
+[#has_\name_\de::Schwertfisch] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Dorado,8837]] 
 
