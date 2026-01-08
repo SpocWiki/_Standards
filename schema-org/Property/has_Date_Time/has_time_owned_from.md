@@ -36,7 +36,7 @@ The date and time of obtaining the product.
 
 Formal Predicate: 
 [domain::OwnershipInfo]
-(name::has_time_owned_from)
+(has_/name::has_time_owned_from)
 (range::DateTime)
 
 

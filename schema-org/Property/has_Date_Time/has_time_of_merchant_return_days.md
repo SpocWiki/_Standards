@@ -39,7 +39,7 @@ Specifies either a fixed return date or the number of days (from the delivery da
 
 Formal Predicate: 
 [domain::MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride]
-(name::has_time_of_merchant_return_days)
+(has_/name::has_time_of_merchant_return_days)
 (range::Date, DateTime, Integer)
 
 

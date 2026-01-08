@@ -36,7 +36,7 @@ The date after which the price is no longer available.
 
 Formal Predicate: 
 [domain::Offer]
-(name::has_time_of_price_valid_until)
+(has_/name::has_time_of_price_valid_until)
 (range::Date)
 
 

@@ -38,7 +38,7 @@ The specific time described by a creative work, for works (e.g. articles, video 
 
 Formal Predicate: 
 [domain::CreativeWork]
-(name::has_time_of_content_reference)
+(has_/name::has_time_of_content_reference)
 (range::DateTime)
 
 

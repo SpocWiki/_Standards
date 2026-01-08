@@ -36,7 +36,7 @@ The duration of validity of a permit or similar thing.
 
 Formal Predicate: 
 [domain::EducationalOccupationalCredential, Permit]
-(name::has_duration_of_validity)
+(has_/name::has_duration_of_validity)
 (range::Duration)
 
 

@@ -36,7 +36,7 @@ The time interval used to compute the invoice.
 
 Formal Predicate: 
 [domain::Invoice]
-(name::has_duration_of_billing_period)
+(has_/name::has_duration_of_billing_period)
 (range::Duration)
 
 

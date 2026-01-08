@@ -36,7 +36,7 @@ The latest someone may check out of a lodging establishment.
 
 Formal Predicate: 
 [domain::LodgingBusiness, LodgingReservation]
-(name::has_time_to_check_out)
+(has_/name::has_time_to_check_out)
 (range::DateTime, Time)
 
 

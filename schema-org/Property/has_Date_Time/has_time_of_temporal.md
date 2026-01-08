@@ -37,7 +37,7 @@ The "temporal" property can be used in cases where more specific properties
 
 Formal Predicate: 
 [domain::CreativeWork]
-(name::has_time_of_temporal)
+(has_/name::has_time_of_temporal)
 (range::DateTime, Text)
 
 

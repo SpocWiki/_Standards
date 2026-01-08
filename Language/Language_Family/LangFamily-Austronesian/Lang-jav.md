@@ -10,7 +10,7 @@ type: Lang
 # [[Lang-jav]] 
 
 [SpocWebEntityId:: 464 ]
-[Name::Javanese]
+[has_/name::Javanese]
 [PropId_Name::764]
 [PropId_Text::664]
 [LangFamilyId::237]

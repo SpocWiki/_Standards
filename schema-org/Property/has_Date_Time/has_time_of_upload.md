@@ -36,7 +36,7 @@ Date when this media object was uploaded to this site.
 
 Formal Predicate: 
 [domain::MediaObject]
-(name::has_time_of_upload)
+(has_/name::has_time_of_upload)
 (range::Date)
 
 

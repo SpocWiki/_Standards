@@ -229,7 +229,7 @@ writing_system: '[[_Standards/WikiData/WD~Cyrillic_script,8209]]'
 # [[Lang-rus]] 
 
 [SpocWebEntityId:: 469 ]
-[Name::Russian]
+[has_/name::Russian]
 [PropId_Name::769]
 [PropId_Text::669]
 [LangFamilyId::233]

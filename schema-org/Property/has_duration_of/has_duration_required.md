@@ -36,7 +36,7 @@ Approximate or typical time it takes to work with or through this learning resou
 
 Formal Predicate: 
 [domain::CreativeWork]
-(name::has_duration_required)
+(has_/name::has_duration_required)
 (range::Duration)
 
 

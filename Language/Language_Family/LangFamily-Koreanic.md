@@ -7,7 +7,7 @@ type: LangFamily
 ---
 
 [SpocWebEntityId:: 249 ]
-[Name::Koreanic]
+[has_/name::Koreanic]
 
 
 ## Confidential Links & Embeds: 

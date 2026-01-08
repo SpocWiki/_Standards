@@ -42,7 +42,7 @@ The duration of the item (movie, audio recording, event, etc.) in [ISO 8601 date
 
 Formal Predicate: 
 [domain::Audiobook, Episode, Event, MediaObject, Movie, MusicRecording, MusicRelease, QuantitativeValueDistribution, Schedule]
-(name::has_duration)
+(has_/name::has_duration)
 (range::Duration)
 
 Has [sub_properties::loanTerm]

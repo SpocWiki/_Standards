@@ -117,7 +117,7 @@ writing_system:
 # [[Lang-Latin]]
  
  [SpocWebEntityId:: 471 ]
-[Name::Latin]
+[has_/name::Latin]
 [PropId_Name::771]
 [PropId_Text::671]
 [LangFamilyId::233]

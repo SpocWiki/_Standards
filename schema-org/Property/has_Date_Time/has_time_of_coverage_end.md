@@ -36,7 +36,7 @@ The time when the live blog will stop covering the Event. Note that coverage may
 
 Formal Predicate: 
 [domain::LiveBlogPosting]
-(name::has_time_of_coverage_end)
+(has_/name::has_time_of_coverage_end)
 (range::DateTime)
 
 

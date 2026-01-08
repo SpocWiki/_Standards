@@ -14,10 +14,10 @@ _Radius-sol: 1.5
 _Mass-sol: 1.7
 ---
 
-[name::F]
-[Temperature::7350]
-[Radius-sol::1.5]
-[Mass-sol::1.7]
+[has_/name::F]
+[has_/value_for_/temperature_/K::7350]
+[has_/value_for_/radius_/sol::1.5]
+[has_/value_for_/weight_/sol::1.7]
 
 
 ## Confidential Links & Embeds: 

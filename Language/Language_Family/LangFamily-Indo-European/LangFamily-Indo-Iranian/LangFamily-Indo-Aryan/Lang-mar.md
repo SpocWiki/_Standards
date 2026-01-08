@@ -64,7 +64,7 @@ GOST_7_75_97_code: мар 440
 # [[Lang-mar]] 
 
 [SpocWebEntityId:: 462 ]
-[Name::Marathi]
+[has_/name::Marathi]
 [PropId_Name::762]
 [PropId_Text::662]
 [LangFamilyId::233]

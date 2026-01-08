@@ -117,7 +117,7 @@ Dewey_Decimal_Classification: 494.811
 # [[Lang-tam]] 
 
 [SpocWebEntityId:: 458 ]
-[Name::Tamil]
+[has_/name::Tamil]
 [PropId_Name::758]
 [PropId_Text::658]
 [LangFamilyId::238]

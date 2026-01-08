@@ -36,7 +36,7 @@ The date/time at which the message has been read by the recipient if a single re
 
 Formal Predicate: 
 [domain::Message]
-(name::has_time_read)
+(has_/name::has_time_read)
 (range::Date, DateTime)
 
 

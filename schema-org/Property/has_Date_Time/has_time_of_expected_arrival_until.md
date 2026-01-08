@@ -36,7 +36,7 @@ The latest date the package may arrive.
 
 Formal Predicate: 
 [domain::ParcelDelivery]
-(name::has_time_of_expected_arrival_until)
+(has_/name::has_time_of_expected_arrival_until)
 (range::Date, DateTime)
 
 

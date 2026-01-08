@@ -38,7 +38,7 @@ Indicates the date on which the current structured data was generated / publishe
 
 Formal Predicate: 
 [domain::CreativeWork]
-(name::has_time_of_sd_published)
+(has_/name::has_time_of_sd_published)
 (range::Date)
 
 

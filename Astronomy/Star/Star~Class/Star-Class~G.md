@@ -16,10 +16,10 @@ _Mass-sol: 1.1
 
 # [[Star-Class~G]] 
 
-[name::G] 
-[Temperature::5900] 
-[Radius-sol::1.2] 
-[Mass-sol::1.1] 
+[has_/name::G] 
+[has_/value_for_/temperature_/K::5900] 
+[has_/value_for_/radius_/sol::1.2] 
+[has_/value_for_/weight_/sol::1.1] 
 
 
 ## Confidential Links & Embeds: 

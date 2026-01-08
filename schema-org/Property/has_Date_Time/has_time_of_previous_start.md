@@ -36,7 +36,7 @@ Used in conjunction with eventStatus for rescheduled or cancelled events. This p
 
 Formal Predicate: 
 [domain::Event]
-(name::has_time_of_previous_start)
+(has_/name::has_time_of_previous_start)
 (range::Date)
 
 

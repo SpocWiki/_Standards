@@ -36,7 +36,7 @@ The total time required to perform instructions or a direction (including time t
 
 Formal Predicate: 
 [domain::HowTo, HowToDirection]
-(name::has_duration_total)
+(has_/name::has_duration_total)
 (range::Duration)
 
 

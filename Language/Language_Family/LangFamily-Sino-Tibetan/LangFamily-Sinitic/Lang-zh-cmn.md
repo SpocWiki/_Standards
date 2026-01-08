@@ -76,7 +76,7 @@ writing_system: '[[_Standards/WikiData/WD~Chinese_characters,8201]]'
 # [[Lang-zh-cmn]] 
 
 [SpocWebEntityId:: 485 ]
-[Name::Chinese]
+[has_/name::Chinese]
 [PropId_Name::785]
 [PropId_Text::685]
 [LangFamilyId::234]

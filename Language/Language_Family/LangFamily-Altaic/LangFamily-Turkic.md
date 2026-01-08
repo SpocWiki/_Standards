@@ -42,7 +42,7 @@ type: LangFamily
 # [[LangFamily-Turkic]] 
 
 [SpocWebEntityId:: 454 ]
-[Name::Turkic]
+[has_/name::Turkic]
 
 #is_/same_as :: [[../../../WikiData/WD~Turkic,34090|WD~Turkic,34090]] 
 

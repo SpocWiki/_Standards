@@ -37,7 +37,7 @@ The date that payment is due.
 
 Formal Predicate: 
 [domain::Invoice, Order]
-(name::has_time_of_payment_due)
+(has_/name::has_time_of_payment_due)
 (range::Date, DateTime)
 
 

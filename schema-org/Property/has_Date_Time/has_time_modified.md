@@ -38,7 +38,7 @@ or when the item's entry was modified within a DataFeed.
 
 Formal Predicate: 
 [domain::CreativeWork, DataFeedItem, Reservation]
-(name::has_time_modified)
+(has_/name::has_time_modified)
 (range::Date, DateTime)
 
 

@@ -36,7 +36,7 @@ The date when the item becomes valid.
 
 Formal Predicate: 
 [domain::Demand, LocationFeatureSpecification, MonetaryAmount, Offer, OpeningHoursSpecification, Permit, PriceSpecification]
-(name::has_time_valid_from)
+(has_/name::has_time_valid_from)
 (range::Date, DateTime)
 
 

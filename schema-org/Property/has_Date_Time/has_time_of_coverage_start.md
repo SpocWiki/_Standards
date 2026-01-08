@@ -36,7 +36,7 @@ The time when the live blog will begin covering the Event. Note that coverage ma
 
 Formal Predicate: 
 [domain::LiveBlogPosting]
-(name::has_time_of_coverage_start)
+(has_/name::has_time_of_coverage_start)
 (range::DateTime)
 
 

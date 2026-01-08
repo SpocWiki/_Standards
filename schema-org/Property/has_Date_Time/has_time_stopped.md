@@ -51,7 +51,7 @@ The date and time an item was removed from a [[../../../Society/Communication/Me
 
 Formal Predicate: 
 [domain::DataFeedItem] 
-(name::has_time_deleted) 
+(has_/name::has_time_deleted) 
 (range::Date, DateTime) 
 
 

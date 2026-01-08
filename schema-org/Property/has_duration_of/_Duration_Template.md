@@ -44,7 +44,7 @@ Use it like this:
 
 Formal Predicate: 
 [domain::{{domainIncludes}}]
-(name::has_duration_of_{{label_snail}})
+(has_/name::has_duration_of_{{label_snail}})
 (range::{{rangeIncludes}})
 
 Is [sub_property_of::{{subPropertyOf}}]

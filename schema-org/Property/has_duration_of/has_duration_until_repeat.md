@@ -39,7 +39,7 @@ Defines the frequency at which [[Event]]s will occur according to a schedule [[S
 
 Formal Predicate: 
 [domain::Schedule]
-(name::has_duration_until_repeat)
+(has_/name::has_duration_until_repeat)
 (range::Duration, Text)
 
 Is [sub_property_of::frequency]

@@ -137,7 +137,7 @@ writing_system:
 # [[Lang-por]] 
 
  [SpocWebEntityId:: 467 ]
-[Name::Portuguese]
+[has_/name::Portuguese]
 [PropId_Name::767]
 [PropId_Text::667]
 [LangFamilyId::233]

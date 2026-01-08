@@ -36,7 +36,7 @@ When a taxi will pick up a passenger or a rental car can be picked up.
 
 Formal Predicate: 
 [domain::RentalCarReservation, TaxiReservation]
-(name::has_time_to_pick_up)
+(has_/name::has_time_to_pick_up)
 (range::DateTime)
 
 

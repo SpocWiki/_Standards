@@ -36,7 +36,7 @@ The beginning of the availability of the product or service included in the offe
 
 Formal Predicate: 
 [domain::ActionAccessSpecification, Demand, Offer]
-(name::has_time_when_availability_starts)
+(has_/name::has_time_when_availability_starts)
 (range::Date, DateTime, Time)
 
 
