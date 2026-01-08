@@ -1,5 +1,25 @@
-﻿---
-location: [ 76.97021 , 22.20775 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Indian_subcontinent,60140|WD~Indian_subcontinent,60140]]"
+    - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent|Indian_Subcontinent]]"
+    - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent.public|Indian_Subcontinent.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent.internal|Indian_Subcontinent.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent.protect|Indian_Subcontinent.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent.private|Indian_Subcontinent.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent.personal|Indian_Subcontinent.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent.secret|Indian_Subcontinent.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Indian_subcontinent,60140|WD~Indian_subcontinent,60140]]"
+  - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent|Indian_Subcontinent]]"
+  - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent.public|Indian_Subcontinent.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent.internal|Indian_Subcontinent.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent.protect|Indian_Subcontinent.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent.private|Indian_Subcontinent.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent.personal|Indian_Subcontinent.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent.secret|Indian_Subcontinent.secret]]"
+
+location: [ 22.20775, 76.97021 ] 
 aliases:
   - South Asia
   - Indian subcontinent
@@ -41,13 +61,16 @@ subreddit: subcontinent
 ```leaflet
 id: Asia
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 2 
 maxZoom: 18
 defaultZoom: 3
 long: 99.0
 lat: 40
 geojsonFolder: ./Indian_Subcontinent//
 markerFolder: ./Indian_Subcontinent/
+coordinates: [[Indian_Subcontinent]] 
+markerFile: [[Indian_Subcontinent]] 
+defaultZoom: 4 
 ```
 
 

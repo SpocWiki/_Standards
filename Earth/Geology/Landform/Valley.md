@@ -38,6 +38,25 @@ GeoNames_feature_code:
   - T.VALS
 Commons_category: Valleys
 OpenStreetMap_tag: natural=valley
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Valley,39816|WD~Valley,39816]]"
+    - "[[/_Standards/Earth/Geology/Landform/Valley|Valley]]"
+    - "[[/_public/Earth/Geology/Landform/Valley.public|Valley.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Valley.internal|Valley.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Valley.protect|Valley.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Valley.private|Valley.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Valley.personal|Valley.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Valley.secret|Valley.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Valley,39816|WD~Valley,39816]]"
+  - "[[/_Standards/Earth/Geology/Landform/Valley|Valley]]"
+  - "[[/_public/Earth/Geology/Landform/Valley.public|Valley.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Valley.internal|Valley.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Valley.protect|Valley.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Valley.private|Valley.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Valley.personal|Valley.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Valley.secret|Valley.secret]]"
 ---
 
 # [[Valley]] 

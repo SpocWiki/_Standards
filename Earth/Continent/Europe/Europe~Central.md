@@ -2,6 +2,23 @@
 aliases:
   - Central Europe
   - Europe~Central
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central|Europe~Central]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central.public|Europe~Central.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central.internal|Europe~Central.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central.protect|Europe~Central.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central.private|Europe~Central.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central.personal|Europe~Central.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central.secret|Europe~Central.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central|Europe~Central]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central.public|Europe~Central.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central.internal|Europe~Central.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central.protect|Europe~Central.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central.private|Europe~Central.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central.personal|Europe~Central.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central.secret|Europe~Central.secret]]"
 ---
 
 # Europe~Central

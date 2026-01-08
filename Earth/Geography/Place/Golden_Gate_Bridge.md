@@ -1,4 +1,26 @@
-﻿---
+---
+dv_"Bridge", "GoldenGateBridge: j6798"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Golden_Gate_Bridge,44440|WD~Golden_Gate_Bridge,44440]]"
+    - "[[/_Standards/Earth/Geography/Place/Golden_Gate_Bridge|Golden_Gate_Bridge]]"
+    - "[[/_public/Earth/Geography/Place/Golden_Gate_Bridge.public|Golden_Gate_Bridge.public]]"
+    - "[[/_internal/Earth/Geography/Place/Golden_Gate_Bridge.internal|Golden_Gate_Bridge.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Golden_Gate_Bridge.protect|Golden_Gate_Bridge.protect]]"
+    - "[[/_private/Earth/Geography/Place/Golden_Gate_Bridge.private|Golden_Gate_Bridge.private]]"
+    - "[[/_personal/Earth/Geography/Place/Golden_Gate_Bridge.personal|Golden_Gate_Bridge.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Golden_Gate_Bridge.secret|Golden_Gate_Bridge.secret]]"
+dv_bridge-goldengatebridge: j6798"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Golden_Gate_Bridge,44440|WD~Golden_Gate_Bridge,44440]]"
+  - "[[/_Standards/Earth/Geography/Place/Golden_Gate_Bridge|Golden_Gate_Bridge]]"
+  - "[[/_public/Earth/Geography/Place/Golden_Gate_Bridge.public|Golden_Gate_Bridge.public]]"
+  - "[[/_internal/Earth/Geography/Place/Golden_Gate_Bridge.internal|Golden_Gate_Bridge.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Golden_Gate_Bridge.protect|Golden_Gate_Bridge.protect]]"
+  - "[[/_private/Earth/Geography/Place/Golden_Gate_Bridge.private|Golden_Gate_Bridge.private]]"
+  - "[[/_personal/Earth/Geography/Place/Golden_Gate_Bridge.personal|Golden_Gate_Bridge.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Golden_Gate_Bridge.secret|Golden_Gate_Bridge.secret]]"
+
 has_time_started: 1937-05-27 
 aliases:
   - Golden Gate Bridge
@@ -73,7 +95,7 @@ official_website: https://www.goldengate.org/bridge/
 Google_Doodle: 75th-anniversary-of-the-golden-gate-bridge
 P8189: 987007533650305171
 National_Bridge_Inventory_Number: CA27 0052
-Wolfram_Language_entity_code: Entity["Bridge", "GoldenGateBridge::j6798"]
+Wolfram_Language_entity_code: Entity"Bridge", "GoldenGateBridge = `=this.dv_"Bridge", "GoldenGateBridge`
 X_Twitter_username:
   - ggbridge
   - GGBridgeAlerts

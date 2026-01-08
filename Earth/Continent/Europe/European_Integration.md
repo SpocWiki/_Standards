@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/European_Integration|European_Integration]]"
+    - "[[/_public/Earth/Continent/Europe/European_Integration.public|European_Integration.public]]"
+    - "[[/_internal/Earth/Continent/Europe/European_Integration.internal|European_Integration.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/European_Integration.protect|European_Integration.protect]]"
+    - "[[/_private/Earth/Continent/Europe/European_Integration.private|European_Integration.private]]"
+    - "[[/_personal/Earth/Continent/Europe/European_Integration.personal|European_Integration.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/European_Integration.secret|European_Integration.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/European_Integration|European_Integration]]"
+  - "[[/_public/Earth/Continent/Europe/European_Integration.public|European_Integration.public]]"
+  - "[[/_internal/Earth/Continent/Europe/European_Integration.internal|European_Integration.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/European_Integration.protect|European_Integration.protect]]"
+  - "[[/_private/Earth/Continent/Europe/European_Integration.private|European_Integration.private]]"
+  - "[[/_personal/Earth/Continent/Europe/European_Integration.personal|European_Integration.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/European_Integration.secret|European_Integration.secret]]"
+---
 
 
 

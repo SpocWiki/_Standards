@@ -6,13 +6,32 @@ aliases:
   - Reference_Ellipsoid
   - Reference Ellipsoid
 has_id_wikidata: Q1335878
-part_of: '[[_Standards/WikiData/WD~spatial_reference_system,161779]]'
-has_use: '[[_Standards/WikiData/WD~frame_of_reference,184876]]'
-subclass_of: '[[_Standards/WikiData/WD~Earth_ellipsoid,1203807]]'
-instance_of: '[[_Standards/WikiData/WD~model,1979154]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9553577,9553577]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~Q117350763,117350763]]'
+part_of: "[[_Standards/WikiData/WD~spatial_reference_system,161779]]"
+has_use: "[[_Standards/WikiData/WD~frame_of_reference,184876]]"
+subclass_of: "[[_Standards/WikiData/WD~Earth_ellipsoid,1203807]]"
+instance_of: "[[_Standards/WikiData/WD~model,1979154]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q9553577,9553577]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+different_from: "[[_Standards/WikiData/WD~Q117350763,117350763]]"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Reference_ellipsoid,1335878]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Reference_Ellipsoid|Reference_Ellipsoid]]"
+    - "[[/_public/Earth/Geography/Cartography/Reference_Ellipsoid.public|Reference_Ellipsoid.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Reference_Ellipsoid.internal|Reference_Ellipsoid.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Reference_Ellipsoid.protect|Reference_Ellipsoid.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Reference_Ellipsoid.private|Reference_Ellipsoid.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Reference_Ellipsoid.personal|Reference_Ellipsoid.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Reference_Ellipsoid.secret|Reference_Ellipsoid.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Reference_ellipsoid,1335878]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Reference_Ellipsoid|Reference_Ellipsoid]]"
+  - "[[/_public/Earth/Geography/Cartography/Reference_Ellipsoid.public|Reference_Ellipsoid.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Reference_Ellipsoid.internal|Reference_Ellipsoid.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Reference_Ellipsoid.protect|Reference_Ellipsoid.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Reference_Ellipsoid.private|Reference_Ellipsoid.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Reference_Ellipsoid.personal|Reference_Ellipsoid.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Reference_Ellipsoid.secret|Reference_Ellipsoid.secret]]"
 ---
 
 # [[Reference_Ellipsoid]] 

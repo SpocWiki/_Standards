@@ -58,6 +58,25 @@ native_label:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tigris%202015.jpg
 Commons_category: Tigris
 Iconclass_notation: 71A32113
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Tigris,35591|WD~Tigris,35591]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Tigris|Tigris]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Tigris.public|Tigris.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Tigris.internal|Tigris.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Tigris.protect|Tigris.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Tigris.private|Tigris.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Tigris.personal|Tigris.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Tigris.secret|Tigris.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Tigris,35591|WD~Tigris,35591]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Tigris|Tigris]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Tigris.public|Tigris.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Tigris.internal|Tigris.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Tigris.protect|Tigris.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Tigris.private|Tigris.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Tigris.personal|Tigris.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Tigris.secret|Tigris.secret]]"
 ---
 
 # [[Tigris]] 

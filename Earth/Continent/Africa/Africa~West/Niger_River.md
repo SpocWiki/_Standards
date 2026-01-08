@@ -59,6 +59,25 @@ tributary:
   - "[[_Standards/WikiData/WD~Gurara_River,107994944]]"
 U_S_National_Archives_Identifier: 10038760
 watershed_area: 2117700
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Niger_River,3542|WD~Niger_River,3542]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Niger_River|Niger_River]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Niger_River.public|Niger_River.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Niger_River.internal|Niger_River.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Niger_River.protect|Niger_River.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Niger_River.private|Niger_River.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Niger_River.personal|Niger_River.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Niger_River.secret|Niger_River.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Niger_River,3542|WD~Niger_River,3542]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Niger_River|Niger_River]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Niger_River.public|Niger_River.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Niger_River.internal|Niger_River.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Niger_River.protect|Niger_River.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Niger_River.private|Niger_River.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Niger_River.personal|Niger_River.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Niger_River.secret|Niger_River.secret]]"
 ---
 
 # [[Niger_River]] 

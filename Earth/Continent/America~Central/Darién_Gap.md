@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~Central/Darién_Gap|Darién_Gap]]"
+    - "[[/_public/Earth/Continent/America~Central/Darién_Gap.public|Darién_Gap.public]]"
+    - "[[/_internal/Earth/Continent/America~Central/Darién_Gap.internal|Darién_Gap.internal]]"
+    - "[[/_protect/Earth/Continent/America~Central/Darién_Gap.protect|Darién_Gap.protect]]"
+    - "[[/_private/Earth/Continent/America~Central/Darién_Gap.private|Darién_Gap.private]]"
+    - "[[/_personal/Earth/Continent/America~Central/Darién_Gap.personal|Darién_Gap.personal]]"
+    - "[[/_secret/Earth/Continent/America~Central/Darién_Gap.secret|Darién_Gap.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~Central/Darién_Gap|Darién_Gap]]"
+  - "[[/_public/Earth/Continent/America~Central/Darién_Gap.public|Darién_Gap.public]]"
+  - "[[/_internal/Earth/Continent/America~Central/Darién_Gap.internal|Darién_Gap.internal]]"
+  - "[[/_protect/Earth/Continent/America~Central/Darién_Gap.protect|Darién_Gap.protect]]"
+  - "[[/_private/Earth/Continent/America~Central/Darién_Gap.private|Darién_Gap.private]]"
+  - "[[/_personal/Earth/Continent/America~Central/Darién_Gap.personal|Darién_Gap.personal]]"
+  - "[[/_secret/Earth/Continent/America~Central/Darién_Gap.secret|Darién_Gap.secret]]"
+---
 
 # [[Darién_Gap]] 
 

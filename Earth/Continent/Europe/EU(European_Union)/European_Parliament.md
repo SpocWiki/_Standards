@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~European_Parliament,8889|WD~European_Parliament,8889]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Parliament|European_Parliament]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Parliament.public|European_Parliament.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Parliament.internal|European_Parliament.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Parliament.protect|European_Parliament.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Parliament.private|European_Parliament.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Parliament.personal|European_Parliament.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Parliament.secret|European_Parliament.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~European_Parliament,8889|WD~European_Parliament,8889]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Parliament|European_Parliament]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Parliament.public|European_Parliament.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Parliament.internal|European_Parliament.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Parliament.protect|European_Parliament.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Parliament.private|European_Parliament.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Parliament.personal|European_Parliament.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Parliament.secret|European_Parliament.secret]]"
+
 has_time_started: 1957-03-25 
 aliases:
   - European Parliament

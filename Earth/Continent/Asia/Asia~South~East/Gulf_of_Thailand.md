@@ -1,5 +1,25 @@
-﻿---
-location: [ 102.0 , 9.5 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Gulf_of_Thailand,131217]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand|Gulf_of_Thailand]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.public|Gulf_of_Thailand.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.internal|Gulf_of_Thailand.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.protect|Gulf_of_Thailand.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.private|Gulf_of_Thailand.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.personal|Gulf_of_Thailand.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.secret|Gulf_of_Thailand.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Gulf_of_Thailand,131217]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand|Gulf_of_Thailand]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.public|Gulf_of_Thailand.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.internal|Gulf_of_Thailand.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.protect|Gulf_of_Thailand.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.private|Gulf_of_Thailand.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.personal|Gulf_of_Thailand.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.secret|Gulf_of_Thailand.secret]]"
+
+location: [ 9.5, 102.0 ] 
 aliases:
   - Gulf of Thailand
   - อ่าวไทย
@@ -51,6 +71,20 @@ coordinate_location: Point(102.0 9.5)
 # [[Gulf_of_Thailand]]
 
 #is_/same_as :: [[WD~Gulf_of_Thailand,131217]] 
+
+## #has_/map  
+
+```leaflet
+id: Gulf_of_Thailand
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Gulf_of_Thailand//
+markerFolder: ./Gulf_of_Thailand/
+coordinates: [[Gulf_of_Thailand]] 
+markerFile: [[Gulf_of_Thailand]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

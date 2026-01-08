@@ -71,6 +71,31 @@ image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Interior%2
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Mosque%20-%204.jpg
 image_of_entrance: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Petersburg%20Mosque%2011.jpg
 OpenStreetMap_tag: building=mosque
+dv_#is_:
+  sub_class_of: "[[../PlaceOfWorship]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Mosque,32815|WD~Mosque,32815]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque|Mosque]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.public|Mosque.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.internal|Mosque.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.protect|Mosque.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.private|Mosque.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.personal|Mosque.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.secret|Mosque.secret]]"
+dv_is_sub_class_of: "[[../PlaceOfWorship]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Mosque,32815|WD~Mosque,32815]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque|Mosque]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.public|Mosque.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.internal|Mosque.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.protect|Mosque.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.private|Mosque.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.personal|Mosque.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.secret|Mosque.secret]]"
 ---
 
 # [[Mosque]] 🕌 
@@ -82,9 +107,9 @@ Tag Instances like this:
 
 A mosque.
 
-[ #is_/sub_class_of :: [[../PlaceOfWorship]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 #is_/same_as :: [[../../../../../WikiData/WD~Mosque,32815|WD~Mosque,32815]] 
 

@@ -498,6 +498,49 @@ ISO_3166_1_alpha_3_code: GBR
 PM20_geo_code: A22
 Danbooru_tag: united_kingdom
 GS1_country_code: 500-509
+dv_name-en: United Kingdom
+dv_name-de: Großbritannien
+dv_ISO2: GB
+dv_ISO3: GBR
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/UK|UK]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/UK.public|UK.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/UK.internal|UK.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/UK.protect|UK.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/UK.private|UK.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/UK.personal|UK.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
+  image_for_:
+    flag: "![[./UK/Flag_of_the_United_Kingdom.svg|200]] ![](./UK/Flag_of_the_United_Kingdom.svg)"
+    coat_of_arms: "![[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|250]] ![](./UK/Coat_of_Arms_of_the_United_Kingdom.svg)"
+  sound_of_:
+    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3]]"
+dv_Area-Total: 241752
+dv_Area-Land: 241600
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: GB
+dv_Alcohol-l: 13.4
+dv_Language-Id: 499
+dv_has_place_longitude: -2.14482
+dv_has_place_latitude: 52.8829
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/UK|UK]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/UK.public|UK.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/UK.internal|UK.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/UK.protect|UK.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/UK.private|UK.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/UK.personal|UK.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
+dv_has_image_for_flag: "![[./UK/Flag_of_the_United_Kingdom.svg|200]] ![](./UK/Flag_of_the_United_Kingdom.svg)"
+dv_has_image_for_coat_of_arms: "![[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|250]] ![](./UK/Coat_of_Arms_of_the_United_Kingdom.svg)"
+dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3]]"
 ---
 
 # [[UK]] 
@@ -506,11 +549,11 @@ GS1_country_code: 500-509
 
 ## International Names
 
-[name-en::United Kingdom]
-[name-de::Großbritannien] 
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de` 
 
-[ISO2::GB] 
-[ISO3::GBR]
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`
 
 #is_/same_as :: [[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]] 
 
@@ -518,7 +561,7 @@ GS1_country_code: 500-509
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-UK)
 into a Subfolder named `UK`, so that this Link into the Sub-Repository works: [[UK/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-United_Kingdom 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
@@ -585,7 +628,7 @@ Major Cities with Population in 1000s as of @2020
 
 ### #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./UK/Flag_of_the_United_Kingdom.svg|200]] <img src="./UK/Flag_of_the_United_Kingdom.svg" width="200"/> 
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 ## #has_/text_of_/abstract  
 
@@ -665,10 +708,10 @@ Major Cities with Population in 1000s as of @2020
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|250]] <img src="./UK/Coat_of_Arms_of_the_United_Kingdom.svg" width="250"/> 
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
 
-#has_/sound_of_/anthem :: ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3]]
+has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
 🔐β 💡asd💡IBqnYJ2+defFQmt6rrJXhfKTu9UhnRlevc8eoYuwpvFdiGmDVfq1O1MKYejtMT6AT/zJ5xjdZw== 🔐
 ```audio-player
 [[Anthem-United-kingdom.mp3]]```
@@ -692,15 +735,15 @@ geojsonFolder: ./UK//
 markerFolder: ./UK/City/
 ```
 
-[Area-Total::241752] 
-[Area-Land::241600] 
-has_place_continent:: [[Europe]]  
-[VehicleCode::GB] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[UK/London,City]]  
-[Alcohol-l::13.4] 
-[Language-Id::499] 
-[has_place_longitude::-2.14482] 
-[has_place_latitude::52.8829] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

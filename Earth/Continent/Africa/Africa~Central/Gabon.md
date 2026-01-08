@@ -335,83 +335,171 @@ publishDate: ""
 expiryDate: ""
 Languages:
   - fr-GA
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Gabon
+dv_ISO4217-currency_alphabetic: XAF
+dv_ISO4217-currency_name: CFA Franc BEAC
+dv_ISO4217-currency_numeric: 950
+dv_ISO4217-currency_minor_unit: 0
+dv_ISO4217-currency_country_name: GABON
+dv_Telephone: 241
+dv_Global: true
+dv_Global_Name: World
+dv_name: Gabon
+dv_name-en:
+  - Gabon
+  - Gabon
+dv_name-es: Gabón
+dv_name-fr: Gabon
+dv_name-cn: 加蓬
+dv_name-ar: غابون
+dv_name-ru: Габон
+dv_CLDR_display_name: Gabon
+dv_UNTERM_English: Gabon
+dv_UNTERM_English_Formal: the Gabonese Republic
+dv_UNTERM_Spanish_Formal: la República Gabonesa
+dv_UNTERM_Spanish: Gabón (el)
+dv_UNTERM_French: Gabon (le)
+dv_UNTERM_Arabic: غابون
+dv_UNTERM_Arabic_Formal: جمهورية الغابون
+dv_UNTERM_Chinese: 加蓬
+dv_UNTERM_Chinese_Formal: 加蓬共和国
+dv_UNTERM_French_Formal: la République gabonaise
+dv_UNTERM_Russian: Габон
+dv_UNTERM_Russian_Formal: Габонская Республика
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Middle Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 17
+dv_Sub-region: 202
+dv_Geoname-ID: 2400553
+dv_FIPS: GB
+dv_FIFA: GAB
+dv_IOC: GAB
+dv_MARC: go
+dv_GAUL: 89
+dv_WMO: GO
+dv_ITU: GAB
+dv_DS: G
+dv_TLD: .ga
+dv_EDGAR: I5
+dv_M49: 266
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 266
+dv_ISO2: GA
+dv_ISO3: GAB
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Gabon,1000|WD~Gabon,1000]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Gabon|Gabon]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~Central/Gabon.public|Gabon.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~Central/Gabon.internal|Gabon.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~Central/Gabon.protect|Gabon.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~Central/Gabon.private|Gabon.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~Central/Gabon.personal|Gabon.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~Central/Gabon.secret|Gabon.secret]]"
+dv_name-de: Gabun
+dv_Area-Total: 267667
+dv_Area-Land: 257670
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: G
+dv_Alcohol-l: 9.3
+dv_Language-Id: 496
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 9.45
+dv_has_place_latitude: 0.383333
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Gabon
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Gabon,1000|WD~Gabon,1000]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Gabon|Gabon]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~Central/Gabon.public|Gabon.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~Central/Gabon.internal|Gabon.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~Central/Gabon.protect|Gabon.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~Central/Gabon.private|Gabon.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~Central/Gabon.personal|Gabon.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~Central/Gabon.secret|Gabon.secret]]"
 ---
 
 # [[Gabon]] 
 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Gabon 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Gabon/ReadMe]] 
 
-[	ISO4217-currency_alphabetic	 :: XAF ]
-[	ISO4217-currency_name	 :: CFA Franc BEAC ]
-[	ISO4217-currency_numeric	 :: 950 ]
-[	ISO4217-currency_minor_unit	 :: 0 ]
-[	ISO4217-currency_country_name	 :: GABON ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 241 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Gabon ]
+name = `=this.dv_name`
 [	name-en	 :: Gabon ]
-[	name-es	 :: Gabón ]
-[	name-fr	 :: Gabon ]
-[	name-cn	 :: 加蓬 ]
-[	name-ar	 :: غابون ]
-[	name-ru	 :: Габон ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Gabon ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Gabon ]
-[	UNTERM_English_Formal	 :: the Gabonese Republic ]
-[	UNTERM_Spanish_Formal	 :: la República Gabonesa ]
-[	UNTERM_Spanish	 :: Gabón (el) ]
-[	UNTERM_French	 :: Gabon (le) ]
-[	UNTERM_Arabic	 :: غابون ]
-[	UNTERM_Arabic_Formal	 :: جمهورية الغابون ]
-[	UNTERM_Chinese	 :: 加蓬 ]
-[	UNTERM_Chinese_Formal	 :: 加蓬共和国 ]
-[	UNTERM_French_Formal	 :: la République gabonaise ]
-[	UNTERM_Russian	 :: Габон ]
-[	UNTERM_Russian_Formal	 :: Габонская Республика ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Middle Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 17 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2400553 ]
-[	FIPS	 :: GB ]
-[	FIFA	 :: GAB ]
-[	IOC	 :: GAB ]
-[	MARC	 :: go ]
-[	GAUL	 :: 89 ]
-[	WMO	 :: GO ]
-[	ITU	 :: GAB ]
-[	DS	 :: G ]
-[	TLD	 :: .ga ]
-[	EDGAR	 :: I5 ]
-[	M49	 :: 266 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 266 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::GA]
-[ISO3::GAB]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Gabon,1000|WD~Gabon,1000]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
@@ -425,11 +513,11 @@ markerFolder: ./Gabon//
 ```
 
 [name-en::Gabon]
-[name-de::Gabun]
-[Area-Total::267667]
-[Area-Land::257670]
-has_place_continent:: [[Africa]]  
-[VehicleCode::G]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Libreville]]  
 
 ![[Coat_of_arms_of_Gabon.svg|350]]
@@ -437,12 +525,12 @@ Capital :: [[Libreville]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Gabon.mp3]]
 
 ![[Flag_of_Gabon.svg|350]]
-[Alcohol-l::9.3]
-[Language-Id::496]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::9.45]
-[has_place_latitude::0.383333]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

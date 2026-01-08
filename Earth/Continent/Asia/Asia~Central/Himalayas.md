@@ -1,5 +1,25 @@
-﻿---
-location: [ 84.0 , 29.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Himalayas,5451|WD~Himalayas,5451]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas|Himalayas]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~Central/Himalayas.public|Himalayas.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~Central/Himalayas.internal|Himalayas.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~Central/Himalayas.protect|Himalayas.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~Central/Himalayas.private|Himalayas.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~Central/Himalayas.personal|Himalayas.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~Central/Himalayas.secret|Himalayas.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Himalayas,5451|WD~Himalayas,5451]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas|Himalayas]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~Central/Himalayas.public|Himalayas.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~Central/Himalayas.internal|Himalayas.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~Central/Himalayas.protect|Himalayas.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~Central/Himalayas.private|Himalayas.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~Central/Himalayas.personal|Himalayas.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~Central/Himalayas.secret|Himalayas.secret]]"
+
+location: [ 29.0, 84.0] 
 aliases:
   - Himalayas
   - Himalaya
@@ -48,6 +68,20 @@ width: 250
 # [[Himalayas]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Himalayas,5451|WD~Himalayas,5451]] 
+
+## #has_/map  
+
+```leaflet
+id: Himalayas
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Himalayas//
+markerFolder: ./Himalayas/
+coordinates: [[Himalayas]] 
+markerFile: [[Himalayas]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

@@ -4,14 +4,33 @@ aliases:
   - History_of_Sudan
   - History of Sudan
 has_id_wikidata: Q246643
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Sudan,10522567]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-country: '[[_Standards/WikiData/WD~Sudan,1049]]'
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Sudan,10522567]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+country: "[[_Standards/WikiData/WD~Sudan,1049]]"
 Dewey_Decimal_Classification:
   - 962
   - 962.4
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.wav
 Commons_category: History of Sudan
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~History_of_Sudan,246643]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan|History_of_Sudan]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public|History_of_Sudan.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal|History_of_Sudan.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.protect|History_of_Sudan.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.private|History_of_Sudan.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.personal|History_of_Sudan.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.secret|History_of_Sudan.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~History_of_Sudan,246643]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan|History_of_Sudan]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public|History_of_Sudan.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal|History_of_Sudan.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.protect|History_of_Sudan.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.private|History_of_Sudan.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.personal|History_of_Sudan.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.secret|History_of_Sudan.secret]]"
 ---
 
 # [[History_of_Sudan]] 

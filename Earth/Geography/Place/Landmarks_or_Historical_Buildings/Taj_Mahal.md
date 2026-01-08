@@ -1,5 +1,25 @@
-﻿---
-location: [ 78.041944444 , 27.175 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Taj_Mahal,9141|WD~Taj_Mahal,9141]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal|Taj_Mahal]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.public|Taj_Mahal.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.internal|Taj_Mahal.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.protect|Taj_Mahal.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.private|Taj_Mahal.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.personal|Taj_Mahal.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.secret|Taj_Mahal.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Taj_Mahal,9141|WD~Taj_Mahal,9141]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal|Taj_Mahal]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.public|Taj_Mahal.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.internal|Taj_Mahal.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.protect|Taj_Mahal.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.private|Taj_Mahal.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.personal|Taj_Mahal.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Taj_Mahal.secret|Taj_Mahal.secret]]"
+
+location: [ 27.175, 78.041944444 ] 
 aliases:
   - Taj Mahal
   - Taj_Mahal
@@ -68,6 +88,20 @@ X_Twitter_username: TajMahal
 ![[../../../../assets/Taj_Mahal.png]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Taj_Mahal,9141|WD~Taj_Mahal,9141]] 
+
+## #has_/map  
+
+```leaflet
+id: Taj_Mahal
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Taj_Mahal//
+markerFolder: ./Taj_Mahal/
+coordinates: [[Taj_Mahal]] 
+markerFile: [[Taj_Mahal]] 
+defaultZoom: 16 
+```
 
 ## #has_/text_of_/abstract 
 

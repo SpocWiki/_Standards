@@ -4,20 +4,39 @@ aliases:
   - City-State
 has_id_wikidata: Q133442
 subclass_of:
-  - '[[_Standards/WikiData/WD~polity,1063239]]'
-  - '[[_Standards/WikiData/WD~free_city,13218276]]'
-  - '[[_Standards/WikiData/WD~city,515]]'
-  - '[[_Standards/WikiData/WD~state,7275]]'
+  - "[[_Standards/WikiData/WD~polity,1063239]]"
+  - "[[_Standards/WikiData/WD~free_city,13218276]]"
+  - "[[_Standards/WikiData/WD~city,515]]"
+  - "[[_Standards/WikiData/WD~state,7275]]"
 different_from:
-  - '[[_Standards/WikiData/WD~independent_city,15092400]]'
-  - '[[_Standards/WikiData/WD~City_state,66827028]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+  - "[[_Standards/WikiData/WD~independent_city,15092400]]"
+  - "[[_Standards/WikiData/WD~City_state,66827028]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
 OmegaWiki_Defined_Meaning: 1742311
 Dewey_Decimal_Classification: 321.06
-P8189: 987007283812205171
+P8189: 987007283812205200
 Commons_category: City-states
 Krugosvet_article: gosudarstvo-i-politika/gorod-gosudarstvo
 Library_of_Congress_Classification: JC352
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~City-state,133442|WD~City-state,133442]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/City-State|City-State]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/City-State.public|City-State.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/City-State.internal|City-State.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/City-State.protect|City-State.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/City-State.private|City-State.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/City-State.personal|City-State.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/City-State.secret|City-State.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~City-state,133442|WD~City-state,133442]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/City-State|City-State]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/City-State.public|City-State.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/City-State.internal|City-State.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/City-State.protect|City-State.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/City-State.private|City-State.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/City-State.personal|City-State.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/City-State.secret|City-State.secret]]"
 ---
 
 # [[City-State]] 

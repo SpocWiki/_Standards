@@ -11,44 +11,44 @@ coordinate_location: Point(-86.0 12.0)
 detail_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Central%20America%20Countries%20lb.svg
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-highest_point: '[[_Standards/WikiData/WD~Volcán_Tajumulco,818467]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+highest_point: "[[_Standards/WikiData/WD~Volcán_Tajumulco,818467]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~subcontinent,855697]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Central_America,5877499]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Central_America_topic,5933955]]'
-category_for_maps_or_plans: '[[_Standards/WikiData/WD~Maps_of_Central_America,6035984]]'
+  - "[[_Standards/WikiData/WD~subcontinent,855697]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Central_America,5877499]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Central_America_topic,5933955]]"
+category_for_maps_or_plans: "[[_Standards/WikiData/WD~Maps_of_Central_America,6035984]]"
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Central_America,15304977]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Central_America,16558894]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Central_America,17680576]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Continental_Central_America,18479603]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q31952700,31952700]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Central_America,105743543]]'
+  - "[[_Standards/WikiData/WD~WikiProject_Central_America,15304977]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Central_America,16558894]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Central_America,17680576]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Continental_Central_America,18479603]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q31952700,31952700]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Central_America,105743543]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Guatemala,774]]'
-  - '[[_Standards/WikiData/WD~Honduras,783]]'
-  - '[[_Standards/WikiData/WD~El_Salvador,792]]'
-  - '[[_Standards/WikiData/WD~Costa_Rica,800]]'
-  - '[[_Standards/WikiData/WD~Panama,804]]'
-  - '[[_Standards/WikiData/WD~Nicaragua,811]]'
-  - '[[_Standards/WikiData/WD~Belize,242]]'
+  - "[[_Standards/WikiData/WD~Guatemala,774]]"
+  - "[[_Standards/WikiData/WD~Honduras,783]]"
+  - "[[_Standards/WikiData/WD~El_Salvador,792]]"
+  - "[[_Standards/WikiData/WD~Costa_Rica,800]]"
+  - "[[_Standards/WikiData/WD~Panama,804]]"
+  - "[[_Standards/WikiData/WD~Nicaragua,811]]"
+  - "[[_Standards/WikiData/WD~Belize,242]]"
 part_of:
-  - '[[_Standards/WikiData/WD~Americas,828]]'
-  - '[[_Standards/WikiData/WD~Latin_America,12585]]'
-  - '[[_Standards/WikiData/WD~South_America,18]]'
-  - '[[_Standards/WikiData/WD~North_America,49]]'
+  - "[[_Standards/WikiData/WD~Americas,828]]"
+  - "[[_Standards/WikiData/WD~Latin_America,12585]]"
+  - "[[_Standards/WikiData/WD~South_America,18]]"
+  - "[[_Standards/WikiData/WD~North_America,49]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Latin_America,12585]]'
-  - '[[_Standards/WikiData/WD~Middle_America,29876]]'
+  - "[[_Standards/WikiData/WD~Latin_America,12585]]"
+  - "[[_Standards/WikiData/WD~Middle_America,29876]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~South_America,18]]'
+  - "[[_Standards/WikiData/WD~South_America,18]]"
 OmegaWiki_Defined_Meaning: 522
 area: 560988
-M49_code: 013
+M49_code: 13
 Commons_category: Central America
 Commons_gallery: Central America
 BHCL_UUID: 2ce78fb2-a86c-4d32-8a5d-6fbc4908ec56
@@ -57,10 +57,29 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Antigua%20Guatem
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Islasdelcoco.jpg
 U_S_National_Archives_Identifier: 10046200
 Provenio_UUID: 69dff63a-0ef0-42c9-9497-5e41b5045c73
-P8189: 987007284971705171
+P8189: 987007284971705200
 UMLS_CUI: C0007674
 subreddit:
   - centralamerica
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Central_America,27611|WD~Central_America,27611]]"
+    - "[[/_Standards/Earth/Continent/America~Central/Central_America|Central_America]]"
+    - "[[/_public/Earth/Continent/America~Central/Central_America.public|Central_America.public]]"
+    - "[[/_internal/Earth/Continent/America~Central/Central_America.internal|Central_America.internal]]"
+    - "[[/_protect/Earth/Continent/America~Central/Central_America.protect|Central_America.protect]]"
+    - "[[/_private/Earth/Continent/America~Central/Central_America.private|Central_America.private]]"
+    - "[[/_personal/Earth/Continent/America~Central/Central_America.personal|Central_America.personal]]"
+    - "[[/_secret/Earth/Continent/America~Central/Central_America.secret|Central_America.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Central_America,27611|WD~Central_America,27611]]"
+  - "[[/_Standards/Earth/Continent/America~Central/Central_America|Central_America]]"
+  - "[[/_public/Earth/Continent/America~Central/Central_America.public|Central_America.public]]"
+  - "[[/_internal/Earth/Continent/America~Central/Central_America.internal|Central_America.internal]]"
+  - "[[/_protect/Earth/Continent/America~Central/Central_America.protect|Central_America.protect]]"
+  - "[[/_private/Earth/Continent/America~Central/Central_America.private|Central_America.private]]"
+  - "[[/_personal/Earth/Continent/America~Central/Central_America.personal|Central_America.personal]]"
+  - "[[/_secret/Earth/Continent/America~Central/Central_America.secret|Central_America.secret]]"
 ---
 
 # [[Central_America]] 

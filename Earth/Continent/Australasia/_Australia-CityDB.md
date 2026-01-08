@@ -1,8 +1,25 @@
 ---
 aliases:
   - _Australia-CityDB
-  - ' Australia-CityDB'
+  - " Australia-CityDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/_Australia-CityDB|_Australia-CityDB]]"
+    - "[[/_public/Earth/Continent/Australasia/_Australia-CityDB.public|_Australia-CityDB.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/_Australia-CityDB.internal|_Australia-CityDB.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/_Australia-CityDB.protect|_Australia-CityDB.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/_Australia-CityDB.private|_Australia-CityDB.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/_Australia-CityDB.personal|_Australia-CityDB.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/_Australia-CityDB.secret|_Australia-CityDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/_Australia-CityDB|_Australia-CityDB]]"
+  - "[[/_public/Earth/Continent/Australasia/_Australia-CityDB.public|_Australia-CityDB.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/_Australia-CityDB.internal|_Australia-CityDB.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/_Australia-CityDB.protect|_Australia-CityDB.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/_Australia-CityDB.private|_Australia-CityDB.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/_Australia-CityDB.personal|_Australia-CityDB.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/_Australia-CityDB.secret|_Australia-CityDB.secret]]"
 ---
 
 ```yaml:dbfolder

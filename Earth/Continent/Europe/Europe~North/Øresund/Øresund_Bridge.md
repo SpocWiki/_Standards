@@ -1,4 +1,26 @@
-﻿---
+---
+dv_"Bridge", "OresundBridge: v9grb"
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Øresund_Bridge,297871]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge|Øresund_Bridge]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public|Øresund_Bridge.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal|Øresund_Bridge.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.protect|Øresund_Bridge.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.private|Øresund_Bridge.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.personal|Øresund_Bridge.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.secret|Øresund_Bridge.secret]]"
+dv_bridge-oresundbridge: v9grb"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Øresund_Bridge,297871]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge|Øresund_Bridge]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public|Øresund_Bridge.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal|Øresund_Bridge.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.protect|Øresund_Bridge.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.private|Øresund_Bridge.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.personal|Øresund_Bridge.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.secret|Øresund_Bridge.secret]]"
+
 has_time_started: 1999-01-01 
 aliases:
 has_id_wikidata: Q297871
@@ -58,7 +80,7 @@ Commons_category: Oresund Bridge
 date_of_official_opening: 2000-07-01T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Oresund.ASTER.20040410.jpg
 official_website: https://www.oresundsbron.com
-Wolfram_Language_entity_code: Entity["Bridge", "OresundBridge::v9grb"]
+Wolfram_Language_entity_code: Entity"Bridge", "OresundBridge = `=this.dv_"Bridge", "OresundBridge`
 Libris_URI: ljx028t43gqd5cx
 Commons_gallery: Øresund bridge
 ---

@@ -1,5 +1,25 @@
-﻿---
-location: [ 14.0 , 63.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Scandinavian_Peninsula,73169|WD~Scandinavian_Peninsula,73169]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula|Scandinavian_Peninsula]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.public|Scandinavian_Peninsula.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.internal|Scandinavian_Peninsula.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.protect|Scandinavian_Peninsula.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.private|Scandinavian_Peninsula.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.personal|Scandinavian_Peninsula.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.secret|Scandinavian_Peninsula.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Scandinavian_Peninsula,73169|WD~Scandinavian_Peninsula,73169]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula|Scandinavian_Peninsula]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.public|Scandinavian_Peninsula.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.internal|Scandinavian_Peninsula.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.protect|Scandinavian_Peninsula.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.private|Scandinavian_Peninsula.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.personal|Scandinavian_Peninsula.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Peninsula.secret|Scandinavian_Peninsula.secret]]"
+
+location: [ 63.0, 14.0 ] 
 aliases:
 has_id_wikidata: Q73169
 highest_point: "[[_Standards/WikiData/WD~Galdhøpiggen,203942]]"
@@ -36,6 +56,20 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Scandinavi
 # [[Scandinavian_Peninsula]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Scandinavian_Peninsula,73169|WD~Scandinavian_Peninsula,73169]] 
+
+## #has_/map  
+
+```leaflet
+id: Scandinavian_Peninsula
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Scandinavian_Peninsula//
+markerFolder: ./Scandinavian_Peninsula/
+coordinates: [[Scandinavian_Peninsula]] 
+markerFile: [[Scandinavian_Peninsula]] 
+defaultZoom: 4 
+```
 
 ## #has_/text_of_/abstract 
 

@@ -1,7 +1,24 @@
 ---
 location:
-- 35
-- -90.0
+  - 35
+  - -90
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~6-Central|USA~6-Central]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~6-Central.public|USA~6-Central.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~6-Central.internal|USA~6-Central.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~6-Central.protect|USA~6-Central.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~6-Central.private|USA~6-Central.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~6-Central.personal|USA~6-Central.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~6-Central.secret|USA~6-Central.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~6-Central|USA~6-Central]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~6-Central.public|USA~6-Central.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~6-Central.internal|USA~6-Central.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~6-Central.protect|USA~6-Central.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~6-Central.private|USA~6-Central.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~6-Central.personal|USA~6-Central.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~6-Central.secret|USA~6-Central.secret]]"
 ---
 
 # [[USA~6-Central]] 

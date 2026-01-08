@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Dust_Bowl,726501|WD~Dust_Bowl,726501]]"
+    - "[[/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl|Dust_Bowl]]"
+    - "[[/_public/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.public|Dust_Bowl.public]]"
+    - "[[/_internal/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.internal|Dust_Bowl.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.protect|Dust_Bowl.protect]]"
+    - "[[/_private/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.private|Dust_Bowl.private]]"
+    - "[[/_personal/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.personal|Dust_Bowl.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.secret|Dust_Bowl.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Dust_Bowl,726501|WD~Dust_Bowl,726501]]"
+  - "[[/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl|Dust_Bowl]]"
+  - "[[/_public/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.public|Dust_Bowl.public]]"
+  - "[[/_internal/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.internal|Dust_Bowl.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.protect|Dust_Bowl.protect]]"
+  - "[[/_private/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.private|Dust_Bowl.private]]"
+  - "[[/_personal/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.personal|Dust_Bowl.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.secret|Dust_Bowl.secret]]"
+
 has_time_started: 1930-01-01 
 has_time_stopped: 1936-01-01 
 aliases:

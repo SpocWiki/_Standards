@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Burj_Khalifa,12495|WD~Burj_Khalifa,12495]]"
+    - "[[/_Standards/Earth/Geography/Place/Burj_Khalifa|Burj_Khalifa]]"
+    - "[[/_public/Earth/Geography/Place/Burj_Khalifa.public|Burj_Khalifa.public]]"
+    - "[[/_internal/Earth/Geography/Place/Burj_Khalifa.internal|Burj_Khalifa.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Burj_Khalifa.protect|Burj_Khalifa.protect]]"
+    - "[[/_private/Earth/Geography/Place/Burj_Khalifa.private|Burj_Khalifa.private]]"
+    - "[[/_personal/Earth/Geography/Place/Burj_Khalifa.personal|Burj_Khalifa.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Burj_Khalifa.secret|Burj_Khalifa.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Burj_Khalifa,12495|WD~Burj_Khalifa,12495]]"
+  - "[[/_Standards/Earth/Geography/Place/Burj_Khalifa|Burj_Khalifa]]"
+  - "[[/_public/Earth/Geography/Place/Burj_Khalifa.public|Burj_Khalifa.public]]"
+  - "[[/_internal/Earth/Geography/Place/Burj_Khalifa.internal|Burj_Khalifa.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Burj_Khalifa.protect|Burj_Khalifa.protect]]"
+  - "[[/_private/Earth/Geography/Place/Burj_Khalifa.private|Burj_Khalifa.private]]"
+  - "[[/_personal/Earth/Geography/Place/Burj_Khalifa.personal|Burj_Khalifa.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Burj_Khalifa.secret|Burj_Khalifa.secret]]"
+
 has_time_started: 2010-01-01 
-location: [ 55.274166666 , 25.197222222 ] 
+location: [ 25.197222222, 55.274166666 ] 
 aliases:
   - Burj Khalifa
   - Burj_Khalifa
@@ -74,6 +94,20 @@ coordinate_location: Point(55.274166666 25.197222222)
 ![[../../../assets/Burj_Khalifa.png]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Burj_Khalifa,12495|WD~Burj_Khalifa,12495]] 
+
+## #has_/map  
+
+```leaflet
+id: Burj_Khalifa
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Burj_Khalifa//
+markerFolder: ./Burj_Khalifa/
+coordinates: [[Burj_Khalifa]] 
+markerFile: [[Burj_Khalifa]] 
+defaultZoom: 11 
+```
 
 ## #has_/text_of_/abstract 
 

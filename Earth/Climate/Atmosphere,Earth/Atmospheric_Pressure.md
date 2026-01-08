@@ -1,4 +1,25 @@
 ---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Atmospheric_pressure,81809|WD~Atmospheric_pressure,81809]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure|Atmospheric_Pressure]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.public|Atmospheric_Pressure.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.internal|Atmospheric_Pressure.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.protect|Atmospheric_Pressure.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.private|Atmospheric_Pressure.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.personal|Atmospheric_Pressure.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.secret|Atmospheric_Pressure.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Atmospheric_pressure,81809|WD~Atmospheric_pressure,81809]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure|Atmospheric_Pressure]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.public|Atmospheric_Pressure.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.internal|Atmospheric_Pressure.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.protect|Atmospheric_Pressure.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.private|Atmospheric_Pressure.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.personal|Atmospheric_Pressure.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.secret|Atmospheric_Pressure.secret]]"
+---
+---
 aliases:
   - Atmospheric_Pressure
   - Atmospheric Pressure

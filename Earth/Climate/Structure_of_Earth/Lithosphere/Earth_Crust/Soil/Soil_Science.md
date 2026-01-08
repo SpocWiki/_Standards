@@ -19,6 +19,25 @@ Library_of_Congress_Classification: S590-S599.9
 Classification_of_Instructional_Programs_code: "01.12"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soil%20sci.jpg
 Commons_category: Soil science
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Soil_science,9161265|WD~Soil_science,9161265]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science|Soil_Science]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.public|Soil_Science.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.internal|Soil_Science.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.protect|Soil_Science.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.private|Soil_Science.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.personal|Soil_Science.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.secret|Soil_Science.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Soil_science,9161265|WD~Soil_science,9161265]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science|Soil_Science]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.public|Soil_Science.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.internal|Soil_Science.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.protect|Soil_Science.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.private|Soil_Science.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.personal|Soil_Science.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Soil_Science.secret|Soil_Science.secret]]"
 ---
 
 # [[Soil_Science]] 

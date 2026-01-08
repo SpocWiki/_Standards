@@ -1,5 +1,24 @@
-﻿---
-location: [ 98.25 , 79.75 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Northern_Zemlya,192281|WD~Northern_Zemlya,192281]]"
+    - "[[/_Standards/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya|Severnaya_Zemlya]]"
+    - "[[/_public/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.public|Severnaya_Zemlya.public]]"
+    - "[[/_internal/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.internal|Severnaya_Zemlya.internal]]"
+    - "[[/_protect/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.protect|Severnaya_Zemlya.protect]]"
+    - "[[/_private/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.private|Severnaya_Zemlya.private]]"
+    - "[[/_personal/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.personal|Severnaya_Zemlya.personal]]"
+    - "[[/_secret/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.secret|Severnaya_Zemlya.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Northern_Zemlya,192281|WD~Northern_Zemlya,192281]]"
+  - "[[/_Standards/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya|Severnaya_Zemlya]]"
+  - "[[/_public/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.public|Severnaya_Zemlya.public]]"
+  - "[[/_internal/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.internal|Severnaya_Zemlya.internal]]"
+  - "[[/_protect/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.protect|Severnaya_Zemlya.protect]]"
+  - "[[/_private/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.private|Severnaya_Zemlya.private]]"
+  - "[[/_personal/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.personal|Severnaya_Zemlya.personal]]"
+  - "[[/_secret/Earth/Continent/Arctica/Arctic-Asian-Islands/Severnaya_Zemlya.secret|Severnaya_Zemlya.secret]]"
+
 aliases:
   - 'Severnaya Zemlya** (Russian: Северная Земля'
   - Severnaya_Zemlya
@@ -46,6 +65,9 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Severnaya_Zemlya///
 markerFolder: ./Severnaya_Zemlya/
+coordinates: [[Severnaya_Zemlya]] 
+markerFile: [[Severnaya_Zemlya]] 
+defaultZoom: 5 
 ```
 
 

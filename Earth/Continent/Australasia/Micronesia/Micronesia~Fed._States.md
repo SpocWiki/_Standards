@@ -1,6 +1,41 @@
-﻿---
+---
+dv_"Concept", "FederatedStatesOfMicronesia: 6yt84"
+dv_ISO2: FM
+dv_ISO3: FSM
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Federated_States_of_Micronesia,702|WD~Federated_States_of_Micronesia,702]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States|Micronesia~Fed._States]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.public|Micronesia~Fed._States.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.internal|Micronesia~Fed._States.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.protect|Micronesia~Fed._States.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.private|Micronesia~Fed._States.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.personal|Micronesia~Fed._States.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.secret|Micronesia~Fed._States.secret]]"
+dv_name-en: Micronesia, Fed. States
+dv_name-de: Mikronesien
+dv_Area-Total: 700
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Oceania]]"
+dv_VehicleCode: FSM
+dv_Capital: "[[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]"
+dv_Alcohol-l: 5.5
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 158.15
+dv_has_place_latitude: 6.91667
+dv_concept-federatedstatesofmicronesia: 6yt84"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Federated_States_of_Micronesia,702|WD~Federated_States_of_Micronesia,702]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States|Micronesia~Fed._States]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.public|Micronesia~Fed._States.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.internal|Micronesia~Fed._States.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.protect|Micronesia~Fed._States.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.private|Micronesia~Fed._States.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.personal|Micronesia~Fed._States.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.secret|Micronesia~Fed._States.secret]]"
+
 has_time_started: 1986-11-03 
-location: [ 158.183333333 , 6.916666666 ] 
 aliases:
   - Federated_States_of_Micronesia
   - Federated States of Micronesia
@@ -247,7 +282,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Micronesia
 telephone_country_code: 691
 ISNI: 121095799
 Libris_URI: 1zcfjv1k00zfm8d
-Wolfram_Language_entity_code: Entity["Concept", "FederatedStatesOfMicronesia::6yt84"]
+Wolfram_Language_entity_code: Entity"Concept", "FederatedStatesOfMicronesia = `=this.dv_"Concept", "FederatedStatesOfMicronesia`
 hashtag_: FederatedStatesofMicronesia
 IPA_transcription: mɪkɾuˈneːsɪɑfœdəɾɑʂuːnː
 Colon_Classification: SG--935
@@ -256,13 +291,12 @@ Krugosvet_article: strany_mira/MIKRONEZIYA.html
 
 # [[Micronesia~Fed._States]] 
 
-[ISO2::FM] 
-[ISO3::FSM]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../../WikiData/WD~Federated_States_of_Micronesia,702|WD~Federated_States_of_Micronesia,702]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
-
 
 ```leaflet
 id: Micronesia, Fed. States
@@ -271,6 +305,9 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Micronesia~Fed._States/////
 markerFolder: ./Micronesia~Fed._States/
+coordinates: [[Micronesia~Fed._States]] 
+markerFile: [[Micronesia~Fed._States]] 
+defaultZoom: 5 
 ```
 
 
@@ -306,19 +343,19 @@ markerFolder: ./Micronesia~Fed._States/
 > [Wikipedia](https://en.wikipedia.org/wiki/Federated%20States%20of%20Micronesia) 
 
 
-[name-en::Micronesia, Fed. States] 
-[name-de::Mikronesien] 
-[Area-Total::700] 
-[Area-Land::0] 
-has_place_continent:: [[Oceania]]  
-[VehicleCode::FSM] 
-Capital :: [[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]  
-[Alcohol-l::5.5] 
-[Language-Id::499] 
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::158.15] 
-[has_place_latitude::6.91667] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 

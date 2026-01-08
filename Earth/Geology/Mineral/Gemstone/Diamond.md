@@ -64,6 +64,25 @@ Unicode_character: 💎
 UNII: 6GRV67N0U2
 U_S_National_Archives_Identifier: 10647959
 video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20entstehen%20Diamanten%20%28CC%20BY%204.0%29.webm
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Diamond,5283|WD~Diamond,5283]]"
+    - "[[/_Standards/Earth/Geology/Mineral/Gemstone/Diamond|Diamond]]"
+    - "[[/_public/Earth/Geology/Mineral/Gemstone/Diamond.public|Diamond.public]]"
+    - "[[/_internal/Earth/Geology/Mineral/Gemstone/Diamond.internal|Diamond.internal]]"
+    - "[[/_protect/Earth/Geology/Mineral/Gemstone/Diamond.protect|Diamond.protect]]"
+    - "[[/_private/Earth/Geology/Mineral/Gemstone/Diamond.private|Diamond.private]]"
+    - "[[/_personal/Earth/Geology/Mineral/Gemstone/Diamond.personal|Diamond.personal]]"
+    - "[[/_secret/Earth/Geology/Mineral/Gemstone/Diamond.secret|Diamond.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Diamond,5283|WD~Diamond,5283]]"
+  - "[[/_Standards/Earth/Geology/Mineral/Gemstone/Diamond|Diamond]]"
+  - "[[/_public/Earth/Geology/Mineral/Gemstone/Diamond.public|Diamond.public]]"
+  - "[[/_internal/Earth/Geology/Mineral/Gemstone/Diamond.internal|Diamond.internal]]"
+  - "[[/_protect/Earth/Geology/Mineral/Gemstone/Diamond.protect|Diamond.protect]]"
+  - "[[/_private/Earth/Geology/Mineral/Gemstone/Diamond.private|Diamond.private]]"
+  - "[[/_personal/Earth/Geology/Mineral/Gemstone/Diamond.personal|Diamond.personal]]"
+  - "[[/_secret/Earth/Geology/Mineral/Gemstone/Diamond.secret|Diamond.secret]]"
 ---
 
 # [[Diamond]] 💎 

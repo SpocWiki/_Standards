@@ -14,6 +14,25 @@ facet_of: "[[_Standards/WikiData/WD~Korea,18097]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Korea,55507]]"
 Commons_category: History of Korea
 Dewey_Decimal_Classification: "951.9"
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~History_of_Korea,713414|WD~History_of_Korea,713414]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea|History_of_Korea]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.public|History_of_Korea.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.internal|History_of_Korea.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.protect|History_of_Korea.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.private|History_of_Korea.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.personal|History_of_Korea.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.secret|History_of_Korea.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~History_of_Korea,713414|WD~History_of_Korea,713414]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea|History_of_Korea]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.public|History_of_Korea.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.internal|History_of_Korea.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.protect|History_of_Korea.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.private|History_of_Korea.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.personal|History_of_Korea.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.secret|History_of_Korea.secret]]"
 ---
 
 # [[History_of_Korea]]

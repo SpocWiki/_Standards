@@ -1,8 +1,25 @@
 ---
 aliases:
   - _North-America-CityDB
-  - ' North-America-CityDB'
+  - " North-America-CityDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/_North-America-CityDB|_North-America-CityDB]]"
+    - "[[/_public/Earth/Continent/America~North/_North-America-CityDB.public|_North-America-CityDB.public]]"
+    - "[[/_internal/Earth/Continent/America~North/_North-America-CityDB.internal|_North-America-CityDB.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/_North-America-CityDB.protect|_North-America-CityDB.protect]]"
+    - "[[/_private/Earth/Continent/America~North/_North-America-CityDB.private|_North-America-CityDB.private]]"
+    - "[[/_personal/Earth/Continent/America~North/_North-America-CityDB.personal|_North-America-CityDB.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/_North-America-CityDB.secret|_North-America-CityDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/_North-America-CityDB|_North-America-CityDB]]"
+  - "[[/_public/Earth/Continent/America~North/_North-America-CityDB.public|_North-America-CityDB.public]]"
+  - "[[/_internal/Earth/Continent/America~North/_North-America-CityDB.internal|_North-America-CityDB.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/_North-America-CityDB.protect|_North-America-CityDB.protect]]"
+  - "[[/_private/Earth/Continent/America~North/_North-America-CityDB.private|_North-America-CityDB.private]]"
+  - "[[/_personal/Earth/Continent/America~North/_North-America-CityDB.personal|_North-America-CityDB.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/_North-America-CityDB.secret|_North-America-CityDB.secret]]"
 ---
 
 ```yaml:dbfolder

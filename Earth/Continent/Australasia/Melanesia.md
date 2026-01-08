@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia|Melanesia]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia.public|Melanesia.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia.internal|Melanesia.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia.protect|Melanesia.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia.private|Melanesia.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia.personal|Melanesia.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia.secret|Melanesia.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia|Melanesia]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia.public|Melanesia.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia.internal|Melanesia.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia.protect|Melanesia.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia.private|Melanesia.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia.personal|Melanesia.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia.secret|Melanesia.secret]]"
+---
 
 # [[Melanesia]] 
 

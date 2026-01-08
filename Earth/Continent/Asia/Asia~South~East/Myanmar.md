@@ -12,101 +12,189 @@ confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate: ''
+expiryDate: ""
 icon: flag-mm
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - my
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 18.265
   - 96.135
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26963
 tags:
   - geo/Country
 title: Myanmar
 type: Country
+dv_ISO4217-currency_alphabetic: MMK
+dv_ISO4217-currency_name: Kyat
+dv_ISO4217-currency_numeric: 104
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: MYANMAR
+dv_Telephone: 95
+dv_Global: true
+dv_Global_Name: World
+dv_name: Myanmar
+dv_name-en:
+  - Myanmar
+  - Myanmar
+dv_name-es: Myanmar
+dv_name-fr: Myanmar
+dv_name-cn: 缅甸
+dv_name-ar: ميانمار
+dv_name-ru: Мьянма
+dv_CLDR_display_name: Myanmar
+dv_UNTERM_English: Myanmar
+dv_UNTERM_English_Formal: the Republic of the Union of Myanmar
+dv_UNTERM_Spanish_Formal: la República de la Unión de Myanmar
+dv_UNTERM_Spanish: Myanmar
+dv_UNTERM_French: Myanmar (le)
+dv_UNTERM_Arabic: ميانمار
+dv_UNTERM_Arabic_Formal: جمهورية اتحاد ميانمار
+dv_UNTERM_Chinese: 缅甸
+dv_UNTERM_Chinese_Formal: 缅甸联邦共和国
+dv_UNTERM_French_Formal: la République de l'Union du Myanmar
+dv_UNTERM_Russian: Мьянма
+dv_UNTERM_Russian_Formal: Республика Союз Мьянма
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Myanmar]]"
+dv_Sub-region_Name: "[[South-eastern Asia]]"
+dv_Region: 142
+dv_Sub-region: 35
+dv_Geoname-ID: 1327865
+dv_FIPS: BM
+dv_FIFA: MYA
+dv_IOC: MYA
+dv_MARC: br
+dv_GAUL: 171
+dv_WMO: BM
+dv_ITU: MYA
+dv_DS: BUR
+dv_TLD: .mm
+dv_EDGAR: E1
+dv_M49: 104
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 104
+dv_ISO2: MM
+dv_ISO3: MMR
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Myanmar,836|WD~Myanmar,836]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar|Myanmar]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.public|Myanmar.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal|Myanmar.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar.protect|Myanmar.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar.private|Myanmar.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Myanmar
+dv_name-de: Myanmar
+dv_Area-Total: 676552
+dv_Area-Land: 657550
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: MYR
+dv_Capital: "[[Naypyidaw]]"
+dv_Alcohol-l: 0.6
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 96.135
+dv_has_place_latitude: 18.265
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Myanmar,836|WD~Myanmar,836]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar|Myanmar]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.public|Myanmar.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal|Myanmar.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar.protect|Myanmar.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar.private|Myanmar.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Myanmar
 ---
 
 # [[Myanmar]] 
 
-[	ISO4217-currency_alphabetic	 :: MMK ]
-[	ISO4217-currency_name	 :: Kyat ]
-[	ISO4217-currency_numeric	 :: 104 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: MYANMAR ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 95 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Myanmar ]
+name = `=this.dv_name`
 [	name-en	 :: Myanmar ]
-[	name-es	 :: Myanmar ]
-[	name-fr	 :: Myanmar ]
-[	name-cn	 :: 缅甸 ]
-[	name-ar	 :: ميانمار ]
-[	name-ru	 :: Мьянма ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Myanmar ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Myanmar ]
-[	UNTERM_English_Formal	 :: the Republic of the Union of Myanmar ]
-[	UNTERM_Spanish_Formal	 :: la República de la Unión de Myanmar ]
-[	UNTERM_Spanish	 :: Myanmar ]
-[	UNTERM_French	 :: Myanmar (le) ]
-[	UNTERM_Arabic	 :: ميانمار ]
-[	UNTERM_Arabic_Formal	 :: جمهورية اتحاد ميانمار ]
-[	UNTERM_Chinese	 :: 缅甸 ]
-[	UNTERM_Chinese_Formal	 :: 缅甸联邦共和国 ]
-[	UNTERM_French_Formal	 :: la République de l'Union du Myanmar ]
-[	UNTERM_Russian	 :: Мьянма ]
-[	UNTERM_Russian_Formal	 :: Республика Союз Мьянма ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[South-eastern Asia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 35 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 1327865 ]
-[	FIPS	 :: BM ]
-[	FIFA	 :: MYA ]
-[	IOC	 :: MYA ]
-[	MARC	 :: br ]
-[	GAUL	 :: 171 ]
-[	WMO	 :: BM ]
-[	ITU	 :: MYA ]
-[	DS	 :: BUR ]
-[	TLD	 :: .mm ]
-[	EDGAR	 :: E1 ]
-[	M49	 :: 104 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
-[	Small_Island_Developing_States	 ::  ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 104 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::MM]
-[ISO3::MMR] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Myanmar,836|WD~Myanmar,836]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Myanmar 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Myanmar/ReadMe]] 
 
@@ -124,22 +212,22 @@ markerFile: [[Myanmar]]
 ```
 
 [name-en::Myanmar]
-[name-de::Myanmar]
+name-de = `=this.dv_name-de`
 
 ![[Flag_of_Myanmar.svg|350]]
 
 
-[Area-Total::676552]
-[Area-Land::657550]
-has_place_continent:: [[Asia]]  
-[VehicleCode::MYR]
-Capital :: [[Naypyidaw]]  
-[Alcohol-l::0.6]
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::96.135]
-[has_place_latitude::18.265]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

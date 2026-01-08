@@ -5,6 +5,25 @@ subclass_of: "[[_Standards/WikiData/WD~climate_zone,1639168]]"
 Iconclass_notation: 25H1
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Paraskliima.svg
 Commons_category: Temperate climate
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Temperate_climate,167466|WD~Temperate_climate,167466]]"
+    - "[[/_Standards/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate|Temperate_Climate]]"
+    - "[[/_public/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.public|Temperate_Climate.public]]"
+    - "[[/_internal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.internal|Temperate_Climate.internal]]"
+    - "[[/_protect/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.protect|Temperate_Climate.protect]]"
+    - "[[/_private/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.private|Temperate_Climate.private]]"
+    - "[[/_personal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.personal|Temperate_Climate.personal]]"
+    - "[[/_secret/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.secret|Temperate_Climate.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Temperate_climate,167466|WD~Temperate_climate,167466]]"
+  - "[[/_Standards/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate|Temperate_Climate]]"
+  - "[[/_public/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.public|Temperate_Climate.public]]"
+  - "[[/_internal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.internal|Temperate_Climate.internal]]"
+  - "[[/_protect/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.protect|Temperate_Climate.protect]]"
+  - "[[/_private/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.private|Temperate_Climate.private]]"
+  - "[[/_personal/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.personal|Temperate_Climate.personal]]"
+  - "[[/_secret/Earth/Climate/Köppen_Climate_Classification/Temperate_Climate.secret|Temperate_Climate.secret]]"
 ---
 
 # [[Temperate_Climate]] 

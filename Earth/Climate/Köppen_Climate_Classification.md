@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Köppen_climate_classification,124095]]"
+    - "[[/_Standards/Earth/Climate/Köppen_Climate_Classification|Köppen_Climate_Classification]]"
+    - "[[/_public/Earth/Climate/Köppen_Climate_Classification.public|Köppen_Climate_Classification.public]]"
+    - "[[/_internal/Earth/Climate/Köppen_Climate_Classification.internal|Köppen_Climate_Classification.internal]]"
+    - "[[/_protect/Earth/Climate/Köppen_Climate_Classification.protect|Köppen_Climate_Classification.protect]]"
+    - "[[/_private/Earth/Climate/Köppen_Climate_Classification.private|Köppen_Climate_Classification.private]]"
+    - "[[/_personal/Earth/Climate/Köppen_Climate_Classification.personal|Köppen_Climate_Classification.personal]]"
+    - "[[/_secret/Earth/Climate/Köppen_Climate_Classification.secret|Köppen_Climate_Classification.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Köppen_climate_classification,124095]]"
+  - "[[/_Standards/Earth/Climate/Köppen_Climate_Classification|Köppen_Climate_Classification]]"
+  - "[[/_public/Earth/Climate/Köppen_Climate_Classification.public|Köppen_Climate_Classification.public]]"
+  - "[[/_internal/Earth/Climate/Köppen_Climate_Classification.internal|Köppen_Climate_Classification.internal]]"
+  - "[[/_protect/Earth/Climate/Köppen_Climate_Classification.protect|Köppen_Climate_Classification.protect]]"
+  - "[[/_private/Earth/Climate/Köppen_Climate_Classification.private|Köppen_Climate_Classification.private]]"
+  - "[[/_personal/Earth/Climate/Köppen_Climate_Classification.personal|Köppen_Climate_Classification.personal]]"
+  - "[[/_secret/Earth/Climate/Köppen_Climate_Classification.secret|Köppen_Climate_Classification.secret]]"
+
 has_time_started: 1884-01-01 
 aliases:
   - Köppen climate classification

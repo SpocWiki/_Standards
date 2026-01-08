@@ -1,5 +1,94 @@
-﻿---
-location: [ 66.0 , 41.0 ] 
+---
+dv_ISO4217-currency_alphabetic: UZS
+dv_ISO4217-currency_name: Uzbekistan Sum
+dv_ISO4217-currency_numeric: 860
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: UZBEKISTAN
+dv_Telephone: 998
+dv_Global: true
+dv_Global_Name: World
+dv_name: Uzbekistan
+dv_name-en:
+  - Uzbekistan
+  - Uzbekistan
+dv_name-es: Uzbekistán
+dv_name-fr: Ouzbékistan
+dv_name-cn: 乌兹别克斯坦
+dv_name-ar: أوزبكستان
+dv_name-ru: Узбекистан
+dv_CLDR_display_name: Uzbekistan
+dv_UNTERM_English: Uzbekistan
+dv_UNTERM_English_Formal: the Republic of Uzbekistan
+dv_UNTERM_Spanish_Formal: la República de Uzbekistán
+dv_UNTERM_Spanish: Uzbekistán
+dv_UNTERM_French: Ouzbékistan (l') [masc.]
+dv_UNTERM_Arabic: أوزبكستان
+dv_UNTERM_Arabic_Formal: جمهورية أوزبكستان
+dv_UNTERM_Chinese: 乌兹别克斯坦
+dv_UNTERM_Chinese_Formal: 乌兹别克斯坦共和国
+dv_UNTERM_French_Formal: la République d'Ouzbékistan
+dv_UNTERM_Russian: Узбекистан
+dv_UNTERM_Russian_Formal: Республика Узбекистан
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Uzbekistan]]"
+dv_Sub-region_Name: "[[Central Asia]]"
+dv_Region: 142
+dv_Sub-region: 143
+dv_Geoname-ID: 1512440
+dv_FIPS: UZ
+dv_FIFA: UZB
+dv_IOC: UZB
+dv_MARC: uz
+dv_GAUL: 261
+dv_WMO: UZ
+dv_ITU: UZB
+dv_DS: UZ
+dv_TLD: .uz
+dv_EDGAR: 2K
+dv_M49: 860
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_ISO3166-1-numeric: 860
+dv_ISO2: UZ
+dv_ISO3: UZB
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan|Uzbekistan]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan.public|Uzbekistan.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan.internal|Uzbekistan.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan.protect|Uzbekistan.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan.private|Uzbekistan.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan.personal|Uzbekistan.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan.secret|Uzbekistan.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Uzbekistan
+dv_name-de: Usbekistan
+dv_Area-Total: 447400
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: UZ
+dv_Capital: "[[Uzbekistan/Counties/Tashkent/City/Taschkent]]"
+dv_Alcohol-l: 3.5
+dv_Language-Id: 469
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 69.3
+dv_has_place_latitude: 41.33
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan|Uzbekistan]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan.public|Uzbekistan.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan.internal|Uzbekistan.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan.protect|Uzbekistan.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan.private|Uzbekistan.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan.personal|Uzbekistan.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan.secret|Uzbekistan.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Uzbekistan
+
 aliases:
   - Uzbekistan
   - Uzbekistán
@@ -343,75 +432,77 @@ Gujarati_Vishwakosh_entry: ઉઝબેકિસ્તાન
 
 # [[Uzbekistan]] 
 
-[	ISO4217-currency_alphabetic	 :: UZS ]
-[	ISO4217-currency_name	 :: Uzbekistan Sum ]
-[	ISO4217-currency_numeric	 :: 860 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: UZBEKISTAN ]
+## [[Uzbekistan]] has Properties...
 
-[	Telephone	 :: 998 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Uzbekistan ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
 [	name-en	 :: Uzbekistan ]
-[	name-es	 :: Uzbekistán ]
-[	name-fr	 :: Ouzbékistan ]
-[	name-cn	 :: 乌兹别克斯坦 ]
-[	name-ar	 :: أوزبكستان ]
-[	name-ru	 :: Узбекистан ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Uzbekistan ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Uzbekistan ]
-[	UNTERM_English_Formal	 :: the Republic of Uzbekistan ]
-[	UNTERM_Spanish_Formal	 :: la República de Uzbekistán ]
-[	UNTERM_Spanish	 :: Uzbekistán ]
-[	UNTERM_French	 :: Ouzbékistan (l') [masc.] ]
-[	UNTERM_Arabic	 :: أوزبكستان ]
-[	UNTERM_Arabic_Formal	 :: جمهورية أوزبكستان ]
-[	UNTERM_Chinese	 :: 乌兹别克斯坦 ]
-[	UNTERM_Chinese_Formal	 :: 乌兹别克斯坦共和国 ]
-[	UNTERM_French_Formal	 :: la République d'Ouzbékistan ]
-[	UNTERM_Russian	 :: Узбекистан ]
-[	UNTERM_Russian_Formal	 :: Республика Узбекистан ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Central Asia]]  
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 143 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 1512440 ]
-[	FIPS	 :: UZ ]
-[	FIFA	 :: UZB ]
-[	IOC	 :: UZB ]
-[	MARC	 :: uz ]
-[	GAUL	 :: 261 ]
-[	WMO	 :: UZ ]
-[	ITU	 :: UZB ]
-[	DS	 :: UZ ]
-[	TLD	 :: .uz ]
-[	EDGAR	 :: 2K ]
-[	M49	 :: 860 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 860 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::UZ]
-[ISO3::UZB] 
-#is_/same_as :: [[../../../../WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Uzbekistan 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Uzbekistan/ReadMe]] 
 
@@ -429,12 +520,12 @@ markerFile: [[Uzbekistan]]
 ```
 
 [name-en::Uzbekistan]
-[name-de::Usbekistan]
-[Area-Total::447400]
-[Area-Land::0]
-has_place_continent:: [[Asia]]  
-[VehicleCode::UZ]
-Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Uzbekistan/Emblem_of_Uzbekistan.svg|350]]
 
@@ -442,12 +533,12 @@ Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]
 
 ![[Uzbekistan/Flag_of_Uzbekistan.svg|350]]
 
-[Alcohol-l::3.5]
-[Language-Id::469]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::69.3]
-[has_place_latitude::41.33]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

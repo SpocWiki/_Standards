@@ -1,5 +1,24 @@
-﻿---
-location: [ 52.0 , 26.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Persian_Gulf,34675]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Indian/Persian_Gulf|Persian_Gulf]]"
+    - "[[/_public/Earth/Ocean/Ocean~Indian/Persian_Gulf.public|Persian_Gulf.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Indian/Persian_Gulf.internal|Persian_Gulf.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Indian/Persian_Gulf.protect|Persian_Gulf.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Indian/Persian_Gulf.private|Persian_Gulf.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Indian/Persian_Gulf.personal|Persian_Gulf.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Indian/Persian_Gulf.secret|Persian_Gulf.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Persian_Gulf,34675]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Indian/Persian_Gulf|Persian_Gulf]]"
+  - "[[/_public/Earth/Ocean/Ocean~Indian/Persian_Gulf.public|Persian_Gulf.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Indian/Persian_Gulf.internal|Persian_Gulf.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Indian/Persian_Gulf.protect|Persian_Gulf.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Indian/Persian_Gulf.private|Persian_Gulf.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Indian/Persian_Gulf.personal|Persian_Gulf.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Indian/Persian_Gulf.secret|Persian_Gulf.secret]]"
+
 aliases:
   - Persian Gulf
   - Arabian Gulf
@@ -75,6 +94,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/PersianGulf%20vue%20sa
 # [[Persian_Gulf]] 
 
 #is_/same_as :: [[WD~Persian_Gulf,34675]] 
+
+## #has_/map  
+
+```leaflet
+id: Persian_Gulf
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Persian_Gulf//
+markerFolder: ./Persian_Gulf/
+coordinates: [[Persian_Gulf]] 
+markerFile: [[Persian_Gulf]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

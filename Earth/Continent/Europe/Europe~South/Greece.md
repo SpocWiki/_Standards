@@ -1,5 +1,93 @@
-﻿---
-location: [ 23.0 , 38.5 ] 
+---
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: GREECE
+dv_Telephone: 30
+dv_Global: true
+dv_Global_Name: World
+dv_name: Greece
+dv_name-en:
+  - Greece
+  - Greece
+dv_name-es: Grecia
+dv_name-fr: Grèce
+dv_name-cn: 希腊
+dv_name-ar: اليونان
+dv_name-ru: Греция
+dv_CLDR_display_name: Greece
+dv_UNTERM_English: Greece
+dv_UNTERM_English_Formal: the Hellenic Republic
+dv_UNTERM_Spanish_Formal: la República Helénica
+dv_UNTERM_Spanish: Grecia
+dv_UNTERM_French: Grèce (la)
+dv_UNTERM_Arabic: اليونان
+dv_UNTERM_Arabic_Formal: الجمهورية الهيلينية
+dv_UNTERM_Chinese: 希腊
+dv_UNTERM_Chinese_Formal: 希腊共和国
+dv_UNTERM_French_Formal: la République hellénique
+dv_UNTERM_Russian: Греция
+dv_UNTERM_Russian_Formal: Греческая Республика
+dv_Region_Name: "[[../../Europe]]"
+dv_Intermediate_Region_Name: "[[Greece]]"
+dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region: 150
+dv_Sub-region: 39
+dv_Geoname-ID: 390903
+dv_FIPS: GR
+dv_FIFA: GRE
+dv_IOC: GRE
+dv_MARC: gr
+dv_GAUL: 97
+dv_WMO: GR
+dv_ITU: GRC
+dv_DS: GR
+dv_TLD: .gr
+dv_EDGAR: J3
+dv_M49: 300
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 300
+dv_ISO2: GR
+dv_ISO3: GRC
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Greece,41|WD~Greece,41]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Greece|Greece]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Greece.public|Greece.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Greece.internal|Greece.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Greece.protect|Greece.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Greece.private|Greece.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Greece.personal|Greece.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Greece.secret|Greece.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Greece
+dv_name-de: Griechenland
+dv_Area-Total: 131957
+dv_Area-Land: 128900
+dv_has_place_continent: "[[_public/Earth/Continent/Europe]]"
+dv_VehicleCode: GR
+dv_Capital: "[[Greece/Regions-Greek/Attica/cities~Attica/Athens|Athens]]"
+dv_Alcohol-l: 10.8
+dv_Language-Id: 491
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 23.0356
+dv_has_place_latitude: 38.6175
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Greece,41|WD~Greece,41]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Greece|Greece]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Greece.public|Greece.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Greece.internal|Greece.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Greece.protect|Greece.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Greece.private|Greece.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Greece.personal|Greece.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Greece.secret|Greece.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Greece
+
 aliases:
   - Greece
   - Grecia
@@ -477,80 +565,82 @@ WIPO_ST_3: GR
 
 # [[Greece]] 
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: GREECE ]
+## [[Greece]] has Properties... 
 
-[	Telephone	 :: 30 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Greece ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
 [	name-en	 :: Greece ]
-[	name-es	 :: Grecia ]
-[	name-fr	 :: Grèce ]
-[	name-cn	 :: 希腊 ]
-[	name-ar	 :: اليونان ]
-[	name-ru	 :: Греция ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Greece ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Greece ]
-[	UNTERM_English_Formal	 :: the Hellenic Republic ]
-[	UNTERM_Spanish_Formal	 :: la República Helénica ]
-[	UNTERM_Spanish	 :: Grecia ]
-[	UNTERM_French	 :: Grèce (la) ]
-[	UNTERM_Arabic	 :: اليونان ]
-[	UNTERM_Arabic_Formal	 :: الجمهورية الهيلينية ]
-[	UNTERM_Chinese	 :: 希腊 ]
-[	UNTERM_Chinese_Formal	 :: 希腊共和国 ]
-[	UNTERM_French_Formal	 :: la République hellénique ]
-[	UNTERM_Russian	 :: Греция ]
-[	UNTERM_Russian_Formal	 :: Греческая Республика ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Southern Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 39 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 390903 ]
-[	FIPS	 :: GR ]
-[	FIFA	 :: GRE ]
-[	IOC	 :: GRE ]
-[	MARC	 :: gr ]
-[	GAUL	 :: 97 ]
-[	WMO	 :: GR ]
-[	ITU	 :: GRC ]
-[	DS	 :: GR ]
-[	TLD	 :: .gr ]
-[	EDGAR	 :: J3 ]
-[	M49	 :: 300 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 300 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::GR] 
-[ISO3::GRC] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Greece,41|WD~Greece,41]] 
+is_a_ = `=this.dv_is_a_`
 
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Greece)
 into a Subfolder named `Greece`, so that this Link into the Sub-Repository works: [[Greece/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Greece 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki!
 
@@ -561,32 +651,33 @@ into a Subfolder named `Greece`, so that this Link into the Sub-Repository works
 
 ```leaflet
 id: Greece
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Greece//
 markerFolder: ./Greece////
 coordinates: [[Greece]] 
 markerFile: [[Greece]] 
+defaultZoom: 6 
 ```
 
 
 [name-en::Greece]
-[name-de::Griechenland]
-[Area-Total::131957]
-[Area-Land::128900]
-has_place_continent:: [[_public/Earth/Continent/Europe]]  
-[VehicleCode::GR]
-Capital :: [[Greece/Regions-Greek/Attica/cities~Attica/Athens|Athens]]   
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[_public/Earth/Continent/Europe/Europe~South/Greece/Coat_of_arms_of_Greece.svg|350]] 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Greece.mp3]]
 ![[_public/Earth/Continent/Europe/Europe~South/Greece/Flag_of_Greece.svg|350]] 
-[Alcohol-l::10.8]
-[Language-Id::491]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::23.0356]
-[has_place_latitude::38.6175]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/parts_  

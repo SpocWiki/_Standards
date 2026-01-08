@@ -2,34 +2,63 @@
 aliases:
   - Johnson,Lyndon_B
   - Lyndon B. Johnson
-  - ''
+  - ""
   - Johnson,Lyndon B
 has_id_wikidata: Q9640
 confidential: private
 cssclasses: private note
 draft: true
-expiryDate: ''
-has_Template: '[[Extract~Note~Template]]'
+expiryDate: ""
+has_Template: "[[Extract~Note~Template]]"
 isDeleted: false
 isReadOnly: false
 keywords: Johnson,Lyndon_B
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle: Johnson,Lyndon_B
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
-  - ''
+  - ""
 title: Johnson,Lyndon_B
 type: private_note
+dv_has_role: "[[../US_President]]"
+dv_is_member_of: "[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]"
+dv_created: 1963-11-22
+dv_cancelled: 1969-01-20
+dv_has_:
+  time_:
+    started: 1908-08-27T00:00:00.000+01:00
+    stopped: 1973-01-22T00:00:00.000+01:00
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Lyndon_B._Johnson,9640|WD~Lyndon_B._Johnson,9640]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B|Johnson,Lyndon_B]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.public|Johnson,Lyndon_B.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.internal|Johnson,Lyndon_B.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.protect|Johnson,Lyndon_B.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.private|Johnson,Lyndon_B.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.personal|Johnson,Lyndon_B.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.secret|Johnson,Lyndon_B.secret]]"
+dv_has_time_started: 1908-08-27
+dv_has_time_stopped: 1973-01-22
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Lyndon_B._Johnson,9640|WD~Lyndon_B._Johnson,9640]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B|Johnson,Lyndon_B]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.public|Johnson,Lyndon_B.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.internal|Johnson,Lyndon_B.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.protect|Johnson,Lyndon_B.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.private|Johnson,Lyndon_B.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.personal|Johnson,Lyndon_B.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.secret|Johnson,Lyndon_B.secret]]"
 ---
 
 # [[Johnson,Lyndon_B]] 
 
-#has_/time_/started :: 1908-08-27
-#has_/time_/stopped  :: 1973-01-22
--   [has_role :: [[../US_President]] ] [is_member_of ::[[../../../../../Knowledge/History.internal/History~USA/US~Democratic_Party]]] ] [created:: 1963-11-22]  [cancelled:: 1969-01-20]  
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
+-   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 #is_/same_as :: [[../../../../WikiData/WD~Lyndon_B._Johnson,9640|WD~Lyndon_B._Johnson,9640]] 
 

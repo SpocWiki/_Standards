@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~European_Bank_for_Reconstruction_and_Development,488981|WD~European_Bank_for_Reconstruction_and_Development,488981]]"
+    - "[[/_Standards/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development|European_Bank_for_Reconstruction_and_Development]]"
+    - "[[/_public/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.public|European_Bank_for_Reconstruction_and_Development.public]]"
+    - "[[/_internal/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.internal|European_Bank_for_Reconstruction_and_Development.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.protect|European_Bank_for_Reconstruction_and_Development.protect]]"
+    - "[[/_private/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.private|European_Bank_for_Reconstruction_and_Development.private]]"
+    - "[[/_personal/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.personal|European_Bank_for_Reconstruction_and_Development.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.secret|European_Bank_for_Reconstruction_and_Development.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~European_Bank_for_Reconstruction_and_Development,488981|WD~European_Bank_for_Reconstruction_and_Development,488981]]"
+  - "[[/_Standards/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development|European_Bank_for_Reconstruction_and_Development]]"
+  - "[[/_public/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.public|European_Bank_for_Reconstruction_and_Development.public]]"
+  - "[[/_internal/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.internal|European_Bank_for_Reconstruction_and_Development.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.protect|European_Bank_for_Reconstruction_and_Development.protect]]"
+  - "[[/_private/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.private|European_Bank_for_Reconstruction_and_Development.private]]"
+  - "[[/_personal/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.personal|European_Bank_for_Reconstruction_and_Development.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/European_Bank_for_Reconstruction_and_Development.secret|European_Bank_for_Reconstruction_and_Development.secret]]"
+
 has_time_started: 1991-01-01 
 aliases:
   - 'European Bank for Reconstruction and Development, shortened to EBRD (French: Banque européenne pour la reconstruction et le développement or BERD'

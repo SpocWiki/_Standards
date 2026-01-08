@@ -14,19 +14,19 @@ tags:
   - geo/City
 type: City
 capital_of:
-  - '[[_Standards/WikiData/WD~Viti_Levu,208198]]'
-  - '[[_Standards/WikiData/WD~Dominion_of_Fiji,5291089]]'
-  - '[[_Standards/WikiData/WD~Fiji,712]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Viti_Levu,208198]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Rewa,1365257]]'
-instance_of: '[[_Standards/WikiData/WD~city,515]]'
-country: '[[_Standards/WikiData/WD~Fiji,712]]'
+  - "[[_Standards/WikiData/WD~Viti_Levu,208198]]"
+  - "[[_Standards/WikiData/WD~Dominion_of_Fiji,5291089]]"
+  - "[[_Standards/WikiData/WD~Fiji,712]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Viti_Levu,208198]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Rewa,1365257]]"
+instance_of: "[[_Standards/WikiData/WD~city,515]]"
+country: "[[_Standards/WikiData/WD~Fiji,712]]"
 official_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Fijian,33295]]'
-  - '[[_Standards/WikiData/WD~Fiji_Hindi,46728]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+12_00,7105]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+  - "[[_Standards/WikiData/WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Fijian,33295]]"
+  - "[[_Standards/WikiData/WD~Fiji_Hindi,46728]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+12_00,7105]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 elevation_above_sea_level: 0
 local_dialing_code:
   - 333
@@ -48,27 +48,51 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Suva%20Banner%20
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Suva%20City.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Suva%2C%20Fiji%2052.jpg
 official_website: https://www.suvacity.org
-ISNI: 0000000111831043
+ISNI: 111831043
 Facebook_username: scc.suvacitycouncil
 YouTube_handle: suvacitycouncil
 demonym:
   - Suvien
   - Suvienne
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 178.45
+dv_has_place_latitude: -18.16667
+dv_name: Suva
+dv_Unknown: 32
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Suva,38807|WD~Suva,38807]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva|Suva]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.public|Suva.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.internal|Suva.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.protect|Suva.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.private|Suva.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.personal|Suva.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.secret|Suva.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Suva,38807|WD~Suva,38807]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva|Suva]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.public|Suva.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.internal|Suva.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.protect|Suva.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.private|Suva.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.personal|Suva.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva.secret|Suva.secret]]"
 ---
 
 # [[Suva]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../../../../Geography/Place]] 
-[has_place_longitude::178.45] 
-[has_place_latitude::-18.16667] 
-[name::Suva] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 has_place_province::  
 Country ::[[../../../../Asia/Asia~South~East/Malay_Archipelago/Indonesia/Counties/Aceh/Fiji]]Micronesia/Fiji]]]  
 [StateId::] 
 [Population::] 
-[Unknown::32] 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Suva,38807|WD~Suva,38807]] 
+Unknown = `=this.dv_Unknown` 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 

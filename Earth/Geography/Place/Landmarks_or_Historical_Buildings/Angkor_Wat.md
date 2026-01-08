@@ -1,5 +1,25 @@
-﻿---
-location: [ 103.866666666 , 13.4125 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Angkor_Wat,43473|WD~Angkor_Wat,43473]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat|Angkor_Wat]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.public|Angkor_Wat.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.internal|Angkor_Wat.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.protect|Angkor_Wat.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.private|Angkor_Wat.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.personal|Angkor_Wat.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.secret|Angkor_Wat.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Angkor_Wat,43473|WD~Angkor_Wat,43473]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat|Angkor_Wat]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.public|Angkor_Wat.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.internal|Angkor_Wat.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.protect|Angkor_Wat.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.private|Angkor_Wat.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.personal|Angkor_Wat.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Angkor_Wat.secret|Angkor_Wat.secret]]"
+
+location: [ 13.4125, 103.866666666] 
 aliases:
   - Angkor Wat
   - អង្គរវត្ត
@@ -46,6 +66,22 @@ video:
 ![[../../../../assets/Angkor_Wat.png]] 
 
 ![[../../../../assets/angkor_wat_simplified.svg]]
+
+## #has_/map  
+
+```leaflet
+id: Angkor_Wat
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Angkor_Wat//
+markerFolder: ./Angkor_Wat/
+coordinates: [[Angkor_Wat]] 
+markerFile: [[Angkor_Wat]] 
+defaultZoom: 15 
+```
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Angkor_Wat,43473|WD~Angkor_Wat,43473]] 
 

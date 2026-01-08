@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[WD~Petronas_Towers,83063]]"
+    - "[[/_Standards/Earth/Geography/Place/Petronas_Towers|Petronas_Towers]]"
+    - "[[/_public/Earth/Geography/Place/Petronas_Towers.public|Petronas_Towers.public]]"
+    - "[[/_internal/Earth/Geography/Place/Petronas_Towers.internal|Petronas_Towers.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Petronas_Towers.protect|Petronas_Towers.protect]]"
+    - "[[/_private/Earth/Geography/Place/Petronas_Towers.private|Petronas_Towers.private]]"
+    - "[[/_personal/Earth/Geography/Place/Petronas_Towers.personal|Petronas_Towers.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Petronas_Towers.secret|Petronas_Towers.secret]]"
+dv_is_same_as:
+  - "[[WD~Petronas_Towers,83063]]"
+  - "[[/_Standards/Earth/Geography/Place/Petronas_Towers|Petronas_Towers]]"
+  - "[[/_public/Earth/Geography/Place/Petronas_Towers.public|Petronas_Towers.public]]"
+  - "[[/_internal/Earth/Geography/Place/Petronas_Towers.internal|Petronas_Towers.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Petronas_Towers.protect|Petronas_Towers.protect]]"
+  - "[[/_private/Earth/Geography/Place/Petronas_Towers.private|Petronas_Towers.private]]"
+  - "[[/_personal/Earth/Geography/Place/Petronas_Towers.personal|Petronas_Towers.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Petronas_Towers.secret|Petronas_Towers.secret]]"
+
 has_time_started: 1993-03-01 
-location: [ 101.711666666 , 3.157777777 ] 
+location: [ 3.157777777, 101.711666666 ] 
 aliases:
   - Petronas Towers
   - Petronas Twin Towers
@@ -61,6 +81,20 @@ street_address: Menara Berkembar Petronas, Pusat Bandaraya Kuala Lumpur, 50088, 
 ![[../../../assets/Petronas_Towers.png]] 
 
 #is_/same_as :: [[WD~Petronas_Towers,83063]] 
+
+## #has_/map  
+
+```leaflet
+id: Petronas_Towers
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Petronas_Towers//
+markerFolder: ./Petronas_Towers/
+coordinates: [[Petronas_Towers]] 
+markerFile: [[Petronas_Towers]] 
+defaultZoom: 17 
+```
 
 ## #has_/text_of_/abstract 
 

@@ -1,5 +1,92 @@
-﻿---
-location: [ 14.5 , 35.883333333 ] 
+---
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: MALTA
+dv_Telephone: 356
+dv_Global: true
+dv_Global_Name: World
+dv_name: Malta
+dv_name-en:
+  - Malta
+  - Malta
+dv_name-es: Malta
+dv_name-fr: Malte
+dv_name-cn: 马耳他
+dv_name-ar: مالطة
+dv_name-ru: Мальта
+dv_CLDR_display_name: Malta
+dv_UNTERM_English: Malta
+dv_UNTERM_English_Formal: the Republic of Malta
+dv_UNTERM_Spanish_Formal: la República de Malta
+dv_UNTERM_Spanish: Malta
+dv_UNTERM_French: Malte [fém.]
+dv_UNTERM_Arabic: مالطة
+dv_UNTERM_Arabic_Formal: جمهورية مالطة
+dv_UNTERM_Chinese: 马耳他
+dv_UNTERM_Chinese_Formal: 马耳他共和国
+dv_UNTERM_French_Formal: la République de Malte
+dv_UNTERM_Russian: Мальта
+dv_UNTERM_Russian_Formal: Республика Мальта
+dv_Region_Name: "[[../../Europe]]"
+dv_Intermediate_Region_Name: "[[Malta]]"
+dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region: 150
+dv_Sub-region: 39
+dv_Geoname-ID: 2562770
+dv_FIPS: MT
+dv_FIFA: MLT
+dv_IOC: MLT
+dv_MARC: mm
+dv_GAUL: 156
+dv_WMO: ML
+dv_ITU: MLT
+dv_DS: M
+dv_TLD: .mt
+dv_EDGAR: O1
+dv_M49: 470
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 470
+dv_ISO2: MT
+dv_ISO3: MLT
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Malta,233|WD~Malta,233]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Malta|Malta]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Malta.public|Malta.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Malta.internal|Malta.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Malta.protect|Malta.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Malta.private|Malta.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Malta.personal|Malta.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Malta.secret|Malta.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Malta
+dv_name-de: Malta
+dv_Area-Total: 316
+dv_Area-Land: 320
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: M
+dv_Capital: "[[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]"
+dv_Alcohol-l: 4.3
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 14.52
+dv_has_place_latitude: 35.9
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Malta,233|WD~Malta,233]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Malta|Malta]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Malta.public|Malta.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Malta.internal|Malta.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Malta.protect|Malta.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Malta.private|Malta.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Malta.personal|Malta.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Malta.secret|Malta.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Malta
+
 aliases:
   - Malta
   - Malte
@@ -324,76 +411,78 @@ icon: flag-mt
 
 # [[Malta]] 
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: MALTA ]
+## [[Malta]] has Properties... 
 
-[	Telephone	 :: 356 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Malta ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
 [	name-en	 :: Malta ]
-[	name-es	 :: Malta ]
-[	name-fr	 :: Malte ]
-[	name-cn	 :: 马耳他 ]
-[	name-ar	 :: مالطة ]
-[	name-ru	 :: Мальта ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Malta ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Malta ]
-[	UNTERM_English_Formal	 :: the Republic of Malta ]
-[	UNTERM_Spanish_Formal	 :: la República de Malta ]
-[	UNTERM_Spanish	 :: Malta ]
-[	UNTERM_French	 :: Malte [fém.] ]
-[	UNTERM_Arabic	 :: مالطة ]
-[	UNTERM_Arabic_Formal	 :: جمهورية مالطة ]
-[	UNTERM_Chinese	 :: 马耳他 ]
-[	UNTERM_Chinese_Formal	 :: 马耳他共和国 ]
-[	UNTERM_French_Formal	 :: la République de Malte ]
-[	UNTERM_Russian	 :: Мальта ]
-[	UNTERM_Russian_Formal	 :: Республика Мальта ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Southern Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 39 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2562770 ]
-[	FIPS	 :: MT ]
-[	FIFA	 :: MLT ]
-[	IOC	 :: MLT ]
-[	MARC	 :: mm ]
-[	GAUL	 :: 156 ]
-[	WMO	 :: ML ]
-[	ITU	 :: MLT ]
-[	DS	 :: M ]
-[	TLD	 :: .mt ]
-[	EDGAR	 :: O1 ]
-[	M49	 :: 470 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 470 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::MT]
-[ISO3::MLT] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Malta,233|WD~Malta,233]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Malta 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Malta/ReadMe]] 
 
@@ -401,31 +490,32 @@ For more Details, check out this Repository into this Subfolder:
 
 ```leaflet
 id: Malta
-zoomFeatures: true 
+zoomFeatures: false  
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Malta//
 markerFolder: ./Malta/
 coordinates: [[Malta]] 
 markerFile: [[Malta]] 
+defaultZoom: 7 
 ```
 
 [name-en::Malta]
-[name-de::Malta]
-[Area-Total::316]
-[Area-Land::320]
-has_place_continent:: [[Europe]]  
-[VehicleCode::M]
-Capital :: [[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Malta.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Malta.mp3]]
 ![[Flag_of_Malta.svg|350]]
-[Alcohol-l::4.3]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::14.52]
-[has_place_latitude::35.9]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

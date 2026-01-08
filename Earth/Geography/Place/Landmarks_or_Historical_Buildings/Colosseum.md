@@ -1,6 +1,32 @@
-﻿---
+---
+dv_"Building", "Colosseum: pq39x"
+dv_"Concept", "AmphitheatrumFlavium: 2h23c"
+dv_"HistoricalSite", "Colosseum: 6y9gn"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Colosseum,10285|WD~Colosseum,10285]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum|Colosseum]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.public|Colosseum.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.internal|Colosseum.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.protect|Colosseum.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.private|Colosseum.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.personal|Colosseum.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.secret|Colosseum.secret]]"
+dv_building-colosseum: pq39x"
+dv_concept-amphitheatrumflavium: 2h23c"
+dv_historicalsite-colosseum: 6y9gn"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Colosseum,10285|WD~Colosseum,10285]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum|Colosseum]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.public|Colosseum.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.internal|Colosseum.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.protect|Colosseum.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.private|Colosseum.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.personal|Colosseum.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.secret|Colosseum.secret]]"
+
 has_time_started: 0082-01-01 
-location: [ 12.492222222 , 41.890277777 ] 
+location: [ 41.890277777, 12.492222222 ] 
 aliases:
   - Colosseum
 has_id_wikidata: Q10285
@@ -98,9 +124,9 @@ phone_number: +39-06-774-0091
 P8189: 987007287923905171
 hashtag_: ColosseoRoma
 Wolfram_Language_entity_code:
-  - Entity["Building", "Colosseum::pq39x"]
-  - Entity["Concept", "AmphitheatrumFlavium::2h23c"]
-  - Entity["HistoricalSite", "Colosseum::6y9gn"]
+  - Entity"Building", "Colosseum = `=this.dv_"Building", "Colosseum`
+  - Entity"Concept", "AmphitheatrumFlavium = `=this.dv_"Concept", "AmphitheatrumFlavium`
+  - Entity"HistoricalSite", "Colosseum = `=this.dv_"HistoricalSite", "Colosseum`
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/KOLIZE.html
 street_address:
   - Piazza del Colosseo
@@ -113,6 +139,20 @@ native_label: Colosseum
 ![[../../../../assets/Colosseum.png]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Colosseum,10285|WD~Colosseum,10285]] 
+
+## #has_/map  
+
+```leaflet
+id: Colosseum
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Colosseum//
+markerFolder: ./Colosseum/
+coordinates: [[Colosseum]] 
+markerFile: [[Colosseum]] 
+defaultZoom: 16 
+```
 
 ## #has_/text_of_/abstract 
 

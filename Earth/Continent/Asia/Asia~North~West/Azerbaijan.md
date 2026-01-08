@@ -13,106 +13,194 @@ confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate: ''
+expiryDate: ""
 icon: flag-az
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - az
   - ru
   - hy
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 40.42
   - 49.83
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26840
 tags:
   - geo/Country
 title: Azerbaijan
 type: Country
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Azerbaijan
+dv_ISO4217-currency_alphabetic: AZN
+dv_ISO4217-currency_name: Azerbaijan Manat
+dv_ISO4217-currency_numeric: 944
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: AZERBAIJAN
+dv_Telephone: 994
+dv_Global: true
+dv_Global_Name: World
+dv_name: Azerbaijan
+dv_name-en:
+  - Azerbaijan
+  - Azerbaijan
+dv_name-es: Azerbaiyán
+dv_name-fr: Azerbaïdjan
+dv_name-cn: 阿塞拜疆
+dv_name-ar: أذربيجان
+dv_name-ru: Азербайджан
+dv_CLDR_display_name: Azerbaijan
+dv_UNTERM_English: Azerbaijan
+dv_UNTERM_English_Formal: the Republic of Azerbaijan
+dv_UNTERM_Spanish_Formal: la República de Azerbaiyán
+dv_UNTERM_Spanish: Azerbaiyán
+dv_UNTERM_French: Azerbaïdjan (l') [masc.]
+dv_UNTERM_Arabic: أذربيجان
+dv_UNTERM_Arabic_Formal: جمهورية أذربيجان
+dv_UNTERM_Chinese: 阿塞拜疆
+dv_UNTERM_Chinese_Formal: 阿塞拜疆共和国
+dv_UNTERM_French_Formal: la République d'Azerbaïdjan
+dv_UNTERM_Russian: Азербайджан
+dv_UNTERM_Russian_Formal: Азербайджанская Республика
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Azerbaijan]]"
+dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region: 142
+dv_Sub-region: 145
+dv_Geoname-ID: 587116
+dv_FIPS: AJ
+dv_FIFA: AZE
+dv_IOC: AZE
+dv_MARC: aj
+dv_GAUL: 19
+dv_WMO: AJ
+dv_ITU: AZE
+dv_DS: AZ
+dv_TLD: .az
+dv_EDGAR: 1D
+dv_M49: 31
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_ISO3166-1-numeric: 31
+dv_ISO2: AZ
+dv_ISO3: AZE
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan|Azerbaijan]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public|Azerbaijan.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal|Azerbaijan.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan.protect|Azerbaijan.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan.private|Azerbaijan.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal|Azerbaijan.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret|Azerbaijan.secret]]"
+dv_name-de: Aserbaidshan
+dv_Area-Total: 86600
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: AZ
+dv_Capital: "[[Azerbaijan/Counties/Bakı/City/Baku]]"
+dv_Alcohol-l: 10.6
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 49.83
+dv_has_place_latitude: 40.42
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Azerbaijan
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan|Azerbaijan]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public|Azerbaijan.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal|Azerbaijan.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan.protect|Azerbaijan.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan.private|Azerbaijan.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal|Azerbaijan.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret|Azerbaijan.secret]]"
 ---
 
 # [[Azerbaijan]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Azerbaijan 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Azerbaijan/ReadMe]] 
 
 
-[	ISO4217-currency_alphabetic	 :: AZN ]
-[	ISO4217-currency_name	 :: Azerbaijan Manat ]
-[	ISO4217-currency_numeric	 :: 944 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: AZERBAIJAN ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 994 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Azerbaijan ]
+name = `=this.dv_name`
 [	name-en	 :: Azerbaijan ]
-[	name-es	 :: Azerbaiyán ]
-[	name-fr	 :: Azerbaïdjan ]
-[	name-cn	 :: 阿塞拜疆 ]
-[	name-ar	 :: أذربيجان ]
-[	name-ru	 :: Азербайджан ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Azerbaijan ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Azerbaijan ]
-[	UNTERM_English_Formal	 :: the Republic of Azerbaijan ]
-[	UNTERM_Spanish_Formal	 :: la República de Azerbaiyán ]
-[	UNTERM_Spanish	 :: Azerbaiyán ]
-[	UNTERM_French	 :: Azerbaïdjan (l') [masc.] ]
-[	UNTERM_Arabic	 :: أذربيجان ]
-[	UNTERM_Arabic_Formal	 :: جمهورية أذربيجان ]
-[	UNTERM_Chinese	 :: 阿塞拜疆 ]
-[	UNTERM_Chinese_Formal	 :: 阿塞拜疆共和国 ]
-[	UNTERM_French_Formal	 :: la République d'Azerbaïdjan ]
-[	UNTERM_Russian	 :: Азербайджан ]
-[	UNTERM_Russian_Formal	 :: Азербайджанская Республика ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Asia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 145 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 587116 ]
-[	FIPS	 :: AJ ]
-[	FIFA	 :: AZE ]
-[	IOC	 :: AZE ]
-[	MARC	 :: aj ]
-[	GAUL	 :: 19 ]
-[	WMO	 :: AJ ]
-[	ITU	 :: AZE ]
-[	DS	 :: AZ ]
-[	TLD	 :: .az ]
-[	EDGAR	 :: 1D ]
-[	M49	 :: 31 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 031 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::AZ]
-[ISO3::AZE] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -127,12 +215,12 @@ markerFolder: ./Azerbaijan/
 ```
 
 [name-en::Azerbaijan]
-[name-de::Aserbaidshan]
-[Area-Total::86600]
-[Area-Land::0]
-has_place_continent:: [[Asia]]  
-[VehicleCode::AZ]
-Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Azerbaijan/Emblem_of_Azerbaijan.svg|350]]
 
@@ -140,12 +228,12 @@ Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]
 
 ![[Azerbaijan/Flag_of_Azerbaijan.svg|350]]
 
-[Alcohol-l::10.6]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::49.83]
-[has_place_latitude::40.42]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

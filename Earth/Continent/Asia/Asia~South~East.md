@@ -1,8 +1,30 @@
-﻿---
-location: [ 105.1 , 12.0 ] 
+---
+dv_"Concept", "SoutheastAsia: x8m5q"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Southeast_Asia,11708|WD~Southeast_Asia,11708]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East|Asia~South~East]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East.public|Asia~South~East.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East.internal|Asia~South~East.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East.protect|Asia~South~East.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East.private|Asia~South~East.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East.personal|Asia~South~East.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East.secret|Asia~South~East.secret]]"
+dv_concept-southeastasia: x8m5q"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Southeast_Asia,11708|WD~Southeast_Asia,11708]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East|Asia~South~East]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East.public|Asia~South~East.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East.internal|Asia~South~East.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East.protect|Asia~South~East.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East.private|Asia~South~East.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East.personal|Asia~South~East.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East.secret|Asia~South~East.secret]]"
+
+location: [ 12.0, 105.1 ] 
 aliases:
 has_id_wikidata: Q11708
-Wolfram_Language_entity_code: Entity["Concept", "SoutheastAsia::x8m5q"]
+Wolfram_Language_entity_code: Entity"Concept", "SoutheastAsia = `=this.dv_"Concept", "SoutheastAsia`
 MeSH_tree_code: Z01.252.145
 coordinates_of_northernmost_point: Point(97.57 28.55)
 number_of_out_of_school_children: 18579005

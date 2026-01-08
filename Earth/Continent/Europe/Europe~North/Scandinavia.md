@@ -1,5 +1,25 @@
-﻿---
-location: [ 14.760936 , 64.779642 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia|Scandinavia]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia.public|Scandinavia.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia.internal|Scandinavia.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia.protect|Scandinavia.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia.private|Scandinavia.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia.personal|Scandinavia.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia.secret|Scandinavia.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia|Scandinavia]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia.public|Scandinavia.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia.internal|Scandinavia.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia.protect|Scandinavia.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia.private|Scandinavia.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia.personal|Scandinavia.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia.secret|Scandinavia.secret]]"
+
+location: [ 64.779642, 14.760936 ] 
 aliases:
   - Skandinavien
   - Scandinavia
@@ -52,6 +72,20 @@ coordinates_of_southernmost_point: Point(11.969566111 54.55969)
 # [[Scandinavia]] 
 
 #is_/same_as :: [[WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]] 
+
+## #has_/map  
+
+```leaflet
+id: Scandinavia
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Scandinavia//
+markerFolder: ./Scandinavia/
+coordinates: [[Scandinavia]] 
+markerFile: [[Scandinavia]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

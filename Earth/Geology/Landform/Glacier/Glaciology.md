@@ -4,33 +4,52 @@ aliases:
   - Glaciology
 has_id_wikidata: Q52120
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~ice_cap,878077]]'
-  - '[[_Standards/WikiData/WD~ice_sheet,12599]]'
-  - '[[_Standards/WikiData/WD~glacier,35666]]'
-  - '[[_Standards/WikiData/WD~ice_shelf,46966]]'
+  - "[[_Standards/WikiData/WD~ice_cap,878077]]"
+  - "[[_Standards/WikiData/WD~ice_sheet,12599]]"
+  - "[[_Standards/WikiData/WD~glacier,35666]]"
+  - "[[_Standards/WikiData/WD~ice_shelf,46966]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~branch_of_geology,87058424]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~cryology,2383547]]'
+  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~branch_of_geology,87058424]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~cryology,2383547]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Geography,3189123]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Glaciers,21830071]]'
-practiced_by: '[[_Standards/WikiData/WD~glaciologist,15623737]]'
+  - "[[_Standards/WikiData/WD~WikiProject_Geography,3189123]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Glaciers,21830071]]"
+practiced_by: "[[_Standards/WikiData/WD~glaciologist,15623737]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~geology,1069]]'
-  - '[[_Standards/WikiData/WD~Earth_science,8008]]'
-  - '[[_Standards/WikiData/WD~hydrology,42250]]'
+  - "[[_Standards/WikiData/WD~geology,1069]]"
+  - "[[_Standards/WikiData/WD~Earth_science,8008]]"
+  - "[[_Standards/WikiData/WD~hydrology,42250]]"
 OmegaWiki_Defined_Meaning: 1655
 Colon_Classification: H421
 GitHub_topic: glaciology
 Dewey_Decimal_Classification: 551.31
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Glacier.zermatt.arp.750pix.jpg
 Commons_category: Glaciology
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Glaciology,52120|WD~Glaciology,52120]]"
+    - "[[/_Standards/Earth/Geology/Landform/Glacier/Glaciology|Glaciology]]"
+    - "[[/_public/Earth/Geology/Landform/Glacier/Glaciology.public|Glaciology.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Glacier/Glaciology.internal|Glaciology.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Glacier/Glaciology.protect|Glaciology.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Glacier/Glaciology.private|Glaciology.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Glacier/Glaciology.personal|Glaciology.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Glacier/Glaciology.secret|Glaciology.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Glaciology,52120|WD~Glaciology,52120]]"
+  - "[[/_Standards/Earth/Geology/Landform/Glacier/Glaciology|Glaciology]]"
+  - "[[/_public/Earth/Geology/Landform/Glacier/Glaciology.public|Glaciology.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Glacier/Glaciology.internal|Glaciology.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Glacier/Glaciology.protect|Glaciology.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Glacier/Glaciology.private|Glaciology.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Glacier/Glaciology.personal|Glaciology.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Glacier/Glaciology.secret|Glaciology.secret]]"
 ---
 
 # [[Glaciology]] 

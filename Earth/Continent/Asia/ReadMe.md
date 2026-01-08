@@ -1,5 +1,22 @@
-
-
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/ReadMe|ReadMe]]"
+    - "[[/_public/Earth/Continent/Asia/ReadMe.public|ReadMe.public]]"
+    - "[[/_internal/Earth/Continent/Asia/ReadMe.internal|ReadMe.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/ReadMe.protect|ReadMe.protect]]"
+    - "[[/_private/Earth/Continent/Asia/ReadMe.private|ReadMe.private]]"
+    - "[[/_personal/Earth/Continent/Asia/ReadMe.personal|ReadMe.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/ReadMe.secret|ReadMe.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/ReadMe|ReadMe]]"
+  - "[[/_public/Earth/Continent/Asia/ReadMe.public|ReadMe.public]]"
+  - "[[/_internal/Earth/Continent/Asia/ReadMe.internal|ReadMe.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/ReadMe.protect|ReadMe.protect]]"
+  - "[[/_private/Earth/Continent/Asia/ReadMe.private|ReadMe.private]]"
+  - "[[/_personal/Earth/Continent/Asia/ReadMe.personal|ReadMe.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/ReadMe.secret|ReadMe.secret]]"
+---
 
 
 ## Confidential Links & Embeds: 

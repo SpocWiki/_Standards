@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Earth-Orbit|Earth-Orbit]]"
+    - "[[/_public/Earth/Earth-Orbit.public|Earth-Orbit.public]]"
+    - "[[/_internal/Earth/Earth-Orbit.internal|Earth-Orbit.internal]]"
+    - "[[/_protect/Earth/Earth-Orbit.protect|Earth-Orbit.protect]]"
+    - "[[/_private/Earth/Earth-Orbit.private|Earth-Orbit.private]]"
+    - "[[/_personal/Earth/Earth-Orbit.personal|Earth-Orbit.personal]]"
+    - "[[/_secret/Earth/Earth-Orbit.secret|Earth-Orbit.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Earth-Orbit|Earth-Orbit]]"
+  - "[[/_public/Earth/Earth-Orbit.public|Earth-Orbit.public]]"
+  - "[[/_internal/Earth/Earth-Orbit.internal|Earth-Orbit.internal]]"
+  - "[[/_protect/Earth/Earth-Orbit.protect|Earth-Orbit.protect]]"
+  - "[[/_private/Earth/Earth-Orbit.private|Earth-Orbit.private]]"
+  - "[[/_personal/Earth/Earth-Orbit.personal|Earth-Orbit.personal]]"
+  - "[[/_secret/Earth/Earth-Orbit.secret|Earth-Orbit.secret]]"
+---
 
 # [[Earth-Orbit]] 
 

@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Neuschwanstein_Castle,4152|WD~Neuschwanstein_Castle,4152]]"
+    - "[[/_Standards/Earth/Geography/Place/Neuschwanstein_Castle|Neuschwanstein_Castle]]"
+    - "[[/_public/Earth/Geography/Place/Neuschwanstein_Castle.public|Neuschwanstein_Castle.public]]"
+    - "[[/_internal/Earth/Geography/Place/Neuschwanstein_Castle.internal|Neuschwanstein_Castle.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Neuschwanstein_Castle.protect|Neuschwanstein_Castle.protect]]"
+    - "[[/_private/Earth/Geography/Place/Neuschwanstein_Castle.private|Neuschwanstein_Castle.private]]"
+    - "[[/_personal/Earth/Geography/Place/Neuschwanstein_Castle.personal|Neuschwanstein_Castle.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Neuschwanstein_Castle.secret|Neuschwanstein_Castle.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Neuschwanstein_Castle,4152|WD~Neuschwanstein_Castle,4152]]"
+  - "[[/_Standards/Earth/Geography/Place/Neuschwanstein_Castle|Neuschwanstein_Castle]]"
+  - "[[/_public/Earth/Geography/Place/Neuschwanstein_Castle.public|Neuschwanstein_Castle.public]]"
+  - "[[/_internal/Earth/Geography/Place/Neuschwanstein_Castle.internal|Neuschwanstein_Castle.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Neuschwanstein_Castle.protect|Neuschwanstein_Castle.protect]]"
+  - "[[/_private/Earth/Geography/Place/Neuschwanstein_Castle.private|Neuschwanstein_Castle.private]]"
+  - "[[/_personal/Earth/Geography/Place/Neuschwanstein_Castle.personal|Neuschwanstein_Castle.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Neuschwanstein_Castle.secret|Neuschwanstein_Castle.secret]]"
+
 has_time_started: 1869-01-01 
-location: [ 10.749441807 , 47.557488542 ] 
+location: [ 47.557488542, 10.749441807 ] 
 aliases:
   - Neuschwanstein Castle
   - Neuschwanstein_Castle
@@ -78,6 +98,20 @@ street_address: Neuschwansteinstraße 20, 87645 Hohenschwangau
 ![[../../../assets/Neuschwanstein_Castle.png]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Neuschwanstein_Castle,4152|WD~Neuschwanstein_Castle,4152]] 
+
+## #has_/map  
+
+```leaflet
+id: Neuschwanstein_Castle
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Neuschwanstein_Castle//
+markerFolder: ./Neuschwanstein_Castle/
+coordinates: [[Neuschwanstein_Castle]] 
+markerFile: [[Neuschwanstein_Castle]] 
+defaultZoom: 17 
+```
 
 ## #has_/text_of_/abstract 
 

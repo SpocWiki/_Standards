@@ -1,5 +1,25 @@
-﻿---
-location: [ 79.5 , 9.833333333 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Palk_Strait,186299]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait|Palk_Strait]]"
+    - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.public|Palk_Strait.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.internal|Palk_Strait.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.protect|Palk_Strait.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.private|Palk_Strait.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.personal|Palk_Strait.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.secret|Palk_Strait.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Palk_Strait,186299]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait|Palk_Strait]]"
+  - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.public|Palk_Strait.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.internal|Palk_Strait.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.protect|Palk_Strait.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.private|Palk_Strait.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.personal|Palk_Strait.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.secret|Palk_Strait.secret]]"
+
+location: [ 9.833333333, 79.5 ] 
 aliases:
   - Palk Strait
   - Palk_Strait
@@ -31,6 +51,20 @@ coordinate_location: Point(79.5 9.833333333)
 # [[Palk_Strait]] 
 
 #is_/same_as :: [[WD~Palk_Strait,186299]] 
+
+## #has_/map  
+
+```leaflet
+id: Palk_Strait
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Palk_Strait//
+markerFolder: ./Palk_Strait/
+coordinates: [[Palk_Strait]] 
+markerFile: [[Palk_Strait]] 
+defaultZoom: 6 
+```
 
 ## #has_/text_of_/abstract 
 

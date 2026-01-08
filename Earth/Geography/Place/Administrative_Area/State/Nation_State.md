@@ -5,14 +5,33 @@ aliases:
   - Nation_State
   - Nation State
 has_id_wikidata: Q179671
-instance_of: '[[_Standards/WikiData/WD~state_model,2325086]]'
-subclass_of: '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-described_by_source: '[[_Standards/WikiData/WD~Q131705451,131705451]]'
+instance_of: "[[_Standards/WikiData/WD~state_model,2325086]]"
+subclass_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+described_by_source: "[[_Standards/WikiData/WD~Q131705451,131705451]]"
 union_of:
-  - '[[_Standards/WikiData/WD~nation,6266]]'
-  - '[[_Standards/WikiData/WD~state,7275]]'
+  - "[[_Standards/WikiData/WD~nation,6266]]"
+  - "[[_Standards/WikiData/WD~state,7275]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Image%20Germania%20%28painting%29.jpg
 described_at_URL: https://wikispooks.com/wiki/Nation_state
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Nation_state,179671]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Nation_State|Nation_State]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Nation_State.public|Nation_State.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Nation_State.internal|Nation_State.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Nation_State.protect|Nation_State.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Nation_State.private|Nation_State.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Nation_State.personal|Nation_State.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Nation_State.secret|Nation_State.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Nation_state,179671]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/State/Nation_State|Nation_State]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/State/Nation_State.public|Nation_State.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/State/Nation_State.internal|Nation_State.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/State/Nation_State.protect|Nation_State.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/State/Nation_State.private|Nation_State.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/State/Nation_State.personal|Nation_State.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/State/Nation_State.secret|Nation_State.secret]]"
 ---
 
 # [[Nation_State]] 

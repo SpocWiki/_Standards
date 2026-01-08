@@ -1,5 +1,99 @@
-﻿---
-location: [ 2.0 , 47.0 ] 
+---
+dv_name: France
+dv_name-en: France
+dv_name-es: Francia
+dv_name-fr: France
+dv_name-cn: 法国
+dv_name-ar: فرنسا
+dv_name-ru: Франция
+dv_name-de: Frankreich
+dv_ISO2: FR
+dv_ISO3: FRA
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~France,142|WD~France,142]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~West/France|France]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~West/France.public|France.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~West/France.internal|France.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~West/France.protect|France.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~West/France.private|France.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~West/France.personal|France.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~West/France.secret|France.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-France
+  image_for_:
+    flag: "![[./France/Flag_of_France.svg|200]] ![](./France/Flag_of_France.svg)"
+    coat_of_arms: "![[./France/Arms_of_the_French_Republic.svg|150]] ![](./France/Arms_of_the_French_Republic.svg)"
+  sound_of_:
+    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3]]"
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: FRANCE
+dv_Telephone: 33
+dv_Global: true
+dv_Global_Name: World
+dv_CLDR_display_name: France
+dv_UNTERM_English: France
+dv_UNTERM_English_Formal: the French Republic
+dv_UNTERM_Spanish_Formal: la República Francesa
+dv_UNTERM_Spanish: Francia
+dv_UNTERM_French: France (la)
+dv_UNTERM_Arabic: فرنسا
+dv_UNTERM_Arabic_Formal: الجمهورية الفرنسية
+dv_UNTERM_Chinese: 法国
+dv_UNTERM_Chinese_Formal: 法兰西共和国
+dv_UNTERM_French_Formal: la République française
+dv_UNTERM_Russian: Франция
+dv_UNTERM_Russian_Formal: Французская Республика
+dv_Region_Name: "[[../../Europe]]"
+dv_Intermediate_Region_Name: "[[France]]"
+dv_Sub-region_Name: "[[Western Europe]]"
+dv_Region: 150
+dv_Sub-region: 155
+dv_Geoname-ID: 3017382
+dv_FIPS: FR
+dv_FIFA: FRA
+dv_IOC: FRA
+dv_MARC: fr
+dv_GAUL: 85
+dv_WMO: FR
+dv_ITU: F
+dv_DS: F
+dv_TLD: .fr
+dv_EDGAR: I0
+dv_M49: 250
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 250
+dv_Area-Total: 543965
+dv_Area-Land: 550100
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: F
+dv_Capital: "[[France/regions~France/Île-de-France/departments~Île-de-France/Paris]]"
+dv_Alcohol-l: 13.7
+dv_Language-Id: 496
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 2.33663
+dv_has_place_latitude: 46.8944
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~France,142|WD~France,142]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~West/France|France]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~West/France.public|France.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~West/France.internal|France.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~West/France.protect|France.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~West/France.private|France.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~West/France.personal|France.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~West/France.secret|France.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-France
+dv_has_image_for_flag: "![[./France/Flag_of_France.svg|200]] ![](./France/Flag_of_France.svg)"
+dv_has_image_for_coat_of_arms: "![[./France/Arms_of_the_French_Republic.svg|150]] ![](./France/Arms_of_the_French_Republic.svg)"
+dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3]]"
+dv_developed_developing_countries: Developed
+
 aliases:
   - France
   - Francia
@@ -591,27 +685,41 @@ relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/France%2
 
 # [[France]] 
 
+## #has_/map  
+
+```leaflet
+id: France
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./France//
+markerFolder: ./France//
+coordinates: [[France]] 
+markerFile: [[France]] 
+defaultZoom: 5 
+```
+
 ## International Names
 
-[	name	 :: France ]
-[	name-en	 :: France ]
-[	name-es	 :: Francia ]
-[	name-fr	 :: France ]
-[	name-cn	 :: 法国 ]
-[	name-ar	 :: فرنسا ]
-[	name-ru	 :: Франция ]
-[name-de::Frankreich]
+name = `=this.dv_name`
+name-en = `=this.dv_name-en`
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
+name-de = `=this.dv_name-de`
 
-[ISO2::FR]
-[ISO3::FRA]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~France,142|WD~France,142]] 
+is_a_ = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
 into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-France 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
@@ -644,7 +752,7 @@ Numbers are of 2022-06
 
 ### #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./France/Flag_of_France.svg|200]] <img src="./France/Flag_of_France.svg" width="200"/> 
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 
 ## #has_/place_/city   
@@ -669,7 +777,6 @@ Population in 1000s as of @2019
 
 
 ## #has_/text_of_/abstract  
-
 
 > **France**, officially the French Republic, is a country located primarily in Western Europe. 
 > It also includes overseas regions and territories in the Americas 
@@ -772,89 +879,79 @@ Population in 1000s as of @2019
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./France/Arms_of_the_French_Republic.svg|150]] <img src="./France/Arms_of_the_French_Republic.svg" width="150"/> 
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
 
-#has_/sound_of_/anthem :: ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3]]
+has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+## [[France]] has Properties... 
 
-### #has_/map  
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-```leaflet
-id: France
-zoomFeatures: true 
-minZoom: 4 
-maxZoom: 18
-geojsonFolder: ./France//
-markerFolder: ./France//
-```
+Telephone = `=this.dv_Telephone`
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: FRANCE ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	Telephone	 :: 33 ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	CLDR_display_name	 :: France ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	UNTERM_English	 :: France ]
-[	UNTERM_English_Formal	 :: the French Republic ]
-[	UNTERM_Spanish_Formal	 :: la República Francesa ]
-[	UNTERM_Spanish	 :: Francia ]
-[	UNTERM_French	 :: France (la) ]
-[	UNTERM_Arabic	 :: فرنسا ]
-[	UNTERM_Arabic_Formal	 :: الجمهورية الفرنسية ]
-[	UNTERM_Chinese	 :: 法国 ]
-[	UNTERM_Chinese_Formal	 :: 法兰西共和国 ]
-[	UNTERM_French_Formal	 :: la République française ]
-[	UNTERM_Russian	 :: Франция ]
-[	UNTERM_Russian_Formal	 :: Французская Республика ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Europe]] 
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 155 ]
-
-[	Geoname-ID	 :: 3017382 ]
-[	FIPS	 :: FR ]
-[	FIFA	 :: FRA ]
-[	IOC	 :: FRA ]
-[	MARC	 :: fr ]
-[	GAUL	 :: 85 ]
-[	WMO	 :: FR ]
-[	ITU	 :: F ]
-[	DS	 :: F ]
-[	TLD	 :: .fr ]
-[	EDGAR	 :: I0 ]
-[	M49	 :: 250 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 250 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
-[Area-Total::543965]
-[Area-Land::550100]
-has_place_continent:: [[Europe]]  
-[VehicleCode::F]
-Capital :: [[Paris]]  
-[Alcohol-l::13.7]
-[Language-Id::496]
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::2.33663]
-[has_place_latitude::46.8944]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

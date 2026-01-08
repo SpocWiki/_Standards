@@ -5,20 +5,20 @@ aliases:
   - Earth_water_cycle
 has_id_wikidata: Q81041
 has_part_s_:
-  - '[[_Standards/WikiData/WD~evaporation,132814]]'
-  - '[[_Standards/WikiData/WD~condensation,166583]]'
-  - '[[_Standards/WikiData/WD~infiltration,1127330]]'
-  - '[[_Standards/WikiData/WD~surface_runoff,1444790]]'
-  - '[[_Standards/WikiData/WD~subsurface_flow,7632182]]'
-  - '[[_Standards/WikiData/WD~fall_of_precipitation,124709932]]'
-subclass_of: '[[_Standards/WikiData/WD~biogeochemical_cycle,846303]]'
+  - "[[_Standards/WikiData/WD~evaporation,132814]]"
+  - "[[_Standards/WikiData/WD~condensation,166583]]"
+  - "[[_Standards/WikiData/WD~infiltration,1127330]]"
+  - "[[_Standards/WikiData/WD~surface_runoff,1444790]]"
+  - "[[_Standards/WikiData/WD~subsurface_flow,7632182]]"
+  - "[[_Standards/WikiData/WD~fall_of_precipitation,124709932]]"
+subclass_of: "[[_Standards/WikiData/WD~biogeochemical_cycle,846303]]"
 facet_of:
-  - '[[_Standards/WikiData/WD~thunderstorm,2857578]]'
-  - '[[_Standards/WikiData/WD~water,283]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-uses: '[[_Standards/WikiData/WD~water,283]]'
-part_of: '[[_Standards/WikiData/WD~hydrology,42250]]'
+  - "[[_Standards/WikiData/WD~thunderstorm,2857578]]"
+  - "[[_Standards/WikiData/WD~water,283]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+uses: "[[_Standards/WikiData/WD~water,283]]"
+part_of: "[[_Standards/WikiData/WD~hydrology,42250]]"
 Dewey_Decimal_Classification:
   - 551.48
   - 631.4
@@ -32,6 +32,25 @@ MeSH_tree_code:
   - G01.311.977
   - G16.500.943
 Commons_category: Water cycle
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Earth_water_cycle,81041|WD~Earth_water_cycle,81041]]"
+    - "[[/_Standards/Earth/Climate/Earth_water_cycle|Earth_water_cycle]]"
+    - "[[/_public/Earth/Climate/Earth_water_cycle.public|Earth_water_cycle.public]]"
+    - "[[/_internal/Earth/Climate/Earth_water_cycle.internal|Earth_water_cycle.internal]]"
+    - "[[/_protect/Earth/Climate/Earth_water_cycle.protect|Earth_water_cycle.protect]]"
+    - "[[/_private/Earth/Climate/Earth_water_cycle.private|Earth_water_cycle.private]]"
+    - "[[/_personal/Earth/Climate/Earth_water_cycle.personal|Earth_water_cycle.personal]]"
+    - "[[/_secret/Earth/Climate/Earth_water_cycle.secret|Earth_water_cycle.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Earth_water_cycle,81041|WD~Earth_water_cycle,81041]]"
+  - "[[/_Standards/Earth/Climate/Earth_water_cycle|Earth_water_cycle]]"
+  - "[[/_public/Earth/Climate/Earth_water_cycle.public|Earth_water_cycle.public]]"
+  - "[[/_internal/Earth/Climate/Earth_water_cycle.internal|Earth_water_cycle.internal]]"
+  - "[[/_protect/Earth/Climate/Earth_water_cycle.protect|Earth_water_cycle.protect]]"
+  - "[[/_private/Earth/Climate/Earth_water_cycle.private|Earth_water_cycle.private]]"
+  - "[[/_personal/Earth/Climate/Earth_water_cycle.personal|Earth_water_cycle.personal]]"
+  - "[[/_secret/Earth/Climate/Earth_water_cycle.secret|Earth_water_cycle.secret]]"
 ---
 
 # [[Earth_water_cycle]]

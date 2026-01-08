@@ -5,15 +5,15 @@ aliases:
   - Continental Shelf
 has_id_wikidata: Q134851
 subclass_of:
-  - '[[_Standards/WikiData/WD~landform,271669]]'
-  - '[[_Standards/WikiData/WD~shallow,2168243]]'
+  - "[[_Standards/WikiData/WD~landform,271669]]"
+  - "[[_Standards/WikiData/WD~shallow,2168243]]"
 different_from:
-  - '[[_Standards/WikiData/WD~continental_rise,332602]]'
-  - '[[_Standards/WikiData/WD~continental_slope,1031696]]'
+  - "[[_Standards/WikiData/WD~continental_rise,332602]]"
+  - "[[_Standards/WikiData/WD~continental_slope,1031696]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 OmegaWiki_Defined_Meaning: 742
 U_S_National_Archives_Identifier: 10636920
 Dewey_Decimal_Classification:
@@ -26,6 +26,25 @@ bathymetry_image:
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000223
 Commons_category: Continental shelf
 GeoNames_feature_code: U.SHFU
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Continental_shelf,134851|WD~Continental_shelf,134851]]"
+    - "[[/_Standards/Earth/Geology/Landform/Continental_Shelf|Continental_Shelf]]"
+    - "[[/_public/Earth/Geology/Landform/Continental_Shelf.public|Continental_Shelf.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Continental_Shelf.internal|Continental_Shelf.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Continental_Shelf.protect|Continental_Shelf.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Continental_Shelf.private|Continental_Shelf.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Continental_Shelf.personal|Continental_Shelf.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Continental_Shelf.secret|Continental_Shelf.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Continental_shelf,134851|WD~Continental_shelf,134851]]"
+  - "[[/_Standards/Earth/Geology/Landform/Continental_Shelf|Continental_Shelf]]"
+  - "[[/_public/Earth/Geology/Landform/Continental_Shelf.public|Continental_Shelf.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Continental_Shelf.internal|Continental_Shelf.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Continental_Shelf.protect|Continental_Shelf.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Continental_Shelf.private|Continental_Shelf.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Continental_Shelf.personal|Continental_Shelf.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Continental_Shelf.secret|Continental_Shelf.secret]]"
 ---
 
 # [[Continental_Shelf]] 

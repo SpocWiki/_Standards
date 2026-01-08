@@ -6,16 +6,35 @@ aliases:
   - Trade Wind
 has_id_wikidata: Q160603
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
-subclass_of: '[[_Standards/WikiData/WD~wind,8094]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+part_of: "[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]"
+subclass_of: "[[_Standards/WikiData/WD~wind,8094]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20Global%20Circulation.jpg
 Krugosvet_article_archived_: geografiya/passaty
 Commons_category: Trade winds
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Trade_wind,160603|WD~Trade_wind,160603]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind|Trade_Wind]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.public|Trade_Wind.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.internal|Trade_Wind.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.protect|Trade_Wind.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.private|Trade_Wind.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.personal|Trade_Wind.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.secret|Trade_Wind.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Trade_wind,160603|WD~Trade_wind,160603]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind|Trade_Wind]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.public|Trade_Wind.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.internal|Trade_Wind.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.protect|Trade_Wind.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.private|Trade_Wind.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.personal|Trade_Wind.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Circulation/Trade_Wind.secret|Trade_Wind.secret]]"
 ---
 
 # [[Trade_Wind]] 

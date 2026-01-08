@@ -41,7 +41,7 @@ U_S_National_Archives_Identifier: 10038408
 dv_is_:
   same_as:
     - "[[../../../../WikiData/WD~Mount_Kilimanjaro,7296|WD~Mount_Kilimanjaro,7296]]"
-    - "[[Mount_Kilimanjaro]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro|Mount_Kilimanjaro]]"
     - "[[/_public/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.public|Mount_Kilimanjaro.public]]"
     - "[[/_internal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.internal|Mount_Kilimanjaro.internal]]"
     - "[[/_protect/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.protect|Mount_Kilimanjaro.protect]]"
@@ -50,7 +50,7 @@ dv_is_:
     - "[[/_secret/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.secret|Mount_Kilimanjaro.secret]]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Mount_Kilimanjaro,7296|WD~Mount_Kilimanjaro,7296]]"
-  - "[[Mount_Kilimanjaro]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro|Mount_Kilimanjaro]]"
   - "[[/_public/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.public|Mount_Kilimanjaro.public]]"
   - "[[/_internal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.internal|Mount_Kilimanjaro.internal]]"
   - "[[/_protect/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.protect|Mount_Kilimanjaro.protect]]"

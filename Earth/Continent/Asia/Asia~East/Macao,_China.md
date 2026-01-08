@@ -11,6 +11,30 @@ SpocWebEntityId: 57605
 tags:
   - geo/Country
 type: Country
+dv_name-en: Macao, China
+dv_name-de: Macao, China
+dv_has_place_continent: "[[../../Asia]]"
+dv_Language-Id: 467
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 113.55
+dv_has_place_latitude: 22.1667
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Macao,_China|Macao,_China]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Macao,_China.public|Macao,_China.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Macao,_China.internal|Macao,_China.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Macao,_China.protect|Macao,_China.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Macao,_China.private|Macao,_China.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Macao,_China.personal|Macao,_China.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Macao,_China.secret|Macao,_China.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Macao,_China|Macao,_China]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Macao,_China.public|Macao,_China.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Macao,_China.internal|Macao,_China.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Macao,_China.protect|Macao,_China.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Macao,_China.private|Macao,_China.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Macao,_China.personal|Macao,_China.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Macao,_China.secret|Macao,_China.secret]]"
 ---
 
 [ISO2::]
@@ -24,19 +48,19 @@ geojsonFolder: ./Macao,_China/
 markerFolder: ./Macao,_China/
 ```
 
-[name-en::Macao, China]
-[name-de::Macao, China]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Asia]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
-[Language-Id::467]
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::113.55]
-[has_place_latitude::22.1667]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

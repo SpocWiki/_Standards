@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~East_African_Community,337456|WD~East_African_Community,337456]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/East_African_Community|East_African_Community]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/East_African_Community.public|East_African_Community.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/East_African_Community.internal|East_African_Community.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/East_African_Community.protect|East_African_Community.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/East_African_Community.private|East_African_Community.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/East_African_Community.personal|East_African_Community.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/East_African_Community.secret|East_African_Community.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~East_African_Community,337456|WD~East_African_Community,337456]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/East_African_Community|East_African_Community]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/East_African_Community.public|East_African_Community.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/East_African_Community.internal|East_African_Community.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/East_African_Community.protect|East_African_Community.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/East_African_Community.private|East_African_Community.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/East_African_Community.personal|East_African_Community.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/East_African_Community.secret|East_African_Community.secret]]"
+
 has_time_started: 2000-07-07 
 aliases:
   - East African Community

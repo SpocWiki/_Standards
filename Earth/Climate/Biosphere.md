@@ -4,21 +4,21 @@ aliases:
   - Biosphere
 has_id_wikidata: Q42762
 studied_by:
-  - '[[_Standards/WikiData/WD~environmental_science,188847]]'
-  - '[[_Standards/WikiData/WD~biospherology,12535564]]'
-  - '[[_Standards/WikiData/WD~global_change_biology,104180455]]'
-has_characteristic: '[[_Standards/WikiData/WD~sustainability,219416]]'
+  - "[[_Standards/WikiData/WD~environmental_science,188847]]"
+  - "[[_Standards/WikiData/WD~biospherology,12535564]]"
+  - "[[_Standards/WikiData/WD~global_change_biology,104180455]]"
+has_characteristic: "[[_Standards/WikiData/WD~sustainability,219416]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Earthling,1349305]]'
-  - '[[_Standards/WikiData/WD~biogeocenosis,2626809]]'
-  - '[[_Standards/WikiData/WD~ecosphere,3175157]]'
-  - '[[_Standards/WikiData/WD~forest,4421]]'
-  - '[[_Standards/WikiData/WD~human,5]]'
-instance_of: '[[_Standards/WikiData/WD~geographic_envelope,2627400]]'
-described_by_source: '[[_Standards/WikiData/WD~Bicho,9656924]]'
-different_from: '[[_Standards/WikiData/WD~artificial_biosphere,19601179]]'
-subclass_of: '[[_Standards/WikiData/WD~spatial_region,26713767]]'
-part_of: '[[_Standards/WikiData/WD~Earth,2]]'
+  - "[[_Standards/WikiData/WD~Earthling,1349305]]"
+  - "[[_Standards/WikiData/WD~biogeocenosis,2626809]]"
+  - "[[_Standards/WikiData/WD~ecosphere,3175157]]"
+  - "[[_Standards/WikiData/WD~forest,4421]]"
+  - "[[_Standards/WikiData/WD~human,5]]"
+instance_of: "[[_Standards/WikiData/WD~geographic_envelope,2627400]]"
+described_by_source: "[[_Standards/WikiData/WD~Bicho,9656924]]"
+different_from: "[[_Standards/WikiData/WD~artificial_biosphere,19601179]]"
+subclass_of: "[[_Standards/WikiData/WD~spatial_region,26713767]]"
+part_of: "[[_Standards/WikiData/WD~Earth,2]]"
 OmegaWiki_Defined_Meaning: 392
 Biology_Online_Biology_Dictionary_entry: biosphere
 UNSPSC_Code: 60103918
@@ -27,6 +27,25 @@ Commons_category: Biosphere
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Biosphere-icon.png
 Dewey_Decimal_Classification: 333.95
 Krugosvet_article: nauka_i_tehnika/biologiya/BIOSFERA.html
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~biosphere,42762]]"
+    - "[[/_Standards/Earth/Climate/Biosphere|Biosphere]]"
+    - "[[/_public/Earth/Climate/Biosphere.public|Biosphere.public]]"
+    - "[[/_internal/Earth/Climate/Biosphere.internal|Biosphere.internal]]"
+    - "[[/_protect/Earth/Climate/Biosphere.protect|Biosphere.protect]]"
+    - "[[/_private/Earth/Climate/Biosphere.private|Biosphere.private]]"
+    - "[[/_personal/Earth/Climate/Biosphere.personal|Biosphere.personal]]"
+    - "[[/_secret/Earth/Climate/Biosphere.secret|Biosphere.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~biosphere,42762]]"
+  - "[[/_Standards/Earth/Climate/Biosphere|Biosphere]]"
+  - "[[/_public/Earth/Climate/Biosphere.public|Biosphere.public]]"
+  - "[[/_internal/Earth/Climate/Biosphere.internal|Biosphere.internal]]"
+  - "[[/_protect/Earth/Climate/Biosphere.protect|Biosphere.protect]]"
+  - "[[/_private/Earth/Climate/Biosphere.private|Biosphere.private]]"
+  - "[[/_personal/Earth/Climate/Biosphere.personal|Biosphere.personal]]"
+  - "[[/_secret/Earth/Climate/Biosphere.secret|Biosphere.secret]]"
 ---
 
 # [[Biosphere]] 

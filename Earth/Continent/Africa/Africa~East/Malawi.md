@@ -316,80 +316,170 @@ Languages:
   - yao
   - tum
   - swk
+dv_ISO4217-currency_alphabetic: MWK
+dv_ISO4217-currency_name: Malawi Kwacha
+dv_ISO4217-currency_numeric: 454
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: MALAWI
+dv_Telephone: 265
+dv_Global: true
+dv_Global_Name: World
+dv_name: Malawi
+dv_name-en:
+  - Malawi
+  - Malawi
+dv_name-es: Malawi
+dv_name-fr: Malawi
+dv_name-cn: 马拉维
+dv_name-ar: ملاوي
+dv_name-ru: Малави
+dv_CLDR_display_name: Malawi
+dv_UNTERM_English: Malawi
+dv_UNTERM_English_Formal: the Republic of Malawi
+dv_UNTERM_Spanish_Formal: la República de Malawi
+dv_UNTERM_Spanish: Malawi
+dv_UNTERM_French: Malawi (le)
+dv_UNTERM_Arabic: ملاوي
+dv_UNTERM_Arabic_Formal: جمهورية ملاوي
+dv_UNTERM_Chinese: 马拉维
+dv_UNTERM_Chinese_Formal: 马拉维共和国
+dv_UNTERM_French_Formal: la République du Malawi
+dv_UNTERM_Russian: Малави
+dv_UNTERM_Russian_Formal: Республика Малави
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Eastern Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 14
+dv_Sub-region: 202
+dv_Geoname-ID: 927384
+dv_FIPS: MI
+dv_FIFA: MWI
+dv_IOC: MAW
+dv_MARC: mw
+dv_GAUL: 152
+dv_WMO: MW
+dv_ITU: MWI
+dv_DS: MW
+dv_TLD: .mw
+dv_EDGAR: N7
+dv_M49: 454
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 454
+dv_ISO2: MW
+dv_ISO3: MWI
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Malawi|Malawi]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Malawi.public|Malawi.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal|Malawi.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Malawi.protect|Malawi.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Malawi.private|Malawi.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Malawi
+dv_name-de: Malawi
+dv_Area-Total: 118484
+dv_Area-Land: 94080
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: MW
+dv_Alcohol-l: 1.7
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 33.7
+dv_has_place_latitude: -13.95
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Malawi|Malawi]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Malawi.public|Malawi.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal|Malawi.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Malawi.protect|Malawi.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Malawi.private|Malawi.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Malawi
 ---
 
 # [[Malawi]] 
 
-[	ISO4217-currency_alphabetic	 :: MWK ]
-[	ISO4217-currency_name	 :: Malawi Kwacha ]
-[	ISO4217-currency_numeric	 :: 454 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: MALAWI ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 265 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Malawi ]
+name = `=this.dv_name`
 [	name-en	 :: Malawi ]
-[	name-es	 :: Malawi ]
-[	name-fr	 :: Malawi ]
-[	name-cn	 :: 马拉维 ]
-[	name-ar	 :: ملاوي ]
-[	name-ru	 :: Малави ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Malawi ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Malawi ]
-[	UNTERM_English_Formal	 :: the Republic of Malawi ]
-[	UNTERM_Spanish_Formal	 :: la República de Malawi ]
-[	UNTERM_Spanish	 :: Malawi ]
-[	UNTERM_French	 :: Malawi (le) ]
-[	UNTERM_Arabic	 :: ملاوي ]
-[	UNTERM_Arabic_Formal	 :: جمهورية ملاوي ]
-[	UNTERM_Chinese	 :: 马拉维 ]
-[	UNTERM_Chinese_Formal	 :: 马拉维共和国 ]
-[	UNTERM_French_Formal	 :: la République du Malawi ]
-[	UNTERM_Russian	 :: Малави ]
-[	UNTERM_Russian_Formal	 :: Республика Малави ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Eastern Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 14 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 927384 ]
-[	FIPS	 :: MI ]
-[	FIFA	 :: MWI ]
-[	IOC	 :: MAW ]
-[	MARC	 :: mw ]
-[	GAUL	 :: 152 ]
-[	WMO	 :: MW ]
-[	ITU	 :: MWI ]
-[	DS	 :: MW ]
-[	TLD	 :: .mw ]
-[	EDGAR	 :: N7 ]
-[	M49	 :: 454 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
-[	Least_Developed_Countries	 :: x ]
-[	Small_Island_Developing_States	 ::  ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 454 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::MW]
-[ISO3::MWI]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Malawi 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Malawi/ReadMe]] 
 
@@ -405,11 +495,11 @@ markerFolder: ./Malawi//
 ```
 
 [name-en::Malawi]
-[name-de::Malawi]
-[Area-Total::118484]
-[Area-Land::94080]
-has_place_continent:: [[Africa]]  
-[VehicleCode::MW]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Malawi/Districts~Malawi/Lilongwe]]  
 
 ![[Coat_of_arms_of_Malawi.svg|550]]
@@ -417,12 +507,12 @@ Capital :: [[Malawi/Districts~Malawi/Lilongwe]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Malawi.mp3]]
 
 ![[Flag_of_Malawi.svg|350]]
-[Alcohol-l::1.7]
-[Language-Id::499]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::33.7]
-[has_place_latitude::-13.95]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

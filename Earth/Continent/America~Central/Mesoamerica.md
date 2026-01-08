@@ -1,4 +1,26 @@
-﻿---
+---
+dv_"Concept", "Mesoamerica: 2543j"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Mesoamerica,13703]]"
+    - "[[/_Standards/Earth/Continent/America~Central/Mesoamerica|Mesoamerica]]"
+    - "[[/_public/Earth/Continent/America~Central/Mesoamerica.public|Mesoamerica.public]]"
+    - "[[/_internal/Earth/Continent/America~Central/Mesoamerica.internal|Mesoamerica.internal]]"
+    - "[[/_protect/Earth/Continent/America~Central/Mesoamerica.protect|Mesoamerica.protect]]"
+    - "[[/_private/Earth/Continent/America~Central/Mesoamerica.private|Mesoamerica.private]]"
+    - "[[/_personal/Earth/Continent/America~Central/Mesoamerica.personal|Mesoamerica.personal]]"
+    - "[[/_secret/Earth/Continent/America~Central/Mesoamerica.secret|Mesoamerica.secret]]"
+dv_concept-mesoamerica: 2543j"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Mesoamerica,13703]]"
+  - "[[/_Standards/Earth/Continent/America~Central/Mesoamerica|Mesoamerica]]"
+  - "[[/_public/Earth/Continent/America~Central/Mesoamerica.public|Mesoamerica.public]]"
+  - "[[/_internal/Earth/Continent/America~Central/Mesoamerica.internal|Mesoamerica.internal]]"
+  - "[[/_protect/Earth/Continent/America~Central/Mesoamerica.protect|Mesoamerica.protect]]"
+  - "[[/_private/Earth/Continent/America~Central/Mesoamerica.private|Mesoamerica.private]]"
+  - "[[/_personal/Earth/Continent/America~Central/Mesoamerica.personal|Mesoamerica.personal]]"
+  - "[[/_secret/Earth/Continent/America~Central/Mesoamerica.secret|Mesoamerica.secret]]"
+
 has_time_stopped: 1521-01-01 
 aliases:
 has_id_wikidata: Q13703
@@ -20,7 +42,7 @@ part_of:
   - "[[_Standards/WikiData/WD~North_America,49]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mesoam%C3%A9rica%20relief%20map%20with%20continental%20scale.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Templo%20tazumal.jpg
-Wolfram_Language_entity_code: Entity["Concept", "Mesoamerica::2543j"]
+Wolfram_Language_entity_code: Entity"Concept", "Mesoamerica = `=this.dv_"Concept", "Mesoamerica`
 subreddit: mesoamerica
 Commons_category: Mesoamerica
 coordinate_location: Point(-93.0 16.0)

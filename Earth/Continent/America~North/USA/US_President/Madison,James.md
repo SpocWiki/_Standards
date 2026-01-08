@@ -7,28 +7,57 @@ has_id_wikidata: Q11813
 confidential: private
 cssclasses: private note
 draft: true
-expiryDate: ''
-has_Template: '[[Extract~Note~Template]]'
+expiryDate: ""
+has_Template: "[[Extract~Note~Template]]"
 isDeleted: false
 isReadOnly: false
 keywords: Madison,James
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle: Madison,James
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
-  - ''
+  - ""
 title: Madison,James
 type: private_note
+dv_has_role: "[[../US_President]]"
+dv_is_member_of: "[[Democratic-Republican Party]]"
+dv_created: 1809-03-04
+dv_cancelled: 1817-03-04
+dv_has_:
+  time_:
+    started: 1751-03-16T00:00:00.000+00:53
+    stopped: 1836-06-28T00:00:00.000+00:53
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~James_Madison,11813|WD~James_Madison,11813]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Madison,James|Madison,James]]"
+    - "[[/_public/Earth/Continent/America~North/USA/US_President/Madison,James.public|Madison,James.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Madison,James.internal|Madison,James.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Madison,James.protect|Madison,James.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/US_President/Madison,James.private|Madison,James.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Madison,James.personal|Madison,James.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Madison,James.secret|Madison,James.secret]]"
+dv_has_time_started: 1751-03-16
+dv_has_time_stopped: 1836-06-28
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~James_Madison,11813|WD~James_Madison,11813]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Madison,James|Madison,James]]"
+  - "[[/_public/Earth/Continent/America~North/USA/US_President/Madison,James.public|Madison,James.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Madison,James.internal|Madison,James.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Madison,James.protect|Madison,James.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/US_President/Madison,James.private|Madison,James.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Madison,James.personal|Madison,James.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Madison,James.secret|Madison,James.secret]]"
 ---
 
 # [[Madison,James]] 
 
-#has_/time_/started :: 1751-03-16
-#has_/time_/stopped  :: 1836-06-28
--   [has_role :: [[../US_President]] ] [is_member_of :: [[Democratic-Republican Party]] ] [created:: 1809-03-04]  [cancelled:: 1817-03-04]  
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
+-   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 #is_/same_as :: [[../../../../WikiData/WD~James_Madison,11813|WD~James_Madison,11813]] 
 

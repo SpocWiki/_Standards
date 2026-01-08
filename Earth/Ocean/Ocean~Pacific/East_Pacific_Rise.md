@@ -4,13 +4,32 @@ aliases:
   - East_Pacific_Rise
 has_id_wikidata: Q604529
 instance_of:
-  - '[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]'
-  - '[[_Standards/WikiData/WD~mountain_range,46831]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+  - "[[_Standards/WikiData/WD~mid_ocean_ridge,104698]]"
+  - "[[_Standards/WikiData/WD~mountain_range,46831]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
 coordinate_location: Point(-114.5 -20.0)
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/East%20Pacific%20Rise.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/East%20Pacific%20Rise.jpg
 Commons_category: East Pacific Rise
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~East_Pacific_Rise,604529|WD~East_Pacific_Rise,604529]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise|East_Pacific_Rise]]"
+    - "[[/_public/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.public|East_Pacific_Rise.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.internal|East_Pacific_Rise.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.protect|East_Pacific_Rise.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.private|East_Pacific_Rise.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.personal|East_Pacific_Rise.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.secret|East_Pacific_Rise.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~East_Pacific_Rise,604529|WD~East_Pacific_Rise,604529]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise|East_Pacific_Rise]]"
+  - "[[/_public/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.public|East_Pacific_Rise.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.internal|East_Pacific_Rise.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.protect|East_Pacific_Rise.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.private|East_Pacific_Rise.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.personal|East_Pacific_Rise.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Pacific/East_Pacific_Rise.secret|East_Pacific_Rise.secret]]"
 ---
 
 # [[East_Pacific_Rise]]

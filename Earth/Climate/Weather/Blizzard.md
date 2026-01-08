@@ -3,25 +3,25 @@ aliases:
   - Blizzard
 has_id_wikidata: Q205418
 location:
-  - '[[_Standards/WikiData/WD~temperate_climate,167466]]'
-  - '[[_Standards/WikiData/WD~polar_climate,193372]]'
-  - '[[_Standards/WikiData/WD~high_mountains,15766]]'
-different_from: '[[_Standards/WikiData/WD~blizzard,258298]]'
+  - "[[_Standards/WikiData/WD~temperate_climate,167466]]"
+  - "[[_Standards/WikiData/WD~polar_climate,193372]]"
+  - "[[_Standards/WikiData/WD~high_mountains,15766]]"
+different_from: "[[_Standards/WikiData/WD~blizzard,258298]]"
 has_effect:
-  - '[[_Standards/WikiData/WD~snowdrift,611668]]'
-  - '[[_Standards/WikiData/WD~power_outage,828827]]'
+  - "[[_Standards/WikiData/WD~snowdrift,611668]]"
+  - "[[_Standards/WikiData/WD~power_outage,828827]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~snow_storm,1136525]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+subclass_of: "[[_Standards/WikiData/WD~snow_storm,1136525]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~blowing_snow,1704023]]'
-  - '[[_Standards/WikiData/WD~snow,7561]]'
-  - '[[_Standards/WikiData/WD~wind,8094]]'
-instance_of: '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]'
+  - "[[_Standards/WikiData/WD~blowing_snow,1704023]]"
+  - "[[_Standards/WikiData/WD~snow,7561]]"
+  - "[[_Standards/WikiData/WD~wind,8094]]"
+instance_of: "[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]"
 OmegaWiki_Defined_Meaning: 897988
 Commons_gallery: Blizzard
 IMDb_keyword: blizzard
@@ -29,7 +29,26 @@ Commons_category: Blizzards
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Blizzard%20Nemo%20Snowfall%20Timelapse.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20Kauffmann%20-%20Enduring%20the%20snowstorm.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000903
-P8189: 987007283243305171
+P8189: 987007283243305200
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Blizzard,205418|WD~Blizzard,205418]]"
+    - "[[/_Standards/Earth/Climate/Weather/Blizzard|Blizzard]]"
+    - "[[/_public/Earth/Climate/Weather/Blizzard.public|Blizzard.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Blizzard.internal|Blizzard.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Blizzard.protect|Blizzard.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Blizzard.private|Blizzard.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Blizzard.personal|Blizzard.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Blizzard.secret|Blizzard.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Blizzard,205418|WD~Blizzard,205418]]"
+  - "[[/_Standards/Earth/Climate/Weather/Blizzard|Blizzard]]"
+  - "[[/_public/Earth/Climate/Weather/Blizzard.public|Blizzard.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Blizzard.internal|Blizzard.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Blizzard.protect|Blizzard.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Blizzard.private|Blizzard.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Blizzard.personal|Blizzard.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Blizzard.secret|Blizzard.secret]]"
 ---
 
 # [[Blizzard]] 

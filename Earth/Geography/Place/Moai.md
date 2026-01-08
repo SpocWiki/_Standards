@@ -16,6 +16,25 @@ Commons_gallery: Isla de Pascua
 Commons_category: Moai
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Moai.stl
+dv_is_:
+  same_as:
+    - "[[WD~Moai,20350]]"
+    - "[[/_Standards/Earth/Geography/Place/Moai|Moai]]"
+    - "[[/_public/Earth/Geography/Place/Moai.public|Moai.public]]"
+    - "[[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Moai.protect|Moai.protect]]"
+    - "[[/_private/Earth/Geography/Place/Moai.private|Moai.private]]"
+    - "[[/_personal/Earth/Geography/Place/Moai.personal|Moai.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Moai.secret|Moai.secret]]"
+dv_is_same_as:
+  - "[[WD~Moai,20350]]"
+  - "[[/_Standards/Earth/Geography/Place/Moai|Moai]]"
+  - "[[/_public/Earth/Geography/Place/Moai.public|Moai.public]]"
+  - "[[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Moai.protect|Moai.protect]]"
+  - "[[/_private/Earth/Geography/Place/Moai.private|Moai.private]]"
+  - "[[/_personal/Earth/Geography/Place/Moai.personal|Moai.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Moai.secret|Moai.secret]]"
 ---
 
 # [[Moai]] 🗿 

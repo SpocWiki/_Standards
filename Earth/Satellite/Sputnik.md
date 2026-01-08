@@ -34,6 +34,25 @@ RIA_Novosti_reference: "41593109"
 Wolfram_Language_entity_code: Entity["Satellite", "00002"]
 Commons_category: Sputnik-1
 Google_Doodle: sputnik-50th-anniversary
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Sputnik_1,80811]]"
+    - "[[/_Standards/Earth/Satellite/Sputnik|Sputnik]]"
+    - "[[/_public/Earth/Satellite/Sputnik.public|Sputnik.public]]"
+    - "[[/_internal/Earth/Satellite/Sputnik.internal|Sputnik.internal]]"
+    - "[[/_protect/Earth/Satellite/Sputnik.protect|Sputnik.protect]]"
+    - "[[/_private/Earth/Satellite/Sputnik.private|Sputnik.private]]"
+    - "[[/_personal/Earth/Satellite/Sputnik.personal|Sputnik.personal]]"
+    - "[[/_secret/Earth/Satellite/Sputnik.secret|Sputnik.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Sputnik_1,80811]]"
+  - "[[/_Standards/Earth/Satellite/Sputnik|Sputnik]]"
+  - "[[/_public/Earth/Satellite/Sputnik.public|Sputnik.public]]"
+  - "[[/_internal/Earth/Satellite/Sputnik.internal|Sputnik.internal]]"
+  - "[[/_protect/Earth/Satellite/Sputnik.protect|Sputnik.protect]]"
+  - "[[/_private/Earth/Satellite/Sputnik.private|Sputnik.private]]"
+  - "[[/_personal/Earth/Satellite/Sputnik.personal|Sputnik.personal]]"
+  - "[[/_secret/Earth/Satellite/Sputnik.secret|Sputnik.secret]]"
 ---
 
 # [[Sputnik]] 

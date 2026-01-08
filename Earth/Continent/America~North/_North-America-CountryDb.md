@@ -1,8 +1,25 @@
 ---
 aliases:
   - _North-America-CountryDb
-  - ' North-America-CountryDb'
+  - " North-America-CountryDb"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/_North-America-CountryDb|_North-America-CountryDb]]"
+    - "[[/_public/Earth/Continent/America~North/_North-America-CountryDb.public|_North-America-CountryDb.public]]"
+    - "[[/_internal/Earth/Continent/America~North/_North-America-CountryDb.internal|_North-America-CountryDb.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/_North-America-CountryDb.protect|_North-America-CountryDb.protect]]"
+    - "[[/_private/Earth/Continent/America~North/_North-America-CountryDb.private|_North-America-CountryDb.private]]"
+    - "[[/_personal/Earth/Continent/America~North/_North-America-CountryDb.personal|_North-America-CountryDb.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/_North-America-CountryDb.secret|_North-America-CountryDb.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/_North-America-CountryDb|_North-America-CountryDb]]"
+  - "[[/_public/Earth/Continent/America~North/_North-America-CountryDb.public|_North-America-CountryDb.public]]"
+  - "[[/_internal/Earth/Continent/America~North/_North-America-CountryDb.internal|_North-America-CountryDb.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/_North-America-CountryDb.protect|_North-America-CountryDb.protect]]"
+  - "[[/_private/Earth/Continent/America~North/_North-America-CountryDb.private|_North-America-CountryDb.private]]"
+  - "[[/_personal/Earth/Continent/America~North/_North-America-CountryDb.personal|_North-America-CountryDb.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/_North-America-CountryDb.secret|_North-America-CountryDb.secret]]"
 ---
 
 ```yaml:dbfolder

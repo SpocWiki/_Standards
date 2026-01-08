@@ -32,6 +32,25 @@ equivalent_class: https://dbpedia.org/ontology/MountainRange
 Provenio_UUID: 5566e9b2-71f3-462a-9caf-f22bbf266f09
 GeoNames_feature_code: T.MTS
 OpenStreetMap_tag: natural=mountain_range
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Mountain_range,46831]]"
+    - "[[/_Standards/Earth/Geology/Landform/Mountain_Range|Mountain_Range]]"
+    - "[[/_public/Earth/Geology/Landform/Mountain_Range.public|Mountain_Range.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Mountain_Range.internal|Mountain_Range.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Mountain_Range.protect|Mountain_Range.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Mountain_Range.private|Mountain_Range.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Mountain_Range.personal|Mountain_Range.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Mountain_Range.secret|Mountain_Range.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Mountain_range,46831]]"
+  - "[[/_Standards/Earth/Geology/Landform/Mountain_Range|Mountain_Range]]"
+  - "[[/_public/Earth/Geology/Landform/Mountain_Range.public|Mountain_Range.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Mountain_Range.internal|Mountain_Range.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Mountain_Range.protect|Mountain_Range.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Mountain_Range.private|Mountain_Range.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Mountain_Range.personal|Mountain_Range.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Mountain_Range.secret|Mountain_Range.secret]]"
 ---
 
 # [[Mountain_Range]] 

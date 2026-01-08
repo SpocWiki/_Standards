@@ -1,7 +1,24 @@
 ---
 location:
-- 35
-- -77.0
+  - 35
+  - -77
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~5-Eastern|USA~5-Eastern]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~5-Eastern.public|USA~5-Eastern.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~5-Eastern.internal|USA~5-Eastern.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~5-Eastern.protect|USA~5-Eastern.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~5-Eastern.private|USA~5-Eastern.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~5-Eastern.personal|USA~5-Eastern.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~5-Eastern.secret|USA~5-Eastern.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~5-Eastern|USA~5-Eastern]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~5-Eastern.public|USA~5-Eastern.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~5-Eastern.internal|USA~5-Eastern.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~5-Eastern.protect|USA~5-Eastern.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~5-Eastern.private|USA~5-Eastern.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~5-Eastern.personal|USA~5-Eastern.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~5-Eastern.secret|USA~5-Eastern.secret]]"
 ---
 
 # [[USA~5-Eastern]] 

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Arctica|Arctica]]"
+    - "[[/_public/Earth/Continent/Arctica.public|Arctica.public]]"
+    - "[[/_internal/Earth/Continent/Arctica.internal|Arctica.internal]]"
+    - "[[/_protect/Earth/Continent/Arctica.protect|Arctica.protect]]"
+    - "[[/_private/Earth/Continent/Arctica.private|Arctica.private]]"
+    - "[[/_personal/Earth/Continent/Arctica.personal|Arctica.personal]]"
+    - "[[/_secret/Earth/Continent/Arctica.secret|Arctica.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Arctica|Arctica]]"
+  - "[[/_public/Earth/Continent/Arctica.public|Arctica.public]]"
+  - "[[/_internal/Earth/Continent/Arctica.internal|Arctica.internal]]"
+  - "[[/_protect/Earth/Continent/Arctica.protect|Arctica.protect]]"
+  - "[[/_private/Earth/Continent/Arctica.private|Arctica.private]]"
+  - "[[/_personal/Earth/Continent/Arctica.personal|Arctica.personal]]"
+  - "[[/_secret/Earth/Continent/Arctica.secret|Arctica.secret]]"
+---
 # [[Arctica]]
 
 ## #has_/map 

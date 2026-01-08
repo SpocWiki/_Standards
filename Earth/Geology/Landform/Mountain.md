@@ -9,21 +9,46 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - mountain
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_mountain Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_mountain Class
 type: Type
+dv_#is_:
+  sub_class_of: "[[../Landform]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Mountain,8502|WD~Mountain,8502]]"
+    - "[[/_Standards/Earth/Geology/Landform/Mountain|Mountain]]"
+    - "[[/_public/Earth/Geology/Landform/Mountain.public|Mountain.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Mountain.internal|Mountain.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Mountain.protect|Mountain.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Mountain.private|Mountain.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Mountain.personal|Mountain.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Mountain.secret|Mountain.secret]]"
+dv_is_sub_class_of: "[[../Landform]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Mountain,8502|WD~Mountain,8502]]"
+  - "[[/_Standards/Earth/Geology/Landform/Mountain|Mountain]]"
+  - "[[/_public/Earth/Geology/Landform/Mountain.public|Mountain.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Mountain.internal|Mountain.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Mountain.protect|Mountain.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Mountain.private|Mountain.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Mountain.personal|Mountain.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Mountain.secret|Mountain.secret]]"
 ---
 
 # [[Mountain]]  
@@ -35,9 +60,9 @@ Tag Instances like this:
 
 A mountain, like Mount Whitney or Mount Everest.
 
-[ #is_/sub_class_of ::[[../Landform]]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`]] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 #is_/same_as :: [[../../../WikiData/WD~Mountain,8502|WD~Mountain,8502]] 
 

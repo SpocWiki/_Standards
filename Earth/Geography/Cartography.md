@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q42515
 instance_of:
   - "[[_Standards/WikiData/WD~industry,268592]]"
@@ -49,6 +49,25 @@ described_at_URL: http://www.inspire-geoportal.eu/kartografie.html
 Mastodon_instance_URL: https://mapstodon.space
 Iconclass_notation: 25A9
 P8189: "987007284876105171"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cartography,42515|WD~Cartography,42515]]"
+    - "[[/_Standards/Earth/Geography/Cartography|Cartography]]"
+    - "[[/_public/Earth/Geography/Cartography.public|Cartography.public]]"
+    - "[[/_internal/Earth/Geography/Cartography.internal|Cartography.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography.protect|Cartography.protect]]"
+    - "[[/_private/Earth/Geography/Cartography.private|Cartography.private]]"
+    - "[[/_personal/Earth/Geography/Cartography.personal|Cartography.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography.secret|Cartography.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cartography,42515|WD~Cartography,42515]]"
+  - "[[/_Standards/Earth/Geography/Cartography|Cartography]]"
+  - "[[/_public/Earth/Geography/Cartography.public|Cartography.public]]"
+  - "[[/_internal/Earth/Geography/Cartography.internal|Cartography.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography.protect|Cartography.protect]]"
+  - "[[/_private/Earth/Geography/Cartography.private|Cartography.private]]"
+  - "[[/_personal/Earth/Geography/Cartography.personal|Cartography.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography.secret|Cartography.secret]]"
 ---
 
 # [[Cartography]] 

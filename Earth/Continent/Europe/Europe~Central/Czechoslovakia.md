@@ -1,7 +1,39 @@
-﻿---
+---
+dv_has_:
+  time_:
+    started: 1918-10-28T00:00:00.000+01:00
+    stopped: 1993-01-01T00:00:00.000+01:00
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Czechoslovakia|Czechoslovakia]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Czechoslovakia.public|Czechoslovakia.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.internal|Czechoslovakia.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Czechoslovakia.protect|Czechoslovakia.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Czechoslovakia.private|Czechoslovakia.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.personal|Czechoslovakia.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Czechoslovakia.secret|Czechoslovakia.secret]]"
+dv_#has_:
+  time_:
+    destroyed: 1993-01-01T00:00:00.000+01:00
+dv_ISO2: CZ
+dv_name-en: Czechoslovakia
+dv_name-de: Tschechoslovakei
+dv_has_place_continent: "[[../../Europe]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Czechoslovakia|Czechoslovakia]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Czechoslovakia.public|Czechoslovakia.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.internal|Czechoslovakia.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Czechoslovakia.protect|Czechoslovakia.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Czechoslovakia.private|Czechoslovakia.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.personal|Czechoslovakia.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Czechoslovakia.secret|Czechoslovakia.secret]]"
+dv_has_time_destroyed: 1993-01-01
+
 has_time_started: 1918-10-28 
 has_time_stopped: 1992-12-31 
-location: [ 14.416666666 , 50.083333333 ] 
+location: [ 50.083333333, 14.416666666 ] 
 aliases:
   - Czechoslovakia
 has_id_wikidata: Q33946
@@ -194,13 +226,13 @@ GitHub_topic: czechoslovakia
 Czechoslovakia was created on `$=dv.current().has_time_started`, 
 following the collapse of the Austro-Hungarian Empire after World War I.
 
-The dissolution of Czechoslovakia occurred peacefully on (#has_/time_/destroyed  :: 1993-01-01) , 
+The dissolution of Czechoslovakia occurred peacefully on has_time_destroyed = `=this.dv_has_time_destroyed` , 
 through the process known as the "Velvet Divorce." 
 This led to the creation of two independent states: the Czech Republic and Slovakia.
 
 isDeleted: false
 confidential: public
-[ISO2::CZ]
+ISO2 = `=this.dv_ISO2`
 [ISO3::]
 
 ## #has_/map 
@@ -212,13 +244,16 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Czechoslovakia/
 markerFolder: ./Czechoslovakia/
+coordinates: [[Czechoslovakia]] 
+markerFile: [[Czechoslovakia]] 
+defaultZoom: 5 
 ```
 
-[name-en::Czechoslovakia]
-[name-de::Tschechoslovakei]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Europe]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

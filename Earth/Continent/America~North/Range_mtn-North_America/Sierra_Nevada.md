@@ -37,6 +37,25 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Nevada%
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sierra%20Nevada%20surface.jpg
 described_at_URL: https://openbeta.io/area/7a68eb3f-1d6f-5bdf-863a-b1eeea8dad89/
 Commons_gallery: Sierra Nevada, USA
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Sierra_Nevada,26777|WD~Sierra_Nevada,26777]]"
+    - "[[/_Standards/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada|Sierra_Nevada]]"
+    - "[[/_public/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.public|Sierra_Nevada.public]]"
+    - "[[/_internal/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.internal|Sierra_Nevada.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.protect|Sierra_Nevada.protect]]"
+    - "[[/_private/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.private|Sierra_Nevada.private]]"
+    - "[[/_personal/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.personal|Sierra_Nevada.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.secret|Sierra_Nevada.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sierra_Nevada,26777|WD~Sierra_Nevada,26777]]"
+  - "[[/_Standards/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada|Sierra_Nevada]]"
+  - "[[/_public/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.public|Sierra_Nevada.public]]"
+  - "[[/_internal/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.internal|Sierra_Nevada.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.protect|Sierra_Nevada.protect]]"
+  - "[[/_private/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.private|Sierra_Nevada.private]]"
+  - "[[/_personal/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.personal|Sierra_Nevada.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.secret|Sierra_Nevada.secret]]"
 ---
 
 # [[Sierra_Nevada]] 

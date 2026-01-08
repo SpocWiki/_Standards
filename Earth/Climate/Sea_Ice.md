@@ -11,6 +11,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6kuls%C3%A1rl%C3
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002200
 U_S_National_Archives_Identifier: "10643057"
 Commons_category: Sea ice
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Sea_ice,213926|WD~Sea_ice,213926]]"
+    - "[[/_Standards/Earth/Climate/Sea_Ice|Sea_Ice]]"
+    - "[[/_public/Earth/Climate/Sea_Ice.public|Sea_Ice.public]]"
+    - "[[/_internal/Earth/Climate/Sea_Ice.internal|Sea_Ice.internal]]"
+    - "[[/_protect/Earth/Climate/Sea_Ice.protect|Sea_Ice.protect]]"
+    - "[[/_private/Earth/Climate/Sea_Ice.private|Sea_Ice.private]]"
+    - "[[/_personal/Earth/Climate/Sea_Ice.personal|Sea_Ice.personal]]"
+    - "[[/_secret/Earth/Climate/Sea_Ice.secret|Sea_Ice.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Sea_ice,213926|WD~Sea_ice,213926]]"
+  - "[[/_Standards/Earth/Climate/Sea_Ice|Sea_Ice]]"
+  - "[[/_public/Earth/Climate/Sea_Ice.public|Sea_Ice.public]]"
+  - "[[/_internal/Earth/Climate/Sea_Ice.internal|Sea_Ice.internal]]"
+  - "[[/_protect/Earth/Climate/Sea_Ice.protect|Sea_Ice.protect]]"
+  - "[[/_private/Earth/Climate/Sea_Ice.private|Sea_Ice.private]]"
+  - "[[/_personal/Earth/Climate/Sea_Ice.personal|Sea_Ice.personal]]"
+  - "[[/_secret/Earth/Climate/Sea_Ice.secret|Sea_Ice.secret]]"
 ---
 
 # [[Sea_Ice]] 

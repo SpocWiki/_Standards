@@ -1,8 +1,25 @@
 ---
 aliases:
   - _Europe-CityDB
-  - ' Europe-CityDB'
+  - " Europe-CityDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/_Europe-CityDB|_Europe-CityDB]]"
+    - "[[/_public/Earth/Continent/Europe/_Europe-CityDB.public|_Europe-CityDB.public]]"
+    - "[[/_internal/Earth/Continent/Europe/_Europe-CityDB.internal|_Europe-CityDB.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/_Europe-CityDB.protect|_Europe-CityDB.protect]]"
+    - "[[/_private/Earth/Continent/Europe/_Europe-CityDB.private|_Europe-CityDB.private]]"
+    - "[[/_personal/Earth/Continent/Europe/_Europe-CityDB.personal|_Europe-CityDB.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/_Europe-CityDB.secret|_Europe-CityDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/_Europe-CityDB|_Europe-CityDB]]"
+  - "[[/_public/Earth/Continent/Europe/_Europe-CityDB.public|_Europe-CityDB.public]]"
+  - "[[/_internal/Earth/Continent/Europe/_Europe-CityDB.internal|_Europe-CityDB.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/_Europe-CityDB.protect|_Europe-CityDB.protect]]"
+  - "[[/_private/Earth/Continent/Europe/_Europe-CityDB.private|_Europe-CityDB.private]]"
+  - "[[/_personal/Earth/Continent/Europe/_Europe-CityDB.personal|_Europe-CityDB.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/_Europe-CityDB.secret|_Europe-CityDB.secret]]"
 ---
 
 ```yaml:dbfolder

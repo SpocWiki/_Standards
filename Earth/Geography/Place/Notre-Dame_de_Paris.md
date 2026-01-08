@@ -1,6 +1,28 @@
-﻿---
+---
+dv_"Building", "NotreDameCathedral: 95fcw"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Notre-Dame_de_Paris,2981|WD~Notre-Dame_de_Paris,2981]]"
+    - "[[/_Standards/Earth/Geography/Place/Notre-Dame_de_Paris|Notre-Dame_de_Paris]]"
+    - "[[/_public/Earth/Geography/Place/Notre-Dame_de_Paris.public|Notre-Dame_de_Paris.public]]"
+    - "[[/_internal/Earth/Geography/Place/Notre-Dame_de_Paris.internal|Notre-Dame_de_Paris.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Notre-Dame_de_Paris.protect|Notre-Dame_de_Paris.protect]]"
+    - "[[/_private/Earth/Geography/Place/Notre-Dame_de_Paris.private|Notre-Dame_de_Paris.private]]"
+    - "[[/_personal/Earth/Geography/Place/Notre-Dame_de_Paris.personal|Notre-Dame_de_Paris.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Notre-Dame_de_Paris.secret|Notre-Dame_de_Paris.secret]]"
+dv_building-notredamecathedral: 95fcw"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Notre-Dame_de_Paris,2981|WD~Notre-Dame_de_Paris,2981]]"
+  - "[[/_Standards/Earth/Geography/Place/Notre-Dame_de_Paris|Notre-Dame_de_Paris]]"
+  - "[[/_public/Earth/Geography/Place/Notre-Dame_de_Paris.public|Notre-Dame_de_Paris.public]]"
+  - "[[/_internal/Earth/Geography/Place/Notre-Dame_de_Paris.internal|Notre-Dame_de_Paris.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Notre-Dame_de_Paris.protect|Notre-Dame_de_Paris.protect]]"
+  - "[[/_private/Earth/Geography/Place/Notre-Dame_de_Paris.private|Notre-Dame_de_Paris.private]]"
+  - "[[/_personal/Earth/Geography/Place/Notre-Dame_de_Paris.personal|Notre-Dame_de_Paris.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Notre-Dame_de_Paris.secret|Notre-Dame_de_Paris.secret]]"
+
 has_time_started: 1163-01-01 
-location: [ 2.3498 , 48.853 ] 
+location: [ 48.853, 2.3498 ] 
 aliases:
   - Notre-Dame de Paris
   - Notre-Dame
@@ -93,7 +115,7 @@ P8189: 987007265892305171
 Commons_gallery: Cathédrale Notre-Dame de Paris
 Commons_category: Cathédrale Notre-Dame de Paris
 Facebook_username: cathedrale.notredamedeparis
-Wolfram_Language_entity_code: Entity["Building", "NotreDameCathedral::95fcw"]
+Wolfram_Language_entity_code: Entity"Building", "NotreDameCathedral = `=this.dv_"Building", "NotreDameCathedral`
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PARIZHSKO_BOGOMATERI_SOBOR.html
 Commons_Institution_page: Notre-Dame de Paris
 Instagram_username: notredamedeparis
@@ -111,6 +133,20 @@ official_website:
 ![[../../../assets/Notre-Dame_de_Paris.png]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Notre-Dame_de_Paris,2981|WD~Notre-Dame_de_Paris,2981]] 
+
+## #has_/map  
+
+```leaflet
+id: Notre-Dame_de_Paris
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Notre-Dame_de_Paris//
+markerFolder: ./Notre-Dame_de_Paris/
+coordinates: [[Notre-Dame_de_Paris]] 
+markerFile: [[Notre-Dame_de_Paris]] 
+defaultZoom: 16 
+```
 
 ## #has_/text_of_/abstract 
 

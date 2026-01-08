@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~Arctic|Pacific~Arctic]]"
+    - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.public|Pacific~Arctic.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.internal|Pacific~Arctic.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.protect|Pacific~Arctic.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.private|Pacific~Arctic.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.personal|Pacific~Arctic.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.secret|Pacific~Arctic.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~Arctic|Pacific~Arctic]]"
+  - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.public|Pacific~Arctic.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.internal|Pacific~Arctic.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.protect|Pacific~Arctic.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.private|Pacific~Arctic.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.personal|Pacific~Arctic.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~Arctic.secret|Pacific~Arctic.secret]]"
+---
 # [[Pacific~Arctic]] 
 
 ## Edit 

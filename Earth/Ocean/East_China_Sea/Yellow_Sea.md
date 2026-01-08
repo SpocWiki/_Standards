@@ -1,5 +1,25 @@
-﻿---
-location: [ 123.0 , 35.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Yellow_Sea,37960|WD~Yellow_Sea,37960]]"
+    - "[[/_Standards/Earth/Ocean/East_China_Sea/Yellow_Sea|Yellow_Sea]]"
+    - "[[/_public/Earth/Ocean/East_China_Sea/Yellow_Sea.public|Yellow_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/East_China_Sea/Yellow_Sea.internal|Yellow_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/East_China_Sea/Yellow_Sea.protect|Yellow_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/East_China_Sea/Yellow_Sea.private|Yellow_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/East_China_Sea/Yellow_Sea.personal|Yellow_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/East_China_Sea/Yellow_Sea.secret|Yellow_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Yellow_Sea,37960|WD~Yellow_Sea,37960]]"
+  - "[[/_Standards/Earth/Ocean/East_China_Sea/Yellow_Sea|Yellow_Sea]]"
+  - "[[/_public/Earth/Ocean/East_China_Sea/Yellow_Sea.public|Yellow_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/East_China_Sea/Yellow_Sea.internal|Yellow_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/East_China_Sea/Yellow_Sea.protect|Yellow_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/East_China_Sea/Yellow_Sea.private|Yellow_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/East_China_Sea/Yellow_Sea.personal|Yellow_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/East_China_Sea/Yellow_Sea.secret|Yellow_Sea.secret]]"
+
+location: [ 35.0, 123.0 ] 
 aliases:
   - Yellow Sea
   - 黄海
@@ -60,6 +80,20 @@ Commons_category: Yellow Sea
 # [[Yellow_Sea]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Yellow_Sea,37960|WD~Yellow_Sea,37960]]   
+
+## #has_/map  
+
+```leaflet
+id: Yellow_Sea
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Yellow_Sea//
+markerFolder: ./Yellow_Sea/
+coordinates: [[Yellow_Sea]] 
+markerFile: [[Yellow_Sea]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

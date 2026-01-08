@@ -10,21 +10,44 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - camping_pitch
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_camping_pitch Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_camping_pitch Class
 type: Type
+dv_#is_:
+  sub_class_of: "[[../Accommodation]]"
+dv_#has_:
+  properties: "[ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Geography/Place/Accommodation/Camping_Pitch|Camping_Pitch]]"
+    - "[[/_public/Earth/Geography/Place/Accommodation/Camping_Pitch.public|Camping_Pitch.public]]"
+    - "[[/_internal/Earth/Geography/Place/Accommodation/Camping_Pitch.internal|Camping_Pitch.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Accommodation/Camping_Pitch.protect|Camping_Pitch.protect]]"
+    - "[[/_private/Earth/Geography/Place/Accommodation/Camping_Pitch.private|Camping_Pitch.private]]"
+    - "[[/_personal/Earth/Geography/Place/Accommodation/Camping_Pitch.personal|Camping_Pitch.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Accommodation/Camping_Pitch.secret|Camping_Pitch.secret]]"
+dv_is_sub_class_of: "[[../Accommodation]]"
+dv_has_properties: "[ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geography/Place/Accommodation/Camping_Pitch|Camping_Pitch]]"
+  - "[[/_public/Earth/Geography/Place/Accommodation/Camping_Pitch.public|Camping_Pitch.public]]"
+  - "[[/_internal/Earth/Geography/Place/Accommodation/Camping_Pitch.internal|Camping_Pitch.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Accommodation/Camping_Pitch.protect|Camping_Pitch.protect]]"
+  - "[[/_private/Earth/Geography/Place/Accommodation/Camping_Pitch.private|Camping_Pitch.private]]"
+  - "[[/_personal/Earth/Geography/Place/Accommodation/Camping_Pitch.personal|Camping_Pitch.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Accommodation/Camping_Pitch.secret|Camping_Pitch.secret]]"
 ---
 
 Class of all camping_pitchs.
@@ -39,9 +62,9 @@ In British English a campsite, or campground, is an area, usually divided into a
 
 See also the dedicated <a href="https://schema.org/docs/hotels.html">document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
 
-[ #is_/sub_class_of :: [[../Accommodation]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ] ]
+has_properties = `=this.dv_has_properties` ]
 
 
 ## Confidential Links & Embeds: 

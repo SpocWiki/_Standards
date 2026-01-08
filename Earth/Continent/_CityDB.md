@@ -1,8 +1,25 @@
 ---
 aliases:
   - _CityDB
-  - ' CityDB'
+  - " CityDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/_CityDB|_CityDB]]"
+    - "[[/_public/Earth/Continent/_CityDB.public|_CityDB.public]]"
+    - "[[/_internal/Earth/Continent/_CityDB.internal|_CityDB.internal]]"
+    - "[[/_protect/Earth/Continent/_CityDB.protect|_CityDB.protect]]"
+    - "[[/_private/Earth/Continent/_CityDB.private|_CityDB.private]]"
+    - "[[/_personal/Earth/Continent/_CityDB.personal|_CityDB.personal]]"
+    - "[[/_secret/Earth/Continent/_CityDB.secret|_CityDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/_CityDB|_CityDB]]"
+  - "[[/_public/Earth/Continent/_CityDB.public|_CityDB.public]]"
+  - "[[/_internal/Earth/Continent/_CityDB.internal|_CityDB.internal]]"
+  - "[[/_protect/Earth/Continent/_CityDB.protect|_CityDB.protect]]"
+  - "[[/_private/Earth/Continent/_CityDB.private|_CityDB.private]]"
+  - "[[/_personal/Earth/Continent/_CityDB.personal|_CityDB.personal]]"
+  - "[[/_secret/Earth/Continent/_CityDB.secret|_CityDB.secret]]"
 ---
 
 ```yaml:dbfolder

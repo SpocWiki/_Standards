@@ -1,5 +1,98 @@
-﻿---
-location: [ 136.0 , 35.0 ] 
+---
+dv_ISO4217-currency_alphabetic: JPY
+dv_ISO4217-currency_name: Yen
+dv_ISO4217-currency_numeric: 392
+dv_ISO4217-currency_minor_unit: 0
+dv_ISO4217-currency_country_name: JAPAN
+dv_has_:
+  telephone_:
+    Prefix_:
+      International: 10
+      country: 81
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Japan
+dv_Global: true
+dv_Global_Name: World
+dv_name: Japan
+dv_name-en:
+  - Japan
+  - Japan
+dv_name-es: Japón
+dv_name-fr: Japon
+dv_name-cn: 日本
+dv_name-ar: اليابان
+dv_name-ru: Япония
+dv_CLDR_display_name: Japan
+dv_UNTERM_English: Japan
+dv_UNTERM_English_Formal: Japan
+dv_UNTERM_Spanish_Formal: el Japón
+dv_UNTERM_Spanish: Japón (el)
+dv_UNTERM_French: Japon (le)
+dv_UNTERM_Arabic: اليابان
+dv_UNTERM_Arabic_Formal: اليابان
+dv_UNTERM_Chinese: 日本
+dv_UNTERM_Chinese_Formal: 日本国
+dv_UNTERM_French_Formal: le Japon
+dv_UNTERM_Russian: Япония
+dv_UNTERM_Russian_Formal: Япония
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Japan]]"
+dv_Sub-region_Name: "[[Eastern Asia]]"
+dv_Region: 142
+dv_Sub-region: 30
+dv_Geoname-ID: 1861060
+dv_FIPS: JA
+dv_FIFA: JPN
+dv_IOC: JPN
+dv_MARC: ja
+dv_GAUL: 126
+dv_WMO: JP
+dv_ITU: J
+dv_DS: J
+dv_TLD: .jp
+dv_EDGAR: M0
+dv_M49: 392
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 392
+dv_ISO2: JP
+dv_ISO3: JPN
+dv_name-de: Japan
+dv_Area-Total: 377750
+dv_Area-Land: 376520
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: J
+dv_Capital: "[[Japan/Counties/Tokyo/City/Tokio]]"
+dv_Alcohol-l: 8
+dv_Language-Id: 466
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 137.199
+dv_has_place_latitude: 36.8617
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Japan,17|WD~Japan,17]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Japan|Japan]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Japan.public|Japan.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Japan.internal|Japan.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Japan.protect|Japan.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Japan.private|Japan.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Japan.personal|Japan.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Japan.secret|Japan.secret]]"
+dv_has_telephone_prefix_international: 10
+dv_has_telephone_prefix_country: 81
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Japan,17|WD~Japan,17]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Japan|Japan]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Japan.public|Japan.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Japan.internal|Japan.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Japan.protect|Japan.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Japan.private|Japan.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Japan.personal|Japan.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Japan.secret|Japan.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Japan
+
 aliases:
   - Japan
   - Japón
@@ -598,97 +691,99 @@ icon: flag-jp
 
 # [[Japan]] 
 
-[	ISO4217-currency_alphabetic	 :: JPY ]
-[	ISO4217-currency_name	 :: Yen ]
-[	ISO4217-currency_numeric	 :: 392 ]
-[	ISO4217-currency_minor_unit	 :: 0 ]
-[	ISO4217-currency_country_name	 :: JAPAN ]
+## [[Japan]] has Properties...
 
-#has_/telephone_/Prefix_/International :: 010 
-#has_/telephone_/Prefix_/country:: 81 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+has_telephone_prefix_international = `=this.dv_has_telephone_prefix_international`
+has_telephone_prefix_country = `=this.dv_has_telephone_prefix_country`
 
-[	name	 :: Japan ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
 [	name-en	 :: Japan ]
-[	name-es	 :: Japón ]
-[	name-fr	 :: Japon ]
-[	name-cn	 :: 日本 ]
-[	name-ar	 :: اليابان ]
-[	name-ru	 :: Япония ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Japan ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Japan ]
-[	UNTERM_English_Formal	 :: Japan ]
-[	UNTERM_Spanish_Formal	 :: el Japón ]
-[	UNTERM_Spanish	 :: Japón (el) ]
-[	UNTERM_French	 :: Japon (le) ]
-[	UNTERM_Arabic	 :: اليابان ]
-[	UNTERM_Arabic_Formal	 :: اليابان ]
-[	UNTERM_Chinese	 :: 日本 ]
-[	UNTERM_Chinese_Formal	 :: 日本国 ]
-[	UNTERM_French_Formal	 :: le Japon ]
-[	UNTERM_Russian	 :: Япония ]
-[	UNTERM_Russian_Formal	 :: Япония ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Eastern Asia]]  
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 30 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 1861060 ]
-[	FIPS	 :: JA ]
-[	FIFA	 :: JPN ]
-[	IOC	 :: JPN ]
-[	MARC	 :: ja ]
-[	GAUL	 :: 126 ]
-[	WMO	 :: JP ]
-[	ITU	 :: J ]
-[	DS	 :: J ]
-[	TLD	 :: .jp ]
-[	EDGAR	 :: M0 ]
-[	M49	 :: 392 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 392 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::JP]
-[ISO3::JPN] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 [name-en::Japan]
-[name-de::Japan] 
-[Area-Total::377750]
-[Area-Land::376520]
-has_place_continent:: [[Asia]]  
-[VehicleCode::J]
-Capital :: [[Japan/Counties/Tokyo/City/Tokio]]  
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Japan.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Japan.mp3]]
 ![[Japan/Flag_of_Japan.svg|350]]
-[Alcohol-l::8]
-[Language-Id::466]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::137.199]
-[has_place_latitude::36.8617]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
-#is_/same_as :: [[../../../../WikiData/WD~Japan,17|WD~Japan,17]]  
+is_a_ = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Japan)
 into a Subfolder named `Japan`, so that this Link into the Sub-Repository works: [[Japan/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Japan 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki!
 
@@ -701,6 +796,9 @@ minZoom: 3
 maxZoom: 18
 geojsonFolder: ./Japan/
 markerFolder: ./Japan/
+coordinates: [[Japan]] 
+markerFile: [[Japan]] 
+defaultZoom: 5 
 ```
 
 

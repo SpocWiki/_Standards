@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West|Asia~West]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West.public|Asia~West.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West.internal|Asia~West.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West.protect|Asia~West.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West.private|Asia~West.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West.personal|Asia~West.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West.secret|Asia~West.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West|Asia~West]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West.public|Asia~West.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West.internal|Asia~West.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West.protect|Asia~West.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West.private|Asia~West.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West.personal|Asia~West.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West.secret|Asia~West.secret]]"
+---
 
 # [[Asia~West]]
 

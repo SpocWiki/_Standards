@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Economic_Community_of_West_African_States,193272|WD~Economic_Community_of_West_African_States,193272]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States|Economic_Community_of_West_African_States]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.public|Economic_Community_of_West_African_States.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.internal|Economic_Community_of_West_African_States.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.protect|Economic_Community_of_West_African_States.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.private|Economic_Community_of_West_African_States.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.personal|Economic_Community_of_West_African_States.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.secret|Economic_Community_of_West_African_States.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Economic_Community_of_West_African_States,193272|WD~Economic_Community_of_West_African_States,193272]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States|Economic_Community_of_West_African_States]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.public|Economic_Community_of_West_African_States.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.internal|Economic_Community_of_West_African_States.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.protect|Economic_Community_of_West_African_States.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.private|Economic_Community_of_West_African_States.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.personal|Economic_Community_of_West_African_States.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Economic_Community_of_West_African_States.secret|Economic_Community_of_West_African_States.secret]]"
+
 has_time_started: 1975-05-28 
 aliases:
   - Economic Community of West African States 

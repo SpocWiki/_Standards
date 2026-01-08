@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~European_Economic_Community,52847|WD~European_Economic_Community,52847]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community|European_Economic_Community]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.public|European_Economic_Community.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.internal|European_Economic_Community.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.protect|European_Economic_Community.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.private|European_Economic_Community.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.personal|European_Economic_Community.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.secret|European_Economic_Community.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~European_Economic_Community,52847|WD~European_Economic_Community,52847]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community|European_Economic_Community]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.public|European_Economic_Community.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.internal|European_Economic_Community.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.protect|European_Economic_Community.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.private|European_Economic_Community.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.personal|European_Economic_Community.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Economic_Community.secret|European_Economic_Community.secret]]"
+
 has_time_started: 1958-01-01 
 has_time_stopped: 2024-01-01 
 aliases:

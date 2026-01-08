@@ -53,6 +53,33 @@ U_S_National_Archives_Identifier: 10662890
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Flushing%20the%20toilet.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Toilet%20banner.JPG
 Commons_category: Toilets (sanitation fixtures)
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Toilet|Toilet]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Toilet.public|Toilet.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Toilet.internal|Toilet.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Toilet.protect|Toilet.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Toilet.private|Toilet.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Toilet.personal|Toilet.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Toilet.secret|Toilet.secret]]"
+dv_#is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../CivicStructure]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Toilet|Toilet]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Toilet.public|Toilet.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Toilet.internal|Toilet.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Toilet.protect|Toilet.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Toilet.private|Toilet.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Toilet.personal|Toilet.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Toilet.secret|Toilet.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../CivicStructure]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 ---
 
 # [[Toilet]] 🚽 
@@ -64,14 +91,14 @@ Class of all toilets.
 Tag Instances like this: 
 #is_a_/toilet
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of`
 
 A toilet is a room or small building containing one or more toilets (and possibly also urinals) 
 which is available for use by the general public, or by customers or employees of certain businesses.
 
-[ #is_/sub_class_of :: [[../CivicStructure]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 ## #has_/text_of_/abstract 
 

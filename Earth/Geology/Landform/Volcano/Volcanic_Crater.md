@@ -12,12 +12,33 @@ part_of: "[[_Standards/WikiData/WD~volcano,8072]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Cameroon%20craters.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000246
 Commons_category: Volcanic craters
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Volcanic_crater,109391|WD~Volcanic_crater,109391]]"
+    - "[[/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Crater|Volcanic_Crater]]"
+    - "[[/_public/Earth/Geology/Landform/Volcano/Volcanic_Crater.public|Volcanic_Crater.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Volcano/Volcanic_Crater.internal|Volcanic_Crater.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Volcano/Volcanic_Crater.protect|Volcanic_Crater.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Volcano/Volcanic_Crater.private|Volcanic_Crater.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Volcano/Volcanic_Crater.personal|Volcanic_Crater.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Volcano/Volcanic_Crater.secret|Volcanic_Crater.secret]]"
+  similar_to: "[[Caldera]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Volcanic_crater,109391|WD~Volcanic_crater,109391]]"
+  - "[[/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Crater|Volcanic_Crater]]"
+  - "[[/_public/Earth/Geology/Landform/Volcano/Volcanic_Crater.public|Volcanic_Crater.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Volcano/Volcanic_Crater.internal|Volcanic_Crater.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Volcano/Volcanic_Crater.protect|Volcanic_Crater.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Volcano/Volcanic_Crater.private|Volcanic_Crater.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Volcano/Volcanic_Crater.personal|Volcanic_Crater.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Volcano/Volcanic_Crater.secret|Volcanic_Crater.secret]]"
+dv_is_similar_to: "[[Caldera]]"
 ---
 
 # [[Volcanic_Crater]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Volcanic_crater,109391|WD~Volcanic_crater,109391]]  
-#is_/similar_to :: [[Caldera|Caldera]] 
+is_similar_to = `=this.dv_is_similar_to`
 
 | Feature                  | Crater       | Caldera     |
 | ------------------------ | ------------ | ----------- |

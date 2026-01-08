@@ -8,12 +8,31 @@ aliases:
   - Wet_Season
   - Wet Season
 has_id_wikidata: Q3117517
-opposite_of: '[[_Standards/WikiData/WD~dry_season,146575]]'
-followed_by: '[[_Standards/WikiData/WD~dry_season,146575]]'
-follows: '[[_Standards/WikiData/WD~dry_season,146575]]'
-subclass_of: '[[_Standards/WikiData/WD~season,24384]]'
+opposite_of: "[[_Standards/WikiData/WD~dry_season,146575]]"
+followed_by: "[[_Standards/WikiData/WD~dry_season,146575]]"
+follows: "[[_Standards/WikiData/WD~dry_season,146575]]"
+subclass_of: "[[_Standards/WikiData/WD~season,24384]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barron%20falls%20january2005.JPG
 Commons_category: Wet season
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Wet_season,3117517|WD~Wet_season,3117517]]"
+    - "[[/_Standards/Earth/Climate/Season/Wet_Season|Wet_Season]]"
+    - "[[/_public/Earth/Climate/Season/Wet_Season.public|Wet_Season.public]]"
+    - "[[/_internal/Earth/Climate/Season/Wet_Season.internal|Wet_Season.internal]]"
+    - "[[/_protect/Earth/Climate/Season/Wet_Season.protect|Wet_Season.protect]]"
+    - "[[/_private/Earth/Climate/Season/Wet_Season.private|Wet_Season.private]]"
+    - "[[/_personal/Earth/Climate/Season/Wet_Season.personal|Wet_Season.personal]]"
+    - "[[/_secret/Earth/Climate/Season/Wet_Season.secret|Wet_Season.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Wet_season,3117517|WD~Wet_season,3117517]]"
+  - "[[/_Standards/Earth/Climate/Season/Wet_Season|Wet_Season]]"
+  - "[[/_public/Earth/Climate/Season/Wet_Season.public|Wet_Season.public]]"
+  - "[[/_internal/Earth/Climate/Season/Wet_Season.internal|Wet_Season.internal]]"
+  - "[[/_protect/Earth/Climate/Season/Wet_Season.protect|Wet_Season.protect]]"
+  - "[[/_private/Earth/Climate/Season/Wet_Season.private|Wet_Season.private]]"
+  - "[[/_personal/Earth/Climate/Season/Wet_Season.personal|Wet_Season.personal]]"
+  - "[[/_secret/Earth/Climate/Season/Wet_Season.secret|Wet_Season.secret]]"
 ---
 
 # [[Wet_Season]] 

@@ -9,6 +9,25 @@ facet_of:
   - "[[_Standards/WikiData/WD~mining,44497]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Athanasius%20Kircher%20Interior%20of%20the%20earth.jpg
 Commons_category: History of geology
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~History_of_geology,1779809|WD~History_of_geology,1779809]]"
+    - "[[/_Standards/Earth/Geology/History_of_Geology|History_of_Geology]]"
+    - "[[/_public/Earth/Geology/History_of_Geology.public|History_of_Geology.public]]"
+    - "[[/_internal/Earth/Geology/History_of_Geology.internal|History_of_Geology.internal]]"
+    - "[[/_protect/Earth/Geology/History_of_Geology.protect|History_of_Geology.protect]]"
+    - "[[/_private/Earth/Geology/History_of_Geology.private|History_of_Geology.private]]"
+    - "[[/_personal/Earth/Geology/History_of_Geology.personal|History_of_Geology.personal]]"
+    - "[[/_secret/Earth/Geology/History_of_Geology.secret|History_of_Geology.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~History_of_geology,1779809|WD~History_of_geology,1779809]]"
+  - "[[/_Standards/Earth/Geology/History_of_Geology|History_of_Geology]]"
+  - "[[/_public/Earth/Geology/History_of_Geology.public|History_of_Geology.public]]"
+  - "[[/_internal/Earth/Geology/History_of_Geology.internal|History_of_Geology.internal]]"
+  - "[[/_protect/Earth/Geology/History_of_Geology.protect|History_of_Geology.protect]]"
+  - "[[/_private/Earth/Geology/History_of_Geology.private|History_of_Geology.private]]"
+  - "[[/_personal/Earth/Geology/History_of_Geology.personal|History_of_Geology.personal]]"
+  - "[[/_secret/Earth/Geology/History_of_Geology.secret|History_of_Geology.secret]]"
 ---
 
 # [[History_of_Geology]] 

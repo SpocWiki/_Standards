@@ -3,27 +3,27 @@ aliases:
   - Atlas_Mountains
   - Atlas Mountains
 has_id_wikidata: Q130135
-highest_point: '[[_Standards/WikiData/WD~Jbel_Toubkal,503433]]'
+highest_point: "[[_Standards/WikiData/WD~Jbel_Toubkal,503433]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-part_of: '[[_Standards/WikiData/WD~Alpide_belt,847514]]'
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+part_of: "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
 country:
-  - '[[_Standards/WikiData/WD~Algeria,262]]'
-  - '[[_Standards/WikiData/WD~Tunisia,948]]'
-  - '[[_Standards/WikiData/WD~Morocco,1028]]'
-locations: '[[_Standards/WikiData/WD~North_Africa,27381]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+  - "[[_Standards/WikiData/WD~Algeria,262]]"
+  - "[[_Standards/WikiData/WD~Tunisia,948]]"
+  - "[[_Standards/WikiData/WD~Morocco,1028]]"
+locations: "[[_Standards/WikiData/WD~North_Africa,27381]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
 width: 300
 length: 2550
-instance_of: '[[_Standards/WikiData/WD~mountain_range,46831]]'
+instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
 elevation_above_sea_level: 4165
 coordinate_location: Point(-7.916111111 31.061944444)
 locator_map_image:
@@ -31,10 +31,31 @@ locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/AtlasRange.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20mountains.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Mountains%20banner.jpg
-P8189: 987007295068705171
+P8189: 987007295068705200
 Commons_gallery: Atlas Mountains
 Commons_category: Atlas Mountains
-Wolfram_Language_entity_code: Entity["Concept", "AtlasMountains::339j9"]
+Wolfram_Language_entity_code: Entity"Concept", "AtlasMountains = `=this.dv_"Concept", "AtlasMountains`
+dv_"Concept", "AtlasMountains: 339j9"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Atlas_Mountains,130135|WD~Atlas_Mountains,130135]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~North/Atlas_Mountains|Atlas_Mountains]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~North/Atlas_Mountains.public|Atlas_Mountains.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~North/Atlas_Mountains.internal|Atlas_Mountains.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~North/Atlas_Mountains.protect|Atlas_Mountains.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~North/Atlas_Mountains.private|Atlas_Mountains.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~North/Atlas_Mountains.personal|Atlas_Mountains.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~North/Atlas_Mountains.secret|Atlas_Mountains.secret]]"
+dv_concept-atlasmountains: 339j9"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Atlas_Mountains,130135|WD~Atlas_Mountains,130135]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~North/Atlas_Mountains|Atlas_Mountains]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~North/Atlas_Mountains.public|Atlas_Mountains.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~North/Atlas_Mountains.internal|Atlas_Mountains.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~North/Atlas_Mountains.protect|Atlas_Mountains.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~North/Atlas_Mountains.private|Atlas_Mountains.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~North/Atlas_Mountains.personal|Atlas_Mountains.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~North/Atlas_Mountains.secret|Atlas_Mountains.secret]]"
 ---
 
 # [[Atlas_Mountains]] 

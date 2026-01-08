@@ -5,30 +5,49 @@ aliases:
   - Cone Sul
   - Southern_Cone
 has_id_wikidata: Q236118
-instance_of: '[[_Standards/WikiData/WD~region,82794]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Southern_Cone,5256135]]'
+instance_of: "[[_Standards/WikiData/WD~region,82794]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Southern_Cone,5256135]]"
 coordinate_location: Point(-67.9 -39.1)
 population: 135707204
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Chile,298]]'
-  - '[[_Standards/WikiData/WD~Argentina,414]]'
-  - '[[_Standards/WikiData/WD~Paraguay,733]]'
-  - '[[_Standards/WikiData/WD~Bolivia,750]]'
-  - '[[_Standards/WikiData/WD~Uruguay,77]]'
-  - '[[_Standards/WikiData/WD~Brazil,155]]'
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Paraguay,733]]"
+  - "[[_Standards/WikiData/WD~Bolivia,750]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
 country:
-  - '[[_Standards/WikiData/WD~Chile,298]]'
-  - '[[_Standards/WikiData/WD~Argentina,414]]'
-  - '[[_Standards/WikiData/WD~Paraguay,733]]'
-  - '[[_Standards/WikiData/WD~Bolivia,750]]'
-  - '[[_Standards/WikiData/WD~Uruguay,77]]'
-  - '[[_Standards/WikiData/WD~Brazil,155]]'
-continent: '[[_Standards/WikiData/WD~South_America,18]]'
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Paraguay,733]]"
+  - "[[_Standards/WikiData/WD~Bolivia,750]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+continent: "[[_Standards/WikiData/WD~South_America,18]]"
 area: 5712034
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Cono%20Sur.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cono%20Sur.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Zuidkegel%20banner.jpg
 Commons_category: Southern Cone
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Southern_Cone,236118]]"
+    - "[[/_Standards/Earth/Continent/America~South/Southern_Cone|Southern_Cone]]"
+    - "[[/_public/Earth/Continent/America~South/Southern_Cone.public|Southern_Cone.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Southern_Cone.internal|Southern_Cone.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Southern_Cone.protect|Southern_Cone.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Southern_Cone.private|Southern_Cone.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Southern_Cone.personal|Southern_Cone.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Southern_Cone.secret|Southern_Cone.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Southern_Cone,236118]]"
+  - "[[/_Standards/Earth/Continent/America~South/Southern_Cone|Southern_Cone]]"
+  - "[[/_public/Earth/Continent/America~South/Southern_Cone.public|Southern_Cone.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Southern_Cone.internal|Southern_Cone.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Southern_Cone.protect|Southern_Cone.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Southern_Cone.private|Southern_Cone.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Southern_Cone.personal|Southern_Cone.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Southern_Cone.secret|Southern_Cone.secret]]"
 ---
 
 # [[Southern_Cone]] 

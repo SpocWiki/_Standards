@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[wd Pentagon]]"
+    - "[[/_Standards/Earth/Geography/Place/The_Pentagon|The_Pentagon]]"
+    - "[[/_public/Earth/Geography/Place/The_Pentagon.public|The_Pentagon.public]]"
+    - "[[/_internal/Earth/Geography/Place/The_Pentagon.internal|The_Pentagon.internal]]"
+    - "[[/_protect/Earth/Geography/Place/The_Pentagon.protect|The_Pentagon.protect]]"
+    - "[[/_private/Earth/Geography/Place/The_Pentagon.private|The_Pentagon.private]]"
+    - "[[/_personal/Earth/Geography/Place/The_Pentagon.personal|The_Pentagon.personal]]"
+    - "[[/_secret/Earth/Geography/Place/The_Pentagon.secret|The_Pentagon.secret]]"
+dv_is_same_as:
+  - "[[wd Pentagon]]"
+  - "[[/_Standards/Earth/Geography/Place/The_Pentagon|The_Pentagon]]"
+  - "[[/_public/Earth/Geography/Place/The_Pentagon.public|The_Pentagon.public]]"
+  - "[[/_internal/Earth/Geography/Place/The_Pentagon.internal|The_Pentagon.internal]]"
+  - "[[/_protect/Earth/Geography/Place/The_Pentagon.protect|The_Pentagon.protect]]"
+  - "[[/_private/Earth/Geography/Place/The_Pentagon.private|The_Pentagon.private]]"
+  - "[[/_personal/Earth/Geography/Place/The_Pentagon.personal|The_Pentagon.personal]]"
+  - "[[/_secret/Earth/Geography/Place/The_Pentagon.secret|The_Pentagon.secret]]"
+
 has_time_started: 1941-09-11 
 aliases:
   - Pentagon

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American|Antarctic~American]]"
+    - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American.public|Antarctic~American.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American.internal|Antarctic~American.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American.protect|Antarctic~American.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American.private|Antarctic~American.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American.personal|Antarctic~American.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American.secret|Antarctic~American.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American|Antarctic~American]]"
+  - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American.public|Antarctic~American.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American.internal|Antarctic~American.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American.protect|Antarctic~American.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American.private|Antarctic~American.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American.personal|Antarctic~American.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American.secret|Antarctic~American.secret]]"
+---
 # [[Antarctic~American]] 
 
 ## Edit

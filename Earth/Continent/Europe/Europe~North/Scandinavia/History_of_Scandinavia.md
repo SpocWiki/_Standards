@@ -4,12 +4,31 @@ aliases:
   - History_of_Scandinavia
   - History of Scandinavia
 has_id_wikidata: Q568251
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-part_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~Scandinavia,21195]]"
 Dewey_Decimal_Classification: 948
 Commons_category: Nordic Middle Ages
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~History_of_Scandinavia,568251|WD~History_of_Scandinavia,568251]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia|History_of_Scandinavia]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.public|History_of_Scandinavia.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.internal|History_of_Scandinavia.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.protect|History_of_Scandinavia.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.private|History_of_Scandinavia.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.personal|History_of_Scandinavia.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.secret|History_of_Scandinavia.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~History_of_Scandinavia,568251|WD~History_of_Scandinavia,568251]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia|History_of_Scandinavia]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.public|History_of_Scandinavia.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.internal|History_of_Scandinavia.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.protect|History_of_Scandinavia.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.private|History_of_Scandinavia.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.personal|History_of_Scandinavia.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia.secret|History_of_Scandinavia.secret]]"
 ---
 
 # [[History_of_Scandinavia]]

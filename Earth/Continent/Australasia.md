@@ -5,12 +5,33 @@ confidential: public
 isDeleted: false
 SpocWebEntityId: 27157
 location:
-- -30
-- 145
-
+  - -30
+  - 145
 tags:
   - geo/Continent
 type: Continent
+dv_name-en: Australia
+dv_name-de: Australien
+dv_#has_:
+  code: AU
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia|Australasia]]"
+    - "[[/_public/Earth/Continent/Australasia.public|Australasia.public]]"
+    - "[[/_internal/Earth/Continent/Australasia.internal|Australasia.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia.protect|Australasia.protect]]"
+    - "[[/_private/Earth/Continent/Australasia.private|Australasia.private]]"
+    - "[[/_personal/Earth/Continent/Australasia.personal|Australasia.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia.secret|Australasia.secret]]"
+dv_has_code: AU
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia|Australasia]]"
+  - "[[/_public/Earth/Continent/Australasia.public|Australasia.public]]"
+  - "[[/_internal/Earth/Continent/Australasia.internal|Australasia.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia.protect|Australasia.protect]]"
+  - "[[/_private/Earth/Continent/Australasia.private|Australasia.private]]"
+  - "[[/_personal/Earth/Continent/Australasia.personal|Australasia.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia.secret|Australasia.secret]]"
 ---
 
 # [[Australasia]] 
@@ -38,9 +59,9 @@ markerFile: [[Australasia]]
 zoomFeatures: false 
 ```
 
-[name-en::Australia]
-[name-de::Australien]
-[ #has_/code  :: AU ]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
+has_code = `=this.dv_has_code`
 
 
 ## Confidential Links & Embeds: 

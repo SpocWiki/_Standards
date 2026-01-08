@@ -34,6 +34,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bilhete%20de%20identid
 Commons_gallery: Identity document
 Commons_category: Identity documents
 Library_of_Congress_Classification: KJC6038
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Identity_document,47988]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document|Identity_Document]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public|Identity_Document.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal|Identity_Document.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.protect|Identity_Document.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.private|Identity_Document.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.personal|Identity_Document.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.secret|Identity_Document.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Identity_document,47988]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document|Identity_Document]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public|Identity_Document.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal|Identity_Document.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.protect|Identity_Document.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.private|Identity_Document.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.personal|Identity_Document.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.secret|Identity_Document.secret]]"
 ---
 
 # [[Identity_Document]] 

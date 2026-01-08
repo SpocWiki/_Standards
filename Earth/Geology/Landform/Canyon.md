@@ -25,6 +25,25 @@ Commons_category: Canyons
 Krugosvet_article: geografiya/kanon
 GeoNames_feature_code: T.CNYN
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Roca%20de%20la%20Ley%2C%20Parque%20Nacional%20de%20%C3%9Eingvellir%2C%20Su%C3%B0urland%2C%20Islandia%2C%202014-08-16%2C%20DD%20022.JPG
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Canyon,150784|WD~Canyon,150784]]"
+    - "[[/_Standards/Earth/Geology/Landform/Canyon|Canyon]]"
+    - "[[/_public/Earth/Geology/Landform/Canyon.public|Canyon.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Canyon.internal|Canyon.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Canyon.protect|Canyon.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Canyon.private|Canyon.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Canyon.personal|Canyon.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Canyon.secret|Canyon.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Canyon,150784|WD~Canyon,150784]]"
+  - "[[/_Standards/Earth/Geology/Landform/Canyon|Canyon]]"
+  - "[[/_public/Earth/Geology/Landform/Canyon.public|Canyon.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Canyon.internal|Canyon.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Canyon.protect|Canyon.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Canyon.private|Canyon.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Canyon.personal|Canyon.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Canyon.secret|Canyon.secret]]"
 ---
 
 # [[Canyon]] 

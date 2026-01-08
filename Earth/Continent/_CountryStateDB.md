@@ -1,8 +1,25 @@
 ---
 aliases:
   - _CountryStateDB
-  - ' CountryStateDB'
+  - " CountryStateDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/_CountryStateDB|_CountryStateDB]]"
+    - "[[/_public/Earth/Continent/_CountryStateDB.public|_CountryStateDB.public]]"
+    - "[[/_internal/Earth/Continent/_CountryStateDB.internal|_CountryStateDB.internal]]"
+    - "[[/_protect/Earth/Continent/_CountryStateDB.protect|_CountryStateDB.protect]]"
+    - "[[/_private/Earth/Continent/_CountryStateDB.private|_CountryStateDB.private]]"
+    - "[[/_personal/Earth/Continent/_CountryStateDB.personal|_CountryStateDB.personal]]"
+    - "[[/_secret/Earth/Continent/_CountryStateDB.secret|_CountryStateDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/_CountryStateDB|_CountryStateDB]]"
+  - "[[/_public/Earth/Continent/_CountryStateDB.public|_CountryStateDB.public]]"
+  - "[[/_internal/Earth/Continent/_CountryStateDB.internal|_CountryStateDB.internal]]"
+  - "[[/_protect/Earth/Continent/_CountryStateDB.protect|_CountryStateDB.protect]]"
+  - "[[/_private/Earth/Continent/_CountryStateDB.private|_CountryStateDB.private]]"
+  - "[[/_personal/Earth/Continent/_CountryStateDB.personal|_CountryStateDB.personal]]"
+  - "[[/_secret/Earth/Continent/_CountryStateDB.secret|_CountryStateDB.secret]]"
 ---
 
 ```yaml:dbfolder

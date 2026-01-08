@@ -1,11 +1,51 @@
-﻿---
-location: [ 6.6 , 0.316667 ] 
+---
 aliases:
   - Democratic Republic of São Tomé and Príncipe
   - São Tomé and Príncipe
   - Sao_Tome_and_Principe
   - Sao Tome and Principe
 has_id_wikidata: Q1039
+coordinate_location: Point(6.6 0.316667)
+coordinates_of_northernmost_point: Point(7.4 1.7)
+coordinates_of_easternmost_point: Point(7.462138888 1.625638888)
+location:
+  - 0.316667
+  - 6.73333
+dv_ISO2: ST
+dv_ISO3: STP
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe|Sao_Tome_and_Principe]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.public|Sao_Tome_and_Principe.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.internal|Sao_Tome_and_Principe.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.protect|Sao_Tome_and_Principe.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.private|Sao_Tome_and_Principe.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.personal|Sao_Tome_and_Principe.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.secret|Sao_Tome_and_Principe.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Sao_Tome_and_Principe
+dv_name-en: Sao Tome And Principe
+dv_name-de: São Tomé und Príncipe
+dv_Area-Total: 1001
+dv_Area-Land: 960
+dv_has_place_continent: "[[../../Africa]]"
+dv_Alcohol-l: 8.7
+dv_Language-Id: 467
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 6.73333
+dv_has_place_latitude: 0.333333
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe|Sao_Tome_and_Principe]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.public|Sao_Tome_and_Principe.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.internal|Sao_Tome_and_Principe.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.protect|Sao_Tome_and_Principe.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.private|Sao_Tome_and_Principe.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.personal|Sao_Tome_and_Principe.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.secret|Sao_Tome_and_Principe.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Sao_Tome_and_Principe
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -83,8 +123,6 @@ executive_body: "[[_Standards/WikiData/WD~government_of_São_Tomé_and_Príncipe
 office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_São_Tomé_and_Príncipe,19058289]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_São_Tomé_and_Príncipe,20551579]]"
 head_of_state: "[[_Standards/WikiData/WD~Carlos_Vila_Nova,27982047]]"
-coordinates_of_northernmost_point: Point(7.4 1.7)
-coordinates_of_easternmost_point: Point(7.462138888 1.625638888)
 demonym:
   - سانطومي
   - سانطومية
@@ -111,7 +149,6 @@ demonym:
   - santomense
 ISNI: 123430458
 Libris_URI: 53hkksqp1px6w8p
-coordinate_location: Point(6.6 0.316667)
 nominal_GDP:
   - 526653791
   - 546680342
@@ -235,9 +272,6 @@ MeSH_tree_code:
   - Z01.058.290.100.690
   - Z01.639.040.847
 native_label: República Democrática de São Tomé e Príncipe
-location:
-  - 0.333333
-  - 6.73333
 type: Country
 tags:
   - geo/Country
@@ -248,13 +282,13 @@ confidential: public
 
 # [[Sao_Tome_and_Principe]] 
 
-[ISO2::ST]
-[ISO3::STP]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Sao_Tome_and_Principe 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Sao_Tome_and_Principe/ReadMe]] 
 
@@ -269,25 +303,25 @@ geojsonFolder: ./Sao_Tome_and_Principe//
 markerFolder: ./Sao_Tome_and_Principe//
 coordinates: [[Sao_Tome_and_Principe]] 
 markerFile: [[Sao_Tome_and_Principe]] 
-defaultZoom: 11 
+defaultZoom: 5 
 ```
 
-[name-en::Sao Tome And Principe]
-[name-de::São Tomé und Príncipe]
-[Area-Total::1001]
-[Area-Land::960]
-has_place_continent:: [[Africa]]  
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
 ![[Coat_of_arms_of_Sao-tome-and-principe.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sao-tome-and-principe.mp3]]
 ![[Flag_of_Sao-tome-and-principe.svg|350]]
 [VehicleCode::]
 [Capital-Id::]
-[Alcohol-l::8.7]
-[Language-Id::467]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::6.73333]
-[has_place_latitude::0.333333]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

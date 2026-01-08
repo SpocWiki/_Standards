@@ -1,4 +1,26 @@
-﻿---
+---
+dv_"Building", "OCristoRedentor: fp39c"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Christ_the_Redeemer,79961|WD~Christ_the_Redeemer,79961]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer|Christ_the_Redeemer]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.public|Christ_the_Redeemer.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.internal|Christ_the_Redeemer.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.protect|Christ_the_Redeemer.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.private|Christ_the_Redeemer.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.personal|Christ_the_Redeemer.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.secret|Christ_the_Redeemer.secret]]"
+dv_building-ocristoredentor: fp39c"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Christ_the_Redeemer,79961|WD~Christ_the_Redeemer,79961]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer|Christ_the_Redeemer]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.public|Christ_the_Redeemer.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.internal|Christ_the_Redeemer.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.protect|Christ_the_Redeemer.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.private|Christ_the_Redeemer.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.personal|Christ_the_Redeemer.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Christ_the_Redeemer.secret|Christ_the_Redeemer.secret]]"
+
 has_time_started: 1920-01-01 
 aliases:
   - Christ the Redeemer
@@ -61,7 +83,7 @@ booru_tag: christ_the_redeemer
 Danbooru_tag: christ_the_redeemer
 hashtag_: christ_the_redeemer
 Facebook_username: cristoredentoroficial
-Wolfram_Language_entity_code: Entity["Building", "OCristoRedentor::fp39c"]
+Wolfram_Language_entity_code: Entity"Building", "OCristoRedentor = `=this.dv_"Building", "OCristoRedentor`
 DPLA_subject_term: Monumento ao Christo Redemptor (Rio de Janeiro, Brazil)
 street_address: Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ
 ---

@@ -13,6 +13,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Gouffre%20padirac%20sp
 Iconclass_notation: 43B17
 Commons_category: Speleology
 Dewey_Decimal_Classification: "796.525"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Speleology,179132|WD~Speleology,179132]]"
+    - "[[/_Standards/Earth/Geology/Speleology|Speleology]]"
+    - "[[/_public/Earth/Geology/Speleology.public|Speleology.public]]"
+    - "[[/_internal/Earth/Geology/Speleology.internal|Speleology.internal]]"
+    - "[[/_protect/Earth/Geology/Speleology.protect|Speleology.protect]]"
+    - "[[/_private/Earth/Geology/Speleology.private|Speleology.private]]"
+    - "[[/_personal/Earth/Geology/Speleology.personal|Speleology.personal]]"
+    - "[[/_secret/Earth/Geology/Speleology.secret|Speleology.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Speleology,179132|WD~Speleology,179132]]"
+  - "[[/_Standards/Earth/Geology/Speleology|Speleology]]"
+  - "[[/_public/Earth/Geology/Speleology.public|Speleology.public]]"
+  - "[[/_internal/Earth/Geology/Speleology.internal|Speleology.internal]]"
+  - "[[/_protect/Earth/Geology/Speleology.protect|Speleology.protect]]"
+  - "[[/_private/Earth/Geology/Speleology.private|Speleology.private]]"
+  - "[[/_personal/Earth/Geology/Speleology.personal|Speleology.personal]]"
+  - "[[/_secret/Earth/Geology/Speleology.secret|Speleology.secret]]"
 ---
 
 # [[Speleology]] 

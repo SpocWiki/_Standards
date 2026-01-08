@@ -1,5 +1,41 @@
-﻿---
-location: [ 44.0 , 42.0 ] 
+---
+dv_ISO2: GE
+dv_ISO3: GEO
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Georgia,230|WD~Georgia,230]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe|Georgia,Europe]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe.public|Georgia,Europe.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe.internal|Georgia,Europe.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe.protect|Georgia,Europe.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe.private|Georgia,Europe.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe.personal|Georgia,Europe.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe.secret|Georgia,Europe.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Georgia
+dv_name-en: Georgia
+dv_name-de: Georgien
+dv_Area-Total: 69700
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: GEO
+dv_Capital: "[[Georgia,Europe/Regions~Georgia/Tbilisi]]]"
+dv_Alcohol-l: 6.4
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 44.7833
+dv_has_place_latitude: 41.7167
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Georgia,230|WD~Georgia,230]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe|Georgia,Europe]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe.public|Georgia,Europe.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe.internal|Georgia,Europe.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe.protect|Georgia,Europe.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe.private|Georgia,Europe.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe.personal|Georgia,Europe.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe.secret|Georgia,Europe.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Georgia
+
 aliases:
   - Georgia,Europe
 has_id_wikidata: Q230
@@ -423,13 +459,13 @@ country_calling_code: 995
 
 # [[Georgia,Europe]] 
 
-[ISO2::GE] 
-[ISO3::GEO]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../../WikiData/WD~Georgia,230|WD~Georgia,230]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Georgia 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 [[Georgia,Europe/ReadMe]]] 
 
 ## #has_/map  
@@ -446,21 +482,21 @@ coordinates: [[Georgia,Europe]]
 markerFile: [[Georgia,Europe]] 
 ```
 
-[name-en::Georgia]
-[name-de::Georgien]
-[Area-Total::69700]
-[Area-Land::0]
-has_place_continent:: [[Europe]]  
-[VehicleCode::GEO]
-Capital ::[[Georgia,Europe/Regions~Georgia/Tbilisi]]]  
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Georgia.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Georgia.mp3]]![[Georgia,Europe/Flag_of_Georgia.svg|350]]]
-[Alcohol-l::6.4]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::44.7833]
-[has_place_latitude::41.7167]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

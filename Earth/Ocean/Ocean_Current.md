@@ -27,6 +27,25 @@ Dewey_Decimal_Classification: "551.462"
 Krugosvet_article_archived_: Earth_sciences/geografiya/OKEANICHESKIE_TECHENIYA.html
 Commons_category: Ocean currents
 Colon_Classification: U2562
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Ocean_current,129558]]"
+    - "[[/_Standards/Earth/Ocean/Ocean_Current|Ocean_Current]]"
+    - "[[/_public/Earth/Ocean/Ocean_Current.public|Ocean_Current.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean_Current.internal|Ocean_Current.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean_Current.protect|Ocean_Current.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean_Current.private|Ocean_Current.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean_Current.personal|Ocean_Current.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean_Current.secret|Ocean_Current.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Ocean_current,129558]]"
+  - "[[/_Standards/Earth/Ocean/Ocean_Current|Ocean_Current]]"
+  - "[[/_public/Earth/Ocean/Ocean_Current.public|Ocean_Current.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean_Current.internal|Ocean_Current.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean_Current.protect|Ocean_Current.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean_Current.private|Ocean_Current.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean_Current.personal|Ocean_Current.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean_Current.secret|Ocean_Current.secret]]"
 ---
 
 # [[Ocean_Current]] 

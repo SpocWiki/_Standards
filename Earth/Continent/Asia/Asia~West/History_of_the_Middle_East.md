@@ -20,6 +20,25 @@ Dewey_Decimal_Classification: "956"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ishtar-gate-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%B9%D8%B4%D8%AA%D8%A7%D8%B1.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20the%20Middle%20East.ogg
 Commons_category: History of the Middle East
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~History_of_the_Middle_East,51615|WD~History_of_the_Middle_East,51615]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East|History_of_the_Middle_East]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.public|History_of_the_Middle_East.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.internal|History_of_the_Middle_East.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.protect|History_of_the_Middle_East.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.private|History_of_the_Middle_East.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.personal|History_of_the_Middle_East.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.secret|History_of_the_Middle_East.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~History_of_the_Middle_East,51615|WD~History_of_the_Middle_East,51615]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East|History_of_the_Middle_East]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.public|History_of_the_Middle_East.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.internal|History_of_the_Middle_East.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.protect|History_of_the_Middle_East.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.private|History_of_the_Middle_East.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.personal|History_of_the_Middle_East.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/History_of_the_Middle_East.secret|History_of_the_Middle_East.secret]]"
 ---
 
 # [[History_of_the_Middle_East]] 

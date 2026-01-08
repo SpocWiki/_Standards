@@ -24,6 +24,25 @@ U_S_National_Archives_Identifier: "10644764"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Navigation%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Table%20of%20Geography%20and%20Hydrography%2C%20Cyclopaedia%2C%20Volume%201.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/voennaya_tehnika/NAVIGATSIYA.html
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Navigation,102066]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Geodesy/Navigation|Navigation]]"
+    - "[[/_public/Earth/Geography/Cartography/Geodesy/Navigation.public|Navigation.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Geodesy/Navigation.internal|Navigation.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Geodesy/Navigation.protect|Navigation.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Geodesy/Navigation.private|Navigation.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Geodesy/Navigation.personal|Navigation.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Geodesy/Navigation.secret|Navigation.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Navigation,102066]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Geodesy/Navigation|Navigation]]"
+  - "[[/_public/Earth/Geography/Cartography/Geodesy/Navigation.public|Navigation.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Geodesy/Navigation.internal|Navigation.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Geodesy/Navigation.protect|Navigation.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Geodesy/Navigation.private|Navigation.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Geodesy/Navigation.personal|Navigation.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Geodesy/Navigation.secret|Navigation.secret]]"
 ---
 
 # [[Navigation]] 

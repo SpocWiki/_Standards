@@ -1,4 +1,30 @@
-﻿---
+---
+dv_"Building", "LincolnMemorial: z9s68"
+dv_"HistoricalSite", "LincolnMemorial: j8vmv"
+dv_"Park", "LincolnMemorial: cp3zk"
+dv_is_:
+  same_as:
+    - "[[WD~Lincoln_Memorial,213559]]"
+    - "[[/_Standards/Earth/Geography/Place/Lincoln_Memorial|Lincoln_Memorial]]"
+    - "[[/_public/Earth/Geography/Place/Lincoln_Memorial.public|Lincoln_Memorial.public]]"
+    - "[[/_internal/Earth/Geography/Place/Lincoln_Memorial.internal|Lincoln_Memorial.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Lincoln_Memorial.protect|Lincoln_Memorial.protect]]"
+    - "[[/_private/Earth/Geography/Place/Lincoln_Memorial.private|Lincoln_Memorial.private]]"
+    - "[[/_personal/Earth/Geography/Place/Lincoln_Memorial.personal|Lincoln_Memorial.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Lincoln_Memorial.secret|Lincoln_Memorial.secret]]"
+dv_building-lincolnmemorial: z9s68"
+dv_historicalsite-lincolnmemorial: j8vmv"
+dv_park-lincolnmemorial: cp3zk"
+dv_is_same_as:
+  - "[[WD~Lincoln_Memorial,213559]]"
+  - "[[/_Standards/Earth/Geography/Place/Lincoln_Memorial|Lincoln_Memorial]]"
+  - "[[/_public/Earth/Geography/Place/Lincoln_Memorial.public|Lincoln_Memorial.public]]"
+  - "[[/_internal/Earth/Geography/Place/Lincoln_Memorial.internal|Lincoln_Memorial.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Lincoln_Memorial.protect|Lincoln_Memorial.protect]]"
+  - "[[/_private/Earth/Geography/Place/Lincoln_Memorial.private|Lincoln_Memorial.private]]"
+  - "[[/_personal/Earth/Geography/Place/Lincoln_Memorial.personal|Lincoln_Memorial.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Lincoln_Memorial.secret|Lincoln_Memorial.secret]]"
+
 has_time_started: 1922-05-30 
 aliases:
   - Lincoln Memorial
@@ -55,10 +81,10 @@ nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Lincoln%20Mem
 official_website: https://www.nps.gov/linc/index.htm
 U_S_National_Archives_Identifier: 10647061
 Wolfram_Language_entity_code:
-  - Entity["Building", "LincolnMemorial::z9s68"]
+  - Entity"Building", "LincolnMemorial = `=this.dv_"Building", "LincolnMemorial`
   - Entity["HistoricalEvent", "LincolnMemorialDedicated"]
-  - Entity["HistoricalSite", "LincolnMemorial::j8vmv"]
-  - Entity["Park", "LincolnMemorial::cp3zk"]
+  - Entity"HistoricalSite", "LincolnMemorial = `=this.dv_"HistoricalSite", "LincolnMemorial`
+  - Entity"Park", "LincolnMemorial = `=this.dv_"Park", "LincolnMemorial`
 DPLA_subject_term:
   - Lincoln Memorial
   - Lincoln Memorial (Washington, D.C.)

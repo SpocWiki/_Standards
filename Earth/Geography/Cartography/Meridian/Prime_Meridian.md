@@ -16,6 +16,25 @@ country:
 subclass_of: "[[_Standards/WikiData/WD~meridian,32099]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Cosmographicae%20%28Mercator%29%20033.jpg
 Commons_category: Prime meridian
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Prime_meridian,3401774|WD~Prime_meridian,3401774]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Meridian/Prime_Meridian|Prime_Meridian]]"
+    - "[[/_public/Earth/Geography/Cartography/Meridian/Prime_Meridian.public|Prime_Meridian.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Meridian/Prime_Meridian.internal|Prime_Meridian.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Meridian/Prime_Meridian.protect|Prime_Meridian.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Meridian/Prime_Meridian.private|Prime_Meridian.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Meridian/Prime_Meridian.personal|Prime_Meridian.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Meridian/Prime_Meridian.secret|Prime_Meridian.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Prime_meridian,3401774|WD~Prime_meridian,3401774]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Meridian/Prime_Meridian|Prime_Meridian]]"
+  - "[[/_public/Earth/Geography/Cartography/Meridian/Prime_Meridian.public|Prime_Meridian.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Meridian/Prime_Meridian.internal|Prime_Meridian.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Meridian/Prime_Meridian.protect|Prime_Meridian.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Meridian/Prime_Meridian.private|Prime_Meridian.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Meridian/Prime_Meridian.personal|Prime_Meridian.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Meridian/Prime_Meridian.secret|Prime_Meridian.secret]]"
 ---
 
 # [[Prime_Meridian]] 

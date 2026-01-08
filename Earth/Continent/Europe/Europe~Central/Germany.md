@@ -1,5 +1,105 @@
-﻿---
-location: [ 10.0 , 51.0 ] 
+---
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 10.1207
+dv_has_place_latitude: 50.8699
+dv_has_:
+  time_:
+    started: 1949-05-23T00:00:00.000+02:00
+  population_:
+    density: ""
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Germany
+  image_for_:
+    flag: "![[./Germany/Flag_of_Germany.svg|200]] ![](./Germany/Flag_of_Germany.svg)"
+    coat_of_arms: "![[./Germany/Coat_of_arms_of_Germany.svg|150]] ![](./Germany/Coat_of_arms_of_Germany.svg)"
+  sound_of_:
+    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Germany,183|WD~Germany,183]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany|Germany]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany.public|Germany.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany.internal|Germany.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany.protect|Germany.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany.private|Germany.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany.personal|Germany.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]]"
+dv_name: Germany
+dv_name-en: Germany
+dv_name-es: Alemania
+dv_name-fr: Allemagne
+dv_name-cn: 德国
+dv_name-ar: ألمانيا
+dv_name-ru: Германия
+dv_name-de: Deutschland
+dv_ISO2: DE
+dv_ISO3: DEU
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: GERMANY
+dv_Telephone: 49
+dv_Global: true
+dv_Global_Name: World
+dv_CLDR_display_name: Germany
+dv_UNTERM_English: Germany
+dv_UNTERM_English_Formal: the Federal Republic of Germany
+dv_UNTERM_Spanish_Formal: la República Federal de Alemania
+dv_UNTERM_Spanish: Alemania
+dv_UNTERM_French: Allemagne (l') [fém.]
+dv_UNTERM_Arabic: ألمانيا
+dv_UNTERM_Arabic_Formal: جمهورية ألمانيا الاتحادية
+dv_UNTERM_Chinese: 德国
+dv_UNTERM_Chinese_Formal: 德意志联邦共和国
+dv_UNTERM_French_Formal: la République fédérale d'Allemagne
+dv_UNTERM_Russian: Германия
+dv_UNTERM_Russian_Formal: Федеративная Республика Германия
+dv_Region_Name: "[[../../Europe]]"
+dv_Intermediate_Region_Name: "[[Germany]]"
+dv_Sub-region_Name: "[[Western Europe]]"
+dv_Region: 150
+dv_Sub-region: 155
+dv_Geoname-ID: 2921044
+dv_FIPS: GM
+dv_FIFA: GER
+dv_IOC: GER
+dv_MARC: gw
+dv_GAUL: 93
+dv_WMO: DL
+dv_ITU: D
+dv_DS: D
+dv_TLD: .de
+dv_EDGAR: 2M
+dv_M49: 276
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 276
+dv_Area-Total: 357042
+dv_Area-Land: 349270
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: D
+dv_Capital: "[[../../../../WikiData/WD~Berlin,64]]"
+dv_Alcohol-l: 12.8
+dv_Language-Id: 497
+dv_has_time_started: 1949-05-23
+dv_has_population_density: ""
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany|Germany]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Germany.public|Germany.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Germany.internal|Germany.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Germany.protect|Germany.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany.private|Germany.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany.personal|Germany.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Germany
+dv_has_image_for_flag: "![[./Germany/Flag_of_Germany.svg|200]] ![](./Germany/Flag_of_Germany.svg)"
+dv_has_image_for_coat_of_arms: "![[./Germany/Coat_of_arms_of_Germany.svg|150]] ![](./Germany/Coat_of_arms_of_Germany.svg)"
+dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]"
+dv_developed_developing_countries: Developed
+
 aliases:
   - Deutschland
   - DEU
@@ -641,42 +741,57 @@ Wolfram_Language_entity_code: Entity["Country", "Germany"]
 
 #is_a_/Country 
 #is_a_/Place 
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::10.1207] 
-[has_place_latitude::50.8699] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
-#has_/time_/started :: 1949-05-23 
+has_time_started = `=this.dv_has_time_started`
 
 #has_/population_/density :: `=this.population/this.area`
 
-#is_/same_as :: [[../../../../WikiData/WD~Germany,183|WD~Germany,183]]
+is_a_ = `=this.dv_is_a_`
+
+
+## #has_/map 
+
+```leaflet
+id: Germany
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Germany//
+markerFolder: ./Germany/
+coordinates: [[Germany]] 
+markerFile: [[Germany]] 
+defaultZoom: 5 
+```
 
 ## International Names
 
-[	name	 :: Germany ]
-[	name-en	 :: Germany ]
-[	name-es	 :: Alemania ]
-[	name-fr	 :: Allemagne ]
-[	name-cn	 :: 德国 ]
-[	name-ar	 :: ألمانيا ]
-[	name-ru	 :: Германия ]
-[	name-de  :: Deutschland]
+name = `=this.dv_name`
+name-en = `=this.dv_name-en`
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
+name-de = `=this.dv_name-de`
 
-[ISO2::DE]
-[ISO3::DEU]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Germany)
 into a Subfolder named `Germany`, so that this Link into the Sub-Repository works: [[Germany/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can increase the total size and depth of your wiki considerably!
 
 
 ### #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./Germany/Flag_of_Germany.svg|200]] <img src="./Germany/Flag_of_Germany.svg" width="200"/> 
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 
 
@@ -724,7 +839,6 @@ with numbers as of 2023-06
 
 
 ## #has_/text_of_/abstract  
-
 
 > **Germany**, officially the [[Germany/Germany~West|Federal Republic of Germany]], 
 > is a country in the western region of [[../Europe~Central|Central Europe]]. 
@@ -805,9 +919,9 @@ with numbers as of 2023-06
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Germany/Coat_of_arms_of_Germany.svg|150]] <img src="./Germany/Coat_of_arms_of_Germany.svg" width="150"/>
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
-#has_/sound_of_/anthem :: ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]
+has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
 ```audio-player
 [[Anthem-Germany.mp3]]```
 00:00:00 --- Einigkeit und Recht und Freiheit 
@@ -822,83 +936,70 @@ with numbers as of 2023-06
 00:01:03 --- Blühe deutsches Vaterland!
 ```
 
-
-
-### #has_/map 
-
-```leaflet
-id: Germany
-zoomFeatures: true 
-minZoom: 4 
-maxZoom: 18
-geojsonFolder: ./Germany//
-markerFolder: ./Germany/
-```
-
 ## Metadata 
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: GERMANY ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 49 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Germany ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Germany ] 
-[	UNTERM_English_Formal	 :: the Federal Republic of Germany ] 
-[	UNTERM_Spanish_Formal	 :: la República Federal de Alemania ] 
-[	UNTERM_Spanish	 :: Alemania ] 
-[	UNTERM_French	 :: Allemagne (l') [fém.] ] 
-[	UNTERM_Arabic	 :: ألمانيا ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية ألمانيا الاتحادية ] 
-[	UNTERM_Chinese	 :: 德国 ] 
-[	UNTERM_Chinese_Formal	 :: 德意志联邦共和国 ] 
-[	UNTERM_French_Formal	 :: la République fédérale d'Allemagne ]  
-[	UNTERM_Russian	 :: Германия ] 
-[	UNTERM_Russian_Formal	 :: Федеративная Республика Германия ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`  
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 155 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2921044 ] 
-[	FIPS	 :: GM ] 
-[	FIFA	 :: GER ] 
-[	IOC	 :: GER ] 
-[	MARC	 :: gw ] 
-[	GAUL	 :: 93 ] 
-[	WMO	 :: DL ] 
-[	ITU	 :: D ] 
-[	DS	 :: D ] 
-[	TLD	 :: .de ] 
-[	EDGAR	 :: 2M ] 
-[	M49	 :: 276 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developed ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 276 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[Area-Total::357042]
-[Area-Land::349270]
-has_place_continent:: [[Europe]]  
-[VehicleCode::D]
-Capital :: [[../../../../WikiData/WD~Berlin,64]]  
-[Alcohol-l::12.8]
-[Language-Id::497]
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 
 
 

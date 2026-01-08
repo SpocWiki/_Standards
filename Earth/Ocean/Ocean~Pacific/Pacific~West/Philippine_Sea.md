@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q159183
-location: [18.0, 134.0]
+location:
+  - 18
+  - 134
 coordinate_location: Point(134.0 18.0)
 connects_with:
   - "[[_Standards/WikiData/WD~Seto_Inland_Sea,231312]]"
@@ -34,6 +36,25 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locatie%20
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Philippine%20sea%20bathymetry%20He.jpg
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Philippine%20Sea%20location.jpg
 Commons_category: Philippine Sea
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Philippine_Sea,159183|WD~Philippine_Sea,159183]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea|Philippine_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.public|Philippine_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.internal|Philippine_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.protect|Philippine_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.private|Philippine_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.personal|Philippine_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.secret|Philippine_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Philippine_Sea,159183|WD~Philippine_Sea,159183]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea|Philippine_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.public|Philippine_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.internal|Philippine_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.protect|Philippine_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.private|Philippine_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.personal|Philippine_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/Philippine_Sea.secret|Philippine_Sea.secret]]"
 ---
 
 # [[Philippine_Sea]] 

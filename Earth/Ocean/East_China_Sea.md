@@ -1,5 +1,24 @@
-﻿---
-location: [ 125.0 , 30.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]"
+    - "[[/_Standards/Earth/Ocean/East_China_Sea|East_China_Sea]]"
+    - "[[/_public/Earth/Ocean/East_China_Sea.public|East_China_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/East_China_Sea.internal|East_China_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/East_China_Sea.protect|East_China_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/East_China_Sea.private|East_China_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/East_China_Sea.personal|East_China_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/East_China_Sea.secret|East_China_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]"
+  - "[[/_Standards/Earth/Ocean/East_China_Sea|East_China_Sea]]"
+  - "[[/_public/Earth/Ocean/East_China_Sea.public|East_China_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/East_China_Sea.internal|East_China_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/East_China_Sea.protect|East_China_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/East_China_Sea.private|East_China_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/East_China_Sea.personal|East_China_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/East_China_Sea.secret|East_China_Sea.secret]]"
+
 aliases:
   - East China Sea
   - East_China_Sea

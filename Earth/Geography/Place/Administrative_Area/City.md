@@ -10,21 +10,47 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - city
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_city Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_city Class
 type: Type
+dv_is_a: "[[City]]"
+dv_#is_:
+  sub_class_of: "[[../AdministrativeArea]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~City,515|WD~City,515]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/City|City]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/City.public|City.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/City.internal|City.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/City.protect|City.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/City.private|City.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/City.personal|City.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/City.secret|City.secret]]"
+dv_is_sub_class_of: "[[../AdministrativeArea]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~City,515|WD~City,515]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/City|City]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/City.public|City.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/City.internal|City.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/City.protect|City.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/City.private|City.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/City.personal|City.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/City.secret|City.secret]]"
 ---
 
 # [[City]] 
@@ -33,13 +59,13 @@ Class of all cities.
 
 Tag Instances like this: 
 #is_a_/city
-#is_a :: [[City]] 
+is_a = `=this.dv_is_a`
 
 A city or town.
 
-[ #is_/sub_class_of :: [[../AdministrativeArea]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 #is_/same_as :: [[../../../../WikiData/WD~City,515|WD~City,515]] 
 

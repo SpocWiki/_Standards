@@ -1,5 +1,25 @@
-﻿---
-location: [ 103.0 , 42.5 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Gobi_Desert,42070|WD~Gobi_Desert,42070]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Gobi_Desert|Gobi_Desert]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Gobi_Desert.public|Gobi_Desert.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Gobi_Desert.internal|Gobi_Desert.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Gobi_Desert.protect|Gobi_Desert.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Gobi_Desert.private|Gobi_Desert.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Gobi_Desert.personal|Gobi_Desert.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Gobi_Desert.secret|Gobi_Desert.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Gobi_Desert,42070|WD~Gobi_Desert,42070]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Gobi_Desert|Gobi_Desert]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Gobi_Desert.public|Gobi_Desert.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Gobi_Desert.internal|Gobi_Desert.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Gobi_Desert.protect|Gobi_Desert.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Gobi_Desert.private|Gobi_Desert.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Gobi_Desert.personal|Gobi_Desert.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Gobi_Desert.secret|Gobi_Desert.secret]]"
+
+location: [ 42.5, 103.0 ] 
 aliases:
   - Gobi Desert
   - Gobi_Desert
@@ -44,6 +64,21 @@ Commons_category: Gobi Desert
 # [[Gobi_Desert]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Gobi_Desert,42070|WD~Gobi_Desert,42070]] 
+
+## #has_/map  
+
+```leaflet
+id: Gobi_Desert
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Gobi_Desert//
+markerFolder: ./Gobi_Desert/
+coordinates: [[Gobi_Desert]] 
+markerFile: [[Gobi_Desert]] 
+defaultZoom: 4 
+```
+
 ## #has_/text_of_/abstract 
 
 > The Gobi Desert (Mongolian: Говь, ᠭᠣᠪᠢ, ; Chinese: 戈壁; pinyin: gēbì) 

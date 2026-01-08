@@ -3,10 +3,47 @@ aliases:
   - Democrats
   - US~Democratic_Party
   - US~Democratic Party
+dv_has_:
+  time_:
+    started: 1828-06-01T00:00:00.000+00:53
+dv_is_:
+  different_from: "[[US~Republican_Party]]"
+  same_as:
+    - "[US~Democratic_Party](/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.md)"
+    - "[US~Democratic_Party.public](/_public/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.public.md)"
+    - "[US~Democratic_Party.internal](/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.md)"
+    - "[US~Democratic_Party.protect](/_protect/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.protect.md)"
+    - "[US~Democratic_Party.private](/_private/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.private.md)"
+    - "[US~Democratic_Party.personal](/_personal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.personal.md)"
+    - "[US~Democratic_Party.secret](/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.secret.md)"
+    - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party|US~Democratic_Party]]"
+    - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.public|US~Democratic_Party.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal|US~Democratic_Party.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.protect|US~Democratic_Party.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.private|US~Democratic_Party.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.personal|US~Democratic_Party.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.secret|US~Democratic_Party.secret]]"
+dv_has_time_started: 1828-06-01
+dv_is_different_from: "[[US~Republican_Party]]"
+dv_is_same_as:
+  - "[US~Democratic_Party](/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.md)"
+  - "[US~Democratic_Party.public](/_public/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.public.md)"
+  - "[US~Democratic_Party.internal](/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal.md)"
+  - "[US~Democratic_Party.protect](/_protect/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.protect.md)"
+  - "[US~Democratic_Party.private](/_private/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.private.md)"
+  - "[US~Democratic_Party.personal](/_personal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.personal.md)"
+  - "[US~Democratic_Party.secret](/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.secret.md)"
+  - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party|US~Democratic_Party]]"
+  - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.public|US~Democratic_Party.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal|US~Democratic_Party.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.protect|US~Democratic_Party.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.private|US~Democratic_Party.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.personal|US~Democratic_Party.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.secret|US~Democratic_Party.secret]]"
 ---
 
-#has_/time_/started :: 1828-06-01 
-#is_/different_from :: [[US~Republican_Party]]  
+has_time_started = `=this.dv_has_time_started`
+is_different_from = `=this.dv_is_different_from`
 
 [[US~Democratic_Party]] was founded in the Southern US States. 
 

@@ -352,80 +352,172 @@ Languages:
   - de
   - hz
   - naq
+dv_ISO4217-currency_alphabetic: NAD,ZAR
+dv_ISO4217-currency_name: Namibia Dollar,Rand
+dv_ISO4217-currency_numeric:
+  - 516
+  - 710
+dv_ISO4217-currency_minor_unit:
+  - 2
+  - 2
+dv_ISO4217-currency_country_name: NAMIBIA
+dv_Telephone: 264
+dv_Global: true
+dv_Global_Name: World
+dv_name: Namibia
+dv_name-en:
+  - Namibia
+  - Namibia
+dv_name-es: Namibia
+dv_name-fr: Namibie
+dv_name-cn: 纳米比亚
+dv_name-ar: ناميبيا
+dv_name-ru: Намибия
+dv_CLDR_display_name: Namibia
+dv_UNTERM_English: Namibia
+dv_UNTERM_English_Formal: the Republic of Namibia
+dv_UNTERM_Spanish_Formal: la República de Namibia
+dv_UNTERM_Spanish: Namibia
+dv_UNTERM_French: Namibie (la)
+dv_UNTERM_Arabic: ناميبيا
+dv_UNTERM_Arabic_Formal: جمهورية ناميبيا
+dv_UNTERM_Chinese: 纳米比亚
+dv_UNTERM_Chinese_Formal: 纳米比亚共和国
+dv_UNTERM_French_Formal: la République de Namibie
+dv_UNTERM_Russian: Намибия
+dv_UNTERM_Russian_Formal: Республика Намибия
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Southern Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 18
+dv_Sub-region: 202
+dv_Geoname-ID: 3355338
+dv_FIPS: WA
+dv_FIFA: NAM
+dv_IOC: NAM
+dv_MARC: sx
+dv_GAUL: 172
+dv_WMO: NM
+dv_ITU: NMB
+dv_DS: NAM
+dv_TLD: .na
+dv_EDGAR: T6
+dv_M49: 516
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 516
+dv_ISO2: NA
+dv_ISO3: NAM
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Namibia,1030|WD~Namibia,1030]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~South/Namibia|Namibia]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~South/Namibia.public|Namibia.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~South/Namibia.internal|Namibia.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~South/Namibia.protect|Namibia.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~South/Namibia.private|Namibia.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~South/Namibia.personal|Namibia.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~South/Namibia.secret|Namibia.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Namibia
+dv_name-de: Namibia
+dv_Area-Total: 824292
+dv_Area-Land: 823290
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: NAM
+dv_Alcohol-l: 9.6
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 17.1
+dv_has_place_latitude: -22.57
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Namibia,1030|WD~Namibia,1030]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~South/Namibia|Namibia]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~South/Namibia.public|Namibia.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~South/Namibia.internal|Namibia.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~South/Namibia.protect|Namibia.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~South/Namibia.private|Namibia.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~South/Namibia.personal|Namibia.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~South/Namibia.secret|Namibia.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Namibia
 ---
 
 # [[Namibia]] 
 
-[	ISO4217-currency_alphabetic	 :: NAD,ZAR ]
-[	ISO4217-currency_name	 :: Namibia Dollar,Rand ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 [	ISO4217-currency_numeric	 :: 516,710 ]
 [	ISO4217-currency_minor_unit	 :: 2,2 ]
-[	ISO4217-currency_country_name	 :: NAMIBIA ]
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 264 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Namibia ]
+name = `=this.dv_name`
 [	name-en	 :: Namibia ]
-[	name-es	 :: Namibia ]
-[	name-fr	 :: Namibie ]
-[	name-cn	 :: 纳米比亚 ]
-[	name-ar	 :: ناميبيا ]
-[	name-ru	 :: Намибия ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Namibia ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Namibia ]
-[	UNTERM_English_Formal	 :: the Republic of Namibia ]
-[	UNTERM_Spanish_Formal	 :: la República de Namibia ]
-[	UNTERM_Spanish	 :: Namibia ]
-[	UNTERM_French	 :: Namibie (la) ]
-[	UNTERM_Arabic	 :: ناميبيا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية ناميبيا ]
-[	UNTERM_Chinese	 :: 纳米比亚 ]
-[	UNTERM_Chinese_Formal	 :: 纳米比亚共和国 ]
-[	UNTERM_French_Formal	 :: la République de Namibie ]
-[	UNTERM_Russian	 :: Намибия ]
-[	UNTERM_Russian_Formal	 :: Республика Намибия ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Southern Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 18 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3355338 ]
-[	FIPS	 :: WA ]
-[	FIFA	 :: NAM ]
-[	IOC	 :: NAM ]
-[	MARC	 :: sx ]
-[	GAUL	 :: 172 ]
-[	WMO	 :: NM ]
-[	ITU	 :: NMB ]
-[	DS	 :: NAM ]
-[	TLD	 :: .na ]
-[	EDGAR	 :: T6 ]
-[	M49	 :: 516 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 516 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::NA]
-[ISO3::NAM]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Namibia,1030|WD~Namibia,1030]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Namibia 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Namibia/ReadMe]] 
 
@@ -441,11 +533,11 @@ markerFolder: ./Namibia//
 ```
 
 [name-en::Namibia]
-[name-de::Namibia]
-[Area-Total::824292]
-[Area-Land::823290]
-has_place_continent:: [[Africa]]  
-[VehicleCode::NAM]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Windhoek]]  
 
 ![[Coat_of_arms_of_Namibia.svg|350]]
@@ -454,12 +546,12 @@ Capital :: [[Windhoek]]
 
 ![[Flag_of_Namibia.svg|350]]
 
-[Alcohol-l::9.6]
-[Language-Id::499]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::17.1]
-[has_place_latitude::-22.57]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

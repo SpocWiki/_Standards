@@ -1,5 +1,25 @@
-﻿---
-location: [ 22.0 , 42.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Balkans,23522|WD~Balkans,23522]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~East/Balkans|Balkans]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~East/Balkans.public|Balkans.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~East/Balkans.internal|Balkans.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~East/Balkans.protect|Balkans.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~East/Balkans.private|Balkans.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~East/Balkans.personal|Balkans.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~East/Balkans.secret|Balkans.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Balkans,23522|WD~Balkans,23522]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~East/Balkans|Balkans]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~East/Balkans.public|Balkans.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~East/Balkans.internal|Balkans.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~East/Balkans.protect|Balkans.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~East/Balkans.private|Balkans.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~East/Balkans.personal|Balkans.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~East/Balkans.secret|Balkans.secret]]"
+
+location: [ 42.0, 22.0 ] 
 aliases:
   - Balkans
   - Balkan
@@ -69,6 +89,20 @@ UMLS_CUI: C3494471
 # [[Balkans]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Balkans,23522|WD~Balkans,23522]] 
+
+## #has_/map  
+
+```leaflet
+id: Balkans
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Balkans//
+markerFolder: ./Balkans/
+coordinates: [[Balkans]] 
+markerFile: [[Balkans]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

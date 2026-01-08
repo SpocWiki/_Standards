@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll|Wake-Atoll]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.public|Wake-Atoll.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.internal|Wake-Atoll.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.protect|Wake-Atoll.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.private|Wake-Atoll.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.personal|Wake-Atoll.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.secret|Wake-Atoll.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll|Wake-Atoll]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.public|Wake-Atoll.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.internal|Wake-Atoll.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.protect|Wake-Atoll.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.private|Wake-Atoll.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.personal|Wake-Atoll.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/Wake-Atoll.secret|Wake-Atoll.secret]]"
 ---
 
 # [[Wake-Atoll]] 

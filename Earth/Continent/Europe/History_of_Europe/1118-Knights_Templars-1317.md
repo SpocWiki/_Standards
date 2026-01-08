@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Knights_Templars,41300]]"
+    - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317|1118-Knights_Templars-1317]]"
+    - "[[/_public/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.public|1118-Knights_Templars-1317.public]]"
+    - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.internal|1118-Knights_Templars-1317.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.protect|1118-Knights_Templars-1317.protect]]"
+    - "[[/_private/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.private|1118-Knights_Templars-1317.private]]"
+    - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.personal|1118-Knights_Templars-1317.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.secret|1118-Knights_Templars-1317.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Knights_Templars,41300]]"
+  - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317|1118-Knights_Templars-1317]]"
+  - "[[/_public/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.public|1118-Knights_Templars-1317.public]]"
+  - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.internal|1118-Knights_Templars-1317.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.protect|1118-Knights_Templars-1317.protect]]"
+  - "[[/_private/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.private|1118-Knights_Templars-1317.private]]"
+  - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.personal|1118-Knights_Templars-1317.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.secret|1118-Knights_Templars-1317.secret]]"
+
 has_time_started: 1120-01-23 
 has_time_stopped: 1312-03-30 
 aliases:

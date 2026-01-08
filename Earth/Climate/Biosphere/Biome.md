@@ -10,6 +10,25 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Groot%20River%20
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%A8.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vegetation.png
 Commons_category: Biomes
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Biome,101998|WD~Biome,101998]]"
+    - "[[/_Standards/Earth/Climate/Biosphere/Biome|Biome]]"
+    - "[[/_public/Earth/Climate/Biosphere/Biome.public|Biome.public]]"
+    - "[[/_internal/Earth/Climate/Biosphere/Biome.internal|Biome.internal]]"
+    - "[[/_protect/Earth/Climate/Biosphere/Biome.protect|Biome.protect]]"
+    - "[[/_private/Earth/Climate/Biosphere/Biome.private|Biome.private]]"
+    - "[[/_personal/Earth/Climate/Biosphere/Biome.personal|Biome.personal]]"
+    - "[[/_secret/Earth/Climate/Biosphere/Biome.secret|Biome.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Biome,101998|WD~Biome,101998]]"
+  - "[[/_Standards/Earth/Climate/Biosphere/Biome|Biome]]"
+  - "[[/_public/Earth/Climate/Biosphere/Biome.public|Biome.public]]"
+  - "[[/_internal/Earth/Climate/Biosphere/Biome.internal|Biome.internal]]"
+  - "[[/_protect/Earth/Climate/Biosphere/Biome.protect|Biome.protect]]"
+  - "[[/_private/Earth/Climate/Biosphere/Biome.private|Biome.private]]"
+  - "[[/_personal/Earth/Climate/Biosphere/Biome.personal|Biome.personal]]"
+  - "[[/_secret/Earth/Climate/Biosphere/Biome.secret|Biome.secret]]"
 ---
 
 # [[Biome]] 

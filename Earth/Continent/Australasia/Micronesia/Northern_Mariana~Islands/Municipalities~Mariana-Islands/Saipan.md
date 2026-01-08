@@ -5,15 +5,15 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 15.18333
   - 145.75
@@ -22,7 +22,7 @@ mapzoom:
   - 7
   - 12
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 36738
 tags:
@@ -32,15 +32,37 @@ title: Saipan
 type:
   - City
   - geo-Region
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 145.75
+dv_has_place_latitude: 15.18333
+dv_name: Saipan
+dv_has_place_country: "[[../../../Northern_Mariana~Islands]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan|Saipan]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.public|Saipan.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.internal|Saipan.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.protect|Saipan.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.private|Saipan.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.personal|Saipan.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.secret|Saipan.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan|Saipan]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.public|Saipan.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.internal|Saipan.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.protect|Saipan.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.private|Saipan.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.personal|Saipan.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.secret|Saipan.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../Geography/Place]] 
-[has_place_longitude::145.75] 
-[has_place_latitude::15.18333] 
-[name::Saipan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 has_place_province::  
-has_place_country:: [[../../../Northern_Mariana~Islands]]  
+has_place_country = `=this.dv_has_place_country`
 [StateId::] 
 [Population::] 
 

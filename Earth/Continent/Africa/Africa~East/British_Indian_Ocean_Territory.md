@@ -6,67 +6,134 @@ aliases:
   - المحيط الهندي الإقليم البريطاني في
   - 英属印度洋领土
   - Британская территория в Индийском океане
-  - ''
+  - ""
   - British_Indian_Ocean_Territory
 confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - en-IO
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -6.19
   - 71.35
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26926
 tags:
   - geo/Country
 title: British Indian Ocean Territory
 type: Country
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-British_Indian_Ocean_Territory
+dv_ISO4217-currency_alphabetic: USD
+dv_ISO4217-currency_name: US Dollar
+dv_ISO4217-currency_numeric: 840
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: BRITISH INDIAN OCEAN TERRITORY
+dv_Telephone: 246
+dv_Global: true
+dv_Global_Name: World
+dv_name: British Indian Ocean Territory
+dv_name-en:
+  - British Indian Ocean Territory
+  - British Indian Ocean Territory
+dv_name-es: Territorio Británico del Océano Índico
+dv_name-fr: Territoire britannique de l'océan Indien
+dv_name-cn: 英属印度洋领土
+dv_name-ar: المحيط الهندي الإقليم البريطاني في
+dv_name-ru: Британская территория в Индийском океане
+dv_CLDR_display_name: British Indian Ocean Territory
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Eastern Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 14
+dv_Sub-region: 202
+dv_Geoname-ID: 1282588
+dv_FIPS: IO
+dv_MARC: bi
+dv_GAUL: 38
+dv_ITU: BIO
+dv_TLD: .io
+dv_EDGAR: D6
+dv_M49: 86
+dv_is_independent: Territory of GB
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 86
+dv_ISO2: IO
+dv_ISO3: IOT
+dv_name-de: Britisches Territorium im indischen Ozean
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Africa]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 71.5
+dv_has_place_latitude: -6
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory|British_Indian_Ocean_Territory]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.public|British_Indian_Ocean_Territory.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.internal|British_Indian_Ocean_Territory.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.protect|British_Indian_Ocean_Territory.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.private|British_Indian_Ocean_Territory.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.personal|British_Indian_Ocean_Territory.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.secret|British_Indian_Ocean_Territory.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-British_Indian_Ocean_Territory
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory|British_Indian_Ocean_Territory]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.public|British_Indian_Ocean_Territory.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.internal|British_Indian_Ocean_Territory.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.protect|British_Indian_Ocean_Territory.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.private|British_Indian_Ocean_Territory.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.personal|British_Indian_Ocean_Territory.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.secret|British_Indian_Ocean_Territory.secret]]"
 ---
 
 # [[British_Indian_Ocean_Territory]] 
 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-British_Indian_Ocean_Territory 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[British_Indian_Ocean_Territory/ReadMe]] 
 
 
-[	ISO4217-currency_alphabetic	 :: USD ]
-[	ISO4217-currency_name	 :: US Dollar ]
-[	ISO4217-currency_numeric	 :: 840 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: BRITISH INDIAN OCEAN TERRITORY ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 246 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: British Indian Ocean Territory ]
+name = `=this.dv_name`
 [	name-en	 :: British Indian Ocean Territory ]
-[	name-es	 :: Territorio Británico del Océano Índico ]
-[	name-fr	 :: Territoire britannique de l'océan Indien ]
-[	name-cn	 :: 英属印度洋领土 ]
-[	name-ar	 :: المحيط الهندي الإقليم البريطاني في ]
-[	name-ru	 :: Британская территория в Индийском океане ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: British Indian Ocean Territory ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
 [	UNTERM_English	 ::  ]
-[	UNTERM_English_Formal	 ::  ]
-[	UNTERM_Spanish_Formal	 ::  ]
+[	UNTERM_Englis_a_ = `=this.dv_is_a_`
+[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ]
 [	UNTERM_French	 ::  ]
 [	UNTERM_Arabic	 ::  ]
@@ -77,39 +144,39 @@ For more Details, check out this Repository into this Subfolder:
 [	UNTERM_Russian	 ::  ]
 [	UNTERM_Russian_Formal	 ::  ]
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Eastern Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 14 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 1282588 ]
-[	FIPS	 :: IO ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
 [	FIFA	 ::  ]
 [	IOC	 ::  ]
-[	MARC	 :: bi ]
-[	GAUL	 :: 38 ]
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
 [	WMO	 ::  ]
-[	ITU	 :: BIO ]
+ITU = `=this.dv_ITU`
 [	DS	 ::  ]
-[	TLD	 :: .io ]
-[	EDGAR	 :: D6 ]
-[	M49	 :: 86 ]
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Territory of GB ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 086 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
 
-[ISO2::IO]
-[ISO3::IOT]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 ```leaflet
 id: British Indian Ocean Territory
 zoomFeatures: true 
@@ -120,18 +187,18 @@ markerFolder: ./British_Indian_Ocean_Territory/
 ```
 
 [name-en::British Indian Ocean Territory]
-[name-de::Britisches Territorium im indischen Ozean]
-[Area-Total::0]
-[Area-Land::0]
-has_place_continent:: [[Africa]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::71.5]
-[has_place_latitude::-6]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

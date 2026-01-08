@@ -1,4 +1,26 @@
-﻿---
+---
+dv_is_:
+  opposite_of: "[[../USA|USA]]"
+  same_as:
+    - "[[../../../../WikiData/WD~Confederate_States,81931|WD~Confederate_States,81931]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/Confederate_States|Confederate_States]]"
+    - "[[/_public/Earth/Continent/America~North/USA/Confederate_States.public|Confederate_States.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/Confederate_States.internal|Confederate_States.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/Confederate_States.protect|Confederate_States.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/Confederate_States.private|Confederate_States.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/Confederate_States.personal|Confederate_States.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/Confederate_States.secret|Confederate_States.secret]]"
+dv_is_opposite_of: "[[../USA|USA]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Confederate_States,81931|WD~Confederate_States,81931]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/Confederate_States|Confederate_States]]"
+  - "[[/_public/Earth/Continent/America~North/USA/Confederate_States.public|Confederate_States.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/Confederate_States.internal|Confederate_States.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/Confederate_States.protect|Confederate_States.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/Confederate_States.private|Confederate_States.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/Confederate_States.personal|Confederate_States.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/Confederate_States.secret|Confederate_States.secret]]"
+
 has_time_started: 1861-02-08 
 has_time_stopped: 1865-05-01 
 aliases:
@@ -106,7 +128,7 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20CSA%20
 
 # [[Confederate_States]] 
 
-#is_/opposite_of :: [[../USA|USA]] 
+is_opposite_of = `=this.dv_is_opposite_of`
 #is_/same_as :: [[../../../../WikiData/WD~Confederate_States,81931|WD~Confederate_States,81931]]
 
 ## #has_/text_of_/abstract 

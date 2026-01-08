@@ -11,17 +11,49 @@ SpocWebEntityId: 27005
 tags:
   - geo/Country
 type: Country
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Reunion
+dv_ISO2: RE
+dv_ISO3: REU
+dv_name-en: Reunion
+dv_name-de: Réunion
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../../Africa]]"
+dv_Capital: "[[Saint_Denis]]"
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 55.45
+dv_has_place_latitude: -20.8833
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion|Reunion]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.public|Reunion.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.internal|Reunion.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.protect|Reunion.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.private|Reunion.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.personal|Reunion.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.secret|Reunion.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Reunion
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion|Reunion]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.public|Reunion.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.internal|Reunion.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.protect|Reunion.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.private|Reunion.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.personal|Reunion.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Reunion.secret|Reunion.secret]]"
 ---
 
 # [[Reunion]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Reunion 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Reunion/ReadMe]] 
 
-[ISO2::RE]
-[ISO3::REU]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 ```leaflet
 id: Reunion
 zoomFeatures: true 
@@ -31,19 +63,19 @@ geojsonFolder: ./Reunion/
 markerFolder: ./Reunion/
 ```
 
-[name-en::Reunion]
-[name-de::Réunion]
-[Area-Total::0]
-[Area-Land::0]
-has_place_continent:: [[Africa]]  
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
-Capital :: [[Saint_Denis]]  
+Capital = `=this.dv_Capital`
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
-[has_place_longitude::55.45]
-[has_place_latitude::-20.8833]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

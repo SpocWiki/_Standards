@@ -25,6 +25,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kukenan%20Tepuy%20at%2
 coordinate_location: Point(-60.7625 5.143333333)
 geoshape: http://commons.wikimedia.org/data/main/Data:Guiana+Shield.map
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20Guiana%20shield.png
+dv_is_:
+  same_as:
+    - "[[WD~Guiana_Shield,9309106]]"
+    - "[[/_Standards/Earth/Continent/America~South/Andes/Guiana_Shield|Guiana_Shield]]"
+    - "[[/_public/Earth/Continent/America~South/Andes/Guiana_Shield.public|Guiana_Shield.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Andes/Guiana_Shield.internal|Guiana_Shield.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Andes/Guiana_Shield.protect|Guiana_Shield.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Andes/Guiana_Shield.private|Guiana_Shield.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Andes/Guiana_Shield.personal|Guiana_Shield.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Andes/Guiana_Shield.secret|Guiana_Shield.secret]]"
+dv_is_same_as:
+  - "[[WD~Guiana_Shield,9309106]]"
+  - "[[/_Standards/Earth/Continent/America~South/Andes/Guiana_Shield|Guiana_Shield]]"
+  - "[[/_public/Earth/Continent/America~South/Andes/Guiana_Shield.public|Guiana_Shield.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Andes/Guiana_Shield.internal|Guiana_Shield.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Andes/Guiana_Shield.protect|Guiana_Shield.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Andes/Guiana_Shield.private|Guiana_Shield.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Andes/Guiana_Shield.personal|Guiana_Shield.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Andes/Guiana_Shield.secret|Guiana_Shield.secret]]"
 ---
 
 # [[Guiana_Shield]] 

@@ -41,6 +41,25 @@ Iconclass_notation: 11P31512
 GeoNames_feature_code: S.MSTY
 OpenStreetMap_tag: amenity=monastery
 Dewey_Decimal_Classification: "206.57"
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Monastery,44613|WD~Monastery,44613]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery|Monastery]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.public|Monastery.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.internal|Monastery.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.protect|Monastery.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.private|Monastery.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.personal|Monastery.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.secret|Monastery.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Monastery,44613|WD~Monastery,44613]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery|Monastery]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.public|Monastery.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.internal|Monastery.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.protect|Monastery.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.private|Monastery.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.personal|Monastery.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monastery.secret|Monastery.secret]]"
 ---
 
 # [[Monastery]] 

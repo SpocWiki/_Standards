@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/geo~Attributes|geo~Attributes]]"
+    - "[[/_public/Earth/geo~Attributes.public|geo~Attributes.public]]"
+    - "[[/_internal/Earth/geo~Attributes.internal|geo~Attributes.internal]]"
+    - "[[/_protect/Earth/geo~Attributes.protect|geo~Attributes.protect]]"
+    - "[[/_private/Earth/geo~Attributes.private|geo~Attributes.private]]"
+    - "[[/_personal/Earth/geo~Attributes.personal|geo~Attributes.personal]]"
+    - "[[/_secret/Earth/geo~Attributes.secret|geo~Attributes.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/geo~Attributes|geo~Attributes]]"
+  - "[[/_public/Earth/geo~Attributes.public|geo~Attributes.public]]"
+  - "[[/_internal/Earth/geo~Attributes.internal|geo~Attributes.internal]]"
+  - "[[/_protect/Earth/geo~Attributes.protect|geo~Attributes.protect]]"
+  - "[[/_private/Earth/geo~Attributes.private|geo~Attributes.private]]"
+  - "[[/_personal/Earth/geo~Attributes.personal|geo~Attributes.personal]]"
+  - "[[/_secret/Earth/geo~Attributes.secret|geo~Attributes.secret]]"
+---
 GeoJson Files and other GIS Formats use a lot of Abbreviations for their Metadata. 
 Most Terms are described on the [GIS-Wi](http://wiki.gis.com/wiki/index.php/Minimum_bounding_rectangle)
 Here are some with their Type and Description: 

@@ -4,19 +4,19 @@ aliases:
   - Passport
 has_id_wikidata: Q43812
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Certificate_of_Citizenship,2324663]]'
-  - '[[_Standards/WikiData/WD~travel_document,2616578]]'
-  - '[[_Standards/WikiData/WD~Q48533333,48533333]]'
+  - "[[_Standards/WikiData/WD~Certificate_of_Citizenship,2324663]]"
+  - "[[_Standards/WikiData/WD~travel_document,2616578]]"
+  - "[[_Standards/WikiData/WD~Q48533333,48533333]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~travel_document,2616578]]'
-  - '[[_Standards/WikiData/WD~photo_identification,120484254]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Passports,7663406]]'
+  - "[[_Standards/WikiData/WD~travel_document,2616578]]"
+  - "[[_Standards/WikiData/WD~photo_identification,120484254]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Passports,7663406]]"
 Nomenclature_for_Museum_Cataloging: 13680
 OmegaWiki_Defined_Meaning: 349972
 U_S_National_Archives_Identifier: 10642242
@@ -30,6 +30,25 @@ Stack_Exchange_tag: https://travel.stackexchange.com/tags/passports
 UNSPSC_Code: 55121803
 Commons_gallery: Common-design passport groups
 OpenStreetMap_tag: diplomatic:services:passport=yes
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Passport,43812]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Passport|Passport]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/Country/Passport.public|Passport.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/Country/Passport.internal|Passport.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/Country/Passport.protect|Passport.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/Country/Passport.private|Passport.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/Country/Passport.personal|Passport.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/Country/Passport.secret|Passport.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Passport,43812]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Passport|Passport]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/Country/Passport.public|Passport.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/Country/Passport.internal|Passport.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/Country/Passport.protect|Passport.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/Country/Passport.private|Passport.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/Country/Passport.personal|Passport.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/Country/Passport.secret|Passport.secret]]"
 ---
 
 # [[Passport]] 

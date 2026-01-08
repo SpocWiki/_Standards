@@ -1,8 +1,33 @@
+---
+dv_has_:
+  time_:
+    started: 1315-06-01T00:00:00.000+00:53
+    stopped: 1322-06-01T00:00:00.000+00:53
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322|1315-Great_Famine-1322]]"
+    - "[[/_public/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.public|1315-Great_Famine-1322.public]]"
+    - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.internal|1315-Great_Famine-1322.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.protect|1315-Great_Famine-1322.protect]]"
+    - "[[/_private/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.private|1315-Great_Famine-1322.private]]"
+    - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.personal|1315-Great_Famine-1322.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.secret|1315-Great_Famine-1322.secret]]"
+dv_has_time_started: 1315-06-01
+dv_has_time_stopped: 1322-06-01
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322|1315-Great_Famine-1322]]"
+  - "[[/_public/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.public|1315-Great_Famine-1322.public]]"
+  - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.internal|1315-Great_Famine-1322.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.protect|1315-Great_Famine-1322.protect]]"
+  - "[[/_private/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.private|1315-Great_Famine-1322.private]]"
+  - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.personal|1315-Great_Famine-1322.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.secret|1315-Great_Famine-1322.secret]]"
+---
 
 # [[1315-Great_Famine-1322]] 
 
-#has_/time_/started :: 1315-06-01
-#has_/time_/stopped  :: 1322-06-01
+has_time_started = `=this.dv_has_time_started`
+has_time_stopped = `=this.dv_has_time_stopped`
 
 ## #has_/text_of_/abstract 
 

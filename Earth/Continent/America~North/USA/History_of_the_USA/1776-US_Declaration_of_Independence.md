@@ -110,6 +110,25 @@ native_label: United States Declaration of Independence
 first_line: When, in the course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume, among the powers of the earth, the separate and equal station to which the laws of nature and of nature’s God entitle them,
 point_in_time: 1776-07-04T00:00:00Z
 publication_date: 1776-07-04T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~United_States_Declaration_of_Independence,127912]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence|1776-US_Declaration_of_Independence]]"
+    - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.public|1776-US_Declaration_of_Independence.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.internal|1776-US_Declaration_of_Independence.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.protect|1776-US_Declaration_of_Independence.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.private|1776-US_Declaration_of_Independence.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.personal|1776-US_Declaration_of_Independence.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.secret|1776-US_Declaration_of_Independence.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~United_States_Declaration_of_Independence,127912]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence|1776-US_Declaration_of_Independence]]"
+  - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.public|1776-US_Declaration_of_Independence.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.internal|1776-US_Declaration_of_Independence.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.protect|1776-US_Declaration_of_Independence.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.private|1776-US_Declaration_of_Independence.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.personal|1776-US_Declaration_of_Independence.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.secret|1776-US_Declaration_of_Independence.secret]]"
 ---
 
 # [[1776-US_Declaration_of_Independence]] 

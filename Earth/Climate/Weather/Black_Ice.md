@@ -5,13 +5,32 @@ aliases:
   - Black Ice
 has_id_wikidata: Q220604
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~glaze,1192031]]'
-instance_of: '[[_Standards/WikiData/WD~ice,23392]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+subclass_of: "[[_Standards/WikiData/WD~glaze,1192031]]"
+instance_of: "[[_Standards/WikiData/WD~ice,23392]]"
 Commons_category: Black ice
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20ice%20on%20footway.jpg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Black_ice,220604|WD~Black_ice,220604]]"
+    - "[[/_Standards/Earth/Climate/Weather/Black_Ice|Black_Ice]]"
+    - "[[/_public/Earth/Climate/Weather/Black_Ice.public|Black_Ice.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Black_Ice.internal|Black_Ice.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Black_Ice.protect|Black_Ice.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Black_Ice.private|Black_Ice.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Black_Ice.personal|Black_Ice.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Black_Ice.secret|Black_Ice.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Black_ice,220604|WD~Black_ice,220604]]"
+  - "[[/_Standards/Earth/Climate/Weather/Black_Ice|Black_Ice]]"
+  - "[[/_public/Earth/Climate/Weather/Black_Ice.public|Black_Ice.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Black_Ice.internal|Black_Ice.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Black_Ice.protect|Black_Ice.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Black_Ice.private|Black_Ice.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Black_Ice.personal|Black_Ice.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Black_Ice.secret|Black_Ice.secret]]"
 ---
 
 # [[Black_Ice]] 

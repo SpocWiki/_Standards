@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Korean_War,8663]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953|1950-Korean_War-1953]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.public|1950-Korean_War-1953.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.internal|1950-Korean_War-1953.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.protect|1950-Korean_War-1953.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.private|1950-Korean_War-1953.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.personal|1950-Korean_War-1953.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.secret|1950-Korean_War-1953.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Korean_War,8663]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953|1950-Korean_War-1953]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.public|1950-Korean_War-1953.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.internal|1950-Korean_War-1953.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.protect|1950-Korean_War-1953.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.private|1950-Korean_War-1953.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.personal|1950-Korean_War-1953.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/1950-Korean_War-1953.secret|1950-Korean_War-1953.secret]]"
+
 has_time_started: 1950-06-25 
 has_time_stopped: 1953-07-27 
 aliases:

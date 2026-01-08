@@ -8,6 +8,26 @@ SpocWebEntityId: 72745
 tags:
   - geo/Country
 type: Country
+dv_name-en: Asian Shipping
+dv_name-de: Asien Schiffahrt
+dv_has_place_continent: "[[../Asia]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asian_Shipping|Asian_Shipping]]"
+    - "[[/_public/Earth/Continent/Asia/Asian_Shipping.public|Asian_Shipping.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asian_Shipping.internal|Asian_Shipping.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asian_Shipping.protect|Asian_Shipping.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asian_Shipping.private|Asian_Shipping.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asian_Shipping.personal|Asian_Shipping.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asian_Shipping.secret|Asian_Shipping.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asian_Shipping|Asian_Shipping]]"
+  - "[[/_public/Earth/Continent/Asia/Asian_Shipping.public|Asian_Shipping.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asian_Shipping.internal|Asian_Shipping.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asian_Shipping.protect|Asian_Shipping.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asian_Shipping.private|Asian_Shipping.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asian_Shipping.personal|Asian_Shipping.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asian_Shipping.secret|Asian_Shipping.secret]]"
 ---
 
 [ISO2::]
@@ -21,11 +41,11 @@ geojsonFolder: ./Asian_Shipping/
 markerFolder: ./Asian_Shipping/
 ```
 
-[name-en::Asian Shipping]
-[name-de::Asien Schiffahrt]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Asia]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

@@ -105,6 +105,25 @@ Bluesky_handle: vonderleyen.at.ec.europa.eu
 birth_name: Ursula Gertrud Albrecht
 name_in_native_language: Ursula von der Leyen
 Know_Your_Meme_slug: zensursula
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Ursula_von_der_Leyen,60772]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen|Ursula_von_der_Leyen]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.public|Ursula_von_der_Leyen.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.internal|Ursula_von_der_Leyen.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.protect|Ursula_von_der_Leyen.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.private|Ursula_von_der_Leyen.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.personal|Ursula_von_der_Leyen.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.secret|Ursula_von_der_Leyen.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Ursula_von_der_Leyen,60772]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen|Ursula_von_der_Leyen]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.public|Ursula_von_der_Leyen.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.internal|Ursula_von_der_Leyen.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.protect|Ursula_von_der_Leyen.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.private|Ursula_von_der_Leyen.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.personal|Ursula_von_der_Leyen.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.secret|Ursula_von_der_Leyen.secret]]"
 ---
 
 # [[Ursula_von_der_Leyen]] 

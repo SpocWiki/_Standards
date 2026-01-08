@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Seamount,503269|WD~Seamount,503269]]"
+    - "[[/_Standards/Earth/Geology/Landform/Seamount|Seamount]]"
+    - "[[/_public/Earth/Geology/Landform/Seamount.public|Seamount.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Seamount.internal|Seamount.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Seamount.protect|Seamount.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Seamount.private|Seamount.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Seamount.personal|Seamount.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Seamount.secret|Seamount.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Seamount,503269|WD~Seamount,503269]]"
+  - "[[/_Standards/Earth/Geology/Landform/Seamount|Seamount]]"
+  - "[[/_public/Earth/Geology/Landform/Seamount.public|Seamount.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Seamount.internal|Seamount.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Seamount.protect|Seamount.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Seamount.private|Seamount.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Seamount.personal|Seamount.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Seamount.secret|Seamount.secret]]"
+---
 
 # [[Seamount]] 
 

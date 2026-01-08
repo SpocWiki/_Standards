@@ -1,6 +1,31 @@
+---
+dv_has_:
+  time_:
+    started: 2009-12-01T00:00:00.000+01:00
+    incepted: 2007-01-01T00:00:00.000+01:00
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon|EU-Treaty_of_Lisbon]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.public|EU-Treaty_of_Lisbon.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.internal|EU-Treaty_of_Lisbon.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.protect|EU-Treaty_of_Lisbon.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.private|EU-Treaty_of_Lisbon.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal|EU-Treaty_of_Lisbon.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret|EU-Treaty_of_Lisbon.secret]]"
+dv_has_time_started: 2009-12-01
+dv_has_time_incepted: 2007-01-01
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon|EU-Treaty_of_Lisbon]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.public|EU-Treaty_of_Lisbon.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.internal|EU-Treaty_of_Lisbon.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.protect|EU-Treaty_of_Lisbon.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.private|EU-Treaty_of_Lisbon.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal|EU-Treaty_of_Lisbon.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret|EU-Treaty_of_Lisbon.secret]]"
+---
 
-#has_/time_/started :: 2009-12-01 
-#has_/time_/incepted :: 2007-01-01 
+has_time_started = `=this.dv_has_time_started`
+has_time_incepted = `=this.dv_has_time_incepted`
 
 > The Treaty of Lisbon (initially known as the Reform Treaty) 
 > is an international agreement that amends the two treaties 

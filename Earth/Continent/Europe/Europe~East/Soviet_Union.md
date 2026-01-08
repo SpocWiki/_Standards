@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~East/Soviet_Union|Soviet_Union]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~East/Soviet_Union.public|Soviet_Union.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~East/Soviet_Union.internal|Soviet_Union.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~East/Soviet_Union.protect|Soviet_Union.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~East/Soviet_Union.private|Soviet_Union.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~East/Soviet_Union.personal|Soviet_Union.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~East/Soviet_Union.secret|Soviet_Union.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~East/Soviet_Union|Soviet_Union]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~East/Soviet_Union.public|Soviet_Union.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~East/Soviet_Union.internal|Soviet_Union.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~East/Soviet_Union.protect|Soviet_Union.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~East/Soviet_Union.private|Soviet_Union.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~East/Soviet_Union.personal|Soviet_Union.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~East/Soviet_Union.secret|Soviet_Union.secret]]"
+
 has_time_started: 1922-12-30 
 has_time_stopped: 1991-12-26 
 location: [ 90.0 , 65.0 ] 
@@ -282,6 +302,20 @@ Krugosvet_article_archived_: istoriya/SOYUZ_SOVETSKIH_SOTSIALISTICHESKIH_RESPUBL
 # [[Soviet_Union]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Soviet_Union,15180|WD~Soviet_Union,15180]]  
+
+## #has_/map  
+
+```leaflet
+id: Russia
+zoomFeatures: false 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Russia//
+markerFolder: ./Russia////
+coordinates: [[Russia]] 
+markerFile: [[Russia]] 
+defaultZoom: 3 
+```
 
 ## #has_/text_of_/abstract 
 

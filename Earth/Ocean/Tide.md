@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Tide,23384|WD~Tide,23384]]"
+    - "[[/_Standards/Earth/Ocean/Tide|Tide]]"
+    - "[[/_public/Earth/Ocean/Tide.public|Tide.public]]"
+    - "[[/_internal/Earth/Ocean/Tide.internal|Tide.internal]]"
+    - "[[/_protect/Earth/Ocean/Tide.protect|Tide.protect]]"
+    - "[[/_private/Earth/Ocean/Tide.private|Tide.private]]"
+    - "[[/_personal/Earth/Ocean/Tide.personal|Tide.personal]]"
+    - "[[/_secret/Earth/Ocean/Tide.secret|Tide.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Tide,23384|WD~Tide,23384]]"
+  - "[[/_Standards/Earth/Ocean/Tide|Tide]]"
+  - "[[/_public/Earth/Ocean/Tide.public|Tide.public]]"
+  - "[[/_internal/Earth/Ocean/Tide.internal|Tide.internal]]"
+  - "[[/_protect/Earth/Ocean/Tide.protect|Tide.protect]]"
+  - "[[/_private/Earth/Ocean/Tide.private|Tide.private]]"
+  - "[[/_personal/Earth/Ocean/Tide.personal|Tide.personal]]"
+  - "[[/_secret/Earth/Ocean/Tide.secret|Tide.secret]]"
+---
 
 # [[Tide]] 
 

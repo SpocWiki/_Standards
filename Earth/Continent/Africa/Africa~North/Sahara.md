@@ -1,5 +1,25 @@
-﻿---
-location: [ 12.612222222 , 23.079722222 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Sahara,6583|WD~Sahara,6583]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~North/Sahara|Sahara]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~North/Sahara.public|Sahara.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~North/Sahara.internal|Sahara.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~North/Sahara.protect|Sahara.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~North/Sahara.private|Sahara.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~North/Sahara.personal|Sahara.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~North/Sahara.secret|Sahara.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sahara,6583|WD~Sahara,6583]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~North/Sahara|Sahara]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~North/Sahara.public|Sahara.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~North/Sahara.internal|Sahara.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~North/Sahara.protect|Sahara.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~North/Sahara.private|Sahara.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~North/Sahara.personal|Sahara.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~North/Sahara.secret|Sahara.secret]]"
+
+location: [ 23.079722222, 12.612222222 ] 
 aliases:
   - Sahara Desert
   - Sahara
@@ -60,6 +80,20 @@ width: 1800
 # [[Sahara]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Sahara,6583|WD~Sahara,6583]] 
+
+## #has_/map 
+
+```leaflet
+id: Sahara
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Sahara//
+markerFolder: ./Sahara//
+coordinates: [[Sahara]] 
+markerFile: [[Sahara]] 
+defaultZoom: 4 
+```
 
 ## #has_/text_of_/abstract 
 

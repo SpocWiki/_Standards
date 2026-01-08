@@ -6,37 +6,37 @@ aliases:
   - Herbst
 has_id_wikidata: Q1314
 different_from:
-  - '[[_Standards/WikiData/WD~Autumn,254372]]'
-  - '[[_Standards/WikiData/WD~Automne,48172769]]'
+  - "[[_Standards/WikiData/WD~Autumn,254372]]"
+  - "[[_Standards/WikiData/WD~Automne,48172769]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~recurring_event,15275719]]'
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+instance_of: "[[_Standards/WikiData/WD~recurring_event,15275719]]"
 permanent_duplicated_item:
-  - '[[_Standards/WikiData/WD~Q45972410,45972410]]'
-  - '[[_Standards/WikiData/WD~Q46115302,46115302]]'
-  - '[[_Standards/WikiData/WD~Q46119306,46119306]]'
-  - '[[_Standards/WikiData/WD~Q110303273,110303273]]'
-  - '[[_Standards/WikiData/WD~Q117430576,117430576]]'
-  - '[[_Standards/WikiData/WD~Q118287360,118287360]]'
-  - '[[_Standards/WikiData/WD~autumn,118287425]]'
-depicted_by: '[[_Standards/WikiData/WD~Seasons_Room_Autumn,131813181]]'
-followed_by: '[[_Standards/WikiData/WD~winter,1311]]'
-opposite_of: '[[_Standards/WikiData/WD~spring,1312]]'
-follows: '[[_Standards/WikiData/WD~summer,1313]]'
-subclass_of: '[[_Standards/WikiData/WD~season,24384]]'
+  - "[[_Standards/WikiData/WD~Q45972410,45972410]]"
+  - "[[_Standards/WikiData/WD~Q46115302,46115302]]"
+  - "[[_Standards/WikiData/WD~Q46119306,46119306]]"
+  - "[[_Standards/WikiData/WD~Q110303273,110303273]]"
+  - "[[_Standards/WikiData/WD~Q117430576,117430576]]"
+  - "[[_Standards/WikiData/WD~Q118287360,118287360]]"
+  - "[[_Standards/WikiData/WD~autumn,118287425]]"
+depicted_by: "[[_Standards/WikiData/WD~Seasons_Room_Autumn,131813181]]"
+followed_by: "[[_Standards/WikiData/WD~winter,1311]]"
+opposite_of: "[[_Standards/WikiData/WD~spring,1312]]"
+follows: "[[_Standards/WikiData/WD~summer,1313]]"
+subclass_of: "[[_Standards/WikiData/WD~season,24384]]"
 month_of_the_year:
-  - '[[_Standards/WikiData/WD~March,110]]'
-  - '[[_Standards/WikiData/WD~April,118]]'
-  - '[[_Standards/WikiData/WD~May,119]]'
-  - '[[_Standards/WikiData/WD~September,123]]'
-  - '[[_Standards/WikiData/WD~October,124]]'
-  - '[[_Standards/WikiData/WD~November,125]]'
+  - "[[_Standards/WikiData/WD~March,110]]"
+  - "[[_Standards/WikiData/WD~April,118]]"
+  - "[[_Standards/WikiData/WD~May,119]]"
+  - "[[_Standards/WikiData/WD~September,123]]"
+  - "[[_Standards/WikiData/WD~October,124]]"
+  - "[[_Standards/WikiData/WD~November,125]]"
 event_interval: 1
 OmegaWiki_Defined_Meaning: 5615
 hashtag: fall
@@ -51,7 +51,7 @@ label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-t
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Arcimboldo%20-%20Autumn%2C%201573.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20in%20fall%20in%20Canada%20%28banner%29.jpg
 U_S_National_Archives_Identifier: 10676486
-P8189: 987007295821605171
+P8189: 987007295821605100
 Google_Doodle:
   - autumn-2021-northern-hemisphere
   - fall-2019-northern-hemisphere
@@ -69,6 +69,25 @@ Google_Doodle:
   - first-day-of-fall-2016-northern-hemisphere
   - first-day-of-fall-2016-southern-hemisphere
   - first-day-of-fall-2017-southern-hemisphere
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Autumn,1314|WD~Autumn,1314]]"
+    - "[[/_Standards/Earth/Climate/Season/Autumn|Autumn]]"
+    - "[[/_public/Earth/Climate/Season/Autumn.public|Autumn.public]]"
+    - "[[/_internal/Earth/Climate/Season/Autumn.internal|Autumn.internal]]"
+    - "[[/_protect/Earth/Climate/Season/Autumn.protect|Autumn.protect]]"
+    - "[[/_private/Earth/Climate/Season/Autumn.private|Autumn.private]]"
+    - "[[/_personal/Earth/Climate/Season/Autumn.personal|Autumn.personal]]"
+    - "[[/_secret/Earth/Climate/Season/Autumn.secret|Autumn.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Autumn,1314|WD~Autumn,1314]]"
+  - "[[/_Standards/Earth/Climate/Season/Autumn|Autumn]]"
+  - "[[/_public/Earth/Climate/Season/Autumn.public|Autumn.public]]"
+  - "[[/_internal/Earth/Climate/Season/Autumn.internal|Autumn.internal]]"
+  - "[[/_protect/Earth/Climate/Season/Autumn.protect|Autumn.protect]]"
+  - "[[/_private/Earth/Climate/Season/Autumn.private|Autumn.private]]"
+  - "[[/_personal/Earth/Climate/Season/Autumn.personal|Autumn.personal]]"
+  - "[[/_secret/Earth/Climate/Season/Autumn.secret|Autumn.secret]]"
 ---
 
 # [[Autumn]] 

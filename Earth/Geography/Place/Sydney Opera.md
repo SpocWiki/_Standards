@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Sydney_Opera_House,45178|WD~Sydney_Opera_House,45178]]"
+    - "[[/_Standards/Earth/Geography/Place/Sydney Opera|Sydney Opera]]"
+    - "[[/_public/Earth/Geography/Place/Sydney Opera.public|Sydney Opera.public]]"
+    - "[[/_internal/Earth/Geography/Place/Sydney Opera.internal|Sydney Opera.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Sydney Opera.protect|Sydney Opera.protect]]"
+    - "[[/_private/Earth/Geography/Place/Sydney Opera.private|Sydney Opera.private]]"
+    - "[[/_personal/Earth/Geography/Place/Sydney Opera.personal|Sydney Opera.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Sydney Opera.secret|Sydney Opera.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Sydney_Opera_House,45178|WD~Sydney_Opera_House,45178]]"
+  - "[[/_Standards/Earth/Geography/Place/Sydney Opera|Sydney Opera]]"
+  - "[[/_public/Earth/Geography/Place/Sydney Opera.public|Sydney Opera.public]]"
+  - "[[/_internal/Earth/Geography/Place/Sydney Opera.internal|Sydney Opera.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Sydney Opera.protect|Sydney Opera.protect]]"
+  - "[[/_private/Earth/Geography/Place/Sydney Opera.private|Sydney Opera.private]]"
+  - "[[/_personal/Earth/Geography/Place/Sydney Opera.personal|Sydney Opera.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Sydney Opera.secret|Sydney Opera.secret]]"
+
 has_time_started: 1973-01-01 
 aliases:
   - Sydney Opera House

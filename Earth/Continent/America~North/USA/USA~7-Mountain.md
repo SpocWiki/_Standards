@@ -1,7 +1,24 @@
 ---
 location:
-- 40
-- -105.0
+  - 40
+  - -105
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~7-Mountain|USA~7-Mountain]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~7-Mountain.public|USA~7-Mountain.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~7-Mountain.internal|USA~7-Mountain.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~7-Mountain.protect|USA~7-Mountain.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~7-Mountain.private|USA~7-Mountain.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~7-Mountain.personal|USA~7-Mountain.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~7-Mountain.secret|USA~7-Mountain.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~7-Mountain|USA~7-Mountain]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~7-Mountain.public|USA~7-Mountain.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~7-Mountain.internal|USA~7-Mountain.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~7-Mountain.protect|USA~7-Mountain.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~7-Mountain.private|USA~7-Mountain.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~7-Mountain.personal|USA~7-Mountain.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~7-Mountain.secret|USA~7-Mountain.secret]]"
 ---
 
 # [[USA~7-Mountain]] 

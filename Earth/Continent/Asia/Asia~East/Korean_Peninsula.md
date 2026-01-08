@@ -1,5 +1,25 @@
-﻿---
-location: [ 127.0 , 37.5 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula|Korean_Peninsula]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula.public|Korean_Peninsula.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.internal|Korean_Peninsula.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula.protect|Korean_Peninsula.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula.private|Korean_Peninsula.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.personal|Korean_Peninsula.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula.secret|Korean_Peninsula.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula|Korean_Peninsula]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula.public|Korean_Peninsula.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.internal|Korean_Peninsula.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula.protect|Korean_Peninsula.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula.private|Korean_Peninsula.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.personal|Korean_Peninsula.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula.secret|Korean_Peninsula.secret]]"
+
+location: [ 37.5, 127.0 ] 
 aliases:
   - Korean Peninsula
   - Korea
@@ -32,6 +52,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Korea%202003-05-01%20N
 # [[Korean_Peninsula]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]] 
+
+## #has_/map  
+
+```leaflet
+id: Korean_Peninsula
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Korean_Peninsula//
+markerFolder: ./Korean_Peninsula/
+coordinates: [[Korean_Peninsula]] 
+markerFile: [[Korean_Peninsula]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

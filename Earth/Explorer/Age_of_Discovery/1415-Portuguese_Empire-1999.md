@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Portuguese_Empire,200464]]"
+    - "[[/_Standards/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999|1415-Portuguese_Empire-1999]]"
+    - "[[/_public/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.public|1415-Portuguese_Empire-1999.public]]"
+    - "[[/_internal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.internal|1415-Portuguese_Empire-1999.internal]]"
+    - "[[/_protect/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.protect|1415-Portuguese_Empire-1999.protect]]"
+    - "[[/_private/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.private|1415-Portuguese_Empire-1999.private]]"
+    - "[[/_personal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.personal|1415-Portuguese_Empire-1999.personal]]"
+    - "[[/_secret/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.secret|1415-Portuguese_Empire-1999.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Portuguese_Empire,200464]]"
+  - "[[/_Standards/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999|1415-Portuguese_Empire-1999]]"
+  - "[[/_public/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.public|1415-Portuguese_Empire-1999.public]]"
+  - "[[/_internal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.internal|1415-Portuguese_Empire-1999.internal]]"
+  - "[[/_protect/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.protect|1415-Portuguese_Empire-1999.protect]]"
+  - "[[/_private/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.private|1415-Portuguese_Empire-1999.private]]"
+  - "[[/_personal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.personal|1415-Portuguese_Empire-1999.personal]]"
+  - "[[/_secret/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.secret|1415-Portuguese_Empire-1999.secret]]"
+
 has_time_started: 1415-08-30 
 has_time_stopped: 1999-12-20 
 aliases:

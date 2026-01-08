@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Tropic_of_Cancer,176635|WD~Tropic_of_Cancer,176635]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer|Tropic_of_Cancer]]"
+    - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.public|Tropic_of_Cancer.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.internal|Tropic_of_Cancer.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.protect|Tropic_of_Cancer.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.private|Tropic_of_Cancer.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.personal|Tropic_of_Cancer.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.secret|Tropic_of_Cancer.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Tropic_of_Cancer,176635|WD~Tropic_of_Cancer,176635]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer|Tropic_of_Cancer]]"
+  - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.public|Tropic_of_Cancer.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.internal|Tropic_of_Cancer.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.protect|Tropic_of_Cancer.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.private|Tropic_of_Cancer.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.personal|Tropic_of_Cancer.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.secret|Tropic_of_Cancer.secret]]"
+
 location: [ 0.0 , 23.436027777 ] 
 aliases:
 has_id_wikidata: Q176635

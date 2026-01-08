@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Pantheon,99309|WD~Pantheon,99309]]"
+    - "[[/_Standards/Earth/Geography/Place/Pantheon,Rome|Pantheon,Rome]]"
+    - "[[/_public/Earth/Geography/Place/Pantheon,Rome.public|Pantheon,Rome.public]]"
+    - "[[/_internal/Earth/Geography/Place/Pantheon,Rome.internal|Pantheon,Rome.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Pantheon,Rome.protect|Pantheon,Rome.protect]]"
+    - "[[/_private/Earth/Geography/Place/Pantheon,Rome.private|Pantheon,Rome.private]]"
+    - "[[/_personal/Earth/Geography/Place/Pantheon,Rome.personal|Pantheon,Rome.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Pantheon,Rome.secret|Pantheon,Rome.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Pantheon,99309|WD~Pantheon,99309]]"
+  - "[[/_Standards/Earth/Geography/Place/Pantheon,Rome|Pantheon,Rome]]"
+  - "[[/_public/Earth/Geography/Place/Pantheon,Rome.public|Pantheon,Rome.public]]"
+  - "[[/_internal/Earth/Geography/Place/Pantheon,Rome.internal|Pantheon,Rome.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Pantheon,Rome.protect|Pantheon,Rome.protect]]"
+  - "[[/_private/Earth/Geography/Place/Pantheon,Rome.private|Pantheon,Rome.private]]"
+  - "[[/_personal/Earth/Geography/Place/Pantheon,Rome.personal|Pantheon,Rome.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Pantheon,Rome.secret|Pantheon,Rome.secret]]"
+
 has_time_started: 0128-01-01 
-location: [ 12.476944444 , 41.898611111 ] 
+location: [ 41.898611111, 12.476944444 ] 
 aliases:
   - Pantheon
   - Pantheon,Rome
@@ -106,6 +126,20 @@ street_address:
 #is_/same_as :: [[../../../WikiData/WD~Pantheon,99309|WD~Pantheon,99309]] 
 
 ![[../../../assets/Pantheon,Rome.png]] 
+
+## #has_/map  
+
+```leaflet
+id: Pantheon,Rome
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Pantheon,Rome//
+markerFolder: ./Pantheon,Rome/
+coordinates: [[Pantheon,Rome]] 
+markerFile: [[Pantheon,Rome]] 
+defaultZoom: 16 
+```
 
 ## #has_/text_of_/abstract 
 

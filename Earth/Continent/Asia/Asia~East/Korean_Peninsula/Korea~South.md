@@ -1,5 +1,42 @@
-﻿---
-location: [ 128.0 , 36.0 ] 
+---
+dv_ISO2: KR
+dv_ISO3: KOR
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~South_Korea,884|WD~South_Korea,884]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South|Korea~South]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.public|Korea~South.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.internal|Korea~South.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.protect|Korea~South.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.private|Korea~South.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.personal|Korea~South.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.secret|Korea~South.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Korea~South
+dv_name-en: Korea, Rep.
+dv_name-de: Südkorea
+dv_Area-Total: 99392
+dv_Area-Land: 98730
+dv_has_place_continent: "[[../../../Asia]]"
+dv_VehicleCode: ROK
+dv_Capital: "[[Korea~South/City/Seoul]] ]"
+dv_Alcohol-l: 14.8
+dv_Language-Id: 459
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 126.97
+dv_has_place_latitude: 37.55
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~South_Korea,884|WD~South_Korea,884]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South|Korea~South]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.public|Korea~South.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.internal|Korea~South.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.protect|Korea~South.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.private|Korea~South.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.personal|Korea~South.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/Korea~South.secret|Korea~South.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Korea~South
+
 aliases:
   - South-Korea
   - Korea-Republic
@@ -426,13 +463,13 @@ icon: flag-kr
 
 # [[Korea~South]] 
 
-[ISO2::KR]
-[ISO3::KOR] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../../WikiData/WD~South_Korea,884|WD~South_Korea,884]]   
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Korea~South 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Korea~South/ReadMe]] 
 
@@ -450,22 +487,22 @@ markerFile: [[Korea~South]]
 defaultZoom: 6 
 ```
 
-[name-en::Korea, Rep.]
-[name-de::Südkorea]
-[Area-Total::99392]
-[Area-Land::98730]
-has_place_continent:: [[Asia]]  
-[VehicleCode::ROK]
-Capital ::  [[Korea~South/City/Seoul]] ] 
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Korea-south.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Korea-south.mp3]]
 ![[Flag_of_Korea-south.svg|350]]
-[Alcohol-l::14.8]
-[Language-Id::459]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
-[has_place_longitude::126.97]
-[has_place_latitude::37.55]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

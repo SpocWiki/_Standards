@@ -14,6 +14,25 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_Holocaust_event,1
 Commons_category: Ghetto
 IMDb_keyword: ghetto
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20N%201576%20Bild-006%2C%20Minsk%2C%20Juden.jpg
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Ghetto,152018|WD~Ghetto,152018]]"
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/City/Ghetto|Ghetto]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area/City/Ghetto.public|Ghetto.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area/City/Ghetto.internal|Ghetto.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area/City/Ghetto.protect|Ghetto.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area/City/Ghetto.private|Ghetto.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area/City/Ghetto.personal|Ghetto.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area/City/Ghetto.secret|Ghetto.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Ghetto,152018|WD~Ghetto,152018]]"
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/City/Ghetto|Ghetto]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area/City/Ghetto.public|Ghetto.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area/City/Ghetto.internal|Ghetto.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area/City/Ghetto.protect|Ghetto.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area/City/Ghetto.private|Ghetto.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area/City/Ghetto.personal|Ghetto.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area/City/Ghetto.secret|Ghetto.secret]]"
 ---
 
 # [[Ghetto]] 

@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q164466
-location: [ -75.0, -175.0]
+location:
+  - -75
+  - -175
 coordinate_location: Point(-175.0 -75.0)
 shares_border_with: "[[_Standards/WikiData/WD~Victoria_Land,208965]]"
 inflows: "[[_Standards/WikiData/WD~Alph_River,2840070]]"
@@ -18,6 +20,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/NOAA%20Ross%20sea.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Ross%20Sea-banner1.jpg
 U_S_National_Archives_Identifier: "10038097"
 Commons_category: Ross Sea
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Ross_Sea,164466|WD~Ross_Sea,164466]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea|Ross_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.public|Ross_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.internal|Ross_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.protect|Ross_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.private|Ross_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.personal|Ross_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.secret|Ross_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Ross_Sea,164466|WD~Ross_Sea,164466]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea|Ross_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.public|Ross_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.internal|Ross_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.protect|Ross_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.private|Ross_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.personal|Ross_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific/Ross_Sea.secret|Ross_Sea.secret]]"
 ---
 
 # [[Ross_Sea]] 

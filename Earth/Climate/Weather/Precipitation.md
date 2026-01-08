@@ -16,6 +16,25 @@ Commons_gallery: Precipitation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/December%2019%2C%202008%20Snowstorm%20in%20S.%20Westchester1.JPG
 U_S_National_Archives_Identifier: "10641227"
 Commons_category: Precipitation (weather)
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Precipitation,25257|WD~Precipitation,25257]]"
+    - "[[/_Standards/Earth/Climate/Weather/Precipitation|Precipitation]]"
+    - "[[/_public/Earth/Climate/Weather/Precipitation.public|Precipitation.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Precipitation.internal|Precipitation.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Precipitation.protect|Precipitation.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Precipitation.private|Precipitation.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Precipitation.personal|Precipitation.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Precipitation.secret|Precipitation.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Precipitation,25257|WD~Precipitation,25257]]"
+  - "[[/_Standards/Earth/Climate/Weather/Precipitation|Precipitation]]"
+  - "[[/_public/Earth/Climate/Weather/Precipitation.public|Precipitation.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Precipitation.internal|Precipitation.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Precipitation.protect|Precipitation.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Precipitation.private|Precipitation.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Precipitation.personal|Precipitation.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Precipitation.secret|Precipitation.secret]]"
 ---
 
 # [[Precipitation]] 

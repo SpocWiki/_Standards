@@ -1,5 +1,25 @@
-﻿---
-location: [ 11.305555555 , 54.575833333 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Fehmarn_Belt_fixed_link,18541|WD~Fehmarn_Belt_fixed_link,18541]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link|Fehmarn_Belt_fixed_link]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.public|Fehmarn_Belt_fixed_link.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.internal|Fehmarn_Belt_fixed_link.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.protect|Fehmarn_Belt_fixed_link.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.private|Fehmarn_Belt_fixed_link.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.personal|Fehmarn_Belt_fixed_link.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.secret|Fehmarn_Belt_fixed_link.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Fehmarn_Belt_fixed_link,18541|WD~Fehmarn_Belt_fixed_link,18541]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link|Fehmarn_Belt_fixed_link]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.public|Fehmarn_Belt_fixed_link.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.internal|Fehmarn_Belt_fixed_link.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.protect|Fehmarn_Belt_fixed_link.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.private|Fehmarn_Belt_fixed_link.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.personal|Fehmarn_Belt_fixed_link.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Fehmarn_Belt_fixed_link.secret|Fehmarn_Belt_fixed_link.secret]]"
+
+location: [ 54.575833333, 11.305555555 ] 
 aliases:
   - Fehmarn Belt fixed link
   - Femern Bælt-forbindelsen
@@ -35,6 +55,20 @@ date_of_official_opening: 2029-01-01T00:00:00Z
 # [[Fehmarn_Belt_fixed_link]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fehmarn_Belt_fixed_link,18541|WD~Fehmarn_Belt_fixed_link,18541]] 
+
+## #has_/map  
+
+```leaflet
+id: Fehmarn_Belt_fixed_link
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Fehmarn_Belt_fixed_link//
+markerFolder: ./Fehmarn_Belt_fixed_link/
+coordinates: [[Fehmarn_Belt_fixed_link]] 
+markerFile: [[Fehmarn_Belt_fixed_link]] 
+defaultZoom: 9 
+```
 
 ## #has_/text_of_/abstract 
 

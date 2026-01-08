@@ -1,8 +1,25 @@
 ---
 aliases:
   - _Asia-CityDB
-  - ' Asia-CityDB'
+  - " Asia-CityDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/_Asia-CityDB|_Asia-CityDB]]"
+    - "[[/_public/Earth/Continent/Asia/_Asia-CityDB.public|_Asia-CityDB.public]]"
+    - "[[/_internal/Earth/Continent/Asia/_Asia-CityDB.internal|_Asia-CityDB.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/_Asia-CityDB.protect|_Asia-CityDB.protect]]"
+    - "[[/_private/Earth/Continent/Asia/_Asia-CityDB.private|_Asia-CityDB.private]]"
+    - "[[/_personal/Earth/Continent/Asia/_Asia-CityDB.personal|_Asia-CityDB.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/_Asia-CityDB.secret|_Asia-CityDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/_Asia-CityDB|_Asia-CityDB]]"
+  - "[[/_public/Earth/Continent/Asia/_Asia-CityDB.public|_Asia-CityDB.public]]"
+  - "[[/_internal/Earth/Continent/Asia/_Asia-CityDB.internal|_Asia-CityDB.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/_Asia-CityDB.protect|_Asia-CityDB.protect]]"
+  - "[[/_private/Earth/Continent/Asia/_Asia-CityDB.private|_Asia-CityDB.private]]"
+  - "[[/_personal/Earth/Continent/Asia/_Asia-CityDB.personal|_Asia-CityDB.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/_Asia-CityDB.secret|_Asia-CityDB.secret]]"
 ---
 
 ```yaml:dbfolder

@@ -4,25 +4,44 @@ aliases:
   - Natural_Satellite
   - Natural Satellite
 has_id_wikidata: Q2537
-studied_by: '[[_Standards/WikiData/WD~planetary_science,104499]]'
-part_of: '[[_Standards/WikiData/WD~planetary_system,206717]]'
-next_lower_rank: '[[_Standards/WikiData/WD~natural_subsatellite,1274946]]'
+studied_by: "[[_Standards/WikiData/WD~planetary_science,104499]]"
+part_of: "[[_Standards/WikiData/WD~planetary_system,206717]]"
+next_lower_rank: "[[_Standards/WikiData/WD~natural_subsatellite,1274946]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~satellite,1297322]]'
-  - '[[_Standards/WikiData/WD~substellar_object,3132741]]'
+  - "[[_Standards/WikiData/WD~satellite,1297322]]"
+  - "[[_Standards/WikiData/WD~substellar_object,3132741]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_natural_satellite,6334114]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-next_higher_rank: '[[_Standards/WikiData/WD~planet,634]]'
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_natural_satellite,6334114]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+next_higher_rank: "[[_Standards/WikiData/WD~planet,634]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FullMoon2010.jpg
 DataTrek_identifier: Q10882
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Animation7.gif
 Commons_category: Moons
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Natural%20satellite.svg
 Wolfram_Language_entity_type: PlanetaryMoon
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Natural_satellite,2537]]"
+    - "[[/_Standards/Earth/Satellite/Natural_Satellite|Natural_Satellite]]"
+    - "[[/_public/Earth/Satellite/Natural_Satellite.public|Natural_Satellite.public]]"
+    - "[[/_internal/Earth/Satellite/Natural_Satellite.internal|Natural_Satellite.internal]]"
+    - "[[/_protect/Earth/Satellite/Natural_Satellite.protect|Natural_Satellite.protect]]"
+    - "[[/_private/Earth/Satellite/Natural_Satellite.private|Natural_Satellite.private]]"
+    - "[[/_personal/Earth/Satellite/Natural_Satellite.personal|Natural_Satellite.personal]]"
+    - "[[/_secret/Earth/Satellite/Natural_Satellite.secret|Natural_Satellite.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Natural_satellite,2537]]"
+  - "[[/_Standards/Earth/Satellite/Natural_Satellite|Natural_Satellite]]"
+  - "[[/_public/Earth/Satellite/Natural_Satellite.public|Natural_Satellite.public]]"
+  - "[[/_internal/Earth/Satellite/Natural_Satellite.internal|Natural_Satellite.internal]]"
+  - "[[/_protect/Earth/Satellite/Natural_Satellite.protect|Natural_Satellite.protect]]"
+  - "[[/_private/Earth/Satellite/Natural_Satellite.private|Natural_Satellite.private]]"
+  - "[[/_personal/Earth/Satellite/Natural_Satellite.personal|Natural_Satellite.personal]]"
+  - "[[/_secret/Earth/Satellite/Natural_Satellite.secret|Natural_Satellite.secret]]"
 ---
 
 # [[Natural_Satellite]] 

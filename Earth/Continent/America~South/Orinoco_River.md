@@ -59,7 +59,28 @@ route_map: http://commons.wikimedia.org/wiki/Special:FilePath/Orinoco%20drainage
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Panoramica%20del%20rio%20orinoco%20en%20amazonas.JPG
 U_S_National_Archives_Identifier: "10038773"
 Commons_category: Orinoco River
-Wolfram_Language_entity_code: Entity["River", "Orinoco::6yn82"]
+Wolfram_Language_entity_code: Entity"River", "Orinoco = `=this.dv_"River", "Orinoco`
+dv_"River", "Orinoco: 6yn82"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Orinoco_River,131792]]"
+    - "[[/_Standards/Earth/Continent/America~South/Orinoco_River|Orinoco_River]]"
+    - "[[/_public/Earth/Continent/America~South/Orinoco_River.public|Orinoco_River.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Orinoco_River.internal|Orinoco_River.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Orinoco_River.protect|Orinoco_River.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Orinoco_River.private|Orinoco_River.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Orinoco_River.personal|Orinoco_River.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Orinoco_River.secret|Orinoco_River.secret]]"
+dv_river-orinoco: 6yn82"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Orinoco_River,131792]]"
+  - "[[/_Standards/Earth/Continent/America~South/Orinoco_River|Orinoco_River]]"
+  - "[[/_public/Earth/Continent/America~South/Orinoco_River.public|Orinoco_River.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Orinoco_River.internal|Orinoco_River.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Orinoco_River.protect|Orinoco_River.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Orinoco_River.private|Orinoco_River.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Orinoco_River.personal|Orinoco_River.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Orinoco_River.secret|Orinoco_River.secret]]"
 ---
 
 # [[Orinoco_River]] 

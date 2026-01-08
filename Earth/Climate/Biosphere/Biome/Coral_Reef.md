@@ -29,6 +29,25 @@ MeSH_tree_code:
 Krugosvet_article: geografiya/korallovye-rify
 GeoNames_feature_code: H.RFC
 OpenStreetMap_tag_or_key: Tag:reef=coral
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Coral_reef,11292|WD~Coral_reef,11292]]"
+    - "[[/_Standards/Earth/Climate/Biosphere/Biome/Coral_Reef|Coral_Reef]]"
+    - "[[/_public/Earth/Climate/Biosphere/Biome/Coral_Reef.public|Coral_Reef.public]]"
+    - "[[/_internal/Earth/Climate/Biosphere/Biome/Coral_Reef.internal|Coral_Reef.internal]]"
+    - "[[/_protect/Earth/Climate/Biosphere/Biome/Coral_Reef.protect|Coral_Reef.protect]]"
+    - "[[/_private/Earth/Climate/Biosphere/Biome/Coral_Reef.private|Coral_Reef.private]]"
+    - "[[/_personal/Earth/Climate/Biosphere/Biome/Coral_Reef.personal|Coral_Reef.personal]]"
+    - "[[/_secret/Earth/Climate/Biosphere/Biome/Coral_Reef.secret|Coral_Reef.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Coral_reef,11292|WD~Coral_reef,11292]]"
+  - "[[/_Standards/Earth/Climate/Biosphere/Biome/Coral_Reef|Coral_Reef]]"
+  - "[[/_public/Earth/Climate/Biosphere/Biome/Coral_Reef.public|Coral_Reef.public]]"
+  - "[[/_internal/Earth/Climate/Biosphere/Biome/Coral_Reef.internal|Coral_Reef.internal]]"
+  - "[[/_protect/Earth/Climate/Biosphere/Biome/Coral_Reef.protect|Coral_Reef.protect]]"
+  - "[[/_private/Earth/Climate/Biosphere/Biome/Coral_Reef.private|Coral_Reef.private]]"
+  - "[[/_personal/Earth/Climate/Biosphere/Biome/Coral_Reef.personal|Coral_Reef.personal]]"
+  - "[[/_secret/Earth/Climate/Biosphere/Biome/Coral_Reef.secret|Coral_Reef.secret]]"
 ---
 
 # [[Coral_Reef]] 

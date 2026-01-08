@@ -1,8 +1,25 @@
 ---
 aliases:
   - _Europe-CountryDb
-  - ' Europe-CountryDb'
+  - " Europe-CountryDb"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/_Europe-CountryDb|_Europe-CountryDb]]"
+    - "[[/_public/Earth/Continent/Europe/_Europe-CountryDb.public|_Europe-CountryDb.public]]"
+    - "[[/_internal/Earth/Continent/Europe/_Europe-CountryDb.internal|_Europe-CountryDb.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/_Europe-CountryDb.protect|_Europe-CountryDb.protect]]"
+    - "[[/_private/Earth/Continent/Europe/_Europe-CountryDb.private|_Europe-CountryDb.private]]"
+    - "[[/_personal/Earth/Continent/Europe/_Europe-CountryDb.personal|_Europe-CountryDb.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/_Europe-CountryDb.secret|_Europe-CountryDb.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/_Europe-CountryDb|_Europe-CountryDb]]"
+  - "[[/_public/Earth/Continent/Europe/_Europe-CountryDb.public|_Europe-CountryDb.public]]"
+  - "[[/_internal/Earth/Continent/Europe/_Europe-CountryDb.internal|_Europe-CountryDb.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/_Europe-CountryDb.protect|_Europe-CountryDb.protect]]"
+  - "[[/_private/Earth/Continent/Europe/_Europe-CountryDb.private|_Europe-CountryDb.private]]"
+  - "[[/_personal/Earth/Continent/Europe/_Europe-CountryDb.personal|_Europe-CountryDb.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/_Europe-CountryDb.secret|_Europe-CountryDb.secret]]"
 ---
 
 ```yaml:dbfolder

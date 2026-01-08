@@ -4,24 +4,24 @@ aliases:
   - Harbor
 has_id_wikidata: Q283202
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~berth,1153558]]'
-  - '[[_Standards/WikiData/WD~Q1824170,1824170]]'
-  - '[[_Standards/WikiData/WD~Q25464873,25464873]]'
-  - '[[_Standards/WikiData/WD~port,44782]]'
+  - "[[_Standards/WikiData/WD~berth,1153558]]"
+  - "[[_Standards/WikiData/WD~Q1824170,1824170]]"
+  - "[[_Standards/WikiData/WD~Q25464873,25464873]]"
+  - "[[_Standards/WikiData/WD~port,44782]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Harbour,1215515]]'
-  - '[[_Standards/WikiData/WD~Hafen,1310923]]'
-  - '[[_Standards/WikiData/WD~Harbor,4131015]]'
-model_item: '[[_Standards/WikiData/WD~Bristol_Harbour,26874]]'
-subclass_of: '[[_Standards/WikiData/WD~bay,39594]]'
+  - "[[_Standards/WikiData/WD~Harbour,1215515]]"
+  - "[[_Standards/WikiData/WD~Hafen,1310923]]"
+  - "[[_Standards/WikiData/WD~Harbor,4131015]]"
+model_item: "[[_Standards/WikiData/WD~Bristol_Harbour,26874]]"
+subclass_of: "[[_Standards/WikiData/WD~bay,39594]]"
 OpenStreetMap_key: harbour
 Iconclass_notation: 46C223
 IMDb_keyword: harbor
@@ -31,12 +31,33 @@ Krugosvet_article_archived_: Earth_sciences/geografiya/GAVAN.html
 GeoNames_feature_code: H.HBR
 Commons_category: Ports and harbours
 OpenStreetMap_tag: seamark:type=harbour
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Harbor,283202]]"
+    - "[[/_Standards/Earth/Geology/Landform/Harbor|Harbor]]"
+    - "[[/_public/Earth/Geology/Landform/Harbor.public|Harbor.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Harbor.internal|Harbor.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Harbor.protect|Harbor.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Harbor.private|Harbor.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Harbor.personal|Harbor.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Harbor.secret|Harbor.secret]]"
+  different_from: "[[Port]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Harbor,283202]]"
+  - "[[/_Standards/Earth/Geology/Landform/Harbor|Harbor]]"
+  - "[[/_public/Earth/Geology/Landform/Harbor.public|Harbor.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Harbor.internal|Harbor.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Harbor.protect|Harbor.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Harbor.private|Harbor.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Harbor.personal|Harbor.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Harbor.secret|Harbor.secret]]"
+dv_is_different_from: "[[Port]]"
 ---
 
 # [[Harbor]] 
 
 #is_/same_as :: [[WD~Harbor,283202]] 
-#is_/different_from :: [[Port]] 
+is_different_from = `=this.dv_is_different_from`
 
 ## #has_/text_of_/abstract 
 

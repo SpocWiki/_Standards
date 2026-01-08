@@ -7,17 +7,34 @@ aliases:
 has_id_wikidata: Q7939
 Commons_category: El Niño
 connects_with:
-  - '[[_Standards/WikiData/WD~Southern_Oscillation,1423047]]'
-  - '[[_Standards/WikiData/WD~El_Niño_Current,19949840]]'
-different_from: '[[_Standards/WikiData/WD~El_Niño,3050124]]'
+  - "[[_Standards/WikiData/WD~Southern_Oscillation,1423047]]"
+  - "[[_Standards/WikiData/WD~El_Niño_Current,19949840]]"
+different_from: "[[_Standards/WikiData/WD~El_Niño,3050124]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ENSO%20-%20El%20Ni%C3%B1o.svg
-instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
+instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
 OmegaWiki_Defined_Meaning: 671675
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-opposite_of: '[[_Standards/WikiData/WD~La_Niña,642867]]'
-part_of: '[[_Standards/WikiData/WD~El_Niño_southern_oscillation,14524818]]'
-subclass_of: '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+opposite_of: "[[_Standards/WikiData/WD~La_Niña,642867]]"
+part_of: "[[_Standards/WikiData/WD~El_Niño_southern_oscillation,14524818]]"
+subclass_of: "[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Wetterph%C3%A4nomen%20El%20Ni%C3%B1o%20-%20kurzerkl%C3%A4rt.webm
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Climate/El_Niño–Southern_Oscillation|El_Niño–Southern_Oscillation]]"
+    - "[[/_public/Earth/Climate/El_Niño–Southern_Oscillation.public|El_Niño–Southern_Oscillation.public]]"
+    - "[[/_internal/Earth/Climate/El_Niño–Southern_Oscillation.internal|El_Niño–Southern_Oscillation.internal]]"
+    - "[[/_protect/Earth/Climate/El_Niño–Southern_Oscillation.protect|El_Niño–Southern_Oscillation.protect]]"
+    - "[[/_private/Earth/Climate/El_Niño–Southern_Oscillation.private|El_Niño–Southern_Oscillation.private]]"
+    - "[[/_personal/Earth/Climate/El_Niño–Southern_Oscillation.personal|El_Niño–Southern_Oscillation.personal]]"
+    - "[[/_secret/Earth/Climate/El_Niño–Southern_Oscillation.secret|El_Niño–Southern_Oscillation.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Climate/El_Niño–Southern_Oscillation|El_Niño–Southern_Oscillation]]"
+  - "[[/_public/Earth/Climate/El_Niño–Southern_Oscillation.public|El_Niño–Southern_Oscillation.public]]"
+  - "[[/_internal/Earth/Climate/El_Niño–Southern_Oscillation.internal|El_Niño–Southern_Oscillation.internal]]"
+  - "[[/_protect/Earth/Climate/El_Niño–Southern_Oscillation.protect|El_Niño–Southern_Oscillation.protect]]"
+  - "[[/_private/Earth/Climate/El_Niño–Southern_Oscillation.private|El_Niño–Southern_Oscillation.private]]"
+  - "[[/_personal/Earth/Climate/El_Niño–Southern_Oscillation.personal|El_Niño–Southern_Oscillation.personal]]"
+  - "[[/_secret/Earth/Climate/El_Niño–Southern_Oscillation.secret|El_Niño–Southern_Oscillation.secret]]"
 ---
 
 ## #has_/text_of_/abstract 

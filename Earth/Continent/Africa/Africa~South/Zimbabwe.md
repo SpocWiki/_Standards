@@ -343,80 +343,169 @@ Languages:
   - sn
   - nr
   - nd
+dv_ISO4217-currency_alphabetic: ZWL
+dv_ISO4217-currency_name: Zimbabwe Dollar
+dv_ISO4217-currency_numeric: 932
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: ZIMBABWE
+dv_Telephone: 263
+dv_Global: true
+dv_Global_Name: World
+dv_name: Zimbabwe
+dv_name-en:
+  - Zimbabwe
+  - Zimbabwe
+dv_name-es: Zimbabwe
+dv_name-fr: Zimbabwe
+dv_name-cn: 津巴布韦
+dv_name-ar: زمبابوي
+dv_name-ru: Зимбабве
+dv_CLDR_display_name: Zimbabwe
+dv_UNTERM_English: Zimbabwe
+dv_UNTERM_English_Formal: the Republic of Zimbabwe
+dv_UNTERM_Spanish_Formal: la República de Zimbabwe
+dv_UNTERM_Spanish: Zimbabwe
+dv_UNTERM_French: Zimbabwe (le)
+dv_UNTERM_Arabic: زمبابوي
+dv_UNTERM_Arabic_Formal: جمهورية زمبابوي
+dv_UNTERM_Chinese: 津巴布韦
+dv_UNTERM_Chinese_Formal: 津巴布韦共和国
+dv_UNTERM_French_Formal: la République du Zimbabwe
+dv_UNTERM_Russian: Зимбабве
+dv_UNTERM_Russian_Formal: Республика Зимбабве
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Eastern Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 14
+dv_Sub-region: 202
+dv_Geoname-ID: 878675
+dv_FIPS: ZI
+dv_FIFA: ZIM
+dv_IOC: ZIM
+dv_MARC: rh
+dv_GAUL: 271
+dv_WMO: ZW
+dv_ITU: ZWE
+dv_DS: ZW
+dv_TLD: .zw
+dv_EDGAR: Y5
+dv_M49: 716
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_ISO3166-1-numeric: 716
+dv_ISO2: ZW
+dv_ISO3: ZWE
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe|Zimbabwe]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe.public|Zimbabwe.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe.internal|Zimbabwe.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe.protect|Zimbabwe.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~South/Zimbabwe.private|Zimbabwe.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe.personal|Zimbabwe.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe.secret|Zimbabwe.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Zimbabwe
+dv_name-de: Zimbabwe
+dv_Area-Total: 390757
+dv_Area-Land: 386850
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: ZW
+dv_Alcohol-l: 5.1
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 31.05
+dv_has_place_latitude: -17.8333
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe|Zimbabwe]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe.public|Zimbabwe.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe.internal|Zimbabwe.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe.protect|Zimbabwe.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~South/Zimbabwe.private|Zimbabwe.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe.personal|Zimbabwe.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe.secret|Zimbabwe.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Zimbabwe
 ---
 
 # [[Zimbabwe]] 
 
-[	ISO4217-currency_alphabetic	 :: ZWL ]
-[	ISO4217-currency_name	 :: Zimbabwe Dollar ]
-[	ISO4217-currency_numeric	 :: 932 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: ZIMBABWE ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 263 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Zimbabwe ]
+name = `=this.dv_name`
 [	name-en	 :: Zimbabwe ]
-[	name-es	 :: Zimbabwe ]
-[	name-fr	 :: Zimbabwe ]
-[	name-cn	 :: 津巴布韦 ]
-[	name-ar	 :: زمبابوي ]
-[	name-ru	 :: Зимбабве ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Zimbabwe ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Zimbabwe ]
-[	UNTERM_English_Formal	 :: the Republic of Zimbabwe ]
-[	UNTERM_Spanish_Formal	 :: la República de Zimbabwe ]
-[	UNTERM_Spanish	 :: Zimbabwe ]
-[	UNTERM_French	 :: Zimbabwe (le) ]
-[	UNTERM_Arabic	 :: زمبابوي ]
-[	UNTERM_Arabic_Formal	 :: جمهورية زمبابوي ]
-[	UNTERM_Chinese	 :: 津巴布韦 ]
-[	UNTERM_Chinese_Formal	 :: 津巴布韦共和国 ]
-[	UNTERM_French_Formal	 :: la République du Zimbabwe ]
-[	UNTERM_Russian	 :: Зимбабве ]
-[	UNTERM_Russian_Formal	 :: Республика Зимбабве ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Eastern Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 14 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 878675 ]
-[	FIPS	 :: ZI ]
-[	FIFA	 :: ZIM ]
-[	IOC	 :: ZIM ]
-[	MARC	 :: rh ]
-[	GAUL	 :: 271 ]
-[	WMO	 :: ZW ]
-[	ITU	 :: ZWE ]
-[	DS	 :: ZW ]
-[	TLD	 :: .zw ]
-[	EDGAR	 :: Y5 ]
-[	M49	 :: 716 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 716 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::ZW]
-[ISO3::ZWE]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Zimbabwe 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Zimbabwe/ReadMe]] 
 
@@ -432,7 +521,7 @@ markerFolder: ./Zimbabwe//
 ```
 
 [name-en::Zimbabwe]
-[name-de::Zimbabwe]
+name-de = `=this.dv_name-de`
 
 ![[Coat_of_arms_of_Zimbabwe.svg|550]]
 
@@ -440,17 +529,17 @@ markerFolder: ./Zimbabwe//
 
 ![[Flag_of_Zimbabwe.svg|350]]
 
-[Area-Total::390757]
-[Area-Land::386850]
-has_place_continent:: [[Africa]]  
-[VehicleCode::ZW]
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Zimbabwe/Provinces~Zimbabwe/Harare,Province]]  
-[Alcohol-l::5.1]
-[Language-Id::499]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::31.05]
-[has_place_latitude::-17.8333]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

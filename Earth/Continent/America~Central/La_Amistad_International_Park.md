@@ -1,4 +1,26 @@
-﻿---
+---
+dv_"Park", "LaAmistadInternationalPark: r287s"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~La_Amistad_International_Park,379217]]"
+    - "[[/_Standards/Earth/Continent/America~Central/La_Amistad_International_Park|La_Amistad_International_Park]]"
+    - "[[/_public/Earth/Continent/America~Central/La_Amistad_International_Park.public|La_Amistad_International_Park.public]]"
+    - "[[/_internal/Earth/Continent/America~Central/La_Amistad_International_Park.internal|La_Amistad_International_Park.internal]]"
+    - "[[/_protect/Earth/Continent/America~Central/La_Amistad_International_Park.protect|La_Amistad_International_Park.protect]]"
+    - "[[/_private/Earth/Continent/America~Central/La_Amistad_International_Park.private|La_Amistad_International_Park.private]]"
+    - "[[/_personal/Earth/Continent/America~Central/La_Amistad_International_Park.personal|La_Amistad_International_Park.personal]]"
+    - "[[/_secret/Earth/Continent/America~Central/La_Amistad_International_Park.secret|La_Amistad_International_Park.secret]]"
+dv_park-laamistadinternationalpark: r287s"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~La_Amistad_International_Park,379217]]"
+  - "[[/_Standards/Earth/Continent/America~Central/La_Amistad_International_Park|La_Amistad_International_Park]]"
+  - "[[/_public/Earth/Continent/America~Central/La_Amistad_International_Park.public|La_Amistad_International_Park.public]]"
+  - "[[/_internal/Earth/Continent/America~Central/La_Amistad_International_Park.internal|La_Amistad_International_Park.internal]]"
+  - "[[/_protect/Earth/Continent/America~Central/La_Amistad_International_Park.protect|La_Amistad_International_Park.protect]]"
+  - "[[/_private/Earth/Continent/America~Central/La_Amistad_International_Park.private|La_Amistad_International_Park.private]]"
+  - "[[/_personal/Earth/Continent/America~Central/La_Amistad_International_Park.personal|La_Amistad_International_Park.personal]]"
+  - "[[/_secret/Earth/Continent/America~Central/La_Amistad_International_Park.secret|La_Amistad_International_Park.secret]]"
+
 has_time_started: 1988-01-01 
 aliases:
   - La Amistad International Park
@@ -24,7 +46,7 @@ UNESCO_Biosphere_Reserve_URL: http://www.unesco.org/mabdb/br/brdir/directory/bio
 inception: 1988-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DirkvdM%20cloudforest-jungle.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20La%20Amistad%20International%20Park%20Welcome%20sign.jpg
-Wolfram_Language_entity_code: Entity["Park", "LaAmistadInternationalPark::r287s"]
+Wolfram_Language_entity_code: Entity"Park", "LaAmistadInternationalPark = `=this.dv_"Park", "LaAmistadInternationalPark`
 Commons_category: La Amistad International Park
 native_label: Parque internacional La Amistad
 coordinate_location: Point(-82.936111111 9.405)

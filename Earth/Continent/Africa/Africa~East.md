@@ -5,6 +5,23 @@ aliases:
   - Eastern_Africa
   - East of Africa
   - Africa~East
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East|Africa~East]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East.public|Africa~East.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East.internal|Africa~East.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East.protect|Africa~East.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East.private|Africa~East.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East.personal|Africa~East.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East.secret|Africa~East.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East|Africa~East]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East.public|Africa~East.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East.internal|Africa~East.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East.protect|Africa~East.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East.private|Africa~East.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East.personal|Africa~East.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East.secret|Africa~East.secret]]"
 ---
 
 # [[Africa~East]] 

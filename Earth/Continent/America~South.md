@@ -8,30 +8,32 @@ coordinates_of_northernmost_point: Point(-63.619416666 15.670972222)
 coordinates_of_southernmost_point: Point(-68.72005 -56.538261111)
 coordinates_of_westernmost_point: Point(-81.328611111 -4.682777777)
 coordinate_location: Point(-59.0 -21.0)
-location: [ -21.0, -59.0]
+location:
+  - -21
+  - -59
 Archive_of_Our_Own_tag: South America
 area: 17843000
 Basisklassifikation: 74.26
 BHCL_UUID: aec64783-6189-4c93-9799-5772e2c3cf0c
-bibliography: '[[_Standards/WikiData/WD~bibliography_of_South_America,4903395]]'
+bibliography: "[[_Standards/WikiData/WD~bibliography_of_South_America,4903395]]"
 Colon_Classification: SG--791
 Commons_category: South America
 Commons_gallery: Sudamérica - América do Sul
 confidential: public
 contains_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Chile,298]]'
-  - '[[_Standards/WikiData/WD~Argentina,414]]'
-  - '[[_Standards/WikiData/WD~Peru,419]]'
-  - '[[_Standards/WikiData/WD~Venezuela,717]]'
-  - '[[_Standards/WikiData/WD~Guyana,734]]'
-  - '[[_Standards/WikiData/WD~Paraguay,733]]'
-  - '[[_Standards/WikiData/WD~Colombia,739]]'
-  - '[[_Standards/WikiData/WD~Ecuador,736]]'
-  - '[[_Standards/WikiData/WD~Bolivia,750]]'
-  - '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]'
-  - '[[_Standards/WikiData/WD~Uruguay,77]]'
-  - '[[_Standards/WikiData/WD~Brazil,155]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_South_America,5256080]]'
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~Venezuela,717]]"
+  - "[[_Standards/WikiData/WD~Guyana,734]]"
+  - "[[_Standards/WikiData/WD~Paraguay,733]]"
+  - "[[_Standards/WikiData/WD~Colombia,739]]"
+  - "[[_Standards/WikiData/WD~Ecuador,736]]"
+  - "[[_Standards/WikiData/WD~Bolivia,750]]"
+  - "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_South_America,5256080]]"
 demonym:
   - South American
   - Sudamerikano
@@ -49,91 +51,115 @@ demonym:
   - sul-americano
   - sul-americanos
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 document_file_on_Wikimedia_Commons: http://commons.wikimedia.org/wiki/Special:FilePath/America-do-Sul-Mapa-Politico-Mapa-Escolar-IBGE-Brasil.pdf
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_South_America,1072272]]'
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_South_America,1072272]]"
 exact_match: http://cv.iptc.org/newscodes/worldregion/r005
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_South_America,968983]]'
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_South_America,968983]]"
 geoshape: http://commons.wikimedia.org/data/main/Data:South+America+Flickr.map
 GitHub_topic: south-america
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Malvinas_Islands,6745123]]'
-  - '[[_Standards/WikiData/WD~Chile,298]]'
-  - '[[_Standards/WikiData/WD~Argentina,414]]'
-  - '[[_Standards/WikiData/WD~Peru,419]]'
-  - '[[_Standards/WikiData/WD~Venezuela,717]]'
-  - '[[_Standards/WikiData/WD~Suriname,730]]'
-  - '[[_Standards/WikiData/WD~Guyana,734]]'
-  - '[[_Standards/WikiData/WD~Paraguay,733]]'
-  - '[[_Standards/WikiData/WD~Colombia,739]]'
-  - '[[_Standards/WikiData/WD~Ecuador,736]]'
-  - '[[_Standards/WikiData/WD~Bolivia,750]]'
-  - '[[_Standards/WikiData/WD~French_Guiana,3769]]'
-  - '[[_Standards/WikiData/WD~Uruguay,77]]'
-  - '[[_Standards/WikiData/WD~Brazil,155]]'
-  - '[[_Standards/WikiData/WD~South_Georgia_and_the_South_Sandwich_Islands,35086]]'
-highest_point: '[[_Standards/WikiData/WD~Aconcagua,39739]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_South_America,912852]]'
+  - "[[_Standards/WikiData/WD~Malvinas_Islands,6745123]]"
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~Venezuela,717]]"
+  - "[[_Standards/WikiData/WD~Suriname,730]]"
+  - "[[_Standards/WikiData/WD~Guyana,734]]"
+  - "[[_Standards/WikiData/WD~Paraguay,733]]"
+  - "[[_Standards/WikiData/WD~Colombia,739]]"
+  - "[[_Standards/WikiData/WD~Ecuador,736]]"
+  - "[[_Standards/WikiData/WD~Bolivia,750]]"
+  - "[[_Standards/WikiData/WD~French_Guiana,3769]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~South_Georgia_and_the_South_Sandwich_Islands,35086]]"
+highest_point: "[[_Standards/WikiData/WD~Aconcagua,39739]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_South_America,912852]]"
 IAB_code: 1224
 image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20satellite%20orthographic.jpg
 IMDb_keyword: south-america
 instance_of:
-  - '[[_Standards/WikiData/WD~geographic_region,82794]]'
-  - '[[_Standards/WikiData/WD~subcontinent,855697]]'
-  - '[[_Standards/WikiData/WD~statistical_territorial_entity,15042037]]'
-  - '[[_Standards/WikiData/WD~continent,5107]]'
+  - "[[_Standards/WikiData/WD~geographic_region,82794]]"
+  - "[[_Standards/WikiData/WD~subcontinent,855697]]"
+  - "[[_Standards/WikiData/WD~statistical_territorial_entity,15042037]]"
+  - "[[_Standards/WikiData/WD~continent,5107]]"
 isDeleted: false
 Libris_URI: xv8bbh3g0d10v0c
 located_in_on_physical_feature:
-  - '[[_Standards/WikiData/WD~Northern_Hemisphere,39061]]'
-  - '[[_Standards/WikiData/WD~Southern_Hemisphere,41228]]'
+  - "[[_Standards/WikiData/WD~Northern_Hemisphere,39061]]"
+  - "[[_Standards/WikiData/WD~Southern_Hemisphere,41228]]"
 located_in_or_next_to_body_of_water:
-  - '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
-  - '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-  - '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+  - "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 located_in_time_zone:
-  - '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
-  - '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
-  - '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
-  - '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
-  - '[[_Standards/WikiData/WD~UTC_02_00,6536]]'
+  - "[[_Standards/WikiData/WD~UTC_06_00,5385]]"
+  - "[[_Standards/WikiData/WD~UTC_05_00,5390]]"
+  - "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
+  - "[[_Standards/WikiData/WD~UTC_03_00,6513]]"
+  - "[[_Standards/WikiData/WD~UTC_02_00,6536]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20%28orthographic%20projection%29.svg
-lowest_point: '[[_Standards/WikiData/WD~Laguna_del_Carbón,1780252]]'
+lowest_point: "[[_Standards/WikiData/WD~Laguna_del_Carbón,1780252]]"
 M49_code: 5
 MeSH_tree_code: Z01.107.757
 number_of_out_of_school_children: 6472941
 OmegaWiki_Defined_Meaning: 3564
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/South%20America%20Wikivoyage%20banner.jpg
 part_of:
-  - '[[_Standards/WikiData/WD~Americas,828]]'
-  - '[[_Standards/WikiData/WD~Latin_America,12585]]'
-  - '[[_Standards/WikiData/WD~Earth,2]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828135,22828135]]'
+  - "[[_Standards/WikiData/WD~Americas,828]]"
+  - "[[_Standards/WikiData/WD~Latin_America,12585]]"
+  - "[[_Standards/WikiData/WD~Earth,2]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828135,22828135]]"
 PM20_geo_code: E4
 population: 385742554
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-S%C3%BCdamerika.ogg
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Continental_Central_America,18479603]]'
-  - '[[_Standards/WikiData/WD~Central_America,27611]]'
-  - '[[_Standards/WikiData/WD~North_America,49]]'
+  - "[[_Standards/WikiData/WD~Continental_Central_America,18479603]]"
+  - "[[_Standards/WikiData/WD~Central_America,27611]]"
+  - "[[_Standards/WikiData/WD~North_America,49]]"
 short_name:
   - 南米
   - 남미
 SpocWebEntityId: 27160
 tags:
   - geo/Continent
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Countries_of_South_America,6553827]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_South_America,13093041]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Countries_of_South_America,6553827]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_South_America,13093041]]"
 type: Continent
 UMLS_CUI: C0037713
 U_S_National_Archives_Identifier: 10035685
 vehicles_per_thousand_people: 176
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_South_America,7112458]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_South_America,7112458]]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~South_America,18|WD~South_America,18]]"
+    - "[[/_Standards/Earth/Continent/America~South|America~South]]"
+    - "[[/_public/Earth/Continent/America~South.public|America~South.public]]"
+    - "[[/_internal/Earth/Continent/America~South.internal|America~South.internal]]"
+    - "[[/_protect/Earth/Continent/America~South.protect|America~South.protect]]"
+    - "[[/_private/Earth/Continent/America~South.private|America~South.private]]"
+    - "[[/_personal/Earth/Continent/America~South.personal|America~South.personal]]"
+    - "[[/_secret/Earth/Continent/America~South.secret|America~South.secret]]"
+dv_name-en: South America
+dv_name-de: Südamerika
+dv_#has_:
+  code: SA
+dv_is_same_as:
+  - "[[../../WikiData/WD~South_America,18|WD~South_America,18]]"
+  - "[[/_Standards/Earth/Continent/America~South|America~South]]"
+  - "[[/_public/Earth/Continent/America~South.public|America~South.public]]"
+  - "[[/_internal/Earth/Continent/America~South.internal|America~South.internal]]"
+  - "[[/_protect/Earth/Continent/America~South.protect|America~South.protect]]"
+  - "[[/_private/Earth/Continent/America~South.private|America~South.private]]"
+  - "[[/_personal/Earth/Continent/America~South.personal|America~South.personal]]"
+  - "[[/_secret/Earth/Continent/America~South.secret|America~South.secret]]"
+dv_has_code: SA
 ---
 
 # [[America~South]] 
@@ -156,9 +182,9 @@ markerFile: [[America~South]]
 zoomFeatures: true 
 ```
 
-[name-en::South America]
-[name-de::Südamerika]
-[ #has_/code  :: SA ]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
+has_code = `=this.dv_has_code`
 
 
 ## #has_/text_of_/abstract 

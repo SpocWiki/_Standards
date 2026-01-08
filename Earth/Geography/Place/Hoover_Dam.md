@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Hoover_Dam,172822|WD~Hoover_Dam,172822]]"
+    - "[[/_Standards/Earth/Geography/Place/Hoover_Dam|Hoover_Dam]]"
+    - "[[/_public/Earth/Geography/Place/Hoover_Dam.public|Hoover_Dam.public]]"
+    - "[[/_internal/Earth/Geography/Place/Hoover_Dam.internal|Hoover_Dam.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Hoover_Dam.protect|Hoover_Dam.protect]]"
+    - "[[/_private/Earth/Geography/Place/Hoover_Dam.private|Hoover_Dam.private]]"
+    - "[[/_personal/Earth/Geography/Place/Hoover_Dam.personal|Hoover_Dam.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Hoover_Dam.secret|Hoover_Dam.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Hoover_Dam,172822|WD~Hoover_Dam,172822]]"
+  - "[[/_Standards/Earth/Geography/Place/Hoover_Dam|Hoover_Dam]]"
+  - "[[/_public/Earth/Geography/Place/Hoover_Dam.public|Hoover_Dam.public]]"
+  - "[[/_internal/Earth/Geography/Place/Hoover_Dam.internal|Hoover_Dam.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Hoover_Dam.protect|Hoover_Dam.protect]]"
+  - "[[/_private/Earth/Geography/Place/Hoover_Dam.private|Hoover_Dam.private]]"
+  - "[[/_personal/Earth/Geography/Place/Hoover_Dam.personal|Hoover_Dam.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Hoover_Dam.secret|Hoover_Dam.secret]]"
+
 has_time_started: 1931-01-01 
 aliases:
   - Hoover Dam

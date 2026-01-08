@@ -3,17 +3,17 @@ aliases:
   - isthmuses
   - isthmi
   - Landbrücke
-  - ''
+  - ""
   - Isthmus
 has_id_wikidata: Q93267
-subclass_of: '[[_Standards/WikiData/WD~landform,271669]]'
+subclass_of: "[[_Standards/WikiData/WD~landform,271669]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~place_type,25894868]]'
-opposite_of: '[[_Standards/WikiData/WD~strait,37901]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+instance_of: "[[_Standards/WikiData/WD~place_type,25894868]]"
+opposite_of: "[[_Standards/WikiData/WD~strait,37901]]"
 OmegaWiki_Defined_Meaning: 683956
 Commons_category: Isthmi
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Neck%20Bruny%20Island.jpg
@@ -22,11 +22,32 @@ Iconclass_notation: 25H142
 Krugosvet_article_archived_: Earth_sciences/geografiya/PERESHEEK.html
 GeoNames_feature_code: T.ISTH
 OpenStreetMap_tag: natural=isthmus
+dv_is_:
+  opposite_of: "[[Strait]]"
+  same_as:
+    - "[[../../../WikiData/WD~Isthmus,93267]]"
+    - "[[/_Standards/Earth/Geology/Landform/Isthmus|Isthmus]]"
+    - "[[/_public/Earth/Geology/Landform/Isthmus.public|Isthmus.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Isthmus.internal|Isthmus.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Isthmus.protect|Isthmus.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Isthmus.private|Isthmus.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Isthmus.personal|Isthmus.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Isthmus.secret|Isthmus.secret]]"
+dv_is_opposite_of: "[[Strait]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Isthmus,93267]]"
+  - "[[/_Standards/Earth/Geology/Landform/Isthmus|Isthmus]]"
+  - "[[/_public/Earth/Geology/Landform/Isthmus.public|Isthmus.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Isthmus.internal|Isthmus.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Isthmus.protect|Isthmus.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Isthmus.private|Isthmus.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Isthmus.personal|Isthmus.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Isthmus.secret|Isthmus.secret]]"
 ---
 
 # [[Isthmus]] 
 
-#is_/opposite_of :: [[Strait]]
+is_opposite_of = `=this.dv_is_opposite_of`
 #is_/same_as :: [[WD~Isthmus,93267]] 
 
 ## #has_/text_of_/abstract 

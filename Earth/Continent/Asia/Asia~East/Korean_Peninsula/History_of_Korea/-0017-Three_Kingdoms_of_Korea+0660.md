@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Three_Kingdoms_of_Korea,165292|WD~Three_Kingdoms_of_Korea,165292]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660|-0017-Three_Kingdoms_of_Korea+0660]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.public|-0017-Three_Kingdoms_of_Korea+0660.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.internal|-0017-Three_Kingdoms_of_Korea+0660.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.protect|-0017-Three_Kingdoms_of_Korea+0660.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.private|-0017-Three_Kingdoms_of_Korea+0660.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.personal|-0017-Three_Kingdoms_of_Korea+0660.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.secret|-0017-Three_Kingdoms_of_Korea+0660.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Three_Kingdoms_of_Korea,165292|WD~Three_Kingdoms_of_Korea,165292]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660|-0017-Three_Kingdoms_of_Korea+0660]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.public|-0017-Three_Kingdoms_of_Korea+0660.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.internal|-0017-Three_Kingdoms_of_Korea+0660.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.protect|-0017-Three_Kingdoms_of_Korea+0660.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.private|-0017-Three_Kingdoms_of_Korea+0660.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.personal|-0017-Three_Kingdoms_of_Korea+0660.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea/-0017-Three_Kingdoms_of_Korea+0660.secret|-0017-Three_Kingdoms_of_Korea+0660.secret]]"
+
 has_time_stopped: 0660-01-01 
 aliases:
 has_id_wikidata: Q165292

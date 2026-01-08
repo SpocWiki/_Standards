@@ -27,6 +27,25 @@ IMDb_keyword: american-history
 subreddit: AmericanHistory
 Commons_gallery: History of the United States
 Commons_category: History of the United States
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~History_of_the_United_States,131110|WD~History_of_the_United_States,131110]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA|History_of_the_USA]]"
+    - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA.public|History_of_the_USA.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA.internal|History_of_the_USA.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA.protect|History_of_the_USA.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA.private|History_of_the_USA.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA.personal|History_of_the_USA.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA.secret|History_of_the_USA.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~History_of_the_United_States,131110|WD~History_of_the_United_States,131110]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA|History_of_the_USA]]"
+  - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA.public|History_of_the_USA.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA.internal|History_of_the_USA.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA.protect|History_of_the_USA.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA.private|History_of_the_USA.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA.personal|History_of_the_USA.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA.secret|History_of_the_USA.secret]]"
 ---
 
 # [[History_of_the_USA]] 

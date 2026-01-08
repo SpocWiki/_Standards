@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~European_Atomic_Energy_Community,8919|WD~European_Atomic_Energy_Community,8919]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community|European_Atomic_Energy_Community]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.public|European_Atomic_Energy_Community.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.internal|European_Atomic_Energy_Community.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.protect|European_Atomic_Energy_Community.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.private|European_Atomic_Energy_Community.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.personal|European_Atomic_Energy_Community.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.secret|European_Atomic_Energy_Community.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~European_Atomic_Energy_Community,8919|WD~European_Atomic_Energy_Community,8919]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community|European_Atomic_Energy_Community]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.public|European_Atomic_Energy_Community.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.internal|European_Atomic_Energy_Community.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.protect|European_Atomic_Energy_Community.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.private|European_Atomic_Energy_Community.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.personal|European_Atomic_Energy_Community.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.secret|European_Atomic_Energy_Community.secret]]"
+
 has_time_started: 1957-03-25 
 aliases:
   - European Atomic Energy Community

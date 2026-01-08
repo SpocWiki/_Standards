@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Germanic_peoples,22633|WD~Germanic_peoples,22633]]"
+    - "[[/_Standards/Earth/Continent/Europe/Germanic_Peoples|Germanic_Peoples]]"
+    - "[[/_public/Earth/Continent/Europe/Germanic_Peoples.public|Germanic_Peoples.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Germanic_Peoples.internal|Germanic_Peoples.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Germanic_Peoples.protect|Germanic_Peoples.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Germanic_Peoples.private|Germanic_Peoples.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Germanic_Peoples.personal|Germanic_Peoples.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Germanic_Peoples.secret|Germanic_Peoples.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Germanic_peoples,22633|WD~Germanic_peoples,22633]]"
+  - "[[/_Standards/Earth/Continent/Europe/Germanic_Peoples|Germanic_Peoples]]"
+  - "[[/_public/Earth/Continent/Europe/Germanic_Peoples.public|Germanic_Peoples.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Germanic_Peoples.internal|Germanic_Peoples.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Germanic_Peoples.protect|Germanic_Peoples.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Germanic_Peoples.private|Germanic_Peoples.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Germanic_Peoples.personal|Germanic_Peoples.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Germanic_Peoples.secret|Germanic_Peoples.secret]]"
+---
 
 # [[Germanic_Peoples]] 
 

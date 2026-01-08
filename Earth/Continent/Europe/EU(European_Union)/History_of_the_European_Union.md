@@ -10,6 +10,25 @@ part_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
 subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salon%20de%20l%27Horloge.jpg
 Commons_category: History of the European Union
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~History_of_the_European_Union,212114|WD~History_of_the_European_Union,212114]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union|History_of_the_European_Union]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.public|History_of_the_European_Union.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.internal|History_of_the_European_Union.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.protect|History_of_the_European_Union.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.private|History_of_the_European_Union.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.personal|History_of_the_European_Union.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.secret|History_of_the_European_Union.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~History_of_the_European_Union,212114|WD~History_of_the_European_Union,212114]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union|History_of_the_European_Union]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.public|History_of_the_European_Union.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.internal|History_of_the_European_Union.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.protect|History_of_the_European_Union.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.private|History_of_the_European_Union.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.personal|History_of_the_European_Union.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/History_of_the_European_Union.secret|History_of_the_European_Union.secret]]"
 ---
 
 # [[History_of_the_European_Union]] 

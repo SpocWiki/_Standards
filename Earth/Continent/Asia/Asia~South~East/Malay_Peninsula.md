@@ -1,5 +1,25 @@
-﻿---
-location: [ 100.0 , 7.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Malay_Peninsula,18758]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula|Malay_Peninsula]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.public|Malay_Peninsula.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.internal|Malay_Peninsula.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.protect|Malay_Peninsula.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.private|Malay_Peninsula.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.personal|Malay_Peninsula.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.secret|Malay_Peninsula.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Malay_Peninsula,18758]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula|Malay_Peninsula]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.public|Malay_Peninsula.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.internal|Malay_Peninsula.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.protect|Malay_Peninsula.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.private|Malay_Peninsula.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.personal|Malay_Peninsula.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Peninsula.secret|Malay_Peninsula.secret]]"
+
+location: [ 7.0, 100.0 ] 
 aliases:
 has_id_wikidata: Q18758
 located_in_or_next_to_body_of_water:
@@ -29,6 +49,20 @@ Libris_URI: rp354zk92xjz0wg
 # [[Malay_Peninsula]] 
 
 #is_/same_as :: [[WD~Malay_Peninsula,18758]] 
+
+## #has_/map  
+
+```leaflet
+id: Malay_Peninsula
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Malay_Peninsula//
+markerFolder: ./Malay_Peninsula/
+coordinates: [[Malay_Peninsula]] 
+markerFile: [[Malay_Peninsula]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

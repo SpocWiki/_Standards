@@ -2,7 +2,9 @@
 aliases:
 has_id_wikidata: Q173343
 coordinate_location: Point(-45.0 -73.0)
-location: [ -73.0, -45.0]
+location:
+  - -73
+  - -45
 instance_of: "[[_Standards/WikiData/WD~marginal_sea,204894]]"
 named_after: "[[_Standards/WikiData/WD~James_Weddell,343065]]"
 described_by_source:
@@ -14,8 +16,29 @@ continent: "[[_Standards/WikiData/WD~Antarctica,51]]"
 area: 2800000
 vertical_depth: 6820
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NASA%27s%20DC-8%20Flying%20Over%20the%20Weddell%20Sea.jpg
-Wolfram_Language_entity_code: Entity["Concept", "WeddellSea::8442b"]
+Wolfram_Language_entity_code: Entity"Concept", "WeddellSea = `=this.dv_"Concept", "WeddellSea`
 Commons_category: Weddell Sea
+dv_"Concept", "WeddellSea: 8442b"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Weddell_Sea,173343|WD~Weddell_Sea,173343]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea|Weddell_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.public|Weddell_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.internal|Weddell_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.protect|Weddell_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.private|Weddell_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.personal|Weddell_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.secret|Weddell_Sea.secret]]"
+dv_concept-weddellsea: 8442b"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Weddell_Sea,173343|WD~Weddell_Sea,173343]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea|Weddell_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.public|Weddell_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.internal|Weddell_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.protect|Weddell_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.private|Weddell_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.personal|Weddell_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.secret|Weddell_Sea.secret]]"
 ---
 
 # [[Weddell_Sea]] 

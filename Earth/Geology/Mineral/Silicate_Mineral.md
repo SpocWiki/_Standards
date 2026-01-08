@@ -13,6 +13,25 @@ Commons_category: Silicates
 Dewey_Decimal_Classification:
   - "549.6"
   - "546.68324"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Silicate_mineral,178977|WD~Silicate_mineral,178977]]"
+    - "[[/_Standards/Earth/Geology/Mineral/Silicate_Mineral|Silicate_Mineral]]"
+    - "[[/_public/Earth/Geology/Mineral/Silicate_Mineral.public|Silicate_Mineral.public]]"
+    - "[[/_internal/Earth/Geology/Mineral/Silicate_Mineral.internal|Silicate_Mineral.internal]]"
+    - "[[/_protect/Earth/Geology/Mineral/Silicate_Mineral.protect|Silicate_Mineral.protect]]"
+    - "[[/_private/Earth/Geology/Mineral/Silicate_Mineral.private|Silicate_Mineral.private]]"
+    - "[[/_personal/Earth/Geology/Mineral/Silicate_Mineral.personal|Silicate_Mineral.personal]]"
+    - "[[/_secret/Earth/Geology/Mineral/Silicate_Mineral.secret|Silicate_Mineral.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Silicate_mineral,178977|WD~Silicate_mineral,178977]]"
+  - "[[/_Standards/Earth/Geology/Mineral/Silicate_Mineral|Silicate_Mineral]]"
+  - "[[/_public/Earth/Geology/Mineral/Silicate_Mineral.public|Silicate_Mineral.public]]"
+  - "[[/_internal/Earth/Geology/Mineral/Silicate_Mineral.internal|Silicate_Mineral.internal]]"
+  - "[[/_protect/Earth/Geology/Mineral/Silicate_Mineral.protect|Silicate_Mineral.protect]]"
+  - "[[/_private/Earth/Geology/Mineral/Silicate_Mineral.private|Silicate_Mineral.private]]"
+  - "[[/_personal/Earth/Geology/Mineral/Silicate_Mineral.personal|Silicate_Mineral.personal]]"
+  - "[[/_secret/Earth/Geology/Mineral/Silicate_Mineral.secret|Silicate_Mineral.secret]]"
 ---
 
 # [[Silicate_Mineral]] 

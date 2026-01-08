@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Sky,527|WD~Sky,527]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Sky|Sky]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Sky.public|Sky.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Sky.internal|Sky.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Sky.protect|Sky.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Sky.private|Sky.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Sky.personal|Sky.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Sky.secret|Sky.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Sky,527|WD~Sky,527]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Sky|Sky]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Sky.public|Sky.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Sky.internal|Sky.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Sky.protect|Sky.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Sky.private|Sky.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Sky.personal|Sky.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Sky.secret|Sky.secret]]"
+---
 
 # [[Sky]] 
 

@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Iceberg,47568]]"
+    - "[[/_Standards/Earth/Geology/Landform/Glacier/Iceberg|Iceberg]]"
+    - "[[/_public/Earth/Geology/Landform/Glacier/Iceberg.public|Iceberg.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal|Iceberg.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Glacier/Iceberg.protect|Iceberg.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Glacier/Iceberg.private|Iceberg.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal|Iceberg.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret|Iceberg.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Iceberg,47568]]"
+  - "[[/_Standards/Earth/Geology/Landform/Glacier/Iceberg|Iceberg]]"
+  - "[[/_public/Earth/Geology/Landform/Glacier/Iceberg.public|Iceberg.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal|Iceberg.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Glacier/Iceberg.protect|Iceberg.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Glacier/Iceberg.private|Iceberg.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal|Iceberg.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret|Iceberg.secret]]"
+---
 
 # [[Iceberg]] 
 

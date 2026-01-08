@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Central_European_Free_Trade_Agreement,319014|WD~Central_European_Free_Trade_Agreement,319014]]"
+    - "[[/_Standards/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement)|CEFTA(Central_European_Free_Trade_Agreement)]]"
+    - "[[/_public/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).public|CEFTA(Central_European_Free_Trade_Agreement).public]]"
+    - "[[/_internal/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).internal|CEFTA(Central_European_Free_Trade_Agreement).internal]]"
+    - "[[/_protect/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).protect|CEFTA(Central_European_Free_Trade_Agreement).protect]]"
+    - "[[/_private/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).private|CEFTA(Central_European_Free_Trade_Agreement).private]]"
+    - "[[/_personal/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).personal|CEFTA(Central_European_Free_Trade_Agreement).personal]]"
+    - "[[/_secret/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).secret|CEFTA(Central_European_Free_Trade_Agreement).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Central_European_Free_Trade_Agreement,319014|WD~Central_European_Free_Trade_Agreement,319014]]"
+  - "[[/_Standards/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement)|CEFTA(Central_European_Free_Trade_Agreement)]]"
+  - "[[/_public/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).public|CEFTA(Central_European_Free_Trade_Agreement).public]]"
+  - "[[/_internal/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).internal|CEFTA(Central_European_Free_Trade_Agreement).internal]]"
+  - "[[/_protect/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).protect|CEFTA(Central_European_Free_Trade_Agreement).protect]]"
+  - "[[/_private/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).private|CEFTA(Central_European_Free_Trade_Agreement).private]]"
+  - "[[/_personal/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).personal|CEFTA(Central_European_Free_Trade_Agreement).personal]]"
+  - "[[/_secret/Earth/Continent/Europe/CEFTA(Central_European_Free_Trade_Agreement).secret|CEFTA(Central_European_Free_Trade_Agreement).secret]]"
+
 has_time_started: 1992-12-21 
 aliases:
   - CEFTA

@@ -1,5 +1,24 @@
-﻿---
-location: [ 0.0 , 69.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Norwegian_Sea,47545]]"
+    - "[[/_Standards/Earth/Ocean/North_Sea/Norwegian_Sea|Norwegian_Sea]]"
+    - "[[/_public/Earth/Ocean/North_Sea/Norwegian_Sea.public|Norwegian_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/North_Sea/Norwegian_Sea.internal|Norwegian_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/North_Sea/Norwegian_Sea.protect|Norwegian_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/North_Sea/Norwegian_Sea.private|Norwegian_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/North_Sea/Norwegian_Sea.personal|Norwegian_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/North_Sea/Norwegian_Sea.secret|Norwegian_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Norwegian_Sea,47545]]"
+  - "[[/_Standards/Earth/Ocean/North_Sea/Norwegian_Sea|Norwegian_Sea]]"
+  - "[[/_public/Earth/Ocean/North_Sea/Norwegian_Sea.public|Norwegian_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/North_Sea/Norwegian_Sea.internal|Norwegian_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/North_Sea/Norwegian_Sea.protect|Norwegian_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/North_Sea/Norwegian_Sea.private|Norwegian_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/North_Sea/Norwegian_Sea.personal|Norwegian_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/North_Sea/Norwegian_Sea.secret|Norwegian_Sea.secret]]"
+
 aliases:
   - Norwegian Sea
   - Norskehavet

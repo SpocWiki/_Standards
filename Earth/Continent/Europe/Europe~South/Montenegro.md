@@ -1,5 +1,88 @@
-﻿---
-location: [ 19.216667 , 42.766667 ] 
+---
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: MONTENEGRO
+dv_Telephone: 382
+dv_Global: true
+dv_Global_Name: World
+dv_name: Montenegro
+dv_name-en:
+  - Montenegro
+  - Montenegro
+dv_name-es: Montenegro
+dv_name-fr: Monténégro
+dv_name-cn: 黑山
+dv_name-ar: الجبل الأسود
+dv_name-ru: Черногория
+dv_CLDR_display_name: Montenegro
+dv_UNTERM_English: Montenegro
+dv_UNTERM_English_Formal: Montenegro
+dv_UNTERM_Spanish_Formal: Montenegro
+dv_UNTERM_Spanish: Montenegro
+dv_UNTERM_French: Monténégro (le)
+dv_UNTERM_Arabic: الجبل الأسود
+dv_UNTERM_Arabic_Formal: الجبل الأسود
+dv_UNTERM_Chinese: 黑山
+dv_UNTERM_Chinese_Formal: 黑山
+dv_UNTERM_French_Formal: le Monténégro
+dv_UNTERM_Russian: Черногория
+dv_UNTERM_Russian_Formal: Черногория
+dv_Region_Name: "[[../../Europe]]"
+dv_Intermediate_Region_Name: "[[Montenegro]]"
+dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region: 150
+dv_Sub-region: 39
+dv_Geoname-ID: 3194884
+dv_FIPS: MJ
+dv_FIFA: MNE
+dv_IOC: MGO
+dv_MARC: mo
+dv_GAUL: 2647
+dv_ITU: MNE
+dv_DS: MNE
+dv_TLD: .me
+dv_EDGAR: Z5
+dv_M49: 499
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 499
+dv_ISO2: ME
+dv_ISO3: MNE
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Montenegro,236|WD~Montenegro,236]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro|Montenegro]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~South/Montenegro.public|Montenegro.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~South/Montenegro.internal|Montenegro.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~South/Montenegro.protect|Montenegro.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~South/Montenegro.private|Montenegro.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~South/Montenegro.personal|Montenegro.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~South/Montenegro.secret|Montenegro.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Montenegro
+dv_name-de: Montenegro
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: MNE
+dv_Capital: "[[./Montenegro/Counties/Podgorica]]"
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 19.4667
+dv_has_place_latitude: 42.7833
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Montenegro,236|WD~Montenegro,236]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Montenegro|Montenegro]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~South/Montenegro.public|Montenegro.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~South/Montenegro.internal|Montenegro.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~South/Montenegro.protect|Montenegro.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~South/Montenegro.private|Montenegro.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~South/Montenegro.personal|Montenegro.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~South/Montenegro.secret|Montenegro.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Montenegro
+
 aliases:
   - Montenegro
   - Monténégro
@@ -359,76 +442,78 @@ icon: flag-me
 
 # [[Montenegro]] 
 
-[	ISO4217-currency_alphabetic	 :: EUR ]
-[	ISO4217-currency_name	 :: Euro ]
-[	ISO4217-currency_numeric	 :: 978 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: MONTENEGRO ]
+## [[Montenegro]] has Properties... 
 
-[	Telephone	 :: 382 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Montenegro ]
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
 [	name-en	 :: Montenegro ]
-[	name-es	 :: Montenegro ]
-[	name-fr	 :: Monténégro ]
-[	name-cn	 :: 黑山 ]
-[	name-ar	 :: الجبل الأسود ]
-[	name-ru	 :: Черногория ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Montenegro ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Montenegro ]
-[	UNTERM_English_Formal	 :: Montenegro ]
-[	UNTERM_Spanish_Formal	 :: Montenegro ]
-[	UNTERM_Spanish	 :: Montenegro ]
-[	UNTERM_French	 :: Monténégro (le) ]
-[	UNTERM_Arabic	 :: الجبل الأسود ]
-[	UNTERM_Arabic_Formal	 :: الجبل الأسود ]
-[	UNTERM_Chinese	 :: 黑山 ]
-[	UNTERM_Chinese_Formal	 :: 黑山 ]
-[	UNTERM_French_Formal	 :: le Monténégro ]
-[	UNTERM_Russian	 :: Черногория ]
-[	UNTERM_Russian_Formal	 :: Черногория ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Southern Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 39 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3194884 ]
-[	FIPS	 :: MJ ]
-[	FIFA	 :: MNE ]
-[	IOC	 :: MGO ]
-[	MARC	 :: mo ]
-[	GAUL	 :: 2647 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
 [	WMO	 ::  ]
-[	ITU	 :: MNE ]
-[	DS	 :: MNE ]
-[	TLD	 :: .me ]
-[	EDGAR	 :: Z5 ]
-[	M49	 :: 499 ]
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 499 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::ME]
-[ISO3::MNE] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Montenegro,236|WD~Montenegro,236]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Montenegro 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Montenegro/ReadMe]] 
 
@@ -436,31 +521,32 @@ For more Details, check out this Repository into this Subfolder:
 
 ```leaflet
 id: Montenegro
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Montenegro//
 markerFolder: ./Montenegro//
 coordinates: [[Montenegro]] 
 markerFile: [[Montenegro]] 
+defaultZoom: 7 
 ```
 
 [name-en::Montenegro]
-[name-de::Montenegro]
+name-de = `=this.dv_name-de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Europe]]  
-[VehicleCode::MNE]
-Capital :: [[./Montenegro/Counties/Podgorica]]  
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Montenegro.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3]]
 ![[Flag_of_Montenegro.svg|350]]
 [Alcohol-l::]
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::19.4667]
-[has_place_latitude::42.7833]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

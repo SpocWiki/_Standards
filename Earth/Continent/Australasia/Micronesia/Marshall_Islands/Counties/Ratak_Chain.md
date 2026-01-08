@@ -6,25 +6,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 6.06
   - 171.98
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Ratak_Chain
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain|Ratak_Chain]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.public|Ratak_Chain.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.internal|Ratak_Chain.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.protect|Ratak_Chain.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.private|Ratak_Chain.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.personal|Ratak_Chain.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.secret|Ratak_Chain.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain|Ratak_Chain]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.public|Ratak_Chain.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.internal|Ratak_Chain.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.protect|Ratak_Chain.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.private|Ratak_Chain.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.personal|Ratak_Chain.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.secret|Ratak_Chain.secret]]"
 ---
 
 # Ratak_Chain

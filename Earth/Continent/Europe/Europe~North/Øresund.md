@@ -1,5 +1,25 @@
-﻿---
-location: [ 12.75 , 55.75 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Øresund,104662]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund|Øresund]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Øresund.public|Øresund.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Øresund.internal|Øresund.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Øresund.protect|Øresund.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Øresund.private|Øresund.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Øresund.personal|Øresund.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Øresund.secret|Øresund.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Øresund,104662]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Øresund|Øresund]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Øresund.public|Øresund.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Øresund.internal|Øresund.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Øresund.protect|Øresund.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Øresund.private|Øresund.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Øresund.personal|Øresund.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Øresund.secret|Øresund.secret]]"
+
+location: [ 55.75, 12.75 ] 
 aliases:
   - Øresund
   - Öresund
@@ -41,6 +61,20 @@ Commons_category: Oresund
 # [[Øresund]] 
 
 #is_/same_as :: [[WD~Øresund,104662]] 
+
+## #has_/map  
+
+```leaflet
+id: Øresund
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Øresund//
+markerFolder: ./Øresund/
+coordinates: [[Øresund]] 
+markerFile: [[Øresund]] 
+defaultZoom: 8 
+```
 
 ## #has_/text_of_/abstract 
 

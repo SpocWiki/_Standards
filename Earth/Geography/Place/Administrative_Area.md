@@ -11,21 +11,46 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - administrative_area
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_administrative_area Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_administrative_area Class
 type: Type
+dv_#is_:
+  sub_class_of: "[[../Place]]"
+dv_#has_:
+  sub_classes: "[ City, Country, SchoolDistrict, State ]"
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
+    - "[[/_public/Earth/Geography/Place/Administrative_Area.public|Administrative_Area.public]]"
+    - "[[/_internal/Earth/Geography/Place/Administrative_Area.internal|Administrative_Area.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Administrative_Area.protect|Administrative_Area.protect]]"
+    - "[[/_private/Earth/Geography/Place/Administrative_Area.private|Administrative_Area.private]]"
+    - "[[/_personal/Earth/Geography/Place/Administrative_Area.personal|Administrative_Area.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Administrative_Area.secret|Administrative_Area.secret]]"
+dv_is_sub_class_of: "[[../Place]]"
+dv_has_sub_classes: "[ City, Country, SchoolDistrict, State ]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
+  - "[[/_public/Earth/Geography/Place/Administrative_Area.public|Administrative_Area.public]]"
+  - "[[/_internal/Earth/Geography/Place/Administrative_Area.internal|Administrative_Area.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Administrative_Area.protect|Administrative_Area.protect]]"
+  - "[[/_private/Earth/Geography/Place/Administrative_Area.private|Administrative_Area.private]]"
+  - "[[/_personal/Earth/Geography/Place/Administrative_Area.personal|Administrative_Area.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Administrative_Area.secret|Administrative_Area.secret]]"
 ---
 
 Class of all administrative_areas.
@@ -35,11 +60,11 @@ Tag Instances like this:
 
 A geographical region, typically under the jurisdiction of a particular government.
 
-[ #is_/sub_class_of :: [[../../../../Earth/Geography/Place]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/sub_classes :: [ City, Country, SchoolDistrict, State ] ]
+has_sub_classes = `=this.dv_has_sub_classes` ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 
 ## Confidential Links & Embeds: 

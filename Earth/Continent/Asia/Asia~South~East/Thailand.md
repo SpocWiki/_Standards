@@ -1,5 +1,92 @@
-﻿---
-location: [ 101.0 , 14.0 ] 
+---
+dv_ISO4217-currency_alphabetic: THB
+dv_ISO4217-currency_name: Baht
+dv_ISO4217-currency_numeric: 764
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: THAILAND
+dv_Telephone: 66
+dv_Global: true
+dv_Global_Name: World
+dv_name: Thailand
+dv_name-en:
+  - Thailand
+  - Thailand
+dv_name-es: Tailandia
+dv_name-fr: Thaïlande
+dv_name-cn: 泰国
+dv_name-ar: تايلند
+dv_name-ru: Таиланд
+dv_CLDR_display_name: Thailand
+dv_UNTERM_English: Thailand
+dv_UNTERM_English_Formal: the Kingdom of Thailand
+dv_UNTERM_Spanish_Formal: el Reino de Tailandia
+dv_UNTERM_Spanish: Tailandia
+dv_UNTERM_French: Thaïlande (la)
+dv_UNTERM_Arabic: تايلند
+dv_UNTERM_Arabic_Formal: مملكة تايلند
+dv_UNTERM_Chinese: 泰国
+dv_UNTERM_Chinese_Formal: 泰王国
+dv_UNTERM_French_Formal: le Royaume de Thaïlande
+dv_UNTERM_Russian: Таиланд
+dv_UNTERM_Russian_Formal: Королевство Таиланд
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Thailand]]"
+dv_Sub-region_Name: "[[South-eastern Asia]]"
+dv_Region: 142
+dv_Sub-region: 35
+dv_Geoname-ID: 1605651
+dv_FIPS: TH
+dv_FIFA: THA
+dv_IOC: THA
+dv_MARC: th
+dv_GAUL: 240
+dv_WMO: TH
+dv_ITU: THA
+dv_DS: T
+dv_TLD: .th
+dv_EDGAR: W1
+dv_M49: 764
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 764
+dv_ISO2: TH
+dv_ISO3: THA
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Thailand,869|WD~Thailand,869]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand|Thailand]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Thailand.public|Thailand.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand.internal|Thailand.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand.protect|Thailand.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Thailand.private|Thailand.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand.personal|Thailand.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret|Thailand.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Thailand
+dv_name-de: Thailand
+dv_Area-Total: 513115
+dv_Area-Land: 510890
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: T
+dv_Capital: "[[Bangkok]]"
+dv_Alcohol-l: 7.1
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 100.5
+dv_has_place_latitude: 13.73
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Thailand,869|WD~Thailand,869]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand|Thailand]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Thailand.public|Thailand.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand.internal|Thailand.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand.protect|Thailand.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Thailand.private|Thailand.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand.personal|Thailand.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret|Thailand.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Thailand
+
 aliases:
   - Thailand
   - Tailandia
@@ -470,75 +557,77 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "Thailand"]
 
 # [[Thailand]] 
 
-[	ISO4217-currency_alphabetic	 :: THB ]
-[	ISO4217-currency_name	 :: Baht ]
-[	ISO4217-currency_numeric	 :: 764 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: THAILAND ]
+## [[Thailand]] has Properties...
 
-[	Telephone	 :: 66 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Thailand ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
 [	name-en	 :: Thailand ]
-[	name-es	 :: Tailandia ]
-[	name-fr	 :: Thaïlande ]
-[	name-cn	 :: 泰国 ]
-[	name-ar	 :: تايلند ]
-[	name-ru	 :: Таиланд ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Thailand ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Thailand ]
-[	UNTERM_English_Formal	 :: the Kingdom of Thailand ]
-[	UNTERM_Spanish_Formal	 :: el Reino de Tailandia ]
-[	UNTERM_Spanish	 :: Tailandia ]
-[	UNTERM_French	 :: Thaïlande (la) ]
-[	UNTERM_Arabic	 :: تايلند ]
-[	UNTERM_Arabic_Formal	 :: مملكة تايلند ]
-[	UNTERM_Chinese	 :: 泰国 ]
-[	UNTERM_Chinese_Formal	 :: 泰王国 ]
-[	UNTERM_French_Formal	 :: le Royaume de Thaïlande ]
-[	UNTERM_Russian	 :: Таиланд ]
-[	UNTERM_Russian_Formal	 :: Королевство Таиланд ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[South-eastern Asia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 35 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 1605651 ]
-[	FIPS	 :: TH ]
-[	FIFA	 :: THA ]
-[	IOC	 :: THA ]
-[	MARC	 :: th ]
-[	GAUL	 :: 240 ]
-[	WMO	 :: TH ]
-[	ITU	 :: THA ]
-[	DS	 :: T ]
-[	TLD	 :: .th ]
-[	EDGAR	 :: W1 ]
-[	M49	 :: 764 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 764 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::TH]
-[ISO3::THA] 
-#is_/same_as :: [[../../../../WikiData/WD~Thailand,869|WD~Thailand,869]] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Thailand 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Thailand/ReadMe]] 
 
@@ -551,26 +640,29 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Thailand//
 markerFolder: ./Thailand/
+coordinates: [[Thailand]] 
+markerFile: [[Thailand]] 
+defaultZoom:  
 ```
 
 [name-en::Thailand]
-[name-de::Thailand]
+name-de = `=this.dv_name-de`
 
 ![[Emblem_of_Thailand.svg|350]]
 
 ![[Flag_of_Thailand.svg|350]]
 
-[Area-Total::513115]
-[Area-Land::510890]
-has_place_continent:: [[Asia]]  
-[VehicleCode::T]
-Capital :: [[Bangkok]]  
-[Alcohol-l::7.1]
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::100.5]
-[has_place_latitude::13.73]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

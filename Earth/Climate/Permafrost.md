@@ -35,6 +35,25 @@ MeSH_tree_code:
   - G16.500.275.815.500
   - N06.230.124.531.500
   - N06.230.600.500
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Permafrost,179918]]"
+    - "[[/_Standards/Earth/Climate/Permafrost|Permafrost]]"
+    - "[[/_public/Earth/Climate/Permafrost.public|Permafrost.public]]"
+    - "[[/_internal/Earth/Climate/Permafrost.internal|Permafrost.internal]]"
+    - "[[/_protect/Earth/Climate/Permafrost.protect|Permafrost.protect]]"
+    - "[[/_private/Earth/Climate/Permafrost.private|Permafrost.private]]"
+    - "[[/_personal/Earth/Climate/Permafrost.personal|Permafrost.personal]]"
+    - "[[/_secret/Earth/Climate/Permafrost.secret|Permafrost.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Permafrost,179918]]"
+  - "[[/_Standards/Earth/Climate/Permafrost|Permafrost]]"
+  - "[[/_public/Earth/Climate/Permafrost.public|Permafrost.public]]"
+  - "[[/_internal/Earth/Climate/Permafrost.internal|Permafrost.internal]]"
+  - "[[/_protect/Earth/Climate/Permafrost.protect|Permafrost.protect]]"
+  - "[[/_private/Earth/Climate/Permafrost.private|Permafrost.private]]"
+  - "[[/_personal/Earth/Climate/Permafrost.personal|Permafrost.personal]]"
+  - "[[/_secret/Earth/Climate/Permafrost.secret|Permafrost.secret]]"
 ---
 # [[Permafrost]] 
 

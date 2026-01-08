@@ -11,6 +11,25 @@ subclass_of:
 part_of: "[[_Standards/WikiData/WD~volcano,8072]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Volc%C3%A1n%20Chait%C3%A9n-Sam%20Beebe-Ecotrust.jpg
 Commons_category: Lava domes
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Lava_dome,534282]]"
+    - "[[/_Standards/Earth/Geology/Landform/Lava_Dome|Lava_Dome]]"
+    - "[[/_public/Earth/Geology/Landform/Lava_Dome.public|Lava_Dome.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Lava_Dome.internal|Lava_Dome.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Lava_Dome.protect|Lava_Dome.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Lava_Dome.private|Lava_Dome.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Lava_Dome.personal|Lava_Dome.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Lava_Dome.secret|Lava_Dome.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Lava_dome,534282]]"
+  - "[[/_Standards/Earth/Geology/Landform/Lava_Dome|Lava_Dome]]"
+  - "[[/_public/Earth/Geology/Landform/Lava_Dome.public|Lava_Dome.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Lava_Dome.internal|Lava_Dome.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Lava_Dome.protect|Lava_Dome.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Lava_Dome.private|Lava_Dome.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Lava_Dome.personal|Lava_Dome.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Lava_Dome.secret|Lava_Dome.secret]]"
 ---
 
 # [[Lava_Dome]] 

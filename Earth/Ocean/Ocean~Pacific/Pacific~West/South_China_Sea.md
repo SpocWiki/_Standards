@@ -1,5 +1,25 @@
-﻿---
-location: [ 113.0 , 12.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~South_China_Sea,37660|WD~South_China_Sea,37660]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea|South_China_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.public|South_China_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.internal|South_China_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.protect|South_China_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.private|South_China_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.personal|South_China_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.secret|South_China_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~South_China_Sea,37660|WD~South_China_Sea,37660]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea|South_China_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.public|South_China_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.internal|South_China_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.protect|South_China_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.private|South_China_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.personal|South_China_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.secret|South_China_Sea.secret]]"
+
+location: [ 12.0, 113 ] 
 aliases:
 has_id_wikidata: Q37660
 connects_with:
@@ -129,6 +149,20 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20Ban
 # [[South_China_Sea]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~South_China_Sea,37660|WD~South_China_Sea,37660]]  
+
+## #has_/map  
+
+```leaflet
+id: South_China_Sea
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./South_China_Sea//
+markerFolder: ./South_China_Sea/
+coordinates: [[South_China_Sea]] 
+markerFile: [[South_China_Sea]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

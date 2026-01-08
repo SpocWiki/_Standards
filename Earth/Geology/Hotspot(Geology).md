@@ -8,6 +8,25 @@ OmegaWiki_Defined_Meaning: "665791"
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hawaii%20hotspot.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tectonic%20plates%20hotspots-fr.svg
 Commons_category: Hotspot volcanoes
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Hotspot,105131]]"
+    - "[[/_Standards/Earth/Geology/Hotspot(Geology)|Hotspot(Geology)]]"
+    - "[[/_public/Earth/Geology/Hotspot(Geology).public|Hotspot(Geology).public]]"
+    - "[[/_internal/Earth/Geology/Hotspot(Geology).internal|Hotspot(Geology).internal]]"
+    - "[[/_protect/Earth/Geology/Hotspot(Geology).protect|Hotspot(Geology).protect]]"
+    - "[[/_private/Earth/Geology/Hotspot(Geology).private|Hotspot(Geology).private]]"
+    - "[[/_personal/Earth/Geology/Hotspot(Geology).personal|Hotspot(Geology).personal]]"
+    - "[[/_secret/Earth/Geology/Hotspot(Geology).secret|Hotspot(Geology).secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Hotspot,105131]]"
+  - "[[/_Standards/Earth/Geology/Hotspot(Geology)|Hotspot(Geology)]]"
+  - "[[/_public/Earth/Geology/Hotspot(Geology).public|Hotspot(Geology).public]]"
+  - "[[/_internal/Earth/Geology/Hotspot(Geology).internal|Hotspot(Geology).internal]]"
+  - "[[/_protect/Earth/Geology/Hotspot(Geology).protect|Hotspot(Geology).protect]]"
+  - "[[/_private/Earth/Geology/Hotspot(Geology).private|Hotspot(Geology).private]]"
+  - "[[/_personal/Earth/Geology/Hotspot(Geology).personal|Hotspot(Geology).personal]]"
+  - "[[/_secret/Earth/Geology/Hotspot(Geology).secret|Hotspot(Geology).secret]]"
 ---
 
 # [[Hotspot(Geology)]] 

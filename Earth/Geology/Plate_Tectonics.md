@@ -6,14 +6,14 @@ aliases:
   - Plate_Tectonics
   - Plate Tectonics
 has_id_wikidata: Q7950
-part_of: '[[_Standards/WikiData/WD~lithosphere,83296]]'
-manifestation_of: '[[_Standards/WikiData/WD~tectonic_plate,215680]]'
-subclass_of: '[[_Standards/WikiData/WD~geotectonics,1863355]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Tectonic_plates,10740776]]'
+part_of: "[[_Standards/WikiData/WD~lithosphere,83296]]"
+manifestation_of: "[[_Standards/WikiData/WD~tectonic_plate,215680]]"
+subclass_of: "[[_Standards/WikiData/WD~geotectonics,1863355]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Tectonic_plates,10740776]]"
 studied_by:
-  - '[[_Standards/WikiData/WD~tectonics,78125729]]'
-  - '[[_Standards/WikiData/WD~geology,1069]]'
-instance_of: '[[_Standards/WikiData/WD~theory,17737]]'
+  - "[[_Standards/WikiData/WD~tectonics,78125729]]"
+  - "[[_Standards/WikiData/WD~geology,1069]]"
+instance_of: "[[_Standards/WikiData/WD~theory,17737]]"
 publication_date: 1965-01-01T00:00:00Z
 OmegaWiki_Defined_Meaning: 720220
 Commons_category: Plate tectonics
@@ -24,8 +24,29 @@ described_at_URL:
   - https://www.treccani.it/enciclopedia/tettonica_(Enciclopedia-della-Scienza-e-della-Tecnica)/
   - https://www.treccani.it/enciclopedia/tettonica_(Enciclopedia-Italiana)/
   - https://www.treccani.it/enciclopedia/tettonica-globale_(Enciclopedia-della-Scienza-e-della-Tecnica)/
-Wolfram_Language_entity_code: Entity["Concept", "PlateTectonics::64d75"]
+Wolfram_Language_entity_code: Entity"Concept", "PlateTectonics = `=this.dv_"Concept", "PlateTectonics`
 Commons_gallery: Tectonic plate
+dv_"Concept", "PlateTectonics: 64d75"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Plate_tectonics,7950|WD~Plate_tectonics,7950]]"
+    - "[[/_Standards/Earth/Geology/Plate_Tectonics|Plate_Tectonics]]"
+    - "[[/_public/Earth/Geology/Plate_Tectonics.public|Plate_Tectonics.public]]"
+    - "[[/_internal/Earth/Geology/Plate_Tectonics.internal|Plate_Tectonics.internal]]"
+    - "[[/_protect/Earth/Geology/Plate_Tectonics.protect|Plate_Tectonics.protect]]"
+    - "[[/_private/Earth/Geology/Plate_Tectonics.private|Plate_Tectonics.private]]"
+    - "[[/_personal/Earth/Geology/Plate_Tectonics.personal|Plate_Tectonics.personal]]"
+    - "[[/_secret/Earth/Geology/Plate_Tectonics.secret|Plate_Tectonics.secret]]"
+dv_concept-platetectonics: 64d75"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Plate_tectonics,7950|WD~Plate_tectonics,7950]]"
+  - "[[/_Standards/Earth/Geology/Plate_Tectonics|Plate_Tectonics]]"
+  - "[[/_public/Earth/Geology/Plate_Tectonics.public|Plate_Tectonics.public]]"
+  - "[[/_internal/Earth/Geology/Plate_Tectonics.internal|Plate_Tectonics.internal]]"
+  - "[[/_protect/Earth/Geology/Plate_Tectonics.protect|Plate_Tectonics.protect]]"
+  - "[[/_private/Earth/Geology/Plate_Tectonics.private|Plate_Tectonics.private]]"
+  - "[[/_personal/Earth/Geology/Plate_Tectonics.personal|Plate_Tectonics.personal]]"
+  - "[[/_secret/Earth/Geology/Plate_Tectonics.secret|Plate_Tectonics.secret]]"
 ---
 
 # [[Plate_Tectonics]] 

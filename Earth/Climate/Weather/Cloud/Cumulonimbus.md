@@ -3,10 +3,10 @@ aliases:
   - Kumulonimbus
   - Cumulonimbus
 has_id_wikidata: Q182311
-instance_of: '[[_Standards/WikiData/WD~cloud_type,1840368]]'
-subclass_of: '[[_Standards/WikiData/WD~vertical_multi_level_clouds,2278627]]'
-facet_of: '[[_Standards/WikiData/WD~international_cloud_classification,3281195]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~thunderhead,16667258]]'
+instance_of: "[[_Standards/WikiData/WD~cloud_type,1840368]]"
+subclass_of: "[[_Standards/WikiData/WD~vertical_multi_level_clouds,2278627]]"
+facet_of: "[[_Standards/WikiData/WD~international_cloud_classification,3281195]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~thunderhead,16667258]]"
 duration:
   - 30
   - 4
@@ -21,6 +21,25 @@ Commons_category: Cumulonimbus clouds
 booru_tag: cumulonimbus_cloud
 Danbooru_tag: cumulonimbus_cloud
 hashtag_: cumulonimbus_cloud
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Cumulonimbus,182311|WD~Cumulonimbus,182311]]"
+    - "[[/_Standards/Earth/Climate/Weather/Cloud/Cumulonimbus|Cumulonimbus]]"
+    - "[[/_public/Earth/Climate/Weather/Cloud/Cumulonimbus.public|Cumulonimbus.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Cloud/Cumulonimbus.internal|Cumulonimbus.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Cloud/Cumulonimbus.protect|Cumulonimbus.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Cloud/Cumulonimbus.private|Cumulonimbus.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Cloud/Cumulonimbus.personal|Cumulonimbus.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Cloud/Cumulonimbus.secret|Cumulonimbus.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Cumulonimbus,182311|WD~Cumulonimbus,182311]]"
+  - "[[/_Standards/Earth/Climate/Weather/Cloud/Cumulonimbus|Cumulonimbus]]"
+  - "[[/_public/Earth/Climate/Weather/Cloud/Cumulonimbus.public|Cumulonimbus.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Cloud/Cumulonimbus.internal|Cumulonimbus.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Cloud/Cumulonimbus.protect|Cumulonimbus.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Cloud/Cumulonimbus.private|Cumulonimbus.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Cloud/Cumulonimbus.personal|Cumulonimbus.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Cloud/Cumulonimbus.secret|Cumulonimbus.secret]]"
 ---
 
 # [[Cumulonimbus]] 

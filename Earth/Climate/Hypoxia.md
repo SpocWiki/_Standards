@@ -17,6 +17,25 @@ UMLS_CUI:
   - C0700292
 MeSH_tree_code: C23.888.852.079
 Commons_category: Hypoxia (medical)
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Hypoxia,105688|WD~Hypoxia,105688]]"
+    - "[[/_Standards/Earth/Climate/Hypoxia|Hypoxia]]"
+    - "[[/_public/Earth/Climate/Hypoxia.public|Hypoxia.public]]"
+    - "[[/_internal/Earth/Climate/Hypoxia.internal|Hypoxia.internal]]"
+    - "[[/_protect/Earth/Climate/Hypoxia.protect|Hypoxia.protect]]"
+    - "[[/_private/Earth/Climate/Hypoxia.private|Hypoxia.private]]"
+    - "[[/_personal/Earth/Climate/Hypoxia.personal|Hypoxia.personal]]"
+    - "[[/_secret/Earth/Climate/Hypoxia.secret|Hypoxia.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Hypoxia,105688|WD~Hypoxia,105688]]"
+  - "[[/_Standards/Earth/Climate/Hypoxia|Hypoxia]]"
+  - "[[/_public/Earth/Climate/Hypoxia.public|Hypoxia.public]]"
+  - "[[/_internal/Earth/Climate/Hypoxia.internal|Hypoxia.internal]]"
+  - "[[/_protect/Earth/Climate/Hypoxia.protect|Hypoxia.protect]]"
+  - "[[/_private/Earth/Climate/Hypoxia.private|Hypoxia.private]]"
+  - "[[/_personal/Earth/Climate/Hypoxia.personal|Hypoxia.personal]]"
+  - "[[/_secret/Earth/Climate/Hypoxia.secret|Hypoxia.secret]]"
 ---
 
 # [[Hypoxia]] 

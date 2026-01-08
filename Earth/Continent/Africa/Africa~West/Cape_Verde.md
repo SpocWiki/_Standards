@@ -319,81 +319,168 @@ publishDate: ""
 expiryDate: ""
 Languages:
   - pt-CV
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Cape_Verde
+dv_ISO4217-currency_alphabetic: CVE
+dv_ISO4217-currency_name: Cabo Verde Escudo
+dv_ISO4217-currency_numeric: 132
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: CABO VERDE
+dv_Telephone: 238
+dv_Global: true
+dv_Global_Name: World
+dv_name: Cape Verde
+dv_name-en:
+  - Cabo Verde
+  - Cape Verde
+dv_name-es: Cabo Verde
+dv_name-fr: Cabo Verde
+dv_name-cn: 佛得角
+dv_name-ar: كابو فيردي
+dv_name-ru: Кабо-Верде
+dv_CLDR_display_name: Cape Verde
+dv_UNTERM_English: Cabo Verde
+dv_UNTERM_English_Formal: the Republic of Cabo Verde
+dv_UNTERM_Spanish_Formal: la República de Cabo Verde
+dv_UNTERM_Spanish: Cabo Verde
+dv_UNTERM_French: Cabo Verde (sans article)
+dv_UNTERM_Arabic: كابو فيردي
+dv_UNTERM_Arabic_Formal: جمهورية كابو فيردي
+dv_UNTERM_Chinese: 佛得角
+dv_UNTERM_Chinese_Formal: 佛得角共和国
+dv_UNTERM_French_Formal: la République de Cabo Verde
+dv_UNTERM_Russian: Кабо-Верде
+dv_UNTERM_Russian_Formal: Республика Кабо-Верде
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 3374766
+dv_FIPS: CV
+dv_FIFA: CPV
+dv_IOC: CPV
+dv_MARC: cv
+dv_GAUL: 47
+dv_WMO: CV
+dv_ITU: CPV
+dv_DS: CV
+dv_TLD: .cv
+dv_M49: 132
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 132
+dv_ISO2: CV
+dv_ISO3: CPV
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde|Cape_Verde]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde.public|Cape_Verde.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde.internal|Cape_Verde.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde.protect|Cape_Verde.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde.private|Cape_Verde.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde.personal|Cape_Verde.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde.secret|Cape_Verde.secret]]"
+dv_name-de: Kap Verde
+dv_Area-Total: 4033
+dv_Area-Land: 4030
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: CV
+dv_Alcohol-l: 5
+dv_Language-Id: 467
+dv_has_place_longitude: -23.5167
+dv_has_place_latitude: 14.9167
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Cape_Verde
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde|Cape_Verde]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde.public|Cape_Verde.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde.internal|Cape_Verde.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde.protect|Cape_Verde.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde.private|Cape_Verde.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde.personal|Cape_Verde.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde.secret|Cape_Verde.secret]]"
 ---
 
 # [[Cape_Verde]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Cape_Verde 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Cape_Verde/ReadMe]] 
 
 
-[	ISO4217-currency_alphabetic	 :: CVE ]
-[	ISO4217-currency_name	 :: Cabo Verde Escudo ]
-[	ISO4217-currency_numeric	 :: 132 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: CABO VERDE ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 238 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Cape Verde ]
+name = `=this.dv_name`
 [	name-en	 :: Cabo Verde ]
-[	name-es	 :: Cabo Verde ]
-[	name-fr	 :: Cabo Verde ]
-[	name-cn	 :: 佛得角 ]
-[	name-ar	 :: كابو فيردي ]
-[	name-ru	 :: Кабо-Верде ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Cape Verde ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Cabo Verde ]
-[	UNTERM_English_Formal	 :: the Republic of Cabo Verde ]
-[	UNTERM_Spanish_Formal	 :: la República de Cabo Verde ]
-[	UNTERM_Spanish	 :: Cabo Verde ]
-[	UNTERM_French	 :: Cabo Verde (sans article) ]
-[	UNTERM_Arabic	 :: كابو فيردي ]
-[	UNTERM_Arabic_Formal	 :: جمهورية كابو فيردي ]
-[	UNTERM_Chinese	 :: 佛得角 ]
-[	UNTERM_Chinese_Formal	 :: 佛得角共和国 ]
-[	UNTERM_French_Formal	 :: la République de Cabo Verde ]
-[	UNTERM_Russian	 :: Кабо-Верде ]
-[	UNTERM_Russian_Formal	 :: Республика Кабо-Верде ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3374766 ]
-[	FIPS	 :: CV ]
-[	FIFA	 :: CPV ]
-[	IOC	 :: CPV ]
-[	MARC	 :: cv ]
-[	GAUL	 :: 47 ]
-[	WMO	 :: CV ]
-[	ITU	 :: CPV ]
-[	DS	 :: CV ]
-[	TLD	 :: .cv ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
 [	EDGAR	 ::  ]
-[	M49	 :: 132 ]
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 :: x ]
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States`
 
-[	ISO3166-1-numeric	 :: 132 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::CV] 
-[ISO3::CPV] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]] 
 
@@ -409,11 +496,11 @@ markerFolder: ./Cape_Verde//
 ```
 
 [name-en::Cape Verde]
-[name-de::Kap Verde]
-[Area-Total::4033]
-[Area-Land::4030]
-has_place_continent:: [[Africa]]  
-[VehicleCode::CV]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Cape_Verde/municipalities~Cape_Verde/Praia]]  
 
 ![[Coat_of_arms_of_Cape_Verde.svg|350]]
@@ -421,10 +508,10 @@ Capital :: [[Cape_Verde/municipalities~Cape_Verde/Praia]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Cape-verde.mp3]]
 
 ![[Flag_of_Cape_Verde.svg|350]]
-[Alcohol-l::5]
-[Language-Id::467]
-[has_place_longitude::-23.5167]
-[has_place_latitude::14.9167]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

@@ -30,6 +30,25 @@ U_S_National_Archives_Identifier: "10641281"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cloud%20cumulonimbus%20at%20baltic%20sea%281%29.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000876
 Colon_Classification: U2835
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Storm,81054|WD~Storm,81054]]"
+    - "[[/_Standards/Earth/Climate/Weather/Storm|Storm]]"
+    - "[[/_public/Earth/Climate/Weather/Storm.public|Storm.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Storm.internal|Storm.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Storm.protect|Storm.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Storm.private|Storm.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Storm.personal|Storm.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Storm.secret|Storm.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Storm,81054|WD~Storm,81054]]"
+  - "[[/_Standards/Earth/Climate/Weather/Storm|Storm]]"
+  - "[[/_public/Earth/Climate/Weather/Storm.public|Storm.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Storm.internal|Storm.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Storm.protect|Storm.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Storm.private|Storm.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Storm.personal|Storm.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Storm.secret|Storm.secret]]"
 ---
 
 # [[Storm]] 

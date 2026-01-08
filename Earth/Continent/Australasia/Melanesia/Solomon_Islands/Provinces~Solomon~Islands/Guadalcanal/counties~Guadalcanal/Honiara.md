@@ -12,22 +12,46 @@ SpocWebEntityId: 36744
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 159.8167
+dv_has_place_latitude: -9.466666
+dv_name: Honiara
+dv_has_place_country: "[[../_0-New/Solomon~Islands]]"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Honiara,40921|WD~Honiara,40921]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara|Honiara]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.public|Honiara.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.internal|Honiara.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.protect|Honiara.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.private|Honiara.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.personal|Honiara.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.secret|Honiara.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Honiara,40921|WD~Honiara,40921]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara|Honiara]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.public|Honiara.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.internal|Honiara.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.protect|Honiara.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.private|Honiara.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.personal|Honiara.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.secret|Honiara.secret]]"
 ---
 
 # [[Honiara]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../../../Geography/Place]] 
-[has_place_longitude::159.8167] 
-[has_place_latitude::-9.466666] 
-[name::Honiara] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 has_place_province::  
-has_place_country:: [[../_0-New/Solomon~Islands]] 
+has_place_country = `=this.dv_has_place_country`
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Honiara,40921|WD~Honiara,40921]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 

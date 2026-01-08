@@ -12,21 +12,48 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - place_of_worship
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_place_of_worship Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_place_of_worship Class
 type: Type
+dv_#is_:
+  sub_class_of: "[[../CivicStructure]]"
+dv_#has_:
+  sub_classes: "[ BuddhistTemple, Church, HinduTemple, Mosque, Synagogue ]"
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~religious_building,24398318]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship|Place_of_Worship]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship.public|Place_of_Worship.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.internal|Place_of_Worship.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship.protect|Place_of_Worship.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship.private|Place_of_Worship.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.personal|Place_of_Worship.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship.secret|Place_of_Worship.secret]]"
+dv_is_sub_class_of: "[[../CivicStructure]]"
+dv_has_sub_classes: "[ BuddhistTemple, Church, HinduTemple, Mosque, Synagogue ]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~religious_building,24398318]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship|Place_of_Worship]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship.public|Place_of_Worship.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.internal|Place_of_Worship.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship.protect|Place_of_Worship.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship.private|Place_of_Worship.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.personal|Place_of_Worship.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship.secret|Place_of_Worship.secret]]"
 ---
 
 # [[Place_of_Worship]] 
@@ -38,11 +65,11 @@ Tag Instances like this:
 
 Place of worship, such as a church, synagogue, or mosque.
 
-[ #is_/sub_class_of :: [[../CivicStructure]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/sub_classes :: [ BuddhistTemple, Church, HinduTemple, Mosque, Synagogue ] ]
+has_sub_classes = `=this.dv_has_sub_classes` ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 #is_/same_as :: [[_Standards/WikiData/WD~religious_building,24398318]] 
 

@@ -8,6 +8,26 @@ SpocWebEntityId: 76712
 tags:
   - geo/Country
 type: Country
+dv_name-en: FRENCH INDO-CHINA
+dv_name-de: Franz. Indochina
+dv_has_place_continent: "[[../../Asia]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA|FRENCH_INDO-CHINA]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.public|FRENCH_INDO-CHINA.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.internal|FRENCH_INDO-CHINA.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.protect|FRENCH_INDO-CHINA.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.private|FRENCH_INDO-CHINA.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.personal|FRENCH_INDO-CHINA.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.secret|FRENCH_INDO-CHINA.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA|FRENCH_INDO-CHINA]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.public|FRENCH_INDO-CHINA.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.internal|FRENCH_INDO-CHINA.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.protect|FRENCH_INDO-CHINA.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.private|FRENCH_INDO-CHINA.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.personal|FRENCH_INDO-CHINA.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.secret|FRENCH_INDO-CHINA.secret]]"
 ---
 
 [ISO2::]
@@ -21,11 +41,11 @@ geojsonFolder: ./FRENCH_INDO-CHINA/
 markerFolder: ./FRENCH_INDO-CHINA/
 ```
 
-[name-en::FRENCH INDO-CHINA]
-[name-de::Franz. Indochina]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Asia]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

@@ -7,6 +7,25 @@ follows: "[[_Standards/WikiData/WD~wet_season,3117517]]"
 subclass_of: "[[_Standards/WikiData/WD~season,24384]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Long%20shadow%20of%20a%20dead%20tree%20with%20its%20branches%20on%20the%20dry%20fields%20of%20Laos%20-%20landscape.jpg
 Commons_category: Dry season
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Dry_season,146575|WD~Dry_season,146575]]"
+    - "[[/_Standards/Earth/Climate/Season/Dry_Season|Dry_Season]]"
+    - "[[/_public/Earth/Climate/Season/Dry_Season.public|Dry_Season.public]]"
+    - "[[/_internal/Earth/Climate/Season/Dry_Season.internal|Dry_Season.internal]]"
+    - "[[/_protect/Earth/Climate/Season/Dry_Season.protect|Dry_Season.protect]]"
+    - "[[/_private/Earth/Climate/Season/Dry_Season.private|Dry_Season.private]]"
+    - "[[/_personal/Earth/Climate/Season/Dry_Season.personal|Dry_Season.personal]]"
+    - "[[/_secret/Earth/Climate/Season/Dry_Season.secret|Dry_Season.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Dry_season,146575|WD~Dry_season,146575]]"
+  - "[[/_Standards/Earth/Climate/Season/Dry_Season|Dry_Season]]"
+  - "[[/_public/Earth/Climate/Season/Dry_Season.public|Dry_Season.public]]"
+  - "[[/_internal/Earth/Climate/Season/Dry_Season.internal|Dry_Season.internal]]"
+  - "[[/_protect/Earth/Climate/Season/Dry_Season.protect|Dry_Season.protect]]"
+  - "[[/_private/Earth/Climate/Season/Dry_Season.private|Dry_Season.private]]"
+  - "[[/_personal/Earth/Climate/Season/Dry_Season.personal|Dry_Season.personal]]"
+  - "[[/_secret/Earth/Climate/Season/Dry_Season.secret|Dry_Season.secret]]"
 ---
 
 # [[Dry_Season]] 

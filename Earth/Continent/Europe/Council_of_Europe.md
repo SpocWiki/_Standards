@@ -1,6 +1,28 @@
-﻿---
+---
+dv_is_:
+  different_from: "[[EU(European_Union)/Council_of_the_European_Union|Council_of_the_European_Union]]"
+  same_as:
+    - "[[../../../WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]"
+    - "[[/_Standards/Earth/Continent/Europe/Council_of_Europe|Council_of_Europe]]"
+    - "[[/_public/Earth/Continent/Europe/Council_of_Europe.public|Council_of_Europe.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Council_of_Europe.internal|Council_of_Europe.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Council_of_Europe.protect|Council_of_Europe.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Council_of_Europe.private|Council_of_Europe.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Council_of_Europe.personal|Council_of_Europe.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Council_of_Europe.secret|Council_of_Europe.secret]]"
+dv_is_different_from: "[[EU(European_Union)/Council_of_the_European_Union|Council_of_the_European_Union]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]"
+  - "[[/_Standards/Earth/Continent/Europe/Council_of_Europe|Council_of_Europe]]"
+  - "[[/_public/Earth/Continent/Europe/Council_of_Europe.public|Council_of_Europe.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Council_of_Europe.internal|Council_of_Europe.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Council_of_Europe.protect|Council_of_Europe.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Council_of_Europe.private|Council_of_Europe.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Council_of_Europe.personal|Council_of_Europe.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Council_of_Europe.secret|Council_of_Europe.secret]]"
+
 has_time_started: 1949-05-05 
-location: [ 7.771932047 , 48.594947947 ] 
+location: [ 48.594947947, 7.771932047 ] 
 aliases:
   - Council of Europe
   - CoE
@@ -136,8 +158,22 @@ Instagram_username: councilofeurope
 
 # [[Council_of_Europe]]
 
-#is_/different_from :: [[EU(European_Union)/Council_of_the_European_Union|Council_of_the_European_Union]] 
+is_different_from = `=this.dv_is_different_from`
 #is_/same_as :: [[../../../WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]] 
+
+## #has_/map  
+
+```leaflet
+id: Council_of_Europe
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Council_of_Europe//
+markerFolder: ./Council_of_Europe/
+coordinates: [[Council_of_Europe]] 
+markerFile: [[Council_of_Europe]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/responsibilities 
 

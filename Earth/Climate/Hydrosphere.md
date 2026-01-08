@@ -14,11 +14,32 @@ studied_by: "[[_Standards/WikiData/WD~physical_geography,52107]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%9C%E0%A8%B2%E0%A8%AE%E0%A9%B0%E0%A8%A1%E0%A8%B2.wav
 Provenio_UUID: 5d3d1008-39da-433e-9d8f-ecf6d8af4845
 Commons_category: Hydrosphere
+dv_is_:
+  studied_by: "[[../Geology/Hydrology|Hydrology]]"
+  same_as:
+    - "[[../../WikiData/WD~Hydrosphere,83169|WD~Hydrosphere,83169]]"
+    - "[[/_Standards/Earth/Climate/Hydrosphere|Hydrosphere]]"
+    - "[[/_public/Earth/Climate/Hydrosphere.public|Hydrosphere.public]]"
+    - "[[/_internal/Earth/Climate/Hydrosphere.internal|Hydrosphere.internal]]"
+    - "[[/_protect/Earth/Climate/Hydrosphere.protect|Hydrosphere.protect]]"
+    - "[[/_private/Earth/Climate/Hydrosphere.private|Hydrosphere.private]]"
+    - "[[/_personal/Earth/Climate/Hydrosphere.personal|Hydrosphere.personal]]"
+    - "[[/_secret/Earth/Climate/Hydrosphere.secret|Hydrosphere.secret]]"
+dv_is_studied_by: "[[../Geology/Hydrology|Hydrology]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Hydrosphere,83169|WD~Hydrosphere,83169]]"
+  - "[[/_Standards/Earth/Climate/Hydrosphere|Hydrosphere]]"
+  - "[[/_public/Earth/Climate/Hydrosphere.public|Hydrosphere.public]]"
+  - "[[/_internal/Earth/Climate/Hydrosphere.internal|Hydrosphere.internal]]"
+  - "[[/_protect/Earth/Climate/Hydrosphere.protect|Hydrosphere.protect]]"
+  - "[[/_private/Earth/Climate/Hydrosphere.private|Hydrosphere.private]]"
+  - "[[/_personal/Earth/Climate/Hydrosphere.personal|Hydrosphere.personal]]"
+  - "[[/_secret/Earth/Climate/Hydrosphere.secret|Hydrosphere.secret]]"
 ---
 
 # [[Hydrosphere]] 
 
-#is_/studied_by :: [[Geology/Hydrology|Hydrology]] 
+is_studied_by = `=this.dv_is_studied_by`
 #is_/same_as :: [[../../WikiData/WD~Hydrosphere,83169|WD~Hydrosphere,83169]] 
 
 ## #has_/text_of_/abstract 

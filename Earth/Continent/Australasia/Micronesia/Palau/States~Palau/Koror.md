@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 7.27
   - 134.44
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Koror
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror|Koror]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.public|Koror.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.internal|Koror.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.protect|Koror.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.private|Koror.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.personal|Koror.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.secret|Koror.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror|Koror]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.public|Koror.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.internal|Koror.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.protect|Koror.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.private|Koror.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.personal|Koror.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.secret|Koror.secret]]"
 ---
 
 # Koror

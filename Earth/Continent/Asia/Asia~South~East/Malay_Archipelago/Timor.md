@@ -43,6 +43,25 @@ Wolfram_Language_entity_code: Entity["Island", "Timor"]
 demonym:
   - טימורי
   - טימורית
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Timor,83067|WD~Timor,83067]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor|Timor]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.public|Timor.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.internal|Timor.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.protect|Timor.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.private|Timor.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.personal|Timor.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.secret|Timor.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Timor,83067|WD~Timor,83067]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor|Timor]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.public|Timor.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.internal|Timor.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.protect|Timor.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.private|Timor.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.personal|Timor.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor.secret|Timor.secret]]"
 ---
 
 # [[Timor]] 

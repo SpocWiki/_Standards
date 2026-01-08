@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q4989906
 subclass_of:
   - "[[_Standards/WikiData/WD~statue,179700]]"
@@ -43,6 +43,25 @@ P8189: "987007543681505171"
 Image_Archive_Herder_Institute: Q4989906
 GeoNames_feature_code: S.MNMT
 OpenStreetMap_tag_or_key: Tag:historic=monument
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~monument,4989906]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument|Monument]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.public|Monument.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.internal|Monument.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.protect|Monument.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.private|Monument.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.personal|Monument.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.secret|Monument.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~monument,4989906]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument|Monument]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.public|Monument.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.internal|Monument.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.protect|Monument.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.private|Monument.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.personal|Monument.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.secret|Monument.secret]]"
 ---
 
 # [[Monument]] 

@@ -128,30 +128,100 @@ U_S_National_Archives_Identifier: 10035840
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Western_Sahara,7112525]]"
 WIPO_ST_3: EH
 Wolfram_Language_entity_code: Entity["Country", "WesternSahara"]
+dv_ISO4217-currency_alphabetic: MAD
+dv_ISO4217-currency_name: Moroccan Dirham
+dv_ISO4217-currency_numeric: 504
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: WESTERN SAHARA
+dv_Telephone: 212
+dv_Global: true
+dv_Global_Name: World
+dv_name: Western Sahara
+dv_name-en:
+  - Western Sahara
+  - Western Sahara
+dv_name-es: Sáhara Occidental
+dv_name-fr: Sahara occidental
+dv_name-cn: 西撒哈拉
+dv_name-ar: الصحراء الغربية
+dv_name-ru: Западная Сахара
+dv_CLDR_display_name: Western Sahara
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western_Sahara]]"
+dv_Sub-region_Name: "[[Northern Africa]]"
+dv_Region: 2
+dv_Sub-region: 15
+dv_Geoname-ID: 2461445
+dv_FIPS: WI
+dv_FIFA: SAH
+dv_MARC: ss
+dv_GAUL: 268
+dv_ITU: AOE
+dv_TLD: .eh
+dv_EDGAR: U5
+dv_M49: 732
+dv_is_independent: In contention
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 732
+dv_ISO2: EH
+dv_ISO3: ESH
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara|Western_Sahara]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public|Western_Sahara.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal|Western_Sahara.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Western_Sahara.protect|Western_Sahara.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Western_Sahara.private|Western_Sahara.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Western_Sahara
+dv_name-de: Western Sahara
+dv_Area-Total: 267000
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: WSA
+dv_Capital: "[[El_Aaiún_(Laâyoune)]]"
+dv_has_place_longitude: -13.2033
+dv_has_place_latitude: 27.1536
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Western_Sahara|Western_Sahara]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.public|Western_Sahara.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal|Western_Sahara.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Western_Sahara.protect|Western_Sahara.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Western_Sahara.private|Western_Sahara.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Western_Sahara
 ---
 
 # [[Western_Sahara]] 
 
-[	ISO4217-currency_alphabetic	 :: MAD ]
-[	ISO4217-currency_name	 :: Moroccan Dirham ]
-[	ISO4217-currency_numeric	 :: 504 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: WESTERN SAHARA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 212 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Western Sahara ]
+name = `=this.dv_name`
 [	name-en	 :: Western Sahara ]
-[	name-es	 :: Sáhara Occidental ]
-[	name-fr	 :: Sahara occidental ]
-[	name-cn	 :: 西撒哈拉 ]
-[	name-ar	 :: الصحراء الغربية ]
-[	name-ru	 :: Западная Сахара ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Western Sahara ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
 [	UNTERM_English	 ::  ]
 [	UNTERM_English_Formal	 ::  ]
@@ -166,42 +236,42 @@ Wolfram_Language_entity_code: Entity["Country", "WesternSahara"]
 [	UNTERM_Russian	 ::  ]
 [	UNTERM_Russian_Formal	 ::  ]
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Northern Africa]]  
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 15 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2461445 ]
-[	FIPS	 :: WI ]
-[	FIFA	 :: SAH ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
 [	IOC	 ::  ]
-[	MARC	 :: ss ]
-[	GAUL	 :: 268 ]
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
 [	WMO	 ::  ]
-[	ITU	 :: AOE ]
+ITU = `=this.dv_ITU`
 [	DS	 ::  ]
-[	TLD	 :: .eh ]
-[	EDGAR	 :: U5 ]
-[	M49	 :: 732 ]
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: In contention ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 732 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::EH]
-[ISO3::ESH]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
 #is_/same_as :: [[../../../../WikiData/WD~Western_Sahara,6250|WD~Western_Sahara,6250]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Western_Sahara 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Western_Sahara/ReadMe]] 
 
@@ -220,16 +290,16 @@ markerFile: [[Western_Sahara]]
 
 
 [name-en::Western Sahara]
-[name-de::Western Sahara]
-[Area-Total::267000]
-[Area-Land::0]
-has_place_continent:: [[Africa]]  
-[VehicleCode::WSA]
-Capital :: [[El_Aaiún_(Laâyoune)]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 [Alcohol-l::]
 [Language-Id::]
-[has_place_longitude::-13.2033]
-[has_place_latitude::27.1536]
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

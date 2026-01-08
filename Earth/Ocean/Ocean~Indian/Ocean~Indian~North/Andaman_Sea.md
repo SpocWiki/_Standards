@@ -1,5 +1,25 @@
-﻿---
-location: [ 96.0 , 10.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Andaman_Sea,47632|WD~Andaman_Sea,47632]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea|Andaman_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.public|Andaman_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.internal|Andaman_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.protect|Andaman_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.private|Andaman_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.personal|Andaman_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.secret|Andaman_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Andaman_Sea,47632|WD~Andaman_Sea,47632]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea|Andaman_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.public|Andaman_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.internal|Andaman_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.protect|Andaman_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.private|Andaman_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.personal|Andaman_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Andaman_Sea.secret|Andaman_Sea.secret]]"
+
+location: [ 10.0, 96 ] 
 aliases:
   - Andaman_Sea
   - Andaman Sea
@@ -45,6 +65,20 @@ P8189: 987007294728305171
 # [[Andaman_Sea]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Andaman_Sea,47632|WD~Andaman_Sea,47632]] 
+
+## #has_/map  
+
+```leaflet
+id: Andaman_Sea
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Andaman_Sea//
+markerFolder: ./Andaman_Sea/
+coordinates: [[Andaman_Sea]] 
+markerFile: [[Andaman_Sea]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

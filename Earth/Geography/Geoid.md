@@ -14,6 +14,25 @@ facet_of: "[[_Standards/WikiData/WD~orthometric_height,3495324]]"
 Commons_category: Geoid
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Geoid%20undulation%2010k%20scale.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-GeoMechain-g%C3%A9o%C3%AFde.wav
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Geoid,185969|WD~Geoid,185969]]"
+    - "[[/_Standards/Earth/Geography/Geoid|Geoid]]"
+    - "[[/_public/Earth/Geography/Geoid.public|Geoid.public]]"
+    - "[[/_internal/Earth/Geography/Geoid.internal|Geoid.internal]]"
+    - "[[/_protect/Earth/Geography/Geoid.protect|Geoid.protect]]"
+    - "[[/_private/Earth/Geography/Geoid.private|Geoid.private]]"
+    - "[[/_personal/Earth/Geography/Geoid.personal|Geoid.personal]]"
+    - "[[/_secret/Earth/Geography/Geoid.secret|Geoid.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Geoid,185969|WD~Geoid,185969]]"
+  - "[[/_Standards/Earth/Geography/Geoid|Geoid]]"
+  - "[[/_public/Earth/Geography/Geoid.public|Geoid.public]]"
+  - "[[/_internal/Earth/Geography/Geoid.internal|Geoid.internal]]"
+  - "[[/_protect/Earth/Geography/Geoid.protect|Geoid.protect]]"
+  - "[[/_private/Earth/Geography/Geoid.private|Geoid.private]]"
+  - "[[/_personal/Earth/Geography/Geoid.personal|Geoid.personal]]"
+  - "[[/_secret/Earth/Geography/Geoid.secret|Geoid.secret]]"
 ---
 
 # [[Geoid]] 

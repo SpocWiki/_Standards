@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Eurasian_Economic_Union,4173083|WD~Eurasian_Economic_Union,4173083]]"
+    - "[[/_Standards/Earth/Continent/Asia/Eurasian_Economic_Union|Eurasian_Economic_Union]]"
+    - "[[/_public/Earth/Continent/Asia/Eurasian_Economic_Union.public|Eurasian_Economic_Union.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Eurasian_Economic_Union.internal|Eurasian_Economic_Union.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Eurasian_Economic_Union.protect|Eurasian_Economic_Union.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Eurasian_Economic_Union.private|Eurasian_Economic_Union.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Eurasian_Economic_Union.personal|Eurasian_Economic_Union.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Eurasian_Economic_Union.secret|Eurasian_Economic_Union.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Eurasian_Economic_Union,4173083|WD~Eurasian_Economic_Union,4173083]]"
+  - "[[/_Standards/Earth/Continent/Asia/Eurasian_Economic_Union|Eurasian_Economic_Union]]"
+  - "[[/_public/Earth/Continent/Asia/Eurasian_Economic_Union.public|Eurasian_Economic_Union.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Eurasian_Economic_Union.internal|Eurasian_Economic_Union.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Eurasian_Economic_Union.protect|Eurasian_Economic_Union.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Eurasian_Economic_Union.private|Eurasian_Economic_Union.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Eurasian_Economic_Union.personal|Eurasian_Economic_Union.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Eurasian_Economic_Union.secret|Eurasian_Economic_Union.secret]]"
+
 has_time_started: 2015-01-01 
 aliases:
   - Eurasian Economic Union

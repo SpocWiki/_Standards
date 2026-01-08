@@ -1,4 +1,49 @@
-﻿---
+---
+dv_has_:
+  parts:
+    - "[[../Europe~Central/Germany|Germany]]"
+    - "[[Denmark]]"
+    - "[[Estonia]]"
+    - "[[Finland]]"
+    - "[[Iceland]]"
+    - "[[Latvia]]"
+    - "[[Lithuania]]"
+    - "[[Norway]]"
+    - "[[../Europe~East/Poland|Poland]]"
+    - "[[Sweden]]"
+    - "[[../EU(European_Union)|EU(European_Union)]]"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Council_of_the_Baltic_Sea_States,789769|WD~Council_of_the_Baltic_Sea_States,789769]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States)|CBSS(Council_of_the_Baltic_Sea_States)]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).public|CBSS(Council_of_the_Baltic_Sea_States).public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).internal|CBSS(Council_of_the_Baltic_Sea_States).internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).protect|CBSS(Council_of_the_Baltic_Sea_States).protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).private|CBSS(Council_of_the_Baltic_Sea_States).private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).personal|CBSS(Council_of_the_Baltic_Sea_States).personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).secret|CBSS(Council_of_the_Baltic_Sea_States).secret]]"
+dv_has_parts:
+  - "[[../Europe~Central/Germany|Germany]]"
+  - "[[Denmark]]"
+  - "[[Estonia]]"
+  - "[[Finland]]"
+  - "[[Iceland]]"
+  - "[[Latvia]]"
+  - "[[Lithuania]]"
+  - "[[Norway]]"
+  - "[[../Europe~East/Poland|Poland]]"
+  - "[[Sweden]]"
+  - "[[../EU(European_Union)|EU(European_Union)]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Council_of_the_Baltic_Sea_States,789769|WD~Council_of_the_Baltic_Sea_States,789769]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States)|CBSS(Council_of_the_Baltic_Sea_States)]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).public|CBSS(Council_of_the_Baltic_Sea_States).public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).internal|CBSS(Council_of_the_Baltic_Sea_States).internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).protect|CBSS(Council_of_the_Baltic_Sea_States).protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).private|CBSS(Council_of_the_Baltic_Sea_States).private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).personal|CBSS(Council_of_the_Baltic_Sea_States).personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).secret|CBSS(Council_of_the_Baltic_Sea_States).secret]]"
+
 has_time_started: 1992-03-06 
 aliases:
   - Council of the Baltic Sea States (CBSS

@@ -711,6 +711,59 @@ X_Twitter_username:
   - usagov
   - usagovespanol
 YouTube_handle: USAgov1
+dv_has_:
+  time_:
+    started: 1776-07-04T00:00:00.000+00:53
+  duration_: P241Y7M3W5DT21H24M3.639S
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-USA
+  image_for_:
+    coat_of_arms: "![[./USA/Coat_of_Arms_of_the_United_States_(obverse).svg|250]]![](./USA/Coat_of_Arms_of_the_United_States_\\(obverse\\).svg)"
+    flag: "![[./USA/Flag_of_the_United_States.svg|200]] ![](./USA/Flag_of_the_United_States.svg)"
+  sound_of_:
+    anthem: "![[../../../../_public/xLarge.public/National-Anthem/Anthem-United-states.mp3]]"
+  telephone_:
+    Prefix_:
+      International: 11
+      country: 1
+dv_name-en: United States of America
+dv_name-de: Vereinigte Staaten von Amerika
+dv_ISO2: US
+dv_ISO3: USA
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~United_States_of_America,30|WD~United_States_of_America,30]]"
+    - "[[/_Standards/Earth/Continent/America~North/USA|USA]]"
+    - "[[/_public/Earth/Continent/America~North/USA.public|USA.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA.internal|USA.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA.protect|USA.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA.private|USA.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA.personal|USA.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA.secret|USA.secret]]"
+dv_Area-Total: 9809155
+dv_Area-Land: 9573110
+dv_has_place_continent: "[[North-America]]"
+dv_VehicleCode: USA
+dv_Alcohol-l: 9.4
+dv_Language-Id: 499
+dv_has_place_longitude: -94.8153
+dv_has_place_latitude: 39.2641
+dv_has_duration_: P241Y7M3W5DT21H24M3.639S
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-USA
+dv_is_same_as:
+  - "[[../../../WikiData/WD~United_States_of_America,30|WD~United_States_of_America,30]]"
+  - "[[/_Standards/Earth/Continent/America~North/USA|USA]]"
+  - "[[/_public/Earth/Continent/America~North/USA.public|USA.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA.internal|USA.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA.protect|USA.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA.private|USA.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA.personal|USA.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA.secret|USA.secret]]"
+dv_has_image_for_coat_of_arms: "![[./USA/Coat_of_Arms_of_the_United_States_(obverse).svg|250]]"
+dv_has_sound_of_anthem: "![[../../../../_public/xLarge.public/National-Anthem/Anthem-United-states.mp3]]"
+dv_has_image_for_flag: "![[./USA/Flag_of_the_United_States.svg|200]]"
+dv_has_telephone_prefix_international: 11
+dv_has_telephone_prefix_country: 1
 ---
 
 # [[USA]] 
@@ -725,13 +778,13 @@ and the subsequent drafting and ratification of the U.S. Constitution in 1787.
 For more Details, check out [this Repository](https://github.com/SpocWiki/America-USA)
 into the Subfolder `USA` so this Link can be resolved: [[USA/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-USA 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[name-en::United States of America]
-[name-de::Vereinigte Staaten von Amerika]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
 
-[ISO2::US] 
-[ISO3::USA] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../WikiData/WD~United_States_of_America,30|WD~United_States_of_America,30]] 
 
@@ -761,37 +814,40 @@ into the Subfolder `USA` so this Link can be resolved: [[USA/ReadMe]]
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./USA/Coat_of_Arms_of_the_United_States_(obverse).svg|250]]<img src="./USA/Coat_of_Arms_of_the_United_States_(obverse).svg" width=250/> 
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
-#has_/sound_of_/anthem :: ![[../../../../_public/xLarge.public/National-Anthem/Anthem-United-states.mp3]] 
+has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
 
 ### #has_/image_for_/flag
 
-#has_/image_for_/flag :: ![[./USA/Flag_of_the_United_States.svg|200]] <img src="./USA/Flag_of_the_United_States.svg" width=200/> 
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 ### #has_/map 
 
 ```leaflet
 id: United States of America
-zoomFeatures: true 
-minZoom: 4 
+zoomFeatures: false 
+minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./USA//
 markerFolder: ./USA/
+coordinates: [[USA]] 
+markerFile: [[USA]] 
+defaultZoom: 3 
 ```
 
-#has_/telephone_/Prefix_/International :: 011
-#has_/telephone_/Prefix_/country:: 1 
+has_telephone_prefix_international = `=this.dv_has_telephone_prefix_international`
+has_telephone_prefix_country = `=this.dv_has_telephone_prefix_country`
 
-[Area-Total::9809155]
-[Area-Land::9573110]
-has_place_continent:: [[North-America]]  
-[VehicleCode::USA]
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]  
-[Alcohol-l::9.4]
-[Language-Id::499]
-[has_place_longitude::-94.8153]
-[has_place_latitude::39.2641]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/place_/city   
 

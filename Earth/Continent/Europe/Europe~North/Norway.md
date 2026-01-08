@@ -1,5 +1,92 @@
-﻿---
-location: [ 11.0 , 65.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Norway,20|WD~Norway,20]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Norway|Norway]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Norway.public|Norway.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Norway.internal|Norway.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Norway.protect|Norway.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Norway.private|Norway.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Norway.personal|Norway.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Norway.secret|Norway.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Norway
+dv_ISO4217-currency_alphabetic: NOK
+dv_ISO4217-currency_name: Norwegian Krone
+dv_ISO4217-currency_numeric: 578
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: NORWAY
+dv_Telephone: 47
+dv_Global: true
+dv_Global_Name: World
+dv_name: Norway
+dv_name-en:
+  - Norway
+  - Norway
+dv_name-es: Noruega
+dv_name-fr: Norvège
+dv_name-cn: 挪威
+dv_name-ar: النرويج
+dv_name-ru: Норвегия
+dv_CLDR_display_name: Norway
+dv_UNTERM_English: Norway
+dv_UNTERM_English_Formal: the Kingdom of Norway
+dv_UNTERM_Spanish_Formal: el Reino de Noruega
+dv_UNTERM_Spanish: Noruega
+dv_UNTERM_French: Norvège (la)
+dv_UNTERM_Arabic: النرويج
+dv_UNTERM_Arabic_Formal: مملكة النرويج
+dv_UNTERM_Chinese: 挪威
+dv_UNTERM_Chinese_Formal: 挪威王国
+dv_UNTERM_French_Formal: le Royaume de Norvège
+dv_UNTERM_Russian: Норвегия
+dv_UNTERM_Russian_Formal: Королевство Норвегия
+dv_Region_Name: "[[../../Europe]]"
+dv_Intermediate_Region_Name: "[[Norway]]"
+dv_Sub-region_Name: "[[Northern Europe]]"
+dv_Region: 150
+dv_Sub-region: 154
+dv_Geoname-ID: 3144096
+dv_FIPS: NO
+dv_FIFA: NOR
+dv_IOC: NOR
+dv_MARC: no
+dv_GAUL: 186
+dv_WMO: NO
+dv_ITU: NOR
+dv_DS: N
+dv_TLD: .no
+dv_EDGAR: Q8
+dv_M49: 578
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 578
+dv_ISO2: NO
+dv_ISO3: NOR
+dv_name-de: Norwegen
+dv_Area-Total: 323877
+dv_Area-Land: 306830
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: N
+dv_Capital: "[[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]"
+dv_Alcohol-l: 7.8
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 11.4588
+dv_has_place_latitude: 61.8685
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Norway,20|WD~Norway,20]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Norway|Norway]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Norway.public|Norway.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Norway.internal|Norway.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Norway.protect|Norway.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Norway.private|Norway.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Norway.personal|Norway.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Norway.secret|Norway.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Norway
+dv_developed_developing_countries: Developed
+
 aliases:
   - Norway
   - Noruega
@@ -472,13 +559,13 @@ Wolfram_Language_entity_code:
 
 # [[Norway]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Norway,20|WD~Norway,20]] 
+is_a_ = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Norway)
 into a Subfolder named `Norway`, so that this Link into the Sub-Repository works: [[Norway/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Norway 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki!
 
@@ -502,71 +589,71 @@ with numbers as of 2022-06
 | [[Norway/Counties~Norway/Troms\|Troms]] og [[Norway/Counties~Norway/Finnmark\|Finnmark]]                             |   244 | 74.831 |  134.145 |    554.434 | 0.950 | Northernmost county; Arctic climate and indigenous Sami population                                                                           |
 | [[Norway/Counties~Norway/Nordland\|Nordland]]                                                                        |   239 | 38.456 |  131.210 |    546.093 | 0.950 | Long coastline; fisheries and aquaculture                                                                                                    |
 
-[	ISO4217-currency_alphabetic	 :: NOK ]
-[	ISO4217-currency_name	 :: Norwegian Krone ]
-[	ISO4217-currency_numeric	 :: 578 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: NORWAY ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 47 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Norway ]
+name = `=this.dv_name`
 [	name-en	 :: Norway ]
-[	name-es	 :: Noruega ]
-[	name-fr	 :: Norvège ]
-[	name-cn	 :: 挪威 ]
-[	name-ar	 :: النرويج ]
-[	name-ru	 :: Норвегия ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Norway ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Norway ]
-[	UNTERM_English_Formal	 :: the Kingdom of Norway ]
-[	UNTERM_Spanish_Formal	 :: el Reino de Noruega ]
-[	UNTERM_Spanish	 :: Noruega ]
-[	UNTERM_French	 :: Norvège (la) ]
-[	UNTERM_Arabic	 :: النرويج ]
-[	UNTERM_Arabic_Formal	 :: مملكة النرويج ]
-[	UNTERM_Chinese	 :: 挪威 ]
-[	UNTERM_Chinese_Formal	 :: 挪威王国 ]
-[	UNTERM_French_Formal	 :: le Royaume de Norvège ]
-[	UNTERM_Russian	 :: Норвегия ]
-[	UNTERM_Russian_Formal	 :: Королевство Норвегия ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Northern Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 154 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3144096 ]
-[	FIPS	 :: NO ]
-[	FIFA	 :: NOR ]
-[	IOC	 :: NOR ]
-[	MARC	 :: no ]
-[	GAUL	 :: 186 ]
-[	WMO	 :: NO ]
-[	ITU	 :: NOR ]
-[	DS	 :: N ]
-[	TLD	 :: .no ]
-[	EDGAR	 :: Q8 ]
-[	M49	 :: 578 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 578 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::NO]
-[ISO3::NOR]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
 ## #has_/map 
 
@@ -577,15 +664,18 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Norway/
 markerFolder: ./Norway//
+coordinates: [[Norway]] 
+markerFile: [[Norway]] 
+defaultZoom: 5 
 ```
 
 [name-en::Norway]
-[name-de::Norwegen]
-[Area-Total::323877]
-[Area-Land::306830]
-has_place_continent:: [[Europe]]  
-[VehicleCode::N]
-Capital :: [[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Flag_of_Norway.svg|350]]
 
@@ -641,12 +731,12 @@ Major Cities with Population in 1000s as of @2024
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Norway.mp3]]
 
-[Alcohol-l::7.8]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::11.4588]
-[has_place_latitude::61.8685]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

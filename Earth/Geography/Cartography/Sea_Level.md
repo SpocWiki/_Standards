@@ -9,6 +9,25 @@ instance_of: "[[_Standards/WikiData/WD~vertical_datum,9364781]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Meeresspiegel.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Israel%20Sea%20Level%20BW%201.JPG
 Commons_category: Sea level
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Sea_level,125465]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Sea_Level|Sea_Level]]"
+    - "[[/_public/Earth/Geography/Cartography/Sea_Level.public|Sea_Level.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Sea_Level.internal|Sea_Level.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Sea_Level.protect|Sea_Level.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Sea_Level.private|Sea_Level.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Sea_Level.personal|Sea_Level.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Sea_Level.secret|Sea_Level.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Sea_level,125465]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Sea_Level|Sea_Level]]"
+  - "[[/_public/Earth/Geography/Cartography/Sea_Level.public|Sea_Level.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Sea_Level.internal|Sea_Level.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Sea_Level.protect|Sea_Level.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Sea_Level.private|Sea_Level.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Sea_Level.personal|Sea_Level.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Sea_Level.secret|Sea_Level.secret]]"
 ---
 
 # [[Sea_Level]] 

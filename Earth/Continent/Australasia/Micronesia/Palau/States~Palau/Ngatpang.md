@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - 7.48
   - 134.54
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Ngatpang
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang|Ngatpang]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.public|Ngatpang.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.internal|Ngatpang.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.protect|Ngatpang.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.private|Ngatpang.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.personal|Ngatpang.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.secret|Ngatpang.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang|Ngatpang]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.public|Ngatpang.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.internal|Ngatpang.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.protect|Ngatpang.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.private|Ngatpang.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.personal|Ngatpang.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngatpang.secret|Ngatpang.secret]]"
 ---
 
 # Ngatpang

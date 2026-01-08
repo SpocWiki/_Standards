@@ -521,6 +521,101 @@ Wolfram_Language_entity_code: Entity["Country", "Canada"]
 X_Twitter_username:
   - Canada
   - AuCanada
+dv_name-en: Canada
+dv_name-es: Canadá
+dv_name-fr: Canada
+dv_name-cn: 加拿大
+dv_name-ar: كندا
+dv_name-ru: Канада
+dv_name-de: Kanada
+dv_ISO2: CA
+dv_ISO3: CAN
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Canada,16|WD~Canada,16]]"
+    - "[[/_Standards/Earth/Continent/America~North/Canada|Canada]]"
+    - "[[/_public/Earth/Continent/America~North/Canada.public|Canada.public]]"
+    - "[[/_internal/Earth/Continent/America~North/Canada.internal|Canada.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/Canada.protect|Canada.protect]]"
+    - "[[/_private/Earth/Continent/America~North/Canada.private|Canada.private]]"
+    - "[[/_personal/Earth/Continent/America~North/Canada.personal|Canada.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/Canada.secret|Canada.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Canada
+  image_for_:
+    flag: "![[./Canada/Flag_of_Canada.svg|200]] ![](./Canada/Flag_of_Canada.svg)"
+    coat_of_arms: "![[./Canada/Coat_of_arms_of_Canada.svg|250]]![](./Canada/Coat_of_arms_of_Canada.svg)"
+  sound_of_:
+    anthem: "![[../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3]]"
+  telephone_:
+    Prefix_:
+      International: 11
+      country: 1
+dv_ISO4217-currency_alphabetic: CAD
+dv_ISO4217-currency_name: Canadian Dollar
+dv_ISO4217-currency_numeric: 124
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: CANADA
+dv_Global: true
+dv_Global_Name: World
+dv_CLDR_display_name: Canada
+dv_UNTERM_English: Canada
+dv_UNTERM_English_Formal: Canada
+dv_UNTERM_Spanish_Formal: el Canadá
+dv_UNTERM_Spanish: Canadá (el)
+dv_UNTERM_French: Canada (le)
+dv_UNTERM_Arabic: كندا
+dv_UNTERM_Arabic_Formal: كندا
+dv_UNTERM_Chinese: 加拿大
+dv_UNTERM_Chinese_Formal: 加拿大
+dv_UNTERM_French_Formal: le Canada
+dv_UNTERM_Russian: Канада
+dv_UNTERM_Russian_Formal: Канада
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Canada]]"
+dv_Sub-region_Name: "[[Northern America]]"
+dv_Region: 19
+dv_Sub-region: 21
+dv_Geoname-ID: 6251999
+dv_FIPS: CA
+dv_FIFA: CAN
+dv_IOC: CAN
+dv_MARC: xxc
+dv_GAUL: 46
+dv_WMO: CN
+dv_ITU: CAN
+dv_DS: CDN
+dv_TLD: .ca
+dv_M49: 124
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 124
+dv_Area-Total: 9958319
+dv_Area-Land: 9220970
+dv_has_place_continent: "[[North-America]]"
+dv_VehicleCode: CDN
+dv_Alcohol-l: 9.8
+dv_Language-Id: 499
+dv_has_place_longitude: -87.1444
+dv_has_place_latitude: 50.4137
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Canada,16|WD~Canada,16]]"
+  - "[[/_Standards/Earth/Continent/America~North/Canada|Canada]]"
+  - "[[/_public/Earth/Continent/America~North/Canada.public|Canada.public]]"
+  - "[[/_internal/Earth/Continent/America~North/Canada.internal|Canada.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/Canada.protect|Canada.protect]]"
+  - "[[/_private/Earth/Continent/America~North/Canada.private|Canada.private]]"
+  - "[[/_personal/Earth/Continent/America~North/Canada.personal|Canada.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/Canada.secret|Canada.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Canada
+dv_has_image_for_flag: "![[./Canada/Flag_of_Canada.svg|200]] ![](./Canada/Flag_of_Canada.svg)"
+dv_has_image_for_coat_of_arms: "![[./Canada/Coat_of_arms_of_Canada.svg|250]]![](./Canada/Coat_of_arms_of_Canada.svg)"
+dv_has_sound_of_anthem: "![[../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3]]"
+dv_has_telephone_prefix_international: 11
+dv_has_telephone_prefix_country: 1
+dv_developed_developing_countries: Developed
 ---
 
 # [[Canada]] 
@@ -528,16 +623,16 @@ X_Twitter_username:
 ## International Names
 
 [	name	 :: Canada ]
-[	name-en	 :: Canada ]
-[	name-es	 :: Canadá ]
-[	name-fr	 :: Canada ]
-[	name-cn	 :: 加拿大 ]
-[	name-ar	 :: كندا ]
-[	name-ru	 :: Канада ]
-[name-de::Kanada]
+name-en = `=this.dv_name-en`
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
+name-de = `=this.dv_name-de`
 
-[ISO2::CA]
-[ISO3::CAN]  
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`  
 
 #is_/same_as :: [[../../../WikiData/WD~Canada,16|WD~Canada,16]] 
 
@@ -545,14 +640,14 @@ X_Twitter_username:
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Canada)
 into a Subfolder named `Canada`, so that this Link into the Sub-Repository works: [[Canada/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Canada 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
 
 ### #has_/image_for_/flag
 
-#has_/image_for_/flag :: ![[./Canada/Flag_of_Canada.svg|200]] <img src="./Canada/Flag_of_Canada.svg" width=200/> 
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 
 ## #has_/parts 
@@ -659,11 +754,11 @@ Major Cities with Population in 1000s as of @2021
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Canada/Coat_of_arms_of_Canada.svg|250]]<img src="./Canada/Coat_of_arms_of_Canada.svg" width=250/>
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
 
 
-#has_/sound_of_/anthem :: ![[../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3]] 
+has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
 
 ### #has_/map
 
@@ -678,72 +773,72 @@ markerFolder: ./Canada/
 
 ## Metadata 
 
-#has_/telephone_/Prefix_/International :: 011
-#has_/telephone_/Prefix_/country:: 1 
+has_telephone_prefix_international = `=this.dv_has_telephone_prefix_international`
+has_telephone_prefix_country = `=this.dv_has_telephone_prefix_country`
 
-[	ISO4217-currency_alphabetic	 :: CAD ]
-[	ISO4217-currency_name	 :: Canadian Dollar ]
-[	ISO4217-currency_numeric	 :: 124 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: CANADA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	CLDR_display_name	 :: Canada ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Canada ]
-[	UNTERM_English_Formal	 :: Canada ]
-[	UNTERM_Spanish_Formal	 :: el Canadá ]
-[	UNTERM_Spanish	 :: Canadá (el) ]
-[	UNTERM_French	 :: Canada (le) ]
-[	UNTERM_Arabic	 :: كندا ]
-[	UNTERM_Arabic_Formal	 :: كندا ]
-[	UNTERM_Chinese	 :: 加拿大 ]
-[	UNTERM_Chinese_Formal	 :: 加拿大 ]
-[	UNTERM_French_Formal	 :: le Canada ]
-[	UNTERM_Russian	 :: Канада ]
-[	UNTERM_Russian_Formal	 :: Канада ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Northern America]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 21 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 6251999 ]
-[	FIPS	 :: CA ]
-[	FIFA	 :: CAN ]
-[	IOC	 :: CAN ]
-[	MARC	 :: xxc ]
-[	GAUL	 :: 46 ]
-[	WMO	 :: CN ]
-[	ITU	 :: CAN ]
-[	DS	 :: CDN ]
-[	TLD	 :: .ca ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
 [	EDGAR	 ::  ]
-[	M49	 :: 124 ]
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 124 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
-[Area-Total::9958319]
-[Area-Land::9220970]
-has_place_continent:: [[North-America]]  
-[VehicleCode::CDN]
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Canada/State/State~Ontario/City/Ottawa]]  
-[Alcohol-l::9.8]
-[Language-Id::499]
-[has_place_longitude::-87.1444]
-[has_place_latitude::50.4137]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

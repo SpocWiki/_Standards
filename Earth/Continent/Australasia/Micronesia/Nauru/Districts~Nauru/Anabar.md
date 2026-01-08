@@ -5,25 +5,42 @@ confidential: public
 cssclasses:
   - geo-Region
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - de
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -0.494
   - 166.943
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 tags:
   - geo/Country/Region
 title: Anabar
 type: geo-Region
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar|Anabar]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.public|Anabar.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.internal|Anabar.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.protect|Anabar.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.private|Anabar.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.personal|Anabar.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.secret|Anabar.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar|Anabar]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.public|Anabar.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.internal|Anabar.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.protect|Anabar.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.private|Anabar.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.personal|Anabar.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anabar.secret|Anabar.secret]]"
 ---
 
 # Anabar

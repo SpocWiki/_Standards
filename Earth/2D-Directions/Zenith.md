@@ -17,11 +17,32 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hemisferio%20celeste.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q82806-ar.ogg
 Commons_category: Zenith (topography)
+dv_is_:
+  opposite_of: "[[Nadir]]"
+  same_as:
+    - "[[../../WikiData/WD~Zenith,82806]]"
+    - "[[/_Standards/Earth/2D-Directions/Zenith|Zenith]]"
+    - "[[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]]"
+    - "[[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]]"
+    - "[[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]]"
+    - "[[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]]"
+    - "[[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]]"
+    - "[[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]]"
+dv_is_opposite_of: "[[Nadir]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Zenith,82806]]"
+  - "[[/_Standards/Earth/2D-Directions/Zenith|Zenith]]"
+  - "[[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]]"
+  - "[[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]]"
+  - "[[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]]"
+  - "[[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]]"
+  - "[[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]]"
+  - "[[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]]"
 ---
 
 # [[Zenith]] 
 
-#is_/opposite_of :: [[Nadir]] 
+is_opposite_of = `=this.dv_is_opposite_of`
 #is_/same_as :: [[WD~Zenith,82806]] 
 
 ## #has_/text_of_/abstract 

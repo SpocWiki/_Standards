@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[WD~Big_Ben,41225]]"
+    - "[[/_Standards/Earth/Geography/Place/Big_Ben|Big_Ben]]"
+    - "[[/_public/Earth/Geography/Place/Big_Ben.public|Big_Ben.public]]"
+    - "[[/_internal/Earth/Geography/Place/Big_Ben.internal|Big_Ben.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Big_Ben.protect|Big_Ben.protect]]"
+    - "[[/_private/Earth/Geography/Place/Big_Ben.private|Big_Ben.private]]"
+    - "[[/_personal/Earth/Geography/Place/Big_Ben.personal|Big_Ben.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Big_Ben.secret|Big_Ben.secret]]"
+dv_is_same_as:
+  - "[[WD~Big_Ben,41225]]"
+  - "[[/_Standards/Earth/Geography/Place/Big_Ben|Big_Ben]]"
+  - "[[/_public/Earth/Geography/Place/Big_Ben.public|Big_Ben.public]]"
+  - "[[/_internal/Earth/Geography/Place/Big_Ben.internal|Big_Ben.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Big_Ben.protect|Big_Ben.protect]]"
+  - "[[/_private/Earth/Geography/Place/Big_Ben.private|Big_Ben.private]]"
+  - "[[/_personal/Earth/Geography/Place/Big_Ben.personal|Big_Ben.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Big_Ben.secret|Big_Ben.secret]]"
+
 has_time_started: 1843-09-28 
 aliases:
   - Big Ben

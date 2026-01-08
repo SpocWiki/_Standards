@@ -12,6 +12,25 @@ history_of_topic: "[[_Standards/WikiData/WD~history_of_European_integration,2791
 studied_by: "[[_Standards/WikiData/WD~European_integration_studies,108371114]]"
 locations: "[[_Standards/WikiData/WD~Europe,46]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/European%20Spaces%20Map.svg
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~European_integration,1048268|WD~European_integration,1048268]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Integration|European_Integration]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Integration.public|European_Integration.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Integration.internal|European_Integration.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Integration.protect|European_Integration.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Integration.private|European_Integration.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Integration.personal|European_Integration.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Integration.secret|European_Integration.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~European_integration,1048268|WD~European_integration,1048268]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Integration|European_Integration]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/European_Integration.public|European_Integration.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Integration.internal|European_Integration.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Integration.protect|European_Integration.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/European_Integration.private|European_Integration.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Integration.personal|European_Integration.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Integration.secret|European_Integration.secret]]"
 ---
 
 # [[European_Integration]] 

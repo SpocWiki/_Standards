@@ -9,22 +9,41 @@ aliases:
   - St.Elmo's_fire
   - St.Elmo's fire
 has_id_wikidata: Q120688
-named_after: '[[_Standards/WikiData/WD~Erasmus_of_Formiae,359878]]'
+named_after: "[[_Standards/WikiData/WD~Erasmus_of_Formiae,359878]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~phenomenon,483247]]'
-  - '[[_Standards/WikiData/WD~electrometeor,1779241]]'
+  - "[[_Standards/WikiData/WD~phenomenon,483247]]"
+  - "[[_Standards/WikiData/WD~electrometeor,1779241]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 Commons_gallery: St. Elmo's Fire
 Commons_category: St. Elmo's Fire
-Iconclass_notation: 26E31
+Iconclass_notation: 2.6e+32
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elmo%27s%20fire-2.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Symbol%20Saint%20Elmo%27s%20fire%20WMO.svg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~St._Elmo's_fire,120688|WD~St._Elmo's_fire,120688]]"
+    - "[[/_Standards/Earth/Climate/Weather/St.Elmo's_fire|St.Elmo's_fire]]"
+    - "[[/_public/Earth/Climate/Weather/St.Elmo's_fire.public|St.Elmo's_fire.public]]"
+    - "[[/_internal/Earth/Climate/Weather/St.Elmo's_fire.internal|St.Elmo's_fire.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/St.Elmo's_fire.protect|St.Elmo's_fire.protect]]"
+    - "[[/_private/Earth/Climate/Weather/St.Elmo's_fire.private|St.Elmo's_fire.private]]"
+    - "[[/_personal/Earth/Climate/Weather/St.Elmo's_fire.personal|St.Elmo's_fire.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/St.Elmo's_fire.secret|St.Elmo's_fire.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~St._Elmo's_fire,120688|WD~St._Elmo's_fire,120688]]"
+  - "[[/_Standards/Earth/Climate/Weather/St.Elmo's_fire|St.Elmo's_fire]]"
+  - "[[/_public/Earth/Climate/Weather/St.Elmo's_fire.public|St.Elmo's_fire.public]]"
+  - "[[/_internal/Earth/Climate/Weather/St.Elmo's_fire.internal|St.Elmo's_fire.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/St.Elmo's_fire.protect|St.Elmo's_fire.protect]]"
+  - "[[/_private/Earth/Climate/Weather/St.Elmo's_fire.private|St.Elmo's_fire.private]]"
+  - "[[/_personal/Earth/Climate/Weather/St.Elmo's_fire.personal|St.Elmo's_fire.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/St.Elmo's_fire.secret|St.Elmo's_fire.secret]]"
 ---
 
 # [[St.Elmo's_fire]] 

@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Age_of_Discovery,133641]]"
+    - "[[/_Standards/Earth/Explorer/Age_of_Discovery|Age_of_Discovery]]"
+    - "[[/_public/Earth/Explorer/Age_of_Discovery.public|Age_of_Discovery.public]]"
+    - "[[/_internal/Earth/Explorer/Age_of_Discovery.internal|Age_of_Discovery.internal]]"
+    - "[[/_protect/Earth/Explorer/Age_of_Discovery.protect|Age_of_Discovery.protect]]"
+    - "[[/_private/Earth/Explorer/Age_of_Discovery.private|Age_of_Discovery.private]]"
+    - "[[/_personal/Earth/Explorer/Age_of_Discovery.personal|Age_of_Discovery.personal]]"
+    - "[[/_secret/Earth/Explorer/Age_of_Discovery.secret|Age_of_Discovery.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Age_of_Discovery,133641]]"
+  - "[[/_Standards/Earth/Explorer/Age_of_Discovery|Age_of_Discovery]]"
+  - "[[/_public/Earth/Explorer/Age_of_Discovery.public|Age_of_Discovery.public]]"
+  - "[[/_internal/Earth/Explorer/Age_of_Discovery.internal|Age_of_Discovery.internal]]"
+  - "[[/_protect/Earth/Explorer/Age_of_Discovery.protect|Age_of_Discovery.protect]]"
+  - "[[/_private/Earth/Explorer/Age_of_Discovery.private|Age_of_Discovery.private]]"
+  - "[[/_personal/Earth/Explorer/Age_of_Discovery.personal|Age_of_Discovery.personal]]"
+  - "[[/_secret/Earth/Explorer/Age_of_Discovery.secret|Age_of_Discovery.secret]]"
+
 has_time_started: 1500-01-01 
 has_time_stopped: 1800-01-01 
 aliases:

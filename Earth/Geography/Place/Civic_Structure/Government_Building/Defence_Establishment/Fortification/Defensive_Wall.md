@@ -12,6 +12,25 @@ subclass_of:
 Nomenclature_for_Museum_Cataloging: "730"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20view%20of%20Rani%20Kot%20Fort.jpg
 Commons_category: Defensive walls
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Defensive_wall,57346|WD~Defensive_wall,57346]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall|Defensive_Wall]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.public|Defensive_Wall.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.internal|Defensive_Wall.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.protect|Defensive_Wall.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.private|Defensive_Wall.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.personal|Defensive_Wall.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.secret|Defensive_Wall.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Defensive_wall,57346|WD~Defensive_wall,57346]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall|Defensive_Wall]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.public|Defensive_Wall.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.internal|Defensive_Wall.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.protect|Defensive_Wall.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.private|Defensive_Wall.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.personal|Defensive_Wall.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.secret|Defensive_Wall.secret]]"
 ---
 
 # [[Defensive_Wall]] 

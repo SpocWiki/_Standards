@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~North_Pole,934|WD~North_Pole,934]]"
+    - "[[/_Standards/Earth/Geography/Cartography/North_Pole|North_Pole]]"
+    - "[[/_public/Earth/Geography/Cartography/North_Pole.public|North_Pole.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/North_Pole.internal|North_Pole.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/North_Pole.protect|North_Pole.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/North_Pole.private|North_Pole.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/North_Pole.personal|North_Pole.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/North_Pole.secret|North_Pole.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~North_Pole,934|WD~North_Pole,934]]"
+  - "[[/_Standards/Earth/Geography/Cartography/North_Pole|North_Pole]]"
+  - "[[/_public/Earth/Geography/Cartography/North_Pole.public|North_Pole.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/North_Pole.internal|North_Pole.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/North_Pole.protect|North_Pole.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/North_Pole.private|North_Pole.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/North_Pole.personal|North_Pole.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/North_Pole.secret|North_Pole.secret]]"
+
 location: [ 0.0 , 90.0 ] 
 aliases:
   - North Pole

@@ -191,7 +191,7 @@ legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Ivory_Coast,27881072]]
 has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 coordinates_of_southernmost_point: Point(-7.525 4.361805555)
 EAGLE_id: dates/lod/351
-Wolfram_Language_entity_code: Entity["Concept", "CoteDIvoire::xrhh5"]
+Wolfram_Language_entity_code: Entity"Concept", "CoteDIvoire = `=this.dv_"Concept", "CoteDIvoire`
 UMLS_CUI: C0022326
 demonym:
   - إڤواري
@@ -401,15 +401,52 @@ MeSH_tree_code: Z01.058.290.190.272
 native_label: République de Côte d'Ivoire
 short_name: 🇨🇮
 coordinates_of_westernmost_point: Point(-8.602055555 6.506388888)
+dv_"Concept", "CoteDIvoire: xrhh5"
+dv_ISO2: CI
+dv_ISO3: CIV
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Cote_d-ivoire
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire|Cote_d'ivoire]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.public|Cote_d'ivoire.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.internal|Cote_d'ivoire.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.protect|Cote_d'ivoire.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.private|Cote_d'ivoire.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.personal|Cote_d'ivoire.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.secret|Cote_d'ivoire.secret]]"
+dv_name-en: Cote D'ivoire
+dv_name-de: Elfenbeinküste
+dv_Area-Total: 322462
+dv_Area-Land: 318000
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: CI
+dv_Alcohol-l: 6.5
+dv_Language-Id: 496
+dv_has_place_longitude: -5.3
+dv_has_place_latitude: 6.85
+dv_concept-cotedivoire: xrhh5"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Cote_d-ivoire
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire|Cote_d'ivoire]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.public|Cote_d'ivoire.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.internal|Cote_d'ivoire.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.protect|Cote_d'ivoire.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.private|Cote_d'ivoire.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.personal|Cote_d'ivoire.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.secret|Cote_d'ivoire.secret]]"
 ---
 
 # [[Cote_d'ivoire]] 
 
-[ISO2::CI]
-[ISO3::CIV]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Cote_d-ivoire 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Cote_d'ivoire/ReadMe]] 
 
@@ -426,20 +463,20 @@ geojsonFolder: ./Cote_d'ivoire//
 markerFolder: ./Cote_d'ivoire//
 ```
 
-[name-en::Cote D'ivoire]
-[name-de::Elfenbeinküste]
-[Area-Total::322462]
-[Area-Land::318000]
-has_place_continent:: [[Africa]]  
-[VehicleCode::CI]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Yamoussoukro]]  
 ![[Coat_of_arms_of_Cote-divoire.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Cote-divoire.mp3]]
 ![[Flag_of_Cote-divoire.svg|350]]
-[Alcohol-l::6.5]
-[Language-Id::496]
-[has_place_longitude::-5.3]
-[has_place_latitude::6.85]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

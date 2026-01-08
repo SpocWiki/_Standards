@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Sahel,66065]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Sahel|Sahel]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~Central/Sahel.public|Sahel.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~Central/Sahel.internal|Sahel.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~Central/Sahel.protect|Sahel.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~Central/Sahel.private|Sahel.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~Central/Sahel.personal|Sahel.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~Central/Sahel.secret|Sahel.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sahel,66065]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Sahel|Sahel]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~Central/Sahel.public|Sahel.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~Central/Sahel.internal|Sahel.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~Central/Sahel.protect|Sahel.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~Central/Sahel.private|Sahel.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~Central/Sahel.personal|Sahel.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~Central/Sahel.secret|Sahel.secret]]"
+
 location: [ 13.511696 , 14.474672 ] 
 aliases:
   - Sahelian acacia savanna
@@ -96,6 +116,21 @@ demonym:
 > shaped by internal instability and external strategic competition.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sahel) 
+
+
+## #has_/map 
+
+```leaflet
+id: Sahel
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Sahel//
+markerFolder: ./Sahel//
+coordinates: [[Sahel]] 
+markerFile: [[Sahel]] 
+defaultZoom: 5 
+```
 
 
 ## Confidential Links & Embeds: 

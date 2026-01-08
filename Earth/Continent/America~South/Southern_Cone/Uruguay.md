@@ -403,81 +403,168 @@ VAT_rate:
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Uruguay,7112501]]"
 WIPO_ST_3: UY
 Wolfram_Language_entity_code: Entity["Country", "Uruguay"]
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Uruguay
+dv_ISO4217-currency_alphabetic: UYU
+dv_ISO4217-currency_name: Peso Uruguayo
+dv_ISO4217-currency_numeric: 858
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: URUGUAY
+dv_Telephone: 598
+dv_Global: true
+dv_Global_Name: World
+dv_name: Uruguay
+dv_name-en:
+  - Uruguay
+  - Uruguay
+dv_name-es: Uruguay
+dv_name-fr: Uruguay
+dv_name-cn: 乌拉圭
+dv_name-ar: أوروغواي
+dv_name-ru: Уругвай
+dv_CLDR_display_name: Uruguay
+dv_UNTERM_English: Uruguay
+dv_UNTERM_English_Formal: the Eastern Republic of Uruguay
+dv_UNTERM_Spanish_Formal: la República Oriental del Uruguay
+dv_UNTERM_Spanish: Uruguay (el)
+dv_UNTERM_French: Uruguay (l') [masc.]
+dv_UNTERM_Arabic: أوروغواي
+dv_UNTERM_Arabic_Formal: جمهورية أوروغواي الشرقية
+dv_UNTERM_Chinese: 乌拉圭
+dv_UNTERM_Chinese_Formal: 乌拉圭东岸共和国
+dv_UNTERM_French_Formal: la République orientale de l'Uruguay
+dv_UNTERM_Russian: Уругвай
+dv_UNTERM_Russian_Formal: Восточная Республика Уругвай
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[South America]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 5
+dv_Sub-region: 419
+dv_Geoname-ID: 3439705
+dv_FIPS: UY
+dv_FIFA: URU
+dv_IOC: URU
+dv_MARC: uy
+dv_GAUL: 260
+dv_WMO: UY
+dv_ITU: URG
+dv_DS: ROU
+dv_TLD: .uy
+dv_EDGAR: X3
+dv_M49: 858
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 858
+dv_ISO2: UY
+dv_ISO3: URY
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]]"
+    - "[[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay|Uruguay]]"
+    - "[[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay.public|Uruguay.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay.internal|Uruguay.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay.protect|Uruguay.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay.private|Uruguay.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay.personal|Uruguay.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay.secret|Uruguay.secret]]"
+dv_name-de: Uruguay
+dv_Area-Total: 176215
+dv_Area-Land: 174810
+dv_has_place_continent: "[[South-America]]"
+dv_VehicleCode: ROU
+dv_Alcohol-l: 8.1
+dv_Language-Id: 492
+dv_has_place_longitude: -56.17
+dv_has_place_latitude: -34.91
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Uruguay
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]]"
+  - "[[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay|Uruguay]]"
+  - "[[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay.public|Uruguay.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay.internal|Uruguay.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay.protect|Uruguay.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay.private|Uruguay.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay.personal|Uruguay.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay.secret|Uruguay.secret]]"
 ---
 
 # [[Uruguay]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Uruguay 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Uruguay/ReadMe]] 
 
 
-[	ISO4217-currency_alphabetic	 :: UYU ]
-[	ISO4217-currency_name	 :: Peso Uruguayo ]
-[	ISO4217-currency_numeric	 :: 858 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: URUGUAY ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 598 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Uruguay ]
+name = `=this.dv_name`
 [	name-en	 :: Uruguay ]
-[	name-es	 :: Uruguay ]
-[	name-fr	 :: Uruguay ]
-[	name-cn	 :: 乌拉圭 ]
-[	name-ar	 :: أوروغواي ]
-[	name-ru	 :: Уругвай ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Uruguay ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Uruguay ]
-[	UNTERM_English_Formal	 :: the Eastern Republic of Uruguay ]
-[	UNTERM_Spanish_Formal	 :: la República Oriental del Uruguay ]
-[	UNTERM_Spanish	 :: Uruguay (el) ]
-[	UNTERM_French	 :: Uruguay (l') [masc.] ]
-[	UNTERM_Arabic	 :: أوروغواي ]
-[	UNTERM_Arabic_Formal	 :: جمهورية أوروغواي الشرقية ]
-[	UNTERM_Chinese	 :: 乌拉圭 ]
-[	UNTERM_Chinese_Formal	 :: 乌拉圭东岸共和国 ]
-[	UNTERM_French_Formal	 :: la République orientale de l'Uruguay ]
-[	UNTERM_Russian	 :: Уругвай ]
-[	UNTERM_Russian_Formal	 :: Восточная Республика Уругвай ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[South America]] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ]
-[	Intermediate_Region	 :: 5 ]
-[	Sub-region	 :: 419 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3439705 ]
-[	FIPS	 :: UY ]
-[	FIFA	 :: URU ]
-[	IOC	 :: URU ]
-[	MARC	 :: uy ]
-[	GAUL	 :: 260 ]
-[	WMO	 :: UY ]
-[	ITU	 :: URG ]
-[	DS	 :: ROU ]
-[	TLD	 :: .uy ]
-[	EDGAR	 :: X3 ]
-[	M49	 :: 858 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 858 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::UY]
-[ISO3::URY] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Uruguay,77|WD~Uruguay,77]] 
 
@@ -495,11 +582,11 @@ markerFolder: ./Uruguay/
 ```
 
 [name-en::Uruguay]
-[name-de::Uruguay]
-[Area-Total::176215]
-[Area-Land::174810]
-has_place_continent:: [[South-America]]  
-[VehicleCode::ROU]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]  
 ![[Uruguay/Coat_of_arms_of_Uruguay.svg|350]]
 
@@ -507,10 +594,10 @@ Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]
 
 ![[Uruguay/Flag_of_Uruguay.svg|350]]
 
-[Alcohol-l::8.1]
-[Language-Id::492]
-[has_place_longitude::-56.17]
-[has_place_latitude::-34.91]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

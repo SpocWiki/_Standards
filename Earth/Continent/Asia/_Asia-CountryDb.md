@@ -1,8 +1,25 @@
 ---
 aliases:
   - _Asia-CountryDb
-  - ' Asia-CountryDb'
+  - " Asia-CountryDb"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/_Asia-CountryDb|_Asia-CountryDb]]"
+    - "[[/_public/Earth/Continent/Asia/_Asia-CountryDb.public|_Asia-CountryDb.public]]"
+    - "[[/_internal/Earth/Continent/Asia/_Asia-CountryDb.internal|_Asia-CountryDb.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/_Asia-CountryDb.protect|_Asia-CountryDb.protect]]"
+    - "[[/_private/Earth/Continent/Asia/_Asia-CountryDb.private|_Asia-CountryDb.private]]"
+    - "[[/_personal/Earth/Continent/Asia/_Asia-CountryDb.personal|_Asia-CountryDb.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/_Asia-CountryDb.secret|_Asia-CountryDb.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/_Asia-CountryDb|_Asia-CountryDb]]"
+  - "[[/_public/Earth/Continent/Asia/_Asia-CountryDb.public|_Asia-CountryDb.public]]"
+  - "[[/_internal/Earth/Continent/Asia/_Asia-CountryDb.internal|_Asia-CountryDb.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/_Asia-CountryDb.protect|_Asia-CountryDb.protect]]"
+  - "[[/_private/Earth/Continent/Asia/_Asia-CountryDb.private|_Asia-CountryDb.private]]"
+  - "[[/_personal/Earth/Continent/Asia/_Asia-CountryDb.personal|_Asia-CountryDb.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/_Asia-CountryDb.secret|_Asia-CountryDb.secret]]"
 ---
 
 ```yaml:dbfolder

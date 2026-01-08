@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Temple,44539|WD~Temple,44539]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple|Temple]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.public|Temple.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.internal|Temple.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.protect|Temple.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.private|Temple.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.personal|Temple.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.secret|Temple.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Temple,44539|WD~Temple,44539]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple|Temple]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.public|Temple.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.internal|Temple.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.protect|Temple.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.private|Temple.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.personal|Temple.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.secret|Temple.secret]]"
+---
 
 # [[Temple]] 
 

@@ -1,5 +1,93 @@
-﻿---
-location: [ 36.0 , 39.0 ] 
+---
+dv_ISO4217-currency_alphabetic: TRY
+dv_ISO4217-currency_name: Turkish Lira
+dv_ISO4217-currency_numeric: 949
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: TURKEY
+dv_Telephone: 90
+dv_Global: true
+dv_Global_Name: World
+dv_name: Turkey
+dv_name-en:
+  - Turkey
+  - Turkey
+dv_name-es: Turquía
+dv_name-fr: Turquie
+dv_name-cn: 土耳其
+dv_name-ar: تركيا
+dv_name-ru: Турция
+dv_CLDR_display_name: Turkey
+dv_UNTERM_English: Turkey
+dv_UNTERM_English_Formal: the Republic of Turkey
+dv_UNTERM_Spanish_Formal: la República de Turquía
+dv_UNTERM_Spanish: Turquía
+dv_UNTERM_French: Turquie (la)
+dv_UNTERM_Arabic: تركيا
+dv_UNTERM_Arabic_Formal: جمهورية تركيا
+dv_UNTERM_Chinese: 土耳其
+dv_UNTERM_Chinese_Formal: 土耳其共和国
+dv_UNTERM_French_Formal: la République turque
+dv_UNTERM_Russian: Турция
+dv_UNTERM_Russian_Formal: Турецкая Республика
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Turkey]]"
+dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region: 142
+dv_Sub-region: 145
+dv_Geoname-ID: 298795
+dv_FIPS: TU
+dv_FIFA: TUR
+dv_IOC: TUR
+dv_MARC: tu
+dv_GAUL: 249
+dv_WMO: TU
+dv_ITU: TUR
+dv_DS: TR
+dv_TLD: .tr
+dv_EDGAR: W8
+dv_M49: 792
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 792
+dv_ISO2: TR
+dv_ISO3: TUR
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Turkey,43|WD~Turkey,43]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~East/Turkey|Turkey]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~East/Turkey.public|Turkey.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal|Turkey.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~East/Turkey.protect|Turkey.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~East/Turkey.private|Turkey.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal|Turkey.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret|Turkey.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Turkey
+dv_name-de: Türkei
+dv_Area-Total: 779452
+dv_Area-Land: 769630
+dv_has_place_continent: "[[../../Europe]]"
+dv_VehicleCode: TR
+dv_Capital: "[[Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province]]"
+dv_Alcohol-l: 2.9
+dv_Language-Id: 456
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 32.37
+dv_has_place_latitude: 39.3233
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Turkey,43|WD~Turkey,43]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~East/Turkey|Turkey]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~East/Turkey.public|Turkey.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~East/Turkey.internal|Turkey.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~East/Turkey.protect|Turkey.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~East/Turkey.private|Turkey.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~East/Turkey.personal|Turkey.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~East/Turkey.secret|Turkey.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Turkey
+
 aliases:
   - Turkey
   - Turquía
@@ -568,76 +656,78 @@ icon: flag-tr
 
 # [[Turkey]] 
 
-[	ISO4217-currency_alphabetic	 :: TRY ]
-[	ISO4217-currency_name	 :: Turkish Lira ]
-[	ISO4217-currency_numeric	 :: 949 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: TURKEY ]
+## [[Turkey]] has Properties... 
 
-[	Telephone	 :: 90 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Turkey ]
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
 [	name-en	 :: Turkey ]
-[	name-es	 :: Turquía ]
-[	name-fr	 :: Turquie ]
-[	name-cn	 :: 土耳其 ]
-[	name-ar	 :: تركيا ]
-[	name-ru	 :: Турция ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Turkey ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Turkey ]
-[	UNTERM_English_Formal	 :: the Republic of Turkey ]
-[	UNTERM_Spanish_Formal	 :: la República de Turquía ]
-[	UNTERM_Spanish	 :: Turquía ]
-[	UNTERM_French	 :: Turquie (la) ]
-[	UNTERM_Arabic	 :: تركيا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية تركيا ]
-[	UNTERM_Chinese	 :: 土耳其 ]
-[	UNTERM_Chinese_Formal	 :: 土耳其共和国 ]
-[	UNTERM_French_Formal	 :: la République turque ]
-[	UNTERM_Russian	 :: Турция ]
-[	UNTERM_Russian_Formal	 :: Турецкая Республика ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Asia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 145 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 298795 ]
-[	FIPS	 :: TU ]
-[	FIFA	 :: TUR ]
-[	IOC	 :: TUR ]
-[	MARC	 :: tu ]
-[	GAUL	 :: 249 ]
-[	WMO	 :: TU ]
-[	ITU	 :: TUR ]
-[	DS	 :: TR ]
-[	TLD	 :: .tr ]
-[	EDGAR	 :: W8 ]
-[	M49	 :: 792 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 792 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::TR]
-[ISO3::TUR] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Turkey,43|WD~Turkey,43]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Turkey 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Turkey/ReadMe]] 
 
@@ -656,12 +746,12 @@ defaultZoom: 6
 ```
 
 [name-en::Turkey]
-[name-de::Türkei]  
-[Area-Total::779452]
-[Area-Land::769630]
-has_place_continent:: [[Europe]]  
-[VehicleCode::TR]
-Capital :: [[Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province]]  
+name-de = `=this.dv_name-de`  
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Emblem_of_Turkey.svg|350]]
 
@@ -669,12 +759,12 @@ Capital :: [[Turkey/Regions~Turkey/Marmara_Region/Istanbul,Province]]
 
 ![[Flag_of_Turkey.svg|350]]
 
-[Alcohol-l::2.9]
-[Language-Id::456]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::32.37]
-[has_place_latitude::39.3233]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

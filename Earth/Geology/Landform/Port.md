@@ -4,30 +4,30 @@ aliases:
   - Port
 has_id_wikidata: Q44782
 subclass_of:
-  - '[[_Standards/WikiData/WD~thoroughfare,83620]]'
-  - '[[_Standards/WikiData/WD~harbor,283202]]'
-  - '[[_Standards/WikiData/WD~fixed_construction,811430]]'
-  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-  - '[[_Standards/WikiData/WD~hydraulic_structure,2466889]]'
-  - '[[_Standards/WikiData/WD~transport_structure,2516121]]'
-  - '[[_Standards/WikiData/WD~station,12819564]]'
+  - "[[_Standards/WikiData/WD~thoroughfare,83620]]"
+  - "[[_Standards/WikiData/WD~harbor,283202]]"
+  - "[[_Standards/WikiData/WD~fixed_construction,811430]]"
+  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
+  - "[[_Standards/WikiData/WD~hydraulic_structure,2466889]]"
+  - "[[_Standards/WikiData/WD~transport_structure,2516121]]"
+  - "[[_Standards/WikiData/WD~station,12819564]]"
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~harbor,283202]]'
-  - '[[_Standards/WikiData/WD~berth,1153558]]'
-  - '[[_Standards/WikiData/WD~Q1824170,1824170]]'
-  - '[[_Standards/WikiData/WD~Q25464873,25464873]]'
+  - "[[_Standards/WikiData/WD~harbor,283202]]"
+  - "[[_Standards/WikiData/WD~berth,1153558]]"
+  - "[[_Standards/WikiData/WD~Q1824170,1824170]]"
+  - "[[_Standards/WikiData/WD~Q25464873,25464873]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Hafen,1310923]]'
-  - '[[_Standards/WikiData/WD~Port,2057758]]'
-  - '[[_Standards/WikiData/WD~port_city,2264924]]'
-interchange_station: '[[_Standards/WikiData/WD~harbour_railway_station,1567913]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_port,5963628]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_structure,111972893]]'
+  - "[[_Standards/WikiData/WD~Hafen,1310923]]"
+  - "[[_Standards/WikiData/WD~Port,2057758]]"
+  - "[[_Standards/WikiData/WD~port_city,2264924]]"
+interchange_station: "[[_Standards/WikiData/WD~harbour_railway_station,1567913]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_port,5963628]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_structure,111972893]]"
 OmegaWiki_Defined_Meaning: 1717
 Dewey_Decimal_Classification:
   - 387.1
@@ -39,12 +39,33 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Port%20of%20Piraeus.jp
 Commons_category: Ports and harbours
 equivalent_class: http://dbpedia.org/ontology/Port
 GeoNames_feature_code: L.PRT
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Port,44782|WD~Port,44782]]"
+    - "[[/_Standards/Earth/Geology/Landform/Port|Port]]"
+    - "[[/_public/Earth/Geology/Landform/Port.public|Port.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Port.internal|Port.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Port.protect|Port.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Port.private|Port.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Port.personal|Port.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Port.secret|Port.secret]]"
+  different_from: "[[Harbor]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Port,44782|WD~Port,44782]]"
+  - "[[/_Standards/Earth/Geology/Landform/Port|Port]]"
+  - "[[/_public/Earth/Geology/Landform/Port.public|Port.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Port.internal|Port.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Port.protect|Port.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Port.private|Port.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Port.personal|Port.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Port.secret|Port.secret]]"
+dv_is_different_from: "[[Harbor]]"
 ---
 
 # [[Port]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Port,44782|WD~Port,44782]] 
-#is_/different_from ::   [[Harbor]] 
+is_different_from = `=this.dv_is_different_from`
 
 ## #has_/text_of_/abstract 
 

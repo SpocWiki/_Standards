@@ -24,6 +24,25 @@ Commons_category: Offices
 Unicode_character: 🏢
 described_at_URL: https://pixabay.com/es/images/search/oficina/
 Provenio_UUID: b8aec14d-dd22-418a-8f9b-dc9602f977d9
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Office,182060]]"
+    - "[[/_Standards/Earth/Geography/Place/Accommodation/Room/Office|Office]]"
+    - "[[/_public/Earth/Geography/Place/Accommodation/Room/Office.public|Office.public]]"
+    - "[[/_internal/Earth/Geography/Place/Accommodation/Room/Office.internal|Office.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Accommodation/Room/Office.protect|Office.protect]]"
+    - "[[/_private/Earth/Geography/Place/Accommodation/Room/Office.private|Office.private]]"
+    - "[[/_personal/Earth/Geography/Place/Accommodation/Room/Office.personal|Office.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Accommodation/Room/Office.secret|Office.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Office,182060]]"
+  - "[[/_Standards/Earth/Geography/Place/Accommodation/Room/Office|Office]]"
+  - "[[/_public/Earth/Geography/Place/Accommodation/Room/Office.public|Office.public]]"
+  - "[[/_internal/Earth/Geography/Place/Accommodation/Room/Office.internal|Office.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Accommodation/Room/Office.protect|Office.protect]]"
+  - "[[/_private/Earth/Geography/Place/Accommodation/Room/Office.private|Office.private]]"
+  - "[[/_personal/Earth/Geography/Place/Accommodation/Room/Office.personal|Office.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Accommodation/Room/Office.secret|Office.secret]]"
 ---
 
 # [[Office]] 

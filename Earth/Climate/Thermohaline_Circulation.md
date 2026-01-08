@@ -13,6 +13,25 @@ distribution_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Conveyor%20belt-ru.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Conveyor%20belt.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Thermohaline%20Circulation%20using%20Improved%20Flow%20Field.ogv
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Thermohaline_circulation,463223|WD~Thermohaline_circulation,463223]]"
+    - "[[/_Standards/Earth/Climate/Thermohaline_Circulation|Thermohaline_Circulation]]"
+    - "[[/_public/Earth/Climate/Thermohaline_Circulation.public|Thermohaline_Circulation.public]]"
+    - "[[/_internal/Earth/Climate/Thermohaline_Circulation.internal|Thermohaline_Circulation.internal]]"
+    - "[[/_protect/Earth/Climate/Thermohaline_Circulation.protect|Thermohaline_Circulation.protect]]"
+    - "[[/_private/Earth/Climate/Thermohaline_Circulation.private|Thermohaline_Circulation.private]]"
+    - "[[/_personal/Earth/Climate/Thermohaline_Circulation.personal|Thermohaline_Circulation.personal]]"
+    - "[[/_secret/Earth/Climate/Thermohaline_Circulation.secret|Thermohaline_Circulation.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Thermohaline_circulation,463223|WD~Thermohaline_circulation,463223]]"
+  - "[[/_Standards/Earth/Climate/Thermohaline_Circulation|Thermohaline_Circulation]]"
+  - "[[/_public/Earth/Climate/Thermohaline_Circulation.public|Thermohaline_Circulation.public]]"
+  - "[[/_internal/Earth/Climate/Thermohaline_Circulation.internal|Thermohaline_Circulation.internal]]"
+  - "[[/_protect/Earth/Climate/Thermohaline_Circulation.protect|Thermohaline_Circulation.protect]]"
+  - "[[/_private/Earth/Climate/Thermohaline_Circulation.private|Thermohaline_Circulation.private]]"
+  - "[[/_personal/Earth/Climate/Thermohaline_Circulation.personal|Thermohaline_Circulation.personal]]"
+  - "[[/_secret/Earth/Climate/Thermohaline_Circulation.secret|Thermohaline_Circulation.secret]]"
 ---
 
 # [[Thermohaline_Circulation]] 

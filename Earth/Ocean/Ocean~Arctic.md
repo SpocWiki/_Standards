@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Arctic_Ocean,788|WD~Arctic_Ocean,788]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Arctic|Ocean~Arctic]]"
+    - "[[/_public/Earth/Ocean/Ocean~Arctic.public|Ocean~Arctic.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Arctic.internal|Ocean~Arctic.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Arctic.protect|Ocean~Arctic.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Arctic.private|Ocean~Arctic.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Arctic.personal|Ocean~Arctic.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Arctic.secret|Ocean~Arctic.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Arctic_Ocean,788|WD~Arctic_Ocean,788]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Arctic|Ocean~Arctic]]"
+  - "[[/_public/Earth/Ocean/Ocean~Arctic.public|Ocean~Arctic.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Arctic.internal|Ocean~Arctic.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Arctic.protect|Ocean~Arctic.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Arctic.private|Ocean~Arctic.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Arctic.personal|Ocean~Arctic.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Arctic.secret|Ocean~Arctic.secret]]"
+
 location: [ 0.0 , 90.0 ] 
 aliases:
   - Arctic Ocean
@@ -79,7 +99,13 @@ volume_as_quantity: 18750000
 ## #has_/text_of_/abstract 
 
 > The **Arctic Ocean** is the smallest and shallowest of the world's five oceanic divisions. 
-> It spans an area of approximately 14,060,000 km2 (5,430,000 sq mi) and is the coldest of the world's oceans. The International Hydrographic Organization (IHO) recognizes it as an ocean, although some oceanographers call it the Arctic Mediterranean Sea. It has also been described as an estuary of the Atlantic Ocean. It is also seen as the northernmost part of the all-encompassing world ocean.
+> It spans an area of approximately 14,060,000 km2 (5,430,000 sq mi) 
+> and is the coldest of the world's oceans. 
+> 
+> The International Hydrographic Organization (IHO) recognizes it as an ocean, 
+> although some oceanographers call it the Arctic Mediterranean Sea. 
+> It has also been described as an estuary of the Atlantic Ocean. 
+> It is also seen as the northernmost part of the all-encompassing world ocean.
 >
 > The Arctic Ocean includes the North Pole region in the middle of the Northern Hemisphere and extends south to about 60°N. The Arctic Ocean is surrounded by Eurasia and North America, and the borders follow topographic features: the Bering Strait on the Pacific side and the Greenland Scotland Ridge on the Atlantic side. It is mostly covered by sea ice throughout the year and almost completely in winter. The Arctic Ocean's surface temperature and salinity vary seasonally as the ice cover melts and freezes; its salinity is the lowest on average of the five major oceans, due to low evaporation, heavy fresh water inflow from rivers and streams, and limited connection and outflow to surrounding oceanic waters with higher salinities. The summer shrinking of the ice has been quoted at 50%. The US National Snow and Ice Data Center (NSIDC) uses satellite data to provide a daily record of Arctic sea ice cover and the rate of melting compared to an average period and specific past years, showing a continuous decline in sea ice extent. In September 2012, the Arctic ice extent reached a new record minimum. Compared to the average extent (1979–2000), the sea ice had diminished by 49%.
 >

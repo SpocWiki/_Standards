@@ -1,6 +1,26 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Forbidden_City,80290|WD~Forbidden_City,80290]]"
+    - "[[/_Standards/Earth/Geography/Place/Forbidden_City|Forbidden_City]]"
+    - "[[/_public/Earth/Geography/Place/Forbidden_City.public|Forbidden_City.public]]"
+    - "[[/_internal/Earth/Geography/Place/Forbidden_City.internal|Forbidden_City.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Forbidden_City.protect|Forbidden_City.protect]]"
+    - "[[/_private/Earth/Geography/Place/Forbidden_City.private|Forbidden_City.private]]"
+    - "[[/_personal/Earth/Geography/Place/Forbidden_City.personal|Forbidden_City.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Forbidden_City.secret|Forbidden_City.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Forbidden_City,80290|WD~Forbidden_City,80290]]"
+  - "[[/_Standards/Earth/Geography/Place/Forbidden_City|Forbidden_City]]"
+  - "[[/_public/Earth/Geography/Place/Forbidden_City.public|Forbidden_City.public]]"
+  - "[[/_internal/Earth/Geography/Place/Forbidden_City.internal|Forbidden_City.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Forbidden_City.protect|Forbidden_City.protect]]"
+  - "[[/_private/Earth/Geography/Place/Forbidden_City.private|Forbidden_City.private]]"
+  - "[[/_personal/Earth/Geography/Place/Forbidden_City.personal|Forbidden_City.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Forbidden_City.secret|Forbidden_City.secret]]"
+
 has_time_started: 1420-01-01 
-location: [ 116.390833333 , 39.915833333 ] 
+location: [ 39.915833333, 116.390833333 ] 
 aliases:
   - Forbidden City
   - Forbidden_City
@@ -68,7 +88,7 @@ official_website:
 
 # [[Forbidden_City]] 
 
-![[../../../assets/Pasted image 20250817170705.png]] 
+![[../../../assets/Forbidden_City.png]] 
 By Tommy Chen (<a href="//commons.wikimedia.org/wiki/User:Sumple" class="mw-redirect" title="User:Sumple">Sumple</a>) - Drawn by <a href="https://en.wikipedia.org/wiki/User:Sumple" class="extiw" title="en:User:Sumple">Sumple</a>., <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2595509">Link</a> 
 – – – Approximate dividing line between Inner (north) and Outer (south) Courts. 
 A. [Meridian Gate](https://en.wikipedia.org/wiki/Meridian_Gate "Meridian Gate") 
@@ -87,6 +107,21 @@ N. [Hall of Mental Cultivation](https://en.wikipedia.org/wiki/Hall_of_Mental_Cu
 O. [Palace of Tranquil Longevity](https://en.wikipedia.org/wiki/Palace_of_Tranquil_Longevity "Palace of Tranquil Longevity")
 
 #is_/same_as :: [[../../../WikiData/WD~Forbidden_City,80290|WD~Forbidden_City,80290]] 
+
+## #has_/map  
+
+```leaflet
+id: Forbidden_City
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Forbidden_City//
+markerFolder: ./Forbidden_City/
+coordinates: [[Forbidden_City]] 
+markerFile: [[Forbidden_City]] 
+defaultZoom: 14 
+```
+
 
 ## #has_/text_of_/abstract 
 

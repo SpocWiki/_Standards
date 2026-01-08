@@ -1,5 +1,60 @@
-﻿---
-location: [ 121.0 , 24.0 ] 
+---
+dv_Telephone: 886
+dv_name: Taiwan
+dv_name-en:
+  - 
+  - Taiwan
+dv_CLDR_display_name: Taiwan
+dv_Region_Name: "[[]]"
+dv_Intermediate_Region_Name: "[[Taiwan]]"
+dv_Sub-region_Name: '"[[]]" ]'
+dv_Geoname-ID: 1668284
+dv_FIPS: TW
+dv_FIFA: TPE
+dv_IOC: TPE
+dv_MARC: ch
+dv_GAUL: 925
+dv_DS: RC
+dv_TLD: .tw
+dv_is_independent: Yes
+dv_Developed_: {}
+dv_ISO3166-1-numeric: 158
+dv_ISO2: TW
+dv_ISO3: TWN
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan|Taiwan]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Taiwan.public|Taiwan.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Taiwan.protect|Taiwan.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Taiwan.private|Taiwan.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Taiwan
+dv_name-de: Taiwan, Province Of China
+dv_Area-Total: 36000
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: RC
+dv_Capital: "[[Taiwan/Counties/Taipei_City/City/Taipei]]"
+dv_Language-Id: 485
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 121.55
+dv_has_place_latitude: 25.08
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan|Taiwan]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Taiwan.public|Taiwan.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Taiwan.protect|Taiwan.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Taiwan.private|Taiwan.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Taiwan
+
 aliases:
   - Taiwan
   - ""
@@ -466,18 +521,20 @@ icon: flag-tw
 
 # [[Taiwan]] 
 
-[	ISO4217-currency_alphabetic	 ::  ]
-[	ISO4217-currency_name	 ::  ]
+## [[Taiwan]] has Properties...
+
+is_a_ = `=this.dv_is_a_`
+is_a_ = `=this.dv_is_a_`
 [	ISO4217-currency_numeric	 ::  ]
 [	ISO4217-currency_minor_unit	 ::  ]
-[	ISO4217-currency_country_name	 ::  ]
+is_a_ = `=this.dv_is_a_`
 
-[	Telephone	 :: 886 ]
+Telephone = `=this.dv_Telephone`
 
 [	Global	 ::  ]
-[	Global_Name	 ::  ]
+[	Global_name = `=this.dv_name`
 
-[	name	 :: Taiwan ]
+name = `=this.dv_name`
 [	name-en	 ::  ]
 [	name-es	 ::  ]
 [	name-fr	 ::  ]
@@ -485,11 +542,11 @@ icon: flag-tw
 [	name-ar	 ::  ]
 [	name-ru	 ::  ]
 
-[	CLDR_display_name	 :: Taiwan ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
 [	UNTERM_English	 ::  ]
-[	UNTERM_English_Formal	 ::  ]
-[	UNTERM_Spanish_Formal	 ::  ]
+[	UNTERM_Englis_a_ = `=this.dv_is_a_`
+[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ]
 [	UNTERM_French	 ::  ]
 [	UNTERM_Arabic	 ::  ]
@@ -500,42 +557,42 @@ icon: flag-tw
 [	UNTERM_Russian	 ::  ]
 [	UNTERM_Russian_Formal	 ::  ]
 
-Region_Name ::  "[[]]" 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  "[[]]" ] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
 [	Region	 ::  ]
 [	Intermediate_Region	 ::  ]
 [	Sub-region	 ::  ]
 
-[	Geoname-ID	 :: 1668284 ]
-[	FIPS	 :: TW ]
-[	FIFA	 :: TPE ]
-[	IOC	 :: TPE ]
-[	MARC	 :: ch ]
-[	GAUL	 :: 925 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
 [	WMO	 ::  ]
 [	ITU	 ::  ]
-[	DS	 :: RC ]
-[	TLD	 :: .tw ]
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
 [	EDGAR	 ::  ]
 [	M49	 ::  ]
 
-[	is_independent	 :: Yes ]
+is_independent = `=this.dv_is_independent`
 [	Developed_/Developing_Countries	 ::  ]
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 158 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::TW]
-[ISO3::TWN] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]   
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Taiwan 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Taiwan/ReadMe]] 
 
@@ -549,21 +606,24 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Taiwan/
 markerFolder: ./Taiwan/
+coordinates: [[Taiwan]] 
+markerFile: [[Taiwan]] 
+defaultZoom: 5 
 ```
 
 [name-en::Taiwan]
-[name-de::Taiwan, Province Of China]
-[Area-Total::36000]
-[Area-Land::0]
-has_place_continent:: [[Asia]]  
-[VehicleCode::RC]
-Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 [Alcohol-l::]
-[Language-Id::485]
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::121.55]
-[has_place_latitude::25.08]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

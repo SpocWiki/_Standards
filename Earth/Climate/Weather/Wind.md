@@ -40,6 +40,25 @@ topic_s_main_template: "[[_Standards/WikiData/WD~Q25745333,25745333]]"
 UMLS_CUI: C0043187
 Unicode_character: 🌬
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20entsteht%20Wind%3F.webm
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Wind,8094|WD~Wind,8094]]"
+    - "[[/_Standards/Earth/Climate/Weather/Wind|Wind]]"
+    - "[[/_public/Earth/Climate/Weather/Wind.public|Wind.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Wind.internal|Wind.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Wind.protect|Wind.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Wind.private|Wind.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Wind.personal|Wind.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Wind.secret|Wind.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Wind,8094|WD~Wind,8094]]"
+  - "[[/_Standards/Earth/Climate/Weather/Wind|Wind]]"
+  - "[[/_public/Earth/Climate/Weather/Wind.public|Wind.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Wind.internal|Wind.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Wind.protect|Wind.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Wind.private|Wind.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Wind.personal|Wind.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Wind.secret|Wind.secret]]"
 ---
 
 # [[Wind]] 

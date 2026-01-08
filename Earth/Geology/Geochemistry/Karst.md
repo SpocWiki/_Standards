@@ -14,6 +14,25 @@ native_label: Karst
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Karst%20Hydrogeologie%20Schema1.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000175
 OmegaWiki_Defined_Meaning: "1507851"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Karst,16817]]"
+    - "[[/_Standards/Earth/Geology/Geochemistry/Karst|Karst]]"
+    - "[[/_public/Earth/Geology/Geochemistry/Karst.public|Karst.public]]"
+    - "[[/_internal/Earth/Geology/Geochemistry/Karst.internal|Karst.internal]]"
+    - "[[/_protect/Earth/Geology/Geochemistry/Karst.protect|Karst.protect]]"
+    - "[[/_private/Earth/Geology/Geochemistry/Karst.private|Karst.private]]"
+    - "[[/_personal/Earth/Geology/Geochemistry/Karst.personal|Karst.personal]]"
+    - "[[/_secret/Earth/Geology/Geochemistry/Karst.secret|Karst.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Karst,16817]]"
+  - "[[/_Standards/Earth/Geology/Geochemistry/Karst|Karst]]"
+  - "[[/_public/Earth/Geology/Geochemistry/Karst.public|Karst.public]]"
+  - "[[/_internal/Earth/Geology/Geochemistry/Karst.internal|Karst.internal]]"
+  - "[[/_protect/Earth/Geology/Geochemistry/Karst.protect|Karst.protect]]"
+  - "[[/_private/Earth/Geology/Geochemistry/Karst.private|Karst.private]]"
+  - "[[/_personal/Earth/Geology/Geochemistry/Karst.personal|Karst.personal]]"
+  - "[[/_secret/Earth/Geology/Geochemistry/Karst.secret|Karst.secret]]"
 ---
 
 # [[Karst]] 

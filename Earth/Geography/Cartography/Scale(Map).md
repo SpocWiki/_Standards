@@ -18,6 +18,25 @@ different_from: "[[_Standards/WikiData/WD~zoom_level,127513458]]"
 part_of: "[[_Standards/WikiData/WD~cartography,42515]]"
 Commons_category: Scales (ratio)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Diego-homem-black-sea-ancient-map-1559.jpg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Scale,193642]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Scale(Map)|Scale(Map)]]"
+    - "[[/_public/Earth/Geography/Cartography/Scale(Map).public|Scale(Map).public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Scale(Map).internal|Scale(Map).internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Scale(Map).protect|Scale(Map).protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Scale(Map).private|Scale(Map).private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Scale(Map).personal|Scale(Map).personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Scale(Map).secret|Scale(Map).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Scale,193642]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Scale(Map)|Scale(Map)]]"
+  - "[[/_public/Earth/Geography/Cartography/Scale(Map).public|Scale(Map).public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Scale(Map).internal|Scale(Map).internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Scale(Map).protect|Scale(Map).protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Scale(Map).private|Scale(Map).private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Scale(Map).personal|Scale(Map).personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Scale(Map).secret|Scale(Map).secret]]"
 ---
 
 # [[Scale(Map)]] 

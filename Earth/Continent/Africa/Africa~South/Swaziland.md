@@ -266,20 +266,56 @@ urban_population:
   - 290545
   - 295322
 INSEE_countries_and_foreign_territories_code: 99391
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Swaziland
+dv_ISO2: SZ
+dv_ISO3: SWZ
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Eswatini,1050|WD~Eswatini,1050]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~South/Swaziland|Swaziland]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~South/Swaziland.public|Swaziland.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~South/Swaziland.internal|Swaziland.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~South/Swaziland.protect|Swaziland.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~South/Swaziland.private|Swaziland.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~South/Swaziland.personal|Swaziland.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret|Swaziland.secret]]"
+dv_name-en: Swaziland
+dv_name-de: Swasiland
+dv_Area-Total: 17363
+dv_Area-Land: 17200
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: SD
+dv_Alcohol-l: 5.7
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 31.1333
+dv_has_place_latitude: -26.3167
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Swaziland
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Eswatini,1050|WD~Eswatini,1050]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~South/Swaziland|Swaziland]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~South/Swaziland.public|Swaziland.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~South/Swaziland.internal|Swaziland.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~South/Swaziland.protect|Swaziland.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~South/Swaziland.private|Swaziland.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~South/Swaziland.personal|Swaziland.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret|Swaziland.secret]]"
 ---
 
 # [[Swaziland]] 
 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Swaziland 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Swaziland/ReadMe]] 
 
-[ISO2::SZ]
-[ISO3::SWZ]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Eswatini,1050|WD~Eswatini,1050]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -292,22 +328,22 @@ geojsonFolder: ./Swaziland//
 markerFolder: ./Swaziland//
 ```
 
-[name-en::Swaziland]
-[name-de::Swasiland] 
-[Area-Total::17363]
-[Area-Land::17200]
-has_place_continent:: [[Africa]]  
-[VehicleCode::SD]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Mbabane]]  
 ![[Coat_of_arms_of_Swaziland.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Swaziland.mp3]]
 ![[Flag_of_Swaziland.svg|350]]
-[Alcohol-l::5.7]
-[Language-Id::499]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::31.1333]
-[has_place_latitude::-26.3167]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/text_of_/abstract 
 

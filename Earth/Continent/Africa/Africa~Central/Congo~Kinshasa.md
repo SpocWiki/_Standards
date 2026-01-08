@@ -555,18 +555,54 @@ CIVICUS_Monitor_country_entry: democratic-republic-congo
 hashtag: DemocraticRepublicoftheCongo
 IPA_transcription: dən dɛmu'kɾɑːtɪskə rɛpʉ'blɪkən 'kɔŋgu
 Libris_URI: jgvxw1623z0vp37
+dv_ISO2: CD
+dv_ISO3: COD
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa|Congo~Kinshasa]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.public|Congo~Kinshasa.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.internal|Congo~Kinshasa.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.protect|Congo~Kinshasa.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.private|Congo~Kinshasa.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.personal|Congo~Kinshasa.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.secret|Congo~Kinshasa.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Congo-Kinshasa
+dv_name-en: Congo, Dem. Rep.
+dv_name-de: Republik Kongo
+dv_Area-Total: 342000
+dv_Area-Land: 341500
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: CGO
+dv_Alcohol-l: 3.3
+dv_Language-Id: 496
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 15.3
+dv_has_place_latitude: -4.3
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa|Congo~Kinshasa]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.public|Congo~Kinshasa.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.internal|Congo~Kinshasa.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.protect|Congo~Kinshasa.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.private|Congo~Kinshasa.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.personal|Congo~Kinshasa.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.secret|Congo~Kinshasa.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Congo-Kinshasa
 ---
 
 # [[Congo~Kinshasa]] 
 
 
-[ISO2::CD] 
-[ISO3::COD]
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Congo-Kinshasa 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Congo~Kinshasa/ReadMe]] 
 
@@ -582,12 +618,12 @@ geojsonFolder: ./Congo~Kinshasa//
 markerFolder: ./Congo~Kinshasa//
 ```
 
-[name-en::Congo, Dem. Rep.]
-[name-de::Republik Kongo]
-[Area-Total::342000]
-[Area-Land::341500]
-has_place_continent:: [[Africa]]  
-[VehicleCode::CGO]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital ::  [[Congo~Dem_Rep/City/Kinshasa]] ] 
 
 ![[Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg|350]]
@@ -595,12 +631,12 @@ Capital ::  [[Congo~Dem_Rep/City/Kinshasa]] ]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Congo.mp3]]
 
 ![[Flag_of_the_Democratic_Republic_of_the_Congo.svg|350]]
-[Alcohol-l::3.3]
-[Language-Id::496]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::15.3]
-[has_place_latitude::-4.3]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Economy 

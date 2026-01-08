@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African|Antarctic~African]]"
+    - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African.public|Antarctic~African.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~African.internal|Antarctic~African.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~African.protect|Antarctic~African.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~African.private|Antarctic~African.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~African.personal|Antarctic~African.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African.secret|Antarctic~African.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African|Antarctic~African]]"
+  - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African.public|Antarctic~African.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~African.internal|Antarctic~African.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~African.protect|Antarctic~African.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~African.private|Antarctic~African.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~African.personal|Antarctic~African.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African.secret|Antarctic~African.secret]]"
+---
 # [[Antarctic~African]] 
 
 ## Edit

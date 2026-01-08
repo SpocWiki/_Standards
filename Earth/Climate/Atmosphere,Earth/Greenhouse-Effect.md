@@ -2,6 +2,23 @@
 aliases:
   - Treibhaus-Effekt
   - Greenhouse-Effect
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect|Greenhouse-Effect]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.public|Greenhouse-Effect.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.internal|Greenhouse-Effect.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.protect|Greenhouse-Effect.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.private|Greenhouse-Effect.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.personal|Greenhouse-Effect.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.secret|Greenhouse-Effect.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect|Greenhouse-Effect]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.public|Greenhouse-Effect.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.internal|Greenhouse-Effect.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.protect|Greenhouse-Effect.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.private|Greenhouse-Effect.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.personal|Greenhouse-Effect.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.secret|Greenhouse-Effect.secret]]"
 ---
 
 # [[Greenhouse-Effect]] 

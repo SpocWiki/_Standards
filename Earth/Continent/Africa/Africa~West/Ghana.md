@@ -364,83 +364,170 @@ U_S_National_Archives_Identifier: 10035708
 VAT_rate: 15
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Ghana,7112272]]"
 WIPO_ST_3: GH
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Ghana
+dv_ISO4217-currency_alphabetic: GHS
+dv_ISO4217-currency_name: Ghana Cedi
+dv_ISO4217-currency_numeric: 936
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: GHANA
+dv_Telephone: 233
+dv_Global: true
+dv_Global_Name: World
+dv_name: Ghana
+dv_name-en:
+  - Ghana
+  - Ghana
+dv_name-es: Ghana
+dv_name-fr: Ghana
+dv_name-cn: 加纳
+dv_name-ar: غانا
+dv_name-ru: Гана
+dv_CLDR_display_name: Ghana
+dv_UNTERM_English: Ghana
+dv_UNTERM_English_Formal: the Republic of Ghana
+dv_UNTERM_Spanish_Formal: la República de Ghana
+dv_UNTERM_Spanish: Ghana
+dv_UNTERM_French: Ghana (le)
+dv_UNTERM_Arabic: غانا
+dv_UNTERM_Arabic_Formal: جمهورية غانا
+dv_UNTERM_Chinese: 加纳
+dv_UNTERM_Chinese_Formal: 加纳共和国
+dv_UNTERM_French_Formal: la République du Ghana
+dv_UNTERM_Russian: Гана
+dv_UNTERM_Russian_Formal: Республика Гана
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 2300660
+dv_FIPS: GH
+dv_FIFA: GHA
+dv_IOC: GHA
+dv_MARC: gh
+dv_GAUL: 94
+dv_WMO: GH
+dv_ITU: GHA
+dv_DS: GH
+dv_TLD: .gh
+dv_EDGAR: J0
+dv_M49: 288
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 288
+dv_ISO2: GH
+dv_ISO3: GHA
+dv_name-de: Ghana
+dv_Area-Total: 238537
+dv_Area-Land: 227540
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: GH
+dv_Alcohol-l: 3
+dv_Language-Id: 499
+dv_has_place_longitude: -0.25
+dv_has_place_latitude: 5.55
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Ghana,117]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Ghana|Ghana]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Ghana.public|Ghana.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Ghana.internal|Ghana.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Ghana.protect|Ghana.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Ghana.private|Ghana.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Ghana.personal|Ghana.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Ghana.secret|Ghana.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Ghana
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Ghana,117]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Ghana|Ghana]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Ghana.public|Ghana.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Ghana.internal|Ghana.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Ghana.protect|Ghana.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Ghana.private|Ghana.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Ghana.personal|Ghana.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Ghana.secret|Ghana.secret]]"
 ---
 
 # [[Ghana]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Ghana 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Ghana/ReadMe]] 
 
 
-[	ISO4217-currency_alphabetic	 :: GHS ]
-[	ISO4217-currency_name	 :: Ghana Cedi ]
-[	ISO4217-currency_numeric	 :: 936 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: GHANA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 233 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Ghana ]
+name = `=this.dv_name`
 [	name-en	 :: Ghana ]
-[	name-es	 :: Ghana ]
-[	name-fr	 :: Ghana ]
-[	name-cn	 :: 加纳 ]
-[	name-ar	 :: غانا ]
-[	name-ru	 :: Гана ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Ghana ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Ghana ]
-[	UNTERM_English_Formal	 :: the Republic of Ghana ]
-[	UNTERM_Spanish_Formal	 :: la República de Ghana ]
-[	UNTERM_Spanish	 :: Ghana ]
-[	UNTERM_French	 :: Ghana (le) ]
-[	UNTERM_Arabic	 :: غانا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية غانا ]
-[	UNTERM_Chinese	 :: 加纳 ]
-[	UNTERM_Chinese_Formal	 :: 加纳共和国 ]
-[	UNTERM_French_Formal	 :: la République du Ghana ]
-[	UNTERM_Russian	 :: Гана ]
-[	UNTERM_Russian_Formal	 :: Республика Гана ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2300660 ]
-[	FIPS	 :: GH ]
-[	FIFA	 :: GHA ]
-[	IOC	 :: GHA ]
-[	MARC	 :: gh ]
-[	GAUL	 :: 94 ]
-[	WMO	 :: GH ]
-[	ITU	 :: GHA ]
-[	DS	 :: GH ]
-[	TLD	 :: .gh ]
-[	EDGAR	 :: J0 ]
-[	M49	 :: 288 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 288 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
 
-[ISO2::GH]
-[ISO3::GHA]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 ```leaflet
 id: Ghana
 zoomFeatures: true 
@@ -451,11 +538,11 @@ markerFolder: ./Ghana//
 ```
 
 [name-en::Ghana]
-[name-de::Ghana]
-[Area-Total::238537]
-[Area-Land::227540]
-has_place_continent:: [[Africa]]  
-[VehicleCode::GH]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Accra]]  
 
 ![[Coat_of_arms_of_Ghana.svg|350]]
@@ -466,10 +553,10 @@ Capital :: [[Accra]]
 
 ![[Seal_of_Ghana.svg|350]]
 
-[Alcohol-l::3]
-[Language-Id::499]
-[has_place_longitude::-0.25]
-[has_place_latitude::5.55]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 #is_/same_as :: [[../../../../WikiData/WD~Ghana,117]] 
 

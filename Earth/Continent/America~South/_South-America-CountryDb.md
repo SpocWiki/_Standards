@@ -1,8 +1,25 @@
 ---
 aliases:
   - _South-America-CountryDb
-  - ' South-America-CountryDb'
+  - " South-America-CountryDb"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~South/_South-America-CountryDb|_South-America-CountryDb]]"
+    - "[[/_public/Earth/Continent/America~South/_South-America-CountryDb.public|_South-America-CountryDb.public]]"
+    - "[[/_internal/Earth/Continent/America~South/_South-America-CountryDb.internal|_South-America-CountryDb.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/_South-America-CountryDb.protect|_South-America-CountryDb.protect]]"
+    - "[[/_private/Earth/Continent/America~South/_South-America-CountryDb.private|_South-America-CountryDb.private]]"
+    - "[[/_personal/Earth/Continent/America~South/_South-America-CountryDb.personal|_South-America-CountryDb.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/_South-America-CountryDb.secret|_South-America-CountryDb.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~South/_South-America-CountryDb|_South-America-CountryDb]]"
+  - "[[/_public/Earth/Continent/America~South/_South-America-CountryDb.public|_South-America-CountryDb.public]]"
+  - "[[/_internal/Earth/Continent/America~South/_South-America-CountryDb.internal|_South-America-CountryDb.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/_South-America-CountryDb.protect|_South-America-CountryDb.protect]]"
+  - "[[/_private/Earth/Continent/America~South/_South-America-CountryDb.private|_South-America-CountryDb.private]]"
+  - "[[/_personal/Earth/Continent/America~South/_South-America-CountryDb.personal|_South-America-CountryDb.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/_South-America-CountryDb.secret|_South-America-CountryDb.secret]]"
 ---
 
 ```yaml:dbfolder

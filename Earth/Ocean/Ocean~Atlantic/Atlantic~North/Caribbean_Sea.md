@@ -162,6 +162,25 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Mar%20C
 OmegaWiki_Defined_Meaning: "684896"
 Commons_gallery: Caribbean Sea
 Commons_category: Caribbean Sea
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Caribbean_Sea,1247|WD~Caribbean_Sea,1247]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea|Caribbean_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.public|Caribbean_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.internal|Caribbean_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.protect|Caribbean_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.private|Caribbean_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.personal|Caribbean_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.secret|Caribbean_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Caribbean_Sea,1247|WD~Caribbean_Sea,1247]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea|Caribbean_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.public|Caribbean_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.internal|Caribbean_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.protect|Caribbean_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.private|Caribbean_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.personal|Caribbean_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Caribbean_Sea.secret|Caribbean_Sea.secret]]"
 ---
 
 # [[Caribbean_Sea]] 

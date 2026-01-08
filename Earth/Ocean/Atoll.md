@@ -3,26 +3,26 @@ aliases:
   - Atoll
 has_id_wikidata: Q42523
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_atoll,11037730]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_atoll,11037730]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~coral_reef_lagoon,11588123]]'
-  - '[[_Standards/WikiData/WD~coral_reef,11292]]'
+  - "[[_Standards/WikiData/WD~coral_reef_lagoon,11588123]]"
+  - "[[_Standards/WikiData/WD~coral_reef,11292]]"
 OpenStreetMap_tag_or_key:
   - Tag:natural=atoll
   - Tag:biotic_reef:type=atoll
 time_of_discovery_or_invention: 1842-01-01T00:00:00Z
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Darwin,1035]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~volcano,8072]]'
-subclass_of: '[[_Standards/WikiData/WD~island,23442]]'
-shape: '[[_Standards/WikiData/WD~annulus,45926]]'
-studied_by: '[[_Standards/WikiData/WD~geomorphology,52109]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles_Darwin,1035]]"
+has_immediate_cause: "[[_Standards/WikiData/WD~volcano,8072]]"
+subclass_of: "[[_Standards/WikiData/WD~island,23442]]"
+shape: "[[_Standards/WikiData/WD~annulus,45926]]"
+studied_by: "[[_Standards/WikiData/WD~geomorphology,52109]]"
 OmegaWiki_Defined_Meaning: 542819
 Commons_gallery: Atoll
 aerial_view:
@@ -35,6 +35,25 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Coral%20atoll%20format
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000166
 Krugosvet_article: Earth_sciences/geografiya/ATOLL.html
 GeoNames_feature_code: T.ATOL
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Atoll,42523|WD~Atoll,42523]]"
+    - "[[/_Standards/Earth/Ocean/Atoll|Atoll]]"
+    - "[[/_public/Earth/Ocean/Atoll.public|Atoll.public]]"
+    - "[[/_internal/Earth/Ocean/Atoll.internal|Atoll.internal]]"
+    - "[[/_protect/Earth/Ocean/Atoll.protect|Atoll.protect]]"
+    - "[[/_private/Earth/Ocean/Atoll.private|Atoll.private]]"
+    - "[[/_personal/Earth/Ocean/Atoll.personal|Atoll.personal]]"
+    - "[[/_secret/Earth/Ocean/Atoll.secret|Atoll.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Atoll,42523|WD~Atoll,42523]]"
+  - "[[/_Standards/Earth/Ocean/Atoll|Atoll]]"
+  - "[[/_public/Earth/Ocean/Atoll.public|Atoll.public]]"
+  - "[[/_internal/Earth/Ocean/Atoll.internal|Atoll.internal]]"
+  - "[[/_protect/Earth/Ocean/Atoll.protect|Atoll.protect]]"
+  - "[[/_private/Earth/Ocean/Atoll.private|Atoll.private]]"
+  - "[[/_personal/Earth/Ocean/Atoll.personal|Atoll.personal]]"
+  - "[[/_secret/Earth/Ocean/Atoll.secret|Atoll.secret]]"
 ---
 
 # [[Atoll]] 

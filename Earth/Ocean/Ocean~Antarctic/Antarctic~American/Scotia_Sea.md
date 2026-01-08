@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q204703
-location: [ -57.5, -40.0] 
+location:
+  - -57.5
+  - -40
 coordinate_location: Point(-40.0 -57.5)
 part_of:
   - "[[_Standards/WikiData/WD~South_Atlantic_Ocean,1482804]]"
@@ -13,6 +15,25 @@ basin_country: "[[_Standards/WikiData/WD~South_Georgia_and_the_South_Sandwich_Is
 vertical_depth: 5840
 Commons_category: Scotia Sea
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scotia%20Sea%201996.jpg
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Scotia_Sea,204703]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea|Scotia_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.public|Scotia_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.internal|Scotia_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.protect|Scotia_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.private|Scotia_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.personal|Scotia_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.secret|Scotia_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Scotia_Sea,204703]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea|Scotia_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.public|Scotia_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.internal|Scotia_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.protect|Scotia_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.private|Scotia_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.personal|Scotia_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Scotia_Sea.secret|Scotia_Sea.secret]]"
 ---
 
 # [[Scotia_Sea]] 

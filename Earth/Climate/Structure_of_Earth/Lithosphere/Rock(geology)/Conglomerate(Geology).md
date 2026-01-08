@@ -5,18 +5,37 @@ aliases:
   - Conglomerate(Geology)
 has_id_wikidata: Q191704
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~clastic_rock,612133]]'
-  - '[[_Standards/WikiData/WD~psephite,947280]]'
-different_from: '[[_Standards/WikiData/WD~conglomerate,778575]]'
+  - "[[_Standards/WikiData/WD~clastic_rock,612133]]"
+  - "[[_Standards/WikiData/WD~psephite,947280]]"
+different_from: "[[_Standards/WikiData/WD~conglomerate,778575]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lehigh%20conglom.jpg
 Commons_category: Conglomerate
 Krugosvet_article: Earth_sciences/geologiya/KONGLOMERAT.html
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Conglomerate,191704|WD~Conglomerate,191704]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology)|Conglomerate(Geology)]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).public|Conglomerate(Geology).public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).internal|Conglomerate(Geology).internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).protect|Conglomerate(Geology).protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).private|Conglomerate(Geology).private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).personal|Conglomerate(Geology).personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).secret|Conglomerate(Geology).secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Conglomerate,191704|WD~Conglomerate,191704]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology)|Conglomerate(Geology)]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).public|Conglomerate(Geology).public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).internal|Conglomerate(Geology).internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).protect|Conglomerate(Geology).protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).private|Conglomerate(Geology).private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).personal|Conglomerate(Geology).personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Conglomerate(Geology).secret|Conglomerate(Geology).secret]]"
 ---
 
 #is_/same_as :: [[../../../../../WikiData/WD~Conglomerate,191704|WD~Conglomerate,191704]] 

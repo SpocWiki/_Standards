@@ -1,8 +1,8 @@
 ---
 aliases:
-  - ''
+  - ""
   - _CityTemplate
-  - ' CityTemplate'
+  - " CityTemplate"
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -15,19 +15,44 @@ publish: true
 tags:
   - geo/City
 type: City
+dv_has_place_longitude: "{{x}}"
+dv_has_place_latitude: "{{y}}"
+dv_name: "{{City}}"
+dv_has_place_province: "{{State}}]"
+dv_CountryId: "{{CountryId}}"
+dv_StateId: "{{StateId}}"
+dv_Population: "{{Population}}"
+dv_Unknown: "{{_0}}"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/_CityTemplate|_CityTemplate]]"
+    - "[[/_public/Earth/Continent/_CityTemplate.public|_CityTemplate.public]]"
+    - "[[/_internal/Earth/Continent/_CityTemplate.internal|_CityTemplate.internal]]"
+    - "[[/_protect/Earth/Continent/_CityTemplate.protect|_CityTemplate.protect]]"
+    - "[[/_private/Earth/Continent/_CityTemplate.private|_CityTemplate.private]]"
+    - "[[/_personal/Earth/Continent/_CityTemplate.personal|_CityTemplate.personal]]"
+    - "[[/_secret/Earth/Continent/_CityTemplate.secret|_CityTemplate.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/_CityTemplate|_CityTemplate]]"
+  - "[[/_public/Earth/Continent/_CityTemplate.public|_CityTemplate.public]]"
+  - "[[/_internal/Earth/Continent/_CityTemplate.internal|_CityTemplate.internal]]"
+  - "[[/_protect/Earth/Continent/_CityTemplate.protect|_CityTemplate.protect]]"
+  - "[[/_private/Earth/Continent/_CityTemplate.private|_CityTemplate.private]]"
+  - "[[/_personal/Earth/Continent/_CityTemplate.personal|_CityTemplate.personal]]"
+  - "[[/_secret/Earth/Continent/_CityTemplate.secret|_CityTemplate.secret]]"
 ---
 
 location: [{{y}},{{x}}]
 SpocWebEntityId: {{SpocWebEntityId}}
 
-[has_place_longitude::{{x}}]
-[has_place_latitude::{{y}}]
-[name::{{City}}]
-has_place_province:: {{State}}] 
-[CountryId::{{CountryId}}]
-[StateId::{{StateId}}]
-[Population::{{Population}}]
-[Unknown::{{_0}}]
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+name = `=this.dv_name`
+has_place_province = `=this.dv_has_place_province`
+CountryId = `=this.dv_CountryId`
+StateId = `=this.dv_StateId`
+Population = `=this.dv_Population`
+Unknown = `=this.dv_Unknown`
 
 
 ```leaflet

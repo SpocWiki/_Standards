@@ -5,30 +5,30 @@ aliases:
   - hydrogeology
   - Hydrology
 has_id_wikidata: Q42250
-different_from: '[[_Standards/WikiData/WD~hydrography,182468]]'
+different_from: "[[_Standards/WikiData/WD~hydrography,182468]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrography,182468]]'
-  - '[[_Standards/WikiData/WD~hydrometry,1366172]]'
-  - '[[_Standards/WikiData/WD~surface_water_hydrology,2627395]]'
-  - '[[_Standards/WikiData/WD~hydrological_prognosis,17455059]]'
-  - '[[_Standards/WikiData/WD~hydrologic_engineering,72358999]]'
+  - "[[_Standards/WikiData/WD~hydrography,182468]]"
+  - "[[_Standards/WikiData/WD~hydrometry,1366172]]"
+  - "[[_Standards/WikiData/WD~surface_water_hydrology,2627395]]"
+  - "[[_Standards/WikiData/WD~hydrological_prognosis,17455059]]"
+  - "[[_Standards/WikiData/WD~hydrologic_engineering,72358999]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-is_the_study_of: '[[_Standards/WikiData/WD~water_balance,1148989]]'
-practiced_by: '[[_Standards/WikiData/WD~hydrologist,3644587]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_hydrology,7112662]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hydrology,18857154]]'
-subclass_of: '[[_Standards/WikiData/WD~science,336]]'
+  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+is_the_study_of: "[[_Standards/WikiData/WD~water_balance,1148989]]"
+practiced_by: "[[_Standards/WikiData/WD~hydrologist,3644587]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_hydrology,7112662]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Hydrology,18857154]]"
+subclass_of: "[[_Standards/WikiData/WD~science,336]]"
 part_of:
-  - '[[_Standards/WikiData/WD~geology,1069]]'
-  - '[[_Standards/WikiData/WD~ecology,7150]]'
-  - '[[_Standards/WikiData/WD~meteorology,25261]]'
+  - "[[_Standards/WikiData/WD~geology,1069]]"
+  - "[[_Standards/WikiData/WD~ecology,7150]]"
+  - "[[_Standards/WikiData/WD~meteorology,25261]]"
 Dewey_Decimal_Classification: 551
 OmegaWiki_Defined_Meaning: 4112
 GitHub_topic: hydrology
@@ -49,11 +49,33 @@ subreddit: Hydrology
 hashtag_: Hydrology
 Commons_category: Hydrology
 Gujarati_Vishwakosh_entry: જળવિદ્યા-અને-જળસ્રોતો
+dv_has_:
+  study_subject: "[[../Climate/Hydrosphere]]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Hydrology,42250|WD~Hydrology,42250]]"
+    - "[[/_Standards/Earth/Geology/Hydrology|Hydrology]]"
+    - "[[/_public/Earth/Geology/Hydrology.public|Hydrology.public]]"
+    - "[[/_internal/Earth/Geology/Hydrology.internal|Hydrology.internal]]"
+    - "[[/_protect/Earth/Geology/Hydrology.protect|Hydrology.protect]]"
+    - "[[/_private/Earth/Geology/Hydrology.private|Hydrology.private]]"
+    - "[[/_personal/Earth/Geology/Hydrology.personal|Hydrology.personal]]"
+    - "[[/_secret/Earth/Geology/Hydrology.secret|Hydrology.secret]]"
+dv_has_study_subject: "[[../Climate/Hydrosphere]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Hydrology,42250|WD~Hydrology,42250]]"
+  - "[[/_Standards/Earth/Geology/Hydrology|Hydrology]]"
+  - "[[/_public/Earth/Geology/Hydrology.public|Hydrology.public]]"
+  - "[[/_internal/Earth/Geology/Hydrology.internal|Hydrology.internal]]"
+  - "[[/_protect/Earth/Geology/Hydrology.protect|Hydrology.protect]]"
+  - "[[/_private/Earth/Geology/Hydrology.private|Hydrology.private]]"
+  - "[[/_personal/Earth/Geology/Hydrology.personal|Hydrology.personal]]"
+  - "[[/_secret/Earth/Geology/Hydrology.secret|Hydrology.secret]]"
 ---
 
 # [[Hydrology]] 
 
-#has_/study_subject :: [[../Climate/Hydrosphere]]  
+has_study_subject = `=this.dv_has_study_subject`
 #is_/same_as :: [[../../WikiData/WD~Hydrology,42250|WD~Hydrology,42250]] 
 
 ## #has_/text_of_/abstract 

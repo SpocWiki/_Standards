@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle|Arctic_Circle]]"
+    - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.public|Arctic_Circle.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.internal|Arctic_Circle.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.protect|Arctic_Circle.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.private|Arctic_Circle.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.personal|Arctic_Circle.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.secret|Arctic_Circle.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Arctic_Circle,176609|WD~Arctic_Circle,176609]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle|Arctic_Circle]]"
+  - "[[/_public/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.public|Arctic_Circle.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.internal|Arctic_Circle.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.protect|Arctic_Circle.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.private|Arctic_Circle.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.personal|Arctic_Circle.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Arctic_Circle.secret|Arctic_Circle.secret]]"
+
 location: [ 0.0 , 66.561611111 ] 
 aliases:
   - Arctic_Circle

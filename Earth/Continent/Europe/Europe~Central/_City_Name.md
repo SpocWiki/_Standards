@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/_City_Name|_City_Name]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/_City_Name.public|_City_Name.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/_City_Name.internal|_City_Name.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/_City_Name.protect|_City_Name.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/_City_Name.private|_City_Name.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/_City_Name.personal|_City_Name.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/_City_Name.secret|_City_Name.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/_City_Name|_City_Name]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/_City_Name.public|_City_Name.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/_City_Name.internal|_City_Name.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/_City_Name.protect|_City_Name.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/_City_Name.private|_City_Name.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/_City_Name.personal|_City_Name.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/_City_Name.secret|_City_Name.secret]]"
+---
 _Cities/{{City}}.md
 
 

@@ -95,6 +95,25 @@ ISNI: "0000000108028866"
 Libris_URI: 20dghzzl247b33z
 Krugosvet_article_archived_: istoriya/SIGIZMUND_I.html
 date_of_birth: 1368-02-22T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Sigismund,57124]]"
+    - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor|Sigismund,Holy_Roman_Emperor]]"
+    - "[[/_public/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.public|Sigismund,Holy_Roman_Emperor.public]]"
+    - "[[/_internal/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.internal|Sigismund,Holy_Roman_Emperor.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.protect|Sigismund,Holy_Roman_Emperor.protect]]"
+    - "[[/_private/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.private|Sigismund,Holy_Roman_Emperor.private]]"
+    - "[[/_personal/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.personal|Sigismund,Holy_Roman_Emperor.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.secret|Sigismund,Holy_Roman_Emperor.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sigismund,57124]]"
+  - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor|Sigismund,Holy_Roman_Emperor]]"
+  - "[[/_public/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.public|Sigismund,Holy_Roman_Emperor.public]]"
+  - "[[/_internal/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.internal|Sigismund,Holy_Roman_Emperor.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.protect|Sigismund,Holy_Roman_Emperor.protect]]"
+  - "[[/_private/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.private|Sigismund,Holy_Roman_Emperor.private]]"
+  - "[[/_personal/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.personal|Sigismund,Holy_Roman_Emperor.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/History_of_Europe/Sigismund,Holy_Roman_Emperor.secret|Sigismund,Holy_Roman_Emperor.secret]]"
 ---
 
 # [[Sigismund,Holy_Roman_Emperor]] 

@@ -398,80 +398,169 @@ expiryDate: ""
 Languages:
   - fr-ML
   - bm
+dv_ISO4217-currency_alphabetic: XOF
+dv_ISO4217-currency_name: CFA Franc BCEAO
+dv_ISO4217-currency_numeric: 952
+dv_ISO4217-currency_minor_unit: 0
+dv_ISO4217-currency_country_name: MALI
+dv_Telephone: 223
+dv_Global: true
+dv_Global_Name: World
+dv_name: Mali
+dv_name-en:
+  - Mali
+  - Mali
+dv_name-es: Malí
+dv_name-fr: Mali
+dv_name-cn: 马里
+dv_name-ar: مالي
+dv_name-ru: Мали
+dv_CLDR_display_name: Mali
+dv_UNTERM_English: Mali
+dv_UNTERM_English_Formal: the Republic of Mali
+dv_UNTERM_Spanish_Formal: la República de Malí
+dv_UNTERM_Spanish: Malí
+dv_UNTERM_French: Mali (le)
+dv_UNTERM_Arabic: مالي
+dv_UNTERM_Arabic_Formal: جمهورية مالي
+dv_UNTERM_Chinese: 马里
+dv_UNTERM_Chinese_Formal: 马里共和国
+dv_UNTERM_French_Formal: la République du Mali
+dv_UNTERM_Russian: Мали
+dv_UNTERM_Russian_Formal: Республика Мали
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Western Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 11
+dv_Sub-region: 202
+dv_Geoname-ID: 2453866
+dv_FIPS: ML
+dv_FIFA: MLI
+dv_IOC: MLI
+dv_MARC: ml
+dv_GAUL: 155
+dv_WMO: MI
+dv_ITU: MLI
+dv_DS: RMM
+dv_TLD: .ml
+dv_EDGAR: O0
+dv_M49: 466
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 466
+dv_ISO2: ML
+dv_ISO3: MLI
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Mali,912|WD~Mali,912]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Mali|Mali]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~West/Mali.public|Mali.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~West/Mali.internal|Mali.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~West/Mali.protect|Mali.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~West/Mali.private|Mali.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~West/Mali.personal|Mali.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~West/Mali.secret|Mali.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Mali
+dv_name-de: Mali
+dv_Area-Total: 1240192
+dv_Area-Land: 1220190
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: RMM
+dv_Alcohol-l: 1
+dv_Language-Id: 496
+dv_has_place_longitude: -8
+dv_has_place_latitude: 12.65
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Mali,912|WD~Mali,912]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Mali|Mali]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~West/Mali.public|Mali.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~West/Mali.internal|Mali.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~West/Mali.protect|Mali.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~West/Mali.private|Mali.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~West/Mali.personal|Mali.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~West/Mali.secret|Mali.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Mali
 ---
 
 # [[Mali]] 
 
-[	ISO4217-currency_alphabetic	 :: XOF ]
-[	ISO4217-currency_name	 :: CFA Franc BCEAO ]
-[	ISO4217-currency_numeric	 :: 952 ]
-[	ISO4217-currency_minor_unit	 :: 0 ]
-[	ISO4217-currency_country_name	 :: MALI ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 223 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Mali ]
+name = `=this.dv_name`
 [	name-en	 :: Mali ]
-[	name-es	 :: Malí ]
-[	name-fr	 :: Mali ]
-[	name-cn	 :: 马里 ]
-[	name-ar	 :: مالي ]
-[	name-ru	 :: Мали ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Mali ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Mali ]
-[	UNTERM_English_Formal	 :: the Republic of Mali ]
-[	UNTERM_Spanish_Formal	 :: la República de Malí ]
-[	UNTERM_Spanish	 :: Malí ]
-[	UNTERM_French	 :: Mali (le) ]
-[	UNTERM_Arabic	 :: مالي ]
-[	UNTERM_Arabic_Formal	 :: جمهورية مالي ]
-[	UNTERM_Chinese	 :: 马里 ]
-[	UNTERM_Chinese_Formal	 :: 马里共和国 ]
-[	UNTERM_French_Formal	 :: la République du Mali ]
-[	UNTERM_Russian	 :: Мали ]
-[	UNTERM_Russian_Formal	 :: Республика Мали ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Western Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 11 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2453866 ]
-[	FIPS	 :: ML ]
-[	FIFA	 :: MLI ]
-[	IOC	 :: MLI ]
-[	MARC	 :: ml ]
-[	GAUL	 :: 155 ]
-[	WMO	 :: MI ]
-[	ITU	 :: MLI ]
-[	DS	 :: RMM ]
-[	TLD	 :: .ml ]
-[	EDGAR	 :: O0 ]
-[	M49	 :: 466 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
-[	Least_Developed_Countries	 :: x ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 466 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::ML]
-[ISO3::MLI]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
 #is_/same_as :: [[../../../../WikiData/WD~Mali,912|WD~Mali,912]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Mali 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Mali/ReadMe]] 
 
@@ -487,11 +576,11 @@ markerFolder: ./Mali//
 ```
 
 [name-en::Mali]
-[name-de::Mali]
-[Area-Total::1240192]
-[Area-Land::1220190]
-has_place_continent:: [[Africa]]  
-[VehicleCode::RMM]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Mali/Regions~Mali/Bamako,Region]]  
 
 ![[Coat_of_arms_of_Mali.svg|350]]
@@ -500,10 +589,10 @@ Capital :: [[Mali/Regions~Mali/Bamako,Region]]
 
 ![[Flag_of_Mali.svg|350]]
 
-[Alcohol-l::1]
-[Language-Id::496]
-[has_place_longitude::-8]
-[has_place_latitude::12.65]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

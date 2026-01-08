@@ -1,6 +1,25 @@
 ---
 aliases:
 has_id_wikidata: Q493109
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cryosphere,493109|WD~Cryosphere,493109]]"
+    - "[[/_Standards/Earth/Climate/Cryosphere|Cryosphere]]"
+    - "[[/_public/Earth/Climate/Cryosphere.public|Cryosphere.public]]"
+    - "[[/_internal/Earth/Climate/Cryosphere.internal|Cryosphere.internal]]"
+    - "[[/_protect/Earth/Climate/Cryosphere.protect|Cryosphere.protect]]"
+    - "[[/_private/Earth/Climate/Cryosphere.private|Cryosphere.private]]"
+    - "[[/_personal/Earth/Climate/Cryosphere.personal|Cryosphere.personal]]"
+    - "[[/_secret/Earth/Climate/Cryosphere.secret|Cryosphere.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cryosphere,493109|WD~Cryosphere,493109]]"
+  - "[[/_Standards/Earth/Climate/Cryosphere|Cryosphere]]"
+  - "[[/_public/Earth/Climate/Cryosphere.public|Cryosphere.public]]"
+  - "[[/_internal/Earth/Climate/Cryosphere.internal|Cryosphere.internal]]"
+  - "[[/_protect/Earth/Climate/Cryosphere.protect|Cryosphere.protect]]"
+  - "[[/_private/Earth/Climate/Cryosphere.private|Cryosphere.private]]"
+  - "[[/_personal/Earth/Climate/Cryosphere.personal|Cryosphere.personal]]"
+  - "[[/_secret/Earth/Climate/Cryosphere.secret|Cryosphere.secret]]"
 ---
 
 # [[Cryosphere]] 

@@ -1,5 +1,92 @@
-﻿---
-location: [ 17.0 , 27.0 ] 
+---
+dv_ISO4217-currency_alphabetic: LYD
+dv_ISO4217-currency_name: Libyan Dinar
+dv_ISO4217-currency_numeric: 434
+dv_ISO4217-currency_minor_unit: 3
+dv_ISO4217-currency_country_name: LIBYA
+dv_Telephone: 218
+dv_Global: true
+dv_Global_Name: World
+dv_name: Libya
+dv_name-en:
+  - Libya
+  - Libya
+dv_name-es: Libia
+dv_name-fr: Libye
+dv_name-cn: 利比亚
+dv_name-ar: ليبيا
+dv_name-ru: Ливия
+dv_CLDR_display_name: Libya
+dv_UNTERM_English: Libya
+dv_UNTERM_English_Formal: Libya
+dv_UNTERM_Spanish_Formal: Libia
+dv_UNTERM_Spanish: Libia
+dv_UNTERM_French: Libye (la)
+dv_UNTERM_Arabic: ليبيا
+dv_UNTERM_Arabic_Formal: ليبيا
+dv_UNTERM_Chinese: 利比亚
+dv_UNTERM_Chinese_Formal: 利比亚
+dv_UNTERM_French_Formal: la Libye
+dv_UNTERM_Russian: Ливия
+dv_UNTERM_Russian_Formal: Ливия
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Libya]]"
+dv_Sub-region_Name: "[[Northern Africa]]"
+dv_Region: 2
+dv_Sub-region: 15
+dv_Geoname-ID: 2215636
+dv_FIPS: LY
+dv_FIFA: LBY
+dv_IOC: LBA
+dv_MARC: ly
+dv_GAUL: 145
+dv_WMO: LY
+dv_ITU: LBY
+dv_DS: LAR
+dv_TLD: .ly
+dv_M49: 434
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 434
+dv_ISO2: LY
+dv_ISO3: LBY
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Libya,1016|WD~Libya,1016]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~North/Libya|Libya]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~North/Libya.public|Libya.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~North/Libya.internal|Libya.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~North/Libya.protect|Libya.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~North/Libya.private|Libya.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~North/Libya.personal|Libya.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~North/Libya.secret|Libya.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Libya
+dv_name-de: Libyen Libyan Arab. Jamahiriya
+dv_Area-Total: 1775500
+dv_Area-Land: 1759540
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: LAR
+dv_Capital: "[[Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli]]"
+dv_Alcohol-l: 0.1
+dv_Language-Id: 472
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 13.19
+dv_has_place_latitude: 32.89
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Libya,1016|WD~Libya,1016]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~North/Libya|Libya]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~North/Libya.public|Libya.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~North/Libya.internal|Libya.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~North/Libya.protect|Libya.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~North/Libya.private|Libya.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~North/Libya.personal|Libya.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~North/Libya.secret|Libya.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Libya
+
 aliases:
   - Libya
   - Libia
@@ -373,77 +460,78 @@ WIPO_ST_3: LY
 
 # [[Libya]] 
 
+## [[Libya]] has Properties...
 
-[	ISO4217-currency_alphabetic	 :: LYD ]
-[	ISO4217-currency_name	 :: Libyan Dinar ]
-[	ISO4217-currency_numeric	 :: 434 ]
-[	ISO4217-currency_minor_unit	 :: 3 ]
-[	ISO4217-currency_country_name	 :: LIBYA ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 218 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Libya ]
+name = `=this.dv_name`
 [	name-en	 :: Libya ]
-[	name-es	 :: Libia ]
-[	name-fr	 :: Libye ]
-[	name-cn	 :: 利比亚 ]
-[	name-ar	 :: ليبيا ]
-[	name-ru	 :: Ливия ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Libya ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Libya ]
-[	UNTERM_English_Formal	 :: Libya ]
-[	UNTERM_Spanish_Formal	 :: Libia ]
-[	UNTERM_Spanish	 :: Libia ]
-[	UNTERM_French	 :: Libye (la) ]
-[	UNTERM_Arabic	 :: ليبيا ]
-[	UNTERM_Arabic_Formal	 :: ليبيا ]
-[	UNTERM_Chinese	 :: 利比亚 ]
-[	UNTERM_Chinese_Formal	 :: 利比亚 ]
-[	UNTERM_French_Formal	 :: la Libye ]
-[	UNTERM_Russian	 :: Ливия ]
-[	UNTERM_Russian_Formal	 :: Ливия ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Northern Africa]]  
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 15 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2215636 ]
-[	FIPS	 :: LY ]
-[	FIFA	 :: LBY ]
-[	IOC	 :: LBA ]
-[	MARC	 :: ly ]
-[	GAUL	 :: 145 ]
-[	WMO	 :: LY ]
-[	ITU	 :: LBY ]
-[	DS	 :: LAR ]
-[	TLD	 :: .ly ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
 [	EDGAR	 ::  ]
-[	M49	 :: 434 ]
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 434 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::LY]
-[ISO3::LBY]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Libya,1016|WD~Libya,1016]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Libya 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Libya/ReadMe]] 
 
@@ -456,15 +544,18 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Libya//
 markerFolder: ./Libya//
+coordinates: [[Libya]] 
+markerFile: [[Libya]] 
+defaultZoom: 5 
 ```
 
 [name-en::Libya]
-[name-de::Libyen Libyan Arab. Jamahiriya]
-[Area-Total::1775500]
-[Area-Land::1759540]
-has_place_continent:: [[Africa]]  
-[VehicleCode::LAR]
-Capital :: [[Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Seal_of_the_Government_of_National_Unity_(Libya).svg|350]]
 
@@ -472,12 +563,12 @@ Capital :: [[Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli]]
 
 ![[Flag_of_Libya.svg|350]]
 
-[Alcohol-l::0.1]
-[Language-Id::472]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::13.19]
-[has_place_latitude::32.89]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

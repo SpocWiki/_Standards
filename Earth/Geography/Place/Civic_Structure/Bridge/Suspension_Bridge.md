@@ -5,13 +5,13 @@ aliases:
   - Suspension Bridge
 has_id_wikidata: Q12570
 different_from:
-  - '[[_Standards/WikiData/WD~cable_stayed_bridge,158555]]'
-  - '[[_Standards/WikiData/WD~simple_suspension_bridge,3916505]]'
-  - '[[_Standards/WikiData/WD~drawbridge,23383]]'
-has_list: '[[_Standards/WikiData/WD~list_of_longest_suspension_bridge_spans,468464]]'
-instance_of: '[[_Standards/WikiData/WD~bridge_by_structural_type,17644823]]'
+  - "[[_Standards/WikiData/WD~cable_stayed_bridge,158555]]"
+  - "[[_Standards/WikiData/WD~simple_suspension_bridge,3916505]]"
+  - "[[_Standards/WikiData/WD~drawbridge,23383]]"
+has_list: "[[_Standards/WikiData/WD~list_of_longest_suspension_bridge_spans,468464]]"
+instance_of: "[[_Standards/WikiData/WD~bridge_by_structural_type,17644823]]"
 properties_for_this_type: has part(s)
-subclass_of: '[[_Standards/WikiData/WD~bridge,12280]]'
+subclass_of: "[[_Standards/WikiData/WD~bridge,12280]]"
 Nomenclature_for_Museum_Cataloging: 890
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Bridge-suspension.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pont%20y%20Borth%20%28Menai%20Suspension%20Bridge%29%20a%20godwyd%20gan%20Telford%2C%20rhwng%20Ynys%20Mon%20a%20Gwynedd%3B%20Mehefin%202023%2012.jpg
@@ -23,6 +23,25 @@ Iconclass_notation: 46C11211
 Commons_category: Suspension bridges
 OpenStreetMap_tag: bridge:structure=suspension
 Dewey_Decimal_Classification: 624.23
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Suspension_bridge,12570|WD~Suspension_bridge,12570]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge|Suspension_Bridge]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.public|Suspension_Bridge.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.internal|Suspension_Bridge.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.protect|Suspension_Bridge.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.private|Suspension_Bridge.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.personal|Suspension_Bridge.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.secret|Suspension_Bridge.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Suspension_bridge,12570|WD~Suspension_bridge,12570]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge|Suspension_Bridge]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.public|Suspension_Bridge.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.internal|Suspension_Bridge.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.protect|Suspension_Bridge.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.private|Suspension_Bridge.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.personal|Suspension_Bridge.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.secret|Suspension_Bridge.secret]]"
 ---
 
 # [[Suspension_Bridge]] 

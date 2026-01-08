@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John|Saint_John]]"
+    - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.public|Saint_John.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.internal|Saint_John.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.protect|Saint_John.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.private|Saint_John.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.personal|Saint_John.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.secret|Saint_John.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John|Saint_John]]"
+  - "[[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.public|Saint_John.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.internal|Saint_John.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.protect|Saint_John.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.private|Saint_John.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.personal|Saint_John.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Virgin-Islands/Districts~USA_Virgin-Islands/Saint_John.secret|Saint_John.secret]]"
 ---
 
 # Saint_John

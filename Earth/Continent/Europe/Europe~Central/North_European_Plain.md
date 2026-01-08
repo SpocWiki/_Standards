@@ -1,5 +1,25 @@
-﻿---
-location: [ 14.0 , 54.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~North_European_Plain,560549]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/North_European_Plain|North_European_Plain]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/North_European_Plain.public|North_European_Plain.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/North_European_Plain.internal|North_European_Plain.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/North_European_Plain.protect|North_European_Plain.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/North_European_Plain.private|North_European_Plain.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/North_European_Plain.personal|North_European_Plain.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/North_European_Plain.secret|North_European_Plain.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~North_European_Plain,560549]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/North_European_Plain|North_European_Plain]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/North_European_Plain.public|North_European_Plain.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/North_European_Plain.internal|North_European_Plain.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/North_European_Plain.protect|North_European_Plain.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/North_European_Plain.private|North_European_Plain.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/North_European_Plain.personal|North_European_Plain.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/North_European_Plain.secret|North_European_Plain.secret]]"
+
+location: [ 54.0, 14.0 ] 
 aliases:
   - North European Plain
   - Norddeutsches Tiefland
@@ -42,6 +62,20 @@ Commons_category: North European Plain
 # [[North_European_Plain]] 
 
 #is_/same_as :: [[WD~North_European_Plain,560549]] 
+
+## #has_/map  
+
+```leaflet
+id: North_European_Plain
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./North_European_Plain//
+markerFolder: ./North_European_Plain/
+coordinates: [[North_European_Plain]] 
+markerFile: [[North_European_Plain]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

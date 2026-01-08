@@ -16,6 +16,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Ortelius%20M
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%201989%2C%20Fall%20of%20the%20wall%2C%20cropped%20banner.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-Histoire%20de%20l%27Europe.ogg
 Classification_of_Instructional_Programs_code: "54.0103"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~History_of_Europe,7787|WD~History_of_Europe,7787]]"
+    - "[[/_Standards/Earth/Continent/Europe/History_of_Europe|History_of_Europe]]"
+    - "[[/_public/Earth/Continent/Europe/History_of_Europe.public|History_of_Europe.public]]"
+    - "[[/_internal/Earth/Continent/Europe/History_of_Europe.internal|History_of_Europe.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/History_of_Europe.protect|History_of_Europe.protect]]"
+    - "[[/_private/Earth/Continent/Europe/History_of_Europe.private|History_of_Europe.private]]"
+    - "[[/_personal/Earth/Continent/Europe/History_of_Europe.personal|History_of_Europe.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/History_of_Europe.secret|History_of_Europe.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~History_of_Europe,7787|WD~History_of_Europe,7787]]"
+  - "[[/_Standards/Earth/Continent/Europe/History_of_Europe|History_of_Europe]]"
+  - "[[/_public/Earth/Continent/Europe/History_of_Europe.public|History_of_Europe.public]]"
+  - "[[/_internal/Earth/Continent/Europe/History_of_Europe.internal|History_of_Europe.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/History_of_Europe.protect|History_of_Europe.protect]]"
+  - "[[/_private/Earth/Continent/Europe/History_of_Europe.private|History_of_Europe.private]]"
+  - "[[/_personal/Earth/Continent/Europe/History_of_Europe.personal|History_of_Europe.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/History_of_Europe.secret|History_of_Europe.secret]]"
 ---
 
 # [[History_of_Europe]] 

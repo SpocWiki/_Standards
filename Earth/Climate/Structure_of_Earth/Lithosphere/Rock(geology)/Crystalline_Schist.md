@@ -17,8 +17,29 @@ CosIng_number: "90583"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Almandin.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Chlorite%20schist.jpg
-Wolfram_Language_entity_code: Entity["Concept", "Schist::kj799"]
+Wolfram_Language_entity_code: Entity"Concept", "Schist = `=this.dv_"Concept", "Schist`
 Commons_category: Schist
+dv_"Concept", "Schist: kj799"
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Crystalline_schist,15315|WD~Crystalline_schist,15315]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist|Crystalline_Schist]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.public|Crystalline_Schist.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.internal|Crystalline_Schist.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.protect|Crystalline_Schist.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.private|Crystalline_Schist.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.personal|Crystalline_Schist.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.secret|Crystalline_Schist.secret]]"
+dv_concept-schist: kj799"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Crystalline_schist,15315|WD~Crystalline_schist,15315]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist|Crystalline_Schist]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.public|Crystalline_Schist.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.internal|Crystalline_Schist.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.protect|Crystalline_Schist.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.private|Crystalline_Schist.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.personal|Crystalline_Schist.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Crystalline_Schist.secret|Crystalline_Schist.secret]]"
 ---
 
 # [[Crystalline_Schist]] 

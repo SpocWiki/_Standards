@@ -732,82 +732,174 @@ Wolfram_Language_entity_code:
   - Entity["Country", "Brazil"]
   - Entity["HistoricalCountry", "Brazil"]
 X_Twitter_username: govbrazil
+dv_ISO4217-currency_alphabetic: BRL
+dv_ISO4217-currency_name: Brazilian Real
+dv_ISO4217-currency_numeric: 986
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: BRAZIL
+dv_has_:
+  telephone_:
+    Prefix_:
+      country: 55
+      International: 00 + Provider-Code
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Brazil
+dv_Global: true
+dv_Global_Name: World
+dv_name: Brazil
+dv_name-en:
+  - Brazil
+  - Brazil
+dv_name-es: Brasil
+dv_name-fr: Brésil
+dv_name-cn: 巴西
+dv_name-ar: البرازيل
+dv_name-ru: Бразилия
+dv_CLDR_display_name: Brazil
+dv_UNTERM_English: Brazil
+dv_UNTERM_English_Formal: the Federative Republic of Brazil
+dv_UNTERM_Spanish_Formal: la República Federativa del Brasil
+dv_UNTERM_Spanish: Brasil (el)
+dv_UNTERM_French: Brésil (le)
+dv_UNTERM_Arabic: البرازيل
+dv_UNTERM_Arabic_Formal: الجمهورية الاتحادية البرازيلية
+dv_UNTERM_Chinese: 巴西
+dv_UNTERM_Chinese_Formal: 巴西联邦共和国
+dv_UNTERM_French_Formal: la République fédérative du Brésil
+dv_UNTERM_Russian: Бразилия
+dv_UNTERM_Russian_Formal: Федеративная Республика Бразилия
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[South America]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 5
+dv_Sub-region: 419
+dv_Geoname-ID: 3469034
+dv_FIPS: BR
+dv_FIFA: BRA
+dv_IOC: BRA
+dv_MARC: bl
+dv_GAUL: 37
+dv_WMO: BZ
+dv_ITU: B
+dv_DS: BR
+dv_TLD: .br
+dv_EDGAR: D5
+dv_M49: 76
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 76
+dv_ISO2: BR
+dv_ISO3: BRA
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Brazil,155|WD~Brazil,155]]"
+    - "[[/_Standards/Earth/Continent/America~South/Brazil|Brazil]]"
+    - "[[/_public/Earth/Continent/America~South/Brazil.public|Brazil.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Brazil.internal|Brazil.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Brazil.protect|Brazil.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Brazil.private|Brazil.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Brazil.personal|Brazil.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Brazil.secret|Brazil.secret]]"
+dv_name-de: Brasilien
+dv_Area-Total: 8511996
+dv_Area-Land: 8456510
+dv_has_place_continent: "[[South-America]]"
+dv_VehicleCode: BR
+dv_Alcohol-l: 9.2
+dv_Language-Id: 467
+dv_has_place_longitude: -45.9467
+dv_has_place_latitude: -20.7333
+dv_has_telephone_prefix_country: 55
+dv_has_telephone_prefix_international: 00 + Provider-Code
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Brazil,155|WD~Brazil,155]]"
+  - "[[/_Standards/Earth/Continent/America~South/Brazil|Brazil]]"
+  - "[[/_public/Earth/Continent/America~South/Brazil.public|Brazil.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Brazil.internal|Brazil.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Brazil.protect|Brazil.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Brazil.private|Brazil.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Brazil.personal|Brazil.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Brazil.secret|Brazil.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Brazil
 ---
 
 # [[Brazil]] 
 
-[	ISO4217-currency_alphabetic	 :: BRL ]
-[	ISO4217-currency_name	 :: Brazilian Real ]
-[	ISO4217-currency_numeric	 :: 986 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: BRAZIL ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-#has_/telephone_/Prefix_/country:: 55 
-#has_/telephone_/Prefix_/International :: 00 + Provider-Code 
+has_telephone_prefix_country = `=this.dv_has_telephone_prefix_country`
+has_telephone_prefix_international = `=this.dv_has_telephone_prefix_international`
 
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Brazil ]
+name = `=this.dv_name`
 [	name-en	 :: Brazil ]
-[	name-es	 :: Brasil ]
-[	name-fr	 :: Brésil ]
-[	name-cn	 :: 巴西 ]
-[	name-ar	 :: البرازيل ]
-[	name-ru	 :: Бразилия ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Brazil ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Brazil ]
-[	UNTERM_English_Formal	 :: the Federative Republic of Brazil ]
-[	UNTERM_Spanish_Formal	 :: la República Federativa del Brasil ]
-[	UNTERM_Spanish	 :: Brasil (el) ]
-[	UNTERM_French	 :: Brésil (le) ]
-[	UNTERM_Arabic	 :: البرازيل ]
-[	UNTERM_Arabic_Formal	 :: الجمهورية الاتحادية البرازيلية ]
-[	UNTERM_Chinese	 :: 巴西 ]
-[	UNTERM_Chinese_Formal	 :: 巴西联邦共和国 ]
-[	UNTERM_French_Formal	 :: la République fédérative du Brésil ]
-[	UNTERM_Russian	 :: Бразилия ]
-[	UNTERM_Russian_Formal	 :: Федеративная Республика Бразилия ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[South America]] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ]
-[	Intermediate_Region	 :: 5 ]
-[	Sub-region	 :: 419 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3469034 ]
-[	FIPS	 :: BR ]
-[	FIFA	 :: BRA ]
-[	IOC	 :: BRA ]
-[	MARC	 :: bl ]
-[	GAUL	 :: 37 ]
-[	WMO	 :: BZ ]
-[	ITU	 :: B ]
-[	DS	 :: BR ]
-[	TLD	 :: .br ]
-[	EDGAR	 :: D5 ]
-[	M49	 :: 76 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 076 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::BR]
-[ISO3::BRA] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../WikiData/WD~Brazil,155|WD~Brazil,155]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Brazil 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Brazil/ReadMe]] 
 
@@ -825,11 +917,11 @@ markerFolder: ./Brazil/
 ```
 
 [name-en::Brazil]
-[name-de::Brasilien]
-[Area-Total::8511996]
-[Area-Land::8456510]
-has_place_continent:: [[South-America]]  
-[VehicleCode::BR]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]  
 
 ![[Brazil/Coat_of_arms_of_Brazil.svg|350]]
@@ -838,10 +930,10 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 
 ![[Brazil/Flag_of_Brazil.svg|350]]
 
-[Alcohol-l::9.2]
-[Language-Id::467]
-[has_place_longitude::-45.9467]
-[has_place_latitude::-20.7333]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/place_/city 
 

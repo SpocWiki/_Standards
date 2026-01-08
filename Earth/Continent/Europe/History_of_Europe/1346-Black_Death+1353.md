@@ -1,4 +1,28 @@
-﻿---
+---
+dv_has_:
+  time_:
+    started: 1346-06-01T00:00:00.000+00:53
+    stopped: 1353-06-01T00:00:00.000+00:53
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Black_Death,42005|WD~Black_Death,42005]]"
+    - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353|1346-Black_Death+1353]]"
+    - "[[/_public/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.public|1346-Black_Death+1353.public]]"
+    - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.internal|1346-Black_Death+1353.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.protect|1346-Black_Death+1353.protect]]"
+    - "[[/_private/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.private|1346-Black_Death+1353.private]]"
+    - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.personal|1346-Black_Death+1353.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.secret|1346-Black_Death+1353.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Black_Death,42005|WD~Black_Death,42005]]"
+  - "[[/_Standards/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353|1346-Black_Death+1353]]"
+  - "[[/_public/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.public|1346-Black_Death+1353.public]]"
+  - "[[/_internal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.internal|1346-Black_Death+1353.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.protect|1346-Black_Death+1353.protect]]"
+  - "[[/_private/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.private|1346-Black_Death+1353.private]]"
+  - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.personal|1346-Black_Death+1353.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1346-Black_Death+1353.secret|1346-Black_Death+1353.secret]]"
+
 has_time_started: 1346-01-01 
 has_time_stopped: 1352-01-01 
 aliases:

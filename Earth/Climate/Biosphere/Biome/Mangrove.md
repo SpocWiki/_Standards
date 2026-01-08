@@ -24,6 +24,25 @@ image:
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Biome%20map%2014.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Mangrove%20joanes%20brasil.ogv
 Commons_category: Mangroves
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Mangrove,19756]]"
+    - "[[/_Standards/Earth/Climate/Biosphere/Biome/Mangrove|Mangrove]]"
+    - "[[/_public/Earth/Climate/Biosphere/Biome/Mangrove.public|Mangrove.public]]"
+    - "[[/_internal/Earth/Climate/Biosphere/Biome/Mangrove.internal|Mangrove.internal]]"
+    - "[[/_protect/Earth/Climate/Biosphere/Biome/Mangrove.protect|Mangrove.protect]]"
+    - "[[/_private/Earth/Climate/Biosphere/Biome/Mangrove.private|Mangrove.private]]"
+    - "[[/_personal/Earth/Climate/Biosphere/Biome/Mangrove.personal|Mangrove.personal]]"
+    - "[[/_secret/Earth/Climate/Biosphere/Biome/Mangrove.secret|Mangrove.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Mangrove,19756]]"
+  - "[[/_Standards/Earth/Climate/Biosphere/Biome/Mangrove|Mangrove]]"
+  - "[[/_public/Earth/Climate/Biosphere/Biome/Mangrove.public|Mangrove.public]]"
+  - "[[/_internal/Earth/Climate/Biosphere/Biome/Mangrove.internal|Mangrove.internal]]"
+  - "[[/_protect/Earth/Climate/Biosphere/Biome/Mangrove.protect|Mangrove.protect]]"
+  - "[[/_private/Earth/Climate/Biosphere/Biome/Mangrove.private|Mangrove.private]]"
+  - "[[/_personal/Earth/Climate/Biosphere/Biome/Mangrove.personal|Mangrove.personal]]"
+  - "[[/_secret/Earth/Climate/Biosphere/Biome/Mangrove.secret|Mangrove.secret]]"
 ---
 
 # [[Mangrove]] 

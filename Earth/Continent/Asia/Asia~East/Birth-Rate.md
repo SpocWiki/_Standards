@@ -2,6 +2,23 @@
 aliases:
   - natality
   - Birth-Rate
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Birth-Rate|Birth-Rate]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~East/Birth-Rate.public|Birth-Rate.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~East/Birth-Rate.internal|Birth-Rate.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~East/Birth-Rate.protect|Birth-Rate.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~East/Birth-Rate.private|Birth-Rate.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~East/Birth-Rate.personal|Birth-Rate.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret|Birth-Rate.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Birth-Rate|Birth-Rate]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~East/Birth-Rate.public|Birth-Rate.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~East/Birth-Rate.internal|Birth-Rate.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~East/Birth-Rate.protect|Birth-Rate.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~East/Birth-Rate.private|Birth-Rate.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~East/Birth-Rate.personal|Birth-Rate.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret|Birth-Rate.secret]]"
 ---
 
 # [[Birth-Rate]] 

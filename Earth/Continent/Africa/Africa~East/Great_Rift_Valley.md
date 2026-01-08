@@ -6,35 +6,35 @@ aliases:
   - Great_Rift_Valley
 has_id_wikidata: Q12707
 instance_of:
-  - '[[_Standards/WikiData/WD~region,82794]]'
-  - '[[_Standards/WikiData/WD~plain,160091]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~plain,160091]]'
+  - "[[_Standards/WikiData/WD~region,82794]]"
+  - "[[_Standards/WikiData/WD~plain,160091]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~plain,160091]]"
 named_after:
-  - '[[_Standards/WikiData/WD~plain,160091]]'
-  - '[[_Standards/WikiData/WD~largeness,12935276]]'
+  - "[[_Standards/WikiData/WD~plain,160091]]"
+  - "[[_Standards/WikiData/WD~largeness,12935276]]"
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Thomas_County,374452]]'
-  - '[[_Standards/WikiData/WD~North_Dakota,1207]]'
-  - '[[_Standards/WikiData/WD~South_Dakota,1211]]'
-  - '[[_Standards/WikiData/WD~Wyoming,1214]]'
-  - '[[_Standards/WikiData/WD~Montana,1212]]'
-  - '[[_Standards/WikiData/WD~Colorado,1261]]'
-  - '[[_Standards/WikiData/WD~Texas,1439]]'
-  - '[[_Standards/WikiData/WD~New_Mexico,1522]]'
-  - '[[_Standards/WikiData/WD~Minnesota,1527]]'
-  - '[[_Standards/WikiData/WD~Iowa,1546]]'
-  - '[[_Standards/WikiData/WD~Nebraska,1553]]'
-  - '[[_Standards/WikiData/WD~Oklahoma,1649]]'
-  - '[[_Standards/WikiData/WD~Alberta,1951]]'
-  - '[[_Standards/WikiData/WD~Manitoba,1948]]'
-  - '[[_Standards/WikiData/WD~Saskatchewan,1989]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Great_Plains,60138948]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+  - "[[_Standards/WikiData/WD~Thomas_County,374452]]"
+  - "[[_Standards/WikiData/WD~North_Dakota,1207]]"
+  - "[[_Standards/WikiData/WD~South_Dakota,1211]]"
+  - "[[_Standards/WikiData/WD~Wyoming,1214]]"
+  - "[[_Standards/WikiData/WD~Montana,1212]]"
+  - "[[_Standards/WikiData/WD~Colorado,1261]]"
+  - "[[_Standards/WikiData/WD~Texas,1439]]"
+  - "[[_Standards/WikiData/WD~New_Mexico,1522]]"
+  - "[[_Standards/WikiData/WD~Minnesota,1527]]"
+  - "[[_Standards/WikiData/WD~Iowa,1546]]"
+  - "[[_Standards/WikiData/WD~Nebraska,1553]]"
+  - "[[_Standards/WikiData/WD~Oklahoma,1649]]"
+  - "[[_Standards/WikiData/WD~Alberta,1951]]"
+  - "[[_Standards/WikiData/WD~Manitoba,1948]]"
+  - "[[_Standards/WikiData/WD~Saskatchewan,1989]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Great_Plains,60138948]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 country:
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-part_of: '[[_Standards/WikiData/WD~North_America,49]]'
-continent: '[[_Standards/WikiData/WD~North_America,49]]'
+  - "[[_Standards/WikiData/WD~Canada,16]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+part_of: "[[_Standards/WikiData/WD~North_America,49]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 coordinate_location: Point(-100.0 40.0)
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Plains%20Alternative%20Banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Plains%2C%20Nebraska%2C%20U.S.%201.jpg
@@ -42,6 +42,25 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Physiograp
 U_S_National_Archives_Identifier: 10038209
 Libris_URI: 75kns2vr4bx4k08
 Commons_category: Great Plains
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Great_Plains,12707|WD~Great_Plains,12707]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~East/Great_Rift_Valley|Great_Rift_Valley]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.public|Great_Rift_Valley.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.internal|Great_Rift_Valley.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.protect|Great_Rift_Valley.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.private|Great_Rift_Valley.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.personal|Great_Rift_Valley.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.secret|Great_Rift_Valley.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Great_Plains,12707|WD~Great_Plains,12707]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~East/Great_Rift_Valley|Great_Rift_Valley]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.public|Great_Rift_Valley.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.internal|Great_Rift_Valley.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.protect|Great_Rift_Valley.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.private|Great_Rift_Valley.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.personal|Great_Rift_Valley.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.secret|Great_Rift_Valley.secret]]"
 ---
 
 # [[Great_Rift_Valley]] 

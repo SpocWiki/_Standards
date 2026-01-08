@@ -18,6 +18,25 @@ width: 1100
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1891%20SargassoSee%20Krummel%20Petermanns%20lores.jpg
 Commons_category: Sargasso Sea
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sargasso.svg
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Sargasso_Sea,169274]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea|Sargasso_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.public|Sargasso_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.internal|Sargasso_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.protect|Sargasso_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.private|Sargasso_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.personal|Sargasso_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.secret|Sargasso_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sargasso_Sea,169274]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea|Sargasso_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.public|Sargasso_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.internal|Sargasso_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.protect|Sargasso_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.private|Sargasso_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.personal|Sargasso_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~North/Sargasso_Sea.secret|Sargasso_Sea.secret]]"
 ---
 
 # [[Sargasso_Sea]] 

@@ -14,18 +14,41 @@ SpocWebEntityId: 35990
 tags:
   - geo/City
 type: City
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 144.75
+dv_has_place_latitude: 13.47917
+dv_name: Hagåtña
+dv_has_place_country: "[[../../../../../Oceania/Guam]]"
+dv_Unknown: 32
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña|Hagåtña]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.public|Hagåtña.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.internal|Hagåtña.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.protect|Hagåtña.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.private|Hagåtña.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.personal|Hagåtña.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.secret|Hagåtña.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña|Hagåtña]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.public|Hagåtña.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.internal|Hagåtña.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.protect|Hagåtña.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.private|Hagåtña.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.personal|Hagåtña.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Guam/Villages~Guam/Hagåtña.secret|Hagåtña.secret]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../Geography/Place]] 
-[has_place_longitude::144.75] 
-[has_place_latitude::13.47917] 
-[name::Hagåtña] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 has_place_province::  
-has_place_country:: [[../../../../../Oceania/Guam]]  
+has_place_country = `=this.dv_has_place_country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
 
 ```leaflet

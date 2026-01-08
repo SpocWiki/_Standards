@@ -1,6 +1,25 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Ramallah,158119|WD~Ramallah,158119]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Palestine/Ramallah|Ramallah]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.public|Ramallah.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.internal|Ramallah.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.protect|Ramallah.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.private|Ramallah.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.personal|Ramallah.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.secret|Ramallah.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Ramallah,158119|WD~Ramallah,158119]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Palestine/Ramallah|Ramallah]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.public|Ramallah.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.internal|Ramallah.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.protect|Ramallah.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.private|Ramallah.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.personal|Ramallah.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.secret|Ramallah.secret]]"
+
 has_time_started: 1501-01-01 
-location: [ 35.201666666 , 31.896944444 ] 
 aliases:
   - ': رام الله, romanized: Rām Allāh'
   - Ramallah
@@ -72,6 +91,20 @@ inception: 1501-01-01T00:00:00Z
 # [[Ramallah]] 
 
 #is_/same_as  :: [[../../../../../WikiData/WD~Ramallah,158119|WD~Ramallah,158119]] 
+
+## #has_/map  
+
+```leaflet
+id: Ramallah
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Ramallah//
+markerFolder: ./Ramallah/
+coordinates: [[Ramallah]] 
+markerFile: [[Ramallah]] 
+defaultZoom: 9 
+```
 
 ## #has_/text_of_/abstract 
 

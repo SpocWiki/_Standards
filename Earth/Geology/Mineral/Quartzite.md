@@ -4,17 +4,36 @@ aliases:
   - Quartzite
 has_id_wikidata: Q237883
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+award_received: "[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]"
 Mohs_hardness: 7
-made_from_material: '[[_Standards/WikiData/WD~quartz,43010]]'
-subclass_of: '[[_Standards/WikiData/WD~metamorphic_rock,47069]]'
+made_from_material: "[[_Standards/WikiData/WD~quartz,43010]]"
+subclass_of: "[[_Standards/WikiData/WD~metamorphic_rock,47069]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quartzite%202%20jpg.jpg
 EAGLE_id: material/lod/51
 Commons_category: Quartzite
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Quartzite,237883|WD~Quartzite,237883]]"
+    - "[[/_Standards/Earth/Geology/Mineral/Quartzite|Quartzite]]"
+    - "[[/_public/Earth/Geology/Mineral/Quartzite.public|Quartzite.public]]"
+    - "[[/_internal/Earth/Geology/Mineral/Quartzite.internal|Quartzite.internal]]"
+    - "[[/_protect/Earth/Geology/Mineral/Quartzite.protect|Quartzite.protect]]"
+    - "[[/_private/Earth/Geology/Mineral/Quartzite.private|Quartzite.private]]"
+    - "[[/_personal/Earth/Geology/Mineral/Quartzite.personal|Quartzite.personal]]"
+    - "[[/_secret/Earth/Geology/Mineral/Quartzite.secret|Quartzite.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Quartzite,237883|WD~Quartzite,237883]]"
+  - "[[/_Standards/Earth/Geology/Mineral/Quartzite|Quartzite]]"
+  - "[[/_public/Earth/Geology/Mineral/Quartzite.public|Quartzite.public]]"
+  - "[[/_internal/Earth/Geology/Mineral/Quartzite.internal|Quartzite.internal]]"
+  - "[[/_protect/Earth/Geology/Mineral/Quartzite.protect|Quartzite.protect]]"
+  - "[[/_private/Earth/Geology/Mineral/Quartzite.private|Quartzite.private]]"
+  - "[[/_personal/Earth/Geology/Mineral/Quartzite.personal|Quartzite.personal]]"
+  - "[[/_secret/Earth/Geology/Mineral/Quartzite.secret|Quartzite.secret]]"
 ---
 
 # [[Quartzite]] 

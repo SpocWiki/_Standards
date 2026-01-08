@@ -152,8 +152,29 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5863
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Relief%20Map%20of%20English%20Channel.png
 TOID: "4000000074790054"
 Commons_category: English Channel
-Wolfram_Language_entity_code: Entity["Concept", "EnglishChannel::65q7c"]
+Wolfram_Language_entity_code: Entity"Concept", "EnglishChannel = `=this.dv_"Concept", "EnglishChannel`
 Commons_gallery: La Manche - English Channel
+dv_"Concept", "EnglishChannel: 65q7c"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~English_Channel,34640|WD~English_Channel,34640]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~West/English_Channel|English_Channel]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~West/English_Channel.public|English_Channel.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~West/English_Channel.internal|English_Channel.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~West/English_Channel.protect|English_Channel.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~West/English_Channel.private|English_Channel.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~West/English_Channel.personal|English_Channel.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~West/English_Channel.secret|English_Channel.secret]]"
+dv_concept-englishchannel: 65q7c"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~English_Channel,34640|WD~English_Channel,34640]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~West/English_Channel|English_Channel]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~West/English_Channel.public|English_Channel.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~West/English_Channel.internal|English_Channel.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~West/English_Channel.protect|English_Channel.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~West/English_Channel.private|English_Channel.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~West/English_Channel.personal|English_Channel.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~West/English_Channel.secret|English_Channel.secret]]"
 ---
 
 # [[English_Channel]] 

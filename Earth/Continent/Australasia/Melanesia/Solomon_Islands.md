@@ -14,99 +14,185 @@ confidential: public
 cssclasses:
   - Country
 draft: false
-expiryDate: ''
+expiryDate: ""
 icon: flag-sb
 isDeleted: false
 isReadOnly: false
-keywords: ''
+keywords: ""
 Languages:
   - en-SB
   - tpi
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 location:
   - -9.46667
   - 159.817
 publish: true
-publishDate: ''
+publishDate: ""
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 27010
 tags:
   - geo/Country
 title: Solomon Islands
 type: Country
+dv_ISO4217-currency_alphabetic: SBD
+dv_ISO4217-currency_name: Solomon Islands Dollar
+dv_ISO4217-currency_numeric: 90
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SOLOMON ISLANDS
+dv_Telephone: 677
+dv_Global: true
+dv_Global_Name: World
+dv_name: Solomon Islands
+dv_name-en:
+  - Solomon Islands
+  - Solomon Islands
+dv_name-es: Islas Salomón
+dv_name-fr: Îles Salomon
+dv_name-cn: 所罗门群岛
+dv_name-ar: جزر سليمان
+dv_name-ru: Соломоновы Острова
+dv_CLDR_display_name: Solomon Islands
+dv_UNTERM_English: Solomon Islands
+dv_UNTERM_English_Formal: Solomon Islands
+dv_UNTERM_Spanish_Formal: las Islas Salomón
+dv_UNTERM_Spanish: Islas Salomón (las)
+dv_UNTERM_French: Îles Salomon (les)
+dv_UNTERM_Arabic: جزر سليمان
+dv_UNTERM_Arabic_Formal: جزر سليمان
+dv_UNTERM_Chinese: 所罗门群岛
+dv_UNTERM_Chinese_Formal: 所罗门群岛
+dv_UNTERM_French_Formal: les Îles Salomon
+dv_UNTERM_Russian: Соломоновы Острова
+dv_UNTERM_Russian_Formal: Соломоновы Острова
+dv_Region_Name: "[[../../Oceania]]"
+dv_Intermediate_Region_Name: "[[Solomon_Islands]]"
+dv_Sub-region_Name: "[[../Melanesia]]"
+dv_Region: 9
+dv_Sub-region: 54
+dv_Geoname-ID: 2103350
+dv_FIPS: BP
+dv_FIFA: SOL
+dv_IOC: SOL
+dv_MARC: bp
+dv_GAUL: 225
+dv_WMO: SO
+dv_ITU: SLM
+dv_DS: SB
+dv_TLD: .sb
+dv_EDGAR: D7
+dv_M49: 90
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 90
+dv_ISO2: SB
+dv_ISO3: SLB
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Solomon_Islands,685|WD~Solomon_Islands,685]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands|Solomon_Islands]]"
+    - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands.public|Solomon_Islands.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands.internal|Solomon_Islands.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands.protect|Solomon_Islands.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands.private|Solomon_Islands.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands.personal|Solomon_Islands.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands.secret|Solomon_Islands.secret]]"
+dv_name-de: Salomonen
+dv_Area-Total: 29785
+dv_Area-Land: 27990
+dv_has_place_continent: "[[../../Oceania]]"
+dv_VehicleCode: SOL
+dv_Capital: "[[Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara]]"
+dv_Alcohol-l: 1.7
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 159.817
+dv_has_place_latitude: -9.46667
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Solomon_Islands,685|WD~Solomon_Islands,685]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands|Solomon_Islands]]"
+  - "[[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands.public|Solomon_Islands.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands.internal|Solomon_Islands.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands.protect|Solomon_Islands.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands.private|Solomon_Islands.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands.personal|Solomon_Islands.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands.secret|Solomon_Islands.secret]]"
 ---
 
 # [[Solomon_Islands]] 
 
-[	ISO4217-currency_alphabetic	 :: SBD ] 
-[	ISO4217-currency_name	 :: Solomon Islands Dollar ] 
-[	ISO4217-currency_numeric	 :: 090 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: SOLOMON ISLANDS ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 677 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Solomon Islands ] 
+name = `=this.dv_name` 
 [	name-en	 :: Solomon Islands ] 
-[	name-es	 :: Islas Salomón ] 
-[	name-fr	 :: Îles Salomon ] 
-[	name-cn	 :: 所罗门群岛 ] 
-[	name-ar	 :: جزر سليمان ] 
-[	name-ru	 :: Соломоновы Острова ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Solomon Islands ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Solomon Islands ] 
-[	UNTERM_English_Formal	 :: Solomon Islands ] 
-[	UNTERM_Spanish_Formal	 :: las Islas Salomón ] 
-[	UNTERM_Spanish	 :: Islas Salomón (las) ] 
-[	UNTERM_French	 :: Îles Salomon (les) ] 
-[	UNTERM_Arabic	 :: جزر سليمان ] 
-[	UNTERM_Arabic_Formal	 :: جزر سليمان ] 
-[	UNTERM_Chinese	 :: 所罗门群岛 ] 
-[	UNTERM_Chinese_Formal	 :: 所罗门群岛 ] 
-[	UNTERM_French_Formal	 :: les Îles Salomon ] 
-[	UNTERM_Russian	 :: Соломоновы Острова ] 
-[	UNTERM_Russian_Formal	 :: Соломоновы Острова ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Melanesia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 54 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 2103350 ] 
-[	FIPS	 :: BP ] 
-[	FIFA	 :: SOL ] 
-[	IOC	 :: SOL ] 
-[	MARC	 :: bp ] 
-[	GAUL	 :: 225 ] 
-[	WMO	 :: SO ] 
-[	ITU	 :: SLM ] 
-[	DS	 :: SB ] 
-[	TLD	 :: .sb ] 
-[	EDGAR	 :: D7 ] 
-[	M49	 :: 90 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 :: x ] 
-[	Small_Island_Developing_States	 :: x ] 
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries` 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 090 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::SB] 
-[ISO3::SLB]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../../WikiData/WD~Solomon_Islands,685|WD~Solomon_Islands,685]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
@@ -120,18 +206,18 @@ markerFolder: ./Solomon_Islands/
 ```
 
 [name-en::Solomon Islands] 
-[name-de::Salomonen] 
-[Area-Total::29785] 
-[Area-Land::27990] 
-has_place_continent:: [[Oceania]]  
-[VehicleCode::SOL] 
-Capital :: [[Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara]]  
-[Alcohol-l::1.7] 
-[Language-Id::499] 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::159.817] 
-[has_place_latitude::-9.46667] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

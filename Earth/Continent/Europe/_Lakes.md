@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/_Lakes|_Lakes]]"
+    - "[[/_public/Earth/Continent/Europe/_Lakes.public|_Lakes.public]]"
+    - "[[/_internal/Earth/Continent/Europe/_Lakes.internal|_Lakes.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/_Lakes.protect|_Lakes.protect]]"
+    - "[[/_private/Earth/Continent/Europe/_Lakes.private|_Lakes.private]]"
+    - "[[/_personal/Earth/Continent/Europe/_Lakes.personal|_Lakes.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/_Lakes.secret|_Lakes.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/_Lakes|_Lakes]]"
+  - "[[/_public/Earth/Continent/Europe/_Lakes.public|_Lakes.public]]"
+  - "[[/_internal/Earth/Continent/Europe/_Lakes.internal|_Lakes.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/_Lakes.protect|_Lakes.protect]]"
+  - "[[/_private/Earth/Continent/Europe/_Lakes.private|_Lakes.private]]"
+  - "[[/_personal/Earth/Continent/Europe/_Lakes.personal|_Lakes.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/_Lakes.secret|_Lakes.secret]]"
+---
 
 ```leaflet
 id: Niedersachsen

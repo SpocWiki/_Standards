@@ -1,5 +1,93 @@
-﻿---
-location: [ 73.51 , 4.18 ] 
+---
+dv_ISO4217-currency_alphabetic: MVR
+dv_ISO4217-currency_name: Rufiyaa
+dv_ISO4217-currency_numeric: 462
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: MALDIVES
+dv_Telephone: 960
+dv_Global: true
+dv_Global_Name: World
+dv_name: Maldives
+dv_name-en:
+  - Maldives
+  - Maldives
+dv_name-es: Maldivas
+dv_name-fr: Maldives
+dv_name-cn: 马尔代夫
+dv_name-ar: ملديف
+dv_name-ru: Мальдивские Острова
+dv_CLDR_display_name: Maldives
+dv_UNTERM_English: Maldives
+dv_UNTERM_English_Formal: the Republic of Maldives
+dv_UNTERM_Spanish_Formal: la República de Maldivas
+dv_UNTERM_Spanish: Maldivas
+dv_UNTERM_French: Maldives (les) [fém.]
+dv_UNTERM_Arabic: ملديف
+dv_UNTERM_Arabic_Formal: جمهورية ملديف
+dv_UNTERM_Chinese: 马尔代夫
+dv_UNTERM_Chinese_Formal: 马尔代夫共和国
+dv_UNTERM_French_Formal: la République des Maldives
+dv_UNTERM_Russian: Мальдивские Острова
+dv_UNTERM_Russian_Formal: Мальдивская Республика
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Maldives]]"
+dv_Sub-region_Name: "[[Southern Asia]]"
+dv_Region: 142
+dv_Sub-region: 34
+dv_Geoname-ID: 1282028
+dv_FIPS: MV
+dv_FIFA: MDV
+dv_IOC: MDV
+dv_MARC: xc
+dv_GAUL: 154
+dv_WMO: MV
+dv_ITU: MLD
+dv_DS: MV
+dv_TLD: .mv
+dv_EDGAR: N9
+dv_M49: 462
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 462
+dv_ISO2: MV
+dv_ISO3: MDV
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Maldives,826|WD~Maldives,826]]"
+    - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives|Maldives]]"
+    - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives.public|Maldives.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.internal|Maldives.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives.protect|Maldives.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives.private|Maldives.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.personal|Maldives.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives.secret|Maldives.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Maldives
+dv_name-de: Malediven
+dv_Area-Total: 298
+dv_Area-Land: 300
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: MV
+dv_Capital: "[[Maldives/Counties/Malé/City/Malé]]"
+dv_Alcohol-l: 0.8
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 73.5
+dv_has_place_latitude: 4.16667
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Maldives,826|WD~Maldives,826]]"
+  - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives|Maldives]]"
+  - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives.public|Maldives.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.internal|Maldives.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives.protect|Maldives.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives.private|Maldives.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.personal|Maldives.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives.secret|Maldives.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Maldives
+
 aliases:
   - Maldives
   - Maldivas
@@ -292,78 +380,80 @@ Wolfram_Language_entity_code: Entity["Country", "Maldives"]
 
 # [[Maldives]] 
 
-[	ISO4217-currency_alphabetic	 :: MVR ]
-[	ISO4217-currency_name	 :: Rufiyaa ]
-[	ISO4217-currency_numeric	 :: 462 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: MALDIVES ]
+## [[Maldives]] has Properties...
 
-[	Telephone	 :: 960 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Maldives ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
 [	name-en	 :: Maldives ]
-[	name-es	 :: Maldivas ]
-[	name-fr	 :: Maldives ]
-[	name-cn	 :: 马尔代夫 ]
-[	name-ar	 :: ملديف ]
-[	name-ru	 :: Мальдивские Острова ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Maldives ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Maldives ]
-[	UNTERM_English_Formal	 :: the Republic of Maldives ]
-[	UNTERM_Spanish_Formal	 :: la República de Maldivas ]
-[	UNTERM_Spanish	 :: Maldivas ]
-[	UNTERM_French	 :: Maldives (les) [fém.] ]
-[	UNTERM_Arabic	 :: ملديف ]
-[	UNTERM_Arabic_Formal	 :: جمهورية ملديف ]
-[	UNTERM_Chinese	 :: 马尔代夫 ]
-[	UNTERM_Chinese_Formal	 :: 马尔代夫共和国 ]
-[	UNTERM_French_Formal	 :: la République des Maldives ]
-[	UNTERM_Russian	 :: Мальдивские Острова ]
-[	UNTERM_Russian_Formal	 :: Мальдивская Республика ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Southern Asia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 34 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 1282028 ]
-[	FIPS	 :: MV ]
-[	FIFA	 :: MDV ]
-[	IOC	 :: MDV ]
-[	MARC	 :: xc ]
-[	GAUL	 :: 154 ]
-[	WMO	 :: MV ]
-[	ITU	 :: MLD ]
-[	DS	 :: MV ]
-[	TLD	 :: .mv ]
-[	EDGAR	 :: N9 ]
-[	M49	 :: 462 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 :: x ]
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States`
 
-[	ISO3166-1-numeric	 :: 462 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
 
-[ISO2::MV]
-[ISO3::MDV] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Maldives,826|WD~Maldives,826]]
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Maldives 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Maldives/ReadMe]] 
 
@@ -381,23 +471,23 @@ markerFile: [[Maldives]]
 ```
 
 [name-en::Maldives]
-[name-de::Malediven]
-[Area-Total::298]
-[Area-Land::300]
-has_place_continent:: [[Asia]]  
-[VehicleCode::MV]
-Capital :: [[Maldives/Counties/Malé/City/Malé]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Maldives/Emblem_of_Maldives.svg|350]]  
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Maldives.mp3]]
 ![[Maldives/Flag_of_Maldives.svg|350]]  
 
-[Alcohol-l::0.8]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::73.5]
-[has_place_latitude::4.16667]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

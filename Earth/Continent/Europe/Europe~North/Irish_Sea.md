@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Irish_Sea,41735]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Irish_Sea|Irish_Sea]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Irish_Sea.public|Irish_Sea.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Irish_Sea.internal|Irish_Sea.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Irish_Sea.protect|Irish_Sea.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Irish_Sea.private|Irish_Sea.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Irish_Sea.personal|Irish_Sea.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Irish_Sea.secret|Irish_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Irish_Sea,41735]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Irish_Sea|Irish_Sea]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Irish_Sea.public|Irish_Sea.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Irish_Sea.internal|Irish_Sea.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Irish_Sea.protect|Irish_Sea.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Irish_Sea.private|Irish_Sea.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Irish_Sea.personal|Irish_Sea.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Irish_Sea.secret|Irish_Sea.secret]]"
+---
 
 # [[Irish_Sea]] 
 

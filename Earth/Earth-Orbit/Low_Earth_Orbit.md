@@ -9,6 +9,25 @@ OmegaWiki_Defined_Meaning: "1230285"
 short_name: LEO
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Sunrise%20To%20Sunset%20Aboard%20The%20ISS.ogv
 Commons_category: Low Earth orbit
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Low_Earth_orbit,663611]]"
+    - "[[/_Standards/Earth/Earth-Orbit/Low_Earth_Orbit|Low_Earth_Orbit]]"
+    - "[[/_public/Earth/Earth-Orbit/Low_Earth_Orbit.public|Low_Earth_Orbit.public]]"
+    - "[[/_internal/Earth/Earth-Orbit/Low_Earth_Orbit.internal|Low_Earth_Orbit.internal]]"
+    - "[[/_protect/Earth/Earth-Orbit/Low_Earth_Orbit.protect|Low_Earth_Orbit.protect]]"
+    - "[[/_private/Earth/Earth-Orbit/Low_Earth_Orbit.private|Low_Earth_Orbit.private]]"
+    - "[[/_personal/Earth/Earth-Orbit/Low_Earth_Orbit.personal|Low_Earth_Orbit.personal]]"
+    - "[[/_secret/Earth/Earth-Orbit/Low_Earth_Orbit.secret|Low_Earth_Orbit.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Low_Earth_orbit,663611]]"
+  - "[[/_Standards/Earth/Earth-Orbit/Low_Earth_Orbit|Low_Earth_Orbit]]"
+  - "[[/_public/Earth/Earth-Orbit/Low_Earth_Orbit.public|Low_Earth_Orbit.public]]"
+  - "[[/_internal/Earth/Earth-Orbit/Low_Earth_Orbit.internal|Low_Earth_Orbit.internal]]"
+  - "[[/_protect/Earth/Earth-Orbit/Low_Earth_Orbit.protect|Low_Earth_Orbit.protect]]"
+  - "[[/_private/Earth/Earth-Orbit/Low_Earth_Orbit.private|Low_Earth_Orbit.private]]"
+  - "[[/_personal/Earth/Earth-Orbit/Low_Earth_Orbit.personal|Low_Earth_Orbit.personal]]"
+  - "[[/_secret/Earth/Earth-Orbit/Low_Earth_Orbit.secret|Low_Earth_Orbit.secret]]"
 ---
 
 # [[Low_Earth_Orbit]] 

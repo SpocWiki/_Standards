@@ -1,4 +1,26 @@
-﻿---
+---
+dv_"Artwork", "StatueOfLiberty: FredericAugusteBartholdi"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Statue_of_Liberty,9202|WD~Statue_of_Liberty,9202]]"
+    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty|Statue_of_Liberty]]"
+    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.public|Statue_of_Liberty.public]]"
+    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.internal|Statue_of_Liberty.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.protect|Statue_of_Liberty.protect]]"
+    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.private|Statue_of_Liberty.private]]"
+    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.personal|Statue_of_Liberty.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.secret|Statue_of_Liberty.secret]]"
+dv_artwork-statueofliberty: FredericAugusteBartholdi"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Statue_of_Liberty,9202|WD~Statue_of_Liberty,9202]]"
+  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty|Statue_of_Liberty]]"
+  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.public|Statue_of_Liberty.public]]"
+  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.internal|Statue_of_Liberty.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.protect|Statue_of_Liberty.protect]]"
+  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.private|Statue_of_Liberty.private]]"
+  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.personal|Statue_of_Liberty.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Statue_of_Liberty.secret|Statue_of_Liberty.secret]]"
+
 has_time_started: 1886 
 aliases:
   - Statue of Liberty
@@ -125,7 +147,7 @@ view: http://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20City%2C%20
 visitors_per_year: 4200000
 webcam_page_URL: https://share.earthcam.net/tJ90CoLmq7TzrY396Yd88I5yUI5fB6qcgNfvLV46ynk!.tJ90CoLmq7TzrY396Yd88FAPmLPx_8Tz2fAtvDt69GE!/statue_of_liberty_ellis_island_foundation/statue_of_liberty/live
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Statue%20of%20Liberty%201.jpg
-Wolfram_Language_entity_code: Entity["Artwork", "StatueOfLiberty::FredericAugusteBartholdi"]
+Wolfram_Language_entity_code: Entity"Artwork", "StatueOfLiberty = `=this.dv_"Artwork", "StatueOfLiberty`
 ---
 
 # [[Statue_of_Liberty]] 🗽 

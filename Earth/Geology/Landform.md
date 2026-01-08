@@ -8,34 +8,34 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - landform
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_landform Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_landform Class
 type: Type
 part_of:
-  - '[[_Standards/WikiData/WD~landscape,107425]]'
-  - '[[_Standards/WikiData/WD~terrain,186131]]'
+  - "[[_Standards/WikiData/WD~landscape,107425]]"
+  - "[[_Standards/WikiData/WD~terrain,186131]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~geographical_feature,618123]]'
-  - '[[_Standards/WikiData/WD~geographic_location,2221906]]'
-instance_of: '[[_Standards/WikiData/WD~feature_type,12046615]]'
-described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q130379630,130379630]]'
+  - "[[_Standards/WikiData/WD~geographical_feature,618123]]"
+  - "[[_Standards/WikiData/WD~geographic_location,2221906]]"
+instance_of: "[[_Standards/WikiData/WD~feature_type,12046615]]"
+described_by_source: "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q130379630,130379630]]"
 Wikidata_property: located in/on physical feature
 studied_by:
-  - '[[_Standards/WikiData/WD~Earth_science,8008]]'
-  - '[[_Standards/WikiData/WD~geomorphology,52109]]'
+  - "[[_Standards/WikiData/WD~Earth_science,8008]]"
+  - "[[_Standards/WikiData/WD~geomorphology,52109]]"
 U_S_National_Archives_Identifier: 10639796
 Commons_category: Landforms
 image:
@@ -45,9 +45,36 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/WOAHdubs.jpg
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20surface%20NGDC%202000.jpg
 equivalent_class:
-  - '[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q340,340]]'
+  - "[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q340,340]]"
   - https://schema.org/Landform
 Wikidata_usage_instructions: Instances of this class are actual physical landforms, e.g., Mount Everest, not types of landforms like glacier.
+dv_#is_:
+  sub_class_of: "[[../Geography/Place]]"
+dv_#has_:
+  sub_classes: "[ BodyOfWater, Continent, Mountain, Volcano ]"
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Landform,271669|WD~Landform,271669]]"
+    - "[[/_Standards/Earth/Geology/Landform|Landform]]"
+    - "[[/_public/Earth/Geology/Landform.public|Landform.public]]"
+    - "[[/_internal/Earth/Geology/Landform.internal|Landform.internal]]"
+    - "[[/_protect/Earth/Geology/Landform.protect|Landform.protect]]"
+    - "[[/_private/Earth/Geology/Landform.private|Landform.private]]"
+    - "[[/_personal/Earth/Geology/Landform.personal|Landform.personal]]"
+    - "[[/_secret/Earth/Geology/Landform.secret|Landform.secret]]"
+dv_is_sub_class_of: "[[../Geography/Place]]"
+dv_has_sub_classes: "[ BodyOfWater, Continent, Mountain, Volcano ]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Landform,271669|WD~Landform,271669]]"
+  - "[[/_Standards/Earth/Geology/Landform|Landform]]"
+  - "[[/_public/Earth/Geology/Landform.public|Landform.public]]"
+  - "[[/_internal/Earth/Geology/Landform.internal|Landform.internal]]"
+  - "[[/_protect/Earth/Geology/Landform.protect|Landform.protect]]"
+  - "[[/_private/Earth/Geology/Landform.private|Landform.private]]"
+  - "[[/_personal/Earth/Geology/Landform.personal|Landform.personal]]"
+  - "[[/_secret/Earth/Geology/Landform.secret|Landform.secret]]"
 ---
 
 # [[Landform]]
@@ -63,11 +90,11 @@ and oceanic waterbody interface features such as bays, peninsulas, seas and so f
 including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, 
 and the great ocean basins.
 
-[ #is_/sub_class_of ::[[../Geography/Place]]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`]] ]
 
-[ #has_/sub_classes :: [ BodyOfWater, Continent, Mountain, Volcano ] ]
+has_sub_classes = `=this.dv_has_sub_classes` ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 #is_/same_as :: [[../../WikiData/WD~Landform,271669|WD~Landform,271669]] 
 

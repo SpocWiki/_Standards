@@ -8,6 +8,26 @@ SpocWebEntityId: 76717
 tags:
   - geo/Country
 type: Country
+dv_name-en: EAST &amp; WEST PAKISTAN
+dv_name-de: Pakistan
+dv_has_place_continent: "[[../Asia]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN|EAST_&_WEST_PAKISTAN]]"
+    - "[[/_public/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.public|EAST_&_WEST_PAKISTAN.public]]"
+    - "[[/_internal/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.internal|EAST_&_WEST_PAKISTAN.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.protect|EAST_&_WEST_PAKISTAN.protect]]"
+    - "[[/_private/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.private|EAST_&_WEST_PAKISTAN.private]]"
+    - "[[/_personal/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.personal|EAST_&_WEST_PAKISTAN.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.secret|EAST_&_WEST_PAKISTAN.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN|EAST_&_WEST_PAKISTAN]]"
+  - "[[/_public/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.public|EAST_&_WEST_PAKISTAN.public]]"
+  - "[[/_internal/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.internal|EAST_&_WEST_PAKISTAN.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.protect|EAST_&_WEST_PAKISTAN.protect]]"
+  - "[[/_private/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.private|EAST_&_WEST_PAKISTAN.private]]"
+  - "[[/_personal/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.personal|EAST_&_WEST_PAKISTAN.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.secret|EAST_&_WEST_PAKISTAN.secret]]"
 ---
 
 [ISO2::]
@@ -21,11 +41,11 @@ geojsonFolder: ./EAST_&amp;_WEST_PAKISTAN/
 markerFolder: ./EAST_&amp;_WEST_PAKISTAN/
 ```
 
-[name-en::EAST &amp; WEST PAKISTAN]
-[name-de::Pakistan]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Asia]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]

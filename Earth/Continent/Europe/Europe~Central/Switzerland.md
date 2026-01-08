@@ -1,5 +1,102 @@
-﻿---
-location: [ 8.231973 , 46.798562 ] 
+---
+dv_name: Switzerland
+dv_name-en: Switzerland
+dv_name-es: Suiza
+dv_name-fr: Suisse
+dv_name-cn: 瑞士
+dv_name-ar: سويسرا
+dv_name-ru: Швейцария
+dv_name-de: Schweiz
+dv_ISO2: CH
+dv_ISO3: CHE
+dv_has_:
+  time_:
+    started: 1291-08-01T00:00:00.000+00:53
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Switzerland
+  image_for_:
+    flag: "![[./Switzerland/Flag_of_Switzerland.svg|200]] ![](./Switzerland/Flag_of_Switzerland.svg)"
+    coat_of_arms: "![[./Switzerland/Coat_of_arms_of_Switzerland.svg|150]] ![](./Switzerland/Coat_of_arms_of_Switzerland.svg)"
+  sound_of_:
+    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3]]"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland|Switzerland]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/Switzerland.public|Switzerland.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal|Switzerland.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland.protect|Switzerland.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/Switzerland.private|Switzerland.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal|Switzerland.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret|Switzerland.secret]]"
+dv_ISO4217-currency_alphabetic: CHF
+dv_ISO4217-currency_name: Swiss Franc
+dv_ISO4217-currency_numeric: 756
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SWITZERLAND
+dv_Telephone: 41
+dv_Global: true
+dv_Global_Name: World
+dv_CLDR_display_name: Switzerland
+dv_UNTERM_English: Switzerland
+dv_UNTERM_English_Formal: the Swiss Confederation
+dv_UNTERM_Spanish_Formal: la Confederación Suiza
+dv_UNTERM_Spanish: Suiza
+dv_UNTERM_French: Suisse (la)
+dv_UNTERM_Arabic: سويسرا
+dv_UNTERM_Arabic_Formal: الاتحاد السويسري
+dv_UNTERM_Chinese: 瑞士
+dv_UNTERM_Chinese_Formal: 瑞士联邦
+dv_UNTERM_French_Formal: la Confédération suisse
+dv_UNTERM_Russian: Швейцария
+dv_UNTERM_Russian_Formal: Швейцарская Конфедерация
+dv_Region_Name: "[Europe](_Standards/Earth/Continent/Europe.md)"
+dv_Intermediate_Region_Name: "[Switzerland](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland.md)"
+dv_Sub-region_Name: "[Western Europe](Western%20Europe)"
+dv_Region: 150
+dv_Sub-region: 155
+dv_Geoname-ID: 2658434
+dv_FIPS: SZ
+dv_FIFA: SUI
+dv_IOC: SUI
+dv_MARC: sz
+dv_GAUL: 237
+dv_WMO: SW
+dv_ITU: SUI
+dv_DS: CH
+dv_TLD: .ch
+dv_EDGAR: V8
+dv_M49: 756
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 756
+dv_Area-Total: 39988
+dv_Area-Land: 39550
+dv_has_place_continent: "[Europe](_Standards/Earth/Continent/Europe.md)"
+dv_VehicleCode: CH
+dv_Capital: "[Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern.md)"
+dv_Alcohol-l: 11.1
+dv_Language-Id: 497
+dv_is_a_: "[Place](../../../Geography/Place.md)"
+dv_has_place_longitude: 8.46058
+dv_has_place_latitude: 46.8963
+dv_has_time_started: 1291-08-01
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Switzerland|Switzerland]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/Switzerland.public|Switzerland.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal|Switzerland.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Switzerland.protect|Switzerland.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/Switzerland.private|Switzerland.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal|Switzerland.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret|Switzerland.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Switzerland
+dv_has_image_for_flag: "![[./Switzerland/Flag_of_Switzerland.svg|200]] ![](./Switzerland/Flag_of_Switzerland.svg)"
+dv_has_image_for_coat_of_arms: "![[./Switzerland/Coat_of_arms_of_Switzerland.svg|150]] ![](./Switzerland/Coat_of_arms_of_Switzerland.svg)"
+dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3]]"
+dv_developed_developing_countries: Developed
+
 aliases:
   - Switzerland
   - Suiza
@@ -459,29 +556,43 @@ X_Twitter_username: BR_Sprecher
 ---
 # [[Switzerland]] 
 
+## #has_/map  
+
+```leaflet
+id: Switzerland
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Switzerland//
+markerFolder: ./Switzerland//
+coordinates: [[Switzerland]] 
+markerFile: [[Switzerland]] 
+defaultZoom: 5 
+```
+
 ## International Names
 
-[	name	 :: Switzerland ] 
-[	name-en	 :: Switzerland ] 
-[	name-es	 :: Suiza ]
-[	name-fr	 :: Suisse ]
-[	name-cn	 :: 瑞士 ]
-[	name-ar	 :: سويسرا ]
-[	name-ru	 :: Швейцария ] 
-[name-de::Schweiz]
+name = `=this.dv_name` 
+name-en = `=this.dv_name-en` 
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru` 
+name-de = `=this.dv_name-de`
 
-[ISO2::CH]
-[ISO3::CHE]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#has_/time_/started :: 1291-08-01 
-#is_/same_as :: [[../../../../WikiData/WD~Switzerland,39|WD~Switzerland,39]] 
+has_time_started = `=this.dv_has_time_started`
+is_a_ = `=this.dv_is_a_`
 
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Switzerland)
 into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository works: [[Switzerland/ReadMe]] 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Switzerland 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
@@ -522,7 +633,7 @@ Numbers are of 2022-06
 
 ### #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./Switzerland/Flag_of_Switzerland.svg|200]] <img src="./Switzerland/Flag_of_Switzerland.svg" width="200"/> 
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 
 ## #has_/place_/city   
@@ -543,7 +654,6 @@ Population in 1000s as of @2024
 | [[Switzerland/Switzerland~Cantons/Ticino/City/Lugano\|Lugano]]                                                                    | [[Switzerland/Switzerland~Cantons/Ticino\|Ticino]]                     |     62.615 |
 
 ## #has_/text_of_/abstract  
-
 
 > **Switzerland**, officially the Swiss Confederation, 
 > is a landlocked country located in west-central Europe. 
@@ -636,91 +746,81 @@ Only 143,372 are in the hands of soldiers. However, ammunition is no longer iss
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Switzerland/Coat_of_arms_of_Switzerland.svg|150]] <img src="./Switzerland/Coat_of_arms_of_Switzerland.svg" width="150"/> 
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
 
-#has_/sound_of_/anthem :: ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3]]
+has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
 
-### #has_/map  
 
-```leaflet
-id: Switzerland
-zoomFeatures: true 
-minZoom: 4 
-maxZoom: 18
-geojsonFolder: ./Switzerland//
-markerFolder: ./Switzerland//
-```
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	ISO4217-currency_alphabetic	 :: CHF ]
-[	ISO4217-currency_name	 :: Swiss Franc ]
-[	ISO4217-currency_numeric	 :: 756 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SWITZERLAND ]
+Telephone = `=this.dv_Telephone`
 
-[	Telephone	 :: 41 ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	CLDR_display_name	 :: Switzerland ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-[	UNTERM_English	 :: Switzerland ]
-[	UNTERM_English_Formal	 :: the Swiss Confederation ]
-[	UNTERM_Spanish_Formal	 :: la Confederación Suiza ]
-[	UNTERM_Spanish	 :: Suiza ]
-[	UNTERM_French	 :: Suisse (la) ]
-[	UNTERM_Arabic	 :: سويسرا ]
-[	UNTERM_Arabic_Formal	 :: الاتحاد السويسري ]
-[	UNTERM_Chinese	 :: 瑞士 ]
-[	UNTERM_Chinese_Formal	 :: 瑞士联邦 ]
-[	UNTERM_French_Formal	 :: la Confédération suisse ]
-[	UNTERM_Russian	 :: Швейцария ]
-[	UNTERM_Russian_Formal	 :: Швейцарская Конфедерация ]
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-Region_Name ::  [Europe](_Standards/Earth/Continent/Europe.md) 
-Intermediate_Region_Name ::  [Switzerland](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland.md) 
-Sub-region_Name ::  [Western Europe](Western%20Europe) 
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 155 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	Geoname-ID	 :: 2658434 ]
-[	FIPS	 :: SZ ]
-[	FIFA	 :: SUI ]
-[	IOC	 :: SUI ]
-[	MARC	 :: sz ]
-[	GAUL	 :: 237 ]
-[	WMO	 :: SW ]
-[	ITU	 :: SUI ]
-[	DS	 :: CH ]
-[	TLD	 :: .ch ]
-[	EDGAR	 :: V8 ]
-[	M49	 :: 756 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 756 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
 
-[Area-Total::39988]
-[Area-Land::39550]
-has_place_continent:: [Europe](_Standards/Earth/Continent/Europe.md)  
-[VehicleCode::CH]
-Capital :: [Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern.md)  
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
-[Alcohol-l::11.1]
-[Language-Id::497]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [Place](../../../Geography/Place.md) 
-[has_place_longitude::8.46058]
-[has_place_latitude::46.8963]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 

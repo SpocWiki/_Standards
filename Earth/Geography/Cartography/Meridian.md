@@ -29,6 +29,25 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Meridians.png
 Unicode_character: 🌐
 Krugosvet_article_archived_: Earth_sciences/geografiya/MERIDIAN.html
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Meridian,32099]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Meridian|Meridian]]"
+    - "[[/_public/Earth/Geography/Cartography/Meridian.public|Meridian.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Meridian.internal|Meridian.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Meridian.protect|Meridian.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Meridian.private|Meridian.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Meridian.personal|Meridian.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Meridian.secret|Meridian.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Meridian,32099]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Meridian|Meridian]]"
+  - "[[/_public/Earth/Geography/Cartography/Meridian.public|Meridian.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Meridian.internal|Meridian.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Meridian.protect|Meridian.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Meridian.private|Meridian.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Meridian.personal|Meridian.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Meridian.secret|Meridian.secret]]"
 ---
 
 # [[Meridian]] 🌐 

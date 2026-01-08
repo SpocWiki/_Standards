@@ -1,8 +1,31 @@
+---
+dv_is_:
+  opposite_of: "[[Left_Bank]]"
+  part_of: "[[Orography]]"
+  same_as:
+    - "[[/_Standards/Earth/Geography/Right_Bank|Right_Bank]]"
+    - "[[/_public/Earth/Geography/Right_Bank.public|Right_Bank.public]]"
+    - "[[/_internal/Earth/Geography/Right_Bank.internal|Right_Bank.internal]]"
+    - "[[/_protect/Earth/Geography/Right_Bank.protect|Right_Bank.protect]]"
+    - "[[/_private/Earth/Geography/Right_Bank.private|Right_Bank.private]]"
+    - "[[/_personal/Earth/Geography/Right_Bank.personal|Right_Bank.personal]]"
+    - "[[/_secret/Earth/Geography/Right_Bank.secret|Right_Bank.secret]]"
+dv_is_opposite_of: "[[Left_Bank]]"
+dv_is_part_of: "[[Orography]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Geography/Right_Bank|Right_Bank]]"
+  - "[[/_public/Earth/Geography/Right_Bank.public|Right_Bank.public]]"
+  - "[[/_internal/Earth/Geography/Right_Bank.internal|Right_Bank.internal]]"
+  - "[[/_protect/Earth/Geography/Right_Bank.protect|Right_Bank.protect]]"
+  - "[[/_private/Earth/Geography/Right_Bank.private|Right_Bank.private]]"
+  - "[[/_personal/Earth/Geography/Right_Bank.personal|Right_Bank.personal]]"
+  - "[[/_secret/Earth/Geography/Right_Bank.secret|Right_Bank.secret]]"
+---
 
 # [[Right_Bank]] 
 
-#is_/opposite_of :: [[Left_Bank]] 
-#is_/part_of :: [[Orography]]
+is_opposite_of = `=this.dv_is_opposite_of`
+is_part_of = `=this.dv_is_part_of`
 
 ## #has_/text_of_/abstract 
 

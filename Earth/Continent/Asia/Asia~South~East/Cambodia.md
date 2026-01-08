@@ -1,5 +1,93 @@
-﻿---
-location: [ 105.0 , 12.5 ] 
+---
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Cambodia
+dv_ISO4217-currency_alphabetic: KHR
+dv_ISO4217-currency_name: Riel
+dv_ISO4217-currency_numeric: 116
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: CAMBODIA
+dv_Telephone: 855
+dv_Global: true
+dv_Global_Name: World
+dv_name: Cambodia
+dv_name-en:
+  - Cambodia
+  - Cambodia
+dv_name-es: Camboya
+dv_name-fr: Cambodge
+dv_name-cn: 柬埔寨
+dv_name-ar: كمبوديا
+dv_name-ru: Камбоджа
+dv_CLDR_display_name: Cambodia
+dv_UNTERM_English: Cambodia
+dv_UNTERM_English_Formal: the Kingdom of Cambodia
+dv_UNTERM_Spanish_Formal: el Reino de Camboya
+dv_UNTERM_Spanish: Camboya
+dv_UNTERM_French: Cambodge (le)
+dv_UNTERM_Arabic: كمبوديا
+dv_UNTERM_Arabic_Formal: مملكة كمبوديا
+dv_UNTERM_Chinese: 柬埔寨
+dv_UNTERM_Chinese_Formal: 柬埔寨王国
+dv_UNTERM_French_Formal: le Royaume du Cambodge
+dv_UNTERM_Russian: Камбоджа
+dv_UNTERM_Russian_Formal: Королевство Камбоджа
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Cambodia]]"
+dv_Sub-region_Name: "[[South-eastern Asia]]"
+dv_Region: 142
+dv_Sub-region: 35
+dv_Geoname-ID: 1831722
+dv_FIPS: CB
+dv_FIFA: CAM
+dv_IOC: CAM
+dv_MARC: cb
+dv_GAUL: 44
+dv_WMO: KP
+dv_ITU: CBG
+dv_DS: K
+dv_TLD: .kh
+dv_EDGAR: E3
+dv_M49: 116
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 116
+dv_ISO2: KH
+dv_ISO3: KHM
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Cambodia,424|WD~Cambodia,424]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia|Cambodia]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia.public|Cambodia.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia.internal|Cambodia.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia.protect|Cambodia.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia.private|Cambodia.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia.personal|Cambodia.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia.secret|Cambodia.secret]]"
+dv_name-de: Kambodscha
+dv_Area-Total: 181035
+dv_Area-Land: 176520
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: K
+dv_Capital: "[[Phnom_Penh]]"
+dv_Alcohol-l: 4.8
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 104.917
+dv_has_place_latitude: 11.55
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Cambodia
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Cambodia,424|WD~Cambodia,424]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Cambodia|Cambodia]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Cambodia.public|Cambodia.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Cambodia.internal|Cambodia.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Cambodia.protect|Cambodia.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Cambodia.private|Cambodia.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Cambodia.personal|Cambodia.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Cambodia.secret|Cambodia.secret]]"
+
 aliases:
   - Cambodia
   - Camboya
@@ -358,83 +446,83 @@ Krugosvet_article: strany_mira/KAMBODZHA.html
 
 # [[Cambodia]] 
 
+## [[Cambodia]] has Properties 
+
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
+
+Telephone = `=this.dv_Telephone`
+
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
+[	name-en	 :: Cambodia ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
+
+CLDR_display_name = `=this.dv_CLDR_display_name`
+
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
+
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
+
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
+
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
+
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
+[	Small_is_a_ = `=this.dv_is_a_`
+
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
+
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
+
+is_a_ = `=this.dv_is_a_`
+
+
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Cambodia 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Cambodia/ReadMe]] 
 
-
-[	ISO4217-currency_alphabetic	 :: KHR ]
-[	ISO4217-currency_name	 :: Riel ]
-[	ISO4217-currency_numeric	 :: 116 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: CAMBODIA ]
-
-[	Telephone	 :: 855 ]
-
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
-
-[	name	 :: Cambodia ]
-[	name-en	 :: Cambodia ]
-[	name-es	 :: Camboya ]
-[	name-fr	 :: Cambodge ]
-[	name-cn	 :: 柬埔寨 ]
-[	name-ar	 :: كمبوديا ]
-[	name-ru	 :: Камбоджа ]
-
-[	CLDR_display_name	 :: Cambodia ]
-
-[	UNTERM_English	 :: Cambodia ]
-[	UNTERM_English_Formal	 :: the Kingdom of Cambodia ]
-[	UNTERM_Spanish_Formal	 :: el Reino de Camboya ]
-[	UNTERM_Spanish	 :: Camboya ]
-[	UNTERM_French	 :: Cambodge (le) ]
-[	UNTERM_Arabic	 :: كمبوديا ]
-[	UNTERM_Arabic_Formal	 :: مملكة كمبوديا ]
-[	UNTERM_Chinese	 :: 柬埔寨 ]
-[	UNTERM_Chinese_Formal	 :: 柬埔寨王国 ]
-[	UNTERM_French_Formal	 :: le Royaume du Cambodge ]
-[	UNTERM_Russian	 :: Камбоджа ]
-[	UNTERM_Russian_Formal	 :: Королевство Камбоджа ]
-
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[South-eastern Asia]] 
-
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 35 ]
-
-[	Geoname-ID	 :: 1831722 ]
-[	FIPS	 :: CB ]
-[	FIFA	 :: CAM ]
-[	IOC	 :: CAM ]
-[	MARC	 :: cb ]
-[	GAUL	 :: 44 ]
-[	WMO	 :: KP ]
-[	ITU	 :: CBG ]
-[	DS	 :: K ]
-[	TLD	 :: .kh ]
-[	EDGAR	 :: E3 ]
-[	M49	 :: 116 ]
-
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 :: x ]
-[	Small_Island_Developing_States	 ::  ]
-
-[	ISO3166-1-numeric	 :: 116 ]
-
-[ISO2::KH]
-[ISO3::KHM] 
-
-#is_/same_as :: [[../../../../WikiData/WD~Cambodia,424|WD~Cambodia,424]] 
-
 ## #has_/map  
-
-
 
 ```leaflet
 id: Cambodia
@@ -443,24 +531,27 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Cambodia// 
 markerFolder: ./Cambodia/
+coordinates: [[Cambodia]] 
+markerFile: [[Cambodia]] 
+defaultZoom: 5 
 ```
 
 [name-en::Cambodia]
-[name-de::Kambodscha]
-[Area-Total::181035]
-[Area-Land::176520]
-has_place_continent:: [[Asia]]  
-[VehicleCode::K]
-Capital :: [[Phnom_Penh]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Cambodia.svg|350]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Cambodia.mp3]]
 ![[Flag_of_Cambodia.svg|350]]
-[Alcohol-l::4.8]
+Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::104.917]
-[has_place_latitude::11.55]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

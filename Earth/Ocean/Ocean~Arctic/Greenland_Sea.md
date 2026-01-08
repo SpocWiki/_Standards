@@ -5,40 +5,40 @@ aliases:
   - Greenland Sea
 has_id_wikidata: Q132868
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Q35541239,35541239]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 country:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]'
-  - '[[_Standards/WikiData/WD~Norway,20]]'
+  - "[[_Standards/WikiData/WD~Kingdom_of_Denmark,756617]]"
+  - "[[_Standards/WikiData/WD~Norway,20]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Bellsund,816053]]'
-  - '[[_Standards/WikiData/WD~Hornsund,1442928]]'
-  - '[[_Standards/WikiData/WD~Van_Mijenfjorden,1586804]]'
-  - '[[_Standards/WikiData/WD~Wijdefjorden,1782839]]'
-  - '[[_Standards/WikiData/WD~Woodfjorden,2541605]]'
-  - '[[_Standards/WikiData/WD~Nioghalvfjerdsfjorden,3877267]]'
-  - '[[_Standards/WikiData/WD~Skærfjorden,3962672]]'
-  - '[[_Standards/WikiData/WD~Davy_Sund,21808580]]'
-  - '[[_Standards/WikiData/WD~Carlsberg_Fjord,21822129]]'
-  - '[[_Standards/WikiData/WD~Nathorst_Fjord,21822140]]'
-  - '[[_Standards/WikiData/WD~Fleming_Fjord,21822419]]'
-  - '[[_Standards/WikiData/WD~Storefjord,21822478]]'
-  - '[[_Standards/WikiData/WD~Mountnorris_Fjord,21825534]]'
-  - '[[_Standards/WikiData/WD~Shannon_Sund,21856674]]'
-  - '[[_Standards/WikiData/WD~Store_Bælt,21857484]]'
-  - '[[_Standards/WikiData/WD~Lille_Bælt,21880721]]'
-  - '[[_Standards/WikiData/WD~Orléans_Sound,21895480]]'
-  - '[[_Standards/WikiData/WD~Dijmphna_Sund,21899391]]'
-  - '[[_Standards/WikiData/WD~Ingolf_Fjord,21901318]]'
-  - '[[_Standards/WikiData/WD~Øresund,24818550]]'
-  - '[[_Standards/WikiData/WD~Vega_Sund,24819817]]'
-category_for_the_water_basin: '[[_Standards/WikiData/WD~Q9619117,9619117]]'
-part_of: '[[_Standards/WikiData/WD~Arctic_Ocean,788]]'
+  - "[[_Standards/WikiData/WD~Bellsund,816053]]"
+  - "[[_Standards/WikiData/WD~Hornsund,1442928]]"
+  - "[[_Standards/WikiData/WD~Van_Mijenfjorden,1586804]]"
+  - "[[_Standards/WikiData/WD~Wijdefjorden,1782839]]"
+  - "[[_Standards/WikiData/WD~Woodfjorden,2541605]]"
+  - "[[_Standards/WikiData/WD~Nioghalvfjerdsfjorden,3877267]]"
+  - "[[_Standards/WikiData/WD~Skærfjorden,3962672]]"
+  - "[[_Standards/WikiData/WD~Davy_Sund,21808580]]"
+  - "[[_Standards/WikiData/WD~Carlsberg_Fjord,21822129]]"
+  - "[[_Standards/WikiData/WD~Nathorst_Fjord,21822140]]"
+  - "[[_Standards/WikiData/WD~Fleming_Fjord,21822419]]"
+  - "[[_Standards/WikiData/WD~Storefjord,21822478]]"
+  - "[[_Standards/WikiData/WD~Mountnorris_Fjord,21825534]]"
+  - "[[_Standards/WikiData/WD~Shannon_Sund,21856674]]"
+  - "[[_Standards/WikiData/WD~Store_Bælt,21857484]]"
+  - "[[_Standards/WikiData/WD~Lille_Bælt,21880721]]"
+  - "[[_Standards/WikiData/WD~Orléans_Sound,21895480]]"
+  - "[[_Standards/WikiData/WD~Dijmphna_Sund,21899391]]"
+  - "[[_Standards/WikiData/WD~Ingolf_Fjord,21901318]]"
+  - "[[_Standards/WikiData/WD~Øresund,24818550]]"
+  - "[[_Standards/WikiData/WD~Vega_Sund,24819817]]"
+category_for_the_water_basin: "[[_Standards/WikiData/WD~Q9619117,9619117]]"
+part_of: "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
 elevation_above_sea_level: 0
-instance_of: '[[_Standards/WikiData/WD~sea,165]]'
-basin_country: '[[_Standards/WikiData/WD~Greenland,223]]'
+instance_of: "[[_Standards/WikiData/WD~sea,165]]"
+basin_country: "[[_Standards/WikiData/WD~Greenland,223]]"
 vertical_depth:
   - 4800
   - 5600
@@ -49,6 +49,25 @@ bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/GreenlandSe
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Groenlandzee.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Iceberg%2C%20Greenland%20Sea%20%28js%291.jpg
 coordinate_location: Point(-8.170555555 76.668888888)
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Greenland_Sea,132868]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Arctic/Greenland_Sea|Greenland_Sea]]"
+    - "[[/_public/Earth/Ocean/Ocean~Arctic/Greenland_Sea.public|Greenland_Sea.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Arctic/Greenland_Sea.internal|Greenland_Sea.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Arctic/Greenland_Sea.protect|Greenland_Sea.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Arctic/Greenland_Sea.private|Greenland_Sea.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Arctic/Greenland_Sea.personal|Greenland_Sea.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Arctic/Greenland_Sea.secret|Greenland_Sea.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Greenland_Sea,132868]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Arctic/Greenland_Sea|Greenland_Sea]]"
+  - "[[/_public/Earth/Ocean/Ocean~Arctic/Greenland_Sea.public|Greenland_Sea.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Arctic/Greenland_Sea.internal|Greenland_Sea.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Arctic/Greenland_Sea.protect|Greenland_Sea.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Arctic/Greenland_Sea.private|Greenland_Sea.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Arctic/Greenland_Sea.personal|Greenland_Sea.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Arctic/Greenland_Sea.secret|Greenland_Sea.secret]]"
 ---
 
 # [[../../../Society/Economics/Industry/Agriculture/Greenhouse|Greenhouse]] 

@@ -295,77 +295,171 @@ Languages:
   - st
   - zu
   - xh
+dv_ISO4217-currency_alphabetic: LSL,ZAR
+dv_ISO4217-currency_name: Loti,Rand
+dv_ISO4217-currency_numeric:
+  - 426
+  - 710
+dv_ISO4217-currency_minor_unit:
+  - 2
+  - 2
+dv_ISO4217-currency_country_name: LESOTHO
+dv_Telephone: 266
+dv_Global: true
+dv_Global_Name: World
+dv_name: Lesotho
+dv_name-en:
+  - Lesotho
+  - Lesotho
+dv_name-es: Lesotho
+dv_name-fr: Lesotho
+dv_name-cn: 莱索托
+dv_name-ar: ليسوتو
+dv_name-ru: Лесото
+dv_CLDR_display_name: Lesotho
+dv_UNTERM_English: Lesotho
+dv_UNTERM_English_Formal: the Kingdom of Lesotho
+dv_UNTERM_Spanish_Formal: el Reino de Lesotho
+dv_UNTERM_Spanish: Lesotho
+dv_UNTERM_French: Lesotho (le)
+dv_UNTERM_Arabic: ليسوتو
+dv_UNTERM_Arabic_Formal: مملكة ليسوتو
+dv_UNTERM_Chinese: 莱索托
+dv_UNTERM_Chinese_Formal: 莱索托王国
+dv_UNTERM_French_Formal: le Royaume du Lesotho
+dv_UNTERM_Russian: Лесото
+dv_UNTERM_Russian_Formal: Королевство Лесото
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Southern Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 18
+dv_Sub-region: 202
+dv_Geoname-ID: 932692
+dv_FIPS: LT
+dv_FIFA: LES
+dv_IOC: LES
+dv_MARC: lo
+dv_GAUL: 142
+dv_WMO: LS
+dv_ITU: LSO
+dv_DS: LS
+dv_TLD: .ls
+dv_EDGAR: M9
+dv_M49: 426
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_Least_Developed_Countries: x
+dv_ISO3166-1-numeric: 426
+dv_ISO2: LS
+dv_ISO3: LSO
+dv_name-de: Lesotho
+dv_Area-Total: 30355
+dv_Area-Land: 30350
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: LS
+dv_Alcohol-l: 5.6
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 27.9333
+dv_has_place_latitude: -29.4667
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~South/Lesotho|Lesotho]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~South/Lesotho.public|Lesotho.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~South/Lesotho.internal|Lesotho.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~South/Lesotho.protect|Lesotho.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~South/Lesotho.private|Lesotho.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal|Lesotho.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret|Lesotho.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Lesotho
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~South/Lesotho|Lesotho]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~South/Lesotho.public|Lesotho.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~South/Lesotho.internal|Lesotho.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~South/Lesotho.protect|Lesotho.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~South/Lesotho.private|Lesotho.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal|Lesotho.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret|Lesotho.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Lesotho
 ---
 
 # [[Lesotho]] 
 
-[	ISO4217-currency_alphabetic	 :: LSL,ZAR ]
-[	ISO4217-currency_name	 :: Loti,Rand ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 [	ISO4217-currency_numeric	 :: 426,710 ]
 [	ISO4217-currency_minor_unit	 :: 2,2 ]
-[	ISO4217-currency_country_name	 :: LESOTHO ]
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 266 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Lesotho ]
+name = `=this.dv_name`
 [	name-en	 :: Lesotho ]
-[	name-es	 :: Lesotho ]
-[	name-fr	 :: Lesotho ]
-[	name-cn	 :: 莱索托 ]
-[	name-ar	 :: ليسوتو ]
-[	name-ru	 :: Лесото ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Lesotho ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Lesotho ]
-[	UNTERM_English_Formal	 :: the Kingdom of Lesotho ]
-[	UNTERM_Spanish_Formal	 :: el Reino de Lesotho ]
-[	UNTERM_Spanish	 :: Lesotho ]
-[	UNTERM_French	 :: Lesotho (le) ]
-[	UNTERM_Arabic	 :: ليسوتو ]
-[	UNTERM_Arabic_Formal	 :: مملكة ليسوتو ]
-[	UNTERM_Chinese	 :: 莱索托 ]
-[	UNTERM_Chinese_Formal	 :: 莱索托王国 ]
-[	UNTERM_French_Formal	 :: le Royaume du Lesotho ]
-[	UNTERM_Russian	 :: Лесото ]
-[	UNTERM_Russian_Formal	 :: Королевство Лесото ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Southern Africa]]  
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 18 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 932692 ]
-[	FIPS	 :: LT ]
-[	FIFA	 :: LES ]
-[	IOC	 :: LES ]
-[	MARC	 :: lo ]
-[	GAUL	 :: 142 ]
-[	WMO	 :: LS ]
-[	ITU	 :: LSO ]
-[	DS	 :: LS ]
-[	TLD	 :: .ls ]
-[	EDGAR	 :: M9 ]
-[	M49	 :: 426 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
-[	Least_Developed_Countries	 :: x ]
-[	Small_Island_Developing_States	 ::  ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries`
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 426 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
 
-[ISO2::LS]
-[ISO3::LSO]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 ```leaflet
 id: Lesotho
 zoomFeatures: true 
@@ -376,11 +470,11 @@ markerFolder: ./Lesotho//
 ```
 
 [name-en::Lesotho]
-[name-de::Lesotho]
-[Area-Total::30355]
-[Area-Land::30350]
-has_place_continent:: [[Africa]]  
-[VehicleCode::LS]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Maseru]]  
 
 ![[Coat_of_arms_of_Lesotho.svg|550]]
@@ -388,17 +482,17 @@ Capital :: [[Maseru]]
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Lesotho.mp3]]
 
 ![[Flag_of_Lesotho.svg|350]]
-[Alcohol-l::5.6]
-[Language-Id::499]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::27.9333]
-[has_place_latitude::-29.4667]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
-#is_/same_as :: [[../../../../WikiData/WD~Lesotho,1013|WD~Lesotho,1013]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Lesotho 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Lesotho/ReadMe]] 
 

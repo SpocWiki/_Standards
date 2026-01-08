@@ -1,6 +1,28 @@
-﻿---
+---
+dv_"Building", "LeaningTowerOfPisa: snx99"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Leaning_Tower_of_Pisa,39054|WD~Leaning_Tower_of_Pisa,39054]]"
+    - "[[/_Standards/Earth/Geography/Place/Leaning_Tower_of_Pisa|Leaning_Tower_of_Pisa]]"
+    - "[[/_public/Earth/Geography/Place/Leaning_Tower_of_Pisa.public|Leaning_Tower_of_Pisa.public]]"
+    - "[[/_internal/Earth/Geography/Place/Leaning_Tower_of_Pisa.internal|Leaning_Tower_of_Pisa.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Leaning_Tower_of_Pisa.protect|Leaning_Tower_of_Pisa.protect]]"
+    - "[[/_private/Earth/Geography/Place/Leaning_Tower_of_Pisa.private|Leaning_Tower_of_Pisa.private]]"
+    - "[[/_personal/Earth/Geography/Place/Leaning_Tower_of_Pisa.personal|Leaning_Tower_of_Pisa.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Leaning_Tower_of_Pisa.secret|Leaning_Tower_of_Pisa.secret]]"
+dv_building-leaningtowerofpisa: snx99"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Leaning_Tower_of_Pisa,39054|WD~Leaning_Tower_of_Pisa,39054]]"
+  - "[[/_Standards/Earth/Geography/Place/Leaning_Tower_of_Pisa|Leaning_Tower_of_Pisa]]"
+  - "[[/_public/Earth/Geography/Place/Leaning_Tower_of_Pisa.public|Leaning_Tower_of_Pisa.public]]"
+  - "[[/_internal/Earth/Geography/Place/Leaning_Tower_of_Pisa.internal|Leaning_Tower_of_Pisa.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Leaning_Tower_of_Pisa.protect|Leaning_Tower_of_Pisa.protect]]"
+  - "[[/_private/Earth/Geography/Place/Leaning_Tower_of_Pisa.private|Leaning_Tower_of_Pisa.private]]"
+  - "[[/_personal/Earth/Geography/Place/Leaning_Tower_of_Pisa.personal|Leaning_Tower_of_Pisa.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Leaning_Tower_of_Pisa.secret|Leaning_Tower_of_Pisa.secret]]"
+
 has_time_started: 1173-01-01 
-location: [ 10.396624 , 43.72301 ] 
+location: [ 43.72301, 10.396624 ] 
 aliases:
   - Leaning Tower of Pisa
   - Leaning_Tower_of_Pisa
@@ -11,7 +33,7 @@ official_website:
   - https://www.opapisa.it/visita/torre-pendente/
   - https://www.opapisa.it/en/square-of-miracles/tower/
 P8189: 987007539202605171
-Wolfram_Language_entity_code: Entity["Building", "LeaningTowerOfPisa::snx99"]
+Wolfram_Language_entity_code: Entity"Building", "LeaningTowerOfPisa = `=this.dv_"Building", "LeaningTowerOfPisa`
 Krugosvet_article:
   - kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PADAYUSHCHAYA_BASHNYA.html
   - kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PIZANSKAYA_BASHNYA.html
@@ -119,9 +141,23 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20di%20pi
 
 # [[Leaning_Tower_of_Pisa]] 
 
-[[../../../assets/Leaning_Tower_of_Pisa.png]] 
+![[../../../assets/Leaning_Tower_of_Pisa.png]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Leaning_Tower_of_Pisa,39054|WD~Leaning_Tower_of_Pisa,39054]] 
+
+## #has_/map  
+
+```leaflet
+id: Leaning_Tower_of_Pisa
+zoomFeatures: false 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Leaning_Tower_of_Pisa//
+markerFolder: ./Leaning_Tower_of_Pisa/
+coordinates: [[Leaning_Tower_of_Pisa]] 
+markerFile: [[Leaning_Tower_of_Pisa]] 
+defaultZoom: 17 
+```
 
 ## #has_/text_of_/abstract 
 

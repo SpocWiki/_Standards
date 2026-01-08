@@ -1,5 +1,90 @@
-﻿---
-location: [ 173.033333333 , 1.466666666 ] 
+---
+dv_ISO4217-currency_alphabetic: AUD
+dv_ISO4217-currency_name: Australian Dollar
+dv_ISO4217-currency_numeric: 36
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: KIRIBATI
+dv_Telephone: 686
+dv_Global: true
+dv_Global_Name: World
+dv_name: Kiribati
+dv_name-en:
+  - Kiribati
+  - Kiribati
+dv_name-es: Kiribati
+dv_name-fr: Kiribati
+dv_name-cn: 基里巴斯
+dv_name-ar: كيريباس
+dv_name-ru: Кирибати
+dv_CLDR_display_name: Kiribati
+dv_UNTERM_English: Kiribati
+dv_UNTERM_English_Formal: the Republic of Kiribati
+dv_UNTERM_Spanish_Formal: la República de Kiribati
+dv_UNTERM_Spanish: Kiribati
+dv_UNTERM_French: Kiribati [fém.]
+dv_UNTERM_Arabic: كيريباس
+dv_UNTERM_Arabic_Formal: جمهورية كيريباس
+dv_UNTERM_Chinese: 基里巴斯
+dv_UNTERM_Chinese_Formal: 基里巴斯共和国
+dv_UNTERM_French_Formal: la République de Kiribati
+dv_UNTERM_Russian: Кирибати
+dv_UNTERM_Russian_Formal: Республика Кирибати
+dv_Region_Name: "[[../../Oceania]]"
+dv_Intermediate_Region_Name: "[[Kiribati]]"
+dv_Sub-region_Name: "[[../Micronesia]]"
+dv_Region: 9
+dv_Sub-region: 57
+dv_Geoname-ID: 4030945
+dv_FIPS: KR
+dv_FIFA: KIR
+dv_IOC: KIR
+dv_MARC: gb
+dv_GAUL: 135
+dv_WMO: KB
+dv_ITU: KIR
+dv_TLD: .ki
+dv_EDGAR: J2
+dv_M49: 296
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 296
+dv_ISO2: KI
+dv_ISO3: KIR
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Kiribati,710|WD~Kiribati,710]]"
+    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Kiribati|Kiribati]]"
+    - "[[/_public/Earth/Continent/Australasia/Micronesia/Kiribati.public|Kiribati.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Kiribati.internal|Kiribati.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Kiribati.protect|Kiribati.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/Micronesia/Kiribati.private|Kiribati.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Kiribati.personal|Kiribati.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Kiribati.secret|Kiribati.secret]]"
+dv_name-de: Kiribati
+dv_Area-Total: 811
+dv_Area-Land: 730
+dv_has_place_continent: "[[../../Oceania]]"
+dv_VehicleCode: KIR
+dv_Capital: "[[Kiribati/South_Tarawa]]"
+dv_Alcohol-l: 3.7
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 172.967
+dv_has_place_latitude: 1.4
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Kiribati,710|WD~Kiribati,710]]"
+  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Kiribati|Kiribati]]"
+  - "[[/_public/Earth/Continent/Australasia/Micronesia/Kiribati.public|Kiribati.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Kiribati.internal|Kiribati.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Kiribati.protect|Kiribati.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/Micronesia/Kiribati.private|Kiribati.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Kiribati.personal|Kiribati.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Kiribati.secret|Kiribati.secret]]"
+
 aliases:
   - Kiribati
   - كيريباس
@@ -257,75 +342,77 @@ icon: flag-ki
 
 # [[Kiribati]] 
 
+## [[Kiribati]] has Properties...
+
 [[Kiribati]] is difficult for Mapping, because its many Islands range in Longitude from 172° across the [[../../../Geography/Cartography/Meridian/Anti-Meridian]] to 210°. 
 
-[	ISO4217-currency_alphabetic	 :: AUD ] 
-[	ISO4217-currency_name	 :: Australian Dollar ] 
-[	ISO4217-currency_numeric	 :: 036 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: KIRIBATI ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 686 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Kiribati ] 
+name = `=this.dv_name` 
 [	name-en	 :: Kiribati ] 
-[	name-es	 :: Kiribati ] 
-[	name-fr	 :: Kiribati ] 
-[	name-cn	 :: 基里巴斯 ] 
-[	name-ar	 :: كيريباس ] 
-[	name-ru	 :: Кирибати ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Kiribati ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Kiribati ] 
-[	UNTERM_English_Formal	 :: the Republic of Kiribati ] 
-[	UNTERM_Spanish_Formal	 :: la República de Kiribati ] 
-[	UNTERM_Spanish	 :: Kiribati ] 
-[	UNTERM_French	 :: Kiribati [fém.] ] 
-[	UNTERM_Arabic	 :: كيريباس ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية كيريباس ] 
-[	UNTERM_Chinese	 :: 基里巴斯 ] 
-[	UNTERM_Chinese_Formal	 :: 基里巴斯共和国 ] 
-[	UNTERM_French_Formal	 :: la République de Kiribati ] 
-[	UNTERM_Russian	 :: Кирибати ] 
-[	UNTERM_Russian_Formal	 :: Республика Кирибати ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Oceania]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[../../Australasia/Micronesia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 9 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 57 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 4030945 ] 
-[	FIPS	 :: KR ] 
-[	FIFA	 :: KIR ] 
-[	IOC	 :: KIR ] 
-[	MARC	 :: gb ] 
-[	GAUL	 :: 135 ] 
-[	WMO	 :: KB ] 
-[	ITU	 :: KIR ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
 [	DS	 ::  ] 
-[	TLD	 :: .ki ] 
-[	EDGAR	 :: J2 ] 
-[	M49	 :: 296 ] 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 :: x ] 
-[	Small_Island_Developing_States	 :: x ] 
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries` 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 296 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::KI] 
-[ISO3::KIR]  
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3`  
 
-#is_/same_as :: [[../../../../WikiData/WD~Kiribati,710|WD~Kiribati,710]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
@@ -336,26 +423,29 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Kiribati/
 markerFolder: ./Kiribati/
+coordinates: [[Kiribati]] 
+markerFile: [[Kiribati]] 
+defaultZoom: 5 
 ```
 
 [name-en::Kiribati] 
-[name-de::Kiribati] 
+name-de = `=this.dv_name-de` 
 
 ![[Coat_of_arms_of_Kiribati.svg|350]] 
 
 ![[Flag_of_Kiribati.svg|350]] 
 
-[Area-Total::811] 
-[Area-Land::730] 
-has_place_continent:: [[Oceania]]  
-[VehicleCode::KIR] 
-Capital :: [[South_Tarawa]]  
-[Alcohol-l::3.7] 
-[Language-Id::499] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::172.967] 
-[has_place_latitude::1.4] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 

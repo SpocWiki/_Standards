@@ -1,5 +1,69 @@
-﻿---
-location: [ 35.145264 , 31.625321 ] 
+---
+dv_ISO4217-currency_name: No universal currency
+dv_ISO4217-currency_country_name: PALESTINE, STATE OF
+dv_Telephone: 970
+dv_Global: true
+dv_Global_Name: World
+dv_name: Palestine
+dv_name-en: State of Palestine
+dv_name-es: Estado de Palestina
+dv_name-fr: État de Palestine
+dv_name-cn: 巴勒斯坦国
+dv_name-ar: دولة فلسطين
+dv_name-ru: Государство Палестина
+dv_CLDR_display_name: Palestine
+dv_UNTERM_English: State of Palestine  *
+dv_UNTERM_English_Formal: State of Palestine
+dv_UNTERM_Spanish_Formal: Estado  de Palestina
+dv_UNTERM_Spanish: Estado  de Palestina  *
+dv_UNTERM_French: État de Palestine  *
+dv_UNTERM_Arabic: دولة فلسطين  *
+dv_UNTERM_Arabic_Formal: دولة فلسطين
+dv_UNTERM_Chinese: 巴勒斯坦国  *
+dv_UNTERM_Chinese_Formal: 巴勒斯坦国
+dv_UNTERM_French_Formal: État de Palestine
+dv_UNTERM_Russian: Государство Палестина  *
+dv_UNTERM_Russian_Formal: Государство Палестина
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Palestine]]"
+dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region: 142
+dv_Sub-region: 145
+dv_Geoname-ID: 6254930
+dv_FIPS: GZ,WE
+dv_FIFA: PLE
+dv_IOC: PLE
+dv_MARC: gz,wj
+dv_GAUL:
+  - 91
+  - 267
+dv_TLD: .ps
+dv_M49: 275
+dv_is_independent: In contention
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 275
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Palestine,23792|WD~Palestine,23792]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Palestine|Palestine]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~West/Palestine.public|Palestine.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~West/Palestine.internal|Palestine.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~West/Palestine.protect|Palestine.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~West/Palestine.private|Palestine.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~West/Palestine.personal|Palestine.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~West/Palestine.secret|Palestine.secret]]"
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Palestine,23792|WD~Palestine,23792]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Palestine|Palestine]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~West/Palestine.public|Palestine.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~West/Palestine.internal|Palestine.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~West/Palestine.protect|Palestine.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~West/Palestine.private|Palestine.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~West/Palestine.personal|Palestine.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~West/Palestine.secret|Palestine.secret]]"
+location: [ 31.625321, 35.145264 ] 
 aliases:
   - Palestine
   - State of Palestine
@@ -72,7 +136,7 @@ literal_translation: فلسطين
 located_in_time_zone:
   - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
   - '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
-location: '[[_Standards/WikiData/WD~West_Asia,27293]]'
+locations: '[[_Standards/WikiData/WD~West_Asia,27293]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Palestine%20et%20Transjordanie%20%281922%20-%201948%29.PNG
 maintained_by_WikiProject:
   - '[[_Standards/WikiData/WD~WikiProject_Asia,8503454]]'
@@ -107,70 +171,86 @@ U_S_National_Archives_Identifier: 10044839
 
 # [[Palestine]] 
 
+## [[Palestine]] has Properties...
+
 [	ISO4217-currency_alphabetic	 ::  ]
-[	ISO4217-currency_name	 :: No universal currency ]
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 [	ISO4217-currency_numeric	 ::  ]
 [	ISO4217-currency_minor_unit	 ::  ]
-[	ISO4217-currency_country_name	 :: PALESTINE, STATE OF ]
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 970 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Palestine ]
-[	name-en	 :: State of Palestine ]
-[	name-es	 :: Estado de Palestina ]
-[	name-fr	 :: État de Palestine ]
-[	name-cn	 :: 巴勒斯坦国 ]
-[	name-ar	 :: دولة فلسطين ]
-[	name-ru	 :: Государство Палестина ]
+name = `=this.dv_name`
+name-en = `=this.dv_name-en`
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Palestine ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: State of Palestine  * ]
-[	UNTERM_English_Formal	 :: State of Palestine ]
-[	UNTERM_Spanish_Formal	 :: Estado  de Palestina ]
-[	UNTERM_Spanish	 :: Estado  de Palestina  * ]
-[	UNTERM_French	 :: État de Palestine  * ]
-[	UNTERM_Arabic	 :: دولة فلسطين  * ]
-[	UNTERM_Arabic_Formal	 :: دولة فلسطين ]
-[	UNTERM_Chinese	 :: 巴勒斯坦国  * ]
-[	UNTERM_Chinese_Formal	 :: 巴勒斯坦国 ]
-[	UNTERM_French_Formal	 :: État de Palestine ]
-[	UNTERM_Russian	 :: Государство Палестина  * ]
-[	UNTERM_Russian_Formal	 :: Государство Палестина ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Asia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 145 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 6254930 ]
-[	FIPS	 :: GZ,WE ]
-[	FIFA	 :: PLE ]
-[	IOC	 :: PLE ]
-[	MARC	 :: gz,wj ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
 [	GAUL	 :: 91,267 ]
 [	WMO	 ::  ]
 [	ITU	 ::  ]
 [	DS	 ::  ]
-[	TLD	 :: .ps ]
+TLD = `=this.dv_TLD`
 [	EDGAR	 ::  ]
-[	M49	 :: 275 ]
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: In contention ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 275 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 #is_/same_as :: [[../../../../WikiData/WD~Palestine,23792|WD~Palestine,23792]] 
+
+## #has_/map  
+
+```leaflet
+id: Palestine
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Palestine//
+markerFolder: ./Palestine/
+coordinates: [[Palestine]] 
+markerFile: [[Palestine]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 

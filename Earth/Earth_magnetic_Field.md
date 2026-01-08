@@ -5,15 +5,15 @@ aliases:
   - Earth_magnetic_Field
   - Earth magnetic Field
 has_id_wikidata: Q6500960
-studied_by: '[[_Standards/WikiData/WD~geomagnetism,114591]]'
+studied_by: "[[_Standards/WikiData/WD~geomagnetism,114591]]"
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-subclass_of: '[[_Standards/WikiData/WD~magnetism,3294789]]'
-instance_of: '[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]'
-part_of: '[[_Standards/WikiData/WD~Earth,2]]'
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+subclass_of: "[[_Standards/WikiData/WD~magnetism,3294789]]"
+instance_of: "[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]"
+part_of: "[[_Standards/WikiData/WD~Earth,2]]"
 OmegaWiki_Defined_Meaning: 1459763
 Dewey_Decimal_Classification: 538.7
 Commons_gallery: Earth's magnetic field
@@ -21,6 +21,25 @@ Commons_category: Earth's magnetic field
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%A7%E0%A8%B0%E0%A8%A4%E0%A9%80%20%E0%A8%A6%E0%A8%BE%20%E0%A8%9A%E0%A9%81%E0%A9%B0%E0%A8%AC%E0%A8%95%E0%A9%80%20%E0%A8%96%E0%A9%87%E0%A8%A4%E0%A8%B0.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Total%20Magnetic%20Field%20for%202000.jpg
 Krugosvet_article: nauka_i_tehnika/fizika/MAGNITNOE_POLE_ZEMLI.html
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Earth's_magnetic_field,6500960|WD~Earth's_magnetic_field,6500960]]"
+    - "[[/_Standards/Earth/Earth_magnetic_Field|Earth_magnetic_Field]]"
+    - "[[/_public/Earth/Earth_magnetic_Field.public|Earth_magnetic_Field.public]]"
+    - "[[/_internal/Earth/Earth_magnetic_Field.internal|Earth_magnetic_Field.internal]]"
+    - "[[/_protect/Earth/Earth_magnetic_Field.protect|Earth_magnetic_Field.protect]]"
+    - "[[/_private/Earth/Earth_magnetic_Field.private|Earth_magnetic_Field.private]]"
+    - "[[/_personal/Earth/Earth_magnetic_Field.personal|Earth_magnetic_Field.personal]]"
+    - "[[/_secret/Earth/Earth_magnetic_Field.secret|Earth_magnetic_Field.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Earth's_magnetic_field,6500960|WD~Earth's_magnetic_field,6500960]]"
+  - "[[/_Standards/Earth/Earth_magnetic_Field|Earth_magnetic_Field]]"
+  - "[[/_public/Earth/Earth_magnetic_Field.public|Earth_magnetic_Field.public]]"
+  - "[[/_internal/Earth/Earth_magnetic_Field.internal|Earth_magnetic_Field.internal]]"
+  - "[[/_protect/Earth/Earth_magnetic_Field.protect|Earth_magnetic_Field.protect]]"
+  - "[[/_private/Earth/Earth_magnetic_Field.private|Earth_magnetic_Field.private]]"
+  - "[[/_personal/Earth/Earth_magnetic_Field.personal|Earth_magnetic_Field.personal]]"
+  - "[[/_secret/Earth/Earth_magnetic_Field.secret|Earth_magnetic_Field.secret]]"
 ---
 
 

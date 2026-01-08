@@ -1,8 +1,31 @@
+---
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Caribbean
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~Caribbean|America~Caribbean]]"
+    - "[[/_public/Earth/Continent/America~Caribbean.public|America~Caribbean.public]]"
+    - "[[/_internal/Earth/Continent/America~Caribbean.internal|America~Caribbean.internal]]"
+    - "[[/_protect/Earth/Continent/America~Caribbean.protect|America~Caribbean.protect]]"
+    - "[[/_private/Earth/Continent/America~Caribbean.private|America~Caribbean.private]]"
+    - "[[/_personal/Earth/Continent/America~Caribbean.personal|America~Caribbean.personal]]"
+    - "[[/_secret/Earth/Continent/America~Caribbean.secret|America~Caribbean.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Caribbean
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~Caribbean|America~Caribbean]]"
+  - "[[/_public/Earth/Continent/America~Caribbean.public|America~Caribbean.public]]"
+  - "[[/_internal/Earth/Continent/America~Caribbean.internal|America~Caribbean.internal]]"
+  - "[[/_protect/Earth/Continent/America~Caribbean.protect|America~Caribbean.protect]]"
+  - "[[/_private/Earth/Continent/America~Caribbean.private|America~Caribbean.private]]"
+  - "[[/_personal/Earth/Continent/America~Caribbean.personal|America~Caribbean.personal]]"
+  - "[[/_secret/Earth/Continent/America~Caribbean.secret|America~Caribbean.secret]]"
+---
 
 # [[America~Caribbean]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Caribbean 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[America~Caribbean/ReadMe]] 
 

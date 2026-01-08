@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[wd CN Tower,134883]]"
+    - "[[/_Standards/Earth/Geography/Place/CN_Tower|CN_Tower]]"
+    - "[[/_public/Earth/Geography/Place/CN_Tower.public|CN_Tower.public]]"
+    - "[[/_internal/Earth/Geography/Place/CN_Tower.internal|CN_Tower.internal]]"
+    - "[[/_protect/Earth/Geography/Place/CN_Tower.protect|CN_Tower.protect]]"
+    - "[[/_private/Earth/Geography/Place/CN_Tower.private|CN_Tower.private]]"
+    - "[[/_personal/Earth/Geography/Place/CN_Tower.personal|CN_Tower.personal]]"
+    - "[[/_secret/Earth/Geography/Place/CN_Tower.secret|CN_Tower.secret]]"
+dv_is_same_as:
+  - "[[wd CN Tower,134883]]"
+  - "[[/_Standards/Earth/Geography/Place/CN_Tower|CN_Tower]]"
+  - "[[/_public/Earth/Geography/Place/CN_Tower.public|CN_Tower.public]]"
+  - "[[/_internal/Earth/Geography/Place/CN_Tower.internal|CN_Tower.internal]]"
+  - "[[/_protect/Earth/Geography/Place/CN_Tower.protect|CN_Tower.protect]]"
+  - "[[/_private/Earth/Geography/Place/CN_Tower.private|CN_Tower.private]]"
+  - "[[/_personal/Earth/Geography/Place/CN_Tower.personal|CN_Tower.personal]]"
+  - "[[/_secret/Earth/Geography/Place/CN_Tower.secret|CN_Tower.secret]]"
+
 has_time_started: 1976-01-01 
 aliases:
   - Tour CN

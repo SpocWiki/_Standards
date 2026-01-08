@@ -321,80 +321,166 @@ native_label: República de Honduras
 short_name: 🇭🇳
 coordinates_of_westernmost_point: Point(-89.35593 14.42045)
 coordinate_location: Point(-86.816667 14.633333)
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/America-Honduras
+dv_ISO4217-currency_alphabetic: HNL
+dv_ISO4217-currency_name: Lempira
+dv_ISO4217-currency_numeric: 340
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: HONDURAS
+dv_Telephone: 504
+dv_Global: true
+dv_Global_Name: World
+dv_name: Honduras
+dv_name-en:
+  - Honduras
+  - Honduras
+dv_name-es: Honduras
+dv_name-fr: Honduras
+dv_name-cn: 洪都拉斯
+dv_name-ar: هندوراس
+dv_name-ru: Гондурас
+dv_CLDR_display_name: Honduras
+dv_UNTERM_English: Honduras
+dv_UNTERM_English_Formal: the Republic of Honduras
+dv_UNTERM_Spanish_Formal: la República de Honduras
+dv_UNTERM_Spanish: Honduras
+dv_UNTERM_French: Honduras (le)
+dv_UNTERM_Arabic: هندوراس
+dv_UNTERM_Arabic_Formal: جمهورية هندوراس
+dv_UNTERM_Chinese: 洪都拉斯
+dv_UNTERM_Chinese_Formal: 洪都拉斯共和国
+dv_UNTERM_French_Formal: la République du Honduras
+dv_UNTERM_Russian: Гондурас
+dv_UNTERM_Russian_Formal: Республика Гондурас
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Central America]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 13
+dv_Sub-region: 419
+dv_Geoname-ID: 3608932
+dv_FIPS: HO
+dv_FIFA: HON
+dv_IOC: HON
+dv_MARC: ho
+dv_GAUL: 111
+dv_WMO: HO
+dv_ITU: HND
+dv_TLD: .hn
+dv_EDGAR: K2
+dv_M49: 340
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 340
+dv_ISO2: HN
+dv_ISO3: HND
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Honduras,783|WD~Honduras,783]]"
+    - "[[/_Standards/Earth/Continent/America~Central/Honduras|Honduras]]"
+    - "[[/_public/Earth/Continent/America~Central/Honduras.public|Honduras.public]]"
+    - "[[/_internal/Earth/Continent/America~Central/Honduras.internal|Honduras.internal]]"
+    - "[[/_protect/Earth/Continent/America~Central/Honduras.protect|Honduras.protect]]"
+    - "[[/_private/Earth/Continent/America~Central/Honduras.private|Honduras.private]]"
+    - "[[/_personal/Earth/Continent/America~Central/Honduras.personal|Honduras.personal]]"
+    - "[[/_secret/Earth/Continent/America~Central/Honduras.secret|Honduras.secret]]"
+dv_name-de: Honduras
+dv_Area-Total: 112088
+dv_Area-Land: 111890
+dv_has_place_continent: "[[South-America]]"
+dv_VehicleCode: HN
+dv_Alcohol-l: 4.5
+dv_Language-Id: 492
+dv_has_place_longitude: -87.2167
+dv_has_place_latitude: 14.1
+dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Honduras
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Honduras,783|WD~Honduras,783]]"
+  - "[[/_Standards/Earth/Continent/America~Central/Honduras|Honduras]]"
+  - "[[/_public/Earth/Continent/America~Central/Honduras.public|Honduras.public]]"
+  - "[[/_internal/Earth/Continent/America~Central/Honduras.internal|Honduras.internal]]"
+  - "[[/_protect/Earth/Continent/America~Central/Honduras.protect|Honduras.protect]]"
+  - "[[/_private/Earth/Continent/America~Central/Honduras.private|Honduras.private]]"
+  - "[[/_personal/Earth/Continent/America~Central/Honduras.personal|Honduras.personal]]"
+  - "[[/_secret/Earth/Continent/America~Central/Honduras.secret|Honduras.secret]]"
 ---
 
 # [[Honduras]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Honduras 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Honduras/ReadMe]] 
 
-[	ISO4217-currency_alphabetic	 :: HNL ] 
-[	ISO4217-currency_name	 :: Lempira ]
-[	ISO4217-currency_numeric	 :: 340 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: HONDURAS ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 504 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Honduras ]
+name = `=this.dv_name`
 [	name-en	 :: Honduras ]
-[	name-es	 :: Honduras ]
-[	name-fr	 :: Honduras ]
-[	name-cn	 :: 洪都拉斯 ]
-[	name-ar	 :: هندوراس ]
-[	name-ru	 :: Гондурас ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Honduras ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Honduras ]
-[	UNTERM_English_Formal	 :: the Republic of Honduras ]
-[	UNTERM_Spanish_Formal	 :: la República de Honduras ]
-[	UNTERM_Spanish	 :: Honduras ]
-[	UNTERM_French	 :: Honduras (le) ]
-[	UNTERM_Arabic	 :: هندوراس ]
-[	UNTERM_Arabic_Formal	 :: جمهورية هندوراس ]
-[	UNTERM_Chinese	 :: 洪都拉斯 ]
-[	UNTERM_Chinese_Formal	 :: 洪都拉斯共和国 ]
-[	UNTERM_French_Formal	 :: la République du Honduras ]
-[	UNTERM_Russian	 :: Гондурас ]
-[	UNTERM_Russian_Formal	 :: Республика Гондурас ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[Central America]]  
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ]
-[	Intermediate_Region	 :: 13 ]
-[	Sub-region	 :: 419 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3608932 ]
-[	FIPS	 :: HO ]
-[	FIFA	 :: HON ]
-[	IOC	 :: HON ]
-[	MARC	 :: ho ]
-[	GAUL	 :: 111 ]
-[	WMO	 :: HO ]
-[	ITU	 :: HND ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
 [	DS	 ::  ]
-[	TLD	 :: .hn ]
-[	EDGAR	 :: K2 ]
-[	M49	 :: 340 ]
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 340 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::HN]
-[ISO3::HND] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
 #is_/same_as :: [[../../../WikiData/WD~Honduras,783|WD~Honduras,783]] 
 
@@ -410,11 +496,11 @@ markerFolder: ./Honduras/
 ```
 
 [name-en::Honduras]
-[name-de::Honduras]
-[Area-Total::112088]
-[Area-Land::111890]
-has_place_continent:: [[South-America]]  
-[VehicleCode::HN]
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]  
 
 ![[Honduras/Coat_of_arms_of_Honduras.svg|350]]
@@ -423,10 +509,10 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 
 ![[Honduras/Flag_of_Honduras.svg|350]]
 
-[Alcohol-l::4.5]
-[Language-Id::492]
-[has_place_longitude::-87.2167]
-[has_place_latitude::14.1]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

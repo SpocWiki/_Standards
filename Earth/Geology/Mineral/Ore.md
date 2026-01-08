@@ -28,6 +28,25 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_02000094
 UNSPSC_Code: "11101607"
 Commons_gallery: Ore
 Commons_category: Ores
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ore,102798]]"
+    - "[[/_Standards/Earth/Geology/Mineral/Ore|Ore]]"
+    - "[[/_public/Earth/Geology/Mineral/Ore.public|Ore.public]]"
+    - "[[/_internal/Earth/Geology/Mineral/Ore.internal|Ore.internal]]"
+    - "[[/_protect/Earth/Geology/Mineral/Ore.protect|Ore.protect]]"
+    - "[[/_private/Earth/Geology/Mineral/Ore.private|Ore.private]]"
+    - "[[/_personal/Earth/Geology/Mineral/Ore.personal|Ore.personal]]"
+    - "[[/_secret/Earth/Geology/Mineral/Ore.secret|Ore.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ore,102798]]"
+  - "[[/_Standards/Earth/Geology/Mineral/Ore|Ore]]"
+  - "[[/_public/Earth/Geology/Mineral/Ore.public|Ore.public]]"
+  - "[[/_internal/Earth/Geology/Mineral/Ore.internal|Ore.internal]]"
+  - "[[/_protect/Earth/Geology/Mineral/Ore.protect|Ore.protect]]"
+  - "[[/_private/Earth/Geology/Mineral/Ore.private|Ore.private]]"
+  - "[[/_personal/Earth/Geology/Mineral/Ore.personal|Ore.personal]]"
+  - "[[/_secret/Earth/Geology/Mineral/Ore.secret|Ore.secret]]"
 ---
 
 # [[Ore]] 

@@ -1,5 +1,94 @@
-﻿---
-location: [ 75.0 , 41.0 ] 
+---
+dv_ISO4217-currency_alphabetic: KGS
+dv_ISO4217-currency_name: Som
+dv_ISO4217-currency_numeric: 417
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: KYRGYZSTAN
+dv_Telephone: 996
+dv_Global: true
+dv_Global_Name: World
+dv_name: Kyrgyzstan
+dv_name-en:
+  - Kyrgyzstan
+  - Kyrgyzstan
+dv_name-es: Kirguistán
+dv_name-fr: Kirghizistan
+dv_name-cn: 吉尔吉斯斯坦
+dv_name-ar: قيرغيزستان
+dv_name-ru: Кыргызстан
+dv_CLDR_display_name: Kyrgyzstan
+dv_UNTERM_English: Kyrgyzstan
+dv_UNTERM_English_Formal: the Kyrgyz Republic
+dv_UNTERM_Spanish_Formal: la República Kirguisa
+dv_UNTERM_Spanish: Kirguistán
+dv_UNTERM_French: Kirghizistan (le)
+dv_UNTERM_Arabic: قيرغيزستان
+dv_UNTERM_Arabic_Formal: جمهورية قيرغيزستان
+dv_UNTERM_Chinese: 吉尔吉斯斯坦
+dv_UNTERM_Chinese_Formal: 吉尔吉斯共和国
+dv_UNTERM_French_Formal: la République kirghize
+dv_UNTERM_Russian: Кыргызстан
+dv_UNTERM_Russian_Formal: Кыргызская Республика
+dv_Region_Name: "[[../../Asia]]"
+dv_Intermediate_Region_Name: "[[Kyrgyzstan]]"
+dv_Sub-region_Name: "[[Central Asia]]"
+dv_Region: 142
+dv_Sub-region: 143
+dv_Geoname-ID: 1527747
+dv_FIPS: KG
+dv_FIFA: KGZ
+dv_IOC: KGZ
+dv_MARC: kg
+dv_GAUL: 138
+dv_WMO: KG
+dv_ITU: KGZ
+dv_DS: KS
+dv_TLD: .kg
+dv_EDGAR: 1N
+dv_M49: 417
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Land_Locked_Developing_Countries: x
+dv_ISO3166-1-numeric: 417
+dv_ISO2: KG
+dv_ISO3: KGZ
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan|Kyrgyzstan]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.public|Kyrgyzstan.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.internal|Kyrgyzstan.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.protect|Kyrgyzstan.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.private|Kyrgyzstan.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.personal|Kyrgyzstan.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.secret|Kyrgyzstan.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Kyrgyzstan
+dv_name-de: Kirgisistan
+dv_Area-Total: 198500
+dv_Area-Land: 0
+dv_has_place_continent: "[[../../Asia]]"
+dv_VehicleCode: KS
+dv_Capital: "[[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]"
+dv_Alcohol-l: 5.1
+dv_Language-Id: 469
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 74.6
+dv_has_place_latitude: 42.8667
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan|Kyrgyzstan]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.public|Kyrgyzstan.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.internal|Kyrgyzstan.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.protect|Kyrgyzstan.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.private|Kyrgyzstan.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.personal|Kyrgyzstan.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.secret|Kyrgyzstan.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Kyrgyzstan
+
 aliases:
   - Kyrgyzstan
   - Kirguistán
@@ -331,76 +420,78 @@ icon: flag-kg
 
 # [[Kyrgyzstan]] 
 
-[	ISO4217-currency_alphabetic	 :: KGS ]
-[	ISO4217-currency_name	 :: Som ]
-[	ISO4217-currency_numeric	 :: 417 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: KYRGYZSTAN ]
+## [[Kyrgyzstan]] has Properties...
 
-[	Telephone	 :: 996 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Kyrgyzstan ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
 [	name-en	 :: Kyrgyzstan ]
-[	name-es	 :: Kirguistán ]
-[	name-fr	 :: Kirghizistan ]
-[	name-cn	 :: 吉尔吉斯斯坦 ]
-[	name-ar	 :: قيرغيزستان ]
-[	name-ru	 :: Кыргызстан ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Kyrgyzstan ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Kyrgyzstan ]
-[	UNTERM_English_Formal	 :: the Kyrgyz Republic ]
-[	UNTERM_Spanish_Formal	 :: la República Kirguisa ]
-[	UNTERM_Spanish	 :: Kirguistán ]
-[	UNTERM_French	 :: Kirghizistan (le) ]
-[	UNTERM_Arabic	 :: قيرغيزستان ]
-[	UNTERM_Arabic_Formal	 :: جمهورية قيرغيزستان ]
-[	UNTERM_Chinese	 :: 吉尔吉斯斯坦 ]
-[	UNTERM_Chinese_Formal	 :: 吉尔吉斯共和国 ]
-[	UNTERM_French_Formal	 :: la République kirghize ]
-[	UNTERM_Russian	 :: Кыргызстан ]
-[	UNTERM_Russian_Formal	 :: Кыргызская Республика ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Central Asia]]  
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 143 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 1527747 ]
-[	FIPS	 :: KG ]
-[	FIFA	 :: KGZ ]
-[	IOC	 :: KGZ ]
-[	MARC	 :: kg ]
-[	GAUL	 :: 138 ]
-[	WMO	 :: KG ]
-[	ITU	 :: KGZ ]
-[	DS	 :: KS ]
-[	TLD	 :: .kg ]
-[	EDGAR	 :: 1N ]
-[	M49	 :: 417 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries	 :: x ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+Land_Locked_Developing_Countries = `=this.dv_Land_Locked_Developing_Countries`
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 417 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::KG]
-[ISO3::KGZ] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]] 
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Kyrgyzstan 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Kyrgyzstan/ReadMe]] 
 
@@ -409,30 +500,33 @@ For more Details, check out this Repository into this Subfolder:
 ```leaflet
 id: Kyrgyzstan
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Kyrgyzstan//
 markerFolder: ./Kyrgyzstan/
+coordinates: [[Kyrgyzstan]] 
+markerFile: [[Kyrgyzstan]] 
+defaultZoom: 5 
 ```
 
 [name-en::Kyrgyzstan]
-[name-de::Kirgisistan]
-[Area-Total::198500]
-[Area-Land::0]
-has_place_continent:: [[Asia]]  
-[VehicleCode::KS]
-Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 ![[Kyrgyzstan/Emblem_of_Kyrgyzstan.svg|350]]  
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Kyrgyzstan.mp3]]
 ![[Kyrgyzstan/Flag_of_Kyrgyzstan.svg|350]]  
 
-[Alcohol-l::5.1]
-[Language-Id::469]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::74.6]
-[has_place_latitude::42.8667]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

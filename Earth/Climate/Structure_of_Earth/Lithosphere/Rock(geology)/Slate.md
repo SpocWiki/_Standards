@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Slate,207079|WD~Slate,207079]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate|Slate]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.public|Slate.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.internal|Slate.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.protect|Slate.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.private|Slate.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.personal|Slate.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.secret|Slate.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Slate,207079|WD~Slate,207079]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate|Slate]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.public|Slate.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.internal|Slate.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.protect|Slate.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.private|Slate.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.personal|Slate.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.secret|Slate.secret]]"
+---
 
 # [[Slate]] 
 

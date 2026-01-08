@@ -1,5 +1,94 @@
-﻿---
-location: [ 10.0 , 1.5 ] 
+---
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Africa-Equatorial_Guinea
+dv_ISO4217-currency_alphabetic: XAF
+dv_ISO4217-currency_name: CFA Franc BEAC
+dv_ISO4217-currency_numeric: 950
+dv_ISO4217-currency_minor_unit: 0
+dv_ISO4217-currency_country_name: EQUATORIAL GUINEA
+dv_Telephone: 240
+dv_Global: true
+dv_Global_Name: World
+dv_name: Equatorial Guinea
+dv_name-en:
+  - Equatorial Guinea
+  - Equatorial Guinea
+dv_name-es: Guinea Ecuatorial
+dv_name-fr: Guinée équatoriale
+dv_name-cn: 赤道几内亚
+dv_name-ar: غينيا الاستوائية
+dv_name-ru: Экваториальная Гвинея
+dv_CLDR_display_name: Equatorial Guinea
+dv_UNTERM_English: Equatorial Guinea
+dv_UNTERM_English_Formal: the Republic of Equatorial Guinea
+dv_UNTERM_Spanish_Formal: la República de Guinea Ecuatorial
+dv_UNTERM_Spanish: Guinea Ecuatorial
+dv_UNTERM_French: Guinée équatoriale (la)
+dv_UNTERM_Arabic: غينيا الاستوائية
+dv_UNTERM_Arabic_Formal: جمهورية غينيا الاستوائية
+dv_UNTERM_Chinese: 赤道几内亚
+dv_UNTERM_Chinese_Formal: 赤道几内亚共和国
+dv_UNTERM_French_Formal: la République de Guinée équatoriale
+dv_UNTERM_Russian: Экваториальная Гвинея
+dv_UNTERM_Russian_Formal: Республика Экваториальная Гвинея
+dv_Region_Name: "[[../../Africa]]"
+dv_Intermediate_Region_Name: "[[Middle Africa]]"
+dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region: 2
+dv_Intermediate_Region: 17
+dv_Sub-region: 202
+dv_Geoname-ID: 2309096
+dv_FIPS: EK
+dv_FIFA: EQG
+dv_IOC: GEQ
+dv_MARC: eg
+dv_GAUL: 76
+dv_WMO: GQ
+dv_ITU: GNE
+dv_DS: EQ
+dv_TLD: .gq
+dv_EDGAR: H4
+dv_M49: 226
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 226
+dv_ISO2: GQ
+dv_ISO3: GNQ
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]"
+    - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea|Equatorial_Guinea]]"
+    - "[[/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.public|Equatorial_Guinea.public]]"
+    - "[[/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.internal|Equatorial_Guinea.internal]]"
+    - "[[/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.protect|Equatorial_Guinea.protect]]"
+    - "[[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.private|Equatorial_Guinea.private]]"
+    - "[[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.personal|Equatorial_Guinea.personal]]"
+    - "[[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret|Equatorial_Guinea.secret]]"
+dv_name-de: Äquatorial-Guinea
+dv_Area-Total: 28051
+dv_Area-Land: 28050
+dv_has_place_continent: "[[../../Africa]]"
+dv_VehicleCode: EQ
+dv_Capital: "[[Malabo]]"
+dv_Alcohol-l: 6.1
+dv_Language-Id: 492
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: 8.78333
+dv_has_place_latitude: 3.75
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Equatorial_Guinea
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]"
+  - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea|Equatorial_Guinea]]"
+  - "[[/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.public|Equatorial_Guinea.public]]"
+  - "[[/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.internal|Equatorial_Guinea.internal]]"
+  - "[[/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.protect|Equatorial_Guinea.protect]]"
+  - "[[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.private|Equatorial_Guinea.private]]"
+  - "[[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.personal|Equatorial_Guinea.personal]]"
+  - "[[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret|Equatorial_Guinea.secret]]"
+
 aliases:
   - Equatorial Guinea
   - Guinea Ecuatorial
@@ -307,79 +396,78 @@ Unicode_character: 🇬🇶
 # [[Equatorial_Guinea]] 
 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Equatorial_Guinea 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[[Equatorial_Guinea/ReadMe]] 
+Telephone = `=this.dv_Telephone`
 
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	ISO4217-currency_alphabetic	 :: XAF ]
-[	ISO4217-currency_name	 :: CFA Franc BEAC ]
-[	ISO4217-currency_numeric	 :: 950 ]
-[	ISO4217-currency_minor_unit	 :: 0 ]
-[	ISO4217-currency_country_name	 :: EQUATORIAL GUINEA ]
-
-[	Telephone	 :: 240 ]
-
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
-
-[	name	 :: Equatorial Guinea ]
+name = `=this.dv_name`
 [	name-en	 :: Equatorial Guinea ]
-[	name-es	 :: Guinea Ecuatorial ]
-[	name-fr	 :: Guinée équatoriale ]
-[	name-cn	 :: 赤道几内亚 ]
-[	name-ar	 :: غينيا الاستوائية ]
-[	name-ru	 :: Экваториальная Гвинея ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Equatorial Guinea ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Equatorial Guinea ]
-[	UNTERM_English_Formal	 :: the Republic of Equatorial Guinea ]
-[	UNTERM_Spanish_Formal	 :: la República de Guinea Ecuatorial ]
-[	UNTERM_Spanish	 :: Guinea Ecuatorial ]
-[	UNTERM_French	 :: Guinée équatoriale (la) ]
-[	UNTERM_Arabic	 :: غينيا الاستوائية ]
-[	UNTERM_Arabic_Formal	 :: جمهورية غينيا الاستوائية ]
-[	UNTERM_Chinese	 :: 赤道几内亚 ]
-[	UNTERM_Chinese_Formal	 :: 赤道几内亚共和国 ]
-[	UNTERM_French_Formal	 :: la République de Guinée équatoriale ]
-[	UNTERM_Russian	 :: Экваториальная Гвинея ]
-[	UNTERM_Russian_Formal	 :: Республика Экваториальная Гвинея ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Middle Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 2 ]
-[	Intermediate_Region	 :: 17 ]
-[	Sub-region	 :: 202 ]
+Region = `=this.dv_Region`
+Intermediate_Region = `=this.dv_Intermediate_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 2309096 ]
-[	FIPS	 :: EK ]
-[	FIFA	 :: EQG ]
-[	IOC	 :: GEQ ]
-[	MARC	 :: eg ]
-[	GAUL	 :: 76 ]
-[	WMO	 :: GQ ]
-[	ITU	 :: GNE ]
-[	DS	 :: EQ ]
-[	TLD	 :: .gq ]
-[	EDGAR	 :: H4 ]
-[	M49	 :: 226 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 226 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::GQ]
-[ISO3::GNQ]
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]] 
+is_a_ = `=this.dv_is_a_`
+
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
+
+[[Equatorial_Guinea/ReadMe]] 
 
 ## #has_/map 
 
@@ -390,27 +478,30 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Equatorial_Guinea//
 markerFolder: ./Equatorial_Guinea//
+coordinates: [[Equatorial_Guinea]] 
+markerFile: [[Equatorial_Guinea]] 
+defaultZoom: 8 
 ```
 
 [name-en::Equatorial Guinea]
-[name-de::Äquatorial-Guinea]
-[Area-Total::28051]
-[Area-Land::28050]
-has_place_continent:: [[Africa]]  
-[VehicleCode::EQ]
-Capital :: [[Malabo]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Guinea.svg|350]]
 
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Guinea.mp3]]
 
 ![[Flag_of_Guinea.svg|350]]
-[Alcohol-l::6.1]
-[Language-Id::492]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::8.78333]
-[has_place_latitude::3.75]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## #has_/text_of_/abstract 

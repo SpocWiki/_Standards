@@ -36,6 +36,25 @@ MCN_code: 7103.91.00
 chemical_formula: Al₂O₃
 CAS_Registry_Number: 12174-49-1
 Krugosvet_article_archived_: Earth_sciences/geologiya/RUBIN.html
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Ruby,43088]]"
+    - "[[/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby|Ruby]]"
+    - "[[/_public/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.public|Ruby.public]]"
+    - "[[/_internal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.internal|Ruby.internal]]"
+    - "[[/_protect/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.protect|Ruby.protect]]"
+    - "[[/_private/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.private|Ruby.private]]"
+    - "[[/_personal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.personal|Ruby.personal]]"
+    - "[[/_secret/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.secret|Ruby.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Ruby,43088]]"
+  - "[[/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby|Ruby]]"
+  - "[[/_public/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.public|Ruby.public]]"
+  - "[[/_internal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.internal|Ruby.internal]]"
+  - "[[/_protect/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.protect|Ruby.protect]]"
+  - "[[/_private/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.private|Ruby.private]]"
+  - "[[/_personal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.personal|Ruby.personal]]"
+  - "[[/_secret/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.secret|Ruby.secret]]"
 ---
 
 # [[Ruby]] 

@@ -1,5 +1,94 @@
-﻿---
-location: [ 103.8 , 1.3 ] 
+---
+dv_ISO4217-currency_alphabetic: SGD
+dv_ISO4217-currency_name: Singapore Dollar
+dv_ISO4217-currency_numeric: 702
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: SINGAPORE
+dv_Telephone: 65
+dv_Global: true
+dv_Global_Name: World
+dv_name: Singapore
+dv_name-en:
+  - Singapore
+  - Singapore
+dv_name-es: Singapur
+dv_name-fr: Singapour
+dv_name-cn: 新加坡
+dv_name-ar: سنغافورة
+dv_name-ru: Сингапур
+dv_CLDR_display_name: Singapore
+dv_UNTERM_English: Singapore
+dv_UNTERM_English_Formal: the Republic of Singapore
+dv_UNTERM_Spanish_Formal: la República de Singapur
+dv_UNTERM_Spanish: Singapur
+dv_UNTERM_French: Singapour [fém.]
+dv_UNTERM_Arabic: سنغافورة
+dv_UNTERM_Arabic_Formal: جمهورية سنغافورة
+dv_UNTERM_Chinese: 新加坡
+dv_UNTERM_Chinese_Formal: 新加坡共和国
+dv_UNTERM_French_Formal: la République de Singapour
+dv_UNTERM_Russian: Сингапур
+dv_UNTERM_Russian_Formal: Республика Сингапур
+dv_Region_Name: "[[../../../Asia]]"
+dv_Intermediate_Region_Name: "[[Singapore]]"
+dv_Sub-region_Name: "[[South-eastern Asia]]"
+dv_Region: 142
+dv_Sub-region: 35
+dv_Geoname-ID: 1880251
+dv_FIPS: SN
+dv_FIFA: SIN
+dv_IOC: SIN
+dv_MARC: si
+dv_GAUL: 222
+dv_WMO: SR
+dv_ITU: SNG
+dv_DS: SGP
+dv_TLD: .sg
+dv_EDGAR: U0
+dv_M49: 702
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 702
+dv_ISO2: SG
+dv_ISO3: SGP
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Singapore,334|WD~Singapore,334]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore|Singapore]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.public|Singapore.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.internal|Singapore.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.protect|Singapore.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.private|Singapore.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.personal|Singapore.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.secret|Singapore.secret]]"
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Asia-Singapore
+dv_name-de: Singapur
+dv_Area-Total: 641
+dv_Area-Land: 610
+dv_has_place_continent: "[[../../../Asia]]"
+dv_VehicleCode: SGP
+dv_Capital: "[[Singapore=Singapur]]"
+dv_Alcohol-l: 1.6
+dv_Language-Id: 499
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 103.85
+dv_has_place_latitude: 1.28
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Singapore,334|WD~Singapore,334]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore|Singapore]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.public|Singapore.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.internal|Singapore.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.protect|Singapore.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.private|Singapore.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.personal|Singapore.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.secret|Singapore.secret]]"
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Singapore
+
 aliases:
   - Singapore
   - Singapur
@@ -411,76 +500,78 @@ Libris_URI: gdsvv3l03k6z32s
 
 # [[Singapore]] 
 
-[	ISO4217-currency_alphabetic	 :: SGD ]
-[	ISO4217-currency_name	 :: Singapore Dollar ]
-[	ISO4217-currency_numeric	 :: 702 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: SINGAPORE ]
+## [[Singapore]] has Properties 
 
-[	Telephone	 :: 65 ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Telephone = `=this.dv_Telephone`
 
-[	name	 :: Singapore ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_name`
 [	name-en	 :: Singapore ]
-[	name-es	 :: Singapur ]
-[	name-fr	 :: Singapour ]
-[	name-cn	 :: 新加坡 ]
-[	name-ar	 :: سنغافورة ]
-[	name-ru	 :: Сингапур ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Singapore ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-[	UNTERM_English	 :: Singapore ]
-[	UNTERM_English_Formal	 :: the Republic of Singapore ]
-[	UNTERM_Spanish_Formal	 :: la República de Singapur ]
-[	UNTERM_Spanish	 :: Singapur ]
-[	UNTERM_French	 :: Singapour [fém.] ]
-[	UNTERM_Arabic	 :: سنغافورة ]
-[	UNTERM_Arabic_Formal	 :: جمهورية سنغافورة ]
-[	UNTERM_Chinese	 :: 新加坡 ]
-[	UNTERM_Chinese_Formal	 :: 新加坡共和国 ]
-[	UNTERM_French_Formal	 :: la République de Singapour ]
-[	UNTERM_Russian	 :: Сингапур ]
-[	UNTERM_Russian_Formal	 :: Республика Сингапур ]
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
-Region_Name ::  [[Asia]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[South-eastern Asia]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 142 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 35 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 1880251 ]
-[	FIPS	 :: SN ]
-[	FIFA	 :: SIN ]
-[	IOC	 :: SIN ]
-[	MARC	 :: si ]
-[	GAUL	 :: 222 ]
-[	WMO	 :: SR ]
-[	ITU	 :: SNG ]
-[	DS	 :: SGP ]
-[	TLD	 :: .sg ]
-[	EDGAR	 :: U0 ]
-[	M49	 :: 702 ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developing ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 :: x ]
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States`
 
-[	ISO3166-1-numeric	 :: 702 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
-[ISO2::SG]
-[ISO3::SGP] 
+ISO2 = `=this.dv_ISO2`
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Singapore,334|WD~Singapore,334]]
+is_a_ = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Singapore 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 [[Singapore/ReadMe]] 
 
@@ -495,16 +586,16 @@ geojsonFolder: ./Singapore//
 markerFolder: ./Singapore/
 coordinates: [[Singapore]] 
 markerFile: [[Singapore]] 
-defaultZoom: 11 
+defaultZoom: 9 
 ```
 
 [name-en::Singapore]
-[name-de::Singapur]
-[Area-Total::641]
-[Area-Land::610]
-has_place_continent:: [[Asia]]  
-[VehicleCode::SGP]
-Capital :: [[Singapore=Singapur]]  
+name-de = `=this.dv_name-de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
+Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Singapore.svg|350]]
 
@@ -512,12 +603,12 @@ Capital :: [[Singapore=Singapur]]
 
 ![[Flag_of_Singapore.svg|350]]
 
-[Alcohol-l::1.6]
-[Language-Id::499]
+Alcohol-l = `=this.dv_Alcohol-l`
+Language-Id = `=this.dv_Language-Id`
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
-[has_place_longitude::103.85]
-[has_place_latitude::1.28]
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/text_of_/abstract
 

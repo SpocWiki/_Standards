@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North|Ocean~Indian~North]]"
+    - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.public|Ocean~Indian~North.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.internal|Ocean~Indian~North.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.protect|Ocean~Indian~North.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.private|Ocean~Indian~North.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.personal|Ocean~Indian~North.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.secret|Ocean~Indian~North.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North|Ocean~Indian~North]]"
+  - "[[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.public|Ocean~Indian~North.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.internal|Ocean~Indian~North.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.protect|Ocean~Indian~North.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.private|Ocean~Indian~North.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.personal|Ocean~Indian~North.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North.secret|Ocean~Indian~North.secret]]"
+---
 # [[Ocean~Indian~North]] 
 
 

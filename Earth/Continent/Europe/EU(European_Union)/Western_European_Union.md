@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Western_European_Union,189946|WD~Western_European_Union,189946]]"
+    - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/Western_European_Union|Western_European_Union]]"
+    - "[[/_public/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.public|Western_European_Union.public]]"
+    - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.internal|Western_European_Union.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.protect|Western_European_Union.protect]]"
+    - "[[/_private/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.private|Western_European_Union.private]]"
+    - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.personal|Western_European_Union.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.secret|Western_European_Union.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Western_European_Union,189946|WD~Western_European_Union,189946]]"
+  - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)/Western_European_Union|Western_European_Union]]"
+  - "[[/_public/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.public|Western_European_Union.public]]"
+  - "[[/_internal/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.internal|Western_European_Union.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.protect|Western_European_Union.protect]]"
+  - "[[/_private/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.private|Western_European_Union.private]]"
+  - "[[/_personal/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.personal|Western_European_Union.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/EU(European_Union)/Western_European_Union.secret|Western_European_Union.secret]]"
+
 has_time_started: 1954-01-01 
 has_time_stopped: 2011-01-01 
 aliases:

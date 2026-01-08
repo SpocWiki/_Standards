@@ -20,6 +20,25 @@ described_by_source:
 Commons_category: Magma
 OmegaWiki_Defined_Meaning: "665814"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hawai%27i%20Volcanoes%20National%20Park%20HAVO3171.jpg
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Magma,42278]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma|Magma]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.public|Magma.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.internal|Magma.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.protect|Magma.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.private|Magma.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.personal|Magma.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.secret|Magma.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Magma,42278]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma|Magma]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.public|Magma.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.internal|Magma.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.protect|Magma.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.private|Magma.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.personal|Magma.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Magma.secret|Magma.secret]]"
 ---
 
 # [[Magma]] 

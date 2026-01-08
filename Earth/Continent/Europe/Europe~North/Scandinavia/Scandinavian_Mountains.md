@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Scandinavian_Mountains,186547]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains|Scandinavian_Mountains]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.public|Scandinavian_Mountains.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.internal|Scandinavian_Mountains.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.protect|Scandinavian_Mountains.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.private|Scandinavian_Mountains.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.personal|Scandinavian_Mountains.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.secret|Scandinavian_Mountains.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Scandinavian_Mountains,186547]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains|Scandinavian_Mountains]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.public|Scandinavian_Mountains.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.internal|Scandinavian_Mountains.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.protect|Scandinavian_Mountains.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.private|Scandinavian_Mountains.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.personal|Scandinavian_Mountains.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.secret|Scandinavian_Mountains.secret]]"
+---
 
 # [[Scandinavian_Mountains]] 
 

@@ -3,13 +3,34 @@ aliases:
   - EFTA(European_Free_Trade_Association)
   - EFTA(European Free Trade Association)
 has_member:
-  - '[[../Europe~North/Norway|Norway]]'
-  - '[[Switzerland]]'
-  - '[[../Europe~North/Iceland|Iceland]]'
-  - '[[Liechtenstein]]'
+  - "[[../Europe~North/Norway|Norway]]"
+  - "[[Switzerland]]"
+  - "[[../Europe~North/Iceland|Iceland]]"
+  - "[[Liechtenstein]]"
+dv_has_:
+  time_:
+    started: 1960-03-03T00:00:00.000+01:00
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association)|EFTA(European_Free_Trade_Association)]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).public|EFTA(European_Free_Trade_Association).public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).internal|EFTA(European_Free_Trade_Association).internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).protect|EFTA(European_Free_Trade_Association).protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).private|EFTA(European_Free_Trade_Association).private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).personal|EFTA(European_Free_Trade_Association).personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).secret|EFTA(European_Free_Trade_Association).secret]]"
+dv_has_time_started: 1960-03-03
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association)|EFTA(European_Free_Trade_Association)]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).public|EFTA(European_Free_Trade_Association).public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).internal|EFTA(European_Free_Trade_Association).internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).protect|EFTA(European_Free_Trade_Association).protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).private|EFTA(European_Free_Trade_Association).private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).personal|EFTA(European_Free_Trade_Association).personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).secret|EFTA(European_Free_Trade_Association).secret]]"
 ---
 
-#has_/time_/started :: 1960-03-03 
+has_time_started = `=this.dv_has_time_started`
 
 The EFTA is a counterpart to the [[../EU(European_Union)]].
 Its members in 2024 are `$=dv.current().has_member`. 

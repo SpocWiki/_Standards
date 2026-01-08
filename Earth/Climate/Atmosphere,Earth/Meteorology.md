@@ -49,6 +49,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Windstorm%20Emma.png
 Stack_Exchange_tag: https://earthscience.stackexchange.com/tags/meteorology
 UMLS_CUI: C0025595
 Krugosvet_article_archived_: Earth_sciences/geografiya/METEOROLOGIYA_I_KLIMATOLOGIYA.html
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Meteorology,25261]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Meteorology|Meteorology]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Meteorology.public|Meteorology.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Meteorology.internal|Meteorology.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Meteorology.protect|Meteorology.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Meteorology.private|Meteorology.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Meteorology.personal|Meteorology.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Meteorology.secret|Meteorology.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Meteorology,25261]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Meteorology|Meteorology]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Meteorology.public|Meteorology.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Meteorology.internal|Meteorology.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Meteorology.protect|Meteorology.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Meteorology.private|Meteorology.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Meteorology.personal|Meteorology.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Meteorology.secret|Meteorology.secret]]"
 ---
 
 # [[Meteorology]] 

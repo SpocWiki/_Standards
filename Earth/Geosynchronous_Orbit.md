@@ -5,12 +5,31 @@ aliases:
   - Geosynchronous Orbit
 has_id_wikidata: Q472251
 subclass_of:
-  - '[[_Standards/WikiData/WD~synchronous_orbit,940979]]'
-  - '[[_Standards/WikiData/WD~geocentric_orbit,1579577]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2]]'
+  - "[[_Standards/WikiData/WD~synchronous_orbit,940979]]"
+  - "[[_Standards/WikiData/WD~geocentric_orbit,1579577]]"
+parent_astronomical_body: "[[_Standards/WikiData/WD~Earth,2]]"
 short_name: GSO
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Geosynchronous%20orbit.gif
 Commons_category: Geosynchronous orbit
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Geosynchronous_orbit,472251]]"
+    - "[[/_Standards/Earth/Geosynchronous_Orbit|Geosynchronous_Orbit]]"
+    - "[[/_public/Earth/Geosynchronous_Orbit.public|Geosynchronous_Orbit.public]]"
+    - "[[/_internal/Earth/Geosynchronous_Orbit.internal|Geosynchronous_Orbit.internal]]"
+    - "[[/_protect/Earth/Geosynchronous_Orbit.protect|Geosynchronous_Orbit.protect]]"
+    - "[[/_private/Earth/Geosynchronous_Orbit.private|Geosynchronous_Orbit.private]]"
+    - "[[/_personal/Earth/Geosynchronous_Orbit.personal|Geosynchronous_Orbit.personal]]"
+    - "[[/_secret/Earth/Geosynchronous_Orbit.secret|Geosynchronous_Orbit.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Geosynchronous_orbit,472251]]"
+  - "[[/_Standards/Earth/Geosynchronous_Orbit|Geosynchronous_Orbit]]"
+  - "[[/_public/Earth/Geosynchronous_Orbit.public|Geosynchronous_Orbit.public]]"
+  - "[[/_internal/Earth/Geosynchronous_Orbit.internal|Geosynchronous_Orbit.internal]]"
+  - "[[/_protect/Earth/Geosynchronous_Orbit.protect|Geosynchronous_Orbit.protect]]"
+  - "[[/_private/Earth/Geosynchronous_Orbit.private|Geosynchronous_Orbit.private]]"
+  - "[[/_personal/Earth/Geosynchronous_Orbit.personal|Geosynchronous_Orbit.personal]]"
+  - "[[/_secret/Earth/Geosynchronous_Orbit.secret|Geosynchronous_Orbit.secret]]"
 ---
 
 # [[Geosynchronous_Orbit]] 

@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Desert,8514|WD~Desert,8514]]"
+    - "[[/_Standards/Earth/Climate/Biosphere/Biome/Desert|Desert]]"
+    - "[[/_public/Earth/Climate/Biosphere/Biome/Desert.public|Desert.public]]"
+    - "[[/_internal/Earth/Climate/Biosphere/Biome/Desert.internal|Desert.internal]]"
+    - "[[/_protect/Earth/Climate/Biosphere/Biome/Desert.protect|Desert.protect]]"
+    - "[[/_private/Earth/Climate/Biosphere/Biome/Desert.private|Desert.private]]"
+    - "[[/_personal/Earth/Climate/Biosphere/Biome/Desert.personal|Desert.personal]]"
+    - "[[/_secret/Earth/Climate/Biosphere/Biome/Desert.secret|Desert.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Desert,8514|WD~Desert,8514]]"
+  - "[[/_Standards/Earth/Climate/Biosphere/Biome/Desert|Desert]]"
+  - "[[/_public/Earth/Climate/Biosphere/Biome/Desert.public|Desert.public]]"
+  - "[[/_internal/Earth/Climate/Biosphere/Biome/Desert.internal|Desert.internal]]"
+  - "[[/_protect/Earth/Climate/Biosphere/Biome/Desert.protect|Desert.protect]]"
+  - "[[/_private/Earth/Climate/Biosphere/Biome/Desert.private|Desert.private]]"
+  - "[[/_personal/Earth/Climate/Biosphere/Biome/Desert.personal|Desert.personal]]"
+  - "[[/_secret/Earth/Climate/Biosphere/Biome/Desert.secret|Desert.secret]]"
+---
 
 # [[Desert]] 
 

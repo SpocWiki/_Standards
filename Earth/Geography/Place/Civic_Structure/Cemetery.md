@@ -15,22 +15,22 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - cemetery
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_cemetery Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_cemetery Class
 type: Type
-P8189: 987007284977505171
+P8189: 987007284977505200
 UMLS_CUI: C0007662
 MeSH_tree_code:
   - I01.076.201.450.550.150.500
@@ -39,43 +39,43 @@ EAGLE_id: objtyp/lod/228
 Library_of_Congress_Classification: RA626-RA630
 OpenStreetMap_tag_or_key: Tag:landuse=cemetery
 has_part_s_:
-  - '[[_Standards/WikiData/WD~grave,173387]]'
-  - '[[_Standards/WikiData/WD~memorial,5003624]]'
-  - '[[_Standards/WikiData/WD~tomb_space,56054752]]'
+  - "[[_Standards/WikiData/WD~grave,173387]]"
+  - "[[_Standards/WikiData/WD~memorial,5003624]]"
+  - "[[_Standards/WikiData/WD~tomb_space,56054752]]"
 manifestation_of:
-  - '[[_Standards/WikiData/WD~burial,331055]]'
-  - '[[_Standards/WikiData/WD~death,4]]'
+  - "[[_Standards/WikiData/WD~burial,331055]]"
+  - "[[_Standards/WikiData/WD~death,4]]"
 facet_of:
-  - '[[_Standards/WikiData/WD~burial,331055]]'
-  - '[[_Standards/WikiData/WD~death,4]]'
+  - "[[_Standards/WikiData/WD~burial,331055]]"
+  - "[[_Standards/WikiData/WD~death,4]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
-  - '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-  - '[[_Standards/WikiData/WD~Q105336459,105336459]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]"
+  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+  - "[[_Standards/WikiData/WD~Q105336459,105336459]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Kartographer_icon,134980502]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~geographical_feature,618123]]'
-  - '[[_Standards/WikiData/WD~building_type,811102]]'
+  - "[[_Standards/WikiData/WD~geographical_feature,618123]]"
+  - "[[_Standards/WikiData/WD~building_type,811102]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-  - '[[_Standards/WikiData/WD~architectural_ensemble,1497375]]'
-  - '[[_Standards/WikiData/WD~geographic_location,2221906]]'
-  - '[[_Standards/WikiData/WD~location_of_burial,12131650]]'
-  - '[[_Standards/WikiData/WD~facility,13226383]]'
+  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
+  - "[[_Standards/WikiData/WD~architectural_ensemble,1497375]]"
+  - "[[_Standards/WikiData/WD~geographic_location,2221906]]"
+  - "[[_Standards/WikiData/WD~location_of_burial,12131650]]"
+  - "[[_Standards/WikiData/WD~facility,13226383]]"
 different_from:
-  - '[[_Standards/WikiData/WD~churchyard,2749813]]'
-  - '[[_Standards/WikiData/WD~hazire,6034438]]'
-  - '[[_Standards/WikiData/WD~location_of_burial,12131650]]'
-  - '[[_Standards/WikiData/WD~cemetery,_burial_plot,_or_tomb,16859021]]'
-  - '[[_Standards/WikiData/WD~inferred_from_place_of_burial,123001848]]'
+  - "[[_Standards/WikiData/WD~churchyard,2749813]]"
+  - "[[_Standards/WikiData/WD~hazire,6034438]]"
+  - "[[_Standards/WikiData/WD~location_of_burial,12131650]]"
+  - "[[_Standards/WikiData/WD~cemetery,_burial_plot,_or_tomb,16859021]]"
+  - "[[_Standards/WikiData/WD~inferred_from_place_of_burial,123001848]]"
 studied_by:
-  - '[[_Standards/WikiData/WD~necropolis_studies,4316669]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_cemetery,6167586]]'
-maintenance_method: '[[_Standards/WikiData/WD~grave_tending,123597419]]'
+  - "[[_Standards/WikiData/WD~necropolis_studies,4316669]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_cemetery,6167586]]"
+maintenance_method: "[[_Standards/WikiData/WD~grave_tending,123597419]]"
 properties_for_this_type:
   - Commons category
   - inception
@@ -111,6 +111,31 @@ equivalent_class:
   - http://dbpedia.org/ontology/Cemetery
   - https://schema.org/Cemetery
 Unicode_character: ⛼
+dv_#is_:
+  sub_class_of: "[[../CivicStructure]]"
+dv_#has_:
+  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Cemetery,39614|WD~Cemetery,39614]]"
+    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Cemetery|Cemetery]]"
+    - "[[/_public/Earth/Geography/Place/Civic_Structure/Cemetery.public|Cemetery.public]]"
+    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Cemetery.internal|Cemetery.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Cemetery.protect|Cemetery.protect]]"
+    - "[[/_private/Earth/Geography/Place/Civic_Structure/Cemetery.private|Cemetery.private]]"
+    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Cemetery.personal|Cemetery.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Cemetery.secret|Cemetery.secret]]"
+dv_is_sub_class_of: "[[../CivicStructure]]"
+dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Cemetery,39614|WD~Cemetery,39614]]"
+  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Cemetery|Cemetery]]"
+  - "[[/_public/Earth/Geography/Place/Civic_Structure/Cemetery.public|Cemetery.public]]"
+  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Cemetery.internal|Cemetery.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Cemetery.protect|Cemetery.protect]]"
+  - "[[/_private/Earth/Geography/Place/Civic_Structure/Cemetery.private|Cemetery.private]]"
+  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Cemetery.personal|Cemetery.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Cemetery.secret|Cemetery.secret]]"
 ---
 
 # [[Cemetery]] 
@@ -123,9 +148,9 @@ Tag Instances like this:
 #is_a_/cemetery
 
 
-[ #is_/sub_class_of :: [[../CivicStructure]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of`] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
+has_properties = `=this.dv_has_properties` ]
 
 #is_/same_as :: [[../../../../WikiData/WD~Cemetery,39614|WD~Cemetery,39614]] 
 

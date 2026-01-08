@@ -4,12 +4,31 @@ aliases:
   - Geodetic_Reference_System
   - Geodetic Reference System
 has_id_wikidata: Q1502887
-part_of: '[[_Standards/WikiData/WD~spatial_reference_system,161779]]'
-subclass_of: '[[_Standards/WikiData/WD~frame_of_reference,184876]]'
-has_use: '[[_Standards/WikiData/WD~reference_ellipsoid,1335878]]'
+part_of: "[[_Standards/WikiData/WD~spatial_reference_system,161779]]"
+subclass_of: "[[_Standards/WikiData/WD~frame_of_reference,184876]]"
+has_use: "[[_Standards/WikiData/WD~reference_ellipsoid,1335878]]"
 properties_for_this_type: EPSG CRS
 Wikidata_property: EPSG CRS
 Commons_category: Geodetic datum
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Geodetic_reference_system,1502887|WD~Geodetic_reference_system,1502887]]"
+    - "[[/_Standards/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System|Geodetic_Reference_System]]"
+    - "[[/_public/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.public|Geodetic_Reference_System.public]]"
+    - "[[/_internal/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.internal|Geodetic_Reference_System.internal]]"
+    - "[[/_protect/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.protect|Geodetic_Reference_System.protect]]"
+    - "[[/_private/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.private|Geodetic_Reference_System.private]]"
+    - "[[/_personal/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.personal|Geodetic_Reference_System.personal]]"
+    - "[[/_secret/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.secret|Geodetic_Reference_System.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Geodetic_reference_system,1502887|WD~Geodetic_reference_system,1502887]]"
+  - "[[/_Standards/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System|Geodetic_Reference_System]]"
+  - "[[/_public/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.public|Geodetic_Reference_System.public]]"
+  - "[[/_internal/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.internal|Geodetic_Reference_System.internal]]"
+  - "[[/_protect/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.protect|Geodetic_Reference_System.protect]]"
+  - "[[/_private/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.private|Geodetic_Reference_System.private]]"
+  - "[[/_personal/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.personal|Geodetic_Reference_System.personal]]"
+  - "[[/_secret/Earth/Geography/Cartography/Geodesy/Geodetic_Reference_System.secret|Geodetic_Reference_System.secret]]"
 ---
 
 # [[Geodetic_Reference_System]] 

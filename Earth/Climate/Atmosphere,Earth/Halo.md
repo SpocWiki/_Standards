@@ -13,6 +13,25 @@ different_from:
 Commons_gallery: Halo
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Halo%20in%20the%20Himalayas.jpg
 Commons_category: Halo phenomena
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Halo,186310]]"
+    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Halo|Halo]]"
+    - "[[/_public/Earth/Climate/Atmosphere,Earth/Halo.public|Halo.public]]"
+    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Halo.internal|Halo.internal]]"
+    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Halo.protect|Halo.protect]]"
+    - "[[/_private/Earth/Climate/Atmosphere,Earth/Halo.private|Halo.private]]"
+    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Halo.personal|Halo.personal]]"
+    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Halo.secret|Halo.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Halo,186310]]"
+  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Halo|Halo]]"
+  - "[[/_public/Earth/Climate/Atmosphere,Earth/Halo.public|Halo.public]]"
+  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Halo.internal|Halo.internal]]"
+  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Halo.protect|Halo.protect]]"
+  - "[[/_private/Earth/Climate/Atmosphere,Earth/Halo.private|Halo.private]]"
+  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Halo.personal|Halo.personal]]"
+  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Halo.secret|Halo.secret]]"
 ---
 
 # [[Halo]] 

@@ -4,23 +4,23 @@ aliases:
   - Swamp
 has_id_wikidata: Q166735
 subclass_of:
-  - '[[_Standards/WikiData/WD~landscape,107425]]'
-  - '[[_Standards/WikiData/WD~wetland,170321]]'
+  - "[[_Standards/WikiData/WD~landscape,107425]]"
+  - "[[_Standards/WikiData/WD~wetland,170321]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
 different_from:
-  - '[[_Standards/WikiData/WD~bog,1681353]]'
-  - '[[_Standards/WikiData/WD~Q17249182,17249182]]'
-  - '[[_Standards/WikiData/WD~Swamp,22699831]]'
-  - '[[_Standards/WikiData/WD~Q30312340,30312340]]'
-  - '[[_Standards/WikiData/WD~marsh,30198]]'
+  - "[[_Standards/WikiData/WD~bog,1681353]]"
+  - "[[_Standards/WikiData/WD~Q17249182,17249182]]"
+  - "[[_Standards/WikiData/WD~Swamp,22699831]]"
+  - "[[_Standards/WikiData/WD~Q30312340,30312340]]"
+  - "[[_Standards/WikiData/WD~marsh,30198]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~ecological_classification,2032647]]'
-  - '[[_Standards/WikiData/WD~mire_type,11895317]]'
+  - "[[_Standards/WikiData/WD~ecological_classification,2032647]]"
+  - "[[_Standards/WikiData/WD~mire_type,11895317]]"
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~paludified_forest,113989337]]'
-  - '[[_Standards/WikiData/WD~marsh,30198]]'
+  - "[[_Standards/WikiData/WD~paludified_forest,113989337]]"
+  - "[[_Standards/WikiData/WD~marsh,30198]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Briesetal%20bei%20Briese.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%85%D8%B3%D8%AA%D9%86%D9%82%D8%B9.wav
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000233
@@ -29,6 +29,25 @@ Iconclass_notation: 25K19
 GeoNames_feature_code: H.SWMP
 Commons_category: Swamps
 OpenStreetMap_tag: wetland=swamp
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Swamp,166735|WD~Swamp,166735]]"
+    - "[[/_Standards/Earth/Geology/Landform/Swamp|Swamp]]"
+    - "[[/_public/Earth/Geology/Landform/Swamp.public|Swamp.public]]"
+    - "[[/_internal/Earth/Geology/Landform/Swamp.internal|Swamp.internal]]"
+    - "[[/_protect/Earth/Geology/Landform/Swamp.protect|Swamp.protect]]"
+    - "[[/_private/Earth/Geology/Landform/Swamp.private|Swamp.private]]"
+    - "[[/_personal/Earth/Geology/Landform/Swamp.personal|Swamp.personal]]"
+    - "[[/_secret/Earth/Geology/Landform/Swamp.secret|Swamp.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Swamp,166735|WD~Swamp,166735]]"
+  - "[[/_Standards/Earth/Geology/Landform/Swamp|Swamp]]"
+  - "[[/_public/Earth/Geology/Landform/Swamp.public|Swamp.public]]"
+  - "[[/_internal/Earth/Geology/Landform/Swamp.internal|Swamp.internal]]"
+  - "[[/_protect/Earth/Geology/Landform/Swamp.protect|Swamp.protect]]"
+  - "[[/_private/Earth/Geology/Landform/Swamp.private|Swamp.private]]"
+  - "[[/_personal/Earth/Geology/Landform/Swamp.personal|Swamp.personal]]"
+  - "[[/_secret/Earth/Geology/Landform/Swamp.secret|Swamp.secret]]"
 ---
 
 # [[Swamp]] 

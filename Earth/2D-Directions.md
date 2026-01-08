@@ -4,23 +4,42 @@ aliases:
   - Himmelsrichtung
   - 2D-Directions
 has_id_wikidata: Q23718
-has_use: '[[_Standards/WikiData/WD~navigation,102066]]'
-opposite_of: '[[_Standards/WikiData/WD~intercardinal_direction,10351538]]'
+has_use: "[[_Standards/WikiData/WD~navigation,102066]]"
+opposite_of: "[[_Standards/WikiData/WD~intercardinal_direction,10351538]]"
 different_from:
-  - '[[_Standards/WikiData/WD~points_of_the_compass,11114344]]'
-  - '[[_Standards/WikiData/WD~supplementary_intercardinal_direction,22809326]]'
-subclass_of: '[[_Standards/WikiData/WD~geographic_direction,13179187]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681577,25681577]]'
-instance_of: '[[_Standards/WikiData/WD~tetrad,29428373]]'
+  - "[[_Standards/WikiData/WD~points_of_the_compass,11114344]]"
+  - "[[_Standards/WikiData/WD~supplementary_intercardinal_direction,22809326]]"
+subclass_of: "[[_Standards/WikiData/WD~geographic_direction,13179187]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25681577,25681577]]"
+instance_of: "[[_Standards/WikiData/WD~tetrad,29428373]]"
 Wikidata_property: direction relative to location
-studied_by: '[[_Standards/WikiData/WD~geography,1071]]'
+studied_by: "[[_Standards/WikiData/WD~geography,1071]]"
 Iconclass_notation: 25A14
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Compass%20Rose%20de%20small%20N.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/CompassRose%20%28mul%29%2016%20blue%20cardinal.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20compass%20rose.svg
-P8189: 987007283478205171
+P8189: 987007283478205200
 Commons_category: Cardinal direction
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Cardinal_direction,23718|WD~Cardinal_direction,23718]]"
+    - "[[/_Standards/Earth/2D-Directions|2D-Directions]]"
+    - "[[/_public/Earth/2D-Directions.public|2D-Directions.public]]"
+    - "[[/_internal/Earth/2D-Directions.internal|2D-Directions.internal]]"
+    - "[[/_protect/Earth/2D-Directions.protect|2D-Directions.protect]]"
+    - "[[/_private/Earth/2D-Directions.private|2D-Directions.private]]"
+    - "[[/_personal/Earth/2D-Directions.personal|2D-Directions.personal]]"
+    - "[[/_secret/Earth/2D-Directions.secret|2D-Directions.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Cardinal_direction,23718|WD~Cardinal_direction,23718]]"
+  - "[[/_Standards/Earth/2D-Directions|2D-Directions]]"
+  - "[[/_public/Earth/2D-Directions.public|2D-Directions.public]]"
+  - "[[/_internal/Earth/2D-Directions.internal|2D-Directions.internal]]"
+  - "[[/_protect/Earth/2D-Directions.protect|2D-Directions.protect]]"
+  - "[[/_private/Earth/2D-Directions.private|2D-Directions.private]]"
+  - "[[/_personal/Earth/2D-Directions.personal|2D-Directions.personal]]"
+  - "[[/_secret/Earth/2D-Directions.secret|2D-Directions.secret]]"
 ---
 
 # [[2D-Directions]] 

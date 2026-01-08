@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q39671
 P8189: "987007536419005171"
 X_Twitter_username: EH_Stonehenge
@@ -71,6 +71,25 @@ ground_level_360_degree_view_URL:
 official_website: https://www.english-heritage.org.uk/stonehenge
 IPA_transcription: ˌstəʊnˈhendʒ
 Dewey_Decimal_Classification: "936.231"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Stonehenge,39671|WD~Stonehenge,39671]]"
+    - "[[/_Standards/Earth/Geography/Place/Stonehenge|Stonehenge]]"
+    - "[[/_public/Earth/Geography/Place/Stonehenge.public|Stonehenge.public]]"
+    - "[[/_internal/Earth/Geography/Place/Stonehenge.internal|Stonehenge.internal]]"
+    - "[[/_protect/Earth/Geography/Place/Stonehenge.protect|Stonehenge.protect]]"
+    - "[[/_private/Earth/Geography/Place/Stonehenge.private|Stonehenge.private]]"
+    - "[[/_personal/Earth/Geography/Place/Stonehenge.personal|Stonehenge.personal]]"
+    - "[[/_secret/Earth/Geography/Place/Stonehenge.secret|Stonehenge.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Stonehenge,39671|WD~Stonehenge,39671]]"
+  - "[[/_Standards/Earth/Geography/Place/Stonehenge|Stonehenge]]"
+  - "[[/_public/Earth/Geography/Place/Stonehenge.public|Stonehenge.public]]"
+  - "[[/_internal/Earth/Geography/Place/Stonehenge.internal|Stonehenge.internal]]"
+  - "[[/_protect/Earth/Geography/Place/Stonehenge.protect|Stonehenge.protect]]"
+  - "[[/_private/Earth/Geography/Place/Stonehenge.private|Stonehenge.private]]"
+  - "[[/_personal/Earth/Geography/Place/Stonehenge.personal|Stonehenge.personal]]"
+  - "[[/_secret/Earth/Geography/Place/Stonehenge.secret|Stonehenge.secret]]"
 ---
 
 # [[Stonehenge]] 

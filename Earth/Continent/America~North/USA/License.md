@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/America~North/USA/License|License]]"
+    - "[[/_public/Earth/Continent/America~North/USA/License.public|License.public]]"
+    - "[[/_internal/Earth/Continent/America~North/USA/License.internal|License.internal]]"
+    - "[[/_protect/Earth/Continent/America~North/USA/License.protect|License.protect]]"
+    - "[[/_private/Earth/Continent/America~North/USA/License.private|License.private]]"
+    - "[[/_personal/Earth/Continent/America~North/USA/License.personal|License.personal]]"
+    - "[[/_secret/Earth/Continent/America~North/USA/License.secret|License.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/America~North/USA/License|License]]"
+  - "[[/_public/Earth/Continent/America~North/USA/License.public|License.public]]"
+  - "[[/_internal/Earth/Continent/America~North/USA/License.internal|License.internal]]"
+  - "[[/_protect/Earth/Continent/America~North/USA/License.protect|License.protect]]"
+  - "[[/_private/Earth/Continent/America~North/USA/License.private|License.private]]"
+  - "[[/_personal/Earth/Continent/America~North/USA/License.personal|License.personal]]"
+  - "[[/_secret/Earth/Continent/America~North/USA/License.secret|License.secret]]"
+---
 # Creative Commons Legal Code
 
 [![License: CC BY-SA 3.0](https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/3.0/)

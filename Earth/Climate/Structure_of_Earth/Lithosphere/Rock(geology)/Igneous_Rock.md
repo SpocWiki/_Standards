@@ -13,6 +13,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Roques%20de%20Garia%20
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002013
 Commons_gallery: Igneous rock
 Commons_category: Igneous rocks
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Igneous_rock,42045]]"
+    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock|Igneous_Rock]]"
+    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.public|Igneous_Rock.public]]"
+    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.internal|Igneous_Rock.internal]]"
+    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.protect|Igneous_Rock.protect]]"
+    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.private|Igneous_Rock.private]]"
+    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.personal|Igneous_Rock.personal]]"
+    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.secret|Igneous_Rock.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Igneous_rock,42045]]"
+  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock|Igneous_Rock]]"
+  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.public|Igneous_Rock.public]]"
+  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.internal|Igneous_Rock.internal]]"
+  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.protect|Igneous_Rock.protect]]"
+  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.private|Igneous_Rock.private]]"
+  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.personal|Igneous_Rock.personal]]"
+  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.secret|Igneous_Rock.secret]]"
 ---
 
 # [[Igneous_Rock]] 

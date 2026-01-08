@@ -1,5 +1,25 @@
-﻿---
-location: [ 80.0 , 50.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Eurasia,5401|WD~Eurasia,5401]]"
+    - "[[/_Standards/Earth/Continent/Eurasia|Eurasia]]"
+    - "[[/_public/Earth/Continent/Eurasia.public|Eurasia.public]]"
+    - "[[/_internal/Earth/Continent/Eurasia.internal|Eurasia.internal]]"
+    - "[[/_protect/Earth/Continent/Eurasia.protect|Eurasia.protect]]"
+    - "[[/_private/Earth/Continent/Eurasia.private|Eurasia.private]]"
+    - "[[/_personal/Earth/Continent/Eurasia.personal|Eurasia.personal]]"
+    - "[[/_secret/Earth/Continent/Eurasia.secret|Eurasia.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Eurasia,5401|WD~Eurasia,5401]]"
+  - "[[/_Standards/Earth/Continent/Eurasia|Eurasia]]"
+  - "[[/_public/Earth/Continent/Eurasia.public|Eurasia.public]]"
+  - "[[/_internal/Earth/Continent/Eurasia.internal|Eurasia.internal]]"
+  - "[[/_protect/Earth/Continent/Eurasia.protect|Eurasia.protect]]"
+  - "[[/_private/Earth/Continent/Eurasia.private|Eurasia.private]]"
+  - "[[/_personal/Earth/Continent/Eurasia.personal|Eurasia.personal]]"
+  - "[[/_secret/Earth/Continent/Eurasia.secret|Eurasia.secret]]"
+
+location: [ 50.0 , 80.0 ] 
 aliases:
   - Eurasien
   - Eurasia
@@ -61,6 +81,20 @@ Libris_URI: ljx0zgn45n53f5s
 # [[Eurasia]] 
 
 #is_/same_as :: [[../../WikiData/WD~Eurasia,5401|WD~Eurasia,5401]] 
+
+## #has_/map  
+
+```leaflet
+id: Eurasia
+zoomFeatures: true 
+minZoom: 1 
+maxZoom: 18
+geojsonFolder: ./Eurasia//
+markerFolder: ./Eurasia/
+coordinates: [[Eurasia]] 
+markerFile: [[Eurasia]] 
+defaultZoom: 3 
+```
 
 ## #has_/text_of_/abstract 
 

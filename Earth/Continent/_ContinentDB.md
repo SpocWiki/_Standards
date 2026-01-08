@@ -1,8 +1,25 @@
 ---
 aliases:
   - _ContinentDB
-  - ' ContinentDB'
+  - " ContinentDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/_ContinentDB|_ContinentDB]]"
+    - "[[/_public/Earth/Continent/_ContinentDB.public|_ContinentDB.public]]"
+    - "[[/_internal/Earth/Continent/_ContinentDB.internal|_ContinentDB.internal]]"
+    - "[[/_protect/Earth/Continent/_ContinentDB.protect|_ContinentDB.protect]]"
+    - "[[/_private/Earth/Continent/_ContinentDB.private|_ContinentDB.private]]"
+    - "[[/_personal/Earth/Continent/_ContinentDB.personal|_ContinentDB.personal]]"
+    - "[[/_secret/Earth/Continent/_ContinentDB.secret|_ContinentDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/_ContinentDB|_ContinentDB]]"
+  - "[[/_public/Earth/Continent/_ContinentDB.public|_ContinentDB.public]]"
+  - "[[/_internal/Earth/Continent/_ContinentDB.internal|_ContinentDB.internal]]"
+  - "[[/_protect/Earth/Continent/_ContinentDB.protect|_ContinentDB.protect]]"
+  - "[[/_private/Earth/Continent/_ContinentDB.private|_ContinentDB.private]]"
+  - "[[/_personal/Earth/Continent/_ContinentDB.personal|_ContinentDB.personal]]"
+  - "[[/_secret/Earth/Continent/_ContinentDB.secret|_ContinentDB.secret]]"
 ---
 
 ```yaml:dbfolder

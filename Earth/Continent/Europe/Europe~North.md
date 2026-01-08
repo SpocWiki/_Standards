@@ -3,6 +3,23 @@ aliases:
   - North Europe
   - Northern Europe
   - Europe~North
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North|Europe~North]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North.public|Europe~North.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North.internal|Europe~North.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North.protect|Europe~North.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North.private|Europe~North.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North.personal|Europe~North.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North.secret|Europe~North.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Europe/Europe~North|Europe~North]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~North.public|Europe~North.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~North.internal|Europe~North.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~North.protect|Europe~North.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~North.private|Europe~North.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~North.personal|Europe~North.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~North.secret|Europe~North.secret]]"
 ---
 
 # Europe~North

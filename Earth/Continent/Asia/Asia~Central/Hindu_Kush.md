@@ -1,5 +1,25 @@
-﻿---
-location: [ 71.0 , 35.0 ] 
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Hindu_Kush,5472|WD~Hindu_Kush,5472]]"
+    - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Hindu_Kush|Hindu_Kush]]"
+    - "[[/_public/Earth/Continent/Asia/Asia~Central/Hindu_Kush.public|Hindu_Kush.public]]"
+    - "[[/_internal/Earth/Continent/Asia/Asia~Central/Hindu_Kush.internal|Hindu_Kush.internal]]"
+    - "[[/_protect/Earth/Continent/Asia/Asia~Central/Hindu_Kush.protect|Hindu_Kush.protect]]"
+    - "[[/_private/Earth/Continent/Asia/Asia~Central/Hindu_Kush.private|Hindu_Kush.private]]"
+    - "[[/_personal/Earth/Continent/Asia/Asia~Central/Hindu_Kush.personal|Hindu_Kush.personal]]"
+    - "[[/_secret/Earth/Continent/Asia/Asia~Central/Hindu_Kush.secret|Hindu_Kush.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Hindu_Kush,5472|WD~Hindu_Kush,5472]]"
+  - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Hindu_Kush|Hindu_Kush]]"
+  - "[[/_public/Earth/Continent/Asia/Asia~Central/Hindu_Kush.public|Hindu_Kush.public]]"
+  - "[[/_internal/Earth/Continent/Asia/Asia~Central/Hindu_Kush.internal|Hindu_Kush.internal]]"
+  - "[[/_protect/Earth/Continent/Asia/Asia~Central/Hindu_Kush.protect|Hindu_Kush.protect]]"
+  - "[[/_private/Earth/Continent/Asia/Asia~Central/Hindu_Kush.private|Hindu_Kush.private]]"
+  - "[[/_personal/Earth/Continent/Asia/Asia~Central/Hindu_Kush.personal|Hindu_Kush.personal]]"
+  - "[[/_secret/Earth/Continent/Asia/Asia~Central/Hindu_Kush.secret|Hindu_Kush.secret]]"
+
+location: [ 35.0, 71.0 ] 
 aliases:
 has_id_wikidata: Q5472
 highest_point: "[[_Standards/WikiData/WD~Terich_Mir,207132]]"
@@ -25,6 +45,20 @@ Commons_category: Hindu Kush
 # [[Hindu_Kush]] 
 
 #is_/same_as :: [[WikiData/WD~Hindu_Kush,5472|WD~Hindu_Kush,5472]] 
+
+## #has_/map  
+
+```leaflet
+id: Hindu_Kush
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojsonFolder: ./Hindu_Kush//
+markerFolder: ./Hindu_Kush/
+coordinates: [[Hindu_Kush]] 
+markerFile: [[Hindu_Kush]] 
+defaultZoom: 5 
+```
 
 ## #has_/text_of_/abstract 
 
@@ -58,7 +92,7 @@ Commons_category: Hindu Kush
 > when it was converted to Islam by the Emirate of Afghanistan 
 > and renamed Nuristan ("land of light"). 
 > 
-> The Hindu Kush range has also been the passageway for invasions of the Indian subcontinent, 
+> The Hindu Kush range has also been the Hindu_Kushfor invasions of the Indian subcontinent, 
 > and continues to be important to contemporary warfare in Afghanistan.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hindu%20Kush) 

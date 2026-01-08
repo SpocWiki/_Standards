@@ -1,8 +1,25 @@
 ---
 aliases:
   - _Australia-CountryDb
-  - ' Australia-CountryDb'
+  - " Australia-CountryDb"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Earth/Continent/Australasia/_Australia-CountryDb|_Australia-CountryDb]]"
+    - "[[/_public/Earth/Continent/Australasia/_Australia-CountryDb.public|_Australia-CountryDb.public]]"
+    - "[[/_internal/Earth/Continent/Australasia/_Australia-CountryDb.internal|_Australia-CountryDb.internal]]"
+    - "[[/_protect/Earth/Continent/Australasia/_Australia-CountryDb.protect|_Australia-CountryDb.protect]]"
+    - "[[/_private/Earth/Continent/Australasia/_Australia-CountryDb.private|_Australia-CountryDb.private]]"
+    - "[[/_personal/Earth/Continent/Australasia/_Australia-CountryDb.personal|_Australia-CountryDb.personal]]"
+    - "[[/_secret/Earth/Continent/Australasia/_Australia-CountryDb.secret|_Australia-CountryDb.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Earth/Continent/Australasia/_Australia-CountryDb|_Australia-CountryDb]]"
+  - "[[/_public/Earth/Continent/Australasia/_Australia-CountryDb.public|_Australia-CountryDb.public]]"
+  - "[[/_internal/Earth/Continent/Australasia/_Australia-CountryDb.internal|_Australia-CountryDb.internal]]"
+  - "[[/_protect/Earth/Continent/Australasia/_Australia-CountryDb.protect|_Australia-CountryDb.protect]]"
+  - "[[/_private/Earth/Continent/Australasia/_Australia-CountryDb.private|_Australia-CountryDb.private]]"
+  - "[[/_personal/Earth/Continent/Australasia/_Australia-CountryDb.personal|_Australia-CountryDb.personal]]"
+  - "[[/_secret/Earth/Continent/Australasia/_Australia-CountryDb.secret|_Australia-CountryDb.secret]]"
 ---
 
 ```yaml:dbfolder

@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cave,35509|WD~Cave,35509]]"
+    - "[[/_Standards/Earth/Geography/Cave|Cave]]"
+    - "[[/_public/Earth/Geography/Cave.public|Cave.public]]"
+    - "[[/_internal/Earth/Geography/Cave.internal|Cave.internal]]"
+    - "[[/_protect/Earth/Geography/Cave.protect|Cave.protect]]"
+    - "[[/_private/Earth/Geography/Cave.private|Cave.private]]"
+    - "[[/_personal/Earth/Geography/Cave.personal|Cave.personal]]"
+    - "[[/_secret/Earth/Geography/Cave.secret|Cave.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cave,35509|WD~Cave,35509]]"
+  - "[[/_Standards/Earth/Geography/Cave|Cave]]"
+  - "[[/_public/Earth/Geography/Cave.public|Cave.public]]"
+  - "[[/_internal/Earth/Geography/Cave.internal|Cave.internal]]"
+  - "[[/_protect/Earth/Geography/Cave.protect|Cave.protect]]"
+  - "[[/_private/Earth/Geography/Cave.private|Cave.private]]"
+  - "[[/_personal/Earth/Geography/Cave.personal|Cave.personal]]"
+  - "[[/_secret/Earth/Geography/Cave.secret|Cave.secret]]"
+---
 
 # [[Cave]] 
 

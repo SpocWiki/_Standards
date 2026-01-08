@@ -26,6 +26,25 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bering%20S
 U_S_National_Archives_Identifier: "10046362"
 Commons_category: Bering Strait
 coordinates_of_geographic_center: Point(-168.88625 65.861388888)
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Bering_Strait,11769|WD~Bering_Strait,11769]]"
+    - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait|Bering_Strait]]"
+    - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.public|Bering_Strait.public]]"
+    - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.internal|Bering_Strait.internal]]"
+    - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.protect|Bering_Strait.protect]]"
+    - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.private|Bering_Strait.private]]"
+    - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.personal|Bering_Strait.personal]]"
+    - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.secret|Bering_Strait.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Bering_Strait,11769|WD~Bering_Strait,11769]]"
+  - "[[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait|Bering_Strait]]"
+  - "[[/_public/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.public|Bering_Strait.public]]"
+  - "[[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.internal|Bering_Strait.internal]]"
+  - "[[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.protect|Bering_Strait.protect]]"
+  - "[[/_private/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.private|Bering_Strait.private]]"
+  - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.personal|Bering_Strait.personal]]"
+  - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.secret|Bering_Strait.secret]]"
 ---
 
 # [[Bering_Strait]] 
