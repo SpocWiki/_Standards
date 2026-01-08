@@ -10,27 +10,27 @@ tags:
   - astro/Zodiac
 type: Zodiac
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-child_astronomical_body: '[[_Standards/WikiData/WD~Delta_Aurigids,1184791]]'
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
-named_after: '[[_Standards/WikiData/WD~auriga,2570377]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+child_astronomical_body: "[[_Standards/WikiData/WD~Delta_Aurigids,1184791]]"
+part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
+named_after: "[[_Standards/WikiData/WD~auriga,2570377]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Auriga_(constellation),6520378]]'
-  - '[[_Standards/WikiData/WD~Q10729146,10729146]]'
-has_part_s_: '[[_Standards/WikiData/WD~Eight_Kinds_of_Crops,10892329]]'
+  - "[[_Standards/WikiData/WD~Template_Auriga_(constellation),6520378]]"
+  - "[[_Standards/WikiData/WD~Q10729146,10729146]]"
+has_part_s_: "[[_Standards/WikiData/WD~Eight_Kinds_of_Crops,10892329]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Camelopardalis,8832]]'
-  - '[[_Standards/WikiData/WD~Gemini,8923]]'
-  - '[[_Standards/WikiData/WD~Lynx,10443]]'
-  - '[[_Standards/WikiData/WD~Perseus,10511]]'
-  - '[[_Standards/WikiData/WD~Taurus,10570]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Camelopardalis,8832]]"
+  - "[[_Standards/WikiData/WD~Gemini,8923]]"
+  - "[[_Standards/WikiData/WD~Lynx,10443]]"
+  - "[[_Standards/WikiData/WD~Perseus,10511]]"
+  - "[[_Standards/WikiData/WD~Taurus,10570]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 657
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Auriga%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Auriga%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
@@ -39,15 +39,44 @@ Commons_gallery: Auriga
 Commons_category: Auriga (constellation)
 short_name: Aur
 official_name: Auriga
+dv_SpocWebEntityId: 28090
+dv_#has_:
+  name_:
+    la: Auriga
+    la_:
+      genitive: Aurigae
+    de: Fuhrmann
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Auriga,10476|WD~Auriga,10476]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Auriga|Zodiac~Auriga]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Auriga.public|Zodiac~Auriga.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Auriga.internal|Zodiac~Auriga.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Auriga.protect|Zodiac~Auriga.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Auriga.private|Zodiac~Auriga.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Auriga.personal|Zodiac~Auriga.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Auriga.secret|Zodiac~Auriga.secret]]"
+dv_has_name_la: Auriga
+dv_has_name_la_genitive: Aurigae
+dv_has_name_de: Fuhrmann
+dv_is_same_as:
+  - "[[../../WikiData/WD~Auriga,10476|WD~Auriga,10476]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Auriga|Zodiac~Auriga]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Auriga.public|Zodiac~Auriga.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Auriga.internal|Zodiac~Auriga.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Auriga.protect|Zodiac~Auriga.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Auriga.private|Zodiac~Auriga.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Auriga.personal|Zodiac~Auriga.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Auriga.secret|Zodiac~Auriga.secret]]"
 ---
 
 # [[Zodiac~Auriga]] 
 
-[SpocWebEntityId::28090] 
+SpocWebEntityId = `=this.dv_SpocWebEntityId`  
 
-[#has_/name_/la::Auriga]
-[#has_/name_/la_/genitive::Aurigae]
-[#has_/name_/de::Fuhrmann]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Auriga,10476|WD~Auriga,10476]] 
 

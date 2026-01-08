@@ -12,6 +12,25 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Artist%E2%80%99s%20imp
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20-%20Messier%2087%20crop%20max%20res.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Supermassive%20black%20hole-article.ogg
 Commons_category: Supermassive black holes
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Supermassive_black_hole,40392|WD~Supermassive_black_hole,40392]]"
+    - "[[/_Standards/Astronomy/Black_Hole/Supermassive_Black_Hole|Supermassive_Black_Hole]]"
+    - "[[/_public/Astronomy/Black_Hole/Supermassive_Black_Hole.public|Supermassive_Black_Hole.public]]"
+    - "[[/_internal/Astronomy/Black_Hole/Supermassive_Black_Hole.internal|Supermassive_Black_Hole.internal]]"
+    - "[[/_protect/Astronomy/Black_Hole/Supermassive_Black_Hole.protect|Supermassive_Black_Hole.protect]]"
+    - "[[/_private/Astronomy/Black_Hole/Supermassive_Black_Hole.private|Supermassive_Black_Hole.private]]"
+    - "[[/_personal/Astronomy/Black_Hole/Supermassive_Black_Hole.personal|Supermassive_Black_Hole.personal]]"
+    - "[[/_secret/Astronomy/Black_Hole/Supermassive_Black_Hole.secret|Supermassive_Black_Hole.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Supermassive_black_hole,40392|WD~Supermassive_black_hole,40392]]"
+  - "[[/_Standards/Astronomy/Black_Hole/Supermassive_Black_Hole|Supermassive_Black_Hole]]"
+  - "[[/_public/Astronomy/Black_Hole/Supermassive_Black_Hole.public|Supermassive_Black_Hole.public]]"
+  - "[[/_internal/Astronomy/Black_Hole/Supermassive_Black_Hole.internal|Supermassive_Black_Hole.internal]]"
+  - "[[/_protect/Astronomy/Black_Hole/Supermassive_Black_Hole.protect|Supermassive_Black_Hole.protect]]"
+  - "[[/_private/Astronomy/Black_Hole/Supermassive_Black_Hole.private|Supermassive_Black_Hole.private]]"
+  - "[[/_personal/Astronomy/Black_Hole/Supermassive_Black_Hole.personal|Supermassive_Black_Hole.personal]]"
+  - "[[/_secret/Astronomy/Black_Hole/Supermassive_Black_Hole.secret|Supermassive_Black_Hole.secret]]"
 ---
 
 # [[Supermassive_Black_Hole]] 

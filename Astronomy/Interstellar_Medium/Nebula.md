@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Nebula,42372]]"
+    - "[[/_Standards/Astronomy/Interstellar_Medium/Nebula|Nebula]]"
+    - "[[/_public/Astronomy/Interstellar_Medium/Nebula.public|Nebula.public]]"
+    - "[[/_internal/Astronomy/Interstellar_Medium/Nebula.internal|Nebula.internal]]"
+    - "[[/_protect/Astronomy/Interstellar_Medium/Nebula.protect|Nebula.protect]]"
+    - "[[/_private/Astronomy/Interstellar_Medium/Nebula.private|Nebula.private]]"
+    - "[[/_personal/Astronomy/Interstellar_Medium/Nebula.personal|Nebula.personal]]"
+    - "[[/_secret/Astronomy/Interstellar_Medium/Nebula.secret|Nebula.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Nebula,42372]]"
+  - "[[/_Standards/Astronomy/Interstellar_Medium/Nebula|Nebula]]"
+  - "[[/_public/Astronomy/Interstellar_Medium/Nebula.public|Nebula.public]]"
+  - "[[/_internal/Astronomy/Interstellar_Medium/Nebula.internal|Nebula.internal]]"
+  - "[[/_protect/Astronomy/Interstellar_Medium/Nebula.protect|Nebula.protect]]"
+  - "[[/_private/Astronomy/Interstellar_Medium/Nebula.private|Nebula.private]]"
+  - "[[/_personal/Astronomy/Interstellar_Medium/Nebula.personal|Nebula.personal]]"
+  - "[[/_secret/Astronomy/Interstellar_Medium/Nebula.secret|Nebula.secret]]"
+---
 
 # [[Nebula]] 
 

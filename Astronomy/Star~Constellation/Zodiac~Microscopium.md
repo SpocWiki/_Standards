@@ -10,22 +10,22 @@ tags:
   - astro/Zodiac
 type: Zodiac
 named_after:
-  - '[[_Standards/WikiData/WD~microscope,196538]]'
-  - '[[_Standards/WikiData/WD~Antonie_van_Leeuwenhoek,43522]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+  - "[[_Standards/WikiData/WD~microscope,196538]]"
+  - "[[_Standards/WikiData/WD~Antonie_van_Leeuwenhoek,43522]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Microscopium,6449737]]'
-  - '[[_Standards/WikiData/WD~Q10729080,10729080]]'
+  - "[[_Standards/WikiData/WD~Template_Microscopium,6449737]]"
+  - "[[_Standards/WikiData/WD~Q10729080,10729080]]"
 time_of_discovery_or_invention: 1751-01-01T00:00:00Z
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Sagittarius,8866]]'
-  - '[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]'
-  - '[[_Standards/WikiData/WD~Indus,10450]]'
-  - '[[_Standards/WikiData/WD~Capricornus,10535]]'
-  - '[[_Standards/WikiData/WD~Telescopium,10546]]'
-  - '[[_Standards/WikiData/WD~Grus,10563]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Sagittarius,8866]]"
+  - "[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]"
+  - "[[_Standards/WikiData/WD~Indus,10450]]"
+  - "[[_Standards/WikiData/WD~Capricornus,10535]]"
+  - "[[_Standards/WikiData/WD~Telescopium,10546]]"
+  - "[[_Standards/WikiData/WD~Grus,10563]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 209.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Microscopium.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Microscopium%20constellation%20map.svg
@@ -34,15 +34,44 @@ Commons_gallery: Microscopium
 Commons_category: Microscopium (constellation)
 short_name: Mic
 official_name: Microscopium
+dv_SpocWebEntityId: 28136
+dv_#has_:
+  name_:
+    la: Microscopium
+    la_:
+      genitive: Microscopii
+    de: Mikroskop
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Microscopium,10492]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Microscopium|Zodiac~Microscopium]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Microscopium.public|Zodiac~Microscopium.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Microscopium.internal|Zodiac~Microscopium.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Microscopium.protect|Zodiac~Microscopium.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Microscopium.private|Zodiac~Microscopium.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Microscopium.personal|Zodiac~Microscopium.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Microscopium.secret|Zodiac~Microscopium.secret]]"
+dv_has_name_la: Microscopium
+dv_has_name_la_genitive: Microscopii
+dv_has_name_de: Mikroskop
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Microscopium,10492]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Microscopium|Zodiac~Microscopium]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Microscopium.public|Zodiac~Microscopium.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Microscopium.internal|Zodiac~Microscopium.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Microscopium.protect|Zodiac~Microscopium.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Microscopium.private|Zodiac~Microscopium.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Microscopium.personal|Zodiac~Microscopium.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Microscopium.secret|Zodiac~Microscopium.secret]]"
 ---
 
 # [[Zodiac~Microscopium]] 
 
-[SpocWebEntityId::28136]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Microscopium]
-[#has_/name_/la_/genitive::Microscopii]
-[#has_/name_/de::Mikroskop]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Microscopium,10492]] 
 

@@ -5,26 +5,26 @@ aliases:
   - Dark Matter
 has_id_wikidata: Q79925
 different_from:
-  - '[[_Standards/WikiData/WD~antimatter,83197]]'
-  - '[[_Standards/WikiData/WD~dark_fluid,5223514]]'
-  - '[[_Standards/WikiData/WD~dark_energy,18343]]'
+  - "[[_Standards/WikiData/WD~antimatter,83197]]"
+  - "[[_Standards/WikiData/WD~dark_fluid,5223514]]"
+  - "[[_Standards/WikiData/WD~dark_energy,18343]]"
 part_of:
-  - '[[_Standards/WikiData/WD~observable_universe,221392]]'
-  - '[[_Standards/WikiData/WD~hidden_sector,16919810]]'
-has_characteristic: '[[_Standards/WikiData/WD~gravitational_mass,1076402]]'
+  - "[[_Standards/WikiData/WD~observable_universe,221392]]"
+  - "[[_Standards/WikiData/WD~hidden_sector,16919810]]"
+has_characteristic: "[[_Standards/WikiData/WD~gravitational_mass,1076402]]"
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~weakly_interacting_massive_particle,1129252]]'
-  - '[[_Standards/WikiData/WD~cold_dark_matter,1153477]]'
-model_item: '[[_Standards/WikiData/WD~cold_dark_matter,1153477]]'
-instance_of: '[[_Standards/WikiData/WD~hypothetical_entity,18706315]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Dark_matter,21400304]]'
+  - "[[_Standards/WikiData/WD~weakly_interacting_massive_particle,1129252]]"
+  - "[[_Standards/WikiData/WD~cold_dark_matter,1153477]]"
+model_item: "[[_Standards/WikiData/WD~cold_dark_matter,1153477]]"
+instance_of: "[[_Standards/WikiData/WD~hypothetical_entity,18706315]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Dark_matter,21400304]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_substance,28732711]]'
-  - '[[_Standards/WikiData/WD~matter,35758]]'
-  - '[[_Standards/WikiData/WD~interstellar_medium,41872]]'
+  - "[[_Standards/WikiData/WD~physical_substance,28732711]]"
+  - "[[_Standards/WikiData/WD~matter,35758]]"
+  - "[[_Standards/WikiData/WD~interstellar_medium,41872]]"
 studied_by:
-  - '[[_Standards/WikiData/WD~cosmology,338]]'
-  - '[[_Standards/WikiData/WD~astrophysics,37547]]'
+  - "[[_Standards/WikiData/WD~cosmology,338]]"
+  - "[[_Standards/WikiData/WD~astrophysics,37547]]"
 OmegaWiki_Defined_Meaning: 7964
 Commons_category: Dark matter
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CFHTLenSDMmap2012.jpg
@@ -32,6 +32,25 @@ Stack_Exchange_tag:
   - https://astronomy.stackexchange.com/tags/dark-matter
   - https://physics.stackexchange.com/tags/dark-matter
 Dewey_Decimal_Classification: 523.1126
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Dark_matter,79925|WD~Dark_matter,79925]]"
+    - "[[/_Standards/Astronomy/Dark_Matter|Dark_Matter]]"
+    - "[[/_public/Astronomy/Dark_Matter.public|Dark_Matter.public]]"
+    - "[[/_internal/Astronomy/Dark_Matter.internal|Dark_Matter.internal]]"
+    - "[[/_protect/Astronomy/Dark_Matter.protect|Dark_Matter.protect]]"
+    - "[[/_private/Astronomy/Dark_Matter.private|Dark_Matter.private]]"
+    - "[[/_personal/Astronomy/Dark_Matter.personal|Dark_Matter.personal]]"
+    - "[[/_secret/Astronomy/Dark_Matter.secret|Dark_Matter.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Dark_matter,79925|WD~Dark_matter,79925]]"
+  - "[[/_Standards/Astronomy/Dark_Matter|Dark_Matter]]"
+  - "[[/_public/Astronomy/Dark_Matter.public|Dark_Matter.public]]"
+  - "[[/_internal/Astronomy/Dark_Matter.internal|Dark_Matter.internal]]"
+  - "[[/_protect/Astronomy/Dark_Matter.protect|Dark_Matter.protect]]"
+  - "[[/_private/Astronomy/Dark_Matter.private|Dark_Matter.private]]"
+  - "[[/_personal/Astronomy/Dark_Matter.personal|Dark_Matter.personal]]"
+  - "[[/_secret/Astronomy/Dark_Matter.secret|Dark_Matter.secret]]"
 ---
 
 # [[Dark_Matter]] 

@@ -5,6 +5,25 @@ instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 subclass_of: "[[_Standards/WikiData/WD~giant_star,5875]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20giant%20simulation%204%20%28cropped%29.jpg
 Commons_category: Red giants
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Red_giant,50081]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Red_Giant|Red_Giant]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Red_Giant.public|Red_Giant.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Red_Giant.internal|Red_Giant.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Red_Giant.protect|Red_Giant.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Red_Giant.private|Red_Giant.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Red_Giant.personal|Red_Giant.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Red_Giant.secret|Red_Giant.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Red_giant,50081]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Red_Giant|Red_Giant]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Red_Giant.public|Red_Giant.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Red_Giant.internal|Red_Giant.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Red_Giant.protect|Red_Giant.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Red_Giant.private|Red_Giant.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Red_Giant.personal|Red_Giant.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Red_Giant.secret|Red_Giant.secret]]"
 ---
 
 # [[Red_Giant]]

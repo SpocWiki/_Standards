@@ -18,6 +18,25 @@ practiced_by: "[[_Standards/WikiData/WD~historian_of_astronomy,108575657]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nebra%20Scheibe.jpg
 Basisklassifikation: "39.01"
 Commons_category: History of astronomy
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~History_of_astronomy,50056|WD~History_of_astronomy,50056]]"
+    - "[[/_Standards/Astronomy/History_of_Astronomy|History_of_Astronomy]]"
+    - "[[/_public/Astronomy/History_of_Astronomy.public|History_of_Astronomy.public]]"
+    - "[[/_internal/Astronomy/History_of_Astronomy.internal|History_of_Astronomy.internal]]"
+    - "[[/_protect/Astronomy/History_of_Astronomy.protect|History_of_Astronomy.protect]]"
+    - "[[/_private/Astronomy/History_of_Astronomy.private|History_of_Astronomy.private]]"
+    - "[[/_personal/Astronomy/History_of_Astronomy.personal|History_of_Astronomy.personal]]"
+    - "[[/_secret/Astronomy/History_of_Astronomy.secret|History_of_Astronomy.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~History_of_astronomy,50056|WD~History_of_astronomy,50056]]"
+  - "[[/_Standards/Astronomy/History_of_Astronomy|History_of_Astronomy]]"
+  - "[[/_public/Astronomy/History_of_Astronomy.public|History_of_Astronomy.public]]"
+  - "[[/_internal/Astronomy/History_of_Astronomy.internal|History_of_Astronomy.internal]]"
+  - "[[/_protect/Astronomy/History_of_Astronomy.protect|History_of_Astronomy.protect]]"
+  - "[[/_private/Astronomy/History_of_Astronomy.private|History_of_Astronomy.private]]"
+  - "[[/_personal/Astronomy/History_of_Astronomy.personal|History_of_Astronomy.personal]]"
+  - "[[/_secret/Astronomy/History_of_Astronomy.secret|History_of_Astronomy.secret]]"
 ---
 
 # [[History_of_Astronomy]] 

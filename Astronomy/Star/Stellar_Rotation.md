@@ -2,6 +2,25 @@
 aliases:
 has_id_wikidata: Q6464
 subclass_of: "[[_Standards/WikiData/WD~rotation_around_a_fixed_axis,2995427]]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Stellar_rotation,6464|WD~Stellar_rotation,6464]]"
+    - "[[/_Standards/Astronomy/Star/Stellar_Rotation|Stellar_Rotation]]"
+    - "[[/_public/Astronomy/Star/Stellar_Rotation.public|Stellar_Rotation.public]]"
+    - "[[/_internal/Astronomy/Star/Stellar_Rotation.internal|Stellar_Rotation.internal]]"
+    - "[[/_protect/Astronomy/Star/Stellar_Rotation.protect|Stellar_Rotation.protect]]"
+    - "[[/_private/Astronomy/Star/Stellar_Rotation.private|Stellar_Rotation.private]]"
+    - "[[/_personal/Astronomy/Star/Stellar_Rotation.personal|Stellar_Rotation.personal]]"
+    - "[[/_secret/Astronomy/Star/Stellar_Rotation.secret|Stellar_Rotation.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Stellar_rotation,6464|WD~Stellar_rotation,6464]]"
+  - "[[/_Standards/Astronomy/Star/Stellar_Rotation|Stellar_Rotation]]"
+  - "[[/_public/Astronomy/Star/Stellar_Rotation.public|Stellar_Rotation.public]]"
+  - "[[/_internal/Astronomy/Star/Stellar_Rotation.internal|Stellar_Rotation.internal]]"
+  - "[[/_protect/Astronomy/Star/Stellar_Rotation.protect|Stellar_Rotation.protect]]"
+  - "[[/_private/Astronomy/Star/Stellar_Rotation.private|Stellar_Rotation.private]]"
+  - "[[/_personal/Astronomy/Star/Stellar_Rotation.personal|Stellar_Rotation.personal]]"
+  - "[[/_secret/Astronomy/Star/Stellar_Rotation.secret|Stellar_Rotation.secret]]"
 ---
 
 # [[Stellar_Rotation]] 

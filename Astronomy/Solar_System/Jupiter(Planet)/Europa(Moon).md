@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Europa,3143|WD~Europa,3143]]"
+    - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon)|Europa(Moon)]]"
+    - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).public|Europa(Moon).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).internal|Europa(Moon).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).protect|Europa(Moon).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).private|Europa(Moon).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).personal|Europa(Moon).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).secret|Europa(Moon).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Europa,3143|WD~Europa,3143]]"
+  - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon)|Europa(Moon)]]"
+  - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).public|Europa(Moon).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).internal|Europa(Moon).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).protect|Europa(Moon).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).private|Europa(Moon).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).personal|Europa(Moon).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).secret|Europa(Moon).secret]]"
+---
 
 # [[Europa(Moon)]] 
 

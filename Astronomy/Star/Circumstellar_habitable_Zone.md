@@ -13,6 +13,25 @@ has_characteristic:
   - "[[_Standards/WikiData/WD~liquid_water,29053744]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kepler-22%20diagram.jpg
 Commons_category: Habitable zone
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Circumstellar_habitable_zone,215913|WD~Circumstellar_habitable_zone,215913]]"
+    - "[[/_Standards/Astronomy/Star/Circumstellar_habitable_Zone|Circumstellar_habitable_Zone]]"
+    - "[[/_public/Astronomy/Star/Circumstellar_habitable_Zone.public|Circumstellar_habitable_Zone.public]]"
+    - "[[/_internal/Astronomy/Star/Circumstellar_habitable_Zone.internal|Circumstellar_habitable_Zone.internal]]"
+    - "[[/_protect/Astronomy/Star/Circumstellar_habitable_Zone.protect|Circumstellar_habitable_Zone.protect]]"
+    - "[[/_private/Astronomy/Star/Circumstellar_habitable_Zone.private|Circumstellar_habitable_Zone.private]]"
+    - "[[/_personal/Astronomy/Star/Circumstellar_habitable_Zone.personal|Circumstellar_habitable_Zone.personal]]"
+    - "[[/_secret/Astronomy/Star/Circumstellar_habitable_Zone.secret|Circumstellar_habitable_Zone.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Circumstellar_habitable_zone,215913|WD~Circumstellar_habitable_zone,215913]]"
+  - "[[/_Standards/Astronomy/Star/Circumstellar_habitable_Zone|Circumstellar_habitable_Zone]]"
+  - "[[/_public/Astronomy/Star/Circumstellar_habitable_Zone.public|Circumstellar_habitable_Zone.public]]"
+  - "[[/_internal/Astronomy/Star/Circumstellar_habitable_Zone.internal|Circumstellar_habitable_Zone.internal]]"
+  - "[[/_protect/Astronomy/Star/Circumstellar_habitable_Zone.protect|Circumstellar_habitable_Zone.protect]]"
+  - "[[/_private/Astronomy/Star/Circumstellar_habitable_Zone.private|Circumstellar_habitable_Zone.private]]"
+  - "[[/_personal/Astronomy/Star/Circumstellar_habitable_Zone.personal|Circumstellar_habitable_Zone.personal]]"
+  - "[[/_secret/Astronomy/Star/Circumstellar_habitable_Zone.secret|Circumstellar_habitable_Zone.secret]]"
 ---
 # [[Circumstellar_habitable_Zone]] 
 

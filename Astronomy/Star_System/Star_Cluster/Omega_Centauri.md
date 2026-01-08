@@ -26,6 +26,25 @@ catalog_code:
   - NGC 5139
   - ω Cen
 Commons_category: NGC 5139
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Omega_Centauri,14275]]"
+    - "[[/_Standards/Astronomy/Star_System/Star_Cluster/Omega_Centauri|Omega_Centauri]]"
+    - "[[/_public/Astronomy/Star_System/Star_Cluster/Omega_Centauri.public|Omega_Centauri.public]]"
+    - "[[/_internal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.internal|Omega_Centauri.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Star_Cluster/Omega_Centauri.protect|Omega_Centauri.protect]]"
+    - "[[/_private/Astronomy/Star_System/Star_Cluster/Omega_Centauri.private|Omega_Centauri.private]]"
+    - "[[/_personal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.personal|Omega_Centauri.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Star_Cluster/Omega_Centauri.secret|Omega_Centauri.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Omega_Centauri,14275]]"
+  - "[[/_Standards/Astronomy/Star_System/Star_Cluster/Omega_Centauri|Omega_Centauri]]"
+  - "[[/_public/Astronomy/Star_System/Star_Cluster/Omega_Centauri.public|Omega_Centauri.public]]"
+  - "[[/_internal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.internal|Omega_Centauri.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Star_Cluster/Omega_Centauri.protect|Omega_Centauri.protect]]"
+  - "[[/_private/Astronomy/Star_System/Star_Cluster/Omega_Centauri.private|Omega_Centauri.private]]"
+  - "[[/_personal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.personal|Omega_Centauri.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Star_Cluster/Omega_Centauri.secret|Omega_Centauri.secret]]"
 ---
 
 # [[Omega_Centauri]] 

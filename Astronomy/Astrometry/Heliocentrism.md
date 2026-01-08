@@ -5,23 +5,44 @@ aliases:
   - heliozentrisch
   - Heliocentrism
 has_id_wikidata: Q103983
-opposite_of: '[[_Standards/WikiData/WD~geocentric_model,165800]]'
+opposite_of: "[[_Standards/WikiData/WD~geocentric_model,165800]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+instance_of: "[[_Standards/WikiData/WD~scientific_theory,3239681]]"
 OmegaWiki_Defined_Meaning: 666111
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Planets2013.svg
-Iconclass_notation: 49E132
+Iconclass_notation: 4.9e+133
 Commons_category: Heliocentric model
+dv_is_:
+  opposite_of: "[[Geocentrism]]"
+  same_as:
+    - "[[../../WikiData/WD~Heliocentrism,103983]]"
+    - "[[/_Standards/Astronomy/Astrometry/Heliocentrism|Heliocentrism]]"
+    - "[[/_public/Astronomy/Astrometry/Heliocentrism.public|Heliocentrism.public]]"
+    - "[[/_internal/Astronomy/Astrometry/Heliocentrism.internal|Heliocentrism.internal]]"
+    - "[[/_protect/Astronomy/Astrometry/Heliocentrism.protect|Heliocentrism.protect]]"
+    - "[[/_private/Astronomy/Astrometry/Heliocentrism.private|Heliocentrism.private]]"
+    - "[[/_personal/Astronomy/Astrometry/Heliocentrism.personal|Heliocentrism.personal]]"
+    - "[[/_secret/Astronomy/Astrometry/Heliocentrism.secret|Heliocentrism.secret]]"
+dv_is_opposite_of: "[[Geocentrism]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Heliocentrism,103983]]"
+  - "[[/_Standards/Astronomy/Astrometry/Heliocentrism|Heliocentrism]]"
+  - "[[/_public/Astronomy/Astrometry/Heliocentrism.public|Heliocentrism.public]]"
+  - "[[/_internal/Astronomy/Astrometry/Heliocentrism.internal|Heliocentrism.internal]]"
+  - "[[/_protect/Astronomy/Astrometry/Heliocentrism.protect|Heliocentrism.protect]]"
+  - "[[/_private/Astronomy/Astrometry/Heliocentrism.private|Heliocentrism.private]]"
+  - "[[/_personal/Astronomy/Astrometry/Heliocentrism.personal|Heliocentrism.personal]]"
+  - "[[/_secret/Astronomy/Astrometry/Heliocentrism.secret|Heliocentrism.secret]]"
 ---
 
 # [[Heliocentrism]] 
 
-#is_/opposite_of :: [[Geocentrism]] 
+is_opposite_of = `=this.dv_is_opposite_of` 
 #is_/same_as :: [[WD~Heliocentrism,103983]] 
 
 ## #has_/text_of_/abstract 

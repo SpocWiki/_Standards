@@ -6,20 +6,20 @@ aliases:
   - M1
   - Crab_Nebula
 has_id_wikidata: Q10934
-instance_of: '[[_Standards/WikiData/WD~supernova_remnant,207436]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Bevis,437582]]'
-different_from: '[[_Standards/WikiData/WD~Q19843709,19843709]]'
+instance_of: "[[_Standards/WikiData/WD~supernova_remnant,207436]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~John_Bevis,437582]]"
+different_from: "[[_Standards/WikiData/WD~Q19843709,19843709]]"
 right_ascension: 83.633083
 time_of_discovery_or_invention: 1731-01-01T00:00:00Z
-constellation: '[[_Standards/WikiData/WD~Taurus,10570]]'
+constellation: "[[_Standards/WikiData/WD~Taurus,10570]]"
 absolute_magnitude: -3.2
-has_cause: '[[_Standards/WikiData/WD~SN_1054,32037]]'
+has_cause: "[[_Standards/WikiData/WD~SN_1054,32037]]"
 apparent_magnitude: 8.4
 distance_from_Earth: 1.93
 declination: 22.0145
 catalog_code:
   - M1
-  - '[DGW65] 25'
+  - "[DGW65] 25"
   - 1ES 0532+21.5
   - 2C 481
   - 2U 0531+22
@@ -49,12 +49,37 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/25%20Images%20to%20Cel
 video: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Crab%20Nebula%20-%20A%20Flickering%20X-ray%20Candle.ogv
 Commons_category: Crab Nebula
 Commons_gallery: Messier 1
+dv_has_:
+  creator: "[[Crab_Supernova]]"
+  time_:
+    started: 1054-07-10T00:00:00.000+00:53
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Crab_Nebula,10934|WD~Crab_Nebula,10934]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula|Crab_Nebula]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.public|Crab_Nebula.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.internal|Crab_Nebula.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.protect|Crab_Nebula.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.private|Crab_Nebula.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.personal|Crab_Nebula.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.secret|Crab_Nebula.secret]]"
+dv_has_creator: "[[Crab_Supernova]]"
+dv_has_time_started: 1054-07-10
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Crab_Nebula,10934|WD~Crab_Nebula,10934]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula|Crab_Nebula]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.public|Crab_Nebula.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.internal|Crab_Nebula.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.protect|Crab_Nebula.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.private|Crab_Nebula.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.personal|Crab_Nebula.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.secret|Crab_Nebula.secret]]"
 ---
 
 # [[Crab_Nebula]] 
 
-#has_/creator :: [[Crab_Supernova]] 
-#has_/time_/started :: 1054-07-10 
+has_creator = `=this.dv_has_creator` 
+has_time_started = `=this.dv_has_time_started` 
 #is_/same_as :: [[../../../../../WikiData/WD~Crab_Nebula,10934|WD~Crab_Nebula,10934]] 
 
 ## #has_/text_of_/abstract 

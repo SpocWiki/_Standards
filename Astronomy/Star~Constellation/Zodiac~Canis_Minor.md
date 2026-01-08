@@ -12,23 +12,23 @@ tags:
   - astro/Zodiac
 type: Zodiac
 described_by_source:
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Canis_Minor,8084783]]'
-  - '[[_Standards/WikiData/WD~Q10729074,10729074]]'
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Canis_Minor,8084783]]"
+  - "[[_Standards/WikiData/WD~Q10729074,10729074]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Cancer,8849]]'
-  - '[[_Standards/WikiData/WD~Gemini,8923]]'
-  - '[[_Standards/WikiData/WD~Monoceros,10428]]'
-  - '[[_Standards/WikiData/WD~Hydra,10578]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
-has_part_s_: '[[_Standards/WikiData/WD~Procyon,13034]]'
-named_after: '[[_Standards/WikiData/WD~dog,144]]'
+  - "[[_Standards/WikiData/WD~Cancer,8849]]"
+  - "[[_Standards/WikiData/WD~Gemini,8923]]"
+  - "[[_Standards/WikiData/WD~Monoceros,10428]]"
+  - "[[_Standards/WikiData/WD~Hydra,10578]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+has_part_s_: "[[_Standards/WikiData/WD~Procyon,13034]]"
+named_after: "[[_Standards/WikiData/WD~dog,144]]"
 area: 183
 Commons_gallery: Canis Minor
 Commons_category: Canis Minor
@@ -37,15 +37,44 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cani
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CanisMinorCC.jpg
 official_name: Canis Minor
 short_name: CMi
+dv_SpocWebEntityId: 28097
+dv_#has_:
+  name_:
+    la: Canis Minor
+    la_:
+      genitive: Canis Minoris
+    de: Kleiner Hund
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Canis_Minor,9305|WD~Canis_Minor,9305]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Canis_Minor|Zodiac~Canis_Minor]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Canis_Minor.public|Zodiac~Canis_Minor.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Canis_Minor.internal|Zodiac~Canis_Minor.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Canis_Minor.protect|Zodiac~Canis_Minor.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Canis_Minor.private|Zodiac~Canis_Minor.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Canis_Minor.personal|Zodiac~Canis_Minor.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Canis_Minor.secret|Zodiac~Canis_Minor.secret]]"
+dv_has_name_la: Canis Minor
+dv_has_name_la_genitive: Canis Minoris
+dv_has_name_de: Kleiner Hund
+dv_is_same_as:
+  - "[[../../WikiData/WD~Canis_Minor,9305|WD~Canis_Minor,9305]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Canis_Minor|Zodiac~Canis_Minor]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Canis_Minor.public|Zodiac~Canis_Minor.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Canis_Minor.internal|Zodiac~Canis_Minor.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Canis_Minor.protect|Zodiac~Canis_Minor.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Canis_Minor.private|Zodiac~Canis_Minor.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Canis_Minor.personal|Zodiac~Canis_Minor.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Canis_Minor.secret|Zodiac~Canis_Minor.secret]]"
 ---
 
 # [[Zodiac~Canis_Minor]] 
 
-[SpocWebEntityId::28097]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Canis Minor] 
-[#has_/name_/la_/genitive::Canis Minoris] 
-[#has_/name_/de::Kleiner Hund] 
+has_name_la = `=this.dv_has_name_la`  
+has_name_la_genitive = `=this.dv_has_name_la_genitive`  
+has_name_de = `=this.dv_has_name_de`  
 
 #is_/same_as :: [[../../WikiData/WD~Canis_Minor,9305|WD~Canis_Minor,9305]]  
 

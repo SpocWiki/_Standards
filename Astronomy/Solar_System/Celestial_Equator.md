@@ -5,16 +5,35 @@ aliases:
   - Celestial Equator
 has_id_wikidata: Q187646
 instance_of:
-  - '[[_Standards/WikiData/WD~circle_of_latitude,146591]]'
-  - '[[_Standards/WikiData/WD~reference_point,23008367]]'
+  - "[[_Standards/WikiData/WD~circle_of_latitude,146591]]"
+  - "[[_Standards/WikiData/WD~reference_point,23008367]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-subclass_of: '[[_Standards/WikiData/WD~equator,23538]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+subclass_of: "[[_Standards/WikiData/WD~equator,23538]]"
 declination: 0
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AxialTiltObliquity.png
 Commons_category: Celestial equator
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Celestial_equator,187646|WD~Celestial_equator,187646]]"
+    - "[[/_Standards/Astronomy/Solar_System/Celestial_Equator|Celestial_Equator]]"
+    - "[[/_public/Astronomy/Solar_System/Celestial_Equator.public|Celestial_Equator.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Celestial_Equator.internal|Celestial_Equator.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Celestial_Equator.protect|Celestial_Equator.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Celestial_Equator.private|Celestial_Equator.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Celestial_Equator.personal|Celestial_Equator.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Celestial_Equator.secret|Celestial_Equator.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Celestial_equator,187646|WD~Celestial_equator,187646]]"
+  - "[[/_Standards/Astronomy/Solar_System/Celestial_Equator|Celestial_Equator]]"
+  - "[[/_public/Astronomy/Solar_System/Celestial_Equator.public|Celestial_Equator.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Celestial_Equator.internal|Celestial_Equator.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Celestial_Equator.protect|Celestial_Equator.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Celestial_Equator.private|Celestial_Equator.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Celestial_Equator.personal|Celestial_Equator.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Celestial_Equator.secret|Celestial_Equator.secret]]"
 ---
 
 # [[Celestial_Equator]] 

@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cosmology,338|WD~Cosmology,338]]"
+    - "[[/_Standards/Astronomy/Universe/Cosmology|Cosmology]]"
+    - "[[/_public/Astronomy/Universe/Cosmology.public|Cosmology.public]]"
+    - "[[/_internal/Astronomy/Universe/Cosmology.internal|Cosmology.internal]]"
+    - "[[/_protect/Astronomy/Universe/Cosmology.protect|Cosmology.protect]]"
+    - "[[/_private/Astronomy/Universe/Cosmology.private|Cosmology.private]]"
+    - "[[/_personal/Astronomy/Universe/Cosmology.personal|Cosmology.personal]]"
+    - "[[/_secret/Astronomy/Universe/Cosmology.secret|Cosmology.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cosmology,338|WD~Cosmology,338]]"
+  - "[[/_Standards/Astronomy/Universe/Cosmology|Cosmology]]"
+  - "[[/_public/Astronomy/Universe/Cosmology.public|Cosmology.public]]"
+  - "[[/_internal/Astronomy/Universe/Cosmology.internal|Cosmology.internal]]"
+  - "[[/_protect/Astronomy/Universe/Cosmology.protect|Cosmology.protect]]"
+  - "[[/_private/Astronomy/Universe/Cosmology.private|Cosmology.private]]"
+  - "[[/_personal/Astronomy/Universe/Cosmology.personal|Cosmology.personal]]"
+  - "[[/_secret/Astronomy/Universe/Cosmology.secret|Cosmology.secret]]"
+---
 
 # [[Cosmology]] 
 

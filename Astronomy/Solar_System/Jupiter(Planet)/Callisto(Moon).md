@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q3134
 named_by: "[[_Standards/WikiData/WD~Simon_Marius,76684]]"
 named_after: "[[_Standards/WikiData/WD~Callisto,203673]]"
@@ -44,6 +44,25 @@ Commons_category: Callisto (moon)
 Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Callisto"]
 name: Júpiter IV
 topic_has_template: "[[_Standards/WikiData/WD~Template_Callisto,21789613]]"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Callisto,3134|WD~Callisto,3134]]"
+    - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon)|Callisto(Moon)]]"
+    - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).public|Callisto(Moon).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).internal|Callisto(Moon).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).protect|Callisto(Moon).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).private|Callisto(Moon).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).personal|Callisto(Moon).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).secret|Callisto(Moon).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Callisto,3134|WD~Callisto,3134]]"
+  - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon)|Callisto(Moon)]]"
+  - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).public|Callisto(Moon).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).internal|Callisto(Moon).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).protect|Callisto(Moon).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).private|Callisto(Moon).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).personal|Callisto(Moon).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Callisto(Moon).secret|Callisto(Moon).secret]]"
 ---
 
 # [[Callisto(Moon)]] 

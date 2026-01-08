@@ -3,11 +3,11 @@ aliases:
   - Δεῖμος
   - Deimos(Moon)
 has_id_wikidata: Q7548
-named_after: '[[_Standards/WikiData/WD~Deimos,106240]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Asaph_Hall,106559]]'
-instance_of: '[[_Standards/WikiData/WD~moon_of_Mars,177268]]'
+named_after: "[[_Standards/WikiData/WD~Deimos,106240]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Asaph_Hall,106559]]"
+instance_of: "[[_Standards/WikiData/WD~moon_of_Mars,177268]]"
 time_of_discovery_or_invention: 1877-08-12T00:00:00Z
-parent_astronomical_body: '[[_Standards/WikiData/WD~Mars,111]]'
+parent_astronomical_body: "[[_Standards/WikiData/WD~Mars,111]]"
 orbital_eccentricity: 0.0002
 surface_gravity: 0.003
 albedo: 0.068
@@ -24,6 +24,25 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Deim
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NASA-Deimos-MarsMoon-20090221.jpg
 Commons_category: Deimos (moon)
 Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Deimos"]
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Deimos,7548|WD~Deimos,7548]]"
+    - "[[/_Standards/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon)|Deimos(Moon)]]"
+    - "[[/_public/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).public|Deimos(Moon).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).internal|Deimos(Moon).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).protect|Deimos(Moon).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).private|Deimos(Moon).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).personal|Deimos(Moon).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).secret|Deimos(Moon).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Deimos,7548|WD~Deimos,7548]]"
+  - "[[/_Standards/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon)|Deimos(Moon)]]"
+  - "[[/_public/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).public|Deimos(Moon).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).internal|Deimos(Moon).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).protect|Deimos(Moon).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).private|Deimos(Moon).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).personal|Deimos(Moon).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).secret|Deimos(Moon).secret]]"
 ---
 
 # [[Deimos(Moon)]] 

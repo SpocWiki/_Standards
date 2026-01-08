@@ -10,6 +10,25 @@ OmegaWiki_Defined_Meaning: "682688"
 Commons_category: Planetary magnetospheres
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20the%20magnetosphere%20LanguageSwitch.svg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001194
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Magnetosphere,6915]]"
+    - "[[/_Standards/Astronomy/Planet/Magnetosphere|Magnetosphere]]"
+    - "[[/_public/Astronomy/Planet/Magnetosphere.public|Magnetosphere.public]]"
+    - "[[/_internal/Astronomy/Planet/Magnetosphere.internal|Magnetosphere.internal]]"
+    - "[[/_protect/Astronomy/Planet/Magnetosphere.protect|Magnetosphere.protect]]"
+    - "[[/_private/Astronomy/Planet/Magnetosphere.private|Magnetosphere.private]]"
+    - "[[/_personal/Astronomy/Planet/Magnetosphere.personal|Magnetosphere.personal]]"
+    - "[[/_secret/Astronomy/Planet/Magnetosphere.secret|Magnetosphere.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Magnetosphere,6915]]"
+  - "[[/_Standards/Astronomy/Planet/Magnetosphere|Magnetosphere]]"
+  - "[[/_public/Astronomy/Planet/Magnetosphere.public|Magnetosphere.public]]"
+  - "[[/_internal/Astronomy/Planet/Magnetosphere.internal|Magnetosphere.internal]]"
+  - "[[/_protect/Astronomy/Planet/Magnetosphere.protect|Magnetosphere.protect]]"
+  - "[[/_private/Astronomy/Planet/Magnetosphere.private|Magnetosphere.private]]"
+  - "[[/_personal/Astronomy/Planet/Magnetosphere.personal|Magnetosphere.personal]]"
+  - "[[/_secret/Astronomy/Planet/Magnetosphere.secret|Magnetosphere.secret]]"
 ---
 
 # [[Magnetosphere]] 

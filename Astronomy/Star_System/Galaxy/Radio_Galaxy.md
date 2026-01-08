@@ -11,6 +11,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Centauros%20a-spc.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B0%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%93%20%E0%A4%A6%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%98%E0%A4%BF%E0%A4%95%E0%A4%BE.wav
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/RADIOGALAKTIKI.html
 Commons_category: Radio galaxies
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Radio_galaxy,217012]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Radio_Galaxy|Radio_Galaxy]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Radio_Galaxy.public|Radio_Galaxy.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Radio_Galaxy.internal|Radio_Galaxy.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Radio_Galaxy.protect|Radio_Galaxy.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Radio_Galaxy.private|Radio_Galaxy.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Radio_Galaxy.personal|Radio_Galaxy.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Radio_Galaxy.secret|Radio_Galaxy.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Radio_galaxy,217012]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Radio_Galaxy|Radio_Galaxy]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Radio_Galaxy.public|Radio_Galaxy.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Radio_Galaxy.internal|Radio_Galaxy.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Radio_Galaxy.protect|Radio_Galaxy.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Radio_Galaxy.private|Radio_Galaxy.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Radio_Galaxy.personal|Radio_Galaxy.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Radio_Galaxy.secret|Radio_Galaxy.secret]]"
 ---
 
 # [[Radio_Galaxy]] 

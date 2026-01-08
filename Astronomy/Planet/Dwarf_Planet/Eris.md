@@ -69,6 +69,25 @@ Unicode_character:
   - ⯰
   - ⯱
 official_name: 136199 Eris
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Eris,611|WD~Eris,611]]"
+    - "[[/_Standards/Astronomy/Planet/Dwarf_Planet/Eris|Eris]]"
+    - "[[/_public/Astronomy/Planet/Dwarf_Planet/Eris.public|Eris.public]]"
+    - "[[/_internal/Astronomy/Planet/Dwarf_Planet/Eris.internal|Eris.internal]]"
+    - "[[/_protect/Astronomy/Planet/Dwarf_Planet/Eris.protect|Eris.protect]]"
+    - "[[/_private/Astronomy/Planet/Dwarf_Planet/Eris.private|Eris.private]]"
+    - "[[/_personal/Astronomy/Planet/Dwarf_Planet/Eris.personal|Eris.personal]]"
+    - "[[/_secret/Astronomy/Planet/Dwarf_Planet/Eris.secret|Eris.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Eris,611|WD~Eris,611]]"
+  - "[[/_Standards/Astronomy/Planet/Dwarf_Planet/Eris|Eris]]"
+  - "[[/_public/Astronomy/Planet/Dwarf_Planet/Eris.public|Eris.public]]"
+  - "[[/_internal/Astronomy/Planet/Dwarf_Planet/Eris.internal|Eris.internal]]"
+  - "[[/_protect/Astronomy/Planet/Dwarf_Planet/Eris.protect|Eris.protect]]"
+  - "[[/_private/Astronomy/Planet/Dwarf_Planet/Eris.private|Eris.private]]"
+  - "[[/_personal/Astronomy/Planet/Dwarf_Planet/Eris.personal|Eris.personal]]"
+  - "[[/_secret/Astronomy/Planet/Dwarf_Planet/Eris.secret|Eris.secret]]"
 ---
 
 # [[Eris]] 

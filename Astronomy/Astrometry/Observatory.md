@@ -22,6 +22,25 @@ GeoNames_feature_code: S.OBS
 OpenStreetMap_tag:
   - landuse=observatory
   - man_made=observatory
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Observatory,62832]]"
+    - "[[/_Standards/Astronomy/Astrometry/Observatory|Observatory]]"
+    - "[[/_public/Astronomy/Astrometry/Observatory.public|Observatory.public]]"
+    - "[[/_internal/Astronomy/Astrometry/Observatory.internal|Observatory.internal]]"
+    - "[[/_protect/Astronomy/Astrometry/Observatory.protect|Observatory.protect]]"
+    - "[[/_private/Astronomy/Astrometry/Observatory.private|Observatory.private]]"
+    - "[[/_personal/Astronomy/Astrometry/Observatory.personal|Observatory.personal]]"
+    - "[[/_secret/Astronomy/Astrometry/Observatory.secret|Observatory.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Observatory,62832]]"
+  - "[[/_Standards/Astronomy/Astrometry/Observatory|Observatory]]"
+  - "[[/_public/Astronomy/Astrometry/Observatory.public|Observatory.public]]"
+  - "[[/_internal/Astronomy/Astrometry/Observatory.internal|Observatory.internal]]"
+  - "[[/_protect/Astronomy/Astrometry/Observatory.protect|Observatory.protect]]"
+  - "[[/_private/Astronomy/Astrometry/Observatory.private|Observatory.private]]"
+  - "[[/_personal/Astronomy/Astrometry/Observatory.personal|Observatory.personal]]"
+  - "[[/_secret/Astronomy/Astrometry/Observatory.secret|Observatory.secret]]"
 ---
 
 # [[Observatory]] 

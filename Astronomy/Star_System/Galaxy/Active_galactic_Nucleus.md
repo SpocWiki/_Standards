@@ -14,6 +14,25 @@ short_name:
   - NAG
 Dewey_Decimal_Classification: "523.112"
 Commons_category: Active galactic nuclei
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Active_galactic_nucleus,46587]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus|Active_galactic_Nucleus]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.public|Active_galactic_Nucleus.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.internal|Active_galactic_Nucleus.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.protect|Active_galactic_Nucleus.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.private|Active_galactic_Nucleus.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.personal|Active_galactic_Nucleus.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.secret|Active_galactic_Nucleus.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Active_galactic_nucleus,46587]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus|Active_galactic_Nucleus]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.public|Active_galactic_Nucleus.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.internal|Active_galactic_Nucleus.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.protect|Active_galactic_Nucleus.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.private|Active_galactic_Nucleus.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.personal|Active_galactic_Nucleus.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.secret|Active_galactic_Nucleus.secret]]"
 ---
 
 # [[Active_galactic_Nucleus]] 

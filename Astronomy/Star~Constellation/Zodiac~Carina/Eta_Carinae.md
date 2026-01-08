@@ -62,11 +62,32 @@ catalog_code:
 Commons_category: Eta Carinae
 spectral_class: O5.5III-O7I
 declination: -59.6844587777
+dv_is_:
+  part_of: "[[../Zodiac~Carina]]"
+  same_as:
+    - "[[../../../WikiData/WD~Eta_Carinae,12185|WD~Eta_Carinae,12185]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae|Eta_Carinae]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.public|Eta_Carinae.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.internal|Eta_Carinae.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.protect|Eta_Carinae.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.private|Eta_Carinae.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.personal|Eta_Carinae.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.secret|Eta_Carinae.secret]]"
+dv_is_part_of: "[[../Zodiac~Carina]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Eta_Carinae,12185|WD~Eta_Carinae,12185]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae|Eta_Carinae]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.public|Eta_Carinae.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.internal|Eta_Carinae.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.protect|Eta_Carinae.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.private|Eta_Carinae.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.personal|Eta_Carinae.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.secret|Eta_Carinae.secret]]"
 ---
 
 # [[Eta_Carinae]] 
 
-#is_/part_of :: [[Zodiac~Carina]] 
+is_part_of = `=this.dv_is_part_of` 
 #is_/same_as :: [[../../../WikiData/WD~Eta_Carinae,12185|WD~Eta_Carinae,12185]] 
 
 ![[Eta_Carinae.svg]]

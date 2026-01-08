@@ -6,9 +6,30 @@ aliases:
   - B Cassiopeiae
   - SN 1572
   - Tycho's_Supernova
+dv_has_:
+  time_:
+    started: 1572-11-01T00:00:00.000+00:53
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova|Tycho's_Supernova]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.public|Tycho's_Supernova.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.internal|Tycho's_Supernova.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.protect|Tycho's_Supernova.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.private|Tycho's_Supernova.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.personal|Tycho's_Supernova.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.secret|Tycho's_Supernova.secret]]"
+dv_has_time_started: 1572-11-01
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova|Tycho's_Supernova]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.public|Tycho's_Supernova.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.internal|Tycho's_Supernova.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.protect|Tycho's_Supernova.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.private|Tycho's_Supernova.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.personal|Tycho's_Supernova.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.secret|Tycho's_Supernova.secret]]"
 ---
 
-#has_/time_/started :: 1572-11 
+has_time_started = `=this.dv_has_time_started` 
 # [[Tycho's_Supernova]] 
 
 ## #has_/text_of_/abstract 

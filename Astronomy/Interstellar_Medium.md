@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Interstellar_medium,41872]]"
+    - "[[/_Standards/Astronomy/Interstellar_Medium|Interstellar_Medium]]"
+    - "[[/_public/Astronomy/Interstellar_Medium.public|Interstellar_Medium.public]]"
+    - "[[/_internal/Astronomy/Interstellar_Medium.internal|Interstellar_Medium.internal]]"
+    - "[[/_protect/Astronomy/Interstellar_Medium.protect|Interstellar_Medium.protect]]"
+    - "[[/_private/Astronomy/Interstellar_Medium.private|Interstellar_Medium.private]]"
+    - "[[/_personal/Astronomy/Interstellar_Medium.personal|Interstellar_Medium.personal]]"
+    - "[[/_secret/Astronomy/Interstellar_Medium.secret|Interstellar_Medium.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Interstellar_medium,41872]]"
+  - "[[/_Standards/Astronomy/Interstellar_Medium|Interstellar_Medium]]"
+  - "[[/_public/Astronomy/Interstellar_Medium.public|Interstellar_Medium.public]]"
+  - "[[/_internal/Astronomy/Interstellar_Medium.internal|Interstellar_Medium.internal]]"
+  - "[[/_protect/Astronomy/Interstellar_Medium.protect|Interstellar_Medium.protect]]"
+  - "[[/_private/Astronomy/Interstellar_Medium.private|Interstellar_Medium.private]]"
+  - "[[/_personal/Astronomy/Interstellar_Medium.personal|Interstellar_Medium.personal]]"
+  - "[[/_secret/Astronomy/Interstellar_Medium.secret|Interstellar_Medium.secret]]"
+---
 
 # [[Interstellar_Medium]] 
 

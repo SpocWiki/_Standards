@@ -10,6 +10,25 @@ Wikidata_property: metallicity
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Swarm%20of%20Ancient%20Stars%20-%20GPN-2000-000930.jpg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/metallicity
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Metallicity,217030]]"
+    - "[[/_Standards/Astronomy/Star/Metallicity|Metallicity]]"
+    - "[[/_public/Astronomy/Star/Metallicity.public|Metallicity.public]]"
+    - "[[/_internal/Astronomy/Star/Metallicity.internal|Metallicity.internal]]"
+    - "[[/_protect/Astronomy/Star/Metallicity.protect|Metallicity.protect]]"
+    - "[[/_private/Astronomy/Star/Metallicity.private|Metallicity.private]]"
+    - "[[/_personal/Astronomy/Star/Metallicity.personal|Metallicity.personal]]"
+    - "[[/_secret/Astronomy/Star/Metallicity.secret|Metallicity.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Metallicity,217030]]"
+  - "[[/_Standards/Astronomy/Star/Metallicity|Metallicity]]"
+  - "[[/_public/Astronomy/Star/Metallicity.public|Metallicity.public]]"
+  - "[[/_internal/Astronomy/Star/Metallicity.internal|Metallicity.internal]]"
+  - "[[/_protect/Astronomy/Star/Metallicity.protect|Metallicity.protect]]"
+  - "[[/_private/Astronomy/Star/Metallicity.private|Metallicity.private]]"
+  - "[[/_personal/Astronomy/Star/Metallicity.personal|Metallicity.personal]]"
+  - "[[/_secret/Astronomy/Star/Metallicity.secret|Metallicity.secret]]"
 ---
 
 # [[Metallicity]] 

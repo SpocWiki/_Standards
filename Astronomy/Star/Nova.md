@@ -16,6 +16,25 @@ Commons_gallery: Nova
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Making%20a%20Nova.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/NOVAYA_ZVEZDA.html
 Commons_category: Novae
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Nova,6458]]"
+    - "[[/_Standards/Astronomy/Star/Nova|Nova]]"
+    - "[[/_public/Astronomy/Star/Nova.public|Nova.public]]"
+    - "[[/_internal/Astronomy/Star/Nova.internal|Nova.internal]]"
+    - "[[/_protect/Astronomy/Star/Nova.protect|Nova.protect]]"
+    - "[[/_private/Astronomy/Star/Nova.private|Nova.private]]"
+    - "[[/_personal/Astronomy/Star/Nova.personal|Nova.personal]]"
+    - "[[/_secret/Astronomy/Star/Nova.secret|Nova.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Nova,6458]]"
+  - "[[/_Standards/Astronomy/Star/Nova|Nova]]"
+  - "[[/_public/Astronomy/Star/Nova.public|Nova.public]]"
+  - "[[/_internal/Astronomy/Star/Nova.internal|Nova.internal]]"
+  - "[[/_protect/Astronomy/Star/Nova.protect|Nova.protect]]"
+  - "[[/_private/Astronomy/Star/Nova.private|Nova.private]]"
+  - "[[/_personal/Astronomy/Star/Nova.personal|Nova.personal]]"
+  - "[[/_secret/Astronomy/Star/Nova.secret|Nova.secret]]"
 ---
 
 # [[Nova]] 

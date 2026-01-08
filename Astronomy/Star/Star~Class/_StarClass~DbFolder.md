@@ -1,24 +1,41 @@
 ---
 aliases:
   - _StarClass~DbFolder
-  - ' StarClass~DbFolder'
+  - " StarClass~DbFolder"
 database_plugin: basic
 _is_/same_as:
-  - '[_StarClass~DbFolder](/_Standards/Astronomy/Star~Class/_StarClass~DbFolder.md)'
-  - '[_StarClass~DbFolder.public](/_public/Astronomy/Star~Class/_StarClass~DbFolder.public.md)'
-  - '[_StarClass~DbFolder.internal](/_internal/Astronomy/Star~Class/_StarClass~DbFolder.internal.md)'
-  - '[_StarClass~DbFolder.protect](/_protect/Astronomy/Star~Class/_StarClass~DbFolder.protect.md)'
-  - '[_StarClass~DbFolder.private](/_private/Astronomy/Star~Class/_StarClass~DbFolder.private.md)'
-  - '[_StarClass~DbFolder.personal](/_personal/Astronomy/Star~Class/_StarClass~DbFolder.personal.md)'
-  - '[_StarClass~DbFolder.secret](/_secret/Astronomy/Star~Class/_StarClass~DbFolder.secret.md)'
+  - "[_StarClass~DbFolder](/_Standards/Astronomy/Star~Class/_StarClass~DbFolder.md)"
+  - "[_StarClass~DbFolder.public](/_public/Astronomy/Star~Class/_StarClass~DbFolder.public.md)"
+  - "[_StarClass~DbFolder.internal](/_internal/Astronomy/Star~Class/_StarClass~DbFolder.internal.md)"
+  - "[_StarClass~DbFolder.protect](/_protect/Astronomy/Star~Class/_StarClass~DbFolder.protect.md)"
+  - "[_StarClass~DbFolder.private](/_private/Astronomy/Star~Class/_StarClass~DbFolder.private.md)"
+  - "[_StarClass~DbFolder.personal](/_personal/Astronomy/Star~Class/_StarClass~DbFolder.personal.md)"
+  - "[_StarClass~DbFolder.secret](/_secret/Astronomy/Star~Class/_StarClass~DbFolder.secret.md)"
 _is_same_as:
-  - '[_StarClass~DbFolder](/_Standards/Astronomy/Star~Class/_StarClass~DbFolder.md)'
-  - '[_StarClass~DbFolder.public](/_public/Astronomy/Star~Class/_StarClass~DbFolder.public.md)'
-  - '[_StarClass~DbFolder.internal](/_internal/Astronomy/Star~Class/_StarClass~DbFolder.internal.md)'
-  - '[_StarClass~DbFolder.protect](/_protect/Astronomy/Star~Class/_StarClass~DbFolder.protect.md)'
-  - '[_StarClass~DbFolder.private](/_private/Astronomy/Star~Class/_StarClass~DbFolder.private.md)'
-  - '[_StarClass~DbFolder.personal](/_personal/Astronomy/Star~Class/_StarClass~DbFolder.personal.md)'
-  - '[_StarClass~DbFolder.secret](/_secret/Astronomy/Star~Class/_StarClass~DbFolder.secret.md)'
+  - "[_StarClass~DbFolder](/_Standards/Astronomy/Star~Class/_StarClass~DbFolder.md)"
+  - "[_StarClass~DbFolder.public](/_public/Astronomy/Star~Class/_StarClass~DbFolder.public.md)"
+  - "[_StarClass~DbFolder.internal](/_internal/Astronomy/Star~Class/_StarClass~DbFolder.internal.md)"
+  - "[_StarClass~DbFolder.protect](/_protect/Astronomy/Star~Class/_StarClass~DbFolder.protect.md)"
+  - "[_StarClass~DbFolder.private](/_private/Astronomy/Star~Class/_StarClass~DbFolder.private.md)"
+  - "[_StarClass~DbFolder.personal](/_personal/Astronomy/Star~Class/_StarClass~DbFolder.personal.md)"
+  - "[_StarClass~DbFolder.secret](/_secret/Astronomy/Star~Class/_StarClass~DbFolder.secret.md)"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star/Star~Class/_StarClass~DbFolder|_StarClass~DbFolder]]"
+    - "[[/_public/Astronomy/Star/Star~Class/_StarClass~DbFolder.public|_StarClass~DbFolder.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/_StarClass~DbFolder.internal|_StarClass~DbFolder.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/_StarClass~DbFolder.protect|_StarClass~DbFolder.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/_StarClass~DbFolder.private|_StarClass~DbFolder.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/_StarClass~DbFolder.personal|_StarClass~DbFolder.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/_StarClass~DbFolder.secret|_StarClass~DbFolder.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star/Star~Class/_StarClass~DbFolder|_StarClass~DbFolder]]"
+  - "[[/_public/Astronomy/Star/Star~Class/_StarClass~DbFolder.public|_StarClass~DbFolder.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/_StarClass~DbFolder.internal|_StarClass~DbFolder.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/_StarClass~DbFolder.protect|_StarClass~DbFolder.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/_StarClass~DbFolder.private|_StarClass~DbFolder.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/_StarClass~DbFolder.personal|_StarClass~DbFolder.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/_StarClass~DbFolder.secret|_StarClass~DbFolder.secret]]"
 ---
 
 A DbFolder File displays only the Table; nothing of this MetaData shows,

@@ -11,26 +11,26 @@ tags:
   - astro/Zodiac
 type: Zodiac
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Q22341360,22341360]]'
-  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-named_after: '[[_Standards/WikiData/WD~Cetus,3269950]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Q22341360,22341360]]"
+  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+named_after: "[[_Standards/WikiData/WD~Cetus,3269950]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q10729140,10729140]]'
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Cetus,11103042]]'
+  - "[[_Standards/WikiData/WD~Q10729140,10729140]]"
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Cetus,11103042]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Pisces,8679]]'
-  - '[[_Standards/WikiData/WD~Fornax,8913]]'
-  - '[[_Standards/WikiData/WD~Sculptor,9286]]'
-  - '[[_Standards/WikiData/WD~Eridanus,10433]]'
-  - '[[_Standards/WikiData/WD~Taurus,10570]]'
-  - '[[_Standards/WikiData/WD~Aquarius,10576]]'
-  - '[[_Standards/WikiData/WD~Aries,10584]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Pisces,8679]]"
+  - "[[_Standards/WikiData/WD~Fornax,8913]]"
+  - "[[_Standards/WikiData/WD~Sculptor,9286]]"
+  - "[[_Standards/WikiData/WD~Eridanus,10433]]"
+  - "[[_Standards/WikiData/WD~Taurus,10570]]"
+  - "[[_Standards/WikiData/WD~Aquarius,10576]]"
+  - "[[_Standards/WikiData/WD~Aries,10584]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 1231
 name:
   - Walfisch
@@ -43,15 +43,44 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cetus%20co
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cetus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CetusCC.jpg
 short_name: Cet
+dv_SpocWebEntityId: 28103
+dv_#has_:
+  name_:
+    la: Cetus
+    la_:
+      genitive: Ceti
+    de: Walfisch
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cetus,8839|WD~Cetus,8839]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Cetus|Zodiac~Cetus]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Cetus.public|Zodiac~Cetus.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Cetus.internal|Zodiac~Cetus.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Cetus.protect|Zodiac~Cetus.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Cetus.private|Zodiac~Cetus.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Cetus.personal|Zodiac~Cetus.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Cetus.secret|Zodiac~Cetus.secret]]"
+dv_has_name_la: Cetus
+dv_has_name_la_genitive: Ceti
+dv_has_name_de: Walfisch
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cetus,8839|WD~Cetus,8839]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Cetus|Zodiac~Cetus]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Cetus.public|Zodiac~Cetus.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Cetus.internal|Zodiac~Cetus.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Cetus.protect|Zodiac~Cetus.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Cetus.private|Zodiac~Cetus.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Cetus.personal|Zodiac~Cetus.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Cetus.secret|Zodiac~Cetus.secret]]"
 ---
 
 # [[Zodiac~Cetus]] 
 
-[SpocWebEntityId::28103]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Cetus]
-[#has_/name_/la_/genitive::Ceti]
-[#has_/name_/de::Walfisch]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Cetus,8839|WD~Cetus,8839]] 
 

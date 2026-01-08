@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Phobos,7547|WD~Phobos,7547]]"
+    - "[[/_Standards/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon)|Phobos(Moon)]]"
+    - "[[/_public/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).public|Phobos(Moon).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).internal|Phobos(Moon).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).protect|Phobos(Moon).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).private|Phobos(Moon).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).personal|Phobos(Moon).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).secret|Phobos(Moon).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Phobos,7547|WD~Phobos,7547]]"
+  - "[[/_Standards/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon)|Phobos(Moon)]]"
+  - "[[/_public/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).public|Phobos(Moon).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).internal|Phobos(Moon).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).protect|Phobos(Moon).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).private|Phobos(Moon).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).personal|Phobos(Moon).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).secret|Phobos(Moon).secret]]"
+---
 
 # [[Phobos(Moon)]] 
 

@@ -9,6 +9,25 @@ subclass_of:
   - "[[_Standards/WikiData/WD~active_galactic_nucleus,46587]]"
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/GALAKTIKI_SEFERTA.html
 Commons_category: Seyfert galaxies
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Seyfert_galaxy,213930|WD~Seyfert_galaxy,213930]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Seyfert_Galaxy|Seyfert_Galaxy]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.public|Seyfert_Galaxy.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.internal|Seyfert_Galaxy.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.protect|Seyfert_Galaxy.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.private|Seyfert_Galaxy.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.personal|Seyfert_Galaxy.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.secret|Seyfert_Galaxy.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Seyfert_galaxy,213930|WD~Seyfert_galaxy,213930]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Seyfert_Galaxy|Seyfert_Galaxy]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.public|Seyfert_Galaxy.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.internal|Seyfert_Galaxy.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.protect|Seyfert_Galaxy.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.private|Seyfert_Galaxy.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.personal|Seyfert_Galaxy.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Seyfert_Galaxy.secret|Seyfert_Galaxy.secret]]"
 ---
 
 # [[Seyfert_Galaxy]] 

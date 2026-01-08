@@ -36,6 +36,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/PIA17202%20-%20Approac
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/SSDEnceladus.png
 Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Enceladus"]
 time_of_discovery_or_invention: 1789-08-28T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Enceladus,3303|WD~Enceladus,3303]]"
+    - "[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon)|Enceladus(Moon)]]"
+    - "[[/_public/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).public|Enceladus(Moon).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).internal|Enceladus(Moon).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).protect|Enceladus(Moon).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).private|Enceladus(Moon).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).personal|Enceladus(Moon).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).secret|Enceladus(Moon).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Enceladus,3303|WD~Enceladus,3303]]"
+  - "[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon)|Enceladus(Moon)]]"
+  - "[[/_public/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).public|Enceladus(Moon).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).internal|Enceladus(Moon).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).protect|Enceladus(Moon).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).private|Enceladus(Moon).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).personal|Enceladus(Moon).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).secret|Enceladus(Moon).secret]]"
 ---
 
 # [[Enceladus(Moon)]] 

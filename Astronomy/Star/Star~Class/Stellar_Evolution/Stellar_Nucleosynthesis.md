@@ -2,6 +2,25 @@
 aliases:
 has_id_wikidata: Q1057093
 subclass_of: "[[_Standards/WikiData/WD~nucleosynthesis,471702]]"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Stellar_nucleosynthesis,1057093]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis|Stellar_Nucleosynthesis]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.public|Stellar_Nucleosynthesis.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.internal|Stellar_Nucleosynthesis.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.protect|Stellar_Nucleosynthesis.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.private|Stellar_Nucleosynthesis.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.personal|Stellar_Nucleosynthesis.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.secret|Stellar_Nucleosynthesis.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Stellar_nucleosynthesis,1057093]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis|Stellar_Nucleosynthesis]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.public|Stellar_Nucleosynthesis.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.internal|Stellar_Nucleosynthesis.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.protect|Stellar_Nucleosynthesis.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.private|Stellar_Nucleosynthesis.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.personal|Stellar_Nucleosynthesis.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.secret|Stellar_Nucleosynthesis.secret]]"
 ---
 
 # [[Stellar_Nucleosynthesis]] 

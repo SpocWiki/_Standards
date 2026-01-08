@@ -9,6 +9,25 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
 instance_of: "[[_Standards/WikiData/WD~astronomical_concepts,22337463]]"
 main_Wikidata_property: epoch
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Epoch,2703|WD~Epoch,2703]]"
+    - "[[/_Standards/Astronomy/Astronomical_Event/astro~Epoch|astro~Epoch]]"
+    - "[[/_public/Astronomy/Astronomical_Event/astro~Epoch.public|astro~Epoch.public]]"
+    - "[[/_internal/Astronomy/Astronomical_Event/astro~Epoch.internal|astro~Epoch.internal]]"
+    - "[[/_protect/Astronomy/Astronomical_Event/astro~Epoch.protect|astro~Epoch.protect]]"
+    - "[[/_private/Astronomy/Astronomical_Event/astro~Epoch.private|astro~Epoch.private]]"
+    - "[[/_personal/Astronomy/Astronomical_Event/astro~Epoch.personal|astro~Epoch.personal]]"
+    - "[[/_secret/Astronomy/Astronomical_Event/astro~Epoch.secret|astro~Epoch.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Epoch,2703|WD~Epoch,2703]]"
+  - "[[/_Standards/Astronomy/Astronomical_Event/astro~Epoch|astro~Epoch]]"
+  - "[[/_public/Astronomy/Astronomical_Event/astro~Epoch.public|astro~Epoch.public]]"
+  - "[[/_internal/Astronomy/Astronomical_Event/astro~Epoch.internal|astro~Epoch.internal]]"
+  - "[[/_protect/Astronomy/Astronomical_Event/astro~Epoch.protect|astro~Epoch.protect]]"
+  - "[[/_private/Astronomy/Astronomical_Event/astro~Epoch.private|astro~Epoch.private]]"
+  - "[[/_personal/Astronomy/Astronomical_Event/astro~Epoch.personal|astro~Epoch.personal]]"
+  - "[[/_secret/Astronomy/Astronomical_Event/astro~Epoch.secret|astro~Epoch.secret]]"
 ---
 
 # [[astro~Epoch]] 

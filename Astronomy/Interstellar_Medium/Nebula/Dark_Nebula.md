@@ -4,13 +4,32 @@ aliases:
   - Dark_Nebula
   - Dark Nebula
 has_id_wikidata: Q204194
-has_list: '[[_Standards/WikiData/WD~list_of_dark_nebulae,2996068]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_dark_nebula,14446992]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
-subclass_of: '[[_Standards/WikiData/WD~nebula,42372]]'
+has_list: "[[_Standards/WikiData/WD~list_of_dark_nebulae,2996068]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_dark_nebula,14446992]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+part_of: "[[_Standards/WikiData/WD~galaxy,318]]"
+subclass_of: "[[_Standards/WikiData/WD~nebula,42372]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barnard%2068.jpg
 Commons_category: Dark nebulae
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Dark_nebula,204194|WD~Dark_nebula,204194]]"
+    - "[[/_Standards/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula|Dark_Nebula]]"
+    - "[[/_public/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.public|Dark_Nebula.public]]"
+    - "[[/_internal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.internal|Dark_Nebula.internal]]"
+    - "[[/_protect/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.protect|Dark_Nebula.protect]]"
+    - "[[/_private/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.private|Dark_Nebula.private]]"
+    - "[[/_personal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.personal|Dark_Nebula.personal]]"
+    - "[[/_secret/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.secret|Dark_Nebula.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Dark_nebula,204194|WD~Dark_nebula,204194]]"
+  - "[[/_Standards/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula|Dark_Nebula]]"
+  - "[[/_public/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.public|Dark_Nebula.public]]"
+  - "[[/_internal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.internal|Dark_Nebula.internal]]"
+  - "[[/_protect/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.protect|Dark_Nebula.protect]]"
+  - "[[/_private/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.private|Dark_Nebula.private]]"
+  - "[[/_personal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.personal|Dark_Nebula.personal]]"
+  - "[[/_secret/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.secret|Dark_Nebula.secret]]"
 ---
 
 # [[Dark_Nebula]] 

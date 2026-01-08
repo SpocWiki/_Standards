@@ -10,20 +10,20 @@ tags:
   - astro/Zodiac
 type: Zodiac
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-named_after: '[[_Standards/WikiData/WD~Cepheus,_King_of_Aethiopia,858116]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Cepheus,10729010]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+named_after: "[[_Standards/WikiData/WD~Cepheus,_King_of_Aethiopia,858116]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Cepheus,10729010]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Draco,8675]]'
-  - '[[_Standards/WikiData/WD~Camelopardalis,8832]]'
-  - '[[_Standards/WikiData/WD~Cygnus,8921]]'
-  - '[[_Standards/WikiData/WD~Lacerta,10430]]'
-  - '[[_Standards/WikiData/WD~Cassiopeia,10464]]'
-  - '[[_Standards/WikiData/WD~Ursa_Minor,10478]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Draco,8675]]"
+  - "[[_Standards/WikiData/WD~Camelopardalis,8832]]"
+  - "[[_Standards/WikiData/WD~Cygnus,8921]]"
+  - "[[_Standards/WikiData/WD~Lacerta,10430]]"
+  - "[[_Standards/WikiData/WD~Cassiopeia,10464]]"
+  - "[[_Standards/WikiData/WD~Ursa_Minor,10478]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 589
 Commons_gallery: Cepheus
 official_name: Cepheus
@@ -32,15 +32,44 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ceph
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CepheusCC.jpg
 Commons_category: Cepheus (constellation)
 short_name: Cep
+dv_SpocWebEntityId: 28102
+dv_#has_:
+  name_:
+    la: Cepheus
+    la_:
+      genitive: Cephei
+    de: Kepheus
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cepheus,10468|WD~Cepheus,10468]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Cepheus|Zodiac~Cepheus]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Cepheus.public|Zodiac~Cepheus.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Cepheus.internal|Zodiac~Cepheus.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Cepheus.protect|Zodiac~Cepheus.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Cepheus.private|Zodiac~Cepheus.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Cepheus.personal|Zodiac~Cepheus.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Cepheus.secret|Zodiac~Cepheus.secret]]"
+dv_has_name_la: Cepheus
+dv_has_name_la_genitive: Cephei
+dv_has_name_de: Kepheus
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cepheus,10468|WD~Cepheus,10468]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Cepheus|Zodiac~Cepheus]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Cepheus.public|Zodiac~Cepheus.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Cepheus.internal|Zodiac~Cepheus.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Cepheus.protect|Zodiac~Cepheus.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Cepheus.private|Zodiac~Cepheus.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Cepheus.personal|Zodiac~Cepheus.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Cepheus.secret|Zodiac~Cepheus.secret]]"
 ---
 
 # [[Zodiac~Cepheus]] 
 
-[SpocWebEntityId::28102]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Cepheus]
-[#has_/name_/la_/genitive::Cephei]
-[#has_/name_/de::Kepheus]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Cepheus,10468|WD~Cepheus,10468]] 
 

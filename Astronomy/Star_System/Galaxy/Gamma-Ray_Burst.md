@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Gamma-ray_burst,22247|WD~Gamma-ray_burst,22247]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst|Gamma-Ray_Burst]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.public|Gamma-Ray_Burst.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.internal|Gamma-Ray_Burst.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.protect|Gamma-Ray_Burst.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.private|Gamma-Ray_Burst.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.personal|Gamma-Ray_Burst.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.secret|Gamma-Ray_Burst.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Gamma-ray_burst,22247|WD~Gamma-ray_burst,22247]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst|Gamma-Ray_Burst]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.public|Gamma-Ray_Burst.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.internal|Gamma-Ray_Burst.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.protect|Gamma-Ray_Burst.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.private|Gamma-Ray_Burst.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.personal|Gamma-Ray_Burst.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.secret|Gamma-Ray_Burst.secret]]"
+---
 
 # [[Gamma-Ray_Burst]] 
 

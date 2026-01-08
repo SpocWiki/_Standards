@@ -11,25 +11,25 @@ tags:
   - astro/Zodiac
 type: Zodiac
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-  - '[[_Standards/WikiData/WD~Cygnus,105104684]]'
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - "[[_Standards/WikiData/WD~Cygnus,105104684]]"
+part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Cygnus,8084775]]'
-  - '[[_Standards/WikiData/WD~Q10729059,10729059]]'
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Cygnus,8084775]]"
+  - "[[_Standards/WikiData/WD~Q10729059,10729059]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Draco,8675]]'
-  - '[[_Standards/WikiData/WD~Pegasus,8864]]'
-  - '[[_Standards/WikiData/WD~Lacerta,10430]]'
-  - '[[_Standards/WikiData/WD~Cepheus,10468]]'
-  - '[[_Standards/WikiData/WD~Lyra,10484]]'
-  - '[[_Standards/WikiData/WD~Vulpecula,10519]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Draco,8675]]"
+  - "[[_Standards/WikiData/WD~Pegasus,8864]]"
+  - "[[_Standards/WikiData/WD~Lacerta,10430]]"
+  - "[[_Standards/WikiData/WD~Cepheus,10468]]"
+  - "[[_Standards/WikiData/WD~Lyra,10484]]"
+  - "[[_Standards/WikiData/WD~Vulpecula,10519]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 declination: 45
 right_ascension: 20.5
 area: 804
@@ -40,15 +40,44 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cygnus%20c
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cygnus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kru%C5%A1n%C3%A9%20hory%2C%20Hora%20sv.%20%C5%A0ebesti%C3%A1na%2C%20imgp0651-71info%20%282018-05%29.jpg
 short_name: Cyg
+dv_SpocWebEntityId: 28113
+dv_#has_:
+  name_:
+    la: Cygnus
+    la_:
+      genitive: Cygni
+    de: Schwan
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cygnus,8921|WD~Cygnus,8921]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Cygnus|Zodiac~Cygnus]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Cygnus.public|Zodiac~Cygnus.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Cygnus.internal|Zodiac~Cygnus.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Cygnus.protect|Zodiac~Cygnus.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Cygnus.private|Zodiac~Cygnus.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Cygnus.personal|Zodiac~Cygnus.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Cygnus.secret|Zodiac~Cygnus.secret]]"
+dv_has_name_la: Cygnus
+dv_has_name_la_genitive: Cygni
+dv_has_name_de: Schwan
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cygnus,8921|WD~Cygnus,8921]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Cygnus|Zodiac~Cygnus]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Cygnus.public|Zodiac~Cygnus.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Cygnus.internal|Zodiac~Cygnus.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Cygnus.protect|Zodiac~Cygnus.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Cygnus.private|Zodiac~Cygnus.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Cygnus.personal|Zodiac~Cygnus.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Cygnus.secret|Zodiac~Cygnus.secret]]"
 ---
 
 # [[Zodiac~Cygnus]] 
 
-[SpocWebEntityId::28113]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Cygnus]
-[#has_/name_/la_/genitive::Cygni]
-[#has_/name_/de::Schwan]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Cygnus,8921|WD~Cygnus,8921]] 
 

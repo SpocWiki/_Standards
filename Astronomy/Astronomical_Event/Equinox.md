@@ -4,6 +4,25 @@ aliases:
   - Tagundnachtgleiche
   - Tag-und-Nacht-Gleiche
   - Equinox
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Equinox,1315|WD~Equinox,1315]]"
+    - "[[/_Standards/Astronomy/Astronomical_Event/Equinox|Equinox]]"
+    - "[[/_public/Astronomy/Astronomical_Event/Equinox.public|Equinox.public]]"
+    - "[[/_internal/Astronomy/Astronomical_Event/Equinox.internal|Equinox.internal]]"
+    - "[[/_protect/Astronomy/Astronomical_Event/Equinox.protect|Equinox.protect]]"
+    - "[[/_private/Astronomy/Astronomical_Event/Equinox.private|Equinox.private]]"
+    - "[[/_personal/Astronomy/Astronomical_Event/Equinox.personal|Equinox.personal]]"
+    - "[[/_secret/Astronomy/Astronomical_Event/Equinox.secret|Equinox.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Equinox,1315|WD~Equinox,1315]]"
+  - "[[/_Standards/Astronomy/Astronomical_Event/Equinox|Equinox]]"
+  - "[[/_public/Astronomy/Astronomical_Event/Equinox.public|Equinox.public]]"
+  - "[[/_internal/Astronomy/Astronomical_Event/Equinox.internal|Equinox.internal]]"
+  - "[[/_protect/Astronomy/Astronomical_Event/Equinox.protect|Equinox.protect]]"
+  - "[[/_private/Astronomy/Astronomical_Event/Equinox.private|Equinox.private]]"
+  - "[[/_personal/Astronomy/Astronomical_Event/Equinox.personal|Equinox.personal]]"
+  - "[[/_secret/Astronomy/Astronomical_Event/Equinox.secret|Equinox.secret]]"
 ---
 
 # [[Equinox]] 

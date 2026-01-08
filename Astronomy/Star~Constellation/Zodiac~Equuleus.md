@@ -9,18 +9,18 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
+part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Equuleus,14336011]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Equuleus,14336011]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Pegasus,8864]]'
-  - '[[_Standards/WikiData/WD~Delphinus,9302]]'
-  - '[[_Standards/WikiData/WD~Aquarius,10576]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Pegasus,8864]]"
+  - "[[_Standards/WikiData/WD~Delphinus,9302]]"
+  - "[[_Standards/WikiData/WD~Aquarius,10576]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 72
-named_after: '[[_Standards/WikiData/WD~foal,45614]]'
+named_after: "[[_Standards/WikiData/WD~foal,45614]]"
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Equuleus%20constellation%20map-bs.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Equuleus%20constellation%20map-fr.png
@@ -35,15 +35,44 @@ Commons_category: Equuleus (constellation)
 Hederich_encyclopedia_article: Eqvvs
 short_name: Equ
 official_name: Equuleus
+dv_SpocWebEntityId: 28117
+dv_#has_:
+  name_:
+    la: Equuleus
+    la_:
+      genitive: Equulei
+    de: Fuellen
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Equuleus,10438|WD~Equuleus,10438]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Equuleus|Zodiac~Equuleus]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Equuleus.public|Zodiac~Equuleus.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Equuleus.internal|Zodiac~Equuleus.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Equuleus.protect|Zodiac~Equuleus.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Equuleus.private|Zodiac~Equuleus.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Equuleus.personal|Zodiac~Equuleus.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Equuleus.secret|Zodiac~Equuleus.secret]]"
+dv_has_name_la: Equuleus
+dv_has_name_la_genitive: Equulei
+dv_has_name_de: Fuellen
+dv_is_same_as:
+  - "[[../../WikiData/WD~Equuleus,10438|WD~Equuleus,10438]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Equuleus|Zodiac~Equuleus]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Equuleus.public|Zodiac~Equuleus.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Equuleus.internal|Zodiac~Equuleus.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Equuleus.protect|Zodiac~Equuleus.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Equuleus.private|Zodiac~Equuleus.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Equuleus.personal|Zodiac~Equuleus.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Equuleus.secret|Zodiac~Equuleus.secret]]"
 ---
 
 # [[Zodiac~Equuleus]] 
 
-[SpocWebEntityId::28117]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Equuleus]
-[#has_/name_/la_/genitive::Equulei]
-[#has_/name_/de::Fuellen]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Equuleus,10438|WD~Equuleus,10438]] 
 

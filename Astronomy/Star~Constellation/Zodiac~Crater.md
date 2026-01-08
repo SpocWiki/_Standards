@@ -10,19 +10,19 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-named_after: '[[_Standards/WikiData/WD~krater,476968]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Crater,10729099]]'
+named_after: "[[_Standards/WikiData/WD~krater,476968]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Crater,10729099]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Virgo,8842]]'
-  - '[[_Standards/WikiData/WD~Leo,8853]]'
-  - '[[_Standards/WikiData/WD~Corvus,10517]]'
-  - '[[_Standards/WikiData/WD~Sextans,10525]]'
-  - '[[_Standards/WikiData/WD~Hydra,10578]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Virgo,8842]]"
+  - "[[_Standards/WikiData/WD~Leo,8853]]"
+  - "[[_Standards/WikiData/WD~Corvus,10517]]"
+  - "[[_Standards/WikiData/WD~Sextans,10525]]"
+  - "[[_Standards/WikiData/WD~Hydra,10578]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 282
 official_name: Crater
 Hederich_encyclopedia_article: Crater
@@ -31,15 +31,44 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Crater%20c
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Crater%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CraterCC.jpg
 short_name: Crt
+dv_SpocWebEntityId: 28111
+dv_#has_:
+  name_:
+    la: Crater
+    la_:
+      genitive: Crateris
+    de: Becher
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Crater,9282|WD~Crater,9282]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crater|Zodiac~Crater]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Crater.public|Zodiac~Crater.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Crater.internal|Zodiac~Crater.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Crater.protect|Zodiac~Crater.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Crater.private|Zodiac~Crater.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Crater.personal|Zodiac~Crater.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Crater.secret|Zodiac~Crater.secret]]"
+dv_has_name_la: Crater
+dv_has_name_la_genitive: Crateris
+dv_has_name_de: Becher
+dv_is_same_as:
+  - "[[../../WikiData/WD~Crater,9282|WD~Crater,9282]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crater|Zodiac~Crater]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Crater.public|Zodiac~Crater.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Crater.internal|Zodiac~Crater.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Crater.protect|Zodiac~Crater.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Crater.private|Zodiac~Crater.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Crater.personal|Zodiac~Crater.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Crater.secret|Zodiac~Crater.secret]]"
 ---
 
 # [[Zodiac~Crater]] 
 
-[SpocWebEntityId::28111]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Crater]
-[#has_/name_/la_/genitive::Crateris]
-[#has_/name_/de::Becher]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Crater,9282|WD~Crater,9282]] 
 

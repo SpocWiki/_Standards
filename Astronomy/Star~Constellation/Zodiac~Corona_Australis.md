@@ -10,21 +10,21 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-named_after: '[[_Standards/WikiData/WD~crown,170984]]'
+named_after: "[[_Standards/WikiData/WD~crown,170984]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q10729040,10729040]]'
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Corona_Australis,11132896]]'
+  - "[[_Standards/WikiData/WD~Q10729040,10729040]]"
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Corona_Australis,11132896]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Sagittarius,8866]]'
-  - '[[_Standards/WikiData/WD~Scorpius,8865]]'
-  - '[[_Standards/WikiData/WD~Ara,9253]]'
-  - '[[_Standards/WikiData/WD~Telescopium,10546]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Sagittarius,8866]]"
+  - "[[_Standards/WikiData/WD~Scorpius,8865]]"
+  - "[[_Standards/WikiData/WD~Ara,9253]]"
+  - "[[_Standards/WikiData/WD~Telescopium,10546]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 128
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Corona%20Australis.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Corona%20Australis%20constellation%20map.svg
@@ -33,15 +33,44 @@ Commons_gallery: Corona Australis
 Commons_category: Corona Australis
 official_name: Corona Australis
 short_name: CrA
+dv_SpocWebEntityId: 28108
+dv_#has_:
+  name_:
+    la: Corona Australis
+    la_:
+      genitive: Coronae Australis
+    de: Suedliche Krone
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Corona_Australis,10413|WD~Corona_Australis,10413]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Corona_Australis|Zodiac~Corona_Australis]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Corona_Australis.public|Zodiac~Corona_Australis.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Corona_Australis.internal|Zodiac~Corona_Australis.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Corona_Australis.protect|Zodiac~Corona_Australis.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Corona_Australis.private|Zodiac~Corona_Australis.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Corona_Australis.personal|Zodiac~Corona_Australis.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Corona_Australis.secret|Zodiac~Corona_Australis.secret]]"
+dv_has_name_la: Corona Australis
+dv_has_name_la_genitive: Coronae Australis
+dv_has_name_de: Suedliche Krone
+dv_is_same_as:
+  - "[[../../WikiData/WD~Corona_Australis,10413|WD~Corona_Australis,10413]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Corona_Australis|Zodiac~Corona_Australis]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Corona_Australis.public|Zodiac~Corona_Australis.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Corona_Australis.internal|Zodiac~Corona_Australis.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Corona_Australis.protect|Zodiac~Corona_Australis.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Corona_Australis.private|Zodiac~Corona_Australis.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Corona_Australis.personal|Zodiac~Corona_Australis.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Corona_Australis.secret|Zodiac~Corona_Australis.secret]]"
 ---
 
 # [[Zodiac~Corona_Australis]] 
 
-[SpocWebEntityId::28108]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Corona Australis]
-[#has_/name_/la_/genitive::Coronae Australis]
-[#has_/name_/de::Suedliche Krone]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Corona_Australis,10413|WD~Corona_Australis,10413]] 
 

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star/Star_Population|Star_Population]]"
+    - "[[/_public/Astronomy/Star/Star_Population.public|Star_Population.public]]"
+    - "[[/_internal/Astronomy/Star/Star_Population.internal|Star_Population.internal]]"
+    - "[[/_protect/Astronomy/Star/Star_Population.protect|Star_Population.protect]]"
+    - "[[/_private/Astronomy/Star/Star_Population.private|Star_Population.private]]"
+    - "[[/_personal/Astronomy/Star/Star_Population.personal|Star_Population.personal]]"
+    - "[[/_secret/Astronomy/Star/Star_Population.secret|Star_Population.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star/Star_Population|Star_Population]]"
+  - "[[/_public/Astronomy/Star/Star_Population.public|Star_Population.public]]"
+  - "[[/_internal/Astronomy/Star/Star_Population.internal|Star_Population.internal]]"
+  - "[[/_protect/Astronomy/Star/Star_Population.protect|Star_Population.protect]]"
+  - "[[/_private/Astronomy/Star/Star_Population.private|Star_Population.private]]"
+  - "[[/_personal/Astronomy/Star/Star_Population.personal|Star_Population.personal]]"
+  - "[[/_secret/Astronomy/Star/Star_Population.secret|Star_Population.secret]]"
+---
 
 # [[Star_Population]] 
 

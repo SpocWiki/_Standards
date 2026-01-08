@@ -168,6 +168,25 @@ Stack_Exchange_tag:
 different_from:
   - "[[_Standards/WikiData/WD~appearance_of_the_Milky_Way_from_Earth,98841210]]"
   - "[[_Standards/WikiData/WD~galaxy,318]]"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Milky_Way,321|WD~Milky_Way,321]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Milky_Way|Milky_Way]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Milky_Way.public|Milky_Way.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Milky_Way.internal|Milky_Way.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Milky_Way.protect|Milky_Way.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Milky_Way.private|Milky_Way.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Milky_Way.personal|Milky_Way.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Milky_Way.secret|Milky_Way.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Milky_Way,321|WD~Milky_Way,321]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Milky_Way|Milky_Way]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Milky_Way.public|Milky_Way.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Milky_Way.internal|Milky_Way.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Milky_Way.protect|Milky_Way.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Milky_Way.private|Milky_Way.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Milky_Way.personal|Milky_Way.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Milky_Way.secret|Milky_Way.secret]]"
 ---
 
 # [[Milky_Way]] 🌌 

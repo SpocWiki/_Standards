@@ -4,11 +4,11 @@ aliases:
   - Globular_Cluster
   - Globular Cluster
 has_id_wikidata: Q11276
-subclass_of: '[[_Standards/WikiData/WD~star_cluster,168845]]'
-has_list: '[[_Standards/WikiData/WD~list_of_globular_clusters,1841855]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_globular_cluster,13033954]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+subclass_of: "[[_Standards/WikiData/WD~star_cluster,168845]]"
+has_list: "[[_Standards/WikiData/WD~list_of_globular_clusters,1841855]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_globular_cluster,13033954]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+part_of: "[[_Standards/WikiData/WD~galaxy,318]]"
 OmegaWiki_Defined_Meaning: 160069
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/A%20Swarm%20of%20Ancient%20Stars%20-%20GPN-2000-000930.jpg
@@ -16,6 +16,25 @@ image:
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Evolution%20of%20globular%20clusters.ogv
 Dewey_Decimal_Classification: 523.855
 Commons_category: Globular clusters
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Globular_cluster,11276|WD~Globular_cluster,11276]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Globular_Cluster|Globular_Cluster]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Globular_Cluster.public|Globular_Cluster.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Globular_Cluster.internal|Globular_Cluster.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Globular_Cluster.protect|Globular_Cluster.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Globular_Cluster.private|Globular_Cluster.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Globular_Cluster.personal|Globular_Cluster.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Globular_Cluster.secret|Globular_Cluster.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Globular_cluster,11276|WD~Globular_cluster,11276]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Globular_Cluster|Globular_Cluster]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Globular_Cluster.public|Globular_Cluster.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Globular_Cluster.internal|Globular_Cluster.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Globular_Cluster.protect|Globular_Cluster.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Globular_Cluster.private|Globular_Cluster.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Globular_Cluster.personal|Globular_Cluster.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Globular_Cluster.secret|Globular_Cluster.secret]]"
 ---
 
 # [[Globular_Cluster]] 

@@ -3,20 +3,39 @@ aliases:
   - Star Cluster
   - Star_Cluster
 has_id_wikidata: Q168845
-different_from: '[[_Standards/WikiData/WD~galaxy_cluster,204107]]'
-subclass_of: '[[_Standards/WikiData/WD~deep_sky_object,249389]]'
+different_from: "[[_Standards/WikiData/WD~galaxy_cluster,204107]]"
+subclass_of: "[[_Standards/WikiData/WD~deep_sky_object,249389]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_cluster,6266096]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_cluster,6266096]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+part_of: "[[_Standards/WikiData/WD~galaxy,318]]"
 OmegaWiki_Defined_Meaning: 160089
 Dewey_Decimal_Classification: 523.85
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M92%20arp%20750pix.jpg
 Commons_gallery: Star cluster
 Commons_category: Star clusters
 Wolfram_Language_entity_type: StarCluster
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Star_cluster,168845|WD~Star_cluster,168845]]"
+    - "[[/_Standards/Astronomy/Star_System/Star_Cluster|Star_Cluster]]"
+    - "[[/_public/Astronomy/Star_System/Star_Cluster.public|Star_Cluster.public]]"
+    - "[[/_internal/Astronomy/Star_System/Star_Cluster.internal|Star_Cluster.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Star_Cluster.protect|Star_Cluster.protect]]"
+    - "[[/_private/Astronomy/Star_System/Star_Cluster.private|Star_Cluster.private]]"
+    - "[[/_personal/Astronomy/Star_System/Star_Cluster.personal|Star_Cluster.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Star_Cluster.secret|Star_Cluster.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Star_cluster,168845|WD~Star_cluster,168845]]"
+  - "[[/_Standards/Astronomy/Star_System/Star_Cluster|Star_Cluster]]"
+  - "[[/_public/Astronomy/Star_System/Star_Cluster.public|Star_Cluster.public]]"
+  - "[[/_internal/Astronomy/Star_System/Star_Cluster.internal|Star_Cluster.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Star_Cluster.protect|Star_Cluster.protect]]"
+  - "[[/_private/Astronomy/Star_System/Star_Cluster.private|Star_Cluster.private]]"
+  - "[[/_personal/Astronomy/Star_System/Star_Cluster.personal|Star_Cluster.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Star_Cluster.secret|Star_Cluster.secret]]"
 ---
 
 # [[Star_Cluster]] 

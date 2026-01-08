@@ -12,6 +12,25 @@ subclass_of: "[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149]]"
 instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~galaxy,318]]"
 Commons_category: Galaxy groups
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Galaxy_group,1491746|WD~Galaxy_group,1491746]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Group|Galaxy_Group]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Galaxy_Group.public|Galaxy_Group.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Galaxy_Group.internal|Galaxy_Group.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Galaxy_Group.protect|Galaxy_Group.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Galaxy_Group.private|Galaxy_Group.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Galaxy_Group.personal|Galaxy_Group.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Galaxy_Group.secret|Galaxy_Group.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Galaxy_group,1491746|WD~Galaxy_group,1491746]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Group|Galaxy_Group]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Galaxy_Group.public|Galaxy_Group.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Galaxy_Group.internal|Galaxy_Group.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Galaxy_Group.protect|Galaxy_Group.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Galaxy_Group.private|Galaxy_Group.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Galaxy_Group.personal|Galaxy_Group.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Galaxy_Group.secret|Galaxy_Group.secret]]"
 ---
 
 # [[Galaxy_Group]] 
