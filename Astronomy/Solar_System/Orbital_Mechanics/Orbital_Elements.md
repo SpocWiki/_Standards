@@ -4,6 +4,25 @@ has_id_wikidata: Q272626
 subclass_of: "[[_Standards/WikiData/WD~parameter,1413083]]"
 described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 different_from: "[[_Standards/WikiData/WD~Keplerian_elements,78147576]]"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Orbital_elements,272626]]"
+    - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements|Orbital_Elements]]"
+    - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.public|Orbital_Elements.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.internal|Orbital_Elements.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.protect|Orbital_Elements.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.private|Orbital_Elements.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.personal|Orbital_Elements.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.secret|Orbital_Elements.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Orbital_elements,272626]]"
+  - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements|Orbital_Elements]]"
+  - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.public|Orbital_Elements.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.internal|Orbital_Elements.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.protect|Orbital_Elements.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.private|Orbital_Elements.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.personal|Orbital_Elements.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.secret|Orbital_Elements.secret]]"
 ---
 
 # [[Orbital_Elements]] 

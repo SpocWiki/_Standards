@@ -12,6 +12,25 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Open%20
 OmegaWiki_Defined_Meaning: "1487992"
 Dewey_Decimal_Classification: "523.852"
 Commons_category: Open clusters
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Open_cluster,11387|WD~Open_cluster,11387]]"
+    - "[[/_Standards/Astronomy/Star_System/Star_Cluster/Open_Cluster|Open_Cluster]]"
+    - "[[/_public/Astronomy/Star_System/Star_Cluster/Open_Cluster.public|Open_Cluster.public]]"
+    - "[[/_internal/Astronomy/Star_System/Star_Cluster/Open_Cluster.internal|Open_Cluster.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Star_Cluster/Open_Cluster.protect|Open_Cluster.protect]]"
+    - "[[/_private/Astronomy/Star_System/Star_Cluster/Open_Cluster.private|Open_Cluster.private]]"
+    - "[[/_personal/Astronomy/Star_System/Star_Cluster/Open_Cluster.personal|Open_Cluster.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Star_Cluster/Open_Cluster.secret|Open_Cluster.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Open_cluster,11387|WD~Open_cluster,11387]]"
+  - "[[/_Standards/Astronomy/Star_System/Star_Cluster/Open_Cluster|Open_Cluster]]"
+  - "[[/_public/Astronomy/Star_System/Star_Cluster/Open_Cluster.public|Open_Cluster.public]]"
+  - "[[/_internal/Astronomy/Star_System/Star_Cluster/Open_Cluster.internal|Open_Cluster.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Star_Cluster/Open_Cluster.protect|Open_Cluster.protect]]"
+  - "[[/_private/Astronomy/Star_System/Star_Cluster/Open_Cluster.private|Open_Cluster.private]]"
+  - "[[/_personal/Astronomy/Star_System/Star_Cluster/Open_Cluster.personal|Open_Cluster.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Star_Cluster/Open_Cluster.secret|Open_Cluster.secret]]"
 ---
 
 # [[Open_Cluster]] 

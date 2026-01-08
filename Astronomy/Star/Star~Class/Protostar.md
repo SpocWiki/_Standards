@@ -3,12 +3,31 @@ aliases:
   - Protostern
   - Protostar
 has_id_wikidata: Q204903
-subclass_of: '[[_Standards/WikiData/WD~young_stellar_object,497654]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-part_of: '[[_Standards/WikiData/WD~star_formation,16744]]'
+subclass_of: "[[_Standards/WikiData/WD~young_stellar_object,497654]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+part_of: "[[_Standards/WikiData/WD~star_formation,16744]]"
 Commons_category: Protostars
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20diamond%20in%20the%20dust.jpg
 Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/protostar
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Protostar,204903|WD~Protostar,204903]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Protostar|Protostar]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Protostar.public|Protostar.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Protostar.internal|Protostar.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Protostar.protect|Protostar.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Protostar.private|Protostar.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Protostar.personal|Protostar.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Protostar.secret|Protostar.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Protostar,204903|WD~Protostar,204903]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Protostar|Protostar]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Protostar.public|Protostar.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Protostar.internal|Protostar.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Protostar.protect|Protostar.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Protostar.private|Protostar.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Protostar.personal|Protostar.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Protostar.secret|Protostar.secret]]"
 ---
 
 # [[Protostar]] 

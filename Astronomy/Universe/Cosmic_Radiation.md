@@ -28,6 +28,25 @@ MeSH_tree_code:
   - G01.750.750.235
   - G16.500.200
   - N06.230.300.100.300
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cosmic_radiation,11547|WD~Cosmic_radiation,11547]]"
+    - "[[/_Standards/Astronomy/Universe/Cosmic_Radiation|Cosmic_Radiation]]"
+    - "[[/_public/Astronomy/Universe/Cosmic_Radiation.public|Cosmic_Radiation.public]]"
+    - "[[/_internal/Astronomy/Universe/Cosmic_Radiation.internal|Cosmic_Radiation.internal]]"
+    - "[[/_protect/Astronomy/Universe/Cosmic_Radiation.protect|Cosmic_Radiation.protect]]"
+    - "[[/_private/Astronomy/Universe/Cosmic_Radiation.private|Cosmic_Radiation.private]]"
+    - "[[/_personal/Astronomy/Universe/Cosmic_Radiation.personal|Cosmic_Radiation.personal]]"
+    - "[[/_secret/Astronomy/Universe/Cosmic_Radiation.secret|Cosmic_Radiation.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cosmic_radiation,11547|WD~Cosmic_radiation,11547]]"
+  - "[[/_Standards/Astronomy/Universe/Cosmic_Radiation|Cosmic_Radiation]]"
+  - "[[/_public/Astronomy/Universe/Cosmic_Radiation.public|Cosmic_Radiation.public]]"
+  - "[[/_internal/Astronomy/Universe/Cosmic_Radiation.internal|Cosmic_Radiation.internal]]"
+  - "[[/_protect/Astronomy/Universe/Cosmic_Radiation.protect|Cosmic_Radiation.protect]]"
+  - "[[/_private/Astronomy/Universe/Cosmic_Radiation.private|Cosmic_Radiation.private]]"
+  - "[[/_personal/Astronomy/Universe/Cosmic_Radiation.personal|Cosmic_Radiation.personal]]"
+  - "[[/_secret/Astronomy/Universe/Cosmic_Radiation.secret|Cosmic_Radiation.secret]]"
 ---
 
 # [[Cosmic_Radiation]] 

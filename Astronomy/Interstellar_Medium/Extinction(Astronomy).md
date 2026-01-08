@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Extinction,943247|WD~Extinction,943247]]"
+    - "[[/_Standards/Astronomy/Interstellar_Medium/Extinction(Astronomy)|Extinction(Astronomy)]]"
+    - "[[/_public/Astronomy/Interstellar_Medium/Extinction(Astronomy).public|Extinction(Astronomy).public]]"
+    - "[[/_internal/Astronomy/Interstellar_Medium/Extinction(Astronomy).internal|Extinction(Astronomy).internal]]"
+    - "[[/_protect/Astronomy/Interstellar_Medium/Extinction(Astronomy).protect|Extinction(Astronomy).protect]]"
+    - "[[/_private/Astronomy/Interstellar_Medium/Extinction(Astronomy).private|Extinction(Astronomy).private]]"
+    - "[[/_personal/Astronomy/Interstellar_Medium/Extinction(Astronomy).personal|Extinction(Astronomy).personal]]"
+    - "[[/_secret/Astronomy/Interstellar_Medium/Extinction(Astronomy).secret|Extinction(Astronomy).secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Extinction,943247|WD~Extinction,943247]]"
+  - "[[/_Standards/Astronomy/Interstellar_Medium/Extinction(Astronomy)|Extinction(Astronomy)]]"
+  - "[[/_public/Astronomy/Interstellar_Medium/Extinction(Astronomy).public|Extinction(Astronomy).public]]"
+  - "[[/_internal/Astronomy/Interstellar_Medium/Extinction(Astronomy).internal|Extinction(Astronomy).internal]]"
+  - "[[/_protect/Astronomy/Interstellar_Medium/Extinction(Astronomy).protect|Extinction(Astronomy).protect]]"
+  - "[[/_private/Astronomy/Interstellar_Medium/Extinction(Astronomy).private|Extinction(Astronomy).private]]"
+  - "[[/_personal/Astronomy/Interstellar_Medium/Extinction(Astronomy).personal|Extinction(Astronomy).personal]]"
+  - "[[/_secret/Astronomy/Interstellar_Medium/Extinction(Astronomy).secret|Extinction(Astronomy).secret]]"
+---
 
 # [[Extinction(Astronomy)]] 
 

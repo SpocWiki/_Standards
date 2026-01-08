@@ -6,6 +6,23 @@ aliases:
   - NGC 224
   - Andromeda_Galaxy
   - Andromeda Galaxy
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Andromeda_Galaxy|Andromeda_Galaxy]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.public|Andromeda_Galaxy.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.internal|Andromeda_Galaxy.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.protect|Andromeda_Galaxy.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.private|Andromeda_Galaxy.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.personal|Andromeda_Galaxy.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.secret|Andromeda_Galaxy.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Andromeda_Galaxy|Andromeda_Galaxy]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.public|Andromeda_Galaxy.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.internal|Andromeda_Galaxy.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.protect|Andromeda_Galaxy.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.private|Andromeda_Galaxy.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.personal|Andromeda_Galaxy.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.secret|Andromeda_Galaxy.secret]]"
 ---
 
 # [[Andromeda_Galaxy]] 

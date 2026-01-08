@@ -8,6 +8,25 @@ part_of: "[[_Standards/WikiData/WD~astrophysics,37547]]"
 Dewey_Decimal_Classification: "523.88"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/The%20life%20cycle%20of%20a%20Sun-like%20star%20%28eso1337a%29.webm
 Commons_category: Stellar evolution
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Stellar_evolution,6472|WD~Stellar_evolution,6472]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution|Stellar_Evolution]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution.public|Stellar_Evolution.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution.internal|Stellar_Evolution.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution.protect|Stellar_Evolution.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution.private|Stellar_Evolution.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution.personal|Stellar_Evolution.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution.secret|Stellar_Evolution.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Stellar_evolution,6472|WD~Stellar_evolution,6472]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution|Stellar_Evolution]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution.public|Stellar_Evolution.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution.internal|Stellar_Evolution.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution.protect|Stellar_Evolution.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution.private|Stellar_Evolution.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution.personal|Stellar_Evolution.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution.secret|Stellar_Evolution.secret]]"
 ---
 
 # [[Stellar_Evolution]] 

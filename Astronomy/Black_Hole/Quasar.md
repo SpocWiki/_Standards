@@ -16,6 +16,25 @@ video:
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Quasar%20symbol%20%28fixed%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/QuasarStarburst.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/KVAZARI.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Quasar,83373]]"
+    - "[[/_Standards/Astronomy/Black_Hole/Quasar|Quasar]]"
+    - "[[/_public/Astronomy/Black_Hole/Quasar.public|Quasar.public]]"
+    - "[[/_internal/Astronomy/Black_Hole/Quasar.internal|Quasar.internal]]"
+    - "[[/_protect/Astronomy/Black_Hole/Quasar.protect|Quasar.protect]]"
+    - "[[/_private/Astronomy/Black_Hole/Quasar.private|Quasar.private]]"
+    - "[[/_personal/Astronomy/Black_Hole/Quasar.personal|Quasar.personal]]"
+    - "[[/_secret/Astronomy/Black_Hole/Quasar.secret|Quasar.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Quasar,83373]]"
+  - "[[/_Standards/Astronomy/Black_Hole/Quasar|Quasar]]"
+  - "[[/_public/Astronomy/Black_Hole/Quasar.public|Quasar.public]]"
+  - "[[/_internal/Astronomy/Black_Hole/Quasar.internal|Quasar.internal]]"
+  - "[[/_protect/Astronomy/Black_Hole/Quasar.protect|Quasar.protect]]"
+  - "[[/_private/Astronomy/Black_Hole/Quasar.private|Quasar.private]]"
+  - "[[/_personal/Astronomy/Black_Hole/Quasar.personal|Quasar.personal]]"
+  - "[[/_secret/Astronomy/Black_Hole/Quasar.secret|Quasar.secret]]"
 ---
 
 # [[Quasar]] 

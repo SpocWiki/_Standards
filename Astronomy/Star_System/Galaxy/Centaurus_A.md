@@ -88,6 +88,25 @@ catalog_code:
   - SUMSS J132528-430110
   - XSS J13253-4302
 Commons_category: Centaurus A
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Centaurus_A,487255|WD~Centaurus_A,487255]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Centaurus_A|Centaurus_A]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Centaurus_A.public|Centaurus_A.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Centaurus_A.internal|Centaurus_A.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Centaurus_A.protect|Centaurus_A.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Centaurus_A.private|Centaurus_A.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Centaurus_A.personal|Centaurus_A.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Centaurus_A.secret|Centaurus_A.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Centaurus_A,487255|WD~Centaurus_A,487255]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Centaurus_A|Centaurus_A]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Centaurus_A.public|Centaurus_A.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Centaurus_A.internal|Centaurus_A.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Centaurus_A.protect|Centaurus_A.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Centaurus_A.private|Centaurus_A.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Centaurus_A.personal|Centaurus_A.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Centaurus_A.secret|Centaurus_A.secret]]"
 ---
 
 # [[Centaurus_A]] 

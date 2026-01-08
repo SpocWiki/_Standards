@@ -12,30 +12,30 @@ tags:
 type: Zodiac
 ZodiacPos: 2
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-  - '[[_Standards/WikiData/WD~Taurus,105282520]]'
-named_after: '[[_Standards/WikiData/WD~bull,693690]]'
-notation: '[[_Standards/WikiData/WD~_,3594858]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - "[[_Standards/WikiData/WD~Taurus,105282520]]"
+named_after: "[[_Standards/WikiData/WD~bull,693690]]"
+notation: "[[_Standards/WikiData/WD~_,3594858]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~zodiacal_constellation,4193029]]'
-  - '[[_Standards/WikiData/WD~constellation,8928]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Taurus,10729008]]'
+  - "[[_Standards/WikiData/WD~zodiacal_constellation,4193029]]"
+  - "[[_Standards/WikiData/WD~constellation,8928]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Taurus,10729008]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Cetus,8839]]'
-  - '[[_Standards/WikiData/WD~Orion,8860]]'
-  - '[[_Standards/WikiData/WD~Gemini,8923]]'
-  - '[[_Standards/WikiData/WD~Eridanus,10433]]'
-  - '[[_Standards/WikiData/WD~Auriga,10476]]'
-  - '[[_Standards/WikiData/WD~Perseus,10511]]'
-  - '[[_Standards/WikiData/WD~Aries,10584]]'
-has_part_s_: '[[_Standards/WikiData/WD~Aldebaran,12170]]'
-different_from: '[[_Standards/WikiData/WD~torus,12510]]'
+  - "[[_Standards/WikiData/WD~Cetus,8839]]"
+  - "[[_Standards/WikiData/WD~Orion,8860]]"
+  - "[[_Standards/WikiData/WD~Gemini,8923]]"
+  - "[[_Standards/WikiData/WD~Eridanus,10433]]"
+  - "[[_Standards/WikiData/WD~Auriga,10476]]"
+  - "[[_Standards/WikiData/WD~Perseus,10511]]"
+  - "[[_Standards/WikiData/WD~Aries,10584]]"
+has_part_s_: "[[_Standards/WikiData/WD~Aldebaran,12170]]"
+different_from: "[[_Standards/WikiData/WD~torus,12510]]"
 area: 797
 OmegaWiki_Defined_Meaning: 688702
 official_name: Taurus
@@ -46,15 +46,44 @@ Commons_gallery: Taurus (constellation)
 Commons_category: Taurus (constellation)
 Baidu_Tieba_name: 金牛座
 short_name: Tau
+dv_SpocWebEntityId: 28160
+dv_#has_:
+  name_:
+    la: Taurus
+    la_:
+      genitive: Tauri
+    de: Stier
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Taurus,10570|WD~Taurus,10570]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Taurus|Zodiac~Taurus]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Taurus.public|Zodiac~Taurus.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Taurus.internal|Zodiac~Taurus.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Taurus.protect|Zodiac~Taurus.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Taurus.private|Zodiac~Taurus.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Taurus.personal|Zodiac~Taurus.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Taurus.secret|Zodiac~Taurus.secret]]"
+dv_has_name_la: Taurus
+dv_has_name_la_genitive: Tauri
+dv_has_name_de: Stier
+dv_is_same_as:
+  - "[[../../WikiData/WD~Taurus,10570|WD~Taurus,10570]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Taurus|Zodiac~Taurus]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Taurus.public|Zodiac~Taurus.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Taurus.internal|Zodiac~Taurus.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Taurus.protect|Zodiac~Taurus.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Taurus.private|Zodiac~Taurus.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Taurus.personal|Zodiac~Taurus.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Taurus.secret|Zodiac~Taurus.secret]]"
 ---
 
 # [[Zodiac~Taurus]] 
 
-[SpocWebEntityId::28160] 
+SpocWebEntityId = `=this.dv_SpocWebEntityId`  
 
-[#has_/name_/la::Taurus]
-[#has_/name_/la_/genitive::Tauri]
-[#has_/name_/de::Stier]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Taurus,10570|WD~Taurus,10570]] 
 

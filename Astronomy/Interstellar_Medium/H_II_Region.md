@@ -8,6 +8,25 @@ made_from_material: "[[_Standards/WikiData/WD~hydrogen,556]]"
 has_effect: "[[_Standards/WikiData/WD~star_formation,16744]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nursery%20of%20New%20Stars%20-%20GPN-2000-000972.jpg
 Commons_category: H II regions
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~H_II_region,11282]]"
+    - "[[/_Standards/Astronomy/Interstellar_Medium/H_II_Region|H_II_Region]]"
+    - "[[/_public/Astronomy/Interstellar_Medium/H_II_Region.public|H_II_Region.public]]"
+    - "[[/_internal/Astronomy/Interstellar_Medium/H_II_Region.internal|H_II_Region.internal]]"
+    - "[[/_protect/Astronomy/Interstellar_Medium/H_II_Region.protect|H_II_Region.protect]]"
+    - "[[/_private/Astronomy/Interstellar_Medium/H_II_Region.private|H_II_Region.private]]"
+    - "[[/_personal/Astronomy/Interstellar_Medium/H_II_Region.personal|H_II_Region.personal]]"
+    - "[[/_secret/Astronomy/Interstellar_Medium/H_II_Region.secret|H_II_Region.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~H_II_region,11282]]"
+  - "[[/_Standards/Astronomy/Interstellar_Medium/H_II_Region|H_II_Region]]"
+  - "[[/_public/Astronomy/Interstellar_Medium/H_II_Region.public|H_II_Region.public]]"
+  - "[[/_internal/Astronomy/Interstellar_Medium/H_II_Region.internal|H_II_Region.internal]]"
+  - "[[/_protect/Astronomy/Interstellar_Medium/H_II_Region.protect|H_II_Region.protect]]"
+  - "[[/_private/Astronomy/Interstellar_Medium/H_II_Region.private|H_II_Region.private]]"
+  - "[[/_personal/Astronomy/Interstellar_Medium/H_II_Region.personal|H_II_Region.personal]]"
+  - "[[/_secret/Astronomy/Interstellar_Medium/H_II_Region.secret|H_II_Region.secret]]"
 ---
 
 # [[H_II_Region]] 

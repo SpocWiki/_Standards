@@ -8,6 +8,25 @@ subclass_of: "[[_Standards/WikiData/WD~astrophysical_process,15401756]]"
 has_effect: "[[_Standards/WikiData/WD~star,523]]"
 Dewey_Decimal_Classification: "523.88"
 Commons_category: Star formation
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Star_formation,16744]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Star_Formation|Star_Formation]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Star_Formation.public|Star_Formation.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Star_Formation.internal|Star_Formation.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Star_Formation.protect|Star_Formation.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Star_Formation.private|Star_Formation.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Star_Formation.personal|Star_Formation.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Star_Formation.secret|Star_Formation.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Star_formation,16744]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Star_Formation|Star_Formation]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Star_Formation.public|Star_Formation.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Star_Formation.internal|Star_Formation.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Star_Formation.protect|Star_Formation.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Star_Formation.private|Star_Formation.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Star_Formation.personal|Star_Formation.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Star_Formation.secret|Star_Formation.secret]]"
 ---
 
 # [[Star_Formation]] 

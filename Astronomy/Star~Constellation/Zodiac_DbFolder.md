@@ -3,6 +3,23 @@ aliases:
   - Zodiac_DbFolder
   - Zodiac DbFolder
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac_DbFolder|Zodiac_DbFolder]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac_DbFolder.public|Zodiac_DbFolder.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac_DbFolder.internal|Zodiac_DbFolder.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac_DbFolder.protect|Zodiac_DbFolder.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac_DbFolder.private|Zodiac_DbFolder.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac_DbFolder.personal|Zodiac_DbFolder.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac_DbFolder.secret|Zodiac_DbFolder.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac_DbFolder|Zodiac_DbFolder]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac_DbFolder.public|Zodiac_DbFolder.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac_DbFolder.internal|Zodiac_DbFolder.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac_DbFolder.protect|Zodiac_DbFolder.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac_DbFolder.private|Zodiac_DbFolder.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac_DbFolder.personal|Zodiac_DbFolder.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac_DbFolder.secret|Zodiac_DbFolder.secret]]"
 ---
 
 ```yaml:dbfolder

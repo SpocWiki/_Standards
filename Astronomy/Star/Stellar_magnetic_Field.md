@@ -6,6 +6,25 @@ part_of: "[[_Standards/WikiData/WD~star,523]]"
 subclass_of: "[[_Standards/WikiData/WD~magnetic_field,11408]]"
 studied_by: "[[_Standards/WikiData/WD~astrophysics,37547]]"
 Commons_category: Stellar magnetic fields
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Stellar_magnetic_field,6449|WD~Stellar_magnetic_field,6449]]"
+    - "[[/_Standards/Astronomy/Star/Stellar_magnetic_Field|Stellar_magnetic_Field]]"
+    - "[[/_public/Astronomy/Star/Stellar_magnetic_Field.public|Stellar_magnetic_Field.public]]"
+    - "[[/_internal/Astronomy/Star/Stellar_magnetic_Field.internal|Stellar_magnetic_Field.internal]]"
+    - "[[/_protect/Astronomy/Star/Stellar_magnetic_Field.protect|Stellar_magnetic_Field.protect]]"
+    - "[[/_private/Astronomy/Star/Stellar_magnetic_Field.private|Stellar_magnetic_Field.private]]"
+    - "[[/_personal/Astronomy/Star/Stellar_magnetic_Field.personal|Stellar_magnetic_Field.personal]]"
+    - "[[/_secret/Astronomy/Star/Stellar_magnetic_Field.secret|Stellar_magnetic_Field.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Stellar_magnetic_field,6449|WD~Stellar_magnetic_field,6449]]"
+  - "[[/_Standards/Astronomy/Star/Stellar_magnetic_Field|Stellar_magnetic_Field]]"
+  - "[[/_public/Astronomy/Star/Stellar_magnetic_Field.public|Stellar_magnetic_Field.public]]"
+  - "[[/_internal/Astronomy/Star/Stellar_magnetic_Field.internal|Stellar_magnetic_Field.internal]]"
+  - "[[/_protect/Astronomy/Star/Stellar_magnetic_Field.protect|Stellar_magnetic_Field.protect]]"
+  - "[[/_private/Astronomy/Star/Stellar_magnetic_Field.private|Stellar_magnetic_Field.private]]"
+  - "[[/_personal/Astronomy/Star/Stellar_magnetic_Field.personal|Stellar_magnetic_Field.personal]]"
+  - "[[/_secret/Astronomy/Star/Stellar_magnetic_Field.secret|Stellar_magnetic_Field.secret]]"
 ---
 
 # [[Stellar_magnetic_Field]] 

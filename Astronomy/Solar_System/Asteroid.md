@@ -6,31 +6,50 @@ has_id_wikidata: Q3863
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Asteroid%20symbol%20%28National%20Geographic%20Society%29.svg
 Commons_category: Asteroids
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 Dewey_Decimal_Classification:
   - 133.5398
   - 523.44
-different_from: '[[_Standards/WikiData/WD~minor_planet,1022867]]'
+different_from: "[[_Standards/WikiData/WD~minor_planet,1022867]]"
 equivalent_class: http://dbpedia.org/ontology/Asteroid
 has_use:
-  - '[[_Standards/WikiData/WD~asteroid_mining,748764]]'
-  - '[[_Standards/WikiData/WD~colonization_of_the_asteroid_belt,2618750]]'
+  - "[[_Standards/WikiData/WD~asteroid_mining,748764]]"
+  - "[[_Standards/WikiData/WD~colonization_of_the_asteroid_belt,2618750]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Asteroidsscale.jpg
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 Krugosvet_article: nauka_i_tehnika/astronomiya/ASTEROID.html
 OmegaWiki_Defined_Meaning: 665165
-part_of: '[[_Standards/WikiData/WD~gravitationally_bound_system,15053549]]'
+part_of: "[[_Standards/WikiData/WD~gravitationally_bound_system,15053549]]"
 properties_for_this_type: asteroid spectral type
 subclass_of:
-  - '[[_Standards/WikiData/WD~small_Solar_System_body,193275]]'
-  - '[[_Standards/WikiData/WD~minor_planet,1022867]]'
+  - "[[_Standards/WikiData/WD~small_Solar_System_body,193275]]"
+  - "[[_Standards/WikiData/WD~minor_planet,1022867]]"
 subreddit: asteroid
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Asteroids,6689285]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Asteroids,6689285]]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Asteroid,3863|WD~Asteroid,3863]]"
+    - "[[/_Standards/Astronomy/Solar_System/Asteroid|Asteroid]]"
+    - "[[/_public/Astronomy/Solar_System/Asteroid.public|Asteroid.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Asteroid.internal|Asteroid.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Asteroid.protect|Asteroid.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Asteroid.private|Asteroid.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Asteroid.personal|Asteroid.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Asteroid.secret|Asteroid.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Asteroid,3863|WD~Asteroid,3863]]"
+  - "[[/_Standards/Astronomy/Solar_System/Asteroid|Asteroid]]"
+  - "[[/_public/Astronomy/Solar_System/Asteroid.public|Asteroid.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Asteroid.internal|Asteroid.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Asteroid.protect|Asteroid.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Asteroid.private|Asteroid.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Asteroid.personal|Asteroid.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Asteroid.secret|Asteroid.secret]]"
 ---
 
 # [[Asteroid]] 

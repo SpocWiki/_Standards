@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star/Star~Class|Star~Class]]"
+    - "[[/_public/Astronomy/Star/Star~Class.public|Star~Class.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class.internal|Star~Class.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class.protect|Star~Class.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class.private|Star~Class.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class.personal|Star~Class.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class.secret|Star~Class.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star/Star~Class|Star~Class]]"
+  - "[[/_public/Astronomy/Star/Star~Class.public|Star~Class.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class.internal|Star~Class.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class.protect|Star~Class.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class.private|Star~Class.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class.personal|Star~Class.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class.secret|Star~Class.secret]]"
+---
 This Folder contains one File per Star-Class. 
 The Star-Class is determined by 
 - the Star's Temperature and 

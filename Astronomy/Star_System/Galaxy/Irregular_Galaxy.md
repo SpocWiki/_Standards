@@ -4,6 +4,25 @@ has_id_wikidata: Q190397
 subclass_of: "[[_Standards/WikiData/WD~galaxy,318]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Irregular%20galaxy%20NGC%201427A%20%28captured%20by%20the%20Hubble%20Space%20Telescope%29.jpg
 Commons_category: Irregular galaxies
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Irregular_galaxy,190397]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Irregular_Galaxy|Irregular_Galaxy]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Irregular_Galaxy.public|Irregular_Galaxy.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.internal|Irregular_Galaxy.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Irregular_Galaxy.protect|Irregular_Galaxy.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Irregular_Galaxy.private|Irregular_Galaxy.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.personal|Irregular_Galaxy.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Irregular_Galaxy.secret|Irregular_Galaxy.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Irregular_galaxy,190397]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Irregular_Galaxy|Irregular_Galaxy]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Irregular_Galaxy.public|Irregular_Galaxy.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.internal|Irregular_Galaxy.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Irregular_Galaxy.protect|Irregular_Galaxy.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Irregular_Galaxy.private|Irregular_Galaxy.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.personal|Irregular_Galaxy.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Irregular_Galaxy.secret|Irregular_Galaxy.secret]]"
 ---
 
 # [[Irregular_Galaxy]] 

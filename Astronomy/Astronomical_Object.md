@@ -96,6 +96,25 @@ pronunciation_audio:
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000799
 IMDb_keyword: astronomical-object-in-title
 UMLS_CUI: C2350447
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Astronomical_object,6999|WD~Astronomical_object,6999]]"
+    - "[[/_Standards/Astronomy/Astronomical_Object|Astronomical_Object]]"
+    - "[[/_public/Astronomy/Astronomical_Object.public|Astronomical_Object.public]]"
+    - "[[/_internal/Astronomy/Astronomical_Object.internal|Astronomical_Object.internal]]"
+    - "[[/_protect/Astronomy/Astronomical_Object.protect|Astronomical_Object.protect]]"
+    - "[[/_private/Astronomy/Astronomical_Object.private|Astronomical_Object.private]]"
+    - "[[/_personal/Astronomy/Astronomical_Object.personal|Astronomical_Object.personal]]"
+    - "[[/_secret/Astronomy/Astronomical_Object.secret|Astronomical_Object.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Astronomical_object,6999|WD~Astronomical_object,6999]]"
+  - "[[/_Standards/Astronomy/Astronomical_Object|Astronomical_Object]]"
+  - "[[/_public/Astronomy/Astronomical_Object.public|Astronomical_Object.public]]"
+  - "[[/_internal/Astronomy/Astronomical_Object.internal|Astronomical_Object.internal]]"
+  - "[[/_protect/Astronomy/Astronomical_Object.protect|Astronomical_Object.protect]]"
+  - "[[/_private/Astronomy/Astronomical_Object.private|Astronomical_Object.private]]"
+  - "[[/_personal/Astronomy/Astronomical_Object.personal|Astronomical_Object.personal]]"
+  - "[[/_secret/Astronomy/Astronomical_Object.secret|Astronomical_Object.secret]]"
 ---
 
 # [[Astronomical_Object]] 

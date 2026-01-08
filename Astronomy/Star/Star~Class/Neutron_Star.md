@@ -29,6 +29,25 @@ schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Neutronstarsimple.png
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/NETRONNAYA_ZVEZDA.html
 Commons_category: Neutron stars
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Neutron_star,4202]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Neutron_Star|Neutron_Star]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Neutron_Star.public|Neutron_Star.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal|Neutron_Star.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Neutron_Star.protect|Neutron_Star.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Neutron_Star.private|Neutron_Star.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Neutron_Star.personal|Neutron_Star.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Neutron_Star.secret|Neutron_Star.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Neutron_star,4202]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Neutron_Star|Neutron_Star]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Neutron_Star.public|Neutron_Star.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal|Neutron_Star.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Neutron_Star.protect|Neutron_Star.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Neutron_Star.private|Neutron_Star.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Neutron_Star.personal|Neutron_Star.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Neutron_Star.secret|Neutron_Star.secret]]"
 ---
 
 # [[Neutron_Star]] 

@@ -4,10 +4,29 @@ aliases:
   - Lenticular_Galaxy
   - Lenticular Galaxy
 has_id_wikidata: Q192078
-followed_by: '[[_Standards/WikiData/WD~elliptical_galaxy,184348]]'
-subclass_of: '[[_Standards/WikiData/WD~disc_galaxy,1371025]]'
-follows: '[[_Standards/WikiData/WD~spiral_galaxy,2488]]'
+followed_by: "[[_Standards/WikiData/WD~elliptical_galaxy,184348]]"
+subclass_of: "[[_Standards/WikiData/WD~disc_galaxy,1371025]]"
+follows: "[[_Standards/WikiData/WD~spiral_galaxy,2488]]"
 Commons_category: Lenticular galaxies
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Lenticular_galaxy,192078]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Lenticular_Galaxy|Lenticular_Galaxy]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.public|Lenticular_Galaxy.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.internal|Lenticular_Galaxy.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.protect|Lenticular_Galaxy.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.private|Lenticular_Galaxy.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.personal|Lenticular_Galaxy.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.secret|Lenticular_Galaxy.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Lenticular_galaxy,192078]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Lenticular_Galaxy|Lenticular_Galaxy]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.public|Lenticular_Galaxy.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.internal|Lenticular_Galaxy.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.protect|Lenticular_Galaxy.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.private|Lenticular_Galaxy.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.personal|Lenticular_Galaxy.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Lenticular_Galaxy.secret|Lenticular_Galaxy.secret]]"
 ---
 
 # [[Lenticular_Galaxy]] 

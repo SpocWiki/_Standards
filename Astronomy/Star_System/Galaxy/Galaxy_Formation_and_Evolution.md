@@ -5,11 +5,30 @@ aliases:
   - Galaxy Formation and Evolution
 has_id_wikidata: Q1995140
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-is_the_study_of: '[[_Standards/WikiData/WD~galaxy,318]]'
-subclass_of: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+is_the_study_of: "[[_Standards/WikiData/WD~galaxy,318]]"
+subclass_of: "[[_Standards/WikiData/WD~astrophysics,37547]]"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Simulation%20%E2%80%93%20A%20Disk%20Galaxy%20Forms.webm
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Galaxy_formation_and_evolution,1995140|WD~Galaxy_formation_and_evolution,1995140]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution|Galaxy_Formation_and_Evolution]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.public|Galaxy_Formation_and_Evolution.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.internal|Galaxy_Formation_and_Evolution.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.protect|Galaxy_Formation_and_Evolution.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.private|Galaxy_Formation_and_Evolution.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.personal|Galaxy_Formation_and_Evolution.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.secret|Galaxy_Formation_and_Evolution.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Galaxy_formation_and_evolution,1995140|WD~Galaxy_formation_and_evolution,1995140]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution|Galaxy_Formation_and_Evolution]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.public|Galaxy_Formation_and_Evolution.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.internal|Galaxy_Formation_and_Evolution.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.protect|Galaxy_Formation_and_Evolution.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.private|Galaxy_Formation_and_Evolution.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.personal|Galaxy_Formation_and_Evolution.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Galaxy_Formation_and_Evolution.secret|Galaxy_Formation_and_Evolution.secret]]"
 ---
 
 # [[Galaxy_Formation_and_Evolution]] 

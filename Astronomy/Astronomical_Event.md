@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Astronomical_Event|Astronomical_Event]]"
+    - "[[/_public/Astronomy/Astronomical_Event.public|Astronomical_Event.public]]"
+    - "[[/_internal/Astronomy/Astronomical_Event.internal|Astronomical_Event.internal]]"
+    - "[[/_protect/Astronomy/Astronomical_Event.protect|Astronomical_Event.protect]]"
+    - "[[/_private/Astronomy/Astronomical_Event.private|Astronomical_Event.private]]"
+    - "[[/_personal/Astronomy/Astronomical_Event.personal|Astronomical_Event.personal]]"
+    - "[[/_secret/Astronomy/Astronomical_Event.secret|Astronomical_Event.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Astronomical_Event|Astronomical_Event]]"
+  - "[[/_public/Astronomy/Astronomical_Event.public|Astronomical_Event.public]]"
+  - "[[/_internal/Astronomy/Astronomical_Event.internal|Astronomical_Event.internal]]"
+  - "[[/_protect/Astronomy/Astronomical_Event.protect|Astronomical_Event.protect]]"
+  - "[[/_private/Astronomy/Astronomical_Event.private|Astronomical_Event.private]]"
+  - "[[/_personal/Astronomy/Astronomical_Event.personal|Astronomical_Event.personal]]"
+  - "[[/_secret/Astronomy/Astronomical_Event.secret|Astronomical_Event.secret]]"
+---
 
 
 ## #has_/text_of_/abstract 

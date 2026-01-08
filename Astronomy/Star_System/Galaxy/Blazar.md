@@ -2,10 +2,29 @@
 aliases:
   - Blazar
 has_id_wikidata: Q221221
-subclass_of: '[[_Standards/WikiData/WD~quasar,83373]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+subclass_of: "[[_Standards/WikiData/WD~quasar,83373]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blazar-illustration.jpg
 Commons_category: Blazars
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Blazar,221221|WD~Blazar,221221]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Blazar|Blazar]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Blazar.public|Blazar.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Blazar.internal|Blazar.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Blazar.protect|Blazar.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Blazar.private|Blazar.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Blazar.personal|Blazar.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Blazar.secret|Blazar.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Blazar,221221|WD~Blazar,221221]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Blazar|Blazar]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Blazar.public|Blazar.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Blazar.internal|Blazar.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Blazar.protect|Blazar.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Blazar.private|Blazar.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Blazar.personal|Blazar.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Blazar.secret|Blazar.secret]]"
 ---
 
 # [[Blazar]] 

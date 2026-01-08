@@ -10,26 +10,26 @@ tags:
   - astro/Zodiac
 type: Zodiac
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
-  - '[[_Standards/WikiData/WD~Amerigo_Vespucci,47674]]'
+  - "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
+  - "[[_Standards/WikiData/WD~Amerigo_Vespucci,47674]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q10729044,10729044]]'
-  - '[[_Standards/WikiData/WD~Template_Triangulum_Australe,10857905]]'
+  - "[[_Standards/WikiData/WD~Q10729044,10729044]]"
+  - "[[_Standards/WikiData/WD~Template_Triangulum_Australe,10857905]]"
 time_of_discovery_or_invention: 1600-01-01T00:00:00Z
 named_after:
-  - '[[_Standards/WikiData/WD~south,667]]'
-  - '[[_Standards/WikiData/WD~triangle,19821]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~south,667]]"
+  - "[[_Standards/WikiData/WD~triangle,19821]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Ara,9253]]'
-  - '[[_Standards/WikiData/WD~Apus,10506]]'
-  - '[[_Standards/WikiData/WD~Circinus,10508]]'
-  - '[[_Standards/WikiData/WD~Norma,10582]]'
+  - "[[_Standards/WikiData/WD~Ara,9253]]"
+  - "[[_Standards/WikiData/WD~Apus,10506]]"
+  - "[[_Standards/WikiData/WD~Circinus,10508]]"
+  - "[[_Standards/WikiData/WD~Norma,10582]]"
 area: 110
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Triangulum%20Australe.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Triangulum%20Australe%20constellation%20map.svg
@@ -38,15 +38,44 @@ Commons_gallery: Triangulum Australe
 Commons_category: Triangulum Australe
 short_name: TrA
 official_name: Triangulum Australe
+dv_SpocWebEntityId: 28163
+dv_#has_:
+  name_:
+    la: Triangulum Australis
+    la_:
+      genitive: Trianguli Australis
+    de: Suedliches Dreieck
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis|Zodiac~Triangulum_Australis]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.public|Zodiac~Triangulum_Australis.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.internal|Zodiac~Triangulum_Australis.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.protect|Zodiac~Triangulum_Australis.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.private|Zodiac~Triangulum_Australis.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.personal|Zodiac~Triangulum_Australis.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.secret|Zodiac~Triangulum_Australis.secret]]"
+dv_has_name_la: Triangulum Australis
+dv_has_name_la_genitive: Trianguli Australis
+dv_has_name_de: Suedliches Dreieck
+dv_is_same_as:
+  - "[[../../WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis|Zodiac~Triangulum_Australis]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.public|Zodiac~Triangulum_Australis.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.internal|Zodiac~Triangulum_Australis.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.protect|Zodiac~Triangulum_Australis.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.private|Zodiac~Triangulum_Australis.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.personal|Zodiac~Triangulum_Australis.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.secret|Zodiac~Triangulum_Australis.secret]]"
 ---
 
 # [[Zodiac~Triangulum_Australis]] 
 
-[SpocWebEntityId::28163]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Triangulum Australis]
-[#has_/name_/la_/genitive::Trianguli Australis]
-[#has_/name_/de::Suedliches Dreieck]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]] 
 

@@ -6,14 +6,14 @@ aliases:
   - Hubble–Lemaître_Law
   - Hubble–Lemaître Law
 has_id_wikidata: Q179916
-instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: "[[_Standards/WikiData/WD~physical_law,214070]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 named_after:
-  - '[[_Standards/WikiData/WD~Georges_Lemaître,12998]]'
-  - '[[_Standards/WikiData/WD~Edwin_Hubble,43027]]'
+  - "[[_Standards/WikiData/WD~Georges_Lemaître,12998]]"
+  - "[[_Standards/WikiData/WD~Edwin_Hubble,43027]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Georges_Lemaître,12998]]'
-  - '[[_Standards/WikiData/WD~Edwin_Hubble,43027]]'
+  - "[[_Standards/WikiData/WD~Georges_Lemaître,12998]]"
+  - "[[_Standards/WikiData/WD~Edwin_Hubble,43027]]"
 in_defining_formula:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>D</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>v</mi></mstyle></mrow></math>
@@ -24,6 +24,25 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 Commons_category: Hubble's law
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/HABBLA_ZAKON.html
 time_of_discovery_or_invention: 1927-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Hubble–Lemaître_law,179916|WD~Hubble–Lemaître_law,179916]]"
+    - "[[/_Standards/Astronomy/Astrometry/Hubble–Lemaître_Law|Hubble–Lemaître_Law]]"
+    - "[[/_public/Astronomy/Astrometry/Hubble–Lemaître_Law.public|Hubble–Lemaître_Law.public]]"
+    - "[[/_internal/Astronomy/Astrometry/Hubble–Lemaître_Law.internal|Hubble–Lemaître_Law.internal]]"
+    - "[[/_protect/Astronomy/Astrometry/Hubble–Lemaître_Law.protect|Hubble–Lemaître_Law.protect]]"
+    - "[[/_private/Astronomy/Astrometry/Hubble–Lemaître_Law.private|Hubble–Lemaître_Law.private]]"
+    - "[[/_personal/Astronomy/Astrometry/Hubble–Lemaître_Law.personal|Hubble–Lemaître_Law.personal]]"
+    - "[[/_secret/Astronomy/Astrometry/Hubble–Lemaître_Law.secret|Hubble–Lemaître_Law.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Hubble–Lemaître_law,179916|WD~Hubble–Lemaître_law,179916]]"
+  - "[[/_Standards/Astronomy/Astrometry/Hubble–Lemaître_Law|Hubble–Lemaître_Law]]"
+  - "[[/_public/Astronomy/Astrometry/Hubble–Lemaître_Law.public|Hubble–Lemaître_Law.public]]"
+  - "[[/_internal/Astronomy/Astrometry/Hubble–Lemaître_Law.internal|Hubble–Lemaître_Law.internal]]"
+  - "[[/_protect/Astronomy/Astrometry/Hubble–Lemaître_Law.protect|Hubble–Lemaître_Law.protect]]"
+  - "[[/_private/Astronomy/Astrometry/Hubble–Lemaître_Law.private|Hubble–Lemaître_Law.private]]"
+  - "[[/_personal/Astronomy/Astrometry/Hubble–Lemaître_Law.personal|Hubble–Lemaître_Law.personal]]"
+  - "[[/_secret/Astronomy/Astrometry/Hubble–Lemaître_Law.secret|Hubble–Lemaître_Law.secret]]"
 ---
 
 # [[Hubble–Lemaître_Law]] 

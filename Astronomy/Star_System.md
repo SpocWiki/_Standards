@@ -16,6 +16,25 @@ child_astronomical_body: "[[_Standards/WikiData/WD~planet,634]]"
 Commons_category: Multiple star systems
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sirius%20A%20and%20B%20Hubble%20photo.jpg
 Dewey_Decimal_Classification: "523.841"
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Star_system,595871|WD~Star_system,595871]]"
+    - "[[/_Standards/Astronomy/Star_System|Star_System]]"
+    - "[[/_public/Astronomy/Star_System.public|Star_System.public]]"
+    - "[[/_internal/Astronomy/Star_System.internal|Star_System.internal]]"
+    - "[[/_protect/Astronomy/Star_System.protect|Star_System.protect]]"
+    - "[[/_private/Astronomy/Star_System.private|Star_System.private]]"
+    - "[[/_personal/Astronomy/Star_System.personal|Star_System.personal]]"
+    - "[[/_secret/Astronomy/Star_System.secret|Star_System.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Star_system,595871|WD~Star_system,595871]]"
+  - "[[/_Standards/Astronomy/Star_System|Star_System]]"
+  - "[[/_public/Astronomy/Star_System.public|Star_System.public]]"
+  - "[[/_internal/Astronomy/Star_System.internal|Star_System.internal]]"
+  - "[[/_protect/Astronomy/Star_System.protect|Star_System.protect]]"
+  - "[[/_private/Astronomy/Star_System.private|Star_System.private]]"
+  - "[[/_personal/Astronomy/Star_System.personal|Star_System.personal]]"
+  - "[[/_secret/Astronomy/Star_System.secret|Star_System.secret]]"
 ---
 
 # [[Star_System]] 

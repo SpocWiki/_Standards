@@ -5,10 +5,29 @@ aliases:
   - Elliptical_Galaxy
   - Elliptical Galaxy
 has_id_wikidata: Q184348
-follows: '[[_Standards/WikiData/WD~lenticular_galaxy,192078]]'
-subclass_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+follows: "[[_Standards/WikiData/WD~lenticular_galaxy,192078]]"
+subclass_of: "[[_Standards/WikiData/WD~galaxy,318]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Abell%20S740%2C%20cropped%20to%20ESO%20325-G004.jpg
 Commons_category: Elliptical galaxies
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Elliptical_galaxy,184348|WD~Elliptical_galaxy,184348]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Elliptical_Galaxy|Elliptical_Galaxy]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.public|Elliptical_Galaxy.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.internal|Elliptical_Galaxy.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.protect|Elliptical_Galaxy.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.private|Elliptical_Galaxy.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.personal|Elliptical_Galaxy.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.secret|Elliptical_Galaxy.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Elliptical_galaxy,184348|WD~Elliptical_galaxy,184348]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Elliptical_Galaxy|Elliptical_Galaxy]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.public|Elliptical_Galaxy.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.internal|Elliptical_Galaxy.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.protect|Elliptical_Galaxy.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.private|Elliptical_Galaxy.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.personal|Elliptical_Galaxy.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Elliptical_Galaxy.secret|Elliptical_Galaxy.secret]]"
 ---
 
 # [[Elliptical_Galaxy]] 

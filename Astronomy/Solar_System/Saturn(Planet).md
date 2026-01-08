@@ -210,6 +210,31 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Looking%20saturn%20in%
 volume_as_quantity: 827130000000000
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Saturn,30589070]]"
 Wolfram_Language_entity_code: Entity["Planet", "Saturn"]
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Saturn,193]]"
+    - "[[/_Standards/Astronomy/Solar_System/Saturn(Planet)|Saturn(Planet)]]"
+    - "[[/_public/Astronomy/Solar_System/Saturn(Planet).public|Saturn(Planet).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Saturn(Planet).internal|Saturn(Planet).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Saturn(Planet).protect|Saturn(Planet).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Saturn(Planet).private|Saturn(Planet).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Saturn(Planet).personal|Saturn(Planet).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Saturn(Planet).secret|Saturn(Planet).secret]]"
+  different_from:
+    - "[[_Standards/WikiData/WD~Saturn,134388]]"
+    - "[[_Standards/WikiData/WD~Saturn,3950829]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Saturn,193]]"
+  - "[[/_Standards/Astronomy/Solar_System/Saturn(Planet)|Saturn(Planet)]]"
+  - "[[/_public/Astronomy/Solar_System/Saturn(Planet).public|Saturn(Planet).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Saturn(Planet).internal|Saturn(Planet).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Saturn(Planet).protect|Saturn(Planet).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Saturn(Planet).private|Saturn(Planet).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Saturn(Planet).personal|Saturn(Planet).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Saturn(Planet).secret|Saturn(Planet).secret]]"
+dv_is_different_from:
+  - "[[_Standards/WikiData/WD~Saturn,134388]]"
+  - "[[_Standards/WikiData/WD~Saturn,3950829]]"
 ---
 
 # [[Saturn(Planet)]] 🪐 

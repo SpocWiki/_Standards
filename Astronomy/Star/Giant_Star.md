@@ -4,9 +4,28 @@ aliases:
   - Giant_Star
   - Giant Star
 has_id_wikidata: Q5875
-subclass_of: '[[_Standards/WikiData/WD~star,523]]'
+subclass_of: "[[_Standards/WikiData/WD~star,523]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20Stars%20%28artist%E2%80%99s%20impression%29.jpg
 Commons_category: Giant stars
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Giant_star,5875|WD~Giant_star,5875]]"
+    - "[[/_Standards/Astronomy/Star/Giant_Star|Giant_Star]]"
+    - "[[/_public/Astronomy/Star/Giant_Star.public|Giant_Star.public]]"
+    - "[[/_internal/Astronomy/Star/Giant_Star.internal|Giant_Star.internal]]"
+    - "[[/_protect/Astronomy/Star/Giant_Star.protect|Giant_Star.protect]]"
+    - "[[/_private/Astronomy/Star/Giant_Star.private|Giant_Star.private]]"
+    - "[[/_personal/Astronomy/Star/Giant_Star.personal|Giant_Star.personal]]"
+    - "[[/_secret/Astronomy/Star/Giant_Star.secret|Giant_Star.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Giant_star,5875|WD~Giant_star,5875]]"
+  - "[[/_Standards/Astronomy/Star/Giant_Star|Giant_Star]]"
+  - "[[/_public/Astronomy/Star/Giant_Star.public|Giant_Star.public]]"
+  - "[[/_internal/Astronomy/Star/Giant_Star.internal|Giant_Star.internal]]"
+  - "[[/_protect/Astronomy/Star/Giant_Star.protect|Giant_Star.protect]]"
+  - "[[/_private/Astronomy/Star/Giant_Star.private|Giant_Star.private]]"
+  - "[[/_personal/Astronomy/Star/Giant_Star.personal|Giant_Star.personal]]"
+  - "[[/_secret/Astronomy/Star/Giant_Star.secret|Giant_Star.secret]]"
 ---
 
 # [[Giant_Star]] 

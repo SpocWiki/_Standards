@@ -12,14 +12,44 @@ tags:
   - astro/StarClass
 type: StarClass
 _Mass-sol: 1.1
+dv_has_:
+  name: G
+  value_for_:
+    temperature_:
+      K: 5900
+    radius_:
+      sol: 1.2
+    weight_:
+      sol: 1.1
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star/Star~Class/Star-Class~G|Star-Class~G]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Star-Class~G.public|Star-Class~G.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Star-Class~G.internal|Star-Class~G.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Star-Class~G.protect|Star-Class~G.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Star-Class~G.private|Star-Class~G.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Star-Class~G.personal|Star-Class~G.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Star-Class~G.secret|Star-Class~G.secret]]"
+dv_has_name: G
+dv_has_value_for_temperature_k: 5900
+dv_has_value_for_radius_sol: 1.2
+dv_has_value_for_weight_sol: 1.1
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star/Star~Class/Star-Class~G|Star-Class~G]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Star-Class~G.public|Star-Class~G.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Star-Class~G.internal|Star-Class~G.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Star-Class~G.protect|Star-Class~G.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Star-Class~G.private|Star-Class~G.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Star-Class~G.personal|Star-Class~G.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Star-Class~G.secret|Star-Class~G.secret]]"
 ---
 
 # [[Star-Class~G]] 
 
-[has_/name::G] 
-[has_/value_for_/temperature_/K::5900] 
-[has_/value_for_/radius_/sol::1.2] 
-[has_/value_for_/weight_/sol::1.1] 
+has_name = `=this.dv_has_name`  
+has_value_for_temperature_k = `=this.dv_has_value_for_temperature_k`  
+has_value_for_radius_sol = `=this.dv_has_value_for_radius_sol`  
+has_value_for_weight_sol = `=this.dv_has_value_for_weight_sol`  
 
 
 ## Confidential Links & Embeds: 

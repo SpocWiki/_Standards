@@ -32,15 +32,44 @@ Commons_gallery: Octans
 Commons_category: Octans (constellation)
 short_name: Oct
 official_name: Octans
+dv_SpocWebEntityId: 28140
+dv_#has_:
+  name_:
+    la: Octans
+    la_:
+      genitive: Octantis
+    de: Oktant
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Octans,10503]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Octans|Zodiac~Octans]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Octans.public|Zodiac~Octans.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Octans.internal|Zodiac~Octans.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Octans.protect|Zodiac~Octans.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Octans.private|Zodiac~Octans.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Octans.personal|Zodiac~Octans.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Octans.secret|Zodiac~Octans.secret]]"
+dv_has_name_la: Octans
+dv_has_name_la_genitive: Octantis
+dv_has_name_de: Oktant
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Octans,10503]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Octans|Zodiac~Octans]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Octans.public|Zodiac~Octans.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Octans.internal|Zodiac~Octans.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Octans.protect|Zodiac~Octans.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Octans.private|Zodiac~Octans.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Octans.personal|Zodiac~Octans.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Octans.secret|Zodiac~Octans.secret]]"
 ---
 
 # [[Zodiac~Octans]] 
 
-[SpocWebEntityId::28140]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Octans] 
-[#has_/name_/la_/genitive::Octantis]
-[#has_/name_/de::Oktant]
+has_name_la = `=this.dv_has_name_la`  
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Octans,10503]] 
 

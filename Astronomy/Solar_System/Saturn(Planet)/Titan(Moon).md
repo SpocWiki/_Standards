@@ -41,6 +41,25 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Titan"]
 Commons_gallery: Titan (moon)
 Commons_category: Titan (moon)
 time_of_discovery_or_invention: 1655-03-25T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Titan,2565|WD~Titan,2565]]"
+    - "[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon)|Titan(Moon)]]"
+    - "[[/_public/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).public|Titan(Moon).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).internal|Titan(Moon).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).protect|Titan(Moon).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).private|Titan(Moon).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).personal|Titan(Moon).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).secret|Titan(Moon).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Titan,2565|WD~Titan,2565]]"
+  - "[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon)|Titan(Moon)]]"
+  - "[[/_public/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).public|Titan(Moon).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).internal|Titan(Moon).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).protect|Titan(Moon).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).private|Titan(Moon).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).personal|Titan(Moon).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Titan(Moon).secret|Titan(Moon).secret]]"
 ---
 
 # [[Titan(Moon)]] 

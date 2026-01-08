@@ -15,6 +15,25 @@ quantity_symbol_LaTeX_:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi></mstyle></mrow></math>
 in_defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Animation%20of%20Orbital%20eccentricity.gif
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Orbital_eccentricity,208474]]"
+    - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity|Orbital_Eccentricity]]"
+    - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.public|Orbital_Eccentricity.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.internal|Orbital_Eccentricity.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.protect|Orbital_Eccentricity.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.private|Orbital_Eccentricity.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.personal|Orbital_Eccentricity.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.secret|Orbital_Eccentricity.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Orbital_eccentricity,208474]]"
+  - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity|Orbital_Eccentricity]]"
+  - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.public|Orbital_Eccentricity.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.internal|Orbital_Eccentricity.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.protect|Orbital_Eccentricity.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.private|Orbital_Eccentricity.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.personal|Orbital_Eccentricity.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.secret|Orbital_Eccentricity.secret]]"
 ---
 
 # [[Orbital_Eccentricity]] 

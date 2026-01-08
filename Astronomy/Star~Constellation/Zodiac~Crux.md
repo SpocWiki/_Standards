@@ -1,3 +1,34 @@
+---
+dv_SpocWebEntityId: 28112
+dv_#has_:
+  name_:
+    la: Crux
+    la_:
+      genitive: Crucis
+    de: Kreuz des Suedens
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Crux,10542|WD~Crux,10542]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]]"
+dv_has_name_la: Crux
+dv_has_name_la_genitive: Crucis
+dv_has_name_de: Kreuz des Suedens
+dv_is_same_as:
+  - "[[../../WikiData/WD~Crux,10542|WD~Crux,10542]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]]"
+---
 ﻿---
 has_time_started: 1590-01-01 
 aliases:
@@ -47,11 +78,11 @@ short_name: Cru
 
 # [[Zodiac~Crux]] 
 
-[SpocWebEntityId::28112]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Crux]
-[#has_/name_/la_/genitive::Crucis]
-[#has_/name_/de::Kreuz des Suedens]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Crux,10542|WD~Crux,10542]] 
 

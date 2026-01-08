@@ -3,14 +3,41 @@ aliases:
   - Crab Supernova
   - SN 1054
   - Crab_Supernova
+dv_has_:
+  time_:
+    started: 1054-07-10T00:00:00.000+00:53
+    stopped: 1056-04-12T00:00:00.000+00:53
+  duration: P1Y9M2D
+  created: "[[Crab_Nebula]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova|Crab_Supernova]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.public|Crab_Supernova.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.internal|Crab_Supernova.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.protect|Crab_Supernova.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.private|Crab_Supernova.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.personal|Crab_Supernova.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.secret|Crab_Supernova.secret]]"
+dv_has_time_started: 1054-07-10
+dv_has_time_stopped: 1056-04-12
+dv_has_duration: P1Y9M2D
+dv_has_created: "[[Crab_Nebula]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova|Crab_Supernova]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.public|Crab_Supernova.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.internal|Crab_Supernova.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.protect|Crab_Supernova.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.private|Crab_Supernova.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.personal|Crab_Supernova.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.secret|Crab_Supernova.secret]]"
 ---
 
 # [[Crab_Supernova]] 
 
-#has_/time_/started :: 1054-07-10 
-#has_/time_/stopped :: 1056-04-12 
-#has_/duration :: `=this.has_time_stopped - this.has_time_started` 
-#has_/created :: [[Crab_Nebula]] 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/duration :: `=this.dv_has_time_stopped - this.dv_has_time_started` 
+has_created = `=this.dv_has_created` 
 
 ## #has_/text_of_/abstract 
 

@@ -12,6 +12,25 @@ has_part_s_of_the_class:
   - "[[_Standards/WikiData/WD~hydrogen,556]]"
   - "[[_Standards/WikiData/WD~carbon_monoxide,2025]]"
 Commons_category: Molecular clouds
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Molecular_cloud,272447]]"
+    - "[[/_Standards/Astronomy/Interstellar_Medium/Molecular_Cloud|Molecular_Cloud]]"
+    - "[[/_public/Astronomy/Interstellar_Medium/Molecular_Cloud.public|Molecular_Cloud.public]]"
+    - "[[/_internal/Astronomy/Interstellar_Medium/Molecular_Cloud.internal|Molecular_Cloud.internal]]"
+    - "[[/_protect/Astronomy/Interstellar_Medium/Molecular_Cloud.protect|Molecular_Cloud.protect]]"
+    - "[[/_private/Astronomy/Interstellar_Medium/Molecular_Cloud.private|Molecular_Cloud.private]]"
+    - "[[/_personal/Astronomy/Interstellar_Medium/Molecular_Cloud.personal|Molecular_Cloud.personal]]"
+    - "[[/_secret/Astronomy/Interstellar_Medium/Molecular_Cloud.secret|Molecular_Cloud.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Molecular_cloud,272447]]"
+  - "[[/_Standards/Astronomy/Interstellar_Medium/Molecular_Cloud|Molecular_Cloud]]"
+  - "[[/_public/Astronomy/Interstellar_Medium/Molecular_Cloud.public|Molecular_Cloud.public]]"
+  - "[[/_internal/Astronomy/Interstellar_Medium/Molecular_Cloud.internal|Molecular_Cloud.internal]]"
+  - "[[/_protect/Astronomy/Interstellar_Medium/Molecular_Cloud.protect|Molecular_Cloud.protect]]"
+  - "[[/_private/Astronomy/Interstellar_Medium/Molecular_Cloud.private|Molecular_Cloud.private]]"
+  - "[[/_personal/Astronomy/Interstellar_Medium/Molecular_Cloud.personal|Molecular_Cloud.personal]]"
+  - "[[/_secret/Astronomy/Interstellar_Medium/Molecular_Cloud.secret|Molecular_Cloud.secret]]"
 ---
 
 # [[Molecular_Cloud]] 

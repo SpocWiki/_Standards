@@ -37,6 +37,25 @@ catalog_code:
 Commons_category: Hyades
 declination: 15.866667
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hyades.jpg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Hyades,13511]]"
+    - "[[/_Standards/Astronomy/Star_System/Star_Cluster/Hyades|Hyades]]"
+    - "[[/_public/Astronomy/Star_System/Star_Cluster/Hyades.public|Hyades.public]]"
+    - "[[/_internal/Astronomy/Star_System/Star_Cluster/Hyades.internal|Hyades.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Star_Cluster/Hyades.protect|Hyades.protect]]"
+    - "[[/_private/Astronomy/Star_System/Star_Cluster/Hyades.private|Hyades.private]]"
+    - "[[/_personal/Astronomy/Star_System/Star_Cluster/Hyades.personal|Hyades.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Star_Cluster/Hyades.secret|Hyades.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Hyades,13511]]"
+  - "[[/_Standards/Astronomy/Star_System/Star_Cluster/Hyades|Hyades]]"
+  - "[[/_public/Astronomy/Star_System/Star_Cluster/Hyades.public|Hyades.public]]"
+  - "[[/_internal/Astronomy/Star_System/Star_Cluster/Hyades.internal|Hyades.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Star_Cluster/Hyades.protect|Hyades.protect]]"
+  - "[[/_private/Astronomy/Star_System/Star_Cluster/Hyades.private|Hyades.private]]"
+  - "[[/_personal/Astronomy/Star_System/Star_Cluster/Hyades.personal|Hyades.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Star_Cluster/Hyades.secret|Hyades.secret]]"
 ---
 
 # [[Hyades]] 

@@ -10,6 +10,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Spiralgalaxie%20M74.jp
 Dewey_Decimal_Classification: "523.112"
 Library_of_Congress_Classification: QB858.42
 Commons_category: Spiral galaxies
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Spiral_galaxy,2488|WD~Spiral_galaxy,2488]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy|Spiral_Galaxy]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Spiral_Galaxy.public|Spiral_Galaxy.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.internal|Spiral_Galaxy.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Spiral_Galaxy.protect|Spiral_Galaxy.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Spiral_Galaxy.private|Spiral_Galaxy.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.personal|Spiral_Galaxy.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Spiral_Galaxy.secret|Spiral_Galaxy.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Spiral_galaxy,2488|WD~Spiral_galaxy,2488]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy|Spiral_Galaxy]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Spiral_Galaxy.public|Spiral_Galaxy.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.internal|Spiral_Galaxy.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Spiral_Galaxy.protect|Spiral_Galaxy.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Spiral_Galaxy.private|Spiral_Galaxy.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.personal|Spiral_Galaxy.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Spiral_Galaxy.secret|Spiral_Galaxy.secret]]"
 ---
 
 # [[Spiral_Galaxy]] 

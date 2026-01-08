@@ -14,6 +14,25 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001124
 Commons_category: Gas giants
 Commons_gallery: Jovian planet
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Gas_giant,121750|WD~Gas_giant,121750]]"
+    - "[[/_Standards/Astronomy/Planet/Gas_Giant|Gas_Giant]]"
+    - "[[/_public/Astronomy/Planet/Gas_Giant.public|Gas_Giant.public]]"
+    - "[[/_internal/Astronomy/Planet/Gas_Giant.internal|Gas_Giant.internal]]"
+    - "[[/_protect/Astronomy/Planet/Gas_Giant.protect|Gas_Giant.protect]]"
+    - "[[/_private/Astronomy/Planet/Gas_Giant.private|Gas_Giant.private]]"
+    - "[[/_personal/Astronomy/Planet/Gas_Giant.personal|Gas_Giant.personal]]"
+    - "[[/_secret/Astronomy/Planet/Gas_Giant.secret|Gas_Giant.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Gas_giant,121750|WD~Gas_giant,121750]]"
+  - "[[/_Standards/Astronomy/Planet/Gas_Giant|Gas_Giant]]"
+  - "[[/_public/Astronomy/Planet/Gas_Giant.public|Gas_Giant.public]]"
+  - "[[/_internal/Astronomy/Planet/Gas_Giant.internal|Gas_Giant.internal]]"
+  - "[[/_protect/Astronomy/Planet/Gas_Giant.protect|Gas_Giant.protect]]"
+  - "[[/_private/Astronomy/Planet/Gas_Giant.private|Gas_Giant.private]]"
+  - "[[/_personal/Astronomy/Planet/Gas_Giant.personal|Gas_Giant.personal]]"
+  - "[[/_secret/Astronomy/Planet/Gas_Giant.secret|Gas_Giant.secret]]"
 ---
 
 # [[Gas_Giant]] 

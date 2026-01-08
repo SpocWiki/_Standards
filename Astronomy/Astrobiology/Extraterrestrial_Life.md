@@ -16,6 +16,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/ALH84001%20structures.
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Bestaan%20er%20buitenaardse%20wezens.webm
 Iconclass_notation: 46C491
 Commons_category: Extraterrestrial life
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Extraterrestrial_life,181508|WD~Extraterrestrial_life,181508]]"
+    - "[[/_Standards/Astronomy/Astrobiology/Extraterrestrial_Life|Extraterrestrial_Life]]"
+    - "[[/_public/Astronomy/Astrobiology/Extraterrestrial_Life.public|Extraterrestrial_Life.public]]"
+    - "[[/_internal/Astronomy/Astrobiology/Extraterrestrial_Life.internal|Extraterrestrial_Life.internal]]"
+    - "[[/_protect/Astronomy/Astrobiology/Extraterrestrial_Life.protect|Extraterrestrial_Life.protect]]"
+    - "[[/_private/Astronomy/Astrobiology/Extraterrestrial_Life.private|Extraterrestrial_Life.private]]"
+    - "[[/_personal/Astronomy/Astrobiology/Extraterrestrial_Life.personal|Extraterrestrial_Life.personal]]"
+    - "[[/_secret/Astronomy/Astrobiology/Extraterrestrial_Life.secret|Extraterrestrial_Life.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Extraterrestrial_life,181508|WD~Extraterrestrial_life,181508]]"
+  - "[[/_Standards/Astronomy/Astrobiology/Extraterrestrial_Life|Extraterrestrial_Life]]"
+  - "[[/_public/Astronomy/Astrobiology/Extraterrestrial_Life.public|Extraterrestrial_Life.public]]"
+  - "[[/_internal/Astronomy/Astrobiology/Extraterrestrial_Life.internal|Extraterrestrial_Life.internal]]"
+  - "[[/_protect/Astronomy/Astrobiology/Extraterrestrial_Life.protect|Extraterrestrial_Life.protect]]"
+  - "[[/_private/Astronomy/Astrobiology/Extraterrestrial_Life.private|Extraterrestrial_Life.private]]"
+  - "[[/_personal/Astronomy/Astrobiology/Extraterrestrial_Life.personal|Extraterrestrial_Life.personal]]"
+  - "[[/_secret/Astronomy/Astrobiology/Extraterrestrial_Life.secret|Extraterrestrial_Life.secret]]"
 ---
 
 # [[Extraterrestrial_Life]] 

@@ -18,6 +18,25 @@ quantity_symbol_LaTeX_:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pluto%20Orbit.gif
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>T</mi><mo stretchy="false">=</mo><mn>2</mn><mi>&#x03C0;</mi><mrow data-mjx-texclass="ORD"><msqrt><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><msup><mi>a</mi><mrow data-mjx-texclass="ORD"><mn>3</mn></mrow></msup></mrow><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi></mrow></mfrac></mrow></msqrt></mrow></mstyle></mrow></math>
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow></mstyle></mrow></math>
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Orbital_period,37640]]"
+    - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period|Orbital_Period]]"
+    - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.public|Orbital_Period.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.internal|Orbital_Period.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.protect|Orbital_Period.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.private|Orbital_Period.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.personal|Orbital_Period.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.secret|Orbital_Period.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Orbital_period,37640]]"
+  - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period|Orbital_Period]]"
+  - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.public|Orbital_Period.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.internal|Orbital_Period.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.protect|Orbital_Period.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.private|Orbital_Period.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.personal|Orbital_Period.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.secret|Orbital_Period.secret]]"
 ---
 
 # [[Orbital_Period]] 

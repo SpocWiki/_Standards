@@ -28,6 +28,25 @@ Colon_Classification: B9:57
 Commons_category: Eclipses
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/ZATMENIYA.html
 Dewey_Decimal_Classification: "523.99"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Eclipse,141022|WD~Eclipse,141022]]"
+    - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse|Eclipse]]"
+    - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.public|Eclipse.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.internal|Eclipse.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.protect|Eclipse.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.private|Eclipse.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.personal|Eclipse.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.secret|Eclipse.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Eclipse,141022|WD~Eclipse,141022]]"
+  - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse|Eclipse]]"
+  - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.public|Eclipse.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.internal|Eclipse.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.protect|Eclipse.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.private|Eclipse.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.personal|Eclipse.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.secret|Eclipse.secret]]"
 ---
 
 # [[Eclipse]] 

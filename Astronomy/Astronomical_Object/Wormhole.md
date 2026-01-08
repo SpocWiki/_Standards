@@ -12,6 +12,25 @@ subclass_of:
 Commons_category: Wormholes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lorentzian%20Wormhole.svg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Wurmloch%2020221229%20001.stl
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Wormhole,7544|WD~Wormhole,7544]]"
+    - "[[/_Standards/Astronomy/Astronomical_Object/Wormhole|Wormhole]]"
+    - "[[/_public/Astronomy/Astronomical_Object/Wormhole.public|Wormhole.public]]"
+    - "[[/_internal/Astronomy/Astronomical_Object/Wormhole.internal|Wormhole.internal]]"
+    - "[[/_protect/Astronomy/Astronomical_Object/Wormhole.protect|Wormhole.protect]]"
+    - "[[/_private/Astronomy/Astronomical_Object/Wormhole.private|Wormhole.private]]"
+    - "[[/_personal/Astronomy/Astronomical_Object/Wormhole.personal|Wormhole.personal]]"
+    - "[[/_secret/Astronomy/Astronomical_Object/Wormhole.secret|Wormhole.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Wormhole,7544|WD~Wormhole,7544]]"
+  - "[[/_Standards/Astronomy/Astronomical_Object/Wormhole|Wormhole]]"
+  - "[[/_public/Astronomy/Astronomical_Object/Wormhole.public|Wormhole.public]]"
+  - "[[/_internal/Astronomy/Astronomical_Object/Wormhole.internal|Wormhole.internal]]"
+  - "[[/_protect/Astronomy/Astronomical_Object/Wormhole.protect|Wormhole.protect]]"
+  - "[[/_private/Astronomy/Astronomical_Object/Wormhole.private|Wormhole.private]]"
+  - "[[/_personal/Astronomy/Astronomical_Object/Wormhole.personal|Wormhole.personal]]"
+  - "[[/_secret/Astronomy/Astronomical_Object/Wormhole.secret|Wormhole.secret]]"
 ---
 
 # [[Wormhole]] 

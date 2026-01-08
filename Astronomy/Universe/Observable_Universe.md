@@ -28,6 +28,25 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Constrained%20Local%20
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Observable%20universe%20logarithmic%20illustration.png
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Observable%20Universe%20with%20Measurements%2001.png
 Commons_category: Observable universe
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Observable_universe,221392]]"
+    - "[[/_Standards/Astronomy/Universe/Observable_Universe|Observable_Universe]]"
+    - "[[/_public/Astronomy/Universe/Observable_Universe.public|Observable_Universe.public]]"
+    - "[[/_internal/Astronomy/Universe/Observable_Universe.internal|Observable_Universe.internal]]"
+    - "[[/_protect/Astronomy/Universe/Observable_Universe.protect|Observable_Universe.protect]]"
+    - "[[/_private/Astronomy/Universe/Observable_Universe.private|Observable_Universe.private]]"
+    - "[[/_personal/Astronomy/Universe/Observable_Universe.personal|Observable_Universe.personal]]"
+    - "[[/_secret/Astronomy/Universe/Observable_Universe.secret|Observable_Universe.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Observable_universe,221392]]"
+  - "[[/_Standards/Astronomy/Universe/Observable_Universe|Observable_Universe]]"
+  - "[[/_public/Astronomy/Universe/Observable_Universe.public|Observable_Universe.public]]"
+  - "[[/_internal/Astronomy/Universe/Observable_Universe.internal|Observable_Universe.internal]]"
+  - "[[/_protect/Astronomy/Universe/Observable_Universe.protect|Observable_Universe.protect]]"
+  - "[[/_private/Astronomy/Universe/Observable_Universe.private|Observable_Universe.private]]"
+  - "[[/_personal/Astronomy/Universe/Observable_Universe.personal|Observable_Universe.personal]]"
+  - "[[/_secret/Astronomy/Universe/Observable_Universe.secret|Observable_Universe.secret]]"
 ---
 
 # [[Observable_Universe]] 

@@ -7,6 +7,25 @@ subclass_of: "[[_Standards/WikiData/WD~stellar_evolution,6472]]"
 instance_of: "[[_Standards/WikiData/WD~stellar_evolution,6472]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HRDiagram.png
 Commons_category: Main-sequence stars
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Main_sequence,3450]]"
+    - "[[/_Standards/Astronomy/Star/Main_Sequence|Main_Sequence]]"
+    - "[[/_public/Astronomy/Star/Main_Sequence.public|Main_Sequence.public]]"
+    - "[[/_internal/Astronomy/Star/Main_Sequence.internal|Main_Sequence.internal]]"
+    - "[[/_protect/Astronomy/Star/Main_Sequence.protect|Main_Sequence.protect]]"
+    - "[[/_private/Astronomy/Star/Main_Sequence.private|Main_Sequence.private]]"
+    - "[[/_personal/Astronomy/Star/Main_Sequence.personal|Main_Sequence.personal]]"
+    - "[[/_secret/Astronomy/Star/Main_Sequence.secret|Main_Sequence.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Main_sequence,3450]]"
+  - "[[/_Standards/Astronomy/Star/Main_Sequence|Main_Sequence]]"
+  - "[[/_public/Astronomy/Star/Main_Sequence.public|Main_Sequence.public]]"
+  - "[[/_internal/Astronomy/Star/Main_Sequence.internal|Main_Sequence.internal]]"
+  - "[[/_protect/Astronomy/Star/Main_Sequence.protect|Main_Sequence.protect]]"
+  - "[[/_private/Astronomy/Star/Main_Sequence.private|Main_Sequence.private]]"
+  - "[[/_personal/Astronomy/Star/Main_Sequence.personal|Main_Sequence.personal]]"
+  - "[[/_secret/Astronomy/Star/Main_Sequence.secret|Main_Sequence.secret]]"
 ---
 
 # [[Main_Sequence]] 

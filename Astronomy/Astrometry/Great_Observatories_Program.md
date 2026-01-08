@@ -6,6 +6,25 @@ operator: "[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administratio
 space_launch_vehicle: "[[_Standards/WikiData/WD~Space_Shuttle,48806]]"
 Commons_category: Great Observatories program
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Observatories.jpg
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Great_Observatories_program,901553]]"
+    - "[[/_Standards/Astronomy/Astrometry/Great_Observatories_Program|Great_Observatories_Program]]"
+    - "[[/_public/Astronomy/Astrometry/Great_Observatories_Program.public|Great_Observatories_Program.public]]"
+    - "[[/_internal/Astronomy/Astrometry/Great_Observatories_Program.internal|Great_Observatories_Program.internal]]"
+    - "[[/_protect/Astronomy/Astrometry/Great_Observatories_Program.protect|Great_Observatories_Program.protect]]"
+    - "[[/_private/Astronomy/Astrometry/Great_Observatories_Program.private|Great_Observatories_Program.private]]"
+    - "[[/_personal/Astronomy/Astrometry/Great_Observatories_Program.personal|Great_Observatories_Program.personal]]"
+    - "[[/_secret/Astronomy/Astrometry/Great_Observatories_Program.secret|Great_Observatories_Program.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Great_Observatories_program,901553]]"
+  - "[[/_Standards/Astronomy/Astrometry/Great_Observatories_Program|Great_Observatories_Program]]"
+  - "[[/_public/Astronomy/Astrometry/Great_Observatories_Program.public|Great_Observatories_Program.public]]"
+  - "[[/_internal/Astronomy/Astrometry/Great_Observatories_Program.internal|Great_Observatories_Program.internal]]"
+  - "[[/_protect/Astronomy/Astrometry/Great_Observatories_Program.protect|Great_Observatories_Program.protect]]"
+  - "[[/_private/Astronomy/Astrometry/Great_Observatories_Program.private|Great_Observatories_Program.private]]"
+  - "[[/_personal/Astronomy/Astrometry/Great_Observatories_Program.personal|Great_Observatories_Program.personal]]"
+  - "[[/_secret/Astronomy/Astrometry/Great_Observatories_Program.secret|Great_Observatories_Program.secret]]"
 ---
 
 # [[Great_Observatories_Program]] 

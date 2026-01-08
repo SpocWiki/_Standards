@@ -59,6 +59,25 @@ Wolfram_Language_entity_code: Entity["MinorPlanet", "Ceres"]
 orbital_eccentricity: 0.07957631994408416
 semi_major_axis_of_an_orbit: 2.765615651508659
 longitude_of_ascending_node: 80.24963090816965
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ceres,596|WD~Ceres,596]]"
+    - "[[/_Standards/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid)|Ceres(Asteroid)]]"
+    - "[[/_public/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).public|Ceres(Asteroid).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).internal|Ceres(Asteroid).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).protect|Ceres(Asteroid).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).private|Ceres(Asteroid).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).personal|Ceres(Asteroid).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).secret|Ceres(Asteroid).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ceres,596|WD~Ceres,596]]"
+  - "[[/_Standards/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid)|Ceres(Asteroid)]]"
+  - "[[/_public/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).public|Ceres(Asteroid).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).internal|Ceres(Asteroid).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).protect|Ceres(Asteroid).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).private|Ceres(Asteroid).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).personal|Ceres(Asteroid).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).secret|Ceres(Asteroid).secret]]"
 ---
 
 # [[Ceres(Asteroid)]] 

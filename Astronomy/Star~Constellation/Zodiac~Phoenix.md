@@ -10,24 +10,24 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-different_from: '[[_Standards/WikiData/WD~Phoenix,105751]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
-described_by_source: '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+different_from: "[[_Standards/WikiData/WD~Phoenix,105751]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
+described_by_source: "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Phoenix_(constellation),6504933]]'
-  - '[[_Standards/WikiData/WD~Q10729019,10729019]]'
+  - "[[_Standards/WikiData/WD~Template_Phoenix_(constellation),6504933]]"
+  - "[[_Standards/WikiData/WD~Q10729019,10729019]]"
 time_of_discovery_or_invention: 1597-01-01T00:00:00Z
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Fornax,8913]]'
-  - '[[_Standards/WikiData/WD~Sculptor,9286]]'
-  - '[[_Standards/WikiData/WD~Hydrus,10416]]'
-  - '[[_Standards/WikiData/WD~Eridanus,10433]]'
-  - '[[_Standards/WikiData/WD~Grus,10563]]'
-  - '[[_Standards/WikiData/WD~Tucana,10567]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Fornax,8913]]"
+  - "[[_Standards/WikiData/WD~Sculptor,9286]]"
+  - "[[_Standards/WikiData/WD~Hydrus,10416]]"
+  - "[[_Standards/WikiData/WD~Eridanus,10433]]"
+  - "[[_Standards/WikiData/WD~Grus,10563]]"
+  - "[[_Standards/WikiData/WD~Tucana,10567]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 469
-named_after: '[[_Standards/WikiData/WD~phoenix,48444]]'
+named_after: "[[_Standards/WikiData/WD~phoenix,48444]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Phoenix.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Phoenix%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Phoenix%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
@@ -35,15 +35,42 @@ Commons_gallery: Phoenix (constellation)
 Commons_category: Phoenix (constellation)
 short_name: Phe
 official_name: Phoenix
+dv_SpocWebEntityId: 28146
+dv_#has_:
+  name_:
+    la: Phoenix
+    la_:
+      genitive: Phoenicis
+    de: Phoenix
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Phoenix|Zodiac~Phoenix]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Phoenix.public|Zodiac~Phoenix.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Phoenix.internal|Zodiac~Phoenix.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Phoenix.protect|Zodiac~Phoenix.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Phoenix.private|Zodiac~Phoenix.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Phoenix.personal|Zodiac~Phoenix.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Phoenix.secret|Zodiac~Phoenix.secret]]"
+dv_has_name_la: Phoenix
+dv_has_name_la_genitive: Phoenicis
+dv_has_name_de: Phoenix
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Phoenix|Zodiac~Phoenix]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Phoenix.public|Zodiac~Phoenix.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Phoenix.internal|Zodiac~Phoenix.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Phoenix.protect|Zodiac~Phoenix.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Phoenix.private|Zodiac~Phoenix.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Phoenix.personal|Zodiac~Phoenix.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Phoenix.secret|Zodiac~Phoenix.secret]]"
 ---
 
 # [[Zodiac~Phoenix]] 
 
-[SpocWebEntityId::28146]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Phoenix]
-[#has_/name_/la_/genitive::Phoenicis]
-[#has_/name_/de::Phoenix]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 
 ## Confidential Links & Embeds: 

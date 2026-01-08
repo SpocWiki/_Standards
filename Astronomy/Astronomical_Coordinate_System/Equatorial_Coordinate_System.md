@@ -13,6 +13,25 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q143%20%28epo%29-Nealmcb-ekvatora%20koordinatsistemo.wav
 Commons_category: Equatorial coordinate system
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Equatorial_coordinate_system,208617|WD~Equatorial_coordinate_system,208617]]"
+    - "[[/_Standards/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System|Equatorial_Coordinate_System]]"
+    - "[[/_public/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.public|Equatorial_Coordinate_System.public]]"
+    - "[[/_internal/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.internal|Equatorial_Coordinate_System.internal]]"
+    - "[[/_protect/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.protect|Equatorial_Coordinate_System.protect]]"
+    - "[[/_private/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.private|Equatorial_Coordinate_System.private]]"
+    - "[[/_personal/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.personal|Equatorial_Coordinate_System.personal]]"
+    - "[[/_secret/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.secret|Equatorial_Coordinate_System.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Equatorial_coordinate_system,208617|WD~Equatorial_coordinate_system,208617]]"
+  - "[[/_Standards/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System|Equatorial_Coordinate_System]]"
+  - "[[/_public/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.public|Equatorial_Coordinate_System.public]]"
+  - "[[/_internal/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.internal|Equatorial_Coordinate_System.internal]]"
+  - "[[/_protect/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.protect|Equatorial_Coordinate_System.protect]]"
+  - "[[/_private/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.private|Equatorial_Coordinate_System.private]]"
+  - "[[/_personal/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.personal|Equatorial_Coordinate_System.personal]]"
+  - "[[/_secret/Astronomy/Astronomical_Coordinate_System/Equatorial_Coordinate_System.secret|Equatorial_Coordinate_System.secret]]"
 ---
 
 # [[Equatorial_Coordinate_System]] 

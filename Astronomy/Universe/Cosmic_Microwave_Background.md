@@ -5,22 +5,22 @@ aliases:
   - Cosmic Microwave Background
 has_id_wikidata: Q15605
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Robert_Wilson,171034]]'
-  - '[[_Standards/WikiData/WD~Arno_Allan_Penzias,172877]]'
+  - "[[_Standards/WikiData/WD~Robert_Wilson,171034]]"
+  - "[[_Standards/WikiData/WD~Arno_Allan_Penzias,172877]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~thermal_radiation,192593]]'
-  - '[[_Standards/WikiData/WD~cosmic_background_radiation,12902765]]'
+  - "[[_Standards/WikiData/WD~thermal_radiation,192593]]"
+  - "[[_Standards/WikiData/WD~cosmic_background_radiation,12902765]]"
 has_characteristic:
-  - '[[_Standards/WikiData/WD~polarization,193760]]'
-  - '[[_Standards/WikiData/WD~anisotropy,466686]]'
+  - "[[_Standards/WikiData/WD~polarization,193760]]"
+  - "[[_Standards/WikiData/WD~anisotropy,466686]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]'
-  - '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
-location_of_discovery: '[[_Standards/WikiData/WD~Crawford_Hill,5182875]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_CMB,6737532]]'
-different_from: '[[_Standards/WikiData/WD~cosmic_background_radiation,12902765]]'
-has_part_s_: '[[_Standards/WikiData/WD~photon,3198]]'
-theorized_by: '[[_Standards/WikiData/WD~George_Gamow,59478]]'
+  - "[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]"
+  - "[[_Standards/WikiData/WD~electromagnetic_wave,11386]]"
+location_of_discovery: "[[_Standards/WikiData/WD~Crawford_Hill,5182875]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_CMB,6737532]]"
+different_from: "[[_Standards/WikiData/WD~cosmic_background_radiation,12902765]]"
+has_part_s_: "[[_Standards/WikiData/WD~photon,3198]]"
+theorized_by: "[[_Standards/WikiData/WD~George_Gamow,59478]]"
 redshift: 1090.51
 temperature: 2.72548
 Commons_category: Cosmic microwave background
@@ -28,6 +28,25 @@ time_of_discovery_or_invention: 1964-05-20T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WMAP%202012.png
 Krugosvet_article: nauka_i_tehnika/astronomiya/RELIKTOVOE_IZLUCHENIE.html
 title: cosmic microwave background
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cosmic_microwave_background,15605|WD~Cosmic_microwave_background,15605]]"
+    - "[[/_Standards/Astronomy/Universe/Cosmic_Microwave_Background|Cosmic_Microwave_Background]]"
+    - "[[/_public/Astronomy/Universe/Cosmic_Microwave_Background.public|Cosmic_Microwave_Background.public]]"
+    - "[[/_internal/Astronomy/Universe/Cosmic_Microwave_Background.internal|Cosmic_Microwave_Background.internal]]"
+    - "[[/_protect/Astronomy/Universe/Cosmic_Microwave_Background.protect|Cosmic_Microwave_Background.protect]]"
+    - "[[/_private/Astronomy/Universe/Cosmic_Microwave_Background.private|Cosmic_Microwave_Background.private]]"
+    - "[[/_personal/Astronomy/Universe/Cosmic_Microwave_Background.personal|Cosmic_Microwave_Background.personal]]"
+    - "[[/_secret/Astronomy/Universe/Cosmic_Microwave_Background.secret|Cosmic_Microwave_Background.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cosmic_microwave_background,15605|WD~Cosmic_microwave_background,15605]]"
+  - "[[/_Standards/Astronomy/Universe/Cosmic_Microwave_Background|Cosmic_Microwave_Background]]"
+  - "[[/_public/Astronomy/Universe/Cosmic_Microwave_Background.public|Cosmic_Microwave_Background.public]]"
+  - "[[/_internal/Astronomy/Universe/Cosmic_Microwave_Background.internal|Cosmic_Microwave_Background.internal]]"
+  - "[[/_protect/Astronomy/Universe/Cosmic_Microwave_Background.protect|Cosmic_Microwave_Background.protect]]"
+  - "[[/_private/Astronomy/Universe/Cosmic_Microwave_Background.private|Cosmic_Microwave_Background.private]]"
+  - "[[/_personal/Astronomy/Universe/Cosmic_Microwave_Background.personal|Cosmic_Microwave_Background.personal]]"
+  - "[[/_secret/Astronomy/Universe/Cosmic_Microwave_Background.secret|Cosmic_Microwave_Background.secret]]"
 ---
 
 # [[Cosmic_Microwave_Background]] 

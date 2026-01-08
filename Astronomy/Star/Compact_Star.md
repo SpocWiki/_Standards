@@ -7,6 +7,25 @@ aliases:
 has_id_wikidata: Q368442
 subclass_of: "[[_Standards/WikiData/WD~star,523]]"
 has_part_s_: "[[_Standards/WikiData/WD~degenerate_matter,51368]]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Compact_star,368442|WD~Compact_star,368442]]"
+    - "[[/_Standards/Astronomy/Star/Compact_Star|Compact_Star]]"
+    - "[[/_public/Astronomy/Star/Compact_Star.public|Compact_Star.public]]"
+    - "[[/_internal/Astronomy/Star/Compact_Star.internal|Compact_Star.internal]]"
+    - "[[/_protect/Astronomy/Star/Compact_Star.protect|Compact_Star.protect]]"
+    - "[[/_private/Astronomy/Star/Compact_Star.private|Compact_Star.private]]"
+    - "[[/_personal/Astronomy/Star/Compact_Star.personal|Compact_Star.personal]]"
+    - "[[/_secret/Astronomy/Star/Compact_Star.secret|Compact_Star.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Compact_star,368442|WD~Compact_star,368442]]"
+  - "[[/_Standards/Astronomy/Star/Compact_Star|Compact_Star]]"
+  - "[[/_public/Astronomy/Star/Compact_Star.public|Compact_Star.public]]"
+  - "[[/_internal/Astronomy/Star/Compact_Star.internal|Compact_Star.internal]]"
+  - "[[/_protect/Astronomy/Star/Compact_Star.protect|Compact_Star.protect]]"
+  - "[[/_private/Astronomy/Star/Compact_Star.private|Compact_Star.private]]"
+  - "[[/_personal/Astronomy/Star/Compact_Star.personal|Compact_Star.personal]]"
+  - "[[/_secret/Astronomy/Star/Compact_Star.secret|Compact_Star.secret]]"
 ---
 
 # [[Compact_Star]] 

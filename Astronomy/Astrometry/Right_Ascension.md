@@ -6,14 +6,14 @@ aliases:
   - Right_Ascension
   - Right Ascension
 has_id_wikidata: Q13442
-opposite_of: '[[_Standards/WikiData/WD~declination,76287]]'
+opposite_of: "[[_Standards/WikiData/WD~declination,76287]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-subclass_of: '[[_Standards/WikiData/WD~angular_measure,1357788]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_RA,6486952]]'
-part_of: '[[_Standards/WikiData/WD~second_equatorial_coordinate_system,9364777]]'
+subclass_of: "[[_Standards/WikiData/WD~angular_measure,1357788]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_RA,6486952]]"
+part_of: "[[_Standards/WikiData/WD~second_equatorial_coordinate_system,9364777]]"
 Wikidata_property: right ascension
 lower_limit: 0
 upper_limit:
@@ -23,6 +23,25 @@ ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="htt
 quantity_symbol_LaTeX_:
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi></mstyle></mrow></math>
   - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03B1;</mi></mstyle></mrow></math>
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Right_ascension,13442]]"
+    - "[[/_Standards/Astronomy/Astrometry/Right_Ascension|Right_Ascension]]"
+    - "[[/_public/Astronomy/Astrometry/Right_Ascension.public|Right_Ascension.public]]"
+    - "[[/_internal/Astronomy/Astrometry/Right_Ascension.internal|Right_Ascension.internal]]"
+    - "[[/_protect/Astronomy/Astrometry/Right_Ascension.protect|Right_Ascension.protect]]"
+    - "[[/_private/Astronomy/Astrometry/Right_Ascension.private|Right_Ascension.private]]"
+    - "[[/_personal/Astronomy/Astrometry/Right_Ascension.personal|Right_Ascension.personal]]"
+    - "[[/_secret/Astronomy/Astrometry/Right_Ascension.secret|Right_Ascension.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Right_ascension,13442]]"
+  - "[[/_Standards/Astronomy/Astrometry/Right_Ascension|Right_Ascension]]"
+  - "[[/_public/Astronomy/Astrometry/Right_Ascension.public|Right_Ascension.public]]"
+  - "[[/_internal/Astronomy/Astrometry/Right_Ascension.internal|Right_Ascension.internal]]"
+  - "[[/_protect/Astronomy/Astrometry/Right_Ascension.protect|Right_Ascension.protect]]"
+  - "[[/_private/Astronomy/Astrometry/Right_Ascension.private|Right_Ascension.private]]"
+  - "[[/_personal/Astronomy/Astrometry/Right_Ascension.personal|Right_Ascension.personal]]"
+  - "[[/_secret/Astronomy/Astrometry/Right_Ascension.secret|Right_Ascension.secret]]"
 ---
 
 # [[Right_Ascension]] 

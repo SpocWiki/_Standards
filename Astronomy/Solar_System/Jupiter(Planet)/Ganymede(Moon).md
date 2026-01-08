@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ganymede,3169|WD~Ganymede,3169]]"
+    - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon)|Ganymede(Moon)]]"
+    - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).public|Ganymede(Moon).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).internal|Ganymede(Moon).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).protect|Ganymede(Moon).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).private|Ganymede(Moon).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).personal|Ganymede(Moon).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).secret|Ganymede(Moon).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ganymede,3169|WD~Ganymede,3169]]"
+  - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon)|Ganymede(Moon)]]"
+  - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).public|Ganymede(Moon).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).internal|Ganymede(Moon).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).protect|Ganymede(Moon).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).private|Ganymede(Moon).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).personal|Ganymede(Moon).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).secret|Ganymede(Moon).secret]]"
+---
 
 # [[Ganymede(Moon)]] 
 

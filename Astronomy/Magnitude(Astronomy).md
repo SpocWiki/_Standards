@@ -13,6 +13,25 @@ in_defining_formula:
 Commons_category: Magnitude (astronomy)
 inception: -0128-01-01T00:00:00Z
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi><mo stretchy="false">&#x2212;</mo><mi>M</mi><mo stretchy="false">=</mo><mn>5</mn><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><msub><mi>log</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>1</mn><mn>0</mn></mrow></mrow></msub><mi>d</mi><mo stretchy="false">&#x2212;</mo><mn>1</mn><mo data-mjx-texclass="CLOSE">)</mo></mrow></mstyle></mrow></math>
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Magnitude,2028919]]"
+    - "[[/_Standards/Astronomy/Magnitude(Astronomy)|Magnitude(Astronomy)]]"
+    - "[[/_public/Astronomy/Magnitude(Astronomy).public|Magnitude(Astronomy).public]]"
+    - "[[/_internal/Astronomy/Magnitude(Astronomy).internal|Magnitude(Astronomy).internal]]"
+    - "[[/_protect/Astronomy/Magnitude(Astronomy).protect|Magnitude(Astronomy).protect]]"
+    - "[[/_private/Astronomy/Magnitude(Astronomy).private|Magnitude(Astronomy).private]]"
+    - "[[/_personal/Astronomy/Magnitude(Astronomy).personal|Magnitude(Astronomy).personal]]"
+    - "[[/_secret/Astronomy/Magnitude(Astronomy).secret|Magnitude(Astronomy).secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Magnitude,2028919]]"
+  - "[[/_Standards/Astronomy/Magnitude(Astronomy)|Magnitude(Astronomy)]]"
+  - "[[/_public/Astronomy/Magnitude(Astronomy).public|Magnitude(Astronomy).public]]"
+  - "[[/_internal/Astronomy/Magnitude(Astronomy).internal|Magnitude(Astronomy).internal]]"
+  - "[[/_protect/Astronomy/Magnitude(Astronomy).protect|Magnitude(Astronomy).protect]]"
+  - "[[/_private/Astronomy/Magnitude(Astronomy).private|Magnitude(Astronomy).private]]"
+  - "[[/_personal/Astronomy/Magnitude(Astronomy).personal|Magnitude(Astronomy).personal]]"
+  - "[[/_secret/Astronomy/Magnitude(Astronomy).secret|Magnitude(Astronomy).secret]]"
 ---
 
 # [[Magnitude(Astronomy)]] 

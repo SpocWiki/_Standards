@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q101600
 has_list: "[[_Standards/WikiData/WD~list_of_brown_dwarfs,138068]]"
 subclass_of: "[[_Standards/WikiData/WD~substellar_object,3132741]]"
@@ -11,6 +11,25 @@ P8189: "987007553774205171"
 Krugosvet_article: astronomiya/korichnevye-karliki
 Commons_gallery: Brown dwarf
 Commons_category: Brown dwarfs
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Brown_dwarf,101600|WD~Brown_dwarf,101600]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Brown_Dwarf|Brown_Dwarf]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Brown_Dwarf.public|Brown_Dwarf.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Brown_Dwarf.internal|Brown_Dwarf.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Brown_Dwarf.protect|Brown_Dwarf.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Brown_Dwarf.private|Brown_Dwarf.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Brown_Dwarf.personal|Brown_Dwarf.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Brown_Dwarf.secret|Brown_Dwarf.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Brown_dwarf,101600|WD~Brown_dwarf,101600]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Brown_Dwarf|Brown_Dwarf]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Brown_Dwarf.public|Brown_Dwarf.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Brown_Dwarf.internal|Brown_Dwarf.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Brown_Dwarf.protect|Brown_Dwarf.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Brown_Dwarf.private|Brown_Dwarf.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Brown_Dwarf.personal|Brown_Dwarf.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Brown_Dwarf.secret|Brown_Dwarf.secret]]"
 ---
 
 # [[Brown_Dwarf]] 

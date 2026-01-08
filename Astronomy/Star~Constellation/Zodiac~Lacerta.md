@@ -10,25 +10,25 @@ tags:
   - astro/Zodiac
 type: Zodiac
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
+  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q10729039,10729039]]'
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Lacerta,10766725]]'
-named_after: '[[_Standards/WikiData/WD~Stellagama,15373238]]'
+  - "[[_Standards/WikiData/WD~Q10729039,10729039]]"
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Lacerta,10766725]]"
+named_after: "[[_Standards/WikiData/WD~Stellagama,15373238]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Pegasus,8864]]'
-  - '[[_Standards/WikiData/WD~Cygnus,8921]]'
-  - '[[_Standards/WikiData/WD~Andromeda,9256]]'
-  - '[[_Standards/WikiData/WD~Cassiopeia,10464]]'
-  - '[[_Standards/WikiData/WD~Cepheus,10468]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Pegasus,8864]]"
+  - "[[_Standards/WikiData/WD~Cygnus,8921]]"
+  - "[[_Standards/WikiData/WD~Andromeda,9256]]"
+  - "[[_Standards/WikiData/WD~Cassiopeia,10464]]"
+  - "[[_Standards/WikiData/WD~Cepheus,10468]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 201
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Johannes_Hevelius,57963]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Johannes_Hevelius,57963]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lacerta%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lacerta%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LacertaCC.jpg
@@ -37,15 +37,44 @@ Commons_category: Lacerta (constellation)
 short_name: Lac
 official_name: Lacerta
 time_of_discovery_or_invention: 1687-01-01T00:00:00Z
+dv_SpocWebEntityId: 28127
+dv_#has_:
+  name_:
+    la: Lacerta
+    la_:
+      genitive: Lacertae
+    de: Eidechse
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Lacerta,10430|WD~Lacerta,10430]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lacerta|Zodiac~Lacerta]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Lacerta.public|Zodiac~Lacerta.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Lacerta.internal|Zodiac~Lacerta.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Lacerta.protect|Zodiac~Lacerta.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Lacerta.private|Zodiac~Lacerta.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Lacerta.personal|Zodiac~Lacerta.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Lacerta.secret|Zodiac~Lacerta.secret]]"
+dv_has_name_la: Lacerta
+dv_has_name_la_genitive: Lacertae
+dv_has_name_de: Eidechse
+dv_is_same_as:
+  - "[[../../WikiData/WD~Lacerta,10430|WD~Lacerta,10430]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lacerta|Zodiac~Lacerta]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Lacerta.public|Zodiac~Lacerta.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Lacerta.internal|Zodiac~Lacerta.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Lacerta.protect|Zodiac~Lacerta.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Lacerta.private|Zodiac~Lacerta.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Lacerta.personal|Zodiac~Lacerta.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Lacerta.secret|Zodiac~Lacerta.secret]]"
 ---
 
 # [[Zodiac~Lacerta]] 
 
-[SpocWebEntityId::28127]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Lacerta]
-[#has_/name_/la_/genitive::Lacertae]
-[#has_/name_/de::Eidechse]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Lacerta,10430|WD~Lacerta,10430]] 
 

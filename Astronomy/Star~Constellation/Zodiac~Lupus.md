@@ -9,21 +9,21 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
 named_after:
-  - '[[_Standards/WikiData/WD~Uridimmu,7900581]]'
-  - '[[_Standards/WikiData/WD~Canis_lupus,18498]]'
+  - "[[_Standards/WikiData/WD~Uridimmu,7900581]]"
+  - "[[_Standards/WikiData/WD~Canis_lupus,18498]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q10729144,10729144]]'
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Lupus,10766717]]'
+  - "[[_Standards/WikiData/WD~Q10729144,10729144]]"
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Lupus,10766717]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Centaurus,8844]]'
-  - '[[_Standards/WikiData/WD~Scorpius,8865]]'
-  - '[[_Standards/WikiData/WD~Circinus,10508]]'
-  - '[[_Standards/WikiData/WD~Hydra,10578]]'
-  - '[[_Standards/WikiData/WD~Norma,10582]]'
-  - '[[_Standards/WikiData/WD~Libra,10580]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Centaurus,8844]]"
+  - "[[_Standards/WikiData/WD~Scorpius,8865]]"
+  - "[[_Standards/WikiData/WD~Circinus,10508]]"
+  - "[[_Standards/WikiData/WD~Hydra,10578]]"
+  - "[[_Standards/WikiData/WD~Norma,10582]]"
+  - "[[_Standards/WikiData/WD~Libra,10580]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 334
 Commons_gallery: Lupus
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lupus%20constellation%20map.svg
@@ -32,15 +32,44 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lupu
 Commons_category: Lupus (constellation)
 short_name: Lup
 official_name: Lupus
+dv_SpocWebEntityId: 28132
+dv_#has_:
+  name_:
+    la: Lupus
+    la_:
+      genitive: Lupi
+    de: Wolf
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Lupus,10571|WD~Lupus,10571]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lupus|Zodiac~Lupus]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Lupus.public|Zodiac~Lupus.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Lupus.internal|Zodiac~Lupus.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Lupus.protect|Zodiac~Lupus.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Lupus.private|Zodiac~Lupus.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Lupus.personal|Zodiac~Lupus.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Lupus.secret|Zodiac~Lupus.secret]]"
+dv_has_name_la: Lupus
+dv_has_name_la_genitive: Lupi
+dv_has_name_de: Wolf
+dv_is_same_as:
+  - "[[../../WikiData/WD~Lupus,10571|WD~Lupus,10571]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lupus|Zodiac~Lupus]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Lupus.public|Zodiac~Lupus.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Lupus.internal|Zodiac~Lupus.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Lupus.protect|Zodiac~Lupus.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Lupus.private|Zodiac~Lupus.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Lupus.personal|Zodiac~Lupus.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Lupus.secret|Zodiac~Lupus.secret]]"
 ---
 
 # [[Zodiac~Lupus]] 
 
-[SpocWebEntityId::28132]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Lupus]
-[#has_/name_/la_/genitive::Lupi]
-[#has_/name_/de::Wolf]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Lupus,10571|WD~Lupus,10571]] 
 
