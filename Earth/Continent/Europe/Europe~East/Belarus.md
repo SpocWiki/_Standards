@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: BELARUS
 dv_Telephone: 375
 dv_Global: true
 dv_Global_Name: World
-dv_name: Belarus
+dv_has_name_: Belarus
 dv_has_name_en: Belarus
 dv_has_name_es: Belarús
 dv_has_name_fr: Bélarus

@@ -435,7 +435,7 @@ dv_ISO4217-currency_country_name: ECUADOR
 dv_Telephone: 593
 dv_Global: true
 dv_Global_Name: World
-dv_name: Ecuador
+dv_has_name_: Ecuador
 dv_has_name_en: Ecuador
 dv_has_name_es: Ecuador
 dv_has_name_fr: Équateur

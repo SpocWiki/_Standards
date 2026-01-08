@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 158.15
 dv_has_place_latitude: 6.916667
-dv_name: Palikir
+dv_has_name_: Palikir
 dv_has_place_country: Micronesia,_Fed._States]
 dv_is_:
   same_as:

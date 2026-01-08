@@ -45,7 +45,7 @@ dv_ISO4217-currency_country_name: FRENCH GUIANA
 dv_Telephone: 594
 dv_Global: true
 dv_Global_Name: World
-dv_name: French Guiana
+dv_has_name_: French Guiana
 dv_has_name_en:
   - French Guiana
   - French Guiana

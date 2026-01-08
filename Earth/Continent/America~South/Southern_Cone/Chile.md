@@ -381,7 +381,7 @@ dv_ISO4217-currency_country_name: CHILE
 dv_Telephone: 56
 dv_Global: true
 dv_Global_Name: World
-dv_name: Chile
+dv_has_name_: Chile
 dv_has_name_en: Chile
 dv_has_name_es: Chile
 dv_has_name_fr: Chili

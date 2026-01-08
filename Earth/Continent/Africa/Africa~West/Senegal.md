@@ -383,7 +383,7 @@ dv_ISO4217-currency_country_name: SENEGAL
 dv_Telephone: 221
 dv_Global: true
 dv_Global_Name: World
-dv_name: Senegal
+dv_has_name_: Senegal
 dv_has_name_en: Senegal
 dv_has_name_es: Senegal
 dv_has_name_fr: Sénégal

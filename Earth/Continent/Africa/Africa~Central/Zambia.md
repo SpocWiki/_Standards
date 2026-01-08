@@ -393,7 +393,7 @@ dv_ISO4217-currency_country_name: ZAMBIA
 dv_Telephone: 260
 dv_Global: true
 dv_Global_Name: World
-dv_name: Zambia
+dv_has_name_: Zambia
 dv_has_name_en: Zambia
 dv_has_name_es: Zambia
 dv_has_name_fr: Zambie

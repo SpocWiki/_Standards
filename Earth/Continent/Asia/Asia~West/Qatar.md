@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: QATAR
 dv_Telephone: 974
 dv_Global: true
 dv_Global_Name: World
-dv_name: Qatar
+dv_has_name_: Qatar
 dv_has_name_en: Qatar
 dv_has_name_es: Qatar
 dv_has_name_fr: Qatar

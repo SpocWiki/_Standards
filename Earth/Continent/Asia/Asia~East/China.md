@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: CHINA
 dv_Telephone: 86
 dv_Global: true
 dv_Global_Name: World
-dv_name: China
+dv_has_name_: China
 dv_has_name_en: China
 dv_has_name_es: China
 dv_has_name_fr: Chine

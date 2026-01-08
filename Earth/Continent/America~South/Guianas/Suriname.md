@@ -294,7 +294,7 @@ dv_ISO4217-currency_country_name: SURINAME
 dv_Telephone: 597
 dv_Global: true
 dv_Global_Name: World
-dv_name: Suriname
+dv_has_name_: Suriname
 dv_has_name_en: Suriname
 dv_has_name_es: Suriname
 dv_has_name_fr: Suriname

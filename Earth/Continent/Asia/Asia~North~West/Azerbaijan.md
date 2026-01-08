@@ -48,7 +48,7 @@ dv_ISO4217-currency_country_name: AZERBAIJAN
 dv_Telephone: 994
 dv_Global: true
 dv_Global_Name: World
-dv_name: Azerbaijan
+dv_has_name_: Azerbaijan
 dv_has_name_en: Azerbaijan
 dv_has_name_es: Azerbaiyán
 dv_has_name_fr: Azerbaïdjan

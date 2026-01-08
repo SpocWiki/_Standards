@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SAUDI ARABIA
 dv_Telephone: 966
 dv_Global: true
 dv_Global_Name: World
-dv_name: Saudi Arabia
+dv_has_name_: Saudi Arabia
 dv_has_name_en:
   - Saudi Arabia
   - Saudi Arabia

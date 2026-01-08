@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: CHAD
 dv_Telephone: 235
 dv_Global: true
 dv_Global_Name: World
-dv_name: Chad
+dv_has_name_: Chad
 dv_has_name_en: Chad
 dv_has_name_es: Chad
 dv_has_name_fr: Tchad

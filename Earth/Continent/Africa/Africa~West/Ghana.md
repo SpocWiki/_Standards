@@ -376,7 +376,7 @@ dv_ISO4217-currency_country_name: GHANA
 dv_Telephone: 233
 dv_Global: true
 dv_Global_Name: World
-dv_name: Ghana
+dv_has_name_: Ghana
 dv_has_name_en: Ghana
 dv_has_name_es: Ghana
 dv_has_name_fr: Ghana

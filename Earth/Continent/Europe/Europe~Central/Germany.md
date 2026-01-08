@@ -24,7 +24,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany.private|Germany.private]]"
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany.personal|Germany.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]]"
-dv_name: Germany
+dv_has_name_: Germany
 dv_has_name_en: Germany
 dv_has_name_es: Alemania
 dv_has_name_fr: Allemagne

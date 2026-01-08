@@ -329,7 +329,7 @@ dv_ISO4217-currency_country_name: ICELAND
 dv_Telephone: 354
 dv_Global: true
 dv_Global_Name: World
-dv_name: Iceland
+dv_has_name_: Iceland
 dv_has_name_en: Iceland
 dv_has_name_es: Islandia
 dv_has_name_fr: Islande

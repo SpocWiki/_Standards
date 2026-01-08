@@ -13,7 +13,7 @@ dv_has_:
     code_repository: https://github.com/SpocWiki/Asia-Japan
 dv_Global: true
 dv_Global_Name: World
-dv_name: Japan
+dv_has_name_: Japan
 dv_has_name_en: Japan
 dv_has_name_es: Japón
 dv_has_name_fr: Japon

@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SERBIA
 dv_Telephone: 381
 dv_Global: true
 dv_Global_Name: World
-dv_name: Serbia
+dv_has_name_: Serbia
 dv_has_name_en: Serbia
 dv_has_name_es: Serbia
 dv_has_name_fr: Serbie

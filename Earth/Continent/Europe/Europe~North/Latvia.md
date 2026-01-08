@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: LATVIA
 dv_Telephone: 371
 dv_Global: true
 dv_Global_Name: World
-dv_name: Latvia
+dv_has_name_: Latvia
 dv_has_name_en: Latvia
 dv_has_name_es: Letonia
 dv_has_name_fr: Lettonie

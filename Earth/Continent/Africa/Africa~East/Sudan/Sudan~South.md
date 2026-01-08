@@ -21,7 +21,7 @@ dv_has_:
     code_repository: https://github.com/SpocWiki/Africa-Sudan-South
 dv_Global: true
 dv_Global_Name: World
-dv_name: South Sudan
+dv_has_name_: South Sudan
 dv_has_name_en: South Sudan
 dv_has_name_es: Sudán del Sur
 dv_has_name_fr: Soudan du Sud

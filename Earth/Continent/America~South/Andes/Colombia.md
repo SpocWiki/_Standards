@@ -495,7 +495,7 @@ dv_ISO4217-currency_country_name: COLOMBIA
 dv_Telephone: 57
 dv_Global: true
 dv_Global_Name: World
-dv_name: Colombia
+dv_has_name_: Colombia
 dv_has_name_en: Colombia
 dv_has_name_es: Colombia
 dv_has_name_fr: Colombie

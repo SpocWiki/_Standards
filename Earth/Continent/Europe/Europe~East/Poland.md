@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../Geography/Place]]"
 dv_has_place_longitude: 17.6996
 dv_has_place_latitude: 52.0027
-dv_name: Poland
+dv_has_name_: Poland
 dv_has_name_en: Poland
 dv_has_name_es: Polonia
 dv_has_name_fr: Pologne

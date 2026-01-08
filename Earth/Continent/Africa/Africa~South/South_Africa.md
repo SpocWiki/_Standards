@@ -463,7 +463,7 @@ dv_ISO4217-currency_country_name: SOUTH AFRICA
 dv_Telephone: 27
 dv_Global: true
 dv_Global_Name: World
-dv_name: South Africa
+dv_has_name_: South Africa
 dv_has_name_en:
   - South Africa
   - South Africa

@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: IRAN (ISLAMIC REPUBLIC OF)
 dv_Telephone: 98
 dv_Global: true
 dv_Global_Name: World
-dv_name: Iran
+dv_has_name_: Iran
 dv_has_name_en:
   - Iran (Islamic Republic of)
   - Iran

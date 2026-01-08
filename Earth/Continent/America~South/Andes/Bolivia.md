@@ -401,7 +401,7 @@ dv_ISO4217-currency_country_name: BOLIVIA (PLURINATIONAL STATE OF)
 dv_Telephone: 591
 dv_Global: true
 dv_Global_Name: World
-dv_name: Bolivia
+dv_has_name_: Bolivia
 dv_has_name_en:
   - Bolivia (Plurinational State of)
   - Bolivia

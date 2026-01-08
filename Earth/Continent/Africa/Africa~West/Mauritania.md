@@ -354,7 +354,7 @@ dv_ISO4217-currency_country_name: MAURITANIA
 dv_Telephone: 222
 dv_Global: true
 dv_Global_Name: World
-dv_name: Mauritania
+dv_has_name_: Mauritania
 dv_has_name_en: Mauritania
 dv_has_name_es: Mauritania
 dv_has_name_fr: Mauritanie

@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: MARSHALL ISLANDS
 dv_Telephone: 692
 dv_Global: true
 dv_Global_Name: World
-dv_name: Marshall Islands
+dv_has_name_: Marshall Islands
 dv_has_name_en:
   - Marshall Islands
   - Marshall Islands

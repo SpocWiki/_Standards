@@ -324,7 +324,7 @@ dv_ISO4217-currency_country_name: MALAWI
 dv_Telephone: 265
 dv_Global: true
 dv_Global_Name: World
-dv_name: Malawi
+dv_has_name_: Malawi
 dv_has_name_en: Malawi
 dv_has_name_es: Malawi
 dv_has_name_fr: Malawi

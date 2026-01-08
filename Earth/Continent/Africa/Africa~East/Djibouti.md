@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: DJIBOUTI
 dv_Telephone: 253
 dv_Global: true
 dv_Global_Name: World
-dv_name: Djibouti
+dv_has_name_: Djibouti
 dv_has_name_en: Djibouti
 dv_has_name_es: Djibouti
 dv_has_name_fr: Djibouti

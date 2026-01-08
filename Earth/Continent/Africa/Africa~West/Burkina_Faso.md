@@ -390,7 +390,7 @@ dv_ISO4217-currency_country_name: BURKINA FASO
 dv_Telephone: 226
 dv_Global: true
 dv_Global_Name: World
-dv_name: Burkina Faso
+dv_has_name_: Burkina Faso
 dv_has_name_en:
   - Burkina Faso
   - Burkina Faso

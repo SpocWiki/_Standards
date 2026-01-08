@@ -333,7 +333,7 @@ dv_ISO4217-currency_country_name: HONDURAS
 dv_Telephone: 504
 dv_Global: true
 dv_Global_Name: World
-dv_name: Honduras
+dv_has_name_: Honduras
 dv_has_name_en: Honduras
 dv_has_name_es: Honduras
 dv_has_name_fr: Honduras

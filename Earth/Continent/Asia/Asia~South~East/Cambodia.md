@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: CAMBODIA
 dv_Telephone: 855
 dv_Global: true
 dv_Global_Name: World
-dv_name: Cambodia
+dv_has_name_: Cambodia
 dv_has_name_en: Cambodia
 dv_has_name_es: Camboya
 dv_has_name_fr: Cambodge

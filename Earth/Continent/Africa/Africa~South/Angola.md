@@ -380,7 +380,7 @@ dv_ISO4217-currency_country_name: ANGOLA
 dv_Telephone: 244
 dv_Global: true
 dv_Global_Name: World
-dv_name: Angola
+dv_has_name_: Angola
 dv_has_name_en: Angola
 dv_has_name_es: Angola
 dv_has_name_fr: Angola

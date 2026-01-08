@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: VIET NAM
 dv_Telephone: 84
 dv_Global: true
 dv_Global_Name: World
-dv_name: Vietnam
+dv_has_name_: Vietnam
 dv_has_name_en:
   - Viet Nam
   - Vietnam

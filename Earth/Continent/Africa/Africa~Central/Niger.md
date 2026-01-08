@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: NIGER
 dv_Telephone: 227
 dv_Global: true
 dv_Global_Name: World
-dv_name: Niger
+dv_has_name_: Niger
 dv_has_name_en: Niger
 dv_has_name_es: Níger
 dv_has_name_fr: Niger

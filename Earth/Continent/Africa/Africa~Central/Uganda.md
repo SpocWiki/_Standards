@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: UGANDA
 dv_Telephone: 256
 dv_Global: true
 dv_Global_Name: World
-dv_name: Uganda
+dv_has_name_: Uganda
 dv_has_name_en: Uganda
 dv_has_name_es: Uganda
 dv_has_name_fr: Ouganda

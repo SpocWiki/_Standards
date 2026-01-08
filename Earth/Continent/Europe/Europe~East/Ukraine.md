@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: UKRAINE
 dv_Telephone: 380
 dv_Global: true
 dv_Global_Name: World
-dv_name: Ukraine
+dv_has_name_: Ukraine
 dv_has_name_en: Ukraine
 dv_has_name_es: Ucrania
 dv_has_name_fr: Ukraine

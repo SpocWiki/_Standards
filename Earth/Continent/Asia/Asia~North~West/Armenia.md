@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: ARMENIA
 dv_Telephone: 374
 dv_Global: true
 dv_Global_Name: World
-dv_name: Armenia
+dv_has_name_: Armenia
 dv_has_name_en: Armenia
 dv_has_name_es: Armenia
 dv_has_name_fr: Arménie

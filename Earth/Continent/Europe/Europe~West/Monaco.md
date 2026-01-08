@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: MONACO
 dv_Telephone: 377
 dv_Global: true
 dv_Global_Name: World
-dv_name: Monaco
+dv_has_name_: Monaco
 dv_has_name_en: Monaco
 dv_has_name_es: Mónaco
 dv_has_name_fr: Monaco

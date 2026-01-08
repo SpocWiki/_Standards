@@ -403,7 +403,7 @@ dv_ISO4217-currency_country_name: VANUATU
 dv_Telephone: 678
 dv_Global: true
 dv_Global_Name: World
-dv_name: Vanuatu
+dv_has_name_: Vanuatu
 dv_has_name_en: Vanuatu
 dv_has_name_es: Vanuatu
 dv_has_name_fr: Vanuatu

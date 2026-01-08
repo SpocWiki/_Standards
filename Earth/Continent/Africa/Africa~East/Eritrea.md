@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: ERITREA
 dv_Telephone: 291
 dv_Global: true
 dv_Global_Name: World
-dv_name: Eritrea
+dv_has_name_: Eritrea
 dv_has_name_en: Eritrea
 dv_has_name_es: Eritrea
 dv_has_name_fr: Érythrée

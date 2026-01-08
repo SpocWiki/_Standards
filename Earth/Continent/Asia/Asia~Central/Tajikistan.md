@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: TAJIKISTAN
 dv_Telephone: 992
 dv_Global: true
 dv_Global_Name: World
-dv_name: Tajikistan
+dv_has_name_: Tajikistan
 dv_has_name_en: Tajikistan
 dv_has_name_es: Tayikistán
 dv_has_name_fr: Tadjikistan

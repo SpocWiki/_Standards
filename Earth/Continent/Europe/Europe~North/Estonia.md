@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: ESTONIA
 dv_Telephone: 372
 dv_Global: true
 dv_Global_Name: World
-dv_name: Estonia
+dv_has_name_: Estonia
 dv_has_name_en: Estonia
 dv_has_name_es: Estonia
 dv_has_name_fr: Estonie

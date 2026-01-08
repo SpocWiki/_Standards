@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: EQUATORIAL GUINEA
 dv_Telephone: 240
 dv_Global: true
 dv_Global_Name: World
-dv_name: Equatorial Guinea
+dv_has_name_: Equatorial Guinea
 dv_has_name_en:
   - Equatorial Guinea
   - Equatorial Guinea

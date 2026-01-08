@@ -415,7 +415,7 @@ dv_ISO4217-currency_country_name: URUGUAY
 dv_Telephone: 598
 dv_Global: true
 dv_Global_Name: World
-dv_name: Uruguay
+dv_has_name_: Uruguay
 dv_has_name_en: Uruguay
 dv_has_name_es: Uruguay
 dv_has_name_fr: Uruguay

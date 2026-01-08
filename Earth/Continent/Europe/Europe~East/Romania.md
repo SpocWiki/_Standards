@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: ROMANIA
 dv_Telephone: 40
 dv_Global: true
 dv_Global_Name: World
-dv_name: Romania
+dv_has_name_: Romania
 dv_has_name_en: Romania
 dv_has_name_es: Rumania
 dv_has_name_fr: Roumanie

@@ -330,7 +330,7 @@ dv_ISO4217-currency_country_name: NICARAGUA
 dv_Telephone: 505
 dv_Global: true
 dv_Global_Name: World
-dv_name: Nicaragua
+dv_has_name_: Nicaragua
 dv_has_name_en: Nicaragua
 dv_has_name_es: Nicaragua
 dv_has_name_fr: Nicaragua

@@ -372,7 +372,7 @@ dv_ISO4217-currency_country_name: MOZAMBIQUE
 dv_Telephone: 258
 dv_Global: true
 dv_Global_Name: World
-dv_name: Mozambique
+dv_has_name_: Mozambique
 dv_has_name_en: Mozambique
 dv_has_name_es: Mozambique
 dv_has_name_fr: Mozambique

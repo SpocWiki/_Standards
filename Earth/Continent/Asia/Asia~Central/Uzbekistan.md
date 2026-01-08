@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: UZBEKISTAN
 dv_Telephone: 998
 dv_Global: true
 dv_Global_Name: World
-dv_name: Uzbekistan
+dv_has_name_: Uzbekistan
 dv_has_name_en: Uzbekistan
 dv_has_name_es: Uzbekistán
 dv_has_name_fr: Ouzbékistan

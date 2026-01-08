@@ -12,7 +12,7 @@ dv_ISO4217-currency_country_name: ISRAEL
 dv_Telephone: 972
 dv_Global: true
 dv_Global_Name: World
-dv_name: Israel
+dv_has_name_: Israel
 dv_has_name_en: Israel
 dv_has_name_es: Israel
 dv_has_name_fr: Israël

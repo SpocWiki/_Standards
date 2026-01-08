@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: GREECE
 dv_Telephone: 30
 dv_Global: true
 dv_Global_Name: World
-dv_name: Greece
+dv_has_name_: Greece
 dv_has_name_en: Greece
 dv_has_name_es: Grecia
 dv_has_name_fr: Grèce

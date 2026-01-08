@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 171.3667
 dv_has_place_latitude: 7.116667
-dv_name: Majuro
+dv_has_name_: Majuro
 dv_has_place_country: "[[../../../Marshall_Islands]]"
 dv_is_:
   same_as:

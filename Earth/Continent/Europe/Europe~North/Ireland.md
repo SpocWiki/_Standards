@@ -408,7 +408,7 @@ dv_ISO4217-currency_country_name: IRELAND
 dv_Telephone: 353
 dv_Global: true
 dv_Global_Name: World
-dv_name: Ireland
+dv_has_name_: Ireland
 dv_has_name_en: Ireland
 dv_has_name_es: Irlanda
 dv_has_name_fr: Irlande

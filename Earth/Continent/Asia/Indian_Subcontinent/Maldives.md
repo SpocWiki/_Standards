@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: MALDIVES
 dv_Telephone: 960
 dv_Global: true
 dv_Global_Name: World
-dv_name: Maldives
+dv_has_name_: Maldives
 dv_has_name_en: Maldives
 dv_has_name_es: Maldivas
 dv_has_name_fr: Maldives

@@ -40,7 +40,7 @@ dv_ISO4217-currency_country_name: GIBRALTAR
 dv_Telephone: 350
 dv_Global: true
 dv_Global_Name: World
-dv_name:
+dv_has_name_:
   - Gibraltar
   - Gibraltar
 dv_has_name_en: Gibraltar

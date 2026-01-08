@@ -1243,7 +1243,7 @@ dv_ISO4217-currency_country_name: INDONESIA
 dv_Telephone: 62
 dv_Global: true
 dv_Global_Name: World
-dv_name: Indonesia
+dv_has_name_: Indonesia
 dv_has_name_en: Indonesia
 dv_has_name_es: Indonesia
 dv_has_name_fr: Indonésie

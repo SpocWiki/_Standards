@@ -547,7 +547,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Spain,7112463]]"
 WIPO_ST_3: ES
 Wolfram_Language_entity_code: Entity["Country", "Spain"]
 X_Twitter_username: 060gobes
-dv_name: Spain
+dv_has_name_: Spain
 dv_has_name_en: Spain
 dv_has_name_es: España
 dv_has_name_fr: Espagne

@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: IRAQ
 dv_Telephone: 964
 dv_Global: true
 dv_Global_Name: World
-dv_name: Iraq
+dv_has_name_: Iraq
 dv_has_name_en: Iraq
 dv_has_name_es: Iraq
 dv_has_name_fr: Iraq

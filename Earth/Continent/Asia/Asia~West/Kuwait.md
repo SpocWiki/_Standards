@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: KUWAIT
 dv_Telephone: 965
 dv_Global: true
 dv_Global_Name: World
-dv_name: Kuwait
+dv_has_name_: Kuwait
 dv_has_name_en: Kuwait
 dv_has_name_es: Kuwait
 dv_has_name_fr: Koweït

@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: TURKEY
 dv_Telephone: 90
 dv_Global: true
 dv_Global_Name: World
-dv_name: Turkey
+dv_has_name_: Turkey
 dv_has_name_en: Turkey
 dv_has_name_es: Turquía
 dv_has_name_fr: Turquie

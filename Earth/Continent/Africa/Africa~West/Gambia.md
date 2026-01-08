@@ -292,7 +292,7 @@ dv_ISO4217-currency_country_name: GAMBIA
 dv_Telephone: 220
 dv_Global: true
 dv_Global_Name: World
-dv_name: Gambia
+dv_has_name_: Gambia
 dv_has_name_en: Gambia
 dv_has_name_es: Gambia
 dv_has_name_fr: Gambie

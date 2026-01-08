@@ -303,7 +303,7 @@ dv_ISO4217-currency_country_name: TIMOR-LESTE
 dv_Telephone: 670
 dv_Global: true
 dv_Global_Name: World
-dv_name: Timor-Leste
+dv_has_name_: Timor-Leste
 dv_has_name_en:
   - Timor-Leste
   - Timor-Leste

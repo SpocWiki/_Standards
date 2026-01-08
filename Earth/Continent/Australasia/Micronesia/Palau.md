@@ -8,7 +8,7 @@ dv_ISO4217-currency_country_name: PALAU
 dv_Telephone: 680
 dv_Global: true
 dv_Global_Name: World
-dv_name: Palau
+dv_has_name_: Palau
 dv_has_name_en: Palau
 dv_has_name_es: Palau
 dv_has_name_fr: Palaos

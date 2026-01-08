@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: ANDORRA
 dv_Telephone: 376
 dv_Global: true
 dv_Global_Name: World
-dv_name: Andorra
+dv_has_name_: Andorra
 dv_has_name_en: Andorra
 dv_has_name_es: Andorra
 dv_has_name_fr: Andorre

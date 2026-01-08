@@ -12,7 +12,7 @@ dv_ISO4217-currency_country_name: TUNISIA
 dv_Telephone: 216
 dv_Global: true
 dv_Global_Name: World
-dv_name: Tunisia
+dv_has_name_: Tunisia
 dv_has_name_en: Tunisia
 dv_has_name_es: Túnez
 dv_has_name_fr: Tunisie

@@ -35,7 +35,7 @@ type:
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 134.4667
 dv_has_place_latitude: 7.35
-dv_name: Melekeok
+dv_has_name_: Melekeok
 dv_Country: "[[../../../../Micronesia/Palau]]]"
 dv_Unknown: 32
 dv_is_:

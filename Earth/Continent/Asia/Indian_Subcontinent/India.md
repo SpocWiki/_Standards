@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: INDIA
 dv_Telephone: 91
 dv_Global: true
 dv_Global_Name: World
-dv_name: India
+dv_has_name_: India
 dv_has_name_en: India
 dv_has_name_es: India
 dv_has_name_fr: Inde

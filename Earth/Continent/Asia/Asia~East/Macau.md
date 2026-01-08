@@ -39,7 +39,7 @@ dv_ISO4217-currency_country_name: MACAO
 dv_Telephone: 853
 dv_Global: true
 dv_Global_Name: World
-dv_name: Macau
+dv_has_name_: Macau
 dv_has_name_en:
   - China, Macao Special Administrative Region
   - Macau

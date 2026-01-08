@@ -20,7 +20,7 @@ dv_has_:
     coat_of_arms: "![[./Austria/Coat_of_arms_of_Austria.svg|150]] ![](./Austria/Coat_of_arms_of_Austria.svg)"
   sound_of_:
     anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Austria.mp3]]"
-dv_name: Austria
+dv_has_name_: Austria
 dv_has_name_en: Austria
 dv_has_name_es: Austria
 dv_has_name_fr: Autriche

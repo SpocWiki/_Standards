@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: ALBANIA
 dv_Telephone: 355
 dv_Global: true
 dv_Global_Name: World
-dv_name: Albania
+dv_has_name_: Albania
 dv_has_name_en: Albania
 dv_has_name_es: Albania
 dv_has_name_fr: Albanie

@@ -44,7 +44,7 @@ dv_ISO4217-currency_country_name: SOLOMON ISLANDS
 dv_Telephone: 677
 dv_Global: true
 dv_Global_Name: World
-dv_name: Solomon Islands
+dv_has_name_: Solomon Islands
 dv_has_name_en:
   - Solomon Islands
   - Solomon Islands

@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: MALAYSIA
 dv_Telephone: 60
 dv_Global: true
 dv_Global_Name: World
-dv_name: Malaysia
+dv_has_name_: Malaysia
 dv_has_name_en: Malaysia
 dv_has_name_es: Malasia
 dv_has_name_fr: Malaisie

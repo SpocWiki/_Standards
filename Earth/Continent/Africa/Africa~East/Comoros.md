@@ -296,7 +296,7 @@ dv_ISO4217-currency_country_name: COMOROS
 dv_Telephone: 269
 dv_Global: true
 dv_Global_Name: World
-dv_name: Comoros
+dv_has_name_: Comoros
 dv_has_name_en: Comoros
 dv_has_name_es: Comoras
 dv_has_name_fr: Comores

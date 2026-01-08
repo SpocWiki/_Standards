@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: OMAN
 dv_Telephone: 968
 dv_Global: true
 dv_Global_Name: World
-dv_name: Oman
+dv_has_name_: Oman
 dv_has_name_en: Oman
 dv_has_name_es: Omán
 dv_has_name_fr: Oman

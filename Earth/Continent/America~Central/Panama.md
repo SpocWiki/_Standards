@@ -358,7 +358,7 @@ dv_ISO4217-currency_country_name: PANAMA
 dv_Telephone: 507
 dv_Global: true
 dv_Global_Name: World
-dv_name: Panama
+dv_has_name_: Panama
 dv_has_name_en: Panama
 dv_has_name_es: Panamá
 dv_has_name_fr: Panama

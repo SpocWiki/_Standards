@@ -47,7 +47,7 @@ dv_ISO4217-currency_country_name: NORTHERN MARIANA ISLANDS
 dv_Telephone: 1-670
 dv_Global: true
 dv_Global_Name: World
-dv_name: Northern Mariana Islands
+dv_has_name_: Northern Mariana Islands
 dv_has_name_en:
   - Northern Mariana Islands
   - Northern Mariana Islands

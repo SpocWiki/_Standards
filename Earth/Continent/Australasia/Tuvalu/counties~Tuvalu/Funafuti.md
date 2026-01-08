@@ -45,7 +45,7 @@ demonym:
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: 179.2167
 dv_has_place_latitude: -8.516666
-dv_name: Funafuti
+dv_has_name_: Funafuti
 dv_has_place_country: "[[../../Tuvalu]]"
 dv_Unknown: 32
 dv_is_:

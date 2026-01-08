@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: LITHUANIA
 dv_Telephone: 370
 dv_Global: true
 dv_Global_Name: World
-dv_name: Lithuania
+dv_has_name_: Lithuania
 dv_has_name_en: Lithuania
 dv_has_name_es: Lituania
 dv_has_name_fr: Lituanie

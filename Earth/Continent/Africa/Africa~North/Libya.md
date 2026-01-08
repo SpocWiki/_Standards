@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: LIBYA
 dv_Telephone: 218
 dv_Global: true
 dv_Global_Name: World
-dv_name: Libya
+dv_has_name_: Libya
 dv_has_name_en: Libya
 dv_has_name_es: Libia
 dv_has_name_fr: Libye

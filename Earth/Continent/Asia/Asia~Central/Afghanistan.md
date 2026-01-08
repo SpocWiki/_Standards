@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: AFGHANISTAN
 dv_Telephone: 93
 dv_Global: true
 dv_Global_Name: World
-dv_name: Afghanistan
+dv_has_name_: Afghanistan
 dv_has_name_en: Afghanistan
 dv_has_name_es: Afganistán
 dv_has_name_fr: Afghanistan

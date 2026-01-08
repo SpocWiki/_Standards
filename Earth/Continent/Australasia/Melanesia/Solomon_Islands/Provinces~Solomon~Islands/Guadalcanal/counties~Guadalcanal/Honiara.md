@@ -15,7 +15,7 @@ type: City
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 159.8167
 dv_has_place_latitude: -9.466666
-dv_name: Honiara
+dv_has_name_: Honiara
 dv_has_place_country: "[[../_0-New/Solomon~Islands]]"
 dv_is_:
   same_as:

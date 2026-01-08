@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: BANGLADESH
 dv_Telephone: 880
 dv_Global: true
 dv_Global_Name: World
-dv_name: Bangladesh
+dv_has_name_: Bangladesh
 dv_has_name_en: Bangladesh
 dv_has_name_es: Bangladesh
 dv_has_name_fr: Bangladesh

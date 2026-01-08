@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: EGYPT
 dv_Telephone: 20
 dv_Global: true
 dv_Global_Name: World
-dv_name: Egypt
+dv_has_name_: Egypt
 dv_has_name_en: Egypt
 dv_has_name_es: Egipto
 dv_has_name_fr: Égypte

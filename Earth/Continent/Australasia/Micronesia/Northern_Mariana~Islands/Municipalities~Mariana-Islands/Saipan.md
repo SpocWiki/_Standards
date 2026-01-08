@@ -35,7 +35,7 @@ type:
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 145.75
 dv_has_place_latitude: 15.18333
-dv_name: Saipan
+dv_has_name_: Saipan
 dv_has_place_country: "[[../../../Northern_Mariana~Islands]]"
 dv_is_:
   same_as:

@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: CROATIA
 dv_Telephone: 385
 dv_Global: true
 dv_Global_Name: World
-dv_name: Croatia
+dv_has_name_: Croatia
 dv_has_name_en: Croatia
 dv_has_name_es: Croacia
 dv_has_name_fr: Croatie

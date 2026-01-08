@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SINGAPORE
 dv_Telephone: 65
 dv_Global: true
 dv_Global_Name: World
-dv_name: Singapore
+dv_has_name_: Singapore
 dv_has_name_en: Singapore
 dv_has_name_es: Singapur
 dv_has_name_fr: Singapour

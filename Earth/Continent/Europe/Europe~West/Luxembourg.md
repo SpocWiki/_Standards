@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: LUXEMBOURG
 dv_Telephone: 352
 dv_Global: true
 dv_Global_Name: World
-dv_name: Luxembourg
+dv_has_name_: Luxembourg
 dv_has_name_en: Luxembourg
 dv_has_name_es: Luxemburgo
 dv_has_name_fr: Luxembourg

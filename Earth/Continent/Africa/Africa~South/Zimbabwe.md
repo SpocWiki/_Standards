@@ -351,7 +351,7 @@ dv_ISO4217-currency_country_name: ZIMBABWE
 dv_Telephone: 263
 dv_Global: true
 dv_Global_Name: World
-dv_name: Zimbabwe
+dv_has_name_: Zimbabwe
 dv_has_name_en: Zimbabwe
 dv_has_name_es: Zimbabwe
 dv_has_name_fr: Zimbabwe

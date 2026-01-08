@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: LEBANON
 dv_Telephone: 961
 dv_Global: true
 dv_Global_Name: World
-dv_name: Lebanon
+dv_has_name_: Lebanon
 dv_has_name_en: Lebanon
 dv_has_name_es: Líbano
 dv_has_name_fr: Liban

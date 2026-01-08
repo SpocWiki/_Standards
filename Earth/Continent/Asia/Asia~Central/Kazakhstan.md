@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: KAZAKHSTAN
 dv_Telephone: 7
 dv_Global: true
 dv_Global_Name: World
-dv_name: Kazakhstan
+dv_has_name_: Kazakhstan
 dv_has_name_en: Kazakhstan
 dv_has_name_es: Kazajstán
 dv_has_name_fr: Kazakhstan

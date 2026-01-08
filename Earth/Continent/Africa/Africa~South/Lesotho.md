@@ -307,7 +307,7 @@ dv_ISO4217-currency_country_name: LESOTHO
 dv_Telephone: 266
 dv_Global: true
 dv_Global_Name: World
-dv_name: Lesotho
+dv_has_name_: Lesotho
 dv_has_name_en: Lesotho
 dv_has_name_es: Lesotho
 dv_has_name_fr: Lesotho

@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: CYPRUS
 dv_Telephone: 357
 dv_Global: true
 dv_Global_Name: World
-dv_name: Cyprus
+dv_has_name_: Cyprus
 dv_has_name_en: Cyprus
 dv_has_name_es: Chipre
 dv_has_name_fr: Chypre

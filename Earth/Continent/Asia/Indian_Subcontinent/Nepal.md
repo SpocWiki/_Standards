@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: NEPAL
 dv_Telephone: 977
 dv_Global: true
 dv_Global_Name: World
-dv_name: Nepal
+dv_has_name_: Nepal
 dv_has_name_en: Nepal
 dv_has_name_es: Nepal
 dv_has_name_fr: Népal

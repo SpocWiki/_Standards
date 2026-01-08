@@ -17,7 +17,7 @@ tags:
 type: City
 dv_has_place_longitude: "{{x}}"
 dv_has_place_latitude: "{{y}}"
-dv_name: "{{City}}"
+dv_has_name_: "{{City}}"
 dv_has_place_province: "{{State}}]"
 dv_CountryId: "{{CountryId}}"
 dv_StateId: "{{StateId}}"

@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: MONGOLIA
 dv_Telephone: 976
 dv_Global: true
 dv_Global_Name: World
-dv_name: Mongolia
+dv_has_name_: Mongolia
 dv_has_name_en: Mongolia
 dv_has_name_es: Mongolia
 dv_has_name_fr: Mongolie

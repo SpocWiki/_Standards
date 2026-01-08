@@ -14,7 +14,7 @@ type: City
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 165.33
 dv_has_place_latitude: 11.58
-dv_name: Bikini
+dv_has_name_: Bikini
 dv_has_place_country: "[[../../../Marshall~Islands]]"
 dv_is_:
   same_as:

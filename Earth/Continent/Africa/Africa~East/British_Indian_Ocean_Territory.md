@@ -44,7 +44,7 @@ dv_ISO4217-currency_country_name: BRITISH INDIAN OCEAN TERRITORY
 dv_Telephone: 246
 dv_Global: true
 dv_Global_Name: World
-dv_name: British Indian Ocean Territory
+dv_has_name_: British Indian Ocean Territory
 dv_has_name_en:
   - British Indian Ocean Territory
   - British Indian Ocean Territory

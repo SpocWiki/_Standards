@@ -8,7 +8,7 @@ dv_ISO4217-currency_country_name: PAKISTAN
 dv_Telephone: 92
 dv_Global: true
 dv_Global_Name: World
-dv_name: Pakistan
+dv_has_name_: Pakistan
 dv_has_name_en: Pakistan
 dv_has_name_es: Pakistán
 dv_has_name_fr: Pakistan

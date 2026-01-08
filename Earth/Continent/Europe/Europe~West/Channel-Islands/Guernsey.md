@@ -39,7 +39,7 @@ dv_ISO4217-currency_country_name: GUERNSEY
 dv_Telephone: 44
 dv_Global: true
 dv_Global_Name: World
-dv_name: Guernsey
+dv_has_name_: Guernsey
 dv_has_name_en: Guernsey
 dv_has_name_es: Guernsey
 dv_has_name_fr: Guernesey

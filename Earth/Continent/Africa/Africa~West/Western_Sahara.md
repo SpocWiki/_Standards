@@ -136,7 +136,7 @@ dv_ISO4217-currency_country_name: WESTERN SAHARA
 dv_Telephone: 212
 dv_Global: true
 dv_Global_Name: World
-dv_name: Western Sahara
+dv_has_name_: Western Sahara
 dv_has_name_en:
   - Western Sahara
   - Western Sahara

@@ -1,5 +1,5 @@
 ---
-dv_name: Switzerland
+dv_has_name_: Switzerland
 dv_has_name_en: Switzerland
 dv_has_name_es: Suiza
 dv_has_name_fr: Suisse

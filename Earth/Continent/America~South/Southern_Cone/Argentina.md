@@ -416,7 +416,7 @@ dv_ISO4217-currency_country_name: ARGENTINA
 dv_Telephone: 54
 dv_Global: true
 dv_Global_Name: World
-dv_name: Argentina
+dv_has_name_: Argentina
 dv_has_name_en: Argentina
 dv_has_name_es: Argentina
 dv_has_name_fr: Argentine

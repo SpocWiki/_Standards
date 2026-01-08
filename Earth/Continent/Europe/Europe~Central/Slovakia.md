@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SLOVAKIA
 dv_Telephone: 421
 dv_Global: true
 dv_Global_Name: World
-dv_name: Slovakia
+dv_has_name_: Slovakia
 dv_has_name_en: Slovakia
 dv_has_name_es: Eslovaquia
 dv_has_name_fr: Slovaquie

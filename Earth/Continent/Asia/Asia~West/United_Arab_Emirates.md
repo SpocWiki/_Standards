@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: UNITED ARAB EMIRATES
 dv_Telephone: 971
 dv_Global: true
 dv_Global_Name: World
-dv_name: United Arab Emirates
+dv_has_name_: United Arab Emirates
 dv_has_name_en:
   - United Arab Emirates
   - United Arab Emirates

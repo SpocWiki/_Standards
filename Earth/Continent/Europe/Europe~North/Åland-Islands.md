@@ -41,7 +41,7 @@ dv_ISO4217-currency_country_name: ÅLAND ISLANDS
 dv_Telephone: 358
 dv_Global: true
 dv_Global_Name: World
-dv_name: Åland Islands
+dv_has_name_: Åland Islands
 dv_has_name_en:
   - Åland Islands
   - Åland

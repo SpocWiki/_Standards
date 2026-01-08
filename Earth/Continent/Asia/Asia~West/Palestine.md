@@ -4,7 +4,7 @@ dv_ISO4217-currency_country_name: PALESTINE, STATE OF
 dv_Telephone: 970
 dv_Global: true
 dv_Global_Name: World
-dv_name: Palestine
+dv_has_name_: Palestine
 dv_has_name_en: State of Palestine
 dv_has_name_es: Estado de Palestina
 dv_has_name_fr: État de Palestine

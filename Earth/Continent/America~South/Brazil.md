@@ -746,7 +746,7 @@ dv_has_:
     code_repository: https://github.com/SpocWiki/America-Brazil
 dv_Global: true
 dv_Global_Name: World
-dv_name: Brazil
+dv_has_name_: Brazil
 dv_has_name_en: Brazil
 dv_has_name_es: Brasil
 dv_has_name_fr: Brésil

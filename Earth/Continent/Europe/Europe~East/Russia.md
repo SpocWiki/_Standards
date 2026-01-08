@@ -17,7 +17,7 @@ dv_ISO4217-currency_minor_unit: 2
 dv_ISO4217-currency_country_name: RUSSIAN FEDERATION
 dv_Global: true
 dv_Global_Name: World
-dv_name: Russia
+dv_has_name_: Russia
 dv_has_name_en:
   - Russian Federation
   - Russia

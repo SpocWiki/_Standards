@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SLOVENIA
 dv_Telephone: 386
 dv_Global: true
 dv_Global_Name: World
-dv_name: Slovenia
+dv_has_name_: Slovenia
 dv_has_name_en: Slovenia
 dv_has_name_es: Eslovenia
 dv_has_name_fr: Slovénie

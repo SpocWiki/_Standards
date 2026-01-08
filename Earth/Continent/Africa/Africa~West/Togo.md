@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: TOGO
 dv_Telephone: 228
 dv_Global: true
 dv_Global_Name: World
-dv_name: Togo
+dv_has_name_: Togo
 dv_has_name_en: Togo
 dv_has_name_es: Togo
 dv_has_name_fr: Togo

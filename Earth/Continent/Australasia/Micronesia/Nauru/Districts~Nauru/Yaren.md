@@ -35,7 +35,7 @@ type:
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 166.9208
 dv_has_place_latitude: -0.5477778
-dv_name: Yaren
+dv_has_name_: Yaren
 dv_has_place_country: "[[../../Nauru]]"
 dv_is_:
   same_as:

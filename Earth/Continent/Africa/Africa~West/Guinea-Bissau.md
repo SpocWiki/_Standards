@@ -296,7 +296,7 @@ dv_ISO4217-currency_country_name: GUINEA-BISSAU
 dv_Telephone: 245
 dv_Global: true
 dv_Global_Name: World
-dv_name: Guinea-Bissau
+dv_has_name_: Guinea-Bissau
 dv_has_name_en:
   - Guinea-Bissau
   - Guinea-Bissau

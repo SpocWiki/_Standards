@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: ETHIOPIA
 dv_Telephone: 251
 dv_Global: true
 dv_Global_Name: World
-dv_name: Ethiopia
+dv_has_name_: Ethiopia
 dv_has_name_en: Ethiopia
 dv_has_name_es: Etiopía
 dv_has_name_fr: Éthiopie

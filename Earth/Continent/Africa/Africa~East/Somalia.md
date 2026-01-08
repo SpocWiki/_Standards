@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SOMALIA
 dv_Telephone: 252
 dv_Global: true
 dv_Global_Name: World
-dv_name: Somalia
+dv_has_name_: Somalia
 dv_has_name_en: Somalia
 dv_has_name_es: Somalia
 dv_has_name_fr: Somalie

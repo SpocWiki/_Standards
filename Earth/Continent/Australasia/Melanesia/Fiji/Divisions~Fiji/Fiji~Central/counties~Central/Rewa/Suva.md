@@ -57,7 +57,7 @@ demonym:
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 178.45
 dv_has_place_latitude: -18.16667
-dv_name: Suva
+dv_has_name_: Suva
 dv_Unknown: 32
 dv_is_:
   same_as:

@@ -354,7 +354,7 @@ dv_ISO4217-currency_country_name: GABON
 dv_Telephone: 241
 dv_Global: true
 dv_Global_Name: World
-dv_name: Gabon
+dv_has_name_: Gabon
 dv_has_name_de: Gabun
 dv_has_name_en: Gabon
 dv_has_name_es: Gabón

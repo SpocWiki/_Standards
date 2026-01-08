@@ -356,7 +356,7 @@ dv_ISO4217-currency_country_name: GUINEA
 dv_Telephone: 224
 dv_Global: true
 dv_Global_Name: World
-dv_name: Guinea
+dv_has_name_: Guinea
 dv_has_name_en: Guinea
 dv_has_name_es: Guinea
 dv_has_name_fr: Guinée

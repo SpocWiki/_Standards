@@ -17,7 +17,7 @@ type: City
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.95
 dv_has_place_latitude: 60.1
-dv_name: Maarianhamina
+dv_has_name_: Maarianhamina
 dv_has_place_country: "[[../../../../../Finland]]"
 dv_is_:
   same_as:

@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: MALTA
 dv_Telephone: 356
 dv_Global: true
 dv_Global_Name: World
-dv_name: Malta
+dv_has_name_: Malta
 dv_has_name_en: Malta
 dv_has_name_es: Malta
 dv_has_name_fr: Malte

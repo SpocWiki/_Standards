@@ -40,7 +40,7 @@ dv_ISO4217-currency_country_name: MADAGASCAR
 dv_Telephone: 261
 dv_Global: true
 dv_Global_Name: World
-dv_name: Madagascar
+dv_has_name_: Madagascar
 dv_has_name_en: Madagascar
 dv_has_name_es: Madagascar
 dv_has_name_fr: Madagascar

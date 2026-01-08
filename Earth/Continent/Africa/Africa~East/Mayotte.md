@@ -41,7 +41,7 @@ dv_ISO4217-currency_country_name: MAYOTTE
 dv_Telephone: 262
 dv_Global: true
 dv_Global_Name: World
-dv_name: Mayotte
+dv_has_name_: Mayotte
 dv_has_name_en: Mayotte
 dv_has_name_es: Mayotte
 dv_has_name_fr: Mayotte

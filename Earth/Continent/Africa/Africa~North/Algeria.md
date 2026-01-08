@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: ALGERIA
 dv_Telephone: 213
 dv_Global: true
 dv_Global_Name: World
-dv_name: Algeria
+dv_has_name_: Algeria
 dv_has_name_en: Algeria
 dv_has_name_es: Argelia
 dv_has_name_fr: Algérie

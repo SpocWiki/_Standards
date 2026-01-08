@@ -846,7 +846,7 @@ dv_ISO4217-currency_country_name: MEXICO
 dv_Telephone: 52
 dv_Global: true
 dv_Global_Name: World
-dv_name: Mexico
+dv_has_name_: Mexico
 dv_has_name_en: Mexico
 dv_has_name_es: México
 dv_has_name_fr: Mexique

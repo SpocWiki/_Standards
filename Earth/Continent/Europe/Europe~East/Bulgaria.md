@@ -16,7 +16,7 @@ dv_ISO4217-currency_country_name: BULGARIA
 dv_Telephone: 359
 dv_Global: true
 dv_Global_Name: World
-dv_name: Bulgaria
+dv_has_name_: Bulgaria
 dv_has_name_en: Bulgaria
 dv_has_name_es: Bulgaria
 dv_has_name_fr: Bulgarie

@@ -438,7 +438,7 @@ dv_ISO4217-currency_country_name: MOROCCO
 dv_Telephone: 212
 dv_Global: true
 dv_Global_Name: World
-dv_name: Morocco
+dv_has_name_: Morocco
 dv_has_name_en: Morocco
 dv_has_name_es: Marruecos
 dv_has_name_fr: Maroc

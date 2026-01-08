@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: BENIN
 dv_Telephone: 229
 dv_Global: true
 dv_Global_Name: World
-dv_name: Benin
+dv_has_name_: Benin
 dv_has_name_en: Benin
 dv_has_name_es: Benin
 dv_has_name_fr: Bénin

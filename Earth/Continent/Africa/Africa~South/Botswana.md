@@ -346,7 +346,7 @@ dv_ISO4217-currency_country_name: BOTSWANA
 dv_Telephone: 267
 dv_Global: true
 dv_Global_Name: World
-dv_name: Botswana
+dv_has_name_: Botswana
 dv_has_name_en: Botswana
 dv_has_name_es: Botswana
 dv_has_name_fr: Botswana

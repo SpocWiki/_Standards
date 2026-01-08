@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: MOLDOVA (THE REPUBLIC OF)
 dv_Telephone: 373
 dv_Global: true
 dv_Global_Name: World
-dv_name: Moldova
+dv_has_name_: Moldova
 dv_has_name_en:
   - Republic of Moldova
   - Moldova

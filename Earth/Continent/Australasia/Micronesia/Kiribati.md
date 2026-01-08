@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: KIRIBATI
 dv_Telephone: 686
 dv_Global: true
 dv_Global_Name: World
-dv_name: Kiribati
+dv_has_name_: Kiribati
 dv_has_name_en: Kiribati
 dv_has_name_es: Kiribati
 dv_has_name_fr: Kiribati

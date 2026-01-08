@@ -42,7 +42,7 @@ dv_ISO4217-currency_country_name: SAN MARINO
 dv_Telephone: 378
 dv_Global: true
 dv_Global_Name: World
-dv_name: San Marino
+dv_has_name_: San Marino
 dv_has_name_en:
   - San Marino
   - San Marino

@@ -289,7 +289,7 @@ dv_ISO4217-currency_country_name: BELIZE
 dv_Telephone: 501
 dv_Global: true
 dv_Global_Name: World
-dv_name: Belize
+dv_has_name_: Belize
 dv_has_name_en: Belize
 dv_has_name_es: Belice
 dv_has_name_fr: Belize

@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: HUNGARY
 dv_Telephone: 36
 dv_Global: true
 dv_Global_Name: World
-dv_name: Hungary
+dv_has_name_: Hungary
 dv_has_name_en: Hungary
 dv_has_name_es: Hungría
 dv_has_name_fr: Hongrie

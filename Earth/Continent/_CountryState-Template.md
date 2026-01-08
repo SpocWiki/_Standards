@@ -11,7 +11,7 @@ publish: true
 tags:
   - geo/State
 type: State
-dv_name: "{{State}}"
+dv_has_name_: "{{State}}"
 dv_has_name_abbr: "{{StateAbbr}}"
 dv_CountryId: "{{CountryId}}"
 dv_CapitalId: "{{CapitalId}}"

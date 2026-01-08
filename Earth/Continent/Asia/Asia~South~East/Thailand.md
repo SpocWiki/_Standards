@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: THAILAND
 dv_Telephone: 66
 dv_Global: true
 dv_Global_Name: World
-dv_name: Thailand
+dv_has_name_: Thailand
 dv_has_name_en: Thailand
 dv_has_name_es: Tailandia
 dv_has_name_fr: Thaïlande

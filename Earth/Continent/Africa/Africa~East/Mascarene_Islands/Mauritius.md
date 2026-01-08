@@ -350,7 +350,7 @@ dv_ISO4217-currency_country_name: MAURITIUS
 dv_Telephone: 230
 dv_Global: true
 dv_Global_Name: World
-dv_name: Mauritius
+dv_has_name_: Mauritius
 dv_has_name_en: Mauritius
 dv_has_name_es: Mauricio
 dv_has_name_fr: Maurice

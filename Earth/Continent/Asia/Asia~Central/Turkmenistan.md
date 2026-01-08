@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: TURKMENISTAN
 dv_Telephone: 993
 dv_Global: true
 dv_Global_Name: World
-dv_name: Turkmenistan
+dv_has_name_: Turkmenistan
 dv_has_name_en: Turkmenistan
 dv_has_name_es: Turkmenistán
 dv_has_name_fr: Turkménistan

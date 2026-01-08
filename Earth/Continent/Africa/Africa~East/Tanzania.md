@@ -471,7 +471,7 @@ dv_ISO4217-currency_country_name: TANZANIA, UNITED REPUBLIC OF
 dv_Telephone: 255
 dv_Global: true
 dv_Global_Name: World
-dv_name: Tanzania
+dv_has_name_: Tanzania
 dv_has_name_en:
   - United Republic of Tanzania
   - Tanzania

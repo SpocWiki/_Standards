@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: LAO PEOPLE’S DEMOCRATIC REPUBLIC
 dv_Telephone: 856
 dv_Global: true
 dv_Global_Name: World
-dv_name: Laos
+dv_has_name_: Laos
 dv_has_name_en:
   - Lao People's Democratic Republic
   - Laos

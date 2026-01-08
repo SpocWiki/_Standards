@@ -254,7 +254,7 @@ dv_ISO4217-currency_country_name: NAURU
 dv_Telephone: 674
 dv_Global: true
 dv_Global_Name: World
-dv_name: Nauru
+dv_has_name_: Nauru
 dv_has_name_en: Nauru
 dv_has_name_es: Nauru
 dv_has_name_fr: Nauru

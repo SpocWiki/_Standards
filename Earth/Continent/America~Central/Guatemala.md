@@ -387,7 +387,7 @@ dv_ISO4217-currency_country_name: GUATEMALA
 dv_Telephone: 502
 dv_Global: true
 dv_Global_Name: World
-dv_name: Guatemala
+dv_has_name_: Guatemala
 dv_has_name_en: Guatemala
 dv_has_name_es: Guatemala
 dv_has_name_fr: Guatemala

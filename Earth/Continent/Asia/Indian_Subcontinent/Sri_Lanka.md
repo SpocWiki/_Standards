@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SRI LANKA
 dv_Telephone: 94
 dv_Global: true
 dv_Global_Name: World
-dv_name: Sri Lanka
+dv_has_name_: Sri Lanka
 dv_has_name_en:
   - Sri Lanka
   - Sri Lanka

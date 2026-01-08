@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: MONTENEGRO
 dv_Telephone: 382
 dv_Global: true
 dv_Global_Name: World
-dv_name: Montenegro
+dv_has_name_: Montenegro
 dv_has_name_en: Montenegro
 dv_has_name_es: Montenegro
 dv_has_name_fr: Monténégro

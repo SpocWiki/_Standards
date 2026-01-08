@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: 172.9667
 dv_has_place_latitude: 1.4
-dv_name: South Tarawa
+dv_has_name_: South Tarawa
 dv_Country: "[[../../Polynesia/Kiribati]]]"
 dv_is_:
   same_as:

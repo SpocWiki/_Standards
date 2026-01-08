@@ -41,7 +41,7 @@ dv_ISO4217-currency_country_name: MYANMAR
 dv_Telephone: 95
 dv_Global: true
 dv_Global_Name: World
-dv_name: Myanmar
+dv_has_name_: Myanmar
 dv_has_name_en: Myanmar
 dv_has_name_es: Myanmar
 dv_has_name_fr: Myanmar

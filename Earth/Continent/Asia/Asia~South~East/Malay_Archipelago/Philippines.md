@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: PHILIPPINES
 dv_Telephone: 63
 dv_Global: true
 dv_Global_Name: World
-dv_name: Philippines
+dv_has_name_: Philippines
 dv_has_name_en: Philippines
 dv_has_name_es: Filipinas
 dv_has_name_fr: Philippines

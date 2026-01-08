@@ -39,7 +39,7 @@ dv_ISO4217-currency_country_name: VIRGIN ISLANDS (U.S.)
 dv_Telephone: 1-340
 dv_Global: true
 dv_Global_Name: World
-dv_name: U.S. Virgin Islands
+dv_has_name_: U.S. Virgin Islands
 dv_has_name_en:
   - United States Virgin Islands
   - Virgin Islands (U.S.)

@@ -322,7 +322,7 @@ dv_ISO4217-currency_country_name: SIERRA LEONE
 dv_Telephone: 232
 dv_Global: true
 dv_Global_Name: World
-dv_name: Sierra Leone
+dv_has_name_: Sierra Leone
 dv_has_name_en:
   - Sierra Leone
   - Sierra Leone

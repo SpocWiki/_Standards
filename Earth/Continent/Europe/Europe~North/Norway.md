@@ -21,7 +21,7 @@ dv_ISO4217-currency_country_name: NORWAY
 dv_Telephone: 47
 dv_Global: true
 dv_Global_Name: World
-dv_name: Norway
+dv_has_name_: Norway
 dv_has_name_en: Norway
 dv_has_name_es: Noruega
 dv_has_name_fr: Norvège

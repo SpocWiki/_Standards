@@ -25,7 +25,7 @@ dv_ISO4217-currency_country_name: SWEDEN
 dv_Telephone: 46
 dv_Global: true
 dv_Global_Name: World
-dv_name: Sweden
+dv_has_name_: Sweden
 dv_has_name_en: Sweden
 dv_has_name_es: Suecia
 dv_has_name_fr: Suède

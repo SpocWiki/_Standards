@@ -301,7 +301,7 @@ dv_ISO4217-currency_country_name: GUYANA
 dv_Telephone: 592
 dv_Global: true
 dv_Global_Name: World
-dv_name: Guyana
+dv_has_name_: Guyana
 dv_has_name_en: Guyana
 dv_has_name_es: Guyana
 dv_has_name_fr: Guyana

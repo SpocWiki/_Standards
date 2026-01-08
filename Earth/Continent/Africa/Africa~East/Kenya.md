@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: KENYA
 dv_Telephone: 254
 dv_Global: true
 dv_Global_Name: World
-dv_name: Kenya
+dv_has_name_: Kenya
 dv_has_name_en: Kenya
 dv_has_name_es: Kenya
 dv_has_name_fr: Kenya

@@ -20,7 +20,7 @@ dv_ISO4217-currency_country_name: LIECHTENSTEIN
 dv_Telephone: 423
 dv_Global: true
 dv_Global_Name: World
-dv_name: Liechtenstein
+dv_has_name_: Liechtenstein
 dv_has_name_en: Liechtenstein
 dv_has_name_es: Liechtenstein
 dv_has_name_fr: Liechtenstein

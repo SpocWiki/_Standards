@@ -327,7 +327,7 @@ dv_ISO4217-currency_country_name: BURUNDI
 dv_Telephone: 257
 dv_Global: true
 dv_Global_Name: World
-dv_name: Burundi
+dv_has_name_: Burundi
 dv_has_name_en: Burundi
 dv_has_name_es: Burundi
 dv_has_name_fr: Burundi

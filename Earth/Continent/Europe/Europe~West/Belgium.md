@@ -1,5 +1,5 @@
 ---
-dv_name: Belgium
+dv_has_name_: Belgium
 dv_has_name_en: Belgium
 dv_has_name_es: Bélgica
 dv_has_name_fr: Belgique
