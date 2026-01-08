@@ -38,9 +38,9 @@ official_name: Octans
 
 [SpocWebEntityId::28140]
 
-[#has_\name_\la::Octans] 
-[#has_\name_\la_\genitive::Octantis]
-[#has_\name_\de::Oktant]
+[#has_/name_/la::Octans] 
+[#has_/name_/la_/genitive::Octantis]
+[#has_/name_/de::Oktant]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Octans,10503]] 
 

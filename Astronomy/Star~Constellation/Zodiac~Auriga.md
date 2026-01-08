@@ -45,9 +45,9 @@ official_name: Auriga
 
 [SpocWebEntityId::28090] 
 
-[#has_\name_\la::Auriga]
-[#has_\name_\la_\genitive::Aurigae]
-[#has_\name_\de::Fuhrmann]
+[#has_/name_/la::Auriga]
+[#has_/name_/la_/genitive::Aurigae]
+[#has_/name_/de::Fuhrmann]
 
 #is_/same_as :: [[../../WikiData/WD~Auriga,10476|WD~Auriga,10476]] 
 

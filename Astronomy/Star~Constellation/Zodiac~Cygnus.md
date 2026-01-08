@@ -46,9 +46,9 @@ short_name: Cyg
 
 [SpocWebEntityId::28113]
 
-[#has_\name_\la::Cygnus]
-[#has_\name_\la_\genitive::Cygni]
-[#has_\name_\de::Schwan]
+[#has_/name_/la::Cygnus]
+[#has_/name_/la_/genitive::Cygni]
+[#has_/name_/de::Schwan]
 
 #is_/same_as :: [[../../WikiData/WD~Cygnus,8921|WD~Cygnus,8921]] 
 

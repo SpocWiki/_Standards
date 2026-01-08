@@ -40,9 +40,9 @@ official_name: Pictor
 
 [SpocWebEntityId::28147]
 
-[#has_\name_\la::Pictor]
-[#has_\name_\la_\genitive::Pictoris]
-[#has_\name_\de::Maler]
+[#has_/name_/la::Pictor]
+[#has_/name_/la_/genitive::Pictoris]
+[#has_/name_/de::Maler]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Pictor,10486]] 
 

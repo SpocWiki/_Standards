@@ -46,9 +46,9 @@ short_name: Psc
 
 [SpocWebEntityId::28148]
 
-[#has_\name_\la::Pisces]
-[#has_\name_\la_\genitive::Piscium]
-[#has_\name_\de::Fische]
+[#has_/name_/la::Pisces]
+[#has_/name_/la_/genitive::Piscium]
+[#has_/name_/de::Fische]
 
 #is_/same_as :: [[../../WikiData/WD~Pisces,8679|WD~Pisces,8679]] 
 

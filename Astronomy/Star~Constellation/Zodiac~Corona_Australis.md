@@ -39,9 +39,9 @@ short_name: CrA
 
 [SpocWebEntityId::28108]
 
-[#has_\name_\la::Corona Australis]
-[#has_\name_\la_\genitive::Coronae Australis]
-[#has_\name_\de::Suedliche Krone]
+[#has_/name_/la::Corona Australis]
+[#has_/name_/la_/genitive::Coronae Australis]
+[#has_/name_/de::Suedliche Krone]
 
 #is_/same_as :: [[../../WikiData/WD~Corona_Australis,10413|WD~Corona_Australis,10413]] 
 

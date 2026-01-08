@@ -44,9 +44,9 @@ short_name: Peg
 
 [SpocWebEntityId::28144]
 
-[#has_\name_\la::Pegasus]
-[#has_\name_\la_\genitive::Pegasi]
-[#has_\name_\de::Pegasus]
+[#has_/name_/la::Pegasus]
+[#has_/name_/la_/genitive::Pegasi]
+[#has_/name_/de::Pegasus]
 
 #is_/same_as :: [[../../WikiData/WD~Pegasus,8864|WD~Pegasus,8864]] 
 

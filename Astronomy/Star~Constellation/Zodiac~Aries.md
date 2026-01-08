@@ -48,9 +48,9 @@ official_name: Aries
 
 [SpocWebEntityId::28089] 
 
-[#has_\name_\la::Aries]
-[#has_\name_\la_\genitive::Arietis]
-[#has_\name_\de::Widder]
+[#has_/name_/la::Aries]
+[#has_/name_/la_/genitive::Arietis]
+[#has_/name_/de::Widder]
 
 #is_/same_as :: [[../../WikiData/WD~Aries,10584|WD~Aries,10584]] 
 

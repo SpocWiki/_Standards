@@ -37,9 +37,9 @@ official_name: Reticulum
 
 [SpocWebEntityId::28152]
 
-[#has_\name_\la::Reticulum]
-[#has_\name_\la_\genitive::Reticuli] 
-[#has_\name_\de::Netz]
+[#has_/name_/la::Reticulum]
+[#has_/name_/la_/genitive::Reticuli] 
+[#has_/name_/de::Netz]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Reticulum,10498]] 
 

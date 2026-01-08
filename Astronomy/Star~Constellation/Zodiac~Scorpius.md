@@ -51,9 +51,9 @@ official_name: Scorpius
 
 [SpocWebEntityId::28155]
 
-[#has_\name_\la::Scorpius]
-[#has_\name_\la_\genitive::Scorpii]
-[#has_\name_\de::Skorpion]
+[#has_/name_/la::Scorpius]
+[#has_/name_/la_/genitive::Scorpii]
+[#has_/name_/de::Skorpion]
 
 #is_/same_as :: [[../../WikiData/WD~Scorpius,8865|WD~Scorpius,8865]] 
 

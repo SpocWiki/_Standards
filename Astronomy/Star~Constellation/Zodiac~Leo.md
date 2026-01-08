@@ -67,9 +67,9 @@ Baidu_Tieba_name: 狮子座
 
 [SpocWebEntityId::28128]
 
-[#has_\name_\la::Leo]
-[#has_\name_\la_\genitive::Leonis]
-[#has_\name_\de::Loewe]
+[#has_/name_/la::Leo]
+[#has_/name_/la_/genitive::Leonis]
+[#has_/name_/de::Loewe]
 
 #is_/same_as :: [[../../WikiData/WD~Leo,8853|WD~Leo,8853]] 
 

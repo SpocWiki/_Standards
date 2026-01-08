@@ -39,9 +39,9 @@ official_name: Pyxis
 
 [SpocWebEntityId::28151]
 
-[#has_\name_\la::Pyxis]
-[#has_\name_\la_\genitive::Pyxidis]
-[#has_\name_\de::Schiffskompass]
+[#has_/name_/la::Pyxis]
+[#has_/name_/la_/genitive::Pyxidis]
+[#has_/name_/de::Schiffskompass]
 
 #is_/same_as :: [[../../WikiData/WD~Pyxis,10473|WD~Pyxis,10473]] 
 

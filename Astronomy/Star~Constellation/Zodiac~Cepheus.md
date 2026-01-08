@@ -38,9 +38,9 @@ short_name: Cep
 
 [SpocWebEntityId::28102]
 
-[#has_\name_\la::Cepheus]
-[#has_\name_\la_\genitive::Cephei]
-[#has_\name_\de::Kepheus]
+[#has_/name_/la::Cepheus]
+[#has_/name_/la_/genitive::Cephei]
+[#has_/name_/de::Kepheus]
 
 #is_/same_as :: [[../../WikiData/WD~Cepheus,10468|WD~Cepheus,10468]] 
 

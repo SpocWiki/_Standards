@@ -43,9 +43,9 @@ official_name: Perseus
 
 [SpocWebEntityId::28145]
 
-[#has_\name_\la::Perseus]
-[#has_\name_\la_\genitive::Persei]
-[#has_\name_\de::Perseus]
+[#has_/name_/la::Perseus]
+[#has_/name_/la_/genitive::Persei]
+[#has_/name_/de::Perseus]
 
 #is_/same_as :: [[../../WikiData/WD~Perseus,10511|WD~Perseus,10511]] 
 

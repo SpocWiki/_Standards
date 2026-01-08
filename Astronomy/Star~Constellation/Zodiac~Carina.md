@@ -46,9 +46,9 @@ official_name: Carina
 
 [SpocWebEntityId::28099] 
 
-[#has_\name_\la::Carina] 
-[#has_\name_\la_\genitive::Carinae] 
-[#has_\name_\de::Schiffskiel] 
+[#has_/name_/la::Carina] 
+[#has_/name_/la_/genitive::Carinae] 
+[#has_/name_/de::Schiffskiel] 
 
 #is_/same_as :: [[../../WikiData/WD~Carina,10470|WD~Carina,10470]] 
 

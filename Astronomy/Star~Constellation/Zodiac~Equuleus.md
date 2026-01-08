@@ -41,9 +41,9 @@ official_name: Equuleus
 
 [SpocWebEntityId::28117]
 
-[#has_\name_\la::Equuleus]
-[#has_\name_\la_\genitive::Equulei]
-[#has_\name_\de::Fuellen]
+[#has_/name_/la::Equuleus]
+[#has_/name_/la_/genitive::Equulei]
+[#has_/name_/de::Fuellen]
 
 #is_/same_as :: [[../../WikiData/WD~Equuleus,10438|WD~Equuleus,10438]] 
 

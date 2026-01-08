@@ -41,9 +41,9 @@ time_of_discovery_or_invention: 1684-01-01T00:00:00Z
 
 [SpocWebEntityId::28157]
 
-[#has_\name_\la::Scutum]
-[#has_\name_\la_\genitive::Scuti]
-[#has_\name_\de::Schild]
+[#has_/name_/la::Scutum]
+[#has_/name_/la_/genitive::Scuti]
+[#has_/name_/de::Schild]
 
 #is_/same_as :: [[../../WikiData/WD~Scutum,10529|WD~Scutum,10529]] 
 

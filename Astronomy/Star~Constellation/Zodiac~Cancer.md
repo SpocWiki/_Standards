@@ -45,9 +45,9 @@ short_name: Cnc
 
 [SpocWebEntityId::28094]
 
-[#has_\name_\la::Cancer]
-[#has_\name_\la_\genitive::Cancri]
-[#has_\name_\de::Krebs]
+[#has_/name_/la::Cancer]
+[#has_/name_/la_/genitive::Cancri]
+[#has_/name_/de::Krebs]
 
 #is_/same_as :: [[../../WikiData/WD~Cancer,8849|WD~Cancer,8849]] 
 

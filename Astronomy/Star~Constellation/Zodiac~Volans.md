@@ -43,9 +43,9 @@ official_name: Volans
 
 [SpocWebEntityId::28169]
 
-[#has_\name_\la::Volans]
-[#has_\name_\la_\genitive::Volantis]
-[#has_\name_\de::Fliegender Fisch]
+[#has_/name_/la::Volans]
+[#has_/name_/la_/genitive::Volantis]
+[#has_/name_/de::Fliegender Fisch]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Volans,10437]] 
 

@@ -39,9 +39,9 @@ official_name: Caelum
 
 [SpocWebEntityId::28092]
 
-[#has_\name_\la::Caelum]
-[#has_\name_\la_\genitive::Caeli]
-[#has_\name_\de::Grabstichel]
+[#has_/name_/la::Caelum]
+[#has_/name_/la_/genitive::Caeli]
+[#has_/name_/de::Grabstichel]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Caelum,10488]] 
 

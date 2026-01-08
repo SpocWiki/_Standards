@@ -41,9 +41,9 @@ short_name: Sge
 
 [SpocWebEntityId::28153]
 
-[#has_\name_\la::Sagitta]
-[#has_\name_\la_\genitive::Sagittae]
-[#has_\name_\de::Pfeil]
+[#has_/name_/la::Sagitta]
+[#has_/name_/la_/genitive::Sagittae]
+[#has_/name_/de::Pfeil]
 
 #is_/same_as :: [[../../WikiData/WD~Sagitta,10513|WD~Sagitta,10513]] 
 

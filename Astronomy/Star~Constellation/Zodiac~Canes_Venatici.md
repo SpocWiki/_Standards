@@ -49,9 +49,9 @@ short_name: CVn
 
 [SpocWebEntityId::28095]
 
-[#has_\name_\la::Canes Venatici]
-[#has_\name_\la_\genitive::Canum Venaticorum]
-[#has_\name_\de::Jagdhunde]
+[#has_/name_/la::Canes Venatici]
+[#has_/name_/la_/genitive::Canum Venaticorum]
+[#has_/name_/de::Jagdhunde]
 
 #is_/same_as :: [[../../WikiData/WD~Canes_Venatici,10452|WD~Canes_Venatici,10452]] 
 

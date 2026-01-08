@@ -62,9 +62,9 @@ official_name: Ursa Minor
 
 [SpocWebEntityId::28166]
 
-[#has_\name_\la::Ursa Minor]
-[#has_\name_\la_\genitive::Ursae Minoris]
-[#has_\name_\de::Kleiner Baer]
+[#has_/name_/la::Ursa Minor]
+[#has_/name_/la_/genitive::Ursae Minoris]
+[#has_/name_/de::Kleiner Baer]
 
 #is_/same_as :: [[../../WikiData/WD~Ursa_Minor,10478|WD~Ursa_Minor,10478]] 
 

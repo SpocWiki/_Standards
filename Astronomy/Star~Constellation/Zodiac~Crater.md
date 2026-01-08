@@ -37,9 +37,9 @@ short_name: Crt
 
 [SpocWebEntityId::28111]
 
-[#has_\name_\la::Crater]
-[#has_\name_\la_\genitive::Crateris]
-[#has_\name_\de::Becher]
+[#has_/name_/la::Crater]
+[#has_/name_/la_/genitive::Crateris]
+[#has_/name_/de::Becher]
 
 #is_/same_as :: [[../../WikiData/WD~Crater,9282|WD~Crater,9282]] 
 

@@ -34,9 +34,9 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Forn
 
 [SpocWebEntityId::28119]
 
-[#has_\name_\la::Fornax]
-[#has_\name_\la_\genitive::Fornacis]
-[#has_\name_\de::Chemischer Ofen]
+[#has_/name_/la::Fornax]
+[#has_/name_/la_/genitive::Fornacis]
+[#has_/name_/de::Chemischer Ofen]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Fornax,8913]] 
 

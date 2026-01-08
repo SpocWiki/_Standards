@@ -49,9 +49,9 @@ short_name: Cet
 
 [SpocWebEntityId::28103]
 
-[#has_\name_\la::Cetus]
-[#has_\name_\la_\genitive::Ceti]
-[#has_\name_\de::Walfisch]
+[#has_/name_/la::Cetus]
+[#has_/name_/la_/genitive::Ceti]
+[#has_/name_/de::Walfisch]
 
 #is_/same_as :: [[../../WikiData/WD~Cetus,8839|WD~Cetus,8839]] 
 

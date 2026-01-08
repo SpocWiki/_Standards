@@ -46,9 +46,9 @@ short_name: CMa
 
 [SpocWebEntityId::28096] 
 
-[#has_\name_\la::Canis Major] 
-[#has_\name_\la_\genitive::Canis Majoris] 
-[#has_\name_\de::Grosser Hund] 
+[#has_/name_/la::Canis Major] 
+[#has_/name_/la_/genitive::Canis Majoris] 
+[#has_/name_/de::Grosser Hund] 
 
 #is_/same_as :: [[../../WikiData/WD~Canis_Major,10538|WD~Canis_Major,10538]] 
 

@@ -61,9 +61,9 @@ short_name: Her
 
 [SpocWebEntityId::28122]
 
-[#has_\name_\la::Hercules]
-[#has_\name_\la_\genitive::Herculis]
-[#has_\name_\de::Herkules]
+[#has_/name_/la::Hercules]
+[#has_/name_/la_/genitive::Herculis]
+[#has_/name_/de::Herkules]
 
 #is_/same_as :: [[../../WikiData/WD~Hercules,10448|WD~Hercules,10448]] 
 

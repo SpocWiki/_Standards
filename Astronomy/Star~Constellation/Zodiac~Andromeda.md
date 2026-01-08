@@ -47,9 +47,9 @@ P8189: 987007551838705171
 
 [SpocWebEntityId::28083]
 
-[#has_\name_\la::Andromeda]
-[#has_\name_\la_\genitive::Andromedae]
-[#has_\name_\de::Andromeda]
+[#has_/name_/la::Andromeda]
+[#has_/name_/la_/genitive::Andromedae]
+[#has_/name_/de::Andromeda]
 
 #is_/same_as :: [[../../WikiData/WD~Andromeda,9256|WD~Andromeda,9256]]
 

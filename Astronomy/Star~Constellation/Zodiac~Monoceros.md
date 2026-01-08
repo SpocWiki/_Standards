@@ -44,9 +44,9 @@ official_name: Monoceros
 
 [SpocWebEntityId::28137]
 
-[#has_\name_\la::Monoceros]
-[#has_\name_\la_\genitive::Monocerotis]
-[#has_\name_\de::Einhorn]
+[#has_/name_/la::Monoceros]
+[#has_/name_/la_/genitive::Monocerotis]
+[#has_/name_/de::Einhorn]
 
 
 #is_/same_as :: [[../../WikiData/WD~Monoceros,10428|WD~Monoceros,10428]] 

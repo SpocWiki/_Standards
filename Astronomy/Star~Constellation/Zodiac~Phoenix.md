@@ -41,9 +41,9 @@ official_name: Phoenix
 
 [SpocWebEntityId::28146]
 
-[#has_\name_\la::Phoenix]
-[#has_\name_\la_\genitive::Phoenicis]
-[#has_\name_\de::Phoenix]
+[#has_/name_/la::Phoenix]
+[#has_/name_/la_/genitive::Phoenicis]
+[#has_/name_/de::Phoenix]
 
 
 ## Confidential Links & Embeds: 

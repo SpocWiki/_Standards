@@ -48,9 +48,9 @@ short_name: Hya
 
 [SpocWebEntityId::28124]
 
-[#has_\name_\la::Hydra]
-[#has_\name_\la_\genitive::Hydrae]
-[#has_\name_\de::Wasserschlange]
+[#has_/name_/la::Hydra]
+[#has_/name_/la_/genitive::Hydrae]
+[#has_/name_/de::Wasserschlange]
 
 #is_/same_as :: [[WD~Hydra,10578]] 
 

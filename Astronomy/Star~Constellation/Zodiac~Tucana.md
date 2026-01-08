@@ -38,9 +38,9 @@ official_name: Tucana
 
 [SpocWebEntityId::28164]
 
-[#has_\name_\la::Tucana]
-[#has_\name_\la_\genitive::Tucanae]
-[#has_\name_\de::Tukan]
+[#has_/name_/la::Tucana]
+[#has_/name_/la_/genitive::Tucanae]
+[#has_/name_/de::Tukan]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Tucana,10567]] 
 

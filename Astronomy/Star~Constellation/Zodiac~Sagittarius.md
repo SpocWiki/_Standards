@@ -57,9 +57,9 @@ short_name: Sgr
 
 [SpocWebEntityId::Schuetze] 
 
-[#has_\name_\la::Sagittarius]
-[#has_\name_\la_\genitive::Sagittarii]
-[#has_\name_\de::Schuetze]
+[#has_/name_/la::Sagittarius]
+[#has_/name_/la_/genitive::Sagittarii]
+[#has_/name_/de::Schuetze]
 
 #is_/same_as :: [[../../WikiData/WD~Sagittarius,8866|WD~Sagittarius,8866]] 
 

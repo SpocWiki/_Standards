@@ -37,9 +37,9 @@ official_name: Triangulum
 
 [SpocWebEntityId::28162]
 
-[#has_\name_\la::Triangulum]
-[#has_\name_\la_\genitive::Trianguli]
-[#has_\name_\de::Dreieck]
+[#has_/name_/la::Triangulum]
+[#has_/name_/la_/genitive::Trianguli]
+[#has_/name_/de::Dreieck]
 
 #is_/same_as :: [[../../WikiData/WD~Triangulum,10565|WD~Triangulum,10565]] 
 

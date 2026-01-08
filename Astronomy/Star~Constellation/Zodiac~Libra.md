@@ -56,9 +56,9 @@ official_name: Libra
 
 [SpocWebEntityId::28131]
 
-[#has_\name_\la::Libra]
-[#has_\name_\la_\genitive::Librae]
-[#has_\name_\de::Waage]
+[#has_/name_/la::Libra]
+[#has_/name_/la_/genitive::Librae]
+[#has_/name_/de::Waage]
 
 #is_/same_as :: [[../../WikiData/WD~Libra,10580|WD~Libra,10580]] 
 

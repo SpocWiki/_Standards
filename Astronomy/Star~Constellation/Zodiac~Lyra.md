@@ -43,9 +43,9 @@ official_name: Lyra
 
 [SpocWebEntityId::28134] 
 
-[#has_\name_\la::Lyra]
-[#has_\name_\la_\genitive::Lyrae]
-[#has_\name_\de::Leier]
+[#has_/name_/la::Lyra]
+[#has_/name_/la_/genitive::Lyrae]
+[#has_/name_/de::Leier]
 
 #is_/same_as :: [[../../WikiData/WD~Lyra,10484|WD~Lyra,10484]] 
 

@@ -38,9 +38,9 @@ official_name: Grus
 
 [SpocWebEntityId::28121]
 
-[#has_\name_\la::Grus]
-[#has_\name_\la_\genitive::Gruis]
-[#has_\name_\de::Kranich]
+[#has_/name_/la::Grus]
+[#has_/name_/la_/genitive::Gruis]
+[#has_/name_/de::Kranich]
 
 #is_/same_as :: [[_Standards/WikiData/WD~Grus,10563]] 
 
