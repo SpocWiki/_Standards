@@ -308,6 +308,7 @@ ISNI: 120977669
 MeSH_tree_code: Z01.058.290.120.180
 image: http://commons.wikimedia.org/wiki/Special:FilePath/By-map-fr.png
 dv_has_:
+  name: Burundi
   name_:
     : Burundi
     en: Burundi
