@@ -38,7 +38,7 @@ The amount of time in a term as defined by the institution. A term is a length o
 
 Formal Predicate: 
 [domain::EducationalOccupationalProgram]
-(name::has_duration_of_term)
+(has_/name::has_duration_of_term)
 (range::Duration)
 
 

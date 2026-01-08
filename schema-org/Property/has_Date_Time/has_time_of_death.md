@@ -42,7 +42,7 @@ Date of death.
 
 Formal Predicate: 
 [domain::Person]
-(name::has_time_of_death)
+(has_/name::has_time_of_death)
 (range::Date)
 
 

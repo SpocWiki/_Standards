@@ -38,7 +38,7 @@ The date at which the program stops collecting applications for the next enrollm
 
 Formal Predicate: 
 [domain::EducationalOccupationalProgram]
-(name::has_time_of_application_deadline)
+(has_/name::has_time_of_application_deadline)
 (range::Date)
 
 

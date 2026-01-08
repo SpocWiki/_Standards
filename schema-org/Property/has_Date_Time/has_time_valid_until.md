@@ -36,7 +36,7 @@ The date when the item is no longer valid.
 
 Formal Predicate: 
 [domain::Permit]
-(name::has_time_valid_until)
+(has_/name::has_time_valid_until)
 (range::Date)
 
 

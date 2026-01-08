@@ -36,7 +36,7 @@ Date on which this guideline's recommendation was made.
 
 Formal Predicate: 
 [domain::MedicalGuideline]
-(name::has_time_of_guideline)
+(has_/name::has_time_of_guideline)
 (range::Date)
 
 

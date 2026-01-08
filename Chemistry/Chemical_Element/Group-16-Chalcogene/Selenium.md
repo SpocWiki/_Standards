@@ -90,7 +90,7 @@ ZVG_number: 7340
 [AtomRadius::1.22] 
 [Atom-Vol-ccm-mol::16.45]  
 [Unknown2::1.16] 
-[#has_/radius_/nano_/m::9.752] 
+[#has_/value_for_/radius_/nano_/m::9.752] 
 [Electronegative::2.5] 
 [Density::4.8] 
 [#has_/value_for_/temperature_/melt_/c ::217] 

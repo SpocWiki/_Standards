@@ -14,10 +14,10 @@ _Radius-sol: 6
 _Mass-sol: 18
 ---
 
-[name::B]
-[Temperature::30000]
-[Radius-sol::6]
-[Mass-sol::18]
+[has_/name::B]
+[has_/value_for_/temperature_/K::30000]
+[has_/value_for_/radius_/sol::6]
+[has_/value_for_/weight_/sol::18]
 
 
 ## Confidential Links & Embeds: 

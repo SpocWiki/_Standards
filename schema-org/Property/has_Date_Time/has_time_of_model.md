@@ -38,7 +38,7 @@ The release date of a vehicle model (often used to differentiate versions of the
 
 Formal Predicate: 
 [domain::Vehicle]
-(name::has_time_of_model)
+(has_/name::has_time_of_model)
 (range::Date)
 
 

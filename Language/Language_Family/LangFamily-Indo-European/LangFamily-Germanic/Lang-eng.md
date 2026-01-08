@@ -332,7 +332,7 @@ writing_system:
 
 
 [SpocWebEntityId:: 499 ]
-[Name::English]
+[has_/name::English]
 [PropId_Name::799]
 [PropId_Text::699]
 [LangFamilyId::233]

@@ -38,7 +38,7 @@ The date on which a successful applicant for this job would be expected to start
 
 Formal Predicate: 
 [domain::JobPosting]
-(name::has_time_to_start_job)
+(has_/name::has_time_to_start_job)
 (range::Date, Text)
 
 

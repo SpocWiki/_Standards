@@ -36,7 +36,7 @@ The date that this organization was dissolved.
 
 Formal Predicate: 
 [domain::Organization]
-(name::has_time_of_dissolution)
+(has_/name::has_time_of_dissolution)
 (range::Date)
 
 

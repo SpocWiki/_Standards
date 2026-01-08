@@ -40,7 +40,7 @@ The date that this organization was founded.
 
 Formal Predicate: 
 [domain::Organization]
-(name::has_time_of_founding)
+(has_/name::has_time_of_founding)
 (range::Date)
 
 

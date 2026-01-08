@@ -40,7 +40,7 @@ Use it like this:
 
 Formal Predicate: 
 [domain::UnitPriceSpecification]
-(name::has_duration_of_billing)
+(has_/name::has_duration_of_billing)
 (range::Duration, Number, QuantitativeValue)
 
 

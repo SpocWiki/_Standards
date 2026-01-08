@@ -36,7 +36,7 @@ The date and time of giving up ownership on the product.
 
 Formal Predicate: 
 [domain::OwnershipInfo]
-(name::has_time_owned_through)
+(has_/name::has_time_owned_through)
 (range::DateTime)
 
 

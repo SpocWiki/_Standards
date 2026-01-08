@@ -38,7 +38,7 @@ collectiondate - Date for which patient counts are reported.
 
 Formal Predicate: 
 [domain::CDCPMDRecord]
-(name::has_time_of_cvd_collection)
+(has_/name::has_time_of_cvd_collection)
 (range::DateTime, Text)
 
 

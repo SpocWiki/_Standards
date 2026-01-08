@@ -36,7 +36,7 @@ Use it like this:
 
 Formal Predicate: 
 [domain::DataFeedItem]
-(name::has_time)
+(has_/name::has_time)
 (range::Date, DateTime)
 
 

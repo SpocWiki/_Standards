@@ -15,7 +15,7 @@ type: musicGenre
 
 # [[Progressive_Rock]] 
 
-[name::Progressive Rock]
+[has_/name::Progressive Rock]
 confidential: public
 
 #is_/same_as :: [[_Standards/WikiData/WD~progressive_rock,49451]] 

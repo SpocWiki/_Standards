@@ -36,7 +36,7 @@ Date on which the content on this web page was last reviewed for accuracy and/or
 
 Formal Predicate: 
 [domain::WebPage]
-(name::has_time_of_last_review)
+(has_/name::has_time_of_last_review)
 (range::Date)
 
 

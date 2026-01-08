@@ -36,7 +36,7 @@ The date/time the message was received if a single recipient exists.
 
 Formal Predicate: 
 [domain::Message]
-(name::has_time_received)
+(has_/name::has_time_received)
 (range::DateTime)
 
 

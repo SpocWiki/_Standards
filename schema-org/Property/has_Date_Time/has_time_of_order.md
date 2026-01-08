@@ -37,7 +37,7 @@ Date order was placed.
 
 Formal Predicate: 
 [domain::Order]
-(name::has_time_of_order)
+(has_/name::has_time_of_order)
 (range::Date, DateTime)
 
 

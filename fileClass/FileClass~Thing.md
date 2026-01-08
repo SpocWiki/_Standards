@@ -210,7 +210,7 @@ The word is derived from 'Think', so anything you can think of is a Thing.
 ### Name
 The name of the item.
 
-Name:: {"type":"Input","options":{}}
+has_/name:: {"type":"Input","options":{}}
 
 ### Description
 A description of the item.

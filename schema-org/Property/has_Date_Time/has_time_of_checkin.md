@@ -36,7 +36,7 @@ The earliest someone may check into a lodging establishment.
 
 Formal Predicate: 
 [domain::LodgingBusiness, LodgingReservation]
-(name::has_time_of_checkin_time)
+(has_/name::has_time_of_checkin_time)
 (range::DateTime, Time)
 
 

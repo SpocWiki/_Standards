@@ -36,7 +36,7 @@ The earliest date the package may arrive.
 
 Formal Predicate: 
 [domain::ParcelDelivery]
-(name::has_time_of_expected_arrival_from)
+(has_/name::has_time_of_expected_arrival_from)
 (range::Date, DateTime)
 
 

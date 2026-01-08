@@ -36,7 +36,7 @@ The time at which the UserComment was made.
 
 Formal Predicate: 
 [domain::UserComments]
-(name::has_time_of_comment)
+(has_/name::has_time_of_comment)
 (range::Date, DateTime)
 
 

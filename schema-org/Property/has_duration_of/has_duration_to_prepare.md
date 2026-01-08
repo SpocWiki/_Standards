@@ -36,7 +36,7 @@ The length of time it takes to prepare the items to be used in instructions or a
 
 Formal Predicate: 
 [domain::HowTo, HowToDirection]
-(name::has_duration_to_prepare)
+(has_/name::has_duration_to_prepare)
 (range::Duration)
 
 
