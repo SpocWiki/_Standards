@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - restricted_diet
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_restricted_diet Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_restricted_diet Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Restricted_Diet|Restricted_Diet]]"
+    - "[[/_public/schema-org/Enumeration/Restricted_Diet.public|Restricted_Diet.public]]"
+    - "[[/_internal/schema-org/Enumeration/Restricted_Diet.internal|Restricted_Diet.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Restricted_Diet.protect|Restricted_Diet.protect]]"
+    - "[[/_private/schema-org/Enumeration/Restricted_Diet.private|Restricted_Diet.private]]"
+    - "[[/_personal/schema-org/Enumeration/Restricted_Diet.personal|Restricted_Diet.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Restricted_Diet.secret|Restricted_Diet.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Restricted_Diet|Restricted_Diet]]"
+  - "[[/_public/schema-org/Enumeration/Restricted_Diet.public|Restricted_Diet.public]]"
+  - "[[/_internal/schema-org/Enumeration/Restricted_Diet.internal|Restricted_Diet.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Restricted_Diet.protect|Restricted_Diet.protect]]"
+  - "[[/_private/schema-org/Enumeration/Restricted_Diet.private|Restricted_Diet.private]]"
+  - "[[/_personal/schema-org/Enumeration/Restricted_Diet.personal|Restricted_Diet.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Restricted_Diet.secret|Restricted_Diet.secret]]"
 ---
 
 Class of all restricted_diets.
@@ -34,7 +53,7 @@ Tag Instances like this:
 
 A diet restricted to certain foods or preparations for cultural, religious, health or lifestyle reasons.
 
-#is_/sub_class_of :: [[../Enumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

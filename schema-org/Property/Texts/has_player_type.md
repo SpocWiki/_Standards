@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - player
   - type
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_player_type
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_player_type
 type: Pred_Text
+dv_has_:
+  text_of_:
+    player_type: Text
+  domain: MediaObject
+dv_has_text_of_player_type: Text
+dv_#has_:
+  name: has_text_of_player_type
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_player_type|has_player_type]]"
+    - "[[/_public/schema-org/Property/Texts/has_player_type.public|has_player_type.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_player_type.internal|has_player_type.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_player_type.protect|has_player_type.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_player_type.private|has_player_type.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_player_type.personal|has_player_type.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_player_type.secret|has_player_type.secret]]"
+dv_has_domain: MediaObject
+dv_has_name: has_text_of_player_type
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_player_type|has_player_type]]"
+  - "[[/_public/schema-org/Property/Texts/has_player_type.public|has_player_type.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_player_type.internal|has_player_type.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_player_type.protect|has_player_type.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_player_type.private|has_player_type.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_player_type.personal|has_player_type.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_player_type.secret|has_player_type.secret]]"
 ---
 
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- [has_/text_of_/player_type :: Text ] 
-- [ has_text_of_player_type :: Text ] 
+- has_text_of_player_type = `=this.dv_has_text_of_player_type`  
+- has_text_of_player_type = `=this.dv_has_text_of_player_type`  
 
 Player type required&amp;#x2014;for example, Flash or Silverlight.
 
 Predicated describes that: 
 
-#has_/domain  :: MediaObject  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_player_type )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

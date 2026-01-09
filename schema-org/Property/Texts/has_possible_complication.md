@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - possible
   - complication
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_possible_complication
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_possible_complication
 type: Pred_Text
+dv_has_:
+  text_of_:
+    possible_complication: Text
+  domain: MedicalCondition
+dv_has_text_of_possible_complication: Text
+dv_#has_:
+  name: has_text_of_possible_complication
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_possible_complication|has_possible_complication]]"
+    - "[[/_public/schema-org/Property/Texts/has_possible_complication.public|has_possible_complication.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_possible_complication.internal|has_possible_complication.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_possible_complication.protect|has_possible_complication.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_possible_complication.private|has_possible_complication.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_possible_complication.personal|has_possible_complication.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_possible_complication.secret|has_possible_complication.secret]]"
+dv_has_domain: MedicalCondition
+dv_has_name: has_text_of_possible_complication
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_possible_complication|has_possible_complication]]"
+  - "[[/_public/schema-org/Property/Texts/has_possible_complication.public|has_possible_complication.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_possible_complication.internal|has_possible_complication.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_possible_complication.protect|has_possible_complication.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_possible_complication.private|has_possible_complication.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_possible_complication.personal|has_possible_complication.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_possible_complication.secret|has_possible_complication.secret]]"
 ---
 
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- [has_/text_of_/possible_complication :: Text ] 
-- [ has_text_of_possible_complication :: Text ] 
+- has_text_of_possible_complication = `=this.dv_has_text_of_possible_complication`  
+- has_text_of_possible_complication = `=this.dv_has_text_of_possible_complication`  
 
 A possible unexpected and unfavorable evolution of a medical condition. Complications may include worsening of the signs or symptoms of the disease, extension of the condition to other organ systems, etc.
 
 Predicated describes that: 
 
-#has_/domain  :: MedicalCondition  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_possible_complication )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

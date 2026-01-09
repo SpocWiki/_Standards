@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_system_continental
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_system_continental Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_wearable_size_system_continental Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../WearableSizeSystemEnumeration]]"
+  enum_of: "[[../WearableSizeSystemEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental|Wearable_Size_System_Continental]]"
+    - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.public|Wearable_Size_System_Continental.public]]"
+    - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.internal|Wearable_Size_System_Continental.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.protect|Wearable_Size_System_Continental.protect]]"
+    - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.private|Wearable_Size_System_Continental.private]]"
+    - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.personal|Wearable_Size_System_Continental.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.secret|Wearable_Size_System_Continental.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../WearableSizeSystemEnumeration]]"
+dv_is_enum_of: "[[../WearableSizeSystemEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental|Wearable_Size_System_Continental]]"
+  - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.public|Wearable_Size_System_Continental.public]]"
+  - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.internal|Wearable_Size_System_Continental.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.protect|Wearable_Size_System_Continental.protect]]"
+  - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.private|Wearable_Size_System_Continental.private]]"
+  - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.personal|Wearable_Size_System_Continental.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Continental.secret|Wearable_Size_System_Continental.secret]]"
 ---
 
 Class of all wearable_size_system_continentals.
@@ -33,13 +56,13 @@ Class of all wearable_size_system_continentals.
 Tag Instances like this: 
 #is_a_/wearable_size_system_continental
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Continental size system for wearables.
 
-#is_/sub_class_of :: [[../WearableSizeSystemEnumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../WearableSizeSystemEnumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

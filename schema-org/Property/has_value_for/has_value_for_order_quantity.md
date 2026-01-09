@@ -10,37 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - order-quantity
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_order-quantity
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_order-quantity
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    order_quantity: Number
+  domain: OrderItem
+dv_has_value_for_order_quantity: Number
+dv_#has_:
+  name: has_value_for_order_quantity
+  range: Number
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_order_quantity|has_value_for_order_quantity]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_order_quantity.public|has_value_for_order_quantity.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_order_quantity.internal|has_value_for_order_quantity.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_order_quantity.protect|has_value_for_order_quantity.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_order_quantity.private|has_value_for_order_quantity.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_order_quantity.personal|has_value_for_order_quantity.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_order_quantity.secret|has_value_for_order_quantity.secret]]"
+dv_has_domain: OrderItem
+dv_has_name: has_value_for_order_quantity
+dv_has_range: Number
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_order_quantity|has_value_for_order_quantity]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_order_quantity.public|has_value_for_order_quantity.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_order_quantity.internal|has_value_for_order_quantity.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_order_quantity.protect|has_value_for_order_quantity.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_order_quantity.private|has_value_for_order_quantity.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_order_quantity.personal|has_value_for_order_quantity.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_order_quantity.secret|has_value_for_order_quantity.secret]]"
 ---
 
 Predicate to describe the Quantity of OrderItem.
 
 Use it like this: 
-- [has_/value_for_/order_quantity :: Number ] 
-- [ has_value_for_order_quantity :: Number ] 
+- has_value_for_order_quantity = `=this.dv_has_value_for_order_quantity`  
+- has_value_for_order_quantity = `=this.dv_has_value_for_order_quantity`  
 
 The number of the item ordered. If the property is not set, assume the quantity is one.
 
 Predicate describes that: 
 
-#has_/domain  :: OrderItem  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_order_quantity )
-( #has_/range :: Number )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

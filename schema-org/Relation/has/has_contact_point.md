@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,31 +16,58 @@ keywords:
   - point
   - contact_point
   - contactPoint
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_contact_point
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: contactPoints
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_contact_point
 type: Predi_Relation
+dv_has_:
+  contact_point: ContactPoint
+  domain: HealthInsurancePlan, Organization, Person
+dv_has_contact_point: ContactPoint
+dv_#has_:
+  name: has_contact_point
+  range: ContactPoint
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_contact_point|has_contact_point]]"
+    - "[[/_public/schema-org/Relation/has/has_contact_point.public|has_contact_point.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_contact_point.internal|has_contact_point.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_contact_point.protect|has_contact_point.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_contact_point.private|has_contact_point.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_contact_point.personal|has_contact_point.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_contact_point.secret|has_contact_point.secret]]"
+dv_has_domain: HealthInsurancePlan, Organization, Person
+dv_has_name: has_contact_point
+dv_has_range: ContactPoint
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_contact_point|has_contact_point]]"
+  - "[[/_public/schema-org/Relation/has/has_contact_point.public|has_contact_point.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_contact_point.internal|has_contact_point.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_contact_point.protect|has_contact_point.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_contact_point.private|has_contact_point.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_contact_point.personal|has_contact_point.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_contact_point.secret|has_contact_point.secret]]"
 ---
 
 Use it like this: 
-- [has_/contact_point :: ContactPoint ] 
-- [ has_contact_point :: ContactPoint ] 
+- has_contact_point = `=this.dv_has_contact_point`  
+- has_contact_point = `=this.dv_has_contact_point`  
 
 A contact point for a person or organization.
 
 Relation describes that: 
 
-#has_/domain  :: HealthInsurancePlan, Organization, Person  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_contact_point )
-( #has_/range :: ContactPoint )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub_structure
   - sub
   - structure
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_sub_structure
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_sub_structure
 type: Predi_Relation
+dv_has_:
+  sub_structure: AnatomicalStructure
+  domain: AnatomicalStructure
+dv_has_sub_structure: AnatomicalStructure
+dv_#has_:
+  name: is_sub_structure
+  range: AnatomicalStructure
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_sub_structure|has_sub_structure]]"
+    - "[[/_public/schema-org/Relation/has/has_sub_structure.public|has_sub_structure.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sub_structure.internal|has_sub_structure.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sub_structure.protect|has_sub_structure.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sub_structure.private|has_sub_structure.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sub_structure.personal|has_sub_structure.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sub_structure.secret|has_sub_structure.secret]]"
+dv_has_domain: AnatomicalStructure
+dv_has_name: is_sub_structure
+dv_has_range: AnatomicalStructure
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_sub_structure|has_sub_structure]]"
+  - "[[/_public/schema-org/Relation/has/has_sub_structure.public|has_sub_structure.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sub_structure.internal|has_sub_structure.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sub_structure.protect|has_sub_structure.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sub_structure.private|has_sub_structure.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sub_structure.personal|has_sub_structure.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sub_structure.secret|has_sub_structure.secret]]"
 ---
 
 Use it like this: 
-- [has_/sub_structure :: AnatomicalStructure ] 
-- [ has_sub_structure :: AnatomicalStructure ] 
+- has_sub_structure = `=this.dv_has_sub_structure`  
+- has_sub_structure = `=this.dv_has_sub_structure`  
 
 Component (sub-)structure(s) that comprise this anatomical structure.
 
 Relation describes that: 
 
-#has_/domain  :: AnatomicalStructure  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_sub_structure )
-( #has_/range :: AnatomicalStructure )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

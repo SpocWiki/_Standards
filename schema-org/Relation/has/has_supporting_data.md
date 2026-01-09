@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - supporting_data
   - supporting
   - data
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_supporting_data
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_supporting_data
 type: Predi_Relation
+dv_has_:
+  supporting_data: DataFeed
+  domain: SoftwareApplication
+dv_has_supporting_data: DataFeed
+dv_#has_:
+  name: is_supporting_data
+  range: DataFeed
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_supporting_data|has_supporting_data]]"
+    - "[[/_public/schema-org/Relation/has/has_supporting_data.public|has_supporting_data.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_supporting_data.internal|has_supporting_data.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_supporting_data.protect|has_supporting_data.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_supporting_data.private|has_supporting_data.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_supporting_data.personal|has_supporting_data.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_supporting_data.secret|has_supporting_data.secret]]"
+dv_has_domain: SoftwareApplication
+dv_has_name: is_supporting_data
+dv_has_range: DataFeed
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_supporting_data|has_supporting_data]]"
+  - "[[/_public/schema-org/Relation/has/has_supporting_data.public|has_supporting_data.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_supporting_data.internal|has_supporting_data.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_supporting_data.protect|has_supporting_data.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_supporting_data.private|has_supporting_data.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_supporting_data.personal|has_supporting_data.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_supporting_data.secret|has_supporting_data.secret]]"
 ---
 
 Use it like this: 
-- [has_/supporting_data :: DataFeed ] 
-- [ has_supporting_data :: DataFeed ] 
+- has_supporting_data = `=this.dv_has_supporting_data`  
+- has_supporting_data = `=this.dv_has_supporting_data`  
 
 Supporting data for a SoftwareApplication.
 
 Relation describes that: 
 
-#has_/domain  :: SoftwareApplication  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_supporting_data )
-( #has_/range :: DataFeed )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

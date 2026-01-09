@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: BoardingPolicyType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - zone_boarding_policy
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_zone_boarding_policy Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_zone_boarding_policy Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../BoardingPolicyType]]"
+  enum_of: "[[../BoardingPolicyType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy|Zone_Boarding_Policy]]"
+    - "[[/_public/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.public|Zone_Boarding_Policy.public]]"
+    - "[[/_internal/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.internal|Zone_Boarding_Policy.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.protect|Zone_Boarding_Policy.protect]]"
+    - "[[/_private/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.private|Zone_Boarding_Policy.private]]"
+    - "[[/_personal/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.personal|Zone_Boarding_Policy.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.secret|Zone_Boarding_Policy.secret]]"
+dv_is_sub_class_of: "[[../BoardingPolicyType]]"
+dv_is_enum_of: "[[../BoardingPolicyType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy|Zone_Boarding_Policy]]"
+  - "[[/_public/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.public|Zone_Boarding_Policy.public]]"
+  - "[[/_internal/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.internal|Zone_Boarding_Policy.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.protect|Zone_Boarding_Policy.protect]]"
+  - "[[/_private/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.private|Zone_Boarding_Policy.private]]"
+  - "[[/_personal/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.personal|Zone_Boarding_Policy.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Boarding_Policy_Type/Zone_Boarding_Policy.secret|Zone_Boarding_Policy.secret]]"
 ---
 
 Class of all zone_boarding_policys.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 The airline boards by zones of the plane.
 
-#is_/sub_class_of :: [[../BoardingPolicyType]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../BoardingPolicyType]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

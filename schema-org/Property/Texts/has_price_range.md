@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - price
   - range
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_price_range
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_price_range
 type: Pred_Text
+dv_has_:
+  text_of_:
+    price_range: Text
+  domain: LocalBusiness
+dv_has_text_of_price_range: Text
+dv_#has_:
+  name: has_text_of_price_range
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_price_range|has_price_range]]"
+    - "[[/_public/schema-org/Property/Texts/has_price_range.public|has_price_range.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_price_range.internal|has_price_range.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_price_range.protect|has_price_range.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_price_range.private|has_price_range.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_price_range.personal|has_price_range.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_price_range.secret|has_price_range.secret]]"
+dv_has_domain: LocalBusiness
+dv_has_name: has_text_of_price_range
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_price_range|has_price_range]]"
+  - "[[/_public/schema-org/Property/Texts/has_price_range.public|has_price_range.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_price_range.internal|has_price_range.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_price_range.protect|has_price_range.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_price_range.private|has_price_range.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_price_range.personal|has_price_range.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_price_range.secret|has_price_range.secret]]"
 ---
 
 Predicate to describe the Text of LocalBusiness.
 
 Use it like this: 
-- [has_/text_of_/price_range :: Text ] 
-- [ has_text_of_price_range :: Text ] 
+- has_text_of_price_range = `=this.dv_has_text_of_price_range`  
+- has_text_of_price_range = `=this.dv_has_text_of_price_range`  
 
 The price range of the business, for example <code>$$$</code>.
 
 Predicated describes that: 
 
-#has_/domain  :: LocalBusiness  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_price_range )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: PriceTypeEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - sale_price
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_sale_price Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_sale_price Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../PriceTypeEnumeration]]"
+  enum_of: "[[../PriceTypeEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price|Sale_Price]]"
+    - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.public|Sale_Price.public]]"
+    - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.internal|Sale_Price.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.protect|Sale_Price.protect]]"
+    - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.private|Sale_Price.private]]"
+    - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.personal|Sale_Price.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.secret|Sale_Price.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../PriceTypeEnumeration]]"
+dv_is_enum_of: "[[../PriceTypeEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price|Sale_Price]]"
+  - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.public|Sale_Price.public]]"
+  - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.internal|Sale_Price.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.protect|Sale_Price.protect]]"
+  - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.private|Sale_Price.private]]"
+  - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.personal|Sale_Price.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Sale_Price.secret|Sale_Price.secret]]"
 ---
 
 Class of all sale_prices.
@@ -33,13 +56,13 @@ Class of all sale_prices.
 Tag Instances like this: 
 #is_a_/sale_price
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Represents a sale price (usually active for a limited period) of an offered product.
 
-#is_/sub_class_of :: [[../PriceTypeEnumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../PriceTypeEnumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

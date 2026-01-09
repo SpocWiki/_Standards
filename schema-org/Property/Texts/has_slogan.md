@@ -11,37 +11,65 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - slogan
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_slogan
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_slogan
 type: Pred_Text
+dv_has_:
+  text_of_:
+    slogan: Text
+  domain: Brand, Organization, Place, Product, Service
+dv_has_text_of_slogan: Text
+dv_#has_:
+  name: has_text_of_slogan
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_slogan|has_slogan]]"
+    - "[[/_public/schema-org/Property/Texts/has_slogan.public|has_slogan.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_slogan.internal|has_slogan.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_slogan.protect|has_slogan.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_slogan.private|has_slogan.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_slogan.personal|has_slogan.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_slogan.secret|has_slogan.secret]]"
+dv_has_domain: Brand, Organization, Place, Product, Service
+dv_has_name: has_text_of_slogan
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_slogan|has_slogan]]"
+  - "[[/_public/schema-org/Property/Texts/has_slogan.public|has_slogan.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_slogan.internal|has_slogan.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_slogan.protect|has_slogan.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_slogan.private|has_slogan.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_slogan.personal|has_slogan.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_slogan.secret|has_slogan.secret]]"
 ---
 
 Predicate to describe the Text of Brand, Organization, Place, Product, Service.
 
 Use it like this: 
-- [has_/text_of_/slogan :: Text ] 
-- [ has_text_of_slogan :: Text ] 
+- has_text_of_slogan = `=this.dv_has_text_of_slogan`  
+- has_text_of_slogan = `=this.dv_has_text_of_slogan`  
 
 A slogan or motto associated with the item.
 
 Predicated describes that: 
 
-#has_/domain  :: Brand, Organization, Place, Product, Service  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_slogan )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

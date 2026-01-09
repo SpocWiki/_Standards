@@ -8,21 +8,48 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - seeks
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_seeks
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_seeks
 type: Predi_Relation
+dv_has_:
+  demand_for: Demand
+  domain: Organization, Person
+dv_has_demand_for: Demand
+dv_#has_:
+  name: "[[has_demand_for]]"
+  range: Demand
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_demand_for|has_demand_for]]"
+    - "[[/_public/schema-org/Relation/has/has_demand_for.public|has_demand_for.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_demand_for.internal|has_demand_for.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_demand_for.protect|has_demand_for.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_demand_for.private|has_demand_for.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_demand_for.personal|has_demand_for.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_demand_for.secret|has_demand_for.secret]]"
+dv_has_domain: Organization, Person
+dv_has_name: "[[has_demand_for]]"
+dv_has_range: Demand
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_demand_for|has_demand_for]]"
+  - "[[/_public/schema-org/Relation/has/has_demand_for.public|has_demand_for.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_demand_for.internal|has_demand_for.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_demand_for.protect|has_demand_for.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_demand_for.private|has_demand_for.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_demand_for.personal|has_demand_for.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_demand_for.secret|has_demand_for.secret]]"
 ---
 
 # [[has_demand_for]]
@@ -30,15 +57,15 @@ type: Predi_Relation
 A pointer to products or services sought by the organization or person (demand).
 
 Use it like this: 
-- [has_/demand_for :: Demand ] 
-- [ has_demand_for :: Demand ] 
+- has_demand_for = `=this.dv_has_demand_for`  
+- has_demand_for = `=this.dv_has_demand_for`  
 
 Relation describes that: 
 
-#has_/domain  :: Organization, Person  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: [[has_demand_for]] )
-( #has_/range :: Demand )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

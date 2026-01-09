@@ -10,21 +10,47 @@ cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - family_friendly
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_family_friendly
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/True
 title: is_family_friendly
 type: Pred_Bool
+dv_is_family_friendly: Boolean
+dv_has_:
+  domain: CreativeWork, Offer, Product
+dv_#has_:
+  name: is_family_friendly
+  range: Boolean
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Flags/is_family_friendly|is_family_friendly]]"
+    - "[[/_public/schema-org/Property/Flags/is_family_friendly.public|is_family_friendly.public]]"
+    - "[[/_internal/schema-org/Property/Flags/is_family_friendly.internal|is_family_friendly.internal]]"
+    - "[[/_protect/schema-org/Property/Flags/is_family_friendly.protect|is_family_friendly.protect]]"
+    - "[[/_private/schema-org/Property/Flags/is_family_friendly.private|is_family_friendly.private]]"
+    - "[[/_personal/schema-org/Property/Flags/is_family_friendly.personal|is_family_friendly.personal]]"
+    - "[[/_secret/schema-org/Property/Flags/is_family_friendly.secret|is_family_friendly.secret]]"
+dv_has_domain: CreativeWork, Offer, Product
+dv_has_name: is_family_friendly
+dv_has_range: Boolean
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Flags/is_family_friendly|is_family_friendly]]"
+  - "[[/_public/schema-org/Property/Flags/is_family_friendly.public|is_family_friendly.public]]"
+  - "[[/_internal/schema-org/Property/Flags/is_family_friendly.internal|is_family_friendly.internal]]"
+  - "[[/_protect/schema-org/Property/Flags/is_family_friendly.protect|is_family_friendly.protect]]"
+  - "[[/_private/schema-org/Property/Flags/is_family_friendly.private|is_family_friendly.private]]"
+  - "[[/_personal/schema-org/Property/Flags/is_family_friendly.personal|is_family_friendly.personal]]"
+  - "[[/_secret/schema-org/Property/Flags/is_family_friendly.secret|is_family_friendly.secret]]"
 ---
 
 Use these simple Tags to mark Instances as True or False: 
@@ -32,16 +58,16 @@ Use these simple Tags to mark Instances as True or False:
 #is_not_/family_friendly 
 
 Or write it as a Triple: 
-[ is_family_friendly :: Boolean ] 
+is_family_friendly = `=this.dv_is_family_friendly`  
 
 Indicates whether this content is family friendly.
 
 Predicate describes that: 
 
-#has_/domain  :: CreativeWork, Offer, Product  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_family_friendly )
-( #has_/range :: Boolean )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -8,21 +8,47 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - collection
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_collection Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - schema-org/Class
   - class/Class
 title: is_a_collection Class
 type: Type
+dv_is_:
+  part_of: https://bib.schema.org
+  sub_class_of: "[[../CreativeWork]]"
+  same_as:
+    - "[[/_Standards/schema-org/Collection|Collection]]"
+    - "[[/_public/schema-org/Collection.public|Collection.public]]"
+    - "[[/_internal/schema-org/Collection.internal|Collection.internal]]"
+    - "[[/_protect/schema-org/Collection.protect|Collection.protect]]"
+    - "[[/_private/schema-org/Collection.private|Collection.private]]"
+    - "[[/_personal/schema-org/Collection.personal|Collection.personal]]"
+    - "[[/_secret/schema-org/Collection.secret|Collection.secret]]"
+dv_has_:
+  sub_classes: "[ ProductCollection ]"
+  properties: "[ [], [[is_about]], [[has_abstract]], [[has_access_Mode]], [has_access_mode_sufficient](../../../Relation/has/has_access_mode_sufficient.md), accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, collectionSize, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ]"
+dv_is_part_of: https://bib.schema.org
+dv_is_sub_class_of: "[[../CreativeWork]]"
+dv_has_sub_classes: "[ ProductCollection ]"
+dv_has_properties: "[ [], [[is_about]], [[has_abstract]], [[has_access_Mode]], [has_access_mode_sufficient](../../../Relation/has/has_access_mode_sufficient.md), accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, collectionSize, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Collection|Collection]]"
+  - "[[/_public/schema-org/Collection.public|Collection.public]]"
+  - "[[/_internal/schema-org/Collection.internal|Collection.internal]]"
+  - "[[/_protect/schema-org/Collection.protect|Collection.protect]]"
+  - "[[/_private/schema-org/Collection.private|Collection.private]]"
+  - "[[/_personal/schema-org/Collection.personal|Collection.personal]]"
+  - "[[/_secret/schema-org/Collection.secret|Collection.secret]]"
 ---
 
 # [[Collection]]
@@ -44,13 +70,13 @@ they also need to be finitely typed (to allow a finite switch-Statement).
 Tag Instances like this: 
 #is_a_/collection 
 
-#is_/part_of :: https://bib.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
-#is_/sub_class_of :: [[../CreativeWork]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ ProductCollection ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-#has_/properties :: [ [], [[is_about]], [[has_abstract]], [[has_access_Mode]], [has_access_mode_sufficient](../../../Relation/has/has_access_mode_sufficient.md), accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, collectionSize, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Heap Management with Collections 
 

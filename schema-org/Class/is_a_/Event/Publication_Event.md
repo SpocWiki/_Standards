@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - publication_event
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_publication_event Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_publication_event Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Event]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Event/Publication_Event|Publication_Event]]"
+    - "[[/_public/schema-org/Class/is_a_/Event/Publication_Event.public|Publication_Event.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Event/Publication_Event.internal|Publication_Event.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Event/Publication_Event.protect|Publication_Event.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Event/Publication_Event.private|Publication_Event.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Event/Publication_Event.personal|Publication_Event.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Event/Publication_Event.secret|Publication_Event.secret]]"
+dv_has_:
+  sub_classes: "[ BroadcastEvent, OnDemandEvent ]"
+  properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, free, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, publishedBy, publishedOn, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
+dv_is_sub_class_of: "[[../Event]]"
+dv_has_sub_classes: "[ BroadcastEvent, OnDemandEvent ]"
+dv_has_properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, free, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, publishedBy, publishedOn, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Event/Publication_Event|Publication_Event]]"
+  - "[[/_public/schema-org/Class/is_a_/Event/Publication_Event.public|Publication_Event.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Event/Publication_Event.internal|Publication_Event.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Event/Publication_Event.protect|Publication_Event.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Event/Publication_Event.private|Publication_Event.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Event/Publication_Event.personal|Publication_Event.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Event/Publication_Event.secret|Publication_Event.secret]]"
 ---
 
 Class of all publication_events.
@@ -34,11 +58,11 @@ Tag Instances like this:
 
 A PublicationEvent corresponds indifferently to the event of publication for a CreativeWork of any type, e.g. a broadcast event, an on-demand event, a book/journal publication via a variety of delivery media.
 
-#is_/sub_class_of :: [[../Event]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ BroadcastEvent, OnDemandEvent ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-#has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, free, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, publishedBy, publishedOn, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

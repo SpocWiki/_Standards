@@ -3,6 +3,23 @@ aliases:
   - has_duration_of
   - has duration of
 icon: luc_timer_reset
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_duration_of|has_duration_of]]"
+    - "[[/_public/schema-org/Property/has_duration_of.public|has_duration_of.public]]"
+    - "[[/_internal/schema-org/Property/has_duration_of.internal|has_duration_of.internal]]"
+    - "[[/_protect/schema-org/Property/has_duration_of.protect|has_duration_of.protect]]"
+    - "[[/_private/schema-org/Property/has_duration_of.private|has_duration_of.private]]"
+    - "[[/_personal/schema-org/Property/has_duration_of.personal|has_duration_of.personal]]"
+    - "[[/_secret/schema-org/Property/has_duration_of.secret|has_duration_of.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_duration_of|has_duration_of]]"
+  - "[[/_public/schema-org/Property/has_duration_of.public|has_duration_of.public]]"
+  - "[[/_internal/schema-org/Property/has_duration_of.internal|has_duration_of.internal]]"
+  - "[[/_protect/schema-org/Property/has_duration_of.protect|has_duration_of.protect]]"
+  - "[[/_private/schema-org/Property/has_duration_of.private|has_duration_of.private]]"
+  - "[[/_personal/schema-org/Property/has_duration_of.personal|has_duration_of.personal]]"
+  - "[[/_secret/schema-org/Property/has_duration_of.secret|has_duration_of.secret]]"
 ---
 
 # Duration

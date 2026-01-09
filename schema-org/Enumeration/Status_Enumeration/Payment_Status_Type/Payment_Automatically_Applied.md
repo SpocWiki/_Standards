@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: PaymentStatusType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment_automatically_applied
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_payment_automatically_applied Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_payment_automatically_applied Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../PaymentStatusType]]"
+  enum_of: "[[../PaymentStatusType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied|Payment_Automatically_Applied]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.public|Payment_Automatically_Applied.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.internal|Payment_Automatically_Applied.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.protect|Payment_Automatically_Applied.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.private|Payment_Automatically_Applied.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.personal|Payment_Automatically_Applied.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.secret|Payment_Automatically_Applied.secret]]"
+dv_is_sub_class_of: "[[../PaymentStatusType]]"
+dv_is_enum_of: "[[../PaymentStatusType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied|Payment_Automatically_Applied]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.public|Payment_Automatically_Applied.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.internal|Payment_Automatically_Applied.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.protect|Payment_Automatically_Applied.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.private|Payment_Automatically_Applied.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.personal|Payment_Automatically_Applied.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.secret|Payment_Automatically_Applied.secret]]"
 ---
 
 Class of all payment_automatically_applieds.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 An automatic payment system is in place and will be used.
 
-#is_/sub_class_of :: [[../PaymentStatusType]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../PaymentStatusType]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

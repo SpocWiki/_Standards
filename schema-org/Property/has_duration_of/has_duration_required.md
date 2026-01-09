@@ -10,34 +10,60 @@ cssclasses:
   - Predicate
   - Duration
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Durations
 title: has_duration_required
 type: Predi_Duration
+dv_has_duration_required: P#Y#M#W#DT#H#M#s.fff
+dv_#has_:
+  duration_:
+    required: P#Y#M#W#DT#H#M#s.fff
+dv_domain: CreativeWork
+dv_has_:
+  name: has_duration_required
+dv_range: Duration
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_required|has_duration_required]]"
+    - "[[/_public/schema-org/Property/has_duration_of/has_duration_required.public|has_duration_required.public]]"
+    - "[[/_internal/schema-org/Property/has_duration_of/has_duration_required.internal|has_duration_required.internal]]"
+    - "[[/_protect/schema-org/Property/has_duration_of/has_duration_required.protect|has_duration_required.protect]]"
+    - "[[/_private/schema-org/Property/has_duration_of/has_duration_required.private|has_duration_required.private]]"
+    - "[[/_personal/schema-org/Property/has_duration_of/has_duration_required.personal|has_duration_required.personal]]"
+    - "[[/_secret/schema-org/Property/has_duration_of/has_duration_required.secret|has_duration_required.secret]]"
+dv_has_name: has_duration_required
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_required|has_duration_required]]"
+  - "[[/_public/schema-org/Property/has_duration_of/has_duration_required.public|has_duration_required.public]]"
+  - "[[/_internal/schema-org/Property/has_duration_of/has_duration_required.internal|has_duration_required.internal]]"
+  - "[[/_protect/schema-org/Property/has_duration_of/has_duration_required.protect|has_duration_required.protect]]"
+  - "[[/_private/schema-org/Property/has_duration_of/has_duration_required.private|has_duration_required.private]]"
+  - "[[/_personal/schema-org/Property/has_duration_of/has_duration_required.personal|has_duration_required.personal]]"
+  - "[[/_secret/schema-org/Property/has_duration_of/has_duration_required.secret|has_duration_required.secret]]"
 ---
 
 Predicate to describe the Duration of CreativeWork.
 
 Use it like this: 
-- [has_duration_required::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/duration_/required::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+- has_duration_required = `=this.dv_has_duration_required`  
+- has_duration_required = `=this.dv_has_duration_required`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 Approximate or typical time it takes to work with or through this learning resource for the typical intended target audience, e.g. 'PT30M', 'PT1H25M'.
 
 Formal Predicate: 
-[domain::CreativeWork]
-(has_/name::has_duration_required)
-(range::Duration)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

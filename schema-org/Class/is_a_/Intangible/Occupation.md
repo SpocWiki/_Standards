@@ -8,21 +8,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - occupation
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_occupation Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_occupation Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation|Occupation]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation.public|Occupation.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation.internal|Occupation.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation.protect|Occupation.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation.private|Occupation.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation.personal|Occupation.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation.secret|Occupation.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ]"
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation|Occupation]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation.public|Occupation.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation.internal|Occupation.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation.protect|Occupation.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation.private|Occupation.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation.personal|Occupation.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation.secret|Occupation.secret]]"
 ---
 
 # [[Occupation]] 
@@ -34,9 +56,9 @@ Tag Instances like this:
 
 A profession, may involve prolonged training and/or a formal qualification.
 
-#is_/sub_class_of :: [[../Intangible]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

@@ -14,37 +14,65 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - email
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_email
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_email
 type: Pred_Text
+dv_has_:
+  text_of_:
+    email: Text
+  domain: ContactPoint, Organization, Person
+dv_has_text_of_email: Text
+dv_#has_:
+  name: has_text_of_email
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_email|has_email]]"
+    - "[[/_public/schema-org/Property/Texts/has_email.public|has_email.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_email.internal|has_email.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_email.protect|has_email.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_email.private|has_email.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_email.personal|has_email.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_email.secret|has_email.secret]]"
+dv_has_domain: ContactPoint, Organization, Person
+dv_has_name: has_text_of_email
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_email|has_email]]"
+  - "[[/_public/schema-org/Property/Texts/has_email.public|has_email.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_email.internal|has_email.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_email.protect|has_email.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_email.private|has_email.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_email.personal|has_email.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_email.secret|has_email.secret]]"
 ---
 
 Predicate to describe the email-Address-Text of ContactPoint, Organization, Person.
 
 Use it like this: 
-- [has_/text_of_/email :: Text ] 
-- [ has_text_of_email :: Text ] 
+- has_text_of_email = `=this.dv_has_text_of_email`  
+- has_text_of_email = `=this.dv_has_text_of_email`  
 
 Email address.
 
 Predicated describes that: 
 
-#has_/domain  :: ContactPoint, Organization, Person  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_email )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

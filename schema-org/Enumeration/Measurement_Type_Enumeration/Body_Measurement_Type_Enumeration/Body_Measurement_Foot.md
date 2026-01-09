@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_foot
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_foot Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_body_measurement_foot Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../BodyMeasurementTypeEnumeration]]"
+  enum_of: "[[../BodyMeasurementTypeEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot|Body_Measurement_Foot]]"
+    - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.public|Body_Measurement_Foot.public]]"
+    - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.internal|Body_Measurement_Foot.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.protect|Body_Measurement_Foot.protect]]"
+    - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.private|Body_Measurement_Foot.private]]"
+    - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.personal|Body_Measurement_Foot.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.secret|Body_Measurement_Foot.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../BodyMeasurementTypeEnumeration]]"
+dv_is_enum_of: "[[../BodyMeasurementTypeEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot|Body_Measurement_Foot]]"
+  - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.public|Body_Measurement_Foot.public]]"
+  - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.internal|Body_Measurement_Foot.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.protect|Body_Measurement_Foot.protect]]"
+  - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.private|Body_Measurement_Foot.private]]"
+  - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.personal|Body_Measurement_Foot.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.secret|Body_Measurement_Foot.secret]]"
 ---
 
 Class of all body_measurement_foots.
@@ -33,13 +56,13 @@ Class of all body_measurement_foots.
 Tag Instances like this: 
 #is_a_/body_measurement_foot
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Foot length (measured between end of the most prominent toe and the most prominent part of the heel). Used, for example, to measure socks.
 
-#is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../BodyMeasurementTypeEnumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

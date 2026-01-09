@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - deactivate_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_deactivate_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_deactivate_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ControlAction]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action|Deactivate_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.public|Deactivate_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.internal|Deactivate_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.protect|Deactivate_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.private|Deactivate_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.personal|Deactivate_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.secret|Deactivate_Action.secret]]"
+dv_has_:
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_sub_class_of: "[[../ControlAction]]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action|Deactivate_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.public|Deactivate_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.internal|Deactivate_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.protect|Deactivate_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.private|Deactivate_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.personal|Deactivate_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.secret|Deactivate_Action.secret]]"
 ---
 
 Class of all deactivate_actions.
@@ -34,9 +56,9 @@ Tag Instances like this:
 
 The act of stopping or deactivating a device or application (e.g. stopping a timer or turning off a flashlight).
 
-#is_/sub_class_of :: [[../ControlAction]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

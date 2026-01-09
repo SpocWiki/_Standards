@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,30 +16,57 @@ keywords:
   - holder
   - copyright_holder
   - copyrightHolder
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_copyright_holder
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_copyright_holder
 type: Predi_Relation
+dv_has_:
+  copyright_holder: Organization, Person
+  domain: CreativeWork
+dv_has_copyright_holder: Organization, Person
+dv_#has_:
+  name: has_copyright_holder
+  range: Organization, Person
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_copyright_holder|has_copyright_holder]]"
+    - "[[/_public/schema-org/Relation/has/has_copyright_holder.public|has_copyright_holder.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_copyright_holder.internal|has_copyright_holder.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_copyright_holder.protect|has_copyright_holder.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_copyright_holder.private|has_copyright_holder.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_copyright_holder.personal|has_copyright_holder.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_copyright_holder.secret|has_copyright_holder.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: has_copyright_holder
+dv_has_range: Organization, Person
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_copyright_holder|has_copyright_holder]]"
+  - "[[/_public/schema-org/Relation/has/has_copyright_holder.public|has_copyright_holder.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_copyright_holder.internal|has_copyright_holder.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_copyright_holder.protect|has_copyright_holder.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_copyright_holder.private|has_copyright_holder.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_copyright_holder.personal|has_copyright_holder.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_copyright_holder.secret|has_copyright_holder.secret]]"
 ---
 
 Use it like this: 
-- [has_/copyright_holder :: Organization, Person ] 
-- [ has_copyright_holder :: Organization, Person ] 
+- has_copyright_holder = `=this.dv_has_copyright_holder`  
+- has_copyright_holder = `=this.dv_has_copyright_holder`  
 
 The party holding the legal copyright to the CreativeWork.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_copyright_holder )
-( #has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

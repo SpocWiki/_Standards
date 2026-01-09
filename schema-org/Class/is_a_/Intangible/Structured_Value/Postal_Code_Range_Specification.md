@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - postal_code_range_specification
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_postal_code_range_specification Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_postal_code_range_specification Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../StructuredValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification|Postal_Code_Range_Specification]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.public|Postal_Code_Range_Specification.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.internal|Postal_Code_Range_Specification.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.protect|Postal_Code_Range_Specification.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.private|Postal_Code_Range_Specification.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.personal|Postal_Code_Range_Specification.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.secret|Postal_Code_Range_Specification.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification|Postal_Code_Range_Specification]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.public|Postal_Code_Range_Specification.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.internal|Postal_Code_Range_Specification.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.protect|Postal_Code_Range_Specification.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.private|Postal_Code_Range_Specification.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.personal|Postal_Code_Range_Specification.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.secret|Postal_Code_Range_Specification.secret]]"
 ---
 
 Class of all postal_code_range_specifications.
@@ -32,13 +56,13 @@ Class of all postal_code_range_specifications.
 Tag Instances like this: 
 #is_a_/postal_code_range_specification
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Indicates a range of postal codes, usually defined as the set of valid codes between [[postalCodeBegin]] and [[postalCodeEnd]], inclusively.
 
-#is_/sub_class_of :: [[../StructuredValue]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

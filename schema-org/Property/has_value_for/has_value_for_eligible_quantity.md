@@ -10,37 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - eligible-quantity
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_eligible-quantity
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_eligible-quantity
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    eligible_quantity: QuantitativeValue
+  domain: Demand, Offer, PriceSpecification
+dv_has_value_for_eligible_quantity: QuantitativeValue
+dv_#has_:
+  name: has_value_for_eligible_quantity
+  range: QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_quantity|has_value_for_eligible_quantity]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_eligible_quantity.public|has_value_for_eligible_quantity.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_eligible_quantity.internal|has_value_for_eligible_quantity.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_eligible_quantity.protect|has_value_for_eligible_quantity.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_eligible_quantity.private|has_value_for_eligible_quantity.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_eligible_quantity.personal|has_value_for_eligible_quantity.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_eligible_quantity.secret|has_value_for_eligible_quantity.secret]]"
+dv_has_domain: Demand, Offer, PriceSpecification
+dv_has_name: has_value_for_eligible_quantity
+dv_has_range: QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_quantity|has_value_for_eligible_quantity]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_eligible_quantity.public|has_value_for_eligible_quantity.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_eligible_quantity.internal|has_value_for_eligible_quantity.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_eligible_quantity.protect|has_value_for_eligible_quantity.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_eligible_quantity.private|has_value_for_eligible_quantity.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_eligible_quantity.personal|has_value_for_eligible_quantity.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_eligible_quantity.secret|has_value_for_eligible_quantity.secret]]"
 ---
 
 Predicate to describe the Quantity of Demand, Offer, PriceSpecification.
 
 Use it like this: 
-- [has_/value_for_/eligible_quantity :: QuantitativeValue ] 
-- [ has_value_for_eligible_quantity :: QuantitativeValue ] 
+- has_value_for_eligible_quantity = `=this.dv_has_value_for_eligible_quantity`  
+- has_value_for_eligible_quantity = `=this.dv_has_value_for_eligible_quantity`  
 
 The interval and unit of measurement of ordering quantities for which the offer or price specification is valid. This allows e.g. specifying that a certain freight charge is valid only for a certain quantity.
 
 Predicate describes that: 
 
-#has_/domain  :: Demand, Offer, PriceSpecification  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_eligible_quantity )
-( #has_/range :: QuantitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

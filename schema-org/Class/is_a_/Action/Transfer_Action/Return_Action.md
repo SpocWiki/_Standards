@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_return_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_return_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../TransferAction]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action|Return_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.public|Return_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.internal|Return_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.protect|Return_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.private|Return_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.personal|Return_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.secret|Return_Action.secret]]"
+dv_has_:
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
+dv_is_sub_class_of: "[[../TransferAction]]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action|Return_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.public|Return_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.internal|Return_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.protect|Return_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.private|Return_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.personal|Return_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.secret|Return_Action.secret]]"
 ---
 
 Class of all return_actions.
@@ -34,9 +56,9 @@ Tag Instances like this:
 
 The act of returning to the origin that which was previously received (concrete objects) or taken (ownership).
 
-#is_/sub_class_of :: [[../TransferAction]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

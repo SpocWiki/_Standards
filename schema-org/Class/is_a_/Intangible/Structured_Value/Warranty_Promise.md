@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - warranty_promise
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_warranty_promise Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_warranty_promise Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../StructuredValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.public|Warranty_Promise.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.internal|Warranty_Promise.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.protect|Warranty_Promise.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.private|Warranty_Promise.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.personal|Warranty_Promise.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.secret|Warranty_Promise.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, durationOfWarranty, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, warrantyScope ]"
+dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, durationOfWarranty, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, warrantyScope ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.public|Warranty_Promise.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.internal|Warranty_Promise.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.protect|Warranty_Promise.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.private|Warranty_Promise.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.personal|Warranty_Promise.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.secret|Warranty_Promise.secret]]"
 ---
 
 Class of all warranty_promises.
@@ -34,9 +56,9 @@ Tag Instances like this:
 
 A structured value representing the duration and scope of services that will be provided to a customer free of charge in case of a defect or malfunction of a product.
 
-#is_/sub_class_of :: [[../StructuredValue]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, durationOfWarranty, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, warrantyScope ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

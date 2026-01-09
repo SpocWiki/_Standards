@@ -10,21 +10,49 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - number-of-rooms
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-rooms
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_number-of-rooms
 type: Predi_Count
+dv_has_:
+  number_of_:
+    rooms: Number, QuantitativeValue
+  domain: Accommodation, Apartment, FloorPlan, House, LodgingBusiness, SingleFamilyResidence, Suite
+dv_has_number_of_rooms: Number, QuantitativeValue
+dv_#has_:
+  name: has_number_of_rooms
+  range: Number, QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_rooms|has_number_of_rooms]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_rooms.public|has_number_of_rooms.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_rooms.internal|has_number_of_rooms.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_rooms.protect|has_number_of_rooms.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_rooms.private|has_number_of_rooms.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_rooms.personal|has_number_of_rooms.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_rooms.secret|has_number_of_rooms.secret]]"
+dv_has_domain: Accommodation, Apartment, FloorPlan, House, LodgingBusiness, SingleFamilyResidence, Suite
+dv_has_name: has_number_of_rooms
+dv_has_range: Number, QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_rooms|has_number_of_rooms]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_rooms.public|has_number_of_rooms.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_rooms.internal|has_number_of_rooms.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_rooms.protect|has_number_of_rooms.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_rooms.private|has_number_of_rooms.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_rooms.personal|has_number_of_rooms.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_rooms.secret|has_number_of_rooms.secret]]"
 ---
 
 # [[has_number_of_rooms]] 
@@ -36,15 +64,15 @@ The type of room can be put in the [[../Texts/has_unit_text|unitText]] property 
 
 
 Use it like this: 
-- [has_/number_of_/rooms :: Number, QuantitativeValue ] 
-- [ has_number_of_rooms :: Number, QuantitativeValue ] 
+- has_number_of_rooms = `=this.dv_has_number_of_rooms`  
+- has_number_of_rooms = `=this.dv_has_number_of_rooms`  
 
 Predicate describes that: 
 
-#has_/domain  :: Accommodation, Apartment, FloorPlan, House, LodgingBusiness, SingleFamilyResidence, Suite  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_number_of_rooms )
-( #has_/range :: Number, QuantitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -10,35 +10,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - translator
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_translator
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_translator
 type: Predi_Relation
+dv_has_:
+  translator: Organization, Person
+  domain: CreativeWork, Event
+dv_has_translator: Organization, Person
+dv_#has_:
+  name: is_translator
+  range: Organization, Person
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_translator|has_translator]]"
+    - "[[/_public/schema-org/Relation/has/has_translator.public|has_translator.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_translator.internal|has_translator.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_translator.protect|has_translator.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
+dv_has_domain: CreativeWork, Event
+dv_has_name: is_translator
+dv_has_range: Organization, Person
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_translator|has_translator]]"
+  - "[[/_public/schema-org/Relation/has/has_translator.public|has_translator.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_translator.internal|has_translator.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_translator.protect|has_translator.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
 ---
 
 Use it like this: 
-- [has_/translator :: Organization, Person ] 
-- [ has_translator :: Organization, Person ] 
+- has_translator = `=this.dv_has_translator`  
+- has_translator = `=this.dv_has_translator`  
 
 Organization or person who adapts a creative work to different languages, regional differences and technical requirements of a target market, or that translates during some event.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork, Event  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_translator )
-( #has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

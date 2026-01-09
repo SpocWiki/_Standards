@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - qualitative_value
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_qualitative_value Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_qualitative_value Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Qualitative_Value|Qualitative_Value]]"
+    - "[[/_public/schema-org/Enumeration/Qualitative_Value.public|Qualitative_Value.public]]"
+    - "[[/_internal/schema-org/Enumeration/Qualitative_Value.internal|Qualitative_Value.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Qualitative_Value.protect|Qualitative_Value.protect]]"
+    - "[[/_private/schema-org/Enumeration/Qualitative_Value.private|Qualitative_Value.private]]"
+    - "[[/_personal/schema-org/Enumeration/Qualitative_Value.personal|Qualitative_Value.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Qualitative_Value.secret|Qualitative_Value.secret]]"
+dv_has_:
+  sub_classes: "[ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ]"
+  properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_sub_classes: "[ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ]"
+dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Qualitative_Value|Qualitative_Value]]"
+  - "[[/_public/schema-org/Enumeration/Qualitative_Value.public|Qualitative_Value.public]]"
+  - "[[/_internal/schema-org/Enumeration/Qualitative_Value.internal|Qualitative_Value.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Qualitative_Value.protect|Qualitative_Value.protect]]"
+  - "[[/_private/schema-org/Enumeration/Qualitative_Value.private|Qualitative_Value.private]]"
+  - "[[/_personal/schema-org/Enumeration/Qualitative_Value.personal|Qualitative_Value.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Qualitative_Value.secret|Qualitative_Value.secret]]"
 ---
 
 Class of all qualitative_values.
@@ -34,11 +58,11 @@ Tag Instances like this:
 
 A predefined value for a product characteristic, e.g. the power cord plug type 'US' or the garment sizes 'S', 'M', 'L', and 'XL'.
 
-#is_/sub_class_of :: [[../Enumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-#has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

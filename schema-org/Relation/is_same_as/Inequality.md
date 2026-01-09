@@ -12,6 +12,25 @@ has_part_s_: "[[_Standards/WikiData/WD~not_equal_to,110013332]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 Commons_category: Inequalities (mathematics)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Linear%20Programming%20Feasible%20Region.svg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Inequality,28113351]]"
+    - "[[/_Standards/schema-org/Relation/is_same_as/Inequality|Inequality]]"
+    - "[[/_public/schema-org/Relation/is_same_as/Inequality.public|Inequality.public]]"
+    - "[[/_internal/schema-org/Relation/is_same_as/Inequality.internal|Inequality.internal]]"
+    - "[[/_protect/schema-org/Relation/is_same_as/Inequality.protect|Inequality.protect]]"
+    - "[[/_private/schema-org/Relation/is_same_as/Inequality.private|Inequality.private]]"
+    - "[[/_personal/schema-org/Relation/is_same_as/Inequality.personal|Inequality.personal]]"
+    - "[[/_secret/schema-org/Relation/is_same_as/Inequality.secret|Inequality.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Inequality,28113351]]"
+  - "[[/_Standards/schema-org/Relation/is_same_as/Inequality|Inequality]]"
+  - "[[/_public/schema-org/Relation/is_same_as/Inequality.public|Inequality.public]]"
+  - "[[/_internal/schema-org/Relation/is_same_as/Inequality.internal|Inequality.internal]]"
+  - "[[/_protect/schema-org/Relation/is_same_as/Inequality.protect|Inequality.protect]]"
+  - "[[/_private/schema-org/Relation/is_same_as/Inequality.private|Inequality.private]]"
+  - "[[/_personal/schema-org/Relation/is_same_as/Inequality.personal|Inequality.personal]]"
+  - "[[/_secret/schema-org/Relation/is_same_as/Inequality.secret|Inequality.secret]]"
 ---
 
 # [[Inequality]] 

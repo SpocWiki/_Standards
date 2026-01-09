@@ -4,10 +4,27 @@ aliases:
   - Homogeneous_Relation
   - Homogeneous Relation
 has_id_wikidata: Q54938846
-subclass_of: '[[_Standards/WikiData/WD~binary_relation,130901]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-opposite_of: '[[_Standards/WikiData/WD~heterogeneous_relation,54939316]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
+subclass_of: "[[_Standards/WikiData/WD~binary_relation,130901]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+opposite_of: "[[_Standards/WikiData/WD~heterogeneous_relation,54939316]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_relation,130324710]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation|Homogeneous_Relation]]"
+    - "[[/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation.public|Homogeneous_Relation.public]]"
+    - "[[/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.internal|Homogeneous_Relation.internal]]"
+    - "[[/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation.protect|Homogeneous_Relation.protect]]"
+    - "[[/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation.private|Homogeneous_Relation.private]]"
+    - "[[/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.personal|Homogeneous_Relation.personal]]"
+    - "[[/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation.secret|Homogeneous_Relation.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation|Homogeneous_Relation]]"
+  - "[[/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation.public|Homogeneous_Relation.public]]"
+  - "[[/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.internal|Homogeneous_Relation.internal]]"
+  - "[[/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation.protect|Homogeneous_Relation.protect]]"
+  - "[[/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation.private|Homogeneous_Relation.private]]"
+  - "[[/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.personal|Homogeneous_Relation.personal]]"
+  - "[[/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation.secret|Homogeneous_Relation.secret]]"
 ---
 
 # [[Homogeneous_Relation]] 

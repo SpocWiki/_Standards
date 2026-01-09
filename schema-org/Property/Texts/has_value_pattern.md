@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - value
   - pattern
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_value_pattern
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_value_pattern
 type: Pred_Text
+dv_has_:
+  text_of_:
+    value_pattern: Text
+  domain: PropertyValueSpecification
+dv_has_text_of_value_pattern: Text
+dv_#has_:
+  name: has_text_of_value_pattern
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_value_pattern|has_value_pattern]]"
+    - "[[/_public/schema-org/Property/Texts/has_value_pattern.public|has_value_pattern.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_value_pattern.internal|has_value_pattern.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_value_pattern.protect|has_value_pattern.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_value_pattern.private|has_value_pattern.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_value_pattern.personal|has_value_pattern.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_value_pattern.secret|has_value_pattern.secret]]"
+dv_has_domain: PropertyValueSpecification
+dv_has_name: has_text_of_value_pattern
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_value_pattern|has_value_pattern]]"
+  - "[[/_public/schema-org/Property/Texts/has_value_pattern.public|has_value_pattern.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_value_pattern.internal|has_value_pattern.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_value_pattern.protect|has_value_pattern.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_value_pattern.private|has_value_pattern.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_value_pattern.personal|has_value_pattern.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_value_pattern.secret|has_value_pattern.secret]]"
 ---
 
 Predicate to describe the Text of PropertyValueSpecification.
 
 Use it like this: 
-- [has_/text_of_/value_pattern :: Text ] 
-- [ has_text_of_value_pattern :: Text ] 
+- has_text_of_value_pattern = `=this.dv_has_text_of_value_pattern`  
+- has_text_of_value_pattern = `=this.dv_has_text_of_value_pattern`  
 
 Specifies a regular expression for testing literal values according to the HTML spec.
 
 Predicated describes that: 
 
-#has_/domain  :: PropertyValueSpecification  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_value_pattern )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

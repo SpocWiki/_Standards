@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ReturnMethodEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_by_mail
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_return_by_mail Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_return_by_mail Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../ReturnMethodEnumeration]]"
+  enum_of: "[[../ReturnMethodEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail|Return_by_Mail]]"
+    - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.public|Return_by_Mail.public]]"
+    - "[[/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.internal|Return_by_Mail.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.protect|Return_by_Mail.protect]]"
+    - "[[/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.private|Return_by_Mail.private]]"
+    - "[[/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.personal|Return_by_Mail.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.secret|Return_by_Mail.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../ReturnMethodEnumeration]]"
+dv_is_enum_of: "[[../ReturnMethodEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail|Return_by_Mail]]"
+  - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.public|Return_by_Mail.public]]"
+  - "[[/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.internal|Return_by_Mail.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.protect|Return_by_Mail.protect]]"
+  - "[[/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.private|Return_by_Mail.private]]"
+  - "[[/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.personal|Return_by_Mail.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.secret|Return_by_Mail.secret]]"
 ---
 
 Class of all return_by_mails.
@@ -33,13 +56,13 @@ Class of all return_by_mails.
 Tag Instances like this: 
 #is_a_/return_by_mail
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Specifies that product returns must be done by mail.
 
-#is_/sub_class_of :: [[../ReturnMethodEnumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../ReturnMethodEnumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

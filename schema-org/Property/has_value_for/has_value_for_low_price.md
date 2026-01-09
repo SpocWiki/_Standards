@@ -10,28 +10,56 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - low-price
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_low-price
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_low-price
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    low_price: Number, Text
+  domain: AggregateOffer
+dv_has_value_for_low_price: Number, Text
+dv_#has_:
+  name: has_value_for_low_price
+  range: Number, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_low_price|has_value_for_low_price]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_low_price.public|has_value_for_low_price.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_low_price.internal|has_value_for_low_price.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_low_price.protect|has_value_for_low_price.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_low_price.private|has_value_for_low_price.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_low_price.personal|has_value_for_low_price.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_low_price.secret|has_value_for_low_price.secret]]"
+dv_has_domain: AggregateOffer
+dv_has_name: has_value_for_low_price
+dv_has_range: Number, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_low_price|has_value_for_low_price]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_low_price.public|has_value_for_low_price.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_low_price.internal|has_value_for_low_price.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_low_price.protect|has_value_for_low_price.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_low_price.private|has_value_for_low_price.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_low_price.personal|has_value_for_low_price.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_low_price.secret|has_value_for_low_price.secret]]"
 ---
 
 Predicate to describe the Quantity of AggregateOffer.
 
 Use it like this: 
-- [has_/value_for_/low_price :: Number, Text ] 
-- [ has_value_for_low_price :: Number, Text ] 
+- has_value_for_low_price = `=this.dv_has_value_for_low_price`  
+- has_value_for_low_price = `=this.dv_has_value_for_low_price`  
 
 The lowest price of all offers available.
 
@@ -48,10 +76,10 @@ Usage guidelines:
 
 Predicate describes that: 
 
-#has_/domain  :: AggregateOffer  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_low_price )
-( #has_/range :: Number, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: SteeringPositionValue
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - left_hand_driving
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_left_hand_driving Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_left_hand_driving Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../SteeringPositionValue]]"
+  enum_of: "[[../SteeringPositionValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving|Left_Hand_Driving]]"
+    - "[[/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.public|Left_Hand_Driving.public]]"
+    - "[[/_internal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.internal|Left_Hand_Driving.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.protect|Left_Hand_Driving.protect]]"
+    - "[[/_private/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.private|Left_Hand_Driving.private]]"
+    - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.personal|Left_Hand_Driving.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.secret|Left_Hand_Driving.secret]]"
+dv_is_sub_class_of: "[[../SteeringPositionValue]]"
+dv_is_enum_of: "[[../SteeringPositionValue]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving|Left_Hand_Driving]]"
+  - "[[/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.public|Left_Hand_Driving.public]]"
+  - "[[/_internal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.internal|Left_Hand_Driving.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.protect|Left_Hand_Driving.protect]]"
+  - "[[/_private/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.private|Left_Hand_Driving.private]]"
+  - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.personal|Left_Hand_Driving.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.secret|Left_Hand_Driving.secret]]"
 ---
 
 Class of all left_hand_drivings.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 The steering position is on the left side of the vehicle (viewed from the main direction of driving).
 
-#is_/sub_class_of :: [[../SteeringPositionValue]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../SteeringPositionValue]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

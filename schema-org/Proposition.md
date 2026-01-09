@@ -5,7 +5,7 @@ aliases:
   - S-P-O
   - Claim~Logic
   - Proposition
-  - ''
+  - ""
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -14,6 +14,23 @@ publish: true
 tags:
   - schema-org/Proposition
 type: Meta
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Proposition|Proposition]]"
+    - "[[/_public/schema-org/Proposition.public|Proposition.public]]"
+    - "[[/_internal/schema-org/Proposition.internal|Proposition.internal]]"
+    - "[[/_protect/schema-org/Proposition.protect|Proposition.protect]]"
+    - "[[/_private/schema-org/Proposition.private|Proposition.private]]"
+    - "[[/_personal/schema-org/Proposition.personal|Proposition.personal]]"
+    - "[[/_secret/schema-org/Proposition.secret|Proposition.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Proposition|Proposition]]"
+  - "[[/_public/schema-org/Proposition.public|Proposition.public]]"
+  - "[[/_internal/schema-org/Proposition.internal|Proposition.internal]]"
+  - "[[/_protect/schema-org/Proposition.protect|Proposition.protect]]"
+  - "[[/_private/schema-org/Proposition.private|Proposition.private]]"
+  - "[[/_personal/schema-org/Proposition.personal|Proposition.personal]]"
+  - "[[/_secret/schema-org/Proposition.secret|Proposition.secret]]"
 ---
 
 # [[Proposition]] 

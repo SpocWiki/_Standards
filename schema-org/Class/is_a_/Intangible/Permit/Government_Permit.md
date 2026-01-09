@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - government_permit
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_government_permit Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_government_permit Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Permit]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Permit/Government_Permit|Government_Permit]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.public|Government_Permit.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.internal|Government_Permit.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.protect|Government_Permit.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.private|Government_Permit.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.personal|Government_Permit.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.secret|Government_Permit.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ]"
+dv_is_sub_class_of: "[[../Permit]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Permit/Government_Permit|Government_Permit]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.public|Government_Permit.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.internal|Government_Permit.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.protect|Government_Permit.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.private|Government_Permit.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.personal|Government_Permit.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.secret|Government_Permit.secret]]"
 ---
 
 Class of all government_permits.
@@ -34,9 +56,9 @@ Tag Instances like this:
 
 A permit issued by a government agency.
 
-#is_/sub_class_of :: [[../Permit]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

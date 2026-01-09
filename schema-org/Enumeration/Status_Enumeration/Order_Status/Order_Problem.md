@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - order_problem
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_order_problem Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_order_problem Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../OrderStatus]]"
+  enum_of: "[[../OrderStatus]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem|Order_Problem]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.public|Order_Problem.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.internal|Order_Problem.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.protect|Order_Problem.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.private|Order_Problem.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.personal|Order_Problem.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.secret|Order_Problem.secret]]"
+dv_is_sub_class_of: "[[../OrderStatus]]"
+dv_is_enum_of: "[[../OrderStatus]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem|Order_Problem]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.public|Order_Problem.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.internal|Order_Problem.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.protect|Order_Problem.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.private|Order_Problem.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.personal|Order_Problem.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.secret|Order_Problem.secret]]"
 ---
 
 Class of all order_problems.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 OrderStatus representing that there is a problem with the order.
 
-#is_/sub_class_of :: [[../OrderStatus]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../OrderStatus]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

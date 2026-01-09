@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - edited_or_cropped_content
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_edited_or_cropped_content Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_edited_or_cropped_content Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content|Edited_or_Cropped_Content]]"
+    - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.public|Edited_or_Cropped_Content.public]]"
+    - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.internal|Edited_or_Cropped_Content.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.protect|Edited_or_Cropped_Content.protect]]"
+    - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.private|Edited_or_Cropped_Content.private]]"
+    - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.personal|Edited_or_Cropped_Content.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.secret|Edited_or_Cropped_Content.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content|Edited_or_Cropped_Content]]"
+  - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.public|Edited_or_Cropped_Content.public]]"
+  - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.internal|Edited_or_Cropped_Content.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.protect|Edited_or_Cropped_Content.protect]]"
+  - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.private|Edited_or_Cropped_Content.private]]"
+  - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.personal|Edited_or_Cropped_Content.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.secret|Edited_or_Cropped_Content.secret]]"
 ---
 
 Class of all edited_or_cropped_contents.
@@ -33,7 +56,7 @@ Class of all edited_or_cropped_contents.
 Tag Instances like this: 
 #is_an_/edited_or_cropped_content
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Content coded 'edited or cropped content' in a [[MediaReview]], 
 considered in the context of how it was published or shared.
@@ -49,9 +72,9 @@ The audio has been edited or rearranged. This category applies to time edits,
 including editing multiple audio clips together to alter the story being told
 or editing out large portions from the recording.
 
-#is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -8,21 +8,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - flight
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_flight Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_flight Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Trip]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Flight|Flight]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Flight.public|Flight.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Flight.internal|Flight.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Flight.protect|Flight.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Flight.private|Flight.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Flight.personal|Flight.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Flight.secret|Flight.secret]]"
+dv_has_:
+  properties: "[ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ]"
+dv_is_sub_class_of: "[[../Trip]]"
+dv_has_properties: "[ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Flight|Flight]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Flight.public|Flight.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Flight.internal|Flight.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Flight.protect|Flight.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Flight.private|Flight.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Flight.personal|Flight.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Flight.secret|Flight.secret]]"
 ---
 
 Class of all flights.
@@ -32,9 +54,9 @@ Tag Instances like this:
 
 An airline flight.
 
-#is_/sub_class_of :: [[../Trip]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

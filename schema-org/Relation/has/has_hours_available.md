@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - hours_available
   - hours
   - available
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_hours_available
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_hours_available
 type: Predi_Relation
+dv_has_:
+  hours_available: OpeningHoursSpecification
+  domain: ContactPoint, LocationFeatureSpecification, Service
+dv_has_hours_available: OpeningHoursSpecification
+dv_#has_:
+  name: has_hours_available
+  range: OpeningHoursSpecification
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_hours_available|has_hours_available]]"
+    - "[[/_public/schema-org/Relation/has/has_hours_available.public|has_hours_available.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_hours_available.internal|has_hours_available.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_hours_available.protect|has_hours_available.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_hours_available.private|has_hours_available.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_hours_available.personal|has_hours_available.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_hours_available.secret|has_hours_available.secret]]"
+dv_has_domain: ContactPoint, LocationFeatureSpecification, Service
+dv_has_name: has_hours_available
+dv_has_range: OpeningHoursSpecification
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_hours_available|has_hours_available]]"
+  - "[[/_public/schema-org/Relation/has/has_hours_available.public|has_hours_available.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_hours_available.internal|has_hours_available.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_hours_available.protect|has_hours_available.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_hours_available.private|has_hours_available.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_hours_available.personal|has_hours_available.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_hours_available.secret|has_hours_available.secret]]"
 ---
 
 Use it like this: 
-- [has_/hours_available :: OpeningHoursSpecification ] 
-- [ has_hours_available :: OpeningHoursSpecification ] 
+- has_hours_available = `=this.dv_has_hours_available`  
+- has_hours_available = `=this.dv_has_hours_available`  
 
 The hours during which this service or contact is available.
 
 Relation describes that: 
 
-#has_/domain  :: ContactPoint, LocationFeatureSpecification, Service  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_hours_available )
-( #has_/range :: OpeningHoursSpecification )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -10,37 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - interest-rate
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_interest-rate
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_interest-rate
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    interest_rate: Number, QuantitativeValue
+  domain: FinancialProduct
+dv_has_value_for_interest_rate: Number, QuantitativeValue
+dv_#has_:
+  name: has_value_for_interest_rate
+  range: Number, QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_interest_rate|has_value_for_interest_rate]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_interest_rate.public|has_value_for_interest_rate.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_interest_rate.internal|has_value_for_interest_rate.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_interest_rate.protect|has_value_for_interest_rate.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_interest_rate.private|has_value_for_interest_rate.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_interest_rate.personal|has_value_for_interest_rate.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_interest_rate.secret|has_value_for_interest_rate.secret]]"
+dv_has_domain: FinancialProduct
+dv_has_name: has_value_for_interest_rate
+dv_has_range: Number, QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_interest_rate|has_value_for_interest_rate]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_interest_rate.public|has_value_for_interest_rate.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_interest_rate.internal|has_value_for_interest_rate.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_interest_rate.protect|has_value_for_interest_rate.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_interest_rate.private|has_value_for_interest_rate.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_interest_rate.personal|has_value_for_interest_rate.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_interest_rate.secret|has_value_for_interest_rate.secret]]"
 ---
 
 Predicate to describe the Quantity of FinancialProduct.
 
 Use it like this: 
-- [has_/value_for_/interest_rate :: Number, QuantitativeValue ] 
-- [ has_value_for_interest_rate :: Number, QuantitativeValue ] 
+- has_value_for_interest_rate = `=this.dv_has_value_for_interest_rate`  
+- has_value_for_interest_rate = `=this.dv_has_value_for_interest_rate`  
 
 The interest rate, charged or paid, applicable to the financial product. Note: This is different from the calculated annualPercentageRate.
 
 Predicate describes that: 
 
-#has_/domain  :: FinancialProduct  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_interest_rate )
-( #has_/range :: Number, QuantitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: EnergyStarEnergyEfficiencyEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - energy_star_certified
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_energy_star_certified Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_energy_star_certified Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../EnergyStarEnergyEfficiencyEnumeration]]"
+  enum_of: "[[../EnergyStarEnergyEfficiencyEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified|Energy_Star_Certified]]"
+    - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.public|Energy_Star_Certified.public]]"
+    - "[[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.internal|Energy_Star_Certified.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.protect|Energy_Star_Certified.protect]]"
+    - "[[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.private|Energy_Star_Certified.private]]"
+    - "[[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.personal|Energy_Star_Certified.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.secret|Energy_Star_Certified.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../EnergyStarEnergyEfficiencyEnumeration]]"
+dv_is_enum_of: "[[../EnergyStarEnergyEfficiencyEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified|Energy_Star_Certified]]"
+  - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.public|Energy_Star_Certified.public]]"
+  - "[[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.internal|Energy_Star_Certified.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.protect|Energy_Star_Certified.protect]]"
+  - "[[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.private|Energy_Star_Certified.private]]"
+  - "[[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.personal|Energy_Star_Certified.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration/Energy_Star_Certified.secret|Energy_Star_Certified.secret]]"
 ---
 
 Class of all energy_star_certifieds.
@@ -33,13 +56,13 @@ Class of all energy_star_certifieds.
 Tag Instances like this: 
 #is_an_/energy_star_certified
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Represents EnergyStar certification.
 
-#is_/sub_class_of :: [[../EnergyStarEnergyEfficiencyEnumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../EnergyStarEnergyEfficiencyEnumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

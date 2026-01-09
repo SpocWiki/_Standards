@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_list_order_type
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_item_list_order_type Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_item_list_order_type Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Item_List_Order_Type|Item_List_Order_Type]]"
+    - "[[/_public/schema-org/Enumeration/Item_List_Order_Type.public|Item_List_Order_Type.public]]"
+    - "[[/_internal/schema-org/Enumeration/Item_List_Order_Type.internal|Item_List_Order_Type.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Item_List_Order_Type.protect|Item_List_Order_Type.protect]]"
+    - "[[/_private/schema-org/Enumeration/Item_List_Order_Type.private|Item_List_Order_Type.private]]"
+    - "[[/_personal/schema-org/Enumeration/Item_List_Order_Type.personal|Item_List_Order_Type.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Item_List_Order_Type.secret|Item_List_Order_Type.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Item_List_Order_Type|Item_List_Order_Type]]"
+  - "[[/_public/schema-org/Enumeration/Item_List_Order_Type.public|Item_List_Order_Type.public]]"
+  - "[[/_internal/schema-org/Enumeration/Item_List_Order_Type.internal|Item_List_Order_Type.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Item_List_Order_Type.protect|Item_List_Order_Type.protect]]"
+  - "[[/_private/schema-org/Enumeration/Item_List_Order_Type.private|Item_List_Order_Type.private]]"
+  - "[[/_personal/schema-org/Enumeration/Item_List_Order_Type.personal|Item_List_Order_Type.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Item_List_Order_Type.secret|Item_List_Order_Type.secret]]"
 ---
 
 Class of all item_list_order_types.
@@ -34,7 +53,7 @@ Tag Instances like this:
 
 Enumerated for values for itemListOrder for indicating how an ordered ItemList is organized.
 
-#is_/sub_class_of :: [[../Enumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

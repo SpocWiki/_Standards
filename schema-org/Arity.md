@@ -13,6 +13,23 @@ aliases:
   - degree
   - valency
   - Stelligkeit
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Arity|Arity]]"
+    - "[[/_public/schema-org/Arity.public|Arity.public]]"
+    - "[[/_internal/schema-org/Arity.internal|Arity.internal]]"
+    - "[[/_protect/schema-org/Arity.protect|Arity.protect]]"
+    - "[[/_private/schema-org/Arity.private|Arity.private]]"
+    - "[[/_personal/schema-org/Arity.personal|Arity.personal]]"
+    - "[[/_secret/schema-org/Arity.secret|Arity.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Arity|Arity]]"
+  - "[[/_public/schema-org/Arity.public|Arity.public]]"
+  - "[[/_internal/schema-org/Arity.internal|Arity.internal]]"
+  - "[[/_protect/schema-org/Arity.protect|Arity.protect]]"
+  - "[[/_private/schema-org/Arity.private|Arity.private]]"
+  - "[[/_personal/schema-org/Arity.personal|Arity.personal]]"
+  - "[[/_secret/schema-org/Arity.secret|Arity.secret]]"
 ---
 
 # [[Arity]] 

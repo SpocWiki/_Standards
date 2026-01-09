@@ -7,35 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - thumbnail
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_thumbnail
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_thumbnail
 type: Predi_Relation
+dv_has_:
+  thumbnail: ImageObject
+  domain: ImageObject, VideoObject
+dv_has_thumbnail: ImageObject
+dv_#has_:
+  name: is_thumbnail
+  range: ImageObject
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_thumbnail|has_thumbnail]]"
+    - "[[/_public/schema-org/Relation/has/has_thumbnail.public|has_thumbnail.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_thumbnail.internal|has_thumbnail.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_thumbnail.protect|has_thumbnail.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_thumbnail.private|has_thumbnail.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_thumbnail.personal|has_thumbnail.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_thumbnail.secret|has_thumbnail.secret]]"
+dv_has_domain: ImageObject, VideoObject
+dv_has_name: is_thumbnail
+dv_has_range: ImageObject
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_thumbnail|has_thumbnail]]"
+  - "[[/_public/schema-org/Relation/has/has_thumbnail.public|has_thumbnail.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_thumbnail.internal|has_thumbnail.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_thumbnail.protect|has_thumbnail.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_thumbnail.private|has_thumbnail.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_thumbnail.personal|has_thumbnail.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_thumbnail.secret|has_thumbnail.secret]]"
 ---
 
 Use it like this: 
-- [has_/thumbnail :: ImageObject ] 
-- [ has_thumbnail :: ImageObject ] 
+- has_thumbnail = `=this.dv_has_thumbnail`  
+- has_thumbnail = `=this.dv_has_thumbnail`  
 
 Thumbnail image for an image or video.
 
 Relation describes that: 
 
-#has_/domain  :: ImageObject, VideoObject  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_thumbnail )
-( #has_/range :: ImageObject )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

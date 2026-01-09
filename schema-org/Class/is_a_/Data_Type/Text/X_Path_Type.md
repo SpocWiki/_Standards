@@ -10,22 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - x_path_type
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_x_path_type Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
   - class/data_type
 title: is_a_x_path_type Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Text]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type|X_Path_Type]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.public|X_Path_Type.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.internal|X_Path_Type.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.protect|X_Path_Type.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.private|X_Path_Type.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.personal|X_Path_Type.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.secret|X_Path_Type.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Text]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type|X_Path_Type]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.public|X_Path_Type.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.internal|X_Path_Type.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.protect|X_Path_Type.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.private|X_Path_Type.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.personal|X_Path_Type.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/X_Path_Type.secret|X_Path_Type.secret]]"
 ---
 
 # [[x_path_type]] 
@@ -35,11 +56,11 @@ Class of all x_path_types.
 Tag Instances like this: 
 #is_a_/x_path_type
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Text representing an XPath (typically but not necessarily version 1.0).
 
-#is_/sub_class_of :: [[../Text]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

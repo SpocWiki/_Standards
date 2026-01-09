@@ -10,37 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - dose-schedule
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_dose-schedule
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_dose-schedule
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    dose_schedule: DoseSchedule
+  domain: Drug, TherapeuticProcedure
+dv_has_value_for_dose_schedule: DoseSchedule
+dv_#has_:
+  name: has_value_for_dose_schedule
+  range: DoseSchedule
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_dose_schedule|has_value_for_dose_schedule]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_dose_schedule.public|has_value_for_dose_schedule.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_dose_schedule.internal|has_value_for_dose_schedule.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_dose_schedule.protect|has_value_for_dose_schedule.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_dose_schedule.private|has_value_for_dose_schedule.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_dose_schedule.personal|has_value_for_dose_schedule.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_dose_schedule.secret|has_value_for_dose_schedule.secret]]"
+dv_has_domain: Drug, TherapeuticProcedure
+dv_has_name: has_value_for_dose_schedule
+dv_has_range: DoseSchedule
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_dose_schedule|has_value_for_dose_schedule]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_dose_schedule.public|has_value_for_dose_schedule.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_dose_schedule.internal|has_value_for_dose_schedule.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_dose_schedule.protect|has_value_for_dose_schedule.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_dose_schedule.private|has_value_for_dose_schedule.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_dose_schedule.personal|has_value_for_dose_schedule.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_dose_schedule.secret|has_value_for_dose_schedule.secret]]"
 ---
 
 Predicate to describe the Quantity of Drug, TherapeuticProcedure.
 
 Use it like this: 
-- [has_/value_for_/dose_schedule :: DoseSchedule ] 
-- [ has_value_for_dose_schedule :: DoseSchedule ] 
+- has_value_for_dose_schedule = `=this.dv_has_value_for_dose_schedule`  
+- has_value_for_dose_schedule = `=this.dv_has_value_for_dose_schedule`  
 
 A dosing schedule for the drug for a given population, either observed, recommended, or maximum dose based on the type used.
 
 Predicate describes that: 
 
-#has_/domain  :: Drug, TherapeuticProcedure  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_dose_schedule )
-( #has_/range :: DoseSchedule )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

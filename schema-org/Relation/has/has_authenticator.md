@@ -7,26 +7,53 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - authenticator
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_authenticator
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_authenticator
 type: Predi_Relation
+dv_has_:
+  authenticator: Organization
+  domain: MediaSubscription
+dv_has_authenticator: Organization
+dv_#has_:
+  name: has_authenticator
+  range: Organization
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_authenticator|has_authenticator]]"
+    - "[[/_public/schema-org/Relation/has/has_authenticator.public|has_authenticator.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_authenticator.internal|has_authenticator.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_authenticator.protect|has_authenticator.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_authenticator.private|has_authenticator.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_authenticator.personal|has_authenticator.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_authenticator.secret|has_authenticator.secret]]"
+dv_has_domain: MediaSubscription
+dv_has_name: has_authenticator
+dv_has_range: Organization
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_authenticator|has_authenticator]]"
+  - "[[/_public/schema-org/Relation/has/has_authenticator.public|has_authenticator.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_authenticator.internal|has_authenticator.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_authenticator.protect|has_authenticator.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_authenticator.private|has_authenticator.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_authenticator.personal|has_authenticator.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_authenticator.secret|has_authenticator.secret]]"
 ---
 
 Use it like this: 
-- [has_/authenticator :: Organization ] 
-- [ has_authenticator :: Organization ] 
+- has_authenticator = `=this.dv_has_authenticator`  
+- has_authenticator = `=this.dv_has_authenticator`  
 
 The Organization responsible for authenticating the user's subscription.
 For example, many media apps require a cable/satellite provider to authenticate your subscription
@@ -34,10 +61,10 @@ before playing media.
 
 Relation describes that: 
 
-#has_/domain  :: MediaSubscription  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_authenticator )
-( #has_/range :: Organization )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

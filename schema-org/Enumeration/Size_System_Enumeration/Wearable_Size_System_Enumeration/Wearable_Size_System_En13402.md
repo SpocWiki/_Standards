@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_system_en13402
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_system_en13402 Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_wearable_size_system_en13402 Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../WearableSizeSystemEnumeration]]"
+  enum_of: "[[../WearableSizeSystemEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402|Wearable_Size_System_En13402]]"
+    - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.public|Wearable_Size_System_En13402.public]]"
+    - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.internal|Wearable_Size_System_En13402.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.protect|Wearable_Size_System_En13402.protect]]"
+    - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.private|Wearable_Size_System_En13402.private]]"
+    - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.personal|Wearable_Size_System_En13402.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.secret|Wearable_Size_System_En13402.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../WearableSizeSystemEnumeration]]"
+dv_is_enum_of: "[[../WearableSizeSystemEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402|Wearable_Size_System_En13402]]"
+  - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.public|Wearable_Size_System_En13402.public]]"
+  - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.internal|Wearable_Size_System_En13402.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.protect|Wearable_Size_System_En13402.protect]]"
+  - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.private|Wearable_Size_System_En13402.private]]"
+  - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.personal|Wearable_Size_System_En13402.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402.secret|Wearable_Size_System_En13402.secret]]"
 ---
 
 Class of all wearable_size_system_en13402s.
@@ -33,13 +56,13 @@ Class of all wearable_size_system_en13402s.
 Tag Instances like this: 
 #is_a_/wearable_size_system_en13402
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 EN 13402 (joint European standard for size labelling of clothes).
 
-#is_/sub_class_of :: [[../WearableSizeSystemEnumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../WearableSizeSystemEnumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

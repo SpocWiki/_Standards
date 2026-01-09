@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - accept_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_accept_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_accept_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../AllocateAction]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action|Accept_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.public|Accept_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.internal|Accept_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.protect|Accept_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.private|Accept_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.personal|Accept_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.secret|Accept_Action.secret]]"
+dv_has_:
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_sub_class_of: "[[../AllocateAction]]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action|Accept_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.public|Accept_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.internal|Accept_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.protect|Accept_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.private|Accept_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.personal|Accept_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Accept_Action.secret|Accept_Action.secret]]"
 ---
 
 Class of all accept_actions.
@@ -40,9 +62,9 @@ Related actions:
 <li>[[RejectAction]]: The antonym of AcceptAction.</li>
 </ul>
 
-#is_/sub_class_of :: [[../AllocateAction]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

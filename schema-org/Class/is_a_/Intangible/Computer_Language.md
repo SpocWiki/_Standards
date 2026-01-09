@@ -10,21 +10,41 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - computer_language
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_computer_language Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_computer_language Class
 type: Type
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Computer_Language|Computer_Language]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Computer_Language.public|Computer_Language.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Computer_Language.internal|Computer_Language.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Computer_Language.protect|Computer_Language.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Computer_Language.private|Computer_Language.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Computer_Language.personal|Computer_Language.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Computer_Language.secret|Computer_Language.secret]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Computer_Language|Computer_Language]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Computer_Language.public|Computer_Language.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Computer_Language.internal|Computer_Language.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Computer_Language.protect|Computer_Language.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Computer_Language.private|Computer_Language.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Computer_Language.personal|Computer_Language.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Computer_Language.secret|Computer_Language.secret]]"
 ---
 
 Class of all computer_languages.
@@ -34,7 +54,7 @@ Tag Instances like this:
 
 This type covers computer programming languages such as Scheme and Lisp, as well as other language-like computer representations. Natural languages are best represented with the[[language]]] [[../../../../Language]]_/sub_class_of :: [[../Intangible]] ]
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

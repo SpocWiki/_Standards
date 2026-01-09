@@ -9,24 +9,51 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - interaction_statistic
   - interaction
   - statistic
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_interaction_statistic
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: interactionCount
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_interaction_statistic
 type: Predi_Relation
+dv_has_:
+  interaction_statistic: InteractionCounter
+  domain: CreativeWork, Organization, Person
+dv_has_interaction_statistic: InteractionCounter
+dv_#has_:
+  name: has_interaction_statistic
+  range: InteractionCounter
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_interaction_statistic|has_interaction_statistic]]"
+    - "[[/_public/schema-org/Relation/has/has_interaction_statistic.public|has_interaction_statistic.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_interaction_statistic.internal|has_interaction_statistic.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_interaction_statistic.protect|has_interaction_statistic.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_interaction_statistic.private|has_interaction_statistic.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_interaction_statistic.personal|has_interaction_statistic.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_interaction_statistic.secret|has_interaction_statistic.secret]]"
+dv_has_domain: CreativeWork, Organization, Person
+dv_has_name: has_interaction_statistic
+dv_has_range: InteractionCounter
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_interaction_statistic|has_interaction_statistic]]"
+  - "[[/_public/schema-org/Relation/has/has_interaction_statistic.public|has_interaction_statistic.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_interaction_statistic.internal|has_interaction_statistic.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_interaction_statistic.protect|has_interaction_statistic.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_interaction_statistic.private|has_interaction_statistic.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_interaction_statistic.personal|has_interaction_statistic.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_interaction_statistic.secret|has_interaction_statistic.secret]]"
 ---
 
 This is a List of [[../../Class/is_a_/Intangible/structured_value/interaction_counter|InteractionCounter]]s counting the number of interactions for this CreativeWork using a WebSite or SoftwareApplication. 
@@ -34,15 +61,15 @@ This is a List of [[../../Class/is_a_/Intangible/structured_value/interaction_co
 Use a specific [[has_interaction_type|interactionType]] for each InteractionCounter.
 
 Use it like this: 
-- [has_/interaction_statistic :: InteractionCounter ] 
-- [ has_interaction_statistic :: InteractionCounter ] 
+- has_interaction_statistic = `=this.dv_has_interaction_statistic`  
+- has_interaction_statistic = `=this.dv_has_interaction_statistic`  
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork, Organization, Person  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_interaction_statistic )
-( #has_/range :: InteractionCounter )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 `Supersedes` `has_interaction_count`.
 

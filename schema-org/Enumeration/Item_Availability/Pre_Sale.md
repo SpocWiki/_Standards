@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - pre_sale
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_pre_sale Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_pre_sale Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ItemAvailability]]"
+  enum_of: "[[../ItemAvailability]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Item_Availability/Pre_Sale|Pre_Sale]]"
+    - "[[/_public/schema-org/Enumeration/Item_Availability/Pre_Sale.public|Pre_Sale.public]]"
+    - "[[/_internal/schema-org/Enumeration/Item_Availability/Pre_Sale.internal|Pre_Sale.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Item_Availability/Pre_Sale.protect|Pre_Sale.protect]]"
+    - "[[/_private/schema-org/Enumeration/Item_Availability/Pre_Sale.private|Pre_Sale.private]]"
+    - "[[/_personal/schema-org/Enumeration/Item_Availability/Pre_Sale.personal|Pre_Sale.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Item_Availability/Pre_Sale.secret|Pre_Sale.secret]]"
+dv_is_sub_class_of: "[[../ItemAvailability]]"
+dv_is_enum_of: "[[../ItemAvailability]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Item_Availability/Pre_Sale|Pre_Sale]]"
+  - "[[/_public/schema-org/Enumeration/Item_Availability/Pre_Sale.public|Pre_Sale.public]]"
+  - "[[/_internal/schema-org/Enumeration/Item_Availability/Pre_Sale.internal|Pre_Sale.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Item_Availability/Pre_Sale.protect|Pre_Sale.protect]]"
+  - "[[/_private/schema-org/Enumeration/Item_Availability/Pre_Sale.private|Pre_Sale.private]]"
+  - "[[/_personal/schema-org/Enumeration/Item_Availability/Pre_Sale.personal|Pre_Sale.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Item_Availability/Pre_Sale.secret|Pre_Sale.secret]]"
 ---
 
 Class of all pre_sales.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 Indicates that the item is available for ordering and delivery before general availability.
 
-#is_/sub_class_of :: [[../ItemAvailability]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../ItemAvailability]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

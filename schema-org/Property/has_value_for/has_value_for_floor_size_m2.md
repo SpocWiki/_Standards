@@ -10,38 +10,66 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - floor-size
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_floor-size
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_floor-size
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    floor_size_m2: QuantitativeValue
+  domain: Accommodation, FloorPlan
+dv_has_value_for_floor_size_m2: QuantitativeValue
+dv_#has_:
+  name: has_value_for_floor_size_m2
+  range: QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_floor_size_m2|has_value_for_floor_size_m2]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_floor_size_m2.public|has_value_for_floor_size_m2.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_floor_size_m2.internal|has_value_for_floor_size_m2.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_floor_size_m2.protect|has_value_for_floor_size_m2.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_floor_size_m2.private|has_value_for_floor_size_m2.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_floor_size_m2.personal|has_value_for_floor_size_m2.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_floor_size_m2.secret|has_value_for_floor_size_m2.secret]]"
+dv_has_domain: Accommodation, FloorPlan
+dv_has_name: has_value_for_floor_size_m2
+dv_has_range: QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_floor_size_m2|has_value_for_floor_size_m2]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_floor_size_m2.public|has_value_for_floor_size_m2.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_floor_size_m2.internal|has_value_for_floor_size_m2.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_floor_size_m2.protect|has_value_for_floor_size_m2.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_floor_size_m2.private|has_value_for_floor_size_m2.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_floor_size_m2.personal|has_value_for_floor_size_m2.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_floor_size_m2.secret|has_value_for_floor_size_m2.secret]]"
 ---
 
 Predicate to describe the Quantity of Accommodation, FloorPlan.
 
 Use it like this: 
-- [has_/value_for_/floor_size_m2 :: QuantitativeValue ] 
-- [ has_value_for_floor_size_m2 :: QuantitativeValue ] 
+- has_value_for_floor_size_m2 = `=this.dv_has_value_for_floor_size_m2`  
+- has_value_for_floor_size_m2 = `=this.dv_has_value_for_floor_size_m2`  
 
 The size of the accommodation, e.g. in square meter or squarefoot.
 Typical unit code(s): MTK for square meter, FTK for square foot, or YDK for square yard
 
 Predicate describes that: 
 
-#has_/domain  :: Accommodation, FloorPlan  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_floor_size_m2 )
-( #has_/range :: QuantitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

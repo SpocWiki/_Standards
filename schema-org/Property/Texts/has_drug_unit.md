@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - drug
   - unit
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_drug_unit
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_drug_unit
 type: Pred_Text
+dv_has_:
+  text_of_:
+    drug_unit: Text
+  domain: Drug, DrugCost
+dv_has_text_of_drug_unit: Text
+dv_#has_:
+  name: has_text_of_drug_unit
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_drug_unit|has_drug_unit]]"
+    - "[[/_public/schema-org/Property/Texts/has_drug_unit.public|has_drug_unit.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_drug_unit.internal|has_drug_unit.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_drug_unit.protect|has_drug_unit.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_drug_unit.private|has_drug_unit.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_drug_unit.personal|has_drug_unit.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_drug_unit.secret|has_drug_unit.secret]]"
+dv_has_domain: Drug, DrugCost
+dv_has_name: has_text_of_drug_unit
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_drug_unit|has_drug_unit]]"
+  - "[[/_public/schema-org/Property/Texts/has_drug_unit.public|has_drug_unit.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_drug_unit.internal|has_drug_unit.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_drug_unit.protect|has_drug_unit.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_drug_unit.private|has_drug_unit.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_drug_unit.personal|has_drug_unit.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_drug_unit.secret|has_drug_unit.secret]]"
 ---
 
 Predicate to describe the Text of Drug, DrugCost.
 
 Use it like this: 
-- [has_/text_of_/drug_unit :: Text ] 
-- [ has_text_of_drug_unit :: Text ] 
+- has_text_of_drug_unit = `=this.dv_has_text_of_drug_unit`  
+- has_text_of_drug_unit = `=this.dv_has_text_of_drug_unit`  
 
 The unit in which the drug is measured, e.g. "5 mg tablet".
 
 Predicated describes that: 
 
-#has_/domain  :: Drug, DrugCost  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_drug_unit )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

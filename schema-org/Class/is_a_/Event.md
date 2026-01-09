@@ -17,28 +17,28 @@ equivalent_class:
   - http://www.cidoc-crm.org/entity/e5-event/version-6.2
   - https://schema.org/Event
   - https://www.w3.org/ns/activitystreams#Event
-expiryDate: ''
+expiryDate: ""
 icon: fas_bolt_lightning
 isDeleted: false
 isReadOnly: false
 keywords:
   - event
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_event Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_event Class
 type: Type
-facet_of: '[[_Standards/WikiData/WD~planning,309100]]'
+facet_of: "[[_Standards/WikiData/WD~planning,309100]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~occurrence,1190554]]'
-  - '[[_Standards/WikiData/WD~service,7406919]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Events,60004055]]'
-has_characteristic: '[[_Standards/WikiData/WD~form_of_event,108586636]]'
+  - "[[_Standards/WikiData/WD~occurrence,1190554]]"
+  - "[[_Standards/WikiData/WD~service,7406919]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Events,60004055]]"
+has_characteristic: "[[_Standards/WikiData/WD~form_of_event,108586636]]"
 properties_for_this_type:
   - location
   - officially opened by
@@ -67,6 +67,34 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Brussels%202005-04%20-
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Events%20Banner.jpg
 Commons_category: Events
 Uniform_Type_Identifier: public.calendar-event
+dv_is_:
+  sub_class_of: "[[../Thing|Thing]]"
+  same_as:
+    - "[[_Standards/WikiData/WD~event,1656682]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Event|Event]]"
+    - "[[/_public/schema-org/Class/is_a_/Event.public|Event.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Event.internal|Event.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Event.protect|Event.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Event.private|Event.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Event.personal|Event.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Event.secret|Event.secret]]"
+  similar_to: "[[Event(computing)]]"
+dv_has_:
+  sub_classes: "[ BusinessEvent, ChildrensEvent, ComedyEvent, CourseInstance, DanceEvent, DeliveryEvent, EducationEvent, EventSeries, ExhibitionEvent, Festival, FoodEvent, Hackathon, LiteraryEvent, MusicEvent, PublicationEvent, SaleEvent, ScreeningEvent, SocialEvent, SportsEvent, TheaterEvent, UserInteraction, VisualArtsEvent ]"
+  properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
+dv_is_sub_class_of: "[[../Thing|Thing]]"
+dv_has_sub_classes: "[ BusinessEvent, ChildrensEvent, ComedyEvent, CourseInstance, DanceEvent, DeliveryEvent, EducationEvent, EventSeries, ExhibitionEvent, Festival, FoodEvent, Hackathon, LiteraryEvent, MusicEvent, PublicationEvent, SaleEvent, ScreeningEvent, SocialEvent, SportsEvent, TheaterEvent, UserInteraction, VisualArtsEvent ]"
+dv_has_properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~event,1656682]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Event|Event]]"
+  - "[[/_public/schema-org/Class/is_a_/Event.public|Event.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Event.internal|Event.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Event.protect|Event.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Event.private|Event.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Event.personal|Event.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Event.secret|Event.secret]]"
+dv_is_similar_to: "[[Event(computing)]]"
 ---
 
 # [[Event]] 
@@ -78,14 +106,14 @@ Tag Instances like this:
 
 An event happening at a certain time and location, such as a concert, lecture, or festival. Ticketing information may be added via the [[offers]] property. Repeated events may be structured as separate Event objects.
 
-#is_/sub_class_of :: [[../Thing|Thing]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ BusinessEvent, ChildrensEvent, ComedyEvent, CourseInstance, DanceEvent, DeliveryEvent, EducationEvent, EventSeries, ExhibitionEvent, Festival, FoodEvent, Hackathon, LiteraryEvent, MusicEvent, PublicationEvent, SaleEvent, ScreeningEvent, SocialEvent, SportsEvent, TheaterEvent, UserInteraction, VisualArtsEvent ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-#has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]  
+has_properties = `=this.dv_has_properties` 
 
 #is_/same_as  :: [[_Standards/WikiData/WD~event,1656682]] 
-#is_/similar_to :: [[Event(computing)]] 
+is_similar_to = `=this.dv_is_similar_to` 
 ## #has_/text_of_/abstract 
 
 > In philosophy, events are objects in time or instantiations of properties in objects. 

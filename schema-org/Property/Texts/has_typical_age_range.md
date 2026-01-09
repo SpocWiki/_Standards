@@ -11,39 +11,67 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - typical
   - age
   - range
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_typical_age_range
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_typical_age_range
 type: Pred_Text
+dv_has_:
+  text_of_:
+    typical_age_range: Text
+  domain: CreativeWork, Event
+dv_has_text_of_typical_age_range: Text
+dv_#has_:
+  name: has_text_of_typical_age_range
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_typical_age_range|has_typical_age_range]]"
+    - "[[/_public/schema-org/Property/Texts/has_typical_age_range.public|has_typical_age_range.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_typical_age_range.internal|has_typical_age_range.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_typical_age_range.protect|has_typical_age_range.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_typical_age_range.private|has_typical_age_range.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_typical_age_range.personal|has_typical_age_range.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_typical_age_range.secret|has_typical_age_range.secret]]"
+dv_has_domain: CreativeWork, Event
+dv_has_name: has_text_of_typical_age_range
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_typical_age_range|has_typical_age_range]]"
+  - "[[/_public/schema-org/Property/Texts/has_typical_age_range.public|has_typical_age_range.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_typical_age_range.internal|has_typical_age_range.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_typical_age_range.protect|has_typical_age_range.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_typical_age_range.private|has_typical_age_range.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_typical_age_range.personal|has_typical_age_range.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_typical_age_range.secret|has_typical_age_range.secret]]"
 ---
 
 Predicate to describe the Text of CreativeWork, Event.
 
 Use it like this: 
-- [has_/text_of_/typical_age_range :: Text ] 
-- [ has_text_of_typical_age_range :: Text ] 
+- has_text_of_typical_age_range = `=this.dv_has_text_of_typical_age_range`  
+- has_text_of_typical_age_range = `=this.dv_has_text_of_typical_age_range`  
 
 The typical expected age range, e.g. "7-9", "11-".
 
 Predicated describes that: 
 
-#has_/domain  :: CreativeWork, Event  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_typical_age_range )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

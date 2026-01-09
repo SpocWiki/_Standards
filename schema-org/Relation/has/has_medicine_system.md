@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - medicine_system
   - medicine
   - system
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_medicine_system
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_medicine_system
 type: Predi_Relation
+dv_has_:
+  medicine_system: MedicineSystem
+  domain: MedicalEntity
+dv_has_medicine_system: MedicineSystem
+dv_#has_:
+  name: has_medicine_system
+  range: MedicineSystem
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_medicine_system|has_medicine_system]]"
+    - "[[/_public/schema-org/Relation/has/has_medicine_system.public|has_medicine_system.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_medicine_system.internal|has_medicine_system.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_medicine_system.protect|has_medicine_system.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_medicine_system.private|has_medicine_system.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_medicine_system.personal|has_medicine_system.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_medicine_system.secret|has_medicine_system.secret]]"
+dv_has_domain: MedicalEntity
+dv_has_name: has_medicine_system
+dv_has_range: MedicineSystem
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_medicine_system|has_medicine_system]]"
+  - "[[/_public/schema-org/Relation/has/has_medicine_system.public|has_medicine_system.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_medicine_system.internal|has_medicine_system.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_medicine_system.protect|has_medicine_system.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_medicine_system.private|has_medicine_system.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_medicine_system.personal|has_medicine_system.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_medicine_system.secret|has_medicine_system.secret]]"
 ---
 
 Use it like this: 
-- [has_/medicine_system :: MedicineSystem ] 
-- [ has_medicine_system :: MedicineSystem ] 
+- has_medicine_system = `=this.dv_has_medicine_system`  
+- has_medicine_system = `=this.dv_has_medicine_system`  
 
 The system of medicine that includes this MedicalEntity, for example 'evidence-based', 'homeopathic', 'chiropractic', etc.
 
 Relation describes that: 
 
-#has_/domain  :: MedicalEntity  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_medicine_system )
-( #has_/range :: MedicineSystem )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

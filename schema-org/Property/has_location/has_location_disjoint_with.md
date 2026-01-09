@@ -11,28 +11,56 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_disjoint
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_disjoint
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_disjoint
 type: Pred_geo
+dv_has_:
+  location_:
+    disjoint_with: GeospatialGeometry, Place
+  domain: GeospatialGeometry, Place
+dv_has_location_disjoint_with: GeospatialGeometry, Place
+dv_#has_:
+  name: has_location_disjoint
+  range: GeospatialGeometry, Place
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_location/has_location_disjoint_with|has_location_disjoint_with]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_disjoint_with.public|has_location_disjoint_with.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_disjoint_with.internal|has_location_disjoint_with.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_disjoint_with.protect|has_location_disjoint_with.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_disjoint_with.private|has_location_disjoint_with.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_disjoint_with.personal|has_location_disjoint_with.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_disjoint_with.secret|has_location_disjoint_with.secret]]"
+dv_has_domain: GeospatialGeometry, Place
+dv_has_name: has_location_disjoint
+dv_has_range: GeospatialGeometry, Place
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_location/has_location_disjoint_with|has_location_disjoint_with]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_disjoint_with.public|has_location_disjoint_with.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_disjoint_with.internal|has_location_disjoint_with.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_disjoint_with.protect|has_location_disjoint_with.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_disjoint_with.private|has_location_disjoint_with.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_disjoint_with.personal|has_location_disjoint_with.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_disjoint_with.secret|has_location_disjoint_with.secret]]"
 ---
 
 Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
-- [has_/location_/disjoint_with :: GeospatialGeometry, Place ] 
-- [ has_location_disjoint_with :: GeospatialGeometry, Place ] 
+- has_location_disjoint_with = `=this.dv_has_location_disjoint_with`  
+- has_location_disjoint_with = `=this.dv_has_location_disjoint_with`  
 
 Represents spatial relations in which two geometries (or the places they represent) are topologically disjoint: 
 
@@ -41,10 +69,10 @@ Represents spatial relations in which two geometries (or the places they represe
 
 Predicate describes that: 
 
-#has_/domain  :: GeospatialGeometry, Place  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_location_disjoint )
-( #has_/range :: GeospatialGeometry, Place )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

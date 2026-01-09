@@ -7,35 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - audio
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_audio
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_audio
 type: Predi_Relation
+dv_has_:
+  audio: AudioObject, Clip, MusicRecording
+  domain: CreativeWork
+dv_has_audio: AudioObject, Clip, MusicRecording
+dv_#has_:
+  name: has_audio
+  range: AudioObject, Clip, MusicRecording
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_audio|has_audio]]"
+    - "[[/_public/schema-org/Relation/has/has_audio.public|has_audio.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_audio.internal|has_audio.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_audio.protect|has_audio.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_audio.private|has_audio.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_audio.personal|has_audio.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_audio.secret|has_audio.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: has_audio
+dv_has_range: AudioObject, Clip, MusicRecording
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_audio|has_audio]]"
+  - "[[/_public/schema-org/Relation/has/has_audio.public|has_audio.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_audio.internal|has_audio.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_audio.protect|has_audio.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_audio.private|has_audio.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_audio.personal|has_audio.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_audio.secret|has_audio.secret]]"
 ---
 
 Use it like this: 
-- [has_/audio :: AudioObject, Clip, MusicRecording ] 
-- [ has_audio :: AudioObject, Clip, MusicRecording ] 
+- has_audio = `=this.dv_has_audio`  
+- has_audio = `=this.dv_has_audio`  
 
 An embedded audio object.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_audio )
-( #has_/range :: AudioObject, Clip, MusicRecording )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

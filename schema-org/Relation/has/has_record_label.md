@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - record_label
   - record
   - label
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_record_label
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_record_label
 type: Predi_Relation
+dv_has_:
+  record_label: Organization
+  domain: MusicRelease
+dv_has_record_label: Organization
+dv_#has_:
+  name: is_record_label
+  range: Organization
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_record_label|has_record_label]]"
+    - "[[/_public/schema-org/Relation/has/has_record_label.public|has_record_label.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_record_label.internal|has_record_label.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_record_label.protect|has_record_label.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_record_label.private|has_record_label.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_record_label.personal|has_record_label.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_record_label.secret|has_record_label.secret]]"
+dv_has_domain: MusicRelease
+dv_has_name: is_record_label
+dv_has_range: Organization
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_record_label|has_record_label]]"
+  - "[[/_public/schema-org/Relation/has/has_record_label.public|has_record_label.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_record_label.internal|has_record_label.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_record_label.protect|has_record_label.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_record_label.private|has_record_label.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_record_label.personal|has_record_label.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_record_label.secret|has_record_label.secret]]"
 ---
 
 Use it like this: 
-- [has_/record_label :: Organization ] 
-- [ has_record_label :: Organization ] 
+- has_record_label = `=this.dv_has_record_label`  
+- has_record_label = `=this.dv_has_record_label`  
 
 The label that issued the release.
 
 Relation describes that: 
 
-#has_/domain  :: MusicRelease  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_record_label )
-( #has_/range :: Organization )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

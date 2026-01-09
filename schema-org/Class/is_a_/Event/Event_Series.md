@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - event_series
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_event_series Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_event_series Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Event, Series]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Event/Event_Series|Event_Series]]"
+    - "[[/_public/schema-org/Class/is_a_/Event/Event_Series.public|Event_Series.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Event/Event_Series.internal|Event_Series.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Event/Event_Series.protect|Event_Series.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Event/Event_Series.private|Event_Series.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Event/Event_Series.personal|Event_Series.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Event/Event_Series.secret|Event_Series.secret]]"
+dv_has_:
+  properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Event, Series]]"
+dv_has_properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Event/Event_Series|Event_Series]]"
+  - "[[/_public/schema-org/Class/is_a_/Event/Event_Series.public|Event_Series.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Event/Event_Series.internal|Event_Series.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Event/Event_Series.protect|Event_Series.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Event/Event_Series.private|Event_Series.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Event/Event_Series.personal|Event_Series.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Event/Event_Series.secret|Event_Series.secret]]"
 ---
 
 Class of all event_seriess.
@@ -32,7 +56,7 @@ Class of all event_seriess.
 Tag Instances like this: 
 #is_an_/event_series
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 A series of [[Event]]s. Included events can relate with the series using the [[superEvent]] property.
 
@@ -48,9 +72,9 @@ worrying about which kinds of series are really event-like enough to call an Eve
 may seem more Event-like when the period of time is compact and when aspects such as location are fixed, but
 it may also sometimes prove useful to describe a longer-term series as an Event.
 
-#is_/sub_class_of :: [[../Event, Series]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

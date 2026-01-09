@@ -11,29 +11,57 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - price
   - currency
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_price_currency
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_price_currency
 type: Pred_Text
+dv_has_:
+  text_of_:
+    price_currency: Text
+  domain: Offer, PriceSpecification, Reservation, Ticket, TradeAction
+dv_has_text_of_price_currency: Text
+dv_#has_:
+  name: has_text_of_price_currency
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_price_currency|has_price_currency]]"
+    - "[[/_public/schema-org/Property/Texts/has_price_currency.public|has_price_currency.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_price_currency.internal|has_price_currency.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_price_currency.protect|has_price_currency.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_price_currency.private|has_price_currency.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_price_currency.personal|has_price_currency.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_price_currency.secret|has_price_currency.secret]]"
+dv_has_domain: Offer, PriceSpecification, Reservation, Ticket, TradeAction
+dv_has_name: has_text_of_price_currency
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_price_currency|has_price_currency]]"
+  - "[[/_public/schema-org/Property/Texts/has_price_currency.public|has_price_currency.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_price_currency.internal|has_price_currency.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_price_currency.protect|has_price_currency.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_price_currency.private|has_price_currency.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_price_currency.personal|has_price_currency.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_price_currency.secret|has_price_currency.secret]]"
 ---
 
 Predicate to describe the Text of Offer, PriceSpecification, Reservation, Ticket, TradeAction.
 
 Use it like this: 
-- [has_/text_of_/price_currency :: Text ] 
-- [ has_text_of_price_currency :: Text ] 
+- has_text_of_price_currency = `=this.dv_has_text_of_price_currency`  
+- has_text_of_price_currency = `=this.dv_has_text_of_price_currency`  
 
 The currency of the price, or a price component when attached to [[PriceSpecification]] and its subtypes.
 
@@ -43,10 +71,10 @@ Use standard formats: [ISO 4217 currency format](http://en.wikipedia.org/wiki/IS
 
 Predicated describes that: 
 
-#has_/domain  :: Offer, PriceSpecification, Reservation, Ticket, TradeAction  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_price_currency )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

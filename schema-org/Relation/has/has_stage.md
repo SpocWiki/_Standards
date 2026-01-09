@@ -7,35 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - stage
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_stage
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_stage
 type: Predi_Relation
+dv_has_:
+  stage: MedicalConditionStage
+  domain: MedicalCondition
+dv_has_stage: MedicalConditionStage
+dv_#has_:
+  name: is_stage
+  range: MedicalConditionStage
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_stage|has_stage]]"
+    - "[[/_public/schema-org/Relation/has/has_stage.public|has_stage.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_stage.internal|has_stage.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_stage.protect|has_stage.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_stage.private|has_stage.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_stage.personal|has_stage.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_stage.secret|has_stage.secret]]"
+dv_has_domain: MedicalCondition
+dv_has_name: is_stage
+dv_has_range: MedicalConditionStage
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_stage|has_stage]]"
+  - "[[/_public/schema-org/Relation/has/has_stage.public|has_stage.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_stage.internal|has_stage.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_stage.protect|has_stage.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_stage.private|has_stage.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_stage.personal|has_stage.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_stage.secret|has_stage.secret]]"
 ---
 
 Use it like this: 
-- [has_/stage :: MedicalConditionStage ] 
-- [ has_stage :: MedicalConditionStage ] 
+- has_stage = `=this.dv_has_stage`  
+- has_stage = `=this.dv_has_stage`  
 
 The stage of the condition, if applicable.
 
 Relation describes that: 
 
-#has_/domain  :: MedicalCondition  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_stage )
-( #has_/range :: MedicalConditionStage )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

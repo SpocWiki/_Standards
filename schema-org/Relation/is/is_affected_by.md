@@ -9,36 +9,63 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - affected
   - by
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_affected_by
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_affected_by
 type: Predi_Relation
+dv_is_:
+  affected_by: Drug
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_affected_by|is_affected_by]]"
+    - "[[/_public/schema-org/Relation/is/is_affected_by.public|is_affected_by.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_affected_by.internal|is_affected_by.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_affected_by.protect|is_affected_by.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_affected_by.private|is_affected_by.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_affected_by.personal|is_affected_by.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_affected_by.secret|is_affected_by.secret]]"
+dv_is_affected_by: Drug
+dv_has_:
+  domain: MedicalTest
+dv_#has_:
+  name: is_affected_by
+  range: Drug
+dv_has_domain: MedicalTest
+dv_has_name: is_affected_by
+dv_has_range: Drug
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_affected_by|is_affected_by]]"
+  - "[[/_public/schema-org/Relation/is/is_affected_by.public|is_affected_by.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_affected_by.internal|is_affected_by.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_affected_by.protect|is_affected_by.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_affected_by.private|is_affected_by.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_affected_by.personal|is_affected_by.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_affected_by.secret|is_affected_by.secret]]"
 ---
 
 Use it like this: 
-- [is_/affected_by :: Drug ] 
-- [ is_affected_by :: Drug ] 
+- is_affected_by = `=this.dv_is_affected_by`  
+- is_affected_by = `=this.dv_is_affected_by`  
 
 Drugs that affect the test's results.
 
 Relation describes that: 
 
-#has_/domain  :: MedicalTest  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_affected_by )
-( #has_/range :: Drug )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

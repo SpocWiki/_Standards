@@ -11,37 +11,65 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - polygon
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_polygon
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_polygon
 type: Pred_Text
+dv_has_:
+  text_of_:
+    polygon: Text
+  domain: GeoShape
+dv_has_text_of_polygon: Text
+dv_#has_:
+  name: has_text_of_polygon
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_polygon|has_polygon]]"
+    - "[[/_public/schema-org/Property/Texts/has_polygon.public|has_polygon.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_polygon.internal|has_polygon.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_polygon.protect|has_polygon.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_polygon.private|has_polygon.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_polygon.personal|has_polygon.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_polygon.secret|has_polygon.secret]]"
+dv_has_domain: GeoShape
+dv_has_name: has_text_of_polygon
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_polygon|has_polygon]]"
+  - "[[/_public/schema-org/Property/Texts/has_polygon.public|has_polygon.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_polygon.internal|has_polygon.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_polygon.protect|has_polygon.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_polygon.private|has_polygon.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_polygon.personal|has_polygon.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_polygon.secret|has_polygon.secret]]"
 ---
 
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- [has_/text_of_/polygon :: Text ] 
-- [ has_text_of_polygon :: Text ] 
+- has_text_of_polygon = `=this.dv_has_text_of_polygon`  
+- has_text_of_polygon = `=this.dv_has_text_of_polygon`  
 
 A polygon is the area enclosed by a point-to-point path for which the starting and ending points are the same. A polygon is expressed as a series of four or more space delimited points where the first and final points are identical.
 
 Predicated describes that: 
 
-#has_/domain  :: GeoShape  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_polygon )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

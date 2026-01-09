@@ -10,37 +10,65 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - number-of-airbags
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-airbags
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_number-of-airbags
 type: Predi_Count
+dv_has_:
+  number_of_:
+    airbags: Number, Text
+  domain: Vehicle
+dv_has_number_of_airbags: Number, Text
+dv_#has_:
+  name: has_number_of_airbags
+  range: Number, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_airbags|has_number_of_airbags]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_airbags.public|has_number_of_airbags.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_airbags.internal|has_number_of_airbags.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_airbags.protect|has_number_of_airbags.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_airbags.private|has_number_of_airbags.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_airbags.personal|has_number_of_airbags.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_airbags.secret|has_number_of_airbags.secret]]"
+dv_has_domain: Vehicle
+dv_has_name: has_number_of_airbags
+dv_has_range: Number, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_airbags|has_number_of_airbags]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_airbags.public|has_number_of_airbags.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_airbags.internal|has_number_of_airbags.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_airbags.protect|has_number_of_airbags.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_airbags.private|has_number_of_airbags.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_airbags.personal|has_number_of_airbags.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_airbags.secret|has_number_of_airbags.secret]]"
 ---
 
 Predicate to describe the Number of Vehicle.
 
 Use it like this: 
-- [has_/number_of_/airbags :: Number, Text ] 
-- [ has_number_of_airbags :: Number, Text ] 
+- has_number_of_airbags = `=this.dv_has_number_of_airbags`  
+- has_number_of_airbags = `=this.dv_has_number_of_airbags`  
 
 The number or type of airbags in the vehicle.
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_number_of_airbags )
-( #has_/range :: Number, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

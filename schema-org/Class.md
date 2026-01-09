@@ -13,21 +13,46 @@ cssclasses:
   - Type
 draft: false
 equivalent_class: rdfs:class
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - class
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_class Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_class Class
 type: Type
+dv_is_a_: "[[Class]]"
+dv_is_:
+  part_of: https://meta.schema.org
+  sub_class_of: "[[Class/is_a_/Intangible|Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class|Class]]"
+    - "[[/_public/schema-org/Class.public|Class.public]]"
+    - "[[/_internal/schema-org/Class.internal|Class.internal]]"
+    - "[[/_protect/schema-org/Class.protect|Class.protect]]"
+    - "[[/_private/schema-org/Class.private|Class.private]]"
+    - "[[/_personal/schema-org/Class.personal|Class.personal]]"
+    - "[[/_secret/schema-org/Class.secret|Class.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]"
+dv_is_part_of: https://meta.schema.org
+dv_is_sub_class_of: "[[Class/is_a_/Intangible|Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class|Class]]"
+  - "[[/_public/schema-org/Class.public|Class.public]]"
+  - "[[/_internal/schema-org/Class.internal|Class.internal]]"
+  - "[[/_protect/schema-org/Class.protect|Class.protect]]"
+  - "[[/_private/schema-org/Class.private|Class.private]]"
+  - "[[/_personal/schema-org/Class.personal|Class.personal]]"
+  - "[[/_secret/schema-org/Class.secret|Class.secret]]"
 ---
 
 # Class / Type 
@@ -46,13 +71,13 @@ and thus must be treated specially in inference.
 Tag Instances like this: 
 
 #is_a_/class which restricts the range, but does not create a Relation or 
-#is_a_ :: [[Class]]  
+is_a_ = `=this.dv_is_a_` 
 
-#is_/part_of :: https://meta.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
-#is_/sub_class_of :: [[./Class/is_a_/Intangible|Intangible]]   
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Type/Class vs Set 
 

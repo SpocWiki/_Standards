@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeSystemEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_system_gs1
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_system_gs1 Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_wearable_size_system_gs1 Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../WearableSizeSystemEnumeration]]"
+  enum_of: "[[../WearableSizeSystemEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1|Wearable_Size_System_Gs1]]"
+    - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.public|Wearable_Size_System_Gs1.public]]"
+    - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.internal|Wearable_Size_System_Gs1.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.protect|Wearable_Size_System_Gs1.protect]]"
+    - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.private|Wearable_Size_System_Gs1.private]]"
+    - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.personal|Wearable_Size_System_Gs1.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.secret|Wearable_Size_System_Gs1.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../WearableSizeSystemEnumeration]]"
+dv_is_enum_of: "[[../WearableSizeSystemEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1|Wearable_Size_System_Gs1]]"
+  - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.public|Wearable_Size_System_Gs1.public]]"
+  - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.internal|Wearable_Size_System_Gs1.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.protect|Wearable_Size_System_Gs1.protect]]"
+  - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.private|Wearable_Size_System_Gs1.private]]"
+  - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.personal|Wearable_Size_System_Gs1.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.secret|Wearable_Size_System_Gs1.secret]]"
 ---
 
 Class of all wearable_size_system_gs1s.
@@ -33,13 +56,13 @@ Class of all wearable_size_system_gs1s.
 Tag Instances like this: 
 #is_a_/wearable_size_system_gs1
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 GS1 (formerly NRF) size system for wearables.
 
-#is_/sub_class_of :: [[../WearableSizeSystemEnumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../WearableSizeSystemEnumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

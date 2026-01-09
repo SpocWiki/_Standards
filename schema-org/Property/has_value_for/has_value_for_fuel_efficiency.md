@@ -10,28 +10,56 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - fuel-efficiency
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_fuel-efficiency
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_fuel-efficiency
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    fuel_efficiency: QuantitativeValue
+  domain: Vehicle
+dv_has_value_for_fuel_efficiency: QuantitativeValue
+dv_#has_:
+  name: has_value_for_fuel_efficiency
+  range: QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency|has_value_for_fuel_efficiency]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.public|has_value_for_fuel_efficiency.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.internal|has_value_for_fuel_efficiency.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.protect|has_value_for_fuel_efficiency.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.private|has_value_for_fuel_efficiency.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.personal|has_value_for_fuel_efficiency.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret|has_value_for_fuel_efficiency.secret]]"
+dv_has_domain: Vehicle
+dv_has_name: has_value_for_fuel_efficiency
+dv_has_range: QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency|has_value_for_fuel_efficiency]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.public|has_value_for_fuel_efficiency.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.internal|has_value_for_fuel_efficiency.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.protect|has_value_for_fuel_efficiency.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.private|has_value_for_fuel_efficiency.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.personal|has_value_for_fuel_efficiency.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret|has_value_for_fuel_efficiency.secret]]"
 ---
 
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- [has_/value_for_/fuel_efficiency :: QuantitativeValue ] 
-- [ has_value_for_fuel_efficiency :: QuantitativeValue ] 
+- has_value_for_fuel_efficiency = `=this.dv_has_value_for_fuel_efficiency`  
+- has_value_for_fuel_efficiency = `=this.dv_has_value_for_fuel_efficiency`  
 
 The distance traveled per unit of fuel used; most commonly miles per gallon (mpg) or kilometers per liter (km/L).
 
@@ -45,10 +73,10 @@ The distance traveled per unit of fuel used; most commonly miles per gallon (mpg
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_fuel_efficiency )
-( #has_/range :: QuantitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

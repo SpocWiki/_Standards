@@ -10,28 +10,56 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - number-of-forward-gears
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-forward-gears
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_number-of-forward-gears
 type: Predi_Count
+dv_has_:
+  number_of_:
+    forward_gears: Number, QuantitativeValue
+  domain: Vehicle
+dv_has_number_of_forward_gears: Number, QuantitativeValue
+dv_#has_:
+  name: has_number_of_forward_gears
+  range: Number, QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_forward_gears|has_number_of_forward_gears]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_forward_gears.public|has_number_of_forward_gears.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_forward_gears.internal|has_number_of_forward_gears.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_forward_gears.protect|has_number_of_forward_gears.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_forward_gears.private|has_number_of_forward_gears.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_forward_gears.personal|has_number_of_forward_gears.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_forward_gears.secret|has_number_of_forward_gears.secret]]"
+dv_has_domain: Vehicle
+dv_has_name: has_number_of_forward_gears
+dv_has_range: Number, QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_forward_gears|has_number_of_forward_gears]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_forward_gears.public|has_number_of_forward_gears.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_forward_gears.internal|has_number_of_forward_gears.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_forward_gears.protect|has_number_of_forward_gears.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_forward_gears.private|has_number_of_forward_gears.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_forward_gears.personal|has_number_of_forward_gears.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_forward_gears.secret|has_number_of_forward_gears.secret]]"
 ---
 
 Predicate to describe the Number of Vehicle.
 
 Use it like this: 
-- [has_/number_of_/forward_gears :: Number, QuantitativeValue ] 
-- [ has_number_of_forward_gears :: Number, QuantitativeValue ] 
+- has_number_of_forward_gears = `=this.dv_has_number_of_forward_gears`  
+- has_number_of_forward_gears = `=this.dv_has_number_of_forward_gears`  
 
 The total number of forward gears available for the transmission system of the vehicle.
 
@@ -41,10 +69,10 @@ Typical unit code(s): C62
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_number_of_forward_gears )
-( #has_/range :: Number, QuantitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

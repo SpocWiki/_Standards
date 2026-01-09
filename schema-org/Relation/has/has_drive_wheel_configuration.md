@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,30 +17,57 @@ keywords:
   - configuration
   - drive_wheel_configuration
   - driveWheelConfiguration
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_drive_wheel_configuration
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_drive_wheel_configuration
 type: Predi_Relation
+dv_has_:
+  drive_wheel_configuration: DriveWheelConfigurationValue, Text
+  domain: Vehicle
+dv_has_drive_wheel_configuration: DriveWheelConfigurationValue, Text
+dv_#has_:
+  name: has_drive_wheel_configuration
+  range: DriveWheelConfigurationValue, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_drive_wheel_configuration|has_drive_wheel_configuration]]"
+    - "[[/_public/schema-org/Relation/has/has_drive_wheel_configuration.public|has_drive_wheel_configuration.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_drive_wheel_configuration.internal|has_drive_wheel_configuration.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_drive_wheel_configuration.protect|has_drive_wheel_configuration.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_drive_wheel_configuration.private|has_drive_wheel_configuration.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_drive_wheel_configuration.personal|has_drive_wheel_configuration.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_drive_wheel_configuration.secret|has_drive_wheel_configuration.secret]]"
+dv_has_domain: Vehicle
+dv_has_name: has_drive_wheel_configuration
+dv_has_range: DriveWheelConfigurationValue, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_drive_wheel_configuration|has_drive_wheel_configuration]]"
+  - "[[/_public/schema-org/Relation/has/has_drive_wheel_configuration.public|has_drive_wheel_configuration.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_drive_wheel_configuration.internal|has_drive_wheel_configuration.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_drive_wheel_configuration.protect|has_drive_wheel_configuration.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_drive_wheel_configuration.private|has_drive_wheel_configuration.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_drive_wheel_configuration.personal|has_drive_wheel_configuration.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_drive_wheel_configuration.secret|has_drive_wheel_configuration.secret]]"
 ---
 
 Use it like this: 
-- [has_/drive_wheel_configuration :: DriveWheelConfigurationValue, Text ] 
-- [ has_drive_wheel_configuration :: DriveWheelConfigurationValue, Text ] 
+- has_drive_wheel_configuration = `=this.dv_has_drive_wheel_configuration`  
+- has_drive_wheel_configuration = `=this.dv_has_drive_wheel_configuration`  
 
 The drive wheel configuration, i.e. which roadwheels will receive torque from the vehicle's engine via the drivetrain.
 
 Relation describes that: 
 
-#has_/domain  :: Vehicle  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_drive_wheel_configuration )
-( #has_/range :: DriveWheelConfigurationValue, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

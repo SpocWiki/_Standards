@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - allocate_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_allocate_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_allocate_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../OrganizeAction]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action|Allocate_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.public|Allocate_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.internal|Allocate_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.protect|Allocate_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.private|Allocate_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.personal|Allocate_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.secret|Allocate_Action.secret]]"
+dv_has_:
+  sub_classes: "[ AcceptAction, AssignAction, AuthorizeAction, RejectAction ]"
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_sub_class_of: "[[../OrganizeAction]]"
+dv_has_sub_classes: "[ AcceptAction, AssignAction, AuthorizeAction, RejectAction ]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action|Allocate_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.public|Allocate_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.internal|Allocate_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.protect|Allocate_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.private|Allocate_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.personal|Allocate_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.secret|Allocate_Action.secret]]"
 ---
 
 Class of all allocate_actions.
@@ -34,11 +58,11 @@ Tag Instances like this:
 
 The act of organizing tasks/objects/events by associating resources to it.
 
-#is_/sub_class_of :: [[../OrganizeAction]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ AcceptAction, AssignAction, AuthorizeAction, RejectAction ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

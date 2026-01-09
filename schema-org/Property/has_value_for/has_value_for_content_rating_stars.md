@@ -10,37 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - content-rating
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_content-rating
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_content-rating
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    content_rating_stars: Rating, Text
+  domain: CreativeWork
+dv_has_value_for_content_rating_stars: Rating, Text
+dv_#has_:
+  name: has_value_for_content_rating_stars
+  range: Rating, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_content_rating_stars|has_value_for_content_rating_stars]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_content_rating_stars.public|has_value_for_content_rating_stars.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_content_rating_stars.internal|has_value_for_content_rating_stars.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_content_rating_stars.protect|has_value_for_content_rating_stars.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_content_rating_stars.private|has_value_for_content_rating_stars.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_content_rating_stars.personal|has_value_for_content_rating_stars.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_content_rating_stars.secret|has_value_for_content_rating_stars.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: has_value_for_content_rating_stars
+dv_has_range: Rating, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_content_rating_stars|has_value_for_content_rating_stars]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_content_rating_stars.public|has_value_for_content_rating_stars.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_content_rating_stars.internal|has_value_for_content_rating_stars.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_content_rating_stars.protect|has_value_for_content_rating_stars.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_content_rating_stars.private|has_value_for_content_rating_stars.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_content_rating_stars.personal|has_value_for_content_rating_stars.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_content_rating_stars.secret|has_value_for_content_rating_stars.secret]]"
 ---
 
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- [has_/value_for_/content_rating_stars :: Rating, Text ] 
-- [ has_value_for_content_rating_stars :: Rating, Text ] 
+- has_value_for_content_rating_stars = `=this.dv_has_value_for_content_rating_stars`  
+- has_value_for_content_rating_stars = `=this.dv_has_value_for_content_rating_stars`  
 
 Official rating of a piece of content&amp;#x2014;for example, 'MPAA PG-13'.
 
 Predicate describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_content_rating_stars )
-( #has_/range :: Rating, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

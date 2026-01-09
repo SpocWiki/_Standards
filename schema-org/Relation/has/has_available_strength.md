@@ -7,37 +7,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - available
   - strength
   - availableStrength
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_available_strength
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_available_strength
 type: Predi_Relation
+dv_has_:
+  available_strength: DrugStrength
+  domain: Drug
+dv_has_available_strength: DrugStrength
+dv_#has_:
+  name: has_available_strength
+  range: DrugStrength
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_available_strength|has_available_strength]]"
+    - "[[/_public/schema-org/Relation/has/has_available_strength.public|has_available_strength.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_available_strength.internal|has_available_strength.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_available_strength.protect|has_available_strength.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_available_strength.private|has_available_strength.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_available_strength.personal|has_available_strength.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_available_strength.secret|has_available_strength.secret]]"
+dv_has_domain: Drug
+dv_has_name: has_available_strength
+dv_has_range: DrugStrength
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_available_strength|has_available_strength]]"
+  - "[[/_public/schema-org/Relation/has/has_available_strength.public|has_available_strength.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_available_strength.internal|has_available_strength.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_available_strength.protect|has_available_strength.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_available_strength.private|has_available_strength.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_available_strength.personal|has_available_strength.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_available_strength.secret|has_available_strength.secret]]"
 ---
 
 Use it like this: 
-- [has_/available_strength :: DrugStrength ] 
-- [ has_available_strength :: DrugStrength ] 
+- has_available_strength = `=this.dv_has_available_strength`  
+- has_available_strength = `=this.dv_has_available_strength`  
 
 An available dosage strength for the drug.
 
 Relation describes that: 
 
-#has_/domain  :: Drug  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_available_strength )
-( #has_/range :: DrugStrength )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

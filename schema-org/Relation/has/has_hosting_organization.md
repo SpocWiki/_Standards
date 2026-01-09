@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - hosting
   - organization
   - hosting_organization
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_hosting_organization
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_hosting_organization
 type: Predi_Relation
+dv_has_:
+  hosting_organization: Organization
+  domain: ProgramMembership
+dv_has_hosting_organization: Organization
+dv_#has_:
+  name: has_hosting_organization
+  range: Organization
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_hosting_organization|has_hosting_organization]]"
+    - "[[/_public/schema-org/Relation/has/has_hosting_organization.public|has_hosting_organization.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_hosting_organization.internal|has_hosting_organization.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_hosting_organization.protect|has_hosting_organization.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_hosting_organization.private|has_hosting_organization.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_hosting_organization.personal|has_hosting_organization.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_hosting_organization.secret|has_hosting_organization.secret]]"
+dv_has_domain: ProgramMembership
+dv_has_name: has_hosting_organization
+dv_has_range: Organization
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_hosting_organization|has_hosting_organization]]"
+  - "[[/_public/schema-org/Relation/has/has_hosting_organization.public|has_hosting_organization.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_hosting_organization.internal|has_hosting_organization.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_hosting_organization.protect|has_hosting_organization.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_hosting_organization.private|has_hosting_organization.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_hosting_organization.personal|has_hosting_organization.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_hosting_organization.secret|has_hosting_organization.secret]]"
 ---
 
 Use it like this: 
-- [has_/hosting_organization :: Organization ] 
-- [ has_hosting_organization :: Organization ] 
+- has_hosting_organization = `=this.dv_has_hosting_organization`  
+- has_hosting_organization = `=this.dv_has_hosting_organization`  
 
 The organization (airline, travelers' club, etc.) the membership is made with.
 
 Relation describes that: 
 
-#has_/domain  :: ProgramMembership  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_hosting_organization )
-( #has_/range :: Organization )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

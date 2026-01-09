@@ -10,28 +10,53 @@ cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Date
 title: has_time_to_start
 type: Predi_Date_Time
+dv_has_time_to_start: P#Y#M#W#DT#H#M#s.fff
+dv_has_:
+  time_:
+    to_start: P#Y#M#W#DT#H#M#s.fff
+  name: has_time_to_start
+dv_domain: Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule, CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule
+dv_range: Date, DateTime, Time
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_to_start|has_time_to_start]]"
+    - "[[/_public/schema-org/Property/has_Date_Time/has_time_to_start.public|has_time_to_start.public]]"
+    - "[[/_internal/schema-org/Property/has_Date_Time/has_time_to_start.internal|has_time_to_start.internal]]"
+    - "[[/_protect/schema-org/Property/has_Date_Time/has_time_to_start.protect|has_time_to_start.protect]]"
+    - "[[/_private/schema-org/Property/has_Date_Time/has_time_to_start.private|has_time_to_start.private]]"
+    - "[[/_personal/schema-org/Property/has_Date_Time/has_time_to_start.personal|has_time_to_start.personal]]"
+    - "[[/_secret/schema-org/Property/has_Date_Time/has_time_to_start.secret|has_time_to_start.secret]]"
+dv_has_name: has_time_to_start
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_to_start|has_time_to_start]]"
+  - "[[/_public/schema-org/Property/has_Date_Time/has_time_to_start.public|has_time_to_start.public]]"
+  - "[[/_internal/schema-org/Property/has_Date_Time/has_time_to_start.internal|has_time_to_start.internal]]"
+  - "[[/_protect/schema-org/Property/has_Date_Time/has_time_to_start.protect|has_time_to_start.protect]]"
+  - "[[/_private/schema-org/Property/has_Date_Time/has_time_to_start.private|has_time_to_start.private]]"
+  - "[[/_personal/schema-org/Property/has_Date_Time/has_time_to_start.personal|has_time_to_start.personal]]"
+  - "[[/_secret/schema-org/Property/has_Date_Time/has_time_to_start.secret|has_time_to_start.secret]]"
 ---
 
 Predicate to describe the time of Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule, 
 Predicate to describe the date of CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule.
 
 Use it like this: 
-- [has_time_to_start::P#Y#M#W#DT#H#M#s.fff] 
-- [has_/time_/to_start::P#Y#M#W#DT#H#M#s.fff] 
+- has_time_to_start = `=this.dv_has_time_to_start`  
+- has_time_to_start = `=this.dv_has_time_to_start`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The start date and time of the item (in [ISO 8601 date format](http://en.wikipedia.org/wiki/ISO_8601)).
@@ -40,9 +65,9 @@ For a reserved event or service (e.g. FoodEstablishmentReservation), the time th
 Note that Event uses startDate/endDate instead of startTime/endTime, even when describing dates with times. This situation may be clarified in future revisions.
 
 Formal Predicate: 
-[domain::Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule, CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule]
-(has_/name::has_time_to_start)
-(range::Date, DateTime, Time)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

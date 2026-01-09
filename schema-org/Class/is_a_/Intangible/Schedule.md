@@ -8,21 +8,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - schedule
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_schedule Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_schedule Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Schedule|Schedule]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Schedule.public|Schedule.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Schedule.internal|Schedule.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Schedule.protect|Schedule.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Schedule.private|Schedule.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Schedule.personal|Schedule.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Schedule.secret|Schedule.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek, description, disambiguatingDescription, duration, endDate, endTime, exceptDate, identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency, sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek, description, disambiguatingDescription, duration, endDate, endTime, exceptDate, identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency, sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Schedule|Schedule]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Schedule.public|Schedule.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Schedule.internal|Schedule.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Schedule.protect|Schedule.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Schedule.private|Schedule.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Schedule.personal|Schedule.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Schedule.secret|Schedule.secret]]"
 ---
 
 # [[schedule]] 
@@ -36,11 +60,11 @@ A schedule defines a repeating time period used to describe a regularly occurrin
 	  This includes identifying the day(s) of the week or month when the recurring event will take place, in addition to its start and end time. Schedules may also
 	  have start and end dates to indicate when they are active, e.g. to define a limited calendar of events.
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
-#is_/sub_class_of :: [[../Intangible]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek, description, disambiguatingDescription, duration, endDate, endTime, exceptDate, identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency, sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

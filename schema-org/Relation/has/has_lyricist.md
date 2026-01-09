@@ -7,35 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - lyricist
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_lyricist
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_lyricist
 type: Predi_Relation
+dv_has_:
+  lyricist: Person
+  domain: MusicComposition
+dv_has_lyricist: Person
+dv_#has_:
+  name: has_lyricist
+  range: Person
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_lyricist|has_lyricist]]"
+    - "[[/_public/schema-org/Relation/has/has_lyricist.public|has_lyricist.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_lyricist.internal|has_lyricist.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_lyricist.protect|has_lyricist.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_lyricist.private|has_lyricist.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_lyricist.personal|has_lyricist.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_lyricist.secret|has_lyricist.secret]]"
+dv_has_domain: MusicComposition
+dv_has_name: has_lyricist
+dv_has_range: Person
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_lyricist|has_lyricist]]"
+  - "[[/_public/schema-org/Relation/has/has_lyricist.public|has_lyricist.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_lyricist.internal|has_lyricist.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_lyricist.protect|has_lyricist.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_lyricist.private|has_lyricist.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_lyricist.personal|has_lyricist.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_lyricist.secret|has_lyricist.secret]]"
 ---
 
 Use it like this: 
-- [has_/lyricist :: Person ] 
-- [ has_lyricist :: Person ] 
+- has_lyricist = `=this.dv_has_lyricist`  
+- has_lyricist = `=this.dv_has_lyricist`  
 
 The person who wrote the words.
 
 Relation describes that: 
 
-#has_/domain  :: MusicComposition  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_lyricist )
-( #has_/range :: Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - transformed_content
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_transformed_content Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_transformed_content Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content|Transformed_Content]]"
+    - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.public|Transformed_Content.public]]"
+    - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.internal|Transformed_Content.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.protect|Transformed_Content.protect]]"
+    - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.private|Transformed_Content.private]]"
+    - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.personal|Transformed_Content.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.secret|Transformed_Content.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content|Transformed_Content]]"
+  - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.public|Transformed_Content.public]]"
+  - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.internal|Transformed_Content.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.protect|Transformed_Content.protect]]"
+  - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.private|Transformed_Content.private]]"
+  - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.personal|Transformed_Content.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.secret|Transformed_Content.secret]]"
 ---
 
 Class of all transformed_contents.
@@ -33,7 +56,7 @@ Class of all transformed_contents.
 Tag Instances like this: 
 #is_a_/transformed_content
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Content coded 'transformed content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
@@ -49,9 +72,9 @@ Adding or deleting visual elements to give the image a different meaning with th
 # For an [[../../../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
 Part or all of the audio has been manipulated to alter the words or sounds, or the audio has been synthetically generated, such as to create a sound-alike voice.
 
-#is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

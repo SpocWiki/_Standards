@@ -8,22 +8,39 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - date
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_date Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
   - class/data_type
 title: is_a_date Class
 type: Type
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Date|Date]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Date.public|Date.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Date.internal|Date.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Date.protect|Date.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Date.private|Date.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Date.personal|Date.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Date.secret|Date.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Date|Date]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Date.public|Date.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Date.internal|Date.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Date.protect|Date.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Date.private|Date.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Date.personal|Date.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Date.secret|Date.secret]]"
 ---
 
 # [[date]] 

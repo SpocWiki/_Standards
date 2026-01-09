@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - program_membership
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_program_membership Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_program_membership Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Program_Membership|Program_Membership]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Program_Membership.public|Program_Membership.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Program_Membership.internal|Program_Membership.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Program_Membership.protect|Program_Membership.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Program_Membership.private|Program_Membership.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Program_Membership.personal|Program_Membership.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Program_Membership.secret|Program_Membership.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, hostingOrganization, identifier, image, mainEntityOfPage, member, members, membershipNumber, membershipPointsEarned, name, potentialAction, programName, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, hostingOrganization, identifier, image, mainEntityOfPage, member, members, membershipNumber, membershipPointsEarned, name, potentialAction, programName, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Program_Membership|Program_Membership]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Program_Membership.public|Program_Membership.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Program_Membership.internal|Program_Membership.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Program_Membership.protect|Program_Membership.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Program_Membership.private|Program_Membership.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Program_Membership.personal|Program_Membership.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Program_Membership.secret|Program_Membership.secret]]"
 ---
 
 Class of all program_memberships.
@@ -34,9 +56,9 @@ Tag Instances like this:
 
 Used to describe membership in a loyalty programs (e.g. "StarAliance"), traveler clubs (e.g. "AAA"), purchase clubs ("Safeway Club"), etc.
 
-#is_/sub_class_of :: [[../Intangible]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, hostingOrganization, identifier, image, mainEntityOfPage, member, members, membershipNumber, membershipPointsEarned, name, potentialAction, programName, sameAs, subjectOf, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

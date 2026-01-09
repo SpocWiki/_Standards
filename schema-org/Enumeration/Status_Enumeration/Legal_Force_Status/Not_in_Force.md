@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: LegalForceStatus
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - not_in_force
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_not_in_force Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_not_in_force Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../LegalForceStatus]]"
+  enum_of: "[[../LegalForceStatus]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force|Not_in_Force]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.public|Not_in_Force.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.internal|Not_in_Force.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.protect|Not_in_Force.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.private|Not_in_Force.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.personal|Not_in_Force.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.secret|Not_in_Force.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../LegalForceStatus]]"
+dv_is_enum_of: "[[../LegalForceStatus]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force|Not_in_Force]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.public|Not_in_Force.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.internal|Not_in_Force.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.protect|Not_in_Force.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.private|Not_in_Force.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.personal|Not_in_Force.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.secret|Not_in_Force.secret]]"
 ---
 
 Class of all not_in_forces.
@@ -33,13 +56,13 @@ Class of all not_in_forces.
 Tag Instances like this: 
 #is_a_/not_in_force
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Indicates that a legislation is currently not in force.
 
-#is_/sub_class_of :: [[../LegalForceStatus]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../LegalForceStatus]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

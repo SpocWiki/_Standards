@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,30 +16,57 @@ keywords:
   - therapy
   - duplicate_therapy
   - duplicateTherapy
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_duplicate_therapy
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_duplicate_therapy
 type: Predi_Relation
+dv_has_:
+  duplicate_therapy: MedicalTherapy
+  domain: MedicalTherapy
+dv_has_duplicate_therapy: MedicalTherapy
+dv_#has_:
+  name: has_duplicate_therapy
+  range: MedicalTherapy
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_duplicate_therapy|has_duplicate_therapy]]"
+    - "[[/_public/schema-org/Relation/has/has_duplicate_therapy.public|has_duplicate_therapy.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_duplicate_therapy.internal|has_duplicate_therapy.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_duplicate_therapy.protect|has_duplicate_therapy.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_duplicate_therapy.private|has_duplicate_therapy.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_duplicate_therapy.personal|has_duplicate_therapy.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_duplicate_therapy.secret|has_duplicate_therapy.secret]]"
+dv_has_domain: MedicalTherapy
+dv_has_name: has_duplicate_therapy
+dv_has_range: MedicalTherapy
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_duplicate_therapy|has_duplicate_therapy]]"
+  - "[[/_public/schema-org/Relation/has/has_duplicate_therapy.public|has_duplicate_therapy.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_duplicate_therapy.internal|has_duplicate_therapy.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_duplicate_therapy.protect|has_duplicate_therapy.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_duplicate_therapy.private|has_duplicate_therapy.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_duplicate_therapy.personal|has_duplicate_therapy.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_duplicate_therapy.secret|has_duplicate_therapy.secret]]"
 ---
 
 Use it like this: 
-- [has_/duplicate_therapy :: MedicalTherapy ] 
-- [ has_duplicate_therapy :: MedicalTherapy ] 
+- has_duplicate_therapy = `=this.dv_has_duplicate_therapy`  
+- has_duplicate_therapy = `=this.dv_has_duplicate_therapy`  
 
 A therapy that duplicates or overlaps this one.
 
 Relation describes that: 
 
-#has_/domain  :: MedicalTherapy  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_duplicate_therapy )
-( #has_/range :: MedicalTherapy )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

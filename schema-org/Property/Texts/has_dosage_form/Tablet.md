@@ -5,23 +5,42 @@ aliases:
   - Tablet
 has_id_wikidata: Q206077
 has_use:
-  - '[[_Standards/WikiData/WD~oral_administration,285166]]'
-  - '[[_Standards/WikiData/WD~rectal_administration,419892]]'
-  - '[[_Standards/WikiData/WD~sublingual_administration,784720]]'
-  - '[[_Standards/WikiData/WD~intravaginal_administration,6058566]]'
-  - '[[_Standards/WikiData/WD~buccal_administration,16963239]]'
-different_from: '[[_Standards/WikiData/WD~capsule,519410]]'
+  - "[[_Standards/WikiData/WD~oral_administration,285166]]"
+  - "[[_Standards/WikiData/WD~rectal_administration,419892]]"
+  - "[[_Standards/WikiData/WD~sublingual_administration,784720]]"
+  - "[[_Standards/WikiData/WD~intravaginal_administration,6058566]]"
+  - "[[_Standards/WikiData/WD~buccal_administration,16963239]]"
+different_from: "[[_Standards/WikiData/WD~capsule,519410]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~dosage_form,718608]]'
-subclass_of: '[[_Standards/WikiData/WD~product,2424752]]'
-has_characteristic: '[[_Standards/WikiData/WD~drug_liberation,5974727]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+instance_of: "[[_Standards/WikiData/WD~dosage_form,718608]]"
+subclass_of: "[[_Standards/WikiData/WD~product,2424752]]"
+has_characteristic: "[[_Standards/WikiData/WD~drug_liberation,5974727]]"
 Commons_category: Pills
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Medicines%203.jpg
 UMLS_CUI: C0039225
 MeSH_tree_code: D26.255.830
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Tablet,206077|WD~Tablet,206077]]"
+    - "[[/_Standards/schema-org/Property/Texts/has_dosage_form/Tablet|Tablet]]"
+    - "[[/_public/schema-org/Property/Texts/has_dosage_form/Tablet.public|Tablet.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_dosage_form/Tablet.internal|Tablet.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_dosage_form/Tablet.protect|Tablet.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_dosage_form/Tablet.private|Tablet.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_dosage_form/Tablet.personal|Tablet.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_dosage_form/Tablet.secret|Tablet.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Tablet,206077|WD~Tablet,206077]]"
+  - "[[/_Standards/schema-org/Property/Texts/has_dosage_form/Tablet|Tablet]]"
+  - "[[/_public/schema-org/Property/Texts/has_dosage_form/Tablet.public|Tablet.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_dosage_form/Tablet.internal|Tablet.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_dosage_form/Tablet.protect|Tablet.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_dosage_form/Tablet.private|Tablet.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_dosage_form/Tablet.personal|Tablet.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_dosage_form/Tablet.secret|Tablet.secret]]"
 ---
 
 # [[Tablet]] 

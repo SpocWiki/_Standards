@@ -10,38 +10,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - vat
   - id
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_id_vat
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_id_vat
 type: Pred_Text
+dv_has_:
+  id_:
+    vat: Text
+  domain: Organization, Person
+dv_has_id_vat: Text
+dv_#has_:
+  name: has_id_vat
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_id_vat|has_id_vat]]"
+    - "[[/_public/schema-org/Property/has_name/has_id_vat.public|has_id_vat.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_id_vat.internal|has_id_vat.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_id_vat.protect|has_id_vat.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_id_vat.private|has_id_vat.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_id_vat.personal|has_id_vat.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_id_vat.secret|has_id_vat.secret]]"
+dv_has_domain: Organization, Person
+dv_has_name: has_id_vat
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_id_vat|has_id_vat]]"
+  - "[[/_public/schema-org/Property/has_name/has_id_vat.public|has_id_vat.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_id_vat.internal|has_id_vat.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_id_vat.protect|has_id_vat.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_id_vat.private|has_id_vat.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_id_vat.personal|has_id_vat.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_id_vat.secret|has_id_vat.secret]]"
 ---
 
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- [has_/id_/vat :: Text ] 
-- [ has_id_vat :: Text ] 
+- has_id_vat = `=this.dv_has_id_vat`  
+- has_id_vat = `=this.dv_has_id_vat`  
 
 The Value-added Tax ID of the organization or person.
 
 Predicated describes that: 
 
-#has_/domain  :: Organization, Person  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_id_vat )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

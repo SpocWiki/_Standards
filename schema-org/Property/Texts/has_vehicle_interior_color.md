@@ -11,39 +11,67 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - vehicle
   - interior
   - color
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_vehicle_interior_color
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_vehicle_interior_color
 type: Pred_Text
+dv_has_:
+  text_of_:
+    vehicle_interior_color: Text
+  domain: Vehicle
+dv_has_text_of_vehicle_interior_color: Text
+dv_#has_:
+  name: has_text_of_vehicle_interior_color
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_vehicle_interior_color|has_vehicle_interior_color]]"
+    - "[[/_public/schema-org/Property/Texts/has_vehicle_interior_color.public|has_vehicle_interior_color.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_vehicle_interior_color.internal|has_vehicle_interior_color.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_vehicle_interior_color.protect|has_vehicle_interior_color.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_vehicle_interior_color.private|has_vehicle_interior_color.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_vehicle_interior_color.personal|has_vehicle_interior_color.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_vehicle_interior_color.secret|has_vehicle_interior_color.secret]]"
+dv_has_domain: Vehicle
+dv_has_name: has_text_of_vehicle_interior_color
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_vehicle_interior_color|has_vehicle_interior_color]]"
+  - "[[/_public/schema-org/Property/Texts/has_vehicle_interior_color.public|has_vehicle_interior_color.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_vehicle_interior_color.internal|has_vehicle_interior_color.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_vehicle_interior_color.protect|has_vehicle_interior_color.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_vehicle_interior_color.private|has_vehicle_interior_color.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_vehicle_interior_color.personal|has_vehicle_interior_color.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_vehicle_interior_color.secret|has_vehicle_interior_color.secret]]"
 ---
 
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- [has_/text_of_/vehicle_interior_color :: Text ] 
-- [ has_text_of_vehicle_interior_color :: Text ] 
+- has_text_of_vehicle_interior_color = `=this.dv_has_text_of_vehicle_interior_color`  
+- has_text_of_vehicle_interior_color = `=this.dv_has_text_of_vehicle_interior_color`  
 
 The color or color combination of the interior of the vehicle.
 
 Predicated describes that: 
 
-#has_/domain  :: Vehicle  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_vehicle_interior_color )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ReservationStatusType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_confirmed
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_reservation_confirmed Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_reservation_confirmed Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ReservationStatusType]]"
+  enum_of: "[[../ReservationStatusType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed|Reservation_Confirmed]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.public|Reservation_Confirmed.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.internal|Reservation_Confirmed.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.protect|Reservation_Confirmed.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.private|Reservation_Confirmed.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.personal|Reservation_Confirmed.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.secret|Reservation_Confirmed.secret]]"
+dv_is_sub_class_of: "[[../ReservationStatusType]]"
+dv_is_enum_of: "[[../ReservationStatusType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed|Reservation_Confirmed]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.public|Reservation_Confirmed.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.internal|Reservation_Confirmed.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.protect|Reservation_Confirmed.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.private|Reservation_Confirmed.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.personal|Reservation_Confirmed.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.secret|Reservation_Confirmed.secret]]"
 ---
 
 Class of all reservation_confirmeds.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 The status of a confirmed reservation.
 
-#is_/sub_class_of :: [[../ReservationStatusType]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../ReservationStatusType]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

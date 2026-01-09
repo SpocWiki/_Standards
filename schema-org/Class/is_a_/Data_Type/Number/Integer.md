@@ -9,40 +9,61 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - integer
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_integer Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_integer Class
 type: Type
-different_from: '[[_Standards/WikiData/WD~integral,80091]]'
+different_from: "[[_Standards/WikiData/WD~integral,80091]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~Gaussian_integer,724975]]'
-  - '[[_Standards/WikiData/WD~number_with_finite_decimal_representation,8424307]]'
-  - '[[_Standards/WikiData/WD~p_adic_integer,11756524]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-part_of: '[[_Standards/WikiData/WD~set_of_integers,47007735]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_number,47460393]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_integer,101757284]]'
+  - "[[_Standards/WikiData/WD~Gaussian_integer,724975]]"
+  - "[[_Standards/WikiData/WD~number_with_finite_decimal_representation,8424307]]"
+  - "[[_Standards/WikiData/WD~p_adic_integer,11756524]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+part_of: "[[_Standards/WikiData/WD~set_of_integers,47007735]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_number,47460393]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_integer,101757284]]"
 studied_by:
-  - '[[_Standards/WikiData/WD~Q114703800,114703800]]'
-  - '[[_Standards/WikiData/WD~number_theory,12479]]'
+  - "[[_Standards/WikiData/WD~Q114703800,114703800]]"
+  - "[[_Standards/WikiData/WD~number_theory,12479]]"
 OmegaWiki_Defined_Meaning: 968897
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EvenOddNumberLine.svg
 Stack_Exchange_tag: https://math.stackexchange.com/tags/integers
 equivalent_class: https://schema.org/Integer
 IEV_number: 102-02-02
 Commons_category: Integers
+dv_is_:
+  sub_class_of: "[[../Number]]"
+  same_as:
+    - "[[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Integer|Integer]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Number/Integer.public|Integer.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number/Integer.internal|Integer.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number/Integer.protect|Integer.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Number/Integer.private|Integer.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number/Integer.personal|Integer.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Integer.secret|Integer.secret]]"
+dv_is_sub_class_of: "[[../Number]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Integer|Integer]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Number/Integer.public|Integer.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number/Integer.internal|Integer.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number/Integer.protect|Integer.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Number/Integer.private|Integer.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number/Integer.personal|Integer.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Integer.secret|Integer.secret]]"
 ---
 
 # [[Integer]] 
@@ -54,7 +75,7 @@ Tag Instances like this:
 
 Data type: Integer.
 
-#is_/sub_class_of :: [[../Number]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]] 
 

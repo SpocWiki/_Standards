@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - boarding
   - group
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_boarding_group
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_boarding_group
 type: Pred_Text
+dv_has_:
+  text_of_:
+    boarding_group: Text
+  domain: FlightReservation
+dv_has_text_of_boarding_group: Text
+dv_#has_:
+  name: has_text_of_boarding_group
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_boarding_group|has_boarding_group]]"
+    - "[[/_public/schema-org/Property/Texts/has_boarding_group.public|has_boarding_group.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_boarding_group.internal|has_boarding_group.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_boarding_group.protect|has_boarding_group.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_boarding_group.private|has_boarding_group.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_boarding_group.personal|has_boarding_group.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_boarding_group.secret|has_boarding_group.secret]]"
+dv_has_domain: FlightReservation
+dv_has_name: has_text_of_boarding_group
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_boarding_group|has_boarding_group]]"
+  - "[[/_public/schema-org/Property/Texts/has_boarding_group.public|has_boarding_group.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_boarding_group.internal|has_boarding_group.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_boarding_group.protect|has_boarding_group.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_boarding_group.private|has_boarding_group.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_boarding_group.personal|has_boarding_group.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_boarding_group.secret|has_boarding_group.secret]]"
 ---
 
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- [has_/text_of_/boarding_group :: Text ] 
-- [ has_text_of_boarding_group :: Text ] 
+- has_text_of_boarding_group = `=this.dv_has_text_of_boarding_group`  
+- has_text_of_boarding_group = `=this.dv_has_text_of_boarding_group`  
 
 The airline-specific indicator of boarding order / preference.
 
 Predicated describes that: 
 
-#has_/domain  :: FlightReservation  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_boarding_group )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

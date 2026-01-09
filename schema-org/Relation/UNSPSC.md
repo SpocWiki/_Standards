@@ -1,16 +1,33 @@
 ---
 aliases:
   - UNSPSC
-has_location_created: ''
-has_location_destroyed: ''
-has_time_created: ''
-has_time_destroyed: ''
+has_location_created: ""
+has_location_destroyed: ""
+has_time_created: ""
+has_time_destroyed: ""
 name: Schema.org Ontology
 subjectOf:
   \@type: Book
   name: The Complete History of Schema.org
 _context: https://schema.org/
 _type: Thing
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/UNSPSC|UNSPSC]]"
+    - "[[/_public/schema-org/Relation/UNSPSC.public|UNSPSC.public]]"
+    - "[[/_internal/schema-org/Relation/UNSPSC.internal|UNSPSC.internal]]"
+    - "[[/_protect/schema-org/Relation/UNSPSC.protect|UNSPSC.protect]]"
+    - "[[/_private/schema-org/Relation/UNSPSC.private|UNSPSC.private]]"
+    - "[[/_personal/schema-org/Relation/UNSPSC.personal|UNSPSC.personal]]"
+    - "[[/_secret/schema-org/Relation/UNSPSC.secret|UNSPSC.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/UNSPSC|UNSPSC]]"
+  - "[[/_public/schema-org/Relation/UNSPSC.public|UNSPSC.public]]"
+  - "[[/_internal/schema-org/Relation/UNSPSC.internal|UNSPSC.internal]]"
+  - "[[/_protect/schema-org/Relation/UNSPSC.protect|UNSPSC.protect]]"
+  - "[[/_private/schema-org/Relation/UNSPSC.private|UNSPSC.private]]"
+  - "[[/_personal/schema-org/Relation/UNSPSC.personal|UNSPSC.personal]]"
+  - "[[/_secret/schema-org/Relation/UNSPSC.secret|UNSPSC.secret]]"
 ---
 
 The **United Nations Standard Products and Services Code® (UNSPSC®)**, managed by GS1 US® for the UN Development Programme (UNDP), is an open, global, multi-sector standard for efficient, accurate classification of products and services.

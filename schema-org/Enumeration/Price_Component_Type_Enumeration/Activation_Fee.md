@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: PriceComponentTypeEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - activation_fee
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_activation_fee Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_activation_fee Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../PriceComponentTypeEnumeration]]"
+  enum_of: "[[../PriceComponentTypeEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee|Activation_Fee]]"
+    - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.public|Activation_Fee.public]]"
+    - "[[/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.internal|Activation_Fee.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.protect|Activation_Fee.protect]]"
+    - "[[/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.private|Activation_Fee.private]]"
+    - "[[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.personal|Activation_Fee.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.secret|Activation_Fee.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../PriceComponentTypeEnumeration]]"
+dv_is_enum_of: "[[../PriceComponentTypeEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee|Activation_Fee]]"
+  - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.public|Activation_Fee.public]]"
+  - "[[/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.internal|Activation_Fee.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.protect|Activation_Fee.protect]]"
+  - "[[/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.private|Activation_Fee.private]]"
+  - "[[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.personal|Activation_Fee.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.secret|Activation_Fee.secret]]"
 ---
 
 Class of all activation_fees.
@@ -33,13 +56,13 @@ Class of all activation_fees.
 Tag Instances like this: 
 #is_an_/activation_fee
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Represents the activation fee part of the total price for an offered product, for example a cellphone contract.
 
-#is_/sub_class_of :: [[../PriceComponentTypeEnumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../PriceComponentTypeEnumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -8,6 +8,25 @@ opposite_of: "[[_Standards/WikiData/WD~Q3134944,3134944]]"
 Wikidata_property: nature of statement
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rush%20hour%20Tokyo.jpg
 Commons_category: Rush hour
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Rush_hour,868252]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour|Rush_Hour]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.public|Rush_Hour.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.internal|Rush_Hour.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.protect|Rush_Hour.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.private|Rush_Hour.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.personal|Rush_Hour.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.secret|Rush_Hour.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Rush_hour,868252]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour|Rush_Hour]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.public|Rush_Hour.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.internal|Rush_Hour.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.protect|Rush_Hour.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.private|Rush_Hour.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.personal|Rush_Hour.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.secret|Rush_Hour.secret]]"
 ---
 
 # [[Rush_Hour]] 

@@ -18,35 +18,67 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 has_sub_classes:
-  - '[[./Class/is_a_/action|Action]]'
-  - '[[Class/is_a_/bio_chem_entity|bio_chem_entity]]'
-  - '[[../../Society/Communication/Media/Creative_Work|creative_work]]'
-  - '[[Class/is_a_/event|event]]'
-  - '[[Class/is_a_/Intangible|Intangible]]'
-  - '[[../../bio/Medicine/Medical_Entity|medical-entity]]'
-  - '[[../../Earth/Geography/Place|place]]'
-  - '[[../../Society/Agent/Community/Organization|organization]]'
-  - '[[../../Society/Agent/Person|person]]'
-  - '[[../../Society/Agent/Community/Organization/Business/Product|product]]'
-  - '[[../../bio/Taxon_Rank/Taxon|taxon]]'
+  - "[[./Class/is_a_/action|Action]]"
+  - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
+  - "[[../../Society/Communication/Media/Creative_Work|creative_work]]"
+  - "[[Class/is_a_/event|event]]"
+  - "[[Class/is_a_/Intangible|Intangible]]"
+  - "[[../../bio/Medicine/Medical_Entity|medical-entity]]"
+  - "[[../../Earth/Geography/Place|place]]"
+  - "[[../../Society/Agent/Community/Organization|organization]]"
+  - "[[../../Society/Agent/Person|person]]"
+  - "[[../../Society/Agent/Community/Organization/Business/Product|product]]"
+  - "[[../../bio/Taxon_Rank/Taxon|taxon]]"
 has_time_started: 2023-10-02
 isDeleted: false
 isReadOnly: false
 keywords:
   - thing
 lang: en
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_thing Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - schema-org/Class
   - class/Class
 title: is_a_thing Class
 type: Type
+dv_is_:
+  same_as:
+    - "[[WD~Entity,35120]]"
+    - "[[/_Standards/schema-org/Class/Thing|Thing]]"
+    - "[[/_public/schema-org/Class/Thing.public|Thing.public]]"
+    - "[[/_internal/schema-org/Class/Thing.internal|Thing.internal]]"
+    - "[[/_protect/schema-org/Class/Thing.protect|Thing.protect]]"
+    - "[[/_private/schema-org/Class/Thing.private|Thing.private]]"
+    - "[[/_personal/schema-org/Class/Thing.personal|Thing.personal]]"
+    - "[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]"
+  instance_of: "[[../Class|Class]]"
+  sub_class_of: "[[Thing]]"
+dv_has_:
+  sub_classes:
+    - '[[Class/is_a_/creative_work.md| "[[Action]], [[Class/is_a_/place.md|[Event]], [[../../Society/Agent/Community/Organization/Business/Product]], [[stupid_Type]], [[../../bio/Taxon_Rank/Taxon]] ]'
+    - '[ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" ]'
+dv_Predicate:
+  Urls:
+    "has_url_for_additional_type.md| #has_":
+      properties: "[ \"[has_url_for_additional_type]]\", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', \"[[Predicate/Texts/has_description.md|has_description]]\", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url"
+dv_is_same_as:
+  - "[[WD~Entity,35120]]"
+  - "[[/_Standards/schema-org/Class/Thing|Thing]]"
+  - "[[/_public/schema-org/Class/Thing.public|Thing.public]]"
+  - "[[/_internal/schema-org/Class/Thing.internal|Thing.internal]]"
+  - "[[/_protect/schema-org/Class/Thing.protect|Thing.protect]]"
+  - "[[/_private/schema-org/Class/Thing.private|Thing.private]]"
+  - "[[/_personal/schema-org/Class/Thing.personal|Thing.personal]]"
+  - "[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]"
+dv_is_instance_of: "[[../Class|Class]]"
+dv_is_sub_class_of: "[[Thing]]"
+dv_predicateurlshas_url_for_additional_typemd-has_properties: "[ \"[has_url_for_additional_type]]\", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', \"[[Predicate/Texts/has_description.md|has_description]]\", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url"
 ---
 
 # [[Thing]]s/Entities/Objects/Instances/Resources 
@@ -77,8 +109,8 @@ Don't used this Class in a Relation, because it is too vague. Rather use
 - [[is_instance_of]] for Objects or 
 - [[is_sub_class_of|is_subclass_of]]  for Classes
 
-But this [is_/instance_of :: [[../Class|Class]] ] 
-There is no larger Class:  [is_/sub_class_of :: [[./Thing|Thing]] ] 
+But this is_instance_of = `=this.dv_is_instance_of` ] ] 
+There is no larger Class:  is_sub_class_of = `=this.dv_is_sub_class_of` ] ] 
 #has_/sub_classes :: [[Class/is_a_/creative_work.md| "[[Action]], [[Class/is_a_/place.md|[Event]], [[../../Society/Agent/Community/Organization/Business/Product]], [[stupid_Type]], [[../../bio/Taxon_Rank/Taxon]] ] 
 
 has_/sub_classes:: [ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" ]

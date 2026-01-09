@@ -13,35 +13,61 @@ cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Date
 title: has_time_of_birth
 type: Predi_Date_Time
+dv_has_time_of_birth: P#Y#M#W#DT#H#M#s.fff
+dv_#has_:
+  time_:
+    of_birth: P#Y#M#W#DT#H#M#s.fff
+dv_domain: Person
+dv_has_:
+  name: has_time_of_birth
+dv_range: Date
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_birth|has_time_of_birth]]"
+    - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_birth.public|has_time_of_birth.public]]"
+    - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_birth.internal|has_time_of_birth.internal]]"
+    - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_birth.protect|has_time_of_birth.protect]]"
+    - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_birth.private|has_time_of_birth.private]]"
+    - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_birth.personal|has_time_of_birth.personal]]"
+    - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_birth.secret|has_time_of_birth.secret]]"
+dv_has_name: has_time_of_birth
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_birth|has_time_of_birth]]"
+  - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_birth.public|has_time_of_birth.public]]"
+  - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_birth.internal|has_time_of_birth.internal]]"
+  - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_birth.protect|has_time_of_birth.protect]]"
+  - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_birth.private|has_time_of_birth.private]]"
+  - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_birth.personal|has_time_of_birth.personal]]"
+  - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_birth.secret|has_time_of_birth.secret]]"
 ---
 
 Predicate to describe the date of Person.
 
 Use it like this: 
-- [has_time_of_birth::P#Y#M#W#DT#H#M#s.fff] 
-- [has_/time_/of_birth::P#Y#M#W#DT#H#M#s.fff] 
+- has_time_of_birth = `=this.dv_has_time_of_birth`  
+- has_time_of_birth = `=this.dv_has_time_of_birth`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Date of birth.
 
 Formal Predicate: 
-[domain::Person]
-(has_/name::has_time_of_birth)
-(range::Date)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

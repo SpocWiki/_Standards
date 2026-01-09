@@ -7,36 +7,63 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - track
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_track
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: tracks
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_track
 type: Predi_Relation
+dv_has_:
+  track: ItemList, MusicRecording
+  domain: MusicGroup, MusicPlaylist
+dv_has_track: ItemList, MusicRecording
+dv_#has_:
+  name: is_track
+  range: ItemList, MusicRecording
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_track|has_track]]"
+    - "[[/_public/schema-org/Relation/has/has_track.public|has_track.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_track.internal|has_track.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_track.protect|has_track.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_track.private|has_track.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_track.personal|has_track.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_track.secret|has_track.secret]]"
+dv_has_domain: MusicGroup, MusicPlaylist
+dv_has_name: is_track
+dv_has_range: ItemList, MusicRecording
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_track|has_track]]"
+  - "[[/_public/schema-org/Relation/has/has_track.public|has_track.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_track.internal|has_track.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_track.protect|has_track.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_track.private|has_track.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_track.personal|has_track.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_track.secret|has_track.secret]]"
 ---
 
 Use it like this: 
-- [has_/track :: ItemList, MusicRecording ] 
-- [ has_track :: ItemList, MusicRecording ] 
+- has_track = `=this.dv_has_track`  
+- has_track = `=this.dv_has_track`  
 
 A music recording (track)&amp;#x2014;usually a single song. If an ItemList is given, the list should contain items of type MusicRecording.
 
 Relation describes that: 
 
-#has_/domain  :: MusicGroup, MusicPlaylist  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_track )
-( #has_/range :: ItemList, MusicRecording )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -14,38 +14,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - award
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_award
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: awards
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_award
 type: Pred_Text
+dv_has_:
+  text_of_:
+    award: Text
+  domain: CreativeWork, Organization, Person, Product, Service
+dv_has_text_of_award: Text
+dv_#has_:
+  name: has_award
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_award|has_award]]"
+    - "[[/_public/schema-org/Property/Texts/has_award.public|has_award.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_award.internal|has_award.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_award.protect|has_award.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_award.private|has_award.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_award.personal|has_award.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_award.secret|has_award.secret]]"
+dv_has_domain: CreativeWork, Organization, Person, Product, Service
+dv_has_name: has_award
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_award|has_award]]"
+  - "[[/_public/schema-org/Property/Texts/has_award.public|has_award.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_award.internal|has_award.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_award.protect|has_award.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_award.private|has_award.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_award.personal|has_award.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_award.secret|has_award.secret]]"
 ---
 
 Predicate to describe the Text of CreativeWork, Organization, Person, Product, Service.
 
 Use it like this: 
-- [has_/text_of_/award :: Text ] 
-- [ has_text_of_award :: Text ] 
+- has_text_of_award = `=this.dv_has_text_of_award`  
+- has_text_of_award = `=this.dv_has_text_of_award`  
 
 Description of an award won by or for this item.
 
 Predicated describes that: 
 
-#has_/domain  :: CreativeWork, Organization, Person, Product, Service  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_award )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

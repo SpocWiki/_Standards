@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ReturnLabelSourceEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_label_download_and_print
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_return_label_download_and_print Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_return_label_download_and_print Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../ReturnLabelSourceEnumeration]]"
+  enum_of: "[[../ReturnLabelSourceEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print|Return_Label_Download_and_Print]]"
+    - "[[/_public/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.public|Return_Label_Download_and_Print.public]]"
+    - "[[/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.internal|Return_Label_Download_and_Print.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.protect|Return_Label_Download_and_Print.protect]]"
+    - "[[/_private/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.private|Return_Label_Download_and_Print.private]]"
+    - "[[/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.personal|Return_Label_Download_and_Print.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.secret|Return_Label_Download_and_Print.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../ReturnLabelSourceEnumeration]]"
+dv_is_enum_of: "[[../ReturnLabelSourceEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print|Return_Label_Download_and_Print]]"
+  - "[[/_public/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.public|Return_Label_Download_and_Print.public]]"
+  - "[[/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.internal|Return_Label_Download_and_Print.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.protect|Return_Label_Download_and_Print.protect]]"
+  - "[[/_private/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.private|Return_Label_Download_and_Print.private]]"
+  - "[[/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.personal|Return_Label_Download_and_Print.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Download_and_Print.secret|Return_Label_Download_and_Print.secret]]"
 ---
 
 Class of all return_label_download_and_prints.
@@ -33,13 +56,13 @@ Class of all return_label_download_and_prints.
 Tag Instances like this: 
 #is_a_/return_label_download_and_print
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Indicated that a return label must be downloaded and printed by the customer.
 
-#is_/sub_class_of :: [[../ReturnLabelSourceEnumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../ReturnLabelSourceEnumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - infectious
   - agent
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_infectious_agent
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_infectious_agent
 type: Pred_Text
+dv_has_:
+  text_of_:
+    infectious_agent: Text
+  domain: InfectiousDisease
+dv_has_text_of_infectious_agent: Text
+dv_#has_:
+  name: has_text_of_infectious_agent
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_infectious_agent|has_infectious_agent]]"
+    - "[[/_public/schema-org/Property/Texts/has_infectious_agent.public|has_infectious_agent.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_infectious_agent.internal|has_infectious_agent.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_infectious_agent.protect|has_infectious_agent.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_infectious_agent.private|has_infectious_agent.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_infectious_agent.personal|has_infectious_agent.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_infectious_agent.secret|has_infectious_agent.secret]]"
+dv_has_domain: InfectiousDisease
+dv_has_name: has_text_of_infectious_agent
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_infectious_agent|has_infectious_agent]]"
+  - "[[/_public/schema-org/Property/Texts/has_infectious_agent.public|has_infectious_agent.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_infectious_agent.internal|has_infectious_agent.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_infectious_agent.protect|has_infectious_agent.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_infectious_agent.private|has_infectious_agent.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_infectious_agent.personal|has_infectious_agent.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_infectious_agent.secret|has_infectious_agent.secret]]"
 ---
 
 Predicate to describe the Text of InfectiousDisease.
 
 Use it like this: 
-- [has_/text_of_/infectious_agent :: Text ] 
-- [ has_text_of_infectious_agent :: Text ] 
+- has_text_of_infectious_agent = `=this.dv_has_text_of_infectious_agent`  
+- has_text_of_infectious_agent = `=this.dv_has_text_of_infectious_agent`  
 
 The actual infectious agent, such as a specific bacterium.
 
 Predicated describes that: 
 
-#has_/domain  :: InfectiousDisease  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_infectious_agent )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

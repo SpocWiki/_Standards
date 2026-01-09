@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - spoken_word_album
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_spoken_word_album Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_spoken_word_album Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../MusicAlbumProductionType]]"
+  enum_of: "[[../MusicAlbumProductionType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album|Spoken_Word_Album]]"
+    - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.public|Spoken_Word_Album.public]]"
+    - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.internal|Spoken_Word_Album.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.protect|Spoken_Word_Album.protect]]"
+    - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.private|Spoken_Word_Album.private]]"
+    - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.personal|Spoken_Word_Album.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.secret|Spoken_Word_Album.secret]]"
+dv_is_sub_class_of: "[[../MusicAlbumProductionType]]"
+dv_is_enum_of: "[[../MusicAlbumProductionType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album|Spoken_Word_Album]]"
+  - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.public|Spoken_Word_Album.public]]"
+  - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.internal|Spoken_Word_Album.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.protect|Spoken_Word_Album.protect]]"
+  - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.private|Spoken_Word_Album.private]]"
+  - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.personal|Spoken_Word_Album.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.secret|Spoken_Word_Album.secret]]"
 ---
 
 Class of all spoken_word_albums.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 SpokenWordAlbum.
 
-#is_/sub_class_of :: [[../MusicAlbumProductionType]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../MusicAlbumProductionType]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

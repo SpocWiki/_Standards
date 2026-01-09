@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - software_help
   - software
   - help
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_software_help
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_software_help
 type: Predi_Relation
+dv_has_:
+  software_help: CreativeWork
+  domain: SoftwareApplication
+dv_has_software_help: CreativeWork
+dv_#has_:
+  name: is_software_help
+  range: CreativeWork
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_software_help|has_software_help]]"
+    - "[[/_public/schema-org/Relation/has/has_software_help.public|has_software_help.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_software_help.internal|has_software_help.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_software_help.protect|has_software_help.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
+dv_has_domain: SoftwareApplication
+dv_has_name: is_software_help
+dv_has_range: CreativeWork
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_software_help|has_software_help]]"
+  - "[[/_public/schema-org/Relation/has/has_software_help.public|has_software_help.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_software_help.internal|has_software_help.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_software_help.protect|has_software_help.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
 ---
 
 Use it like this: 
-- [has_/software_help :: CreativeWork ] 
-- [ has_software_help :: CreativeWork ] 
+- has_software_help = `=this.dv_has_software_help`  
+- has_software_help = `=this.dv_has_software_help`  
 
 Software application help.
 
 Relation describes that: 
 
-#has_/domain  :: SoftwareApplication  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_software_help )
-( #has_/range :: CreativeWork )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -10,21 +10,49 @@ cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - drive_through_service
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_drive_through_service
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/True
 title: is_drive_through_service
 type: Pred_Bool
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/Flags/is_drive_through_service|is_drive_through_service]]"
+    - "[[/_public/schema-org/Property/Flags/is_drive_through_service.public|is_drive_through_service.public]]"
+    - "[[/_internal/schema-org/Property/Flags/is_drive_through_service.internal|is_drive_through_service.internal]]"
+    - "[[/_protect/schema-org/Property/Flags/is_drive_through_service.protect|is_drive_through_service.protect]]"
+    - "[[/_private/schema-org/Property/Flags/is_drive_through_service.private|is_drive_through_service.private]]"
+    - "[[/_personal/schema-org/Property/Flags/is_drive_through_service.personal|is_drive_through_service.personal]]"
+    - "[[/_secret/schema-org/Property/Flags/is_drive_through_service.secret|is_drive_through_service.secret]]"
+dv_is_drive_through_service: Boolean
+dv_has_:
+  domain: "[[../../../Earth/Geography/Place]]"
+dv_#has_:
+  name: is_drive_through_service
+  range: Boolean
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../Earth/Geography/Place]]"
+dv_has_name: is_drive_through_service
+dv_has_range: Boolean
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Flags/is_drive_through_service|is_drive_through_service]]"
+  - "[[/_public/schema-org/Property/Flags/is_drive_through_service.public|is_drive_through_service.public]]"
+  - "[[/_internal/schema-org/Property/Flags/is_drive_through_service.internal|is_drive_through_service.internal]]"
+  - "[[/_protect/schema-org/Property/Flags/is_drive_through_service.protect|is_drive_through_service.protect]]"
+  - "[[/_private/schema-org/Property/Flags/is_drive_through_service.private|is_drive_through_service.private]]"
+  - "[[/_personal/schema-org/Property/Flags/is_drive_through_service.personal|is_drive_through_service.personal]]"
+  - "[[/_secret/schema-org/Property/Flags/is_drive_through_service.secret|is_drive_through_service.secret]]"
 ---
 
 Indicates whether some facility (e.g. [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment]], [[../../../bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility]]) 
@@ -35,21 +63,21 @@ such facilities could potentially help with social distancing from other potenti
 
 Renamed from `hasDriveThroughService`, because it is a boolean Type. 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/drive_through_service 
 #is_not_/drive_through_service 
 
 Or write it as a Triple: 
-[ is_drive_through_service :: Boolean ] 
+is_drive_through_service = `=this.dv_is_drive_through_service`  
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../../Earth/Geography/Place]]  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_drive_through_service )
-( #has_/range :: Boolean )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

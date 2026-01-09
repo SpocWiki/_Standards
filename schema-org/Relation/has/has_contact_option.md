@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,30 +16,57 @@ keywords:
   - option
   - contact_option
   - contactOption
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_contact_option
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_contact_option
 type: Predi_Relation
+dv_has_:
+  contact_option: ContactPointOption
+  domain: ContactPoint
+dv_has_contact_option: ContactPointOption
+dv_#has_:
+  name: has_contact_option
+  range: ContactPointOption
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_contact_option|has_contact_option]]"
+    - "[[/_public/schema-org/Relation/has/has_contact_option.public|has_contact_option.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_contact_option.internal|has_contact_option.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_contact_option.protect|has_contact_option.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_contact_option.private|has_contact_option.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_contact_option.personal|has_contact_option.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_contact_option.secret|has_contact_option.secret]]"
+dv_has_domain: ContactPoint
+dv_has_name: has_contact_option
+dv_has_range: ContactPointOption
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_contact_option|has_contact_option]]"
+  - "[[/_public/schema-org/Relation/has/has_contact_option.public|has_contact_option.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_contact_option.internal|has_contact_option.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_contact_option.protect|has_contact_option.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_contact_option.private|has_contact_option.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_contact_option.personal|has_contact_option.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_contact_option.secret|has_contact_option.secret]]"
 ---
 
 Use it like this: 
-- [has_/contact_option :: ContactPointOption ] 
-- [ has_contact_option :: ContactPointOption ] 
+- has_contact_option = `=this.dv_has_contact_option`  
+- has_contact_option = `=this.dv_has_contact_option`  
 
 An option available on this contact point (e.g. a toll-free number or support for hearing-impaired callers).
 
 Relation describes that: 
 
-#has_/domain  :: ContactPoint  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_contact_option )
-( #has_/range :: ContactPointOption )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

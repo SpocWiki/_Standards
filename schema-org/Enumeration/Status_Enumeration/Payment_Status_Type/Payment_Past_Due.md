@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: PaymentStatusType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment_past_due
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_payment_past_due Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_payment_past_due Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../PaymentStatusType]]"
+  enum_of: "[[../PaymentStatusType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due|Payment_Past_Due]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.public|Payment_Past_Due.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.internal|Payment_Past_Due.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.protect|Payment_Past_Due.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.private|Payment_Past_Due.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.personal|Payment_Past_Due.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.secret|Payment_Past_Due.secret]]"
+dv_is_sub_class_of: "[[../PaymentStatusType]]"
+dv_is_enum_of: "[[../PaymentStatusType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due|Payment_Past_Due]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.public|Payment_Past_Due.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.internal|Payment_Past_Due.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.protect|Payment_Past_Due.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.private|Payment_Past_Due.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.personal|Payment_Past_Due.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.secret|Payment_Past_Due.secret]]"
 ---
 
 Class of all payment_past_dues.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 The payment is due and considered late.
 
-#is_/sub_class_of :: [[../PaymentStatusType]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../PaymentStatusType]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

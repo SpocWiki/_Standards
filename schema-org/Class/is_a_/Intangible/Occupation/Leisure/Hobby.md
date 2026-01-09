@@ -17,6 +17,25 @@ UMLS_CUI: C0019826
 MeSH_tree_code: I03.450.642.469
 IPTC_NewsCode: mediatopic/20000550
 Library_of_Congress_Classification: GV1201.5
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~hobby,47728]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby|Hobby]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.public|Hobby.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.internal|Hobby.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.protect|Hobby.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.private|Hobby.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.personal|Hobby.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.secret|Hobby.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~hobby,47728]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby|Hobby]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.public|Hobby.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.internal|Hobby.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.protect|Hobby.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.private|Hobby.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.personal|Hobby.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.secret|Hobby.secret]]"
 ---
 
 # [[Hobby]] 

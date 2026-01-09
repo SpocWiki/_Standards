@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - shipping_delivery_time
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_shipping_delivery_time Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_shipping_delivery_time Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../StructuredValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time|Shipping_Delivery_Time]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.public|Shipping_Delivery_Time.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.internal|Shipping_Delivery_Time.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.protect|Shipping_Delivery_Time.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.private|Shipping_Delivery_Time.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.personal|Shipping_Delivery_Time.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.secret|Shipping_Delivery_Time.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, businessDays, cutoffTime, description, disambiguatingDescription, handlingTime, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, transitTime, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_properties: "[ additionalType, alternateName, businessDays, cutoffTime, description, disambiguatingDescription, handlingTime, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, transitTime, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time|Shipping_Delivery_Time]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.public|Shipping_Delivery_Time.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.internal|Shipping_Delivery_Time.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.protect|Shipping_Delivery_Time.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.private|Shipping_Delivery_Time.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.personal|Shipping_Delivery_Time.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.secret|Shipping_Delivery_Time.secret]]"
 ---
 
 Class of all shipping_delivery_times.
@@ -32,13 +56,13 @@ Class of all shipping_delivery_times.
 Tag Instances like this: 
 #is_a_/shipping_delivery_time
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 ShippingDeliveryTime provides various pieces of information about delivery times for shipping.
 
-#is_/sub_class_of :: [[../StructuredValue]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, businessDays, cutoffTime, description, disambiguatingDescription, handlingTime, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, transitTime, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

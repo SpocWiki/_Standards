@@ -11,37 +11,65 @@ cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - service_url
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_url_for_service_url
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Url
 title: has_url_for_service_url
 type: Predi_Url
+dv_has_:
+  url_for_:
+    service: URL
+  domain: ServiceChannel
+dv_has_url_for_service: URL
+dv_#has_:
+  name: has_url_for_service_url
+  range: URL
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_service|has_url_for_service]]"
+    - "[[/_public/schema-org/Property/has_url_for/has_url_for_service.public|has_url_for_service.public]]"
+    - "[[/_internal/schema-org/Property/has_url_for/has_url_for_service.internal|has_url_for_service.internal]]"
+    - "[[/_protect/schema-org/Property/has_url_for/has_url_for_service.protect|has_url_for_service.protect]]"
+    - "[[/_private/schema-org/Property/has_url_for/has_url_for_service.private|has_url_for_service.private]]"
+    - "[[/_personal/schema-org/Property/has_url_for/has_url_for_service.personal|has_url_for_service.personal]]"
+    - "[[/_secret/schema-org/Property/has_url_for/has_url_for_service.secret|has_url_for_service.secret]]"
+dv_has_domain: ServiceChannel
+dv_has_name: has_url_for_service_url
+dv_has_range: URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_service|has_url_for_service]]"
+  - "[[/_public/schema-org/Property/has_url_for/has_url_for_service.public|has_url_for_service.public]]"
+  - "[[/_internal/schema-org/Property/has_url_for/has_url_for_service.internal|has_url_for_service.internal]]"
+  - "[[/_protect/schema-org/Property/has_url_for/has_url_for_service.protect|has_url_for_service.protect]]"
+  - "[[/_private/schema-org/Property/has_url_for/has_url_for_service.private|has_url_for_service.private]]"
+  - "[[/_personal/schema-org/Property/has_url_for/has_url_for_service.personal|has_url_for_service.personal]]"
+  - "[[/_secret/schema-org/Property/has_url_for/has_url_for_service.secret|has_url_for_service.secret]]"
 ---
 
 Predicate to specify the Url of ServiceChannel.
 
 Use it like this: 
-- [has_/url_for_/service :: URL ] 
-- [ has_url_for_service :: URL ] 
+- has_url_for_service = `=this.dv_has_url_for_service`  
+- has_url_for_service = `=this.dv_has_url_for_service`  
 
 The website to access the service.
 
 Predicate describes that: 
 
-#has_/domain  :: ServiceChannel  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_url_for_service_url )
-( #has_/range :: URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - communicate_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_communicate_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_communicate_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../InteractAction]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.public|Communicate_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.internal|Communicate_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.protect|Communicate_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.private|Communicate_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.personal|Communicate_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.secret|Communicate_Action.secret]]"
+dv_has_:
+  sub_classes: "[ AskAction, CheckInAction, CheckOutAction, CommentAction, InformAction, InviteAction, ReplyAction, ShareAction ]"
+  properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_sub_class_of: "[[../InteractAction]]"
+dv_has_sub_classes: "[ AskAction, CheckInAction, CheckOutAction, CommentAction, InformAction, InviteAction, ReplyAction, ShareAction ]"
+dv_has_properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.public|Communicate_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.internal|Communicate_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.protect|Communicate_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.private|Communicate_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.personal|Communicate_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.secret|Communicate_Action.secret]]"
 ---
 
 Class of all communicate_actions.
@@ -34,11 +58,11 @@ Tag Instances like this:
 
 The act of conveying information to another person via a communication medium (instrument) such as speech, email, or telephone conversation.
 
-#is_/sub_class_of :: [[../InteractAction]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ AskAction, CheckInAction, CheckOutAction, CommentAction, InformAction, InviteAction, ReplyAction, ShareAction ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-#has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_group_extra_short
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_group_extra_short Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_wearable_size_group_extra_short Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../WearableSizeGroupEnumeration]]"
+  enum_of: "[[../WearableSizeGroupEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short|Wearable_Size_Group_Extra_Short]]"
+    - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.public|Wearable_Size_Group_Extra_Short.public]]"
+    - "[[/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.internal|Wearable_Size_Group_Extra_Short.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.protect|Wearable_Size_Group_Extra_Short.protect]]"
+    - "[[/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.private|Wearable_Size_Group_Extra_Short.private]]"
+    - "[[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.personal|Wearable_Size_Group_Extra_Short.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.secret|Wearable_Size_Group_Extra_Short.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../WearableSizeGroupEnumeration]]"
+dv_is_enum_of: "[[../WearableSizeGroupEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short|Wearable_Size_Group_Extra_Short]]"
+  - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.public|Wearable_Size_Group_Extra_Short.public]]"
+  - "[[/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.internal|Wearable_Size_Group_Extra_Short.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.protect|Wearable_Size_Group_Extra_Short.protect]]"
+  - "[[/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.private|Wearable_Size_Group_Extra_Short.private]]"
+  - "[[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.personal|Wearable_Size_Group_Extra_Short.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Short.secret|Wearable_Size_Group_Extra_Short.secret]]"
 ---
 
 Class of all wearable_size_group_extra_shorts.
@@ -33,13 +56,13 @@ Class of all wearable_size_group_extra_shorts.
 Tag Instances like this: 
 #is_a_/wearable_size_group_extra_short
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Size group "Extra Short" for wearables.
 
-#is_/sub_class_of :: [[../WearableSizeGroupEnumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../WearableSizeGroupEnumeration]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

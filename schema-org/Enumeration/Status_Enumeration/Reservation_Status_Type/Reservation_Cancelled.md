@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ReservationStatusType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_cancelled
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_reservation_cancelled Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_reservation_cancelled Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ReservationStatusType]]"
+  enum_of: "[[../ReservationStatusType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled|Reservation_Cancelled]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.public|Reservation_Cancelled.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.internal|Reservation_Cancelled.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.protect|Reservation_Cancelled.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.private|Reservation_Cancelled.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.personal|Reservation_Cancelled.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.secret|Reservation_Cancelled.secret]]"
+dv_is_sub_class_of: "[[../ReservationStatusType]]"
+dv_is_enum_of: "[[../ReservationStatusType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled|Reservation_Cancelled]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.public|Reservation_Cancelled.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.internal|Reservation_Cancelled.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.protect|Reservation_Cancelled.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.private|Reservation_Cancelled.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.personal|Reservation_Cancelled.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.secret|Reservation_Cancelled.secret]]"
 ---
 
 Class of all reservation_cancelleds.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 The status for a previously confirmed reservation that is now cancelled.
 
-#is_/sub_class_of :: [[../ReservationStatusType]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../ReservationStatusType]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

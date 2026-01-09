@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - ticketed_seat
   - ticketed
   - seat
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_ticketed_seat
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_ticketed_seat
 type: Predi_Relation
+dv_has_:
+  ticketed_seat: Seat
+  domain: Ticket
+dv_has_ticketed_seat: Seat
+dv_#has_:
+  name: is_ticketed_seat
+  range: Seat
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_ticketed_seat|has_ticketed_seat]]"
+    - "[[/_public/schema-org/Relation/has/has_ticketed_seat.public|has_ticketed_seat.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_ticketed_seat.internal|has_ticketed_seat.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_ticketed_seat.protect|has_ticketed_seat.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_ticketed_seat.private|has_ticketed_seat.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_ticketed_seat.personal|has_ticketed_seat.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_ticketed_seat.secret|has_ticketed_seat.secret]]"
+dv_has_domain: Ticket
+dv_has_name: is_ticketed_seat
+dv_has_range: Seat
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_ticketed_seat|has_ticketed_seat]]"
+  - "[[/_public/schema-org/Relation/has/has_ticketed_seat.public|has_ticketed_seat.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_ticketed_seat.internal|has_ticketed_seat.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_ticketed_seat.protect|has_ticketed_seat.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_ticketed_seat.private|has_ticketed_seat.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_ticketed_seat.personal|has_ticketed_seat.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_ticketed_seat.secret|has_ticketed_seat.secret]]"
 ---
 
 Use it like this: 
-- [has_/ticketed_seat :: Seat ] 
-- [ has_ticketed_seat :: Seat ] 
+- has_ticketed_seat = `=this.dv_has_ticketed_seat`  
+- has_ticketed_seat = `=this.dv_has_ticketed_seat`  
 
 The seat associated with the ticket.
 
 Relation describes that: 
 
-#has_/domain  :: Ticket  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_ticketed_seat )
-( #has_/range :: Seat )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - status_enumeration
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_status_enumeration Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_status_enumeration Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration|Status_Enumeration]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration.public|Status_Enumeration.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration.internal|Status_Enumeration.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration.protect|Status_Enumeration.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration.private|Status_Enumeration.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration.personal|Status_Enumeration.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration.secret|Status_Enumeration.secret]]"
+dv_has_:
+  sub_classes: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_sub_classes: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration|Status_Enumeration]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration.public|Status_Enumeration.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration.internal|Status_Enumeration.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration.protect|Status_Enumeration.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration.private|Status_Enumeration.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration.personal|Status_Enumeration.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration.secret|Status_Enumeration.secret]]"
 ---
 
 Class of all status_enumerations.
@@ -34,9 +56,9 @@ Tag Instances like this:
 
 Lists or enumerations dealing with status types.
 
-#is_/sub_class_of :: [[../Enumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
 ## Confidential Links & Embeds: 
 

@@ -10,28 +10,56 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - total-price
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_total-price
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_total-price
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    total_price: Number, PriceSpecification, Text
+  domain: Reservation, Ticket
+dv_has_value_for_total_price: Number, PriceSpecification, Text
+dv_#has_:
+  name: has_value_for_total_price
+  range: Number, PriceSpecification, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_total_price|has_value_for_total_price]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_total_price.public|has_value_for_total_price.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_total_price.internal|has_value_for_total_price.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_total_price.protect|has_value_for_total_price.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_total_price.private|has_value_for_total_price.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_total_price.personal|has_value_for_total_price.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_total_price.secret|has_value_for_total_price.secret]]"
+dv_has_domain: Reservation, Ticket
+dv_has_name: has_value_for_total_price
+dv_has_range: Number, PriceSpecification, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_total_price|has_value_for_total_price]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_total_price.public|has_value_for_total_price.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_total_price.internal|has_value_for_total_price.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_total_price.protect|has_value_for_total_price.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_total_price.private|has_value_for_total_price.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_total_price.personal|has_value_for_total_price.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_total_price.secret|has_value_for_total_price.secret]]"
 ---
 
 Predicate to describe the Quantity of Reservation, Ticket.
 
 Use it like this: 
-- [has_/value_for_/total_price :: Number, PriceSpecification, Text ] 
-- [ has_value_for_total_price :: Number, PriceSpecification, Text ] 
+- has_value_for_total_price = `=this.dv_has_value_for_total_price`  
+- has_value_for_total_price = `=this.dv_has_value_for_total_price`  
 
 The total price for the reservation or ticket, including applicable taxes, shipping, etc.
 
@@ -48,10 +76,10 @@ Usage guidelines:
 
 Predicate describes that: 
 
-#has_/domain  :: Reservation, Ticket  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_total_price )
-( #has_/range :: Number, PriceSpecification, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

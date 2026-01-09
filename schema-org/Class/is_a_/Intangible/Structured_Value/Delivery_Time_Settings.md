@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - delivery_time_settings
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_delivery_time_settings Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_delivery_time_settings Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../StructuredValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings|Delivery_Time_Settings]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.public|Delivery_Time_Settings.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.internal|Delivery_Time_Settings.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.protect|Delivery_Time_Settings.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.private|Delivery_Time_Settings.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.personal|Delivery_Time_Settings.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.secret|Delivery_Time_Settings.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, deliveryTime, description, disambiguatingDescription, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, subjectOf, transitTimeLabel, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_properties: "[ additionalType, alternateName, deliveryTime, description, disambiguatingDescription, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, subjectOf, transitTimeLabel, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings|Delivery_Time_Settings]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.public|Delivery_Time_Settings.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.internal|Delivery_Time_Settings.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.protect|Delivery_Time_Settings.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.private|Delivery_Time_Settings.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.personal|Delivery_Time_Settings.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.secret|Delivery_Time_Settings.secret]]"
 ---
 
 Class of all delivery_time_settingss.
@@ -32,13 +56,13 @@ Class of all delivery_time_settingss.
 Tag Instances like this: 
 #is_a_/delivery_time_settings
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 A DeliveryTimeSettings represents re-usable pieces of shipping information, relating to timing. It is designed for publication on an URL that may be referenced via the [[shippingSettingsLink]] property of an [[OfferShippingDetails]]. Several occurrences can be published, distinguished (and identified/referenced) by their different values for [[transitTimeLabel]].
 
-#is_/sub_class_of :: [[../StructuredValue]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, deliveryTime, description, disambiguatingDescription, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, subjectOf, transitTimeLabel, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

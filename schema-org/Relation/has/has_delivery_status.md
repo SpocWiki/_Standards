@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,30 +16,57 @@ keywords:
   - status
   - delivery_status
   - deliveryStatus
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_delivery_status
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_delivery_status
 type: Predi_Relation
+dv_has_:
+  delivery_status: DeliveryEvent
+  domain: ParcelDelivery
+dv_has_delivery_status: DeliveryEvent
+dv_#has_:
+  name: has_delivery_status
+  range: DeliveryEvent
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_delivery_status|has_delivery_status]]"
+    - "[[/_public/schema-org/Relation/has/has_delivery_status.public|has_delivery_status.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_delivery_status.internal|has_delivery_status.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_delivery_status.protect|has_delivery_status.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_delivery_status.private|has_delivery_status.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_delivery_status.personal|has_delivery_status.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_delivery_status.secret|has_delivery_status.secret]]"
+dv_has_domain: ParcelDelivery
+dv_has_name: has_delivery_status
+dv_has_range: DeliveryEvent
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_delivery_status|has_delivery_status]]"
+  - "[[/_public/schema-org/Relation/has/has_delivery_status.public|has_delivery_status.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_delivery_status.internal|has_delivery_status.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_delivery_status.protect|has_delivery_status.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_delivery_status.private|has_delivery_status.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_delivery_status.personal|has_delivery_status.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_delivery_status.secret|has_delivery_status.secret]]"
 ---
 
 Use it like this: 
-- [has_/delivery_status :: DeliveryEvent ] 
-- [ has_delivery_status :: DeliveryEvent ] 
+- has_delivery_status = `=this.dv_has_delivery_status`  
+- has_delivery_status = `=this.dv_has_delivery_status`  
 
 New entry added as the package passes through each leg of its journey (from shipment to final delivery).
 
 Relation describes that: 
 
-#has_/domain  :: ParcelDelivery  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_delivery_status )
-( #has_/range :: DeliveryEvent )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -9,21 +9,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalActivityCategory
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - balance
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_balance Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_balance Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../PhysicalActivityCategory]]"
+  enum_of: "[[../PhysicalActivityCategory]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Balance|Balance]]"
+    - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Balance.public|Balance.public]]"
+    - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category/Balance.internal|Balance.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category/Balance.protect|Balance.protect]]"
+    - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Balance.private|Balance.private]]"
+    - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Balance.personal|Balance.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Balance.secret|Balance.secret]]"
+dv_is_sub_class_of: "[[../PhysicalActivityCategory]]"
+dv_is_enum_of: "[[../PhysicalActivityCategory]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Balance|Balance]]"
+  - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Balance.public|Balance.public]]"
+  - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category/Balance.internal|Balance.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category/Balance.protect|Balance.protect]]"
+  - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Balance.private|Balance.private]]"
+  - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Balance.personal|Balance.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Balance.secret|Balance.secret]]"
 ---
 
 Class of all balances.
@@ -33,9 +54,9 @@ Tag Instances like this:
 
 Physical activity that is engaged to help maintain posture and balance.
 
-#is_/sub_class_of :: [[../PhysicalActivityCategory]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../PhysicalActivityCategory]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

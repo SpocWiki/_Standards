@@ -42,6 +42,25 @@ MeSH_tree_code:
   - I01.880.735.900
 Archive_of_Our_Own_tag: Violence
 Commons_category: Violence
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Violence,124490|WD~Violence,124490]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Aggression/Violence|Violence]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Aggression/Violence.public|Violence.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Aggression/Violence.internal|Violence.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Aggression/Violence.protect|Violence.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Aggression/Violence.private|Violence.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Aggression/Violence.personal|Violence.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Aggression/Violence.secret|Violence.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Violence,124490|WD~Violence,124490]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Aggression/Violence|Violence]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Aggression/Violence.public|Violence.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Aggression/Violence.internal|Violence.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Aggression/Violence.protect|Violence.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Aggression/Violence.private|Violence.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Aggression/Violence.personal|Violence.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Aggression/Violence.secret|Violence.secret]]"
 ---
 
 # [[Violence]] 

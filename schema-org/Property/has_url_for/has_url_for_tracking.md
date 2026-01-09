@@ -11,37 +11,65 @@ cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - tracking_url
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_url_for_tracking_url
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Url
 title: has_url_for_tracking_url
 type: Predi_Url
+dv_has_:
+  url_for_:
+    tracking: URL
+  domain: ParcelDelivery
+dv_has_url_for_tracking: URL
+dv_#has_:
+  name: has_url_for_tracking_url
+  range: URL
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_tracking|has_url_for_tracking]]"
+    - "[[/_public/schema-org/Property/has_url_for/has_url_for_tracking.public|has_url_for_tracking.public]]"
+    - "[[/_internal/schema-org/Property/has_url_for/has_url_for_tracking.internal|has_url_for_tracking.internal]]"
+    - "[[/_protect/schema-org/Property/has_url_for/has_url_for_tracking.protect|has_url_for_tracking.protect]]"
+    - "[[/_private/schema-org/Property/has_url_for/has_url_for_tracking.private|has_url_for_tracking.private]]"
+    - "[[/_personal/schema-org/Property/has_url_for/has_url_for_tracking.personal|has_url_for_tracking.personal]]"
+    - "[[/_secret/schema-org/Property/has_url_for/has_url_for_tracking.secret|has_url_for_tracking.secret]]"
+dv_has_domain: ParcelDelivery
+dv_has_name: has_url_for_tracking_url
+dv_has_range: URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_tracking|has_url_for_tracking]]"
+  - "[[/_public/schema-org/Property/has_url_for/has_url_for_tracking.public|has_url_for_tracking.public]]"
+  - "[[/_internal/schema-org/Property/has_url_for/has_url_for_tracking.internal|has_url_for_tracking.internal]]"
+  - "[[/_protect/schema-org/Property/has_url_for/has_url_for_tracking.protect|has_url_for_tracking.protect]]"
+  - "[[/_private/schema-org/Property/has_url_for/has_url_for_tracking.private|has_url_for_tracking.private]]"
+  - "[[/_personal/schema-org/Property/has_url_for/has_url_for_tracking.personal|has_url_for_tracking.personal]]"
+  - "[[/_secret/schema-org/Property/has_url_for/has_url_for_tracking.secret|has_url_for_tracking.secret]]"
 ---
 
 Predicate to specify the Url of ParcelDelivery.
 
 Use it like this: 
-- [has_/url_for_/tracking :: URL ] 
-- [ has_url_for_tracking :: URL ] 
+- has_url_for_tracking = `=this.dv_has_url_for_tracking`  
+- has_url_for_tracking = `=this.dv_has_url_for_tracking`  
 
 Tracking url for the parcel delivery.
 
 Predicate describes that: 
 
-#has_/domain  :: ParcelDelivery  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_url_for_tracking_url )
-( #has_/range :: URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

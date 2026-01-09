@@ -11,37 +11,65 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - dependencies
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_dependencies
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_dependencies
 type: Pred_Text
+dv_has_:
+  text_of_:
+    dependencies: Text
+  domain: TechArticle
+dv_has_text_of_dependencies: Text
+dv_#has_:
+  name: has_text_of_dependencies
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_dependencies|has_dependencies]]"
+    - "[[/_public/schema-org/Property/Texts/has_dependencies.public|has_dependencies.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_dependencies.internal|has_dependencies.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_dependencies.protect|has_dependencies.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_dependencies.private|has_dependencies.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_dependencies.personal|has_dependencies.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_dependencies.secret|has_dependencies.secret]]"
+dv_has_domain: TechArticle
+dv_has_name: has_text_of_dependencies
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_dependencies|has_dependencies]]"
+  - "[[/_public/schema-org/Property/Texts/has_dependencies.public|has_dependencies.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_dependencies.internal|has_dependencies.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_dependencies.protect|has_dependencies.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_dependencies.private|has_dependencies.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_dependencies.personal|has_dependencies.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_dependencies.secret|has_dependencies.secret]]"
 ---
 
 Predicate to describe the Text of TechArticle.
 
 Use it like this: 
-- [has_/text_of_/dependencies :: Text ] 
-- [ has_text_of_dependencies :: Text ] 
+- has_text_of_dependencies = `=this.dv_has_text_of_dependencies`  
+- has_text_of_dependencies = `=this.dv_has_text_of_dependencies`  
 
 Prerequisites needed to fulfill steps in article.
 
 Predicated describes that: 
 
-#has_/domain  :: TechArticle  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_dependencies )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

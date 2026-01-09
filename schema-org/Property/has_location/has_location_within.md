@@ -19,21 +19,49 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_within
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_within
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_within
 type: Pred_geo
+dv_has_:
+  location_:
+    within: GeospatialGeometry, Place
+  domain: GeospatialGeometry, Place
+dv_has_location_within: GeospatialGeometry, Place
+dv_#has_:
+  name: "[[has_location_within]]"
+  range: GeospatialGeometry, Place
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_location/has_location_within|has_location_within]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_within.public|has_location_within.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_within.internal|has_location_within.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_within.protect|has_location_within.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_within.private|has_location_within.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_within.personal|has_location_within.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_within.secret|has_location_within.secret]]"
+dv_has_domain: GeospatialGeometry, Place
+dv_has_name: "[[has_location_within]]"
+dv_has_range: GeospatialGeometry, Place
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_location/has_location_within|has_location_within]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_within.public|has_location_within.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_within.internal|has_location_within.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_within.protect|has_location_within.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_within.private|has_location_within.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_within.personal|has_location_within.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_within.secret|has_location_within.secret]]"
 ---
 
 Relation to the geo of a larger GeospatialGeometry or Place that completely covers this Entity.
@@ -44,15 +72,15 @@ i.e. this is inside (i.e. within) the Object's interior.
 As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
 Use it like this: 
-- [has_/location_/within :: GeospatialGeometry, Place ] 
-- [ has_location_within :: GeospatialGeometry, Place ] 
+- has_location_within = `=this.dv_has_location_within`  
+- has_location_within = `=this.dv_has_location_within`  
 
 Predicate describes that: 
 
-#has_/domain  :: GeospatialGeometry, Place  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: [[has_location_within]] )
-( #has_/range :: GeospatialGeometry, Place )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 [[../../../schema-org|schema-org]] also defines 
 - the inverse Relations

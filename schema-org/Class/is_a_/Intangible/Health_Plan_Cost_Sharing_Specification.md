@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_plan_cost_sharing_specification
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_health_plan_cost_sharing_specification Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_health_plan_cost_sharing_specification Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification|Health_Plan_Cost_Sharing_Specification]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.public|Health_Plan_Cost_Sharing_Specification.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.internal|Health_Plan_Cost_Sharing_Specification.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.protect|Health_Plan_Cost_Sharing_Specification.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.private|Health_Plan_Cost_Sharing_Specification.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.personal|Health_Plan_Cost_Sharing_Specification.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.secret|Health_Plan_Cost_Sharing_Specification.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, healthPlanCoinsuranceOption, healthPlanCoinsuranceRate, healthPlanCopay, healthPlanCopayOption, healthPlanPharmacyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, healthPlanCoinsuranceOption, healthPlanCoinsuranceRate, healthPlanCopay, healthPlanCopayOption, healthPlanPharmacyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification|Health_Plan_Cost_Sharing_Specification]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.public|Health_Plan_Cost_Sharing_Specification.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.internal|Health_Plan_Cost_Sharing_Specification.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.protect|Health_Plan_Cost_Sharing_Specification.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.private|Health_Plan_Cost_Sharing_Specification.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.personal|Health_Plan_Cost_Sharing_Specification.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.secret|Health_Plan_Cost_Sharing_Specification.secret]]"
 ---
 
 Class of all health_plan_cost_sharing_specifications.
@@ -32,13 +56,13 @@ Class of all health_plan_cost_sharing_specifications.
 Tag Instances like this: 
 #is_a_/health_plan_cost_sharing_specification
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 A description of costs to the patient under a given network or formulary.
 
-#is_/sub_class_of :: [[../Intangible]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCoinsuranceOption, healthPlanCoinsuranceRate, healthPlanCopay, healthPlanCopayOption, healthPlanPharmacyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

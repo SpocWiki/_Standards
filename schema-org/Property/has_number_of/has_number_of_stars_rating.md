@@ -10,26 +10,56 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - star-rating
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_star-rating
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_star-rating
 type: Predi_Quantity
+dv_has_:
+  number_of_:
+    stars_rating: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
+  domain: "[ [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]] ]"
+dv_has_number_of_stars_rating: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
+dv_is_:
+  similar_to: "[[../has_value_for/has_value_for_rating|has_value_for_rating]]"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_stars_rating|has_number_of_stars_rating]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_stars_rating.public|has_number_of_stars_rating.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_stars_rating.internal|has_number_of_stars_rating.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_stars_rating.protect|has_number_of_stars_rating.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_stars_rating.private|has_number_of_stars_rating.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_stars_rating.personal|has_number_of_stars_rating.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_stars_rating.secret|has_number_of_stars_rating.secret]]"
+dv_#has_:
+  name: has_number_of_stars_rating
+  range: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
+dv_is_similar_to: "[[../has_value_for/has_value_for_rating|has_value_for_rating]]"
+dv_has_domain: "[ [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]] ]"
+dv_has_name: has_number_of_stars_rating
+dv_has_range: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_stars_rating|has_number_of_stars_rating]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_stars_rating.public|has_number_of_stars_rating.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_stars_rating.internal|has_number_of_stars_rating.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_stars_rating.protect|has_number_of_stars_rating.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_stars_rating.private|has_number_of_stars_rating.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_stars_rating.personal|has_number_of_stars_rating.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_stars_rating.secret|has_number_of_stars_rating.secret]]"
 ---
 
 [[../../Predicate|Predicate]] to describe the relative Quality of a [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]]  etc.
 
-#is_/similar_to :: [[../has_value_for/has_value_for_rating|has_value_for_rating]] 
+is_similar_to = `=this.dv_is_similar_to` 
 
 On e-commerce websites, a five-star rating system is often used, 
 where a higher number of stars typically indicates a better product or service. 
@@ -44,8 +74,8 @@ The interpretation of each star can vary, but a general understanding is:
 The Rating can be mapped to an equivalent linear scale (although the Distribution is often Gaussian) using 20* Stars - 10%
 
 Use it like this: 
-- [has_/number_of_/stars_rating :: [[../../Class/is_a_/Intangible/rating|Rating]] ] 
-- [ has_number_of_stars_rating :: [[../../Class/is_a_/Intangible/rating|Rating]] ] 
+- has_number_of_stars_rating = `=this.dv_has_number_of_stars_rating` ] ] 
+- has_number_of_stars_rating = `=this.dv_has_number_of_stars_rating` ] ] 
 
 An official rating for a lodging business or food establishment, e.g. from national associations or standards bodies. 
 
@@ -54,10 +84,10 @@ e.g. as an Organization with name such as (e.g. HOTREC, DEHOGA, WHR, or Hotelsta
 
 Predicate describes that: 
 
-#has_/domain  :: [ [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]] ]  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_number_of_stars_rating )
-( #has_/range :: [[../../Class/is_a_/Intangible/rating|Rating]] )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

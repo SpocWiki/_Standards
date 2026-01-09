@@ -9,21 +9,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - breadcrumb_list
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_breadcrumb_list Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_breadcrumb_list Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ItemList]]"
+  same_as:
+    - "[[/_Standards/schema-org/Collection/item_list/breadcrumb_list|breadcrumb_list]]"
+    - "[[/_public/schema-org/Collection/item_list/breadcrumb_list.public|breadcrumb_list.public]]"
+    - "[[/_internal/schema-org/Collection/item_list/breadcrumb_list.internal|breadcrumb_list.internal]]"
+    - "[[/_protect/schema-org/Collection/item_list/breadcrumb_list.protect|breadcrumb_list.protect]]"
+    - "[[/_private/schema-org/Collection/item_list/breadcrumb_list.private|breadcrumb_list.private]]"
+    - "[[/_personal/schema-org/Collection/item_list/breadcrumb_list.personal|breadcrumb_list.personal]]"
+    - "[[/_secret/schema-org/Collection/item_list/breadcrumb_list.secret|breadcrumb_list.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../ItemList]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Collection/item_list/breadcrumb_list|breadcrumb_list]]"
+  - "[[/_public/schema-org/Collection/item_list/breadcrumb_list.public|breadcrumb_list.public]]"
+  - "[[/_internal/schema-org/Collection/item_list/breadcrumb_list.internal|breadcrumb_list.internal]]"
+  - "[[/_protect/schema-org/Collection/item_list/breadcrumb_list.protect|breadcrumb_list.protect]]"
+  - "[[/_private/schema-org/Collection/item_list/breadcrumb_list.private|breadcrumb_list.private]]"
+  - "[[/_personal/schema-org/Collection/item_list/breadcrumb_list.personal|breadcrumb_list.personal]]"
+  - "[[/_secret/schema-org/Collection/item_list/breadcrumb_list.secret|breadcrumb_list.secret]]"
 ---
 
 Class of all breadcrumb_lists.
@@ -35,9 +57,9 @@ A BreadcrumbList is an ItemList consisting of a chain of linked Web pages, typic
 
 The [[position]] property is used to reconstruct the order of the items in a BreadcrumbList. The convention is that a breadcrumb list has an [[itemListOrder]] of [[ItemListOrderAscending]] (lower values listed first), and that the first items in this list correspond to the "top" or beginning of the breadcrumb trail, e.g. with a site or section homepage. The specific values of 'position' are not assigned meaning for a BreadcrumbList, but they should be integers, e.g. beginning with '1' for the first item in the list.
 
-#is_/sub_class_of :: [[../ItemList]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

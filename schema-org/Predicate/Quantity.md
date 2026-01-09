@@ -8,37 +8,63 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - quantity
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_quantity Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_quantity Class
 type: Type
 subclass_of:
-  - '[[_Standards/WikiData/WD~property,937228]]'
-  - '[[_Standards/WikiData/WD~value,2912517]]'
+  - "[[_Standards/WikiData/WD~property,937228]]"
+  - "[[_Standards/WikiData/WD~value,2912517]]"
 has_characteristic:
-  - '[[_Standards/WikiData/WD~level_of_measurement,951437]]'
-  - '[[_Standards/WikiData/WD~quantity_value,110597311]]'
-  - '[[_Standards/WikiData/WD~quantity_dimension,19110]]'
-  - '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~cardinality,4049983]]'
-opposite_of: '[[_Standards/WikiData/WD~qualitative_property,7268708]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_property,96253971]]'
-different_from: '[[_Standards/WikiData/WD~ordinal_quantity,110645437]]'
+  - "[[_Standards/WikiData/WD~level_of_measurement,951437]]"
+  - "[[_Standards/WikiData/WD~quantity_value,110597311]]"
+  - "[[_Standards/WikiData/WD~quantity_dimension,19110]]"
+  - "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~cardinality,4049983]]"
+opposite_of: "[[_Standards/WikiData/WD~qualitative_property,7268708]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_property,96253971]]"
+different_from: "[[_Standards/WikiData/WD~ordinal_quantity,110645437]]"
 main_Wikidata_property: quantity
 properties_for_this_type: quantity symbol (LaTeX)
-facet_of: '[[_Standards/WikiData/WD~measurement,12453]]'
+facet_of: "[[_Standards/WikiData/WD~measurement,12453]]"
 Commons_category: Quantity
+dv_is_:
+  same_as:
+    - "[[WD~Quantity,309314]]"
+    - "[[/_Standards/schema-org/Predicate/Quantity|Quantity]]"
+    - "[[/_public/schema-org/Predicate/Quantity.public|Quantity.public]]"
+    - "[[/_internal/schema-org/Predicate/Quantity.internal|Quantity.internal]]"
+    - "[[/_protect/schema-org/Predicate/Quantity.protect|Quantity.protect]]"
+    - "[[/_private/schema-org/Predicate/Quantity.private|Quantity.private]]"
+    - "[[/_personal/schema-org/Predicate/Quantity.personal|Quantity.personal]]"
+    - "[[/_secret/schema-org/Predicate/Quantity.secret|Quantity.secret]]"
+  sub_class_of: "[[../Class/is_a_/Intangible]]"
+dv_has_:
+  sub_classes: "[ Distance, Duration, Energy, Mass ]"
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[WD~Quantity,309314]]"
+  - "[[/_Standards/schema-org/Predicate/Quantity|Quantity]]"
+  - "[[/_public/schema-org/Predicate/Quantity.public|Quantity.public]]"
+  - "[[/_internal/schema-org/Predicate/Quantity.internal|Quantity.internal]]"
+  - "[[/_protect/schema-org/Predicate/Quantity.protect|Quantity.protect]]"
+  - "[[/_private/schema-org/Predicate/Quantity.private|Quantity.private]]"
+  - "[[/_personal/schema-org/Predicate/Quantity.personal|Quantity.personal]]"
+  - "[[/_secret/schema-org/Predicate/Quantity.secret|Quantity.secret]]"
+dv_is_sub_class_of: "[[../Class/is_a_/Intangible]]"
+dv_has_sub_classes: "[ Distance, Duration, Energy, Mass ]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 ---
 
 # [[Quantity]] 
@@ -53,11 +79,11 @@ Quantities must have a [[../../Dimension/Unit_of_Measurement|Unit_of_Measurement
 (and often also an Origin/Reference-Point), 
 to be able to compare and operate on them. 
 
-#is_/sub_class_of :: [[../Class/is_a_/Intangible]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ Distance, Duration, Energy, Mass ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
+has_properties = `=this.dv_has_properties` 
 
 XML, Turtle and Json have dedicated Syntax to indicate the Language, but this can be extended to denote the Unit and Reference: 
 This has the Benefit that Translation becomes Conversion. 

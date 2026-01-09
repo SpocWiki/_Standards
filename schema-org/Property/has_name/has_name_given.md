@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - given
   - name
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_name_given
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_name_given
 type: Pred_Text
+dv_has_:
+  name_:
+    given: Text
+  domain: Person
+dv_has_name_given: Text
+dv_#has_:
+  name: has_name_given
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_name_given|has_name_given]]"
+    - "[[/_public/schema-org/Property/has_name/has_name_given.public|has_name_given.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_name_given.internal|has_name_given.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_name_given.protect|has_name_given.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_name_given.private|has_name_given.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_name_given.personal|has_name_given.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_name_given.secret|has_name_given.secret]]"
+dv_has_domain: Person
+dv_has_name: has_name_given
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_name_given|has_name_given]]"
+  - "[[/_public/schema-org/Property/has_name/has_name_given.public|has_name_given.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_name_given.internal|has_name_given.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_name_given.protect|has_name_given.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_name_given.private|has_name_given.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_name_given.personal|has_name_given.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_name_given.secret|has_name_given.secret]]"
 ---
 
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [has_/name_/given :: Text ] 
-- [ has_name_given :: Text ] 
+- has_name_given = `=this.dv_has_name_given`  
+- has_name_given = `=this.dv_has_name_given`  
 
 Given name. In the U.S., the first name of a Person.
 
 Predicated describes that: 
 
-#has_/domain  :: Person  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_name_given )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

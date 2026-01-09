@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - recipe
   - cuisine
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_recipe_cuisine
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_recipe_cuisine
 type: Pred_Text
+dv_has_:
+  text_of_:
+    recipe_cuisine: Text
+  domain: Recipe
+dv_has_text_of_recipe_cuisine: Text
+dv_#has_:
+  name: has_text_of_recipe_cuisine
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_recipe_cuisine|has_recipe_cuisine]]"
+    - "[[/_public/schema-org/Property/Texts/has_recipe_cuisine.public|has_recipe_cuisine.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_recipe_cuisine.internal|has_recipe_cuisine.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_recipe_cuisine.protect|has_recipe_cuisine.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_recipe_cuisine.private|has_recipe_cuisine.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_recipe_cuisine.personal|has_recipe_cuisine.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_recipe_cuisine.secret|has_recipe_cuisine.secret]]"
+dv_has_domain: Recipe
+dv_has_name: has_text_of_recipe_cuisine
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_recipe_cuisine|has_recipe_cuisine]]"
+  - "[[/_public/schema-org/Property/Texts/has_recipe_cuisine.public|has_recipe_cuisine.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_recipe_cuisine.internal|has_recipe_cuisine.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_recipe_cuisine.protect|has_recipe_cuisine.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_recipe_cuisine.private|has_recipe_cuisine.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_recipe_cuisine.personal|has_recipe_cuisine.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_recipe_cuisine.secret|has_recipe_cuisine.secret]]"
 ---
 
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- [has_/text_of_/recipe_cuisine :: Text ] 
-- [ has_text_of_recipe_cuisine :: Text ] 
+- has_text_of_recipe_cuisine = `=this.dv_has_text_of_recipe_cuisine`  
+- has_text_of_recipe_cuisine = `=this.dv_has_text_of_recipe_cuisine`  
 
 The cuisine of the recipe (for example, French or Ethiopian).
 
 Predicated describes that: 
 
-#has_/domain  :: Recipe  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_recipe_cuisine )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

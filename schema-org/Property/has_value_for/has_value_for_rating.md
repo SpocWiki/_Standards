@@ -10,21 +10,49 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - rating-value
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_rating-value
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_rating-value
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    rating: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ]"
+  domain: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
+dv_has_value_for_rating: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ]"
+dv_#has_:
+  name: has_value_for_rating
+  range: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_rating|has_value_for_rating]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_rating.public|has_value_for_rating.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_rating.internal|has_value_for_rating.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_rating.protect|has_value_for_rating.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_rating.private|has_value_for_rating.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_rating.personal|has_value_for_rating.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_rating.secret|has_value_for_rating.secret]]"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
+dv_has_name: has_value_for_rating
+dv_has_range: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_rating|has_value_for_rating]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_rating.public|has_value_for_rating.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_rating.internal|has_value_for_rating.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_rating.protect|has_value_for_rating.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_rating.private|has_value_for_rating.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_rating.personal|has_value_for_rating.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_rating.secret|has_value_for_rating.secret]]"
 ---
 
 [[../../Predicate|Predicate]] to describe the Quantity of Rating.
@@ -41,8 +69,8 @@ Similarly the common [[../has_number_of/has_number_of_stars_rating]]  #has_/valu
 
 
 Use it like this: 
-- [has_/value_for_/rating  :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ] ] 
-- [ has_value_for_rating :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ] ] 
+- has_value_for_rating = `=this.dv_has_value_for_rating` ], [[../../Class/is_a_/data_type/text|Text]] ] ] 
+- has_value_for_rating = `=this.dv_has_value_for_rating` ], [[../../Class/is_a_/data_type/text|Text]] ] ] 
 
 The rating for the content.
 
@@ -55,10 +83,10 @@ Usage guidelines:
 
 [[../../Predicate|Predicate]] describes that: 
 
-#has_/domain  :: [[../../Class/is_a_/Intangible/rating|Rating]]  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_rating )
-( #has_/range :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ])
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

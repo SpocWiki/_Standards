@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - proficiency
   - level
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_proficiency_level
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_proficiency_level
 type: Pred_Text
+dv_has_:
+  text_of_:
+    proficiency_level: Text
+  domain: TechArticle
+dv_has_text_of_proficiency_level: Text
+dv_#has_:
+  name: has_text_of_proficiency_level
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_proficiency_level|has_proficiency_level]]"
+    - "[[/_public/schema-org/Property/Texts/has_proficiency_level.public|has_proficiency_level.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_proficiency_level.internal|has_proficiency_level.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_proficiency_level.protect|has_proficiency_level.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_proficiency_level.private|has_proficiency_level.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_proficiency_level.personal|has_proficiency_level.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_proficiency_level.secret|has_proficiency_level.secret]]"
+dv_has_domain: TechArticle
+dv_has_name: has_text_of_proficiency_level
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_proficiency_level|has_proficiency_level]]"
+  - "[[/_public/schema-org/Property/Texts/has_proficiency_level.public|has_proficiency_level.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_proficiency_level.internal|has_proficiency_level.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_proficiency_level.protect|has_proficiency_level.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_proficiency_level.private|has_proficiency_level.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_proficiency_level.personal|has_proficiency_level.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_proficiency_level.secret|has_proficiency_level.secret]]"
 ---
 
 Predicate to describe the Text of TechArticle.
 
 Use it like this: 
-- [has_/text_of_/proficiency_level :: Text ] 
-- [ has_text_of_proficiency_level :: Text ] 
+- has_text_of_proficiency_level = `=this.dv_has_text_of_proficiency_level`  
+- has_text_of_proficiency_level = `=this.dv_has_text_of_proficiency_level`  
 
 Proficiency needed for this content; expected values: "Beginner", "Expert".
 
 Predicated describes that: 
 
-#has_/domain  :: TechArticle  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_proficiency_level )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

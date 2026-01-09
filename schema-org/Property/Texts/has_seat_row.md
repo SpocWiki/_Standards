@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - seat
   - row
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_seat_row
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_seat_row
 type: Pred_Text
+dv_has_:
+  text_of_:
+    seat_row: Text
+  domain: Seat
+dv_has_text_of_seat_row: Text
+dv_#has_:
+  name: has_text_of_seat_row
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_seat_row|has_seat_row]]"
+    - "[[/_public/schema-org/Property/Texts/has_seat_row.public|has_seat_row.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_seat_row.internal|has_seat_row.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_seat_row.protect|has_seat_row.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_seat_row.private|has_seat_row.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_seat_row.personal|has_seat_row.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_seat_row.secret|has_seat_row.secret]]"
+dv_has_domain: Seat
+dv_has_name: has_text_of_seat_row
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_seat_row|has_seat_row]]"
+  - "[[/_public/schema-org/Property/Texts/has_seat_row.public|has_seat_row.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_seat_row.internal|has_seat_row.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_seat_row.protect|has_seat_row.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_seat_row.private|has_seat_row.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_seat_row.personal|has_seat_row.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_seat_row.secret|has_seat_row.secret]]"
 ---
 
 Predicate to describe the Text of Seat.
 
 Use it like this: 
-- [has_/text_of_/seat_row :: Text ] 
-- [ has_text_of_seat_row :: Text ] 
+- has_text_of_seat_row = `=this.dv_has_text_of_seat_row`  
+- has_text_of_seat_row = `=this.dv_has_text_of_seat_row`  
 
 The row location of the reserved seat (e.g., B).
 
 Predicated describes that: 
 
-#has_/domain  :: Seat  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_seat_row )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

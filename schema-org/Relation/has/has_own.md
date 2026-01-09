@@ -8,21 +8,50 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - owns
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_owning
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_owning
 type: Predi_Relation
+dv_has_:
+  own: OwnershipInfo, Product
+  domain: Organization, Person
+dv_has_own: OwnershipInfo, Product
+dv_#has_:
+  name: "[[has_own]]"
+  range: OwnershipInfo, Product
+dv_is_:
+  inverse_of: "[[has_Owner]]"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_own|has_own]]"
+    - "[[/_public/schema-org/Relation/has/has_own.public|has_own.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_own.internal|has_own.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_own.protect|has_own.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_own.private|has_own.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_own.personal|has_own.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_own.secret|has_own.secret]]"
+dv_has_domain: Organization, Person
+dv_has_name: "[[has_own]]"
+dv_has_range: OwnershipInfo, Product
+dv_is_inverse_of: "[[has_Owner]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_own|has_own]]"
+  - "[[/_public/schema-org/Relation/has/has_own.public|has_own.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_own.internal|has_own.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_own.protect|has_own.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_own.private|has_own.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_own.personal|has_own.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_own.secret|has_own.secret]]"
 ---
 
 # [[has_own]] 
@@ -30,18 +59,18 @@ type: Predi_Relation
 Products owned by the organization or person.
 
 Use it like this: 
-- [has_/own :: OwnershipInfo, Product ] 
-- [ has_own :: OwnershipInfo, Product ] 
+- has_own = `=this.dv_has_own`  
+- has_own = `=this.dv_has_own`  
 
 Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from the Side of the [[Owner]]: 
 
-#has_/domain  :: Organization, Person  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: [[has_own]] )
-( #has_/range :: OwnershipInfo, Product )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 #has_/owner 
-#is_/inverse_of :: [[has_Owner]] 
+is_inverse_of = `=this.dv_is_inverse_of` 
 #has_/own 
 
 

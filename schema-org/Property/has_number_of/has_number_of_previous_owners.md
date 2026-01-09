@@ -10,21 +10,49 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - number-of-previous-owners
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_number-of-previous-owners
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_number-of-previous-owners
 type: Predi_Count
+dv_has_:
+  number_of_:
+    previous_owners: Number, QuantitativeValue
+  domain: Vehicle
+dv_has_number_of_previous_owners: Number, QuantitativeValue
+dv_#has_:
+  name: has_number_of_previous_owners
+  range: Number, QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_previous_owners|has_number_of_previous_owners]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_previous_owners.public|has_number_of_previous_owners.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_previous_owners.internal|has_number_of_previous_owners.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_previous_owners.protect|has_number_of_previous_owners.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_previous_owners.private|has_number_of_previous_owners.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_previous_owners.personal|has_number_of_previous_owners.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_previous_owners.secret|has_number_of_previous_owners.secret]]"
+dv_has_domain: Vehicle
+dv_has_name: has_number_of_previous_owners
+dv_has_range: Number, QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_previous_owners|has_number_of_previous_owners]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_previous_owners.public|has_number_of_previous_owners.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_previous_owners.internal|has_number_of_previous_owners.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_previous_owners.protect|has_number_of_previous_owners.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_previous_owners.private|has_number_of_previous_owners.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_previous_owners.personal|has_number_of_previous_owners.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_previous_owners.secret|has_number_of_previous_owners.secret]]"
 ---
 
 # [[has_number_of_previous_owners]] 
@@ -32,18 +60,18 @@ Predicate to describe the Number of owners of the vehicle,
 including the current one.
 
 Use it like this: 
-- [has_/number_of_/previous_owners :: Number, QuantitativeValue ] 
-- [ has_number_of_previous_owners :: Number, QuantitativeValue ] 
+- has_number_of_previous_owners = `=this.dv_has_number_of_previous_owners`  
+- has_number_of_previous_owners = `=this.dv_has_number_of_previous_owners`  
 
 
 Typical unit code(s): #gs1_/C62  
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_number_of_previous_owners )
-( #has_/range :: Number, QuantitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -25,6 +25,27 @@ subclass_of:
   - "[[_Standards/WikiData/WD~set,36161]]"
 Iconclass_notation: 51B1
 Commons_category: Relations (mathematics)
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~relation,203066]]"
+    - "[[/_Standards/schema-org/Relation|Relation]]"
+    - "[[/_public/schema-org/Relation.public|Relation.public]]"
+    - "[[/_internal/schema-org/Relation.internal|Relation.internal]]"
+    - "[[/_protect/schema-org/Relation.protect|Relation.protect]]"
+    - "[[/_private/schema-org/Relation.private|Relation.private]]"
+    - "[[/_personal/schema-org/Relation.personal|Relation.personal]]"
+    - "[[/_secret/schema-org/Relation.secret|Relation.secret]]"
+dv_has_range: "[[Class/Thing]]"
+dv_has_domain: "[[Class/Thing]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~relation,203066]]"
+  - "[[/_Standards/schema-org/Relation|Relation]]"
+  - "[[/_public/schema-org/Relation.public|Relation.public]]"
+  - "[[/_internal/schema-org/Relation.internal|Relation.internal]]"
+  - "[[/_protect/schema-org/Relation.protect|Relation.protect]]"
+  - "[[/_private/schema-org/Relation.private|Relation.private]]"
+  - "[[/_personal/schema-org/Relation.personal|Relation.personal]]"
+  - "[[/_secret/schema-org/Relation.secret|Relation.secret]]"
 ---
 
 # [[Relation]] 
@@ -49,8 +70,8 @@ Subject--Predicate-->Object
 ```
 
 #is_a_/class  . 
-has_range:: [[Class/Thing]]
-has_domain:: [[Class/Thing]]
+has_range = `=this.dv_has_range` 
+has_domain = `=this.dv_has_domain` 
 
 A [Relation](Relation.md) connects one [[Class/Thing|Thing]] to another. 
 A [Quantity](Quantity.md) connects a Scalar [[data_val]] to an Entity.  

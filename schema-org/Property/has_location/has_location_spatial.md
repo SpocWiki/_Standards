@@ -10,28 +10,56 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - spatial
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_spatial
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_spatial
 type: Pred_geo
+dv_has_:
+  location_:
+    spatial: Place
+  domain: CreativeWork
+dv_has_location_spatial: Place
+dv_#has_:
+  name: has_location_spatial
+  range: Place
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_location/has_location_spatial|has_location_spatial]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_spatial.public|has_location_spatial.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_spatial.internal|has_location_spatial.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_spatial.protect|has_location_spatial.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_spatial.private|has_location_spatial.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_spatial.personal|has_location_spatial.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_spatial.secret|has_location_spatial.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: has_location_spatial
+dv_has_range: Place
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_location/has_location_spatial|has_location_spatial]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_spatial.public|has_location_spatial.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_spatial.internal|has_location_spatial.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_spatial.protect|has_location_spatial.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_spatial.private|has_location_spatial.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_spatial.personal|has_location_spatial.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_spatial.secret|has_location_spatial.secret]]"
 ---
 
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- [has_/location_/spatial :: Place ] 
-- [ has_location_spatial :: Place ] 
+- has_location_spatial = `=this.dv_has_location_spatial`  
+- has_location_spatial = `=this.dv_has_location_spatial`  
 
 The "spatial" property can be used in cases when more specific properties
 (e.g. [[locationCreated]], [[spatialCoverage]], [[contentLocation]]) are not known to be appropriate.
@@ -41,10 +69,10 @@ While `schema:geo` is specifically designed for representing point locations usi
 
 Predicate describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_location_spatial )
-( #has_/range :: Place )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

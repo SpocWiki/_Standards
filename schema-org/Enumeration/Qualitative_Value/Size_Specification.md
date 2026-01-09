@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - size_specification
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_size_specification Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_size_specification Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../QualitativeValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Size_Specification|Size_Specification]]"
+    - "[[/_public/schema-org/Enumeration/Qualitative_Value/Size_Specification.public|Size_Specification.public]]"
+    - "[[/_internal/schema-org/Enumeration/Qualitative_Value/Size_Specification.internal|Size_Specification.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Qualitative_Value/Size_Specification.protect|Size_Specification.protect]]"
+    - "[[/_private/schema-org/Enumeration/Qualitative_Value/Size_Specification.private|Size_Specification.private]]"
+    - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Size_Specification.personal|Size_Specification.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Size_Specification.secret|Size_Specification.secret]]"
+dv_has_:
+  properties: "[ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../QualitativeValue]]"
+dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Size_Specification|Size_Specification]]"
+  - "[[/_public/schema-org/Enumeration/Qualitative_Value/Size_Specification.public|Size_Specification.public]]"
+  - "[[/_internal/schema-org/Enumeration/Qualitative_Value/Size_Specification.internal|Size_Specification.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Qualitative_Value/Size_Specification.protect|Size_Specification.protect]]"
+  - "[[/_private/schema-org/Enumeration/Qualitative_Value/Size_Specification.private|Size_Specification.private]]"
+  - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Size_Specification.personal|Size_Specification.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Size_Specification.secret|Size_Specification.secret]]"
 ---
 
 Class of all size_specifications.
@@ -32,13 +56,13 @@ Class of all size_specifications.
 Tag Instances like this: 
 #is_a_/size_specification
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Size related properties of a product, typically a size code ([[../../Property/has_name|Name]]) and optionally a [[sizeSystem]], [[sizeGroup]], and product measurements ([[hasMeasurement]]). In addition, the intended audience can be defined through [[suggestedAge]], [[suggestedGender]], and suggested body measurements ([[suggestedMeasurement]]).
 
-#is_/sub_class_of :: [[../QualitativeValue]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

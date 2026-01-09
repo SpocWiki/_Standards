@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - price_specification
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_price_specification Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_price_specification Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../StructuredValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.public|Price_Specification.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.internal|Price_Specification.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.protect|Price_Specification.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.private|Price_Specification.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.personal|Price_Specification.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.secret|Price_Specification.secret]]"
+dv_has_:
+  sub_classes: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
+dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_sub_classes: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.public|Price_Specification.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.internal|Price_Specification.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.protect|Price_Specification.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.private|Price_Specification.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.personal|Price_Specification.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.secret|Price_Specification.secret]]"
 ---
 
 Class of all price_specifications.
@@ -34,11 +58,11 @@ Tag Instances like this:
 
 A structured value representing a price or price range. Typically, only the subclasses of this type are used for markup. It is recommended to use [[MonetaryAmount]] to describe independent amounts of money such as a salary, credit card limits, etc.
 
-#is_/sub_class_of :: [[../StructuredValue]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - physical_activity_category
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_physical_activity_category Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_physical_activity_category Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category|Physical_Activity_Category]]"
+    - "[[/_public/schema-org/Enumeration/Physical_Activity_Category.public|Physical_Activity_Category.public]]"
+    - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category.internal|Physical_Activity_Category.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category.protect|Physical_Activity_Category.protect]]"
+    - "[[/_private/schema-org/Enumeration/Physical_Activity_Category.private|Physical_Activity_Category.private]]"
+    - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category.personal|Physical_Activity_Category.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category.secret|Physical_Activity_Category.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category|Physical_Activity_Category]]"
+  - "[[/_public/schema-org/Enumeration/Physical_Activity_Category.public|Physical_Activity_Category.public]]"
+  - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category.internal|Physical_Activity_Category.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category.protect|Physical_Activity_Category.protect]]"
+  - "[[/_private/schema-org/Enumeration/Physical_Activity_Category.private|Physical_Activity_Category.private]]"
+  - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category.personal|Physical_Activity_Category.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category.secret|Physical_Activity_Category.secret]]"
 ---
 
 Class of all physical_activity_categorys.
@@ -34,7 +53,7 @@ Tag Instances like this:
 
 Categories of physical activity, organized by physiologic classification.
 
-#is_/sub_class_of :: [[../Enumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

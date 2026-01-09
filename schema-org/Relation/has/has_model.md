@@ -7,26 +7,53 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - model
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_model
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_model
 type: Predi_Relation
+dv_has_:
+  model: ProductModel, Text
+  domain: Product
+dv_has_model: ProductModel, Text
+dv_#has_:
+  name: has_model
+  range: ProductModel, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_model|has_model]]"
+    - "[[/_public/schema-org/Relation/has/has_model.public|has_model.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_model.internal|has_model.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_model.protect|has_model.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_model.private|has_model.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_model.personal|has_model.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_model.secret|has_model.secret]]"
+dv_has_domain: Product
+dv_has_name: has_model
+dv_has_range: ProductModel, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_model|has_model]]"
+  - "[[/_public/schema-org/Relation/has/has_model.public|has_model.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_model.internal|has_model.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_model.protect|has_model.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_model.private|has_model.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_model.personal|has_model.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_model.secret|has_model.secret]]"
 ---
 
 Use it like this: 
-- [has_/model :: ProductModel, Text ] 
-- [ has_model :: ProductModel, Text ] 
+- has_model = `=this.dv_has_model`  
+- has_model = `=this.dv_has_model`  
 
 The model of the product. 
 
@@ -39,10 +66,10 @@ via the gtin8/gtin13/gtin14 and mpn properties.
 
 Relation describes that: 
 
-#has_/domain  :: Product  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_model )
-( #has_/range :: ProductModel, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

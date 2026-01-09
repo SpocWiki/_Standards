@@ -10,37 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo-radius
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_geo-radius
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_geo-radius
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    geo_radius_in_meters: Distance, Number, Text
+  domain: GeoCircle
+dv_has_value_for_geo_radius_in_meters: Distance, Number, Text
+dv_#has_:
+  name: has_value_for_geo_radius_in_meters
+  range: Distance, Number, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters|has_value_for_geo_radius_in_meters]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.public|has_value_for_geo_radius_in_meters.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.internal|has_value_for_geo_radius_in_meters.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.protect|has_value_for_geo_radius_in_meters.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.private|has_value_for_geo_radius_in_meters.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.personal|has_value_for_geo_radius_in_meters.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.secret|has_value_for_geo_radius_in_meters.secret]]"
+dv_has_domain: GeoCircle
+dv_has_name: has_value_for_geo_radius_in_meters
+dv_has_range: Distance, Number, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters|has_value_for_geo_radius_in_meters]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.public|has_value_for_geo_radius_in_meters.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.internal|has_value_for_geo_radius_in_meters.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.protect|has_value_for_geo_radius_in_meters.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.private|has_value_for_geo_radius_in_meters.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.personal|has_value_for_geo_radius_in_meters.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_geo_radius_in_meters.secret|has_value_for_geo_radius_in_meters.secret]]"
 ---
 
 Predicate to describe the Quantity of GeoCircle.
 
 Use it like this: 
-- [has_/value_for_/geo_radius_in_meters :: Distance, Number, Text ] 
-- [ has_value_for_geo_radius_in_meters :: Distance, Number, Text ] 
+- has_value_for_geo_radius_in_meters = `=this.dv_has_value_for_geo_radius_in_meters`  
+- has_value_for_geo_radius_in_meters = `=this.dv_has_value_for_geo_radius_in_meters`  
 
 Indicates the approximate radius of a GeoCircle (metres unless indicated otherwise via Distance notation).
 
 Predicate describes that: 
 
-#has_/domain  :: GeoCircle  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_geo_radius_in_meters )
-( #has_/range :: Distance, Number, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -24,6 +24,25 @@ MeSH_tree_code:
   - F01.145.126.125
   - F01.145.813.045
 Gujarati_Vishwakosh_entry: આક્રમક-વર્તન
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Aggression,191797|WD~Aggression,191797]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Aggression|Aggression]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Aggression.public|Aggression.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Aggression.internal|Aggression.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Aggression.protect|Aggression.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Aggression.private|Aggression.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Aggression.personal|Aggression.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Aggression.secret|Aggression.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Aggression,191797|WD~Aggression,191797]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Aggression|Aggression]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Aggression.public|Aggression.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Aggression.internal|Aggression.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Aggression.protect|Aggression.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Aggression.private|Aggression.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Aggression.personal|Aggression.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Aggression.secret|Aggression.secret]]"
 ---
 
 # [[Aggression]] 

@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub_test
   - sub
   - test
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_sub_test
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_sub_test
 type: Predi_Relation
+dv_has_:
+  sub_test: MedicalTest
+  domain: MedicalTestPanel
+dv_has_sub_test: MedicalTest
+dv_#has_:
+  name: is_sub_test
+  range: MedicalTest
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_sub_test|has_sub_test]]"
+    - "[[/_public/schema-org/Relation/has/has_sub_test.public|has_sub_test.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sub_test.internal|has_sub_test.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sub_test.protect|has_sub_test.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sub_test.private|has_sub_test.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sub_test.personal|has_sub_test.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sub_test.secret|has_sub_test.secret]]"
+dv_has_domain: MedicalTestPanel
+dv_has_name: is_sub_test
+dv_has_range: MedicalTest
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_sub_test|has_sub_test]]"
+  - "[[/_public/schema-org/Relation/has/has_sub_test.public|has_sub_test.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sub_test.internal|has_sub_test.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sub_test.protect|has_sub_test.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sub_test.private|has_sub_test.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sub_test.personal|has_sub_test.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sub_test.secret|has_sub_test.secret]]"
 ---
 
 Use it like this: 
-- [has_/sub_test :: MedicalTest ] 
-- [ has_sub_test :: MedicalTest ] 
+- has_sub_test = `=this.dv_has_sub_test`  
+- has_sub_test = `=this.dv_has_sub_test`  
 
 A component test of the panel.
 
 Relation describes that: 
 
-#has_/domain  :: MedicalTestPanel  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_sub_test )
-( #has_/range :: MedicalTest )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

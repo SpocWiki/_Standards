@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - programming
   - model
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_programming_model
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_programming_model
 type: Pred_Text
+dv_has_:
+  text_of_:
+    programming_model: Text
+  domain: APIReference
+dv_has_text_of_programming_model: Text
+dv_#has_:
+  name: has_text_of_programming_model
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_programming_model|has_programming_model]]"
+    - "[[/_public/schema-org/Property/Texts/has_programming_model.public|has_programming_model.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_programming_model.internal|has_programming_model.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_programming_model.protect|has_programming_model.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_programming_model.private|has_programming_model.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_programming_model.personal|has_programming_model.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_programming_model.secret|has_programming_model.secret]]"
+dv_has_domain: APIReference
+dv_has_name: has_text_of_programming_model
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_programming_model|has_programming_model]]"
+  - "[[/_public/schema-org/Property/Texts/has_programming_model.public|has_programming_model.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_programming_model.internal|has_programming_model.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_programming_model.protect|has_programming_model.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_programming_model.private|has_programming_model.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_programming_model.personal|has_programming_model.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_programming_model.secret|has_programming_model.secret]]"
 ---
 
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- [has_/text_of_/programming_model :: Text ] 
-- [ has_text_of_programming_model :: Text ] 
+- has_text_of_programming_model = `=this.dv_has_text_of_programming_model`  
+- has_text_of_programming_model = `=this.dv_has_text_of_programming_model`  
 
 Indicates whether API is managed or unmanaged.
 
 Predicated describes that: 
 
-#has_/domain  :: APIReference  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_programming_model )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

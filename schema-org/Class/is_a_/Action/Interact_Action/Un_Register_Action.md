@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - un_register_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_un_register_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_un_register_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../InteractAction]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action|Un_Register_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.public|Un_Register_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.internal|Un_Register_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.protect|Un_Register_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.private|Un_Register_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.personal|Un_Register_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.secret|Un_Register_Action.secret]]"
+dv_has_:
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_sub_class_of: "[[../InteractAction]]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action|Un_Register_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.public|Un_Register_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.internal|Un_Register_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.protect|Un_Register_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.private|Un_Register_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.personal|Un_Register_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Un_Register_Action.secret|Un_Register_Action.secret]]"
 ---
 
 Class of all un_register_actions.
@@ -41,9 +63,9 @@ Related actions:
 <li>[[LeaveAction]]: Unlike LeaveAction, UnRegisterAction implies that you are unregistering from a service you were previously registered, rather than leaving a team/group of people.</li>
 </ul>
 
-#is_/sub_class_of :: [[../InteractAction]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

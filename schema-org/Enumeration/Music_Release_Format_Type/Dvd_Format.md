@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - dvd_format
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_dvd_format Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_dvd_format Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../MusicReleaseFormatType]]"
+  enum_of: "[[../MusicReleaseFormatType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format|Dvd_Format]]"
+    - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.public|Dvd_Format.public]]"
+    - "[[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.internal|Dvd_Format.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.protect|Dvd_Format.protect]]"
+    - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.private|Dvd_Format.private]]"
+    - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.personal|Dvd_Format.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.secret|Dvd_Format.secret]]"
+dv_is_sub_class_of: "[[../MusicReleaseFormatType]]"
+dv_is_enum_of: "[[../MusicReleaseFormatType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format|Dvd_Format]]"
+  - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.public|Dvd_Format.public]]"
+  - "[[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.internal|Dvd_Format.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.protect|Dvd_Format.protect]]"
+  - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.private|Dvd_Format.private]]"
+  - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.personal|Dvd_Format.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Dvd_Format.secret|Dvd_Format.secret]]"
 ---
 
 Class of all dvd_formats.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 DVDFormat.
 
-#is_/sub_class_of :: [[../MusicReleaseFormatType]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../MusicReleaseFormatType]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

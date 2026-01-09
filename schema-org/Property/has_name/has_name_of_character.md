@@ -10,38 +10,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - character
   - name
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_name_of_character
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_name_of_character
 type: Pred_Text
+dv_has_:
+  name_:
+    of_character: Text
+  domain: "[[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]]"
+dv_has_name_of_character: Text
+dv_#has_:
+  name: has_name_of_character
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_name_of_character|has_name_of_character]]"
+    - "[[/_public/schema-org/Property/has_name/has_name_of_character.public|has_name_of_character.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_name_of_character.internal|has_name_of_character.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_name_of_character.protect|has_name_of_character.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_name_of_character.private|has_name_of_character.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_name_of_character.personal|has_name_of_character.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_name_of_character.secret|has_name_of_character.secret]]"
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]]"
+dv_has_name: has_name_of_character
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_name_of_character|has_name_of_character]]"
+  - "[[/_public/schema-org/Property/has_name/has_name_of_character.public|has_name_of_character.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_name_of_character.internal|has_name_of_character.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_name_of_character.protect|has_name_of_character.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_name_of_character.private|has_name_of_character.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_name_of_character.personal|has_name_of_character.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_name_of_character.secret|has_name_of_character.secret]]"
 ---
 
 Predicate to describe the Text of [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]].
 
 Use it like this: 
-- [has_/name_/of_character :: Text ] 
-- [ has_name_of_character :: Text ] 
+- has_name_of_character = `=this.dv_has_name_of_character`  
+- has_name_of_character = `=this.dv_has_name_of_character`  
 
 The name of a character played in some acting or performing role, i.e. in a [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]].
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]]  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_name_of_character )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

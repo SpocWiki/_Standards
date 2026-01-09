@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - cost
   - currency
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_cost_currency
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_cost_currency
 type: Pred_Text
+dv_has_:
+  text_of_:
+    cost_currency: Text
+  domain: DrugCost
+dv_has_text_of_cost_currency: Text
+dv_#has_:
+  name: has_text_of_cost_currency
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_cost_currency|has_cost_currency]]"
+    - "[[/_public/schema-org/Property/Texts/has_cost_currency.public|has_cost_currency.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_cost_currency.internal|has_cost_currency.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_cost_currency.protect|has_cost_currency.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_cost_currency.private|has_cost_currency.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_cost_currency.personal|has_cost_currency.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_cost_currency.secret|has_cost_currency.secret]]"
+dv_has_domain: DrugCost
+dv_has_name: has_text_of_cost_currency
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_cost_currency|has_cost_currency]]"
+  - "[[/_public/schema-org/Property/Texts/has_cost_currency.public|has_cost_currency.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_cost_currency.internal|has_cost_currency.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_cost_currency.protect|has_cost_currency.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_cost_currency.private|has_cost_currency.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_cost_currency.personal|has_cost_currency.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_cost_currency.secret|has_cost_currency.secret]]"
 ---
 
 Predicate to describe the Text of DrugCost.
 
 Use it like this: 
-- [has_/text_of_/cost_currency :: Text ] 
-- [ has_text_of_cost_currency :: Text ] 
+- has_text_of_cost_currency = `=this.dv_has_text_of_cost_currency`  
+- has_text_of_cost_currency = `=this.dv_has_text_of_cost_currency`  
 
 The currency (in 3-letter) of the drug cost. See: http://en.wikipedia.org/wiki/ISO_4217.
 
 Predicated describes that: 
 
-#has_/domain  :: DrugCost  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_cost_currency )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

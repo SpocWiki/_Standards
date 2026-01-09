@@ -11,29 +11,57 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - accessibility
   - hazard
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_accessibility_hazard
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_accessibility_hazard
 type: Pred_Text
+dv_has_:
+  text_of_:
+    accessibility_hazard: Text
+  domain: CreativeWork
+dv_has_text_of_accessibility_hazard: Text
+dv_#has_:
+  name: has_text_of_accessibility_hazard
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_accessibility_hazard|has_accessibility_hazard]]"
+    - "[[/_public/schema-org/Property/Texts/has_accessibility_hazard.public|has_accessibility_hazard.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_accessibility_hazard.internal|has_accessibility_hazard.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_accessibility_hazard.protect|has_accessibility_hazard.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_accessibility_hazard.private|has_accessibility_hazard.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_accessibility_hazard.personal|has_accessibility_hazard.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_accessibility_hazard.secret|has_accessibility_hazard.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: has_text_of_accessibility_hazard
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_accessibility_hazard|has_accessibility_hazard]]"
+  - "[[/_public/schema-org/Property/Texts/has_accessibility_hazard.public|has_accessibility_hazard.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_accessibility_hazard.internal|has_accessibility_hazard.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_accessibility_hazard.protect|has_accessibility_hazard.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_accessibility_hazard.private|has_accessibility_hazard.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_accessibility_hazard.personal|has_accessibility_hazard.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_accessibility_hazard.secret|has_accessibility_hazard.secret]]"
 ---
 
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [has_/text_of_/accessibility_hazard :: Text ] 
-- [ has_text_of_accessibility_hazard :: Text ] 
+- has_text_of_accessibility_hazard = `=this.dv_has_text_of_accessibility_hazard`  
+- has_text_of_accessibility_hazard = `=this.dv_has_text_of_accessibility_hazard`  
 
 A characteristic of the described resource that is physiologically dangerous to some users. 
 Related to WCAG 2.0 guideline 2.3. 
@@ -41,10 +69,10 @@ Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a1
 
 Predicated describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_accessibility_hazard )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

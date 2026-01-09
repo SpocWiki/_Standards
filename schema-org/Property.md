@@ -8,42 +8,69 @@ aliases:
   - Quantity[Properties](property.md)~Property
   - owl~ObjectProperty
   - itemprop
-  - ''
+  - ""
 confidential: public
 cssclasses:
   - Type
 draft: false
 equivalent_class: http://www.w3.org/1999/02/22-rdf-syntax-ns#Property
-expiryDate: ''
+expiryDate: ""
 has_time_started: 2023-10-03
 isDeleted: false
 isReadOnly: false
 keywords:
   - property
 lang: en
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_property Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - schema-org/Class
   - schema-org/Property
 title: is_a_property Class
 type: Property
+dv_is_sub_property_of: rdf:Property
+dv_has_range: "[[Class/is_a_/Data_Type]]"
+dv_has_domain: "[[Class/Thing]]"
+dv_is_:
+  part_of: https://meta.schema.org
+  sub_class_of: "[[Class/is_a_/Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Property|Property]]"
+    - "[[/_public/schema-org/Property.public|Property.public]]"
+    - "[[/_internal/schema-org/Property.internal|Property.internal]]"
+    - "[[/_protect/schema-org/Property.protect|Property.protect]]"
+    - "[[/_private/schema-org/Property.private|Property.private]]"
+    - "[[/_personal/schema-org/Property.personal|Property.personal]]"
+    - "[[/_secret/schema-org/Property.secret|Property.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Relation/is_same_as|sameAs]], subjectOf, supersededBy, url ] ]"
+dv_is_part_of: https://meta.schema.org
+dv_is_sub_class_of: "[[Class/is_a_/Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Relation/is_same_as|sameAs]], subjectOf, supersededBy, url ] ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property|Property]]"
+  - "[[/_public/schema-org/Property.public|Property.public]]"
+  - "[[/_internal/schema-org/Property.internal|Property.internal]]"
+  - "[[/_protect/schema-org/Property.protect|Property.protect]]"
+  - "[[/_private/schema-org/Property.private|Property.private]]"
+  - "[[/_personal/schema-org/Property.personal|Property.personal]]"
+  - "[[/_secret/schema-org/Property.secret|Property.secret]]"
 ---
 
 # [[Property]] 
 
 #is_a_/class  
-has_range:: [[Class/is_a_/data_type]] 
-has_domain:: [[Class/Thing]] 
+has_range = `=this.dv_has_range` 
+has_domain = `=this.dv_has_domain` 
 
 This is the Type of all Properties that map a [[rdfs:Domain]] to an [[rdfs:Range]]. 
 
 #class/Property 
 
-- [ is_sub_property_of :: rdf:Property] 
+- is_sub_property_of = `=this.dv_is_sub_property_of`  
 
 ```turtle
 owl:ObjectProperty 
@@ -56,13 +83,13 @@ A [Relation](Relation.md) connects to another Entity.
 The Class/Type of all [Properties](../[Properties](Property.md) like this: 
 #is_a_/property 
 
-#is_/part_of :: https://meta.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 [Properties](../Property.md) are used to indicate attributes and relationships of some Thing; equivalent to rdf:Property.
 
-#is_/sub_class_of :: [[Class/is_a_/Intangible]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Relation/is_same_as|sameAs]], subjectOf, supersededBy, url ] ]
+has_properties = `=this.dv_has_properties` 
 
 ## Property-Syntax: 
 RDFa Lite:

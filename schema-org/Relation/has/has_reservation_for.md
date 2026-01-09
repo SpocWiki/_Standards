@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_for
   - reservation
   - for
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_reservation_for
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_reservation_for
 type: Predi_Relation
+dv_has_:
+  reservation_for: "[Thing](../../../Class/Thing.md)"
+  domain: Reservation
+dv_has_reservation_for: "[Thing](../../../Class/Thing.md)"
+dv_#has_:
+  name: is_reservation_for
+  range: Thing
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_reservation_for|has_reservation_for]]"
+    - "[[/_public/schema-org/Relation/has/has_reservation_for.public|has_reservation_for.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_reservation_for.internal|has_reservation_for.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_reservation_for.protect|has_reservation_for.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_reservation_for.private|has_reservation_for.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_reservation_for.personal|has_reservation_for.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_reservation_for.secret|has_reservation_for.secret]]"
+dv_has_domain: Reservation
+dv_has_name: is_reservation_for
+dv_has_range: Thing
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_reservation_for|has_reservation_for]]"
+  - "[[/_public/schema-org/Relation/has/has_reservation_for.public|has_reservation_for.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_reservation_for.internal|has_reservation_for.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_reservation_for.protect|has_reservation_for.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_reservation_for.private|has_reservation_for.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_reservation_for.personal|has_reservation_for.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_reservation_for.secret|has_reservation_for.secret]]"
 ---
 
 Use it like this: 
-- [has_/reservation_for :: [Thing](../../../Class/Thing.md) ] 
-- [ has_reservation_for :: [Thing](../../../Class/Thing.md) ] 
+- has_reservation_for = `=this.dv_has_reservation_for` (../../../Class/Thing.md) ] 
+- has_reservation_for = `=this.dv_has_reservation_for` (../../../Class/Thing.md) ] 
 
 The thing -- flight, event, restaurant, etc. being reserved.
 
 Relation describes that: 
 
-#has_/domain  :: Reservation  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_reservation_for )
-( #has_/range :: Thing )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

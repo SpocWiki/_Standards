@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - health
   - condition
   - health_condition
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_health_condition
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_health_condition
 type: Predi_Relation
+dv_has_:
+  health_condition: MedicalCondition
+  domain: MedicalStudy, Patient, PeopleAudience
+dv_has_health_condition: MedicalCondition
+dv_#has_:
+  name: has_health_condition
+  range: MedicalCondition
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_health_condition|has_health_condition]]"
+    - "[[/_public/schema-org/Relation/has/has_health_condition.public|has_health_condition.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_health_condition.internal|has_health_condition.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_health_condition.protect|has_health_condition.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_health_condition.private|has_health_condition.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_health_condition.personal|has_health_condition.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_health_condition.secret|has_health_condition.secret]]"
+dv_has_domain: MedicalStudy, Patient, PeopleAudience
+dv_has_name: has_health_condition
+dv_has_range: MedicalCondition
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_health_condition|has_health_condition]]"
+  - "[[/_public/schema-org/Relation/has/has_health_condition.public|has_health_condition.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_health_condition.internal|has_health_condition.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_health_condition.protect|has_health_condition.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_health_condition.private|has_health_condition.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_health_condition.personal|has_health_condition.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_health_condition.secret|has_health_condition.secret]]"
 ---
 
 Use it like this: 
-- [has_/health_condition :: MedicalCondition ] 
-- [ has_health_condition :: MedicalCondition ] 
+- has_health_condition = `=this.dv_has_health_condition`  
+- has_health_condition = `=this.dv_has_health_condition`  
 
 Specifying the health condition(s) of a patient, medical study, or other target audience.
 
 Relation describes that: 
 
-#has_/domain  :: MedicalStudy, Patient, PeopleAudience  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_health_condition )
-( #has_/range :: MedicalCondition )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

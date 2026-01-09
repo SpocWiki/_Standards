@@ -10,36 +10,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - map
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_place_map
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: map, maps
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_place_map
 type: Predi_Relation
+dv_has_:
+  place_:
+    map: Map, URL
+  domain: Place
+dv_has_place_map: Map, URL
+dv_#has_:
+  name: has_place_map
+  range: Map, URL
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_place_map|has_place_map]]"
+    - "[[/_public/schema-org/Relation/has/has_place_map.public|has_place_map.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_place_map.internal|has_place_map.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_place_map.protect|has_place_map.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_place_map.private|has_place_map.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_place_map.personal|has_place_map.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_place_map.secret|has_place_map.secret]]"
+dv_has_domain: Place
+dv_has_name: has_place_map
+dv_has_range: Map, URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_place_map|has_place_map]]"
+  - "[[/_public/schema-org/Relation/has/has_place_map.public|has_place_map.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_place_map.internal|has_place_map.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_place_map.protect|has_place_map.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_place_map.private|has_place_map.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_place_map.personal|has_place_map.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_place_map.secret|has_place_map.secret]]"
 ---
 
 Use it like this: 
-- [has_/place_/map :: Map, URL ] 
-- [ has_place_map :: Map, URL ] 
+- has_place_map = `=this.dv_has_place_map`  
+- has_place_map = `=this.dv_has_place_map`  
 
 A URL to a map of the place.
 
 Relation describes that: 
 
-#has_/domain  :: Place  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_place_map )
-( #has_/range :: Map, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

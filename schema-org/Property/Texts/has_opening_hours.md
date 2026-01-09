@@ -14,29 +14,57 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - opening
   - hours
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_opening_hours
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_opening_hours
 type: Pred_Text
+dv_has_:
+  text_of_:
+    opening_hours: Text
+  domain: CivicStructure, LocalBusiness
+dv_has_text_of_opening_hours: Text
+dv_#has_:
+  name: has_text_of_opening_hours
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_opening_hours|has_opening_hours]]"
+    - "[[/_public/schema-org/Property/Texts/has_opening_hours.public|has_opening_hours.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_opening_hours.internal|has_opening_hours.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_opening_hours.protect|has_opening_hours.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_opening_hours.private|has_opening_hours.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_opening_hours.personal|has_opening_hours.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_opening_hours.secret|has_opening_hours.secret]]"
+dv_has_domain: CivicStructure, LocalBusiness
+dv_has_name: has_text_of_opening_hours
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_opening_hours|has_opening_hours]]"
+  - "[[/_public/schema-org/Property/Texts/has_opening_hours.public|has_opening_hours.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_opening_hours.internal|has_opening_hours.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_opening_hours.protect|has_opening_hours.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_opening_hours.private|has_opening_hours.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_opening_hours.personal|has_opening_hours.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_opening_hours.secret|has_opening_hours.secret]]"
 ---
 
 Predicate to describe the Text of CivicStructure, LocalBusiness.
 
 Use it like this: 
-- [has_/text_of_/opening_hours :: Text ] 
-- [ has_text_of_opening_hours :: Text ] 
+- has_text_of_opening_hours = `=this.dv_has_text_of_opening_hours`  
+- has_text_of_opening_hours = `=this.dv_has_text_of_opening_hours`  
 
 The general opening hours for a business. Opening hours can be specified as a weekly time range, starting with days, then times per day. Multiple days can be listed with commas "," separating each day. Day or time ranges are specified using a hyphen "-".
 
@@ -51,10 +79,10 @@ The general opening hours for a business. Opening hours can be specified as a we
 
 Predicated describes that: 
 
-#has_/domain  :: CivicStructure, LocalBusiness  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_opening_hours )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

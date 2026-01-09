@@ -11,36 +11,63 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - non
   - equal
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_non_equal
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_non_equal
 type: Predi_Relation
+dv_is_:
+  non_equal: "[[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]]"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_non_equal|is_non_equal]]"
+    - "[[/_public/schema-org/Relation/is/is_non_equal.public|is_non_equal.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_non_equal.internal|is_non_equal.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_non_equal.protect|is_non_equal.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_non_equal.private|is_non_equal.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_non_equal.personal|is_non_equal.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_non_equal.secret|is_non_equal.secret]]"
+dv_is_non_equal: "[[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]]"
+dv_has_:
+  domain: QualitativeValue
+dv_#has_:
+  name: is_non_equal
+  range: QualitativeValue
+dv_has_domain: QualitativeValue
+dv_has_name: is_non_equal
+dv_has_range: QualitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_non_equal|is_non_equal]]"
+  - "[[/_public/schema-org/Relation/is/is_non_equal.public|is_non_equal.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_non_equal.internal|is_non_equal.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_non_equal.protect|is_non_equal.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_non_equal.private|is_non_equal.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_non_equal.personal|is_non_equal.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_non_equal.secret|is_non_equal.secret]]"
 ---
 
 Use it like this: 
-- [is_/non_equal :: [[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] 
-- [ is_non_equal :: [[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] 
+- is_non_equal = `=this.dv_is_non_equal` ] ] 
+- is_non_equal = `=this.dv_is_non_equal` ] ] 
 
 This ordering relation for qualitative values indicates that the subject is not equal to the object.
 
 Relation describes that: 
 
-#has_/domain  :: QualitativeValue  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_non_equal )
-( #has_/range :: QualitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

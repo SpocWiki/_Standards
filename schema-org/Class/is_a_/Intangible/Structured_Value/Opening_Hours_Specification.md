@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - opening_hours_specification
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_opening_hours_specification Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_opening_hours_specification Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../StructuredValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification|Opening_Hours_Specification]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.public|Opening_Hours_Specification.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.internal|Opening_Hours_Specification.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.protect|Opening_Hours_Specification.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.private|Opening_Hours_Specification.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.personal|Opening_Hours_Specification.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.secret|Opening_Hours_Specification.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf, url, validFrom, validThrough ]"
+dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_properties: "[ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf, url, validFrom, validThrough ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification|Opening_Hours_Specification]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.public|Opening_Hours_Specification.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.internal|Opening_Hours_Specification.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.protect|Opening_Hours_Specification.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.private|Opening_Hours_Specification.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.personal|Opening_Hours_Specification.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.secret|Opening_Hours_Specification.secret]]"
 ---
 
 Class of all opening_hours_specifications.
@@ -38,9 +60,9 @@ The place is <strong>open</strong> if the [[opens]] property is specified, and <
 
 If the value for the [[closes]] property is less than the value for the [[opens]] property then the hour range is assumed to span over the next day.
 
-#is_/sub_class_of :: [[../StructuredValue]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf, url, validFrom, validThrough ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

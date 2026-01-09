@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - rsvp_response_type
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_rsvp_response_type Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_rsvp_response_type Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type|Rsvp_Response_Type]]"
+    - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type.public|Rsvp_Response_Type.public]]"
+    - "[[/_internal/schema-org/Enumeration/Rsvp_Response_Type.internal|Rsvp_Response_Type.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Rsvp_Response_Type.protect|Rsvp_Response_Type.protect]]"
+    - "[[/_private/schema-org/Enumeration/Rsvp_Response_Type.private|Rsvp_Response_Type.private]]"
+    - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type.personal|Rsvp_Response_Type.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type.secret|Rsvp_Response_Type.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type|Rsvp_Response_Type]]"
+  - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type.public|Rsvp_Response_Type.public]]"
+  - "[[/_internal/schema-org/Enumeration/Rsvp_Response_Type.internal|Rsvp_Response_Type.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Rsvp_Response_Type.protect|Rsvp_Response_Type.protect]]"
+  - "[[/_private/schema-org/Enumeration/Rsvp_Response_Type.private|Rsvp_Response_Type.private]]"
+  - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type.personal|Rsvp_Response_Type.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type.secret|Rsvp_Response_Type.secret]]"
 ---
 
 Class of all rsvp_response_types.
@@ -34,7 +53,7 @@ Tag Instances like this:
 
 RsvpResponseType is an enumeration type whose instances represent responding to an RSVP request.
 
-#is_/sub_class_of :: [[../Enumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

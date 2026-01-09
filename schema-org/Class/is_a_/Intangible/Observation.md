@@ -9,34 +9,60 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - observation
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_observation Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_observation Class
 type: Type
-has_part_s_: '[[_Standards/WikiData/WD~perception,160402]]'
-different_from: '[[_Standards/WikiData/WD~observational_study,818574]]'
+has_part_s_: "[[_Standards/WikiData/WD~perception,160402]]"
+different_from: "[[_Standards/WikiData/WD~observational_study,818574]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~activity,1914636]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-has_use: '[[_Standards/WikiData/WD~data_acquisition,1172399]]'
-practiced_by: '[[_Standards/WikiData/WD~observer,28973077]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-subclass_of: '[[_Standards/WikiData/WD~noticing,107339018]]'
+  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+  - "[[_Standards/WikiData/WD~activity,1914636]]"
+  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+has_use: "[[_Standards/WikiData/WD~data_acquisition,1172399]]"
+practiced_by: "[[_Standards/WikiData/WD~observer,28973077]]"
+part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
+subclass_of: "[[_Standards/WikiData/WD~noticing,107339018]]"
 Commons_category: Observation
 UMLS_CUI: C0302523
 MeSH_tree_code: E05.581.249
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Observation|Observation]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Observation.public|Observation.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Observation.internal|Observation.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Observation.protect|Observation.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Observation.private|Observation.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Observation.personal|Observation.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Observation.secret|Observation.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Observation|Observation]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Observation.public|Observation.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Observation.internal|Observation.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Observation.protect|Observation.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Observation.private|Observation.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Observation.personal|Observation.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Observation.secret|Observation.secret]]"
 ---
 
 # [[Observation]] 
@@ -46,14 +72,14 @@ Class of all observations.
 Tag Instances like this: 
 #is_an_/observation
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Instances of the class [[Observation]] are used to specify observations about an entity (which may or may not be an instance of a [[StatisticalPopulation]]), at a particular time. The principal properties of an [[Observation]] are [[observedNode]], [[measuredProperty]], [[measuredValue]] (or [[../../../../Mathematics/Statistics/Probability/Median]], etc.) and [[observationDate]] ([[measuredProperty]] properties can, but need not always, be W3C RDF Data Cube "measure properties", as in the <a href="https://www.w3.org/TR/vocab-data-cube/#dsd-example">lifeExpectancy example</a>).
 See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.html">data and datasets</a> overview for more details.
 
-#is_/sub_class_of :: [[../Intangible]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ]  
+has_properties = `=this.dv_has_properties` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]] 
 

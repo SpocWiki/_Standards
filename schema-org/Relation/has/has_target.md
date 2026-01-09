@@ -7,35 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - target
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_target
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_target
 type: Predi_Relation
+dv_has_:
+  target: EntryPoint, URL
+  domain: Action
+dv_has_target: EntryPoint, URL
+dv_#has_:
+  name: is_target
+  range: EntryPoint, URL
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_target|has_target]]"
+    - "[[/_public/schema-org/Relation/has/has_target.public|has_target.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_target.internal|has_target.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_target.protect|has_target.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_target.private|has_target.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_target.personal|has_target.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_target.secret|has_target.secret]]"
+dv_has_domain: Action
+dv_has_name: is_target
+dv_has_range: EntryPoint, URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_target|has_target]]"
+  - "[[/_public/schema-org/Relation/has/has_target.public|has_target.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_target.internal|has_target.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_target.protect|has_target.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_target.private|has_target.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_target.personal|has_target.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_target.secret|has_target.secret]]"
 ---
 
 Use it like this: 
-- [has_/target :: EntryPoint, URL ] 
-- [ has_target :: EntryPoint, URL ] 
+- has_target = `=this.dv_has_target`  
+- has_target = `=this.dv_has_target`  
 
 Indicates a target EntryPoint, or url, for an Action.
 
 Relation describes that: 
 
-#has_/domain  :: Action  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_target )
-( #has_/range :: EntryPoint, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

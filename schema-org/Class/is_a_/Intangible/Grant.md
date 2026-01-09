@@ -8,21 +8,47 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - grant
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_grant Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_grant Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Grant|Grant]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Grant.public|Grant.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Grant.internal|Grant.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Grant.protect|Grant.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Grant.private|Grant.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Grant.personal|Grant.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Grant.secret|Grant.secret]]"
+dv_has_:
+  sub_classes: "[ MonetaryGrant ]"
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_sub_classes: "[ MonetaryGrant ]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Grant|Grant]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Grant.public|Grant.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Grant.internal|Grant.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Grant.protect|Grant.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Grant.private|Grant.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Grant.personal|Grant.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Grant.secret|Grant.secret]]"
 ---
 
 Class of all grants.
@@ -30,7 +56,7 @@ Class of all grants.
 Tag Instances like this: 
 #is_a_/grant
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 A grant, typically financial or otherwise quantifiable, of resources. Typically a [[funder]] sponsors some [[MonetaryAmount]] to an [[../../../../Society/Agent/Community/Organization]] or [[../../../../Society/Agent/Person]],
 	sometimes not necessarily via a dedicated or long-lived [[../../../../Society/Agent/Community/Organization/Project]], resulting in one or more outputs, or [[fundedItem]]s. For financial sponsorship, indicate the [[funder]] of a [[MonetaryGrant]]. For non-financial support, indicate [[sponsor]] of [[Grant]]s of resources (e.g. office space).
@@ -39,11 +65,11 @@ Grants support  activities directed towards some agreed collective goals, often 
 
 The amount of a [[Grant]] is represented using [[amount]] as a [[MonetaryAmount]].
 
-#is_/sub_class_of :: [[../Intangible]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ MonetaryGrant ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

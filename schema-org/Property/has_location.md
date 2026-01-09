@@ -3,6 +3,25 @@ aliases:
   - has_location
   - has location
 icon: fas_location_dot
+dv_is_:
+  different_from: "#has_/place_ which is a Family of numeric Coordinate Properties to locate a [[../../Earth/Geography/Place|place]]"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_location|has_location]]"
+    - "[[/_public/schema-org/Property/has_location.public|has_location.public]]"
+    - "[[/_internal/schema-org/Property/has_location.internal|has_location.internal]]"
+    - "[[/_protect/schema-org/Property/has_location.protect|has_location.protect]]"
+    - "[[/_private/schema-org/Property/has_location.private|has_location.private]]"
+    - "[[/_personal/schema-org/Property/has_location.personal|has_location.personal]]"
+    - "[[/_secret/schema-org/Property/has_location.secret|has_location.secret]]"
+dv_is_different_from: "#has_/place_ which is a Family of numeric Coordinate Properties to locate a [[../../Earth/Geography/Place|place]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_location|has_location]]"
+  - "[[/_public/schema-org/Property/has_location.public|has_location.public]]"
+  - "[[/_internal/schema-org/Property/has_location.internal|has_location.internal]]"
+  - "[[/_protect/schema-org/Property/has_location.protect|has_location.protect]]"
+  - "[[/_private/schema-org/Property/has_location.private|has_location.private]]"
+  - "[[/_personal/schema-org/Property/has_location.personal|has_location.personal]]"
+  - "[[/_secret/schema-org/Property/has_location.secret|has_location.secret]]"
 ---
 
 # geos

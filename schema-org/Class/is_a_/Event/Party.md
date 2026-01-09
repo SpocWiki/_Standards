@@ -12,6 +12,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Rousseau%20%28
 IPTC_NewsCode: mediatopic/20001143
 Commons_category: Parties
 Baidu_Tieba_name: 聚会
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Party,200538]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Event/Party|Party]]"
+    - "[[/_public/schema-org/Class/is_a_/Event/Party.public|Party.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Event/Party.internal|Party.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Event/Party.protect|Party.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Event/Party.private|Party.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Event/Party.personal|Party.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Event/Party.secret|Party.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Party,200538]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Event/Party|Party]]"
+  - "[[/_public/schema-org/Class/is_a_/Event/Party.public|Party.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Event/Party.internal|Party.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Event/Party.protect|Party.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Event/Party.private|Party.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Event/Party.personal|Party.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Event/Party.secret|Party.secret]]"
 ---
 
 # [[Party]] 

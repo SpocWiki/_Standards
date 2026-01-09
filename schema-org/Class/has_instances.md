@@ -10,21 +10,50 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - part
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_instances
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_instances
 type: Predi_Relation
+dv_has_:
+  instances: "[[../Class]]"
+  domain: "[[../Class]]"
+dv_has_instances: "[[../Class]]"
+dv_#has_:
+  name: has_instances
+  range: "[[Thing]]"
+dv_is_:
+  inverse_of: "[[is_instance_of]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/has_instances|has_instances]]"
+    - "[[/_public/schema-org/Class/has_instances.public|has_instances.public]]"
+    - "[[/_internal/schema-org/Class/has_instances.internal|has_instances.internal]]"
+    - "[[/_protect/schema-org/Class/has_instances.protect|has_instances.protect]]"
+    - "[[/_private/schema-org/Class/has_instances.private|has_instances.private]]"
+    - "[[/_personal/schema-org/Class/has_instances.personal|has_instances.personal]]"
+    - "[[/_secret/schema-org/Class/has_instances.secret|has_instances.secret]]"
+dv_has_domain: "[[../Class]]"
+dv_has_name: has_instances
+dv_has_range: "[[Thing]]"
+dv_is_inverse_of: "[[is_instance_of]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/has_instances|has_instances]]"
+  - "[[/_public/schema-org/Class/has_instances.public|has_instances.public]]"
+  - "[[/_internal/schema-org/Class/has_instances.internal|has_instances.internal]]"
+  - "[[/_protect/schema-org/Class/has_instances.protect|has_instances.protect]]"
+  - "[[/_private/schema-org/Class/has_instances.private|has_instances.private]]"
+  - "[[/_personal/schema-org/Class/has_instances.personal|has_instances.personal]]"
+  - "[[/_secret/schema-org/Class/has_instances.secret|has_instances.secret]]"
 ---
 
 # [[has_instances]] 
@@ -32,19 +61,19 @@ type: Predi_Relation
 Indicates a ([[../Collection/item_list|Item_list]] of) [[Thing]] is an instance of this [[../Class]].
 
 Use it like this: 
-- [has_/instances :: [[../Class]] ] 
-- [ has_instances :: [[../Class]] ] 
+- has_instances = `=this.dv_has_instances` ] ] 
+- has_instances = `=this.dv_has_instances` ] ] 
 
 Relation describes that: 
 
-#has_/domain  :: [[../Class]]  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_instances )
-( #has_/range :: [[Thing]] )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 But typically it is a typed [[../Collection/item_list|Item_list]] with Instances. 
 
-#is_/inverse_of  :: [[is_instance_of]]   
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 
 ## Confidential Links & Embeds: 

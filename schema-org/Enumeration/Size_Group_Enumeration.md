@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - size_group_enumeration
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_size_group_enumeration Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_size_group_enumeration Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration|Size_Group_Enumeration]]"
+    - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration.public|Size_Group_Enumeration.public]]"
+    - "[[/_internal/schema-org/Enumeration/Size_Group_Enumeration.internal|Size_Group_Enumeration.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Size_Group_Enumeration.protect|Size_Group_Enumeration.protect]]"
+    - "[[/_private/schema-org/Enumeration/Size_Group_Enumeration.private|Size_Group_Enumeration.private]]"
+    - "[[/_personal/schema-org/Enumeration/Size_Group_Enumeration.personal|Size_Group_Enumeration.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration.secret|Size_Group_Enumeration.secret]]"
+dv_has_:
+  sub_classes: "[ WearableSizeGroupEnumeration ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_sub_classes: "[ WearableSizeGroupEnumeration ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration|Size_Group_Enumeration]]"
+  - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration.public|Size_Group_Enumeration.public]]"
+  - "[[/_internal/schema-org/Enumeration/Size_Group_Enumeration.internal|Size_Group_Enumeration.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Size_Group_Enumeration.protect|Size_Group_Enumeration.protect]]"
+  - "[[/_private/schema-org/Enumeration/Size_Group_Enumeration.private|Size_Group_Enumeration.private]]"
+  - "[[/_personal/schema-org/Enumeration/Size_Group_Enumeration.personal|Size_Group_Enumeration.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration.secret|Size_Group_Enumeration.secret]]"
 ---
 
 Class of all size_group_enumerations.
@@ -32,13 +56,13 @@ Class of all size_group_enumerations.
 Tag Instances like this: 
 #is_a_/size_group_enumeration
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Enumerates common size groups for various product categories.
 
-#is_/sub_class_of :: [[../Enumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ WearableSizeGroupEnumeration ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
 ## Confidential Links & Embeds: 
 

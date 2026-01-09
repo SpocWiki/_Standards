@@ -4,6 +4,23 @@ aliases:
   - adjectives
   - Flags
 icon: luc_flag_triangle_right
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Flags|Flags]]"
+    - "[[/_public/schema-org/Property/Flags.public|Flags.public]]"
+    - "[[/_internal/schema-org/Property/Flags.internal|Flags.internal]]"
+    - "[[/_protect/schema-org/Property/Flags.protect|Flags.protect]]"
+    - "[[/_private/schema-org/Property/Flags.private|Flags.private]]"
+    - "[[/_personal/schema-org/Property/Flags.personal|Flags.personal]]"
+    - "[[/_secret/schema-org/Property/Flags.secret|Flags.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Flags|Flags]]"
+  - "[[/_public/schema-org/Property/Flags.public|Flags.public]]"
+  - "[[/_internal/schema-org/Property/Flags.internal|Flags.internal]]"
+  - "[[/_protect/schema-org/Property/Flags.protect|Flags.protect]]"
+  - "[[/_private/schema-org/Property/Flags.private|Flags.private]]"
+  - "[[/_personal/schema-org/Property/Flags.personal|Flags.personal]]"
+  - "[[/_secret/schema-org/Property/Flags.secret|Flags.secret]]"
 ---
 
 # Flags Overview

@@ -10,21 +10,47 @@ cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - value_added_tax_included
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_value_added_tax_included
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/True
 title: is_value_added_tax_included
 type: Pred_Bool
+dv_is_value_added_tax_included: Boolean
+dv_has_:
+  domain: PriceSpecification
+dv_#has_:
+  name: is_value_added_tax_included
+  range: Boolean
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Flags/is_value_added_tax_included|is_value_added_tax_included]]"
+    - "[[/_public/schema-org/Property/Flags/is_value_added_tax_included.public|is_value_added_tax_included.public]]"
+    - "[[/_internal/schema-org/Property/Flags/is_value_added_tax_included.internal|is_value_added_tax_included.internal]]"
+    - "[[/_protect/schema-org/Property/Flags/is_value_added_tax_included.protect|is_value_added_tax_included.protect]]"
+    - "[[/_private/schema-org/Property/Flags/is_value_added_tax_included.private|is_value_added_tax_included.private]]"
+    - "[[/_personal/schema-org/Property/Flags/is_value_added_tax_included.personal|is_value_added_tax_included.personal]]"
+    - "[[/_secret/schema-org/Property/Flags/is_value_added_tax_included.secret|is_value_added_tax_included.secret]]"
+dv_has_domain: PriceSpecification
+dv_has_name: is_value_added_tax_included
+dv_has_range: Boolean
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Flags/is_value_added_tax_included|is_value_added_tax_included]]"
+  - "[[/_public/schema-org/Property/Flags/is_value_added_tax_included.public|is_value_added_tax_included.public]]"
+  - "[[/_internal/schema-org/Property/Flags/is_value_added_tax_included.internal|is_value_added_tax_included.internal]]"
+  - "[[/_protect/schema-org/Property/Flags/is_value_added_tax_included.protect|is_value_added_tax_included.protect]]"
+  - "[[/_private/schema-org/Property/Flags/is_value_added_tax_included.private|is_value_added_tax_included.private]]"
+  - "[[/_personal/schema-org/Property/Flags/is_value_added_tax_included.personal|is_value_added_tax_included.personal]]"
+  - "[[/_secret/schema-org/Property/Flags/is_value_added_tax_included.secret|is_value_added_tax_included.secret]]"
 ---
 
 Use these simple Tags to mark Instances as True or False: 
@@ -32,16 +58,16 @@ Use these simple Tags to mark Instances as True or False:
 #is_not_/value_added_tax_included 
 
 Or write it as a Triple: 
-[ is_value_added_tax_included :: Boolean ] 
+is_value_added_tax_included = `=this.dv_is_value_added_tax_included`  
 
 Specifies whether the applicable value-added tax (VAT) is included in the price specification or not.
 
 Predicate describes that: 
 
-#has_/domain  :: PriceSpecification  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_value_added_tax_included )
-( #has_/range :: Boolean )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

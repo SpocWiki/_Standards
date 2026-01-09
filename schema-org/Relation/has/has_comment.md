@@ -7,35 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - comment
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_comment
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_comment
 type: Predi_Relation
+dv_has_:
+  comment: Comment
+  domain: CreativeWork, RsvpAction
+dv_has_comment: Comment
+dv_#has_:
+  name: has_comment
+  range: Comment
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_comment|has_comment]]"
+    - "[[/_public/schema-org/Relation/has/has_comment.public|has_comment.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_comment.internal|has_comment.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_comment.protect|has_comment.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_comment.private|has_comment.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_comment.personal|has_comment.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_comment.secret|has_comment.secret]]"
+dv_has_domain: CreativeWork, RsvpAction
+dv_has_name: has_comment
+dv_has_range: Comment
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_comment|has_comment]]"
+  - "[[/_public/schema-org/Relation/has/has_comment.public|has_comment.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_comment.internal|has_comment.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_comment.protect|has_comment.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_comment.private|has_comment.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_comment.personal|has_comment.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_comment.secret|has_comment.secret]]"
 ---
 
 Use it like this: 
-- [has_/comment :: Comment ] 
-- [ has_comment :: Comment ] 
+- has_comment = `=this.dv_has_comment`  
+- has_comment = `=this.dv_has_comment`  
 
 Comments, typically from users.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork, RsvpAction  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_comment )
-( #has_/range :: Comment )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

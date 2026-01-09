@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - employer_aggregate_rating
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_employer_aggregate_rating Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_employer_aggregate_rating Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../AggregateRating]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating|Employer_Aggregate_Rating]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.public|Employer_Aggregate_Rating.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.internal|Employer_Aggregate_Rating.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.protect|Employer_Aggregate_Rating.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.private|Employer_Aggregate_Rating.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.personal|Employer_Aggregate_Rating.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.secret|Employer_Aggregate_Rating.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"
+dv_is_sub_class_of: "[[../AggregateRating]]"
+dv_has_properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating|Employer_Aggregate_Rating]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.public|Employer_Aggregate_Rating.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.internal|Employer_Aggregate_Rating.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.protect|Employer_Aggregate_Rating.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.private|Employer_Aggregate_Rating.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.personal|Employer_Aggregate_Rating.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.secret|Employer_Aggregate_Rating.secret]]"
 ---
 
 Class of all employer_aggregate_ratings.
@@ -34,9 +56,9 @@ Tag Instances like this:
 
 An aggregate rating of an Organization related to its role as an employer.
 
-#is_/sub_class_of :: [[../AggregateRating]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - secondary_prevention
   - secondary
   - prevention
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_secondary_prevention
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_secondary_prevention
 type: Predi_Relation
+dv_has_:
+  secondary_prevention: MedicalTherapy
+  domain: MedicalCondition
+dv_has_secondary_prevention: MedicalTherapy
+dv_#has_:
+  name: is_secondary_prevention
+  range: MedicalTherapy
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_secondary_prevention|has_secondary_prevention]]"
+    - "[[/_public/schema-org/Relation/has/has_secondary_prevention.public|has_secondary_prevention.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_secondary_prevention.internal|has_secondary_prevention.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_secondary_prevention.protect|has_secondary_prevention.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_secondary_prevention.private|has_secondary_prevention.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_secondary_prevention.personal|has_secondary_prevention.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_secondary_prevention.secret|has_secondary_prevention.secret]]"
+dv_has_domain: MedicalCondition
+dv_has_name: is_secondary_prevention
+dv_has_range: MedicalTherapy
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_secondary_prevention|has_secondary_prevention]]"
+  - "[[/_public/schema-org/Relation/has/has_secondary_prevention.public|has_secondary_prevention.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_secondary_prevention.internal|has_secondary_prevention.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_secondary_prevention.protect|has_secondary_prevention.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_secondary_prevention.private|has_secondary_prevention.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_secondary_prevention.personal|has_secondary_prevention.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_secondary_prevention.secret|has_secondary_prevention.secret]]"
 ---
 
 Use it like this: 
-- [has_/secondary_prevention :: MedicalTherapy ] 
-- [ has_secondary_prevention :: MedicalTherapy ] 
+- has_secondary_prevention = `=this.dv_has_secondary_prevention`  
+- has_secondary_prevention = `=this.dv_has_secondary_prevention`  
 
 A preventative therapy used to prevent reoccurrence of the medical condition after an initial episode of the condition.
 
 Relation describes that: 
 
-#has_/domain  :: MedicalCondition  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_secondary_prevention )
-( #has_/range :: MedicalTherapy )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

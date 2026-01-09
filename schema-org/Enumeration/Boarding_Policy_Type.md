@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - boarding_policy_type
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_boarding_policy_type Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_boarding_policy_type Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Boarding_Policy_Type|Boarding_Policy_Type]]"
+    - "[[/_public/schema-org/Enumeration/Boarding_Policy_Type.public|Boarding_Policy_Type.public]]"
+    - "[[/_internal/schema-org/Enumeration/Boarding_Policy_Type.internal|Boarding_Policy_Type.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Boarding_Policy_Type.protect|Boarding_Policy_Type.protect]]"
+    - "[[/_private/schema-org/Enumeration/Boarding_Policy_Type.private|Boarding_Policy_Type.private]]"
+    - "[[/_personal/schema-org/Enumeration/Boarding_Policy_Type.personal|Boarding_Policy_Type.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Boarding_Policy_Type.secret|Boarding_Policy_Type.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Boarding_Policy_Type|Boarding_Policy_Type]]"
+  - "[[/_public/schema-org/Enumeration/Boarding_Policy_Type.public|Boarding_Policy_Type.public]]"
+  - "[[/_internal/schema-org/Enumeration/Boarding_Policy_Type.internal|Boarding_Policy_Type.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Boarding_Policy_Type.protect|Boarding_Policy_Type.protect]]"
+  - "[[/_private/schema-org/Enumeration/Boarding_Policy_Type.private|Boarding_Policy_Type.private]]"
+  - "[[/_personal/schema-org/Enumeration/Boarding_Policy_Type.personal|Boarding_Policy_Type.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Boarding_Policy_Type.secret|Boarding_Policy_Type.secret]]"
 ---
 
 Class of all boarding_policy_types.
@@ -34,7 +53,7 @@ Tag Instances like this:
 
 A type of boarding policy used by an airline.
 
-#is_/sub_class_of :: [[../Enumeration]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -10,37 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - base-salary
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_base-salary
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_base-salary
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    base_salary: MonetaryAmount, Number, PriceSpecification
+  domain: EmployeeRole, JobPosting
+dv_has_value_for_base_salary: MonetaryAmount, Number, PriceSpecification
+dv_#has_:
+  name: has_value_for_base_salary
+  range: MonetaryAmount, Number, PriceSpecification
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_base_salary|has_value_for_base_salary]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_base_salary.public|has_value_for_base_salary.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_base_salary.internal|has_value_for_base_salary.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_base_salary.protect|has_value_for_base_salary.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_base_salary.private|has_value_for_base_salary.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_base_salary.personal|has_value_for_base_salary.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_base_salary.secret|has_value_for_base_salary.secret]]"
+dv_has_domain: EmployeeRole, JobPosting
+dv_has_name: has_value_for_base_salary
+dv_has_range: MonetaryAmount, Number, PriceSpecification
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_base_salary|has_value_for_base_salary]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_base_salary.public|has_value_for_base_salary.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_base_salary.internal|has_value_for_base_salary.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_base_salary.protect|has_value_for_base_salary.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_base_salary.private|has_value_for_base_salary.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_base_salary.personal|has_value_for_base_salary.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_base_salary.secret|has_value_for_base_salary.secret]]"
 ---
 
 Predicate to describe the Quantity of EmployeeRole, JobPosting.
 
 Use it like this: 
-- [has_/value_for_/base_salary :: MonetaryAmount, Number, PriceSpecification ] 
-- [ has_value_for_base_salary :: MonetaryAmount, Number, PriceSpecification ] 
+- has_value_for_base_salary = `=this.dv_has_value_for_base_salary`  
+- has_value_for_base_salary = `=this.dv_has_value_for_base_salary`  
 
 The base salary of the job or of an employee in an EmployeeRole.
 
 Predicate describes that: 
 
-#has_/domain  :: EmployeeRole, JobPosting  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_base_salary )
-( #has_/range :: MonetaryAmount, Number, PriceSpecification )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

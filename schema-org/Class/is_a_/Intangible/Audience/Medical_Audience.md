@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - medical_audience
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_medical_audience Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_medical_audience Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Audience, PeopleAudience]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience|Medical_Audience]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.public|Medical_Audience.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.internal|Medical_Audience.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.protect|Medical_Audience.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.private|Medical_Audience.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.personal|Medical_Audience.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.secret|Medical_Audience.secret]]"
+dv_has_:
+  sub_classes: "[ Patient ]"
+  properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"
+dv_is_sub_class_of: "[[../Audience, PeopleAudience]]"
+dv_has_sub_classes: "[ Patient ]"
+dv_has_properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience|Medical_Audience]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.public|Medical_Audience.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.internal|Medical_Audience.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.protect|Medical_Audience.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.private|Medical_Audience.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.personal|Medical_Audience.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.secret|Medical_Audience.secret]]"
 ---
 
 Class of all medical_audiences.
@@ -34,11 +58,11 @@ Tag Instances like this:
 
 Target audiences for medical web pages.
 
-#is_/sub_class_of :: [[../Audience, PeopleAudience]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/sub_classes :: [ Patient ]  
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-#has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

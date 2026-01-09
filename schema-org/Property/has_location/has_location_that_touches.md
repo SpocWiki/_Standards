@@ -11,28 +11,56 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_touches
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_touches
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_touches
 type: Pred_geo
+dv_has_:
+  location_:
+    that_touches: GeospatialGeometry, Place
+  domain: GeospatialGeometry, Place
+dv_has_location_that_touches: GeospatialGeometry, Place
+dv_#has_:
+  name: has_location_touches
+  range: GeospatialGeometry, Place
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_location/has_location_that_touches|has_location_that_touches]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_that_touches.public|has_location_that_touches.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_that_touches.internal|has_location_that_touches.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_that_touches.protect|has_location_that_touches.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_that_touches.private|has_location_that_touches.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_that_touches.personal|has_location_that_touches.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_that_touches.secret|has_location_that_touches.secret]]"
+dv_has_domain: GeospatialGeometry, Place
+dv_has_name: has_location_touches
+dv_has_range: GeospatialGeometry, Place
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_location/has_location_that_touches|has_location_that_touches]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_that_touches.public|has_location_that_touches.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_that_touches.internal|has_location_that_touches.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_that_touches.protect|has_location_that_touches.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_that_touches.private|has_location_that_touches.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_that_touches.personal|has_location_that_touches.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_that_touches.secret|has_location_that_touches.secret]]"
 ---
 
 Symmetric relation between 2 neighboring, non-overlapping GeospatialGeometry or Place.
 
 Use it like this: 
-- [has_/location_/that_touches :: GeospatialGeometry, Place ] 
-- [ has_location_that_touches :: GeospatialGeometry, Place ] 
+- has_location_that_touches = `=this.dv_has_location_that_touches`  
+- has_location_that_touches = `=this.dv_has_location_that_touches`  
 
 Represents spatial relations in which two geometries (or the places they represent) touch: 
 "they have at least one boundary point in common, more commonly a boundary line, but no interior points." 
@@ -41,10 +69,10 @@ Represents spatial relations in which two geometries (or the places they represe
 
 Predicate describes that: 
 
-#has_/domain  :: GeospatialGeometry, Place  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_location_touches )
-( #has_/range :: GeospatialGeometry, Place )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -9,37 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - warranty_scope
   - warranty
   - scope
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_warranty_scope
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_warranty_scope
 type: Predi_Relation
+dv_has_:
+  warranty_scope: WarrantyScope
+  domain: WarrantyPromise
+dv_has_warranty_scope: WarrantyScope
+dv_#has_:
+  name: is_warranty_scope
+  range: WarrantyScope
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_warranty_scope|has_warranty_scope]]"
+    - "[[/_public/schema-org/Relation/has/has_warranty_scope.public|has_warranty_scope.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_warranty_scope.internal|has_warranty_scope.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_warranty_scope.protect|has_warranty_scope.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_warranty_scope.private|has_warranty_scope.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_warranty_scope.personal|has_warranty_scope.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_warranty_scope.secret|has_warranty_scope.secret]]"
+dv_has_domain: WarrantyPromise
+dv_has_name: is_warranty_scope
+dv_has_range: WarrantyScope
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_warranty_scope|has_warranty_scope]]"
+  - "[[/_public/schema-org/Relation/has/has_warranty_scope.public|has_warranty_scope.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_warranty_scope.internal|has_warranty_scope.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_warranty_scope.protect|has_warranty_scope.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_warranty_scope.private|has_warranty_scope.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_warranty_scope.personal|has_warranty_scope.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_warranty_scope.secret|has_warranty_scope.secret]]"
 ---
 
 Use it like this: 
-- [has_/warranty_scope :: WarrantyScope ] 
-- [ has_warranty_scope :: WarrantyScope ] 
+- has_warranty_scope = `=this.dv_has_warranty_scope`  
+- has_warranty_scope = `=this.dv_has_warranty_scope`  
 
 The scope of the warranty promise.
 
 Relation describes that: 
 
-#has_/domain  :: WarrantyPromise  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_warranty_scope )
-( #has_/range :: WarrantyScope )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

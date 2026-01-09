@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ItemListOrderType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_list_order_descending
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_item_list_order_descending Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_item_list_order_descending Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ItemListOrderType]]"
+  enum_of: "[[../ItemListOrderType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending|Item_List_Order_Descending]]"
+    - "[[/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.public|Item_List_Order_Descending.public]]"
+    - "[[/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.internal|Item_List_Order_Descending.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.protect|Item_List_Order_Descending.protect]]"
+    - "[[/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.private|Item_List_Order_Descending.private]]"
+    - "[[/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.personal|Item_List_Order_Descending.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.secret|Item_List_Order_Descending.secret]]"
+dv_is_sub_class_of: "[[../ItemListOrderType]]"
+dv_is_enum_of: "[[../ItemListOrderType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending|Item_List_Order_Descending]]"
+  - "[[/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.public|Item_List_Order_Descending.public]]"
+  - "[[/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.internal|Item_List_Order_Descending.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.protect|Item_List_Order_Descending.protect]]"
+  - "[[/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.private|Item_List_Order_Descending.private]]"
+  - "[[/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.personal|Item_List_Order_Descending.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.secret|Item_List_Order_Descending.secret]]"
 ---
 
 Class of all item_list_order_descendings.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 An ItemList ordered with higher values listed first.
 
-#is_/sub_class_of :: [[../ItemListOrderType]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../ItemListOrderType]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Rdfs;Class|Rdfs;Class]]"
+    - "[[/_public/schema-org/Class/is_a_/Rdfs;Class.public|Rdfs;Class.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Rdfs;Class.internal|Rdfs;Class.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Rdfs;Class.protect|Rdfs;Class.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Rdfs;Class.private|Rdfs;Class.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Rdfs;Class.personal|Rdfs;Class.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Rdfs;Class.secret|Rdfs;Class.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Rdfs;Class|Rdfs;Class]]"
+  - "[[/_public/schema-org/Class/is_a_/Rdfs;Class.public|Rdfs;Class.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Rdfs;Class.internal|Rdfs;Class.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Rdfs;Class.protect|Rdfs;Class.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Rdfs;Class.private|Rdfs;Class.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Rdfs;Class.personal|Rdfs;Class.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Rdfs;Class.secret|Rdfs;Class.secret]]"
+---
 # rdfs;class
 
 

@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - sports_event
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_sports_event Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_sports_event Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Event]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Event/Sports_Event|Sports_Event]]"
+    - "[[/_public/schema-org/Class/is_a_/Event/Sports_Event.public|Sports_Event.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Event/Sports_Event.internal|Sports_Event.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Event/Sports_Event.protect|Sports_Event.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Event/Sports_Event.private|Sports_Event.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Event/Sports_Event.personal|Sports_Event.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Event/Sports_Event.secret|Sports_Event.secret]]"
+dv_has_:
+  properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, awayTeam, competitor, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, homeTeam, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, sport, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
+dv_is_sub_class_of: "[[../Event]]"
+dv_has_properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, awayTeam, competitor, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, homeTeam, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, sport, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Event/Sports_Event|Sports_Event]]"
+  - "[[/_public/schema-org/Class/is_a_/Event/Sports_Event.public|Sports_Event.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Event/Sports_Event.internal|Sports_Event.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Event/Sports_Event.protect|Sports_Event.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Event/Sports_Event.private|Sports_Event.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Event/Sports_Event.personal|Sports_Event.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Event/Sports_Event.secret|Sports_Event.secret]]"
 ---
 
 Class of all sports_events.
@@ -34,9 +56,9 @@ Tag Instances like this:
 
 Event type: Sports event.
 
-#is_/sub_class_of :: [[../Event]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, awayTeam, competitor, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, homeTeam, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, sport, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]  
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

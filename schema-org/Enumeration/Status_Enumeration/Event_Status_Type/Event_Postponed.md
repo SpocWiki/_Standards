@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: EventStatusType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - event_postponed
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_event_postponed Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_event_postponed Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../EventStatusType]]"
+  enum_of: "[[../EventStatusType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed|Event_Postponed]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.public|Event_Postponed.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.internal|Event_Postponed.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.protect|Event_Postponed.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.private|Event_Postponed.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.personal|Event_Postponed.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.secret|Event_Postponed.secret]]"
+dv_is_sub_class_of: "[[../EventStatusType]]"
+dv_is_enum_of: "[[../EventStatusType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed|Event_Postponed]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.public|Event_Postponed.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.internal|Event_Postponed.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.protect|Event_Postponed.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.private|Event_Postponed.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.personal|Event_Postponed.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Postponed.secret|Event_Postponed.secret]]"
 ---
 
 Class of all event_postponeds.
@@ -35,9 +56,9 @@ Tag Instances like this:
 
 The event has been postponed and no new date has been set. The event's previousStartDate should be set.
 
-#is_/sub_class_of :: [[../EventStatusType]]  
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#is_/enum_of :: [[../EventStatusType]]  
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

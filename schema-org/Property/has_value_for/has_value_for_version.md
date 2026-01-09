@@ -10,37 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - version
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_version
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_version
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    version: Number, Text
+  domain: CreativeWork
+dv_has_value_for_version: Number, Text
+dv_#has_:
+  name: has_value_for_version
+  range: Number, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_version|has_value_for_version]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_version.public|has_value_for_version.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_version.internal|has_value_for_version.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_version.protect|has_value_for_version.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_version.private|has_value_for_version.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_version.personal|has_value_for_version.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_version.secret|has_value_for_version.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: has_value_for_version
+dv_has_range: Number, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_version|has_value_for_version]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_version.public|has_value_for_version.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_version.internal|has_value_for_version.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_version.protect|has_value_for_version.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_version.private|has_value_for_version.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_version.personal|has_value_for_version.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_version.secret|has_value_for_version.secret]]"
 ---
 
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- [has_/value_for_/version :: Number, Text ] 
-- [ has_value_for_version :: Number, Text ] 
+- has_value_for_version = `=this.dv_has_value_for_version`  
+- has_value_for_version = `=this.dv_has_value_for_version`  
 
 The version of the CreativeWork embodied by a specified resource.
 
 Predicate describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_version )
-( #has_/range :: Number, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

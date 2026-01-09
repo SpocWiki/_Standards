@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - print
   - column
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_print_column
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_print_column
 type: Pred_Text
+dv_has_:
+  text_of_:
+    print_column: Text
+  domain: NewsArticle
+dv_has_text_of_print_column: Text
+dv_#has_:
+  name: has_text_of_print_column
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_print_column|has_print_column]]"
+    - "[[/_public/schema-org/Property/Texts/has_print_column.public|has_print_column.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_print_column.internal|has_print_column.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_print_column.protect|has_print_column.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_print_column.private|has_print_column.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_print_column.personal|has_print_column.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_print_column.secret|has_print_column.secret]]"
+dv_has_domain: NewsArticle
+dv_has_name: has_text_of_print_column
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_print_column|has_print_column]]"
+  - "[[/_public/schema-org/Property/Texts/has_print_column.public|has_print_column.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_print_column.internal|has_print_column.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_print_column.protect|has_print_column.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_print_column.private|has_print_column.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_print_column.personal|has_print_column.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_print_column.secret|has_print_column.secret]]"
 ---
 
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- [has_/text_of_/print_column :: Text ] 
-- [ has_text_of_print_column :: Text ] 
+- has_text_of_print_column = `=this.dv_has_text_of_print_column`  
+- has_text_of_print_column = `=this.dv_has_text_of_print_column`  
 
 The number of the column in which the NewsArticle appears in the print edition.
 
 Predicated describes that: 
 
-#has_/domain  :: NewsArticle  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_print_column )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

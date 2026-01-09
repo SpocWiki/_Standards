@@ -11,38 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - pregnancy
   - warning
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_pregnancy_warning
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_pregnancy_warning
 type: Pred_Text
+dv_has_:
+  text_of_:
+    pregnancy_warning: Text
+  domain: Drug
+dv_has_text_of_pregnancy_warning: Text
+dv_#has_:
+  name: has_text_of_pregnancy_warning
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_pregnancy_warning|has_pregnancy_warning]]"
+    - "[[/_public/schema-org/Property/Texts/has_pregnancy_warning.public|has_pregnancy_warning.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_pregnancy_warning.internal|has_pregnancy_warning.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_pregnancy_warning.protect|has_pregnancy_warning.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_pregnancy_warning.private|has_pregnancy_warning.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_pregnancy_warning.personal|has_pregnancy_warning.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_pregnancy_warning.secret|has_pregnancy_warning.secret]]"
+dv_has_domain: Drug
+dv_has_name: has_text_of_pregnancy_warning
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_pregnancy_warning|has_pregnancy_warning]]"
+  - "[[/_public/schema-org/Property/Texts/has_pregnancy_warning.public|has_pregnancy_warning.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_pregnancy_warning.internal|has_pregnancy_warning.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_pregnancy_warning.protect|has_pregnancy_warning.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_pregnancy_warning.private|has_pregnancy_warning.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_pregnancy_warning.personal|has_pregnancy_warning.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_pregnancy_warning.secret|has_pregnancy_warning.secret]]"
 ---
 
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [has_/text_of_/pregnancy_warning :: Text ] 
-- [ has_text_of_pregnancy_warning :: Text ] 
+- has_text_of_pregnancy_warning = `=this.dv_has_text_of_pregnancy_warning`  
+- has_text_of_pregnancy_warning = `=this.dv_has_text_of_pregnancy_warning`  
 
 Any precaution, guidance, contraindication, etc. related to this drug"s use during pregnancy.
 
 Predicated describes that: 
 
-#has_/domain  :: Drug  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_pregnancy_warning )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

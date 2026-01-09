@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,30 +17,57 @@ keywords:
   - order
   - item
   - status
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_order_item_status
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_order_item_status
 type: Predi_Relation
+dv_has_:
+  order_item_status: OrderStatus
+  domain: OrderItem
+dv_has_order_item_status: OrderStatus
+dv_#has_:
+  name: has_order_item_status
+  range: OrderStatus
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_order_item_status|has_order_item_status]]"
+    - "[[/_public/schema-org/Relation/has/has_order_item_status.public|has_order_item_status.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_order_item_status.internal|has_order_item_status.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_order_item_status.protect|has_order_item_status.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_order_item_status.private|has_order_item_status.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_order_item_status.personal|has_order_item_status.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_order_item_status.secret|has_order_item_status.secret]]"
+dv_has_domain: OrderItem
+dv_has_name: has_order_item_status
+dv_has_range: OrderStatus
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_order_item_status|has_order_item_status]]"
+  - "[[/_public/schema-org/Relation/has/has_order_item_status.public|has_order_item_status.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_order_item_status.internal|has_order_item_status.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_order_item_status.protect|has_order_item_status.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_order_item_status.private|has_order_item_status.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_order_item_status.personal|has_order_item_status.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_order_item_status.secret|has_order_item_status.secret]]"
 ---
 
 Use it like this: 
-- [has_/order_item_status :: OrderStatus ] 
-- [ has_order_item_status :: OrderStatus ] 
+- has_order_item_status = `=this.dv_has_order_item_status`  
+- has_order_item_status = `=this.dv_has_order_item_status`  
 
 The current status of the order item.
 
 Relation describes that: 
 
-#has_/domain  :: OrderItem  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_order_item_status )
-( #has_/range :: OrderStatus )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
