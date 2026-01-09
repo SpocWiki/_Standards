@@ -4,134 +4,134 @@ aliases:
   - Nicotine
 has_id_wikidata: Q28086552
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~Camellia_sinensis,101815]]'
-  - '[[_Standards/WikiData/WD~Equisetum_arvense,107592]]'
-  - '[[_Standards/WikiData/WD~Duboisia_myoporoides,145166]]'
-  - '[[../../WikiData/WD~Brassica_oleracea,146212]]'
-  - '[[_Standards/WikiData/WD~Areca_catechu,156969]]'
-  - '[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]'
-  - '[[_Standards/WikiData/WD~Asclepias_syriaca,158295]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_tabacum,181095]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_attenuata,311142]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_rustica,602633]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_longiflora,851152]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_glauca,882908]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_alata,924207]]'
-  - '[[_Standards/WikiData/WD~Lycopodium_annotinum,1138172]]'
-  - '[[_Standards/WikiData/WD~Cyphanthera_tasmanica,1148167]]'
-  - '[[_Standards/WikiData/WD~Haloxylon_persicum,1153935]]'
-  - '[[_Standards/WikiData/WD~Duboisia_hopwoodii,1263158]]'
-  - '[[_Standards/WikiData/WD~Duboisia_leichhardtii,1263156]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_tomentosa,1415743]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_forgetiana,1437291]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_plumbaginifolia,1705676]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_arentsii,1748300]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_cavicola,1792378]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_benavidesii,1987284]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_acuminata,1987290]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_knightiana,1987304]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_paniculata,1987305]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_raimondii,1987309]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_glutinosa,1987314]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_setchellii,1987333]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_benthamiana,3024956]]'
-  - '[[_Standards/WikiData/WD~Lycopodium_obscurum,3281399]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_langsdorffii,3876607]]'
-  - '[[_Standards/WikiData/WD~Erythroxylum_macrophyllum,5396538]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_occidentalis,7030543]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_clevelandii,7030541]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_otophora,7030546]]'
-  - '[[_Standards/WikiData/WD~Virola_calophylla,7934853]]'
-  - '[[_Standards/WikiData/WD~Erythroxylum_lucidum,10274207]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_suaveolens,10475346]]'
-  - '[[_Standards/WikiData/WD~Erythroxylum_moonii,13604052]]'
-  - '[[_Standards/WikiData/WD~Erythroxylum_cuneatum,15377390]]'
-  - '[[_Standards/WikiData/WD~Erythroxylum_zambesiacum,15378361]]'
-  - '[[_Standards/WikiData/WD~Argyreia_mollis,15481555]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_ameghinoi,15530878]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_miersii,15530954]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_noctiflora,15531047]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_bonariensis,15531083]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_cordifolia,15531182]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_solanifolia,15531226]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_excelsior,15531228]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_pauciflora,15531305]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_thyrsiflora,15531311]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_acaulis,15531325]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_petunioides,15531349]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_undulata,15531484]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_repanda,15531493]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_linearis,15531507]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_rosulata,15531535]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_wigandioides,15531532]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_longibracteata,15531559]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_tomentosiformis,16861031]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_maritima,17400250]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_megalosiphon,17400249]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_goodspeedii,17400255]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_gossei,17400253]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_debneyi,17400259]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_fragrans,17400256]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_amplexicaulis,17400262]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_corymbosa,17400260]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_velutina,17400391]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_stocktonii,17400394]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_spegazzinii,17400395]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_umbratica,17400392]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_simulans,17400396]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_rotundifolia,17400397]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_nudicaulis,21306289]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_kawakamii,21306293]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_exigua,50846799]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_nesophila,50846807]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_ingulba,50846805]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_forsteri,50860697]]'
-  - '[[_Standards/WikiData/WD~Vachellia_rigidula,50880333]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_quadrivalvis_var._bigelovii,50906012]]'
-  - '[[_Standards/WikiData/WD~Senegalia_berlandieri,104249197]]'
-  - '[[_Standards/WikiData/WD~Solanum_melongena,7540]]'
-  - '[[_Standards/WikiData/WD~potato,10998]]'
-  - '[[_Standards/WikiData/WD~tomato_plant,23501]]'
-  - '[[_Standards/WikiData/WD~Apium_graveolens,28298]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_africana,29741]]'
+  - "[[_Standards/WikiData/WD~Camellia_sinensis,101815]]"
+  - "[[_Standards/WikiData/WD~Equisetum_arvense,107592]]"
+  - "[[_Standards/WikiData/WD~Duboisia_myoporoides,145166]]"
+  - "[[../../WikiData/WD~Brassica_oleracea,146212]]"
+  - "[[_Standards/WikiData/WD~Areca_catechu,156969]]"
+  - "[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]"
+  - "[[_Standards/WikiData/WD~Asclepias_syriaca,158295]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_tabacum,181095]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_attenuata,311142]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_rustica,602633]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_longiflora,851152]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_glauca,882908]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_alata,924207]]"
+  - "[[_Standards/WikiData/WD~Lycopodium_annotinum,1138172]]"
+  - "[[_Standards/WikiData/WD~Cyphanthera_tasmanica,1148167]]"
+  - "[[_Standards/WikiData/WD~Haloxylon_persicum,1153935]]"
+  - "[[_Standards/WikiData/WD~Duboisia_hopwoodii,1263158]]"
+  - "[[_Standards/WikiData/WD~Duboisia_leichhardtii,1263156]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_tomentosa,1415743]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_forgetiana,1437291]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_plumbaginifolia,1705676]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_arentsii,1748300]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_cavicola,1792378]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_benavidesii,1987284]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_acuminata,1987290]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_knightiana,1987304]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_paniculata,1987305]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_raimondii,1987309]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_glutinosa,1987314]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_setchellii,1987333]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_benthamiana,3024956]]"
+  - "[[_Standards/WikiData/WD~Lycopodium_obscurum,3281399]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_langsdorffii,3876607]]"
+  - "[[_Standards/WikiData/WD~Erythroxylum_macrophyllum,5396538]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_occidentalis,7030543]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_clevelandii,7030541]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_otophora,7030546]]"
+  - "[[_Standards/WikiData/WD~Virola_calophylla,7934853]]"
+  - "[[_Standards/WikiData/WD~Erythroxylum_lucidum,10274207]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_suaveolens,10475346]]"
+  - "[[_Standards/WikiData/WD~Erythroxylum_moonii,13604052]]"
+  - "[[_Standards/WikiData/WD~Erythroxylum_cuneatum,15377390]]"
+  - "[[_Standards/WikiData/WD~Erythroxylum_zambesiacum,15378361]]"
+  - "[[_Standards/WikiData/WD~Argyreia_mollis,15481555]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_ameghinoi,15530878]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_miersii,15530954]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_noctiflora,15531047]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_bonariensis,15531083]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_cordifolia,15531182]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_solanifolia,15531226]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_excelsior,15531228]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_pauciflora,15531305]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_thyrsiflora,15531311]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_acaulis,15531325]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_petunioides,15531349]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_undulata,15531484]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_repanda,15531493]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_linearis,15531507]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_rosulata,15531535]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_wigandioides,15531532]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_longibracteata,15531559]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_tomentosiformis,16861031]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_maritima,17400250]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_megalosiphon,17400249]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_goodspeedii,17400255]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_gossei,17400253]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_debneyi,17400259]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_fragrans,17400256]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_amplexicaulis,17400262]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_corymbosa,17400260]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_velutina,17400391]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_stocktonii,17400394]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_spegazzinii,17400395]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_umbratica,17400392]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_simulans,17400396]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_rotundifolia,17400397]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_nudicaulis,21306289]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_kawakamii,21306293]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_exigua,50846799]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_nesophila,50846807]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_ingulba,50846805]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_forsteri,50860697]]"
+  - "[[_Standards/WikiData/WD~Vachellia_rigidula,50880333]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_quadrivalvis_var._bigelovii,50906012]]"
+  - "[[_Standards/WikiData/WD~Senegalia_berlandieri,104249197]]"
+  - "[[_Standards/WikiData/WD~Solanum_melongena,7540]]"
+  - "[[_Standards/WikiData/WD~potato,10998]]"
+  - "[[_Standards/WikiData/WD~tomato_plant,23501]]"
+  - "[[_Standards/WikiData/WD~Apium_graveolens,28298]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_africana,29741]]"
 different_from:
-  - '[[_Standards/WikiData/WD~nicotinic_acid,134658]]'
-  - '[[_Standards/WikiData/WD~(+)_nicotine,27119762]]'
-  - '[[_Standards/WikiData/WD~rac_nicotine,56697247]]'
-  - '[[_Standards/WikiData/WD~nicotine,12144]]'
+  - "[[_Standards/WikiData/WD~nicotinic_acid,134658]]"
+  - "[[_Standards/WikiData/WD~(+)_nicotine,27119762]]"
+  - "[[_Standards/WikiData/WD~rac_nicotine,56697247]]"
+  - "[[_Standards/WikiData/WD~nicotine,12144]]"
 has_use:
-  - '[[_Standards/WikiData/WD~insecticide,181322]]'
-  - '[[_Standards/WikiData/WD~drug,8386]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
-named_after: '[[_Standards/WikiData/WD~Jean_Nicot,318368]]'
+  - "[[_Standards/WikiData/WD~insecticide,181322]]"
+  - "[[_Standards/WikiData/WD~drug,8386]]"
+  - "[[_Standards/WikiData/WD~medication,12140]]"
+named_after: "[[_Standards/WikiData/WD~Jean_Nicot,318368]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-legal_status_medicine_: '[[_Standards/WikiData/WD~boxed_warning,879952]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+legal_status_medicine_: "[[_Standards/WikiData/WD~boxed_warning,879952]]"
 has_characteristic:
-  - '[[_Standards/WikiData/WD~bitterness,1517187]]'
-  - '[[_Standards/WikiData/WD~Class_IIIB_combustible_liquid,21009059]]'
+  - "[[_Standards/WikiData/WD~bitterness,1517187]]"
+  - "[[_Standards/WikiData/WD~Class_IIIB_combustible_liquid,21009059]]"
 pregnancy_category:
-  - '[[_Standards/WikiData/WD~Australian_pregnancy_category_D,3679274]]'
-  - '[[_Standards/WikiData/WD~US_pregnancy_category_D,28123618]]'
-has_effect: '[[_Standards/WikiData/WD~nicotine_poisoning,7030575]]'
+  - "[[_Standards/WikiData/WD~Australian_pregnancy_category_D,3679274]]"
+  - "[[_Standards/WikiData/WD~US_pregnancy_category_D,28123618]]"
+has_effect: "[[_Standards/WikiData/WD~nicotine_poisoning,7030575]]"
 subject_has_role:
-  - '[[_Standards/WikiData/WD~nicotinic_agonist,7030581]]'
-  - '[[_Standards/WikiData/WD~Ganglionic_Stimulants,50430018]]'
-  - '[[_Standards/WikiData/WD~developmental_toxicant,72941151]]'
+  - "[[_Standards/WikiData/WD~nicotinic_agonist,7030581]]"
+  - "[[_Standards/WikiData/WD~Ganglionic_Stimulants,50430018]]"
+  - "[[_Standards/WikiData/WD~developmental_toxicant,72941151]]"
 active_ingredient_in:
-  - '[[_Standards/WikiData/WD~Nicotrol,16976940]]'
-  - '[[_Standards/WikiData/WD~tobacco_product,44106]]'
+  - "[[_Standards/WikiData/WD~Nicotrol,16976940]]"
+  - "[[_Standards/WikiData/WD~tobacco_product,44106]]"
 medical_condition_treated:
-  - '[[_Standards/WikiData/WD~nicotine_dependence,18553444]]'
-  - '[[_Standards/WikiData/WD~ulcerative_colitis,1477]]'
-stereoisomer_of: '[[_Standards/WikiData/WD~(+)_nicotine,27119762]]'
-conjugate_acid: '[[_Standards/WikiData/WD~(S)_nicotinium(1+),27126903]]'
+  - "[[_Standards/WikiData/WD~nicotine_dependence,18553444]]"
+  - "[[_Standards/WikiData/WD~ulcerative_colitis,1477]]"
+stereoisomer_of: "[[_Standards/WikiData/WD~(+)_nicotine,27119762]]"
+conjugate_acid: "[[_Standards/WikiData/WD~(S)_nicotinium(1+),27126903]]"
 canonical_SMILES: N=1C=CC=C(C1)C2N(C)CCC2
 SPLASH:
   - splash10-001i-0900000000-09e9b29571abf3a52e44
@@ -158,9 +158,9 @@ SPLASH:
   - splash10-03di-0900000000-720fe01876c739a30be0
   - splash10-03di-0900000000-cc0d5c1cc7b5db1245e2
 subclass_of:
-  - '[[_Standards/WikiData/WD~nicotine_like_alkaloid,108947964]]'
-  - '[[_Standards/WikiData/WD~nicotine,12144]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~nicotine_like_alkaloid,108947964]]"
+  - "[[_Standards/WikiData/WD~nicotine,12144]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 melting_point:
   - -79
   - -110
@@ -193,6 +193,25 @@ MeSH_tree_code:
   - D03.132.760.570
   - D03.383.725.518
 DSSTOX_compound_identifier: DTXCID50930
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Nicotine,28086552|WD~Nicotine,28086552]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Nicotine|Nicotine]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Nicotine.public|Nicotine.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Nicotine.internal|Nicotine.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Nicotine.protect|Nicotine.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Nicotine.private|Nicotine.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Nicotine.personal|Nicotine.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Nicotine.secret|Nicotine.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Nicotine,28086552|WD~Nicotine,28086552]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Nicotine|Nicotine]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Nicotine.public|Nicotine.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Nicotine.internal|Nicotine.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Nicotine.protect|Nicotine.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Nicotine.private|Nicotine.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Nicotine.personal|Nicotine.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Nicotine.secret|Nicotine.secret]]"
 ---
 
 # [[Nicotine]] 

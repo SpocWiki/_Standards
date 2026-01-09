@@ -19,6 +19,25 @@ element_symbol: Mc
 Unicode_character: 鏌
 CAS_Registry_Number: 54085-64-2
 time_of_discovery_or_invention: 2003-08-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Moscovium,1303]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium|Moscovium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public|Moscovium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal|Moscovium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.protect|Moscovium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.private|Moscovium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.personal|Moscovium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.secret|Moscovium.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Moscovium,1303]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium|Moscovium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public|Moscovium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal|Moscovium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.protect|Moscovium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.private|Moscovium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.personal|Moscovium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.secret|Moscovium.secret]]"
 ---
 
 # [[Moscovium]] 

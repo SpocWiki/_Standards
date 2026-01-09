@@ -3,18 +3,18 @@ aliases:
   - Berkelium
 has_id_wikidata: Q1882
 atomic_number: 97
-canonical_SMILES: '[Bk]'
+canonical_SMILES: "[Bk]"
 CAS_Registry_Number: 7440-40-6
 chemical_formula: Bk
 Commons_category: Berkelium
 Commons_gallery: Berkelium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 Dewey_Decimal_Classification: 546.444
-different_from: '[[_Standards/WikiData/WD~Berkel,707763]]'
+different_from: "[[_Standards/WikiData/WD~Berkel,707763]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
-  - '[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]'
-  - '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+  - "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
+  - "[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]"
+  - "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 DSSTOX_compound_identifier: DTXCID20147880
 electronegativity: 1.3
 element_symbol: Bk
@@ -22,71 +22,151 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Berkelium%20metal.jpg
 InChI: InChI=1S/Bk
 InChIKey: PWVKJRSRVJTHTR-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.83
   - 0.93
   - 0.96
-location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+location_of_discovery: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
 MeSH_tree_code:
   - D01.268.271.100.100
   - D01.268.556.075
   - D01.496.749.305.100.100
   - D01.552.020.150
   - D01.552.544.075
-named_after: '[[_Standards/WikiData/WD~Berkeley,484678]]'
+named_after: "[[_Standards/WikiData/WD~Berkeley,484678]]"
 OmegaWiki_Defined_Meaning: 156441
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~actinide,19577]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20144.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-berk%C3%A9lium.wav
 PubChem_CID: 23971
 SpocWebEntityId: 21992
 time_of_discovery_or_invention: 1949
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_berkelium,8085557]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_berkelium,8085557]]"
 type: Element
 Unicode_character: 鉳
 UNII: 2YQA718KUU
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Berkelium,1882]]"
+    - "[[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Berkelium|Berkelium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Actinide/Berkelium.public|Berkelium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Berkelium.internal|Berkelium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Berkelium.protect|Berkelium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Actinide/Berkelium.private|Berkelium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Berkelium.personal|Berkelium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Berkelium.secret|Berkelium.secret]]"
+  part_of: "[[../Actinide]]]"
+dv_has_:
+  name_:
+    group: Actinide-Group
+    en: Berkelium
+    de: Berkelium
+    abbreviated: Bk
+  value_for_:
+    weight_:
+      u: 247
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 0
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 6.23
+    electronegativity: 1.3
+    density: 0
+    temperature_:
+      melt_:
+        c: 0
+      boil_:
+        c: 0
+    capacity_:
+      heat: 0
+    conductivity_:
+      heat: 0.1
+    enthalpy: 0
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 31
+    electrons: 97
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Berkelium,1882]]"
+  - "[[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Berkelium|Berkelium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Actinide/Berkelium.public|Berkelium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Berkelium.internal|Berkelium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Berkelium.protect|Berkelium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Actinide/Berkelium.private|Berkelium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Berkelium.personal|Berkelium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Berkelium.secret|Berkelium.secret]]"
+dv_has_name_group: Actinide-Group
+dv_is_part_of: "[[../Actinide]]]"
+dv_has_name_en: Berkelium
+dv_has_name_de: Berkelium
+dv_has_name_abbreviated: Bk
+dv_has_value_for_weight_u: 247
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 0
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 6.23
+dv_has_value_for_electronegativity: 1.3
+dv_has_value_for_density: 0
+dv_has_value_for_temperature_melt_c: 0
+dv_has_value_for_temperature_boil_c: 0
+dv_has_value_for_capacity_heat: 0
+dv_has_value_for_conductivity_heat: 0.1
+dv_has_value_for_enthalpy: 0
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 31
+dv_has_number_of_electrons: 97
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Berkelium,1882]] 
 
 
 #chemic/Element 
-[has_/name_/group::Actinide-Group]
-is_/part_of::[[../Actinide]]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Berkelium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Berkelium 
+has_name_de = `=this.dv_has_name_de` 
 
-(has_/name_/abbreviated::Bk)
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-has_/value_for_/weight_/u::247 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::0]
-[has_/value_for_/volume_/ccm_/mol::0]
-[has_/value_for_/unknown2::0]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.23 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.3]
-[has_/value_for_/density::0]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::0 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::0 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0]
-[has_/value_for_/conductivity_/heat::0.1]
-[has_/value_for_/enthalpy::0]
-[has_/value_for_/energy_/form_/kj_/mol::0]
-(has_/number_of_/period::7)
-(has_/number_of_/group::31)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 []
-(has_/number_of_/electrons::97)
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 #is_/same_as :: [[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]] 
 

@@ -4,25 +4,25 @@ aliases:
   - Dynamite
 has_id_wikidata: Q80728
 has_part_s_:
-  - '[[../../_Standards/WikiData/WD~Nitroglycerin,162867]]'
-  - '[[_Standards/WikiData/WD~sorbent,4428995]]'
+  - "[[../../_Standards/WikiData/WD~Nitroglycerin,162867]]"
+  - "[[_Standards/WikiData/WD~sorbent,4428995]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~composite_material,181790]]'
-  - '[[_Standards/WikiData/WD~improvised_weapon,2862130]]'
-  - '[[_Standards/WikiData/WD~demolition_equipment,134732365]]'
-  - '[[_Standards/WikiData/WD~explosive_chemicals,12870]]'
+  - "[[_Standards/WikiData/WD~composite_material,181790]]"
+  - "[[_Standards/WikiData/WD~improvised_weapon,2862130]]"
+  - "[[_Standards/WikiData/WD~demolition_equipment,134732365]]"
+  - "[[_Standards/WikiData/WD~explosive_chemicals,12870]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 time_of_discovery_or_invention: 1867-01-01T00:00:00Z
-location_of_creation: '[[_Standards/WikiData/WD~Hamburg,1055]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Alfred_Nobel,23810]]'
+location_of_creation: "[[_Standards/WikiData/WD~Hamburg,1055]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Alfred_Nobel,23810]]"
 OmegaWiki_Defined_Meaning: 1070458
 Commons_category: Dynamite
 image:
@@ -33,6 +33,25 @@ UNSPSC_Code: 12131501
 Dewey_Decimal_Classification:
   - 623.4527
   - 662.27
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Dynamite,80728|WD~Dynamite,80728]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Dynamite|Dynamite]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Dynamite.public|Dynamite.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Dynamite.internal|Dynamite.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Dynamite.protect|Dynamite.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Dynamite.private|Dynamite.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Dynamite.personal|Dynamite.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Dynamite.secret|Dynamite.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Dynamite,80728|WD~Dynamite,80728]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Dynamite|Dynamite]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Dynamite.public|Dynamite.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Dynamite.internal|Dynamite.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Dynamite.protect|Dynamite.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Dynamite.private|Dynamite.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Dynamite.personal|Dynamite.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Dynamite.secret|Dynamite.secret]]"
 ---
 
 # [[Dynamite]] 

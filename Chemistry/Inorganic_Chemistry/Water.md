@@ -215,6 +215,25 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Uraren%20indarra.webm
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_water,7112809]]"
 Wolfram_Language_entity_code: Entity["FoodType", "Water"]
 ZVG_number: 1140
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Water,283|WD~Water,283]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water|Water]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Water.public|Water.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Water.internal|Water.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Water.protect|Water.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Water.private|Water.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Water.personal|Water.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Water.secret|Water.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Water,283|WD~Water,283]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water|Water]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Water.public|Water.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Water.internal|Water.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Water.protect|Water.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Water.private|Water.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Water.personal|Water.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Water.secret|Water.secret]]"
 ---
 
 # [[Water]] 💧 

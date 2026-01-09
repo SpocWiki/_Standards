@@ -3,7 +3,7 @@ aliases:
   - Gallium
 has_id_wikidata: Q861
 atomic_number: 31
-canonical_SMILES: '[Ga]'
+canonical_SMILES: "[Ga]"
 CAS_Registry_Number: 7440-55-3
 chemical_formula: Ga
 Commons_category: Gallium
@@ -16,49 +16,49 @@ density:
   - 5.904
   - 6.095
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Gallium,84658438]]'
-different_from: '[[_Standards/WikiData/WD~Gal,141487]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Gallium,84658438]]"
+different_from: "[[_Standards/WikiData/WD~Gal,141487]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]"
 DSSTOX_compound_identifier: DTXCID5047661
 EC_number: 231-163-8
 electronegativity: 1.81
 element_symbol: Ga
-has_effect: '[[_Standards/WikiData/WD~embrittlement,2919530]]'
+has_effect: "[[_Standards/WikiData/WD~embrittlement,2919530]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gallium%20crystals.jpg
 InChI: InChI=1S/Ga
 InChIKey: GYHNNYVSQQEPJS-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.47
   - 0.62
 Krugosvet_article: nauka_i_tehnika/himiya/GALLI.html
 made_from_material:
-  - '[[_Standards/WikiData/WD~bauxite,102078]]'
-  - '[[_Standards/WikiData/WD~gallite,411230]]'
-  - '[[_Standards/WikiData/WD~zinc_ore,12168819]]'
+  - "[[_Standards/WikiData/WD~bauxite,102078]]"
+  - "[[_Standards/WikiData/WD~gallite,411230]]"
+  - "[[_Standards/WikiData/WD~zinc_ore,12168819]]"
 mass: 69.723
 MeSH_tree_code:
   - D01.268.556.289
   - D01.552.544.289
-named_after: '[[_Standards/WikiData/WD~Gaul,38060]]'
+named_after: "[[_Standards/WikiData/WD~Gaul,38060]]"
 OmegaWiki_Defined_Meaning: 159177
 oxidation_state:
   - 1
   - 2
   - 3
 part_of:
-  - '[[_Standards/WikiData/WD~group_13,189294]]'
-  - '[[_Standards/WikiData/WD~period_4,239825]]'
+  - "[[_Standards/WikiData/WD~group_13,189294]]"
+  - "[[_Standards/WikiData/WD~period_4,239825]]"
 PubChem_CID: 5360835
 SpocWebEntityId: 21929
-subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 time_of_discovery_or_invention: 1875
 type: Element
 UMLS_CUI: C0016980
@@ -66,45 +66,123 @@ Unicode_character: 鎵
 UNII: CH46OC8YV4
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Gallium%20drops.ogv
 ZVG_number: 8260
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Gallium,861]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Gallium|Gallium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Gallium.public|Gallium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.internal|Gallium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Gallium.protect|Gallium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Gallium.private|Gallium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.personal|Gallium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Gallium.secret|Gallium.secret]]"
+  part_of: "[[../Group-13-Boron]]"
+dv_has_:
+  name_:
+    group: Group-13-Boron
+    en: Gallium
+    de: Gallium
+    abbreviated: Ga
+  value_for_:
+    weight_:
+      u: 69.723
+    radius: 1.81
+    volume_:
+      ccm_:
+        mol: 11.8
+    unknown2: 1.26
+    radius_:
+      nano_:
+        m: 5.999
+    electronegativity: 1.8
+    density: 5.91
+    temperature_:
+      melt_:
+        c: 29.78
+      boil_:
+        c: 2403
+    capacity_:
+      heat: 0.37
+    conductivity_:
+      heat: 0.406
+    enthalpy: 5.59
+    energy_:
+      form_:
+        kj_:
+          mol: 258.7
+  number_of_:
+    period: 4
+    electrons: 31
+    group: 13
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Gallium,861]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Gallium|Gallium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Gallium.public|Gallium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.internal|Gallium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Gallium.protect|Gallium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Gallium.private|Gallium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.personal|Gallium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Gallium.secret|Gallium.secret]]"
+dv_has_name_group: Group-13-Boron
+dv_is_part_of: "[[../Group-13-Boron]]"
+dv_has_name_en: Gallium
+dv_has_name_de: Gallium
+dv_has_value_for_weight_u: 69.723
+dv_has_value_for_radius: 1.81
+dv_has_value_for_volume_ccm_mol: 11.8
+dv_has_value_for_unknown2: 1.26
+dv_has_value_for_radius_nano_m: 5.999
+dv_has_value_for_electronegativity: 1.8
+dv_has_value_for_density: 5.91
+dv_has_value_for_temperature_melt_c: 29.78
+dv_has_value_for_temperature_boil_c: 2403
+dv_has_value_for_capacity_heat: 0.37
+dv_has_value_for_conductivity_heat: 0.406
+dv_has_value_for_enthalpy: 5.59
+dv_has_value_for_energy_form_kj_mol: 258.7
+dv_has_number_of_period: 4
+dv_has_name_abbreviated: Ga
+dv_has_number_of_electrons: 31
+dv_has_number_of_group: 13
 ---
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Gallium,861]] 
 
-[has_/name_/group::Group-13-Boron]
-is_/part_of::[[../Group-13-Boron]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Gallium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Gallium 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::69.723 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::1.81]
-[has_/value_for_/volume_/ccm_/mol::11.8]
-[has_/value_for_/unknown2::1.26]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::5.999 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.8]
-[has_/value_for_/density::5.91]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::29.78 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::2403 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.37]
-[has_/value_for_/conductivity_/heat::0.406]
-[has_/value_for_/enthalpy::5.59]
-[has_/value_for_/energy_/form_/kj_/mol::258.7]
-(has_/number_of_/period::4)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
 
 
 ## #has_/text_of_/abstract 
 
-> **Gallium** is a chemical element with the symbol (has_/name_/abbreviated::Ga) and atomic number (has_/number_of_/electrons::31). 
+> **Gallium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > Discovered by French chemist Paul-Émile Lecoq de Boisbaudran in 1875, 
-> Gallium is in group (has_/number_of_/group::13) of the periodic table 
+> Gallium is in group has_number_of_group = `=this.dv_has_number_of_group`  of the periodic table 
 > and is similar to the other metals of the group (aluminium, indium, and thallium).
 >
 > Elemental gallium is a soft, silvery metal in standard temperature and pressure. 

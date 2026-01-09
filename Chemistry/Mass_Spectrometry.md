@@ -26,6 +26,25 @@ MeSH_tree_code: E05.196.566
 Commons_gallery: Mass spectrometry
 Commons_category: Mass spectrometry
 GitHub_topic: mass-spectrometry
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Mass_spectrometry,180809]]"
+    - "[[/_Standards/Chemistry/Mass_Spectrometry|Mass_Spectrometry]]"
+    - "[[/_public/Chemistry/Mass_Spectrometry.public|Mass_Spectrometry.public]]"
+    - "[[/_internal/Chemistry/Mass_Spectrometry.internal|Mass_Spectrometry.internal]]"
+    - "[[/_protect/Chemistry/Mass_Spectrometry.protect|Mass_Spectrometry.protect]]"
+    - "[[/_private/Chemistry/Mass_Spectrometry.private|Mass_Spectrometry.private]]"
+    - "[[/_personal/Chemistry/Mass_Spectrometry.personal|Mass_Spectrometry.personal]]"
+    - "[[/_secret/Chemistry/Mass_Spectrometry.secret|Mass_Spectrometry.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Mass_spectrometry,180809]]"
+  - "[[/_Standards/Chemistry/Mass_Spectrometry|Mass_Spectrometry]]"
+  - "[[/_public/Chemistry/Mass_Spectrometry.public|Mass_Spectrometry.public]]"
+  - "[[/_internal/Chemistry/Mass_Spectrometry.internal|Mass_Spectrometry.internal]]"
+  - "[[/_protect/Chemistry/Mass_Spectrometry.protect|Mass_Spectrometry.protect]]"
+  - "[[/_private/Chemistry/Mass_Spectrometry.private|Mass_Spectrometry.private]]"
+  - "[[/_personal/Chemistry/Mass_Spectrometry.personal|Mass_Spectrometry.personal]]"
+  - "[[/_secret/Chemistry/Mass_Spectrometry.secret|Mass_Spectrometry.secret]]"
 ---
 
 # [[Mass_Spectrometry]] 

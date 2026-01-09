@@ -4,6 +4,25 @@ has_id_wikidata: Q271026
 subclass_of: "[[_Standards/WikiData/WD~halogenated_hydrocarbon,11973764]]"
 instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 Commons_category: Haloalkanes
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Haloalkane,271026]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane|Haloalkane]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.public|Haloalkane.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.internal|Haloalkane.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.protect|Haloalkane.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.private|Haloalkane.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.personal|Haloalkane.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.secret|Haloalkane.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Haloalkane,271026]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane|Haloalkane]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.public|Haloalkane.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.internal|Haloalkane.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.protect|Haloalkane.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.private|Haloalkane.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.personal|Haloalkane.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.secret|Haloalkane.secret]]"
 ---
 
 # [[Haloalkane]] 

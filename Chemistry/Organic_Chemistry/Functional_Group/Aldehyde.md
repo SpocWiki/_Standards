@@ -46,6 +46,25 @@ Commons_category: Aldehydes
 UMLS_CUI: C0001992
 MeSH_tree_code: D02.047
 Krugosvet_article: himiya/aldegidy-i-ketony
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Aldehydes,101497]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Aldehyde|Aldehyde]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Aldehyde.public|Aldehyde.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Aldehyde.internal|Aldehyde.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Aldehyde.protect|Aldehyde.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Aldehyde.private|Aldehyde.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Aldehyde.personal|Aldehyde.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Aldehyde.secret|Aldehyde.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Aldehydes,101497]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Aldehyde|Aldehyde]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Aldehyde.public|Aldehyde.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Aldehyde.internal|Aldehyde.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Aldehyde.protect|Aldehyde.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Aldehyde.private|Aldehyde.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Aldehyde.personal|Aldehyde.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Aldehyde.secret|Aldehyde.secret]]"
 ---
 
 # [[Aldehyde]] 

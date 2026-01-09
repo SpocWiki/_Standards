@@ -31,6 +31,25 @@ Library_of_Congress_Classification:
   - QD305.H5-QD305.H9
   - QD341.H9
   - TP492.82.H93
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Hydrocarbon,43648|WD~Hydrocarbon,43648]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon|Hydrocarbon]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon.public|Hydrocarbon.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon.internal|Hydrocarbon.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon.protect|Hydrocarbon.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon.private|Hydrocarbon.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon.personal|Hydrocarbon.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon.secret|Hydrocarbon.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Hydrocarbon,43648|WD~Hydrocarbon,43648]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon|Hydrocarbon]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon.public|Hydrocarbon.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon.internal|Hydrocarbon.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon.protect|Hydrocarbon.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon.private|Hydrocarbon.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon.personal|Hydrocarbon.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon.secret|Hydrocarbon.secret]]"
 ---
 
 # [[Hydrocarbon]] 

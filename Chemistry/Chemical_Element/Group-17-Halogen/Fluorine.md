@@ -2,7 +2,7 @@
 aliases:
   - Fluorine
 has_id_wikidata: Q650
-associated_hazard: '[[_Standards/WikiData/WD~fluorine_exposure,21174321]]'
+associated_hazard: "[[_Standards/WikiData/WD~fluorine_exposure,21174321]]"
 atomic_number: 9
 boiling_point: -307
 CAS_Registry_Number: 14762-94-8
@@ -10,98 +10,176 @@ chemical_formula: F
 Commons_category: Fluorine
 Commons_gallery: Fluorine
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-different_from: '[[_Standards/WikiData/WD~fluorene,417934]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
+different_from: "[[_Standards/WikiData/WD~fluorene,417934]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Henri_Moissan,102804]]'
-  - '[[_Standards/WikiData/WD~André-Marie_Ampère,675]]'
+  - "[[_Standards/WikiData/WD~Henri_Moissan,102804]]"
+  - "[[_Standards/WikiData/WD~André-Marie_Ampère,675]]"
 electronegativity: 3.98
 electron_configuration:
-  - '[He] 2s² 2p⁵'
+  - "[He] 2s² 2p⁵"
   - 1s² 2s² 2p⁵
 element_symbol: F
-followed_by: '[[_Standards/WikiData/WD~neon,654]]'
+followed_by: "[[_Standards/WikiData/WD~neon,654]]"
 Gmelin_number: 544
-has_effect: '[[_Standards/WikiData/WD~fluorine_exposure,21174321]]'
+has_effect: "[[_Standards/WikiData/WD~fluorine_exposure,21174321]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20fluorine%20tighter%20crop.jpg
 immediately_dangerous_to_life_or_health: 38.75
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.08
   - 1.33
 ionization_energy: 15.7
-location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
+location_of_discovery: "[[_Standards/WikiData/WD~France,142]]"
 mass: 18.998403162
 melting_point: -363
 MeSH_tree_code: D01.268.380.300
-named_after: '[[_Standards/WikiData/WD~hydrofluoric_acid,209569]]'
+named_after: "[[_Standards/WikiData/WD~hydrofluoric_acid,209569]]"
 OmegaWiki_Defined_Meaning: 1496
 oxidation_state: -1
 part_of:
-  - '[[_Standards/WikiData/WD~period_2,207712]]'
-  - '[[_Standards/WikiData/WD~perfluorinated_compound,722568]]'
-  - '[[_Standards/WikiData/WD~halogens,19605]]'
+  - "[[_Standards/WikiData/WD~period_2,207712]]"
+  - "[[_Standards/WikiData/WD~perfluorinated_compound,722568]]"
+  - "[[_Standards/WikiData/WD~halogens,19605]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fluorine-ar.ogg
 PubChem_CID: 5360525
 RTECS_number: LM6475000
 SpocWebEntityId: 21911
 subclass_of:
-  - '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]'
-  - '[[_Standards/WikiData/WD~nonmetal,19600]]'
-  - '[[_Standards/WikiData/WD~halogens,19605]]'
+  - "[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]"
+  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
+  - "[[_Standards/WikiData/WD~halogens,19605]]"
 time_of_discovery_or_invention: 1810
 time_weighted_average_exposure_limit: 0.2
 type: Element
 Unicode_character: 氟
 vapor_pressure: 1
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Fluorine,650]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine|Fluorine]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.public|Fluorine.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.internal|Fluorine.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.protect|Fluorine.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.private|Fluorine.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.personal|Fluorine.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.secret|Fluorine.secret]]"
+  part_of: "[[../Group-17-Halogen]]"
+dv_has_:
+  name_:
+    group: Group-17-Halogene
+    en: Fluorine
+    de: Fluor
+    abbreviated: F
+  value_for_:
+    weight_:
+      u: 18.9984
+    radius: 0.57
+    volume_:
+      ccm_:
+        mol: 17.1
+    unknown2: 0.72
+    radius_:
+      nano_:
+        m: 17.422
+    electronegativity: 4
+    density: 1.696
+    temperature_:
+      melt_:
+        c: -219.62
+      boil_:
+        c: -188.14
+    capacity_:
+      heat: 0.82
+    conductivity_:
+      heat: 0.000279
+    enthalpy: 0.2552
+    energy_:
+      form_:
+        kj_:
+          mol: 3.2698
+  number_of_:
+    period: 2
+    group: 17
+    electrons: 9
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Fluorine,650]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine|Fluorine]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.public|Fluorine.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.internal|Fluorine.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.protect|Fluorine.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.private|Fluorine.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.personal|Fluorine.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Fluorine.secret|Fluorine.secret]]"
+dv_has_name_group: Group-17-Halogene
+dv_is_part_of: "[[../Group-17-Halogen]]"
+dv_has_name_en: Fluorine
+dv_has_name_de: Fluor
+dv_has_value_for_weight_u: 18.9984
+dv_has_value_for_radius: 0.57
+dv_has_value_for_volume_ccm_mol: 17.1
+dv_has_value_for_unknown2: 0.72
+dv_has_value_for_radius_nano_m: 17.422
+dv_has_value_for_electronegativity: 4
+dv_has_value_for_density: 1.696
+dv_has_value_for_temperature_melt_c: -219.62
+dv_has_value_for_temperature_boil_c: -188.14
+dv_has_value_for_capacity_heat: 0.82
+dv_has_value_for_conductivity_heat: 0.000279
+dv_has_value_for_enthalpy: 0.2552
+dv_has_value_for_energy_form_kj_mol: 3.2698
+dv_has_number_of_period: 2
+dv_has_number_of_group: 17
+dv_has_name_abbreviated: F
+dv_has_number_of_electrons: 9
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Fluorine,650]]  
 
 
 #chemic/Element 
-[has_/name_/group::Group-17-Halogene]
-is_/part_of::[[../Group-17-Halogen]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Fluorine 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Fluor 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::18.9984 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::0.57]
-[has_/value_for_/volume_/ccm_/mol::17.1]
-[has_/value_for_/unknown2::0.72]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::17.422 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::4]
-[has_/value_for_/density::1.696]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::-219.62 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::-188.14 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.82]
-[has_/value_for_/conductivity_/heat::0.000279]
-[has_/value_for_/enthalpy::0.2552]
-[has_/value_for_/energy_/form_/kj_/mol::3.2698]
-(has_/number_of_/period::2)
-(has_/number_of_/group::17)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 
 
 ## #has_/text_of_/abstract 
 
-> **Fluorine** is a chemical element with the symbol (has_/name_/abbreviated::F) and atomic number (has_/number_of_/electrons::9). 
+> **Fluorine** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is the lightest halogen and exists at standard conditions as a highly toxic, pale yellow diatomic gas. 
 > As the most electronegative reactive element, it is extremely reactive, 
 > as it reacts with all other elements except for the light inert gases.

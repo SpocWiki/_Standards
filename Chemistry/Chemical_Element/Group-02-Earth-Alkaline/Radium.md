@@ -3,31 +3,31 @@ aliases:
   - Radium
 has_id_wikidata: Q1128
 atomic_number: 88
-canonical_SMILES: '[Ra]'
+canonical_SMILES: "[Ra]"
 CAS_Registry_Number: 7440-14-4
 chemical_formula: Ra
 Commons_category: Radium
 Commons_gallery: Radium
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 Dewey_Decimal_Classification: 546.396
-different_from: '[[_Standards/WikiData/WD~Rad,224047]]'
+different_from: "[[_Standards/WikiData/WD~Rad,224047]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
-  - '[[_Standards/WikiData/WD~Pierre_Curie,37463]]'
+  - "[[_Standards/WikiData/WD~Marie_Curie,7186]]"
+  - "[[_Standards/WikiData/WD~Pierre_Curie,37463]]"
 DSSTOX_compound_identifier: DTXCID70875702
 EC_number: 231-122-4
 electronegativity: 0.9
-electron_configuration: '[Rn] 7s²'
+electron_configuration: "[Rn] 7s²"
 element_symbol: Ra
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Radium226.jpg
 InChI: InChI=1S/Ra
 InChIKey: HCWPIIXVSYCSAN-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 1.7
   - 1.48
@@ -39,12 +39,12 @@ MeSH_tree_code:
   - D01.496.749.305.770
   - D01.552.539.745
   - D01.552.544.775
-named_after: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+named_after: "[[_Standards/WikiData/WD~radioactivity,11448]]"
 OmegaWiki_Defined_Meaning: 347064
 oxidation_state: 2
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20153.jpg
 PubChem_CID: 6328144
 SpocWebEntityId: 21983
@@ -53,46 +53,124 @@ type: Element
 UMLS_CUI: C0034625
 Unicode_character: 鐳
 UNII: W90AYD6R3Q
+dv_has_:
+  name_:
+    group: Group-02-Earth-Alkaline
+    en: Radium
+    de: Radium
+    abbreviated: Ra
+  value_for_:
+    weight_:
+      u: 226.0254
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 45.2
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 5.279
+    electronegativity: 0.9
+    density: 5
+    temperature_:
+      melt_:
+        c: 700
+      boil_:
+        c: 1140
+    capacity_:
+      heat: 0
+    conductivity_:
+      heat: 0.186
+    enthalpy: 0
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 2
+    electrons: 88
+dv_is_:
+  part_of: "[[../Group-02-Earth-Alkaline]]"
+  same_as:
+    - "[[../../../WikiData/WD~Radium,1128]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium|Radium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.public|Radium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.internal|Radium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.protect|Radium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.private|Radium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.personal|Radium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.secret|Radium.secret]]"
+dv_has_name_group: Group-02-Earth-Alkaline
+dv_is_part_of: "[[../Group-02-Earth-Alkaline]]"
+dv_has_name_en: Radium
+dv_has_name_de: Radium
+dv_has_value_for_weight_u: 226.0254
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 45.2
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 5.279
+dv_has_value_for_electronegativity: 0.9
+dv_has_value_for_density: 5
+dv_has_value_for_temperature_melt_c: 700
+dv_has_value_for_temperature_boil_c: 1140
+dv_has_value_for_capacity_heat: 0
+dv_has_value_for_conductivity_heat: 0.186
+dv_has_value_for_enthalpy: 0
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 2
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Radium,1128]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium|Radium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.public|Radium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.internal|Radium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.protect|Radium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.private|Radium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.personal|Radium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.secret|Radium.secret]]"
+dv_has_name_abbreviated: Ra
+dv_has_number_of_electrons: 88
 ---
 
 # [[Radium]] 
 
 #chemic/Element 
 
-[has_/name_/group::Group-02-Earth-Alkaline]
-is_/part_of::[[../Group-02-Earth-Alkaline]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Radium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Radium 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::226.0254 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::0]
-[has_/value_for_/volume_/ccm_/mol::45.2]
-[has_/value_for_/unknown2::0]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::5.279 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::0.9]
-[has_/value_for_/density::5]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::700 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::1140 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0]
-[has_/value_for_/conductivity_/heat::0.186]
-[has_/value_for_/enthalpy::0]
-[has_/value_for_/energy_/form_/kj_/mol::0]
-(has_/number_of_/period::7)
-(has_/number_of_/group::2)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Radium,1128]] 
 
 ## #has_/text_of_/abstract 
 
-> **Radium** is a chemical element with the symbol (has_/name_/abbreviated::Ra) and atomic number (has_/number_of_/electrons::88). 
+> **Radium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is the sixth element in group 2 of the periodic table, also known as the alkaline earth metals. 
 > 
 > Pure radium is silvery-white, but it readily reacts with nitrogen (rather than oxygen) 

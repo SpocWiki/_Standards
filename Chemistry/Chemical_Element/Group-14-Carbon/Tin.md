@@ -83,39 +83,117 @@ U_S_National_Archives_Identifier: 10643089
 vapor_pressure: 0
 Wolfram_Language_entity_code: Entity["Mineral", "Tin"]
 ZVG_number: 8380
+dv_has_:
+  name_:
+    group: Group-14-Carbon
+    en: Tin
+    de: Zinn
+    abbreviated: Sn
+  value_for_:
+    weight_:
+      u: 118.71
+    radius: 1.72
+    volume_:
+      ccm_:
+        mol: 16.3
+    unknown2: 1.41
+    radius_:
+      nano_:
+        m: 7.344
+    electronegativity: 2
+    density: 7.3
+    temperature_:
+      melt_:
+        c: 231.97
+      boil_:
+        c: 2270
+    capacity_:
+      heat: 0.227
+    conductivity_:
+      heat: 0.666
+    enthalpy: 7.029
+    energy_:
+      form_:
+        kj_:
+          mol: 295.8
+  number_of_:
+    period: 5
+    group: 14
+    electrons: 50
+dv_is_:
+  part_of: "[[../Group-14-Carbon]]]"
+  same_as:
+    - "[[../../../WikiData/WD~Tin,1096]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin|Tin]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin.public|Tin.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.internal|Tin.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin.protect|Tin.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin.private|Tin.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.personal|Tin.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin.secret|Tin.secret]]"
+dv_has_name_group: Group-14-Carbon
+dv_is_part_of: "[[../Group-14-Carbon]]]"
+dv_has_name_en: Tin
+dv_has_name_de: Zinn
+dv_has_value_for_weight_u: 118.71
+dv_has_value_for_radius: 1.72
+dv_has_value_for_volume_ccm_mol: 16.3
+dv_has_value_for_unknown2: 1.41
+dv_has_value_for_radius_nano_m: 7.344
+dv_has_value_for_electronegativity: 2
+dv_has_value_for_density: 7.3
+dv_has_value_for_temperature_melt_c: 231.97
+dv_has_value_for_temperature_boil_c: 2270
+dv_has_value_for_capacity_heat: 0.227
+dv_has_value_for_conductivity_heat: 0.666
+dv_has_value_for_enthalpy: 7.029
+dv_has_value_for_energy_form_kj_mol: 295.8
+dv_has_number_of_period: 5
+dv_has_number_of_group: 14
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Tin,1096]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin|Tin]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin.public|Tin.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.internal|Tin.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin.protect|Tin.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin.private|Tin.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin.personal|Tin.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin.secret|Tin.secret]]"
+dv_has_name_abbreviated: Sn
+dv_has_number_of_electrons: 50
 ---
 
 # [[Tin]] 
 
 #chemic/Element 
-[has_/name_/group::Group-14-Carbon]
-is_/part_of::[[../Group-14-Carbon]]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Tin 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Zinn 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::118.71 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::1.72]
-[has_/value_for_/volume_/ccm_/mol::16.3]
-[has_/value_for_/unknown2::1.41]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::7.344 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::2]
-[has_/value_for_/density::7.3]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::231.97 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::2270 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.227]
-[has_/value_for_/conductivity_/heat::0.666]
-[has_/value_for_/enthalpy::7.029]
-[has_/value_for_/energy_/form_/kj_/mol::295.8]
-(has_/number_of_/period::5)
-(has_/number_of_/group::14)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 #is_/same_as :: [[../../../WikiData/WD~Tin,1096]] 
 
 
@@ -124,7 +202,7 @@ has_/value_for_/temperature_/boil_/c ::2270
 
 ## #has_/text_of_/abstract 
 
-> **Tin** is a chemical element with the symbol (has_/name_/abbreviated::Sn) (from Latin: stannum) and atomic number (has_/number_of_/electrons::50). 
+> **Tin** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  (from Latin: stannum) and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > Tin is a silvery-coloured metal.
 >
 > Tin is soft enough to be cut with little force and a bar of tin can be bent by hand with little effort. 

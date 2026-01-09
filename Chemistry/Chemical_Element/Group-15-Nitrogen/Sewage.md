@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage|Sewage]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.public|Sewage.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.internal|Sewage.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.protect|Sewage.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.private|Sewage.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.personal|Sewage.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.secret|Sewage.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage|Sewage]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.public|Sewage.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.internal|Sewage.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.protect|Sewage.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.private|Sewage.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.personal|Sewage.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.secret|Sewage.secret]]"
+---
 
 
 ## #has_/text_of_/abstract 

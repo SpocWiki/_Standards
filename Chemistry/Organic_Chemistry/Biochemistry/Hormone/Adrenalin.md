@@ -5,68 +5,68 @@ aliases:
   - Adrenalin
 has_id_wikidata: Q132621
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~broad_bean,131342]]'
-  - '[[_Standards/WikiData/WD~Portulaca_grandiflora,159547]]'
-  - '[[_Standards/WikiData/WD~Crataegus_laevigata,159553]]'
-  - '[[_Standards/WikiData/WD~Crataegus_monogyna,161511]]'
-  - '[[_Standards/WikiData/WD~Bufo,639022]]'
-  - '[[_Standards/WikiData/WD~Crataegus_oxyacantha_L._(1753),3780432]]'
-  - '[[_Standards/WikiData/WD~Scoparia_dulcis,7787299]]'
-  - '[[_Standards/WikiData/WD~Hemidesmus_indicus,15356241]]'
+  - "[[_Standards/WikiData/WD~broad_bean,131342]]"
+  - "[[_Standards/WikiData/WD~Portulaca_grandiflora,159547]]"
+  - "[[_Standards/WikiData/WD~Crataegus_laevigata,159553]]"
+  - "[[_Standards/WikiData/WD~Crataegus_monogyna,161511]]"
+  - "[[_Standards/WikiData/WD~Bufo,639022]]"
+  - "[[_Standards/WikiData/WD~Crataegus_oxyacantha_L._(1753),3780432]]"
+  - "[[_Standards/WikiData/WD~Scoparia_dulcis,7787299]]"
+  - "[[_Standards/WikiData/WD~Hemidesmus_indicus,15356241]]"
 subject_has_role:
-  - '[[_Standards/WikiData/WD~neurotransmitter,162657]]'
-  - '[[_Standards/WikiData/WD~stress_hormone,2355954]]'
-  - '[[_Standards/WikiData/WD~alpha_adrenergic_agonist,4734924]]'
-  - '[[_Standards/WikiData/WD~adrenergic_beta_agonists,50316261]]'
-  - '[[_Standards/WikiData/WD~Adrenergic_beta_2_Agonists,50349107]]'
+  - "[[_Standards/WikiData/WD~neurotransmitter,162657]]"
+  - "[[_Standards/WikiData/WD~stress_hormone,2355954]]"
+  - "[[_Standards/WikiData/WD~alpha_adrenergic_agonist,4734924]]"
+  - "[[_Standards/WikiData/WD~adrenergic_beta_agonists,50316261]]"
+  - "[[_Standards/WikiData/WD~Adrenergic_beta_2_Agonists,50349107]]"
 medical_condition_treated:
-  - '[[_Standards/WikiData/WD~anaphylaxis,168800]]'
-  - '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
-  - '[[_Standards/WikiData/WD~bradycardia,217111]]'
-  - '[[_Standards/WikiData/WD~hypotension,275419]]'
-  - '[[_Standards/WikiData/WD~food_allergy,769815]]'
-  - '[[_Standards/WikiData/WD~ventricular_fibrillation,848662]]'
-  - '[[_Standards/WikiData/WD~septic_shock,1765564]]'
-  - '[[_Standards/WikiData/WD~open_angle_glaucoma,3108586]]'
-  - '[[_Standards/WikiData/WD~airway_obstruction,4330029]]'
+  - "[[_Standards/WikiData/WD~anaphylaxis,168800]]"
+  - "[[_Standards/WikiData/WD~cardiac_arrest,202837]]"
+  - "[[_Standards/WikiData/WD~bradycardia,217111]]"
+  - "[[_Standards/WikiData/WD~hypotension,275419]]"
+  - "[[_Standards/WikiData/WD~food_allergy,769815]]"
+  - "[[_Standards/WikiData/WD~ventricular_fibrillation,848662]]"
+  - "[[_Standards/WikiData/WD~septic_shock,1765564]]"
+  - "[[_Standards/WikiData/WD~open_angle_glaucoma,3108586]]"
+  - "[[_Standards/WikiData/WD~airway_obstruction,4330029]]"
 physically_interacts_with:
-  - '[[_Standards/WikiData/WD~Adrenoceptor_beta_1,287958]]'
-  - '[[_Standards/WikiData/WD~adrenoceptor_beta_2,287961]]'
-  - '[[_Standards/WikiData/WD~Adrenoceptor_alpha_1B,4734886]]'
-  - '[[_Standards/WikiData/WD~Adrenoceptor_alpha_1D,4734887]]'
-  - '[[_Standards/WikiData/WD~Adrenoceptor_alpha_1A,4734884]]'
-  - '[[_Standards/WikiData/WD~Adrenoceptor_alpha_2C,4734891]]'
-  - '[[_Standards/WikiData/WD~Adrenoceptor_alpha_2A,4734892]]'
-  - '[[_Standards/WikiData/WD~adrenoceptor_beta_3,4897175]]'
-  - '[[_Standards/WikiData/WD~Adrenoceptor_alpha_2B,21141045]]'
+  - "[[_Standards/WikiData/WD~Adrenoceptor_beta_1,287958]]"
+  - "[[_Standards/WikiData/WD~adrenoceptor_beta_2,287961]]"
+  - "[[_Standards/WikiData/WD~Adrenoceptor_alpha_1B,4734886]]"
+  - "[[_Standards/WikiData/WD~Adrenoceptor_alpha_1D,4734887]]"
+  - "[[_Standards/WikiData/WD~Adrenoceptor_alpha_1A,4734884]]"
+  - "[[_Standards/WikiData/WD~Adrenoceptor_alpha_2C,4734891]]"
+  - "[[_Standards/WikiData/WD~Adrenoceptor_alpha_2A,4734892]]"
+  - "[[_Standards/WikiData/WD~adrenoceptor_beta_3,4897175]]"
+  - "[[_Standards/WikiData/WD~Adrenoceptor_alpha_2B,21141045]]"
 significant_drug_interaction:
-  - '[[_Standards/WikiData/WD~linezolid,411377]]'
-  - '[[_Standards/WikiData/WD~trimipramine,423498]]'
-  - '[[_Standards/WikiData/WD~phenelzine,1747559]]'
-  - '[[_Standards/WikiData/WD~(E_Z)_doxepin,71704041]]'
-  - '[[_Standards/WikiData/WD~imipramine,58396]]'
-  - '[[_Standards/WikiData/WD~amitriptyline,58397]]'
-  - '[[_Standards/WikiData/WD~clomipramine,58713]]'
+  - "[[_Standards/WikiData/WD~linezolid,411377]]"
+  - "[[_Standards/WikiData/WD~trimipramine,423498]]"
+  - "[[_Standards/WikiData/WD~phenelzine,1747559]]"
+  - "[[_Standards/WikiData/WD~(E_Z)_doxepin,71704041]]"
+  - "[[_Standards/WikiData/WD~imipramine,58396]]"
+  - "[[_Standards/WikiData/WD~amitriptyline,58397]]"
+  - "[[_Standards/WikiData/WD~clomipramine,58713]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 active_ingredient_in:
-  - '[[_Standards/WikiData/WD~Epinephrine_autoinjector,2736787]]'
-  - '[[_Standards/WikiData/WD~Adrenalin,47520886]]'
-  - '[[_Standards/WikiData/WD~Auvi_Q,47521215]]'
-  - '[[_Standards/WikiData/WD~Symjepi,47522171]]'
-subclass_of: '[[_Standards/WikiData/WD~(_)_adrenaline,7279006]]'
-stereoisomer_of: '[[_Standards/WikiData/WD~(S)_racepinefrine,27074317]]'
-pregnancy_category: '[[_Standards/WikiData/WD~US_pregnancy_category_C,28123617]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~Epinephrine_autoinjector,2736787]]"
+  - "[[_Standards/WikiData/WD~Adrenalin,47520886]]"
+  - "[[_Standards/WikiData/WD~Auvi_Q,47521215]]"
+  - "[[_Standards/WikiData/WD~Symjepi,47522171]]"
+subclass_of: "[[_Standards/WikiData/WD~(_)_adrenaline,7279006]]"
+stereoisomer_of: "[[_Standards/WikiData/WD~(S)_racepinefrine,27074317]]"
+pregnancy_category: "[[_Standards/WikiData/WD~US_pregnancy_category_C,28123617]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~carbon,623]]'
-  - '[[_Standards/WikiData/WD~nitrogen,627]]'
-has_use: '[[_Standards/WikiData/WD~medication,12140]]'
+  - "[[_Standards/WikiData/WD~carbon,623]]"
+  - "[[_Standards/WikiData/WD~nitrogen,627]]"
+has_use: "[[_Standards/WikiData/WD~medication,12140]]"
 defined_daily_dose: 0.5
 melting_point: 218
-different_from: '[[_Standards/WikiData/WD~Adrenaline,60058]]'
+different_from: "[[_Standards/WikiData/WD~Adrenaline,60058]]"
 CCDC_Number: 1101358
 RxNorm_CUI: 3992
 PubChem_CID:
@@ -143,6 +143,25 @@ MeSH_tree_code:
 DSSTOX_compound_identifier: DTXCID802986
 Commons_category: Epinephrine
 stylized_name: EPINEPHrine
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Epinephrine,132621|WD~Epinephrine,132621]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin|Adrenalin]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.public|Adrenalin.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.internal|Adrenalin.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.protect|Adrenalin.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.private|Adrenalin.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.personal|Adrenalin.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.secret|Adrenalin.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Epinephrine,132621|WD~Epinephrine,132621]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin|Adrenalin]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.public|Adrenalin.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.internal|Adrenalin.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.protect|Adrenalin.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.private|Adrenalin.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.personal|Adrenalin.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Adrenalin.secret|Adrenalin.secret]]"
 ---
 
 # [[Adrenalin]] 

@@ -5,12 +5,31 @@ aliases:
   - Environmental_Chemistry
   - Environmental Chemistry
 has_id_wikidata: Q321355
-instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-practiced_by: '[[_Standards/WikiData/WD~environmental_chemist,66816554]]'
-subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
+instance_of: "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+practiced_by: "[[_Standards/WikiData/WD~environmental_chemist,66816554]]"
+subclass_of: "[[_Standards/WikiData/WD~chemistry,2329]]"
 All_Science_Journal_Classification_Codes: 2304
 Basisklassifikation: 43.12
 Commons_category: Environmental chemistry
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Environmental_chemistry,321355|WD~Environmental_chemistry,321355]]"
+    - "[[/_Standards/Chemistry/Branch_of_Chemistry/Environmental_Chemistry|Environmental_Chemistry]]"
+    - "[[/_public/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.public|Environmental_Chemistry.public]]"
+    - "[[/_internal/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.internal|Environmental_Chemistry.internal]]"
+    - "[[/_protect/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.protect|Environmental_Chemistry.protect]]"
+    - "[[/_private/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.private|Environmental_Chemistry.private]]"
+    - "[[/_personal/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.personal|Environmental_Chemistry.personal]]"
+    - "[[/_secret/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.secret|Environmental_Chemistry.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Environmental_chemistry,321355|WD~Environmental_chemistry,321355]]"
+  - "[[/_Standards/Chemistry/Branch_of_Chemistry/Environmental_Chemistry|Environmental_Chemistry]]"
+  - "[[/_public/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.public|Environmental_Chemistry.public]]"
+  - "[[/_internal/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.internal|Environmental_Chemistry.internal]]"
+  - "[[/_protect/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.protect|Environmental_Chemistry.protect]]"
+  - "[[/_private/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.private|Environmental_Chemistry.private]]"
+  - "[[/_personal/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.personal|Environmental_Chemistry.personal]]"
+  - "[[/_secret/Chemistry/Branch_of_Chemistry/Environmental_Chemistry.secret|Environmental_Chemistry.secret]]"
 ---
 
 # [[Environmental_Chemistry]] 

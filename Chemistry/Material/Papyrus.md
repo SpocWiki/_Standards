@@ -26,11 +26,32 @@ Commons_category: Papyri
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Papiro%20de%20Hunefer.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q125576-ar.oga
 Iconclass_notation: 49L642
+dv_is_:
+  similar_to: "[[Paper]]"
+  same_as:
+    - "[[../../WikiData/WD~Papyrus,125576]]"
+    - "[[/_Standards/Chemistry/Material/Papyrus|Papyrus]]"
+    - "[[/_public/Chemistry/Material/Papyrus.public|Papyrus.public]]"
+    - "[[/_internal/Chemistry/Material/Papyrus.internal|Papyrus.internal]]"
+    - "[[/_protect/Chemistry/Material/Papyrus.protect|Papyrus.protect]]"
+    - "[[/_private/Chemistry/Material/Papyrus.private|Papyrus.private]]"
+    - "[[/_personal/Chemistry/Material/Papyrus.personal|Papyrus.personal]]"
+    - "[[/_secret/Chemistry/Material/Papyrus.secret|Papyrus.secret]]"
+dv_is_similar_to: "[[Paper]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Papyrus,125576]]"
+  - "[[/_Standards/Chemistry/Material/Papyrus|Papyrus]]"
+  - "[[/_public/Chemistry/Material/Papyrus.public|Papyrus.public]]"
+  - "[[/_internal/Chemistry/Material/Papyrus.internal|Papyrus.internal]]"
+  - "[[/_protect/Chemistry/Material/Papyrus.protect|Papyrus.protect]]"
+  - "[[/_private/Chemistry/Material/Papyrus.private|Papyrus.private]]"
+  - "[[/_personal/Chemistry/Material/Papyrus.personal|Papyrus.personal]]"
+  - "[[/_secret/Chemistry/Material/Papyrus.secret|Papyrus.secret]]"
 ---
 
 # [[Papyrus]] 
 
-#is_/similar_to :: [[Paper]]
+is_similar_to = `=this.dv_is_similar_to` 
 #is_/same_as :: [[WD~Papyrus,125576]] 
 
 ## #has_/text_of_/abstract 

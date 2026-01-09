@@ -33,12 +33,19 @@ SMARTS_notation: "[NX3][CX3](=[OX1])[6]"
 Commons_category: Amides
 UMLS_CUI: C0002482
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/AMIDI.html
+dv_is_:
+  same_as: "[[WD~Amide,188777]]"
+dv_has_:
+  formula_:
+    structural: R−C(=O)−NR′R″
+dv_is_same_as: "[[WD~Amide,188777]]"
+dv_has_formula_structural: R−C(=O)−NR′R″
 ---
 
 # [[Amide]] 
 
-#is_/same_as :: [[WD~Amide,188777]] 
-#has_/formula_/structural :: R−C(=O)−NR′R″ 
+is_same_as = `=this.dv_is_same_as` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 ## #has_/text_of_/abstract 
 

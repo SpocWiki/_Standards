@@ -26,11 +26,14 @@ CXSMILES: "[*]C#N |$R$|"
 UMLS_CUI: C0028131
 MeSH_tree_code: D02.626
 Commons_category: Nitriles
+dv_is_:
+  same_as: "[[WD~Nitrile,333936]]"
+dv_is_same_as: "[[WD~Nitrile,333936]]"
 ---
 
 # [[Nitrile]] 
 
-#is_/same_as :: [[WD~Nitrile,333936]] 
+is_same_as = `=this.dv_is_same_as` 
 
 ## #has_/text_of_/abstract 
 

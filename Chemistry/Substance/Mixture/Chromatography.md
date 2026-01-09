@@ -16,6 +16,25 @@ Dewey_Decimal_Classification: "543.8"
 UMLS_CUI: C0008550
 Commons_category: Chromatography
 MeSH_tree_code: E05.196.181
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Chromatography,170050|WD~Chromatography,170050]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture/Chromatography|Chromatography]]"
+    - "[[/_public/Chemistry/Substance/Mixture/Chromatography.public|Chromatography.public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture/Chromatography.internal|Chromatography.internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture/Chromatography.protect|Chromatography.protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture/Chromatography.private|Chromatography.private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture/Chromatography.personal|Chromatography.personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture/Chromatography.secret|Chromatography.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Chromatography,170050|WD~Chromatography,170050]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture/Chromatography|Chromatography]]"
+  - "[[/_public/Chemistry/Substance/Mixture/Chromatography.public|Chromatography.public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture/Chromatography.internal|Chromatography.internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture/Chromatography.protect|Chromatography.protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture/Chromatography.private|Chromatography.private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture/Chromatography.personal|Chromatography.personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture/Chromatography.secret|Chromatography.secret]]"
 ---
 
 # [[Chromatography]] 

@@ -3,30 +3,30 @@ aliases:
   - Thorium
 has_id_wikidata: Q1115
 atomic_number: 90
-canonical_SMILES: '[Th]'
+canonical_SMILES: "[Th]"
 CAS_Registry_Number: 7440-29-1
 chemical_formula: Th
 Commons_category: Thorium
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 Dewey_Decimal_Classification:
   - 546.422
   - 669.2922
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
 DSSTOX_compound_identifier: DTXCID6029759
 EC_number: 231-139-7
 electronegativity: 1
 element_symbol: Th
-found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thorium%20sample%200.1g.jpg
 InChI: InChI=1S/Th
 InChIKey: ZSLUVFAKFWKJRC-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.94
   - 1.05
@@ -41,7 +41,7 @@ MeSH_tree_code:
   - D01.552.020.889
   - D01.552.544.850
 Mohs_hardness: 3
-named_after: '[[_Standards/WikiData/WD~Thor,42952]]'
+named_after: "[[_Standards/WikiData/WD~Thor,42952]]"
 OmegaWiki_Defined_Meaning: 365213
 oxidation_state:
   - 1
@@ -49,8 +49,8 @@ oxidation_state:
   - 3
   - 4
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~actinide,19577]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20151.jpg
 PubChem_CID: 23960
 SpocWebEntityId: 21985
@@ -59,42 +59,120 @@ type: Element
 UMLS_CUI: C0039994
 Unicode_character: 釷
 UNII: 60YU5MIG9W
+dv_has_:
+  name_:
+    group: Actinide-Group
+    en: Thorium
+    de: Thorium
+    abbreviated: Th
+  value_for_:
+    weight_:
+      u: 232.0381
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 19.9
+    unknown2: 1.65
+    radius_:
+      nano_:
+        m: 6.08
+    electronegativity: 1.3
+    density: 11.7
+    temperature_:
+      melt_:
+        c: 1750
+      boil_:
+        c: 4790
+    capacity_:
+      heat: 0.12
+    conductivity_:
+      heat: 0.54
+    enthalpy: 16.1
+    energy_:
+      form_:
+        kj_:
+          mol: 514.4
+  number_of_:
+    period: 7
+    group: 24
+    electrons: 90
+dv_is_:
+  part_of: "[[../Actinide]]"
+  same_as:
+    - "[[../../../WikiData/WD~Thorium,1115]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Thorium|Thorium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Actinide/Thorium.public|Thorium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Thorium.internal|Thorium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Thorium.protect|Thorium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Actinide/Thorium.private|Thorium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Thorium.personal|Thorium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Thorium.secret|Thorium.secret]]"
+dv_has_name_group: Actinide-Group
+dv_is_part_of: "[[../Actinide]]"
+dv_has_name_en: Thorium
+dv_has_name_de: Thorium
+dv_has_name_abbreviated: Th
+dv_has_value_for_weight_u: 232.0381
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 19.9
+dv_has_value_for_unknown2: 1.65
+dv_has_value_for_radius_nano_m: 6.08
+dv_has_value_for_electronegativity: 1.3
+dv_has_value_for_density: 11.7
+dv_has_value_for_temperature_melt_c: 1750
+dv_has_value_for_temperature_boil_c: 4790
+dv_has_value_for_capacity_heat: 0.12
+dv_has_value_for_conductivity_heat: 0.54
+dv_has_value_for_enthalpy: 16.1
+dv_has_value_for_energy_form_kj_mol: 514.4
+dv_has_number_of_period: 7
+dv_has_number_of_group: 24
+dv_has_number_of_electrons: 90
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Thorium,1115]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Thorium|Thorium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Actinide/Thorium.public|Thorium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Thorium.internal|Thorium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Thorium.protect|Thorium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Actinide/Thorium.private|Thorium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Thorium.personal|Thorium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Thorium.secret|Thorium.secret]]"
 ---
 
 # [[Thorium]] 
 
 #chemic/Element 
-[has_/name_/group::Actinide-Group]
-is_/part_of::[[../Actinide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Thorium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Thorium 
+has_name_de = `=this.dv_has_name_de` 
 
-(has_/name_/abbreviated::Th)
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-has_/value_for_/weight_/u::232.0381 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::0]
-[has_/value_for_/volume_/ccm_/mol::19.9]
-[has_/value_for_/unknown2::1.65]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.08 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.3]
-[has_/value_for_/density::11.7]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::1750 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::4790 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.12]
-[has_/value_for_/conductivity_/heat::0.54]
-[has_/value_for_/enthalpy::16.1]
-[has_/value_for_/energy_/form_/kj_/mol::514.4]
-(has_/number_of_/period::7)
-(has_/number_of_/group::24)
-(has_/number_of_/electrons::90)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 #is_/same_as :: [[../../../WikiData/WD~Thorium,1115]] 
 

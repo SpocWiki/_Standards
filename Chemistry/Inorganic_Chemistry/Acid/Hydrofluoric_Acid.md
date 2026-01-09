@@ -4,17 +4,17 @@ aliases:
   - Hydrofluoric_Acid
   - Hydrofluoric Acid
 has_id_wikidata: Q209569
-named_after: '[[_Standards/WikiData/WD~fluorite,102151]]'
-found_in_taxon: '[[_Standards/WikiData/WD~Catha_edulis,207642]]'
+named_after: "[[_Standards/WikiData/WD~fluorite,102151]]"
+found_in_taxon: "[[_Standards/WikiData/WD~Catha_edulis,207642]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~aqueous_solution,906356]]'
-  - '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-subclass_of: '[[_Standards/WikiData/WD~hydrohalic_acid,12018897]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+  - "[[_Standards/WikiData/WD~aqueous_solution,906356]]"
+  - "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+subclass_of: "[[_Standards/WikiData/WD~hydrohalic_acid,12018897]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~water,283]]'
-  - '[[_Standards/WikiData/WD~hydrogen_fluoride,2468]]'
+  - "[[_Standards/WikiData/WD~water,283]]"
+  - "[[_Standards/WikiData/WD~hydrogen_fluoride,2468]]"
 melting_point: -44
 pKa: 3.17
 boiling_point: 85.8
@@ -37,6 +37,25 @@ DSSTOX_compound_identifier: DTXCID8029600
 Commons_category: Hydrofluoric acid
 RTECS_number: MW7875000
 mass: 20.006228252
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Hydrofluoric_acid,209569|WD~Hydrofluoric_acid,209569]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid|Hydrofluoric_Acid]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.public|Hydrofluoric_Acid.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.internal|Hydrofluoric_Acid.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.protect|Hydrofluoric_Acid.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.private|Hydrofluoric_Acid.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.personal|Hydrofluoric_Acid.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.secret|Hydrofluoric_Acid.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Hydrofluoric_acid,209569|WD~Hydrofluoric_acid,209569]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid|Hydrofluoric_Acid]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.public|Hydrofluoric_Acid.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.internal|Hydrofluoric_Acid.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.protect|Hydrofluoric_Acid.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.private|Hydrofluoric_Acid.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.personal|Hydrofluoric_Acid.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Hydrofluoric_Acid.secret|Hydrofluoric_Acid.secret]]"
 ---
 
 # [[Hydrofluoric_Acid]] 

@@ -11,45 +11,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - chemical_substance
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_chemical_substance Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_chemical_substance Class
 type: Type
 has_characteristic:
-  - '[[_Standards/WikiData/WD~cohesion,216828]]'
-  - '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
+  - "[[_Standards/WikiData/WD~cohesion,216828]]"
+  - "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Stoff,341867]]'
-  - '[[_Standards/WikiData/WD~chemical_substance,55661792]]'
-  - '[[_Standards/WikiData/WD~Stof,123360405]]'
+  - "[[_Standards/WikiData/WD~Stoff,341867]]"
+  - "[[_Standards/WikiData/WD~chemical_substance,55661792]]"
+  - "[[_Standards/WikiData/WD~Stof,123360405]]"
 model_item:
-  - '[[_Standards/WikiData/WD~pure_substance,578779]]'
-  - '[[_Standards/WikiData/WD~chemical_product,1069267]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~molecular_entity,2393187]]'
+  - "[[_Standards/WikiData/WD~pure_substance,578779]]"
+  - "[[_Standards/WikiData/WD~chemical_product,1069267]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~molecular_entity,2393187]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~substance,10683158]]'
-  - '[[_Standards/WikiData/WD~chemical_entity,43460564]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+  - "[[_Standards/WikiData/WD~substance,10683158]]"
+  - "[[_Standards/WikiData/WD~chemical_entity,43460564]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 studied_by:
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~chemistry,2329]]'
+  - "[[_Standards/WikiData/WD~physics,413]]"
+  - "[[_Standards/WikiData/WD~chemistry,2329]]"
 Dewey_Decimal_Classification:
   - 501
   - 547
   - 546
 OmegaWiki_Defined_Meaning: 557
-P8189: 987007285071005171
+P8189: 987007285071005200
 Commons_category: Chemical substances
 equivalent_class:
   - http://bioschemas.org/ChemicalSubstance
@@ -60,6 +60,32 @@ narrower_external_class: http://id.nlm.nih.gov/mesh/vocab#SCR_Chemical
 Iconclass_notation: 22A1
 UMLS_CUI: C0220806
 IPTC_NewsCode: mediatopic/20000217
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../../schema-org/Class/is_a_/Bio_Chem_Entity|bio_chem_entity]]"
+  same_as:
+    - "[[../../WikiData/WD~Chemical_substance,79529|WD~Chemical_substance,79529]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance|Chemical_Substance]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance.public|Chemical_Substance.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance.internal|Chemical_Substance.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance.protect|Chemical_Substance.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance.private|Chemical_Substance.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance.personal|Chemical_Substance.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance.secret|Chemical_Substance.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../../schema-org/Class/is_a_/Bio_Chem_Entity|bio_chem_entity]]"
+dv_has_properties: "[ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Chemical_substance,79529|WD~Chemical_substance,79529]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance|Chemical_Substance]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance.public|Chemical_Substance.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance.internal|Chemical_Substance.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance.protect|Chemical_Substance.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance.private|Chemical_Substance.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance.personal|Chemical_Substance.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance.secret|Chemical_Substance.secret]]"
 ---
 
 # [[Chemical_Substance]] 
@@ -69,14 +95,14 @@ Class of all chemical_substances.
 Tag Instances like this: 
 #is_a_/chemical_substance
 
-#is_/part_of :: https://pending.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 A chemical substance is 'a portion of matter of constant composition, 
 composed of molecular entities of the same type or of different types' (source: <a href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=59999">ChEBI:59999</a>).
 
-#is_/sub_class_of :: [[../../schema-org/Class/is_a_/bio_chem_entity|bio_chem_entity]] 
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-#has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ]  
+has_properties = `=this.dv_has_properties` 
 
 #is_/same_as :: [[../../WikiData/WD~Chemical_substance,79529|WD~Chemical_substance,79529]] 
 

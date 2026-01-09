@@ -5,103 +5,181 @@ has_id_wikidata: Q654
 ASHRAE_refrigerant_number: 720
 atomic_number: 10
 boiling_point: -246
-canonical_SMILES: '[Ne]'
+canonical_SMILES: "[Ne]"
 CAS_Registry_Number: 7440-01-9
 chemical_formula: Ne
 Commons_category: Neon
 Commons_gallery: Neon
-conjugate_acid: '[[_Standards/WikiData/WD~neonium_ion,64995456]]'
+conjugate_acid: "[[_Standards/WikiData/WD~neonium_ion,64995456]]"
 density:
   - 1.204
   - 1.444
   - 0.90035
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-different_from: '[[_Standards/WikiData/WD~Neon,234950]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+different_from: "[[_Standards/WikiData/WD~Neon,234950]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Morris_Travers,380209]]'
-  - '[[_Standards/WikiData/WD~William_Ramsay,950726]]'
+  - "[[_Standards/WikiData/WD~Morris_Travers,380209]]"
+  - "[[_Standards/WikiData/WD~William_Ramsay,950726]]"
 DSSTOX_compound_identifier: DTXCID2047642
 EC_number: 231-110-9
 electron_configuration:
-  - '[He] 2s² 2p⁶'
+  - "[He] 2s² 2p⁶"
   - 1s² 2s² 2p⁶
 element_symbol: Ne
 has_characteristic:
-  - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-  - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
+  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
+  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NeTube.jpg
 InChI: InChI=1S/Ne
 InChIKey: GKAOGPIIYCISHV-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
-location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+  - "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 mass: 20.1797
 melting_point: -248.6
 MeSH_tree_code:
   - D01.268.613.600
   - D01.362.641.592
-named_after: '[[_Standards/WikiData/WD~novelty,12544101]]'
+named_after: "[[_Standards/WikiData/WD~novelty,12544101]]"
 OmegaWiki_Defined_Meaning: 159119
 part_of:
-  - '[[_Standards/WikiData/WD~period_2,207712]]'
-  - '[[_Standards/WikiData/WD~noble_gases,19609]]'
+  - "[[_Standards/WikiData/WD~period_2,207712]]"
+  - "[[_Standards/WikiData/WD~noble_gases,19609]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Neon-ar.ogg
 PubChem_CID: 23935
 speed_of_sound: 435
 SpocWebEntityId: 21912
 standard_molar_entropy: 146.2
-subclass_of: '[[_Standards/WikiData/WD~noble_gases,19609]]'
+subclass_of: "[[_Standards/WikiData/WD~noble_gases,19609]]"
 time_of_discovery_or_invention: 1898
 type: Element
 UMLS_CUI: C0027608
 Unicode_character: 氖
 UNII: 4VB4Y46AHD
 ZVG_number: 7100
+dv_has_:
+  name_:
+    group: Group-18-Nobel-Gases
+    en: Neon
+    de: Neon
+    abbreviated: Ne
+  value_for_:
+    weight_:
+      u: 20.17
+    radius: 0.51
+    volume_:
+      ccm_:
+        mol: 16.7
+    unknown2: 0.71
+    radius_:
+      nano_:
+        m: 21.564
+    electronegativity: 0
+    density: 0.901
+    temperature_:
+      melt_:
+        c: -248.7
+      boil_:
+        c: -246.05
+    capacity_:
+      heat: 0.904
+    conductivity_:
+      heat: 0.000493
+    enthalpy: 0.3317
+    energy_:
+      form_:
+        kj_:
+          mol: 1.7326
+  number_of_:
+    period: 2
+    group: 18
+    electrons: 10
+dv_is_:
+  part_of: "[[../Group-18-Nobel-Gases]]"
+  same_as:
+    - "[[../../../WikiData/WD~Neon,654]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon|Neon]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.public|Neon.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.internal|Neon.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.protect|Neon.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.private|Neon.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.personal|Neon.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.secret|Neon.secret]]"
+dv_has_name_group: Group-18-Nobel-Gases
+dv_is_part_of: "[[../Group-18-Nobel-Gases]]"
+dv_has_name_en: Neon
+dv_has_name_de: Neon
+dv_has_value_for_weight_u: 20.17
+dv_has_value_for_radius: 0.51
+dv_has_value_for_volume_ccm_mol: 16.7
+dv_has_value_for_unknown2: 0.71
+dv_has_value_for_radius_nano_m: 21.564
+dv_has_value_for_electronegativity: 0
+dv_has_value_for_density: 0.901
+dv_has_value_for_temperature_melt_c: -248.7
+dv_has_value_for_temperature_boil_c: -246.05
+dv_has_value_for_capacity_heat: 0.904
+dv_has_value_for_conductivity_heat: 0.000493
+dv_has_value_for_enthalpy: 0.3317
+dv_has_value_for_energy_form_kj_mol: 1.7326
+dv_has_number_of_period: 2
+dv_has_number_of_group: 18
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Neon,654]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon|Neon]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.public|Neon.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.internal|Neon.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.protect|Neon.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.private|Neon.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.personal|Neon.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.secret|Neon.secret]]"
+dv_has_name_abbreviated: Ne
+dv_has_number_of_electrons: 10
 ---
 
 # [[Neon]]
 
 #chemic/Element 
-[has_/name_/group::Group-18-Nobel-Gases]
-is_/part_of::[[../Group-18-Nobel-Gases]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Neon 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Neon 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::20.17 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::0.51]
-[has_/value_for_/volume_/ccm_/mol::16.7]
-[has_/value_for_/unknown2::0.71]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::21.564 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::0]
-[has_/value_for_/density::0.901]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::-248.7 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::-246.05 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.904]
-[has_/value_for_/conductivity_/heat::0.000493]
-[has_/value_for_/enthalpy::0.3317]
-[has_/value_for_/energy_/form_/kj_/mol::1.7326]
-(has_/number_of_/period::2)
-(has_/number_of_/group::18)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Neon,654]] 
 
 ## #has_/text_of_/abstract 
 
-> **Neon** is a chemical element with the symbol (has_/name_/abbreviated::Ne) and atomic number (has_/number_of_/electrons::10). 
+> **Neon** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a noble gas. Neon is a colorless, odorless, inert monatomic gas under standard conditions, 
 > with about two-thirds the density of air. 
 > 

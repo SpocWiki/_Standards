@@ -3,15 +3,15 @@ aliases:
   - Thulium
 has_id_wikidata: Q1853
 atomic_number: 69
-canonical_SMILES: '[Tm]'
+canonical_SMILES: "[Tm]"
 CAS_Registry_Number: 7440-30-4
 chemical_formula: Tm
 Commons_category: Thulium
 Commons_gallery: Thulium
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]"
 DSSTOX_compound_identifier: DTXCID1047657
 EC_number: 231-140-2
 electronegativity: 1
@@ -20,7 +20,7 @@ Gmelin_number: 16307
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thulium%20sublimed%20dendritic%20and%201cm3%20cube.jpg
 InChI: InChI=1S/Tm
 InChIKey: FRNOGLGSGLTDKL-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.88
   - 0.99
@@ -31,20 +31,100 @@ MeSH_tree_code:
   - D01.268.558.362.984
   - D01.552.550.399.984
 named_after:
-  - '[[_Standards/WikiData/WD~Thule,671008]]'
-  - '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+  - "[[_Standards/WikiData/WD~Thule,671008]]"
+  - "[[_Standards/WikiData/WD~Scandinavia,21195]]"
 OmegaWiki_Defined_Meaning: 367509
 part_of:
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
-  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
 PubChem_CID: 23961
 SpocWebEntityId: 21965
 time_of_discovery_or_invention: 1879
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_thulium,8085525]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_thulium,8085525]]"
 type: Element
 UMLS_CUI: C0040066
 Unicode_character: 銩
 UNII: 8RKC5ATI4P
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Thulium,1853]]"
+    - "[[../../../WikiData/WD~Thulium,1853|WD~Thulium,1853]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Thulium|Thulium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Thulium.public|Thulium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Thulium.internal|Thulium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Thulium.protect|Thulium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Thulium.private|Thulium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Thulium.personal|Thulium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Thulium.secret|Thulium.secret]]"
+  part_of: "[[../Lanthanide]]"
+dv_has_:
+  name_:
+    group: Lanthanide-Group
+    en: Thulium
+    de: Thulium
+    abbreviated: Tm
+  value_for_:
+    weight_:
+      u: 168.9342
+    radius: 2.42
+    volume_:
+      ccm_:
+        mol: 18.1
+    unknown2: 1.56
+    radius_:
+      nano_:
+        m: 6.184
+    electronegativity: 1.3
+    density: 9.33
+    temperature_:
+      melt_:
+        c: 1545
+      boil_:
+        c: 1727
+    capacity_:
+      heat: 0.16
+    conductivity_:
+      heat: 0.168
+    enthalpy: 16.84
+    energy_:
+      form_:
+        kj_:
+          mol: 191
+  number_of_:
+    period: 6
+    group: 35
+    electrons: 69
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Thulium,1853]]"
+  - "[[../../../WikiData/WD~Thulium,1853|WD~Thulium,1853]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Thulium|Thulium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Thulium.public|Thulium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Thulium.internal|Thulium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Thulium.protect|Thulium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Thulium.private|Thulium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Thulium.personal|Thulium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Thulium.secret|Thulium.secret]]"
+dv_has_name_group: Lanthanide-Group
+dv_is_part_of: "[[../Lanthanide]]"
+dv_has_name_en: Thulium
+dv_has_name_de: Thulium
+dv_has_value_for_weight_u: 168.9342
+dv_has_value_for_radius: 2.42
+dv_has_value_for_volume_ccm_mol: 18.1
+dv_has_value_for_unknown2: 1.56
+dv_has_value_for_radius_nano_m: 6.184
+dv_has_value_for_electronegativity: 1.3
+dv_has_value_for_density: 9.33
+dv_has_value_for_temperature_melt_c: 1545
+dv_has_value_for_temperature_boil_c: 1727
+dv_has_value_for_capacity_heat: 0.16
+dv_has_value_for_conductivity_heat: 0.168
+dv_has_value_for_enthalpy: 16.84
+dv_has_value_for_energy_form_kj_mol: 191
+dv_has_number_of_period: 6
+dv_has_number_of_group: 35
+dv_has_name_abbreviated: Tm
+dv_has_number_of_electrons: 69
 ---
 
 # [[Thulium]] 
@@ -52,39 +132,39 @@ UNII: 8RKC5ATI4P
 #is_/same_as :: [[../../../WikiData/WD~Thulium,1853]] 
 
 #chemic/Element 
-[has_/name_/group::Lanthanide-Group]
-is_/part_of::[[../Lanthanide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Thulium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Thulium 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::168.9342 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::2.42]
-[has_/value_for_/volume_/ccm_/mol::18.1]
-[has_/value_for_/unknown2::1.56]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.184 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.3]
-[has_/value_for_/density::9.33]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::1545 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::1727 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.16]
-[has_/value_for_/conductivity_/heat::0.168]
-[has_/value_for_/enthalpy::16.84]
-[has_/value_for_/energy_/form_/kj_/mol::191]
-(has_/number_of_/period::6)
-(has_/number_of_/group::35)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 #is_/same_as :: [[../../../WikiData/WD~Thulium,1853|WD~Thulium,1853]] 
 
 ## #has_/text_of_/abstract 
 
-> **Thulium** is a chemical element with the symbol (has_/name_/abbreviated::Tm) and atomic number (has_/number_of_/electrons::69). It is the thirteenth and third-last element in the lanthanide series. Like the other lanthanides, the most common oxidation state is +3, seen in its oxide, halides and other compounds; however, the +2 oxidation state can also be stable. In aqueous solution, like compounds of other late lanthanides, soluble thulium compounds form coordination complexes with nine water molecules.
+> **Thulium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . It is the thirteenth and third-last element in the lanthanide series. Like the other lanthanides, the most common oxidation state is +3, seen in its oxide, halides and other compounds; however, the +2 oxidation state can also be stable. In aqueous solution, like compounds of other late lanthanides, soluble thulium compounds form coordination complexes with nine water molecules.
 >
 > In 1879, the Swedish chemist Per Teodor Cleve separated from the rare earth oxide erbia another two previously unknown components, which he called holmia and thulia; these were the oxides of holmium and thulium, respectively. A relatively pure sample of thulium metal was first obtained in 1911.
 >

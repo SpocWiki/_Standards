@@ -71,6 +71,86 @@ time_of_discovery_or_invention: 1811
 type: Element
 UMLS_CUI: C0021968
 Unicode_character: 碘
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Iodine,1103]]"
+    - "[[../../../WikiData/WD~Iodine,1103|WD~Iodine,1103]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Iodine|Iodine]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.public|Iodine.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.internal|Iodine.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.protect|Iodine.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.private|Iodine.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.personal|Iodine.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.secret|Iodine.secret]]"
+  part_of: "[[../Group-17-Halogen]]"
+dv_has_:
+  name_:
+    group: Group-17-Halogene
+    en: Iodine
+    de: Iod
+    abbreviated: I
+  value_for_:
+    weight_:
+      u: 126.9045
+    radius: 1.32
+    volume_:
+      ccm_:
+        mol: 25.74
+    unknown2: 1.33
+    radius_:
+      nano_:
+        m: 10.451
+    electronegativity: 2.7
+    density: 4.92
+    temperature_:
+      melt_:
+        c: 113.5
+      boil_:
+        c: 184.35
+    capacity_:
+      heat: 0.214
+    conductivity_:
+      heat: 0.00449
+    enthalpy: 7.824
+    energy_:
+      form_:
+        kj_:
+          mol: 23.752
+  number_of_:
+    period: 5
+    group: 17
+    electrons: 52
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Iodine,1103]]"
+  - "[[../../../WikiData/WD~Iodine,1103|WD~Iodine,1103]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Iodine|Iodine]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.public|Iodine.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.internal|Iodine.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.protect|Iodine.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.private|Iodine.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.personal|Iodine.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.secret|Iodine.secret]]"
+dv_has_name_group: Group-17-Halogene
+dv_is_part_of: "[[../Group-17-Halogen]]"
+dv_has_name_en: Iodine
+dv_has_name_de: Iod
+dv_has_value_for_weight_u: 126.9045
+dv_has_value_for_radius: 1.32
+dv_has_value_for_volume_ccm_mol: 25.74
+dv_has_value_for_unknown2: 1.33
+dv_has_value_for_radius_nano_m: 10.451
+dv_has_value_for_electronegativity: 2.7
+dv_has_value_for_density: 4.92
+dv_has_value_for_temperature_melt_c: 113.5
+dv_has_value_for_temperature_boil_c: 184.35
+dv_has_value_for_capacity_heat: 0.214
+dv_has_value_for_conductivity_heat: 0.00449
+dv_has_value_for_enthalpy: 7.824
+dv_has_value_for_energy_form_kj_mol: 23.752
+dv_has_number_of_period: 5
+dv_has_number_of_group: 17
+dv_has_name_abbreviated: I
+dv_has_number_of_electrons: 52
 ---
 
 # [[Iodine]] 
@@ -78,40 +158,40 @@ Unicode_character: 碘
 #is_/same_as :: [[../../../WikiData/WD~Iodine,1103]]  
 
 #chemic/Element 
-[has_/name_/group::Group-17-Halogene]
-is_/part_of::[[../Group-17-Halogen]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Iodine 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Iod 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::126.9045 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::1.32]
-[has_/value_for_/volume_/ccm_/mol::25.74]
-[has_/value_for_/unknown2::1.33]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::10.451 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::2.7]
-[has_/value_for_/density::4.92]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::113.5 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::184.35 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.214]
-[has_/value_for_/conductivity_/heat::0.00449]
-[has_/value_for_/enthalpy::7.824]
-[has_/value_for_/energy_/form_/kj_/mol::23.752]
-(has_/number_of_/period::5)
-(has_/number_of_/group::17)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Iodine,1103|WD~Iodine,1103]] 
 
 ## #has_/text_of_/abstract 
 
-> **Iodine** is a chemical element with the symbol (has_/name_/abbreviated::I) and atomic number (has_/number_of_/electrons::52). 
+> **Iodine** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > The heaviest of the stable halogens, it exists as a semi-lustrous, 
 > non-metallic solid at standard conditions that melts to form a deep violet liquid at 114 °C (237 °F), 
 > and boils to a violet gas at 184 °C (363 °F). 

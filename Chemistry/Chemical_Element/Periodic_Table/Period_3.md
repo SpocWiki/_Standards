@@ -6,6 +6,25 @@ follows: "[[_Standards/WikiData/WD~period_2,207712]]"
 followed_by: "[[_Standards/WikiData/WD~period_4,239825]]"
 has_part_s_: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 Commons_category: Periodic table row 3
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Period_3,211331|WD~Period_3,211331]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_3|Period_3]]"
+    - "[[/_public/Chemistry/Chemical_Element/Periodic_Table/Period_3.public|Period_3.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_3.internal|Period_3.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_3.protect|Period_3.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Periodic_Table/Period_3.private|Period_3.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_3.personal|Period_3.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_3.secret|Period_3.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Period_3,211331|WD~Period_3,211331]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_3|Period_3]]"
+  - "[[/_public/Chemistry/Chemical_Element/Periodic_Table/Period_3.public|Period_3.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_3.internal|Period_3.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_3.protect|Period_3.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Periodic_Table/Period_3.private|Period_3.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_3.personal|Period_3.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_3.secret|Period_3.secret]]"
 ---
 
 # [[Period_3]] 

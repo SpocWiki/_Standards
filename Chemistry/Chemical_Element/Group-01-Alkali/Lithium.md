@@ -119,34 +119,115 @@ MeSH_tree_code:
 DSSTOX_compound_identifier: DTXCID101012138
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/LITI.html
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20003%20Lithium%20-%20no%20label.svg
+dv_has_:
+  name_:
+    group: Group-01-Alkali
+    abbreviated: Li
+  value_for_:
+    radius: 2.05
+    volume_:
+      ccm_:
+        mol: 13.1
+    unknown2: 1.23
+    electronegativity: 1
+    density: 0.53
+    capacity_:
+      heat: 3.6
+    conductivity_:
+      heat: 0.847
+    enthalpy: 3
+    energy_:
+      form_:
+        kj_:
+          mol: 145.92
+  number_of_:
+    period: 2
+    group: 1
+    electrons: 3
+dv_is_:
+  part_of: "[[../Group-01-Alkali]]"
+  same_as:
+    - "[[../../../WikiData/WD~Lithium,568|WD~Lithium,568]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Lithium|Lithium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.public|Lithium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.internal|Lithium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.protect|Lithium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.private|Lithium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.personal|Lithium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.secret|Lithium.secret]]"
+dv_#has_:
+  name_:
+    en: Lithium
+    de: Lithium
+  value_for_:
+    weight_:
+      u: 6.941
+    radius_:
+      nano_:
+        m: 5.392
+    temperature_:
+      melt_:
+        c: 180.54
+      boil_:
+        c: 1347
+dv_has_name_group: Group-01-Alkali
+dv_is_part_of: "[[../Group-01-Alkali]]"
+dv_has_name_en: Lithium
+dv_has_name_de: Lithium
+dv_has_name_abbreviated: Li
+dv_has_value_for_weight_u: 6.941
+dv_has_value_for_radius: 2.05
+dv_has_value_for_volume_ccm_mol: 13.1
+dv_has_value_for_unknown2: 1.23
+dv_has_value_for_radius_nano_m: 5.392
+dv_has_value_for_electronegativity: 1
+dv_has_value_for_density: 0.53
+dv_has_value_for_temperature_melt_c: 180.54
+dv_has_value_for_temperature_boil_c: 1347
+dv_has_value_for_capacity_heat: 3.6
+dv_has_value_for_conductivity_heat: 0.847
+dv_has_value_for_enthalpy: 3
+dv_has_value_for_energy_form_kj_mol: 145.92
+dv_has_number_of_period: 2
+dv_has_number_of_group: 1
+dv_has_number_of_electrons: 3
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Lithium,568|WD~Lithium,568]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Lithium|Lithium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.public|Lithium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.internal|Lithium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.protect|Lithium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.private|Lithium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.personal|Lithium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.secret|Lithium.secret]]"
 ---
 
 # [[Lithium]] 
 
 #chemic/Element 
-[has_/name_/group::Group-01-Alkali]
-is_/part_of::[[../Group-01-Alkali]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
 
-[#has_/name_/en::Lithium]
-[#has_/name_/de::Lithium]
-(has_/name_/abbreviated::Li)
-[#has_/value_for_/weight_/u::6.941]
-[has_/value_for_/radius::2.05]
-[has_/value_for_/volume_/ccm_/mol::13.1]
-[has_/value_for_/unknown2::1.23]
-[#has_/value_for_/radius_/nano_/m::5.392]
-[has_/value_for_/electronegativity::1]
-[has_/value_for_/density::0.53]
-[#has_/value_for_/temperature_/melt_/c ::180.54]
-[#has_/value_for_/temperature_/boil_/c ::1347]
-[has_/value_for_/capacity_/heat::3.6]
-[has_/value_for_/conductivity_/heat::0.847]
-[has_/value_for_/enthalpy::3]
-[has_/value_for_/energy_/form_/kj_/mol::145.92]
-(has_/number_of_/period::2)
-(has_/number_of_/group::1)
-(has_/number_of_/electrons::3)
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 #is_/same_as :: [[../../../WikiData/WD~Lithium,568|WD~Lithium,568]]  
 

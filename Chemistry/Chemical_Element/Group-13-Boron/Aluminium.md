@@ -3,12 +3,12 @@ aliases:
   - aluminum
   - Aluminium
 has_id_wikidata: Q663
-associated_hazard: '[[_Standards/WikiData/WD~aluminium_exposure,21167711]]'
+associated_hazard: "[[_Standards/WikiData/WD~aluminium_exposure,21167711]]"
 atomic_number: 13
 boiling_point:
   - 2327
   - 4221
-canonical_SMILES: '[Al]'
+canonical_SMILES: "[Al]"
 CAS_Registry_Number: 7429-90-5
 Commons_category: Aluminium
 Commons_gallery: Aluminium
@@ -17,50 +17,50 @@ CosIng_number: 32811
 CPV_Supplementary_code: AA02
 density: 2.7
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]'
-  - '[[_Standards/WikiData/WD~Aluminium,84661872]]'
-  - '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]"
+  - "[[_Standards/WikiData/WD~Aluminium,84661872]]"
+  - "[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 Dewey_Decimal_Classification: 669.722
 different_from:
-  - '[[_Standards/WikiData/WD~Al,12784077]]'
+  - "[[_Standards/WikiData/WD~Al,12784077]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
-  - '[[_Standards/WikiData/WD~Hans_Christian_Ørsted,44412]]'
+  - "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
+  - "[[_Standards/WikiData/WD~Hans_Christian_Ørsted,44412]]"
 DSSTOX_compound_identifier: DTXCID50875760
 EC_number: 231-072-3
 electrical_conductivity: 35000000
 electronegativity: 1.61
 electron_configuration:
-  - '[Ne] 3s² 3p¹'
+  - "[Ne] 3s² 3p¹"
   - 1s² 2s² 2p⁶ 3s² 3p¹
 element_symbol: Al
 E_number: E173
-found_in_taxon: '[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
 Gmelin_number: 16248
 has_effect:
-  - '[[_Standards/WikiData/WD~aluminium_exposure,21167711]]'
-has_use: '[[_Standards/WikiData/WD~dye,189720]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_aluminium,43884467]]'
+  - "[[_Standards/WikiData/WD~aluminium_exposure,21167711]]"
+has_use: "[[_Standards/WikiData/WD~dye,189720]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_aluminium,43884467]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aluminium-4.jpg
 InChI: InChI=1S/Al
 InChIKey: XAGFODPZIPBFFR-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
-  - '[[_Standards/WikiData/WD~metal,11426]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - "[[_Standards/WikiData/WD~metal,11426]]"
 ionic_radius:
   - 0.39
   - 0.48
   - 0.54
 Krugosvet_article: nauka_i_tehnika/fizika/ALYUMINI.html
 made_from_material:
-  - '[[_Standards/WikiData/WD~bauxite,102078]]'
+  - "[[_Standards/WikiData/WD~bauxite,102078]]"
 mass: 26.9815384
 melting_point:
   - 660
@@ -68,32 +68,32 @@ melting_point:
 MeSH_tree_code:
   - D01.268.557.050
   - D01.552.547.050
-model_item: '[[_Standards/WikiData/WD~aluminium,11685531]]'
-named_after: '[[_Standards/WikiData/WD~alum,190527]]'
+model_item: "[[_Standards/WikiData/WD~aluminium,11685531]]"
+named_after: "[[_Standards/WikiData/WD~alum,190527]]"
 OmegaWiki_Defined_Meaning: 149
 oxidation_state:
   - 1
   - 2
   - 3
 part_of:
-  - '[[_Standards/WikiData/WD~group_13,189294]]'
-  - '[[_Standards/WikiData/WD~period_3,211331]]'
+  - "[[_Standards/WikiData/WD~group_13,189294]]"
+  - "[[_Standards/WikiData/WD~period_3,211331]]"
 permanent_duplicated_item:
-  - '[[_Standards/WikiData/WD~Q29583098,29583098]]'
-  - '[[_Standards/WikiData/WD~Q29583100,29583100]]'
+  - "[[_Standards/WikiData/WD~Q29583098,29583098]]"
+  - "[[_Standards/WikiData/WD~Q29583100,29583100]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A3%D9%84%D9%88%D9%85%D9%86%D9%8A%D9%88%D9%85.wav
 PubChem_CID: 5359268
 recycling_code: 41
 RTECS_number: BD0330000
 safety_classification_and_labelling:
-  - '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
+  - "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
 SpocWebEntityId: 9523
 subclass_of:
-  - '[[_Standards/WikiData/WD~building_material,206615]]'
-  - '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-  - '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
-  - '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+  - "[[_Standards/WikiData/WD~building_material,206615]]"
+  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+  - "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+  - "[[_Standards/WikiData/WD~medication,12140]]"
+  - "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 thermal_conductivity: 236
 time_of_discovery_or_invention: 1825
 time_weighted_average_exposure_limit:
@@ -113,44 +113,122 @@ UNSPSC_Code: 11101705
 U_S_National_Archives_Identifier: 10637694
 vapor_pressure: 0
 ZVG_number: 7130
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Aluminium,663]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Aluminium|Aluminium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.public|Aluminium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.internal|Aluminium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.protect|Aluminium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.private|Aluminium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.personal|Aluminium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.secret|Aluminium.secret]]"
+  part_of: "[[../Group-13-Boron]]"
+dv_has_:
+  name_:
+    group: Group-13-Boron
+    en: Aluminium
+    de: Aluminium
+    abbreviated: Al
+  value_for_:
+    weight_:
+      u: 26.9815
+    radius: 1.82
+    volume_:
+      ccm_:
+        mol: 10
+    unknown2: 1.18
+    radius_:
+      nano_:
+        m: 5.986
+    electronegativity: 1.6
+    density: 2.7
+    temperature_:
+      melt_:
+        c: 660.37
+      boil_:
+        c: 2467
+    capacity_:
+      heat: 0.9
+    conductivity_:
+      heat: 2.37
+    enthalpy: 10.79
+    energy_:
+      form_:
+        kj_:
+          mol: 293.4
+  number_of_:
+    period: 3
+    group: 13
+    electrons: 13
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Aluminium,663]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Aluminium|Aluminium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.public|Aluminium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.internal|Aluminium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.protect|Aluminium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.private|Aluminium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.personal|Aluminium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.secret|Aluminium.secret]]"
+dv_has_name_group: Group-13-Boron
+dv_is_part_of: "[[../Group-13-Boron]]"
+dv_has_name_en: Aluminium
+dv_has_name_de: Aluminium
+dv_has_value_for_weight_u: 26.9815
+dv_has_value_for_radius: 1.82
+dv_has_value_for_volume_ccm_mol: 10
+dv_has_value_for_unknown2: 1.18
+dv_has_value_for_radius_nano_m: 5.986
+dv_has_value_for_electronegativity: 1.6
+dv_has_value_for_density: 2.7
+dv_has_value_for_temperature_melt_c: 660.37
+dv_has_value_for_temperature_boil_c: 2467
+dv_has_value_for_capacity_heat: 0.9
+dv_has_value_for_conductivity_heat: 2.37
+dv_has_value_for_enthalpy: 10.79
+dv_has_value_for_energy_form_kj_mol: 293.4
+dv_has_number_of_period: 3
+dv_has_number_of_group: 13
+dv_has_name_abbreviated: Al
+dv_has_number_of_electrons: 13
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Aluminium,663]] 
 #chemic/Element 
 
-[has_/name_/group::Group-13-Boron]
-is_/part_of::[[../Group-13-Boron]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Aluminium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Aluminium 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::26.9815 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::1.82]
-[has_/value_for_/volume_/ccm_/mol::10]
-[has_/value_for_/unknown2::1.18]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::5.986 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.6]
-[has_/value_for_/density::2.7]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::660.37 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::2467 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.9]
-[has_/value_for_/conductivity_/heat::2.37]
-[has_/value_for_/enthalpy::10.79]
-[has_/value_for_/energy_/form_/kj_/mol::293.4]
-(has_/number_of_/period::3)
-(has_/number_of_/group::13)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 ## #has_/text_of_/abstract 
 
 > **Aluminium** (aluminum in North American English) 
-> is a chemical element with the symbol (has_/name_/abbreviated::Al) and atomic number (has_/number_of_/electrons::13). 
+> is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > 
 > Aluminium has a density lower than those of other common metals, 
 > at approximately one third that of steel. 

@@ -204,12 +204,35 @@ SPLASH:
   - splash10-03dr-5900000000-1dc82963a3a52c19886b
   - splash10-0a4r-9000000000-b8a975c2d639d8c91afb
 time_of_discovery_or_invention: 1784-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Citric_acid,159683|WD~Citric_acid,159683]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid|Citric_Acid]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.public|Citric_Acid.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.internal|Citric_Acid.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.protect|Citric_Acid.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.private|Citric_Acid.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.personal|Citric_Acid.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.secret|Citric_Acid.secret]]"
+dv_has_:
+  formula_:
+    sum: C6H8O7
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Citric_acid,159683|WD~Citric_acid,159683]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid|Citric_Acid]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.public|Citric_Acid.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.internal|Citric_Acid.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.protect|Citric_Acid.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.private|Citric_Acid.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.personal|Citric_Acid.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.secret|Citric_Acid.secret]]"
+dv_has_formula_sum: C6H8O7
 ---
 
 # [[Citric_Acid]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Citric_acid,159683|WD~Citric_acid,159683]] 
-#has_/formula_/sum :: C6H8O7 
+has_formula_sum = `=this.dv_has_formula_sum` 
 ## #has_/formula_/structural 
 
 ```

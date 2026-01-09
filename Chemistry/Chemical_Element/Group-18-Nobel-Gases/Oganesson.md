@@ -42,6 +42,25 @@ electron_configuration:
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p⁶
 CAS_Registry_Number: 54144-19-3
 time_of_discovery_or_invention: 2002-06-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Oganesson,1307]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson|Oganesson]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.public|Oganesson.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.internal|Oganesson.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.protect|Oganesson.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.private|Oganesson.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.personal|Oganesson.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.secret|Oganesson.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Oganesson,1307]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson|Oganesson]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.public|Oganesson.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.internal|Oganesson.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.protect|Oganesson.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.private|Oganesson.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.personal|Oganesson.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.secret|Oganesson.secret]]"
 ---
 
 # [[Oganesson]] 

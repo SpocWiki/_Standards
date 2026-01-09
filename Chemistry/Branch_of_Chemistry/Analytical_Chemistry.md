@@ -6,24 +6,41 @@ aliases:
 has_id_wikidata: Q2346
 Colon_Classification: E:3
 Commons_category: Analytical chemistry
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
 Dewey_Decimal_Classification: 543
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gas%20Chromatography%20Laboratory.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
 Krugosvet_article: nauka_i_tehnika/himiya/HIMIYA_ANALITICHESKAYA.html
 MeSH_tree_code: H01.181.309
 OmegaWiki_Defined_Meaning: 168
-practiced_by: '[[_Standards/WikiData/WD~analytical_chemist,43668003]]'
+practiced_by: "[[_Standards/WikiData/WD~analytical_chemist,43668003]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1321%20%28spa%29-ElsaBornFree-qu%C3%ADmica%20anal%C3%ADtica.wav
 Regensburg_Classification: VG
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Analytical%20instrument.png
-subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Analytical_chemistry,8084583]]'
+subclass_of: "[[_Standards/WikiData/WD~chemistry,2329]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Analytical_chemistry,8084583]]"
 UMLS_CUI: C0007998
 Universal_Decimal_Classification: 543
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Branch_of_Chemistry/Analytical_Chemistry|Analytical_Chemistry]]"
+    - "[[/_public/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.public|Analytical_Chemistry.public]]"
+    - "[[/_internal/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.internal|Analytical_Chemistry.internal]]"
+    - "[[/_protect/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.protect|Analytical_Chemistry.protect]]"
+    - "[[/_private/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.private|Analytical_Chemistry.private]]"
+    - "[[/_personal/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.personal|Analytical_Chemistry.personal]]"
+    - "[[/_secret/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.secret|Analytical_Chemistry.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Branch_of_Chemistry/Analytical_Chemistry|Analytical_Chemistry]]"
+  - "[[/_public/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.public|Analytical_Chemistry.public]]"
+  - "[[/_internal/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.internal|Analytical_Chemistry.internal]]"
+  - "[[/_protect/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.protect|Analytical_Chemistry.protect]]"
+  - "[[/_private/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.private|Analytical_Chemistry.private]]"
+  - "[[/_personal/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.personal|Analytical_Chemistry.personal]]"
+  - "[[/_secret/Chemistry/Branch_of_Chemistry/Analytical_Chemistry.secret|Analytical_Chemistry.secret]]"
 ---
 
 ## #has_/text_of_/abstract 

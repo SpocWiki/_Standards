@@ -104,6 +104,84 @@ Dewey_Decimal_Classification:
   - 661.0541
   - 669.732
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Manganese,731]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Manganese|Manganese]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.public|Manganese.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.internal|Manganese.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.protect|Manganese.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.private|Manganese.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.personal|Manganese.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.secret|Manganese.secret]]"
+  part_of: "[[../Group-07-Manganese]]"
+dv_has_:
+  name_:
+    group: Group-07-Manganese
+    en: Manganese
+    de: Mangan
+    abbreviated: Mn
+  value_for_:
+    weight_:
+      u: 54.938
+    radius: 1.79
+    volume_:
+      ccm_:
+        mol: 1.39
+    unknown2: 1.17
+    radius_:
+      nano_:
+        m: 7.435
+    electronegativity: 1.5
+    density: 7.43
+    temperature_:
+      melt_:
+        c: 1244
+      boil_:
+        c: 1962
+    capacity_:
+      heat: 0.48
+    conductivity_:
+      heat: 0.0782
+    enthalpy: 12.05
+    energy_:
+      form_:
+        kj_:
+          mol: 226
+  number_of_:
+    period: 4
+    group: 7
+    electrons: 25
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Manganese,731]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Manganese|Manganese]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.public|Manganese.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.internal|Manganese.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.protect|Manganese.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.private|Manganese.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.personal|Manganese.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.secret|Manganese.secret]]"
+dv_has_name_group: Group-07-Manganese
+dv_is_part_of: "[[../Group-07-Manganese]]"
+dv_has_name_en: Manganese
+dv_has_name_de: Mangan
+dv_has_value_for_weight_u: 54.938
+dv_has_value_for_radius: 1.79
+dv_has_value_for_volume_ccm_mol: 1.39
+dv_has_value_for_unknown2: 1.17
+dv_has_value_for_radius_nano_m: 7.435
+dv_has_value_for_electronegativity: 1.5
+dv_has_value_for_density: 7.43
+dv_has_value_for_temperature_melt_c: 1244
+dv_has_value_for_temperature_boil_c: 1962
+dv_has_value_for_capacity_heat: 0.48
+dv_has_value_for_conductivity_heat: 0.0782
+dv_has_value_for_enthalpy: 12.05
+dv_has_value_for_energy_form_kj_mol: 226
+dv_has_number_of_period: 4
+dv_has_number_of_group: 7
+dv_has_name_abbreviated: Mn
+dv_has_number_of_electrons: 25
 ---
 
 # [[Manganese]]
@@ -112,39 +190,39 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Manganese,731]] 
 
-[has_/name_/group::Group-07-Manganese]
-is_/part_of::[[../Group-07-Manganese]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Manganese 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Mangan 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::54.938 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::1.79]
-[has_/value_for_/volume_/ccm_/mol::1.39]
-[has_/value_for_/unknown2::1.17]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::7.435 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.5]
-[has_/value_for_/density::7.43]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::1244 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::1962 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.48]
-[has_/value_for_/conductivity_/heat::0.0782]
-[has_/value_for_/enthalpy::12.05]
-[has_/value_for_/energy_/form_/kj_/mol::226]
-(has_/number_of_/period::4)
-(has_/number_of_/group::7)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 
 ## #has_/text_of_/abstract 
 
-> **Manganese** is a chemical element with the symbol (has_/name_/abbreviated::Mn) and atomic number (has_/number_of_/electrons::25). 
+> **Manganese** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a hard, brittle, silvery metal, often found in minerals in combination with iron. 
 > 
 > Manganese is a transition metal with a multifaceted array of industrial alloy uses, 

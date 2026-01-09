@@ -20,6 +20,25 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Darmstadtium2009.ogg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20110%20Darmstadtium.svg
 CAS_Registry_Number: 54083-77-1
 time_of_discovery_or_invention: 1994-11-09T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Darmstadtium,1266|WD~Darmstadtium,1266]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium|Darmstadtium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.public|Darmstadtium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.internal|Darmstadtium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.protect|Darmstadtium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.private|Darmstadtium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.personal|Darmstadtium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.secret|Darmstadtium.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Darmstadtium,1266|WD~Darmstadtium,1266]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium|Darmstadtium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.public|Darmstadtium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.internal|Darmstadtium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.protect|Darmstadtium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.private|Darmstadtium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.personal|Darmstadtium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.secret|Darmstadtium.secret]]"
 ---
 
 # [[Darmstadtium]] 

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin|Serotonin]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.public|Serotonin.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.internal|Serotonin.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.protect|Serotonin.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.private|Serotonin.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.personal|Serotonin.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.secret|Serotonin.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin|Serotonin]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.public|Serotonin.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.internal|Serotonin.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.protect|Serotonin.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.private|Serotonin.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.personal|Serotonin.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.secret|Serotonin.secret]]"
+---
 
 ## #has_/text_of_/abstract 
 

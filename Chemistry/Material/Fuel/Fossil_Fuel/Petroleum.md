@@ -56,6 +56,25 @@ Dewey_Decimal_Classification:
 UNII: 6ZAE7X688J
 CAS_Registry_Number: 8002-05-9
 UMLS_CUI: C0031264
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Petroleum,22656]]"
+    - "[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum|Petroleum]]"
+    - "[[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.public|Petroleum.public]]"
+    - "[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.internal|Petroleum.internal]]"
+    - "[[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.protect|Petroleum.protect]]"
+    - "[[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.private|Petroleum.private]]"
+    - "[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.personal|Petroleum.personal]]"
+    - "[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.secret|Petroleum.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Petroleum,22656]]"
+  - "[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum|Petroleum]]"
+  - "[[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.public|Petroleum.public]]"
+  - "[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.internal|Petroleum.internal]]"
+  - "[[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.protect|Petroleum.protect]]"
+  - "[[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.private|Petroleum.private]]"
+  - "[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.personal|Petroleum.personal]]"
+  - "[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.secret|Petroleum.secret]]"
 ---
 
 # [[Petroleum]] 

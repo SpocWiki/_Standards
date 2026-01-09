@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q26100
 subclass_of: "[[_Standards/WikiData/WD~dispersion,178697]]"
 described_by_source:
@@ -18,6 +18,25 @@ UMLS_CUI: C0038960
 MeSH_tree_code:
   - D20.280.810
   - D26.255.165.810
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Suspension,26100|WD~Suspension,26100]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry)|Suspension(Chemistry)]]"
+    - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).public|Suspension(Chemistry).public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).internal|Suspension(Chemistry).internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).protect|Suspension(Chemistry).protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).private|Suspension(Chemistry).private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).personal|Suspension(Chemistry).personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).secret|Suspension(Chemistry).secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Suspension,26100|WD~Suspension,26100]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry)|Suspension(Chemistry)]]"
+  - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).public|Suspension(Chemistry).public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).internal|Suspension(Chemistry).internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).protect|Suspension(Chemistry).protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).private|Suspension(Chemistry).private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).personal|Suspension(Chemistry).personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Suspension(Chemistry).secret|Suspension(Chemistry).secret]]"
 ---
 
 # [[Suspension(Chemistry)]] 

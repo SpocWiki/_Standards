@@ -1,7 +1,30 @@
+---
+dv_is_:
+  different_from: "[[Absorption]]"
+  same_as:
+    - "[[../../WikiData/WD~Adsorption,180254|WD~Adsorption,180254]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Adsorption|Adsorption]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Adsorption.public|Adsorption.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Adsorption.internal|Adsorption.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Adsorption.protect|Adsorption.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Adsorption.private|Adsorption.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Adsorption.personal|Adsorption.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Adsorption.secret|Adsorption.secret]]"
+dv_is_different_from: "[[Absorption]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Adsorption,180254|WD~Adsorption,180254]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Adsorption|Adsorption]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Adsorption.public|Adsorption.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Adsorption.internal|Adsorption.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Adsorption.protect|Adsorption.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Adsorption.private|Adsorption.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Adsorption.personal|Adsorption.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Adsorption.secret|Adsorption.secret]]"
+---
 
 # [[Adsorption]] 
 
-#is_/different_from :: [[Absorption]] 
+is_different_from = `=this.dv_is_different_from` 
 #is_/same_as :: [[../../../../WikiData/WD~Adsorption,180254|WD~Adsorption,180254]] 
 
 ## #has_/text_of_/abstract 

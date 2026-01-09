@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Organic_Chemistry/RIC|RIC]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/RIC.public|RIC.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/RIC.internal|RIC.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/RIC.protect|RIC.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/RIC.private|RIC.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/RIC.personal|RIC.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/RIC.secret|RIC.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Organic_Chemistry/RIC|RIC]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/RIC.public|RIC.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/RIC.internal|RIC.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/RIC.protect|RIC.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/RIC.private|RIC.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/RIC.personal|RIC.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/RIC.secret|RIC.secret]]"
+---
 
 the RIC is aligned with the EU [[Recycling_codes]]. 
 

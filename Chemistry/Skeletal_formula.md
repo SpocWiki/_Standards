@@ -5,6 +5,23 @@ aliases:
   - bond-line formula
   - shorthand formula
   - Skeletal_formula
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Skeletal_formula|Skeletal_formula]]"
+    - "[[/_public/Chemistry/Skeletal_formula.public|Skeletal_formula.public]]"
+    - "[[/_internal/Chemistry/Skeletal_formula.internal|Skeletal_formula.internal]]"
+    - "[[/_protect/Chemistry/Skeletal_formula.protect|Skeletal_formula.protect]]"
+    - "[[/_private/Chemistry/Skeletal_formula.private|Skeletal_formula.private]]"
+    - "[[/_personal/Chemistry/Skeletal_formula.personal|Skeletal_formula.personal]]"
+    - "[[/_secret/Chemistry/Skeletal_formula.secret|Skeletal_formula.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Skeletal_formula|Skeletal_formula]]"
+  - "[[/_public/Chemistry/Skeletal_formula.public|Skeletal_formula.public]]"
+  - "[[/_internal/Chemistry/Skeletal_formula.internal|Skeletal_formula.internal]]"
+  - "[[/_protect/Chemistry/Skeletal_formula.protect|Skeletal_formula.protect]]"
+  - "[[/_private/Chemistry/Skeletal_formula.private|Skeletal_formula.private]]"
+  - "[[/_personal/Chemistry/Skeletal_formula.personal|Skeletal_formula.personal]]"
+  - "[[/_secret/Chemistry/Skeletal_formula.secret|Skeletal_formula.secret]]"
 ---
 
 ## #has_/text_of_/abstract 

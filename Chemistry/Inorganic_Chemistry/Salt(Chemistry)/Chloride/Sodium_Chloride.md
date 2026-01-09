@@ -77,11 +77,38 @@ MeSH_tree_code:
   - D01.210.450.150.875
   - D01.857.650
 DSSTOX_compound_identifier: DTXCID001271
+dv_is_:
+  part_of_: "[[../../../../Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt|Table_Salt]]"
+  different_from:
+    - "[[../../../../Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt|Table_Salt]]"
+    - "[[../../Salt(Chemistry)|Salt(Chemistry)]]"
+  same_as:
+    - "[[../../../../WikiData/WD~Sodium_chloride,2314|WD~Sodium_chloride,2314]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride|Sodium_Chloride]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.public|Sodium_Chloride.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.internal|Sodium_Chloride.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.protect|Sodium_Chloride.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.private|Sodium_Chloride.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.personal|Sodium_Chloride.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.secret|Sodium_Chloride.secret]]"
+dv_is_part_of_: "[[../../../../Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt|Table_Salt]]"
+dv_is_different_from:
+  - "[[../../../../Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt|Table_Salt]]"
+  - "[[../../Salt(Chemistry)|Salt(Chemistry)]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sodium_chloride,2314|WD~Sodium_chloride,2314]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride|Sodium_Chloride]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.public|Sodium_Chloride.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.internal|Sodium_Chloride.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.protect|Sodium_Chloride.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.private|Sodium_Chloride.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.personal|Sodium_Chloride.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Sodium_Chloride.secret|Sodium_Chloride.secret]]"
 ---
 
 # [[Sodium_Chloride]] 
 
-#is_/part_of_ :: [[../../../../Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt|Table_Salt]] 
+is_part_of_ = `=this.dv_is_part_of_` 
 #is_/different_from :: [[../../../../Society/Economics/Home_Economics/Cooking/Seasoning/Table_Salt|Table_Salt]] 
 #is_/different_from :: [[../../../../../Chemistry/Inorganic_Chemistry/Salt(Chemistry)|Salt(Chemistry)]]  
 #is_/same_as :: [[../../../../WikiData/WD~Sodium_chloride,2314|WD~Sodium_chloride,2314]]  

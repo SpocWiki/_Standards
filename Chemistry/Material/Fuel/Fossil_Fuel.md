@@ -4,31 +4,50 @@ aliases:
   - Fossil Fuel
 has_id_wikidata: Q12748
 Commons_category: Fossil fuels
-Common_Procurement_Vocabulary_code: 09111300
-described_by_source: '[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]'
+Common_Procurement_Vocabulary_code: 9111300
+described_by_source: "[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]"
 hashtag: fossilfuels
-has_use: '[[_Standards/WikiData/WD~nonrenewable_energy,2632167]]'
+has_use: "[[_Standards/WikiData/WD~nonrenewable_energy,2632167]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Combustibles%20fossiles.png
-instance_of: '[[_Standards/WikiData/WD~type_of_natural_resource,131700004]]'
-made_from_material: '[[_Standards/WikiData/WD~organic_matter,1783121]]'
+instance_of: "[[_Standards/WikiData/WD~type_of_natural_resource,131700004]]"
+made_from_material: "[[_Standards/WikiData/WD~organic_matter,1783121]]"
 MeSH_tree_code:
   - D20.345
   - N06.230.132.258
 OmegaWiki_Defined_Meaning: 1555
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
 replaced_by:
-  - '[[_Standards/WikiData/WD~sustainable_energy,1962383]]'
-  - '[[_Standards/WikiData/WD~renewable_energy,12705]]'
-studied_in: '[[_Standards/WikiData/WD~economic_geology,853915]]'
+  - "[[_Standards/WikiData/WD~sustainable_energy,1962383]]"
+  - "[[_Standards/WikiData/WD~renewable_energy,12705]]"
+studied_in: "[[_Standards/WikiData/WD~economic_geology,853915]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~mineral_resource,889659]]'
-  - '[[_Standards/WikiData/WD~non-renewable_resource,936791]]'
-  - '[[_Standards/WikiData/WD~energy_source,1522115]]'
-  - '[[_Standards/WikiData/WD~fuel,42501]]'
+  - "[[_Standards/WikiData/WD~mineral_resource,889659]]"
+  - "[[_Standards/WikiData/WD~non-renewable_resource,936791]]"
+  - "[[_Standards/WikiData/WD~energy_source,1522115]]"
+  - "[[_Standards/WikiData/WD~fuel,42501]]"
 subreddit: Penetration
 UMLS_CUI: C0016613
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 U_S_National_Archives_Identifier: 10636986
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Fossil_fuel,12748|WD~Fossil_fuel,12748]]"
+    - "[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel|Fossil_Fuel]]"
+    - "[[/_public/Chemistry/Material/Fuel/Fossil_Fuel.public|Fossil_Fuel.public]]"
+    - "[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel.internal|Fossil_Fuel.internal]]"
+    - "[[/_protect/Chemistry/Material/Fuel/Fossil_Fuel.protect|Fossil_Fuel.protect]]"
+    - "[[/_private/Chemistry/Material/Fuel/Fossil_Fuel.private|Fossil_Fuel.private]]"
+    - "[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel.personal|Fossil_Fuel.personal]]"
+    - "[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel.secret|Fossil_Fuel.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Fossil_fuel,12748|WD~Fossil_fuel,12748]]"
+  - "[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel|Fossil_Fuel]]"
+  - "[[/_public/Chemistry/Material/Fuel/Fossil_Fuel.public|Fossil_Fuel.public]]"
+  - "[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel.internal|Fossil_Fuel.internal]]"
+  - "[[/_protect/Chemistry/Material/Fuel/Fossil_Fuel.protect|Fossil_Fuel.protect]]"
+  - "[[/_private/Chemistry/Material/Fuel/Fossil_Fuel.private|Fossil_Fuel.private]]"
+  - "[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel.personal|Fossil_Fuel.personal]]"
+  - "[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel.secret|Fossil_Fuel.secret]]"
 ---
 
 # [[Fossil_Fuel]] 

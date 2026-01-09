@@ -29,12 +29,35 @@ SMARTS_notation: "[6][CX3](=O)[6]"
 subclass_of: "[[_Standards/WikiData/WD~carbonyl_compound,9392635]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ketones,62683903]]"
 UMLS_CUI: C0022634
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ketone,170744]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Ketone|Ketone]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Ketone.public|Ketone.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Ketone.internal|Ketone.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Ketone.protect|Ketone.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Ketone.private|Ketone.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Ketone.personal|Ketone.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Ketone.secret|Ketone.secret]]"
+dv_has_:
+  formula_:
+    structural: R−C(=O)−R
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ketone,170744]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Ketone|Ketone]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Ketone.public|Ketone.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Ketone.internal|Ketone.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Ketone.protect|Ketone.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Ketone.private|Ketone.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Ketone.personal|Ketone.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Ketone.secret|Ketone.secret]]"
+dv_has_formula_structural: R−C(=O)−R
 ---
 
 # [[Ketone]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ketone,170744]] 
-#has_/formula_/structural :: R−C(=O)−R
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 ## #has_/text_of_/abstract 
 

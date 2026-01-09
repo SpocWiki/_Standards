@@ -2,6 +2,23 @@
 aliases:
   - Simplified Molecular Input Line Entry System
   - SMILES-Formula
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/SMILES-Formula|SMILES-Formula]]"
+    - "[[/_public/Chemistry/SMILES-Formula.public|SMILES-Formula.public]]"
+    - "[[/_internal/Chemistry/SMILES-Formula.internal|SMILES-Formula.internal]]"
+    - "[[/_protect/Chemistry/SMILES-Formula.protect|SMILES-Formula.protect]]"
+    - "[[/_private/Chemistry/SMILES-Formula.private|SMILES-Formula.private]]"
+    - "[[/_personal/Chemistry/SMILES-Formula.personal|SMILES-Formula.personal]]"
+    - "[[/_secret/Chemistry/SMILES-Formula.secret|SMILES-Formula.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/SMILES-Formula|SMILES-Formula]]"
+  - "[[/_public/Chemistry/SMILES-Formula.public|SMILES-Formula.public]]"
+  - "[[/_internal/Chemistry/SMILES-Formula.internal|SMILES-Formula.internal]]"
+  - "[[/_protect/Chemistry/SMILES-Formula.protect|SMILES-Formula.protect]]"
+  - "[[/_private/Chemistry/SMILES-Formula.private|SMILES-Formula.private]]"
+  - "[[/_personal/Chemistry/SMILES-Formula.personal|SMILES-Formula.personal]]"
+  - "[[/_secret/Chemistry/SMILES-Formula.secret|SMILES-Formula.secret]]"
 ---
 
 ## #has_/text_of_/abstract 

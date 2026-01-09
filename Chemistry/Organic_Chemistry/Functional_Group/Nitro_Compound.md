@@ -17,11 +17,14 @@ chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Funktione
 UMLS_CUI: C0028138
 MeSH_tree_code: D02.640
 Commons_category: Nitro compounds
+dv_is_:
+  same_as: "[[WD~Nitro_Compound,422772]]"
+dv_is_same_as: "[[WD~Nitro_Compound,422772]]"
 ---
 
 # [[Nitro_Compound]] 
 
-#is_/same_as :: [[WD~Nitro_Compound,422772]] 
+is_same_as = `=this.dv_is_same_as` 
 
 ## #has_/text_of_/abstract 
 

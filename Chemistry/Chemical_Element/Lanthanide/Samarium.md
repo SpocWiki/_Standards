@@ -89,7 +89,6 @@ dv_has_:
     group: 28
     electrons: 62
 dv_is_:
-  part_of: "[[../Lanthanide]]"
   same_as:
     - "[[../../../WikiData/WD~Samarium,1819]]"
     - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Samarium|Samarium]]"

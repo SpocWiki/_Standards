@@ -10,42 +10,42 @@ SPLASH:
   - splash10-00kb-0900000000-31df199e59f138c8cc73
   - splash10-014i-1900000000-e4b0458c1830f2273dbf
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
-  - '[[_Standards/WikiData/WD~Festuca_arundinacea,157922]]'
-  - '[[_Standards/WikiData/WD~Sambucus_ebulus,158515]]'
-  - '[[_Standards/WikiData/WD~Festuca_rubra,159702]]'
-  - '[[_Standards/WikiData/WD~Lupinus_luteus,159751]]'
-  - '[[_Standards/WikiData/WD~Rhodiola_rosea,161665]]'
-  - '[[_Standards/WikiData/WD~Chlamydomonas_reinhardtii,291827]]'
-  - '[[_Standards/WikiData/WD~Arbutus_unedo,329046]]'
-  - '[[_Standards/WikiData/WD~Daphnia_magna,672531]]'
-  - '[[_Standards/WikiData/WD~Lymnaea_stagnalis,911251]]'
-  - '[[_Standards/WikiData/WD~Sophora_lehmannii,15539580]]'
-  - '[[_Standards/WikiData/WD~Sophora_lehmanni,104250341]]'
-  - '[[_Standards/WikiData/WD~Sambucus_nigra,22701]]'
-  - '[[_Standards/WikiData/WD~Escherichia_coli,25419]]'
-  - '[[_Standards/WikiData/WD~Leucaena_leucocephala,35905]]'
+  - "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
+  - "[[_Standards/WikiData/WD~Festuca_arundinacea,157922]]"
+  - "[[_Standards/WikiData/WD~Sambucus_ebulus,158515]]"
+  - "[[_Standards/WikiData/WD~Festuca_rubra,159702]]"
+  - "[[_Standards/WikiData/WD~Lupinus_luteus,159751]]"
+  - "[[_Standards/WikiData/WD~Rhodiola_rosea,161665]]"
+  - "[[_Standards/WikiData/WD~Chlamydomonas_reinhardtii,291827]]"
+  - "[[_Standards/WikiData/WD~Arbutus_unedo,329046]]"
+  - "[[_Standards/WikiData/WD~Daphnia_magna,672531]]"
+  - "[[_Standards/WikiData/WD~Lymnaea_stagnalis,911251]]"
+  - "[[_Standards/WikiData/WD~Sophora_lehmannii,15539580]]"
+  - "[[_Standards/WikiData/WD~Sophora_lehmanni,104250341]]"
+  - "[[_Standards/WikiData/WD~Sambucus_nigra,22701]]"
+  - "[[_Standards/WikiData/WD~Escherichia_coli,25419]]"
+  - "[[_Standards/WikiData/WD~Leucaena_leucocephala,35905]]"
 medical_condition_treated:
-  - '[[_Standards/WikiData/WD~dermatitis,229256]]'
-  - '[[_Standards/WikiData/WD~facial_dermatosis,18555301]]'
+  - "[[_Standards/WikiData/WD~dermatitis,229256]]"
+  - "[[_Standards/WikiData/WD~facial_dermatosis,18555301]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~fatty_alcohol,378871]]'
-  - '[[_Standards/WikiData/WD~alpha_hydroxy_acid,413302]]'
-  - '[[_Standards/WikiData/WD~hydroxy_fatty_acid,40211102]]'
+  - "[[_Standards/WikiData/WD~fatty_alcohol,378871]]"
+  - "[[_Standards/WikiData/WD~alpha_hydroxy_acid,413302]]"
+  - "[[_Standards/WikiData/WD~hydroxy_fatty_acid,40211102]]"
 monomer_of:
-  - '[[_Standards/WikiData/WD~polylactic_acid,413769]]'
-  - '[[_Standards/WikiData/WD~PLGA,2102907]]'
+  - "[[_Standards/WikiData/WD~polylactic_acid,413769]]"
+  - "[[_Standards/WikiData/WD~PLGA,2102907]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 has_use:
-  - '[[_Standards/WikiData/WD~acidity_regulator,898753]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
-conjugate_base: '[[_Standards/WikiData/WD~DL_lactate_ion,27895931]]'
-instance_of: '[[_Standards/WikiData/WD~group_of_stereoisomers,59199015]]'
+  - "[[_Standards/WikiData/WD~acidity_regulator,898753]]"
+  - "[[_Standards/WikiData/WD~medication,12140]]"
+conjugate_base: "[[_Standards/WikiData/WD~DL_lactate_ion,27895931]]"
+instance_of: "[[_Standards/WikiData/WD~group_of_stereoisomers,59199015]]"
 mass: 90.031694
 UNII:
   - 3B8D35Y7S4
@@ -61,7 +61,7 @@ JECFA_number: 930
 ZVG_number: 13000
 InChI: InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)
 InChIKey: JVTAAEKCZFNVCJ-UHFFFAOYSA-N
-FL_number: 08.004
+FL_number: 8.004
 chemical_formula: C₃H₆O₃
 NSC_number: 744011
 E_number: E270
@@ -80,11 +80,34 @@ MeSH_tree_code: D02.241.511.459.450
 DSSTOX_compound_identifier: DTXCID003192
 ATC_code: G01AD01
 Commons_category: Lactic acid
+dv_has_:
+  formula_:
+    sum: C3H6O3
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~DL-lactic_acid,161249|WD~DL-lactic_acid,161249]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid|Lactic_acid]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.public|Lactic_acid.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.internal|Lactic_acid.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.protect|Lactic_acid.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.private|Lactic_acid.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.personal|Lactic_acid.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.secret|Lactic_acid.secret]]"
+dv_has_formula_sum: C3H6O3
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~DL-lactic_acid,161249|WD~DL-lactic_acid,161249]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid|Lactic_acid]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.public|Lactic_acid.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.internal|Lactic_acid.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.protect|Lactic_acid.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.private|Lactic_acid.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.personal|Lactic_acid.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.secret|Lactic_acid.secret]]"
 ---
 
 # [[Lactic_acid]] 
 
-#has_/formula_/sum :: C3H6O3 
+has_formula_sum = `=this.dv_has_formula_sum` 
 #is_/same_as :: [[../../../../WikiData/WD~DL-lactic_acid,161249|WD~DL-lactic_acid,161249]] 
 
 ## #has_/formula_/structural 

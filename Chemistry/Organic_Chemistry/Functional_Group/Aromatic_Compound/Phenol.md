@@ -6,94 +6,94 @@ aliases:
   - Phenol
 has_id_wikidata: Q130336
 subject_has_role:
-  - '[[_Standards/WikiData/WD~disinfectant,73984]]'
-  - '[[_Standards/WikiData/WD~sclerosing_agent,2093727]]'
-  - '[[_Standards/WikiData/WD~local_anti_infective_agent,50377188]]'
+  - "[[_Standards/WikiData/WD~disinfectant,73984]]"
+  - "[[_Standards/WikiData/WD~sclerosing_agent,2093727]]"
+  - "[[_Standards/WikiData/WD~local_anti_infective_agent,50377188]]"
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~Tamarindus_indica,80235]]'
-  - '[[_Standards/WikiData/WD~Vaccinium_vitis_idaea,93235]]'
-  - '[[_Standards/WikiData/WD~Trigonella_foenum_graecum,133205]]'
-  - '[[_Standards/WikiData/WD~Gossypium_hirsutum,133481]]'
-  - '[[_Standards/WikiData/WD~Physarum_polycephalum,134950]]'
-  - '[[_Standards/WikiData/WD~Vaccinium_macrocarpon,149397]]'
-  - '[[_Standards/WikiData/WD~Coffea,156354]]'
-  - '[[_Standards/WikiData/WD~Festuca_arundinacea,157922]]'
-  - '[[_Standards/WikiData/WD~Hypericum_perforatum,158289]]'
-  - '[[_Standards/WikiData/WD~Festuca_rubra,159702]]'
-  - '[[_Standards/WikiData/WD~Couroupita_guianensis,161823]]'
-  - '[[_Standards/WikiData/WD~Aronia_melanocarpa,162774]]'
-  - '[[_Standards/WikiData/WD~Paeonia_lactiflora,163076]]'
-  - '[[_Standards/WikiData/WD~Prunus_avium,165137]]'
-  - '[[_Standards/WikiData/WD~Quercus_robur,165145]]'
-  - '[[_Standards/WikiData/WD~Psidium_guajava,166843]]'
-  - '[[_Standards/WikiData/WD~Azadirachta_indica,170461]]'
-  - '[[_Standards/WikiData/WD~Cichorium_endivia,178547]]'
-  - '[[_Standards/WikiData/WD~Nicotiana_tabacum,181095]]'
-  - '[[_Standards/WikiData/WD~liquorice,257106]]'
-  - '[[_Standards/WikiData/WD~Vitex_agnus_castus,259318]]'
-  - '[[_Standards/WikiData/WD~Aspalathus_linearis,272181]]'
-  - '[[_Standards/WikiData/WD~Cinnamomum_verum,370239]]'
-  - '[[_Standards/WikiData/WD~Posidonia_oceanica,544137]]'
-  - '[[_Standards/WikiData/WD~Scutellaria_baicalensis,803769]]'
-  - '[[_Standards/WikiData/WD~Sea_lettuce,852879]]'
-  - '[[_Standards/WikiData/WD~Evernia_prunastri,904074]]'
-  - '[[_Standards/WikiData/WD~Daphne_odora,1156295]]'
-  - '[[_Standards/WikiData/WD~Zingiber_mioga,1196818]]'
-  - '[[_Standards/WikiData/WD~Peristeria_elata,1314005]]'
-  - '[[_Standards/WikiData/WD~Agaricus_xanthodermus,1349044]]'
-  - '[[_Standards/WikiData/WD~Cedronella_canariensis,1530616]]'
-  - '[[_Standards/WikiData/WD~Agaricus_moelleri,1614842]]'
-  - '[[_Standards/WikiData/WD~Leptogenys_processionalis,2741582]]'
-  - '[[_Standards/WikiData/WD~Polygala_senega,3395566]]'
-  - '[[_Standards/WikiData/WD~Terminalia_chebula,3595915]]'
-  - '[[_Standards/WikiData/WD~Jacobaea_alpina,3805808]]'
-  - '[[_Standards/WikiData/WD~Mangifera_indica,3919027]]'
-  - '[[_Standards/WikiData/WD~Osmorhiza_aristata,5366738]]'
-  - '[[_Standards/WikiData/WD~Artemisia_capillaris,5763748]]'
-  - '[[_Standards/WikiData/WD~common_myrtle,6122027]]'
-  - '[[_Standards/WikiData/WD~Aspergillus_violaceofuscus,10420084]]'
-  - '[[_Standards/WikiData/WD~Scrophularia_buergeriana,10903747]]'
-  - '[[_Standards/WikiData/WD~Cyperus_conglomeratus,12185265]]'
-  - '[[_Standards/WikiData/WD~Cinnamomum_zeylanicum,12892282]]'
-  - '[[_Standards/WikiData/WD~Pulicaria_undulata,15601352]]'
-  - '[[_Standards/WikiData/WD~Monosis_parishii,93041993]]'
-  - '[[_Standards/WikiData/WD~Lucensosergia_lucens,104374937]]'
-  - '[[_Standards/WikiData/WD~Agaricus_praeclaresquamosus,105048752]]'
-  - '[[_Standards/WikiData/WD~Capsicum_annuum,1380]]'
-  - '[[_Standards/WikiData/WD~pomegranate,13188]]'
-  - '[[_Standards/WikiData/WD~Prunus_persica,13189]]'
-  - '[[_Standards/WikiData/WD~Prunus_armeniaca,37453]]'
-  - '[[_Standards/WikiData/WD~cacao,42385]]'
-  - '[[_Standards/WikiData/WD~Prunus_domestica,44120]]'
-  - '[[_Standards/WikiData/WD~Coffea_arabica,47685]]'
-  - '[[_Standards/WikiData/WD~Phallus_impudicus,48188]]'
-medical_condition_treated: '[[_Standards/WikiData/WD~pain,81938]]'
-monomer_of: '[[_Standards/WikiData/WD~phenol_formaldehyde_resin,145897]]'
-different_from: '[[_Standards/WikiData/WD~phenols,407142]]'
-subclass_of: '[[_Standards/WikiData/WD~phenols,407142]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[_Standards/WikiData/WD~Tamarindus_indica,80235]]"
+  - "[[_Standards/WikiData/WD~Vaccinium_vitis_idaea,93235]]"
+  - "[[_Standards/WikiData/WD~Trigonella_foenum_graecum,133205]]"
+  - "[[_Standards/WikiData/WD~Gossypium_hirsutum,133481]]"
+  - "[[_Standards/WikiData/WD~Physarum_polycephalum,134950]]"
+  - "[[_Standards/WikiData/WD~Vaccinium_macrocarpon,149397]]"
+  - "[[_Standards/WikiData/WD~Coffea,156354]]"
+  - "[[_Standards/WikiData/WD~Festuca_arundinacea,157922]]"
+  - "[[_Standards/WikiData/WD~Hypericum_perforatum,158289]]"
+  - "[[_Standards/WikiData/WD~Festuca_rubra,159702]]"
+  - "[[_Standards/WikiData/WD~Couroupita_guianensis,161823]]"
+  - "[[_Standards/WikiData/WD~Aronia_melanocarpa,162774]]"
+  - "[[_Standards/WikiData/WD~Paeonia_lactiflora,163076]]"
+  - "[[_Standards/WikiData/WD~Prunus_avium,165137]]"
+  - "[[_Standards/WikiData/WD~Quercus_robur,165145]]"
+  - "[[_Standards/WikiData/WD~Psidium_guajava,166843]]"
+  - "[[_Standards/WikiData/WD~Azadirachta_indica,170461]]"
+  - "[[_Standards/WikiData/WD~Cichorium_endivia,178547]]"
+  - "[[_Standards/WikiData/WD~Nicotiana_tabacum,181095]]"
+  - "[[_Standards/WikiData/WD~liquorice,257106]]"
+  - "[[_Standards/WikiData/WD~Vitex_agnus_castus,259318]]"
+  - "[[_Standards/WikiData/WD~Aspalathus_linearis,272181]]"
+  - "[[_Standards/WikiData/WD~Cinnamomum_verum,370239]]"
+  - "[[_Standards/WikiData/WD~Posidonia_oceanica,544137]]"
+  - "[[_Standards/WikiData/WD~Scutellaria_baicalensis,803769]]"
+  - "[[_Standards/WikiData/WD~Sea_lettuce,852879]]"
+  - "[[_Standards/WikiData/WD~Evernia_prunastri,904074]]"
+  - "[[_Standards/WikiData/WD~Daphne_odora,1156295]]"
+  - "[[_Standards/WikiData/WD~Zingiber_mioga,1196818]]"
+  - "[[_Standards/WikiData/WD~Peristeria_elata,1314005]]"
+  - "[[_Standards/WikiData/WD~Agaricus_xanthodermus,1349044]]"
+  - "[[_Standards/WikiData/WD~Cedronella_canariensis,1530616]]"
+  - "[[_Standards/WikiData/WD~Agaricus_moelleri,1614842]]"
+  - "[[_Standards/WikiData/WD~Leptogenys_processionalis,2741582]]"
+  - "[[_Standards/WikiData/WD~Polygala_senega,3395566]]"
+  - "[[_Standards/WikiData/WD~Terminalia_chebula,3595915]]"
+  - "[[_Standards/WikiData/WD~Jacobaea_alpina,3805808]]"
+  - "[[_Standards/WikiData/WD~Mangifera_indica,3919027]]"
+  - "[[_Standards/WikiData/WD~Osmorhiza_aristata,5366738]]"
+  - "[[_Standards/WikiData/WD~Artemisia_capillaris,5763748]]"
+  - "[[_Standards/WikiData/WD~common_myrtle,6122027]]"
+  - "[[_Standards/WikiData/WD~Aspergillus_violaceofuscus,10420084]]"
+  - "[[_Standards/WikiData/WD~Scrophularia_buergeriana,10903747]]"
+  - "[[_Standards/WikiData/WD~Cyperus_conglomeratus,12185265]]"
+  - "[[_Standards/WikiData/WD~Cinnamomum_zeylanicum,12892282]]"
+  - "[[_Standards/WikiData/WD~Pulicaria_undulata,15601352]]"
+  - "[[_Standards/WikiData/WD~Monosis_parishii,93041993]]"
+  - "[[_Standards/WikiData/WD~Lucensosergia_lucens,104374937]]"
+  - "[[_Standards/WikiData/WD~Agaricus_praeclaresquamosus,105048752]]"
+  - "[[_Standards/WikiData/WD~Capsicum_annuum,1380]]"
+  - "[[_Standards/WikiData/WD~pomegranate,13188]]"
+  - "[[_Standards/WikiData/WD~Prunus_persica,13189]]"
+  - "[[_Standards/WikiData/WD~Prunus_armeniaca,37453]]"
+  - "[[_Standards/WikiData/WD~cacao,42385]]"
+  - "[[_Standards/WikiData/WD~Prunus_domestica,44120]]"
+  - "[[_Standards/WikiData/WD~Coffea_arabica,47685]]"
+  - "[[_Standards/WikiData/WD~Phallus_impudicus,48188]]"
+medical_condition_treated: "[[_Standards/WikiData/WD~pain,81938]]"
+monomer_of: "[[_Standards/WikiData/WD~phenol_formaldehyde_resin,145897]]"
+different_from: "[[_Standards/WikiData/WD~phenols,407142]]"
+subclass_of: "[[_Standards/WikiData/WD~phenols,407142]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 safety_classification_and_labelling:
-  - '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
-  - '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-has_characteristic: '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
-has_effect: '[[_Standards/WikiData/WD~phenol_exposure,21175041]]'
-associated_hazard: '[[_Standards/WikiData/WD~phenol_exposure,21175041]]'
+  - "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+  - "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+has_characteristic: "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
+has_effect: "[[_Standards/WikiData/WD~phenol_exposure,21175041]]"
+associated_hazard: "[[_Standards/WikiData/WD~phenol_exposure,21175041]]"
 part_of:
-  - '[[_Standards/WikiData/WD~phenol_metabolic_process,22282348]]'
-  - '[[_Standards/WikiData/WD~phenol_catabolic_process,22282349]]'
-  - '[[_Standards/WikiData/WD~phenol_biosynthetic_process,22283211]]'
-  - '[[_Standards/WikiData/WD~phenol_2_monooxygenase_activity,22317608]]'
-  - '[[_Standards/WikiData/WD~phenol_O_methyltransferase_activity,22323436]]'
-  - '[[_Standards/WikiData/WD~tyrosine_phenol_lyase_activity,22324175]]'
-  - '[[_Standards/WikiData/WD~4_hydroxybenzoate_decarboxylase_activity,22324260]]'
-conjugate_base: '[[_Standards/WikiData/WD~phenolate,27122100]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~phenol_metabolic_process,22282348]]"
+  - "[[_Standards/WikiData/WD~phenol_catabolic_process,22282349]]"
+  - "[[_Standards/WikiData/WD~phenol_biosynthetic_process,22283211]]"
+  - "[[_Standards/WikiData/WD~phenol_2_monooxygenase_activity,22317608]]"
+  - "[[_Standards/WikiData/WD~phenol_O_methyltransferase_activity,22323436]]"
+  - "[[_Standards/WikiData/WD~tyrosine_phenol_lyase_activity,22324175]]"
+  - "[[_Standards/WikiData/WD~4_hydroxybenzoate_decarboxylase_activity,22324260]]"
+conjugate_base: "[[_Standards/WikiData/WD~phenolate,27122100]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 standard_enthalpy_of_formation: -162.944
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~carbon,623]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
-has_use: '[[_Standards/WikiData/WD~medication,12140]]'
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~carbon,623]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+has_use: "[[_Standards/WikiData/WD~medication,12140]]"
 vapor_pressure: 0.4
 ceiling_exposure_limit: 60
 solubility: 9
@@ -134,7 +134,7 @@ CCDC_Number:
 InChIKey: ISWSIDIOOBJBQZ-UHFFFAOYSA-N
 UNII: 339NCG44TV
 World_Health_Organisation_international_non_proprietary_name: phenol
-FL_number: 04.041
+FL_number: 4.041
 SPLASH:
   - splash10-0006-9000000000-e0f57b1e970d0d46597e
   - splash10-0006-9000000000-e67da0571423f0e6b4b8
@@ -168,11 +168,34 @@ CSD_Refcode:
   - PHENOL01
   - PHENOL03
 RTECS_number: SJ3325000
+dv_has_:
+  formula_:
+    sum: C6H5OH
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Phenol,130336]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol|Phenol]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.public|Phenol.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.internal|Phenol.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.protect|Phenol.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.private|Phenol.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.personal|Phenol.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.secret|Phenol.secret]]"
+dv_has_formula_sum: C6H5OH
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Phenol,130336]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol|Phenol]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.public|Phenol.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.internal|Phenol.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.protect|Phenol.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.private|Phenol.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.personal|Phenol.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.secret|Phenol.secret]]"
 ---
 
 # [[Phenol]] 
 
-#has_/formula_/sum :: C6H5OH 
+has_formula_sum = `=this.dv_has_formula_sum` 
 #is_/same_as :: [[WD~Phenol,130336]] 
 
 #has_/formula_/structural 

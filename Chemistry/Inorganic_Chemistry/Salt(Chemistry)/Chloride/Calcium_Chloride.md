@@ -5,31 +5,31 @@ aliases:
   - Calcium Chloride
 has_id_wikidata: Q208451
 has_part_s_:
-  - '[[_Standards/WikiData/WD~chloride_ion,108200]]'
-  - '[[_Standards/WikiData/WD~calcium(2+),23905776]]'
+  - "[[_Standards/WikiData/WD~chloride_ion,108200]]"
+  - "[[_Standards/WikiData/WD~calcium(2+),23905776]]"
 has_use:
-  - '[[_Standards/WikiData/WD~food_additive,189567]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
+  - "[[_Standards/WikiData/WD~food_additive,189567]]"
+  - "[[_Standards/WikiData/WD~medication,12140]]"
 medical_condition_treated:
-  - '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
-  - '[[_Standards/WikiData/WD~tetany,511818]]'
+  - "[[_Standards/WikiData/WD~cardiac_arrest,202837]]"
+  - "[[_Standards/WikiData/WD~tetany,511818]]"
 has_characteristic:
-  - '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-  - '[[_Standards/WikiData/WD~bitterness,1517187]]'
+  - "[[_Standards/WikiData/WD~hygroscopy,216678]]"
+  - "[[_Standards/WikiData/WD~bitterness,1517187]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~calcium_salt,4427704]]'
-  - '[[_Standards/WikiData/WD~chloride,44791900]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~pharmaceutical_preparation_of_calcium_chloride,4498216]]'
+  - "[[_Standards/WikiData/WD~calcium_salt,4427704]]"
+  - "[[_Standards/WikiData/WD~chloride,44791900]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~pharmaceutical_preparation_of_calcium_chloride,4498216]]"
 different_from:
-  - '[[_Standards/WikiData/WD~calcium_chloride_hexahydrate,27163154]]'
-  - '[[_Standards/WikiData/WD~calcium_chloride_monohydrate,27282950]]'
-  - '[[_Standards/WikiData/WD~calcium_chloride_dihydrate,29207042]]'
-  - '[[_Standards/WikiData/WD~calcium_chloride_tetrahydrate,82297357]]'
-  - '[[_Standards/WikiData/WD~Calcium_chloride,130291008]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-color: '[[_Standards/WikiData/WD~white,23444]]'
+  - "[[_Standards/WikiData/WD~calcium_chloride_hexahydrate,27163154]]"
+  - "[[_Standards/WikiData/WD~calcium_chloride_monohydrate,27282950]]"
+  - "[[_Standards/WikiData/WD~calcium_chloride_dihydrate,29207042]]"
+  - "[[_Standards/WikiData/WD~calcium_chloride_tetrahydrate,82297357]]"
+  - "[[_Standards/WikiData/WD~Calcium_chloride,130291008]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+color: "[[_Standards/WikiData/WD~white,23444]]"
 defined_daily_dose: 0.2
 density: 2.15
 melting_point:
@@ -52,10 +52,10 @@ E_number: E509
 NSC_number: 759598
 RxNorm_CUI: 1667640
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Calcium%20chloride.jpg
-canonical_SMILES: '[Cl-].[Cl-].[Ca+2]'
+canonical_SMILES: "[Cl-].[Cl-].[Ca+2]"
 CAS_Registry_Number: 10043-52-4
 EC_number: 233-140-8
-P8189: 987007293773205171
+P8189: 987007293773205100
 ATC_code:
   - A12AA07
   - B05XA07
@@ -67,12 +67,37 @@ MeSH_tree_code:
   - D01.210.450.150.150
 DSSTOX_compound_identifier: DTXCID30235
 RTECS_number: EV9800000
+dv_has_:
+  formula_:
+    sum: CaCl²
+    structural: Cl-Ca-Cl
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Calcium_chloride,208451|WD~Calcium_chloride,208451]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride|Calcium_Chloride]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.public|Calcium_Chloride.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.internal|Calcium_Chloride.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.protect|Calcium_Chloride.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.private|Calcium_Chloride.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.personal|Calcium_Chloride.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.secret|Calcium_Chloride.secret]]"
+dv_has_formula_sum: CaCl²
+dv_has_formula_structural: Cl-Ca-Cl
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Calcium_chloride,208451|WD~Calcium_chloride,208451]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride|Calcium_Chloride]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.public|Calcium_Chloride.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.internal|Calcium_Chloride.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.protect|Calcium_Chloride.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.private|Calcium_Chloride.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.personal|Calcium_Chloride.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride/Calcium_Chloride.secret|Calcium_Chloride.secret]]"
 ---
 
 # [[Calcium_Chloride]] 
 
-#has_/formula_/sum :: CaCl² 
-#has_/formula_/structural ::  Cl-Ca-Cl 
+has_formula_sum = `=this.dv_has_formula_sum` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Calcium_chloride,208451|WD~Calcium_chloride,208451]] 
 

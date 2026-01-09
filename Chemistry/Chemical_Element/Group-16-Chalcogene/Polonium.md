@@ -5,22 +5,22 @@ has_id_wikidata: Q979
 SpocWebEntityId: 21979
 type: Element
 part_of:
-  - '[[_Standards/WikiData/WD~group_16,104567]]'
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - "[[_Standards/WikiData/WD~group_16,104567]]"
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~group_16,104567]]'
-  - '[[_Standards/WikiData/WD~post_transition_metal,19591]]'
+  - "[[_Standards/WikiData/WD~group_16,104567]]"
+  - "[[_Standards/WikiData/WD~post_transition_metal,19591]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 time_of_discovery_or_invention: 1898-01-01T00:00:00Z
-different_from: '[[_Standards/WikiData/WD~Element_84,129955955]]'
+different_from: "[[_Standards/WikiData/WD~Element_84,129955955]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
-  - '[[_Standards/WikiData/WD~Pierre_Curie,37463]]'
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
-named_after: '[[_Standards/WikiData/WD~Poland,36]]'
+  - "[[_Standards/WikiData/WD~Marie_Curie,7186]]"
+  - "[[_Standards/WikiData/WD~Pierre_Curie,37463]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+named_after: "[[_Standards/WikiData/WD~Poland,36]]"
 electronegativity: 2
 atomic_number: 84
 ionic_radius: 0.97
@@ -35,7 +35,7 @@ InChI: InChI=1S/Po
 Commons_gallery: Polonium
 Commons_category: Polonium
 Unicode_character: 釙
-canonical_SMILES: '[Po]'
+canonical_SMILES: "[Po]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2019-11-22%20Spark%20plugs%20and%20static%20eliminators%20with%20radioactive%20polonium%20at%20museum%20display.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20157.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20084%20polonium.png
@@ -51,46 +51,124 @@ MeSH_tree_code:
   - D01.496.749.305.680
 DSSTOX_compound_identifier: DTXCID7047647
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/POLONI.html
+dv_has_:
+  name_:
+    group: Group-16-Chalcogene
+    en: Polonium
+    de: Polonium
+    abbreviated: Po
+  value_for_:
+    weight_:
+      u: 209
+    radius: 1.53
+    volume_:
+      ccm_:
+        mol: 22.23
+    unknown2: 1.46
+    radius_:
+      nano_:
+        m: 8.42
+    electronegativity: 2
+    density: 9.4
+    temperature_:
+      melt_:
+        c: 254
+      boil_:
+        c: 962
+    capacity_:
+      heat: 0
+    conductivity_:
+      heat: 0.2
+    enthalpy: 0
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 6
+    group: 16
+    electrons: 84
+dv_is_:
+  part_of: "[[../Group-16-Chalcogene]]"
+  same_as:
+    - "[[../../../WikiData/WD~Polonium,979]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium|Polonium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.public|Polonium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.internal|Polonium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.protect|Polonium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.private|Polonium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.personal|Polonium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.secret|Polonium.secret]]"
+dv_has_name_group: Group-16-Chalcogene
+dv_is_part_of: "[[../Group-16-Chalcogene]]"
+dv_has_name_en: Polonium
+dv_has_name_de: Polonium
+dv_has_value_for_weight_u: 209
+dv_has_value_for_radius: 1.53
+dv_has_value_for_volume_ccm_mol: 22.23
+dv_has_value_for_unknown2: 1.46
+dv_has_value_for_radius_nano_m: 8.42
+dv_has_value_for_electronegativity: 2
+dv_has_value_for_density: 9.4
+dv_has_value_for_temperature_melt_c: 254
+dv_has_value_for_temperature_boil_c: 962
+dv_has_value_for_capacity_heat: 0
+dv_has_value_for_conductivity_heat: 0.2
+dv_has_value_for_enthalpy: 0
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 6
+dv_has_number_of_group: 16
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Polonium,979]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium|Polonium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.public|Polonium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.internal|Polonium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.protect|Polonium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.private|Polonium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.personal|Polonium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.secret|Polonium.secret]]"
+dv_has_name_abbreviated: Po
+dv_has_number_of_electrons: 84
 ---
 
 # [[Polonium]]
 
 #chemic/Element 
-[has_/name_/group::Group-16-Chalcogene]
-is_/part_of::[[../Group-16-Chalcogene]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Polonium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Polonium 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::209 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::1.53]
-[has_/value_for_/volume_/ccm_/mol::22.23]
-[has_/value_for_/unknown2::1.46]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::8.42 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::2]
-[has_/value_for_/density::9.4]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::254 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::962 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0]
-[has_/value_for_/conductivity_/heat::0.2]
-[has_/value_for_/enthalpy::0]
-[has_/value_for_/energy_/form_/kj_/mol::0]
-(has_/number_of_/period::6)
-(has_/number_of_/group::16)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Polonium,979]]  
 
 
 ## #has_/text_of_/abstract 
 
-> **Polonium** is a chemical element with the symbol (has_/name_/abbreviated::Po) and atomic number (has_/number_of_/electrons::84). 
+> **Polonium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > Polonium is a chalcogen. A rare and highly radioactive metal with no stable isotopes, polonium is chemically similar to selenium and tellurium, though its metallic character resembles that of its horizontal neighbors in the periodic table: thallium, lead, and bismuth. Due to the short half-life of all its isotopes, its natural occurrence is limited to tiny traces of the fleeting polonium-210 (with a half-life of 138 days) in uranium ores, as it is the penultimate daughter of natural uranium-238. Though slightly longer-lived isotopes exist, they are much more difficult to produce. Today, polonium is usually produced in milligram quantities by the neutron irradiation of bismuth. Due to its intense radioactivity, which results in the radiolysis of chemical bonds and radioactive self-heating, its chemistry has mostly been investigated on the trace scale only.
 >
 > Polonium was discovered in July 1898 by Marie Skłodowska-Curie and Pierre Curie, when it was extracted from the uranium ore pitchblende and identified solely by its strong radioactivity: it was the first element to be so discovered. Polonium was named after Marie Curie's homeland of Poland. Polonium has few applications, and those are related to its radioactivity: heaters in space probes, antistatic devices, sources of neutrons and alpha particles, and poison. It is extremely dangerous to humans.

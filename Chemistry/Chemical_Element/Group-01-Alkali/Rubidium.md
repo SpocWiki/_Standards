@@ -83,7 +83,6 @@ dv_is_:
     - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.private|Rubidium.private]]"
     - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.personal|Rubidium.personal]]"
     - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Rubidium.secret|Rubidium.secret]]"
-  part_of: "[[../Group-01-Alkali]]"
 dv_has_:
   name_:
     group: Group-01-Alkali

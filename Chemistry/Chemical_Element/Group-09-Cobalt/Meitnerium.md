@@ -20,6 +20,25 @@ time_of_discovery_or_invention: 1982-08-29T00:00:00Z
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20109%20Meitnerium.svg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-meitnerium.ogg
 CAS_Registry_Number: 54038-01-6
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Meitnerium,1258]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium|Meitnerium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.public|Meitnerium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.internal|Meitnerium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.protect|Meitnerium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.private|Meitnerium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.personal|Meitnerium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.secret|Meitnerium.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Meitnerium,1258]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium|Meitnerium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.public|Meitnerium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.internal|Meitnerium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.protect|Meitnerium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.private|Meitnerium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.personal|Meitnerium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.secret|Meitnerium.secret]]"
 ---
 
 # [[Meitnerium]] 

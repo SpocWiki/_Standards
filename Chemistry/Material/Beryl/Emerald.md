@@ -26,6 +26,25 @@ Krugosvet_article: Earth_sciences/geologiya/IZUMRUD.html
 EAGLE_id: material/lod/291
 Library_of_Congress_Classification: QE394.E5
 Baidu_Tieba_name: 祖母绿
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Emerald,43513|WD~Emerald,43513]]"
+    - "[[/_Standards/Chemistry/Material/Beryl/Emerald|Emerald]]"
+    - "[[/_public/Chemistry/Material/Beryl/Emerald.public|Emerald.public]]"
+    - "[[/_internal/Chemistry/Material/Beryl/Emerald.internal|Emerald.internal]]"
+    - "[[/_protect/Chemistry/Material/Beryl/Emerald.protect|Emerald.protect]]"
+    - "[[/_private/Chemistry/Material/Beryl/Emerald.private|Emerald.private]]"
+    - "[[/_personal/Chemistry/Material/Beryl/Emerald.personal|Emerald.personal]]"
+    - "[[/_secret/Chemistry/Material/Beryl/Emerald.secret|Emerald.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Emerald,43513|WD~Emerald,43513]]"
+  - "[[/_Standards/Chemistry/Material/Beryl/Emerald|Emerald]]"
+  - "[[/_public/Chemistry/Material/Beryl/Emerald.public|Emerald.public]]"
+  - "[[/_internal/Chemistry/Material/Beryl/Emerald.internal|Emerald.internal]]"
+  - "[[/_protect/Chemistry/Material/Beryl/Emerald.protect|Emerald.protect]]"
+  - "[[/_private/Chemistry/Material/Beryl/Emerald.private|Emerald.private]]"
+  - "[[/_personal/Chemistry/Material/Beryl/Emerald.personal|Emerald.personal]]"
+  - "[[/_secret/Chemistry/Material/Beryl/Emerald.secret|Emerald.secret]]"
 ---
 
 # [[Emerald]] 

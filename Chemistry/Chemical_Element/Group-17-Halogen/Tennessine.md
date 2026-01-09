@@ -24,6 +24,25 @@ time_of_discovery_or_invention:
   - 2009-01-01T00:00:00Z
   - 2010-01-01T00:00:00Z
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20117%20Tennessine.svg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Tennessine,1306|WD~Tennessine,1306]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine|Tennessine]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.public|Tennessine.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.internal|Tennessine.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.protect|Tennessine.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.private|Tennessine.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.personal|Tennessine.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.secret|Tennessine.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Tennessine,1306|WD~Tennessine,1306]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine|Tennessine]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.public|Tennessine.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.internal|Tennessine.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.protect|Tennessine.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.private|Tennessine.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.personal|Tennessine.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.secret|Tennessine.secret]]"
 ---
 
 # [[Tennessine]] 

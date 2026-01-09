@@ -2,9 +2,9 @@
 aliases:
   - Thallium
 has_id_wikidata: Q932
-associated_hazard: '[[_Standards/WikiData/WD~thallium_poisoning,374832]]'
+associated_hazard: "[[_Standards/WikiData/WD~thallium_poisoning,374832]]"
 atomic_number: 81
-canonical_SMILES: '[Tl]'
+canonical_SMILES: "[Tl]"
 CAS_Registry_Number: 7440-28-0
 chemical_formula: Tl
 Commons_category: Thallium
@@ -12,27 +12,27 @@ Commons_gallery: Thallium
 Common_Procurement_Vocabulary_code: 14764000
 CPV_Supplementary_code: AA31
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~Tal,5576117]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Crookes,189552]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+different_from: "[[_Standards/WikiData/WD~Tal,5576117]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Crookes,189552]]"
 DSSTOX_compound_identifier: DTXCID301012091
 EC_number: 231-138-1
 electronegativity: 1.62
 element_symbol: Tl
 Gmelin_number: 16308
-has_effect: '[[_Standards/WikiData/WD~thallium_poisoning,374832]]'
+has_effect: "[[_Standards/WikiData/WD~thallium_poisoning,374832]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thallium%20pieces%20in%20ampoule.jpg
 InChI: InChI=1S/Tl
 InChIKey: BKVIYDNLLOSFOA-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 1.5
   - 1.7
@@ -45,61 +45,139 @@ mass: 204.38
 MeSH_tree_code:
   - D01.268.556.847
   - D01.552.544.847
-named_after: '[[_Standards/WikiData/WD~thallus,207495]]'
+named_after: "[[_Standards/WikiData/WD~thallus,207495]]"
 OmegaWiki_Defined_Meaning: 3761
 part_of:
-  - '[[_Standards/WikiData/WD~group_13,189294]]'
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - "[[_Standards/WikiData/WD~group_13,189294]]"
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20161.jpg
 PubChem_CID: 5359464
 SpocWebEntityId: 21976
-subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 time_of_discovery_or_invention: 1861
 type: Element
 UMLS_CUI: C0039738
 Unicode_character: 鉈
 UNII: AD84R52XLF
 ZVG_number: 7810
+dv_has_:
+  name_:
+    group: Group-13-Boron
+    en: Thallium
+    de: Thallium
+    abbreviated: Tl
+  value_for_:
+    weight_:
+      u: 204.383
+    radius: 2.08
+    volume_:
+      ccm_:
+        mol: 17.2
+    unknown2: 1.48
+    radius_:
+      nano_:
+        m: 6.108
+    electronegativity: 2
+    density: 11.85
+    temperature_:
+      melt_:
+        c: 303.5
+      boil_:
+        c: 1457
+    capacity_:
+      heat: 0.13
+    conductivity_:
+      heat: 0.461
+    enthalpy: 4.142
+    energy_:
+      form_:
+        kj_:
+          mol: 164.1
+  number_of_:
+    period: 6
+    group: 13
+    electrons: 81
+dv_is_:
+  part_of: "[[../Group-13-Boron]]"
+  same_as:
+    - "[[../../../WikiData/WD~Thallium,932]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium|Thallium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public|Thallium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal|Thallium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Thallium.protect|Thallium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Thallium.private|Thallium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.personal|Thallium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Thallium.secret|Thallium.secret]]"
+dv_has_name_group: Group-13-Boron
+dv_is_part_of: "[[../Group-13-Boron]]"
+dv_has_name_en: Thallium
+dv_has_name_de: Thallium
+dv_has_value_for_weight_u: 204.383
+dv_has_value_for_radius: 2.08
+dv_has_value_for_volume_ccm_mol: 17.2
+dv_has_value_for_unknown2: 1.48
+dv_has_value_for_radius_nano_m: 6.108
+dv_has_value_for_electronegativity: 2
+dv_has_value_for_density: 11.85
+dv_has_value_for_temperature_melt_c: 303.5
+dv_has_value_for_temperature_boil_c: 1457
+dv_has_value_for_capacity_heat: 0.13
+dv_has_value_for_conductivity_heat: 0.461
+dv_has_value_for_enthalpy: 4.142
+dv_has_value_for_energy_form_kj_mol: 164.1
+dv_has_number_of_period: 6
+dv_has_number_of_group: 13
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Thallium,932]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium|Thallium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public|Thallium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal|Thallium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Thallium.protect|Thallium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Thallium.private|Thallium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.personal|Thallium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Thallium.secret|Thallium.secret]]"
+dv_has_name_abbreviated: Tl
+dv_has_number_of_electrons: 81
 ---
 
 # [[Thallium]] 
 
 #chemic/Element 
 
-[has_/name_/group::Group-13-Boron]
-is_/part_of::[[../Group-13-Boron]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Thallium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Thallium 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::204.383 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::2.08]
-[has_/value_for_/volume_/ccm_/mol::17.2]
-[has_/value_for_/unknown2::1.48]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.108 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::2]
-[has_/value_for_/density::11.85]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::303.5 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::1457 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.13]
-[has_/value_for_/conductivity_/heat::0.461]
-[has_/value_for_/enthalpy::4.142]
-[has_/value_for_/energy_/form_/kj_/mol::164.1]
-(has_/number_of_/period::6)
-(has_/number_of_/group::13)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 #is_/same_as :: [[../../../WikiData/WD~Thallium,932]] 
 
 
 ## #has_/text_of_/abstract 
 
-> **Thallium**  is a chemical element with the symbol (has_/name_/abbreviated::Tl) and atomic number (has_/number_of_/electrons::81). 
+> **Thallium**  is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a gray post-transition metal that is not found free in nature. 
 > 
 > When isolated, thallium resembles tin, but discolors when exposed to air. 

@@ -24,6 +24,25 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hassium.ogg
 electron_configuration: "[Rn] 5f¹⁴ 6d⁶ 7s²"
 CAS_Registry_Number: 54037-57-9
 DSSTOX_compound_identifier: DTXCID601323015
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Hassium,1252]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Hassium|Hassium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Hassium.public|Hassium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.internal|Hassium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Hassium.protect|Hassium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Hassium.private|Hassium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.personal|Hassium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Hassium.secret|Hassium.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Hassium,1252]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Hassium|Hassium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Hassium.public|Hassium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.internal|Hassium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Hassium.protect|Hassium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Hassium.private|Hassium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Hassium.personal|Hassium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Hassium.secret|Hassium.secret]]"
 ---
 
 # [[Hassium]] 

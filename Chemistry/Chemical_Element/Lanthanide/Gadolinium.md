@@ -56,7 +56,6 @@ dv_is_:
     - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Gadolinium.private|Gadolinium.private]]"
     - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Gadolinium.personal|Gadolinium.personal]]"
     - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Gadolinium.secret|Gadolinium.secret]]"
-  part_of: "[[../Lanthanide]]"
 dv_has_:
   name_:
     group: Lanthanide-Group

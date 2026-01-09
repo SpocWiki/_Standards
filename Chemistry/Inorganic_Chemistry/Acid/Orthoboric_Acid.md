@@ -13,31 +13,31 @@ CSD_Refcode: JAGREP
 ATC_code:
   - S02AA03
   - D08AD
-found_in_taxon: '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
 has_use:
-  - '[[_Standards/WikiData/WD~insecticide,181322]]'
-  - '[[_Standards/WikiData/WD~food_preservative,6509670]]'
-  - '[[_Standards/WikiData/WD~fire_prevention_agent,107870616]]'
+  - "[[_Standards/WikiData/WD~insecticide,181322]]"
+  - "[[_Standards/WikiData/WD~food_preservative,6509670]]"
+  - "[[_Standards/WikiData/WD~fire_prevention_agent,107870616]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~mineral_acid,408683]]'
-  - '[[_Standards/WikiData/WD~boron_oxoacid,73358092]]'
+  - "[[_Standards/WikiData/WD~mineral_acid,408683]]"
+  - "[[_Standards/WikiData/WD~boron_oxoacid,73358092]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 part_of:
-  - '[[_Standards/WikiData/WD~active_borate_transmembrane_transporter_activity,21135415]]'
-  - '[[_Standards/WikiData/WD~borate_transmembrane_transport,21135412]]'
-  - '[[_Standards/WikiData/WD~borate_transport,21135413]]'
-  - '[[_Standards/WikiData/WD~borate_binding,22314429]]'
-  - '[[_Standards/WikiData/WD~borate_efflux_transmembrane_transporter_activity,22325006]]'
-  - '[[_Standards/WikiData/WD~borate_export_across_plasma_membrane,47991394]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~active_borate_transmembrane_transporter_activity,21135415]]"
+  - "[[_Standards/WikiData/WD~borate_transmembrane_transport,21135412]]"
+  - "[[_Standards/WikiData/WD~borate_transport,21135413]]"
+  - "[[_Standards/WikiData/WD~borate_binding,22314429]]"
+  - "[[_Standards/WikiData/WD~borate_efflux_transmembrane_transporter_activity,22325006]]"
+  - "[[_Standards/WikiData/WD~borate_export_across_plasma_membrane,47991394]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~boron,618]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~boron,618]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
 pKa:
   - 9.2
   - 9.14
@@ -66,11 +66,33 @@ UMLS_CUI:
   - C0006020
   - C0892158
 DSSTOX_compound_identifier: DTXCID10194
+dv_has_:
+  formula_: B(OH)³
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Orthoboric_acid,187045]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid|Orthoboric_Acid]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.public|Orthoboric_Acid.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.internal|Orthoboric_Acid.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.protect|Orthoboric_Acid.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.private|Orthoboric_Acid.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.personal|Orthoboric_Acid.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.secret|Orthoboric_Acid.secret]]"
+dv_has_formula_: B(OH)³
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Orthoboric_acid,187045]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid|Orthoboric_Acid]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.public|Orthoboric_Acid.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.internal|Orthoboric_Acid.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.protect|Orthoboric_Acid.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.private|Orthoboric_Acid.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.personal|Orthoboric_Acid.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Orthoboric_Acid.secret|Orthoboric_Acid.secret]]"
 ---
 
 # [[Orthoboric_Acid]] 
 
-#has_/formula_ :: B(OH)³ 
+has_formula_ = `=this.dv_has_formula_` 
 #is_/same_as :: [[WD~Orthoboric_acid,187045]] 
 ## #has_/text_of_/abstract 
 

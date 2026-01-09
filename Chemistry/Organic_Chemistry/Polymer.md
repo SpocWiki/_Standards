@@ -30,6 +30,25 @@ MeSH_tree_code:
   - D05.750
   - D25.720
   - J01.637.051.720
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Polymer,81163]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer|Polymer]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Polymer.public|Polymer.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Polymer.internal|Polymer.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Polymer.protect|Polymer.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Polymer.private|Polymer.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Polymer.personal|Polymer.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Polymer.secret|Polymer.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Polymer,81163]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer|Polymer]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Polymer.public|Polymer.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Polymer.internal|Polymer.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Polymer.protect|Polymer.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Polymer.private|Polymer.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Polymer.personal|Polymer.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Polymer.secret|Polymer.secret]]"
 ---
 
 # [[Polymer]] 

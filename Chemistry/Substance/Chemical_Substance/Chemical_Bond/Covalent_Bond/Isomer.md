@@ -11,6 +11,25 @@ subclass_of: "[[_Standards/WikiData/WD~molecule,11369]]"
 OmegaWiki_Defined_Meaning: "2034"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Isomero.wav
 Commons_category: Isomerism
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Isomer,127950]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer|Isomer]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.public|Isomer.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.internal|Isomer.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.protect|Isomer.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.private|Isomer.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.personal|Isomer.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.secret|Isomer.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Isomer,127950]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer|Isomer]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.public|Isomer.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.internal|Isomer.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.protect|Isomer.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.private|Isomer.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.personal|Isomer.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.secret|Isomer.secret]]"
 ---
 
 # [[Isomer]] 

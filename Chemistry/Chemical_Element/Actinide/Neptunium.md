@@ -3,17 +3,17 @@ aliases:
   - Neptunium
 has_id_wikidata: Q1105
 atomic_number: 93
-canonical_SMILES: '[Np]'
+canonical_SMILES: "[Np]"
 CAS_Registry_Number: 7439-99-8
 chemical_formula: Np
 Commons_category: Neptunium
 Commons_gallery: Neptunium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 Dewey_Decimal_Classification: 546.432
-different_from: '[[_Standards/WikiData/WD~Neptun,1261928]]'
+different_from: "[[_Standards/WikiData/WD~Neptun,1261928]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Philip_Abelson,377815]]'
-  - '[[_Standards/WikiData/WD~Edwin_McMillan,19009]]'
+  - "[[_Standards/WikiData/WD~Philip_Abelson,377815]]"
+  - "[[_Standards/WikiData/WD~Edwin_McMillan,19009]]"
 DSSTOX_compound_identifier: DTXCID3047639
 EC_number: 231-108-8
 electronegativity: 1.36
@@ -21,7 +21,7 @@ element_symbol: Np
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neptunium2.jpg
 InChI: InChI=1S/Np
 InChIKey: LFNLGNPSGWYGGD-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.72
   - 0.75
@@ -33,11 +33,11 @@ MeSH_tree_code:
   - D01.496.749.305.100.550
   - D01.552.020.621
   - D01.552.544.600
-named_after: '[[_Standards/WikiData/WD~Neptune,332]]'
+named_after: "[[_Standards/WikiData/WD~Neptune,332]]"
 OmegaWiki_Defined_Meaning: 377199
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~actinide,19577]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20148.jpg
 PubChem_CID: 23933
 SpocWebEntityId: 21988
@@ -46,40 +46,118 @@ type: Element
 UMLS_CUI: C0027734
 Unicode_character: 錼
 UNII: 6200K977BQ
+dv_has_:
+  name_:
+    group: Actinide-Group
+    en: Neptunium
+    de: Neptunium
+    abbreviated: Np
+  value_for_:
+    weight_:
+      u: 237.0482
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 11.62
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 6.19
+    electronegativity: 1.4
+    density: 20.4
+    temperature_:
+      melt_:
+        c: 640
+      boil_:
+        c: 3902
+    capacity_:
+      heat: 0.12
+    conductivity_:
+      heat: 0.063
+    enthalpy: 5.19
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 27
+    electrons: 93
+dv_is_:
+  part_of: "[[../Actinide]]"
+  same_as:
+    - "[[../../../WikiData/WD~Neptunium,1105]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Neptunium|Neptunium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Actinide/Neptunium.public|Neptunium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Neptunium.internal|Neptunium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Neptunium.protect|Neptunium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Actinide/Neptunium.private|Neptunium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Neptunium.personal|Neptunium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Neptunium.secret|Neptunium.secret]]"
+dv_has_name_group: Actinide-Group
+dv_is_part_of: "[[../Actinide]]"
+dv_has_name_en: Neptunium
+dv_has_name_de: Neptunium
+dv_has_name_abbreviated: Np
+dv_has_value_for_weight_u: 237.0482
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 11.62
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 6.19
+dv_has_value_for_electronegativity: 1.4
+dv_has_value_for_density: 20.4
+dv_has_value_for_temperature_melt_c: 640
+dv_has_value_for_temperature_boil_c: 3902
+dv_has_value_for_capacity_heat: 0.12
+dv_has_value_for_conductivity_heat: 0.063
+dv_has_value_for_enthalpy: 5.19
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 27
+dv_has_number_of_electrons: 93
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Neptunium,1105]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Neptunium|Neptunium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Actinide/Neptunium.public|Neptunium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Neptunium.internal|Neptunium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Neptunium.protect|Neptunium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Actinide/Neptunium.private|Neptunium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Neptunium.personal|Neptunium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Neptunium.secret|Neptunium.secret]]"
 ---
 
 #chemic/Element 
-[has_/name_/group::Actinide-Group]
-is_/part_of::[[../Actinide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Neptunium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Neptunium 
+has_name_de = `=this.dv_has_name_de` 
 
-(has_/name_/abbreviated::Np)
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-has_/value_for_/weight_/u::237.0482 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::0]
-[has_/value_for_/volume_/ccm_/mol::11.62]
-[has_/value_for_/unknown2::0]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.19 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.4]
-[has_/value_for_/density::20.4]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::640 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::3902 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.12]
-[has_/value_for_/conductivity_/heat::0.063]
-[has_/value_for_/enthalpy::5.19]
-[has_/value_for_/energy_/form_/kj_/mol::0]
-(has_/number_of_/period::7)
-(has_/number_of_/group::27)
-(has_/number_of_/electrons::93)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 #is_/same_as :: [[../../../WikiData/WD~Neptunium,1105]] 
 

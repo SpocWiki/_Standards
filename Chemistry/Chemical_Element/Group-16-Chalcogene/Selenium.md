@@ -75,46 +75,123 @@ UNII: H6241UJ22B
 vapor_pressure: 0
 Wolfram_Language_entity_code: Entity["Mineral", "Selenium"]
 ZVG_number: 7340
+dv_has_:
+  name_:
+    group: Group-16-Chalcogene
+    en: Selenium
+    de: Selen
+    abbreviated: Se
+  value_for_:
+    weight_:
+      u: 78.96
+    radius: 1.22
+    volume_:
+      ccm_:
+        mol: 16.45
+    unknown2: 1.16
+    radius_:
+      nano_:
+        m: 9.752
+    electronegativity: 2.5
+    density: 4.8
+    temperature_:
+      melt_:
+        c: 217
+      boil_:
+        c: 684.9
+    capacity_:
+      heat: 0.32
+    conductivity_:
+      heat: 0.0204
+    enthalpy: 6.694
+    energy_:
+      form_:
+        kj_:
+          mol: 37.7
+  number_of_:
+    period: 4
+    group: 16
+    electrons: 34
+dv_Group: "[[../Group-16-Chalcogene]]"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Selenium,876]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium|Selenium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.public|Selenium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.internal|Selenium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.protect|Selenium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.private|Selenium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.personal|Selenium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.secret|Selenium.secret]]"
+dv_has_name_group: Group-16-Chalcogene
+dv_has_name_en: Selenium
+dv_has_name_de: Selen
+dv_has_value_for_weight_u: 78.96
+dv_has_value_for_radius: 1.22
+dv_has_value_for_volume_ccm_mol: 16.45
+dv_has_value_for_unknown2: 1.16
+dv_has_value_for_radius_nano_m: 9.752
+dv_has_value_for_electronegativity: 2.5
+dv_has_value_for_density: 4.8
+dv_has_value_for_temperature_melt_c: 217
+dv_has_value_for_temperature_boil_c: 684.9
+dv_has_value_for_capacity_heat: 0.32
+dv_has_value_for_conductivity_heat: 0.0204
+dv_has_value_for_enthalpy: 6.694
+dv_has_value_for_energy_form_kj_mol: 37.7
+dv_has_number_of_period: 4
+dv_has_number_of_group: 16
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Selenium,876]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium|Selenium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.public|Selenium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.internal|Selenium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.protect|Selenium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.private|Selenium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.personal|Selenium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Selenium.secret|Selenium.secret]]"
+dv_has_name_abbreviated: Se
+dv_has_number_of_electrons: 34
 ---
 
 # [[Selenium]] 
 
 #chemic/Element 
-[has_/name_/group::Group-16-Chalcogene] 
-[Group :: [[../Group-16-Chalcogene]] ]
+has_name_group = `=this.dv_has_name_group`  
+Group = `=this.dv_Group` ] ]
 
-has_/name_/en::Selenium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Selen 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::78.96 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::1.22] 
-[has_/value_for_/volume_/ccm_/mol::16.45]  
-[has_/value_for_/unknown2::1.16] 
+has_value_for_radius = `=this.dv_has_value_for_radius`  
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol`   
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2`  
 
-has_/value_for_/radius_/nano_/m::9.752 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::2.5] 
-[has_/value_for_/density::4.8] 
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity`  
+has_value_for_density = `=this.dv_has_value_for_density`  
 
-has_/value_for_/temperature_/melt_/c ::217 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::684.9 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.32] 
-[has_/value_for_/conductivity_/heat::0.0204] 
-[has_/value_for_/enthalpy::6.694] 
-[has_/value_for_/energy_/form_/kj_/mol::37.7] 
-(has_/number_of_/period::4) 
-(has_/number_of_/group::16) 
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat`  
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat`  
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy`  
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`  
+has_number_of_period = `=this.dv_has_number_of_period`  
+has_number_of_group = `=this.dv_has_number_of_group`  
 
 #is_/same_as :: [[../../../WikiData/WD~Selenium,876]] 
 
 
 ## #has_/text_of_/abstract 
 
-> **Selenium** is a chemical element with the symbol (has_/name_/abbreviated::Se) and atomic number (has_/number_of_/electrons::34). 
+> **Selenium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a nonmetal (more rarely considered a metalloid) with properties that are 
 > intermediate between the elements above and below in the periodic table, sulfur and tellurium, 
 > and also has similarities to arsenic. 

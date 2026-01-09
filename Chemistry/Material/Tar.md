@@ -1,7 +1,28 @@
+---
+dv_is_:
+  similar_to: "[[Bitumen]]"
+  same_as:
+    - "[[/_Standards/Chemistry/Material/Tar|Tar]]"
+    - "[[/_public/Chemistry/Material/Tar.public|Tar.public]]"
+    - "[[/_internal/Chemistry/Material/Tar.internal|Tar.internal]]"
+    - "[[/_protect/Chemistry/Material/Tar.protect|Tar.protect]]"
+    - "[[/_private/Chemistry/Material/Tar.private|Tar.private]]"
+    - "[[/_personal/Chemistry/Material/Tar.personal|Tar.personal]]"
+    - "[[/_secret/Chemistry/Material/Tar.secret|Tar.secret]]"
+dv_is_similar_to: "[[Bitumen]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Material/Tar|Tar]]"
+  - "[[/_public/Chemistry/Material/Tar.public|Tar.public]]"
+  - "[[/_internal/Chemistry/Material/Tar.internal|Tar.internal]]"
+  - "[[/_protect/Chemistry/Material/Tar.protect|Tar.protect]]"
+  - "[[/_private/Chemistry/Material/Tar.private|Tar.private]]"
+  - "[[/_personal/Chemistry/Material/Tar.personal|Tar.personal]]"
+  - "[[/_secret/Chemistry/Material/Tar.secret|Tar.secret]]"
+---
 
 # [[Tar]] 
 
-#is_/similar_to :: [[Bitumen]] 
+is_similar_to = `=this.dv_is_similar_to` 
 
 ## #has_/text_of_/abstract 
 

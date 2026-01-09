@@ -33,6 +33,25 @@ Commons_category: Ethers
 Krugosvet_article: nauka_i_tehnika/himiya/PROSTIE_EFIRI.html
 general_formula: R–O–R′
 Gujarati_Vishwakosh_entry: ઈથર-રસાયણ
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ethers,103230|WD~Ethers,103230]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Ether|Ether]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Ether.public|Ether.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Ether.internal|Ether.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Ether.protect|Ether.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Ether.private|Ether.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Ether.personal|Ether.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Ether.secret|Ether.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ethers,103230|WD~Ethers,103230]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Ether|Ether]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Ether.public|Ether.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Ether.internal|Ether.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Ether.protect|Ether.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Ether.private|Ether.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Ether.personal|Ether.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Ether.secret|Ether.secret]]"
 ---
 
 # [[Ether]] 

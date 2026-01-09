@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/organoMetallic|organoMetallic]]"
+    - "[[/_public/Chemistry/organoMetallic.public|organoMetallic.public]]"
+    - "[[/_internal/Chemistry/organoMetallic.internal|organoMetallic.internal]]"
+    - "[[/_protect/Chemistry/organoMetallic.protect|organoMetallic.protect]]"
+    - "[[/_private/Chemistry/organoMetallic.private|organoMetallic.private]]"
+    - "[[/_personal/Chemistry/organoMetallic.personal|organoMetallic.personal]]"
+    - "[[/_secret/Chemistry/organoMetallic.secret|organoMetallic.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/organoMetallic|organoMetallic]]"
+  - "[[/_public/Chemistry/organoMetallic.public|organoMetallic.public]]"
+  - "[[/_internal/Chemistry/organoMetallic.internal|organoMetallic.internal]]"
+  - "[[/_protect/Chemistry/organoMetallic.protect|organoMetallic.protect]]"
+  - "[[/_private/Chemistry/organoMetallic.private|organoMetallic.private]]"
+  - "[[/_personal/Chemistry/organoMetallic.personal|organoMetallic.personal]]"
+  - "[[/_secret/Chemistry/organoMetallic.secret|organoMetallic.secret]]"
+---
 
 > **organometallic** [[../../Knowledge/Chemistry|chemistry]] is the study of organometallic compounds, 
 > chemical compounds containing at least one chemical bond 

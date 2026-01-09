@@ -3,6 +3,23 @@ aliases:
   - Cavendish experiment
   - Cavendish_Experiment
   - Cavendish Experiment
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment|Cavendish_Experiment]]"
+    - "[[/_public/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.public|Cavendish_Experiment.public]]"
+    - "[[/_internal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.internal|Cavendish_Experiment.internal]]"
+    - "[[/_protect/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.protect|Cavendish_Experiment.protect]]"
+    - "[[/_private/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.private|Cavendish_Experiment.private]]"
+    - "[[/_personal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.personal|Cavendish_Experiment.personal]]"
+    - "[[/_secret/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.secret|Cavendish_Experiment.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment|Cavendish_Experiment]]"
+  - "[[/_public/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.public|Cavendish_Experiment.public]]"
+  - "[[/_internal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.internal|Cavendish_Experiment.internal]]"
+  - "[[/_protect/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.protect|Cavendish_Experiment.protect]]"
+  - "[[/_private/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.private|Cavendish_Experiment.private]]"
+  - "[[/_personal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.personal|Cavendish_Experiment.personal]]"
+  - "[[/_secret/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.secret|Cavendish_Experiment.secret]]"
 ---
 
 # [[Cavendish_Experiment]] 

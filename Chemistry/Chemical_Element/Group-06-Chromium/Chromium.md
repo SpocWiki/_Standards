@@ -114,6 +114,86 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystal%20g
 Wolfram_Language_entity_code: Entity["Mineral", "Chromium"]
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/chromium
 ZVG_number: 8190
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Chromium,725]]"
+    - "[[../../../WikiData/WD~Chromium,725|WD~Chromium,725]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Chromium|Chromium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.public|Chromium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.internal|Chromium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.protect|Chromium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.private|Chromium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.personal|Chromium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.secret|Chromium.secret]]"
+  part_of: "[[../Group-06-Chromium]]"
+dv_has_:
+  name_:
+    group: Group-06-Chromium
+    en: Chromium
+    de: Chrom
+    abbreviated: Cr
+  value_for_:
+    weight_:
+      u: 51.996
+    radius: 1.85
+    volume_:
+      ccm_:
+        mol: 7.23
+    unknown2: 1.18
+    radius_:
+      nano_:
+        m: 6.766
+    electronegativity: 1.7
+    density: 7.19
+    temperature_:
+      melt_:
+        c: 1857
+      boil_:
+        c: 2672
+    capacity_:
+      heat: 0.45
+    conductivity_:
+      heat: 0.937
+    enthalpy: 16.9
+    energy_:
+      form_:
+        kj_:
+          mol: 344.3
+  number_of_:
+    period: 4
+    electrons: 24
+    group: 6
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Chromium,725]]"
+  - "[[../../../WikiData/WD~Chromium,725|WD~Chromium,725]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Chromium|Chromium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.public|Chromium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.internal|Chromium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.protect|Chromium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.private|Chromium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.personal|Chromium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Chromium.secret|Chromium.secret]]"
+dv_has_name_group: Group-06-Chromium
+dv_is_part_of: "[[../Group-06-Chromium]]"
+dv_has_name_en: Chromium
+dv_has_name_de: Chrom
+dv_has_value_for_weight_u: 51.996
+dv_has_value_for_radius: 1.85
+dv_has_value_for_volume_ccm_mol: 7.23
+dv_has_value_for_unknown2: 1.18
+dv_has_value_for_radius_nano_m: 6.766
+dv_has_value_for_electronegativity: 1.7
+dv_has_value_for_density: 7.19
+dv_has_value_for_temperature_melt_c: 1857
+dv_has_value_for_temperature_boil_c: 2672
+dv_has_value_for_capacity_heat: 0.45
+dv_has_value_for_conductivity_heat: 0.937
+dv_has_value_for_enthalpy: 16.9
+dv_has_value_for_energy_form_kj_mol: 344.3
+dv_has_number_of_period: 4
+dv_has_name_abbreviated: Cr
+dv_has_number_of_electrons: 24
+dv_has_number_of_group: 6
 ---
 
 # [[Chromium]] 
@@ -121,40 +201,40 @@ ZVG_number: 8190
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Chromium,725]] 
 
-[has_/name_/group::Group-06-Chromium]
-is_/part_of::[[../Group-06-Chromium]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Chromium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Chrom 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::51.996 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::1.85]
-[has_/value_for_/volume_/ccm_/mol::7.23]
-[has_/value_for_/unknown2::1.18]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.766 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.7]
-[has_/value_for_/density::7.19]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::1857 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::2672 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.45]
-[has_/value_for_/conductivity_/heat::0.937]
-[has_/value_for_/enthalpy::16.9]
-[has_/value_for_/energy_/form_/kj_/mol::344.3]
-(has_/number_of_/period::4)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
 
 #is_/same_as :: [[../../../WikiData/WD~Chromium,725|WD~Chromium,725]] 
 
 ## #has_/text_of_/abstract 
 
-> **Chromium** is a chemical element with the symbol (has_/name_/abbreviated::Cr) and atomic number (has_/number_of_/electrons::24). 
-> It is the first element in group (has_/number_of_/group::6). 
+> **Chromium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
+> It is the first element in group has_number_of_group = `=this.dv_has_number_of_group` . 
 > It is a steely-grey, lustrous, hard, and brittle transition metal. 
 > 
 > Chromium metal is valued for its high corrosion resistance and hardness. 

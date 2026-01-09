@@ -21,10 +21,31 @@ instance_of:
   - "[[_Standards/WikiData/WD~physics_term,100724091]]"
 OmegaWiki_Defined_Meaning: "10"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Absorber.svg
+dv_is_:
+  different_from: "[[Adsorption]]"
+  same_as:
+    - "[[wd~Absorption,332828]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Absorption|Absorption]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Absorption.public|Absorption.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Absorption.internal|Absorption.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Absorption.protect|Absorption.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Absorption.private|Absorption.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Absorption.personal|Absorption.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Absorption.secret|Absorption.secret]]"
+dv_is_different_from: "[[Adsorption]]"
+dv_is_same_as:
+  - "[[wd~Absorption,332828]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Absorption|Absorption]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Absorption.public|Absorption.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Absorption.internal|Absorption.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Absorption.protect|Absorption.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Absorption.private|Absorption.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Absorption.personal|Absorption.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Absorption.secret|Absorption.secret]]"
 ---
 
 
-#is_/different_from :: [[../../../Chemical_Reaction/Adsorption]] 
+is_different_from = `=this.dv_is_different_from` 
 #is_/same_as :: [[wd~Absorption,332828]] 
 
 ## #has_/text_of_/abstract 

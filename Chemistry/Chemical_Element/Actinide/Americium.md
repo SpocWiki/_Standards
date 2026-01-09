@@ -3,14 +3,14 @@ aliases:
   - Americium
 has_id_wikidata: Q1872
 atomic_number: 95
-canonical_SMILES: '[Am]'
+canonical_SMILES: "[Am]"
 CAS_Registry_Number: 7440-35-9
 chemical_formula: Am
 Commons_category: Americium
 Commons_gallery: Americium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 Dewey_Decimal_Classification: 546.441
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 DSSTOX_compound_identifier: DTXCID6047658
 EC_number: 231-144-4
 electronegativity: 1.13
@@ -18,7 +18,7 @@ element_symbol: Am
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Americium%20microscope.jpg
 InChI: InChI=1S/Am
 InChIKey: LXQXZNRPTYVCNG-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.85
   - 0.95
@@ -31,58 +31,136 @@ MeSH_tree_code:
   - D01.496.749.305.100.050
   - D01.552.020.086
   - D01.552.544.037
-named_after: '[[_Standards/WikiData/WD~Americas,828]]'
+named_after: "[[_Standards/WikiData/WD~Americas,828]]"
 OmegaWiki_Defined_Meaning: 155847
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~actinide,19577]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20146.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-am%C3%A9ricium.wav
 PubChem_CID: 23966
 SpocWebEntityId: 21990
 time_of_discovery_or_invention: 1944
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_americium,8085709]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_americium,8085709]]"
 type: Element
 Unicode_character: 鋂
 UNII: VW92PHU2UY
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Americium,1872]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Americium|Americium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Actinide/Americium.public|Americium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Americium.internal|Americium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Americium.protect|Americium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Actinide/Americium.private|Americium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Americium.personal|Americium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Americium.secret|Americium.secret]]"
+  part_of: "[[../Actinide]]"
+dv_has_:
+  name_:
+    group: Actinide-Group
+    en: Americium
+    de: Americium
+    abbreviated: Am
+  value_for_:
+    weight_:
+      u: 243
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 17.86
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 5.993
+    electronegativity: 1.3
+    density: 13.6
+    temperature_:
+      melt_:
+        c: 994
+      boil_:
+        c: 2607
+    capacity_:
+      heat: 0.11
+    conductivity_:
+      heat: 0.1
+    enthalpy: 14.4
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 29
+    electrons: 95
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Americium,1872]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Americium|Americium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Actinide/Americium.public|Americium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Americium.internal|Americium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Americium.protect|Americium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Actinide/Americium.private|Americium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Americium.personal|Americium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Americium.secret|Americium.secret]]"
+dv_has_name_group: Actinide-Group
+dv_is_part_of: "[[../Actinide]]"
+dv_has_name_en: Americium
+dv_has_name_de: Americium
+dv_has_name_abbreviated: Am
+dv_has_value_for_weight_u: 243
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 17.86
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 5.993
+dv_has_value_for_electronegativity: 1.3
+dv_has_value_for_density: 13.6
+dv_has_value_for_temperature_melt_c: 994
+dv_has_value_for_temperature_boil_c: 2607
+dv_has_value_for_capacity_heat: 0.11
+dv_has_value_for_conductivity_heat: 0.1
+dv_has_value_for_enthalpy: 14.4
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 29
+dv_has_number_of_electrons: 95
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Americium,1872]] 
 
 
 #chemic/Element 
-[has_/name_/group::Actinide-Group]
-is_/part_of::[[../Actinide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Americium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Americium 
+has_name_de = `=this.dv_has_name_de` 
 
-(has_/name_/abbreviated::Am)
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-has_/value_for_/weight_/u::243 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::0]
-[has_/value_for_/volume_/ccm_/mol::17.86]
-[has_/value_for_/unknown2::0]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::5.993 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.3]
-[has_/value_for_/density::13.6]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::994 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::2607 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.11]
-[has_/value_for_/conductivity_/heat::0.1]
-[has_/value_for_/enthalpy::14.4]
-[has_/value_for_/energy_/form_/kj_/mol::0]
-(has_/number_of_/period::7)
-(has_/number_of_/group::29)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 []
-(has_/number_of_/electrons::95)
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 
 

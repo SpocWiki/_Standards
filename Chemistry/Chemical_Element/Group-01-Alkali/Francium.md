@@ -51,37 +51,115 @@ type: Element
 UMLS_CUI: C0016678
 Unicode_character: 鍅
 UNII: 15TEQ7D2QF
+dv_has_:
+  name_:
+    en: Francium
+    de: Francium
+    group: Group-01-Alkali
+    abbreviated: Fr
+  value_for_:
+    weight_:
+      u: 223
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 0
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 0
+    electronegativity: 0.7
+    density: 0
+    temperature_:
+      melt_:
+        c: 27
+      boil_:
+        c: 677
+    capacity_:
+      heat: 0
+    conductivity_:
+      heat: 0.15
+    enthalpy: 0
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 1
+    electrons: 87
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Francium,671]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Francium|Francium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Francium.public|Francium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.internal|Francium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Francium.protect|Francium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Francium.private|Francium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.personal|Francium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Francium.secret|Francium.secret]]"
+  part_of: "[[../Group-01-Alkali]]"
+dv_has_name_en: Francium
+dv_has_name_de: Francium
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Francium,671]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Francium|Francium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Francium.public|Francium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.internal|Francium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Francium.protect|Francium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Francium.private|Francium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.personal|Francium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Francium.secret|Francium.secret]]"
+dv_has_name_group: Group-01-Alkali
+dv_is_part_of: "[[../Group-01-Alkali]]"
+dv_has_value_for_weight_u: 223
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 0
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 0
+dv_has_value_for_electronegativity: 0.7
+dv_has_value_for_density: 0
+dv_has_value_for_temperature_melt_c: 27
+dv_has_value_for_temperature_boil_c: 677
+dv_has_value_for_capacity_heat: 0
+dv_has_value_for_conductivity_heat: 0.15
+dv_has_value_for_enthalpy: 0
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 1
+dv_has_name_abbreviated: Fr
+dv_has_number_of_electrons: 87
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Francium,671]] 
 
 #chemic/Element 
-[has_/name_/group::Group-01-Alkali]
-is_/part_of::[[../Group-01-Alkali]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
 
 - #has_/name_/en::Francium
 - #has_/name_/de::Francium
 
-#has_/value_for_/weight_/u::223
-[has_/value_for_/radius::0]
-has_/value_for_/volume_/ccm_/mol::0 
-[has_/value_for_/unknown2::0]
-#has_/value_for_/radius_/nano_/m::0
-[has_/value_for_/electronegativity::0.7]
-[has_/value_for_/density::0]
-#has_/value_for_/temperature_/melt_/c ::27
-#has_/value_for_/temperature_/boil_/c ::677
-[has_/value_for_/capacity_/heat::0]
-[has_/value_for_/conductivity_/heat::0.15]
-[has_/value_for_/enthalpy::0]
-[has_/value_for_/energy_/form_/kj_/mol::0]
-(has_/number_of_/period::7)
-(has_/number_of_/group::1)
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 ## #has_/text_of_/abstract 
 
-> **Francium** is a chemical element with the symbol (has_/name_/abbreviated::Fr) and atomic number (has_/number_of_/electrons::87). 
+> **Francium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is extremely radioactive; its most stable isotope, francium-223 
 > (originally called actinium K after the natural decay chain in which it appears), 
 > has a half-life of only 22 minutes. 

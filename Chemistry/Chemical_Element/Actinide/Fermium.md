@@ -3,13 +3,13 @@ aliases:
   - Fermium
 has_id_wikidata: Q1896
 atomic_number: 100
-canonical_SMILES: '[Fm]'
+canonical_SMILES: "[Fm]"
 CAS_Registry_Number: 7440-72-4
 chemical_formula: Fm
 Commons_category: Fermium
 Commons_gallery: Fermium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 DSSTOX_compound_identifier: DTXCID60147884
 electronegativity: 1.3
 element_symbol: Fm
@@ -17,8 +17,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Fermium-Ytterbium%20Al
 InChI: InChI=1S/Fm
 InChIKey: MIORUQGGZCBUGO-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 mass: 257.095
 MeSH_tree_code:
   - D01.268.271.100.275
@@ -26,21 +26,101 @@ MeSH_tree_code:
   - D01.496.749.305.100.275
   - D01.552.020.394
   - D01.552.544.266
-named_after: '[[_Standards/WikiData/WD~Enrico_Fermi,8753]]'
+named_after: "[[_Standards/WikiData/WD~Enrico_Fermi,8753]]"
 OmegaWiki_Defined_Meaning: 158627
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~actinide,19577]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-fermium.wav
 PubChem_CID: 23998
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20100%20Fermium.svg
 SpocWebEntityId: 21995
-subclass_of: '[[_Standards/WikiData/WD~actinide,19577]]'
+subclass_of: "[[_Standards/WikiData/WD~actinide,19577]]"
 time_of_discovery_or_invention: 1952-12-01
 type: Element
 UMLS_CUI: C0015853
 Unicode_character: 鐨
 UNII: Q70I3KBF4W
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Fermium,1896]]"
+    - "[[../../../WikiData/WD~Fermium,1896|WD~Fermium,1896]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Fermium|Fermium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Actinide/Fermium.public|Fermium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Fermium.internal|Fermium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Fermium.protect|Fermium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Actinide/Fermium.private|Fermium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Fermium.personal|Fermium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Fermium.secret|Fermium.secret]]"
+  part_of: "[[../Actinide]]"
+dv_has_:
+  name_:
+    group: Actinide-Group
+    en: Fermium
+    de: Fermium
+    abbreviated: Fm
+  value_for_:
+    weight_:
+      u: 253
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 0
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 6.5
+    electronegativity: 1.3
+    density: 0
+    temperature_:
+      melt_:
+        c: 0
+      boil_:
+        c: 0
+    capacity_:
+      heat: 0
+    conductivity_:
+      heat: 0.1
+    enthalpy: 0
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 34
+    electrons: 100
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Fermium,1896]]"
+  - "[[../../../WikiData/WD~Fermium,1896|WD~Fermium,1896]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Fermium|Fermium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Actinide/Fermium.public|Fermium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Fermium.internal|Fermium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Fermium.protect|Fermium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Actinide/Fermium.private|Fermium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Fermium.personal|Fermium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Fermium.secret|Fermium.secret]]"
+dv_has_name_group: Actinide-Group
+dv_is_part_of: "[[../Actinide]]"
+dv_has_name_en: Fermium
+dv_has_name_de: Fermium
+dv_has_name_abbreviated: Fm
+dv_has_value_for_weight_u: 253
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 0
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 6.5
+dv_has_value_for_electronegativity: 1.3
+dv_has_value_for_density: 0
+dv_has_value_for_temperature_melt_c: 0
+dv_has_value_for_temperature_boil_c: 0
+dv_has_value_for_capacity_heat: 0
+dv_has_value_for_conductivity_heat: 0.1
+dv_has_value_for_enthalpy: 0
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 34
+dv_has_number_of_electrons: 100
 ---
 
 # [[Fermium]] 
@@ -48,38 +128,38 @@ UNII: Q70I3KBF4W
 #is_/same_as :: [[../../../WikiData/WD~Fermium,1896]] 
 
 #chemic/Element 
-[has_/name_/group::Actinide-Group]
-is_/part_of::[[../Actinide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Fermium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Fermium 
+has_name_de = `=this.dv_has_name_de` 
 
-(has_/name_/abbreviated::Fm)
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-has_/value_for_/weight_/u::253 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::0]
-[has_/value_for_/volume_/ccm_/mol::0]
-[has_/value_for_/unknown2::0]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.5 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.3]
-[has_/value_for_/density::0]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::0 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::0 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0]
-[has_/value_for_/conductivity_/heat::0.1]
-[has_/value_for_/enthalpy::0]
-[has_/value_for_/energy_/form_/kj_/mol::0]
-(has_/number_of_/period::7)
-(has_/number_of_/group::34)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 []
-(has_/number_of_/electrons::100)
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 #is_/same_as :: [[../../../WikiData/WD~Fermium,1896|WD~Fermium,1896]] 
 

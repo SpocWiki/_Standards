@@ -36,30 +36,30 @@ ZVG_number: 8170
 atomic_number: 22
 boiling_point: 3286.85
 chemical_formula: Ti
-crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]'
+crystal_system: "[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Titan,102282]]'
-  - '[[_Standards/WikiData/WD~Tytan,10382763]]'
+  - "[[_Standards/WikiData/WD~Titan,102282]]"
+  - "[[_Standards/WikiData/WD~Tytan,10382763]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Titanium,84688494]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Titanium,84688494]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]"
 electronegativity: 1.54
-electron_configuration: '[Ar] 3d² 4s²'
+electron_configuration: "[Ar] 3d² 4s²"
 element_symbol: Ti
 hardness:
   - 2125
   - 1493
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Titan-crystal%20bar.JPG
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.42
   - 0.61
@@ -67,13 +67,13 @@ ionic_radius:
   - 0.74
   - 0.86
 made_from_material:
-  - '[[_Standards/WikiData/WD~ilmenite,190729]]'
-  - '[[_Standards/WikiData/WD~rutile,320603]]'
-  - '[[_Standards/WikiData/WD~titanite,377280]]'
-  - '[[_Standards/WikiData/WD~perovskite,409787]]'
-  - '[[_Standards/WikiData/WD~brookite,410609]]'
-  - '[[_Standards/WikiData/WD~anatase,413357]]'
-  - '[[_Standards/WikiData/WD~akaogiite,12713259]]'
+  - "[[_Standards/WikiData/WD~ilmenite,190729]]"
+  - "[[_Standards/WikiData/WD~rutile,320603]]"
+  - "[[_Standards/WikiData/WD~titanite,377280]]"
+  - "[[_Standards/WikiData/WD~perovskite,409787]]"
+  - "[[_Standards/WikiData/WD~brookite,410609]]"
+  - "[[_Standards/WikiData/WD~anatase,413357]]"
+  - "[[_Standards/WikiData/WD~akaogiite,12713259]]"
 mass: 47.867
 melting_point:
   - 1941
@@ -81,8 +81,8 @@ melting_point:
 name:
   - Ti
   - Titanium
-named_after: '[[_Standards/WikiData/WD~titan,45713]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+named_after: "[[_Standards/WikiData/WD~titan,45713]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
 oxidation_state:
   - -1
   - 1
@@ -90,19 +90,97 @@ oxidation_state:
   - 3
   - 4
 part_of:
-  - '[[_Standards/WikiData/WD~group_4,189302]]'
-  - '[[_Standards/WikiData/WD~period_4,239825]]'
+  - "[[_Standards/WikiData/WD~group_4,189302]]"
+  - "[[_Standards/WikiData/WD~period_4,239825]]"
 shear_modulus: 41.4
 specific_heat_capacity: 520
 speed_of_sound: 5090
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Titanium.ogg
 subclass_of:
-  - '[[_Standards/WikiData/WD~light_metal,428766]]'
-  - '[[_Standards/WikiData/WD~transition_metal,19588]]'
+  - "[[_Standards/WikiData/WD~light_metal,428766]]"
+  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
 tensile_modulus_of_elasticity: 116
 thermal_conductivity: 21.9
 time_of_discovery_or_invention: 1791-01-01T00:00:00Z
 type: Element
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Titanium,716]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium|Titanium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.public|Titanium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.internal|Titanium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.protect|Titanium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.private|Titanium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.personal|Titanium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.secret|Titanium.secret]]"
+  part_of: "[[../Group-04-Titanium]]"
+dv_has_:
+  name_:
+    group: Group-04-Titanium
+    en: Titanium
+    de: Titan
+    abbreviated: Ti
+  value_for_:
+    weight_:
+      u: 47.88
+    radius: 2
+    volume_:
+      ccm_:
+        mol: 10.64
+    unknown2: 1.32
+    radius_:
+      nano_:
+        m: 6.82
+    electronegativity: 1.5
+    density: 4.5
+    temperature_:
+      melt_:
+        c: 1660
+      boil_:
+        c: 3287
+    capacity_:
+      heat: 0.52
+    conductivity_:
+      heat: 0.219
+    enthalpy: 15.45
+    energy_:
+      form_:
+        kj_:
+          mol: 421
+  number_of_:
+    period: 4
+    group: 4
+    electrons: 22
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Titanium,716]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium|Titanium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.public|Titanium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.internal|Titanium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.protect|Titanium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.private|Titanium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.personal|Titanium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.secret|Titanium.secret]]"
+dv_has_name_group: Group-04-Titanium
+dv_is_part_of: "[[../Group-04-Titanium]]"
+dv_has_name_en: Titanium
+dv_has_name_de: Titan
+dv_has_value_for_weight_u: 47.88
+dv_has_value_for_radius: 2
+dv_has_value_for_volume_ccm_mol: 10.64
+dv_has_value_for_unknown2: 1.32
+dv_has_value_for_radius_nano_m: 6.82
+dv_has_value_for_electronegativity: 1.5
+dv_has_value_for_density: 4.5
+dv_has_value_for_temperature_melt_c: 1660
+dv_has_value_for_temperature_boil_c: 3287
+dv_has_value_for_capacity_heat: 0.52
+dv_has_value_for_conductivity_heat: 0.219
+dv_has_value_for_enthalpy: 15.45
+dv_has_value_for_energy_form_kj_mol: 421
+dv_has_number_of_period: 4
+dv_has_number_of_group: 4
+dv_has_name_abbreviated: Ti
+dv_has_number_of_electrons: 22
 ---
 
 # [[Titanium]] 
@@ -110,39 +188,39 @@ type: Element
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Titanium,716]] 
 
-[has_/name_/group::Group-04-Titanium]
-is_/part_of::[[../Group-04-Titanium]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Titanium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Titan 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::47.88 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::2]
-[has_/value_for_/volume_/ccm_/mol::10.64]
-[has_/value_for_/unknown2::1.32]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.82 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.5]
-[has_/value_for_/density::4.5]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::1660 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::3287 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.52]
-[has_/value_for_/conductivity_/heat::0.219]
-[has_/value_for_/enthalpy::15.45]
-[has_/value_for_/energy_/form_/kj_/mol::421]
-(has_/number_of_/period::4)
-(has_/number_of_/group::4)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 
 ## #has_/text_of_/abstract 
 
-> **Titanium** is a chemical element with the symbol (has_/name_/abbreviated::Ti) and atomic number (has_/number_of_/electrons::22). 
+> **Titanium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > Found in nature only as an oxide, it can be reduced to produce 
 > a lustrous transition metal with a silver color, low density, and high strength, 
 > resistant to corrosion in sea water, aqua regia, and chlorine.

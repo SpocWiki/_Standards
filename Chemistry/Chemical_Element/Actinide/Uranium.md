@@ -4,7 +4,7 @@ aliases:
   - Uranium
 has_id_wikidata: Q1098
 atomic_number: 92
-canonical_SMILES: '[U]'
+canonical_SMILES: "[U]"
 CAS_Registry_Number: 7440-61-1
 chemical_formula: U
 Commons_category: Uranium
@@ -12,28 +12,28 @@ Commons_gallery: Uranium
 Common_Procurement_Vocabulary_code: 9341000
 density: 19.05
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 Dewey_Decimal_Classification:
   - 546.431
   - 669.2931
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Eugène-Melchior_Péligot,903801]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Melchior_Péligot,903801]]"
 DSSTOX_compound_identifier: DTXCID304373
 EC_number: 231-170-6
 electronegativity: 1.38
 element_symbol: U
-fabrication_method: '[[_Standards/WikiData/WD~uraninite,206467]]'
+fabrication_method: "[[_Standards/WikiData/WD~uraninite,206467]]"
 Gmelin_number: 16315
-has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Uranium2.jpg
 InChI: InChI=1S/U
 InChIKey: JFALSRSLKYAFGM-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 1
   - 0.45
@@ -52,23 +52,101 @@ MeSH_tree_code:
   - D01.496.749.305.100.950
   - D01.552.020.940
   - D01.552.544.900
-named_after: '[[_Standards/WikiData/WD~Uranus,324]]'
+named_after: "[[_Standards/WikiData/WD~Uranus,324]]"
 OmegaWiki_Defined_Meaning: 3902
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~actinide,19577]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20149.jpg
 PubChem_CID: 23989
 RTECS_number: YR3490000
 SpocWebEntityId: 21987
 time_of_discovery_or_invention: 1789
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_uranium,8085707]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_uranium,8085707]]"
 type: Element
 UMLS_CUI: C0041928
 Unicode_character: 鈾
 UNII: 4OC371KSTK
 U_S_National_Archives_Identifier: 10644103
 ZVG_number: 7920
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Uranium,1098]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Uranium|Uranium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Actinide/Uranium.public|Uranium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Uranium.internal|Uranium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Uranium.protect|Uranium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Actinide/Uranium.private|Uranium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Uranium.personal|Uranium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Uranium.secret|Uranium.secret]]"
+  part_of: "[[../Actinide]]"
+dv_has_:
+  name_:
+    group: Actinide-Group
+    en: Uranium
+    de: Uran
+    abbreviated: U
+  value_for_:
+    weight_:
+      u: 238.0289
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 12.59
+    unknown2: 1.42
+    radius_:
+      nano_:
+        m: 6.05
+    electronegativity: 1.4
+    density: 18.9
+    temperature_:
+      melt_:
+        c: 1132.3
+      boil_:
+        c: 3818
+    capacity_:
+      heat: 0.12
+    conductivity_:
+      heat: 0.276
+    enthalpy: 8.52
+    energy_:
+      form_:
+        kj_:
+          mol: 477
+  number_of_:
+    period: 7
+    group: 26
+    electrons: 92
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Uranium,1098]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Uranium|Uranium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Actinide/Uranium.public|Uranium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Uranium.internal|Uranium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Uranium.protect|Uranium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Actinide/Uranium.private|Uranium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Uranium.personal|Uranium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Uranium.secret|Uranium.secret]]"
+dv_has_name_group: Actinide-Group
+dv_is_part_of: "[[../Actinide]]"
+dv_has_name_en: Uranium
+dv_has_name_de: Uran
+dv_has_name_abbreviated: U
+dv_has_value_for_weight_u: 238.0289
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 12.59
+dv_has_value_for_unknown2: 1.42
+dv_has_value_for_radius_nano_m: 6.05
+dv_has_value_for_electronegativity: 1.4
+dv_has_value_for_density: 18.9
+dv_has_value_for_temperature_melt_c: 1132.3
+dv_has_value_for_temperature_boil_c: 3818
+dv_has_value_for_capacity_heat: 0.12
+dv_has_value_for_conductivity_heat: 0.276
+dv_has_value_for_enthalpy: 8.52
+dv_has_value_for_energy_form_kj_mol: 477
+dv_has_number_of_period: 7
+dv_has_number_of_group: 26
+dv_has_number_of_electrons: 92
 ---
 
 # [[Uranium]] 
@@ -78,37 +156,37 @@ ZVG_number: 7920
 
 
 #chemic/Element 
-[has_/name_/group::Actinide-Group]
-is_/part_of::[[../Actinide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Uranium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Uran 
+has_name_de = `=this.dv_has_name_de` 
 
-(has_/name_/abbreviated::U)
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-has_/value_for_/weight_/u::238.0289 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::0]
-[has_/value_for_/volume_/ccm_/mol::12.59]
-[has_/value_for_/unknown2::1.42]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.05 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.4]
-[has_/value_for_/density::18.9]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::1132.3 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::3818 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.12]
-[has_/value_for_/conductivity_/heat::0.276]
-[has_/value_for_/enthalpy::8.52]
-[has_/value_for_/energy_/form_/kj_/mol::477]
-(has_/number_of_/period::7)
-(has_/number_of_/group::26)
-(has_/number_of_/electrons::92)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 
 ## #has_/text_of_/abstract 

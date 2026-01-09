@@ -14,6 +14,25 @@ MeSH_tree_code:
   - D01.625.525.550
   - D02.583
 Commons_category: Nitrates
+dv_is_:
+  same_as:
+    - "[[WD~Nitrate,49916468]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate|Nitrate]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.public|Nitrate.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.internal|Nitrate.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.protect|Nitrate.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.private|Nitrate.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.personal|Nitrate.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.secret|Nitrate.secret]]"
+dv_is_same_as:
+  - "[[WD~Nitrate,49916468]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate|Nitrate]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.public|Nitrate.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.internal|Nitrate.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.protect|Nitrate.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.private|Nitrate.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.personal|Nitrate.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate.secret|Nitrate.secret]]"
 ---
 
 # [[Nitrate]] 

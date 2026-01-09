@@ -3,15 +3,15 @@ aliases:
   - Einsteinium
 has_id_wikidata: Q1892
 atomic_number: 99
-canonical_SMILES: '[Es]'
+canonical_SMILES: "[Es]"
 CAS_Registry_Number: 7429-92-7
 chemical_formula: Es
 Commons_category: Einsteinium
 Commons_gallery: Einsteinium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
-  - '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+  - "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
+  - "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 DSSTOX_compound_identifier: DTXCID90147796
 electronegativity: 1.3
 element_symbol: Es
@@ -19,70 +19,148 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Einsteinium.jpg
 InChI: InChI=1S/Es
 InChIKey: CKBRQZNRCSJHFT-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Elements,11165030]]'
-  - '[[_Standards/WikiData/WD~WikiProject_California,15785976]]'
-  - '[[_Standards/WikiData/WD~WikiProject_University_of_California,21831035]]'
+  - "[[_Standards/WikiData/WD~WikiProject_Elements,11165030]]"
+  - "[[_Standards/WikiData/WD~WikiProject_California,15785976]]"
+  - "[[_Standards/WikiData/WD~WikiProject_University_of_California,21831035]]"
 MeSH_tree_code:
   - D01.268.271.100.250
   - D01.268.556.244
   - D01.496.749.305.100.250
   - D01.552.020.337
   - D01.552.544.244
-named_after: '[[_Standards/WikiData/WD~Albert_Einstein,937]]'
+named_after: "[[_Standards/WikiData/WD~Albert_Einstein,937]]"
 OmegaWiki_Defined_Meaning: 157713
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~actinide,19577]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-einsteinium.wav
 PubChem_CID: 23913
 SpocWebEntityId: 21994
 time_of_discovery_or_invention: 1952
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_einsteinium,8085692]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_einsteinium,8085692]]"
 type: Element
 UMLS_CUI: C0013741
 Unicode_character: 鑀
 UNII: WV8XL34X3O
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Einsteinium,1892]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Einsteinium|Einsteinium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Actinide/Einsteinium.public|Einsteinium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Einsteinium.internal|Einsteinium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Einsteinium.protect|Einsteinium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Actinide/Einsteinium.private|Einsteinium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Einsteinium.personal|Einsteinium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Einsteinium.secret|Einsteinium.secret]]"
+  part_of: "[[../Actinide]]"
+dv_has_:
+  name_:
+    group: Actinide-Group
+    en: Einsteinium
+    de: Einsteinium
+    abbreviated: Es
+  value_for_:
+    weight_:
+      u: 254
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 0
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 6.42
+    electronegativity: 1.3
+    density: 0
+    temperature_:
+      melt_:
+        c: 0
+      boil_:
+        c: 0
+    capacity_:
+      heat: 0
+    conductivity_:
+      heat: 0.1
+    enthalpy: 0
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 33
+    electrons: 99
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Einsteinium,1892]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Einsteinium|Einsteinium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Actinide/Einsteinium.public|Einsteinium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Einsteinium.internal|Einsteinium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Einsteinium.protect|Einsteinium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Actinide/Einsteinium.private|Einsteinium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Einsteinium.personal|Einsteinium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Einsteinium.secret|Einsteinium.secret]]"
+dv_has_name_group: Actinide-Group
+dv_is_part_of: "[[../Actinide]]"
+dv_has_name_en: Einsteinium
+dv_has_name_de: Einsteinium
+dv_has_name_abbreviated: Es
+dv_has_value_for_weight_u: 254
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 0
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 6.42
+dv_has_value_for_electronegativity: 1.3
+dv_has_value_for_density: 0
+dv_has_value_for_temperature_melt_c: 0
+dv_has_value_for_temperature_boil_c: 0
+dv_has_value_for_capacity_heat: 0
+dv_has_value_for_conductivity_heat: 0.1
+dv_has_value_for_enthalpy: 0
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 33
+dv_has_number_of_electrons: 99
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Einsteinium,1892]] 
 
 
 #chemic/Element 
-[has_/name_/group::Actinide-Group]
-is_/part_of::[[../Actinide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Einsteinium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Einsteinium 
+has_name_de = `=this.dv_has_name_de` 
 
-(has_/name_/abbreviated::Es)
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-has_/value_for_/weight_/u::254 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::0]
-[has_/value_for_/volume_/ccm_/mol::0]
-[has_/value_for_/unknown2::0]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.42 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.3]
-[has_/value_for_/density::0]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::0 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::0 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0]
-[has_/value_for_/conductivity_/heat::0.1]
-[has_/value_for_/enthalpy::0]
-[has_/value_for_/energy_/form_/kj_/mol::0]
-(has_/number_of_/period::7)
-(has_/number_of_/group::33)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 []
-(has_/number_of_/electrons::99)
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 
 

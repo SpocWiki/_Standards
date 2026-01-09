@@ -26,12 +26,19 @@ Commons_category: Cyanides
 MeSH_tree_code:
   - D01.248.497.158.291
   - D01.625.400.100
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~cyanide,55076544]]"
+dv_has_:
+  formula_:
+    structural: R-C≡N
+dv_is_same_as: "[[_Standards/WikiData/WD~cyanide,55076544]]"
+dv_has_formula_structural: R-C≡N
 ---
 
 # [[Cyanide]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~cyanide,55076544]] 
-#has_/formula_/structural :: R-C≡N 
+is_same_as = `=this.dv_is_same_as` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 ## #has_/text_of_/abstract 
 

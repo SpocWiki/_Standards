@@ -6,21 +6,40 @@ aliases:
 has_id_wikidata: Q11193
 Commons_category: Bases
 described_by_source:
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 different_from:
-  - '[[_Standards/WikiData/WD~alkali,485742]]'
-  - '[[_Standards/WikiData/WD~base,29841371]]'
+  - "[[_Standards/WikiData/WD~alkali,485742]]"
+  - "[[_Standards/WikiData/WD~base,29841371]]"
 has_use:
-  - '[[_Standards/WikiData/WD~acid_base_reaction,378751]]'
-  - '[[_Standards/WikiData/WD~acidity_regulator,898753]]'
+  - "[[_Standards/WikiData/WD~acid_base_reaction,378751]]"
+  - "[[_Standards/WikiData/WD~acidity_regulator,898753]]"
 IEV_number: 114-01-18
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sodium%20hydroxide%20solution.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
-opposite_of: '[[_Standards/WikiData/WD~acid,11158]]'
+  - "[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]"
+opposite_of: "[[_Standards/WikiData/WD~acid,11158]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+  - "[[_Standards/WikiData/WD~chemical_compound,11173]]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Base,11193|WD~Base,11193]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Base(chemistry)|Base(chemistry)]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Base(chemistry).public|Base(chemistry).public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Base(chemistry).internal|Base(chemistry).internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Base(chemistry).protect|Base(chemistry).protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Base(chemistry).private|Base(chemistry).private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Base(chemistry).personal|Base(chemistry).personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Base(chemistry).secret|Base(chemistry).secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Base,11193|WD~Base,11193]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Base(chemistry)|Base(chemistry)]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Base(chemistry).public|Base(chemistry).public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Base(chemistry).internal|Base(chemistry).internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Base(chemistry).protect|Base(chemistry).protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Base(chemistry).private|Base(chemistry).private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Base(chemistry).personal|Base(chemistry).personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Base(chemistry).secret|Base(chemistry).secret]]"
 ---
 
 # [[Base(chemistry)]] 

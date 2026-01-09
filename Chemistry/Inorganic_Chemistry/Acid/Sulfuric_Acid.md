@@ -13,36 +13,36 @@ SPLASH: splash10-0002-0900000000-43f1b52f911b4e214ac8
 Commons_category: Sulfuric acid
 RTECS_number: WS5600000
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
-  - '[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]'
-different_from: '[[_Standards/WikiData/WD~sulfurous_acid,206778]]'
+  - "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
+  - "[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]"
+different_from: "[[_Standards/WikiData/WD~sulfurous_acid,206778]]"
 has_characteristic:
-  - '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-  - '[[_Standards/WikiData/WD~strong_acid,5611096]]'
-  - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-  - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-has_use: '[[_Standards/WikiData/WD~acidulant,337038]]'
+  - "[[_Standards/WikiData/WD~hygroscopy,216678]]"
+  - "[[_Standards/WikiData/WD~strong_acid,5611096]]"
+  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
+  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
+has_use: "[[_Standards/WikiData/WD~acidulant,337038]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~mineral_acid,408683]]'
-  - '[[_Standards/WikiData/WD~sulfur_oxoacid,468076]]'
-  - '[[_Standards/WikiData/WD~diprotic_acid,3775748]]'
+  - "[[_Standards/WikiData/WD~mineral_acid,408683]]"
+  - "[[_Standards/WikiData/WD~sulfur_oxoacid,468076]]"
+  - "[[_Standards/WikiData/WD~diprotic_acid,3775748]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 safety_classification_and_labelling:
-  - '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
-  - '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-conjugate_base: '[[_Standards/WikiData/WD~hydrogen_sulfate_ion,3143743]]'
+  - "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+  - "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+conjugate_base: "[[_Standards/WikiData/WD~hydrogen_sulfate_ion,3143743]]"
 has_effect:
-  - '[[_Standards/WikiData/WD~sulfuric_acid_poisoning,18386197]]'
-  - '[[_Standards/WikiData/WD~acid_rain,40178]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~sulfuric_acid_poisoning,18386197]]"
+  - "[[_Standards/WikiData/WD~acid_rain,40178]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
-  - '[[_Standards/WikiData/WD~sulfur,682]]'
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+  - "[[_Standards/WikiData/WD~sulfur,682]]"
 pKa:
   - -3
   - 1.92
@@ -80,11 +80,34 @@ Dewey_Decimal_Classification:
   - 546.72322
   - 661.22
 CAS_Registry_Number: 7664-93-9
+dv_has_:
+  formula_:
+    sum: H2SO4
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Sulfuric_acid,4118|WD~Sulfuric_acid,4118]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid|Sulfuric_Acid]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.public|Sulfuric_Acid.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.internal|Sulfuric_Acid.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.protect|Sulfuric_Acid.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.private|Sulfuric_Acid.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.personal|Sulfuric_Acid.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.secret|Sulfuric_Acid.secret]]"
+dv_has_formula_sum: H2SO4
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Sulfuric_acid,4118|WD~Sulfuric_acid,4118]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid|Sulfuric_Acid]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.public|Sulfuric_Acid.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.internal|Sulfuric_Acid.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.protect|Sulfuric_Acid.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.private|Sulfuric_Acid.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.personal|Sulfuric_Acid.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Sulfuric_Acid.secret|Sulfuric_Acid.secret]]"
 ---
 
 # [[Sulfuric_Acid]] 
 
-#has_/formula_/sum :: H2SO4 
+has_formula_sum = `=this.dv_has_formula_sum` 
 #is_/same_as :: [[../../../WikiData/WD~Sulfuric_acid,4118|WD~Sulfuric_acid,4118]] 
 
 ## #has_/formula_/structural  

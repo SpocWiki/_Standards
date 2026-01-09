@@ -7,24 +7,24 @@ aliases:
   - Hydrochloric Acid
 has_id_wikidata: Q2409
 has_use:
-  - '[[_Standards/WikiData/WD~food_additive,189567]]'
-  - '[[_Standards/WikiData/WD~acidity_regulator,898753]]'
-different_from: '[[_Standards/WikiData/WD~hydrogen_chloride,211086]]'
+  - "[[_Standards/WikiData/WD~food_additive,189567]]"
+  - "[[_Standards/WikiData/WD~acidity_regulator,898753]]"
+different_from: "[[_Standards/WikiData/WD~hydrogen_chloride,211086]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrogen_chloride,211086]]'
-  - '[[_Standards/WikiData/WD~water,283]]'
+  - "[[_Standards/WikiData/WD~hydrogen_chloride,211086]]"
+  - "[[_Standards/WikiData/WD~water,283]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Basil_Valentine,810169]]'
-  - '[[_Standards/WikiData/WD~Mary_the_Jewess,7499]]'
-instance_of: '[[_Standards/WikiData/WD~aqueous_solution,906356]]'
-subclass_of: '[[_Standards/WikiData/WD~hydrohalic_acid,12018897]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+  - "[[_Standards/WikiData/WD~Basil_Valentine,810169]]"
+  - "[[_Standards/WikiData/WD~Mary_the_Jewess,7499]]"
+instance_of: "[[_Standards/WikiData/WD~aqueous_solution,906356]]"
+subclass_of: "[[_Standards/WikiData/WD~hydrohalic_acid,12018897]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
 melting_point:
   - -114.18
   - -30
@@ -55,6 +55,25 @@ MeSH_tree_code:
   - D01.029.260.326
   - D01.210.450
 Commons_category: Hydrochloric acid
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Hydrochloric_acid,2409|WD~Hydrochloric_acid,2409]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid|Hydrochloric_Acid]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.public|Hydrochloric_Acid.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.internal|Hydrochloric_Acid.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.protect|Hydrochloric_Acid.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.private|Hydrochloric_Acid.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.personal|Hydrochloric_Acid.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.secret|Hydrochloric_Acid.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Hydrochloric_acid,2409|WD~Hydrochloric_acid,2409]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid|Hydrochloric_Acid]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.public|Hydrochloric_Acid.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.internal|Hydrochloric_Acid.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.protect|Hydrochloric_Acid.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.private|Hydrochloric_Acid.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.personal|Hydrochloric_Acid.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Hydrochloric_Acid.secret|Hydrochloric_Acid.secret]]"
 ---
 
 # [[Hydrochloric_Acid]] 

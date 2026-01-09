@@ -66,6 +66,86 @@ UMLS_CUI: C0038467
 Unicode_character: 鍶
 UNII: YZS2RPE8LE
 ZVG_number: 8310
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Strontium,938]]"
+    - "[[../../../WikiData/WD~Strontium,938|WD~Strontium,938]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium|Strontium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public|Strontium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.internal|Strontium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.protect|Strontium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.private|Strontium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]]"
+  part_of: "[[../Group-02-Earth-Alkaline]]"
+dv_has_:
+  name_:
+    group: Group-02-Earth-Alkaline
+    en: Strontium
+    de: Strontium
+    abbreviated: Sr
+  value_for_:
+    weight_:
+      u: 87.62
+    radius: 2.45
+    volume_:
+      ccm_:
+        mol: 23.7
+    unknown2: 1.91
+    radius_:
+      nano_:
+        m: 5.695
+    electronegativity: 0.9
+    density: 2.6
+    temperature_:
+      melt_:
+        c: 769
+      boil_:
+        c: 1384
+    capacity_:
+      heat: 0.3
+    conductivity_:
+      heat: 0.353
+    enthalpy: 8.3
+    energy_:
+      form_:
+        kj_:
+          mol: 144
+  number_of_:
+    period: 5
+    group: 2
+    electrons: 38
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Strontium,938]]"
+  - "[[../../../WikiData/WD~Strontium,938|WD~Strontium,938]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium|Strontium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public|Strontium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.internal|Strontium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.protect|Strontium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.private|Strontium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]]"
+dv_has_name_group: Group-02-Earth-Alkaline
+dv_is_part_of: "[[../Group-02-Earth-Alkaline]]"
+dv_has_name_en: Strontium
+dv_has_name_de: Strontium
+dv_has_value_for_weight_u: 87.62
+dv_has_value_for_radius: 2.45
+dv_has_value_for_volume_ccm_mol: 23.7
+dv_has_value_for_unknown2: 1.91
+dv_has_value_for_radius_nano_m: 5.695
+dv_has_value_for_electronegativity: 0.9
+dv_has_value_for_density: 2.6
+dv_has_value_for_temperature_melt_c: 769
+dv_has_value_for_temperature_boil_c: 1384
+dv_has_value_for_capacity_heat: 0.3
+dv_has_value_for_conductivity_heat: 0.353
+dv_has_value_for_enthalpy: 8.3
+dv_has_value_for_energy_form_kj_mol: 144
+dv_has_number_of_period: 5
+dv_has_number_of_group: 2
+dv_has_name_abbreviated: Sr
+dv_has_number_of_electrons: 38
 ---
 
 # [[Strontium]] 
@@ -73,40 +153,40 @@ ZVG_number: 8310
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Strontium,938]] 
 
-[has_/name_/group::Group-02-Earth-Alkaline]
-is_/part_of::[[../Group-02-Earth-Alkaline]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Strontium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Strontium 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::87.62 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::2.45]
-[has_/value_for_/volume_/ccm_/mol::23.7]
-[has_/value_for_/unknown2::1.91]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::5.695 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::0.9]
-[has_/value_for_/density::2.6]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::769 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::1384 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.3]
-[has_/value_for_/conductivity_/heat::0.353]
-[has_/value_for_/enthalpy::8.3]
-[has_/value_for_/energy_/form_/kj_/mol::144]
-(has_/number_of_/period::5)
-(has_/number_of_/group::2)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Strontium,938|WD~Strontium,938]] 
 
 ## #has_/text_of_/abstract 
 
-> **Strontium** is the chemical element with the symbol (has_/name_/abbreviated::Sr) and atomic number (has_/number_of_/electrons::38). 
+> **Strontium** is the chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > 
 > An alkaline earth metal, strontium is a soft silver-white yellowish metallic element 
 > that is highly chemically reactive. 

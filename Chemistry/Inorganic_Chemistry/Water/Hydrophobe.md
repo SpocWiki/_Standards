@@ -3,14 +3,33 @@ aliases:
   - hydrophobicity
   - Hydrophobe
 has_id_wikidata: Q219567
-subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-opposite_of: '[[_Standards/WikiData/WD~hydrophile,192197]]'
+subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+opposite_of: "[[_Standards/WikiData/WD~hydrophile,192197]]"
 different_from:
-  - '[[_Standards/WikiData/WD~aquaphobia,623076]]'
-  - '[[_Standards/WikiData/WD~hydrophobicity,41854968]]'
-has_characteristic: '[[_Standards/WikiData/WD~hydrophobicity,41854968]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - "[[_Standards/WikiData/WD~aquaphobia,623076]]"
+  - "[[_Standards/WikiData/WD~hydrophobicity,41854968]]"
+has_characteristic: "[[_Standards/WikiData/WD~hydrophobicity,41854968]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Super-hydrophobic%20paint%20%2816763065915%29.jpg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Hydrophobe,219567|WD~Hydrophobe,219567]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Hydrophobe|Hydrophobe]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.public|Hydrophobe.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.internal|Hydrophobe.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.protect|Hydrophobe.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.private|Hydrophobe.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.personal|Hydrophobe.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.secret|Hydrophobe.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Hydrophobe,219567|WD~Hydrophobe,219567]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Hydrophobe|Hydrophobe]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.public|Hydrophobe.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.internal|Hydrophobe.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.protect|Hydrophobe.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.private|Hydrophobe.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.personal|Hydrophobe.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.secret|Hydrophobe.secret]]"
 ---
 
 # [[Hydrophobe]] 

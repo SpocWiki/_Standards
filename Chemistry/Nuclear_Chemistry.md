@@ -9,6 +9,25 @@ instance_of: "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
 practiced_by: "[[_Standards/WikiData/WD~nuclear_chemist,71051447]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 subclass_of: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Nuclear_chemistry,243545]]"
+    - "[[/_Standards/Chemistry/Nuclear_Chemistry|Nuclear_Chemistry]]"
+    - "[[/_public/Chemistry/Nuclear_Chemistry.public|Nuclear_Chemistry.public]]"
+    - "[[/_internal/Chemistry/Nuclear_Chemistry.internal|Nuclear_Chemistry.internal]]"
+    - "[[/_protect/Chemistry/Nuclear_Chemistry.protect|Nuclear_Chemistry.protect]]"
+    - "[[/_private/Chemistry/Nuclear_Chemistry.private|Nuclear_Chemistry.private]]"
+    - "[[/_personal/Chemistry/Nuclear_Chemistry.personal|Nuclear_Chemistry.personal]]"
+    - "[[/_secret/Chemistry/Nuclear_Chemistry.secret|Nuclear_Chemistry.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Nuclear_chemistry,243545]]"
+  - "[[/_Standards/Chemistry/Nuclear_Chemistry|Nuclear_Chemistry]]"
+  - "[[/_public/Chemistry/Nuclear_Chemistry.public|Nuclear_Chemistry.public]]"
+  - "[[/_internal/Chemistry/Nuclear_Chemistry.internal|Nuclear_Chemistry.internal]]"
+  - "[[/_protect/Chemistry/Nuclear_Chemistry.protect|Nuclear_Chemistry.protect]]"
+  - "[[/_private/Chemistry/Nuclear_Chemistry.private|Nuclear_Chemistry.private]]"
+  - "[[/_personal/Chemistry/Nuclear_Chemistry.personal|Nuclear_Chemistry.personal]]"
+  - "[[/_secret/Chemistry/Nuclear_Chemistry.secret|Nuclear_Chemistry.secret]]"
 ---
 
 # [[Nuclear_Chemistry]] 

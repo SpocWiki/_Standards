@@ -29,6 +29,25 @@ place_of_death: "[[_Standards/WikiData/WD~Corpus_Christi,49242]]"
 date_of_death: 1994-05-12T00:00:00Z
 ISNI: "0000000055691604"
 date_of_birth: 1910-06-26T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Roy_J._Plunkett,908166]]"
+    - "[[/_Standards/Chemistry/Chemist/Plunkett,Roy_J|Plunkett,Roy_J]]"
+    - "[[/_public/Chemistry/Chemist/Plunkett,Roy_J.public|Plunkett,Roy_J.public]]"
+    - "[[/_internal/Chemistry/Chemist/Plunkett,Roy_J.internal|Plunkett,Roy_J.internal]]"
+    - "[[/_protect/Chemistry/Chemist/Plunkett,Roy_J.protect|Plunkett,Roy_J.protect]]"
+    - "[[/_private/Chemistry/Chemist/Plunkett,Roy_J.private|Plunkett,Roy_J.private]]"
+    - "[[/_personal/Chemistry/Chemist/Plunkett,Roy_J.personal|Plunkett,Roy_J.personal]]"
+    - "[[/_secret/Chemistry/Chemist/Plunkett,Roy_J.secret|Plunkett,Roy_J.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Roy_J._Plunkett,908166]]"
+  - "[[/_Standards/Chemistry/Chemist/Plunkett,Roy_J|Plunkett,Roy_J]]"
+  - "[[/_public/Chemistry/Chemist/Plunkett,Roy_J.public|Plunkett,Roy_J.public]]"
+  - "[[/_internal/Chemistry/Chemist/Plunkett,Roy_J.internal|Plunkett,Roy_J.internal]]"
+  - "[[/_protect/Chemistry/Chemist/Plunkett,Roy_J.protect|Plunkett,Roy_J.protect]]"
+  - "[[/_private/Chemistry/Chemist/Plunkett,Roy_J.private|Plunkett,Roy_J.private]]"
+  - "[[/_personal/Chemistry/Chemist/Plunkett,Roy_J.personal|Plunkett,Roy_J.personal]]"
+  - "[[/_secret/Chemistry/Chemist/Plunkett,Roy_J.secret|Plunkett,Roy_J.secret]]"
 ---
 
 # [[Plunkett,Roy_J]] 

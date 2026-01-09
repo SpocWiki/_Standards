@@ -89,7 +89,6 @@ dv_is_:
     - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Neodymium.private|Neodymium.private]]"
     - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Neodymium.personal|Neodymium.personal]]"
     - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Neodymium.secret|Neodymium.secret]]"
-  part_of: "[[../Lanthanide]]"
 dv_has_:
   name_:
     group: Lanthanide-Group

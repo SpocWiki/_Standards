@@ -4,9 +4,9 @@ aliases:
 has_id_wikidata: Q11364
 Commons_category: Hormones
 described_by_source:
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~hormone,125790843]]'
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~hormone,125790843]]"
 Krugosvet_article: nauka_i_tehnika/biologiya/GORMONI.html
 Library_of_Congress_Classification: QP571-QP572
 MeSH_tree_code:
@@ -15,17 +15,36 @@ MeSH_tree_code:
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hormone.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Transport%20von%20Hormonen.svg
-significant_person: '[[_Standards/WikiData/WD~William_Bayliss,594936]]'
-studied_in: '[[_Standards/WikiData/WD~endocrinology,162606]]'
+significant_person: "[[_Standards/WikiData/WD~William_Bayliss,594936]]"
+studied_in: "[[_Standards/WikiData/WD~endocrinology,162606]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~chemical_mediator,420168]]'
-  - '[[_Standards/WikiData/WD~hormones,_hormone_substitutes,_and_hormone_antagonists,50430050]]'
-  - '[[_Standards/WikiData/WD~biological_macromolecule,66560214]]'
-  - '[[_Standards/WikiData/WD~hormone,125790843]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
+  - "[[_Standards/WikiData/WD~chemical_mediator,420168]]"
+  - "[[_Standards/WikiData/WD~hormones,_hormone_substitutes,_and_hormone_antagonists,50430050]]"
+  - "[[_Standards/WikiData/WD~biological_macromolecule,66560214]]"
+  - "[[_Standards/WikiData/WD~hormone,125790843]]"
+  - "[[_Standards/WikiData/WD~medication,12140]]"
 time_of_discovery_or_invention: 1902
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Hormones,7139889]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Hormones,7139889]]"
 UMLS_CUI: C0019932
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Hormone,11364|WD~Hormone,11364]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone|Hormone]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone.public|Hormone.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone.internal|Hormone.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone.protect|Hormone.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone.private|Hormone.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone.personal|Hormone.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone.secret|Hormone.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Hormone,11364|WD~Hormone,11364]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone|Hormone]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone.public|Hormone.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone.internal|Hormone.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone.protect|Hormone.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone.private|Hormone.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone.personal|Hormone.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone.secret|Hormone.secret]]"
 ---
 
 # [[Hormone]] 

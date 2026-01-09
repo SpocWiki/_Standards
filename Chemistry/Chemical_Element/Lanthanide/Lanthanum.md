@@ -118,44 +118,14 @@ dv_is_:
     - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Lanthanum.private|Lanthanum.private]]"
     - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Lanthanum.personal|Lanthanum.personal]]"
     - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Lanthanum.secret|Lanthanum.secret]]"
-  part_of: "[[../Lanthanide]]"
 dv_has_:
-  name_:
-    group: Lanthanide-Group
-    en: Lanthanum
-    de: Lanthan
-    abbreviated: La
-  value_for_:
-    weight_:
-      u: 138.9055
-    radius: 2.74
-    volume_:
-      ccm_:
-        mol: 20.73
-    unknown2: 1.69
-    radius_:
-      nano_:
-        m: 5.58
-    electronegativity: 1.1
-    density: 6.7
-    temperature_:
-      melt_:
-        c: 920
-      boil_:
-        c: 3454
-    capacity_:
-      heat: 0.19
-    conductivity_:
-      heat: 0.135
-    enthalpy: 6.2
-    energy_:
-      form_:
-        kj_:
-          mol: 414
   number_of_:
-    period: 6
-    group: 3
-    electrons: 57
+    period:
+      - 6
+      - 6
+    group:
+      - 3
+      - 3
 dv_is_same_as:
   - "[[../../../WikiData/WD~Lanthanum,1801]]"
   - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Lanthanum|Lanthanum]]"
@@ -182,8 +152,12 @@ dv_has_value_for_capacity_heat: 0.19
 dv_has_value_for_conductivity_heat: 0.135
 dv_has_value_for_enthalpy: 6.2
 dv_has_value_for_energy_form_kj_mol: 414
-dv_has_number_of_period: 6
-dv_has_number_of_group: 3
+dv_has_number_of_period:
+  - 6
+  - 6
+dv_has_number_of_group:
+  - 3
+  - 3
 dv_has_name_abbreviated: La
 dv_has_number_of_electrons: 57
 ---

@@ -9,19 +9,19 @@ aliases:
   - Chlorofluorocarbon
 has_id_wikidata: Q960800
 has_use:
-  - '[[_Standards/WikiData/WD~refrigerant,266790]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Frédéric_Swarts,979136]]'
+  - "[[_Standards/WikiData/WD~refrigerant,266790]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Frédéric_Swarts,979136]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~halogenated_hydrocarbon,11973764]]'
+  - "[[_Standards/WikiData/WD~halogenated_hydrocarbon,11973764]]"
 subject_has_role:
-  - '[[_Standards/WikiData/WD~pollutant,19829510]]'
+  - "[[_Standards/WikiData/WD~pollutant,19829510]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+  - "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 time_of_discovery_or_invention: 1890-01-01T00:00:00Z
 has_part_s_:
-  - '[[_Standards/WikiData/WD~carbon,623]]'
-  - '[[_Standards/WikiData/WD~fluorine,650]]'
-  - '[[_Standards/WikiData/WD~chlorine,688]]'
+  - "[[_Standards/WikiData/WD~carbon,623]]"
+  - "[[_Standards/WikiData/WD~fluorine,650]]"
+  - "[[_Standards/WikiData/WD~chlorine,688]]"
 OmegaWiki_Defined_Meaning: 577
 short_name:
   - FCKW
@@ -29,11 +29,30 @@ short_name:
   - CFC
 Commons_category: Chlorofluorocarbons
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/USEPA%20response%20to%20Hurricane%20Sandy%20with%2045%20freon%20tanks%20have%20been%20staged%20awaiting%20reclamation%20and%20recycling%20on%202%20December%202012.jpg
-P8189: 987007285616505171
+P8189: 987007285616505200
 UMLS_CUI: C0162787
 MeSH_tree_code:
   - D02.455.526.439.220
   - D02.455.526.510.140
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Chlorofluorocarbon,960800|WD~Chlorofluorocarbon,960800]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Chlorofluorocarbon|Chlorofluorocarbon]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Chlorofluorocarbon.public|Chlorofluorocarbon.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Chlorofluorocarbon.internal|Chlorofluorocarbon.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Chlorofluorocarbon.protect|Chlorofluorocarbon.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Chlorofluorocarbon.private|Chlorofluorocarbon.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Chlorofluorocarbon.personal|Chlorofluorocarbon.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Chlorofluorocarbon.secret|Chlorofluorocarbon.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Chlorofluorocarbon,960800|WD~Chlorofluorocarbon,960800]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Chlorofluorocarbon|Chlorofluorocarbon]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Chlorofluorocarbon.public|Chlorofluorocarbon.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Chlorofluorocarbon.internal|Chlorofluorocarbon.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Chlorofluorocarbon.protect|Chlorofluorocarbon.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Chlorofluorocarbon.private|Chlorofluorocarbon.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Chlorofluorocarbon.personal|Chlorofluorocarbon.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Chlorofluorocarbon.secret|Chlorofluorocarbon.secret]]"
 ---
 
 # [[Chlorofluorocarbon]] 

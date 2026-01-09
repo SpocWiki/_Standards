@@ -9,6 +9,25 @@ instance_of:
 subclass_of: "[[_Standards/WikiData/WD~inorganic_chemistry,11165]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Simmons-Smith%20carbene%20addition.jpg
 Commons_category: Organometallic chemistry
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Organometallic_chemistry,237200]]"
+    - "[[/_Standards/Chemistry/Organometallic_Chemistry|Organometallic_Chemistry]]"
+    - "[[/_public/Chemistry/Organometallic_Chemistry.public|Organometallic_Chemistry.public]]"
+    - "[[/_internal/Chemistry/Organometallic_Chemistry.internal|Organometallic_Chemistry.internal]]"
+    - "[[/_protect/Chemistry/Organometallic_Chemistry.protect|Organometallic_Chemistry.protect]]"
+    - "[[/_private/Chemistry/Organometallic_Chemistry.private|Organometallic_Chemistry.private]]"
+    - "[[/_personal/Chemistry/Organometallic_Chemistry.personal|Organometallic_Chemistry.personal]]"
+    - "[[/_secret/Chemistry/Organometallic_Chemistry.secret|Organometallic_Chemistry.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Organometallic_chemistry,237200]]"
+  - "[[/_Standards/Chemistry/Organometallic_Chemistry|Organometallic_Chemistry]]"
+  - "[[/_public/Chemistry/Organometallic_Chemistry.public|Organometallic_Chemistry.public]]"
+  - "[[/_internal/Chemistry/Organometallic_Chemistry.internal|Organometallic_Chemistry.internal]]"
+  - "[[/_protect/Chemistry/Organometallic_Chemistry.protect|Organometallic_Chemistry.protect]]"
+  - "[[/_private/Chemistry/Organometallic_Chemistry.private|Organometallic_Chemistry.private]]"
+  - "[[/_personal/Chemistry/Organometallic_Chemistry.personal|Organometallic_Chemistry.personal]]"
+  - "[[/_secret/Chemistry/Organometallic_Chemistry.secret|Organometallic_Chemistry.secret]]"
 ---
 
 # [[Organometallic_Chemistry]] 
