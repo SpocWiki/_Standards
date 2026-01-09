@@ -56,7 +56,7 @@ has_/name_/en::Neptunium
 
 has_/name_/de::Neptunium 
 
-(Abbr::Np)
+(has_/name_/abbreviated::Np)
 
 has_/value_for_/weight_/u::237.0482 
 
@@ -79,7 +79,7 @@ has_/value_for_/temperature_/boil_/c ::3902
 [has_/value_for_/energy_/form_/kj_/mol::0]
 (has_/number_of_/period::7)
 (has_/number_of_/group::27)
-(Charge-e::93)
+(has_/number_of_/electrons::93)
 
 #is_/same_as :: [[../../../WikiData/WD~Neptunium,1105]] 
 

@@ -93,7 +93,7 @@ has_/value_for_/temperature_/boil_/c ::3200
 
 ## #has_/text_of_/abstract 
 
-> **Actinium** is a chemical element with the symbol (Abbr::Ac) and atomic number (Charge-e::89). 
+> **Actinium** is a chemical element with the symbol (has_/name_/abbreviated::Ac) and atomic number (has_/number_of_/electrons::89). 
 > It was first isolated by Friedrich Oskar Giesel in 1902, who gave it the name emanium; 
 > the element got its name by being wrongly identified 
 > with a substance André-Louis Debierne found in 1899 and called actinium. 

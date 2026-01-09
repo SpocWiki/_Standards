@@ -156,7 +156,7 @@ has_/value_for_/temperature_/boil_/c ::882.9
 
 ## #has_/text_of_/abstract 
 
-> **Sodium** is a chemical element with the symbol (Abbr::Na) (from Latin natrium) and atomic number (Charge-e::11). 
+> **Sodium** is a chemical element with the symbol (has_/name_/abbreviated::Na) (from Latin natrium) and atomic number (has_/number_of_/electrons::11). 
 > It is a soft, silvery-white, highly reactive metal. 
 > 
 > Sodium is an alkali metal, being in group (has_/number_of_/group::1) of the periodic table. Its only stable isotope is 23Na. 

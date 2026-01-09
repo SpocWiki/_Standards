@@ -122,7 +122,7 @@ has_/value_for_/temperature_/boil_/c ::-182.96
 
 ## #has_/text_of_/abstract 
 
-> **Oxygen** is the chemical element with the symbol (Abbr::O) and atomic number (Charge-e::8). 
+> **Oxygen** is the chemical element with the symbol (has_/name_/abbreviated::O) and atomic number (has_/number_of_/electrons::8). 
 > It is a member of the chalcogen group in the periodic table, a highly reactive nonmetal, 
 > and an oxidizing agent that readily forms oxides with most elements as well as with other compounds. 
 > 

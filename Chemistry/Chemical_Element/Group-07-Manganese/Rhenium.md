@@ -95,7 +95,7 @@ has_/value_for_/temperature_/melt_/c ::3180
 
 ## #has_/text_of_/abstract 
 
-> **Rhenium** is a chemical element with the symbol (Abbr::Re) and atomic number (Charge-e::75). 
+> **Rhenium** is a chemical element with the symbol (has_/name_/abbreviated::Re) and atomic number (has_/number_of_/electrons::75). 
 > It is a silvery-gray, heavy, third-row transition metal in group (has_/number_of_/group::7) of the periodic table. 
 > 
 > With an estimated average concentration of 1 part per billion (ppb), 

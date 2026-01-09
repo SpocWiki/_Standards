@@ -71,7 +71,7 @@ has_/name_/en::Thorium
 
 has_/name_/de::Thorium 
 
-(Abbr::Th)
+(has_/name_/abbreviated::Th)
 
 has_/value_for_/weight_/u::232.0381 
 
@@ -94,7 +94,7 @@ has_/value_for_/temperature_/boil_/c ::4790
 [has_/value_for_/energy_/form_/kj_/mol::514.4]
 (has_/number_of_/period::7)
 (has_/number_of_/group::24)
-(Charge-e::90)
+(has_/number_of_/electrons::90)
 
 #is_/same_as :: [[../../../WikiData/WD~Thorium,1115]] 
 

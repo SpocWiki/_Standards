@@ -100,7 +100,7 @@ has_/value_for_/temperature_/boil_/c ::5027
 ## #has_/text_of_/abstract 
 
 > **Osmium** (from Ancient Greek  ὀσμή (osmḗ) 'smell') 
-> is a chemical element with the symbol (Abbr::Os) and atomic number (Charge-e::76). 
+> is a chemical element with the symbol (has_/name_/abbreviated::Os) and atomic number (has_/number_of_/electrons::76). 
 > It is a hard, brittle, bluish-white transition metal in the platinum group 
 > that is found as a trace element in alloys, mostly in platinum ores. 
 > 

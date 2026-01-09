@@ -107,7 +107,7 @@ has_/value_for_/temperature_/boil_/c ::-34.6
 
 ## #has_/text_of_/abstract 
 
-> **Chlorine** is a chemical element with the symbol (Abbr::Cl) and atomic number (Charge-e::17). 
+> **Chlorine** is a chemical element with the symbol (has_/name_/abbreviated::Cl) and atomic number (has_/number_of_/electrons::17). 
 > The second-lightest of the halogens, it appears between fluorine and bromine in the periodic table 
 > and its properties are mostly intermediate between them. 
 > 

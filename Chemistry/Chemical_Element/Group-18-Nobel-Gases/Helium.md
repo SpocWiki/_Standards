@@ -116,7 +116,7 @@ has_/value_for_/temperature_/boil_/c ::-268.93
 ## #has_/text_of_/abstract 
 
 > **Helium** (from Greek: ἥλιος, romanized: helios, lit. 'sun') 
-> is a chemical element with the symbol (Abbr::He) and atomic number (Charge-e::2). 
+> is a chemical element with the symbol (has_/name_/abbreviated::He) and atomic number (has_/number_of_/electrons::2). 
 > 
 > It is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas 
 > and the first in the noble gas group in the periodic table. 

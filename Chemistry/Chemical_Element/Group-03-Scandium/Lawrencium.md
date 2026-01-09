@@ -54,7 +54,7 @@ has_/name_/en::Lawrencium
 
 has_/name_/de::Lawrencium 
 
-(Abbr::Lr)
+(has_/name_/abbreviated::Lr)
 
 has_/value_for_/weight_/u::257 
 
@@ -78,7 +78,7 @@ has_/value_for_/temperature_/boil_/c ::0
 (has_/number_of_/period::7)
 (has_/number_of_/group::37)
 
-(Charge-e::103)
+(has_/number_of_/electrons::103)
 
 #is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905|WD~Lawrencium,1905]] 
 

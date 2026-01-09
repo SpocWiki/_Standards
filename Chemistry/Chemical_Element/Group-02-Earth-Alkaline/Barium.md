@@ -106,7 +106,7 @@ has_/value_for_/temperature_/boil_/c ::1640
 
 ## #has_/text_of_/abstract 
 
-> **Barium** is a chemical element with the symbol (Abbr::Ba) and atomic number (Charge-e::56). 
+> **Barium** is a chemical element with the symbol (has_/name_/abbreviated::Ba) and atomic number (has_/number_of_/electrons::56). 
 > It is the fifth element ((has_/number_of_/period::6)) in group (has_/number_of_/group::2) and is a soft, silvery alkaline earth metal. 
 > Because of its high chemical reactivity, barium is never found in nature as a free element.
 >

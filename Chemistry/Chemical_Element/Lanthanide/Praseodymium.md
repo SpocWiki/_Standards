@@ -91,7 +91,7 @@ has_/value_for_/temperature_/boil_/c ::3212
 
 ## #has_/text_of_/abstract 
 
-> **Praseodymium** is a chemical element with the symbol (Abbr::Pr) and the atomic number (Charge-e::59). 
+> **Praseodymium** is a chemical element with the symbol (has_/name_/abbreviated::Pr) and the atomic number (has_/number_of_/electrons::59). 
 > It is the third member of the lanthanide series and is considered to be one of the rare-earth metals. 
 > It is a soft, silvery, malleable and ductile metal, 
 > valued for its magnetic, electrical, chemical, and optical properties. 

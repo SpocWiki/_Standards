@@ -91,7 +91,7 @@ has_/value_for_/temperature_/boil_/c ::1778
 
 ## #has_/text_of_/abstract 
 
-> **Samarium** is a chemical element with symbol (Abbr::Sm) and atomic number (Charge-e::62). 
+> **Samarium** is a chemical element with symbol (has_/name_/abbreviated::Sm) and atomic number (has_/number_of_/electrons::62). 
 > It is a moderately hard silvery metal that slowly oxidizes in air. 
 > Being a typical member of the lanthanide series, samarium usually has the oxidation state +3. 
 > 

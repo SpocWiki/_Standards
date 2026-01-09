@@ -51,7 +51,7 @@ has_/name_/en::Mendelevium
 
 has_/name_/de::Mendelevium 
 
-(Abbr::Md)
+(has_/name_/abbreviated::Md)
 
 has_/value_for_/weight_/u::256 
 
@@ -74,7 +74,7 @@ has_/value_for_/temperature_/boil_/c ::0
 [has_/value_for_/energy_/form_/kj_/mol::0]
 (has_/number_of_/period::7)
 (has_/number_of_/group::35)
-(Charge-e::101)
+(has_/number_of_/electrons::101)
 
 #is_/same_as :: [[../../../WikiData/WD~Mendelevium,1898]] 
 

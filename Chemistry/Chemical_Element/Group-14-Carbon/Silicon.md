@@ -122,7 +122,7 @@ has_/value_for_/temperature_/boil_/c ::2355
 
 ## #has_/text_of_/abstract 
 
-> **Silicon** is a chemical element with the symbol (Abbr::Si) and atomic number (Charge-e::14). 
+> **Silicon** is a chemical element with the symbol (has_/name_/abbreviated::Si) and atomic number (has_/number_of_/electrons::14). 
 > It is a hard, brittle crystalline solid with a blue-grey metallic luster, 
 > and is a tetravalent metalloid and semiconductor. 
 > It is a member of group (has_/number_of_/group::14) in the periodic table: 

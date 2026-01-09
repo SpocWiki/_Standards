@@ -101,7 +101,7 @@ has_/value_for_/temperature_/boil_/c ::-107.1
 
 ## #has_/text_of_/abstract 
 
-> **Xenon** is a chemical element with the symbol (Abbr::Xe) and atomic number (Charge-e::54). 
+> **Xenon** is a chemical element with the symbol (has_/name_/abbreviated::Xe) and atomic number (has_/number_of_/electrons::54). 
 > It is a dense, colorless, odorless noble gas found in Earth's atmosphere in trace amounts. 
 > Although generally unreactive, it can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized.Xenon is used in flash lamps and arc lamps, and as a general anesthetic. The first excimer laser design used a xenon dimer molecule (Xe2) as the lasing medium, and the earliest laser designs used xenon flash lamps as pumps. Xenon is also used to search for hypothetical weakly interacting massive particles
 >

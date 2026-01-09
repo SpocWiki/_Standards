@@ -124,7 +124,7 @@ has_/value_for_/temperature_/boil_/c ::1750
 
 ## #has_/text_of_/abstract 
 
-> **Antimony** is a chemical element with the symbol (Abbr::Sb) (from Latin: stibium) and atomic number (Charge-e::51). 
+> **Antimony** is a chemical element with the symbol (has_/name_/abbreviated::Sb) (from Latin: stibium) and atomic number (has_/number_of_/electrons::51). 
 > A lustrous gray metalloid, it is found in nature mainly as the sulfide mineral stibnite (Sb2S3). 
 > 
 > Antimony compounds have been known since ancient times 

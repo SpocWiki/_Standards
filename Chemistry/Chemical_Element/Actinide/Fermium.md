@@ -55,7 +55,7 @@ has_/name_/en::Fermium
 
 has_/name_/de::Fermium 
 
-(Abbr::Fm)
+(has_/name_/abbreviated::Fm)
 
 has_/value_for_/weight_/u::253 
 
@@ -79,7 +79,7 @@ has_/value_for_/temperature_/boil_/c ::0
 (has_/number_of_/period::7)
 (has_/number_of_/group::34)
 []
-(Charge-e::100)
+(has_/number_of_/electrons::100)
 
 #is_/same_as :: [[../../../WikiData/WD~Fermium,1896|WD~Fermium,1896]] 
 

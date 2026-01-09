@@ -121,7 +121,7 @@ has_/value_for_/temperature_/boil_/c ::2970
 
 ## #has_/text_of_/abstract 
 
-> **[has_/name_/en::Beryllium]** is a chemical element with the symbol (Abbr::Be) and atomic number (Charge-e::4). 
+> **[has_/name_/en::Beryllium]** is a chemical element with the symbol (has_/name_/abbreviated::Be) and atomic number (has_/number_of_/electrons::4). 
 > 
 > It is a steel-gray, strong, lightweight and brittle alkaline earth metal. 
 > 

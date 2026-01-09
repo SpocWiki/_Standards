@@ -107,7 +107,7 @@ has_/value_for_/temperature_/boil_/c ::989.8
 
 ## #has_/text_of_/abstract 
 
-> **Tellurium** is a chemical element with the symbol (Abbr::Te) and atomic number (Charge-e::53). 
+> **Tellurium** is a chemical element with the symbol (has_/name_/abbreviated::Te) and atomic number (has_/number_of_/electrons::53). 
 > It is a brittle, mildly toxic, rare, silver-white metalloid. 
 > Tellurium is chemically related to selenium and sulfur, all three of which are chalcogens. 
 > It is occasionally found in native form as elemental crystals. 

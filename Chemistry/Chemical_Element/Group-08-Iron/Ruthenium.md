@@ -102,7 +102,7 @@ has_/value_for_/temperature_/boil_/c ::3000
 
 ## #has_/text_of_/abstract 
 
-> **Ruthenium** is a chemical element with the symbol (Abbr::Ru) and atomic number (Charge-e::44). 
+> **Ruthenium** is a chemical element with the symbol (has_/name_/abbreviated::Ru) and atomic number (has_/number_of_/electrons::44). 
 > It is a rare transition metal belonging to the platinum group of the periodic table. 
 > Like the other metals of the platinum group, ruthenium is inert to most other chemicals. 
 > 

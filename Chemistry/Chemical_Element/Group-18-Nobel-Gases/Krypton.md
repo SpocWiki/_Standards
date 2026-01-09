@@ -96,7 +96,7 @@ has_/value_for_/temperature_/boil_/c ::-152
 ## #has_/text_of_/abstract 
 
 > **Krypton** (from Ancient Greek: κρυπτός, romanized: kryptos 'the hidden one') 
-> is a chemical element with the symbol (Abbr::Kr) and atomic number (Charge-e::36). 
+> is a chemical element with the symbol (has_/name_/abbreviated::Kr) and atomic number (has_/number_of_/electrons::36). 
 > 
 > It is a colorless, odorless, tasteless noble gas that occurs in trace amounts in the atmosphere 
 > and is often used with other rare gases in fluorescent lamps. Krypton is chemically inert.

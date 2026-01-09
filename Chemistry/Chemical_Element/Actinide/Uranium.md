@@ -85,7 +85,7 @@ has_/name_/en::Uranium
 
 has_/name_/de::Uran 
 
-(Abbr::U)
+(has_/name_/abbreviated::U)
 
 has_/value_for_/weight_/u::238.0289 
 
@@ -108,7 +108,7 @@ has_/value_for_/temperature_/boil_/c ::3818
 [has_/value_for_/energy_/form_/kj_/mol::477]
 (has_/number_of_/period::7)
 (has_/number_of_/group::26)
-(Charge-e::92)
+(has_/number_of_/electrons::92)
 
 
 ## #has_/text_of_/abstract 

@@ -84,7 +84,7 @@ has_/value_for_/temperature_/boil_/c ::1727
 
 ## #has_/text_of_/abstract 
 
-> **Thulium** is a chemical element with the symbol (Abbr::Tm) and atomic number (Charge-e::69). It is the thirteenth and third-last element in the lanthanide series. Like the other lanthanides, the most common oxidation state is +3, seen in its oxide, halides and other compounds; however, the +2 oxidation state can also be stable. In aqueous solution, like compounds of other late lanthanides, soluble thulium compounds form coordination complexes with nine water molecules.
+> **Thulium** is a chemical element with the symbol (has_/name_/abbreviated::Tm) and atomic number (has_/number_of_/electrons::69). It is the thirteenth and third-last element in the lanthanide series. Like the other lanthanides, the most common oxidation state is +3, seen in its oxide, halides and other compounds; however, the +2 oxidation state can also be stable. In aqueous solution, like compounds of other late lanthanides, soluble thulium compounds form coordination complexes with nine water molecules.
 >
 > In 1879, the Swedish chemist Per Teodor Cleve separated from the rare earth oxide erbia another two previously unknown components, which he called holmia and thulia; these were the oxides of holmium and thulium, respectively. A relatively pure sample of thulium metal was first obtained in 1911.
 >

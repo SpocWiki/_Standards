@@ -134,7 +134,7 @@ has_/value_for_/temperature_/boil_/c ::356.58
 
 ## #has_/text_of_/abstract 
 
-> Mercury is a chemical element with the symbol (Abbr::Hg) and atomic number (Charge-e::80). 
+> Mercury is a chemical element with the symbol (has_/name_/abbreviated::Hg) and atomic number (has_/number_of_/electrons::80). 
 > It is also known as quicksilver and was formerly named hydrargyrum ( hy-DRAR-jər-əm) 
 > from the Greek words hydor (water) and argyros (silver). 
 > 

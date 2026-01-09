@@ -138,7 +138,7 @@ has_/value_for_/temperature_/boil_/c ::774
 ## #has_/text_of_/abstract 
 
 > **Potassium** is the chemical element 
-> with the symbol (Abbr::K) (from Neo-Latin kalium) and atomic number (Charge-e::19). 
+> with the symbol (has_/name_/abbreviated::K) (from Neo-Latin kalium) and atomic number (has_/number_of_/electrons::19). 
 > 
 > It is a silvery-white metal that is soft enough to easily cut with a knife. 
 > Potassium metal reacts rapidly with atmospheric oxygen 

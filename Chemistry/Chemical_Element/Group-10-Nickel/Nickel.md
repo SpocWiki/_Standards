@@ -147,7 +147,7 @@ has_/value_for_/temperature_/boil_/c ::2732
 
 ## #has_/text_of_/abstract 
 
-> **Nickel** is a chemical element with symbol (Abbr::Ni) and atomic number (Charge-e::28). 
+> **Nickel** is a chemical element with symbol (has_/name_/abbreviated::Ni) and atomic number (has_/number_of_/electrons::28). 
 > It is a silvery-white lustrous metal with a slight golden tinge. 
 > Nickel is a hard and ductile transition metal. 
 > 

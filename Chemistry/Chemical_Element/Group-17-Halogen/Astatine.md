@@ -84,7 +84,7 @@ has_/value_for_/temperature_/boil_/c ::337
 
 ## #has_/text_of_/abstract 
 
-> **Astatine** is a chemical element with the symbol (Abbr::At) and atomic number (Charge-e::85). 
+> **Astatine** is a chemical element with the symbol (has_/name_/abbreviated::At) and atomic number (has_/number_of_/electrons::85). 
 > It is the rarest naturally occurring element in the Earth's crust, 
 > occurring only as the decay product of various heavier elements. 
 > All of astatine's isotopes are short-lived; the most stable is astatine-210, with a half-life of 8.1 hours. 

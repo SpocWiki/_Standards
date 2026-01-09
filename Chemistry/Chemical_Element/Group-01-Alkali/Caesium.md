@@ -110,7 +110,7 @@ has_/value_for_/temperature_/boil_/c ::678.4
 ## #has_/text_of_/abstract 
 
 > **Caesium** (IUPAC spelling) (or cesium in American English) 
-> is a chemical element with the symbol (Abbr::Cs) and atomic number (Charge-e::55). 
+> is a chemical element with the symbol (has_/name_/abbreviated::Cs) and atomic number (has_/number_of_/electrons::55). 
 > 
 > It is a soft, silvery-golden alkali metal with a melting point of [has_/value_for_/temperature_/melt_/c ::28.4] °C (83.3 °F), 
 > which makes it one of only five elemental metals that are liquid at or near room temperature. 

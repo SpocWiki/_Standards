@@ -87,7 +87,7 @@ has_/value_for_/temperature_/boil_/c ::1193
 
 ## #has_/text_of_/abstract 
 
-> **Ytterbium** is a chemical element with the symbol (Abbr::Yb) and atomic number (Charge-e::70). 
+> **Ytterbium** is a chemical element with the symbol (has_/name_/abbreviated::Yb) and atomic number (has_/number_of_/electrons::70). 
 > It is a metal, the fourteenth and penultimate element in the lanthanide series, 
 > which is the basis of the relative stability of its +2 oxidation state. 
 > 

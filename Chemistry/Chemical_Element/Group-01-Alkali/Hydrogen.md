@@ -84,7 +84,7 @@ is_/part_of::[[../Group-01-Alkali]]
 
 [#has_/name_/en::Hydrogenium]
 [#has_/name_/de::Wasserstoff]
-(Abbr::H)
+(has_/name_/abbreviated::H)
 [#has_/value_for_/weight_/u::1.0079]
 [has_/value_for_/radius::0.79]
 [has_/value_for_/volume_/ccm_/mol::14.4]
@@ -100,7 +100,7 @@ is_/part_of::[[../Group-01-Alkali]]
 [has_/value_for_/energy_/form_/kj_/mol::0.44936]
 (has_/number_of_/period::1)
 (has_/number_of_/group::1)
-(Charge-e::1)
+(has_/number_of_/electrons::1)
 
 #is_/same_as :: [[../../../WikiData/WD~Hydrogen,556]] 
 

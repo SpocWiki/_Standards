@@ -113,7 +113,7 @@ has_/value_for_/temperature_/boil_/c ::-195.8
 
 ## #has_/text_of_/abstract 
 
-> **Nitrogen** is the chemical element with the symbol (Abbr::N) and atomic number (Charge-e::7). 
+> **Nitrogen** is the chemical element with the symbol (has_/name_/abbreviated::N) and atomic number (has_/number_of_/electrons::7). 
 > Nitrogen is a nonmetal and the lightest member of group (has_/number_of_/group::15) of the periodic table, 
 > often called the pnictogens. I
 > 

@@ -63,7 +63,7 @@ has_/name_/en::Curium
 
 has_/name_/de::Curium 
 
-(Abbr::Cm)
+(has_/name_/abbreviated::Cm)
 
 has_/value_for_/weight_/u::247 
 
@@ -87,7 +87,7 @@ has_/value_for_/temperature_/boil_/c ::0
 (has_/number_of_/period::7)
 (has_/number_of_/group::30)
 []
-(Charge-e::96)
+(has_/number_of_/electrons::96)
 
 #is_/same_as :: [[../../../WikiData/WD~Curium,1876]] 
 

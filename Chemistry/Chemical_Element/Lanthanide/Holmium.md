@@ -97,7 +97,7 @@ has_/value_for_/temperature_/boil_/c ::2720
 
 ## #has_/text_of_/abstract 
 
-> **Holmium** is a chemical element with the symbol (Abbr::Ho) and atomic number (Charge-e::67). 
+> **Holmium** is a chemical element with the symbol (has_/name_/abbreviated::Ho) and atomic number (has_/number_of_/electrons::67). 
 > It is a rare-earth element and the eleventh member of the lanthanide series. 
 > It is a relatively soft, silvery, fairly corrosion-resistant and malleable metal. 
 > 

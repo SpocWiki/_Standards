@@ -116,7 +116,7 @@ SpocWebEntityId: 21923
 
 ## #has_/text_of_/abstract 
 
-> **Vanadium** is a chemical element with the symbol (Abbr::V) and atomic number (Charge-e::23). 
+> **Vanadium** is a chemical element with the symbol (has_/name_/abbreviated::V) and atomic number (has_/number_of_/electrons::23). 
 > It is a hard, silvery-grey, malleable transition metal. 
 > 
 > The elemental metal is rarely found in nature, but once isolated artificially, 

@@ -58,7 +58,7 @@ has_/name_/en::Americium
 
 has_/name_/de::Americium 
 
-(Abbr::Am)
+(has_/name_/abbreviated::Am)
 
 has_/value_for_/weight_/u::243 
 
@@ -82,7 +82,7 @@ has_/value_for_/temperature_/boil_/c ::2607
 (has_/number_of_/period::7)
 (has_/number_of_/group::29)
 []
-(Charge-e::95)
+(has_/number_of_/electrons::95)
 
 
 

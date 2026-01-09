@@ -63,7 +63,7 @@ has_/name_/en::Protactinium
 
 has_/name_/de::Protactinium 
 
-(Abbr::Pa)
+(has_/name_/abbreviated::Pa)
 
 has_/value_for_/weight_/u::231.0359 
 
@@ -86,7 +86,7 @@ has_/value_for_/temperature_/boil_/c ::0
 [has_/value_for_/energy_/form_/kj_/mol::0]
 (has_/number_of_/period::7)
 (has_/number_of_/group::25)
-(Charge-e::91)
+(has_/number_of_/electrons::91)
 
 #is_/same_as :: [[../../../WikiData/WD~Protactinium,1109]] 
 

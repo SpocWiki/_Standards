@@ -141,7 +141,7 @@ has_/value_for_/temperature_/boil_/c ::2750
 
 ## #has_/text_of_/abstract 
 
-> **Iron** ( or ) is a chemical element with symbol (Abbr::Fe) (from Latin: ferrum) and atomic number (Charge-e::26). 
+> **Iron** ( or ) is a chemical element with symbol (has_/name_/abbreviated::Fe) (from Latin: ferrum) and atomic number (has_/number_of_/electrons::26). 
 > It is a metal that belongs to the first transition series and group (has_/number_of_/group::8) of the periodic table. 
 > 
 > It is, by mass, the most common element on Earth, just ahead of oxygen 

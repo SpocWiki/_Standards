@@ -98,7 +98,7 @@ has_/value_for_/temperature_/boil_/c ::1560
 
 ## #has_/text_of_/abstract 
 
-> **Bismuth** is a chemical element with the symbol (Abbr::Bi) and atomic number (Charge-e::83). 
+> **Bismuth** is a chemical element with the symbol (has_/name_/abbreviated::Bi) and atomic number (has_/number_of_/electrons::83). 
 > It is a post-transition metal and one of the pnictogens, 
 > with chemical properties resembling its lighter group 15 siblings arsenic and antimony. 
 > 

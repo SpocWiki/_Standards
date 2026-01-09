@@ -155,7 +155,7 @@ has_/value_for_/temperature_/boil_/c ::613
 
 ## #has_/text_of_/abstract 
 
-> **Arsenic** is a chemical element with the symbol (Abbr::As) and atomic number (Charge-e::33). 
+> **Arsenic** is a chemical element with the symbol (has_/name_/abbreviated::As) and atomic number (has_/number_of_/electrons::33). 
 > Arsenic occurs in many minerals, usually in combination with sulfur and metals, 
 > but also as a pure elemental crystal. 
 > 

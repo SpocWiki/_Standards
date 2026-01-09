@@ -105,7 +105,7 @@ has_/value_for_/temperature_/boil_/c ::2832
 
 ## #has_/text_of_/abstract 
 
-> **Scandium** is a chemical element with the symbol (Abbr::Sc) and atomic number (Charge-e::21). 
+> **Scandium** is a chemical element with the symbol (has_/name_/abbreviated::Sc) and atomic number (has_/number_of_/electrons::21). 
 > It is a silvery-white metallic d-block element. 
 > 
 > Historically, it has been classified as a rare-earth element, together with yttrium and the lanthanides. 

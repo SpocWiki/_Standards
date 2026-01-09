@@ -153,7 +153,7 @@ has_/value_for_/temperature_/boil_/c ::2672
 
 ## #has_/text_of_/abstract 
 
-> **Chromium** is a chemical element with the symbol (Abbr::Cr) and atomic number (Charge-e::24). 
+> **Chromium** is a chemical element with the symbol (has_/name_/abbreviated::Cr) and atomic number (has_/number_of_/electrons::24). 
 > It is the first element in group (has_/number_of_/group::6). 
 > It is a steely-grey, lustrous, hard, and brittle transition metal. 
 > 

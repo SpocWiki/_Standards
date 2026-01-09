@@ -150,7 +150,7 @@ has_/value_for_/temperature_/boil_/c ::2467
 ## #has_/text_of_/abstract 
 
 > **Aluminium** (aluminum in North American English) 
-> is a chemical element with the symbol (Abbr::Al) and atomic number (Charge-e::13). 
+> is a chemical element with the symbol (has_/name_/abbreviated::Al) and atomic number (has_/number_of_/electrons::13). 
 > 
 > Aluminium has a density lower than those of other common metals, 
 > at approximately one third that of steel. 

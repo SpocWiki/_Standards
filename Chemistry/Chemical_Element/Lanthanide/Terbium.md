@@ -88,7 +88,7 @@ has_/value_for_/temperature_/boil_/c ::3041
 
 ## #has_/text_of_/abstract 
 
-> **Terbium** is a chemical element with the symbol (Abbr::Tb) and atomic number (Charge-e::65). 
+> **Terbium** is a chemical element with the symbol (has_/name_/abbreviated::Tb) and atomic number (has_/number_of_/electrons::65). 
 > It is a silvery-white, rare earth metal that is malleable, and ductile. 
 > The ninth member of the lanthanide series, 
 > terbium is a fairly electropositive metal that reacts with water, evolving hydrogen gas. 

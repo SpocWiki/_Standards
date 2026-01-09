@@ -113,7 +113,7 @@ has_/value_for_/temperature_/boil_/c ::2080
 
 ## #has_/text_of_/abstract 
 
-> **Indium** is a chemical element with the symbol (Abbr::In) and atomic number (Charge-e::49). 
+> **Indium** is a chemical element with the symbol (has_/name_/abbreviated::In) and atomic number (has_/number_of_/electrons::49). 
 > Indium is the softest metal that is not an alkali metal. 
 > It is a silvery-white metal that resembles tin in appearance. 
 > 

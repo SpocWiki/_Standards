@@ -69,7 +69,7 @@ has_/value_for_/temperature_/boil_/c ::0
 
 ## #has_/text_of_/abstract 
 
-> Dubnium is a synthetic chemical element with the symbol (Abbr::Db) and atomic number (Charge-e::105). 
+> Dubnium is a synthetic chemical element with the symbol (has_/name_/abbreviated::Db) and atomic number (has_/number_of_/electrons::105). 
 > It is highly radioactive: the most stable known isotope, dubnium-268, has a half-life of about 16 hours. 
 > This greatly limits extended research on the element.
 >

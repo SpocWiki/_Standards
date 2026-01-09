@@ -92,7 +92,7 @@ has_/value_for_/temperature_/boil_/c ::1140
 
 ## #has_/text_of_/abstract 
 
-> **Radium** is a chemical element with the symbol (Abbr::Ra) and atomic number (Charge-e::88). 
+> **Radium** is a chemical element with the symbol (has_/name_/abbreviated::Ra) and atomic number (has_/number_of_/electrons::88). 
 > It is the sixth element in group 2 of the periodic table, also known as the alkaline earth metals. 
 > 
 > Pure radium is silvery-white, but it readily reacts with nitrogen (rather than oxygen) 

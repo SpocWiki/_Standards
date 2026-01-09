@@ -236,7 +236,7 @@ has_/value_for_/temperature_/boil_/c ::3257
 
 ## #has_/text_of_/abstract 
 
-> **Cerium** is a chemical element with the symbol (Abbr::Ce) and atomic number (Charge-e::58). 
+> **Cerium** is a chemical element with the symbol (has_/name_/abbreviated::Ce) and atomic number (has_/number_of_/electrons::58). 
 > Cerium is a soft, ductile, and silvery-white metal that tarnishes when exposed to air. 
 > Cerium is the second element in the lanthanide series, 
 > and while it often shows the oxidation state of +3 characteristic of the series, 

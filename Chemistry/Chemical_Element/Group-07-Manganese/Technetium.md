@@ -104,7 +104,7 @@ has_/value_for_/temperature_/boil_/c ::4877
 
 ## #has_/text_of_/abstract 
 
-> **Technetium** is a chemical element with the symbol (Abbr::Tc) and atomic number (Charge-e::43). 
+> **Technetium** is a chemical element with the symbol (has_/name_/abbreviated::Tc) and atomic number (has_/number_of_/electrons::43). 
 > It is the lightest element whose isotopes are all radioactive. 
 > 
 > All available technetium is produced as a synthetic element. 

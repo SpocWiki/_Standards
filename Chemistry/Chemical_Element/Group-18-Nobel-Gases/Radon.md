@@ -95,7 +95,7 @@ has_/value_for_/temperature_/boil_/c ::-61.8
 
 ## #has_/text_of_/abstract 
 
-> **Radon** is a chemical element with the symbol (Abbr::Rn) and atomic number (Charge-e::86). 
+> **Radon** is a chemical element with the symbol (has_/name_/abbreviated::Rn) and atomic number (has_/number_of_/electrons::86). 
 > It is a radioactive, colourless, odourless, tasteless noble gas. 
 > It occurs naturally in minute quantities 
 > as an intermediate step in the normal radioactive decay chains 

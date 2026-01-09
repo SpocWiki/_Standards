@@ -129,7 +129,7 @@ has_/value_for_/temperature_/boil_/c ::1740
 
 ## #has_/text_of_/abstract 
 
-> **Lead** is a chemical element with the symbol (Abbr::Pb) (from the Latin plumbum) and atomic number (Charge-e::82). 
+> **Lead** is a chemical element with the symbol (has_/name_/abbreviated::Pb) (from the Latin plumbum) and atomic number (has_/number_of_/electrons::82). 
 > It is a heavy metal that is denser than most common materials. 
 > Lead is soft and malleable, and also has a relatively low melting point. 
 > 

@@ -96,7 +96,7 @@ has_/value_for_/temperature_/boil_/c ::4130
 
 ## #has_/text_of_/abstract 
 
-> **Iridium** is a chemical element with the symbol (Abbr::Ir) and atomic number (Charge-e::77). 
+> **Iridium** is a chemical element with the symbol (has_/name_/abbreviated::Ir) and atomic number (has_/number_of_/electrons::77). 
 > A very hard, brittle, silvery-white transition metal of the platinum group, 
 > it is considered the second-densest naturally occurring metal (after osmium) 
 > with a density of 22.56 g/cm3 (0.815 lb/cu in) as defined by experimental X-ray crystallography. 

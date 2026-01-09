@@ -67,13 +67,13 @@ has_/value_for_/temperature_/boil_/c ::0
 [has_/value_for_/energy_/form_/kj_/mol::0]
 (has_/number_of_/period::7)
 (has_/number_of_/group::4)
-(Charge-e::104)
+(has_/number_of_/electrons::104)
 
 #is_/same_as :: [[../../../WikiData/WD~Rutherfordium,1226|WD~Rutherfordium,1226]] 
 
 ## #has_/text_of_/abstract 
 
-> **Rutherfordium** is a chemical element with the symbol (Abbr::Ru) and atomic number 104, 
+> **Rutherfordium** is a chemical element with the symbol (has_/name_/abbreviated::Ru) and atomic number 104, 
 > named after New Zealand-born British physicist Ernest Rutherford. 
 > 
 > As a synthetic element, it is not found in nature and can only be made in a particle accelerator. 

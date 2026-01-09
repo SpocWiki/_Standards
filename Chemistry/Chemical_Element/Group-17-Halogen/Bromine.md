@@ -90,7 +90,7 @@ has_/value_for_/temperature_/boil_/c ::58.78
 
 ## #has_/text_of_/abstract 
 
-> **Bromine** is a chemical element with the symbol (Abbr::Br) and atomic number (Charge-e::35). 
+> **Bromine** is a chemical element with the symbol (has_/name_/abbreviated::Br) and atomic number (has_/number_of_/electrons::35). 
 > It is a volatile red-brown liquid at room temperature 
 > that evaporates readily to form a similarly coloured vapour. 
 > 

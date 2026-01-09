@@ -112,7 +112,7 @@ has_/value_for_/temperature_/boil_/c ::4827
 
 ## #has_/text_of_/abstract 
 
-> **Carbon** (from Latin  carbo 'coal') is a chemical element with the symbol (Abbr::C) and atomic number (Charge-e::6). 
+> **Carbon** (from Latin  carbo 'coal') is a chemical element with the symbol (has_/name_/abbreviated::C) and atomic number (has_/number_of_/electrons::6). 
 > It is nonmetallic and tetravalent—its atom making 
 > four electrons available to form covalent chemical bonds. 
 > It belongs to group 14 of the periodic table. 

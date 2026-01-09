@@ -144,7 +144,7 @@ has_/value_for_/temperature_/boil_/c ::1962
 
 ## #has_/text_of_/abstract 
 
-> **Manganese** is a chemical element with the symbol (Abbr::Mn) and atomic number (Charge-e::25). 
+> **Manganese** is a chemical element with the symbol (has_/name_/abbreviated::Mn) and atomic number (has_/number_of_/electrons::25). 
 > It is a hard, brittle, silvery metal, often found in minerals in combination with iron. 
 > 
 > Manganese is a transition metal with a multifaceted array of industrial alloy uses, 

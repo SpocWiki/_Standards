@@ -120,7 +120,7 @@ has_/value_for_/temperature_/boil_/c ::2870
 
 ## #has_/text_of_/abstract 
 
-> **Cobalt** is a chemical element with the symbol (Abbr::Co) and atomic number (Charge-e::27). 
+> **Cobalt** is a chemical element with the symbol (has_/name_/abbreviated::Co) and atomic number (has_/number_of_/electrons::27). 
 > As with nickel, cobalt is found in the Earth's crust only in a chemically combined form, 
 > save for small deposits found in alloys of natural meteoric iron. 
 > The free element, produced by reductive smelting, is a hard, lustrous, silver-gray metal.

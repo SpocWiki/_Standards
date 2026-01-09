@@ -132,7 +132,7 @@ has_/value_for_/temperature_/boil_/c ::4612
 
 ## #has_/text_of_/abstract 
 
-> **Molybdenum** is a chemical element with the symbol (Abbr::Mo) and atomic number (Charge-e::42) 
+> **Molybdenum** is a chemical element with the symbol (has_/name_/abbreviated::Mo) and atomic number (has_/number_of_/electrons::42) 
 > which is located in period (has_/number_of_/period::5) and group (has_/number_of_/group::6). 
 > 
 > The name is from Neo-Latin molybdaenum, 

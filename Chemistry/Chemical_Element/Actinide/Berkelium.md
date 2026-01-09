@@ -62,7 +62,7 @@ has_/name_/en::Berkelium
 
 has_/name_/de::Berkelium 
 
-(Abbr::Bk)
+(has_/name_/abbreviated::Bk)
 
 has_/value_for_/weight_/u::247 
 
@@ -86,7 +86,7 @@ has_/value_for_/temperature_/boil_/c ::0
 (has_/number_of_/period::7)
 (has_/number_of_/group::31)
 []
-(Charge-e::97)
+(has_/number_of_/electrons::97)
 
 #is_/same_as :: [[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]] 
 

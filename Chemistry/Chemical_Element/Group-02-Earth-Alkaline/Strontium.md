@@ -106,7 +106,7 @@ has_/value_for_/temperature_/boil_/c ::1384
 
 ## #has_/text_of_/abstract 
 
-> **Strontium** is the chemical element with the symbol (Abbr::Sr) and atomic number (Charge-e::38). 
+> **Strontium** is the chemical element with the symbol (has_/name_/abbreviated::Sr) and atomic number (has_/number_of_/electrons::38). 
 > 
 > An alkaline earth metal, strontium is a soft silver-white yellowish metallic element 
 > that is highly chemically reactive. 

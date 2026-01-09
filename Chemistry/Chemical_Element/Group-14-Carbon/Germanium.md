@@ -116,7 +116,7 @@ has_/value_for_/temperature_/boil_/c ::2830
 
 ## #has_/text_of_/abstract 
 
-> **Germanium** is a chemical element with the symbol (Abbr::Ge) and atomic number (Charge-e::32). 
+> **Germanium** is a chemical element with the symbol (has_/name_/abbreviated::Ge) and atomic number (has_/number_of_/electrons::32). 
 > It is lustrous, hard-brittle, grayish-white and similar in appearance to silicon. 
 > It is a metalloid in the carbon group that is chemically similar to its group neighbors silicon and tin. 
 > Like silicon, germanium naturally reacts and forms complexes with oxygen in nature.

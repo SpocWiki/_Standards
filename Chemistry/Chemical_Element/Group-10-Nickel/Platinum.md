@@ -96,7 +96,7 @@ has_/value_for_/temperature_/boil_/c ::3827
 
 ## #has_/text_of_/abstract 
 
-> **Platinum** is a chemical element with the symbol (Abbr::Pt) and atomic number (Charge-e::78). 
+> **Platinum** is a chemical element with the symbol (has_/name_/abbreviated::Pt) and atomic number (has_/number_of_/electrons::78). 
 > It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal. 
 > Its name originates from Spanish platina, a diminutive of plata "silver".
 > 

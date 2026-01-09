@@ -221,7 +221,7 @@ has_/value_for_/temperature_/boil_/c ::3337
 
 ## #has_/text_of_/abstract 
 
-> **Yttrium** is a chemical element with the symbol (Abbr::Y) and atomic number (Charge-e::39). 
+> **Yttrium** is a chemical element with the symbol (has_/name_/abbreviated::Y) and atomic number (has_/number_of_/electrons::39). 
 > It is a silvery-metallic transition metal chemically similar to the lanthanides 
 > and has often been classified as a "rare-earth element". 
 > 

@@ -111,7 +111,7 @@ has_/value_for_/temperature_/boil_/c ::3727
 
 ## #has_/text_of_/abstract 
 
-> **Rhodium** is a chemical element with the symbol (Abbr::Rh) and atomic number (Charge-e::45). 
+> **Rhodium** is a chemical element with the symbol (has_/name_/abbreviated::Rh) and atomic number (has_/number_of_/electrons::45). 
 > It is a very rare, silvery-white, hard, corrosion-resistant transition metal. 
 > It is a noble metal and a member of the platinum group. 
 > It has only one naturally occurring isotope: 103Rh. 

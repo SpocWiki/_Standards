@@ -124,7 +124,7 @@ has_/value_for_/temperature_/boil_/c ::765
 
 ## #has_/text_of_/abstract 
 
-> **Cadmium** is a chemical element with the symbol (Abbr::Cd) and atomic number (Charge-e::48). 
+> **Cadmium** is a chemical element with the symbol (has_/name_/abbreviated::Cd) and atomic number (has_/number_of_/electrons::48). 
 > 
 > This soft, silvery-white metal is chemically 
 > similar to the two other stable metals in group 12, zinc and mercury. 

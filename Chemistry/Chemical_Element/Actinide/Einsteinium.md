@@ -58,7 +58,7 @@ has_/name_/en::Einsteinium
 
 has_/name_/de::Einsteinium 
 
-(Abbr::Es)
+(has_/name_/abbreviated::Es)
 
 has_/value_for_/weight_/u::254 
 
@@ -82,7 +82,7 @@ has_/value_for_/temperature_/boil_/c ::0
 (has_/number_of_/period::7)
 (has_/number_of_/group::33)
 []
-(Charge-e::99)
+(has_/number_of_/electrons::99)
 
 
 

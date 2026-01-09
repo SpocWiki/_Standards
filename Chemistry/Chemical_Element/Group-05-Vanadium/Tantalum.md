@@ -123,7 +123,7 @@ has_/value_for_/temperature_/boil_/c ::5425
 
 ## #has_/text_of_/abstract 
 
-> **Tantalum** is a chemical element with the symbol (Abbr::Ta) and atomic number (Charge-e::73). 
+> **Tantalum** is a chemical element with the symbol (has_/name_/abbreviated::Ta) and atomic number (has_/number_of_/electrons::73). 
 > Previously known as tantalium, it is named after Tantalus, a figure in Greek mythology. 
 > 
 > Tantalum is a very hard, ductile, lustrous, blue-gray transition metal that is highly corrosion-resistant. 

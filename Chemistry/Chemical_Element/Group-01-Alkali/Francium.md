@@ -81,7 +81,7 @@ has_/value_for_/volume_/ccm_/mol::0
 
 ## #has_/text_of_/abstract 
 
-> **Francium** is a chemical element with the symbol (Abbr::Fr) and atomic number (Charge-e::87). 
+> **Francium** is a chemical element with the symbol (has_/name_/abbreviated::Fr) and atomic number (has_/number_of_/electrons::87). 
 > It is extremely radioactive; its most stable isotope, francium-223 
 > (originally called actinium K after the natural decay chain in which it appears), 
 > has a half-life of only 22 minutes. 

@@ -105,7 +105,7 @@ has_/value_for_/temperature_/boil_/c ::3140
 
 ## #has_/text_of_/abstract 
 
-> **Palladium** is a chemical element with the symbol (Abbr::Pd) and atomic number (Charge-e::46). 
+> **Palladium** is a chemical element with the symbol (has_/name_/abbreviated::Pd) and atomic number (has_/number_of_/electrons::46). 
 > It is a rare and lustrous silvery-white metal 
 > discovered in 1803 by the English chemist William Hyde Wollaston. 
 > 

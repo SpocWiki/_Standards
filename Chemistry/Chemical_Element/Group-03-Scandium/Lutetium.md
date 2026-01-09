@@ -68,7 +68,7 @@ has_/name_/en::Lutetium
 
 has_/name_/de::Lutetium 
 
-(Abbr::Lu)
+(has_/name_/abbreviated::Lu)
 
 has_/value_for_/weight_/u::174.967 
 
@@ -91,7 +91,7 @@ has_/value_for_/temperature_/boil_/c ::3315
 [has_/value_for_/energy_/form_/kj_/mol::355.9]
 (has_/number_of_/period::6)
 (has_/number_of_/group::37)
-(Charge-e::71)
+(has_/number_of_/electrons::71)
 
 #is_/same_as :: [[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]] 
 

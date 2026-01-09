@@ -101,7 +101,7 @@ has_/value_for_/temperature_/boil_/c ::-188.14
 
 ## #has_/text_of_/abstract 
 
-> **Fluorine** is a chemical element with the symbol (Abbr::F) and atomic number (Charge-e::9). 
+> **Fluorine** is a chemical element with the symbol (has_/name_/abbreviated::F) and atomic number (has_/number_of_/electrons::9). 
 > It is the lightest halogen and exists at standard conditions as a highly toxic, pale yellow diatomic gas. 
 > As the most electronegative reactive element, it is extremely reactive, 
 > as it reacts with all other elements except for the light inert gases.

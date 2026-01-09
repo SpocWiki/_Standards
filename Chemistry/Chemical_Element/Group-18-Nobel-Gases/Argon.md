@@ -101,7 +101,7 @@ has_/value_for_/temperature_/boil_/c ::-185.7
 
 ## #has_/text_of_/abstract 
 
-> **Argon** is a chemical element with the symbol (Abbr::Ar) and atomic number (Charge-e::18). 
+> **Argon** is a chemical element with the symbol (has_/name_/abbreviated::Ar) and atomic number (has_/number_of_/electrons::18). 
 > It is in group 18 of the periodic table and is a noble gas. 
 > Argon is the third-most abundant gas in Earth's atmosphere, at 0.934% (9340 ppmv). 
 > It is more than twice as abundant as water vapor 

@@ -126,7 +126,7 @@ has_/value_for_/temperature_/boil_/c ::280
 
 ## #has_/text_of_/abstract 
 
-> **Phosphorus** is a chemical element with the symbol (Abbr::P) and atomic number (Charge-e::15). 
+> **Phosphorus** is a chemical element with the symbol (has_/name_/abbreviated::P) and atomic number (has_/number_of_/electrons::15). 
 > Elemental phosphorus exists in two major forms, white phosphorus 
 > and red phosphorus, but because it is highly reactive, 
 > phosphorus is never found as a free element on Earth. 

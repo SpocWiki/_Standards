@@ -104,7 +104,7 @@ has_/value_for_/temperature_/boil_/c ::4742
 ## #has_/text_of_/abstract 
 
 > **Niobium** is a chemical element 
-> with chemical symbol (Abbr::Nb) (formerly columbium, Cb) and atomic number (Charge-e::41). 
+> with chemical symbol (has_/name_/abbreviated::Nb) (formerly columbium, Cb) and atomic number (has_/number_of_/electrons::41). 
 > 
 > It is a light grey, crystalline, and ductile transition metal. 
 > Pure niobium has a Mohs hardness rating similar to pure titanium, and it has similar ductility to iron. 

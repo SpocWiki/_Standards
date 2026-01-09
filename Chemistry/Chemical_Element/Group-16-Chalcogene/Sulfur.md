@@ -122,7 +122,7 @@ has_/value_for_/temperature_/boil_/c ::444.67
 ## #has_/text_of_/abstract 
 
 > **Sulfur** (or sulphur in British English) 
-> is a chemical element with the symbol (Abbr::S) and atomic number (Charge-e::16). 
+> is a chemical element with the symbol (has_/name_/abbreviated::S) and atomic number (has_/number_of_/electrons::16). 
 > It is abundant, multivalent and nonmetallic. 
 > 
 > Under normal conditions, sulfur atoms form cyclic octatomic molecules with a chemical formula S8. 

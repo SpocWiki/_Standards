@@ -135,7 +135,7 @@ has_/value_for_/temperature_/boil_/c ::1090
 
 ## #has_/text_of_/abstract 
 
-> **Magnesium** is a chemical element with the symbol (Abbr::Mg) and atomic number (Charge-e::12). 
+> **Magnesium** is a chemical element with the symbol (has_/name_/abbreviated::Mg) and atomic number (has_/number_of_/electrons::12). 
 > It is a shiny gray metal having a low density, low melting point and high chemical reactivity. 
 > 
 > Like the other alkaline earth metals (group 2 of the periodic table) 

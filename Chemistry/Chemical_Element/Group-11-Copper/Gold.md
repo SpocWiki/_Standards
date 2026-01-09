@@ -138,7 +138,7 @@ has_/value_for_/temperature_/boil_/c ::2807
 
 ## #has_/text_of_/abstract 
 
-> **Gold** is a chemical element with the symbol (Abbr::Au) (from Latin: aurum) and atomic number (Charge-e::79). 
+> **Gold** is a chemical element with the symbol (has_/name_/abbreviated::Au) (from Latin: aurum) and atomic number (has_/number_of_/electrons::79). 
 > 
 > This makes it one of the higher atomic number elements that occur naturally. 
 > It is a bright, slightly orange-yellow, dense, soft, malleable, and ductile metal in a pure form. 

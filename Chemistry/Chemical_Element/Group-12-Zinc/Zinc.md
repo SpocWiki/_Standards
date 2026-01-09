@@ -146,7 +146,7 @@ has_/value_for_/temperature_/boil_/c ::907
 
 ## #has_/text_of_/abstract 
 
-> **Zinc** is a chemical element with the symbol (Abbr::Zn) and atomic number (Charge-e::30). 
+> **Zinc** is a chemical element with the symbol (has_/name_/abbreviated::Zn) and atomic number (has_/number_of_/electrons::30). 
 > Zinc is a slightly brittle metal at room temperature 
 > and has a shiny-greyish appearance when oxidation is removed. 
 > 

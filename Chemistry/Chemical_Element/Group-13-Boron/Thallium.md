@@ -99,7 +99,7 @@ has_/value_for_/temperature_/boil_/c ::1457
 
 ## #has_/text_of_/abstract 
 
-> **Thallium**  is a chemical element with the symbol (Abbr::Tl) and atomic number (Charge-e::81). 
+> **Thallium**  is a chemical element with the symbol (has_/name_/abbreviated::Tl) and atomic number (has_/number_of_/electrons::81). 
 > It is a gray post-transition metal that is not found free in nature. 
 > 
 > When isolated, thallium resembles tin, but discolors when exposed to air. 

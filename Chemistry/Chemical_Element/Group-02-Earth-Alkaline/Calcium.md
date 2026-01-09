@@ -127,7 +127,7 @@ has_/value_for_/temperature_/boil_/c ::1484
 
 ## #has_/text_of_/abstract 
 
-> **Calcium** is a chemical element with the symbol (Abbr::Ca) and atomic number (Charge-e::20). 
+> **Calcium** is a chemical element with the symbol (has_/name_/abbreviated::Ca) and atomic number (has_/number_of_/electrons::20). 
 > As an alkaline earth metal, calcium is a reactive metal 
 > that forms a dark oxide-nitride layer when exposed to air. 
 > 

@@ -101,7 +101,7 @@ has_/value_for_/temperature_/boil_/c ::-246.05
 
 ## #has_/text_of_/abstract 
 
-> **Neon** is a chemical element with the symbol (Abbr::Ne) and atomic number (Charge-e::10). 
+> **Neon** is a chemical element with the symbol (has_/name_/abbreviated::Ne) and atomic number (has_/number_of_/electrons::10). 
 > It is a noble gas. Neon is a colorless, odorless, inert monatomic gas under standard conditions, 
 > with about two-thirds the density of air. 
 > 

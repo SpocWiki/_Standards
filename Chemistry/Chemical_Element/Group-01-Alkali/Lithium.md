@@ -130,7 +130,7 @@ is_/part_of::[[../Group-01-Alkali]]
 
 [#has_/name_/en::Lithium]
 [#has_/name_/de::Lithium]
-(Abbr::Li)
+(has_/name_/abbreviated::Li)
 [#has_/value_for_/weight_/u::6.941]
 [has_/value_for_/radius::2.05]
 [has_/value_for_/volume_/ccm_/mol::13.1]
@@ -146,7 +146,7 @@ is_/part_of::[[../Group-01-Alkali]]
 [has_/value_for_/energy_/form_/kj_/mol::145.92]
 (has_/number_of_/period::2)
 (has_/number_of_/group::1)
-(Charge-e::3)
+(has_/number_of_/electrons::3)
 
 #is_/same_as :: [[../../../WikiData/WD~Lithium,568|WD~Lithium,568]]  
 

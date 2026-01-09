@@ -171,7 +171,7 @@ has_/value_for_/temperature_/boil_/c ::2567
 
 ## #has_/text_of_/abstract 
 
-> **Copper** is a chemical element with the symbol (Abbr::Cu) (from Latin: cuprum) and atomic number (Charge-e::29). 
+> **Copper** is a chemical element with the symbol (has_/name_/abbreviated::Cu) (from Latin: cuprum) and atomic number (has_/number_of_/electrons::29). 
 > It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. 
 > A freshly exposed surface of pure copper has a pinkish-orange color. 
 > 

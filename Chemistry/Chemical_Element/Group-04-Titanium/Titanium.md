@@ -142,7 +142,7 @@ has_/value_for_/temperature_/boil_/c ::3287
 
 ## #has_/text_of_/abstract 
 
-> **Titanium** is a chemical element with the symbol (Abbr::Ti) and atomic number (Charge-e::22). 
+> **Titanium** is a chemical element with the symbol (has_/name_/abbreviated::Ti) and atomic number (has_/number_of_/electrons::22). 
 > Found in nature only as an oxide, it can be reduced to produce 
 > a lustrous transition metal with a silver color, low density, and high strength, 
 > resistant to corrosion in sea water, aqua regia, and chlorine.

@@ -111,7 +111,7 @@ has_/value_for_/temperature_/boil_/c ::184.35
 
 ## #has_/text_of_/abstract 
 
-> **Iodine** is a chemical element with the symbol (Abbr::I) and atomic number (Charge-e::52). 
+> **Iodine** is a chemical element with the symbol (has_/name_/abbreviated::I) and atomic number (has_/number_of_/electrons::52). 
 > The heaviest of the stable halogens, it exists as a semi-lustrous, 
 > non-metallic solid at standard conditions that melts to form a deep violet liquid at 114 °C (237 °F), 
 > and boils to a violet gas at 184 °C (363 °F). 

@@ -124,7 +124,7 @@ has_/value_for_/temperature_/boil_/c ::2270
 
 ## #has_/text_of_/abstract 
 
-> **Tin** is a chemical element with the symbol (Abbr::Sn) (from Latin: stannum) and atomic number (Charge-e::50). 
+> **Tin** is a chemical element with the symbol (has_/name_/abbreviated::Sn) (from Latin: stannum) and atomic number (has_/number_of_/electrons::50). 
 > Tin is a silvery-coloured metal.
 >
 > Tin is soft enough to be cut with little force and a bar of tin can be bent by hand with little effort. 

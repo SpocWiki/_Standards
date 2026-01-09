@@ -118,7 +118,7 @@ has_/value_for_/temperature_/boil_/c ::4377
 
 ## #has_/text_of_/abstract 
 
-> **Zirconium** is a chemical element with the symbol (Abbr::Zr) and atomic number (Charge-e::40). 
+> **Zirconium** is a chemical element with the symbol (has_/name_/abbreviated::Zr) and atomic number (has_/number_of_/electrons::40). 
 > The name zirconium is taken from the name of the mineral zircon, 
 > the most important source of zirconium. 
 > 

@@ -65,7 +65,7 @@ has_/name_/en::Plutonium
 
 has_/name_/de::Plutonium 
 
-(Abbr::Pu)
+(has_/name_/abbreviated::Pu)
 
 has_/value_for_/weight_/u::242 
 
@@ -88,7 +88,7 @@ has_/value_for_/temperature_/boil_/c ::3232
 [has_/value_for_/energy_/form_/kj_/mol::344]
 (has_/number_of_/period::7)
 (has_/number_of_/group::28)
-(Charge-e::94)
+(has_/number_of_/electrons::94)
 
 #is_/same_as :: [[../../../WikiData/WD~Plutonium,1102]] 
 

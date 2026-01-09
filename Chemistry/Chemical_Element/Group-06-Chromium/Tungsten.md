@@ -130,7 +130,7 @@ has_/value_for_/radius_/nano_/m::7.98
 
 ## #has_/text_of_/abstract 
 
-> **Tungsten**, or wolfram, is a chemical element with the symbol (Abbr::W) and atomic number (Charge-e::74). 
+> **Tungsten**, or wolfram, is a chemical element with the symbol (has_/name_/abbreviated::W) and atomic number (has_/number_of_/electrons::74). 
 > Tungsten is a rare metal found naturally on Earth 
 > almost exclusively as compounds with other elements. 
 > 

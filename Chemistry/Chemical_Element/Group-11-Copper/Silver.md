@@ -150,9 +150,9 @@ has_/value_for_/temperature_/boil_/c ::2212
 
 ## #has_/text_of_/abstract 
 
-> **Silver** is a chemical element with the symbol (Abbr::Ag) 
+> **Silver** is a chemical element with the symbol (has_/name_/abbreviated::Ag) 
 > (from the Latin argentum, derived from the Proto-Indo-European h₂erǵ: "shiny" or "white") 
-> and atomic number (Charge-e::47). 
+> and atomic number (has_/number_of_/electrons::47). 
 > 
 > A soft, white, lustrous transition metal, it exhibits the 
 > highest electrical conductivity, thermal conductivity, and reflectivity of any metal. 

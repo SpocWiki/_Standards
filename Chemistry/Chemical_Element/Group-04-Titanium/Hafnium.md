@@ -80,7 +80,7 @@ has_/name_/en::Hafnium
 
 has_/name_/de::Hafnium 
 
-(Abbr::Hf)
+(has_/name_/abbreviated::Hf)
 
 has_/value_for_/weight_/u::178.49 
 
@@ -104,7 +104,7 @@ has_/value_for_/temperature_/boil_/c ::4602
 (has_/number_of_/period::6)
 (has_/number_of_/group::4)
 []
-(Charge-e::72)
+(has_/number_of_/electrons::72)
 
 #is_/same_as :: [[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]] 
 

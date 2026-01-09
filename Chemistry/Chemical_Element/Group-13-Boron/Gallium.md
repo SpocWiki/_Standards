@@ -102,7 +102,7 @@ has_/value_for_/temperature_/boil_/c ::2403
 
 ## #has_/text_of_/abstract 
 
-> **Gallium** is a chemical element with the symbol (Abbr::Ga) and atomic number (Charge-e::31). 
+> **Gallium** is a chemical element with the symbol (has_/name_/abbreviated::Ga) and atomic number (has_/number_of_/electrons::31). 
 > Discovered by French chemist Paul-Émile Lecoq de Boisbaudran in 1875, 
 > Gallium is in group (has_/number_of_/group::13) of the periodic table 
 > and is similar to the other metals of the group (aluminium, indium, and thallium).

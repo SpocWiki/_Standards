@@ -100,7 +100,7 @@ has_/value_for_/temperature_/boil_/c ::2550
 
 ## #has_/text_of_/abstract 
 
-> **Boron** is a chemical element with the symbol (Abbr::B) and atomic number (Charge-e::5). 
+> **Boron** is a chemical element with the symbol (has_/name_/abbreviated::B) and atomic number (has_/number_of_/electrons::5). 
 > In its crystalline form it is a brittle, dark, lustrous metalloid; 
 > in its amorphous form it is a brown powder. 
 > 

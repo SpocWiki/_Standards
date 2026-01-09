@@ -114,7 +114,7 @@ has_/value_for_/temperature_/boil_/c ::684.9
 
 ## #has_/text_of_/abstract 
 
-> **Selenium** is a chemical element with the symbol (Abbr::Se) and atomic number (Charge-e::34). 
+> **Selenium** is a chemical element with the symbol (has_/name_/abbreviated::Se) and atomic number (has_/number_of_/electrons::34). 
 > It is a nonmetal (more rarely considered a metalloid) with properties that are 
 > intermediate between the elements above and below in the periodic table, sulfur and tellurium, 
 > and also has similarities to arsenic. 

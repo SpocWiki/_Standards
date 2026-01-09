@@ -64,7 +64,7 @@ has_/name_/en::Californium
 
 has_/name_/de::Californium 
 
-(Abbr::Cf)
+(has_/name_/abbreviated::Cf)
 
 has_/value_for_/weight_/u::249 
 
@@ -88,7 +88,7 @@ has_/value_for_/temperature_/boil_/c ::0
 (has_/number_of_/period::7)
 (has_/number_of_/group::32)
 []
-(Charge-e::98)
+(has_/number_of_/electrons::98)
 
 #is_/same_as :: [[../../../WikiData/WD~Californium,1888]] 
 
