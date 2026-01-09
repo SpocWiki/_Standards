@@ -114,6 +114,41 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Neodymium.private|Neodymium.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Neodymium.personal|Neodymium.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Neodymium.secret|Neodymium.secret]]"
+dv_GroupName: Lanthanide-Group
+dv_Group: "[[../Lanthanide]]"
+dv_#has_:
+  name_:
+    en: Neodymium
+    de: Neodym
+  value_for_:
+    weight_:
+      u: 144.24
+    radius_:
+      nano_:
+        m: 5.53
+    temperature_:
+      melt_:
+        c: 1010
+      boil_:
+        c: 3127
+dv_AtomRadius: 2.64
+dv_Atom-Vol-ccm-mol: 20.6
+dv_Unknown2: 1.64
+dv_Electronegative: 1.1
+dv_Density: 7
+dv_HeatCapacity: 0.19
+dv_HeatConduct: 0.165
+dv_Enthalpy: 7.14
+dv_FormEnergy-kj-mol: 273
+dv_PeriodNo: 6
+dv_GroupNo: 26
+dv_Charge-e: 60
+dv_has_name_en: Neodymium
+dv_has_name_de: Neodym
+dv_has_value_for_weight_u: 144.24
+dv_has_value_for_radius_nano_m: 5.53
+dv_has_value_for_temperature_melt_c: 1010
+dv_has_value_for_temperature_boil_c: 3127
 ---
 
 # [[Neodymium]]
@@ -122,27 +157,27 @@ dv_is_same_as:
 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+GroupName = `=this.dv_GroupName` 
+Group = `=this.dv_Group` 
 
 
-[#has_/name_/en::Neodymium]
-[#has_/name_/de::Neodym]
-[#has_/value_for_/weight_/u::144.24]
-[AtomRadius::2.64]
-[Atom-Vol-ccm-mol::20.6]
-[Unknown2::1.64]
-[#has_/value_for_/radius_/nano_/m::5.53]
-[Electronegative::1.1]
-[Density::7]
-[#has_/value_for_/temperature_/melt_/c ::1010]
-[#has_/value_for_/temperature_/boil_/c ::3127]
-[HeatCapacity::0.19]
-[HeatConduct::0.165]
-[Enthalpy::7.14]
-[FormEnergy-kj-mol::273]
-(PeriodNo::6)
-(GroupNo::26)
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+AtomRadius = `=this.dv_AtomRadius` 
+Atom-Vol-ccm-mol = `=this.dv_Atom-Vol-ccm-mol` 
+Unknown2 = `=this.dv_Unknown2` 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+Electronegative = `=this.dv_Electronegative` 
+Density = `=this.dv_Density` 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+HeatCapacity = `=this.dv_HeatCapacity` 
+HeatConduct = `=this.dv_HeatConduct` 
+Enthalpy = `=this.dv_Enthalpy` 
+FormEnergy-kj-mol = `=this.dv_FormEnergy-kj-mol` 
+PeriodNo = `=this.dv_PeriodNo` 
+GroupNo = `=this.dv_GroupNo` 
 
 
 
