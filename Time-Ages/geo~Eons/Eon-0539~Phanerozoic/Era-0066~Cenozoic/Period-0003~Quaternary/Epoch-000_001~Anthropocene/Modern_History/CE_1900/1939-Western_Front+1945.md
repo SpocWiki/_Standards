@@ -6,9 +6,28 @@ described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol
 location: "[[_Standards/WikiData/WD~Northern_Europe,27479]]"
 end_time: 1945-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1944%20NormandyLST.jpg
-Commons_category: Western Front (World War II) 
-point_in_time: 1939-09-03T00:00:00Z 
-start_time: 1939-01-01T00:00:00Z 
+Commons_category: Western Front (World War II)
+point_in_time: 1939-09-03T00:00:00Z
+start_time: 1939-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Western_Front,216184|WD~Western_Front,216184]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945|1939-Western_Front+1945]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.public|1939-Western_Front+1945.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.internal|1939-Western_Front+1945.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.protect|1939-Western_Front+1945.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.private|1939-Western_Front+1945.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.personal|1939-Western_Front+1945.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.secret|1939-Western_Front+1945.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Western_Front,216184|WD~Western_Front,216184]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945|1939-Western_Front+1945]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.public|1939-Western_Front+1945.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.internal|1939-Western_Front+1945.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.protect|1939-Western_Front+1945.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.private|1939-Western_Front+1945.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.personal|1939-Western_Front+1945.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-Western_Front+1945.secret|1939-Western_Front+1945.secret]]"
 ---
 
 # [[1939-Western_Front+1945]] 

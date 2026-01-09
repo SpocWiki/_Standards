@@ -5,27 +5,59 @@ aliases:
   - Mittelsteinzeit
   - 0000-Mesolithic
 has_id_wikidata: Q44155
-instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~mesoclitic,108819319]]'
+instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~mesoclitic,108819319]]"
 start_time: -9000-01-01T00:00:00Z
 BHCL_UUID: 01ac0aec-03f7-4cf9-b232-5c60b05a7baf
 end_time: -5000-01-01T00:00:00Z
 Krugosvet_article_archived_: istoriya/MEZOLIT.html
 Commons_category: Mesolithic
 OpenStreetMap_tag: historic:era=mesolithic
+dv_is_:
+  part_of_: "[[../../Stone-Age]]"
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Mesolithic,44155|WD~Mesolithic,44155]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic|0000-Mesolithic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.public|0000-Mesolithic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.internal|0000-Mesolithic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.protect|0000-Mesolithic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.private|0000-Mesolithic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.personal|0000-Mesolithic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.secret|0000-Mesolithic.secret]]"
+dv_has_:
+  time_:
+    started: -13000
+    stopped: -8000
+  duration_:
+    years: 5000
+    ka: 5
+dv_is_part_of_: "[[../../Stone-Age]]"
+dv_has_time_started: -13000
+dv_has_time_stopped: -8000
+dv_has_duration_years: 5000
+dv_has_duration_ka: 5
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Mesolithic,44155|WD~Mesolithic,44155]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic|0000-Mesolithic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.public|0000-Mesolithic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.internal|0000-Mesolithic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.protect|0000-Mesolithic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.private|0000-Mesolithic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.personal|0000-Mesolithic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0000-Mesolithic.secret|0000-Mesolithic.secret]]"
 ---
 
 # [[0000-Mesolithic]] 
 
 #is_a_/time_/Culture 
-#is_/part_of_ :: [[../../Stone-Age]] 
+is_part_of_ = `=this.dv_is_part_of_` 
 
-#has_/time_/started :: -13e3 
-#has_/time_/stopped ::  -8e3 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
-#has_/duration_/ka :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
+#has_/duration_/years :: `$=Math.round((Number(dv.current().dv_has_time_stopped) - dv.current().dv_has_time_started))` 
+#has_/duration_/ka :: `=number(this.dv_has_time_stopped) - number(this.dv_has_time_started)` 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Mesolithic,44155|WD~Mesolithic,44155]] 
 

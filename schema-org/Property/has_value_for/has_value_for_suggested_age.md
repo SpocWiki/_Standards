@@ -10,39 +10,69 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - suggested-age
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_suggested-age
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_suggested-age
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    suggested_age: QuantitativeValue
+  domain: PeopleAudience, SizeSpecification
+dv_has_value_for_suggested_age: QuantitativeValue
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_suggested_age|has_value_for_suggested_age]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_suggested_age.public|has_value_for_suggested_age.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_suggested_age.internal|has_value_for_suggested_age.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_suggested_age.protect|has_value_for_suggested_age.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_suggested_age.private|has_value_for_suggested_age.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_suggested_age.personal|has_value_for_suggested_age.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_suggested_age.secret|has_value_for_suggested_age.secret]]"
+dv_#has_:
+  name: has_value_for_suggested_age
+  range: QuantitativeValue
+dv_is_part_of: "pending:"
+dv_has_domain: PeopleAudience, SizeSpecification
+dv_has_name: has_value_for_suggested_age
+dv_has_range: QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_suggested_age|has_value_for_suggested_age]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_suggested_age.public|has_value_for_suggested_age.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_suggested_age.internal|has_value_for_suggested_age.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_suggested_age.protect|has_value_for_suggested_age.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_suggested_age.private|has_value_for_suggested_age.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_suggested_age.personal|has_value_for_suggested_age.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_suggested_age.secret|has_value_for_suggested_age.secret]]"
 ---
 
 Predicate to describe the Quantity of PeopleAudience, SizeSpecification.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/value_for_/suggested_age :: QuantitativeValue ] 
-- [ has_value_for_suggested_age :: QuantitativeValue ] 
+- has_value_for_suggested_age = `=this.dv_has_value_for_suggested_age`  
+- has_value_for_suggested_age = `=this.dv_has_value_for_suggested_age`  
 
 The age or age range for the intended audience or person, for example 3-12 months for infants, 1-5 years for toddlers.
 
 Predicate describes that: 
 
-#has_/domain  :: PeopleAudience, SizeSpecification  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_suggested_age )
-( #has_/range :: QuantitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

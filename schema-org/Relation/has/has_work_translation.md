@@ -9,41 +9,72 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - work_translation
   - work
   - translation
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_work_translation
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_work_translation
 type: Predi_Relation
+dv_has_:
+  work_translation: CreativeWork
+  domain: CreativeWork
+dv_has_work_translation: CreativeWork
+dv_is_:
+  part_of: https://bib.schema.org
+  inverse_of: translationOfWork
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_work_translation|has_work_translation]]"
+    - "[[/_public/schema-org/Relation/has/has_work_translation.public|has_work_translation.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_work_translation.internal|has_work_translation.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_work_translation.protect|has_work_translation.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_work_translation.private|has_work_translation.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_work_translation.personal|has_work_translation.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_work_translation.secret|has_work_translation.secret]]"
+dv_#has_:
+  name: is_work_translation
+  range: CreativeWork
+dv_is_part_of: https://bib.schema.org
+dv_has_domain: CreativeWork
+dv_has_name: is_work_translation
+dv_has_range: CreativeWork
+dv_is_inverse_of: translationOfWork
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_work_translation|has_work_translation]]"
+  - "[[/_public/schema-org/Relation/has/has_work_translation.public|has_work_translation.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_work_translation.internal|has_work_translation.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_work_translation.protect|has_work_translation.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_work_translation.private|has_work_translation.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_work_translation.personal|has_work_translation.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_work_translation.secret|has_work_translation.secret]]"
 ---
 
-#is_/part_of :: https://bib.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/work_translation :: CreativeWork ] 
-- [ has_work_translation :: CreativeWork ] 
+- has_work_translation = `=this.dv_has_work_translation`  
+- has_work_translation = `=this.dv_has_work_translation`  
 
 A work that is a translation of the content of this work. E.g. ??? has an English workTranslation �Journey to the West�, a German workTranslation �Monkeys Pilgerfahrt� and a Vietnamese  translation T�y du k� b�nh kh?o.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_work_translation )
-( #has_/range :: CreativeWork )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/inverse_of  :: translationOfWork  
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 ## Confidential Links & Embeds: 
 

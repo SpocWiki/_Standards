@@ -14,6 +14,86 @@ type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Valan
 start_time: -139800000-01-01T00:00:00Z
 end_time: -132900000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 8DD285
+dv_has_:
+  duration_:
+    years: "-7.200e+6"
+  previous_:
+    item: "[[Age~1~Berriasian]]"
+  next_:
+    item: "[[Age~3~Hauterivian]]"
+  name_:
+    bg: Валанжин
+    cs: Valangin
+    da: Valanginien
+    de: Valanginium
+    es: Valanginiense
+    et: Valangini
+    fi: Valangin
+    fr: Valanginien
+    hu: valangini
+    it: valanginiano
+    ja: バランギニアン期
+    lt: Valendis
+    nl: Vanlangiën
+    no: Valanginium
+    pl: Walanżyn
+    pt: Valanginiano
+    sk: valanžin
+    sl: valanginij
+    sv: valangin
+    zh: 凡兰吟期
+  abbreviation: b2
+  time_:
+    started: "-132.6e6"
+    stopped: "-139.8e6"
+  text_of_:
+    color: "0x99D36A"
+dv_is_:
+  same_as:
+    - "[[WD~Valanginian,843329]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian|Age~2~Valanginian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.public|Age~2~Valanginian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.internal|Age~2~Valanginian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.protect|Age~2~Valanginian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.private|Age~2~Valanginian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.personal|Age~2~Valanginian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.secret|Age~2~Valanginian.secret]]"
+dv_has_duration_years: "-7.200e+6"
+dv_has_previous_item: "[[Age~1~Berriasian]]"
+dv_has_next_item: "[[Age~3~Hauterivian]]"
+dv_is_same_as:
+  - "[[WD~Valanginian,843329]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian|Age~2~Valanginian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.public|Age~2~Valanginian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.internal|Age~2~Valanginian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.protect|Age~2~Valanginian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.private|Age~2~Valanginian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.personal|Age~2~Valanginian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~2~Valanginian.secret|Age~2~Valanginian.secret]]"
+dv_has_name_bg: Валанжин
+dv_has_name_cs: Valangin
+dv_has_name_da: Valanginien
+dv_has_name_de: Valanginium
+dv_has_name_es: Valanginiense
+dv_has_name_et: Valangini
+dv_has_name_fi: Valangin
+dv_has_name_fr: Valanginien
+dv_has_name_hu: valangini
+dv_has_name_it: valanginiano
+dv_has_name_ja: バランギニアン期
+dv_has_name_lt: Valendis
+dv_has_name_nl: Vanlangiën
+dv_has_name_no: Valanginium
+dv_has_name_pl: Walanżyn
+dv_has_name_pt: Valanginiano
+dv_has_name_sk: valanžin
+dv_has_name_sl: valanginij
+dv_has_name_sv: valangin
+dv_has_name_zh: 凡兰吟期
+dv_has_abbreviation: b2
+dv_has_time_started: "-132.6e6"
+dv_has_time_stopped: "-139.8e6"
+dv_has_text_of_color: "0x99D36A"
 ---
 # [[Age~2~Valanginian]] 
 
@@ -21,10 +101,10 @@ sRGB_color_hex_triplet: 8DD285
 
 A time period from 132.6 to 139.8 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Berriasian]] 
-#has_/next_/item :: [[Age~3~Hauterivian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Valanginian,843329]] 
 
 ## #has_/text_of_/abstract 
@@ -38,35 +118,35 @@ A time period from 132.6 to 139.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Valanginian) 
 
 
-#has_/name_/bg  :: Валанжин
-#has_/name_/cs  :: Valangin
-#has_/name_/da  :: Valanginien
-#has_/name_/de  :: Valanginium
-#has_/name_/es  :: Valanginiense
-#has_/name_/et  :: Valangini
-#has_/name_/fi  :: Valangin
-#has_/name_/fr  :: Valanginien
-#has_/name_/hu  :: valangini
-#has_/name_/it  :: valanginiano
-#has_/name_/ja  :: バランギニアン期
-#has_/name_/lt  :: Valendis
-#has_/name_/nl  :: Vanlangiën
-#has_/name_/no  :: Valanginium
-#has_/name_/pl  :: Walanżyn
-#has_/name_/pt  :: Valanginiano
-#has_/name_/sk  :: valanžin
-#has_/name_/sl  :: valanginij
-#has_/name_/sv  :: valangin
-#has_/name_/zh  :: 凡兰吟期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: b2
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -132.6e6 
-#has_/time_/stopped :: -139.8e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 47 
 
-#has_/text_of_/color :: 0x99D36A
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

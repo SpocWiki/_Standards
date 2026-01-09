@@ -21,6 +21,25 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Austerlitz%20bar
 Dewey_Decimal_Classification: "940.27"
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "NapoleonicWars"]
 Krugosvet_article_archived_: istoriya/NAPOLEONOVSKIE_VONI.html
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Napoleonic_Wars,78994]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815|1803-Napoleonic_Wars+1815]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.public|1803-Napoleonic_Wars+1815.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.internal|1803-Napoleonic_Wars+1815.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.protect|1803-Napoleonic_Wars+1815.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.private|1803-Napoleonic_Wars+1815.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.personal|1803-Napoleonic_Wars+1815.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.secret|1803-Napoleonic_Wars+1815.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Napoleonic_Wars,78994]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815|1803-Napoleonic_Wars+1815]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.public|1803-Napoleonic_Wars+1815.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.internal|1803-Napoleonic_Wars+1815.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.protect|1803-Napoleonic_Wars+1815.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.private|1803-Napoleonic_Wars+1815.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.personal|1803-Napoleonic_Wars+1815.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1803-Napoleonic_Wars+1815.secret|1803-Napoleonic_Wars+1815.secret]]"
 ---
 
 # [[1803-Napoleonic_Wars+1815]] 

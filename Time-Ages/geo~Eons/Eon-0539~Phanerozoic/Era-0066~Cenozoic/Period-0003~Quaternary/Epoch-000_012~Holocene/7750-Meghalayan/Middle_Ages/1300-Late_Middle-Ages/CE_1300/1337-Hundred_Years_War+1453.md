@@ -10,25 +10,48 @@ has_id_wikidata: Q12551
 BHCL_UUID: 622e9677-7ebf-4fb9-86f8-aa0fdd57fd6e
 Commons_category: Hundred Years' War
 described_by_source:
-  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 end_time: 1453-06
 has_list: "[[_Standards/WikiData/WD~timeline_of_the_Hundred_Years'_War,7806363]]"
 has_time_started: 1337-06
 has_time_stopped: 1453-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20crecy%20froissart.jpg
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+instance_of: "[[_Standards/WikiData/WD~war,198]]"
 Krugosvet_article: istoriya/stoletnyaya-voina
-location: '[[_Standards/WikiData/WD~France,142]]'
+location: "[[_Standards/WikiData/WD~France,142]]"
 participant:
-  - '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
+  - "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q12107%20%28bre%29-ThonyVezbe-Brezel%20Kant%20Vloaz.wav
 Provenio_UUID: 920bb582-b77d-47f3-ae2e-55587b8870ef
 start_time: 1337-06
 Universal_Decimal_Classification: 355.48(410:44)"1337/1453"
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "HundredYearsWar"]
+dv_has_:
+  duration_: P116Y
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Hundred_Years'_War,12551|WD~Hundred_Years'_War,12551]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453|1337-Hundred_Years_War+1453]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.public|1337-Hundred_Years_War+1453.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.internal|1337-Hundred_Years_War+1453.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.protect|1337-Hundred_Years_War+1453.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.private|1337-Hundred_Years_War+1453.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.personal|1337-Hundred_Years_War+1453.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.secret|1337-Hundred_Years_War+1453.secret]]"
+dv_has_duration_years: 116
+dv_has_duration_: P116Y
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Hundred_Years'_War,12551|WD~Hundred_Years'_War,12551]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453|1337-Hundred_Years_War+1453]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.public|1337-Hundred_Years_War+1453.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.internal|1337-Hundred_Years_War+1453.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.protect|1337-Hundred_Years_War+1453.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.private|1337-Hundred_Years_War+1453.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.personal|1337-Hundred_Years_War+1453.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1337-Hundred_Years_War+1453.secret|1337-Hundred_Years_War+1453.secret]]"
 ---
 
 # [[1337-Hundred_Years_War+1453]] 

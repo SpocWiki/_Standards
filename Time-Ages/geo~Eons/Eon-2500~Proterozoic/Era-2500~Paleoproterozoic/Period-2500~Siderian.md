@@ -28,15 +28,95 @@ start_time: -2500000000-01-01T00:00:00Z
 Commons_category: Siderian
 IPA_transcription: /saɪˈdɪəri.ən/
 sRGB_color_hex_triplet: F74F7C
+dv_has_:
+  duration_:
+    years: "2.000e+8"
+  previous_:
+    item: "[[../../Eon-4031~Archean/Era-2800~Neoarchean|Era~4~Neoarchean]]"
+  next_:
+    item: "[[Period-2300~Rhyacian]]"
+  name_:
+    bg: Сидер
+    cs: Sider
+    da: Siderien
+    de: Siderium
+    es: Sideriense
+    et: Sider
+    fi: Sider
+    fr: Sidérien
+    hu: sideri
+    it: sideriano
+    ja: シデリアン紀
+    lt: Sideris
+    nl: Sideriën
+    no: Siderium
+    pl: Sider
+    pt: Sideriano
+    sk: siderium
+    sl: siderij
+    sv: siderium
+    zh: 成铁纪
+  abbreviation: PP1
+  time_:
+    started: "-2.5e9"
+    stopped: "-2.3e9"
+  text_of_:
+    color: "0xF74F7C"
+dv_is_:
+  same_as:
+    - "[[WD~Siderian,870498]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian|Period-2500~Siderian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.public|Period-2500~Siderian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.internal|Period-2500~Siderian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.protect|Period-2500~Siderian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.private|Period-2500~Siderian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.personal|Period-2500~Siderian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.secret|Period-2500~Siderian.secret]]"
+dv_has_duration_years: "2.000e+8"
+dv_has_previous_item: "[[../../Eon-4031~Archean/Era-2800~Neoarchean|Era~4~Neoarchean]]"
+dv_has_next_item: "[[Period-2300~Rhyacian]]"
+dv_is_same_as:
+  - "[[WD~Siderian,870498]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian|Period-2500~Siderian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.public|Period-2500~Siderian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.internal|Period-2500~Siderian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.protect|Period-2500~Siderian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.private|Period-2500~Siderian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.personal|Period-2500~Siderian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2500~Siderian.secret|Period-2500~Siderian.secret]]"
+dv_has_name_bg: Сидер
+dv_has_name_cs: Sider
+dv_has_name_da: Siderien
+dv_has_name_de: Siderium
+dv_has_name_es: Sideriense
+dv_has_name_et: Sider
+dv_has_name_fi: Sider
+dv_has_name_fr: Sidérien
+dv_has_name_hu: sideri
+dv_has_name_it: sideriano
+dv_has_name_ja: シデリアン紀
+dv_has_name_lt: Sideris
+dv_has_name_nl: Sideriën
+dv_has_name_no: Siderium
+dv_has_name_pl: Sider
+dv_has_name_pt: Sideriano
+dv_has_name_sk: siderium
+dv_has_name_sl: siderij
+dv_has_name_sv: siderium
+dv_has_name_zh: 成铁纪
+dv_has_abbreviation: PP1
+dv_has_time_started: "-2.5e9"
+dv_has_time_stopped: "-2.3e9"
+dv_has_text_of_color: "0xF74F7C"
 ---
 # [[Period-2500~Siderian]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../Eon-4031~Archean/Era-2800~Neoarchean|Era~4~Neoarchean]] 
-#has_/next_/item :: [[Period-2300~Rhyacian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 #is_/same_as :: [[WD~Siderian,870498]] 
 
@@ -52,35 +132,35 @@ sRGB_color_hex_triplet: F74F7C
 > [Wikipedia](https://en.wikipedia.org/wiki/Siderian) 
 
 
-#has_/name_/bg  :: Сидер
-#has_/name_/cs  :: Sider
-#has_/name_/da  :: Siderien
-#has_/name_/de  :: Siderium
-#has_/name_/es  :: Sideriense
-#has_/name_/et  :: Sider
-#has_/name_/fi  :: Sider
-#has_/name_/fr  :: Sidérien
-#has_/name_/hu  :: sideri
-#has_/name_/it  :: sideriano
-#has_/name_/ja  :: シデリアン紀
-#has_/name_/lt  :: Sideris
-#has_/name_/nl  :: Sideriën
-#has_/name_/no  :: Siderium
-#has_/name_/pl  :: Sider
-#has_/name_/pt  :: Sideriano
-#has_/name_/sk  :: siderium
-#has_/name_/sl  :: siderij
-#has_/name_/sv  :: siderium
-#has_/name_/zh  :: 成铁纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: PP1
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -2.5e9 
-#has_/time_/stopped :: -2.3e9 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 171 
 
-#has_/text_of_/color :: 0xF74F7C
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

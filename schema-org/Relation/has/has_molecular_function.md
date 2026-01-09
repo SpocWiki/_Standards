@@ -9,39 +9,68 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - molecular_function
   - molecular
   - function
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_molecular_function
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_molecular_function
 type: Predi_Relation
+dv_has_:
+  molecular_function: DefinedTerm, PropertyValue, URL
+  domain: BioChemEntity
+dv_has_molecular_function: DefinedTerm, PropertyValue, URL
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_molecular_function|has_molecular_function]]"
+    - "[[/_public/schema-org/Relation/has/has_molecular_function.public|has_molecular_function.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_molecular_function.internal|has_molecular_function.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_molecular_function.protect|has_molecular_function.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_molecular_function.private|has_molecular_function.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_molecular_function.personal|has_molecular_function.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_molecular_function.secret|has_molecular_function.secret]]"
+dv_#has_:
+  name: has_molecular_function
+  range: DefinedTerm, PropertyValue, URL
+dv_is_part_of: "pending:"
+dv_has_domain: BioChemEntity
+dv_has_name: has_molecular_function
+dv_has_range: DefinedTerm, PropertyValue, URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_molecular_function|has_molecular_function]]"
+  - "[[/_public/schema-org/Relation/has/has_molecular_function.public|has_molecular_function.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_molecular_function.internal|has_molecular_function.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_molecular_function.protect|has_molecular_function.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_molecular_function.private|has_molecular_function.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_molecular_function.personal|has_molecular_function.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_molecular_function.secret|has_molecular_function.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/molecular_function :: DefinedTerm, PropertyValue, URL ] 
-- [ has_molecular_function :: DefinedTerm, PropertyValue, URL ] 
+- has_molecular_function = `=this.dv_has_molecular_function`  
+- has_molecular_function = `=this.dv_has_molecular_function`  
 
 Molecular function performed by this BioChemEntity; please use PropertyValue if you want to include any evidence.
 
 Relation describes that: 
 
-#has_/domain  :: BioChemEntity  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_molecular_function )
-( #has_/range :: DefinedTerm, PropertyValue, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

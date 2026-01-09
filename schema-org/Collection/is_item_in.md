@@ -13,19 +13,48 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_element_of
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - schema-org/Collection
 title: is_element_of
 type: Predi_Relation
+dv_is_:
+  element_of: Collection
+  inverse_of: "[[has_items]]"
+  same_as:
+    - "[[/_Standards/schema-org/Collection/is_item_in|is_item_in]]"
+    - "[[/_public/schema-org/Collection/is_item_in.public|is_item_in.public]]"
+    - "[[/_internal/schema-org/Collection/is_item_in.internal|is_item_in.internal]]"
+    - "[[/_protect/schema-org/Collection/is_item_in.protect|is_item_in.protect]]"
+    - "[[/_private/schema-org/Collection/is_item_in.private|is_item_in.private]]"
+    - "[[/_personal/schema-org/Collection/is_item_in.personal|is_item_in.personal]]"
+    - "[[/_secret/schema-org/Collection/is_item_in.secret|is_item_in.secret]]"
+dv_is_element_of: Collection
+dv_has_:
+  domain: Thing
+dv_#has_:
+  name: is_element_of
+  range: Collection
+dv_is_inverse_of: "[[has_items]]"
+dv_has_domain: Thing
+dv_has_name: is_element_of
+dv_has_range: Collection
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Collection/is_item_in|is_item_in]]"
+  - "[[/_public/schema-org/Collection/is_item_in.public|is_item_in.public]]"
+  - "[[/_internal/schema-org/Collection/is_item_in.internal|is_item_in.internal]]"
+  - "[[/_protect/schema-org/Collection/is_item_in.protect|is_item_in.protect]]"
+  - "[[/_private/schema-org/Collection/is_item_in.private|is_item_in.private]]"
+  - "[[/_personal/schema-org/Collection/is_item_in.personal|is_item_in.personal]]"
+  - "[[/_secret/schema-org/Collection/is_item_in.secret|is_item_in.secret]]"
 ---
 
 # [Collection](../Collection.md) - [[Item]] Relationship, 
@@ -39,7 +68,7 @@ These [Collection](../Collection.md) - [Item](Item.md)s are
 - less uniform than [Instances](../Class/Thing.md), which are [instances_of](../Class/is_instance_of.md) of a [Classes](../../Classes.md) 
 - and not as tightly coupled as the [Parts](../Composite/Part.md) that are [parts_of](../Composite/is_part_of.md) a [Composite](../Composite.md)  relationship. 
 
-#is_/inverse_of :: [[has_items]] 
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 The collection provides functionality, such as iterating over its members
 and performing operations on each of them. 
@@ -51,18 +80,18 @@ The contents may often be dynamically added to or removed from.
 #class/Relation  
 
 Use it like this: 
-- [is_/element_of :: Collection] 
-- [ is_element_of :: Collection] 
+- is_element_of = `=this.dv_is_element_of`  
+- is_element_of = `=this.dv_is_element_of`  
 
 Relates an Element to its Set. 
 Can be implemented with dedicated boolean #Tags for each Set 
 
 Relation describes that: 
 
-#has_/domain  :: Thing 
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_element_of)
-( #has_/range :: Collection)
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

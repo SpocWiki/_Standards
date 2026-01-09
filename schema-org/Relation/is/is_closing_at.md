@@ -10,35 +10,63 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - closes
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_closing_at
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_closing_at
 type: Predi_Relation
+dv_has_:
+  closes: Time
+  domain: OpeningHoursSpecification
+dv_is_closing_at: Time
+dv_#has_:
+  name: is_closing_at
+  range: Time
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_closing_at|is_closing_at]]"
+    - "[[/_public/schema-org/Relation/is/is_closing_at.public|is_closing_at.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_closing_at.internal|is_closing_at.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_closing_at.protect|is_closing_at.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_closing_at.private|is_closing_at.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_closing_at.personal|is_closing_at.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_closing_at.secret|is_closing_at.secret]]"
+dv_has_closes: Time
+dv_has_domain: OpeningHoursSpecification
+dv_has_name: is_closing_at
+dv_has_range: Time
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_closing_at|is_closing_at]]"
+  - "[[/_public/schema-org/Relation/is/is_closing_at.public|is_closing_at.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_closing_at.internal|is_closing_at.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_closing_at.protect|is_closing_at.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_closing_at.private|is_closing_at.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_closing_at.personal|is_closing_at.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_closing_at.secret|is_closing_at.secret]]"
 ---
 
 Use it like this: 
-- [has_/closes :: Time ] 
-- [ is_closing_at :: Time ] 
+- has_closes = `=this.dv_has_closes`  
+- is_closing_at = `=this.dv_is_closing_at`  
 
 The closing hour of the place or service on the given day(s) of the week.
 
 Relation describes that: 
 
-#has_/domain  :: OpeningHoursSpecification  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_closing_at )
-( #has_/range :: Time )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

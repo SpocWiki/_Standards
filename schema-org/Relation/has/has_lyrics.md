@@ -7,37 +7,67 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - lyrics
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_lyrics
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_lyrics
 type: Predi_Relation
+dv_has_:
+  lyrics: CreativeWork
+  text_of_:
+    lyrics: Text
+  domain: MusicComposition
+dv_has_lyrics: CreativeWork
+dv_#has_:
+  name: has_lyrics
+  range: CreativeWork
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_lyrics|has_lyrics]]"
+    - "[[/_public/schema-org/Relation/has/has_lyrics.public|has_lyrics.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_lyrics.internal|has_lyrics.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_lyrics.protect|has_lyrics.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_lyrics.private|has_lyrics.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_lyrics.personal|has_lyrics.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_lyrics.secret|has_lyrics.secret]]"
+dv_has_text_of_lyrics: Text
+dv_has_domain: MusicComposition
+dv_has_name: has_lyrics
+dv_has_range: CreativeWork
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_lyrics|has_lyrics]]"
+  - "[[/_public/schema-org/Relation/has/has_lyrics.public|has_lyrics.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_lyrics.internal|has_lyrics.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_lyrics.protect|has_lyrics.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_lyrics.private|has_lyrics.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_lyrics.personal|has_lyrics.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_lyrics.secret|has_lyrics.secret]]"
 ---
 
 Use it like this: 
-- [has_/lyrics  :: CreativeWork ] 
-- [ has_lyrics :: CreativeWork ] 
+- has_lyrics = `=this.dv_has_lyrics`  
+- has_lyrics = `=this.dv_has_lyrics`  
 
 or, when giving the text directly: 
-- [has_/text_of_/lyrics  :: Text ] 
+- has_text_of_lyrics = `=this.dv_has_text_of_lyrics`  
 The words in the song.
 
 Relation describes that: 
 
-#has_/domain  :: MusicComposition  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_lyrics )
-( #has_/range :: CreativeWork )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

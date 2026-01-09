@@ -10,26 +10,55 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - offers
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_offering
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_offering
 type: Predi_Relation
+dv_is_:
+  offering: Demand, Offer
+  inverse_of: itemOffered
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_offering|is_offering]]"
+    - "[[/_public/schema-org/Relation/is/is_offering.public|is_offering.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_offering.internal|is_offering.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_offering.protect|is_offering.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_offering.private|is_offering.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_offering.personal|is_offering.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_offering.secret|is_offering.secret]]"
+dv_is_offering: Demand, Offer
+dv_has_:
+  domain: AggregateOffer, CreativeWork, EducationalOccupationalProgram, Event, MenuItem, Product, Service, Trip
+dv_#has_:
+  name: is_offering
+  range: Demand, Offer
+dv_has_domain: AggregateOffer, CreativeWork, EducationalOccupationalProgram, Event, MenuItem, Product, Service, Trip
+dv_has_name: is_offering
+dv_has_range: Demand, Offer
+dv_is_inverse_of: itemOffered
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_offering|is_offering]]"
+  - "[[/_public/schema-org/Relation/is/is_offering.public|is_offering.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_offering.internal|is_offering.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_offering.protect|is_offering.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_offering.private|is_offering.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_offering.personal|is_offering.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_offering.secret|is_offering.secret]]"
 ---
 
 Use it like this: 
-- [is_/offering :: Demand, Offer ] 
-- [ is_offering :: Demand, Offer ] 
+- is_offering = `=this.dv_is_offering`  
+- is_offering = `=this.dv_is_offering`  
 
 An offer to provide this item;
 
@@ -46,12 +75,12 @@ can clarify the nature of the offer.
 
 Relation describes that: 
 
-#has_/domain  :: AggregateOffer, CreativeWork, EducationalOccupationalProgram, Event, MenuItem, Product, Service, Trip  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_offering )
-( #has_/range :: Demand, Offer )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/inverse_of  :: itemOffered  
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 ## Confidential Links & Embeds: 
 

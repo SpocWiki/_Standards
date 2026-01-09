@@ -11,30 +11,62 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - asin
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_asin
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_asin
 type: Pred_Text
+dv_has_:
+  text_of_:
+    asin: Text, URL
+  domain: Demand, Offer, Product
+dv_has_text_of_asin: Text, URL
+dv_is_:
+  part_of: "pending:"
+  sub_property_of: identifier
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_asin|has_asin]]"
+    - "[[/_public/schema-org/Property/has_name/has_asin.public|has_asin.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_asin.internal|has_asin.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_asin.protect|has_asin.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_asin.private|has_asin.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_asin.personal|has_asin.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_asin.secret|has_asin.secret]]"
+dv_#has_:
+  name: has_text_of_asin
+  range: Text, URL
+dv_is_part_of: "pending:"
+dv_has_domain: Demand, Offer, Product
+dv_has_name: has_text_of_asin
+dv_has_range: Text, URL
+dv_is_sub_property_of: identifier
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_asin|has_asin]]"
+  - "[[/_public/schema-org/Property/has_name/has_asin.public|has_asin.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_asin.internal|has_asin.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_asin.protect|has_asin.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_asin.private|has_asin.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_asin.personal|has_asin.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_asin.secret|has_asin.secret]]"
 ---
 
 Amazon Standard Identification Number (ASIN) Predicate to describe the Text of Demand, Offer, Product.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/text_of_/asin :: Text, URL ] 
-- [ has_text_of_asin :: Text, URL ] 
+- has_text_of_asin = `=this.dv_has_text_of_asin`  
+- has_text_of_asin = `=this.dv_has_text_of_asin`  
 
 An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric unique identifier assigned by Amazon.com and its partners for product identification within the Amazon organization (summary from [Wikipedia](https://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number)"s article).
 
@@ -45,12 +77,12 @@ ASINs are most commonly encoded as text strings, but the [asin] property support
 
 Predicated describes that: 
 
-#has_/domain  :: Demand, Offer, Product  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_asin )
-( #has_/range :: Text, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: identifier  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

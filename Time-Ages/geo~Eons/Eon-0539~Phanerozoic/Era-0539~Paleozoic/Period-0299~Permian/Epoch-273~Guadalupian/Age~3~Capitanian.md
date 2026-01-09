@@ -30,15 +30,95 @@ start_time: -265100000-01-01T00:00:00Z
 coordinate_location: Point(-104.7892 31.9091)
 sRGB_color_hex_triplet: FEA38A
 end_time: -259100000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "4.770e+6"
+  previous_:
+    item: "[[Age~2~Wordian]]"
+  next_:
+    item: "[[../Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]"
+  name_:
+    bg: Капитан
+    cs: Capitan
+    da: Capitanien
+    de: Capitanium
+    es: Capitaniense
+    et: Capitani
+    fi: Capitan
+    fr: Capitanien
+    hu: capitani
+    it: capitaniano
+    ja: カピタニアン期
+    lt: Kapitanis
+    nl: Capitaniën
+    no: Capitanium
+    pl: Kapitan
+    pt: Capitaniano
+    sk: capitan
+    sl: capitanij
+    sv: capitan
+    zh: 卡匹敦期
+  abbreviation: p7
+  time_:
+    started: "-264.28e6"
+    stopped: "-259.51e6"
+  text_of_:
+    color: "0xFB9A85"
+dv_is_:
+  same_as:
+    - "[[WD~Capitanian,858203]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.public|Age~3~Capitanian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.internal|Age~3~Capitanian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.protect|Age~3~Capitanian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.private|Age~3~Capitanian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.personal|Age~3~Capitanian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.secret|Age~3~Capitanian.secret]]"
+dv_has_duration_years: "4.770e+6"
+dv_has_previous_item: "[[Age~2~Wordian]]"
+dv_has_next_item: "[[../Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]"
+dv_is_same_as:
+  - "[[WD~Capitanian,858203]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.public|Age~3~Capitanian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.internal|Age~3~Capitanian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.protect|Age~3~Capitanian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.private|Age~3~Capitanian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.personal|Age~3~Capitanian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-273~Guadalupian/Age~3~Capitanian.secret|Age~3~Capitanian.secret]]"
+dv_has_name_bg: Капитан
+dv_has_name_cs: Capitan
+dv_has_name_da: Capitanien
+dv_has_name_de: Capitanium
+dv_has_name_es: Capitaniense
+dv_has_name_et: Capitani
+dv_has_name_fi: Capitan
+dv_has_name_fr: Capitanien
+dv_has_name_hu: capitani
+dv_has_name_it: capitaniano
+dv_has_name_ja: カピタニアン期
+dv_has_name_lt: Kapitanis
+dv_has_name_nl: Capitaniën
+dv_has_name_no: Capitanium
+dv_has_name_pl: Kapitan
+dv_has_name_pt: Capitaniano
+dv_has_name_sk: capitan
+dv_has_name_sl: capitanij
+dv_has_name_sv: capitan
+dv_has_name_zh: 卡匹敦期
+dv_has_abbreviation: p7
+dv_has_time_started: "-264.28e6"
+dv_has_time_stopped: "-259.51e6"
+dv_has_text_of_color: "0xFB9A85"
 ---
 # [[Age~3~Capitanian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~2~Wordian]] 
-#has_/next_/item :: [[../Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Capitanian,858203]]  
 
 A time period from 264.28 to 259.51 million years ago. 
@@ -60,35 +140,35 @@ A time period from 264.28 to 259.51 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Capitanian) 
 
 
-#has_/name_/bg  :: Капитан
-#has_/name_/cs  :: Capitan
-#has_/name_/da  :: Capitanien
-#has_/name_/de  :: Capitanium
-#has_/name_/es  :: Capitaniense
-#has_/name_/et  :: Capitani
-#has_/name_/fi  :: Capitan
-#has_/name_/fr  :: Capitanien
-#has_/name_/hu  :: capitani
-#has_/name_/it  :: capitaniano
-#has_/name_/ja  :: カピタニアン期
-#has_/name_/lt  :: Kapitanis
-#has_/name_/nl  :: Capitaniën
-#has_/name_/no  :: Capitanium
-#has_/name_/pl  :: Kapitan
-#has_/name_/pt  :: Capitaniano
-#has_/name_/sk  :: capitan
-#has_/name_/sl  :: capitanij
-#has_/name_/sv  :: capitan
-#has_/name_/zh  :: 卡匹敦期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: p7
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -264.28e6 
-#has_/time_/stopped :: -259.51e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 82 
 
-#has_/text_of_/color :: 0xFB9A85
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

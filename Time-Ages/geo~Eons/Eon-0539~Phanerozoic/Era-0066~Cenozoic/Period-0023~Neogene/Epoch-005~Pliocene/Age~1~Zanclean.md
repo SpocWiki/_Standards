@@ -20,37 +20,6 @@ start_time: -5333000-01-01T00:00:00Z
 dv_has_:
   duration_:
     years: "1.733e+6"
-  previous_:
-    item: "[[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]]"
-  next_:
-    item: "[[Age~2~Piacenzian]]"
-  name_:
-    bg: Занклѿки
-    cs: Zancl
-    da: Zanclien
-    de: Zanclium
-    es: Zanclayense
-    et: Zancle
-    fi: Zancl
-    fr: Zancléen
-    hu: zanclai
-    it: zancleano
-    ja: ザンクレアン期
-    lt: Zanklis
-    nl: Brunssummiën
-    no: Zancleium
-    pl: Zankl
-    pt: Zancleano
-    sk: zanclean
-    sl: zanclij
-    sv: zancl
-    zh: 赞克勒期
-  abbreviation: n7
-  time_:
-    started: "-5.333e6"
-    stopped: "-3.600e6"
-  text_of_:
-    color: "0xFFFFB3"
 dv_is_:
   same_as:
     - "[[WD~Zanclean,146094]]"

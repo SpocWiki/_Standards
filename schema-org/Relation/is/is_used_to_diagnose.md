@@ -10,37 +10,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - used
   - to
   - diagnose
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_used_to_diagnose
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_used_to_diagnose
 type: Predi_Relation
+dv_is_:
+  used_to_diagnose: MedicalCondition
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_used_to_diagnose|is_used_to_diagnose]]"
+    - "[[/_public/schema-org/Relation/is/is_used_to_diagnose.public|is_used_to_diagnose.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_used_to_diagnose.internal|is_used_to_diagnose.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_used_to_diagnose.protect|is_used_to_diagnose.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_used_to_diagnose.private|is_used_to_diagnose.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_used_to_diagnose.personal|is_used_to_diagnose.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_used_to_diagnose.secret|is_used_to_diagnose.secret]]"
+dv_is_used_to_diagnose: MedicalCondition
+dv_has_:
+  domain: MedicalTest
+dv_#has_:
+  name: is_used_to_diagnose
+  range: MedicalCondition
+dv_has_domain: MedicalTest
+dv_has_name: is_used_to_diagnose
+dv_has_range: MedicalCondition
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_used_to_diagnose|is_used_to_diagnose]]"
+  - "[[/_public/schema-org/Relation/is/is_used_to_diagnose.public|is_used_to_diagnose.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_used_to_diagnose.internal|is_used_to_diagnose.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_used_to_diagnose.protect|is_used_to_diagnose.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_used_to_diagnose.private|is_used_to_diagnose.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_used_to_diagnose.personal|is_used_to_diagnose.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_used_to_diagnose.secret|is_used_to_diagnose.secret]]"
 ---
 
 A condition the test is used to diagnose.
 
 Use it like this: 
-- [is_/used_to_diagnose :: MedicalCondition ] 
-- [ is_used_to_diagnose :: MedicalCondition ] 
+- is_used_to_diagnose = `=this.dv_is_used_to_diagnose`  
+- is_used_to_diagnose = `=this.dv_is_used_to_diagnose`  
 
 Relation describes that: 
 
-#has_/domain  :: MedicalTest  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_used_to_diagnose )
-( #has_/range :: MedicalCondition )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

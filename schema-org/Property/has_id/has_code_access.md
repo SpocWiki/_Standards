@@ -10,22 +10,51 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - access
   - code
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_code_access
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_code_access
 type: Pred_Text
+dv_has_:
+  text_of_:
+    access_code: Text
+  domain: DeliveryEvent
+dv_has_code_access: Text
+dv_#has_:
+  name: has_code_access
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_code_access|has_code_access]]"
+    - "[[/_public/schema-org/Property/has_name/has_code_access.public|has_code_access.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_code_access.internal|has_code_access.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_code_access.protect|has_code_access.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_code_access.private|has_code_access.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_code_access.personal|has_code_access.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_code_access.secret|has_code_access.secret]]"
+dv_has_text_of_access_code: Text
+dv_has_domain: DeliveryEvent
+dv_has_name: has_code_access
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_code_access|has_code_access]]"
+  - "[[/_public/schema-org/Property/has_name/has_code_access.public|has_code_access.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_code_access.internal|has_code_access.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_code_access.protect|has_code_access.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_code_access.private|has_code_access.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_code_access.personal|has_code_access.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_code_access.secret|has_code_access.secret]]"
 ---
 
 # [[has_code_access]] 
@@ -33,17 +62,17 @@ type: Pred_Text
 Predicate to describe the Text of DeliveryEvent.
 
 Use it like this: 
-- [has_/text_of_/access_code :: Text ] 
-- [ has_code_access :: Text ] 
+- has_text_of_access_code = `=this.dv_has_text_of_access_code`  
+- has_code_access = `=this.dv_has_code_access`  
 
 Password, PIN, or access code needed for delivery (e.g. from a locker).
 
 Predicated describes that: 
 
-#has_/domain  :: DeliveryEvent  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_code_access )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -11,41 +11,71 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - in
   - support
   - of
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_in_support_of
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_in_support_of
 type: Pred_Text
+dv_has_:
+  text_of_:
+    in_support_of: Text
+  domain: Thesis
+dv_has_text_of_in_support_of: Text
+dv_is_:
+  part_of: https://bib.schema.org
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_in_support_of|has_in_support_of]]"
+    - "[[/_public/schema-org/Property/Texts/has_in_support_of.public|has_in_support_of.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_in_support_of.internal|has_in_support_of.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_in_support_of.protect|has_in_support_of.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_in_support_of.private|has_in_support_of.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_in_support_of.personal|has_in_support_of.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_in_support_of.secret|has_in_support_of.secret]]"
+dv_#has_:
+  name: has_text_of_in_support_of
+  range: Text
+dv_is_part_of: https://bib.schema.org
+dv_has_domain: Thesis
+dv_has_name: has_text_of_in_support_of
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_in_support_of|has_in_support_of]]"
+  - "[[/_public/schema-org/Property/Texts/has_in_support_of.public|has_in_support_of.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_in_support_of.internal|has_in_support_of.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_in_support_of.protect|has_in_support_of.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_in_support_of.private|has_in_support_of.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_in_support_of.personal|has_in_support_of.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_in_support_of.secret|has_in_support_of.secret]]"
 ---
 
 Predicate to describe the Text of Thesis.
 
-#is_/part_of :: https://bib.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/text_of_/in_support_of :: Text ] 
-- [ has_text_of_in_support_of :: Text ] 
+- has_text_of_in_support_of = `=this.dv_has_text_of_in_support_of`  
+- has_text_of_in_support_of = `=this.dv_has_text_of_in_support_of`  
 
 Qualification, candidature, degree, application that Thesis supports.
 
 Predicated describes that: 
 
-#has_/domain  :: Thesis  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_in_support_of )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

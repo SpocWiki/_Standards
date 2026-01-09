@@ -29,15 +29,95 @@ end_time: -440800000-01-01T00:00:00Z
 coordinate_location: Point(-3.27 55.44)
 start_time: -443800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 93DBC6
+dv_has_:
+  duration_:
+    years: "3.000e+6"
+  previous_:
+    item: "[[../../Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]"
+  next_:
+    item: "[[Age~2~Aeronian]]"
+  name_:
+    bg: Рудан
+    cs: Rhuddan
+    da: Rhuddanien
+    de: Rhuddanium
+    es: Rhuddaniense
+    et: Rhuddani
+    fi: Rhuddan
+    fr: Rhuddanien
+    hu: rhuddani
+    it: rhuddaniano
+    ja: ルダニアン期
+    lt: Rudanis
+    nl: Rhuddaniën
+    no: Rhuddanium
+    pl: Rhuddan
+    pt: Rudaniano
+    sk: rhuddan
+    sl: rhuddanij
+    sv: rhuddan
+    zh: 鲁丹期
+  abbreviation: s1
+  time_:
+    started: "-443.8e6"
+    stopped: "-440.8e6"
+  text_of_:
+    color: "0xA6DCB5"
+dv_is_:
+  same_as:
+    - "[[WD~Rhuddanian,260369]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.public|Age~1~Rhuddanian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.internal|Age~1~Rhuddanian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.protect|Age~1~Rhuddanian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.private|Age~1~Rhuddanian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.personal|Age~1~Rhuddanian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.secret|Age~1~Rhuddanian.secret]]"
+dv_has_duration_years: "3.000e+6"
+dv_has_previous_item: "[[../../Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]]"
+dv_has_next_item: "[[Age~2~Aeronian]]"
+dv_is_same_as:
+  - "[[WD~Rhuddanian,260369]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.public|Age~1~Rhuddanian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.internal|Age~1~Rhuddanian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.protect|Age~1~Rhuddanian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.private|Age~1~Rhuddanian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.personal|Age~1~Rhuddanian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian.secret|Age~1~Rhuddanian.secret]]"
+dv_has_name_bg: Рудан
+dv_has_name_cs: Rhuddan
+dv_has_name_da: Rhuddanien
+dv_has_name_de: Rhuddanium
+dv_has_name_es: Rhuddaniense
+dv_has_name_et: Rhuddani
+dv_has_name_fi: Rhuddan
+dv_has_name_fr: Rhuddanien
+dv_has_name_hu: rhuddani
+dv_has_name_it: rhuddaniano
+dv_has_name_ja: ルダニアン期
+dv_has_name_lt: Rudanis
+dv_has_name_nl: Rhuddaniën
+dv_has_name_no: Rhuddanium
+dv_has_name_pl: Rhuddan
+dv_has_name_pt: Rudaniano
+dv_has_name_sk: rhuddan
+dv_has_name_sl: rhuddanij
+dv_has_name_sv: rhuddan
+dv_has_name_zh: 鲁丹期
+dv_has_abbreviation: s1
+dv_has_time_started: "-443.8e6"
+dv_has_time_stopped: "-440.8e6"
+dv_has_text_of_color: "0xA6DCB5"
 ---
 # [[Age~1~Rhuddanian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]] 
-#has_/next_/item :: [[Age~2~Aeronian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Rhuddanian,260369]]  
 
 A time period from 443.8 to 440.8 million years ago. 
@@ -49,35 +129,35 @@ A time period from 443.8 to 440.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhuddanian) 
 
 
-#has_/name_/bg  :: Рудан
-#has_/name_/cs  :: Rhuddan
-#has_/name_/da  :: Rhuddanien
-#has_/name_/de  :: Rhuddanium
-#has_/name_/es  :: Rhuddaniense
-#has_/name_/et  :: Rhuddani
-#has_/name_/fi  :: Rhuddan
-#has_/name_/fr  :: Rhuddanien
-#has_/name_/hu  :: rhuddani
-#has_/name_/it  :: rhuddaniano
-#has_/name_/ja  :: ルダニアン期
-#has_/name_/lt  :: Rudanis
-#has_/name_/nl  :: Rhuddaniën
-#has_/name_/no  :: Rhuddanium
-#has_/name_/pl  :: Rhuddan
-#has_/name_/pt  :: Rudaniano
-#has_/name_/sk  :: rhuddan
-#has_/name_/sl  :: rhuddanij
-#has_/name_/sv  :: rhuddan
-#has_/name_/zh  :: 鲁丹期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: s1
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -443.8e6 
-#has_/time_/stopped :: -440.8e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 129 
 
-#has_/text_of_/color :: 0xA6DCB5
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

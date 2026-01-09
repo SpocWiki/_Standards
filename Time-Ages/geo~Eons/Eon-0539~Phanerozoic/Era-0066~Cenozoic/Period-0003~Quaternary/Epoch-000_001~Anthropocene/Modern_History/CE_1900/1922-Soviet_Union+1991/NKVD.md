@@ -6,44 +6,63 @@ aliases:
   - NKVD
 has_id_wikidata: Q182449
 replaced_by:
-  - '[[_Standards/WikiData/WD~KGB,80919]]'
-  - '[[_Standards/WikiData/WD~Ministry_of_Internal_Affairs_of_the_Soviet_Union,2032561]]'
-  - '[[_Standards/WikiData/WD~Ministry_for_State_Security,11420727]]'
+  - "[[_Standards/WikiData/WD~KGB,80919]]"
+  - "[[_Standards/WikiData/WD~Ministry_of_Internal_Affairs_of_the_Soviet_Union,2032561]]"
+  - "[[_Standards/WikiData/WD~Ministry_for_State_Security,11420727]]"
 chairperson:
-  - '[[_Standards/WikiData/WD~Lavrentiy_Beria,141829]]'
-  - '[[_Standards/WikiData/WD~Nikolai_Yezhov,141860]]'
-  - '[[_Standards/WikiData/WD~Genrikh_Yagoda,141869]]'
-child_organization_or_unit: '[[_Standards/WikiData/WD~Gulag,161448]]'
+  - "[[_Standards/WikiData/WD~Lavrentiy_Beria,141829]]"
+  - "[[_Standards/WikiData/WD~Nikolai_Yezhov,141860]]"
+  - "[[_Standards/WikiData/WD~Genrikh_Yagoda,141869]]"
+child_organization_or_unit: "[[_Standards/WikiData/WD~Gulag,161448]]"
 headquarters_location:
-  - '[[_Standards/WikiData/WD~Lubyanka_Building,646334]]'
-  - '[[_Standards/WikiData/WD~Lubyanka_Square,2416242]]'
-  - '[[_Standards/WikiData/WD~Moscow,649]]'
-  - '[[_Standards/WikiData/WD~building,41176]]'
+  - "[[_Standards/WikiData/WD~Lubyanka_Building,646334]]"
+  - "[[_Standards/WikiData/WD~Lubyanka_Square,2416242]]"
+  - "[[_Standards/WikiData/WD~Moscow,649]]"
+  - "[[_Standards/WikiData/WD~building,41176]]"
 followed_by:
-  - '[[_Standards/WikiData/WD~Ministry_of_Internal_Affairs_of_the_Russian_Federation,1192838]]'
-  - '[[_Standards/WikiData/WD~Ministry_of_Internal_Affairs_of_the_Soviet_Union,2032561]]'
-  - '[[_Standards/WikiData/WD~Ministry_for_State_Security,11420727]]'
+  - "[[_Standards/WikiData/WD~Ministry_of_Internal_Affairs_of_the_Russian_Federation,1192838]]"
+  - "[[_Standards/WikiData/WD~Ministry_of_Internal_Affairs_of_the_Soviet_Union,2032561]]"
+  - "[[_Standards/WikiData/WD~Ministry_for_State_Security,11420727]]"
 instance_of:
   - "[[_Standards/WikiData/WD~People's_Commissariat,1551763]]"
-  - '[[_Standards/WikiData/WD~interior_ministry,6589202]]'
+  - "[[_Standards/WikiData/WD~interior_ministry,6589202]]"
 replaces:
   - "[[_Standards/WikiData/WD~People's_Commisariat_on_Internal_Affairs_of_the_Russian_Socialist_Federative_Soviet_Republic,4313346]]"
-  - '[[_Standards/WikiData/WD~Joint_State_Political_Directorate,18363484]]'
+  - "[[_Standards/WikiData/WD~Joint_State_Political_Directorate,18363484]]"
 parent_organization_or_unit: "[[_Standards/WikiData/WD~Council_of_People's_Commissars,4426244]]"
-follows: '[[_Standards/WikiData/WD~Joint_State_Political_Directorate,18363484]]'
-described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
+follows: "[[_Standards/WikiData/WD~Joint_State_Political_Directorate,18363484]]"
+described_by_source: "[[_Standards/WikiData/WD~Medvik,99413897]]"
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~People's_Commissar_for_Internal_Affairs,134373632]]"
 authority: "[[_Standards/WikiData/WD~Council_of_People's_Commissars_of_the_Soviet_Union,2136]]"
-country: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 BHCL_UUID: 11b14756-4e9f-4b27-a40d-e3366956ad5f
 Commons_category: NKVD
 dissolved_abolished_or_demolished_date: 1946-08-26T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/NKVD%20Emblem%20%28Solid%20Colors%29.svg
 described_at_URL: https://www.valka.cz/Lidovy-komisariat-vnitra-SSSR-NKVD-1934-1946-t73582
-ISNI: 0000000123241518
+ISNI: 123241518
 Libris_URI: vs686z0d42brxbw
 short_name: НКВД СССР
 inception: 1934-07-10T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~NKVD,182449]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD|NKVD]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.public|NKVD.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.internal|NKVD.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.protect|NKVD.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.private|NKVD.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.personal|NKVD.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.secret|NKVD.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~NKVD,182449]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD|NKVD]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.public|NKVD.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.internal|NKVD.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.protect|NKVD.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.private|NKVD.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.personal|NKVD.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991/NKVD.secret|NKVD.secret]]"
 ---
 
 # [[NKVD]] 

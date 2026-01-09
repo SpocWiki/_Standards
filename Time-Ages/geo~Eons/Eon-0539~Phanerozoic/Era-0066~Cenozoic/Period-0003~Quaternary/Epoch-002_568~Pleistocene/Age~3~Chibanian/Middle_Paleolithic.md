@@ -5,22 +5,52 @@ aliases:
   - Middle Paleolithic
   - Middle_Paleolithic
 has_id_wikidata: Q626270
-instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
+instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
 start_time: -300000-01-01T00:00:00Z
 end_time: -30000-01-01T00:00:00Z
 Commons_category: Middle Paleolithic
 Stadtwiki_Dresden_article: Mittelpaläolithikum
+dv_has_:
+  time_:
+    started: -300000
+    stopped: -48000
+  duration_:
+    years: 252000
+    ka: 252
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Middle_Paleolithic,626270|WD~Middle_Paleolithic,626270]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic|Middle_Paleolithic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.public|Middle_Paleolithic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.internal|Middle_Paleolithic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.protect|Middle_Paleolithic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.private|Middle_Paleolithic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.personal|Middle_Paleolithic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.secret|Middle_Paleolithic.secret]]"
+dv_has_time_started: -300000
+dv_has_time_stopped: -48000
+dv_has_duration_years: 252000
+dv_has_duration_ka: 252
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Middle_Paleolithic,626270|WD~Middle_Paleolithic,626270]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic|Middle_Paleolithic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.public|Middle_Paleolithic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.internal|Middle_Paleolithic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.protect|Middle_Paleolithic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.private|Middle_Paleolithic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.personal|Middle_Paleolithic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Middle_Paleolithic.secret|Middle_Paleolithic.secret]]"
 ---
 
 # [[Middle_Paleolithic]] 
 
 #is_a_/time_/Culture 
 
-#has_/time_/started :: -300e3 
-#has_/time_/stopped ::  -48e3 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
-#has_/duration_/ka :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
+#has_/duration_/years :: `$=Math.round((Number(dv.current().dv_has_time_stopped) - dv.current().dv_has_time_started))` 
+#has_/duration_/ka :: `=number(this.dv_has_time_stopped) - number(this.dv_has_time_started)` 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Middle_Paleolithic,626270|WD~Middle_Paleolithic,626270]] 
 

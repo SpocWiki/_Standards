@@ -11,39 +11,68 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - member
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_member
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: members, musicGroupMember
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_member
 type: Predi_Relation
+dv_has_:
+  member: Organization, Person
+  domain: Organization, ProgramMembership
+dv_has_member: Organization, Person
+dv_#has_:
+  name: is_member
+  range: Organization, Person
+dv_is_:
+  inverse_of: "[[../is/is_member_of]]"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_member|has_member]]"
+    - "[[/_public/schema-org/Relation/has/has_member.public|has_member.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_member.internal|has_member.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_member.protect|has_member.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_member.private|has_member.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_member.personal|has_member.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_member.secret|has_member.secret]]"
+dv_has_domain: Organization, ProgramMembership
+dv_has_name: is_member
+dv_has_range: Organization, Person
+dv_is_inverse_of: "[[../is/is_member_of]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_member|has_member]]"
+  - "[[/_public/schema-org/Relation/has/has_member.public|has_member.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_member.internal|has_member.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_member.protect|has_member.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_member.private|has_member.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_member.personal|has_member.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_member.secret|has_member.secret]]"
 ---
 
 Use it like this: 
-- [has_/member :: Organization, Person ] 
-- [ has_member :: Organization, Person ] 
+- has_member = `=this.dv_has_member`  
+- has_member = `=this.dv_has_member`  
 
 A member of an Organization or a ProgramMembership. Organizations can be members of organizations; 
 ProgramMembership is typically for individuals.
 
 Relation describes that: 
 
-#has_/domain  :: Organization, ProgramMembership  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_member )
-( #has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/inverse_of  :: [[../is/is_member_of]]  
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 ## Confidential Links & Embeds: 
 

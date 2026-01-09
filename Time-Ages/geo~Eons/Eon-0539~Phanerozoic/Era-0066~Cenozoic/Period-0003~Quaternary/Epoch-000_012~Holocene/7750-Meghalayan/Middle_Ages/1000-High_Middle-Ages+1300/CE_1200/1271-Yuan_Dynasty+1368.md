@@ -1,5 +1,7 @@
 ---
-location: [ 116.39 , 39.915 ] 
+location:
+  - 116.39
+  - 39.915
 aliases:
 has_id_wikidata: Q7313
 inception: 1271-01-01T00:00:00Z
@@ -71,6 +73,25 @@ official_name:
   - ᠳᠠᠢ ᠦᠨ ᠶᠡᠬᠡ ᠮᠣᠩᠭᠣᠯ ᠤᠯᠤᠰ
 Commons_category: Yuan Dynasty
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Yuen%20Dynasty%201294%20-%20Goryeo%20as%20vassal.png
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Yuan_dynasty,7313|WD~Yuan_dynasty,7313]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368|1271-Yuan_Dynasty+1368]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.public|1271-Yuan_Dynasty+1368.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.internal|1271-Yuan_Dynasty+1368.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.protect|1271-Yuan_Dynasty+1368.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.private|1271-Yuan_Dynasty+1368.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.personal|1271-Yuan_Dynasty+1368.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.secret|1271-Yuan_Dynasty+1368.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Yuan_dynasty,7313|WD~Yuan_dynasty,7313]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368|1271-Yuan_Dynasty+1368]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.public|1271-Yuan_Dynasty+1368.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.internal|1271-Yuan_Dynasty+1368.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.protect|1271-Yuan_Dynasty+1368.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.private|1271-Yuan_Dynasty+1368.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.personal|1271-Yuan_Dynasty+1368.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1271-Yuan_Dynasty+1368.secret|1271-Yuan_Dynasty+1368.secret]]"
 ---
 
 # [[1271-Yuan_Dynasty+1368]] 

@@ -11,39 +11,68 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - bio
   - chem
   - interaction
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_bio_chem_interaction
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_bio_chem_interaction
 type: Predi_Relation
+dv_has_:
+  bio_chem_interaction: BioChemEntity
+  domain: BioChemEntity
+dv_has_bio_chem_interaction: BioChemEntity
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_bio_chem_interacting_with|is_bio_chem_interacting_with]]"
+    - "[[/_public/schema-org/Relation/is/is_bio_chem_interacting_with.public|is_bio_chem_interacting_with.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_bio_chem_interacting_with.internal|is_bio_chem_interacting_with.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_bio_chem_interacting_with.protect|is_bio_chem_interacting_with.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_bio_chem_interacting_with.private|is_bio_chem_interacting_with.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_bio_chem_interacting_with.personal|is_bio_chem_interacting_with.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_bio_chem_interacting_with.secret|is_bio_chem_interacting_with.secret]]"
+dv_#has_:
+  name: is_bio_chem_interacting_with
+  range: BioChemEntity
+dv_is_part_of: "pending:"
+dv_has_domain: BioChemEntity
+dv_has_name: is_bio_chem_interacting_with
+dv_has_range: BioChemEntity
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_bio_chem_interacting_with|is_bio_chem_interacting_with]]"
+  - "[[/_public/schema-org/Relation/is/is_bio_chem_interacting_with.public|is_bio_chem_interacting_with.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_bio_chem_interacting_with.internal|is_bio_chem_interacting_with.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_bio_chem_interacting_with.protect|is_bio_chem_interacting_with.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_bio_chem_interacting_with.private|is_bio_chem_interacting_with.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_bio_chem_interacting_with.personal|is_bio_chem_interacting_with.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_bio_chem_interacting_with.secret|is_bio_chem_interacting_with.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/bio_chem_interaction :: BioChemEntity ] 
-- [ has_bio_chem_interaction :: BioChemEntity ] 
+- has_bio_chem_interaction = `=this.dv_has_bio_chem_interaction`  
+- has_bio_chem_interaction = `=this.dv_has_bio_chem_interaction`  
 
 A BioChemEntity that is known to interact with this item.
 
 Relation describes that: 
 
-#has_/domain  :: BioChemEntity  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_bio_chem_interacting_with )
-( #has_/range :: BioChemEntity )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

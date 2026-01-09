@@ -10,37 +10,66 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - recipe
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_recipe
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_recipe
 type: Predi_Relation
+dv_has_:
+  recipe: Recipe
+  domain: CookAction
+dv_has_recipe: Recipe
+dv_#has_:
+  name: is_recipe
+  range: Recipe
+dv_is_:
+  sub_property_of: instrument
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_recipe|has_recipe]]"
+    - "[[/_public/schema-org/Relation/has/has_recipe.public|has_recipe.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recipe.internal|has_recipe.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recipe.protect|has_recipe.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recipe.private|has_recipe.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recipe.personal|has_recipe.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]]"
+dv_has_domain: CookAction
+dv_has_name: is_recipe
+dv_has_range: Recipe
+dv_is_sub_property_of: instrument
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_recipe|has_recipe]]"
+  - "[[/_public/schema-org/Relation/has/has_recipe.public|has_recipe.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recipe.internal|has_recipe.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recipe.protect|has_recipe.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recipe.private|has_recipe.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recipe.personal|has_recipe.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]]"
 ---
 
 Use it like this: 
-- [has_/recipe :: Recipe ] 
-- [ has_recipe :: Recipe ] 
+- has_recipe = `=this.dv_has_recipe`  
+- has_recipe = `=this.dv_has_recipe`  
 
 A sub property of instrument. The recipe/instructions used to perform the action.
 
 Relation describes that: 
 
-#has_/domain  :: CookAction  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_recipe )
-( #has_/range :: Recipe )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: instrument  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

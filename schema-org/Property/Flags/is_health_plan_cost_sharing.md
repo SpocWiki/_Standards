@@ -10,40 +10,68 @@ cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_plan_cost_sharing
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_health_plan_cost_sharing
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/True
 title: is_health_plan_cost_sharing
 type: Pred_Bool
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/Flags/is_health_plan_cost_sharing|is_health_plan_cost_sharing]]"
+    - "[[/_public/schema-org/Property/Flags/is_health_plan_cost_sharing.public|is_health_plan_cost_sharing.public]]"
+    - "[[/_internal/schema-org/Property/Flags/is_health_plan_cost_sharing.internal|is_health_plan_cost_sharing.internal]]"
+    - "[[/_protect/schema-org/Property/Flags/is_health_plan_cost_sharing.protect|is_health_plan_cost_sharing.protect]]"
+    - "[[/_private/schema-org/Property/Flags/is_health_plan_cost_sharing.private|is_health_plan_cost_sharing.private]]"
+    - "[[/_personal/schema-org/Property/Flags/is_health_plan_cost_sharing.personal|is_health_plan_cost_sharing.personal]]"
+    - "[[/_secret/schema-org/Property/Flags/is_health_plan_cost_sharing.secret|is_health_plan_cost_sharing.secret]]"
+dv_is_health_plan_cost_sharing: Boolean
+dv_has_:
+  domain: HealthPlanFormulary, HealthPlanNetwork
+dv_#has_:
+  name: is_health_plan_cost_sharing
+  range: Boolean
+dv_is_part_of: "pending:"
+dv_has_domain: HealthPlanFormulary, HealthPlanNetwork
+dv_has_name: is_health_plan_cost_sharing
+dv_has_range: Boolean
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Flags/is_health_plan_cost_sharing|is_health_plan_cost_sharing]]"
+  - "[[/_public/schema-org/Property/Flags/is_health_plan_cost_sharing.public|is_health_plan_cost_sharing.public]]"
+  - "[[/_internal/schema-org/Property/Flags/is_health_plan_cost_sharing.internal|is_health_plan_cost_sharing.internal]]"
+  - "[[/_protect/schema-org/Property/Flags/is_health_plan_cost_sharing.protect|is_health_plan_cost_sharing.protect]]"
+  - "[[/_private/schema-org/Property/Flags/is_health_plan_cost_sharing.private|is_health_plan_cost_sharing.private]]"
+  - "[[/_personal/schema-org/Property/Flags/is_health_plan_cost_sharing.personal|is_health_plan_cost_sharing.personal]]"
+  - "[[/_secret/schema-org/Property/Flags/is_health_plan_cost_sharing.secret|is_health_plan_cost_sharing.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/health_plan_cost_sharing 
 #is_not_/health_plan_cost_sharing 
 
 Or write it as a Triple: 
-[ is_health_plan_cost_sharing :: Boolean ] 
+is_health_plan_cost_sharing = `=this.dv_is_health_plan_cost_sharing`  
 
 The costs to the patient for services under this network or formulary.
 
 Predicate describes that: 
 
-#has_/domain  :: HealthPlanFormulary, HealthPlanNetwork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_health_plan_cost_sharing )
-( #has_/range :: Boolean )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

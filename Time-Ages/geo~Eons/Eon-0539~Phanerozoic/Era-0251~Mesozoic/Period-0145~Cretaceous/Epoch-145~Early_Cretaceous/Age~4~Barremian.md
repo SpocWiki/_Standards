@@ -15,6 +15,86 @@ end_time: -125000000-01-01T00:00:00Z
 Commons_category: Barremian
 start_time: -129400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: AFDD97
+dv_has_:
+  duration_:
+    years: "4.370e+6"
+  previous_:
+    item: "[[Age~3~Hauterivian]]"
+  next_:
+    item: "[[Age~5~Aptian]]"
+  name_:
+    bg: Барем
+    cs: Barrem
+    da: Barremien
+    de: Barrêmium
+    es: Barremiense
+    et: Barremi
+    fi: Barrem
+    fr: Barrémien
+    hu: barremi
+    it: berremiano
+    ja: バレミアン期
+    lt: Baremis
+    nl: Barremiën
+    no: Barremium
+    pl: Barrem
+    pt: Barremiano
+    sk: barém
+    sl: barremij
+    sv: barrem
+    zh: 巴列姆期
+  abbreviation: b4
+  time_:
+    started: "-125.77e6"
+    stopped: "-121.40e6"
+  text_of_:
+    color: "0xB3DF7F"
+dv_is_:
+  same_as:
+    - "[[WD~Barremian,732702]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian|Age~4~Barremian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.public|Age~4~Barremian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.internal|Age~4~Barremian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.protect|Age~4~Barremian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.private|Age~4~Barremian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.personal|Age~4~Barremian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.secret|Age~4~Barremian.secret]]"
+dv_has_duration_years: "4.370e+6"
+dv_has_previous_item: "[[Age~3~Hauterivian]]"
+dv_has_next_item: "[[Age~5~Aptian]]"
+dv_is_same_as:
+  - "[[WD~Barremian,732702]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian|Age~4~Barremian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.public|Age~4~Barremian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.internal|Age~4~Barremian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.protect|Age~4~Barremian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.private|Age~4~Barremian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.personal|Age~4~Barremian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~4~Barremian.secret|Age~4~Barremian.secret]]"
+dv_has_name_bg: Барем
+dv_has_name_cs: Barrem
+dv_has_name_da: Barremien
+dv_has_name_de: Barrêmium
+dv_has_name_es: Barremiense
+dv_has_name_et: Barremi
+dv_has_name_fi: Barrem
+dv_has_name_fr: Barrémien
+dv_has_name_hu: barremi
+dv_has_name_it: berremiano
+dv_has_name_ja: バレミアン期
+dv_has_name_lt: Baremis
+dv_has_name_nl: Barremiën
+dv_has_name_no: Barremium
+dv_has_name_pl: Barrem
+dv_has_name_pt: Barremiano
+dv_has_name_sk: barém
+dv_has_name_sl: barremij
+dv_has_name_sv: barrem
+dv_has_name_zh: 巴列姆期
+dv_has_abbreviation: b4
+dv_has_time_started: "-125.77e6"
+dv_has_time_stopped: "-121.40e6"
+dv_has_text_of_color: "0xB3DF7F"
 ---
 # [[Age~4~Barremian]] 
 
@@ -22,10 +102,10 @@ sRGB_color_hex_triplet: AFDD97
 
 A time period from 125.77 to 121.4 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~3~Hauterivian]] 
-#has_/next_/item :: [[Age~5~Aptian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Barremian,732702]] 
 
 ## #has_/text_of_/abstract 
@@ -35,35 +115,35 @@ A time period from 125.77 to 121.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Barremian) 
 
 
-#has_/name_/bg  :: Барем
-#has_/name_/cs  :: Barrem
-#has_/name_/da  :: Barremien
-#has_/name_/de  :: Barrêmium
-#has_/name_/es  :: Barremiense
-#has_/name_/et  :: Barremi
-#has_/name_/fi  :: Barrem
-#has_/name_/fr  :: Barrémien
-#has_/name_/hu  :: barremi
-#has_/name_/it  :: berremiano
-#has_/name_/ja  :: バレミアン期
-#has_/name_/lt  :: Baremis
-#has_/name_/nl  :: Barremiën
-#has_/name_/no  :: Barremium
-#has_/name_/pl  :: Barrem
-#has_/name_/pt  :: Barremiano
-#has_/name_/sk  :: barém
-#has_/name_/sl  :: barremij
-#has_/name_/sv  :: barrem
-#has_/name_/zh  :: 巴列姆期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: b4
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -125.77e6 
-#has_/time_/stopped :: -121.40e6  
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 45 
 
-#has_/text_of_/color :: 0xB3DF7F
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

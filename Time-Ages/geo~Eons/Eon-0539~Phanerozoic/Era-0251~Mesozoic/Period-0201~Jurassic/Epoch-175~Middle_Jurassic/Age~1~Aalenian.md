@@ -17,6 +17,86 @@ end_time: -170300000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aalenian%20GSSP%20-%20Golden%20spike%20ceremony%20-%20Fuentelsaz%2C%20Guadalajara%2C%20Spain%2014.jpg
 sRGB_color_hex_triplet: 6FDAED
 start_time: -174100000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "3.800e+6"
+  previous_:
+    item: "[[../Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]"
+  next_:
+    item: "[[Age~2~Bajocian]]"
+  name_:
+    bg: пален
+    cs: Aalen
+    da: Aalenien
+    de: Aalénium
+    es: Aaleniense
+    et: Aaleni
+    fi: Aalen
+    fr: Aalénien
+    hu: aaleni
+    it: aaleniano
+    ja: アーレニアン期
+    lt: Alenis
+    nl: Aaleniën
+    no: Aalen
+    pl: Aalen
+    pt: Aaleniano
+    sk: álen
+    sl: aalenij
+    sv: aalen
+    zh: 阿连期
+  abbreviation: j1
+  time_:
+    started: "-174.7e6"
+    stopped: "-170.9e6"
+  text_of_:
+    color: "0x9AD9DD"
+dv_is_:
+  same_as:
+    - "[[WD~Aalenian,300887]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.public|Age~1~Aalenian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.internal|Age~1~Aalenian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.protect|Age~1~Aalenian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.private|Age~1~Aalenian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.personal|Age~1~Aalenian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.secret|Age~1~Aalenian.secret]]"
+dv_has_duration_years: "3.800e+6"
+dv_has_previous_item: "[[../Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]"
+dv_has_next_item: "[[Age~2~Bajocian]]"
+dv_is_same_as:
+  - "[[WD~Aalenian,300887]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.public|Age~1~Aalenian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.internal|Age~1~Aalenian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.protect|Age~1~Aalenian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.private|Age~1~Aalenian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.personal|Age~1~Aalenian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~1~Aalenian.secret|Age~1~Aalenian.secret]]"
+dv_has_name_bg: пален
+dv_has_name_cs: Aalen
+dv_has_name_da: Aalenien
+dv_has_name_de: Aalénium
+dv_has_name_es: Aaleniense
+dv_has_name_et: Aaleni
+dv_has_name_fi: Aalen
+dv_has_name_fr: Aalénien
+dv_has_name_hu: aaleni
+dv_has_name_it: aaleniano
+dv_has_name_ja: アーレニアン期
+dv_has_name_lt: Alenis
+dv_has_name_nl: Aaleniën
+dv_has_name_no: Aalen
+dv_has_name_pl: Aalen
+dv_has_name_pt: Aaleniano
+dv_has_name_sk: álen
+dv_has_name_sl: aalenij
+dv_has_name_sv: aalen
+dv_has_name_zh: 阿连期
+dv_has_abbreviation: j1
+dv_has_time_started: "-174.7e6"
+dv_has_time_stopped: "-170.9e6"
+dv_has_text_of_color: "0x9AD9DD"
 ---
 # [[Age~1~Aalenian]] 
 
@@ -24,10 +104,10 @@ start_time: -174100000-01-01T00:00:00Z
 
 A time period from 174.7 to 170.9 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]] 
-#has_/next_/item :: [[Age~2~Bajocian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Aalenian,300887]] 
 
 ## #has_/text_of_/abstract 
@@ -40,35 +120,35 @@ A time period from 174.7 to 170.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Aalenian) 
 
 
-#has_/name_/bg  :: пален
-#has_/name_/cs  :: Aalen
-#has_/name_/da  :: Aalenien
-#has_/name_/de  :: Aalénium
-#has_/name_/es  :: Aaleniense
-#has_/name_/et  :: Aaleni
-#has_/name_/fi  :: Aalen
-#has_/name_/fr  :: Aalénien
-#has_/name_/hu  :: aaleni
-#has_/name_/it  :: aaleniano
-#has_/name_/ja  :: アーレニアン期
-#has_/name_/lt  :: Alenis
-#has_/name_/nl  :: Aaleniën
-#has_/name_/no  :: Aalen
-#has_/name_/pl  :: Aalen
-#has_/name_/pt  :: Aaleniano
-#has_/name_/sk  :: álen
-#has_/name_/sl  :: aalenij
-#has_/name_/sv  :: aalen
-#has_/name_/zh  :: 阿连期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: j1
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -174.7e6 
-#has_/time_/stopped :: -170.9e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 58 
 
-#has_/text_of_/color :: 0x9AD9DD
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

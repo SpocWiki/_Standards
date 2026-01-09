@@ -10,23 +10,42 @@ short_name: GWOT
 start_time: 2001-09-11T00:00:00Z
 end_time: 2021-08-30T00:00:00Z
 participant:
-  - '[[_Standards/WikiData/WD~Turkistan_Islamic_Party,1674170]]'
-  - '[[_Standards/WikiData/WD~Islamic_State,2429253]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+  - "[[_Standards/WikiData/WD~Turkistan_Islamic_Party,1674170]]"
+  - "[[_Standards/WikiData/WD~Islamic_State,2429253]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~France,142]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Al_Qaeda,34490]]'
-  - '[[_Standards/WikiData/WD~Taliban,42418]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-facet_of: '[[_Standards/WikiData/WD~terrorism,7283]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Al_Qaeda,34490]]"
+  - "[[_Standards/WikiData/WD~Taliban,42418]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+described_by_source: "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+facet_of: "[[_Standards/WikiData/WD~terrorism,7283]]"
+instance_of: "[[_Standards/WikiData/WD~war,198]]"
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/War%20on%20Terror%20montage1.png
 described_at_URL: https://wikispooks.com/wiki/War_on_Terror
 U_S_National_Archives_Identifier: 10675015
 Commons_category: War on terror
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~War_on_Terror,185729]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021|2001-War_on_Terror+2021]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.public|2001-War_on_Terror+2021.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.internal|2001-War_on_Terror+2021.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.protect|2001-War_on_Terror+2021.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.private|2001-War_on_Terror+2021.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.personal|2001-War_on_Terror+2021.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.secret|2001-War_on_Terror+2021.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~War_on_Terror,185729]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021|2001-War_on_Terror+2021]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.public|2001-War_on_Terror+2021.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.internal|2001-War_on_Terror+2021.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.protect|2001-War_on_Terror+2021.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.private|2001-War_on_Terror+2021.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.personal|2001-War_on_Terror+2021.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_on_Terror+2021.secret|2001-War_on_Terror+2021.secret]]"
 ---
 
 # [[2001-War_on_Terror+2021]] 

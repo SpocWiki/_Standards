@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,32 +17,61 @@ keywords:
   - related
   - diet
   - exercise_related_diet
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_exercise_related_diet
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_exercise_related_diet
 type: Predi_Relation
+dv_has_:
+  exercise_related_diet: Diet
+  domain: ExerciseAction
+dv_has_exercise_related_diet: Diet
+dv_#has_:
+  name: has_exercise_related_diet
+  range: Diet
+dv_is_:
+  sub_property_of: instrument
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_exercise_related_diet|has_exercise_related_diet]]"
+    - "[[/_public/schema-org/Relation/has/has_exercise_related_diet.public|has_exercise_related_diet.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_exercise_related_diet.internal|has_exercise_related_diet.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_exercise_related_diet.protect|has_exercise_related_diet.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_exercise_related_diet.private|has_exercise_related_diet.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_exercise_related_diet.personal|has_exercise_related_diet.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_exercise_related_diet.secret|has_exercise_related_diet.secret]]"
+dv_has_domain: ExerciseAction
+dv_has_name: has_exercise_related_diet
+dv_has_range: Diet
+dv_is_sub_property_of: instrument
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_exercise_related_diet|has_exercise_related_diet]]"
+  - "[[/_public/schema-org/Relation/has/has_exercise_related_diet.public|has_exercise_related_diet.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_exercise_related_diet.internal|has_exercise_related_diet.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_exercise_related_diet.protect|has_exercise_related_diet.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_exercise_related_diet.private|has_exercise_related_diet.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_exercise_related_diet.personal|has_exercise_related_diet.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_exercise_related_diet.secret|has_exercise_related_diet.secret]]"
 ---
 
 Use it like this: 
-- [has_/exercise_related_diet :: Diet ] 
-- [ has_exercise_related_diet :: Diet ] 
+- has_exercise_related_diet = `=this.dv_has_exercise_related_diet`  
+- has_exercise_related_diet = `=this.dv_has_exercise_related_diet`  
 
 A sub property of instrument. The diet used in this action.
 
 Relation describes that: 
 
-#has_/domain  :: ExerciseAction  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_exercise_related_diet )
-( #has_/range :: Diet )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: instrument  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -10,41 +10,72 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - carbohydrate-content
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_carbohydrate-content
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_carbohydrate-content
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    carbohydrate_in_gram: Mass
+  unit_for_:
+    default: "[[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]]"
+  domain: NutritionInformation
+dv_has_value_for_carbohydrate_in_gram: Mass
+dv_#has_:
+  name: has_value_for_carbohydrate_in_gram
+  range: Mass
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram|has_value_for_carbohydrate_in_gram]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.public|has_value_for_carbohydrate_in_gram.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.internal|has_value_for_carbohydrate_in_gram.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.protect|has_value_for_carbohydrate_in_gram.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.private|has_value_for_carbohydrate_in_gram.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.personal|has_value_for_carbohydrate_in_gram.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.secret|has_value_for_carbohydrate_in_gram.secret]]"
+dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]]"
+dv_has_domain: NutritionInformation
+dv_has_name: has_value_for_carbohydrate_in_gram
+dv_has_range: Mass
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram|has_value_for_carbohydrate_in_gram]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.public|has_value_for_carbohydrate_in_gram.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.internal|has_value_for_carbohydrate_in_gram.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.protect|has_value_for_carbohydrate_in_gram.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.private|has_value_for_carbohydrate_in_gram.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.personal|has_value_for_carbohydrate_in_gram.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_carbohydrate_in_gram.secret|has_value_for_carbohydrate_in_gram.secret]]"
 ---
 
 # [[has_value_for_carbohydrate_in_gram]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]] 
+has_unit_for_default = `=this.dv_has_unit_for_default` 
 
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- [has_/value_for_/carbohydrate_in_gram :: Mass ] 
-- [ has_value_for_carbohydrate_in_gram :: Mass ] 
+- has_value_for_carbohydrate_in_gram = `=this.dv_has_value_for_carbohydrate_in_gram`  
+- has_value_for_carbohydrate_in_gram = `=this.dv_has_value_for_carbohydrate_in_gram`  
 
 The number of grams of carbohydrates.
 
 Predicate describes that: 
 
-#has_/domain  :: NutritionInformation  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_carbohydrate_in_gram )
-( #has_/range :: Mass )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

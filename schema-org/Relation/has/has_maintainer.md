@@ -7,37 +7,67 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - maintainer
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_maintainer
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_maintainer
 type: Predi_Relation
+dv_has_:
+  maintainer: Organization, Person
+  domain: CreativeWork
+dv_has_maintainer: Organization, Person
+dv_#<:
+  part_of: "pending:"
+dv_#has_:
+  name: has_maintainer
+  range: Organization, Person
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_maintainer|has_maintainer]]"
+    - "[[/_public/schema-org/Relation/has/has_maintainer.public|has_maintainer.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_maintainer.internal|has_maintainer.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_maintainer.protect|has_maintainer.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_maintainer.private|has_maintainer.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_maintainer.personal|has_maintainer.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_maintainer.secret|has_maintainer.secret]]"
+dv_part_of: "pending:"
+dv_has_domain: CreativeWork
+dv_has_name: has_maintainer
+dv_has_range: Organization, Person
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_maintainer|has_maintainer]]"
+  - "[[/_public/schema-org/Relation/has/has_maintainer.public|has_maintainer.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_maintainer.internal|has_maintainer.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_maintainer.protect|has_maintainer.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_maintainer.private|has_maintainer.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_maintainer.personal|has_maintainer.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_maintainer.secret|has_maintainer.secret]]"
 ---
 
 [ #</part_of :: pending: ]
 
 Use it like this: 
-- [has_/maintainer :: Organization, Person ] 
-- [ has_maintainer :: Organization, Person ] 
+- has_maintainer = `=this.dv_has_maintainer`  
+- has_maintainer = `=this.dv_has_maintainer`  
 
 A maintainer of a [[../../../Society/Communication/Media/Creative_Work/Dataset]], software package ([[SoftwareApplication]]), or other [[../../../Society/Agent/Community/Organization/Project]]. A maintainer is a [[../../../Society/Agent/Person]] or [[../../../Society/Agent/Community/Organization]] that manages contributions to, and/or publication of, some (typically complex) artifact. It is common for distributions of software and data to be based on "upstream" sources. When [[maintainer]] is applied to a specific version of something e.g. a particular version or packaging of a [[../../../Society/Communication/Media/Creative_Work/Dataset]], it is always  possible that the upstream source has a different maintainer. The [[isBasedOn]] property can be used to indicate such relationships between datasets to make the different maintenance roles clear. Similarly in the case of software, a package may have dedicated maintainers working on integration into software distributions such as Ubuntu, as well as upstream maintainers of the underlying work.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_maintainer )
-( #has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

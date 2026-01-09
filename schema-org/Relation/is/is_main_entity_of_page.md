@@ -10,7 +10,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,16 +18,49 @@ keywords:
   - entity
   - of
   - page
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_main_entity_of_page
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_main_entity_of_page
 type: Predi_Relation
+dv_is_:
+  main_entity_of_page: CreativeWork, URL
+  inverse_of:
+    - "[[../has/has_main_entity]]"
+    - "[[../has/has_main_entity]]"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[/_public/schema-org/Relation/is/is_main_entity_of_page.public|is_main_entity_of_page.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_main_entity_of_page.internal|is_main_entity_of_page.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_main_entity_of_page.protect|is_main_entity_of_page.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_main_entity_of_page.private|is_main_entity_of_page.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_main_entity_of_page.personal|is_main_entity_of_page.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_main_entity_of_page.secret|is_main_entity_of_page.secret]]"
+dv_is_main_entity_of_page: CreativeWork, URL
+dv_has_:
+  domain: "[Thing](../../../Class/Thing.md)"
+dv_#has_:
+  name: is_main_entity_of_page
+  range: CreativeWork, URL
+dv_is_inverse_of:
+  - "[[../has/has_main_entity]]"
+  - "[[../has/has_main_entity]]"
+dv_has_domain: "[Thing](../../../Class/Thing.md)"
+dv_has_name: is_main_entity_of_page
+dv_has_range: CreativeWork, URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[/_public/schema-org/Relation/is/is_main_entity_of_page.public|is_main_entity_of_page.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_main_entity_of_page.internal|is_main_entity_of_page.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_main_entity_of_page.protect|is_main_entity_of_page.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_main_entity_of_page.private|is_main_entity_of_page.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_main_entity_of_page.personal|is_main_entity_of_page.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_main_entity_of_page.secret|is_main_entity_of_page.secret]]"
 ---
 
 Use it like this: ---
@@ -69,8 +102,8 @@ Indicates a page (or other CreativeWork) for which this thing is the main entity
 
 
 Use it like this: 
-- [is_/main_entity_of_page :: CreativeWork, URL ] 
-- [ is_main_entity_of_page :: CreativeWork, URL ] 
+- is_main_entity_of_page = `=this.dv_is_main_entity_of_page`  
+- is_main_entity_of_page = `=this.dv_is_main_entity_of_page`  
 
 Indicates a page, URL (or other CreativeWork) for which this thing is the main entity being described. 
 
@@ -78,10 +111,10 @@ See [background notes](/docs/datamodel.html#mainEntityBackground) for details.
 
 Relation describes that: 
 
-#has_/domain  :: [Thing](../../../Class/Thing.md)  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_main_entity_of_page )
-( #has_/range :: CreativeWork, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 #is_/inverse_of  :: [[has_main_entity]]  
 

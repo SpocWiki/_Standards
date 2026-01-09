@@ -36,21 +36,101 @@ sRGB_color_hex_triplet: FFFF99
 start_time: -5333000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%205%20Ma%20%28Zanclean%20Age%29.png
 Dewey_Decimal_Classification: "551.788"
+dv_has_:
+  abbreviation: N2
+  time_:
+    started: "-5.333e6"
+    stopped: "-2.580e6"
+  duration_:
+    years: "2.753e+6"
+  previous_:
+    item: "[[Epoch-023~Miocene]]"
+  next_:
+    item: "[[../Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch~1~Pleistocene]]"
+  name_:
+    bg: Плиоцен
+    cs: Pliocén
+    da: Pliocæn
+    de: Pliozän
+    es: Ploceno
+    et: Pliotseen
+    fi: Plioseeni
+    fr: Pliocène
+    hu: pliocén
+    it: pliocene
+    ja: 鮮新世
+    lt: Pliocenas
+    nl: Plioceen
+    no: Pliocen
+    pl: Pliocen
+    pt: Pliocénico
+    sk: pliocén
+    sl: pliocen
+    sv: pliocen
+    zh: 上新世
+  text_of_:
+    color: "0xFFFF99"
+dv_is_:
+  same_as:
+    - "[[WD~Pliocene,76259]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene|Epoch-005~Pliocene]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.public|Epoch-005~Pliocene.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.internal|Epoch-005~Pliocene.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.protect|Epoch-005~Pliocene.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.private|Epoch-005~Pliocene.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.personal|Epoch-005~Pliocene.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.secret|Epoch-005~Pliocene.secret]]"
+dv_has_abbreviation: N2
+dv_has_time_started: "-5.333e6"
+dv_has_time_stopped: "-2.580e6"
+dv_has_duration_years: "2.753e+6"
+dv_has_previous_item: "[[Epoch-023~Miocene]]"
+dv_has_next_item: "[[../Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch~1~Pleistocene]]"
+dv_is_same_as:
+  - "[[WD~Pliocene,76259]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene|Epoch-005~Pliocene]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.public|Epoch-005~Pliocene.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.internal|Epoch-005~Pliocene.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.protect|Epoch-005~Pliocene.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.private|Epoch-005~Pliocene.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.personal|Epoch-005~Pliocene.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-005~Pliocene.secret|Epoch-005~Pliocene.secret]]"
+dv_has_name_bg: Плиоцен
+dv_has_name_cs: Pliocén
+dv_has_name_da: Pliocæn
+dv_has_name_de: Pliozän
+dv_has_name_es: Ploceno
+dv_has_name_et: Pliotseen
+dv_has_name_fi: Plioseeni
+dv_has_name_fr: Pliocène
+dv_has_name_hu: pliocén
+dv_has_name_it: pliocene
+dv_has_name_ja: 鮮新世
+dv_has_name_lt: Pliocenas
+dv_has_name_nl: Plioceen
+dv_has_name_no: Pliocen
+dv_has_name_pl: Pliocen
+dv_has_name_pt: Pliocénico
+dv_has_name_sk: pliocén
+dv_has_name_sl: pliocen
+dv_has_name_sv: pliocen
+dv_has_name_zh: 上新世
+dv_has_text_of_color: "0xFFFF99"
 ---
 
 # [[Epoch-005~Pliocene]] 
 
 #is_a_/time_/Epoch 
 
-#has_/abbreviation :: N2
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -5.333e6 
-#has_/time_/stopped :: -2.580e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Epoch-023~Miocene]]  
-#has_/next_/item :: [[../Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch~1~Pleistocene]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Pliocene,76259]] 
 
 A time period from 5.333 to 2.58 million years ago. 
@@ -82,30 +162,30 @@ The average Temperature was 2.5° higher than before the industrial Revolution.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pliocene) 
 
 
-#has_/name_/bg  :: Плиоцен
-#has_/name_/cs  :: Pliocén
-#has_/name_/da  :: Pliocæn
-#has_/name_/de  :: Pliozän
-#has_/name_/es  :: Ploceno
-#has_/name_/et  :: Pliotseen
-#has_/name_/fi  :: Plioseeni
-#has_/name_/fr  :: Pliocène
-#has_/name_/hu  :: pliocén
-#has_/name_/it  :: pliocene
-#has_/name_/ja  :: 鮮新世
-#has_/name_/lt  :: Pliocenas
-#has_/name_/nl  :: Plioceen
-#has_/name_/no  :: Pliocen
-#has_/name_/pl  :: Pliocen
-#has_/name_/pt  :: Pliocénico
-#has_/name_/sk  :: pliocén
-#has_/name_/sl  :: pliocen
-#has_/name_/sv  :: pliocen
-#has_/name_/zh  :: 上新世
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
     sh:order 12 
 
-#has_/text_of_/color :: 0xFFFF99
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

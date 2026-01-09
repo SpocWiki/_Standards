@@ -10,39 +10,69 @@ cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - public_transport_closures_info
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_url_for_public_transport_closures_info
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Url
 title: has_url_for_public_transport_closures_info
 type: Predi_Url
+dv_has_:
+  url_for_:
+    public_transport_closures_info: URL, WebContent
+  domain: SpecialAnnouncement
+dv_has_url_for_public_transport_closures_info: URL, WebContent
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info|has_url_for_public_transport_closures_info]]"
+    - "[[/_public/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.public|has_url_for_public_transport_closures_info.public]]"
+    - "[[/_internal/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.internal|has_url_for_public_transport_closures_info.internal]]"
+    - "[[/_protect/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.protect|has_url_for_public_transport_closures_info.protect]]"
+    - "[[/_private/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.private|has_url_for_public_transport_closures_info.private]]"
+    - "[[/_personal/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.personal|has_url_for_public_transport_closures_info.personal]]"
+    - "[[/_secret/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.secret|has_url_for_public_transport_closures_info.secret]]"
+dv_#has_:
+  name: has_url_for_public_transport_closures_info
+  range: URL, WebContent
+dv_is_part_of: "pending:"
+dv_has_domain: SpecialAnnouncement
+dv_has_name: has_url_for_public_transport_closures_info
+dv_has_range: URL, WebContent
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info|has_url_for_public_transport_closures_info]]"
+  - "[[/_public/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.public|has_url_for_public_transport_closures_info.public]]"
+  - "[[/_internal/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.internal|has_url_for_public_transport_closures_info.internal]]"
+  - "[[/_protect/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.protect|has_url_for_public_transport_closures_info.protect]]"
+  - "[[/_private/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.private|has_url_for_public_transport_closures_info.private]]"
+  - "[[/_personal/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.personal|has_url_for_public_transport_closures_info.personal]]"
+  - "[[/_secret/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.secret|has_url_for_public_transport_closures_info.secret]]"
 ---
 
 Predicate to specify the Url of SpecialAnnouncement.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/url_for_/public_transport_closures_info :: URL, WebContent ] 
-- [ has_url_for_public_transport_closures_info :: URL, WebContent ] 
+- has_url_for_public_transport_closures_info = `=this.dv_has_url_for_public_transport_closures_info`  
+- has_url_for_public_transport_closures_info = `=this.dv_has_url_for_public_transport_closures_info`  
 
 Information about public transport closures.
 
 Predicate describes that: 
 
-#has_/domain  :: SpecialAnnouncement  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_url_for_public_transport_closures_info )
-( #has_/range :: URL, WebContent )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

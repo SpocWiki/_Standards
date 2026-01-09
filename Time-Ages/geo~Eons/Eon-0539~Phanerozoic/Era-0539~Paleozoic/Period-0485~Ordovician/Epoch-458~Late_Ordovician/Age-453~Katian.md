@@ -27,15 +27,95 @@ coordinate_location: Point(-96.07455 34.43048333)
 sRGB_color_hex_triplet: 81D6BC
 start_time: -453000000-01-01T00:00:00Z
 end_time: -445200000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "7.800e+6"
+  previous_:
+    item: "[[Age-458~Sandbian]]"
+  next_:
+    item: "[[Age-445~Hirnantian]]"
+  name_:
+    bg: Кат
+    cs: Kat
+    da: Katien
+    de: Katium
+    es: Katiense
+    et: Kati
+    fi: Kat
+    fr: Katien
+    hu: kati
+    it: katiano
+    ja: カティアン期
+    lt: Katis
+    nl: Katiën
+    no: Katium
+    pl: Kat
+    pt: Katiano
+    sk: kat
+    sl: katij
+    sv: kat
+    zh: 凯迪期
+  abbreviation: o6
+  time_:
+    started: "-453.0e6"
+    stopped: "-445.2e6"
+  text_of_:
+    color: "0x99D69F"
+dv_is_:
+  same_as:
+    - "[[WD~Katian,1736601]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian|Age-453~Katian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.public|Age-453~Katian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.internal|Age-453~Katian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.protect|Age-453~Katian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.private|Age-453~Katian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.personal|Age-453~Katian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.secret|Age-453~Katian.secret]]"
+dv_has_duration_years: "7.800e+6"
+dv_has_previous_item: "[[Age-458~Sandbian]]"
+dv_has_next_item: "[[Age-445~Hirnantian]]"
+dv_is_same_as:
+  - "[[WD~Katian,1736601]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian|Age-453~Katian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.public|Age-453~Katian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.internal|Age-453~Katian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.protect|Age-453~Katian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.private|Age-453~Katian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.personal|Age-453~Katian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-453~Katian.secret|Age-453~Katian.secret]]"
+dv_has_name_bg: Кат
+dv_has_name_cs: Kat
+dv_has_name_da: Katien
+dv_has_name_de: Katium
+dv_has_name_es: Katiense
+dv_has_name_et: Kati
+dv_has_name_fi: Kat
+dv_has_name_fr: Katien
+dv_has_name_hu: kati
+dv_has_name_it: katiano
+dv_has_name_ja: カティアン期
+dv_has_name_lt: Katis
+dv_has_name_nl: Katiën
+dv_has_name_no: Katium
+dv_has_name_pl: Kat
+dv_has_name_pt: Katiano
+dv_has_name_sk: kat
+dv_has_name_sl: katij
+dv_has_name_sv: kat
+dv_has_name_zh: 凯迪期
+dv_has_abbreviation: o6
+dv_has_time_started: "-453.0e6"
+dv_has_time_stopped: "-445.2e6"
+dv_has_text_of_color: "0x99D69F"
 ---
 # [[Age-453~Katian]]
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age-458~Sandbian]] 
-#has_/next_/item :: [[Age-445~Hirnantian]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Katian,1736601]] 
 
 A time period from 453.0 to 445.2 million years ago. 
@@ -52,35 +132,35 @@ A time period from 453.0 to 445.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Katian) 
 
 
-#has_/name_/bg  :: Кат
-#has_/name_/cs  :: Kat
-#has_/name_/da  :: Katien
-#has_/name_/de  :: Katium
-#has_/name_/es  :: Katiense
-#has_/name_/et  :: Kati
-#has_/name_/fi  :: Kat
-#has_/name_/fr  :: Katien
-#has_/name_/hu  :: kati
-#has_/name_/it  :: katiano
-#has_/name_/ja  :: カティアン期
-#has_/name_/lt  :: Katis
-#has_/name_/nl  :: Katiën
-#has_/name_/no  :: Katium
-#has_/name_/pl  :: Kat
-#has_/name_/pt  :: Katiano
-#has_/name_/sk  :: kat
-#has_/name_/sl  :: katij
-#has_/name_/sv  :: kat
-#has_/name_/zh  :: 凯迪期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: o6
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -453.0e6 
-#has_/time_/stopped :: -445.2e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 132 
 
-#has_/text_of_/color :: 0x99D69F
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

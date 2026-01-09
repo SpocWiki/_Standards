@@ -7,41 +7,72 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - winner
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_winner
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_winner
 type: Predi_Relation
+dv_has_:
+  winner: Person
+  domain: LoseAction
+dv_has_winner: Person
+dv_is_:
+  opposite_of: "[[has_loser]]"
+  sub_property_of: participant
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_participants/has_winner|has_winner]]"
+    - "[[/_public/schema-org/Relation/has/has_participants/has_winner.public|has_winner.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_participants/has_winner.internal|has_winner.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_participants/has_winner.protect|has_winner.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_participants/has_winner.private|has_winner.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_participants/has_winner.personal|has_winner.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_participants/has_winner.secret|has_winner.secret]]"
+dv_#has_:
+  name: is_winner
+  range: Person
+dv_is_opposite_of: "[[has_loser]]"
+dv_has_domain: LoseAction
+dv_has_name: is_winner
+dv_has_range: Person
+dv_is_sub_property_of: participant
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_participants/has_winner|has_winner]]"
+  - "[[/_public/schema-org/Relation/has/has_participants/has_winner.public|has_winner.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_participants/has_winner.internal|has_winner.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_participants/has_winner.protect|has_winner.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_participants/has_winner.private|has_winner.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_participants/has_winner.personal|has_winner.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_participants/has_winner.secret|has_winner.secret]]"
 ---
 
 # [[has_winner]] 
 
-#is_/opposite_of :: [[has_loser]] 
+is_opposite_of = `=this.dv_is_opposite_of` 
 
 Use it like this: 
-- [has_/winner :: Person ] 
-- [ has_winner :: Person ] 
+- has_winner = `=this.dv_has_winner`  
+- has_winner = `=this.dv_has_winner`  
 
 A sub property of participant. The winner of the action.
 
 Relation describes that: 
 
-#has_/domain  :: LoseAction  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_winner )
-( #has_/range :: Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: participant  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -11,40 +11,70 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - rating
   - explanation
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_rating_explanation
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_rating_explanation
 type: Pred_Text
+dv_has_:
+  text_of_:
+    rating_explanation: Text
+  domain: Rating
+dv_has_text_of_rating_explanation: Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_rating_explanation|has_rating_explanation]]"
+    - "[[/_public/schema-org/Property/Texts/has_rating_explanation.public|has_rating_explanation.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_rating_explanation.internal|has_rating_explanation.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_rating_explanation.protect|has_rating_explanation.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_rating_explanation.private|has_rating_explanation.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_rating_explanation.personal|has_rating_explanation.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_rating_explanation.secret|has_rating_explanation.secret]]"
+dv_#has_:
+  name: has_text_of_rating_explanation
+  range: Text
+dv_is_part_of: "pending:"
+dv_has_domain: Rating
+dv_has_name: has_text_of_rating_explanation
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_rating_explanation|has_rating_explanation]]"
+  - "[[/_public/schema-org/Property/Texts/has_rating_explanation.public|has_rating_explanation.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_rating_explanation.internal|has_rating_explanation.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_rating_explanation.protect|has_rating_explanation.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_rating_explanation.private|has_rating_explanation.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_rating_explanation.personal|has_rating_explanation.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_rating_explanation.secret|has_rating_explanation.secret]]"
 ---
 
 Predicate to describe the Text of Rating.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/text_of_/rating_explanation :: Text ] 
-- [ has_text_of_rating_explanation :: Text ] 
+- has_text_of_rating_explanation = `=this.dv_has_text_of_rating_explanation`  
+- has_text_of_rating_explanation = `=this.dv_has_text_of_rating_explanation`  
 
 A short explanation (e.g. one to two sentences) providing background context and other information that led to the conclusion expressed in the rating. This is particularly applicable to ratings associated with "fact check" markup using [[ClaimReview]].
 
 Predicated describes that: 
 
-#has_/domain  :: Rating  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_rating_explanation )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -10,36 +10,65 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_including_health_plan_formulary
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_including_health_plan_formulary
 type: Predi_Relation
+dv_is_:
+  including_health_plan_formulary: HealthPlanFormulary
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_including_health_plan_formulary|is_including_health_plan_formulary]]"
+    - "[[/_public/schema-org/Relation/is/is_including_health_plan_formulary.public|is_including_health_plan_formulary.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_including_health_plan_formulary.internal|is_including_health_plan_formulary.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_including_health_plan_formulary.protect|is_including_health_plan_formulary.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_including_health_plan_formulary.private|is_including_health_plan_formulary.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_including_health_plan_formulary.personal|is_including_health_plan_formulary.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_including_health_plan_formulary.secret|is_including_health_plan_formulary.secret]]"
+dv_is_including_health_plan_formulary: HealthPlanFormulary
+dv_has_:
+  domain: HealthInsurancePlan
+dv_#has_:
+  name: is_including_health_plan_formulary
+  range: HealthPlanFormulary
+dv_is_part_of: "pending:"
+dv_has_domain: HealthInsurancePlan
+dv_has_name: is_including_health_plan_formulary
+dv_has_range: HealthPlanFormulary
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_including_health_plan_formulary|is_including_health_plan_formulary]]"
+  - "[[/_public/schema-org/Relation/is/is_including_health_plan_formulary.public|is_including_health_plan_formulary.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_including_health_plan_formulary.internal|is_including_health_plan_formulary.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_including_health_plan_formulary.protect|is_including_health_plan_formulary.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_including_health_plan_formulary.private|is_including_health_plan_formulary.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_including_health_plan_formulary.personal|is_including_health_plan_formulary.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_including_health_plan_formulary.secret|is_including_health_plan_formulary.secret]]"
 ---
 
-#is_/part_of :: pending: 
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [is_/including_health_plan_formulary :: HealthPlanFormulary] 
-- [ is_including_health_plan_formulary :: HealthPlanFormulary] 
+- is_including_health_plan_formulary = `=this.dv_is_including_health_plan_formulary`  
+- is_including_health_plan_formulary = `=this.dv_is_including_health_plan_formulary`  
 
 Formularies covered by this plan.
 
 Relation describes that: 
 
-#has_/domain  :: HealthInsurancePlan 
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_including_health_plan_formulary)
-( #has_/range :: HealthPlanFormulary)
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

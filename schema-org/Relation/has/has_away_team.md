@@ -7,39 +7,68 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - away
   - team
   - awayTeam
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_away_team
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_away_team
 type: Predi_Relation
+dv_has_:
+  away_team: Person, SportsTeam
+  domain: SportsEvent
+dv_has_away_team: Person, SportsTeam
+dv_#has_:
+  name: has_away_team
+  range: Person, SportsTeam
+dv_is_:
+  sub_property_of: competitor
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_away_team|has_away_team]]"
+    - "[[/_public/schema-org/Relation/has/has_away_team.public|has_away_team.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_away_team.internal|has_away_team.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_away_team.protect|has_away_team.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_away_team.private|has_away_team.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_away_team.personal|has_away_team.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_away_team.secret|has_away_team.secret]]"
+dv_has_domain: SportsEvent
+dv_has_name: has_away_team
+dv_has_range: Person, SportsTeam
+dv_is_sub_property_of: competitor
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_away_team|has_away_team]]"
+  - "[[/_public/schema-org/Relation/has/has_away_team.public|has_away_team.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_away_team.internal|has_away_team.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_away_team.protect|has_away_team.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_away_team.private|has_away_team.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_away_team.personal|has_away_team.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_away_team.secret|has_away_team.secret]]"
 ---
 
 Use it like this: 
-- [has_/away_team :: Person, SportsTeam ] 
-- [ has_away_team :: Person, SportsTeam ] 
+- has_away_team = `=this.dv_has_away_team`  
+- has_away_team = `=this.dv_has_away_team`  
 
 The 'away' team in a sports event.
 
 Relation describes that: 
 
-#has_/domain  :: SportsEvent  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_away_team )
-( #has_/range :: Person, SportsTeam )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: competitor  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

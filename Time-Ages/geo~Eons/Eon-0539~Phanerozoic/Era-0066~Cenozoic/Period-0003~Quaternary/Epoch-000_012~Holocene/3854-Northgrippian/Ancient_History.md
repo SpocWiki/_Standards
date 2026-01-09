@@ -4,30 +4,30 @@ aliases:
   - Ancient History
 has_id_wikidata: Q41493
 instance_of:
-  - '[[_Standards/WikiData/WD~time_interval,186081]]'
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - "[[_Standards/WikiData/WD~time_interval,186081]]"
+  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~ancient_Near_East,269678]]'
-  - '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+  - "[[_Standards/WikiData/WD~ancient_Near_East,269678]]"
+  - "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Helsinki_Term_Bank_for_the_Arts_and_Sciences,66890318]]'
-part_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ancient_history,6678356]]'
-followed_by: '[[_Standards/WikiData/WD~Postclassical_Era,7234117]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ancient_history,28453687]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Ancient_World,104390683]]'
-different_from: '[[_Standards/WikiData/WD~earliness,110227091]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Helsinki_Term_Bank_for_the_Arts_and_Sciences,66890318]]"
+part_of: "[[_Standards/WikiData/WD~study_of_history,1066186]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ancient_history,6678356]]"
+followed_by: "[[_Standards/WikiData/WD~Postclassical_Era,7234117]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ancient_history,28453687]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Ancient_World,104390683]]"
+different_from: "[[_Standards/WikiData/WD~earliness,110227091]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~Q116697863,116697863]]'
-  - '[[_Standards/WikiData/WD~history,309]]'
+  - "[[_Standards/WikiData/WD~Q116697863,116697863]]"
+  - "[[_Standards/WikiData/WD~history,309]]"
 end_time: 0500-01-01T00:00:00Z
 start_time: -3200-01-01T00:00:00Z
-facet_of: '[[_Standards/WikiData/WD~history,309]]'
-follows: '[[_Standards/WikiData/WD~prehistory,11756]]'
+facet_of: "[[_Standards/WikiData/WD~history,309]]"
+follows: "[[_Standards/WikiData/WD~prehistory,11756]]"
 Dewey_Decimal_Classification:
   - 930
   - 2--3
@@ -37,7 +37,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Oudheid
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Romana%20del%20Casale%20Mosaic%20009%205104.jpg
 Stack_Exchange_tag: https://history.stackexchange.com/tags/ancient-history
 Iconclass_notation: 23T22
-P8189: 987007562975105171
+P8189: 987007562975105200
 Archive_of_Our_Own_tag: Ancient History RPF
 subreddit:
   - ancienthistory
@@ -45,16 +45,44 @@ subreddit:
   - AncientWorld
 Provenio_UUID: f4e03d33-24f0-4458-b35c-a1346bdc14f8
 MeSH_tree_code: K01.400.470
+dv_has_:
+  time_:
+    started: -3000
+    stopped: 500
+  duration_: 3500
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Ancient_history,41493]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History|Ancient_History]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.public|Ancient_History.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.internal|Ancient_History.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.protect|Ancient_History.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.private|Ancient_History.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.personal|Ancient_History.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.secret|Ancient_History.secret]]"
+dv_has_time_started: -3000
+dv_has_time_stopped: 500
+dv_has_duration_years: 3500
+dv_has_duration_: 3500
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Ancient_history,41493]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History|Ancient_History]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.public|Ancient_History.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.internal|Ancient_History.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.protect|Ancient_History.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.private|Ancient_History.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.personal|Ancient_History.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/Ancient_History.secret|Ancient_History.secret]]"
 ---
 
 # [[Ancient_History]] 
 
-#has_/time_/started :: -3000 
-#has_/time_/stopped :: 0500
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
-#has_/duration_ :: `$=(dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started))` 
+#has_/duration_ :: `$=(dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started` 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Ancient_history,41493]] 
 

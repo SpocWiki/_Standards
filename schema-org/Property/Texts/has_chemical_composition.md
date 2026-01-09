@@ -11,40 +11,70 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - chemical
   - composition
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_chemical_composition
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_chemical_composition
 type: Pred_Text
+dv_has_:
+  text_of_:
+    chemical_composition: Text
+  domain: ChemicalSubstance
+dv_has_text_of_chemical_composition: Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_chemical_composition|has_chemical_composition]]"
+    - "[[/_public/schema-org/Property/Texts/has_chemical_composition.public|has_chemical_composition.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_chemical_composition.internal|has_chemical_composition.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_chemical_composition.protect|has_chemical_composition.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_chemical_composition.private|has_chemical_composition.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_chemical_composition.personal|has_chemical_composition.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_chemical_composition.secret|has_chemical_composition.secret]]"
+dv_#has_:
+  name: has_text_of_chemical_composition
+  range: Text
+dv_is_part_of: "pending:"
+dv_has_domain: ChemicalSubstance
+dv_has_name: has_text_of_chemical_composition
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_chemical_composition|has_chemical_composition]]"
+  - "[[/_public/schema-org/Property/Texts/has_chemical_composition.public|has_chemical_composition.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_chemical_composition.internal|has_chemical_composition.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_chemical_composition.protect|has_chemical_composition.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_chemical_composition.private|has_chemical_composition.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_chemical_composition.personal|has_chemical_composition.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_chemical_composition.secret|has_chemical_composition.secret]]"
 ---
 
 Predicate to describe the Text of ChemicalSubstance.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/text_of_/chemical_composition :: Text ] 
-- [ has_text_of_chemical_composition :: Text ] 
+- has_text_of_chemical_composition = `=this.dv_has_text_of_chemical_composition`  
+- has_text_of_chemical_composition = `=this.dv_has_text_of_chemical_composition`  
 
 The chemical composition describes the identity and relative ratio of the chemical elements that make up the substance.
 
 Predicated describes that: 
 
-#has_/domain  :: ChemicalSubstance  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_chemical_composition )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

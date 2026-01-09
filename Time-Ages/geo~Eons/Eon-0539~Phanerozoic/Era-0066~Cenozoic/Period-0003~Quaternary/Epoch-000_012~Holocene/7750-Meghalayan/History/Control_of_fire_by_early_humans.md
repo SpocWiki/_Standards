@@ -6,12 +6,31 @@ aliases:
   - Control of fire by early humans
 has_id_wikidata: Q912205
 instance_of:
-  - '[[_Standards/WikiData/WD~skill,205961]]'
-  - '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~behavioral_modernity,2706556]]'
-earliest_date: -1.900000e6
-latest_date: -0.790000e6
+  - "[[_Standards/WikiData/WD~skill,205961]]"
+  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+facet_of: "[[_Standards/WikiData/WD~behavioral_modernity,2706556]]"
+earliest_date: -1900000
+latest_date: -790000
 video: http://commons.wikimedia.org/wiki/Special:FilePath/How%20%28and%20when%29%20did%20humans%20first%20make%20fire.webm
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Control_of_fire_by_early_humans,912205|WD~Control_of_fire_by_early_humans,912205]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans|Control_of_fire_by_early_humans]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.public|Control_of_fire_by_early_humans.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.internal|Control_of_fire_by_early_humans.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.protect|Control_of_fire_by_early_humans.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.private|Control_of_fire_by_early_humans.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.personal|Control_of_fire_by_early_humans.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.secret|Control_of_fire_by_early_humans.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Control_of_fire_by_early_humans,912205|WD~Control_of_fire_by_early_humans,912205]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans|Control_of_fire_by_early_humans]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.public|Control_of_fire_by_early_humans.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.internal|Control_of_fire_by_early_humans.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.protect|Control_of_fire_by_early_humans.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.private|Control_of_fire_by_early_humans.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.personal|Control_of_fire_by_early_humans.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Control_of_fire_by_early_humans.secret|Control_of_fire_by_early_humans.secret]]"
 ---
 
 # [[Control_of_fire_by_early_humans]] 

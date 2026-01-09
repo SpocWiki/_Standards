@@ -10,37 +10,65 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - part
   - of
   - invoice
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_part_of_invoice
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_part_of_invoice
 type: Predi_Relation
+dv_is_:
+  part_of_:
+    invoice: Invoice
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/part_of/is_part_of_invoice|is_part_of_invoice]]"
+    - "[[/_public/schema-org/Relation/is/part_of/is_part_of_invoice.public|is_part_of_invoice.public]]"
+    - "[[/_internal/schema-org/Relation/is/part_of/is_part_of_invoice.internal|is_part_of_invoice.internal]]"
+    - "[[/_protect/schema-org/Relation/is/part_of/is_part_of_invoice.protect|is_part_of_invoice.protect]]"
+    - "[[/_private/schema-org/Relation/is/part_of/is_part_of_invoice.private|is_part_of_invoice.private]]"
+    - "[[/_personal/schema-org/Relation/is/part_of/is_part_of_invoice.personal|is_part_of_invoice.personal]]"
+    - "[[/_secret/schema-org/Relation/is/part_of/is_part_of_invoice.secret|is_part_of_invoice.secret]]"
+dv_is_part_of_invoice: Invoice
+dv_has_:
+  domain: Order
+dv_#has_:
+  name: is_part_of_invoice
+  range: Invoice
+dv_has_domain: Order
+dv_has_name: is_part_of_invoice
+dv_has_range: Invoice
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/part_of/is_part_of_invoice|is_part_of_invoice]]"
+  - "[[/_public/schema-org/Relation/is/part_of/is_part_of_invoice.public|is_part_of_invoice.public]]"
+  - "[[/_internal/schema-org/Relation/is/part_of/is_part_of_invoice.internal|is_part_of_invoice.internal]]"
+  - "[[/_protect/schema-org/Relation/is/part_of/is_part_of_invoice.protect|is_part_of_invoice.protect]]"
+  - "[[/_private/schema-org/Relation/is/part_of/is_part_of_invoice.private|is_part_of_invoice.private]]"
+  - "[[/_personal/schema-org/Relation/is/part_of/is_part_of_invoice.personal|is_part_of_invoice.personal]]"
+  - "[[/_secret/schema-org/Relation/is/part_of/is_part_of_invoice.secret|is_part_of_invoice.secret]]"
 ---
 
 Use it like this: 
-- [is_/part_of_/invoice :: Invoice ] 
-- [ is_part_of_invoice :: Invoice ] 
+- is_part_of_invoice = `=this.dv_is_part_of_invoice`  
+- is_part_of_invoice = `=this.dv_is_part_of_invoice`  
 
 The order is being paid as part of the referenced Invoice.
 
 Relation describes that: 
 
-#has_/domain  :: Order  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_part_of_invoice )
-( #has_/range :: Invoice )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

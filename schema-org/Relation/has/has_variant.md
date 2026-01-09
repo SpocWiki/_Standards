@@ -9,39 +9,70 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - variant
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_variant
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_variant
 type: Predi_Relation
+dv_has_:
+  variant: Product
+  domain: ProductGroup
+dv_has_variant: Product
+dv_is_:
+  part_of: "pending:"
+  inverse_of: isVariantOf
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_variant|has_variant]]"
+    - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
+dv_#has_:
+  name: is_variant
+  range: Product
+dv_is_part_of: "pending:"
+dv_has_domain: ProductGroup
+dv_has_name: is_variant
+dv_has_range: Product
+dv_is_inverse_of: isVariantOf
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_variant|has_variant]]"
+  - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/variant :: Product ] 
-- [ has_variant :: Product ] 
+- has_variant = `=this.dv_has_variant`  
+- has_variant = `=this.dv_has_variant`  
 
 Indicates a [[../../../Society/Agent/Community/Organization/Business/Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).
 
 Relation describes that: 
 
-#has_/domain  :: ProductGroup  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_variant )
-( #has_/range :: Product )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/inverse_of  :: isVariantOf  
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 ## Confidential Links & Embeds: 
 

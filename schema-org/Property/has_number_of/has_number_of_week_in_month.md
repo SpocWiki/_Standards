@@ -10,39 +10,69 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - by_month_week
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_by_month_week
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_by_month_week
 type: Predi_Count
+dv_has_:
+  number_of_:
+    week_in_month: Integer
+  domain: Schedule
+dv_has_number_of_week_in_month: Integer
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_week_in_month|has_number_of_week_in_month]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_week_in_month.public|has_number_of_week_in_month.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_week_in_month.internal|has_number_of_week_in_month.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_week_in_month.protect|has_number_of_week_in_month.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_week_in_month.private|has_number_of_week_in_month.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_week_in_month.personal|has_number_of_week_in_month.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_week_in_month.secret|has_number_of_week_in_month.secret]]"
+dv_#has_:
+  name: has_number_of_week_in_month
+  range: Integer
+dv_is_part_of: "pending:"
+dv_has_domain: Schedule
+dv_has_name: has_number_of_week_in_month
+dv_has_range: Integer
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_week_in_month|has_number_of_week_in_month]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_week_in_month.public|has_number_of_week_in_month.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_week_in_month.internal|has_number_of_week_in_month.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_week_in_month.protect|has_number_of_week_in_month.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_week_in_month.private|has_number_of_week_in_month.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_week_in_month.personal|has_number_of_week_in_month.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_week_in_month.secret|has_number_of_week_in_month.secret]]"
 ---
 
 Predicate to describe the Number of Schedule.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/number_of_/week_in_month :: Integer ] 
-- [ has_number_of_week_in_month :: Integer ] 
+- has_number_of_week_in_month = `=this.dv_has_number_of_week_in_month`  
+- has_number_of_week_in_month = `=this.dv_has_number_of_week_in_month`  
 
 Defines the week(s) of the month on which a recurring Event takes place. Specified as an Integer between 1-5. For clarity, byMonthWeek is best used in conjunction with byDay to indicate concepts like the first and third Mondays of a month.
 
 Predicate describes that: 
 
-#has_/domain  :: Schedule  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_number_of_week_in_month )
-( #has_/range :: Integer )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

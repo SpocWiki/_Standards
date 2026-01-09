@@ -10,21 +10,55 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - high-price
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_high-price
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_high-price
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    high_price: Number, Text
+  domain: "[[../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|AggregateOffer]]"
+dv_has_value_for_high_price:
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_#has_:
+  name: has_value_for_high_price
+  range:
+    - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_high_price|has_value_for_high_price]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_high_price.public|has_value_for_high_price.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_high_price.internal|has_value_for_high_price.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_high_price.protect|has_value_for_high_price.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_high_price.private|has_value_for_high_price.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_high_price.personal|has_value_for_high_price.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_high_price.secret|has_value_for_high_price.secret]]"
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|AggregateOffer]]"
+dv_has_name: has_value_for_high_price
+dv_has_range:
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_high_price|has_value_for_high_price]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_high_price.public|has_value_for_high_price.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_high_price.internal|has_value_for_high_price.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_high_price.protect|has_value_for_high_price.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_high_price.private|has_value_for_high_price.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_high_price.personal|has_value_for_high_price.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_high_price.secret|has_value_for_high_price.secret]]"
 ---
 
 Predicate to describe the Quantity of an [[../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|AggregateOffer]].
@@ -41,9 +75,9 @@ Usage guidelines:
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|AggregateOffer]]  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_high_price )
+has_name = `=this.dv_has_name` 
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
 

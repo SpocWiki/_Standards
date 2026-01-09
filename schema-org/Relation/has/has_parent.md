@@ -13,39 +13,72 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - parent
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_parent
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: parents
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_parent
 type: Predi_Relation
+dv_has_:
+  parent: Person
+  domain: Person
+dv_has_parent: Person
+dv_#has_:
+  name: has_parent
+  range: Person
+dv_is_:
+  sub_relation_of: "[[has_creator]]"
+  inverse_of: "[[has_children]]"
+  same_as:
+    - "[[WD~P40]]"
+    - "[[/_Standards/schema-org/Relation/has/has_parent|has_parent]]"
+    - "[[/_public/schema-org/Relation/has/has_parent.public|has_parent.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_parent.internal|has_parent.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_parent.protect|has_parent.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_parent.private|has_parent.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_parent.personal|has_parent.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_parent.secret|has_parent.secret]]"
+dv_has_domain: Person
+dv_has_name: has_parent
+dv_has_range: Person
+dv_is_sub_relation_of: "[[has_creator]]"
+dv_is_inverse_of: "[[has_children]]"
+dv_is_same_as:
+  - "[[WD~P40]]"
+  - "[[/_Standards/schema-org/Relation/has/has_parent|has_parent]]"
+  - "[[/_public/schema-org/Relation/has/has_parent.public|has_parent.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_parent.internal|has_parent.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_parent.protect|has_parent.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_parent.private|has_parent.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_parent.personal|has_parent.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_parent.secret|has_parent.secret]]"
 ---
 
 Use it like this: 
-- [has_/parent :: Person ] 
-- [ has_parent :: Person ] 
+- has_parent = `=this.dv_has_parent`  
+- has_parent = `=this.dv_has_parent`  
 
 A parent of this person.
 
 Relation describes that: 
 
-#has_/domain  :: Person  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_parent )
-( #has_/range :: Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_relation_of :: [[has_creator]] 
-#is_/inverse_of :: [[has_children]] 
+is_sub_relation_of = `=this.dv_is_sub_relation_of` 
+is_inverse_of = `=this.dv_is_inverse_of` 
 #is_/same_as :: [[WD~P40]]
 
 

@@ -116,12 +116,34 @@ flag_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia%20%281858%E2%80%931896%29.svg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Greater%20Coat%20of%20Arms%20of%20the%20Russian%20Empire.svg
 official_name: Российская империя
+dv_has_:
+  next_: "[[../../Modern_History/CE_1900/1922-Soviet_Union+1991|Soviet_Union]]"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Russian_Empire,34266]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917|1721-Russian_Empire+1917]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.public|1721-Russian_Empire+1917.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.internal|1721-Russian_Empire+1917.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.protect|1721-Russian_Empire+1917.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.private|1721-Russian_Empire+1917.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.personal|1721-Russian_Empire+1917.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.secret|1721-Russian_Empire+1917.secret]]"
+dv_has_next_: "[[../../Modern_History/CE_1900/1922-Soviet_Union+1991|Soviet_Union]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Russian_Empire,34266]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917|1721-Russian_Empire+1917]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.public|1721-Russian_Empire+1917.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.internal|1721-Russian_Empire+1917.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.protect|1721-Russian_Empire+1917.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.private|1721-Russian_Empire+1917.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.personal|1721-Russian_Empire+1917.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1721-Russian_Empire+1917.secret|1721-Russian_Empire+1917.secret]]"
 ---
 ﻿
 
 # [[1721-Russian_Empire+1917]] 
 
-#has_/next_ :: [[../../Modern_History/CE_1900/1922-Soviet_Union+1991|Soviet_Union]] 
+has_next_ = `=this.dv_has_next_` 
 #is_/same_as :: [[WD~Russian_Empire,34266]]
 
 ## #has_/text_of_/abstract 

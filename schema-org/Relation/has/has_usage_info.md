@@ -27,13 +27,44 @@ tags:
   - schema-org/Relation
 title: has_usage_info
 type: Predi_Relation
+dv_has_:
+  usage_info: CreativeWork, URL
+  domain: CreativeWork
+  sub_properties: "[ acquireLicensePage ]"
+dv_has_usage_info: CreativeWork, URL
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_usage_info|has_usage_info]]"
+    - "[[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
+dv_#has_:
+  name: is_usage_info
+  range: CreativeWork, URL
+dv_is_part_of: "pending:"
+dv_has_domain: CreativeWork
+dv_has_name: is_usage_info
+dv_has_range: CreativeWork, URL
+dv_has_sub_properties: "[ acquireLicensePage ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_usage_info|has_usage_info]]"
+  - "[[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/usage_info :: CreativeWork, URL ] 
-- [ has_usage_info :: CreativeWork, URL ] 
+- has_usage_info = `=this.dv_has_usage_info`  
+- has_usage_info = `=this.dv_has_usage_info`  
 
 The schema.org [[usageInfo]] property indicates further information about a [[CreativeWork]]. 
 This property is applicable both to works that are freely available 
@@ -51,12 +82,12 @@ The usageInfo property can provide information about other licensing options, e.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_usage_info )
-( #has_/range :: CreativeWork, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/sub_properties :: [ acquireLicensePage ]  
+has_sub_properties = `=this.dv_has_sub_properties` 
 
 ## Confidential Links & Embeds: 
 

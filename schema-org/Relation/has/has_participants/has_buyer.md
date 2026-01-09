@@ -7,42 +7,73 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - buyer
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_buyer
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_buyer
 type: Predi_Relation
+dv_has_:
+  buyer: Organization, Person
+  domain: SellAction
+dv_has_buyer: Organization, Person
+dv_is_:
+  opposite_of: "[[has_seller]]"
+  sub_property_of: participant
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_participants/has_buyer|has_buyer]]"
+    - "[[/_public/schema-org/Relation/has/has_participants/has_buyer.public|has_buyer.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_participants/has_buyer.internal|has_buyer.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_participants/has_buyer.protect|has_buyer.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_participants/has_buyer.private|has_buyer.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_participants/has_buyer.personal|has_buyer.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_participants/has_buyer.secret|has_buyer.secret]]"
+dv_#has_:
+  name: has_buyer
+  range: Organization, Person
+dv_is_opposite_of: "[[has_seller]]"
+dv_has_domain: SellAction
+dv_has_name: has_buyer
+dv_has_range: Organization, Person
+dv_is_sub_property_of: participant
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_participants/has_buyer|has_buyer]]"
+  - "[[/_public/schema-org/Relation/has/has_participants/has_buyer.public|has_buyer.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_participants/has_buyer.internal|has_buyer.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_participants/has_buyer.protect|has_buyer.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_participants/has_buyer.private|has_buyer.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_participants/has_buyer.personal|has_buyer.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_participants/has_buyer.secret|has_buyer.secret]]"
 ---
 
 # [[has_buyer]] 
 
-#is_/opposite_of :: [[has_seller]]  
+is_opposite_of = `=this.dv_is_opposite_of` 
 
 
 Use it like this: 
-- [has_/buyer :: Organization, Person ] 
-- [ has_buyer :: Organization, Person ] 
+- has_buyer = `=this.dv_has_buyer`  
+- has_buyer = `=this.dv_has_buyer`  
 
 A sub property of participant. The participant/person/organization that bought the object.
 
 Relation describes that: 
 
-#has_/domain  :: SellAction  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_buyer )
-( #has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: participant  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

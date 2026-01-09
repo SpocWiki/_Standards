@@ -65,6 +65,85 @@ Commons_category: Tournaisian
 sRGB_color_hex_triplet: 8CB06C
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1084
 start_time: -358900000-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[WD~Tournaisian,940381]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.public|Age~1~Tournaisian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.internal|Age~1~Tournaisian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.protect|Age~1~Tournaisian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.private|Age~1~Tournaisian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.personal|Age~1~Tournaisian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.secret|Age~1~Tournaisian.secret]]"
+dv_has_:
+  duration_:
+    years: NaN
+  previous_:
+    item: "[[../../Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]"
+  next_:
+    item: "[[Age~2~Visean|Age~Visean]]"
+  name_:
+    bg: Турней
+    cs: Tournai
+    da: Tournaisien
+    de: Tournaisium
+    es: Tournaisiense
+    et: Tournais
+    fi: Tournais
+    fr: Tournaisien
+    hu: tournaisi
+    it: tournasiano
+    ja: トルネージアン期
+    lt: Turnėjis
+    nl: Tournaisiën
+    no: Tournasium
+    pl: Turnej
+    pt: Turnaisiano
+    sk: turnén
+    sl: tournaisij
+    sv: tournas
+    zh: 杜内期
+  abbreviation: C1c1
+  time_:
+    started: "-358.9e6"
+    stopped: "-346.7e6"
+  text_of_:
+    color: "0x8CB06C"
+dv_is_same_as:
+  - "[[WD~Tournaisian,940381]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.public|Age~1~Tournaisian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.internal|Age~1~Tournaisian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.protect|Age~1~Tournaisian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.private|Age~1~Tournaisian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.personal|Age~1~Tournaisian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian.secret|Age~1~Tournaisian.secret]]"
+dv_has_duration_years: NaN
+dv_has_previous_item: "[[../../Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]]"
+dv_has_next_item: "[[Age~2~Visean|Age~Visean]]"
+dv_has_name_bg: Турней
+dv_has_name_cs: Tournai
+dv_has_name_da: Tournaisien
+dv_has_name_de: Tournaisium
+dv_has_name_es: Tournaisiense
+dv_has_name_et: Tournais
+dv_has_name_fi: Tournais
+dv_has_name_fr: Tournaisien
+dv_has_name_hu: tournaisi
+dv_has_name_it: tournasiano
+dv_has_name_ja: トルネージアン期
+dv_has_name_lt: Turnėjis
+dv_has_name_nl: Tournaisiën
+dv_has_name_no: Tournasium
+dv_has_name_pl: Turnej
+dv_has_name_pt: Turnaisiano
+dv_has_name_sk: turnén
+dv_has_name_sl: tournaisij
+dv_has_name_sv: tournas
+dv_has_name_zh: 杜内期
+dv_has_abbreviation: C1c1
+dv_has_time_stopped: "-346.7e6"
+dv_has_text_of_color: "0x8CB06C"
 ---
 
 # [[Age~1~Tournaisian]] 
@@ -72,39 +151,39 @@ start_time: -358900000-01-01T00:00:00Z
 #is_a_/time_/Age 
 #is_/same_as :: [[WD~Tournaisian,940381]]   
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]] 
-#has_/next_/item :: [[Age~2~Visean|Age~Visean]] 
-#has_/name_/bg  :: Турней
-#has_/name_/cs  :: Tournai
-#has_/name_/da  :: Tournaisien
-#has_/name_/de  :: Tournaisium
-#has_/name_/es  :: Tournaisiense
-#has_/name_/et  :: Tournais
-#has_/name_/fi  :: Tournais
-#has_/name_/fr  :: Tournaisien
-#has_/name_/hu  :: tournaisi
-#has_/name_/it  :: tournasiano
-#has_/name_/ja  :: トルネージアン期
-#has_/name_/lt  :: Turnėjis
-#has_/name_/nl  :: Tournaisiën
-#has_/name_/no  :: Tournasium
-#has_/name_/pl  :: Turnej
-#has_/name_/pt  :: Turnaisiano
-#has_/name_/sk  :: turnén
-#has_/name_/sl  :: tournaisij
-#has_/name_/sv  :: tournas
-#has_/name_/zh  :: 杜内期
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: C1c1
+has_abbreviation = `=this.dv_has_abbreviation` 
 
 #has_/time_/started :: -358.9e6 
-#has_/time_/stopped :: -346.7e6 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 107 
 
-#has_/text_of_/color :: 0x8CB06C
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 A time period from 358.9 to 346.7 million years ago. 
 

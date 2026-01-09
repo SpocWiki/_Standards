@@ -13,21 +13,63 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - latitude
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_latitude
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_latitude
 type: Predi_Quantity
+dv_is_:
+  different_from: "#has_/location which is a Relation to a [[../../../Earth/Geography/Place]] with Latitude"
+  similar_to: "[[../../../WikiData/WD~Latitude,34027|WD~Latitude,34027]]"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_place_latitude|has_place_latitude]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_place_latitude.public|has_place_latitude.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_place_latitude.internal|has_place_latitude.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_place_latitude.protect|has_place_latitude.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_place_latitude.private|has_place_latitude.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_place_latitude.personal|has_place_latitude.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_place_latitude.secret|has_place_latitude.secret]]"
+dv_has_:
+  place_:
+    latitude: Number, Text
+  domain:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|GeoCoordinates]]"
+    - "[[../../../Earth/Geography/Place|Place]]"
+dv_has_place_latitude:
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_#has_:
+  name: has_place_latitude
+  range:
+    - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_different_from: "#has_/location which is a Relation to a [[../../../Earth/Geography/Place]] with Latitude"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|GeoCoordinates]]"
+  - "[[../../../Earth/Geography/Place|Place]]"
+dv_has_name: has_place_latitude
+dv_has_range:
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_similar_to: "[[../../../WikiData/WD~Latitude,34027|WD~Latitude,34027]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_place_latitude|has_place_latitude]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_place_latitude.public|has_place_latitude.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_place_latitude.internal|has_place_latitude.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_place_latitude.protect|has_place_latitude.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_place_latitude.private|has_place_latitude.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_place_latitude.personal|has_place_latitude.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_place_latitude.secret|has_place_latitude.secret]]"
 ---
 
 # [[has_place_latitude]] 
@@ -49,10 +91,10 @@ Predicate describes that:
 
 #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], [[../../../Earth/Geography/Place|Place]]  
 
-( #has_/name :: has_place_latitude )
+has_name = `=this.dv_has_name` 
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
-#is_/similar_to :: [[../../../WikiData/WD~Latitude,34027|WD~Latitude,34027]] 
+is_similar_to = `=this.dv_is_similar_to` 
 
 
 ## Confidential Links & Embeds: 

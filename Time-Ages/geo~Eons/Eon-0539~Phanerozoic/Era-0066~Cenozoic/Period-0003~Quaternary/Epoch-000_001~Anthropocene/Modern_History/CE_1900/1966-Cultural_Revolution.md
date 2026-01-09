@@ -5,15 +5,15 @@ aliases:
   - 1966-Cultural Revolution
 has_id_wikidata: Q8690
 instance_of:
-  - '[[_Standards/WikiData/WD~culture_change,5193493]]'
-  - '[[_Standards/WikiData/WD~historical_event,13418847]]'
-  - '[[_Standards/WikiData/WD~cultural_revolution,119328980]]'
-  - '[[_Standards/WikiData/WD~revolution,10931]]'
+  - "[[_Standards/WikiData/WD~culture_change,5193493]]"
+  - "[[_Standards/WikiData/WD~historical_event,13418847]]"
+  - "[[_Standards/WikiData/WD~cultural_revolution,119328980]]"
+  - "[[_Standards/WikiData/WD~revolution,10931]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Cultural_Revolution,7743813]]'
-  - '[[_Standards/WikiData/WD~Q20690285,20690285]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-creator: '[[_Standards/WikiData/WD~Mao_Zedong,5816]]'
+  - "[[_Standards/WikiData/WD~Template_Cultural_Revolution,7743813]]"
+  - "[[_Standards/WikiData/WD~Q20690285,20690285]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+creator: "[[_Standards/WikiData/WD~Mao_Zedong,5816]]"
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 start_time: 1966-05-16T00:00:00Z
 end_time: 1976-10-06T00:00:00Z
@@ -29,6 +29,25 @@ short_name:
   - 文革
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1967-02%201967%E5%B9%B4%E7%9A%84%E7%BA%A2%E5%8D%AB%E5%85%B5.jpg
 official_name: 无产阶级文化大革命
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Cultural_Revolution,8690|WD~Cultural_Revolution,8690]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution|1966-Cultural_Revolution]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.public|1966-Cultural_Revolution.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.internal|1966-Cultural_Revolution.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.protect|1966-Cultural_Revolution.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.private|1966-Cultural_Revolution.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.personal|1966-Cultural_Revolution.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.secret|1966-Cultural_Revolution.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Cultural_Revolution,8690|WD~Cultural_Revolution,8690]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution|1966-Cultural_Revolution]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.public|1966-Cultural_Revolution.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.internal|1966-Cultural_Revolution.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.protect|1966-Cultural_Revolution.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.private|1966-Cultural_Revolution.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.personal|1966-Cultural_Revolution.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1966-Cultural_Revolution.secret|1966-Cultural_Revolution.secret]]"
 ---
 
 # [[1966-Cultural_Revolution]] 

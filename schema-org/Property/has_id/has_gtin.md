@@ -11,30 +11,64 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - gtin
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_gtin
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_gtin
 type: Pred_Text
+dv_has_:
+  text_of_:
+    gtin: Text, URL
+  domain: Demand, Offer, Product
+  sub_properties: "[ gtin12, gtin13, gtin14, gtin8 ]"
+dv_has_text_of_gtin: Text, URL
+dv_is_:
+  part_of: "pending:"
+  sub_property_of: identifier
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_gtin|has_gtin]]"
+    - "[[/_public/schema-org/Property/has_name/has_gtin.public|has_gtin.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_gtin.internal|has_gtin.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_gtin.protect|has_gtin.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_gtin.private|has_gtin.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_gtin.personal|has_gtin.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_gtin.secret|has_gtin.secret]]"
+dv_#has_:
+  name: has_text_of_gtin
+  range: Text, URL
+dv_is_part_of: "pending:"
+dv_has_domain: Demand, Offer, Product
+dv_has_name: has_text_of_gtin
+dv_has_range: Text, URL
+dv_is_sub_property_of: identifier
+dv_has_sub_properties: "[ gtin12, gtin13, gtin14, gtin8 ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_gtin|has_gtin]]"
+  - "[[/_public/schema-org/Property/has_name/has_gtin.public|has_gtin.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_gtin.internal|has_gtin.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_gtin.protect|has_gtin.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_gtin.private|has_gtin.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_gtin.personal|has_gtin.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_gtin.secret|has_gtin.secret]]"
 ---
 
 Predicate to describe the Text of Demand, Offer, Product.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/text_of_/gtin :: Text, URL ] 
-- [ has_text_of_gtin :: Text, URL ] 
+- has_text_of_gtin = `=this.dv_has_text_of_gtin`  
+- has_text_of_gtin = `=this.dv_has_text_of_gtin`  
 
 A Global Trade Item Number ([GTIN](https://www.gs1.org/standards/id-keys/gtin)). GTINs identify trade items, including products and services, using numeric identification codes.
 
@@ -60,14 +94,14 @@ and not a definition of GTINs in general
 
 Predicated describes that: 
 
-#has_/domain  :: Demand, Offer, Product  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_gtin )
-( #has_/range :: Text, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: identifier  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
-#has_/sub_properties :: [ gtin12, gtin13, gtin14, gtin8 ]  
+has_sub_properties = `=this.dv_has_sub_properties` 
 
 ## Confidential Links & Embeds: 
 

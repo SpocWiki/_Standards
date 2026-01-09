@@ -10,39 +10,69 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - exchange-rate-spread
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_exchange-rate-spread
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_exchange-rate-spread
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    exchange_rate_spread: MonetaryAmount, Number
+  domain: ExchangeRateSpecification
+dv_has_value_for_exchange_rate_spread: MonetaryAmount, Number
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread|has_value_for_exchange_rate_spread]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.public|has_value_for_exchange_rate_spread.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.internal|has_value_for_exchange_rate_spread.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.protect|has_value_for_exchange_rate_spread.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.private|has_value_for_exchange_rate_spread.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.personal|has_value_for_exchange_rate_spread.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.secret|has_value_for_exchange_rate_spread.secret]]"
+dv_#has_:
+  name: has_value_for_exchange_rate_spread
+  range: MonetaryAmount, Number
+dv_is_part_of: "pending:"
+dv_has_domain: ExchangeRateSpecification
+dv_has_name: has_value_for_exchange_rate_spread
+dv_has_range: MonetaryAmount, Number
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread|has_value_for_exchange_rate_spread]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.public|has_value_for_exchange_rate_spread.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.internal|has_value_for_exchange_rate_spread.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.protect|has_value_for_exchange_rate_spread.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.private|has_value_for_exchange_rate_spread.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.personal|has_value_for_exchange_rate_spread.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_exchange_rate_spread.secret|has_value_for_exchange_rate_spread.secret]]"
 ---
 
 Predicate to describe the Quantity of ExchangeRateSpecification.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/value_for_/exchange_rate_spread :: MonetaryAmount, Number ] 
-- [ has_value_for_exchange_rate_spread :: MonetaryAmount, Number ] 
+- has_value_for_exchange_rate_spread = `=this.dv_has_value_for_exchange_rate_spread`  
+- has_value_for_exchange_rate_spread = `=this.dv_has_value_for_exchange_rate_spread`  
 
 The difference between the price at which a broker or other intermediary buys and sells foreign currency.
 
 Predicate describes that: 
 
-#has_/domain  :: ExchangeRateSpecification  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_exchange_rate_spread )
-( #has_/range :: MonetaryAmount, Number )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

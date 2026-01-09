@@ -9,39 +9,68 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - nonprofit_status
   - nonprofit
   - status
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_nonprofit_status
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_nonprofit_status
 type: Predi_Relation
+dv_has_:
+  nonprofit_status: NonprofitType
+  domain: Organization
+dv_has_nonprofit_status: NonprofitType
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_nonprofit_status|has_nonprofit_status]]"
+    - "[[/_public/schema-org/Relation/has/has_nonprofit_status.public|has_nonprofit_status.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_nonprofit_status.internal|has_nonprofit_status.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_nonprofit_status.protect|has_nonprofit_status.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_nonprofit_status.private|has_nonprofit_status.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_nonprofit_status.personal|has_nonprofit_status.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_nonprofit_status.secret|has_nonprofit_status.secret]]"
+dv_#has_:
+  name: has_nonprofit_status
+  range: NonprofitType
+dv_is_part_of: "pending:"
+dv_has_domain: Organization
+dv_has_name: has_nonprofit_status
+dv_has_range: NonprofitType
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_nonprofit_status|has_nonprofit_status]]"
+  - "[[/_public/schema-org/Relation/has/has_nonprofit_status.public|has_nonprofit_status.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_nonprofit_status.internal|has_nonprofit_status.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_nonprofit_status.protect|has_nonprofit_status.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_nonprofit_status.private|has_nonprofit_status.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_nonprofit_status.personal|has_nonprofit_status.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_nonprofit_status.secret|has_nonprofit_status.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/nonprofit_status :: NonprofitType ] 
-- [ has_nonprofit_status :: NonprofitType ] 
+- has_nonprofit_status = `=this.dv_has_nonprofit_status`  
+- has_nonprofit_status = `=this.dv_has_nonprofit_status`  
 
 nonprofitStatus indicates the legal status of a non-profit organization in its primary place of business.
 
 Relation describes that: 
 
-#has_/domain  :: Organization  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_nonprofit_status )
-( #has_/range :: NonprofitType )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

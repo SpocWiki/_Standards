@@ -10,41 +10,72 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - less
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_less_than
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_less_than
 type: Predi_Relation
+dv_is_:
+  less_than: QualitativeValue
+  complement_of: "[[is_greater_or_equal_to]]"
+  inverse_of: "[[is_greater_than]]"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_less_than|is_less_than]]"
+    - "[[/_public/schema-org/Relation/is/is_less_than.public|is_less_than.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_less_than.internal|is_less_than.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_less_than.protect|is_less_than.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_less_than.private|is_less_than.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_less_than.personal|is_less_than.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_less_than.secret|is_less_than.secret]]"
+dv_is_less_than: QualitativeValue
+dv_has_:
+  domain: QualitativeValue
+dv_#has_:
+  name: is_less_than
+  range: QualitativeValue
+dv_has_domain: QualitativeValue
+dv_has_name: is_less_than
+dv_has_range: QualitativeValue
+dv_is_complement_of: "[[is_greater_or_equal_to]]"
+dv_is_inverse_of: "[[is_greater_than]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_less_than|is_less_than]]"
+  - "[[/_public/schema-org/Relation/is/is_less_than.public|is_less_than.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_less_than.internal|is_less_than.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_less_than.protect|is_less_than.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_less_than.private|is_less_than.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_less_than.personal|is_less_than.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_less_than.secret|is_less_than.secret]]"
 ---
 
 # [[is_less_than]] 
 
 Use it like this: 
-- [is_/less_than :: QualitativeValue ] 
-- [ is_less_than :: QualitativeValue ] 
+- is_less_than = `=this.dv_is_less_than`  
+- is_less_than = `=this.dv_is_less_than`  
 
 This ordering relation for qualitative values indicates that the subject is less than the object.
 
 Relation describes that: 
 
-#has_/domain  :: QualitativeValue  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_less_than )
-( #has_/range :: QualitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/complement_of :: [[is_greater_or_equal_to]] 
+is_complement_of = `=this.dv_is_complement_of` 
 
-#is_/inverse_of :: [[is_greater_than]] 
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 ## Confidential Links & Embeds: 
 

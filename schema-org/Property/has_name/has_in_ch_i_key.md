@@ -11,7 +11,7 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -19,36 +19,68 @@ keywords:
   - ch
   - i
   - key
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_in_ch_i_key
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_in_ch_i_key
 type: Pred_Text
+dv_has_:
+  text_of_:
+    in_ch_i_key: Text
+  domain: MolecularEntity
+dv_has_text_of_in_ch_i_key: Text
+dv_is_:
+  part_of: "pending:"
+  sub_property_of: hasRepresentation
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_in_ch_i_key|has_in_ch_i_key]]"
+    - "[[/_public/schema-org/Property/has_name/has_in_ch_i_key.public|has_in_ch_i_key.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_in_ch_i_key.internal|has_in_ch_i_key.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_in_ch_i_key.protect|has_in_ch_i_key.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_in_ch_i_key.private|has_in_ch_i_key.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_in_ch_i_key.personal|has_in_ch_i_key.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_in_ch_i_key.secret|has_in_ch_i_key.secret]]"
+dv_#has_:
+  name: has_text_of_in_ch_i_key
+  range: Text
+dv_is_part_of: "pending:"
+dv_has_domain: MolecularEntity
+dv_has_name: has_text_of_in_ch_i_key
+dv_has_range: Text
+dv_is_sub_property_of: hasRepresentation
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_in_ch_i_key|has_in_ch_i_key]]"
+  - "[[/_public/schema-org/Property/has_name/has_in_ch_i_key.public|has_in_ch_i_key.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_in_ch_i_key.internal|has_in_ch_i_key.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_in_ch_i_key.protect|has_in_ch_i_key.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_in_ch_i_key.private|has_in_ch_i_key.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_in_ch_i_key.personal|has_in_ch_i_key.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_in_ch_i_key.secret|has_in_ch_i_key.secret]]"
 ---
 
 Predicate to describe the Text of MolecularEntity.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/text_of_/in_ch_i_key :: Text ] 
-- [ has_text_of_in_ch_i_key :: Text ] 
+- has_text_of_in_ch_i_key = `=this.dv_has_text_of_in_ch_i_key`  
+- has_text_of_in_ch_i_key = `=this.dv_has_text_of_in_ch_i_key`  
 
 InChIKey is a hashed version of the full InChI (using the SHA-256 algorithm).
 
 Predicated describes that: 
 
-#has_/domain  :: MolecularEntity  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_in_ch_i_key )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: hasRepresentation  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

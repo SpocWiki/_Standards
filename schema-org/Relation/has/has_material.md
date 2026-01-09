@@ -7,37 +7,66 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - material
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_material
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_material
 type: Predi_Relation
+dv_has_:
+  material: Product, Text, URL
+  domain: CreativeWork, Product
+  sub_properties: "[ artMedium, surface ]"
+dv_has_material: Product, Text, URL
+dv_#has_:
+  name: has_material
+  range: Product, Text, URL
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_material|has_material]]"
+    - "[[/_public/schema-org/Relation/has/has_material.public|has_material.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_material.internal|has_material.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_material.protect|has_material.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_material.private|has_material.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_material.personal|has_material.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_material.secret|has_material.secret]]"
+dv_has_domain: CreativeWork, Product
+dv_has_name: has_material
+dv_has_range: Product, Text, URL
+dv_has_sub_properties: "[ artMedium, surface ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_material|has_material]]"
+  - "[[/_public/schema-org/Relation/has/has_material.public|has_material.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_material.internal|has_material.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_material.protect|has_material.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_material.private|has_material.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_material.personal|has_material.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_material.secret|has_material.secret]]"
 ---
 
 Use it like this: 
-- [has_/material :: Product, Text, URL ] 
-- [ has_material :: Product, Text, URL ] 
+- has_material = `=this.dv_has_material`  
+- has_material = `=this.dv_has_material`  
 
 A material that something is made from, e.g. leather, wool, cotton, paper.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork, Product  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_material )
-( #has_/range :: Product, Text, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/sub_properties :: [ artMedium, surface ]  
+has_sub_properties = `=this.dv_has_sub_properties` 
 
 ## Confidential Links & Embeds: 
 

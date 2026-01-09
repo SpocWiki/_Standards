@@ -9,23 +9,53 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - next_item
   - next
   - item
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_next_item
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_next_item
 type: Predi_Relation
+dv_has_:
+  next_:
+    item: ListItem
+  domain: ListItem
+dv_has_next_item: ListItem
+dv_#has_:
+  name: has_next_item
+  range: ListItem
+dv_is_:
+  inverse_of: "[[has_previous_item]]"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_next_item|has_next_item]]"
+    - "[[/_public/schema-org/Relation/has/has_next_item.public|has_next_item.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_next_item.internal|has_next_item.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_next_item.protect|has_next_item.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_next_item.private|has_next_item.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_next_item.personal|has_next_item.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_next_item.secret|has_next_item.secret]]"
+dv_has_domain: ListItem
+dv_has_name: has_next_item
+dv_has_range: ListItem
+dv_is_inverse_of: "[[has_previous_item]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_next_item|has_next_item]]"
+  - "[[/_public/schema-org/Relation/has/has_next_item.public|has_next_item.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_next_item.internal|has_next_item.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_next_item.protect|has_next_item.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_next_item.private|has_next_item.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_next_item.personal|has_next_item.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_next_item.secret|has_next_item.secret]]"
 ---
 
 # [[has_next_item]] 
@@ -33,17 +63,17 @@ type: Predi_Relation
 A link to the [[../../Collection/list_item|ListItem]] that follows the current one.
 
 Use it like this: 
-- [has_/next_/item :: ListItem ] 
-- [ has_next_item :: ListItem ] 
+- has_next_item = `=this.dv_has_next_item`  
+- has_next_item = `=this.dv_has_next_item`  
 
 This Relation describes that: 
 
-#has_/domain  :: ListItem  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_next_item )
-( #has_/range :: ListItem )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/inverse_of :: [[has_previous_item]] 
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 
 ## Confidential Links & Embeds: 

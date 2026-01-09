@@ -10,39 +10,69 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - restocking-fee
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_restocking-fee
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_restocking-fee
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    restocking_fee: MonetaryAmount, Number
+  domain: MerchantReturnPolicy
+dv_has_value_for_restocking_fee: MonetaryAmount, Number
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_restocking_fee|has_value_for_restocking_fee]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_restocking_fee.public|has_value_for_restocking_fee.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_restocking_fee.internal|has_value_for_restocking_fee.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_restocking_fee.protect|has_value_for_restocking_fee.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_restocking_fee.private|has_value_for_restocking_fee.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_restocking_fee.personal|has_value_for_restocking_fee.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_restocking_fee.secret|has_value_for_restocking_fee.secret]]"
+dv_#has_:
+  name: has_value_for_restocking_fee
+  range: MonetaryAmount, Number
+dv_is_part_of: "pending:"
+dv_has_domain: MerchantReturnPolicy
+dv_has_name: has_value_for_restocking_fee
+dv_has_range: MonetaryAmount, Number
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_restocking_fee|has_value_for_restocking_fee]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_restocking_fee.public|has_value_for_restocking_fee.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_restocking_fee.internal|has_value_for_restocking_fee.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_restocking_fee.protect|has_value_for_restocking_fee.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_restocking_fee.private|has_value_for_restocking_fee.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_restocking_fee.personal|has_value_for_restocking_fee.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_restocking_fee.secret|has_value_for_restocking_fee.secret]]"
 ---
 
 Predicate to describe the Quantity of MerchantReturnPolicy.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/value_for_/restocking_fee :: MonetaryAmount, Number ] 
-- [ has_value_for_restocking_fee :: MonetaryAmount, Number ] 
+- has_value_for_restocking_fee = `=this.dv_has_value_for_restocking_fee`  
+- has_value_for_restocking_fee = `=this.dv_has_value_for_restocking_fee`  
 
 Use [[MonetaryAmount]] to specify a fixed restocking fee for product returns, or use[[../../Class/is_a_/data_type/number]]] to specify a percentage of the product price paid by the customer.
 
 Predicate describes that: 
 
-#has_/domain  :: MerchantReturnPolicy  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_restocking_fee )
-( #has_/range :: MonetaryAmount, Number )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -9,21 +9,50 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - item
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_items
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_items
 type: Predi_Relation
+dv_has_:
+  items: "[Thing](../../../Class/Thing.md)"
+  domain: DataFeedItem, ListItem
+dv_has_items: "[Thing](../../../Class/Thing.md)"
+dv_is_:
+  inverse_of: "[[is_item_in]]"
+  same_as:
+    - "[[/_Standards/schema-org/Collection/has_items|has_items]]"
+    - "[[/_public/schema-org/Collection/has_items.public|has_items.public]]"
+    - "[[/_internal/schema-org/Collection/has_items.internal|has_items.internal]]"
+    - "[[/_protect/schema-org/Collection/has_items.protect|has_items.protect]]"
+    - "[[/_private/schema-org/Collection/has_items.private|has_items.private]]"
+    - "[[/_personal/schema-org/Collection/has_items.personal|has_items.personal]]"
+    - "[[/_secret/schema-org/Collection/has_items.secret|has_items.secret]]"
+dv_#has_:
+  name: has_items
+  range: Thing
+dv_is_inverse_of: "[[is_item_in]]"
+dv_has_domain: DataFeedItem, ListItem
+dv_has_name: has_items
+dv_has_range: Thing
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Collection/has_items|has_items]]"
+  - "[[/_public/schema-org/Collection/has_items.public|has_items.public]]"
+  - "[[/_internal/schema-org/Collection/has_items.internal|has_items.internal]]"
+  - "[[/_protect/schema-org/Collection/has_items.protect|has_items.protect]]"
+  - "[[/_private/schema-org/Collection/has_items.private|has_items.private]]"
+  - "[[/_personal/schema-org/Collection/has_items.personal|has_items.personal]]"
+  - "[[/_secret/schema-org/Collection/has_items.secret|has_items.secret]]"
 ---
 
 # [[has_items]] 
@@ -34,14 +63,14 @@ Use it like this:
 
 An entity represented by an entry in a list or data feed (e.g. an 'artist' in a list of 'artists').
 
-#is_/inverse_of :: [[is_item_in]] 
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 Relation describes that: 
 
-#has_/domain  :: DataFeedItem, ListItem  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_items )
-( #has_/range :: Thing )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

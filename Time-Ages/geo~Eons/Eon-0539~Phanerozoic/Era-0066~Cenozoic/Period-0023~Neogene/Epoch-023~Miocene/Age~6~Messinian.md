@@ -17,6 +17,86 @@ end_time: -5333000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FEF587
 Commons_category: Messinian
 coordinate_location: Point(-6.8125 33.9369)
+dv_has_:
+  duration_:
+    years: "1.913e+6"
+  previous_:
+    item: "[[Age~5~Tortonian]]"
+  next_:
+    item: "[[../Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]"
+  name_:
+    bg: Меѿин
+    cs: Messin
+    da: Messinien
+    de: Messinium
+    es: Messiniense
+    et: Messini
+    fi: Messina
+    fr: Messinien
+    hu: messinai
+    it: messiniano
+    ja: メッシニアン期
+    lt: Mesinis
+    nl: Susteriën
+    no: Messinium
+    pl: Messyn
+    pt: Messiniano
+    sk: messin
+    sl: messinij
+    sv: messin
+    zh: 墨西拿期
+  abbreviation: n6
+  time_:
+    started: "-7.246e6"
+    stopped: "-5.333e6"
+  text_of_:
+    color: "0xFFFF73"
+dv_is_:
+  same_as:
+    - "[[WD~Messinian,508465]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.public|Age~6~Messinian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.internal|Age~6~Messinian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.protect|Age~6~Messinian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.private|Age~6~Messinian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.personal|Age~6~Messinian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.secret|Age~6~Messinian.secret]]"
+dv_has_duration_years: "1.913e+6"
+dv_has_previous_item: "[[Age~5~Tortonian]]"
+dv_has_next_item: "[[../Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]]"
+dv_is_same_as:
+  - "[[WD~Messinian,508465]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.public|Age~6~Messinian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.internal|Age~6~Messinian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.protect|Age~6~Messinian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.private|Age~6~Messinian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.personal|Age~6~Messinian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~6~Messinian.secret|Age~6~Messinian.secret]]"
+dv_has_name_bg: Меѿин
+dv_has_name_cs: Messin
+dv_has_name_da: Messinien
+dv_has_name_de: Messinium
+dv_has_name_es: Messiniense
+dv_has_name_et: Messini
+dv_has_name_fi: Messina
+dv_has_name_fr: Messinien
+dv_has_name_hu: messinai
+dv_has_name_it: messiniano
+dv_has_name_ja: メッシニアン期
+dv_has_name_lt: Mesinis
+dv_has_name_nl: Susteriën
+dv_has_name_no: Messinium
+dv_has_name_pl: Messyn
+dv_has_name_pt: Messiniano
+dv_has_name_sk: messin
+dv_has_name_sl: messinij
+dv_has_name_sv: messin
+dv_has_name_zh: 墨西拿期
+dv_has_abbreviation: n6
+dv_has_time_started: "-7.246e6"
+dv_has_time_stopped: "-5.333e6"
+dv_has_text_of_color: "0xFFFF73"
 ---
 # [[Age~6~Messinian]] 
 
@@ -25,10 +105,10 @@ coordinate_location: Point(-6.8125 33.9369)
 A time period from 7.246 to 5.333 million years ago. 
 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~5~Tortonian]] 
-#has_/next_/item :: [[../Epoch-005~Pliocene/Age~1~Zanclean|Age~1~Zanclean]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Messinian,508465]] 
 
 ## #has_/text_of_/abstract 
@@ -42,35 +122,35 @@ A time period from 7.246 to 5.333 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Messinian) 
 
 
-#has_/name_/bg  :: Меѿин
-#has_/name_/cs  :: Messin
-#has_/name_/da  :: Messinien
-#has_/name_/de  :: Messinium
-#has_/name_/es  :: Messiniense
-#has_/name_/et  :: Messini
-#has_/name_/fi  :: Messina
-#has_/name_/fr  :: Messinien
-#has_/name_/hu  :: messinai
-#has_/name_/it  :: messiniano
-#has_/name_/ja  :: メッシニアン期
-#has_/name_/lt  :: Mesinis
-#has_/name_/nl  :: Susteriën
-#has_/name_/no  :: Messinium
-#has_/name_/pl  :: Messyn
-#has_/name_/pt  :: Messiniano
-#has_/name_/sk  :: messin
-#has_/name_/sl  :: messinij
-#has_/name_/sv  :: messin
-#has_/name_/zh  :: 墨西拿期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: n6
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -7.246e6 
-#has_/time_/stopped :: -5.333e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 14 
 
-#has_/text_of_/color :: 0xFFFF73
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

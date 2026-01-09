@@ -17,15 +17,95 @@ start_time: -251902000-01-01T00:00:00Z
 end_time: -251200000-01-01T00:00:00Z
 named_after: "[[_Standards/WikiData/WD~Indus_River,7348]]"
 sRGB_color_hex_triplet: B861A0
+dv_has_:
+  duration_:
+    years: "7.020e+5"
+  previous_:
+    item: "[[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]]"
+  next_:
+    item: "[[Age~2~Olenekian]]"
+  name_:
+    bg: Инд
+    cs: Indu
+    da: Induen
+    de: Indusium
+    es: Induense
+    et: Indu
+    fi: Indus
+    fr: Induen
+    hu: indusi
+    it: induano
+    ja: インドゥアン期
+    lt: Indis
+    nl: Induiën
+    no: Indu
+    pl: Ind
+    pt: Induano
+    sk: indu
+    sl: indij
+    sv: indu
+    zh: 印度期
+  abbreviation: t1
+  time_:
+    started: "-251.902e6"
+    stopped: "-251.200e6"
+  text_of_:
+    color: "0xA4469F"
+dv_is_:
+  same_as:
+    - "[[WD~Induan,855153]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.protect|Age~1~Induan.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.private|Age~1~Induan.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.personal|Age~1~Induan.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.secret|Age~1~Induan.secret]]"
+dv_has_duration_years: "7.020e+5"
+dv_has_previous_item: "[[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]]"
+dv_has_next_item: "[[Age~2~Olenekian]]"
+dv_is_same_as:
+  - "[[WD~Induan,855153]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan|Age~1~Induan]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.public|Age~1~Induan.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.internal|Age~1~Induan.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.protect|Age~1~Induan.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.private|Age~1~Induan.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.personal|Age~1~Induan.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~1~Induan.secret|Age~1~Induan.secret]]"
+dv_has_name_bg: Инд
+dv_has_name_cs: Indu
+dv_has_name_da: Induen
+dv_has_name_de: Indusium
+dv_has_name_es: Induense
+dv_has_name_et: Indu
+dv_has_name_fi: Indus
+dv_has_name_fr: Induen
+dv_has_name_hu: indusi
+dv_has_name_it: induano
+dv_has_name_ja: インドゥアン期
+dv_has_name_lt: Indis
+dv_has_name_nl: Induiën
+dv_has_name_no: Indu
+dv_has_name_pl: Ind
+dv_has_name_pt: Induano
+dv_has_name_sk: indu
+dv_has_name_sl: indij
+dv_has_name_sv: indu
+dv_has_name_zh: 印度期
+dv_has_abbreviation: t1
+dv_has_time_started: "-251.902e6"
+dv_has_time_stopped: "-251.200e6"
+dv_has_text_of_color: "0xA4469F"
 ---
 # [[Age~1~Induan]]
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]] 
-#has_/next_/item :: [[Age~2~Olenekian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Induan,855153]] 
 
 A time period from 251.902 to 251.2 million years ago. 
@@ -46,35 +126,35 @@ A time period from 251.902 to 251.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Induan) 
 
 
-#has_/name_/bg  :: Инд
-#has_/name_/cs  :: Indu
-#has_/name_/da  :: Induen
-#has_/name_/de  :: Indusium
-#has_/name_/es  :: Induense
-#has_/name_/et  :: Indu
-#has_/name_/fi  :: Indus
-#has_/name_/fr  :: Induen
-#has_/name_/hu  :: indusi
-#has_/name_/it  :: induano
-#has_/name_/ja  :: インドゥアン期
-#has_/name_/lt  :: Indis
-#has_/name_/nl  :: Induiën
-#has_/name_/no  :: Indu
-#has_/name_/pl  :: Ind
-#has_/name_/pt  :: Induano
-#has_/name_/sk  :: indu
-#has_/name_/sl  :: indij
-#has_/name_/sv  :: indu
-#has_/name_/zh  :: 印度期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: t1
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -251.902e6 
-#has_/time_/stopped :: -251.200e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 74 
 
-#has_/text_of_/color :: 0xA4469F
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

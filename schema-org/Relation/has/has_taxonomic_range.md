@@ -9,39 +9,68 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - taxonomic_range
   - taxonomic
   - range
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_taxonomic_range
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_taxonomic_range
 type: Predi_Relation
+dv_has_:
+  taxonomic_range: DefinedTerm, Taxon, Text, URL
+  domain: BioChemEntity
+dv_has_taxonomic_range: DefinedTerm, Taxon, Text, URL
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_taxonomic_range|has_taxonomic_range]]"
+    - "[[/_public/schema-org/Relation/has/has_taxonomic_range.public|has_taxonomic_range.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_taxonomic_range.internal|has_taxonomic_range.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_taxonomic_range.protect|has_taxonomic_range.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_taxonomic_range.private|has_taxonomic_range.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_taxonomic_range.personal|has_taxonomic_range.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_taxonomic_range.secret|has_taxonomic_range.secret]]"
+dv_#has_:
+  name: is_taxonomic_range
+  range: DefinedTerm, Taxon, Text, URL
+dv_is_part_of: "pending:"
+dv_has_domain: BioChemEntity
+dv_has_name: is_taxonomic_range
+dv_has_range: DefinedTerm, Taxon, Text, URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_taxonomic_range|has_taxonomic_range]]"
+  - "[[/_public/schema-org/Relation/has/has_taxonomic_range.public|has_taxonomic_range.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_taxonomic_range.internal|has_taxonomic_range.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_taxonomic_range.protect|has_taxonomic_range.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_taxonomic_range.private|has_taxonomic_range.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_taxonomic_range.personal|has_taxonomic_range.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_taxonomic_range.secret|has_taxonomic_range.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/taxonomic_range :: DefinedTerm, Taxon, Text, URL ] 
-- [ has_taxonomic_range :: DefinedTerm, Taxon, Text, URL ] 
+- has_taxonomic_range = `=this.dv_has_taxonomic_range`  
+- has_taxonomic_range = `=this.dv_has_taxonomic_range`  
 
 The taxonomic grouping of the organism that expresses, encodes, or in some way related to the BioChemEntity.
 
 Relation describes that: 
 
-#has_/domain  :: BioChemEntity  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_taxonomic_range )
-( #has_/range :: DefinedTerm, Taxon, Text, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

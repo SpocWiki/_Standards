@@ -10,39 +10,69 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - floor-limit
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_floor-limit
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_floor-limit
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    floor_limit: MonetaryAmount
+  domain: PaymentCard
+dv_has_value_for_floor_limit: MonetaryAmount
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_floor_limit|has_value_for_floor_limit]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_floor_limit.public|has_value_for_floor_limit.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_floor_limit.internal|has_value_for_floor_limit.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_floor_limit.protect|has_value_for_floor_limit.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_floor_limit.private|has_value_for_floor_limit.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_floor_limit.personal|has_value_for_floor_limit.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_floor_limit.secret|has_value_for_floor_limit.secret]]"
+dv_#has_:
+  name: has_value_for_floor_limit
+  range: MonetaryAmount
+dv_is_part_of: "pending:"
+dv_has_domain: PaymentCard
+dv_has_name: has_value_for_floor_limit
+dv_has_range: MonetaryAmount
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_floor_limit|has_value_for_floor_limit]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_floor_limit.public|has_value_for_floor_limit.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_floor_limit.internal|has_value_for_floor_limit.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_floor_limit.protect|has_value_for_floor_limit.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_floor_limit.private|has_value_for_floor_limit.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_floor_limit.personal|has_value_for_floor_limit.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_floor_limit.secret|has_value_for_floor_limit.secret]]"
 ---
 
 Predicate to describe the Quantity of PaymentCard.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/value_for_/floor_limit :: MonetaryAmount ] 
-- [ has_value_for_floor_limit :: MonetaryAmount ] 
+- has_value_for_floor_limit = `=this.dv_has_value_for_floor_limit`  
+- has_value_for_floor_limit = `=this.dv_has_value_for_floor_limit`  
 
 A floor limit is the amount of money above which credit card transactions must be authorized.
 
 Predicate describes that: 
 
-#has_/domain  :: PaymentCard  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_floor_limit )
-( #has_/range :: MonetaryAmount )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

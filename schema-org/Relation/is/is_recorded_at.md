@@ -10,38 +10,67 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - recorded
   - at
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_recorded_at
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_recorded_at
 type: Predi_Relation
+dv_is_:
+  recorded_at: Event
+  inverse_of: recordedIn
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_recorded_at|is_recorded_at]]"
+    - "[[/_public/schema-org/Relation/is/is_recorded_at.public|is_recorded_at.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_recorded_at.internal|is_recorded_at.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_recorded_at.protect|is_recorded_at.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_recorded_at.private|is_recorded_at.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_recorded_at.personal|is_recorded_at.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_recorded_at.secret|is_recorded_at.secret]]"
+dv_is_recorded_at: Event
+dv_has_:
+  domain: CreativeWork
+dv_#has_:
+  name: is_recorded_at
+  range: "[[../../../Class/is_a_thing/event]]"
+dv_has_domain: CreativeWork
+dv_has_name: is_recorded_at
+dv_has_range: "[[../../../Class/is_a_thing/event]]"
+dv_is_inverse_of: recordedIn
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_recorded_at|is_recorded_at]]"
+  - "[[/_public/schema-org/Relation/is/is_recorded_at.public|is_recorded_at.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_recorded_at.internal|is_recorded_at.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_recorded_at.protect|is_recorded_at.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_recorded_at.private|is_recorded_at.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_recorded_at.personal|is_recorded_at.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_recorded_at.secret|is_recorded_at.secret]]"
 ---
 
 Use it like this: 
-- [is_/recorded_at :: Event ] 
-- [ is_recorded_at :: Event ] 
+- is_recorded_at = `=this.dv_is_recorded_at`  
+- is_recorded_at = `=this.dv_is_recorded_at`  
 
 The Event where the CreativeWork was recorded. The CreativeWork may capture all or part of the event.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_recorded_at )
-( #has_/range :: [[../../../Class/is_a_thing/event]] )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/inverse_of  :: recordedIn  
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 ## Confidential Links & Embeds: 
 

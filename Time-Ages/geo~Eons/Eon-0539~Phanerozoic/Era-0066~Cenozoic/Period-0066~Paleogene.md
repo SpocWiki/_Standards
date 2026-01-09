@@ -39,16 +39,98 @@ Commons_category: Paleogene
 Dewey_Decimal_Classification:
   - "561.1182"
   - "560.1782"
+dv_has_:
+  duration_:
+    years: "4.297e+7"
+  previous_:
+    item: "[[../Era-0251~Mesozoic/Period-0145~Cretaceous|Period~3~Cretaceous]]"
+  next_:
+    item: "[[Period-0023~Neogene]]"
+  name_:
+    bg: Палеоген
+    cs: Paleogén
+    da: Palæogen
+    de: Paläogen
+    en-GB: Palaeogene
+    en-US: Paleogene
+    es: Paleógeno
+    et: Paleogeen
+    fi: Paleogeeni
+    fr: Paléogène
+    hu: paleogén
+    it: paleogene
+    ja: 古第三紀
+    lt: Paleogenas
+    nl: Paleogeen
+    no: Paleogen
+    pl: Paleogen
+    pt: Paleogénico
+    sk: paleogén
+    sl: paleogen
+    sv: paleogen
+    zh: 早第三纪
+  abbreviation: E
+  time_:
+    started: "-66.00e6"
+    stopped: "-23.03e6"
+  text_of_:
+    color: "0xFD9A52"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene|Period-0066~Paleogene]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.public|Period-0066~Paleogene.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.internal|Period-0066~Paleogene.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.protect|Period-0066~Paleogene.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.private|Period-0066~Paleogene.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.personal|Period-0066~Paleogene.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.secret|Period-0066~Paleogene.secret]]"
+dv_has_duration_years: "4.297e+7"
+dv_has_previous_item: "[[../Era-0251~Mesozoic/Period-0145~Cretaceous|Period~3~Cretaceous]]"
+dv_has_next_item: "[[Period-0023~Neogene]]"
+dv_has_name_bg: Палеоген
+dv_has_name_cs: Paleogén
+dv_has_name_da: Palæogen
+dv_has_name_de: Paläogen
+dv_has_name_en-gb: Palaeogene
+dv_has_name_en-us: Paleogene
+dv_has_name_es: Paleógeno
+dv_has_name_et: Paleogeen
+dv_has_name_fi: Paleogeeni
+dv_has_name_fr: Paléogène
+dv_has_name_hu: paleogén
+dv_has_name_it: paleogene
+dv_has_name_ja: 古第三紀
+dv_has_name_lt: Paleogenas
+dv_has_name_nl: Paleogeen
+dv_has_name_no: Paleogen
+dv_has_name_pl: Paleogen
+dv_has_name_pt: Paleogénico
+dv_has_name_sk: paleogén
+dv_has_name_sl: paleogen
+dv_has_name_sv: paleogen
+dv_has_name_zh: 早第三纪
+dv_has_abbreviation: E
+dv_has_time_started: "-66.00e6"
+dv_has_time_stopped: "-23.03e6"
+dv_has_text_of_color: "0xFD9A52"
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene|Period-0066~Paleogene]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.public|Period-0066~Paleogene.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.internal|Period-0066~Paleogene.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.protect|Period-0066~Paleogene.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.private|Period-0066~Paleogene.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.personal|Period-0066~Paleogene.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene.secret|Period-0066~Paleogene.secret]]"
 ---
 
 # [[Period-0066~Paleogene]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Era-0251~Mesozoic/Period-0145~Cretaceous|Period~3~Cretaceous]] 
-#has_/next_/item :: [[Period-0023~Neogene]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 A time period from 66.0 to 23.03 million years ago. 
 
@@ -67,37 +149,37 @@ A time period from 66.0 to 23.03 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Paleogene) 
 
 
-#has_/name_/bg  :: Палеоген
-#has_/name_/cs  :: Paleogén
-#has_/name_/da  :: Palæogen
-#has_/name_/de  :: Paläogen
-#has_/name_/en-GB  :: Palaeogene
-#has_/name_/en-US  :: Paleogene
-#has_/name_/es  :: Paleógeno
-#has_/name_/et  :: Paleogeen
-#has_/name_/fi  :: Paleogeeni
-#has_/name_/fr  :: Paléogène
-#has_/name_/hu  :: paleogén
-#has_/name_/it  :: paleogene
-#has_/name_/ja  :: 古第三紀
-#has_/name_/lt  :: Paleogenas
-#has_/name_/nl  :: Paleogeen
-#has_/name_/no  :: Paleogen
-#has_/name_/pl  :: Paleogen
-#has_/name_/pt  :: Paleogénico
-#has_/name_/sk  :: paleogén
-#has_/name_/sl  :: paleogen
-#has_/name_/sv  :: paleogen
-#has_/name_/zh  :: 早第三纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_en-gb = `=this.dv_has_name_en-gb` 
+has_name_en-us = `=this.dv_has_name_en-us` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: E
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -66.00e6 
-#has_/time_/stopped :: -23.03e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 35 
 
-#has_/text_of_/color :: 0xFD9A52
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

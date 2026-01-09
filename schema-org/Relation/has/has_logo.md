@@ -10,37 +10,66 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - logo
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_logo
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_logo
 type: Predi_Relation
+dv_has_:
+  logo: ImageObject, URL
+  domain: Brand, Organization, Place, Product, Service
+dv_has_logo: ImageObject, URL
+dv_#has_:
+  name: has_logo
+  range: ImageObject, URL
+dv_is_:
+  sub_property_of: image
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_logo|has_logo]]"
+    - "[[/_public/schema-org/Relation/has/has_logo.public|has_logo.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_logo.internal|has_logo.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_logo.protect|has_logo.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_logo.private|has_logo.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_logo.personal|has_logo.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_logo.secret|has_logo.secret]]"
+dv_has_domain: Brand, Organization, Place, Product, Service
+dv_has_name: has_logo
+dv_has_range: ImageObject, URL
+dv_is_sub_property_of: image
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_logo|has_logo]]"
+  - "[[/_public/schema-org/Relation/has/has_logo.public|has_logo.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_logo.internal|has_logo.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_logo.protect|has_logo.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_logo.private|has_logo.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_logo.personal|has_logo.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_logo.secret|has_logo.secret]]"
 ---
 
 Use it like this: 
-- [has_/logo :: ImageObject, URL ] 
-- [ has_logo :: ImageObject, URL ] 
+- has_logo = `=this.dv_has_logo`  
+- has_logo = `=this.dv_has_logo`  
 
 An associated logo.
 
 Relation describes that: 
 
-#has_/domain  :: Brand, Organization, Place, Product, Service  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_logo )
-( #has_/range :: ImageObject, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: image  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

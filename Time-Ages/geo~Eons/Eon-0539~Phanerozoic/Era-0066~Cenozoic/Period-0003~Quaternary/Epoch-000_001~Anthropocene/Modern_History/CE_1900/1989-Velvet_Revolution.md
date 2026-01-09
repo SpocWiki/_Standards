@@ -8,12 +8,12 @@ aliases:
   - 1989-Velvet_Revolution
   - 1989-Velvet Revolution
 has_id_wikidata: Q182817
-has_cause: '[[_Standards/WikiData/WD~totalitarianism,128135]]'
-has_part_s_: '[[_Standards/WikiData/WD~Q136747398,136747398]]'
-instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+has_cause: "[[_Standards/WikiData/WD~totalitarianism,128135]]"
+has_part_s_: "[[_Standards/WikiData/WD~Q136747398,136747398]]"
+instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
 number_of_injured: 500
-location: '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
-country: '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
+location: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
+country: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
 native_label:
   - Sametová revoluce
   - Nežná revolúcia
@@ -23,6 +23,25 @@ end_time: 1989-12-29T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1989%20November%20Prague%20Velvet%20Revolution%20Wenceslas%20Square%20night%20time%20protest.jpg
 Google_Doodle: 25th-anniversary-of-the-velvet-revolution
 Commons_category: Velvet Revolution
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Velvet_Revolution,182817|WD~Velvet_Revolution,182817]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution|1989-Velvet_Revolution]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.public|1989-Velvet_Revolution.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.internal|1989-Velvet_Revolution.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.protect|1989-Velvet_Revolution.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.private|1989-Velvet_Revolution.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.personal|1989-Velvet_Revolution.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.secret|1989-Velvet_Revolution.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Velvet_Revolution,182817|WD~Velvet_Revolution,182817]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution|1989-Velvet_Revolution]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.public|1989-Velvet_Revolution.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.internal|1989-Velvet_Revolution.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.protect|1989-Velvet_Revolution.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.private|1989-Velvet_Revolution.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.personal|1989-Velvet_Revolution.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Velvet_Revolution.secret|1989-Velvet_Revolution.secret]]"
 ---
 
 # [[1989-Velvet_Revolution]] 

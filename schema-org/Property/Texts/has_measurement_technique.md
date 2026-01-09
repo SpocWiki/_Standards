@@ -11,31 +11,61 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - measurement
   - technique
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_measurement_technique
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_measurement_technique
 type: Pred_Text
+dv_has_:
+  text_of_:
+    measurement_technique: Text, URL
+  domain: DataCatalog, DataDownload, Dataset, PropertyValue
+dv_has_text_of_measurement_technique: Text, URL
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_measurement_technique|has_measurement_technique]]"
+    - "[[/_public/schema-org/Property/Texts/has_measurement_technique.public|has_measurement_technique.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_measurement_technique.internal|has_measurement_technique.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_measurement_technique.protect|has_measurement_technique.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_measurement_technique.private|has_measurement_technique.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_measurement_technique.personal|has_measurement_technique.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_measurement_technique.secret|has_measurement_technique.secret]]"
+dv_#has_:
+  name: has_text_of_measurement_technique
+  range: Text, URL
+dv_is_part_of: "pending:"
+dv_has_domain: DataCatalog, DataDownload, Dataset, PropertyValue
+dv_has_name: has_text_of_measurement_technique
+dv_has_range: Text, URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_measurement_technique|has_measurement_technique]]"
+  - "[[/_public/schema-org/Property/Texts/has_measurement_technique.public|has_measurement_technique.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_measurement_technique.internal|has_measurement_technique.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_measurement_technique.protect|has_measurement_technique.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_measurement_technique.private|has_measurement_technique.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_measurement_technique.personal|has_measurement_technique.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_measurement_technique.secret|has_measurement_technique.secret]]"
 ---
 
 Predicate to describe the Text of DataCatalog, DataDownload, Dataset, PropertyValue.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/text_of_/measurement_technique :: Text, URL ] 
-- [ has_text_of_measurement_technique :: Text, URL ] 
+- has_text_of_measurement_technique = `=this.dv_has_text_of_measurement_technique`  
+- has_text_of_measurement_technique = `=this.dv_has_text_of_measurement_technique`  
 
 A technique or technology used in a [[../../../Society/Communication/Media/Creative_Work/Dataset]] (or [[DataDownload]], [[DataCatalog]]),
 corresponding to the method used for measuring the corresponding variable(s) (described using [[variableMeasured]]). This is oriented towards scientific and scholarly dataset publication but may have broader applicability; it is not intended as a full representation of measurement, but rather as a high level summary for dataset discovery.
@@ -54,10 +84,10 @@ If there are several [[variableMeasured]] properties recorded for some given dat
 
 Predicated describes that: 
 
-#has_/domain  :: DataCatalog, DataDownload, Dataset, PropertyValue  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_measurement_technique )
-( #has_/range :: Text, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

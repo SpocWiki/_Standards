@@ -21,6 +21,25 @@ end_time: 1829-01-01T00:00:00Z
 start_time: 1821-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dupre-Salona-1821.jpg
 Commons_category: Greek War of Independence
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Greek_War_of_Independence,182062]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829|1821-Greek_War_of_Independence+1829]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.public|1821-Greek_War_of_Independence+1829.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.internal|1821-Greek_War_of_Independence+1829.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.protect|1821-Greek_War_of_Independence+1829.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.private|1821-Greek_War_of_Independence+1829.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.personal|1821-Greek_War_of_Independence+1829.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.secret|1821-Greek_War_of_Independence+1829.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Greek_War_of_Independence,182062]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829|1821-Greek_War_of_Independence+1829]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.public|1821-Greek_War_of_Independence+1829.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.internal|1821-Greek_War_of_Independence+1829.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.protect|1821-Greek_War_of_Independence+1829.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.private|1821-Greek_War_of_Independence+1829.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.personal|1821-Greek_War_of_Independence+1829.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1821-Greek_War_of_Independence+1829.secret|1821-Greek_War_of_Independence+1829.secret]]"
 ---
 
 # [[1821-Greek_War_of_Independence+1829]] 

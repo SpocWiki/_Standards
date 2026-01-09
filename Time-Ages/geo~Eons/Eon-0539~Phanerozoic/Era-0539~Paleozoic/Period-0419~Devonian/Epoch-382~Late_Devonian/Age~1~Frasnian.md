@@ -34,15 +34,95 @@ Commons_category: Frasnian
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1071
 sRGB_color_hex_triplet: F4EAB9
 end_time: -372200000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "1.050e+7"
+  previous_:
+    item: "[[../Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]"
+  next_:
+    item: "[[Age~2~Famennian]]"
+  name_:
+    bg: Фран
+    cs: Frasn
+    da: Frasnien
+    de: Frasnium
+    es: Frasniense
+    et: Frasne
+    fi: Frasn
+    fr: Frasnien
+    hu: frasni
+    it: frasniano
+    ja: フラスニアン期
+    lt: Franis
+    nl: Frasniën
+    no: Frasneium
+    pl: Fran
+    pt: Frasniano
+    sk: frasn
+    sl: frasnij
+    sv: frasn
+    zh: 弗拉斯期
+  abbreviation: d6
+  time_:
+    started: "-382.7e6"
+    stopped: "-372.2e6"
+  text_of_:
+    color: "0xF2EDAD"
+dv_is_:
+  same_as:
+    - "[[WD~Frasnian,264200]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.protect|Age~1~Frasnian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.private|Age~1~Frasnian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.personal|Age~1~Frasnian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.secret|Age~1~Frasnian.secret]]"
+dv_has_duration_years: "1.050e+7"
+dv_has_previous_item: "[[../Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]]"
+dv_has_next_item: "[[Age~2~Famennian]]"
+dv_is_same_as:
+  - "[[WD~Frasnian,264200]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.protect|Age~1~Frasnian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.private|Age~1~Frasnian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.personal|Age~1~Frasnian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian/Age~1~Frasnian.secret|Age~1~Frasnian.secret]]"
+dv_has_name_bg: Фран
+dv_has_name_cs: Frasn
+dv_has_name_da: Frasnien
+dv_has_name_de: Frasnium
+dv_has_name_es: Frasniense
+dv_has_name_et: Frasne
+dv_has_name_fi: Frasn
+dv_has_name_fr: Frasnien
+dv_has_name_hu: frasni
+dv_has_name_it: frasniano
+dv_has_name_ja: フラスニアン期
+dv_has_name_lt: Franis
+dv_has_name_nl: Frasniën
+dv_has_name_no: Frasneium
+dv_has_name_pl: Fran
+dv_has_name_pt: Frasniano
+dv_has_name_sk: frasn
+dv_has_name_sl: frasnij
+dv_has_name_sv: frasn
+dv_has_name_zh: 弗拉斯期
+dv_has_abbreviation: d6
+dv_has_time_started: "-382.7e6"
+dv_has_time_stopped: "-372.2e6"
+dv_has_text_of_color: "0xF2EDAD"
 ---
 # [[Age~1~Frasnian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch-393~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]] 
-#has_/next_/item :: [[Age~2~Famennian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Frasnian,264200]] 
 
 
@@ -72,35 +152,35 @@ A time period from 382.7 to 372.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Frasnian) 
 
 
-#has_/name_/bg  :: Фран
-#has_/name_/cs  :: Frasn
-#has_/name_/da  :: Frasnien
-#has_/name_/de  :: Frasnium
-#has_/name_/es  :: Frasniense
-#has_/name_/et  :: Frasne
-#has_/name_/fi  :: Frasn
-#has_/name_/fr  :: Frasnien
-#has_/name_/hu  :: frasni
-#has_/name_/it  :: frasniano
-#has_/name_/ja  :: フラスニアン期
-#has_/name_/lt  :: Franis
-#has_/name_/nl  :: Frasniën
-#has_/name_/no  :: Frasneium
-#has_/name_/pl  :: Fran
-#has_/name_/pt  :: Frasniano
-#has_/name_/sk  :: frasn
-#has_/name_/sl  :: frasnij
-#has_/name_/sv  :: frasn
-#has_/name_/zh  :: 弗拉斯期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: d6
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -382.7e6 
-#has_/time_/stopped :: -372.2e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 109 
 
-#has_/text_of_/color :: 0xF2EDAD
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,32 +18,61 @@ keywords:
   - min
   - energy_efficiency_scale_min
   - energyEfficiencyScaleMin
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_scale_min
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_energy_efficiency_scale_min
 type: Predi_Relation
+dv_has_:
+  energy_efficiency_scale_min: EUEnergyEfficiencyEnumeration
+  domain: EnergyConsumptionDetails
+dv_has_energy_efficiency_scale_min: EUEnergyEfficiencyEnumeration
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_energy_efficiency_scale_min|has_energy_efficiency_scale_min]]"
+    - "[[/_public/schema-org/Relation/has/has_energy_efficiency_scale_min.public|has_energy_efficiency_scale_min.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_energy_efficiency_scale_min.internal|has_energy_efficiency_scale_min.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_energy_efficiency_scale_min.protect|has_energy_efficiency_scale_min.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_energy_efficiency_scale_min.private|has_energy_efficiency_scale_min.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_energy_efficiency_scale_min.personal|has_energy_efficiency_scale_min.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_energy_efficiency_scale_min.secret|has_energy_efficiency_scale_min.secret]]"
+dv_#has_:
+  name: has_energy_efficiency_scale_min
+  range: EUEnergyEfficiencyEnumeration
+dv_is_part_of: "pending:"
+dv_has_domain: EnergyConsumptionDetails
+dv_has_name: has_energy_efficiency_scale_min
+dv_has_range: EUEnergyEfficiencyEnumeration
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_energy_efficiency_scale_min|has_energy_efficiency_scale_min]]"
+  - "[[/_public/schema-org/Relation/has/has_energy_efficiency_scale_min.public|has_energy_efficiency_scale_min.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_energy_efficiency_scale_min.internal|has_energy_efficiency_scale_min.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_energy_efficiency_scale_min.protect|has_energy_efficiency_scale_min.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_energy_efficiency_scale_min.private|has_energy_efficiency_scale_min.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_energy_efficiency_scale_min.personal|has_energy_efficiency_scale_min.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_energy_efficiency_scale_min.secret|has_energy_efficiency_scale_min.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/energy_efficiency_scale_min :: EUEnergyEfficiencyEnumeration ] 
-- [ has_energy_efficiency_scale_min :: EUEnergyEfficiencyEnumeration ] 
+- has_energy_efficiency_scale_min = `=this.dv_has_energy_efficiency_scale_min`  
+- has_energy_efficiency_scale_min = `=this.dv_has_energy_efficiency_scale_min`  
 
 Specifies the least energy efficient class on the regulated EU energy consumption scale for the product category a product belongs to. For example, energy consumption for televisions placed on the market after 2020-01-01 is scaled from D to A+++.
 
 Relation describes that: 
 
-#has_/domain  :: EnergyConsumptionDetails  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_energy_efficiency_scale_min )
-( #has_/range :: EUEnergyEfficiencyEnumeration )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

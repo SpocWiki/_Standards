@@ -30,24 +30,102 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleograph
 sRGB_color_hex_triplet: FFE619
 Commons_category: Neogene
 Dewey_Decimal_Classification: "551.786"
+dv_has_:
+  duration_:
+    years: "2.045e+7"
+  previous_:
+    item: "[[Period-0066~Paleogene]]"
+  next_:
+    item: "[[Period-0003~Quaternary]]"
+  abbreviation: N
+  time_:
+    started: "-23.03e6"
+    stopped: "-2.58e6"
+  text_of_:
+    color: "0xFFE619"
+  name_:
+    bg: пеоген
+    cs: Neogén
+    da: Neogen
+    de: Neogen
+    es: Neógeno
+    et: Neogeen
+    fi: Neogeeni
+    fr: Néogène
+    hu: neogén
+    it: neogene
+    ja: 新第三紀
+    lt: Neogenas
+    nl: Neogeen
+    no: Neogen
+    pl: Neogen
+    pt: Neogénico
+    sk: neogén
+    sl: neogen
+    sv: neogen
+    zh: 晚第三纪
+dv_is_:
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene|Period-0023~Neogene]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.public|Period-0023~Neogene.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.internal|Period-0023~Neogene.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.protect|Period-0023~Neogene.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.private|Period-0023~Neogene.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.personal|Period-0023~Neogene.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.secret|Period-0023~Neogene.secret]]"
+dv_has_duration_years: "2.045e+7"
+dv_has_previous_item: "[[Period-0066~Paleogene]]"
+dv_has_next_item: "[[Period-0003~Quaternary]]"
+dv_has_abbreviation: N
+dv_has_time_started: "-23.03e6"
+dv_has_time_stopped: "-2.58e6"
+dv_has_text_of_color: "0xFFE619"
+dv_has_name_bg: пеоген
+dv_has_name_cs: Neogén
+dv_has_name_da: Neogen
+dv_has_name_de: Neogen
+dv_has_name_es: Neógeno
+dv_has_name_et: Neogeen
+dv_has_name_fi: Neogeeni
+dv_has_name_fr: Néogène
+dv_has_name_hu: neogén
+dv_has_name_it: neogene
+dv_has_name_ja: 新第三紀
+dv_has_name_lt: Neogenas
+dv_has_name_nl: Neogeen
+dv_has_name_no: Neogen
+dv_has_name_pl: Neogen
+dv_has_name_pt: Neogénico
+dv_has_name_sk: neogén
+dv_has_name_sl: neogen
+dv_has_name_sv: neogen
+dv_has_name_zh: 晚第三纪
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene|Period-0023~Neogene]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.public|Period-0023~Neogene.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.internal|Period-0023~Neogene.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.protect|Period-0023~Neogene.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.private|Period-0023~Neogene.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.personal|Period-0023~Neogene.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene.secret|Period-0023~Neogene.secret]]"
 ---
 
 # [[Period-0023~Neogene]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Period-0066~Paleogene]] 
-#has_/next_/item :: [[Period-0003~Quaternary]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
-#has_/abbreviation :: N
-#has_/time_/started :: -23.03e6 
-#has_/time_/stopped ::  -2.58e6 
+has_abbreviation = `=this.dv_has_abbreviation` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 21 
 
-#has_/text_of_/color :: 0xFFE619
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 A time period from 23.03 to 2.58 million years ago. 
 
@@ -60,26 +138,26 @@ A time period from 23.03 to 2.58 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Neogene) 
 
 
-#has_/name_/bg  :: пеоген
-#has_/name_/cs  :: Neogén
-#has_/name_/da  :: Neogen
-#has_/name_/de  :: Neogen
-#has_/name_/es  :: Neógeno
-#has_/name_/et  :: Neogeen
-#has_/name_/fi  :: Neogeeni
-#has_/name_/fr  :: Néogène
-#has_/name_/hu  :: neogén
-#has_/name_/it  :: neogene
-#has_/name_/ja  :: 新第三紀
-#has_/name_/lt  :: Neogenas
-#has_/name_/nl  :: Neogeen
-#has_/name_/no  :: Neogen
-#has_/name_/pl  :: Neogen
-#has_/name_/pt  :: Neogénico
-#has_/name_/sk  :: neogén
-#has_/name_/sl  :: neogen
-#has_/name_/sv  :: neogen
-#has_/name_/zh  :: 晚第三纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
 ## All Contents
 

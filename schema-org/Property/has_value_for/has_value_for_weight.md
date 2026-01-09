@@ -10,41 +10,72 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - weight
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_weight
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_weight
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    weight_in_gram: QuantitativeValue
+  unit_for_:
+    default: "[[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]]"
+  domain: OfferShippingDetails, Person, Product
+dv_has_value_for_weight_in_gram: QuantitativeValue
+dv_#has_:
+  name: has_value_for_weight_in_gram
+  range: QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_weight_in_gram|has_value_for_weight_in_gram]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_weight_in_gram.public|has_value_for_weight_in_gram.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_weight_in_gram.internal|has_value_for_weight_in_gram.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_weight_in_gram.protect|has_value_for_weight_in_gram.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_weight_in_gram.private|has_value_for_weight_in_gram.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_weight_in_gram.personal|has_value_for_weight_in_gram.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_weight_in_gram.secret|has_value_for_weight_in_gram.secret]]"
+dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]]"
+dv_has_domain: OfferShippingDetails, Person, Product
+dv_has_name: has_value_for_weight_in_gram
+dv_has_range: QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_weight_in_gram|has_value_for_weight_in_gram]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_weight_in_gram.public|has_value_for_weight_in_gram.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_weight_in_gram.internal|has_value_for_weight_in_gram.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_weight_in_gram.protect|has_value_for_weight_in_gram.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_weight_in_gram.private|has_value_for_weight_in_gram.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_weight_in_gram.personal|has_value_for_weight_in_gram.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_weight_in_gram.secret|has_value_for_weight_in_gram.secret]]"
 ---
 
 # [[has_value_for_weight]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]] 
+has_unit_for_default = `=this.dv_has_unit_for_default` 
 
 Predicate to describe the Quantity of OfferShippingDetails, Person, Product.
 
 Use it like this: 
-- [has_/value_for_/weight_in_gram :: QuantitativeValue ] 
-- [ has_value_for_weight_in_gram :: QuantitativeValue ] 
+- has_value_for_weight_in_gram = `=this.dv_has_value_for_weight_in_gram`  
+- has_value_for_weight_in_gram = `=this.dv_has_value_for_weight_in_gram`  
 
 The weight of the product or person.
 
 Predicate describes that: 
 
-#has_/domain  :: OfferShippingDetails, Person, Product  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_value_for_weight_in_gram )
-( #has_/range :: QuantitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 ## Confidential Links & Embeds: 
 

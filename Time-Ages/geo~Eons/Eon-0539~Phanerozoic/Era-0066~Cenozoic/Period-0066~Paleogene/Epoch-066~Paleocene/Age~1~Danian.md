@@ -19,6 +19,86 @@ named_after: "[[_Standards/WikiData/WD~Denmark,35]]"
 Commons_category: Danian
 sRGB_color_hex_triplet: FEB872
 coordinate_location: Point(8.6486 36.1537)
+dv_has_:
+  duration_:
+    years: "4.400e+6"
+  previous_:
+    item: "[[../../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]"
+  next_:
+    item: "[[Age~2~Selandian]]"
+  name_:
+    bg: Дан
+    cs: Dan
+    da: Danien
+    de: Danium
+    es: Daninese
+    et: Taani
+    fi: Dan
+    fr: Danien
+    hu: dániai
+    it: daniano
+    ja: ダニアン期
+    lt: Danis
+    nl: Daniën
+    no: Danium
+    pl: Dan
+    pt: Daniano
+    sk: dán
+    sl: danij
+    sv: dan
+    zh: 丹麦期
+  abbreviation: e1
+  time_:
+    started: "-66.0e6"
+    stopped: "-61.6e6"
+  text_of_:
+    color: "0xFDB462"
+dv_is_:
+  same_as:
+    - "[[WD~Danian,502179]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.public|Age~1~Danian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.protect|Age~1~Danian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.private|Age~1~Danian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.personal|Age~1~Danian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.secret|Age~1~Danian.secret]]"
+dv_has_duration_years: "4.400e+6"
+dv_has_previous_item: "[[../../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]"
+dv_has_next_item: "[[Age~2~Selandian]]"
+dv_is_same_as:
+  - "[[WD~Danian,502179]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.public|Age~1~Danian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.internal|Age~1~Danian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.protect|Age~1~Danian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.private|Age~1~Danian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.personal|Age~1~Danian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian.secret|Age~1~Danian.secret]]"
+dv_has_name_bg: Дан
+dv_has_name_cs: Dan
+dv_has_name_da: Danien
+dv_has_name_de: Danium
+dv_has_name_es: Daninese
+dv_has_name_et: Taani
+dv_has_name_fi: Dan
+dv_has_name_fr: Danien
+dv_has_name_hu: dániai
+dv_has_name_it: daniano
+dv_has_name_ja: ダニアン期
+dv_has_name_lt: Danis
+dv_has_name_nl: Daniën
+dv_has_name_no: Danium
+dv_has_name_pl: Dan
+dv_has_name_pt: Daniano
+dv_has_name_sk: dán
+dv_has_name_sl: danij
+dv_has_name_sv: dan
+dv_has_name_zh: 丹麦期
+dv_has_abbreviation: e1
+dv_has_time_started: "-66.0e6"
+dv_has_time_stopped: "-61.6e6"
+dv_has_text_of_color: "0xFDB462"
 ---
 # [[Age~1~Danian]] 
 
@@ -26,10 +106,10 @@ coordinate_location: Point(8.6486 36.1537)
 
 A time period from 66.0 to 61.6 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../../Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]] 
-#has_/next_/item :: [[Age~2~Selandian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Danian,502179]] 
 
 ## #has_/text_of_/abstract 
@@ -44,35 +124,35 @@ A time period from 66.0 to 61.6 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Danian) 
 
 
-#has_/name_/bg  :: Дан
-#has_/name_/cs  :: Dan
-#has_/name_/da  :: Danien
-#has_/name_/de  :: Danium
-#has_/name_/es  :: Daninese
-#has_/name_/et  :: Taani
-#has_/name_/fi  :: Dan
-#has_/name_/fr  :: Danien
-#has_/name_/hu  :: dániai
-#has_/name_/it  :: daniano
-#has_/name_/ja  :: ダニアン期
-#has_/name_/lt  :: Danis
-#has_/name_/nl  :: Daniën
-#has_/name_/no  :: Danium
-#has_/name_/pl  :: Dan
-#has_/name_/pt  :: Daniano
-#has_/name_/sk  :: dán
-#has_/name_/sl  :: danij
-#has_/name_/sv  :: dan
-#has_/name_/zh  :: 丹麦期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: e1
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -66.0e6 
-#has_/time_/stopped :: -61.6e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 33 
 
-#has_/text_of_/color :: 0xFDB462
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

@@ -43,16 +43,88 @@ IPA_transcription: /dəˈvoʊni.ən/
 sRGB_color_hex_triplet: CB8C37
 Dewey_Decimal_Classification: "551.74"
 end_time: -358900000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "2.380e+7"
+  previous_:
+    item: "[[Epoch-393~Middle_Devonian]]"
+  next_:
+    item: "[[../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]"
+  name_:
+    bg: Къѿен Девон
+    cs: Svrchní devon
+    da: Sen Devon
+    de: Spätes Devon
+    et: Hilis-Devon
+    fi: Myöhäis-Devoni
+    hu: késő-devon
+    ja: 後期デボン紀
+    lt: Vėlyvasis Devonas
+    nl: Laat Devoon
+    no: Sen devon
+    pl: Późny Dewon
+    sk: mladší devón
+    sl: pozni devon
+    sv: yngre devon
+    zh: 晚泥盆世
+  abbreviation: D3
+  time_:
+    started: "-382.7e6"
+    stopped: "-358.9e6"
+  text_of_:
+    color: "0xF1E19D"
+dv_is_:
+  same_as:
+    - "[[WD~Late_Devonian,65955]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian|Epoch-382~Late_Devonian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.public|Epoch-382~Late_Devonian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.internal|Epoch-382~Late_Devonian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.protect|Epoch-382~Late_Devonian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.private|Epoch-382~Late_Devonian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.personal|Epoch-382~Late_Devonian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.secret|Epoch-382~Late_Devonian.secret]]"
+dv_has_duration_years: "2.380e+7"
+dv_has_previous_item: "[[Epoch-393~Middle_Devonian]]"
+dv_has_next_item: "[[../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]]"
+dv_is_same_as:
+  - "[[WD~Late_Devonian,65955]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian|Epoch-382~Late_Devonian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.public|Epoch-382~Late_Devonian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.internal|Epoch-382~Late_Devonian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.protect|Epoch-382~Late_Devonian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.private|Epoch-382~Late_Devonian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.personal|Epoch-382~Late_Devonian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-382~Late_Devonian.secret|Epoch-382~Late_Devonian.secret]]"
+dv_has_name_bg: Къѿен Девон
+dv_has_name_cs: Svrchní devon
+dv_has_name_da: Sen Devon
+dv_has_name_de: Spätes Devon
+dv_has_name_et: Hilis-Devon
+dv_has_name_fi: Myöhäis-Devoni
+dv_has_name_hu: késő-devon
+dv_has_name_ja: 後期デボン紀
+dv_has_name_lt: Vėlyvasis Devonas
+dv_has_name_nl: Laat Devoon
+dv_has_name_no: Sen devon
+dv_has_name_pl: Późny Dewon
+dv_has_name_sk: mladší devón
+dv_has_name_sl: pozni devon
+dv_has_name_sv: yngre devon
+dv_has_name_zh: 晚泥盆世
+dv_has_abbreviation: D3
+dv_has_time_started: "-382.7e6"
+dv_has_time_stopped: "-358.9e6"
+dv_has_text_of_color: "0xF1E19D"
 ---
 
 # [[Epoch-382~Late_Devonian]] 
 
 #is_a_/time_/Epoch 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Epoch-393~Middle_Devonian]] 
-#has_/next_/item :: [[../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Late_Devonian,65955]]
 
 A time period from 382.7 to 358.9 million years ago. 
@@ -74,30 +146,30 @@ A time period from 382.7 to 358.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Devonian) 
 
 
-#has_/name_/bg  :: Къѿен Девон
-#has_/name_/cs  :: Svrchní devon
-#has_/name_/da  :: Sen Devon
-#has_/name_/de  :: Spätes Devon
-#has_/name_/et  :: Hilis-Devon
-#has_/name_/fi  :: Myöhäis-Devoni
-#has_/name_/hu  :: késő-devon
-#has_/name_/ja  :: 後期デボン紀
-#has_/name_/lt  :: Vėlyvasis Devonas
-#has_/name_/nl  :: Laat Devoon
-#has_/name_/no  :: Sen devon
-#has_/name_/pl  :: Późny Dewon
-#has_/name_/sk  :: mladší devón
-#has_/name_/sl  :: pozni devon
-#has_/name_/sv  :: yngre devon
-#has_/name_/zh  :: 晚泥盆世
-#has_/abbreviation :: D3
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -382.7e6 
-#has_/time_/stopped :: -358.9e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 110 
 
-#has_/text_of_/color :: 0xF1E19D
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

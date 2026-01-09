@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,34 +16,65 @@ keywords:
   - code
   - category_code
   - categoryCode
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_category_code
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_category_code
 type: Predi_Relation
+dv_has_:
+  category_code: CategoryCode
+  domain: CategoryCodeSet
+dv_has_category_code: CategoryCode
+dv_is_:
+  part_of: "pending:"
+  sub_property_of: hasDefinedTerm
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_category_code|has_category_code]]"
+    - "[[/_public/schema-org/Relation/has/has_category_code.public|has_category_code.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_category_code.internal|has_category_code.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_category_code.protect|has_category_code.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_category_code.private|has_category_code.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_category_code.personal|has_category_code.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_category_code.secret|has_category_code.secret]]"
+dv_#has_:
+  name: has_category_code
+  range: CategoryCode
+dv_is_part_of: "pending:"
+dv_has_domain: CategoryCodeSet
+dv_has_name: has_category_code
+dv_has_range: CategoryCode
+dv_is_sub_property_of: hasDefinedTerm
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_category_code|has_category_code]]"
+  - "[[/_public/schema-org/Relation/has/has_category_code.public|has_category_code.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_category_code.internal|has_category_code.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_category_code.protect|has_category_code.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_category_code.private|has_category_code.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_category_code.personal|has_category_code.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_category_code.secret|has_category_code.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/category_code :: CategoryCode ] 
-- [ has_category_code :: CategoryCode ] 
+- has_category_code = `=this.dv_has_category_code`  
+- has_category_code = `=this.dv_has_category_code`  
 
 A Category code contained in this code set.
 
 Relation describes that: 
 
-#has_/domain  :: CategoryCodeSet  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_category_code )
-( #has_/range :: CategoryCode )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: hasDefinedTerm  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

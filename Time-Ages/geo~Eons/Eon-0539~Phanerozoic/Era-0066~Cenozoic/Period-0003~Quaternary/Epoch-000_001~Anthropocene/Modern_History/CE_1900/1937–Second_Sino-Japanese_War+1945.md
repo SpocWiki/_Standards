@@ -26,6 +26,25 @@ Commons_gallery: Second Sino-Japanese War
 Commons_category: Second Sino-Japanese War
 end_time: 1945-09-09T00:00:00Z
 start_time: 1937-07-07T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Second_Sino-Japanese_War,170314|WD~Second_Sino-Japanese_War,170314]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945|1937–Second_Sino-Japanese_War+1945]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.public|1937–Second_Sino-Japanese_War+1945.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.internal|1937–Second_Sino-Japanese_War+1945.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.protect|1937–Second_Sino-Japanese_War+1945.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.private|1937–Second_Sino-Japanese_War+1945.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.personal|1937–Second_Sino-Japanese_War+1945.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.secret|1937–Second_Sino-Japanese_War+1945.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Second_Sino-Japanese_War,170314|WD~Second_Sino-Japanese_War,170314]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945|1937–Second_Sino-Japanese_War+1945]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.public|1937–Second_Sino-Japanese_War+1945.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.internal|1937–Second_Sino-Japanese_War+1945.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.protect|1937–Second_Sino-Japanese_War+1945.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.private|1937–Second_Sino-Japanese_War+1945.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.personal|1937–Second_Sino-Japanese_War+1945.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1937–Second_Sino-Japanese_War+1945.secret|1937–Second_Sino-Japanese_War+1945.secret]]"
 ---
 
 # [[1937–Second_Sino-Japanese_War+1945]] 

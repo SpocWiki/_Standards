@@ -38,16 +38,96 @@ IPA_transcription: /dəˈvoʊni.ən/
 sRGB_color_hex_triplet: CB8C37
 Dewey_Decimal_Classification: "551.74"
 end_time: -358900000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "6.030e+7"
+  previous_:
+    item: "[[Period-0444~Silurian]]"
+  next_:
+    item: "[[Period-0359~Carboniferous]]"
+  name_:
+    bg: Девон
+    cs: Devon
+    da: Devon
+    de: Devon
+    es: Devónico
+    et: Devon
+    fi: Devoni
+    fr: Dévonien
+    hu: devon
+    it: devoniano
+    ja: デボン紀
+    lt: Devonas
+    nl: Devoon
+    no: Devon
+    pl: Dewon
+    pt: Devónico
+    sk: devón
+    sl: devon
+    sv: devon
+    zh: 泥盆纪
+  abbreviation: D
+  time_:
+    started: "-419.2e6"
+    stopped: "-358.9e6"
+  text_of_:
+    color: "0xCB8C37"
+dv_is_:
+  same_as:
+    - "[[WD~Devonian,65955]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian|Period-0419~Devonian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.public|Period-0419~Devonian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.internal|Period-0419~Devonian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.protect|Period-0419~Devonian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.private|Period-0419~Devonian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.personal|Period-0419~Devonian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.secret|Period-0419~Devonian.secret]]"
+dv_has_duration_years: "6.030e+7"
+dv_has_previous_item: "[[Period-0444~Silurian]]"
+dv_has_next_item: "[[Period-0359~Carboniferous]]"
+dv_is_same_as:
+  - "[[WD~Devonian,65955]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian|Period-0419~Devonian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.public|Period-0419~Devonian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.internal|Period-0419~Devonian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.protect|Period-0419~Devonian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.private|Period-0419~Devonian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.personal|Period-0419~Devonian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian.secret|Period-0419~Devonian.secret]]"
+dv_has_name_bg: Девон
+dv_has_name_cs: Devon
+dv_has_name_da: Devon
+dv_has_name_de: Devon
+dv_has_name_es: Devónico
+dv_has_name_et: Devon
+dv_has_name_fi: Devoni
+dv_has_name_fr: Dévonien
+dv_has_name_hu: devon
+dv_has_name_it: devoniano
+dv_has_name_ja: デボン紀
+dv_has_name_lt: Devonas
+dv_has_name_nl: Devoon
+dv_has_name_no: Devon
+dv_has_name_pl: Dewon
+dv_has_name_pt: Devónico
+dv_has_name_sk: devón
+dv_has_name_sl: devon
+dv_has_name_sv: devon
+dv_has_name_zh: 泥盆纪
+dv_has_abbreviation: D
+dv_has_time_started: "-419.2e6"
+dv_has_time_stopped: "-358.9e6"
+dv_has_text_of_color: "0xCB8C37"
 ---
 
 # [[Period-0419~Devonian]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Period-0444~Silurian]] 
-#has_/next_/item :: [[Period-0359~Carboniferous]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Devonian,65955]]  
 
 A time period from 419.2 to 358.9 million years ago. 
@@ -72,35 +152,35 @@ A time period from 419.2 to 358.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Devonian) 
 
 
-#has_/name_/bg  :: Девон
-#has_/name_/cs  :: Devon
-#has_/name_/da  :: Devon
-#has_/name_/de  :: Devon
-#has_/name_/es  :: Devónico
-#has_/name_/et  :: Devon
-#has_/name_/fi  :: Devoni
-#has_/name_/fr  :: Dévonien
-#has_/name_/hu  :: devon
-#has_/name_/it  :: devoniano
-#has_/name_/ja  :: デボン紀
-#has_/name_/lt  :: Devonas
-#has_/name_/nl  :: Devoon
-#has_/name_/no  :: Devon
-#has_/name_/pl  :: Dewon
-#has_/name_/pt  :: Devónico
-#has_/name_/sk  :: devón
-#has_/name_/sl  :: devon
-#has_/name_/sv  :: devon
-#has_/name_/zh  :: 泥盆纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: D
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -419.2e6 
-#has_/time_/stopped :: -358.9e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 116 
 
-#has_/text_of_/color :: 0xCB8C37
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

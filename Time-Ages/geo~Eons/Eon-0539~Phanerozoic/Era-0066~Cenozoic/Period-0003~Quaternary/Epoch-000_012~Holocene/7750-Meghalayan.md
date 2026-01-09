@@ -1,18 +1,57 @@
 ---
-location: [ 91.715 , 25.262222222 ] 
+location:
+  - 91.715
+  - 25.262222222
 aliases:
   - 7750-Meghalayan
 has_id_wikidata: Q55594589
 Commons_category: Meghalayan
 coordinate_location: Point(91.715 25.262222222)
-different_from: '[[_Standards/WikiData/WD~Meghalaya,1195]]'
+different_from: "[[_Standards/WikiData/WD~Meghalaya,1195]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~age,568683]]'
-  - '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Meghalaya,1195]]'
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_after: "[[_Standards/WikiData/WD~Meghalaya,1195]]"
 sRGB_color_hex_triplet: FDEDEC
 start_time: -2250-06
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP for the base of the Meghalayan,133676723]]'
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP for the base of the Meghalayan,133676723]]"
+dv_has_:
+  abbreviation: q7
+  time_:
+    started: -2250
+    stopped: 1750
+  duration_: 4000
+  text_of_:
+    color: "0xFDEDEC"
+  previous_:
+    item: "[[3854-Northgrippian]]"
+  next_:
+    item: "[[../Epoch-000_001~Anthropocene]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan|7750-Meghalayan]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.public|7750-Meghalayan.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.internal|7750-Meghalayan.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.protect|7750-Meghalayan.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.private|7750-Meghalayan.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.personal|7750-Meghalayan.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.secret|7750-Meghalayan.secret]]"
+dv_has_abbreviation: q7
+dv_has_time_started: -2250
+dv_has_time_stopped: 1750
+dv_has_duration_years: 4000
+dv_has_duration_: 4000
+dv_has_text_of_color: "0xFDEDEC"
+dv_has_previous_item: "[[3854-Northgrippian]]"
+dv_has_next_item: "[[../Epoch-000_001~Anthropocene]]"
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan|7750-Meghalayan]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.public|7750-Meghalayan.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.internal|7750-Meghalayan.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.protect|7750-Meghalayan.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.private|7750-Meghalayan.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.personal|7750-Meghalayan.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan.secret|7750-Meghalayan.secret]]"
 ---
 
 # [[Age~3~Meghalayan]] 
@@ -22,21 +61,21 @@ type_locality_geology_: '[[_Standards/WikiData/WD~GSSP for the base of the Megha
 A time period from 4_200 thousand years ago to the present or the Modern History starting at 1492. 
 This is starting at 7750 HE (Human Era 10_000BC)
 
-#has_/abbreviation :: q7
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -2250 
-#has_/time_/stopped ::  1750  
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started))` 
+#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now).year) - this.dv_has_time_started` 
 
 
     sh:order 1 
 
-#has_/text_of_/color :: 0xFDEDEC
+has_text_of_color = `=this.dv_has_text_of_color` 
 
-#has_/previous_/item :: [[3854-Northgrippian]] 
-#has_/next_/item :: [[../Epoch-000_001~Anthropocene]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 
 ## #has_/text_of_/abstract 

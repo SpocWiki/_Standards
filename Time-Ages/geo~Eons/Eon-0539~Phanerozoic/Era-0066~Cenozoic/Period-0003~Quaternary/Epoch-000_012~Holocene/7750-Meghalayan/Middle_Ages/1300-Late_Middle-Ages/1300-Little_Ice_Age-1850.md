@@ -14,6 +14,25 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/2000%2B%20year%20g
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Venice%20frozen%20lagoon%201708.jpg
 Commons_gallery: Little Ice Age
 Commons_category: Little Ice Age
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Little_Ice_Age,190530]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850|1300-Little_Ice_Age-1850]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.public|1300-Little_Ice_Age-1850.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.internal|1300-Little_Ice_Age-1850.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.protect|1300-Little_Ice_Age-1850.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.private|1300-Little_Ice_Age-1850.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.personal|1300-Little_Ice_Age-1850.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.secret|1300-Little_Ice_Age-1850.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Little_Ice_Age,190530]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850|1300-Little_Ice_Age-1850]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.public|1300-Little_Ice_Age-1850.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.internal|1300-Little_Ice_Age-1850.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.protect|1300-Little_Ice_Age-1850.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.private|1300-Little_Ice_Age-1850.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.personal|1300-Little_Ice_Age-1850.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/1300-Little_Ice_Age-1850.secret|1300-Little_Ice_Age-1850.secret]]"
 ---
 
 # [[1300-Little_Ice_Age-1850]] 

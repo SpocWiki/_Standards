@@ -34,16 +34,96 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleograph
 exact_match: http://resource.geosciml.org/classifier/ics/ischart/Cambrian
 sRGB_color_hex_triplet: 7FA056
 P8189: 987007290943505200
+dv_has_:
+  duration_:
+    years: "5.340e+7"
+  previous_:
+    item: "[[../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]"
+  next_:
+    item: "[[Period-0485~Ordovician]]"
+  name_:
+    bg: Камбрий
+    cs: Kambrium
+    da: Kambrium
+    de: Kambrium
+    es: Cámbrico
+    et: Kambrium
+    fi: Kambri
+    fr: Cambrien
+    hu: kambriumi
+    it: cambriano
+    ja: カンブリア紀
+    lt: Kambras
+    nl: Cambrium
+    no: Cambrium
+    pl: Kambr
+    pt: Câmbrico
+    sk: kambrium
+    sl: kambrij
+    sv: kambrium
+    zh: 寒武纪
+  abbreviation: Ep
+  time_:
+    started: "-538.8e6"
+    stopped: "-485.4e6"
+  text_of_:
+    color: "0x7FA056"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Cambrian,79064|WD~Cambrian,79064]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian|Period-0539~Cambrian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.public|Period-0539~Cambrian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.internal|Period-0539~Cambrian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.protect|Period-0539~Cambrian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.private|Period-0539~Cambrian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.personal|Period-0539~Cambrian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.secret|Period-0539~Cambrian.secret]]"
+dv_has_duration_years: "5.340e+7"
+dv_has_previous_item: "[[../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]"
+dv_has_next_item: "[[Period-0485~Ordovician]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Cambrian,79064|WD~Cambrian,79064]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian|Period-0539~Cambrian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.public|Period-0539~Cambrian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.internal|Period-0539~Cambrian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.protect|Period-0539~Cambrian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.private|Period-0539~Cambrian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.personal|Period-0539~Cambrian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian.secret|Period-0539~Cambrian.secret]]"
+dv_has_name_bg: Камбрий
+dv_has_name_cs: Kambrium
+dv_has_name_da: Kambrium
+dv_has_name_de: Kambrium
+dv_has_name_es: Cámbrico
+dv_has_name_et: Kambrium
+dv_has_name_fi: Kambri
+dv_has_name_fr: Cambrien
+dv_has_name_hu: kambriumi
+dv_has_name_it: cambriano
+dv_has_name_ja: カンブリア紀
+dv_has_name_lt: Kambras
+dv_has_name_nl: Cambrium
+dv_has_name_no: Cambrium
+dv_has_name_pl: Kambr
+dv_has_name_pt: Câmbrico
+dv_has_name_sk: kambrium
+dv_has_name_sl: kambrij
+dv_has_name_sv: kambrium
+dv_has_name_zh: 寒武纪
+dv_has_abbreviation: Ep
+dv_has_time_started: "-538.8e6"
+dv_has_time_stopped: "-485.4e6"
+dv_has_text_of_color: "0x7FA056"
 ---
 
 # [[Period-0539~Cambrian]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]] 
-#has_/next_/item :: [[Period-0485~Ordovician]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[../../../../WikiData/WD~Cambrian,79064|WD~Cambrian,79064]] 
 
 
@@ -62,35 +142,35 @@ P8189: 987007290943505200
 > [Wikipedia](https://en.wikipedia.org/wiki/Cambrian) 
 
 
-#has_/name_/bg  :: Камбрий
-#has_/name_/cs  :: Kambrium
-#has_/name_/da  :: Kambrium
-#has_/name_/de  :: Kambrium
-#has_/name_/es  :: Cámbrico
-#has_/name_/et  :: Kambrium
-#has_/name_/fi  :: Kambri
-#has_/name_/fr  :: Cambrien
-#has_/name_/hu  :: kambriumi
-#has_/name_/it  :: cambriano
-#has_/name_/ja  :: カンブリア紀
-#has_/name_/lt  :: Kambras
-#has_/name_/nl  :: Cambrium
-#has_/name_/no  :: Cambrium
-#has_/name_/pl  :: Kambr
-#has_/name_/pt  :: Câmbrico
-#has_/name_/sk  :: kambrium
-#has_/name_/sl  :: kambrij
-#has_/name_/sv  :: kambrium
-#has_/name_/zh  :: 寒武纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: Ep
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -538.8e6 
-#has_/time_/stopped :: -485.4e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 154 
 
-#has_/text_of_/color :: 0x7FA056
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents 
 

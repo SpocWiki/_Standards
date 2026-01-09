@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,32 +17,61 @@ keywords:
   - modulation
   - broadcast_signal_modulation
   - broadcastSignalModulation
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_signal_modulation
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_broadcast_signal_modulation
 type: Predi_Relation
+dv_has_:
+  broadcast_signal_modulation: QualitativeValue, Text
+  domain: BroadcastFrequencySpecification
+dv_has_broadcast_signal_modulation: QualitativeValue, Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_broadcast_signal_modulation|has_broadcast_signal_modulation]]"
+    - "[[/_public/schema-org/Relation/has/has_broadcast_signal_modulation.public|has_broadcast_signal_modulation.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_broadcast_signal_modulation.internal|has_broadcast_signal_modulation.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_broadcast_signal_modulation.protect|has_broadcast_signal_modulation.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_broadcast_signal_modulation.private|has_broadcast_signal_modulation.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_broadcast_signal_modulation.personal|has_broadcast_signal_modulation.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_broadcast_signal_modulation.secret|has_broadcast_signal_modulation.secret]]"
+dv_#has_:
+  name: has_broadcast_signal_modulation
+  range: QualitativeValue, Text
+dv_is_part_of: "pending:"
+dv_has_domain: BroadcastFrequencySpecification
+dv_has_name: has_broadcast_signal_modulation
+dv_has_range: QualitativeValue, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_broadcast_signal_modulation|has_broadcast_signal_modulation]]"
+  - "[[/_public/schema-org/Relation/has/has_broadcast_signal_modulation.public|has_broadcast_signal_modulation.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_broadcast_signal_modulation.internal|has_broadcast_signal_modulation.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_broadcast_signal_modulation.protect|has_broadcast_signal_modulation.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_broadcast_signal_modulation.private|has_broadcast_signal_modulation.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_broadcast_signal_modulation.personal|has_broadcast_signal_modulation.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_broadcast_signal_modulation.secret|has_broadcast_signal_modulation.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/broadcast_signal_modulation :: QualitativeValue, Text ] 
-- [ has_broadcast_signal_modulation :: QualitativeValue, Text ] 
+- has_broadcast_signal_modulation = `=this.dv_has_broadcast_signal_modulation`  
+- has_broadcast_signal_modulation = `=this.dv_has_broadcast_signal_modulation`  
 
 The modulation (e.g. FM, AM, etc) used by a particular broadcast service.
 
 Relation describes that: 
 
-#has_/domain  :: BroadcastFrequencySpecification  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_broadcast_signal_modulation )
-( #has_/range :: QualitativeValue, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

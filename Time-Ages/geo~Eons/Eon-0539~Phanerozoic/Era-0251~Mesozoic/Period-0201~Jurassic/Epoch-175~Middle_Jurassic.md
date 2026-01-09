@@ -13,16 +13,96 @@ end_time: -163500000-01-01T00:00:00Z
 start_time: -174100000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 34D1EB
 Commons_category: Middle Jurassic
+dv_has_:
+  duration_:
+    years: "1.320e+7"
+  previous_:
+    item: "[[Epoch-201~Early_Jurassic]]"
+  next_:
+    item: "[[Epoch-162~Late_Jurassic]]"
+  name_:
+    bg: Средна Юра
+    cs: Střední jura
+    da: Mellem Jurassisk
+    de: Mittlerer Jura
+    es: Jurásico Medio
+    et: Kesk-Juura
+    fi: Keski-Jura
+    fr: Jurassique moyen
+    hu: középső-jura
+    it: giurassico medio
+    ja: 中期ジュラ紀
+    lt: Vidurinė Jura
+    nl: Midden Jura
+    no: Midtre jura
+    pl: Środkowa Jura
+    pt: Jurássico Médio
+    sk: stredná jura
+    sl: srednja jura
+    sv: mellersta jura
+    zh: 中侏罗世
+  abbreviation: J2
+  time_:
+    started: "-174.7e6"
+    stopped: "-161.5e6"
+  text_of_:
+    color: "0x80CFD8"
+dv_is_:
+  same_as:
+    - "[[WD~Middle_Jurassic,500054]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic|Epoch-175~Middle_Jurassic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.public|Epoch-175~Middle_Jurassic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.internal|Epoch-175~Middle_Jurassic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.protect|Epoch-175~Middle_Jurassic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.private|Epoch-175~Middle_Jurassic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.personal|Epoch-175~Middle_Jurassic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.secret|Epoch-175~Middle_Jurassic.secret]]"
+dv_has_duration_years: "1.320e+7"
+dv_has_previous_item: "[[Epoch-201~Early_Jurassic]]"
+dv_has_next_item: "[[Epoch-162~Late_Jurassic]]"
+dv_is_same_as:
+  - "[[WD~Middle_Jurassic,500054]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic|Epoch-175~Middle_Jurassic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.public|Epoch-175~Middle_Jurassic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.internal|Epoch-175~Middle_Jurassic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.protect|Epoch-175~Middle_Jurassic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.private|Epoch-175~Middle_Jurassic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.personal|Epoch-175~Middle_Jurassic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic.secret|Epoch-175~Middle_Jurassic.secret]]"
+dv_has_name_bg: Средна Юра
+dv_has_name_cs: Střední jura
+dv_has_name_da: Mellem Jurassisk
+dv_has_name_de: Mittlerer Jura
+dv_has_name_es: Jurásico Medio
+dv_has_name_et: Kesk-Juura
+dv_has_name_fi: Keski-Jura
+dv_has_name_fr: Jurassique moyen
+dv_has_name_hu: középső-jura
+dv_has_name_it: giurassico medio
+dv_has_name_ja: 中期ジュラ紀
+dv_has_name_lt: Vidurinė Jura
+dv_has_name_nl: Midden Jura
+dv_has_name_no: Midtre jura
+dv_has_name_pl: Środkowa Jura
+dv_has_name_pt: Jurássico Médio
+dv_has_name_sk: stredná jura
+dv_has_name_sl: srednja jura
+dv_has_name_sv: mellersta jura
+dv_has_name_zh: 中侏罗世
+dv_has_abbreviation: J2
+dv_has_time_started: "-174.7e6"
+dv_has_time_stopped: "-161.5e6"
+dv_has_text_of_color: "0x80CFD8"
 ---
 
 # [[Epoch-175~Middle_Jurassic]] 
 
 #is_a_/time_/Epoch 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Epoch-201~Early_Jurassic]] 
-#has_/next_/item :: [[Epoch-162~Late_Jurassic]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Middle_Jurassic,500054]] 
 
 A time period from 174.7 to 161.5 million years ago. 
@@ -37,35 +117,35 @@ A time period from 174.7 to 161.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Jurassic) 
 
 
-#has_/name_/bg  :: Средна Юра
-#has_/name_/cs  :: Střední jura
-#has_/name_/da  :: Mellem Jurassisk
-#has_/name_/de  :: Mittlerer Jura
-#has_/name_/es  :: Jurásico Medio
-#has_/name_/et  :: Kesk-Juura
-#has_/name_/fi  :: Keski-Jura
-#has_/name_/fr  :: Jurassique moyen
-#has_/name_/hu  :: középső-jura
-#has_/name_/it  :: giurassico medio
-#has_/name_/ja  :: 中期ジュラ紀
-#has_/name_/lt  :: Vidurinė Jura
-#has_/name_/nl  :: Midden Jura
-#has_/name_/no  :: Midtre jura
-#has_/name_/pl  :: Środkowa Jura
-#has_/name_/pt  :: Jurássico Médio
-#has_/name_/sk  :: stredná jura
-#has_/name_/sl  :: srednja jura
-#has_/name_/sv  :: mellersta jura
-#has_/name_/zh  :: 中侏罗世
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: J2
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -174.7e6 
-#has_/time_/stopped :: -161.5e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 59 
 
-#has_/text_of_/color :: 0x80CFD8
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

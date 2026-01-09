@@ -8,11 +8,11 @@ aliases:
   - 1960-Northern Ireland Conflict+1998
 has_id_wikidata: Q815436
 instance_of:
-  - '[[_Standards/WikiData/WD~ethnic_conflict,766875]]'
-  - '[[_Standards/WikiData/WD~sectarian_violence,3774758]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-location: '[[_Standards/WikiData/WD~Northern_Ireland,26]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+  - "[[_Standards/WikiData/WD~ethnic_conflict,766875]]"
+  - "[[_Standards/WikiData/WD~sectarian_violence,3774758]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
+location: "[[_Standards/WikiData/WD~Northern_Ireland,26]]"
+country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 number_of_deaths: 3532
 number_of_injured: 47541
 start_time: 1960-01-01T00:00:00Z
@@ -20,6 +20,25 @@ point_in_time: 1998-01-01T00:00:00Z
 end_time: 1998-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dsc1877ne2.jpg
 Commons_category: Northern Ireland Troubles
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~The_Troubles,815436|WD~The_Troubles,815436]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998|1960-Northern_Ireland_Conflict+1998]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.public|1960-Northern_Ireland_Conflict+1998.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.internal|1960-Northern_Ireland_Conflict+1998.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.protect|1960-Northern_Ireland_Conflict+1998.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.private|1960-Northern_Ireland_Conflict+1998.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.personal|1960-Northern_Ireland_Conflict+1998.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.secret|1960-Northern_Ireland_Conflict+1998.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~The_Troubles,815436|WD~The_Troubles,815436]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998|1960-Northern_Ireland_Conflict+1998]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.public|1960-Northern_Ireland_Conflict+1998.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.internal|1960-Northern_Ireland_Conflict+1998.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.protect|1960-Northern_Ireland_Conflict+1998.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.private|1960-Northern_Ireland_Conflict+1998.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.personal|1960-Northern_Ireland_Conflict+1998.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1960-Northern_Ireland_Conflict+1998.secret|1960-Northern_Ireland_Conflict+1998.secret]]"
 ---
 
 # [[1960-Northern_Ireland_Conflict+1998]] 

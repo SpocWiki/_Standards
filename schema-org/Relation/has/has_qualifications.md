@@ -7,37 +7,66 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - qualifications
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_qualifications
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_qualifications
 type: Predi_Relation
+dv_has_:
+  qualifications: EducationalOccupationalCredential, Text
+  domain: JobPosting, Occupation
+dv_has_qualifications: EducationalOccupationalCredential, Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_qualifications|has_qualifications]]"
+    - "[[/_public/schema-org/Relation/has/has_qualifications.public|has_qualifications.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_qualifications.internal|has_qualifications.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_qualifications.protect|has_qualifications.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_qualifications.private|has_qualifications.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_qualifications.personal|has_qualifications.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_qualifications.secret|has_qualifications.secret]]"
+dv_#has_:
+  name: is_qualifications
+  range: EducationalOccupationalCredential, Text
+dv_is_part_of: "pending:"
+dv_has_domain: JobPosting, Occupation
+dv_has_name: is_qualifications
+dv_has_range: EducationalOccupationalCredential, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_qualifications|has_qualifications]]"
+  - "[[/_public/schema-org/Relation/has/has_qualifications.public|has_qualifications.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_qualifications.internal|has_qualifications.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_qualifications.protect|has_qualifications.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_qualifications.private|has_qualifications.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_qualifications.personal|has_qualifications.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_qualifications.secret|has_qualifications.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/qualifications :: EducationalOccupationalCredential, Text ] 
-- [ has_qualifications :: EducationalOccupationalCredential, Text ] 
+- has_qualifications = `=this.dv_has_qualifications`  
+- has_qualifications = `=this.dv_has_qualifications`  
 
 Specific qualifications required for this role or Occupation.
 
 Relation describes that: 
 
-#has_/domain  :: JobPosting, Occupation  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_qualifications )
-( #has_/range :: EducationalOccupationalCredential, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -18,6 +18,86 @@ named_after: "[[_Standards/WikiData/WD~Tours,288]]"
 Commons_category: Turonian
 end_time: -89800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: C3DF79
+dv_has_:
+  duration_:
+    years: "4.100e+6"
+  previous_:
+    item: "[[Age~1~Cenomanian]]"
+  next_:
+    item: "[[Age~3~Coniacian]]"
+  name_:
+    bg: Турон
+    cs: Turon
+    da: Turonien
+    de: Turonium
+    es: Turoniense
+    et: Turoni
+    fi: Turon
+    fr: Turonien
+    hu: turon
+    it: turoniano
+    ja: チュロニアン期
+    lt: Turonis
+    nl: Tuironiën
+    no: Turonium
+    pl: Turon
+    pt: Turoniano
+    sk: turón
+    sl: turonij
+    sv: turon
+    zh: 土仑期
+  abbreviation: k2
+  time_:
+    started: "-93.9e6"
+    stopped: "-89.8e6"
+  text_of_:
+    color: "0xBFE35D"
+dv_is_:
+  same_as:
+    - "[[WD~Turonian,691429]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian|Age~2~Turonian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.public|Age~2~Turonian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.internal|Age~2~Turonian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.protect|Age~2~Turonian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.private|Age~2~Turonian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.personal|Age~2~Turonian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.secret|Age~2~Turonian.secret]]"
+dv_has_duration_years: "4.100e+6"
+dv_has_previous_item: "[[Age~1~Cenomanian]]"
+dv_has_next_item: "[[Age~3~Coniacian]]"
+dv_is_same_as:
+  - "[[WD~Turonian,691429]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian|Age~2~Turonian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.public|Age~2~Turonian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.internal|Age~2~Turonian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.protect|Age~2~Turonian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.private|Age~2~Turonian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.personal|Age~2~Turonian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~2~Turonian.secret|Age~2~Turonian.secret]]"
+dv_has_name_bg: Турон
+dv_has_name_cs: Turon
+dv_has_name_da: Turonien
+dv_has_name_de: Turonium
+dv_has_name_es: Turoniense
+dv_has_name_et: Turoni
+dv_has_name_fi: Turon
+dv_has_name_fr: Turonien
+dv_has_name_hu: turon
+dv_has_name_it: turoniano
+dv_has_name_ja: チュロニアン期
+dv_has_name_lt: Turonis
+dv_has_name_nl: Tuironiën
+dv_has_name_no: Turonium
+dv_has_name_pl: Turon
+dv_has_name_pt: Turoniano
+dv_has_name_sk: turón
+dv_has_name_sl: turonij
+dv_has_name_sv: turon
+dv_has_name_zh: 土仑期
+dv_has_abbreviation: k2
+dv_has_time_started: "-93.9e6"
+dv_has_time_stopped: "-89.8e6"
+dv_has_text_of_color: "0xBFE35D"
 ---
 # [[Age~2~Turonian]] 
 
@@ -25,10 +105,10 @@ sRGB_color_hex_triplet: C3DF79
 
 A time period from 93.9 to 89.8 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Cenomanian]] 
-#has_/next_/item :: [[Age~3~Coniacian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Turonian,691429]] 
 
 ## #has_/text_of_/abstract 
@@ -38,35 +118,35 @@ A time period from 93.9 to 89.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Turonian) 
 
 
-#has_/name_/bg  :: Турон
-#has_/name_/cs  :: Turon
-#has_/name_/da  :: Turonien
-#has_/name_/de  :: Turonium
-#has_/name_/es  :: Turoniense
-#has_/name_/et  :: Turoni
-#has_/name_/fi  :: Turon
-#has_/name_/fr  :: Turonien
-#has_/name_/hu  :: turon
-#has_/name_/it  :: turoniano
-#has_/name_/ja  :: チュロニアン期
-#has_/name_/lt  :: Turonis
-#has_/name_/nl  :: Tuironiën
-#has_/name_/no  :: Turonium
-#has_/name_/pl  :: Turon
-#has_/name_/pt  :: Turoniano
-#has_/name_/sk  :: turón
-#has_/name_/sl  :: turonij
-#has_/name_/sv  :: turon
-#has_/name_/zh  :: 土仑期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: k2
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -93.9e6 
-#has_/time_/stopped :: -89.8e6  
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 40 
 
-#has_/text_of_/color :: 0xBFE35D
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

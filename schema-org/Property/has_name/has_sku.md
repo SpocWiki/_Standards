@@ -9,39 +9,69 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - sku
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_sku
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_sku
 type: Pred_Text
+dv_has_:
+  text_of_:
+    sku: Text
+  domain: Demand, Offer, Product
+dv_has_text_of_sku: Text
+dv_#has_:
+  name: has_text_of_sku
+  range: Text
+dv_is_:
+  sub_property_of: identifier
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_sku|has_sku]]"
+    - "[[/_public/schema-org/Property/has_name/has_sku.public|has_sku.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_sku.internal|has_sku.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_sku.protect|has_sku.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_sku.private|has_sku.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_sku.personal|has_sku.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_sku.secret|has_sku.secret]]"
+dv_has_domain: Demand, Offer, Product
+dv_has_name: has_text_of_sku
+dv_has_range: Text
+dv_is_sub_property_of: identifier
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_sku|has_sku]]"
+  - "[[/_public/schema-org/Property/has_name/has_sku.public|has_sku.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_sku.internal|has_sku.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_sku.protect|has_sku.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_sku.private|has_sku.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_sku.personal|has_sku.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_sku.secret|has_sku.secret]]"
 ---
 
 Predicate to describe the Text of Demand, Offer, Product.
 
 Use it like this: 
-- [has_/text_of_/sku :: Text ] 
-- [ has_text_of_sku :: Text ] 
+- has_text_of_sku = `=this.dv_has_text_of_sku`  
+- has_text_of_sku = `=this.dv_has_text_of_sku`  
 
 The Stock Keeping Unit (SKU), i.e. a merchant-specific identifier for a product or service, or the product to which the offer refers.
 
 Predicated describes that: 
 
-#has_/domain  :: Demand, Offer, Product  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_sku )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: identifier  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

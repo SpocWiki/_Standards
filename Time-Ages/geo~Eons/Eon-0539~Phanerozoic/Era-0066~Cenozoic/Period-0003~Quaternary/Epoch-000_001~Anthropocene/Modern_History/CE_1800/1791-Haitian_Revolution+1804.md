@@ -6,13 +6,13 @@ aliases:
   - 1791-Haitian_Revolution+1804
   - 1791-Haitian Revolution+1804
 has_id_wikidata: Q689128
-locations: '[[_Standards/WikiData/WD~Saint_Domingue,861551]]'
-country: '[[_Standards/WikiData/WD~Saint_Domingue,861551]]'
+locations: "[[_Standards/WikiData/WD~Saint_Domingue,861551]]"
+country: "[[_Standards/WikiData/WD~Saint_Domingue,861551]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~slave_rebellion,1155622]]'
-  - '[[_Standards/WikiData/WD~revolution,10931]]'
-part_of: '[[_Standards/WikiData/WD~Atlantic_Revolutions,3108868]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+  - "[[_Standards/WikiData/WD~slave_rebellion,1155622]]"
+  - "[[_Standards/WikiData/WD~revolution,10931]]"
+part_of: "[[_Standards/WikiData/WD~Atlantic_Revolutions,3108868]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20for%20Palm%20Tree%20Hill.jpg
 point_in_time: 1804-01-01T00:00:00Z
 end_time: 1804-01-01T00:00:00Z
@@ -20,6 +20,25 @@ start_time: 1791-08-14T00:00:00Z
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Revolucion%20Haitiana.png
 Commons_category: Haitian Revolution
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "HaitianRevolutionBegins1791"]
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Haitian_Revolution,689128]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804|1791-Haitian_Revolution+1804]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.public|1791-Haitian_Revolution+1804.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.internal|1791-Haitian_Revolution+1804.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.protect|1791-Haitian_Revolution+1804.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.private|1791-Haitian_Revolution+1804.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.personal|1791-Haitian_Revolution+1804.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.secret|1791-Haitian_Revolution+1804.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Haitian_Revolution,689128]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804|1791-Haitian_Revolution+1804]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.public|1791-Haitian_Revolution+1804.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.internal|1791-Haitian_Revolution+1804.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.protect|1791-Haitian_Revolution+1804.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.private|1791-Haitian_Revolution+1804.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.personal|1791-Haitian_Revolution+1804.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1791-Haitian_Revolution+1804.secret|1791-Haitian_Revolution+1804.secret]]"
 ---
 
 # [[1791-Haitian_Revolution+1804]] 

@@ -7,37 +7,66 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - opponent
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_opponent
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_opponent
 type: Predi_Relation
+dv_has_:
+  opponent: Person
+  domain: ExerciseAction
+dv_has_opponent: Person
+dv_#has_:
+  name: has_opponent
+  range: Person
+dv_is_:
+  sub_property_of: participant
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_participants/has_opponent|has_opponent]]"
+    - "[[/_public/schema-org/Relation/has/has_participants/has_opponent.public|has_opponent.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_participants/has_opponent.internal|has_opponent.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_participants/has_opponent.protect|has_opponent.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_participants/has_opponent.private|has_opponent.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_participants/has_opponent.personal|has_opponent.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_participants/has_opponent.secret|has_opponent.secret]]"
+dv_has_domain: ExerciseAction
+dv_has_name: has_opponent
+dv_has_range: Person
+dv_is_sub_property_of: participant
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_participants/has_opponent|has_opponent]]"
+  - "[[/_public/schema-org/Relation/has/has_participants/has_opponent.public|has_opponent.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_participants/has_opponent.internal|has_opponent.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_participants/has_opponent.protect|has_opponent.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_participants/has_opponent.private|has_opponent.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_participants/has_opponent.personal|has_opponent.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_participants/has_opponent.secret|has_opponent.secret]]"
 ---
 
 Use it like this: 
-- [has_/opponent :: Person ] 
-- [ has_opponent :: Person ] 
+- has_opponent = `=this.dv_has_opponent`  
+- has_opponent = `=this.dv_has_opponent`  
 
 A sub property of participant. The opponent on this action.
 
 Relation describes that: 
 
-#has_/domain  :: ExerciseAction  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_opponent )
-( #has_/range :: Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/sub_property_of  :: participant  
+is_sub_property_of = `=this.dv_is_sub_property_of` 
 
 ## Confidential Links & Embeds: 
 

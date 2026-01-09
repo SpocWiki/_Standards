@@ -10,38 +10,67 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - published
   - by
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_published_by
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_published_by
 type: Predi_Relation
+dv_is_:
+  published_by: Organization, Person
+  part_of: https://bib.schema.org
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_published_by|is_published_by]]"
+    - "[[/_public/schema-org/Relation/is/is_published_by.public|is_published_by.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_published_by.internal|is_published_by.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_published_by.protect|is_published_by.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_published_by.private|is_published_by.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_published_by.personal|is_published_by.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_published_by.secret|is_published_by.secret]]"
+dv_is_published_by: Organization, Person
+dv_has_:
+  domain: PublicationEvent
+dv_#has_:
+  name: is_published_by
+  range: Organization, Person
+dv_is_part_of: https://bib.schema.org
+dv_has_domain: PublicationEvent
+dv_has_name: is_published_by
+dv_has_range: Organization, Person
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_published_by|is_published_by]]"
+  - "[[/_public/schema-org/Relation/is/is_published_by.public|is_published_by.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_published_by.internal|is_published_by.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_published_by.protect|is_published_by.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_published_by.private|is_published_by.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_published_by.personal|is_published_by.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_published_by.secret|is_published_by.secret]]"
 ---
 
-#is_/part_of :: https://bib.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [is_/published_by :: Organization, Person ] 
-- [ is_published_by :: Organization, Person ] 
+- is_published_by = `=this.dv_is_published_by`  
+- is_published_by = `=this.dv_is_published_by`  
 
 An agent associated with the publication event.
 
 Relation describes that: 
 
-#has_/domain  :: PublicationEvent  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_published_by )
-( #has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

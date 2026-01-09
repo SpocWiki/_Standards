@@ -33,15 +33,95 @@ start_time: -485400000-01-01T00:00:00Z
 coordinate_location: Point(-57.9653 49.6829)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rock%20of%20Skiddaw%20Group%20Scawgill.jpg
 sRGB_color_hex_triplet: 00B698
+dv_has_:
+  duration_:
+    years: "7.700e+6"
+  previous_:
+    item: "[[../../Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]"
+  next_:
+    item: "[[Age-477~Floian]]"
+  name_:
+    bg: Тремадок
+    cs: Tremadok
+    da: Tremadocien
+    de: Tremadocium
+    es: Tremadociense
+    et: Tremadoci
+    fi: Tremadoc
+    fr: Trémadocien
+    hu: tremadoci
+    it: tremadociano
+    ja: トレマドキアン期
+    lt: Tremadokis
+    nl: Tremadociën
+    no: Tremadoc
+    pl: Tremadok
+    pt: Tremadociano
+    sk: tremadok
+    sl: tremadocij
+    sv: tremadoc
+    zh: 特马豆克期
+  abbreviation: o1
+  time_:
+    started: "-485.4e6"
+    stopped: "-477.7e6"
+  text_of_:
+    color: "0x33A97E"
+dv_is_:
+  same_as:
+    - "[[WD~Tremadocian,1267676]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.public|Age-485~Tremadocian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.internal|Age-485~Tremadocian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.protect|Age-485~Tremadocian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.private|Age-485~Tremadocian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.personal|Age-485~Tremadocian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.secret|Age-485~Tremadocian.secret]]"
+dv_has_duration_years: "7.700e+6"
+dv_has_previous_item: "[[../../Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]"
+dv_has_next_item: "[[Age-477~Floian]]"
+dv_is_same_as:
+  - "[[WD~Tremadocian,1267676]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.public|Age-485~Tremadocian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.internal|Age-485~Tremadocian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.protect|Age-485~Tremadocian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.private|Age-485~Tremadocian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.personal|Age-485~Tremadocian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian.secret|Age-485~Tremadocian.secret]]"
+dv_has_name_bg: Тремадок
+dv_has_name_cs: Tremadok
+dv_has_name_da: Tremadocien
+dv_has_name_de: Tremadocium
+dv_has_name_es: Tremadociense
+dv_has_name_et: Tremadoci
+dv_has_name_fi: Tremadoc
+dv_has_name_fr: Trémadocien
+dv_has_name_hu: tremadoci
+dv_has_name_it: tremadociano
+dv_has_name_ja: トレマドキアン期
+dv_has_name_lt: Tremadokis
+dv_has_name_nl: Tremadociën
+dv_has_name_no: Tremadoc
+dv_has_name_pl: Tremadok
+dv_has_name_pt: Tremadociano
+dv_has_name_sk: tremadok
+dv_has_name_sl: tremadocij
+dv_has_name_sv: tremadoc
+dv_has_name_zh: 特马豆克期
+dv_has_abbreviation: o1
+dv_has_time_started: "-485.4e6"
+dv_has_time_stopped: "-477.7e6"
+dv_has_text_of_color: "0x33A97E"
 ---
 # [[Age-485~Tremadocian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]] 
-#has_/next_/item :: [[Age-477~Floian]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Tremadocian,1267676]]  
 
 A time period from 485.4 to 477.7 million years ago. 
@@ -55,34 +135,34 @@ A time period from 485.4 to 477.7 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Tremadocian) 
 
 
-#has_/name_/bg  :: Тремадок
-#has_/name_/cs  :: Tremadok
-#has_/name_/da  :: Tremadocien
-#has_/name_/de  :: Tremadocium
-#has_/name_/es  :: Tremadociense
-#has_/name_/et  :: Tremadoci
-#has_/name_/fi  :: Tremadoc
-#has_/name_/fr  :: Trémadocien
-#has_/name_/hu  :: tremadoci
-#has_/name_/it  :: tremadociano
-#has_/name_/ja  :: トレマドキアン期
-#has_/name_/lt  :: Tremadokis
-#has_/name_/nl  :: Tremadociën
-#has_/name_/no  :: Tremadoc
-#has_/name_/pl  :: Tremadok
-#has_/name_/pt  :: Tremadociano
-#has_/name_/sk  :: tremadok
-#has_/name_/sl  :: tremadocij
-#has_/name_/sv  :: tremadoc
-#has_/name_/zh  :: 特马豆克期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: o1
-#has_/time_/started :: -485.4e6 
-#has_/time_/stopped :: -477.7e6 
+has_abbreviation = `=this.dv_has_abbreviation` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 141 
 
-#has_/text_of_/color :: 0x33A97E
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

@@ -13,19 +13,91 @@ end_time: -9700-01-01T00:00:00Z
 Commons_category: Late Pleistocene
 start_time: -129000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FFF2D3
+dv_has_:
+  time_:
+    started: "-129.0e3"
+    stopped: "-11.7e3"
+  duration_:
+    years: 117300
+  previous_:
+    item: "[[Age~3~Chibanian]]"
+  next_:
+    item: "[[../Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]"
+  name_:
+    bg: Къѿен плейѿтоцен
+    cs: Pozdní pleistocén
+    da: Sen Pleistocæn
+    de: Spätes Pleistozän
+    et: Hiline pleistotseen
+    fi: Myöhäis-Pleistoseeni
+    hu: késő pleisztocén
+    ja: 後期更新世
+    lt: Apatinis Pleistocenas
+    nl: Laat Pleistoceen
+    no: Yngre pleistocen
+    pl: Późny Plejstocen
+    sk: mladší pleistocén
+    sl: pozni pleistocen
+    sv: yngre pleistocen
+    zh: 晚更新世
+  abbreviation: q4
+  text_of_:
+    color: "0xFFF2D3"
+dv_is_:
+  same_as:
+    - "[[WD~Late_Pleistocene,498831 ]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.public|Age~4~Late_Pleistocene.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.internal|Age~4~Late_Pleistocene.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.protect|Age~4~Late_Pleistocene.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.private|Age~4~Late_Pleistocene.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.personal|Age~4~Late_Pleistocene.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.secret|Age~4~Late_Pleistocene.secret]]"
+dv_has_time_started: "-129.0e3"
+dv_has_time_stopped: "-11.7e3"
+dv_has_duration_years: 117300
+dv_has_previous_item: "[[Age~3~Chibanian]]"
+dv_has_next_item: "[[../Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]"
+dv_is_same_as:
+  - "[[WD~Late_Pleistocene,498831 ]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.public|Age~4~Late_Pleistocene.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.internal|Age~4~Late_Pleistocene.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.protect|Age~4~Late_Pleistocene.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.private|Age~4~Late_Pleistocene.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.personal|Age~4~Late_Pleistocene.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene.secret|Age~4~Late_Pleistocene.secret]]"
+dv_has_name_bg: Къѿен плейѿтоцен
+dv_has_name_cs: Pozdní pleistocén
+dv_has_name_da: Sen Pleistocæn
+dv_has_name_de: Spätes Pleistozän
+dv_has_name_et: Hiline pleistotseen
+dv_has_name_fi: Myöhäis-Pleistoseeni
+dv_has_name_hu: késő pleisztocén
+dv_has_name_ja: 後期更新世
+dv_has_name_lt: Apatinis Pleistocenas
+dv_has_name_nl: Laat Pleistoceen
+dv_has_name_no: Yngre pleistocen
+dv_has_name_pl: Późny Plejstocen
+dv_has_name_sk: mladší pleistocén
+dv_has_name_sl: pozni pleistocen
+dv_has_name_sv: yngre pleistocen
+dv_has_name_zh: 晚更新世
+dv_has_abbreviation: q4
+dv_has_text_of_color: "0xFFF2D3"
 ---
 
 # [[Age~4~Late_Pleistocene]] 
 
 #is_a_/time_/Age 
 
-#has_/time_/started :: -129.0e3 
-#has_/time_/stopped ::  -11.7e3 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started))` 
 
-#has_/previous_/item :: [[Age~3~Chibanian]]   
-#has_/next_/item :: [[../Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Late_Pleistocene,498831 ]] 
 
 A time period from 129 to 11.7 thousand years ago, right before the [[../../../../../../../Knowledge/Economy/Agricultural_Revolution|Agricultural_Revolution]]. [[../../../../../../bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo/Homo_sapiens|Homo_sapiens]] developed and migrated out of [[../../../../../../Earth/Continent/Africa|Africa]]. 
@@ -47,28 +119,28 @@ A time period from 129 to 11.7 thousand years ago, right before the [[../../../.
 > [Wikipedia](https://en.wikipedia.org/wiki/Late%20Pleistocene) 
 
 
-#has_/name_/bg  :: Къѿен плейѿтоцен
-#has_/name_/cs  :: Pozdní pleistocén
-#has_/name_/da  :: Sen Pleistocæn
-#has_/name_/de  :: Spätes Pleistozän
-#has_/name_/et  :: Hiline pleistotseen
-#has_/name_/fi  :: Myöhäis-Pleistoseeni
-#has_/name_/hu  :: késő pleisztocén
-#has_/name_/ja  :: 後期更新世
-#has_/name_/lt  :: Apatinis Pleistocenas
-#has_/name_/nl  :: Laat Pleistoceen
-#has_/name_/no  :: Yngre pleistocen
-#has_/name_/pl  :: Późny Plejstocen
-#has_/name_/sk  :: mladší pleistocén
-#has_/name_/sl  :: pozni pleistocen
-#has_/name_/sv  :: yngre pleistocen
-#has_/name_/zh  :: 晚更新世
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: q4
+has_abbreviation = `=this.dv_has_abbreviation` 
 
     sh:order 5 
 
-#has_/text_of_/color :: 0xFFF2D3
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

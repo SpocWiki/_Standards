@@ -5,9 +5,9 @@ aliases:
   - instanceOf
   - is_instance_of
   - rdf~type
-  - 'rdf: type'
+  - "rdf: type"
   - typeof
-  - '@type'
+  - "@type"
   - is_a
   - is_an
   - itemtype
@@ -20,21 +20,52 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 fileClass:
   - FileClass-Relation
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_instance_of
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - schema-org/Relation
 title: is_instance_of
 type: Predi_Relation
+dv_is_:
+  instance_of: Class
+  inverse_of: "[[has_instances]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_instance_of|is_instance_of]]"
+    - "[[/_public/schema-org/Class/is_instance_of.public|is_instance_of.public]]"
+    - "[[/_internal/schema-org/Class/is_instance_of.internal|is_instance_of.internal]]"
+    - "[[/_protect/schema-org/Class/is_instance_of.protect|is_instance_of.protect]]"
+    - "[[/_private/schema-org/Class/is_instance_of.private|is_instance_of.private]]"
+    - "[[/_personal/schema-org/Class/is_instance_of.personal|is_instance_of.personal]]"
+    - "[[/_secret/schema-org/Class/is_instance_of.secret|is_instance_of.secret]]"
+dv_#is_a_: Class
+dv_is_instance_of: Class
+dv_has_:
+  domain: "[[Thing]]"
+dv_#has_:
+  name: is_instance_of
+  range: Class
+dv_is_a_: Class
+dv_is_inverse_of: "[[has_instances]]"
+dv_has_domain: "[[Thing]]"
+dv_has_name: is_instance_of
+dv_has_range: Class
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_instance_of|is_instance_of]]"
+  - "[[/_public/schema-org/Class/is_instance_of.public|is_instance_of.public]]"
+  - "[[/_internal/schema-org/Class/is_instance_of.internal|is_instance_of.internal]]"
+  - "[[/_protect/schema-org/Class/is_instance_of.protect|is_instance_of.protect]]"
+  - "[[/_private/schema-org/Class/is_instance_of.private|is_instance_of.private]]"
+  - "[[/_personal/schema-org/Class/is_instance_of.personal|is_instance_of.personal]]"
+  - "[[/_secret/schema-org/Class/is_instance_of.secret|is_instance_of.secret]]"
 ---
 
 # [Class](../../Classes.md)-[Thing](Thing.md) Relationship 
@@ -51,7 +82,7 @@ Unlike the untyped, finite [[../Collection/is_item_in|is_element_of]] Relation,
 or the typed, finite [[../Composite/is_part_of|is_part_of]] Relation 
 this is an infinite, typed Relation. 
 
-#is_/inverse_of :: [[has_instances]] 
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 Verbs: 
 - rdf:type for XML-RDF
@@ -67,9 +98,9 @@ Verbs:
 - [[../Relation/is/is_member_of|is_member_of]] 
 
 ## Use it like this: 
-- [is_/instance_of :: Class] 
-- [ #is_a_ :: Class] 
-- [ is_instance_of :: Class]  
+- is_instance_of = `=this.dv_is_instance_of`  
+- #is_a_ = `=this.dv_#is_a_`  
+- is_instance_of = `=this.dv_is_instance_of`   
 for Objects
 Do __not__ flex the predicate when the Class starts with a Vowel like so is_an_ ant!
 
@@ -81,10 +112,10 @@ to the actual Class Definition harder.
 
 ## Relation describes that: 
 
-#has_/domain  :: [[Thing]] 
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_instance_of)
-( #has_/range :: Class)
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

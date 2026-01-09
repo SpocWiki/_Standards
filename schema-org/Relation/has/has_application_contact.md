@@ -7,39 +7,68 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - application
   - contact
   - applicationContact
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_application_contact
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_application_contact
 type: Predi_Relation
+dv_has_:
+  application_contact: ContactPoint
+  domain: JobPosting
+dv_has_application_contact: ContactPoint
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_application_contact|has_application_contact]]"
+    - "[[/_public/schema-org/Relation/has/has_application_contact.public|has_application_contact.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_application_contact.internal|has_application_contact.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_application_contact.protect|has_application_contact.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_application_contact.private|has_application_contact.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_application_contact.personal|has_application_contact.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_application_contact.secret|has_application_contact.secret]]"
+dv_#has_:
+  name: has_application_contact
+  range: ContactPoint
+dv_is_part_of: "pending:"
+dv_has_domain: JobPosting
+dv_has_name: has_application_contact
+dv_has_range: ContactPoint
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_application_contact|has_application_contact]]"
+  - "[[/_public/schema-org/Relation/has/has_application_contact.public|has_application_contact.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_application_contact.internal|has_application_contact.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_application_contact.protect|has_application_contact.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_application_contact.private|has_application_contact.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_application_contact.personal|has_application_contact.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_application_contact.secret|has_application_contact.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/application_contact :: ContactPoint ] 
-- [ has_application_contact :: ContactPoint ] 
+- has_application_contact = `=this.dv_has_application_contact`  
+- has_application_contact = `=this.dv_has_application_contact`  
 
 Contact details for further information relevant to this job posting.
 
 Relation describes that: 
 
-#has_/domain  :: JobPosting  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_application_contact )
-( #has_/range :: ContactPoint )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

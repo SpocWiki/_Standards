@@ -13,41 +13,73 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - description
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_description
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_description
 type: Pred_Text
+dv_has_:
+  text_of_:
+    description: Text
+  domain: "[Thing](../../Class/Thing.md)"
+  sub_properties: "[ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ]"
+dv_has_text_of_description: Text
+dv_#has_:
+  name: has_text_of_description
+  range: Text
+dv_is_:
+  inverse_of: "[[is_describing]]"
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_description|has_description]]"
+    - "[[/_public/schema-org/Property/Texts/has_description.public|has_description.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_description.internal|has_description.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_description.protect|has_description.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_description.private|has_description.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_description.personal|has_description.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_description.secret|has_description.secret]]"
+dv_has_domain: "[Thing](../../Class/Thing.md)"
+dv_has_name: has_text_of_description
+dv_has_range: Text
+dv_has_sub_properties: "[ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ]"
+dv_is_inverse_of: "[[is_describing]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_description|has_description]]"
+  - "[[/_public/schema-org/Property/Texts/has_description.public|has_description.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_description.internal|has_description.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_description.protect|has_description.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_description.private|has_description.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_description.personal|has_description.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_description.secret|has_description.secret]]"
 ---
 
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- [has_/text_of_/description :: Text ] 
-- [ has_text_of_description :: Text ] 
+- has_text_of_description = `=this.dv_has_text_of_description`  
+- has_text_of_description = `=this.dv_has_text_of_description`  
 
 A description of the item.
 
 Predicated describes that: 
 
-#has_/domain  :: [Thing](../../Class/Thing.md)  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: has_text_of_description )
-( #has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ]  
+has_sub_properties = `=this.dv_has_sub_properties` 
 
-#is_/inverse_of :: [[is_describing]] 
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 
 ## Confidential Links & Embeds: 

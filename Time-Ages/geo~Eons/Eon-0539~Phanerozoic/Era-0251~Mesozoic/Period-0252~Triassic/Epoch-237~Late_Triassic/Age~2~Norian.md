@@ -14,15 +14,95 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Otisk%20stopy%20ceskeh
 sRGB_color_hex_triplet: DDB4D1
 Commons_category: Norian
 start_time: -227000000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "1.850e+7"
+  previous_:
+    item: "[[Age~1~Carnian]]"
+  next_:
+    item: "[[Age~3~Rhaetian]]"
+  name_:
+    bg: пор
+    cs: Nor
+    da: Norien
+    de: Norium
+    es: Noriense
+    et: Nori
+    fi: Nor
+    fr: Norien
+    hu: nori
+    it: norico
+    ja: ノーリアン期
+    lt: Noris
+    nl: Noriën
+    no: Nor
+    pl: Noryk
+    pt: Noriano
+    sk: norik
+    sl: norij
+    sv: nor
+    zh: 诺利克期
+  abbreviation: t6
+  time_:
+    started: "-227.0e6"
+    stopped: "-208.5e6"
+  text_of_:
+    color: "0xD6AAD3"
+dv_is_:
+  same_as:
+    - "[[WD~Norian,1080207]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian|Age~2~Norian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.public|Age~2~Norian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.internal|Age~2~Norian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.protect|Age~2~Norian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.private|Age~2~Norian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.personal|Age~2~Norian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.secret|Age~2~Norian.secret]]"
+dv_has_duration_years: "1.850e+7"
+dv_has_previous_item: "[[Age~1~Carnian]]"
+dv_has_next_item: "[[Age~3~Rhaetian]]"
+dv_is_same_as:
+  - "[[WD~Norian,1080207]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian|Age~2~Norian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.public|Age~2~Norian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.internal|Age~2~Norian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.protect|Age~2~Norian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.private|Age~2~Norian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.personal|Age~2~Norian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~2~Norian.secret|Age~2~Norian.secret]]"
+dv_has_name_bg: пор
+dv_has_name_cs: Nor
+dv_has_name_da: Norien
+dv_has_name_de: Norium
+dv_has_name_es: Noriense
+dv_has_name_et: Nori
+dv_has_name_fi: Nor
+dv_has_name_fr: Norien
+dv_has_name_hu: nori
+dv_has_name_it: norico
+dv_has_name_ja: ノーリアン期
+dv_has_name_lt: Noris
+dv_has_name_nl: Noriën
+dv_has_name_no: Nor
+dv_has_name_pl: Noryk
+dv_has_name_pt: Noriano
+dv_has_name_sk: norik
+dv_has_name_sl: norij
+dv_has_name_sv: nor
+dv_has_name_zh: 诺利克期
+dv_has_abbreviation: t6
+dv_has_time_started: "-227.0e6"
+dv_has_time_stopped: "-208.5e6"
+dv_has_text_of_color: "0xD6AAD3"
 ---
 # [[Age~2~Norian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Carnian]] 
-#has_/next_/item :: [[Age~3~Rhaetian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Norian,1080207]] 
 
 A time period from 227 to 208.5 million years ago. 
@@ -41,35 +121,35 @@ A time period from 227 to 208.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Norian) 
 
 
-#has_/name_/bg  :: пор
-#has_/name_/cs  :: Nor
-#has_/name_/da  :: Norien
-#has_/name_/de  :: Norium
-#has_/name_/es  :: Noriense
-#has_/name_/et  :: Nori
-#has_/name_/fi  :: Nor
-#has_/name_/fr  :: Norien
-#has_/name_/hu  :: nori
-#has_/name_/it  :: norico
-#has_/name_/ja  :: ノーリアン期
-#has_/name_/lt  :: Noris
-#has_/name_/nl  :: Noriën
-#has_/name_/no  :: Nor
-#has_/name_/pl  :: Noryk
-#has_/name_/pt  :: Noriano
-#has_/name_/sk  :: norik
-#has_/name_/sl  :: norij
-#has_/name_/sv  :: nor
-#has_/name_/zh  :: 诺利克期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: t6
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -227.0e6 
-#has_/time_/stopped :: -208.5e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 67 
 
-#has_/text_of_/color :: 0xD6AAD3
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

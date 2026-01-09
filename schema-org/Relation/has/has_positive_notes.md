@@ -11,33 +11,67 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - positive_notes
   - positive
   - notes
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_positive_notes
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_positive_notes
 type: Predi_Relation
+dv_has_:
+  positive_notes: ItemList, ListItem, Text, WebContent
+  dual_:
+    property: "[[has_negative_notes]]"
+  domain: Product, Review
+dv_has_positive_notes: ItemList, ListItem, Text, WebContent
+dv_is_:
+  part_of: "pending:"
+  similar_to: "#has_/Pros"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_positive_notes|has_positive_notes]]"
+    - "[[/_public/schema-org/Relation/has/has_positive_notes.public|has_positive_notes.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_positive_notes.internal|has_positive_notes.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_positive_notes.protect|has_positive_notes.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_positive_notes.private|has_positive_notes.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_positive_notes.personal|has_positive_notes.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_positive_notes.secret|has_positive_notes.secret]]"
+dv_#has_:
+  name: is_positive_notes
+  range: ItemList, ListItem, Text, WebContent
+dv_is_part_of: "pending:"
+dv_is_similar_to: "#has_/Pros"
+dv_has_dual_property: "[[has_negative_notes]]"
+dv_has_domain: Product, Review
+dv_has_name: is_positive_notes
+dv_has_range: ItemList, ListItem, Text, WebContent
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_positive_notes|has_positive_notes]]"
+  - "[[/_public/schema-org/Relation/has/has_positive_notes.public|has_positive_notes.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_positive_notes.internal|has_positive_notes.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_positive_notes.protect|has_positive_notes.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_positive_notes.private|has_positive_notes.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_positive_notes.personal|has_positive_notes.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_positive_notes.secret|has_positive_notes.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
-#is_/similar_to :: #has_/Pros 
-#has_/dual_/property  :: [[has_negative_notes]] 
+is_similar_to = `=this.dv_is_similar_to` 
+has_dual_property = `=this.dv_has_dual_property` 
 
 Use it like this: 
-- [has_/positive_notes :: ItemList, ListItem, Text, WebContent ] 
-- [ has_positive_notes :: ItemList, ListItem, Text, WebContent ] 
+- has_positive_notes = `=this.dv_has_positive_notes`  
+- has_positive_notes = `=this.dv_has_positive_notes`  
 
 Provides positive considerations regarding something, for example product highlights or (alongside [[negativeNotes]]) pro/con lists for reviews.
 
@@ -51,10 +85,10 @@ The property values can be expressed either as unstructured text (repeated as ne
 
 Relation describes that: 
 
-#has_/domain  :: Product, Review  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_positive_notes )
-( #has_/range :: ItemList, ListItem, Text, WebContent )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -13,22 +13,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - member
   - of
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_member_of
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_member_of
 type: Predi_Relation
+dv_is_:
+  member_:
+    of:
+      - "[[../../../Class/is_a_/organization]]"
+      - "[[../../Class/is_a_/Intangible/Program_Membership]]"
+  inverse_of: "[[../has/has_member]]"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_member_of|is_member_of]]"
+    - "[[/_public/schema-org/Relation/is/is_member_of.public|is_member_of.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_member_of.internal|is_member_of.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_member_of.protect|is_member_of.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_member_of.private|is_member_of.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_member_of.personal|is_member_of.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_member_of.secret|is_member_of.secret]]"
+dv_is_member_of:
+  - "[[../../../Class/is_a_/organization]]"
+  - "[[../../Class/is_a_/Intangible/Program_Membership]]"
+dv_has_:
+  domain: Organization, Person
+  sub_properties: "[[../has/has_affiliation_with]]"
+dv_#has_:
+  name: is_member_of
+  range:
+    - "[[../../../Class/is_a_/organization]]"
+    - "[[../../Class/is_a_/Intangible/Program_Membership]]"
+dv_has_domain: Organization, Person
+dv_has_name: is_member_of
+dv_has_range:
+  - "[[../../../Class/is_a_/organization]]"
+  - "[[../../Class/is_a_/Intangible/Program_Membership]]"
+dv_is_inverse_of: "[[../has/has_member]]"
+dv_has_sub_properties: "[[../has/has_affiliation_with]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_member_of|is_member_of]]"
+  - "[[/_public/schema-org/Relation/is/is_member_of.public|is_member_of.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_member_of.internal|is_member_of.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_member_of.protect|is_member_of.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_member_of.private|is_member_of.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_member_of.personal|is_member_of.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_member_of.secret|is_member_of.secret]]"
 ---
 
 Use it like this: 
@@ -49,14 +89,14 @@ An [organization](../../../Class/is_a_/organization) (or [program_membership](..
 
 Relation describes that: 
 
-#has_/domain  :: Organization, Person  
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_member_of )
+has_name = `=this.dv_has_name` 
 ( #has_/range :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] )
 
-#is_/inverse_of  :: [[has_member]]  
+is_inverse_of = `=this.dv_is_inverse_of` 
 
-#has_/sub_properties :: [[has_affiliation_with]]  
+has_sub_properties = `=this.dv_has_sub_properties` 
 
 ## Confidential Links & Embeds: 
 

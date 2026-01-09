@@ -13,20 +13,53 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_part_of
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_part_of
 type: Predi_Relation
+dv_is_:
+  part_of: "[ [[../../Society/Communication/Media/Creative_Work|CreativeWork]], [[../Class/is_a_/data_type/text/URL|URL]] ]"
+  inverse_of: "[[has_parts]]"
+  same_as:
+    - "[[/_Standards/schema-org/Composite/is_part_of|is_part_of]]"
+    - "[[/_public/schema-org/Composite/is_part_of.public|is_part_of.public]]"
+    - "[[/_internal/schema-org/Composite/is_part_of.internal|is_part_of.internal]]"
+    - "[[/_protect/schema-org/Composite/is_part_of.protect|is_part_of.protect]]"
+    - "[[/_private/schema-org/Composite/is_part_of.private|is_part_of.private]]"
+    - "[[/_personal/schema-org/Composite/is_part_of.personal|is_part_of.personal]]"
+    - "[[/_secret/schema-org/Composite/is_part_of.secret|is_part_of.secret]]"
+dv_is_part_of: "[ [[../Class/is_a_/creative_work|CreativeWork]], [[../Class/is_a_/data_type/text/url|URL]] ]"
+dv_has_:
+  domain: CreativeWork
+  sub_properties: "[ [[../Relation/is/is_in_defined_term_set|inDefinedTermSet]], [[../Relation/is/part_of/is_part_of_episode|partOfEpisode]], [[../Relation/is/part_of/is_part_of_season|partOfSeason]], [[../Relation/is/part_of/is_part_of_series|partOfSeries]] ]"
+  examples: "[[../../Technology/Transport/Road_Transport/Car]]"
+dv_#has_:
+  name: is_part_of
+  range: CreativeWork, URL
+dv_is_inverse_of: "[[has_parts]]"
+dv_has_domain: CreativeWork
+dv_has_name: is_part_of
+dv_has_range: CreativeWork, URL
+dv_has_sub_properties: "[ [[../Relation/is/is_in_defined_term_set|inDefinedTermSet]], [[../Relation/is/part_of/is_part_of_episode|partOfEpisode]], [[../Relation/is/part_of/is_part_of_season|partOfSeason]], [[../Relation/is/part_of/is_part_of_series|partOfSeries]] ]"
+dv_has_examples: "[[../../Technology/Transport/Road_Transport/Car]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Composite/is_part_of|is_part_of]]"
+  - "[[/_public/schema-org/Composite/is_part_of.public|is_part_of.public]]"
+  - "[[/_internal/schema-org/Composite/is_part_of.internal|is_part_of.internal]]"
+  - "[[/_protect/schema-org/Composite/is_part_of.protect|is_part_of.protect]]"
+  - "[[/_private/schema-org/Composite/is_part_of.private|is_part_of.private]]"
+  - "[[/_personal/schema-org/Composite/is_part_of.personal|is_part_of.personal]]"
+  - "[[/_secret/schema-org/Composite/is_part_of.secret|is_part_of.secret]]"
 ---
 
 # [Composite](../Composite.md)-[Part](Part.md) Relationship, 
@@ -35,7 +68,7 @@ which differentiates between a Product and its Parts, or Sub-Assemblies
 ---such as the relationship of a molecule to its atoms. 
 Typically [[Part]]s have a specific Role in the [[../Composite|Composite]]. 
 
-#is_/inverse_of  :: [[has_parts]] 
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 This is different from 
 - the [is_item_in](../Collection/is_item_in.md) Function that characterizes a loose Association of [[../Collection/Item|Items]] in a [[../Collection|Collection]] that may also change over time and from 
@@ -54,19 +87,19 @@ The Assembly has new (emergent) Qualities, expressed by new Methods,
 but there may also be Methods that just propagate and aggregate Element Methods. 
 
 Use it like this: 
-- [is_/part_of :: [ [[../../Society/Communication/Media/Creative_Work|CreativeWork]], [[../Class/is_a_/data_type/text/URL|URL]] ] ] 
-- [ is_part_of :: [ [[../Class/is_a_/creative_work|CreativeWork]], [[../Class/is_a_/data_type/text/url|URL]] ] ]  
+- is_part_of = `=this.dv_is_part_of` ], [[../Class/is_a_/data_type/text/URL|URL]] ] ] 
+- is_part_of = `=this.dv_is_part_of` ], [[../Class/is_a_/data_type/text/url|URL]] ] ]  
 
 Indicates an item or CreativeWork that this item, or CreativeWork (in some sense), is part of.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork 
+has_domain = `=this.dv_has_domain` 
 
-( #has_/name :: is_part_of)
-( #has_/range :: CreativeWork, URL)
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/sub_properties :: [ [[../Relation/is/is_in_defined_term_set|inDefinedTermSet]], [[../Relation/is/part_of/is_part_of_episode|partOfEpisode]], [[../Relation/is/part_of/is_part_of_season|partOfSeason]], [[../Relation/is/part_of/is_part_of_series|partOfSeries]] ]  
+has_sub_properties = `=this.dv_has_sub_properties` 
 
 ## Examples: 
 

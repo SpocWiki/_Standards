@@ -20,6 +20,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Fibules%20m%C3%A9rovin
 Krugosvet_article_archived_: istoriya/MEROVINGI.html
 Commons_category: Merovingians
 topic_s_main_category: "[[_Standards/WikiData/WD~Category_Merovingian_dynasty,7148746]]"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Merovingian_dynasty,59488]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty|Merovingian_Dynasty]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.public|Merovingian_Dynasty.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.internal|Merovingian_Dynasty.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.protect|Merovingian_Dynasty.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.private|Merovingian_Dynasty.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.personal|Merovingian_Dynasty.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.secret|Merovingian_Dynasty.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Merovingian_dynasty,59488]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty|Merovingian_Dynasty]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.public|Merovingian_Dynasty.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.internal|Merovingian_Dynasty.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.protect|Merovingian_Dynasty.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.private|Merovingian_Dynasty.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.personal|Merovingian_Dynasty.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0500/Merovingian_Dynasty.secret|Merovingian_Dynasty.secret]]"
 ---
 
 # [[Merovingian_Dynasty]] 

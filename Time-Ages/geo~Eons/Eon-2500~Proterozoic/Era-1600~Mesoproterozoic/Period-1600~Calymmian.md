@@ -29,17 +29,99 @@ end_time: -1400000000-01-01T00:00:00Z
 Commons_category: Calymmian
 start_time: -1600000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FDC07A
+dv_has_:
+  duration_:
+    years: "2.000e+8"
+  previous_:
+    item: "[[../Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]]"
+  next_:
+    item: "[[Period-1400~Ectasian]]"
+  name_:
+    bg: Калим
+    cs: Calymm
+    da: Calymmien
+    de: Calymmium
+    es: Calymmiense
+    et: Calymm
+    fi: Calym
+    fr: Calymmien
+    hu: calymmi
+    it: calymmiano
+    ja: カリミアン紀
+    lt: Kalymis
+    nl: Calymmiën
+    no: Kalymmium
+    pl: Kalym
+    pt: Calymiano
+    sk: kalymnium
+    sl: calymmij
+    sv: kalymmium
+    zh: 盖层纪
+  abbreviation: MP1
+  time_:
+    started: -1600000000
+    stopped: -1400000000
+  text_of_:
+    color: "0xFDC07A"
+dv_is_:
+  part_of: "[[../../Eon-0539~Phanerozoic/Era-0251~Mesozoic]]"
+  same_as:
+    - "[[WD~Calymmian,876805]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.public|Period-1600~Calymmian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.internal|Period-1600~Calymmian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.protect|Period-1600~Calymmian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.private|Period-1600~Calymmian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.personal|Period-1600~Calymmian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.secret|Period-1600~Calymmian.secret]]"
+dv_has_duration_years: "2.000e+8"
+dv_has_previous_item: "[[../Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]]"
+dv_has_next_item: "[[Period-1400~Ectasian]]"
+dv_is_part_of: "[[../../Eon-0539~Phanerozoic/Era-0251~Mesozoic]]"
+dv_is_same_as:
+  - "[[WD~Calymmian,876805]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian|Period-1600~Calymmian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.public|Period-1600~Calymmian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.internal|Period-1600~Calymmian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.protect|Period-1600~Calymmian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.private|Period-1600~Calymmian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.personal|Period-1600~Calymmian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1600~Calymmian.secret|Period-1600~Calymmian.secret]]"
+dv_has_name_bg: Калим
+dv_has_name_cs: Calymm
+dv_has_name_da: Calymmien
+dv_has_name_de: Calymmium
+dv_has_name_es: Calymmiense
+dv_has_name_et: Calymm
+dv_has_name_fi: Calym
+dv_has_name_fr: Calymmien
+dv_has_name_hu: calymmi
+dv_has_name_it: calymmiano
+dv_has_name_ja: カリミアン紀
+dv_has_name_lt: Kalymis
+dv_has_name_nl: Calymmiën
+dv_has_name_no: Kalymmium
+dv_has_name_pl: Kalym
+dv_has_name_pt: Calymiano
+dv_has_name_sk: kalymnium
+dv_has_name_sl: calymmij
+dv_has_name_sv: kalymmium
+dv_has_name_zh: 盖层纪
+dv_has_abbreviation: MP1
+dv_has_time_started: -1600000000
+dv_has_time_stopped: -1400000000
+dv_has_text_of_color: "0xFDC07A"
 ---
 # [[Period-1600~Calymmian]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]] 
-#has_/next_/item :: [[Period-1400~Ectasian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
-#is_/part_of :: [[../../Eon-0539~Phanerozoic/Era-0251~Mesozoic]] 
+is_part_of = `=this.dv_is_part_of` 
 #is_/same_as :: [[WD~Calymmian,876805]] 
 
 A time period from 1600 to 1400 million years ago. 
@@ -57,36 +139,36 @@ A time period from 1600 to 1400 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Calymmian) 
 
 
-#has_/name_/bg  :: Калим
-#has_/name_/cs  :: Calymm
-#has_/name_/da  :: Calymmien
-#has_/name_/de  :: Calymmium
-#has_/name_/es  :: Calymmiense
-#has_/name_/et  :: Calymm
-#has_/name_/fi  :: Calym
-#has_/name_/fr  :: Calymmien
-#has_/name_/hu  :: calymmi
-#has_/name_/it  :: calymmiano
-#has_/name_/ja  :: カリミアン紀
-#has_/name_/lt  :: Kalymis
-#has_/name_/nl  :: Calymmiën
-#has_/name_/no  :: Kalymmium
-#has_/name_/pl  :: Kalym
-#has_/name_/pt  :: Calymiano
-#has_/name_/sk  :: kalymnium
-#has_/name_/sl  :: calymmij
-#has_/name_/sv  :: kalymmium
-#has_/name_/zh  :: 盖层纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 #is_a_/time_/Period 
 
-#has_/abbreviation :: MP1
+has_abbreviation = `=this.dv_has_abbreviation` 
 
-#has_/time_/started :: -1600e6 
-#has_/time_/stopped :: -1400e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 164 
 
-#has_/text_of_/color :: 0xFDC07A
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 
