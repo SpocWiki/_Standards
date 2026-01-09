@@ -36,7 +36,9 @@ Use it like this:
 The offer(s) -- e.g., product, quantity and price combinations -- included in the order.
 
 Relation describes that: 
-[ #has_/domain  :: [[Order]] ]
+
+#has_/domain  :: [[Order]]  
+
 ( #has_/name :: has_accepted_offer )
 ( #has_/range :: [[../../../Society/Agent/Community/Organization/Business/Offer]] )
 

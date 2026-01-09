@@ -33,14 +33,13 @@ Class of all rental_vehicle_usages.
 Tag Instances like this: 
 #is_a_/rental_vehicle_usage
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Indicates the usage of the vehicle as a rental car.
 
-[ #is_/sub_class_of :: [[../CarUsageType]] ]
+#is_/sub_class_of :: [[../CarUsageType]]  
 
-[ #is_/enum_of :: [[../CarUsageType]] ]
-
+#is_/enum_of :: [[../CarUsageType]]  
 
 ## Confidential Links & Embeds: 
 

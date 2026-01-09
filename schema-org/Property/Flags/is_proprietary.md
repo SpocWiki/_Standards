@@ -37,7 +37,9 @@ Or write it as a Triple:
 True if this item's name is a proprietary/brand name (vs. generic name).
 
 Predicate describes that: 
-[ #has_/domain  :: DietarySupplement, Drug ]
+
+#has_/domain  :: DietarySupplement, Drug  
+
 ( #has_/name :: is_proprietary )
 ( #has_/range :: Boolean )
 

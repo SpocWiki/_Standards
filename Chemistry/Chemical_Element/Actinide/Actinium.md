@@ -65,18 +65,25 @@ UNII: NIK1K0956U
 [GroupName::Actinide-Group]
 Group::[[../Actinide]]
 
+has_/name_/en::Actinium 
 
-[has_/name_/en::Actinium]
-[has_/name_/de::Actinium]
-[has_/value_for_/weight_/u::227]
+has_/name_/de::Actinium 
+
+has_/value_for_/weight_/u::227 
+
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::22.54]
 [Unknown2::0]
-[has_/value_for_/radius_/nano_/m::5.17]
+
+has_/value_for_/radius_/nano_/m::5.17 
+
 [Electronegative::1.1]
 [Density::10.07]
-[has_/value_for_/temperature_/melt_/c ::1050]
-[has_/value_for_/temperature_/boil_/c ::3200]
+
+has_/value_for_/temperature_/melt_/c ::1050 
+
+has_/value_for_/temperature_/boil_/c ::3200 
+
 [HeatCapacity::0]
 [HeatConduct::0.12]
 [Enthalpy::0]

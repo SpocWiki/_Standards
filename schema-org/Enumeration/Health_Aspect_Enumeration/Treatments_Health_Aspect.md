@@ -33,14 +33,13 @@ Class of all treatments_health_aspects.
 Tag Instances like this: 
 #is_a_/treatments_health_aspect
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Treatments or related therapies for a Topic.
 
-[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
+#is_/sub_class_of :: [[../HealthAspectEnumeration]]  
 
-[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
-
+#is_/enum_of :: [[../HealthAspectEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

@@ -28,7 +28,8 @@ title: is_complement_of
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://meta.schema.org]
+#is_/part_of :: https://meta.schema.org 
+
 #is_/different_from :: [[is_inverse_of]] 
 
 Use it like this: 
@@ -59,7 +60,9 @@ Relation `>` has the same Domain for both Arguments which makes it more confusin
 - It has no Inverse, because it is not a Function. 
 
 Relation describes that: 
-[ #has_/domain  :: Property]
+
+#has_/domain  :: Property 
+
 ( #has_/name :: is_complement_of)
 ( #has_/range :: Property)
 

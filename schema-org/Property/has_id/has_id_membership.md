@@ -37,7 +37,9 @@ Use it like this:
 A unique identifier for the membership.
 
 Predicated describes that: 
-[ #has_/domain  :: ProgramMembership ]
+
+#has_/domain  :: ProgramMembership  
+
 ( #has_/name :: has_id_membership )
 ( #has_/range :: Text )
 

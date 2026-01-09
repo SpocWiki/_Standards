@@ -35,7 +35,9 @@ Use it like this:
 The format of the book.
 
 Relation describes that: 
-[ #has_/domain  :: Book ]
+
+#has_/domain  :: Book  
+
 ( #has_/name :: has_book_format )
 ( #has_/range :: BookFormatType )
 

@@ -33,7 +33,7 @@ type: Pred_Text
 
 Predicate to describe the Text of HealthPlanNetwork.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/health_plan_network_tier :: Text ] or 
@@ -42,7 +42,9 @@ Use it like this:
 The tier(s) for this network.
 
 Predicated describes that: 
-[ #has_/domain  :: HealthPlanNetwork ]
+
+#has_/domain  :: HealthPlanNetwork  
+
 ( #has_/name :: has_text_of_health_plan_network_tier )
 ( #has_/range :: Text )
 

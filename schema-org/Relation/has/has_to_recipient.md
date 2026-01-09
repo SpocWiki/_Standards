@@ -35,12 +35,13 @@ Use it like this:
 A sub property of recipient. The recipient who was directly sent the message.
 
 Relation describes that: 
-[ #has_/domain  :: Message ]
+
+#has_/domain  :: Message  
+
 ( #has_/name :: is_to_recipient )
 ( #has_/range :: Audience, ContactPoint, Organization, Person )
 
-[ #is_/sub_property_of  :: recipient ]
-
+#is_/sub_property_of  :: recipient  
 
 ## Confidential Links & Embeds: 
 

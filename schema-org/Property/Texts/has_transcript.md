@@ -37,7 +37,9 @@ Use it like this:
 If this MediaObject is an AudioObject or VideoObject, the transcript of that object.
 
 Predicated describes that: 
-[ #has_/domain  :: AudioObject, VideoObject ]
+
+#has_/domain  :: AudioObject, VideoObject  
+
 ( #has_/name :: has_text_of_transcript )
 ( #has_/range :: Text )
 

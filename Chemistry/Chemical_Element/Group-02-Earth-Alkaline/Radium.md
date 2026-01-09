@@ -62,18 +62,25 @@ UNII: W90AYD6R3Q
 [GroupName::Group-02-Earth-Alkaline]
 Group::[[../Group-02-Earth-Alkaline]]
 
+has_/name_/en::Radium 
 
-[has_/name_/en::Radium]
-[has_/name_/de::Radium]
-[has_/value_for_/weight_/u::226.0254]
+has_/name_/de::Radium 
+
+has_/value_for_/weight_/u::226.0254 
+
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::45.2]
 [Unknown2::0]
-[has_/value_for_/radius_/nano_/m::5.279]
+
+has_/value_for_/radius_/nano_/m::5.279 
+
 [Electronegative::0.9]
 [Density::5]
-[has_/value_for_/temperature_/melt_/c ::700]
-[has_/value_for_/temperature_/boil_/c ::1140]
+
+has_/value_for_/temperature_/melt_/c ::700 
+
+has_/value_for_/temperature_/boil_/c ::1140 
+
 [HeatCapacity::0]
 [HeatConduct::0.186]
 [Enthalpy::0]

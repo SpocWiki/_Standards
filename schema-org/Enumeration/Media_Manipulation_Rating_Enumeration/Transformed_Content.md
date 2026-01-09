@@ -33,7 +33,7 @@ Class of all transformed_contents.
 Tag Instances like this: 
 #is_a_/transformed_content
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Content coded 'transformed content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
@@ -49,10 +49,9 @@ Adding or deleting visual elements to give the image a different meaning with th
 # For an [[../../../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
 Part or all of the audio has been manipulated to alter the words or sounds, or the audio has been synthetically generated, such as to create a sound-alike voice.
 
-[ #is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
+#is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]]  
 
-[ #is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
-
+#is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

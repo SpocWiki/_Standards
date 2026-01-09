@@ -32,7 +32,9 @@ Use it like this:
 The kind of aircraft (e.g., "Boeing 747").
 
 Relation describes that: 
-[ #has_/domain  :: Flight ]
+
+#has_/domain  :: Flight  
+
 ( #has_/name :: has_aircraft )
 ( #has_/range :: Text, Vehicle )
 

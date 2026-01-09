@@ -32,14 +32,13 @@ Class of all nonprofit_types.
 Tag Instances like this: 
 #is_a_/nonprofit_type
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 NonprofitType enumerates several kinds of official non-profit types of which a non-profit organization can be.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
+#is_/sub_class_of :: [[../Enumeration]]  
 
-[ #has_/sub_classes :: [ NLNonprofitType, UKNonprofitType, USNonprofitType ] ]
-
+#has_/sub_classes :: [ NLNonprofitType, UKNonprofitType, USNonprofitType ]  
 
 ## Confidential Links & Embeds: 
 

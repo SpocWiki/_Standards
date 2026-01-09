@@ -28,7 +28,7 @@ title: has_refund_type
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/refund_type :: RefundTypeEnumeration ] or 
@@ -37,7 +37,9 @@ Use it like this:
 A refund type, from an enumerated list.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy ]
+
+#has_/domain  :: MerchantReturnPolicy  
+
 ( #has_/name :: is_refund_type )
 ( #has_/range :: RefundTypeEnumeration )
 

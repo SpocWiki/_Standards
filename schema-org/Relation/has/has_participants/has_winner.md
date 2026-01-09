@@ -35,12 +35,13 @@ Use it like this:
 A sub property of participant. The winner of the action.
 
 Relation describes that: 
-[ #has_/domain  :: LoseAction ]
+
+#has_/domain  :: LoseAction  
+
 ( #has_/name :: is_winner )
 ( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: participant ]
-
+#is_/sub_property_of  :: participant  
 
 ## Confidential Links & Embeds: 
 

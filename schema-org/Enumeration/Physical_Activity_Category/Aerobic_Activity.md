@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Physical activity of relatively low intensity that depends primarily on the aerobic energy-generating process; during activity, the aerobic metabolism uses oxygen to adequately meet energy demands during exercise.
 
-[ #is_/sub_class_of :: [[../PhysicalActivityCategory]] ]
+#is_/sub_class_of :: [[../PhysicalActivityCategory]]  
 
-[ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
-
+#is_/enum_of :: [[../PhysicalActivityCategory]]  
 
 ## Confidential Links & Embeds: 
 

@@ -38,7 +38,9 @@ Use it like this:
 Associated product/technology version. E.g., .NET Framework 4.5.
 
 Predicated describes that: 
-[ #has_/domain  :: APIReference ]
+
+#has_/domain  :: APIReference  
+
 ( #has_/name :: has_text_of_assembly_version )
 ( #has_/range :: Text )
 

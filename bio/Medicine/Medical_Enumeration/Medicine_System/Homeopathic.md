@@ -64,9 +64,9 @@ Tag Instances like this:
 
 A system of medicine based on the principle that a disease can be cured by a substance that produces similar symptoms in healthy people.
 
-[ #is_/sub_class_of :: [[../MedicineSystem]] ]
+#is_/sub_class_of :: [[../MedicineSystem]]  
 
-[ #is_/enum_of :: [[../MedicineSystem]] ]
+#is_/enum_of :: [[../MedicineSystem]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Homeopathy,81058|WD~Homeopathy,81058]]  
 

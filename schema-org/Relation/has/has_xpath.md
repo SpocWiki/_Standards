@@ -31,7 +31,9 @@ Use it like this:
 An XPath, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".
 
 Relation describes that: 
-[ #has_/domain  :: SpeakableSpecification, WebPageElement ]
+
+#has_/domain  :: SpeakableSpecification, WebPageElement  
+
 ( #has_/name :: is_xpath )
 ( #has_/range :: XPathType )
 

@@ -40,7 +40,9 @@ The number of axles.
 Typical unit code(s): C62
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_number_of_axles )
 ( #has_/range :: Number, QuantitativeValue )
 

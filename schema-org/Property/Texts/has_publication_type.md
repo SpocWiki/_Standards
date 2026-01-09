@@ -38,7 +38,9 @@ Use it like this:
 The type of the medical article, taken from the US NLM MeSH publication type catalog. See also [MeSH documentation](http://www.nlm.nih.gov/mesh/pubtypes.html).
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalScholarlyArticle ]
+
+#has_/domain  :: MedicalScholarlyArticle  
+
 ( #has_/name :: has_text_of_publication_type )
 ( #has_/range :: Text )
 

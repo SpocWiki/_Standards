@@ -34,12 +34,11 @@ Tag Instances like this:
 
 The act of planning the execution of an event/task/action/reservation/plan to a future date.
 
-[ #is_/sub_class_of :: [[../OrganizeAction]] ]
+#is_/sub_class_of :: [[../OrganizeAction]]  
 
-[ #has_/sub_classes :: [ CancelAction, ReserveAction, ScheduleAction ] ]
+#has_/sub_classes :: [ CancelAction, ReserveAction, ScheduleAction ]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

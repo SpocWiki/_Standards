@@ -53,11 +53,11 @@ Quantities must have a [[../../Dimension/Unit_of_Measurement|Unit_of_Measurement
 (and often also an Origin/Reference-Point), 
 to be able to compare and operate on them. 
 
-[ #is_/sub_class_of :: [[../Class/is_a_/Intangible]] ]
+#is_/sub_class_of :: [[../Class/is_a_/Intangible]]  
 
-[ #has_/sub_classes :: [ Distance, Duration, Energy, Mass ] ]
+#has_/sub_classes :: [ Distance, Duration, Energy, Mass ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 XML, Turtle and Json have dedicated Syntax to indicate the Language, but this can be extended to denote the Unit and Reference: 
 This has the Benefit that Translation becomes Conversion. 

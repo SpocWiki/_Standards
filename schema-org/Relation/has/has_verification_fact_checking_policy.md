@@ -30,7 +30,7 @@ title: has_verification_fact_checking_policy
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/verification_fact_checking_policy :: CreativeWork, URL ] or 
@@ -39,12 +39,13 @@ Use it like this:
 Disclosure about verification and fact-checking processes for a [[NewsMediaOrganization]] or other fact-checking [[../../../Society/Agent/Community/Organization]].
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization ]
+
+#has_/domain  :: NewsMediaOrganization  
+
 ( #has_/name :: is_verification_fact_checking_policy )
 ( #has_/range :: CreativeWork, URL )
 
-[ #is_/sub_property_of  :: publishingPrinciples ]
-
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

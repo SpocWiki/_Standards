@@ -32,10 +32,9 @@ Tag Instances like this:
 
 Used to describe a ticket to an event, a flight, a bus ride, etc.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, dateIssued, description, disambiguatingDescription, identifier, image, issuedBy, mainEntityOfPage, name, potentialAction, priceCurrency, sameAs, subjectOf, ticketNumber, ticketToken, ticketedSeat, totalPrice, underName, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, dateIssued, description, disambiguatingDescription, identifier, image, issuedBy, mainEntityOfPage, name, potentialAction, priceCurrency, sameAs, subjectOf, ticketNumber, ticketToken, ticketedSeat, totalPrice, underName, url ]  
 
 ## Confidential Links & Embeds: 
 

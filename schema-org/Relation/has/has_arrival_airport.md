@@ -33,7 +33,9 @@ Use it like this:
 The airport where the flight terminates.
 
 Relation describes that: 
-[ #has_/domain  :: Flight ]
+
+#has_/domain  :: Flight  
+
 ( #has_/name :: has_arrival_airport )
 ( #has_/range :: Airport )
 

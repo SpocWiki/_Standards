@@ -36,7 +36,9 @@ Use it like this:
 The page on which the work starts; for example "135" or "xiii".
 
 Predicate describes that: 
-[ #has_/domain  :: Article, Chapter, PublicationIssue, PublicationVolume ]
+
+#has_/domain  :: Article, Chapter, PublicationIssue, PublicationVolume  
+
 ( #has_/name :: has_number_of_page_start )
 ( #has_/range :: Integer, Text )
 

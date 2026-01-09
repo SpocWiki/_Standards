@@ -33,14 +33,13 @@ Class of all nonprofit_anbis.
 Tag Instances like this: 
 #is_a_/nonprofit_anbi
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 NonprofitANBI: Non-profit type referring to a Public Benefit Organization (NL).
 
-[ #is_/sub_class_of :: [[../NLNonprofitType]] ]
+#is_/sub_class_of :: [[../NLNonprofitType]]  
 
-[ #is_/enum_of :: [[../NLNonprofitType]] ]
-
+#is_/enum_of :: [[../NLNonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

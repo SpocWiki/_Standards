@@ -37,7 +37,9 @@ The size of the accommodation, e.g. in square meter or squarefoot.
 Typical unit code(s): MTK for square meter, FTK for square foot, or YDK for square yard
 
 Predicate describes that: 
-[ #has_/domain  :: Accommodation, FloorPlan ]
+
+#has_/domain  :: Accommodation, FloorPlan  
+
 ( #has_/name :: has_value_for_floor_size_m2 )
 ( #has_/range :: QuantitativeValue )
 

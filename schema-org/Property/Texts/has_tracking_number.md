@@ -38,7 +38,9 @@ Use it like this:
 Shipper tracking number.
 
 Predicated describes that: 
-[ #has_/domain  :: ParcelDelivery ]
+
+#has_/domain  :: ParcelDelivery  
+
 ( #has_/name :: has_text_of_tracking_number )
 ( #has_/range :: Text )
 

@@ -26,7 +26,7 @@ title: has_application_contact
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/application_contact :: ContactPoint ] or 
@@ -35,7 +35,9 @@ Use it like this:
 Contact details for further information relevant to this job posting.
 
 Relation describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_application_contact )
 ( #has_/range :: ContactPoint )
 

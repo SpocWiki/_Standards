@@ -35,10 +35,9 @@ Tag Instances like this:
 
 A description of an action that is supported.
 
-[ #is_/sub_class_of :: [[../ActionStatusType]] ]
+#is_/sub_class_of :: [[../ActionStatusType]]  
 
-[ #is_/enum_of :: [[../ActionStatusType]] ]
-
+#is_/enum_of :: [[../ActionStatusType]]  
 
 ## Confidential Links & Embeds: 
 

@@ -29,7 +29,7 @@ type: Predi_Count
 
 Predicate to describe the Number of EducationalOccupationalProgram.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/number_of_/maximum_enrollments :: Integer ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The maximum number of students who may be enrolled in the program.
 
 Predicate describes that: 
-[ #has_/domain  :: EducationalOccupationalProgram ]
+
+#has_/domain  :: EducationalOccupationalProgram  
+
 ( #has_/name :: has_number_of_maximum_enrollments )
 ( #has_/range :: Integer )
 

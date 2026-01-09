@@ -38,7 +38,9 @@ Use it like this:
 A person or organization can have different contact points, for different purposes. For example, a sales contact point, a PR contact point and so on. This property is used to specify the kind of contact point.
 
 Predicated describes that: 
-[ #has_/domain  :: ContactPoint ]
+
+#has_/domain  :: ContactPoint  
+
 ( #has_/name :: has_text_of_contact_type )
 ( #has_/range :: Text )
 

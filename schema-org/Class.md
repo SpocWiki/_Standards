@@ -48,11 +48,11 @@ Tag Instances like this:
 #is_a_/class which restricts the range, but does not create a Relation or 
 #is_a_ :: [[Class]]  
 
-[ #is_/part_of :: https://meta.schema.org ]
+#is_/part_of :: https://meta.schema.org  
 
-[  #is_/sub_class_of :: [[./Class/is_a_/Intangible|Intangible]]  ]
+#is_/sub_class_of :: [[./Class/is_a_/Intangible|Intangible]]   
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ] ]
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]  
 
 ## Type/Class vs Set 
 

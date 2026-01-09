@@ -39,7 +39,9 @@ Use it like this:
 A subject of the study, i.e. one of the medical conditions, therapies, devices, drugs, etc. investigated by the study.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalStudy ]
+
+#has_/domain  :: MedicalStudy  
+
 ( #has_/name :: is_study_subject )
 ( #has_/range :: MedicalEntity )
 

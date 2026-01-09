@@ -31,7 +31,9 @@ Use it like this:
 The person, organization, contact point, or audience that has been granted this permission.
 
 Relation describes that: 
-[ #has_/domain  :: DigitalDocumentPermission ]
+
+#has_/domain  :: DigitalDocumentPermission  
+
 ( #has_/name :: has_grantee )
 ( #has_/range :: Audience, ContactPoint, Organization, Person )
 

@@ -37,7 +37,9 @@ Use it like this:
 Responsibilities associated with this role or Occupation.
 
 Predicated describes that: 
-[ #has_/domain  :: JobPosting, Occupation ]
+
+#has_/domain  :: JobPosting, Occupation  
+
 ( #has_/name :: has_text_of_responsibilities )
 ( #has_/range :: Text )
 

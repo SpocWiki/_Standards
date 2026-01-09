@@ -35,7 +35,9 @@ Use it like this:
 Medical audience for page.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalWebPage ]
+
+#has_/domain  :: MedicalWebPage  
+
 ( #has_/name :: has_medical_audience )
 ( #has_/range :: MedicalAudience, MedicalAudienceType )
 

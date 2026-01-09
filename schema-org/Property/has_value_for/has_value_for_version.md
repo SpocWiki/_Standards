@@ -36,7 +36,9 @@ Use it like this:
 The version of the CreativeWork embodied by a specified resource.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_value_for_version )
 ( #has_/range :: Number, Text )
 

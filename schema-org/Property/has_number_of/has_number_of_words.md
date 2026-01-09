@@ -36,7 +36,9 @@ Use it like this:
 The number of words in the text of the Article.
 
 Predicate describes that: 
-[ #has_/domain  :: Article ]
+
+#has_/domain  :: Article  
+
 ( #has_/name :: has_number_of_words )
 ( #has_/range :: Integer )
 

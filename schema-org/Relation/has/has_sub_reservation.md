@@ -35,7 +35,9 @@ Use it like this:
 The individual reservations included in the package. Typically a repeated property.
 
 Relation describes that: 
-[ #has_/domain  :: ReservationPackage ]
+
+#has_/domain  :: ReservationPackage  
+
 ( #has_/name :: is_sub_reservation )
 ( #has_/range :: Reservation )
 

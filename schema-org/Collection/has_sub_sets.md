@@ -34,7 +34,9 @@ Use it like this:
 - [ has_sub_sets :: [[../Collection]] ] 
 
 Relation describes that: 
-[ #has_/domain  :: [[../Collection]] ]
+
+#has_/domain  :: [[../Collection]]  
+
 ( #has_/name :: has_sub_sets )
 ( #has_/range :: [[../Collection]] )
 

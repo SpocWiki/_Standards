@@ -37,7 +37,9 @@ Or write it as a Triple:
 Specifies whether the applicable value-added tax (VAT) is included in the price specification or not.
 
 Predicate describes that: 
-[ #has_/domain  :: PriceSpecification ]
+
+#has_/domain  :: PriceSpecification  
+
 ( #has_/name :: is_value_added_tax_included )
 ( #has_/range :: Boolean )
 

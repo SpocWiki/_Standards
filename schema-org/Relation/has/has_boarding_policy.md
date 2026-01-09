@@ -35,7 +35,9 @@ Use it like this:
 The type of boarding policy used by the airline (e.g. zone-based or group-based).
 
 Relation describes that: 
-[ #has_/domain  :: Airline, Flight ]
+
+#has_/domain  :: Airline, Flight  
+
 ( #has_/name :: has_boarding_policy )
 ( #has_/range :: BoardingPolicyType )
 

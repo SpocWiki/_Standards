@@ -33,7 +33,9 @@ For example, many media apps require a cable/satellite provider to authenticate 
 before playing media.
 
 Relation describes that: 
-[ #has_/domain  :: MediaSubscription ]
+
+#has_/domain  :: MediaSubscription  
+
 ( #has_/name :: has_authenticator )
 ( #has_/range :: Organization )
 

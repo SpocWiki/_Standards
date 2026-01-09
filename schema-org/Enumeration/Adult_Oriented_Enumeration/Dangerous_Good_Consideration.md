@@ -33,14 +33,13 @@ Class of all dangerous_good_considerations.
 Tag Instances like this: 
 #is_a_/dangerous_good_consideration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 The item is dangerous and requires careful handling and/or special training of the user. See also the <a href="https://unece.org/DAM/trans/danger/publi/unrec/rev17/English/02EREv17_Part2.pdf">UN Model Classification</a> defining the 9 classes of dangerous goods such as explosives, gases, flammables, and more.
 
-[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
+#is_/sub_class_of :: [[../AdultOrientedEnumeration]]  
 
-[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
-
+#is_/enum_of :: [[../AdultOrientedEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

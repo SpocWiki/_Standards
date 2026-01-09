@@ -37,7 +37,9 @@ Use it like this:
 Proprietary name given to the diet plan, typically by its originator or creator.
 
 Predicated describes that: 
-[ #has_/domain  :: DietarySupplement, Drug ]
+
+#has_/domain  :: DietarySupplement, Drug  
+
 ( #has_/name :: has_name_proprietary )
 ( #has_/range :: Text )
 

@@ -31,7 +31,9 @@ Use it like this:
 Typical preparation that a patient must undergo before having the procedure performed.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalProcedure ]
+
+#has_/domain  :: MedicalProcedure  
+
 ( #has_/name :: is_preparation )
 ( #has_/range :: MedicalEntity, Text )
 

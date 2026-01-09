@@ -35,7 +35,9 @@ Use it like this:
 Target Operating System / Product to which the code applies.  If applies to several versions, just the product name can be used.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareSourceCode ]
+
+#has_/domain  :: SoftwareSourceCode  
+
 ( #has_/name :: is_target_product )
 ( #has_/range :: SoftwareApplication )
 

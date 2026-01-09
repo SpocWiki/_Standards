@@ -35,7 +35,9 @@ Use it like this:
 The type/class of the seat.
 
 Relation describes that: 
-[ #has_/domain  :: Seat ]
+
+#has_/domain  :: Seat  
+
 ( #has_/name :: is_seating_type )
 ( #has_/range :: QualitativeValue, Text )
 

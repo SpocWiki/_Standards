@@ -35,7 +35,9 @@ Use it like this:
 The playlist to which this recording belongs.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRecording ]
+
+#has_/domain  :: MusicRecording  
+
 ( #has_/name :: is_in_playlist )
 ( #has_/range :: MusicPlaylist )
 

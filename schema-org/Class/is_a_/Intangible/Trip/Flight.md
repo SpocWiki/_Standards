@@ -32,10 +32,9 @@ Tag Instances like this:
 
 An airline flight.
 
-[ #is_/sub_class_of :: [[../Trip]] ]
+#is_/sub_class_of :: [[../Trip]]  
 
-[ #has_/properties :: [ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ] ]
-
+#has_/properties :: [ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ]  
 
 ## Confidential Links & Embeds: 
 

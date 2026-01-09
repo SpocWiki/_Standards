@@ -32,12 +32,11 @@ Class of all nl_nonprofit_types.
 Tag Instances like this: 
 #is_a_/nl_nonprofit_type
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 NLNonprofitType: Non-profit organization type originating from the Netherlands.
 
-[ #is_/sub_class_of :: [[../NonprofitType]] ]
-
+#is_/sub_class_of :: [[../NonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

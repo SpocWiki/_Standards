@@ -37,12 +37,13 @@ Use it like this:
 An additional name for a Person, can be used for a middle name.
 
 Predicated describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_name_additional )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: [[has_name_alternate|alternateName]] ]
-
+#is_/sub_property_of  :: [[has_name_alternate|alternateName]]  
 
 ## Confidential Links & Embeds: 
 

@@ -38,7 +38,9 @@ Use it like this:
 Features or modules provided by this application (and possibly required by other applications).
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_feature_list )
 ( #has_/range :: Text, URL )
 

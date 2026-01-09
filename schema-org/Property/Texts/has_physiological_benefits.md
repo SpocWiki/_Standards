@@ -38,7 +38,9 @@ Use it like this:
 Specific physiologic benefits associated to the plan.
 
 Predicated describes that: 
-[ #has_/domain  :: Diet ]
+
+#has_/domain  :: Diet  
+
 ( #has_/name :: has_text_of_physiological_benefits )
 ( #has_/range :: Text )
 

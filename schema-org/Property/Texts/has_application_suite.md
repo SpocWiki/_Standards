@@ -38,7 +38,9 @@ Use it like this:
 The name of the application suite to which the application belongs (e.g. Excel belongs to Office).
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_application_suite )
 ( #has_/range :: Text )
 

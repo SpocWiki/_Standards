@@ -32,10 +32,9 @@ Class of all medical_codes.
 Tag Instances like this: 
 #is_a_/medical_code
 
-[ #is_/sub_class_of :: [[../CategoryCode, MedicalIntangible]] ]
+#is_/sub_class_of :: [[../CategoryCode, MedicalIntangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ]  
 
 ## Confidential Links & Embeds: 
 

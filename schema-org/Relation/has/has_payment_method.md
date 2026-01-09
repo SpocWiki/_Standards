@@ -35,7 +35,9 @@ Use it like this:
 The name of the credit card or other method of payment for the order.
 
 Relation describes that: 
-[ #has_/domain  :: Invoice, Order ]
+
+#has_/domain  :: Invoice, Order  
+
 ( #has_/name :: has_payment_method )
 ( #has_/range :: PaymentMethod )
 

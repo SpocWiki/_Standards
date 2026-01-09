@@ -34,10 +34,9 @@ Tag Instances like this:
 
 Nutritional information about the recipe.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, calories, carbohydrateContent, cholesterolContent, description, disambiguatingDescription, fatContent, fiberContent, identifier, image, mainEntityOfPage, name, potentialAction, proteinContent, sameAs, saturatedFatContent, servingSize, sodiumContent, subjectOf, sugarContent, transFatContent, unsaturatedFatContent, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, calories, carbohydrateContent, cholesterolContent, description, disambiguatingDescription, fatContent, fiberContent, identifier, image, mainEntityOfPage, name, potentialAction, proteinContent, sameAs, saturatedFatContent, servingSize, sodiumContent, subjectOf, sugarContent, transFatContent, unsaturatedFatContent, url ]  
 
 ## Confidential Links & Embeds: 
 

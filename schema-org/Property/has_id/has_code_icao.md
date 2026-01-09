@@ -37,7 +37,9 @@ Use it like this:
 ICAO identifier for an airport.
 
 Predicated describes that: 
-[ #has_/domain  :: Airport ]
+
+#has_/domain  :: Airport  
+
 ( #has_/name :: has_code_icao )
 ( #has_/range :: Text )
 

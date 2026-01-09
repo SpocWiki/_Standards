@@ -34,12 +34,11 @@ Tag Instances like this:
 
 The act of forming one's opinion, reaction or sentiment.
 
-[ #is_/sub_class_of :: [[../Action]] ]
+#is_/sub_class_of :: [[../Action]]  
 
-[ #has_/sub_classes :: [ ChooseAction, IgnoreAction, ReactAction, ReviewAction ] ]
+#has_/sub_classes :: [ ChooseAction, IgnoreAction, ReactAction, ReviewAction ]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

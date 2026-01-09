@@ -35,7 +35,9 @@ Use it like this:
 If applicable, the organization that officially recognizes this entity as part of its endorsed system of medicine.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity ]
+
+#has_/domain  :: MedicalEntity  
+
 ( #has_/name :: is_recognizing_authority )
 ( #has_/range :: Organization )
 

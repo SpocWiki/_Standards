@@ -34,8 +34,7 @@ Tag Instances like this:
 
 Enumerated options related to a ContactPoint.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

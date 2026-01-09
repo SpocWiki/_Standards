@@ -36,7 +36,9 @@ Use it like this:
 Any discount applied (to an Order).
 
 Predicate describes that: 
-[ #has_/domain  :: Order ]
+
+#has_/domain  :: Order  
+
 ( #has_/name :: has_value_for_discount )
 ( #has_/range :: Number, Text )
 

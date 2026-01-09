@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of BankAccount.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/account_minimum_inflow :: MonetaryAmount ] or 
@@ -38,7 +38,9 @@ Use it like this:
 A minimum amount that has to be paid in every month.
 
 Predicate describes that: 
-[ #has_/domain  :: BankAccount ]
+
+#has_/domain  :: BankAccount  
+
 ( #has_/name :: has_value_for_account_minimum_inflow )
 ( #has_/range :: MonetaryAmount )
 

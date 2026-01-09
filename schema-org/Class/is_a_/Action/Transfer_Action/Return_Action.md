@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of returning to the origin that which was previously received (concrete objects) or taken (ownership).
 
-[ #is_/sub_class_of :: [[../TransferAction]] ]
+#is_/sub_class_of :: [[../TransferAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ]  
 
 ## Confidential Links & Embeds: 
 

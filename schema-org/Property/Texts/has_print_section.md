@@ -38,7 +38,9 @@ Use it like this:
 If this NewsArticle appears in print, this field indicates the print section in which the article appeared.
 
 Predicated describes that: 
-[ #has_/domain  :: NewsArticle ]
+
+#has_/domain  :: NewsArticle  
+
 ( #has_/name :: has_text_of_print_section )
 ( #has_/range :: Text )
 

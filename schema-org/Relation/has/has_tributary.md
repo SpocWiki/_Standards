@@ -31,7 +31,9 @@ Use it like this:
 The anatomical or organ system that the vein flows into; a larger structure that the vein connects to.
 
 Relation describes that: 
-[ #has_/domain  :: Vein ]
+
+#has_/domain  :: Vein  
+
 ( #has_/name :: is_tributary )
 ( #has_/range :: AnatomicalStructure )
 

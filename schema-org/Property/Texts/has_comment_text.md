@@ -38,7 +38,9 @@ Use it like this:
 The text of the UserComment.
 
 Predicated describes that: 
-[ #has_/domain  :: UserComments ]
+
+#has_/domain  :: UserComments  
+
 ( #has_/name :: has_text_of_comment_text )
 ( #has_/range :: Text )
 

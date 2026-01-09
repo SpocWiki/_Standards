@@ -38,7 +38,9 @@ Use it like this:
 A description of the postoperative procedures, care, and/or followups for this device.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalDevice ]
+
+#has_/domain  :: MedicalDevice  
+
 ( #has_/name :: has_text_of_post_op )
 ( #has_/range :: Text )
 

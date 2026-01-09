@@ -35,12 +35,13 @@ Use it like this:
 A sub property of location. The entertainment business where the action occurred.
 
 Relation describes that: 
-[ #has_/domain  :: PerformAction ]
+
+#has_/domain  :: PerformAction  
+
 ( #has_/name :: has_entertainment_business )
 ( #has_/range :: EntertainmentBusiness )
 
-[ #is_/sub_property_of  :: location ]
-
+#is_/sub_property_of  :: location  
 
 ## Confidential Links & Embeds: 
 

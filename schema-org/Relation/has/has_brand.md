@@ -34,7 +34,9 @@ Use it like this:
 The brand(s) associated with a product or service, or the brand(s) maintained by an organization or business person.
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person, Product, Service ]
+
+#has_/domain  :: Organization, Person, Product, Service  
+
 ( #has_/name :: has_brand )
 ( #has_/range :: Brand, Organization )
 

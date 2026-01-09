@@ -35,7 +35,9 @@ Use it like this:
 A therapy that duplicates or overlaps this one.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTherapy ]
+
+#has_/domain  :: MedicalTherapy  
+
 ( #has_/name :: has_duplicate_therapy )
 ( #has_/range :: MedicalTherapy )
 

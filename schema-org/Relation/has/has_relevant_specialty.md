@@ -35,7 +35,9 @@ Use it like this:
 If applicable, a medical specialty in which this entity is relevant.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity ]
+
+#has_/domain  :: MedicalEntity  
+
 ( #has_/name :: is_relevant_specialty )
 ( #has_/range :: MedicalSpecialty )
 

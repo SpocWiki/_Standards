@@ -32,14 +32,13 @@ Class of all boat_trips.
 Tag Instances like this: 
 #is_a_/boat_trip
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A trip on a commercial ferry line.
 
-[ #is_/sub_class_of :: [[../Trip]] ]
+#is_/sub_class_of :: [[../Trip]]  
 
-[ #has_/properties :: [ additionalType, alternateName, arrivalBoatTerminal, arrivalTime, departureBoatTerminal, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, arrivalBoatTerminal, arrivalTime, departureBoatTerminal, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

@@ -38,7 +38,9 @@ Use it like this:
 Characteristics of the population for which this is intended, or which typically uses it, e.g. "adults".
 
 Predicated describes that: 
-[ #has_/domain  :: DietarySupplement, DoseSchedule ]
+
+#has_/domain  :: DietarySupplement, DoseSchedule  
+
 ( #has_/name :: has_text_of_target_population )
 ( #has_/range :: Text )
 

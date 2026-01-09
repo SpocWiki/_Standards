@@ -35,10 +35,9 @@ Tag Instances like this:
 
 A seating map.
 
-[ #is_/sub_class_of :: [[../MapCategoryType]] ]
+#is_/sub_class_of :: [[../MapCategoryType]]  
 
-[ #is_/enum_of :: [[../MapCategoryType]] ]
-
+#is_/enum_of :: [[../MapCategoryType]]  
 
 ## Confidential Links & Embeds: 
 

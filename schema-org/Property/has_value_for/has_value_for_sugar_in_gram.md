@@ -40,7 +40,9 @@ Use it like this:
 The number of grams of sugar.
 
 Predicate describes that: 
-[ #has_/domain  :: NutritionInformation ]
+
+#has_/domain  :: NutritionInformation  
+
 ( #has_/name :: has_value_for_sugar_in_gram )
 ( #has_/range :: Mass )
 

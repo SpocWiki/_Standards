@@ -35,7 +35,9 @@ Use it like this:
 Indicates the status of drug prescription, e.g. local catalogs classifications or whether the drug is available by prescription or over-the-counter, etc.
 
 Relation describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: is_prescription_status )
 ( #has_/range :: DrugPrescriptionStatus, Text )
 

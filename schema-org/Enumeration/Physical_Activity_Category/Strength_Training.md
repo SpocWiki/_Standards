@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Physical activity that is engaged in to improve muscle and bone strength. Also referred to as resistance training.
 
-[ #is_/sub_class_of :: [[../PhysicalActivityCategory]] ]
+#is_/sub_class_of :: [[../PhysicalActivityCategory]]  
 
-[ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
-
+#is_/enum_of :: [[../PhysicalActivityCategory]]  
 
 ## Confidential Links & Embeds: 
 

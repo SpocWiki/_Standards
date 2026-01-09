@@ -32,12 +32,11 @@ Class of all government_benefits_types.
 Tag Instances like this: 
 #is_a_/government_benefits_type
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 GovernmentBenefitsType enumerates several kinds of government benefits to support the COVID-19 situation. Note that this structure may not capture all benefits offered.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

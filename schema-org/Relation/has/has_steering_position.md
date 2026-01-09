@@ -35,7 +35,9 @@ Use it like this:
 The position of the steering wheel or similar device (mostly for cars).
 
 Relation describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: is_steering_position )
 ( #has_/range :: SteeringPositionValue )
 

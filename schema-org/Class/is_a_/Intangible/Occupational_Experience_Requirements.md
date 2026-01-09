@@ -32,14 +32,13 @@ Class of all occupational_experience_requirementss.
 Tag Instances like this: 
 #is_an_/occupational_experience_requirements
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Indicates employment-related experience requirements, e.g. [[monthsOfExperience]].
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, monthsOfExperience, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, monthsOfExperience, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

@@ -38,7 +38,9 @@ Use it like this:
 The serving size, in terms of the number of volume or mass.
 
 Predicated describes that: 
-[ #has_/domain  :: NutritionInformation ]
+
+#has_/domain  :: NutritionInformation  
+
 ( #has_/name :: has_text_of_serving_size )
 ( #has_/range :: Text )
 

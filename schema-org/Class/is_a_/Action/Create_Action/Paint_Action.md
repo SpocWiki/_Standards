@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of producing a painting, typically with paint and canvas as instruments.
 
-[ #is_/sub_class_of :: [[../CreateAction]] ]
+#is_/sub_class_of :: [[../CreateAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

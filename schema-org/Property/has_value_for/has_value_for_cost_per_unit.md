@@ -36,7 +36,9 @@ Use it like this:
 The cost per unit of the drug.
 
 Predicate describes that: 
-[ #has_/domain  :: DrugCost ]
+
+#has_/domain  :: DrugCost  
+
 ( #has_/name :: has_value_for_cost_per_unit )
 ( #has_/range :: Number, QualitativeValue, Text )
 

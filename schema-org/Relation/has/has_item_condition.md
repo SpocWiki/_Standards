@@ -35,7 +35,9 @@ Use it like this:
 A predefined value from OfferItemCondition specifying the condition of the product or service, or the products or services included in the offer. Also used for product return policies to specify the condition of products accepted for returns.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, MerchantReturnPolicy, Offer, Product ]
+
+#has_/domain  :: Demand, MerchantReturnPolicy, Offer, Product  
+
 ( #has_/name :: has_item_condition )
 ( #has_/range :: OfferItemCondition )
 

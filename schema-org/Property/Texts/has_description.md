@@ -39,11 +39,13 @@ Use it like this:
 A description of the item.
 
 Predicated describes that: 
-[ #has_/domain  :: [Thing](../../Class/Thing.md) ]
+
+#has_/domain  :: [Thing](../../Class/Thing.md)  
+
 ( #has_/name :: has_text_of_description )
 ( #has_/range :: Text )
 
-[ #has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ] ]
+#has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ]  
 
 #is_/inverse_of :: [[is_describing]] 
 

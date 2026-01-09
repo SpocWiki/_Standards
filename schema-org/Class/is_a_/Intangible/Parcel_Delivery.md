@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The delivery of a parcel either via the postal service or a commercial service.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, carrier, deliveryAddress, deliveryStatus, description, disambiguatingDescription, expectedArrivalFrom, expectedArrivalUntil, hasDeliveryMethod, identifier, image, itemShipped, mainEntityOfPage, name, originAddress, partOfOrder, potentialAction, provider, sameAs, subjectOf, trackingNumber, trackingUrl, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, carrier, deliveryAddress, deliveryStatus, description, disambiguatingDescription, expectedArrivalFrom, expectedArrivalUntil, hasDeliveryMethod, identifier, image, itemShipped, mainEntityOfPage, name, originAddress, partOfOrder, potentialAction, provider, sameAs, subjectOf, trackingNumber, trackingUrl, url ]  
 
 ## Confidential Links & Embeds: 
 

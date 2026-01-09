@@ -95,18 +95,25 @@ ZVG_number:
 [GroupName::Group-12-Zinc]
 Group::[[../Group-12-Zinc]]
 
+has_/name_/en::Cadmium 
 
-[has_/name_/en::Cadmium]
-[has_/name_/de::Cadmium]
-[has_/value_for_/weight_/u::112.41]
+has_/name_/de::Cadmium 
+
+has_/value_for_/weight_/u::112.41 
+
 [AtomRadius::1.71]
 [Atom-Vol-ccm-mol::13.1]
 [Unknown2::1.48]
-[has_/value_for_/radius_/nano_/m::8.993]
+
+has_/value_for_/radius_/nano_/m::8.993 
+
 [Electronegative::1.7]
 [Density::8.65]
-[has_/value_for_/temperature_/melt_/c ::320.9]
-[has_/value_for_/temperature_/boil_/c ::765]
+
+has_/value_for_/temperature_/melt_/c ::320.9 
+
+has_/value_for_/temperature_/boil_/c ::765 
+
 [HeatCapacity::0.23]
 [HeatConduct::0.968]
 [Enthalpy::6.192]

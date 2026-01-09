@@ -38,7 +38,9 @@ Use it like this:
 Type of app development: phone, Metro style, desktop, XBox, etc.
 
 Predicated describes that: 
-[ #has_/domain  :: APIReference ]
+
+#has_/domain  :: APIReference  
+
 ( #has_/name :: has_text_of_target_platform )
 ( #has_/range :: Text )
 

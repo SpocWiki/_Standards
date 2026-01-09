@@ -36,7 +36,9 @@ Use it like this:
 The type of bed to which the BedDetail refers, i.e. the type of bed available in the quantity indicated by quantity.
 
 Relation describes that: 
-[ #has_/domain  :: BedDetails ]
+
+#has_/domain  :: BedDetails  
+
 ( #has_/name :: is_type_of_bed )
 ( #has_/range :: BedType, Text )
 

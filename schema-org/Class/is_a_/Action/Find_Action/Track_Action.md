@@ -41,10 +41,9 @@ Related actions:
 <li>[[SubscribeAction]]: Unlike SubscribeAction, TrackAction refers to  the interest on the location of innanimate objects.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../FindAction]] ]
+#is_/sub_class_of :: [[../FindAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

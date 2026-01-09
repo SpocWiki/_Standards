@@ -35,12 +35,13 @@ Use it like this:
 The album this is a release of.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRelease ]
+
+#has_/domain  :: MusicRelease  
+
 ( #has_/name :: is_release_of )
 ( #has_/range :: MusicAlbum )
 
-[ #is_/inverse_of  :: albumRelease ]
-
+#is_/inverse_of  :: albumRelease  
 
 ## Confidential Links & Embeds: 
 

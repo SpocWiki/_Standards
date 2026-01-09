@@ -33,14 +33,13 @@ Class of all wearable_measurement_cups.
 Tag Instances like this: 
 #is_a_/wearable_measurement_cup
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Measurement of the cup, for example of a bra
 
-[ #is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]] ]
+#is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
-
+#is_/enum_of :: [[../WearableMeasurementTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

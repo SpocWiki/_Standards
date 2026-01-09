@@ -32,12 +32,11 @@ Tag Instances like this:
 
 A permit issued by an organization, e.g. a parking pass.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/sub_classes :: [ GovernmentPermit ] ]
+#has_/sub_classes :: [ GovernmentPermit ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ]  
 
 ## Confidential Links & Embeds: 
 

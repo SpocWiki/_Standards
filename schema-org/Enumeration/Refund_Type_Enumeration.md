@@ -32,12 +32,11 @@ Class of all refund_type_enumerations.
 Tag Instances like this: 
 #is_a_/refund_type_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Enumerates several kinds of product return refund types.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

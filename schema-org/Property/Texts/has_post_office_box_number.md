@@ -40,7 +40,9 @@ Use it like this:
 The post office box number for PO box addresses.
 
 Predicated describes that: 
-[ #has_/domain  :: PostalAddress ]
+
+#has_/domain  :: PostalAddress  
+
 ( #has_/name :: has_text_of_post_office_box_number )
 ( #has_/range :: Text )
 

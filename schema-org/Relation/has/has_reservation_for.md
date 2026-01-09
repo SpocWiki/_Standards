@@ -35,7 +35,9 @@ Use it like this:
 The thing -- flight, event, restaurant, etc. being reserved.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation ]
+
+#has_/domain  :: Reservation  
+
 ( #has_/name :: is_reservation_for )
 ( #has_/range :: Thing )
 

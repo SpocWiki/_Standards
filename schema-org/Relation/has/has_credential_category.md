@@ -28,7 +28,7 @@ title: has_credential_category
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/credential_category :: DefinedTerm, Text, URL ] or 
@@ -37,7 +37,9 @@ Use it like this:
 The category or type of credential being described, for example "degree�, �certificate�, �badge�, or more specific term.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalCredential ]
+
+#has_/domain  :: EducationalOccupationalCredential  
+
 ( #has_/name :: has_credential_category )
 ( #has_/range :: DefinedTerm, Text, URL )
 

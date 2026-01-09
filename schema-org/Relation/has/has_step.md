@@ -32,12 +32,13 @@ Use it like this:
 A single step item (as HowToStep, text, document, video, etc.) or a HowToSection.
 
 Relation describes that: 
-[ #has_/domain  :: HowTo ]
+
+#has_/domain  :: HowTo  
+
 ( #has_/name :: is_step )
 ( #has_/range :: CreativeWork, HowToSection, HowToStep, Text )
 
-[ #has_/sub_properties :: [ recipeInstructions ] ]
-
+#has_/sub_properties :: [ recipeInstructions ]  
 
 ## Confidential Links & Embeds: 
 

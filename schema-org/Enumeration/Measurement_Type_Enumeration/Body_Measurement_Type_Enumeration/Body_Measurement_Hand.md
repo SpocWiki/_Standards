@@ -33,14 +33,13 @@ Class of all body_measurement_hands.
 Tag Instances like this: 
 #is_a_/body_measurement_hand
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Maximum hand girth (measured over the knuckles of the open right hand excluding thumb, fingers together). Used, for example, to fit gloves.
 
-[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
+#is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
-
+#is_/enum_of :: [[../BodyMeasurementTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

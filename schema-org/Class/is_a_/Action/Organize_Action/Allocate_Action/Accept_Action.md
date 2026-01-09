@@ -40,10 +40,9 @@ Related actions:
 <li>[[RejectAction]]: The antonym of AcceptAction.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../AllocateAction]] ]
+#is_/sub_class_of :: [[../AllocateAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

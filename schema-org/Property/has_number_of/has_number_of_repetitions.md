@@ -36,7 +36,9 @@ Use it like this:
 Number of times one should repeat the activity.
 
 Predicate describes that: 
-[ #has_/domain  :: ExercisePlan ]
+
+#has_/domain  :: ExercisePlan  
+
 ( #has_/name :: has_number_of_repetitions )
 ( #has_/range :: Number, QuantitativeValue )
 

@@ -32,10 +32,9 @@ Tag Instances like this:
 
 Used to describe a seat, such as a reserved seat in an event reservation.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, seatNumber, seatRow, seatSection, seatingType, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, seatNumber, seatRow, seatSection, seatingType, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

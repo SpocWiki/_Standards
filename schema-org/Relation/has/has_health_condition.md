@@ -35,7 +35,9 @@ Use it like this:
 Specifying the health condition(s) of a patient, medical study, or other target audience.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalStudy, Patient, PeopleAudience ]
+
+#has_/domain  :: MedicalStudy, Patient, PeopleAudience  
+
 ( #has_/name :: has_health_condition )
 ( #has_/range :: MedicalCondition )
 

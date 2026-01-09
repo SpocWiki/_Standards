@@ -36,7 +36,9 @@ Use it like this:
 The number to access the service by text message.
 
 Relation describes that: 
-[ #has_/domain  :: ServiceChannel ]
+
+#has_/domain  :: ServiceChannel  
+
 ( #has_/name :: is_service_sms_number )
 ( #has_/range :: ContactPoint )
 

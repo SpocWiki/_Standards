@@ -35,7 +35,9 @@ Use it like this:
 The location in which the study is taking/took place.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalStudy ]
+
+#has_/domain  :: MedicalStudy  
+
 ( #has_/name :: is_study_location )
 ( #has_/range :: AdministrativeArea )
 

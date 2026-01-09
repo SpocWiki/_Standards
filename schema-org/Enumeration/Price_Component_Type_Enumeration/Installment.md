@@ -31,14 +31,13 @@ Class of all installments.
 Tag Instances like this: 
 #is_an_/installment
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the installment pricing component of the total price for an offered product.
 
-[ #is_/sub_class_of :: [[../PriceComponentTypeEnumeration]] ]
+#is_/sub_class_of :: [[../PriceComponentTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
-
+#is_/enum_of :: [[../PriceComponentTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

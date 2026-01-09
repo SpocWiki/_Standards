@@ -34,7 +34,9 @@ Use it like this:
 Specifies the Person who edited the CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_editor )
 ( #has_/range :: Person )
 

@@ -35,7 +35,9 @@ Use it like this:
 An arrangement derived from the composition.
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition ]
+
+#has_/domain  :: MusicComposition  
+
 ( #has_/name :: has_music_arrangement )
 ( #has_/range :: MusicComposition )
 

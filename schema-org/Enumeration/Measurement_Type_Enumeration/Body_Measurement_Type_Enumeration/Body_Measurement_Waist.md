@@ -33,14 +33,13 @@ Class of all body_measurement_waists.
 Tag Instances like this: 
 #is_a_/body_measurement_waist
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Girth of natural waistline (between hip bones and lower ribs). Used, for example, to fit pants.
 
-[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
+#is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
-
+#is_/enum_of :: [[../BodyMeasurementTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

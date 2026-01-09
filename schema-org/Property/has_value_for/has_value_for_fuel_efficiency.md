@@ -44,7 +44,9 @@ The distance traveled per unit of fuel used; most commonly miles per gallon (mpg
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_value_for_fuel_efficiency )
 ( #has_/range :: QuantitativeValue )
 

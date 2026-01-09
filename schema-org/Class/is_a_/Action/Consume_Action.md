@@ -34,12 +34,11 @@ Tag Instances like this:
 
 The act of ingesting information/resources/food.
 
-[ #is_/sub_class_of :: [[../Action]] ]
+#is_/sub_class_of :: [[../Action]]  
 
-[ #has_/sub_classes :: [ DrinkAction, EatAction, InstallAction, ListenAction, PlayGameAction, ReadAction, UseAction, ViewAction, WatchAction ] ]
+#has_/sub_classes :: [ DrinkAction, EatAction, InstallAction, ListenAction, PlayGameAction, ReadAction, UseAction, ViewAction, WatchAction ]  
 
-[ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

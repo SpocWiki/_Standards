@@ -26,7 +26,7 @@ title: is_varying_by
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending:]
+#is_/part_of :: pending: 
 
 Use it like this: 
 - [ #is_/varying_by :: DefinedTerm, Text] or 
@@ -35,7 +35,9 @@ Use it like this:
 Indicates the property or properties by which the variants in a [[ProductGroup]] vary, e.g. their size, color etc. Schema.org properties can be referenced by their short name e.g. "color"; terms defined elsewhere can be referenced with their URIs.
 
 Relation describes that: 
-[ #has_/domain  :: ProductGroup]
+
+#has_/domain  :: ProductGroup 
+
 ( #has_/name :: is_varying_by)
 ( #has_/range :: DefinedTerm, Text)
 

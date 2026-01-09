@@ -36,12 +36,11 @@ A Series in schema.org is a group of related items,
 typically but not necessarily of the same kind. 
 See also [[CreativeWorkSeries]], [[EventSeries]].
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/sub_classes :: [ CreativeWorkSeries, EventSeries ] ]
+#has_/sub_classes :: [ CreativeWorkSeries, EventSeries ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

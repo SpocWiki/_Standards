@@ -37,7 +37,9 @@ Use it like this:
 Tracking url for the parcel delivery.
 
 Predicate describes that: 
-[ #has_/domain  :: ParcelDelivery ]
+
+#has_/domain  :: ParcelDelivery  
+
 ( #has_/name :: has_url_for_tracking_url )
 ( #has_/range :: URL )
 

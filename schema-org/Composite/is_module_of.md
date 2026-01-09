@@ -38,7 +38,9 @@ Can be implemented with dedicated #Tags
 #is_/inverse_of :: [[has_modules]] 
 
 Relation describes that: 
-[ #has_/domain  :: [Composite](../Composite.md)]
+
+#has_/domain  :: [Composite](../Composite.md) 
+
 ( #has_/name :: [is_module_of](is_module_of.md))
 ( #has_/range :: [Composite](../Composite.md))
 

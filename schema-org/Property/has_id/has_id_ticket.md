@@ -37,7 +37,9 @@ Use it like this:
 The unique identifier for the ticket.
 
 Predicated describes that: 
-[ #has_/domain  :: Ticket ]
+
+#has_/domain  :: Ticket  
+
 ( #has_/name :: has_id_ticket )
 ( #has_/range :: Text )
 

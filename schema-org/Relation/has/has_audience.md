@@ -35,7 +35,9 @@ Use it like this:
 An intended audience, i.e. a group for whom something was created.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Event, LodgingBusiness, PlayAction, Product, Service ]
+
+#has_/domain  :: CreativeWork, Event, LodgingBusiness, PlayAction, Product, Service  
+
 ( #has_/name :: has_audience )
 ( #has_/range :: Audience )
 

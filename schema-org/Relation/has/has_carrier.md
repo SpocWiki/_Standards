@@ -32,7 +32,9 @@ Use it like this:
 'carrier' is an out-dated term indicating the 'provider' for parcel delivery and flights.
 
 Relation describes that: 
-[ #has_/domain  :: Flight, ParcelDelivery ]
+
+#has_/domain  :: Flight, ParcelDelivery  
+
 ( #has_/name :: has_carrier )
 ( #has_/range :: Organization )
 

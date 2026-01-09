@@ -32,12 +32,11 @@ Class of all price_type_enumerations.
 Tag Instances like this: 
 #is_a_/price_type_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Enumerates different price types, for example list price, invoice price, and sale price.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

@@ -36,7 +36,9 @@ Use it like this:
 The quantity of the goods included in the offer.
 
 Predicate describes that: 
-[ #has_/domain  :: TypeAndQuantityNode ]
+
+#has_/domain  :: TypeAndQuantityNode  
+
 ( #has_/name :: has_value_for_amount_of_this_good )
 ( #has_/range :: Number )
 

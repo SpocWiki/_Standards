@@ -29,7 +29,7 @@ title: has_legislation_changes
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/legislation_changes :: Legislation ] or 
@@ -47,7 +47,9 @@ rather than the existence of a consolidated version of the text that shows the r
 For consolidation relationships, use the [[legislation_Consolidates]] property.
 
 Relation describes that: 
-[ #has_/domain  :: Legislation ]
+
+#has_/domain  :: Legislation  
+
 ( #has_/name :: has_legislation_changes_to )
 ( #has_/range :: Legislation )
 

@@ -34,7 +34,9 @@ Use it like this:
 Classification of the album by its type of content: soundtrack, live album, studio album, etc.
 
 Relation describes that: 
-[ #has_/domain  :: MusicAlbum ]
+
+#has_/domain  :: MusicAlbum  
+
 ( #has_/name :: has_album_production_type )
 ( #has_/range :: MusicAlbumProductionType )
 

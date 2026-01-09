@@ -37,7 +37,9 @@ Or write it as a Triple:
 Whether multiple values are allowed for the property.  Default is false.
 
 Predicate describes that: 
-[ #has_/domain  :: PropertyValueSpecification ]
+
+#has_/domain  :: PropertyValueSpecification  
+
 ( #has_/name :: is_multi_valued )
 ( #has_/range :: Boolean )
 

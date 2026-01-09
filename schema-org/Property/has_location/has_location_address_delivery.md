@@ -36,7 +36,9 @@ Use it like this:
 Destination address.
 
 Predicate describes that: 
-[ #has_/domain  :: ParcelDelivery ]
+
+#has_/domain  :: ParcelDelivery  
+
 ( #has_/name :: has_location_address_delivery )
 ( #has_/range :: PostalAddress )
 

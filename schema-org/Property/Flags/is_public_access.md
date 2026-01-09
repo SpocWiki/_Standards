@@ -38,7 +38,9 @@ A flag to signal that the [[../../../Earth/Geography/Place]] Subject is open to 
 If this property is omitted there is no assumed default boolean value
 
 Predicate describes that: 
-[ #has_/domain  :: Place ]
+
+#has_/domain  :: Place  
+
 ( #has_/name :: is_public_access )
 ( #has_/range :: Boolean )
 

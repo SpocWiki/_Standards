@@ -44,7 +44,9 @@ Text values are best if the elements in the list are plain strings. Existing ent
 Note: The order of elements in your mark-up is not sufficient for indicating the order or elements.  Use ListItem with a 'position' property in such cases.
 
 Relation describes that: 
-[ #has_/domain  :: ItemList ]
+
+#has_/domain  :: ItemList  
+
 ( #has_/name :: has_item_list_element )
 ( #has_/range :: ListItem, Text, Thing )
 

@@ -38,7 +38,9 @@ Use it like this:
 The edition of a video game.
 
 Predicated describes that: 
-[ #has_/domain  :: VideoGame ]
+
+#has_/domain  :: VideoGame  
+
 ( #has_/name :: has_text_of_game_edition )
 ( #has_/range :: Text )
 

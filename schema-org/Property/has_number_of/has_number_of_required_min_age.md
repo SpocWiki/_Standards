@@ -36,7 +36,9 @@ Use it like this:
 Audiences defined by a person's minimum age.
 
 Predicate describes that: 
-[ #has_/domain  :: PeopleAudience ]
+
+#has_/domain  :: PeopleAudience  
+
 ( #has_/name :: has_number_of_required_min_age )
 ( #has_/range :: Integer )
 

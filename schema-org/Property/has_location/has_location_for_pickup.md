@@ -36,7 +36,9 @@ Use it like this:
 Where a taxi will pick up a passenger or a rental car can be picked up.
 
 Predicate describes that: 
-[ #has_/domain  :: RentalCarReservation, TaxiReservation ]
+
+#has_/domain  :: RentalCarReservation, TaxiReservation  
+
 ( #has_/name :: has_location_for_pickup )
 ( #has_/range :: Place )
 

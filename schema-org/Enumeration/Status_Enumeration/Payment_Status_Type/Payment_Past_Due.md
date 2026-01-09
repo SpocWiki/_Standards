@@ -35,10 +35,9 @@ Tag Instances like this:
 
 The payment is due and considered late.
 
-[ #is_/sub_class_of :: [[../PaymentStatusType]] ]
+#is_/sub_class_of :: [[../PaymentStatusType]]  
 
-[ #is_/enum_of :: [[../PaymentStatusType]] ]
-
+#is_/enum_of :: [[../PaymentStatusType]]  
 
 ## Confidential Links & Embeds: 
 

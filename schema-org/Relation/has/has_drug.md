@@ -31,7 +31,9 @@ Use it like this:
 Specifying a drug or medicine used in a medication procedure.
 
 Relation describes that: 
-[ #has_/domain  :: DrugClass, MedicalCondition, Patient, TherapeuticProcedure ]
+
+#has_/domain  :: DrugClass, MedicalCondition, Patient, TherapeuticProcedure  
+
 ( #has_/name :: has_drug )
 ( #has_/range :: Drug )
 

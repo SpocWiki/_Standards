@@ -38,7 +38,9 @@ Use it like this:
 Assets required to secure loan or credit repayments. It may take form of third party pledge, goods, financial instruments (cash, securities, etc.)
 
 Predicated describes that: 
-[ #has_/domain  :: LoanOrCredit ]
+
+#has_/domain  :: LoanOrCredit  
+
 ( #has_/name :: has_text_of_required_collateral )
 ( #has_/range :: Text, Thing )
 

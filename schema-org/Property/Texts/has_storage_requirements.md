@@ -38,7 +38,9 @@ Use it like this:
 Storage requirements (free space required).
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_storage_requirements )
 ( #has_/range :: Text, URL )
 

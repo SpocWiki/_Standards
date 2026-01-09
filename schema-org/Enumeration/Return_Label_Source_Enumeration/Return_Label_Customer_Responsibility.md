@@ -33,14 +33,13 @@ Class of all return_label_customer_responsibilitys.
 Tag Instances like this: 
 #is_a_/return_label_customer_responsibility
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Indicated that creating a return label is the responsibility of the customer.
 
-[ #is_/sub_class_of :: [[../ReturnLabelSourceEnumeration]] ]
+#is_/sub_class_of :: [[../ReturnLabelSourceEnumeration]]  
 
-[ #is_/enum_of :: [[../ReturnLabelSourceEnumeration]] ]
-
+#is_/enum_of :: [[../ReturnLabelSourceEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

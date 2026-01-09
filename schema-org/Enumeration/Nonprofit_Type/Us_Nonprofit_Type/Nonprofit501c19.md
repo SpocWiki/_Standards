@@ -31,14 +31,13 @@ Class of all nonprofit501c19s.
 Tag Instances like this: 
 #is_a_/nonprofit501c19
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Nonprofit501c19: Non-profit type referring to Post or Organization of Past or Present Members of the Armed Forces.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+#is_/sub_class_of :: [[../USNonprofitType]]  
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+#is_/enum_of :: [[../USNonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

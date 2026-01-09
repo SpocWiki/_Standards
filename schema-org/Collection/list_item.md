@@ -33,12 +33,11 @@ Tag Instances like this:
 
 An list item, e.g. a step in a checklist or how-to description.
 
-[ #is_/sub_class_of ::[[../Class/is_a_/Intangible]]] ]
+#is_/sub_class_of ::[[../Class/is_a_/Intangible]]]  
 
-[ #has_/sub_classes :: [ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ] ]
+#has_/sub_classes :: [ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

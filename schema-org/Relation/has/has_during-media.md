@@ -41,7 +41,9 @@ Use it like this:
 A media object representing the circumstances while performing this direction.
 
 Relation describes that: 
-[ #has_/domain  :: HowToDirection ]
+
+#has_/domain  :: HowToDirection  
+
 ( #has_/name :: has_during-media )
 ( #has_/range :: MediaObject, URL )
 

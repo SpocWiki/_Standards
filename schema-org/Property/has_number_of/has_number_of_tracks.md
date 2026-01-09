@@ -36,7 +36,9 @@ Use it like this:
 The number of tracks in this album or playlist.
 
 Predicate describes that: 
-[ #has_/domain  :: MusicPlaylist ]
+
+#has_/domain  :: MusicPlaylist  
+
 ( #has_/name :: has_number_of_tracks )
 ( #has_/range :: Integer )
 

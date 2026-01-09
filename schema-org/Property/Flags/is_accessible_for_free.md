@@ -38,7 +38,9 @@ Or write it as a Triple:
 A flag to signal that the item, event, or place is accessible for free.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork, Event, Place ]
+
+#has_/domain  :: CreativeWork, Event, Place  
+
 ( #has_/name :: is_accessible_for_free )
 ( #has_/range :: Boolean )
 

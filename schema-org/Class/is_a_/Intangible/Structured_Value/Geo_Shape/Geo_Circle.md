@@ -36,10 +36,9 @@ A GeoCircle is a GeoShape representing a circular geographic area. As it is a Ge
 		  it provides the simple textual property 'circle', but also allows the combination of postalCode alongside geoRadius.
 		  The center of the circle can be indicated via the 'geoMidpoint' property, or more approximately using 'address', 'postalCode'.
 
-[ #is_/sub_class_of :: [[../GeoShape]] ]
+#is_/sub_class_of :: [[../GeoShape]]  
 
-[ #has_/properties :: [ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, geoMidpoint, geoRadius, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, geoMidpoint, geoRadius, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

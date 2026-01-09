@@ -37,7 +37,9 @@ Or write it as a Triple:
 Indicates whether a FoodEstablishment accepts reservations. Values can be Boolean, an URL at which reservations can be made or (for backwards compatibility) the strings <code>Yes</code> or <code>No</code>.
 
 Predicate describes that: 
-[ #has_/domain  :: FoodEstablishment ]
+
+#has_/domain  :: FoodEstablishment  
+
 ( #has_/name :: is_reservation_accepted )
 ( #has_/range :: Boolean, Text, URL )
 

@@ -38,7 +38,9 @@ Use it like this:
 The airline-specific indicator of boarding order / preference.
 
 Predicated describes that: 
-[ #has_/domain  :: FlightReservation ]
+
+#has_/domain  :: FlightReservation  
+
 ( #has_/name :: has_text_of_boarding_group )
 ( #has_/range :: Text )
 

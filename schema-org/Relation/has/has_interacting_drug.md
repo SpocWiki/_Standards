@@ -35,7 +35,9 @@ Use it like this:
 Another drug that is known to interact with this drug in a way that impacts the effect of this drug or causes a risk to the patient. Note: disease interactions are typically captured as contraindications.
 
 Relation describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_interacting_drug )
 ( #has_/range :: Drug )
 

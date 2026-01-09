@@ -32,12 +32,11 @@ Class of all adult_oriented_enumerations.
 Tag Instances like this: 
 #is_an_/adult_oriented_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Enumeration of considerations that make a product relevant or potentially restricted for adults only.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

@@ -45,14 +45,15 @@ Use it like this:
 - [ has_work_example :: CreativeWork ] 
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_work_example )
 ( #has_/range :: CreativeWork )
 
-[ #is_/inverse_of  :: exampleOfWork ]
+#is_/inverse_of  :: exampleOfWork  
 
-[ #has_/sub_properties :: [ appearance, firstAppearance ] ]
-
+#has_/sub_properties :: [ appearance, firstAppearance ]  
 
 ## Confidential Links & Embeds: 
 

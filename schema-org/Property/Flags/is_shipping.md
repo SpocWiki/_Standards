@@ -27,7 +27,7 @@ title: is_shipping
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/shipping 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 Indicates when shipping to a particular [[shippingDestination]] is not available.
 
 Predicate describes that: 
-[ #has_/domain  :: OfferShippingDetails, ShippingRateSettings ]
+
+#has_/domain  :: OfferShippingDetails, ShippingRateSettings  
+
 ( #has_/name :: is_shipping )
 ( #has_/range :: Boolean )
 

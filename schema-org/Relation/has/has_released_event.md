@@ -35,7 +35,9 @@ Use it like this:
 The place and time the release was issued, expressed as a PublicationEvent.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_released_event )
 ( #has_/range :: PublicationEvent )
 

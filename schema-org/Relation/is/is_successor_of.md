@@ -40,7 +40,9 @@ A pointer from a newer variant of a product  to its previous,
 often [[../../Enumeration/Item_Availability/Discontinued|discontinued]] predecessor.
 
 Relation describes that: 
-[#has_/domain :: [[../../Class/is_a_/product/product_model|ProductModel]] ]
+
+#has_/domain :: [[../../Class/is_a_/product/product_model|ProductModel]]  
+
 ( #has_/name :: is_successor_of )
 ( #has_/range :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] )
 

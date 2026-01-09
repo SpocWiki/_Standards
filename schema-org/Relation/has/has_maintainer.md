@@ -33,7 +33,9 @@ Use it like this:
 A maintainer of a [[../../../Society/Communication/Media/Creative_Work/Dataset]], software package ([[SoftwareApplication]]), or other [[../../../Society/Agent/Community/Organization/Project]]. A maintainer is a [[../../../Society/Agent/Person]] or [[../../../Society/Agent/Community/Organization]] that manages contributions to, and/or publication of, some (typically complex) artifact. It is common for distributions of software and data to be based on "upstream" sources. When [[maintainer]] is applied to a specific version of something e.g. a particular version or packaging of a [[../../../Society/Communication/Media/Creative_Work/Dataset]], it is always  possible that the upstream source has a different maintainer. The [[isBasedOn]] property can be used to indicate such relationships between datasets to make the different maintenance roles clear. Similarly in the case of software, a package may have dedicated maintainers working on integration into software distributions such as Ubuntu, as well as upstream maintainers of the underlying work.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_maintainer )
 ( #has_/range :: Organization, Person )
 

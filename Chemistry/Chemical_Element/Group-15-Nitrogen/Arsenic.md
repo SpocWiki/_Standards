@@ -124,18 +124,25 @@ ZVG_number: 8280
 [GroupName::Group-15-Nitrogen]
 Group::[[../Group-15-Nitrogen]]]
 
+has_/name_/en::Arsenic 
 
-[has_/name_/en::Arsenic]
-[has_/name_/de::Arsen]
-[has_/value_for_/weight_/u::74.9216]
+has_/name_/de::Arsen 
+
+has_/value_for_/weight_/u::74.9216 
+
 [AtomRadius::1.33]
 [Atom-Vol-ccm-mol::13.1]
 [Unknown2::1.2]
-[has_/value_for_/radius_/nano_/m::9.81]
+
+has_/value_for_/radius_/nano_/m::9.81 
+
 [Electronegative::2.2]
 [Density::5.72]
-[has_/value_for_/temperature_/melt_/c ::808]
-[has_/value_for_/temperature_/boil_/c ::613]
+
+has_/value_for_/temperature_/melt_/c ::808 
+
+has_/value_for_/temperature_/boil_/c ::613 
+
 [HeatCapacity::0.33]
 [HeatConduct::0.5]
 [Enthalpy::0]

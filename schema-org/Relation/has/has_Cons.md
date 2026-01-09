@@ -18,11 +18,13 @@ Use it like this:
 - [ has_Cons :: [[../../Collection]]] 
 
 Relation describes that: 
-[ #has_/domain  :: [[../../Class|Class]] ]
+
+#has_/domain  :: [[../../Class|Class]]  
+
 ( #has_/name :: [[has_Cons]] )
 ( #has_/range :: [[../../Collection]] )
 
-[ #is_/inverse_of  :: is_inhibiting ] 
+#is_/inverse_of  :: is_inhibiting  
 
 The Name is derived from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
 'contra'. 

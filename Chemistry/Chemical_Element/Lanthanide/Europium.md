@@ -57,18 +57,25 @@ ZVG_number: 7630
 [GroupName::Lanthanide-Group]
 Group::[[../Lanthanide]]
 
+has_/name_/en::Europium 
 
-[has_/name_/en::Europium]
-[has_/name_/de::Europium]
-[has_/value_for_/weight_/u::151.96]
+has_/name_/de::Europium 
+
+has_/value_for_/weight_/u::151.96 
+
 [AtomRadius::2.56]
 [Atom-Vol-ccm-mol::28.9]
 [Unknown2::1.85]
-[has_/value_for_/radius_/nano_/m::5.67]
+
+has_/value_for_/radius_/nano_/m::5.67 
+
 [Electronegative::1.2]
 [Density::5.26]
-[has_/value_for_/temperature_/melt_/c ::822]
-[has_/value_for_/temperature_/boil_/c ::1597]
+
+has_/value_for_/temperature_/melt_/c ::822 
+
+has_/value_for_/temperature_/boil_/c ::1597 
+
 [HeatCapacity::0.18]
 [HeatConduct::0.139]
 [Enthalpy::9.21]

@@ -33,7 +33,7 @@ type: Pred_Text
 
 Predicate to describe the Text of Gene, Protein.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/has_bio_polymer_sequence :: Text ] or 
@@ -42,12 +42,13 @@ Use it like this:
 A symbolic representation of a BioChemEntity. For example, a nucleotide sequence of a Gene or an amino acid sequence of a Protein.
 
 Predicated describes that: 
-[ #has_/domain  :: Gene, Protein ]
+
+#has_/domain  :: Gene, Protein  
+
 ( #has_/name :: has_text_of_has_bio_polymer_sequence )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: hasRepresentation ]
-
+#is_/sub_property_of  :: hasRepresentation  
 
 ## Confidential Links & Embeds: 
 

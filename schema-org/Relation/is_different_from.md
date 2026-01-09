@@ -41,7 +41,9 @@ Use it like this:
 A pointer to another, maybe similar but distinct product (or multiple products).
 
 Relation describes that: 
-[ #has_/domain  :: Product, Service]
+
+#has_/domain  :: Product, Service 
+
 ( #has_/name :: is_different_from)
 ( #has_/range :: Product, Service)
 

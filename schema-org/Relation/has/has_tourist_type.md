@@ -35,7 +35,9 @@ Use it like this:
 Attraction suitable for type(s) of tourist. E.g. children, visitors from a particular country, etc.
 
 Relation describes that: 
-[ #has_/domain  :: TouristAttraction, TouristDestination, TouristTrip ]
+
+#has_/domain  :: TouristAttraction, TouristDestination, TouristTrip  
+
 ( #has_/name :: is_tourist_type )
 ( #has_/range :: Audience, Text )
 

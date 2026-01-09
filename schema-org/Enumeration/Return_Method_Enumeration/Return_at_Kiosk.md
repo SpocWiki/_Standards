@@ -33,14 +33,13 @@ Class of all return_at_kiosks.
 Tag Instances like this: 
 #is_a_/return_at_kiosk
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that product returns must be made at a kiosk.
 
-[ #is_/sub_class_of :: [[../ReturnMethodEnumeration]] ]
+#is_/sub_class_of :: [[../ReturnMethodEnumeration]]  
 
-[ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
-
+#is_/enum_of :: [[../ReturnMethodEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

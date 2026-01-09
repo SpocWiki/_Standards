@@ -31,7 +31,9 @@ Use it like this:
 People or organizations that endorse the plan.
 
 Relation describes that: 
-[ #has_/domain  :: Diet ]
+
+#has_/domain  :: Diet  
+
 ( #has_/name :: has_endorsers )
 ( #has_/range :: Organization, Person )
 

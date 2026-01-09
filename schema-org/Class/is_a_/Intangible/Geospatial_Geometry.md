@@ -32,14 +32,13 @@ Class of all geospatial_geometrys.
 Tag Instances like this: 
 #is_a_/geospatial_geometry
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 (Eventually to be defined as) a supertype of GeoShape designed to accommodate definitions from Geo-Spatial best practices.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

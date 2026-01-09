@@ -31,7 +31,7 @@ type: Pred_Text
 
 Predicate to describe the Text of MolecularEntity.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/molecular_formula :: Text ] or 
@@ -40,7 +40,9 @@ Use it like this:
 The empirical formula is the simplest whole number ratio of all the atoms in a molecule.
 
 Predicated describes that: 
-[ #has_/domain  :: MolecularEntity ]
+
+#has_/domain  :: MolecularEntity  
+
 ( #has_/name :: has_text_of_molecular_formula )
 ( #has_/range :: Text )
 

@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A service provided by a government organization, e.g. food stamps, veterans benefits, etc.
 
-[ #is_/sub_class_of :: [[../Service]] ]
+#is_/sub_class_of :: [[../Service]]  
 
-[ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, jurisdiction, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOperator, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
-
+#has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, jurisdiction, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOperator, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 
 ## Confidential Links & Embeds: 
 

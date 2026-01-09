@@ -27,7 +27,7 @@ title: has_diversity_staffing_report
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/diversity_staffing_report :: Article, URL ] or 
@@ -36,12 +36,13 @@ Use it like this:
 For an [[../../../Society/Agent/Community/Organization]] (often but not necessarily a [[NewsMediaOrganization]]), a report on staffing diversity issues. In a news context this might be for example ASNE or RTDNA (US) reports, or self-reported.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization, Organization ]
+
+#has_/domain  :: NewsMediaOrganization, Organization  
+
 ( #has_/name :: has_diversity_staffing_report )
 ( #has_/range :: Article, URL )
 
-[ #is_/sub_property_of  :: publishingPrinciples ]
-
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

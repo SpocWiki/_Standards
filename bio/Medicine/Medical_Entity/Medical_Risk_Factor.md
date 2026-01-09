@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A risk factor is anything that increases a person's likelihood of developing or contracting a disease, medical condition, or complication.
 
-[ #is_/sub_class_of :: [[../MedicalEntity]] ]
+#is_/sub_class_of :: [[../MedicalEntity]]  
 
-[ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, increasesRiskOf, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, increasesRiskOf, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

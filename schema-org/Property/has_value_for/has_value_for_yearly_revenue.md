@@ -36,7 +36,9 @@ Use it like this:
 The size of the business in annual revenue.
 
 Predicate describes that: 
-[ #has_/domain  :: BusinessAudience ]
+
+#has_/domain  :: BusinessAudience  
+
 ( #has_/name :: has_value_for_yearly_revenue )
 ( #has_/range :: QuantitativeValue )
 

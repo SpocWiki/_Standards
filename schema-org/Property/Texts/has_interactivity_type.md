@@ -38,7 +38,9 @@ Use it like this:
 The predominant mode of learning supported by the learning resource. Acceptable values are "active", "expositive", or "mixed".
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_text_of_interactivity_type )
 ( #has_/range :: Text )
 

@@ -35,7 +35,9 @@ Use it like this:
 An option available on this contact point (e.g. a toll-free number or support for hearing-impaired callers).
 
 Relation describes that: 
-[ #has_/domain  :: ContactPoint ]
+
+#has_/domain  :: ContactPoint  
+
 ( #has_/name :: has_contact_option )
 ( #has_/range :: ContactPointOption )
 

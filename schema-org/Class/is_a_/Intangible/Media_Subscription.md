@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A subscription which allows a user to access media including audio, video, books, etc.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, authenticator, description, disambiguatingDescription, expectsAcceptanceOf, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, authenticator, description, disambiguatingDescription, expectsAcceptanceOf, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

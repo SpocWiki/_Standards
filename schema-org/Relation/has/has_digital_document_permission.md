@@ -37,7 +37,9 @@ Use it like this:
 A permission related to the access to this document (e.g. permission to read or write an electronic document). For a public document, specify a grantee with an Audience with audienceType equal to "public".
 
 Relation describes that: 
-[ #has_/domain  :: DigitalDocument ]
+
+#has_/domain  :: DigitalDocument  
+
 ( #has_/name :: has_digital_document_permission )
 ( #has_/range :: DigitalDocumentPermission )
 

@@ -35,7 +35,9 @@ Use it like this:
 A hospital with which the physician or office is affiliated.
 
 Relation describes that: 
-[ #has_/domain  :: Physician ]
+
+#has_/domain  :: Physician  
+
 ( #has_/name :: has_hospital_affiliation )
 ( #has_/range :: Hospital )
 

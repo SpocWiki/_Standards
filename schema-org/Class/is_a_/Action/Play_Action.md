@@ -38,12 +38,11 @@ Related actions:
 - [[ListenAction]]: Unlike ListenAction (which is under ConsumeAction), PlayAction refers to performing for an audience or at an event, rather than only consuming music.
 - [[WatchAction]]: Unlike WatchAction (which is under ConsumeAction), PlayAction refers to showing/displaying for an audience or at an event, rather than only consuming visual content. 
 
-[ #is_/sub_class_of :: [[../Action]] ]
+#is_/sub_class_of :: [[../Action]]  
 
-[ #has_/sub_classes :: [ ExerciseAction, PerformAction ] ]
+#has_/sub_classes :: [ ExerciseAction, PerformAction ]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

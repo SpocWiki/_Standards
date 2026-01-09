@@ -35,7 +35,9 @@ Use it like this:
 A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement.
 
 Relation describes that: 
-[ #has_/domain  :: PropertyValue, QualitativeValue, QuantitativeValue ]
+
+#has_/domain  :: PropertyValue, QualitativeValue, QuantitativeValue  
+
 ( #has_/name :: is_value_reference )
 ( #has_/range :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text )
 

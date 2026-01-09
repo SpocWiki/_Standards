@@ -41,7 +41,9 @@ Use it like this:
 - [ has_url_for_additional_type :: URL ] 
 
 Predicate describes that: 
-[ #has_/domain  :: [[../../Class/Thing]] ]
+
+#has_/domain  :: [[../../Class/Thing]]  
+
 ( #has_/name :: has_url_for_additional_type )
 ( #has_/range :: URL )
 

@@ -31,7 +31,9 @@ Use it like this:
 The status of the study (enumerated).
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition, MedicalProcedure, MedicalStudy ]
+
+#has_/domain  :: MedicalCondition, MedicalProcedure, MedicalStudy  
+
 ( #has_/name :: is_status )
 ( #has_/range :: EventStatusType, MedicalStudyStatus, Text )
 

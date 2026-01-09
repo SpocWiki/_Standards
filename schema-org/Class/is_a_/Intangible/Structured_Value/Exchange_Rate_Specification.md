@@ -32,14 +32,13 @@ Class of all exchange_rate_specifications.
 Tag Instances like this: 
 #is_an_/exchange_rate_specification
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A structured value representing exchange rate.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, currency, currentExchangeRate, description, disambiguatingDescription, exchangeRateSpread, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, currency, currentExchangeRate, description, disambiguatingDescription, exchangeRateSpread, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

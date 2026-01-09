@@ -33,7 +33,7 @@ type: Pred_Text
 
 Predicate to describe the Text of Product.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/id_/of_product_group :: Text ] or 
@@ -42,7 +42,9 @@ Use it like this:
 Indicates the [[productGroupID]] for a [[ProductGroup]] that this product [[isVariantOf]].
 
 Predicated describes that: 
-[ #has_/domain  :: Product ]
+
+#has_/domain  :: Product  
+
 ( #has_/name :: has_id_of_product_group )
 ( #has_/range :: Text )
 

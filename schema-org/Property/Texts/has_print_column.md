@@ -38,7 +38,9 @@ Use it like this:
 The number of the column in which the NewsArticle appears in the print edition.
 
 Predicated describes that: 
-[ #has_/domain  :: NewsArticle ]
+
+#has_/domain  :: NewsArticle  
+
 ( #has_/name :: has_text_of_print_column )
 ( #has_/range :: Text )
 

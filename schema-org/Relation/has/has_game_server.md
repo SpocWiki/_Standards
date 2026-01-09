@@ -35,12 +35,13 @@ Use it like this:
 The server on which  it is possible to play the game.
 
 Relation describes that: 
-[ #has_/domain  :: VideoGame ]
+
+#has_/domain  :: VideoGame  
+
 ( #has_/name :: has_game_server )
 ( #has_/range :: GameServer )
 
-[ #is_/inverse_of  :: game ]
-
+#is_/inverse_of  :: game  
 
 ## Confidential Links & Embeds: 
 

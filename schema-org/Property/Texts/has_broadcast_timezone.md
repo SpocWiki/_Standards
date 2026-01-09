@@ -38,7 +38,9 @@ Use it like this:
 The timezone in [ISO 8601 format](http://en.wikipedia.org/wiki/ISO_8601) for which the service bases its broadcasts.
 
 Predicated describes that: 
-[ #has_/domain  :: BroadcastService ]
+
+#has_/domain  :: BroadcastService  
+
 ( #has_/name :: has_text_of_broadcast_timezone )
 ( #has_/range :: Text )
 

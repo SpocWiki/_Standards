@@ -36,7 +36,9 @@ Use it like this:
 Additional content for a software application.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: is_software_add_on )
 ( #has_/range :: SoftwareApplication )
 

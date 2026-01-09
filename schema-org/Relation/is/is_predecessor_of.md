@@ -37,7 +37,9 @@ A pointer from a previous, often [[../../Enumeration/Item_Availability/Discontin
 to its newer variant.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] ]
+
+#has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]  
+
 ( #has_/name :: is_predecessor_of )
 ( #has_/range :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] )
 

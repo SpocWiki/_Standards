@@ -30,7 +30,7 @@ type: Predi_Url
 
 Predicate to specify the Url of HealthInsurancePlan.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/url_for_/benefits_summary:: URL ] or 
@@ -39,7 +39,9 @@ Use it like this:
 The URL that goes directly to the summary of benefits and coverage for the specific standard plan or plan variation.
 
 Predicate describes that: 
-[ #has_/domain  :: HealthInsurancePlan ]
+
+#has_/domain  :: HealthInsurancePlan  
+
 ( #has_/name :: has_url_for_benefits_summary_url )
 ( #has_/range :: URL )
 

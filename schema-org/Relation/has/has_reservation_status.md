@@ -35,7 +35,9 @@ Use it like this:
 The current status of the reservation.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation ]
+
+#has_/domain  :: Reservation  
+
 ( #has_/name :: is_reservation_status )
 ( #has_/range :: ReservationStatusType )
 

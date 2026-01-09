@@ -34,7 +34,9 @@ Use it like this:
 Drugs that affect the test's results.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTest ]
+
+#has_/domain  :: MedicalTest  
+
 ( #has_/name :: is_affected_by )
 ( #has_/range :: Drug )
 

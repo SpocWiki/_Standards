@@ -31,7 +31,9 @@ Use it like this:
 A secondary contributor to the CreativeWork or Event.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Event ]
+
+#has_/domain  :: CreativeWork, Event  
+
 ( #has_/name :: has_contributor )
 ( #has_/range :: Organization, Person )
 

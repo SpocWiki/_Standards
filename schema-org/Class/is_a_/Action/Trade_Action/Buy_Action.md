@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of giving money to a seller in exchange for goods or services rendered. An agent buys an object, product, or service from a seller for a price. Reciprocal of SellAction.
 
-[ #is_/sub_class_of :: [[../TradeAction]] ]
+#is_/sub_class_of :: [[../TradeAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, seller, startTime, subjectOf, target, url, vendor, warrantyPromise ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, seller, startTime, subjectOf, target, url, vendor, warrantyPromise ]  
 
 ## Confidential Links & Embeds: 
 

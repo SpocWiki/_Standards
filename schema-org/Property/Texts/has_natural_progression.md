@@ -38,7 +38,9 @@ Use it like this:
 The expected progression of the condition if it is not treated and allowed to progress naturally.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalCondition ]
+
+#has_/domain  :: MedicalCondition  
+
 ( #has_/name :: has_text_of_natural_progression )
 ( #has_/range :: Text )
 

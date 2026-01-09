@@ -33,7 +33,9 @@ Use it like this:
 A pointer to another product (or multiple products) for which this product is an accessory or spare part.
 
 Relation describes that: 
-[ #has_/domain  :: Product]
+
+#has_/domain  :: Product 
+
 ( #has_/name :: is_accessory_or_spare_part_for)
 ( #has_/range :: Product)
 

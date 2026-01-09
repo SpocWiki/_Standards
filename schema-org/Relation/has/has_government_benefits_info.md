@@ -29,7 +29,7 @@ title: has_government_benefits_info
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/government_benefits_info :: GovernmentService ] or 
@@ -38,7 +38,9 @@ Use it like this:
 governmentBenefitsInfo provides information about government benefits associated with a SpecialAnnouncement.
 
 Relation describes that: 
-[ #has_/domain  :: SpecialAnnouncement ]
+
+#has_/domain  :: SpecialAnnouncement  
+
 ( #has_/name :: has_government_benefits_info )
 ( #has_/range :: GovernmentService )
 

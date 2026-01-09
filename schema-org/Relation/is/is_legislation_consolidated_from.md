@@ -28,7 +28,7 @@ title: is_legislation_consolidated_from
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #is_/legislation_consolidated_from :: Legislation ] or 
@@ -42,7 +42,9 @@ to refer to both the original version or the previous consolidated version,
 and to the legislations making the change.
 
 Relation describes that: 
-[ #has_/domain  :: Legislation ]
+
+#has_/domain  :: Legislation  
+
 ( #has_/name :: is_legislation_consolidated_from )
 ( #has_/range :: Legislation )
 

@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of ShippingDeliveryTime.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/transit_time :: QuantitativeValue ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The typical delay the order has been sent for delivery and the goods reach the final customer. Typical properties: minValue, maxValue, unitCode (d for DAY).
 
 Predicate describes that: 
-[ #has_/domain  :: ShippingDeliveryTime ]
+
+#has_/domain  :: ShippingDeliveryTime  
+
 ( #has_/name :: has_value_for_transit_time )
 ( #has_/range :: QuantitativeValue )
 

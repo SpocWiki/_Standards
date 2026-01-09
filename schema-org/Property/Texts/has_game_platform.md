@@ -38,7 +38,9 @@ Use it like this:
 The electronic systems used to play [video games](http://en.wikipedia.org/wiki/Category:Video_game_platforms).
 
 Predicated describes that: 
-[ #has_/domain  :: VideoGame, VideoGameSeries ]
+
+#has_/domain  :: VideoGame, VideoGameSeries  
+
 ( #has_/name :: has_text_of_game_platform )
 ( #has_/range :: Text, Thing, URL )
 

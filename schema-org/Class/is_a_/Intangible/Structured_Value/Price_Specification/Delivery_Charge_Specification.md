@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The price for the delivery of an offer using a particular delivery method.
 
-[ #is_/sub_class_of :: [[../PriceSpecification]] ]
+#is_/sub_class_of :: [[../PriceSpecification]]  
 
-[ #has_/properties :: [ additionalType, alternateName, appliesToDeliveryMethod, areaServed, description, disambiguatingDescription, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, identifier, image, ineligibleRegion, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
-
+#has_/properties :: [ additionalType, alternateName, appliesToDeliveryMethod, areaServed, description, disambiguatingDescription, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, identifier, image, ineligibleRegion, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]  
 
 ## Confidential Links & Embeds: 
 

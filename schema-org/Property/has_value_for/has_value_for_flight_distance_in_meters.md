@@ -36,7 +36,9 @@ Use it like this:
 The distance of the flight.
 
 Predicate describes that: 
-[ #has_/domain  :: Flight ]
+
+#has_/domain  :: Flight  
+
 ( #has_/name :: has_value_for_flight_distance_in_meters )
 ( #has_/range :: Distance, Text )
 

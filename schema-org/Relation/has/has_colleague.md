@@ -32,7 +32,9 @@ Use it like this:
 A colleague of the person.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_colleague )
 ( #has_/range :: Person, URL )
 

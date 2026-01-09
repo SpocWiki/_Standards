@@ -33,12 +33,13 @@ Use it like this:
 The BroadcastService offered on this channel.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastChannel]
+
+#has_/domain  :: BroadcastChannel 
+
 ( #has_/name :: is_providing_broadcast_service)
 ( #has_/range :: BroadcastService)
 
-[ #is_/inverse_of  :: hasBroadcastChannel]
-
+#is_/inverse_of  :: hasBroadcastChannel 
 
 ## Confidential Links & Embeds: 
 

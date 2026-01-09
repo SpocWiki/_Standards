@@ -39,7 +39,9 @@ Use it like this:
 The telephone number. Specify the Type of Phone Number to distinguish multiple. 
 
 Predicated describes that: 
-[ #has_/domain  :: ContactPoint, Organization, Person, Place ]
+
+#has_/domain  :: ContactPoint, Organization, Person, Place  
+
 ( #has_/name :: has_telephone )
 ( #has_/range :: Text )
 

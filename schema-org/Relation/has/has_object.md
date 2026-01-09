@@ -32,7 +32,9 @@ The object upon which the action is carried out, whose state is kept intact or c
 Rather choose one of the more specific Roles listed below:
 
 Relation describes that: 
-[ #has_/domain  :: Action ]
+
+#has_/domain  :: Action  
+
 ( #has_/name :: has_object )
 ( #has_/range :: Thing )
 

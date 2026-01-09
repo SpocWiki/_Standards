@@ -36,7 +36,9 @@ Use it like this:
 Number of players on the server.
 
 Predicate describes that: 
-[ #has_/domain  :: GameServer ]
+
+#has_/domain  :: GameServer  
+
 ( #has_/name :: has_number_of_players_online )
 ( #has_/range :: Integer )
 

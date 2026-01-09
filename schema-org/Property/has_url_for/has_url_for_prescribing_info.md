@@ -36,7 +36,9 @@ Use it like this:
 Link to prescribing information for the drug.
 
 Predicate describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_url_for_prescribing_info )
 ( #has_/range :: URL )
 

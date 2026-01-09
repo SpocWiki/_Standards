@@ -37,7 +37,9 @@ Or write it as a Triple:
 Indicates whether this image is representative of the content of the page.
 
 Predicate describes that: 
-[ #has_/domain  :: ImageObject ]
+
+#has_/domain  :: ImageObject  
+
 ( #has_/name :: is_representative_of_page )
 ( #has_/range :: Boolean )
 

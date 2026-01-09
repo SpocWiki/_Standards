@@ -39,7 +39,9 @@ centered at a specified latitude and longitude.
 A circle is expressed as a pair followed by a radius in meters.
 
 Predicated describes that: 
-[ #has_/domain  :: GeoShape ]
+
+#has_/domain  :: GeoShape  
+
 ( #has_/name :: has_text_of_circle )
 ( #has_/range :: Text )
 

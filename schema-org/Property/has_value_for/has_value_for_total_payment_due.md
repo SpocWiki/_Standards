@@ -36,7 +36,9 @@ Use it like this:
 The total amount due.
 
 Predicate describes that: 
-[ #has_/domain  :: Invoice ]
+
+#has_/domain  :: Invoice  
+
 ( #has_/name :: has_value_for_total_payment_due )
 ( #has_/range :: MonetaryAmount, PriceSpecification )
 

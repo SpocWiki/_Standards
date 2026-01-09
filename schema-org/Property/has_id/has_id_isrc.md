@@ -38,7 +38,9 @@ Use it like this:
 The International Standard Recording Code for the recording.
 
 Predicated describes that: 
-[ #has_/domain  :: MusicRecording ]
+
+#has_/domain  :: MusicRecording  
+
 ( #has_/name :: has_id_id_isrc_code )
 ( #has_/range :: Text )
 

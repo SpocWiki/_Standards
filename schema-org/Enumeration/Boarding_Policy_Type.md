@@ -34,8 +34,7 @@ Tag Instances like this:
 
 A type of boarding policy used by an airline.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

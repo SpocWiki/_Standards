@@ -35,7 +35,9 @@ Use it like this:
 The service through which the permit was granted.
 
 Relation describes that: 
-[ #has_/domain  :: Permit ]
+
+#has_/domain  :: Permit  
+
 ( #has_/name :: is_issued_through )
 ( #has_/range :: Service )
 

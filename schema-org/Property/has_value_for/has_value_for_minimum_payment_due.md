@@ -36,7 +36,9 @@ Use it like this:
 The minimum payment required at this time.
 
 Predicate describes that: 
-[ #has_/domain  :: Invoice ]
+
+#has_/domain  :: Invoice  
+
 ( #has_/name :: has_value_for_minimum_payment_due )
 ( #has_/range :: MonetaryAmount, PriceSpecification )
 

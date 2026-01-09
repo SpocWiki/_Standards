@@ -36,10 +36,9 @@ An intangible item that describes an alignment between a learning resource and a
 
 Should not be used where the nature of the alignment can be described using a simple property, for example to express that a resource [[teaches]] or [[assesses]] a competency.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alignmentType, alternateName, description, disambiguatingDescription, educationalFramework, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, targetDescription, targetName, targetUrl, url ] ]
-
+#has_/properties :: [ additionalType, alignmentType, alternateName, description, disambiguatingDescription, educationalFramework, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, targetDescription, targetName, targetUrl, url ]  
 
 ## Confidential Links & Embeds: 
 

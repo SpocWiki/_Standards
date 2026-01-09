@@ -7,8 +7,8 @@ type: LangFamily
 ---
 
 [SpocWebEntityId:: 248 ]
-[has_/name::Japanese~Ryukyu]
 
+has_/name::Japanese~Ryukyu 
 
 ## Confidential Links & Embeds: 
 

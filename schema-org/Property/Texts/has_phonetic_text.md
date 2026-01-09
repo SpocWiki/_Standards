@@ -31,7 +31,7 @@ type: Pred_Text
 
 Predicate to describe the Text of PronounceableText.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/phonetic_text :: Text ] or 
@@ -40,7 +40,9 @@ Use it like this:
 Representation of a text [[textValue]] using the specified [[speechToTextMarkup]]. For example the city name of Houston in IPA: /?hju?st?n/.
 
 Predicated describes that: 
-[ #has_/domain  :: PronounceableText ]
+
+#has_/domain  :: PronounceableText  
+
 ( #has_/name :: has_text_of_phonetic_text )
 ( #has_/range :: Text )
 

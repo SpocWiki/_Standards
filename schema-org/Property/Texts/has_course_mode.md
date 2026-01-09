@@ -38,7 +38,9 @@ Use it like this:
 The medium or means of delivery of the course instance or the mode of study, either as a text label (e.g. "online", "onsite" or "blended"; "synchronous" or "asynchronous"; "full-time" or "part-time") or as a URL reference to a term from a controlled vocabulary (e.g. https://ceds.ed.gov/element/001311#Asynchronous).
 
 Predicated describes that: 
-[ #has_/domain  :: CourseInstance ]
+
+#has_/domain  :: CourseInstance  
+
 ( #has_/name :: has_text_of_course_mode )
 ( #has_/range :: Text, URL )
 

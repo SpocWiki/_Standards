@@ -38,7 +38,9 @@ Use it like this:
 A short summary of the specific claims reviewed in a ClaimReview.
 
 Predicated describes that: 
-[ #has_/domain  :: ClaimReview ]
+
+#has_/domain  :: ClaimReview  
+
 ( #has_/name :: has_text_of_claim_reviewed )
 ( #has_/range :: Text )
 

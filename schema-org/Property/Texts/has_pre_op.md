@@ -38,7 +38,9 @@ Use it like this:
 A description of the workup, testing, and other preparations required before implanting this device.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalDevice ]
+
+#has_/domain  :: MedicalDevice  
+
 ( #has_/name :: has_text_of_pre_op )
 ( #has_/range :: Text )
 

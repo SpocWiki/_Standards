@@ -28,7 +28,7 @@ title: has_first_appearance_in
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/first_appearance_in :: CreativeWork ] or 
@@ -38,12 +38,13 @@ Indicates the first known occurrence of a [[../../../Society/Communication/Media
 This is used to attribute the original Author/Creator with the Claim. 
 
 Relation describes that: 
-[ #has_/domain  :: Claim ]
+
+#has_/domain  :: Claim  
+
 ( #has_/name :: has_first_appearance_in )
 ( #has_/range :: CreativeWork )
 
-[ #is_/sub_property_of  :: workExample ]
-
+#is_/sub_property_of  :: workExample  
 
 ## Confidential Links & Embeds: 
 

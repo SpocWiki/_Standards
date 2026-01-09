@@ -130,7 +130,9 @@ writing_system:
 
 
 [SpocWebEntityId:: 466 ]
-[has_/name::Japanese]
+
+has_/name::Japanese 
+
 [PropId_Name::766]
 [PropId_Text::666]
 [LangFamilyId::248]

@@ -35,7 +35,9 @@ Use it like this:
 Organizations that the person works for.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_works_for )
 ( #has_/range :: Organization )
 

@@ -42,8 +42,7 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#PartsAndLabor-PickUp</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

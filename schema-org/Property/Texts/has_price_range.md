@@ -38,7 +38,9 @@ Use it like this:
 The price range of the business, for example <code>$$$</code>.
 
 Predicated describes that: 
-[ #has_/domain  :: LocalBusiness ]
+
+#has_/domain  :: LocalBusiness  
+
 ( #has_/name :: has_text_of_price_range )
 ( #has_/range :: Text )
 

@@ -44,7 +44,9 @@ The amount of fuel consumed for traveling a particular distance or temporal dura
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_value_for_fuel_consumption_l_km )
 ( #has_/range :: QuantitativeValue )
 

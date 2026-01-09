@@ -29,7 +29,7 @@ type: Pred_geo
 
 Predicate to describe the geo of ArchiveComponent.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/location_/item_location :: Place, PostalAddress, Text ] or 
@@ -38,12 +38,13 @@ Use it like this:
 Current location of the item.
 
 Predicate describes that: 
-[ #has_/domain  :: ArchiveComponent ]
+
+#has_/domain  :: ArchiveComponent  
+
 ( #has_/name :: has_location_of_item )
 ( #has_/range :: Place, PostalAddress, Text )
 
-[ #is_/sub_property_of  :: location ]
-
+#is_/sub_property_of  :: location  
 
 ## Confidential Links & Embeds: 
 

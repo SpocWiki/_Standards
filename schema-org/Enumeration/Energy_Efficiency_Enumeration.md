@@ -32,14 +32,13 @@ Class of all energy_efficiency_enumerations.
 Tag Instances like this: 
 #is_an_/energy_efficiency_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Enumerates energy efficiency levels (also known as "classes" or "ratings") and certifications that are part of several international energy efficiency standards.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
+#is_/sub_class_of :: [[../Enumeration]]  
 
-[ #has_/sub_classes :: [ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ] ]
-
+#has_/sub_classes :: [ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]  
 
 ## Confidential Links & Embeds: 
 

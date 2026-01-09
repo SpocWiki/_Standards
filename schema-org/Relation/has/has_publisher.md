@@ -34,7 +34,9 @@ Use it like this:
 The publisher of the creative work. 
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ] 
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_publisher )
 ( #has_/range :: Organization, Person )
 

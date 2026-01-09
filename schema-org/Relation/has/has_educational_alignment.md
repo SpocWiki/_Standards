@@ -39,7 +39,9 @@ An alignment to an established educational framework.
 This property should not be used where the nature of the alignment can be described using a simple property, for example to express that a resource [[teaches]] or [[assesses]] a competency.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, LearningResource ]
+
+#has_/domain  :: CreativeWork, LearningResource  
+
 ( #has_/name :: has_educational_alignment )
 ( #has_/range :: AlignmentObject )
 

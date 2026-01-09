@@ -34,10 +34,9 @@ Tag Instances like this:
 
 Server that provides game interaction in a multiplayer game.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, game, identifier, image, mainEntityOfPage, name, playersOnline, potentialAction, sameAs, serverStatus, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, game, identifier, image, mainEntityOfPage, name, playersOnline, potentialAction, sameAs, serverStatus, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

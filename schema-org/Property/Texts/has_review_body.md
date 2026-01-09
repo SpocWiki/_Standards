@@ -38,7 +38,9 @@ Use it like this:
 The actual body of the review.
 
 Predicated describes that: 
-[ #has_/domain  :: Review ]
+
+#has_/domain  :: Review  
+
 ( #has_/name :: has_text_of_review_body )
 ( #has_/range :: Text )
 

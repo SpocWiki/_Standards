@@ -92,7 +92,9 @@ Use it like this:
 - [ has_name_de :: Text ] 
 
 Predicated describes that: 
-[ #has_/domain  :: [Thing](../../Class/Thing.md) ]
+
+#has_/domain  :: [Thing](../../Class/Thing.md)  
+
 ( #has_/name :: has_name )
 ( #has_/range :: Text )
 

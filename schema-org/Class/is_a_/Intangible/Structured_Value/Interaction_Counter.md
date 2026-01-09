@@ -36,10 +36,9 @@ These Counters are typically collected in a [[../../../../Relation/has/has_inter
 Tag Instances like this: 
 #is_an_/interaction_counter
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endTime, identifier, image, interactionService, interactionType, location, mainEntityOfPage, name, potentialAction, sameAs, startTime, subjectOf, url, userInteractionCount ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endTime, identifier, image, interactionService, interactionType, location, mainEntityOfPage, name, potentialAction, sameAs, startTime, subjectOf, url, userInteractionCount ]  
 
 ## Confidential Links & Embeds: 
 

@@ -38,7 +38,9 @@ Use it like this:
 Any special commitments associated with this job posting. Valid entries include VeteranCommit, MilitarySpouseCommit, etc.
 
 Predicated describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_text_of_special_commitments )
 ( #has_/range :: Text )
 

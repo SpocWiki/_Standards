@@ -36,7 +36,9 @@ Use it like this:
 The quantity of the given bed type available in the HotelRoom, Suite, House, or Apartment.
 
 Predicate describes that: 
-[ #has_/domain  :: BedDetails ]
+
+#has_/domain  :: BedDetails  
+
 ( #has_/name :: has_number_of_beds )
 ( #has_/range :: Number )
 

@@ -31,7 +31,9 @@ Use it like this:
 A publication event associated with the item.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_publication )
 ( #has_/range :: PublicationEvent )
 

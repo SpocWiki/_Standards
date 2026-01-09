@@ -38,7 +38,9 @@ Use it like this:
 Specifies a regular expression for testing literal values according to the HTML spec.
 
 Predicated describes that: 
-[ #has_/domain  :: PropertyValueSpecification ]
+
+#has_/domain  :: PropertyValueSpecification  
+
 ( #has_/name :: has_text_of_value_pattern )
 ( #has_/range :: Text )
 

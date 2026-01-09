@@ -37,7 +37,9 @@ Use it like this:
 A URL pointing to a player for a specific video. In general, this is the information in the <code>src</code> element of an <code>embed</code> tag and should not be the same as the content of the <code>loc</code> tag.
 
 Predicate describes that: 
-[ #has_/domain  :: MediaObject ]
+
+#has_/domain  :: MediaObject  
+
 ( #has_/name :: has_url_for_embed_url )
 ( #has_/range :: URL )
 

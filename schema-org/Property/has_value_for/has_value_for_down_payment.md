@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of RepaymentSpecification.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/down_payment :: MonetaryAmount, Number ] or 
@@ -38,7 +38,9 @@ Use it like this:
 a type of payment made in cash during the onset of the purchase of an expensive good/service. The payment typically represents only a percentage of the full purchase price.
 
 Predicate describes that: 
-[ #has_/domain  :: RepaymentSpecification ]
+
+#has_/domain  :: RepaymentSpecification  
+
 ( #has_/name :: has_value_for_down_payment )
 ( #has_/range :: MonetaryAmount, Number )
 

@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A means for accessing a service, e.g. a government office location, web site, or phone number.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, availableLanguage, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, processingTime, providesService, sameAs, serviceLocation, servicePhone, servicePostalAddress, serviceSmsNumber, serviceUrl, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, availableLanguage, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, processingTime, providesService, sameAs, serviceLocation, servicePhone, servicePostalAddress, serviceSmsNumber, serviceUrl, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

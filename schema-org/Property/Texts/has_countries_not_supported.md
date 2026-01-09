@@ -39,7 +39,9 @@ Use it like this:
 Countries for which the application is not supported. You can also provide the two-letter ISO 3166-1 alpha-2 country code.
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_countries_not_supported )
 ( #has_/range :: Text )
 

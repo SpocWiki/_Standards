@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Results are not available.
 
-[ #is_/sub_class_of :: [[../MedicalStudyStatus]] ]
+#is_/sub_class_of :: [[../MedicalStudyStatus]]  
 
-[ #is_/enum_of :: [[../MedicalStudyStatus]] ]
-
+#is_/enum_of :: [[../MedicalStudyStatus]]  
 
 ## Confidential Links & Embeds: 
 

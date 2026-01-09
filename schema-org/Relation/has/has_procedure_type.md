@@ -35,7 +35,9 @@ Use it like this:
 The type of procedure, for example Surgical, Noninvasive, or Percutaneous.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalProcedure ]
+
+#has_/domain  :: MedicalProcedure  
+
 ( #has_/name :: is_procedure_type )
 ( #has_/range :: MedicalProcedureType )
 

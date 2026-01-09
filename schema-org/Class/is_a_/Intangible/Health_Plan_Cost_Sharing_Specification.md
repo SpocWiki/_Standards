@@ -32,14 +32,13 @@ Class of all health_plan_cost_sharing_specifications.
 Tag Instances like this: 
 #is_a_/health_plan_cost_sharing_specification
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A description of costs to the patient under a given network or formulary.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCoinsuranceOption, healthPlanCoinsuranceRate, healthPlanCopay, healthPlanCopayOption, healthPlanPharmacyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCoinsuranceOption, healthPlanCoinsuranceRate, healthPlanCopay, healthPlanCopayOption, healthPlanPharmacyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

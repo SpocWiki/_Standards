@@ -35,7 +35,9 @@ Use it like this:
 A possible treatment to address this condition, sign or symptom.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition, MedicalSignOrSymptom ]
+
+#has_/domain  :: MedicalCondition, MedicalSignOrSymptom  
+
 ( #has_/name :: is_possible_treatment )
 ( #has_/range :: MedicalTherapy )
 

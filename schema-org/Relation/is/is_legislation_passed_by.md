@@ -29,7 +29,7 @@ title: is_legislation_passed_by
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #is_/legislation_passed_by :: Organization, Person ] or 
@@ -38,12 +38,13 @@ Use it like this:
 The person or organization that originally passed or made the law: typically parliament (for primary legislation) or government (for secondary legislation). This indicates the "legal author" of the law, as opposed to its physical author.
 
 Relation describes that: 
-[ #has_/domain  :: Legislation ]
+
+#has_/domain  :: Legislation  
+
 ( #has_/name :: is_legislation_passed_by )
 ( #has_/range :: Organization, Person )
 
-[ #is_/sub_property_of  :: [[has_creator]] ]
-
+#is_/sub_property_of  :: [[has_creator]]  
 
 ## Confidential Links & Embeds: 
 

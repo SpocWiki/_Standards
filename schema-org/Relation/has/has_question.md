@@ -31,12 +31,13 @@ Use it like this:
 A sub property of object. A question.
 
 Relation describes that: 
-[ #has_/domain  :: AskAction ]
+
+#has_/domain  :: AskAction  
+
 ( #has_/name :: is_question )
 ( #has_/range :: Question )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

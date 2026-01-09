@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A simple system that adds up the number of risk factors to yield a score that is associated with prognosis, e.g. CHAD score, TIMI risk score.
 
-[ #is_/sub_class_of :: [[../MedicalRiskEstimator]] ]
+#is_/sub_class_of :: [[../MedicalRiskEstimator]]  
 
-[ #has_/properties :: [ additionalType, algorithm, alternateName, code, description, disambiguatingDescription, estimatesRiskOf, funding, guideline, identifier, image, includedRiskFactor, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, algorithm, alternateName, code, description, disambiguatingDescription, estimatesRiskOf, funding, guideline, identifier, image, includedRiskFactor, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

@@ -37,7 +37,9 @@ Use it like this:
 The region in which the locality is, and which is in the country. For example, California or another appropriate first-level [Administrative division](https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country).
 
 Predicated describes that: 
-[ #has_/domain  :: DefinedRegion, PostalAddress ]
+
+#has_/domain  :: DefinedRegion, PostalAddress  
+
 ( #has_/name :: has_location_address_region )
 ( #has_/range :: Text )
 

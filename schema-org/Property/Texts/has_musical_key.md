@@ -38,7 +38,9 @@ Use it like this:
 The key, mode, or scale this composition uses.
 
 Predicated describes that: 
-[ #has_/domain  :: MusicComposition ]
+
+#has_/domain  :: MusicComposition  
+
 ( #has_/name :: has_text_of_musical_key )
 ( #has_/range :: Text )
 

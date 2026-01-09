@@ -33,12 +33,11 @@ Class of all graphic_novels.
 Tag Instances like this: 
 #is_a_/graphic_novel
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Book format: [[Graphic_Novel]]. May represent a bound collection of [[../../../../../../Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|comic-issue]] instances.
 
-[ #is_/enum_of :: [[../Book_Format_Type]] ]
-
+#is_/enum_of :: [[../Book_Format_Type]]  
 
 ## Confidential Links & Embeds: 
 

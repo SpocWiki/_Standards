@@ -35,10 +35,9 @@ Tag Instances like this:
 
 An ItemList ordered with lower values listed first.
 
-[ #is_/sub_class_of :: [[../ItemListOrderType]] ]
+#is_/sub_class_of :: [[../ItemListOrderType]]  
 
-[ #is_/enum_of :: [[../ItemListOrderType]] ]
-
+#is_/enum_of :: [[../ItemListOrderType]]  
 
 ## Confidential Links & Embeds: 
 

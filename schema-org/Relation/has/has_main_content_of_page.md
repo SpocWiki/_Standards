@@ -38,7 +38,9 @@ Use it like this:
 Indicates if this web page element is the main subject of the page.
 
 Relation describes that: 
-[ #has_/domain  :: WebPage ]
+
+#has_/domain  :: WebPage  
+
 ( #has_/name :: has_main_content_of_page )
 ( #has_/range :: WebPageElement )
 

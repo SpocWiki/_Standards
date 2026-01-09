@@ -41,7 +41,9 @@ Use it like this:
 - [ has_text_of_available_on_device :: Text ] 
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: [[is_available_on_device]] )
 ( #has_/range :: Text )
 

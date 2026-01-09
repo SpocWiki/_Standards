@@ -43,10 +43,9 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#UPS</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../DeliveryMethod]] ]
+#is_/sub_class_of :: [[../DeliveryMethod]]  
 
-[ #is_/enum_of :: [[../DeliveryMethod]] ]
-
+#is_/enum_of :: [[../DeliveryMethod]]  
 
 ## Confidential Links & Embeds: 
 

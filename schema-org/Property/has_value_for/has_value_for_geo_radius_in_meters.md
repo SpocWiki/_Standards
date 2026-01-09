@@ -36,7 +36,9 @@ Use it like this:
 Indicates the approximate radius of a GeoCircle (metres unless indicated otherwise via Distance notation).
 
 Predicate describes that: 
-[ #has_/domain  :: GeoCircle ]
+
+#has_/domain  :: GeoCircle  
+
 ( #has_/name :: has_value_for_geo_radius_in_meters )
 ( #has_/range :: Distance, Number, Text )
 

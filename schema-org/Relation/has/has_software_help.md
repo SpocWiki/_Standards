@@ -35,7 +35,9 @@ Use it like this:
 Software application help.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: is_software_help )
 ( #has_/range :: CreativeWork )
 

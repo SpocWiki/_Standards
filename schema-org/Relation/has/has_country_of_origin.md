@@ -47,7 +47,9 @@ In the case of TV and movie, this would be the country of the principle offices 
 In the case of products, the country of origin of the product. The exact interpretation of this may vary by context and product type, and can not be fully enumerated here.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Movie, Product, TVEpisode, TVSeason, TVSeries ]
+
+#has_/domain  :: CreativeWork, Movie, Product, TVEpisode, TVSeason, TVSeries  
+
 ( #has_/name :: has_country_of_origin )
 ( #has_/range :: Country )
 

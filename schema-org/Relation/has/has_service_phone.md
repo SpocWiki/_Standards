@@ -35,7 +35,9 @@ Use it like this:
 The phone number to use to access the service.
 
 Relation describes that: 
-[ #has_/domain  :: ServiceChannel ]
+
+#has_/domain  :: ServiceChannel  
+
 ( #has_/name :: is_service_phone )
 ( #has_/range :: ContactPoint )
 

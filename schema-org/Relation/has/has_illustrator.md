@@ -34,7 +34,9 @@ Use it like this:
 The illustrator of the book.
 
 Relation describes that: 
-[ #has_/domain  :: Book ]
+
+#has_/domain  :: Book  
+
 ( #has_/name :: has_illustrator )
 ( #has_/range :: Person )
 

@@ -36,7 +36,9 @@ Use it like this:
 Minimal age of the child.
 
 Predicate describes that: 
-[ #has_/domain  :: ParentAudience ]
+
+#has_/domain  :: ParentAudience  
+
 ( #has_/name :: has_value_for_child_min_age )
 ( #has_/range :: Number )
 

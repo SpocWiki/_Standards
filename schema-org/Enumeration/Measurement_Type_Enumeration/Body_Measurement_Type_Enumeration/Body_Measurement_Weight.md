@@ -33,14 +33,13 @@ Class of all body_measurement_weights.
 Tag Instances like this: 
 #is_a_/body_measurement_weight
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Body weight. Used, for example, to measure pantyhose.
 
-[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
+#is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
-
+#is_/enum_of :: [[../BodyMeasurementTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

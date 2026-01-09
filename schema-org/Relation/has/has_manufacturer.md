@@ -34,7 +34,9 @@ Use it like this:
 The manufacturer of the product.
 
 Relation describes that: 
-[ #has_/domain  :: Product ]
+
+#has_/domain  :: Product  
+
 ( #has_/name :: has_manufacturer )
 ( #has_/range :: Organization )
 

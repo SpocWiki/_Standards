@@ -33,14 +33,13 @@ Class of all eu_energy_efficiency_category_a1pluss.
 Tag Instances like this: 
 #is_an_/eu_energy_efficiency_category_a1plus
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents EU Energy Efficiency Class A+ as defined in EU energy labeling regulations.
 
-[ #is_/sub_class_of :: [[../EUEnergyEfficiencyEnumeration]] ]
+#is_/sub_class_of :: [[../EUEnergyEfficiencyEnumeration]]  
 
-[ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
-
+#is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

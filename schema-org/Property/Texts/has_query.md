@@ -37,12 +37,13 @@ Use it like this:
 A sub property of instrument. The query used on this action.
 
 Predicated describes that: 
-[ #has_/domain  :: SearchAction ]
+
+#has_/domain  :: SearchAction  
+
 ( #has_/name :: has_text_of_query )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: instrument ]
-
+#is_/sub_property_of  :: instrument  
 
 ## Confidential Links & Embeds: 
 

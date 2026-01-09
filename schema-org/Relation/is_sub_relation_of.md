@@ -17,7 +17,9 @@ sub-Relations are Sub-Sets of (binary) Relations
 Also the [has_domain](../has_domain.md) and [has_range](../has_range.md) form Sub-Sets of the original Sets.
 
 Relation describes that: 
-[ #has_/domain  :: [Relation](../../Relation.md)]
+
+#has_/domain  :: [Relation](../../Relation.md) 
+
 ( #has_/name :: is_subclass_of)
 ( #has_/range :: [Relation](../../Relation.md))
 

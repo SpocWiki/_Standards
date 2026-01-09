@@ -32,7 +32,9 @@ Use it like this:
 'merchant' is an out-dated term for 'seller'.
 
 Relation describes that: 
-[ #has_/domain  :: Order ]
+
+#has_/domain  :: Order  
+
 ( #has_/name :: has_merchant )
 ( #has_/range :: Organization, Person )
 

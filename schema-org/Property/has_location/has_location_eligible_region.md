@@ -40,12 +40,13 @@ The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoSha
 See also [[ineligibleRegion]].
 
 Predicate describes that: 
-[ #has_/domain  :: ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer ]
+
+#has_/domain  :: ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer  
+
 ( #has_/name :: has_location_eligible_region )
 ( #has_/range :: GeoShape, Place, Text )
 
-[ #is_/sub_property_of  :: areaServed ]
-
+#is_/sub_property_of  :: areaServed  
 
 ## Confidential Links & Embeds: 
 

@@ -34,12 +34,11 @@ Tag Instances like this:
 
 A statistical distribution of values.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/sub_classes :: [ MonetaryAmountDistribution ] ]
+#has_/sub_classes :: [ MonetaryAmountDistribution ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

@@ -28,7 +28,7 @@ title: has_taxonomic_range
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/taxonomic_range :: DefinedTerm, Taxon, Text, URL ] or 
@@ -37,7 +37,9 @@ Use it like this:
 The taxonomic grouping of the organism that expresses, encodes, or in some way related to the BioChemEntity.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity ]
+
+#has_/domain  :: BioChemEntity  
+
 ( #has_/name :: is_taxonomic_range )
 ( #has_/range :: DefinedTerm, Taxon, Text, URL )
 

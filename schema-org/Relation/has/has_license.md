@@ -34,7 +34,9 @@ Use it like this:
 A license document that applies to this content, typically indicated by URL.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_license )
 ( #has_/range :: CreativeWork, URL )
 

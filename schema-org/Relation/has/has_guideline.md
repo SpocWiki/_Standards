@@ -31,7 +31,9 @@ Use it like this:
 A medical guideline related to this entity.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity ]
+
+#has_/domain  :: MedicalEntity  
+
 ( #has_/name :: has_guideline )
 ( #has_/range :: MedicalGuideline )
 

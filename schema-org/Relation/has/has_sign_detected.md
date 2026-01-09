@@ -35,7 +35,9 @@ Use it like this:
 A sign detected by the test.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTest ]
+
+#has_/domain  :: MedicalTest  
+
 ( #has_/name :: is_sign_detected )
 ( #has_/range :: MedicalSign )
 

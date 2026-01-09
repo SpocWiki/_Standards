@@ -33,14 +33,13 @@ Class of all screening_health_aspects.
 Tag Instances like this: 
 #is_a_/screening_health_aspect
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Content about how to screen or further filter a topic.
 
-[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
+#is_/sub_class_of :: [[../HealthAspectEnumeration]]  
 
-[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
-
+#is_/enum_of :: [[../HealthAspectEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

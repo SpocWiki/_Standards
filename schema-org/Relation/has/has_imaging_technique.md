@@ -35,7 +35,9 @@ Use it like this:
 Imaging technique used.
 
 Relation describes that: 
-[ #has_/domain  :: ImagingTest ]
+
+#has_/domain  :: ImagingTest  
+
 ( #has_/name :: has_imaging_technique )
 ( #has_/range :: MedicalImagingTechnique )
 

@@ -37,7 +37,9 @@ Or write it as a Triple:
 True if the broadcast is of a live event.
 
 Predicate describes that: 
-[ #has_/domain  :: BroadcastEvent ]
+
+#has_/domain  :: BroadcastEvent  
+
 ( #has_/name :: is_live )
 ( #has_/range :: Boolean )
 

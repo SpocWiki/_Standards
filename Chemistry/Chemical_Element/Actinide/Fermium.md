@@ -51,18 +51,27 @@ UNII: Q70I3KBF4W
 [GroupName::Actinide-Group]
 Group::[[../Actinide]]
 
-[has_/name_/en::Fermium]
-[has_/name_/de::Fermium]
+has_/name_/en::Fermium 
+
+has_/name_/de::Fermium 
+
 (Abbr::Fm)
-[has_/value_for_/weight_/u::253]
+
+has_/value_for_/weight_/u::253 
+
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[has_/value_for_/radius_/nano_/m::6.5]
+
+has_/value_for_/radius_/nano_/m::6.5 
+
 [Electronegative::1.3]
 [Density::0]
-[has_/value_for_/temperature_/melt_/c ::0]
-[has_/value_for_/temperature_/boil_/c ::0]
+
+has_/value_for_/temperature_/melt_/c ::0 
+
+has_/value_for_/temperature_/boil_/c ::0 
+
 [HeatCapacity::0]
 [HeatConduct::0.1]
 [Enthalpy::0]

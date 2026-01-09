@@ -33,10 +33,9 @@ Tag Instances like this:
 
 A supply consumed when performing the instructions for how to achieve a result.
 
-[ #is_/sub_class_of :: [[../HowToItem]] ]
+#is_/sub_class_of :: [[../HowToItem]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, estimatedCost, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, estimatedCost, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

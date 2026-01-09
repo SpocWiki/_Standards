@@ -48,7 +48,9 @@ Use it like this:
 - [ has_location_within :: GeospatialGeometry, Place ] 
 
 Predicate describes that: 
-[ #has_/domain  :: GeospatialGeometry, Place ]
+
+#has_/domain  :: GeospatialGeometry, Place  
+
 ( #has_/name :: [[has_location_within]] )
 ( #has_/range :: GeospatialGeometry, Place )
 

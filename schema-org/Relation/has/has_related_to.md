@@ -35,7 +35,9 @@ Use it like this:
 The most generic familial relation.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_related_to )
 ( #has_/range :: Person )
 

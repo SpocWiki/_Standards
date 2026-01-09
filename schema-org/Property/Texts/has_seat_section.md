@@ -38,7 +38,9 @@ Use it like this:
 The section location of the reserved seat (e.g. Orchestra).
 
 Predicated describes that: 
-[ #has_/domain  :: Seat ]
+
+#has_/domain  :: Seat  
+
 ( #has_/name :: has_text_of_seat_section )
 ( #has_/range :: Text )
 

@@ -38,7 +38,9 @@ Use it like this:
 Version of the software instance.
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_software_version )
 ( #has_/range :: Text )
 

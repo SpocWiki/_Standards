@@ -39,7 +39,9 @@ Use it like this:
 A full description of the lodging unit.
 
 Predicated describes that: 
-[ #has_/domain  :: LodgingReservation ]
+
+#has_/domain  :: LodgingReservation  
+
 ( #has_/name :: has_text_of_lodging_unit_description )
 ( #has_/range :: Text )
 

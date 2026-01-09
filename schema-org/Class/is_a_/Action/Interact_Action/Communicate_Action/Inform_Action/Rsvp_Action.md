@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of notifying an event organizer as to whether you expect to attend the event.
 
-[ #is_/sub_class_of :: [[../InformAction]] ]
+#is_/sub_class_of :: [[../InformAction]]  
 
-[ #has_/properties :: [ about, actionStatus, additionalNumberOfGuests, additionalType, agent, alternateName, comment, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, rsvpResponse, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ about, actionStatus, additionalNumberOfGuests, additionalType, agent, alternateName, comment, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, rsvpResponse, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

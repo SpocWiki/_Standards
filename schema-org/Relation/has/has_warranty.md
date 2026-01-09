@@ -32,7 +32,9 @@ Use it like this:
 The warranty promise(s) included in the offer.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer ]
+
+#has_/domain  :: Demand, Offer  
+
 ( #has_/name :: is_warranty )
 ( #has_/range :: WarrantyPromise )
 

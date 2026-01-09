@@ -33,14 +33,13 @@ Class of all symptoms_health_aspects.
 Tag Instances like this: 
 #is_a_/symptoms_health_aspect
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Symptoms or related symptoms of a Topic.
 
-[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
+#is_/sub_class_of :: [[../HealthAspectEnumeration]]  
 
-[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
-
+#is_/enum_of :: [[../HealthAspectEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

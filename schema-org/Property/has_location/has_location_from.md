@@ -36,12 +36,13 @@ Use it like this:
 A sub property of location. The original location of the object or the agent before the action.
 
 Predicate describes that: 
-[ #has_/domain  :: ExerciseAction, MoveAction, TransferAction ] 
+
+#has_/domain  :: ExerciseAction, MoveAction, TransferAction  
+
 ( #has_/name :: has_location_from ) 
 ( #has_/range :: Place ) 
 
-[ #is_/sub_property_of  :: location ]
-
+#is_/sub_property_of  :: location  
 
 ## Confidential Links & Embeds: 
 

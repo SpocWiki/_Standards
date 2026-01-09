@@ -36,7 +36,9 @@ Use it like this:
 The number of employees in an organization, e.g. business.
 
 Predicate describes that: 
-[ #has_/domain  :: BusinessAudience, Organization ]
+
+#has_/domain  :: BusinessAudience, Organization  
+
 ( #has_/name :: has_number_of_employees )
 ( #has_/range :: QuantitativeValue )
 

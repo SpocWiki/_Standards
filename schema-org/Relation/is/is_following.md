@@ -34,7 +34,9 @@ Use it like this:
 The most generic uni-directional social relation.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_following )
 ( #has_/range :: Person )
 

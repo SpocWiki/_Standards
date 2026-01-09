@@ -28,7 +28,7 @@ title: has_work_translation
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
 - [ #has_/work_translation :: CreativeWork ] or 
@@ -37,12 +37,13 @@ Use it like this:
 A work that is a translation of the content of this work. E.g. ??? has an English workTranslation �Journey to the West�, a German workTranslation �Monkeys Pilgerfahrt� and a Vietnamese  translation T�y du k� b�nh kh?o.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_work_translation )
 ( #has_/range :: CreativeWork )
 
-[ #is_/inverse_of  :: translationOfWork ]
-
+#is_/inverse_of  :: translationOfWork  
 
 ## Confidential Links & Embeds: 
 

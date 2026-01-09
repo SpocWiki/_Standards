@@ -33,14 +33,13 @@ Class of all return_by_mails.
 Tag Instances like this: 
 #is_a_/return_by_mail
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that product returns must be done by mail.
 
-[ #is_/sub_class_of :: [[../ReturnMethodEnumeration]] ]
+#is_/sub_class_of :: [[../ReturnMethodEnumeration]]  
 
-[ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
-
+#is_/enum_of :: [[../ReturnMethodEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

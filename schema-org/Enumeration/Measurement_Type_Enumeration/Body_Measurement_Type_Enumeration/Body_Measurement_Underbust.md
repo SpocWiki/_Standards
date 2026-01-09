@@ -33,14 +33,13 @@ Class of all body_measurement_underbusts.
 Tag Instances like this: 
 #is_a_/body_measurement_underbust
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Girth of body just below the bust. Used, for example, to fit women's swimwear.
 
-[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
+#is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
-
+#is_/enum_of :: [[../BodyMeasurementTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

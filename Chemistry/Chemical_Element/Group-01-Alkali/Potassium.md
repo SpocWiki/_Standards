@@ -107,19 +107,25 @@ ZVG_number: 8150
 [GroupName::Group-01-Alkali]
 Group::[[../Group-01-Alkali]]
 
+has_/name_/en::Potassium 
 
-[has_/name_/en::Potassium]
-[has_/name_/de::Kalium]
+has_/name_/de::Kalium 
 
-[has_/value_for_/weight_/u::39.0983]
+has_/value_for_/weight_/u::39.0983 
+
 [AtomRadius::2.77]
 [Atom-Vol-ccm-mol::45.46]
 [Unknown2::2.03]
-[has_/value_for_/radius_/nano_/m::4.341]
+
+has_/value_for_/radius_/nano_/m::4.341 
+
 [Electronegative::0.8]
 [Density::0.86]
-[has_/value_for_/temperature_/melt_/c ::63.65]
-[has_/value_for_/temperature_/boil_/c ::774]
+
+has_/value_for_/temperature_/melt_/c ::63.65 
+
+has_/value_for_/temperature_/boil_/c ::774 
+
 [HeatCapacity::0.75]
 [HeatConduct::1.024]
 [Enthalpy::2.334]

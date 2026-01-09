@@ -35,7 +35,9 @@ Use it like this:
 A citation or reference to another creative work, such as another publication, web page, scholarly article, etc.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_cited_in )
 ( #has_/range :: CreativeWork, Text )
 

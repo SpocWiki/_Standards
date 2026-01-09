@@ -40,12 +40,13 @@ Use it like this:
 - [ is_example_of_work :: CreativeWork ] 
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_example_of_work )
 ( #has_/range :: CreativeWork )
 
-[ #is_/inverse_of  :: workExample ]
-
+#is_/inverse_of  :: workExample  
 
 ## Confidential Links & Embeds: 
 

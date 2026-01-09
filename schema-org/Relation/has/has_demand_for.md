@@ -34,7 +34,9 @@ Use it like this:
 - [ has_demand_for :: Demand ] 
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person ]
+
+#has_/domain  :: Organization, Person  
+
 ( #has_/name :: [[has_demand_for]] )
 ( #has_/range :: Demand )
 

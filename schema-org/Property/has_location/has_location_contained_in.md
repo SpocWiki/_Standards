@@ -37,7 +37,9 @@ Use it like this:
 The basic containment relation between a place and one that contains it.
 
 Predicate describes that: 
-[ #has_/domain  :: Place ]
+
+#has_/domain  :: Place  
+
 ( #has_/name :: has_location_contained_in )
 ( #has_/range :: Place )
 

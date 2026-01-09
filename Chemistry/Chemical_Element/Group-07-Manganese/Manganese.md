@@ -115,18 +115,25 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
 [GroupName::Group-07-Manganese]
 Group::[[../Group-07-Manganese]]
 
+has_/name_/en::Manganese 
 
-[has_/name_/en::Manganese]
-[has_/name_/de::Mangan]
-[has_/value_for_/weight_/u::54.938]
+has_/name_/de::Mangan 
+
+has_/value_for_/weight_/u::54.938 
+
 [AtomRadius::1.79]
 [Atom-Vol-ccm-mol::1.39]
 [Unknown2::1.17]
-[has_/value_for_/radius_/nano_/m::7.435]
+
+has_/value_for_/radius_/nano_/m::7.435 
+
 [Electronegative::1.5]
 [Density::7.43]
-[has_/value_for_/temperature_/melt_/c ::1244]
-[has_/value_for_/temperature_/boil_/c ::1962]
+
+has_/value_for_/temperature_/melt_/c ::1244 
+
+has_/value_for_/temperature_/boil_/c ::1962 
+
 [HeatCapacity::0.48]
 [HeatConduct::0.0782]
 [Enthalpy::12.05]

@@ -31,14 +31,13 @@ Class of all nonprofit501c6s.
 Tag Instances like this: 
 #is_a_/nonprofit501c6
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Nonprofit501c6: Non-profit type referring to Business Leagues, Chambers of Commerce, Real Estate Boards.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+#is_/sub_class_of :: [[../USNonprofitType]]  
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+#is_/enum_of :: [[../USNonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

@@ -32,7 +32,9 @@ Use it like this:
 A music album.
 
 Relation describes that: 
-[ #has_/domain  :: MusicGroup ]
+
+#has_/domain  :: MusicGroup  
+
 ( #has_/name :: has_album )
 ( #has_/range :: MusicAlbum )
 

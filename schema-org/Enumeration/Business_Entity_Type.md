@@ -48,10 +48,8 @@ Businesses are also distinguished by Ownership::
 - [[../../../../../../Knowledge/Business/Business-Entity/Partnership]] 
 - [[../../../../../Society/Agent/Community/Organization/Company/Corporation]]  
 - [[../../../../../../Knowledge/Business/Business-Entity/LLC(Limited_Liability_Company)]] 
- 
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

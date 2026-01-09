@@ -35,7 +35,9 @@ Use it like this:
 Supporting data for a SoftwareApplication.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: is_supporting_data )
 ( #has_/range :: DataFeed )
 

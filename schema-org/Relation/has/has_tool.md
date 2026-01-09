@@ -31,12 +31,13 @@ Use it like this:
 A sub property of instrument. An object used (but not consumed) when performing instructions or a direction.
 
 Relation describes that: 
-[ #has_/domain  :: HowTo, HowToDirection ]
+
+#has_/domain  :: HowTo, HowToDirection  
+
 ( #has_/name :: is_tool )
 ( #has_/range :: HowToTool, Text )
 
-[ #is_/sub_property_of  :: instrument ]
-
+#is_/sub_property_of  :: instrument  
 
 ## Confidential Links & Embeds: 
 

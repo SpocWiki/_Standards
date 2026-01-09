@@ -35,7 +35,9 @@ Use it like this:
 The target audience for this permit.
 
 Relation describes that: 
-[ #has_/domain  :: Permit ]
+
+#has_/domain  :: Permit  
+
 ( #has_/name :: is_permit_audience )
 ( #has_/range :: Audience )
 

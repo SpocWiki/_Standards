@@ -39,7 +39,9 @@ Use it like this:
 - [ has_name_executable_library :: Text ] 
 
 Predicated describes that: 
-[ #has_/domain  :: APIReference ]
+
+#has_/domain  :: APIReference  
+
 ( #has_/name :: has_name_executable_library )
 ( #has_/range :: Text )
 

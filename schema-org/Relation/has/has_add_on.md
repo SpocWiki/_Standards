@@ -33,7 +33,9 @@ Use it like this:
 An additional offer that can only be obtained in combination with the first base offer (e.g. supplements and extensions that are available for a surcharge).
 
 Relation describes that: 
-[ #has_/domain  :: Offer ]
+
+#has_/domain  :: Offer  
+
 ( #has_/name :: has_add_on )
 ( #has_/range :: Offer )
 

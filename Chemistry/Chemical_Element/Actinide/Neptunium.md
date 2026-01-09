@@ -52,18 +52,27 @@ UNII: 6200K977BQ
 [GroupName::Actinide-Group]
 Group::[[../Actinide]]
 
-[has_/name_/en::Neptunium]
-[has_/name_/de::Neptunium]
+has_/name_/en::Neptunium 
+
+has_/name_/de::Neptunium 
+
 (Abbr::Np)
-[has_/value_for_/weight_/u::237.0482]
+
+has_/value_for_/weight_/u::237.0482 
+
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::11.62]
 [Unknown2::0]
-[has_/value_for_/radius_/nano_/m::6.19]
+
+has_/value_for_/radius_/nano_/m::6.19 
+
 [Electronegative::1.4]
 [Density::20.4]
-[has_/value_for_/temperature_/melt_/c ::640]
-[has_/value_for_/temperature_/boil_/c ::3902]
+
+has_/value_for_/temperature_/melt_/c ::640 
+
+has_/value_for_/temperature_/boil_/c ::3902 
+
 [HeatCapacity::0.12]
 [HeatConduct::0.063]
 [Enthalpy::5.19]

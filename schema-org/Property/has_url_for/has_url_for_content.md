@@ -44,7 +44,9 @@ Use it like this:
 Actual bytes of the media object, for example the image file or video file.
 
 Predicate describes that: 
-[ #has_/domain  :: MediaObject ]
+
+#has_/domain  :: MediaObject  
+
 ( #has_/name :: has_url_for_content_url )
 ( #has_/range :: URL )
 

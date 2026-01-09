@@ -38,7 +38,9 @@ Use it like this:
 The actual body of the article.
 
 Predicated describes that: 
-[ #has_/domain  :: Article ]
+
+#has_/domain  :: Article  
+
 ( #has_/name :: has_text_of_article_body )
 ( #has_/range :: Text )
 

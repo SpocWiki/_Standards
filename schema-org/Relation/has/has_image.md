@@ -31,12 +31,13 @@ Use it like this:
 An image of the item. This can be a [[../../Class/is_a_/data_type/text/URL]] or a fully described [[ImageObject]].
 
 Relation describes that: 
-[ #has_/domain  :: [Thing](../../../Class/Thing.md) ]
+
+#has_/domain  :: [Thing](../../../Class/Thing.md)  
+
 ( #has_/name :: has_image )
 ( #has_/range :: ImageObject, URL )
 
-[ #has_/sub_properties :: [ layoutImage, logo, photo ] ]
-
+#has_/sub_properties :: [ layoutImage, logo, photo ]  
 
 ## Confidential Links & Embeds: 
 

@@ -39,7 +39,9 @@ Use it like this:
 Runtime platform or script interpreter dependencies (example: Java v1, Python 2.3, .NET Framework 3.0).
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareSourceCode ]
+
+#has_/domain  :: SoftwareSourceCode  
+
 ( #has_/name :: has_text_of_runtime_platform )
 ( #has_/range :: Text )
 

@@ -33,14 +33,13 @@ Class of all eu_energy_efficiency_category_cs.
 Tag Instances like this: 
 #is_an_/eu_energy_efficiency_category_c
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents EU Energy Efficiency Class C as defined in EU energy labeling regulations.
 
-[ #is_/sub_class_of :: [[../EUEnergyEfficiencyEnumeration]] ]
+#is_/sub_class_of :: [[../EUEnergyEfficiencyEnumeration]]  
 
-[ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
-
+#is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

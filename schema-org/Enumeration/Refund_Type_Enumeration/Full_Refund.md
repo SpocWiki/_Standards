@@ -33,14 +33,13 @@ Class of all full_refunds.
 Tag Instances like this: 
 #is_a_/full_refund
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that a refund can be done in the full amount the customer paid for the product.
 
-[ #is_/sub_class_of :: [[../RefundTypeEnumeration]] ]
+#is_/sub_class_of :: [[../RefundTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
-
+#is_/enum_of :: [[../RefundTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

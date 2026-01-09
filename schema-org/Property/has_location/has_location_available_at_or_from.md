@@ -36,12 +36,13 @@ Use it like this:
 The place(s) from which the offer can be obtained (e.g. store locations).
 
 Predicate describes that: 
-[ #has_/domain  :: Demand, Offer ]
+
+#has_/domain  :: Demand, Offer  
+
 ( #has_/name :: has_location_available_at_or_from )
 ( #has_/range :: Place )
 
-[ #is_/sub_property_of  :: areaServed ]
-
+#is_/sub_property_of  :: areaServed  
 
 ## Confidential Links & Embeds: 
 

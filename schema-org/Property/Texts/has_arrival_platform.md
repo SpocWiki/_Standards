@@ -38,7 +38,9 @@ Use it like this:
 The platform where the train arrives.
 
 Predicated describes that: 
-[ #has_/domain  :: TrainTrip ]
+
+#has_/domain  :: TrainTrip  
+
 ( #has_/name :: has_text_of_arrival_platform )
 ( #has_/range :: Text )
 

@@ -35,7 +35,9 @@ Use it like this:
 A CSS selector, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".
 
 Relation describes that: 
-[ #has_/domain  :: SpeakableSpecification, WebPageElement ]
+
+#has_/domain  :: SpeakableSpecification, WebPageElement  
+
 ( #has_/name :: has_css_selector )
 ( #has_/range :: CssSelectorType )
 

@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Game server status: OnlineFull. Server is online but unavailable. The maximum number of players has reached.
 
-[ #is_/sub_class_of :: [[../GameServerStatus]] ]
+#is_/sub_class_of :: [[../GameServerStatus]]  
 
-[ #is_/enum_of :: [[../GameServerStatus]] ]
-
+#is_/enum_of :: [[../GameServerStatus]]  
 
 ## Confidential Links & Embeds: 
 

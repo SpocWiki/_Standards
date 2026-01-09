@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A set of requirements that must be fulfilled in order to perform an Action.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, availabilityEnds, availabilityStarts, category, description, disambiguatingDescription, eligibleRegion, expectsAcceptanceOf, identifier, image, ineligibleRegion, mainEntityOfPage, name, potentialAction, requiresSubscription, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, availabilityEnds, availabilityStarts, category, description, disambiguatingDescription, eligibleRegion, expectsAcceptanceOf, identifier, image, ineligibleRegion, mainEntityOfPage, name, potentialAction, requiresSubscription, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

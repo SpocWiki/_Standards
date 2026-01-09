@@ -33,14 +33,13 @@ Class of all partially_in_forces.
 Tag Instances like this: 
 #is_a_/partially_in_force
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Indicates that parts of the legislation are in force, and parts are not.
 
-[ #is_/sub_class_of :: [[../LegalForceStatus]] ]
+#is_/sub_class_of :: [[../LegalForceStatus]]  
 
-[ #is_/enum_of :: [[../LegalForceStatus]] ]
-
+#is_/enum_of :: [[../LegalForceStatus]]  
 
 ## Confidential Links & Embeds: 
 

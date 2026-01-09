@@ -29,7 +29,7 @@ type: Predi_Count
 
 Predicate to describe the Number of ApartmentComplex, FloorPlan.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/number_of_/accommodation_units :: QuantitativeValue ] or 
@@ -38,7 +38,9 @@ Use it like this:
 Indicates the total (available plus unavailable) number of accommodation units in an [[ApartmentComplex]], or the number of accommodation units for a specific [[FloorPlan]] (within its specific [[ApartmentComplex]]). See also [[numberOfAvailableAccommodationUnits]].
 
 Predicate describes that: 
-[ #has_/domain  :: ApartmentComplex, FloorPlan ]
+
+#has_/domain  :: ApartmentComplex, FloorPlan  
+
 ( #has_/name :: has_number_of_accommodation_units )
 ( #has_/range :: QuantitativeValue )
 

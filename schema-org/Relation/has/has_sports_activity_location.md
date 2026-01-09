@@ -36,12 +36,13 @@ Use it like this:
 A sub property of location. The sports activity location where this action occurred.
 
 Relation describes that: 
-[ #has_/domain  :: ExerciseAction ]
+
+#has_/domain  :: ExerciseAction  
+
 ( #has_/name :: is_sports_activity_location )
 ( #has_/range :: SportsActivityLocation )
 
-[ #is_/sub_property_of  :: location ]
-
+#is_/sub_property_of  :: location  
 
 ## Confidential Links & Embeds: 
 

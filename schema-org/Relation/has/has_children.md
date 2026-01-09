@@ -34,7 +34,9 @@ Use it like this:
 A child of the person.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_children )
 ( #has_/range :: Person )
 

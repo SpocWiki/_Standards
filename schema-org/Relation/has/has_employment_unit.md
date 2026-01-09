@@ -28,7 +28,7 @@ title: has_employment_unit
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/employment_unit :: Organization ] or 
@@ -37,7 +37,9 @@ Use it like this:
 Indicates the department, unit and/or facility where the employee reports and/or in which the job is to be performed.
 
 Relation describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_employment_unit )
 ( #has_/range :: Organization )
 

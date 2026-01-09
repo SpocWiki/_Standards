@@ -32,7 +32,7 @@ Class of all funding_agencys.
 Tag Instances like this: 
 #is_a_/funding_agency
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A FundingAgency is an organization that implements one or more [[FundingScheme]]s and manages
 	the granting process (via [[Grant]]s, typically [[MonetaryGrant]]s).
@@ -40,10 +40,9 @@ A FundingAgency is an organization that implements one or more [[FundingScheme]]
 
 Examples of funding agencies include ERC, REA, NIH, Bill and Melinda Gates Foundation, ...
 
-[ #is_/sub_class_of :: [[../Project]] ]
+#is_/sub_class_of :: [[../Project]]  
 
-[ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
-
+#has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ]  
 
 ## Confidential Links & Embeds: 
 

@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A type of physical examination of a patient performed by a physician.
 
-[ #is_/sub_class_of :: [[../MedicalEnumeration, MedicalProcedure]] ]
+#is_/sub_class_of :: [[../MedicalEnumeration, MedicalProcedure]]  
 
-[ #has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

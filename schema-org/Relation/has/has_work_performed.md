@@ -35,12 +35,13 @@ Use it like this:
 A work performed in some event, for example a play performed in a TheaterEvent.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: is_work_performed )
 ( #has_/range :: CreativeWork )
 
-[ #is_/sub_property_of  :: workFeatured ]
-
+#is_/sub_property_of  :: workFeatured  
 
 ## Confidential Links & Embeds: 
 

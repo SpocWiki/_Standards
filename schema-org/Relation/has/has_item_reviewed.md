@@ -35,7 +35,9 @@ Use it like this:
 The item that is being reviewed/rated.
 
 Relation describes that: 
-[ #has_/domain  :: AggregateRating, Review ]
+
+#has_/domain  :: AggregateRating, Review  
+
 ( #has_/name :: has_item_reviewed )
 ( #has_/range :: Thing )
 

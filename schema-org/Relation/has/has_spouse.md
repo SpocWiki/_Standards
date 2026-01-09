@@ -34,7 +34,9 @@ Use it like this:
 The person's spouse.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_spouse )
 ( #has_/range :: Person )
 

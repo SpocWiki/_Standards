@@ -42,18 +42,25 @@ Unicode_character: 鑪
 [GroupName::Group-04-Titanium]
 Group::[[../Group-04-Titanium]]
 
+has_/name_/en::Rutherfordium 
 
-[has_/name_/en::Rutherfordium]
-[has_/name_/de::Kurtschatovium]
-[has_/value_for_/weight_/u::0]
+has_/name_/de::Kurtschatovium 
+
+has_/value_for_/weight_/u::0 
+
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
 [Unknown2::0]
-[has_/value_for_/radius_/nano_/m::0]
+
+has_/value_for_/radius_/nano_/m::0 
+
 [Electronegative::0]
 [Density::0]
-[has_/value_for_/temperature_/melt_/c ::0]
-[has_/value_for_/temperature_/boil_/c ::0]
+
+has_/value_for_/temperature_/melt_/c ::0 
+
+has_/value_for_/temperature_/boil_/c ::0 
+
 [HeatCapacity::0]
 [HeatConduct::0]
 [Enthalpy::0]

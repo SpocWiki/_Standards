@@ -32,7 +32,7 @@ Class of all offer_shipping_detailss.
 Tag Instances like this: 
 #is_an_/offer_shipping_details
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 OfferShippingDetails represents information about shipping destinations.
 
@@ -47,10 +47,9 @@ Two entities that are identical but differ in rate and time:
 E.g. Cheaper and slower: $5 in 5-7 days
 or Fast and expensive: $15 in 1-2 days.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, deliveryTime, depth, description, disambiguatingDescription, doesNotShip, height, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingOrigin, shippingRate, shippingSettingsLink, subjectOf, transitTimeLabel, url, weight, width ] ]
-
+#has_/properties :: [ additionalType, alternateName, deliveryTime, depth, description, disambiguatingDescription, doesNotShip, height, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingOrigin, shippingRate, shippingSettingsLink, subjectOf, transitTimeLabel, url, weight, width ]  
 
 ## Confidential Links & Embeds: 
 

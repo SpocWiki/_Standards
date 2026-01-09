@@ -34,10 +34,9 @@ Tag Instances like this:
 
 Information about the engine of the vehicle. A vehicle can have multiple engines represented by multiple engine specification entities.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, engineDisplacement, enginePower, engineType, fuelType, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, torque, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, engineDisplacement, enginePower, engineType, fuelType, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, torque, url ]  
 
 ## Confidential Links & Embeds: 
 

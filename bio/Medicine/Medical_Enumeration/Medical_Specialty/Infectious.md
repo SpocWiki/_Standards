@@ -33,10 +33,9 @@ Tag Instances like this:
 
 Something in medical science that pertains to infectious diseases, i.e. caused by bacterial, viral, fungal or parasitic infections.
 
-[ #is_/sub_class_of :: [[../MedicalSpecialty]] ]
+#is_/sub_class_of :: [[../MedicalSpecialty]]  
 
-[ #is_/enum_of :: [[../MedicalSpecialty]] ]
-
+#is_/enum_of :: [[../MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

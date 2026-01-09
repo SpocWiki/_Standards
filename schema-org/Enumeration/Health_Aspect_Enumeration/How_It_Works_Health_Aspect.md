@@ -33,14 +33,13 @@ Class of all how_it_works_health_aspects.
 Tag Instances like this: 
 #is_a_/how_it_works_health_aspect
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Content that discusses and explains how a particular health-related topic works, e.g. in terms of mechanisms and underlying science.
 
-[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
+#is_/sub_class_of :: [[../HealthAspectEnumeration]]  
 
-[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
-
+#is_/enum_of :: [[../HealthAspectEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

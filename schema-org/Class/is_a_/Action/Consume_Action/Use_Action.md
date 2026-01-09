@@ -35,12 +35,11 @@ Class of all use_actions.
 Tag Instances like this: 
 #is_a_/use_action
 
-[ #is_/sub_class_of :: [[../ConsumeAction]] ]
+#is_/sub_class_of :: [[../ConsumeAction]]  
 
-[ #has_/sub_classes :: [ WearAction ] ]
+#has_/sub_classes :: [ WearAction ]  
 
-[ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

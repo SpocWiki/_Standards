@@ -34,10 +34,9 @@ Tag Instances like this:
 
 An order item is a line of an order. It includes the quantity and shipping details of a bought offer.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, orderDelivery, orderItemNumber, orderItemStatus, orderQuantity, orderedItem, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, orderDelivery, orderItemNumber, orderItemStatus, orderQuantity, orderedItem, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

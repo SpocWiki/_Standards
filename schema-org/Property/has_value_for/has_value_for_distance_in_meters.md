@@ -36,7 +36,9 @@ Use it like this:
 The distance travelled, e.g. exercising or travelling.
 
 Predicate describes that: 
-[ #has_/domain  :: ExerciseAction, TravelAction ]
+
+#has_/domain  :: ExerciseAction, TravelAction  
+
 ( #has_/name :: has_value_for_distance_in_meters )
 ( #has_/range :: Distance )
 

@@ -31,7 +31,7 @@ type: Pred_Text
 
 Predicate to describe the Text of [[../../Class/is_a_/Intangible/defined_term|defined_Term]]. 
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/term_code :: Text ] or 
@@ -40,7 +40,9 @@ Use it like this:
 A code that identifies this [[DefinedTerm]] within a [[DefinedTermSet]]
 
 Predicated describes that: 
-[ #has_/domain  :: [[../../Relation/has/has_defined_term|defined_term]] ]
+
+#has_/domain  :: [[../../Relation/has/has_defined_term|defined_term]]  
+
 ( #has_/name :: has_text_of_term_code )
 ( #has_/range :: text )
 

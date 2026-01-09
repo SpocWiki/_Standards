@@ -39,7 +39,9 @@ Use it like this:
 The location where the CreativeWork was created, which may not be the same as the location depicted in the CreativeWork.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_location_created )
 ( #has_/range :: Place )
 

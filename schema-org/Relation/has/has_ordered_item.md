@@ -35,7 +35,9 @@ Use it like this:
 The item ordered.
 
 Relation describes that: 
-[ #has_/domain  :: Order, OrderItem ]
+
+#has_/domain  :: Order, OrderItem  
+
 ( #has_/name :: has_ordered_item )
 ( #has_/range :: OrderItem, Product, Service )
 

@@ -40,7 +40,9 @@ The supported content type(s) for an EntryPoint response.
 problem+json is a Standard content-type to detail Errors. 
 
 Predicated describes that: 
-[ #has_/domain  :: EntryPoint ]
+
+#has_/domain  :: EntryPoint  
+
 ( #has_/name :: has_text_of_content_type )
 ( #has_/range :: Text )
 

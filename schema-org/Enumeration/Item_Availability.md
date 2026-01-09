@@ -45,8 +45,7 @@ A list of possible product availability options:
 - [[Item_Availability/Pre_Sale|pre-sale]]
 - [[Item_Availability/Sold_Out|is_sold_out]]
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

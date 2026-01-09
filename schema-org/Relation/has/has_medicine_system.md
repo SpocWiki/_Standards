@@ -35,7 +35,9 @@ Use it like this:
 The system of medicine that includes this MedicalEntity, for example 'evidence-based', 'homeopathic', 'chiropractic', etc.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity ]
+
+#has_/domain  :: MedicalEntity  
+
 ( #has_/name :: has_medicine_system )
 ( #has_/range :: MedicineSystem )
 

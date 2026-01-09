@@ -37,7 +37,9 @@ Use it like this:
 Any FDA or other warnings about the drug (text or URL).
 
 Predicated describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_text_of_warning )
 ( #has_/range :: Text, URL )
 

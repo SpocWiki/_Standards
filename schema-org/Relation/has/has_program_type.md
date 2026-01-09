@@ -28,7 +28,7 @@ title: has_program_type
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/program_type :: DefinedTerm, Text ] or 
@@ -37,7 +37,9 @@ Use it like this:
 The type of educational or occupational program. For example, classroom, internship, alternance, etc.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalProgram ]
+
+#has_/domain  :: EducationalOccupationalProgram  
+
 ( #has_/name :: is_program_type )
 ( #has_/range :: DefinedTerm, Text )
 

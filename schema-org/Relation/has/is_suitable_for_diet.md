@@ -36,7 +36,9 @@ Use it like this:
 Indicates a dietary restriction or guideline for which this recipe or menu item is suitable, e.g. diabetic, halal etc.
 
 Relation describes that: 
-[ #is_/domain  :: MenuItem, Recipe ]
+
+#is_/domain  :: MenuItem, Recipe  
+
 ( #is_/name :: is_suitable_for_diet )
 ( #is_/range :: RestrictedDiet )
 

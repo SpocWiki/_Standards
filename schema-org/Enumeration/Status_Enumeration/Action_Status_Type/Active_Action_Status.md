@@ -35,10 +35,9 @@ Tag Instances like this:
 
 An in-progress action (e.g., while watching the movie, or driving to a location).
 
-[ #is_/sub_class_of :: [[../ActionStatusType]] ]
+#is_/sub_class_of :: [[../ActionStatusType]]  
 
-[ #is_/enum_of :: [[../ActionStatusType]] ]
-
+#is_/enum_of :: [[../ActionStatusType]]  
 
 ## Confidential Links & Embeds: 
 

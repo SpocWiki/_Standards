@@ -36,7 +36,9 @@ Use it like this:
 The order is being paid as part of the referenced Invoice.
 
 Relation describes that: 
-[ #has_/domain  :: Order ]
+
+#has_/domain  :: Order  
+
 ( #has_/name :: is_part_of_invoice )
 ( #has_/range :: Invoice )
 

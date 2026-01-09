@@ -35,7 +35,9 @@ Use it like this:
 The composer of the soundtrack.
 
 Relation describes that: 
-[ #has_/domain  :: Clip, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject ]
+
+#has_/domain  :: Clip, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject  
+
 ( #has_/name :: has_music_by )
 ( #has_/range :: MusicGroup, Person )
 

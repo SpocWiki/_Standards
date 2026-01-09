@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Play mode: MultiPlayer. Requiring or allowing multiple human players to play simultaneously.
 
-[ #is_/sub_class_of :: [[../GamePlayMode]] ]
+#is_/sub_class_of :: [[../GamePlayMode]]  
 
-[ #is_/enum_of :: [[../GamePlayMode]] ]
-
+#is_/enum_of :: [[../GamePlayMode]]  
 
 ## Confidential Links & Embeds: 
 

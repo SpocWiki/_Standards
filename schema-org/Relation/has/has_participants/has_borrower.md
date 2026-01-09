@@ -36,12 +36,13 @@ Use it like this:
 A sub property of participant. The person that borrows the object being lent.
 
 Relation describes that: 
-[ #has_/domain  :: LendAction ]
+
+#has_/domain  :: LendAction  
+
 ( #has_/name :: has_borrower )
 ( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: participant ]
-
+#is_/sub_property_of  :: participant  
 
 ## Confidential Links & Embeds: 
 

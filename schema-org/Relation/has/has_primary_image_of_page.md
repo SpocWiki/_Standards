@@ -37,7 +37,9 @@ Use it like this:
 Indicates the main image on the page.
 
 Relation describes that: 
-[ #has_/domain  :: WebPage ]
+
+#has_/domain  :: WebPage  
+
 ( #has_/name :: is_primary_image_of_page )
 ( #has_/range :: ImageObject )
 

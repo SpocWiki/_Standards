@@ -30,7 +30,7 @@ type: Pred_Text
 
 Predicate to describe the Text of Movie, TVEpisode.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/id_/entertain_title :: Text, URL ] or 
@@ -47,12 +47,13 @@ For example, the motion picture known as "Ghostbusters" has a titleEIDR of  "10.
 Since schema.org types like [[../../../Society/Communication/Media/Creative_Work/Movie]] and [[TVEpisode]] can be used for both works and their multiple expressions, it is possible to use [[titleEIDR]] alone (for a general description), or alongside [[editEIDR]] for a more edit-specific description.
 
 Predicated describes that: 
-[ #has_/domain  :: Movie, TVEpisode ]
+
+#has_/domain  :: Movie, TVEpisode  
+
 ( #has_/name :: has_id_entertain_title )
 ( #has_/range :: Text, URL )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

@@ -36,7 +36,9 @@ Use it like this:
 The predominant type or kind characterizing the learning resource. For example, 'presentation', 'handout'.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, LearningResource ]
+
+#has_/domain  :: CreativeWork, LearningResource  
+
 ( #has_/name :: has_learning_resource_type )
 ( #has_/range :: DefinedTerm, Text )
 

@@ -38,7 +38,9 @@ Use it like this:
 The description of a node in an established educational framework.
 
 Predicated describes that: 
-[ #has_/domain  :: AlignmentObject ]
+
+#has_/domain  :: AlignmentObject  
+
 ( #has_/name :: has_text_of_target_description )
 ( #has_/range :: Text )
 

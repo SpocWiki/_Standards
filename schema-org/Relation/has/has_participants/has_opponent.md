@@ -31,12 +31,13 @@ Use it like this:
 A sub property of participant. The opponent on this action.
 
 Relation describes that: 
-[ #has_/domain  :: ExerciseAction ]
+
+#has_/domain  :: ExerciseAction  
+
 ( #has_/name :: has_opponent )
 ( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: participant ]
-
+#is_/sub_property_of  :: participant  
 
 ## Confidential Links & Embeds: 
 

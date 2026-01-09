@@ -35,7 +35,9 @@ Use it like this:
 Links to tips, tactics, etc.
 
 Relation describes that: 
-[ #has_/domain  :: VideoGame ]
+
+#has_/domain  :: VideoGame  
+
 ( #has_/name :: has_game_tip )
 ( #has_/range :: CreativeWork )
 

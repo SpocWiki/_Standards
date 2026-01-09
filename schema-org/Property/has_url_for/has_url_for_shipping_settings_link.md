@@ -29,7 +29,7 @@ type: Predi_Url
 
 Predicate to specify the Url of OfferShippingDetails.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/url_for_/shipping_settings_link :: URL ] or 
@@ -38,7 +38,9 @@ Use it like this:
 Link to a page containing [[ShippingRateSettings]] and [[DeliveryTimeSettings]] details.
 
 Predicate describes that: 
-[ #has_/domain  :: OfferShippingDetails ]
+
+#has_/domain  :: OfferShippingDetails  
+
 ( #has_/name :: has_url_for_shipping_settings_link )
 ( #has_/range :: URL )
 

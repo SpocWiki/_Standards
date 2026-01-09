@@ -32,7 +32,7 @@ type: Pred_Text
 
 Predicate to describe the Text of PostalCodeRangeSpecification.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/postal_code_end :: Text ] or 
@@ -41,7 +41,9 @@ Use it like this:
 Last postal code in the range (included). Needs to be after [[postalCodeBegin]].
 
 Predicated describes that: 
-[ #has_/domain  :: PostalCodeRangeSpecification ]
+
+#has_/domain  :: PostalCodeRangeSpecification  
+
 ( #has_/name :: has_text_of_postal_code_end )
 ( #has_/range :: Text )
 

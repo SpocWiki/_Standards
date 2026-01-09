@@ -41,10 +41,9 @@ or the value of a salary, etc.
 It is recommended to use [[../../../../Relation/has/has_price_specification|price-specification]] Types 
 to describe the price of an Offer, Invoice, etc.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ] ]
-
+#has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ]  
 
 ## Confidential Links & Embeds: 
 

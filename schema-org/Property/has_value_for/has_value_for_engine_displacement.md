@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of EngineSpecification.
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
 - [ #has_/value_for_/engine_displacement :: QuantitativeValue ] or 
@@ -44,7 +44,9 @@ Typical unit code(s): CMQ for cubic centimeter, LTR for liters, INQ for cubic in
 * Note 2: You can use [[minValue]] and [[maxValue]] to indicate ranges.
 
 Predicate describes that: 
-[ #has_/domain  :: EngineSpecification ]
+
+#has_/domain  :: EngineSpecification  
+
 ( #has_/name :: has_value_for_engine_displacement )
 ( #has_/range :: QuantitativeValue )
 

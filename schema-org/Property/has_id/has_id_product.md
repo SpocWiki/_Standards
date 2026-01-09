@@ -37,12 +37,13 @@ Use it like this:
 The product identifier, such as ISBN. For example: <code>meta itemprop="productID" content="isbn:123-456-789"</code>.
 
 Predicated describes that: 
-[ #has_/domain  :: Product ]
+
+#has_/domain  :: Product  
+
 ( #has_/name :: has_id_product )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

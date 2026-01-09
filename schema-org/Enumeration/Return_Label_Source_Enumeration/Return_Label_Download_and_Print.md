@@ -33,14 +33,13 @@ Class of all return_label_download_and_prints.
 Tag Instances like this: 
 #is_a_/return_label_download_and_print
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Indicated that a return label must be downloaded and printed by the customer.
 
-[ #is_/sub_class_of :: [[../ReturnLabelSourceEnumeration]] ]
+#is_/sub_class_of :: [[../ReturnLabelSourceEnumeration]]  
 
-[ #is_/enum_of :: [[../ReturnLabelSourceEnumeration]] ]
-
+#is_/enum_of :: [[../ReturnLabelSourceEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

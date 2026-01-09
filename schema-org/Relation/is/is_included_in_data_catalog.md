@@ -40,12 +40,13 @@ Use it like this:
 A data catalog which contains this dataset (this property was previously 'catalog', preferred name is now 'includedInDataCatalog').
 
 Relation describes that: 
-[ #has_/domain  :: Dataset ]
+
+#has_/domain  :: Dataset  
+
 ( #has_/name :: [[is_included_in_data_catalog 1]] )
 ( #has_/range :: DataCatalog )
 
-[ #is_/inverse_of  :: dataset ]
-
+#is_/inverse_of  :: dataset  
 
 ## Confidential Links & Embeds: 
 

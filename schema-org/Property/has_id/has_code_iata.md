@@ -37,7 +37,9 @@ Use it like this:
 IATA identifier for an airline or airport.
 
 Predicated describes that: 
-[ #has_/domain  :: Airline, Airport ]
+
+#has_/domain  :: Airline, Airport  
+
 ( #has_/name :: has_code_iata )
 ( #has_/range :: Text )
 

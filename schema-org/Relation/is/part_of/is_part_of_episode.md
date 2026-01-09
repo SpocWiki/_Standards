@@ -36,12 +36,13 @@ Use it like this:
 The episode to which this clip belongs.
 
 Relation describes that: 
-[ #has_/domain  :: Clip ]
+
+#has_/domain  :: Clip  
+
 ( #has_/name :: is_part_of_episode )
 ( #has_/range :: Episode )
 
-[ #is_/sub_property_of  :: isPartOf ]
-
+#is_/sub_property_of  :: isPartOf  
 
 ## Confidential Links & Embeds: 
 

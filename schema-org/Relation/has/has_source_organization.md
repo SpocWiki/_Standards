@@ -35,7 +35,9 @@ Use it like this:
 The Organization on whose behalf the creator was working.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_source_organization )
 ( #has_/range :: Organization )
 

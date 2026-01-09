@@ -28,7 +28,7 @@ title: is_recognized_by
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #is_/recognized_by :: Organization ] or 
@@ -37,7 +37,9 @@ Use it like this:
 An organization that acknowledges the validity, value or utility of a credential. Note: recognition may include a process of quality assurance or accreditation.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalCredential ]
+
+#has_/domain  :: EducationalOccupationalCredential  
+
 ( #has_/name :: is_recognized_by )
 ( #has_/range :: Organization )
 

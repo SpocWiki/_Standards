@@ -35,7 +35,9 @@ Use it like this:
 The type of fuel suitable for the engine or engines of the vehicle. If the vehicle has only one engine, this property can be attached directly to the vehicle.
 
 Relation describes that: 
-[ #has_/domain  :: EngineSpecification, Vehicle ]
+
+#has_/domain  :: EngineSpecification, Vehicle  
+
 ( #has_/name :: has_fuel_type )
 ( #has_/range :: QualitativeValue, Text, URL )
 

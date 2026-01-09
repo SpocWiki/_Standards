@@ -38,7 +38,9 @@ Use it like this:
 A secondary title of the CreativeWork.
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_text_of_alternative_headline )
 ( #has_/range :: Text )
 

@@ -32,12 +32,11 @@ Class of all legal_value_levels.
 Tag Instances like this: 
 #is_a_/legal_value_level
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A list of possible levels for the legal validity of a legislation.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

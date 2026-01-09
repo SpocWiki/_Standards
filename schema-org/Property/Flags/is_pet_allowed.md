@@ -37,7 +37,9 @@ Or write it as a Triple:
 Indicates whether pets are allowed to enter the accommodation or lodging business. More detailed information can be put in a text value.
 
 Predicate describes that: 
-[ #has_/domain  :: Accommodation, ApartmentComplex, FloorPlan, LodgingBusiness ]
+
+#has_/domain  :: Accommodation, ApartmentComplex, FloorPlan, LodgingBusiness  
+
 ( #has_/name :: is_pet_allowed )
 ( #has_/range :: Boolean, Text )
 

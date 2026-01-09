@@ -40,7 +40,9 @@ Use it like this:
 Email address.
 
 Predicated describes that: 
-[ #has_/domain  :: ContactPoint, Organization, Person ]
+
+#has_/domain  :: ContactPoint, Organization, Person  
+
 ( #has_/name :: has_text_of_email )
 ( #has_/range :: Text )
 

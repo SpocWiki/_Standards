@@ -35,7 +35,9 @@ Use it like this:
 A preventative therapy used to prevent an initial occurrence of the medical condition, such as vaccination.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition ]
+
+#has_/domain  :: MedicalCondition  
+
 ( #has_/name :: is_primary_prevention )
 ( #has_/range :: MedicalTherapy )
 

@@ -37,7 +37,9 @@ Use it like this:
 If the file can be downloaded, URL to download the binary.
 
 Predicate describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_url_for_download_url )
 ( #has_/range :: URL )
 

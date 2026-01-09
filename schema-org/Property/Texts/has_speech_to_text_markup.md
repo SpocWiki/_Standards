@@ -33,7 +33,7 @@ type: Pred_Text
 
 Predicate to describe the Text of PronounceableText.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/speech_to_text_markup :: Text ] or 
@@ -42,7 +42,9 @@ Use it like this:
 Form of markup used. eg. [SSML](https://www.w3.org/TR/speech-synthesis11) or [IPA](https://www.wikidata.org/wiki/Property:P898).
 
 Predicated describes that: 
-[ #has_/domain  :: PronounceableText ]
+
+#has_/domain  :: PronounceableText  
+
 ( #has_/name :: has_text_of_speech_to_text_markup )
 ( #has_/range :: Text )
 

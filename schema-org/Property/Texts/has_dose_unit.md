@@ -38,7 +38,9 @@ Use it like this:
 The unit of the dose, e.g. "mg".
 
 Predicated describes that: 
-[ #has_/domain  :: DoseSchedule ]
+
+#has_/domain  :: DoseSchedule  
+
 ( #has_/name :: has_text_of_dose_unit )
 ( #has_/range :: Text )
 

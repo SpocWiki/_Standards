@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of inserting at the end if an ordered collection.
 
-[ #is_/sub_class_of :: [[../InsertAction]] ]
+#is_/sub_class_of :: [[../InsertAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ]  
 
 ## Confidential Links & Embeds: 
 

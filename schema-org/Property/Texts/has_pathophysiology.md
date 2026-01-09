@@ -37,7 +37,9 @@ Use it like this:
 Changes in the normal mechanical, physical, and biochemical functions that are associated with this activity or condition.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalCondition, PhysicalActivity ]
+
+#has_/domain  :: MedicalCondition, PhysicalActivity  
+
 ( #has_/name :: has_text_of_pathophysiology )
 ( #has_/range :: Text )
 

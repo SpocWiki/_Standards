@@ -38,7 +38,9 @@ Use it like this:
 An HTTP method that specifies the appropriate HTTP method for a request to an HTTP EntryPoint. Values are capitalized strings as used in HTTP.
 
 Predicated describes that: 
-[ #has_/domain  :: EntryPoint ]
+
+#has_/domain  :: EntryPoint  
+
 ( #has_/name :: has_text_of_http_method )
 ( #has_/range :: Text )
 

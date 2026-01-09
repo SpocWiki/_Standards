@@ -18,11 +18,14 @@ Use it like this:
 - [ has_Pros :: [[../../Collection]]] 
 
 Relation describes that: 
-[ #has_/domain  :: [[../../Class|Class]] ]
+
+#has_/domain  :: [[../../Class|Class]]  
+
 ( #has_/name :: [[has_Pros]] )
 ( #has_/range :: [[../../Collection]] )
 
-[ #is_/inverse_of  :: is_facilitating ]
+#is_/inverse_of  :: is_facilitating  
+
 [[is_inhibiting]]
 #has_/complement :: [[has_Cons]] 
 

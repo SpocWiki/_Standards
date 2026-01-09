@@ -38,7 +38,9 @@ Use it like this:
 The type of security screening the passenger is subject to.
 
 Predicated describes that: 
-[ #has_/domain  :: FlightReservation ]
+
+#has_/domain  :: FlightReservation  
+
 ( #has_/name :: has_text_of_security_screening )
 ( #has_/range :: Text )
 

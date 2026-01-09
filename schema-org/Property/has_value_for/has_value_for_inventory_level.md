@@ -36,7 +36,9 @@ Use it like this:
 The current approximate inventory level for the item or items.
 
 Predicate describes that: 
-[ #has_/domain  :: Demand, Offer, SomeProducts ]
+
+#has_/domain  :: Demand, Offer, SomeProducts  
+
 ( #has_/name :: has_value_for_inventory_level )
 ( #has_/range :: QuantitativeValue )
 

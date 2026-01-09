@@ -37,7 +37,9 @@ Use it like this:
 The name of a node in an established educational framework.
 
 Predicated describes that: 
-[ #has_/domain  :: AlignmentObject ]
+
+#has_/domain  :: AlignmentObject  
+
 ( #has_/name :: has_name_of_target )
 ( #has_/range :: Text )
 

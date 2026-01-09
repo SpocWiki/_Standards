@@ -70,17 +70,24 @@ ZVG_number: 7760
 [GroupName::Group-08-Iron]
 Group::[[../Group-08-Iron]]
 
+has_/name_/en::Osmium 
 
-[has_/name_/en::Osmium]
-[has_/name_/de::Osmium]
-[has_/value_for_/weight_/u::192.2]
+has_/name_/de::Osmium 
+
+has_/value_for_/weight_/u::192.2 
+
 [AtomRadius::1.92]
 [Atom-Vol-ccm-mol::8.49]
 [Unknown2::1.26]
-[has_/value_for_/radius_/nano_/m::8.7]
+
+has_/value_for_/radius_/nano_/m::8.7 
+
 [Electronegative::2.2]
-[has_/value_for_/temperature_/melt_/c ::3045]
-[has_/value_for_/temperature_/boil_/c ::5027]
+
+has_/value_for_/temperature_/melt_/c ::3045 
+
+has_/value_for_/temperature_/boil_/c ::5027 
+
 [HeatCapacity::0.13]
 [HeatConduct::0.876]
 [Enthalpy::31.8]

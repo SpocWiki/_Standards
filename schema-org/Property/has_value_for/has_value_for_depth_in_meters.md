@@ -36,7 +36,9 @@ Use it like this:
 The depth of the item.
 
 Predicate describes that: 
-[ #has_/domain  :: OfferShippingDetails, Product, VisualArtwork ]
+
+#has_/domain  :: OfferShippingDetails, Product, VisualArtwork  
+
 ( #has_/name :: has_value_for_depth_in_meters )
 ( #has_/range :: Distance, QuantitativeValue )
 

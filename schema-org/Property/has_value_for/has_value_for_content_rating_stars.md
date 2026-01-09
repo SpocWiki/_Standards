@@ -36,7 +36,9 @@ Use it like this:
 Official rating of a piece of content&amp;#x2014;for example, 'MPAA PG-13'.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_value_for_content_rating_stars )
 ( #has_/range :: Rating, Text )
 

@@ -34,8 +34,7 @@ Tag Instances like this:
 
 Enumerated status values for Reservation.
 
-[ #is_/sub_class_of :: [[../StatusEnumeration]] ]
-
+#is_/sub_class_of :: [[../StatusEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

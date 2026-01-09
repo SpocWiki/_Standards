@@ -28,7 +28,7 @@ title: has_molecular_function
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/molecular_function :: DefinedTerm, PropertyValue, URL ] or 
@@ -37,7 +37,9 @@ Use it like this:
 Molecular function performed by this BioChemEntity; please use PropertyValue if you want to include any evidence.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity ]
+
+#has_/domain  :: BioChemEntity  
+
 ( #has_/name :: has_molecular_function )
 ( #has_/range :: DefinedTerm, PropertyValue, URL )
 

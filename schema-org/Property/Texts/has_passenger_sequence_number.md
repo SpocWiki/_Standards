@@ -39,7 +39,9 @@ Use it like this:
 The passenger"s sequence number as assigned by the airline.
 
 Predicated describes that: 
-[ #has_/domain  :: FlightReservation ]
+
+#has_/domain  :: FlightReservation  
+
 ( #has_/name :: has_text_of_passenger_sequence_number )
 ( #has_/range :: Text )
 

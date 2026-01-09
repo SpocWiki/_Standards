@@ -33,10 +33,9 @@ Tag Instances like this:
 
 A specific branch of medical science that is concerned with the study of the cause, origin and nature of a disease state, including its consequences as a result of manifestation of the disease. In clinical care, the term is used to designate a branch of medicine using laboratory tests to diagnose and determine the prognostic significance of illness.
 
-[ #is_/sub_class_of :: [[../MedicalSpecialty]] ]
+#is_/sub_class_of :: [[../MedicalSpecialty]]  
 
-[ #is_/enum_of :: [[../MedicalSpecialty]] ]
-
+#is_/enum_of :: [[../MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

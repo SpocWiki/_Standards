@@ -37,7 +37,9 @@ People working for this organization.
 Rather use [[has_employer]]! 
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Society/Agent/Community/Organization]] ]
+
+#has_/domain  :: [[../../../Society/Agent/Community/Organization]]  
+
 ( #has_/name :: has_employees )
 ( #has_/range :: [[../../../Society/Agent/Person]] )
 

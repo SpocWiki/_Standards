@@ -37,7 +37,9 @@ Use it like this:
 A polygon is the area enclosed by a point-to-point path for which the starting and ending points are the same. A polygon is expressed as a series of four or more space delimited points where the first and final points are identical.
 
 Predicated describes that: 
-[ #has_/domain  :: GeoShape ]
+
+#has_/domain  :: GeoShape  
+
 ( #has_/name :: has_text_of_polygon )
 ( #has_/range :: Text )
 

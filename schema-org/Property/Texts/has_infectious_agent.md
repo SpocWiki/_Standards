@@ -38,7 +38,9 @@ Use it like this:
 The actual infectious agent, such as a specific bacterium.
 
 Predicated describes that: 
-[ #has_/domain  :: InfectiousDisease ]
+
+#has_/domain  :: InfectiousDisease  
+
 ( #has_/name :: has_text_of_infectious_agent )
 ( #has_/range :: Text )
 

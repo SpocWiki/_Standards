@@ -33,7 +33,7 @@ Class of all decontextualized_contents.
 Tag Instances like this: 
 #is_a_/decontextualized_content
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Content coded 'missing context' in a [[../../../../../../Society/Communication/Media/Creative_Work/Review/Media_Review|MediaReview]],
 considered in the context of how it was published or shared.
@@ -54,10 +54,9 @@ Unaltered audio presented in an inaccurate manner that misrepresents it.
 For example, using incorrect dates or locations, or sharing brief clips from a longer recording to mislead viewers. 
 (Audio rated 'original' can also be missing context.)
 
-[ #is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
+#is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]]  
 
-[ #is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
-
+#is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

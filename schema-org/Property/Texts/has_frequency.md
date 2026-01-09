@@ -37,12 +37,13 @@ Use it like this:
 How often the dose is taken, e.g. "daily".
 
 Predicated describes that: 
-[ #has_/domain  :: DoseSchedule ]
+
+#has_/domain  :: DoseSchedule  
+
 ( #has_/name :: has_text_of_frequency )
 ( #has_/range :: Text )
 
-[ #has_/sub_properties :: [ repeatFrequency ] ]
-
+#has_/sub_properties :: [ repeatFrequency ]  
 
 ## Confidential Links & Embeds: 
 

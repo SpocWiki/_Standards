@@ -33,14 +33,13 @@ Class of all limited_by_guarantee_charitys.
 Tag Instances like this: 
 #is_a_/limited_by_guarantee_charity
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 LimitedByGuaranteeCharity: Non-profit type referring to a charitable company that is limited by guarantee (UK).
 
-[ #is_/sub_class_of :: [[../UKNonprofitType]] ]
+#is_/sub_class_of :: [[../UKNonprofitType]]  
 
-[ #is_/enum_of :: [[../UKNonprofitType]] ]
-
+#is_/enum_of :: [[../UKNonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

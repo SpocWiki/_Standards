@@ -39,7 +39,9 @@ Use it like this:
 The place where the person was born.
 
 Predicate describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_location_birth )
 ( #has_/range :: Place )
 

@@ -38,7 +38,9 @@ Use it like this:
 The movement the muscle generates.
 
 Predicated describes that: 
-[ #has_/domain  :: Muscle ]
+
+#has_/domain  :: Muscle  
+
 ( #has_/name :: has_text_of_muscle_action )
 ( #has_/range :: Text )
 

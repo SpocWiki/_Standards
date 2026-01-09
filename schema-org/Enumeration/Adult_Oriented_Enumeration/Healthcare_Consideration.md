@@ -33,14 +33,13 @@ Class of all healthcare_considerations.
 Tag Instances like this: 
 #is_a_/healthcare_consideration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Item is a pharmaceutical (e.g., a prescription or OTC drug) or a restricted medical device.
 
-[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
+#is_/sub_class_of :: [[../AdultOrientedEnumeration]]  
 
-[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
-
+#is_/enum_of :: [[../AdultOrientedEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

@@ -37,7 +37,9 @@ Use it like this:
 Typical or recommended followup care after the procedure is performed.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalProcedure ]
+
+#has_/domain  :: MedicalProcedure  
+
 ( #has_/name :: has_text_of_followup )
 ( #has_/range :: Text )
 

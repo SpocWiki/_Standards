@@ -36,7 +36,9 @@ Use it like this:
 The number of offers for the product.
 
 Predicate describes that: 
-[ #has_/domain  :: AggregateOffer ]
+
+#has_/domain  :: AggregateOffer  
+
 ( #has_/name :: has_number_of_offers )
 ( #has_/range :: Integer )
 

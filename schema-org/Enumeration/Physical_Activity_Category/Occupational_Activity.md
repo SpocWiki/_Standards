@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Any physical activity engaged in for job-related purposes. Examples may include waiting tables, maid service, carrying a mailbag, picking fruits or vegetables, construction work, etc.
 
-[ #is_/sub_class_of :: [[../PhysicalActivityCategory]] ]
+#is_/sub_class_of :: [[../PhysicalActivityCategory]]  
 
-[ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
-
+#is_/enum_of :: [[../PhysicalActivityCategory]]  
 
 ## Confidential Links & Embeds: 
 

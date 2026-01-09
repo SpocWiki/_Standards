@@ -36,7 +36,9 @@ Use it like this:
 The number of seasons in this series.
 
 Predicate describes that: 
-[ #has_/domain  :: RadioSeries, TVSeries, VideoGameSeries ]
+
+#has_/domain  :: RadioSeries, TVSeries, VideoGameSeries  
+
 ( #has_/name :: has_number_of_seasons )
 ( #has_/range :: Integer )
 

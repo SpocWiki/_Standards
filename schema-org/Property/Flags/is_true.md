@@ -37,7 +37,9 @@ Or write it as a Triple:
 The Truth-value of the Subject (an Assertion).
 
 Predicate describes that: 
-[ #has_/domain  :: MonetaryAmount, PropertyValue, QuantitativeValue ]
+
+#has_/domain  :: MonetaryAmount, PropertyValue, QuantitativeValue  
+
 ( #has_/name :: is_true )
 ( #has_/range :: Boolean, Number, StructuredValue, Text )
 

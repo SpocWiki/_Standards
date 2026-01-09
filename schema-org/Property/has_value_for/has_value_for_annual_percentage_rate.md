@@ -36,7 +36,9 @@ Use it like this:
 The annual rate that is charged for borrowing (or made by investing), expressed as a single percentage number that represents the actual yearly cost of funds over the term of a loan. This includes any fees or additional costs associated with the transaction.
 
 Predicate describes that: 
-[ #has_/domain  :: FinancialProduct ]
+
+#has_/domain  :: FinancialProduct  
+
 ( #has_/name :: has_value_for_annual_percentage_rate )
 ( #has_/range :: Number, QuantitativeValue )
 

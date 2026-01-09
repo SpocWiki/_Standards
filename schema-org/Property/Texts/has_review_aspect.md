@@ -38,7 +38,9 @@ Use it like this:
 This Review or Rating is relevant to this part or facet of the itemReviewed.
 
 Predicated describes that: 
-[ #has_/domain  :: Guide, Rating, Review ]
+
+#has_/domain  :: Guide, Rating, Review  
+
 ( #has_/name :: has_text_of_review_aspect )
 ( #has_/range :: Text )
 

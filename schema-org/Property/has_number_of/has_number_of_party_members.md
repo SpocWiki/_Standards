@@ -36,7 +36,9 @@ Use it like this:
 Number of people the reservation should accommodate.
 
 Predicate describes that: 
-[ #has_/domain  :: FoodEstablishmentReservation, TaxiReservation ]
+
+#has_/domain  :: FoodEstablishmentReservation, TaxiReservation  
+
 ( #has_/name :: has_number_of_party_members )
 ( #has_/range :: Integer, QuantitativeValue )
 

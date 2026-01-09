@@ -32,7 +32,9 @@ A sub property of Participant.
 The participant who is at the sending end of the action.
 
 Relation describes that: 
-[ #has_/domain  :: Message, ReceiveAction ]
+
+#has_/domain  :: Message, ReceiveAction  
+
 ( #has_/name :: is_sender )
 ( #has_/range :: Audience, Organization, Person )
 

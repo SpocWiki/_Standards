@@ -32,7 +32,7 @@ type: Pred_Text
 
 Predicate to describe the Text of DefinedRegion.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/postal_code_prefix :: Text ] or 
@@ -41,7 +41,9 @@ Use it like this:
 A defined range of postal codes indicated by a common textual prefix. Used for non-numeric systems such as UK.
 
 Predicated describes that: 
-[ #has_/domain  :: DefinedRegion ]
+
+#has_/domain  :: DefinedRegion  
+
 ( #has_/name :: has_text_of_postal_code_prefix )
 ( #has_/range :: Text )
 

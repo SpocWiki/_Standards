@@ -36,7 +36,9 @@ Use it like this:
 The overall order the items in this delivery were included in.
 
 Relation describes that: 
-[ #has_/domain  :: ParcelDelivery ]
+
+#has_/domain  :: ParcelDelivery  
+
 ( #has_/name :: is_part_of_order )
 ( #has_/range :: Order )
 

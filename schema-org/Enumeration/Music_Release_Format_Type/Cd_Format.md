@@ -35,10 +35,9 @@ Tag Instances like this:
 
 CDFormat.
 
-[ #is_/sub_class_of :: [[../MusicReleaseFormatType]] ]
+#is_/sub_class_of :: [[../MusicReleaseFormatType]]  
 
-[ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
-
+#is_/enum_of :: [[../MusicReleaseFormatType]]  
 
 ## Confidential Links & Embeds: 
 

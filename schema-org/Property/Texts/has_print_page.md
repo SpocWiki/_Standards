@@ -38,7 +38,9 @@ Use it like this:
 If this NewsArticle appears in print, this field indicates the name of the page on which the article is found. Please note that this field is intended for the exact page name (e.g. A5, B18).
 
 Predicated describes that: 
-[ #has_/domain  :: NewsArticle ]
+
+#has_/domain  :: NewsArticle  
+
 ( #has_/name :: has_text_of_print_page )
 ( #has_/range :: Text )
 

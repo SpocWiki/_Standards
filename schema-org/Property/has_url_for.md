@@ -51,7 +51,9 @@ Use it like this:
 URL of the item.
 
 Predicate describes that: 
-[ #has_/domain  :: [Thing](../../Class/Thing.md) ]
+
+#has_/domain  :: [Thing](../../Class/Thing.md)  
+
 ( #has_/name :: has_url_for )
 ( #has_/range :: URL )
 

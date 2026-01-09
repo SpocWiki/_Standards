@@ -34,12 +34,11 @@ Tag Instances like this:
 
 The act of adding at a specific location in an ordered collection.
 
-[ #is_/sub_class_of :: [[../AddAction]] ]
+#is_/sub_class_of :: [[../AddAction]]  
 
-[ #has_/sub_classes :: [ AppendAction, PrependAction ] ]
+#has_/sub_classes :: [ AppendAction, PrependAction ]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ]  
 
 ## Confidential Links & Embeds: 
 

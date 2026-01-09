@@ -31,7 +31,9 @@ Use it like this:
 The underlying innervation associated with the muscle.
 
 Relation describes that: 
-[ #has_/domain  :: Muscle ]
+
+#has_/domain  :: Muscle  
+
 ( #has_/name :: has_nerve )
 ( #has_/range :: Nerve )
 

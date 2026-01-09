@@ -31,7 +31,9 @@ Use it like this:
 Either the actual menu as a structured representation, as text, or a URL of the menu.
 
 Relation describes that: 
-[ #has_/domain  :: FoodEstablishment ]
+
+#has_/domain  :: FoodEstablishment  
+
 ( #has_/name :: has_menu )
 ( #has_/range :: Menu, Text, URL )
 

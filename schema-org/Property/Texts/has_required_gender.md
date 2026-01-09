@@ -38,7 +38,9 @@ Use it like this:
 Audiences defined by a person"s gender.
 
 Predicated describes that: 
-[ #has_/domain  :: PeopleAudience ]
+
+#has_/domain  :: PeopleAudience  
+
 ( #has_/name :: has_text_of_required_gender )
 ( #has_/range :: Text )
 

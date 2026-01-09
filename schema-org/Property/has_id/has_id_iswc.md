@@ -37,7 +37,9 @@ Use it like this:
 The International Standard Musical Work Code for the composition.
 
 Predicated describes that: 
-[ #has_/domain  :: MusicComposition ]
+
+#has_/domain  :: MusicComposition  
+
 ( #has_/name :: has_id_iswc )
 ( #has_/range :: Text )
 

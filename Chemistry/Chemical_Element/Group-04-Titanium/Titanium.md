@@ -113,17 +113,25 @@ type: Element
 [GroupName::Group-04-Titanium]
 Group::[[../Group-04-Titanium]]
 
-[has_/name_/en::Titanium]
-[has_/name_/de::Titan]
-[has_/value_for_/weight_/u::47.88]
+has_/name_/en::Titanium 
+
+has_/name_/de::Titan 
+
+has_/value_for_/weight_/u::47.88 
+
 [AtomRadius::2]
 [Atom-Vol-ccm-mol::10.64]
 [Unknown2::1.32]
-[has_/value_for_/radius_/nano_/m::6.82]
+
+has_/value_for_/radius_/nano_/m::6.82 
+
 [Electronegative::1.5]
 [Density::4.5]
-[has_/value_for_/temperature_/melt_/c ::1660]
-[has_/value_for_/temperature_/boil_/c ::3287]
+
+has_/value_for_/temperature_/melt_/c ::1660 
+
+has_/value_for_/temperature_/boil_/c ::3287 
+
 [HeatCapacity::0.52]
 [HeatConduct::0.219]
 [Enthalpy::15.45]

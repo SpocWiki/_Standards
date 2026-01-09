@@ -35,10 +35,9 @@ Tag Instances like this:
 
 OrderStatus representing that an order has been returned.
 
-[ #is_/sub_class_of :: [[../OrderStatus]] ]
+#is_/sub_class_of :: [[../OrderStatus]]  
 
-[ #is_/enum_of :: [[../OrderStatus]] ]
-
+#is_/enum_of :: [[../OrderStatus]]  
 
 ## Confidential Links & Embeds: 
 

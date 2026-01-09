@@ -36,7 +36,9 @@ Use it like this:
 The amount of time that is required between accepting the offer and the actual usage of the resource or service.
 
 Predicate describes that: 
-[ #has_/domain  :: Demand, Offer ]
+
+#has_/domain  :: Demand, Offer  
+
 ( #has_/name :: has_value_for_advance_booking_requirement )
 ( #has_/range :: QuantitativeValue )
 

@@ -33,14 +33,13 @@ Class of all paid_leaves.
 Tag Instances like this: 
 #is_a_/paid_leave
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 PaidLeave: this is a benefit for paid leave.
 
-[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
+#is_/sub_class_of :: [[../GovernmentBenefitsType]]  
 
-[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
-
+#is_/enum_of :: [[../GovernmentBenefitsType]]  
 
 ## Confidential Links & Embeds: 
 

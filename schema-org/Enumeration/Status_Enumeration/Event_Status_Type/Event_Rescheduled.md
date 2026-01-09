@@ -35,10 +35,9 @@ Tag Instances like this:
 
 The event has been rescheduled. The event's previousStartDate should be set to the old date and the startDate should be set to the event's new date. (If the event has been rescheduled multiple times, the previousStartDate property may be repeated.)
 
-[ #is_/sub_class_of :: [[../EventStatusType]] ]
+#is_/sub_class_of :: [[../EventStatusType]]  
 
-[ #is_/enum_of :: [[../EventStatusType]] ]
-
+#is_/enum_of :: [[../EventStatusType]]  
 
 ## Confidential Links & Embeds: 
 

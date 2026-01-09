@@ -33,7 +33,7 @@ Class of all staged_contents.
 Tag Instances like this: 
 #is_a_/staged_content
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Content coded 'staged content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
@@ -46,10 +46,9 @@ An image that was created using actors or similarly contrived, such as a screens
 # For an [[../../../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
 Audio that has been created using actors or similarly contrived.
 
-[ #is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
+#is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]]  
 
-[ #is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
-
+#is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

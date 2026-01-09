@@ -31,7 +31,9 @@ Use it like this:
 Party placing the order or paying the invoice.
 
 Relation describes that: 
-[ #has_/domain  :: Invoice, Order ]
+
+#has_/domain  :: Invoice, Order  
+
 ( #has_/name :: has_customer )
 ( #has_/range :: Organization, Person )
 

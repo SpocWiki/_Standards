@@ -33,14 +33,13 @@ Class of all size_system_imperials.
 Tag Instances like this: 
 #is_a_/size_system_imperial
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Imperial size system.
 
-[ #is_/sub_class_of :: [[../SizeSystemEnumeration]] ]
+#is_/sub_class_of :: [[../SizeSystemEnumeration]]  
 
-[ #is_/enum_of :: [[../SizeSystemEnumeration]] ]
-
+#is_/enum_of :: [[../SizeSystemEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

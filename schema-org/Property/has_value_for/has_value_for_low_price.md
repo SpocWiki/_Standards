@@ -47,7 +47,9 @@ Usage guidelines:
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: AggregateOffer ]
+
+#has_/domain  :: AggregateOffer  
+
 ( #has_/name :: has_value_for_low_price )
 ( #has_/range :: Number, Text )
 

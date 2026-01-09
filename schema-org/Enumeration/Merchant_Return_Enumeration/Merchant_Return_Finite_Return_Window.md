@@ -34,14 +34,13 @@ Class of all merchant_return_finite_return_windows.
 Tag Instances like this: 
 #is_a_/merchant_return_finite_return_window
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that there is a finite window for product returns.
 
-[ #is_/sub_class_of :: [[../MerchantReturnEnumeration]] ]
+#is_/sub_class_of :: [[../MerchantReturnEnumeration]]  
 
-[ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
-
+#is_/enum_of :: [[../MerchantReturnEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

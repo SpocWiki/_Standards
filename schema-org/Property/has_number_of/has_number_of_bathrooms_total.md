@@ -29,7 +29,7 @@ type: Predi_Count
 
 Predicate to describe the Number of Accommodation, FloorPlan.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/number_of_/bathrooms_total :: Integer ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The total integer number of bathrooms in some [[../../../Earth/Geography/Place/Accommodation]], following real estate conventions as <a href="https://ddwiki.reso.org/display/DDW17/BathroomsTotalInteger+Field">documented in RESO</a>: "The simple sum of the number of bathrooms. For example for a property with two Full Bathrooms and one Half Bathroom, the Bathrooms Total Integer will be 3.". See also [[numberOfRooms]].
 
 Predicate describes that: 
-[ #has_/domain  :: Accommodation, FloorPlan ]
+
+#has_/domain  :: Accommodation, FloorPlan  
+
 ( #has_/name :: has_number_of_bathrooms_total )
 ( #has_/range :: Integer )
 

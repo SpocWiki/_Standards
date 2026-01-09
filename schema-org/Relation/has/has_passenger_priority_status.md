@@ -36,7 +36,9 @@ Use it like this:
 The priority status assigned to a passenger for security or boarding (e.g. FastTrack or Priority).
 
 Relation describes that: 
-[ #has_/domain  :: FlightReservation ]
+
+#has_/domain  :: FlightReservation  
+
 ( #has_/name :: has_passenger_priority_status )
 ( #has_/range :: QualitativeValue, Text )
 

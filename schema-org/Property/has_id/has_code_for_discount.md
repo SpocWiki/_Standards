@@ -37,7 +37,9 @@ Use it like this:
 Code used to redeem a discount.
 
 Predicated describes that: 
-[ #has_/domain  :: Order ]
+
+#has_/domain  :: Order  
+
 ( #has_/name :: has_code_for_discount )
 ( #has_/range :: Text )
 

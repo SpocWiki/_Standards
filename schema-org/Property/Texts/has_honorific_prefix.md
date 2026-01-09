@@ -38,7 +38,9 @@ Use it like this:
 An honorific prefix preceding a Person"s name such as Dr/Mrs/Mr.
 
 Predicated describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_text_of_honorific_prefix )
 ( #has_/range :: Text )
 

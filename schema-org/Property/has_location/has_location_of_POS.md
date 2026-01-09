@@ -36,7 +36,9 @@ Use it like this:
 Points-of-Sales operated by the organization or person.
 
 Predicate describes that: 
-[ #has_/domain  :: Organization, Person ]
+
+#has_/domain  :: Organization, Person  
+
 ( #has_/name :: has_location_of_POS )
 ( #has_/range :: Place )
 

@@ -52,7 +52,9 @@ For more sophisticated markup of speakable sections beyond simple ID references,
 we define a supporting type, [[SpeakableSpecification]]  which is defined to be a possible value of the <em>speakable</em> property.
 
 Relation describes that: 
-[ #has_/domain  :: Article, WebPage ]
+
+#has_/domain  :: Article, WebPage  
+
 ( #has_/name :: is_speakable )
 ( #has_/range :: SpeakableSpecification, URL )
 

@@ -35,10 +35,9 @@ Tag Instances like this:
 
 The event is taking place or has taken place on the startDate as scheduled. Use of this value is optional, as it is assumed by default.
 
-[ #is_/sub_class_of :: [[../EventStatusType]] ]
+#is_/sub_class_of :: [[../EventStatusType]]  
 
-[ #is_/enum_of :: [[../EventStatusType]] ]
-
+#is_/enum_of :: [[../EventStatusType]]  
 
 ## Confidential Links & Embeds: 
 

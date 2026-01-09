@@ -56,7 +56,9 @@ Use it like this:
 The opening hours of a certain place.
 
 Relation describes that: 
-[ #has_/domain  :: Place ]
+
+#has_/domain  :: Place  
+
 ( #has_/name :: has_opening_hours_specification )
 ( #has_/range :: OpeningHoursSpecification )
 

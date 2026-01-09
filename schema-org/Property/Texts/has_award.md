@@ -41,7 +41,9 @@ Use it like this:
 Description of an award won by or for this item.
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork, Organization, Person, Product, Service ]
+
+#has_/domain  :: CreativeWork, Organization, Person, Product, Service  
+
 ( #has_/name :: has_award )
 ( #has_/range :: Text )
 

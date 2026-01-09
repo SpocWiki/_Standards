@@ -36,7 +36,9 @@ Use it like this:
 Indicate how many people can play this game (minimum, maximum, or range).
 
 Predicate describes that: 
-[ #has_/domain  :: Game, VideoGameSeries ]
+
+#has_/domain  :: Game, VideoGameSeries  
+
 ( #has_/name :: has_number_of_players )
 ( #has_/range :: QuantitativeValue )
 

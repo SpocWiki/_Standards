@@ -34,10 +34,9 @@ Tag Instances like this:
 
 An EducationalAudience.
 
-[ #is_/sub_class_of :: [[../Audience]] ]
+#is_/sub_class_of :: [[../Audience]]  
 
-[ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, educationalRole, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, educationalRole, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

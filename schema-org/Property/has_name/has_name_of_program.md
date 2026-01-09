@@ -37,7 +37,9 @@ Use it like this:
 The program providing the membership.
 
 Predicated describes that: 
-[ #has_/domain  :: ProgramMembership ]
+
+#has_/domain  :: ProgramMembership  
+
 ( #has_/name :: has_name_of_program )
 ( #has_/range :: Text )
 

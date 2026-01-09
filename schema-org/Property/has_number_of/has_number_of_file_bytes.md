@@ -37,7 +37,9 @@ Use it like this:
 Size of the application / package (e.g. 18MB). In the absence of a unit (MB, KB etc.), KB will be assumed.
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_number_of_file_bytes )
 ( #has_/range :: Text )
 

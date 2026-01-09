@@ -39,7 +39,9 @@ A string or text indicating the unit of measurement. Useful if you can not provi
 [unitCode](unitCode).
 
 Predicated describes that: 
-[ #has_/domain  :: PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification ]
+
+#has_/domain  :: PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification  
+
 ( #has_/name :: has_text_of_unit_text )
 ( #has_/range :: Text )
 

@@ -36,7 +36,9 @@ Use it like this:
 Where a rental car can be dropped off.
 
 Predicate describes that: 
-[ #has_/domain  :: RentalCarReservation ]
+
+#has_/domain  :: RentalCarReservation  
+
 ( #has_/name :: has_location_dropoff )
 ( #has_/range :: Place )
 

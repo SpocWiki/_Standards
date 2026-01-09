@@ -14,7 +14,9 @@ Relates a sub-Property to its super-Property.
 Sub-Properties are more specialized and assign a (named) subset of the Values to a (named, reified) subset of the Subjects. 
 
 Relation describes that: 
-[ #has_/domain  :: [Quantity](../Property.md)]
+
+#has_/domain  :: [Quantity](../Property.md) 
+
 ( #has_/name :: is_sub_property_of)
 ( #has_/range :: [Quantity](../Property.md))
 

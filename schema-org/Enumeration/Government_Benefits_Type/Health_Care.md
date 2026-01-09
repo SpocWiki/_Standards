@@ -79,13 +79,13 @@ Class of all health_cares.
 Tag Instances like this: 
 #is_a_/health_care
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 HealthCare: this is a benefit for health care.
 
-[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
+#is_/sub_class_of :: [[../GovernmentBenefitsType]]  
 
-[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
+#is_/enum_of :: [[../GovernmentBenefitsType]]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]] 
 

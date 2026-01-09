@@ -33,14 +33,13 @@ Class of all return_shipping_feess.
 Tag Instances like this: 
 #is_a_/return_shipping_fees
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that the customer must pay the return shipping costs when returning a product.
 
-[ #is_/sub_class_of :: [[../ReturnFeesEnumeration]] ]
+#is_/sub_class_of :: [[../ReturnFeesEnumeration]]  
 
-[ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
-
+#is_/enum_of :: [[../ReturnFeesEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

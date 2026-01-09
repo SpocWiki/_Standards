@@ -38,7 +38,9 @@ Use it like this:
 Description of the meals that will be provided or available for purchase.
 
 Predicated describes that: 
-[ #has_/domain  :: Flight ]
+
+#has_/domain  :: Flight  
+
 ( #has_/name :: has_text_of_meal_service )
 ( #has_/range :: Text )
 

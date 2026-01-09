@@ -32,14 +32,13 @@ Class of all repayment_specifications.
 Tag Instances like this: 
 #is_a_/repayment_specification
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A structured value representing repayment.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, downPayment, earlyPrepaymentPenalty, identifier, image, loanPaymentAmount, loanPaymentFrequency, mainEntityOfPage, name, numberOfLoanPayments, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, downPayment, earlyPrepaymentPenalty, identifier, image, loanPaymentAmount, loanPaymentFrequency, mainEntityOfPage, name, numberOfLoanPayments, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

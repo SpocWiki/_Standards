@@ -77,7 +77,7 @@ Usage guidelines:
 <li>Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.</li>
 </ul>
 
-[ #has_/sub_classes :: [ Float, Integer ] ]
+#has_/sub_classes :: [ Float, Integer ]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Number,11563|WD~Number,11563]] 
 

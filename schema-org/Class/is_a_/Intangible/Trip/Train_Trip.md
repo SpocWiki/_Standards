@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A trip on a commercial train line.
 
-[ #is_/sub_class_of :: [[../Trip]] ]
+#is_/sub_class_of :: [[../Trip]]  
 
-[ #has_/properties :: [ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ]  
 
 ## Confidential Links & Embeds: 
 

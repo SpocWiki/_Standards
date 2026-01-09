@@ -33,14 +33,13 @@ Class of all body_measurement_heads.
 Tag Instances like this: 
 #is_a_/body_measurement_head
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Maximum girth of head above the ears. Used, for example, to fit hats.
 
-[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
+#is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
-
+#is_/enum_of :: [[../BodyMeasurementTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

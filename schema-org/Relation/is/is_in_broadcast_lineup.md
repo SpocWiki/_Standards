@@ -36,7 +36,9 @@ Use it like this:
 The CableOrSatelliteService offering the channel.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastChannel ]
+
+#has_/domain  :: BroadcastChannel  
+
 ( #has_/name :: is_in_broadcast_lineup )
 ( #has_/range :: CableOrSatelliteService )
 

@@ -55,14 +55,16 @@ This approach is dominant in academic ontology design,
 Inverse Relations relate the __same pairs__ of items to each other, but __in reversed direction__.
 For example, the [[../../../Relation/has/has_alumni]] and [[is/is_alumni_of]] properties are [[inverseOf]] each other. 
 
-[ #is_/part_of :: https://meta.schema.org]
+#is_/part_of :: https://meta.schema.org 
 
 Use it like this: 
 - [ #is_/inverse_of :: [[Property]]] or 
 - [ is_inverse_of :: [[Property]]] 
 
 Relation describes that: 
-[ #has_/domain  :: [[Property]]]
+
+#has_/domain  :: [[Property]] 
+
 ( #has_/name :: is_inverse_of)
 ( #has_/range :: [[Property]])
 

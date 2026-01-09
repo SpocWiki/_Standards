@@ -36,7 +36,9 @@ Relates a subset to its super-set.
 Can be implemented with dedicated #Tags
 
 Relation describes that: 
-[ #has_/domain  :: [Collection](../Collection.md)]
+
+#has_/domain  :: [Collection](../Collection.md) 
+
 ( #has_/name :: [is_sub_set_of](is_sub_set_of.md))
 ( #has_/range :: [Collection](../Collection.md))
 

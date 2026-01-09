@@ -34,7 +34,9 @@ Use it like this:
 The organization or person from which the product was acquired.
 
 Relation describes that: 
-[ #has_/domain  :: OwnershipInfo ]
+
+#has_/domain  :: OwnershipInfo  
+
 ( #has_/name :: is_acquired_from )
 ( #has_/range :: Organization, Person )
 

@@ -36,7 +36,9 @@ Use it like this:
 The 10th percentile value.
 
 Predicate describes that: 
-[ #has_/domain  :: QuantitativeValueDistribution ]
+
+#has_/domain  :: QuantitativeValueDistribution  
+
 ( #has_/name :: has_value_for_percentile10 )
 ( #has_/range :: Number )
 

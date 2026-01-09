@@ -37,7 +37,9 @@ Or write it as a Triple:
 Indicates whether this content is family friendly.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork, Offer, Product ]
+
+#has_/domain  :: CreativeWork, Offer, Product  
+
 ( #has_/name :: is_family_friendly )
 ( #has_/range :: Boolean )
 

@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of MerchantReturnPolicy.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/restocking_fee :: MonetaryAmount, Number ] or 
@@ -38,7 +38,9 @@ Use it like this:
 Use [[MonetaryAmount]] to specify a fixed restocking fee for product returns, or use[[../../Class/is_a_/data_type/number]]] to specify a percentage of the product price paid by the customer.
 
 Predicate describes that: 
-[ #has_/domain  :: MerchantReturnPolicy ]
+
+#has_/domain  :: MerchantReturnPolicy  
+
 ( #has_/name :: has_value_for_restocking_fee )
 ( #has_/range :: MonetaryAmount, Number )
 

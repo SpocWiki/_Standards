@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Game server status: OfflineTemporarily. Server is offline now but it can be online soon.
 
-[ #is_/sub_class_of :: [[../GameServerStatus]] ]
+#is_/sub_class_of :: [[../GameServerStatus]]  
 
-[ #is_/enum_of :: [[../GameServerStatus]] ]
-
+#is_/enum_of :: [[../GameServerStatus]]  
 
 ## Confidential Links & Embeds: 
 

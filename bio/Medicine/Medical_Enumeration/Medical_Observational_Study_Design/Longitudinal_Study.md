@@ -33,10 +33,9 @@ Tag Instances like this:
 
 Unlike cross-sectional studies, longitudinal studies track the same people, and therefore the differences observed in those people are less likely to be the result of cultural differences across generations. Longitudinal studies are also used in medicine to uncover predictors of certain diseases.
 
-[ #is_/sub_class_of :: [[../MedicalObservationalStudyDesign]] ]
+#is_/sub_class_of :: [[../MedicalObservationalStudyDesign]]  
 
-[ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
-
+#is_/enum_of :: [[../MedicalObservationalStudyDesign]]  
 
 ## Confidential Links & Embeds: 
 

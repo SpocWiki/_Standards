@@ -29,7 +29,7 @@ title: has_translation_of_work
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
 - [ #has_/translation_of_work :: CreativeWork ] or 
@@ -38,12 +38,13 @@ Use it like this:
 The work that this work has been translated from. E.g. ???? is a translationOf �On the Origin of Species�.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_translation_of_work )
 ( #has_/range :: CreativeWork )
 
-[ #is_/inverse_of  :: workTranslation ]
-
+#is_/inverse_of  :: workTranslation  
 
 ## Confidential Links & Embeds: 
 

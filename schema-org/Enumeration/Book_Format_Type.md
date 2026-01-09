@@ -34,8 +34,7 @@ Tag Instances like this:
 
 The publication format of the book.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

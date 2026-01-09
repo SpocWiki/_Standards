@@ -77,18 +77,25 @@ ZVG_number: 7520
 [GroupName::Group-16-Chalcogene]
 Group::[[../Group-16-Chalcogene]]
 
+has_/name_/en::Tellurium 
 
-[has_/name_/en::Tellurium]
-[has_/name_/de::Tellur]
-[has_/value_for_/weight_/u::127.6]
+has_/name_/de::Tellur 
+
+has_/value_for_/weight_/u::127.6 
+
 [AtomRadius::1.42]
 [Atom-Vol-ccm-mol::20.5]
 [Unknown2::1.36]
-[has_/value_for_/radius_/nano_/m::9.009]
+
+has_/value_for_/radius_/nano_/m::9.009 
+
 [Electronegative::2.1]
 [Density::6.24]
-[has_/value_for_/temperature_/melt_/c ::449.5]
-[has_/value_for_/temperature_/boil_/c ::989.8]
+
+has_/value_for_/temperature_/melt_/c ::449.5 
+
+has_/value_for_/temperature_/boil_/c ::989.8 
+
 [HeatCapacity::0.2]
 [HeatConduct::0.0235]
 [Enthalpy::17.49]

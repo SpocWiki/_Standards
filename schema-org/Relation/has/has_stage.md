@@ -31,7 +31,9 @@ Use it like this:
 The stage of the condition, if applicable.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition ]
+
+#has_/domain  :: MedicalCondition  
+
 ( #has_/name :: is_stage )
 ( #has_/range :: MedicalConditionStage )
 

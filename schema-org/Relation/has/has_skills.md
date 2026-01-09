@@ -31,7 +31,9 @@ Use it like this:
 A statement of knowledge, skill, ability, task or any other assertion expressing a competency that is desired or required to fulfill this role or to work in this occupation.
 
 Relation describes that: 
-[ #has_/domain  :: JobPosting, Occupation ]
+
+#has_/domain  :: JobPosting, Occupation  
+
 ( #has_/name :: is_skills )
 ( #has_/range :: DefinedTerm, Text )
 

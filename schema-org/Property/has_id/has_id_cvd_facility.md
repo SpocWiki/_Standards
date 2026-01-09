@@ -31,7 +31,7 @@ type: Pred_Text
 
 Predicate to describe the Text of [[../../Class/is_a_/Intangible/structured_value/cdcpmd_record|CDCPMDRecord]].
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/id_/cvd_facility :: Text ] or 
@@ -40,7 +40,9 @@ Use it like this:
 Identifier of the NHSN facility that this data record applies to. Use [[cvdFacilityCounty]] to indicate the county. To provide other details, [[healthcareReportingData]] can be used on a [[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital]] entry.
 
 Predicated describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/cdcpmd_record|CDCPMDRecord]] ]
+
+#has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/cdcpmd_record|CDCPMDRecord]]  
+
 ( #has_/name :: has_id_cvd_facility )
 ( #has_/range :: Text )
 

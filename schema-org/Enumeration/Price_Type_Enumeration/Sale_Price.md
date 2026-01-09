@@ -33,14 +33,13 @@ Class of all sale_prices.
 Tag Instances like this: 
 #is_a_/sale_price
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents a sale price (usually active for a limited period) of an offered product.
 
-[ #is_/sub_class_of :: [[../PriceTypeEnumeration]] ]
+#is_/sub_class_of :: [[../PriceTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
-
+#is_/enum_of :: [[../PriceTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

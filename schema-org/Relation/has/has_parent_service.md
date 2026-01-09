@@ -36,7 +36,9 @@ A broadcast service to which the broadcast service may belong to
 such as regional variations of a national channel.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastService ]
+
+#has_/domain  :: BroadcastService  
+
 ( #has_/name :: has_parent_service )
 ( #has_/range :: BroadcastService )
 

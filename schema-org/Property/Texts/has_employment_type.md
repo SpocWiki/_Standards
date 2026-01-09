@@ -38,7 +38,9 @@ Use it like this:
 Type of employment (e.g. full-time, part-time, contract, temporary, seasonal, internship).
 
 Predicated describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_text_of_employment_type )
 ( #has_/range :: Text )
 

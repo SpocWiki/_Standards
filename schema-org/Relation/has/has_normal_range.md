@@ -35,7 +35,9 @@ Use it like this:
 Range of acceptable values for a typical patient, when applicable.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTest ]
+
+#has_/domain  :: MedicalTest  
+
 ( #has_/name :: has_normal_range )
 ( #has_/range :: MedicalEnumeration, Text )
 

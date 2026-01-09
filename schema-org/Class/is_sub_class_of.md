@@ -47,7 +47,9 @@ Use it like this:
 - [ is_sub_class_of :: Class] 
 
 [[../Relation|Relation]] describes that: 
-[ #has_/domain  :: [Class](../../Classes.md)]
+
+#has_/domain  :: [Class](../../Classes.md) 
+
 ( #has_/name :: [is_subclass_of](is_sub_class_of.md))
 ( #has_/range :: [Class](../../Classes.md))
 

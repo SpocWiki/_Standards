@@ -37,7 +37,9 @@ This property is a synonym for [[has_encoding|encoding]].
 
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, HyperToc, HyperTocEntry ]
+
+#has_/domain  :: CreativeWork, HyperToc, HyperTocEntry  
+
 ( #has_/name :: has_associated_media )
 ( #has_/range :: MediaObject )
 

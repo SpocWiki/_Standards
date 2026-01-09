@@ -35,10 +35,9 @@ Tag Instances like this:
 
 The payment has been received and processed.
 
-[ #is_/sub_class_of :: [[../PaymentStatusType]] ]
+#is_/sub_class_of :: [[../PaymentStatusType]]  
 
-[ #is_/enum_of :: [[../PaymentStatusType]] ]
-
+#is_/enum_of :: [[../PaymentStatusType]]  
 
 ## Confidential Links & Embeds: 
 

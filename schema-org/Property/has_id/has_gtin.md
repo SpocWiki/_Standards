@@ -30,7 +30,7 @@ type: Pred_Text
 
 Predicate to describe the Text of Demand, Offer, Product.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/gtin :: Text, URL ] or 
@@ -59,14 +59,15 @@ and not a definition of GTINs in general
 - see the GS1 documentation for authoritative details.
 
 Predicated describes that: 
-[ #has_/domain  :: Demand, Offer, Product ]
+
+#has_/domain  :: Demand, Offer, Product  
+
 ( #has_/name :: has_text_of_gtin )
 ( #has_/range :: Text, URL )
 
-[ #is_/sub_property_of  :: identifier ]
+#is_/sub_property_of  :: identifier  
 
-[ #has_/sub_properties :: [ gtin12, gtin13, gtin14, gtin8 ] ]
-
+#has_/sub_properties :: [ gtin12, gtin13, gtin14, gtin8 ]  
 
 ## Confidential Links & Embeds: 
 

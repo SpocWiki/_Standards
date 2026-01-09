@@ -35,12 +35,13 @@ Use it like this:
 The movie presented during this event.
 
 Relation describes that: 
-[ #has_/domain  :: ScreeningEvent ]
+
+#has_/domain  :: ScreeningEvent  
+
 ( #has_/name :: is_work_presented )
 ( #has_/range :: Movie )
 
-[ #is_/sub_property_of  :: workFeatured ]
-
+#is_/sub_property_of  :: workFeatured  
 
 ## Confidential Links & Embeds: 
 

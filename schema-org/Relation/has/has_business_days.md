@@ -28,7 +28,7 @@ title: has_business_days
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/business_days :: OpeningHoursSpecification ] or 
@@ -37,7 +37,9 @@ Use it like this:
 Days of the week when the merchant typically operates, indicated via opening hours markup.
 
 Relation describes that: 
-[ #has_/domain  :: ShippingDeliveryTime ]
+
+#has_/domain  :: ShippingDeliveryTime  
+
 ( #has_/name :: has_business_days )
 ( #has_/range :: OpeningHoursSpecification )
 

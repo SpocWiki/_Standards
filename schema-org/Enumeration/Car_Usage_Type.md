@@ -32,12 +32,11 @@ Class of all car_usage_types.
 Tag Instances like this: 
 #is_a_/car_usage_type
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 A value indicating a special usage of a car, e.g. commercial rental, driving school, or as a taxi.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

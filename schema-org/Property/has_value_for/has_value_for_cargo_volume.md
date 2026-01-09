@@ -44,7 +44,9 @@ Typical unit code(s): LTR for liters, FTQ for cubic foot/feet
 Note: You can use [[minValue]] and [[maxValue]] to indicate ranges.
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_value_for_cargo_volume )
 ( #has_/range :: QuantitativeValue )
 

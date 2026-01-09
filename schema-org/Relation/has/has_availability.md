@@ -31,7 +31,9 @@ Use it like this:
 The availability of this item&amp;#x2014;for example In stock, Out of stock, Pre-order, etc.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer ]
+
+#has_/domain  :: Demand, Offer  
+
 ( #has_/name :: has_availability )
 ( #has_/range :: ItemAvailability )
 

@@ -34,14 +34,16 @@ An abstract is a short description that summarizes a [[CreativeWork]].
 #is_/similar_to :: #has_/text_of_/description 
 but the Abstract is shorter, typically only a Paragraph or a single Sentence. 
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/abstract :: [[../../Class/is_a_/data_type/text|Text]] ] or 
 - [ has_text_of_abstract :: [[../../Class/is_a_/data_type/text|Text]] ] 
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_text_of_abstract )
 ( #has_/range :: Text )
 

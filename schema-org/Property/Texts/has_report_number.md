@@ -38,7 +38,9 @@ Use it like this:
 The number or other unique designator assigned to a Report by the publishing organization.
 
 Predicated describes that: 
-[ #has_/domain  :: Report ]
+
+#has_/domain  :: Report  
+
 ( #has_/name :: has_text_of_report_number )
 ( #has_/range :: Text )
 

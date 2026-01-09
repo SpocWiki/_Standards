@@ -31,12 +31,13 @@ Use it like this:
 A competitor in a sports event.
 
 Relation describes that: 
-[ #has_/domain  :: SportsEvent ]
+
+#has_/domain  :: SportsEvent  
+
 ( #has_/name :: has_competitor )
 ( #has_/range :: Person, SportsTeam )
 
-[ #has_/sub_properties :: [ awayTeam, homeTeam ] ]
-
+#has_/sub_properties :: [ awayTeam, homeTeam ]  
 
 ## Confidential Links & Embeds: 
 

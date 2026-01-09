@@ -31,7 +31,9 @@ Use it like this:
 One of the domain specialities to which this web page's content applies.
 
 Relation describes that: 
-[ #has_/domain  :: WebPage ]
+
+#has_/domain  :: WebPage  
+
 ( #has_/name :: is_specialty )
 ( #has_/range :: Specialty )
 

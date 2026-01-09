@@ -38,9 +38,9 @@ Tag Instances like this:
 
 A prion is an infectious agent composed of protein in a misfolded form.
 
-[ #is_/sub_class_of :: [[../InfectiousAgentClass]] ]
+#is_/sub_class_of :: [[../InfectiousAgentClass]]  
 
-[ #is_/enum_of :: [[../InfectiousAgentClass]] ]
+#is_/enum_of :: [[../InfectiousAgentClass]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Prion,47051|WD~Prion,47051]] 
 

@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of Vehicle.
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
 - [ #has_/value_for_/acceleration_time :: QuantitativeValue ] or 
@@ -46,7 +46,9 @@ Typical unit code(s): SEC for seconds
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_value_for_acceleration_time )
 ( #has_/range :: QuantitativeValue )
 

@@ -36,7 +36,9 @@ Use it like this:
 The total number of individuals that may attend an event or venue.
 
 Predicate describes that: 
-[ #has_/domain  :: Event, Place ]
+
+#has_/domain  :: Event, Place  
+
 ( #has_/name :: has_number_of_maximum_attendees )
 ( #has_/range :: Integer )
 

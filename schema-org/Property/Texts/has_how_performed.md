@@ -38,7 +38,9 @@ Use it like this:
 How the procedure is performed.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalProcedure ]
+
+#has_/domain  :: MedicalProcedure  
+
 ( #has_/name :: has_text_of_how_performed )
 ( #has_/range :: Text )
 

@@ -35,7 +35,9 @@ Use it like this:
 Any other drug related to this one, for example commonly-prescribed alternatives.
 
 Relation describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: is_related_drug )
 ( #has_/range :: Drug )
 

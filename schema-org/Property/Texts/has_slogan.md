@@ -37,7 +37,9 @@ Use it like this:
 A slogan or motto associated with the item.
 
 Predicated describes that: 
-[ #has_/domain  :: Brand, Organization, Place, Product, Service ]
+
+#has_/domain  :: Brand, Organization, Place, Product, Service  
+
 ( #has_/name :: has_text_of_slogan )
 ( #has_/range :: Text )
 

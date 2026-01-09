@@ -33,7 +33,7 @@ type: Pred_Text
 
 Predicate to describe the Text of HealthPlanCostSharingSpecification.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/health_plan_pharmacy_category :: Text ] or 
@@ -42,7 +42,9 @@ Use it like this:
 The category or type of pharmacy associated with this cost sharing.
 
 Predicated describes that: 
-[ #has_/domain  :: HealthPlanCostSharingSpecification ]
+
+#has_/domain  :: HealthPlanCostSharingSpecification  
+
 ( #has_/name :: has_text_of_health_plan_pharmacy_category )
 ( #has_/range :: Text )
 

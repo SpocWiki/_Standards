@@ -31,7 +31,9 @@ Use it like this:
 The task that a player-controlled character, or group of characters may complete in order to gain a reward.
 
 Relation describes that: 
-[ #has_/domain  :: Game, VideoGameSeries ]
+
+#has_/domain  :: Game, VideoGameSeries  
+
 ( #has_/name :: is_quest )
 ( #has_/range :: Thing )
 

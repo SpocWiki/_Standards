@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of editing a recipient by replacing an old object with a new object.
 
-[ #is_/sub_class_of :: [[../UpdateAction]] ]
+#is_/sub_class_of :: [[../UpdateAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, replacee, replacer, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, replacee, replacer, result, sameAs, startTime, subjectOf, target, targetCollection, url ]  
 
 ## Confidential Links & Embeds: 
 

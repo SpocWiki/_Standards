@@ -36,7 +36,9 @@ Use it like this:
 If responding yes, the number of guests who will attend in addition to the invitee.
 
 Predicate describes that: 
-[ #has_/domain  :: RsvpAction ]
+
+#has_/domain  :: RsvpAction  
+
 ( #has_/name :: has_number_of_additional_number_of_guests )
 ( #has_/range :: Number )
 

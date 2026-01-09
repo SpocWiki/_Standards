@@ -33,14 +33,13 @@ Class of all wearable_size_group_bigs.
 Tag Instances like this: 
 #is_a_/wearable_size_group_big
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Size group "Big" for wearables.
 
-[ #is_/sub_class_of :: [[../WearableSizeGroupEnumeration]] ]
+#is_/sub_class_of :: [[../WearableSizeGroupEnumeration]]  
 
-[ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
-
+#is_/enum_of :: [[../WearableSizeGroupEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

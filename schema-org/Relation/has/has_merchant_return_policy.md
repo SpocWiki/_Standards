@@ -33,7 +33,7 @@ title: has_merchant_return_policy
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/merchant_return_policy :: MerchantReturnPolicy ] or 
@@ -42,7 +42,9 @@ Use it like this:
 Specifies a [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturnPolicy]] that may be applicable to a [[../../../Society/Agent/Community/Organization/Business/Product|Product]].
 
 [[../../Relation|Relation]] describes that: 
-[ #has_/domain  :: [ [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]], [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]] ] ]
+
+#has_/domain  :: [ [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]], [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]] ]  
+
 ( #has_/name :: has_merchant_return_policy )
 ( #has_/range :: [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturnPolicy]] )
 

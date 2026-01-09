@@ -38,7 +38,9 @@ Use it like this:
 Minimum memory requirements.
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_memory_requirements )
 ( #has_/range :: Text, URL )
 

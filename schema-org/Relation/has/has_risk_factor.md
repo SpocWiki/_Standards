@@ -35,7 +35,9 @@ Use it like this:
 A modifiable or non-modifiable factor that increases the risk of a patient contracting this condition, e.g. age,  coexisting condition.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition ]
+
+#has_/domain  :: MedicalCondition  
+
 ( #has_/name :: is_risk_factor )
 ( #has_/range :: MedicalRiskFactor )
 

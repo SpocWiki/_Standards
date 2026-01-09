@@ -34,12 +34,11 @@ Tag Instances like this:
 
 Target audiences for medical web pages.
 
-[ #is_/sub_class_of :: [[../Audience, PeopleAudience]] ]
+#is_/sub_class_of :: [[../Audience, PeopleAudience]]  
 
-[ #has_/sub_classes :: [ Patient ] ]
+#has_/sub_classes :: [ Patient ]  
 
-[ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]  
 
 ## Confidential Links & Embeds: 
 

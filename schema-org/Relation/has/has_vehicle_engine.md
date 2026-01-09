@@ -35,7 +35,9 @@ Use it like this:
 Information about the engine or engines of the vehicle.
 
 Relation describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: is_vehicle_engine )
 ( #has_/range :: EngineSpecification )
 

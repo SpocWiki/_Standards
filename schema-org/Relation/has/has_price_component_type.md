@@ -29,7 +29,7 @@ title: has_price_component_type
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/price_component_type :: PriceComponentTypeEnumeration ] or 
@@ -38,7 +38,9 @@ Use it like this:
 Identifies a price component (for example, a line item on an invoice), part of the total price for an offer.
 
 Relation describes that: 
-[ #has_/domain  :: UnitPriceSpecification ]
+
+#has_/domain  :: UnitPriceSpecification  
+
 ( #has_/name :: is_price_component_type )
 ( #has_/range :: PriceComponentTypeEnumeration )
 

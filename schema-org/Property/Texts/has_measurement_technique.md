@@ -31,7 +31,7 @@ type: Pred_Text
 
 Predicate to describe the Text of DataCatalog, DataDownload, Dataset, PropertyValue.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/measurement_technique :: Text, URL ] or 
@@ -53,7 +53,9 @@ If the [[variableMeasured]] is "depression rating", the [[measurementTechnique]]
 If there are several [[variableMeasured]] properties recorded for some given data object, use a [[PropertyValue]] for each [[variableMeasured]] and attach the corresponding [[measurementTechnique]].
 
 Predicated describes that: 
-[ #has_/domain  :: DataCatalog, DataDownload, Dataset, PropertyValue ]
+
+#has_/domain  :: DataCatalog, DataDownload, Dataset, PropertyValue  
+
 ( #has_/name :: has_text_of_measurement_technique )
 ( #has_/range :: Text, URL )
 

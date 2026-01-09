@@ -36,7 +36,9 @@ Use it like this:
 The media network(s) whose content is broadcast on this station.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastService ]
+
+#has_/domain  :: BroadcastService  
+
 ( #has_/name :: has_broadcast_affiliate_of )
 ( #has_/range :: Organization )
 

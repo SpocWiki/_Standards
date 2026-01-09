@@ -38,12 +38,13 @@ Use it like this:
 The Vehicle Identification Number (VIN) is a unique serial number used by the automotive industry to identify individual motor vehicles.
 
 Predicated describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_id_of_vehicle )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: serialNumber ]
-
+#is_/sub_property_of  :: serialNumber  
 
 ## Confidential Links & Embeds: 
 

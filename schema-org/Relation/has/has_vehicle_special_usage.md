@@ -29,7 +29,7 @@ title: has_vehicle_special_usage
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
 - [ #has_/vehicle_special_usage :: CarUsageType, Text ] or 
@@ -38,7 +38,9 @@ Use it like this:
 Indicates whether the vehicle has been used for special purposes, like commercial rental, driving school, or as a taxi. The legislation in many countries requires this information to be revealed when offering a car for sale.
 
 Relation describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: is_vehicle_special_usage )
 ( #has_/range :: CarUsageType, Text )
 

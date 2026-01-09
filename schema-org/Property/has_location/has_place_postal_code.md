@@ -40,7 +40,9 @@ Use it like this:
 The postal code. For example, 94043.
 
 Predicated describes that: 
-[ #has_/domain  :: DefinedRegion, GeoCoordinates, GeoShape, PostalAddress ]
+
+#has_/domain  :: DefinedRegion, GeoCoordinates, GeoShape, PostalAddress  
+
 ( #has_/name :: has_place_postal_code )
 ( #has_/range :: Text )
 

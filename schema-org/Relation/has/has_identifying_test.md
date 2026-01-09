@@ -35,7 +35,9 @@ Use it like this:
 A diagnostic test that can identify this sign.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalSign ]
+
+#has_/domain  :: MedicalSign  
+
 ( #has_/name :: has_identifying_test )
 ( #has_/range :: MedicalTest )
 

@@ -63,7 +63,9 @@ Glottolog_code: yuec1235
 # [[Lang-zh-yue]] 
 
 [SpocWebEntityId:: 457 ]
-[has_/name::Yue]
+
+has_/name::Yue 
+
 [PropId_Name::757]
 [PropId_Text::657]
 [LangFamilyId::234]

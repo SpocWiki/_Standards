@@ -37,7 +37,9 @@ Use it like this:
 The characteristics of associated patients, such as age, gender, race etc.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalCondition, PhysicalActivity ]
+
+#has_/domain  :: MedicalCondition, PhysicalActivity  
+
 ( #has_/name :: has_text_of_epidemiology )
 ( #has_/range :: Text )
 

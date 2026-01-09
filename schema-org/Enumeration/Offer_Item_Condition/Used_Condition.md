@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Indicates that the item is used.
 
-[ #is_/sub_class_of :: [[../OfferItemCondition]] ]
+#is_/sub_class_of :: [[../OfferItemCondition]]  
 
-[ #is_/enum_of :: [[../OfferItemCondition]] ]
-
+#is_/enum_of :: [[../OfferItemCondition]]  
 
 ## Confidential Links & Embeds: 
 

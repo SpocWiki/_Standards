@@ -32,14 +32,13 @@ Class of all size_group_enumerations.
 Tag Instances like this: 
 #is_a_/size_group_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Enumerates common size groups for various product categories.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
+#is_/sub_class_of :: [[../Enumeration]]  
 
-[ #has_/sub_classes :: [ WearableSizeGroupEnumeration ] ]
-
+#has_/sub_classes :: [ WearableSizeGroupEnumeration ]  
 
 ## Confidential Links & Embeds: 
 

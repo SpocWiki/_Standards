@@ -35,7 +35,9 @@ Use it like this:
 The parent of a question, answer or item in general.
 
 Relation describes that: 
-[ #has_/domain  :: Comment ]
+
+#has_/domain  :: Comment  
+
 ( #has_/name :: has_parent_item )
 ( #has_/range :: Comment )
 

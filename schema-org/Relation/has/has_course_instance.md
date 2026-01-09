@@ -35,7 +35,9 @@ Use it like this:
 An offering of the course at a specific time and place or through specific media or mode of study or to a specific section of students.
 
 Relation describes that: 
-[ #has_/domain  :: Course ]
+
+#has_/domain  :: Course  
+
 ( #has_/name :: has_course_instance )
 ( #has_/range :: CourseInstance )
 

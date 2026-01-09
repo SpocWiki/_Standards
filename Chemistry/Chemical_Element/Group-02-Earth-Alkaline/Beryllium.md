@@ -95,17 +95,23 @@ ZVG_number: 8020
 [GroupName::Group-02-Earth-Alkaline]
 Group::[[../Group-02-Earth-Alkaline]]
 
+has_/name_/de::Beryllium 
 
-[has_/name_/de::Beryllium]
-[has_/value_for_/weight_/u::9.0122]
+has_/value_for_/weight_/u::9.0122 
+
 [AtomRadius::1.4]
 [Atom-Vol-ccm-mol::5.009]
 [Unknown2::0.9]
-[has_/value_for_/radius_/nano_/m::9.322]
+
+has_/value_for_/radius_/nano_/m::9.322 
+
 [Electronegative::1.6]
 [Density::1.85]
-[has_/value_for_/temperature_/melt_/c ::1278]
-[has_/value_for_/temperature_/boil_/c ::2970]
+
+has_/value_for_/temperature_/melt_/c ::1278 
+
+has_/value_for_/temperature_/boil_/c ::2970 
+
 [HeatCapacity::1.82]
 [HeatConduct::2]
 [Enthalpy::12.2]

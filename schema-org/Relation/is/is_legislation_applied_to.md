@@ -29,7 +29,7 @@ title: has_legislation_applies
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/legislation_applies :: Legislation ] or 
@@ -45,12 +45,13 @@ For example an informative consolidated law of a European Union's member state
 "applies" the consolidated version of the European Directive implemented in it.
 
 Relation describes that: 
-[ #has_/domain  :: Legislation ]
+
+#has_/domain  :: Legislation  
+
 ( #has_/name :: is_legislation_applied_to )
 ( #has_/range :: Legislation )
 
-[ #has_/sub_properties :: [ legislationTransposes ] ]
-
+#has_/sub_properties :: [ legislationTransposes ]  
 
 ## Confidential Links & Embeds: 
 

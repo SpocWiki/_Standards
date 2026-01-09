@@ -33,10 +33,9 @@ Tag Instances like this:
 
 The science or practice of testing visual acuity and prescribing corrective lenses.
 
-[ #is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]] ]
+#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
 
-[ #is_/enum_of :: [[../MedicalSpecialty]] ]
-
+#is_/enum_of :: [[../MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

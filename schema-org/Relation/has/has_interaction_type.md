@@ -37,7 +37,9 @@ For up-votes, +1s, etc. use [[LikeAction]].
 For down-votes use [[DislikeAction]]. Otherwise, use the most specific Action.
 
 Relation describes that: 
-[ #has_/domain  :: InteractionCounter ]
+
+#has_/domain  :: InteractionCounter  
+
 ( #has_/name :: has_interaction_type )
 ( #has_/range :: Action )
 

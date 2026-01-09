@@ -42,7 +42,9 @@ might fill the roles named "inker", "penciller", and "letterer";
 or an athlete in a SportsTeam might play in the position named "Quarterback".
 
 Predicated describes that: 
-[ #has_/domain  :: Role ]
+
+#has_/domain  :: Role  
+
 ( #has_/name :: has_role )
 ( #has_/range :: Text, URL )
 

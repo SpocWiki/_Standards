@@ -34,7 +34,9 @@ A medical code for the entity, taken from a controlled vocabulary or ontology su
 Also used for all other Codes and Abbreviations. 
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Class/is_a_thing/medical_entity]] ]
+
+#has_/domain  :: [[../../../Class/is_a_thing/medical_entity]]  
+
 ( #has_/name :: has_code )
 ( #has_/range :: [[medical_code]] )
 

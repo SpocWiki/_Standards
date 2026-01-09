@@ -29,7 +29,7 @@ title: has_usage_info
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/usage_info :: CreativeWork, URL ] or 
@@ -50,12 +50,13 @@ This property can be used alongside the license property which indicates license
 The usageInfo property can provide information about other licensing options, e.g. acquiring commercial usage rights for an image that is also available under non-commercial creative commons licenses.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_usage_info )
 ( #has_/range :: CreativeWork, URL )
 
-[ #has_/sub_properties :: [ acquireLicensePage ] ]
-
+#has_/sub_properties :: [ acquireLicensePage ]  
 
 ## Confidential Links & Embeds: 
 

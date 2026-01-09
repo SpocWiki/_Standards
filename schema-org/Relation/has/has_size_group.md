@@ -28,7 +28,7 @@ title: has_size_group
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/size_group :: SizeGroupEnumeration, Text ] or 
@@ -37,7 +37,9 @@ Use it like this:
 The size group (also known as "size type") for a product's size. Size groups are common in the fashion industry to define size segments and suggested audiences for wearable products. Multiple values can be combined, for example "men's big and tall", "petite maternity" or "regular"
 
 Relation describes that: 
-[ #has_/domain  :: SizeSpecification ]
+
+#has_/domain  :: SizeSpecification  
+
 ( #has_/name :: is_size_group )
 ( #has_/range :: SizeGroupEnumeration, Text )
 

@@ -33,14 +33,13 @@ Class of all wearable_measurement_chest_or_busts.
 Tag Instances like this: 
 #is_a_/wearable_measurement_chest_or_bust
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Measurement of the chest/bust section, for example of a suit
 
-[ #is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]] ]
+#is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
-
+#is_/enum_of :: [[../WearableMeasurementTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

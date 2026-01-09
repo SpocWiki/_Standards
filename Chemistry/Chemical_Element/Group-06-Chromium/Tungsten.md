@@ -107,13 +107,18 @@ ZVG_number: 7740
 [GroupName::Group-06-Chromium]
 Group::[[../Group-06-Chromium]]
 
-[has_/name_/en::Tungsten]
-[has_/name_/de::Wolfram]
-[has_/value_for_/weight_/u::183.85]
+has_/name_/en::Tungsten 
+
+has_/name_/de::Wolfram 
+
+has_/value_for_/weight_/u::183.85 
+
 [AtomRadius::2.02]
 [Atom-Vol-ccm-mol::9.53]
 [Unknown2::1.3]
-[has_/value_for_/radius_/nano_/m::7.98]
+
+has_/value_for_/radius_/nano_/m::7.98 
+
 [Electronegative::2.4]
 [HeatCapacity::0.13]
 [HeatConduct::1.74]

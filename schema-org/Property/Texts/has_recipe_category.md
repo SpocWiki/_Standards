@@ -38,7 +38,9 @@ Use it like this:
 The category of the recipeï¿½for example, appetizer, entree, etc.
 
 Predicated describes that: 
-[ #has_/domain  :: Recipe ]
+
+#has_/domain  :: Recipe  
+
 ( #has_/name :: has_text_of_recipe_category )
 ( #has_/range :: Text )
 

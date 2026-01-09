@@ -35,7 +35,9 @@ Use it like this:
 A ticket associated with the reservation.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation ]
+
+#has_/domain  :: Reservation  
+
 ( #has_/name :: is_reserved_ticket )
 ( #has_/range :: Ticket )
 

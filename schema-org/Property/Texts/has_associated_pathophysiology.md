@@ -38,7 +38,9 @@ Use it like this:
 If applicable, a description of the pathophysiology associated with the anatomical system, including potential abnormal changes in the mechanical, physical, and biochemical functions of the system.
 
 Predicated describes that: 
-[ #has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ]
+
+#has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy  
+
 ( #has_/name :: has_text_of_associated_pathophysiology )
 ( #has_/range :: Text )
 

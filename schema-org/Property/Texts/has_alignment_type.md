@@ -38,7 +38,9 @@ Use it like this:
 A category of alignment between the learning resource and the framework node. Recommended values include: "requires", "textComplexity", "readingLevel", and "educationalSubject".
 
 Predicated describes that: 
-[ #has_/domain  :: AlignmentObject ]
+
+#has_/domain  :: AlignmentObject  
+
 ( #has_/name :: has_text_of_alignment_type )
 ( #has_/range :: Text )
 

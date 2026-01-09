@@ -34,12 +34,11 @@ Tag Instances like this:
 
 A structured value representing a price or price range. Typically, only the subclasses of this type are used for markup. It is recommended to use [[MonetaryAmount]] to describe independent amounts of money such as a salary, credit card limits, etc.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/sub_classes :: [ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ] ]
+#has_/sub_classes :: [ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]  
 
 ## Confidential Links & Embeds: 
 

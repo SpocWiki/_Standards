@@ -34,8 +34,7 @@ Tag Instances like this:
 
 Indicates whether this game is multi-player, co-op or single-player.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

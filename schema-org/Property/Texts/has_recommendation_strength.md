@@ -38,7 +38,9 @@ Use it like this:
 Strength of the guideline"s recommendation (e.g. "class I").
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalGuidelineRecommendation ]
+
+#has_/domain  :: MedicalGuidelineRecommendation  
+
 ( #has_/name :: has_text_of_recommendation_strength )
 ( #has_/range :: Text )
 

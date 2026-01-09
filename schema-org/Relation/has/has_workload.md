@@ -31,7 +31,9 @@ Use it like this:
 Quantitative measure of the physiologic output of the exercise; also referred to as energy expenditure.
 
 Relation describes that: 
-[ #has_/domain  :: ExercisePlan ]
+
+#has_/domain  :: ExercisePlan  
+
 ( #has_/name :: is_workload )
 ( #has_/range :: Energy, QuantitativeValue )
 

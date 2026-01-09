@@ -39,7 +39,9 @@ Use it like this:
 The type of composition (e.g. overture, sonata, symphony, etc.).
 
 Predicated describes that: 
-[ #has_/domain  :: MusicComposition ]
+
+#has_/domain  :: MusicComposition  
+
 ( #has_/name :: has_text_of_music_composition_form )
 ( #has_/range :: Text )
 

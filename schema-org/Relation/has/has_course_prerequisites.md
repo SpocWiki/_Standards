@@ -35,7 +35,9 @@ Use it like this:
 Requirements for taking the Course. May be completion of another [[../../../Society/Communication/Media/Creative_Work/Course]] or a textual description like "permission of instructor". Requirements may be a pre-requisite competency, referenced using [[AlignmentObject]].
 
 Relation describes that: 
-[ #has_/domain  :: Course ]
+
+#has_/domain  :: Course  
+
 ( #has_/name :: has_course_prerequisites )
 ( #has_/range :: AlignmentObject, Course, Text )
 

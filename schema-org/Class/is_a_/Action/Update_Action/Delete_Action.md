@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of editing a recipient by removing one of its objects.
 
-[ #is_/sub_class_of :: [[../UpdateAction]] ]
+#is_/sub_class_of :: [[../UpdateAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ]  
 
 ## Confidential Links & Embeds: 
 

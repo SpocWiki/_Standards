@@ -24,7 +24,7 @@ title: has_artist
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
 - [ #has_/artist :: [[../../../Society/Agent/Person]] ] or 
@@ -35,7 +35,9 @@ The primary artist for a work
 		primary artwork is done in watercolors or digital paints.
 
 Relation describes that: 
-[ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
+
+#has_/domain  :: ComicIssue, ComicStory, VisualArtwork  
+
 ( #has_/name :: has_artist )
 ( #has_/range :: [[../../../Society/Agent/Person]] )
 

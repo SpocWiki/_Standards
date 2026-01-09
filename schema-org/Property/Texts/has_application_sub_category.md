@@ -39,7 +39,9 @@ Use it like this:
 Subcategory of the application, e.g. "Arcade Game".
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_application_sub_category )
 ( #has_/range :: Text, URL )
 

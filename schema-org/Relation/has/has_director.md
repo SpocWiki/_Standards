@@ -36,7 +36,9 @@ A director of e.g. Company,TV, radio, movie, video gaming etc. content, or of an
 Directors can be associated with individual items or with a series, episode, clip.
 
 Relation describes that: 
-[ #has_/domain  :: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject ]
+
+#has_/domain  :: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject  
+
 ( #has_/name :: has_director )
 ( #has_/range :: Person )
 

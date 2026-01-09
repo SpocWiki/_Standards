@@ -32,7 +32,9 @@ Use it like this:
 Specifies the CreativeWork associated with the UserComment.
 
 Relation describes that: 
-[ #has_/domain  :: UserComments ]
+
+#has_/domain  :: UserComments  
+
 ( #has_/name :: is_discussing )
 ( #has_/range :: CreativeWork )
 

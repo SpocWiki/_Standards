@@ -34,8 +34,7 @@ Tag Instances like this:
 
 An enumeration of several kinds of Map.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

@@ -35,7 +35,9 @@ Use it like this:
 The frequency used for over-the-air broadcasts. Numeric values or simple ranges, e.g. 87-99. In addition a shortcut idiom is supported for frequences of AM and FM radio channels, e.g. "87 FM".
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastChannel, BroadcastService ]
+
+#has_/domain  :: BroadcastChannel, BroadcastService  
+
 ( #has_/name :: has_broadcast_frequency )
 ( #has_/range :: BroadcastFrequencySpecification, Text )
 

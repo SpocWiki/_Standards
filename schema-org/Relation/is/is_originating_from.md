@@ -33,7 +33,9 @@ Use it like this:
 The vasculature the lymphatic structure originates, or afferents, from.
 
 Relation describes that: 
-[ #has_/domain  :: LymphaticVessel]
+
+#has_/domain  :: LymphaticVessel 
+
 ( #has_/name :: is_originating_from)
 ( #has_/range :: Vessel)
 

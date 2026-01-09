@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of HealthPlanCostSharingSpecification.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/health_plan_coinsurance_rate :: Number ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The rate of coinsurance expressed as a number between 0.0 and 1.0.
 
 Predicate describes that: 
-[ #has_/domain  :: HealthPlanCostSharingSpecification ]
+
+#has_/domain  :: HealthPlanCostSharingSpecification  
+
 ( #has_/name :: has_value_for_health_plan_coinsurance_rate )
 ( #has_/range :: Number )
 

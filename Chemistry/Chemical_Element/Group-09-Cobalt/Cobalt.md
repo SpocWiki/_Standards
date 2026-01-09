@@ -91,18 +91,25 @@ ZVG_number: 7270
 [GroupName::Group-09-Cobalt]
 Group::[[../Group-09-Cobalt]]
 
+has_/name_/en::Cobalt 
 
-[has_/name_/en::Cobalt]
-[has_/name_/de::Kobalt]
-[has_/value_for_/weight_/u::58.9332]
+has_/name_/de::Kobalt 
+
+has_/value_for_/weight_/u::58.9332 
+
 [AtomRadius::1.67]
 [Atom-Vol-ccm-mol::6.7]
 [Unknown2::1.16]
-[has_/value_for_/radius_/nano_/m::7.86]
+
+has_/value_for_/radius_/nano_/m::7.86 
+
 [Electronegative::1.9]
 [Density::8.9]
-[has_/value_for_/temperature_/melt_/c ::1495]
-[has_/value_for_/temperature_/boil_/c ::2870]
+
+has_/value_for_/temperature_/melt_/c ::1495 
+
+has_/value_for_/temperature_/boil_/c ::2870 
+
 [HeatCapacity::0.42]
 [HeatConduct::1]
 [Enthalpy::16.19]

@@ -69,14 +69,14 @@ Class of all chemical_substances.
 Tag Instances like this: 
 #is_a_/chemical_substance
 
-[ #is_/part_of :: https://pending.schema.org ] 
+#is_/part_of :: https://pending.schema.org  
 
 A chemical substance is 'a portion of matter of constant composition, 
 composed of molecular entities of the same type or of different types' (source: <a href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=59999">ChEBI:59999</a>).
 
 #is_/sub_class_of :: [[../../schema-org/Class/is_a_/bio_chem_entity|bio_chem_entity]] 
 
-[ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ] ]
+#has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ]  
 
 #is_/same_as :: [[../../WikiData/WD~Chemical_substance,79529|WD~Chemical_substance,79529]] 
 

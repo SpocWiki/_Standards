@@ -32,7 +32,7 @@ type: Pred_Text
 
 Predicate to describe the Text of CreativeWork.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/conditions_of_access :: Text ] or 
@@ -45,7 +45,9 @@ Conditions that affect the availability of, or method(s) of access to, an item. 
 For example "Available by appointment from the Reading Room" or "Accessible only from logged-in accounts ".
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_text_of_conditions_of_access )
 ( #has_/range :: Text )
 

@@ -45,7 +45,9 @@ The supported encoding type(s) for an [[../../Class/is_a_/Intangible/entry_point
 #is_/different_from :: [[../../Relation/has/has_encoding|has_encoding]] 
 
 Predicated describes that: 
-[ #has_/domain  :: EntryPoint ]
+
+#has_/domain  :: EntryPoint  
+
 ( #has_/name :: has_text_of_encoding_type )
 ( #has_/range :: Text )
 

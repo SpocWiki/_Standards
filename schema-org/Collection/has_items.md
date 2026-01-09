@@ -37,7 +37,9 @@ An entity represented by an entry in a list or data feed (e.g. an 'artist' in a 
 #is_/inverse_of :: [[is_item_in]] 
 
 Relation describes that: 
-[ #has_/domain  :: DataFeedItem, ListItem ]
+
+#has_/domain  :: DataFeedItem, ListItem  
+
 ( #has_/name :: has_items )
 ( #has_/range :: Thing )
 

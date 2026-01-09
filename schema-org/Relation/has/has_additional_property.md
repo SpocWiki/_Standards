@@ -36,7 +36,9 @@ A property-value pair representing an additional characteristic of the entity, e
 Note: Publishers should be aware that applications designed to use specific schema.org properties (e.g. width, color, gtin13, ...) will typically expect such data to be provided using those properties, rather than using the generic property/value mechanism.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy, Place, Product, QualitativeValue, QuantitativeValue ]
+
+#has_/domain  :: MerchantReturnPolicy, Place, Product, QualitativeValue, QuantitativeValue  
+
 ( #has_/name :: has_additional_property )
 ( #has_/range :: PropertyValue )
 

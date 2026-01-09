@@ -34,7 +34,9 @@ Use it like this:
 The stop or station from which the bus arrives.
 
 Relation describes that: 
-[ #has_/domain  :: BusTrip ]
+
+#has_/domain  :: BusTrip  
+
 ( #has_/name :: has_arrival_bus_stop )
 ( #has_/range :: BusStation, BusStop )
 

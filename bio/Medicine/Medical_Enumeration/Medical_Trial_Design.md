@@ -34,8 +34,7 @@ Tag Instances like this:
 
 Design models for medical trials. Enumerated type.
 
-[ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
-
+#is_/sub_class_of :: [[../MedicalEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

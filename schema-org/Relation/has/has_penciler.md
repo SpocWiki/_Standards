@@ -24,7 +24,7 @@ title: has_penciler
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
 - [ #has_/penciler :: Person ] or 
@@ -33,7 +33,9 @@ Use it like this:
 The individual who draws the primary narrative artwork.
 
 Relation describes that: 
-[ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
+
+#has_/domain  :: ComicIssue, ComicStory, VisualArtwork  
+
 ( #has_/name :: has_penciler )
 ( #has_/range :: Person )
 

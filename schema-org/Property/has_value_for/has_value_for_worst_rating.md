@@ -36,7 +36,9 @@ Use it like this:
 The lowest value allowed in this rating system. If worstRating is omitted, 1 is assumed.
 
 Predicate describes that: 
-[ #has_/domain  :: Rating ]
+
+#has_/domain  :: Rating  
+
 ( #has_/name :: has_value_for_worst_rating )
 ( #has_/range :: Number, Text )
 

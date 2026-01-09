@@ -29,7 +29,7 @@ type: Pred_geo
 
 Predicate to describe the geo of ActionAccessSpecification, DeliveryChargeSpecification, Demand, MediaObject, Offer.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/location_/ineligible_region :: GeoShape, Place, Text ] or 
@@ -42,7 +42,9 @@ The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoSha
 See also [[eligibleRegion]].
 
 Predicate describes that: 
-[ #has_/domain  :: ActionAccessSpecification, DeliveryChargeSpecification, Demand, MediaObject, Offer ]
+
+#has_/domain  :: ActionAccessSpecification, DeliveryChargeSpecification, Demand, MediaObject, Offer  
+
 ( #has_/name :: has_location_ineligible_region )
 ( #has_/range :: GeoShape, Place, Text )
 

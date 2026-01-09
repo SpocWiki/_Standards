@@ -35,7 +35,9 @@ Use it like this:
 Item(s) being shipped.
 
 Relation describes that: 
-[ #has_/domain  :: ParcelDelivery ]
+
+#has_/domain  :: ParcelDelivery  
+
 ( #has_/name :: has_item_shipped )
 ( #has_/range :: Product )
 

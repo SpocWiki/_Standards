@@ -31,7 +31,9 @@ Use it like this:
 The organization owning or operating the broadcast service.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastService ]
+
+#has_/domain  :: BroadcastService  
+
 ( #has_/name :: has_broadcaster )
 ( #has_/range :: Organization )
 

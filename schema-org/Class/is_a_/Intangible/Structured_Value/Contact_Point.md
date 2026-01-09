@@ -34,12 +34,11 @@ Tag Instances like this:
 
 A contact point—for example, a Customer Complaints department.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/sub_classes :: [ PostalAddress ] ]
+#has_/sub_classes :: [ PostalAddress ]  
 
-[ #has_/properties :: [ additionalType, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, potentialAction, productSupported, sameAs, serviceArea, subjectOf, telephone, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, potentialAction, productSupported, sameAs, serviceArea, subjectOf, telephone, url ]  
 
 ## Confidential Links & Embeds: 
 

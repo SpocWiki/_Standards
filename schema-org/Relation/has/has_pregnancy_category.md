@@ -35,7 +35,9 @@ Use it like this:
 Pregnancy category of this drug.
 
 Relation describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: is_pregnancy_category )
 ( #has_/range :: DrugPregnancyCategory )
 

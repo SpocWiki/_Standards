@@ -40,7 +40,9 @@ Use it like this:
 The number of milligrams of sodium.
 
 Predicate describes that: 
-[ #has_/domain  :: NutritionInformation ]
+
+#has_/domain  :: NutritionInformation  
+
 ( #has_/name :: has_value_for_sodium_in_milliGram )
 ( #has_/range :: Mass )
 

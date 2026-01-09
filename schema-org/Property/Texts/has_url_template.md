@@ -38,7 +38,9 @@ Use it like this:
 An url template (RFC6570) that will be used to construct the target of the execution of the action.
 
 Predicated describes that: 
-[ #has_/domain  :: EntryPoint ]
+
+#has_/domain  :: EntryPoint  
+
 ( #has_/name :: has_text_of_url_template )
 ( #has_/range :: Text )
 

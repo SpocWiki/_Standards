@@ -38,7 +38,9 @@ Use it like this:
 An identifier for the method of payment used (e.g. the last 4 digits of the credit card).
 
 Predicated describes that: 
-[ #has_/domain  :: Invoice, Order ]
+
+#has_/domain  :: Invoice, Order  
+
 ( #has_/name :: has_id_payment_method )
 ( #has_/range :: Text )
 

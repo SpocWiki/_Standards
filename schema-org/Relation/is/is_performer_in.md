@@ -35,12 +35,13 @@ Use it like this:
 Event that this person is a performer or participant in.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_performer_in )
 ( #has_/range :: Event )
 
-[ #is_/inverse_of  :: [[has_performer]] ]
-
+#is_/inverse_of  :: [[has_performer]]  
 
 ## Confidential Links & Embeds: 
 

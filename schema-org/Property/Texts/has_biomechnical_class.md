@@ -38,7 +38,9 @@ Use it like this:
 The biomechanical properties of the bone.
 
 Predicated describes that: 
-[ #has_/domain  :: Joint ]
+
+#has_/domain  :: Joint  
+
 ( #has_/name :: has_text_of_biomechnical_class )
 ( #has_/range :: Text )
 

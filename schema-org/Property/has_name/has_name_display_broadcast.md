@@ -39,7 +39,9 @@ The name displayed in the channel guide.
 For many US affiliates, it is the network name.
 
 Predicated describes that: 
-[ #has_/domain  :: BroadcastService ]
+
+#has_/domain  :: BroadcastService  
+
 ( #has_/name :: has_name_display_broadcast )
 ( #has_/range :: Text )
 

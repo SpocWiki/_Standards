@@ -36,7 +36,9 @@ Use it like this:
 An item within a data feed. Data feeds may have many elements.
 
 Relation describes that: 
-[ #has_/domain  :: DataFeed ]
+
+#has_/domain  :: DataFeed  
+
 ( #has_/name :: has_data_feed_element )
 ( #has_/range :: DataFeedItem, Text, Thing )
 

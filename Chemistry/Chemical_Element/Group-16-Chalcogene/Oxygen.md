@@ -91,18 +91,25 @@ Krugosvet_article_archived_: himiya/kislorod
 [GroupName::Group-16-Chalcogene]
 Group::[[../Group-16-Chalcogene]]
 
+has_/name_/en::Oxygen 
 
-[has_/name_/en::Oxygen]
-[has_/name_/de::Sauerstoff]
-[has_/value_for_/weight_/u::15.9994]
+has_/name_/de::Sauerstoff 
+
+has_/value_for_/weight_/u::15.9994 
+
 [AtomRadius::0.65]
 [Atom-Vol-ccm-mol::14]
 [Unknown2::0.73]
-[has_/value_for_/radius_/nano_/m::13.618]
+
+has_/value_for_/radius_/nano_/m::13.618 
+
 [Electronegative::3.4]
 [Density::1.429]
-[has_/value_for_/temperature_/melt_/c ::-218.4]
-[has_/value_for_/temperature_/boil_/c ::-182.96]
+
+has_/value_for_/temperature_/melt_/c ::-218.4 
+
+has_/value_for_/temperature_/boil_/c ::-182.96 
+
 [HeatCapacity::0.92]
 [HeatConduct::0.000267]
 [Enthalpy::0.22259]

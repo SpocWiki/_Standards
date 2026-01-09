@@ -31,7 +31,9 @@ Use it like this:
 A relationship between an organization and a department of that organization, also described as an organization (allowing different urls, logos, opening hours). For example: a store with a pharmacy, or a bakery with a cafe.
 
 Relation describes that: 
-[ #has_/domain  :: Organization ]
+
+#has_/domain  :: Organization  
+
 ( #has_/name :: has_department )
 ( #has_/range :: Organization )
 

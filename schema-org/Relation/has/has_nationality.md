@@ -34,7 +34,9 @@ Use it like this:
 Nationality of the person.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_nationality )
 ( #has_/range :: Country )
 

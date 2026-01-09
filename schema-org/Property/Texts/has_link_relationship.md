@@ -31,7 +31,7 @@ type: Pred_Text
 
 Predicate to describe the Text of LinkRole.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/link_relationship :: Text ] or 
@@ -40,7 +40,9 @@ Use it like this:
 Indicates the relationship type of a Web link.
 
 Predicated describes that: 
-[ #has_/domain  :: LinkRole ]
+
+#has_/domain  :: LinkRole  
+
 ( #has_/name :: has_text_of_link_relationship )
 ( #has_/range :: Text )
 

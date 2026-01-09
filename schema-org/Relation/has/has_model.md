@@ -38,7 +38,9 @@ It is recommended to additionally provide strong product identifiers
 via the gtin8/gtin13/gtin14 and mpn properties.
 
 Relation describes that: 
-[ #has_/domain  :: Product ]
+
+#has_/domain  :: Product  
+
 ( #has_/name :: has_model )
 ( #has_/range :: ProductModel, Text )
 

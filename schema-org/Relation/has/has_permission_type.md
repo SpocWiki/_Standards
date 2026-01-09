@@ -35,7 +35,9 @@ Use it like this:
 The type of permission granted the person, organization, or audience.
 
 Relation describes that: 
-[ #has_/domain  :: DigitalDocumentPermission ]
+
+#has_/domain  :: DigitalDocumentPermission  
+
 ( #has_/name :: is_permission_type )
 ( #has_/range :: DigitalDocumentPermissionType )
 

@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A set of characteristics belonging to businesses, e.g. who compose an item's target audience.
 
-[ #is_/sub_class_of :: [[../Audience]] ]
+#is_/sub_class_of :: [[../Audience]]  
 
-[ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, numberOfEmployees, potentialAction, sameAs, subjectOf, url, yearlyRevenue, yearsInOperation ] ]
-
+#has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, numberOfEmployees, potentialAction, sameAs, subjectOf, url, yearlyRevenue, yearsInOperation ]  
 
 ## Confidential Links & Embeds: 
 

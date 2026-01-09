@@ -37,12 +37,13 @@ Use it like this:
 A sub property of location. The course where this action was taken.
 
 Predicate describes that: 
-[ #has_/domain  :: ExerciseAction ]
+
+#has_/domain  :: ExerciseAction  
+
 ( #has_/name :: has_location_course )
 ( #has_/range :: Place )
 
-[ #is_/sub_property_of  :: location ]
-
+#is_/sub_property_of  :: location  
 
 ## Confidential Links & Embeds: 
 

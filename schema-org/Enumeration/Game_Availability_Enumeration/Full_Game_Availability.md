@@ -33,14 +33,13 @@ Class of all full_game_availabilitys.
 Tag Instances like this: 
 #is_a_/full_game_availability
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Indicates full game availability.
 
-[ #is_/sub_class_of :: [[../GameAvailabilityEnumeration]] ]
+#is_/sub_class_of :: [[../GameAvailabilityEnumeration]]  
 
-[ #is_/enum_of :: [[../GameAvailabilityEnumeration]] ]
-
+#is_/enum_of :: [[../GameAvailabilityEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

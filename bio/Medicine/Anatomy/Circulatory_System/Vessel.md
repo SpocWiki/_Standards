@@ -33,12 +33,11 @@ Tag Instances like this:
 A component of the human body circulatory system comprised of an intricate network of hollow tubes 
 that transport blood throughout the entire body.
 
-[ #is_/sub_class_of :: [[../AnatomicalStructure]] ]
+#is_/sub_class_of :: [[../AnatomicalStructure]]  
 
-[ #has_/sub_classes :: [ Artery, LymphaticVessel, Vein ] ]
+#has_/sub_classes :: [ Artery, LymphaticVessel, Vein ]  
 
-[ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

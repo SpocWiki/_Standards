@@ -29,7 +29,7 @@ title: has_broadcast_signal_modulation
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/broadcast_signal_modulation :: QualitativeValue, Text ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The modulation (e.g. FM, AM, etc) used by a particular broadcast service.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastFrequencySpecification ]
+
+#has_/domain  :: BroadcastFrequencySpecification  
+
 ( #has_/name :: has_broadcast_signal_modulation )
 ( #has_/range :: QualitativeValue, Text )
 

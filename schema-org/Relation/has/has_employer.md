@@ -8,7 +8,9 @@ Use it like this:
 Someone working for this organization.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Society/Agent/Person]] ]
+
+#has_/domain  :: [[../../../Society/Agent/Person]]  
+
 ( #has_/name :: has_employer )
 ( #has_/range :: [[../../../Society/Agent/Community/Organization]] )
 

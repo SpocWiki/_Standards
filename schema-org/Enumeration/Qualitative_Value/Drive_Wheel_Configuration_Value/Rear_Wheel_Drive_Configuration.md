@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Real-wheel drive is a transmission layout where the engine drives the rear wheels.
 
-[ #is_/sub_class_of :: [[../DriveWheelConfigurationValue]] ]
+#is_/sub_class_of :: [[../DriveWheelConfigurationValue]]  
 
-[ #is_/enum_of :: [[../DriveWheelConfigurationValue]] ]
-
+#is_/enum_of :: [[../DriveWheelConfigurationValue]]  
 
 ## Confidential Links & Embeds: 
 

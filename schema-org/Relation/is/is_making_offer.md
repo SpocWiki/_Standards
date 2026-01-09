@@ -33,12 +33,13 @@ Use it like this:
 A pointer to products or services offered by the organization or person.
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person]
+
+#has_/domain  :: Organization, Person 
+
 ( #has_/name :: is_making_offer)
 ( #has_/range :: Offer)
 
-[ #is_/inverse_of  :: [[../has/is_offered_by]]]
-
+#is_/inverse_of  :: [[../has/is_offered_by]] 
 
 ## Confidential Links & Embeds: 
 

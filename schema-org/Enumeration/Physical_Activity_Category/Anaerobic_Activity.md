@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Physical activity that is of high-intensity which utilizes the anaerobic metabolism of the body.
 
-[ #is_/sub_class_of :: [[../PhysicalActivityCategory]] ]
+#is_/sub_class_of :: [[../PhysicalActivityCategory]]  
 
-[ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
-
+#is_/enum_of :: [[../PhysicalActivityCategory]]  
 
 ## Confidential Links & Embeds: 
 

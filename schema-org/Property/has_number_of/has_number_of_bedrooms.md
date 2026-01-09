@@ -29,7 +29,7 @@ type: Predi_Count
 
 Predicate to describe the Number of Accommodation, ApartmentComplex, FloorPlan.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/number_of_/bedrooms :: Number, QuantitativeValue ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The total integer number of bedrooms in a some [[../../../Earth/Geography/Place/Accommodation]], [[ApartmentComplex]] or [[FloorPlan]].
 
 Predicate describes that: 
-[ #has_/domain  :: Accommodation, ApartmentComplex, FloorPlan ]
+
+#has_/domain  :: Accommodation, ApartmentComplex, FloorPlan  
+
 ( #has_/name :: has_number_of_bedrooms )
 ( #has_/range :: Number, QuantitativeValue )
 

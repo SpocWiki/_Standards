@@ -54,7 +54,9 @@ Usage guidelines:
 </ul>
 
 [[../../Predicate|Predicate]] describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/Intangible/rating|Rating]] ]
+
+#has_/domain  :: [[../../Class/is_a_/Intangible/rating|Rating]]  
+
 ( #has_/name :: has_value_for_rating )
 ( #has_/range :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ])
 

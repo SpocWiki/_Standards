@@ -29,7 +29,7 @@ title: has_creative_work_status
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/creative_work_status :: DefinedTerm, Text ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The status of a creative work in terms of its stage in a lifecycle. Example terms include Incomplete, Draft, Published, Obsolete. Some organizations define a set of terms for the stages of their publication lifecycle.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_creative_work_status )
 ( #has_/range :: DefinedTerm, Text )
 

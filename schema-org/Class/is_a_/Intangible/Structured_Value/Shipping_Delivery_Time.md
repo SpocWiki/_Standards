@@ -32,14 +32,13 @@ Class of all shipping_delivery_times.
 Tag Instances like this: 
 #is_a_/shipping_delivery_time
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 ShippingDeliveryTime provides various pieces of information about delivery times for shipping.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, businessDays, cutoffTime, description, disambiguatingDescription, handlingTime, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, transitTime, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, businessDays, cutoffTime, description, disambiguatingDescription, handlingTime, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, transitTime, url ]  
 
 ## Confidential Links & Embeds: 
 

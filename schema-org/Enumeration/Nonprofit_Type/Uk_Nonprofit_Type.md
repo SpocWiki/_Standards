@@ -32,12 +32,11 @@ Class of all uk_nonprofit_types.
 Tag Instances like this: 
 #is_a_/uk_nonprofit_type
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 UKNonprofitType: Non-profit organization type originating from the United Kingdom.
 
-[ #is_/sub_class_of :: [[../NonprofitType]] ]
-
+#is_/sub_class_of :: [[../NonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

@@ -29,7 +29,7 @@ title: is_spoken_by_character
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #is_/spoken_by_character :: Organization, Person ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The (e.g. fictional) character, Person or Organization to whom the quotation is attributed within the containing CreativeWork.
 
 Relation describes that: 
-[ #is_/domain  :: Quotation ]
+
+#is_/domain  :: Quotation  
+
 ( #is_/name :: is_spoken_by_character )
 ( #is_/range :: Organization, Person )
 

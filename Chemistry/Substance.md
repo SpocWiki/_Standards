@@ -37,11 +37,11 @@ Tag Instances like this:
 Any matter of defined composition that has discrete existence, 
 whose origin may be biological, mineral or chemical.
 
-[ #is_/sub_class_of :: [[../MedicalEntity]] ]
+#is_/sub_class_of :: [[../MedicalEntity]]  
 
-[ #has_/sub_classes :: [ DietarySupplement, Drug ] ]
+#has_/sub_classes :: [ DietarySupplement, Drug ]  
 
-[ #has_/properties :: [ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
+#has_/properties :: [ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 
 #is_/same_as :: [[../WikiData/WD~Matter,35758|WD~Matter,35758]]  
 

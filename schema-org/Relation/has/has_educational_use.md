@@ -35,7 +35,9 @@ Use it like this:
 The purpose of a work in the context of education; for example, 'assignment', 'group work'.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, LearningResource ]
+
+#has_/domain  :: CreativeWork, LearningResource  
+
 ( #has_/name :: has_educational_use )
 ( #has_/range :: DefinedTerm, Text )
 

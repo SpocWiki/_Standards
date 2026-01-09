@@ -35,7 +35,9 @@ Use it like this:
 One of a set of signs and symptoms that can be used to distinguish this diagnosis from others in the differential diagnosis.
 
 Relation describes that: 
-[ #has_/domain  :: DDxElement ]
+
+#has_/domain  :: DDxElement  
+
 ( #has_/name :: has_distinguishing_sign )
 ( #has_/range :: MedicalSignOrSymptom )
 

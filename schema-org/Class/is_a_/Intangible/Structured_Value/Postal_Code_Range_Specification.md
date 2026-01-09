@@ -32,14 +32,13 @@ Class of all postal_code_range_specifications.
 Tag Instances like this: 
 #is_a_/postal_code_range_specification
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Indicates a range of postal codes, usually defined as the set of valid codes between [[postalCodeBegin]] and [[postalCodeEnd]], inclusively.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

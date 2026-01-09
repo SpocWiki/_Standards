@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of PaymentCard.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/monthly_minimum_repayment_amount :: MonetaryAmount, Number ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The minimum payment is the lowest amount of money that one is required to pay on a credit card statement each month.
 
 Predicate describes that: 
-[ #has_/domain  :: PaymentCard ]
+
+#has_/domain  :: PaymentCard  
+
 ( #has_/name :: has_value_for_monthly_minimum_repayment_amount )
 ( #has_/range :: MonetaryAmount, Number )
 

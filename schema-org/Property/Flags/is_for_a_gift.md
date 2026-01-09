@@ -37,7 +37,9 @@ Or write it as a Triple:
 Indicates whether the offer was accepted as a gift for someone other than the buyer.
 
 Predicate describes that: 
-[ #has_/domain  :: Order ]
+
+#has_/domain  :: Order  
+
 ( #has_/name :: is_for_a_gift )
 ( #has_/range :: Boolean )
 

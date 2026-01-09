@@ -35,7 +35,9 @@ Use it like this:
 The product or service this support contact point is related to (such as product support for a particular product line). This can be a specific product or product line (e.g. "iPhone") or a general category of products or services (e.g. "smartphones").
 
 Relation describes that: 
-[ #has_/domain  :: ContactPoint ]
+
+#has_/domain  :: ContactPoint  
+
 ( #has_/name :: is_product_supported )
 ( #has_/range :: Product, Text )
 

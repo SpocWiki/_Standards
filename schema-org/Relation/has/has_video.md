@@ -31,7 +31,9 @@ Use it like this:
 An embedded video object.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_video )
 ( #has_/range :: Clip, VideoObject )
 

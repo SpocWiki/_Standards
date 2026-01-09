@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of Vehicle.
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
 - [ #has_/value_for_/fuel_capacity_liter :: QuantitativeValue ] or 
@@ -42,7 +42,9 @@ The capacity of the fuel tank or in the case of electric cars, the battery. If t
 Typical unit code(s): LTR for liters, GLL of US gallons, GLI for UK / imperial gallons, AMH for ampere-hours (for electrical vehicles).
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_value_for_fuel_capacity_liter )
 ( #has_/range :: QuantitativeValue )
 

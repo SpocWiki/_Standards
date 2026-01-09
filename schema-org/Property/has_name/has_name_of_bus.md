@@ -37,7 +37,9 @@ Use it like this:
 The name of the bus (e.g. Bolt Express).
 
 Predicated describes that: 
-[ #has_/domain  :: BusTrip ]
+
+#has_/domain  :: BusTrip  
+
 ( #has_/name :: has_name_of_bus )
 ( #has_/range :: Text )
 

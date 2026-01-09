@@ -38,7 +38,9 @@ Use it like this:
 Indications regarding the permitted usage of the accommodation.
 
 Predicated describes that: 
-[ #has_/domain  :: Accommodation ]
+
+#has_/domain  :: Accommodation  
+
 ( #has_/name :: has_text_of_permitted_usage )
 ( #has_/range :: Text )
 

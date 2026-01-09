@@ -35,7 +35,9 @@ Use it like this:
 The neurological pathway that originates the neurons.
 
 Relation describes that: 
-[ #has_/domain  :: Nerve ]
+
+#has_/domain  :: Nerve  
+
 ( #has_/name :: is_sourced_from )
 ( #has_/range :: BrainStructure )
 

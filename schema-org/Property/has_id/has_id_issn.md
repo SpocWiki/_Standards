@@ -37,12 +37,13 @@ Use it like this:
 The International Standard Serial Number (id_issn) that identifies this serial publication. You can repeat this property to identify different formats of, or the linking id_issn (id_issn-L) for, this serial publication.
 
 Predicated describes that: 
-[ #has_/domain  :: Blog, CreativeWorkSeries, Dataset, WebSite ]
+
+#has_/domain  :: Blog, CreativeWorkSeries, Dataset, WebSite  
+
 ( #has_/name :: has_id_issn )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

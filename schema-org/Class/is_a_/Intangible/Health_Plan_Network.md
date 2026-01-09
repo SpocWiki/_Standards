@@ -32,14 +32,13 @@ Class of all health_plan_networks.
 Tag Instances like this: 
 #is_a_/health_plan_network
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A US-style health insurance plan network.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCostSharing, healthPlanNetworkId, healthPlanNetworkTier, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCostSharing, healthPlanNetworkId, healthPlanNetworkTier, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

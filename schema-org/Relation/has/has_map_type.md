@@ -35,7 +35,9 @@ Use it like this:
 Indicates the kind of Map, from the MapCategoryType Enumeration.
 
 Relation describes that: 
-[ #has_/domain  :: Map ]
+
+#has_/domain  :: Map  
+
 ( #has_/name :: has_map_type )
 ( #has_/range :: MapCategoryType )
 

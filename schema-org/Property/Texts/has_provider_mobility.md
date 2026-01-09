@@ -38,7 +38,9 @@ Use it like this:
 Indicates the mobility of a provided service (e.g. "static", "dynamic").
 
 Predicated describes that: 
-[ #has_/domain  :: Service ]
+
+#has_/domain  :: Service  
+
 ( #has_/name :: has_text_of_provider_mobility )
 ( #has_/range :: Text )
 

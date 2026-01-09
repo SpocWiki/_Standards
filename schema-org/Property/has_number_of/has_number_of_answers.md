@@ -36,7 +36,9 @@ Use it like this:
 The number of answers this question has received.
 
 Predicate describes that: 
-[ #has_/domain  :: Question ]
+
+#has_/domain  :: Question  
+
 ( #has_/name :: has_number_of_answers )
 ( #has_/range :: Integer )
 

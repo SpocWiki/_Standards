@@ -38,7 +38,9 @@ Use it like this:
 A short text indicating the configuration of the vehicle, e.g. "5dr hatchback ST 2.5 MT 225 hp" or "limited edition".
 
 Predicated describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_text_of_vehicle_configuration )
 ( #has_/range :: Text )
 

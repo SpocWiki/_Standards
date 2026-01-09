@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of Offer, Product, SizeSpecification.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/measurement :: QuantitativeValue ] or 
@@ -38,7 +38,9 @@ Use it like this:
 A product measurement, for example the inseam of pants, the wheel size of a bicycle, or the gauge of a screw. Usually an exact measurement, but can also be a range of measurements for adjustable products, for example belts and ski bindings.
 
 Predicate describes that: 
-[ #has_/domain  :: Offer, Product, SizeSpecification ]
+
+#has_/domain  :: Offer, Product, SizeSpecification  
+
 ( #has_/name :: has_value_for_measurement )
 ( #has_/range :: QuantitativeValue )
 

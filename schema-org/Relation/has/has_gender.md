@@ -29,8 +29,7 @@ type: Predi_Relation
 
 # [[has_gender]] 
 
-
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/gender :: GenderType, Text ] or 
@@ -45,7 +44,9 @@ As with the gender of individuals, we do not try to enumerate all possibilities.
 A mixed-gender [[SportsTeam]] can be indicated with a text value of "Mixed".
 
 Relation describes that: 
-[ #has_/domain  :: Person, SportsTeam ]
+
+#has_/domain  :: Person, SportsTeam  
+
 ( #has_/name :: has_gender )
 ( #has_/range :: GenderType, Text )
 

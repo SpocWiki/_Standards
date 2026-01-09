@@ -31,7 +31,9 @@ Use it like this:
 A person that acts as performing member of a sports team; a player as opposed to a coach.
 
 Relation describes that: 
-[ #has_/domain  :: SportsTeam ]
+
+#has_/domain  :: SportsTeam  
+
 ( #has_/name :: has_athlete )
 ( #has_/range :: Person )
 

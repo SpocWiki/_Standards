@@ -30,7 +30,7 @@ title: has_negative_notes
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 #is_/similar_to :: #has_/Cons 
 #has_/dual_/property  :: [[has_positive_notes]] 
@@ -54,7 +54,9 @@ Nevertheless for the sake of symmetry, [[negativeNotes]] can be used on [[../../
 The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most negative is at the beginning of the list).
 
 Relation describes that: 
-[ #has_/domain  :: Product, Review ]
+
+#has_/domain  :: Product, Review  
+
 ( #has_/name :: has_negative_notes )
 ( #has_/range :: ItemList, ListItem, Text, WebContent )
 

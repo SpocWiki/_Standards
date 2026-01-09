@@ -36,7 +36,9 @@ Use it like this:
 Physical address of the item.
 
 Predicate describes that: 
-[ #has_/domain  :: GeoCoordinates, GeoShape, Organization, Person, Place ]
+
+#has_/domain  :: GeoCoordinates, GeoShape, Organization, Person, Place  
+
 ( #has_/name :: has_location_address )
 ( #has_/range :: PostalAddress, Text ) 
 

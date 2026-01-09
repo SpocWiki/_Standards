@@ -37,7 +37,9 @@ Use it like this:
 One of the more significant URLs on the page. Typically, these are the non-navigation links that are clicked on the most.
 
 Predicate describes that: 
-[ #has_/domain  :: WebPage ]
+
+#has_/domain  :: WebPage  
+
 ( #has_/name :: has_url_for_significant_link )
 ( #has_/range :: URL )
 

@@ -37,7 +37,9 @@ Use it like this:
 The official name of the organization, e.g. the registered company name.
 
 Predicated describes that: 
-[ #has_/domain  :: Organization ]
+
+#has_/domain  :: Organization  
+
 ( #has_/name :: has_name_legal )
 ( #has_/range :: Text )
 

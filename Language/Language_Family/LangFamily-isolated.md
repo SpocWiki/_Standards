@@ -7,8 +7,8 @@ type: LangFamily
 ---
 
 [SpocWebEntityId:: 247 ]
-[has_/name::isolated]
 
+has_/name::isolated 
 
 ## Confidential Links & Embeds: 
 

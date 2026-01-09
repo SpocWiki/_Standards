@@ -34,12 +34,11 @@ Tag Instances like this:
 
 The act of manipulating/administering/supervising/controlling one or more objects.
 
-[ #is_/sub_class_of :: [[../Action]] ]
+#is_/sub_class_of :: [[../Action]]  
 
-[ #has_/sub_classes :: [ AllocateAction, ApplyAction, BookmarkAction, PlanAction ] ]
+#has_/sub_classes :: [ AllocateAction, ApplyAction, BookmarkAction, PlanAction ]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

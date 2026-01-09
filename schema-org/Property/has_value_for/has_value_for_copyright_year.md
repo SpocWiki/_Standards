@@ -36,7 +36,9 @@ Use it like this:
 The year during which the claimed copyright for the CreativeWork was first asserted.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_value_for_copyright_year )
 ( #has_/range :: Number )
 

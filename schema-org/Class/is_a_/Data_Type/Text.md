@@ -40,8 +40,7 @@ but typically this is not necessary, because Text is treated as a Scalar/Struct 
 
 Data type: Text.
 
-[ #has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ] ]
-
+#has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ]  
 
 ## Confidential Links & Embeds: 
 

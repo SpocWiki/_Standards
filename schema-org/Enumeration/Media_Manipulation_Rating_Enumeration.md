@@ -32,7 +32,7 @@ Class of all media_manipulation_rating_enumerations.
 Tag Instances like this: 
 #is_a_/media_manipulation_rating_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Codes for use with the [[../../../../Relation/has/has_media_authenticity_category]] property,
 indicating the authenticity of a media object (in the context of how it was published or shared).
@@ -43,8 +43,7 @@ if applied in the same [[../../../../../Society/Communication/Media/Creative_Wor
 
 Note that the application of these codes is with regard to a piece of media shared or published in a particular context.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

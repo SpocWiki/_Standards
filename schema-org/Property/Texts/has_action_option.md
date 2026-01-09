@@ -39,12 +39,13 @@ Use it like this:
 A sub property of object. The options subject to this action.
 
 Predicated describes that: 
-[ #has_/domain  :: ChooseAction ]
+
+#has_/domain  :: ChooseAction  
+
 ( #has_/name :: has_text_of_action_option )
 ( #has_/range :: Text, Thing )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

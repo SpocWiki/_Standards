@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The frequency in MHz and the modulation used for a particular BroadcastService.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, broadcastFrequencyValue, broadcastSignalModulation, broadcastSubChannel, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, broadcastFrequencyValue, broadcastSignalModulation, broadcastSubChannel, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

@@ -40,7 +40,9 @@ While `schema:geo` is specifically designed for representing point locations usi
 `schema:spatial` is a more general predicate that can be used for a variety of spatial representations, including bounding boxes and shapes.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_location_spatial )
 ( #has_/range :: Place )
 

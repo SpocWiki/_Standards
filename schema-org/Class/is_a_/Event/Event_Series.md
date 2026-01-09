@@ -32,7 +32,7 @@ Class of all event_seriess.
 Tag Instances like this: 
 #is_an_/event_series
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A series of [[Event]]s. Included events can relate with the series using the [[superEvent]] property.
 
@@ -48,10 +48,9 @@ worrying about which kinds of series are really event-like enough to call an Eve
 may seem more Event-like when the period of time is compact and when aspects such as location are fixed, but
 it may also sometimes prove useful to describe a longer-term series as an Event.
 
-[ #is_/sub_class_of :: [[../Event, Series]] ]
+#is_/sub_class_of :: [[../Event, Series]]  
 
-[ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
-
+#has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]  
 
 ## Confidential Links & Embeds: 
 

@@ -40,7 +40,9 @@ Use it like this:
 A thumbnail image relevant to the Thing.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_url_for_thumbnail_url )
 ( #has_/range :: URL )
 

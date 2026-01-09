@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A recommended dosing schedule for a drug or supplement as prescribed or recommended by an authority or by the drug/supplement's manufacturer. Capture the recommending authority in the recognizingAuthority property of MedicalEntity.
 
-[ #is_/sub_class_of :: [[../DoseSchedule]] ]
+#is_/sub_class_of :: [[../DoseSchedule]]  
 
-[ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, doseUnit, doseValue, frequency, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, targetPopulation, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, doseUnit, doseValue, frequency, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, targetPopulation, url ]  
 
 ## Confidential Links & Embeds: 
 

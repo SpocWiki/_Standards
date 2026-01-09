@@ -36,7 +36,9 @@ Use it like this:
 The overall rating, based on a collection of reviews or ratings, of the item.
 
 Relation describes that: 
-[ #has_/domain  :: Brand, CreativeWork, Event, Offer, Organization, Place, Product, Service ]
+
+#has_/domain  :: Brand, CreativeWork, Event, Offer, Organization, Place, Product, Service  
+
 ( #has_/name :: has_aggregate_rating )
 ( #has_/range :: AggregateRating )
 

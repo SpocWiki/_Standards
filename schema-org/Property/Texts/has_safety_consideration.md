@@ -38,7 +38,9 @@ Use it like this:
 Any potential safety concern associated with the supplement. May include interactions with other drugs and foods, pregnancy, breastfeeding, known adverse reactions, and documented efficacy of the supplement.
 
 Predicated describes that: 
-[ #has_/domain  :: DietarySupplement ]
+
+#has_/domain  :: DietarySupplement  
+
 ( #has_/name :: has_text_of_safety_consideration )
 ( #has_/range :: Text )
 

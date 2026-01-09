@@ -79,7 +79,9 @@ to the actual Class Definition harder.
 - For Classes use [is_subclass_of](is_sub_class_of.md)  
 
 ## Relation describes that: 
-[ #has_/domain  :: [[Thing]]] 
+
+#has_/domain  :: [[Thing]] 
+
 ( #has_/name :: is_instance_of)
 ( #has_/range :: Class)
 

@@ -34,7 +34,9 @@ Use it like this:
 The kind of release which this album is: single, EP or album.
 
 Relation describes that: 
-[ #has_/domain  :: MusicAlbum ]
+
+#has_/domain  :: MusicAlbum  
+
 ( #has_/name :: has_album_release_type )
 ( #has_/range :: MusicAlbumReleaseType )
 

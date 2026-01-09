@@ -38,7 +38,9 @@ Use it like this:
 Any precaution, guidance, contraindication, etc. related to this drug"s use during pregnancy.
 
 Predicated describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_text_of_pregnancy_warning )
 ( #has_/range :: Text )
 

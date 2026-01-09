@@ -36,7 +36,9 @@ Use it like this:
 The branches that comprise the arterial structure.
 
 Relation describes that: 
-[ #has_/domain  :: Artery ]
+
+#has_/domain  :: Artery  
+
 ( #has_/name :: has_arterial_branch )
 ( #has_/range :: AnatomicalStructure )
 

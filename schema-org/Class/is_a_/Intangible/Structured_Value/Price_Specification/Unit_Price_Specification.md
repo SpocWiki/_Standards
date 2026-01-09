@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The price asked for a given offer by the respective organization or person.
 
-[ #is_/sub_class_of :: [[../PriceSpecification]] ]
+#is_/sub_class_of :: [[../PriceSpecification]]  
 
-[ #has_/properties :: [ additionalType, alternateName, billingDuration, billingIncrement, billingStart, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponentType, priceCurrency, priceType, referenceQuantity, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
-
+#has_/properties :: [ additionalType, alternateName, billingDuration, billingIncrement, billingStart, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponentType, priceCurrency, priceType, referenceQuantity, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, valueAddedTaxIncluded ]  
 
 ## Confidential Links & Embeds: 
 

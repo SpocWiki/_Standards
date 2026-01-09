@@ -37,7 +37,9 @@ Use it like this:
 Specific physiologic risks associated to the diet plan.
 
 Predicated describes that: 
-[ #has_/domain  :: Diet ]
+
+#has_/domain  :: Diet  
+
 ( #has_/name :: has_text_of_risks )
 ( #has_/range :: Text )
 

@@ -35,7 +35,9 @@ Use it like this:
 A physical examination that can identify this sign.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalSign ]
+
+#has_/domain  :: MedicalSign  
+
 ( #has_/name :: has_identifying_exam )
 ( #has_/range :: PhysicalExam )
 

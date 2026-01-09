@@ -35,7 +35,9 @@ Use it like this:
 The Occupation for the JobPosting.
 
 Relation describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: is_relevant_occupation )
 ( #has_/range :: Occupation )
 

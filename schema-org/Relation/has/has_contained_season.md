@@ -37,12 +37,13 @@ Use it like this:
 - [ has_contained_season :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] ] 
 
 [[../../Relation|Relation]] describes that: 
-[ #has_/domain  :: [ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ] ] 
+
+#has_/domain  :: [ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ]  
+
 ( #has_/name :: has_contained_season )
 ( #has_/range :: [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]] )
 
-[ #is_/sub_property_of  :: [[../../Composite/has_parts]] ]
-
+#is_/sub_property_of  :: [[../../Composite/has_parts]]  
 
 ## Confidential Links & Embeds: 
 

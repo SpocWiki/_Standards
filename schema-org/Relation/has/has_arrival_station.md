@@ -33,7 +33,9 @@ Use it like this:
 The station where the train trip ends.
 
 Relation describes that: 
-[ #has_/domain  :: TrainTrip ]
+
+#has_/domain  :: TrainTrip  
+
 ( #has_/name :: has_arrival_station )
 ( #has_/range :: TrainStation )
 

@@ -38,7 +38,9 @@ Use it like this:
 The framework to which the resource being described is aligned.
 
 Predicated describes that: 
-[ #has_/domain  :: AlignmentObject ]
+
+#has_/domain  :: AlignmentObject  
+
 ( #has_/name :: has_text_of_educational_framework )
 ( #has_/range :: Text )
 

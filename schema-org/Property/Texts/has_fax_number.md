@@ -38,7 +38,9 @@ Use it like this:
 The fax number.
 
 Predicated describes that: 
-[ #has_/domain  :: ContactPoint, Organization, Person, Place ]
+
+#has_/domain  :: ContactPoint, Organization, Person, Place  
+
 ( #has_/name :: has_text_of_fax_number )
 ( #has_/range :: Text )
 

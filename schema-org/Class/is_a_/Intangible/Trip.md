@@ -32,12 +32,11 @@ Tag Instances like this:
 
 A trip or journey. An itinerary of visits to one or more places.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/sub_classes :: [ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ] ]
+#has_/sub_classes :: [ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ]  
 
-[ #has_/properties :: [ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

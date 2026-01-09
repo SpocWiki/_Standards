@@ -37,7 +37,9 @@ Use it like this:
 The Value-added Tax ID of the organization or person.
 
 Predicated describes that: 
-[ #has_/domain  :: Organization, Person ]
+
+#has_/domain  :: Organization, Person  
+
 ( #has_/name :: has_id_vat )
 ( #has_/range :: Text )
 

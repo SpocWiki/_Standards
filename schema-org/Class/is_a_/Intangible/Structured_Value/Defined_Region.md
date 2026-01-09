@@ -32,7 +32,7 @@ Class of all defined_regions.
 Tag Instances like this: 
 #is_a_/defined_region
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A DefinedRegion is a geographic area defined by potentially arbitrary (rather than political, administrative or natural geographical) criteria. Properties are provided for defining a region by reference to sets of postal codes.
 
@@ -48,10 +48,9 @@ PostalCode Set: { [94000-94585], [97000, 97999], [13000, 13599]}
 { [12345, 12345], [78945, 78945], }
 Region = state, canton, prefecture, autonomous community...
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, addressCountry, addressRegion, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode, postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, addressCountry, addressRegion, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode, postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

@@ -35,12 +35,13 @@ Use it like this:
 An answer (possibly one of several, possibly incorrect) to a Question, e.g. on a Question/Answer site.
 
 Relation describes that: 
-[ #has_/domain  :: Question ]
+
+#has_/domain  :: Question  
+
 ( #has_/name :: is_suggested_answer )
 ( #has_/range :: Answer, ItemList )
 
-[ #has_/sub_properties :: [ acceptedAnswer ] ]
-
+#has_/sub_properties :: [ acceptedAnswer ]  
 
 ## Confidential Links & Embeds: 
 

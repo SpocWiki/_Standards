@@ -37,12 +37,13 @@ Use it like this:
 A number that confirms the given order or payment has been received.
 
 Predicated describes that: 
-[ #has_/domain  :: Invoice, Order ]
+
+#has_/domain  :: Invoice, Order  
+
 ( #has_/name :: has_id_confirmation )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

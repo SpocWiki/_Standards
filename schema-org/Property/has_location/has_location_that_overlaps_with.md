@@ -38,7 +38,9 @@ Use it like this:
 Represents a relationship between two geometries (or the places they represent), relating a geometry to another that geospatially overlaps it, i.e. they have some but not all points in common. As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM). 
 
 Predicate describes that: 
-[ #has_/domain  :: GeospatialGeometry, Place ]
+
+#has_/domain  :: GeospatialGeometry, Place  
+
 ( #has_/name :: has_location_that_overlaps_with )
 ( #has_/range :: GeospatialGeometry, Place )
 

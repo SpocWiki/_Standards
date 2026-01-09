@@ -36,12 +36,13 @@ Use it like this:
 The duration of the loan or credit agreement.
 
 Predicate describes that: 
-[ #has_/domain  :: LoanOrCredit ]
+
+#has_/domain  :: LoanOrCredit  
+
 ( #has_/name :: has_value_for_loan_term )
 ( #has_/range :: QuantitativeValue )
 
-[ #is_/sub_property_of  :: duration ]
-
+#is_/sub_property_of  :: duration  
 
 ## Confidential Links & Embeds: 
 

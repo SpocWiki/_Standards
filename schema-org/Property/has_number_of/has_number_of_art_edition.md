@@ -36,7 +36,9 @@ Use it like this:
 The number of copies when multiple copies of a piece of artwork are produced - e.g. for a limited edition of 20 prints, 'artEdition' refers to the total number of copies (in this example "20").
 
 Predicate describes that: 
-[ #has_/domain  :: VisualArtwork ]
+
+#has_/domain  :: VisualArtwork  
+
 ( #has_/name :: has_number_of_art_edition )
 ( #has_/range :: Integer, Text )
 

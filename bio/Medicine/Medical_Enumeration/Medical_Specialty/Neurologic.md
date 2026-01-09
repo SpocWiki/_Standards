@@ -33,10 +33,9 @@ Tag Instances like this:
 
 A specific branch of medical science that studies the nerves and nervous system and its respective disease states.
 
-[ #is_/sub_class_of :: [[../MedicalSpecialty]] ]
+#is_/sub_class_of :: [[../MedicalSpecialty]]  
 
-[ #is_/enum_of :: [[../MedicalSpecialty]] ]
-
+#is_/enum_of :: [[../MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

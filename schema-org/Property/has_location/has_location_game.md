@@ -36,7 +36,9 @@ Use it like this:
 Real or fictional location of the game (or part of game).
 
 Predicate describes that: 
-[ #has_/domain  :: Game, VideoGameSeries ]
+
+#has_/domain  :: Game, VideoGameSeries  
+
 ( #has_/name :: has_location_game )
 ( #has_/range :: Place, PostalAddress, URL )
 

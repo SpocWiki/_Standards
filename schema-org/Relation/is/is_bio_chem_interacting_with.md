@@ -30,7 +30,7 @@ title: has_bio_chem_interaction
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/bio_chem_interaction :: BioChemEntity ] or 
@@ -39,7 +39,9 @@ Use it like this:
 A BioChemEntity that is known to interact with this item.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity ]
+
+#has_/domain  :: BioChemEntity  
+
 ( #has_/name :: is_bio_chem_interacting_with )
 ( #has_/range :: BioChemEntity )
 

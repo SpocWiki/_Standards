@@ -26,7 +26,7 @@ title: is_included_in_health_insurance_plan
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending:]
+#is_/part_of :: pending: 
 
 Use it like this: 
 - [ #is_/included_in_health_insurance_plan :: HealthInsurancePlan] or 
@@ -35,7 +35,9 @@ Use it like this:
 The insurance plans that cover this drug.
 
 Relation describes that: 
-[ #has_/domain  :: Drug]
+
+#has_/domain  :: Drug 
+
 ( #has_/name :: is_included_in_health_insurance_plan)
 ( #has_/range :: HealthInsurancePlan)
 

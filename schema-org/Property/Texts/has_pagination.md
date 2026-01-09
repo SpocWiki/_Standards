@@ -37,7 +37,9 @@ Use it like this:
 Any description of pages that is not separated into pageStart and pageEnd; for example, "1-6, 9, 55" or "10-12, 46-49".
 
 Predicated describes that: 
-[ #has_/domain  :: Article, Chapter, PublicationIssue, PublicationVolume ]
+
+#has_/domain  :: Article, Chapter, PublicationIssue, PublicationVolume  
+
 ( #has_/name :: has_text_of_pagination )
 ( #has_/range :: Text )
 

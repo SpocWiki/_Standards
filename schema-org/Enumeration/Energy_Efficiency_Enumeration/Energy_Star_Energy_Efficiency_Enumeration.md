@@ -32,12 +32,11 @@ Class of all energy_star_energy_efficiency_enumerations.
 Tag Instances like this: 
 #is_an_/energy_star_energy_efficiency_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Used to indicate whether a product is EnergyStar certified.
 
-[ #is_/sub_class_of :: [[../EnergyEfficiencyEnumeration]] ]
-
+#is_/sub_class_of :: [[../EnergyEfficiencyEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

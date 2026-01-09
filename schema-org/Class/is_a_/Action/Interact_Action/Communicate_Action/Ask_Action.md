@@ -40,10 +40,9 @@ Related actions:
 <li>[[ReplyAction]]: Appears generally as a response to AskAction.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../CommunicateAction]] ]
+#is_/sub_class_of :: [[../CommunicateAction]]  
 
-[ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, question, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, question, recipient, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

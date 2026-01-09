@@ -40,7 +40,9 @@ Use it like this:
 The weight of the product or person.
 
 Predicate describes that: 
-[ #has_/domain  :: OfferShippingDetails, Person, Product ]
+
+#has_/domain  :: OfferShippingDetails, Person, Product  
+
 ( #has_/name :: has_value_for_weight_in_gram )
 ( #has_/range :: QuantitativeValue )
 

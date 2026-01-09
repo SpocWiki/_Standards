@@ -31,12 +31,13 @@ Use it like this:
 The destroyer/author of this CreativeWork. This is the same as the Author property for CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, UserComments ]
+
+#has_/domain  :: CreativeWork, UserComments  
+
 ( #has_/name :: has_destroyer )
 ( #has_/range :: Organization, Person )
 
-[ #has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ] ]
-
+#has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ]  
 
 ## Confidential Links & Embeds: 
 

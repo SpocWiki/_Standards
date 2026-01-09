@@ -33,14 +33,13 @@ Class of all violence_considerations.
 Tag Instances like this: 
 #is_a_/violence_consideration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Item shows or promotes violence.
 
-[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
+#is_/sub_class_of :: [[../AdultOrientedEnumeration]]  
 
-[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
-
+#is_/enum_of :: [[../AdultOrientedEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

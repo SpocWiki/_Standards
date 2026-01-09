@@ -31,7 +31,9 @@ Use it like this:
 A link to a screenshot image of the app.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: is_screenshot )
 ( #has_/range :: ImageObject, URL )
 

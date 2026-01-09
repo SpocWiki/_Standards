@@ -36,7 +36,9 @@ Use it like this:
 A link related to this web page, for example to other related web pages.
 
 Predicate describes that: 
-[ #has_/domain  :: WebPage ]
+
+#has_/domain  :: WebPage  
+
 ( #has_/name :: has_url_for_related_link )
 ( #has_/range :: URL )
 

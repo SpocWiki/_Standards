@@ -61,18 +61,27 @@ UNII: 53023GN24M
 [GroupName::Actinide-Group]
 Group :: [[../Actinide]]
 
-[has_/name_/en::Plutonium]
-[has_/name_/de::Plutonium]
+has_/name_/en::Plutonium 
+
+has_/name_/de::Plutonium 
+
 (Abbr::Pu)
-[has_/value_for_/weight_/u::242]
+
+has_/value_for_/weight_/u::242 
+
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::12.32]
 [Unknown2::0]
-[has_/value_for_/radius_/nano_/m::6.06]
+
+has_/value_for_/radius_/nano_/m::6.06 
+
 [Electronegative::1.3]
 [Density::19.8]
-[has_/value_for_/temperature_/melt_/c ::641]
-[has_/value_for_/temperature_/boil_/c ::3232]
+
+has_/value_for_/temperature_/melt_/c ::641 
+
+has_/value_for_/temperature_/boil_/c ::3232 
+
 [HeatCapacity::0.13]
 [HeatConduct::0.0674]
 [Enthalpy::2.84]

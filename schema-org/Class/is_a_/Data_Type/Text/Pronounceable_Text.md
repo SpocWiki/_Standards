@@ -35,14 +35,13 @@ Class of all pronounceable_texts.
 Tag Instances like this: 
 #is_a_/pronounceable_text
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Data type: PronounceableText.
 
-[ #is_/sub_class_of :: [[../Text]] ]
+#is_/sub_class_of :: [[../Text]]  
 
-[ #has_/properties :: [ inLanguage, phoneticText, speechToTextMarkup, textValue ] ]
-
+#has_/properties :: [ inLanguage, phoneticText, speechToTextMarkup, textValue ]  
 
 ## Confidential Links & Embeds: 
 

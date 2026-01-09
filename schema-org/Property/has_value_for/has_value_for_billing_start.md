@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of UnitPriceSpecification.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/billing_start :: Number ] or 
@@ -38,7 +38,9 @@ Use it like this:
 Specifies after how much time this price (or price component) becomes valid and billing starts. Can be used, for example, to model a price increase after the first year of a subscription. The unit of measurement is specified by the unitCode property.
 
 Predicate describes that: 
-[ #has_/domain  :: UnitPriceSpecification ]
+
+#has_/domain  :: UnitPriceSpecification  
+
 ( #has_/name :: has_value_for_billing_start )
 ( #has_/range :: Number )
 

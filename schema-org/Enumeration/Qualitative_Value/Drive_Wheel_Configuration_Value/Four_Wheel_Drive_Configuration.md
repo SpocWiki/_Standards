@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Four-wheel drive is a transmission layout where the engine primarily drives two wheels with a part-time four-wheel drive capability.
 
-[ #is_/sub_class_of :: [[../DriveWheelConfigurationValue]] ]
+#is_/sub_class_of :: [[../DriveWheelConfigurationValue]]  
 
-[ #is_/enum_of :: [[../DriveWheelConfigurationValue]] ]
-
+#is_/enum_of :: [[../DriveWheelConfigurationValue]]  
 
 ## Confidential Links & Embeds: 
 

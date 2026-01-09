@@ -36,7 +36,9 @@ Use it like this:
 The amount of money.
 
 Predicate describes that: 
-[ #has_/domain  :: DatedMoneySpecification, InvestmentOrDeposit, LoanOrCredit, MonetaryGrant, MoneyTransfer ]
+
+#has_/domain  :: DatedMoneySpecification, InvestmentOrDeposit, LoanOrCredit, MonetaryGrant, MoneyTransfer  
+
 ( #has_/name :: has_value_for_amount )
 ( #has_/range :: MonetaryAmount, Number )
 

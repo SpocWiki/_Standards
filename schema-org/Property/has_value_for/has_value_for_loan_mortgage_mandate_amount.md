@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of MortgageLoan.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/loan_mortgage_mandate_amount :: MonetaryAmount ] or 
@@ -38,7 +38,9 @@ Use it like this:
 Amount of mortgage mandate that can be converted into a proper mortgage at a later stage.
 
 Predicate describes that: 
-[ #has_/domain  :: MortgageLoan ]
+
+#has_/domain  :: MortgageLoan  
+
 ( #has_/name :: has_value_for_loan_mortgage_mandate_amount )
 ( #has_/range :: MonetaryAmount )
 

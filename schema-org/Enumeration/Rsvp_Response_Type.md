@@ -34,8 +34,7 @@ Tag Instances like this:
 
 RsvpResponseType is an enumeration type whose instances represent responding to an RSVP request.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

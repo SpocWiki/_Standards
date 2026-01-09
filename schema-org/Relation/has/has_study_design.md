@@ -35,7 +35,9 @@ Use it like this:
 Specifics about the observational study design (enumerated).
 
 Relation describes that: 
-[ #has_/domain  :: MedicalObservationalStudy ]
+
+#has_/domain  :: MedicalObservationalStudy  
+
 ( #has_/name :: is_study_design )
 ( #has_/range :: MedicalObservationalStudyDesign )
 

@@ -34,7 +34,9 @@ Use it like this:
 The delivery method(s) available for this offer.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer ]
+
+#has_/domain  :: Demand, Offer  
+
 ( #has_/name :: has_available_delivery_method )
 ( #has_/range :: DeliveryMethod )
 

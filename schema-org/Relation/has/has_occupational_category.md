@@ -28,7 +28,7 @@ title: has_occupational_category
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/occupational_category :: CategoryCode, Text ] or 
@@ -41,7 +41,9 @@ A category describing the job, preferably using a term from a taxonomy such as [
 Note: for historical reasons, any textual label and formal code provided as a literal may be assumed to be from O*NET-SOC.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalProgram, JobPosting, Occupation, WorkBasedProgram ]
+
+#has_/domain  :: EducationalOccupationalProgram, JobPosting, Occupation, WorkBasedProgram  
+
 ( #has_/name :: has_occupational_category )
 ( #has_/range :: CategoryCode, Text )
 

@@ -33,14 +33,13 @@ Class of all one_time_paymentss.
 Tag Instances like this: 
 #is_an_/one_time_payments
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 OneTimePayments: this is a benefit for one-time payments for individuals.
 
-[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
+#is_/sub_class_of :: [[../GovernmentBenefitsType]]  
 
-[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
-
+#is_/enum_of :: [[../GovernmentBenefitsType]]  
 
 ## Confidential Links & Embeds: 
 

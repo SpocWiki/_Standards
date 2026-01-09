@@ -34,12 +34,11 @@ Tag Instances like this:
 
 Structured values are used when the value of a property has a more complex structure than simply being a textual value or a reference to another thing.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/sub_classes :: [ CDCPMDRecord, ContactPoint, DatedMoneySpecification, DefinedRegion, DeliveryTimeSettings, EngineSpecification, ExchangeRateSpecification, GeoCoordinates, GeoShape, InteractionCounter, MonetaryAmount, NutritionInformation, OfferShippingDetails, OpeningHoursSpecification, OwnershipInfo, PostalCodeRangeSpecification, PriceSpecification, PropertyValue, QuantitativeValue, QuantitativeValueDistribution, RepaymentSpecification, ShippingDeliveryTime, ShippingRateSettings, TypeAndQuantityNode, WarrantyPromise ] ]
+#has_/sub_classes :: [ CDCPMDRecord, ContactPoint, DatedMoneySpecification, DefinedRegion, DeliveryTimeSettings, EngineSpecification, ExchangeRateSpecification, GeoCoordinates, GeoShape, InteractionCounter, MonetaryAmount, NutritionInformation, OfferShippingDetails, OpeningHoursSpecification, OwnershipInfo, PostalCodeRangeSpecification, PriceSpecification, PropertyValue, QuantitativeValue, QuantitativeValueDistribution, RepaymentSpecification, ShippingDeliveryTime, ShippingRateSettings, TypeAndQuantityNode, WarrantyPromise ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

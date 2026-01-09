@@ -35,7 +35,9 @@ Use it like this:
 - [ is_based_on :: CreativeWork, Product, URL] 
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork]
+
+#has_/domain  :: CreativeWork 
+
 ( #has_/name :: is_based_on)
 ( #has_/range :: CreativeWork, Product, URL)
 

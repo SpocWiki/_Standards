@@ -34,8 +34,7 @@ Tag Instances like this:
 
 The kind of release which this album is: single, EP or album.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

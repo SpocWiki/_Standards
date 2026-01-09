@@ -33,14 +33,13 @@ Class of all narcotic_considerations.
 Tag Instances like this: 
 #is_a_/narcotic_consideration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narcotic-drugs/Yellowlist/yellow-list.html">1961 UN convention</a>, for example marijuana or heroin.
 
-[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
+#is_/sub_class_of :: [[../AdultOrientedEnumeration]]  
 
-[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
-
+#is_/enum_of :: [[../AdultOrientedEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

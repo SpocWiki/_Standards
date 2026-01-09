@@ -29,7 +29,7 @@ title: has_free_shipping_threshold
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/free_shipping_threshold :: DeliveryChargeSpecification, MonetaryAmount ] or 
@@ -38,7 +38,9 @@ Use it like this:
 A monetary value above (or at) which the shipping rate becomes free. Intended to be used via an [[OfferShippingDetails]] with [[shippingSettingsLink]] matching this [[ShippingRateSettings]].
 
 Relation describes that: 
-[ #has_/domain  :: ShippingRateSettings ]
+
+#has_/domain  :: ShippingRateSettings  
+
 ( #has_/name :: has_free_shipping_threshold )
 ( #has_/range :: DeliveryChargeSpecification, MonetaryAmount )
 

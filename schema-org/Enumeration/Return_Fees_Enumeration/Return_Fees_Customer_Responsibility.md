@@ -33,14 +33,13 @@ Class of all return_fees_customer_responsibilitys.
 Tag Instances like this: 
 #is_a_/return_fees_customer_responsibility
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that product returns must be paid for, and are the responsibility of, the customer.
 
-[ #is_/sub_class_of :: [[../ReturnFeesEnumeration]] ]
+#is_/sub_class_of :: [[../ReturnFeesEnumeration]]  
 
-[ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
-
+#is_/enum_of :: [[../ReturnFeesEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

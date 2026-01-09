@@ -36,7 +36,9 @@ Use it like this:
 A dosing schedule for the drug for a given population, either observed, recommended, or maximum dose based on the type used.
 
 Predicate describes that: 
-[ #has_/domain  :: Drug, TherapeuticProcedure ]
+
+#has_/domain  :: Drug, TherapeuticProcedure  
+
 ( #has_/name :: has_value_for_dose_schedule )
 ( #has_/range :: DoseSchedule )
 

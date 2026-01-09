@@ -24,7 +24,7 @@ title: has_qualifications
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/qualifications :: EducationalOccupationalCredential, Text ] or 
@@ -33,7 +33,9 @@ Use it like this:
 Specific qualifications required for this role or Occupation.
 
 Relation describes that: 
-[ #has_/domain  :: JobPosting, Occupation ]
+
+#has_/domain  :: JobPosting, Occupation  
+
 ( #has_/name :: is_qualifications )
 ( #has_/range :: EducationalOccupationalCredential, Text )
 

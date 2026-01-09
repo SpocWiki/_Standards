@@ -31,14 +31,13 @@ Class of all nonprofit527s.
 Tag Instances like this: 
 #is_a_/nonprofit527
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Nonprofit527: Non-profit type referring to political organizations.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+#is_/sub_class_of :: [[../USNonprofitType]]  
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+#is_/enum_of :: [[../USNonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

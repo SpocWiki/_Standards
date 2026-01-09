@@ -40,12 +40,11 @@ Related actions:
 <li>[[SearchAction]]: FindAction is generally lead by a SearchAction, but not necessarily.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../Action]] ]
+#is_/sub_class_of :: [[../Action]]  
 
-[ #has_/sub_classes :: [ CheckAction, DiscoverAction, TrackAction ] ]
+#has_/sub_classes :: [ CheckAction, DiscoverAction, TrackAction ]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

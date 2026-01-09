@@ -35,7 +35,9 @@ Use it like this:
 The person or organization the reservation or ticket is for.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation, Ticket ]
+
+#has_/domain  :: Reservation, Ticket  
+
 ( #has_/name :: is_under_name )
 ( #has_/range :: Organization, Person )
 

@@ -38,7 +38,9 @@ Use it like this:
 Description of what changed in this version.
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_release_notes )
 ( #has_/range :: Text, URL )
 

@@ -36,7 +36,9 @@ Use it like this:
 Any membership in a frequent flyer, hotel loyalty program, etc. being applied to the reservation.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation ]
+
+#has_/domain  :: Reservation  
+
 ( #has_/name :: is_program_membership_used )
 ( #has_/range :: ProgramMembership )
 

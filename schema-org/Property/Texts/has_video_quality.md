@@ -38,7 +38,9 @@ Use it like this:
 The quality of the video.
 
 Predicated describes that: 
-[ #has_/domain  :: VideoObject ]
+
+#has_/domain  :: VideoObject  
+
 ( #has_/name :: has_text_of_video_quality )
 ( #has_/range :: Text )
 

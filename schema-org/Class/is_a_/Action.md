@@ -53,10 +53,9 @@ while `schema:Activity` is used for broader, ongoing processes or events that ma
 
 \_is_sub_class_of:: [[../Thing|Thing]]   
 
-[ #has_/sub_classes :: [ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ] ]
+#has_/sub_classes :: [ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

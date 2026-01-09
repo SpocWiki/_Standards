@@ -39,12 +39,13 @@ Use it like this:
 A single ingredient used in the recipe, e.g. sugar, flour or garlic.
 
 Predicated describes that: 
-[ #has_/domain  :: Recipe ]
+
+#has_/domain  :: Recipe  
+
 ( #has_/name :: has_text_of_recipe_ingredient )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: supply ]
-
+#is_/sub_property_of  :: supply  
 
 ## Confidential Links & Embeds: 
 

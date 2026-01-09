@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of stopping or deactivating a device or application (e.g. stopping a timer or turning off a flashlight).
 
-[ #is_/sub_class_of :: [[../ControlAction]] ]
+#is_/sub_class_of :: [[../ControlAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

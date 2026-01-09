@@ -34,12 +34,11 @@ Tag Instances like this:
 
 The act of notifying someone of information pertinent to them, with no expectation of a response.
 
-[ #is_/sub_class_of :: [[../CommunicateAction]] ]
+#is_/sub_class_of :: [[../CommunicateAction]]  
 
-[ #has_/sub_classes :: [ ConfirmAction, RsvpAction ] ]
+#has_/sub_classes :: [ ConfirmAction, RsvpAction ]  
 
-[ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

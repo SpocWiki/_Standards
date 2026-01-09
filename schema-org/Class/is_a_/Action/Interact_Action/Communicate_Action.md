@@ -34,12 +34,11 @@ Tag Instances like this:
 
 The act of conveying information to another person via a communication medium (instrument) such as speech, email, or telephone conversation.
 
-[ #is_/sub_class_of :: [[../InteractAction]] ]
+#is_/sub_class_of :: [[../InteractAction]]  
 
-[ #has_/sub_classes :: [ AskAction, CheckInAction, CheckOutAction, CommentAction, InformAction, InviteAction, ReplyAction, ShareAction ] ]
+#has_/sub_classes :: [ AskAction, CheckInAction, CheckOutAction, CommentAction, InformAction, InviteAction, ReplyAction, ShareAction ]  
 
-[ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

@@ -36,14 +36,13 @@ Class of all measurement_type_enumerations.
 Tag Instances like this: 
 #is_a_/measurement_type_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Enumeration of common measurement types (or dimensions), for example "chest" for a person, "inseam" for pants, "gauge" for screws, or "wheel" for bicycles.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
+#is_/sub_class_of :: [[../Enumeration]]  
 
-[ #has_/sub_classes :: [ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ] ]
-
+#has_/sub_classes :: [ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]  
 
 ## Confidential Links & Embeds: 
 

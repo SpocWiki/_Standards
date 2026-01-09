@@ -38,7 +38,9 @@ Use it like this:
 The cuisine of the restaurant.
 
 Predicated describes that: 
-[ #has_/domain  :: FoodEstablishment ]
+
+#has_/domain  :: FoodEstablishment  
+
 ( #has_/name :: has_text_of_serves_cuisine )
 ( #has_/range :: Text )
 

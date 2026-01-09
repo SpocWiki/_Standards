@@ -33,14 +33,13 @@ Class of all offline_event_attendance_modes.
 Tag Instances like this: 
 #is_an_/offline_event_attendance_mode
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 OfflineEventAttendanceMode - an event that is primarily conducted offline.
 
-[ #is_/sub_class_of :: [[../EventAttendanceModeEnumeration]] ]
+#is_/sub_class_of :: [[../EventAttendanceModeEnumeration]]  
 
-[ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
-
+#is_/enum_of :: [[../EventAttendanceModeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

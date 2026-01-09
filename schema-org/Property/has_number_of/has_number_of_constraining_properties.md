@@ -29,7 +29,7 @@ type: Predi_Count
 
 Predicate to describe the Number of StatisticalPopulation.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/number_of_/constraining_properties :: Integer ] or 
@@ -39,7 +39,9 @@ Indicates a property used as a constraint to define a [[StatisticalPopulation]] 
   corresponding to an indicated type (via [[populationType]]).
 
 Predicate describes that: 
-[ #has_/domain  :: StatisticalPopulation ]
+
+#has_/domain  :: StatisticalPopulation  
+
 ( #has_/name :: has_number_of_constraining_properties )
 ( #has_/range :: Integer )
 

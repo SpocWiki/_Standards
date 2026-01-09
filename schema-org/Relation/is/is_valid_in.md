@@ -33,7 +33,9 @@ Use it like this:
 The geographic area where a permit or similar thing is valid.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalCredential, Permit]
+
+#has_/domain  :: EducationalOccupationalCredential, Permit 
+
 ( #has_/name :: is_valid_in)
 ( #has_/range :: AdministrativeArea)
 

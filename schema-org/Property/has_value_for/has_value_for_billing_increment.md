@@ -36,7 +36,9 @@ Use it like this:
 This property specifies the minimal quantity and rounding increment that will be the basis for the billing. The unit of measurement is specified by the unitCode property.
 
 Predicate describes that: 
-[ #has_/domain  :: UnitPriceSpecification ]
+
+#has_/domain  :: UnitPriceSpecification  
+
 ( #has_/name :: has_value_for_billing_increment )
 ( #has_/range :: Number )
 

@@ -33,7 +33,7 @@ Class of all edited_or_cropped_contents.
 Tag Instances like this: 
 #is_an_/edited_or_cropped_content
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Content coded 'edited or cropped content' in a [[MediaReview]], 
 considered in the context of how it was published or shared.
@@ -49,10 +49,9 @@ The audio has been edited or rearranged. This category applies to time edits,
 including editing multiple audio clips together to alter the story being told
 or editing out large portions from the recording.
 
-[ #is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
+#is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]]  
 
-[ #is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
-
+#is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

@@ -31,12 +31,13 @@ Use it like this:
 A sub property of object. The candidate subject of this action.
 
 Relation describes that: 
-[ #has_/domain  :: VoteAction ]
+
+#has_/domain  :: VoteAction  
+
 ( #has_/name :: has_candidate )
 ( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

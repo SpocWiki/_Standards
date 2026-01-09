@@ -60,18 +60,25 @@ UNII: NKN7EZA750
 [GroupName::Lanthanide-Group]
 Group::[[../Lanthanide]]
 
+has_/name_/en::Praseodymium 
 
-[has_/name_/en::Praseodymium]
-[has_/name_/de::Praseodym]
-[has_/value_for_/weight_/u::140.9077]
+has_/name_/de::Praseodym 
+
+has_/value_for_/weight_/u::140.9077 
+
 [AtomRadius::2.67]
 [Atom-Vol-ccm-mol::20.8]
 [Unknown2::1.65]
-[has_/value_for_/radius_/nano_/m::5.46]
+
+has_/value_for_/radius_/nano_/m::5.46 
+
 [Electronegative::1.1]
 [Density::6.77]
-[has_/value_for_/temperature_/melt_/c ::931]
-[has_/value_for_/temperature_/boil_/c ::3212]
+
+has_/value_for_/temperature_/melt_/c ::931 
+
+has_/value_for_/temperature_/boil_/c ::3212 
+
 [HeatCapacity::0.19]
 [HeatConduct::0.125]
 [Enthalpy::6.89]

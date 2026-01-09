@@ -35,12 +35,13 @@ Use it like this:
 A relationship between two organizations where the first includes the second, e.g., as a subsidiary. See also: the more specific 'department' property.
 
 Relation describes that: 
-[ #has_/domain  :: Organization ]
+
+#has_/domain  :: Organization  
+
 ( #has_/name :: is_sub_organization )
 ( #has_/range :: Organization )
 
-[ #is_/inverse_of  :: parentOrganization ]
-
+#is_/inverse_of  :: parentOrganization  
 
 ## Confidential Links & Embeds: 
 

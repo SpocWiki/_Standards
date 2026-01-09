@@ -28,7 +28,7 @@ title: has_sd_publisher
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/sd_publisher :: Organization, Person ] or 
@@ -38,7 +38,9 @@ Indicates the party responsible for generating and publishing the current struct
 [[sdPublisher]] property helps make such practices more explicit.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_sd_publisher )
 ( #has_/range :: Organization, Person )
 

@@ -37,11 +37,11 @@ A list of items of any sort — for example, Top 10 Movies About Weathermen, or 
 [[../Class/is_sub_class_of|is_subclass_of]] 
 [[has_sub classe]]
 
-[ #is_/sub_class_of ::[[../Class/is_a_/Intangible]]] ]
+#is_/sub_class_of ::[[../Class/is_a_/Intangible]]]  
 
-[ #has_/sub_classes :: [ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ] ]
+#has_/sub_classes :: [ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ] ]
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]  
 
 [[has_properties]] 
 [[is_property_of]] 

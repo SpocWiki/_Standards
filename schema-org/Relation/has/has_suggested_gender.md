@@ -35,7 +35,9 @@ Use it like this:
 The suggested gender of the intended person or audience, for example "male", "female", or "unisex".
 
 Relation describes that: 
-[ #has_/domain  :: PeopleAudience, SizeSpecification ]
+
+#has_/domain  :: PeopleAudience, SizeSpecification  
+
 ( #has_/name :: is_suggested_gender )
 ( #has_/range :: GenderType, Text )
 

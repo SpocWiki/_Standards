@@ -28,7 +28,7 @@ title: is_published_by
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
 - [ #is_/published_by :: Organization, Person ] or 
@@ -37,7 +37,9 @@ Use it like this:
 An agent associated with the publication event.
 
 Relation describes that: 
-[ #has_/domain  :: PublicationEvent ]
+
+#has_/domain  :: PublicationEvent  
+
 ( #has_/name :: is_published_by )
 ( #has_/range :: Organization, Person )
 

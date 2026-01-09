@@ -37,12 +37,13 @@ Use it like this:
 An organization that the person is an alumni of.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_alumni_of )
 ( #has_/range :: EducationalOrganization, Organization )
 
-[ #is_/inverse_of  :: [[has_alumni]] ]
-
+#is_/inverse_of  :: [[has_alumni]]  
 
 ## Confidential Links & Embeds: 
 

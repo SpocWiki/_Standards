@@ -37,7 +37,9 @@ Use it like this:
 The identifier for the [[../../../Society/Communication/Media/Creative_Work/Course]] used by the course [[provider]] (e.g. CS101 or 6.001).
 
 Predicated describes that: 
-[ #has_/domain  :: Course ]
+
+#has_/domain  :: Course  
+
 ( #has_/name :: has_code_of_course )
 ( #has_/range :: Text )
 

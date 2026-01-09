@@ -38,7 +38,9 @@ Use it like this:
 The algorithm or rules to follow to compute the score.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalRiskScore ]
+
+#has_/domain  :: MedicalRiskScore  
+
 ( #has_/name :: has_text_of_algorithm )
 ( #has_/range :: Text )
 

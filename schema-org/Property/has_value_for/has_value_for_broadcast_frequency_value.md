@@ -37,7 +37,9 @@ Use it like this:
 The frequency in MHz for a particular broadcast.
 
 Predicate describes that: 
-[ #has_/domain  :: BroadcastFrequencySpecification ]
+
+#has_/domain  :: BroadcastFrequencySpecification  
+
 ( #has_/name :: has_value_for_broadcast_frequency )
 ( #has_/range :: Number, QuantitativeValue )
 

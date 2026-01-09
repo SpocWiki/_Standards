@@ -37,7 +37,9 @@ Use it like this:
 Permission(s) required to run the app (for example, a mobile app may require full internet access or may run only on wifi).
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_permissions )
 ( #has_/range :: Text )
 

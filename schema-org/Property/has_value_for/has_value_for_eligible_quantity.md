@@ -36,7 +36,9 @@ Use it like this:
 The interval and unit of measurement of ordering quantities for which the offer or price specification is valid. This allows e.g. specifying that a certain freight charge is valid only for a certain quantity.
 
 Predicate describes that: 
-[ #has_/domain  :: Demand, Offer, PriceSpecification ]
+
+#has_/domain  :: Demand, Offer, PriceSpecification  
+
 ( #has_/name :: has_value_for_eligible_quantity )
 ( #has_/range :: QuantitativeValue )
 

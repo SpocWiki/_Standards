@@ -29,7 +29,7 @@ type: Predi_Count
 
 Predicate to describe the Number of Vehicle.
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
 - [ #has_/number_of_/seating_capacity :: Number, QuantitativeValue ] or 
@@ -42,7 +42,9 @@ The number of persons that can be seated (e.g. in a vehicle), both in terms of t
 Typical unit code(s): C62 for persons
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_number_of_seating_capacity )
 ( #has_/range :: Number, QuantitativeValue )
 

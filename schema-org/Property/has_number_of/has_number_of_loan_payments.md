@@ -29,7 +29,7 @@ type: Predi_Count
 
 Predicate to describe the Number of RepaymentSpecification.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/number_of_/loan_payments :: Number ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The number of payments contractually required at origination to repay the loan. For monthly paying loans this is the number of months from the contractual first payment date to the maturity date.
 
 Predicate describes that: 
-[ #has_/domain  :: RepaymentSpecification ]
+
+#has_/domain  :: RepaymentSpecification  
+
 ( #has_/name :: has_number_of_loan_payments )
 ( #has_/range :: Number )
 

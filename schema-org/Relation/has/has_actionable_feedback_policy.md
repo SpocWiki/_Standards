@@ -27,7 +27,7 @@ title: has_actionable_feedback_policy
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/actionable_feedback_policy :: CreativeWork, URL ] or 
@@ -39,12 +39,13 @@ including involving the public - digitally or otherwise --
 in coverage decisions, reporting and activities after publication.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization, Organization ]
+
+#has_/domain  :: NewsMediaOrganization, Organization  
+
 ( #has_/name :: has_actionable_feedback_policy )
 ( #has_/range :: CreativeWork, URL )
 
-[ #is_/sub_property_of  :: publishingPrinciples ]
-
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

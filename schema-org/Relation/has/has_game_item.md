@@ -35,7 +35,9 @@ Use it like this:
 An item is an object within the game world that can be collected by a player or, occasionally, a non-player character.
 
 Relation describes that: 
-[ #has_/domain  :: Game, VideoGameSeries ]
+
+#has_/domain  :: Game, VideoGameSeries  
+
 ( #has_/name :: has_game_item )
 ( #has_/range :: Thing )
 

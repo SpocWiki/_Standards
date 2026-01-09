@@ -35,7 +35,9 @@ Use it like this:
 An eventStatus of an event represents its status; particularly useful when an event is cancelled or rescheduled.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: has_event_status )
 ( #has_/range :: EventStatusType )
 

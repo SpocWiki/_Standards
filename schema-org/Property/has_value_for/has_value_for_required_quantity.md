@@ -36,7 +36,9 @@ Use it like this:
 The required quantity of the item(s).
 
 Predicate describes that: 
-[ #has_/domain  :: HowToItem ]
+
+#has_/domain  :: HowToItem  
+
 ( #has_/name :: has_value_for_required_quantity )
 ( #has_/range :: Number, QuantitativeValue, Text )
 

@@ -36,7 +36,9 @@ Use it like this:
 - [ has_instances :: [[../Class]] ] 
 
 Relation describes that: 
-[ #has_/domain  :: [[../Class]] ]
+
+#has_/domain  :: [[../Class]]  
+
 ( #has_/name :: has_instances )
 ( #has_/range :: [[Thing]] )
 

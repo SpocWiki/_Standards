@@ -28,7 +28,7 @@ title: has_ethics_policy
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/ethics_policy :: CreativeWork, URL ] or 
@@ -37,7 +37,9 @@ Use it like this:
 Statement about ethics policy, e.g. of a [[NewsMediaOrganization]] regarding journalistic and publishing practices, or of a [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant]], a page describing food source policies. In the case of a [[NewsMediaOrganization]], an ethicsPolicy is typically a statement describing the personal, organizational, and corporate standards of behavior expected by the organization.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization, Organization ]
+
+#has_/domain  :: NewsMediaOrganization, Organization  
+
 ( #has_/name :: has_ethics_policy )
 ( #has_/range :: CreativeWork, URL )
 

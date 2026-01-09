@@ -38,12 +38,13 @@ Use it like this:
 The series to which this episode or season belongs.
 
 [[../../../Relation|Relation]] describes that: 
-[ #has_/domain  :: [ [[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]], [[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]], [[../../../../Society/Communication/Media/Creative_Work/Episode|Episode]] ] ]
+
+#has_/domain  :: [ [[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]], [[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]], [[../../../../Society/Communication/Media/Creative_Work/Episode|Episode]] ]  
+
 ( #has_/name :: is_part_of_series )
 ( #has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]] )
 
-[ #is_/sub_property_of  :: [[../../../Composite/is_part_of]] ]
-
+#is_/sub_property_of  :: [[../../../Composite/is_part_of]]  
 
 ## Confidential Links & Embeds: 
 

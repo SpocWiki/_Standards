@@ -37,7 +37,9 @@ Or write it as a Triple:
 Whether or not a property is mutable.  Default is false. Specifying this for a property that also has a value makes it act similar to a "hidden" input in an HTML form.
 
 Predicate describes that: 
-[ #has_/domain  :: PropertyValueSpecification ]
+
+#has_/domain  :: PropertyValueSpecification  
+
 ( #has_/name :: is_readonly )
 ( #has_/range :: Boolean )
 

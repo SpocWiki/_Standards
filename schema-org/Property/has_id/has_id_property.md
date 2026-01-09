@@ -40,7 +40,9 @@ a URL indicating the type of the property, either pointing to an external vocabu
 Standards bodies should promote a standard prefix for the identifiers of properties from their standards.
 
 Predicated describes that: 
-[ #has_/domain  :: PropertyValue ]
+
+#has_/domain  :: PropertyValue  
+
 ( #has_/name :: has_id_property )
 ( #has_/range :: Text, URL )
 

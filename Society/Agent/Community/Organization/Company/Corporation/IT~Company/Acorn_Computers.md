@@ -1,7 +1,7 @@
 
 # [[Acorn_Computers]]
 
-[#has_/creator :: [ "[[Hauser,Hermann]]", "[[Curry,Chris]]" ] ] 
+#has_/creator :: [ "[[Hauser,Hermann]]", "[[Curry,Chris]]" ]  
 
 > Acorn Computers Ltd. was a British computer company established in Cambridge, England, in 1978. 
 > The company produced a number of computers which were especially popular in the UK, including the Acorn Electron and the Acorn Archimedes. 

@@ -33,14 +33,13 @@ Class of all cleaning_fees.
 Tag Instances like this: 
 #is_a_/cleaning_fee
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the cleaning fee part of the total price for an offered product, for example a vacation rental.
 
-[ #is_/sub_class_of :: [[../PriceComponentTypeEnumeration]] ]
+#is_/sub_class_of :: [[../PriceComponentTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
-
+#is_/enum_of :: [[../PriceComponentTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

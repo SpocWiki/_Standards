@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of expressing a preference from a fixed/finite/structured set of choices/options.
 
-[ #is_/sub_class_of :: [[../ChooseAction]] ]
+#is_/sub_class_of :: [[../ChooseAction]]  
 
-[ #has_/properties :: [ actionOption, actionStatus, additionalType, agent, alternateName, candidate, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionOption, actionStatus, additionalType, agent, alternateName, candidate, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

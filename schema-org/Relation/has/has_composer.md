@@ -34,7 +34,9 @@ Use it like this:
 The person or organization who wrote a composition, or who is the composer of a work performed at some event.
 
 Relation describes that: 
-[ #has_/domain  :: Event, MusicComposition ]
+
+#has_/domain  :: Event, MusicComposition  
+
 ( #has_/name :: has_composer )
 ( #has_/range :: Organization, Person )
 

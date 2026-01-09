@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of CreativeWork.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/material_extent :: QuantitativeValue, Text ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The quantity of the materials being described or an expression of the physical space they occupy.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_value_for_material_extent )
 ( #has_/range :: QuantitativeValue, Text )
 

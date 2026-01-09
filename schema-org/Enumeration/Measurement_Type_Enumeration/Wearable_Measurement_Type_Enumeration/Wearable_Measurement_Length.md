@@ -33,14 +33,13 @@ Class of all wearable_measurement_lengths.
 Tag Instances like this: 
 #is_a_/wearable_measurement_length
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the length, for example of a dress
 
-[ #is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]] ]
+#is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
-
+#is_/enum_of :: [[../WearableMeasurementTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

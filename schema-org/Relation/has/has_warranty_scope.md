@@ -35,7 +35,9 @@ Use it like this:
 The scope of the warranty promise.
 
 Relation describes that: 
-[ #has_/domain  :: WarrantyPromise ]
+
+#has_/domain  :: WarrantyPromise  
+
 ( #has_/name :: is_warranty_scope )
 ( #has_/range :: WarrantyScope )
 

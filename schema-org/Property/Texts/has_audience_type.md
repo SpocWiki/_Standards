@@ -38,7 +38,9 @@ Use it like this:
 The target group associated with a given audience (e.g. veterans, car owners, musicians, etc.).
 
 Predicated describes that: 
-[ #has_/domain  :: Audience ]
+
+#has_/domain  :: Audience  
+
 ( #has_/name :: has_text_of_audience_type )
 ( #has_/range :: Text )
 

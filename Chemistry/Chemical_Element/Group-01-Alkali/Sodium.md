@@ -129,19 +129,25 @@ ZVG_number: 8080
 [GroupName::Group-01-Alkali]
 Group::[[../Group-01-Alkali]]
 
+has_/name_/en::Sodium 
 
-[has_/name_/en::Sodium]
-[has_/name_/de::Natrium]
+has_/name_/de::Natrium 
 
-[has_/value_for_/weight_/u::22.9898]
+has_/value_for_/weight_/u::22.9898 
+
 [AtomRadius::2.23]
 [Atom-Vol-ccm-mol::23.7]
 [Unknown2::1.54]
-[has_/value_for_/radius_/nano_/m::5.139]
+
+has_/value_for_/radius_/nano_/m::5.139 
+
 [Electronegative::0.9]
 [Density::0.97]
-[has_/value_for_/temperature_/melt_/c ::97.81]
-[has_/value_for_/temperature_/boil_/c ::882.9]
+
+has_/value_for_/temperature_/melt_/c ::97.81 
+
+has_/value_for_/temperature_/boil_/c ::882.9 
+
 [HeatCapacity::1.23]
 [HeatConduct::1.41]
 [Enthalpy::2.598]

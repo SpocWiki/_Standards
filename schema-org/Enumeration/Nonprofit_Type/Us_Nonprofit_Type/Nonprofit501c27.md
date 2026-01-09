@@ -31,14 +31,13 @@ Class of all nonprofit501c27s.
 Tag Instances like this: 
 #is_a_/nonprofit501c27
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Nonprofit501c27: Non-profit type referring to State~Sponsored Workers' Compensation Reinsurance Organizations.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+#is_/sub_class_of :: [[../USNonprofitType]]  
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+#is_/enum_of :: [[../USNonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

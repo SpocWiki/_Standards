@@ -31,14 +31,13 @@ Class of all downpayments.
 Tag Instances like this: 
 #is_a_/downpayment
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the downpayment (up-front payment) price component of the total price for an offered product that has additional installment payments.
 
-[ #is_/sub_class_of :: [[../PriceComponentTypeEnumeration]] ]
+#is_/sub_class_of :: [[../PriceComponentTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
-
+#is_/enum_of :: [[../PriceComponentTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

@@ -48,10 +48,9 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#PaySwarm</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
+#is_/sub_class_of :: [[../Enumeration]]  
 
-[ #has_/sub_classes :: [ PaymentCard ] ]
-
+#has_/sub_classes :: [ PaymentCard ]  
 
 ## Confidential Links & Embeds: 
 

@@ -32,7 +32,7 @@ type: Pred_Text
 
 Predicate to describe the Text of JobPosting.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/security_clearance_requirement :: Text, URL ] or 
@@ -41,7 +41,9 @@ Use it like this:
 A description of any security clearance requirements of the job.
 
 Predicated describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_text_of_security_clearance_requirement )
 ( #has_/range :: Text, URL )
 

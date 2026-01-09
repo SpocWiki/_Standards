@@ -33,14 +33,13 @@ Class of all mixed_event_attendance_modes.
 Tag Instances like this: 
 #is_a_/mixed_event_attendance_mode
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 MixedEventAttendanceMode - an event that is conducted as a combination of both offline and online modes.
 
-[ #is_/sub_class_of :: [[../EventAttendanceModeEnumeration]] ]
+#is_/sub_class_of :: [[../EventAttendanceModeEnumeration]]  
 
-[ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
-
+#is_/enum_of :: [[../EventAttendanceModeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

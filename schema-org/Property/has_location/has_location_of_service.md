@@ -36,7 +36,9 @@ Use it like this:
 The location (e.g. civic structure, local business, etc.) where a person can go to access the service.
 
 Predicate describes that: 
-[ #has_/domain  :: ServiceChannel ]
+
+#has_/domain  :: ServiceChannel  
+
 ( #has_/name :: has_location_of_service )
 ( #has_/range :: Place )
 

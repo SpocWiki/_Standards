@@ -36,7 +36,9 @@ Use it like this:
 The age of the business.
 
 Predicate describes that: 
-[ #has_/domain  :: BusinessAudience ]
+
+#has_/domain  :: BusinessAudience  
+
 ( #has_/name :: has_value_for_years_in_operation )
 ( #has_/range :: QuantitativeValue )
 

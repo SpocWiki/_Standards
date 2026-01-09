@@ -28,7 +28,7 @@ title: has_teaches
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #is_/teaching :: DefinedTerm, Text ] or 
@@ -38,7 +38,9 @@ The Subject/item being described is intended
 to help a person learn the competency or learning outcome defined by the referenced term.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, EducationEvent, LearningResource ]
+
+#has_/domain  :: CreativeWork, EducationEvent, LearningResource  
+
 ( #has_/name :: is_teaches )
 ( #has_/range :: DefinedTerm, Text )
 

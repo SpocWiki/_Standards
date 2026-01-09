@@ -37,7 +37,9 @@ Use it like this:
 Indicates the name of the PropertyValueSpecification to be used in URL templates and form encoding in a manner analogous to HTML's input@name.
 
 Predicated describes that: 
-[ #has_/domain  :: PropertyValueSpecification ]
+
+#has_/domain  :: PropertyValueSpecification  
+
 ( #has_/name :: has_name_of_value )
 ( #has_/range :: Text )
 

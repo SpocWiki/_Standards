@@ -35,12 +35,13 @@ Use it like this:
 A sub property of location. The specific food establishment where the action occurred.
 
 Relation describes that: 
-[ #has_/domain  :: CookAction ]
+
+#has_/domain  :: CookAction  
+
 ( #has_/name :: has_food_establishment )
 ( #has_/range :: FoodEstablishment, Place )
 
-[ #is_/sub_property_of  :: location ]
-
+#is_/sub_property_of  :: location  
 
 ## Confidential Links & Embeds: 
 

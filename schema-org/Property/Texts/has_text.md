@@ -37,7 +37,9 @@ Use it like this:
 The textual content of this CreativeWork.
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_text_of_text )
 ( #has_/range :: Text )
 

@@ -36,7 +36,9 @@ Use it like this:
 The estimated cost of the supply or supplies consumed when performing instructions.
 
 Predicate describes that: 
-[ #has_/domain  :: HowTo, HowToSupply ]
+
+#has_/domain  :: HowTo, HowToSupply  
+
 ( #has_/name :: has_value_for_estimated_cost )
 ( #has_/range :: MonetaryAmount, Text )
 

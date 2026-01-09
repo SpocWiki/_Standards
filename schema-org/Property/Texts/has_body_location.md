@@ -38,7 +38,9 @@ Use it like this:
 Location in the body of the anatomical structure.
 
 Predicated describes that: 
-[ #has_/domain  :: AnatomicalStructure, MedicalProcedure ]
+
+#has_/domain  :: AnatomicalStructure, MedicalProcedure  
+
 ( #has_/name :: has_text_of_body_location )
 ( #has_/range :: Text )
 

@@ -38,7 +38,9 @@ Use it like this:
 The currency (coded using [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217)) used for the main salary information in this job posting or for this employee.
 
 Predicated describes that: 
-[ #has_/domain  :: EmployeeRole, JobPosting ]
+
+#has_/domain  :: EmployeeRole, JobPosting  
+
 ( #has_/name :: has_text_of_salary_currency )
 ( #has_/range :: Text )
 

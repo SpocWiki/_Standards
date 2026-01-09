@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Book format: Audiobook. This is an enumerated value for use with the bookFormat property. There is also a type 'Audiobook' in the bib extension which includes Audiobook specific properties.
 
-[ #is_/sub_class_of :: [[../BookFormatType]] ]
+#is_/sub_class_of :: [[../BookFormatType]]  
 
-[ #is_/enum_of :: [[../BookFormatType]] ]
-
+#is_/enum_of :: [[../BookFormatType]]  
 
 ## Confidential Links & Embeds: 
 

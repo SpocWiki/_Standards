@@ -35,7 +35,9 @@ Use it like this:
 A piece of data that represents a particular aspect of a fictional character (skill, power, character points, advantage, disadvantage).
 
 Relation describes that: 
-[ #has_/domain  :: Game, VideoGameSeries ]
+
+#has_/domain  :: Game, VideoGameSeries  
+
 ( #has_/name :: has_character_attribute )
 ( #has_/range :: Thing )
 

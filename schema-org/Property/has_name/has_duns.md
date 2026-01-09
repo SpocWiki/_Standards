@@ -37,12 +37,13 @@ Use it like this:
 The Dun & Bradstreet DUNS number for identifying an organization or business person.
 
 Predicated describes that: 
-[ #has_/domain  :: Organization, Person ]
+
+#has_/domain  :: Organization, Person  
+
 ( #has_/name :: has_text_of_duns )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

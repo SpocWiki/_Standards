@@ -29,7 +29,7 @@ title: is_part_of_trip
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #is_/part_of_/trip :: Trip ] or 
@@ -38,12 +38,13 @@ Use it like this:
 Identifies that this [[Trip]] is a subTrip of another Trip.  For example Day 1, Day 2, etc. of a multi-day trip.
 
 Relation describes that: 
-[ #has_/domain  :: Trip ]
+
+#has_/domain  :: Trip  
+
 ( #has_/name :: is_part_of_trip )
 ( #has_/range :: Trip )
 
-[ #is_/inverse_of  :: subTrip ]
-
+#is_/inverse_of  :: subTrip  
 
 ## Confidential Links & Embeds: 
 

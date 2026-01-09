@@ -32,12 +32,11 @@ Class of all wearable_size_system_enumerations.
 Tag Instances like this: 
 #is_a_/wearable_size_system_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Enumerates common size systems specific for wearable products
 
-[ #is_/sub_class_of :: [[../SizeSystemEnumeration]] ]
-
+#is_/sub_class_of :: [[../SizeSystemEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

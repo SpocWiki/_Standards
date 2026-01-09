@@ -37,7 +37,9 @@ Use it like this:
 The area to which the artery supplies blood.
 
 Relation describes that: 
-[ #has_/domain  :: Artery ]
+
+#has_/domain  :: Artery  
+
 ( #has_/name :: is_supply_for )
 ( #has_/range :: AnatomicalStructure )
 

@@ -38,7 +38,9 @@ Use it like this:
 An active ingredient, typically chemical compounds and/or biologic substances.
 
 Predicated describes that: 
-[ #has_/domain  :: DietarySupplement, Drug, DrugStrength, Substance ]
+
+#has_/domain  :: DietarySupplement, Drug, DrugStrength, Substance  
+
 ( #has_/name :: has_text_of_active_ingredient )
 ( #has_/range :: Text )
 

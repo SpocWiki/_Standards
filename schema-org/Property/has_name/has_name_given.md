@@ -38,7 +38,9 @@ Use it like this:
 Given name. In the U.S., the first name of a Person.
 
 Predicated describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_name_given )
 ( #has_/range :: Text )
 

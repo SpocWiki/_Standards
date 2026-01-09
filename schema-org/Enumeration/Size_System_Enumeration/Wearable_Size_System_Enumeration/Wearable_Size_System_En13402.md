@@ -33,14 +33,13 @@ Class of all wearable_size_system_en13402s.
 Tag Instances like this: 
 #is_a_/wearable_size_system_en13402
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 EN 13402 (joint European standard for size labelling of clothes).
 
-[ #is_/sub_class_of :: [[../WearableSizeSystemEnumeration]] ]
+#is_/sub_class_of :: [[../WearableSizeSystemEnumeration]]  
 
-[ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
-
+#is_/enum_of :: [[../WearableSizeSystemEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

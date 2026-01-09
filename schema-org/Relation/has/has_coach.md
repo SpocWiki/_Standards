@@ -31,7 +31,9 @@ Use it like this:
 A person that acts in a coaching role for a sports team.
 
 Relation describes that: 
-[ #has_/domain  :: SportsTeam ]
+
+#has_/domain  :: SportsTeam  
+
 ( #has_/name :: has_coach )
 ( #has_/range :: Person )
 

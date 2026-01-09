@@ -38,7 +38,9 @@ Use it like this:
 The type of tissue sample required for the test.
 
 Predicated describes that: 
-[ #has_/domain  :: PathologyTest ]
+
+#has_/domain  :: PathologyTest  
+
 ( #has_/name :: has_text_of_tissue_sample )
 ( #has_/range :: Text )
 

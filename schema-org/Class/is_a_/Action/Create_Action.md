@@ -34,12 +34,11 @@ Tag Instances like this:
 
 The act of deliberately creating/producing/generating/building a result out of the agent.
 
-[ #is_/sub_class_of :: [[../Action]] ]
+#is_/sub_class_of :: [[../Action]]  
 
-[ #has_/sub_classes :: [ CookAction, DrawAction, FilmAction, PaintAction, PhotographAction, WriteAction ] ]
+#has_/sub_classes :: [ CookAction, DrawAction, FilmAction, PaintAction, PhotographAction, WriteAction ]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

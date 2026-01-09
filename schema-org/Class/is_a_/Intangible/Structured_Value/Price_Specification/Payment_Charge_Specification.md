@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The costs of settling the payment using a particular payment method.
 
-[ #is_/sub_class_of :: [[../PriceSpecification]] ]
+#is_/sub_class_of :: [[../PriceSpecification]]  
 
-[ #has_/properties :: [ additionalType, alternateName, appliesToDeliveryMethod, appliesToPaymentMethod, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
-
+#has_/properties :: [ additionalType, alternateName, appliesToDeliveryMethod, appliesToPaymentMethod, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]  
 
 ## Confidential Links & Embeds: 
 

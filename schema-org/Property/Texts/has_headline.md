@@ -37,7 +37,9 @@ Use it like this:
 Headline of the article.
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_text_of_headline )
 ( #has_/range :: Text )
 

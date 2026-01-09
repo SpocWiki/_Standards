@@ -37,7 +37,9 @@ Or write it as a Triple:
 True if the drug is available in a generic form (regardless of name).
 
 Predicate describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: is_available_generically )
 ( #has_/range :: Boolean )
 

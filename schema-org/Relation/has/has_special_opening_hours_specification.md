@@ -41,7 +41,9 @@ The special opening hours of a certain place.
 Use this to explicitly override general opening hours brought in scope by [[openingHoursSpecification]] or [[openingHours]].
 
 Relation describes that: 
-[ #has_/domain  :: Place ]
+
+#has_/domain  :: Place  
+
 ( #has_/name :: is_special_opening_hours_specification )
 ( #has_/range :: OpeningHoursSpecification )
 

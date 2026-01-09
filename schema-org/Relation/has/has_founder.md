@@ -37,7 +37,9 @@ Use it like this:
 #is_/sub_relation_of :: [[has_creator]]
 
 Relation describes that:  
-[ #has_/domain  :: Organization ]
+
+#has_/domain  :: Organization  
+
 ( #has_/name :: has_founder )
 ( #has_/range :: Person )
 

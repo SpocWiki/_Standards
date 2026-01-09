@@ -37,7 +37,9 @@ Use it like this:
 The value of the dose, e.g. 500.
 
 Predicate describes that: 
-[ #has_/domain  :: DoseSchedule ]
+
+#has_/domain  :: DoseSchedule  
+
 ( #has_/name :: has_value_for_dose )
 ( #has_/range :: Number, QualitativeValue )
 

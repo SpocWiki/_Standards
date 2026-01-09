@@ -38,14 +38,15 @@ The spatialCoverage of a CreativeWork indicates the place(s) which are the focus
 	  areas that the dataset describes: a dataset of New York weather would have spatialCoverage which was the place: the state of New York.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_location_spatial_coverage )
 ( #has_/range :: Place )
 
-[ #is_/sub_property_of  :: contentLocation ]
+#is_/sub_property_of  :: contentLocation  
 
-[ #has_/sub_properties :: [ announcementLocation, legislationJurisdiction ] ]
-
+#has_/sub_properties :: [ announcementLocation, legislationJurisdiction ]  
 
 ## Confidential Links & Embeds: 
 

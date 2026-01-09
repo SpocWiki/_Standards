@@ -38,7 +38,9 @@ Use it like this:
 Additional details to capture the origin of the cost data. For example, "Medicare Part B".
 
 Predicated describes that: 
-[ #has_/domain  :: DrugCost ]
+
+#has_/domain  :: DrugCost  
+
 ( #has_/name :: has_text_of_cost_origin )
 ( #has_/range :: Text )
 

@@ -36,7 +36,9 @@ Use it like this:
 The product that this structured value is referring to.
 
 Relation describes that: 
-[ #has_/domain  :: OwnershipInfo, TypeAndQuantityNode ]
+
+#has_/domain  :: OwnershipInfo, TypeAndQuantityNode  
+
 ( #has_/name :: is_type_of_good )
 ( #has_/range :: Product, Service )
 

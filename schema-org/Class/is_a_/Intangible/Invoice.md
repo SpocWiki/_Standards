@@ -32,10 +32,9 @@ Tag Instances like this:
 
 A statement of the money due for goods or services; a bill.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ accountId, additionalType, alternateName, billingPeriod, broker, category, confirmationNumber, customer, description, disambiguatingDescription, identifier, image, mainEntityOfPage, minimumPaymentDue, name, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentStatus, potentialAction, provider, referencesOrder, sameAs, scheduledPaymentDate, subjectOf, totalPaymentDue, url ] ]
-
+#has_/properties :: [ accountId, additionalType, alternateName, billingPeriod, broker, category, confirmationNumber, customer, description, disambiguatingDescription, identifier, image, mainEntityOfPage, minimumPaymentDue, name, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentStatus, potentialAction, provider, referencesOrder, sameAs, scheduledPaymentDate, subjectOf, totalPaymentDue, url ]  
 
 ## Confidential Links & Embeds: 
 

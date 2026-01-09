@@ -37,7 +37,9 @@ Use it like this:
 The payment method(s) accepted by seller for this offer.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer ]
+
+#has_/domain  :: Demand, Offer  
+
 ( #has_/name :: has_accepted_payment_method )
 ( #has_/range :: LoanOrCredit, PaymentMethod )
 

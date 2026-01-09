@@ -35,7 +35,9 @@ Use it like this:
 The geographic area associated with the audience.
 
 Relation describes that: 
-[ #has_/domain  :: Audience ]
+
+#has_/domain  :: Audience  
+
 ( #has_/name :: has_geographic_area )
 ( #has_/range :: AdministrativeArea )
 

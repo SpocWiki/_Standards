@@ -35,7 +35,9 @@ Use it like this:
 A [[../../../Society/Communication/Media/Creative_Work/Review|review]] of the item.
 
 [[../../Relation|Relation]] describes that: 
-[#has_/domain  :: [ [[../../Class/is_a_/Intangible/brand|Brand]], [[../../../Society/Communication/Media/Creative_Work|CreativeWork]], [[../../Class/is_a_/event|Event]], [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]], [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Earth/Geography/Place|Place]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]], [[../../../Society/Agent/Community/Organization/Business/Service|Service]] ] ]
+
+#has_/domain  :: [ [[../../Class/is_a_/Intangible/brand|Brand]], [[../../../Society/Communication/Media/Creative_Work|CreativeWork]], [[../../Class/is_a_/event|Event]], [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]], [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Earth/Geography/Place|Place]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]], [[../../../Society/Agent/Community/Organization/Business/Service|Service]] ]  
+
 ( #has_/name :: has_review )
 ( #has_/range :: [[../../../Society/Communication/Media/Creative_Work/Review|Review]] )
 

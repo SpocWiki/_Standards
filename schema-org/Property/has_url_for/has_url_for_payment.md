@@ -37,7 +37,9 @@ Use it like this:
 The URL for sending a payment.
 
 Predicate describes that: 
-[ #has_/domain  :: Order ]
+
+#has_/domain  :: Order  
+
 ( #has_/name :: has_url_for_payment_url )
 ( #has_/range :: URL )
 

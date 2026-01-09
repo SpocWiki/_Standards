@@ -36,12 +36,13 @@ Use it like this:
 A sub property of instrument. The diet used in this action.
 
 Relation describes that: 
-[ #has_/domain  :: ExerciseAction ]
+
+#has_/domain  :: ExerciseAction  
+
 ( #has_/name :: has_exercise_related_diet )
 ( #has_/range :: Diet )
 
-[ #is_/sub_property_of  :: instrument ]
-
+#is_/sub_property_of  :: instrument  
 
 ## Confidential Links & Embeds: 
 

@@ -50,12 +50,13 @@ Use it like this:
 - [ has_participants :: Organization, Person ] 
 
 Relation describes that: 
-[ #has_/domain  :: Action ]
+
+#has_/domain  :: Action  
+
 ( #has_/name :: has_participant )
 ( #has_/range :: Organization, Person )
 
-[ #has_/sub_properties :: [ borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner ] ]
-
+#has_/sub_properties :: [ borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner ]  
 
 ## Confidential Links & Embeds: 
 

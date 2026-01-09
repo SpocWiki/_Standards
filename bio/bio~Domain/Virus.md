@@ -92,8 +92,10 @@ Tag Instances like this:
 #is_a_/virus
 #is_an_/infectious_agent
 
-[ #is_/sub_class_of :: [[../InfectiousAgentClass]] ]
-[ #is_/enum_of :: [[../InfectiousAgentClass]] ]
+#is_/sub_class_of :: [[../InfectiousAgentClass]]  
+
+#is_/enum_of :: [[../InfectiousAgentClass]]  
+
 #is_/same_as :: [[../../WikiData/WD~Virus,808]]
 
 

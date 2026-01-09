@@ -36,7 +36,9 @@ Use it like this:
 The number of screens in the movie theater.
 
 Predicate describes that: 
-[ #has_/domain  :: MovieTheater ]
+
+#has_/domain  :: MovieTheater  
+
 ( #has_/name :: has_number_of_screen_count )
 ( #has_/range :: Number )
 

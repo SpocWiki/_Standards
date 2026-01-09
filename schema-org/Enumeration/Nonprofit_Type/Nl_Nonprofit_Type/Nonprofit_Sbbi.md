@@ -33,14 +33,13 @@ Class of all nonprofit_sbbis.
 Tag Instances like this: 
 #is_a_/nonprofit_sbbi
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institution (NL).
 
-[ #is_/sub_class_of :: [[../NLNonprofitType]] ]
+#is_/sub_class_of :: [[../NLNonprofitType]]  
 
-[ #is_/enum_of :: [[../NLNonprofitType]] ]
-
+#is_/enum_of :: [[../NLNonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

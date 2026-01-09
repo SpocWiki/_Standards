@@ -38,7 +38,9 @@ If it is not clear whether an entity is a broker, seller, or buyer, the latter t
 This `supersedes` the Term `bookingAgent`. 
 
 Relation describes that: 
-[ #has_/domain  :: Invoice, Order, Reservation, Service ]
+
+#has_/domain  :: Invoice, Order, Reservation, Service  
+
 ( #has_/name :: has_broker )
 ( #has_/range :: Organization, Person )
 

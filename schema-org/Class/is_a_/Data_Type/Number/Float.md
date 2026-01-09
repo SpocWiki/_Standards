@@ -32,8 +32,7 @@ Tag Instances like this:
 
 Data type: Floating number.
 
-[ #is_/sub_class_of :: [[../Number]] ]
-
+#is_/sub_class_of :: [[../Number]]  
 
 ## Confidential Links & Embeds: 
 

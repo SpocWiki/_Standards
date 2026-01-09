@@ -36,7 +36,9 @@ Use it like this:
 The number of attendee places for an event that remain unallocated.
 
 Predicate describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: has_number_of_remaining_attendees )
 ( #has_/range :: Integer )
 

@@ -36,12 +36,13 @@ Use it like this:
 The quantity that results by performing instructions. For example, a paper airplane, 10 personalized candles.
 
 Predicate describes that: 
-[ #has_/domain  :: HowTo ]
+
+#has_/domain  :: HowTo  
+
 ( #has_/name :: has_value_for_yield )
 ( #has_/range :: QuantitativeValue, Text )
 
-[ #has_/sub_properties :: [ recipeYield ] ]
-
+#has_/sub_properties :: [ recipeYield ]  
 
 ## Confidential Links & Embeds: 
 

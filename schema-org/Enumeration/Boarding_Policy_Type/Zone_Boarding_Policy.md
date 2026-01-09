@@ -35,10 +35,9 @@ Tag Instances like this:
 
 The airline boards by zones of the plane.
 
-[ #is_/sub_class_of :: [[../BoardingPolicyType]] ]
+#is_/sub_class_of :: [[../BoardingPolicyType]]  
 
-[ #is_/enum_of :: [[../BoardingPolicyType]] ]
-
+#is_/enum_of :: [[../BoardingPolicyType]]  
 
 ## Confidential Links & Embeds: 
 

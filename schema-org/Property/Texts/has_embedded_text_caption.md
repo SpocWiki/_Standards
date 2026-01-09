@@ -32,7 +32,7 @@ type: Pred_Text
 
 Predicate to describe the Text of AudioObject, ImageObject, VideoObject.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/embedded_text_caption :: Text ] or 
@@ -41,12 +41,13 @@ Use it like this:
 Represents textual captioning from a [[MediaObject]], e.g. text of a "meme".
 
 Predicated describes that: 
-[ #has_/domain  :: AudioObject, ImageObject, VideoObject ]
+
+#has_/domain  :: AudioObject, ImageObject, VideoObject  
+
 ( #has_/name :: has_text_of_embedded_text_caption )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: caption ]
-
+#is_/sub_property_of  :: caption  
 
 ## Confidential Links & Embeds: 
 

@@ -48,14 +48,15 @@ Alternatively uses the well-known Time attributes for [[Tasks]]:
 An [organization](../../../Class/is_a_/organization) (or [program_membership](../../../Class/is_a_/intangible/program_membership)) to which this Person or Organization belongs.
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person ]
+
+#has_/domain  :: Organization, Person  
+
 ( #has_/name :: is_member_of )
 ( #has_/range :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] )
 
-[ #is_/inverse_of  :: [[has_member]] ]
+#is_/inverse_of  :: [[has_member]]  
 
-[ #has_/sub_properties :: [[has_affiliation_with]] ]
-
+#has_/sub_properties :: [[has_affiliation_with]]  
 
 ## Confidential Links & Embeds: 
 

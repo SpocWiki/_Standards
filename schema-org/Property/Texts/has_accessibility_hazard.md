@@ -40,7 +40,9 @@ Related to WCAG 2.0 guideline 2.3.
 Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityHazard-vocabulary).
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_text_of_accessibility_hazard )
 ( #has_/range :: Text )
 

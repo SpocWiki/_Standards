@@ -35,10 +35,9 @@ Tag Instances like this:
 
 A venue map (e.g. for malls, auditoriums, museums, etc.).
 
-[ #is_/sub_class_of :: [[../MapCategoryType]] ]
+#is_/sub_class_of :: [[../MapCategoryType]]  
 
-[ #is_/enum_of :: [[../MapCategoryType]] ]
-
+#is_/enum_of :: [[../MapCategoryType]]  
 
 ## Confidential Links & Embeds: 
 

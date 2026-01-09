@@ -35,7 +35,9 @@ or, when giving the text directly:
 The words in the song.
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition ]
+
+#has_/domain  :: MusicComposition  
+
 ( #has_/name :: has_lyrics )
 ( #has_/range :: CreativeWork )
 

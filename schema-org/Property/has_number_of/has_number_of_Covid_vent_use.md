@@ -29,7 +29,7 @@ type: Predi_Count
 
 Predicate to describe the Number of CDCPMDRecord.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/number_of_/Covid_vent_use :: Number ] or 
@@ -38,7 +38,9 @@ Use it like this:
 numventuse - MECHANICAL VENTILATORS IN USE: Total number of ventilators in use.
 
 Predicate describes that: 
-[ #has_/domain  :: CDCPMDRecord ]
+
+#has_/domain  :: CDCPMDRecord  
+
 ( #has_/name :: has_number_of_Covid_vent_use )
 ( #has_/range :: Number )
 

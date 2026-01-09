@@ -36,7 +36,9 @@ Use it like this:
 The duration of the warranty promise. Common unitCode values are ANN for year, MON for months, or DAY for days.
 
 Predicate describes that: 
-[ #has_/domain  :: WarrantyPromise ]
+
+#has_/domain  :: WarrantyPromise  
+
 ( #has_/name :: has_value_for_duration_of_warranty )
 ( #has_/range :: QuantitativeValue )
 

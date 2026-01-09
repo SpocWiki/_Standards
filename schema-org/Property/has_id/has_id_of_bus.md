@@ -37,7 +37,9 @@ Use it like this:
 The unique identifier for the bus.
 
 Predicated describes that: 
-[ #has_/domain  :: BusTrip ]
+
+#has_/domain  :: BusTrip  
+
 ( #has_/name :: has_id_of_bus )
 ( #has_/range :: Text )
 

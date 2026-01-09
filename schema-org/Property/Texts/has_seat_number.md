@@ -38,7 +38,9 @@ Use it like this:
 The location of the reserved seat (e.g., 27).
 
 Predicated describes that: 
-[ #has_/domain  :: Seat ]
+
+#has_/domain  :: Seat  
+
 ( #has_/name :: has_text_of_seat_number )
 ( #has_/range :: Text )
 

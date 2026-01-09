@@ -38,7 +38,9 @@ Use it like this:
 - [ has_interaction_statistic :: InteractionCounter ] 
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Organization, Person ]
+
+#has_/domain  :: CreativeWork, Organization, Person  
+
 ( #has_/name :: has_interaction_statistic )
 ( #has_/range :: InteractionCounter )
 

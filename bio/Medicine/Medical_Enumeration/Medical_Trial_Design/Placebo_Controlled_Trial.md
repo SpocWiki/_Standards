@@ -35,10 +35,9 @@ Tag Instances like this:
 
 A placebo-controlled trial design.
 
-[ #is_/sub_class_of :: [[../MedicalTrialDesign]] ]
+#is_/sub_class_of :: [[../MedicalTrialDesign]]  
 
-[ #is_/enum_of :: [[../MedicalTrialDesign]] ]
-
+#is_/enum_of :: [[../MedicalTrialDesign]]  
 
 ## Confidential Links & Embeds: 
 

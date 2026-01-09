@@ -33,14 +33,13 @@ Class of all business_supports.
 Tag Instances like this: 
 #is_a_/business_support
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 BusinessSupport: this is a benefit for supporting businesses.
 
-[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
+#is_/sub_class_of :: [[../GovernmentBenefitsType]]  
 
-[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
-
+#is_/enum_of :: [[../GovernmentBenefitsType]]  
 
 ## Confidential Links & Embeds: 
 

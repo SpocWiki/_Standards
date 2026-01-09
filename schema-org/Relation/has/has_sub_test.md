@@ -35,7 +35,9 @@ Use it like this:
 A component test of the panel.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTestPanel ]
+
+#has_/domain  :: MedicalTestPanel  
+
 ( #has_/name :: is_sub_test )
 ( #has_/range :: MedicalTest )
 

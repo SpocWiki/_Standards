@@ -35,12 +35,11 @@ Class of all css_selector_types.
 Tag Instances like this: 
 #is_a_/css_selector_type
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Text representing a CSS selector.
 
-[ #is_/sub_class_of :: [[../Text]] ]
-
+#is_/sub_class_of :: [[../Text]]  
 
 ## Confidential Links & Embeds: 
 

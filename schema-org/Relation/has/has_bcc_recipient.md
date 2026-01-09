@@ -33,12 +33,13 @@ Use it like this:
 A sub property of recipient. The recipient blind copied on a message.
 
 Relation describes that: 
-[ #has_/domain  :: Message ]
+
+#has_/domain  :: Message  
+
 ( #has_/name :: has_bcc_recipient )
 ( #has_/range :: ContactPoint, Organization, Person )
 
-[ #is_/sub_property_of  :: recipient ]
-
+#is_/sub_property_of  :: recipient  
 
 ## Confidential Links & Embeds: 
 

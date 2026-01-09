@@ -36,7 +36,9 @@ Use it like this:
 A sign or symptom of this condition. Signs are objective or physically observable manifestations of the medical condition while symptoms are the subjective experience of the medical condition.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition ]
+
+#has_/domain  :: MedicalCondition  
+
 ( #has_/name :: is_sign_or_symptom )
 ( #has_/range :: MedicalSignOrSymptom )
 

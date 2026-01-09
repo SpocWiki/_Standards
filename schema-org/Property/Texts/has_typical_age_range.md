@@ -39,7 +39,9 @@ Use it like this:
 The typical expected age range, e.g. "7-9", "11-".
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork, Event ]
+
+#has_/domain  :: CreativeWork, Event  
+
 ( #has_/name :: has_text_of_typical_age_range )
 ( #has_/range :: Text )
 

@@ -38,7 +38,9 @@ Use it like this:
 Source of the data used to formulate the guidance, e.g. RCT, consensus opinion, etc.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalGuideline ]
+
+#has_/domain  :: MedicalGuideline  
+
 ( #has_/name :: has_text_of_evidence_origin )
 ( #has_/range :: Text )
 

@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A food or drink item listed in a menu or menu section.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ]  
 
 ## Confidential Links & Embeds: 
 

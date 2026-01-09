@@ -33,7 +33,9 @@ Use it like this:
 The anatomy of the underlying organ system or structures associated with this entity.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition, PhysicalActivity ]
+
+#has_/domain  :: MedicalCondition, PhysicalActivity  
+
 ( #has_/name :: has_associated_anatomy )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy )
 

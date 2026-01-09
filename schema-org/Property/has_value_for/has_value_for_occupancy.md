@@ -37,7 +37,9 @@ The allowed total occupancy for the accommodation in persons (including infants 
 Typical unit code(s): C62 for person
 
 Predicate describes that: 
-[ #has_/domain  :: Apartment, HotelRoom, SingleFamilyResidence, Suite ]
+
+#has_/domain  :: Apartment, HotelRoom, SingleFamilyResidence, Suite  
+
 ( #has_/name :: has_value_for_occupancy )
 ( #has_/range :: QuantitativeValue )
 

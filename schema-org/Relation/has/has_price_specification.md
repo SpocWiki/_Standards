@@ -35,7 +35,9 @@ Use it like this:
 One or more detailed price specifications, indicating the unit price and delivery or payment charges.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer, TradeAction ]
+
+#has_/domain  :: Demand, Offer, TradeAction  
+
 ( #has_/name :: is_price_specification )
 ( #has_/range :: PriceSpecification )
 

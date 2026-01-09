@@ -38,7 +38,9 @@ Use it like this:
 Reference to an asset (e.g., Barcode, QR code image or PDF) usable for entrance.
 
 Predicated describes that: 
-[ #has_/domain  :: Ticket ]
+
+#has_/domain  :: Ticket  
+
 ( #has_/name :: has_text_of_ticket_token )
 ( #has_/range :: Text, URL )
 

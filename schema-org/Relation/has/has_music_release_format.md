@@ -36,7 +36,9 @@ Use it like this:
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).
 
 Relation describes that: 
-[ #has_/domain  :: MusicRelease ]
+
+#has_/domain  :: MusicRelease  
+
 ( #has_/name :: has_music_release_format )
 ( #has_/range :: MusicReleaseFormatType )
 

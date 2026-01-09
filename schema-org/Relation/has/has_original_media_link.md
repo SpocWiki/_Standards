@@ -29,7 +29,7 @@ title: has_original_media_link
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/original_media_link :: MediaObject, URL, WebPage ] or 
@@ -38,7 +38,9 @@ Use it like this:
 Link to the page containing an original version of the content, or directly to an online copy of the original [[MediaObject]] content, e.g. video file.
 
 Relation describes that: 
-[ #has_/domain  :: MediaReview ]
+
+#has_/domain  :: MediaReview  
+
 ( #has_/name :: has_original_media_link )
 ( #has_/range :: MediaObject, URL, WebPage )
 

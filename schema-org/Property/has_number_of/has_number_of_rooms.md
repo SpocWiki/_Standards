@@ -40,7 +40,9 @@ Use it like this:
 - [ has_number_of_rooms :: Number, QuantitativeValue ] 
 
 Predicate describes that: 
-[ #has_/domain  :: Accommodation, Apartment, FloorPlan, House, LodgingBusiness, SingleFamilyResidence, Suite ]
+
+#has_/domain  :: Accommodation, Apartment, FloorPlan, House, LodgingBusiness, SingleFamilyResidence, Suite  
+
 ( #has_/name :: has_number_of_rooms )
 ( #has_/range :: Number, QuantitativeValue )
 

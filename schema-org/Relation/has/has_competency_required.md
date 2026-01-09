@@ -28,7 +28,7 @@ title: has_competency_required
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/competency_required :: DefinedTerm, Text, URL ] or 
@@ -37,7 +37,9 @@ Use it like this:
 Knowledge, skill, ability or personal attribute that must be demonstrated by a person or other entity in order to do something such as earn an Educational Occupational Credential or understand a LearningResource.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalCredential, LearningResource ]
+
+#has_/domain  :: EducationalOccupationalCredential, LearningResource  
+
 ( #has_/name :: has_competency_required )
 ( #has_/range :: DefinedTerm, Text, URL )
 

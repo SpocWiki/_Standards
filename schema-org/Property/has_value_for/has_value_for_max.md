@@ -37,7 +37,9 @@ Use it like this:
 The upper value of some characteristic or property.
 
 Predicate describes that: 
-[ #has_/domain  :: MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue ]
+
+#has_/domain  :: MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue  
+
 ( #has_/name :: has_value_for_max )
 ( #has_/range :: Number )
 

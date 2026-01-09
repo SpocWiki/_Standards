@@ -31,12 +31,13 @@ Use it like this:
 A material that something is made from, e.g. leather, wool, cotton, paper.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Product ]
+
+#has_/domain  :: CreativeWork, Product  
+
 ( #has_/name :: has_material )
 ( #has_/range :: Product, Text, URL )
 
-[ #has_/sub_properties :: [ artMedium, surface ] ]
-
+#has_/sub_properties :: [ artMedium, surface ]  
 
 ## Confidential Links & Embeds: 
 

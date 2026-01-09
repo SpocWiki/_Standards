@@ -38,7 +38,9 @@ Use it like this:
 ISIC(International Standard of Industrial Classification of All Economic Activities) Revision 4 code for a particular organization, business person, or place.
 
 Predicated describes that: 
-[ #has_/domain  :: Organization, Person, Place ]
+
+#has_/domain  :: Organization, Person, Place  
+
 ( #has_/name :: has_text_of_isic_v4 )
 ( #has_/range :: Text )
 

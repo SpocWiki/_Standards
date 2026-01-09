@@ -37,7 +37,9 @@ Use it like this:
 Prerequisites needed to fulfill steps in article.
 
 Predicated describes that: 
-[ #has_/domain  :: TechArticle ]
+
+#has_/domain  :: TechArticle  
+
 ( #has_/name :: has_text_of_dependencies )
 ( #has_/range :: Text )
 

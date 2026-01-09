@@ -33,14 +33,13 @@ Class of all weapon_considerations.
 Tag Instances like this: 
 #is_a_/weapon_consideration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 The item is intended to induce bodily harm, for example guns, mace, combat knives, brass knuckles, nail or other bombs, and spears.
 
-[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
+#is_/sub_class_of :: [[../AdultOrientedEnumeration]]  
 
-[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
-
+#is_/enum_of :: [[../AdultOrientedEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

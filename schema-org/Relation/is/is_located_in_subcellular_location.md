@@ -26,7 +26,7 @@ title: is_located_in_subcellular_location
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending:]
+#is_/part_of :: pending: 
 
 Use it like this: 
 - [ #is_/located_in_subcellular_location :: DefinedTerm, PropertyValue, URL] or 
@@ -35,7 +35,9 @@ Use it like this:
 Subcellular location where this BioChemEntity is located; please use PropertyValue if you want to include any evidence.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity]
+
+#has_/domain  :: BioChemEntity 
+
 ( #has_/name :: is_located_in_subcellular_location)
 ( #has_/range :: DefinedTerm, PropertyValue, URL)
 

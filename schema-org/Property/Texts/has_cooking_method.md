@@ -38,7 +38,9 @@ Use it like this:
 The method of cooking, such as Frying, Steaming, ...
 
 Predicated describes that: 
-[ #has_/domain  :: Recipe ]
+
+#has_/domain  :: Recipe  
+
 ( #has_/name :: has_text_of_cooking_method )
 ( #has_/range :: Text )
 

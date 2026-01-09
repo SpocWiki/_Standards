@@ -36,7 +36,9 @@ Use it like this:
 The number of upvotes this question, answer or comment has received from the community.
 
 Predicate describes that: 
-[ #has_/domain  :: Comment ]
+
+#has_/domain  :: Comment  
+
 ( #has_/name :: has_number_of_upvotes )
 ( #has_/range :: Integer )
 

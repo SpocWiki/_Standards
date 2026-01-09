@@ -40,7 +40,9 @@ Represents spatial relations in which two geometries (or the places they represe
 (A symmetric relationship, as defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM)) 
 
 Predicate describes that: 
-[ #has_/domain  :: GeospatialGeometry, Place ]
+
+#has_/domain  :: GeospatialGeometry, Place  
+
 ( #has_/name :: has_location_disjoint )
 ( #has_/range :: GeospatialGeometry, Place )
 

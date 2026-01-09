@@ -31,7 +31,9 @@ Use it like this:
 For failed actions, more information on the cause of the failure.
 
 Relation describes that: 
-[ #has_/domain  :: Action ]
+
+#has_/domain  :: Action  
+
 ( #has_/name :: has_error )
 ( #has_/range :: Thing )
 

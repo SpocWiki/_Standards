@@ -33,14 +33,13 @@ Class of all disability_supports.
 Tag Instances like this: 
 #is_a_/disability_support
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 DisabilitySupport: this is a benefit for disability support.
 
-[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
+#is_/sub_class_of :: [[../GovernmentBenefitsType]]  
 
-[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
-
+#is_/enum_of :: [[../GovernmentBenefitsType]]  
 
 ## Confidential Links & Embeds: 
 

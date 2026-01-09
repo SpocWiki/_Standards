@@ -35,10 +35,9 @@ Tag Instances like this:
 
 The event has been cancelled. If the event has multiple startDate values, all are assumed to be cancelled. Either startDate or previousStartDate may be used to specify the event's cancelled date(s).
 
-[ #is_/sub_class_of :: [[../EventStatusType]] ]
+#is_/sub_class_of :: [[../EventStatusType]]  
 
-[ #is_/enum_of :: [[../EventStatusType]] ]
-
+#is_/enum_of :: [[../EventStatusType]]  
 
 ## Confidential Links & Embeds: 
 

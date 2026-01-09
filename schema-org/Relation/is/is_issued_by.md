@@ -35,7 +35,9 @@ Use it like this:
 The organization issuing the ticket or permit.
 
 Relation describes that: 
-[ #has_/domain  :: Permit, Ticket ]
+
+#has_/domain  :: Permit, Ticket  
+
 ( #has_/name :: is_issued_by )
 ( #has_/range :: Organization )
 

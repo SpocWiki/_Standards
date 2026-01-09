@@ -32,7 +32,9 @@ Use it like this:
 The payment method(s) to which the payment charge specification applies.
 
 Relation describes that: 
-[ #has_/domain  :: PaymentChargeSpecification]
+
+#has_/domain  :: PaymentChargeSpecification 
+
 ( #has_/name :: is_applying_to_payment_method)
 ( #has_/range :: PaymentMethod)
 

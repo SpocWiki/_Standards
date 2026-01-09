@@ -33,14 +33,13 @@ Class of all wearable_measurement_sleeves.
 Tag Instances like this: 
 #is_a_/wearable_measurement_sleeve
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Measurement of the sleeve length, for example of a shirt
 
-[ #is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]] ]
+#is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
-
+#is_/enum_of :: [[../WearableMeasurementTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

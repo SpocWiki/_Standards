@@ -35,7 +35,9 @@ Use it like this:
 The computer programming language of the Subject Source Code.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareSourceCode ]
+
+#has_/domain  :: SoftwareSourceCode  
+
 ( #has_/name :: is_programming_language )
 ( #has_/range :: ComputerLanguage, Text )
 

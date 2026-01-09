@@ -36,7 +36,9 @@ Use it like this:
 Link to the repository where the un-compiled, human readable code and related code is located (SVN, GitHub, CodePlex).
 
 Predicate describes that: 
-[ #has_/domain  :: SoftwareSourceCode ]
+
+#has_/domain  :: SoftwareSourceCode  
+
 ( #has_/name :: has_url_for_code_repository )
 ( #has_/range :: URL )
 

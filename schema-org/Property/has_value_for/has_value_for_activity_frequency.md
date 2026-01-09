@@ -36,7 +36,9 @@ Use it like this:
 How often one should engage in the activity.
 
 Predicate describes that: 
-[ #has_/domain  :: ExercisePlan ]
+
+#has_/domain  :: ExercisePlan  
+
 ( #has_/name :: has_value_for_activity_frequency )
 ( #has_/range :: QuantitativeValue, Text )
 

@@ -37,7 +37,9 @@ Use it like this:
 The value of an active ingredient's strength, e.g. 325.
 
 Predicate describes that: 
-[ #has_/domain  :: DrugStrength ]
+
+#has_/domain  :: DrugStrength  
+
 ( #has_/name :: has_value_for_strength )
 ( #has_/range :: Number )
 

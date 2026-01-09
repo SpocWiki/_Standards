@@ -35,7 +35,9 @@ Use it like this:
 The label that issued the release.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRelease ]
+
+#has_/domain  :: MusicRelease  
+
 ( #has_/name :: is_record_label )
 ( #has_/range :: Organization )
 

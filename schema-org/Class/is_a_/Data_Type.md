@@ -34,10 +34,9 @@ Tag Instances like this:
 
 #is_a_/data_type
 
-[ #is_/sub_class_of :: [[../../Class|Class]] ]
+#is_/sub_class_of :: [[../../Class|Class]]  
 
-[ #has_/sub_classes :: [ Boolean, Time, DateTime, Date, Text, Number ] ]
-
+#has_/sub_classes :: [ Boolean, Time, DateTime, Date, Text, Number ]  
 
 ## Confidential Links & Embeds: 
 

@@ -31,7 +31,9 @@ Use it like this:
 An image containing a diagram that illustrates the structure and/or its component substructures and/or connections with other structures.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure ]
+
+#has_/domain  :: AnatomicalStructure  
+
 ( #has_/name :: has_diagram )
 ( #has_/range :: ImageObject )
 

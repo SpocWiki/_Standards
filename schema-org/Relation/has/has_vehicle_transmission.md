@@ -35,7 +35,9 @@ Use it like this:
 The type of component used for transmitting the power from a rotating power source to the wheels or other relevant component(s) ("gearbox" for cars).
 
 Relation describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: is_vehicle_transmission )
 ( #has_/range :: QualitativeValue, Text, URL )
 

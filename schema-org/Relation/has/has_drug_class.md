@@ -35,7 +35,9 @@ Use it like this:
 The class of drug this belongs to (e.g., statins).
 
 Relation describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_drug_class )
 ( #has_/range :: DrugClass )
 

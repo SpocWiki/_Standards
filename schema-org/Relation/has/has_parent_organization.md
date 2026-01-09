@@ -37,12 +37,13 @@ Use it like this:
 The larger organization that this organization is a [[subOrganization]] of, if any.
 
 Relation describes that: 
-[ #has_/domain  :: Organization ]
+
+#has_/domain  :: Organization  
+
 ( #has_/name :: has_parent_organization )
 ( #has_/range :: Organization )
 
-[ #is_/inverse_of  :: subOrganization ]
-
+#is_/inverse_of  :: subOrganization  
 
 ## Confidential Links & Embeds: 
 

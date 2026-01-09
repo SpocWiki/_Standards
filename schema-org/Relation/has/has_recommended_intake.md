@@ -35,7 +35,9 @@ Use it like this:
 Recommended intake of this supplement for a given population as defined by a specific recommending authority.
 
 Relation describes that: 
-[ #has_/domain  :: DietarySupplement ]
+
+#has_/domain  :: DietarySupplement  
+
 ( #has_/name :: is_recommended_intake )
 ( #has_/range :: RecommendedDoseSchedule )
 

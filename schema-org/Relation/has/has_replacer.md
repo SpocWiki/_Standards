@@ -31,12 +31,13 @@ Use it like this:
 A sub property of object. The object that replaces.
 
 Relation describes that: 
-[ #has_/domain  :: ReplaceAction ]
+
+#has_/domain  :: ReplaceAction  
+
 ( #has_/name :: is_replacer )
 ( #has_/range :: Thing )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

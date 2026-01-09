@@ -45,7 +45,9 @@ What type of code sample:
 - template.
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareSourceCode ]
+
+#has_/domain  :: SoftwareSourceCode  
+
 ( #has_/name :: has_code_of_sample_type )
 ( #has_/range :: Text )
 

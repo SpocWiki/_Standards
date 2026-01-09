@@ -33,14 +33,13 @@ Class of all free_returns.
 Tag Instances like this: 
 #is_a_/free_return
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that product returns are free of charge for the customer.
 
-[ #is_/sub_class_of :: [[../ReturnFeesEnumeration]] ]
+#is_/sub_class_of :: [[../ReturnFeesEnumeration]]  
 
-[ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
-
+#is_/enum_of :: [[../ReturnFeesEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

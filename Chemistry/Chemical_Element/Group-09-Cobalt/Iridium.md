@@ -66,18 +66,25 @@ ZVG_number: 8460
 [GroupName::Group-09-Cobalt]
 Group::[[../Group-09-Cobalt]]
 
+has_/name_/en::Iridium 
 
-[has_/name_/en::Iridium]
-[has_/name_/de::Iridium]
-[has_/value_for_/weight_/u::192.22]
+has_/name_/de::Iridium 
+
+has_/value_for_/weight_/u::192.22 
+
 [AtomRadius::1.87]
 [Atom-Vol-ccm-mol::8.54]
 [Unknown2::1.27]
-[has_/value_for_/radius_/nano_/m::9.1]
+
+has_/value_for_/radius_/nano_/m::9.1 
+
 [Electronegative::2.2]
 [Density::22.5]
-[has_/value_for_/temperature_/melt_/c ::2410]
-[has_/value_for_/temperature_/boil_/c ::4130]
+
+has_/value_for_/temperature_/melt_/c ::2410 
+
+has_/value_for_/temperature_/boil_/c ::4130 
+
 [HeatCapacity::0.13]
 [HeatConduct::1.47]
 [Enthalpy::26.1]

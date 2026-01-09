@@ -82,17 +82,25 @@ ZVG_number: 8040
 [GroupName::Group-14-Carbon]
 [Group : [[../Group-14-Carbon]]
 
-[has_/name_/en::Carbon]
-[has_/name_/de::Kohlenstoff]
-[has_/value_for_/weight_/u::12.011]
+has_/name_/en::Carbon 
+
+has_/name_/de::Kohlenstoff 
+
+has_/value_for_/weight_/u::12.011 
+
 [AtomRadius::0.91]
 [Atom-Vol-ccm-mol::4.58]
 [Unknown2::0.77]
-[has_/value_for_/radius_/nano_/m::11.26]
+
+has_/value_for_/radius_/nano_/m::11.26 
+
 [Electronegative::2.5]
 [Density::2.52]
-[has_/value_for_/temperature_/melt_/c ::3550]
-[has_/value_for_/temperature_/boil_/c ::4827]
+
+has_/value_for_/temperature_/melt_/c ::3550 
+
+has_/value_for_/temperature_/boil_/c ::4827 
+
 [HeatCapacity::0.71]
 [HeatConduct::1.29]
 [Enthalpy::0]

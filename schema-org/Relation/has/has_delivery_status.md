@@ -35,7 +35,9 @@ Use it like this:
 New entry added as the package passes through each leg of its journey (from shipment to final delivery).
 
 Relation describes that: 
-[ #has_/domain  :: ParcelDelivery ]
+
+#has_/domain  :: ParcelDelivery  
+
 ( #has_/name :: has_delivery_status )
 ( #has_/range :: DeliveryEvent )
 

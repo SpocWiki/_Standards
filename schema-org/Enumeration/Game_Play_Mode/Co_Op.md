@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Play mode: CoOp. Co-operative games, where you play on the same team with friends.
 
-[ #is_/sub_class_of :: [[../GamePlayMode]] ]
+#is_/sub_class_of :: [[../GamePlayMode]]  
 
-[ #is_/enum_of :: [[../GamePlayMode]] ]
-
+#is_/enum_of :: [[../GamePlayMode]]  
 
 ## Confidential Links & Embeds: 
 

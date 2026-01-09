@@ -38,7 +38,9 @@ Use it like this:
 Operating systems supported (Windows 7, OS X 10.6, Android 1.6).
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_operating_system )
 ( #has_/range :: Text )
 

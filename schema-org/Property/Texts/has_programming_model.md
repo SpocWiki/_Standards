@@ -38,7 +38,9 @@ Use it like this:
 Indicates whether API is managed or unmanaged.
 
 Predicated describes that: 
-[ #has_/domain  :: APIReference ]
+
+#has_/domain  :: APIReference  
+
 ( #has_/name :: has_text_of_programming_model )
 ( #has_/range :: Text )
 

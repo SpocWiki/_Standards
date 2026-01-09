@@ -33,14 +33,13 @@ Class of all wearable_size_group_girlss.
 Tag Instances like this: 
 #is_a_/wearable_size_group_girls
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Size group "Girls" for wearables.
 
-[ #is_/sub_class_of :: [[../WearableSizeGroupEnumeration]] ]
+#is_/sub_class_of :: [[../WearableSizeGroupEnumeration]]  
 
-[ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
-
+#is_/enum_of :: [[../WearableSizeGroupEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

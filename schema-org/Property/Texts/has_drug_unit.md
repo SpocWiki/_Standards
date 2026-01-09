@@ -38,7 +38,9 @@ Use it like this:
 The unit in which the drug is measured, e.g. "5 mg tablet".
 
 Predicated describes that: 
-[ #has_/domain  :: Drug, DrugCost ]
+
+#has_/domain  :: Drug, DrugCost  
+
 ( #has_/name :: has_text_of_drug_unit )
 ( #has_/range :: Text )
 

@@ -31,7 +31,9 @@ Use it like this:
 The trailer of a movie or TV/radio series, season, episode, etc.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWorkSeason, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries ]
+
+#has_/domain  :: CreativeWorkSeason, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries  
+
 ( #has_/name :: is_trailer )
 ( #has_/range :: VideoObject )
 

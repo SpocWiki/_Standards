@@ -31,7 +31,9 @@ Use it like this:
 Comments, typically from users.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, RsvpAction ]
+
+#has_/domain  :: CreativeWork, RsvpAction  
+
 ( #has_/name :: has_comment )
 ( #has_/range :: Comment )
 

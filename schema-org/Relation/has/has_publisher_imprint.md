@@ -28,7 +28,7 @@ title: has_publisher_imprint
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
 - [ #has_/publisher_imprint :: Organization ] or 
@@ -37,7 +37,9 @@ Use it like this:
 The publishing division which published the comic.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_publisher_imprint )
 ( #has_/range :: Organization )
 

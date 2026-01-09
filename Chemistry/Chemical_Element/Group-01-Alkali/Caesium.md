@@ -83,17 +83,22 @@ ZVG_number: 7550
 [GroupName::Group-01-Alkali]
 Group::[[../Group-01-Alkali]]
 
+has_/name_/en::Caesium 
 
-[has_/name_/en::Caesium]
-[has_/name_/de::Caesium]
+has_/name_/de::Caesium 
 
-[has_/value_for_/weight_/u::132.905]
+has_/value_for_/weight_/u::132.905 
+
 [AtomRadius::3.34]
 [Atom-Vol-ccm-mol::71.07]
 [Unknown2::2.35]
-[has_/value_for_/radius_/nano_/m::3.894]
+
+has_/value_for_/radius_/nano_/m::3.894 
+
 [Density::1.87]
-[has_/value_for_/temperature_/boil_/c ::678.4]
+
+has_/value_for_/temperature_/boil_/c ::678.4 
+
 [HeatCapacity::0.24]
 [HeatConduct::0.359]
 [Enthalpy::2.092]

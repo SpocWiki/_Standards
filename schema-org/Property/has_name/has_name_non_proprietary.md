@@ -38,7 +38,9 @@ Use it like this:
 The generic name of this drug or supplement.
 
 Predicated describes that: 
-[ #has_/domain  :: DietarySupplement, Drug ]
+
+#has_/domain  :: DietarySupplement, Drug  
+
 ( #has_/name :: has_name_non_proprietary )
 ( #has_/range :: Text )
 

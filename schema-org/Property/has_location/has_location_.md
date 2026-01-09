@@ -56,12 +56,13 @@ The location of, for example, where an event is happening, where an organization
 or where an action takes place.
 
 Predicate describes that: 
-[ #has_/domain  :: Action, Event, InteractionCounter, Organization ]
+
+#has_/domain  :: Action, Event, InteractionCounter, Organization  
+
 ( #has_/name :: has_location_ )
 ( #has_/range :: Place, PostalAddress, Text, VirtualLocation )
 
-[ #has_/sub_properties :: [ course, entertainmentBusiness, exerciseCourse, foodEstablishment, foodEvent, fromLocation, homeLocation, itemLocation, sportsActivityLocation, sportsEvent, toLocation, workLocation ] ]
-
+#has_/sub_properties :: [ course, entertainmentBusiness, exerciseCourse, foodEstablishment, foodEvent, fromLocation, homeLocation, itemLocation, sportsActivityLocation, sportsEvent, toLocation, workLocation ]  
 
 ## Confidential Links & Embeds: 
 

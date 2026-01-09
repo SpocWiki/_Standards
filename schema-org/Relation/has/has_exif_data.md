@@ -35,7 +35,9 @@ Use it like this:
 exif data for this object.
 
 Relation describes that: 
-[ #has_/domain  :: ImageObject ]
+
+#has_/domain  :: ImageObject  
+
 ( #has_/name :: has_exif_data )
 ( #has_/range :: PropertyValue, Text )
 

@@ -31,7 +31,9 @@ Use it like this:
 The number of calories.
 
 Relation describes that: 
-[ #has_/domain  :: NutritionInformation ]
+
+#has_/domain  :: NutritionInformation  
+
 ( #has_/name :: has_calories )
 ( #has_/range :: Energy )
 

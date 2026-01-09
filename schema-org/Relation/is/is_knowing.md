@@ -34,7 +34,9 @@ Use it like this:
 The most generic bi-directional social/work relation.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_knowing )
 ( #has_/range :: Person )
 

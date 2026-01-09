@@ -37,12 +37,11 @@ These Properties are added only by the Sibling Concepts of [[../../../Earth/Geog
 Tag Instances like this: 
 #is_an_/intangible
 
-[ #is_/sub_class_of :: [[../Thing|Thing]] ] 
+#is_/sub_class_of :: [[../Thing|Thing]]  
 
-[ #has_/sub_classes :: [ ActionAccessSpecification, AlignmentObject, Audience, BedDetails, Brand, BroadcastChannel, BroadcastFrequencySpecification, Class, ComputerLanguage, DataFeedItem, DefinedTerm, Demand, DigitalDocumentPermission, EducationalOccupationalProgram, EnergyConsumptionDetails, EntryPoint, Enumeration, FloorPlan, GameServer, GeospatialGeometry, Grant, HealthInsurancePlan, HealthPlanCostSharingSpecification, HealthPlanFormulary, HealthPlanNetwork, Invoice, ItemList, JobPosting, Language, ListItem, MediaSubscription, MenuItem, MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride, Observation, Occupation, OccupationalExperienceRequirements, Offer, Order, OrderItem, ParcelDelivery, Permit, ProductReturnPolicy, ProgramMembership, Property, PropertyValueSpecification, Quantity, Rating, Reservation, Role, Schedule, Seat, Series, Service, ServiceChannel, SpeakableSpecification, StatisticalPopulation, StructuredValue, Ticket, Trip, VirtualLocation ] ]
+#has_/sub_classes :: [ ActionAccessSpecification, AlignmentObject, Audience, BedDetails, Brand, BroadcastChannel, BroadcastFrequencySpecification, Class, ComputerLanguage, DataFeedItem, DefinedTerm, Demand, DigitalDocumentPermission, EducationalOccupationalProgram, EnergyConsumptionDetails, EntryPoint, Enumeration, FloorPlan, GameServer, GeospatialGeometry, Grant, HealthInsurancePlan, HealthPlanCostSharingSpecification, HealthPlanFormulary, HealthPlanNetwork, Invoice, ItemList, JobPosting, Language, ListItem, MediaSubscription, MenuItem, MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride, Observation, Occupation, OccupationalExperienceRequirements, Offer, Order, OrderItem, ParcelDelivery, Permit, ProductReturnPolicy, ProgramMembership, Property, PropertyValueSpecification, Quantity, Rating, Reservation, Role, Schedule, Seat, Series, Service, ServiceChannel, SpeakableSpecification, StatisticalPopulation, StructuredValue, Ticket, Trip, VirtualLocation ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

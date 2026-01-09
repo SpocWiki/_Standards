@@ -37,7 +37,9 @@ Or write it as a Triple:
 Indicates if use of the media require a subscription  (either paid or free). Allowed values are <code>true</code> or <code>false</code> (note that an earlier version had 'yes', 'no').
 
 Predicate describes that: 
-[ #has_/domain  :: ActionAccessSpecification, MediaObject ]
+
+#has_/domain  :: ActionAccessSpecification, MediaObject  
+
 ( #has_/name :: is_subscription_required )
 ( #has_/range :: Boolean, MediaSubscription )
 

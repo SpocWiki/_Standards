@@ -31,7 +31,7 @@ type: Pred_Text
 
 Predicate to describe the Text of LoanOrCredit.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/loan_type :: Text, URL ] or 
@@ -40,7 +40,9 @@ Use it like this:
 The type of a loan or credit.
 
 Predicated describes that: 
-[ #has_/domain  :: LoanOrCredit ]
+
+#has_/domain  :: LoanOrCredit  
+
 ( #has_/name :: has_text_of_loan_type )
 ( #has_/range :: Text, URL )
 

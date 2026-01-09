@@ -38,7 +38,9 @@ Use it like this:
 The identifier of the order item.
 
 Predicated describes that: 
-[ #has_/domain  :: OrderItem ]
+
+#has_/domain  :: OrderItem  
+
 ( #has_/name :: has_id_order_item )
 ( #has_/range :: Text )
 

@@ -121,18 +121,25 @@ ZVG_number: 7130
 [GroupName::Group-13-Boron]
 Group::[[../Group-13-Boron]]
 
+has_/name_/en::Aluminium 
 
-[has_/name_/en::Aluminium]
-[has_/name_/de::Aluminium]
-[has_/value_for_/weight_/u::26.9815]
+has_/name_/de::Aluminium 
+
+has_/value_for_/weight_/u::26.9815 
+
 [AtomRadius::1.82]
 [Atom-Vol-ccm-mol::10]
 [Unknown2::1.18]
-[has_/value_for_/radius_/nano_/m::5.986]
+
+has_/value_for_/radius_/nano_/m::5.986 
+
 [Electronegative::1.6]
 [Density::2.7]
-[has_/value_for_/temperature_/melt_/c ::660.37]
-[has_/value_for_/temperature_/boil_/c ::2467]
+
+has_/value_for_/temperature_/melt_/c ::660.37 
+
+has_/value_for_/temperature_/boil_/c ::2467 
+
 [HeatCapacity::0.9]
 [HeatConduct::2.37]
 [Enthalpy::10.79]

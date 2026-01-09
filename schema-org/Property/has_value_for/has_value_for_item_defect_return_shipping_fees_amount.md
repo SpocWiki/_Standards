@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of MerchantReturnPolicy.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/item_defect_return_shipping_fees_amount :: MonetaryAmount ] or 
@@ -38,7 +38,9 @@ Use it like this:
 Amount of shipping costs for defect product returns. Applicable when property [[itemDefectReturnFees]] equals [[ReturnShippingFees]].
 
 Predicate describes that: 
-[ #has_/domain  :: MerchantReturnPolicy ]
+
+#has_/domain  :: MerchantReturnPolicy  
+
 ( #has_/name :: has_value_for_item_defect_return_shipping_fees_amount )
 ( #has_/range :: MonetaryAmount )
 

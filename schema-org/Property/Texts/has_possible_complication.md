@@ -38,7 +38,9 @@ Use it like this:
 A possible unexpected and unfavorable evolution of a medical condition. Complications may include worsening of the signs or symptoms of the disease, extension of the condition to other organ systems, etc.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalCondition ]
+
+#has_/domain  :: MedicalCondition  
+
 ( #has_/name :: has_text_of_possible_complication )
 ( #has_/range :: Text )
 

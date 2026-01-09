@@ -36,12 +36,13 @@ Use it like this:
 - [ has_id_location :: Text ] 
 
 Predicated describes that: 
-[ #has_/domain  :: Organization, Person, Place ]
+
+#has_/domain  :: Organization, Person, Place  
+
 ( #has_/name :: has_id_location )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

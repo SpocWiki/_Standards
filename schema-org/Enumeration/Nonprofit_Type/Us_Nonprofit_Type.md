@@ -32,12 +32,11 @@ Class of all us_nonprofit_types.
 Tag Instances like this: 
 #is_a_/us_nonprofit_type
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 USNonprofitType: Non-profit organization type originating from the United States.
 
-[ #is_/sub_class_of :: [[../NonprofitType]] ]
-
+#is_/sub_class_of :: [[../NonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

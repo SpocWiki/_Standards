@@ -35,10 +35,9 @@ Tag Instances like this:
 
 The event has been postponed and no new date has been set. The event's previousStartDate should be set.
 
-[ #is_/sub_class_of :: [[../EventStatusType]] ]
+#is_/sub_class_of :: [[../EventStatusType]]  
 
-[ #is_/enum_of :: [[../EventStatusType]] ]
-
+#is_/enum_of :: [[../EventStatusType]]  
 
 ## Confidential Links & Embeds: 
 

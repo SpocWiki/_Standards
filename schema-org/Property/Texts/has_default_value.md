@@ -38,7 +38,9 @@ Use it like this:
 The default value of the input.  For properties that expect a literal, the default is a literal value, for properties that expect an object, it"s an ID reference to one of the current values.
 
 Predicated describes that: 
-[ #has_/domain  :: PropertyValueSpecification ]
+
+#has_/domain  :: PropertyValueSpecification  
+
 ( #has_/name :: has_text_of_default_value )
 ( #has_/range :: Text, Thing )
 

@@ -36,12 +36,13 @@ Use it like this:
 Position of the episode within an ordered group of episodes.
 
 Predicate describes that: 
-[ #has_/domain  :: Episode ]
+
+#has_/domain  :: Episode  
+
 ( #has_/name :: has_number_of_episode )
 ( #has_/range :: Integer, Text )
 
-[ #is_/sub_property_of  :: position ]
-
+#is_/sub_property_of  :: position  
 
 ## Confidential Links & Embeds: 
 

@@ -32,14 +32,13 @@ Class of all shipping_rate_settingss.
 Tag Instances like this: 
 #is_a_/shipping_rate_settings
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A ShippingRateSettings represents re-usable pieces of shipping information. It is designed for publication on an URL that may be referenced via the [[shippingSettingsLink]] property of an [[OfferShippingDetails]]. Several occurrences can be published, distinguished and matched (i.e. identified/referenced) by their different values for [[shippingLabel]].
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, doesNotShip, freeShippingThreshold, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingRate, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, doesNotShip, freeShippingThreshold, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingRate, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

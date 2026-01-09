@@ -38,7 +38,9 @@ Use it like this:
 The edition of the book.
 
 Predicated describes that: 
-[ #has_/domain  :: Book ]
+
+#has_/domain  :: Book  
+
 ( #has_/name :: has_text_of_book_edition )
 ( #has_/range :: Text )
 

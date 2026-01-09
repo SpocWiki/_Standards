@@ -36,7 +36,9 @@ Use it like this:
 The billing address for the order.
 
 Predicate describes that: 
-[ #has_/domain  :: Order ]
+
+#has_/domain  :: Order  
+
 ( #has_/name :: has_location_address_billing )
 ( #has_/range :: PostalAddress )
 

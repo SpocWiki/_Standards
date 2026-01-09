@@ -30,7 +30,7 @@ type: Pred_Text
 
 Predicate to describe the Text of HyperTocEntry.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/utterances :: Text ] or 
@@ -39,7 +39,9 @@ Use it like this:
 Text of an utterances (spoken words, lyrics etc.) that occurs at a certain section of a media object, represented as a [[HyperTocEntry]].
 
 Predicated describes that: 
-[ #has_/domain  :: HyperTocEntry ]
+
+#has_/domain  :: HyperTocEntry  
+
 ( #has_/name :: has_text_of_utterances )
 ( #has_/range :: Text )
 

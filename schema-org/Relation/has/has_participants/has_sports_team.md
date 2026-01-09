@@ -37,12 +37,13 @@ Use it like this:
 A sub property of[[has_participants]]]. The sports team that participated on this action.
 
 Relation describes that: 
-[ #has_/domain  :: ExerciseAction ]
+
+#has_/domain  :: ExerciseAction  
+
 ( #has_/name :: is_sports_team )
 ( #has_/range :: SportsTeam )
 
-[ #is_/sub_property_of  :: participant ]
-
+#is_/sub_property_of  :: participant  
 
 ## Confidential Links & Embeds: 
 

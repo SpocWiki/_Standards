@@ -32,12 +32,11 @@ Class of all legal_force_statuss.
 Tag Instances like this: 
 #is_a_/legal_force_status
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A list of possible statuses for the legal force of a legislation.
 
-[ #is_/sub_class_of :: [[../StatusEnumeration]] ]
-
+#is_/sub_class_of :: [[../StatusEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

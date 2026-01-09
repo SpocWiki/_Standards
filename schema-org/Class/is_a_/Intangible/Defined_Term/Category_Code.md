@@ -32,14 +32,13 @@ Class of all defined category_codes.
 Tag Instances like this: 
 #is_a_/category_code
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
-[ #is_/sub_class_of :: [[../DefinedTerm]] ]
+#is_/sub_class_of :: [[../DefinedTerm]]  
 
-[ #has_/sub_classes :: [ MedicalCode ] ]
+#has_/sub_classes :: [ MedicalCode ]  
 
-[ #has_/properties :: [ additionalType, alternateName, codeValue, description, disambiguatingDescription, identifier, image, inCodeSet, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, termCode, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, codeValue, description, disambiguatingDescription, identifier, image, inCodeSet, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, termCode, url ]  
 
 ## Confidential Links & Embeds: 
 

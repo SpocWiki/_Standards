@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of producing a balanced opinion about the object for an audience. An agent reviews an object with participants resulting in a review.
 
-[ #is_/sub_class_of :: [[../AssessAction]] ]
+#is_/sub_class_of :: [[../AssessAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, resultReview, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, resultReview, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

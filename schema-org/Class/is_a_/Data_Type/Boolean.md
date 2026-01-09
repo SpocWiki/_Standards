@@ -32,8 +32,7 @@ Tag Instances like this:
 
 Boolean: True or False.
 
-[ #has_/sub_classes :: [ False, True ] ]
-
+#has_/sub_classes :: [ False, True ]  
 
 ## Confidential Links & Embeds: 
 

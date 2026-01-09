@@ -40,7 +40,9 @@ The number of passengers that can be seated in the vehicle, both in terms of the
 Typical unit code(s): C62 for persons.
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_number_of_vehicle_seating_capacity )
 ( #has_/range :: Number, QuantitativeValue )
 

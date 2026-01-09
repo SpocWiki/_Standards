@@ -36,7 +36,9 @@ Use it like this:
 The number or type of airbags in the vehicle.
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_number_of_airbags )
 ( #has_/range :: Number, Text )
 

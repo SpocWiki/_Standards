@@ -36,7 +36,9 @@ Use it like this:
 Specifies the minimum allowed range for number of characters in a literal value.
 
 Predicate describes that: 
-[ #has_/domain  :: PropertyValueSpecification ]
+
+#has_/domain  :: PropertyValueSpecification  
+
 ( #has_/name :: has_value_for_min_text_length )
 ( #has_/range :: Number )
 

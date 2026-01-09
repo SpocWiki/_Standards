@@ -35,7 +35,9 @@ Use it like this:
 Component (sub-)structure(s) that comprise this anatomical structure.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure ]
+
+#has_/domain  :: AnatomicalStructure  
+
 ( #has_/name :: is_sub_structure )
 ( #has_/range :: AnatomicalStructure )
 

@@ -35,7 +35,9 @@ Use it like this:
 The seat associated with the ticket.
 
 Relation describes that: 
-[ #has_/domain  :: Ticket ]
+
+#has_/domain  :: Ticket  
+
 ( #has_/name :: is_ticketed_seat )
 ( #has_/range :: Seat )
 

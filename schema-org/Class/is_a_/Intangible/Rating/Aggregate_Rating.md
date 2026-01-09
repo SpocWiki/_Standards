@@ -34,12 +34,11 @@ Tag Instances like this:
 
 The average rating based on multiple ratings or reviews.
 
-[ #is_/sub_class_of :: [[../Rating]] ]
+#is_/sub_class_of :: [[../Rating]]  
 
-[ #has_/sub_classes :: [ EmployerAggregateRating ] ]
+#has_/sub_classes :: [ EmployerAggregateRating ]  
 
-[ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ] ]
-
+#has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]  
 
 ## Confidential Links & Embeds: 
 

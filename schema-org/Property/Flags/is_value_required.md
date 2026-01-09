@@ -37,7 +37,9 @@ Or write it as a Triple:
 Whether the property must be filled in to complete the action.  Default is false.
 
 Predicate describes that: 
-[ #has_/domain  :: PropertyValueSpecification ]
+
+#has_/domain  :: PropertyValueSpecification  
+
 ( #has_/name :: is_value_required )
 ( #has_/range :: Boolean )
 

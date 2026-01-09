@@ -35,7 +35,9 @@ Use it like this:
 This property links to all [[UnitPriceSpecification]] nodes that apply in parallel for the [[CompoundPriceSpecification]] node.
 
 Relation describes that: 
-[ #has_/domain  :: CompoundPriceSpecification ]
+
+#has_/domain  :: CompoundPriceSpecification  
+
 ( #has_/name :: is_price_component )
 ( #has_/range :: UnitPriceSpecification )
 

@@ -38,7 +38,9 @@ Use it like this:
 File size in (mega/kilo)bytes.
 
 Predicated describes that: 
-[ #has_/domain  :: MediaObject ]
+
+#has_/domain  :: MediaObject  
+
 ( #has_/name :: has_text_of_content_size )
 ( #has_/range :: Text )
 

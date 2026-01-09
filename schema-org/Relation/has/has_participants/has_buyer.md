@@ -36,12 +36,13 @@ Use it like this:
 A sub property of participant. The participant/person/organization that bought the object.
 
 Relation describes that: 
-[ #has_/domain  :: SellAction ]
+
+#has_/domain  :: SellAction  
+
 ( #has_/name :: has_buyer )
 ( #has_/range :: Organization, Person )
 
-[ #is_/sub_property_of  :: participant ]
-
+#is_/sub_property_of  :: participant  
 
 ## Confidential Links & Embeds: 
 

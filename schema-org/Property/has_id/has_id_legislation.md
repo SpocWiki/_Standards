@@ -30,7 +30,7 @@ type: Pred_Text
 
 Predicate to describe the Text of Legislation.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/id_/legislation :: Text, URL ] or 
@@ -39,12 +39,13 @@ Use it like this:
 An identifier for the legislation. This can be either a string-based identifier, like the CELEX at EU level or the NOR in France, or a web-based, URL/URI identifier, like an ELI (European Legislation Identifier) or an URN-Lex.
 
 Predicated describes that: 
-[ #has_/domain  :: Legislation ]
+
+#has_/domain  :: Legislation  
+
 ( #has_/name :: has_id_legislation )
 ( #has_/range :: Text, URL )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

@@ -35,7 +35,9 @@ Use it like this:
 The production company or studio responsible for the item, e.g. series, video game, episode etc.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWorkSeason, Episode, MediaObject, Movie, MovieSeries, RadioSeries, TVSeries, VideoGameSeries ]
+
+#has_/domain  :: CreativeWorkSeason, Episode, MediaObject, Movie, MovieSeries, RadioSeries, TVSeries, VideoGameSeries  
+
 ( #has_/name :: is_production_company )
 ( #has_/range :: Organization )
 

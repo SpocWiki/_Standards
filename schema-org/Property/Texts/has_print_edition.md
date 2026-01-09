@@ -38,7 +38,9 @@ Use it like this:
 The edition of the print product in which the NewsArticle appears.
 
 Predicated describes that: 
-[ #has_/domain  :: NewsArticle ]
+
+#has_/domain  :: NewsArticle  
+
 ( #has_/name :: has_text_of_print_edition )
 ( #has_/range :: Text )
 

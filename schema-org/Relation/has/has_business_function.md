@@ -35,7 +35,9 @@ Use it like this:
 The business function (e.g. sell, lease, repair, dispose) of the offer or component of a bundle (TypeAndQuantityNode). The default is http://purl.org/goodrelations/v1#Sell.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer, TypeAndQuantityNode ]
+
+#has_/domain  :: Demand, Offer, TypeAndQuantityNode  
+
 ( #has_/name :: has_business_function )
 ( #has_/range :: BusinessFunction )
 

@@ -35,7 +35,9 @@ Use it like this:
 A medical condition associated with this anatomy.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ]
+
+#has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy  
+
 ( #has_/name :: is_related_condition )
 ( #has_/range :: MedicalCondition )
 

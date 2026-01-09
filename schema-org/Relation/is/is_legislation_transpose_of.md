@@ -28,7 +28,7 @@ title: is_legislation_transpose_of
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #is_/legislation_transpose_of :: Legislation ] or 
@@ -41,12 +41,13 @@ Typically, some legislations of European Union's member states or regions transp
 This indicates a legally binding link between the 2 legislations.
 
 Relation describes that: 
-[ #has_/domain  :: Legislation ]
+
+#has_/domain  :: Legislation  
+
 ( #has_/name :: is_legislation_transpose_of )
 ( #has_/range :: Legislation )
 
-[ #is_/sub_property_of  :: legislationApplies ]
-
+#is_/sub_property_of  :: legislationApplies  
 
 ## Confidential Links & Embeds: 
 

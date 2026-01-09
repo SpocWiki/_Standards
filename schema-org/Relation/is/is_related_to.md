@@ -33,7 +33,9 @@ Use it like this:
 A pointer to another, somehow related product (or multiple products).
 
 Relation describes that: 
-[ #has_/domain  :: Product, Service]
+
+#has_/domain  :: Product, Service 
+
 ( #has_/name :: is_related_to)
 ( #has_/range :: Product, Service)
 

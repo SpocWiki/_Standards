@@ -31,14 +31,13 @@ Class of all nonprofit501ds.
 Tag Instances like this: 
 #is_a_/nonprofit501d
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Nonprofit501d: Non-profit type referring to Religious and Apostolic Associations.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+#is_/sub_class_of :: [[../USNonprofitType]]  
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+#is_/enum_of :: [[../USNonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

@@ -37,7 +37,9 @@ Use it like this:
 A description of the procedure involved in setting up, using, and/or installing the device.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalDevice ]
+
+#has_/domain  :: MedicalDevice  
+
 ( #has_/name :: has_text_of_procedure )
 ( #has_/range :: Text )
 

@@ -31,7 +31,9 @@ Use it like this:
 One or more alternative conditions considered in the differential diagnosis process as output of a diagnosis process.
 
 Relation describes that: 
-[ #has_/domain  :: DDxElement, Patient ]
+
+#has_/domain  :: DDxElement, Patient  
+
 ( #has_/name :: has_diagnosis )
 ( #has_/range :: MedicalCondition )
 

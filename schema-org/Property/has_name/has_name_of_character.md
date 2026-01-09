@@ -37,7 +37,9 @@ Use it like this:
 The name of a character played in some acting or performing role, i.e. in a [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]].
 
 Predicated describes that: 
-[ #has_/domain  :: [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]] ]
+
+#has_/domain  :: [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]]  
+
 ( #has_/name :: has_name_of_character )
 ( #has_/range :: Text )
 

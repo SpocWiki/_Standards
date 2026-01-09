@@ -1,6 +1,7 @@
 
 #has_/time_/started :: 1922-07-01 
-[ #has_/creator :: [ [[Prandtl~Ludwig]], [[von_Mises~Richard]] ] ] 
+
+#has_/creator :: [ [[Prandtl~Ludwig]], [[von_Mises~Richard]] ]  
 
 > **Gesellschaft für Angewandte Mathematik und Mechanik** ("Society of Applied Mathematics and Mechanics"), 
 > often referred to by the acronym GAMM, is a German society for the promotion of science, 

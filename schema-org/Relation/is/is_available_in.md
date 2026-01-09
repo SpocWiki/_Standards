@@ -33,7 +33,9 @@ Use it like this:
 The location in which the strength is available.
 
 Relation describes that: 
-[ #has_/domain  :: DrugStrength]
+
+#has_/domain  :: DrugStrength 
+
 ( #has_/name :: is_available_in)
 ( #has_/range :: AdministrativeArea)
 

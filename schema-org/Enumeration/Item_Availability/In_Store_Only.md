@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Indicates that the item is available only at physical locations.
 
-[ #is_/sub_class_of :: [[../ItemAvailability]] ]
+#is_/sub_class_of :: [[../ItemAvailability]]  
 
-[ #is_/enum_of :: [[../ItemAvailability]] ]
-
+#is_/enum_of :: [[../ItemAvailability]]  
 
 ## Confidential Links & Embeds: 
 

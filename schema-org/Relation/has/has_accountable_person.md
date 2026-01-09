@@ -32,7 +32,9 @@ Use it like this:
 Specifies the Person that is legally accountable for the CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_accountable_person )
 ( #has_/range :: Person )
 

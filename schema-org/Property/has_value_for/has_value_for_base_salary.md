@@ -36,7 +36,9 @@ Use it like this:
 The base salary of the job or of an employee in an EmployeeRole.
 
 Predicate describes that: 
-[ #has_/domain  :: EmployeeRole, JobPosting ]
+
+#has_/domain  :: EmployeeRole, JobPosting  
+
 ( #has_/name :: has_value_for_base_salary )
 ( #has_/range :: MonetaryAmount, Number, PriceSpecification )
 

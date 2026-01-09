@@ -31,7 +31,9 @@ Use it like this:
 Indicates a target EntryPoint, or url, for an Action.
 
 Relation describes that: 
-[ #has_/domain  :: Action ]
+
+#has_/domain  :: Action  
+
 ( #has_/name :: is_target )
 ( #has_/range :: EntryPoint, URL )
 

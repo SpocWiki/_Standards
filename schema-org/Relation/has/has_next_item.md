@@ -37,7 +37,9 @@ Use it like this:
 - [ has_next_item :: ListItem ] 
 
 This Relation describes that: 
-[ #has_/domain  :: ListItem ]
+
+#has_/domain  :: ListItem  
+
 ( #has_/name :: has_next_item )
 ( #has_/range :: ListItem )
 

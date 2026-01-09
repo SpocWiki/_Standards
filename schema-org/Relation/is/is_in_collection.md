@@ -35,12 +35,13 @@ Use it like this:
 A sub property of object. The collection target of the action.
 
 Relation describes that: 
-[ #has_/domain  :: UpdateAction ]
+
+#has_/domain  :: UpdateAction  
+
 ( #has_/name :: is_in_collection )
 ( #has_/range :: Thing )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

@@ -38,7 +38,9 @@ Use it like this:
 Type of software application, e.g. "Game, Multimedia".
 
 Predicated describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_text_of_application_category )
 ( #has_/range :: Text, URL )
 

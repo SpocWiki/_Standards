@@ -24,7 +24,7 @@ title: has_pattern
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/pattern :: DefinedTerm, Text ] or 
@@ -35,7 +35,9 @@ A pattern that something has, for example 'polka dot', 'striped', 'Canadian flag
 Values are typically expressed as text, although links to controlled value schemes are also supported.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Product ]
+
+#has_/domain  :: CreativeWork, Product  
+
 ( #has_/name :: has_pattern )
 ( #has_/range :: DefinedTerm, Text )
 

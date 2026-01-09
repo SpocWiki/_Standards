@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of participating in exertive activity for the purposes of improving health and fitness.
 
-[ #is_/sub_class_of :: [[../PlayAction]] ]
+#is_/sub_class_of :: [[../PlayAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, course, description, diet, disambiguatingDescription, distance, endTime, error, event, exerciseCourse, exercisePlan, exerciseRelatedDiet, exerciseType, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, opponent, participant, potentialAction, provider, result, sameAs, sportsActivityLocation, sportsEvent, sportsTeam, startTime, subjectOf, target, toLocation, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, course, description, diet, disambiguatingDescription, distance, endTime, error, event, exerciseCourse, exercisePlan, exerciseRelatedDiet, exerciseType, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, opponent, participant, potentialAction, provider, result, sameAs, sportsActivityLocation, sportsEvent, sportsTeam, startTime, subjectOf, target, toLocation, url ]  
 
 ## Confidential Links & Embeds: 
 

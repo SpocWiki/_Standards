@@ -56,11 +56,11 @@ A [Relation](Relation.md) connects to another Entity.
 The Class/Type of all [Properties](../[Properties](Property.md) like this: 
 #is_a_/property 
 
-[ #is_/part_of :: https://meta.schema.org ]
+#is_/part_of :: https://meta.schema.org  
 
 [Properties](../Property.md) are used to indicate attributes and relationships of some Thing; equivalent to rdf:Property.
 
-[ #is_/sub_class_of :: [[Class/is_a_/Intangible]] ]
+#is_/sub_class_of :: [[Class/is_a_/Intangible]]  
 
 #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Relation/is_same_as|sameAs]], subjectOf, supersededBy, url ] ]
 

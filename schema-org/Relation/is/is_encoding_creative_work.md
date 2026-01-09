@@ -33,12 +33,13 @@ Use it like this:
 The CreativeWork encoded by this media object.
 
 Relation describes that: 
-[ #has_/domain  :: MediaObject]
+
+#has_/domain  :: MediaObject 
+
 ( #has_/name :: is_encoding_creative_work)
 ( #has_/range :: CreativeWork)
 
-[ #is_/inverse_of  :: [[../has/has_encoding]] ]
-
+#is_/inverse_of  :: [[../has/has_encoding]]  
 
 ## Confidential Links & Embeds: 
 

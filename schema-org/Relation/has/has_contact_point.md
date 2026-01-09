@@ -36,7 +36,9 @@ Use it like this:
 A contact point for a person or organization.
 
 Relation describes that: 
-[ #has_/domain  :: HealthInsurancePlan, Organization, Person ]
+
+#has_/domain  :: HealthInsurancePlan, Organization, Person  
+
 ( #has_/name :: has_contact_point )
 ( #has_/range :: ContactPoint )
 

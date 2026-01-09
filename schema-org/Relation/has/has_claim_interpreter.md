@@ -28,7 +28,7 @@ title: has_claim_interpreter
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/claim_interpreter :: Organization, Person ] or 
@@ -38,7 +38,9 @@ For a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim]] int
 	sed to indicate a claim contained, implied or refined from the content of a [[MediaObject]].
 
 Relation describes that: 
-[ #has_/domain  :: Claim ]
+
+#has_/domain  :: Claim  
+
 ( #has_/name :: has_claim_interpreter )
 ( #has_/range :: Organization, Person )
 

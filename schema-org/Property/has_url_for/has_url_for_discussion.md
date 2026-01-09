@@ -37,7 +37,9 @@ Use it like this:
 A link to the page containing the comments of the CreativeWork.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_url_for_discussion_url )
 ( #has_/range :: URL )
 

@@ -24,7 +24,7 @@ title: has_correction
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/correction :: CorrectionComment, Text, URL ] or 
@@ -33,7 +33,9 @@ Use it like this:
 Indicates a correction to a [[CreativeWork]], either via a [[CorrectionComment]], textually or in another document.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_correction )
 ( #has_/range :: CorrectionComment, Text, URL )
 

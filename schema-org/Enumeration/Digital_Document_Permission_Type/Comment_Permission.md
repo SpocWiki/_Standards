@@ -39,10 +39,9 @@ Comments are MetaData that should be stored separately from the actual Data.
 In Word, these are stored inside the same Document, bearing the Risk of accidentally modifying the Original. 
 In Markdown this is even riskier, since there are no clear limits, except for the FrontMatter and external Indices. 
 
-[ #is_/sub_class_of :: [[../DigitalDocumentPermissionType]] ]
+#is_/sub_class_of :: [[../DigitalDocumentPermissionType]]  
 
-[ #is_/enum_of :: [[../DigitalDocumentPermissionType]] ]
-
+#is_/enum_of :: [[../DigitalDocumentPermissionType]]  
 
 ## Confidential Links & Embeds: 
 

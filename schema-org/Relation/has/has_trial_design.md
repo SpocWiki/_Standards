@@ -35,7 +35,9 @@ Use it like this:
 Specifics about the trial design (enumerated).
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTrial ]
+
+#has_/domain  :: MedicalTrial  
+
 ( #has_/name :: is_trial_design )
 ( #has_/range :: MedicalTrialDesign )
 

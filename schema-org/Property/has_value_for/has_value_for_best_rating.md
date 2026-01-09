@@ -36,7 +36,9 @@ Use it like this:
 The highest value allowed in this rating system. If bestRating is omitted, 5 is assumed.
 
 Predicate describes that: 
-[ #has_/domain  :: Rating ]
+
+#has_/domain  :: Rating  
+
 ( #has_/name :: has_value_for_best_rating )
 ( #has_/range :: Number, Text )
 

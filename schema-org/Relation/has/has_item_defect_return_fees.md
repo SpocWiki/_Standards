@@ -30,7 +30,7 @@ title: has_item_defect_return_fees
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/item_defect_return_fees :: ReturnFeesEnumeration ] or 
@@ -39,7 +39,9 @@ Use it like this:
 The type of return fees for returns of defect products.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy ]
+
+#has_/domain  :: MerchantReturnPolicy  
+
 ( #has_/name :: has_item_defect_return_fees )
 ( #has_/range :: ReturnFeesEnumeration )
 

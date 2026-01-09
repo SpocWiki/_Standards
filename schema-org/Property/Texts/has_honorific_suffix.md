@@ -38,7 +38,9 @@ Use it like this:
 An honorific suffix following a Person"s name such as M.D./PhD/MSCSW.
 
 Predicated describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_text_of_honorific_suffix )
 ( #has_/range :: Text )
 

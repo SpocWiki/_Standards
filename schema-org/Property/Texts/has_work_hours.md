@@ -38,7 +38,9 @@ Use it like this:
 The typical working hours for this job (e.g. 1st shift, night shift, 8am-5pm).
 
 Predicated describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_text_of_work_hours )
 ( #has_/range :: Text )
 

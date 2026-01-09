@@ -31,19 +31,20 @@ type: Predi_Relation
 
 A [[../../Class/is_a_/Intangible/defined_term|defined_term]] contained in this term set.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/defined_term :: DefinedTerm ] or 
 - [ has_defined_term :: DefinedTerm ] 
 
 Relation describes that: 
-[ #has_/domain  :: DefinedTermSet, Taxon ]
+
+#has_/domain  :: DefinedTermSet, Taxon  
+
 ( #has_/name :: has_defined_term )
 ( #has_/range :: DefinedTerm )
 
-[ #has_/sub_properties :: [ hasCategoryCode ] ]
-
+#has_/sub_properties :: [ hasCategoryCode ]  
 
 ## Confidential Links & Embeds: 
 

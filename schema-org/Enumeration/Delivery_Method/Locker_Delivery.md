@@ -35,10 +35,9 @@ Tag Instances like this:
 
 A DeliveryMethod in which an item is made available via locker.
 
-[ #is_/sub_class_of :: [[../DeliveryMethod]] ]
+#is_/sub_class_of :: [[../DeliveryMethod]]  
 
-[ #is_/enum_of :: [[../DeliveryMethod]] ]
-
+#is_/enum_of :: [[../DeliveryMethod]]  
 
 ## Confidential Links & Embeds: 
 

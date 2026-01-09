@@ -32,14 +32,13 @@ Class of all health_insurance_plans.
 Tag Instances like this: 
 #is_a_/health_insurance_plan
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A US-style health insurance plan, including PPOs, EPOs, and HMOs.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, benefitsSummaryUrl, contactPoint, description, disambiguatingDescription, healthPlanDrugOption, healthPlanDrugTier, healthPlanId, healthPlanMarketingUrl, identifier, image, includesHealthPlanFormulary, includesHealthPlanNetwork, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, usesHealthPlanIdStandard ] ]
-
+#has_/properties :: [ additionalType, alternateName, benefitsSummaryUrl, contactPoint, description, disambiguatingDescription, healthPlanDrugOption, healthPlanDrugTier, healthPlanId, healthPlanMarketingUrl, identifier, image, includesHealthPlanFormulary, includesHealthPlanNetwork, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, usesHealthPlanIdStandard ]  
 
 ## Confidential Links & Embeds: 
 

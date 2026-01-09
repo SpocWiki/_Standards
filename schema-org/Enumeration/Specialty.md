@@ -32,10 +32,9 @@ Tag Instances like this:
 
 Any branch of a field in which people typically develop specific expertise, usually after significant study, time, and effort.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
+#is_/sub_class_of :: [[../Enumeration]]  
 
-[ #has_/sub_classes :: [ MedicalSpecialty ] ]
-
+#has_/sub_classes :: [ MedicalSpecialty ]  
 
 ## Confidential Links & Embeds: 
 

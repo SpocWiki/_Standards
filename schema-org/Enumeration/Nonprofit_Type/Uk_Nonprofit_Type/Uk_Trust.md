@@ -33,14 +33,13 @@ Class of all uk_trusts.
 Tag Instances like this: 
 #is_a_/uk_trust
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 UKTrust: Non-profit type referring to a UK trust.
 
-[ #is_/sub_class_of :: [[../UKNonprofitType]] ]
+#is_/sub_class_of :: [[../UKNonprofitType]]  
 
-[ #is_/enum_of :: [[../UKNonprofitType]] ]
-
+#is_/enum_of :: [[../UKNonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

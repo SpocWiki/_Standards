@@ -32,7 +32,7 @@ type: Pred_Text
 
 Predicate to describe the Text of CDCPMDRecord.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/cvd_facility_county :: Text ] or 
@@ -41,7 +41,9 @@ Use it like this:
 Name of the County of the NHSN facility that this data record applies to. Use [[cvdFacilityId]] to identify the facility. To provide other details, [[healthcareReportingData]] can be used on a [[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital]] entry.
 
 Predicated describes that: 
-[ #has_/domain  :: CDCPMDRecord ]
+
+#has_/domain  :: CDCPMDRecord  
+
 ( #has_/name :: has_text_of_cvd_facility_county )
 ( #has_/range :: Text )
 

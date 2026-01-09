@@ -33,14 +33,13 @@ Class of all not_in_forces.
 Tag Instances like this: 
 #is_a_/not_in_force
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Indicates that a legislation is currently not in force.
 
-[ #is_/sub_class_of :: [[../LegalForceStatus]] ]
+#is_/sub_class_of :: [[../LegalForceStatus]]  
 
-[ #is_/enum_of :: [[../LegalForceStatus]] ]
-
+#is_/enum_of :: [[../LegalForceStatus]]  
 
 ## Confidential Links & Embeds: 
 

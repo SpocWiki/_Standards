@@ -36,7 +36,9 @@ Use it like this:
 The place where the Organization was founded.
 
 Predicate describes that: 
-[ #has_/domain  :: Organization ]
+
+#has_/domain  :: Organization  
+
 ( #has_/name :: has_location_founding )
 ( #has_/range :: Place )
 

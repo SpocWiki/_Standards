@@ -35,7 +35,9 @@ Use it like this:
 The WebSite or SoftwareApplication where the interactions took place.
 
 Relation describes that: 
-[ #has_/domain  :: InteractionCounter ]
+
+#has_/domain  :: InteractionCounter  
+
 ( #has_/name :: has_interaction_service )
 ( #has_/range :: SoftwareApplication, WebSite )
 

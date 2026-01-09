@@ -33,14 +33,13 @@ Class of all invoice_prices.
 Tag Instances like this: 
 #is_an_/invoice_price
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the invoice price of an offered product.
 
-[ #is_/sub_class_of :: [[../PriceTypeEnumeration]] ]
+#is_/sub_class_of :: [[../PriceTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
-
+#is_/enum_of :: [[../PriceTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

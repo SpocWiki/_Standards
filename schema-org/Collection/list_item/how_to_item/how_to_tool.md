@@ -33,10 +33,9 @@ Tag Instances like this:
 
 A tool used (but not consumed) when performing instructions for how to achieve a result.
 
-[ #is_/sub_class_of :: [[../HowToItem]] ]
+#is_/sub_class_of :: [[../HowToItem]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

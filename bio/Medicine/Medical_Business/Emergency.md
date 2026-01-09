@@ -34,10 +34,9 @@ Tag Instances like this:
 A specific branch of medical science that deals with the evaluation and initial treatment of 
 medical conditions caused by trauma or sudden illness.
 
-[ #is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]] ]
+#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
 
-[ #is_/enum_of :: [[../MedicalSpecialty]] ]
-
+#is_/enum_of :: [[../MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

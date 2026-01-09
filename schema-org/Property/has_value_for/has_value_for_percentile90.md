@@ -36,7 +36,9 @@ Use it like this:
 The 90th percentile value.
 
 Predicate describes that: 
-[ #has_/domain  :: QuantitativeValueDistribution ]
+
+#has_/domain  :: QuantitativeValueDistribution  
+
 ( #has_/name :: has_value_for_percentile90 )
 ( #has_/range :: Number )
 

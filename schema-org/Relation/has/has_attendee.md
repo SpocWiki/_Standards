@@ -32,7 +32,9 @@ Use it like this:
 A person or organization attending the event.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: has_attendee )
 ( #has_/range :: Organization, Person )
 

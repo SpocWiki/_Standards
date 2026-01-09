@@ -34,10 +34,9 @@ Tag Instances like this:
 
 Used to describe membership in a loyalty programs (e.g. "StarAliance"), traveler clubs (e.g. "AAA"), purchase clubs ("Safeway Club"), etc.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, hostingOrganization, identifier, image, mainEntityOfPage, member, members, membershipNumber, membershipPointsEarned, name, potentialAction, programName, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, hostingOrganization, identifier, image, mainEntityOfPage, member, members, membershipNumber, membershipPointsEarned, name, potentialAction, programName, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

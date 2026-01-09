@@ -36,7 +36,9 @@ Use it like this:
 This ordering relation for qualitative values indicates that the subject is not equal to the object.
 
 Relation describes that: 
-[ #has_/domain  :: QualitativeValue ]
+
+#has_/domain  :: QualitativeValue  
+
 ( #has_/name :: is_non_equal )
 ( #has_/range :: QualitativeValue )
 

@@ -38,7 +38,9 @@ Use it like this:
 The likely outcome in either the short term or long term of the medical condition.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalCondition ]
+
+#has_/domain  :: MedicalCondition  
+
 ( #has_/name :: has_text_of_expected_prognosis )
 ( #has_/range :: Text )
 

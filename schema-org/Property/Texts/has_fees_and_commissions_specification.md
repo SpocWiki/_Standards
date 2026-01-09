@@ -40,7 +40,9 @@ Use it like this:
 Description of fees, commissions, and other terms applied either to a class of financial product, or by a financial service organization.
 
 Predicated describes that: 
-[ #has_/domain  :: FinancialProduct, FinancialService ]
+
+#has_/domain  :: FinancialProduct, FinancialService  
+
 ( #has_/name :: has_text_of_fees_and_commissions_specification )
 ( #has_/range :: Text, URL )
 

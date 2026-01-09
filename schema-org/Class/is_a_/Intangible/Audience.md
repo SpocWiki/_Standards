@@ -34,12 +34,11 @@ i.e. the groups for whom an item was created.
 Tag Instances like this: 
 #has_/audience
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/sub_classes :: [ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ] ]
+#has_/sub_classes :: [ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ]  
 
-[ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

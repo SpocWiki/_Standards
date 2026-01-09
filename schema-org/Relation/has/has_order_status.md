@@ -35,7 +35,9 @@ Use it like this:
 The current status of the order.
 
 Relation describes that: 
-[ #has_/domain  :: Order ]
+
+#has_/domain  :: Order  
+
 ( #has_/name :: has_order_status )
 ( #has_/range :: OrderStatus )
 

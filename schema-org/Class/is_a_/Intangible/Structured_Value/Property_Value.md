@@ -36,12 +36,11 @@ A property-value pair, e.g. representing a feature of a product or place. Use th
 
 Always use specific schema.org properties when a) they exist and b) you can populate them. Using PropertyValue as a substitute will typically not trigger the same effect as using the original, specific property.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/sub_classes :: [ LocationFeatureSpecification ] ]
+#has_/sub_classes :: [ LocationFeatureSpecification ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ]  
 
 ## Confidential Links & Embeds: 
 

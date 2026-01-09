@@ -37,7 +37,9 @@ Use it like this:
 The street address. For example, 1600 Amphitheatre Pkwy.
 
 Predicated describes that: 
-[ #has_/domain  :: PostalAddress ]
+
+#has_/domain  :: PostalAddress  
+
 ( #has_/name :: has_location_address_street )
 ( #has_/range :: Text )
 

@@ -35,7 +35,9 @@ Use it like this:
 The region/country for which this occupational description is appropriate. Note that educational requirements and qualifications can vary between jurisdictions.
 
 Relation describes that: 
-[ #has_/domain  :: Occupation ]
+
+#has_/domain  :: Occupation  
+
 ( #has_/name :: has_occupation_location )
 ( #has_/range :: AdministrativeArea )
 

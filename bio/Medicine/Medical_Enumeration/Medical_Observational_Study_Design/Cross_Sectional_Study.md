@@ -33,10 +33,9 @@ Tag Instances like this:
 
 Studies carried out on pre-existing data (usually from 'snapshot' surveys), such as that collected by the Census Bureau. Sometimes called Prevalence Studies.
 
-[ #is_/sub_class_of :: [[../MedicalObservationalStudyDesign]] ]
+#is_/sub_class_of :: [[../MedicalObservationalStudyDesign]]  
 
-[ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
-
+#is_/enum_of :: [[../MedicalObservationalStudyDesign]]  
 
 ## Confidential Links & Embeds: 
 

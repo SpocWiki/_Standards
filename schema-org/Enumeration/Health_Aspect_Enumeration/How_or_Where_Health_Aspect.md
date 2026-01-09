@@ -33,14 +33,13 @@ Class of all how_or_where_health_aspects.
 Tag Instances like this: 
 #is_a_/how_or_where_health_aspect
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Information about how or where to find a topic. Also may contain location data that can be used for where to look for help if the topic is observed.
 
-[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
+#is_/sub_class_of :: [[../HealthAspectEnumeration]]  
 
-[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
-
+#is_/enum_of :: [[../HealthAspectEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

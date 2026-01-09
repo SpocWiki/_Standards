@@ -33,12 +33,11 @@ Tag Instances like this:
 
 An item used as either a tool or supply when performing the instructions for how to achieve a result.
 
-[ #is_/sub_class_of :: [[../ListItem]] ]
+#is_/sub_class_of :: [[../ListItem]]  
 
-[ #has_/sub_classes :: [ HowToSupply, HowToTool ] ]
+#has_/sub_classes :: [ HowToSupply, HowToTool ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

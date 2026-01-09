@@ -38,7 +38,9 @@ Use it like this:
 A route by which this drug may be administered, e.g. "oral".
 
 Predicated describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_text_of_administration_route )
 ( #has_/range :: Text )
 

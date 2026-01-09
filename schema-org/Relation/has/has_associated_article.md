@@ -33,7 +33,9 @@ Use it like this:
 A NewsArticle associated with the Media Object.
 
 Relation describes that: 
-[ #has_/domain  :: MediaObject ]
+
+#has_/domain  :: MediaObject  
+
 ( #has_/name :: has_associated_article )
 ( #has_/range :: NewsArticle )
 

@@ -38,12 +38,13 @@ Use it like this:
 - [ has_target_collection :: [Thing](../../../Class/Thing.md) ] 
 
 Relation describes that: 
-[ #has_/domain  :: UpdateAction ]
+
+#has_/domain  :: UpdateAction  
+
 ( #has_/name :: has_target_collection )
 ( #has_/range :: Thing )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

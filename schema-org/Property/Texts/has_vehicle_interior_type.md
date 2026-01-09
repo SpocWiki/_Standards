@@ -39,7 +39,9 @@ Use it like this:
 The type or material of the interior of the vehicle (e.g. synthetic fabric, leather, wood, etc.). While most interior types are characterized by the material used, an interior type can also be based on vehicle usage or target audience.
 
 Predicated describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_text_of_vehicle_interior_type )
 ( #has_/range :: Text )
 

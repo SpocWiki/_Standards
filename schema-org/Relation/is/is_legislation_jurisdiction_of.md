@@ -28,7 +28,7 @@ title: is_legislation_jurisdiction_of
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #is_/legislation_jurisdiction_of :: AdministrativeArea, Text ] or 
@@ -37,12 +37,13 @@ Use it like this:
 The jurisdiction from which the legislation originates.
 
 Relation describes that: 
-[ #has_/domain  :: Legislation ]
+
+#has_/domain  :: Legislation  
+
 ( #has_/name :: is_legislation_jurisdiction_of )
 ( #has_/range :: AdministrativeArea, Text )
 
-[ #is_/sub_property_of  :: jurisdiction, spatialCoverage ]
-
+#is_/sub_property_of  :: jurisdiction, spatialCoverage  
 
 ## Confidential Links & Embeds: 
 

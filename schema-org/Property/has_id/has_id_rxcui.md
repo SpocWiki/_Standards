@@ -29,7 +29,7 @@ type: Pred_Text
 
 Predicate to describe the Text of Drug.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/id_/rxcui :: Text ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The id_rxcui drug identifier from RXNORM.
 
 Predicated describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_id_rxcui )
 ( #has_/range :: Text )
 

@@ -36,10 +36,9 @@ A reservation for a rental car.
 
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations.
 
-[ #is_/sub_class_of :: [[../Reservation]] ]
+#is_/sub_class_of :: [[../Reservation]]  
 
-[ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, dropoffLocation, dropoffTime, identifier, image, mainEntityOfPage, modifiedTime, name, pickupLocation, pickupTime, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, dropoffLocation, dropoffTime, identifier, image, mainEntityOfPage, modifiedTime, name, pickupLocation, pickupTime, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]  
 
 ## Confidential Links & Embeds: 
 

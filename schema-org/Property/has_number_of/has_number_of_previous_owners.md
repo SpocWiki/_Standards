@@ -39,7 +39,9 @@ Use it like this:
 Typical unit code(s): #gs1_/C62  
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_number_of_previous_owners )
 ( #has_/range :: Number, QuantitativeValue )
 

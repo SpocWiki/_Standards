@@ -33,7 +33,8 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/AUSTROAZIATSKIE_YAZIKI.html
 # [[LangFamily-Austro-Asiatic]] 
 
  [SpocWebEntityId:: 240 ]
-[has_/name::Austro-Asiatic]
+
+has_/name::Austro-Asiatic 
 
 #is_/same_as :: [[../../WikiData/WD~Austroasiatic,33199|WD~Austroasiatic,33199]] 
 

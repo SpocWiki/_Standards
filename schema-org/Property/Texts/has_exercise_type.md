@@ -38,7 +38,9 @@ Use it like this:
 Type(s) of exercise or activity, such as strength training, flexibility training, aerobics, cardiac rehabilitation, etc.
 
 Predicated describes that: 
-[ #has_/domain  :: ExerciseAction, ExercisePlan ]
+
+#has_/domain  :: ExerciseAction, ExercisePlan  
+
 ( #has_/name :: has_text_of_exercise_type )
 ( #has_/range :: Text )
 

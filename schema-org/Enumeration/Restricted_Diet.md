@@ -34,8 +34,7 @@ Tag Instances like this:
 
 A diet restricted to certain foods or preparations for cultural, religious, health or lifestyle reasons.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

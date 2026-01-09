@@ -37,12 +37,13 @@ A sub property of location.
 The final location of the object or the agent after the action.
 
 Predicate describes that: 
-[ #has_/domain  :: ExerciseAction, InsertAction, MoveAction, TransferAction ]
+
+#has_/domain  :: ExerciseAction, InsertAction, MoveAction, TransferAction  
+
 ( #has_/name :: has_location_to )
 ( #has_/range :: Place )
 
-[ #is_/sub_property_of  :: location ]
-
+#is_/sub_property_of  :: location  
 
 ## Confidential Links & Embeds: 
 

@@ -41,7 +41,9 @@ Use it like this:
 - [ is_sub_property_of :: [[../Property]]] 
 
 [[../Relation|Relation]] describes that: 
-[ #has_/domain  :: [[../Property]]]
+
+#has_/domain  :: [[../Property]] 
+
 ( #has_/name :: [[../Relation/is_sub_property_of]] )
 ( #has_/range :: [[../Property]])
 

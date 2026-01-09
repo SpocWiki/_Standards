@@ -36,7 +36,9 @@ Use it like this:
 Type of ordering (e.g. Ascending, Descending, Unordered).
 
 Relation describes that: 
-[ #has_/domain  :: ItemList ]
+
+#has_/domain  :: ItemList  
+
 ( #has_/name :: has_item_list_order )
 ( #has_/range :: ItemListOrderType, Text )
 

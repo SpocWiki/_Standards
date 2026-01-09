@@ -38,7 +38,9 @@ Use it like this:
 Cash, Credit Card, Cryptocurrency, Local Exchange Tradings System, etc.
 
 Predicated describes that: 
-[ #has_/domain  :: LocalBusiness ]
+
+#has_/domain  :: LocalBusiness  
+
 ( #has_/name :: has_text_of_payment_accepted )
 ( #has_/range :: Text )
 

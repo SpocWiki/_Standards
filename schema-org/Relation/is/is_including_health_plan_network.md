@@ -26,7 +26,7 @@ title: is_including_health_plan_network
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending:]
+#is_/part_of :: pending: 
 
 Use it like this: 
 - [ #is_/including_health_plan_network :: HealthPlanNetwork] or 
@@ -35,7 +35,9 @@ Use it like this:
 Networks covered by this plan.
 
 Relation describes that: 
-[ #has_/domain  :: HealthInsurancePlan]
+
+#has_/domain  :: HealthInsurancePlan 
+
 ( #has_/name :: is_including_health_plan_network)
 ( #has_/range :: HealthPlanNetwork)
 

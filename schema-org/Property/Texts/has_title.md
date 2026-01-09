@@ -37,7 +37,9 @@ Use it like this:
 The title of the job.
 
 Predicated describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_text_of_title )
 ( #has_/range :: Text )
 

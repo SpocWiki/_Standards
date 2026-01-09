@@ -31,7 +31,7 @@ title: has_customer_remorse_return_label_source
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/customer_remorse_return_label_source :: ReturnLabelSourceEnumeration ] or 
@@ -40,7 +40,9 @@ Use it like this:
 The method (from an enumeration) by which the customer obtains a return shipping label for a product returned due to customer remorse.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy ]
+
+#has_/domain  :: MerchantReturnPolicy  
+
 ( #has_/name :: has_customer_remorse_return_label_source )
 ( #has_/range :: ReturnLabelSourceEnumeration )
 

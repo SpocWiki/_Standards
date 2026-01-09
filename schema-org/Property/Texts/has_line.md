@@ -37,7 +37,9 @@ Use it like this:
 A line is a point-to-point path consisting of two or more points. A line is expressed as a series of two or more point objects separated by space.
 
 Predicated describes that: 
-[ #has_/domain  :: GeoShape ]
+
+#has_/domain  :: GeoShape  
+
 ( #has_/name :: has_text_of_line )
 ( #has_/range :: Text )
 

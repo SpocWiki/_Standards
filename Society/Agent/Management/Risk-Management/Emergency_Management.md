@@ -22,9 +22,21 @@ has_id_wikidata: Q1460420
 > and are managed through the day-to-day functions of a community. 
 > 
 > Instead, emergency management focuses on the management of disasters, 
-> which are events that produce more impacts than a community can handle on its own.
+> which are events that produce impacts than a **community cannot handle on its own**.
 >
-> The management of disasters tends to require some combination of activity from individuals and households, organizations, local, and/or higher levels of government. Although many different terminologies exist globally, the activities of emergency management can be generally categorized into preparedness, response, mitigation, and recovery, although other terms such as disaster risk reduction and prevention are also common. The outcome of emergency management is to prevent disasters and where this is not possible, to reduce their harmful impacts.
+> The management of disasters tends to require some combination of activity from 
+> individuals and households, organizations, local, and/or higher levels of government. 
+> 
+> Although many different terminologies exist globally, 
+> the activities of emergency management can be generally categorized into 
+> - preparedness, 
+> - response, 
+> - mitigation, and 
+> - recovery, 
+> although other terms such as disaster risk reduction and prevention are also common. 
+> 
+> The outcome of emergency management is to prevent disasters 
+> and where this is not possible, to reduce their harmful impacts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Emergency%20management) 
 

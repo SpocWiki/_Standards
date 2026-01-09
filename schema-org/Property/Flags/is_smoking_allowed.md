@@ -37,7 +37,9 @@ Or write it as a Triple:
 Indicates whether it is allowed to smoke in the place, e.g. in the restaurant, hotel or hotel room.
 
 Predicate describes that: 
-[ #has_/domain  :: Place ]
+
+#has_/domain  :: Place  
+
 ( #has_/name :: is_smoking_allowed )
 ( #has_/range :: Boolean )
 

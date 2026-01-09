@@ -35,10 +35,9 @@ Tag Instances like this:
 
 The invitee will not attend.
 
-[ #is_/sub_class_of :: [[../RsvpResponseType]] ]
+#is_/sub_class_of :: [[../RsvpResponseType]]  
 
-[ #is_/enum_of :: [[../RsvpResponseType]] ]
-
+#is_/enum_of :: [[../RsvpResponseType]]  
 
 ## Confidential Links & Embeds: 
 

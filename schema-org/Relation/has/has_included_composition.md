@@ -35,7 +35,9 @@ Use it like this:
 Smaller compositions included in this work (e.g. a movement in a symphony).
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition ]
+
+#has_/domain  :: MusicComposition  
+
 ( #has_/name :: has_included_composition )
 ( #has_/range :: MusicComposition )
 

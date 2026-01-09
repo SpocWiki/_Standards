@@ -30,7 +30,7 @@ type: Predi_Url
 
 Predicate to specify the Url of MerchantReturnPolicy.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/url_for_/merchant_return_link :: URL ] or 
@@ -39,7 +39,9 @@ Use it like this:
 Specifies a Web page or service by URL, for product returns.
 
 Predicate describes that: 
-[ #has_/domain  :: MerchantReturnPolicy ]
+
+#has_/domain  :: MerchantReturnPolicy  
+
 ( #has_/name :: has_url_for_merchant_return_link )
 ( #has_/range :: URL )
 

@@ -33,14 +33,13 @@ Class of all eu_energy_efficiency_category_fs.
 Tag Instances like this: 
 #is_an_/eu_energy_efficiency_category_f
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents EU Energy Efficiency Class F as defined in EU energy labeling regulations.
 
-[ #is_/sub_class_of :: [[../EUEnergyEfficiencyEnumeration]] ]
+#is_/sub_class_of :: [[../EUEnergyEfficiencyEnumeration]]  
 
-[ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
-
+#is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

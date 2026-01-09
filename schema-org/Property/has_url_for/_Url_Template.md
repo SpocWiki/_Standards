@@ -34,7 +34,7 @@ type: Predi_Url
 
 Predicate to specify the Url of {{domainIncludes}}.
 
-[ #is_/part_of :: {{isPartOf}} ]
+#is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
 - [ #has_/url_for_/{{label_snail}} :: {{rangeIncludes}} ] or 
@@ -43,16 +43,17 @@ Use it like this:
 {{comment}}
 
 Predicate describes that: 
-[ #has_/domain  :: {{domainIncludes}} ]
+
+#has_/domain  :: {{domainIncludes}}  
+
 ( #has_/name :: has_url_for_{{label_snail}} )
 ( #has_/range :: {{rangeIncludes}} )
 
-[ #is_/inverse_of  :: {{inverseOf}} ]
+#is_/inverse_of  :: {{inverseOf}}  
 
-[ #is_/sub_property_of  :: {{subPropertyOf}} ]
+#is_/sub_property_of  :: {{subPropertyOf}}  
 
-[ #has_/sub_properties :: [ {{subproperties}} ] ]
-
+#has_/sub_properties :: [ {{subproperties}} ]  
 
 ## Confidential Links & Embeds: 
 

@@ -35,7 +35,9 @@ Use it like this:
 Cheat codes to the game.
 
 Relation describes that: 
-[ #has_/domain  :: VideoGame, VideoGameSeries ]
+
+#has_/domain  :: VideoGame, VideoGameSeries  
+
 ( #has_/name :: has_cheat_code )
 ( #has_/range :: CreativeWork )
 

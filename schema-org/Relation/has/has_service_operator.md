@@ -35,7 +35,9 @@ Use it like this:
 The operating organization, if different from the provider.  This enables the representation of services that are provided by an organization, but operated by another organization like a subcontractor.
 
 Relation describes that: 
-[ #has_/domain  :: GovernmentService ]
+
+#has_/domain  :: GovernmentService  
+
 ( #has_/name :: is_service_operator )
 ( #has_/range :: Organization )
 

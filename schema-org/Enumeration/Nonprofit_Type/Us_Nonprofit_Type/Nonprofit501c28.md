@@ -31,14 +31,13 @@ Class of all nonprofit501c28s.
 Tag Instances like this: 
 #is_a_/nonprofit501c28
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Nonprofit501c28: Non-profit type referring to National Railroad Retirement Investment Trusts.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+#is_/sub_class_of :: [[../USNonprofitType]]  
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+#is_/enum_of :: [[../USNonprofitType]]  
 
 ## Confidential Links & Embeds: 
 

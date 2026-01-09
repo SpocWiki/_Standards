@@ -27,7 +27,7 @@ title: is_paying_cash_back
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/paying_cash_back 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 A cardholder benefit that pays the cardholder a small percentage of their net expenditures.
 
 Predicate describes that: 
-[ #has_/domain  :: PaymentCard ]
+
+#has_/domain  :: PaymentCard  
+
 ( #has_/name :: is_paying_cash_back )
 ( #has_/range :: Boolean, Number )
 

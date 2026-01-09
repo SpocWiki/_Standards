@@ -35,7 +35,9 @@ Use it like this:
 A subgrouping of the menu (by dishes, course, serving time period, etc.).
 
 Relation describes that: 
-[ #has_/domain  :: Menu, MenuSection ]
+
+#has_/domain  :: Menu, MenuSection  
+
 ( #has_/name :: has_menu_section )
 ( #has_/range :: MenuSection )
 

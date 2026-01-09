@@ -41,7 +41,9 @@ In the U.S. and most countries, the last Part of a Persons name.
 In China and many Asian countries the first Part of a Persons name.  
 
 Predicated describes that: 
-[ #has_/domain  :: Person ] 
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_name_family ) 
 ( #has_/range :: Text ) 
 

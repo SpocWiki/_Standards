@@ -28,7 +28,8 @@ title: has_domain
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://meta.schema.org ] 
+#is_/part_of :: https://meta.schema.org  
+
 #is_/similar_to :: [[has_range]] 
 Is similar to has_subject that is applied to an instance of a Predicate and yields an Element of the Domain. 
 
@@ -39,7 +40,9 @@ Use it like this:
 Relates a property to a class that is (one of) the type(s) the property is expected to be used on.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Class/is_a_thing/intangible/property]] ]
+
+#has_/domain  :: [[../../../Class/is_a_thing/intangible/property]]  
+
 ( #has_/name :: has_domain )
 ( #has_/range :: [Class](../Classes.md) )
 

@@ -34,7 +34,9 @@ Use it like this:
 Keywords or tags used to describe some item. Multiple textual entries in a keywords list are typically delimited by commas, or by repeating the property.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Event, Organization, Place, Product ]
+
+#has_/domain  :: CreativeWork, Event, Organization, Place, Product  
+
 ( #has_/name :: has_keywords )
 ( #has_/range :: DefinedTerm, Text, URL )
 

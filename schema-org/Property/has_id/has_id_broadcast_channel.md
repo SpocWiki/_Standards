@@ -38,7 +38,9 @@ Use it like this:
 The unique address by which the BroadcastService can be identified in a provider lineup. In US, this is typically a number.
 
 Predicated describes that: 
-[ #has_/domain  :: BroadcastChannel ]
+
+#has_/domain  :: BroadcastChannel  
+
 ( #has_/name :: has_id_broadcast_channel )
 ( #has_/range :: Text )
 

@@ -31,12 +31,13 @@ Use it like this:
 Video game which is played on this server.
 
 Relation describes that: 
-[ #has_/domain  :: GameServer ]
+
+#has_/domain  :: GameServer  
+
 ( #has_/name :: has_game )
 ( #has_/range :: VideoGame )
 
-[ #is_/inverse_of  :: gameServer ]
-
+#is_/inverse_of  :: gameServer  
 
 ## Confidential Links & Embeds: 
 

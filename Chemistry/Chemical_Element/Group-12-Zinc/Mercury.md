@@ -104,18 +104,25 @@ ZVG_number: 8490
 [GroupName::Group-12-Zinc]
 Group::[[../Group-12-Zinc]]
 
+has_/name_/en::Mercury 
 
-[has_/name_/en::Mercury]
-[has_/name_/de::Quecksilber]
-[has_/value_for_/weight_/u::200.59]
+has_/name_/de::Quecksilber 
+
+has_/value_for_/weight_/u::200.59 
+
 [AtomRadius::1.76]
 [Atom-Vol-ccm-mol::14.82]
 [Unknown2::1.49]
-[has_/value_for_/radius_/nano_/m::10.437]
+
+has_/value_for_/radius_/nano_/m::10.437 
+
 [Electronegative::2]
 [Density::13.53]
-[has_/value_for_/temperature_/melt_/c ::-38.87]
-[has_/value_for_/temperature_/boil_/c ::356.58]
+
+has_/value_for_/temperature_/melt_/c ::-38.87 
+
+has_/value_for_/temperature_/boil_/c ::356.58 
+
 [HeatCapacity::0.139]
 [HeatConduct::0.0834]
 [Enthalpy::2.295]

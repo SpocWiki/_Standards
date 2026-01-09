@@ -31,7 +31,9 @@ Use it like this:
 A medical study or trial related to this entity.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity ]
+
+#has_/domain  :: MedicalEntity  
+
 ( #has_/name :: is_study )
 ( #has_/range :: MedicalStudy )
 

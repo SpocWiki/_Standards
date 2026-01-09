@@ -35,7 +35,9 @@ Use it like this:
 Other anatomical structures to which this structure is connected.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure ]
+
+#has_/domain  :: AnatomicalStructure  
+
 ( #has_/name :: is_connected_to )
 ( #has_/range :: AnatomicalStructure )
 

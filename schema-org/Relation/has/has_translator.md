@@ -34,7 +34,9 @@ Use it like this:
 Organization or person who adapts a creative work to different languages, regional differences and technical requirements of a target market, or that translates during some event.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Event ]
+
+#has_/domain  :: CreativeWork, Event  
+
 ( #has_/name :: is_translator )
 ( #has_/range :: Organization, Person )
 

@@ -31,7 +31,9 @@ Use it like this:
 A contraindication for this therapy.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalDevice, MedicalTherapy ]
+
+#has_/domain  :: MedicalDevice, MedicalTherapy  
+
 ( #has_/name :: has_contraindication )
 ( #has_/range :: MedicalContraindication, Text )
 

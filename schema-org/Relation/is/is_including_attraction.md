@@ -26,7 +26,7 @@ title: is_including_attraction
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending:]
+#is_/part_of :: pending: 
 
 Use it like this: 
 - [ #is_/including_attraction :: TouristAttraction] or 
@@ -35,7 +35,9 @@ Use it like this:
 Attraction located at destination.
 
 Relation describes that: 
-[ #has_/domain  :: TouristDestination]
+
+#has_/domain  :: TouristDestination 
+
 ( #has_/name :: is_including_attraction)
 ( #has_/range :: TouristAttraction)
 

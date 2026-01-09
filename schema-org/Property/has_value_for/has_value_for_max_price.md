@@ -36,7 +36,9 @@ Use it like this:
 The highest price if the price is a range.
 
 Predicate describes that: 
-[ #has_/domain  :: PriceSpecification ]
+
+#has_/domain  :: PriceSpecification  
+
 ( #has_/name :: has_value_for_max_price )
 ( #has_/range :: Number )
 

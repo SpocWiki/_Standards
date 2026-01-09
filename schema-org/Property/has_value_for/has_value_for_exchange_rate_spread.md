@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of ExchangeRateSpecification.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/exchange_rate_spread :: MonetaryAmount, Number ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The difference between the price at which a broker or other intermediary buys and sells foreign currency.
 
 Predicate describes that: 
-[ #has_/domain  :: ExchangeRateSpecification ]
+
+#has_/domain  :: ExchangeRateSpecification  
+
 ( #has_/name :: has_value_for_exchange_rate_spread )
 ( #has_/range :: MonetaryAmount, Number )
 

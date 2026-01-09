@@ -38,7 +38,9 @@ Use it like this:
 How the disease spreads, either as a route or vector, for example "direct contact", "Aedes aegypti", etc.
 
 Predicated describes that: 
-[ #has_/domain  :: InfectiousDisease ]
+
+#has_/domain  :: InfectiousDisease  
+
 ( #has_/name :: has_text_of_transmission_method )
 ( #has_/range :: Text )
 

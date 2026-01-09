@@ -32,7 +32,7 @@ type: Pred_Text
 
 Predicate to describe the Text of HealthPlanNetwork, MedicalOrganization.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/id_/health_plan_network :: Text ] or 
@@ -41,7 +41,9 @@ Use it like this:
 Name or unique ID of network. (Networks are often reused across different insurance plans.)
 
 Predicated describes that: 
-[ #has_/domain  :: HealthPlanNetwork, MedicalOrganization ]
+
+#has_/domain  :: HealthPlanNetwork, MedicalOrganization  
+
 ( #has_/name :: has_id_health_plan_network )
 ( #has_/range :: Text )
 

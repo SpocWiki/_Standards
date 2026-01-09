@@ -38,7 +38,9 @@ Use it like this:
 Medical expert advice related to the plan.
 
 Predicated describes that: 
-[ #has_/domain  :: Diet ]
+
+#has_/domain  :: Diet  
+
 ( #has_/name :: has_text_of_expert_considerations )
 ( #has_/range :: Text )
 

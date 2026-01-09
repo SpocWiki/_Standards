@@ -32,7 +32,9 @@ Use it like this:
 This ordering relation for qualitative values indicates that the subject is equal to the object.
 
 Relation describes that: 
-[ #has_/domain  :: QualitativeValue ]
+
+#has_/domain  :: QualitativeValue  
+
 ( #has_/name :: is_equal_to )
 ( #has_/range :: QualitativeValue )
 

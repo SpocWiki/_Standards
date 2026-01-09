@@ -39,12 +39,13 @@ The publishingPrinciples property indicates (typically via [[../../Class/is_a_/d
 While such policies are most typically expressed in natural language, sometimes related information (e.g. indicating a [[funder]]) can be expressed using schema.org terminology.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Organization, Person ]
+
+#has_/domain  :: CreativeWork, Organization, Person  
+
 ( #has_/name :: is_publishing_principles )
 ( #has_/range :: CreativeWork, URL )
 
-[ #has_/sub_properties :: [ actionableFeedbackPolicy, correctionsPolicy, diversityStaffingReport, masthead, missionCoveragePrioritiesPolicy, noBylinesPolicy, ownershipFundingInfo, unnamedSourcesPolicy, verificationFactCheckingPolicy ] ]
-
+#has_/sub_properties :: [ actionableFeedbackPolicy, correctionsPolicy, diversityStaffingReport, masthead, missionCoveragePrioritiesPolicy, noBylinesPolicy, ownershipFundingInfo, unnamedSourcesPolicy, verificationFactCheckingPolicy ]  
 
 ## Confidential Links & Embeds: 
 

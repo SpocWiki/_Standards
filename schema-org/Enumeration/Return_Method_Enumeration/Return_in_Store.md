@@ -33,14 +33,13 @@ Class of all return_in_stores.
 Tag Instances like this: 
 #is_a_/return_in_store
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that product returns must be made in a store.
 
-[ #is_/sub_class_of :: [[../ReturnMethodEnumeration]] ]
+#is_/sub_class_of :: [[../ReturnMethodEnumeration]]  
 
-[ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
-
+#is_/enum_of :: [[../ReturnMethodEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

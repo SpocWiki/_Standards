@@ -38,7 +38,9 @@ Use it like this:
 Proficiency needed for this content; expected values: "Beginner", "Expert".
 
 Predicated describes that: 
-[ #has_/domain  :: TechArticle ]
+
+#has_/domain  :: TechArticle  
+
 ( #has_/name :: has_text_of_proficiency_level )
 ( #has_/range :: Text )
 

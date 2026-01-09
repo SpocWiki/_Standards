@@ -35,7 +35,9 @@ Use it like this:
 The response (yes, no, maybe) to the RSVP.
 
 Relation describes that: 
-[ #has_/domain  :: RsvpAction ]
+
+#has_/domain  :: RsvpAction  
+
 ( #has_/name :: is_rsvp_response )
 ( #has_/range :: RsvpResponseType )
 

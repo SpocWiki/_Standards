@@ -53,7 +53,9 @@ Use the [[../../Relation/has/has_author|has_author]] property to indicate the ra
 e.g. as an Organization with name such as (e.g. HOTREC, DEHOGA, WHR, or Hotelstars).
 
 Predicate describes that: 
-[ #has_/domain  :: [ [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]] ] ]
+
+#has_/domain  :: [ [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]] ]  
+
 ( #has_/name :: has_number_of_stars_rating )
 ( #has_/range :: [[../../Class/is_a_/Intangible/rating|Rating]] )
 

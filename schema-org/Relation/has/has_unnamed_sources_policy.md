@@ -29,7 +29,7 @@ title: has_unnamed_sources_policy
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/unnamed_sources_policy :: CreativeWork, URL ] or 
@@ -38,12 +38,13 @@ Use it like this:
 For an [[../../../Society/Agent/Community/Organization]] (typically a [[NewsMediaOrganization]]), a statement about policy on use of unnamed sources and the decision process required.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization, Organization ]
+
+#has_/domain  :: NewsMediaOrganization, Organization  
+
 ( #has_/name :: is_unnamed_sources_policy )
 ( #has_/range :: CreativeWork, URL )
 
-[ #is_/sub_property_of  :: publishingPrinciples ]
-
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

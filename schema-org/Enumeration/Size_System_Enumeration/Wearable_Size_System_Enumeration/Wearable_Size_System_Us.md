@@ -33,14 +33,13 @@ Class of all wearable_size_system_uss.
 Tag Instances like this: 
 #is_a_/wearable_size_system_us
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 United States size system for wearables.
 
-[ #is_/sub_class_of :: [[../WearableSizeSystemEnumeration]] ]
+#is_/sub_class_of :: [[../WearableSizeSystemEnumeration]]  
 
-[ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
-
+#is_/enum_of :: [[../WearableSizeSystemEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

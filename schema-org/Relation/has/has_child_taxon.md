@@ -28,7 +28,7 @@ title: has_child_taxon
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/child_taxon :: Taxon, Text, URL ] or 
@@ -37,12 +37,13 @@ Use it like this:
 Closest child taxa of the taxon in question.
 
 Relation describes that: 
-[ #has_/domain  :: Taxon ]
+
+#has_/domain  :: Taxon  
+
 ( #has_/name :: has_child_taxon )
 ( #has_/range :: Taxon, Text, URL )
 
-[ #is_/inverse_of  :: parentTaxon ]
-
+#is_/inverse_of  :: parentTaxon  
 
 ## Confidential Links & Embeds: 
 

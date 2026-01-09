@@ -33,14 +33,13 @@ Class of all reduced_relevance_for_children_considerations.
 Tag Instances like this: 
 #is_a_/reduced_relevance_for_children_consideration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A general code for cases where relevance to children is reduced, e.g. adult education, mortgages, retirement-related products, etc.
 
-[ #is_/sub_class_of :: [[../AdultOrientedEnumeration]] ]
+#is_/sub_class_of :: [[../AdultOrientedEnumeration]]  
 
-[ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
-
+#is_/enum_of :: [[../AdultOrientedEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

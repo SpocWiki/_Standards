@@ -174,7 +174,9 @@ Glottolog_code: stan1288
 # [[Lang-spa]] 
 
 [SpocWebEntityId:: 492 ]
-[has_/name::Spanish]
+
+has_/name::Spanish 
+
 [PropId_Name::792]
 [PropId_Text::692]
 [LangFamilyId::233]

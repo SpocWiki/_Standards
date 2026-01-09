@@ -26,7 +26,7 @@ title: has_diversity_policy
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/diversity_policy :: CreativeWork, URL ] or 
@@ -35,7 +35,9 @@ Use it like this:
 Statement on diversity policy by an [[../../../Society/Agent/Community/Organization]] e.g. a [[NewsMediaOrganization]]. For a [[NewsMediaOrganization]], a statement describing the newsroom�s diversity policy on both staffing and sources, typically providing staffing data.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization, Organization ]
+
+#has_/domain  :: NewsMediaOrganization, Organization  
+
 ( #has_/name :: has_diversity_policy )
 ( #has_/range :: CreativeWork, URL )
 

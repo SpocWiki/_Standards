@@ -28,7 +28,7 @@ title: has_body_type
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
 - [ #has_/body_type :: QualitativeValue, Text, URL ] or 
@@ -37,7 +37,9 @@ Use it like this:
 Indicates the design and body style of the vehicle (e.g. station wagon, hatchback, etc.).
 
 Relation describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_body_type )
 ( #has_/range :: QualitativeValue, Text, URL )
 

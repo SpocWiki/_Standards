@@ -35,7 +35,9 @@ Use it like this:
 A preventative therapy used to prevent reoccurrence of the medical condition after an initial episode of the condition.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition ]
+
+#has_/domain  :: MedicalCondition  
+
 ( #has_/name :: is_secondary_prevention )
 ( #has_/range :: MedicalTherapy )
 

@@ -37,7 +37,9 @@ Use it like this:
 The URL at which a reply may be posted to the specified UserComment.
 
 Predicate describes that: 
-[ #has_/domain  :: UserComments ]
+
+#has_/domain  :: UserComments  
+
 ( #has_/name :: has_url_for_reply_to_url )
 ( #has_/range :: URL )
 

@@ -34,12 +34,11 @@ Tag Instances like this:
 
 A subclass of Role used to describe roles within organizations.
 
-[ #is_/sub_class_of :: [[../Role]] ]
+#is_/sub_class_of :: [[../Role]]  
 
-[ #has_/sub_classes :: [ EmployeeRole ] ]
+#has_/sub_classes :: [ EmployeeRole ]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

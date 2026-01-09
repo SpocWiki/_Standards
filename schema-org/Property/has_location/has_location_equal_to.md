@@ -42,7 +42,9 @@ and no part of the interior or boundary of one geometry intersects the exterior 
 (a symmetric relationship).
 
 Predicate describes that: 
-[ #has_/domain  :: GeospatialGeometry, Place ]
+
+#has_/domain  :: GeospatialGeometry, Place  
+
 ( #has_/name :: has_location_equals )
 ( #has_/range :: GeospatialGeometry, Place )
 

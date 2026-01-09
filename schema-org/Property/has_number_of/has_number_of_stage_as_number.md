@@ -36,7 +36,9 @@ Use it like this:
 The stage represented as a number, e.g. 3.
 
 Predicate describes that: 
-[ #has_/domain  :: MedicalConditionStage ]
+
+#has_/domain  :: MedicalConditionStage  
+
 ( #has_/name :: has_number_of_stage_as_number )
 ( #has_/range :: Number )
 

@@ -38,7 +38,9 @@ Use it like this:
 The coding system, e.g. "ICD-10".
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalCode ]
+
+#has_/domain  :: MedicalCode  
+
 ( #has_/name :: has_text_of_coding_system )
 ( #has_/range :: Text )
 

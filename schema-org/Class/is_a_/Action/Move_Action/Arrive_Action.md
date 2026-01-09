@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of arriving at a place. An agent arrives at a destination from a fromLocation, optionally with participants.
 
-[ #is_/sub_class_of :: [[../MoveAction]] ]
+#is_/sub_class_of :: [[../MoveAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]  
 
 ## Confidential Links & Embeds: 
 

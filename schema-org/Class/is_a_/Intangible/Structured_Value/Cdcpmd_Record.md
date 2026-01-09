@@ -32,16 +32,15 @@ Class of all cdcpmd_records.
 Tag Instances like this: 
 #is_a_/cdcpmd_record
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A CDCPMDRecord is a data structure representing a record in a CDC tabular data format
 	  used for hospital data reporting. See <a href="/docs/cdc-covid.html">documentation</a> for details, and the linked CDC materials for authoritative
 	  definitions used as the source here.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, cvdCollectionDate, cvdFacilityCounty, cvdFacilityId, cvdNumBeds, cvdNumBedsOcc, cvdNumC19Died, cvdNumC19HOPats, cvdNumC19HospPats, cvdNumC19MechVentPats, cvdNumC19OFMechVentPats, cvdNumC19OverflowPats, cvdNumICUBeds, cvdNumICUBedsOcc, cvdNumTotBeds, cvdNumVent, cvdNumVentUse, datePosted, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, cvdCollectionDate, cvdFacilityCounty, cvdFacilityId, cvdNumBeds, cvdNumBedsOcc, cvdNumC19Died, cvdNumC19HOPats, cvdNumC19HospPats, cvdNumC19MechVentPats, cvdNumC19OFMechVentPats, cvdNumC19OverflowPats, cvdNumICUBeds, cvdNumICUBedsOcc, cvdNumTotBeds, cvdNumVent, cvdNumVentUse, datePosted, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

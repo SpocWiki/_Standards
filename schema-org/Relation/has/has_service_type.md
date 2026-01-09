@@ -35,7 +35,9 @@ Use it like this:
 The type of service being offered, e.g. veterans' benefits, emergency relief, etc.
 
 Relation describes that: 
-[ #has_/domain  :: Service ]
+
+#has_/domain  :: Service  
+
 ( #has_/name :: is_service_type )
 ( #has_/range :: GovernmentBenefitsType, Text )
 

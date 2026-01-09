@@ -35,10 +35,9 @@ Tag Instances like this:
 
 BroadcastRelease.
 
-[ #is_/sub_class_of :: [[../MusicAlbumReleaseType]] ]
+#is_/sub_class_of :: [[../MusicAlbumReleaseType]]  
 
-[ #is_/enum_of :: [[../MusicAlbumReleaseType]] ]
-
+#is_/enum_of :: [[../MusicAlbumReleaseType]]  
 
 ## Confidential Links & Embeds: 
 

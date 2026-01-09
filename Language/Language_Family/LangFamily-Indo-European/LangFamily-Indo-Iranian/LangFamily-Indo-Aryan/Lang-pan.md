@@ -186,7 +186,9 @@ OpenStreetMap_key:
 # [[Lang-pan]] 
 
 [SpocWebEntityId:: 465 ]
-[has_/name::Punjabi]
+
+has_/name::Punjabi 
+
 [PropId_Name::765]
 [PropId_Text::665]
 [LangFamilyId::233]

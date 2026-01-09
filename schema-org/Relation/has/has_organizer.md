@@ -31,7 +31,9 @@ Use it like this:
 An organizer of an Event.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: has_organizer )
 ( #has_/range :: Organization, Person )
 

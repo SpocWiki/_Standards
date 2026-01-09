@@ -36,7 +36,9 @@ Use it like this:
 The total financial value of the person as calculated by subtracting assets from liabilities.
 
 Predicate describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_value_for_net_worth )
 ( #has_/range :: MonetaryAmount, PriceSpecification )
 

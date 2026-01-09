@@ -59,17 +59,25 @@ UNII: 06SSF7P179
 [GroupName::Lanthanide-Group]
 Group::[[../Lanthanide]]
 
-[has_/name_/en::Terbium]
-[has_/name_/de::Terbium]
-[has_/value_for_/weight_/u::158.9254]
+has_/name_/en::Terbium 
+
+has_/name_/de::Terbium 
+
+has_/value_for_/weight_/u::158.9254 
+
 [AtomRadius::2.51]
 [Atom-Vol-ccm-mol::19.2]
 [Unknown2::1.59]
-[has_/value_for_/radius_/nano_/m::5.86]
+
+has_/value_for_/radius_/nano_/m::5.86 
+
 [Electronegative::1.2]
 [Density::8.27]
-[has_/value_for_/temperature_/melt_/c ::1360]
-[has_/value_for_/temperature_/boil_/c ::3041]
+
+has_/value_for_/temperature_/melt_/c ::1360 
+
+has_/value_for_/temperature_/boil_/c ::3041 
+
 [HeatCapacity::0.18]
 [HeatConduct::0.111]
 [Enthalpy::10.8]

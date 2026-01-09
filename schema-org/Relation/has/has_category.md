@@ -45,12 +45,13 @@ Instead they are used for Navigation and Discovery and can be overlapping or eve
 so no unique Categorization is possible. 
 
 Relation describes that: 
-[ #has_/domain  :: ActionAccessSpecification, Invoice, Offer, PhysicalActivity, Product, Recommendation, Service, SpecialAnnouncement ]
+
+#has_/domain  :: ActionAccessSpecification, Invoice, Offer, PhysicalActivity, Product, Recommendation, Service, SpecialAnnouncement  
+
 ( #has_/name :: has_category )
 ( #has_/range :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL )
 
-[ #has_/sub_properties :: [ accommodationCategory ] ]
-
+#has_/sub_properties :: [ accommodationCategory ]  
 
 ## Confidential Links & Embeds: 
 

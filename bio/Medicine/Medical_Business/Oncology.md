@@ -58,9 +58,9 @@ Tag Instances like this:
 
 A specific branch of medical science that deals with benign and malignant tumors, including the study of their development, diagnosis, treatment and prevention.
 
-[ #is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]] ]
+#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
 
-[ #is_/enum_of :: [[../MedicalSpecialty]] ] 
+#is_/enum_of :: [[../MedicalSpecialty]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Oncology,162555|WD~Oncology,162555]] 
 

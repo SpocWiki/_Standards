@@ -29,7 +29,8 @@ title: has_range_includes
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://meta.schema.org ] 
+#is_/part_of :: https://meta.schema.org  
+
 #is_/similar_to :: [[has_domain]] 
 Is similar to has_object that is applied to an instance of a Predicate and yields an Element of the Range. 
 

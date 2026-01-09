@@ -34,10 +34,9 @@ Tag Instances like this:
 
 The act of asking someone to attend an event. Reciprocal of RsvpAction.
 
-[ #is_/sub_class_of :: [[../CommunicateAction]] ]
+#is_/sub_class_of :: [[../CommunicateAction]]  
 
-[ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

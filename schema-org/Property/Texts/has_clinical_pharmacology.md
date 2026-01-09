@@ -39,7 +39,9 @@ Use it like this:
 Description of the absorption and elimination of drugs, including their concentration (pharmacokinetics, pK) and biological effects (pharmacodynamics, pD).
 
 Predicated describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_text_of_clinical_pharmacology )
 ( #has_/range :: Text )
 

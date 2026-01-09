@@ -36,7 +36,9 @@ Use it like this:
 The duration for which the given offer is valid.
 
 Predicate describes that: 
-[ #has_/domain  :: Demand, Offer ]
+
+#has_/domain  :: Demand, Offer  
+
 ( #has_/name :: has_value_for_eligible_duration )
 ( #has_/range :: QuantitativeValue )
 

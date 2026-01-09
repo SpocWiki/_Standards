@@ -38,7 +38,9 @@ Use it like this:
 Any precaution, guidance, contraindication, etc. related to this drug"s use by breastfeeding mothers.
 
 Predicated describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_text_of_breastfeeding_warning )
 ( #has_/range :: Text )
 

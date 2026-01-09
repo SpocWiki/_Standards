@@ -40,7 +40,9 @@ The total distance travelled by the particular vehicle since its initial product
 Typical unit code(s): KMT for kilometers, SMI for statute miles
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_value_for_mileage_from_odometer )
 ( #has_/range :: QuantitativeValue )
 

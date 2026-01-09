@@ -35,7 +35,9 @@ Use it like this:
 The vasculature that the vein drains into.
 
 Relation describes that: 
-[ #has_/domain  :: Vein ]
+
+#has_/domain  :: Vein  
+
 ( #has_/name :: is_draining_to )
 ( #has_/range :: Vessel )
 

@@ -33,14 +33,13 @@ Class of all unofficial_legal_values.
 Tag Instances like this: 
 #is_an_/unofficial_legal_value
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Indicates that a document has no particular or special standing (e.g. a republication of a law by a private publisher).
 
-[ #is_/sub_class_of :: [[../LegalValueLevel]] ]
+#is_/sub_class_of :: [[../LegalValueLevel]]  
 
-[ #is_/enum_of :: [[../LegalValueLevel]] ]
-
+#is_/enum_of :: [[../LegalValueLevel]]  
 
 ## Confidential Links & Embeds: 
 

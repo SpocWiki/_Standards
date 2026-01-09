@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Any physical activity engaged in for recreational purposes. Examples may include ballroom dancing, roller skating, canoeing, fishing, etc.
 
-[ #is_/sub_class_of :: [[../PhysicalActivityCategory]] ]
+#is_/sub_class_of :: [[../PhysicalActivityCategory]]  
 
-[ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
-
+#is_/enum_of :: [[../PhysicalActivityCategory]]  
 
 ## Confidential Links & Embeds: 
 

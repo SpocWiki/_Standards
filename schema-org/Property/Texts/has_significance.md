@@ -37,7 +37,9 @@ Use it like this:
 The significance associated with the superficial anatomy; as an example, how characteristics of the superficial anatomy can suggest underlying medical conditions or courses of treatment.
 
 Predicated describes that: 
-[ #has_/domain  :: SuperficialAnatomy ]
+
+#has_/domain  :: SuperficialAnatomy  
+
 ( #has_/name :: has_text_of_significance )
 ( #has_/range :: Text )
 

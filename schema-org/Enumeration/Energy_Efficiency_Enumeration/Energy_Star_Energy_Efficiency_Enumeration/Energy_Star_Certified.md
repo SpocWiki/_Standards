@@ -33,14 +33,13 @@ Class of all energy_star_certifieds.
 Tag Instances like this: 
 #is_an_/energy_star_certified
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents EnergyStar certification.
 
-[ #is_/sub_class_of :: [[../EnergyStarEnergyEfficiencyEnumeration]] ]
+#is_/sub_class_of :: [[../EnergyStarEnergyEfficiencyEnumeration]]  
 
-[ #is_/enum_of :: [[../EnergyStarEnergyEfficiencyEnumeration]] ]
-
+#is_/enum_of :: [[../EnergyStarEnergyEfficiencyEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

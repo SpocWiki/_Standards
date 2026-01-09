@@ -36,7 +36,9 @@ Use it like this:
 The interest rate, charged or paid, applicable to the financial product. Note: This is different from the calculated annualPercentageRate.
 
 Predicate describes that: 
-[ #has_/domain  :: FinancialProduct ]
+
+#has_/domain  :: FinancialProduct  
+
 ( #has_/name :: has_value_for_interest_rate )
 ( #has_/range :: Number, QuantitativeValue )
 

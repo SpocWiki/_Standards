@@ -31,7 +31,7 @@ type: Pred_Text
 
 Predicate to describe the Text of CreativeWork.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/credit_text :: Text ] or 
@@ -40,7 +40,9 @@ Use it like this:
 Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work.
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_text_of_credit_text )
 ( #has_/range :: Text )
 

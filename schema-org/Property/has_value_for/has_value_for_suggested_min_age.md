@@ -36,7 +36,9 @@ Use it like this:
 Minimum recommended age in years for the audience or user.
 
 Predicate describes that: 
-[ #has_/domain  :: PeopleAudience ]
+
+#has_/domain  :: PeopleAudience  
+
 ( #has_/name :: has_value_for_suggested_min_age )
 ( #has_/range :: Number )
 

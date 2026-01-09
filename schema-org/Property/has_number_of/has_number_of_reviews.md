@@ -36,7 +36,9 @@ Use it like this:
 The count of total number of reviews.
 
 Predicate describes that: 
-[ #has_/domain  :: AggregateRating ]
+
+#has_/domain  :: AggregateRating  
+
 ( #has_/name :: has_number_of_reviews )
 ( #has_/range :: Integer )
 

@@ -31,7 +31,9 @@ Use it like this:
 Thumbnail image for an image or video.
 
 Relation describes that: 
-[ #has_/domain  :: ImageObject, VideoObject ]
+
+#has_/domain  :: ImageObject, VideoObject  
+
 ( #has_/name :: is_thumbnail )
 ( #has_/range :: ImageObject )
 

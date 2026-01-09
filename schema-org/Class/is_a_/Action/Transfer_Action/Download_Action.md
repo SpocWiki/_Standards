@@ -35,10 +35,9 @@ Usually the Object of the [[../../../../Relation/has/has_interaction_type|intera
 Tag Instances like this: 
 #is_a_/download_action
 
-[ #is_/sub_class_of :: [[../TransferAction]] ]
+#is_/sub_class_of :: [[../TransferAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]  
 
 ## Confidential Links & Embeds: 
 

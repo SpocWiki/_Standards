@@ -37,7 +37,9 @@ Use it like this:
 The stepValue attribute indicates the granularity that is expected (and required) of the value in a PropertyValueSpecification.
 
 Predicate describes that: 
-[ #has_/domain  :: PropertyValueSpecification ]
+
+#has_/domain  :: PropertyValueSpecification  
+
 ( #has_/name :: has_value_for_step )
 ( #has_/range :: Number )
 

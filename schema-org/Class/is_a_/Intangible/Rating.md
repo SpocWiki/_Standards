@@ -31,12 +31,11 @@ A rating is an evaluation on a numeric scale, such as 1 to 5 stars.
 Tag Instances like this: 
 #is_a_/rating
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/sub_classes :: [ AggregateRating, EndorsementRating ] ]
+#has_/sub_classes :: [ AggregateRating, EndorsementRating ]  
 
-[ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ] ]
-
+#has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]  
 
 ## Confidential Links & Embeds: 
 

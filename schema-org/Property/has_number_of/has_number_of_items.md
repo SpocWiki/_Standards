@@ -36,7 +36,9 @@ Use it like this:
 The number of items in an ItemList. Note that some descriptions might not fully describe all items in a list (e.g., multi-page pagination); in such cases, the numberOfItems would be for the entire list.
 
 Predicate describes that: 
-[ #has_/domain  :: ItemList ]
+
+#has_/domain  :: ItemList  
+
 ( #has_/name :: has_number_of_items )
 ( #has_/range :: Integer )
 

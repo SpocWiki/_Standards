@@ -38,7 +38,9 @@ Use it like this:
 Specifies specific carrier(s) requirements for the application (e.g. an application may only work on a specific carrier network).
 
 Predicated describes that: 
-[ #has_/domain  :: MobileApplication ]
+
+#has_/domain  :: MobileApplication  
+
 ( #has_/name :: has_text_of_carrier_requirements )
 ( #has_/range :: Text )
 

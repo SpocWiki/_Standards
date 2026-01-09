@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Book format: Ebook.
 
-[ #is_/sub_class_of :: [[../BookFormatType]] ]
+#is_/sub_class_of :: [[../BookFormatType]]  
 
-[ #is_/enum_of :: [[../BookFormatType]] ]
-
+#is_/enum_of :: [[../BookFormatType]]  
 
 ## Confidential Links & Embeds: 
 

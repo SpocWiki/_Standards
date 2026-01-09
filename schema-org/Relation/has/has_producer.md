@@ -31,7 +31,9 @@ Use it like this:
 The person or organization who produced the work (e.g. music album, movie, TV/radio series etc.).
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_producer )
 ( #has_/range :: Organization, Person )
 

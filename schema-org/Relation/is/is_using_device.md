@@ -33,7 +33,9 @@ Use it like this:
 - [ is_using_device :: MedicalDevice] 
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTest]
+
+#has_/domain  :: MedicalTest 
+
 ( #has_/name :: is_using_device)
 ( #has_/range :: MedicalDevice)
 

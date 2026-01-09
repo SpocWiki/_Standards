@@ -31,12 +31,13 @@ Use it like this:
 The object that helped the agent perform the action. E.g. John wrote a book with <em>a pen</em>.
 
 Relation describes that: 
-[ #has_/domain  :: Action ]
+
+#has_/domain  :: Action  
+
 ( #has_/name :: has_instrument )
 ( #has_/range :: Thing )
 
-[ #has_/sub_properties :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ] ]
-
+#has_/sub_properties :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ]  
 
 ## Confidential Links & Embeds: 
 

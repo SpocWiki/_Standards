@@ -33,14 +33,13 @@ Class of all in_forces.
 Tag Instances like this: 
 #is_an_/in_force
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Indicates that a legislation is in force.
 
-[ #is_/sub_class_of :: [[../LegalForceStatus]] ]
+#is_/sub_class_of :: [[../LegalForceStatus]]  
 
-[ #is_/enum_of :: [[../LegalForceStatus]] ]
-
+#is_/enum_of :: [[../LegalForceStatus]]  
 
 ## Confidential Links & Embeds: 
 

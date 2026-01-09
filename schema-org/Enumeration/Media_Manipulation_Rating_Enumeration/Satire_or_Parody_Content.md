@@ -37,13 +37,13 @@ Class of all satire_or_parody_contents.
 Tag Instances like this: 
 #is_a_/satire_or_parody_content
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Content coded 'satire or parody content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
-[ #is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
+#is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]]  
 
-[ #is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
+#is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Satire,128758|WD~Satire,128758]] 
 

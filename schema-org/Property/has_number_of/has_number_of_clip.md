@@ -36,12 +36,13 @@ Use it like this:
 Position of the clip within an ordered group of clips.
 
 Predicate describes that: 
-[ #has_/domain  :: Clip ]
+
+#has_/domain  :: Clip  
+
 ( #has_/name :: has_number_of_clip )
 ( #has_/range :: Integer, Text )
 
-[ #is_/sub_property_of  :: position ]
-
+#is_/sub_property_of  :: position  
 
 ## Confidential Links & Embeds: 
 

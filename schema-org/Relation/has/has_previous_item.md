@@ -45,7 +45,9 @@ Use it like this:
 - [ has_previous_item :: ListItem ] 
 
 This Relation describes that: 
-[ #has_/domain  :: ListItem ]
+
+#has_/domain  :: ListItem  
+
 ( #has_/name :: is_previous_item )
 ( #has_/range :: ListItem )
 

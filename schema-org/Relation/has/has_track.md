@@ -32,7 +32,9 @@ Use it like this:
 A music recording (track)&amp;#x2014;usually a single song. If an ItemList is given, the list should contain items of type MusicRecording.
 
 Relation describes that: 
-[ #has_/domain  :: MusicGroup, MusicPlaylist ]
+
+#has_/domain  :: MusicGroup, MusicPlaylist  
+
 ( #has_/name :: is_track )
 ( #has_/range :: ItemList, MusicRecording )
 

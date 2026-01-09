@@ -37,7 +37,9 @@ Use it like this:
 A unique identifier for the reservation.
 
 Predicated describes that: 
-[ #has_/domain  :: Reservation ]
+
+#has_/domain  :: Reservation  
+
 ( #has_/name :: has_id_reservation )
 ( #has_/range :: Text )
 

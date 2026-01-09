@@ -28,7 +28,7 @@ title: has_shipping_details
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/shipping_details :: OfferShippingDetails ] or 
@@ -37,7 +37,9 @@ Use it like this:
 Indicates information about the shipping policies and options associated with an [[../../../Society/Agent/Community/Organization/Business/Offer]].
 
 Relation describes that: 
-[ #has_/domain  :: Offer ]
+
+#has_/domain  :: Offer  
+
 ( #has_/name :: is_shipping_details )
 ( #has_/range :: OfferShippingDetails )
 

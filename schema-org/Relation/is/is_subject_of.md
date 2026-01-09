@@ -38,12 +38,13 @@ Use it like this:
 A CreativeWork or Event about this Thing.
 
 Relation describes that: 
-[ #has_/domain  :: [Thing](../../../Class/Thing.md) ]
+
+#has_/domain  :: [Thing](../../../Class/Thing.md)  
+
 ( #has_/name :: is_subject_of )
 ( #has_/range :: CreativeWork, Event )
 
-[ #is_/inverse_of  :: [is_about](../is/is_about.md) ]
-
+#is_/inverse_of  :: [is_about](../is/is_about.md)  
 
 ## Confidential Links & Embeds: 
 

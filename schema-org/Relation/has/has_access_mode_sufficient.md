@@ -40,7 +40,9 @@ that are sufficient to understand all the intellectual content of a resource.
 Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessModeSufficient-vocabulary).
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]] ]
+
+#has_/domain  :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]]  
+
 ( #has_/name :: has_access_mode_sufficient )
 ( #has_/range :: [[../../Collection/item_list|Item_List]] )
 

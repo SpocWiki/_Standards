@@ -28,7 +28,7 @@ title: has_program_prerequisites
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/program_prerequisites :: AlignmentObject, Course, EducationalOccupationalCredential, Text ] or 
@@ -37,7 +37,9 @@ Use it like this:
 Prerequisites for enrolling in the program.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalProgram ]
+
+#has_/domain  :: EducationalOccupationalProgram  
+
 ( #has_/name :: is_program_prerequisites )
 ( #has_/range :: AlignmentObject, Course, EducationalOccupationalCredential, Text )
 

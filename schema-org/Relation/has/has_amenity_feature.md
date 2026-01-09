@@ -33,7 +33,9 @@ Use it like this:
 An amenity feature (e.g. a characteristic or service) of the Accommodation. This generic property does not make a statement about whether the feature is included in an offer for the main accommodation or available at extra costs.
 
 Relation describes that: 
-[ #has_/domain  :: Accommodation, FloorPlan, LodgingBusiness, Place ]
+
+#has_/domain  :: Accommodation, FloorPlan, LodgingBusiness, Place  
+
 ( #has_/name :: has_amenity_feature )
 ( #has_/range :: LocationFeatureSpecification )
 

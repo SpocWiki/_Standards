@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Indicates that the event was changed to allow online participation. See [[eventAttendanceMode]] for specifics of whether it is now fully or partially online.
 
-[ #is_/sub_class_of :: [[../EventStatusType]] ]
+#is_/sub_class_of :: [[../EventStatusType]]  
 
-[ #is_/enum_of :: [[../EventStatusType]] ]
-
+#is_/enum_of :: [[../EventStatusType]]  
 
 ## Confidential Links & Embeds: 
 

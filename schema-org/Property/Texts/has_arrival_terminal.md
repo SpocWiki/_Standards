@@ -38,7 +38,9 @@ Use it like this:
 Identifier of the flight"s arrival terminal.
 
 Predicated describes that: 
-[ #has_/domain  :: Flight ]
+
+#has_/domain  :: Flight  
+
 ( #has_/name :: has_text_of_arrival_terminal )
 ( #has_/range :: Text )
 

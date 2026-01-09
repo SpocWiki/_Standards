@@ -36,7 +36,9 @@ Use it like this:
 The regions where the media is allowed. If not specified, then it's assumed to be allowed everywhere. Specify the countries in <a href="http://en.wikipedia.org/wiki/ISO_3166">ISO 3166 format]].
 
 Predicate describes that: 
-[ #has_/domain  :: MediaObject ]
+
+#has_/domain  :: MediaObject  
+
 ( #has_/name :: has_location_regions_allowed )
 ( #has_/range :: Place )
 

@@ -35,7 +35,9 @@ Use it like this:
 The neurological pathway extension that inputs and sends information to the brain or spinal cord.
 
 Relation describes that: 
-[ #has_/domain  :: Nerve ]
+
+#has_/domain  :: Nerve  
+
 ( #has_/name :: is_sensory_unit )
 ( #has_/range :: AnatomicalStructure, SuperficialAnatomy )
 

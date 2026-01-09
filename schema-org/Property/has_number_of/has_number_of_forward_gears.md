@@ -40,7 +40,9 @@ The total number of forward gears available for the transmission system of the v
 Typical unit code(s): C62
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_number_of_forward_gears )
 ( #has_/range :: Number, QuantitativeValue )
 

@@ -34,10 +34,9 @@ Tag Instances like this:
 
 Event type: Sports event.
 
-[ #is_/sub_class_of :: [[../Event]] ]
+#is_/sub_class_of :: [[../Event]]  
 
-[ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, awayTeam, competitor, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, homeTeam, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, sport, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
-
+#has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, awayTeam, competitor, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, homeTeam, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, sport, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]  
 
 ## Confidential Links & Embeds: 
 

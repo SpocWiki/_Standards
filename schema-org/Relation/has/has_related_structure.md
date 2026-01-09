@@ -35,7 +35,9 @@ Use it like this:
 Related anatomical structure(s) that are not part of the system but relate or connect to it, such as vascular bundles associated with an organ system.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalSystem ]
+
+#has_/domain  :: AnatomicalSystem  
+
 ( #has_/name :: is_related_structure )
 ( #has_/range :: AnatomicalStructure )
 

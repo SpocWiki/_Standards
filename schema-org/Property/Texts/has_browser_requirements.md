@@ -38,7 +38,9 @@ Use it like this:
 Specifies browser requirements in human-readable text. For example, "requires HTML5 support".
 
 Predicated describes that: 
-[ #has_/domain  :: WebApplication ]
+
+#has_/domain  :: WebApplication  
+
 ( #has_/name :: has_text_of_browser_requirements )
 ( #has_/range :: Text )
 

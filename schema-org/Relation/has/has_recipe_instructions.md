@@ -35,12 +35,13 @@ Use it like this:
 A step in making the recipe, in the form of a single item (document, video, etc.) or an ordered list with HowToStep and/or HowToSection items.
 
 Relation describes that: 
-[ #has_/domain  :: Recipe ]
+
+#has_/domain  :: Recipe  
+
 ( #has_/name :: is_recipe_instructions )
 ( #has_/range :: CreativeWork, ItemList, Text )
 
-[ #is_/sub_property_of  :: step ]
-
+#is_/sub_property_of  :: step  
 
 ## Confidential Links & Embeds: 
 

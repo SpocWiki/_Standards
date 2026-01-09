@@ -34,7 +34,9 @@ Use it like this:
 An application that can complete the request.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Class/is_a_thing/intangible/entry_point]] ]
+
+#has_/domain  :: [[../../../Class/is_a_thing/intangible/entry_point]]  
+
 ( #has_/name :: has_action_application )
 ( #has_/range :: [[../../../Society/Communication/Media/Creative_Work/Software_Application]] )
 

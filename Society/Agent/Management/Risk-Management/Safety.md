@@ -8,7 +8,7 @@
 | **Source of Risk**     | **Natural events**, technical failures, accidents                                                   | **Human adversaries**, deliberate attacks |
 | **Intentionality**     | 0                                                                                                   | 100                                       |
 | **Example Domains**    | Health, engineering, environment                                                                    | Cyber, defense, law enforcement           |
-| **Prevention Methods** | [[Redundancy]], [[Regulation]], fail-safe designs, Backup, [[Emergency_Management]], [[Monitoring]] | Firewalls, Encryption, Surveillance       |
+| **Prevention Methods** | [[Redundancy]], [[Regulation]], fail-safe designs, Backup, [[Emergency_Management]], [[Monitoring]] | Firewalls, Encryption, [[Surveillance]]   |
 | **Measurement**        | Accident rates, failure probabilities                                                               | Breach attempts, threat detection rates   |
 | **Time Horizon**       | Long-term, systemic resilience                                                                      | Real-time, adaptive defense               |
 

@@ -34,7 +34,9 @@ Use it like this:
 - [ has_sub_properties :: [[../Property]]  ] 
 
 Relation describes that: 
-[ #has_/domain  :: [[../Property]] ]
+
+#has_/domain  :: [[../Property]]  
+
 ( #has_/name :: has_sub_properties )
 ( #has_/range :: [[../Property]]  )
 

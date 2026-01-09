@@ -35,12 +35,13 @@ Use it like this:
 The CreativeWork that captured all or part of this Event.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: is_recorded_in )
 ( #has_/range :: CreativeWork )
 
-[ #is_/inverse_of  :: recordedAt ]
-
+#is_/inverse_of  :: recordedAt  
 
 ## Confidential Links & Embeds: 
 

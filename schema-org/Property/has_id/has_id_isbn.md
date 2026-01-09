@@ -37,12 +37,13 @@ Use it like this:
 The id_isbn of the book.
 
 Predicated describes that: 
-[ #has_/domain  :: Book ]
+
+#has_/domain  :: Book  
+
 ( #has_/name :: has_id_isbn )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

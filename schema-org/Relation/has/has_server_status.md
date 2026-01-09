@@ -35,7 +35,9 @@ Use it like this:
 Status of a game server.
 
 Relation describes that: 
-[ #has_/domain  :: GameServer ]
+
+#has_/domain  :: GameServer  
+
 ( #has_/name :: is_server_status )
 ( #has_/range :: GameServerStatus )
 

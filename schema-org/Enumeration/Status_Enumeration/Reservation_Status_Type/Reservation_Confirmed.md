@@ -35,10 +35,9 @@ Tag Instances like this:
 
 The status of a confirmed reservation.
 
-[ #is_/sub_class_of :: [[../ReservationStatusType]] ]
+#is_/sub_class_of :: [[../ReservationStatusType]]  
 
-[ #is_/enum_of :: [[../ReservationStatusType]] ]
-
+#is_/enum_of :: [[../ReservationStatusType]]  
 
 ## Confidential Links & Embeds: 
 

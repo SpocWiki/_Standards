@@ -76,18 +76,27 @@ ZVG_number: 7720
 [GroupName::Group-04-Titanium]
 Group::[[../Group-04-Titanium]]
 
-[has_/name_/en::Hafnium]
-[has_/name_/de::Hafnium]
+has_/name_/en::Hafnium 
+
+has_/name_/de::Hafnium 
+
 (Abbr::Hf)
-[has_/value_for_/weight_/u::178.49]
+
+has_/value_for_/weight_/u::178.49 
+
 [AtomRadius::2.16]
 [Atom-Vol-ccm-mol::13.6]
 [Unknown2::1.44]
-[has_/value_for_/radius_/nano_/m::6.65]
+
+has_/value_for_/radius_/nano_/m::6.65 
+
 [Electronegative::1.3]
 [Density::13.1]
-[has_/value_for_/temperature_/melt_/c ::2227]
-[has_/value_for_/temperature_/boil_/c ::4602]
+
+has_/value_for_/temperature_/melt_/c ::2227 
+
+has_/value_for_/temperature_/boil_/c ::4602 
+
 [HeatCapacity::0.14]
 [HeatConduct::0.23]
 [Enthalpy::24.06]

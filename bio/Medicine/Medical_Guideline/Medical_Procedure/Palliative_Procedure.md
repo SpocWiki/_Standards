@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A medical procedure intended primarily for palliative purposes, aimed at relieving the symptoms of an underlying health condition.
 
-[ #is_/sub_class_of :: [[../MedicalProcedure, MedicalTherapy]] ]
+#is_/sub_class_of :: [[../MedicalProcedure, MedicalTherapy]]  
 
-[ #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

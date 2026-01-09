@@ -35,7 +35,9 @@ Use it like this:
 The status of payment; whether the invoice has been paid or not.
 
 Relation describes that: 
-[ #has_/domain  :: Invoice ]
+
+#has_/domain  :: Invoice  
+
 ( #has_/name :: has_payment_status )
 ( #has_/range :: PaymentStatusType, Text )
 

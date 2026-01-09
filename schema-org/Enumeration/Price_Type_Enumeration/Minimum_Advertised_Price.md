@@ -33,14 +33,13 @@ Class of all minimum_advertised_prices.
 Tag Instances like this: 
 #is_a_/minimum_advertised_price
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the minimum advertised price ("MAP") (as dictated by the manufacturer) of an offered product.
 
-[ #is_/sub_class_of :: [[../PriceTypeEnumeration]] ]
+#is_/sub_class_of :: [[../PriceTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
-
+#is_/enum_of :: [[../PriceTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

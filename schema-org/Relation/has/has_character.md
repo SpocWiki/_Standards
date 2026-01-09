@@ -31,7 +31,9 @@ Use it like this:
 Fictional person connected with a creative work.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_character )
 ( #has_/range :: Person )
 

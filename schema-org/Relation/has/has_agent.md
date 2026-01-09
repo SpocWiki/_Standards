@@ -32,7 +32,9 @@ The direct performer or driver of an action (animate or inanimate).
 E.g. <em>John</em> wrote a book.
 
 Relation describes that: 
-[ #has_/domain  :: [Action](../../Class/is_a_/action.md) ]
+
+#has_/domain  :: [Action](../../Class/is_a_/action.md)  
+
 ( #has_/name :: has_agent )
 ( #has_/range :: [Organization](../../../Society/Agent/Community/Organization.md), [Person](../../../Society/Agent/Person.md) )
 

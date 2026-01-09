@@ -36,7 +36,9 @@ Use it like this:
 The number of pages in the book.
 
 Predicate describes that: 
-[ #has_/domain  :: Book ]
+
+#has_/domain  :: Book  
+
 ( #has_/name :: has_number_of_pages )
 ( #has_/range :: Integer )
 

@@ -39,7 +39,9 @@ Use it like this:
 Description of benefits associated with the job.
 
 Predicated describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_text_of_job_benefits )
 ( #has_/range :: Text )
 

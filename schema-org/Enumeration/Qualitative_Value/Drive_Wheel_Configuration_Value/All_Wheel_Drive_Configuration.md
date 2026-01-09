@@ -35,10 +35,9 @@ Tag Instances like this:
 
 All-wheel Drive is a transmission layout where the engine drives all four wheels.
 
-[ #is_/sub_class_of :: [[../DriveWheelConfigurationValue]] ]
+#is_/sub_class_of :: [[../DriveWheelConfigurationValue]]  
 
-[ #is_/enum_of :: [[../DriveWheelConfigurationValue]] ]
-
+#is_/enum_of :: [[../DriveWheelConfigurationValue]]  
 
 ## Confidential Links & Embeds: 
 

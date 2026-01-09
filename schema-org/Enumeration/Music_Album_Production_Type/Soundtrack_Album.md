@@ -35,10 +35,9 @@ Tag Instances like this:
 
 SoundtrackAlbum.
 
-[ #is_/sub_class_of :: [[../MusicAlbumProductionType]] ]
+#is_/sub_class_of :: [[../MusicAlbumProductionType]]  
 
-[ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
-
+#is_/enum_of :: [[../MusicAlbumProductionType]]  
 
 ## Confidential Links & Embeds: 
 

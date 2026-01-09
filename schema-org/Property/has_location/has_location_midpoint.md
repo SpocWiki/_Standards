@@ -36,7 +36,9 @@ Use it like this:
 Indicates the GeoCoordinates at the centre of a GeoShape, e.g. GeoCircle.
 
 Predicate describes that: 
-[ #has_/domain  :: GeoCircle ]
+
+#has_/domain  :: GeoCircle  
+
 ( #has_/name :: has_location_midpoint )
 ( #has_/range :: GeoCoordinates )
 

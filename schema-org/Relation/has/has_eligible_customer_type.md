@@ -36,7 +36,9 @@ Use it like this:
 The type(s) of customers for which the given offer is valid.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer ]
+
+#has_/domain  :: Demand, Offer  
+
 ( #has_/name :: has_eligible_customer_type )
 ( #has_/range :: BusinessEntityType )
 

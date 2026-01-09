@@ -39,7 +39,9 @@ While `schema:geo` is specifically designed for representing point locations usi
 
 
 Predicate describes that: 
-[ #has_/domain  :: Place ]
+
+#has_/domain  :: Place  
+
 ( #has_/name :: has_location_ )
 ( #has_/range :: GeoCoordinates, GeoShape )
 

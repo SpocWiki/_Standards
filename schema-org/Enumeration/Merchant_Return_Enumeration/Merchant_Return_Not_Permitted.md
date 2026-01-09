@@ -34,14 +34,13 @@ Class of all merchant_return_not_permitteds.
 Tag Instances like this: 
 #is_a_/merchant_return_not_permitted
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that product returns are not permitted.
 
-[ #is_/sub_class_of :: [[../MerchantReturnEnumeration]] ]
+#is_/sub_class_of :: [[../MerchantReturnEnumeration]]  
 
-[ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
-
+#is_/enum_of :: [[../MerchantReturnEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

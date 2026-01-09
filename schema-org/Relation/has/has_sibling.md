@@ -32,7 +32,9 @@ Use it like this:
 A sibling of the person.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_sibling )
 ( #has_/range :: Person )
 

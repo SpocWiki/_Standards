@@ -35,7 +35,9 @@ Use it like this:
 A CreativeWork such as an image, video, or audio clip shared as part of this posting.
 
 Relation describes that: 
-[ #has_/domain  :: SocialMediaPosting ]
+
+#has_/domain  :: SocialMediaPosting  
+
 ( #has_/name :: is_shared_content )
 ( #has_/range :: CreativeWork )
 

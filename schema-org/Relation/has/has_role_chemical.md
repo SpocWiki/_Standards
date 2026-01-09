@@ -28,7 +28,7 @@ title: has_role_chemical
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/role_/chemical :: DefinedTerm ] or 
@@ -37,7 +37,9 @@ Use it like this:
 A role played by the BioChemEntity within a chemical context.
 
 Relation describes that: 
-[ #has_/domain  :: ChemicalSubstance, MolecularEntity ]
+
+#has_/domain  :: ChemicalSubstance, MolecularEntity  
+
 ( #has_/name :: has_role_chemical )
 ( #has_/range :: DefinedTerm )
 

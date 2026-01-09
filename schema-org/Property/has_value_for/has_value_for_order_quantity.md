@@ -36,7 +36,9 @@ Use it like this:
 The number of the item ordered. If the property is not set, assume the quantity is one.
 
 Predicate describes that: 
-[ #has_/domain  :: OrderItem ]
+
+#has_/domain  :: OrderItem  
+
 ( #has_/name :: has_value_for_order_quantity )
 ( #has_/range :: Number )
 

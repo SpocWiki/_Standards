@@ -67,20 +67,27 @@ UNII: 60YU5MIG9W
 [GroupName::Actinide-Group]
 Group::[[../Actinide]]
 
+has_/name_/en::Thorium 
 
+has_/name_/de::Thorium 
 
-[has_/name_/en::Thorium]
-[has_/name_/de::Thorium]
 (Abbr::Th)
-[has_/value_for_/weight_/u::232.0381]
+
+has_/value_for_/weight_/u::232.0381 
+
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::19.9]
 [Unknown2::1.65]
-[has_/value_for_/radius_/nano_/m::6.08]
+
+has_/value_for_/radius_/nano_/m::6.08 
+
 [Electronegative::1.3]
 [Density::11.7]
-[has_/value_for_/temperature_/melt_/c ::1750]
-[has_/value_for_/temperature_/boil_/c ::4790]
+
+has_/value_for_/temperature_/melt_/c ::1750 
+
+has_/value_for_/temperature_/boil_/c ::4790 
+
 [HeatCapacity::0.12]
 [HeatConduct::0.54]
 [Enthalpy::16.1]

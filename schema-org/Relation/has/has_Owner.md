@@ -4,7 +4,9 @@ Use it like this:
 - [ has_owner :: [[has_agent|agent]]  ] 
 
 Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from the Side of the [[../../Property|Property]]: 
-[ #has_/domain  :: [[../../Property|Property]] ]
+
+#has_/domain  :: [[../../Property|Property]]  
+
 ( #has_/name :: [[has_Owner]] )
 ( #has_/range :: [[../../../Society/Agent|Agent]] )
 

@@ -36,7 +36,9 @@ Use it like this:
 The color of the product.
 
 Predicated describes that: 
-[ #has_/domain  :: Product ]
+
+#has_/domain  :: Product  
+
 ( #has_/name :: has_text_of_color )
 ( #has_/range :: Text )
 

@@ -36,7 +36,9 @@ Use it like this:
 Textual description of the unit type (including suite vs. room, size of bed, etc.).
 
 Relation describes that: 
-[ #has_/domain  :: LodgingReservation ]
+
+#has_/domain  :: LodgingReservation  
+
 ( #has_/name :: has_lodging_unit_type )
 ( #has_/range :: QualitativeValue, Text )
 

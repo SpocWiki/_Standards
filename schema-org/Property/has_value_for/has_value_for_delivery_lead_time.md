@@ -36,7 +36,9 @@ Use it like this:
 The typical delay between the receipt of the order and the goods either leaving the warehouse or being prepared for pickup, in case the delivery method is on site pickup.
 
 Predicate describes that: 
-[ #has_/domain  :: Demand, Offer ]
+
+#has_/domain  :: Demand, Offer  
+
 ( #has_/name :: has_value_for_delivery_lead_time )
 ( #has_/range :: QuantitativeValue )
 

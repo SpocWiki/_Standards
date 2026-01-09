@@ -35,7 +35,9 @@ Use it like this:
 A CreativeWork attached to the message.
 
 Relation describes that: 
-[ #has_/domain  :: Message ]
+
+#has_/domain  :: Message  
+
 ( #has_/name :: has_message_attachment )
 ( #has_/range :: CreativeWork )
 

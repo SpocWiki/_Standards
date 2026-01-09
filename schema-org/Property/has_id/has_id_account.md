@@ -37,12 +37,13 @@ Use it like this:
 The identifier for the account the payment will be applied to.
 
 Predicated describes that: 
-[ #has_/domain  :: Invoice ]
+
+#has_/domain  :: Invoice  
+
 ( #has_/name :: has_id_account )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

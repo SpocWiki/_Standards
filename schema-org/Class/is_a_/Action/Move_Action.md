@@ -40,12 +40,11 @@ Related actions:
 <li>[[TransferAction]]: Unlike TransferAction, the subject of the move is a living Person or Organization rather than an inanimate object.</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../Action]] ]
+#is_/sub_class_of :: [[../Action]]  
 
-[ #has_/sub_classes :: [ ArriveAction, DepartAction, TravelAction ] ]
+#has_/sub_classes :: [ ArriveAction, DepartAction, TravelAction ]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]  
 
 ## Confidential Links & Embeds: 
 

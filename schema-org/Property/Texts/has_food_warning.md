@@ -38,7 +38,9 @@ Use it like this:
 Any precaution, guidance, contraindication, etc. related to consumption of specific foods while taking this drug.
 
 Predicated describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_text_of_food_warning )
 ( #has_/range :: Text )
 

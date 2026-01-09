@@ -37,9 +37,9 @@ Tag Instances like this:
 
 A type of blood vessel that specifically carries blood to the heart.
 
-[ #is_/sub_class_of :: [[Vessel]] ]
+#is_/sub_class_of :: [[Vessel]]  
 
-[ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, drainsTo, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, regionDrained, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, tributary, url ] ]
+#has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, drainsTo, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, regionDrained, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, tributary, url ]  
 
 ## #has_/text_of_/abstract 
 

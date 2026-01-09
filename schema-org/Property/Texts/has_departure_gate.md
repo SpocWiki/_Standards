@@ -38,7 +38,9 @@ Use it like this:
 Identifier of the flight"s departure gate.
 
 Predicated describes that: 
-[ #has_/domain  :: Flight ]
+
+#has_/domain  :: Flight  
+
 ( #has_/name :: has_text_of_departure_gate )
 ( #has_/range :: Text )
 

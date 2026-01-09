@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of Observation.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/value_for_/margin_of_error :: QuantitativeValue ] or 
@@ -38,7 +38,9 @@ Use it like this:
 A marginOfError for an [[Observation]].
 
 Predicate describes that: 
-[ #has_/domain  :: Observation ]
+
+#has_/domain  :: Observation  
+
 ( #has_/name :: has_value_for_margin_of_error )
 ( #has_/range :: QuantitativeValue )
 

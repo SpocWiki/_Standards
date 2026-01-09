@@ -38,7 +38,9 @@ Use it like this:
 The cuisine of the recipe (for example, French or Ethiopian).
 
 Predicated describes that: 
-[ #has_/domain  :: Recipe ]
+
+#has_/domain  :: Recipe  
+
 ( #has_/name :: has_text_of_recipe_cuisine )
 ( #has_/range :: Text )
 

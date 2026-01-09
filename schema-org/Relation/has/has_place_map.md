@@ -35,7 +35,9 @@ Use it like this:
 A URL to a map of the place.
 
 Relation describes that: 
-[ #has_/domain  :: Place ]
+
+#has_/domain  :: Place  
+
 ( #has_/name :: has_place_map )
 ( #has_/range :: Map, URL )
 

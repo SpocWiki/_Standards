@@ -40,7 +40,9 @@ Usage guidelines:
 - Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.
 
 Predicate describes that: 
-[ #has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|AggregateOffer]] ]
+
+#has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|AggregateOffer]]  
+
 ( #has_/name :: has_value_for_high_price )
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 

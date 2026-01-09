@@ -33,7 +33,9 @@ Use it like this:
 The condition, complication, etc. influenced by this factor.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalRiskFactor]
+
+#has_/domain  :: MedicalRiskFactor 
+
 ( #has_/name :: is_increasing_risk_of)
 ( #has_/range :: MedicalEntity)
 

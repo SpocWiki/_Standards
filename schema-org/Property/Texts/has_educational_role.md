@@ -38,7 +38,9 @@ Use it like this:
 An educationalRole of an EducationalAudience.
 
 Predicated describes that: 
-[ #has_/domain  :: EducationalAudience ]
+
+#has_/domain  :: EducationalAudience  
+
 ( #has_/name :: has_text_of_educational_role )
 ( #has_/range :: Text )
 

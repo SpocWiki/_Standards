@@ -11,14 +11,15 @@ Use it like this:
 - [ has_examples :: [[../../Collection]]] 
 
 Relation describes that: 
-[ #has_/domain  :: [[../../Class|Class]] ]
+
+#has_/domain  :: [[../../Class|Class]]  
+
 ( #has_/name :: [[has_examples]] )
 ( #has_/range :: [[../../Collection]] )
 
-[ #is_/inverse_of  :: [[../../Class/is_instance_of]] ]
+#is_/inverse_of  :: [[../../Class/is_instance_of]]  
 
-[ #has_/sub_properties :: [ [[has_work_example]] ] ]
-
+#has_/sub_properties :: [ [[has_work_example]] ]  
 
 ## Confidential Links & Embeds: 
 

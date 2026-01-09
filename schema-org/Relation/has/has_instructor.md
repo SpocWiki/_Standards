@@ -31,7 +31,9 @@ Use it like this:
 A person assigned to instruct or provide instructional assistance for the [[CourseInstance]].
 
 Relation describes that: 
-[ #has_/domain  :: CourseInstance ]
+
+#has_/domain  :: CourseInstance  
+
 ( #has_/name :: has_instructor )
 ( #has_/range :: Person )
 

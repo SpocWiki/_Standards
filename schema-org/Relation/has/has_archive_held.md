@@ -26,7 +26,7 @@ title: has_archive_held
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/archive_held :: ArchiveComponent ] or 
@@ -35,12 +35,13 @@ Use it like this:
 Collection, [fonds](https://en.wikipedia.org/wiki/Fonds), or item held, kept or maintained by an [[ArchiveOrganization]].
 
 Relation describes that: 
-[ #has_/domain  :: ArchiveOrganization ]
+
+#has_/domain  :: ArchiveOrganization  
+
 ( #has_/name :: has_archive_held )
 ( #has_/range :: ArchiveComponent )
 
-[ #is_/inverse_of  :: [[../is/is_holding_archive]] ]
-
+#is_/inverse_of  :: [[../is/is_holding_archive]]  
 
 ## Confidential Links & Embeds: 
 

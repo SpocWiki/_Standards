@@ -33,7 +33,9 @@ Use it like this:
 The service provided by this channel.
 
 Relation describes that: 
-[ #has_/domain  :: ServiceChannel]
+
+#has_/domain  :: ServiceChannel 
+
 ( #has_/name :: is_providing_service)
 ( #has_/range :: Service)
 

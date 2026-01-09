@@ -33,14 +33,13 @@ Class of all return_label_in_boxs.
 Tag Instances like this: 
 #is_a_/return_label_in_box
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that a return label will be provided by the seller in the shipping box.
 
-[ #is_/sub_class_of :: [[../ReturnLabelSourceEnumeration]] ]
+#is_/sub_class_of :: [[../ReturnLabelSourceEnumeration]]  
 
-[ #is_/enum_of :: [[../ReturnLabelSourceEnumeration]] ]
-
+#is_/enum_of :: [[../ReturnLabelSourceEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

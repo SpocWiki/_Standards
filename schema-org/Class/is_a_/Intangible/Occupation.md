@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A profession, may involve prolonged training and/or a formal qualification.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

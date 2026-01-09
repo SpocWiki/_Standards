@@ -32,7 +32,9 @@ The type of bed or beds included in the accommodation. For the single case of ju
 	  If you want to indicate the quantity of a certain kind of bed, use an instance of BedDetails. For more detailed information, use the amenityFeature property.
 
 Relation describes that: 
-[ #has_/domain  :: HotelRoom, Suite ]
+
+#has_/domain  :: HotelRoom, Suite  
+
 ( #has_/name :: has_bed )
 ( #has_/range :: BedDetails, BedType, Text )
 

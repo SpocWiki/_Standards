@@ -49,7 +49,9 @@ allow the use of a "content=" attribute for publishing simple machine-readable v
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: Offer, PriceSpecification, TradeAction ]
+
+#has_/domain  :: Offer, PriceSpecification, TradeAction  
+
 ( #has_/name :: has_value_for_price )
 ( #has_/range :: Number, Text )
 

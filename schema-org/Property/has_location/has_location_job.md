@@ -36,7 +36,9 @@ Use it like this:
 A (typically single) geographic location associated with the job position.
 
 Predicate describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_location_job )
 ( #has_/range :: Place )
 

@@ -38,7 +38,9 @@ Use it like this:
 The unique identifier for the train.
 
 Predicated describes that: 
-[ #has_/domain  :: TrainTrip ]
+
+#has_/domain  :: TrainTrip  
+
 ( #has_/name :: has_text_of_train_number )
 ( #has_/range :: Text )
 

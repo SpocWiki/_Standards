@@ -31,7 +31,7 @@ type: Pred_Text
 
 Predicate to describe the Text of JobPosting.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/employer_overview :: Text ] or 
@@ -40,7 +40,9 @@ Use it like this:
 A description of the employer, career opportunities and work environment for this position.
 
 Predicated describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_text_of_employer_overview )
 ( #has_/range :: Text )
 

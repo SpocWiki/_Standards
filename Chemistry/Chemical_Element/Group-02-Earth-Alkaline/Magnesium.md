@@ -105,17 +105,25 @@ ZVG_number:
 [GroupName::Group-02-Earth-Alkaline]
 Group::[[../Group-02-Earth-Alkaline]]
 
-[has_/name_/en::Magnesium]
-[has_/name_/de::Magnesium]
-[has_/value_for_/weight_/u::24.305]
+has_/name_/en::Magnesium 
+
+has_/name_/de::Magnesium 
+
+has_/value_for_/weight_/u::24.305 
+
 [AtomRadius::1.72]
 [Atom-Vol-ccm-mol::13.97]
 [Unknown2::1.36]
-[has_/value_for_/radius_/nano_/m::7.646]
+
+has_/value_for_/radius_/nano_/m::7.646 
+
 [Electronegative::1.3]
 [Density::1.74]
-[has_/value_for_/temperature_/melt_/c ::648.8]
-[has_/value_for_/temperature_/boil_/c ::1090]
+
+has_/value_for_/temperature_/melt_/c ::648.8 
+
+has_/value_for_/temperature_/boil_/c ::1090 
+
 [HeatCapacity::1.02]
 [HeatConduct::1.56]
 [Enthalpy::8.954]

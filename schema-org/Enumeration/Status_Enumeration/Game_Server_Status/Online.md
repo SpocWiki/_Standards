@@ -33,10 +33,9 @@ Tag Instances like this:
 
 Game server status: Online. Server is available.
 
-[ #is_/sub_class_of :: [[../GameServerStatus]] ]
+#is_/sub_class_of :: [[../GameServerStatus]]  
 
-[ #is_/enum_of :: [[../GameServerStatus]] ]
-
+#is_/enum_of :: [[../GameServerStatus]]  
 
 ## Confidential Links & Embeds: 
 

@@ -32,14 +32,13 @@ Class of all msrps.
 Tag Instances like this: 
 #is_a_/msrp
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the manufacturer suggested retail price ("MSRP") of an offered product.
 
-[ #is_/sub_class_of :: [[../PriceTypeEnumeration]] ]
+#is_/sub_class_of :: [[../PriceTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
-
+#is_/enum_of :: [[../PriceTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

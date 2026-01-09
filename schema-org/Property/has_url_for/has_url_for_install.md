@@ -37,7 +37,9 @@ Use it like this:
 URL at which the app may be installed, if different from the URL of the item.
 
 Predicate describes that: 
-[ #has_/domain  :: SoftwareApplication ]
+
+#has_/domain  :: SoftwareApplication  
+
 ( #has_/name :: has_url_for_install_url )
 ( #has_/range :: URL )
 

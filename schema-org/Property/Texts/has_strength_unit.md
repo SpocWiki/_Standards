@@ -37,7 +37,9 @@ Use it like this:
 - [ has_text_of_strength_unit :: Text ] 
 
 Predicated describes that: 
-[ #has_/domain  :: DrugStrength ]
+
+#has_/domain  :: DrugStrength  
+
 ( #has_/name :: has_text_of_strength_unit )
 ( #has_/range :: Text )
 

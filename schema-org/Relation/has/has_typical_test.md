@@ -35,7 +35,9 @@ Use it like this:
 A medical test typically performed given this condition.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition ]
+
+#has_/domain  :: MedicalCondition  
+
 ( #has_/name :: is_typical_test )
 ( #has_/range :: MedicalTest )
 

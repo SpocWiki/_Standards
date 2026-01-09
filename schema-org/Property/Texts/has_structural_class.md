@@ -38,7 +38,9 @@ Use it like this:
 The name given to how bone physically connects to each other.
 
 Predicated describes that: 
-[ #has_/domain  :: Joint ]
+
+#has_/domain  :: Joint  
+
 ( #has_/name :: has_text_of_structural_class )
 ( #has_/range :: Text )
 

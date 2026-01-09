@@ -41,7 +41,9 @@ A short textual code (also called "store code") that uniquely identifies a place
 For example, in the URL http://www.starbucks.co.uk/store-locator/etc/detail/3047 the code "3047" is a branchCode for a particular branch.
 
 Predicated describes that: 
-[ #has_/domain  :: Place ]
+
+#has_/domain  :: Place  
+
 ( #has_/name :: has_code_of_branch )
 ( #has_/range :: Text )
 

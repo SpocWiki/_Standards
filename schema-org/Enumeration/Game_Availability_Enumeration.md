@@ -32,12 +32,11 @@ Class of all game_availability_enumerations.
 Tag Instances like this: 
 #is_a_/game_availability_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of the kind of game availability offered.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+#is_/sub_class_of :: [[../Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

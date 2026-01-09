@@ -39,7 +39,9 @@ Use it like this:
 The color or color combination of the interior of the vehicle.
 
 Predicated describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_text_of_vehicle_interior_color )
 ( #has_/range :: Text )
 

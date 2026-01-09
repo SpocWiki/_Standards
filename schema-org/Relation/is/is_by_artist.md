@@ -35,7 +35,9 @@ Use it like this:
 The artist that performed this album or recording.
 
 Relation describes that: 
-[ #has_/domain  :: MusicAlbum, MusicRecording ]
+
+#has_/domain  :: MusicAlbum, MusicRecording  
+
 ( #has_/name :: is_by_artist )
 ( #has_/range :: MusicGroup, Person )
 

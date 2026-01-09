@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Play mode: SinglePlayer. Which is played by a lone player.
 
-[ #is_/sub_class_of :: [[../GamePlayMode]] ]
+#is_/sub_class_of :: [[../GamePlayMode]]  
 
-[ #is_/enum_of :: [[../GamePlayMode]] ]
-
+#is_/enum_of :: [[../GamePlayMode]]  
 
 ## Confidential Links & Embeds: 
 

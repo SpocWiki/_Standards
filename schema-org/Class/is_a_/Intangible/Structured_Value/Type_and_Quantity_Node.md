@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A structured value indicating the quantity, unit of measurement, and business function of goods included in a bundle offer.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+#is_/sub_class_of :: [[../StructuredValue]]  
 
-[ #has_/properties :: [ additionalType, alternateName, amountOfThisGood, businessFunction, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, typeOfGood, unitCode, unitText, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, amountOfThisGood, businessFunction, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, typeOfGood, unitCode, unitText, url ]  
 
 ## Confidential Links & Embeds: 
 

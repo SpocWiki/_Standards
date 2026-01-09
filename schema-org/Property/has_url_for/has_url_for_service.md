@@ -37,7 +37,9 @@ Use it like this:
 The website to access the service.
 
 Predicate describes that: 
-[ #has_/domain  :: ServiceChannel ]
+
+#has_/domain  :: ServiceChannel  
+
 ( #has_/name :: has_url_for_service_url )
 ( #has_/range :: URL )
 

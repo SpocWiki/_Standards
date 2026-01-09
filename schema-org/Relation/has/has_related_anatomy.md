@@ -35,7 +35,9 @@ Use it like this:
 Anatomical systems or structures that relate to the superficial anatomy.
 
 Relation describes that: 
-[ #has_/domain  :: SuperficialAnatomy ]
+
+#has_/domain  :: SuperficialAnatomy  
+
 ( #has_/name :: is_related_anatomy )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 

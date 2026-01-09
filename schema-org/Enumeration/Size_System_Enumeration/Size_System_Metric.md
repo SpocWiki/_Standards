@@ -33,14 +33,13 @@ Class of all size_system_metrics.
 Tag Instances like this: 
 #is_a_/size_system_metric
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Metric size system.
 
-[ #is_/sub_class_of :: [[../SizeSystemEnumeration]] ]
+#is_/sub_class_of :: [[../SizeSystemEnumeration]]  
 
-[ #is_/enum_of :: [[../SizeSystemEnumeration]] ]
-
+#is_/enum_of :: [[../SizeSystemEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

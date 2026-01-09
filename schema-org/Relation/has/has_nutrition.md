@@ -35,7 +35,9 @@ Use it like this:
 Nutrition information about the recipe or menu item.
 
 Relation describes that: 
-[ #has_/domain  :: MenuItem, Recipe ]
+
+#has_/domain  :: MenuItem, Recipe  
+
 ( #has_/name :: has_nutrition )
 ( #has_/range :: NutritionInformation )
 

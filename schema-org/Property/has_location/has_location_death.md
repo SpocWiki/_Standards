@@ -36,7 +36,9 @@ Use it like this:
 The place where the person died.
 
 Predicate describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_location_death )
 ( #has_/range :: Place )
 

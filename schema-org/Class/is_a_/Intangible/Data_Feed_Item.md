@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A single item within a larger data feed.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+#is_/sub_class_of :: [[../Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, dateCreated, dateDeleted, dateModified, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, dateCreated, dateDeleted, dateModified, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

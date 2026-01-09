@@ -35,12 +35,11 @@ Class of all x_path_types.
 Tag Instances like this: 
 #is_a_/x_path_type
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Text representing an XPath (typically but not necessarily version 1.0).
 
-[ #is_/sub_class_of :: [[../Text]] ]
-
+#is_/sub_class_of :: [[../Text]]  
 
 ## Confidential Links & Embeds: 
 

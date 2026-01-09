@@ -29,7 +29,7 @@ type: Predi_Count
 
 Predicate to describe the Number of Course, EducationalOccupationalProgram.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/number_of_/credits :: Integer, StructuredValue ] or 
@@ -38,7 +38,9 @@ Use it like this:
 The number of credits or units awarded by a Course or required to complete an EducationalOccupationalProgram.
 
 Predicate describes that: 
-[ #has_/domain  :: Course, EducationalOccupationalProgram ]
+
+#has_/domain  :: Course, EducationalOccupationalProgram  
+
 ( #has_/name :: has_number_of_credits )
 ( #has_/range :: Integer, StructuredValue )
 

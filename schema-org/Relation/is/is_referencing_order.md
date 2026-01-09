@@ -33,7 +33,9 @@ Use it like this:
 The Order(s) related to this Invoice. One or more Orders may be combined into a single Invoice.
 
 Relation describes that: 
-[ #has_/domain  :: Invoice]
+
+#has_/domain  :: Invoice 
+
 ( #has_/name :: is_referencing_order)
 ( #has_/range :: Order)
 

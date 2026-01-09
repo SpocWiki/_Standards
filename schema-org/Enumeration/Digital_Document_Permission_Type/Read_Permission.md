@@ -35,10 +35,9 @@ Tag Instances like this:
 
 Permission to read or view the document.
 
-[ #is_/sub_class_of :: [[../DigitalDocumentPermissionType]] ]
+#is_/sub_class_of :: [[../DigitalDocumentPermissionType]]  
 
-[ #is_/enum_of :: [[../DigitalDocumentPermissionType]] ]
-
+#is_/enum_of :: [[../DigitalDocumentPermissionType]]  
 
 ## Confidential Links & Embeds: 
 

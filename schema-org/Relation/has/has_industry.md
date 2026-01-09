@@ -31,7 +31,9 @@ Use it like this:
 The industry associated with the job position.
 
 Relation describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_industry )
 ( #has_/range :: DefinedTerm, Text )
 

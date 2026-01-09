@@ -37,7 +37,9 @@ Use it like this:
 The area within which users can expect to reach the broadcast service.
 
 Predicate describes that: 
-[ #has_/domain  :: BroadcastService ]
+
+#has_/domain  :: BroadcastService  
+
 ( #has_/name :: has_location_area )
 ( #has_/range :: Place )
 

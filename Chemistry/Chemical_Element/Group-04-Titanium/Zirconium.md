@@ -89,17 +89,25 @@ ZVG_number:
 [GroupName::Group-04-Titanium]
 Group::[[../Group-04-Titanium]] 
 
-[has_/name_/en::Zirconium]
-[has_/name_/de::Zirkonium]
-[has_/value_for_/weight_/u::91.224]
+has_/name_/en::Zirconium 
+
+has_/name_/de::Zirkonium 
+
+has_/value_for_/weight_/u::91.224 
+
 [AtomRadius::2.16]
 [Atom-Vol-ccm-mol::14.1]
 [Unknown2::1.45]
-[has_/value_for_/radius_/nano_/m::6.84]
+
+has_/value_for_/radius_/nano_/m::6.84 
+
 [Electronegative::1.3]
 [Density::6.49]
-[has_/value_for_/temperature_/melt_/c ::1852]
-[has_/value_for_/temperature_/boil_/c ::4377]
+
+has_/value_for_/temperature_/melt_/c ::1852 
+
+has_/value_for_/temperature_/boil_/c ::4377 
+
 [HeatCapacity::0.27]
 [HeatConduct::0.227]
 [Enthalpy::16.9]

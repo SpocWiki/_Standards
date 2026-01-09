@@ -35,7 +35,9 @@ Use it like this:
 - [ has_text_of_naics :: Text ] 
 
 Predicated describes that: 
-[ #has_/domain  :: Organization, Person ]
+
+#has_/domain  :: Organization, Person  
+
 ( #has_/name :: has_text_of_naics )
 ( #has_/range :: Text )
 

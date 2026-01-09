@@ -38,7 +38,9 @@ Use it like this:
 A dosage form in which this drug/supplement is available, e.g. "tablet", "suspension", "injection".
 
 Predicated describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_text_of_dosage_form )
 ( #has_/range :: Text )
 

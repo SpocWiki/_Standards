@@ -41,7 +41,9 @@ Use it like this:
 - [ has_sub_classes :: [[../Class]] ] 
 
 Relation describes that: 
-[ #has_/domain  :: [[../Class]] ]
+
+#has_/domain  :: [[../Class]]  
+
 ( #has_/name :: has_sub_classes )
 ( #has_/range :: [[Thing]] )
 

@@ -33,14 +33,13 @@ Class of all parental_supports.
 Tag Instances like this: 
 #is_a_/parental_support
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 ParentalSupport: this is a benefit for parental support.
 
-[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
+#is_/sub_class_of :: [[../GovernmentBenefitsType]]  
 
-[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
-
+#is_/enum_of :: [[../GovernmentBenefitsType]]  
 
 ## Confidential Links & Embeds: 
 

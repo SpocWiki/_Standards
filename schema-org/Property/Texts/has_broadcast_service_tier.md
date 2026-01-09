@@ -39,7 +39,9 @@ Use it like this:
 The type of service required to have access to the channel (e.g. Standard or Premium).
 
 Predicated describes that: 
-[ #has_/domain  :: BroadcastChannel ]
+
+#has_/domain  :: BroadcastChannel  
+
 ( #has_/name :: has_text_of_broadcast_service_tier )
 ( #has_/range :: Text )
 

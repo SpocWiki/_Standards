@@ -38,7 +38,9 @@ Use it like this:
 The catalog number for the release.
 
 Predicated describes that: 
-[ #has_/domain  :: MusicRelease ]
+
+#has_/domain  :: MusicRelease  
+
 ( #has_/name :: has_text_of_catalog_number )
 ( #has_/range :: Text )
 

@@ -28,7 +28,7 @@ title: has_math_expression
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/math_expression :: SolveMathAction, Text ] or 
@@ -40,7 +40,9 @@ simplified, or transformed.
 This can take many formats, e.g. LaTeX, Ascii-Math, or math as you would write with a keyboard.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Class/is_a_/creative_work/math_solver]] ]
+
+#has_/domain  :: [[../../../Class/is_a_/creative_work/math_solver]]  
+
 ( #has_/name :: has_math_expression )
 ( #has_/range :: [[../../../Class/is_a_/action/solve_math_action]], Text )
 

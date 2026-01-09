@@ -29,7 +29,7 @@ type: Predi_Count
 
 Predicate to describe the Number of Schedule.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/number_of_/week_in_month :: Integer ] or 
@@ -38,7 +38,9 @@ Use it like this:
 Defines the week(s) of the month on which a recurring Event takes place. Specified as an Integer between 1-5. For clarity, byMonthWeek is best used in conjunction with byDay to indicate concepts like the first and third Mondays of a month.
 
 Predicate describes that: 
-[ #has_/domain  :: Schedule ]
+
+#has_/domain  :: Schedule  
+
 ( #has_/name :: has_number_of_week_in_month )
 ( #has_/range :: Integer )
 

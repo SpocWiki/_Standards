@@ -36,7 +36,9 @@ Use it like this:
 The page on which the work ends; for example "138" or "xvi".
 
 Predicate describes that: 
-[ #has_/domain  :: Article, Chapter, PublicationIssue, PublicationVolume ]
+
+#has_/domain  :: Article, Chapter, PublicationIssue, PublicationVolume  
+
 ( #has_/name :: has_number_of_page_end )
 ( #has_/range :: Integer, Text )
 

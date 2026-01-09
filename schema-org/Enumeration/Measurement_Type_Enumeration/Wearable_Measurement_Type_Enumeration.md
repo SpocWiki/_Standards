@@ -32,12 +32,11 @@ Class of all wearable_measurement_type_enumerations.
 Tag Instances like this: 
 #is_a_/wearable_measurement_type_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Enumerates common types of measurement for wearables products.
 
-[ #is_/sub_class_of :: [[../MeasurementTypeEnumeration]] ]
-
+#is_/sub_class_of :: [[../MeasurementTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

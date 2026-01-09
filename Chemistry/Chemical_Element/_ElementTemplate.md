@@ -9,18 +9,27 @@ type: Element
 
 SpocWebEntityId: {{SpocWebEntityId}}
 
-[has_/name_/en::{{English}}]
-[has_/name_/de::{{Deutsch}}]
+has_/name_/en::{{English}} 
+
+has_/name_/de::{{Deutsch}} 
+
 [Abbr::{{Abbreviation}}]
-[has_/value_for_/weight_/u::{{#has_/value_for_/weight_/u}}]
+
+has_/value_for_/weight_/u::{{#has_/value_for_/weight_/u}} 
+
 [AtomRadius::{{AtomRadius}}]
 [Atom-Vol-ccm-mol::{{Atomvol-ccm-mol}}]
 [Unknown2::{{Unknown2}}]
-[has_/value_for_/radius_/nano_/m::{{#has_/value_for_/radius_/nano_/m}}]
+
+has_/value_for_/radius_/nano_/m::{{#has_/value_for_/radius_/nano_/m}} 
+
 [Electronegative::{{Electronegativ}}]
 [Density::{{Density0°}}]
-[has_/value_for_/temperature_/melt_/c ::{{MeltingPoint}}]
-[has_/value_for_/temperature_/boil_/c ::{{BoilingPoint}}]
+
+has_/value_for_/temperature_/melt_/c ::{{MeltingPoint}} 
+
+has_/value_for_/temperature_/boil_/c ::{{BoilingPoint}} 
+
 [HeatCapacity::{{HeatCapacity}}]
 [HeatConduct::{{HeatConduct}}]
 [Enthalpy::{{Enthalpy}}]

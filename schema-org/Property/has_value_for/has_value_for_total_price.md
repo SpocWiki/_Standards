@@ -47,7 +47,9 @@ Usage guidelines:
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: Reservation, Ticket ]
+
+#has_/domain  :: Reservation, Ticket  
+
 ( #has_/name :: has_value_for_total_price )
 ( #has_/range :: Number, PriceSpecification, Text )
 

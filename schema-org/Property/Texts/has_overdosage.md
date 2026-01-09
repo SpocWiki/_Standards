@@ -37,7 +37,9 @@ Use it like this:
 Any information related to overdose on a drug, including signs or symptoms, treatments, contact information for emergency response.
 
 Predicated describes that: 
-[ #has_/domain  :: Drug ]
+
+#has_/domain  :: Drug  
+
 ( #has_/name :: has_text_of_overdosage )
 ( #has_/range :: Text )
 

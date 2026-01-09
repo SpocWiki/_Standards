@@ -36,14 +36,15 @@ Use it like this:
 This ordering relation for qualitative values indicates that the subject is greater than or equal to the object.
 
 Relation describes that: 
-[ #has_/domain  :: QualitativeValue ]
+
+#has_/domain  :: QualitativeValue  
+
 ( #has_/name :: is_greater_or_equal_to )
 ( #has_/range :: QualitativeValue )
 
-[ #is_/inverse_of :: [[is_lesser_or_equal_to]]] 
+#is_/inverse_of :: [[is_lesser_or_equal_to]] 
 
-[ #is_/complement_of :: [[is_less_than]]] 
-
+#is_/complement_of :: [[is_less_than]] 
 
 ## Confidential Links & Embeds: 
 

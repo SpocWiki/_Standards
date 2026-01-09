@@ -35,12 +35,13 @@ Use it like this:
 An item being offered (or demanded). The transactional nature of the offer or demand is documented using [[businessFunction]], e.g. sell, lease etc. While several common expected types are listed explicitly in this definition, others can be used. Using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer ]
+
+#has_/domain  :: Demand, Offer  
+
 ( #has_/name :: has_item_offered )
 ( #has_/range :: AggregateOffer, CreativeWork, Event, MenuItem, Product, Service, Trip )
 
-[ #is_/inverse_of  :: offers ]
-
+#is_/inverse_of  :: offers  
 
 ## Confidential Links & Embeds: 
 

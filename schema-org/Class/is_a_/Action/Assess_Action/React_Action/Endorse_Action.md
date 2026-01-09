@@ -34,10 +34,9 @@ Tag Instances like this:
 
 An agent approves/certifies/likes/supports/sanctions an object.
 
-[ #is_/sub_class_of :: [[../ReactAction]] ]
+#is_/sub_class_of :: [[../ReactAction]]  
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, endorsee, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+#has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, endorsee, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]  
 
 ## Confidential Links & Embeds: 
 

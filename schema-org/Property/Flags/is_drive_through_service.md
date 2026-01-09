@@ -35,7 +35,7 @@ such facilities could potentially help with social distancing from other potenti
 
 Renamed from `hasDriveThroughService`, because it is a boolean Type. 
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/drive_through_service 
@@ -45,7 +45,9 @@ Or write it as a Triple:
 [ is_drive_through_service :: Boolean ] 
 
 Predicate describes that: 
-[ #has_/domain  :: [[../../../Earth/Geography/Place]] ]
+
+#has_/domain  :: [[../../../Earth/Geography/Place]]  
+
 ( #has_/name :: is_drive_through_service )
 ( #has_/range :: Boolean )
 

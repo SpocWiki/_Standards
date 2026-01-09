@@ -91,19 +91,25 @@ ZVG_number: 8380
 [GroupName::Group-14-Carbon]
 Group::[[../Group-14-Carbon]]]
 
+has_/name_/en::Tin 
 
-[has_/name_/en::Tin]
-[has_/name_/de::Zinn]
+has_/name_/de::Zinn 
 
-[has_/value_for_/weight_/u::118.71]
+has_/value_for_/weight_/u::118.71 
+
 [AtomRadius::1.72]
 [Atom-Vol-ccm-mol::16.3]
 [Unknown2::1.41]
-[has_/value_for_/radius_/nano_/m::7.344]
+
+has_/value_for_/radius_/nano_/m::7.344 
+
 [Electronegative::2]
 [Density::7.3]
-[has_/value_for_/temperature_/melt_/c ::231.97]
-[has_/value_for_/temperature_/boil_/c ::2270]
+
+has_/value_for_/temperature_/melt_/c ::231.97 
+
+has_/value_for_/temperature_/boil_/c ::2270 
+
 [HeatCapacity::0.227]
 [HeatConduct::0.666]
 [Enthalpy::7.029]

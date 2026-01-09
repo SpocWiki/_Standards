@@ -36,7 +36,9 @@ Use it like this:
 The number of children staying in the unit.
 
 Predicate describes that: 
-[ #has_/domain  :: LodgingReservation ]
+
+#has_/domain  :: LodgingReservation  
+
 ( #has_/name :: has_number_of_children )
 ( #has_/range :: Integer, QuantitativeValue )
 

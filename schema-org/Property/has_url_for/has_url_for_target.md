@@ -37,7 +37,9 @@ Use it like this:
 The URL of a node in an established educational framework.
 
 Predicate describes that: 
-[ #has_/domain  :: AlignmentObject ]
+
+#has_/domain  :: AlignmentObject  
+
 ( #has_/name :: has_url_for_target_url )
 ( #has_/range :: URL )
 

@@ -33,14 +33,13 @@ Class of all store_credit_refunds.
 Tag Instances like this: 
 #is_a_/store_credit_refund
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that the customer receives a store credit as refund when returning a product.
 
-[ #is_/sub_class_of :: [[../RefundTypeEnumeration]] ]
+#is_/sub_class_of :: [[../RefundTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
-
+#is_/enum_of :: [[../RefundTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

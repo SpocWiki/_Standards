@@ -36,7 +36,9 @@ Use it like this:
 Audiences defined by a person's maximum age.
 
 Predicate describes that: 
-[ #has_/domain  :: PeopleAudience ]
+
+#has_/domain  :: PeopleAudience  
+
 ( #has_/name :: has_value_for_required_max_age )
 ( #has_/range :: Integer )
 

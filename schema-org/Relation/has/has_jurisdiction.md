@@ -24,7 +24,7 @@ title: has_jurisdiction
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this tp specify the geographic or administrative jurisdiction 
 where the Subject (e.g., a policy, regulation, or rule) is applicable.: 
@@ -34,12 +34,13 @@ where the Subject (e.g., a policy, regulation, or rule) is applicable.:
 Indicates a legal jurisdiction, e.g. of some legislation, or where some government service is based.
 
 Relation describes that: 
-[ #has_/domain  :: GovernmentService, Legislation ]
+
+#has_/domain  :: GovernmentService, Legislation  
+
 ( #has_/name :: has_jurisdiction )
 ( #has_/range :: AdministrativeArea, Text )
 
-[ #has_/sub_properties :: [ legislationJurisdiction ] ]
-
+#has_/sub_properties :: [ legislationJurisdiction ]  
 
 ## Confidential Links & Embeds: 
 

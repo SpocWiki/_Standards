@@ -53,7 +53,9 @@ Some examples: "BEIRUT, Lebanon, June 2.", "Paris, France",
 "2017-12-19 11:43AM Reporting from Washington", "Beijing/Moscow", "QUEZON CITY, Philippines".
 
 Predicated describes that: 
-[ #has_/domain  :: NewsArticle ]
+
+#has_/domain  :: NewsArticle  
+
 ( #has_/name :: has_text_of_dateline )
 ( #has_/range :: Text )
 

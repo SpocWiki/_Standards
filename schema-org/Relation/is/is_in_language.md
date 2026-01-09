@@ -37,7 +37,9 @@ The language of the content or performance or used in an action.
 Use one of the language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47). See also [[availableLanguage]].
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastService, CommunicateAction, CreativeWork, Event, LinkRole, PronounceableText, WriteAction]
+
+#has_/domain  :: BroadcastService, CommunicateAction, CreativeWork, Event, LinkRole, PronounceableText, WriteAction 
+
 ( #has_/name :: is_in_language)
 ( #has_/range :: Language, Text)
 

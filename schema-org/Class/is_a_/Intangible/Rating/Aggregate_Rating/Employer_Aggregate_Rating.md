@@ -34,10 +34,9 @@ Tag Instances like this:
 
 An aggregate rating of an Organization related to its role as an employer.
 
-[ #is_/sub_class_of :: [[../AggregateRating]] ]
+#is_/sub_class_of :: [[../AggregateRating]]  
 
-[ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ] ]
-
+#has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]  
 
 ## Confidential Links & Embeds: 
 

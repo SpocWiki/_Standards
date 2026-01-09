@@ -33,14 +33,13 @@ Class of all exchange_refunds.
 Tag Instances like this: 
 #is_an_/exchange_refund
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Specifies that a refund can be done as an exchange for the same product.
 
-[ #is_/sub_class_of :: [[../RefundTypeEnumeration]] ]
+#is_/sub_class_of :: [[../RefundTypeEnumeration]]  
 
-[ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
-
+#is_/enum_of :: [[../RefundTypeEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

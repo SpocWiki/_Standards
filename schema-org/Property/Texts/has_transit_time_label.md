@@ -32,7 +32,7 @@ type: Pred_Text
 
 Predicate to describe the Text of DeliveryTimeSettings, OfferShippingDetails.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
 - [ #has_/text_of_/transit_time_label :: Text ] or 
@@ -41,7 +41,9 @@ Use it like this:
 Label to match an [[OfferShippingDetails]] with a [[DeliveryTimeSettings]] (within the context of a [[shippingSettingsLink]] cross-reference).
 
 Predicated describes that: 
-[ #has_/domain  :: DeliveryTimeSettings, OfferShippingDetails ]
+
+#has_/domain  :: DeliveryTimeSettings, OfferShippingDetails  
+
 ( #has_/name :: has_text_of_transit_time_label )
 ( #has_/range :: Text )
 
