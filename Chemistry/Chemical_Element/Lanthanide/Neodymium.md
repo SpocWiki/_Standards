@@ -89,22 +89,44 @@ dv_is_:
     - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Neodymium.private|Neodymium.private]]"
     - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Neodymium.personal|Neodymium.personal]]"
     - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Neodymium.secret|Neodymium.secret]]"
-dv_Abbr: Nd
-dv_dv_has_:
+  part_of: "[[../Lanthanide]]"
+dv_has_:
   name_:
+    group: Lanthanide-Group
     en: Neodymium
     de: Neodym
+    abbreviated: Nd
   value_for_:
     weight_:
       u: 144.24
+    radius: 2.64
+    volume_:
+      ccm_:
+        mol: 20.6
+    unknown2: 1.64
     radius_:
       nano_:
         m: 5.53
+    electronegativity: 1.1
+    density: 7
     temperature_:
       melt_:
         c: 1010
       boil_:
         c: 3127
+    capacity_:
+      heat: 0.19
+    conductivity_:
+      heat: 0.165
+    enthalpy: 7.14
+    energy_:
+      form_:
+        kj_:
+          mol: 273
+  number_of_:
+    period: 6
+    group: 26
+    electrons: 60
 dv_is_same_as:
   - "[[../../../WikiData/WD~Neodymium,1388]]"
   - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Neodymium|Neodymium]]"
@@ -114,83 +136,71 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Neodymium.private|Neodymium.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Neodymium.personal|Neodymium.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Neodymium.secret|Neodymium.secret]]"
-dv_GroupName: Lanthanide-Group
-dv_Group: "[[../Lanthanide]]"
-dv_#has_:
-  name_:
-    en: Neodymium
-    de: Neodym
-  value_for_:
-    weight_:
-      u: 144.24
-    radius_:
-      nano_:
-        m: 5.53
-    temperature_:
-      melt_:
-        c: 1010
-      boil_:
-        c: 3127
-dv_AtomRadius: 2.64
-dv_has_/value_for_/volume_/ccm_/mol: 20.6
-dv_Unknown2: 1.64
-dv_Electronegative: 1.1
-dv_Density: 7
-dv_HeatCapacity: 0.19
-dv_HeatConduct: 0.165
-dv_Enthalpy: 7.14
-dv_has_/value_for_/energy_/form_/kj_/mol: 273
-dv_PeriodNo: 6
-dv_GroupNo: 26
-dv_Charge-e: 60
+dv_has_name_group: Lanthanide-Group
+dv_is_part_of: "[[../Lanthanide]]"
 dv_has_name_en: Neodymium
 dv_has_name_de: Neodym
 dv_has_value_for_weight_u: 144.24
+dv_has_value_for_radius: 2.64
+dv_has_value_for_volume_ccm_mol: 20.6
+dv_has_value_for_unknown2: 1.64
 dv_has_value_for_radius_nano_m: 5.53
+dv_has_value_for_electronegativity: 1.1
+dv_has_value_for_density: 7
 dv_has_value_for_temperature_melt_c: 1010
 dv_has_value_for_temperature_boil_c: 3127
+dv_has_value_for_capacity_heat: 0.19
+dv_has_value_for_conductivity_heat: 0.165
+dv_has_value_for_enthalpy: 7.14
+dv_has_value_for_energy_form_kj_mol: 273
+dv_has_number_of_period: 6
+dv_has_number_of_group: 26
+dv_has_name_abbreviated: Nd
+dv_has_number_of_electrons: 60
 ---
 
 # [[Neodymium]]
+
+## [[Neodymium]] has Properties...
 
 #is_/same_as :: [[../../../WikiData/WD~Neodymium,1388]] 
 
 
 #chemic/Element 
-has_/name_/group::Lanthanide-Group
-is_/part_of::[[../Lanthanide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/en::Neodymium
+has_name_de = `=this.dv_has_name_de` 
 
-has_/name_/de::Neodym
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-has_/value_for_/weight_/u::144.24
-has_/value_for_/radius::2.64
-has_/value_for_/volume_/ccm_/mol::20.6
-has_/value_for_/unknown2::1.64
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::5.53
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.1
-[has_/value_for_/density::7]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::1010
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::3127
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-has_/value_for_/capacity_/heat::0.19
-has_/value_for_/conductivity_/heat::0.165
-has_/value_for_/enthalpy::7.14
-has_/value_for_/energy_/form_/kj_/mol::273
-has_/number_of_/period::6
-has_/number_of_/group::26
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 
 
 ## #has_/text_of_/abstract 
 
-> **Neodymium** is a chemical element with the symbol (has_/name_/abbreviated::Nd) and atomic number (has_/number_of_/electrons::60). It is the fourth member of the lanthanide series and is considered to be one of the rare-earth metals. It is a hard, slightly malleable, silvery metal that quickly tarnishes in air and moisture. When oxidized, neodymium reacts quickly producing pink, purple/blue and yellow compounds in the +2, +3 and +4 oxidation states. It is generally regarded as having one of the most complex spectra of the elements. Neodymium was discovered in 1885 by the Austrian chemist Carl Auer von Welsbach, who also discovered praseodymium. It is present in significant quantities in the minerals monazite and bastnäsite. Neodymium is not found naturally in metallic form or unmixed with other lanthanides, and it is usually refined for general use. Neodymium is fairly common—about as common as cobalt, nickel, or copper—and is widely distributed in the Earth's crust. Most of the world's commercial neodymium is mined in China, as is the case with many other rare-earth metals.
+> **Neodymium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . It is the fourth member of the lanthanide series and is considered to be one of the rare-earth metals. It is a hard, slightly malleable, silvery metal that quickly tarnishes in air and moisture. When oxidized, neodymium reacts quickly producing pink, purple/blue and yellow compounds in the +2, +3 and +4 oxidation states. It is generally regarded as having one of the most complex spectra of the elements. Neodymium was discovered in 1885 by the Austrian chemist Carl Auer von Welsbach, who also discovered praseodymium. It is present in significant quantities in the minerals monazite and bastnäsite. Neodymium is not found naturally in metallic form or unmixed with other lanthanides, and it is usually refined for general use. Neodymium is fairly common—about as common as cobalt, nickel, or copper—and is widely distributed in the Earth's crust. Most of the world's commercial neodymium is mined in China, as is the case with many other rare-earth metals.
 >
 > Neodymium was first commercially used as glass dyes in 1927 and remain a popular additive. 
 > The color of neodymium compounds comes from the Nd3+ ion and is often a reddish-purple. 
