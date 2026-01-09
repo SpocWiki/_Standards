@@ -22,63 +22,98 @@ Unicode_character: 釹
 UNII: 2I87U3734A
 ZVG_number: 7600
 atomic_number: 60
-canonical_SMILES: '[Nd]'
+canonical_SMILES: "[Nd]"
 chemical_formula: Nd
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]"
 electronegativity: 1.14
 element_symbol: Nd
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neodym%201.jpg
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.98
   - 1.12
   - 1.16
   - 1.27
-location_of_discovery: '[[_Standards/WikiData/WD~Vienna,1741]]'
+location_of_discovery: "[[_Standards/WikiData/WD~Vienna,1741]]"
 made_from_material:
-  - '[[_Standards/WikiData/WD~aeschynite_(Nd),1067020]]'
-  - '[[_Standards/WikiData/WD~clinofergusonite_(Nd),2718921]]'
-  - '[[_Standards/WikiData/WD~calcioancylite_(Nd),3650470]]'
-  - '[[_Standards/WikiData/WD~fergusonite_(Nd),3742785]]'
-  - '[[_Standards/WikiData/WD~florencite_(Nd),3746701]]'
-  - '[[_Standards/WikiData/WD~françoisite_(Nd),3752299]]'
-  - '[[_Standards/WikiData/WD~gysinite_(Nd),3780198]]'
-  - '[[_Standards/WikiData/WD~hydroxylbastnäsite_(Nd),3787832]]'
-  - '[[_Standards/WikiData/WD~kozoite_(Nd),3816711]]'
-  - '[[_Standards/WikiData/WD~lanthanite_(Nd),3826950]]'
-  - '[[_Standards/WikiData/WD~monazite_(Nd),3860583]]'
-  - '[[_Standards/WikiData/WD~retzian_(Nd),3933862]]'
-  - '[[_Standards/WikiData/WD~rhabdophane_(Nd),3934053]]'
-  - '[[_Standards/WikiData/WD~schuilingite_(Nd),3952188]]'
-  - '[[_Standards/WikiData/WD~shabaite_(Nd),3958922]]'
-  - '[[_Standards/WikiData/WD~swamboite_(Nd),3978578]]'
-  - '[[_Standards/WikiData/WD~synchysite_(Nd),3979127]]'
-  - '[[_Standards/WikiData/WD~tundrite_(Nd),4000427]]'
-  - '[[_Standards/WikiData/WD~allanite_(Nd),19767346]]'
-  - '[[_Standards/WikiData/WD~åskagenite_(Nd),19799765]]'
-  - '[[_Standards/WikiData/WD~carlgieseckeite_(Nd),19833300]]'
-  - '[[_Standards/WikiData/WD~chukhrovite_(Nd),19833336]]'
-  - '[[_Standards/WikiData/WD~wakefieldite_(Nd),19862048]]'
-  - '[[_Standards/WikiData/WD~bastnäsite_(Nd),20042659]]'
-  - '[[_Standards/WikiData/WD~mendeleevite_(Nd),21029157]]'
-  - '[[_Standards/WikiData/WD~gadolinite_(Nd),26981145]]'
-  - '[[_Standards/WikiData/WD~hingganite_(Nd),68769615]]'
-  - '[[_Standards/WikiData/WD~lepersonnite_(Nd),110297480]]'
-  - '[[_Standards/WikiData/WD~chinleite_(Nd),114793058]]'
+  - "[[_Standards/WikiData/WD~aeschynite_(Nd),1067020]]"
+  - "[[_Standards/WikiData/WD~clinofergusonite_(Nd),2718921]]"
+  - "[[_Standards/WikiData/WD~calcioancylite_(Nd),3650470]]"
+  - "[[_Standards/WikiData/WD~fergusonite_(Nd),3742785]]"
+  - "[[_Standards/WikiData/WD~florencite_(Nd),3746701]]"
+  - "[[_Standards/WikiData/WD~françoisite_(Nd),3752299]]"
+  - "[[_Standards/WikiData/WD~gysinite_(Nd),3780198]]"
+  - "[[_Standards/WikiData/WD~hydroxylbastnäsite_(Nd),3787832]]"
+  - "[[_Standards/WikiData/WD~kozoite_(Nd),3816711]]"
+  - "[[_Standards/WikiData/WD~lanthanite_(Nd),3826950]]"
+  - "[[_Standards/WikiData/WD~monazite_(Nd),3860583]]"
+  - "[[_Standards/WikiData/WD~retzian_(Nd),3933862]]"
+  - "[[_Standards/WikiData/WD~rhabdophane_(Nd),3934053]]"
+  - "[[_Standards/WikiData/WD~schuilingite_(Nd),3952188]]"
+  - "[[_Standards/WikiData/WD~shabaite_(Nd),3958922]]"
+  - "[[_Standards/WikiData/WD~swamboite_(Nd),3978578]]"
+  - "[[_Standards/WikiData/WD~synchysite_(Nd),3979127]]"
+  - "[[_Standards/WikiData/WD~tundrite_(Nd),4000427]]"
+  - "[[_Standards/WikiData/WD~allanite_(Nd),19767346]]"
+  - "[[_Standards/WikiData/WD~åskagenite_(Nd),19799765]]"
+  - "[[_Standards/WikiData/WD~carlgieseckeite_(Nd),19833300]]"
+  - "[[_Standards/WikiData/WD~chukhrovite_(Nd),19833336]]"
+  - "[[_Standards/WikiData/WD~wakefieldite_(Nd),19862048]]"
+  - "[[_Standards/WikiData/WD~bastnäsite_(Nd),20042659]]"
+  - "[[_Standards/WikiData/WD~mendeleevite_(Nd),21029157]]"
+  - "[[_Standards/WikiData/WD~gadolinite_(Nd),26981145]]"
+  - "[[_Standards/WikiData/WD~hingganite_(Nd),68769615]]"
+  - "[[_Standards/WikiData/WD~lepersonnite_(Nd),110297480]]"
+  - "[[_Standards/WikiData/WD~chinleite_(Nd),114793058]]"
 mass: 144.242
 named_after:
-  - '[[_Standards/WikiData/WD~twin,159979]]'
-  - '[[_Standards/WikiData/WD~novelty,12544101]]'
+  - "[[_Standards/WikiData/WD~twin,159979]]"
+  - "[[_Standards/WikiData/WD~novelty,12544101]]"
 part_of:
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
-  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
 time_of_discovery_or_invention: 1885-01-01T00:00:00Z
 type: Element
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Neodymium,1388]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Neodymium|Neodymium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Neodymium.public|Neodymium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Neodymium.internal|Neodymium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Neodymium.protect|Neodymium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Neodymium.private|Neodymium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Neodymium.personal|Neodymium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Neodymium.secret|Neodymium.secret]]"
+dv_Abbr: Nd
+dv_dv_has_:
+  name_:
+    en: Neodymium
+    de: Neodym
+  value_for_:
+    weight_:
+      u: 144.24
+    radius_:
+      nano_:
+        m: 5.53
+    temperature_:
+      melt_:
+        c: 1010
+      boil_:
+        c: 3127
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Neodymium,1388]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Neodymium|Neodymium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Neodymium.public|Neodymium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Neodymium.internal|Neodymium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Neodymium.protect|Neodymium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Neodymium.private|Neodymium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Neodymium.personal|Neodymium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Neodymium.secret|Neodymium.secret]]"
 ---
 
 # [[Neodymium]]
