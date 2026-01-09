@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of Vehicle.
 
 Use it like this: 
-- [has_/number_of_/forward_gears :: Number, QuantitativeValue ]  
+- [has_/number_of_/forward_gears :: Number, QuantitativeValue ] 
 - [ has_number_of_forward_gears :: Number, QuantitativeValue ] 
 
 The total number of forward gears available for the transmission system of the vehicle.

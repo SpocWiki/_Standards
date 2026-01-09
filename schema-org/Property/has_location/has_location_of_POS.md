@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of Organization or Person that operates the POS.
 
 Use it like this: 
-- [ #has_/location_/of_POS :: Place ] 
+- [has_/location_/of_POS :: Place ] 
 - [ has_location_of_POS :: Place ] 
 
 Points-of-Sales operated by the organization or person.

@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/illustrator :: Person ]  
+- [has_/illustrator :: Person ] 
 - [ has_illustrator :: Person ] 
 
 The illustrator of the book.

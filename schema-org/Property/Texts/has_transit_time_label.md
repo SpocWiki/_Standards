@@ -35,7 +35,7 @@ Predicate to describe the Text of DeliveryTimeSettings, OfferShippingDetails.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/transit_time_label :: Text ] 
+- [has_/text_of_/transit_time_label :: Text ] 
 - [ has_text_of_transit_time_label :: Text ] 
 
 Label to match an [[OfferShippingDetails]] with a [[DeliveryTimeSettings]] (within the context of a [[shippingSettingsLink]] cross-reference).

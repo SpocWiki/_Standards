@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/application_contact :: ContactPoint ]  
+- [has_/application_contact :: ContactPoint ] 
 - [ has_application_contact :: ContactPoint ] 
 
 Contact details for further information relevant to this job posting.

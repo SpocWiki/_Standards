@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of QuantitativeValueDistribution.
 
 Use it like this: 
-- [has_/value_for_/percentile75 :: Number ]  
+- [has_/value_for_/percentile75 :: Number ] 
 - [ has_value_for_percentile75 :: Number ] 
 
 The 75th percentile value.

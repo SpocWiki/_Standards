@@ -58,7 +58,7 @@ For example, the [[../../../Relation/has/has_alumni]] and [[is/is_alumni_of]] pr
 #is_/part_of :: https://meta.schema.org 
 
 Use it like this: 
-- [is_/inverse_of :: [[Property]]]  
+- [is_/inverse_of :: [[Property]]] 
 - [ is_inverse_of :: [[Property]]] 
 
 Relation describes that: 

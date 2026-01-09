@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/program_prerequisites :: AlignmentObject, Course, EducationalOccupationalCredential, Text ]  
+- [has_/program_prerequisites :: AlignmentObject, Course, EducationalOccupationalCredential, Text ] 
 - [ has_program_prerequisites :: AlignmentObject, Course, EducationalOccupationalCredential, Text ] 
 
 Prerequisites for enrolling in the program.

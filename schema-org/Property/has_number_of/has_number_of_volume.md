@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of PublicationVolume.
 
 Use it like this: 
-- [has_/number_of_/volume :: Integer, Text ]  
+- [has_/number_of_/volume :: Integer, Text ] 
 - [ has_number_of_volume :: Integer, Text ] 
 
 Identifies the volume of publication or multi-part work; for example, "iii" or "2".

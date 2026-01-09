@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/available_language :: Language, Text ]  
+- [has_/available_language :: Language, Text ] 
 - [ is_available_in_language :: Language, Text ] 
 
 A language someone may use with or at the item, service or place. Please use one of the language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47). See also [[inLanguage]].

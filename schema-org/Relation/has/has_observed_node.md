@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/observed_node :: StatisticalPopulation ]  
+- [has_/observed_node :: StatisticalPopulation ] 
 - [ has_observed_node :: StatisticalPopulation ] 
 
 The observedNode of an [[Observation]], often a [[StatisticalPopulation]].

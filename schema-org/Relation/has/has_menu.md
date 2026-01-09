@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/menu :: Menu, Text, URL ]  
+- [has_/menu :: Menu, Text, URL ] 
 - [ has_menu :: Menu, Text, URL ] 
 
 Either the actual menu as a structured representation, as text, or a URL of the menu.

@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
-- [ #has_/text_of_/artwork_surface :: Text, URL ] 
+- [has_/text_of_/artwork_surface :: Text, URL ] 
 - [ has_text_of_artwork_surface :: Text, URL ] 
 
 The supporting materials for the artwork, e.g. Canvas, Paper, Wood, Board, etc.

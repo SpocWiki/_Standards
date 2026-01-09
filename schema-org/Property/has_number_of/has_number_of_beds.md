@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of BedDetails.
 
 Use it like this: 
-- [has_/number_of_/beds :: Number ]  
+- [has_/number_of_/beds :: Number ] 
 - [ has_number_of_beds :: Number ] 
 
 The quantity of the given bed type available in the HotelRoom, Suite, House, or Apartment.

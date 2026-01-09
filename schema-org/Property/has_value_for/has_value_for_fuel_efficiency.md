@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- [has_/value_for_/fuel_efficiency :: QuantitativeValue ]  
+- [has_/value_for_/fuel_efficiency :: QuantitativeValue ] 
 - [ has_value_for_fuel_efficiency :: QuantitativeValue ] 
 
 The distance traveled per unit of fuel used; most commonly miles per gallon (mpg) or kilometers per liter (km/L).

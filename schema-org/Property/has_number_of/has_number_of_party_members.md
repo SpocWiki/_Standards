@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of FoodEstablishmentReservation, TaxiReservation.
 
 Use it like this: 
-- [has_/number_of_/party_members :: Integer, QuantitativeValue ]  
+- [has_/number_of_/party_members :: Integer, QuantitativeValue ] 
 - [ has_number_of_party_members :: Integer, QuantitativeValue ] 
 
 Number of people the reservation should accommodate.

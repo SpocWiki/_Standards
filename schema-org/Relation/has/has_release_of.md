@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/release_of :: MusicAlbum ]  
+- [has_/release_of :: MusicAlbum ] 
 - [ has_release_of :: MusicAlbum ] 
 
 The album this is a release of.

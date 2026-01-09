@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/contributor :: Organization, Person ]  
+- [has_/contributor :: Organization, Person ] 
 - [ has_contributor :: Organization, Person ] 
 
 A secondary contributor to the CreativeWork or Event.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/order_delivery :: ParcelDelivery ]  
+- [has_/order_delivery :: ParcelDelivery ] 
 - [ has_order_delivery :: ParcelDelivery ] 
 
 The delivery of the parcel related to this order or order item.

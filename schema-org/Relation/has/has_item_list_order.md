@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/item_list_order :: ItemListOrderType, Text ]  
+- [has_/item_list_order :: ItemListOrderType, Text ] 
 - [ has_item_list_order :: ItemListOrderType, Text ] 
 
 Type of ordering (e.g. Ascending, Descending, Unordered).

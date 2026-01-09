@@ -2,7 +2,7 @@
 # [[has_employer]] 
 
 Use it like this: 
-- [ #has_/employer :: [[../../../Society/Agent/Community/Organization]] ] 
+- [has_/employer :: [[../../../Society/Agent/Community/Organization]] ] 
 - [ has_employer :: [[../../Class/is_a_/Organization]] ] 
 
 Someone working for this organization.

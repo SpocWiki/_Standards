@@ -30,7 +30,7 @@ Predicate to describe the date of Product, Vehicle.
 
 Use it like this: 
 - [has_time_of_purchase::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/of_purchase::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/of_purchase::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date the item, e.g. vehicle, was purchased by the current owner.

@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_of_/memory_requirements :: Text, URL ] 
+- [has_/text_of_/memory_requirements :: Text, URL ] 
 - [ has_text_of_memory_requirements :: Text, URL ] 
 
 Minimum memory requirements.

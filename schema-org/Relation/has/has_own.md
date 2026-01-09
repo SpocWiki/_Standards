@@ -30,7 +30,7 @@ type: Predi_Relation
 Products owned by the organization or person.
 
 Use it like this: 
-- [has_/own :: OwnershipInfo, Product ]  
+- [has_/own :: OwnershipInfo, Product ] 
 - [ has_own :: OwnershipInfo, Product ] 
 
 Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from the Side of the [[Owner]]: 

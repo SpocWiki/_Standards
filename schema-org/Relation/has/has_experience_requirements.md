@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/experience_requirements :: OccupationalExperienceRequirements, Text ]  
+- [has_/experience_requirements :: OccupationalExperienceRequirements, Text ] 
 - [ has_experience_requirements :: OccupationalExperienceRequirements, Text ] 
 
 Description of skills and experience needed for the position or Occupation.

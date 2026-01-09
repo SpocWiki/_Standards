@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/first_performance :: Event ]  
+- [has_/first_performance :: Event ] 
 - [ has_first_performance :: Event ] 
 
 The date and place the work was first performed.

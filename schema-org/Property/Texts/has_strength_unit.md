@@ -33,7 +33,7 @@ Predicate to describe the Text of DrugStrength.
 The units of an active ingredient's strength, e.g. mg.
 
 Use it like this: 
-- [ #has_/text_of_/strength_unit :: Text ] 
+- [has_/text_of_/strength_unit :: Text ] 
 - [ has_text_of_strength_unit :: Text ] 
 
 Predicated describes that: 

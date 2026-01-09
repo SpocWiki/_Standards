@@ -30,7 +30,7 @@ type: Predi_Url
 Predicate to specify the Url of Drug.
 
 Use it like this: 
-- [has_/url_for_/label_details :: URL ]  
+- [has_/url_for_/label_details :: URL ] 
 - [ has_url_for_label_details :: URL ] 
 
 Link to the drug's label details.

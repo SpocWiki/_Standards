@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/beneficiary_bank :: BankOrCreditUnion, Text ]  
+- [has_/beneficiary_bank :: BankOrCreditUnion, Text ] 
 - [ has_beneficiary_bank :: BankOrCreditUnion, Text ] 
 
 A bank or bank�s branch, financial institution or international financial institution operating the beneficiary�s bank account or releasing funds for the beneficiary.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/vehicle_engine :: EngineSpecification ]  
+- [has_/vehicle_engine :: EngineSpecification ] 
 - [ has_vehicle_engine :: EngineSpecification ] 
 
 Information about the engine or engines of the vehicle.

@@ -14,7 +14,7 @@ Usually this is complemented by [[has_Pros]],
 to be able to weigh a Decision in a [[../../../../_protect/Society/Communication/Media/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
 
 Use it like this: 
-- [ #has_/Cons :: [[../../Collection]] ] 
+- [has_/Cons :: [[../../Collection]] ] 
 - [ has_Cons :: [[../../Collection]]] 
 
 Relation describes that: 

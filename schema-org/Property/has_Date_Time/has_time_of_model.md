@@ -32,7 +32,7 @@ Predicate to describe the date of Vehicle.
 
 Use it like this: 
 - [has_time_of_model::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/of_model::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/of_model::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The release date of a vehicle model (often used to differentiate versions of the same make and model).

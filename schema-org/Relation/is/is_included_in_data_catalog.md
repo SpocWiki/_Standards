@@ -34,7 +34,7 @@ type: Predi_Relation
 [ supersedes :: [[has_catalog]], [[is_included_in_data_catalog 1]] ]
 
 Use it like this: 
-- [is_/included_in_data_catalog :: DataCatalog ]  
+- [is_/included_in_data_catalog :: DataCatalog ] 
 - [ is_included_in_data_catalog :: DataCatalog ] 
 
 A data catalog which contains this dataset (this property was previously 'catalog', preferred name is now 'includedInDataCatalog').

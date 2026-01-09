@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/shipping_details :: OfferShippingDetails ]  
+- [has_/shipping_details :: OfferShippingDetails ] 
 - [ has_shipping_details :: OfferShippingDetails ] 
 
 Indicates information about the shipping policies and options associated with an [[../../../Society/Agent/Community/Organization/Business/Offer]].

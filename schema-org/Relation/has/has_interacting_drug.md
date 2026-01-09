@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/interacting_drug :: Drug ]  
+- [has_/interacting_drug :: Drug ] 
 - [ has_interacting_drug :: Drug ] 
 
 Another drug that is known to interact with this drug in a way that impacts the effect of this drug or causes a risk to the patient. Note: disease interactions are typically captured as contraindications.

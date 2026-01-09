@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/director :: Person ]  
+- [has_/director :: Person ] 
 - [ has_director :: Person ] 
 
 A director of e.g. Company,TV, radio, movie, video gaming etc. content, or of an event. 

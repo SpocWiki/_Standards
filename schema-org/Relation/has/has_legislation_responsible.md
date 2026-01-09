@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/legislation_responsible :: Organization, Person ]  
+- [has_/legislation_responsible :: Organization, Person ] 
 - [ has_legislation_responsible :: Organization, Person ] 
 
 An individual or organization that has some kind of responsibility for the legislation.

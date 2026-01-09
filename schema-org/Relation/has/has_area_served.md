@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/area_served :: AdministrativeArea, GeoShape, Place, Text ]  
+- [has_/area_served :: AdministrativeArea, GeoShape, Place, Text ] 
 - [ has_area_served :: AdministrativeArea, GeoShape, Place, Text ] 
 
 The geographic area where a service or offered item is provided.

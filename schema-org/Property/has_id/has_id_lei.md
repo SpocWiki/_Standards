@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Organization.
 
 Use it like this: 
-- [ #has_/id_/lei :: Text ] 
+- [has_/id_/lei :: Text ] 
 - [ has_id_lei :: Text ] 
 
 An organization identifier that uniquely identifies 

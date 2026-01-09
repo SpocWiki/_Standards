@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of ServiceChannel.
 
 Use it like this: 
-- [ #has_/location_/of_service :: Place ] 
+- [has_/location_/of_service :: Place ] 
 - [ has_location_of_service :: Place ] 
 
 The location (e.g. civic structure, local business, etc.) where a person can go to access the service.

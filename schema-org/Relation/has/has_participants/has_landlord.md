@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/landlord :: Organization, Person ]  
+- [has_/landlord :: Organization, Person ] 
 - [ has_landlord :: Organization, Person ] 
 
 A sub property of participant. The owner of the real estate property.

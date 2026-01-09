@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/duplicate_therapy :: MedicalTherapy ]  
+- [has_/duplicate_therapy :: MedicalTherapy ] 
 - [ has_duplicate_therapy :: MedicalTherapy ] 
 
 A therapy that duplicates or overlaps this one.

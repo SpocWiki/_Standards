@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/affected_by :: Drug ]  
+- [is_/affected_by :: Drug ] 
 - [ is_affected_by :: Drug ] 
 
 Drugs that affect the test's results.

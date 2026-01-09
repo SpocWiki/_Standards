@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/free_shipping_threshold :: DeliveryChargeSpecification, MonetaryAmount ]  
+- [has_/free_shipping_threshold :: DeliveryChargeSpecification, MonetaryAmount ] 
 - [ has_free_shipping_threshold :: DeliveryChargeSpecification, MonetaryAmount ] 
 
 A monetary value above (or at) which the shipping rate becomes free. Intended to be used via an [[OfferShippingDetails]] with [[shippingSettingsLink]] matching this [[ShippingRateSettings]].

@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/action_status :: ActionStatusType ]  
+- [has_/action_status :: ActionStatusType ] 
 - [ has_action_status :: ActionStatusType ] 
 
 Indicates the current disposition of the Action.

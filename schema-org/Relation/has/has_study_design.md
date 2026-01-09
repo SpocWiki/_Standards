@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/study_design :: MedicalObservationalStudyDesign ]  
+- [has_/study_design :: MedicalObservationalStudyDesign ] 
 - [ has_study_design :: MedicalObservationalStudyDesign ] 
 
 Specifics about the observational study design (enumerated).

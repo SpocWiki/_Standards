@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/maximum_intake :: MaximumDoseSchedule ]  
+- [has_/maximum_intake :: MaximumDoseSchedule ] 
 - [ has_maximum_intake :: MaximumDoseSchedule ] 
 
 Recommended intake of this supplement for a given population as defined by a specific recommending authority.

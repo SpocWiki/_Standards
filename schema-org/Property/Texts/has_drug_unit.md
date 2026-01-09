@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Drug, DrugCost.
 
 Use it like this: 
-- [ #has_/text_of_/drug_unit :: Text ] 
+- [has_/text_of_/drug_unit :: Text ] 
 - [ has_text_of_drug_unit :: Text ] 
 
 The unit in which the drug is measured, e.g. "5 mg tablet".

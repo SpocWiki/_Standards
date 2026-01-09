@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Invoice.
 
 Use it like this: 
-- [has_/value_for_/total_payment_due :: MonetaryAmount, PriceSpecification ]  
+- [has_/value_for_/total_payment_due :: MonetaryAmount, PriceSpecification ] 
 - [ has_value_for_total_payment_due :: MonetaryAmount, PriceSpecification ] 
 
 The total amount due.

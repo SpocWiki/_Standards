@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/normal_range :: MedicalEnumeration, Text ]  
+- [has_/normal_range :: MedicalEnumeration, Text ] 
 - [ has_normal_range :: MedicalEnumeration, Text ] 
 
 Range of acceptable values for a typical patient, when applicable.

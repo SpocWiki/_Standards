@@ -33,7 +33,7 @@ Predicate to describe the Text of MolecularEntity.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/smiles :: Text ] 
+- [has_/text_of_/smiles :: Text ] 
 - [ has_text_of_smiles :: Text ] 
 
 A specification in form of a line notation for describing the structure of chemical species using short ASCII strings. 

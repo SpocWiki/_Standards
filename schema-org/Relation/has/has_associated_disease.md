@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/associated_disease :: MedicalCondition, PropertyValue, URL ]  
+- [has_/associated_disease :: MedicalCondition, PropertyValue, URL ] 
 - [ has_associated_disease :: MedicalCondition, PropertyValue, URL ] 
 
 Disease associated to this BioChemEntity. Such disease can be a MedicalCondition or a URL. If you want to add an evidence supporting the association, please use PropertyValue.

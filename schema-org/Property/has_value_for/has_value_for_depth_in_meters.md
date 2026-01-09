@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of OfferShippingDetails, Product, VisualArtwork.
 
 Use it like this: 
-- [has_/value_for_/depth_in_meters :: Distance, QuantitativeValue ]  
+- [has_/value_for_/depth_in_meters :: Distance, QuantitativeValue ] 
 - [ has_value_for_depth_in_meters :: Distance, QuantitativeValue ] 
 
 The depth of the item.

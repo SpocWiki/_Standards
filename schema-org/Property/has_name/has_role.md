@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of Role.
 
 Use it like this: 
-- [ #has_/role :: Text, URL ] 
+- [has_/role :: Text, URL ] 
 - [ has_role :: Text, URL ] 
 
 A role played, performed or filled by a person or organization. 

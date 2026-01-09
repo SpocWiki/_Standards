@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/industry :: DefinedTerm, Text ]  
+- [has_/industry :: DefinedTerm, Text ] 
 - [ has_industry :: DefinedTerm, Text ] 
 
 The industry associated with the job position.

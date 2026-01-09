@@ -30,7 +30,7 @@ Predicate to describe the date of Message.
 
 Use it like this: 
 - [has_time_read::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/read::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/read::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date/time at which the message has been read by the recipient if a single recipient exists.

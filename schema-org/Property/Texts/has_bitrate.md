@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- [ #has_/text_of_/bitrate :: Text ] 
+- [has_/text_of_/bitrate :: Text ] 
 - [ has_text_of_bitrate :: Text ] 
 
 The bitrate of the media object.

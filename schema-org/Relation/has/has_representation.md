@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/representation :: PropertyValue, Text, URL ]  
+- [has_/representation :: PropertyValue, Text, URL ] 
 - [ has_representation :: PropertyValue, Text, URL ] 
 
 A common representation such as a protein sequence or chemical structure for this entity. For images use schema.org/image.

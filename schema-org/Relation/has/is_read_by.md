@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [has_/read_by :: Person ]  
+- [has_/read_by :: Person ] 
 - [ has_read_by :: Person ] 
 
 A person who reads (performs) the audiobook.

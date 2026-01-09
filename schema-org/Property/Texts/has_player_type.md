@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- [ #has_/text_of_/player_type :: Text ] 
+- [has_/text_of_/player_type :: Text ] 
 - [ has_text_of_player_type :: Text ] 
 
 Player type required&amp;#x2014;for example, Flash or Silverlight.

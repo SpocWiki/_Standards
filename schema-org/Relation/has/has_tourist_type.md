@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/tourist_type :: Audience, Text ]  
+- [has_/tourist_type :: Audience, Text ] 
 - [ has_tourist_type :: Audience, Text ] 
 
 Attraction suitable for type(s) of tourist. E.g. children, visitors from a particular country, etc.

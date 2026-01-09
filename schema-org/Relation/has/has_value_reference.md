@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/value_reference :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text ]  
+- [has_/value_reference :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text ] 
 - [ has_value_reference :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text ] 
 
 A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement.

@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/unnamed_sources_policy :: CreativeWork, URL ]  
+- [has_/unnamed_sources_policy :: CreativeWork, URL ] 
 - [ has_unnamed_sources_policy :: CreativeWork, URL ] 
 
 For an [[../../../Society/Agent/Community/Organization]] (typically a [[NewsMediaOrganization]]), a statement about policy on use of unnamed sources and the decision process required.

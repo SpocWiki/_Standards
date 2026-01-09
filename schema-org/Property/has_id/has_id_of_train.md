@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of TrainTrip.
 
 Use it like this: 
-- [ #has_/text_of_/train_number :: Text ] 
+- [has_/text_of_/train_number :: Text ] 
 - [ has_text_of_train_number :: Text ] 
 
 The unique identifier for the train.

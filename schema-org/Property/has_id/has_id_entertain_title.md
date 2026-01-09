@@ -33,7 +33,7 @@ Predicate to describe the Text of Movie, TVEpisode.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/id_/entertain_title :: Text, URL ] 
+- [has_/id_/entertain_title :: Text, URL ] 
 - [ has_id_entertain_title :: Text, URL ] 
 
 An [EIDR](https://eidr.org/) (Entertainment Identifier Registry) [[identifier]] representing at the most general/abstract level, a work of film or television.

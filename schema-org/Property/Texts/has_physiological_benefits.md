@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- [ #has_/text_of_/physiological_benefits :: Text ] 
+- [has_/text_of_/physiological_benefits :: Text ] 
 - [ has_text_of_physiological_benefits :: Text ] 
 
 Specific physiologic benefits associated to the plan.

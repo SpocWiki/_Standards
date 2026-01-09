@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/adverse_outcome :: MedicalEntity ]  
+- [has_/adverse_outcome :: MedicalEntity ] 
 - [ has_adverse_outcome :: MedicalEntity ] 
 
 A possible complication and/or side effect of this therapy.

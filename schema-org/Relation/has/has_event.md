@@ -28,7 +28,7 @@ type: Predi_Relation
 # [[has_event]] 
 
 Use it like this: 
-- [has_/event :: Event ]  
+- [has_/event :: Event ] 
 - [ has_event :: Event ] 
 
 Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../../Earth/Geography/Place|Place]], [[../../../Society/Agent/Community/Organization|Organization]], or [[../../Class/is_a_/action|Action]].

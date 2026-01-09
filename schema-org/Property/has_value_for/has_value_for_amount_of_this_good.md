@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of TypeAndQuantityNode.
 
 Use it like this: 
-- [has_/value_for_/amount_of_this_good :: Number ]  
+- [has_/value_for_/amount_of_this_good :: Number ] 
 - [ has_value_for_amount_of_this_good :: Number ] 
 
 The quantity of the goods included in the offer.

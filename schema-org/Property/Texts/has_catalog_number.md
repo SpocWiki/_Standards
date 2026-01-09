@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of MusicRelease.
 
 Use it like this: 
-- [ #has_/text_of_/catalog_number :: Text ] 
+- [has_/text_of_/catalog_number :: Text ] 
 - [ has_text_of_catalog_number :: Text ] 
 
 The catalog number for the release.

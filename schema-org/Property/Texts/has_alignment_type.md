@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of AlignmentObject.
 
 Use it like this: 
-- [ #has_/text_of_/alignment_type :: Text ] 
+- [has_/text_of_/alignment_type :: Text ] 
 - [ has_text_of_alignment_type :: Text ] 
 
 A category of alignment between the learning resource and the framework node. Recommended values include: "requires", "textComplexity", "readingLevel", and "educationalSubject".

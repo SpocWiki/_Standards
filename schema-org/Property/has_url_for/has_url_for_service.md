@@ -31,7 +31,7 @@ type: Predi_Url
 Predicate to specify the Url of ServiceChannel.
 
 Use it like this: 
-- [has_/url_for_/service :: URL ]  
+- [has_/url_for_/service :: URL ] 
 - [ has_url_for_service :: URL ] 
 
 The website to access the service.

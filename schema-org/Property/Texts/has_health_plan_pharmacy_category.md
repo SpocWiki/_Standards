@@ -36,7 +36,7 @@ Predicate to describe the Text of HealthPlanCostSharingSpecification.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/health_plan_pharmacy_category :: Text ] 
+- [has_/text_of_/health_plan_pharmacy_category :: Text ] 
 - [ has_text_of_health_plan_pharmacy_category :: Text ] 
 
 The category or type of pharmacy associated with this cost sharing.

@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/music_release_format :: MusicReleaseFormatType ]  
+- [has_/music_release_format :: MusicReleaseFormatType ] 
 - [ has_music_release_format :: MusicReleaseFormatType ] 
 
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).

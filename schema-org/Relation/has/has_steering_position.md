@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/steering_position :: SteeringPositionValue ]  
+- [has_/steering_position :: SteeringPositionValue ] 
 - [ has_steering_position :: SteeringPositionValue ] 
 
 The position of the steering wheel or similar device (mostly for cars).

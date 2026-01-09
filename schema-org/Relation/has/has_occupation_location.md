@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/occupation_location :: AdministrativeArea ]  
+- [has_/occupation_location :: AdministrativeArea ] 
 - [ has_occupation_location :: AdministrativeArea ] 
 
 The region/country for which this occupational description is appropriate. Note that educational requirements and qualifications can vary between jurisdictions.

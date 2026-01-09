@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/course_prerequisites :: AlignmentObject, Course, Text ]  
+- [has_/course_prerequisites :: AlignmentObject, Course, Text ] 
 - [ has_course_prerequisites :: AlignmentObject, Course, Text ] 
 
 Requirements for taking the Course. May be completion of another [[../../../Society/Communication/Media/Creative_Work/Course]] or a textual description like "permission of instructor". Requirements may be a pre-requisite competency, referenced using [[AlignmentObject]].

@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/legislation_consolidated_from :: Legislation ]  
+- [is_/legislation_consolidated_from :: Legislation ] 
 - [ is_legislation_consolidated_from :: Legislation ] 
 
 Indicates another legislation taken into account in this consolidated legislation

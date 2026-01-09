@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- [ #has_/text_of_/cooking_method :: Text ] 
+- [has_/text_of_/cooking_method :: Text ] 
 - [ has_text_of_cooking_method :: Text ] 
 
 The method of cooking, such as Frying, Steaming, ...

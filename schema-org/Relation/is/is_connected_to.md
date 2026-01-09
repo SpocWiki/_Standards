@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/connected_to :: AnatomicalStructure ]  
+- [is_/connected_to :: AnatomicalStructure ] 
 - [ is_connected_to :: AnatomicalStructure ] 
 
 Other anatomical structures to which this structure is connected.

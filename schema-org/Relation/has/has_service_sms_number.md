@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/service_sms_number :: ContactPoint ]  
+- [has_/service_sms_number :: ContactPoint ] 
 - [ has_service_sms_number :: ContactPoint ] 
 
 The number to access the service by text message.

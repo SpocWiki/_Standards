@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/destroyer :: Organization, Person ]  
+- [has_/destroyer :: Organization, Person ] 
 - [ has_destroyer :: Organization, Person ] 
 
 The destroyer/author of this CreativeWork. This is the same as the Author property for CreativeWork.

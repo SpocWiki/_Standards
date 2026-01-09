@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/program_membership_used :: ProgramMembership ]  
+- [has_/program_membership_used :: ProgramMembership ] 
 - [ has_program_membership_used :: ProgramMembership ] 
 
 Any membership in a frequent flyer, hotel loyalty program, etc. being applied to the reservation.

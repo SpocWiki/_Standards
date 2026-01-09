@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/return_policy_category :: MerchantReturnEnumeration ]  
+- [has_/return_policy_category :: MerchantReturnEnumeration ] 
 - [ has_return_policy_category :: MerchantReturnEnumeration ] 
 
 Specifies an applicable return policy (from an enumeration).

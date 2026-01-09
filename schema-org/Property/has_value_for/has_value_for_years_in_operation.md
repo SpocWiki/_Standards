@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of BusinessAudience.
 
 Use it like this: 
-- [has_/value_for_/years_in_operation :: QuantitativeValue ]  
+- [has_/value_for_/years_in_operation :: QuantitativeValue ] 
 - [ has_value_for_years_in_operation :: QuantitativeValue ] 
 
 The age of the business.

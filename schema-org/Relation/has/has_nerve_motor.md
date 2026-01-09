@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/nerve_motor :: Muscle ]  
+- [has_/nerve_motor :: Muscle ] 
 - [ has_nerve_motor :: Muscle ] 
 
 The neurological pathway extension that involves muscle control.

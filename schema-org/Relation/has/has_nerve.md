@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/nerve :: Nerve ]  
+- [has_/nerve :: Nerve ] 
 - [ has_nerve :: Nerve ] 
 
 The underlying innervation associated with the muscle.

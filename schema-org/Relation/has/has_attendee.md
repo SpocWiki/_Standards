@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/attendee :: Organization, Person ]  
+- [has_/attendee :: Organization, Person ] 
 - [ has_attendee :: Organization, Person ] 
 
 A person or organization attending the event.

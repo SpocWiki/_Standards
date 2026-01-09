@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of ExerciseAction, TravelAction.
 
 Use it like this: 
-- [has_/value_for_/distance_in_meters :: Distance ]  
+- [has_/value_for_/distance_in_meters :: Distance ] 
 - [ has_value_for_distance_in_meters :: Distance ] 
 
 The distance travelled, e.g. exercising or travelling.

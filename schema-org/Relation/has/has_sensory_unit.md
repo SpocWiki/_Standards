@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/sensory_unit :: AnatomicalStructure, SuperficialAnatomy ]  
+- [has_/sensory_unit :: AnatomicalStructure, SuperficialAnatomy ] 
 - [ has_sensory_unit :: AnatomicalStructure, SuperficialAnatomy ] 
 
 The neurological pathway extension that inputs and sends information to the brain or spinal cord.

@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/refund_type :: RefundTypeEnumeration ]  
+- [has_/refund_type :: RefundTypeEnumeration ] 
 - [ has_refund_type :: RefundTypeEnumeration ] 
 
 A refund type, from an enumerated list.

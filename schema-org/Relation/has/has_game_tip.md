@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/game_tip :: CreativeWork ]  
+- [has_/game_tip :: CreativeWork ] 
 - [ has_game_tip :: CreativeWork ] 
 
 Links to tips, tactics, etc.

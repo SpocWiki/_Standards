@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/module_of :: Composite] 
+- [is_/module_of :: Composite] 
 - [ is_module_of :: Composite] 
 
 Relates a module to its super-set. 

@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalConditionStage.
 
 Use it like this: 
-- [ #has_/text_of_/sub_stage_suffix :: Text ] 
+- [has_/text_of_/sub_stage_suffix :: Text ] 
 - [ has_text_of_sub_stage_suffix :: Text ] 
 
 The substage, e.g. "a" for Stage IIIa.

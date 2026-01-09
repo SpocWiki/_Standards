@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/preparation :: MedicalEntity, Text ]  
+- [has_/preparation :: MedicalEntity, Text ] 
 - [ has_preparation :: MedicalEntity, Text ] 
 
 Typical preparation that a patient must undergo before having the procedure performed.

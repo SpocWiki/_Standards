@@ -30,7 +30,7 @@ Predicate to describe the date of ActionAccessSpecification, Demand, Offer.
 
 Use it like this: 
 - [has_time_when_availability_ends::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/when_availability_ends::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/when_availability_ends::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The end of the availability of the product or service included in the offer.

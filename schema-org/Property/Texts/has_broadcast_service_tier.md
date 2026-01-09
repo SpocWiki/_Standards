@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of BroadcastChannel.
 
 Use it like this: 
-- [ #has_/text_of_/broadcast_service_tier :: Text ] 
+- [has_/text_of_/broadcast_service_tier :: Text ] 
 - [ has_text_of_broadcast_service_tier :: Text ] 
 
 The type of service required to have access to the channel (e.g. Standard or Premium).

@@ -32,7 +32,7 @@ Predicate to describe the Number of CDCPMDRecord.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/number_of_/Covid_tot_beds :: Number ]  
+- [has_/number_of_/Covid_tot_beds :: Number ] 
 - [ has_number_of_Covid_tot_beds :: Number ] 
 
 numtotbeds - ALL HOSPITAL BEDS: Total number of all inpatient and outpatient beds, including all staffed, ICU, licensed, and overflow (surge) beds used for inpatients or outpatients.

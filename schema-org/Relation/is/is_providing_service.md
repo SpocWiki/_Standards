@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/providing_service :: Service]  
+- [is_/providing_service :: Service] 
 - [ is_providing_service :: Service] 
 
 The service provided by this channel.

@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of ExercisePlan.
 
 Use it like this: 
-- [has_/value_for_/activity_frequency :: QuantitativeValue, Text ]  
+- [has_/value_for_/activity_frequency :: QuantitativeValue, Text ] 
 - [ has_value_for_activity_frequency :: QuantitativeValue, Text ] 
 
 How often one should engage in the activity.

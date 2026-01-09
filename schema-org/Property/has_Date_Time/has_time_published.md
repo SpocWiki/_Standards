@@ -33,7 +33,7 @@ Predicate to describe the date of CreativeWork.
 
 Use it like this: 
 - [has_time_published::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/published::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/published::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Date of first broadcast/publication.

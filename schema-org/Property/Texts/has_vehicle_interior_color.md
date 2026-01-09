@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- [ #has_/text_of_/vehicle_interior_color :: Text ] 
+- [has_/text_of_/vehicle_interior_color :: Text ] 
 - [ has_text_of_vehicle_interior_color :: Text ] 
 
 The color or color combination of the interior of the vehicle.

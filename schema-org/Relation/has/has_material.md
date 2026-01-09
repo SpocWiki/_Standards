@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/material :: Product, Text, URL ]  
+- [has_/material :: Product, Text, URL ] 
 - [ has_material :: Product, Text, URL ] 
 
 A material that something is made from, e.g. leather, wool, cotton, paper.

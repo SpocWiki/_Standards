@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Flight.
 
 Use it like this: 
-- [ #has_/text_of_/departure_terminal :: Text ] 
+- [has_/text_of_/departure_terminal :: Text ] 
 - [ has_text_of_departure_terminal :: Text ] 
 
 Identifier of the flight"s departure terminal.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/primary_prevention :: MedicalTherapy ]  
+- [has_/primary_prevention :: MedicalTherapy ] 
 - [ has_primary_prevention :: MedicalTherapy ] 
 
 A preventative therapy used to prevent an initial occurrence of the medical condition, such as vaccination.

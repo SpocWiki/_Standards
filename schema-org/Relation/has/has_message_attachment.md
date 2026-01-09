@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/message_attachment :: CreativeWork ]  
+- [has_/message_attachment :: CreativeWork ] 
 - [ has_message_attachment :: CreativeWork ] 
 
 A CreativeWork attached to the message.

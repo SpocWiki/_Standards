@@ -30,7 +30,7 @@ Predicate to describe the date of MediaObject.
 
 Use it like this: 
 - [has_time_of_upload::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/of_upload::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/of_upload::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Date when this media object was uploaded to this site.

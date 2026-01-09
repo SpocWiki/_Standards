@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/stage :: MedicalConditionStage ]  
+- [has_/stage :: MedicalConditionStage ] 
 - [ has_stage :: MedicalConditionStage ] 
 
 The stage of the condition, if applicable.

@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/knowing_language :: Language, Text ]  
+- [is_/knowing_language :: Language, Text ] 
 - [ is_knowing_language :: Language, Text ] 
 
 Of a [[../../../Society/Agent/Person]], and less typically of an [[../../../Society/Agent/Community/Organization]], to indicate a known language. We do not distinguish skill levels or reading/writing/speaking/signing here. Use language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47).

@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of PriceSpecification.
 
 Use it like this: 
-- [has_/value_for_/min_price :: Number ]  
+- [has_/value_for_/min_price :: Number ] 
 - [ has_value_for_min_price :: Number ] 
 
 The lowest price if the price is a range.

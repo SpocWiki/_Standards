@@ -31,7 +31,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/supply_for :: AnatomicalStructure ]  
+- [has_/supply_for :: AnatomicalStructure ] 
 - [ has_supply_for :: AnatomicalStructure ] 
 
 The area to which the artery supplies blood.

@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/sub_trip :: Trip ]  
+- [has_/sub_trip :: Trip ] 
 - [ has_sub_trip :: Trip ] 
 
 Identifies a [[Trip]] that is a subTrip of this Trip.  For example Day 1, Day 2, etc. of a multi-day trip.

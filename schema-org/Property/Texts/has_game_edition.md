@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of VideoGame.
 
 Use it like this: 
-- [ #has_/text_of_/game_edition :: Text ] 
+- [has_/text_of_/game_edition :: Text ] 
 - [ has_text_of_game_edition :: Text ] 
 
 The edition of a video game.

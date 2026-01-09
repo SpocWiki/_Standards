@@ -34,7 +34,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- [has_/value_for_/fiber_in_gram :: Mass ]  
+- [has_/value_for_/fiber_in_gram :: Mass ] 
 - [ has_value_for_fiber_in_gram :: Mass ] 
 
 The number of grams of fiber.

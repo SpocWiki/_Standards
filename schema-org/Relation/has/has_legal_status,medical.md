@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/legal_status :: DrugLegalStatus, MedicalEnumeration, Text ]  
+- [has_/legal_status :: DrugLegalStatus, MedicalEnumeration, Text ] 
 - [ has_legal_status :: DrugLegalStatus, MedicalEnumeration, Text ] 
 
 The drug or supplement's legal status, including any controlled substance schedules that apply.

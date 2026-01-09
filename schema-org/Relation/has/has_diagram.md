@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/diagram :: ImageObject ]  
+- [has_/diagram :: ImageObject ] 
 - [ has_diagram :: ImageObject ] 
 
 An image containing a diagram that illustrates the structure and/or its component substructures and/or connections with other structures.

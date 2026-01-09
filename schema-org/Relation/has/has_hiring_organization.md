@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/hiring_organization :: Organization, Person ]  
+- [has_/hiring_organization :: Organization, Person ] 
 - [ has_hiring_organization :: Organization, Person ] 
 
 Organization or Person offering the job position.

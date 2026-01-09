@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/item_offered :: AggregateOffer, CreativeWork, Event, MenuItem, Product, Service, Trip ]  
+- [has_/item_offered :: AggregateOffer, CreativeWork, Event, MenuItem, Product, Service, Trip ] 
 - [ has_item_offered :: AggregateOffer, CreativeWork, Event, MenuItem, Product, Service, Trip ] 
 
 An item being offered (or demanded). The transactional nature of the offer or demand is documented using [[businessFunction]], e.g. sell, lease etc. While several common expected types are listed explicitly in this definition, others can be used. Using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.

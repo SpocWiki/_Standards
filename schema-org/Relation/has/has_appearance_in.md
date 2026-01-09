@@ -30,7 +30,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/appearance :: CreativeWork ]  
+- [has_/appearance :: CreativeWork ] 
 - [ has_appearance_in :: CreativeWork ] 
 
 Indicates an occurrence of a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim]] in some [[CreativeWork]].

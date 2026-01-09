@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/medical_audience :: MedicalAudience, MedicalAudienceType ]  
+- [has_/medical_audience :: MedicalAudience, MedicalAudienceType ] 
 - [ has_medical_audience :: MedicalAudience, MedicalAudienceType ] 
 
 Medical audience for page.

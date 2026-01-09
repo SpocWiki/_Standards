@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [is_/meeting_emission_standard :: QualitativeValue, Text, URL ]  
+- [is_/meeting_emission_standard :: QualitativeValue, Text, URL ] 
 - [ is_meeting_emission_standard :: QualitativeValue, Text, URL ] 
 
 Indicates that the vehicle meets the respective emission standard.

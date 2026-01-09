@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/reservation_status :: ReservationStatusType ]  
+- [has_/reservation_status :: ReservationStatusType ] 
 - [ has_reservation_status :: ReservationStatusType ] 
 
 The current status of the reservation.

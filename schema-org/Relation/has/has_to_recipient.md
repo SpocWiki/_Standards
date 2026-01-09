@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/to_recipient :: Audience, ContactPoint, Organization, Person ]  
+- [has_/to_recipient :: Audience, ContactPoint, Organization, Person ] 
 - [ has_to_recipient :: Audience, ContactPoint, Organization, Person ] 
 
 A sub property of recipient. The recipient who was directly sent the message.

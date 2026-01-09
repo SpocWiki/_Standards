@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/insertion :: AnatomicalStructure ]  
+- [has_/insertion :: AnatomicalStructure ] 
 - [ has_insertion :: AnatomicalStructure ] 
 
 The place of attachment of a muscle, or what the muscle moves.

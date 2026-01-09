@@ -30,7 +30,7 @@ Predicate to describe the date of Ticket.
 
 Use it like this: 
 - [has_time_issued::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/issued::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/issued::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date the ticket was issued.

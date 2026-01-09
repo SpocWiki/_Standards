@@ -30,7 +30,7 @@ Predicate to describe the time of Event.
 
 Use it like this: 
 - [has_time_of_door::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/of_door::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/of_door::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The time, admission will commence.

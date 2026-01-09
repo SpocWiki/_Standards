@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/event_schedule :: Schedule ]  
+- [has_/event_schedule :: Schedule ] 
 - [ has_event_schedule :: Schedule ] 
 
 Associates an [[Event]] with a [[Schedule]]. 

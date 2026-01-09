@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/mission_coverage_priorities_policy :: CreativeWork, URL ]  
+- [has_/mission_coverage_priorities_policy :: CreativeWork, URL ] 
 - [ has_mission_coverage_priorities_policy :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]], a statement on coverage priorities, including any public agenda or stance on issues.

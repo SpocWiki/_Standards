@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of VideoGame, VideoGameSeries.
 
 Use it like this: 
-- [has_/text_of_/game_platform :: Text, Thing, URL ]  
+- [has_/text_of_/game_platform :: Text, Thing, URL ] 
 - [ has_text_of_game_platform :: Text, Thing, URL ] 
 
 The electronic systems used to play [video games](http://en.wikipedia.org/wiki/Category:Video_game_platforms).

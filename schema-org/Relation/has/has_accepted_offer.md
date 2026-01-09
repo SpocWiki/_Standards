@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/accepted_offer :: [[../../../Society/Agent/Community/Organization/Business/Offer]] ] 
+- [has_/accepted_offer :: [[../../../Society/Agent/Community/Organization/Business/Offer]] ] 
 - [ has_accepted_offer :: [[../../../Society/Agent/Community/Organization/Business/Offer]] ] 
 
 The offer(s) -- e.g., product, quantity and price combinations -- included in the order.

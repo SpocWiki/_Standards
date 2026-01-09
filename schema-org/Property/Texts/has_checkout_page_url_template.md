@@ -36,7 +36,7 @@ Predicate to describe the Text of Offer.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/checkout_page_url_template :: Text ] 
+- [has_/text_of_/checkout_page_url_template :: Text ] 
 - [ has_text_of_checkout_page_url_template :: Text ] 
 
 A URL template (RFC 6570) for a checkout page for an offer. This approach allows merchants to specify a URL for online checkout of the offered product, by interpolating parameters such as the logged in user ID, product ID, quantity, discount code etc. Parameter naming and standardization are not specified here.

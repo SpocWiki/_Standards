@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of ProgramMembership.
 
 Use it like this: 
-- [ #has_/id_/membership :: Text ] 
+- [has_/id_/membership :: Text ] 
 - [ has_id_membership :: Text ] 
 
 A unique identifier for the membership.

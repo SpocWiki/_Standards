@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/number_of_/file_bytes :: Text ] 
+- [has_/number_of_/file_bytes :: Text ] 
 - [ has_number_of_file_bytes :: Text ] 
 
 Size of the application / package (e.g. 18MB). In the absence of a unit (MB, KB etc.), KB will be assumed.

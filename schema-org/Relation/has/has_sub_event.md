@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/sub_event :: Event ]  
+- [has_/sub_event :: Event ] 
 - [ has_sub_event :: Event ] 
 
 An Event that is part of this event. For example, a conference event includes many presentations, each of which is a subEvent of the conference.

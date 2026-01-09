@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/carrier :: Organization ]  
+- [has_/carrier :: Organization ] 
 - [ has_carrier :: Organization ] 
 
 'carrier' is an out-dated term indicating the 'provider' for parcel delivery and flights.

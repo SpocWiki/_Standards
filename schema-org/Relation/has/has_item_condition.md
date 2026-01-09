@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/item_condition :: OfferItemCondition ]  
+- [has_/item_condition :: OfferItemCondition ] 
 - [ has_item_condition :: OfferItemCondition ] 
 
 A predefined value from OfferItemCondition specifying the condition of the product or service, or the products or services included in the offer. Also used for product return policies to specify the condition of products accepted for returns.

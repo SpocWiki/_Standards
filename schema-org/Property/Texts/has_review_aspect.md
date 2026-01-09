@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Guide, Rating, Review.
 
 Use it like this: 
-- [ #has_/text_of_/review_aspect :: Text ] 
+- [has_/text_of_/review_aspect :: Text ] 
 - [ has_text_of_review_aspect :: Text ] 
 
 This Review or Rating is relevant to this part or facet of the itemReviewed.

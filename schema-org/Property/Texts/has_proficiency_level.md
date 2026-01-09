@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of TechArticle.
 
 Use it like this: 
-- [ #has_/text_of_/proficiency_level :: Text ] 
+- [has_/text_of_/proficiency_level :: Text ] 
 - [ has_text_of_proficiency_level :: Text ] 
 
 Proficiency needed for this content; expected values: "Beginner", "Expert".

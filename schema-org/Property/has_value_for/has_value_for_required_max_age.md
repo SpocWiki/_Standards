@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of PeopleAudience.
 
 Use it like this: 
-- [has_/value_for_/required_max_age :: Integer ]  
+- [has_/value_for_/required_max_age :: Integer ] 
 - [ has_value_for_required_max_age :: Integer ] 
 
 Audiences defined by a person's maximum age.

@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/in_language :: Language, Text]  
+- [is_/in_language :: Language, Text] 
 - [ is_in_language :: Language, Text] 
 
 The language of the content or performance or used in an action. 

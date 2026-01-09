@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification.
 
 Use it like this: 
-- [ #has_/text_of_/unit_text :: Text ] 
+- [has_/text_of_/unit_text :: Text ] 
 - [ has_text_of_unit_text :: Text ] 
 
 A string or text indicating the unit of measurement. Useful if you can not provide a standard unit code for

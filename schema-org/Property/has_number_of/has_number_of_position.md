@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of CreativeWork, ListItem.
 
 Use it like this: 
-- [has_/number_of_/position :: Integer, Text ]  
+- [has_/number_of_/position :: Integer, Text ] 
 - [ has_number_of_position :: Integer, Text ] 
 
 The position of an item in a series or sequence of items.

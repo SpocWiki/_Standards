@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_/same_as :: wd:is_the_study_of
 
 Use it like this: 
-- [has_/study_subject :: MedicalEntity ]  
+- [has_/study_subject :: MedicalEntity ] 
 - [ has_study_subject :: MedicalEntity ] 
 
 A subject of the study, i.e. one of the medical conditions, therapies, devices, drugs, etc. investigated by the study.

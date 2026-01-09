@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/performer :: Organization, Person ]  
+- [has_/performer :: Organization, Person ] 
 - [ has_performer :: Organization, Person ] 
 
 A performer at the event&amp;#x2014;for example, a presenter, musician, musical group or actor.

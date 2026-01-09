@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/issued_through :: Service ]  
+- [is_/issued_through :: Service ] 
 - [ is_issued_through :: Service ] 
 
 The service through which the permit was granted.

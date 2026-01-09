@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/drive_wheel_configuration :: DriveWheelConfigurationValue, Text ]  
+- [has_/drive_wheel_configuration :: DriveWheelConfigurationValue, Text ] 
 - [ has_drive_wheel_configuration :: DriveWheelConfigurationValue, Text ] 
 
 The drive wheel configuration, i.e. which roadwheels will receive torque from the vehicle's engine via the drivetrain.

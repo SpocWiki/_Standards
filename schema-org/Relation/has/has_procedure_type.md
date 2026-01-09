@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/procedure_type :: MedicalProcedureType ]  
+- [has_/procedure_type :: MedicalProcedureType ] 
 - [ has_procedure_type :: MedicalProcedureType ] 
 
 The type of procedure, for example Surgical, Noninvasive, or Percutaneous.

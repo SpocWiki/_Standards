@@ -30,7 +30,7 @@ Predicate to describe the date of DeliveryEvent.
 
 Use it like this: 
 - [has_time_available_from::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/available_from::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/available_from::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 When the item is available for pickup from the store, locker, etc.

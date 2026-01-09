@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/geographic_area :: AdministrativeArea ]  
+- [has_/geographic_area :: AdministrativeArea ] 
 - [ has_geographic_area :: AdministrativeArea ] 
 
 The geographic area associated with the audience.

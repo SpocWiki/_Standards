@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of ParcelDelivery.
 
 Use it like this: 
-- [has_/location_/address_delivery :: PostalAddress ]  
+- [has_/location_/address_delivery :: PostalAddress ] 
 - [ has_location_address_delivery :: PostalAddress ] 
 
 Destination address.

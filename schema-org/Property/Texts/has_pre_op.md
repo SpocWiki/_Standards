@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalDevice.
 
 Use it like this: 
-- [ #has_/text_of_/pre_op :: Text ] 
+- [has_/text_of_/pre_op :: Text ] 
 - [ has_text_of_pre_op :: Text ] 
 
 A description of the workup, testing, and other preparations required before implanting this device.

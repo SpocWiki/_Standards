@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/discussing :: CreativeWork ]  
+- [is_/discussing :: CreativeWork ] 
 - [ is_discussing :: CreativeWork ] 
 
 Specifies the CreativeWork associated with the UserComment.

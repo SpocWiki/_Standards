@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Order.
 
 Use it like this: 
-- [has_/value_for_/discount :: Number, Text ]  
+- [has_/value_for_/discount :: Number, Text ] 
 - [ has_value_for_discount :: Number, Text ] 
 
 Any discount applied (to an Order).

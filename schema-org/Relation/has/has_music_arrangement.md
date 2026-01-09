@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/music_arrangement :: MusicComposition ]  
+- [has_/music_arrangement :: MusicComposition ] 
 - [ has_music_arrangement :: MusicComposition ] 
 
 An arrangement derived from the composition.

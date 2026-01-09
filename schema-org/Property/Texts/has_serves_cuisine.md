@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of FoodEstablishment.
 
 Use it like this: 
-- [ #has_/text_of_/serves_cuisine :: Text ] 
+- [has_/text_of_/serves_cuisine :: Text ] 
 - [ has_text_of_serves_cuisine :: Text ] 
 
 The cuisine of the restaurant.

@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Report.
 
 Use it like this: 
-- [ #has_/text_of_/report_number :: Text ] 
+- [has_/text_of_/report_number :: Text ] 
 - [ has_text_of_report_number :: Text ] 
 
 The number or other unique designator assigned to a Report by the publishing organization.

@@ -32,7 +32,7 @@ Predicate to describe the Quantity of ExchangeRateSpecification.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/value_for_/exchange_rate_spread :: MonetaryAmount, Number ]  
+- [has_/value_for_/exchange_rate_spread :: MonetaryAmount, Number ] 
 - [ has_value_for_exchange_rate_spread :: MonetaryAmount, Number ] 
 
 The difference between the price at which a broker or other intermediary buys and sells foreign currency.

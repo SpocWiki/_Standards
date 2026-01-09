@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Order.
 
 Use it like this: 
-- [ #has_/text_of_/order_number :: Text ] 
+- [has_/text_of_/order_number :: Text ] 
 - [ has_text_of_order_number :: Text ] 
 
 The identifier of the transaction.

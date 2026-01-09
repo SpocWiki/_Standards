@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/competitor :: Person, SportsTeam ]  
+- [has_/competitor :: Person, SportsTeam ] 
 - [ has_competitor :: Person, SportsTeam ] 
 
 A competitor in a sports event.

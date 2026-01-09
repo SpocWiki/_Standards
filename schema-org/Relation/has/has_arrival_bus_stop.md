@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/arrival_bus_stop :: BusStation, BusStop ]  
+- [has_/arrival_bus_stop :: BusStation, BusStop ] 
 - [ has_arrival_bus_stop :: BusStation, BusStop ] 
 
 The stop or station from which the bus arrives.

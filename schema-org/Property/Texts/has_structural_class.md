@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Joint.
 
 Use it like this: 
-- [ #has_/text_of_/structural_class :: Text ] 
+- [has_/text_of_/structural_class :: Text ] 
 - [ has_text_of_structural_class :: Text ] 
 
 The name given to how bone physically connects to each other.

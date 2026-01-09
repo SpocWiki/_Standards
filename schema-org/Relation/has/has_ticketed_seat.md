@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/ticketed_seat :: Seat ]  
+- [has_/ticketed_seat :: Seat ] 
 - [ has_ticketed_seat :: Seat ] 
 
 The seat associated with the ticket.

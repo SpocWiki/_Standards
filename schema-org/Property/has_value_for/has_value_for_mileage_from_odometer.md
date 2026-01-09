@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- [has_/value_for_/mileage_from_odometer :: QuantitativeValue ]  
+- [has_/value_for_/mileage_from_odometer :: QuantitativeValue ] 
 - [ has_value_for_mileage_from_odometer :: QuantitativeValue ] 
 
 The total distance travelled by the particular vehicle since its initial production, as read from its odometer.

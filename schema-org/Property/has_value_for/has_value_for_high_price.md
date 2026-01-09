@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of an [[../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|AggregateOffer]].
 
 Use it like this: 
-- [has_/value_for_/high_price :: Number, Text ]  
+- [has_/value_for_/high_price :: Number, Text ] 
 - [ has_value_for_high_price :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ] 
 
 The highest price of all offers available.

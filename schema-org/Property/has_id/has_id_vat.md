@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- [ #has_/id_/vat :: Text ] 
+- [has_/id_/vat :: Text ] 
 - [ has_id_vat :: Text ] 
 
 The Value-added Tax ID of the organization or person.

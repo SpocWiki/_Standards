@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Ticket.
 
 Use it like this: 
-- [ #has_/id_/ticket :: Text ] 
+- [has_/id_/ticket :: Text ] 
 - [ has_id_ticket :: Text ] 
 
 The unique identifier for the ticket.

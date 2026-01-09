@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Course.
 
 Use it like this: 
-- [ #has_/code_/of_course :: Text ] 
+- [has_/code_/of_course :: Text ] 
 - [ has_code_of_course :: Text ] 
 
 The identifier for the [[../../../Society/Communication/Media/Creative_Work/Course]] used by the course [[provider]] (e.g. CS101 or 6.001).

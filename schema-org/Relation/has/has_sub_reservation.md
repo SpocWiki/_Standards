@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/sub_reservation :: Reservation ]  
+- [has_/sub_reservation :: Reservation ] 
 - [ has_sub_reservation :: Reservation ] 
 
 The individual reservations included in the package. Typically a repeated property.

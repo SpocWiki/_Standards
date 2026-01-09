@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/delivery_time :: ShippingDeliveryTime ]  
+- [has_/delivery_time :: ShippingDeliveryTime ] 
 - [ has_delivery_time :: ShippingDeliveryTime ] 
 
 The total delay between the receipt of the order and the goods reaching the final customer.

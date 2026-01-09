@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of Question.
 
 Use it like this: 
-- [has_/number_of_/answers :: Integer ]  
+- [has_/number_of_/answers :: Integer ] 
 - [ has_number_of_answers :: Integer ] 
 
 The number of answers this question has received.

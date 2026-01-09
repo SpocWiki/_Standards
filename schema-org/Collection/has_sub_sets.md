@@ -30,7 +30,7 @@ type: Predi_Relation
 Indicates a ([[../Collection/item_list|item_list]] of) [[../Collection]]s is a subset of this [[../Collection]].
 
 Use it like this: 
-- [ #has_/sub_sets :: [[../Collection]] ] 
+- [has_/sub_sets :: [[../Collection]] ] 
 - [ has_sub_sets :: [[../Collection]] ] 
 
 Relation describes that: 

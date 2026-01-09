@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/dataset :: Dataset ]  
+- [has_/dataset :: Dataset ] 
 - [ has_dataset :: Dataset ] 
 
 A dataset contained in this catalog.

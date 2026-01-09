@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/arrival_airport :: Airport ]  
+- [has_/arrival_airport :: Airport ] 
 - [ has_arrival_airport :: Airport ] 
 
 The airport where the flight terminates.

@@ -31,7 +31,7 @@ type: Predi_Url
 Predicate to specify the Url of Order.
 
 Use it like this: 
-- [has_/url_for_/payment :: URL ]  
+- [has_/url_for_/payment :: URL ] 
 - [ has_url_for_payment :: URL ] 
 
 The URL for sending a payment.

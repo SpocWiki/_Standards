@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- [ #has_/text_of_/vehicle_configuration :: Text ] 
+- [has_/text_of_/vehicle_configuration :: Text ] 
 - [ has_text_of_vehicle_configuration :: Text ] 
 
 A short text indicating the configuration of the vehicle, e.g. "5dr hatchback ST 2.5 MT 225 hp" or "limited edition".

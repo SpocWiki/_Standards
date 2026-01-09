@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/originating_from :: Vessel]  
+- [is_/originating_from :: Vessel] 
 - [ is_originating_from :: Vessel] 
 
 The vasculature the lymphatic structure originates, or afferents, from.

@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Order.
 
 Use it like this: 
-- [ #has_/text_of_/discount_currency :: Text ] 
+- [has_/text_of_/discount_currency :: Text ] 
 - [ has_text_of_discount_currency :: Text ] 
 
 The currency of the discount.

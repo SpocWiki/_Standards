@@ -31,7 +31,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue.
 
 Use it like this: 
-- [has_/value_for_/max :: Number ]  
+- [has_/value_for_/max :: Number ] 
 - [ has_value_for_max :: Number ] 
 
 The upper value of some characteristic or property.

@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of VisualArtwork.
 
 Use it like this: 
-- [has_/number_of_/art_edition :: Integer, Text ]  
+- [has_/number_of_/art_edition :: Integer, Text ] 
 - [ has_number_of_art_edition :: Integer, Text ] 
 
 The number of copies when multiple copies of a piece of artwork are produced - e.g. for a limited edition of 20 prints, 'artEdition' refers to the total number of copies (in this example "20").

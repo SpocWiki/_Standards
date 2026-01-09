@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Organization, Person, Place.
 
 Use it like this: 
-- [ #has_/text_of_/isic_v4 :: Text ] 
+- [has_/text_of_/isic_v4 :: Text ] 
 - [ has_text_of_isic_v4 :: Text ] 
 
 ISIC(International Standard of Industrial Classification of All Economic Activities) Revision 4 code for a particular organization, business person, or place.

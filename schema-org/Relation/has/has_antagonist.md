@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/antagonist :: Muscle ]  
+- [has_/antagonist :: Muscle ] 
 - [ has_antagonist :: Muscle ] 
 
 The muscle whose action counteracts the specified muscle.

@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/image :: ImageObject, URL ]  
+- [has_/image :: ImageObject, URL ] 
 - [ has_image :: ImageObject, URL ] 
 
 An image of the item. This can be a [[../../Class/is_a_/data_type/text/URL]] or a fully described [[ImageObject]].

@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of PropertyValueSpecification.
 
 Use it like this: 
-- [ #has_/text_of_/value_pattern :: Text ] 
+- [has_/text_of_/value_pattern :: Text ] 
 - [ has_text_of_value_pattern :: Text ] 
 
 Specifies a regular expression for testing literal values according to the HTML spec.

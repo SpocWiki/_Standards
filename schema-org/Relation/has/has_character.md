@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/character :: Person ]  
+- [has_/character :: Person ] 
 - [ has_character :: Person ] 
 
 Fictional person connected with a creative work.

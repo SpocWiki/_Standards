@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/item_shipped :: Product ]  
+- [has_/item_shipped :: Product ] 
 - [ has_item_shipped :: Product ] 
 
 Item(s) being shipped.

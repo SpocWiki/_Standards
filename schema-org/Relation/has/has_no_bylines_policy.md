@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/no_bylines_policy :: CreativeWork, URL ]  
+- [has_/no_bylines_policy :: CreativeWork, URL ] 
 - [ has_no_bylines_policy :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]] or other news-related [[../../../Society/Agent/Community/Organization]], 

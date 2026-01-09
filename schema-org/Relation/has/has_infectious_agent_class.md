@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/infectious_agent_class :: InfectiousAgentClass ]  
+- [has_/infectious_agent_class :: InfectiousAgentClass ] 
 - [ has_infectious_agent_class :: InfectiousAgentClass ] 
 
 The class of infectious agent (bacteria, prion, etc.) that causes the disease.

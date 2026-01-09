@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Demand, Offer.
 
 Use it like this: 
-- [has_/value_for_/eligible_duration :: QuantitativeValue ]  
+- [has_/value_for_/eligible_duration :: QuantitativeValue ] 
 - [ has_value_for_eligible_duration :: QuantitativeValue ] 
 
 The duration for which the given offer is valid.

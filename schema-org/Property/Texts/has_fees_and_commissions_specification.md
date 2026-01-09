@@ -34,7 +34,7 @@ type: Pred_Text
 Predicate to describe the Text of FinancialProduct, FinancialService.
 
 Use it like this: 
-- [ #has_/text_of_/fees_and_commissions_specification :: Text, URL ] 
+- [has_/text_of_/fees_and_commissions_specification :: Text, URL ] 
 - [ has_text_of_fees_and_commissions_specification :: Text, URL ] 
 
 Description of fees, commissions, and other terms applied either to a class of financial product, or by a financial service organization.

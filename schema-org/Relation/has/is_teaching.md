@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/teaching :: DefinedTerm, Text ]  
+- [is_/teaching :: DefinedTerm, Text ] 
 - [ is_teaching :: DefinedTerm, Text ] 
 
 The Subject/item being described is intended 

@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of DrugCost.
 
 Use it like this: 
-- [ #has_/text_of_/cost_origin :: Text ] 
+- [has_/text_of_/cost_origin :: Text ] 
 - [ has_text_of_cost_origin :: Text ] 
 
 Additional details to capture the origin of the cost data. For example, "Medicare Part B".

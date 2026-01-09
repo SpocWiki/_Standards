@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of BroadcastService.
 
 Use it like this: 
-- [ #has_/name_display_broadcast :: Text ] 
+- [has_/name_display_broadcast :: Text ] 
 - [ has_name_display_broadcast :: Text ] 
 
 The name displayed in the channel guide. 

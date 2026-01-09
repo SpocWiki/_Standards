@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/programming_language :: ComputerLanguage, Text ]  
+- [has_/programming_language :: ComputerLanguage, Text ] 
 - [ has_programming_language :: ComputerLanguage, Text ] 
 
 The computer programming language of the Subject Source Code.

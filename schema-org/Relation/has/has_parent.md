@@ -32,7 +32,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/parent :: Person ]  
+- [has_/parent :: Person ] 
 - [ has_parent :: Person ] 
 
 A parent of this person.

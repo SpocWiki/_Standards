@@ -31,7 +31,7 @@ type: Predi_Url
 Predicate to specify the Url of ParcelDelivery.
 
 Use it like this: 
-- [has_/url_for_/tracking :: URL ]  
+- [has_/url_for_/tracking :: URL ] 
 - [ has_url_for_tracking :: URL ] 
 
 Tracking url for the parcel delivery.

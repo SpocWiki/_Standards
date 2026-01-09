@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/associated_media :: MediaObject ]  
+- [has_/associated_media :: MediaObject ] 
 - [ has_associated_media :: MediaObject ] 
 
 A media object that encodes this CreativeWork. 

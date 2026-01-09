@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/menu_section :: MenuSection ]  
+- [has_/menu_section :: MenuSection ] 
 - [ has_menu_section :: MenuSection ] 
 
 A subgrouping of the menu (by dishes, course, serving time period, etc.).

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/recording_of :: MusicComposition ]  
+- [has_/recording_of :: MusicComposition ] 
 - [ has_recording_of :: MusicComposition ] 
 
 The composition this track is a recording of.

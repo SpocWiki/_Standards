@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/opposite_of :: [[has_borrower]] 
 
 Use it like this: 
-- [has_/lender :: Organization, Person ]  
+- [has_/lender :: Organization, Person ] 
 - [ has_lender :: Organization, Person ] 
 
 A sub property of participant. The person that lends the object being borrowed.

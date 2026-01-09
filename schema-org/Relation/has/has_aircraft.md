@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/aircraft :: Text, Vehicle ]  
+- [has_/aircraft :: Text, Vehicle ] 
 - [ has_aircraft :: Text, Vehicle ] 
 
 The kind of aircraft (e.g., "Boeing 747").

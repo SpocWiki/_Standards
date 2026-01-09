@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/game_availability_type :: GameAvailabilityEnumeration, Text ]  
+- [has_/game_availability_type :: GameAvailabilityEnumeration, Text ] 
 - [ has_game_availability_type :: GameAvailabilityEnumeration, Text ] 
 
 Indicates the availability type of the game content associated with this action, such as whether it is a full version or a demo.

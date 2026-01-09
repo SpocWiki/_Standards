@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/followee_of :: Organization, Person ]  
+- [is_/followee_of :: Organization, Person ] 
 - [ is_followee_of :: Organization, Person ] 
 
 A sub property of object. The person or organization being followed.

@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Demand, Offer, Product.
 
 Use it like this: 
-- [ #has_/text_of_/mpn :: Text ] 
+- [has_/text_of_/mpn :: Text ] 
 - [ has_text_of_mpn :: Text ] 
 
 The Manufacturer Part Number (MPN) of the product, or the product to which the offer refers.

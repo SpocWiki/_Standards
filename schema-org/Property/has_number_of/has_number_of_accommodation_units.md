@@ -32,7 +32,7 @@ Predicate to describe the Number of ApartmentComplex, FloorPlan.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/number_of_/accommodation_units :: QuantitativeValue ]  
+- [has_/number_of_/accommodation_units :: QuantitativeValue ] 
 - [ has_number_of_accommodation_units :: QuantitativeValue ] 
 
 Indicates the total (available plus unavailable) number of accommodation units in an [[ApartmentComplex]], or the number of accommodation units for a specific [[FloorPlan]] (within its specific [[ApartmentComplex]]). See also [[numberOfAvailableAccommodationUnits]].

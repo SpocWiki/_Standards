@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/affiliation_with :: Organization ]  
+- [has_/affiliation_with :: Organization ] 
 - [ has_affiliation_with :: Organization ] 
 
 An organization that this person is affiliated with. 

@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Ticket.
 
 Use it like this: 
-- [ #has_/text_of_/ticket_token :: Text, URL ] 
+- [has_/text_of_/ticket_token :: Text, URL ] 
 - [ has_text_of_ticket_token :: Text, URL ] 
 
 Reference to an asset (e.g., Barcode, QR code image or PDF) usable for entrance.

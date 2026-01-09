@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of VideoObject.
 
 Use it like this: 
-- [ #has_/text_of_/video_quality :: Text ] 
+- [has_/text_of_/video_quality :: Text ] 
 - [ has_text_of_video_quality :: Text ] 
 
 The quality of the video.

@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/question :: Question ]  
+- [has_/question :: Question ] 
 - [ has_question :: Question ] 
 
 A sub property of object. A question.

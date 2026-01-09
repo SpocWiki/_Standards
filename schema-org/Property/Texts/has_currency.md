@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of DatedMoneySpecification, ExchangeRateSpecification, LoanOrCredit, MonetaryAmount, MonetaryAmountDistribution.
 
 Use it like this: 
-- [ #has_/text_of_/currency :: Text ] 
+- [has_/text_of_/currency :: Text ] 
 - [ has_text_of_currency :: Text ] 
 
 The currency in which the monetary amount is expressed.

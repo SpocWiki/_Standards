@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- [ #has_/text_of_/expected_prognosis :: Text ] 
+- [has_/text_of_/expected_prognosis :: Text ] 
 - [ has_text_of_expected_prognosis :: Text ] 
 
 The likely outcome in either the short term or long term of the medical condition.

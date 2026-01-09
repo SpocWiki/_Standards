@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/under_name :: Organization, Person ]  
+- [has_/under_name :: Organization, Person ] 
 - [ has_under_name :: Organization, Person ] 
 
 The person or organization the reservation or ticket is for.

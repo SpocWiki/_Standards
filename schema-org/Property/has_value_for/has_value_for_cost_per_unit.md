@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of DrugCost.
 
 Use it like this: 
-- [has_/value_for_/cost_per_unit :: Number, QualitativeValue, Text ]  
+- [has_/value_for_/cost_per_unit :: Number, QualitativeValue, Text ] 
 - [ has_value_for_cost_per_unit :: Number, QualitativeValue, Text ] 
 
 The cost per unit of the drug.

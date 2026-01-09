@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of ContactPoint, Organization, Person, Place.
 
 Use it like this: 
-- [ #has_/telephone :: Text ] 
+- [has_/telephone :: Text ] 
 - [ has_telephone :: Text ] 
 
 The telephone number. Specify the Type of Phone Number to distinguish multiple. 

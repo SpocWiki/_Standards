@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/sub_structure :: AnatomicalStructure ]  
+- [has_/sub_structure :: AnatomicalStructure ] 
 - [ has_sub_structure :: AnatomicalStructure ] 
 
 Component (sub-)structure(s) that comprise this anatomical structure.

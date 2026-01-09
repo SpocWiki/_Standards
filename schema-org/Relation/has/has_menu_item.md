@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/menu_item :: MenuItem ]  
+- [has_/menu_item :: MenuItem ] 
 - [ has_menu_item :: MenuItem ] 
 
 A food or drink item contained in a menu or menu section.

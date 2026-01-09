@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/related_anatomy :: AnatomicalStructure, AnatomicalSystem ]  
+- [has_/related_anatomy :: AnatomicalStructure, AnatomicalSystem ] 
 - [ has_related_anatomy :: AnatomicalStructure, AnatomicalSystem ] 
 
 Anatomical systems or structures that relate to the superficial anatomy.

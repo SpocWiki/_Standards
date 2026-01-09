@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of SoftwareSourceCode.
 
 Use it like this: 
-- [ #has_/text_of_/runtime_platform :: Text ] 
+- [has_/text_of_/runtime_platform :: Text ] 
 - [ has_text_of_runtime_platform :: Text ] 
 
 Runtime platform or script interpreter dependencies (example: Java v1, Python 2.3, .NET Framework 3.0).

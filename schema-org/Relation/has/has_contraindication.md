@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/contraindication :: MedicalContraindication, Text ]  
+- [has_/contraindication :: MedicalContraindication, Text ] 
 - [ has_contraindication :: MedicalContraindication, Text ] 
 
 A contraindication for this therapy.

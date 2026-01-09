@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/energy_efficiency_category :: EnergyEfficiencyEnumeration ]  
+- [has_/energy_efficiency_category :: EnergyEfficiencyEnumeration ] 
 - [ has_energy_efficiency_category :: EnergyEfficiencyEnumeration ] 
 
 Defines the energy efficiency Category (which could be either a rating out of range of values or a yes/no certification) for a product according to an international energy efficiency standard.

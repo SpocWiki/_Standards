@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of ParentAudience.
 
 Use it like this: 
-- [has_/value_for_/child_max_age :: Number ]  
+- [has_/value_for_/child_max_age :: Number ] 
 - [ has_value_for_child_max_age :: Number ] 
 
 Maximal age of the child.

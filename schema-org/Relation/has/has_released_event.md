@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/released_event :: PublicationEvent ]  
+- [has_/released_event :: PublicationEvent ] 
 - [ has_released_event :: PublicationEvent ] 
 
 The place and time the release was issued, expressed as a PublicationEvent.

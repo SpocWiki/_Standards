@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of educational  AlignmentObject.
 
 Use it like this: 
-- [ #has_/name_of_target :: Text ] 
+- [has_/name_of_target :: Text ] 
 - [ has_name_of_target :: Text ] 
 
 The name of a node in an established educational framework.

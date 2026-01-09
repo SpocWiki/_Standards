@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/part_of_/season :: CreativeWorkSeason ]  
+- [is_/part_of_/season :: CreativeWorkSeason ] 
 - [ is_part_of_season :: CreativeWorkSeason ] 
 
 The season to which this episode belongs.

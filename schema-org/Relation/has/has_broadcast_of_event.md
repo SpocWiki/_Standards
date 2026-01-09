@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/broadcast_of_event :: Event ]  
+- [has_/broadcast_of_event :: Event ] 
 - [ has_broadcast_of_event :: Event ] 
 
 The event being broadcast such as a sporting event or awards ceremony.

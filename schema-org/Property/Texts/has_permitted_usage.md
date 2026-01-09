@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Accommodation.
 
 Use it like this: 
-- [ #has_/text_of_/permitted_usage :: Text ] 
+- [has_/text_of_/permitted_usage :: Text ] 
 - [ has_text_of_permitted_usage :: Text ] 
 
 Indications regarding the permitted usage of the accommodation.

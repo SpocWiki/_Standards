@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Reservation, Ticket.
 
 Use it like this: 
-- [has_/value_for_/total_price :: Number, PriceSpecification, Text ]  
+- [has_/value_for_/total_price :: Number, PriceSpecification, Text ] 
 - [ has_value_for_total_price :: Number, PriceSpecification, Text ] 
 
 The total price for the reservation or ticket, including applicable taxes, shipping, etc.

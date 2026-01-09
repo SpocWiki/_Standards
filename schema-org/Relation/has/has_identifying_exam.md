@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/identifying_exam :: PhysicalExam ]  
+- [has_/identifying_exam :: PhysicalExam ] 
 - [ has_identifying_exam :: PhysicalExam ] 
 
 A physical examination that can identify this sign.

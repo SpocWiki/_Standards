@@ -45,7 +45,7 @@ E.g. the URLs of the item's Wikidata entry,
 Wikipedia page, database-IDs, social media websites, or official website.
 
 Use it like this: 
-- [ #has_/url_for_/same_as :: [[../Class/is_a_/data_type/text/URL]] ] 
+- [has_/url_for_/same_as :: [[../Class/is_a_/data_type/text/URL]] ] 
 - [ has_url_for_same_as :: [[../../Class/is_a_/data_type/text/URLs]] ] 
 
 Predicate describes that: 

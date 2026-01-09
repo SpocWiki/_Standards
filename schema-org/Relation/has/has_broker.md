@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/broker :: Organization, Person ]  
+- [has_/broker :: Organization, Person ] 
 - [ has_broker :: Organization, Person ] 
 
 An entity that arranges for an exchange between a buyer and a seller.  

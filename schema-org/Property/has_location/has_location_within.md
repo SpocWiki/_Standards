@@ -44,7 +44,7 @@ i.e. this is inside (i.e. within) the Object's interior.
 As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
 Use it like this: 
-- [has_/location_/within :: GeospatialGeometry, Place ]  
+- [has_/location_/within :: GeospatialGeometry, Place ] 
 - [ has_location_within :: GeospatialGeometry, Place ] 
 
 Predicate describes that: 

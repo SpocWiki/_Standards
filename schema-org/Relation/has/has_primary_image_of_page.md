@@ -31,7 +31,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/primary_image_of_page :: ImageObject ]  
+- [has_/primary_image_of_page :: ImageObject ] 
 - [ has_primary_image_of_page :: ImageObject ] 
 
 Indicates the main image on the page.

@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- [ #has_/text_of_/security_screening :: Text ] 
+- [has_/text_of_/security_screening :: Text ] 
 - [ has_text_of_security_screening :: Text ] 
 
 The type of security screening the passenger is subject to.

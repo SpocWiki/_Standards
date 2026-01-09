@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/functional_class :: MedicalEntity, Text ]  
+- [has_/functional_class :: MedicalEntity, Text ] 
 - [ has_functional_class :: MedicalEntity, Text ] 
 
 The degree of mobility the joint allows.

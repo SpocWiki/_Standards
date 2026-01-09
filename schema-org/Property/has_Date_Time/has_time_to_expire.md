@@ -30,7 +30,7 @@ Predicate to describe the date of CreativeWork.
 
 Use it like this: 
 - [has_time_to_expire::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/to_expire::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/to_expire::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Date the content expires and is no longer useful or available. For example a [[VideoObject]] or [[NewsArticle]] whose availability or relevance is time-limited, or a [[ClaimReview]] fact check whose publisher wants to indicate that it may no longer be relevant (or helpful to highlight) after some date.

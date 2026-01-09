@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/arterial_branch :: AnatomicalStructure ]  
+- [has_/arterial_branch :: AnatomicalStructure ] 
 - [ has_arterial_branch :: AnatomicalStructure ] 
 
 The branches that comprise the arterial structure.

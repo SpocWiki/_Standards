@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Person.
 
 Use it like this: 
-- [has_/value_for_/net_worth :: MonetaryAmount, PriceSpecification ]  
+- [has_/value_for_/net_worth :: MonetaryAmount, PriceSpecification ] 
 - [ has_value_for_net_worth :: MonetaryAmount, PriceSpecification ] 
 
 The total financial value of the person as calculated by subtracting assets from liabilities.

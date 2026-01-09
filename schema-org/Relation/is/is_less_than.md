@@ -30,7 +30,7 @@ type: Predi_Relation
 # [[is_less_than]] 
 
 Use it like this: 
-- [is_/less_than :: QualitativeValue ]  
+- [is_/less_than :: QualitativeValue ] 
 - [ is_less_than :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is less than the object.

@@ -30,7 +30,7 @@ Predicate to describe the date of Invoice.
 
 Use it like this: 
 - [has_time_of_scheduled_payment::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/of_scheduled_payment::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/of_scheduled_payment::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date the invoice is scheduled to be paid.

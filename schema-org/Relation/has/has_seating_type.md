@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/seating_type :: QualitativeValue, Text ]  
+- [has_/seating_type :: QualitativeValue, Text ] 
 - [ has_seating_type :: QualitativeValue, Text ] 
 
 The type/class of the seat.

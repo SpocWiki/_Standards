@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/mentioning :: [Thing](../../../Class/Thing.md) ]  
+- [is_/mentioning :: [Thing](../../../Class/Thing.md) ] 
 - [ is_mentioning :: [[../../../Class/is_a_|Thing]] ] 
 
 Indicates that the [[../../../Class/is_a_/creative_work|Creative Work]] contains a reference to, but is not necessarily about a concept.

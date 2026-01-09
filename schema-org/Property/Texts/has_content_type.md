@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Meta-Type Text of EntryPoint.
 
 Use it like this: 
-- [ #has_/text_of_/content_type :: Text ] 
+- [has_/text_of_/content_type :: Text ] 
 - [ has_text_of_content_type :: Text ] 
 
 The supported content type(s) for an EntryPoint response.

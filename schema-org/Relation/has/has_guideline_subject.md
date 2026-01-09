@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/guideline_subject :: MedicalEntity ]  
+- [has_/guideline_subject :: MedicalEntity ] 
 - [ has_guideline_subject :: MedicalEntity ] 
 
 The medical conditions, treatments, etc. that are the subject of the guideline.

@@ -31,7 +31,7 @@ Predicate to describe the date-Range of a [[CreativeWork]].
 
 Use it like this: 
 - [has_time_of_temporal_coverage::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/of_temporal_coverage::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/of_temporal_coverage::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The temporalCoverage of a CreativeWork indicates the period that the content applies to, i.e. that it describes, either as a DateTime or as a textual string indicating a time period in [ISO 8601 time interval format](https://en.wikipedia.org/wiki/ISO_8601#Time_intervals). 

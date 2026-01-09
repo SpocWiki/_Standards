@@ -32,7 +32,7 @@ type: Pred_Text
 [[Predicate]] to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_of_/access_mode :: Text ] 
+- [has_/text_of_/access_mode :: Text ] 
 - [ has_text_of_access_mode :: Text ] 
 
 The human sensory perceptual system or cognitive faculty through which a person may process or perceive information. Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessMode-vocabulary).

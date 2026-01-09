@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Apartment, HotelRoom, SingleFamilyResidence, Suite.
 
 Use it like this: 
-- [has_/value_for_/occupancy :: QuantitativeValue ]  
+- [has_/value_for_/occupancy :: QuantitativeValue ] 
 - [ has_value_for_occupancy :: QuantitativeValue ] 
 
 The allowed total occupancy for the accommodation in persons (including infants etc). For individual accommodations, this is not necessarily the legal maximum but defines the permitted usage as per the contractual agreement (e.g. a double room used by a single person).

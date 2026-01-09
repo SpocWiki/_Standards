@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Accommodation, FloorPlan.
 
 Use it like this: 
-- [has_/value_for_/floor_size_m2 :: QuantitativeValue ]  
+- [has_/value_for_/floor_size_m2 :: QuantitativeValue ] 
 - [ has_value_for_floor_size_m2 :: QuantitativeValue ] 
 
 The size of the accommodation, e.g. in square meter or squarefoot.

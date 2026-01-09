@@ -31,7 +31,7 @@ Predicate to describe the date of Invoice, Order.
 
 Use it like this: 
 - [has_time_of_payment_due::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/of_payment_due::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/of_payment_due::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date that payment is due.

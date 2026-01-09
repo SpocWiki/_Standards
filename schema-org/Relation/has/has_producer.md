@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/producer :: Organization, Person ]  
+- [has_/producer :: Organization, Person ] 
 - [ has_producer :: Organization, Person ] 
 
 The person or organization who produced the work (e.g. music album, movie, TV/radio series etc.).

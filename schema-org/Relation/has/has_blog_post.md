@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/blog_post :: BlogPosting ]  
+- [has_/blog_post :: BlogPosting ] 
 - [ has_blog_post :: BlogPosting ] 
 
 A posting that is part of this blog.

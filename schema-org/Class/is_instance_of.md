@@ -67,7 +67,7 @@ Verbs:
 - [[../Relation/is/is_member_of|is_member_of]] 
 
 ## Use it like this: 
-- [ #is_/instance_of :: Class] 
+- [is_/instance_of :: Class] 
 - [ #is_a_ :: Class] 
 - [ is_instance_of :: Class]  
 for Objects

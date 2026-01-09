@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/recipe :: Recipe ]  
+- [has_/recipe :: Recipe ] 
 - [ has_recipe :: Recipe ] 
 
 A sub property of instrument. The recipe/instructions used to perform the action.

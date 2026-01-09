@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- [ #has_/location_/spatial :: Place ] 
+- [has_/location_/spatial :: Place ] 
 - [ has_location_spatial :: Place ] 
 
 The "spatial" property can be used in cases when more specific properties

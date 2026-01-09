@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of HowToItem.
 
 Use it like this: 
-- [has_/value_for_/required_quantity :: Number, QuantitativeValue, Text ]  
+- [has_/value_for_/required_quantity :: Number, QuantitativeValue, Text ] 
 - [ has_value_for_required_quantity :: Number, QuantitativeValue, Text ] 
 
 The required quantity of the item(s).

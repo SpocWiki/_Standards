@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/map_type :: MapCategoryType ]  
+- [has_/map_type :: MapCategoryType ] 
 - [ has_map_type :: MapCategoryType ] 
 
 Indicates the kind of Map, from the MapCategoryType Enumeration.

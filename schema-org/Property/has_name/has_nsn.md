@@ -33,7 +33,7 @@ Predicate to describe the Text of Product.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/nsn :: Text ] 
+- [has_/text_of_/nsn :: Text ] 
 - [ has_text_of_nsn :: Text ] 
 
 Indicates the [NATO stock number](https://en.wikipedia.org/wiki/NATO_Stock_Number) (nsn) of a [[../../../Society/Agent/Community/Organization/Business/Product]].

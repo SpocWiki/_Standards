@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/software_add_on :: SoftwareApplication ]  
+- [has_/software_add_on :: SoftwareApplication ] 
 - [ has_software_add_on :: SoftwareApplication ] 
 
 Additional content for a software application.

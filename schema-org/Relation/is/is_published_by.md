@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [is_/published_by :: Organization, Person ]  
+- [is_/published_by :: Organization, Person ] 
 - [ is_published_by :: Organization, Person ] 
 
 An agent associated with the publication event.

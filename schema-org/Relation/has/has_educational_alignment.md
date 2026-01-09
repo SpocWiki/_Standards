@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/educational_alignment :: AlignmentObject ]  
+- [has_/educational_alignment :: AlignmentObject ] 
 - [ has_educational_alignment :: AlignmentObject ] 
 
 An alignment to an established educational framework.

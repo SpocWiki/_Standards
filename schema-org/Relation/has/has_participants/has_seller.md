@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/opposite_of :: [[has_buyer]]  
 
 Use it like this: 
-- [has_/seller :: Organization, Person ]  
+- [has_/seller :: Organization, Person ] 
 - [ has_seller :: Organization, Person ] 
 
 An entity which offers (sells / leases / lends / loans) the services / goods.  A seller may also be a provider.

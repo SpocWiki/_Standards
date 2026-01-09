@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_of_/permissions :: Text ] 
+- [has_/text_of_/permissions :: Text ] 
 - [ has_text_of_permissions :: Text ] 
 
 Permission(s) required to run the app (for example, a mobile app may require full internet access or may run only on wifi).

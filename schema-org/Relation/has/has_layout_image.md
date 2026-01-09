@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/layout_image :: ImageObject, URL ]  
+- [has_/layout_image :: ImageObject, URL ] 
 - [ has_layout_image :: ImageObject, URL ] 
 
 A schematic image showing the floorplan layout.

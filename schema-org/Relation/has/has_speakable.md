@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/speakable :: SpeakableSpecification, URL ]  
+- [has_/speakable :: SpeakableSpecification, URL ] 
 - [ has_speakable :: SpeakableSpecification, URL ] 
 
 Indicates sections of a Web page that are particularly 'speakable' in the sense of being highlighted as being especially appropriate for text-to-speech conversion. Other sections of a page may also be usefully spoken in particular circumstances; the 'speakable' property serves to indicate the parts most likely to be generally useful for speech.

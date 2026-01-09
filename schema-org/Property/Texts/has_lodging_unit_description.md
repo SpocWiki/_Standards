@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of LodgingReservation.
 
 Use it like this: 
-- [ #has_/text_of_/lodging_unit_description :: Text ] 
+- [has_/text_of_/lodging_unit_description :: Text ] 
 - [ has_text_of_lodging_unit_description :: Text ] 
 
 A full description of the lodging unit.

@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of FinancialProduct.
 
 Use it like this: 
-- [has_/value_for_/annual_percentage_rate :: Number, QuantitativeValue ]  
+- [has_/value_for_/annual_percentage_rate :: Number, QuantitativeValue ] 
 - [ has_value_for_annual_percentage_rate :: Number, QuantitativeValue ] 
 
 The annual rate that is charged for borrowing (or made by investing), expressed as a single percentage number that represents the actual yearly cost of funds over the term of a loan. This includes any fees or additional costs associated with the transaction.

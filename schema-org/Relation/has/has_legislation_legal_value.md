@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/legislation_legal_value :: LegalValueLevel ]  
+- [has_/legislation_legal_value :: LegalValueLevel ] 
 - [ has_legislation_legal_value :: LegalValueLevel ] 
 
 The legal value of this legislation file.

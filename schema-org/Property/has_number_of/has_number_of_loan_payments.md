@@ -32,7 +32,7 @@ Predicate to describe the Number of RepaymentSpecification.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/number_of_/loan_payments :: Number ]  
+- [has_/number_of_/loan_payments :: Number ] 
 - [ has_number_of_loan_payments :: Number ] 
 
 The number of payments contractually required at origination to repay the loan. For monthly paying loans this is the number of months from the contractual first payment date to the maturity date.

@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Offer, PriceSpecification, TradeAction.
 
 Use it like this: 
-- [has_/value_for_/price :: Number, Text ]  
+- [has_/value_for_/price :: Number, Text ] 
 - [ has_value_for_price :: Number, Text ] 
 
 The offer price of a product, or of a price component when attached to PriceSpecification and its subtypes.

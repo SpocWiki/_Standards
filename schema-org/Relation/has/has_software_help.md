@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/software_help :: CreativeWork ]  
+- [has_/software_help :: CreativeWork ] 
 - [ has_software_help :: CreativeWork ] 
 
 Software application help.

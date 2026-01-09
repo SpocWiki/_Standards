@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of Article.
 
 Use it like this: 
-- [has_/number_of_/words :: Integer ]  
+- [has_/number_of_/words :: Integer ] 
 - [ has_number_of_words :: Integer ] 
 
 The number of words in the text of the Article.

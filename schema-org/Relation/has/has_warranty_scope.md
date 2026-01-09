@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/warranty_scope :: WarrantyScope ]  
+- [has_/warranty_scope :: WarrantyScope ] 
 - [ has_warranty_scope :: WarrantyScope ] 
 
 The scope of the warranty promise.

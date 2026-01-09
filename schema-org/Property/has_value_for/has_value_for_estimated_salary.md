@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of JobPosting, Occupation.
 
 Use it like this: 
-- [has_/value_for_/estimated_salary :: MonetaryAmount, MonetaryAmountDistribution, Number ]  
+- [has_/value_for_/estimated_salary :: MonetaryAmount, MonetaryAmountDistribution, Number ] 
 - [ has_value_for_estimated_salary :: MonetaryAmount, MonetaryAmountDistribution, Number ] 
 
 An estimated salary for a job posting or occupation, based on a variety of variables including, but not limited to industry, job title, and location. Estimated salaries  are often computed by outside organizations rather than the hiring organization, who may not have committed to the estimated value.

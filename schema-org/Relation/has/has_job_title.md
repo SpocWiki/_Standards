@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/job_title :: DefinedTerm, Text ]  
+- [has_/job_title :: DefinedTerm, Text ] 
 - [ has_job_title :: DefinedTerm, Text ] 
 
 The job title of the person (for example, Financial Manager).

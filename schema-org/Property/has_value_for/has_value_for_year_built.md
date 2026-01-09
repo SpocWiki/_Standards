@@ -32,7 +32,7 @@ Predicate to describe the Quantity of Accommodation.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/value_for_/year_built :: Number ]  
+- [has_/value_for_/year_built :: Number ] 
 - [ has_value_for_year_built :: Number ] 
 
 The year an [[../../../Earth/Geography/Place/Accommodation]] was constructed. 

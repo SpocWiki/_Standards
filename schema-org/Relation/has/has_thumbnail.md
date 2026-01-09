@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/thumbnail :: ImageObject ]  
+- [has_/thumbnail :: ImageObject ] 
 - [ has_thumbnail :: ImageObject ] 
 
 Thumbnail image for an image or video.

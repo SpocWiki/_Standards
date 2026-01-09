@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/screenshot :: ImageObject, URL ]  
+- [has_/screenshot :: ImageObject, URL ] 
 - [ has_screenshot :: ImageObject, URL ] 
 
 A link to a screenshot image of the app.

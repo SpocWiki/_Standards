@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- [ #has_/text_of_/print_section :: Text ] 
+- [has_/text_of_/print_section :: Text ] 
 - [ has_text_of_print_section :: Text ] 
 
 If this NewsArticle appears in print, this field indicates the print section in which the article appeared.

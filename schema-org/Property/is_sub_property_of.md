@@ -37,7 +37,7 @@ Relates a sub-[[../Property]] to its super-[[../Property]]
 Alternative, better readable Name: is_a_kind_of similar to `#is_a_`  
 
 Use it like this: 
-- [ is_/sub_property_of :: [[../Property]]] 
+- [is_/sub_property_of :: [[../Property]]] 
 - [ is_sub_property_of :: [[../Property]]] 
 
 [[../Relation|Relation]] describes that: 

@@ -28,7 +28,7 @@ type: Predi_Relation
 
 Use it like this tp specify the geographic or administrative jurisdiction 
 where the Subject (e.g., a policy, regulation, or rule) is applicable.: 
-- [has_/jurisdiction :: AdministrativeArea, Text ]  
+- [has_/jurisdiction :: AdministrativeArea, Text ] 
 - [ has_jurisdiction :: AdministrativeArea, Text ] 
 
 Indicates a legal jurisdiction, e.g. of some legislation, or where some government service is based.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/secondary_prevention :: MedicalTherapy ]  
+- [has_/secondary_prevention :: MedicalTherapy ] 
 - [ has_secondary_prevention :: MedicalTherapy ] 
 
 A preventative therapy used to prevent reoccurrence of the medical condition after an initial episode of the condition.

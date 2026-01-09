@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/boarding_policy :: BoardingPolicyType ]  
+- [has_/boarding_policy :: BoardingPolicyType ] 
 - [ has_boarding_policy :: BoardingPolicyType ] 
 
 The type of boarding policy used by the airline (e.g. zone-based or group-based).

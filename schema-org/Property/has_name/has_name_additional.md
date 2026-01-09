@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/name_/additional :: Text ] 
+- [has_/name_/additional :: Text ] 
 - [ has_name_additional :: Text ] 
 
 An additional name for a Person, can be used for a middle name.

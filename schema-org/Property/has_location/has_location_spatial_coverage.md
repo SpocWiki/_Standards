@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- [ #has_/location_/spatial_coverage :: Place ] 
+- [has_/location_/spatial_coverage :: Place ] 
 - [ has_location_spatial_coverage :: Place ] 
 
 The spatialCoverage of a CreativeWork indicates the place(s) which are the focus of the content. It is a subproperty of

@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/archive_held :: ArchiveComponent ]  
+- [has_/archive_held :: ArchiveComponent ] 
 - [ has_archive_held :: ArchiveComponent ] 
 
 Collection, [fonds](https://en.wikipedia.org/wiki/Fonds), or item held, kept or maintained by an [[ArchiveOrganization]].

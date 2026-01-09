@@ -31,7 +31,7 @@ type: Pred_geo
 Predicate to describe the geo of Place.
 
 Use it like this: 
-- [ #has_/location_/contained_in :: Place ] 
+- [has_/location_/contained_in :: Place ] 
 - [ has_location_contained_in :: Place ] 
 
 The basic containment relation between a place and one that contains it.

@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/sd_license :: CreativeWork, URL ]  
+- [has_/sd_license :: CreativeWork, URL ] 
 - [ has_sd_license :: CreativeWork, URL ] 
 
 A license document that applies to this structured data, typically indicated by URL.

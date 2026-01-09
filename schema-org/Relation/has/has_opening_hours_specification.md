@@ -50,7 +50,7 @@ ValidFrom:: {"type":"Number","options":{}}
 ValidThrough:: {"type":"Number","options":{}}
 
 Use it like this: 
-- [has_/opening_hours_specification :: OpeningHoursSpecification ]  
+- [has_/opening_hours_specification :: OpeningHoursSpecification ] 
 - [ has_opening_hours_specification :: OpeningHoursSpecification ] 
 
 The opening hours of a certain place.

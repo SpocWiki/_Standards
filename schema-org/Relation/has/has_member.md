@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/member :: Organization, Person ]  
+- [has_/member :: Organization, Person ] 
 - [ has_member :: Organization, Person ] 
 
 A member of an Organization or a ProgramMembership. Organizations can be members of organizations; 

@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/audio :: AudioObject, Clip, MusicRecording ]  
+- [has_/audio :: AudioObject, Clip, MusicRecording ] 
 - [ has_audio :: AudioObject, Clip, MusicRecording ] 
 
 An embedded audio object.

@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of [[../../Class/is_a_/Intangible/property_value_specification|PropertyValueSpecification]].
 
 Use it like this: 
-- [has_/value_for_/max_text_length :: Number ]  
+- [has_/value_for_/max_text_length :: Number ] 
 - [ has_value_for_max_text_length :: Number ] 
 
 Specifies the allowed range for number of characters in a literal value.

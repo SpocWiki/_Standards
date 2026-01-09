@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/coach :: Person ]  
+- [has_/coach :: Person ] 
 - [ has_coach :: Person ] 
 
 A person that acts in a coaching role for a sports team.

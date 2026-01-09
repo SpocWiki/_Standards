@@ -36,7 +36,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/merchant_return_policy :: MerchantReturnPolicy ]  
+- [has_/merchant_return_policy :: MerchantReturnPolicy ] 
 - [ has_merchant_return_policy :: MerchantReturnPolicy ] 
 
 Specifies a [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturnPolicy]] that may be applicable to a [[../../../Society/Agent/Community/Organization/Business/Product|Product]].

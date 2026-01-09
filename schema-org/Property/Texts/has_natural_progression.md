@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- [ #has_/text_of_/natural_progression :: Text ] 
+- [has_/text_of_/natural_progression :: Text ] 
 - [ has_text_of_natural_progression :: Text ] 
 
 The expected progression of the condition if it is not treated and allowed to progress naturally.

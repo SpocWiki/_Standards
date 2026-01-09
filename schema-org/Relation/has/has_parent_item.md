@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/parent_/item :: Comment ]  
+- [has_/parent_/item :: Comment ] 
 - [ has_parent_item :: Comment ] 
 
 The parent of a question, answer or item in general.

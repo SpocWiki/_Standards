@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Corporation.
 
 Use it like this: 
-- [ #has_/text_of_/ticker_symbol :: Text ] 
+- [has_/text_of_/ticker_symbol :: Text ] 
 - [ has_text_of_ticker_symbol :: Text ] 
 
 The exchange traded instrument associated with a Corporation object. The tickerSymbol is expressed as an exchange and an instrument name separated by a space character. For the exchange component of the tickerSymbol attribute, we recommend using the controlled vocabulary of Market Identifier Codes (MIC) specified in ISO 15022.

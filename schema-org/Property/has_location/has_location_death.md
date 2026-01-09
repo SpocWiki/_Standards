@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of Person.
 
 Use it like this: 
-- [ #has_/location_/death :: Place ] 
+- [has_/location_/death :: Place ] 
 - [ has_location_death :: Place ] 
 
 The place where the person died.

@@ -34,7 +34,7 @@ Articles may belong to one or more "sections"
 in a magazine or newspaper, such as "Sports", "Lifestyle", etc.
 
 Use it like this: 
-- [ #is_/in_/article_section :: [[../../Class/is_a_/data_type/text|Text]] ] 
+- [is_/in_/article_section :: [[../../Class/is_a_/data_type/text|Text]] ] 
 - [ is_in_article_section :: [[../../Class/is_a_/data_type/text|Text]] ] 
 
 Predicated describes that: 

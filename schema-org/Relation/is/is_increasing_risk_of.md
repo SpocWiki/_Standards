@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/increasing_risk_of :: MedicalEntity]  
+- [is_/increasing_risk_of :: MedicalEntity] 
 - [ is_increasing_risk_of :: MedicalEntity] 
 
 The condition, complication, etc. influenced by this factor.

@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of MovieTheater.
 
 Use it like this: 
-- [has_/number_of_/screen_count :: Number ]  
+- [has_/number_of_/screen_count :: Number ] 
 - [ has_number_of_screen_count :: Number ] 
 
 The number of screens in the movie theater.

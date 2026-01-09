@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of PropertyValueSpecification.
 
 Use it like this: 
-- [has_/value_for_/min_text_length :: Number ]  
+- [has_/value_for_/min_text_length :: Number ] 
 - [ has_value_for_min_text_length :: Number ] 
 
 Specifies the minimum allowed range for number of characters in a literal value.

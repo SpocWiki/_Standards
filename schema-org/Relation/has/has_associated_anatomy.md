@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ]  
+- [has_/associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ] 
 - [ has_associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ] 
 
 The anatomy of the underlying organ system or structures associated with this entity.

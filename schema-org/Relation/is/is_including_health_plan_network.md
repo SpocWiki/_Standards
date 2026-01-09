@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending: 
 
 Use it like this: 
-- [is_/including_health_plan_network :: HealthPlanNetwork]  
+- [is_/including_health_plan_network :: HealthPlanNetwork] 
 - [ is_including_health_plan_network :: HealthPlanNetwork] 
 
 Networks covered by this plan.

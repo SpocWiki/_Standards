@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of PeopleAudience.
 
 Use it like this: 
-- [has_/number_of_/required_min_age :: Integer ]  
+- [has_/number_of_/required_min_age :: Integer ] 
 - [ has_number_of_required_min_age :: Integer ] 
 
 Audiences defined by a person's minimum age.

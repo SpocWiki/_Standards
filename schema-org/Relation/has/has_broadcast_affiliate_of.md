@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/broadcast_affiliate_of :: Organization ]  
+- [has_/broadcast_affiliate_of :: Organization ] 
 - [ has_broadcast_affiliate_of :: Organization ] 
 
 The media network(s) whose content is broadcast on this station.

@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of FinancialProduct.
 
 Use it like this: 
-- [has_/value_for_/interest_rate :: Number, QuantitativeValue ]  
+- [has_/value_for_/interest_rate :: Number, QuantitativeValue ] 
 - [ has_value_for_interest_rate :: Number, QuantitativeValue ] 
 
 The interest rate, charged or paid, applicable to the financial product. Note: This is different from the calculated annualPercentageRate.

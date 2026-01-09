@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/funding_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ]  
+- [is_/funding_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] 
 - [ is_funding_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] 
 
 Indicates something directly or indirectly funded or sponsored through a [[Grant]]. See also [[ownershipFundingInfo]].

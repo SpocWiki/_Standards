@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/license_ :: CreativeWork, URL ]  
+- [has_/license_ :: CreativeWork, URL ] 
 - [ has_license_ :: CreativeWork, URL ] 
 
 A license document that applies to this content, typically indicated by URL.

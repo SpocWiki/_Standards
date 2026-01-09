@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of SuperficialAnatomy.
 
 Use it like this: 
-- [ #has_/text_of_/significance :: Text ] 
+- [has_/text_of_/significance :: Text ] 
 - [ has_text_of_significance :: Text ] 
 
 The significance associated with the superficial anatomy; as an example, how characteristics of the superficial anatomy can suggest underlying medical conditions or courses of treatment.

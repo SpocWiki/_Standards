@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/available_delivery_method :: DeliveryMethod ]  
+- [has_/available_delivery_method :: DeliveryMethod ] 
 - [ has_available_delivery_method :: DeliveryMethod ] 
 
 The delivery method(s) available for this offer.

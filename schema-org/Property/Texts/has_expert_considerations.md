@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- [ #has_/text_of_/expert_considerations :: Text ] 
+- [has_/text_of_/expert_considerations :: Text ] 
 - [ has_text_of_expert_considerations :: Text ] 
 
 Medical expert advice related to the plan.

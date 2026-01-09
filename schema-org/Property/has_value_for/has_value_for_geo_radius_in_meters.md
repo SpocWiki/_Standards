@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of GeoCircle.
 
 Use it like this: 
-- [has_/value_for_/geo_radius_in_meters :: Distance, Number, Text ]  
+- [has_/value_for_/geo_radius_in_meters :: Distance, Number, Text ] 
 - [ has_value_for_geo_radius_in_meters :: Distance, Number, Text ] 
 
 Indicates the approximate radius of a GeoCircle (metres unless indicated otherwise via Distance notation).

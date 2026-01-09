@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/comment :: Comment ]  
+- [has_/comment :: Comment ] 
 - [ has_comment :: Comment ] 
 
 Comments, typically from users.

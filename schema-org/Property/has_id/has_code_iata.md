@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Airline, Airport.
 
 Use it like this: 
-- [ #has_/code_/iata :: Text ] 
+- [has_/code_/iata :: Text ] 
 - [ has_code_iata :: Text ] 
 
 IATA identifier for an airline or airport.

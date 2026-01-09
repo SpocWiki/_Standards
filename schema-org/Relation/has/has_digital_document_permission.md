@@ -31,7 +31,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/digital_document_permission :: DigitalDocumentPermission ]  
+- [has_/digital_document_permission :: DigitalDocumentPermission ] 
 - [ has_digital_document_permission :: DigitalDocumentPermission ] 
 
 A permission related to the access to this document (e.g. permission to read or write an electronic document). For a public document, specify a grantee with an Audience with audienceType equal to "public".

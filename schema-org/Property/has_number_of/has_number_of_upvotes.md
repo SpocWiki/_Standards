@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of Comment.
 
 Use it like this: 
-- [has_/number_of_/upvotes :: Integer ]  
+- [has_/number_of_/upvotes :: Integer ] 
 - [ has_number_of_upvotes :: Integer ] 
 
 The number of upvotes this question, answer or comment has received from the community.

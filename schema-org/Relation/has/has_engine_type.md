@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [has_/engine_type :: QualitativeValue, Text, URL ]  
+- [has_/engine_type :: QualitativeValue, Text, URL ] 
 - [ has_engine_type :: QualitativeValue, Text, URL ] 
 
 The type of engine or engines powering the vehicle.

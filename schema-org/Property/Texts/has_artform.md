@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
-- [ #has_/text_of_/artform :: Text, URL ] 
+- [has_/text_of_/artform :: Text, URL ] 
 - [ has_text_of_artform :: Text, URL ] 
 
 e.g. Painting, Drawing, Sculpture, Print, Photograph, Assemblage, Collage, etc.

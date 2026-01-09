@@ -8,13 +8,11 @@ when the Subject is a Scalar:
 #see [[has/has_lyrics|has_lyrics]]: 
 
 You can use it like this when the Lyrics need to be referenced from multiple places: 
-- [ #has_/lyrics  :: CreativeWork ]  
+- [has_/lyrics  :: CreativeWork ] 
 - [ has_lyrics :: CreativeWork ] 
 
 or, when giving the text directly: 
-- [ #has_/text_of_/lyrics  :: Text ] 
-
-
+- [has_/text_of_/lyrics  :: Text ] 
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/has|has]] 

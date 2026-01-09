@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/bcc_recipient :: ContactPoint, Organization, Person ]  
+- [has_/bcc_recipient :: ContactPoint, Organization, Person ] 
 - [ has_bcc_recipient :: ContactPoint, Organization, Person ] 
 
 A sub property of recipient. The recipient blind copied on a message.

@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Order.
 
 Use it like this: 
-- [ #has_/code_/for_discount :: Text ] 
+- [has_/code_/for_discount :: Text ] 
 - [ has_code_for_discount :: Text ] 
 
 Code used to redeem a discount.

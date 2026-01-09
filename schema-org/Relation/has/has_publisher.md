@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/publisher :: Organization, Person ]  
+- [has_/publisher :: Organization, Person ] 
 - [ has_publisher :: Organization, Person ] 
 
 The publisher of the creative work. 

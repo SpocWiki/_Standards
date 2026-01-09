@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/interaction_service :: SoftwareApplication, WebSite ]  
+- [has_/interaction_service :: SoftwareApplication, WebSite ] 
 - [ has_interaction_service :: SoftwareApplication, WebSite ] 
 
 The WebSite or SoftwareApplication where the interactions took place.

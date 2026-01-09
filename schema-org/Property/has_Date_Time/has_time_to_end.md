@@ -34,7 +34,7 @@ MerchantReturnPolicySeasonalOverride, Role, Schedule.
 
 Use it like this: 
 - [has_time_to_end::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/to_end::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/to_end::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The end date and time of the item (in [ISO 8601 date format](http://en.wikipedia.org/wiki/ISO_8601)).

@@ -28,7 +28,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/provider :: Organization, Person ]  
+- [has_/provider :: Organization, Person ] 
 - [ has_provider :: Organization, Person ] 
 
 The service provider, service operator, or service performer; the goods producer. 

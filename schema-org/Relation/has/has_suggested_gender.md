@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/suggested_gender :: GenderType, Text ]  
+- [has_/suggested_gender :: GenderType, Text ] 
 - [ has_suggested_gender :: GenderType, Text ] 
 
 The suggested gender of the intended person or audience, for example "male", "female", or "unisex".

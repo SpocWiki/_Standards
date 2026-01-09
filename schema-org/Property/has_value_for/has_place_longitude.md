@@ -32,7 +32,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of GeoCoordinates, Place.
 
 Use it like this: 
-- [has_/place_/longitude :: Number, Text ]  
+- [has_/place_/longitude :: Number, Text ] 
 - [ has_place_longitude :: Number, Text ] 
 
 The longitude of a location. For example <code>-122.08585</code> (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>).

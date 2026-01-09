@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_of_/incentive_compensation :: Text ] 
+- [has_/text_of_/incentive_compensation :: Text ] 
 - [ has_text_of_incentive_compensation :: Text ] 
 
 Description of bonus and commission compensation aspects of the job.

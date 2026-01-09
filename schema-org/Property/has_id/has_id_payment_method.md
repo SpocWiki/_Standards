@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Invoice, Order.
 
 Use it like this: 
-- [ #has_/id_/payment_method :: Text ] 
+- [has_/id_/payment_method :: Text ] 
 - [ has_id_payment_method :: Text ] 
 
 An identifier for the method of payment used (e.g. the last 4 digits of the credit card).

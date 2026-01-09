@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/real_estate_agent :: RealEstateAgent ]  
+- [has_/real_estate_agent :: RealEstateAgent ] 
 - [ has_real_estate_agent :: RealEstateAgent ] 
 
 A sub property of participant. The real estate agent involved in the action.

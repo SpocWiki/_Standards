@@ -31,7 +31,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of DrugStrength.
 
 Use it like this: 
-- [has_/value_for_/strength :: Number ]  
+- [has_/value_for_/strength :: Number ] 
 - [ has_value_for_strength :: Number ] 
 
 The value of an active ingredient's strength, e.g. 325.

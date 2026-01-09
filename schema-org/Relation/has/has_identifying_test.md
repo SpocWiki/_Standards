@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/identifying_test :: MedicalTest ]  
+- [has_/identifying_test :: MedicalTest ] 
 - [ has_identifying_test :: MedicalTest ] 
 
 A diagnostic test that can identify this sign.

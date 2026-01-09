@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of Vehicle.
 
 Use it like this: 
-- [has_/number_of_/vehicle_seating_capacity :: Number, QuantitativeValue ]  
+- [has_/number_of_/vehicle_seating_capacity :: Number, QuantitativeValue ] 
 - [ has_number_of_vehicle_seating_capacity :: Number, QuantitativeValue ] 
 
 The number of passengers that can be seated in the vehicle, both in terms of the physical space available, and in terms of limitations set by law.

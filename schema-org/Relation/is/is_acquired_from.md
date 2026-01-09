@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/acquired_from :: Organization, Person ]  
+- [is_/acquired_from :: Organization, Person ] 
 - [ is_acquired_from :: Organization, Person ] 
 
 The organization or person from which the product was acquired.

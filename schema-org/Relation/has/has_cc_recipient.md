@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/cc_recipient :: ContactPoint, Organization, Person ]  
+- [has_/cc_recipient :: ContactPoint, Organization, Person ] 
 - [ has_cc_recipient :: ContactPoint, Organization, Person ] 
 
 A sub property of recipient. The recipient copied on a message.

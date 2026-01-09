@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/reservation_for :: [Thing](../../../Class/Thing.md) ]  
+- [has_/reservation_for :: [Thing](../../../Class/Thing.md) ] 
 - [ has_reservation_for :: [Thing](../../../Class/Thing.md) ] 
 
 The thing -- flight, event, restaurant, etc. being reserved.

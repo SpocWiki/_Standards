@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/recorded_in :: CreativeWork ]  
+- [has_/recorded_in :: CreativeWork ] 
 - [ has_recorded_in :: CreativeWork ] 
 
 The CreativeWork that captured all or part of this Event.

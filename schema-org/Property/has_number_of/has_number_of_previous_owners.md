@@ -32,7 +32,7 @@ Predicate to describe the Number of owners of the vehicle,
 including the current one.
 
 Use it like this: 
-- [has_/number_of_/previous_owners :: Number, QuantitativeValue ]  
+- [has_/number_of_/previous_owners :: Number, QuantitativeValue ] 
 - [ has_number_of_previous_owners :: Number, QuantitativeValue ] 
 
 

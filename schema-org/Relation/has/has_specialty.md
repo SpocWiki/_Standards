@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/specialty :: Specialty ]  
+- [has_/specialty :: Specialty ] 
 - [ has_specialty :: Specialty ] 
 
 One of the domain specialities to which this web page's content applies.

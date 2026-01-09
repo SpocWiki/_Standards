@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/relevant_occupation :: Occupation ]  
+- [has_/relevant_occupation :: Occupation ] 
 - [ has_relevant_occupation :: Occupation ] 
 
 The Occupation for the JobPosting.

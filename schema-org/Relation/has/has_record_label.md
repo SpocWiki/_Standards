@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/record_label :: Organization ]  
+- [has_/record_label :: Organization ] 
 - [ has_record_label :: Organization ] 
 
 The label that issued the release.

@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- [ #has_/text_of_/target_platform :: Text ] 
+- [has_/text_of_/target_platform :: Text ] 
 - [ has_text_of_target_platform :: Text ] 
 
 Type of app development: phone, Metro style, desktop, XBox, etc.

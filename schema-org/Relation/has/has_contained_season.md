@@ -33,7 +33,7 @@ type: Predi_Relation
 A season that is part of the media series.
 
 Use it like this: 
-- [ #has_/contained_season :: [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]] ] 
+- [has_/contained_season :: [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]] ] 
 - [ has_contained_season :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] ] 
 
 [[../../Relation|Relation]] describes that: 

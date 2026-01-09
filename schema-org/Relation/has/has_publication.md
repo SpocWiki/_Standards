@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/publication :: PublicationEvent ]  
+- [has_/publication :: PublicationEvent ] 
 - [ has_publication :: PublicationEvent ] 
 
 A publication event associated with the item.

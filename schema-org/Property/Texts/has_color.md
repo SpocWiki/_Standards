@@ -30,7 +30,7 @@ type: Pred_Text
 Predicate to describe the Text of Product.
 
 Use it like this: 
-- [ #has_/text_of_/color :: Text ] 
+- [has_/text_of_/color :: Text ] 
 - [ has_text_of_color :: Text ] 
 
 The color of the product.

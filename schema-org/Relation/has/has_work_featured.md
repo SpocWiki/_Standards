@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/work_featured :: CreativeWork ]  
+- [has_/work_featured :: CreativeWork ] 
 - [ has_work_featured :: CreativeWork ] 
 
 A work featured in some event, e.g. exhibited in an ExhibitionEvent.

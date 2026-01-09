@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/following :: Person ]  
+- [is_/following :: Person ] 
 - [ is_following :: Person ] 
 
 The most generic uni-directional social relation.

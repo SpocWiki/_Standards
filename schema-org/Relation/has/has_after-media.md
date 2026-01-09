@@ -34,7 +34,7 @@ type: Predi_Relation
 
 
 Use it like this: 
-- [has_/after_media :: MediaObject, URL ]  
+- [has_/after_media :: MediaObject, URL ] 
 - [ has_after_media :: MediaObject, URL ] 
 
 A media object representing the circumstances after performing this direction.

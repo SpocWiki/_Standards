@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/tributary :: AnatomicalStructure ]  
+- [has_/tributary :: AnatomicalStructure ] 
 - [ has_tributary :: AnatomicalStructure ] 
 
 The anatomical or organ system that the vein flows into; a larger structure that the vein connects to.

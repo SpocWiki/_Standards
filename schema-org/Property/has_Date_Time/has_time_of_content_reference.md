@@ -32,7 +32,7 @@ Predicate to describe the time of CreativeWork.
 
 Use it like this: 
 - [has_time_of_content_reference::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/of_content_reference::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/of_content_reference::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The specific time described by a creative work, for works (e.g. articles, video objects etc.) that emphasise a particular moment within an Event.

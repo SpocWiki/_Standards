@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalProcedure.
 
 Use it like this: 
-- [ #has_/text_of_/how_performed :: Text ] 
+- [has_/text_of_/how_performed :: Text ] 
 - [ has_text_of_how_performed :: Text ] 
 
 How the procedure is performed.

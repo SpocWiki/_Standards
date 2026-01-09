@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/keywords :: DefinedTerm, Text, URL ]  
+- [has_/keywords :: DefinedTerm, Text, URL ] 
 - [ has_keywords :: DefinedTerm, Text, URL ] 
 
 Keywords or tags used to describe some item. Multiple textual entries in a keywords list are typically delimited by commas, or by repeating the property.

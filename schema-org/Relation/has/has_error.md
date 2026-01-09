@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/error :: [Thing](../../../Class/Thing.md) ]  
+- [has_/error :: [Thing](../../../Class/Thing.md) ] 
 - [ has_error :: [Thing](../../../Class/Thing.md) ] 
 
 For failed actions, more information on the cause of the failure.

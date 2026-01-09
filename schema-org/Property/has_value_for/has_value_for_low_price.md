@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of AggregateOffer.
 
 Use it like this: 
-- [has_/value_for_/low_price :: Number, Text ]  
+- [has_/value_for_/low_price :: Number, Text ] 
 - [ has_value_for_low_price :: Number, Text ] 
 
 The lowest price of all offers available.

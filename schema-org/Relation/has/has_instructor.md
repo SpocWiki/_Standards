@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/instructor :: Person ]  
+- [has_/instructor :: Person ] 
 - [ has_instructor :: Person ] 
 
 A person assigned to instruct or provide instructional assistance for the [[CourseInstance]].

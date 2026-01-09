@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/payment_status :: PaymentStatusType, Text ]  
+- [has_/payment_status :: PaymentStatusType, Text ] 
 - [ has_payment_status :: PaymentStatusType, Text ] 
 
 The status of payment; whether the invoice has been paid or not.

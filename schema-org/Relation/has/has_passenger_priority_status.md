@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/passenger_priority_status :: QualitativeValue, Text ]  
+- [has_/passenger_priority_status :: QualitativeValue, Text ] 
 - [ has_passenger_priority_status :: QualitativeValue, Text ] 
 
 The priority status assigned to a passenger for security or boarding (e.g. FastTrack or Priority).

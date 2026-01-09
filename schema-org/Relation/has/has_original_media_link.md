@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/original_media_link :: MediaObject, URL, WebPage ]  
+- [has_/original_media_link :: MediaObject, URL, WebPage ] 
 - [ has_original_media_link :: MediaObject, URL, WebPage ] 
 
 Link to the page containing an original version of the content, or directly to an online copy of the original [[MediaObject]] content, e.g. video file.

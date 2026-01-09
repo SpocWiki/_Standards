@@ -32,7 +32,7 @@ Predicate to describe the Number of Schedule.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/number_of_/repeats :: Integer ]  
+- [has_/number_of_/repeats :: Integer ] 
 - [ has_number_of_repeats :: Integer ] 
 
 Defines the number of times a recurring [[Event]] will take place.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/book_format :: BookFormatType ]  
+- [has_/book_format :: BookFormatType ] 
 - [ has_book_format :: BookFormatType ] 
 
 The format of the book.

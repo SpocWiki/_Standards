@@ -31,7 +31,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of PropertyValueSpecification.
 
 Use it like this: 
-- [has_/value_for_/step :: Number ]  
+- [has_/value_for_/step :: Number ] 
 - [ has_value_for_step :: Number ] 
 
 The stepValue attribute indicates the granularity that is expected (and required) of the value in a PropertyValueSpecification.

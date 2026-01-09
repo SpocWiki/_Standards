@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/study :: MedicalStudy ]  
+- [has_/study :: MedicalStudy ] 
 - [ has_study :: MedicalStudy ] 
 
 A medical study or trial related to this entity.

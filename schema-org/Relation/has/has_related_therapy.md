@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/related_therapy :: MedicalTherapy ]  
+- [has_/related_therapy :: MedicalTherapy ] 
 - [ has_related_therapy :: MedicalTherapy ] 
 
 A medical therapy related to this anatomy.

@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/action_application :: [[../../../Society/Communication/Media/Creative_Work/Software_Application]] ] 
+- [has_/action_application :: [[../../../Society/Communication/Media/Creative_Work/Software_Application]] ] 
 - [ has_action_application :: [[../../../Society/Communication/Media/Creative_Work/Software_Application]] ] 
 
 An application that can complete the request.

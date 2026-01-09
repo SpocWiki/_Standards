@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/medicine_system :: MedicineSystem ]  
+- [has_/medicine_system :: MedicineSystem ] 
 - [ has_medicine_system :: MedicineSystem ] 
 
 The system of medicine that includes this MedicalEntity, for example 'evidence-based', 'homeopathic', 'chiropractic', etc.

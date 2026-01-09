@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Audience.
 
 Use it like this: 
-- [ #has_/text_of_/audience_type :: Text ] 
+- [has_/text_of_/audience_type :: Text ] 
 - [ has_text_of_audience_type :: Text ] 
 
 The target group associated with a given audience (e.g. veterans, car owners, musicians, etc.).

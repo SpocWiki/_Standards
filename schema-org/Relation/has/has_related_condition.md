@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/related_condition :: MedicalCondition ]  
+- [has_/related_condition :: MedicalCondition ] 
 - [ has_related_condition :: MedicalCondition ] 
 
 A medical condition associated with this anatomy.

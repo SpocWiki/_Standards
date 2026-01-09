@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of DoseSchedule.
 
 Use it like this: 
-- [ #has_/text_of_/dose_unit :: Text ] 
+- [has_/text_of_/dose_unit :: Text ] 
 - [ has_text_of_dose_unit :: Text ] 
 
 The unit of the dose, e.g. "mg".

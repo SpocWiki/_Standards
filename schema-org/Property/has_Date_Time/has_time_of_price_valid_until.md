@@ -30,7 +30,7 @@ Predicate to describe the date of Offer.
 
 Use it like this: 
 - [has_time_of_price_valid_until::P#Y#M#W#DT#H#M#s.fff] 
-- [ #has_/time_/of_price_valid_until::P#Y#M#W#DT#H#M#s.fff] 
+- [has_/time_/of_price_valid_until::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date after which the price is no longer available.

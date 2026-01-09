@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/nutrition :: NutritionInformation ]  
+- [has_/nutrition :: NutritionInformation ] 
 - [ has_nutrition :: NutritionInformation ] 
 
 Nutrition information about the recipe or menu item.

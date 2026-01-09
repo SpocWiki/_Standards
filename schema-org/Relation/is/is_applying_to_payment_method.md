@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/applying_to_payment_method :: PaymentMethod]  
+- [is_/applying_to_payment_method :: PaymentMethod] 
 - [ is_applying_to_payment_method :: PaymentMethod] 
 
 The payment method(s) to which the payment charge specification applies.

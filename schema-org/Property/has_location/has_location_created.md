@@ -33,7 +33,7 @@ type: Pred_geo
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- [ #has_/location_/created :: Place ] 
+- [has_/location_/created :: Place ] 
 - [ has_location_created :: Place ] 
 
 The location where the CreativeWork was created, which may not be the same as the location depicted in the CreativeWork.

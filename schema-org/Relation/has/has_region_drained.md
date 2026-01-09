@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/region_drained :: AnatomicalStructure, AnatomicalSystem ]  
+- [has_/region_drained :: AnatomicalStructure, AnatomicalSystem ] 
 - [ has_region_drained :: AnatomicalStructure, AnatomicalSystem ] 
 
 The anatomical or organ system drained by this vessel; generally refers to a specific part of an organ.

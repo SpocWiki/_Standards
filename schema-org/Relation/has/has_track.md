@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/track :: ItemList, MusicRecording ]  
+- [has_/track :: ItemList, MusicRecording ] 
 - [ has_track :: ItemList, MusicRecording ] 
 
 A music recording (track)&amp;#x2014;usually a single song. If an ItemList is given, the list should contain items of type MusicRecording.

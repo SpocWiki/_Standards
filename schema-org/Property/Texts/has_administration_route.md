@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_of_/administration_route :: Text ] 
+- [has_/text_of_/administration_route :: Text ] 
 - [ has_text_of_administration_route :: Text ] 
 
 A route by which this drug may be administered, e.g. "oral".

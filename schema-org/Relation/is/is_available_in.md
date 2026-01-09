@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/available_in :: AdministrativeArea]  
+- [is_/available_in :: AdministrativeArea] 
 - [ is_available_in :: AdministrativeArea] 
 
 The location in which the strength is available.

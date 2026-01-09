@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/potential_action :: Action ]  
+- [has_/potential_action :: Action ] 
 - [ has_potential_action :: Action ] 
 
 Indicates a potential Action, which describes an idealized action in which this thing would play an 'object' role.

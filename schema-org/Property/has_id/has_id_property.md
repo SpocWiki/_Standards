@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of PropertyValue.
 
 Use it like this: 
-- [ #has_/id_/property :: Text, URL ] 
+- [has_/id_/property :: Text, URL ] 
 - [ has_id_property :: Text, URL ] 
 
 A commonly used identifier for the characteristic represented by the property, e.g. a manufacturer or a standard code for a property. propertyID can be

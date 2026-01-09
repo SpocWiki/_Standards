@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- [ #has_/text_of_/musical_key :: Text ] 
+- [has_/text_of_/musical_key :: Text ] 
 - [ has_text_of_musical_key :: Text ] 
 
 The key, mode, or scale this composition uses.

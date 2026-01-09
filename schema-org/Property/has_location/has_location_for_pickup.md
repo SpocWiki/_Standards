@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of RentalCarReservation, TaxiReservation.
 
 Use it like this: 
-- [ #has_/location_/for_pickup :: Place ] 
+- [has_/location_/for_pickup :: Place ] 
 - [ has_location_for_pickup :: Place ] 
 
 Where a taxi will pick up a passenger or a rental car can be picked up.

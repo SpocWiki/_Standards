@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/model :: ProductModel, Text ]  
+- [has_/model :: ProductModel, Text ] 
 - [ has_model :: ProductModel, Text ] 
 
 The model of the product. 

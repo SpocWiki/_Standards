@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/disease_spread_statistics :: Dataset, Observation, URL, WebContent ]  
+- [has_/disease_spread_statistics :: Dataset, Observation, URL, WebContent ] 
 - [ has_disease_spread_statistics :: Dataset, Observation, URL, WebContent ] 
 
 Statistical information about the spread of a disease, either as [[WebContent]], or

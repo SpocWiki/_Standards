@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/album_release_type :: MusicAlbumReleaseType ]  
+- [has_/album_release_type :: MusicAlbumReleaseType ] 
 - [ has_album_release_type :: MusicAlbumReleaseType ] 
 
 The kind of release which this album is: single, EP or album.

@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/item_list_element :: ListItem, Text, Thing ]  
+- [has_/item_list_element :: ListItem, Text, Thing ] 
 - [ has_item_list_element :: ListItem, Text, Thing ] 
 
 For itemListElement values, you can use simple strings (e.g. "Peter", "Paul", "Mary"), existing entities, or use ListItem.

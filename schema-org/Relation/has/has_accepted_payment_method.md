@@ -31,7 +31,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/accepted_payment_method :: LoanOrCredit, PaymentMethod ]  
+- [has_/accepted_payment_method :: LoanOrCredit, PaymentMethod ] 
 - [ has_accepted_payment_method :: LoanOrCredit, PaymentMethod ] 
 
 The payment method(s) accepted by seller for this offer.

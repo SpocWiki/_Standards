@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/lodging_unit_type :: QualitativeValue, Text ]  
+- [has_/lodging_unit_type :: QualitativeValue, Text ] 
 - [ has_lodging_unit_type :: QualitativeValue, Text ] 
 
 Textual description of the unit type (including suite vs. room, size of bed, etc.).

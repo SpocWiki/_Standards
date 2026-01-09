@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_of_/release_notes :: Text, URL ] 
+- [has_/text_of_/release_notes :: Text, URL ] 
 - [ has_text_of_release_notes :: Text, URL ] 
 
 Description of what changed in this version.

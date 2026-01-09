@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/character_attribute :: [Thing](../../../Class/Thing.md) ]  
+- [has_/character_attribute :: [Thing](../../../Class/Thing.md) ] 
 - [ has_character_attribute :: [Thing](../../../Class/Thing.md) ] 
 
 A piece of data that represents a particular aspect of a fictional character (skill, power, character points, advantage, disadvantage).

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/medical_specialty :: MedicalSpecialty ]  
+- [has_/medical_specialty :: MedicalSpecialty ] 
 - [ has_medical_specialty :: MedicalSpecialty ] 
 
 A medical specialty of the provider.

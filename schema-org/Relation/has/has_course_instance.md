@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/course_instance :: CourseInstance ]  
+- [has_/course_instance :: CourseInstance ] 
 - [ has_course_instance :: CourseInstance ] 
 
 An offering of the course at a specific time and place or through specific media or mode of study or to a specific section of students.

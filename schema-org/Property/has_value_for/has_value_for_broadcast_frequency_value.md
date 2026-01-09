@@ -31,7 +31,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of BroadcastFrequencySpecification.
 
 Use it like this: 
-- [has_/value_for_/broadcast_frequency :: Number, QuantitativeValue ]  
+- [has_/value_for_/broadcast_frequency :: Number, QuantitativeValue ] 
 - [ has_value_for_broadcast_frequency :: Number, QuantitativeValue ] 
 
 The frequency in MHz for a particular broadcast.

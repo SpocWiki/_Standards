@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/suitable_for_diet :: RestrictedDiet ]  
+- [is_/suitable_for_diet :: RestrictedDiet ] 
 - [ is_suitable_for_diet :: RestrictedDiet ] 
 
 Indicates a dietary restriction or guideline for which this recipe or menu item is suitable, e.g. diabetic, halal etc.

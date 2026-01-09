@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [has_/vehicle_special_usage :: CarUsageType, Text ]  
+- [has_/vehicle_special_usage :: CarUsageType, Text ] 
 - [ has_vehicle_special_usage :: CarUsageType, Text ] 
 
 Indicates whether the vehicle has been used for special purposes, like commercial rental, driving school, or as a taxi. The legislation in many countries requires this information to be revealed when offering a car for sale.

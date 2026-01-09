@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/cause_of :: MedicalEntity ]  
+- [has_/cause_of :: MedicalEntity ] 
 - [ has_cause_of :: MedicalEntity ] 
 
 The condition, complication, symptom, sign, etc. caused.

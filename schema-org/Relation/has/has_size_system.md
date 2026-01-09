@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/size_system :: SizeSystemEnumeration, Text ]  
+- [has_/size_system :: SizeSystemEnumeration, Text ] 
 - [ has_size_system :: SizeSystemEnumeration, Text ] 
 
 The size system used to identify a product's size. Typically either a standard (for example, "GS1" or "ISO-EN13402"), country code (for example "US" or "JP"), or a measuring system (for example "Metric" or "Imperial").

@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalCondition, PhysicalActivity.
 
 Use it like this: 
-- [ #has_/text_of_/epidemiology :: Text ] 
+- [has_/text_of_/epidemiology :: Text ] 
 - [ has_text_of_epidemiology :: Text ] 
 
 The characteristics of associated patients, such as age, gender, race etc.

@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/candidate :: Person ]  
+- [has_/candidate :: Person ] 
 - [ has_candidate :: Person ] 
 
 A sub property of object. The candidate subject of this action.
