@@ -8,7 +8,7 @@ subclass_of:
   - "[[_Standards/WikiData/WD~halogen compound,26492894]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Category_Organohalides,9013830]]"
 instance_of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
-SMARTS_notation: "[#6][F,Cl,Br,I]"
+SMARTS_notation: "[6][F,Cl,Br,I]"
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/ORGANICHESKIE_GALOGENIDI.html
 Commons_category: Organohalides
 ---

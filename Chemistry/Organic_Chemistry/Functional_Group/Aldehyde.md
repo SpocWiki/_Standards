@@ -37,7 +37,7 @@ part_of:
   - "[[_Standards/WikiData/WD~cellular_response_to_aldehyde,50351478]]"
 instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 OmegaWiki_Defined_Meaning: 427547
-SMARTS_notation: "[CX3H1](=O)[#6]"
+SMARTS_notation: "[CX3H1](=O)[6]"
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Aldehyd%20-%20Aldehyde.svg
 canonical_SMILES: "[H]C([*])=O"
 CXSMILES: "[H]C([*])=O |$;;R$|"

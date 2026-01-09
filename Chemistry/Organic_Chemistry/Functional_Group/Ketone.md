@@ -25,7 +25,7 @@ part_of:
   - "[[_Standards/WikiData/WD~response_to_ketone,22273396]]"
   - "[[_Standards/WikiData/WD~ketone_biosynthetic_process,22274645]]"
   - "[[_Standards/WikiData/WD~secondary_alcohol_oxidase_activity,22318301]]"
-SMARTS_notation: "[#6][CX3](=O)[#6]"
+SMARTS_notation: "[6][CX3](=O)[6]"
 subclass_of: "[[_Standards/WikiData/WD~carbonyl_compound,9392635]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ketones,62683903]]"
 UMLS_CUI: C0022634

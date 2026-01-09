@@ -43,7 +43,7 @@ part_of:
   - "[[_Standards/WikiData/WD~alcohol_O-cinnamoyltransferase_activity,22323548]]"
   - "[[_Standards/WikiData/WD~alkylhydroperoxide_reductase_activity,27124193]]"
   - "[[_Standards/WikiData/WD~thioredoxin-dependent_peroxiredoxin_activity,112998382]]"
-SMARTS_notation: "[$([#6][OX2H1]);!$([#6]=O);!$([#6]=S);!$([#6]=[Se])]"
+SMARTS_notation: "[$([6][OX2H1]);!$([6]=O);!$([6]=S);!$([6]=[Se])]"
 subclass_of:
   - "[[_Standards/WikiData/WD~organic_hydroxy_compound,71419357]]"
   - "[[_Standards/WikiData/WD~organooxygen_compound,71574018]]"

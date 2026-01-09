@@ -17,7 +17,7 @@ part_of:
   - '[[_Standards/WikiData/WD~diol_catabolic_process,22275953]]'
 instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 OmegaWiki_Defined_Meaning: 1273900
-SMARTS_notation: '[$([#6]);!$([#6][OX2H1])][#6]([OX2H1])[#6]([OX2H1])[$([#6]);!$([#6][OX2H1])]'
+SMARTS_notation: '[$([6]);!$([6][OX2H1])][6]([OX2H1])[6]([OX2H1])[$([6]);!$([6][OX2H1])]'
 Commons_category: Diols
 ---
 

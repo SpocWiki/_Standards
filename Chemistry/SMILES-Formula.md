@@ -45,7 +45,7 @@ SMILES for [ethanol](https://en.wikipedia.org/wiki/Ethanol "Ethanol") may be w
 | --- | ------- | ------------------------------------------------ |
 | .   | 0       | `[Na+].[Cl-]`                                    |
 | -   | 1       | H-H often omitted in H2                          |
-| / \ | 1       | `F/C=C/F` and `F/C=C\F` for [[#Stereochemistry]] |
+| / \ | 1       | `F/C=C/F` and `F/C=C\F` for [[Stereochemistry]] |
 | :   | 1.5     | C:1:C:C:C:C:C1 for aromatic bonds like Benzene   |
 | =   | 2       | O=C=O                                            |
 | #   | 3       | C#N or HC#N for Hydrogencyanide                  |

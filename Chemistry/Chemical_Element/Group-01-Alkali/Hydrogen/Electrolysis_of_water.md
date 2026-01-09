@@ -25,7 +25,7 @@ Instead of mechanical pressure, you can just create the
 ### Separation of Oxygen and Hydrogen 
 
 Use a Membrane to avoid contamination, which could lead to an explosive Mixture. 
-Rather vent some Hydrogen, reducing [[#Efficiency]]. 
+Rather vent some Hydrogen, reducing [[Efficiency]]. 
 
 
 

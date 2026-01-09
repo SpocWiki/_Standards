@@ -27,7 +27,7 @@ subclass_of: "[[_Standards/WikiData/WD~organooxygen_compound,71574018]]"
 OmegaWiki_Defined_Meaning: 427571
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Ether-%28general%29.svg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Ether.svg
-SMARTS_notation: "[#6!$([#6]=[!#6])][OX2][#6!$([#6]=[!#6])]"
+SMARTS_notation: "[6!$([#6]=[!#6])][OX2][6!$([#6]=[!#6])]"
 MeSH_tree_code: D02.355
 Commons_category: Ethers
 Krugosvet_article: nauka_i_tehnika/himiya/PROSTIE_EFIRI.html

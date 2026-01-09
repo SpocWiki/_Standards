@@ -69,16 +69,16 @@ ZVG_number: 7750
 Group::[[../Group-07-Manganese]]
 
 
-[#has_/name_/en::Rhenium]
-[#has_/name_/de::Rhenium]
-[#has_/value_for_/weight_/u::186.207]
+[has_/name_/en::Rhenium]
+[has_/name_/de::Rhenium]
+[has_/value_for_/weight_/u::186.207]
 [AtomRadius::1.97]
 [Atom-Vol-ccm-mol::8.85]
 [Unknown2::1.28]
-[#has_/value_for_/radius_/nano_/m::7.88]
+[has_/value_for_/radius_/nano_/m::7.88]
 [Electronegative::1.9]
 [Density::21]
-[#has_/value_for_/temperature_/melt_/c ::3180]
+[has_/value_for_/temperature_/melt_/c ::3180]
 [HeatCapacity::0.13]
 [HeatConduct::0.479]
 [Enthalpy::33.2]
@@ -96,7 +96,7 @@ Group::[[../Group-07-Manganese]]
 > rhenium is one of the rarest elements in the Earth's crust. 
 > 
 > Rhenium has the third-highest melting point 
-> and second-highest boiling point of any element at [#has_/value_for_/temperature_/boil_/c ::5869]°C. 
+> and second-highest boiling point of any element at [has_/value_for_/temperature_/boil_/c ::5869]°C. 
 > 
 > Rhenium resembles manganese and technetium chemically and is mainly obtained as a by-product of the extraction and refinement of molybdenum and copper ores. Rhenium shows in its compounds a wide variety of oxidation states ranging from −1 to +7.
 >

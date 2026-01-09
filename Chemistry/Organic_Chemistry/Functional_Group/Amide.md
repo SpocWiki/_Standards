@@ -29,7 +29,7 @@ Dewey_Decimal_Classification:
   - "547.042"
   - "661.894"
 CXSMILES: "[*]N([*])[*] |$R1;;R2;Acyl_p$|"
-SMARTS_notation: "[NX3][CX3](=[OX1])[#6]"
+SMARTS_notation: "[NX3][CX3](=[OX1])[6]"
 Commons_category: Amides
 UMLS_CUI: C0002482
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/AMIDI.html

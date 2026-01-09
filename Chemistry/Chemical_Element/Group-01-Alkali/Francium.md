@@ -60,18 +60,18 @@ UNII: 15TEQ7D2QF
 Group::[[../Group-01-Alkali]]
 
 
-[#has_/name_/en::Francium]
-[#has_/name_/de::Francium]
+#has_/name_/en::Francium
+#has_/name_/de::Francium
 
-[#has_/value_for_/weight_/u::223]
+#has_/value_for_/weight_/u::223
 [AtomRadius::0]
 Atom_vol_/ccm_/mol::0 
 [Unknown2::0]
-[#has_/value_for_/radius_/nano_/m::0]
+#has_/value_for_/radius_/nano_/m::0
 [Electronegative::0.7]
 [Density::0]
-[#has_/value_for_/temperature_/melt_/c ::27]
-[#has_/value_for_/temperature_/boil_/c ::677]
+#has_/value_for_/temperature_/melt_/c ::27
+#has_/value_for_/temperature_/boil_/c ::677
 [HeatCapacity::0]
 [HeatConduct::0.15]
 [Enthalpy::0]
