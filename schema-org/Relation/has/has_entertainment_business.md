@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/entertainment_business :: EntertainmentBusiness ] or 
+- [has_/entertainment_business :: EntertainmentBusiness ]  
 - [ has_entertainment_business :: EntertainmentBusiness ] 
 
 A sub property of location. The entertainment business where the action occurred.

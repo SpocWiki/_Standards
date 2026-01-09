@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/referencing_order :: Order] or 
+- [is_/referencing_order :: Order]  
 - [ is_referencing_order :: Order] 
 
 The Order(s) related to this Invoice. One or more Orders may be combined into a single Invoice.

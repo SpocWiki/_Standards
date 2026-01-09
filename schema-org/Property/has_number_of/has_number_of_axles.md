@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of Vehicle.
 
 Use it like this: 
-- [ #has_/number_of_/axles :: Number, QuantitativeValue ] or 
+- [has_/number_of_/axles :: Number, QuantitativeValue ]  
 - [ has_number_of_axles :: Number, QuantitativeValue ] 
 
 The number of axles.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/typical_test :: MedicalTest ] or 
+- [has_/typical_test :: MedicalTest ]  
 - [ has_typical_test :: MedicalTest ] 
 
 A medical test typically performed given this condition.

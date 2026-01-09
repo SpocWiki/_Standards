@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/type_of_good :: Product, Service ] or 
+- [has_/type_of_good :: Product, Service ]  
 - [ has_type_of_good :: Product, Service ] 
 
 The product that this structured value is referring to.

@@ -33,7 +33,7 @@ Indicates a [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/toc_entry :: [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]] ] or 
+- [ #has_/toc_entry :: [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]] ] 
 - [ has_toc_entry :: [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] ] 
 
 Relation describes that: 

@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- [ #has_/id_/iswc :: Text ] or 
+- [ #has_/id_/iswc :: Text ] 
 - [ has_id_iswc :: Text ] 
 
 The International Standard Musical Work Code for the composition.

@@ -29,7 +29,7 @@ type: Predi_Duration
 Predicate to describe the Duration of Recipe.
 
 Use it like this: 
-- [has_duration_of_cooking::P#Y#M#W#DT#H#M#s.fff] or 
+- [has_duration_of_cooking::P#Y#M#W#DT#H#M#s.fff] 
 - [ #has_/duration_/of_cooking::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The time it takes to actually cook the dish, in [ISO 8601 duration format](http://en.wikipedia.org/wiki/ISO_8601).

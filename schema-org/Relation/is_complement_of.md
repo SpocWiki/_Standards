@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_/different_from :: [[is_inverse_of]] 
 
 Use it like this: 
-- [ #is_/complement_of :: Property] or 
+- [is_/complement_of :: Property]  
 - [ is_complement_of :: Property] 
 
 In lack of a better term this is often used to relate 

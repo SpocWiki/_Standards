@@ -35,7 +35,7 @@ Predicate to describe the Text of BusOrCoach, Car.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [ #has_/code_/acriss :: Text ] or 
+- [ #has_/code_/acriss :: Text ] 
 - [ has_code_acriss :: Text ] 
 
 The ACRISS Car Classification Code is a code 

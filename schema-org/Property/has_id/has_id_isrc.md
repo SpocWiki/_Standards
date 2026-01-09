@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of MusicRecording.
 
 Use it like this: 
-- [ #has_/id_/isrc_code :: Text ] or 
+- [ #has_/id_/isrc_code :: Text ] 
 - [ has_id_isrc_code :: Text ] 
 
 The International Standard Recording Code for the recording.

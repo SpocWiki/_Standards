@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/album_production_type :: MusicAlbumProductionType ] or 
+- [has_/album_production_type :: MusicAlbumProductionType ]  
 - [ has_album_production_type :: MusicAlbumProductionType ] 
 
 Classification of the album by its type of content: soundtrack, live album, studio album, etc.

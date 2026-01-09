@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/video :: Clip, VideoObject ] or 
+- [has_/video :: Clip, VideoObject ]  
 - [ has_video :: Clip, VideoObject ] 
 
 An embedded video object.

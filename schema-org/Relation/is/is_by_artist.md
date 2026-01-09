@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/by_artist :: MusicGroup, Person ] or 
+- [is_/by_artist :: MusicGroup, Person ]  
 - [ is_by_artist :: MusicGroup, Person ] 
 
 The artist that performed this album or recording.

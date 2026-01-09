@@ -29,8 +29,9 @@ type: Predi_time_Time
 Predicate to describe the time of LodgingBusiness, LodgingReservation.
 
 Use it like this: 
-- [has_time_of_checkin_time::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/of_checkin_time::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_of_checkin_time::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/of_checkin_time::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The earliest someone may check into a lodging establishment.
 

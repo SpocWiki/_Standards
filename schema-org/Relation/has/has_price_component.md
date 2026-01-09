@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/price_component :: UnitPriceSpecification ] or 
+- [has_/price_component :: UnitPriceSpecification ]  
 - [ has_price_component :: UnitPriceSpecification ] 
 
 This property links to all [[UnitPriceSpecification]] nodes that apply in parallel for the [[CompoundPriceSpecification]] node.

@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/encoding_creative_work :: CreativeWork] or 
+- [is_/encoding_creative_work :: CreativeWork]  
 - [ is_encoding_creative_work :: CreativeWork] 
 
 The CreativeWork encoded by this media object.

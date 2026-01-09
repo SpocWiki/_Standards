@@ -31,7 +31,7 @@ type: Predi_Relation
 Url of a resource from which this work is derived or from which it is a modification or adaption.
 
 Use it like this: 
-- [ #is_/based_on :: CreativeWork, Product, URL] or 
+- [is_/based_on :: CreativeWork, Product, URL]  
 - [ is_based_on :: CreativeWork, Product, URL] 
 
 Relation describes that: 

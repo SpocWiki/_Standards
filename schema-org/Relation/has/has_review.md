@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/review :: [[../../../Society/Communication/Media/Creative_Work/Review|Review]] ] or 
+- [ #has_/review :: [[../../../Society/Communication/Media/Creative_Work/Review|Review]] ] 
 - [ has_review :: [[../../Class/is_a_/creative_work/review|Review]] ] 
 
 A [[../../../Society/Communication/Media/Creative_Work/Review|review]] of the item.

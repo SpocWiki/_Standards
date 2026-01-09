@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/drug :: Drug ] or 
+- [has_/drug :: Drug ]  
 - [ has_drug :: Drug ] 
 
 Specifying a drug or medicine used in a medication procedure.

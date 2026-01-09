@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_of_/alternative_headline :: Text ] or 
+- [ #has_/text_of_/alternative_headline :: Text ] 
 - [ has_text_of_alternative_headline :: Text ] 
 
 A secondary title of the CreativeWork.

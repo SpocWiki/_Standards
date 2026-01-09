@@ -32,7 +32,7 @@ Predicate to describe the Quantity of BusOrCoach, Car.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [ #has_/value_for_/roof_load_in_kg :: QuantitativeValue ] or 
+- [has_/value_for_/roof_load_in_kg :: QuantitativeValue ]  
 - [ has_value_for_roof_load_in_kg :: QuantitativeValue ] 
 
 The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.

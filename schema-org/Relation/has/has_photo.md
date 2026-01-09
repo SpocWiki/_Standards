@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/photo :: ImageObject, Photograph ] or 
+- [has_/photo :: ImageObject, Photograph ]  
 - [ has_photo :: ImageObject, Photograph ] 
 
 A photograph of this place.

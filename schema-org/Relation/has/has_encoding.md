@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/encoding :: MediaObject ] or 
+- [has_/encoding :: MediaObject ]  
 - [ has_encoding :: MediaObject ] 
 
 A [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]] (book, audio-file, movie etc.) that encodes, i.e. 'contains' the [[CreativeWork]] Subject.

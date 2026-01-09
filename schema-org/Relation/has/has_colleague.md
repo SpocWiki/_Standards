@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/colleague :: Person, URL ] or 
+- [has_/colleague :: Person, URL ]  
 - [ has_colleague :: Person, URL ] 
 
 A colleague of the person.

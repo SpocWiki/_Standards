@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/applying_to_delivery_method :: DeliveryMethod] or 
+- [is_/applying_to_delivery_method :: DeliveryMethod]  
 - [ is_applying_to_delivery_method :: DeliveryMethod] 
 
 The delivery method(s) to which the delivery charge or payment charge specification applies.

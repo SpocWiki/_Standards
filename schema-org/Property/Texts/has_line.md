@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- [ #has_/text_of_/line :: Text ] or 
+- [ #has_/text_of_/line :: Text ] 
 - [ has_text_of_line :: Text ] 
 
 A line is a point-to-point path consisting of two or more points. A line is expressed as a series of two or more point objects separated by space.

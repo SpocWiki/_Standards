@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/rsvp_response :: RsvpResponseType ] or 
+- [has_/rsvp_response :: RsvpResponseType ]  
 - [ has_rsvp_response :: RsvpResponseType ] 
 
 The response (yes, no, maybe) to the RSVP.

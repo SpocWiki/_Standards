@@ -32,7 +32,7 @@ Predicate to specify the Url of OfferShippingDetails.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/url_for_/shipping_settings_link :: URL ] or 
+- [has_/url_for_/shipping_settings_link :: URL ]  
 - [ has_url_for_shipping_settings_link :: URL ] 
 
 Link to a page containing [[ShippingRateSettings]] and [[DeliveryTimeSettings]] details.

@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/available_strength :: DrugStrength ] or 
+- [has_/available_strength :: DrugStrength ]  
 - [ has_available_strength :: DrugStrength ] 
 
 An available dosage strength for the drug.

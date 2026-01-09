@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_of_/pregnancy_warning :: Text ] or 
+- [ #has_/text_of_/pregnancy_warning :: Text ] 
 - [ has_text_of_pregnancy_warning :: Text ] 
 
 Any precaution, guidance, contraindication, etc. related to this drug"s use during pregnancy.

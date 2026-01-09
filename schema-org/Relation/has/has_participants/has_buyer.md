@@ -30,7 +30,7 @@ type: Predi_Relation
 
 
 Use it like this: 
-- [ #has_/buyer :: Organization, Person ] or 
+- [has_/buyer :: Organization, Person ]  
 - [ has_buyer :: Organization, Person ] 
 
 A sub property of participant. The participant/person/organization that bought the object.

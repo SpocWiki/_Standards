@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Flight.
 
 Use it like this: 
-- [ #has_/value_for_/flight_distance_in_meters :: Distance, Text ] or 
+- [has_/value_for_/flight_distance_in_meters :: Distance, Text ]  
 - [ has_value_for_flight_distance_in_meters :: Distance, Text ] 
 
 The distance of the flight.

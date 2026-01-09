@@ -27,7 +27,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/masthead :: CreativeWork, URL ] or 
+- [has_/masthead :: CreativeWork, URL ]  
 - [ has_masthead :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]], a link to the masthead page or a page listing top editorial management.

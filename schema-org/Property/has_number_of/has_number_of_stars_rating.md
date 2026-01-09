@@ -44,7 +44,7 @@ The interpretation of each star can vary, but a general understanding is:
 The Rating can be mapped to an equivalent linear scale (although the Distribution is often Gaussian) using 20* Stars - 10%
 
 Use it like this: 
-- [ #has_/number_of_/stars_rating :: [[../../Class/is_a_/Intangible/rating|Rating]] ] or 
+- [ #has_/number_of_/stars_rating :: [[../../Class/is_a_/Intangible/rating|Rating]] ] 
 - [ has_number_of_stars_rating :: [[../../Class/is_a_/Intangible/rating|Rating]] ] 
 
 An official rating for a lodging business or food establishment, e.g. from national associations or standards bodies. 

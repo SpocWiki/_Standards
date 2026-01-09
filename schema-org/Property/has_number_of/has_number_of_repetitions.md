@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of ExercisePlan.
 
 Use it like this: 
-- [ #has_/number_of_/repetitions :: Number, QuantitativeValue ] or 
+- [has_/number_of_/repetitions :: Number, QuantitativeValue ]  
 - [ has_number_of_repetitions :: Number, QuantitativeValue ] 
 
 Number of times one should repeat the activity.

@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/status :: EventStatusType, MedicalStudyStatus, Text ] or 
+- [has_/status :: EventStatusType, MedicalStudyStatus, Text ]  
 - [ has_status :: EventStatusType, MedicalStudyStatus, Text ] 
 
 The status of the study (enumerated).

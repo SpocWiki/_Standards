@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/media_item_appearance :: MediaObject ] or 
+- [has_/media_item_appearance :: MediaObject ]  
 - [ has_media_item_appearance :: MediaObject ] 
 
 In the context of a [[MediaReview]], indicates specific media item(s) that are grouped using a [[MediaReviewItem]].

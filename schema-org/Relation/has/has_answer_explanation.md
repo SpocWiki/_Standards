@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/answer_explanation :: Comment, WebContent ] or 
+- [has_/answer_explanation :: Comment, WebContent ]  
 - [ has_answer_explanation :: Comment, WebContent ] 
 
 A step-by-step or full explanation about Answer. Can outline how this Answer was achieved or contain more broad clarification or statement about it.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/place_/map :: Map, URL ] or 
+- [has_/place_/map :: Map, URL ]  
 - [ has_place_map :: Map, URL ] 
 
 A URL to a map of the place.

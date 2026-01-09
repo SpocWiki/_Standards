@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/action_platform :: DigitalPlatformEnumeration, Text, URL ] or 
+- [has_/action_platform :: DigitalPlatformEnumeration, Text, URL ]  
 - [ has_action_platform :: DigitalPlatformEnumeration, Text, URL ] 
 
 The high level platform(s) where the Action can be performed for the given URL. To specify a specific application or operating system instance, use actionApplication.

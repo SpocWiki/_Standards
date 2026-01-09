@@ -34,7 +34,7 @@ Predicate to describe the Text of DataCatalog, DataDownload, Dataset, PropertyVa
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/measurement_technique :: Text, URL ] or 
+- [ #has_/text_of_/measurement_technique :: Text, URL ] 
 - [ has_text_of_measurement_technique :: Text, URL ] 
 
 A technique or technology used in a [[../../../Society/Communication/Media/Creative_Work/Dataset]] (or [[DataDownload]], [[DataCatalog]]),

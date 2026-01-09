@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/cost_category :: DrugCostCategory ] or 
+- [has_/cost_category :: DrugCostCategory ]  
 - [ has_cost_category :: DrugCostCategory ] 
 
 The category of cost, such as wholesale, retail, reimbursement cap, etc.

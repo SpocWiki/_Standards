@@ -36,7 +36,7 @@ The type of room can be put in the [[../Texts/has_unit_text|unitText]] property 
 
 
 Use it like this: 
-- [ #has_/number_of_/rooms :: Number, QuantitativeValue ] or 
+- [has_/number_of_/rooms :: Number, QuantitativeValue ]  
 - [ has_number_of_rooms :: Number, QuantitativeValue ] 
 
 Predicate describes that: 

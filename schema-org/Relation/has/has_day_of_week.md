@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/day_of_week :: DayOfWeek ] or 
+- [has_/day_of_week :: DayOfWeek ]  
 - [ has_day_of_week :: DayOfWeek ] 
 
 The day of the week for which these opening hours are valid.

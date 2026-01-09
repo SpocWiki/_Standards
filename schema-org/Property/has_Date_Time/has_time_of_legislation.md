@@ -31,8 +31,9 @@ Predicate to describe the date of Legislation.
 [is_part_of:: pending:]
 
 Use it like this: 
-- [has_time_of_legislation::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/of_legislation::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_of_legislation::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/of_legislation::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date of adoption or signature of the legislation. This is the date at which the text is officially aknowledged to be a legislation, even though it might not even be published or in force.
 

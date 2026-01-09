@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/contact_point :: ContactPoint ] or 
+- [has_/contact_point :: ContactPoint ]  
 - [ has_contact_point :: ContactPoint ] 
 
 A contact point for a person or organization.

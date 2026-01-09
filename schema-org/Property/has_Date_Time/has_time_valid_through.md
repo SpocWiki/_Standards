@@ -29,8 +29,9 @@ type: Predi_Date_Time
 Predicate to describe the date of Demand, JobPosting, LocationFeatureSpecification, MonetaryAmount, Offer, OpeningHoursSpecification, PriceSpecification.
 
 Use it like this: 
-- [has_time_valid_through::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/valid_through::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_valid_through::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/valid_through::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date after when the item is not valid. For example the end of an offer, salary period, or a period of opening hours.
 

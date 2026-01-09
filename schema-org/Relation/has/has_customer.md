@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/customer :: Organization, Person ] or 
+- [has_/customer :: Organization, Person ]  
 - [ has_customer :: Organization, Person ] 
 
 Party placing the order or paying the invoice.

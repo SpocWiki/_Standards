@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_/similar_to :: [[has_during-media]] 
 
 Use it like this: 
-- [ #has_/before_media :: MediaObject, URL ] or 
+- [has_/before_media :: MediaObject, URL ]  
 - [ has_before_media :: MediaObject, URL ] 
 
 A media object representing the circumstances before performing this direction.

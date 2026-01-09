@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/health_condition :: MedicalCondition ] or 
+- [has_/health_condition :: MedicalCondition ]  
 - [ has_health_condition :: MedicalCondition ] 
 
 Specifying the health condition(s) of a patient, medical study, or other target audience.

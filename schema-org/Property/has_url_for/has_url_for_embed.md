@@ -31,7 +31,7 @@ type: Predi_Url
 Predicate to specify the Url of MediaObject.
 
 Use it like this: 
-- [ #has_/url_for_/embed :: URL ] or 
+- [has_/url_for_/embed :: URL ]  
 - [ has_url_for_embed :: URL ] 
 
 A URL pointing to a player for a specific video. In general, this is the information in the <code>src</code> element of an <code>embed</code> tag and should not be the same as the content of the <code>loc</code> tag.

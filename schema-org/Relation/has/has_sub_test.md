@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/sub_test :: MedicalTest ] or 
+- [has_/sub_test :: MedicalTest ]  
 - [ has_sub_test :: MedicalTest ] 
 
 A component test of the panel.

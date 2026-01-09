@@ -37,7 +37,7 @@ Predicate to describe the Quantity of {{domainIncludes}}.
 #is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
-- [ #has_/value_for_/{{has_label_snail}} :: {{rangeIncludes}} ] or 
+- [has_/value_for_/{{has_label_snail}} :: {{rangeIncludes}} ]  
 - [ has_value_for_{{has_label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}

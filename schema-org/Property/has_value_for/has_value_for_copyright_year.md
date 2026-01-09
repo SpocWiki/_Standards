@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- [ #has_/value_for_/copyright_year :: Number ] or 
+- [has_/value_for_/copyright_year :: Number ]  
 - [ has_value_for_copyright_year :: Number ] 
 
 The year during which the claimed copyright for the CreativeWork was first asserted.

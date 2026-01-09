@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of BusinessAudience, Organization.
 
 Use it like this: 
-- [ #has_/number_of_/employees :: QuantitativeValue ] or 
+- [has_/number_of_/employees :: QuantitativeValue ]  
 - [ has_number_of_employees :: QuantitativeValue ] 
 
 The number of employees in an organization, e.g. business.

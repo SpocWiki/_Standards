@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/composer :: Organization, Person ] or 
+- [has_/composer :: Organization, Person ]  
 - [ has_composer :: Organization, Person ] 
 
 The person or organization who wrote a composition, or who is the composer of a work performed at some event.

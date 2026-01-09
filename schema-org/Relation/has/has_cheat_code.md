@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/cheat_code :: CreativeWork ] or 
+- [has_/cheat_code :: CreativeWork ]  
 - [ has_cheat_code :: CreativeWork ] 
 
 Cheat codes to the game.

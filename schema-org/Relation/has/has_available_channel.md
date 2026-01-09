@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/available_channel :: ServiceChannel ] or 
+- [has_/available_channel :: ServiceChannel ]  
 - [ has_available_channel :: ServiceChannel ] 
 
 A means of accessing the service (e.g. a phone bank, a web site, a location, etc.).

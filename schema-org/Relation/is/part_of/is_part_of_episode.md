@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/part_of_/episode :: Episode ] or 
+- [is_/part_of_/episode :: Episode ]  
 - [ is_part_of_episode :: Episode ] 
 
 The episode to which this clip belongs.

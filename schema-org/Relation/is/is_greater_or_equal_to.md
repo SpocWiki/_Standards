@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/greater_or_equal_to :: QualitativeValue ] or 
+- [is_/greater_or_equal_to :: QualitativeValue ]  
 - [ is_greater_or_equal_to :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is greater than or equal to the object.

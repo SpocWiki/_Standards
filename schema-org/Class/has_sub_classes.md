@@ -37,7 +37,7 @@ type: Predi_Relation
 Indicates a ([[../Collection/item_list|item_list]] of) [[Thing]] is an instance of this [[../Class]].
 
 Use it like this: 
-- [ #has_/sub_classes :: [[../Class]] ] or 
+- [ #has_/sub_classes :: [[../Class]] ] 
 - [ has_sub_classes :: [[../Class]] ] 
 
 Relation describes that: 

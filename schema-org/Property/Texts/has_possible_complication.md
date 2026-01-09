@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- [ #has_/text_of_/possible_complication :: Text ] or 
+- [ #has_/text_of_/possible_complication :: Text ] 
 - [ has_text_of_possible_complication :: Text ] 
 
 A possible unexpected and unfavorable evolution of a medical condition. Complications may include worsening of the signs or symptoms of the disease, extension of the condition to other organ systems, etc.

@@ -31,7 +31,7 @@ Predicate to describe the Duration of Schedule.
 [is_part_of:: pending:]
 
 Use it like this: 
-- [has_duration_until_repeat::P#Y#M#W#DT#H#M#s.fff] or 
+- [has_duration_until_repeat::P#Y#M#W#DT#H#M#s.fff] 
 - [ #has_/duration_/until_repeat::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 Defines the frequency at which [[Event]]s will occur according to a schedule [[Schedule]]. The intervals between

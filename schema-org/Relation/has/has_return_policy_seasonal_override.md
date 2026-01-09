@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride ] or 
+- [has_/return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride ]  
 - [ has_return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride ] 
 
 Seasonal override of a return policy.

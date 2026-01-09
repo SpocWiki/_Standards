@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/reserved_ticket :: Ticket ] or 
+- [has_/reserved_ticket :: Ticket ]  
 - [ has_reserved_ticket :: Ticket ] 
 
 A ticket associated with the reservation.

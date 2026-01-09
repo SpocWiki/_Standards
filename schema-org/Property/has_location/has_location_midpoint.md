@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of GeoCircle.
 
 Use it like this: 
-- [ #has_/location_/midpoint :: GeoCoordinates ] or 
+- [has_/location_/midpoint :: GeoCoordinates ]  
 - [ has_location_midpoint :: GeoCoordinates ] 
 
 Indicates the GeoCoordinates at the centre of a GeoShape, e.g. GeoCircle.

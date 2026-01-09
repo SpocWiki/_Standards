@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/name_/given :: Text ] or 
+- [ #has_/name_/given :: Text ] 
 - [ has_name_given :: Text ] 
 
 Given name. In the U.S., the first name of a Person.

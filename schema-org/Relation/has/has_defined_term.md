@@ -34,7 +34,7 @@ A [[../../Class/is_a_/Intangible/defined_term|defined_term]] contained in this t
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/defined_term :: DefinedTerm ] or 
+- [has_/defined_term :: DefinedTerm ]  
 - [ has_defined_term :: DefinedTerm ] 
 
 Relation describes that: 

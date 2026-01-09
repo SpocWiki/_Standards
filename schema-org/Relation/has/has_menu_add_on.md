@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/menu_add_on :: MenuItem, MenuSection ] or 
+- [has_/menu_add_on :: MenuItem, MenuSection ]  
 - [ has_menu_add_on :: MenuItem, MenuSection ] 
 
 Additional menu item(s) such as a side dish of salad or side order of fries 

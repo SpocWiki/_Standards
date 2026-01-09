@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- [ #has_/text_of_/assembly_version :: Text ] or 
+- [ #has_/text_of_/assembly_version :: Text ] 
 - [ has_text_of_assembly_version :: Text ] 
 
 Associated product/technology version. E.g., .NET Framework 4.5.

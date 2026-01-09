@@ -31,7 +31,7 @@ type: Predi_Url
 Predicate to specify the Url of AlignmentObject.
 
 Use it like this: 
-- [ #has_/url_for_/target :: URL ] or 
+- [has_/url_for_/target :: URL ]  
 - [ has_url_for_target :: URL ] 
 
 The URL of a node in an established educational framework.

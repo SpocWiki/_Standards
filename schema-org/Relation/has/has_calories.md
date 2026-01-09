@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/calories :: Energy ] or 
+- [has_/calories :: Energy ]  
 - [ has_calories :: Energy ] 
 
 The number of calories.

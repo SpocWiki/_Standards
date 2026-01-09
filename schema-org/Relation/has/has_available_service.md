@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/available_service :: MedicalProcedure, MedicalTest, MedicalTherapy ] or 
+- [has_/available_service :: MedicalProcedure, MedicalTest, MedicalTherapy ]  
 - [ has_available_service :: MedicalProcedure, MedicalTest, MedicalTherapy ] 
 
 A medical service available from this provider.

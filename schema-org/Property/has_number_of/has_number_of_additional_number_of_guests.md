@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of RsvpAction.
 
 Use it like this: 
-- [ #has_/number_of_/additional_guests :: Number ] or 
+- [has_/number_of_/additional_guests :: Number ]  
 - [ has_number_of_additional_guests :: Number ] 
 
 If responding yes, the number of guests who will attend in addition to the invitee.

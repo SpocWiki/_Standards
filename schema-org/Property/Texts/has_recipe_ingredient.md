@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- [ #has_/text_of_/recipe_ingredient :: Text ] or 
+- [ #has_/text_of_/recipe_ingredient :: Text ] 
 - [ has_text_of_recipe_ingredient :: Text ] 
 
 A single ingredient used in the recipe, e.g. sugar, flour or garlic.

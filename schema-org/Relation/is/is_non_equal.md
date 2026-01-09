@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/non_equal :: [[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] or 
+- [ #is_/non_equal :: [[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] 
 - [ is_non_equal :: [[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] 
 
 This ordering relation for qualitative values indicates that the subject is not equal to the object.

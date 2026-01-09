@@ -30,7 +30,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/diversity_staffing_report :: Article, URL ] or 
+- [has_/diversity_staffing_report :: Article, URL ]  
 - [ has_diversity_staffing_report :: Article, URL ] 
 
 For an [[../../../Society/Agent/Community/Organization]] (often but not necessarily a [[NewsMediaOrganization]]), a report on staffing diversity issues. In a news context this might be for example ASNE or RTDNA (US) reports, or self-reported.

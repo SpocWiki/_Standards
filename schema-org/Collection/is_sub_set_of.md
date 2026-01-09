@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/sub_set_of :: Collection] or 
+- [ #is_/sub_set_of :: Collection] 
 - [ is_sub_set_of :: Collection] 
 
 Relates a subset to its super-set. 

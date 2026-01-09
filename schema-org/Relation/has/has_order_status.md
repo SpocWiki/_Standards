@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/order_status :: OrderStatus ] or 
+- [has_/order_status :: OrderStatus ]  
 - [ has_order_status :: OrderStatus ] 
 
 The current status of the order.

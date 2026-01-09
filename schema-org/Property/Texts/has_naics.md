@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate with the North American Industry Classification System (NAICS) code for a particular organization or business person.
 
 Use it like this: 
-- [ #has_/text_of_/naics :: Text ] or 
+- [ #has_/text_of_/naics :: Text ] 
 - [ has_text_of_naics :: Text ] 
 
 Predicated describes that: 

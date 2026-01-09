@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of PostalAddress.
 
 Use it like this: 
-- [ #has_/location_/address_/street :: Text ] or 
+- [ #has_/location_/address_/street :: Text ] 
 - [ has_location_address_street :: Text ] 
 
 The street address. For example, 1600 Amphitheatre Pkwy.

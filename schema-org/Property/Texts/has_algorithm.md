@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of an Algorithm.
 
 Use it like this: 
-- [ #has_/text_of_/algorithm :: Text ] or 
+- [ #has_/text_of_/algorithm :: Text ] 
 - [ has_text_of_algorithm :: Text ] 
 
 The algorithm or rules to follow to compute the score.

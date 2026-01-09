@@ -31,7 +31,7 @@ type: Predi_Url
 Predicate to specify the Url of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/url_for_/install :: URL ] or 
+- [has_/url_for_/install :: URL ]  
 - [ has_url_for_install :: URL ] 
 
 URL at which the app may be installed, if different from the URL of the item.

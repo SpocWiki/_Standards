@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/about :: [Thing](../../../Class/Thing.md) ] or 
+- [is_/about :: [Thing](../../../Class/Thing.md) ]  
 - [ is_about :: [Thing](../../../Class/Thing.md) ] 
 
 The subject matter of the content. 

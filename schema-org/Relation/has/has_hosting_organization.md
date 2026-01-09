@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/hosting_organization :: Organization ] or 
+- [has_/hosting_organization :: Organization ]  
 - [ has_hosting_organization :: Organization ] 
 
 The organization (airline, travelers' club, etc.) the membership is made with.

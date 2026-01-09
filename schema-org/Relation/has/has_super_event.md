@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/super_event :: Event ] or 
+- [has_/super_event :: Event ]  
 - [ has_super_event :: Event ] 
 
 An event that this event is a part of. For example, a collection of individual music performances might each have a music festival as their superEvent.

@@ -43,8 +43,9 @@ which is the moment when an entity begins/ceases to exist or a statement starts/
 #has_/dual_/property :: [[has_time_stopped]] 
 
 Use it like this: 
-- [has_time_started::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/started ::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_started::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/started ::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Alternatively use the equivalent #created , because the is supported in [[../../../../Tasks/Tasks|Tasks]]: 
 #is_/similar_to :: #created 

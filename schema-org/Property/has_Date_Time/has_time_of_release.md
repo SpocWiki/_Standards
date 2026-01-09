@@ -32,8 +32,9 @@ type: Predi_Date_Time
 Predicate to describe the date of Product.
 
 Use it like this: 
-- [has_time_of_release::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/of_release::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_of_release::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/of_release::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The release date of a product or product model. This can be used to distinguish the exact variant of a product.
 

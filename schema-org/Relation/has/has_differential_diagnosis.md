@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/differential_diagnosis :: DDxElement ] or 
+- [has_/differential_diagnosis :: DDxElement ]  
 - [ has_differential_diagnosis :: DDxElement ] 
 
 One of a set of differential diagnoses for the condition. Specifically, a closely-related or competing diagnosis typically considered later in the cognitive process whereby this medical condition is distinguished from others most likely responsible for a similar collection of signs and symptoms to reach the most parsimonious diagnosis or diagnoses in a patient.

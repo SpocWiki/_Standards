@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_of_/food_warning :: Text ] or 
+- [ #has_/text_of_/food_warning :: Text ] 
 - [ has_text_of_food_warning :: Text ] 
 
 Any precaution, guidance, contraindication, etc. related to consumption of specific foods while taking this drug.

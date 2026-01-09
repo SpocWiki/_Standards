@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/related_drug :: Drug ] or 
+- [has_/related_drug :: Drug ]  
 - [ has_related_drug :: Drug ] 
 
 Any other drug related to this one, for example commonly-prescribed alternatives.

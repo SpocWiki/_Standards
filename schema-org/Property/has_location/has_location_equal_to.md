@@ -31,7 +31,7 @@ type: Pred_geo
 Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
-- [ #has_/location_/equal_to :: GeospatialGeometry, Place ] or 
+- [has_/location_/equal_to :: GeospatialGeometry, Place ]  
 - [ has_location_equal_to :: GeospatialGeometry, Place ] 
 
 Represents spatial relations in which two geometries (or the places they represent) are topologically equal, 

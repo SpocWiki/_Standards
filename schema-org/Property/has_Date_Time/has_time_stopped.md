@@ -43,8 +43,9 @@ Alternatively use the equivalent #cancelled  , because that is supported in [[..
 Predicate to describe the date of [[../../Class/is_a_/Intangible/data_feed_item]].
 
 Use it like this: 
-- [has_time_deleted::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/stopped ::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_deleted::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/stopped ::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 
 The date and time an item was removed from a [[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|DataFeed]].

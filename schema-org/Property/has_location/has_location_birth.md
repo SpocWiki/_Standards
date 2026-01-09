@@ -33,7 +33,7 @@ type: Pred_geo
 Predicate to describe the geo of Person.
 
 Use it like this: 
-- [ #has_/location_/birth :: Place ] or 
+- [ #has_/location_/birth :: Place ] 
 - [ has_location_birth :: Place ] 
 
 The place where the person was born.

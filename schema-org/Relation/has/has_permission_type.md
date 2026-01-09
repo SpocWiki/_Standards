@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/permission_type :: DigitalDocumentPermissionType ] or 
+- [has_/permission_type :: DigitalDocumentPermissionType ]  
 - [ has_permission_type :: DigitalDocumentPermissionType ] 
 
 The type of permission granted the person, organization, or audience.

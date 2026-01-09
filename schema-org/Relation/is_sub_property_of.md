@@ -7,7 +7,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is_/sub_property_of :: [Class](../../Classes.md)] or 
+- [is_/sub_property_of :: [Class](../../Classes.md)]  
 - [ is_sub_property_of :: [Class](../../Classes.md)] 
 
 Relates a sub-Property to its super-Property. 

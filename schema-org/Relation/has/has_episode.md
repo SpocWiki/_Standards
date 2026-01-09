@@ -28,7 +28,7 @@ type: Predi_Relation
 An episode of a TV, radio or game media within a series or season.
 
 Use it like this: 
-- [ #has_/episode :: [[../../../Society/Communication/Media/Creative_Work/Episode|Episode]] ] or 
+- [ #has_/episode :: [[../../../Society/Communication/Media/Creative_Work/Episode|Episode]] ] 
 - [ has_episode :: [[../../Class/is_a_/creative_work/episode|Episode]] ] 
 
 [[../../Relation|Relation]] describes that: 

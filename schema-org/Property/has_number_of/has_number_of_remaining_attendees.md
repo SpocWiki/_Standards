@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of Event.
 
 Use it like this: 
-- [ #has_/number_of_/remaining_attendees :: Integer ] or 
+- [has_/number_of_/remaining_attendees :: Integer ]  
 - [ has_number_of_remaining_attendees :: Integer ] 
 
 The number of attendee places for an event that remain unallocated.

@@ -36,7 +36,7 @@ that uniquely identifies the value of CategoryCode, MedicalCode.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/code_/value :: Text ] or 
+- [ #has_/code_/value :: Text ] 
 - [ has_code_value :: Text ] 
 
 Predicated describes that: 

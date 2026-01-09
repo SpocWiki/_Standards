@@ -29,7 +29,7 @@ type: Predi_Duration
 Predicate to describe the Duration of HowTo, HowToDirection.
 
 Use it like this: 
-- [has_duration_to_perform::P#Y#M#W#DT#H#M#s.fff] or 
+- [has_duration_to_perform::P#Y#M#W#DT#H#M#s.fff] 
 - [ #has_/duration_/to_perform::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The length of time it takes to perform instructions or a direction (not including time to prepare the supplies), in [ISO 8601 duration format](http://en.wikipedia.org/wiki/ISO_8601).

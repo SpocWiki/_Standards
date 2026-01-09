@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/step :: CreativeWork, HowToSection, HowToStep, Text ] or 
+- [has_/step :: CreativeWork, HowToSection, HowToStep, Text ]  
 - [ has_step :: CreativeWork, HowToSection, HowToStep, Text ] 
 
 A single step item (as HowToStep, text, document, video, etc.) or a HowToSection.

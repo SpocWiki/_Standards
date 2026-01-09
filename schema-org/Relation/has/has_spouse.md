@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/spouse :: Person ] or 
+- [has_/spouse :: Person ]  
 - [ has_spouse :: Person ] 
 
 The person's spouse.

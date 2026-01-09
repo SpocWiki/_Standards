@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of AggregateOffer.
 
 Use it like this: 
-- [ #has_/number_of_/offers :: Integer ] or 
+- [has_/number_of_/offers :: Integer ]  
 - [ has_number_of_offers :: Integer ] 
 
 The number of offers for the product.

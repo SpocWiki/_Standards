@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- [ #has_/text_of_/circle :: Text ] or 
+- [ #has_/text_of_/circle :: Text ] 
 - [ has_text_of_circle :: Text ] 
 
 A circle is the circular region of a specified radius 

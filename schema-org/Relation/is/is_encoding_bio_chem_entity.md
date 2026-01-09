@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending: 
 
 Use it like this: 
-- [ #is_/encoding_bio_chem_entity :: BioChemEntity] or 
+- [is_/encoding_bio_chem_entity :: BioChemEntity]  
 - [ is_encoding_bio_chem_entity :: BioChemEntity] 
 
 Another BioChemEntity encoded by this one.

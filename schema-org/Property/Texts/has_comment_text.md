@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of UserComments.
 
 Use it like this: 
-- [ #has_/text_of_/comment_text :: Text ] or 
+- [ #has_/text_of_/comment_text :: Text ] 
 - [ has_text_of_comment_text :: Text ] 
 
 The text of the UserComment.

@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/guideline :: MedicalGuideline ] or 
+- [has_/guideline :: MedicalGuideline ]  
 - [ has_guideline :: MedicalGuideline ] 
 
 A medical guideline related to this entity.

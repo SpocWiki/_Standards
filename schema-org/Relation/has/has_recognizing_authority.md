@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/recognizing_authority :: Organization ] or 
+- [has_/recognizing_authority :: Organization ]  
 - [ has_recognizing_authority :: Organization ] 
 
 If applicable, the organization that officially recognizes this entity as part of its endorsed system of medicine.

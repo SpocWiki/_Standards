@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/relevant_specialty :: MedicalSpecialty ] or 
+- [has_/relevant_specialty :: MedicalSpecialty ]  
 - [ has_relevant_specialty :: MedicalSpecialty ] 
 
 If applicable, a medical specialty in which this entity is relevant.

@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/available_test :: MedicalTest ] or 
+- [has_/available_test :: MedicalTest ]  
 - [ has_available_test :: MedicalTest ] 
 
 A diagnostic test or procedure offered by this lab.

@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/sign_or_symptom :: MedicalSignOrSymptom ] or 
+- [has_/sign_or_symptom :: MedicalSignOrSymptom ]  
 - [ has_sign_or_symptom :: MedicalSignOrSymptom ] 
 
 A sign or symptom of this condition. Signs are objective or physically observable manifestations of the medical condition while symptoms are the subjective experience of the medical condition.

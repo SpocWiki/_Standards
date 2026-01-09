@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_of_/interactivity_type :: Text ] or 
+- [ #has_/text_of_/interactivity_type :: Text ] 
 - [ has_text_of_interactivity_type :: Text ] 
 
 The predominant mode of learning supported by the learning resource. Acceptable values are "active", "expositive", or "mixed".

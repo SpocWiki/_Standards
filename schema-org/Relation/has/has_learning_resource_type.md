@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/learning_resource_type :: DefinedTerm, Text ] or 
+- [has_/learning_resource_type :: DefinedTerm, Text ]  
 - [ has_learning_resource_type :: DefinedTerm, Text ] 
 
 The predominant type or kind characterizing the learning resource. For example, 'presentation', 'handout'.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/item_reviewed :: [Thing](../../../Class/Thing.md) ] or 
+- [has_/item_reviewed :: [Thing](../../../Class/Thing.md) ]  
 - [ has_item_reviewed :: [Thing](../../../Class/Thing.md) ] 
 
 The item that is being reviewed/rated.

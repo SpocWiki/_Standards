@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/expecting_acceptance_of :: Offer ] or 
+- [is_/expecting_acceptance_of :: Offer ]  
 - [ is_expecting_acceptance_of :: Offer ] 
 
 An Offer which must be accepted before the user can perform the Action. For example, the user may need to buy a movie before being able to watch it.

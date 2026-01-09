@@ -33,7 +33,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/country_of_origin :: Country ] or 
+- [has_/country_of_origin :: Country ]  
 - [ has_country_of_origin :: Country ] 
 
 The country of origin of something, including products as well as creative  works such as movie and TV content.

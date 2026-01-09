@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of Order.
 
 Use it like this: 
-- [ #has_/location_/address_billing :: PostalAddress ] or 
+- [has_/location_/address_billing :: PostalAddress ]  
 - [ has_location_address_billing :: PostalAddress ] 
 
 The billing address for the order.

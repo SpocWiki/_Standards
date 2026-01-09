@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/price_specification :: PriceSpecification ] or 
+- [has_/price_specification :: PriceSpecification ]  
 - [ has_price_specification :: PriceSpecification ] 
 
 One or more detailed price specifications, indicating the unit price and delivery or payment charges.

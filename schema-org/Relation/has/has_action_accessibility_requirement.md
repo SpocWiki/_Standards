@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/action_accessibility_requirement :: ActionAccessSpecification ] or 
+- [has_/action_accessibility_requirement :: ActionAccessSpecification ]  
 - [ has_action_accessibility_requirement :: ActionAccessSpecification ] 
 
 A set of requirements that must be fulfilled in order to perform an Action.

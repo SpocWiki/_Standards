@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/service_type :: GovernmentBenefitsType, Text ] or 
+- [has_/service_type :: GovernmentBenefitsType, Text ]  
 - [ has_service_type :: GovernmentBenefitsType, Text ] 
 
 The type of service being offered, e.g. veterans' benefits, emergency relief, etc.

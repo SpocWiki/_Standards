@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of Person. 
 
 Use it like this: 
-- [ #has_/name_/family :: Text ] or 
+- [ #has_/name_/family :: Text ] 
 - [ has_name_family :: Text ] 
 
 Family name. 

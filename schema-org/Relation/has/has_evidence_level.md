@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/evidence_level :: MedicalEvidenceLevel ] or 
+- [has_/evidence_level :: MedicalEvidenceLevel ]  
 - [ has_evidence_level :: MedicalEvidenceLevel ] 
 
 Strength of evidence of the data used to formulate the guideline (enumerated).

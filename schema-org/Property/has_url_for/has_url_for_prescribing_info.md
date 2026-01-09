@@ -30,7 +30,7 @@ type: Predi_Url
 Predicate to specify the Url of Drug.
 
 Use it like this: 
-- [ #has_/url_for_/prescribing_info :: URL ] or 
+- [has_/url_for_/prescribing_info :: URL ]  
 - [ has_url_for_prescribing_info :: URL ] 
 
 Link to prescribing information for the drug.

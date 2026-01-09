@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_of_/job_benefits :: Text ] or 
+- [ #has_/text_of_/job_benefits :: Text ] 
 - [ has_text_of_job_benefits :: Text ] 
 
 Description of benefits associated with the job.

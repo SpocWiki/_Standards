@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/funder :: Organization, Person ] or 
+- [has_/funder :: Organization, Person ]  
 - [ has_funder :: Organization, Person ] 
 
 A person or organization that supports (sponsors) something through some kind of financial contribution.

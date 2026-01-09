@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Brand, Organization, Place, Product, Service.
 
 Use it like this: 
-- [ #has_/text_of_/slogan :: Text ] or 
+- [ #has_/text_of_/slogan :: Text ] 
 - [ has_text_of_slogan :: Text ] 
 
 A slogan or motto associated with the item.

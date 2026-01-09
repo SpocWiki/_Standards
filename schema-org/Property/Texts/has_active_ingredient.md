@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of DietarySupplement, Drug, DrugStrength, Substance.
 
 Use it like this: 
-- [ #has_/text_of_/active_ingredient :: Text ] or 
+- [ #has_/text_of_/active_ingredient :: Text ] 
 - [ has_text_of_active_ingredient :: Text ] 
 
 An active ingredient, typically chemical compounds and/or biologic substances.

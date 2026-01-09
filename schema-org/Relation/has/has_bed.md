@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/bed :: BedDetails, BedType, Text ] or 
+- [has_/bed :: BedDetails, BedType, Text ]  
 - [ has_bed :: BedDetails, BedType, Text ] 
 
 The type of bed or beds included in the accommodation. For the single case of just one bed of a certain type, you use bed directly with a text.

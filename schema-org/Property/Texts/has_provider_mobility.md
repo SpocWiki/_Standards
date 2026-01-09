@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Service.
 
 Use it like this: 
-- [ #has_/text_of_/provider_mobility :: Text ] or 
+- [ #has_/text_of_/provider_mobility :: Text ] 
 - [ has_text_of_provider_mobility :: Text ] 
 
 Indicates the mobility of a provided service (e.g. "static", "dynamic").

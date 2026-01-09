@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/verification_fact_checking_policy :: CreativeWork, URL ] or 
+- [has_/verification_fact_checking_policy :: CreativeWork, URL ]  
 - [ has_verification_fact_checking_policy :: CreativeWork, URL ] 
 
 Disclosure about verification and fact-checking processes for a [[NewsMediaOrganization]] or other fact-checking [[../../../Society/Agent/Community/Organization]].

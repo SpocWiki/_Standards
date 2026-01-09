@@ -34,7 +34,7 @@ A sub property of object.
 The collection target of the action.
 
 Use it like this: 
-- [ #has_/target_collection :: [Thing](../../../Class/Thing.md) ] or 
+- [has_/target_collection :: [Thing](../../../Class/Thing.md) ]  
 - [ has_target_collection :: [Thing](../../../Class/Thing.md) ] 
 
 Relation describes that: 

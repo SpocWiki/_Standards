@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/xpath :: XPathType ] or 
+- [has_/xpath :: XPathType ]  
 - [ has_xpath :: XPathType ] 
 
 An XPath, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".

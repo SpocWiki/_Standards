@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/departure_boat_terminal :: BoatTerminal ] or 
+- [has_/departure_boat_terminal :: BoatTerminal ]  
 - [ has_departure_boat_terminal :: BoatTerminal ] 
 
 The terminal or port from which the boat departs.

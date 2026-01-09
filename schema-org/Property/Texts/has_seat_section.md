@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Seat.
 
 Use it like this: 
-- [ #has_/text_of_/seat_section :: Text ] or 
+- [ #has_/text_of_/seat_section :: Text ] 
 - [ has_text_of_seat_section :: Text ] 
 
 The section location of the reserved seat (e.g. Orchestra).

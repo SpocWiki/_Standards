@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of JobPosting.
 
 Use it like this: 
-- [ #has_/location_/job  :: Place ] or 
+- [ #has_/location_/job  :: Place ] 
 - [ has_location_job :: Place ] 
 
 A (typically single) geographic location associated with the job position.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/blood_supply :: Vessel ] or 
+- [has_/blood_supply :: Vessel ]  
 - [ has_blood_supply :: Vessel ] 
 
 The blood vessel that carries blood from the heart to the muscle.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/sports_event :: SportsEvent ] or 
+- [has_/sports_event :: SportsEvent ]  
 - [ has_sports_event :: SportsEvent ] 
 
 A sub property of location. The sports event where this action occurred.

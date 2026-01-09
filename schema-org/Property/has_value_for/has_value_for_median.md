@@ -29,7 +29,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of QuantitativeValueDistribution.
 
 Use it like this: 
-- [ #has_/value_for_/median :: Number ] or 
+- [has_/value_for_/median :: Number ]  
 - [ has_value_for_median :: Number ] 
 
 The median value.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/fuel_type :: QualitativeValue, Text, URL ] or 
+- [has_/fuel_type :: QualitativeValue, Text, URL ]  
 - [ has_fuel_type :: QualitativeValue, Text, URL ] 
 
 The type of fuel suitable for the engine or engines of the vehicle. If the vehicle has only one engine, this property can be attached directly to the vehicle.

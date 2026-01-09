@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/manufacturer :: Organization ] or 
+- [has_/manufacturer :: Organization ]  
 - [ has_manufacturer :: Organization ] 
 
 The manufacturer of the product.

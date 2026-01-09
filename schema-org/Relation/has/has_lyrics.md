@@ -25,11 +25,11 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/lyrics  :: CreativeWork ] or 
+- [has_/lyrics  :: CreativeWork ]  
 - [ has_lyrics :: CreativeWork ] 
 
 or, when giving the text directly: 
-- [ #has_/text_of_/lyrics  :: Text ] or 
+- [ #has_/text_of_/lyrics  :: Text ] 
 
 
 The words in the song.

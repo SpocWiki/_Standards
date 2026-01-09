@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/permit_audience :: Audience ] or 
+- [has_/permit_audience :: Audience ]  
 - [ has_permit_audience :: Audience ] 
 
 The target audience for this permit.

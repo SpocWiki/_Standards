@@ -30,7 +30,7 @@ type: Predi_Relation
 Indicates a ([[../Collection/item_list|item_list]] of) [[../Property]]  is an instance of this [[../Property]] .
 
 Use it like this: 
-- [ #has_/sub_properties :: [[../Property]]  ] or 
+- [has_/sub_properties :: [[../Property]]  ]  
 - [ has_sub_properties :: [[../Property]]  ] 
 
 Relation describes that: 

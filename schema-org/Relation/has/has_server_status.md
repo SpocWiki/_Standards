@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/server_status :: GameServerStatus ] or 
+- [has_/server_status :: GameServerStatus ]  
 - [ has_server_status :: GameServerStatus ] 
 
 Status of a game server.

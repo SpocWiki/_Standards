@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/role_/biological :: DefinedTerm ] or 
+- [has_/role_/biological :: DefinedTerm ]  
 - [ has_role_biological :: DefinedTerm ] 
 
 A role played by the BioChemEntity within a biological context.

@@ -31,8 +31,9 @@ Predicate to describe the date of Legislation.
 [is_part_of:: pending:]
 
 Use it like this: 
-- [has_time_of_legislation_version::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/of_legislation_version::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_of_legislation_version::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/of_legislation_version::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The point-in-time at which the provided description of the legislation is valid (e.g.: when looking at the law on the 2016-04-07 (= dateVersion), I get the consolidation of 2015-04-12 of the "National Insurance Contributions Act 2015")
 

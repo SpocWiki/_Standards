@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- [ #has_/text_of_/passenger_sequence_number :: Text ] or 
+- [ #has_/text_of_/passenger_sequence_number :: Text ] 
 - [ has_text_of_passenger_sequence_number :: Text ] 
 
 The passenger"s sequence number as assigned by the airline.

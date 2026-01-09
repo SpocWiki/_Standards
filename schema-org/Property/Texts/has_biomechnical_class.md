@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Joint.
 
 Use it like this: 
-- [ #has_/text_of_/biomechnical_class :: Text ] or 
+- [ #has_/text_of_/biomechnical_class :: Text ] 
 - [ has_text_of_biomechnical_class :: Text ] 
 
 The biomechanical properties of the bone.

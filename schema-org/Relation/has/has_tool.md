@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/tool :: HowToTool, Text ] or 
+- [has_/tool :: HowToTool, Text ]  
 - [ has_tool :: HowToTool, Text ] 
 
 A sub property of instrument. An object used (but not consumed) when performing instructions or a direction.

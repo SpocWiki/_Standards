@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of WarrantyPromise.
 
 Use it like this: 
-- [ #has_/value_for_/duration_of_warranty :: QuantitativeValue ] or 
+- [has_/value_for_/duration_of_warranty :: QuantitativeValue ]  
 - [ has_value_for_duration_of_warranty :: QuantitativeValue ] 
 
 The duration of the warranty promise. Common unitCode values are ANN for year, MON for months, or DAY for days.

@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/endorsers :: Organization, Person ] or 
+- [has_/endorsers :: Organization, Person ]  
 - [ has_endorsers :: Organization, Person ] 
 
 People or organizations that endorse the plan.

@@ -32,7 +32,7 @@ Predicate to specify the Url of SpecialAnnouncement.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/url_for_/travel_bans :: URL, WebContent ] or 
+- [has_/url_for_/travel_bans :: URL, WebContent ]  
 - [ has_url_for_travel_bans :: URL, WebContent ] 
 
 Information about travel bans, e.g. in the context of a pandemic.

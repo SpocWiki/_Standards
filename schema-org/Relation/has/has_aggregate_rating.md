@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/aggregate_rating :: AggregateRating ] or 
+- [has_/aggregate_rating :: AggregateRating ]  
 - [ has_aggregate_rating :: AggregateRating ] 
 
 The overall rating, based on a collection of reviews or ratings, of the item.

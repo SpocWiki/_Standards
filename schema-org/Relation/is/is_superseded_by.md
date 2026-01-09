@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: https://meta.schema.org  
 
 Use it like this: 
-- [ #is_/superseded_by :: Class, Enumeration, Property ] or 
+- [is_/superseded_by :: Class, Enumeration, Property ]  
 - [ is_superseded_by :: Class, Enumeration, Property ] 
 
 Relates a term (i.e. a property, class or enumeration) to one that supersedes it.

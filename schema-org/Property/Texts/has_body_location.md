@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of AnatomicalStructure, MedicalProcedure.
 
 Use it like this: 
-- [ #has_/text_of_/body_location :: Text ] or 
+- [ #has_/text_of_/body_location :: Text ] 
 - [ has_text_of_body_location :: Text ] 
 
 Location in the body of the anatomical structure.

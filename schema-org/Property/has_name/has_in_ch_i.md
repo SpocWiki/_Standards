@@ -35,7 +35,7 @@ Predicate to describe the Text of MolecularEntity.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/in_ch_i :: Text ] or 
+- [ #has_/text_of_/in_ch_i :: Text ] 
 - [ has_text_of_in_ch_i :: Text ] 
 
 Non-proprietary identifier for molecular entity 

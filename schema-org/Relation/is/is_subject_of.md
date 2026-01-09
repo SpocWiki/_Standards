@@ -32,7 +32,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/subject_of :: CreativeWork, Event ] or 
+- [is_/subject_of :: CreativeWork, Event ]  
 - [ is_subject_of :: CreativeWork, Event ] 
 
 A CreativeWork or Event about this Thing.

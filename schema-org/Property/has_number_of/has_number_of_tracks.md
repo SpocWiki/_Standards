@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of MusicPlaylist.
 
 Use it like this: 
-- [ #has_/number_of_/tracks :: Integer ] or 
+- [has_/number_of_/tracks :: Integer ]  
 - [ has_number_of_tracks :: Integer ] 
 
 The number of tracks in this album or playlist.

@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/nationality :: Country ] or 
+- [has_/nationality :: Country ]  
 - [ has_nationality :: Country ] 
 
 Nationality of the person.

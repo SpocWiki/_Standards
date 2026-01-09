@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/text_of_/honorific_suffix :: Text ] or 
+- [ #has_/text_of_/honorific_suffix :: Text ] 
 - [ has_text_of_honorific_suffix :: Text ] 
 
 An honorific suffix following a Person"s name such as M.D./PhD/MSCSW.

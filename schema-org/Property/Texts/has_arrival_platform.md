@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of TrainTrip.
 
 Use it like this: 
-- [ #has_/text_of_/arrival_platform :: Text ] or 
+- [ #has_/text_of_/arrival_platform :: Text ] 
 - [ has_text_of_arrival_platform :: Text ] 
 
 The platform where the train arrives.

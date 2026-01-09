@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/target :: EntryPoint, URL ] or 
+- [has_/target :: EntryPoint, URL ]  
 - [ has_target :: EntryPoint, URL ] 
 
 Indicates a target EntryPoint, or url, for an Action.

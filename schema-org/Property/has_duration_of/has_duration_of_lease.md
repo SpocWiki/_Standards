@@ -31,7 +31,7 @@ Predicate to describe the Duration of Accommodation, Offer, RealEstateListing.
 [is_part_of:: pending:]
 
 Use it like this: 
-- [has_duration_of_lease::P#Y#M#W#DT#H#M#s.fff] or 
+- [has_duration_of_lease::P#Y#M#W#DT#H#M#s.fff] 
 - [ #has_/duration_/of_lease::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 Length of the lease for some [[../../../Earth/Geography/Place/Accommodation]], either particular to some [[../../../Society/Agent/Community/Organization/Business/Offer]] or in some cases intrinsic to the property.

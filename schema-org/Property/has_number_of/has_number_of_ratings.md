@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of AggregateRating.
 
 Use it like this: 
-- [ #has_/number_of_/ratings :: Integer ] or 
+- [has_/number_of_/ratings :: Integer ]  
 - [ has_number_of_ratings :: Integer ] 
 
 The count of total number of ratings.

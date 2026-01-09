@@ -27,7 +27,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/funding :: Grant ] or 
+- [has_/funding :: Grant ]  
 - [ has_funding :: Grant ] 
 
 A [[Grant]] that directly or indirectly provide funding or sponsorship for this item. See also [[ownershipFundingInfo]].

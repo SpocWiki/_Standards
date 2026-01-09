@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/credential_category :: DefinedTerm, Text, URL ] or 
+- [has_/credential_category :: DefinedTerm, Text, URL ]  
 - [ has_credential_category :: DefinedTerm, Text, URL ] 
 
 The category or type of credential being described, for example "degree�, �certificate�, �badge�, or more specific term.

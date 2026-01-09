@@ -33,7 +33,7 @@ Predicate to describe the Text of a [[MediaObject]].
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/sha256 :: Text ] or 
+- [ #has_/text_of_/sha256 :: Text ] 
 - [ has_text_of_sha256 :: Text ] 
 
 The [SHA-2](https://en.wikipedia.org/wiki/SHA-2) SHA256 hash of the content of the item. 

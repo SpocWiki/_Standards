@@ -31,7 +31,7 @@ type: Pred_geo
 Symmetric relation between 2 neighboring, non-overlapping GeospatialGeometry or Place.
 
 Use it like this: 
-- [ #has_/location_/that_touches :: GeospatialGeometry, Place ] or 
+- [has_/location_/that_touches :: GeospatialGeometry, Place ]  
 - [ has_location_that_touches :: GeospatialGeometry, Place ] 
 
 Represents spatial relations in which two geometries (or the places they represent) touch: 

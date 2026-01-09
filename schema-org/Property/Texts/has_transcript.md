@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of AudioObject, VideoObject.
 
 Use it like this: 
-- [ #has_/text_of_/transcript :: Text ] or 
+- [ #has_/text_of_/transcript :: Text ] 
 - [ has_text_of_transcript :: Text ] 
 
 If this MediaObject is an AudioObject or VideoObject, the transcript of that object.

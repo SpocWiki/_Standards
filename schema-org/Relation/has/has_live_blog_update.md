@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/live_blog_update :: BlogPosting ] or 
+- [has_/live_blog_update :: BlogPosting ]  
 - [ has_live_blog_update :: BlogPosting ] 
 
 An update to the LiveBlog.

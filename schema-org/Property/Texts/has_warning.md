@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_of_/warning :: Text, URL ] or 
+- [ #has_/text_of_/warning :: Text, URL ] 
 - [ has_text_of_warning :: Text, URL ] 
 
 Any FDA or other warnings about the drug (text or URL).

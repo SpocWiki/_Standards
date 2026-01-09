@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/sign_detected :: MedicalSign ] or 
+- [has_/sign_detected :: MedicalSign ]  
 - [ has_sign_detected :: MedicalSign ] 
 
 A sign detected by the test.

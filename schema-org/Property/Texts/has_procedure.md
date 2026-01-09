@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalDevice.
 
 Use it like this: 
-- [ #has_/text_of_/procedure :: Text ] or 
+- [ #has_/text_of_/procedure :: Text ] 
 - [ has_text_of_procedure :: Text ] 
 
 A description of the procedure involved in setting up, using, and/or installing the device.

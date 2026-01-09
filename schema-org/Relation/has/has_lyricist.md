@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/lyricist :: Person ] or 
+- [has_/lyricist :: Person ]  
 - [ has_lyricist :: Person ] 
 
 The person who wrote the words.

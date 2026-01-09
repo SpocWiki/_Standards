@@ -31,7 +31,7 @@ type: Predi_Url
 Predicate to specify the Url of [[../../../Society/Communication/Media/Creative_Work|CreativeWork]].
 
 Use it like this: 
-- [ #has_/url_for_/discussion :: URL ] or 
+- [has_/url_for_/discussion :: URL ]  
 - [ has_url_for_discussion :: URL ] 
 
 A link to the page containing the comments of the CreativeWork.

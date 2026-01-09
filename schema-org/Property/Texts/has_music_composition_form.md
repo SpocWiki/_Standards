@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- [ #has_/text_of_/music_composition_form :: Text ] or 
+- [ #has_/text_of_/music_composition_form :: Text ] 
 - [ has_text_of_music_composition_form :: Text ] 
 
 The type of composition (e.g. overture, sonata, symphony, etc.).

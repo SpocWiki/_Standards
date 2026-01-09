@@ -7,7 +7,7 @@ Plural Form chosen to indicate the [[../../Collection]]-Nature.
 Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_examples]] Relation. 
 
 Use it like this: 
-- [ #has_/examples :: [[../../Collection]] ] or 
+- [ #has_/examples :: [[../../Collection]] ] 
 - [ has_examples :: [[../../Collection]]] 
 
 Relation describes that: 

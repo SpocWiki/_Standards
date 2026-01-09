@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/risk_factor :: MedicalRiskFactor ] or 
+- [has_/risk_factor :: MedicalRiskFactor ]  
 - [ has_risk_factor :: MedicalRiskFactor ] 
 
 A modifiable or non-modifiable factor that increases the risk of a patient contracting this condition, e.g. age,  coexisting condition.

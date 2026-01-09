@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Rating.
 
 Use it like this: 
-- [ #has_/value_for_/best_rating :: Number, Text ] or 
+- [has_/value_for_/best_rating :: Number, Text ]  
 - [ has_value_for_best_rating :: Number, Text ] 
 
 The highest value allowed in this rating system. If bestRating is omitted, 5 is assumed.

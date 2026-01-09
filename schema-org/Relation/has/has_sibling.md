@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/sibling :: Person ] or 
+- [has_/sibling :: Person ]  
 - [ has_sibling :: Person ] 
 
 A sibling of the person.

@@ -36,7 +36,7 @@ type: Predi_Relation
 #has_/dual_/property  :: [[has_negative_notes]] 
 
 Use it like this: 
-- [ #has_/positive_notes :: ItemList, ListItem, Text, WebContent ] or 
+- [has_/positive_notes :: ItemList, ListItem, Text, WebContent ]  
 - [ has_positive_notes :: ItemList, ListItem, Text, WebContent ] 
 
 Provides positive considerations regarding something, for example product highlights or (alongside [[negativeNotes]]) pro/con lists for reviews.

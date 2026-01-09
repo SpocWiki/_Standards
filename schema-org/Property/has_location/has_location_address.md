@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of [[geo_coordinates]], [[Geo_Shape]], [[../../../Society/Agent/Community/Organization]], [[../../../Society/Agent/Person]], [[../../../Earth/Geography/Place]].
 
 Use it like this: 
-- [ #has_/location_/address :: PostalAddress, Text ] or 
+- [has_/location_/address :: PostalAddress, Text ]  
 - [ has_location_address :: PostalAddress, Text ] 
 
 Physical address of the item.

@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of Demand, Offer.
 
 Use it like this: 
-- [ #has_/location_/available_at_or_from :: Place ] or 
+- [ #has_/location_/available_at_or_from :: Place ] 
 - [ has_location_available_at_or_from :: Place ] 
 
 The place(s) from which the offer can be obtained (e.g. store locations).

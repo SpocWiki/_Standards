@@ -31,8 +31,9 @@ Predicate to describe the date of Observation.
 [is_part_of:: pending:]
 
 Use it like this: 
-- [has_time_of_observation::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/of_observation::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_of_observation::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/of_observation::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The observationDate of an [[Observation]].
 

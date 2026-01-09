@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/included_composition :: MusicComposition ] or 
+- [has_/included_composition :: MusicComposition ]  
 - [ has_included_composition :: MusicComposition ] 
 
 Smaller compositions included in this work (e.g. a movement in a symphony).

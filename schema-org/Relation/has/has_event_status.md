@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/event_status :: EventStatusType ] or 
+- [has_/event_status :: EventStatusType ]  
 - [ has_event_status :: EventStatusType ] 
 
 An eventStatus of an event represents its status; particularly useful when an event is cancelled or rescheduled.

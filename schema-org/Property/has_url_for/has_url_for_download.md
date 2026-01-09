@@ -31,7 +31,7 @@ type: Predi_Url
 Predicate to specify the Url of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/url_for_/download :: URL ] or 
+- [has_/url_for_/download :: URL ]  
 - [ has_url_for_download :: URL ] 
 
 If the file can be downloaded, URL to download the binary.

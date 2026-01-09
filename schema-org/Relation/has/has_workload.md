@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/workload :: Energy, QuantitativeValue ] or 
+- [has_/workload :: Energy, QuantitativeValue ]  
 - [ has_workload :: Energy, QuantitativeValue ] 
 
 Quantitative measure of the physiologic output of the exercise; also referred to as energy expenditure.

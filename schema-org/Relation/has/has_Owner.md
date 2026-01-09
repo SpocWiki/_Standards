@@ -1,6 +1,6 @@
 
 Use it like this: 
-- [ #has_/owner  :: [[has_agent|agent]] ] or 
+- [ #has_/owner  :: [[has_agent|agent]] ] 
 - [ has_owner :: [[has_agent|agent]]  ] 
 
 Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from the Side of the [[../../Property|Property]]: 

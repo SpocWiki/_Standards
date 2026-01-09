@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Place.
 
 Use it like this: 
-- [ #has_/code_/of_branch :: Text ] or 
+- [ #has_/code_/of_branch :: Text ] 
 - [ has_code_of_branch :: Text ] 
 
 A short textual code (also called "store code") that uniquely identifies a place of business. The code is typically assigned by the parentOrganization and used in structured URLs.

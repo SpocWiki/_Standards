@@ -29,7 +29,7 @@ type: Predi_Duration
 Predicate to describe the Duration of ExercisePlan.
 
 Use it like this: 
-- [has_duration_of_activity::P#Y#M#W#DT#H#M#s.fff] or 
+- [has_duration_of_activity::P#Y#M#W#DT#H#M#s.fff] 
 - [ #has_/duration_/of_activity::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 Length of time to engage in the activity.

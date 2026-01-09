@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/distinguishing_sign :: MedicalSignOrSymptom ] or 
+- [has_/distinguishing_sign :: MedicalSignOrSymptom ]  
 - [ has_distinguishing_sign :: MedicalSignOrSymptom ] 
 
 One of a set of signs and symptoms that can be used to distinguish this diagnosis from others in the differential diagnosis.

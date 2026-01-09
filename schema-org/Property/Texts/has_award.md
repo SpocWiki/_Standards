@@ -35,7 +35,7 @@ type: Pred_Text
 Predicate to describe the Text of CreativeWork, Organization, Person, Product, Service.
 
 Use it like this: 
-- [ #has_/text_of_/award :: Text ] or 
+- [ #has_/text_of_/award :: Text ] 
 - [ has_text_of_award :: Text ] 
 
 Description of an award won by or for this item.

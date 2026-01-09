@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/supply :: HowToSupply, Text ] or 
+- [has_/supply :: HowToSupply, Text ]  
 - [ has_supply :: HowToSupply, Text ] 
 
 A sub-property of instrument. A supply consumed when performing instructions or a direction.

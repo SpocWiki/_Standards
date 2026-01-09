@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- [ #has_/text_of_/boarding_group :: Text ] or 
+- [ #has_/text_of_/boarding_group :: Text ] 
 - [ has_text_of_boarding_group :: Text ] 
 
 The airline-specific indicator of boarding order / preference.

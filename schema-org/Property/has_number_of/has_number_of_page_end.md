@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of Article, Chapter, PublicationIssue, PublicationVolume.
 
 Use it like this: 
-- [ #has_/number_of_/page_end :: Integer, Text ] or 
+- [has_/number_of_/page_end :: Integer, Text ]  
 - [ has_number_of_page_end :: Integer, Text ] 
 
 The page on which the work ends; for example "138" or "xvi".

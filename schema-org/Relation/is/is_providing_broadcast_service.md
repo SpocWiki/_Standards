@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/providing_broadcast_service :: BroadcastService] or 
+- [is_/providing_broadcast_service :: BroadcastService]  
 - [ is_providing_broadcast_service :: BroadcastService] 
 
 The BroadcastService offered on this channel.

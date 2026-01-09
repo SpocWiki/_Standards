@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/album :: MusicAlbum ] or 
+- [has_/album :: MusicAlbum ]  
 - [ has_album :: MusicAlbum ] 
 
 A music album.

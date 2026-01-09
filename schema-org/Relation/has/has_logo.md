@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/logo :: ImageObject, URL ] or 
+- [has_/logo :: ImageObject, URL ]  
 - [ has_logo :: ImageObject, URL ] 
 
 An associated logo.

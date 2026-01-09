@@ -37,7 +37,7 @@ Used in cases where a specific make/model is required to run the application.
 Predicate to describe a [[../../../Society/Communication/Media/Creative_Work/Software_Application|SoftwareApplication]].
 
 Use it like this: 
-- [ #has_/text_of_/available_on_device :: Text ] or 
+- [ #has_/text_of_/available_on_device :: Text ] 
 - [ has_text_of_available_on_device :: Text ] 
 
 Predicated describes that: 

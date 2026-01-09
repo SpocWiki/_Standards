@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/departure_airport :: Airport ] or 
+- [has_/departure_airport :: Airport ]  
 - [ has_departure_airport :: Airport ] 
 
 The airport where the flight originates.

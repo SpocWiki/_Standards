@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/drug_class :: DrugClass ] or 
+- [has_/drug_class :: DrugClass ]  
 - [ has_drug_class :: DrugClass ] 
 
 The class of drug this belongs to (e.g., statins).

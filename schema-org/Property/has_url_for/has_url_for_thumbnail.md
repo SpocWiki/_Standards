@@ -34,7 +34,7 @@ type: Predi_Url
 Predicate to specify the Url of CreativeWork.
 
 Use it like this: 
-- [ #has_/url_for_/thumbnail :: URL ] or 
+- [has_/url_for_/thumbnail :: URL ]  
 - [ has_url_for_thumbnail :: URL ] 
 
 A thumbnail image relevant to the Thing.

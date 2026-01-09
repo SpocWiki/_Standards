@@ -31,8 +31,9 @@ Predicate to describe the date of JobPosting.
 [is_part_of:: pending:]
 
 Use it like this: 
-- [has_time_to_start_job::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/to_start_job::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_to_start_job::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/to_start_job::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date on which a successful applicant for this job would be expected to start work. Choose a specific date in the future or use the jobImmediateStart property to indicate the position is to be filled as soon as possible.
 

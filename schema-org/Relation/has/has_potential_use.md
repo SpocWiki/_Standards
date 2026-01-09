@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/potential_use :: DefinedTerm ] or 
+- [has_/potential_use :: DefinedTerm ]  
 - [ has_potential_use :: DefinedTerm ] 
 
 Intended use of the BioChemEntity by humans.

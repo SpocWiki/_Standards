@@ -35,7 +35,7 @@ Predicate to describe the Text of HealthPlanNetwork, MedicalOrganization.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/id_/health_plan_network :: Text ] or 
+- [ #has_/id_/health_plan_network :: Text ] 
 - [ has_id_health_plan_network :: Text ] 
 
 Name or unique ID of network. (Networks are often reused across different insurance plans.)

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/copyright_holder :: Organization, Person ] or 
+- [has_/copyright_holder :: Organization, Person ]  
 - [ has_copyright_holder :: Organization, Person ] 
 
 The party holding the legal copyright to the CreativeWork.

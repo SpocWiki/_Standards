@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of DietarySupplement, DoseSchedule.
 
 Use it like this: 
-- [ #has_/text_of_/target_population :: Text ] or 
+- [ #has_/text_of_/target_population :: Text ] 
 - [ has_text_of_target_population :: Text ] 
 
 Characteristics of the population for which this is intended, or which typically uses it, e.g. "adults".

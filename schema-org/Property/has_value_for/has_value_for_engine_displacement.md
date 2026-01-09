@@ -32,7 +32,7 @@ Predicate to describe the Quantity of EngineSpecification.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [ #has_/value_for_/engine_displacement :: QuantitativeValue ] or 
+- [has_/value_for_/engine_displacement :: QuantitativeValue ]  
 - [ has_value_for_engine_displacement :: QuantitativeValue ] 
 
 The volume swept by all of the pistons inside the cylinders of an internal combustion engine in a single movement. 

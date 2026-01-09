@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/broadcaster :: Organization ] or 
+- [has_/broadcaster :: Organization ]  
 - [ has_broadcaster :: Organization ] 
 
 The organization owning or operating the broadcast service.

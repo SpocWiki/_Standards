@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/estimating_risk_of :: MedicalEntity] or 
+- [is_/estimating_risk_of :: MedicalEntity]  
 - [ is_estimating_risk_of :: MedicalEntity] 
 
 The condition, complication, or symptom whose risk is being estimated.

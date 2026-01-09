@@ -37,7 +37,7 @@ Predicate to describe the geo of {{domainIncludes}}.
 #is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
-- [ #has_/location_/{{has_label_snail}} :: {{rangeIncludes}} ] or 
+- [has_/location_/{{has_label_snail}} :: {{rangeIncludes}} ]  
 - [ has_location_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}

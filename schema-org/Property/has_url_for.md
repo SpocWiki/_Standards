@@ -45,7 +45,7 @@ It is used when the item is described on multiple websites, and you want to expl
 It is common that e.g. Companies and Brands hog their name on any available Platform, e.g. Facebook, Instagram, Twitter, Google, Amazon etc. 
 
 Use it like this: 
-- [ #has_/url :: URL ] or 
+- [has_/url :: URL ]  
 - [ has_url :: URL ] 
 
 URL of the item.

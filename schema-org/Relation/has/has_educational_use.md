@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/educational_use :: DefinedTerm, Text ] or 
+- [has_/educational_use :: DefinedTerm, Text ]  
 - [ has_educational_use :: DefinedTerm, Text ] 
 
 The purpose of a work in the context of education; for example, 'assignment', 'group work'.

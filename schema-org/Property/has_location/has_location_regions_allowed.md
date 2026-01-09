@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of MediaObject.
 
 Use it like this: 
-- [ #has_/location_/regions_allowed :: Place ] or 
+- [ #has_/location_/regions_allowed :: Place ] 
 - [ has_location_regions_allowed :: Place ] 
 
 The regions where the media is allowed. If not specified, then it's assumed to be allowed everywhere. Specify the countries in <a href="http://en.wikipedia.org/wiki/ISO_3166">ISO 3166 format]].

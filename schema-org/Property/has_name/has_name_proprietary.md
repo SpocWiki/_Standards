@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- [ #has_/name_proprietary :: Text ] or 
+- [ #has_/name_proprietary :: Text ] 
 - [ has_name_proprietary :: Text ] 
 
 Proprietary name given to the diet plan, typically by its originator or creator.

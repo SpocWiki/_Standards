@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/interaction_type :: Action ] or 
+- [has_/interaction_type :: Action ]  
 - [ has_interaction_type :: Action ] 
 
 The Action representing the type of interaction. 

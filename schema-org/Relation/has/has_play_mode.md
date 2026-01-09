@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/play_mode :: GamePlayMode ] or 
+- [has_/play_mode :: GamePlayMode ]  
 - [ has_play_mode :: GamePlayMode ] 
 
 Indicates whether this game is multi-player, co-op or single-player.  The game can be marked as multi-player, co-op and single-player at the same time.

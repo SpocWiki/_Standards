@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/service_phone :: ContactPoint ] or 
+- [has_/service_phone :: ContactPoint ]  
 - [ has_service_phone :: ContactPoint ] 
 
 The phone number to use to access the service.

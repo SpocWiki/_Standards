@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- [ #has_/text_of_/dateline :: Text ] or 
+- [ #has_/text_of_/dateline :: Text ] 
 - [ has_text_of_dateline :: Text ] 
 
 A [dateline](https://en.wikipedia.org/wiki/Dateline) is a brief piece of text 

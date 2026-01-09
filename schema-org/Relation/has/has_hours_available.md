@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/hours_available :: OpeningHoursSpecification ] or 
+- [has_/hours_available :: OpeningHoursSpecification ]  
 - [ has_hours_available :: OpeningHoursSpecification ] 
 
 The hours during which this service or contact is available.

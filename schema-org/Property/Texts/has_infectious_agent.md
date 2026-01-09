@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of InfectiousDisease.
 
 Use it like this: 
-- [ #has_/text_of_/infectious_agent :: Text ] or 
+- [ #has_/text_of_/infectious_agent :: Text ] 
 - [ has_text_of_infectious_agent :: Text ] 
 
 The actual infectious agent, such as a specific bacterium.

@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of EducationalAudience.
 
 Use it like this: 
-- [ #has_/text_of_/educational_role :: Text ] or 
+- [ #has_/text_of_/educational_role :: Text ] 
 - [ has_text_of_educational_role :: Text ] 
 
 An educationalRole of an EducationalAudience.

@@ -35,7 +35,7 @@ such as organs, that comprise the anatomical system.
 Inverse to [[../../Composite/is_part_of|is_part_of]] 
 
 Use it like this: 
-- [ #is_/comprised_of :: AnatomicalStructure, AnatomicalSystem ] or 
+- [is_/comprised_of :: AnatomicalStructure, AnatomicalSystem ]  
 - [ is_comprised_of :: AnatomicalStructure, AnatomicalSystem ] 
 
 Relation describes that: 

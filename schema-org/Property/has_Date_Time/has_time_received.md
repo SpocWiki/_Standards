@@ -29,8 +29,9 @@ type: Predi_Date_Time
 Predicate to describe the date of Message.
 
 Use it like this: 
-- [has_time_received_message::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/received_/message::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_received_message::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/received_/message::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date/time the message was received if a single recipient exists.
 

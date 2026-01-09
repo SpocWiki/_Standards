@@ -34,7 +34,7 @@ type: Pred_Text
 Predicate to describe the Text of PostalAddress.
 
 Use it like this: 
-- [ #has_/text_of_/post_office_box_number :: Text ] or 
+- [ #has_/text_of_/post_office_box_number :: Text ] 
 - [ has_text_of_post_office_box_number :: Text ] 
 
 The post office box number for PO box addresses.

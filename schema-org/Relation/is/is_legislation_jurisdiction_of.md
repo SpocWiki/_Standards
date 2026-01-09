@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #is_/legislation_jurisdiction_of :: AdministrativeArea, Text ] or 
+- [is_/legislation_jurisdiction_of :: AdministrativeArea, Text ]  
 - [ is_legislation_jurisdiction_of :: AdministrativeArea, Text ] 
 
 The jurisdiction from which the legislation originates.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/supporting_data :: DataFeed ] or 
+- [has_/supporting_data :: DataFeed ]  
 - [ has_supporting_data :: DataFeed ] 
 
 Supporting data for a SoftwareApplication.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/recommended_intake :: RecommendedDoseSchedule ] or 
+- [has_/recommended_intake :: RecommendedDoseSchedule ]  
 - [ has_recommended_intake :: RecommendedDoseSchedule ] 
 
 Recommended intake of this supplement for a given population as defined by a specific recommending authority.

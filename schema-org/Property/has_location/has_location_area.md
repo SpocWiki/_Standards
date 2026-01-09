@@ -31,7 +31,7 @@ type: Pred_geo
 Predicate to describe the geo of BroadcastService.
 
 Use it like this: 
-- [ #has_/location_/area :: Place ] or 
+- [ #has_/location_/area :: Place ] 
 - [ has_location_area :: Place ] 
 
 The area within which users can expect to reach the broadcast service.

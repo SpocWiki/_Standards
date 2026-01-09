@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/authenticator :: Organization ] or 
+- [has_/authenticator :: Organization ]  
 - [ has_authenticator :: Organization ] 
 
 The Organization responsible for authenticating the user's subscription.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/work_location :: ContactPoint, Place ] or 
+- [has_/work_location :: ContactPoint, Place ]  
 - [ has_work_location :: ContactPoint, Place ] 
 
 A contact location for a person's place of work.

@@ -35,7 +35,7 @@ type: Pred_Text
 Predicate to describe the Text of CivicStructure, LocalBusiness.
 
 Use it like this: 
-- [ #has_/text_of_/opening_hours :: Text ] or 
+- [ #has_/text_of_/opening_hours :: Text ] 
 - [ has_text_of_opening_hours :: Text ] 
 
 The general opening hours for a business. Opening hours can be specified as a weekly time range, starting with days, then times per day. Multiple days can be listed with commas "," separating each day. Day or time ranges are specified using a hyphen "-".

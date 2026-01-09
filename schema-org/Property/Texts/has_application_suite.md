@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_of_/application_suite :: Text ] or 
+- [ #has_/text_of_/application_suite :: Text ] 
 - [ has_text_of_application_suite :: Text ] 
 
 The name of the application suite to which the application belongs (e.g. Excel belongs to Office).

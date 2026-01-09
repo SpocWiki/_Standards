@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- [ #has_/name_/alternate :: Text ] or 
+- [ #has_/name_/alternate :: Text ] 
 - [ has_name_alternate :: Text ] 
 
 An alias for the item; 

@@ -34,7 +34,7 @@ type: Pred_Text
 Predicate to describe the email-Address-Text of ContactPoint, Organization, Person.
 
 Use it like this: 
-- [ #has_/text_of_/email :: Text ] or 
+- [ #has_/text_of_/email :: Text ] 
 - [ has_text_of_email :: Text ] 
 
 Email address.

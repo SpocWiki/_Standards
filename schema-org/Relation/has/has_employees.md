@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/employees :: [[../../../Society/Agent/Person]] ] or 
+- [ #has_/employees :: [[../../../Society/Agent/Person]] ] 
 - [ has_employees :: [[../../../Society/Agent/Person]] ] 
 
 People working for this organization.

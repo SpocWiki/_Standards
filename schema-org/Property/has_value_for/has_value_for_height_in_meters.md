@@ -30,7 +30,7 @@ type: Predi_Quantity
 The height of an item.
 
 Use it like this: 
-- [ #has_/value_for_/height_in_meters :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] or 
+- [ #has_/value_for_/height_in_meters :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] 
 - [ has_value_for_height_in_meters :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] 
 
 Predicate describes that: 

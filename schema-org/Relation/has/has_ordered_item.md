@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/ordered_item :: OrderItem, Product, Service ] or 
+- [has_/ordered_item :: OrderItem, Product, Service ]  
 - [ has_ordered_item :: OrderItem, Product, Service ] 
 
 The item ordered.

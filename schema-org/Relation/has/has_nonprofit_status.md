@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/nonprofit_status :: NonprofitType ] or 
+- [has_/nonprofit_status :: NonprofitType ]  
 - [ has_nonprofit_status :: NonprofitType ] 
 
 nonprofitStatus indicates the legal status of a non-profit organization in its primary place of business.

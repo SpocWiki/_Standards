@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/pregnancy_category :: DrugPregnancyCategory ] or 
+- [has_/pregnancy_category :: DrugPregnancyCategory ]  
 - [ has_pregnancy_category :: DrugPregnancyCategory ] 
 
 Pregnancy category of this drug.

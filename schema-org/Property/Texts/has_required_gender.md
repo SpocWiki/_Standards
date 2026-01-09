@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of PeopleAudience.
 
 Use it like this: 
-- [ #has_/text_of_/required_gender :: Text ] or 
+- [ #has_/text_of_/required_gender :: Text ] 
 - [ has_text_of_required_gender :: Text ] 
 
 Audiences defined by a person"s gender.

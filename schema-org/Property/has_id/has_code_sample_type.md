@@ -34,7 +34,7 @@ type: Pred_Text
 Predicate to describe the Text of SoftwareSourceCode.
 
 Use it like this: 
-- [ #has_/code_/of_sample_type :: Text ] or 
+- [ #has_/code_/of_sample_type :: Text ] 
 - [ has_code_of_sample_type :: Text ] 
 
 What type of code sample: 

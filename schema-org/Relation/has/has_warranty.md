@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/warranty :: WarrantyPromise ] or 
+- [has_/warranty :: WarrantyPromise ]  
 - [ has_warranty :: WarrantyPromise ] 
 
 The warranty promise(s) included in the offer.

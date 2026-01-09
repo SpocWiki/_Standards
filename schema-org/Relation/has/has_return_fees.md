@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/return_fees :: ReturnFeesEnumeration ] or 
+- [has_/return_fees :: ReturnFeesEnumeration ]  
 - [ has_return_fees :: ReturnFeesEnumeration ] 
 
 The type of return fees for purchased products (for any return reason).

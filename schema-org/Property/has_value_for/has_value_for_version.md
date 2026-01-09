@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- [ #has_/value_for_/version :: Number, Text ] or 
+- [has_/value_for_/version :: Number, Text ]  
 - [ has_value_for_version :: Number, Text ] 
 
 The version of the CreativeWork embodied by a specified resource.

@@ -31,7 +31,7 @@ type: Predi_Url
 Predicate to specify the Url of WebPage.
 
 Use it like this: 
-- [ #has_/url_for_/significant_link :: URL ] or 
+- [has_/url_for_/significant_link :: URL ]  
 - [ has_url_for_significant_link :: URL ] 
 
 One of the more significant URLs on the page. Typically, these are the non-navigation links that are clicked on the most.

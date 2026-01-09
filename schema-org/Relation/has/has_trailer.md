@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/trailer :: VideoObject ] or 
+- [has_/trailer :: VideoObject ]  
 - [ has_trailer :: VideoObject ] 
 
 The trailer of a movie or TV/radio series, season, episode, etc.

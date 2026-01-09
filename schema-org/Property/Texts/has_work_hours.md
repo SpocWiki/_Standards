@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_of_/work_hours :: Text ] or 
+- [ #has_/text_of_/work_hours :: Text ] 
 - [ has_text_of_work_hours :: Text ] 
 
 The typical working hours for this job (e.g. 1st shift, night shift, 8am-5pm).

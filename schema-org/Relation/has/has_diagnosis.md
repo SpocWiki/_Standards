@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/diagnosis :: MedicalCondition ] or 
+- [has_/diagnosis :: MedicalCondition ]  
 - [ has_diagnosis :: MedicalCondition ] 
 
 One or more alternative conditions considered in the differential diagnosis process as output of a diagnosis process.

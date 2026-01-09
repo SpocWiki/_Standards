@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/in_collection :: [Thing](../../../Class/Thing.md) ] or 
+- [is_/in_collection :: [Thing](../../../Class/Thing.md) ]  
 - [ is_in_collection :: [Thing](../../../Class/Thing.md) ] 
 
 A sub property of object. The collection target of the action.

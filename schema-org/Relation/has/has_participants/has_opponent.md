@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/opponent :: Person ] or 
+- [has_/opponent :: Person ]  
 - [ has_opponent :: Person ] 
 
 A sub property of participant. The opponent on this action.

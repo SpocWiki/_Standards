@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/media_authenticity_category :: MediaManipulationRatingEnumeration ] or 
+- [has_/media_authenticity_category :: MediaManipulationRatingEnumeration ]  
 - [ has_media_authenticity_category :: MediaManipulationRatingEnumeration ] 
 
 Indicates a MediaManipulationRatingEnumeration classification of a media object

@@ -31,7 +31,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of DoseSchedule.
 
 Use it like this: 
-- [ #has_/value_for_/dose :: Number, QualitativeValue ] or 
+- [has_/value_for_/dose :: Number, QualitativeValue ]  
 - [ has_value_for_dose :: Number, QualitativeValue ] 
 
 The value of the dose, e.g. 500.

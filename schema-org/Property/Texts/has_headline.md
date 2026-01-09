@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_of_/headline :: Text ] or 
+- [ #has_/text_of_/headline :: Text ] 
 - [ has_text_of_headline :: Text ] 
 
 Headline of the article.

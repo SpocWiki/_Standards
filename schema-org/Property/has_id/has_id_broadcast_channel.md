@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of BroadcastChannel.
 
 Use it like this: 
-- [ #has_/id_/broadcast_channel :: Text ] or 
+- [ #has_/id_/broadcast_channel :: Text ] 
 - [ has_id_broadcast_channel :: Text ] 
 
 The unique address by which the BroadcastService can be identified in a provider lineup. In US, this is typically a number.

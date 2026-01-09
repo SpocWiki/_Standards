@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/music_by :: MusicGroup, Person ] or 
+- [has_/music_by :: MusicGroup, Person ]  
 - [ has_music_by :: MusicGroup, Person ] 
 
 The composer of the soundtrack.

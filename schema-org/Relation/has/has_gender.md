@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/gender :: GenderType, Text ] or 
+- [has_/gender :: GenderType, Text ]  
 - [ has_gender :: GenderType, Text ] 
 
 Gender of something, typically a [[../../../Society/Agent/Person]], but possibly also fictional characters, animals, etc. 

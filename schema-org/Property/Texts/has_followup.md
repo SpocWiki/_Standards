@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalProcedure.
 
 Use it like this: 
-- [ #has_/text_of_/followup :: Text ] or 
+- [ #has_/text_of_/followup :: Text ] 
 - [ has_text_of_followup :: Text ] 
 
 Typical or recommended followup care after the procedure is performed.

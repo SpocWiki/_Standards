@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of MedicalConditionStage.
 
 Use it like this: 
-- [ #has_/number_of_/stage_as_number :: Number ] or 
+- [has_/number_of_/stage_as_number :: Number ]  
 - [ has_number_of_stage_as_number :: Number ] 
 
 The stage represented as a number, e.g. 3.

@@ -34,7 +34,7 @@ Predicate to describe the Text of CourseInstance.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/course_workload :: Text ] or 
+- [ #has_/text_of_/course_workload :: Text ] 
 - [ has_text_of_course_workload :: Text ] 
 
 The amount of work expected of students taking the course, often provided as a figure per week or per month, and may be broken down by type. For example, "2 hours of lectures, 1 hour of lab work and 3 hours of independent study per week".

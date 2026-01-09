@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Airport.
 
 Use it like this: 
-- [ #has_/code_/icao :: Text ] or 
+- [ #has_/code_/icao :: Text ] 
 - [ has_code_icao :: Text ] 
 
 ICAO identifier for an airport.

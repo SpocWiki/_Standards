@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/production_company :: Organization ] or 
+- [has_/production_company :: Organization ]  
 - [ has_production_company :: Organization ] 
 
 The production company or studio responsible for the item, e.g. series, video game, episode etc.

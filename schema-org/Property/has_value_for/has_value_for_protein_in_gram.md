@@ -34,7 +34,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- [ #has_/value_for_/protein_in_gram :: Mass ] or 
+- [has_/value_for_/protein_in_gram :: Mass ]  
 - [ has_value_for_protein_in_gram :: Mass ] 
 
 The number of grams of protein.

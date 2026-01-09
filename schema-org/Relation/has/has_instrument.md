@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/instrument :: [Thing](../../../Class/Thing.md) ] or 
+- [has_/instrument :: [Thing](../../../Class/Thing.md) ]  
 - [ has_instrument :: [Thing](../../../Class/Thing.md) ] 
 
 The object that helped the agent perform the action. E.g. John wrote a book with <em>a pen</em>.

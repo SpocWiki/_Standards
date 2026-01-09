@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/broadcast_channel :: BroadcastChannel ] or 
+- [has_/broadcast_channel :: BroadcastChannel ]  
 - [ has_broadcast_channel :: BroadcastChannel ] 
 
 A broadcast channel of a broadcast service.

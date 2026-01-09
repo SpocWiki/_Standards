@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/education_requirements :: EducationalOccupationalCredential, Text ] or 
+- [has_/education_requirements :: EducationalOccupationalCredential, Text ]  
 - [ has_education_requirements :: EducationalOccupationalCredential, Text ] 
 
 Educational background needed for the position or Occupation.

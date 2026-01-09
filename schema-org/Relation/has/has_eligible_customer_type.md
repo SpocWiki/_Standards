@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/eligible_customer_type :: BusinessEntityType ] or 
+- [has_/eligible_customer_type :: BusinessEntityType ]  
 - [ has_eligible_customer_type :: BusinessEntityType ] 
 
 The type(s) of customers for which the given offer is valid.

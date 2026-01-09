@@ -27,7 +27,7 @@ type: Predi_Relation
 #is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [ #has_/artist :: [[../../../Society/Agent/Person]] ] or 
+- [ #has_/artist :: [[../../../Society/Agent/Person]] ] 
 - [ has_artist :: [[../../../Society/Agent/Person]] ] 
 
 The primary artist for a work

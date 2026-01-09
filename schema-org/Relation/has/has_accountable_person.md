@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/accountable_person :: Person ] or 
+- [has_/accountable_person :: Person ]  
 - [ has_accountable_person :: Person ] 
 
 Specifies the Person that is legally accountable for the CreativeWork.

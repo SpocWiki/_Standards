@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending: 
 
 Use it like this: 
-- [ #is_/including_attraction :: TouristAttraction] or 
+- [is_/including_attraction :: TouristAttraction]  
 - [ is_including_attraction :: TouristAttraction] 
 
 Attraction located at destination.

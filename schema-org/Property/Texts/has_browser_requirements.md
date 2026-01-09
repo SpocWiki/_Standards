@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of WebApplication.
 
 Use it like this: 
-- [ #has_/text_of_/browser_requirements :: Text ] or 
+- [ #has_/text_of_/browser_requirements :: Text ] 
 - [ has_text_of_browser_requirements :: Text ] 
 
 Specifies browser requirements in human-readable text. For example, "requires HTML5 support".

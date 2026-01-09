@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of HowTo, HowToSupply.
 
 Use it like this: 
-- [ #has_/value_for_/estimated_cost :: MonetaryAmount, Text ] or 
+- [has_/value_for_/estimated_cost :: MonetaryAmount, Text ]  
 - [ has_value_for_estimated_cost :: MonetaryAmount, Text ] 
 
 The estimated cost of the supply or supplies consumed when performing instructions.

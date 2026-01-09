@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/target_product :: SoftwareApplication ] or 
+- [has_/target_product :: SoftwareApplication ]  
 - [ has_target_product :: SoftwareApplication ] 
 
 Target Operating System / Product to which the code applies.  If applies to several versions, just the product name can be used.

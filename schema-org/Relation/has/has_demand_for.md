@@ -30,7 +30,7 @@ type: Predi_Relation
 A pointer to products or services sought by the organization or person (demand).
 
 Use it like this: 
-- [ #has_/demand_for :: Demand ] or 
+- [has_/demand_for :: Demand ]  
 - [ has_demand_for :: Demand ] 
 
 Relation describes that: 

@@ -37,9 +37,10 @@ Predicate to describe the date of {{domainIncludes}}.
 #is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
-- [ #has_/time_/of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] or 
+- [ #has_/time_/of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] 
 - [has_time_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] 
-with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 {{comment}}
 

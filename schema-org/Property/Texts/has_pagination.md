@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Article, Chapter, PublicationIssue, PublicationVolume.
 
 Use it like this: 
-- [ #has_/text_of_/pagination :: Text ] or 
+- [ #has_/text_of_/pagination :: Text ] 
 - [ has_text_of_pagination :: Text ] 
 
 Any description of pages that is not separated into pageStart and pageEnd; for example, "1-6, 9, 55" or "10-12, 46-49".

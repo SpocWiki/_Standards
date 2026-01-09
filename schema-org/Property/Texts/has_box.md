@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- [ #has_/text_of_/box :: Text ] or 
+- [ #has_/text_of_/box :: Text ] 
 - [ has_text_of_box :: Text ] 
 
 A box is the area enclosed by the rectangle formed by two points. The first point is the lower corner, the second point is the upper corner. A box is expressed as two points separated by a space character.

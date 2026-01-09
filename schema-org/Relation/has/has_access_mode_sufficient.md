@@ -31,7 +31,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/access_mode_sufficient :: ItemList ] or 
+- [has_/access_mode_sufficient :: ItemList ]  
 - [ has_access_mode_sufficient :: ItemList ] 
 
 A list of single or combined [access_modes](../../Texts/has_access_mode.md) 

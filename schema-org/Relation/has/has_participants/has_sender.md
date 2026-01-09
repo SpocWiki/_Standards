@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/sender :: Audience, Organization, Person ] or 
+- [has_/sender :: Audience, Organization, Person ]  
 - [ has_sender :: Audience, Organization, Person ] 
 
 A sub property of Participant. 

@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/athlete :: Person ] or 
+- [has_/athlete :: Person ]  
 - [ has_athlete :: Person ] 
 
 A person that acts as performing member of a sports team; a player as opposed to a coach.

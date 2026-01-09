@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Product.
 
 Use it like this: 
-- [ #has_/id_/product :: Text ] or 
+- [ #has_/id_/product :: Text ] 
 - [ has_id_product :: Text ] 
 
 The product identifier, such as ISBN. For example: <code>meta itemprop="productID" content="isbn:123-456-789"</code>.

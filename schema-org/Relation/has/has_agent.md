@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this in an [[../../Class/is_a_/action|action]]: 
-- [ #has_/agent :: Organization, Person ] or 
+- [has_/agent :: Organization, Person ]  
 - [ has_agent :: Organization, Person ] 
 
 The direct performer or driver of an action (animate or inanimate). 

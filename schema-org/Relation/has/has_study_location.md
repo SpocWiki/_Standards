@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/study_location :: AdministrativeArea ] or 
+- [has_/study_location :: AdministrativeArea ]  
 - [ has_study_location :: AdministrativeArea ] 
 
 The location in which the study is taking/took place.

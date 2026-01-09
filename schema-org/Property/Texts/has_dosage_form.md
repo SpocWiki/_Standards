@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_of_/dosage_form :: Text ] or 
+- [ #has_/text_of_/dosage_form :: Text ] 
 - [ has_text_of_dosage_form :: Text ] 
 
 A dosage form in which this drug/supplement is available, e.g. "tablet", "suspension", "injection".

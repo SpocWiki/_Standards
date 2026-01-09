@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/merchant :: Organization, Person ] or 
+- [has_/merchant :: Organization, Person ]  
 - [ has_merchant :: Organization, Person ] 
 
 'merchant' is an out-dated term for 'seller'.

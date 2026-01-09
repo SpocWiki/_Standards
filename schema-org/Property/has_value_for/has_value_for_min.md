@@ -31,7 +31,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue.
 
 Use it like this: 
-- [ #has_/value_for_/min :: Number ] or 
+- [has_/value_for_/min :: Number ]  
 - [ has_value_for_min :: Number ] 
 
 The lower value of some characteristic or property.

@@ -34,7 +34,7 @@ This is a List of [[../../Class/is_a_/Intangible/structured_value/interaction_co
 Use a specific [[has_interaction_type|interactionType]] for each InteractionCounter.
 
 Use it like this: 
-- [ #has_/interaction_statistic :: InteractionCounter ] or 
+- [has_/interaction_statistic :: InteractionCounter ]  
 - [ has_interaction_statistic :: InteractionCounter ] 
 
 Relation describes that: 

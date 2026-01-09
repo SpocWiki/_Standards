@@ -33,7 +33,7 @@ Predicate to describe the Text of Legislation.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/id_/legislation :: Text, URL ] or 
+- [ #has_/id_/legislation :: Text, URL ] 
 - [ has_id_legislation :: Text, URL ] 
 
 An identifier for the legislation. This can be either a string-based identifier, like the CELEX at EU level or the NOR in France, or a web-based, URL/URI identifier, like an ELI (European Legislation Identifier) or an URN-Lex.

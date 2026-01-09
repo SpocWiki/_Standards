@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/css_selector :: CssSelectorType ] or 
+- [has_/css_selector :: CssSelectorType ]  
 - [ has_css_selector :: CssSelectorType ] 
 
 A CSS selector, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".

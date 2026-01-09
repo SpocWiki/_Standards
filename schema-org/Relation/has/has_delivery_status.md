@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/delivery_status :: DeliveryEvent ] or 
+- [has_/delivery_status :: DeliveryEvent ]  
 - [ has_delivery_status :: DeliveryEvent ] 
 
 New entry added as the package passes through each leg of its journey (from shipment to final delivery).

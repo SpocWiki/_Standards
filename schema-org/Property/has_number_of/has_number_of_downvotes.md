@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of Comment.
 
 Use it like this: 
-- [ #has_/number_of_/downvotes :: Integer ] or 
+- [has_/number_of_/downvotes :: Integer ]  
 - [ has_number_of_downvotes :: Integer ] 
 
 The number of downvotes this question, answer or comment has received from the community.

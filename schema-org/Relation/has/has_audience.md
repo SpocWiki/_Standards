@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/audience :: Audience ] or 
+- [has_/audience :: Audience ]  
 - [ has_audience :: Audience ] 
 
 An intended audience, i.e. a group for whom something was created.

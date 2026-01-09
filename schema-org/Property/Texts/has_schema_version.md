@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_of_/schema_version :: Text, URL ] or 
+- [ #has_/text_of_/schema_version :: Text, URL ] 
 - [ has_text_of_schema_version :: Text, URL ] 
 
 Indicates (by URL or string) a particular version of a schema used in some CreativeWork. This property was created primarily to

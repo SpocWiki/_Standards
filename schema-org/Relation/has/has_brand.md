@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/brand :: Brand, Organization ] or 
+- [has_/brand :: Brand, Organization ]  
 - [ has_brand :: Brand, Organization ] 
 
 The brand(s) associated with a product or service, or the brand(s) maintained by an organization or business person.

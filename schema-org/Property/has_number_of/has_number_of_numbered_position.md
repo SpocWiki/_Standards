@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of OrganizationRole.
 
 Use it like this: 
-- [ #has_/number_of_/numbered_position :: Number ] or 
+- [has_/number_of_/numbered_position :: Number ]  
 - [ has_number_of_numbered_position :: Number ] 
 
 A number associated with a role in an organization, for example, the number on an athlete's jersey.

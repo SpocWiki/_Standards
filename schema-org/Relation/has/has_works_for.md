@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/works_for :: Organization ] or 
+- [has_/works_for :: Organization ]  
 - [ has_works_for :: Organization ] 
 
 Organizations that the person works for.

@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/arrival_station :: TrainStation ] or 
+- [has_/arrival_station :: TrainStation ]  
 - [ has_arrival_station :: TrainStation ] 
 
 The station where the train trip ends.

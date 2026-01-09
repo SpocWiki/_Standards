@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/occupation :: Occupation ] or 
+- [has_/occupation :: Occupation ]  
 - [ has_occupation :: Occupation ] 
 
 The Person's occupation. For past professions, use Role for expressing dates.

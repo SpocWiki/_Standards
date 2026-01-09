@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/suggested_answer :: Answer, ItemList ] or 
+- [has_/suggested_answer :: Answer, ItemList ]  
 - [ has_suggested_answer :: Answer, ItemList ] 
 
 An answer (possibly one of several, possibly incorrect) to a Question, e.g. on a Question/Answer site.

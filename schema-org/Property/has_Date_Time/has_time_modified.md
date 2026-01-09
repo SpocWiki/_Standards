@@ -29,8 +29,9 @@ type: Predi_Date_Time
 Predicate to describe the date of CreativeWork, DataFeedItem, Reservation.
 
 Use it like this: 
-- [has_time_modified::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/modified::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_modified::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/modified::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date (and time) the reservation  or CreativeWork 
 was most recently modified 

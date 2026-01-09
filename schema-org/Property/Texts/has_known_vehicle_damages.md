@@ -33,7 +33,7 @@ type: Pred_Text
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- [ #has_/text_of_/known_vehicle_damages :: Text ] or 
+- [ #has_/text_of_/known_vehicle_damages :: Text ] 
 - [ has_text_of_known_vehicle_damages :: Text ] 
 
 A textual description of known damages, both repaired and unrepaired.

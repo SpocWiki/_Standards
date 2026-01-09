@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending: 
 
 Use it like this: 
-- [ #is_/plan_for_apartment :: Accommodation] or 
+- [is_/plan_for_apartment :: Accommodation]  
 - [ is_plan_for_apartment :: Accommodation] 
 
 Indicates some accommodation that this floor plan describes.

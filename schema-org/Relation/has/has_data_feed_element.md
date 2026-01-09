@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/data_feed_element :: DataFeedItem, Text, Thing ] or 
+- [has_/data_feed_element :: DataFeedItem, Text, Thing ]  
 - [ has_data_feed_element :: DataFeedItem, Text, Thing ] 
 
 An item within a data feed. Data feeds may have many elements.

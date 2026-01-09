@@ -30,7 +30,7 @@ type: Predi_Quantity
 Predicate to describe the Quantity of UnitPriceSpecification.
 
 Use it like this: 
-- [ #has_/value_for_/reference_quantity :: QuantitativeValue ] or 
+- [has_/value_for_/reference_quantity :: QuantitativeValue ]  
 - [ has_value_for_reference_quantity :: QuantitativeValue ] 
 
 The reference quantity for which a certain price applies, e.g. 1 EUR per 4 kWh of electricity. This property is a replacement for unitOfMeasurement for the advanced cases where the price does not relate to a standard unit.

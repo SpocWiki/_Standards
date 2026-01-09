@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/grantee :: Audience, ContactPoint, Organization, Person ] or 
+- [has_/grantee :: Audience, ContactPoint, Organization, Person ]  
 - [ has_grantee :: Audience, ContactPoint, Organization, Person ] 
 
 The person, organization, contact point, or audience that has been granted this permission.

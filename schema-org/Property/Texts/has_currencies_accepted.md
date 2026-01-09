@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of LocalBusiness.
 
 Use it like this: 
-- [ #has_/text_of_/currencies_accepted :: Text ] or 
+- [ #has_/text_of_/currencies_accepted :: Text ] 
 - [ has_text_of_currencies_accepted :: Text ] 
 
 The currency accepted.

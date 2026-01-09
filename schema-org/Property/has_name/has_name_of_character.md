@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]].
 
 Use it like this: 
-- [ #has_/name_/of_character :: Text ] or 
+- [ #has_/name_/of_character :: Text ] 
 - [ has_name_of_character :: Text ] 
 
 The name of a character played in some acting or performing role, i.e. in a [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]].

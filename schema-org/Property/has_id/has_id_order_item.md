@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of OrderItem.
 
 Use it like this: 
-- [ #has_/id_/order_item :: Text ] or 
+- [ #has_/id_/order_item :: Text ] 
 - [ has_id_order_item :: Text ] 
 
 The identifier of the order item.

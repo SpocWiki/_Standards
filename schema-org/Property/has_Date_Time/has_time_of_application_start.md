@@ -31,8 +31,9 @@ Predicate to describe the date of EducationalOccupationalProgram.
 [is_part_of:: pending:]
 
 Use it like this: 
-- [has_time_of_application_start::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/of_application_start::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_of_application_start::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/of_application_start::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date at which the program begins collecting applications for the next enrollment cycle.
 

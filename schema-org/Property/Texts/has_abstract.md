@@ -37,7 +37,7 @@ but the Abstract is shorter, typically only a Paragraph or a single Sentence.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/abstract :: [[../../Class/is_a_/data_type/text|Text]] ] or 
+- [ #has_/text_of_/abstract :: [[../../Class/is_a_/data_type/text|Text]] ] 
 - [ has_text_of_abstract :: [[../../Class/is_a_/data_type/text|Text]] ] 
 
 Predicated describes that: 

@@ -31,7 +31,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/special_opening_hours_specification :: OpeningHoursSpecification ] or 
+- [has_/special_opening_hours_specification :: OpeningHoursSpecification ]  
 - [ has_special_opening_hours_specification :: OpeningHoursSpecification ] 
 
 The special opening hours of a certain place.

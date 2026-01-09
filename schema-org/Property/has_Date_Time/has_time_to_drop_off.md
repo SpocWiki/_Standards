@@ -29,8 +29,9 @@ type: Predi_Date_Time
 Predicate to describe the time of RentalCarReservation.
 
 Use it like this: 
-- [has_time_to_drop_off::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/to_drop_off::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_to_drop_off::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/to_drop_off::P#Y#M#W#DT#H#M#s.fff] 
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 When a rental car can be dropped off.
 

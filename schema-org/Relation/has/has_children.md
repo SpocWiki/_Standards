@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/children :: Person ] or 
+- [has_/children :: Person ]  
 - [ has_children :: Person ] 
 
 A child of the person.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/offer_catalog :: OfferCatalog ] or 
+- [has_/offer_catalog :: OfferCatalog ]  
 - [ has_offer_catalog :: OfferCatalog ] 
 
 Indicates an OfferCatalog listing for this Organization, Person, or Service.

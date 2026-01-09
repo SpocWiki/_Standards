@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of BusTrip.
 
 Use it like this: 
-- [ #has_/id_/of_bus :: Text ] or 
+- [ #has_/id_/of_bus :: Text ] 
 - [ has_id_of_bus :: Text ] 
 
 The unique identifier for the bus.

@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of Book.
 
 Use it like this: 
-- [ #has_/number_of_/pages :: Integer ] or 
+- [has_/number_of_/pages :: Integer ]  
 - [ has_number_of_pages :: Integer ] 
 
 The number of pages in the book.

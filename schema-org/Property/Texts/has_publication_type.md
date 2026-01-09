@@ -32,7 +32,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalScholarlyArticle.
 
 Use it like this: 
-- [ #has_/text_of_/publication_type :: Text ] or 
+- [ #has_/text_of_/publication_type :: Text ] 
 - [ has_text_of_publication_type :: Text ] 
 
 The type of the medical article, taken from the US NLM MeSH publication type catalog. See also [MeSH documentation](http://www.nlm.nih.gov/mesh/pubtypes.html).

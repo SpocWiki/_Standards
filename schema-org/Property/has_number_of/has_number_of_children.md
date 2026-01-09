@@ -30,7 +30,7 @@ type: Predi_Count
 Predicate to describe the Number of LodgingReservation.
 
 Use it like this: 
-- [ #has_/number_of_/children :: Integer, QuantitativeValue ] or 
+- [has_/number_of_/children :: Integer, QuantitativeValue ]  
 - [ has_number_of_children :: Integer, QuantitativeValue ] 
 
 The number of children staying in the unit.

@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of RentalCarReservation.
 
 Use it like this: 
-- [ #has_/location_/dropoff_location :: Place ] or 
+- [ #has_/location_/dropoff_location :: Place ] 
 - [ has_location_dropoff :: Place ] 
 
 Where a rental car can be dropped off.

@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending: 
 
 Use it like this: 
-- [ #is_/part_of_/bio_chem_entity :: [[bio_chem_entity]] ] or 
+- [ #is_/part_of_/bio_chem_entity :: [[bio_chem_entity]] ] 
 - [ is_part_of_bio_chem_entity :: [[../../../Class/is_a_thing/bio_chem_entity]]] 
 
 Indicates a BioChemEntity that is (in some sense) a part of this BioChemEntity.

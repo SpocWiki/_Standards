@@ -33,7 +33,7 @@ Predicate to describe the Text of Demand, Offer, Product.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/gtin :: Text, URL ] or 
+- [ #has_/text_of_/gtin :: Text, URL ] 
 - [ has_text_of_gtin :: Text, URL ] 
 
 A Global Trade Item Number ([GTIN](https://www.gs1.org/standards/id-keys/gtin)). GTINs identify trade items, including products and services, using numeric identification codes.

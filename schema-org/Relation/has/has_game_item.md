@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [[Thing| #has_/game_item :: [Thing]] ] or 
+- [[Thing| #has_/game_item :: [Thing]] ] 
 - [[../../../Class/Thing.md| has_game_item :: [Thing]] ] 
 
 An item is an object within the game world that can be collected by a player or, occasionally, a non-player character.

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/exif_data :: PropertyValue, Text ] or 
+- [has_/exif_data :: PropertyValue, Text ]  
 - [ has_exif_data :: PropertyValue, Text ] 
 
 exif data for this object.

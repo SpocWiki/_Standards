@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/related_to :: Person ] or 
+- [has_/related_to :: Person ]  
 - [ has_related_to :: Person ] 
 
 The most generic familial relation.

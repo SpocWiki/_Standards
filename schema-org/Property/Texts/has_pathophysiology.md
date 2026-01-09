@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of MedicalCondition, PhysicalActivity.
 
 Use it like this: 
-- [ #has_/text_of_/pathophysiology :: Text ] or 
+- [ #has_/text_of_/pathophysiology :: Text ] 
 - [ has_text_of_pathophysiology :: Text ] 
 
 Changes in the normal mechanical, physical, and biochemical functions that are associated with this activity or condition.

@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of Reservation.
 
 Use it like this: 
-- [ #has_/id_/reservation :: Text ] or 
+- [ #has_/id_/reservation :: Text ] 
 - [ has_id_reservation :: Text ] 
 
 A unique identifier for the reservation.

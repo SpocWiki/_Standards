@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of Game, VideoGameSeries.
 
 Use it like this: 
-- [ #has_/location_/game :: Place, PostalAddress, URL ] or 
+- [has_/location_/game :: Place, PostalAddress, URL ]  
 - [ has_location_game :: Place, PostalAddress, URL ] 
 
 Real or fictional location of the game (or part of game).

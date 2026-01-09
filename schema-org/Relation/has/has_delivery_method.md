@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/delivery_method :: DeliveryMethod ] or 
+- [has_/delivery_method :: DeliveryMethod ]  
 - [ has_delivery_method :: DeliveryMethod ] 
 
 Method used for delivery or shipping.

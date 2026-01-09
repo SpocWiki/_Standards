@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/included_risk_factor :: MedicalRiskFactor ] or 
+- [has_/included_risk_factor :: MedicalRiskFactor ]  
 - [ has_included_risk_factor :: MedicalRiskFactor ] 
 
 A modifiable or non-modifiable risk factor included in the calculation, e.g. age, coexisting condition.

@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/alumni :: Person ] or 
+- [has_/alumni :: Person ]  
 - [ has_alumni :: Person ] 
 
 Alumni of an organization.

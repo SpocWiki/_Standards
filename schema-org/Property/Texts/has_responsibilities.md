@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of JobPosting, Occupation.
 
 Use it like this: 
-- [ #has_/text_of_/responsibilities :: Text ] or 
+- [ #has_/text_of_/responsibilities :: Text ] 
 - [ has_text_of_responsibilities :: Text ] 
 
 Responsibilities associated with this role or Occupation.

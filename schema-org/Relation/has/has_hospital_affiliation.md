@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/hospital_affiliation :: Hospital ] or 
+- [has_/hospital_affiliation :: Hospital ]  
 - [ has_hospital_affiliation :: Hospital ] 
 
 A hospital with which the physician or office is affiliated.

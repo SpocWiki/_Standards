@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/imaging_technique :: MedicalImagingTechnique ] or 
+- [has_/imaging_technique :: MedicalImagingTechnique ]  
 - [ has_imaging_technique :: MedicalImagingTechnique ] 
 
 Imaging technique used.
