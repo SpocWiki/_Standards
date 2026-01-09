@@ -157,27 +157,34 @@ dv_has_value_for_temperature_boil_c: 3127
 
 
 #chemic/Element 
-GroupName = `=this.dv_GroupName` 
-Group = `=this.dv_Group` 
+has_/name_/group::Lanthanide-Group
+is_/part_of::[[../Lanthanide]]
 
 
-has_name_en = `=this.dv_has_name_en` 
-has_name_de = `=this.dv_has_name_de` 
-has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
-AtomRadius = `=this.dv_AtomRadius` 
-has_/value_for_/volume_/ccm_/mol = `=this.dv_has_/value_for_/volume_/ccm_/mol` 
-Unknown2 = `=this.dv_Unknown2` 
-has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
-Electronegative = `=this.dv_Electronegative` 
-Density = `=this.dv_Density` 
-has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
-has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
-HeatCapacity = `=this.dv_HeatCapacity` 
-HeatConduct = `=this.dv_HeatConduct` 
-Enthalpy = `=this.dv_Enthalpy` 
-has_/value_for_/energy_/form_/kj_/mol = `=this.dv_has_/value_for_/energy_/form_/kj_/mol` 
-PeriodNo = `=this.dv_PeriodNo` 
-GroupNo = `=this.dv_GroupNo` 
+has_/name_/en::Neodymium
+
+has_/name_/de::Neodym
+
+has_/value_for_/weight_/u::144.24
+has_/value_for_/radius::2.64
+has_/value_for_/volume_/ccm_/mol::20.6
+has_/value_for_/unknown2::1.64
+
+has_/value_for_/radius_/nano_/m::5.53
+
+[has_/value_for_/electronegativity::1.1
+[has_/value_for_/density::7]
+
+has_/value_for_/temperature_/melt_/c ::1010
+
+has_/value_for_/temperature_/boil_/c ::3127
+
+has_/value_for_/capacity_/heat::0.19
+has_/value_for_/conductivity_/heat::0.165
+has_/value_for_/enthalpy::7.14
+has_/value_for_/energy_/form_/kj_/mol::273
+has_/number_of_/period::6
+has_/number_of_/group::26
 
 
 

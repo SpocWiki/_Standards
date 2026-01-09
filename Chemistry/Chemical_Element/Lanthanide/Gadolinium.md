@@ -62,6 +62,7 @@ dv_has_:
     group: Lanthanide-Group
     en: Gadolinium
     de: Gadolinium
+    abbreviated: Gd
   value_for_:
     weight_:
       u: 157.25
@@ -92,8 +93,7 @@ dv_has_:
   number_of_:
     period: 6
     group: 30
-dv_Abbr: Gd
-dv_Charge-e: 64
+    electrons: 64
 dv_is_same_as:
   - "[[../../../WikiData/WD~Gadolinium,1832]]"
   - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Gadolinium|Gadolinium]]"
@@ -122,46 +122,47 @@ dv_has_value_for_enthalpy: 10.05
 dv_has_value_for_energy_form_kj_mol: 359.4
 dv_has_number_of_period: 6
 dv_has_number_of_group: 30
+dv_has_name_abbreviated: Gd
+dv_has_number_of_electrons: 64
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Gadolinium,1832]] 
 
-
 #chemic/Element 
-[has_/name_/group::Lanthanide-Group]
-is_/part_of::[[../Lanthanide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Gadolinium 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Gadolinium 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::157.25 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::2.54]
-[has_/value_for_/volume_/ccm_/mol::19.9]
-[has_/value_for_/unknown2::1.61]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::6.15 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.2]
-[has_/value_for_/density::7.89]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::1311 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::3233 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.23]
-[has_/value_for_/conductivity_/heat::0.106]
-[has_/value_for_/enthalpy::10.05]
-[has_/value_for_/energy_/form_/kj_/mol::359.4]
-(has_/number_of_/period::6)
-(has_/number_of_/group::30)
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 
 
 ## #has_/text_of_/abstract 
 
-> **Gadolinium** is a chemical element with the symbol (has_/name_/abbreviated::Gd) and atomic number (has_/number_of_/electrons::64). Gadolinium is a silvery-white metal when oxidation is removed. It is only slightly malleable and is a ductile rare-earth element. Gadolinium reacts with atmospheric oxygen or moisture slowly to form a black coating. Gadolinium below its Curie point of 20 °C (68 °F) is ferromagnetic, with an attraction to a magnetic field higher than that of nickel. Above this temperature it is the most paramagnetic element. It is found in nature only in an oxidized form. When separated, it usually has impurities of the other rare-earths because of their similar chemical properties.
+> **Gadolinium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . Gadolinium is a silvery-white metal when oxidation is removed. It is only slightly malleable and is a ductile rare-earth element. Gadolinium reacts with atmospheric oxygen or moisture slowly to form a black coating. Gadolinium below its Curie point of 20 °C (68 °F) is ferromagnetic, with an attraction to a magnetic field higher than that of nickel. Above this temperature it is the most paramagnetic element. It is found in nature only in an oxidized form. When separated, it usually has impurities of the other rare-earths because of their similar chemical properties.
 >
 > Gadolinium was discovered in 1880 by Jean Charles de Marignac, who detected its oxide by using spectroscopy. It is named after the mineral gadolinite, one of the minerals in which gadolinium is found, itself named for the Finnish chemist Johan Gadolin. Pure gadolinium was first isolated by the chemist Paul-Émile Lecoq de Boisbaudran around 1886.
 >

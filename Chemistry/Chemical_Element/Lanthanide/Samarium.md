@@ -57,7 +57,7 @@ UNII: 42OD65L39F
 
 
 #chemic/Element 
-[has_/name_/group::Lanthanide-Group]
+has_/name_/group::Lanthanide-Group
 is_/part_of::[[../Lanthanide]]
 
 has_/name_/en::Samarium 
@@ -65,10 +65,9 @@ has_/name_/en::Samarium
 has_/name_/de::Samarium 
 
 has_/value_for_/weight_/u::150.36 
-
-[has_/value_for_/radius::2.59]
-[has_/value_for_/volume_/ccm_/mol::19.95]
-[has_/value_for_/unknown2::1.62]
+has_/value_for_/radius::2.59
+has_/value_for_/volume_/ccm_/mol::19.95
+has_/value_for_/unknown2::1.62
 
 has_/value_for_/radius_/nano_/m::5.64 
 
@@ -83,8 +82,8 @@ has_/value_for_/temperature_/boil_/c ::1778
 [has_/value_for_/conductivity_/heat::0.133]
 [has_/value_for_/enthalpy::8.63]
 [has_/value_for_/energy_/form_/kj_/mol::166.4]
-(has_/number_of_/period::6)
-(has_/number_of_/group::28)
+has_/number_of_/period::6
+has_/number_of_/group::28
 
 #is_/same_as :: [[../../../WikiData/WD~Samarium,1819]] 
 

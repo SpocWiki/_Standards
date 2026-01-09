@@ -124,6 +124,7 @@ dv_has_:
     group: Lanthanide-Group
     en: Lanthanum
     de: Lanthan
+    abbreviated: La
   value_for_:
     weight_:
       u: 138.9055
@@ -154,8 +155,7 @@ dv_has_:
   number_of_:
     period: 6
     group: 3
-dv_Abbr: La
-dv_Charge-e: 57
+    electrons: 57
 dv_is_same_as:
   - "[[../../../WikiData/WD~Lanthanum,1801]]"
   - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Lanthanum|Lanthanum]]"
@@ -184,38 +184,44 @@ dv_has_value_for_enthalpy: 6.2
 dv_has_value_for_energy_form_kj_mol: 414
 dv_has_number_of_period: 6
 dv_has_number_of_group: 3
+dv_has_name_abbreviated: La
+dv_has_number_of_electrons: 57
 ---
+
+# [[Lanthanum]] 
+
+## [[Lanthanum]] has Properties...
 
 #is_/same_as :: [[../../../WikiData/WD~Lanthanum,1801]] 
 
 
 #chemic/Element 
-[has_/name_/group::Lanthanide-Group]
-is_/part_of::[[../Lanthanide]] 
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-has_/name_/en::Lanthanum 
+has_name_en = `=this.dv_has_name_en` 
 
-has_/name_/de::Lanthan 
+has_name_de = `=this.dv_has_name_de` 
 
-has_/value_for_/weight_/u::138.9055 
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 
-[has_/value_for_/radius::2.74]
-[has_/value_for_/volume_/ccm_/mol::20.73]
-[has_/value_for_/unknown2::1.69]
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
 
-has_/value_for_/radius_/nano_/m::5.58 
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 
-[has_/value_for_/electronegativity::1.1]
-[has_/value_for_/density::6.7]
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
 
-has_/value_for_/temperature_/melt_/c ::920 
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
 
-has_/value_for_/temperature_/boil_/c ::3454 
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
 
-[has_/value_for_/capacity_/heat::0.19]
-[has_/value_for_/conductivity_/heat::0.135]
-[has_/value_for_/enthalpy::6.2]
-[has_/value_for_/energy_/form_/kj_/mol::414]
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
 has_/number_of_/period::6
 has_/number_of_/group::3
 has_/number_of_/period::6 
@@ -223,7 +229,7 @@ has_/number_of_/group::3
 
 ## #has_/text_of_/abstract 
 
-> **Lanthanum** is a chemical element with the symbol (has_/name_/abbreviated::La) and atomic number (has_/number_of_/electrons::57). 
+> **Lanthanum** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > 
 > It is a soft, ductile, silvery-white metal that tarnishes slowly when exposed to air. 
 > 
