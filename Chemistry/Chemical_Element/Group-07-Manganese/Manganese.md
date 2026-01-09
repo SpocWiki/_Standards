@@ -112,8 +112,8 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Manganese,731]] 
 
-[GroupName::Group-07-Manganese]
-Group::[[../Group-07-Manganese]]
+[has_/name_/group::Group-07-Manganese]
+is_/part_of::[[../Group-07-Manganese]]
 
 has_/name_/en::Manganese 
 
@@ -121,25 +121,25 @@ has_/name_/de::Mangan
 
 has_/value_for_/weight_/u::54.938 
 
-[AtomRadius::1.79]
-[Atom-Vol-ccm-mol::1.39]
-[Unknown2::1.17]
+[has_/value_for_/radius::1.79]
+[has_/value_for_/volume_/ccm_/mol::1.39]
+[has_/value_for_/unknown2::1.17]
 
 has_/value_for_/radius_/nano_/m::7.435 
 
-[Electronegative::1.5]
-[Density::7.43]
+[has_/value_for_/electronegativity::1.5]
+[has_/value_for_/density::7.43]
 
 has_/value_for_/temperature_/melt_/c ::1244 
 
 has_/value_for_/temperature_/boil_/c ::1962 
 
-[HeatCapacity::0.48]
-[HeatConduct::0.0782]
-[Enthalpy::12.05]
-[FormEnergy-kj-mol::226]
-(PeriodNo::4)
-(GroupNo::7)
+[has_/value_for_/capacity_/heat::0.48]
+[has_/value_for_/conductivity_/heat::0.0782]
+[has_/value_for_/enthalpy::12.05]
+[has_/value_for_/energy_/form_/kj_/mol::226]
+(has_/number_of_/period::4)
+(has_/number_of_/group::7)
 
 
 ## #has_/text_of_/abstract 

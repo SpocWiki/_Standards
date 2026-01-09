@@ -92,8 +92,8 @@ ZVG_number:
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Cadmium,1091]]  
 
-[GroupName::Group-12-Zinc]
-Group::[[../Group-12-Zinc]]
+[has_/name_/group::Group-12-Zinc]
+is_/part_of::[[../Group-12-Zinc]]
 
 has_/name_/en::Cadmium 
 
@@ -101,25 +101,25 @@ has_/name_/de::Cadmium
 
 has_/value_for_/weight_/u::112.41 
 
-[AtomRadius::1.71]
-[Atom-Vol-ccm-mol::13.1]
-[Unknown2::1.48]
+[has_/value_for_/radius::1.71]
+[has_/value_for_/volume_/ccm_/mol::13.1]
+[has_/value_for_/unknown2::1.48]
 
 has_/value_for_/radius_/nano_/m::8.993 
 
-[Electronegative::1.7]
-[Density::8.65]
+[has_/value_for_/electronegativity::1.7]
+[has_/value_for_/density::8.65]
 
 has_/value_for_/temperature_/melt_/c ::320.9 
 
 has_/value_for_/temperature_/boil_/c ::765 
 
-[HeatCapacity::0.23]
-[HeatConduct::0.968]
-[Enthalpy::6.192]
-[FormEnergy-kj-mol::99.57]
-(PeriodNo::5)
-(GroupNo::12)
+[has_/value_for_/capacity_/heat::0.23]
+[has_/value_for_/conductivity_/heat::0.968]
+[has_/value_for_/enthalpy::6.192]
+[has_/value_for_/energy_/form_/kj_/mol::99.57]
+(has_/number_of_/period::5)
+(has_/number_of_/group::12)
 
 
 ## #has_/text_of_/abstract 

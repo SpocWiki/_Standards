@@ -78,8 +78,8 @@ Unicode_character: 碘
 #is_/same_as :: [[../../../WikiData/WD~Iodine,1103]]  
 
 #chemic/Element 
-[GroupName::Group-17-Halogene]
-Group::[[../Group-17-Halogen]]
+[has_/name_/group::Group-17-Halogene]
+is_/part_of::[[../Group-17-Halogen]]
 
 has_/name_/en::Iodine 
 
@@ -87,25 +87,25 @@ has_/name_/de::Iod
 
 has_/value_for_/weight_/u::126.9045 
 
-[AtomRadius::1.32]
-[Atom-Vol-ccm-mol::25.74]
-[Unknown2::1.33]
+[has_/value_for_/radius::1.32]
+[has_/value_for_/volume_/ccm_/mol::25.74]
+[has_/value_for_/unknown2::1.33]
 
 has_/value_for_/radius_/nano_/m::10.451 
 
-[Electronegative::2.7]
-[Density::4.92]
+[has_/value_for_/electronegativity::2.7]
+[has_/value_for_/density::4.92]
 
 has_/value_for_/temperature_/melt_/c ::113.5 
 
 has_/value_for_/temperature_/boil_/c ::184.35 
 
-[HeatCapacity::0.214]
-[HeatConduct::0.00449]
-[Enthalpy::7.824]
-[FormEnergy-kj-mol::23.752]
-(PeriodNo::5)
-(GroupNo::17)
+[has_/value_for_/capacity_/heat::0.214]
+[has_/value_for_/conductivity_/heat::0.00449]
+[has_/value_for_/enthalpy::7.824]
+[has_/value_for_/energy_/form_/kj_/mol::23.752]
+(has_/number_of_/period::5)
+(has_/number_of_/group::17)
 
 #is_/same_as :: [[../../../WikiData/WD~Iodine,1103|WD~Iodine,1103]] 
 

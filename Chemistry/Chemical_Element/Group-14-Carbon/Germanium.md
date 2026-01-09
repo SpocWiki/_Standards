@@ -83,8 +83,8 @@ type: Element
 # [[Germanium]]
 
 #chemic/Element 
-[GroupName::Group-14-Carbon]
-Group::[[../Group-14-Carbon]]
+[has_/name_/group::Group-14-Carbon]
+is_/part_of::[[../Group-14-Carbon]]
 
 has_/name_/en::Germanium 
 
@@ -92,25 +92,25 @@ has_/name_/de::Germanium
 
 has_/value_for_/weight_/u::72.59 
 
-[AtomRadius::1.52]
-[Atom-Vol-ccm-mol::13.6]
-[Unknown2::1.22]
+[has_/value_for_/radius::1.52]
+[has_/value_for_/volume_/ccm_/mol::13.6]
+[has_/value_for_/unknown2::1.22]
 
 has_/value_for_/radius_/nano_/m::7.899 
 
-[Electronegative::2]
-[Density::5.32]
+[has_/value_for_/electronegativity::2]
+[has_/value_for_/density::5.32]
 
 has_/value_for_/temperature_/melt_/c ::937.4 
 
 has_/value_for_/temperature_/boil_/c ::2830 
 
-[HeatCapacity::0.32]
-[HeatConduct::0.599]
-[Enthalpy::36.94]
-[FormEnergy-kj-mol::330.9]
-(PeriodNo::4)
-(GroupNo::14)
+[has_/value_for_/capacity_/heat::0.32]
+[has_/value_for_/conductivity_/heat::0.599]
+[has_/value_for_/enthalpy::36.94]
+[has_/value_for_/energy_/form_/kj_/mol::330.9]
+(has_/number_of_/period::4)
+(has_/number_of_/group::14)
 
 #is_/same_as :: [[../../WikiData/WD~Germanium,867|WD~Germanium,867]]
 

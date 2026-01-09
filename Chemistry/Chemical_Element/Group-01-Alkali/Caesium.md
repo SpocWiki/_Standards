@@ -80,8 +80,8 @@ ZVG_number: 7550
 #is_/same_as :: [[../../../WikiData/WD~Caesium,1108]] 
 
 #chemic/Element 
-[GroupName::Group-01-Alkali]
-Group::[[../Group-01-Alkali]]
+[has_/name_/group::Group-01-Alkali]
+is_/part_of::[[../Group-01-Alkali]]
 
 has_/name_/en::Caesium 
 
@@ -89,22 +89,22 @@ has_/name_/de::Caesium
 
 has_/value_for_/weight_/u::132.905 
 
-[AtomRadius::3.34]
-[Atom-Vol-ccm-mol::71.07]
-[Unknown2::2.35]
+[has_/value_for_/radius::3.34]
+[has_/value_for_/volume_/ccm_/mol::71.07]
+[has_/value_for_/unknown2::2.35]
 
 has_/value_for_/radius_/nano_/m::3.894 
 
-[Density::1.87]
+[has_/value_for_/density::1.87]
 
 has_/value_for_/temperature_/boil_/c ::678.4 
 
-[HeatCapacity::0.24]
-[HeatConduct::0.359]
-[Enthalpy::2.092]
-[FormEnergy-kj-mol::67.74]
-(PeriodNo::6)
-(GroupNo::1)
+[has_/value_for_/capacity_/heat::0.24]
+[has_/value_for_/conductivity_/heat::0.359]
+[has_/value_for_/enthalpy::2.092]
+[has_/value_for_/energy_/form_/kj_/mol::67.74]
+(has_/number_of_/period::6)
+(has_/number_of_/group::1)
 
 
 ## #has_/text_of_/abstract 
@@ -118,7 +118,7 @@ has_/value_for_/temperature_/boil_/c ::678.4
 > Caesium has physical and chemical properties similar to those of rubidium and potassium. 
 > It is pyrophoric and reacts with water even at −116 °C (−177 °F). 
 > 
-> It is the least electronegative element, with a value of [Electronegative::0.79] on the Pauling scale. 
+> It is the least electronegative element, with a value of [has_/value_for_/electronegativity::0.79] on the Pauling scale. 
 > It has only one stable isotope, caesium-133. 
 > 
 > Caesium is mined mostly from pollucite. 

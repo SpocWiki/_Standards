@@ -88,8 +88,8 @@ Krugosvet_article_archived_: himiya/kislorod
 # [[Oxygen]]
 
 #chemic/Element 
-[GroupName::Group-16-Chalcogene]
-Group::[[../Group-16-Chalcogene]]
+[has_/name_/group::Group-16-Chalcogene]
+is_/part_of::[[../Group-16-Chalcogene]]
 
 has_/name_/en::Oxygen 
 
@@ -97,25 +97,25 @@ has_/name_/de::Sauerstoff
 
 has_/value_for_/weight_/u::15.9994 
 
-[AtomRadius::0.65]
-[Atom-Vol-ccm-mol::14]
-[Unknown2::0.73]
+[has_/value_for_/radius::0.65]
+[has_/value_for_/volume_/ccm_/mol::14]
+[has_/value_for_/unknown2::0.73]
 
 has_/value_for_/radius_/nano_/m::13.618 
 
-[Electronegative::3.4]
-[Density::1.429]
+[has_/value_for_/electronegativity::3.4]
+[has_/value_for_/density::1.429]
 
 has_/value_for_/temperature_/melt_/c ::-218.4 
 
 has_/value_for_/temperature_/boil_/c ::-182.96 
 
-[HeatCapacity::0.92]
-[HeatConduct::0.000267]
-[Enthalpy::0.22259]
-[FormEnergy-kj-mol::3.4099]
-(PeriodNo::2)
-(GroupNo::16)
+[has_/value_for_/capacity_/heat::0.92]
+[has_/value_for_/conductivity_/heat::0.000267]
+[has_/value_for_/enthalpy::0.22259]
+[has_/value_for_/energy_/form_/kj_/mol::3.4099]
+(has_/number_of_/period::2)
+(has_/number_of_/group::16)
 
 #is_/same_as :: [[../../../WikiData/WD~Oxygen,629]] 
 

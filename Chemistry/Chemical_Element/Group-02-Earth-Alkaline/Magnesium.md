@@ -102,8 +102,8 @@ ZVG_number:
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Magnesium,660]] 
 
-[GroupName::Group-02-Earth-Alkaline]
-Group::[[../Group-02-Earth-Alkaline]]
+[has_/name_/group::Group-02-Earth-Alkaline]
+is_/part_of::[[../Group-02-Earth-Alkaline]]
 
 has_/name_/en::Magnesium 
 
@@ -111,25 +111,25 @@ has_/name_/de::Magnesium
 
 has_/value_for_/weight_/u::24.305 
 
-[AtomRadius::1.72]
-[Atom-Vol-ccm-mol::13.97]
-[Unknown2::1.36]
+[has_/value_for_/radius::1.72]
+[has_/value_for_/volume_/ccm_/mol::13.97]
+[has_/value_for_/unknown2::1.36]
 
 has_/value_for_/radius_/nano_/m::7.646 
 
-[Electronegative::1.3]
-[Density::1.74]
+[has_/value_for_/electronegativity::1.3]
+[has_/value_for_/density::1.74]
 
 has_/value_for_/temperature_/melt_/c ::648.8 
 
 has_/value_for_/temperature_/boil_/c ::1090 
 
-[HeatCapacity::1.02]
-[HeatConduct::1.56]
-[Enthalpy::8.954]
-[FormEnergy-kj-mol::127.4]
-(PeriodNo::3)
-(GroupNo::2)
+[has_/value_for_/capacity_/heat::1.02]
+[has_/value_for_/conductivity_/heat::1.56]
+[has_/value_for_/enthalpy::8.954]
+[has_/value_for_/energy_/form_/kj_/mol::127.4]
+(has_/number_of_/period::3)
+(has_/number_of_/group::2)
 
 #is_/same_as :: [[../../../WikiData/WD~Magnesium,660|WD~Magnesium,660]] 
 

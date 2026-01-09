@@ -86,8 +86,8 @@ ZVG_number:
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Zirconium,1038]] 
 
-[GroupName::Group-04-Titanium]
-Group::[[../Group-04-Titanium]] 
+[has_/name_/group::Group-04-Titanium]
+is_/part_of::[[../Group-04-Titanium]] 
 
 has_/name_/en::Zirconium 
 
@@ -95,25 +95,25 @@ has_/name_/de::Zirkonium
 
 has_/value_for_/weight_/u::91.224 
 
-[AtomRadius::2.16]
-[Atom-Vol-ccm-mol::14.1]
-[Unknown2::1.45]
+[has_/value_for_/radius::2.16]
+[has_/value_for_/volume_/ccm_/mol::14.1]
+[has_/value_for_/unknown2::1.45]
 
 has_/value_for_/radius_/nano_/m::6.84 
 
-[Electronegative::1.3]
-[Density::6.49]
+[has_/value_for_/electronegativity::1.3]
+[has_/value_for_/density::6.49]
 
 has_/value_for_/temperature_/melt_/c ::1852 
 
 has_/value_for_/temperature_/boil_/c ::4377 
 
-[HeatCapacity::0.27]
-[HeatConduct::0.227]
-[Enthalpy::16.9]
-[FormEnergy-kj-mol::58.2]
-(PeriodNo::5)
-(GroupNo::4)
+[has_/value_for_/capacity_/heat::0.27]
+[has_/value_for_/conductivity_/heat::0.227]
+[has_/value_for_/enthalpy::16.9]
+[has_/value_for_/energy_/form_/kj_/mol::58.2]
+(has_/number_of_/period::5)
+(has_/number_of_/group::4)
 
 
 ## #has_/text_of_/abstract 

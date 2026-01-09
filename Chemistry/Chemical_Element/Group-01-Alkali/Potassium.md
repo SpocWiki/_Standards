@@ -104,8 +104,8 @@ ZVG_number: 8150
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Potassium,703]] 
 
-[GroupName::Group-01-Alkali]
-Group::[[../Group-01-Alkali]]
+[has_/name_/group::Group-01-Alkali]
+is_/part_of::[[../Group-01-Alkali]]
 
 has_/name_/en::Potassium 
 
@@ -113,25 +113,25 @@ has_/name_/de::Kalium
 
 has_/value_for_/weight_/u::39.0983 
 
-[AtomRadius::2.77]
-[Atom-Vol-ccm-mol::45.46]
-[Unknown2::2.03]
+[has_/value_for_/radius::2.77]
+[has_/value_for_/volume_/ccm_/mol::45.46]
+[has_/value_for_/unknown2::2.03]
 
 has_/value_for_/radius_/nano_/m::4.341 
 
-[Electronegative::0.8]
-[Density::0.86]
+[has_/value_for_/electronegativity::0.8]
+[has_/value_for_/density::0.86]
 
 has_/value_for_/temperature_/melt_/c ::63.65 
 
 has_/value_for_/temperature_/boil_/c ::774 
 
-[HeatCapacity::0.75]
-[HeatConduct::1.024]
-[Enthalpy::2.334]
-[FormEnergy-kj-mol::79.87]
-(PeriodNo::4)
-(GroupNo::1)
+[has_/value_for_/capacity_/heat::0.75]
+[has_/value_for_/conductivity_/heat::1.024]
+[has_/value_for_/enthalpy::2.334]
+[has_/value_for_/energy_/form_/kj_/mol::79.87]
+(has_/number_of_/period::4)
+(has_/number_of_/group::1)
 
 #is_/same_as :: [[../../../WikiData/WD~Potassium,703|WD~Potassium,703]] 
 

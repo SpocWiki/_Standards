@@ -101,8 +101,8 @@ ZVG_number: 8330
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Molybdenum,1053]] 
 
-[GroupName::Group-06-Chromium]
-Group::[[../Group-06-Chromium]]
+[has_/name_/group::Group-06-Chromium]
+is_/part_of::[[../Group-06-Chromium]]
 
 has_/name_/en::Molybdenum 
 
@@ -110,30 +110,30 @@ has_/name_/de::Molybdaen
 
 has_/value_for_/weight_/u::95.94 
 
-[AtomRadius::2.01]
-[Atom-Vol-ccm-mol::9.4]
-[Unknown2::1.3]
+[has_/value_for_/radius::2.01]
+[has_/value_for_/volume_/ccm_/mol::9.4]
+[has_/value_for_/unknown2::1.3]
 
 has_/value_for_/radius_/nano_/m::7.099 
 
-[Electronegative::2.2]
-[Density::10.2]
+[has_/value_for_/electronegativity::2.2]
+[has_/value_for_/density::10.2]
 
 has_/value_for_/temperature_/melt_/c ::2617 
 
 has_/value_for_/temperature_/boil_/c ::4612 
 
-[HeatCapacity::0.25]
-[HeatConduct::1.38]
-[Enthalpy::32]
-[FormEnergy-kj-mol::598]
+[has_/value_for_/capacity_/heat::0.25]
+[has_/value_for_/conductivity_/heat::1.38]
+[has_/value_for_/enthalpy::32]
+[has_/value_for_/energy_/form_/kj_/mol::598]
 
 #is_/same_as :: [[../../../WikiData/WD~Molybdenum,1053|WD~Molybdenum,1053]] 
 
 ## #has_/text_of_/abstract 
 
 > **Molybdenum** is a chemical element with the symbol (Abbr::Mo) and atomic number (Charge-e::42) 
-> which is located in period (PeriodNo::5) and group (GroupNo::6). 
+> which is located in period (has_/number_of_/period::5) and group (has_/number_of_/group::6). 
 > 
 > The name is from Neo-Latin molybdaenum, 
 > which is based on Ancient Greek Μόλυβδος molybdos, meaning lead, 

@@ -71,8 +71,8 @@ ZVG_number: 8260
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Gallium,861]] 
 
-[GroupName::Group-13-Boron]
-Group::[[../Group-13-Boron]]
+[has_/name_/group::Group-13-Boron]
+is_/part_of::[[../Group-13-Boron]]
 
 has_/name_/en::Gallium 
 
@@ -80,31 +80,31 @@ has_/name_/de::Gallium
 
 has_/value_for_/weight_/u::69.723 
 
-[AtomRadius::1.81]
-[Atom-Vol-ccm-mol::11.8]
-[Unknown2::1.26]
+[has_/value_for_/radius::1.81]
+[has_/value_for_/volume_/ccm_/mol::11.8]
+[has_/value_for_/unknown2::1.26]
 
 has_/value_for_/radius_/nano_/m::5.999 
 
-[Electronegative::1.8]
-[Density::5.91]
+[has_/value_for_/electronegativity::1.8]
+[has_/value_for_/density::5.91]
 
 has_/value_for_/temperature_/melt_/c ::29.78 
 
 has_/value_for_/temperature_/boil_/c ::2403 
 
-[HeatCapacity::0.37]
-[HeatConduct::0.406]
-[Enthalpy::5.59]
-[FormEnergy-kj-mol::258.7]
-(PeriodNo::4)
+[has_/value_for_/capacity_/heat::0.37]
+[has_/value_for_/conductivity_/heat::0.406]
+[has_/value_for_/enthalpy::5.59]
+[has_/value_for_/energy_/form_/kj_/mol::258.7]
+(has_/number_of_/period::4)
 
 
 ## #has_/text_of_/abstract 
 
 > **Gallium** is a chemical element with the symbol (Abbr::Ga) and atomic number (Charge-e::31). 
 > Discovered by French chemist Paul-Émile Lecoq de Boisbaudran in 1875, 
-> Gallium is in group (GroupNo::13) of the periodic table 
+> Gallium is in group (has_/number_of_/group::13) of the periodic table 
 > and is similar to the other metals of the group (aluminium, indium, and thallium).
 >
 > Elemental gallium is a soft, silvery metal in standard temperature and pressure. 

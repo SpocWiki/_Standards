@@ -61,8 +61,8 @@ UNII: 5H0DOZ21UJ
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Lutetium,1857]] 
 
-[GroupName::Group-03-Scandium]
-Group::[[../Group-03-Scandium]]
+[has_/name_/group::Group-03-Scandium]
+is_/part_of::[[../Group-03-Scandium]]
 
 has_/name_/en::Lutetium 
 
@@ -72,25 +72,25 @@ has_/name_/de::Lutetium
 
 has_/value_for_/weight_/u::174.967 
 
-[AtomRadius::2.25]
-[Atom-Vol-ccm-mol::17.78]
-[Unknown2::1.56]
+[has_/value_for_/radius::2.25]
+[has_/value_for_/volume_/ccm_/mol::17.78]
+[has_/value_for_/unknown2::1.56]
 
 has_/value_for_/radius_/nano_/m::5.43 
 
-[Electronegative::1.3]
-[Density::9.84]
+[has_/value_for_/electronegativity::1.3]
+[has_/value_for_/density::9.84]
 
 has_/value_for_/temperature_/melt_/c ::1656 
 
 has_/value_for_/temperature_/boil_/c ::3315 
 
-[HeatCapacity::0.15]
-[HeatConduct::0.164]
-[Enthalpy::18.6]
-[FormEnergy-kj-mol::355.9]
-(PeriodNo::6)
-(GroupNo::37)
+[has_/value_for_/capacity_/heat::0.15]
+[has_/value_for_/conductivity_/heat::0.164]
+[has_/value_for_/enthalpy::18.6]
+[has_/value_for_/energy_/form_/kj_/mol::355.9]
+(has_/number_of_/period::6)
+(has_/number_of_/group::37)
 (Charge-e::71)
 
 #is_/same_as :: [[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]] 

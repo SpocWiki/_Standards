@@ -93,8 +93,8 @@ ZVG_number: 3930
 
 
 #chemic/Element 
-[GroupName::Group-15-Nitrogen]
-Group::[[../Group-15-Nitrogen]]
+[has_/name_/group::Group-15-Nitrogen]
+is_/part_of::[[../Group-15-Nitrogen]]
 
 has_/name_/en::Phosphorus 
 
@@ -102,25 +102,25 @@ has_/name_/de::Phosphor
 
 has_/value_for_/weight_/u::30.9738 
 
-[AtomRadius::1.23]
-[Atom-Vol-ccm-mol::17]
-[Unknown2::1.06]
+[has_/value_for_/radius::1.23]
+[has_/value_for_/volume_/ccm_/mol::17]
+[has_/value_for_/unknown2::1.06]
 
 has_/value_for_/radius_/nano_/m::10.486 
 
-[Electronegative::2.2]
-[Density::1.82]
+[has_/value_for_/electronegativity::2.2]
+[has_/value_for_/density::1.82]
 
 has_/value_for_/temperature_/melt_/c ::44.1 
 
 has_/value_for_/temperature_/boil_/c ::280 
 
-[HeatCapacity::0.77]
-[HeatConduct::0.00235]
-[Enthalpy::0.657]
-[FormEnergy-kj-mol::12.129]
-(PeriodNo::3)
-(GroupNo::15)
+[has_/value_for_/capacity_/heat::0.77]
+[has_/value_for_/conductivity_/heat::0.00235]
+[has_/value_for_/enthalpy::0.657]
+[has_/value_for_/energy_/form_/kj_/mol::12.129]
+(has_/number_of_/period::3)
+(has_/number_of_/group::15)
 #is_/same_as :: [[../../../WikiData/WD~Phosphorus,674]]  
 
 

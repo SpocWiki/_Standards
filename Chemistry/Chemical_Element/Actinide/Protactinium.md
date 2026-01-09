@@ -56,8 +56,8 @@ UNII: 0S6855V29M
 # [[Protactinium]]
 
 #chemic/Element 
-[GroupName::Actinide-Group]
-Group::[[../Actinide]]
+[has_/name_/group::Actinide-Group]
+is_/part_of::[[../Actinide]]
 
 has_/name_/en::Protactinium 
 
@@ -67,25 +67,25 @@ has_/name_/de::Protactinium
 
 has_/value_for_/weight_/u::231.0359 
 
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::15]
-[Unknown2::0]
+[has_/value_for_/radius::0]
+[has_/value_for_/volume_/ccm_/mol::15]
+[has_/value_for_/unknown2::0]
 
 has_/value_for_/radius_/nano_/m::5.89 
 
-[Electronegative::1.5]
-[Density::15.4]
+[has_/value_for_/electronegativity::1.5]
+[has_/value_for_/density::15.4]
 
 has_/value_for_/temperature_/melt_/c ::0 
 
 has_/value_for_/temperature_/boil_/c ::0 
 
-[HeatCapacity::0]
-[HeatConduct::0.47]
-[Enthalpy::12.3]
-[FormEnergy-kj-mol::0]
-(PeriodNo::7)
-(GroupNo::25)
+[has_/value_for_/capacity_/heat::0]
+[has_/value_for_/conductivity_/heat::0.47]
+[has_/value_for_/enthalpy::12.3]
+[has_/value_for_/energy_/form_/kj_/mol::0]
+(has_/number_of_/period::7)
+(has_/number_of_/group::25)
 (Charge-e::91)
 
 #is_/same_as :: [[../../../WikiData/WD~Protactinium,1109]] 

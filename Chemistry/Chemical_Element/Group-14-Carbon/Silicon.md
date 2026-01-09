@@ -88,7 +88,7 @@ ZVG_number: 8110
 # [[Silicon]] 
 
 #chemic/Element 
-[GroupName::Group-14-Carbon]
+[has_/name_/group::Group-14-Carbon]
 Group :: [[../Group-14-Carbon]]
 
 has_/name_/en::Silicon 
@@ -97,24 +97,24 @@ has_/name_/de::Silicium
 
 has_/value_for_/weight_/u::28.0855 
 
-[AtomRadius::1.46]
-[Atom-Vol-ccm-mol::12.1]
-[Unknown2::1.11]
+[has_/value_for_/radius::1.46]
+[has_/value_for_/volume_/ccm_/mol::12.1]
+[has_/value_for_/unknown2::1.11]
 
 has_/value_for_/radius_/nano_/m::8.151 
 
-[Electronegative::1.9]
-[Density::2.33]
+[has_/value_for_/electronegativity::1.9]
+[has_/value_for_/density::2.33]
 
 has_/value_for_/temperature_/melt_/c ::1410 
 
 has_/value_for_/temperature_/boil_/c ::2355 
 
-[HeatCapacity::0.71]
-[HeatConduct::1.48]
-[Enthalpy::50.55]
-[FormEnergy-kj-mol::384.22]
-(PeriodNo::3)
+[has_/value_for_/capacity_/heat::0.71]
+[has_/value_for_/conductivity_/heat::1.48]
+[has_/value_for_/enthalpy::50.55]
+[has_/value_for_/energy_/form_/kj_/mol::384.22]
+(has_/number_of_/period::3)
 
 #is_/same_as :: [[../../../WikiData/WD~Silicon,670]] 
 #is_/different_from :: [[../../Organic_Chemistry/Polymer/Silicone|Silicone]] 
@@ -125,7 +125,7 @@ has_/value_for_/temperature_/boil_/c ::2355
 > **Silicon** is a chemical element with the symbol (Abbr::Si) and atomic number (Charge-e::14). 
 > It is a hard, brittle crystalline solid with a blue-grey metallic luster, 
 > and is a tetravalent metalloid and semiconductor. 
-> It is a member of group (GroupNo::14) in the periodic table: 
+> It is a member of group (has_/number_of_/group::14) in the periodic table: 
 > carbon is above it; and germanium, tin, lead, and flerovium are below it. It is relatively unreactive.
 >
 > Because of its high chemical affinity for oxygen, it was 

@@ -68,8 +68,8 @@ vapor_pressure: 1
 
 
 #chemic/Element 
-[GroupName::Group-17-Halogene]
-Group::[[../Group-17-Halogen]]
+[has_/name_/group::Group-17-Halogene]
+is_/part_of::[[../Group-17-Halogen]]
 
 has_/name_/en::Fluorine 
 
@@ -77,25 +77,25 @@ has_/name_/de::Fluor
 
 has_/value_for_/weight_/u::18.9984 
 
-[AtomRadius::0.57]
-[Atom-Vol-ccm-mol::17.1]
-[Unknown2::0.72]
+[has_/value_for_/radius::0.57]
+[has_/value_for_/volume_/ccm_/mol::17.1]
+[has_/value_for_/unknown2::0.72]
 
 has_/value_for_/radius_/nano_/m::17.422 
 
-[Electronegative::4]
-[Density::1.696]
+[has_/value_for_/electronegativity::4]
+[has_/value_for_/density::1.696]
 
 has_/value_for_/temperature_/melt_/c ::-219.62 
 
 has_/value_for_/temperature_/boil_/c ::-188.14 
 
-[HeatCapacity::0.82]
-[HeatConduct::0.000279]
-[Enthalpy::0.2552]
-[FormEnergy-kj-mol::3.2698]
-(PeriodNo::2)
-(GroupNo::17)
+[has_/value_for_/capacity_/heat::0.82]
+[has_/value_for_/conductivity_/heat::0.000279]
+[has_/value_for_/enthalpy::0.2552]
+[has_/value_for_/energy_/form_/kj_/mol::3.2698]
+(has_/number_of_/period::2)
+(has_/number_of_/group::17)
 
 
 

@@ -17,23 +17,23 @@ has_/name_/de::{{Deutsch}}
 
 has_/value_for_/weight_/u::{{#has_/value_for_/weight_/u}} 
 
-[AtomRadius::{{AtomRadius}}]
-[Atom-Vol-ccm-mol::{{Atomvol-ccm-mol}}]
-[Unknown2::{{Unknown2}}]
+[has_/value_for_/radius::{{AtomRadius}}]
+[has_/value_for_/volume_/ccm_/mol::{{Atomvol-ccm-mol}}]
+[has_/value_for_/unknown2::{{Unknown2}}]
 
 has_/value_for_/radius_/nano_/m::{{#has_/value_for_/radius_/nano_/m}} 
 
-[Electronegative::{{Electronegativ}}]
-[Density::{{Density0°}}]
+[has_/value_for_/electronegativity::{{Electronegativ}}]
+[has_/value_for_/density::{{Density0°}}]
 
 has_/value_for_/temperature_/melt_/c ::{{MeltingPoint}} 
 
 has_/value_for_/temperature_/boil_/c ::{{BoilingPoint}} 
 
-[HeatCapacity::{{HeatCapacity}}]
-[HeatConduct::{{HeatConduct}}]
-[Enthalpy::{{Enthalpy}}]
-[FormEnergy-kj-mol::{{FormEnergy-kj-mol}}]
+[has_/value_for_/capacity_/heat::{{HeatCapacity}}]
+[has_/value_for_/conductivity_/heat::{{HeatConduct}}]
+[has_/value_for_/enthalpy::{{Enthalpy}}]
+[has_/value_for_/energy_/form_/kj_/mol::{{has_/value_for_/energy_/form_/kj_/mol}}]
 [PeriodNo::{{PeriodNo}}]
 [GroupNo::{{GroupNo}}]
 [Charge-e::{{Charge-e}}]

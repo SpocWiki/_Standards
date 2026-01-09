@@ -74,8 +74,8 @@ ZVG_number: 7520
 # [[Tellurium]] 
 
 #chemic/Element 
-[GroupName::Group-16-Chalcogene]
-Group::[[../Group-16-Chalcogene]]
+[has_/name_/group::Group-16-Chalcogene]
+is_/part_of::[[../Group-16-Chalcogene]]
 
 has_/name_/en::Tellurium 
 
@@ -83,25 +83,25 @@ has_/name_/de::Tellur
 
 has_/value_for_/weight_/u::127.6 
 
-[AtomRadius::1.42]
-[Atom-Vol-ccm-mol::20.5]
-[Unknown2::1.36]
+[has_/value_for_/radius::1.42]
+[has_/value_for_/volume_/ccm_/mol::20.5]
+[has_/value_for_/unknown2::1.36]
 
 has_/value_for_/radius_/nano_/m::9.009 
 
-[Electronegative::2.1]
-[Density::6.24]
+[has_/value_for_/electronegativity::2.1]
+[has_/value_for_/density::6.24]
 
 has_/value_for_/temperature_/melt_/c ::449.5 
 
 has_/value_for_/temperature_/boil_/c ::989.8 
 
-[HeatCapacity::0.2]
-[HeatConduct::0.0235]
-[Enthalpy::17.49]
-[FormEnergy-kj-mol::52.55]
-(PeriodNo::5)
-(GroupNo::16)
+[has_/value_for_/capacity_/heat::0.2]
+[has_/value_for_/conductivity_/heat::0.0235]
+[has_/value_for_/enthalpy::17.49]
+[has_/value_for_/energy_/form_/kj_/mol::52.55]
+(has_/number_of_/period::5)
+(has_/number_of_/group::16)
 #is_/same_as :: [[../../../WikiData/WD~Tellurium,1100]]  
 
 

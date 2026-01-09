@@ -101,8 +101,8 @@ ZVG_number: 8490
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Mercury,925]] 
 
-[GroupName::Group-12-Zinc]
-Group::[[../Group-12-Zinc]]
+[has_/name_/group::Group-12-Zinc]
+is_/part_of::[[../Group-12-Zinc]]
 
 has_/name_/en::Mercury 
 
@@ -110,25 +110,25 @@ has_/name_/de::Quecksilber
 
 has_/value_for_/weight_/u::200.59 
 
-[AtomRadius::1.76]
-[Atom-Vol-ccm-mol::14.82]
-[Unknown2::1.49]
+[has_/value_for_/radius::1.76]
+[has_/value_for_/volume_/ccm_/mol::14.82]
+[has_/value_for_/unknown2::1.49]
 
 has_/value_for_/radius_/nano_/m::10.437 
 
-[Electronegative::2]
-[Density::13.53]
+[has_/value_for_/electronegativity::2]
+[has_/value_for_/density::13.53]
 
 has_/value_for_/temperature_/melt_/c ::-38.87 
 
 has_/value_for_/temperature_/boil_/c ::356.58 
 
-[HeatCapacity::0.139]
-[HeatConduct::0.0834]
-[Enthalpy::2.295]
-[FormEnergy-kj-mol::59.229]
-(PeriodNo::6)
-(GroupNo::12)
+[has_/value_for_/capacity_/heat::0.139]
+[has_/value_for_/conductivity_/heat::0.0834]
+[has_/value_for_/enthalpy::2.295]
+[has_/value_for_/energy_/form_/kj_/mol::59.229]
+(has_/number_of_/period::6)
+(has_/number_of_/group::12)
 
 
 

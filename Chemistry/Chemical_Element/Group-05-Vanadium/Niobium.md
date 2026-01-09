@@ -71,8 +71,8 @@ ZVG_number: 7410
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Niobium,1046]] 
 
-[GroupName::Group-05-Vanadium]
-Group::[[../Group-05-Vanadium]]
+[has_/name_/group::Group-05-Vanadium]
+is_/part_of::[[../Group-05-Vanadium]]
 
 has_/name_/en::Niobium 
 
@@ -80,25 +80,25 @@ has_/name_/de::Niob
 
 has_/value_for_/weight_/u::92.9064 
 
-[AtomRadius::2.08]
-[Atom-Vol-ccm-mol::10.87]
-[Unknown2::1.34]
+[has_/value_for_/radius::2.08]
+[has_/value_for_/volume_/ccm_/mol::10.87]
+[has_/value_for_/unknown2::1.34]
 
 has_/value_for_/radius_/nano_/m::6.88 
 
-[Electronegative::1.6]
-[Density::8.55]
+[has_/value_for_/electronegativity::1.6]
+[has_/value_for_/density::8.55]
 
 has_/value_for_/temperature_/melt_/c ::2468 
 
 has_/value_for_/temperature_/boil_/c ::4742 
 
-[HeatCapacity::0.26]
-[HeatConduct::0.537]
-[Enthalpy::26.4]
-[FormEnergy-kj-mol::682]
-(PeriodNo::5)
-(GroupNo::5)
+[has_/value_for_/capacity_/heat::0.26]
+[has_/value_for_/conductivity_/heat::0.537]
+[has_/value_for_/enthalpy::26.4]
+[has_/value_for_/energy_/form_/kj_/mol::682]
+(has_/number_of_/period::5)
+(has_/number_of_/group::5)
 
 
 ## #has_/text_of_/abstract 

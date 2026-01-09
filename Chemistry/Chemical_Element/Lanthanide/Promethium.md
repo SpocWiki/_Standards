@@ -58,8 +58,8 @@ UNII: ZGV62C09KN
 # [[Promethium]] 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+[has_/name_/group::Lanthanide-Group]
+is_/part_of::[[../Lanthanide]]
 
 has_/name_/en::Promethium 
 
@@ -67,25 +67,25 @@ has_/name_/de::Promethium
 
 has_/value_for_/weight_/u::147 
 
-[AtomRadius::2.62]
-[Atom-Vol-ccm-mol::22.39]
-[Unknown2::1.63]
+[has_/value_for_/radius::2.62]
+[has_/value_for_/volume_/ccm_/mol::22.39]
+[has_/value_for_/unknown2::1.63]
 
 has_/value_for_/radius_/nano_/m::5.554 
 
-[Electronegative::1.1]
-[Density::6.475]
+[has_/value_for_/electronegativity::1.1]
+[has_/value_for_/density::6.475]
 
 has_/value_for_/temperature_/melt_/c ::1080 
 
 has_/value_for_/temperature_/boil_/c ::0 
 
-[HeatCapacity::0]
-[HeatConduct::0.179]
-[Enthalpy::0]
-[FormEnergy-kj-mol::0]
-(PeriodNo::6)
-(GroupNo::27)
+[has_/value_for_/capacity_/heat::0]
+[has_/value_for_/conductivity_/heat::0.179]
+[has_/value_for_/enthalpy::0]
+[has_/value_for_/energy_/form_/kj_/mol::0]
+(has_/number_of_/period::6)
+(has_/number_of_/group::27)
 
 #is_/same_as :: [[../../../WikiData/WD~Promethium,1809]] 
 

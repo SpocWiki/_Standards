@@ -104,8 +104,8 @@ ZVG_number: 7740
 
 #chemic/Element 
 
-[GroupName::Group-06-Chromium]
-Group::[[../Group-06-Chromium]]
+[has_/name_/group::Group-06-Chromium]
+is_/part_of::[[../Group-06-Chromium]]
 
 has_/name_/en::Tungsten 
 
@@ -113,18 +113,18 @@ has_/name_/de::Wolfram
 
 has_/value_for_/weight_/u::183.85 
 
-[AtomRadius::2.02]
-[Atom-Vol-ccm-mol::9.53]
-[Unknown2::1.3]
+[has_/value_for_/radius::2.02]
+[has_/value_for_/volume_/ccm_/mol::9.53]
+[has_/value_for_/unknown2::1.3]
 
 has_/value_for_/radius_/nano_/m::7.98 
 
-[Electronegative::2.4]
-[HeatCapacity::0.13]
-[HeatConduct::1.74]
-[Enthalpy::35.4]
-[FormEnergy-kj-mol::824]
-(PeriodNo::6)
+[has_/value_for_/electronegativity::2.4]
+[has_/value_for_/capacity_/heat::0.13]
+[has_/value_for_/conductivity_/heat::1.74]
+[has_/value_for_/enthalpy::35.4]
+[has_/value_for_/energy_/form_/kj_/mol::824]
+(has_/number_of_/period::6)
 #is_/same_as :: [[../../../WikiData/WD~Tungsten,743]] 
 
 
@@ -157,7 +157,7 @@ has_/value_for_/radius_/nano_/m::7.98
 > make it suitable for military applications in penetrating projectiles. 
 > Tungsten compounds are often used as industrial catalysts.
 >
-> Tungsten is the only metal in Group (GroupNo::6) that is known to 
+> Tungsten is the only metal in Group (has_/number_of_/group::6) that is known to 
 > occur in biomolecules, being found in a few species of bacteria and archaea.  
 > 
 > However, tungsten interferes with molybdenum and copper metabolism and is somewhat toxic to most forms of animal life.

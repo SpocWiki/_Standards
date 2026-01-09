@@ -132,14 +132,14 @@ dv_#has_:
       boil_:
         c: 3127
 dv_AtomRadius: 2.64
-dv_Atom-Vol-ccm-mol: 20.6
+dv_has_/value_for_/volume_/ccm_/mol: 20.6
 dv_Unknown2: 1.64
 dv_Electronegative: 1.1
 dv_Density: 7
 dv_HeatCapacity: 0.19
 dv_HeatConduct: 0.165
 dv_Enthalpy: 7.14
-dv_FormEnergy-kj-mol: 273
+dv_has_/value_for_/energy_/form_/kj_/mol: 273
 dv_PeriodNo: 6
 dv_GroupNo: 26
 dv_Charge-e: 60
@@ -165,7 +165,7 @@ has_name_en = `=this.dv_has_name_en`
 has_name_de = `=this.dv_has_name_de` 
 has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
 AtomRadius = `=this.dv_AtomRadius` 
-Atom-Vol-ccm-mol = `=this.dv_Atom-Vol-ccm-mol` 
+has_/value_for_/volume_/ccm_/mol = `=this.dv_has_/value_for_/volume_/ccm_/mol` 
 Unknown2 = `=this.dv_Unknown2` 
 has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
 Electronegative = `=this.dv_Electronegative` 
@@ -175,7 +175,7 @@ has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c`
 HeatCapacity = `=this.dv_HeatCapacity` 
 HeatConduct = `=this.dv_HeatConduct` 
 Enthalpy = `=this.dv_Enthalpy` 
-FormEnergy-kj-mol = `=this.dv_FormEnergy-kj-mol` 
+has_/value_for_/energy_/form_/kj_/mol = `=this.dv_has_/value_for_/energy_/form_/kj_/mol` 
 PeriodNo = `=this.dv_PeriodNo` 
 GroupNo = `=this.dv_GroupNo` 
 

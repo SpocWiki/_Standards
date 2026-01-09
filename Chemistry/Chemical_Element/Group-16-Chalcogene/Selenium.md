@@ -80,7 +80,7 @@ ZVG_number: 7340
 # [[Selenium]] 
 
 #chemic/Element 
-[GroupName::Group-16-Chalcogene] 
+[has_/name_/group::Group-16-Chalcogene] 
 [Group :: [[../Group-16-Chalcogene]] ]
 
 has_/name_/en::Selenium 
@@ -89,25 +89,25 @@ has_/name_/de::Selen
 
 has_/value_for_/weight_/u::78.96 
 
-[AtomRadius::1.22] 
-[Atom-Vol-ccm-mol::16.45]  
-[Unknown2::1.16] 
+[has_/value_for_/radius::1.22] 
+[has_/value_for_/volume_/ccm_/mol::16.45]  
+[has_/value_for_/unknown2::1.16] 
 
 has_/value_for_/radius_/nano_/m::9.752 
 
-[Electronegative::2.5] 
-[Density::4.8] 
+[has_/value_for_/electronegativity::2.5] 
+[has_/value_for_/density::4.8] 
 
 has_/value_for_/temperature_/melt_/c ::217 
 
 has_/value_for_/temperature_/boil_/c ::684.9 
 
-[HeatCapacity::0.32] 
-[HeatConduct::0.0204] 
-[Enthalpy::6.694] 
-[FormEnergy-kj-mol::37.7] 
-(PeriodNo::4) 
-(GroupNo::16) 
+[has_/value_for_/capacity_/heat::0.32] 
+[has_/value_for_/conductivity_/heat::0.0204] 
+[has_/value_for_/enthalpy::6.694] 
+[has_/value_for_/energy_/form_/kj_/mol::37.7] 
+(has_/number_of_/period::4) 
+(has_/number_of_/group::16) 
 
 #is_/same_as :: [[../../../WikiData/WD~Selenium,876]] 
 

@@ -94,8 +94,8 @@ ZVG_number: 8160
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Calcium,706]] 
 
-[GroupName::Group-02-Earth-Alkaline]
-Group::[[../Group-02-Earth-Alkaline]]
+[has_/name_/group::Group-02-Earth-Alkaline]
+is_/part_of::[[../Group-02-Earth-Alkaline]]
 
 has_/name_/en::Calcium 
 
@@ -103,25 +103,25 @@ has_/name_/de::Calcium
 
 has_/value_for_/weight_/u::40.078 
 
-[AtomRadius::2.23]
-[Atom-Vol-ccm-mol::29.9]
-[Unknown2::1.74]
+[has_/value_for_/radius::2.23]
+[has_/value_for_/volume_/ccm_/mol::29.9]
+[has_/value_for_/unknown2::1.74]
 
 has_/value_for_/radius_/nano_/m::6.113 
 
-[Electronegative::1]
-[Density::1.55]
+[has_/value_for_/electronegativity::1]
+[has_/value_for_/density::1.55]
 
 has_/value_for_/temperature_/melt_/c ::839 
 
 has_/value_for_/temperature_/boil_/c ::1484 
 
-[HeatCapacity::0.63]
-[HeatConduct::2]
-[Enthalpy::8.54]
-[FormEnergy-kj-mol::153.6]
-(PeriodNo::4)
-(GroupNo::2)
+[has_/value_for_/capacity_/heat::0.63]
+[has_/value_for_/conductivity_/heat::2]
+[has_/value_for_/enthalpy::8.54]
+[has_/value_for_/energy_/form_/kj_/mol::153.6]
+(has_/number_of_/period::4)
+(has_/number_of_/group::2)
 
 #is_/same_as :: [[../../../WikiData/WD~Calcium,706|WD~Calcium,706]] 
 

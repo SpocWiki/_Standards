@@ -115,8 +115,8 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Nickel,744]] 
 
-[GroupName::Group-10-Nickel]
-Group::[[../Group-10-Nickel]]
+[has_/name_/group::Group-10-Nickel]
+is_/part_of::[[../Group-10-Nickel]]
 
 has_/name_/en::Nickel 
 
@@ -124,25 +124,25 @@ has_/name_/de::Nickel
 
 has_/value_for_/weight_/u::58.69 
 
-[AtomRadius::1.62]
-[Atom-Vol-ccm-mol::6.59]
-[Unknown2::1.15]
+[has_/value_for_/radius::1.62]
+[has_/value_for_/volume_/ccm_/mol::6.59]
+[has_/value_for_/unknown2::1.15]
 
 has_/value_for_/radius_/nano_/m::7.635 
 
-[Electronegative::1.9]
-[Density::8.9]
+[has_/value_for_/electronegativity::1.9]
+[has_/value_for_/density::8.9]
 
 has_/value_for_/temperature_/melt_/c ::1453 
 
 has_/value_for_/temperature_/boil_/c ::2732 
 
-[HeatCapacity::0.44]
-[HeatConduct::0.907]
-[Enthalpy::14.47]
-[FormEnergy-kj-mol::370.4]
-(PeriodNo::4)
-(GroupNo::10)
+[has_/value_for_/capacity_/heat::0.44]
+[has_/value_for_/conductivity_/heat::0.907]
+[has_/value_for_/enthalpy::14.47]
+[has_/value_for_/energy_/form_/kj_/mol::370.4]
+(has_/number_of_/period::4)
+(has_/number_of_/group::10)
 
 
 ## #has_/text_of_/abstract 

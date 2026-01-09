@@ -56,28 +56,28 @@ UNII: 15TEQ7D2QF
 #is_/same_as :: [[../../../WikiData/WD~Francium,671]] 
 
 #chemic/Element 
-[GroupName::Group-01-Alkali]
-Group::[[../Group-01-Alkali]]
+[has_/name_/group::Group-01-Alkali]
+is_/part_of::[[../Group-01-Alkali]]
 
 
-#has_/name_/en::Francium
-#has_/name_/de::Francium
+- #has_/name_/en::Francium
+- #has_/name_/de::Francium
 
 #has_/value_for_/weight_/u::223
-[AtomRadius::0]
-Atom_vol_/ccm_/mol::0 
-[Unknown2::0]
+[has_/value_for_/radius::0]
+has_/value_for_/volume_/ccm_/mol::0 
+[has_/value_for_/unknown2::0]
 #has_/value_for_/radius_/nano_/m::0
-[Electronegative::0.7]
-[Density::0]
+[has_/value_for_/electronegativity::0.7]
+[has_/value_for_/density::0]
 #has_/value_for_/temperature_/melt_/c ::27
 #has_/value_for_/temperature_/boil_/c ::677
-[HeatCapacity::0]
-[HeatConduct::0.15]
-[Enthalpy::0]
-[FormEnergy-kj-mol::0]
-(PeriodNo::7)
-(GroupNo::1)
+[has_/value_for_/capacity_/heat::0]
+[has_/value_for_/conductivity_/heat::0.15]
+[has_/value_for_/enthalpy::0]
+[has_/value_for_/energy_/form_/kj_/mol::0]
+(has_/number_of_/period::7)
+(has_/number_of_/group::1)
 
 ## #has_/text_of_/abstract 
 

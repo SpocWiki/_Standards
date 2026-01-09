@@ -51,8 +51,8 @@ UNII: VW92PHU2UY
 
 
 #chemic/Element 
-[GroupName::Actinide-Group]
-Group::[[../Actinide]]
+[has_/name_/group::Actinide-Group]
+is_/part_of::[[../Actinide]]
 
 has_/name_/en::Americium 
 
@@ -62,25 +62,25 @@ has_/name_/de::Americium
 
 has_/value_for_/weight_/u::243 
 
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::17.86]
-[Unknown2::0]
+[has_/value_for_/radius::0]
+[has_/value_for_/volume_/ccm_/mol::17.86]
+[has_/value_for_/unknown2::0]
 
 has_/value_for_/radius_/nano_/m::5.993 
 
-[Electronegative::1.3]
-[Density::13.6]
+[has_/value_for_/electronegativity::1.3]
+[has_/value_for_/density::13.6]
 
 has_/value_for_/temperature_/melt_/c ::994 
 
 has_/value_for_/temperature_/boil_/c ::2607 
 
-[HeatCapacity::0.11]
-[HeatConduct::0.1]
-[Enthalpy::14.4]
-[FormEnergy-kj-mol::0]
-(PeriodNo::7)
-(GroupNo::29)
+[has_/value_for_/capacity_/heat::0.11]
+[has_/value_for_/conductivity_/heat::0.1]
+[has_/value_for_/enthalpy::14.4]
+[has_/value_for_/energy_/form_/kj_/mol::0]
+(has_/number_of_/period::7)
+(has_/number_of_/group::29)
 []
 (Charge-e::95)
 

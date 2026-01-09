@@ -61,8 +61,8 @@ ZVG_number: 7360
 # [[Krypton]] 
 
 #chemic/Element 
-[GroupName::Group-18-Nobel-Gases]
-Group::[[../Group-18-Nobel-Gases]]
+[has_/name_/group::Group-18-Nobel-Gases]
+is_/part_of::[[../Group-18-Nobel-Gases]]
 
 has_/name_/en::Krypton 
 
@@ -70,25 +70,25 @@ has_/name_/de::Krypton
 
 has_/value_for_/weight_/u::83.8 
 
-[AtomRadius::1.03]
-[Atom-Vol-ccm-mol::38.9]
-[Unknown2::1.12]
+[has_/value_for_/radius::1.03]
+[has_/value_for_/volume_/ccm_/mol::38.9]
+[has_/value_for_/unknown2::1.12]
 
 has_/value_for_/radius_/nano_/m::13.999 
 
-[Electronegative::0]
-[Density::3.74]
+[has_/value_for_/electronegativity::0]
+[has_/value_for_/density::3.74]
 
 has_/value_for_/temperature_/melt_/c ::-156.6 
 
 has_/value_for_/temperature_/boil_/c ::-152 
 
-[HeatCapacity::0.248]
-[HeatConduct::9.5E-05]
-[Enthalpy::1.638]
-[FormEnergy-kj-mol::9.029]
-(PeriodNo::4)
-(GroupNo::18)
+[has_/value_for_/capacity_/heat::0.248]
+[has_/value_for_/conductivity_/heat::9.5E-05]
+[has_/value_for_/enthalpy::1.638]
+[has_/value_for_/energy_/form_/kj_/mol::9.029]
+(has_/number_of_/period::4)
+(has_/number_of_/group::18)
 
 #is_/same_as :: [[../../../WikiData/WD~Krypton,888]]  
 

@@ -88,8 +88,8 @@ ZVG_number: 8380
 # [[Tin]] 
 
 #chemic/Element 
-[GroupName::Group-14-Carbon]
-Group::[[../Group-14-Carbon]]]
+[has_/name_/group::Group-14-Carbon]
+is_/part_of::[[../Group-14-Carbon]]]
 
 has_/name_/en::Tin 
 
@@ -97,25 +97,25 @@ has_/name_/de::Zinn
 
 has_/value_for_/weight_/u::118.71 
 
-[AtomRadius::1.72]
-[Atom-Vol-ccm-mol::16.3]
-[Unknown2::1.41]
+[has_/value_for_/radius::1.72]
+[has_/value_for_/volume_/ccm_/mol::16.3]
+[has_/value_for_/unknown2::1.41]
 
 has_/value_for_/radius_/nano_/m::7.344 
 
-[Electronegative::2]
-[Density::7.3]
+[has_/value_for_/electronegativity::2]
+[has_/value_for_/density::7.3]
 
 has_/value_for_/temperature_/melt_/c ::231.97 
 
 has_/value_for_/temperature_/boil_/c ::2270 
 
-[HeatCapacity::0.227]
-[HeatConduct::0.666]
-[Enthalpy::7.029]
-[FormEnergy-kj-mol::295.8]
-(PeriodNo::5)
-(GroupNo::14)
+[has_/value_for_/capacity_/heat::0.227]
+[has_/value_for_/conductivity_/heat::0.666]
+[has_/value_for_/enthalpy::7.029]
+[has_/value_for_/energy_/form_/kj_/mol::295.8]
+(has_/number_of_/period::5)
+(has_/number_of_/group::14)
 #is_/same_as :: [[../../../WikiData/WD~Tin,1096]] 
 
 

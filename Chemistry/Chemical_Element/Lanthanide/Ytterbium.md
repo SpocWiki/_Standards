@@ -53,8 +53,8 @@ UNII: MNQ4O4WSI1
 # [[Ytterbium]] 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+[has_/name_/group::Lanthanide-Group]
+is_/part_of::[[../Lanthanide]]
 
 has_/name_/en::Ytterbium 
 
@@ -62,25 +62,25 @@ has_/name_/de::Ytterbium
 
 has_/value_for_/weight_/u::173.04 
 
-[AtomRadius::2.4]
-[Atom-Vol-ccm-mol::24.79]
-[Unknown2::1.74]
+[has_/value_for_/radius::2.4]
+[has_/value_for_/volume_/ccm_/mol::24.79]
+[has_/value_for_/unknown2::1.74]
 
 has_/value_for_/radius_/nano_/m::6.254 
 
-[Electronegative::1.1]
-[Density::6.98]
+[has_/value_for_/electronegativity::1.1]
+[has_/value_for_/density::6.98]
 
 has_/value_for_/temperature_/melt_/c ::824 
 
 has_/value_for_/temperature_/boil_/c ::1193 
 
-[HeatCapacity::0.15]
-[HeatConduct::0.349]
-[Enthalpy::7.66]
-[FormEnergy-kj-mol::128.9]
-(PeriodNo::6)
-(GroupNo::36)
+[has_/value_for_/capacity_/heat::0.15]
+[has_/value_for_/conductivity_/heat::0.349]
+[has_/value_for_/enthalpy::7.66]
+[has_/value_for_/energy_/form_/kj_/mol::128.9]
+(has_/number_of_/period::6)
+(has_/number_of_/group::36)
 
 #is_/same_as :: [[../../../WikiData/WD~Ytterbium,1855]] 
 

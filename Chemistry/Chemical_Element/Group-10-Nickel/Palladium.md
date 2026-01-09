@@ -72,8 +72,8 @@ ZVG_number: 8340
 
 #chemic/Element 
 
-[GroupName::Group-10-Nickel]
-Group::[[../Group-10-Nickel]]
+[has_/name_/group::Group-10-Nickel]
+is_/part_of::[[../Group-10-Nickel]]
 
 has_/name_/en::Palladium 
 
@@ -81,25 +81,25 @@ has_/name_/de::Palladium
 
 has_/value_for_/weight_/u::106.42 
 
-[AtomRadius::1.79]
-[Atom-Vol-ccm-mol::8.9]
-[Unknown2::1.28]
+[has_/value_for_/radius::1.79]
+[has_/value_for_/volume_/ccm_/mol::8.9]
+[has_/value_for_/unknown2::1.28]
 
 has_/value_for_/radius_/nano_/m::8.34 
 
-[Electronegative::2.2]
-[Density::12]
+[has_/value_for_/electronegativity::2.2]
+[has_/value_for_/density::12]
 
 has_/value_for_/temperature_/melt_/c ::1552 
 
 has_/value_for_/temperature_/boil_/c ::3140 
 
-[HeatCapacity::0.24]
-[HeatConduct::0.718]
-[Enthalpy::17.6]
-[FormEnergy-kj-mol::357]
-(PeriodNo::5)
-(GroupNo::10)
+[has_/value_for_/capacity_/heat::0.24]
+[has_/value_for_/conductivity_/heat::0.718]
+[has_/value_for_/enthalpy::17.6]
+[has_/value_for_/energy_/form_/kj_/mol::357]
+(has_/number_of_/period::5)
+(has_/number_of_/group::10)
 #is_/same_as :: [[../../../WikiData/WD~Palladium,1089]] 
 
 

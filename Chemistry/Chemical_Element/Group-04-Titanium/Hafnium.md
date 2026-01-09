@@ -73,8 +73,8 @@ ZVG_number: 7720
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Hafnium,1119]] 
 
-[GroupName::Group-04-Titanium]
-Group::[[../Group-04-Titanium]]
+[has_/name_/group::Group-04-Titanium]
+is_/part_of::[[../Group-04-Titanium]]
 
 has_/name_/en::Hafnium 
 
@@ -84,25 +84,25 @@ has_/name_/de::Hafnium
 
 has_/value_for_/weight_/u::178.49 
 
-[AtomRadius::2.16]
-[Atom-Vol-ccm-mol::13.6]
-[Unknown2::1.44]
+[has_/value_for_/radius::2.16]
+[has_/value_for_/volume_/ccm_/mol::13.6]
+[has_/value_for_/unknown2::1.44]
 
 has_/value_for_/radius_/nano_/m::6.65 
 
-[Electronegative::1.3]
-[Density::13.1]
+[has_/value_for_/electronegativity::1.3]
+[has_/value_for_/density::13.1]
 
 has_/value_for_/temperature_/melt_/c ::2227 
 
 has_/value_for_/temperature_/boil_/c ::4602 
 
-[HeatCapacity::0.14]
-[HeatConduct::0.23]
-[Enthalpy::24.06]
-[FormEnergy-kj-mol::575]
-(PeriodNo::6)
-(GroupNo::4)
+[has_/value_for_/capacity_/heat::0.14]
+[has_/value_for_/conductivity_/heat::0.23]
+[has_/value_for_/enthalpy::24.06]
+[has_/value_for_/energy_/form_/kj_/mol::575]
+(has_/number_of_/period::6)
+(has_/number_of_/group::4)
 []
 (Charge-e::72)
 

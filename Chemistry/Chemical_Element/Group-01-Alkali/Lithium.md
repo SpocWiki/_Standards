@@ -124,28 +124,28 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%2
 # [[Lithium]] 
 
 #chemic/Element 
-[GroupName::Group-01-Alkali]
-Group::[[../Group-01-Alkali]]
+[has_/name_/group::Group-01-Alkali]
+is_/part_of::[[../Group-01-Alkali]]
 
 
 [#has_/name_/en::Lithium]
 [#has_/name_/de::Lithium]
 (Abbr::Li)
 [#has_/value_for_/weight_/u::6.941]
-[AtomRadius::2.05]
-[Atom-Vol-ccm-mol::13.1]
-[Unknown2::1.23]
+[has_/value_for_/radius::2.05]
+[has_/value_for_/volume_/ccm_/mol::13.1]
+[has_/value_for_/unknown2::1.23]
 [#has_/value_for_/radius_/nano_/m::5.392]
-[Electronegative::1]
-[Density::0.53]
+[has_/value_for_/electronegativity::1]
+[has_/value_for_/density::0.53]
 [#has_/value_for_/temperature_/melt_/c ::180.54]
 [#has_/value_for_/temperature_/boil_/c ::1347]
-[HeatCapacity::3.6]
-[HeatConduct::0.847]
-[Enthalpy::3]
-[FormEnergy-kj-mol::145.92]
-(PeriodNo::2)
-(GroupNo::1)
+[has_/value_for_/capacity_/heat::3.6]
+[has_/value_for_/conductivity_/heat::0.847]
+[has_/value_for_/enthalpy::3]
+[has_/value_for_/energy_/form_/kj_/mol::145.92]
+(has_/number_of_/period::2)
+(has_/number_of_/group::1)
 (Charge-e::3)
 
 #is_/same_as :: [[../../../WikiData/WD~Lithium,568|WD~Lithium,568]]  

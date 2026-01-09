@@ -73,8 +73,8 @@ ZVG_number: 8310
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Strontium,938]] 
 
-[GroupName::Group-02-Earth-Alkaline]
-Group::[[../Group-02-Earth-Alkaline]]
+[has_/name_/group::Group-02-Earth-Alkaline]
+is_/part_of::[[../Group-02-Earth-Alkaline]]
 
 has_/name_/en::Strontium 
 
@@ -82,25 +82,25 @@ has_/name_/de::Strontium
 
 has_/value_for_/weight_/u::87.62 
 
-[AtomRadius::2.45]
-[Atom-Vol-ccm-mol::23.7]
-[Unknown2::1.91]
+[has_/value_for_/radius::2.45]
+[has_/value_for_/volume_/ccm_/mol::23.7]
+[has_/value_for_/unknown2::1.91]
 
 has_/value_for_/radius_/nano_/m::5.695 
 
-[Electronegative::0.9]
-[Density::2.6]
+[has_/value_for_/electronegativity::0.9]
+[has_/value_for_/density::2.6]
 
 has_/value_for_/temperature_/melt_/c ::769 
 
 has_/value_for_/temperature_/boil_/c ::1384 
 
-[HeatCapacity::0.3]
-[HeatConduct::0.353]
-[Enthalpy::8.3]
-[FormEnergy-kj-mol::144]
-(PeriodNo::5)
-(GroupNo::2)
+[has_/value_for_/capacity_/heat::0.3]
+[has_/value_for_/conductivity_/heat::0.353]
+[has_/value_for_/enthalpy::8.3]
+[has_/value_for_/energy_/form_/kj_/mol::144]
+(has_/number_of_/period::5)
+(has_/number_of_/group::2)
 
 #is_/same_as :: [[../../../WikiData/WD~Strontium,938|WD~Strontium,938]] 
 

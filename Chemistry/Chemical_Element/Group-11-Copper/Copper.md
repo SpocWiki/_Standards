@@ -139,8 +139,8 @@ ZVG_number: 8240
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Copper,753]] 
 
-[GroupName::Group-11-Copper]
-Group::[[../Group-11-Copper]]
+[has_/name_/group::Group-11-Copper]
+is_/part_of::[[../Group-11-Copper]]
 
 has_/name_/en::Copper 
 
@@ -148,25 +148,25 @@ has_/name_/de::Kupfer
 
 has_/value_for_/weight_/u::63.546 
 
-[AtomRadius::1.57]
-[Atom-Vol-ccm-mol::7.1]
-[Unknown2::1.17]
+[has_/value_for_/radius::1.57]
+[has_/value_for_/volume_/ccm_/mol::7.1]
+[has_/value_for_/unknown2::1.17]
 
 has_/value_for_/radius_/nano_/m::7.726 
 
-[Electronegative::1.9]
-[Density::8.96]
+[has_/value_for_/electronegativity::1.9]
+[has_/value_for_/density::8.96]
 
 has_/value_for_/temperature_/melt_/c ::1083.4 
 
 has_/value_for_/temperature_/boil_/c ::2567 
 
-[HeatCapacity::0.38]
-[HeatConduct::4.01]
-[Enthalpy::13.05]
-[FormEnergy-kj-mol::300.3]
-(PeriodNo::4)
-(GroupNo::11)
+[has_/value_for_/capacity_/heat::0.38]
+[has_/value_for_/conductivity_/heat::4.01]
+[has_/value_for_/enthalpy::13.05]
+[has_/value_for_/energy_/form_/kj_/mol::300.3]
+(has_/number_of_/period::4)
+(has_/number_of_/group::11)
 
 
 ## #has_/text_of_/abstract 

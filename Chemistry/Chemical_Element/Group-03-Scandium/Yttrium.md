@@ -189,8 +189,8 @@ ZVG_number: 7390
 
 #chemic/Element 
 
-[GroupName::Group-03-Scandium]
-Group::[[../Group-03-Scandium]]
+[has_/name_/group::Group-03-Scandium]
+is_/part_of::[[../Group-03-Scandium]]
 
 has_/name_/en::Yttrium 
 
@@ -198,25 +198,25 @@ has_/name_/de::Yttrium
 
 has_/value_for_/weight_/u::88.9059 
 
-[AtomRadius::2.27]
-[Atom-Vol-ccm-mol::19.8]
-[Unknown2::1.62]
+[has_/value_for_/radius::2.27]
+[has_/value_for_/volume_/ccm_/mol::19.8]
+[has_/value_for_/unknown2::1.62]
 
 has_/value_for_/radius_/nano_/m::6.38 
 
-[Electronegative::1.2]
-[Density::4.5]
+[has_/value_for_/electronegativity::1.2]
+[has_/value_for_/density::4.5]
 
 has_/value_for_/temperature_/melt_/c ::1523 
 
 has_/value_for_/temperature_/boil_/c ::3337 
 
-[HeatCapacity::0.3]
-[HeatConduct::0.172]
-[Enthalpy::11.4]
-[FormEnergy-kj-mol::363]
-(PeriodNo::5)
-(GroupNo::3)
+[has_/value_for_/capacity_/heat::0.3]
+[has_/value_for_/conductivity_/heat::0.172]
+[has_/value_for_/enthalpy::11.4]
+[has_/value_for_/energy_/form_/kj_/mol::363]
+(has_/number_of_/period::5)
+(has_/number_of_/group::3)
 #is_/same_as :: [[../../../WikiData/WD~Yttrium,941]] 
 
 ## #has_/text_of_/abstract 

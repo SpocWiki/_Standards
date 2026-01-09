@@ -67,8 +67,8 @@ ZVG_number: 7760
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Osmium,751]] 
 
-[GroupName::Group-08-Iron]
-Group::[[../Group-08-Iron]]
+[has_/name_/group::Group-08-Iron]
+is_/part_of::[[../Group-08-Iron]]
 
 has_/name_/en::Osmium 
 
@@ -76,24 +76,24 @@ has_/name_/de::Osmium
 
 has_/value_for_/weight_/u::192.2 
 
-[AtomRadius::1.92]
-[Atom-Vol-ccm-mol::8.49]
-[Unknown2::1.26]
+[has_/value_for_/radius::1.92]
+[has_/value_for_/volume_/ccm_/mol::8.49]
+[has_/value_for_/unknown2::1.26]
 
 has_/value_for_/radius_/nano_/m::8.7 
 
-[Electronegative::2.2]
+[has_/value_for_/electronegativity::2.2]
 
 has_/value_for_/temperature_/melt_/c ::3045 
 
 has_/value_for_/temperature_/boil_/c ::5027 
 
-[HeatCapacity::0.13]
-[HeatConduct::0.876]
-[Enthalpy::31.8]
-[FormEnergy-kj-mol::746]
-(PeriodNo::6)
-(GroupNo::8)
+[has_/value_for_/capacity_/heat::0.13]
+[has_/value_for_/conductivity_/heat::0.876]
+[has_/value_for_/enthalpy::31.8]
+[has_/value_for_/energy_/form_/kj_/mol::746]
+(has_/number_of_/period::6)
+(has_/number_of_/group::8)
 #is_/same_as :: [[../../../WikiData/WD~Osmium,751|WD~Osmium,751]] 
 
 
@@ -106,7 +106,7 @@ has_/value_for_/temperature_/boil_/c ::5027
 > 
 > Osmium is the densest naturally occurring element. 
 > When experimentally measured using X-ray crystallography, 
-> it has a density of [Density::22.59] g/cm³. 
+> it has a density of [has_/value_for_/density::22.59] g/cm³. 
 > 
 > Manufacturers use its alloys with platinum, iridium, and other platinum-group metals 
 > to make fountain pen nib tipping, electrical contacts, 

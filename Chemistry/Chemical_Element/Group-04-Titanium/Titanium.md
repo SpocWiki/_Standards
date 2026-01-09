@@ -110,8 +110,8 @@ type: Element
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Titanium,716]] 
 
-[GroupName::Group-04-Titanium]
-Group::[[../Group-04-Titanium]]
+[has_/name_/group::Group-04-Titanium]
+is_/part_of::[[../Group-04-Titanium]]
 
 has_/name_/en::Titanium 
 
@@ -119,25 +119,25 @@ has_/name_/de::Titan
 
 has_/value_for_/weight_/u::47.88 
 
-[AtomRadius::2]
-[Atom-Vol-ccm-mol::10.64]
-[Unknown2::1.32]
+[has_/value_for_/radius::2]
+[has_/value_for_/volume_/ccm_/mol::10.64]
+[has_/value_for_/unknown2::1.32]
 
 has_/value_for_/radius_/nano_/m::6.82 
 
-[Electronegative::1.5]
-[Density::4.5]
+[has_/value_for_/electronegativity::1.5]
+[has_/value_for_/density::4.5]
 
 has_/value_for_/temperature_/melt_/c ::1660 
 
 has_/value_for_/temperature_/boil_/c ::3287 
 
-[HeatCapacity::0.52]
-[HeatConduct::0.219]
-[Enthalpy::15.45]
-[FormEnergy-kj-mol::421]
-(PeriodNo::4)
-(GroupNo::4)
+[has_/value_for_/capacity_/heat::0.52]
+[has_/value_for_/conductivity_/heat::0.219]
+[has_/value_for_/enthalpy::15.45]
+[has_/value_for_/energy_/form_/kj_/mol::421]
+(has_/number_of_/period::4)
+(has_/number_of_/group::4)
 
 
 ## #has_/text_of_/abstract 

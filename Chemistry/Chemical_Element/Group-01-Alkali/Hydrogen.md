@@ -78,28 +78,28 @@ Wolfram_Language_entity_code: Entity["Element", "Hydrogen"]
 
 
 #chemic/Element 
-[GroupName::Group-01-Alkali]
-Group::[[../Group-01-Alkali]]
+[has_/name_/group::Group-01-Alkali]
+is_/part_of::[[../Group-01-Alkali]]
 #has_/created :: [[Hydrogen/Hydrogen_Embrittlement]] 
 
 [#has_/name_/en::Hydrogenium]
 [#has_/name_/de::Wasserstoff]
 (Abbr::H)
 [#has_/value_for_/weight_/u::1.0079]
-[AtomRadius::0.79]
-[Atom-Vol-ccm-mol::14.4]
-[Unknown2::0.32]
+[has_/value_for_/radius::0.79]
+[has_/value_for_/volume_/ccm_/mol::14.4]
+[has_/value_for_/unknown2::0.32]
 [#has_/value_for_/radius_/nano_/m::13.598]
-[Electronegative::2.1]
-[Density::0.09]
+[has_/value_for_/electronegativity::2.1]
+[has_/value_for_/density::0.09]
 [#has_/value_for_/temperature_/melt_/c ::-259.14]
 [#has_/value_for_/temperature_/boil_/c ::-252.87]
-[HeatCapacity::14.304]
-[HeatConduct::0.001815]
-[Enthalpy::0.05868]
-[FormEnergy-kj-mol::0.44936]
-(PeriodNo::1)
-(GroupNo::1)
+[has_/value_for_/capacity_/heat::14.304]
+[has_/value_for_/conductivity_/heat::0.001815]
+[has_/value_for_/enthalpy::0.05868]
+[has_/value_for_/energy_/form_/kj_/mol::0.44936]
+(has_/number_of_/period::1)
+(has_/number_of_/group::1)
 (Charge-e::1)
 
 #is_/same_as :: [[../../../WikiData/WD~Hydrogen,556]] 

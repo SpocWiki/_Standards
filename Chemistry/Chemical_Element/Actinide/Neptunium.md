@@ -49,8 +49,8 @@ UNII: 6200K977BQ
 ---
 
 #chemic/Element 
-[GroupName::Actinide-Group]
-Group::[[../Actinide]]
+[has_/name_/group::Actinide-Group]
+is_/part_of::[[../Actinide]]
 
 has_/name_/en::Neptunium 
 
@@ -60,25 +60,25 @@ has_/name_/de::Neptunium
 
 has_/value_for_/weight_/u::237.0482 
 
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::11.62]
-[Unknown2::0]
+[has_/value_for_/radius::0]
+[has_/value_for_/volume_/ccm_/mol::11.62]
+[has_/value_for_/unknown2::0]
 
 has_/value_for_/radius_/nano_/m::6.19 
 
-[Electronegative::1.4]
-[Density::20.4]
+[has_/value_for_/electronegativity::1.4]
+[has_/value_for_/density::20.4]
 
 has_/value_for_/temperature_/melt_/c ::640 
 
 has_/value_for_/temperature_/boil_/c ::3902 
 
-[HeatCapacity::0.12]
-[HeatConduct::0.063]
-[Enthalpy::5.19]
-[FormEnergy-kj-mol::0]
-(PeriodNo::7)
-(GroupNo::27)
+[has_/value_for_/capacity_/heat::0.12]
+[has_/value_for_/conductivity_/heat::0.063]
+[has_/value_for_/enthalpy::5.19]
+[has_/value_for_/energy_/form_/kj_/mol::0]
+(has_/number_of_/period::7)
+(has_/number_of_/group::27)
 (Charge-e::93)
 
 #is_/same_as :: [[../../../WikiData/WD~Neptunium,1105]] 

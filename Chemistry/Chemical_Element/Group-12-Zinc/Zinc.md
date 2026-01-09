@@ -112,8 +112,8 @@ ZVG_number:
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Zinc,758]] 
 
-[GroupName::Group-12-Zinc]
-Group::[[../Group-12-Zinc]]]
+[has_/name_/group::Group-12-Zinc]
+is_/part_of::[[../Group-12-Zinc]]]
 
 has_/name_/en::Zinc 
 
@@ -121,25 +121,25 @@ has_/name_/de::Zink
 
 has_/value_for_/weight_/u::65.39 
 
-[AtomRadius::1.53]
-[Atom-Vol-ccm-mol::9.2]
-[Unknown2::1.25]
+[has_/value_for_/radius::1.53]
+[has_/value_for_/volume_/ccm_/mol::9.2]
+[has_/value_for_/unknown2::1.25]
 
 has_/value_for_/radius_/nano_/m::9.394 
 
-[Electronegative::1.6]
-[Density::7.14]
+[has_/value_for_/electronegativity::1.6]
+[has_/value_for_/density::7.14]
 
 has_/value_for_/temperature_/melt_/c ::419.58 
 
 has_/value_for_/temperature_/boil_/c ::907 
 
-[HeatCapacity::0.39]
-[HeatConduct::1.16]
-[Enthalpy::7.322]
-[FormEnergy-kj-mol::115.3]
-(PeriodNo::4)
-(GroupNo::12)
+[has_/value_for_/capacity_/heat::0.39]
+[has_/value_for_/conductivity_/heat::1.16]
+[has_/value_for_/enthalpy::7.322]
+[has_/value_for_/energy_/form_/kj_/mol::115.3]
+(has_/number_of_/period::4)
+(has_/number_of_/group::12)
 
 - **Zinc** is more **reactive, conductive, abundant**, and widely used in structural materials and galvanizing steel. 
 - **Tin** is **less reactive, rarer**, and crucial in **electronics and soldering** due to its lower melting point and corrosion resistance.

@@ -118,8 +118,8 @@ ZVG_number: 7130
 #is_/same_as :: [[../../../WikiData/WD~Aluminium,663]] 
 #chemic/Element 
 
-[GroupName::Group-13-Boron]
-Group::[[../Group-13-Boron]]
+[has_/name_/group::Group-13-Boron]
+is_/part_of::[[../Group-13-Boron]]
 
 has_/name_/en::Aluminium 
 
@@ -127,25 +127,25 @@ has_/name_/de::Aluminium
 
 has_/value_for_/weight_/u::26.9815 
 
-[AtomRadius::1.82]
-[Atom-Vol-ccm-mol::10]
-[Unknown2::1.18]
+[has_/value_for_/radius::1.82]
+[has_/value_for_/volume_/ccm_/mol::10]
+[has_/value_for_/unknown2::1.18]
 
 has_/value_for_/radius_/nano_/m::5.986 
 
-[Electronegative::1.6]
-[Density::2.7]
+[has_/value_for_/electronegativity::1.6]
+[has_/value_for_/density::2.7]
 
 has_/value_for_/temperature_/melt_/c ::660.37 
 
 has_/value_for_/temperature_/boil_/c ::2467 
 
-[HeatCapacity::0.9]
-[HeatConduct::2.37]
-[Enthalpy::10.79]
-[FormEnergy-kj-mol::293.4]
-(PeriodNo::3)
-(GroupNo::13)
+[has_/value_for_/capacity_/heat::0.9]
+[has_/value_for_/conductivity_/heat::2.37]
+[has_/value_for_/enthalpy::10.79]
+[has_/value_for_/energy_/form_/kj_/mol::293.4]
+(has_/number_of_/period::3)
+(has_/number_of_/group::13)
 
 ## #has_/text_of_/abstract 
 

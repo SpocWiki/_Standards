@@ -121,8 +121,8 @@ ZVG_number: 8280
 
 
 #chemic/Element 
-[GroupName::Group-15-Nitrogen]
-Group::[[../Group-15-Nitrogen]]]
+[has_/name_/group::Group-15-Nitrogen]
+is_/part_of::[[../Group-15-Nitrogen]]]
 
 has_/name_/en::Arsenic 
 
@@ -130,25 +130,25 @@ has_/name_/de::Arsen
 
 has_/value_for_/weight_/u::74.9216 
 
-[AtomRadius::1.33]
-[Atom-Vol-ccm-mol::13.1]
-[Unknown2::1.2]
+[has_/value_for_/radius::1.33]
+[has_/value_for_/volume_/ccm_/mol::13.1]
+[has_/value_for_/unknown2::1.2]
 
 has_/value_for_/radius_/nano_/m::9.81 
 
-[Electronegative::2.2]
-[Density::5.72]
+[has_/value_for_/electronegativity::2.2]
+[has_/value_for_/density::5.72]
 
 has_/value_for_/temperature_/melt_/c ::808 
 
 has_/value_for_/temperature_/boil_/c ::613 
 
-[HeatCapacity::0.33]
-[HeatConduct::0.5]
-[Enthalpy::0]
-[FormEnergy-kj-mol::34.76]
-(PeriodNo::4)
-(GroupNo::15)
+[has_/value_for_/capacity_/heat::0.33]
+[has_/value_for_/conductivity_/heat::0.5]
+[has_/value_for_/enthalpy::0]
+[has_/value_for_/energy_/form_/kj_/mol::34.76]
+(has_/number_of_/period::4)
+(has_/number_of_/group::15)
 
 #is_/same_as :: [[../../../WikiData/WD~Arsenic,871]] 
 

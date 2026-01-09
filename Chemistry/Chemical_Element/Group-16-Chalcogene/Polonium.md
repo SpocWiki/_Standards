@@ -56,8 +56,8 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/POLONI.html
 # [[Polonium]]
 
 #chemic/Element 
-[GroupName::Group-16-Chalcogene]
-Group::[[../Group-16-Chalcogene]]
+[has_/name_/group::Group-16-Chalcogene]
+is_/part_of::[[../Group-16-Chalcogene]]
 
 has_/name_/en::Polonium 
 
@@ -65,25 +65,25 @@ has_/name_/de::Polonium
 
 has_/value_for_/weight_/u::209 
 
-[AtomRadius::1.53]
-[Atom-Vol-ccm-mol::22.23]
-[Unknown2::1.46]
+[has_/value_for_/radius::1.53]
+[has_/value_for_/volume_/ccm_/mol::22.23]
+[has_/value_for_/unknown2::1.46]
 
 has_/value_for_/radius_/nano_/m::8.42 
 
-[Electronegative::2]
-[Density::9.4]
+[has_/value_for_/electronegativity::2]
+[has_/value_for_/density::9.4]
 
 has_/value_for_/temperature_/melt_/c ::254 
 
 has_/value_for_/temperature_/boil_/c ::962 
 
-[HeatCapacity::0]
-[HeatConduct::0.2]
-[Enthalpy::0]
-[FormEnergy-kj-mol::0]
-(PeriodNo::6)
-(GroupNo::16)
+[has_/value_for_/capacity_/heat::0]
+[has_/value_for_/conductivity_/heat::0.2]
+[has_/value_for_/enthalpy::0]
+[has_/value_for_/energy_/form_/kj_/mol::0]
+(has_/number_of_/period::6)
+(has_/number_of_/group::16)
 
 #is_/same_as :: [[../../../WikiData/WD~Polonium,979]]  
 

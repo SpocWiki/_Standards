@@ -88,8 +88,8 @@ ZVG_number: 7270
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Cobalt,740]] 
 
-[GroupName::Group-09-Cobalt]
-Group::[[../Group-09-Cobalt]]
+[has_/name_/group::Group-09-Cobalt]
+is_/part_of::[[../Group-09-Cobalt]]
 
 has_/name_/en::Cobalt 
 
@@ -97,25 +97,25 @@ has_/name_/de::Kobalt
 
 has_/value_for_/weight_/u::58.9332 
 
-[AtomRadius::1.67]
-[Atom-Vol-ccm-mol::6.7]
-[Unknown2::1.16]
+[has_/value_for_/radius::1.67]
+[has_/value_for_/volume_/ccm_/mol::6.7]
+[has_/value_for_/unknown2::1.16]
 
 has_/value_for_/radius_/nano_/m::7.86 
 
-[Electronegative::1.9]
-[Density::8.9]
+[has_/value_for_/electronegativity::1.9]
+[has_/value_for_/density::8.9]
 
 has_/value_for_/temperature_/melt_/c ::1495 
 
 has_/value_for_/temperature_/boil_/c ::2870 
 
-[HeatCapacity::0.42]
-[HeatConduct::1]
-[Enthalpy::16.19]
-[FormEnergy-kj-mol::376.5]
-(PeriodNo::4)
-(GroupNo::9)
+[has_/value_for_/capacity_/heat::0.42]
+[has_/value_for_/conductivity_/heat::1]
+[has_/value_for_/enthalpy::16.19]
+[has_/value_for_/energy_/form_/kj_/mol::376.5]
+(has_/number_of_/period::4)
+(has_/number_of_/group::9)
 
 
 ## #has_/text_of_/abstract 

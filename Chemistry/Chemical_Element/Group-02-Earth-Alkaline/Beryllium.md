@@ -92,32 +92,32 @@ ZVG_number: 8020
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Beryllium,569]] 
 
-[GroupName::Group-02-Earth-Alkaline]
-Group::[[../Group-02-Earth-Alkaline]]
+[has_/name_/group::Group-02-Earth-Alkaline]
+is_/part_of::[[../Group-02-Earth-Alkaline]]
 
 has_/name_/de::Beryllium 
 
 has_/value_for_/weight_/u::9.0122 
 
-[AtomRadius::1.4]
-[Atom-Vol-ccm-mol::5.009]
-[Unknown2::0.9]
+[has_/value_for_/radius::1.4]
+[has_/value_for_/volume_/ccm_/mol::5.009]
+[has_/value_for_/unknown2::0.9]
 
 has_/value_for_/radius_/nano_/m::9.322 
 
-[Electronegative::1.6]
-[Density::1.85]
+[has_/value_for_/electronegativity::1.6]
+[has_/value_for_/density::1.85]
 
 has_/value_for_/temperature_/melt_/c ::1278 
 
 has_/value_for_/temperature_/boil_/c ::2970 
 
-[HeatCapacity::1.82]
-[HeatConduct::2]
-[Enthalpy::12.2]
-[FormEnergy-kj-mol::292.4]
-(PeriodNo::2)
-(GroupNo::2)
+[has_/value_for_/capacity_/heat::1.82]
+[has_/value_for_/conductivity_/heat::2]
+[has_/value_for_/enthalpy::12.2]
+[has_/value_for_/energy_/form_/kj_/mol::292.4]
+(has_/number_of_/period::2)
+(has_/number_of_/group::2)
 
 ## #has_/text_of_/abstract 
 

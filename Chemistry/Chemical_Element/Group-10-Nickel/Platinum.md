@@ -62,8 +62,8 @@ Wolfram_Language_entity_code: Entity["Mineral", "Platinum"]
 
 #chemic/Element 
 
-[GroupName::Group-10-Nickel]
-Group::[[../Group-10-Nickel]]
+[has_/name_/group::Group-10-Nickel]
+is_/part_of::[[../Group-10-Nickel]]
 
 has_/name_/en::Platinum 
 
@@ -71,25 +71,25 @@ has_/name_/de::Platin
 
 has_/value_for_/weight_/u::195.08 
 
-[AtomRadius::1.83]
-[Atom-Vol-ccm-mol::9.1]
-[Unknown2::1.3]
+[has_/value_for_/radius::1.83]
+[has_/value_for_/volume_/ccm_/mol::9.1]
+[has_/value_for_/unknown2::1.3]
 
 has_/value_for_/radius_/nano_/m::9 
 
-[Electronegative::2.3]
-[Density::21.4]
+[has_/value_for_/electronegativity::2.3]
+[has_/value_for_/density::21.4]
 
 has_/value_for_/temperature_/melt_/c ::0 
 
 has_/value_for_/temperature_/boil_/c ::3827 
 
-[HeatCapacity::0.13]
-[HeatConduct::0.716]
-[Enthalpy::19.6]
-[FormEnergy-kj-mol::510]
-(PeriodNo::6)
-(GroupNo::10)
+[has_/value_for_/capacity_/heat::0.13]
+[has_/value_for_/conductivity_/heat::0.716]
+[has_/value_for_/enthalpy::19.6]
+[has_/value_for_/energy_/form_/kj_/mol::510]
+(has_/number_of_/period::6)
+(has_/number_of_/group::10)
 
 #is_/same_as :: [[../../../WikiData/WD~Platinum,880]] 
 

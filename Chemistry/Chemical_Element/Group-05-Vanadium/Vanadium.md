@@ -82,8 +82,8 @@ ZVG_number: 8180
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Vanadium,722]] 
 
-[GroupName::Group-05-Vanadium]
-Group::[[../Group-05-Vanadium]]
+[has_/name_/group::Group-05-Vanadium]
+is_/part_of::[[../Group-05-Vanadium]]
 
 has_/name_/en::Vanadium 
 
@@ -91,25 +91,25 @@ has_/name_/de::Vanadium
 
 has_/value_for_/weight_/u::50.9415 
 
-[AtomRadius::1.92]
-[Atom-Vol-ccm-mol::8.78]
-[Unknown2::1.22]
+[has_/value_for_/radius::1.92]
+[has_/value_for_/volume_/ccm_/mol::8.78]
+[has_/value_for_/unknown2::1.22]
 
 has_/value_for_/radius_/nano_/m::6.74 
 
-[Electronegative::1.6]
-[Density::5.8]
+[has_/value_for_/electronegativity::1.6]
+[has_/value_for_/density::5.8]
 
 has_/value_for_/temperature_/melt_/c ::1890 
 
 has_/value_for_/temperature_/boil_/c ::3380 
 
-[HeatCapacity::0.49]
-[HeatConduct::0.307]
-[Enthalpy::20.9]
-[FormEnergy-kj-mol::0]
-(PeriodNo::4)
-(GroupNo::5)
+[has_/value_for_/capacity_/heat::0.49]
+[has_/value_for_/conductivity_/heat::0.307]
+[has_/value_for_/enthalpy::20.9]
+[has_/value_for_/energy_/form_/kj_/mol::0]
+(has_/number_of_/period::4)
+(has_/number_of_/group::5)
 SpocWebEntityId: 21923
 #is_/same_as :: [[../../../WikiData/WD~Vanadium,722|WD~Vanadium,722]] 
 

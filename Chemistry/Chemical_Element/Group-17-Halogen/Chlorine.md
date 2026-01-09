@@ -73,8 +73,8 @@ Unicode_character: 氯
 
 
 #chemic/Element 
-[GroupName::Group-17-Halogene]
-Group::[[../Group-17-Halogen]]
+[has_/name_/group::Group-17-Halogene]
+is_/part_of::[[../Group-17-Halogen]]
 
 has_/name_/en::Chlorine 
 
@@ -82,25 +82,25 @@ has_/name_/de::Chlor
 
 has_/value_for_/weight_/u::35.453 
 
-[AtomRadius::0.97] 
-[Atom-Vol-ccm-mol::22.7]  
-[Unknown2::0.99] 
+[has_/value_for_/radius::0.97] 
+[has_/value_for_/volume_/ccm_/mol::22.7]  
+[has_/value_for_/unknown2::0.99] 
 
 has_/value_for_/radius_/nano_/m::12.967 
 
-[Electronegative::3.2]  
-[Density::3.17] 
+[has_/value_for_/electronegativity::3.2]  
+[has_/value_for_/density::3.17] 
 
 has_/value_for_/temperature_/melt_/c ::-100.98 
 
 has_/value_for_/temperature_/boil_/c ::-34.6 
 
-[HeatCapacity::0.48] 
-[HeatConduct::8.9E-05] 
-[Enthalpy::3.203] 
-[FormEnergy-kj-mol::10.2] 
-(PeriodNo::3) 
-(GroupNo::17) 
+[has_/value_for_/capacity_/heat::0.48] 
+[has_/value_for_/conductivity_/heat::8.9E-05] 
+[has_/value_for_/enthalpy::3.203] 
+[has_/value_for_/energy_/form_/kj_/mol::10.2] 
+(has_/number_of_/period::3) 
+(has_/number_of_/group::17) 
 
 #is_/same_as :: [[../../../WikiData/WD~Chlorine,688]] 
 

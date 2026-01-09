@@ -57,8 +57,8 @@ UNII: NKN7EZA750
 # [[Praseodymium]] 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+[has_/name_/group::Lanthanide-Group]
+is_/part_of::[[../Lanthanide]]
 
 has_/name_/en::Praseodymium 
 
@@ -66,25 +66,25 @@ has_/name_/de::Praseodym
 
 has_/value_for_/weight_/u::140.9077 
 
-[AtomRadius::2.67]
-[Atom-Vol-ccm-mol::20.8]
-[Unknown2::1.65]
+[has_/value_for_/radius::2.67]
+[has_/value_for_/volume_/ccm_/mol::20.8]
+[has_/value_for_/unknown2::1.65]
 
 has_/value_for_/radius_/nano_/m::5.46 
 
-[Electronegative::1.1]
-[Density::6.77]
+[has_/value_for_/electronegativity::1.1]
+[has_/value_for_/density::6.77]
 
 has_/value_for_/temperature_/melt_/c ::931 
 
 has_/value_for_/temperature_/boil_/c ::3212 
 
-[HeatCapacity::0.19]
-[HeatConduct::0.125]
-[Enthalpy::6.89]
-[FormEnergy-kj-mol::296.8]
-(PeriodNo::6)
-(GroupNo::25)
+[has_/value_for_/capacity_/heat::0.19]
+[has_/value_for_/conductivity_/heat::0.125]
+[has_/value_for_/enthalpy::6.89]
+[has_/value_for_/energy_/form_/kj_/mol::296.8]
+(has_/number_of_/period::6)
+(has_/number_of_/group::25)
 
 #is_/same_as :: [[../../../WikiData/WD~Praseodymium,1386]] 
 

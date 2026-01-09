@@ -79,7 +79,7 @@ ZVG_number: 8040
 
 
 #chemic/Element 
-[GroupName::Group-14-Carbon]
+[has_/name_/group::Group-14-Carbon]
 [Group : [[../Group-14-Carbon]]
 
 has_/name_/en::Carbon 
@@ -88,25 +88,25 @@ has_/name_/de::Kohlenstoff
 
 has_/value_for_/weight_/u::12.011 
 
-[AtomRadius::0.91]
-[Atom-Vol-ccm-mol::4.58]
-[Unknown2::0.77]
+[has_/value_for_/radius::0.91]
+[has_/value_for_/volume_/ccm_/mol::4.58]
+[has_/value_for_/unknown2::0.77]
 
 has_/value_for_/radius_/nano_/m::11.26 
 
-[Electronegative::2.5]
-[Density::2.52]
+[has_/value_for_/electronegativity::2.5]
+[has_/value_for_/density::2.52]
 
 has_/value_for_/temperature_/melt_/c ::3550 
 
 has_/value_for_/temperature_/boil_/c ::4827 
 
-[HeatCapacity::0.71]
-[HeatConduct::1.29]
-[Enthalpy::0]
-[FormEnergy-kj-mol::355.8]
-(PeriodNo::2)
-(GroupNo::14)
+[has_/value_for_/capacity_/heat::0.71]
+[has_/value_for_/conductivity_/heat::1.29]
+[has_/value_for_/enthalpy::0]
+[has_/value_for_/energy_/form_/kj_/mol::355.8]
+(has_/number_of_/period::2)
+(has_/number_of_/group::14)
 
 #is_/same_as :: [[../../../WikiData/WD~Carbon,623]] 
 

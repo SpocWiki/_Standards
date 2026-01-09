@@ -58,7 +58,7 @@ UNII: 53023GN24M
 # [[Plutonium]] 
 
 #chemic/Element 
-[GroupName::Actinide-Group]
+[has_/name_/group::Actinide-Group]
 Group :: [[../Actinide]]
 
 has_/name_/en::Plutonium 
@@ -69,25 +69,25 @@ has_/name_/de::Plutonium
 
 has_/value_for_/weight_/u::242 
 
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::12.32]
-[Unknown2::0]
+[has_/value_for_/radius::0]
+[has_/value_for_/volume_/ccm_/mol::12.32]
+[has_/value_for_/unknown2::0]
 
 has_/value_for_/radius_/nano_/m::6.06 
 
-[Electronegative::1.3]
-[Density::19.8]
+[has_/value_for_/electronegativity::1.3]
+[has_/value_for_/density::19.8]
 
 has_/value_for_/temperature_/melt_/c ::641 
 
 has_/value_for_/temperature_/boil_/c ::3232 
 
-[HeatCapacity::0.13]
-[HeatConduct::0.0674]
-[Enthalpy::2.84]
-[FormEnergy-kj-mol::344]
-(PeriodNo::7)
-(GroupNo::28)
+[has_/value_for_/capacity_/heat::0.13]
+[has_/value_for_/conductivity_/heat::0.0674]
+[has_/value_for_/enthalpy::2.84]
+[has_/value_for_/energy_/form_/kj_/mol::344]
+(has_/number_of_/period::7)
+(has_/number_of_/group::28)
 (Charge-e::94)
 
 #is_/same_as :: [[../../../WikiData/WD~Plutonium,1102]] 

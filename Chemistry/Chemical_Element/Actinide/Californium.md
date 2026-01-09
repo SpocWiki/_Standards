@@ -57,8 +57,8 @@ UNII: 975X05H15A
 
 
 #chemic/Element 
-[GroupName::Actinide-Group]
-Group::[[../Actinide]]
+[has_/name_/group::Actinide-Group]
+is_/part_of::[[../Actinide]]
 
 has_/name_/en::Californium 
 
@@ -68,25 +68,25 @@ has_/name_/de::Californium
 
 has_/value_for_/weight_/u::249 
 
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::0]
-[Unknown2::0]
+[has_/value_for_/radius::0]
+[has_/value_for_/volume_/ccm_/mol::0]
+[has_/value_for_/unknown2::0]
 
 has_/value_for_/radius_/nano_/m::6.3 
 
-[Electronegative::1.3]
-[Density::0]
+[has_/value_for_/electronegativity::1.3]
+[has_/value_for_/density::0]
 
 has_/value_for_/temperature_/melt_/c ::0 
 
 has_/value_for_/temperature_/boil_/c ::0 
 
-[HeatCapacity::0]
-[HeatConduct::0.1]
-[Enthalpy::0]
-[FormEnergy-kj-mol::0]
-(PeriodNo::7)
-(GroupNo::32)
+[has_/value_for_/capacity_/heat::0]
+[has_/value_for_/conductivity_/heat::0.1]
+[has_/value_for_/enthalpy::0]
+[has_/value_for_/energy_/form_/kj_/mol::0]
+(has_/number_of_/period::7)
+(has_/number_of_/group::32)
 []
 (Charge-e::98)
 

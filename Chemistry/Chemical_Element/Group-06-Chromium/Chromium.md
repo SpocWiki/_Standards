@@ -121,8 +121,8 @@ ZVG_number: 8190
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Chromium,725]] 
 
-[GroupName::Group-06-Chromium]
-Group::[[../Group-06-Chromium]]
+[has_/name_/group::Group-06-Chromium]
+is_/part_of::[[../Group-06-Chromium]]
 
 has_/name_/en::Chromium 
 
@@ -130,31 +130,31 @@ has_/name_/de::Chrom
 
 has_/value_for_/weight_/u::51.996 
 
-[AtomRadius::1.85]
-[Atom-Vol-ccm-mol::7.23]
-[Unknown2::1.18]
+[has_/value_for_/radius::1.85]
+[has_/value_for_/volume_/ccm_/mol::7.23]
+[has_/value_for_/unknown2::1.18]
 
 has_/value_for_/radius_/nano_/m::6.766 
 
-[Electronegative::1.7]
-[Density::7.19]
+[has_/value_for_/electronegativity::1.7]
+[has_/value_for_/density::7.19]
 
 has_/value_for_/temperature_/melt_/c ::1857 
 
 has_/value_for_/temperature_/boil_/c ::2672 
 
-[HeatCapacity::0.45]
-[HeatConduct::0.937]
-[Enthalpy::16.9]
-[FormEnergy-kj-mol::344.3]
-(PeriodNo::4)
+[has_/value_for_/capacity_/heat::0.45]
+[has_/value_for_/conductivity_/heat::0.937]
+[has_/value_for_/enthalpy::16.9]
+[has_/value_for_/energy_/form_/kj_/mol::344.3]
+(has_/number_of_/period::4)
 
 #is_/same_as :: [[../../../WikiData/WD~Chromium,725|WD~Chromium,725]] 
 
 ## #has_/text_of_/abstract 
 
 > **Chromium** is a chemical element with the symbol (Abbr::Cr) and atomic number (Charge-e::24). 
-> It is the first element in group (GroupNo::6). 
+> It is the first element in group (has_/number_of_/group::6). 
 > It is a steely-grey, lustrous, hard, and brittle transition metal. 
 > 
 > Chromium metal is valued for its high corrosion resistance and hardness. 

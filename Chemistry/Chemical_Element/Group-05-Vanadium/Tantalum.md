@@ -88,8 +88,8 @@ ZVG_number: 8440
 
 #chemic/Element 
 
-[GroupName::Group-05-Vanadium]
-Group::[[../Group-05-Vanadium]]
+[has_/name_/group::Group-05-Vanadium]
+is_/part_of::[[../Group-05-Vanadium]]
 
 `=this["Dewey Decimal Classification"]`
 `=this.Dewey_Decimal_Classification`
@@ -101,24 +101,24 @@ has_/name_/de::Tantal
 
 has_/value_for_/weight_/u::180.9479 
 
-[AtomRadius::2.09]
-[Atom-Vol-ccm-mol::10.9]
-[Unknown2::1.34]
+[has_/value_for_/radius::2.09]
+[has_/value_for_/volume_/ccm_/mol::10.9]
+[has_/value_for_/unknown2::1.34]
 
 has_/value_for_/radius_/nano_/m::7.89 
 
-[Electronegative::1.5]
-[Density::16.6]
+[has_/value_for_/electronegativity::1.5]
+[has_/value_for_/density::16.6]
 
 has_/value_for_/temperature_/melt_/c ::2996 
 
 has_/value_for_/temperature_/boil_/c ::5425 
 
-[HeatCapacity::0.14]
-[HeatConduct::0.575]
-[Enthalpy::31.6]
-[FormEnergy-kj-mol::743]
-(PeriodNo::6)
+[has_/value_for_/capacity_/heat::0.14]
+[has_/value_for_/conductivity_/heat::0.575]
+[has_/value_for_/enthalpy::31.6]
+[has_/value_for_/energy_/form_/kj_/mol::743]
+(has_/number_of_/period::6)
 #is_/same_as :: [[../../../WikiData/WD~Tantalum,1123|WD~Tantalum,1123]] 
 
 ## #has_/text_of_/abstract 
@@ -129,7 +129,7 @@ has_/value_for_/temperature_/boil_/c ::5425
 > Tantalum is a very hard, ductile, lustrous, blue-gray transition metal that is highly corrosion-resistant. 
 > It is part of the refractory metals group, 
 > which are widely used as components of strong high-melting-point alloys. 
-> It is a group (GroupNo::5) element, along with [[Vanadium]] and [[Niobium]], and 
+> It is a group (has_/number_of_/group::5) element, along with [[Vanadium]] and [[Niobium]], and 
 > it always occurs in geologic sources together with the chemically similar niobium, 
 > mainly in the mineral groups tantalite, columbite and coltan. 
 >

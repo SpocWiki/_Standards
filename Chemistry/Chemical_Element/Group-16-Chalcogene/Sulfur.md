@@ -89,8 +89,8 @@ ZVG_number: 8130
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Sulfur,682]] 
 
-[GroupName::Group-16-Chalcogene]
-Group::[[../Group-16-Chalcogene]]
+[has_/name_/group::Group-16-Chalcogene]
+is_/part_of::[[../Group-16-Chalcogene]]
 
 has_/name_/en::Sulfur 
 
@@ -98,25 +98,25 @@ has_/name_/de::Schwefel
 
 has_/value_for_/weight_/u::32.066 
 
-[AtomRadius::1.09]
-[Atom-Vol-ccm-mol::15.5]
-[Unknown2::1.02]
+[has_/value_for_/radius::1.09]
+[has_/value_for_/volume_/ccm_/mol::15.5]
+[has_/value_for_/unknown2::1.02]
 
 has_/value_for_/radius_/nano_/m::10.36 
 
-[Electronegative::2.6]
-[Density::2.07]
+[has_/value_for_/electronegativity::2.6]
+[has_/value_for_/density::2.07]
 
 has_/value_for_/temperature_/melt_/c ::112.8 
 
 has_/value_for_/temperature_/boil_/c ::444.67 
 
-[HeatCapacity::0.71]
-[HeatConduct::0.00269]
-[Enthalpy::1.7175]
-[FormEnergy-kj-mol::0]
-(PeriodNo::3)
-(GroupNo::16)
+[has_/value_for_/capacity_/heat::0.71]
+[has_/value_for_/conductivity_/heat::0.00269]
+[has_/value_for_/enthalpy::1.7175]
+[has_/value_for_/energy_/form_/kj_/mol::0]
+(has_/number_of_/period::3)
+(has_/number_of_/group::16)
 
 
 ## #has_/text_of_/abstract 

@@ -72,8 +72,8 @@ UNSPSC_Code: 12141742
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Technetium,1054]] 
 
-[GroupName::Group-07-Manganese]
-Group::[[../Group-07-Manganese]]
+[has_/name_/group::Group-07-Manganese]
+is_/part_of::[[../Group-07-Manganese]]
 
 has_/name_/en::Technetium 
 
@@ -81,24 +81,24 @@ has_/name_/de::Technetium
 
 has_/value_for_/weight_/u::98.9062 
 
-[AtomRadius::1.95]
-[Atom-Vol-ccm-mol::0]
-[Unknown2::1.27]
+[has_/value_for_/radius::1.95]
+[has_/value_for_/volume_/ccm_/mol::0]
+[has_/value_for_/unknown2::1.27]
 
 has_/value_for_/radius_/nano_/m::7.28 
 
-[Electronegative::1.9]
-[Density::11.5]
+[has_/value_for_/electronegativity::1.9]
+[has_/value_for_/density::11.5]
 
 has_/value_for_/temperature_/melt_/c ::2172 
 
 has_/value_for_/temperature_/boil_/c ::4877 
 
-[HeatCapacity::0.21]
-[HeatConduct::0.506]
-[Enthalpy::24]
-[FormEnergy-kj-mol::660]
-(PeriodNo::5)
+[has_/value_for_/capacity_/heat::0.21]
+[has_/value_for_/conductivity_/heat::0.506]
+[has_/value_for_/enthalpy::24]
+[has_/value_for_/energy_/form_/kj_/mol::660]
+(has_/number_of_/period::5)
 #is_/same_as :: [[../../../WikiData/WD~Technetium,1054|WD~Technetium,1054]] 
 
 
@@ -112,7 +112,7 @@ has_/value_for_/temperature_/boil_/c ::4877
 > the most common source, or the product of neutron capture in molybdenum ores. 
 > 
 > This silvery gray, crystalline transition metal lies between manganese and rhenium 
-> in group (GroupNo::7) of the periodic table, 
+> in group (has_/number_of_/group::7) of the periodic table, 
 > and its chemical properties are intermediate between those of both adjacent elements. 
 > The most common naturally occurring isotope is 99Tc, in traces only.
 >

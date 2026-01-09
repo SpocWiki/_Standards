@@ -75,8 +75,8 @@ ZVG_number: 8420
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Barium,1112]] 
 
-[GroupName::Group-02-Earth-Alkaline]
-Group::[[../Group-02-Earth-Alkaline]]]
+[has_/name_/group::Group-02-Earth-Alkaline]
+is_/part_of::[[../Group-02-Earth-Alkaline]]]
 
 has_/name_/en::Barium 
 
@@ -84,30 +84,30 @@ has_/name_/de::Barium
 
 has_/value_for_/weight_/u::137.33 
 
-[AtomRadius::2.78]
-[Atom-Vol-ccm-mol::39.24]
-[Unknown2::1.98]
+[has_/value_for_/radius::2.78]
+[has_/value_for_/volume_/ccm_/mol::39.24]
+[has_/value_for_/unknown2::1.98]
 
 has_/value_for_/radius_/nano_/m::5.212 
 
-[Electronegative::0.9]
-[Density::3.5]
+[has_/value_for_/electronegativity::0.9]
+[has_/value_for_/density::3.5]
 
 has_/value_for_/temperature_/melt_/c ::725 
 
 has_/value_for_/temperature_/boil_/c ::1640 
 
-[HeatCapacity::0.204]
-[HeatConduct::0.184]
-[Enthalpy::7.75]
-[FormEnergy-kj-mol::142]
+[has_/value_for_/capacity_/heat::0.204]
+[has_/value_for_/conductivity_/heat::0.184]
+[has_/value_for_/enthalpy::7.75]
+[has_/value_for_/energy_/form_/kj_/mol::142]
 
 #is_/same_as :: [[../../../WikiData/WD~Barium,1112|WD~Barium,1112]] 
 
 ## #has_/text_of_/abstract 
 
 > **Barium** is a chemical element with the symbol (Abbr::Ba) and atomic number (Charge-e::56). 
-> It is the fifth element ((PeriodNo::6)) in group (GroupNo::2) and is a soft, silvery alkaline earth metal. 
+> It is the fifth element ((has_/number_of_/period::6)) in group (has_/number_of_/group::2) and is a soft, silvery alkaline earth metal. 
 > Because of its high chemical reactivity, barium is never found in nature as a free element.
 >
 > The most common minerals of barium are baryte (barium sulfate, BaSO4) 

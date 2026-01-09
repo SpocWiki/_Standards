@@ -39,8 +39,8 @@ Unicode_character: 鑪
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Rutherfordium,1226]] 
 
-[GroupName::Group-04-Titanium]
-Group::[[../Group-04-Titanium]]
+[has_/name_/group::Group-04-Titanium]
+is_/part_of::[[../Group-04-Titanium]]
 
 has_/name_/en::Rutherfordium 
 
@@ -48,25 +48,25 @@ has_/name_/de::Kurtschatovium
 
 has_/value_for_/weight_/u::0 
 
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::0]
-[Unknown2::0]
+[has_/value_for_/radius::0]
+[has_/value_for_/volume_/ccm_/mol::0]
+[has_/value_for_/unknown2::0]
 
 has_/value_for_/radius_/nano_/m::0 
 
-[Electronegative::0]
-[Density::0]
+[has_/value_for_/electronegativity::0]
+[has_/value_for_/density::0]
 
 has_/value_for_/temperature_/melt_/c ::0 
 
 has_/value_for_/temperature_/boil_/c ::0 
 
-[HeatCapacity::0]
-[HeatConduct::0]
-[Enthalpy::0]
-[FormEnergy-kj-mol::0]
-(PeriodNo::7)
-(GroupNo::4)
+[has_/value_for_/capacity_/heat::0]
+[has_/value_for_/conductivity_/heat::0]
+[has_/value_for_/enthalpy::0]
+[has_/value_for_/energy_/form_/kj_/mol::0]
+(has_/number_of_/period::7)
+(has_/number_of_/group::4)
 (Charge-e::104)
 
 #is_/same_as :: [[../../../WikiData/WD~Rutherfordium,1226|WD~Rutherfordium,1226]] 

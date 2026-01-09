@@ -68,8 +68,8 @@ ZVG_number: 7100
 # [[Neon]]
 
 #chemic/Element 
-[GroupName::Group-18-Nobel-Gases]
-Group::[[../Group-18-Nobel-Gases]]
+[has_/name_/group::Group-18-Nobel-Gases]
+is_/part_of::[[../Group-18-Nobel-Gases]]
 
 has_/name_/en::Neon 
 
@@ -77,25 +77,25 @@ has_/name_/de::Neon
 
 has_/value_for_/weight_/u::20.17 
 
-[AtomRadius::0.51]
-[Atom-Vol-ccm-mol::16.7]
-[Unknown2::0.71]
+[has_/value_for_/radius::0.51]
+[has_/value_for_/volume_/ccm_/mol::16.7]
+[has_/value_for_/unknown2::0.71]
 
 has_/value_for_/radius_/nano_/m::21.564 
 
-[Electronegative::0]
-[Density::0.901]
+[has_/value_for_/electronegativity::0]
+[has_/value_for_/density::0.901]
 
 has_/value_for_/temperature_/melt_/c ::-248.7 
 
 has_/value_for_/temperature_/boil_/c ::-246.05 
 
-[HeatCapacity::0.904]
-[HeatConduct::0.000493]
-[Enthalpy::0.3317]
-[FormEnergy-kj-mol::1.7326]
-(PeriodNo::2)
-(GroupNo::18)
+[has_/value_for_/capacity_/heat::0.904]
+[has_/value_for_/conductivity_/heat::0.000493]
+[has_/value_for_/enthalpy::0.3317]
+[has_/value_for_/energy_/form_/kj_/mol::1.7326]
+(has_/number_of_/period::2)
+(has_/number_of_/group::18)
 
 #is_/same_as :: [[../../../WikiData/WD~Neon,654]] 
 

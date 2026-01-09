@@ -126,8 +126,8 @@ ZVG_number: 8080
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Sodium,658]] 
 
-[GroupName::Group-01-Alkali]
-Group::[[../Group-01-Alkali]]
+[has_/name_/group::Group-01-Alkali]
+is_/part_of::[[../Group-01-Alkali]]
 
 has_/name_/en::Sodium 
 
@@ -135,31 +135,31 @@ has_/name_/de::Natrium
 
 has_/value_for_/weight_/u::22.9898 
 
-[AtomRadius::2.23]
-[Atom-Vol-ccm-mol::23.7]
-[Unknown2::1.54]
+[has_/value_for_/radius::2.23]
+[has_/value_for_/volume_/ccm_/mol::23.7]
+[has_/value_for_/unknown2::1.54]
 
 has_/value_for_/radius_/nano_/m::5.139 
 
-[Electronegative::0.9]
-[Density::0.97]
+[has_/value_for_/electronegativity::0.9]
+[has_/value_for_/density::0.97]
 
 has_/value_for_/temperature_/melt_/c ::97.81 
 
 has_/value_for_/temperature_/boil_/c ::882.9 
 
-[HeatCapacity::1.23]
-[HeatConduct::1.41]
-[Enthalpy::2.598]
-[FormEnergy-kj-mol::96.96]
-(PeriodNo::3)
+[has_/value_for_/capacity_/heat::1.23]
+[has_/value_for_/conductivity_/heat::1.41]
+[has_/value_for_/enthalpy::2.598]
+[has_/value_for_/energy_/form_/kj_/mol::96.96]
+(has_/number_of_/period::3)
 
 ## #has_/text_of_/abstract 
 
 > **Sodium** is a chemical element with the symbol (Abbr::Na) (from Latin natrium) and atomic number (Charge-e::11). 
 > It is a soft, silvery-white, highly reactive metal. 
 > 
-> Sodium is an alkali metal, being in group (GroupNo::1) of the periodic table. Its only stable isotope is 23Na. 
+> Sodium is an alkali metal, being in group (has_/number_of_/group::1) of the periodic table. Its only stable isotope is 23Na. 
 > The free metal does not occur in nature, and must be prepared from compounds. 
 > Sodium is the sixth most abundant element in the Earth's crust 
 > and exists in numerous minerals such as feldspars, sodalite, and halite (NaCl). 

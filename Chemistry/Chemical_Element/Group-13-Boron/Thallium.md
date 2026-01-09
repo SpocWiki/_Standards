@@ -66,8 +66,8 @@ ZVG_number: 7810
 
 #chemic/Element 
 
-[GroupName::Group-13-Boron]
-Group::[[../Group-13-Boron]]
+[has_/name_/group::Group-13-Boron]
+is_/part_of::[[../Group-13-Boron]]
 
 has_/name_/en::Thallium 
 
@@ -75,25 +75,25 @@ has_/name_/de::Thallium
 
 has_/value_for_/weight_/u::204.383 
 
-[AtomRadius::2.08]
-[Atom-Vol-ccm-mol::17.2]
-[Unknown2::1.48]
+[has_/value_for_/radius::2.08]
+[has_/value_for_/volume_/ccm_/mol::17.2]
+[has_/value_for_/unknown2::1.48]
 
 has_/value_for_/radius_/nano_/m::6.108 
 
-[Electronegative::2]
-[Density::11.85]
+[has_/value_for_/electronegativity::2]
+[has_/value_for_/density::11.85]
 
 has_/value_for_/temperature_/melt_/c ::303.5 
 
 has_/value_for_/temperature_/boil_/c ::1457 
 
-[HeatCapacity::0.13]
-[HeatConduct::0.461]
-[Enthalpy::4.142]
-[FormEnergy-kj-mol::164.1]
-(PeriodNo::6)
-(GroupNo::13)
+[has_/value_for_/capacity_/heat::0.13]
+[has_/value_for_/conductivity_/heat::0.461]
+[has_/value_for_/enthalpy::4.142]
+[has_/value_for_/energy_/form_/kj_/mol::164.1]
+(has_/number_of_/period::6)
+(has_/number_of_/group::13)
 #is_/same_as :: [[../../../WikiData/WD~Thallium,932]] 
 
 

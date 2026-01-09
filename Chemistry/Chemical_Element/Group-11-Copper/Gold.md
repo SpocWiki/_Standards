@@ -106,8 +106,8 @@ ZVG_number: 8480
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Gold,897]] 
 
-[GroupName::Group-11-Copper]
-Group::[[../Group-11-Copper]]
+[has_/name_/group::Group-11-Copper]
+is_/part_of::[[../Group-11-Copper]]
 
 has_/name_/en::Gold 
 
@@ -115,25 +115,25 @@ has_/name_/de::Gold
 
 has_/value_for_/weight_/u::196.9665 
 
-[AtomRadius::1.79]
-[Atom-Vol-ccm-mol::10.2]
-[Unknown2::1.34]
+[has_/value_for_/radius::1.79]
+[has_/value_for_/volume_/ccm_/mol::10.2]
+[has_/value_for_/unknown2::1.34]
 
 has_/value_for_/radius_/nano_/m::9.225 
 
-[Electronegative::2.5]
-[Density::19.3]
+[has_/value_for_/electronegativity::2.5]
+[has_/value_for_/density::19.3]
 
 has_/value_for_/temperature_/melt_/c ::1064.4 
 
 has_/value_for_/temperature_/boil_/c ::2807 
 
-[HeatCapacity::0.128]
-[HeatConduct::3.17]
-[Enthalpy::12.55]
-[FormEnergy-kj-mol::334.4]
-(PeriodNo::6)
-(GroupNo::11)
+[has_/value_for_/capacity_/heat::0.128]
+[has_/value_for_/conductivity_/heat::3.17]
+[has_/value_for_/enthalpy::12.55]
+[has_/value_for_/energy_/form_/kj_/mol::334.4]
+(has_/number_of_/period::6)
+(has_/number_of_/group::11)
 
 
 ## #has_/text_of_/abstract 

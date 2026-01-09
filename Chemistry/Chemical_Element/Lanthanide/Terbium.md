@@ -56,8 +56,8 @@ UNII: 06SSF7P179
 #is_/same_as :: [[../../../WikiData/WD~Terbium,1838]] 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+[has_/name_/group::Lanthanide-Group]
+is_/part_of::[[../Lanthanide]]
 
 has_/name_/en::Terbium 
 
@@ -65,25 +65,25 @@ has_/name_/de::Terbium
 
 has_/value_for_/weight_/u::158.9254 
 
-[AtomRadius::2.51]
-[Atom-Vol-ccm-mol::19.2]
-[Unknown2::1.59]
+[has_/value_for_/radius::2.51]
+[has_/value_for_/volume_/ccm_/mol::19.2]
+[has_/value_for_/unknown2::1.59]
 
 has_/value_for_/radius_/nano_/m::5.86 
 
-[Electronegative::1.2]
-[Density::8.27]
+[has_/value_for_/electronegativity::1.2]
+[has_/value_for_/density::8.27]
 
 has_/value_for_/temperature_/melt_/c ::1360 
 
 has_/value_for_/temperature_/boil_/c ::3041 
 
-[HeatCapacity::0.18]
-[HeatConduct::0.111]
-[Enthalpy::10.8]
-[FormEnergy-kj-mol::330.9]
-(PeriodNo::6)
-(GroupNo::31)
+[has_/value_for_/capacity_/heat::0.18]
+[has_/value_for_/conductivity_/heat::0.111]
+[has_/value_for_/enthalpy::10.8]
+[has_/value_for_/energy_/form_/kj_/mol::330.9]
+(has_/number_of_/period::6)
+(has_/number_of_/group::31)
 
 
 ## #has_/text_of_/abstract 

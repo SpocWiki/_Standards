@@ -63,8 +63,8 @@ ZVG_number: 7680
 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+[has_/name_/group::Lanthanide-Group]
+is_/part_of::[[../Lanthanide]]
 
 has_/name_/en::Erbium 
 
@@ -72,25 +72,25 @@ has_/name_/de::Erbium
 
 has_/value_for_/weight_/u::167.26 
 
-[AtomRadius::2.45]
-[Atom-Vol-ccm-mol::18.4]
-[Unknown2::1.57]
+[has_/value_for_/radius::2.45]
+[has_/value_for_/volume_/ccm_/mol::18.4]
+[has_/value_for_/unknown2::1.57]
 
 has_/value_for_/radius_/nano_/m::6.101 
 
-[Electronegative::1.2]
-[Density::9.05]
+[has_/value_for_/electronegativity::1.2]
+[has_/value_for_/density::9.05]
 
 has_/value_for_/temperature_/melt_/c ::1522 
 
 has_/value_for_/temperature_/boil_/c ::2510 
 
-[HeatCapacity::0.17]
-[HeatConduct::0.143]
-[Enthalpy::19.9]
-[FormEnergy-kj-mol::261]
-(PeriodNo::6)
-(GroupNo::34)
+[has_/value_for_/capacity_/heat::0.17]
+[has_/value_for_/conductivity_/heat::0.143]
+[has_/value_for_/enthalpy::19.9]
+[has_/value_for_/energy_/form_/kj_/mol::261]
+(has_/number_of_/period::6)
+(has_/number_of_/group::34)
 
 
 

@@ -52,8 +52,8 @@ UNII: 8RKC5ATI4P
 #is_/same_as :: [[../../../WikiData/WD~Thulium,1853]] 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+[has_/name_/group::Lanthanide-Group]
+is_/part_of::[[../Lanthanide]]
 
 has_/name_/en::Thulium 
 
@@ -61,25 +61,25 @@ has_/name_/de::Thulium
 
 has_/value_for_/weight_/u::168.9342 
 
-[AtomRadius::2.42]
-[Atom-Vol-ccm-mol::18.1]
-[Unknown2::1.56]
+[has_/value_for_/radius::2.42]
+[has_/value_for_/volume_/ccm_/mol::18.1]
+[has_/value_for_/unknown2::1.56]
 
 has_/value_for_/radius_/nano_/m::6.184 
 
-[Electronegative::1.3]
-[Density::9.33]
+[has_/value_for_/electronegativity::1.3]
+[has_/value_for_/density::9.33]
 
 has_/value_for_/temperature_/melt_/c ::1545 
 
 has_/value_for_/temperature_/boil_/c ::1727 
 
-[HeatCapacity::0.16]
-[HeatConduct::0.168]
-[Enthalpy::16.84]
-[FormEnergy-kj-mol::191]
-(PeriodNo::6)
-(GroupNo::35)
+[has_/value_for_/capacity_/heat::0.16]
+[has_/value_for_/conductivity_/heat::0.168]
+[has_/value_for_/enthalpy::16.84]
+[has_/value_for_/energy_/form_/kj_/mol::191]
+(has_/number_of_/period::6)
+(has_/number_of_/group::35)
 #is_/same_as :: [[../../../WikiData/WD~Thulium,1853|WD~Thulium,1853]] 
 
 ## #has_/text_of_/abstract 

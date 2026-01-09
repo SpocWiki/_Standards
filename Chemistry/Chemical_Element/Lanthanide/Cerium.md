@@ -203,8 +203,8 @@ ZVG_number: 8430
 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+[has_/name_/group::Lanthanide-Group]
+is_/part_of::[[../Lanthanide]]
 
 has_/name_/en::Cerium 
 
@@ -212,25 +212,25 @@ has_/name_/de::Cer
 
 has_/value_for_/weight_/u::140.12 
 
-[AtomRadius::2.7]
-[Atom-Vol-ccm-mol::20.67]
-[Unknown2::1.65]
+[has_/value_for_/radius::2.7]
+[has_/value_for_/volume_/ccm_/mol::20.67]
+[has_/value_for_/unknown2::1.65]
 
 has_/value_for_/radius_/nano_/m::5.54 
 
-[Electronegative::1.1]
-[Density::6.78]
+[has_/value_for_/electronegativity::1.1]
+[has_/value_for_/density::6.78]
 
 has_/value_for_/temperature_/melt_/c ::798 
 
 has_/value_for_/temperature_/boil_/c ::3257 
 
-[HeatCapacity::0.19]
-[HeatConduct::0.114]
-[Enthalpy::5.46]
-[FormEnergy-kj-mol::414]
-(PeriodNo::6)
-(GroupNo::24)
+[has_/value_for_/capacity_/heat::0.19]
+[has_/value_for_/conductivity_/heat::0.114]
+[has_/value_for_/enthalpy::5.46]
+[has_/value_for_/energy_/form_/kj_/mol::414]
+(has_/number_of_/period::6)
+(has_/number_of_/group::24)
 
 #is_/same_as :: [[../../../WikiData/WD~Cerium,1385]] 
 

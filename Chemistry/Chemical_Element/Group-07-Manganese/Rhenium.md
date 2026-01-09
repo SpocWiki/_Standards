@@ -65,8 +65,8 @@ ZVG_number: 7750
 
 #chemic/Element 
 
-[GroupName::Group-07-Manganese]
-Group::[[../Group-07-Manganese]]
+[has_/name_/group::Group-07-Manganese]
+is_/part_of::[[../Group-07-Manganese]]
 
 has_/name_/en::Rhenium 
 
@@ -74,29 +74,29 @@ has_/name_/de::Rhenium
 
 has_/value_for_/weight_/u::186.207 
 
-[AtomRadius::1.97]
-[Atom-Vol-ccm-mol::8.85]
-[Unknown2::1.28]
+[has_/value_for_/radius::1.97]
+[has_/value_for_/volume_/ccm_/mol::8.85]
+[has_/value_for_/unknown2::1.28]
 
 has_/value_for_/radius_/nano_/m::7.88 
 
-[Electronegative::1.9]
-[Density::21]
+[has_/value_for_/electronegativity::1.9]
+[has_/value_for_/density::21]
 
 has_/value_for_/temperature_/melt_/c ::3180 
 
-[HeatCapacity::0.13]
-[HeatConduct::0.479]
-[Enthalpy::33.2]
-[FormEnergy-kj-mol::715]
-(PeriodNo::6)
+[has_/value_for_/capacity_/heat::0.13]
+[has_/value_for_/conductivity_/heat::0.479]
+[has_/value_for_/enthalpy::33.2]
+[has_/value_for_/energy_/form_/kj_/mol::715]
+(has_/number_of_/period::6)
 #is_/same_as :: [[../../../WikiData/WD~Rhenium,737]] 
 
 
 ## #has_/text_of_/abstract 
 
 > **Rhenium** is a chemical element with the symbol (Abbr::Re) and atomic number (Charge-e::75). 
-> It is a silvery-gray, heavy, third-row transition metal in group (GroupNo::7) of the periodic table. 
+> It is a silvery-gray, heavy, third-row transition metal in group (has_/number_of_/group::7) of the periodic table. 
 > 
 > With an estimated average concentration of 1 part per billion (ppb), 
 > rhenium is one of the rarest elements in the Earth's crust. 

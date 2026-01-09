@@ -54,8 +54,8 @@ ZVG_number: 7630
 # [[Europium]] 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+[has_/name_/group::Lanthanide-Group]
+is_/part_of::[[../Lanthanide]]
 
 has_/name_/en::Europium 
 
@@ -63,25 +63,25 @@ has_/name_/de::Europium
 
 has_/value_for_/weight_/u::151.96 
 
-[AtomRadius::2.56]
-[Atom-Vol-ccm-mol::28.9]
-[Unknown2::1.85]
+[has_/value_for_/radius::2.56]
+[has_/value_for_/volume_/ccm_/mol::28.9]
+[has_/value_for_/unknown2::1.85]
 
 has_/value_for_/radius_/nano_/m::5.67 
 
-[Electronegative::1.2]
-[Density::5.26]
+[has_/value_for_/electronegativity::1.2]
+[has_/value_for_/density::5.26]
 
 has_/value_for_/temperature_/melt_/c ::822 
 
 has_/value_for_/temperature_/boil_/c ::1597 
 
-[HeatCapacity::0.18]
-[HeatConduct::0.139]
-[Enthalpy::9.21]
-[FormEnergy-kj-mol::143.5]
-(PeriodNo::6)
-(GroupNo::29)
+[has_/value_for_/capacity_/heat::0.18]
+[has_/value_for_/conductivity_/heat::0.139]
+[has_/value_for_/enthalpy::9.21]
+[has_/value_for_/energy_/form_/kj_/mol::143.5]
+(has_/number_of_/period::6)
+(has_/number_of_/group::29)
 
 #is_/same_as :: [[../../../WikiData/WD~Europium,1396]] 
 

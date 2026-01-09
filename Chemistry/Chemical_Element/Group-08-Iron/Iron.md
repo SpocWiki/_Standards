@@ -109,8 +109,8 @@ ZVG_number: 8210
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Iron,677]] 
 
-[GroupName::Group-08-Iron]
-Group::[[../Group-08-Iron]]
+[has_/name_/group::Group-08-Iron]
+is_/part_of::[[../Group-08-Iron]]
 
 has_/name_/en::Iron 
 
@@ -118,31 +118,31 @@ has_/name_/de::Eisen
 
 has_/value_for_/weight_/u::55.847 
 
-[AtomRadius::1.72]
-[Atom-Vol-ccm-mol::7.1]
-[Unknown2::1.17]
+[has_/value_for_/radius::1.72]
+[has_/value_for_/volume_/ccm_/mol::7.1]
+[has_/value_for_/unknown2::1.17]
 
 has_/value_for_/radius_/nano_/m::7.87 
 
-[Electronegative::1.8]
-[Density::7.86]
+[has_/value_for_/electronegativity::1.8]
+[has_/value_for_/density::7.86]
 
 has_/value_for_/temperature_/melt_/c ::1535 
 
 has_/value_for_/temperature_/boil_/c ::2750 
 
-[HeatCapacity::0.44]
-[HeatConduct::0.802]
-[Enthalpy::13.8]
-[FormEnergy-kj-mol::349.6]
-(PeriodNo::4)
+[has_/value_for_/capacity_/heat::0.44]
+[has_/value_for_/conductivity_/heat::0.802]
+[has_/value_for_/enthalpy::13.8]
+[has_/value_for_/energy_/form_/kj_/mol::349.6]
+(has_/number_of_/period::4)
 
 #is_/same_as :: [[../../../WikiData/WD~Iron,677|WD~Iron,677]] 
 
 ## #has_/text_of_/abstract 
 
 > **Iron** ( or ) is a chemical element with symbol (Abbr::Fe) (from Latin: ferrum) and atomic number (Charge-e::26). 
-> It is a metal that belongs to the first transition series and group (GroupNo::8) of the periodic table. 
+> It is a metal that belongs to the first transition series and group (has_/number_of_/group::8) of the periodic table. 
 > 
 > It is, by mass, the most common element on Earth, just ahead of oxygen 
 > (32.1% and 30.1%, respectively), forming much of Earth's outer and inner core. 

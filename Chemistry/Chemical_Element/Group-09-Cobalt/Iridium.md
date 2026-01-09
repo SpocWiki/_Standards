@@ -63,8 +63,8 @@ ZVG_number: 8460
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Iridium,877]] 
 
-[GroupName::Group-09-Cobalt]
-Group::[[../Group-09-Cobalt]]
+[has_/name_/group::Group-09-Cobalt]
+is_/part_of::[[../Group-09-Cobalt]]
 
 has_/name_/en::Iridium 
 
@@ -72,25 +72,25 @@ has_/name_/de::Iridium
 
 has_/value_for_/weight_/u::192.22 
 
-[AtomRadius::1.87]
-[Atom-Vol-ccm-mol::8.54]
-[Unknown2::1.27]
+[has_/value_for_/radius::1.87]
+[has_/value_for_/volume_/ccm_/mol::8.54]
+[has_/value_for_/unknown2::1.27]
 
 has_/value_for_/radius_/nano_/m::9.1 
 
-[Electronegative::2.2]
-[Density::22.5]
+[has_/value_for_/electronegativity::2.2]
+[has_/value_for_/density::22.5]
 
 has_/value_for_/temperature_/melt_/c ::2410 
 
 has_/value_for_/temperature_/boil_/c ::4130 
 
-[HeatCapacity::0.13]
-[HeatConduct::1.47]
-[Enthalpy::26.1]
-[FormEnergy-kj-mol::604]
-(PeriodNo::6)
-(GroupNo::9)
+[has_/value_for_/capacity_/heat::0.13]
+[has_/value_for_/conductivity_/heat::1.47]
+[has_/value_for_/enthalpy::26.1]
+[has_/value_for_/energy_/form_/kj_/mol::604]
+(has_/number_of_/period::6)
+(has_/number_of_/group::9)
 
 #is_/same_as :: [[../../../WikiData/WD~Iridium,877|WD~Iridium,877]] 
 

@@ -78,8 +78,8 @@ ZVG_number: 7920
 
 
 #chemic/Element 
-[GroupName::Actinide-Group]
-Group::[[../Actinide]]
+[has_/name_/group::Actinide-Group]
+is_/part_of::[[../Actinide]]
 
 has_/name_/en::Uranium 
 
@@ -89,25 +89,25 @@ has_/name_/de::Uran
 
 has_/value_for_/weight_/u::238.0289 
 
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::12.59]
-[Unknown2::1.42]
+[has_/value_for_/radius::0]
+[has_/value_for_/volume_/ccm_/mol::12.59]
+[has_/value_for_/unknown2::1.42]
 
 has_/value_for_/radius_/nano_/m::6.05 
 
-[Electronegative::1.4]
-[Density::18.9]
+[has_/value_for_/electronegativity::1.4]
+[has_/value_for_/density::18.9]
 
 has_/value_for_/temperature_/melt_/c ::1132.3 
 
 has_/value_for_/temperature_/boil_/c ::3818 
 
-[HeatCapacity::0.12]
-[HeatConduct::0.276]
-[Enthalpy::8.52]
-[FormEnergy-kj-mol::477]
-(PeriodNo::7)
-(GroupNo::26)
+[has_/value_for_/capacity_/heat::0.12]
+[has_/value_for_/conductivity_/heat::0.276]
+[has_/value_for_/enthalpy::8.52]
+[has_/value_for_/energy_/form_/kj_/mol::477]
+(has_/number_of_/period::7)
+(has_/number_of_/group::26)
 (Charge-e::92)
 
 

@@ -80,8 +80,8 @@ ZVG_number: 8370
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Indium,1094]] 
 
-[GroupName::Group-13-Boron]
-Group::[[../Group-13-Boron]]
+[has_/name_/group::Group-13-Boron]
+is_/part_of::[[../Group-13-Boron]]
 
 has_/name_/en::Indium 
 
@@ -89,25 +89,25 @@ has_/name_/de::Indium
 
 has_/value_for_/weight_/u::114.82 
 
-[AtomRadius::2]
-[Atom-Vol-ccm-mol::15.7]
-[Unknown2::1.44]
+[has_/value_for_/radius::2]
+[has_/value_for_/volume_/ccm_/mol::15.7]
+[has_/value_for_/unknown2::1.44]
 
 has_/value_for_/radius_/nano_/m::5.786 
 
-[Electronegative::1.8]
-[Density::7.31]
+[has_/value_for_/electronegativity::1.8]
+[has_/value_for_/density::7.31]
 
 has_/value_for_/temperature_/melt_/c ::156.61 
 
 has_/value_for_/temperature_/boil_/c ::2080 
 
-[HeatCapacity::0.23]
-[HeatConduct::0.816]
-[Enthalpy::3.263]
-[FormEnergy-kj-mol::231.5]
-(PeriodNo::5)
-(GroupNo::13)
+[has_/value_for_/capacity_/heat::0.23]
+[has_/value_for_/conductivity_/heat::0.816]
+[has_/value_for_/enthalpy::3.263]
+[has_/value_for_/energy_/form_/kj_/mol::231.5]
+(has_/number_of_/period::5)
+(has_/number_of_/group::13)
 
 #is_/same_as :: [[../../../WikiData/WD~Indium,1094|WD~Indium,1094]] 
 
