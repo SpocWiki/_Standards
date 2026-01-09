@@ -129,21 +129,6 @@ dv_has_value_for_weight_u: 85.4678
 dv_has_radius_nano_m: 4.177
 dv_has_value_for_temperature_melt_c: 38.89
 dv_has_value_for_temperature_boil_c: 688
-dv_dv_has_:
-  name_:
-    en: Rubidium
-    de: Rubidium
-  value_for_:
-    weight_:
-      u: 85.4678
-    temperature_:
-      melt_:
-        c: 38.89
-      boil_:
-        c: 688
-  radius_:
-    nano_:
-      m: 4.177
 ---
 
 # [[Rubidium]] 

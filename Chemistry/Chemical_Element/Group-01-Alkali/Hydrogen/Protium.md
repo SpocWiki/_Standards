@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: 
 has_id_wikidata: Q12830437
 followed_by: "[[_Standards/WikiData/WD~deuterium,102296]]"
 instance_of:
@@ -18,23 +18,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-10.svg
 Wolfram_Language_entity_code: Entity["Isotope", "Hydrogen1"]
 mass_excess: 7288.97061
 mass: 1.00782503224
-dv_is_:
-  same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium|Protium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.public|Protium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.internal|Protium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.protect|Protium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.private|Protium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.personal|Protium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.secret|Protium.secret]]"
-dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium|Protium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.public|Protium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.internal|Protium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.protect|Protium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.private|Protium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.personal|Protium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.secret|Protium.secret]]"
 ---
 
 # [[Protium]] 

@@ -4,23 +4,6 @@ aliases:
   - hydrogen-assisted cracking
   - hydrogen-induced cracking
   - Hydrogen_Embrittlement
-dv_is_:
-  same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement|Hydrogen_Embrittlement]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.public|Hydrogen_Embrittlement.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.internal|Hydrogen_Embrittlement.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.protect|Hydrogen_Embrittlement.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.private|Hydrogen_Embrittlement.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.personal|Hydrogen_Embrittlement.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.secret|Hydrogen_Embrittlement.secret]]"
-dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement|Hydrogen_Embrittlement]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.public|Hydrogen_Embrittlement.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.internal|Hydrogen_Embrittlement.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.protect|Hydrogen_Embrittlement.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.private|Hydrogen_Embrittlement.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.personal|Hydrogen_Embrittlement.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.secret|Hydrogen_Embrittlement.secret]]"
 ---
 
 ## #has_/text_of_/abstract 

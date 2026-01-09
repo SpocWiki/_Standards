@@ -4,23 +4,6 @@ aliases:
   - Electrolysis of water
   - Water_splitting
   - Electrolysis_of_water
-dv_is_:
-  same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water|Electrolysis_of_water]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.public|Electrolysis_of_water.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.internal|Electrolysis_of_water.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.protect|Electrolysis_of_water.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private|Electrolysis_of_water.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal|Electrolysis_of_water.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret|Electrolysis_of_water.secret]]"
-dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water|Electrolysis_of_water]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.public|Electrolysis_of_water.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.internal|Electrolysis_of_water.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.protect|Electrolysis_of_water.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private|Electrolysis_of_water.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal|Electrolysis_of_water.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret|Electrolysis_of_water.secret]]"
 ---
 
 ## Challenges 
