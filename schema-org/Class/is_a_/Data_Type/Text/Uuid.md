@@ -2,6 +2,33 @@
 aliases:
   - GUID
   - Uuid
+dv_is_:
+  worse_than:
+    - "[[../../../../../../IT/SW~Architecture/Snowflake-ID]]]"
+    - "[[Cuid2]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Uuid|Uuid]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Uuid.public|Uuid.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Uuid.internal|Uuid.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Uuid.protect|Uuid.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Uuid.private|Uuid.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Uuid.personal|Uuid.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Uuid.secret|Uuid.secret]]"
+dv_has_:
+  url_for_:
+    description: https://uuid.ramsey.dev
+dv_is_worse_than:
+  - "[[../../../../../../IT/SW~Architecture/Snowflake-ID]]]"
+  - "[[Cuid2]]"
+dv_has_url_for_description: https://uuid.ramsey.dev
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Uuid|Uuid]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Uuid.public|Uuid.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Uuid.internal|Uuid.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Uuid.protect|Uuid.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Uuid.private|Uuid.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Uuid.personal|Uuid.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Uuid.secret|Uuid.secret]]"
 ---
 
 # [[UUID]] 
@@ -11,7 +38,7 @@ Better Alternatives are:
 #is_/worse_than :: [[Cuid2]]
 NanoID 
 
-#has_/url_for_/description :: https://uuid.ramsey.dev 
+has_url_for_description = `=this.dv_has_url_for_description` 
 ## Types of UUIDs 
 
 

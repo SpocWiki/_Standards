@@ -27,7 +27,7 @@ title: is_accepting_new_patients
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/accepting_new_patients 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 Whether the provider is accepting new patients.
 
 Predicate describes that: 
-[ #has_/domain  :: MedicalOrganization ]
+
+#has_/domain  :: MedicalOrganization  
+
 ( #has_/name :: is_accepting_new_patients )
 ( #has_/range :: Boolean )
 

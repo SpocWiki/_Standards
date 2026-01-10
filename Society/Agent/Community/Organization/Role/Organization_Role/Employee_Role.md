@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A subclass of OrganizationRole used to describe employee relationships.
 
-[ #is_/sub_class_of :: [[../OrganizationRole]] ]
+#is_/sub_class_of :: [[../OrganizationRole]]  
 
-[ #has_/properties :: [ additionalType, alternateName, baseSalary, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, salaryCurrency, sameAs, startDate, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, baseSalary, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, salaryCurrency, sameAs, startDate, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

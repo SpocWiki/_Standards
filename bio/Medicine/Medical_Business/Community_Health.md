@@ -35,10 +35,9 @@ Tag Instances like this:
 
 A field of public health focusing on improving health characteristics of a defined population in relation with their geographical or environment areas.
 
-[ #is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]] ]
+#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
 
-[ #is_/enum_of :: [[../MedicalSpecialty]] ]
-
+#is_/enum_of :: [[../MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

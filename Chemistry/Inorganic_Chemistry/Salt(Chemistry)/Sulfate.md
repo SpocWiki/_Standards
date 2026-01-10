@@ -73,11 +73,32 @@ DSSTOX_compound_identifier: DTXCID1022425
 chemical_formula:
   - O₄S²⁻
   - SO₄²⁻
+dv_is_:
+  similar_to: "[[_Standards/WikiData/WD~sulfate,25997675]]"
+  same_as:
+    - "[[../../../WikiData/WD~Sulfate_ion,172290|WD~Sulfate_ion,172290]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate|Sulfate]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.public|Sulfate.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.internal|Sulfate.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.protect|Sulfate.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.private|Sulfate.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.personal|Sulfate.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.secret|Sulfate.secret]]"
+dv_is_similar_to: "[[_Standards/WikiData/WD~sulfate,25997675]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Sulfate_ion,172290|WD~Sulfate_ion,172290]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate|Sulfate]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.public|Sulfate.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.internal|Sulfate.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.protect|Sulfate.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.private|Sulfate.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.personal|Sulfate.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.secret|Sulfate.secret]]"
 ---
 
 # [[Sulfate]] 
 
-#is_/similar_to  :: [[_Standards/WikiData/WD~sulfate,25997675]] 
+is_similar_to = `=this.dv_is_similar_to` 
 #is_/same_as :: [[../../../WikiData/WD~Sulfate_ion,172290|WD~Sulfate_ion,172290]] 
 
 ## #has_/text_of_/abstract 

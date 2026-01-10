@@ -7,17 +7,36 @@ aliases:
   - 1076-Investiture_Controversy+1122
   - 1076-Investiture Controversy+1122
 has_id_wikidata: Q154764
-named_after: '[[_Standards/WikiData/WD~investiture,167407]]'
-described_by_source: '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+named_after: "[[_Standards/WikiData/WD~investiture,167407]]"
+described_by_source: "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~strife,2447975]]'
-  - '[[_Standards/WikiData/WD~dispute,12055674]]'
-part_of: '[[_Standards/WikiData/WD~Church_and_state_in_medieval_Europe,11499112]]'
+  - "[[_Standards/WikiData/WD~strife,2447975]]"
+  - "[[_Standards/WikiData/WD~dispute,12055674]]"
+part_of: "[[_Standards/WikiData/WD~Church_and_state_in_medieval_Europe,11499112]]"
 start_time: 1075-01-01T00:00:00Z
-locations: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
+locations: "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Omer%20et%20le%20Roi%20Dagobert.jpg
 Library_of_Congress_Classification: KBR4028-KBR4030
 end_time: 1124-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Investiture_controversy,154764]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122|1076-Investiture_Controversy+1122]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.public|1076-Investiture_Controversy+1122.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.internal|1076-Investiture_Controversy+1122.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.protect|1076-Investiture_Controversy+1122.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.private|1076-Investiture_Controversy+1122.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.personal|1076-Investiture_Controversy+1122.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.secret|1076-Investiture_Controversy+1122.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Investiture_controversy,154764]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122|1076-Investiture_Controversy+1122]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.public|1076-Investiture_Controversy+1122.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.internal|1076-Investiture_Controversy+1122.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.protect|1076-Investiture_Controversy+1122.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.private|1076-Investiture_Controversy+1122.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.personal|1076-Investiture_Controversy+1122.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1000/1076-Investiture_Controversy+1122.secret|1076-Investiture_Controversy+1122.secret]]"
 ---
 
 # [[1076-Investiture_Controversy+1122]] 

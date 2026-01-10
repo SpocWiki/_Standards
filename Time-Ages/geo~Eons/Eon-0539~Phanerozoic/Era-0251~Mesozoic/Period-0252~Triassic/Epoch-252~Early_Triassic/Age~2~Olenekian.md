@@ -15,15 +15,95 @@ named_after: "[[_Standards/WikiData/WD~Olenyok,26799]]"
 end_time: -247200000-01-01T00:00:00Z
 coordinate_location: Point(78.02472222 31.96527778)
 sRGB_color_hex_triplet: C26AA5
+dv_has_:
+  duration_:
+    years: "-4.000e+6"
+  previous_:
+    item: "[[Age~1~Induan]]"
+  next_:
+    item: "[[../Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]"
+  name_:
+    bg: Оленек
+    cs: Olenek
+    da: Olenekien
+    de: Olenekium
+    es: Olenekiense
+    et: Oleneki
+    fi: Olenek
+    fr: Olénekien
+    hu: olenyoki
+    it: olenekiano
+    ja: オレネキアン期
+    lt: Olenekis
+    nl: Olenekiën
+    no: Olenek
+    pl: Olenek
+    pt: Olenekiano
+    sk: olenek
+    sl: olenekij
+    sv: olenek
+    zh: 奥伦尼克期
+    abbreviated: t2
+  time_:
+    started: "-247.2e6"
+    stopped: "-251.2e6"
+  text_of_:
+    color: "0xB051A5"
+dv_is_:
+  same_as:
+    - "[[WD~Olenekian,914322]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.public|Age~2~Olenekian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.internal|Age~2~Olenekian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.protect|Age~2~Olenekian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.private|Age~2~Olenekian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.personal|Age~2~Olenekian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.secret|Age~2~Olenekian.secret]]"
+dv_has_duration_years: "-4.000e+6"
+dv_has_previous_item: "[[Age~1~Induan]]"
+dv_has_next_item: "[[../Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]"
+dv_is_same_as:
+  - "[[WD~Olenekian,914322]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.public|Age~2~Olenekian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.internal|Age~2~Olenekian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.protect|Age~2~Olenekian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.private|Age~2~Olenekian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.personal|Age~2~Olenekian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-252~Early_Triassic/Age~2~Olenekian.secret|Age~2~Olenekian.secret]]"
+dv_has_name_bg: Оленек
+dv_has_name_cs: Olenek
+dv_has_name_da: Olenekien
+dv_has_name_de: Olenekium
+dv_has_name_es: Olenekiense
+dv_has_name_et: Oleneki
+dv_has_name_fi: Olenek
+dv_has_name_fr: Olénekien
+dv_has_name_hu: olenyoki
+dv_has_name_it: olenekiano
+dv_has_name_ja: オレネキアン期
+dv_has_name_lt: Olenekis
+dv_has_name_nl: Olenekiën
+dv_has_name_no: Olenek
+dv_has_name_pl: Olenek
+dv_has_name_pt: Olenekiano
+dv_has_name_sk: olenek
+dv_has_name_sl: olenekij
+dv_has_name_sv: olenek
+dv_has_name_zh: 奥伦尼克期
+dv_has_name_abbreviated: t2
+dv_has_time_started: "-247.2e6"
+dv_has_time_stopped: "-251.2e6"
+dv_has_text_of_color: "0xB051A5"
 ---
 # [[Age~2~Olenekian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Induan]] 
-#has_/next_/item :: [[../Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Olenekian,914322]] 
 
 A time period from 247.2 to 251.2 million years ago. 
@@ -46,35 +126,35 @@ A time period from 247.2 to 251.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Olenekian) 
 
 
-#has_/name_/bg  :: Оленек
-#has_/name_/cs  :: Olenek
-#has_/name_/da  :: Olenekien
-#has_/name_/de  :: Olenekium
-#has_/name_/es  :: Olenekiense
-#has_/name_/et  :: Oleneki
-#has_/name_/fi  :: Olenek
-#has_/name_/fr  :: Olénekien
-#has_/name_/hu  :: olenyoki
-#has_/name_/it  :: olenekiano
-#has_/name_/ja  :: オレネキアン期
-#has_/name_/lt  :: Olenekis
-#has_/name_/nl  :: Olenekiën
-#has_/name_/no  :: Olenek
-#has_/name_/pl  :: Olenek
-#has_/name_/pt  :: Olenekiano
-#has_/name_/sk  :: olenek
-#has_/name_/sl  :: olenekij
-#has_/name_/sv  :: olenek
-#has_/name_/zh  :: 奥伦尼克期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: t2
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -247.2e6 
-#has_/time_/stopped :: -251.2e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 73 
 
-#has_/text_of_/color :: 0xB051A5
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

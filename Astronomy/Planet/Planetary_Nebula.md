@@ -10,6 +10,25 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/NGC%207009%20Hubble.jpg
 Wolfram_Language_entity_code: Entity["Concept", "PlanetaryNebula::b7748"]
 Commons_category: Planetary nebulae
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Planetary_nebula,13632]]"
+    - "[[/_Standards/Astronomy/Planet/Planetary_Nebula|Planetary_Nebula]]"
+    - "[[/_public/Astronomy/Planet/Planetary_Nebula.public|Planetary_Nebula.public]]"
+    - "[[/_internal/Astronomy/Planet/Planetary_Nebula.internal|Planetary_Nebula.internal]]"
+    - "[[/_protect/Astronomy/Planet/Planetary_Nebula.protect|Planetary_Nebula.protect]]"
+    - "[[/_private/Astronomy/Planet/Planetary_Nebula.private|Planetary_Nebula.private]]"
+    - "[[/_personal/Astronomy/Planet/Planetary_Nebula.personal|Planetary_Nebula.personal]]"
+    - "[[/_secret/Astronomy/Planet/Planetary_Nebula.secret|Planetary_Nebula.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Planetary_nebula,13632]]"
+  - "[[/_Standards/Astronomy/Planet/Planetary_Nebula|Planetary_Nebula]]"
+  - "[[/_public/Astronomy/Planet/Planetary_Nebula.public|Planetary_Nebula.public]]"
+  - "[[/_internal/Astronomy/Planet/Planetary_Nebula.internal|Planetary_Nebula.internal]]"
+  - "[[/_protect/Astronomy/Planet/Planetary_Nebula.protect|Planetary_Nebula.protect]]"
+  - "[[/_private/Astronomy/Planet/Planetary_Nebula.private|Planetary_Nebula.private]]"
+  - "[[/_personal/Astronomy/Planet/Planetary_Nebula.personal|Planetary_Nebula.personal]]"
+  - "[[/_secret/Astronomy/Planet/Planetary_Nebula.secret|Planetary_Nebula.secret]]"
 ---
 
 # [[Planetary_Nebula]] 

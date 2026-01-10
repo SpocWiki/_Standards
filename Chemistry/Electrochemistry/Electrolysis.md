@@ -18,6 +18,25 @@ UMLS_CUI: C0013829
 MeSH_tree_code: E05.301.250
 Commons_category: Electrolysis
 time_of_discovery_or_invention: 1787-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Electrolysis,64403|WD~Electrolysis,64403]]"
+    - "[[/_Standards/Chemistry/Electrochemistry/Electrolysis|Electrolysis]]"
+    - "[[/_public/Chemistry/Electrochemistry/Electrolysis.public|Electrolysis.public]]"
+    - "[[/_internal/Chemistry/Electrochemistry/Electrolysis.internal|Electrolysis.internal]]"
+    - "[[/_protect/Chemistry/Electrochemistry/Electrolysis.protect|Electrolysis.protect]]"
+    - "[[/_private/Chemistry/Electrochemistry/Electrolysis.private|Electrolysis.private]]"
+    - "[[/_personal/Chemistry/Electrochemistry/Electrolysis.personal|Electrolysis.personal]]"
+    - "[[/_secret/Chemistry/Electrochemistry/Electrolysis.secret|Electrolysis.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Electrolysis,64403|WD~Electrolysis,64403]]"
+  - "[[/_Standards/Chemistry/Electrochemistry/Electrolysis|Electrolysis]]"
+  - "[[/_public/Chemistry/Electrochemistry/Electrolysis.public|Electrolysis.public]]"
+  - "[[/_internal/Chemistry/Electrochemistry/Electrolysis.internal|Electrolysis.internal]]"
+  - "[[/_protect/Chemistry/Electrochemistry/Electrolysis.protect|Electrolysis.protect]]"
+  - "[[/_private/Chemistry/Electrochemistry/Electrolysis.private|Electrolysis.private]]"
+  - "[[/_personal/Chemistry/Electrochemistry/Electrolysis.personal|Electrolysis.personal]]"
+  - "[[/_secret/Chemistry/Electrochemistry/Electrolysis.secret|Electrolysis.secret]]"
 ---
 
 # [[Electrolysis]] 

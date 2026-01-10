@@ -27,16 +27,18 @@ title: has_adult_consideration
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/adult_consideration :: AdultOrientedEnumeration ] or 
+- [has_/adult_consideration :: AdultOrientedEnumeration ] 
 - [ has_adult_consideration :: AdultOrientedEnumeration ] 
 
 Used to tag an item to be intended or suitable for consumption or use by adults only.
 
 Relation describes that: 
-[ #has_/domain  :: Offer, Product ]
+
+#has_/domain  :: Offer, Product  
+
 ( #has_/name :: has_adult_consideration )
 ( #has_/range :: AdultOrientedEnumeration )
 

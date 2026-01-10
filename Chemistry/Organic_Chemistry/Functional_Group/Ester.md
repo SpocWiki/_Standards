@@ -33,6 +33,25 @@ UMLS_CUI: C0014898
 MeSH_tree_code: D02.241.400
 Commons_category: Esters
 Krugosvet_article: nauka_i_tehnika/himiya/SLOZHNIE_EFIRI.html
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ester,101487|WD~Ester,101487]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Ester|Ester]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Ester.public|Ester.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Ester.internal|Ester.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Ester.protect|Ester.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Ester.private|Ester.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Ester.personal|Ester.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Ester.secret|Ester.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ester,101487|WD~Ester,101487]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Ester|Ester]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Ester.public|Ester.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Ester.internal|Ester.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Ester.protect|Ester.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Ester.private|Ester.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Ester.personal|Ester.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Ester.secret|Ester.secret]]"
 ---
 
 # [[Ester]] 

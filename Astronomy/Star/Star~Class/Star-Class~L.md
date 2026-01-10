@@ -14,11 +14,13 @@ _Radius-sol: 0
 _Mass-sol: 0.07
 ---
 
-[has_/name::L]
-[has_/value_for_/temperature_/K::2000]
-[has_/value_for_/radius_/sol::0]
-[has_/value_for_/weight_/sol::0.07]
+has_/name::L 
 
+has_/value_for_/temperature_/K::2000 
+
+has_/value_for_/radius_/sol::0 
+
+has_/value_for_/weight_/sol::0.07 
 
 ## Confidential Links & Embeds: 
 

@@ -11,36 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - target
   - platform
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_target_platform
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_target_platform
 type: Pred_Text
+dv_has_:
+  text_of_:
+    target_platform: Text
+  domain: APIReference
+dv_has_text_of_target_platform: Text
+dv_#has_:
+  name: has_text_of_target_platform
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_target_platform|has_target_platform]]"
+    - "[[/_public/schema-org/Property/Texts/has_target_platform.public|has_target_platform.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_target_platform.internal|has_target_platform.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_target_platform.protect|has_target_platform.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_target_platform.private|has_target_platform.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_target_platform.personal|has_target_platform.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_target_platform.secret|has_target_platform.secret]]"
+dv_has_domain: APIReference
+dv_has_name: has_text_of_target_platform
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_target_platform|has_target_platform]]"
+  - "[[/_public/schema-org/Property/Texts/has_target_platform.public|has_target_platform.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_target_platform.internal|has_target_platform.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_target_platform.protect|has_target_platform.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_target_platform.private|has_target_platform.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_target_platform.personal|has_target_platform.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_target_platform.secret|has_target_platform.secret]]"
 ---
 
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- [ #has_/text_of_/target_platform :: Text ] or 
-- [ has_text_of_target_platform :: Text ] 
+- has_text_of_target_platform = `=this.dv_has_text_of_target_platform`  
+- has_text_of_target_platform = `=this.dv_has_text_of_target_platform`  
 
 Type of app development: phone, Metro style, desktop, XBox, etc.
 
 Predicated describes that: 
-[ #has_/domain  :: APIReference ]
-( #has_/name :: has_text_of_target_platform )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

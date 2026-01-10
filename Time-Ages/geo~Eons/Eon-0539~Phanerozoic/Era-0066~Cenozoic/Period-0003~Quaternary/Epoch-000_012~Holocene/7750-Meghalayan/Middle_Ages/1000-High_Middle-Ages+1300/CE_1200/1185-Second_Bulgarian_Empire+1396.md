@@ -1,5 +1,7 @@
 ---
-location: [ 25.65 , 43.06666667 ] 
+location:
+  - 25.65
+  - 43.06666667
 aliases:
   - Second Bulgarian Empire
   - Ц(а)рьство бл(ъ)гарское
@@ -8,18 +10,18 @@ aliases:
   - 1185-Second_Bulgarian_Empire+1396
   - 1185-Second Bulgarian Empire+1396
 has_id_wikidata: Q420759
-basic_form_of_government: '[[_Standards/WikiData/WD~autocracy,173424]]'
-capital: '[[_Standards/WikiData/WD~Veliko_Tarnovo,173474]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Bulgarian_Orthodox_Church,242758]]'
-different_from: '[[_Standards/WikiData/WD~Bulgarian_Empire,2067184]]'
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+basic_form_of_government: "[[_Standards/WikiData/WD~autocracy,173424]]"
+capital: "[[_Standards/WikiData/WD~Veliko_Tarnovo,173474]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Bulgarian_Orthodox_Church,242758]]"
+different_from: "[[_Standards/WikiData/WD~Bulgarian_Empire,2067184]]"
+instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
 inception: 1185-01-01T00:00:00Z
 language_used:
-  - '[[_Standards/WikiData/WD~Romanian,7913]]'
-  - '[[_Standards/WikiData/WD~Bulgarian,7918]]'
-  - '[[_Standards/WikiData/WD~Greek,9129]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-official_language: '[[_Standards/WikiData/WD~Old_Church_Slavonic,35499]]'
+  - "[[_Standards/WikiData/WD~Romanian,7913]]"
+  - "[[_Standards/WikiData/WD~Bulgarian,7918]]"
+  - "[[_Standards/WikiData/WD~Greek,9129]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+official_language: "[[_Standards/WikiData/WD~Old_Church_Slavonic,35499]]"
 area: 477000
 short_name: България
 coordinate_location: Point(25.65 43.06666667)
@@ -28,6 +30,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bulgaria-Iv%C3%A1n%20A
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Second%20Bulgarian%20Empire.png
 Commons_category: Second Bulgarian Empire
 native_label: Второ българско царство
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Second_Bulgarian_Empire,420759|WD~Second_Bulgarian_Empire,420759]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396|1185-Second_Bulgarian_Empire+1396]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.public|1185-Second_Bulgarian_Empire+1396.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.internal|1185-Second_Bulgarian_Empire+1396.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.protect|1185-Second_Bulgarian_Empire+1396.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.private|1185-Second_Bulgarian_Empire+1396.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.personal|1185-Second_Bulgarian_Empire+1396.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.secret|1185-Second_Bulgarian_Empire+1396.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Second_Bulgarian_Empire,420759|WD~Second_Bulgarian_Empire,420759]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396|1185-Second_Bulgarian_Empire+1396]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.public|1185-Second_Bulgarian_Empire+1396.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.internal|1185-Second_Bulgarian_Empire+1396.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.protect|1185-Second_Bulgarian_Empire+1396.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.private|1185-Second_Bulgarian_Empire+1396.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.personal|1185-Second_Bulgarian_Empire+1396.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1185-Second_Bulgarian_Empire+1396.secret|1185-Second_Bulgarian_Empire+1396.secret]]"
 ---
 
 # [[1185-Second_Bulgarian_Empire+1396]] 

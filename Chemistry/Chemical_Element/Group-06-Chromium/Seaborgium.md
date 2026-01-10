@@ -24,6 +24,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Elektronskal%20106.svg
 electron_configuration: "[Rn] 5f¹⁴ 6d⁴ 7s²"
 CAS_Registry_Number: 54038-81-2
 DSSTOX_compound_identifier: DTXCID501323012
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Seaborgium,1234|WD~Seaborgium,1234]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium|Seaborgium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.public|Seaborgium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.internal|Seaborgium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.protect|Seaborgium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.private|Seaborgium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.personal|Seaborgium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.secret|Seaborgium.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Seaborgium,1234|WD~Seaborgium,1234]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium|Seaborgium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.public|Seaborgium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.internal|Seaborgium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.protect|Seaborgium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.private|Seaborgium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.personal|Seaborgium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.secret|Seaborgium.secret]]"
 ---
 
 # [[Seaborgium]] 

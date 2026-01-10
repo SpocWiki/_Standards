@@ -37,11 +37,11 @@ Tag Instances like this:
 
 Any part of the human body, typically a component of an anatomical system. Organs, tissues, and cells are all anatomical structures.
 
-[ #is_/sub_class_of :: [[../MedicalEntity]] ]
+#is_/sub_class_of :: [[../MedicalEntity]]  
 
-[ #has_/sub_classes :: [ Bone, BrainStructure, Joint, Ligament, Muscle, Nerve, Vessel ] ]
+#has_/sub_classes :: [ Bone, BrainStructure, Joint, Ligament, Muscle, Nerve, Vessel ]  
 
-[ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ] ]
+#has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ]  
 
 #is_/same_as :: [[_Standards/WikiData/WD~anatomical_structure,4936952]]
 

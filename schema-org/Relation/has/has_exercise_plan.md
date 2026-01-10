@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/exercise_plan :: ExercisePlan ] or 
+- [has_/exercise_plan :: ExercisePlan ] 
 - [ has_exercise_plan :: ExercisePlan ] 
 
 A sub property of instrument. The exercise plan used on this action.
 
 Relation describes that: 
-[ #has_/domain  :: ExerciseAction ]
+
+#has_/domain  :: ExerciseAction  
+
 ( #has_/name :: has_exercise_plan )
 ( #has_/range :: ExercisePlan )
 
-[ #is_/sub_property_of  :: instrument ]
-
+#is_/sub_property_of  :: instrument  
 
 ## Confidential Links & Embeds: 
 

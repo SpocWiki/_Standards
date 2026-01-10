@@ -11,6 +11,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Polycrystalline-german
 UMLS_CUI: C0439879
 MeSH_tree_code: D01.268.513
 Commons_category: Metalloids
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Metalloid,19596]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Metalloid|Metalloid]]"
+    - "[[/_public/Chemistry/Chemical_Element/Metalloid.public|Metalloid.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Metalloid.internal|Metalloid.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Metalloid.protect|Metalloid.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Metalloid.private|Metalloid.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Metalloid.personal|Metalloid.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Metalloid.secret|Metalloid.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Metalloid,19596]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Metalloid|Metalloid]]"
+  - "[[/_public/Chemistry/Chemical_Element/Metalloid.public|Metalloid.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Metalloid.internal|Metalloid.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Metalloid.protect|Metalloid.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Metalloid.private|Metalloid.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Metalloid.personal|Metalloid.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Metalloid.secret|Metalloid.secret]]"
 ---
 
 # [[Metalloid]] 

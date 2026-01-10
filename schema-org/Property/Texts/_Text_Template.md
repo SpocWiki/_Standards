@@ -34,25 +34,26 @@ type: Predi_Text
 
 Predicate to describe the Text of {{domainIncludes}}.
 
-[ #is_/part_of :: {{isPartOf}} ]
+#is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
-- [ #has_/text_of_/{{label_snail}} :: {{rangeIncludes}} ] or 
+- [has_/text_of_/{{label_snail}} :: {{rangeIncludes}} ] 
 - [ has_text_of_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
 Predicate describes that: 
-[ #has_/domain  :: {{domainIncludes}} ]
+
+#has_/domain  :: {{domainIncludes}}  
+
 ( #has_/name :: has_text_of_{{label_snail}} )
 ( #has_/range :: {{rangeIncludes}} )
 
-[ #is_/inverse_of  :: {{inverseOf}} ]
+#is_/inverse_of  :: {{inverseOf}}  
 
-[ #is_/sub_property_of  :: {{subPropertyOf}} ]
+#is_/sub_property_of  :: {{subPropertyOf}}  
 
-[ #has_/sub_properties :: [ {{subproperties}} ] ]
-
+#has_/sub_properties :: [ {{subproperties}} ]  
 
 ## Confidential Links & Embeds: 
 

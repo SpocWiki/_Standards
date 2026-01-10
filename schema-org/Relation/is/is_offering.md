@@ -28,7 +28,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/offering :: Demand, Offer ] or 
+- [is_/offering :: Demand, Offer ] 
 - [ is_offering :: Demand, Offer ] 
 
 An offer to provide this item;
@@ -45,12 +45,13 @@ In that case, using a second type, such as Product or a subtype of Product,
 can clarify the nature of the offer.
 
 Relation describes that: 
-[ #has_/domain  :: AggregateOffer, CreativeWork, EducationalOccupationalProgram, Event, MenuItem, Product, Service, Trip ]
+
+#has_/domain  :: AggregateOffer, CreativeWork, EducationalOccupationalProgram, Event, MenuItem, Product, Service, Trip  
+
 ( #has_/name :: is_offering )
 ( #has_/range :: Demand, Offer )
 
-[ #is_/inverse_of  :: itemOffered ]
-
+#is_/inverse_of  :: itemOffered  
 
 ## Confidential Links & Embeds: 
 

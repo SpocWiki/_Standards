@@ -28,16 +28,18 @@ title: has_population_type
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/population_type :: Class ] or 
+- [has_/population_type :: Class ] 
 - [ has_population_type :: Class ] 
 
 Indicates the populationType common to all members of a [[StatisticalPopulation]].
 
 Relation describes that: 
-[ #has_/domain  :: StatisticalPopulation ]
+
+#has_/domain  :: StatisticalPopulation  
+
 ( #has_/name :: is_population_type )
 ( #has_/range :: Class )
 

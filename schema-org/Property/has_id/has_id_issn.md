@@ -31,18 +31,19 @@ type: Pred_Text
 Predicate to describe the Text of Blog, CreativeWorkSeries, Dataset, WebSite.
 
 Use it like this: 
-- [ #has_/id_/issn :: Text ] or 
+- [has_/id_/issn :: Text ] 
 - [ has_id_issn :: Text ] 
 
 The International Standard Serial Number (id_issn) that identifies this serial publication. You can repeat this property to identify different formats of, or the linking id_issn (id_issn-L) for, this serial publication.
 
 Predicated describes that: 
-[ #has_/domain  :: Blog, CreativeWorkSeries, Dataset, WebSite ]
+
+#has_/domain  :: Blog, CreativeWorkSeries, Dataset, WebSite  
+
 ( #has_/name :: has_id_issn )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

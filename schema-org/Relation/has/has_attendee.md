@@ -7,34 +7,63 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - attendee
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_attendee
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: attendees
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_attendee
 type: Predi_Relation
+dv_has_:
+  attendee: Organization, Person
+  domain: Event
+dv_has_attendee: Organization, Person
+dv_#has_:
+  name: has_attendee
+  range: Organization, Person
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_attendee|has_attendee]]"
+    - "[[/_public/schema-org/Relation/has/has_attendee.public|has_attendee.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_attendee.internal|has_attendee.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_attendee.protect|has_attendee.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_attendee.private|has_attendee.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_attendee.personal|has_attendee.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_attendee.secret|has_attendee.secret]]"
+dv_has_domain: Event
+dv_has_name: has_attendee
+dv_has_range: Organization, Person
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_attendee|has_attendee]]"
+  - "[[/_public/schema-org/Relation/has/has_attendee.public|has_attendee.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_attendee.internal|has_attendee.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_attendee.protect|has_attendee.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_attendee.private|has_attendee.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_attendee.personal|has_attendee.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_attendee.secret|has_attendee.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/attendee :: Organization, Person ] or 
-- [ has_attendee :: Organization, Person ] 
+- has_attendee = `=this.dv_has_attendee`  
+- has_attendee = `=this.dv_has_attendee`  
 
 A person or organization attending the event.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
-( #has_/name :: has_attendee )
-( #has_/range :: Organization, Person )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -20,6 +20,25 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_01000809
 UMLS_CUI: C0242763
 MeSH_tree_code: G01.060.075.730.600
 Wolfram_Language_entity_type: MinorPlanet
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Minor_planet,1022867]]"
+    - "[[/_Standards/Astronomy/Planet/Minor_Planet|Minor_Planet]]"
+    - "[[/_public/Astronomy/Planet/Minor_Planet.public|Minor_Planet.public]]"
+    - "[[/_internal/Astronomy/Planet/Minor_Planet.internal|Minor_Planet.internal]]"
+    - "[[/_protect/Astronomy/Planet/Minor_Planet.protect|Minor_Planet.protect]]"
+    - "[[/_private/Astronomy/Planet/Minor_Planet.private|Minor_Planet.private]]"
+    - "[[/_personal/Astronomy/Planet/Minor_Planet.personal|Minor_Planet.personal]]"
+    - "[[/_secret/Astronomy/Planet/Minor_Planet.secret|Minor_Planet.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Minor_planet,1022867]]"
+  - "[[/_Standards/Astronomy/Planet/Minor_Planet|Minor_Planet]]"
+  - "[[/_public/Astronomy/Planet/Minor_Planet.public|Minor_Planet.public]]"
+  - "[[/_internal/Astronomy/Planet/Minor_Planet.internal|Minor_Planet.internal]]"
+  - "[[/_protect/Astronomy/Planet/Minor_Planet.protect|Minor_Planet.protect]]"
+  - "[[/_private/Astronomy/Planet/Minor_Planet.private|Minor_Planet.private]]"
+  - "[[/_personal/Astronomy/Planet/Minor_Planet.personal|Minor_Planet.personal]]"
+  - "[[/_secret/Astronomy/Planet/Minor_Planet.secret|Minor_Planet.secret]]"
 ---
 
 # [[Minor_Planet]] 

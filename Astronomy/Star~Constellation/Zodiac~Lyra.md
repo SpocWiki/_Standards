@@ -10,24 +10,24 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-named_after: '[[_Standards/WikiData/WD~lyre,201129]]'
+named_after: "[[_Standards/WikiData/WD~lyre,201129]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-  - '[[_Standards/WikiData/WD~Lyra,105104280]]'
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - "[[_Standards/WikiData/WD~Lyra,105104280]]"
+part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Lyra,8084782]]'
-  - '[[_Standards/WikiData/WD~Q10729068,10729068]]'
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Lyra,8084782]]"
+  - "[[_Standards/WikiData/WD~Q10729068,10729068]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Draco,8675]]'
-  - '[[_Standards/WikiData/WD~Cygnus,8921]]'
-  - '[[_Standards/WikiData/WD~Hercules,10448]]'
-  - '[[_Standards/WikiData/WD~Vulpecula,10519]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Draco,8675]]"
+  - "[[_Standards/WikiData/WD~Cygnus,8921]]"
+  - "[[_Standards/WikiData/WD~Hercules,10448]]"
+  - "[[_Standards/WikiData/WD~Vulpecula,10519]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 right_ascension: 1130
 declination: 36.5
 area: 286.5
@@ -38,14 +38,43 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lyra
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LyraCC.jpg
 Commons_category: Lyra (constellation)
 official_name: Lyra
+dv_SpocWebEntityId: 28134
+dv_#has_:
+  name_:
+    la: Lyra
+    la_:
+      genitive: Lyrae
+    de: Leier
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Lyra,10484|WD~Lyra,10484]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lyra|Zodiac~Lyra]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Lyra.public|Zodiac~Lyra.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Lyra.internal|Zodiac~Lyra.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Lyra.protect|Zodiac~Lyra.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Lyra.private|Zodiac~Lyra.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Lyra.personal|Zodiac~Lyra.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Lyra.secret|Zodiac~Lyra.secret]]"
+dv_has_name_la: Lyra
+dv_has_name_la_genitive: Lyrae
+dv_has_name_de: Leier
+dv_is_same_as:
+  - "[[../../WikiData/WD~Lyra,10484|WD~Lyra,10484]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Lyra|Zodiac~Lyra]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Lyra.public|Zodiac~Lyra.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Lyra.internal|Zodiac~Lyra.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Lyra.protect|Zodiac~Lyra.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Lyra.private|Zodiac~Lyra.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Lyra.personal|Zodiac~Lyra.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Lyra.secret|Zodiac~Lyra.secret]]"
 ---
 # [[Zodiac~Lyra]] 
 
-[SpocWebEntityId::28134] 
+SpocWebEntityId = `=this.dv_SpocWebEntityId`  
 
-[#has_/name_/la::Lyra]
-[#has_/name_/la_/genitive::Lyrae]
-[#has_/name_/de::Leier]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Lyra,10484|WD~Lyra,10484]] 
 

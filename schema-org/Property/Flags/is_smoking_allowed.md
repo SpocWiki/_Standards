@@ -10,21 +10,47 @@ cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - smoking_allowed
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_smoking_allowed
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/True
 title: is_smoking_allowed
 type: Pred_Bool
+dv_is_smoking_allowed: Boolean
+dv_has_:
+  domain: Place
+dv_#has_:
+  name: is_smoking_allowed
+  range: Boolean
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Flags/is_smoking_allowed|is_smoking_allowed]]"
+    - "[[/_public/schema-org/Property/Flags/is_smoking_allowed.public|is_smoking_allowed.public]]"
+    - "[[/_internal/schema-org/Property/Flags/is_smoking_allowed.internal|is_smoking_allowed.internal]]"
+    - "[[/_protect/schema-org/Property/Flags/is_smoking_allowed.protect|is_smoking_allowed.protect]]"
+    - "[[/_private/schema-org/Property/Flags/is_smoking_allowed.private|is_smoking_allowed.private]]"
+    - "[[/_personal/schema-org/Property/Flags/is_smoking_allowed.personal|is_smoking_allowed.personal]]"
+    - "[[/_secret/schema-org/Property/Flags/is_smoking_allowed.secret|is_smoking_allowed.secret]]"
+dv_has_domain: Place
+dv_has_name: is_smoking_allowed
+dv_has_range: Boolean
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Flags/is_smoking_allowed|is_smoking_allowed]]"
+  - "[[/_public/schema-org/Property/Flags/is_smoking_allowed.public|is_smoking_allowed.public]]"
+  - "[[/_internal/schema-org/Property/Flags/is_smoking_allowed.internal|is_smoking_allowed.internal]]"
+  - "[[/_protect/schema-org/Property/Flags/is_smoking_allowed.protect|is_smoking_allowed.protect]]"
+  - "[[/_private/schema-org/Property/Flags/is_smoking_allowed.private|is_smoking_allowed.private]]"
+  - "[[/_personal/schema-org/Property/Flags/is_smoking_allowed.personal|is_smoking_allowed.personal]]"
+  - "[[/_secret/schema-org/Property/Flags/is_smoking_allowed.secret|is_smoking_allowed.secret]]"
 ---
 
 Use these simple Tags to mark Instances as True or False: 
@@ -32,14 +58,16 @@ Use these simple Tags to mark Instances as True or False:
 #is_not_/smoking_allowed 
 
 Or write it as a Triple: 
-[ is_smoking_allowed :: Boolean ] 
+is_smoking_allowed = `=this.dv_is_smoking_allowed`  
 
 Indicates whether it is allowed to smoke in the place, e.g. in the restaurant, hotel or hotel room.
 
 Predicate describes that: 
-[ #has_/domain  :: Place ]
-( #has_/name :: is_smoking_allowed )
-( #has_/range :: Boolean )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

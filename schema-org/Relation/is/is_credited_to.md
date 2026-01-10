@@ -29,13 +29,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/credited_to :: Organization, Person ] or 
+- [is_/credited_to :: Organization, Person ] 
 - [ is_credited_to :: Organization, Person ] 
 
 The group the release is credited to if different than the byArtist. For example, Red and Blue is credited to "Stefani Germanotta Band", but by Lady Gaga.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRelease ]
+
+#has_/domain  :: MusicRelease  
+
 ( #has_/name :: is_credited_to )
 ( #has_/range :: Organization, Person )
 

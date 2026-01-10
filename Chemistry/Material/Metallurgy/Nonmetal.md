@@ -1,7 +1,30 @@
+---
+dv_is_:
+  opposite_of: "[[Metal]]"
+  same_as:
+    - "[[../../../WikiData/WD~Nonmetal,19600|WD~Nonmetal,19600]]"
+    - "[[/_Standards/Chemistry/Material/Metallurgy/Nonmetal|Nonmetal]]"
+    - "[[/_public/Chemistry/Material/Metallurgy/Nonmetal.public|Nonmetal.public]]"
+    - "[[/_internal/Chemistry/Material/Metallurgy/Nonmetal.internal|Nonmetal.internal]]"
+    - "[[/_protect/Chemistry/Material/Metallurgy/Nonmetal.protect|Nonmetal.protect]]"
+    - "[[/_private/Chemistry/Material/Metallurgy/Nonmetal.private|Nonmetal.private]]"
+    - "[[/_personal/Chemistry/Material/Metallurgy/Nonmetal.personal|Nonmetal.personal]]"
+    - "[[/_secret/Chemistry/Material/Metallurgy/Nonmetal.secret|Nonmetal.secret]]"
+dv_is_opposite_of: "[[Metal]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Nonmetal,19600|WD~Nonmetal,19600]]"
+  - "[[/_Standards/Chemistry/Material/Metallurgy/Nonmetal|Nonmetal]]"
+  - "[[/_public/Chemistry/Material/Metallurgy/Nonmetal.public|Nonmetal.public]]"
+  - "[[/_internal/Chemistry/Material/Metallurgy/Nonmetal.internal|Nonmetal.internal]]"
+  - "[[/_protect/Chemistry/Material/Metallurgy/Nonmetal.protect|Nonmetal.protect]]"
+  - "[[/_private/Chemistry/Material/Metallurgy/Nonmetal.private|Nonmetal.private]]"
+  - "[[/_personal/Chemistry/Material/Metallurgy/Nonmetal.personal|Nonmetal.personal]]"
+  - "[[/_secret/Chemistry/Material/Metallurgy/Nonmetal.secret|Nonmetal.secret]]"
+---
 
 # [[Nonmetal]] 
 
-#is_/opposite_of :: [[Metal|Metal]] 
+is_opposite_of = `=this.dv_is_opposite_of` 
 #is_/same_as :: [[../../../WikiData/WD~Nonmetal,19600|WD~Nonmetal,19600]] 
 
 ## #has_/text_of_/abstract 

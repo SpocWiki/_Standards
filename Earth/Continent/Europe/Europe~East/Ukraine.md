@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: UKRAINE
 dv_Telephone: 380
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Ukraine
+dv_has_name: Ukraine
 dv_has_name_en: Ukraine
 dv_has_name_es: Ucrania
 dv_has_name_fr: Ukraine
@@ -522,7 +522,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Ukraine ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

@@ -19,15 +19,95 @@ country: "[[_Standards/WikiData/WD~France,142]]"
 Commons_category: Albian
 sRGB_color_hex_triplet: CDE5A8
 coordinate_location: Point(5.311766666 44.496605555)
+dv_has_:
+  duration_:
+    years: "1.250e+7"
+  previous_:
+    item: "[[Age~5~Aptian]]"
+  next_:
+    item: "[[../Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]"
+  name_:
+    bg: плб
+    cs: Alb
+    da: Albien
+    de: Albium
+    es: Albiense
+    et: Albi
+    fi: Alb
+    fr: Albien
+    hu: albai
+    it: albiano
+    ja: アルビアン期
+    lt: Albis
+    nl: Albiën
+    no: Alb
+    pl: Alb
+    pt: Albiano
+    sk: alb
+    sl: albij
+    sv: alban
+    zh: 阿尔布期
+    abbreviated: b6
+  time_:
+    started: "-113.0e6"
+    stopped: "-100.5e6"
+  text_of_:
+    color: "0xCCEA97"
+dv_is_:
+  same_as:
+    - "[[WD~Albian,301728]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.public|Age~6~Albian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.internal|Age~6~Albian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.protect|Age~6~Albian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.private|Age~6~Albian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.personal|Age~6~Albian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.secret|Age~6~Albian.secret]]"
+dv_has_duration_years: "1.250e+7"
+dv_has_previous_item: "[[Age~5~Aptian]]"
+dv_has_next_item: "[[../Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]"
+dv_is_same_as:
+  - "[[WD~Albian,301728]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.public|Age~6~Albian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.internal|Age~6~Albian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.protect|Age~6~Albian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.private|Age~6~Albian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.personal|Age~6~Albian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~6~Albian.secret|Age~6~Albian.secret]]"
+dv_has_name_bg: плб
+dv_has_name_cs: Alb
+dv_has_name_da: Albien
+dv_has_name_de: Albium
+dv_has_name_es: Albiense
+dv_has_name_et: Albi
+dv_has_name_fi: Alb
+dv_has_name_fr: Albien
+dv_has_name_hu: albai
+dv_has_name_it: albiano
+dv_has_name_ja: アルビアン期
+dv_has_name_lt: Albis
+dv_has_name_nl: Albiën
+dv_has_name_no: Alb
+dv_has_name_pl: Alb
+dv_has_name_pt: Albiano
+dv_has_name_sk: alb
+dv_has_name_sl: albij
+dv_has_name_sv: alban
+dv_has_name_zh: 阿尔布期
+dv_has_name_abbreviated: b6
+dv_has_time_started: "-113.0e6"
+dv_has_time_stopped: "-100.5e6"
+dv_has_text_of_color: "0xCCEA97"
 ---
 # [[Age~6~Albian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~5~Aptian]] 
-#has_/next_/item :: [[../Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]  
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Albian,301728]] 
 
 A time period from 113.0 to 100.5 million years ago. 
@@ -41,35 +121,35 @@ A time period from 113.0 to 100.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Albian) 
 
 
-#has_/name_/bg  :: плб
-#has_/name_/cs  :: Alb
-#has_/name_/da  :: Albien
-#has_/name_/de  :: Albium
-#has_/name_/es  :: Albiense
-#has_/name_/et  :: Albi
-#has_/name_/fi  :: Alb
-#has_/name_/fr  :: Albien
-#has_/name_/hu  :: albai
-#has_/name_/it  :: albiano
-#has_/name_/ja  :: アルビアン期
-#has_/name_/lt  :: Albis
-#has_/name_/nl  :: Albiën
-#has_/name_/no  :: Alb
-#has_/name_/pl  :: Alb
-#has_/name_/pt  :: Albiano
-#has_/name_/sk  :: alb
-#has_/name_/sl  :: albij
-#has_/name_/sv  :: alban
-#has_/name_/zh  :: 阿尔布期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: b6
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -113.0e6  
-#has_/time_/stopped :: -100.5e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 43 
 
-#has_/text_of_/color :: 0xCCEA97
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

@@ -26,6 +26,25 @@ Stack_Exchange_tag: https://physics.stackexchange.com/tags/exoplanets
 subreddit: exoplanets
 Commons_category: Exoplanets
 Krugosvet_article: nauka_i_tehnika/astronomiya/EKZOPLANETA.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Exoplanet,44559|WD~Exoplanet,44559]]"
+    - "[[/_Standards/Astronomy/Planet/Exoplanet|Exoplanet]]"
+    - "[[/_public/Astronomy/Planet/Exoplanet.public|Exoplanet.public]]"
+    - "[[/_internal/Astronomy/Planet/Exoplanet.internal|Exoplanet.internal]]"
+    - "[[/_protect/Astronomy/Planet/Exoplanet.protect|Exoplanet.protect]]"
+    - "[[/_private/Astronomy/Planet/Exoplanet.private|Exoplanet.private]]"
+    - "[[/_personal/Astronomy/Planet/Exoplanet.personal|Exoplanet.personal]]"
+    - "[[/_secret/Astronomy/Planet/Exoplanet.secret|Exoplanet.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Exoplanet,44559|WD~Exoplanet,44559]]"
+  - "[[/_Standards/Astronomy/Planet/Exoplanet|Exoplanet]]"
+  - "[[/_public/Astronomy/Planet/Exoplanet.public|Exoplanet.public]]"
+  - "[[/_internal/Astronomy/Planet/Exoplanet.internal|Exoplanet.internal]]"
+  - "[[/_protect/Astronomy/Planet/Exoplanet.protect|Exoplanet.protect]]"
+  - "[[/_private/Astronomy/Planet/Exoplanet.private|Exoplanet.private]]"
+  - "[[/_personal/Astronomy/Planet/Exoplanet.personal|Exoplanet.personal]]"
+  - "[[/_secret/Astronomy/Planet/Exoplanet.secret|Exoplanet.secret]]"
 ---
 
 # [[Exoplanet]] 

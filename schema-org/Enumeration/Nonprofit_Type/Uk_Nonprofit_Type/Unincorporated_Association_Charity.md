@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: UKNonprofitType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - unincorporated_association_charity
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_unincorporated_association_charity Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_unincorporated_association_charity Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../UKNonprofitType]]"
+  enum_of: "[[../UKNonprofitType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity|Unincorporated_Association_Charity]]"
+    - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.public|Unincorporated_Association_Charity.public]]"
+    - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.internal|Unincorporated_Association_Charity.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.protect|Unincorporated_Association_Charity.protect]]"
+    - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.private|Unincorporated_Association_Charity.private]]"
+    - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.personal|Unincorporated_Association_Charity.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.secret|Unincorporated_Association_Charity.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../UKNonprofitType]]"
+dv_is_enum_of: "[[../UKNonprofitType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity|Unincorporated_Association_Charity]]"
+  - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.public|Unincorporated_Association_Charity.public]]"
+  - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.internal|Unincorporated_Association_Charity.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.protect|Unincorporated_Association_Charity.protect]]"
+  - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.private|Unincorporated_Association_Charity.private]]"
+  - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.personal|Unincorporated_Association_Charity.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Unincorporated_Association_Charity.secret|Unincorporated_Association_Charity.secret]]"
 ---
 
 Class of all unincorporated_association_charitys.
@@ -33,14 +56,13 @@ Class of all unincorporated_association_charitys.
 Tag Instances like this: 
 #is_an_/unincorporated_association_charity
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 UnincorporatedAssociationCharity: Non-profit type referring to a charitable company that is not incorporated (UK).
 
-[ #is_/sub_class_of :: [[../UKNonprofitType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../UKNonprofitType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

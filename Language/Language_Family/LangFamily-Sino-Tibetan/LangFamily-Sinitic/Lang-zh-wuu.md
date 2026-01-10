@@ -62,7 +62,9 @@ native_label:
 # [[Lang-zh-wuu]] 
 
 [SpocWebEntityId:: 463 ]
-[has_/name::Wu]
+
+has_/name::Wu 
+
 [PropId_Name::763]
 [PropId_Text::663]
 [LangFamilyId::234]

@@ -109,7 +109,9 @@ short_name:
 # [[Lang-kor]]
 
 [SpocWebEntityId:: 459 ]
-[has_/name::Korean]
+
+has_/name::Korean 
+
 [PropId_Name::759]
 [PropId_Text::659]
 [LangFamilyId::249]

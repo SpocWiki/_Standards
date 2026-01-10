@@ -18,6 +18,25 @@ OmegaWiki_Defined_Meaning: "921645"
 Commons_gallery: Dew
 Commons_category: Dew
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Symbol%20dew%20proper%20WMO.svg
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Dew,41097|WD~Dew,41097]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Dew|Dew]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Water/Dew.public|Dew.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Water/Dew.internal|Dew.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Water/Dew.protect|Dew.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Water/Dew.private|Dew.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Water/Dew.personal|Dew.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Water/Dew.secret|Dew.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Dew,41097|WD~Dew,41097]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Dew|Dew]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Water/Dew.public|Dew.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Water/Dew.internal|Dew.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Water/Dew.protect|Dew.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Water/Dew.private|Dew.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Water/Dew.personal|Dew.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Water/Dew.secret|Dew.secret]]"
 ---
 
 # [[Dew]] 

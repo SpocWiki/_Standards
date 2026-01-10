@@ -11,6 +11,25 @@ subclass_of: "[[_Standards/WikiData/WD~stellar_classification,25377588]]"
 Wikidata_property: spectral class
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Morgan-Keenan%20spectral%20classification.svg
 Commons_category: Spectral types
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Spectral_class,179600|WD~Spectral_class,179600]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Spectral_Class|Spectral_Class]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Spectral_Class.public|Spectral_Class.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Spectral_Class.internal|Spectral_Class.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Spectral_Class.protect|Spectral_Class.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Spectral_Class.private|Spectral_Class.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Spectral_Class.personal|Spectral_Class.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Spectral_Class.secret|Spectral_Class.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Spectral_class,179600|WD~Spectral_class,179600]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Spectral_Class|Spectral_Class]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Spectral_Class.public|Spectral_Class.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Spectral_Class.internal|Spectral_Class.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Spectral_Class.protect|Spectral_Class.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Spectral_Class.private|Spectral_Class.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Spectral_Class.personal|Spectral_Class.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Spectral_Class.secret|Spectral_Class.secret]]"
 ---
 
 # [[Spectral_Class]] 

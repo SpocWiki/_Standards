@@ -10,15 +10,15 @@ aliases:
 has_id_wikidata: Q172587
 CAS_Registry_Number: 12597-68-1
 Commons_category: Stainless steel
-different_from: '[[_Standards/WikiData/WD~high-quality_steel,1283378]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Harry_Brearley,470651]]'
+different_from: "[[_Standards/WikiData/WD~high-quality_steel,1283378]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Harry_Brearley,470651]]"
 EC_number: 603-108-1
 hardness: 250
-has_characteristic: '[[_Standards/WikiData/WD~corrosion_resistance,4234269]]'
+has_characteristic: "[[_Standards/WikiData/WD~corrosion_resistance,4234269]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~chromium,725]]'
-  - '[[_Standards/WikiData/WD~steel,11427]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_stainless_steel,90563588]]'
+  - "[[_Standards/WikiData/WD~chromium,725]]"
+  - "[[_Standards/WikiData/WD~steel,11427]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_stainless_steel,90563588]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stainless%20Steel%20Seamless%20Pipe%20and%20Tube.jpg
 MeSH_tree_code:
   - D01.490.800.900
@@ -26,10 +26,29 @@ MeSH_tree_code:
   - D25.058.807.681
   - J01.637.051.058.807.681
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-rostfreier%20Stahl.wav
-subclass_of: '[[_Standards/WikiData/WD~alloy_steel,1070521]]'
+subclass_of: "[[_Standards/WikiData/WD~alloy_steel,1070521]]"
 subreddit: StainlessSteel
 time_of_discovery_or_invention: 1872
 UMLS_CUI: C0038126
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Stainless_steel,172587|WD~Stainless_steel,172587]]"
+    - "[[/_Standards/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel|Stainless_Steel]]"
+    - "[[/_public/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.public|Stainless_Steel.public]]"
+    - "[[/_internal/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.internal|Stainless_Steel.internal]]"
+    - "[[/_protect/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.protect|Stainless_Steel.protect]]"
+    - "[[/_private/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.private|Stainless_Steel.private]]"
+    - "[[/_personal/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.personal|Stainless_Steel.personal]]"
+    - "[[/_secret/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.secret|Stainless_Steel.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Stainless_steel,172587|WD~Stainless_steel,172587]]"
+  - "[[/_Standards/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel|Stainless_Steel]]"
+  - "[[/_public/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.public|Stainless_Steel.public]]"
+  - "[[/_internal/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.internal|Stainless_Steel.internal]]"
+  - "[[/_protect/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.protect|Stainless_Steel.protect]]"
+  - "[[/_private/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.private|Stainless_Steel.private]]"
+  - "[[/_personal/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.personal|Stainless_Steel.personal]]"
+  - "[[/_secret/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.secret|Stainless_Steel.secret]]"
 ---
 
 # [[Stainless_Steel]] 

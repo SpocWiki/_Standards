@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - related_structure
   - related
   - structure
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_related_structure
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_related_structure
 type: Predi_Relation
+dv_has_:
+  related_structure: AnatomicalStructure
+  domain: AnatomicalSystem
+dv_has_related_structure: AnatomicalStructure
+dv_#has_:
+  name: is_related_structure
+  range: AnatomicalStructure
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_related_structure|has_related_structure]]"
+    - "[[/_public/schema-org/Relation/has/has_related_structure.public|has_related_structure.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_related_structure.internal|has_related_structure.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_related_structure.protect|has_related_structure.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_related_structure.private|has_related_structure.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_related_structure.personal|has_related_structure.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_related_structure.secret|has_related_structure.secret]]"
+dv_has_domain: AnatomicalSystem
+dv_has_name: is_related_structure
+dv_has_range: AnatomicalStructure
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_related_structure|has_related_structure]]"
+  - "[[/_public/schema-org/Relation/has/has_related_structure.public|has_related_structure.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_related_structure.internal|has_related_structure.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_related_structure.protect|has_related_structure.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_related_structure.private|has_related_structure.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_related_structure.personal|has_related_structure.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_related_structure.secret|has_related_structure.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/related_structure :: AnatomicalStructure ] or 
-- [ has_related_structure :: AnatomicalStructure ] 
+- has_related_structure = `=this.dv_has_related_structure`  
+- has_related_structure = `=this.dv_has_related_structure`  
 
 Related anatomical structure(s) that are not part of the system but relate or connect to it, such as vascular bundles associated with an organ system.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalSystem ]
-( #has_/name :: is_related_structure )
-( #has_/range :: AnatomicalStructure )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -202,6 +202,25 @@ UN_number: 1090
 upper_flammable_limit: 12.8
 vapor_pressure: 180
 ZVG_number: 11230
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Acetone,49546]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Ketone/Acetone|Acetone]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Ketone/Acetone.public|Acetone.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Ketone/Acetone.internal|Acetone.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Ketone/Acetone.protect|Acetone.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Ketone/Acetone.private|Acetone.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Ketone/Acetone.personal|Acetone.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Ketone/Acetone.secret|Acetone.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Acetone,49546]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Ketone/Acetone|Acetone]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Ketone/Acetone.public|Acetone.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Ketone/Acetone.internal|Acetone.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Ketone/Acetone.protect|Acetone.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Ketone/Acetone.private|Acetone.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Ketone/Acetone.personal|Acetone.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Ketone/Acetone.secret|Acetone.secret]]"
 ---
 
 # [[Acetone]] 

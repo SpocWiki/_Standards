@@ -29,13 +29,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/connected_to :: AnatomicalStructure ] or 
+- [is_/connected_to :: AnatomicalStructure ] 
 - [ is_connected_to :: AnatomicalStructure ] 
 
 Other anatomical structures to which this structure is connected.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure ]
+
+#has_/domain  :: AnatomicalStructure  
+
 ( #has_/name :: is_connected_to )
 ( #has_/range :: AnatomicalStructure )
 

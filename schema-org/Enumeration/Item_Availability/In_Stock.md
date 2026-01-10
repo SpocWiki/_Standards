@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - in_stock
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_in_stock Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_in_stock Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ItemAvailability]]"
+  enum_of: "[[../ItemAvailability]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Item_Availability/In_Stock|In_Stock]]"
+    - "[[/_public/schema-org/Enumeration/Item_Availability/In_Stock.public|In_Stock.public]]"
+    - "[[/_internal/schema-org/Enumeration/Item_Availability/In_Stock.internal|In_Stock.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Item_Availability/In_Stock.protect|In_Stock.protect]]"
+    - "[[/_private/schema-org/Enumeration/Item_Availability/In_Stock.private|In_Stock.private]]"
+    - "[[/_personal/schema-org/Enumeration/Item_Availability/In_Stock.personal|In_Stock.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Item_Availability/In_Stock.secret|In_Stock.secret]]"
+dv_is_sub_class_of: "[[../ItemAvailability]]"
+dv_is_enum_of: "[[../ItemAvailability]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Item_Availability/In_Stock|In_Stock]]"
+  - "[[/_public/schema-org/Enumeration/Item_Availability/In_Stock.public|In_Stock.public]]"
+  - "[[/_internal/schema-org/Enumeration/Item_Availability/In_Stock.internal|In_Stock.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Item_Availability/In_Stock.protect|In_Stock.protect]]"
+  - "[[/_private/schema-org/Enumeration/Item_Availability/In_Stock.private|In_Stock.private]]"
+  - "[[/_personal/schema-org/Enumeration/Item_Availability/In_Stock.personal|In_Stock.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Item_Availability/In_Stock.secret|In_Stock.secret]]"
 ---
 
 Class of all in_stocks.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 Indicates that the item is in stock.
 
-[ #is_/sub_class_of :: [[../ItemAvailability]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../ItemAvailability]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

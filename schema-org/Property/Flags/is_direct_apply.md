@@ -27,7 +27,7 @@ title: is_direct_apply
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/direct_apply 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 Indicates whether an [[../../Class/is_a_/data_type/text/URL]] that is associated with a [[JobPosting]] enables direct application for the job, via the posting website. A job posting is considered to have directApply of [[True]] if an application process for the specified job can be directly initiated via the url(s) given (noting that e.g. multiple internet domains might nevertheless be involved at an implementation level). A value of [[False]] is appropriate if there is no clear path to applying directly online for the specified job, navigating directly from the JobPosting url(s) supplied.
 
 Predicate describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: is_direct_apply )
 ( #has_/range :: Boolean )
 

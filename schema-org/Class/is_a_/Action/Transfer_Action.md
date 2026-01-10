@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - transfer_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_transfer_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_transfer_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Action]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action|Transfer_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Transfer_Action.public|Transfer_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Transfer_Action.internal|Transfer_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Transfer_Action.protect|Transfer_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Transfer_Action.private|Transfer_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Transfer_Action.personal|Transfer_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action.secret|Transfer_Action.secret]]"
+dv_has_:
+  sub_classes: "[ BorrowAction, DownloadAction, GiveAction, LendAction, MoneyTransfer, ReceiveAction, ReturnAction, SendAction, TakeAction ]"
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
+dv_is_sub_class_of: "[[../Action]]"
+dv_has_sub_classes: "[ BorrowAction, DownloadAction, GiveAction, LendAction, MoneyTransfer, ReceiveAction, ReturnAction, SendAction, TakeAction ]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action|Transfer_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Transfer_Action.public|Transfer_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Transfer_Action.internal|Transfer_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Transfer_Action.protect|Transfer_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Transfer_Action.private|Transfer_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Transfer_Action.personal|Transfer_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action.secret|Transfer_Action.secret]]"
 ---
 
 Class of all transfer_actions.
@@ -34,12 +58,11 @@ Tag Instances like this:
 
 The act of transferring/moving (abstract or concrete) animate or inanimate objects from one place to another.
 
-[ #is_/sub_class_of :: [[../Action]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ BorrowAction, DownloadAction, GiveAction, LendAction, MoneyTransfer, ReceiveAction, ReturnAction, SendAction, TakeAction ] ]
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

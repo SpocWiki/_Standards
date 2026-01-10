@@ -31,7 +31,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/accepted_answer :: Answer, ItemList ] or 
+- [has_/accepted_answer :: Answer, ItemList ] 
 - [ has_accepted_answer :: Answer, ItemList ] 
 
 #class/Relation
@@ -41,12 +41,13 @@ Sites vary in their selection mechanisms, e.g. drawing on community opinion
 and/or the view of the Question author.
 
 Relation describes that: 
-[ #has_/domain  :: Question ]
+
+#has_/domain  :: Question  
+
 ( #has_/name :: has_accepted_answer )
 ( #has_/range :: Answer, ItemList )
 
-[ #is_/sub_property_of  :: [[has_suggested_answer]] ]
-
+#is_/sub_property_of  :: [[has_suggested_answer]]  
 
 ## Confidential Links & Embeds: 
 

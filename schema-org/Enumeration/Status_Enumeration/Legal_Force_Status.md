@@ -10,21 +10,42 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - legal_force_status
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_legal_force_status Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_legal_force_status Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../StatusEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status|Legal_Force_Status]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.public|Legal_Force_Status.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.internal|Legal_Force_Status.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.protect|Legal_Force_Status.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.private|Legal_Force_Status.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.personal|Legal_Force_Status.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.secret|Legal_Force_Status.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../StatusEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status|Legal_Force_Status]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.public|Legal_Force_Status.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.internal|Legal_Force_Status.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.protect|Legal_Force_Status.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.private|Legal_Force_Status.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.personal|Legal_Force_Status.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.secret|Legal_Force_Status.secret]]"
 ---
 
 Class of all legal_force_statuss.
@@ -32,12 +53,11 @@ Class of all legal_force_statuss.
 Tag Instances like this: 
 #is_a_/legal_force_status
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 A list of possible statuses for the legal force of a legislation.
 
-[ #is_/sub_class_of :: [[../StatusEnumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

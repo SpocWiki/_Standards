@@ -28,13 +28,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/following :: Person ] or 
+- [is_/following :: Person ] 
 - [ is_following :: Person ] 
 
 The most generic uni-directional social relation.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_following )
 ( #has_/range :: Person )
 

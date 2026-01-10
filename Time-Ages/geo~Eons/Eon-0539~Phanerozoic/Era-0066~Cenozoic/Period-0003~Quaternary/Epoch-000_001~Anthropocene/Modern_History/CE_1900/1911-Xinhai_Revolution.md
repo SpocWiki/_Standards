@@ -5,17 +5,36 @@ aliases:
   - 1911-Xinhai_Revolution
   - 1911-Xinhai Revolution
 has_id_wikidata: Q190517
-part_of: '[[_Standards/WikiData/WD~Chinese_Empire,12060881]]'
+part_of: "[[_Standards/WikiData/WD~Chinese_Empire,12060881]]"
 country:
-  - '[[_Standards/WikiData/WD~Republic_of_China,13426199]]'
-  - '[[_Standards/WikiData/WD~China,29520]]'
-instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+  - "[[_Standards/WikiData/WD~Republic_of_China,13426199]]"
+  - "[[_Standards/WikiData/WD~China,29520]]"
+instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Xinhai%20Revolution%20in%20Shanghai.jpg
 Commons_category: Xinhai Revolution
 native_label: 辛亥革命
 end_time: 1912-02-12T00:00:00Z
 point_in_time: 1911-10-10T00:00:00Z
 start_time: 1911-10-10T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Xinhai_Revolution,190517|WD~Xinhai_Revolution,190517]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution|1911-Xinhai_Revolution]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.public|1911-Xinhai_Revolution.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.internal|1911-Xinhai_Revolution.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.protect|1911-Xinhai_Revolution.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.private|1911-Xinhai_Revolution.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.personal|1911-Xinhai_Revolution.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.secret|1911-Xinhai_Revolution.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Xinhai_Revolution,190517|WD~Xinhai_Revolution,190517]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution|1911-Xinhai_Revolution]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.public|1911-Xinhai_Revolution.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.internal|1911-Xinhai_Revolution.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.protect|1911-Xinhai_Revolution.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.private|1911-Xinhai_Revolution.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.personal|1911-Xinhai_Revolution.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1911-Xinhai_Revolution.secret|1911-Xinhai_Revolution.secret]]"
 ---
 
 # [[1911-Xinhai_Revolution]] 

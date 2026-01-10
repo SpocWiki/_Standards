@@ -7,6 +7,25 @@ instance_of: "[[_Standards/WikiData/WD~second_order_class,24017414]]"
 facet_of: "[[_Standards/WikiData/WD~chemistry,2329]]"
 part_of: "[[_Standards/WikiData/WD~chemistry,2329]]"
 described_at_URL: https://www.chemie.de/lexikon/Kategorie:Teilgebiet_der_Chemie.html
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+    - "[[/_Standards/Chemistry/Branch_of_Chemistry|Branch_of_Chemistry]]"
+    - "[[/_public/Chemistry/Branch_of_Chemistry.public|Branch_of_Chemistry.public]]"
+    - "[[/_internal/Chemistry/Branch_of_Chemistry.internal|Branch_of_Chemistry.internal]]"
+    - "[[/_protect/Chemistry/Branch_of_Chemistry.protect|Branch_of_Chemistry.protect]]"
+    - "[[/_private/Chemistry/Branch_of_Chemistry.private|Branch_of_Chemistry.private]]"
+    - "[[/_personal/Chemistry/Branch_of_Chemistry.personal|Branch_of_Chemistry.personal]]"
+    - "[[/_secret/Chemistry/Branch_of_Chemistry.secret|Branch_of_Chemistry.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+  - "[[/_Standards/Chemistry/Branch_of_Chemistry|Branch_of_Chemistry]]"
+  - "[[/_public/Chemistry/Branch_of_Chemistry.public|Branch_of_Chemistry.public]]"
+  - "[[/_internal/Chemistry/Branch_of_Chemistry.internal|Branch_of_Chemistry.internal]]"
+  - "[[/_protect/Chemistry/Branch_of_Chemistry.protect|Branch_of_Chemistry.protect]]"
+  - "[[/_private/Chemistry/Branch_of_Chemistry.private|Branch_of_Chemistry.private]]"
+  - "[[/_personal/Chemistry/Branch_of_Chemistry.personal|Branch_of_Chemistry.personal]]"
+  - "[[/_secret/Chemistry/Branch_of_Chemistry.secret|Branch_of_Chemistry.secret]]"
 ---
 
 # [[Branch_of_Chemistry]] 

@@ -33,10 +33,9 @@ Tag Instances like this:
 
 The day of the week between Wednesday and Friday.
 
-[ #is_/sub_class_of :: [[../DayOfWeek]] ]
+#is_/sub_class_of :: [[../DayOfWeek]]  
 
-[ #is_/enum_of :: [[../DayOfWeek]] ]
-
+#is_/enum_of :: [[../DayOfWeek]]  
 
 ## Confidential Links & Embeds: 
 

@@ -5,22 +5,22 @@ aliases:
   - Chemical_Engineering
   - Chemical Engineering
 has_id_wikidata: Q83588
-uses: '[[_Standards/WikiData/WD~unit_operations_of_Chemical_Engineering,1420676]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~process_engineering,2144042]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_chemical_engineering,2900601]]'
+uses: "[[_Standards/WikiData/WD~unit_operations_of_Chemical_Engineering,1420676]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~process_engineering,2144042]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_chemical_engineering,2900601]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
-  - '[[_Standards/WikiData/WD~applied_science,28797]]'
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~branch_of_engineering,12015335]]"
+  - "[[_Standards/WikiData/WD~applied_science,28797]]"
 practiced_by:
-  - '[[_Standards/WikiData/WD~chemical_technologist,5090503]]'
-  - '[[_Standards/WikiData/WD~chemical_engineer,7888586]]'
+  - "[[_Standards/WikiData/WD~chemical_technologist,5090503]]"
+  - "[[_Standards/WikiData/WD~chemical_engineer,7888586]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Chemical_engineering,6872011]]'
-  - '[[_Standards/WikiData/WD~Template_Chemical_eng,11427155]]'
-subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
+  - "[[_Standards/WikiData/WD~Template_Chemical_engineering,6872011]]"
+  - "[[_Standards/WikiData/WD~Template_Chemical_eng,11427155]]"
+subclass_of: "[[_Standards/WikiData/WD~engineering,11023]]"
 OmegaWiki_Defined_Meaning: 542
 Dewey_Decimal_Classification: 660
 P10203:
@@ -38,6 +38,25 @@ GitHub_topic: chemical-engineering
 subreddit: ChemicalEngineering
 MeSH_tree_code: J01.293.257
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95%20%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%80.wav
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Chemical_engineering,83588|WD~Chemical_engineering,83588]]"
+    - "[[/_Standards/Chemistry/Chemical_Engineering|Chemical_Engineering]]"
+    - "[[/_public/Chemistry/Chemical_Engineering.public|Chemical_Engineering.public]]"
+    - "[[/_internal/Chemistry/Chemical_Engineering.internal|Chemical_Engineering.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Engineering.protect|Chemical_Engineering.protect]]"
+    - "[[/_private/Chemistry/Chemical_Engineering.private|Chemical_Engineering.private]]"
+    - "[[/_personal/Chemistry/Chemical_Engineering.personal|Chemical_Engineering.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Engineering.secret|Chemical_Engineering.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Chemical_engineering,83588|WD~Chemical_engineering,83588]]"
+  - "[[/_Standards/Chemistry/Chemical_Engineering|Chemical_Engineering]]"
+  - "[[/_public/Chemistry/Chemical_Engineering.public|Chemical_Engineering.public]]"
+  - "[[/_internal/Chemistry/Chemical_Engineering.internal|Chemical_Engineering.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Engineering.protect|Chemical_Engineering.protect]]"
+  - "[[/_private/Chemistry/Chemical_Engineering.private|Chemical_Engineering.private]]"
+  - "[[/_personal/Chemistry/Chemical_Engineering.personal|Chemical_Engineering.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Engineering.secret|Chemical_Engineering.secret]]"
 ---
 
 # [[Chemical_Engineering]] 

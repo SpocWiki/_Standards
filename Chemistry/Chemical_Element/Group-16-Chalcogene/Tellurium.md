@@ -2,40 +2,40 @@
 aliases:
   - Tellurium
 has_id_wikidata: Q1100
-associated_hazard: '[[_Standards/WikiData/WD~tellurium_exposure,21175335]]'
+associated_hazard: "[[_Standards/WikiData/WD~tellurium_exposure,21175335]]"
 atomic_number: 52
 boiling_point: 1814
-canonical_SMILES: '[Te]'
+canonical_SMILES: "[Te]"
 CAS_Registry_Number: 13494-80-9
 chemical_formula: Te
 Commons_category: Tellurium
 Commons_gallery: Tellurium
 density: 6.24
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Franz-Joseph_Müller_von_Reichenstein,112012]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Franz-Joseph_Müller_von_Reichenstein,112012]]"
 DSSTOX_compound_identifier: DTXCID7012119
 EC_number: 236-813-4
 electronegativity: 2.1
 electron_configuration:
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁴
-  - '[Kr] 5s² 5d¹⁰ 5p⁴'
+  - "[Kr] 5s² 5d¹⁰ 5p⁴"
 element_symbol: Te
-found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
 Gmelin_number: 16309
-has_effect: '[[_Standards/WikiData/WD~tellurium_exposure,21175335]]'
+has_effect: "[[_Standards/WikiData/WD~tellurium_exposure,21175335]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20element%202.jpg
 immediately_dangerous_to_life_or_health: 25
 InChI: InChI=1S/Te
 InChIKey: PORWMNRCUJJQNO-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-  - '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+  - "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.43
   - 0.56
@@ -47,18 +47,18 @@ melting_point: 842
 MeSH_tree_code:
   - D01.268.185.950
   - D01.268.513.968
-named_after: '[[_Standards/WikiData/WD~Terra,270867]]'
+named_after: "[[_Standards/WikiData/WD~Terra,270867]]"
 OmegaWiki_Defined_Meaning: 160178
 part_of:
-  - '[[_Standards/WikiData/WD~group_16,104567]]'
-  - '[[_Standards/WikiData/WD~period_5,244982]]'
+  - "[[_Standards/WikiData/WD~group_16,104567]]"
+  - "[[_Standards/WikiData/WD~period_5,244982]]"
 PubChem_CID: 6327182
 RTECS_number: WY2625000
 SpocWebEntityId: 21948
 subclass_of:
-  - '[[_Standards/WikiData/WD~group_16,104567]]'
-  - '[[_Standards/WikiData/WD~period_5,244982]]'
-  - '[[_Standards/WikiData/WD~metalloid,19596]]'
+  - "[[_Standards/WikiData/WD~group_16,104567]]"
+  - "[[_Standards/WikiData/WD~period_5,244982]]"
+  - "[[_Standards/WikiData/WD~metalloid,19596]]"
 time_of_discovery_or_invention: 1783
 time_weighted_average_exposure_limit: 0.1
 type: Element
@@ -69,38 +69,123 @@ vapor_pressure: 0
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20crystals%20crystallizing.webm
 Wolfram_Language_entity_code: Entity["Mineral", "Tellurium"]
 ZVG_number: 7520
+dv_has_:
+  name_:
+    group: Group-16-Chalcogene
+    en: Tellurium
+    de: Tellur
+    abbreviated: Te
+  value_for_:
+    weight_:
+      u: 127.6
+    radius: 1.42
+    volume_:
+      ccm_:
+        mol: 20.5
+    unknown2: 1.36
+    radius_:
+      nano_:
+        m: 9.009
+    electronegativity: 2.1
+    density: 6.24
+    temperature_:
+      melt_:
+        c: 449.5
+      boil_:
+        c: 989.8
+    capacity_:
+      heat: 0.2
+    conductivity_:
+      heat: 0.0235
+    enthalpy: 17.49
+    energy_:
+      form_:
+        kj_:
+          mol: 52.55
+  number_of_:
+    period: 5
+    group: 16
+    electrons: 53
+dv_is_:
+  part_of: "[[../Group-16-Chalcogene]]"
+  same_as:
+    - "[[../../../WikiData/WD~Tellurium,1100]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium|Tellurium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.public|Tellurium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.internal|Tellurium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.protect|Tellurium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.private|Tellurium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.personal|Tellurium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.secret|Tellurium.secret]]"
+dv_has_name_group: Group-16-Chalcogene
+dv_is_part_of: "[[../Group-16-Chalcogene]]"
+dv_has_name_en: Tellurium
+dv_has_name_de: Tellur
+dv_has_value_for_weight_u: 127.6
+dv_has_value_for_radius: 1.42
+dv_has_value_for_volume_ccm_mol: 20.5
+dv_has_value_for_unknown2: 1.36
+dv_has_value_for_radius_nano_m: 9.009
+dv_has_value_for_electronegativity: 2.1
+dv_has_value_for_density: 6.24
+dv_has_value_for_temperature_melt_c: 449.5
+dv_has_value_for_temperature_boil_c: 989.8
+dv_has_value_for_capacity_heat: 0.2
+dv_has_value_for_conductivity_heat: 0.0235
+dv_has_value_for_enthalpy: 17.49
+dv_has_value_for_energy_form_kj_mol: 52.55
+dv_has_number_of_period: 5
+dv_has_number_of_group: 16
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Tellurium,1100]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium|Tellurium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.public|Tellurium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.internal|Tellurium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.protect|Tellurium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.private|Tellurium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.personal|Tellurium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.secret|Tellurium.secret]]"
+dv_has_name_abbreviated: Te
+dv_has_number_of_electrons: 53
 ---
 
 # [[Tellurium]] 
 
 #chemic/Element 
-[GroupName::Group-16-Chalcogene]
-Group::[[../Group-16-Chalcogene]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Tellurium]
-[#has_/name_/de::Tellur]
-[#has_/value_for_/weight_/u::127.6]
-[AtomRadius::1.42]
-[Atom-Vol-ccm-mol::20.5]
-[Unknown2::1.36]
-[#has_/value_for_/radius_/nano_/m::9.009]
-[Electronegative::2.1]
-[Density::6.24]
-[#has_/value_for_/temperature_/melt_/c ::449.5]
-[#has_/value_for_/temperature_/boil_/c ::989.8]
-[HeatCapacity::0.2]
-[HeatConduct::0.0235]
-[Enthalpy::17.49]
-[FormEnergy-kj-mol::52.55]
-(PeriodNo::5)
-(GroupNo::16)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 #is_/same_as :: [[../../../WikiData/WD~Tellurium,1100]]  
 
 
 ## #has_/text_of_/abstract 
 
-> **Tellurium** is a chemical element with the symbol (Abbr::Te) and atomic number (Charge-e::53). 
+> **Tellurium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a brittle, mildly toxic, rare, silver-white metalloid. 
 > Tellurium is chemically related to selenium and sulfur, all three of which are chalcogens. 
 > It is occasionally found in native form as elemental crystals. 

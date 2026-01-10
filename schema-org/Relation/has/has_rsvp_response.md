@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - rsvp_response
   - rsvp
   - response
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_rsvp_response
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_rsvp_response
 type: Predi_Relation
+dv_has_:
+  rsvp_response: RsvpResponseType
+  domain: RsvpAction
+dv_has_rsvp_response: RsvpResponseType
+dv_#has_:
+  name: is_rsvp_response
+  range: RsvpResponseType
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_rsvp_response|has_rsvp_response]]"
+    - "[[/_public/schema-org/Relation/has/has_rsvp_response.public|has_rsvp_response.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_rsvp_response.internal|has_rsvp_response.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_rsvp_response.protect|has_rsvp_response.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_rsvp_response.private|has_rsvp_response.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_rsvp_response.personal|has_rsvp_response.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_rsvp_response.secret|has_rsvp_response.secret]]"
+dv_has_domain: RsvpAction
+dv_has_name: is_rsvp_response
+dv_has_range: RsvpResponseType
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_rsvp_response|has_rsvp_response]]"
+  - "[[/_public/schema-org/Relation/has/has_rsvp_response.public|has_rsvp_response.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_rsvp_response.internal|has_rsvp_response.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_rsvp_response.protect|has_rsvp_response.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_rsvp_response.private|has_rsvp_response.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_rsvp_response.personal|has_rsvp_response.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_rsvp_response.secret|has_rsvp_response.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/rsvp_response :: RsvpResponseType ] or 
-- [ has_rsvp_response :: RsvpResponseType ] 
+- has_rsvp_response = `=this.dv_has_rsvp_response`  
+- has_rsvp_response = `=this.dv_has_rsvp_response`  
 
 The response (yes, no, maybe) to the RSVP.
 
 Relation describes that: 
-[ #has_/domain  :: RsvpAction ]
-( #has_/name :: is_rsvp_response )
-( #has_/range :: RsvpResponseType )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

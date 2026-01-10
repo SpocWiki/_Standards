@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A medical trial is a type of medical study that uses a scientific process to compare the safety and efficacy of medical therapies or medical procedures. In general, medical trials are controlled and subjects are allocated at random to the different treatment and/or control groups.
 
-[ #is_/sub_class_of :: [[../MedicalStudy]] ]
+#is_/sub_class_of :: [[../MedicalStudy]]  
 
-[ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, healthCondition, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, sponsor, status, study, studyLocation, studySubject, subjectOf, trialDesign, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, healthCondition, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, sponsor, status, study, studyLocation, studySubject, subjectOf, trialDesign, url ]  
 
 ## Confidential Links & Embeds: 
 

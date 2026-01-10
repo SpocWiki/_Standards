@@ -29,21 +29,22 @@ title: has_read_by
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [ #has_/read_by :: Person ] or 
+- [has_/read_by :: Person ] 
 - [ has_read_by :: Person ] 
 
 A person who reads (performs) the audiobook.
 
 Relation describes that: 
-[ #has_/domain  :: Audiobook ]
+
+#has_/domain  :: Audiobook  
+
 ( #has_/name :: is_read_by )
 ( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: actor ]
-
+#is_/sub_property_of  :: actor  
 
 ## Confidential Links & Embeds: 
 

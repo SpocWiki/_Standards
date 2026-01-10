@@ -26,16 +26,18 @@ title: has_credential
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/credential :: EducationalOccupationalCredential ] or 
+- [has_/credential :: EducationalOccupationalCredential ] 
 - [ has_credential :: EducationalOccupationalCredential ] 
 
 A credential awarded to the Person or Organization.
 
 Relation describes that: 
-[ #has_/domain  :: Organization, Person ]
+
+#has_/domain  :: Organization, Person  
+
 ( #has_/name :: has_credential )
 ( #has_/range :: EducationalOccupationalCredential )
 

@@ -3,6 +3,23 @@ aliases:
   - has_Date_Time
   - has Date Time
 icon: date
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_Date_Time|has_Date_Time]]"
+    - "[[/_public/schema-org/Property/has_Date_Time.public|has_Date_Time.public]]"
+    - "[[/_internal/schema-org/Property/has_Date_Time.internal|has_Date_Time.internal]]"
+    - "[[/_protect/schema-org/Property/has_Date_Time.protect|has_Date_Time.protect]]"
+    - "[[/_private/schema-org/Property/has_Date_Time.private|has_Date_Time.private]]"
+    - "[[/_personal/schema-org/Property/has_Date_Time.personal|has_Date_Time.personal]]"
+    - "[[/_secret/schema-org/Property/has_Date_Time.secret|has_Date_Time.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_Date_Time|has_Date_Time]]"
+  - "[[/_public/schema-org/Property/has_Date_Time.public|has_Date_Time.public]]"
+  - "[[/_internal/schema-org/Property/has_Date_Time.internal|has_Date_Time.internal]]"
+  - "[[/_protect/schema-org/Property/has_Date_Time.protect|has_Date_Time.protect]]"
+  - "[[/_private/schema-org/Property/has_Date_Time.private|has_Date_Time.private]]"
+  - "[[/_personal/schema-org/Property/has_Date_Time.personal|has_Date_Time.personal]]"
+  - "[[/_secret/schema-org/Property/has_Date_Time.secret|has_Date_Time.secret]]"
 ---
 
 # Date_Times

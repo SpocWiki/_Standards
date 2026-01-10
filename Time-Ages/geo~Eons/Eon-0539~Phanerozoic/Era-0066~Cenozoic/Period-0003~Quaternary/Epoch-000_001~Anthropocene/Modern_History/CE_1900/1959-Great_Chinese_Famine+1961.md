@@ -4,7 +4,7 @@ aliases:
   - 1959-Great_Chinese_Famine+1961
   - 1959-Great Chinese Famine+1961
 has_id_wikidata: Q2454958
-instance_of: '[[_Standards/WikiData/WD~famine,168247]]'
+instance_of: "[[_Standards/WikiData/WD~famine,168247]]"
 has_cause: "[[_Standards/WikiData/WD~people's_commune,1153975]]"
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 number_of_deaths:
@@ -16,6 +16,25 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Birth%20rate%20in%20China.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Total%20number%20of%20deaths%20by%20age%20globally%20for%20both%20sexes%20combined%201950%E2%80%932017.png
 Commons_category: Great Chinese Famine
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Great_Chinese_Famine,2454958|WD~Great_Chinese_Famine,2454958]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961|1959-Great_Chinese_Famine+1961]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.public|1959-Great_Chinese_Famine+1961.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.internal|1959-Great_Chinese_Famine+1961.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.protect|1959-Great_Chinese_Famine+1961.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.private|1959-Great_Chinese_Famine+1961.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.personal|1959-Great_Chinese_Famine+1961.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.secret|1959-Great_Chinese_Famine+1961.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Great_Chinese_Famine,2454958|WD~Great_Chinese_Famine,2454958]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961|1959-Great_Chinese_Famine+1961]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.public|1959-Great_Chinese_Famine+1961.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.internal|1959-Great_Chinese_Famine+1961.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.protect|1959-Great_Chinese_Famine+1961.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.private|1959-Great_Chinese_Famine+1961.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.personal|1959-Great_Chinese_Famine+1961.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Great_Chinese_Famine+1961.secret|1959-Great_Chinese_Famine+1961.secret]]"
 ---
 
 

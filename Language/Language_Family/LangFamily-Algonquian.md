@@ -7,8 +7,8 @@ type: LangFamily
 ---
 
 [SpocWebEntityId:: 243 ]
-[has_/name::Algonquian]
 
+has_/name::Algonquian 
 
 ## Confidential Links & Embeds: 
 

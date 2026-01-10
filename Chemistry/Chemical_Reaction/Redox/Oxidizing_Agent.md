@@ -8,17 +8,17 @@ aliases:
   - Oxidizing_Agent
   - Oxidizing Agent
 has_id_wikidata: Q187689
-used_by: '[[_Standards/WikiData/WD~redox,82682]]'
-opposite_of: '[[_Standards/WikiData/WD~reducing_agent,216830]]'
+used_by: "[[_Standards/WikiData/WD~redox,82682]]"
+opposite_of: "[[_Standards/WikiData/WD~reducing_agent,216830]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~electron_acceptor,1231592]]'
-  - '[[_Standards/WikiData/WD~comburent,3775643]]'
-  - '[[_Standards/WikiData/WD~noxa,50379880]]'
-has_effect: '[[_Standards/WikiData/WD~oxidation,1786087]]'
-has_use: '[[_Standards/WikiData/WD~oxidation,1786087]]'
+  - "[[_Standards/WikiData/WD~electron_acceptor,1231592]]"
+  - "[[_Standards/WikiData/WD~comburent,3775643]]"
+  - "[[_Standards/WikiData/WD~noxa,50379880]]"
+has_effect: "[[_Standards/WikiData/WD~oxidation,1786087]]"
+has_use: "[[_Standards/WikiData/WD~oxidation,1786087]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~role,4897819]]'
-  - '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
+  - "[[_Standards/WikiData/WD~role,4897819]]"
+  - "[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]"
 U_S_National_Archives_Identifier: 10647674
 short_name: OX
 icon:
@@ -29,6 +29,25 @@ MeSH_tree_code:
   - D27.720.642
   - D27.888.569.540
 Commons_category: Oxidizing agents
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Oxidizing_agent,187689]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent|Oxidizing_Agent]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.public|Oxidizing_Agent.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.internal|Oxidizing_Agent.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.protect|Oxidizing_Agent.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.private|Oxidizing_Agent.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.personal|Oxidizing_Agent.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.secret|Oxidizing_Agent.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Oxidizing_agent,187689]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent|Oxidizing_Agent]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.public|Oxidizing_Agent.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.internal|Oxidizing_Agent.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.protect|Oxidizing_Agent.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.private|Oxidizing_Agent.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.personal|Oxidizing_Agent.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.secret|Oxidizing_Agent.secret]]"
 ---
 
 # [[Oxidizing_Agent]] 

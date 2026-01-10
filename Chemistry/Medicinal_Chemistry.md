@@ -6,16 +6,35 @@ aliases:
   - Medicinal Chemistry
 has_id_wikidata: Q243455
 subclass_of:
-  - '[[_Standards/WikiData/WD~medicinal_and_biomolecular_chemistry,9189409]]'
-  - '[[_Standards/WikiData/WD~organic_chemistry,11351]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Medicinal_chemistry,13621143]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~pharmaceutical_chemistry,15840367]]'
-practiced_by: '[[_Standards/WikiData/WD~medicinal_chemist,110624640]]'
+  - "[[_Standards/WikiData/WD~medicinal_and_biomolecular_chemistry,9189409]]"
+  - "[[_Standards/WikiData/WD~organic_chemistry,11351]]"
+instance_of: "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Medicinal_chemistry,13621143]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~pharmaceutical_chemistry,15840367]]"
+practiced_by: "[[_Standards/WikiData/WD~medicinal_chemist,110624640]]"
 Dewey_Decimal_Classification: 615.19
 video: http://commons.wikimedia.org/wiki/Special:FilePath/A-Comprehensive-Panel-of-Three-Dimensional-Models-for-Studies-of-Prostate-Cancer-Growth-Invasion-pone.0010431.s013.ogv
 Commons_category: Medicinal chemistry
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/HIMIYA_LEKARSTV.html
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Medicinal_chemistry,243455]]"
+    - "[[/_Standards/Chemistry/Medicinal_Chemistry|Medicinal_Chemistry]]"
+    - "[[/_public/Chemistry/Medicinal_Chemistry.public|Medicinal_Chemistry.public]]"
+    - "[[/_internal/Chemistry/Medicinal_Chemistry.internal|Medicinal_Chemistry.internal]]"
+    - "[[/_protect/Chemistry/Medicinal_Chemistry.protect|Medicinal_Chemistry.protect]]"
+    - "[[/_private/Chemistry/Medicinal_Chemistry.private|Medicinal_Chemistry.private]]"
+    - "[[/_personal/Chemistry/Medicinal_Chemistry.personal|Medicinal_Chemistry.personal]]"
+    - "[[/_secret/Chemistry/Medicinal_Chemistry.secret|Medicinal_Chemistry.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Medicinal_chemistry,243455]]"
+  - "[[/_Standards/Chemistry/Medicinal_Chemistry|Medicinal_Chemistry]]"
+  - "[[/_public/Chemistry/Medicinal_Chemistry.public|Medicinal_Chemistry.public]]"
+  - "[[/_internal/Chemistry/Medicinal_Chemistry.internal|Medicinal_Chemistry.internal]]"
+  - "[[/_protect/Chemistry/Medicinal_Chemistry.protect|Medicinal_Chemistry.protect]]"
+  - "[[/_private/Chemistry/Medicinal_Chemistry.private|Medicinal_Chemistry.private]]"
+  - "[[/_personal/Chemistry/Medicinal_Chemistry.personal|Medicinal_Chemistry.personal]]"
+  - "[[/_secret/Chemistry/Medicinal_Chemistry.secret|Medicinal_Chemistry.secret]]"
 ---
 
 # [[Medicinal_Chemistry]] 

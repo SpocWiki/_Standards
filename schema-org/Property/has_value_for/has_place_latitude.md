@@ -42,11 +42,13 @@ together with [[has_place_longitude|longitude]] and [[has_place_elevation_meters
 but not [[has_place_altitude_meters|altitude]], which adds to [[has_place_elevation_meters|elevation]] and is typically used for flying (positive) or diving (negative) Objects.
 
 Use it like this: 
-- [ #has_/place_/latitude :: Number, Text ] or 
+- [has_/place_/latitude :: Number, Text ] 
 - [ has_place_latitude :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ] 
 
 Predicate describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], [[../../../Earth/Geography/Place|Place]] ]
+
+#has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], [[../../../Earth/Geography/Place|Place]]  
+
 ( #has_/name :: has_place_latitude )
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 

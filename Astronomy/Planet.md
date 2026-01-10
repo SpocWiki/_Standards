@@ -63,6 +63,23 @@ topic_s_main_template:
 UMLS_CUI: C0080026
 Unicode_character: 🪐
 U_S_National_Archives_Identifier: 10646853
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Planet|Planet]]"
+    - "[[/_public/Astronomy/Planet.public|Planet.public]]"
+    - "[[/_internal/Astronomy/Planet.internal|Planet.internal]]"
+    - "[[/_protect/Astronomy/Planet.protect|Planet.protect]]"
+    - "[[/_private/Astronomy/Planet.private|Planet.private]]"
+    - "[[/_personal/Astronomy/Planet.personal|Planet.personal]]"
+    - "[[/_secret/Astronomy/Planet.secret|Planet.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Planet|Planet]]"
+  - "[[/_public/Astronomy/Planet.public|Planet.public]]"
+  - "[[/_internal/Astronomy/Planet.internal|Planet.internal]]"
+  - "[[/_protect/Astronomy/Planet.protect|Planet.protect]]"
+  - "[[/_private/Astronomy/Planet.private|Planet.private]]"
+  - "[[/_personal/Astronomy/Planet.personal|Planet.personal]]"
+  - "[[/_secret/Astronomy/Planet.secret|Planet.secret]]"
 ---
 
 # [[Planet]] 🪐 

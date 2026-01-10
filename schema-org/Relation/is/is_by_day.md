@@ -28,16 +28,18 @@ title: is_by_day
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/by_day :: DayOfWeek, Text ] or 
+- [has_/by_day :: DayOfWeek, Text ] 
 - [ is_by_day :: DayOfWeek, Text ] 
 
 Defines the day(s) of the week on which a recurring [[Event]] takes place. May be specified using either [[DayOfWeek]], or alternatively [[Text]] conforming to iCal's syntax for byDay recurrence rules.
 
 Relation describes that: 
-[ #has_/domain  :: Schedule ]
+
+#has_/domain  :: Schedule  
+
 ( #has_/name :: is_by_day )
 ( #has_/range :: DayOfWeek, Text )
 

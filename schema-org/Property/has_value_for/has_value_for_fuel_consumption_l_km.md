@@ -10,28 +10,56 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - fuel-consumption
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_fuel-consumption
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_fuel-consumption
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    fuel_consumption_l_km: QuantitativeValue
+  domain: Vehicle
+dv_has_value_for_fuel_consumption_l_km: QuantitativeValue
+dv_#has_:
+  name: has_value_for_fuel_consumption_l_km
+  range: QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km|has_value_for_fuel_consumption_l_km]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.public|has_value_for_fuel_consumption_l_km.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.internal|has_value_for_fuel_consumption_l_km.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.protect|has_value_for_fuel_consumption_l_km.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.private|has_value_for_fuel_consumption_l_km.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.personal|has_value_for_fuel_consumption_l_km.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.secret|has_value_for_fuel_consumption_l_km.secret]]"
+dv_has_domain: Vehicle
+dv_has_name: has_value_for_fuel_consumption_l_km
+dv_has_range: QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km|has_value_for_fuel_consumption_l_km]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.public|has_value_for_fuel_consumption_l_km.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.internal|has_value_for_fuel_consumption_l_km.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.protect|has_value_for_fuel_consumption_l_km.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.private|has_value_for_fuel_consumption_l_km.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.personal|has_value_for_fuel_consumption_l_km.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km.secret|has_value_for_fuel_consumption_l_km.secret]]"
 ---
 
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- [ #has_/value_for_/fuel_consumption_l_km :: QuantitativeValue ] or 
-- [ has_value_for_fuel_consumption_l_km :: QuantitativeValue ] 
+- has_value_for_fuel_consumption_l_km = `=this.dv_has_value_for_fuel_consumption_l_km`  
+- has_value_for_fuel_consumption_l_km = `=this.dv_has_value_for_fuel_consumption_l_km`  
 
 The amount of fuel consumed for traveling a particular distance or temporal duration with the given vehicle (e.g. liters per 100 km).
 
@@ -44,9 +72,11 @@ The amount of fuel consumed for traveling a particular distance or temporal dura
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
-( #has_/name :: has_value_for_fuel_consumption_l_km )
-( #has_/range :: QuantitativeValue )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

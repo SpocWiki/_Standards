@@ -23,6 +23,25 @@ astronomic_symbol_image:
 Commons_category: Big Splash
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Theia%20article%20Narration.mp3
 end_time: -4520000000-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[WD~Theia,1053432]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet)|Theia(Planet)]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).public|Theia(Planet).public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).internal|Theia(Planet).internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).protect|Theia(Planet).protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).private|Theia(Planet).private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).personal|Theia(Planet).personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).secret|Theia(Planet).secret]]"
+dv_is_same_as:
+  - "[[WD~Theia,1053432]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet)|Theia(Planet)]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).public|Theia(Planet).public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).internal|Theia(Planet).internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).protect|Theia(Planet).protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).private|Theia(Planet).private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).personal|Theia(Planet).personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-4567~Hadean/Theia(Planet).secret|Theia(Planet).secret]]"
 ---
 
 # [[Theia(Planet)]]

@@ -34,13 +34,15 @@ type: Predi_Quantity
 Predicate to describe the Quantity of OfferShippingDetails, Person, Product.
 
 Use it like this: 
-- [ #has_/value_for_/weight_in_gram :: QuantitativeValue ] or 
+- [has_/value_for_/weight_in_gram :: QuantitativeValue ] 
 - [ has_value_for_weight_in_gram :: QuantitativeValue ] 
 
 The weight of the product or person.
 
 Predicate describes that: 
-[ #has_/domain  :: OfferShippingDetails, Person, Product ]
+
+#has_/domain  :: OfferShippingDetails, Person, Product  
+
 ( #has_/name :: has_value_for_weight_in_gram )
 ( #has_/range :: QuantitativeValue )
 

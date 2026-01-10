@@ -25,10 +25,10 @@ title: has_provider
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/provider :: Organization, Person ] or 
+- [has_/provider :: Organization, Person ] 
 - [ has_provider :: Organization, Person ] 
 
 The service provider, service operator, or service performer; the goods producer. 
@@ -40,7 +40,9 @@ A provider may also serve as the seller.
 `Supersedes` the `Carrier` Property. 
 
 Relation describes that: 
-[ #has_/domain  :: Action, CreativeWork, EducationalOccupationalProgram, Invoice, ParcelDelivery, Reservation, Service, Trip ]
+
+#has_/domain  :: Action, CreativeWork, EducationalOccupationalProgram, Invoice, ParcelDelivery, Reservation, Service, Trip  
+
 ( #has_/name :: is_provider )
 ( #has_/range :: Organization, Person )
 

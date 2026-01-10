@@ -11,6 +11,25 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Period%202%20oxidation%20numbers.png
 IEV_number: 114-01-25
 Commons_category: Oxidation states
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Oxidation_number,484152]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number|Oxidation_Number]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.public|Oxidation_Number.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.internal|Oxidation_Number.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.protect|Oxidation_Number.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.private|Oxidation_Number.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.personal|Oxidation_Number.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.secret|Oxidation_Number.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Oxidation_number,484152]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number|Oxidation_Number]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.public|Oxidation_Number.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.internal|Oxidation_Number.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.protect|Oxidation_Number.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.private|Oxidation_Number.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.personal|Oxidation_Number.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.secret|Oxidation_Number.secret]]"
 ---
 
 # [[Oxidation_Number]] 

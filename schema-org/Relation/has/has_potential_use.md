@@ -28,16 +28,18 @@ title: has_potential_use
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/potential_use :: DefinedTerm ] or 
+- [has_/potential_use :: DefinedTerm ] 
 - [ has_potential_use :: DefinedTerm ] 
 
 Intended use of the BioChemEntity by humans.
 
 Relation describes that: 
-[ #has_/domain  :: ChemicalSubstance, MolecularEntity ]
+
+#has_/domain  :: ChemicalSubstance, MolecularEntity  
+
 ( #has_/name :: is_potential_use )
 ( #has_/range :: DefinedTerm )
 

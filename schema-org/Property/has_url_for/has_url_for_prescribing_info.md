@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - prescribing_info
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_url_for_prescribing_info
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Url
 title: has_url_for_prescribing_info
 type: Predi_Url
+dv_has_:
+  url_for_:
+    prescribing_info: URL
+  domain: Drug
+dv_has_url_for_prescribing_info: URL
+dv_#has_:
+  name: has_url_for_prescribing_info
+  range: URL
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_prescribing_info|has_url_for_prescribing_info]]"
+    - "[[/_public/schema-org/Property/has_url_for/has_url_for_prescribing_info.public|has_url_for_prescribing_info.public]]"
+    - "[[/_internal/schema-org/Property/has_url_for/has_url_for_prescribing_info.internal|has_url_for_prescribing_info.internal]]"
+    - "[[/_protect/schema-org/Property/has_url_for/has_url_for_prescribing_info.protect|has_url_for_prescribing_info.protect]]"
+    - "[[/_private/schema-org/Property/has_url_for/has_url_for_prescribing_info.private|has_url_for_prescribing_info.private]]"
+    - "[[/_personal/schema-org/Property/has_url_for/has_url_for_prescribing_info.personal|has_url_for_prescribing_info.personal]]"
+    - "[[/_secret/schema-org/Property/has_url_for/has_url_for_prescribing_info.secret|has_url_for_prescribing_info.secret]]"
+dv_has_domain: Drug
+dv_has_name: has_url_for_prescribing_info
+dv_has_range: URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_prescribing_info|has_url_for_prescribing_info]]"
+  - "[[/_public/schema-org/Property/has_url_for/has_url_for_prescribing_info.public|has_url_for_prescribing_info.public]]"
+  - "[[/_internal/schema-org/Property/has_url_for/has_url_for_prescribing_info.internal|has_url_for_prescribing_info.internal]]"
+  - "[[/_protect/schema-org/Property/has_url_for/has_url_for_prescribing_info.protect|has_url_for_prescribing_info.protect]]"
+  - "[[/_private/schema-org/Property/has_url_for/has_url_for_prescribing_info.private|has_url_for_prescribing_info.private]]"
+  - "[[/_personal/schema-org/Property/has_url_for/has_url_for_prescribing_info.personal|has_url_for_prescribing_info.personal]]"
+  - "[[/_secret/schema-org/Property/has_url_for/has_url_for_prescribing_info.secret|has_url_for_prescribing_info.secret]]"
 ---
 
 Predicate to specify the Url of Drug.
 
 Use it like this: 
-- [ #has_/url_for_/prescribing_info :: URL ] or 
-- [ has_url_for_prescribing_info :: URL ] 
+- has_url_for_prescribing_info = `=this.dv_has_url_for_prescribing_info`  
+- has_url_for_prescribing_info = `=this.dv_has_url_for_prescribing_info`  
 
 Link to prescribing information for the drug.
 
 Predicate describes that: 
-[ #has_/domain  :: Drug ]
-( #has_/name :: has_url_for_prescribing_info )
-( #has_/range :: URL )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

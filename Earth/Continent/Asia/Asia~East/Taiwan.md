@@ -1,6 +1,6 @@
 ---
 dv_Telephone: 886
-dv_has_name_: Taiwan
+dv_has_name: Taiwan
 dv_has_name_en:
   - 
   - Taiwan
@@ -525,17 +525,17 @@ icon: flag-tw
 ## [[Taiwan]] has Properties...
 
 is_a_ = `=this.dv_is_a_`
-is_a_ = `=this.dv_is_a_`
+[	ISO4217-currency_name	 ::  ]
 [	ISO4217-currency_numeric	 ::  ]
 [	ISO4217-currency_minor_unit	 ::  ]
-is_a_ = `=this.dv_is_a_`
+[	ISO4217-currency_country_name	 ::  ]
 
 Telephone = `=this.dv_Telephone`
 
 [	Global	 ::  ]
-[	Global_name = `=this.dv_name`
+[	Global_name = `=this.dv_has_name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 ::  ]
 [	has_name_es	 ::  ]
 [	has_name_fr	 ::  ]
@@ -546,8 +546,8 @@ name = `=this.dv_name`
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
 [	UNTERM_English	 ::  ]
-[	UNTERM_Englis_a_ = `=this.dv_is_a_`
-[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
+[	UNTERM_English_Formal	 ::  ]
+[	UNTERM_Spanish_Formal	 ::  ]
 [	UNTERM_Spanish	 ::  ]
 [	UNTERM_French	 ::  ]
 [	UNTERM_Arabic	 ::  ]
@@ -583,14 +583,14 @@ is_independent = `=this.dv_is_independent`
 [	Developed_/Developing_Countries	 ::  ]
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_is_a_ = `=this.dv_is_a_`
+[	Small_Island_Developing_States	 ::  ]
 
 ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-is_a_ = `=this.dv_is_a_`
+#is_/same_as :: [[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]   
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

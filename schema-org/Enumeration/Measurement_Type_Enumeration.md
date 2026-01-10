@@ -1,3 +1,29 @@
+---
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration|Measurement_Type_Enumeration]]"
+    - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration.public|Measurement_Type_Enumeration.public]]"
+    - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration.internal|Measurement_Type_Enumeration.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration.protect|Measurement_Type_Enumeration.protect]]"
+    - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration.private|Measurement_Type_Enumeration.private]]"
+    - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration.personal|Measurement_Type_Enumeration.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration.secret|Measurement_Type_Enumeration.secret]]"
+dv_has_:
+  sub_classes: "[ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_sub_classes: "[ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration|Measurement_Type_Enumeration]]"
+  - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration.public|Measurement_Type_Enumeration.public]]"
+  - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration.internal|Measurement_Type_Enumeration.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration.protect|Measurement_Type_Enumeration.protect]]"
+  - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration.private|Measurement_Type_Enumeration.private]]"
+  - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration.personal|Measurement_Type_Enumeration.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration.secret|Measurement_Type_Enumeration.secret]]"
+---
 h---
 license: CC BY-SA 4.0
 confidential: public
@@ -36,14 +62,13 @@ Class of all measurement_type_enumerations.
 Tag Instances like this: 
 #is_a_/measurement_type_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Enumeration of common measurement types (or dimensions), for example "chest" for a person, "inseam" for pants, "gauge" for screws, or "wheel" for bicycles.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ] ]
-
+has_sub_classes = `=this.dv_has_sub_classes` 
 
 ## Confidential Links & Embeds: 
 

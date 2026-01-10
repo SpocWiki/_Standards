@@ -28,6 +28,27 @@ described_at_URL:
   - https://web.stanford.edu/class/archive/cs/cs103/cs103.1198/lectures/06-BinaryRelationsI/Binary%20Relations.pdf
   - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session7.pdf
   - https://math.libretexts.org/Courses/Mount_Royal_University/Higher_Arithmetic/2%3A_Binary_relations/2.1%3A_Binary_Relations
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~binary_relation,130901]]"
+    - "[[_Standards/WikiData/WD~,]]"
+    - "[[/_Standards/schema-org/Relation/Binary_Relation|Binary_Relation]]"
+    - "[[/_public/schema-org/Relation/Binary_Relation.public|Binary_Relation.public]]"
+    - "[[/_internal/schema-org/Relation/Binary_Relation.internal|Binary_Relation.internal]]"
+    - "[[/_protect/schema-org/Relation/Binary_Relation.protect|Binary_Relation.protect]]"
+    - "[[/_private/schema-org/Relation/Binary_Relation.private|Binary_Relation.private]]"
+    - "[[/_personal/schema-org/Relation/Binary_Relation.personal|Binary_Relation.personal]]"
+    - "[[/_secret/schema-org/Relation/Binary_Relation.secret|Binary_Relation.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~binary_relation,130901]]"
+  - "[[_Standards/WikiData/WD~,]]"
+  - "[[/_Standards/schema-org/Relation/Binary_Relation|Binary_Relation]]"
+  - "[[/_public/schema-org/Relation/Binary_Relation.public|Binary_Relation.public]]"
+  - "[[/_internal/schema-org/Relation/Binary_Relation.internal|Binary_Relation.internal]]"
+  - "[[/_protect/schema-org/Relation/Binary_Relation.protect|Binary_Relation.protect]]"
+  - "[[/_private/schema-org/Relation/Binary_Relation.private|Binary_Relation.private]]"
+  - "[[/_personal/schema-org/Relation/Binary_Relation.personal|Binary_Relation.personal]]"
+  - "[[/_secret/schema-org/Relation/Binary_Relation.secret|Binary_Relation.secret]]"
 ---
 
 # [[Binary_Relation]] 

@@ -28,21 +28,22 @@ title: is_funding_item
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #is_/funding_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] or 
+- [is_/funding_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] 
 - [ is_funding_item :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ] 
 
 Indicates something directly or indirectly funded or sponsored through a [[Grant]]. See also [[ownershipFundingInfo]].
 
 Relation describes that: 
-[ #has_/domain  :: Grant ]
+
+#has_/domain  :: Grant  
+
 ( #has_/name :: is_funding_item )
 ( #has_/range :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product )
 
-[ #is_/inverse_of  :: [[has_funding]] ]
-
+#is_/inverse_of  :: [[has_funding]]  
 
 ## Confidential Links & Embeds: 
 

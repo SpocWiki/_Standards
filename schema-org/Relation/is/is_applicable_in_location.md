@@ -29,13 +29,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/applicable_location :: AdministrativeArea ] or 
+- [has_/applicable_location :: AdministrativeArea ] 
 - [ is_applicable_in_location :: AdministrativeArea ] 
 
 The location in which the status applies.
 
 Relation describes that: 
-[ #has_/domain  :: DrugCost, DrugLegalStatus ]
+
+#has_/domain  :: DrugCost, DrugLegalStatus  
+
 ( #has_/name :: is_applicable_in_location )
 ( #has_/range :: AdministrativeArea )
 

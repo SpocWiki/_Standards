@@ -33,21 +33,22 @@ type: Pred_Text
 
 Predicate to describe the Text of MediaReview.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/original_media_context_description :: Text ] or 
+- [has_/text_of_/original_media_context_description :: Text ] 
 - [ has_text_of_original_media_context_description :: Text ] 
 
 Describes, in a [[MediaReview]] when dealing with [[DecontextualizedContent]], background information that can contribute to better interpretation of the [[MediaObject]].
 
 Predicated describes that: 
-[ #has_/domain  :: MediaReview ]
+
+#has_/domain  :: MediaReview  
+
 ( #has_/name :: has_text_of_original_media_context_description )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: description ]
-
+#is_/sub_property_of  :: description  
 
 ## Confidential Links & Embeds: 
 

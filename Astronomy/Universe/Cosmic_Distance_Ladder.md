@@ -6,20 +6,39 @@ aliases:
   - Cosmic Distance Ladder
 has_id_wikidata: Q618164
 uses:
-  - '[[_Standards/WikiData/WD~redshift,76250]]'
-  - '[[_Standards/WikiData/WD~stellar_parallax,906561]]'
-  - '[[_Standards/WikiData/WD~standard_candle,932938]]'
-  - '[[_Standards/WikiData/WD~Tully_Fisher_relation,1147069]]'
-  - '[[_Standards/WikiData/WD~Faber_Jackson_relation,1390162]]'
-  - '[[_Standards/WikiData/WD~standard_ruler,7598374]]'
-  - '[[_Standards/WikiData/WD~radar,47528]]'
+  - "[[_Standards/WikiData/WD~redshift,76250]]"
+  - "[[_Standards/WikiData/WD~stellar_parallax,906561]]"
+  - "[[_Standards/WikiData/WD~standard_candle,932938]]"
+  - "[[_Standards/WikiData/WD~Tully_Fisher_relation,1147069]]"
+  - "[[_Standards/WikiData/WD~Faber_Jackson_relation,1390162]]"
+  - "[[_Standards/WikiData/WD~standard_ruler,7598374]]"
+  - "[[_Standards/WikiData/WD~radar,47528]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~sequence,133250]]'
-  - '[[_Standards/WikiData/WD~measurement_technique,1924397]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~measurement_technique,1924397]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q13332008,13332008]]'
-has_characteristic: '[[_Standards/WikiData/WD~partial_coincidence,65560376]]'
+  - "[[_Standards/WikiData/WD~sequence,133250]]"
+  - "[[_Standards/WikiData/WD~measurement_technique,1924397]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~measurement_technique,1924397]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q13332008,13332008]]"
+has_characteristic: "[[_Standards/WikiData/WD~partial_coincidence,65560376]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Extragalactic%20Distance%20Ladder%20en.svg
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cosmic_distance_ladder,618164|WD~Cosmic_distance_ladder,618164]]"
+    - "[[/_Standards/Astronomy/Universe/Cosmic_Distance_Ladder|Cosmic_Distance_Ladder]]"
+    - "[[/_public/Astronomy/Universe/Cosmic_Distance_Ladder.public|Cosmic_Distance_Ladder.public]]"
+    - "[[/_internal/Astronomy/Universe/Cosmic_Distance_Ladder.internal|Cosmic_Distance_Ladder.internal]]"
+    - "[[/_protect/Astronomy/Universe/Cosmic_Distance_Ladder.protect|Cosmic_Distance_Ladder.protect]]"
+    - "[[/_private/Astronomy/Universe/Cosmic_Distance_Ladder.private|Cosmic_Distance_Ladder.private]]"
+    - "[[/_personal/Astronomy/Universe/Cosmic_Distance_Ladder.personal|Cosmic_Distance_Ladder.personal]]"
+    - "[[/_secret/Astronomy/Universe/Cosmic_Distance_Ladder.secret|Cosmic_Distance_Ladder.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cosmic_distance_ladder,618164|WD~Cosmic_distance_ladder,618164]]"
+  - "[[/_Standards/Astronomy/Universe/Cosmic_Distance_Ladder|Cosmic_Distance_Ladder]]"
+  - "[[/_public/Astronomy/Universe/Cosmic_Distance_Ladder.public|Cosmic_Distance_Ladder.public]]"
+  - "[[/_internal/Astronomy/Universe/Cosmic_Distance_Ladder.internal|Cosmic_Distance_Ladder.internal]]"
+  - "[[/_protect/Astronomy/Universe/Cosmic_Distance_Ladder.protect|Cosmic_Distance_Ladder.protect]]"
+  - "[[/_private/Astronomy/Universe/Cosmic_Distance_Ladder.private|Cosmic_Distance_Ladder.private]]"
+  - "[[/_personal/Astronomy/Universe/Cosmic_Distance_Ladder.personal|Cosmic_Distance_Ladder.personal]]"
+  - "[[/_secret/Astronomy/Universe/Cosmic_Distance_Ladder.secret|Cosmic_Distance_Ladder.secret]]"
 ---
 
 # [[Cosmic_Distance_Ladder]] 

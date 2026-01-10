@@ -7,25 +7,46 @@ has_id_wikidata: Q428995
 end_time: -0029-01-01T00:00:00Z
 start_time: -0322-01-01T00:00:00Z
 described_by_source:
-  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~art_style,1792644]]'
-  - '[[_Standards/WikiData/WD~middle_chronology,3448837]]'
-  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
-  - '[[_Standards/WikiData/WD~culture,11042]]'
+  - "[[_Standards/WikiData/WD~art_style,1792644]]"
+  - "[[_Standards/WikiData/WD~middle_chronology,3448837]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~culture,11042]]"
 Commons_category: Hellenistic age
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tetradrachme.wmt.jpg
 Provenio_UUID: 708e1040-9f9e-4c8e-846c-826d5d0166e4
 EAGLE_id: dates/lod/19
-Wolfram_Language_entity_code: Entity["Concept", "Hellenism::v5rq6"]
+Wolfram_Language_entity_code: Entity"Concept", "Hellenism = `=this.dv_"Concept", "Hellenism` 
 Krugosvet_article_archived_: istoriya/ellinizm
+dv_"Concept", "Hellenism: v5rq6"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Hellenistic_period,428995]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029|-0322-Hellenistic_Period-0029]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.public|-0322-Hellenistic_Period-0029.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.internal|-0322-Hellenistic_Period-0029.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.protect|-0322-Hellenistic_Period-0029.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.private|-0322-Hellenistic_Period-0029.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.personal|-0322-Hellenistic_Period-0029.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.secret|-0322-Hellenistic_Period-0029.secret]]"
+dv_concept-hellenism: v5rq6"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Hellenistic_period,428995]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029|-0322-Hellenistic_Period-0029]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.public|-0322-Hellenistic_Period-0029.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.internal|-0322-Hellenistic_Period-0029.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.protect|-0322-Hellenistic_Period-0029.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.private|-0322-Hellenistic_Period-0029.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.personal|-0322-Hellenistic_Period-0029.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.secret|-0322-Hellenistic_Period-0029.secret]]"
 ---
 
 #is_/same_as :: [[WD~Hellenistic_period,428995]]

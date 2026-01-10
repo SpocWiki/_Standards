@@ -26,16 +26,18 @@ title: has_answer_explanation
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/answer_explanation :: Comment, WebContent ] or 
+- [has_/answer_explanation :: Comment, WebContent ] 
 - [ has_answer_explanation :: Comment, WebContent ] 
 
 A step-by-step or full explanation about Answer. Can outline how this Answer was achieved or contain more broad clarification or statement about it.
 
 Relation describes that: 
-[ #has_/domain  :: Answer ]
+
+#has_/domain  :: Answer  
+
 ( #has_/name :: has_answer_explanation )
 ( #has_/range :: Comment, WebContent )
 

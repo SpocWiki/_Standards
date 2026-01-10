@@ -7,33 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - department
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_department
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_department
 type: Predi_Relation
+dv_has_:
+  department: Organization
+  domain: Organization
+dv_has_department: Organization
+dv_#has_:
+  name: has_department
+  range: Organization
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_department|has_department]]"
+    - "[[/_public/schema-org/Relation/has/has_department.public|has_department.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_department.internal|has_department.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_department.protect|has_department.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_department.private|has_department.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_department.personal|has_department.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_department.secret|has_department.secret]]"
+dv_has_domain: Organization
+dv_has_name: has_department
+dv_has_range: Organization
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_department|has_department]]"
+  - "[[/_public/schema-org/Relation/has/has_department.public|has_department.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_department.internal|has_department.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_department.protect|has_department.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_department.private|has_department.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_department.personal|has_department.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_department.secret|has_department.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/department :: Organization ] or 
-- [ has_department :: Organization ] 
+- has_department = `=this.dv_has_department`  
+- has_department = `=this.dv_has_department`  
 
 A relationship between an organization and a department of that organization, also described as an organization (allowing different urls, logos, opening hours). For example: a store with a pharmacy, or a bakery with a cafe.
 
 Relation describes that: 
-[ #has_/domain  :: Organization ]
-( #has_/name :: has_department )
-( #has_/range :: Organization )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

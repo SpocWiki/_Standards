@@ -1,5 +1,5 @@
 ---
-dv_has_name_: Belgium
+dv_has_name: Belgium
 dv_has_name_en: Belgium
 dv_has_name_es: Bélgica
 dv_has_name_fr: Belgique
@@ -575,7 +575,7 @@ coordinates_of_westernmost_point: Point(2.545269566 51.089449723)
 
 # [[Belgium]] 
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 has_name_en = `=this.dv_has_name_en`
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

@@ -6,6 +6,25 @@ instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 part_of: "[[_Standards/WikiData/WD~galaxy,318]]"
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~star,523]]"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Stellar_association,736194|WD~Stellar_association,736194]]"
+    - "[[/_Standards/Astronomy/Star_System/Star_Cluster/Stellar_Association|Stellar_Association]]"
+    - "[[/_public/Astronomy/Star_System/Star_Cluster/Stellar_Association.public|Stellar_Association.public]]"
+    - "[[/_internal/Astronomy/Star_System/Star_Cluster/Stellar_Association.internal|Stellar_Association.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Star_Cluster/Stellar_Association.protect|Stellar_Association.protect]]"
+    - "[[/_private/Astronomy/Star_System/Star_Cluster/Stellar_Association.private|Stellar_Association.private]]"
+    - "[[/_personal/Astronomy/Star_System/Star_Cluster/Stellar_Association.personal|Stellar_Association.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Star_Cluster/Stellar_Association.secret|Stellar_Association.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Stellar_association,736194|WD~Stellar_association,736194]]"
+  - "[[/_Standards/Astronomy/Star_System/Star_Cluster/Stellar_Association|Stellar_Association]]"
+  - "[[/_public/Astronomy/Star_System/Star_Cluster/Stellar_Association.public|Stellar_Association.public]]"
+  - "[[/_internal/Astronomy/Star_System/Star_Cluster/Stellar_Association.internal|Stellar_Association.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Star_Cluster/Stellar_Association.protect|Stellar_Association.protect]]"
+  - "[[/_private/Astronomy/Star_System/Star_Cluster/Stellar_Association.private|Stellar_Association.private]]"
+  - "[[/_personal/Astronomy/Star_System/Star_Cluster/Stellar_Association.personal|Stellar_Association.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Star_Cluster/Stellar_Association.secret|Stellar_Association.secret]]"
 ---
 
 # [[Stellar_Association]] 

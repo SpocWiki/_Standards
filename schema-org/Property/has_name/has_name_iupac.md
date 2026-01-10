@@ -30,16 +30,18 @@ type: Pred_Text
 
 Predicate to describe the Text of MolecularEntity.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/name_/iupac :: Text ] or 
+- [has_/name_/iupac :: Text ] 
 - [ has_name_iupac :: Text ] 
 
 Systematic method of naming chemical compounds as recommended by the International Union of Pure and Applied Chemistry (IUPAC).
 
 Predicated describes that: 
-[ #has_/domain  :: MolecularEntity ]
+
+#has_/domain  :: MolecularEntity  
+
 ( #has_/name :: has_name_iupac )
 ( #has_/range :: Text )
 

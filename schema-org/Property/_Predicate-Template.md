@@ -5,49 +5,73 @@ aliases:
   - label
   - has_label_snail
   - _Predicate-Template
-  - ' Predicate-Template'
+  - " Predicate-Template"
 confidential: public
 cssclasses:
   - Predicate
   - Count
 draft: false
 enumerationtype:
-  '{ enumerationtype: }': ''
+  "{ enumerationtype: }": ""
 equivalent_class:
-  '{ equivalentProperty: }': ''
-expiryDate: ''
+  "{ equivalentProperty: }": ""
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-  - '{ label_snail: }': ''
-layout: ''
+  - "{ label_snail: }": ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 superseded_by:
-  '{ supersededBy: }': ''
+  "{ supersededBy: }": ""
 supersedes:
-  '{ supersedes: }': ''
+  "{ supersedes: }": ""
 tags:
   - class/Property
   - schema-org/Property
 title:
-  '{ has_label_snail: }': ''
+  "{ has_label_snail: }": ""
 type: Predicate
+dv_domain: "{{domainIncludes}}"
+dv_name: "{{has_label_snail}}"
+dv_range: "{{rangeIncludes}}"
+dv_inverse_of: "{{inverseOf}}"
+dv_sub_property_of: "{{subPropertyOf}}"
+dv_sub_properties: "{{subproperties}}"
+dv_is_part_of: "{{isPartOf}}"
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/_Predicate-Template|_Predicate-Template]]"
+    - "[[/_public/schema-org/Property/_Predicate-Template.public|_Predicate-Template.public]]"
+    - "[[/_internal/schema-org/Property/_Predicate-Template.internal|_Predicate-Template.internal]]"
+    - "[[/_protect/schema-org/Property/_Predicate-Template.protect|_Predicate-Template.protect]]"
+    - "[[/_private/schema-org/Property/_Predicate-Template.private|_Predicate-Template.private]]"
+    - "[[/_personal/schema-org/Property/_Predicate-Template.personal|_Predicate-Template.personal]]"
+    - "[[/_secret/schema-org/Property/_Predicate-Template.secret|_Predicate-Template.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/_Predicate-Template|_Predicate-Template]]"
+  - "[[/_public/schema-org/Property/_Predicate-Template.public|_Predicate-Template.public]]"
+  - "[[/_internal/schema-org/Property/_Predicate-Template.internal|_Predicate-Template.internal]]"
+  - "[[/_protect/schema-org/Property/_Predicate-Template.protect|_Predicate-Template.protect]]"
+  - "[[/_private/schema-org/Property/_Predicate-Template.private|_Predicate-Template.private]]"
+  - "[[/_personal/schema-org/Property/_Predicate-Template.personal|_Predicate-Template.personal]]"
+  - "[[/_secret/schema-org/Property/_Predicate-Template.secret|_Predicate-Template.secret]]"
 ---
 
-[domain::{{domainIncludes}}]
-(name::{{has_label_snail}})
-(range::{{rangeIncludes}})
+domain = `=this.dv_domain` 
+name = `=this.dv_name` 
+range = `=this.dv_range` 
 
 {{comment}}
 
-[inverse_of::{{inverseOf}}]
-[sub_property_of::{{subPropertyOf}}]
-[sub_properties::{{subproperties}}]
+inverse_of = `=this.dv_inverse_of` 
+sub_property_of = `=this.dv_sub_property_of` 
+sub_properties = `=this.dv_sub_properties` 
 
-[is_part_of::{{isPartOf}}]
+is_part_of = `=this.dv_is_part_of` 
 
 
 ## Confidential Links & Embeds: 

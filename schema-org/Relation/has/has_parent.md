@@ -32,13 +32,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/parent :: Person ] or 
+- [has_/parent :: Person ] 
 - [ has_parent :: Person ] 
 
 A parent of this person.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_parent )
 ( #has_/range :: Person )
 

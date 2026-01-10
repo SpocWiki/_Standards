@@ -19,9 +19,9 @@ argument_of_periapsis: 29.124
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mercury%20symbol%20%28fixed%20width%29.svg
 child_astronomical_body:
   - "[[_Standards/WikiData/WD~Mercury's_moon,1349809]]"
-  - '[[_Standards/WikiData/WD~hermeocentric_orbit,3884975]]'
-  - '[[_Standards/WikiData/WD~hermeosynchronous_orbit,3884976]]'
-  - '[[_Standards/WikiData/WD~hermeostationary_orbit,3884977]]'
+  - "[[_Standards/WikiData/WD~hermeocentric_orbit,3884975]]"
+  - "[[_Standards/WikiData/WD~hermeosynchronous_orbit,3884976]]"
+  - "[[_Standards/WikiData/WD~hermeostationary_orbit,3884977]]"
 Commons_category: Mercury (planet)
 Commons_gallery: Mercury (planet)
 declination: 61.414
@@ -29,35 +29,35 @@ demonym:
   - Mercurien
 density: 5.427
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 Dewey_Decimal_Classification: 523.41
 diameter: 4878
-different_from: '[[_Standards/WikiData/WD~Merkury,11777485]]'
+different_from: "[[_Standards/WikiData/WD~Merkury,11777485]]"
 discoverer_or_inventor: http://www.wikidata.org/.well-known/genid/be38fcb73a8fa315b86ae4208cb28647
 distance_from_Earth:
   - 82000000
   - 217000000
 flattening: 0
-geography_of_topic: '[[_Standards/WikiData/WD~surface_of_Mercury,12046610]]'
+geography_of_topic: "[[_Standards/WikiData/WD~surface_of_Mercury,12046610]]"
 has_characteristic: "[[_Standards/WikiData/WD~Mercury's_magnetic_field,1752971]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~atmosphere_of_Mercury,245809]]'
+  - "[[_Standards/WikiData/WD~atmosphere_of_Mercury,245809]]"
 has_use:
-  - '[[_Standards/WikiData/WD~colonization_of_Mercury,1140353]]'
-highest_point: '[[_Standards/WikiData/WD~Caloris_Montes,31340]]'
+  - "[[_Standards/WikiData/WD~colonization_of_Mercury,1140353]]"
+highest_point: "[[_Standards/WikiData/WD~Caloris_Montes,31340]]"
 Iconclass_notation: 24C14
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mercury%20in%20color%20-%20Prockter07%20centered.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248]]'
-  - '[[_Standards/WikiData/WD~inferior_planet,3901935]]'
+  - "[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248]]"
+  - "[[_Standards/WikiData/WD~inferior_planet,3901935]]"
 IPA_transcription: mɛʁˈkuːɐ̯
-locations: '[[_Standards/WikiData/WD~inner_Solar_System,7879772]]'
+locations: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
 longitude_of_ascending_node: 48.33076593
 magnetic_moment: 40000000000000000000
 mass: 330
@@ -65,15 +65,15 @@ mean_anomaly: 174.796
 MeSH_tree_code:
   - G01.060.075.730.700.762
 named_after:
-  - '[[_Standards/WikiData/WD~Mercury,1150]]'
-  - '[[_Standards/WikiData/WD~Hermes,41484]]'
+  - "[[_Standards/WikiData/WD~Mercury,1150]]"
+  - "[[_Standards/WikiData/WD~Hermes,41484]]"
 OmegaWiki_Defined_Meaning: 7982
 orbital_eccentricity: 0.20563593
 orbital_inclination: 7.00497902
 orbital_period: 87.969
 P8189: 987007565662005100
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-part_of: '[[_Standards/WikiData/WD~inner_Solar_System,7879772]]'
+parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
+part_of: "[[_Standards/WikiData/WD~inner_Solar_System,7879772]]"
 periapsis:
   - 46001009
   - 0.3074995
@@ -91,8 +91,8 @@ site_of_astronomical_discovery: http://www.wikidata.org/.well-known/genid/93e0be
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Mercury%28Planet%29.ogg
 Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/mercury
 studied_by:
-  - '[[_Standards/WikiData/WD~exploration_of_Mercury,1188264]]'
-  - '[[_Standards/WikiData/WD~hermeology,131627345]]'
+  - "[[_Standards/WikiData/WD~exploration_of_Mercury,1188264]]"
+  - "[[_Standards/WikiData/WD~hermeology,131627345]]"
 surface_gravity: 3.7278
 synodic_period: 115.88
 temperature:
@@ -100,11 +100,11 @@ temperature:
   - 700
   - 440
 time_of_discovery_or_invention: http://www.wikidata.org/.well-known/genid/7d28dbbd6f704d1f9318f9cac0de74ca
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Mercury_(planet),11239109]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Mercury_(planet),11239109]]"
 UMLS_CUI: C0242749
 Unicode_character: ☿
 volume_as_quantity: 60830000000
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Mercury,30597834]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mercury,30597834]]"
 Wolfram_Language_entity_code: Entity["Planet", "Mercury"]
 confidential: private
 cssclasses:
@@ -114,7 +114,34 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: ''
+expiryDate: ""
+dv_is_:
+  different_from:
+    - "[[../../WikiData/WD~Mercury,925]]"
+    - "[[_Standards/WikiData/WD~Mercury,1150]]"
+    - "[[../../Chemistry/Chemical_Element/Group-12-Zinc/Mercury]]"
+  same_as:
+    - "[[../../WikiData/WD~Mercury,308]]"
+    - "[[/_Standards/Astronomy/Solar_System/Mercury(Planet)|Mercury(Planet)]]"
+    - "[[/_public/Astronomy/Solar_System/Mercury(Planet).public|Mercury(Planet).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Mercury(Planet).internal|Mercury(Planet).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Mercury(Planet).protect|Mercury(Planet).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Mercury(Planet).private|Mercury(Planet).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Mercury(Planet).personal|Mercury(Planet).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Mercury(Planet).secret|Mercury(Planet).secret]]"
+dv_is_different_from:
+  - "[[../../WikiData/WD~Mercury,925]]"
+  - "[[_Standards/WikiData/WD~Mercury,1150]]"
+  - "[[../../Chemistry/Chemical_Element/Group-12-Zinc/Mercury]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Mercury,308]]"
+  - "[[/_Standards/Astronomy/Solar_System/Mercury(Planet)|Mercury(Planet)]]"
+  - "[[/_public/Astronomy/Solar_System/Mercury(Planet).public|Mercury(Planet).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Mercury(Planet).internal|Mercury(Planet).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Mercury(Planet).protect|Mercury(Planet).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Mercury(Planet).private|Mercury(Planet).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Mercury(Planet).personal|Mercury(Planet).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Mercury(Planet).secret|Mercury(Planet).secret]]"
 ---
 
 # [[Mercury(Planet)]]]

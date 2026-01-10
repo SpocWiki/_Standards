@@ -9,21 +9,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - list_item
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_list_item Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_list_item Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Class/is_a_/Intangible]]]"
+  same_as:
+    - "[[/_Standards/schema-org/Collection/list_item|list_item]]"
+    - "[[/_public/schema-org/Collection/list_item.public|list_item.public]]"
+    - "[[/_internal/schema-org/Collection/list_item.internal|list_item.internal]]"
+    - "[[/_protect/schema-org/Collection/list_item.protect|list_item.protect]]"
+    - "[[/_private/schema-org/Collection/list_item.private|list_item.private]]"
+    - "[[/_personal/schema-org/Collection/list_item.personal|list_item.personal]]"
+    - "[[/_secret/schema-org/Collection/list_item.secret|list_item.secret]]"
+dv_has_:
+  sub_classes: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../Class/is_a_/Intangible]]]"
+dv_has_sub_classes: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Collection/list_item|list_item]]"
+  - "[[/_public/schema-org/Collection/list_item.public|list_item.public]]"
+  - "[[/_internal/schema-org/Collection/list_item.internal|list_item.internal]]"
+  - "[[/_protect/schema-org/Collection/list_item.protect|list_item.protect]]"
+  - "[[/_private/schema-org/Collection/list_item.private|list_item.private]]"
+  - "[[/_personal/schema-org/Collection/list_item.personal|list_item.personal]]"
+  - "[[/_secret/schema-org/Collection/list_item.secret|list_item.secret]]"
 ---
 
 Class of all list_items.
@@ -33,12 +57,11 @@ Tag Instances like this:
 
 An list item, e.g. a step in a checklist or how-to description.
 
-[ #is_/sub_class_of ::[[../Class/is_a_/Intangible]]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ] ]
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

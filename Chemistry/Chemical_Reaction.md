@@ -5,26 +5,45 @@ aliases:
   - Chemical_Reaction
   - Chemical Reaction
 has_id_wikidata: Q36534
-has_effect: '[[_Standards/WikiData/WD~product,542929]]'
+has_effect: "[[_Standards/WikiData/WD~product,542929]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_list: '[[_Standards/WikiData/WD~list_of_organic_reactions,1781269]]'
-subclass_of: '[[../WikiData/WD~chemical_process,2281940]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+has_list: "[[_Standards/WikiData/WD~list_of_organic_reactions,1781269]]"
+subclass_of: "[[../WikiData/WD~chemical_process,2281940]]"
 uses:
-  - '[[_Standards/WikiData/WD~reactant,12800011]]'
-  - '[[_Standards/WikiData/WD~chemical_component,20026787]]'
-part_of: '[[_Standards/WikiData/WD~chemical_system,28843570]]'
+  - "[[_Standards/WikiData/WD~reactant,12800011]]"
+  - "[[_Standards/WikiData/WD~chemical_component,20026787]]"
+part_of: "[[_Standards/WikiData/WD~chemical_system,28843570]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~left_side_of_reaction,96483149]]'
-  - '[[_Standards/WikiData/WD~right_side_of_reaction,96483162]]'
+  - "[[_Standards/WikiData/WD~left_side_of_reaction,96483149]]"
+  - "[[_Standards/WikiData/WD~right_side_of_reaction,96483162]]"
 OmegaWiki_Defined_Meaning: 555
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ThermiteFe2O3.JPG
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Triethyl%20borate.ogv
-P8189: 987007285072105171
+P8189: 987007285072105200
 Commons_category: Chemical reactions
 subreddit: chemicalreactiongifs
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Chemical_reaction,36534|WD~Chemical_reaction,36534]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction|Chemical_Reaction]]"
+    - "[[/_public/Chemistry/Chemical_Reaction.public|Chemical_Reaction.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction.internal|Chemical_Reaction.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction.protect|Chemical_Reaction.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction.private|Chemical_Reaction.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction.personal|Chemical_Reaction.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction.secret|Chemical_Reaction.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Chemical_reaction,36534|WD~Chemical_reaction,36534]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction|Chemical_Reaction]]"
+  - "[[/_public/Chemistry/Chemical_Reaction.public|Chemical_Reaction.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction.internal|Chemical_Reaction.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction.protect|Chemical_Reaction.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction.private|Chemical_Reaction.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction.personal|Chemical_Reaction.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction.secret|Chemical_Reaction.secret]]"
 ---
 
 # [[Chemical_Reaction]] 

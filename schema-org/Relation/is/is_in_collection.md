@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/in_collection :: [Thing](../../../Class/Thing.md) ] or 
+- [is_/in_collection :: [Thing](../../../Class/Thing.md) ] 
 - [ is_in_collection :: [Thing](../../../Class/Thing.md) ] 
 
 A sub property of object. The collection target of the action.
 
 Relation describes that: 
-[ #has_/domain  :: UpdateAction ]
+
+#has_/domain  :: UpdateAction  
+
 ( #has_/name :: is_in_collection )
 ( #has_/range :: Thing )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

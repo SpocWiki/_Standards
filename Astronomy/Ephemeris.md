@@ -27,6 +27,25 @@ Nomenclature_for_Museum_Cataloging: "15069"
 Commons_gallery: Ephemeris
 Commons_category: Ephemeris
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tablas%20alfonsies.jpg
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Ephemeris,120200|WD~Ephemeris,120200]]"
+    - "[[/_Standards/Astronomy/Ephemeris|Ephemeris]]"
+    - "[[/_public/Astronomy/Ephemeris.public|Ephemeris.public]]"
+    - "[[/_internal/Astronomy/Ephemeris.internal|Ephemeris.internal]]"
+    - "[[/_protect/Astronomy/Ephemeris.protect|Ephemeris.protect]]"
+    - "[[/_private/Astronomy/Ephemeris.private|Ephemeris.private]]"
+    - "[[/_personal/Astronomy/Ephemeris.personal|Ephemeris.personal]]"
+    - "[[/_secret/Astronomy/Ephemeris.secret|Ephemeris.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Ephemeris,120200|WD~Ephemeris,120200]]"
+  - "[[/_Standards/Astronomy/Ephemeris|Ephemeris]]"
+  - "[[/_public/Astronomy/Ephemeris.public|Ephemeris.public]]"
+  - "[[/_internal/Astronomy/Ephemeris.internal|Ephemeris.internal]]"
+  - "[[/_protect/Astronomy/Ephemeris.protect|Ephemeris.protect]]"
+  - "[[/_private/Astronomy/Ephemeris.private|Ephemeris.private]]"
+  - "[[/_personal/Astronomy/Ephemeris.personal|Ephemeris.personal]]"
+  - "[[/_secret/Astronomy/Ephemeris.secret|Ephemeris.secret]]"
 ---
 
 # [[Ephemeris]] 

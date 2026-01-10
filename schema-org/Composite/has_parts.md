@@ -35,20 +35,21 @@ type: Predi_Relation
 Indicates an item or CreativeWork that is part of this item, or CreativeWork (in some sense).
 
 Use it like this: 
-- [ #has_/parts :: CreativeWork ] or 
+- [has_/parts :: CreativeWork ] 
 - [ has_parts :: CreativeWork ] 
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_parts )
 ( #has_/range :: [[../../Society/Communication/Media/Creative_Work|CreativeWork]] )
 
 #is_/inverse_of  :: [[is_part_of|is_part_of]]   
 
-[ #has_/sub_properties :: [ [[has_contained_season|containsSeason]], [[has_episode|episode]], [[has_toc_entry|tocEntry]] ] ]
-[ #has_/sub_properties :: [ [[has_contained_season|containsSeason]], [[has_episode|episode]], [[has_toc_entry|tocEntry]] ] ]
+#has_/sub_properties :: [ [[has_contained_season|containsSeason]], [[has_episode|episode]], [[has_toc_entry|tocEntry]] ]  
 
-
+#has_/sub_properties :: [ [[has_contained_season|containsSeason]], [[has_episode|episode]], [[has_toc_entry|tocEntry]] ]  
 
 `$=dv.current().has_sub_properties`
 `$=dv.current().has_sub_properties`

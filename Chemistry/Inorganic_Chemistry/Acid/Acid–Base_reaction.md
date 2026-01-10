@@ -8,6 +8,25 @@ has_characteristic: "[[_Standards/WikiData/WD~acid_base_homeostasis,3275718]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Acids_and_bases,10972149]]"
 subclass_of: "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
 Commons_category: Acid-base reactions
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Acid–base_reaction,378751]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction|Acid–Base_reaction]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.public|Acid–Base_reaction.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.internal|Acid–Base_reaction.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.protect|Acid–Base_reaction.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.private|Acid–Base_reaction.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.personal|Acid–Base_reaction.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.secret|Acid–Base_reaction.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Acid–base_reaction,378751]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction|Acid–Base_reaction]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.public|Acid–Base_reaction.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.internal|Acid–Base_reaction.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.protect|Acid–Base_reaction.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.private|Acid–Base_reaction.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.personal|Acid–Base_reaction.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.secret|Acid–Base_reaction.secret]]"
 ---
 
 # [[Acid–Base_reaction]] 

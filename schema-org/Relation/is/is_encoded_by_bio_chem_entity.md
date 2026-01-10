@@ -26,21 +26,22 @@ title: is_encoded_by_bio_chem_entity
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending:]
+#is_/part_of :: pending: 
 
 Use it like this: 
-- [ #is_/encoded_by_bio_chem_entity :: Gene] or 
+- [is_/encoded_by_bio_chem_entity :: Gene] 
 - [ is_encoded_by_bio_chem_entity :: Gene] 
 
 Another BioChemEntity encoding by this one.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity]
+
+#has_/domain  :: BioChemEntity 
+
 ( #has_/name :: is_encoded_by_bio_chem_entity)
 ( #has_/range :: Gene)
 
-[ #is_/inverse_of  :: encodesBioChemEntity]
-
+#is_/inverse_of  :: encodesBioChemEntity 
 
 ## Confidential Links & Embeds: 
 

@@ -6,14 +6,14 @@ aliases:
   - Quantum Chemistry
 has_id_wikidata: Q188403
 instance_of:
-  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-  - '[[_Standards/WikiData/WD~science,336]]'
-  - '[[_Standards/WikiData/WD~quantum,46344]]'
-practiced_by: '[[_Standards/WikiData/WD~quantum_chemist,66738131]]'
+  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+  - "[[_Standards/WikiData/WD~science,336]]"
+  - "[[_Standards/WikiData/WD~quantum,46344]]"
+practiced_by: "[[_Standards/WikiData/WD~quantum_chemist,66738131]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486]]'
-  - '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
-part_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
+  - "[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486]]"
+  - "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
+part_of: "[[_Standards/WikiData/WD~chemistry,2329]]"
 OmegaWiki_Defined_Meaning: 795559
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Butadien4.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Kimika%20kuantiko.wav
@@ -23,6 +23,25 @@ Stack_Exchange_tag:
 Commons_category: Quantum chemistry
 GitHub_topic: quantum-chemistry
 PhilPapers_topic: quantum-chemistry
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Quantum_chemistry,188403|WD~Quantum_chemistry,188403]]"
+    - "[[/_Standards/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry|Quantum_Chemistry]]"
+    - "[[/_public/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.public|Quantum_Chemistry.public]]"
+    - "[[/_internal/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.internal|Quantum_Chemistry.internal]]"
+    - "[[/_protect/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.protect|Quantum_Chemistry.protect]]"
+    - "[[/_private/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.private|Quantum_Chemistry.private]]"
+    - "[[/_personal/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.personal|Quantum_Chemistry.personal]]"
+    - "[[/_secret/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.secret|Quantum_Chemistry.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Quantum_chemistry,188403|WD~Quantum_chemistry,188403]]"
+  - "[[/_Standards/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry|Quantum_Chemistry]]"
+  - "[[/_public/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.public|Quantum_Chemistry.public]]"
+  - "[[/_internal/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.internal|Quantum_Chemistry.internal]]"
+  - "[[/_protect/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.protect|Quantum_Chemistry.protect]]"
+  - "[[/_private/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.private|Quantum_Chemistry.private]]"
+  - "[[/_personal/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.personal|Quantum_Chemistry.personal]]"
+  - "[[/_secret/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.secret|Quantum_Chemistry.secret]]"
 ---
 
 # [[Quantum_Chemistry]] 

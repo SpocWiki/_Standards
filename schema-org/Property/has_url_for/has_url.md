@@ -9,21 +9,48 @@ cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - url
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_url_for_url
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Url
 title: has_url_for_url
 type: Predi_Url
+dv_has_:
+  url: URL
+  domain: "[Thing](../../Class/Thing.md)"
+dv_has_url: URL
+dv_#has_:
+  name: has_url_for_url
+  range: URL
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_url_for/has_url|has_url]]"
+    - "[[/_public/schema-org/Property/has_url_for/has_url.public|has_url.public]]"
+    - "[[/_internal/schema-org/Property/has_url_for/has_url.internal|has_url.internal]]"
+    - "[[/_protect/schema-org/Property/has_url_for/has_url.protect|has_url.protect]]"
+    - "[[/_private/schema-org/Property/has_url_for/has_url.private|has_url.private]]"
+    - "[[/_personal/schema-org/Property/has_url_for/has_url.personal|has_url.personal]]"
+    - "[[/_secret/schema-org/Property/has_url_for/has_url.secret|has_url.secret]]"
+dv_has_domain: "[Thing](../../Class/Thing.md)"
+dv_has_name: has_url_for_url
+dv_has_range: URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_url_for/has_url|has_url]]"
+  - "[[/_public/schema-org/Property/has_url_for/has_url.public|has_url.public]]"
+  - "[[/_internal/schema-org/Property/has_url_for/has_url.internal|has_url.internal]]"
+  - "[[/_protect/schema-org/Property/has_url_for/has_url.protect|has_url.protect]]"
+  - "[[/_private/schema-org/Property/has_url_for/has_url.private|has_url.private]]"
+  - "[[/_personal/schema-org/Property/has_url_for/has_url.personal|has_url.personal]]"
+  - "[[/_secret/schema-org/Property/has_url_for/has_url.secret|has_url.secret]]"
 ---
 
 # [[has_url]] 
@@ -36,15 +63,17 @@ It is used when the item is described on multiple websites, and you want to expl
 It is common that e.g. Companies and Brands hog their name on any available Platform, e.g. Facebook, Instagram, Twitter, Google, Amazon etc. 
 
 Use it like this: 
-- [ #has_/url :: URL ] or 
-- [ has_url :: URL ] 
+- has_url = `=this.dv_has_url`  
+- has_url = `=this.dv_has_url`  
 
 URL of the item.
 
 Predicate describes that: 
-[ #has_/domain  :: [Thing](../../Class/Thing.md) ]
-( #has_/name :: has_url_for_url )
-( #has_/range :: URL )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

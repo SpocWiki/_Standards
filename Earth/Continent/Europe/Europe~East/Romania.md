@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: ROMANIA
 dv_Telephone: 40
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Romania
+dv_has_name: Romania
 dv_has_name_en: Romania
 dv_has_name_es: Rumania
 dv_has_name_fr: Roumanie
@@ -533,7 +533,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Romania ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

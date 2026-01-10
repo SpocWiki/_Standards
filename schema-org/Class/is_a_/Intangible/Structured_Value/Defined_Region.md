@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - defined_region
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_defined_region Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_defined_region Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../StructuredValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region|Defined_Region]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.public|Defined_Region.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.internal|Defined_Region.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.protect|Defined_Region.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.private|Defined_Region.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.personal|Defined_Region.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.secret|Defined_Region.secret]]"
+dv_has_:
+  properties: "[ additionalType, addressCountry, addressRegion, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode, postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_properties: "[ additionalType, addressCountry, addressRegion, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode, postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region|Defined_Region]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.public|Defined_Region.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.internal|Defined_Region.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.protect|Defined_Region.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.private|Defined_Region.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.personal|Defined_Region.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.secret|Defined_Region.secret]]"
 ---
 
 Class of all defined_regions.
@@ -32,7 +56,7 @@ Class of all defined_regions.
 Tag Instances like this: 
 #is_a_/defined_region
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 A DefinedRegion is a geographic area defined by potentially arbitrary (rather than political, administrative or natural geographical) criteria. Properties are provided for defining a region by reference to sets of postal codes.
 
@@ -48,10 +72,9 @@ PostalCode Set: { [94000-94585], [97000, 97999], [13000, 13599]}
 { [12345, 12345], [78945, 78945], }
 Region = state, canton, prefecture, autonomous community...
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, addressCountry, addressRegion, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode, postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

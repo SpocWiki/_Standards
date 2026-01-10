@@ -105,6 +105,84 @@ Wolfram_Language_entity_code: Entity["Mineral", "Zinc"]
 ZVG_number:
   - 500052
   - 8250
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Zinc,758]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Zinc|Zinc]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.public|Zinc.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.internal|Zinc.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.protect|Zinc.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.private|Zinc.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.personal|Zinc.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.secret|Zinc.secret]]"
+  part_of: "[[../Group-12-Zinc]]]"
+dv_has_:
+  name_:
+    group: Group-12-Zinc
+    en: Zinc
+    de: Zink
+    abbreviated: Zn
+  value_for_:
+    weight_:
+      u: 65.39
+    radius: 1.53
+    volume_:
+      ccm_:
+        mol: 9.2
+    unknown2: 1.25
+    radius_:
+      nano_:
+        m: 9.394
+    electronegativity: 1.6
+    density: 7.14
+    temperature_:
+      melt_:
+        c: 419.58
+      boil_:
+        c: 907
+    capacity_:
+      heat: 0.39
+    conductivity_:
+      heat: 1.16
+    enthalpy: 7.322
+    energy_:
+      form_:
+        kj_:
+          mol: 115.3
+  number_of_:
+    period: 4
+    group: 12
+    electrons: 30
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Zinc,758]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Zinc|Zinc]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.public|Zinc.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.internal|Zinc.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.protect|Zinc.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.private|Zinc.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.personal|Zinc.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Zinc.secret|Zinc.secret]]"
+dv_has_name_group: Group-12-Zinc
+dv_is_part_of: "[[../Group-12-Zinc]]]"
+dv_has_name_en: Zinc
+dv_has_name_de: Zink
+dv_has_value_for_weight_u: 65.39
+dv_has_value_for_radius: 1.53
+dv_has_value_for_volume_ccm_mol: 9.2
+dv_has_value_for_unknown2: 1.25
+dv_has_value_for_radius_nano_m: 9.394
+dv_has_value_for_electronegativity: 1.6
+dv_has_value_for_density: 7.14
+dv_has_value_for_temperature_melt_c: 419.58
+dv_has_value_for_temperature_boil_c: 907
+dv_has_value_for_capacity_heat: 0.39
+dv_has_value_for_conductivity_heat: 1.16
+dv_has_value_for_enthalpy: 7.322
+dv_has_value_for_energy_form_kj_mol: 115.3
+dv_has_number_of_period: 4
+dv_has_number_of_group: 12
+dv_has_name_abbreviated: Zn
+dv_has_number_of_electrons: 30
 ---
 
 # [[Zinc]] 
@@ -112,34 +190,41 @@ ZVG_number:
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Zinc,758]] 
 
-[GroupName::Group-12-Zinc]
-Group::[[../Group-12-Zinc]]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Zinc]
-[#has_/name_/de::Zink]
-[#has_/value_for_/weight_/u::65.39]
-[AtomRadius::1.53]
-[Atom-Vol-ccm-mol::9.2]
-[Unknown2::1.25]
-[#has_/value_for_/radius_/nano_/m::9.394]
-[Electronegative::1.6]
-[Density::7.14]
-[#has_/value_for_/temperature_/melt_/c ::419.58]
-[#has_/value_for_/temperature_/boil_/c ::907]
-[HeatCapacity::0.39]
-[HeatConduct::1.16]
-[Enthalpy::7.322]
-[FormEnergy-kj-mol::115.3]
-(PeriodNo::4)
-(GroupNo::12)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 - **Zinc** is more **reactive, conductive, abundant**, and widely used in structural materials and galvanizing steel. 
 - **Tin** is **less reactive, rarer**, and crucial in **electronics and soldering** due to its lower melting point and corrosion resistance.
 
 ## #has_/text_of_/abstract 
 
-> **Zinc** is a chemical element with the symbol (Abbr::Zn) and atomic number (Charge-e::30). 
+> **Zinc** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > Zinc is a slightly brittle metal at room temperature 
 > and has a shiny-greyish appearance when oxidation is removed. 
 > 

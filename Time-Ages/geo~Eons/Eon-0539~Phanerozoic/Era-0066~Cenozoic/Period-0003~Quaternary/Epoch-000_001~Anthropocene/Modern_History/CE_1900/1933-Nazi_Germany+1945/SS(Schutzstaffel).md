@@ -8,56 +8,56 @@ has_id_wikidata: Q44687
 Commons_category: SS (Nazi Germany)
 inception: 1925-04-04T00:00:00Z
 significant_person:
-  - '[[_Standards/WikiData/WD~Rudolf_Höss,76975]]'
-  - '[[_Standards/WikiData/WD~Heinrich_Himmler,43067]]'
-  - '[[_Standards/WikiData/WD~Josef_Mengele,57109]]'
-  - '[[_Standards/WikiData/WD~Reinhard_Heydrich,60039]]'
-different_from: '[[_Standards/WikiData/WD~Sturmabteilung,150793]]'
+  - "[[_Standards/WikiData/WD~Rudolf_Höss,76975]]"
+  - "[[_Standards/WikiData/WD~Heinrich_Himmler,43067]]"
+  - "[[_Standards/WikiData/WD~Josef_Mengele,57109]]"
+  - "[[_Standards/WikiData/WD~Reinhard_Heydrich,60039]]"
+different_from: "[[_Standards/WikiData/WD~Sturmabteilung,150793]]"
 child_organization_or_unit:
-  - '[[_Standards/WikiData/WD~Sicherheitsdienst,153559]]'
-  - '[[_Standards/WikiData/WD~Waffen_SS,153626]]'
-  - '[[_Standards/WikiData/WD~Ordnungspolizei,160552]]'
-  - '[[_Standards/WikiData/WD~Allgemeine_SS,291031]]'
-  - '[[_Standards/WikiData/WD~SS_Totenkopfverbände,312204]]'
-  - '[[_Standards/WikiData/WD~SS_Verfügungstruppe,661889]]'
-  - '[[_Standards/WikiData/WD~Sicherheitspolizei,684065]]'
-  - '[[_Standards/WikiData/WD~SS_Ärztliche_Akademie,120532728]]'
-chairperson: '[[_Standards/WikiData/WD~Reichsführer_SS,162312]]'
+  - "[[_Standards/WikiData/WD~Sicherheitsdienst,153559]]"
+  - "[[_Standards/WikiData/WD~Waffen_SS,153626]]"
+  - "[[_Standards/WikiData/WD~Ordnungspolizei,160552]]"
+  - "[[_Standards/WikiData/WD~Allgemeine_SS,291031]]"
+  - "[[_Standards/WikiData/WD~SS_Totenkopfverbände,312204]]"
+  - "[[_Standards/WikiData/WD~SS_Verfügungstruppe,661889]]"
+  - "[[_Standards/WikiData/WD~Sicherheitspolizei,684065]]"
+  - "[[_Standards/WikiData/WD~SS_Ärztliche_Akademie,120532728]]"
+chairperson: "[[_Standards/WikiData/WD~Reichsführer_SS,162312]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~paramilitary_organization,207320]]'
-  - '[[_Standards/WikiData/WD~military_organization,15627509]]'
-  - '[[_Standards/WikiData/WD~squadron,24047813]]'
-house_publication: '[[_Standards/WikiData/WD~Das_Schwarze_Korps,209804]]'
+  - "[[_Standards/WikiData/WD~paramilitary_organization,207320]]"
+  - "[[_Standards/WikiData/WD~military_organization,15627509]]"
+  - "[[_Standards/WikiData/WD~squadron,24047813]]"
+house_publication: "[[_Standards/WikiData/WD~Das_Schwarze_Korps,209804]]"
 field_of_work:
-  - '[[_Standards/WikiData/WD~oppression,252000]]'
-  - '[[_Standards/WikiData/WD~counter_insurgency,760037]]'
-  - '[[_Standards/WikiData/WD~political_repression,1899269]]'
-  - '[[_Standards/WikiData/WD~war,198]]'
-  - '[[_Standards/WikiData/WD~genocide,41397]]'
-motto: '[[_Standards/WikiData/WD~Meine_Ehre_heißt_Treue,552076]]'
-has_part_s_: '[[_Standards/WikiData/WD~SS_Hauptamt,702882]]'
+  - "[[_Standards/WikiData/WD~oppression,252000]]"
+  - "[[_Standards/WikiData/WD~counter_insurgency,760037]]"
+  - "[[_Standards/WikiData/WD~political_repression,1899269]]"
+  - "[[_Standards/WikiData/WD~war,198]]"
+  - "[[_Standards/WikiData/WD~genocide,41397]]"
+motto: "[[_Standards/WikiData/WD~Meine_Ehre_heißt_Treue,552076]]"
+has_part_s_: "[[_Standards/WikiData/WD~SS_Hauptamt,702882]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_SS_state_The_system_of_German_concentration_camps,1196589]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-owner_of: '[[_Standards/WikiData/WD~Ostindustrie,2035649]]'
+  - "[[_Standards/WikiData/WD~The_SS_state_The_system_of_German_concentration_camps,1196589]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+owner_of: "[[_Standards/WikiData/WD~Ostindustrie,2035649]]"
 replaces:
-  - '[[_Standards/WikiData/WD~Stoßtrupp_Adolf_Hitler,16607081]]'
-  - '[[_Standards/WikiData/WD~Q96680094,96680094]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]'
+  - "[[_Standards/WikiData/WD~Stoßtrupp_Adolf_Hitler,16607081]]"
+  - "[[_Standards/WikiData/WD~Q96680094,96680094]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]"
 headquarters_location:
-  - '[[_Standards/WikiData/WD~Munich,1726]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
+  - "[[_Standards/WikiData/WD~Munich,1726]]"
+  - "[[_Standards/WikiData/WD~Berlin,64]]"
 country:
-  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
-  - '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
-parent_organization_or_unit: '[[_Standards/WikiData/WD~Nazi_Party,7320]]'
+  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
+  - "[[_Standards/WikiData/WD~Weimar_Republic,41304]]"
+parent_organization_or_unit: "[[_Standards/WikiData/WD~Nazi_Party,7320]]"
 member_count: 800000
 director_manager:
-  - '[[_Standards/WikiData/WD~Heinrich_Himmler,43067]]'
-  - '[[_Standards/WikiData/WD~Karl_Hanke,57690]]'
-  - '[[_Standards/WikiData/WD~Julius_Schreck,58046]]'
-  - '[[_Standards/WikiData/WD~Erhard_Heiden,60222]]'
-  - '[[_Standards/WikiData/WD~Joseph_Berchtold,60449]]'
+  - "[[_Standards/WikiData/WD~Heinrich_Himmler,43067]]"
+  - "[[_Standards/WikiData/WD~Karl_Hanke,57690]]"
+  - "[[_Standards/WikiData/WD~Julius_Schreck,58046]]"
+  - "[[_Standards/WikiData/WD~Erhard_Heiden,60222]]"
+  - "[[_Standards/WikiData/WD~Joseph_Berchtold,60449]]"
 BHCL_UUID:
   - b6c017dd-a8c7-4631-a42d-eace6019439e
   - 9151b4a5-25d3-46ed-842c-feb80987e960
@@ -73,13 +73,36 @@ dissolved_abolished_or_demolished_date:
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Schutzstaffel%20Abzeichen.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-H04436%2C%20Klagenfurt%2C%20Adolf%20Hitler%2C%20Ehrenkompanie.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sig%20runes.svg
-ISNI: 0000000115203458
+ISNI: 115203458
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Schutzstaffel,44687|WD~Schutzstaffel,44687]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel)|SS(Schutzstaffel)]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).public|SS(Schutzstaffel).public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).internal|SS(Schutzstaffel).internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).protect|SS(Schutzstaffel).protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).private|SS(Schutzstaffel).private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).personal|SS(Schutzstaffel).personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).secret|SS(Schutzstaffel).secret]]"
+dv_has_:
+  previous_:
+    item: "[[SA(Sturmabteilung)]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Schutzstaffel,44687|WD~Schutzstaffel,44687]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel)|SS(Schutzstaffel)]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).public|SS(Schutzstaffel).public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).internal|SS(Schutzstaffel).internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).protect|SS(Schutzstaffel).protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).private|SS(Schutzstaffel).private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).personal|SS(Schutzstaffel).personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945/SS(Schutzstaffel).secret|SS(Schutzstaffel).secret]]"
+dv_has_previous_item: "[[SA(Sturmabteilung)]]"
 ---
 
 # [[SS(Schutzstaffel)]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Schutzstaffel,44687|WD~Schutzstaffel,44687]] 
-#has_/previous_/item :: [[SA(Sturmabteilung)]]   
+has_previous_item = `=this.dv_has_previous_item` 
 
 ## #has_/text_of_/abstract 
 

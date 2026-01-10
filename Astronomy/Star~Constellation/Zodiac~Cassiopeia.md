@@ -10,25 +10,25 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-named_after: '[[_Standards/WikiData/WD~Cassiopeia,207681]]'
+named_after: "[[_Standards/WikiData/WD~Cassiopeia,207681]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Cassiopeia,8084784]]'
-  - '[[_Standards/WikiData/WD~Q10729046,10729046]]'
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Cassiopeia,8084784]]"
+  - "[[_Standards/WikiData/WD~Q10729046,10729046]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Camelopardalis,8832]]'
-  - '[[_Standards/WikiData/WD~Andromeda,9256]]'
-  - '[[_Standards/WikiData/WD~Lacerta,10430]]'
-  - '[[_Standards/WikiData/WD~Cepheus,10468]]'
-  - '[[_Standards/WikiData/WD~Perseus,10511]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Camelopardalis,8832]]"
+  - "[[_Standards/WikiData/WD~Andromeda,9256]]"
+  - "[[_Standards/WikiData/WD~Lacerta,10430]]"
+  - "[[_Standards/WikiData/WD~Cepheus,10468]]"
+  - "[[_Standards/WikiData/WD~Perseus,10511]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 598
 Commons_gallery: Cassiopeia
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cassiopeia%20constellation%20map.svg
@@ -37,15 +37,44 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CassiopeiaCC.jpg
 Commons_category: Cassiopeia (constellation)
 short_name: Cas
 official_name: Cassiopeia
+dv_SpocWebEntityId: 28100
+dv_#has_:
+  name_:
+    la: Cassiopeia
+    la_:
+      genitive: Cassiopeiae
+    de: Kassiopeia
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cassiopeia,10464|WD~Cassiopeia,10464]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Cassiopeia|Zodiac~Cassiopeia]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Cassiopeia.public|Zodiac~Cassiopeia.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Cassiopeia.internal|Zodiac~Cassiopeia.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Cassiopeia.protect|Zodiac~Cassiopeia.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Cassiopeia.private|Zodiac~Cassiopeia.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Cassiopeia.personal|Zodiac~Cassiopeia.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Cassiopeia.secret|Zodiac~Cassiopeia.secret]]"
+dv_has_name_la: Cassiopeia
+dv_has_name_la_genitive: Cassiopeiae
+dv_has_name_de: Kassiopeia
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cassiopeia,10464|WD~Cassiopeia,10464]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Cassiopeia|Zodiac~Cassiopeia]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Cassiopeia.public|Zodiac~Cassiopeia.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Cassiopeia.internal|Zodiac~Cassiopeia.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Cassiopeia.protect|Zodiac~Cassiopeia.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Cassiopeia.private|Zodiac~Cassiopeia.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Cassiopeia.personal|Zodiac~Cassiopeia.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Cassiopeia.secret|Zodiac~Cassiopeia.secret]]"
 ---
 
 # [[Zodiac~Cassiopeia]] 
 
-[SpocWebEntityId::28100]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Cassiopeia]
-[#has_/name_/la_/genitive::Cassiopeiae]
-[#has_/name_/de::Kassiopeia]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Cassiopeia,10464|WD~Cassiopeia,10464]] 
 

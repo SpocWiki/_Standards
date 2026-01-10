@@ -32,18 +32,19 @@ type: Pred_Text
 Predicate to describe the Text of Order.
 
 Use it like this: 
-- [ #has_/text_of_/order_number :: Text ] or 
+- [has_/text_of_/order_number :: Text ] 
 - [ has_text_of_order_number :: Text ] 
 
 The identifier of the transaction.
 
 Predicated describes that: 
-[ #has_/domain  :: Order ]
+
+#has_/domain  :: Order  
+
 ( #has_/name :: has_text_of_order_number )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

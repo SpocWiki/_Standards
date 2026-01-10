@@ -4,56 +4,56 @@ aliases:
 has_id_wikidata: Q706
 atomic_number: 20
 boiling_point: 1483.85
-canonical_SMILES: '[Ca]'
+canonical_SMILES: "[Ca]"
 CAS_Registry_Number: 7440-70-2
 chemical_formula: Ca
 Commons_category: Calcium
 Commons_gallery: Calcium
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Calcium,84637109]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Calcium,84637109]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 Dewey_Decimal_Classification:
   - 669.725
   - 546.393
   - 572.516
   - 612.3924
-different_from: '[[_Standards/WikiData/WD~serum_calcium,21028902]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
+different_from: "[[_Standards/WikiData/WD~serum_calcium,21028902]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
 DSSTOX_compound_identifier: DTXCID40876145
 EC_number: 231-179-5
 electrical_conductivity: 28200000
 electronegativity: 1
 electron_configuration:
-  - '[Ar] 4s²'
+  - "[Ar] 4s²"
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²
 element_symbol: Ca
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~Chlorella_vulgaris,309972]]'
-  - '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
-  - '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]'
-  - '[[_Standards/WikiData/WD~Chlorella_pyrenoidosa,5102920]]'
-  - '[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]'
-  - '[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]'
-  - '[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]'
-  - '[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]'
-  - '[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]'
-  - '[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]'
-  - '[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]'
-  - '[[_Standards/WikiData/WD~Auxenochlorella_pyrenoidosa,69677118]]'
-  - '[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]'
-  - '[[_Standards/WikiData/WD~cacao,42385]]'
-  - '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
+  - "[[_Standards/WikiData/WD~Chlorella_vulgaris,309972]]"
+  - "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+  - "[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]"
+  - "[[_Standards/WikiData/WD~Chlorella_pyrenoidosa,5102920]]"
+  - "[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]"
+  - "[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]"
+  - "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
+  - "[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]"
+  - "[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]"
+  - "[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]"
+  - "[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]"
+  - "[[_Standards/WikiData/WD~Auxenochlorella_pyrenoidosa,69677118]]"
+  - "[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]"
+  - "[[_Standards/WikiData/WD~cacao,42385]]"
+  - "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
 Gmelin_number: 16277
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Calcium%201.jpg
 InChI: InChI=1S/Ca
 InChIKey: OYPRJOBELJOOCE-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
-  - '[[_Standards/WikiData/WD~essential_medicine,35456]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - "[[_Standards/WikiData/WD~essential_medicine,35456]]"
 ionic_radius:
   - 1
   - 1.12
@@ -66,20 +66,20 @@ MeSH_tree_code:
   - D01.268.552.100
   - D01.552.539.288
   - D23.119.100
-named_after: '[[_Standards/WikiData/WD~lime,250423]]'
+named_after: "[[_Standards/WikiData/WD~lime,250423]]"
 OmegaWiki_Defined_Meaning: 471
 oxidation_state:
   - 1
   - 2
 part_of:
-  - '[[_Standards/WikiData/WD~period_4,239825]]'
-  - '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+  - "[[_Standards/WikiData/WD~period_4,239825]]"
+  - "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 PubChem_CID: 5460341
 Reaxys_registry_number: 4241647
 SpocWebEntityId: 21921
 standard_molar_entropy: 41.6
-subclass_of: '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
-subject_has_role: '[[_Standards/WikiData/WD~essential_medicine,35456]]'
+subclass_of: "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
+subject_has_role: "[[_Standards/WikiData/WD~essential_medicine,35456]]"
 time_of_discovery_or_invention: 1808
 type: Element
 UMLS_CUI: C0006675
@@ -87,6 +87,86 @@ Unicode_character: 鈣
 UNII: SY7Q814VUP
 UNSPSC_Code: 11101511
 ZVG_number: 8160
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Calcium,706]]"
+    - "[[../../../WikiData/WD~Calcium,706|WD~Calcium,706]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium|Calcium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.public|Calcium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.internal|Calcium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.protect|Calcium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.private|Calcium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.personal|Calcium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.secret|Calcium.secret]]"
+  part_of: "[[../Group-02-Earth-Alkaline]]"
+dv_has_:
+  name_:
+    group: Group-02-Earth-Alkaline
+    en: Calcium
+    de: Calcium
+    abbreviated: Ca
+  value_for_:
+    weight_:
+      u: 40.078
+    radius: 2.23
+    volume_:
+      ccm_:
+        mol: 29.9
+    unknown2: 1.74
+    radius_:
+      nano_:
+        m: 6.113
+    electronegativity: 1
+    density: 1.55
+    temperature_:
+      melt_:
+        c: 839
+      boil_:
+        c: 1484
+    capacity_:
+      heat: 0.63
+    conductivity_:
+      heat: 2
+    enthalpy: 8.54
+    energy_:
+      form_:
+        kj_:
+          mol: 153.6
+  number_of_:
+    period: 4
+    group: 2
+    electrons: 20
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Calcium,706]]"
+  - "[[../../../WikiData/WD~Calcium,706|WD~Calcium,706]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium|Calcium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.public|Calcium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.internal|Calcium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.protect|Calcium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.private|Calcium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.personal|Calcium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.secret|Calcium.secret]]"
+dv_has_name_group: Group-02-Earth-Alkaline
+dv_is_part_of: "[[../Group-02-Earth-Alkaline]]"
+dv_has_name_en: Calcium
+dv_has_name_de: Calcium
+dv_has_value_for_weight_u: 40.078
+dv_has_value_for_radius: 2.23
+dv_has_value_for_volume_ccm_mol: 29.9
+dv_has_value_for_unknown2: 1.74
+dv_has_value_for_radius_nano_m: 6.113
+dv_has_value_for_electronegativity: 1
+dv_has_value_for_density: 1.55
+dv_has_value_for_temperature_melt_c: 839
+dv_has_value_for_temperature_boil_c: 1484
+dv_has_value_for_capacity_heat: 0.63
+dv_has_value_for_conductivity_heat: 2
+dv_has_value_for_enthalpy: 8.54
+dv_has_value_for_energy_form_kj_mol: 153.6
+dv_has_number_of_period: 4
+dv_has_number_of_group: 2
+dv_has_name_abbreviated: Ca
+dv_has_number_of_electrons: 20
 ---
 
 # [[Calcium]] 
@@ -94,33 +174,40 @@ ZVG_number: 8160
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Calcium,706]] 
 
-[GroupName::Group-02-Earth-Alkaline]
-Group::[[../Group-02-Earth-Alkaline]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Calcium]
-[#has_/name_/de::Calcium]
-[#has_/value_for_/weight_/u::40.078]
-[AtomRadius::2.23]
-[Atom-Vol-ccm-mol::29.9]
-[Unknown2::1.74]
-[#has_/value_for_/radius_/nano_/m::6.113]
-[Electronegative::1]
-[Density::1.55]
-[#has_/value_for_/temperature_/melt_/c ::839]
-[#has_/value_for_/temperature_/boil_/c ::1484]
-[HeatCapacity::0.63]
-[HeatConduct::2]
-[Enthalpy::8.54]
-[FormEnergy-kj-mol::153.6]
-(PeriodNo::4)
-(GroupNo::2)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Calcium,706|WD~Calcium,706]] 
 
 ## #has_/text_of_/abstract 
 
-> **Calcium** is a chemical element with the symbol (Abbr::Ca) and atomic number (Charge-e::20). 
+> **Calcium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > As an alkaline earth metal, calcium is a reactive metal 
 > that forms a dark oxide-nitride layer when exposed to air. 
 > 

@@ -5,7 +5,7 @@ aliases:
   - S-P-O
   - Claim~Logic
   - Proposition
-  - ''
+  - ""
   - Predicate
 confidential: public
 isDeleted: false
@@ -16,6 +16,25 @@ tags:
   - class/Property
   - schema-org/Property
 type: Meta
+dv_like: this
+dv_has_range: "[[Class/is_a_/Data_Type]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Predicate|Predicate]]"
+    - "[[/_public/schema-org/Predicate.public|Predicate.public]]"
+    - "[[/_internal/schema-org/Predicate.internal|Predicate.internal]]"
+    - "[[/_protect/schema-org/Predicate.protect|Predicate.protect]]"
+    - "[[/_private/schema-org/Predicate.private|Predicate.private]]"
+    - "[[/_personal/schema-org/Predicate.personal|Predicate.personal]]"
+    - "[[/_secret/schema-org/Predicate.secret|Predicate.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Predicate|Predicate]]"
+  - "[[/_public/schema-org/Predicate.public|Predicate.public]]"
+  - "[[/_internal/schema-org/Predicate.internal|Predicate.internal]]"
+  - "[[/_protect/schema-org/Predicate.protect|Predicate.protect]]"
+  - "[[/_private/schema-org/Predicate.private|Predicate.private]]"
+  - "[[/_personal/schema-org/Predicate.personal|Predicate.personal]]"
+  - "[[/_secret/schema-org/Predicate.secret|Predicate.secret]]"
 ---
 
 # [[Predicate]] 
@@ -24,11 +43,11 @@ type: Meta
 
 Class of Predicates; adds [[Property|Properties]] or [[Relation|Relations]] to Notes in the Form of Key: Value Pairs, 
 - either in the Front-Matter [[Property|property]]
-- or in the Text using 2 Colons and either round or square Brackets [ like :: this ]. 
+- or in the Text using 2 Colons and either round or square Brackets like = `=this.dv_like` . 
 These Pairs form Connections/Sentences between the current Note (as the Subject), the Key (as the Verb/Predicate) and the Object (or Value).
 
 #class/Predicate 
-has_range:: [[Class/is_a_/data_type]] 
+has_range = `=this.dv_has_range` 
 
 These S-P-O (Subject-Predicate-Object) Triples are also known as Claims. 
 The current Document/Note is always the (implied) Subject of a Relation or Property/Quantity. 

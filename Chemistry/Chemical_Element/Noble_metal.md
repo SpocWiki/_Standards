@@ -3,16 +3,35 @@ aliases:
   - Noble metal
   - Noble_metal
 has_id_wikidata: Q585302
-has_characteristic: '[[_Standards/WikiData/WD~inertness,262175]]'
-different_from: '[[_Standards/WikiData/WD~precious_metal,271449]]'
-subclass_of: '[[_Standards/WikiData/WD~metal_element,11646938]]'
+has_characteristic: "[[_Standards/WikiData/WD~inertness,262175]]"
+different_from: "[[_Standards/WikiData/WD~precious_metal,271449]]"
+subclass_of: "[[_Standards/WikiData/WD~metal_element,11646938]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~chemical_series,19549]]'
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_series,19549]]"
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Edelmetalle.jpg
 EAGLE_id: material/lod/308
 Biology_Online_Biology_Dictionary_entry: noble-element
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Noble_metal,585302|WD~Noble_metal,585302]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Noble_metal|Noble_metal]]"
+    - "[[/_public/Chemistry/Chemical_Element/Noble_metal.public|Noble_metal.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Noble_metal.internal|Noble_metal.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Noble_metal.protect|Noble_metal.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Noble_metal.private|Noble_metal.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Noble_metal.personal|Noble_metal.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Noble_metal.secret|Noble_metal.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Noble_metal,585302|WD~Noble_metal,585302]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Noble_metal|Noble_metal]]"
+  - "[[/_public/Chemistry/Chemical_Element/Noble_metal.public|Noble_metal.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Noble_metal.internal|Noble_metal.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Noble_metal.protect|Noble_metal.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Noble_metal.private|Noble_metal.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Noble_metal.personal|Noble_metal.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Noble_metal.secret|Noble_metal.secret]]"
 ---
 
 

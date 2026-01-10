@@ -24,16 +24,18 @@ title: has_letterer
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [ #has_/letterer :: Person ] or 
+- [has_/letterer :: Person ] 
 - [ has_letterer :: Person ] 
 
 The individual who adds lettering, including speech balloons and sound effects, to artwork.
 
 Relation describes that: 
-[ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
+
+#has_/domain  :: ComicIssue, ComicStory, VisualArtwork  
+
 ( #has_/name :: has_letterer )
 ( #has_/range :: Person )
 

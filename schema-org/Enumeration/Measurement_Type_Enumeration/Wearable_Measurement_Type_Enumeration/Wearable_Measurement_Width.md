@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_measurement_width
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_measurement_width Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_wearable_measurement_width Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../WearableMeasurementTypeEnumeration]]"
+  enum_of: "[[../WearableMeasurementTypeEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width|Wearable_Measurement_Width]]"
+    - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.public|Wearable_Measurement_Width.public]]"
+    - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.internal|Wearable_Measurement_Width.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.protect|Wearable_Measurement_Width.protect]]"
+    - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.private|Wearable_Measurement_Width.private]]"
+    - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.personal|Wearable_Measurement_Width.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.secret|Wearable_Measurement_Width.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../WearableMeasurementTypeEnumeration]]"
+dv_is_enum_of: "[[../WearableMeasurementTypeEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width|Wearable_Measurement_Width]]"
+  - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.public|Wearable_Measurement_Width.public]]"
+  - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.internal|Wearable_Measurement_Width.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.protect|Wearable_Measurement_Width.protect]]"
+  - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.private|Wearable_Measurement_Width.private]]"
+  - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.personal|Wearable_Measurement_Width.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width.secret|Wearable_Measurement_Width.secret]]"
 ---
 
 Class of all wearable_measurement_widths.
@@ -33,14 +56,13 @@ Class of all wearable_measurement_widths.
 Tag Instances like this: 
 #is_a_/wearable_measurement_width
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Measurement of the width, for example of shoes
 
-[ #is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

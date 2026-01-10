@@ -26,6 +26,25 @@ Commons_gallery: Piscis Austrinus
 Commons_category: Piscis Austrinus
 official_name: Piscis Austrinus
 short_name: PsA
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Piscis_Austrinus,10409]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Piscis_Austrinus|Piscis_Austrinus]]"
+    - "[[/_public/Astronomy/Star~Constellation/Piscis_Austrinus.public|Piscis_Austrinus.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Piscis_Austrinus.internal|Piscis_Austrinus.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Piscis_Austrinus.protect|Piscis_Austrinus.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Piscis_Austrinus.private|Piscis_Austrinus.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Piscis_Austrinus.personal|Piscis_Austrinus.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Piscis_Austrinus.secret|Piscis_Austrinus.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Piscis_Austrinus,10409]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Piscis_Austrinus|Piscis_Austrinus]]"
+  - "[[/_public/Astronomy/Star~Constellation/Piscis_Austrinus.public|Piscis_Austrinus.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Piscis_Austrinus.internal|Piscis_Austrinus.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Piscis_Austrinus.protect|Piscis_Austrinus.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Piscis_Austrinus.private|Piscis_Austrinus.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Piscis_Austrinus.personal|Piscis_Austrinus.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Piscis_Austrinus.secret|Piscis_Austrinus.secret]]"
 ---
 
 # [[Piscis_Austrinus]] 

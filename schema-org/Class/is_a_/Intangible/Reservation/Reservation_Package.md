@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation_package
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_reservation_package Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_reservation_package Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Reservation]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package|Reservation_Package]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.public|Reservation_Package.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.internal|Reservation_Package.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.protect|Reservation_Package.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.private|Reservation_Package.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.personal|Reservation_Package.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.secret|Reservation_Package.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subReservation, subjectOf, totalPrice, underName, url ]"
+dv_is_sub_class_of: "[[../Reservation]]"
+dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subReservation, subjectOf, totalPrice, underName, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package|Reservation_Package]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.public|Reservation_Package.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.internal|Reservation_Package.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.protect|Reservation_Package.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.private|Reservation_Package.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.personal|Reservation_Package.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.secret|Reservation_Package.secret]]"
 ---
 
 Class of all reservation_packages.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 A group of multiple reservations with common values for all sub-reservations.
 
-[ #is_/sub_class_of :: [[../Reservation]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subReservation, subjectOf, totalPrice, underName, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

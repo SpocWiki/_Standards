@@ -403,7 +403,7 @@ dv_ISO4217-currency_country_name: VANUATU
 dv_Telephone: 678
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Vanuatu
+dv_has_name: Vanuatu
 dv_has_name_en: Vanuatu
 dv_has_name_es: Vanuatu
 dv_has_name_fr: Vanuatu
@@ -491,7 +491,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: Vanuatu ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 

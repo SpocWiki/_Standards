@@ -34,10 +34,9 @@ Tag Instances like this:
 
 Neck assessment with clinical examination.
 
-[ #is_/sub_class_of :: [[../PhysicalExam]] ]
+#is_/sub_class_of :: [[../PhysicalExam]]  
 
-[ #is_/enum_of :: [[../PhysicalExam]] ]
-
+#is_/enum_of :: [[../PhysicalExam]]  
 
 ## Confidential Links & Embeds: 
 

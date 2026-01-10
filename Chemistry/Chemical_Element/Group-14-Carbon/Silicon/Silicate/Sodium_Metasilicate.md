@@ -30,6 +30,25 @@ DSSTOX_compound_identifier: DTXCID509669
 chemical_formula: Na₂O₃Si
 Commons_category: Sodium metasilicate
 RTECS_number: VV9275000
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Sodium_metasilicate,425397|WD~Sodium_metasilicate,425397]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate|Sodium_Metasilicate]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.public|Sodium_Metasilicate.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.internal|Sodium_Metasilicate.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.protect|Sodium_Metasilicate.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.private|Sodium_Metasilicate.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.personal|Sodium_Metasilicate.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.secret|Sodium_Metasilicate.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Sodium_metasilicate,425397|WD~Sodium_metasilicate,425397]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate|Sodium_Metasilicate]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.public|Sodium_Metasilicate.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.internal|Sodium_Metasilicate.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.protect|Sodium_Metasilicate.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.private|Sodium_Metasilicate.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.personal|Sodium_Metasilicate.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate/Sodium_Metasilicate.secret|Sodium_Metasilicate.secret]]"
 ---
 
 # [[Sodium_Metasilicate]] 

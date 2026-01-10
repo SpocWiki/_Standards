@@ -27,7 +27,7 @@ title: is_mortgage_domiciled
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/mortgage_domiciled 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 Whether borrower is a resident of the jurisdiction where the property is located.
 
 Predicate describes that: 
-[ #has_/domain  :: MortgageLoan ]
+
+#has_/domain  :: MortgageLoan  
+
 ( #has_/name :: is_mortgage_domiciled )
 ( #has_/range :: Boolean )
 

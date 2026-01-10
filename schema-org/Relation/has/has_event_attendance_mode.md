@@ -29,16 +29,18 @@ title: has_event_attendance_mode
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/event_attendance_mode :: EventAttendanceModeEnumeration ] or 
+- [has_/event_attendance_mode :: EventAttendanceModeEnumeration ] 
 - [ has_event_attendance_mode :: EventAttendanceModeEnumeration ] 
 
 The eventAttendanceMode of an event indicates whether it occurs online, offline, or a mix.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: has_event_attendance_mode )
 ( #has_/range :: EventAttendanceModeEnumeration )
 

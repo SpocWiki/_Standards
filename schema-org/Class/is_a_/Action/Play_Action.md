@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - play_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_play_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_play_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Action]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Play_Action|Play_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Play_Action.public|Play_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Play_Action.internal|Play_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Play_Action.protect|Play_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Play_Action.private|Play_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Play_Action.personal|Play_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Play_Action.secret|Play_Action.secret]]"
+dv_has_:
+  sub_classes: "[ ExerciseAction, PerformAction ]"
+  properties: "[ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_sub_class_of: "[[../Action]]"
+dv_has_sub_classes: "[ ExerciseAction, PerformAction ]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Play_Action|Play_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Play_Action.public|Play_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Play_Action.internal|Play_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Play_Action.protect|Play_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Play_Action.private|Play_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Play_Action.personal|Play_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Play_Action.secret|Play_Action.secret]]"
 ---
 
 Class of all [[play_action]]s.
@@ -38,12 +62,11 @@ Related actions:
 - [[ListenAction]]: Unlike ListenAction (which is under ConsumeAction), PlayAction refers to performing for an audience or at an event, rather than only consuming music.
 - [[WatchAction]]: Unlike WatchAction (which is under ConsumeAction), PlayAction refers to showing/displaying for an audience or at an event, rather than only consuming visual content. 
 
-[ #is_/sub_class_of :: [[../Action]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ ExerciseAction, PerformAction ] ]
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

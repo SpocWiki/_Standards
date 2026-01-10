@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - in_store_only
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_in_store_only Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_in_store_only Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ItemAvailability]]"
+  enum_of: "[[../ItemAvailability]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Item_Availability/In_Store_Only|In_Store_Only]]"
+    - "[[/_public/schema-org/Enumeration/Item_Availability/In_Store_Only.public|In_Store_Only.public]]"
+    - "[[/_internal/schema-org/Enumeration/Item_Availability/In_Store_Only.internal|In_Store_Only.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Item_Availability/In_Store_Only.protect|In_Store_Only.protect]]"
+    - "[[/_private/schema-org/Enumeration/Item_Availability/In_Store_Only.private|In_Store_Only.private]]"
+    - "[[/_personal/schema-org/Enumeration/Item_Availability/In_Store_Only.personal|In_Store_Only.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Item_Availability/In_Store_Only.secret|In_Store_Only.secret]]"
+dv_is_sub_class_of: "[[../ItemAvailability]]"
+dv_is_enum_of: "[[../ItemAvailability]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Item_Availability/In_Store_Only|In_Store_Only]]"
+  - "[[/_public/schema-org/Enumeration/Item_Availability/In_Store_Only.public|In_Store_Only.public]]"
+  - "[[/_internal/schema-org/Enumeration/Item_Availability/In_Store_Only.internal|In_Store_Only.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Item_Availability/In_Store_Only.protect|In_Store_Only.protect]]"
+  - "[[/_private/schema-org/Enumeration/Item_Availability/In_Store_Only.private|In_Store_Only.private]]"
+  - "[[/_personal/schema-org/Enumeration/Item_Availability/In_Store_Only.personal|In_Store_Only.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Item_Availability/In_Store_Only.secret|In_Store_Only.secret]]"
 ---
 
 Class of all in_store_onlys.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 Indicates that the item is available only at physical locations.
 
-[ #is_/sub_class_of :: [[../ItemAvailability]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../ItemAvailability]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

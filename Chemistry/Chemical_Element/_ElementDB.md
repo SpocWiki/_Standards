@@ -1,8 +1,25 @@
 ---
 aliases:
   - _ElementDB
-  - ' ElementDB'
+  - " ElementDB"
 database_plugin: basic
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Element/_ElementDB|_ElementDB]]"
+    - "[[/_public/Chemistry/Chemical_Element/_ElementDB.public|_ElementDB.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/_ElementDB.internal|_ElementDB.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/_ElementDB.protect|_ElementDB.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/_ElementDB.private|_ElementDB.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/_ElementDB.personal|_ElementDB.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/_ElementDB.secret|_ElementDB.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Element/_ElementDB|_ElementDB]]"
+  - "[[/_public/Chemistry/Chemical_Element/_ElementDB.public|_ElementDB.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/_ElementDB.internal|_ElementDB.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/_ElementDB.protect|_ElementDB.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/_ElementDB.private|_ElementDB.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/_ElementDB.personal|_ElementDB.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/_ElementDB.secret|_ElementDB.secret]]"
 ---
 
 ```yaml:dbfolder
@@ -125,12 +142,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Atom-Vol-ccm-mol:
+  has_/value_for_/volume_/ccm_/mol:
     input: number
-    accessorKey: Atom-Vol-ccm-mol
-    label: Atom-Vol-ccm-mol
-    key: Atom-Vol-ccm-mol
-    id: Atom-Vol-ccm-mol
+    accessorKey: has_/value_for_/volume_/ccm_/mol
+    label: has_/value_for_/volume_/ccm_/mol
+    key: has_/value_for_/volume_/ccm_/mol
+    id: has_/value_for_/volume_/ccm_/mol
     position: 12
     skipPersist: false
     isHidden: false
@@ -315,12 +332,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  FormEnergy-kj-mol:
+  has_/value_for_/energy_/form_/kj_/mol:
     input: number
-    accessorKey: FormEnergy-kj-mol
-    label: FormEnergy-kj-mol
-    key: FormEnergy-kj-mol
-    id: FormEnergy-kj-mol
+    accessorKey: has_/value_for_/energy_/form_/kj_/mol
+    label: has_/value_for_/energy_/form_/kj_/mol
+    key: has_/value_for_/energy_/form_/kj_/mol
+    id: has_/value_for_/energy_/form_/kj_/mol
     position: 21
     skipPersist: false
     isHidden: false

@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Ionization_energy,483769]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy|Ionization_Energy]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.public|Ionization_Energy.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.internal|Ionization_Energy.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.protect|Ionization_Energy.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.private|Ionization_Energy.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.personal|Ionization_Energy.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.secret|Ionization_Energy.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Ionization_energy,483769]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy|Ionization_Energy]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.public|Ionization_Energy.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.internal|Ionization_Energy.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.protect|Ionization_Energy.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.private|Ionization_Energy.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.personal|Ionization_Energy.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.secret|Ionization_Energy.secret]]"
+---
 
 # [[Ionization_Energy]] 
 

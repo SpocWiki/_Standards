@@ -28,16 +28,18 @@ title: has_return_method
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/return_method :: ReturnMethodEnumeration ] or 
+- [has_/return_method :: ReturnMethodEnumeration ] 
 - [ has_return_method :: ReturnMethodEnumeration ] 
 
 The type of return method offered, specified from an enumeration.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy ]
+
+#has_/domain  :: MerchantReturnPolicy  
+
 ( #has_/name :: is_return_method )
 ( #has_/range :: ReturnMethodEnumeration )
 

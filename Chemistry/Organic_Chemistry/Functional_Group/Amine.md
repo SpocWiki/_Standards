@@ -42,13 +42,36 @@ Dewey_Decimal_Classification:
   - 547.042
   - 661.894
   - 572.548
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Amine,167198|WD~Amine,167198]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Amine|Amine]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Amine.public|Amine.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Amine.internal|Amine.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Amine.protect|Amine.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Amine.private|Amine.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Amine.personal|Amine.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Amine.secret|Amine.secret]]"
+dv_has_:
+  formula_:
+    structural: R-NH²
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Amine,167198|WD~Amine,167198]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Amine|Amine]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Amine.public|Amine.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Amine.internal|Amine.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Amine.protect|Amine.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Amine.private|Amine.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Amine.personal|Amine.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Amine.secret|Amine.secret]]"
+dv_has_formula_structural: R-NH²
 ---
 
 # [[Amine]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Amine,167198|WD~Amine,167198]] 
 
-#has_/formula_/structural :: R-NH²
+has_formula_structural = `=this.dv_has_formula_structural` 
 but also R²-NH and R³-N 
 
 ## #has_/text_of_/abstract 

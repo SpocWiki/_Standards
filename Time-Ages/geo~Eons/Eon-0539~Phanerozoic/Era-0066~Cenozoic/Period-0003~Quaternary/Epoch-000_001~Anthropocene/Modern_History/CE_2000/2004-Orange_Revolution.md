@@ -6,13 +6,32 @@ aliases:
   - 2004-Orange_Revolution
   - 2004-Orange Revolution
 has_id_wikidata: Q836386
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
-instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
-country: '[[_Standards/WikiData/WD~Ukraine,212]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]"
+instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
+country: "[[_Standards/WikiData/WD~Ukraine,212]]"
 start_time: 2004-11-22T00:00:00Z
 end_time: 2005-01-23T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Morning%20first%20day%20of%20Orange%20Revolution.jpg
 Commons_category: Orange Revolution
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Orange_Revolution,836386]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution|2004-Orange_Revolution]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.public|2004-Orange_Revolution.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.internal|2004-Orange_Revolution.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.protect|2004-Orange_Revolution.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.private|2004-Orange_Revolution.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.personal|2004-Orange_Revolution.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.secret|2004-Orange_Revolution.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Orange_Revolution,836386]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution|2004-Orange_Revolution]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.public|2004-Orange_Revolution.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.internal|2004-Orange_Revolution.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.protect|2004-Orange_Revolution.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.private|2004-Orange_Revolution.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.personal|2004-Orange_Revolution.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2004-Orange_Revolution.secret|2004-Orange_Revolution.secret]]"
 ---
 
 # [[2004-Orange_Revolution]] 

@@ -43,7 +43,7 @@ part_of:
   - "[[_Standards/WikiData/WD~alcohol_O-cinnamoyltransferase_activity,22323548]]"
   - "[[_Standards/WikiData/WD~alkylhydroperoxide_reductase_activity,27124193]]"
   - "[[_Standards/WikiData/WD~thioredoxin-dependent_peroxiredoxin_activity,112998382]]"
-SMARTS_notation: "[$([#6][OX2H1]);!$([#6]=O);!$([#6]=S);!$([#6]=[Se])]"
+SMARTS_notation: "[$([6][OX2H1]);!$([6]=O);!$([6]=S);!$([6]=[Se])]"
 subclass_of:
   - "[[_Standards/WikiData/WD~organic_hydroxy_compound,71419357]]"
   - "[[_Standards/WikiData/WD~organooxygen_compound,71574018]]"
@@ -51,12 +51,37 @@ subject_has_role: "[[_Standards/WikiData/WD~depressant,1976211]]"
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Alcohols,8093702]]"
 UNSPSC_Code: 12352104
 U_S_National_Archives_Identifier: 10640163
+dv_is_:
+  similar_to: "[[../Thiol]]"
+  same_as:
+    - "[[../../../WikiData/WD~Alcohols,156]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol|Alcohol]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Alcohol.public|Alcohol.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol.internal|Alcohol.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol.protect|Alcohol.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Alcohol.private|Alcohol.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol.personal|Alcohol.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol.secret|Alcohol.secret]]"
+dv_has_:
+  formula_:
+    structural: R−OH
+dv_is_similar_to: "[[../Thiol]]"
+dv_has_formula_structural: R−OH
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Alcohols,156]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol|Alcohol]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Alcohol.public|Alcohol.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol.internal|Alcohol.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol.protect|Alcohol.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Alcohol.private|Alcohol.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol.personal|Alcohol.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol.secret|Alcohol.secret]]"
 ---
 
 # [[Alcohol]] 
 
-#is_/similar_to :: [[Thiol]] 
-#has_/formula_/structural :: R−OH 
+is_similar_to = `=this.dv_is_similar_to` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 #is_/same_as :: [[../../../WikiData/WD~Alcohols,156]] 
 
 ## #has_/text_of_/abstract 

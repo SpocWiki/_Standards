@@ -4,36 +4,55 @@ aliases:
   - Horizon
 has_id_wikidata: Q43261
 has_characteristic:
-  - '[[_Standards/WikiData/WD~distance,126017]]'
-  - '[[_Standards/WikiData/WD~zenith_angle,3352195]]'
+  - "[[_Standards/WikiData/WD~distance,126017]]"
+  - "[[_Standards/WikiData/WD~zenith_angle,3352195]]"
 has_contributing_factor:
-  - '[[_Standards/WikiData/WD~altitude,190200]]'
-  - '[[_Standards/WikiData/WD~atmospheric_refraction,254634]]'
-  - '[[_Standards/WikiData/WD~geographic_location,2221906]]'
-has_cause: '[[_Standards/WikiData/WD~shape,207961]]'
+  - "[[_Standards/WikiData/WD~altitude,190200]]"
+  - "[[_Standards/WikiData/WD~atmospheric_refraction,254634]]"
+  - "[[_Standards/WikiData/WD~geographic_location,2221906]]"
+has_cause: "[[_Standards/WikiData/WD~shape,207961]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Horizont,225809]]'
-  - '[[_Standards/WikiData/WD~horizontal_plane,1055798]]'
-  - '[[_Standards/WikiData/WD~horizon,12772879]]'
+  - "[[_Standards/WikiData/WD~Horizont,225809]]"
+  - "[[_Standards/WikiData/WD~horizontal_plane,1055798]]"
+  - "[[_Standards/WikiData/WD~horizon,12772879]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 manifestation_of:
-  - '[[_Standards/WikiData/WD~boundary,875399]]'
-  - '[[_Standards/WikiData/WD~line,1228250]]'
-instance_of: '[[_Standards/WikiData/WD~optical_phenomenon,14506045]]'
+  - "[[_Standards/WikiData/WD~boundary,875399]]"
+  - "[[_Standards/WikiData/WD~line,1228250]]"
+instance_of: "[[_Standards/WikiData/WD~optical_phenomenon,14506045]]"
 contributing_factor_of:
-  - '[[_Standards/WikiData/WD~pass,21501397]]'
-  - '[[_Standards/WikiData/WD~objectset,106674426]]'
-  - '[[_Standards/WikiData/WD~objectrise,106674425]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~limb,21970361]]'
+  - "[[_Standards/WikiData/WD~pass,21501397]]"
+  - "[[_Standards/WikiData/WD~objectset,106674426]]"
+  - "[[_Standards/WikiData/WD~objectrise,106674425]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~limb,21970361]]"
 Commons_category: Horizons
 OmegaWiki_Defined_Meaning: 507468
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Horizon%20%28lijn%29-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sureal%20Horizon.jpg
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Horizon,43261]]"
+    - "[[/_Standards/Astronomy/Astrometry/Horizon|Horizon]]"
+    - "[[/_public/Astronomy/Astrometry/Horizon.public|Horizon.public]]"
+    - "[[/_internal/Astronomy/Astrometry/Horizon.internal|Horizon.internal]]"
+    - "[[/_protect/Astronomy/Astrometry/Horizon.protect|Horizon.protect]]"
+    - "[[/_private/Astronomy/Astrometry/Horizon.private|Horizon.private]]"
+    - "[[/_personal/Astronomy/Astrometry/Horizon.personal|Horizon.personal]]"
+    - "[[/_secret/Astronomy/Astrometry/Horizon.secret|Horizon.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Horizon,43261]]"
+  - "[[/_Standards/Astronomy/Astrometry/Horizon|Horizon]]"
+  - "[[/_public/Astronomy/Astrometry/Horizon.public|Horizon.public]]"
+  - "[[/_internal/Astronomy/Astrometry/Horizon.internal|Horizon.internal]]"
+  - "[[/_protect/Astronomy/Astrometry/Horizon.protect|Horizon.protect]]"
+  - "[[/_private/Astronomy/Astrometry/Horizon.private|Horizon.private]]"
+  - "[[/_personal/Astronomy/Astrometry/Horizon.personal|Horizon.personal]]"
+  - "[[/_secret/Astronomy/Astrometry/Horizon.secret|Horizon.secret]]"
 ---
 
 # [[Horizon]] 

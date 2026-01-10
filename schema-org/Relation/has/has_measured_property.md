@@ -28,16 +28,18 @@ title: has_measured_property
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/measured_property :: Property ] or 
+- [has_/measured_property :: Property ] 
 - [ has_measured_property :: Property ] 
 
 The measuredProperty of an [[Observation]], either a schema.org property, a property from other RDF-compatible systems, e.g. W3C RDF Data Cube, or schema.org extensions such as [GS1's](https://www.gs1.org/voc/?show=properties).
 
 Relation describes that: 
-[ #has_/domain  :: Observation ]
+
+#has_/domain  :: Observation  
+
 ( #has_/name :: has_measured_property )
 ( #has_/range :: Property )
 

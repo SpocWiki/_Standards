@@ -12,6 +12,25 @@ subclass_of: "[[_Standards/WikiData/WD~map,4006]]"
 Commons_category: Celestial maps
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Planisph%C3%A6ri%20c%C5%93leste.jpg
 Iconclass_notation: "49E12"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Star_chart,842617|WD~Star_chart,842617]]"
+    - "[[/_Standards/Astronomy/Astrometry/Star_Chart|Star_Chart]]"
+    - "[[/_public/Astronomy/Astrometry/Star_Chart.public|Star_Chart.public]]"
+    - "[[/_internal/Astronomy/Astrometry/Star_Chart.internal|Star_Chart.internal]]"
+    - "[[/_protect/Astronomy/Astrometry/Star_Chart.protect|Star_Chart.protect]]"
+    - "[[/_private/Astronomy/Astrometry/Star_Chart.private|Star_Chart.private]]"
+    - "[[/_personal/Astronomy/Astrometry/Star_Chart.personal|Star_Chart.personal]]"
+    - "[[/_secret/Astronomy/Astrometry/Star_Chart.secret|Star_Chart.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Star_chart,842617|WD~Star_chart,842617]]"
+  - "[[/_Standards/Astronomy/Astrometry/Star_Chart|Star_Chart]]"
+  - "[[/_public/Astronomy/Astrometry/Star_Chart.public|Star_Chart.public]]"
+  - "[[/_internal/Astronomy/Astrometry/Star_Chart.internal|Star_Chart.internal]]"
+  - "[[/_protect/Astronomy/Astrometry/Star_Chart.protect|Star_Chart.protect]]"
+  - "[[/_private/Astronomy/Astrometry/Star_Chart.private|Star_Chart.private]]"
+  - "[[/_personal/Astronomy/Astrometry/Star_Chart.personal|Star_Chart.personal]]"
+  - "[[/_secret/Astronomy/Astrometry/Star_Chart.secret|Star_Chart.secret]]"
 ---
 
 # [[Star_Chart]] 

@@ -32,25 +32,26 @@ title: has_{{label_snail}}
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: {{isPartOf}} ]
+#is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
-- [ #has_/{{label_snail}} :: {{rangeIncludes}} ] or 
+- [has_/{{label_snail}} :: {{rangeIncludes}} ] 
 - [ has_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
 Relation describes that: 
-[ #has_/domain  :: {{domainIncludes}} ]
+
+#has_/domain  :: {{domainIncludes}}  
+
 ( #has_/name :: is_{{label_snail}} )
 ( #has_/range :: {{rangeIncludes}} )
 
-[ #is_/inverse_of  :: {{inverseOf}} ]
+#is_/inverse_of  :: {{inverseOf}}  
 
-[ #is_/sub_property_of  :: {{subPropertyOf}} ]
+#is_/sub_property_of  :: {{subPropertyOf}}  
 
-[ #has_/sub_properties :: [ {{subproperties}} ] ]
-
+#has_/sub_properties :: [ {{subproperties}} ]  
 
 ## Confidential Links & Embeds: 
 

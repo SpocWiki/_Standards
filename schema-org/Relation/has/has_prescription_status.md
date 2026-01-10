@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - prescription_status
   - prescription
   - status
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_prescription_status
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_prescription_status
 type: Predi_Relation
+dv_has_:
+  prescription_status: DrugPrescriptionStatus, Text
+  domain: Drug
+dv_has_prescription_status: DrugPrescriptionStatus, Text
+dv_#has_:
+  name: is_prescription_status
+  range: DrugPrescriptionStatus, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_prescription_status|has_prescription_status]]"
+    - "[[/_public/schema-org/Relation/has/has_prescription_status.public|has_prescription_status.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_prescription_status.internal|has_prescription_status.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_prescription_status.protect|has_prescription_status.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_prescription_status.private|has_prescription_status.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_prescription_status.personal|has_prescription_status.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_prescription_status.secret|has_prescription_status.secret]]"
+dv_has_domain: Drug
+dv_has_name: is_prescription_status
+dv_has_range: DrugPrescriptionStatus, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_prescription_status|has_prescription_status]]"
+  - "[[/_public/schema-org/Relation/has/has_prescription_status.public|has_prescription_status.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_prescription_status.internal|has_prescription_status.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_prescription_status.protect|has_prescription_status.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_prescription_status.private|has_prescription_status.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_prescription_status.personal|has_prescription_status.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_prescription_status.secret|has_prescription_status.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/prescription_status :: DrugPrescriptionStatus, Text ] or 
-- [ has_prescription_status :: DrugPrescriptionStatus, Text ] 
+- has_prescription_status = `=this.dv_has_prescription_status`  
+- has_prescription_status = `=this.dv_has_prescription_status`  
 
 Indicates the status of drug prescription, e.g. local catalogs classifications or whether the drug is available by prescription or over-the-counter, etc.
 
 Relation describes that: 
-[ #has_/domain  :: Drug ]
-( #has_/name :: is_prescription_status )
-( #has_/range :: DrugPrescriptionStatus, Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

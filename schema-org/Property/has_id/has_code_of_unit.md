@@ -31,13 +31,15 @@ type: Pred_Text
 Predicate to describe the Text of PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification.
 
 Use it like this: 
-- [ #has_/code_/of_unit :: Text, URL ] or 
+- [has_/code_/of_unit :: Text, URL ] 
 - [ has_code_of_unit :: Text, URL ] 
 
 The unit of measurement given using the UN/CEFACT Common Code (3 characters) or a URL. Other codes than the UN/CEFACT Common Code may be used with a prefix followed by a colon.
 
 Predicated describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/property_value|property_value]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|quantitative_value]], [[../../Class/is_a_/Intangible/structured_value/type_and_quantity_node|type_and_quantity_node]], [[../../Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification|unit_price_specification]] ]
+
+#has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/property_value|property_value]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|quantitative_value]], [[../../Class/is_a_/Intangible/structured_value/type_and_quantity_node|type_and_quantity_node]], [[../../Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification|unit_price_specification]]  
+
 ( #has_/name :: has_code_of_unit )
 ( #has_/range :: Text, URL )
 

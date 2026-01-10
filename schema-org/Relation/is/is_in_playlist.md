@@ -29,13 +29,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/in_playlist :: MusicPlaylist ] or 
+- [is_/in_playlist :: MusicPlaylist ] 
 - [ is_in_playlist :: MusicPlaylist ] 
 
 The playlist to which this recording belongs.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRecording ]
+
+#has_/domain  :: MusicRecording  
+
 ( #has_/name :: is_in_playlist )
 ( #has_/range :: MusicPlaylist )
 

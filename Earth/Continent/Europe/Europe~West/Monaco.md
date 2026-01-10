@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: MONACO
 dv_Telephone: 377
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Monaco
+dv_has_name: Monaco
 dv_has_name_en: Monaco
 dv_has_name_es: Mónaco
 dv_has_name_fr: Monaco
@@ -378,7 +378,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Monaco ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

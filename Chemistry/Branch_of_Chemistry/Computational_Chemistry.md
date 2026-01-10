@@ -5,19 +5,38 @@ aliases:
   - Computational Chemistry
 has_id_wikidata: Q369472
 subclass_of:
-  - '[[_Standards/WikiData/WD~computational_science,117801]]'
-  - '[[_Standards/WikiData/WD~cheminformatics,910164]]'
-  - '[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486]]'
-different_from: '[[_Standards/WikiData/WD~cheminformatics,910164]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-practiced_by: '[[_Standards/WikiData/WD~computational_chemist,66816558]]'
-part_of: '[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486]]'
+  - "[[_Standards/WikiData/WD~computational_science,117801]]"
+  - "[[_Standards/WikiData/WD~cheminformatics,910164]]"
+  - "[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486]]"
+different_from: "[[_Standards/WikiData/WD~cheminformatics,910164]]"
+instance_of: "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+practiced_by: "[[_Standards/WikiData/WD~computational_chemist,66816558]]"
+part_of: "[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486]]"
 OmegaWiki_Defined_Meaning: 795548
 Stack_Exchange_tag: https://scicomp.stackexchange.com/tags/computational-chemistry
 UMLS_CUI: C0872134
 Commons_category: Computational chemistry
 GitHub_topic: computational-chemistry
 MeSH_tree_code: H01.181.590
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Computational_chemistry,369472|WD~Computational_chemistry,369472]]"
+    - "[[/_Standards/Chemistry/Branch_of_Chemistry/Computational_Chemistry|Computational_Chemistry]]"
+    - "[[/_public/Chemistry/Branch_of_Chemistry/Computational_Chemistry.public|Computational_Chemistry.public]]"
+    - "[[/_internal/Chemistry/Branch_of_Chemistry/Computational_Chemistry.internal|Computational_Chemistry.internal]]"
+    - "[[/_protect/Chemistry/Branch_of_Chemistry/Computational_Chemistry.protect|Computational_Chemistry.protect]]"
+    - "[[/_private/Chemistry/Branch_of_Chemistry/Computational_Chemistry.private|Computational_Chemistry.private]]"
+    - "[[/_personal/Chemistry/Branch_of_Chemistry/Computational_Chemistry.personal|Computational_Chemistry.personal]]"
+    - "[[/_secret/Chemistry/Branch_of_Chemistry/Computational_Chemistry.secret|Computational_Chemistry.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Computational_chemistry,369472|WD~Computational_chemistry,369472]]"
+  - "[[/_Standards/Chemistry/Branch_of_Chemistry/Computational_Chemistry|Computational_Chemistry]]"
+  - "[[/_public/Chemistry/Branch_of_Chemistry/Computational_Chemistry.public|Computational_Chemistry.public]]"
+  - "[[/_internal/Chemistry/Branch_of_Chemistry/Computational_Chemistry.internal|Computational_Chemistry.internal]]"
+  - "[[/_protect/Chemistry/Branch_of_Chemistry/Computational_Chemistry.protect|Computational_Chemistry.protect]]"
+  - "[[/_private/Chemistry/Branch_of_Chemistry/Computational_Chemistry.private|Computational_Chemistry.private]]"
+  - "[[/_personal/Chemistry/Branch_of_Chemistry/Computational_Chemistry.personal|Computational_Chemistry.personal]]"
+  - "[[/_secret/Chemistry/Branch_of_Chemistry/Computational_Chemistry.secret|Computational_Chemistry.secret]]"
 ---
 
 # [[Computational_Chemistry]] 

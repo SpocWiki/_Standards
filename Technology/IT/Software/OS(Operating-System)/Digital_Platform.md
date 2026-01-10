@@ -34,7 +34,7 @@ Class of all digital platforms.
 Tag Instances like this: 
 #is_a_/digital_platform_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Enumerates some common technology platforms, for use with properties such as [[actionPlatform]]. 
 
@@ -43,8 +43,7 @@ when a suitable code is not enumerated here, textual or URL values can be used i
 These codes are at a fairly high level and do not deal with versioning and other nuance. 
 Additional codes can be suggested <a href="https://github.com/schemaorg/schemaorg/issues/3057">in github</a>.
 
-[ #is_/sub_class_of :: [[../../../../schema-org/Enumeration]] ]
-
+#is_/sub_class_of :: [[../../../../schema-org/Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

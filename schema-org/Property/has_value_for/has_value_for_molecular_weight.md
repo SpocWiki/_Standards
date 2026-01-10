@@ -29,16 +29,18 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of MolecularEntity.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/value_for_/molecular_weight :: QuantitativeValue, Text ] or 
+- [has_/value_for_/molecular_weight :: QuantitativeValue, Text ] 
 - [ has_value_for_molecular_weight :: QuantitativeValue, Text ] 
 
 This is the molecular weight of the entity being described, not of the parent. Units should be included in the form '&amp;lt;Number&amp;gt; &amp;lt;unit&amp;gt;', for example '12 amu' or as '&amp;lt;QuantitativeValue&amp;gt;.
 
 Predicate describes that: 
-[ #has_/domain  :: MolecularEntity ]
+
+#has_/domain  :: MolecularEntity  
+
 ( #has_/name :: has_value_for_molecular_weight )
 ( #has_/range :: QuantitativeValue, Text )
 

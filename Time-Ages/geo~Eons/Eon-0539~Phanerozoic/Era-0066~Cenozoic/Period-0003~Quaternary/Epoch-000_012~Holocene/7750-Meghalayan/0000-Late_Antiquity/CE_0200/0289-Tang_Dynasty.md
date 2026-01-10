@@ -5,71 +5,92 @@ aliases:
 has_id_wikidata: Q9683
 area: 5400000
 Baidu_Tieba_name: 唐朝
-basic_form_of_government: '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
+basic_form_of_government: "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
 capital: "[[_Standards/WikiData/WD~Chang'an,_Tang_Empire,10923028]]"
 Commons_category: Tang Dynasty
 Commons_gallery: 唐朝
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
 depicted_by:
-  - '[[_Standards/WikiData/WD~New_Book_of_Tang,386073]]'
-  - '[[_Standards/WikiData/WD~Old_Book_of_Tang,1146980]]'
+  - "[[_Standards/WikiData/WD~New_Book_of_Tang,386073]]"
+  - "[[_Standards/WikiData/WD~Old_Book_of_Tang,1146980]]"
 described_by_source:
-  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
 dissolved_abolished_or_demolished_date: 907
 end_time: 0907-06
-followed_by: '[[_Standards/WikiData/WD~Second_Turkic_Khaganate,4833446]]'
-founded_by: '[[_Standards/WikiData/WD~Emperor_Gaozu_of_Tang,9700]]'
+followed_by: "[[_Standards/WikiData/WD~Second_Turkic_Khaganate,4833446]]"
+founded_by: "[[_Standards/WikiData/WD~Emperor_Gaozu_of_Tang,9700]]"
 has_time_started: 0618-06
 has_time_stopped: 0907-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Dynasty%20circa%20700%20CE.png
 inception: 618
 instance_of:
-  - '[[_Standards/WikiData/WD~culture,11042]]'
-  - '[[_Standards/WikiData/WD~state,7275]]'
-  - '[[_Standards/WikiData/WD~style,1292119]]'
-  - '[[_Standards/WikiData/WD~Chinese_dynasty,12857432]]'
-  - '[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]'
-  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - "[[_Standards/WikiData/WD~culture,11042]]"
+  - "[[_Standards/WikiData/WD~state,7275]]"
+  - "[[_Standards/WikiData/WD~style,1292119]]"
+  - "[[_Standards/WikiData/WD~Chinese_dynasty,12857432]]"
+  - "[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
 Library_of_Congress_Classification: DS749.3-DS749.47
 located_in_the_present_day_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Afghanistan,889]]'
-  - '[[_Standards/WikiData/WD~Iran,794]]'
-  - '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-  - '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
-  - '[[_Standards/WikiData/WD~Laos,819]]'
-  - '[[_Standards/WikiData/WD~Mongolia,711]]'
-  - '[[_Standards/WikiData/WD~Pakistan,843]]'
-  - '[[_Standards/WikiData/WD~Russia,159]]'
-  - '[[_Standards/WikiData/WD~Taiwan,865]]'
-  - '[[_Standards/WikiData/WD~Tajikistan,863]]'
-  - '[[_Standards/WikiData/WD~Thailand,869]]'
-  - '[[_Standards/WikiData/WD~Turkmenistan,874]]'
-  - '[[_Standards/WikiData/WD~Uzbekistan,265]]'
-  - '[[_Standards/WikiData/WD~Vietnam,881]]'
-  - '[[_Standards/WikiData/WD~North_Korea,423]]'
+  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
+  - "[[_Standards/WikiData/WD~Laos,819]]"
+  - "[[_Standards/WikiData/WD~Mongolia,711]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
+  - "[[_Standards/WikiData/WD~Thailand,869]]"
+  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
+  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
+  - "[[_Standards/WikiData/WD~Vietnam,881]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423]]"
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+  - "[[_Standards/WikiData/WD~South_Korea,884]]"
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Empire.gif
   - http://commons.wikimedia.org/wiki/Special:FilePath/Tang%20outline%20map%2C%20661.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/KaiyuanTongbao.png
 native_label: 唐朝
 permanent_duplicated_item:
-  - '[[_Standards/WikiData/WD~Q22828679,22828679]]'
-  - '[[_Standards/WikiData/WD~Q25696255,25696255]]'
+  - "[[_Standards/WikiData/WD~Q22828679,22828679]]"
+  - "[[_Standards/WikiData/WD~Q25696255,25696255]]"
 replaced_by:
-  - '[[_Standards/WikiData/WD~Wu,1323195]]'
-  - '[[_Standards/WikiData/WD~Later_Liang_dynasty,783489]]'
-  - '[[_Standards/WikiData/WD~Zhou_dynasty_(690_705),835435]]'
+  - "[[_Standards/WikiData/WD~Wu,1323195]]"
+  - "[[_Standards/WikiData/WD~Later_Liang_dynasty,783489]]"
+  - "[[_Standards/WikiData/WD~Zhou_dynasty_(690_705),835435]]"
 replaces:
-  - '[[_Standards/WikiData/WD~Goguryeo,28370]]'
-  - '[[_Standards/WikiData/WD~Gaochang_Kingdom_(Qu_clan),11175560]]'
-  - '[[_Standards/WikiData/WD~Qi_(Huang_Chao),11180184]]'
-  - '[[_Standards/WikiData/WD~Sui_dynasty,7405]]'
-  - '[[_Standards/WikiData/WD~Zhou_dynasty_(690_705),835435]]'
+  - "[[_Standards/WikiData/WD~Goguryeo,28370]]"
+  - "[[_Standards/WikiData/WD~Gaochang_Kingdom_(Qu_clan),11175560]]"
+  - "[[_Standards/WikiData/WD~Qi_(Huang_Chao),11180184]]"
+  - "[[_Standards/WikiData/WD~Sui_dynasty,7405]]"
+  - "[[_Standards/WikiData/WD~Zhou_dynasty_(690_705),835435]]"
 start_time: 0618-06
-topic_s_main_template: '[[_Standards/WikiData/WD~Q62687292,62687292]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Q62687292,62687292]]"
+dv_has_:
+  duration_: P289Y
+dv_is_:
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty|0289-Tang_Dynasty]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.public|0289-Tang_Dynasty.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.internal|0289-Tang_Dynasty.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.protect|0289-Tang_Dynasty.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.private|0289-Tang_Dynasty.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.personal|0289-Tang_Dynasty.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.secret|0289-Tang_Dynasty.secret]]"
+dv_has_duration_years: 289
+dv_has_duration_: P289Y
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty|0289-Tang_Dynasty]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.public|0289-Tang_Dynasty.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.internal|0289-Tang_Dynasty.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.protect|0289-Tang_Dynasty.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.private|0289-Tang_Dynasty.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.personal|0289-Tang_Dynasty.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0289-Tang_Dynasty.secret|0289-Tang_Dynasty.secret]]"
 ---
 
 # [[0289-Tang_Dynasty]] 

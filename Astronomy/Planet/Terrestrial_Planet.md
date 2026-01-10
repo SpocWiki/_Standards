@@ -12,6 +12,25 @@ subclass_of: "[[_Standards/WikiData/WD~planet,634]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aufbau%20der%20Erde%20schematisch.svg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000958
 Commons_category: Terrestrial planets
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Terrestrial_planet,128207|WD~Terrestrial_planet,128207]]"
+    - "[[/_Standards/Astronomy/Planet/Terrestrial_Planet|Terrestrial_Planet]]"
+    - "[[/_public/Astronomy/Planet/Terrestrial_Planet.public|Terrestrial_Planet.public]]"
+    - "[[/_internal/Astronomy/Planet/Terrestrial_Planet.internal|Terrestrial_Planet.internal]]"
+    - "[[/_protect/Astronomy/Planet/Terrestrial_Planet.protect|Terrestrial_Planet.protect]]"
+    - "[[/_private/Astronomy/Planet/Terrestrial_Planet.private|Terrestrial_Planet.private]]"
+    - "[[/_personal/Astronomy/Planet/Terrestrial_Planet.personal|Terrestrial_Planet.personal]]"
+    - "[[/_secret/Astronomy/Planet/Terrestrial_Planet.secret|Terrestrial_Planet.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Terrestrial_planet,128207|WD~Terrestrial_planet,128207]]"
+  - "[[/_Standards/Astronomy/Planet/Terrestrial_Planet|Terrestrial_Planet]]"
+  - "[[/_public/Astronomy/Planet/Terrestrial_Planet.public|Terrestrial_Planet.public]]"
+  - "[[/_internal/Astronomy/Planet/Terrestrial_Planet.internal|Terrestrial_Planet.internal]]"
+  - "[[/_protect/Astronomy/Planet/Terrestrial_Planet.protect|Terrestrial_Planet.protect]]"
+  - "[[/_private/Astronomy/Planet/Terrestrial_Planet.private|Terrestrial_Planet.private]]"
+  - "[[/_personal/Astronomy/Planet/Terrestrial_Planet.personal|Terrestrial_Planet.personal]]"
+  - "[[/_secret/Astronomy/Planet/Terrestrial_Planet.secret|Terrestrial_Planet.secret]]"
 ---
 
 # [[Terrestrial_Planet]] 

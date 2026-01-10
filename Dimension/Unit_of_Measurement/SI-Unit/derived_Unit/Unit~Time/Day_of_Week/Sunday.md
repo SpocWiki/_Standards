@@ -93,9 +93,9 @@ Class of all sundays, the day of the week between Saturday and Monday.
 Tag Instances like this: 
 #is_a_/sunday
 
-[ #is_/sub_class_of :: [[../DayOfWeek]] ]
+#is_/sub_class_of :: [[../DayOfWeek]]  
 
-[ #is_/enum_of :: [[../DayOfWeek]] ]
+#is_/enum_of :: [[../DayOfWeek]]  
 
 ## #has_/text_of_/abstract 
 

@@ -24,21 +24,22 @@ title: has_masthead
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/masthead :: CreativeWork, URL ] or 
+- [has_/masthead :: CreativeWork, URL ] 
 - [ has_masthead :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]], a link to the masthead page or a page listing top editorial management.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization ]
+
+#has_/domain  :: NewsMediaOrganization  
+
 ( #has_/name :: has_masthead )
 ( #has_/range :: CreativeWork, URL )
 
-[ #is_/sub_property_of  :: publishingPrinciples ]
-
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

@@ -25,18 +25,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/replacer :: [Thing](../../../Class/Thing.md) ] or 
+- [has_/replacer :: [Thing](../../../Class/Thing.md) ] 
 - [ has_replacer :: [Thing](../../../Class/Thing.md) ] 
 
 A sub property of object. The object that replaces.
 
 Relation describes that: 
-[ #has_/domain  :: ReplaceAction ]
+
+#has_/domain  :: ReplaceAction  
+
 ( #has_/name :: is_replacer )
 ( #has_/range :: Thing )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

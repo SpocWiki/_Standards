@@ -6,6 +6,25 @@ instance_of: "[[_Standards/WikiData/WD~formation_and_evolution_of_planetary_syst
 studied_by: "[[_Standards/WikiData/WD~cosmology,338]]"
 object_of_occurrence: "[[_Standards/WikiData/WD~Solar_System,544]]"
 Commons_category: Formation of the Solar System
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Formation_and_evolution_of_the_Solar_System,3535|WD~Formation_and_evolution_of_the_Solar_System,3535]]"
+    - "[[/_Standards/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System|Formation_and_evolution_of_the_Solar_System]]"
+    - "[[/_public/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.public|Formation_and_evolution_of_the_Solar_System.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.internal|Formation_and_evolution_of_the_Solar_System.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.protect|Formation_and_evolution_of_the_Solar_System.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.private|Formation_and_evolution_of_the_Solar_System.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.personal|Formation_and_evolution_of_the_Solar_System.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.secret|Formation_and_evolution_of_the_Solar_System.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Formation_and_evolution_of_the_Solar_System,3535|WD~Formation_and_evolution_of_the_Solar_System,3535]]"
+  - "[[/_Standards/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System|Formation_and_evolution_of_the_Solar_System]]"
+  - "[[/_public/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.public|Formation_and_evolution_of_the_Solar_System.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.internal|Formation_and_evolution_of_the_Solar_System.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.protect|Formation_and_evolution_of_the_Solar_System.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.private|Formation_and_evolution_of_the_Solar_System.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.personal|Formation_and_evolution_of_the_Solar_System.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Formation_and_evolution_of_the_Solar_System.secret|Formation_and_evolution_of_the_Solar_System.secret]]"
 ---
 
 # [[Formation_and_evolution_of_the_Solar_System]] 

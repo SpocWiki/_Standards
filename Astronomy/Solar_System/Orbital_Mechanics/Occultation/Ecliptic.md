@@ -4,22 +4,41 @@ aliases:
   - Ecliptic
   - ecliptic plane
 has_id_wikidata: Q79852
-instance_of: '[[_Standards/WikiData/WD~great_circle,146657]]'
+instance_of: "[[_Standards/WikiData/WD~great_circle,146657]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 Commons_category: Ecliptic
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Eclipticadiagrama.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Sun-Ecliptic-4Seasons-aDayOnEarth-LookingWest.gif
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Ecliptic,79852|WD~Ecliptic,79852]]"
+    - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic|Ecliptic]]"
+    - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.public|Ecliptic.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.internal|Ecliptic.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.protect|Ecliptic.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.private|Ecliptic.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.personal|Ecliptic.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.secret|Ecliptic.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Ecliptic,79852|WD~Ecliptic,79852]]"
+  - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic|Ecliptic]]"
+  - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.public|Ecliptic.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.internal|Ecliptic.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.protect|Ecliptic.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.private|Ecliptic.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.personal|Ecliptic.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.secret|Ecliptic.secret]]"
 ---
 
 # [[Ecliptic]] 

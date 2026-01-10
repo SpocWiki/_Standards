@@ -34,25 +34,26 @@ type: Pred_geo
 
 Predicate to describe the geo of {{domainIncludes}}.
 
-[ #is_/part_of :: {{isPartOf}} ]
+#is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
-- [ #has_/location_/{{has_label_snail}} :: {{rangeIncludes}} ] or 
+- [has_/location_/{{has_label_snail}} :: {{rangeIncludes}} ] 
 - [ has_location_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
 Predicate describes that: 
-[ #has_/domain  :: {{domainIncludes}} ]
+
+#has_/domain  :: {{domainIncludes}}  
+
 ( #has_/name :: has_location_{{label_snail}} )
 ( #has_/range :: {{rangeIncludes}} )
 
-[ #is_/inverse_of  :: {{inverseOf}} ]
+#is_/inverse_of  :: {{inverseOf}}  
 
-[ #is_/sub_property_of  :: {{subPropertyOf}} ]
+#is_/sub_property_of  :: {{subPropertyOf}}  
 
-[ #has_/sub_properties :: [ {{subproperties}} ] ]
-
+#has_/sub_properties :: [ {{subproperties}} ]  
 
 ## Confidential Links & Embeds: 
 

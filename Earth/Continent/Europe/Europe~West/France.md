@@ -1,5 +1,5 @@
 ---
-dv_has_name_: France
+dv_has_name: France
 dv_has_name_en: France
 dv_has_name_es: Francia
 dv_has_name_fr: France
@@ -702,7 +702,7 @@ defaultZoom: 5
 
 ## International Names
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 has_name_en = `=this.dv_has_name_en`
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

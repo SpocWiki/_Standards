@@ -29,16 +29,18 @@ title: has_return_label_source
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/return_label_source :: ReturnLabelSourceEnumeration ] or 
+- [has_/return_label_source :: ReturnLabelSourceEnumeration ] 
 - [ has_return_label_source :: ReturnLabelSourceEnumeration ] 
 
 The method (from an enumeration) by which the customer obtains a return shipping label for a product returned for any reason.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy ]
+
+#has_/domain  :: MerchantReturnPolicy  
+
 ( #has_/name :: is_return_label_source )
 ( #has_/range :: ReturnLabelSourceEnumeration )
 

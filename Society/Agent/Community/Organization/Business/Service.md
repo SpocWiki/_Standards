@@ -37,11 +37,11 @@ A service provided by an organization, e.g. delivery service, print services, et
 economic product that directly satisfies wants 
 without producing a lasting asset
 
-[ #is_/sub_class_of :: [[../../../../../schema-org/Class/is_a_/Intangible]] ]
+#is_/sub_class_of :: [[../../../../../schema-org/Class/is_a_/Intangible]]  
 
-[ #has_/sub_classes :: [ BroadcastService, CableOrSatelliteService, FinancialProduct, FoodService, GovernmentService, Taxi, TaxiService, WebAPI ] ]
+#has_/sub_classes :: [ BroadcastService, CableOrSatelliteService, FinancialProduct, FoodService, GovernmentService, Taxi, TaxiService, WebAPI ]  
 
-[ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
+#has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Service,7406919|WD~Service,7406919]] 
 

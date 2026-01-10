@@ -13,32 +13,32 @@ tags:
 type: Zodiac
 ZodiacPos: 6
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-  - '[[_Standards/WikiData/WD~Virgo,105172067]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - "[[_Standards/WikiData/WD~Virgo,105172067]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Three_Dukes,718031]]'
-  - '[[_Standards/WikiData/WD~Nine_Ministers,3108810]]'
-  - '[[_Standards/WikiData/WD~Inner_Screen,10891267]]'
-  - '[[_Standards/WikiData/WD~Right_Wall_of_the_Supreme_Palace_Enclosure,10941554]]'
-  - '[[_Standards/WikiData/WD~Left_Wall_of_the_Supreme_Palace_Enclosure,10941555]]'
-  - '[[_Standards/WikiData/WD~Usher_to_the_Court,17026191]]'
-notation: '[[_Standards/WikiData/WD~_,3594862]]'
+  - "[[_Standards/WikiData/WD~Three_Dukes,718031]]"
+  - "[[_Standards/WikiData/WD~Nine_Ministers,3108810]]"
+  - "[[_Standards/WikiData/WD~Inner_Screen,10891267]]"
+  - "[[_Standards/WikiData/WD~Right_Wall_of_the_Supreme_Palace_Enclosure,10941554]]"
+  - "[[_Standards/WikiData/WD~Left_Wall_of_the_Supreme_Palace_Enclosure,10941555]]"
+  - "[[_Standards/WikiData/WD~Usher_to_the_Court,17026191]]"
+notation: "[[_Standards/WikiData/WD~_,3594862]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~zodiacal_constellation,4193029]]'
-  - '[[_Standards/WikiData/WD~constellation,8928]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Virgo_(constellation),11168874]]'
+  - "[[_Standards/WikiData/WD~zodiacal_constellation,4193029]]"
+  - "[[_Standards/WikiData/WD~constellation,8928]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Virgo_(constellation),11168874]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Boötes,8667]]'
-  - '[[_Standards/WikiData/WD~Leo,8853]]'
-  - '[[_Standards/WikiData/WD~Serpens,8910]]'
-  - '[[_Standards/WikiData/WD~Crater,9282]]'
-  - '[[_Standards/WikiData/WD~Coma_Berenices,9285]]'
-  - '[[_Standards/WikiData/WD~Corvus,10517]]'
-  - '[[_Standards/WikiData/WD~Hydra,10578]]'
-  - '[[_Standards/WikiData/WD~Libra,10580]]'
+  - "[[_Standards/WikiData/WD~Boötes,8667]]"
+  - "[[_Standards/WikiData/WD~Leo,8853]]"
+  - "[[_Standards/WikiData/WD~Serpens,8910]]"
+  - "[[_Standards/WikiData/WD~Crater,9282]]"
+  - "[[_Standards/WikiData/WD~Coma_Berenices,9285]]"
+  - "[[_Standards/WikiData/WD~Corvus,10517]]"
+  - "[[_Standards/WikiData/WD~Hydra,10578]]"
+  - "[[_Standards/WikiData/WD~Libra,10580]]"
 area: 1294
 OmegaWiki_Defined_Meaning: 8107
 Commons_gallery: Virgo
@@ -49,15 +49,44 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Virgo%20co
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Virgo%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VirgoCC.jpg
 Baidu_Tieba_name: 处女座
+dv_SpocWebEntityId: 28168
+dv_#has_:
+  name_:
+    la: Virgo
+    la_:
+      genitive: Virginis
+    de: Jungfrau
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Virgo,8842|WD~Virgo,8842]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Virgo|Zodiac~Virgo]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Virgo.public|Zodiac~Virgo.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Virgo.internal|Zodiac~Virgo.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Virgo.protect|Zodiac~Virgo.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Virgo.private|Zodiac~Virgo.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Virgo.personal|Zodiac~Virgo.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Virgo.secret|Zodiac~Virgo.secret]]"
+dv_has_name_la: Virgo
+dv_has_name_la_genitive: Virginis
+dv_has_name_de: Jungfrau
+dv_is_same_as:
+  - "[[../../WikiData/WD~Virgo,8842|WD~Virgo,8842]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Virgo|Zodiac~Virgo]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Virgo.public|Zodiac~Virgo.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Virgo.internal|Zodiac~Virgo.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Virgo.protect|Zodiac~Virgo.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Virgo.private|Zodiac~Virgo.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Virgo.personal|Zodiac~Virgo.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Virgo.secret|Zodiac~Virgo.secret]]"
 ---
 
 # [[Zodiac~Virgo]] 
 
-[SpocWebEntityId::28168]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Virgo]
-[#has_/name_/la_/genitive::Virginis]
-[#has_/name_/de::Jungfrau]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Virgo,8842|WD~Virgo,8842]] 
 

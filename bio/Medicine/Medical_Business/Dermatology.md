@@ -71,9 +71,9 @@ Tag Instances like this:
 
 A specific branch of medical science that pertains to diagnosis and treatment of disorders of skin.
 
-[ #is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]] ]
+#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
 
-[ #is_/enum_of :: [[../MedicalSpecialty]] ]
+#is_/enum_of :: [[../MedicalSpecialty]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Dermatology,171171|WD~Dermatology,171171]]
 

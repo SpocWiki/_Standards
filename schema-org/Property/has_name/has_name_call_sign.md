@@ -30,21 +30,22 @@ type: Pred_Text
 
 Predicate to describe the Text of BroadcastService, Person, Vehicle.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/name_/call_sign :: Text ] or 
+- [has_/name_/call_sign :: Text ] 
 - [ has_name_call_sign :: Text ] 
 
 A [callsign](https://en.wikipedia.org/wiki/Call_sign), as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles.
 
 Predicated describes that: 
-[ #has_/domain  :: BroadcastService, Person, Vehicle ]
+
+#has_/domain  :: BroadcastService, Person, Vehicle  
+
 ( #has_/name :: has_name_call_sign )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

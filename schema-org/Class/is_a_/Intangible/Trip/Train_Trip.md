@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - train_trip
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_train_trip Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_train_trip Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Trip]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Train_Trip|Train_Trip]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.public|Train_Trip.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.internal|Train_Trip.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.protect|Train_Trip.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.private|Train_Trip.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.personal|Train_Trip.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.secret|Train_Trip.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ]"
+dv_is_sub_class_of: "[[../Trip]]"
+dv_has_properties: "[ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Train_Trip|Train_Trip]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.public|Train_Trip.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.internal|Train_Trip.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.protect|Train_Trip.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.private|Train_Trip.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.personal|Train_Trip.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.secret|Train_Trip.secret]]"
 ---
 
 Class of all train_trips.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 A trip on a commercial train line.
 
-[ #is_/sub_class_of :: [[../Trip]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

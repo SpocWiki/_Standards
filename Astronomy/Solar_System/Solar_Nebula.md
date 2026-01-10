@@ -2,6 +2,25 @@
 aliases:
 has_id_wikidata: Q3400
 instance_of: "[[_Standards/WikiData/WD~molecular_cloud,272447]]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Solar_Nebula,3400|WD~Solar_Nebula,3400]]"
+    - "[[/_Standards/Astronomy/Solar_System/Solar_Nebula|Solar_Nebula]]"
+    - "[[/_public/Astronomy/Solar_System/Solar_Nebula.public|Solar_Nebula.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Solar_Nebula.internal|Solar_Nebula.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Solar_Nebula.protect|Solar_Nebula.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Solar_Nebula.private|Solar_Nebula.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Solar_Nebula.personal|Solar_Nebula.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Solar_Nebula.secret|Solar_Nebula.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Solar_Nebula,3400|WD~Solar_Nebula,3400]]"
+  - "[[/_Standards/Astronomy/Solar_System/Solar_Nebula|Solar_Nebula]]"
+  - "[[/_public/Astronomy/Solar_System/Solar_Nebula.public|Solar_Nebula.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Solar_Nebula.internal|Solar_Nebula.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Solar_Nebula.protect|Solar_Nebula.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Solar_Nebula.private|Solar_Nebula.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Solar_Nebula.personal|Solar_Nebula.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Solar_Nebula.secret|Solar_Nebula.secret]]"
 ---
 
 # [[Solar_Nebula]] 

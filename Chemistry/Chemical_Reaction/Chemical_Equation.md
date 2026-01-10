@@ -7,15 +7,34 @@ aliases:
   - Chemical_Equation
   - Chemical Equation
 has_id_wikidata: Q182527
-has_part_s_: '[[_Standards/WikiData/WD~chemical_formula,83147]]'
-described_by_source: '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+has_part_s_: "[[_Standards/WikiData/WD~chemical_formula,83147]]"
+described_by_source: "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~formula,976981]]'
-  - '[[_Standards/WikiData/WD~equation,11345]]'
-different_from: '[[_Standards/WikiData/WD~equation,11345]]'
-depicts: '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
-P8189: 987007284923405171
+  - "[[_Standards/WikiData/WD~formula,976981]]"
+  - "[[_Standards/WikiData/WD~equation,11345]]"
+different_from: "[[_Standards/WikiData/WD~equation,11345]]"
+depicts: "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
+P8189: 987007284923405200
 Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKOE_URAVNENIE.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Chemical_equation,182527|WD~Chemical_equation,182527]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Chemical_Equation|Chemical_Equation]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Chemical_Equation.public|Chemical_Equation.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Chemical_Equation.internal|Chemical_Equation.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Chemical_Equation.protect|Chemical_Equation.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Chemical_Equation.private|Chemical_Equation.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Chemical_Equation.personal|Chemical_Equation.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Chemical_Equation.secret|Chemical_Equation.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Chemical_equation,182527|WD~Chemical_equation,182527]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Chemical_Equation|Chemical_Equation]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Chemical_Equation.public|Chemical_Equation.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Chemical_Equation.internal|Chemical_Equation.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Chemical_Equation.protect|Chemical_Equation.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Chemical_Equation.private|Chemical_Equation.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Chemical_Equation.personal|Chemical_Equation.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Chemical_Equation.secret|Chemical_Equation.secret]]"
 ---
 
 # [[Chemical_Equation]] 

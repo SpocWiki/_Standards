@@ -34,12 +34,11 @@ Tag Instances like this:
 
 A delivery service through which content is provided via broadcast over the air or online.
 
-[ #is_/sub_class_of :: [[../Service]] ]
+#is_/sub_class_of :: [[../Service]]  
 
-[ #has_/sub_classes :: [ RadioBroadcastService ] ]
+#has_/sub_classes :: [ RadioBroadcastService ]  
 
-[ #has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ] ]
-
+#has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ]  
 
 ## Confidential Links & Embeds: 
 

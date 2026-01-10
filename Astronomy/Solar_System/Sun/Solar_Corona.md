@@ -13,6 +13,25 @@ OmegaWiki_Defined_Meaning: "1240244"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20eclipse%201999%204.jpg
 Krugosvet_article_archived_: astronomiya/korona
 Commons_category: Solar corona
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Solar_corona,170754|WD~Solar_corona,170754]]"
+    - "[[/_Standards/Astronomy/Solar_System/Sun/Solar_Corona|Solar_Corona]]"
+    - "[[/_public/Astronomy/Solar_System/Sun/Solar_Corona.public|Solar_Corona.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Sun/Solar_Corona.internal|Solar_Corona.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Sun/Solar_Corona.protect|Solar_Corona.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Sun/Solar_Corona.private|Solar_Corona.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Sun/Solar_Corona.personal|Solar_Corona.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Sun/Solar_Corona.secret|Solar_Corona.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Solar_corona,170754|WD~Solar_corona,170754]]"
+  - "[[/_Standards/Astronomy/Solar_System/Sun/Solar_Corona|Solar_Corona]]"
+  - "[[/_public/Astronomy/Solar_System/Sun/Solar_Corona.public|Solar_Corona.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Sun/Solar_Corona.internal|Solar_Corona.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Sun/Solar_Corona.protect|Solar_Corona.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Sun/Solar_Corona.private|Solar_Corona.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Sun/Solar_Corona.personal|Solar_Corona.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Sun/Solar_Corona.secret|Solar_Corona.secret]]"
 ---
 
 # [[Solar_Corona]] 

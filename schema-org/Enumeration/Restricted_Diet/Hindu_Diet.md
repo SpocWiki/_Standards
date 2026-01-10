@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - hindu_diet
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_hindu_diet Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_hindu_diet Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../RestrictedDiet]]"
+  enum_of: "[[../RestrictedDiet]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Hindu_Diet|Hindu_Diet]]"
+    - "[[/_public/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.public|Hindu_Diet.public]]"
+    - "[[/_internal/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.internal|Hindu_Diet.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.protect|Hindu_Diet.protect]]"
+    - "[[/_private/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.private|Hindu_Diet.private]]"
+    - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.personal|Hindu_Diet.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.secret|Hindu_Diet.secret]]"
+dv_is_sub_class_of: "[[../RestrictedDiet]]"
+dv_is_enum_of: "[[../RestrictedDiet]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Hindu_Diet|Hindu_Diet]]"
+  - "[[/_public/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.public|Hindu_Diet.public]]"
+  - "[[/_internal/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.internal|Hindu_Diet.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.protect|Hindu_Diet.protect]]"
+  - "[[/_private/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.private|Hindu_Diet.private]]"
+  - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.personal|Hindu_Diet.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Hindu_Diet.secret|Hindu_Diet.secret]]"
 ---
 
 Class of all hindu_diets.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 A diet conforming to Hindu dietary practices, in particular, beef-free.
 
-[ #is_/sub_class_of :: [[../RestrictedDiet]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../RestrictedDiet]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

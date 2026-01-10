@@ -14,7 +14,7 @@ cssclasses:
   - private
   - note
 draft: true
-expiryDate: ''
+expiryDate: ""
 has_time_started: 2023-12-02
 isDeleted: false
 isReadOnly: false
@@ -22,23 +22,44 @@ Key: Value
 keywords:
   - Ethan_Acid
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle: Ethan_Acid
-Predicate: '[[Object]]'
+Predicate: "[[Object]]"
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
   - Ethan_Acid
   - rather
   - use
 title: Ethan_Acid
 type: private note
+dv_is_:
+  part_of: "[[../../../Organic_Chemistry]]"
+  same_as:
+    - "[[../../../../WikiData/WD~Acetic_acid,47512|WD~Acetic_acid,47512]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid|Ethanoic_Acid]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.public|Ethanoic_Acid.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.internal|Ethanoic_Acid.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.protect|Ethanoic_Acid.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.private|Ethanoic_Acid.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.personal|Ethanoic_Acid.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.secret|Ethanoic_Acid.secret]]"
+dv_is_part_of: "[[../../../Organic_Chemistry]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Acetic_acid,47512|WD~Acetic_acid,47512]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid|Ethanoic_Acid]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.public|Ethanoic_Acid.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.internal|Ethanoic_Acid.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.protect|Ethanoic_Acid.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.private|Ethanoic_Acid.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.personal|Ethanoic_Acid.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.secret|Ethanoic_Acid.secret]]"
 ---
 
 # [[Ethanoic_Acid]] 
 
-#is_/part_of :: [[Organic_Chemistry]] 
+is_part_of = `=this.dv_is_part_of` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Acetic_acid,47512|WD~Acetic_acid,47512]] 
 

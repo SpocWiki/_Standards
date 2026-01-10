@@ -16,6 +16,25 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/PEREMENNIE_ZVEZDI.html
 Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/variable-star
 Dewey_Decimal_Classification: "523.844"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Variable_star,6243|WD~Variable_star,6243]]"
+    - "[[/_Standards/Astronomy/Star/Variable_Star|Variable_Star]]"
+    - "[[/_public/Astronomy/Star/Variable_Star.public|Variable_Star.public]]"
+    - "[[/_internal/Astronomy/Star/Variable_Star.internal|Variable_Star.internal]]"
+    - "[[/_protect/Astronomy/Star/Variable_Star.protect|Variable_Star.protect]]"
+    - "[[/_private/Astronomy/Star/Variable_Star.private|Variable_Star.private]]"
+    - "[[/_personal/Astronomy/Star/Variable_Star.personal|Variable_Star.personal]]"
+    - "[[/_secret/Astronomy/Star/Variable_Star.secret|Variable_Star.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Variable_star,6243|WD~Variable_star,6243]]"
+  - "[[/_Standards/Astronomy/Star/Variable_Star|Variable_Star]]"
+  - "[[/_public/Astronomy/Star/Variable_Star.public|Variable_Star.public]]"
+  - "[[/_internal/Astronomy/Star/Variable_Star.internal|Variable_Star.internal]]"
+  - "[[/_protect/Astronomy/Star/Variable_Star.protect|Variable_Star.protect]]"
+  - "[[/_private/Astronomy/Star/Variable_Star.private|Variable_Star.private]]"
+  - "[[/_personal/Astronomy/Star/Variable_Star.personal|Variable_Star.personal]]"
+  - "[[/_secret/Astronomy/Star/Variable_Star.secret|Variable_Star.secret]]"
 ---
 
 # [[Variable_Star]] 

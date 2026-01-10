@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: OfferItemCondition
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - used_condition
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_used_condition Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_used_condition Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../OfferItemCondition]]"
+  enum_of: "[[../OfferItemCondition]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition/Used_Condition|Used_Condition]]"
+    - "[[/_public/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.public|Used_Condition.public]]"
+    - "[[/_internal/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.internal|Used_Condition.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.protect|Used_Condition.protect]]"
+    - "[[/_private/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.private|Used_Condition.private]]"
+    - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.personal|Used_Condition.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.secret|Used_Condition.secret]]"
+dv_is_sub_class_of: "[[../OfferItemCondition]]"
+dv_is_enum_of: "[[../OfferItemCondition]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition/Used_Condition|Used_Condition]]"
+  - "[[/_public/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.public|Used_Condition.public]]"
+  - "[[/_internal/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.internal|Used_Condition.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.protect|Used_Condition.protect]]"
+  - "[[/_private/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.private|Used_Condition.private]]"
+  - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.personal|Used_Condition.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.secret|Used_Condition.secret]]"
 ---
 
 Class of all used_conditions.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 Indicates that the item is used.
 
-[ #is_/sub_class_of :: [[../OfferItemCondition]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../OfferItemCondition]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

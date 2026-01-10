@@ -28,21 +28,22 @@ title: has_category_code
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/category_code :: CategoryCode ] or 
+- [has_/category_code :: CategoryCode ] 
 - [ has_category_code :: CategoryCode ] 
 
 A Category code contained in this code set.
 
 Relation describes that: 
-[ #has_/domain  :: CategoryCodeSet ]
+
+#has_/domain  :: CategoryCodeSet  
+
 ( #has_/name :: has_category_code )
 ( #has_/range :: CategoryCode )
 
-[ #is_/sub_property_of  :: hasDefinedTerm ]
-
+#is_/sub_property_of  :: hasDefinedTerm  
 
 ## Confidential Links & Embeds: 
 

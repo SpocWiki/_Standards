@@ -85,13 +85,38 @@ CAS_Registry_Number: 106-97-8
 P2167: "15111505"
 EC_number: 203-448-7
 Commons_category: Butane
+dv_has_:
+  formula_:
+    sum: C4H10
+    structural: C-C-C-C
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Butane,134192|WD~Butane,134192]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane|Butane]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.public|Butane.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.internal|Butane.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.protect|Butane.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.private|Butane.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.personal|Butane.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.secret|Butane.secret]]"
+dv_has_formula_sum: C4H10
+dv_has_formula_structural: C-C-C-C
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Butane,134192|WD~Butane,134192]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane|Butane]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.public|Butane.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.internal|Butane.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.protect|Butane.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.private|Butane.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.personal|Butane.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.secret|Butane.secret]]"
 ---
 
 # [[Butane]] 
 
 
-#has_/formula_/sum :: C4H10 
-#has_/formula_/structural :: C-C-C-C 
+has_formula_sum = `=this.dv_has_formula_sum` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 #is_/same_as :: [[../../../../WikiData/WD~Butane,134192|WD~Butane,134192]] 
 
 ## #has_/text_of_/abstract 

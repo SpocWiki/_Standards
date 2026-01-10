@@ -32,18 +32,19 @@ type: Pred_Text
 Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
-- [ #has_/text_of_/art_medium :: Text, URL ] or 
+- [has_/text_of_/art_medium :: Text, URL ] 
 - [ has_text_of_art_medium :: Text, URL ] 
 
 The material used. (E.g. Oil, Watercolour, Acrylic, Linoprint, Marble, Cyanotype, Digital, Lithograph, DryPoint, Intaglio, Pastel, Woodcut, Pencil, Mixed Media, etc.)
 
 Predicated describes that: 
-[ #has_/domain  :: VisualArtwork ]
+
+#has_/domain  :: VisualArtwork  
+
 ( #has_/name :: has_text_of_art_medium )
 ( #has_/range :: Text, URL )
 
-[ #is_/sub_property_of  :: material ]
-
+#is_/sub_property_of  :: material  
 
 ## Confidential Links & Embeds: 
 

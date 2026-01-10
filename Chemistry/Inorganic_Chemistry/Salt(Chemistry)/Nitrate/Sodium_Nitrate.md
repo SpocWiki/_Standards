@@ -8,18 +8,18 @@ aliases:
   - Sodium_Nitrate
   - Sodium Nitrate
 has_id_wikidata: Q184373
-subject_has_role: '[[_Standards/WikiData/WD~carcinogen,187661]]'
-has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
+subject_has_role: "[[_Standards/WikiData/WD~carcinogen,187661]]"
+has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~nitrogen,627]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
-  - '[[_Standards/WikiData/WD~sodium,658]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+  - "[[_Standards/WikiData/WD~nitrogen,627]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+  - "[[_Standards/WikiData/WD~sodium,658]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_compound,11173]]"
 standard_enthalpy_of_formation: -257
 Mohs_hardness: 2
 molar_fusion_enthalpy: 16
@@ -45,15 +45,36 @@ E_number: E251
 Reaxys_registry_number: 11343077
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chilisalpeter%20%28Sodium%20nitrate%29.jpg
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Sodium%20nitrate.svg
-canonical_SMILES: '[N+](=O)([O-])[O-].[Na+]'
+canonical_SMILES: "[N+](=O)([O-])[O-].[Na+]"
 EC_number: 231-554-3
 CAS_Registry_Number: 7631-99-4
 UMLS_CUI: C0074748
 DSSTOX_compound_identifier: DTXCID60937
-Wolfram_Language_entity_code: Entity["Concept", "SodaNiter::wn267"]
+Wolfram_Language_entity_code: Entity"Concept", "SodaNiter = `=this.dv_"Concept", "SodaNiter` 
 chemical_formula: NaNO₃
 Commons_category: Sodium nitrate
 RTECS_number: WC5600000
+dv_"Concept", "SodaNiter: wn267"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Sodium_nitrate,184373|WD~Sodium_nitrate,184373]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate|Sodium_Nitrate]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.public|Sodium_Nitrate.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.internal|Sodium_Nitrate.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.protect|Sodium_Nitrate.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.private|Sodium_Nitrate.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.personal|Sodium_Nitrate.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.secret|Sodium_Nitrate.secret]]"
+dv_concept-sodaniter: wn267"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sodium_nitrate,184373|WD~Sodium_nitrate,184373]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate|Sodium_Nitrate]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.public|Sodium_Nitrate.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.internal|Sodium_Nitrate.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.protect|Sodium_Nitrate.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.private|Sodium_Nitrate.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.personal|Sodium_Nitrate.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Sodium_Nitrate.secret|Sodium_Nitrate.secret]]"
 ---
 
 # [[Sodium_Nitrate]] 

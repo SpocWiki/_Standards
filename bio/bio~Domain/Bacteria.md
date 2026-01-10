@@ -173,9 +173,9 @@ Tag Instances like this:
 
 In [[../../schema-org]]: Pathogenic bacteria that cause bacterial infection.
 
-[ #is_/sub_class_of :: [[../InfectiousAgentClass]] ]
-[ #is_/enum_of :: [[../InfectiousAgentClass]] ]
+is_/sub_class_of :: [[../InfectiousAgentClass]]  
 
+is_/enum_of :: [[../InfectiousAgentClass]]  
 
 #is_/same_as :: [[../../WikiData/WD~Bacteria,10876|WD~Bacteria,10876]] 
 

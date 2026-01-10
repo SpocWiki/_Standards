@@ -44,6 +44,25 @@ OmegaWiki_Defined_Meaning: "955516"
 Commons_category: Systems
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Prim%C3%A4res%20System.png
 IEV_number: 351-42-08
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~System,58778]]"
+    - "[[/_Standards/schema-org/Composite/System|System]]"
+    - "[[/_public/schema-org/Composite/System.public|System.public]]"
+    - "[[/_internal/schema-org/Composite/System.internal|System.internal]]"
+    - "[[/_protect/schema-org/Composite/System.protect|System.protect]]"
+    - "[[/_private/schema-org/Composite/System.private|System.private]]"
+    - "[[/_personal/schema-org/Composite/System.personal|System.personal]]"
+    - "[[/_secret/schema-org/Composite/System.secret|System.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~System,58778]]"
+  - "[[/_Standards/schema-org/Composite/System|System]]"
+  - "[[/_public/schema-org/Composite/System.public|System.public]]"
+  - "[[/_internal/schema-org/Composite/System.internal|System.internal]]"
+  - "[[/_protect/schema-org/Composite/System.protect|System.protect]]"
+  - "[[/_private/schema-org/Composite/System.private|System.private]]"
+  - "[[/_personal/schema-org/Composite/System.personal|System.personal]]"
+  - "[[/_secret/schema-org/Composite/System.secret|System.secret]]"
 ---
 
 # [[System]] 

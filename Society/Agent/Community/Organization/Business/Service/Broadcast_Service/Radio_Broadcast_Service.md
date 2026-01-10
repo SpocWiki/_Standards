@@ -34,14 +34,13 @@ Class of all radio_broadcast_service Stations.
 Tag Instances like this: 
 #is_a_/radio_broadcast_service
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A delivery service through which radio content is provided via broadcast over the air or online.
 
-[ #is_/sub_class_of :: [[../BroadcastService]] ]
+#is_/sub_class_of :: [[../BroadcastService]]  
 
-[ #has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ] ]
-
+#has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ]  
 
 ## Confidential Links & Embeds: 
 

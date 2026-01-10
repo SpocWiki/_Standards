@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: RestrictedDiet
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - low_lactose_diet
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_low_lactose_diet Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_low_lactose_diet Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../RestrictedDiet]]"
+  enum_of: "[[../RestrictedDiet]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet|Low_Lactose_Diet]]"
+    - "[[/_public/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.public|Low_Lactose_Diet.public]]"
+    - "[[/_internal/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.internal|Low_Lactose_Diet.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.protect|Low_Lactose_Diet.protect]]"
+    - "[[/_private/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.private|Low_Lactose_Diet.private]]"
+    - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.personal|Low_Lactose_Diet.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.secret|Low_Lactose_Diet.secret]]"
+dv_is_sub_class_of: "[[../RestrictedDiet]]"
+dv_is_enum_of: "[[../RestrictedDiet]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet|Low_Lactose_Diet]]"
+  - "[[/_public/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.public|Low_Lactose_Diet.public]]"
+  - "[[/_internal/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.internal|Low_Lactose_Diet.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.protect|Low_Lactose_Diet.protect]]"
+  - "[[/_private/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.private|Low_Lactose_Diet.private]]"
+  - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.personal|Low_Lactose_Diet.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.secret|Low_Lactose_Diet.secret]]"
 ---
 
 Class of all low_lactose_diets.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 A diet appropriate for people with lactose intolerance.
 
-[ #is_/sub_class_of :: [[../RestrictedDiet]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../RestrictedDiet]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

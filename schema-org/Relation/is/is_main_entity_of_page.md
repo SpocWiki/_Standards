@@ -69,7 +69,7 @@ Indicates a page (or other CreativeWork) for which this thing is the main entity
 
 
 Use it like this: 
-- [ #is_/main_entity_of_page :: CreativeWork, URL ] or 
+- [is_/main_entity_of_page :: CreativeWork, URL ] 
 - [ is_main_entity_of_page :: CreativeWork, URL ] 
 
 Indicates a page, URL (or other CreativeWork) for which this thing is the main entity being described. 
@@ -77,12 +77,13 @@ Indicates a page, URL (or other CreativeWork) for which this thing is the main e
 See [background notes](/docs/datamodel.html#mainEntityBackground) for details.
 
 Relation describes that: 
-[ #has_/domain  :: [Thing](../../../Class/Thing.md) ]
+
+#has_/domain  :: [Thing](../../../Class/Thing.md)  
+
 ( #has_/name :: is_main_entity_of_page )
 ( #has_/range :: CreativeWork, URL )
 
-[ #is_/inverse_of  :: [[has_main_entity]] ]
-
+#is_/inverse_of  :: [[has_main_entity]]  
 
 ## Confidential Links & Embeds: 
 

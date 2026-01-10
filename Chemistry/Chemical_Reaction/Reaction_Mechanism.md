@@ -5,6 +5,25 @@ has_part_s_: "[[_Standards/WikiData/WD~elementary_reaction,845117]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Reaction_mechanisms,8084830]]"
 subclass_of: "[[_Standards/WikiData/WD~molecular_mechanism,98084272]]"
 Commons_category: Reaction mechanisms
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Reaction_mechanism,373406]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Reaction_Mechanism|Reaction_Mechanism]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Reaction_Mechanism.public|Reaction_Mechanism.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Reaction_Mechanism.internal|Reaction_Mechanism.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Reaction_Mechanism.protect|Reaction_Mechanism.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Reaction_Mechanism.private|Reaction_Mechanism.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Reaction_Mechanism.personal|Reaction_Mechanism.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Reaction_Mechanism.secret|Reaction_Mechanism.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Reaction_mechanism,373406]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Reaction_Mechanism|Reaction_Mechanism]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Reaction_Mechanism.public|Reaction_Mechanism.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Reaction_Mechanism.internal|Reaction_Mechanism.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Reaction_Mechanism.protect|Reaction_Mechanism.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Reaction_Mechanism.private|Reaction_Mechanism.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Reaction_Mechanism.personal|Reaction_Mechanism.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Reaction_Mechanism.secret|Reaction_Mechanism.secret]]"
 ---
 
 # [[Reaction_Mechanism]] 

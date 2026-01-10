@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SLOVENIA
 dv_Telephone: 386
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Slovenia
+dv_has_name: Slovenia
 dv_has_name_en: Slovenia
 dv_has_name_es: Eslovenia
 dv_has_name_fr: Slovénie
@@ -670,7 +670,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Slovenia ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

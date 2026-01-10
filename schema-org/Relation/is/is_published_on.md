@@ -27,13 +27,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/published_on :: BroadcastService] or 
+- [is_/published_on :: BroadcastService] 
 - [ is_published_on :: BroadcastService] 
 
 A broadcast service associated with the publication event.
 
 Relation describes that: 
-[ #has_/domain  :: PublicationEvent]
+
+#has_/domain  :: PublicationEvent 
+
 ( #has_/name :: is_published_on)
 ( #has_/range :: BroadcastService)
 

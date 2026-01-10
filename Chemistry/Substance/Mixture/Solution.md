@@ -19,6 +19,25 @@ MeSH_tree_code: D26.776
 Colon_Classification: E:22
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/RASTVORI.html
 Commons_category: Solutions
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Solution,5447188|WD~Solution,5447188]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture/Solution|Solution]]"
+    - "[[/_public/Chemistry/Substance/Mixture/Solution.public|Solution.public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture/Solution.internal|Solution.internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture/Solution.protect|Solution.protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture/Solution.private|Solution.private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture/Solution.personal|Solution.personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture/Solution.secret|Solution.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Solution,5447188|WD~Solution,5447188]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture/Solution|Solution]]"
+  - "[[/_public/Chemistry/Substance/Mixture/Solution.public|Solution.public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture/Solution.internal|Solution.internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture/Solution.protect|Solution.protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture/Solution.private|Solution.private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture/Solution.personal|Solution.personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture/Solution.secret|Solution.secret]]"
 ---
 
 # [[Solution]] 

@@ -43,13 +43,15 @@ Unlike [[has_place_longitude|longitude]] and [[has_place_latitude|latitude]] whi
 #has_/place_/lat_longitude 
 
 Use it like this: 
-- [ #has_/place_/elevation_/meters :: Number, Text ] or 
+- [has_/place_/elevation_/meters :: Number, Text ] 
 - [ has_place_elevation_meters :: [Number, Text] ] 
 
 The elevation of a location (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>). 
 
 Predicate describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], [[../../Class/is_a_/Intangible/structured_value/geo_shape|GeoShape]] ]
+
+#has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], [[../../Class/is_a_/Intangible/structured_value/geo_shape|GeoShape]]  
+
 ( #has_/name :: has_place_elevation_in_meters )
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 

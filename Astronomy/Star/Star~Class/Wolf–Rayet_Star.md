@@ -5,19 +5,38 @@ aliases:
   - Wolf–Rayet Star
 has_id_wikidata: Q6251
 instance_of:
-  - '[[_Standards/WikiData/WD~spectral_class,179600]]'
-  - '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+  - "[[_Standards/WikiData/WD~spectral_class,179600]]"
+  - "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 named_after:
-  - '[[_Standards/WikiData/WD~Georges_Rayet,499187]]'
-  - '[[_Standards/WikiData/WD~Charles_Wolf,720089]]'
-has_part_s_: '[[_Standards/WikiData/WD~Wolf_Rayet_nebula,2928009]]'
-different_from: '[[_Standards/WikiData/WD~Wolf_Rayet_type_star,9283096]]'
-subclass_of: '[[_Standards/WikiData/WD~emission_line_star,72803622]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+  - "[[_Standards/WikiData/WD~Georges_Rayet,499187]]"
+  - "[[_Standards/WikiData/WD~Charles_Wolf,720089]]"
+has_part_s_: "[[_Standards/WikiData/WD~Wolf_Rayet_nebula,2928009]]"
+different_from: "[[_Standards/WikiData/WD~Wolf_Rayet_type_star,9283096]]"
+subclass_of: "[[_Standards/WikiData/WD~emission_line_star,72803622]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20cosmic%20couple.jpg
 Dewey_Decimal_Classification: 523.88
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20of%20the%20evolution%20of%20a%20hot%20high-mass%20binary%20star.ogv
 Commons_category: Wolf-Rayet stars
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Wolf–Rayet_star,6251|WD~Wolf–Rayet_star,6251]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Wolf–Rayet_Star|Wolf–Rayet_Star]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Wolf–Rayet_Star.public|Wolf–Rayet_Star.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Wolf–Rayet_Star.internal|Wolf–Rayet_Star.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Wolf–Rayet_Star.protect|Wolf–Rayet_Star.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Wolf–Rayet_Star.private|Wolf–Rayet_Star.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Wolf–Rayet_Star.personal|Wolf–Rayet_Star.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Wolf–Rayet_Star.secret|Wolf–Rayet_Star.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Wolf–Rayet_star,6251|WD~Wolf–Rayet_star,6251]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Wolf–Rayet_Star|Wolf–Rayet_Star]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Wolf–Rayet_Star.public|Wolf–Rayet_Star.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Wolf–Rayet_Star.internal|Wolf–Rayet_Star.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Wolf–Rayet_Star.protect|Wolf–Rayet_Star.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Wolf–Rayet_Star.private|Wolf–Rayet_Star.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Wolf–Rayet_Star.personal|Wolf–Rayet_Star.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Wolf–Rayet_Star.secret|Wolf–Rayet_Star.secret]]"
 ---
 
 # [[Wolf–Rayet_Star]] 

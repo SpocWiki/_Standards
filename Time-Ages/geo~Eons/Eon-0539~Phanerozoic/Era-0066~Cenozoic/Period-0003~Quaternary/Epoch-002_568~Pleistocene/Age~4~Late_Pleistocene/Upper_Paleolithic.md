@@ -6,15 +6,45 @@ aliases:
   - Upper_Paleolithic
 has_id_wikidata: Q479505
 instance_of:
-  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
-  - '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
 start_time:
   - -38000-01-01T00:00:00Z
   - -48000-01-01T00:00:00Z
-location: '[[_Standards/WikiData/WD~Eurasia,5401]]'
+location: "[[_Standards/WikiData/WD~Eurasia,5401]]"
 end_time: -7700-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lascaux%20painting.jpg
 Commons_category: Upper Paleolithic
+dv_has_:
+  time_:
+    started: -48000
+    stopped: -10000
+  duration_:
+    years: 38000
+    ka: 38
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Upper_Paleolithic,479505|WD~Upper_Paleolithic,479505]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic|Upper_Paleolithic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.public|Upper_Paleolithic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.internal|Upper_Paleolithic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.protect|Upper_Paleolithic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.private|Upper_Paleolithic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.personal|Upper_Paleolithic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.secret|Upper_Paleolithic.secret]]"
+dv_has_time_started: -48000
+dv_has_time_stopped: -10000
+dv_has_duration_years: 38000
+dv_has_duration_ka: 38
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Upper_Paleolithic,479505|WD~Upper_Paleolithic,479505]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic|Upper_Paleolithic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.public|Upper_Paleolithic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.internal|Upper_Paleolithic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.protect|Upper_Paleolithic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.private|Upper_Paleolithic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.personal|Upper_Paleolithic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.secret|Upper_Paleolithic.secret]]"
 ---
 
 # [[Upper_Paleolithic]]
@@ -22,11 +52,11 @@ Commons_category: Upper Paleolithic
 #is_a_/time_/Culture 
 
 
-#has_/time_/started :: -48e3 
-#has_/time_/stopped :: -10e3 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
-#has_/duration_/ka :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
+#has_/duration_/years :: `$=Math.round((Number(dv.current().dv_has_time_stopped) - dv.current().dv_has_time_started))` 
+#has_/duration_/ka :: `=number(this.dv_has_time_stopped) - number(this.dv_has_time_started)` 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Upper_Paleolithic,479505|WD~Upper_Paleolithic,479505]] 
 
 ## #has_/text_of_/abstract 

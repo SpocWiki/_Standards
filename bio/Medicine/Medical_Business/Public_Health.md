@@ -72,9 +72,9 @@ Commons_category: Public health
 
 # [[Public_Health]] 
 
-[ #is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]] ]
+#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
 
-[ #is_/enum_of :: [[../MedicalSpecialty]] ]
+#is_/enum_of :: [[../MedicalSpecialty]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Public_health,189603|WD~Public_health,189603]] 
 

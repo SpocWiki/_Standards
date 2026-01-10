@@ -29,22 +29,23 @@ title: has_no_bylines_policy
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/no_bylines_policy :: CreativeWork, URL ] or 
+- [has_/no_bylines_policy :: CreativeWork, URL ] 
 - [ has_no_bylines_policy :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]] or other news-related [[../../../Society/Agent/Community/Organization]], 
 a statement explaining when authors of articles are not named in bylines.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization ]
+
+#has_/domain  :: NewsMediaOrganization  
+
 ( #has_/name :: has_no_bylines_policy )
 ( #has_/range :: CreativeWork, URL )
 
-[ #is_/sub_property_of  :: publishingPrinciples ]
-
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

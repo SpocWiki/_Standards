@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: BookFormatType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - graphic_novel
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_graphic_novel Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_graphic_novel Class
 type: Type
+dv_is_:
+  part_of: https://bib.schema.org
+  enum_of: "[[../Book_Format_Type]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/Graphic_Novel|Graphic_Novel]]"
+    - "[[/_public/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.public|Graphic_Novel.public]]"
+    - "[[/_internal/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.internal|Graphic_Novel.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.protect|Graphic_Novel.protect]]"
+    - "[[/_private/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.private|Graphic_Novel.private]]"
+    - "[[/_personal/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.personal|Graphic_Novel.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.secret|Graphic_Novel.secret]]"
+dv_is_part_of: https://bib.schema.org
+dv_is_enum_of: "[[../Book_Format_Type]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/Graphic_Novel|Graphic_Novel]]"
+  - "[[/_public/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.public|Graphic_Novel.public]]"
+  - "[[/_internal/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.internal|Graphic_Novel.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.protect|Graphic_Novel.protect]]"
+  - "[[/_private/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.private|Graphic_Novel.private]]"
+  - "[[/_personal/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.personal|Graphic_Novel.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.secret|Graphic_Novel.secret]]"
 ---
 
 Class of all graphic_novels.
@@ -33,12 +54,11 @@ Class of all graphic_novels.
 Tag Instances like this: 
 #is_a_/graphic_novel
 
-[ #is_/part_of :: https://bib.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Book format: [[Graphic_Novel]]. May represent a bound collection of [[../../../../../../Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|comic-issue]] instances.
 
-[ #is_/enum_of :: [[../Book_Format_Type]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

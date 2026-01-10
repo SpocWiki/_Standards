@@ -13,7 +13,7 @@ dv_has_:
     code_repository: https://github.com/SpocWiki/Asia-Japan
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Japan
+dv_has_name: Japan
 dv_has_name_en: Japan
 dv_has_name_es: Japón
 dv_has_name_fr: Japon
@@ -703,7 +703,7 @@ has_telephone_prefix_country = `=this.dv_has_telephone_prefix_country`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Japan ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

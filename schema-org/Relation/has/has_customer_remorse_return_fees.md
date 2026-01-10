@@ -30,16 +30,18 @@ title: has_customer_remorse_return_fees
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/customer_remorse_return_fees :: ReturnFeesEnumeration ] or 
+- [has_/customer_remorse_return_fees :: ReturnFeesEnumeration ] 
 - [ has_customer_remorse_return_fees :: ReturnFeesEnumeration ] 
 
 The type of return fees if the product is returned due to customer remorse.
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy ]
+
+#has_/domain  :: MerchantReturnPolicy  
+
 ( #has_/name :: has_customer_remorse_return_fees )
 ( #has_/range :: ReturnFeesEnumeration )
 

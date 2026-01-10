@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - gender_type
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_gender_type Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_gender_type Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Gender_Type|Gender_Type]]"
+    - "[[/_public/schema-org/Enumeration/Gender_Type.public|Gender_Type.public]]"
+    - "[[/_internal/schema-org/Enumeration/Gender_Type.internal|Gender_Type.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Gender_Type.protect|Gender_Type.protect]]"
+    - "[[/_private/schema-org/Enumeration/Gender_Type.private|Gender_Type.private]]"
+    - "[[/_personal/schema-org/Enumeration/Gender_Type.personal|Gender_Type.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Gender_Type.secret|Gender_Type.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Gender_Type|Gender_Type]]"
+  - "[[/_public/schema-org/Enumeration/Gender_Type.public|Gender_Type.public]]"
+  - "[[/_internal/schema-org/Enumeration/Gender_Type.internal|Gender_Type.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Gender_Type.protect|Gender_Type.protect]]"
+  - "[[/_private/schema-org/Enumeration/Gender_Type.private|Gender_Type.private]]"
+  - "[[/_personal/schema-org/Enumeration/Gender_Type.personal|Gender_Type.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Gender_Type.secret|Gender_Type.secret]]"
 ---
 
 Class of all gender_types.
@@ -34,8 +53,7 @@ Tag Instances like this:
 
 An enumeration of genders.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

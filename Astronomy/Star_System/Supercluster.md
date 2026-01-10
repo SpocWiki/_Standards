@@ -8,6 +8,25 @@ instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
 subclass_of: "[[_Standards/WikiData/WD~astronomical_object,6999]]"
 Dewey_Decimal_Classification: "523.112"
 Commons_category: Superclusters of galaxies
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Supercluster,27521|WD~Supercluster,27521]]"
+    - "[[/_Standards/Astronomy/Star_System/Supercluster|Supercluster]]"
+    - "[[/_public/Astronomy/Star_System/Supercluster.public|Supercluster.public]]"
+    - "[[/_internal/Astronomy/Star_System/Supercluster.internal|Supercluster.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Supercluster.protect|Supercluster.protect]]"
+    - "[[/_private/Astronomy/Star_System/Supercluster.private|Supercluster.private]]"
+    - "[[/_personal/Astronomy/Star_System/Supercluster.personal|Supercluster.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Supercluster.secret|Supercluster.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Supercluster,27521|WD~Supercluster,27521]]"
+  - "[[/_Standards/Astronomy/Star_System/Supercluster|Supercluster]]"
+  - "[[/_public/Astronomy/Star_System/Supercluster.public|Supercluster.public]]"
+  - "[[/_internal/Astronomy/Star_System/Supercluster.internal|Supercluster.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Supercluster.protect|Supercluster.protect]]"
+  - "[[/_private/Astronomy/Star_System/Supercluster.private|Supercluster.private]]"
+  - "[[/_personal/Astronomy/Star_System/Supercluster.personal|Supercluster.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Supercluster.secret|Supercluster.secret]]"
 ---
 
 # [[Supercluster]] 

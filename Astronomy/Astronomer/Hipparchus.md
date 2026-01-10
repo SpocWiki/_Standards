@@ -44,6 +44,25 @@ Commons_category: Hipparchus
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20Hipparchus%20%28cropped%29.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20Hipparchus%20%28cropped%29.jpg
 ISNI: "0000000107855341"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Hipparchus,159905|WD~Hipparchus,159905]]"
+    - "[[/_Standards/Astronomy/Astronomer/Hipparchus|Hipparchus]]"
+    - "[[/_public/Astronomy/Astronomer/Hipparchus.public|Hipparchus.public]]"
+    - "[[/_internal/Astronomy/Astronomer/Hipparchus.internal|Hipparchus.internal]]"
+    - "[[/_protect/Astronomy/Astronomer/Hipparchus.protect|Hipparchus.protect]]"
+    - "[[/_private/Astronomy/Astronomer/Hipparchus.private|Hipparchus.private]]"
+    - "[[/_personal/Astronomy/Astronomer/Hipparchus.personal|Hipparchus.personal]]"
+    - "[[/_secret/Astronomy/Astronomer/Hipparchus.secret|Hipparchus.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Hipparchus,159905|WD~Hipparchus,159905]]"
+  - "[[/_Standards/Astronomy/Astronomer/Hipparchus|Hipparchus]]"
+  - "[[/_public/Astronomy/Astronomer/Hipparchus.public|Hipparchus.public]]"
+  - "[[/_internal/Astronomy/Astronomer/Hipparchus.internal|Hipparchus.internal]]"
+  - "[[/_protect/Astronomy/Astronomer/Hipparchus.protect|Hipparchus.protect]]"
+  - "[[/_private/Astronomy/Astronomer/Hipparchus.private|Hipparchus.private]]"
+  - "[[/_personal/Astronomy/Astronomer/Hipparchus.personal|Hipparchus.personal]]"
+  - "[[/_secret/Astronomy/Astronomer/Hipparchus.secret|Hipparchus.secret]]"
 ---
 
 # [[Hipparchus]] 

@@ -17,6 +17,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Polyamide-WH-1.svg
 CXSMILES: "[*][*]C(=O)N[*] |Sg:n:1,2,3,4::ht,$;R$|"
 P2167: "13111031"
 Commons_category: Polyamides
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~polyamide,145273]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide|Polyamide]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Polymer/Polyamide.public|Polyamide.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polyamide.internal|Polyamide.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Polymer/Polyamide.protect|Polyamide.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Polymer/Polyamide.private|Polyamide.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polyamide.personal|Polyamide.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polyamide.secret|Polyamide.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~polyamide,145273]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide|Polyamide]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Polymer/Polyamide.public|Polyamide.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polyamide.internal|Polyamide.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Polymer/Polyamide.protect|Polyamide.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Polymer/Polyamide.private|Polyamide.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polyamide.personal|Polyamide.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polyamide.secret|Polyamide.secret]]"
 ---
 
 # [[Polyamide]] 

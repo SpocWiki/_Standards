@@ -27,18 +27,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/bcc_recipient :: ContactPoint, Organization, Person ] or 
+- [has_/bcc_recipient :: ContactPoint, Organization, Person ] 
 - [ has_bcc_recipient :: ContactPoint, Organization, Person ] 
 
 A sub property of recipient. The recipient blind copied on a message.
 
 Relation describes that: 
-[ #has_/domain  :: Message ]
+
+#has_/domain  :: Message  
+
 ( #has_/name :: has_bcc_recipient )
 ( #has_/range :: ContactPoint, Organization, Person )
 
-[ #is_/sub_property_of  :: recipient ]
-
+#is_/sub_property_of  :: recipient  
 
 ## Confidential Links & Embeds: 
 

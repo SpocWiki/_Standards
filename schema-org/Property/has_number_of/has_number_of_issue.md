@@ -30,18 +30,19 @@ type: Predi_Count
 Predicate to describe the Number of PublicationIssue.
 
 Use it like this: 
-- [ #has_/number_of_/issue :: Integer, Text ] or 
+- [has_/number_of_/issue :: Integer, Text ] 
 - [ has_number_of_issue :: Integer, Text ] 
 
 Identifies the issue of publication; for example, "iii" or "2".
 
 Predicate describes that: 
-[ #has_/domain  :: PublicationIssue ]
+
+#has_/domain  :: PublicationIssue  
+
 ( #has_/name :: has_number_of_issue )
 ( #has_/range :: Integer, Text )
 
-[ #is_/sub_property_of  :: position ]
-
+#is_/sub_property_of  :: position  
 
 ## Confidential Links & Embeds: 
 

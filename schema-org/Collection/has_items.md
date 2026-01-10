@@ -29,15 +29,17 @@ type: Predi_Relation
 # [[has_items]] 
 
 Use it like this: 
-- [ #has_/items :: [Thing](../../../Class/Thing.md) ] or 
-- [ has_items :: [Thing](../../../Class/Thing.md) ] 
+- has_/items :: [Thing](../../../Class/Thing.md) 
+- has_items :: [Thing](../../../Class/Thing.md) 
 
 An entity represented by an entry in a list or data feed (e.g. an 'artist' in a list of 'artists').
 
 #is_/inverse_of :: [[is_item_in]] 
 
 Relation describes that: 
-[ #has_/domain  :: DataFeedItem, ListItem ]
+
+#has_/domain  :: DataFeedItem, ListItem  
+
 ( #has_/name :: has_items )
 ( #has_/range :: Thing )
 

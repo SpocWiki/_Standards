@@ -10,36 +10,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - membership
   - number
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_id_membership
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_id_membership
 type: Pred_Text
+dv_has_:
+  id_:
+    membership: Text
+  domain: ProgramMembership
+dv_has_id_membership: Text
+dv_#has_:
+  name: has_id_membership
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_id_membership|has_id_membership]]"
+    - "[[/_public/schema-org/Property/has_name/has_id_membership.public|has_id_membership.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_id_membership.internal|has_id_membership.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_id_membership.protect|has_id_membership.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_id_membership.private|has_id_membership.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_id_membership.personal|has_id_membership.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_id_membership.secret|has_id_membership.secret]]"
+dv_has_domain: ProgramMembership
+dv_has_name: has_id_membership
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_id_membership|has_id_membership]]"
+  - "[[/_public/schema-org/Property/has_name/has_id_membership.public|has_id_membership.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_id_membership.internal|has_id_membership.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_id_membership.protect|has_id_membership.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_id_membership.private|has_id_membership.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_id_membership.personal|has_id_membership.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_id_membership.secret|has_id_membership.secret]]"
 ---
 
 Predicate to describe the Text of ProgramMembership.
 
 Use it like this: 
-- [ #has_/id_/membership :: Text ] or 
-- [ has_id_membership :: Text ] 
+- has_id_membership = `=this.dv_has_id_membership`  
+- has_id_membership = `=this.dv_has_id_membership`  
 
 A unique identifier for the membership.
 
 Predicated describes that: 
-[ #has_/domain  :: ProgramMembership ]
-( #has_/name :: has_id_membership )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

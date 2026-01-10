@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - study_design
   - study
   - design
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_study_design
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_study_design
 type: Predi_Relation
+dv_has_:
+  study_design: MedicalObservationalStudyDesign
+  domain: MedicalObservationalStudy
+dv_has_study_design: MedicalObservationalStudyDesign
+dv_#has_:
+  name: is_study_design
+  range: MedicalObservationalStudyDesign
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_study_design|has_study_design]]"
+    - "[[/_public/schema-org/Relation/has/has_study_design.public|has_study_design.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_study_design.internal|has_study_design.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_study_design.protect|has_study_design.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_study_design.private|has_study_design.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_study_design.personal|has_study_design.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_study_design.secret|has_study_design.secret]]"
+dv_has_domain: MedicalObservationalStudy
+dv_has_name: is_study_design
+dv_has_range: MedicalObservationalStudyDesign
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_study_design|has_study_design]]"
+  - "[[/_public/schema-org/Relation/has/has_study_design.public|has_study_design.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_study_design.internal|has_study_design.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_study_design.protect|has_study_design.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_study_design.private|has_study_design.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_study_design.personal|has_study_design.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_study_design.secret|has_study_design.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/study_design :: MedicalObservationalStudyDesign ] or 
-- [ has_study_design :: MedicalObservationalStudyDesign ] 
+- has_study_design = `=this.dv_has_study_design`  
+- has_study_design = `=this.dv_has_study_design`  
 
 Specifics about the observational study design (enumerated).
 
 Relation describes that: 
-[ #has_/domain  :: MedicalObservationalStudy ]
-( #has_/name :: is_study_design )
-( #has_/range :: MedicalObservationalStudyDesign )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

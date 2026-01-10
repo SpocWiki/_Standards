@@ -2,6 +2,23 @@
 aliases:
   - Group-10-Nickel
 type: ElementGroup
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel|Group-10-Nickel]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-10-Nickel.public|Group-10-Nickel.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel.internal|Group-10-Nickel.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel.protect|Group-10-Nickel.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel.private|Group-10-Nickel.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel.personal|Group-10-Nickel.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel.secret|Group-10-Nickel.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel|Group-10-Nickel]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-10-Nickel.public|Group-10-Nickel.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel.internal|Group-10-Nickel.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel.protect|Group-10-Nickel.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel.private|Group-10-Nickel.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel.personal|Group-10-Nickel.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel.secret|Group-10-Nickel.secret]]"
 ---
 
 #chemic/Group 

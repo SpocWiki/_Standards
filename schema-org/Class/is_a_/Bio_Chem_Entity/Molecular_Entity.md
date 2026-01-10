@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - molecular_entity
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_molecular_entity Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_molecular_entity Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Bio_Chem_Entity]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]"
+    - "[[/_public/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.public|Molecular_Entity.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.internal|Molecular_Entity.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.protect|Molecular_Entity.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.private|Molecular_Entity.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.personal|Molecular_Entity.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.secret|Molecular_Entity.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, inChI, inChIKey, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, iupacName, mainEntityOfPage, molecularFormula, molecularWeight, monoisotopicMolecularWeight, name, potentialAction, potentialUse, sameAs, smiles, subjectOf, taxonomicRange, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Bio_Chem_Entity]]"
+dv_has_properties: "[ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, inChI, inChIKey, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, iupacName, mainEntityOfPage, molecularFormula, molecularWeight, monoisotopicMolecularWeight, name, potentialAction, potentialUse, sameAs, smiles, subjectOf, taxonomicRange, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]"
+  - "[[/_public/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.public|Molecular_Entity.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.internal|Molecular_Entity.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.protect|Molecular_Entity.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.private|Molecular_Entity.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.personal|Molecular_Entity.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.secret|Molecular_Entity.secret]]"
 ---
 
 # [[Molecular_Entity]] 
@@ -34,15 +58,14 @@ Class of all molecular_entitys.
 Tag Instances like this: 
 #is_a_/molecular_entity
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., 
 identifiable as a separately distinguishable entity.
 
-[ #is_/sub_class_of :: [[../bio_chem_entity]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, inChI, inChIKey, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, iupacName, mainEntityOfPage, molecularFormula, molecularWeight, monoisotopicMolecularWeight, name, potentialAction, potentialUse, sameAs, smiles, subjectOf, taxonomicRange, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

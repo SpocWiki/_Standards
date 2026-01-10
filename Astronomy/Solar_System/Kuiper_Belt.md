@@ -14,6 +14,25 @@ parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
 Commons_category: Kuiper belt objects
 IMDb_keyword: kuiper-belt
 subreddit: Kuiperbelt
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Kuiper_Belt,427]]"
+    - "[[/_Standards/Astronomy/Solar_System/Kuiper_Belt|Kuiper_Belt]]"
+    - "[[/_public/Astronomy/Solar_System/Kuiper_Belt.public|Kuiper_Belt.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Kuiper_Belt.internal|Kuiper_Belt.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Kuiper_Belt.protect|Kuiper_Belt.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Kuiper_Belt.private|Kuiper_Belt.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Kuiper_Belt.personal|Kuiper_Belt.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Kuiper_Belt.secret|Kuiper_Belt.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Kuiper_Belt,427]]"
+  - "[[/_Standards/Astronomy/Solar_System/Kuiper_Belt|Kuiper_Belt]]"
+  - "[[/_public/Astronomy/Solar_System/Kuiper_Belt.public|Kuiper_Belt.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Kuiper_Belt.internal|Kuiper_Belt.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Kuiper_Belt.protect|Kuiper_Belt.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Kuiper_Belt.private|Kuiper_Belt.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Kuiper_Belt.personal|Kuiper_Belt.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Kuiper_Belt.secret|Kuiper_Belt.secret]]"
 ---
 
 # [[Kuiper_Belt]] 

@@ -25,17 +25,19 @@ title: is_assessing
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #is_/assessing :: DefinedTerm, Text ] or 
+- [is_/assessing :: DefinedTerm, Text ] 
 - [ is_assessing :: DefinedTerm, Text ] 
 
 The item being described is intended to assess the competency or learning outcome
 defined by the referenced term.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, EducationEvent, LearningResource ]
+
+#has_/domain  :: CreativeWork, EducationEvent, LearningResource  
+
 ( #has_/name :: is_assessing )
 ( #has_/range :: [[../../../Class/is_a_thing/intangible/defined_term]]], [[Text]] )
 

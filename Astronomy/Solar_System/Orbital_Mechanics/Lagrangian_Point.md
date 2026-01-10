@@ -6,19 +6,19 @@ aliases:
   - Lagrangian_Point
   - Lagrangian Point
 has_id_wikidata: Q190463
-named_after: '[[_Standards/WikiData/WD~Joseph_Louis_Lagrange,80222]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~libration,218673]]'
+named_after: "[[_Standards/WikiData/WD~Joseph_Louis_Lagrange,80222]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~libration,218673]]"
 has_use:
-  - '[[_Standards/WikiData/WD~interplanetary_transport_network,1529884]]'
-  - '[[_Standards/WikiData/WD~Lagrange_point_colonization,5677287]]'
-has_list: '[[_Standards/WikiData/WD~list_of_objects_at_Lagrangian_points,3243130]]'
+  - "[[_Standards/WikiData/WD~interplanetary_transport_network,1529884]]"
+  - "[[_Standards/WikiData/WD~Lagrange_point_colonization,5677287]]"
+has_list: "[[_Standards/WikiData/WD~list_of_objects_at_Lagrangian_points,3243130]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~L2,15725508]]'
-  - '[[_Standards/WikiData/WD~L4,15726290]]'
-  - '[[_Standards/WikiData/WD~L5,15726296]]'
-  - '[[_Standards/WikiData/WD~L1,15881550]]'
-  - '[[_Standards/WikiData/WD~L3,15881567]]'
-subclass_of: '[[_Standards/WikiData/WD~point_in_physical_space,122683347]]'
+  - "[[_Standards/WikiData/WD~L2,15725508]]"
+  - "[[_Standards/WikiData/WD~L4,15726290]]"
+  - "[[_Standards/WikiData/WD~L5,15726296]]"
+  - "[[_Standards/WikiData/WD~L1,15881550]]"
+  - "[[_Standards/WikiData/WD~L3,15881567]]"
+subclass_of: "[[_Standards/WikiData/WD~point_in_physical_space,122683347]]"
 Wikidata_property: Lagrangian point
 schematic:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lagrangepunten%201%20en%202.svg
@@ -32,6 +32,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lagrange%20points.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lagrangian%20points%20equipotential.gif
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001229
 Commons_category: Lagrange points
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Lagrangian_point,190463|WD~Lagrangian_point,190463]]"
+    - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point|Lagrangian_Point]]"
+    - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.public|Lagrangian_Point.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.internal|Lagrangian_Point.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.protect|Lagrangian_Point.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.private|Lagrangian_Point.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.personal|Lagrangian_Point.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.secret|Lagrangian_Point.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Lagrangian_point,190463|WD~Lagrangian_point,190463]]"
+  - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point|Lagrangian_Point]]"
+  - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.public|Lagrangian_Point.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.internal|Lagrangian_Point.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.protect|Lagrangian_Point.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.private|Lagrangian_Point.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.personal|Lagrangian_Point.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Lagrangian_Point.secret|Lagrangian_Point.secret]]"
 ---
 
 # [[Lagrangian_Point]] 

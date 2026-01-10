@@ -26,21 +26,22 @@ title: has_acquire_license_page
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/acquire_license_page :: CreativeWork, URL ] or 
+- [has_/acquire_license_page :: CreativeWork, URL ] 
 - [ has_acquire_license_page :: CreativeWork, URL ] 
 
 Indicates a page documenting how licenses can be purchased or otherwise acquired, for the current item.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_acquire_license_page )
 ( #has_/range :: CreativeWork, URL )
 
-[ #is_/sub_property_of  :: usageInfo ]
-
+#is_/sub_property_of  :: usageInfo  
 
 ## Confidential Links & Embeds: 
 

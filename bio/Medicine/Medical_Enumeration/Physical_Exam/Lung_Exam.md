@@ -34,10 +34,9 @@ is_an_/examination_of_the_/lung
 
 Lung and respiratory system clinical examination.
 
-[ #is_/sub_class_of :: [[../PhysicalExam]] ]
+#is_/sub_class_of :: [[../PhysicalExam]]  
 
-[ #is_/enum_of :: [[../PhysicalExam]] ]
-
+#is_/enum_of :: [[../PhysicalExam]]  
 
 ## Confidential Links & Embeds: 
 

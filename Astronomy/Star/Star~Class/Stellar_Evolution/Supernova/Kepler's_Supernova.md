@@ -5,6 +5,23 @@ aliases:
   - Kepler's Star
   - SN 1604
   - Kepler's_Supernova
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova|Kepler's_Supernova]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.public|Kepler's_Supernova.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.internal|Kepler's_Supernova.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.protect|Kepler's_Supernova.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.private|Kepler's_Supernova.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.personal|Kepler's_Supernova.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.secret|Kepler's_Supernova.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova|Kepler's_Supernova]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.public|Kepler's_Supernova.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.internal|Kepler's_Supernova.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.protect|Kepler's_Supernova.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.private|Kepler's_Supernova.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.personal|Kepler's_Supernova.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.secret|Kepler's_Supernova.secret]]"
 ---
 
 # [[Kepler's_Supernova]] 

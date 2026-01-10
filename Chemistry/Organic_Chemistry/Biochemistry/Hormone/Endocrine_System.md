@@ -17,6 +17,25 @@ Commons_gallery: Endocrine system
 Commons_category: Endocrine system
 Krugosvet_article: nauka_i_tehnika/biologiya/ENDOKRINNAYA_SISTEMA.html
 Library_of_Congress_Classification: QP187.A1-QP187.Z
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Endocrine_system,11078|WD~Endocrine_system,11078]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System|Endocrine_System]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.public|Endocrine_System.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.internal|Endocrine_System.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.protect|Endocrine_System.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.private|Endocrine_System.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.personal|Endocrine_System.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.secret|Endocrine_System.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Endocrine_system,11078|WD~Endocrine_system,11078]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System|Endocrine_System]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.public|Endocrine_System.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.internal|Endocrine_System.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.protect|Endocrine_System.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.private|Endocrine_System.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.personal|Endocrine_System.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.secret|Endocrine_System.secret]]"
 ---
 
 # [[Endocrine_System]] 

@@ -28,16 +28,18 @@ title: has_health_aspect
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/health_aspect :: HealthAspectEnumeration ] or 
+- [has_/health_aspect :: HealthAspectEnumeration ] 
 - [ has_health_aspect :: HealthAspectEnumeration ] 
 
 Indicates the aspect or aspects specifically addressed in some [[HealthTopicContent]]. For example, that the content is an overview, or that it talks about treatment, self-care, treatments or their side-effects.
 
 Relation describes that: 
-[ #has_/domain  :: HealthTopicContent ]
+
+#has_/domain  :: HealthTopicContent  
+
 ( #has_/name :: has_health_aspect )
 ( #has_/range :: HealthAspectEnumeration )
 

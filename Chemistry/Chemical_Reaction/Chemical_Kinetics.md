@@ -5,18 +5,37 @@ aliases:
   - Chemical_Kinetics
   - Chemical Kinetics
 has_id_wikidata: Q209082
-instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-subclass_of: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
+instance_of: "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+subclass_of: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
 OmegaWiki_Defined_Meaning: 3112
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Activation%20energy.svg
 Dewey_Decimal_Classification:
   - 541.394
   - 547.214
   - 572.44
-P8189: 987007285072205171
+P8189: 987007285072205200
 Commons_category: Chemical kinetics
 GitHub_topic: chemical-kinetics
 Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKAYA_KINETIKA.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Chemical_kinetics,209082|WD~Chemical_kinetics,209082]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Chemical_Kinetics|Chemical_Kinetics]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Chemical_Kinetics.public|Chemical_Kinetics.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Chemical_Kinetics.internal|Chemical_Kinetics.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Chemical_Kinetics.protect|Chemical_Kinetics.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Chemical_Kinetics.private|Chemical_Kinetics.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Chemical_Kinetics.personal|Chemical_Kinetics.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Chemical_Kinetics.secret|Chemical_Kinetics.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Chemical_kinetics,209082|WD~Chemical_kinetics,209082]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Chemical_Kinetics|Chemical_Kinetics]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Chemical_Kinetics.public|Chemical_Kinetics.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Chemical_Kinetics.internal|Chemical_Kinetics.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Chemical_Kinetics.protect|Chemical_Kinetics.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Chemical_Kinetics.private|Chemical_Kinetics.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Chemical_Kinetics.personal|Chemical_Kinetics.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Chemical_Kinetics.secret|Chemical_Kinetics.secret]]"
 ---
 
 # [[Chemical_Kinetics]] 

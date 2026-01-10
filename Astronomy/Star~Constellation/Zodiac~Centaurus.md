@@ -9,26 +9,26 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-named_after: '[[_Standards/WikiData/WD~centaur,83203]]'
+named_after: "[[_Standards/WikiData/WD~centaur,83203]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Centaurus,8084779]]'
-  - '[[_Standards/WikiData/WD~Q10729048,10729048]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Centaurus,8084779]]"
+  - "[[_Standards/WikiData/WD~Q10729048,10729048]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Musca,10435]]'
-  - '[[_Standards/WikiData/WD~Carina,10470]]'
-  - '[[_Standards/WikiData/WD~Antlia,10481]]'
-  - '[[_Standards/WikiData/WD~Circinus,10508]]'
-  - '[[_Standards/WikiData/WD~Vela,10521]]'
-  - '[[_Standards/WikiData/WD~Crux,10542]]'
-  - '[[_Standards/WikiData/WD~Lupus,10571]]'
-  - '[[_Standards/WikiData/WD~Hydra,10578]]'
-  - '[[_Standards/WikiData/WD~Libra,10580]]'
+  - "[[_Standards/WikiData/WD~Musca,10435]]"
+  - "[[_Standards/WikiData/WD~Carina,10470]]"
+  - "[[_Standards/WikiData/WD~Antlia,10481]]"
+  - "[[_Standards/WikiData/WD~Circinus,10508]]"
+  - "[[_Standards/WikiData/WD~Vela,10521]]"
+  - "[[_Standards/WikiData/WD~Crux,10542]]"
+  - "[[_Standards/WikiData/WD~Lupus,10571]]"
+  - "[[_Standards/WikiData/WD~Hydra,10578]]"
+  - "[[_Standards/WikiData/WD~Libra,10580]]"
 area: 1060
 Commons_gallery: Centaurus
 Commons_category: Centaurus (constellation)
@@ -38,15 +38,44 @@ short_name: Cen
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Centaurus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Centaurus.jpg
 Hederich_encyclopedia_article: Centavrvs
+dv_SpocWebEntityId: 28101
+dv_#has_:
+  name_:
+    la: Centaurus
+    la_:
+      genitive: Centauri
+    de: Zentaur
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Centaurus|Zodiac~Centaurus]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Centaurus.public|Zodiac~Centaurus.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Centaurus.internal|Zodiac~Centaurus.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Centaurus.protect|Zodiac~Centaurus.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Centaurus.private|Zodiac~Centaurus.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Centaurus.personal|Zodiac~Centaurus.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Centaurus.secret|Zodiac~Centaurus.secret]]"
+dv_has_name_la: Centaurus
+dv_has_name_la_genitive: Centauri
+dv_has_name_de: Zentaur
+dv_is_same_as:
+  - "[[../../WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Centaurus|Zodiac~Centaurus]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Centaurus.public|Zodiac~Centaurus.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Centaurus.internal|Zodiac~Centaurus.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Centaurus.protect|Zodiac~Centaurus.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Centaurus.private|Zodiac~Centaurus.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Centaurus.personal|Zodiac~Centaurus.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Centaurus.secret|Zodiac~Centaurus.secret]]"
 ---
 
 # [[Zodiac~Centaurus]] 
 
-[SpocWebEntityId::28101]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Centaurus]
-[#has_/name_/la_/genitive::Centauri]
-[#has_/name_/de::Zentaur]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]  
 

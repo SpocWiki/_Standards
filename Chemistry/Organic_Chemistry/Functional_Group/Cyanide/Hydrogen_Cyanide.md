@@ -125,11 +125,14 @@ Commons_category: Hydrogen cyanide
 RTECS_number: MW6825000
 SPLASH: splash10-004i-9000000000-ff23e89c9d09e6b92cbc
 image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-cyanide-3D-balls.png
+dv_is_:
+  same_as: "[[WD~Hydrogen_Cyanide,26075]]"
+dv_is_same_as: "[[WD~Hydrogen_Cyanide,26075]]"
 ---
 
 # [[Hydrogen_Cyanide]] 
 
-#is_/same_as :: [[WD~Hydrogen_Cyanide,26075]] 
+is_same_as = `=this.dv_is_same_as` 
 
 ## #has_/text_of_/abstract 
 

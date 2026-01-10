@@ -26,13 +26,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/discussing :: CreativeWork ] or 
+- [is_/discussing :: CreativeWork ] 
 - [ is_discussing :: CreativeWork ] 
 
 Specifies the CreativeWork associated with the UserComment.
 
 Relation describes that: 
-[ #has_/domain  :: UserComments ]
+
+#has_/domain  :: UserComments  
+
 ( #has_/name :: is_discussing )
 ( #has_/range :: CreativeWork )
 

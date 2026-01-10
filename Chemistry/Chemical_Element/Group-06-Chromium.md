@@ -4,20 +4,39 @@ aliases:
 has_id_wikidata: Q193280
 Commons_category: Periodic table group 6
 has_part_s_:
-  - '[[_Standards/WikiData/WD~chromium,725]]'
-  - '[[_Standards/WikiData/WD~tungsten,743]]'
-  - '[[_Standards/WikiData/WD~molybdenum,1053]]'
-  - '[[_Standards/WikiData/WD~seaborgium,1234]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~chromium,725]]"
+  - "[[_Standards/WikiData/WD~tungsten,743]]"
+  - "[[_Standards/WikiData/WD~molybdenum,1053]]"
+  - "[[_Standards/WikiData/WD~seaborgium,1234]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystals%20and%201cm3%20cube.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Wolfram%20evaporated%20crystals%20and%201cm3%20cube.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Molybdenum%20crystaline%20fragment%20and%201cm3%20cube.jpg
-instance_of: '[[_Standards/WikiData/WD~group,83306]]'
+instance_of: "[[_Standards/WikiData/WD~group,83306]]"
 part_of:
-  - '[[_Standards/WikiData/WD~d_block,214503]]'
-  - '[[_Standards/WikiData/WD~periodic_table,10693]]'
+  - "[[_Standards/WikiData/WD~d_block,214503]]"
+  - "[[_Standards/WikiData/WD~periodic_table,10693]]"
 type: ElementGroup
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Group_6,193280]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium|Group-06-Chromium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-06-Chromium.public|Group-06-Chromium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium.internal|Group-06-Chromium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-06-Chromium.protect|Group-06-Chromium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-06-Chromium.private|Group-06-Chromium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium.personal|Group-06-Chromium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium.secret|Group-06-Chromium.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Group_6,193280]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium|Group-06-Chromium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-06-Chromium.public|Group-06-Chromium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium.internal|Group-06-Chromium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-06-Chromium.protect|Group-06-Chromium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-06-Chromium.private|Group-06-Chromium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium.personal|Group-06-Chromium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium.secret|Group-06-Chromium.secret]]"
 ---
 
 # [[Group-06-Chromium]]

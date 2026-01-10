@@ -43,16 +43,96 @@ Commons_category: Quaternary
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide.jpg
 Provenio_UUID: e7f9e0f0-6f68-4e5d-8233-b56dce3f4321
 sRGB_color_hex_triplet: F9F97F
+dv_has_:
+  duration_:
+    years: "2.582e+6"
+  previous_:
+    item: "[[Period-0023~Neogene]]"
+  next_:
+    item: ---
+  name_:
+    bg: Кватернер
+    cs: Kvartér
+    da: Kvartær
+    de: Quartär
+    es: Cuaternario
+    et: Kvaternaar
+    fi: Kvartääri
+    fr: Quaternaire
+    hu: negyedidőszak
+    it: quaternario
+    ja: 第四紀
+    lt: Kvarteras
+    nl: Kwartair
+    no: Kvartær
+    pl: Czwartorzęd
+    pt: Quaternário
+    sk: kvartér
+    sl: kvartar
+    sv: kvartär
+    zh: 第四纪
+    abbreviated: Q
+  time_:
+    started: "-2.580e6"
+    stopped: "0.002e6"
+  text_of_:
+    color: "0xF9F97F"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Quaternary,26185|WD~Quaternary,26185]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary|Period-0003~Quaternary]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.public|Period-0003~Quaternary.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.internal|Period-0003~Quaternary.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.protect|Period-0003~Quaternary.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.private|Period-0003~Quaternary.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.personal|Period-0003~Quaternary.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.secret|Period-0003~Quaternary.secret]]"
+dv_has_duration_years: "2.582e+6"
+dv_has_previous_item: "[[Period-0023~Neogene]]"
+dv_has_next_item: ---
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Quaternary,26185|WD~Quaternary,26185]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary|Period-0003~Quaternary]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.public|Period-0003~Quaternary.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.internal|Period-0003~Quaternary.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.protect|Period-0003~Quaternary.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.private|Period-0003~Quaternary.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.personal|Period-0003~Quaternary.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary.secret|Period-0003~Quaternary.secret]]"
+dv_has_name_bg: Кватернер
+dv_has_name_cs: Kvartér
+dv_has_name_da: Kvartær
+dv_has_name_de: Quartär
+dv_has_name_es: Cuaternario
+dv_has_name_et: Kvaternaar
+dv_has_name_fi: Kvartääri
+dv_has_name_fr: Quaternaire
+dv_has_name_hu: negyedidőszak
+dv_has_name_it: quaternario
+dv_has_name_ja: 第四紀
+dv_has_name_lt: Kvarteras
+dv_has_name_nl: Kwartair
+dv_has_name_no: Kvartær
+dv_has_name_pl: Czwartorzęd
+dv_has_name_pt: Quaternário
+dv_has_name_sk: kvartér
+dv_has_name_sl: kvartar
+dv_has_name_sv: kvartär
+dv_has_name_zh: 第四纪
+dv_has_name_abbreviated: Q
+dv_has_time_started: "-2.580e6"
+dv_has_time_stopped: "0.002e6"
+dv_has_text_of_color: "0xF9F97F"
 ---
 
 # [[Period-0003~Quaternary]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Period-0023~Neogene]] 
-#has_/next_/item :: ---
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[../../../../WikiData/WD~Quaternary,26185|WD~Quaternary,26185]] 
 
 A time period from 2.58 million years ago to the present. 
@@ -76,35 +156,35 @@ A time period from 2.58 million years ago to the present.
 > [Wikipedia](https://en.wikipedia.org/wiki/Quaternary) 
 
 
-#has_/name_/bg  :: Кватернер
-#has_/name_/cs  :: Kvartér
-#has_/name_/da  :: Kvartær
-#has_/name_/de  :: Quartär
-#has_/name_/es  :: Cuaternario
-#has_/name_/et  :: Kvaternaar
-#has_/name_/fi  :: Kvartääri
-#has_/name_/fr  :: Quaternaire
-#has_/name_/hu  :: negyedidőszak
-#has_/name_/it  :: quaternario
-#has_/name_/ja  :: 第四紀
-#has_/name_/lt  :: Kvarteras
-#has_/name_/nl  :: Kwartair
-#has_/name_/no  :: Kvartær
-#has_/name_/pl  :: Czwartorzęd
-#has_/name_/pt  :: Quaternário
-#has_/name_/sk  :: kvartér
-#has_/name_/sl  :: kvartar
-#has_/name_/sv  :: kvartär
-#has_/name_/zh  :: 第四纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: Q
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -2.580e6 
-#has_/time_/stopped ::  0.002e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 10 
 
-#has_/text_of_/color :: 0xF9F97F
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

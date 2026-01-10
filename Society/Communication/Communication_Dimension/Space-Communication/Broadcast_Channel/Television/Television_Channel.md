@@ -37,9 +37,9 @@ Tag Instances like this:
 
 A unique instance of a television BroadcastService on a CableOrSatelliteService lineup.
 
-[ #is_/sub_class_of :: [[../BroadcastChannel]] ]
+#is_/sub_class_of :: [[../BroadcastChannel]]  
 
-[ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
+#has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ]  
 
 #is_/same_as :: [[_Standards/WikiData/WD~television_channel,2001305]]
 

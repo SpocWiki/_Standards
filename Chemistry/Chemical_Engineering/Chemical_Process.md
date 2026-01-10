@@ -7,6 +7,25 @@ subclass_of:
   - "[[_Standards/WikiData/WD~physicochemical_process,111752858]]"
 studied_by: "[[_Standards/WikiData/WD~chemistry,2329]]"
 Commons_category: Chemical processes
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~chemical_process,2281940]]"
+    - "[[/_Standards/Chemistry/Chemical_Engineering/Chemical_Process|Chemical_Process]]"
+    - "[[/_public/Chemistry/Chemical_Engineering/Chemical_Process.public|Chemical_Process.public]]"
+    - "[[/_internal/Chemistry/Chemical_Engineering/Chemical_Process.internal|Chemical_Process.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Engineering/Chemical_Process.protect|Chemical_Process.protect]]"
+    - "[[/_private/Chemistry/Chemical_Engineering/Chemical_Process.private|Chemical_Process.private]]"
+    - "[[/_personal/Chemistry/Chemical_Engineering/Chemical_Process.personal|Chemical_Process.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Engineering/Chemical_Process.secret|Chemical_Process.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~chemical_process,2281940]]"
+  - "[[/_Standards/Chemistry/Chemical_Engineering/Chemical_Process|Chemical_Process]]"
+  - "[[/_public/Chemistry/Chemical_Engineering/Chemical_Process.public|Chemical_Process.public]]"
+  - "[[/_internal/Chemistry/Chemical_Engineering/Chemical_Process.internal|Chemical_Process.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Engineering/Chemical_Process.protect|Chemical_Process.protect]]"
+  - "[[/_private/Chemistry/Chemical_Engineering/Chemical_Process.private|Chemical_Process.private]]"
+  - "[[/_personal/Chemistry/Chemical_Engineering/Chemical_Process.personal|Chemical_Process.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Engineering/Chemical_Process.secret|Chemical_Process.secret]]"
 ---
 
 # [[Chemical_Process]] 

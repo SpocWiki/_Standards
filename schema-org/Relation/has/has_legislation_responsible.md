@@ -28,10 +28,10 @@ title: has_legislation_responsible
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/legislation_responsible :: Organization, Person ] or 
+- [has_/legislation_responsible :: Organization, Person ] 
 - [ has_legislation_responsible :: Organization, Person ] 
 
 An individual or organization that has some kind of responsibility for the legislation.
@@ -39,7 +39,9 @@ Typically the ministry who is/was in charge of elaborating the legislation,
 or the adressee for potential questions about the legislation once it is published.
 
 Relation describes that: 
-[ #has_/domain  :: Legislation ]
+
+#has_/domain  :: Legislation  
+
 ( #has_/name :: has_legislation_responsible )
 ( #has_/range :: Organization, Person )
 

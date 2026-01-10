@@ -5,17 +5,36 @@ aliases:
   - Nebular Hypothesis
 has_id_wikidata: Q13599969
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]'
-  - '[[_Standards/WikiData/WD~encyclopedia_article,13433827]]'
-published_in: '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-part_of: '[[_Standards/WikiData/WD~Exposition_du_système_du_monde,19170514]]'
+  - "[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]"
+  - "[[_Standards/WikiData/WD~encyclopedia_article,13433827]]"
+published_in: "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+part_of: "[[_Standards/WikiData/WD~Exposition_du_système_du_monde,19170514]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Immanuel_Kant,9312]]'
-  - '[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]'
+  - "[[_Standards/WikiData/WD~Immanuel_Kant,9312]]"
+  - "[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]"
 Commons_category: Nebular hypothesis
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Nebular_hypothesis,13599969]]"
+    - "[[/_Standards/Astronomy/Solar_System/Nebular_Hypothesis|Nebular_Hypothesis]]"
+    - "[[/_public/Astronomy/Solar_System/Nebular_Hypothesis.public|Nebular_Hypothesis.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Nebular_Hypothesis.internal|Nebular_Hypothesis.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Nebular_Hypothesis.protect|Nebular_Hypothesis.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Nebular_Hypothesis.private|Nebular_Hypothesis.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Nebular_Hypothesis.personal|Nebular_Hypothesis.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Nebular_Hypothesis.secret|Nebular_Hypothesis.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Nebular_hypothesis,13599969]]"
+  - "[[/_Standards/Astronomy/Solar_System/Nebular_Hypothesis|Nebular_Hypothesis]]"
+  - "[[/_public/Astronomy/Solar_System/Nebular_Hypothesis.public|Nebular_Hypothesis.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Nebular_Hypothesis.internal|Nebular_Hypothesis.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Nebular_Hypothesis.protect|Nebular_Hypothesis.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Nebular_Hypothesis.private|Nebular_Hypothesis.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Nebular_Hypothesis.personal|Nebular_Hypothesis.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Nebular_Hypothesis.secret|Nebular_Hypothesis.secret]]"
 ---
 
 # [[Nebular_Hypothesis]] 

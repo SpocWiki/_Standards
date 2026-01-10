@@ -9,21 +9,21 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Grus,14336009]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-named_after: '[[_Standards/WikiData/WD~crane,115696855]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Grus,14336009]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+named_after: "[[_Standards/WikiData/WD~crane,115696855]]"
 time_of_discovery_or_invention: 1597-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Sculptor,9286]]'
-  - '[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]'
-  - '[[_Standards/WikiData/WD~Phoenix,10441]]'
-  - '[[_Standards/WikiData/WD~Indus,10450]]'
-  - '[[_Standards/WikiData/WD~Microscopium,10492]]'
-  - '[[_Standards/WikiData/WD~Tucana,10567]]'
-different_from: '[[_Standards/WikiData/WD~Grus,47549]]'
+  - "[[_Standards/WikiData/WD~Sculptor,9286]]"
+  - "[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]"
+  - "[[_Standards/WikiData/WD~Phoenix,10441]]"
+  - "[[_Standards/WikiData/WD~Indus,10450]]"
+  - "[[_Standards/WikiData/WD~Microscopium,10492]]"
+  - "[[_Standards/WikiData/WD~Tucana,10567]]"
+different_from: "[[_Standards/WikiData/WD~Grus,47549]]"
 area: 365.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Grus.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Grus%20constellation%20map.svg
@@ -32,15 +32,44 @@ Commons_gallery: Grus (constellation)
 Commons_category: Grus (constellation)
 short_name: Gru
 official_name: Grus
+dv_SpocWebEntityId: 28121
+dv_#has_:
+  name_:
+    la: Grus
+    la_:
+      genitive: Gruis
+    de: Kranich
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Grus,10563]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Grus|Zodiac~Grus]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Grus.public|Zodiac~Grus.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Grus.internal|Zodiac~Grus.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Grus.protect|Zodiac~Grus.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Grus.private|Zodiac~Grus.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Grus.personal|Zodiac~Grus.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Grus.secret|Zodiac~Grus.secret]]"
+dv_has_name_la: Grus
+dv_has_name_la_genitive: Gruis
+dv_has_name_de: Kranich
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Grus,10563]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Grus|Zodiac~Grus]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Grus.public|Zodiac~Grus.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Grus.internal|Zodiac~Grus.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Grus.protect|Zodiac~Grus.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Grus.private|Zodiac~Grus.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Grus.personal|Zodiac~Grus.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Grus.secret|Zodiac~Grus.secret]]"
 ---
 
 # [[Zodiac~Grus]] 
 
-[SpocWebEntityId::28121]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Grus]
-[#has_/name_/la_/genitive::Gruis]
-[#has_/name_/de::Kranich]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Grus,10563]] 
 

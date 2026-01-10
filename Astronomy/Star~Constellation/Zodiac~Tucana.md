@@ -10,20 +10,20 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
+part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q10729133,10729133]]'
-  - '[[_Standards/WikiData/WD~Template_Tucana,10857899]]'
+  - "[[_Standards/WikiData/WD~Q10729133,10729133]]"
+  - "[[_Standards/WikiData/WD~Template_Tucana,10857899]]"
 time_of_discovery_or_invention: 1597-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Hydrus,10416]]'
-  - '[[_Standards/WikiData/WD~Eridanus,10433]]'
-  - '[[_Standards/WikiData/WD~Phoenix,10441]]'
-  - '[[_Standards/WikiData/WD~Indus,10450]]'
-  - '[[_Standards/WikiData/WD~Octans,10503]]'
-  - '[[_Standards/WikiData/WD~Grus,10563]]'
+  - "[[_Standards/WikiData/WD~Hydrus,10416]]"
+  - "[[_Standards/WikiData/WD~Eridanus,10433]]"
+  - "[[_Standards/WikiData/WD~Phoenix,10441]]"
+  - "[[_Standards/WikiData/WD~Indus,10450]]"
+  - "[[_Standards/WikiData/WD~Octans,10503]]"
+  - "[[_Standards/WikiData/WD~Grus,10563]]"
 area: 295
 Commons_category: Tucana (constellation)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Tucana.jpg
@@ -32,15 +32,44 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tuca
 Commons_gallery: Tucana
 short_name: Tuc
 official_name: Tucana
+dv_SpocWebEntityId: 28164
+dv_#has_:
+  name_:
+    la: Tucana
+    la_:
+      genitive: Tucanae
+    de: Tukan
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Tucana,10567]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Tucana|Zodiac~Tucana]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Tucana.public|Zodiac~Tucana.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Tucana.internal|Zodiac~Tucana.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Tucana.protect|Zodiac~Tucana.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Tucana.private|Zodiac~Tucana.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Tucana.personal|Zodiac~Tucana.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Tucana.secret|Zodiac~Tucana.secret]]"
+dv_has_name_la: Tucana
+dv_has_name_la_genitive: Tucanae
+dv_has_name_de: Tukan
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Tucana,10567]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Tucana|Zodiac~Tucana]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Tucana.public|Zodiac~Tucana.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Tucana.internal|Zodiac~Tucana.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Tucana.protect|Zodiac~Tucana.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Tucana.private|Zodiac~Tucana.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Tucana.personal|Zodiac~Tucana.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Tucana.secret|Zodiac~Tucana.secret]]"
 ---
 
 # [[Zodiac~Tucana]] 
 
-[SpocWebEntityId::28164]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Tucana]
-[#has_/name_/la_/genitive::Tucanae]
-[#has_/name_/de::Tukan]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Tucana,10567]] 
 

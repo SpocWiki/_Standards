@@ -5,9 +5,28 @@ aliases:
   - Dwarf_Galaxy
   - Dwarf Galaxy
 has_id_wikidata: Q190438
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+subclass_of: "[[_Standards/WikiData/WD~galaxy,318]]"
 Commons_category: Dwarf galaxies
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Dwarf_galaxy,190438|WD~Dwarf_galaxy,190438]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Dwarf_Galaxy|Dwarf_Galaxy]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.public|Dwarf_Galaxy.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.internal|Dwarf_Galaxy.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.protect|Dwarf_Galaxy.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.private|Dwarf_Galaxy.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.personal|Dwarf_Galaxy.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.secret|Dwarf_Galaxy.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Dwarf_galaxy,190438|WD~Dwarf_galaxy,190438]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Dwarf_Galaxy|Dwarf_Galaxy]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.public|Dwarf_Galaxy.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.internal|Dwarf_Galaxy.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.protect|Dwarf_Galaxy.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.private|Dwarf_Galaxy.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.personal|Dwarf_Galaxy.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Dwarf_Galaxy.secret|Dwarf_Galaxy.secret]]"
 ---
 
 # [[Dwarf_Galaxy]] 

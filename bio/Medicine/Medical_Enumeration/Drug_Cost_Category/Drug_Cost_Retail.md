@@ -37,10 +37,9 @@ Tag Instances like this:
 
 The drug's cost represents the retail cost of the drug.
 
-[ #is_/sub_class_of :: [[../DrugCostCategory]] ]
+#is_/sub_class_of :: [[../DrugCostCategory]]  
 
-[ #is_/enum_of :: [[../DrugCostCategory]] ]
-
+#is_/enum_of :: [[../DrugCostCategory]]  
 
 ## Confidential Links & Embeds: 
 

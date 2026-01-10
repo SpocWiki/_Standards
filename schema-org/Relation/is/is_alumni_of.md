@@ -31,18 +31,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/alumni_of :: EducationalOrganization, Organization ] or 
+- [is_/alumni_of :: EducationalOrganization, Organization ] 
 - [ is_alumni_of :: EducationalOrganization, Organization ] 
 
 An organization that the person is an alumni of.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_alumni_of )
 ( #has_/range :: EducationalOrganization, Organization )
 
-[ #is_/inverse_of  :: [[has_alumni]] ]
-
+#is_/inverse_of  :: [[has_alumni]]  
 
 ## Confidential Links & Embeds: 
 

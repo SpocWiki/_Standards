@@ -88,11 +88,34 @@ CAS_Registry_Number: 60-29-7
 UMLS_CUI: C0014994
 MeSH_tree_code: D02.355.417.332
 Commons_category: Diethyl ether
+dv_has_:
+  formula_:
+    structural: CH3−CH2−O−CH2−CH3
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~diethyl_ether,202218]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether|Diethyl_Ether]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.public|Diethyl_Ether.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.internal|Diethyl_Ether.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.protect|Diethyl_Ether.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.private|Diethyl_Ether.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.personal|Diethyl_Ether.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.secret|Diethyl_Ether.secret]]"
+dv_has_formula_structural: CH3−CH2−O−CH2−CH3
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~diethyl_ether,202218]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether|Diethyl_Ether]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.public|Diethyl_Ether.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.internal|Diethyl_Ether.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.protect|Diethyl_Ether.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.private|Diethyl_Ether.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.personal|Diethyl_Ether.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.secret|Diethyl_Ether.secret]]"
 ---
 
 # [[Diethyl_Ether]] 
 
-#has_/formula_/structural :: CH3−CH2−O−CH2−CH3
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 #is_/same_as :: [[_Standards/WikiData/WD~diethyl_ether,202218]] 
 

@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - payment_charge_specification
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_payment_charge_specification Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_payment_charge_specification Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../PriceSpecification]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification|Payment_Charge_Specification]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.public|Payment_Charge_Specification.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.internal|Payment_Charge_Specification.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.protect|Payment_Charge_Specification.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.private|Payment_Charge_Specification.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.personal|Payment_Charge_Specification.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.secret|Payment_Charge_Specification.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, appliesToDeliveryMethod, appliesToPaymentMethod, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
+dv_is_sub_class_of: "[[../PriceSpecification]]"
+dv_has_properties: "[ additionalType, alternateName, appliesToDeliveryMethod, appliesToPaymentMethod, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification|Payment_Charge_Specification]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.public|Payment_Charge_Specification.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.internal|Payment_Charge_Specification.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.protect|Payment_Charge_Specification.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.private|Payment_Charge_Specification.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.personal|Payment_Charge_Specification.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.secret|Payment_Charge_Specification.secret]]"
 ---
 
 Class of all payment_charge_specifications.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 The costs of settling the payment using a particular payment method.
 
-[ #is_/sub_class_of :: [[../PriceSpecification]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, appliesToDeliveryMethod, appliesToPaymentMethod, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

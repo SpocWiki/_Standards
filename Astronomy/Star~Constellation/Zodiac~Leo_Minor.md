@@ -11,24 +11,24 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
+part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q10729071,10729071]]'
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Leo_Minor,10766710]]'
+  - "[[_Standards/WikiData/WD~Q10729071,10729071]]"
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Leo_Minor,10766710]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Eunuch,10901452]]'
-  - '[[_Standards/WikiData/WD~Junior_Officers,11036535]]'
+  - "[[_Standards/WikiData/WD~Eunuch,10901452]]"
+  - "[[_Standards/WikiData/WD~Junior_Officers,11036535]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Cancer,8849]]'
-  - '[[_Standards/WikiData/WD~Leo,8853]]'
-  - '[[_Standards/WikiData/WD~Ursa_Major,8918]]'
-  - '[[_Standards/WikiData/WD~Lynx,10443]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Cancer,8849]]"
+  - "[[_Standards/WikiData/WD~Leo,8853]]"
+  - "[[_Standards/WikiData/WD~Ursa_Major,8918]]"
+  - "[[_Standards/WikiData/WD~Lynx,10443]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 232
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Johannes_Hevelius,57963]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Johannes_Hevelius,57963]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Minor%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Minor%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LeoMinorCC.jpg
@@ -46,15 +46,44 @@ native_label:
 official_name: Leo Minor
 short_name: LMi
 time_of_discovery_or_invention: 1687-01-01T00:00:00Z
+dv_SpocWebEntityId: 28129
+dv_#has_:
+  name_:
+    la: Minor
+    la_:
+      genitive: Leonis Minoris
+    de: Kl. Loewe
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Leo_Minor,10403|WD~Leo_Minor,10403]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Leo_Minor|Zodiac~Leo_Minor]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Leo_Minor.public|Zodiac~Leo_Minor.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Leo_Minor.internal|Zodiac~Leo_Minor.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Leo_Minor.protect|Zodiac~Leo_Minor.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Leo_Minor.private|Zodiac~Leo_Minor.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Leo_Minor.personal|Zodiac~Leo_Minor.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Leo_Minor.secret|Zodiac~Leo_Minor.secret]]"
+dv_has_name_la: Minor
+dv_has_name_la_genitive: Leonis Minoris
+dv_has_name_de: Kl. Loewe
+dv_is_same_as:
+  - "[[../../WikiData/WD~Leo_Minor,10403|WD~Leo_Minor,10403]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Leo_Minor|Zodiac~Leo_Minor]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Leo_Minor.public|Zodiac~Leo_Minor.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Leo_Minor.internal|Zodiac~Leo_Minor.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Leo_Minor.protect|Zodiac~Leo_Minor.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Leo_Minor.private|Zodiac~Leo_Minor.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Leo_Minor.personal|Zodiac~Leo_Minor.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Leo_Minor.secret|Zodiac~Leo_Minor.secret]]"
 ---
 
 # [[Zodiac~Leo_Minor]] 
 
-[SpocWebEntityId::28129]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Minor]
-[#has_/name_/la_/genitive::Leonis Minoris]
-[#has_/name_/de::Kl. Loewe]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Leo_Minor,10403|WD~Leo_Minor,10403]] 
 

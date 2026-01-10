@@ -10,36 +10,64 @@ cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Date
 title: has_time_of_model
 type: Predi_Date_Time
+dv_has_time_of_model: P#Y#M#W#DT#H#M#s.fff
+dv_#has_:
+  time_:
+    of_model: P#Y#M#W#DT#H#M#s.fff
+dv_is_part_of: https://auto.schema.org
+dv_domain: Vehicle
+dv_has_:
+  name: has_time_of_model
+dv_range: Date
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_model|has_time_of_model]]"
+    - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_model.public|has_time_of_model.public]]"
+    - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_model.internal|has_time_of_model.internal]]"
+    - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_model.protect|has_time_of_model.protect]]"
+    - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_model.private|has_time_of_model.private]]"
+    - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_model.personal|has_time_of_model.personal]]"
+    - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_model.secret|has_time_of_model.secret]]"
+dv_has_name: has_time_of_model
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_model|has_time_of_model]]"
+  - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_model.public|has_time_of_model.public]]"
+  - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_model.internal|has_time_of_model.internal]]"
+  - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_model.protect|has_time_of_model.protect]]"
+  - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_model.private|has_time_of_model.private]]"
+  - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_model.personal|has_time_of_model.personal]]"
+  - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_model.secret|has_time_of_model.secret]]"
 ---
 
 Predicate to describe the date of Vehicle.
 
-[is_part_of:: https://auto.schema.org]
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_time_of_model::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/of_model::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- has_time_of_model = `=this.dv_has_time_of_model`  
+- has_time_of_model = `=this.dv_has_time_of_model`  
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The release date of a vehicle model (often used to differentiate versions of the same make and model).
 
 Formal Predicate: 
-[domain::Vehicle]
-(has_/name::has_time_of_model)
-(range::Date)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

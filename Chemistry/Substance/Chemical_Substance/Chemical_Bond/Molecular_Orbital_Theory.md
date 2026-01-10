@@ -4,9 +4,28 @@ aliases:
   - Molecular_Orbital_Theory
   - Molecular Orbital Theory
 has_id_wikidata: Q898432
-is_the_study_of: '[[_Standards/WikiData/WD~molecular_orbital,725417]]'
-instance_of: '[[_Standards/WikiData/WD~chemical_bonding_model,5090444]]'
+is_the_study_of: "[[_Standards/WikiData/WD~molecular_orbital,725417]]"
+instance_of: "[[_Standards/WikiData/WD~chemical_bonding_model,5090444]]"
 Commons_category: Molecular orbitals
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Molecular_orbital_theory,898432]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory|Molecular_Orbital_Theory]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.public|Molecular_Orbital_Theory.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.internal|Molecular_Orbital_Theory.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.protect|Molecular_Orbital_Theory.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.private|Molecular_Orbital_Theory.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.personal|Molecular_Orbital_Theory.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.secret|Molecular_Orbital_Theory.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Molecular_orbital_theory,898432]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory|Molecular_Orbital_Theory]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.public|Molecular_Orbital_Theory.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.internal|Molecular_Orbital_Theory.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.protect|Molecular_Orbital_Theory.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.private|Molecular_Orbital_Theory.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.personal|Molecular_Orbital_Theory.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital_Theory.secret|Molecular_Orbital_Theory.secret]]"
 ---
 
 # [[Molecular_Orbital_Theory]] 

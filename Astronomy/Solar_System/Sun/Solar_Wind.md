@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Solar_wind,79833|WD~Solar_wind,79833]]"
+    - "[[/_Standards/Astronomy/Solar_System/Sun/Solar_Wind|Solar_Wind]]"
+    - "[[/_public/Astronomy/Solar_System/Sun/Solar_Wind.public|Solar_Wind.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Sun/Solar_Wind.internal|Solar_Wind.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Sun/Solar_Wind.protect|Solar_Wind.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Sun/Solar_Wind.private|Solar_Wind.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Sun/Solar_Wind.personal|Solar_Wind.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Sun/Solar_Wind.secret|Solar_Wind.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Solar_wind,79833|WD~Solar_wind,79833]]"
+  - "[[/_Standards/Astronomy/Solar_System/Sun/Solar_Wind|Solar_Wind]]"
+  - "[[/_public/Astronomy/Solar_System/Sun/Solar_Wind.public|Solar_Wind.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Sun/Solar_Wind.internal|Solar_Wind.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Sun/Solar_Wind.protect|Solar_Wind.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Sun/Solar_Wind.private|Solar_Wind.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Sun/Solar_Wind.personal|Solar_Wind.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Sun/Solar_Wind.secret|Solar_Wind.secret]]"
+---
 
 # [[Solar_Wind]] 
 

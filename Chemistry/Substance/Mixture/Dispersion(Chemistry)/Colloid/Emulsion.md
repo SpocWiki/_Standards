@@ -22,6 +22,25 @@ MeSH_tree_code:
   - D20.280.260
   - D26.255.165.260
 Commons_category: Emulsions
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Emulsion,187634|WD~Emulsion,187634]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion|Emulsion]]"
+    - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.public|Emulsion.public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.internal|Emulsion.internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.protect|Emulsion.protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.private|Emulsion.private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.personal|Emulsion.personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.secret|Emulsion.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Emulsion,187634|WD~Emulsion,187634]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion|Emulsion]]"
+  - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.public|Emulsion.public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.internal|Emulsion.internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.protect|Emulsion.protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.private|Emulsion.private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.personal|Emulsion.personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.secret|Emulsion.secret]]"
 ---
 
 # [[Emulsion]] 

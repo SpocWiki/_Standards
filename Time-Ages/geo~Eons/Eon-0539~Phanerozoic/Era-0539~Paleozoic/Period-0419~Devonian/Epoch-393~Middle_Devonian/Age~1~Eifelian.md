@@ -31,15 +31,95 @@ start_time: -393300000-01-01T00:00:00Z
 coordinate_location: Point(6.4716 50.1496)
 end_time: -387700000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F5D386
+dv_has_:
+  duration_:
+    years: "5.600e+6"
+  previous_:
+    item: "[[../Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]"
+  next_:
+    item: "[[Age~2~Givetian]]"
+  name_:
+    bg: пйфел
+    cs: Eifel
+    da: Eifelien
+    de: Eifelium
+    es: Eifeliense
+    et: Eifeli
+    fi: Eifel
+    fr: Eifélien
+    hu: eifeli
+    it: eifeliano
+    ja: アイフェリアン期
+    lt: Eifelis
+    nl: Eifeliën
+    no: Eifelium
+    pl: Eifel
+    pt: Eifeliano
+    sk: eifel
+    sl: eifelij
+    sv: eifel
+    zh: 艾菲尔期
+    abbreviated: d4
+  time_:
+    started: "-393.3e6"
+    stopped: "-387.7e6"
+  text_of_:
+    color: "0xF1D576"
+dv_is_:
+  same_as:
+    - "[[WD~Eifelian,730523]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.public|Age~1~Eifelian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.internal|Age~1~Eifelian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.protect|Age~1~Eifelian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.private|Age~1~Eifelian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.personal|Age~1~Eifelian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.secret|Age~1~Eifelian.secret]]"
+dv_has_duration_years: "5.600e+6"
+dv_has_previous_item: "[[../Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]]"
+dv_has_next_item: "[[Age~2~Givetian]]"
+dv_is_same_as:
+  - "[[WD~Eifelian,730523]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.public|Age~1~Eifelian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.internal|Age~1~Eifelian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.protect|Age~1~Eifelian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.private|Age~1~Eifelian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.personal|Age~1~Eifelian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-393~Middle_Devonian/Age~1~Eifelian.secret|Age~1~Eifelian.secret]]"
+dv_has_name_bg: пйфел
+dv_has_name_cs: Eifel
+dv_has_name_da: Eifelien
+dv_has_name_de: Eifelium
+dv_has_name_es: Eifeliense
+dv_has_name_et: Eifeli
+dv_has_name_fi: Eifel
+dv_has_name_fr: Eifélien
+dv_has_name_hu: eifeli
+dv_has_name_it: eifeliano
+dv_has_name_ja: アイフェリアン期
+dv_has_name_lt: Eifelis
+dv_has_name_nl: Eifeliën
+dv_has_name_no: Eifelium
+dv_has_name_pl: Eifel
+dv_has_name_pt: Eifeliano
+dv_has_name_sk: eifel
+dv_has_name_sl: eifelij
+dv_has_name_sv: eifel
+dv_has_name_zh: 艾菲尔期
+dv_has_name_abbreviated: d4
+dv_has_time_started: "-393.3e6"
+dv_has_time_stopped: "-387.7e6"
+dv_has_text_of_color: "0xF1D576"
 ---
 # [[Age~1~Eifelian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch-419~Early_Devonian/Age~3~Emsian|Age~3~Emsian]] 
-#has_/next_/item :: [[Age~2~Givetian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Eifelian,730523]] 
 
 A time period from 393.3 to 387.7 million years ago. 
@@ -56,34 +136,34 @@ A time period from 393.3 to 387.7 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Eifelian) 
 
 
-#has_/name_/bg  :: пйфел
-#has_/name_/cs  :: Eifel
-#has_/name_/da  :: Eifelien
-#has_/name_/de  :: Eifelium
-#has_/name_/es  :: Eifeliense
-#has_/name_/et  :: Eifeli
-#has_/name_/fi  :: Eifel
-#has_/name_/fr  :: Eifélien
-#has_/name_/hu  :: eifeli
-#has_/name_/it  :: eifeliano
-#has_/name_/ja  :: アイフェリアン期
-#has_/name_/lt  :: Eifelis
-#has_/name_/nl  :: Eifeliën
-#has_/name_/no  :: Eifelium
-#has_/name_/pl  :: Eifel
-#has_/name_/pt  :: Eifeliano
-#has_/name_/sk  :: eifel
-#has_/name_/sl  :: eifelij
-#has_/name_/sv  :: eifel
-#has_/name_/zh  :: 艾菲尔期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: d4
-#has_/time_/started :: -393.3e6 
-#has_/time_/stopped :: -387.7e6 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 112 
 
-#has_/text_of_/color :: 0xF1D576
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

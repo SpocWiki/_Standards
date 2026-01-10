@@ -356,7 +356,7 @@ dv_ISO4217-currency_country_name: GUINEA
 dv_Telephone: 224
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Guinea
+dv_has_name: Guinea
 dv_has_name_en: Guinea
 dv_has_name_es: Guinea
 dv_has_name_fr: Guinée
@@ -451,7 +451,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Guinea ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

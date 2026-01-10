@@ -186,7 +186,9 @@ writing_system:
 # [[Lang-deu]] 
 
 [SpocWebEntityId:: 497 ]
-[has_/name::German]
+
+has_/name::German 
+
 [PropId_Name::797]
 [PropId_Text::697]
 [LangFamilyId::233]

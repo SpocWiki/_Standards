@@ -57,6 +57,25 @@ MeSH_tree_code:
   - G16.500.750.775.342
   - N06.230.291
 Unicode_character: 🧊
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ice,23392]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Ice|Ice]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Water/Ice.public|Ice.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Water/Ice.internal|Ice.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Water/Ice.protect|Ice.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Water/Ice.private|Ice.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Water/Ice.personal|Ice.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Water/Ice.secret|Ice.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ice,23392]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Ice|Ice]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Water/Ice.public|Ice.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Water/Ice.internal|Ice.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Water/Ice.protect|Ice.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Water/Ice.private|Ice.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Water/Ice.personal|Ice.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Water/Ice.secret|Ice.secret]]"
 ---
 
 # [[Ice]] 

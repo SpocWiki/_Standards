@@ -30,18 +30,19 @@ type: Predi_Relation
 
 
 Use it like this: 
-- [ #has_/borrower :: Person ] or 
+- [has_/borrower :: Person ] 
 - [ has_borrower :: Person ] 
 
 A sub property of participant. The person that borrows the object being lent.
 
 Relation describes that: 
-[ #has_/domain  :: LendAction ]
+
+#has_/domain  :: LendAction  
+
 ( #has_/name :: has_borrower )
 ( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: participant ]
-
+#is_/sub_property_of  :: participant  
 
 ## Confidential Links & Embeds: 
 

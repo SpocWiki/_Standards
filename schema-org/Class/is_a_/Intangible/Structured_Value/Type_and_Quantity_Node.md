@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - type_and_quantity_node
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_type_and_quantity_node Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_type_and_quantity_node Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../StructuredValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.public|Type_and_Quantity_Node.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.internal|Type_and_Quantity_Node.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.protect|Type_and_Quantity_Node.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.private|Type_and_Quantity_Node.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.personal|Type_and_Quantity_Node.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.secret|Type_and_Quantity_Node.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, amountOfThisGood, businessFunction, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, typeOfGood, unitCode, unitText, url ]"
+dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_properties: "[ additionalType, alternateName, amountOfThisGood, businessFunction, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, typeOfGood, unitCode, unitText, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.public|Type_and_Quantity_Node.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.internal|Type_and_Quantity_Node.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.protect|Type_and_Quantity_Node.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.private|Type_and_Quantity_Node.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.personal|Type_and_Quantity_Node.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.secret|Type_and_Quantity_Node.secret]]"
 ---
 
 Class of all type_and_quantity_nodes.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 A structured value indicating the quantity, unit of measurement, and business function of goods included in a bundle offer.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, amountOfThisGood, businessFunction, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, typeOfGood, unitCode, unitText, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

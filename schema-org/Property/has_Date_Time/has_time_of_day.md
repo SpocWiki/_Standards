@@ -32,16 +32,18 @@ type: Pred_Text
 
 Predicate to describe the Text of EducationalOccupationalProgram.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/time_of_day :: Text ] or 
+- [has_/text_of_/time_of_day :: Text ] 
 - [ has_text_of_time_of_day :: Text ] 
 
 The time of day the program normally runs. For example, "evenings".
 
 Predicated describes that: 
-[ #has_/domain  :: EducationalOccupationalProgram ]
+
+#has_/domain  :: EducationalOccupationalProgram  
+
 ( #has_/name :: has_text_of_time_of_day )
 ( #has_/range :: Text )
 

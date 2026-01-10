@@ -30,6 +30,25 @@ MeSH_tree_code:
   - J01.897.461
 Commons_category: Materials science
 IPTC_NewsCode: mediatopic/20000764
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Materials_science,228736|WD~Materials_science,228736]]"
+    - "[[/_Standards/Chemistry/Material/Materials_Science|Materials_Science]]"
+    - "[[/_public/Chemistry/Material/Materials_Science.public|Materials_Science.public]]"
+    - "[[/_internal/Chemistry/Material/Materials_Science.internal|Materials_Science.internal]]"
+    - "[[/_protect/Chemistry/Material/Materials_Science.protect|Materials_Science.protect]]"
+    - "[[/_private/Chemistry/Material/Materials_Science.private|Materials_Science.private]]"
+    - "[[/_personal/Chemistry/Material/Materials_Science.personal|Materials_Science.personal]]"
+    - "[[/_secret/Chemistry/Material/Materials_Science.secret|Materials_Science.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Materials_science,228736|WD~Materials_science,228736]]"
+  - "[[/_Standards/Chemistry/Material/Materials_Science|Materials_Science]]"
+  - "[[/_public/Chemistry/Material/Materials_Science.public|Materials_Science.public]]"
+  - "[[/_internal/Chemistry/Material/Materials_Science.internal|Materials_Science.internal]]"
+  - "[[/_protect/Chemistry/Material/Materials_Science.protect|Materials_Science.protect]]"
+  - "[[/_private/Chemistry/Material/Materials_Science.private|Materials_Science.private]]"
+  - "[[/_personal/Chemistry/Material/Materials_Science.personal|Materials_Science.personal]]"
+  - "[[/_secret/Chemistry/Material/Materials_Science.secret|Materials_Science.secret]]"
 ---
 
 # [[Materials_Science]] 

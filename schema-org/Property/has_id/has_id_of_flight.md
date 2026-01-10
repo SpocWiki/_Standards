@@ -31,18 +31,19 @@ type: Pred_Text
 Predicate to describe the Text of Flight.
 
 Use it like this: 
-- [ #has_/id_/of_flight :: Text ] or 
+- [has_/id_/of_flight :: Text ] 
 - [ has_id_of_flight :: Text ] 
 
 The unique identifier for a flight including the airline IATA code. For example, if describing United flight 110, where the IATA code for United is "UA", the flightNumber is "UA110".
 
 Predicated describes that: 
-[ #has_/domain  :: Flight ]
+
+#has_/domain  :: Flight  
+
 ( #has_/name :: has_id_of_flight )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

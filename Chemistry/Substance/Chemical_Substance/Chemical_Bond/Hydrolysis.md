@@ -1,5 +1,26 @@
+---
+dv_is_:
+  different_from: "[[../../../Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water]]"
+  same_as:
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis|Hydrolysis]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.public|Hydrolysis.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.internal|Hydrolysis.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.protect|Hydrolysis.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.private|Hydrolysis.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.personal|Hydrolysis.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.secret|Hydrolysis.secret]]"
+dv_is_different_from: "[[../../../Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis|Hydrolysis]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.public|Hydrolysis.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.internal|Hydrolysis.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.protect|Hydrolysis.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.private|Hydrolysis.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.personal|Hydrolysis.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.secret|Hydrolysis.secret]]"
+---
 
-#is_/different_from :: [[Electrolysis_of_water]] 
+is_different_from = `=this.dv_is_different_from` 
 
 ## #has_/text_of_/abstract 
 

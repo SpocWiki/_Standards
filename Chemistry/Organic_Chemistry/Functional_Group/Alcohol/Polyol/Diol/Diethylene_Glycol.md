@@ -3,6 +3,28 @@ aliases:
   - Diethylene glycol
   - Diethylene_Glycol
   - Diethylene Glycol
+dv_has_:
+  time: 1985-06-01T00:00:00.000+02:00
+  location: "[[../../../../../../Earth/Continent/Europe/Europe~Central/Austria|Austria]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol|Diethylene_Glycol]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.public|Diethylene_Glycol.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.internal|Diethylene_Glycol.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.protect|Diethylene_Glycol.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.private|Diethylene_Glycol.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.personal|Diethylene_Glycol.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.secret|Diethylene_Glycol.secret]]"
+dv_has_time: 1985-06-01
+dv_has_location: "[[../../../../../../Earth/Continent/Europe/Europe~Central/Austria|Austria]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol|Diethylene_Glycol]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.public|Diethylene_Glycol.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.internal|Diethylene_Glycol.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.protect|Diethylene_Glycol.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.private|Diethylene_Glycol.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.personal|Diethylene_Glycol.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.secret|Diethylene_Glycol.secret]]"
 ---
 
 # [[Diethylene_Glycol]] 
@@ -40,8 +62,8 @@ OCCOCCO
 
 ## 1985 Diethylene Glycol Wine Scandal
 
-#has_/time :: 1985-06 
-#has_/location  :: [[../../../../../../Earth/Continent/Europe/Europe~Central/Austria|Austria]]  
+has_time = `=this.dv_has_time` 
+has_location = `=this.dv_has_location` 
 **Details:** Diethylene glycol (DEG), a component typically used in antifreeze, 
 was illegally added to Austrian wines to enhance sweetness. 
 Several bulk-bottled German wines were contaminated

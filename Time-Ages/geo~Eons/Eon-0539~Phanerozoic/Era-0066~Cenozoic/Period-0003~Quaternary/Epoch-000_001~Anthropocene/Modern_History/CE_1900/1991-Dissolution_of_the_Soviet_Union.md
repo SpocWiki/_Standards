@@ -1,5 +1,7 @@
 ---
-location: [ 90.0 , 65.0 ] 
+location:
+  - 90
+  - 65
 aliases:
 has_id_wikidata: Q5167679
 theorized_by: "[[_Standards/WikiData/WD~Gennady_Yanayev,113173]]"
@@ -30,6 +32,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%2014080
 described_at_URL: http://ru-90.ru/tutorial/raspad-sssr
 Commons_category: Collapse of the Soviet Union
 short_name: Dezmembrarea URSS
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Dissolution_of_the_Soviet_Union,5167679|WD~Dissolution_of_the_Soviet_Union,5167679]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union|1991-Dissolution_of_the_Soviet_Union]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.public|1991-Dissolution_of_the_Soviet_Union.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.internal|1991-Dissolution_of_the_Soviet_Union.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.protect|1991-Dissolution_of_the_Soviet_Union.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.private|1991-Dissolution_of_the_Soviet_Union.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.personal|1991-Dissolution_of_the_Soviet_Union.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.secret|1991-Dissolution_of_the_Soviet_Union.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Dissolution_of_the_Soviet_Union,5167679|WD~Dissolution_of_the_Soviet_Union,5167679]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union|1991-Dissolution_of_the_Soviet_Union]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.public|1991-Dissolution_of_the_Soviet_Union.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.internal|1991-Dissolution_of_the_Soviet_Union.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.protect|1991-Dissolution_of_the_Soviet_Union.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.private|1991-Dissolution_of_the_Soviet_Union.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.personal|1991-Dissolution_of_the_Soviet_Union.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1991-Dissolution_of_the_Soviet_Union.secret|1991-Dissolution_of_the_Soviet_Union.secret]]"
 ---
 
 # [[1991-Dissolution_of_the_Soviet_Union]] 

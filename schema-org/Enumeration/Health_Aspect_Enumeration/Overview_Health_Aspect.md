@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: HealthAspectEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - overview_health_aspect
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_overview_health_aspect Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_overview_health_aspect Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../HealthAspectEnumeration]]"
+  enum_of: "[[../HealthAspectEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect|Overview_Health_Aspect]]"
+    - "[[/_public/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.public|Overview_Health_Aspect.public]]"
+    - "[[/_internal/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.internal|Overview_Health_Aspect.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.protect|Overview_Health_Aspect.protect]]"
+    - "[[/_private/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.private|Overview_Health_Aspect.private]]"
+    - "[[/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.personal|Overview_Health_Aspect.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.secret|Overview_Health_Aspect.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../HealthAspectEnumeration]]"
+dv_is_enum_of: "[[../HealthAspectEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect|Overview_Health_Aspect]]"
+  - "[[/_public/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.public|Overview_Health_Aspect.public]]"
+  - "[[/_internal/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.internal|Overview_Health_Aspect.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.protect|Overview_Health_Aspect.protect]]"
+  - "[[/_private/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.private|Overview_Health_Aspect.private]]"
+  - "[[/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.personal|Overview_Health_Aspect.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/Overview_Health_Aspect.secret|Overview_Health_Aspect.secret]]"
 ---
 
 Class of all overview_health_aspects.
@@ -33,14 +56,13 @@ Class of all overview_health_aspects.
 Tag Instances like this: 
 #is_an_/overview_health_aspect
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Overview of the content. Contains a summarized view of the topic with the most relevant information for an introduction.
 
-[ #is_/sub_class_of :: [[../HealthAspectEnumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - cd_format
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_cd_format Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_cd_format Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../MusicReleaseFormatType]]"
+  enum_of: "[[../MusicReleaseFormatType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format|Cd_Format]]"
+    - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.public|Cd_Format.public]]"
+    - "[[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.internal|Cd_Format.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.protect|Cd_Format.protect]]"
+    - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.private|Cd_Format.private]]"
+    - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.personal|Cd_Format.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.secret|Cd_Format.secret]]"
+dv_is_sub_class_of: "[[../MusicReleaseFormatType]]"
+dv_is_enum_of: "[[../MusicReleaseFormatType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format|Cd_Format]]"
+  - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.public|Cd_Format.public]]"
+  - "[[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.internal|Cd_Format.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.protect|Cd_Format.protect]]"
+  - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.private|Cd_Format.private]]"
+  - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.personal|Cd_Format.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.secret|Cd_Format.secret]]"
 ---
 
 Class of all cd_formats.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 CDFormat.
 
-[ #is_/sub_class_of :: [[../MusicReleaseFormatType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

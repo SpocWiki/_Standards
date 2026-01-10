@@ -7,7 +7,7 @@ cssclasses:
   - private
   - note
 draft: true
-expiryDate: ''
+expiryDate: ""
 has_time_started: 2023-12-02
 isDeleted: false
 isReadOnly: false
@@ -15,24 +15,43 @@ Key: Value
 keywords:
   - Ethanal
 lang: en
-layout: ''
+layout: ""
 license: (c)copyrighted
 linkTitle: Ethanal
 Predicate:
   - Object
 publish: false
-publishDate: ''
+publishDate: ""
 tags:
   - Ethanal
   - rather
   - use
 title: Ethanal
 type: private note
+dv_is_:
+  part_of: "[[../../../Organic_Chemistry]]"
+  same_as:
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Aldehyde/Ethanal|Ethanal]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.public|Ethanal.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.internal|Ethanal.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.protect|Ethanal.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.private|Ethanal.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.personal|Ethanal.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.secret|Ethanal.secret]]"
+dv_is_part_of: "[[../../../Organic_Chemistry]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Aldehyde/Ethanal|Ethanal]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.public|Ethanal.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.internal|Ethanal.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.protect|Ethanal.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.private|Ethanal.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.personal|Ethanal.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.secret|Ethanal.secret]]"
 ---
 
 # [[Ethanal]] 
 
-#is_/part_of :: [[Organic_Chemistry]] 
+is_part_of = `=this.dv_is_part_of` 
 
 ## Ethanal 
 ```

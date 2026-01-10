@@ -3,24 +3,41 @@ aliases:
   - Part
   - Member
   - Component
-  - ''
+  - ""
 confidential: public
 cssclasses:
   - Element
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: Part
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - schema-org/Composite
 title: Part
 type: Predi_Relation
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Composite/Part|Part]]"
+    - "[[/_public/schema-org/Composite/Part.public|Part.public]]"
+    - "[[/_internal/schema-org/Composite/Part.internal|Part.internal]]"
+    - "[[/_protect/schema-org/Composite/Part.protect|Part.protect]]"
+    - "[[/_private/schema-org/Composite/Part.private|Part.private]]"
+    - "[[/_personal/schema-org/Composite/Part.personal|Part.personal]]"
+    - "[[/_secret/schema-org/Composite/Part.secret|Part.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Composite/Part|Part]]"
+  - "[[/_public/schema-org/Composite/Part.public|Part.public]]"
+  - "[[/_internal/schema-org/Composite/Part.internal|Part.internal]]"
+  - "[[/_protect/schema-org/Composite/Part.protect|Part.protect]]"
+  - "[[/_private/schema-org/Composite/Part.private|Part.private]]"
+  - "[[/_personal/schema-org/Composite/Part.personal|Part.personal]]"
+  - "[[/_secret/schema-org/Composite/Part.secret|Part.secret]]"
 ---
 
 Subject of the [is_part_of](is_part_of.md) Relation/Function to the [Composite](../Composite.md). 

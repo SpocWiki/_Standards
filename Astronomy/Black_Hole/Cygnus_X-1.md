@@ -64,6 +64,25 @@ catalog_code:
   - WEB 17338
 Commons_category: Cygnus X-1
 spectral_class: O9.7Iabpvar
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cygnus_X-1,332674|WD~Cygnus_X-1,332674]]"
+    - "[[/_Standards/Astronomy/Black_Hole/Cygnus_X-1|Cygnus_X-1]]"
+    - "[[/_public/Astronomy/Black_Hole/Cygnus_X-1.public|Cygnus_X-1.public]]"
+    - "[[/_internal/Astronomy/Black_Hole/Cygnus_X-1.internal|Cygnus_X-1.internal]]"
+    - "[[/_protect/Astronomy/Black_Hole/Cygnus_X-1.protect|Cygnus_X-1.protect]]"
+    - "[[/_private/Astronomy/Black_Hole/Cygnus_X-1.private|Cygnus_X-1.private]]"
+    - "[[/_personal/Astronomy/Black_Hole/Cygnus_X-1.personal|Cygnus_X-1.personal]]"
+    - "[[/_secret/Astronomy/Black_Hole/Cygnus_X-1.secret|Cygnus_X-1.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cygnus_X-1,332674|WD~Cygnus_X-1,332674]]"
+  - "[[/_Standards/Astronomy/Black_Hole/Cygnus_X-1|Cygnus_X-1]]"
+  - "[[/_public/Astronomy/Black_Hole/Cygnus_X-1.public|Cygnus_X-1.public]]"
+  - "[[/_internal/Astronomy/Black_Hole/Cygnus_X-1.internal|Cygnus_X-1.internal]]"
+  - "[[/_protect/Astronomy/Black_Hole/Cygnus_X-1.protect|Cygnus_X-1.protect]]"
+  - "[[/_private/Astronomy/Black_Hole/Cygnus_X-1.private|Cygnus_X-1.private]]"
+  - "[[/_personal/Astronomy/Black_Hole/Cygnus_X-1.personal|Cygnus_X-1.personal]]"
+  - "[[/_secret/Astronomy/Black_Hole/Cygnus_X-1.secret|Cygnus_X-1.secret]]"
 ---
 
 # [[Cygnus_X-1]] 

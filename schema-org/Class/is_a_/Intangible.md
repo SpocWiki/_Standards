@@ -9,21 +9,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - intangible
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_intangible Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_intangible Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Thing|Thing]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible|Intangible]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible.public|Intangible.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible.internal|Intangible.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible.protect|Intangible.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible.private|Intangible.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible.personal|Intangible.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible.secret|Intangible.secret]]"
+dv_has_:
+  sub_classes: "[ ActionAccessSpecification, AlignmentObject, Audience, BedDetails, Brand, BroadcastChannel, BroadcastFrequencySpecification, Class, ComputerLanguage, DataFeedItem, DefinedTerm, Demand, DigitalDocumentPermission, EducationalOccupationalProgram, EnergyConsumptionDetails, EntryPoint, Enumeration, FloorPlan, GameServer, GeospatialGeometry, Grant, HealthInsurancePlan, HealthPlanCostSharingSpecification, HealthPlanFormulary, HealthPlanNetwork, Invoice, ItemList, JobPosting, Language, ListItem, MediaSubscription, MenuItem, MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride, Observation, Occupation, OccupationalExperienceRequirements, Offer, Order, OrderItem, ParcelDelivery, Permit, ProductReturnPolicy, ProgramMembership, Property, PropertyValueSpecification, Quantity, Rating, Reservation, Role, Schedule, Seat, Series, Service, ServiceChannel, SpeakableSpecification, StatisticalPopulation, StructuredValue, Ticket, Trip, VirtualLocation ]"
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../Thing|Thing]]"
+dv_has_sub_classes: "[ ActionAccessSpecification, AlignmentObject, Audience, BedDetails, Brand, BroadcastChannel, BroadcastFrequencySpecification, Class, ComputerLanguage, DataFeedItem, DefinedTerm, Demand, DigitalDocumentPermission, EducationalOccupationalProgram, EnergyConsumptionDetails, EntryPoint, Enumeration, FloorPlan, GameServer, GeospatialGeometry, Grant, HealthInsurancePlan, HealthPlanCostSharingSpecification, HealthPlanFormulary, HealthPlanNetwork, Invoice, ItemList, JobPosting, Language, ListItem, MediaSubscription, MenuItem, MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride, Observation, Occupation, OccupationalExperienceRequirements, Offer, Order, OrderItem, ParcelDelivery, Permit, ProductReturnPolicy, ProgramMembership, Property, PropertyValueSpecification, Quantity, Rating, Reservation, Role, Schedule, Seat, Series, Service, ServiceChannel, SpeakableSpecification, StatisticalPopulation, StructuredValue, Ticket, Trip, VirtualLocation ]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible|Intangible]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible.public|Intangible.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible.internal|Intangible.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible.protect|Intangible.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible.private|Intangible.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible.personal|Intangible.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible.secret|Intangible.secret]]"
 ---
 
 A utility class that serves as the umbrella for a number of 'intangible'  AKA 'abstract' things such as [Quantities](../../Predicate/Quantity.md), [Structured Values](Intangible/structured_value.md), etc.
@@ -37,12 +61,11 @@ These Properties are added only by the Sibling Concepts of [[../../../Earth/Geog
 Tag Instances like this: 
 #is_an_/intangible
 
-[ #is_/sub_class_of :: [[../Thing|Thing]] ] 
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ ActionAccessSpecification, AlignmentObject, Audience, BedDetails, Brand, BroadcastChannel, BroadcastFrequencySpecification, Class, ComputerLanguage, DataFeedItem, DefinedTerm, Demand, DigitalDocumentPermission, EducationalOccupationalProgram, EnergyConsumptionDetails, EntryPoint, Enumeration, FloorPlan, GameServer, GeospatialGeometry, Grant, HealthInsurancePlan, HealthPlanCostSharingSpecification, HealthPlanFormulary, HealthPlanNetwork, Invoice, ItemList, JobPosting, Language, ListItem, MediaSubscription, MenuItem, MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride, Observation, Occupation, OccupationalExperienceRequirements, Offer, Order, OrderItem, ParcelDelivery, Permit, ProductReturnPolicy, ProgramMembership, Property, PropertyValueSpecification, Quantity, Rating, Reservation, Role, Schedule, Seat, Series, Service, ServiceChannel, SpeakableSpecification, StatisticalPopulation, StructuredValue, Ticket, Trip, VirtualLocation ] ]
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

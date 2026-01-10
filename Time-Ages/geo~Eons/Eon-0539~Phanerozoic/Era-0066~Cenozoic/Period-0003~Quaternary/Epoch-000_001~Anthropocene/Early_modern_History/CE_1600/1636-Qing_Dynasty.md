@@ -1,5 +1,7 @@
 ---
-location: [ 103.0 , 38.0 ] 
+location:
+  - 103
+  - 38
 aliases:
   - Qing Dynasty
   - 1636-Qing_Dynasty
@@ -7,116 +9,143 @@ aliases:
 has_id_wikidata: Q8733
 anthem: "[[_Standards/WikiData/WD~Gong_Jin'ou,1142935]]"
 area: 14700000
-authority: '[[_Standards/WikiData/WD~Manchu,145665]]'
+authority: "[[_Standards/WikiData/WD~Manchu,145665]]"
 Baidu_Tieba_name: 清朝
-basic_form_of_government: '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
+basic_form_of_government: "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
 BHCL_UUID: ba1625c7-677a-47c8-886b-0cf18da83e46
 capital:
-  - '[[_Standards/WikiData/WD~Fengtian_Fu,10054424]]'
-  - '[[_Standards/WikiData/WD~Shuntian_Fu,7334692]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q118059515,118059515]]'
+  - "[[_Standards/WikiData/WD~Fengtian_Fu,10054424]]"
+  - "[[_Standards/WikiData/WD~Shuntian_Fu,7334692]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q118059515,118059515]]"
 Commons_category: Qing Dynasty
 Commons_gallery: 清朝
 contains_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Anhui,28411808]]'
-  - '[[_Standards/WikiData/WD~Fengtian,25390008]]'
-  - '[[_Standards/WikiData/WD~Fujian,28411080]]'
-  - '[[_Standards/WikiData/WD~Gansu,28409906]]'
-  - '[[_Standards/WikiData/WD~Guangdong,28411078]]'
-  - '[[_Standards/WikiData/WD~Guangxi,15921507]]'
-  - '[[_Standards/WikiData/WD~Guizhou,28408659]]'
-  - '[[_Standards/WikiData/WD~Henan,19855977]]'
-  - '[[_Standards/WikiData/WD~Hubei,28411551]]'
-  - '[[_Standards/WikiData/WD~Huguang,2235155]]'
-  - '[[_Standards/WikiData/WD~Hunan,15892309]]'
-  - '[[_Standards/WikiData/WD~Jiangnan,11133842]]'
-  - '[[_Standards/WikiData/WD~Jiangsu,28411809]]'
-  - '[[_Standards/WikiData/WD~Jiangxi,24831157]]'
-  - '[[_Standards/WikiData/WD~Q11134720,11134720]]'
-  - '[[_Standards/WikiData/WD~Q28408735,28408735]]'
-  - '[[_Standards/WikiData/WD~Q28408900,28408900]]'
-  - '[[_Standards/WikiData/WD~Q28412033,28412033]]'
-  - '[[_Standards/WikiData/WD~Shaanxi,28411804]]'
-  - '[[_Standards/WikiData/WD~Shanxi,28412010]]'
-  - '[[_Standards/WikiData/WD~Sichuan,28408618]]'
-  - '[[_Standards/WikiData/WD~Yunnan,20062836]]'
-  - '[[_Standards/WikiData/WD~Zhejiang,28411084]]'
-  - '[[_Standards/WikiData/WD~Zhili,2604022]]'
-  - '[[_Standards/WikiData/WD~Fujian-Taiwan_Province,15939597]]'
-  - '[[_Standards/WikiData/WD~Xinjiang_Province,15908308]]'
-continent: '[[_Standards/WikiData/WD~Asia,48]]'
+  - "[[_Standards/WikiData/WD~Anhui,28411808]]"
+  - "[[_Standards/WikiData/WD~Fengtian,25390008]]"
+  - "[[_Standards/WikiData/WD~Fujian,28411080]]"
+  - "[[_Standards/WikiData/WD~Gansu,28409906]]"
+  - "[[_Standards/WikiData/WD~Guangdong,28411078]]"
+  - "[[_Standards/WikiData/WD~Guangxi,15921507]]"
+  - "[[_Standards/WikiData/WD~Guizhou,28408659]]"
+  - "[[_Standards/WikiData/WD~Henan,19855977]]"
+  - "[[_Standards/WikiData/WD~Hubei,28411551]]"
+  - "[[_Standards/WikiData/WD~Huguang,2235155]]"
+  - "[[_Standards/WikiData/WD~Hunan,15892309]]"
+  - "[[_Standards/WikiData/WD~Jiangnan,11133842]]"
+  - "[[_Standards/WikiData/WD~Jiangsu,28411809]]"
+  - "[[_Standards/WikiData/WD~Jiangxi,24831157]]"
+  - "[[_Standards/WikiData/WD~Q11134720,11134720]]"
+  - "[[_Standards/WikiData/WD~Q28408735,28408735]]"
+  - "[[_Standards/WikiData/WD~Q28408900,28408900]]"
+  - "[[_Standards/WikiData/WD~Q28412033,28412033]]"
+  - "[[_Standards/WikiData/WD~Shaanxi,28411804]]"
+  - "[[_Standards/WikiData/WD~Shanxi,28412010]]"
+  - "[[_Standards/WikiData/WD~Sichuan,28408618]]"
+  - "[[_Standards/WikiData/WD~Yunnan,20062836]]"
+  - "[[_Standards/WikiData/WD~Zhejiang,28411084]]"
+  - "[[_Standards/WikiData/WD~Zhili,2604022]]"
+  - "[[_Standards/WikiData/WD~Fujian-Taiwan_Province,15939597]]"
+  - "[[_Standards/WikiData/WD~Xinjiang_Province,15908308]]"
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
 coordinate_location: Point(103.0 38.0)
 currency:
-  - '[[_Standards/WikiData/WD~Sycee,1364284]]'
-  - '[[_Standards/WikiData/WD~tael,876244]]'
-  - '[[_Standards/WikiData/WD~Great_Qing_Treasure_Note,9929178]]'
-  - '[[_Standards/WikiData/WD~Hubu_Guanpiao,17025285]]'
+  - "[[_Standards/WikiData/WD~Sycee,1364284]]"
+  - "[[_Standards/WikiData/WD~tael,876244]]"
+  - "[[_Standards/WikiData/WD~Great_Qing_Treasure_Note,9929178]]"
+  - "[[_Standards/WikiData/WD~Hubu_Guanpiao,17025285]]"
 described_at_URL: https://www.biografiasyvidas.com/biografia/q/qing.htm
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 dissolved_abolished_or_demolished_date: 1912
 end_time: 1911-06
-flag: '[[_Standards/WikiData/WD~flag_of_the_Qing_dynasty,976372]]'
+flag: "[[_Standards/WikiData/WD~flag_of_the_Qing_dynasty,976372]]"
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20China%20%281889%E2%80%931912%29.svg
-follows: '[[_Standards/WikiData/WD~Later_Jin_(1616-1636),1062546]]'
+follows: "[[_Standards/WikiData/WD~Later_Jin_(1616-1636),1062546]]"
 has_time_started: 1636-06
 has_time_stopped: 1912-06
-history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_Qing_dynasty,55635904]]'
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_the_Qing_dynasty,55635904]]"
 inception: 1636
 instance_of:
-  - '[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]'
-  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - "[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
 language_used:
-  - '[[_Standards/WikiData/WD~Manchu,33638]]'
-  - '[[_Standards/WikiData/WD~Mongolian,9246]]'
-  - '[[_Standards/WikiData/WD~Classical_Chinese,37041]]'
+  - "[[_Standards/WikiData/WD~Manchu,33638]]"
+  - "[[_Standards/WikiData/WD~Mongolian,9246]]"
+  - "[[_Standards/WikiData/WD~Classical_Chinese,37041]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ching%20Dynasty%201892.png
 native_label: ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ
 official_language:
-  - '[[_Standards/WikiData/WD~Chinese,7850]]'
-  - '[[_Standards/WikiData/WD~Manchu,33638]]'
-  - '[[_Standards/WikiData/WD~Mongolian,9246]]'
-  - '[[_Standards/WikiData/WD~Tibetan,34271]]'
+  - "[[_Standards/WikiData/WD~Chinese,7850]]"
+  - "[[_Standards/WikiData/WD~Manchu,33638]]"
+  - "[[_Standards/WikiData/WD~Mongolian,9246]]"
+  - "[[_Standards/WikiData/WD~Tibetan,34271]]"
 official_name:
   - ᠳᠠᠢᠢᠴᠢᠩ ᠤᠯᠤᠰ
   - ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ
   - 大清
-part_of: '[[_Standards/WikiData/WD~Late_Imperial_China,6495224]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828807,22828807]]'
+part_of: "[[_Standards/WikiData/WD~Late_Imperial_China,6495224]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828807,22828807]]"
 population: 383100000
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Buddhism,748]]'
-  - '[[_Standards/WikiData/WD~Christianity,5043]]'
-  - '[[_Standards/WikiData/WD~Islam,432]]'
-  - '[[_Standards/WikiData/WD~Taoism,9598]]'
-  - '[[_Standards/WikiData/WD~Heaven_worship,5694834]]'
-replaced_by: '[[_Standards/WikiData/WD~Taiwan,865]]'
+  - "[[_Standards/WikiData/WD~Buddhism,748]]"
+  - "[[_Standards/WikiData/WD~Christianity,5043]]"
+  - "[[_Standards/WikiData/WD~Islam,432]]"
+  - "[[_Standards/WikiData/WD~Taoism,9598]]"
+  - "[[_Standards/WikiData/WD~Heaven_worship,5694834]]"
+replaced_by: "[[_Standards/WikiData/WD~Taiwan,865]]"
 replaces:
-  - '[[_Standards/WikiData/WD~Da_Ming_Shun_Tian_Guo,15903902]]'
-  - '[[_Standards/WikiData/WD~Dzungar_Khanate,1923401]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Tungning,152855]]'
-  - '[[_Standards/WikiData/WD~Later_Jin_(1616-1636),1062546]]'
-  - '[[_Standards/WikiData/WD~Ming_dynasty,9903]]'
-  - '[[_Standards/WikiData/WD~Shun_dynasty,2370784]]'
-  - '[[_Standards/WikiData/WD~Southern_Ming_dynasty,1198163]]'
-  - '[[_Standards/WikiData/WD~Taiping_Heavenly_Kingdom,3486676]]'
-  - '[[_Standards/WikiData/WD~Xi_dynasty,1178974]]'
+  - "[[_Standards/WikiData/WD~Da_Ming_Shun_Tian_Guo,15903902]]"
+  - "[[_Standards/WikiData/WD~Dzungar_Khanate,1923401]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Tungning,152855]]"
+  - "[[_Standards/WikiData/WD~Later_Jin_(1616-1636),1062546]]"
+  - "[[_Standards/WikiData/WD~Ming_dynasty,9903]]"
+  - "[[_Standards/WikiData/WD~Shun_dynasty,2370784]]"
+  - "[[_Standards/WikiData/WD~Southern_Ming_dynasty,1198163]]"
+  - "[[_Standards/WikiData/WD~Taiping_Heavenly_Kingdom,3486676]]"
+  - "[[_Standards/WikiData/WD~Xi_dynasty,1178974]]"
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Qing%20dynasty.svg
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Bhutan,917]]'
-  - '[[_Standards/WikiData/WD~Joseon,28179]]'
-  - '[[_Standards/WikiData/WD~British_Raj,129286]]'
-  - '[[_Standards/WikiData/WD~Dzungar_Khanate,1923401]]'
-  - '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
-  - '[[_Standards/WikiData/WD~Kazakh_Khanate,1433867]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Nepal,1078602]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Sikkim,3960459]]'
-  - '[[_Standards/WikiData/WD~Konbaung_dynasty,1062422]]'
-  - '[[_Standards/WikiData/WD~Korean_Empire,28233]]'
-  - '[[_Standards/WikiData/WD~Namgyal_dynasty_of_Ladakh,2709041]]'
-  - '[[_Standards/WikiData/WD~Nguyen_dynasty,6500483]]'
-  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+  - "[[_Standards/WikiData/WD~Bhutan,917]]"
+  - "[[_Standards/WikiData/WD~Joseon,28179]]"
+  - "[[_Standards/WikiData/WD~British_Raj,129286]]"
+  - "[[_Standards/WikiData/WD~Dzungar_Khanate,1923401]]"
+  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
+  - "[[_Standards/WikiData/WD~Kazakh_Khanate,1433867]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Nepal,1078602]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Sikkim,3960459]]"
+  - "[[_Standards/WikiData/WD~Konbaung_dynasty,1062422]]"
+  - "[[_Standards/WikiData/WD~Korean_Empire,28233]]"
+  - "[[_Standards/WikiData/WD~Namgyal_dynasty_of_Ladakh,2709041]]"
+  - "[[_Standards/WikiData/WD~Nguyen_dynasty,6500483]]"
+  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
 start_time: 1636-06
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Qing_dynasty_topics,22725674]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Qing_dynasty_topics,22725674]]"
+dv_has_:
+  time_:
+    started: 1636-06-01T00:00:00.000+00:53
+  duration_:
+    years: 276
+  duration: P276Y
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Qing_Dynasty,8733]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty|1636-Qing_Dynasty]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.public|1636-Qing_Dynasty.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.internal|1636-Qing_Dynasty.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.protect|1636-Qing_Dynasty.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.private|1636-Qing_Dynasty.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.personal|1636-Qing_Dynasty.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.secret|1636-Qing_Dynasty.secret]]"
+dv_has_duration_years: 276
+dv_has_duration: P276Y
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Qing_Dynasty,8733]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty|1636-Qing_Dynasty]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.public|1636-Qing_Dynasty.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.internal|1636-Qing_Dynasty.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.protect|1636-Qing_Dynasty.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.private|1636-Qing_Dynasty.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.personal|1636-Qing_Dynasty.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.secret|1636-Qing_Dynasty.secret]]"
 ---
 
 #has_/time_/started :: `=this.has_time_started` 

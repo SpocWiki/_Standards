@@ -2,11 +2,37 @@
 aliases:
   - Humphry Davy
   - Davy,Humphry
+dv_has_:
+  time_:
+    started: 1778-12-17T00:00:00.000+00:53
+    stopped: 1829-05-29T00:00:00.000+00:53
+  age_:
+    years: 50
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry|Davy,Humphry]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.public|Davy,Humphry.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.internal|Davy,Humphry.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.protect|Davy,Humphry.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.private|Davy,Humphry.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.personal|Davy,Humphry.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.secret|Davy,Humphry.secret]]"
+dv_has_time_started: 1778-12-17
+dv_has_time_stopped: 1829-05-29
+dv_has_age_years: 50
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry|Davy,Humphry]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.public|Davy,Humphry.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.internal|Davy,Humphry.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.protect|Davy,Humphry.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.private|Davy,Humphry.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.personal|Davy,Humphry.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.secret|Davy,Humphry.secret]]"
 ---
 
-#has_/time_/started :: 1778-12-17 
-#has_/time_/stopped :: 1829-05-29 
-#has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/age_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
 
 ## #has_/text_of_/abstract 
 

@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A treatment of people with physical, emotional, or social problems, using purposeful activity to help them overcome or learn to deal with their problems.
 
-[ #is_/sub_class_of :: [[../MedicalTherapy]] ]
+#is_/sub_class_of :: [[../MedicalTherapy]]  
 
-[ #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

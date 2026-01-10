@@ -14,6 +14,86 @@ named_after: "[[_Standards/WikiData/WD~Bordeaux,1479]]"
 Commons_category: Burdigalian
 sRGB_color_hex_triplet: FFFF41
 end_time: -15980000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "4.460e+6"
+  previous_:
+    item: "[[Age~1~Aquitanian]]"
+  next_:
+    item: "[[Age~3~Langhian]]"
+  name_:
+    bg: Бурдигал
+    cs: Burdigal
+    da: Burdigalien
+    de: Burdigalium
+    es: Burdigaliense
+    et: Burdigali
+    fi: Burdigal
+    fr: Burdigalien
+    hu: burdigaliai
+    it: burdigaliano
+    ja: バーディガリアン期
+    lt: Burdigalis
+    nl: Burdigaliën-Hemmoor
+    no: Burdigalium
+    pl: Burdygał
+    pt: Burdigaliano
+    sk: burdigal
+    sl: burdigalij
+    sv: burdigal
+    zh: 布迪加尔期
+    abbreviated: n2
+  time_:
+    started: "-20.44e6"
+    stopped: "-15.98e6"
+  text_of_:
+    color: "0xFFFF41"
+dv_is_:
+  same_as:
+    - "[[WD~Burdigalian,508650]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian|Age~2~Burdigalian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.public|Age~2~Burdigalian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.internal|Age~2~Burdigalian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.protect|Age~2~Burdigalian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.private|Age~2~Burdigalian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.personal|Age~2~Burdigalian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.secret|Age~2~Burdigalian.secret]]"
+dv_has_duration_years: "4.460e+6"
+dv_has_previous_item: "[[Age~1~Aquitanian]]"
+dv_has_next_item: "[[Age~3~Langhian]]"
+dv_is_same_as:
+  - "[[WD~Burdigalian,508650]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian|Age~2~Burdigalian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.public|Age~2~Burdigalian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.internal|Age~2~Burdigalian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.protect|Age~2~Burdigalian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.private|Age~2~Burdigalian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.personal|Age~2~Burdigalian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~2~Burdigalian.secret|Age~2~Burdigalian.secret]]"
+dv_has_name_bg: Бурдигал
+dv_has_name_cs: Burdigal
+dv_has_name_da: Burdigalien
+dv_has_name_de: Burdigalium
+dv_has_name_es: Burdigaliense
+dv_has_name_et: Burdigali
+dv_has_name_fi: Burdigal
+dv_has_name_fr: Burdigalien
+dv_has_name_hu: burdigaliai
+dv_has_name_it: burdigaliano
+dv_has_name_ja: バーディガリアン期
+dv_has_name_lt: Burdigalis
+dv_has_name_nl: Burdigaliën-Hemmoor
+dv_has_name_no: Burdigalium
+dv_has_name_pl: Burdygał
+dv_has_name_pt: Burdigaliano
+dv_has_name_sk: burdigal
+dv_has_name_sl: burdigalij
+dv_has_name_sv: burdigal
+dv_has_name_zh: 布迪加尔期
+dv_has_name_abbreviated: n2
+dv_has_time_started: "-20.44e6"
+dv_has_time_stopped: "-15.98e6"
+dv_has_text_of_color: "0xFFFF41"
 ---
 # [[Age~2~Burdigalian]] 
 
@@ -21,10 +101,10 @@ end_time: -15980000-01-01T00:00:00Z
 
 A time period from 20.44 to 15.98 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Aquitanian]] 
-#has_/next_/item :: [[Age~3~Langhian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Burdigalian,508650]] 
 
 ## #has_/text_of_/abstract 
@@ -34,34 +114,34 @@ A time period from 20.44 to 15.98 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Burdigalian) 
 
 
-#has_/name_/bg  :: Бурдигал
-#has_/name_/cs  :: Burdigal
-#has_/name_/da  :: Burdigalien
-#has_/name_/de  :: Burdigalium
-#has_/name_/es  :: Burdigaliense
-#has_/name_/et  :: Burdigali
-#has_/name_/fi  :: Burdigal
-#has_/name_/fr  :: Burdigalien
-#has_/name_/hu  :: burdigaliai
-#has_/name_/it  :: burdigaliano
-#has_/name_/ja  :: バーディガリアン期
-#has_/name_/lt  :: Burdigalis
-#has_/name_/nl  :: Burdigaliën-Hemmoor
-#has_/name_/no  :: Burdigalium
-#has_/name_/pl  :: Burdygał
-#has_/name_/pt  :: Burdigaliano
-#has_/name_/sk  :: burdigal
-#has_/name_/sl  :: burdigalij
-#has_/name_/sv  :: burdigal
-#has_/name_/zh  :: 布迪加尔期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: n2
-#has_/time_/started :: -20.44e6 
-#has_/time_/stopped :: -15.98e6 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 18 
 
-#has_/text_of_/color :: 0xFFFF41
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

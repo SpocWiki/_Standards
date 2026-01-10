@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - live_album
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_live_album Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_live_album Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../MusicAlbumProductionType]]"
+  enum_of: "[[../MusicAlbumProductionType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Live_Album|Live_Album]]"
+    - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.public|Live_Album.public]]"
+    - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.internal|Live_Album.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.protect|Live_Album.protect]]"
+    - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.private|Live_Album.private]]"
+    - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.personal|Live_Album.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.secret|Live_Album.secret]]"
+dv_is_sub_class_of: "[[../MusicAlbumProductionType]]"
+dv_is_enum_of: "[[../MusicAlbumProductionType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Live_Album|Live_Album]]"
+  - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.public|Live_Album.public]]"
+  - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.internal|Live_Album.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.protect|Live_Album.protect]]"
+  - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.private|Live_Album.private]]"
+  - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.personal|Live_Album.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.secret|Live_Album.secret]]"
 ---
 
 Class of all live_albums.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 LiveAlbum.
 
-[ #is_/sub_class_of :: [[../MusicAlbumProductionType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -57,7 +57,7 @@ Verbs:
 - rdf:type for XML-RDF
 - typeof Attribute in HTML 
 - @type in JSON-LD 
-- [[is_instance_of]] or [[is_a]] in this Markdown Structure 
+- [[is_instance_of]] [[is_a]] in this Markdown Structure 
 - itemtype or additionalType in MicroData 
 -  
 
@@ -67,9 +67,10 @@ Verbs:
 - [[../Relation/is/is_member_of|is_member_of]] 
 
 ## Use it like this: 
-- [ #is_/instance_of :: Class] or 
-- [ #is_a_ :: Class] or 
-- [ is_instance_of :: Class]  for Objects
+- [is_/instance_of :: Class] 
+- [ #is_a_ :: Class] 
+- [ is_instance_of :: Class]  
+for Objects
 Do __not__ flex the predicate when the Class starts with a Vowel like so is_an_ ant!
 
 You can also use a pre-defined #Tag, 
@@ -79,7 +80,9 @@ to the actual Class Definition harder.
 - For Classes use [is_subclass_of](is_sub_class_of.md)  
 
 ## Relation describes that: 
-[ #has_/domain  :: [[Thing]]] 
+
+#has_/domain  :: [[Thing]] 
+
 ( #has_/name :: is_instance_of)
 ( #has_/range :: Class)
 

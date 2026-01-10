@@ -30,13 +30,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/legal_status :: DrugLegalStatus, MedicalEnumeration, Text ] or 
+- [has_/legal_status :: DrugLegalStatus, MedicalEnumeration, Text ] 
 - [ has_legal_status :: DrugLegalStatus, MedicalEnumeration, Text ] 
 
 The drug or supplement's legal status, including any controlled substance schedules that apply.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|DietarySupplement]], [[../../../bio/Medicine/Drug|Drug]], [[../../../bio/Medicine/Medical_Entity|MedicalEntity]] ]
+
+#has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|DietarySupplement]], [[../../../bio/Medicine/Drug|Drug]], [[../../../bio/Medicine/Medical_Entity|MedicalEntity]]  
+
 ( #has_/name :: has_legal_status )
 ( #has_/range :: DrugLegalStatus, MedicalEnumeration, Text )
 

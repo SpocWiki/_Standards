@@ -30,13 +30,15 @@ type: Pred_geo
 Predicate to describe the geo of Organization.
 
 Use it like this: 
-- [ #has_/location_/founding_location :: Place ] or 
+- [has_/location_/founding_location :: Place ] 
 - [ has_location_founding :: Place ] 
 
 The place where the Organization was founded.
 
 Predicate describes that: 
-[ #has_/domain  :: Organization ]
+
+#has_/domain  :: Organization  
+
 ( #has_/name :: has_location_founding )
 ( #has_/range :: Place )
 

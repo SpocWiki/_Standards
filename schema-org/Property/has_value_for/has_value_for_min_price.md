@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - min-price
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_min-price
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_min-price
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    min_price: Number
+  domain: PriceSpecification
+dv_has_value_for_min_price: Number
+dv_#has_:
+  name: has_value_for_min_price
+  range: Number
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_min_price|has_value_for_min_price]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_min_price.public|has_value_for_min_price.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_min_price.internal|has_value_for_min_price.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_min_price.protect|has_value_for_min_price.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_min_price.private|has_value_for_min_price.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_min_price.personal|has_value_for_min_price.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_min_price.secret|has_value_for_min_price.secret]]"
+dv_has_domain: PriceSpecification
+dv_has_name: has_value_for_min_price
+dv_has_range: Number
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_min_price|has_value_for_min_price]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_min_price.public|has_value_for_min_price.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_min_price.internal|has_value_for_min_price.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_min_price.protect|has_value_for_min_price.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_min_price.private|has_value_for_min_price.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_min_price.personal|has_value_for_min_price.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_min_price.secret|has_value_for_min_price.secret]]"
 ---
 
 Predicate to describe the Quantity of PriceSpecification.
 
 Use it like this: 
-- [ #has_/value_for_/min_price :: Number ] or 
-- [ has_value_for_min_price :: Number ] 
+- has_value_for_min_price = `=this.dv_has_value_for_min_price`  
+- has_value_for_min_price = `=this.dv_has_value_for_min_price`  
 
 The lowest price if the price is a range.
 
 Predicate describes that: 
-[ #has_/domain  :: PriceSpecification ]
-( #has_/name :: has_value_for_min_price )
-( #has_/range :: Number )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

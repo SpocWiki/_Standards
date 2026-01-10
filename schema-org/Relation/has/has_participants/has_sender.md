@@ -25,14 +25,16 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/sender :: Audience, Organization, Person ] or 
+- [has_/sender :: Audience, Organization, Person ] 
 - [ has_sender :: Audience, Organization, Person ] 
 
 A sub property of Participant. 
 The participant who is at the sending end of the action.
 
 Relation describes that: 
-[ #has_/domain  :: Message, ReceiveAction ]
+
+#has_/domain  :: Message, ReceiveAction  
+
 ( #has_/name :: is_sender )
 ( #has_/range :: Audience, Organization, Person )
 

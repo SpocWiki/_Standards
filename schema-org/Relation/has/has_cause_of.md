@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,28 +16,57 @@ keywords:
   - of
   - cause_of
   - causeOf
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_cause_of
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_cause_of
 type: Predi_Relation
+dv_has_:
+  cause_of: MedicalEntity
+  domain: MedicalCause
+dv_has_cause_of: MedicalEntity
+dv_#has_:
+  name: has_cause_of
+  range: MedicalEntity
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_cause_of|has_cause_of]]"
+    - "[[/_public/schema-org/Relation/has/has_cause_of.public|has_cause_of.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_cause_of.internal|has_cause_of.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_cause_of.protect|has_cause_of.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_cause_of.private|has_cause_of.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_cause_of.personal|has_cause_of.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_cause_of.secret|has_cause_of.secret]]"
+dv_has_domain: MedicalCause
+dv_has_name: has_cause_of
+dv_has_range: MedicalEntity
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_cause_of|has_cause_of]]"
+  - "[[/_public/schema-org/Relation/has/has_cause_of.public|has_cause_of.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_cause_of.internal|has_cause_of.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_cause_of.protect|has_cause_of.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_cause_of.private|has_cause_of.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_cause_of.personal|has_cause_of.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_cause_of.secret|has_cause_of.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/cause_of :: MedicalEntity ] or 
-- [ has_cause_of :: MedicalEntity ] 
+- has_cause_of = `=this.dv_has_cause_of`  
+- has_cause_of = `=this.dv_has_cause_of`  
 
 The condition, complication, symptom, sign, etc. caused.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCause ]
-( #has_/name :: has_cause_of )
-( #has_/range :: MedicalEntity )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

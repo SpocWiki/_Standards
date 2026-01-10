@@ -31,19 +31,20 @@ type: Pred_Text
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- [ #has_/name_/alternate :: Text ] or 
+- [has_/name_/alternate :: Text ] 
 - [ has_name_alternate :: Text ] 
 
 An alias for the item; 
 Rather use the #aliases Property. 
 
 Predicated describes that: 
-[ #has_/domain  :: [Thing](../../Class/Thing.md) ]
+
+#has_/domain  :: [Thing](../../Class/Thing.md)  
+
 ( #has_/name :: has_name_alternate )
 ( #has_/range :: Text )
 
-[ #has_/sub_properties :: [ [[has_name_additional|additionalName]] ] ]
-
+#has_/sub_properties :: [ [[has_name_additional|additionalName]] ]  
 
 ## Confidential Links & Embeds: 
 

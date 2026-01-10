@@ -6,22 +6,22 @@ aliases:
   - Solar Eclipse
 has_id_wikidata: Q3887
 subclass_of:
-  - '[[_Standards/WikiData/WD~eclipse,141022]]'
-  - '[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]'
+  - "[[_Standards/WikiData/WD~eclipse,141022]]"
+  - "[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~Baily's_beads,803878]]"
-  - '[[_Standards/WikiData/WD~diamond_ring_effect,2721914]]'
+  - "[[_Standards/WikiData/WD~diamond_ring_effect,2721914]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Solar_eclipses,8085187]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_solar_eclipse,14338309]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q10939157,10939157]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-different_from: '[[_Standards/WikiData/WD~lunar_eclipse,44235]]'
+  - "[[_Standards/WikiData/WD~Template_Solar_eclipses,8085187]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_solar_eclipse,14338309]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q10939157,10939157]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+different_from: "[[_Standards/WikiData/WD~lunar_eclipse,44235]]"
 OmegaWiki_Defined_Meaning: 1275231
 IMDb_keyword: solar-eclipse
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20eclipse%201999%204.jpg
@@ -37,6 +37,25 @@ Iconclass_notation: 24A3
 Provenio_UUID: 677cb506-36d3-49f5-be8c-d36a6544d522
 Commons_category: Solar eclipses
 Wolfram_Language_entity_type: SolarEclipse
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Solar_eclipse,3887|WD~Solar_eclipse,3887]]"
+    - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse|Solar_Eclipse]]"
+    - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.public|Solar_Eclipse.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.internal|Solar_Eclipse.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.protect|Solar_Eclipse.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.private|Solar_Eclipse.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.personal|Solar_Eclipse.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.secret|Solar_Eclipse.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Solar_eclipse,3887|WD~Solar_eclipse,3887]]"
+  - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse|Solar_Eclipse]]"
+  - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.public|Solar_Eclipse.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.internal|Solar_Eclipse.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.protect|Solar_Eclipse.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.private|Solar_Eclipse.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.personal|Solar_Eclipse.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.secret|Solar_Eclipse.secret]]"
 ---
 
 # [[Solar_Eclipse]] 

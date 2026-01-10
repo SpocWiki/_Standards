@@ -12,6 +12,25 @@ instance_of: "[[_Standards/WikiData/WD~chemical_formalism,17540792]]"
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-covalent-bond-forces-%28simple%29.svg
 Commons_category: Covalent radius
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Covalent_radius,485360|WD~Covalent_radius,485360]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius|Covalent_Radius]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.public|Covalent_Radius.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.internal|Covalent_Radius.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.protect|Covalent_Radius.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.private|Covalent_Radius.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.personal|Covalent_Radius.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.secret|Covalent_Radius.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Covalent_radius,485360|WD~Covalent_radius,485360]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius|Covalent_Radius]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.public|Covalent_Radius.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.internal|Covalent_Radius.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.protect|Covalent_Radius.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.private|Covalent_Radius.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.personal|Covalent_Radius.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Covalent_Radius.secret|Covalent_Radius.secret]]"
 ---
 
 # [[Covalent_Radius]] 

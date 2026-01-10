@@ -4,28 +4,28 @@ aliases:
   - Ammonium Nitrate
 has_id_wikidata: Q182329
 subject_has_role:
-  - '[[_Standards/WikiData/WD~fertilizer,83323]]'
-  - '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
-  - '[[_Standards/WikiData/WD~explosive_chemicals,12870]]'
-has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-part_of: '[[_Standards/WikiData/WD~ANFO,295697]]'
-has_use: '[[_Standards/WikiData/WD~nitrogen_fertilizer,906629]]'
+  - "[[_Standards/WikiData/WD~fertilizer,83323]]"
+  - "[[_Standards/WikiData/WD~oxidizing_agent,187689]]"
+  - "[[_Standards/WikiData/WD~explosive_chemicals,12870]]"
+has_characteristic: "[[_Standards/WikiData/WD~hygroscopy,216678]]"
+part_of: "[[_Standards/WikiData/WD~ANFO,295697]]"
+has_use: "[[_Standards/WikiData/WD~nitrogen_fertilizer,906629]]"
 safety_classification_and_labelling:
-  - '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
-  - '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+  - "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+  - "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~ammonium_salt,4427706]]'
-  - '[[_Standards/WikiData/WD~nitrate_salt,56404029]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~ammonium_salt,4427706]]"
+  - "[[_Standards/WikiData/WD~nitrate_salt,56404029]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 standard_enthalpy_of_formation: -365.6
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~nitrogen,627]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
-color: '[[_Standards/WikiData/WD~white,23444]]'
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~nitrogen,627]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+color: "[[_Standards/WikiData/WD~white,23444]]"
 decomposition_point: 230
 density: 1.72
 solubility:
@@ -49,10 +49,10 @@ InChI: InChI=1S/NO3.H3N/c2-1(3)4;/h;1H3/q-1;/p+1
 InChIKey: DVARTQFDIMZBAA-UHFFFAOYSA-O
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Ammonium-nitrate-2D.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ammonium%20nitrate%20CN.JPG
-canonical_SMILES: '[NH4+].[N+](=O)([O-])[O-]'
+canonical_SMILES: "[NH4+].[N+](=O)([O-])[O-]"
 EC_number: 229-347-8
 CAS_Registry_Number: 6484-52-2
-P8189: 987007565945005171
+P8189: 987007565945005200
 Commons_category: Ammonium nitrate
 RTECS_number: BR9050000
 UMLS_CUI: C0051722
@@ -60,12 +60,34 @@ DSSTOX_compound_identifier: DTXCID109668
 chemical_formula:
   - H₄N₂O₃
   - NH₄NO₃
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ammonium_nitrate,182329]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate|Ammonium_Nitrate]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.public|Ammonium_Nitrate.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.internal|Ammonium_Nitrate.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.protect|Ammonium_Nitrate.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.private|Ammonium_Nitrate.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.personal|Ammonium_Nitrate.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.secret|Ammonium_Nitrate.secret]]"
+dv_has_:
+  created: "[[../../../Society/Disaster/2020-Beirut_Explosion|2020-Beirut_Explosion]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ammonium_nitrate,182329]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate|Ammonium_Nitrate]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.public|Ammonium_Nitrate.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.internal|Ammonium_Nitrate.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.protect|Ammonium_Nitrate.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.private|Ammonium_Nitrate.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.personal|Ammonium_Nitrate.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.secret|Ammonium_Nitrate.secret]]"
+dv_has_created: "[[../../../Society/Disaster/2020-Beirut_Explosion|2020-Beirut_Explosion]]"
 ---
 
 # [[Ammonium_Nitrate]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ammonium_nitrate,182329]] 
-#has_/created :: [[../../../Society/Disaster/2020-Beirut_Explosion|2020-Beirut_Explosion]] 
+has_created = `=this.dv_has_created` 
 ## #has_/text_of_/abstract 
 
 > Ammonium nitrate is a chemical compound with the formula NH4NO3. 

@@ -27,18 +27,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/providing_broadcast_service :: BroadcastService] or 
+- [is_/providing_broadcast_service :: BroadcastService] 
 - [ is_providing_broadcast_service :: BroadcastService] 
 
 The BroadcastService offered on this channel.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastChannel]
+
+#has_/domain  :: BroadcastChannel 
+
 ( #has_/name :: is_providing_broadcast_service)
 ( #has_/range :: BroadcastService)
 
-[ #is_/inverse_of  :: hasBroadcastChannel]
-
+#is_/inverse_of  :: hasBroadcastChannel 
 
 ## Confidential Links & Embeds: 
 

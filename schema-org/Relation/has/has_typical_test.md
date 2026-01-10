@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - typical_test
   - typical
   - test
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_typical_test
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_typical_test
 type: Predi_Relation
+dv_has_:
+  typical_test: MedicalTest
+  domain: MedicalCondition
+dv_has_typical_test: MedicalTest
+dv_#has_:
+  name: is_typical_test
+  range: MedicalTest
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_typical_test|has_typical_test]]"
+    - "[[/_public/schema-org/Relation/has/has_typical_test.public|has_typical_test.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_typical_test.internal|has_typical_test.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_typical_test.protect|has_typical_test.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_typical_test.private|has_typical_test.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_typical_test.personal|has_typical_test.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
+dv_has_domain: MedicalCondition
+dv_has_name: is_typical_test
+dv_has_range: MedicalTest
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_typical_test|has_typical_test]]"
+  - "[[/_public/schema-org/Relation/has/has_typical_test.public|has_typical_test.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_typical_test.internal|has_typical_test.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_typical_test.protect|has_typical_test.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_typical_test.private|has_typical_test.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_typical_test.personal|has_typical_test.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/typical_test :: MedicalTest ] or 
-- [ has_typical_test :: MedicalTest ] 
+- has_typical_test = `=this.dv_has_typical_test`  
+- has_typical_test = `=this.dv_has_typical_test`  
 
 A medical test typically performed given this condition.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition ]
-( #has_/name :: is_typical_test )
-( #has_/range :: MedicalTest )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

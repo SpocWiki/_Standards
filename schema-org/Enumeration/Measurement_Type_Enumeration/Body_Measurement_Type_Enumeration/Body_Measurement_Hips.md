@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_hips
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_hips Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_body_measurement_hips Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../BodyMeasurementTypeEnumeration]]"
+  enum_of: "[[../BodyMeasurementTypeEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips|Body_Measurement_Hips]]"
+    - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.public|Body_Measurement_Hips.public]]"
+    - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.internal|Body_Measurement_Hips.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.protect|Body_Measurement_Hips.protect]]"
+    - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.private|Body_Measurement_Hips.private]]"
+    - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.personal|Body_Measurement_Hips.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.secret|Body_Measurement_Hips.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../BodyMeasurementTypeEnumeration]]"
+dv_is_enum_of: "[[../BodyMeasurementTypeEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips|Body_Measurement_Hips]]"
+  - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.public|Body_Measurement_Hips.public]]"
+  - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.internal|Body_Measurement_Hips.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.protect|Body_Measurement_Hips.protect]]"
+  - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.private|Body_Measurement_Hips.private]]"
+  - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.personal|Body_Measurement_Hips.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.secret|Body_Measurement_Hips.secret]]"
 ---
 
 Class of all body_measurement_hipss.
@@ -33,14 +56,13 @@ Class of all body_measurement_hipss.
 Tag Instances like this: 
 #is_a_/body_measurement_hips
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Girth of hips (measured around the buttocks). Used, for example, to fit skirts.
 
-[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

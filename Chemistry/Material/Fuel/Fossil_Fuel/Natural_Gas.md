@@ -52,6 +52,25 @@ MeSH_tree_code:
 IPTC_NewsCode: mediatopic/20000263
 Commons_category: Natural gas
 Commons_gallery: Natural gas
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Natural_gas,40858]]"
+    - "[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas|Natural_Gas]]"
+    - "[[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.public|Natural_Gas.public]]"
+    - "[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.internal|Natural_Gas.internal]]"
+    - "[[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.protect|Natural_Gas.protect]]"
+    - "[[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.private|Natural_Gas.private]]"
+    - "[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.personal|Natural_Gas.personal]]"
+    - "[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.secret|Natural_Gas.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Natural_gas,40858]]"
+  - "[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas|Natural_Gas]]"
+  - "[[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.public|Natural_Gas.public]]"
+  - "[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.internal|Natural_Gas.internal]]"
+  - "[[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.protect|Natural_Gas.protect]]"
+  - "[[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.private|Natural_Gas.private]]"
+  - "[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.personal|Natural_Gas.personal]]"
+  - "[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.secret|Natural_Gas.secret]]"
 ---
 
 # [[Natural_Gas]] 

@@ -65,6 +65,25 @@ ISNI: 000000012137654X
 BHCL_UUID: da92911b-1669-4789-9487-099f404d09b6
 Libris_URI: gdsvz8f052stpjj
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/ULUGBEK_MUHAMMED_TARAGA.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Ulugh_Beg,486088|WD~Ulugh_Beg,486088]]"
+    - "[[/_Standards/Astronomy/Astronomer/Ulugh_Beg|Ulugh_Beg]]"
+    - "[[/_public/Astronomy/Astronomer/Ulugh_Beg.public|Ulugh_Beg.public]]"
+    - "[[/_internal/Astronomy/Astronomer/Ulugh_Beg.internal|Ulugh_Beg.internal]]"
+    - "[[/_protect/Astronomy/Astronomer/Ulugh_Beg.protect|Ulugh_Beg.protect]]"
+    - "[[/_private/Astronomy/Astronomer/Ulugh_Beg.private|Ulugh_Beg.private]]"
+    - "[[/_personal/Astronomy/Astronomer/Ulugh_Beg.personal|Ulugh_Beg.personal]]"
+    - "[[/_secret/Astronomy/Astronomer/Ulugh_Beg.secret|Ulugh_Beg.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Ulugh_Beg,486088|WD~Ulugh_Beg,486088]]"
+  - "[[/_Standards/Astronomy/Astronomer/Ulugh_Beg|Ulugh_Beg]]"
+  - "[[/_public/Astronomy/Astronomer/Ulugh_Beg.public|Ulugh_Beg.public]]"
+  - "[[/_internal/Astronomy/Astronomer/Ulugh_Beg.internal|Ulugh_Beg.internal]]"
+  - "[[/_protect/Astronomy/Astronomer/Ulugh_Beg.protect|Ulugh_Beg.protect]]"
+  - "[[/_private/Astronomy/Astronomer/Ulugh_Beg.private|Ulugh_Beg.private]]"
+  - "[[/_personal/Astronomy/Astronomer/Ulugh_Beg.personal|Ulugh_Beg.personal]]"
+  - "[[/_secret/Astronomy/Astronomer/Ulugh_Beg.secret|Ulugh_Beg.secret]]"
 ---
 
 # [[Ulugh_Beg]] 

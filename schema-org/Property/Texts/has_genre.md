@@ -34,18 +34,19 @@ type: Pred_Text
 Predicate to describe the Text of BroadcastChannel, CreativeWork, MusicGroup.
 
 Use it like this: 
-- [ #has_/text_of_/genre :: Text, URL ] or 
+- [has_/text_of_/genre :: Text, URL ] 
 - [ has_text_of_genre :: Text, URL ] 
 
 Genre of the creative work, broadcast channel or group.
 
 Predicated describes that: 
-[ #has_/domain  :: BroadcastChannel, CreativeWork, MusicGroup ]
+
+#has_/domain  :: BroadcastChannel, CreativeWork, MusicGroup  
+
 ( #has_/name :: has_text_of_genre )
 ( #has_/range :: Text, URL )
 
-[ #has_/sub_properties :: [ legislationType ] ]
-
+#has_/sub_properties :: [ legislationType ]  
 
 ## Confidential Links & Embeds: 
 

@@ -7,6 +7,25 @@ has_id_wikidata: Q13533728
 different_from: "[[_Standards/WikiData/WD~inversion,23010680]]"
 subclass_of: "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Golden%20rain%20demonstration.jpg
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Double_displacement_reaction,13533728|WD~Double_displacement_reaction,13533728]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Double_Displacement_Reaction|Double_Displacement_Reaction]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.public|Double_Displacement_Reaction.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.internal|Double_Displacement_Reaction.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.protect|Double_Displacement_Reaction.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.private|Double_Displacement_Reaction.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.personal|Double_Displacement_Reaction.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.secret|Double_Displacement_Reaction.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Double_displacement_reaction,13533728|WD~Double_displacement_reaction,13533728]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Double_Displacement_Reaction|Double_Displacement_Reaction]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.public|Double_Displacement_Reaction.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.internal|Double_Displacement_Reaction.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.protect|Double_Displacement_Reaction.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.private|Double_Displacement_Reaction.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.personal|Double_Displacement_Reaction.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.secret|Double_Displacement_Reaction.secret]]"
 ---
 
 # [[Double_Displacement_Reaction]] 

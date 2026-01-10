@@ -4,20 +4,20 @@ aliases:
   - Electrochemistry
 has_id_wikidata: Q7877
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_electrochemistry,907543]]'
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_electrochemistry,907543]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]'
-  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-practiced_by: '[[_Standards/WikiData/WD~electrochemist,71126987]]'
-part_of: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
-subclass_of: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
+  - "[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]"
+  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+practiced_by: "[[_Standards/WikiData/WD~electrochemist,71126987]]"
+part_of: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
+subclass_of: "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
 All_Science_Journal_Classification_Codes: 1603
 OmegaWiki_Defined_Meaning: 1127937
 Basisklassifikation: 35.14
@@ -28,6 +28,25 @@ IEV_number: 114-01-01
 UMLS_CUI: C0013803
 MeSH_tree_code: H01.181.529.307
 Krugosvet_article: nauka_i_tehnika/himiya/ELEKTROHIMIYA.html
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Electrochemistry,7877|WD~Electrochemistry,7877]]"
+    - "[[/_Standards/Chemistry/Electrochemistry|Electrochemistry]]"
+    - "[[/_public/Chemistry/Electrochemistry.public|Electrochemistry.public]]"
+    - "[[/_internal/Chemistry/Electrochemistry.internal|Electrochemistry.internal]]"
+    - "[[/_protect/Chemistry/Electrochemistry.protect|Electrochemistry.protect]]"
+    - "[[/_private/Chemistry/Electrochemistry.private|Electrochemistry.private]]"
+    - "[[/_personal/Chemistry/Electrochemistry.personal|Electrochemistry.personal]]"
+    - "[[/_secret/Chemistry/Electrochemistry.secret|Electrochemistry.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Electrochemistry,7877|WD~Electrochemistry,7877]]"
+  - "[[/_Standards/Chemistry/Electrochemistry|Electrochemistry]]"
+  - "[[/_public/Chemistry/Electrochemistry.public|Electrochemistry.public]]"
+  - "[[/_internal/Chemistry/Electrochemistry.internal|Electrochemistry.internal]]"
+  - "[[/_protect/Chemistry/Electrochemistry.protect|Electrochemistry.protect]]"
+  - "[[/_private/Chemistry/Electrochemistry.private|Electrochemistry.private]]"
+  - "[[/_personal/Chemistry/Electrochemistry.personal|Electrochemistry.personal]]"
+  - "[[/_secret/Chemistry/Electrochemistry.secret|Electrochemistry.secret]]"
 ---
 
 # [[Electrochemistry]] 

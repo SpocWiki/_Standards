@@ -39,16 +39,96 @@ sRGB_color_hex_triplet: 67A599
 Commons_category: Carboniferous
 Dewey_Decimal_Classification: "551.75"
 start_time: -358900000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "6.000e+7"
+  previous_:
+    item: "[[Period-0419~Devonian]]"
+  next_:
+    item: "[[Period-0299~Permian]]"
+  name_:
+    bg: Карбон
+    cs: Karbon
+    da: Karbon
+    de: Karbon
+    es: Carbonífero
+    et: Karbon
+    fi: Kivihiili
+    fr: Carbonifère
+    hu: karbon
+    it: carbonifero
+    ja: 石炭紀
+    lt: Karbonas
+    nl: Carboon
+    no: Karbon
+    pl: Karbon
+    pt: Carbónico
+    sk: karbón
+    sl: karbon
+    sv: karbon
+    zh: 石炭纪
+    abbreviated: C
+  time_:
+    started: "-358.9e6"
+    stopped: "-298.9e6"
+  text_of_:
+    color: "0x67A599"
+dv_is_:
+  same_as:
+    - "[[WD~Carboniferous,133738]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous|Period-0359~Carboniferous]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.public|Period-0359~Carboniferous.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.internal|Period-0359~Carboniferous.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.protect|Period-0359~Carboniferous.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.private|Period-0359~Carboniferous.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.personal|Period-0359~Carboniferous.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.secret|Period-0359~Carboniferous.secret]]"
+dv_has_duration_years: "6.000e+7"
+dv_has_previous_item: "[[Period-0419~Devonian]]"
+dv_has_next_item: "[[Period-0299~Permian]]"
+dv_is_same_as:
+  - "[[WD~Carboniferous,133738]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous|Period-0359~Carboniferous]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.public|Period-0359~Carboniferous.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.internal|Period-0359~Carboniferous.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.protect|Period-0359~Carboniferous.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.private|Period-0359~Carboniferous.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.personal|Period-0359~Carboniferous.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous.secret|Period-0359~Carboniferous.secret]]"
+dv_has_name_bg: Карбон
+dv_has_name_cs: Karbon
+dv_has_name_da: Karbon
+dv_has_name_de: Karbon
+dv_has_name_es: Carbonífero
+dv_has_name_et: Karbon
+dv_has_name_fi: Kivihiili
+dv_has_name_fr: Carbonifère
+dv_has_name_hu: karbon
+dv_has_name_it: carbonifero
+dv_has_name_ja: 石炭紀
+dv_has_name_lt: Karbonas
+dv_has_name_nl: Carboon
+dv_has_name_no: Karbon
+dv_has_name_pl: Karbon
+dv_has_name_pt: Carbónico
+dv_has_name_sk: karbón
+dv_has_name_sl: karbon
+dv_has_name_sv: karbon
+dv_has_name_zh: 石炭纪
+dv_has_name_abbreviated: C
+dv_has_time_started: "-358.9e6"
+dv_has_time_stopped: "-298.9e6"
+dv_has_text_of_color: "0x67A599"
 ---
 
 # [[Period-0359~Carboniferous]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Period-0419~Devonian]] 
-#has_/next_/item :: [[Period-0299~Permian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Carboniferous,133738]] 
 
 A time period from 358.9 to 298.9 million years ago. 
@@ -80,35 +160,35 @@ A time period from 358.9 to 298.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Carboniferous) 
 
 
-#has_/name_/bg  :: Карбон
-#has_/name_/cs  :: Karbon
-#has_/name_/da  :: Karbon
-#has_/name_/de  :: Karbon
-#has_/name_/es  :: Carbonífero
-#has_/name_/et  :: Karbon
-#has_/name_/fi  :: Kivihiili
-#has_/name_/fr  :: Carbonifère
-#has_/name_/hu  :: karbon
-#has_/name_/it  :: carbonifero
-#has_/name_/ja  :: 石炭紀
-#has_/name_/lt  :: Karbonas
-#has_/name_/nl  :: Carboon
-#has_/name_/no  :: Karbon
-#has_/name_/pl  :: Karbon
-#has_/name_/pt  :: Carbónico
-#has_/name_/sk  :: karbón
-#has_/name_/sl  :: karbon
-#has_/name_/sv  :: karbon
-#has_/name_/zh  :: 石炭纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: C
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -358.9e6 
-#has_/time_/stopped :: -298.9e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 104 
 
-#has_/text_of_/color :: 0x67A599
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

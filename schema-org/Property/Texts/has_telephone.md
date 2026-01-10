@@ -13,35 +13,64 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - telephone
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_telephone
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_telephone
 type: Pred_Text
+dv_has_:
+  telephone: Text
+  domain: ContactPoint, Organization, Person, Place
+dv_has_telephone: Text
+dv_#has_:
+  name: has_telephone
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_telephone|has_telephone]]"
+    - "[[/_public/schema-org/Property/Texts/has_telephone.public|has_telephone.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_telephone.internal|has_telephone.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_telephone.protect|has_telephone.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_telephone.private|has_telephone.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_telephone.personal|has_telephone.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_telephone.secret|has_telephone.secret]]"
+dv_has_domain: ContactPoint, Organization, Person, Place
+dv_has_name: has_telephone
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_telephone|has_telephone]]"
+  - "[[/_public/schema-org/Property/Texts/has_telephone.public|has_telephone.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_telephone.internal|has_telephone.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_telephone.protect|has_telephone.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_telephone.private|has_telephone.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_telephone.personal|has_telephone.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_telephone.secret|has_telephone.secret]]"
 ---
 
 Predicate to describe the Text of ContactPoint, Organization, Person, Place.
 
 Use it like this: 
-- [ #has_/telephone :: Text ] or 
-- [ has_telephone :: Text ] 
+- has_telephone = `=this.dv_has_telephone`  
+- has_telephone = `=this.dv_has_telephone`  
 
 The telephone number. Specify the Type of Phone Number to distinguish multiple. 
 
 Predicated describes that: 
-[ #has_/domain  :: ContactPoint, Organization, Person, Place ]
-( #has_/name :: has_telephone )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

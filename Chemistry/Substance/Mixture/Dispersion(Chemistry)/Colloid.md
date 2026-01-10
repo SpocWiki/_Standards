@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q181780
 subclass_of: "[[_Standards/WikiData/WD~dispersion,178697]]"
 practiced_by: "[[_Standards/WikiData/WD~interface_and_colloid_science,909495]]"
@@ -18,6 +18,25 @@ MeSH_tree_code:
   - D20.280
   - D26.255.165
 Colon_Classification: E:235
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Colloid,181780|WD~Colloid,181780]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid|Colloid]]"
+    - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.public|Colloid.public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.internal|Colloid.internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.protect|Colloid.protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.private|Colloid.private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.personal|Colloid.personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.secret|Colloid.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Colloid,181780|WD~Colloid,181780]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid|Colloid]]"
+  - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.public|Colloid.public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.internal|Colloid.internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.protect|Colloid.protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.private|Colloid.private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.personal|Colloid.personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid.secret|Colloid.secret]]"
 ---
 
 # [[Colloid]] 

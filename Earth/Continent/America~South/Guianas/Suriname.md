@@ -294,7 +294,7 @@ dv_ISO4217-currency_country_name: SURINAME
 dv_Telephone: 597
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Suriname
+dv_has_name: Suriname
 dv_has_name_en: Suriname
 dv_has_name_es: Suriname
 dv_has_name_fr: Suriname
@@ -387,7 +387,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Suriname ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

@@ -51,10 +51,9 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#VISA</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../LoanOrCredit, PaymentCard]] ]
+#is_/sub_class_of :: [[../LoanOrCredit, PaymentCard]]  
 
-[ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, cashBack, category, contactlessPayment, currency, description, disambiguatingDescription, feesAndCommissionsSpecification, floorLimit, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, monthlyMinimumRepaymentAmount, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
-
+#has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, cashBack, category, contactlessPayment, currency, description, disambiguatingDescription, feesAndCommissionsSpecification, floorLimit, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, monthlyMinimumRepaymentAmount, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 
 ## Confidential Links & Embeds: 
 

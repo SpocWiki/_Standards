@@ -4,14 +4,33 @@ aliases:
   - Chemical_Bond
   - Chemical Bond
 has_id_wikidata: Q44424
-instance_of: '[[_Standards/WikiData/WD~intramolecular_force,1571801]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Chemical_bonds,6564199]]'
-subclass_of: '[[_Standards/WikiData/WD~moiety,23005640]]'
-part_of: '[[_Standards/WikiData/WD~molecule,11369]]'
+instance_of: "[[_Standards/WikiData/WD~intramolecular_force,1571801]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Chemical_bonds,6564199]]"
+subclass_of: "[[_Standards/WikiData/WD~moiety,23005640]]"
+part_of: "[[_Standards/WikiData/WD~molecule,11369]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ligatio-covalens.svg
-P8189: 987007284925105171
+P8189: 987007284925105200
 Commons_category: Chemical bonding
 PhilPapers_topic: chemical-bonding
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Chemical_bond,44424|WD~Chemical_bond,44424]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond|Chemical_Bond]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond.public|Chemical_Bond.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond.internal|Chemical_Bond.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond.protect|Chemical_Bond.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond.private|Chemical_Bond.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond.personal|Chemical_Bond.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond.secret|Chemical_Bond.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Chemical_bond,44424|WD~Chemical_bond,44424]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond|Chemical_Bond]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond.public|Chemical_Bond.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond.internal|Chemical_Bond.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond.protect|Chemical_Bond.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond.private|Chemical_Bond.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond.personal|Chemical_Bond.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond.secret|Chemical_Bond.secret]]"
 ---
 
 # [[Chemical_Bond]] 

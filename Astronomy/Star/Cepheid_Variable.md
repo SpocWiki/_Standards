@@ -5,15 +5,34 @@ aliases:
   - Cepheid Variable
 has_id_wikidata: Q188593
 subclass_of:
-  - '[[_Standards/WikiData/WD~pulsating_variable_star,353834]]'
+  - "[[_Standards/WikiData/WD~pulsating_variable_star,353834]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Beta_Cephei_variable,764463]]'
+  - "[[_Standards/WikiData/WD~Beta_Cephei_variable,764463]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-named_after: '[[_Standards/WikiData/WD~Delta_Cephei,13024]]'
+  - "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+named_after: "[[_Standards/WikiData/WD~Delta_Cephei,13024]]"
 catalog_code: CEP
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Heic1323a%20-1243686232.jpg
 Commons_category: Cepheid variables
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cepheid_variable,188593|WD~Cepheid_variable,188593]]"
+    - "[[/_Standards/Astronomy/Star/Cepheid_Variable|Cepheid_Variable]]"
+    - "[[/_public/Astronomy/Star/Cepheid_Variable.public|Cepheid_Variable.public]]"
+    - "[[/_internal/Astronomy/Star/Cepheid_Variable.internal|Cepheid_Variable.internal]]"
+    - "[[/_protect/Astronomy/Star/Cepheid_Variable.protect|Cepheid_Variable.protect]]"
+    - "[[/_private/Astronomy/Star/Cepheid_Variable.private|Cepheid_Variable.private]]"
+    - "[[/_personal/Astronomy/Star/Cepheid_Variable.personal|Cepheid_Variable.personal]]"
+    - "[[/_secret/Astronomy/Star/Cepheid_Variable.secret|Cepheid_Variable.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cepheid_variable,188593|WD~Cepheid_variable,188593]]"
+  - "[[/_Standards/Astronomy/Star/Cepheid_Variable|Cepheid_Variable]]"
+  - "[[/_public/Astronomy/Star/Cepheid_Variable.public|Cepheid_Variable.public]]"
+  - "[[/_internal/Astronomy/Star/Cepheid_Variable.internal|Cepheid_Variable.internal]]"
+  - "[[/_protect/Astronomy/Star/Cepheid_Variable.protect|Cepheid_Variable.protect]]"
+  - "[[/_private/Astronomy/Star/Cepheid_Variable.private|Cepheid_Variable.private]]"
+  - "[[/_personal/Astronomy/Star/Cepheid_Variable.personal|Cepheid_Variable.personal]]"
+  - "[[/_secret/Astronomy/Star/Cepheid_Variable.secret|Cepheid_Variable.secret]]"
 ---
 
 # [[Cepheid_Variable]] 

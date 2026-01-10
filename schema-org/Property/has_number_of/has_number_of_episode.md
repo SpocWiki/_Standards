@@ -30,18 +30,19 @@ type: Predi_Count
 Predicate to describe the Number of Episode.
 
 Use it like this: 
-- [ #has_/number_of_/episode :: Integer, Text ] or 
+- [has_/number_of_/episode :: Integer, Text ] 
 - [ has_number_of_episode :: Integer, Text ] 
 
 Position of the episode within an ordered group of episodes.
 
 Predicate describes that: 
-[ #has_/domain  :: Episode ]
+
+#has_/domain  :: Episode  
+
 ( #has_/name :: has_number_of_episode )
 ( #has_/range :: Integer, Text )
 
-[ #is_/sub_property_of  :: position ]
-
+#is_/sub_property_of  :: position  
 
 ## Confidential Links & Embeds: 
 

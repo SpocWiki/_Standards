@@ -29,16 +29,18 @@ title: has_healthcare_reporting_data
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/healthcare_reporting_data :: CDCPMDRecord, Dataset ] or 
+- [has_/healthcare_reporting_data :: CDCPMDRecord, Dataset ] 
 - [ has_healthcare_reporting_data :: CDCPMDRecord, Dataset ] 
 
 Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[../../../Society/Communication/Media/Creative_Work/Dataset]].
 
 Relation describes that: 
-[ #has_/domain  :: Hospital ]
+
+#has_/domain  :: Hospital  
+
 ( #has_/name :: has_healthcare_reporting_data )
 ( #has_/range :: CDCPMDRecord, Dataset )
 

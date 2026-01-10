@@ -9,47 +9,47 @@ CSD_Refcode: ETHANE01
 RTECS_number: KH3800000
 SPLASH: splash10-004i-9000000000-9599acf3ac81d1b1b360
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~Humulus_lupulus,104212]]'
-  - '[[_Standards/WikiData/WD~Nepeta_cataria,161139]]'
-  - '[[_Standards/WikiData/WD~Stachys_recta,163769]]'
-  - '[[_Standards/WikiData/WD~Aloysia_citrodora,206532]]'
-  - '[[_Standards/WikiData/WD~Abies_sibirica,852262]]'
-  - '[[_Standards/WikiData/WD~Aframomum_melegueta,1503476]]'
-  - '[[_Standards/WikiData/WD~Dunaliella_salina,2441328]]'
-  - '[[_Standards/WikiData/WD~Cuminum,2511981]]'
-  - '[[_Standards/WikiData/WD~Eupatorium_capillifolium,5409948]]'
-  - '[[_Standards/WikiData/WD~Brillantaisia_lamium,5733993]]'
-  - '[[_Standards/WikiData/WD~Piper_gaudichaudianum,6076561]]'
-  - '[[_Standards/WikiData/WD~Solidago_altissima,7557949]]'
-  - '[[_Standards/WikiData/WD~Strychnos_pungens,7625524]]'
-  - '[[_Standards/WikiData/WD~Aster_scaber,12618577]]'
-  - '[[_Standards/WikiData/WD~Pelargonium_quercifolium,15208935]]'
-  - '[[_Standards/WikiData/WD~Duguetia_confinis,15356038]]'
-  - '[[_Standards/WikiData/WD~Hexalobus_crispiflorus,15361929]]'
-  - '[[_Standards/WikiData/WD~Antidesma_laciniatum,15510574]]'
-  - '[[_Standards/WikiData/WD~Symphyotrichum_undulatum,15555346]]'
-  - '[[_Standards/WikiData/WD~Bupleurum_acutifolium,15593482]]'
-  - '[[_Standards/WikiData/WD~Aloysia_triphylla,52626960]]'
-  - '[[_Standards/WikiData/WD~Aloysia_citriodora,104668461]]'
-  - '[[_Standards/WikiData/WD~Cardiagyris_scabra,111281722]]'
-  - '[[_Standards/WikiData/WD~Juniperus_communis,26325]]'
-  - '[[_Standards/WikiData/WD~Cannabis_sativa,26726]]'
+  - "[[_Standards/WikiData/WD~Humulus_lupulus,104212]]"
+  - "[[_Standards/WikiData/WD~Nepeta_cataria,161139]]"
+  - "[[_Standards/WikiData/WD~Stachys_recta,163769]]"
+  - "[[_Standards/WikiData/WD~Aloysia_citrodora,206532]]"
+  - "[[_Standards/WikiData/WD~Abies_sibirica,852262]]"
+  - "[[_Standards/WikiData/WD~Aframomum_melegueta,1503476]]"
+  - "[[_Standards/WikiData/WD~Dunaliella_salina,2441328]]"
+  - "[[_Standards/WikiData/WD~Cuminum,2511981]]"
+  - "[[_Standards/WikiData/WD~Eupatorium_capillifolium,5409948]]"
+  - "[[_Standards/WikiData/WD~Brillantaisia_lamium,5733993]]"
+  - "[[_Standards/WikiData/WD~Piper_gaudichaudianum,6076561]]"
+  - "[[_Standards/WikiData/WD~Solidago_altissima,7557949]]"
+  - "[[_Standards/WikiData/WD~Strychnos_pungens,7625524]]"
+  - "[[_Standards/WikiData/WD~Aster_scaber,12618577]]"
+  - "[[_Standards/WikiData/WD~Pelargonium_quercifolium,15208935]]"
+  - "[[_Standards/WikiData/WD~Duguetia_confinis,15356038]]"
+  - "[[_Standards/WikiData/WD~Hexalobus_crispiflorus,15361929]]"
+  - "[[_Standards/WikiData/WD~Antidesma_laciniatum,15510574]]"
+  - "[[_Standards/WikiData/WD~Symphyotrichum_undulatum,15555346]]"
+  - "[[_Standards/WikiData/WD~Bupleurum_acutifolium,15593482]]"
+  - "[[_Standards/WikiData/WD~Aloysia_triphylla,52626960]]"
+  - "[[_Standards/WikiData/WD~Aloysia_citriodora,104668461]]"
+  - "[[_Standards/WikiData/WD~Cardiagyris_scabra,111281722]]"
+  - "[[_Standards/WikiData/WD~Juniperus_communis,26325]]"
+  - "[[_Standards/WikiData/WD~Cannabis_sativa,26726]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~biogenic_aliphatic_hydrocarbon,109910560]]'
-  - '[[_Standards/WikiData/WD~alkane,41581]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~biogenic_aliphatic_hydrocarbon,109910560]]"
+  - "[[_Standards/WikiData/WD~alkane,41581]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 standard_enthalpy_of_formation: -83820
 melting_point: -182.8
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~carbon,623]]'
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~carbon,623]]"
 boiling_point:
   - -88.6
   - 184.6
@@ -85,13 +85,38 @@ CAS_Registry_Number: 74-84-0
 UMLS_CUI: C0014969
 chemical_formula: C₂H₆
 MeSH_tree_code: D02.455.326.146.379
+dv_has_:
+  formula_:
+    sum: C2H6
+    structural: H3C-CH3
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Ethane,52858|WD~Ethane,52858]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane|Ethane]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.public|Ethane.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.internal|Ethane.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.protect|Ethane.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.private|Ethane.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.personal|Ethane.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.secret|Ethane.secret]]"
+dv_has_formula_sum: C2H6
+dv_has_formula_structural: H3C-CH3
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Ethane,52858|WD~Ethane,52858]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane|Ethane]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.public|Ethane.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.internal|Ethane.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.protect|Ethane.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.private|Ethane.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.personal|Ethane.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Ethane.secret|Ethane.secret]]"
 ---
 
 # [[Ethane]] 
 
 
-#has_/formula_/sum :: C2H6 
-#has_/formula_/structural  :: H3C-CH3 
+has_formula_sum = `=this.dv_has_formula_sum` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Ethane,52858|WD~Ethane,52858]] 
 

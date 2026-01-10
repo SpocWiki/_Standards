@@ -27,7 +27,7 @@ title: is_loan_renegotiable
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/loan_renegotiable 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 Whether the terms for payment of interest can be renegotiated during the life of the loan.
 
 Predicate describes that: 
-[ #has_/domain  :: LoanOrCredit ]
+
+#has_/domain  :: LoanOrCredit  
+
 ( #has_/name :: is_loan_renegotiable )
 ( #has_/range :: Boolean )
 

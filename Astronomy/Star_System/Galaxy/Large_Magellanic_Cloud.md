@@ -5,30 +5,30 @@ aliases:
   - Large_Magellanic_Cloud
 has_id_wikidata: Q49957
 instance_of:
-  - '[[_Standards/WikiData/WD~irregular_galaxy,190397]]'
-  - '[[_Standards/WikiData/WD~dwarf_galaxy,190438]]'
-  - '[[_Standards/WikiData/WD~infrared_source,67206691]]'
-  - '[[_Standards/WikiData/WD~gamma_ray_source,71962386]]'
+  - "[[_Standards/WikiData/WD~irregular_galaxy,190397]]"
+  - "[[_Standards/WikiData/WD~dwarf_galaxy,190438]]"
+  - "[[_Standards/WikiData/WD~infrared_source,67206691]]"
+  - "[[_Standards/WikiData/WD~gamma_ray_source,71962386]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Tarantula_Nebula,224145]]'
-  - '[[_Standards/WikiData/WD~Q829324,829324]]'
-  - '[[_Standards/WikiData/WD~Q1046302,1046302]]'
-  - '[[_Standards/WikiData/WD~Q88365157,88365157]]'
+  - "[[_Standards/WikiData/WD~Tarantula_Nebula,224145]]"
+  - "[[_Standards/WikiData/WD~Q829324,829324]]"
+  - "[[_Standards/WikiData/WD~Q1046302,1046302]]"
+  - "[[_Standards/WikiData/WD~Q88365157,88365157]]"
 child_astronomical_body:
-  - '[[_Standards/WikiData/WD~NGC_2079,1046802]]'
-  - '[[_Standards/WikiData/WD~NGC_2084,1257636]]'
-  - '[[_Standards/WikiData/WD~N113,17124840]]'
-  - '[[_Standards/WikiData/WD~R136,5116]]'
+  - "[[_Standards/WikiData/WD~NGC_2079,1046802]]"
+  - "[[_Standards/WikiData/WD~NGC_2084,1257636]]"
+  - "[[_Standards/WikiData/WD~N113,17124840]]"
+  - "[[_Standards/WikiData/WD~R136,5116]]"
 part_of:
-  - '[[_Standards/WikiData/WD~Milky_Way_subgroup,18424563]]'
-  - '[[_Standards/WikiData/WD~Q67796371,67796371]]'
-  - '[[_Standards/WikiData/WD~Local_Group,3944]]'
-  - '[[_Standards/WikiData/WD~Magellanic_Clouds,50028]]'
+  - "[[_Standards/WikiData/WD~Milky_Way_subgroup,18424563]]"
+  - "[[_Standards/WikiData/WD~Q67796371,67796371]]"
+  - "[[_Standards/WikiData/WD~Local_Group,3944]]"
+  - "[[_Standards/WikiData/WD~Magellanic_Clouds,50028]]"
 declination: -69.75611
-parent_astronomical_body: '[[_Standards/WikiData/WD~Milky_Way,321]]'
-named_after: '[[_Standards/WikiData/WD~Ferdinand_Magellan,1496]]'
-constellation: '[[_Standards/WikiData/WD~Dorado,8837]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Abd_al_Rahman_al_Sufi,11075]]'
+parent_astronomical_body: "[[_Standards/WikiData/WD~Milky_Way,321]]"
+named_after: "[[_Standards/WikiData/WD~Ferdinand_Magellan,1496]]"
+constellation: "[[_Standards/WikiData/WD~Dorado,8837]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Abd_al_Rahman_al_Sufi,11075]]"
 absolute_magnitude: -18.5
 metallicity: -0.55
 apparent_magnitude: 0.4
@@ -62,10 +62,31 @@ catalog_code:
   - IRAS 05240-6948
   - LEDA 17223
 Wolfram_Language_entity_code:
-  - Entity["Concept", "LargeMagellanicCloud::527k3"]
+  - Entity"Concept", "LargeMagellanicCloud = `=this.dv_"Concept", "LargeMagellanicCloud` 
   - Entity["Galaxy", "LargeMagellanicCloud"]
 Commons_category: Large Magellanic Cloud
 time_of_discovery_or_invention: 0964-01-01T00:00:00Z
+dv_"Concept", "LargeMagellanicCloud: 527k3"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Large_Magellanic_Cloud,49957]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud|Large_Magellanic_Cloud]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.public|Large_Magellanic_Cloud.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.internal|Large_Magellanic_Cloud.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.protect|Large_Magellanic_Cloud.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.private|Large_Magellanic_Cloud.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.personal|Large_Magellanic_Cloud.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.secret|Large_Magellanic_Cloud.secret]]"
+dv_concept-largemagellaniccloud: 527k3"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Large_Magellanic_Cloud,49957]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud|Large_Magellanic_Cloud]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.public|Large_Magellanic_Cloud.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.internal|Large_Magellanic_Cloud.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.protect|Large_Magellanic_Cloud.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.private|Large_Magellanic_Cloud.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.personal|Large_Magellanic_Cloud.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Large_Magellanic_Cloud.secret|Large_Magellanic_Cloud.secret]]"
 ---
 
 # [[Large_Magellanic_Cloud]] 

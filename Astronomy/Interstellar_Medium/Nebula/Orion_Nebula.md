@@ -8,20 +8,20 @@ aliases:
   - Orion_Nebula
 has_id_wikidata: Q13903
 instance_of:
-  - '[[_Standards/WikiData/WD~reflection_nebula,203958]]'
-  - '[[_Standards/WikiData/WD~astronomical_radio_source,1931185]]'
-  - '[[_Standards/WikiData/WD~astrophysical_X_ray_source,2154519]]'
-  - '[[_Standards/WikiData/WD~H_II_region,11282]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Claude_Fabri_de_Peiresc,440183]]'
-has_part_s_: '[[_Standards/WikiData/WD~Kleinmann_Low_nebula,1746951]]'
+  - "[[_Standards/WikiData/WD~reflection_nebula,203958]]"
+  - "[[_Standards/WikiData/WD~astronomical_radio_source,1931185]]"
+  - "[[_Standards/WikiData/WD~astrophysical_X_ray_source,2154519]]"
+  - "[[_Standards/WikiData/WD~H_II_region,11282]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Nicolas_Claude_Fabri_de_Peiresc,440183]]"
+has_part_s_: "[[_Standards/WikiData/WD~Kleinmann_Low_nebula,1746951]]"
 galactic_longitude: 209.010797
 time_of_discovery_or_invention: 1610-11-26T00:00:00Z
 galactic_latitude: -19.383934
 declination:
   - -5.39111
   - -5.375
-constellation: '[[_Standards/WikiData/WD~Orion,8860]]'
-part_of: '[[_Standards/WikiData/WD~Orion_Molecular_Cloud_Complex,16742]]'
+constellation: "[[_Standards/WikiData/WD~Orion,8860]]"
+part_of: "[[_Standards/WikiData/WD~Orion_Molecular_Cloud_Complex,16742]]"
 declination_component_of_proper_motion: -0.3
 apparent_magnitude: 4
 distance_from_Earth:
@@ -32,10 +32,10 @@ radial_velocity: 27.8
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Orion%20Nebula%20-%20Hubble%202006%20mosaic%2018000.jpg
 catalog_code:
   - M 42
-  - '[B77] 117'
-  - '[DGW65] 26'
-  - '[KPS2012] MWSC 0582'
-  - '[WCO2009] J053517-052326'
+  - "[B77] 117"
+  - "[DGW65] 26"
+  - "[KPS2012] MWSC 0582"
+  - "[WCO2009] J053517-052326"
   - 3C 145
   - 4C -05.21
   - LBN 209.13-19.35
@@ -52,6 +52,25 @@ right_ascension:
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Zooming%20in%20on%20the%20Orion%20Nebula.webm
 Commons_gallery: Messier 42
 Commons_category: Orion Nebula
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Orion_Nebula,13903]]"
+    - "[[/_Standards/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula|Orion_Nebula]]"
+    - "[[/_public/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.public|Orion_Nebula.public]]"
+    - "[[/_internal/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.internal|Orion_Nebula.internal]]"
+    - "[[/_protect/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.protect|Orion_Nebula.protect]]"
+    - "[[/_private/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.private|Orion_Nebula.private]]"
+    - "[[/_personal/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.personal|Orion_Nebula.personal]]"
+    - "[[/_secret/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.secret|Orion_Nebula.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Orion_Nebula,13903]]"
+  - "[[/_Standards/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula|Orion_Nebula]]"
+  - "[[/_public/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.public|Orion_Nebula.public]]"
+  - "[[/_internal/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.internal|Orion_Nebula.internal]]"
+  - "[[/_protect/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.protect|Orion_Nebula.protect]]"
+  - "[[/_private/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.private|Orion_Nebula.private]]"
+  - "[[/_personal/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.personal|Orion_Nebula.personal]]"
+  - "[[/_secret/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.secret|Orion_Nebula.secret]]"
 ---
 
 # [[Orion_Nebula]] 

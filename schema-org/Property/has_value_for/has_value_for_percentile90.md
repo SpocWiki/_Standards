@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - percentile90
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_percentile90
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_percentile90
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    percentile90: Number
+  domain: QuantitativeValueDistribution
+dv_has_value_for_percentile90: Number
+dv_#has_:
+  name: has_value_for_percentile90
+  range: Number
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_percentile90|has_value_for_percentile90]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_percentile90.public|has_value_for_percentile90.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_percentile90.internal|has_value_for_percentile90.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_percentile90.protect|has_value_for_percentile90.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_percentile90.private|has_value_for_percentile90.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_percentile90.personal|has_value_for_percentile90.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_percentile90.secret|has_value_for_percentile90.secret]]"
+dv_has_domain: QuantitativeValueDistribution
+dv_has_name: has_value_for_percentile90
+dv_has_range: Number
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_percentile90|has_value_for_percentile90]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_percentile90.public|has_value_for_percentile90.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_percentile90.internal|has_value_for_percentile90.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_percentile90.protect|has_value_for_percentile90.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_percentile90.private|has_value_for_percentile90.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_percentile90.personal|has_value_for_percentile90.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_percentile90.secret|has_value_for_percentile90.secret]]"
 ---
 
 Predicate to describe the Quantity of QuantitativeValueDistribution.
 
 Use it like this: 
-- [ #has_/value_for_/percentile90 :: Number ] or 
-- [ has_value_for_percentile90 :: Number ] 
+- has_value_for_percentile90 = `=this.dv_has_value_for_percentile90`  
+- has_value_for_percentile90 = `=this.dv_has_value_for_percentile90`  
 
 The 90th percentile value.
 
 Predicate describes that: 
-[ #has_/domain  :: QuantitativeValueDistribution ]
-( #has_/name :: has_value_for_percentile90 )
-( #has_/range :: Number )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -16,6 +16,25 @@ lower_limit: -90
 upper_limit: 90
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03B4;</mi></mstyle></mrow></math>
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Declination,76287|WD~Declination,76287]]"
+    - "[[/_Standards/Astronomy/Astronomical_Coordinate_System/Declination|Declination]]"
+    - "[[/_public/Astronomy/Astronomical_Coordinate_System/Declination.public|Declination.public]]"
+    - "[[/_internal/Astronomy/Astronomical_Coordinate_System/Declination.internal|Declination.internal]]"
+    - "[[/_protect/Astronomy/Astronomical_Coordinate_System/Declination.protect|Declination.protect]]"
+    - "[[/_private/Astronomy/Astronomical_Coordinate_System/Declination.private|Declination.private]]"
+    - "[[/_personal/Astronomy/Astronomical_Coordinate_System/Declination.personal|Declination.personal]]"
+    - "[[/_secret/Astronomy/Astronomical_Coordinate_System/Declination.secret|Declination.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Declination,76287|WD~Declination,76287]]"
+  - "[[/_Standards/Astronomy/Astronomical_Coordinate_System/Declination|Declination]]"
+  - "[[/_public/Astronomy/Astronomical_Coordinate_System/Declination.public|Declination.public]]"
+  - "[[/_internal/Astronomy/Astronomical_Coordinate_System/Declination.internal|Declination.internal]]"
+  - "[[/_protect/Astronomy/Astronomical_Coordinate_System/Declination.protect|Declination.protect]]"
+  - "[[/_private/Astronomy/Astronomical_Coordinate_System/Declination.private|Declination.private]]"
+  - "[[/_personal/Astronomy/Astronomical_Coordinate_System/Declination.personal|Declination.personal]]"
+  - "[[/_secret/Astronomy/Astronomical_Coordinate_System/Declination.secret|Declination.secret]]"
 ---
 
 # [[Declination]] 

@@ -2,48 +2,48 @@
 aliases:
   - Lead
 has_id_wikidata: Q708
-associated_hazard: '[[_Standards/WikiData/WD~lead_poisoning,110315]]'
+associated_hazard: "[[_Standards/WikiData/WD~lead_poisoning,110315]]"
 atomic_number: 82
 boiling_point:
   - 1740
   - 3164
-canonical_SMILES: '[Pb]'
+canonical_SMILES: "[Pb]"
 CAS_Registry_Number: 7439-92-1
 chemical_formula: Pb
-color: '[[_Standards/WikiData/WD~grey,42519]]'
+color: "[[_Standards/WikiData/WD~grey,42519]]"
 Commons_category: Lead
 Commons_gallery: Lead
 density: 11.34
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Lead,84693984]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-different_from: '[[_Standards/WikiData/WD~lead,947546]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Lead,84693984]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+different_from: "[[_Standards/WikiData/WD~lead,947546]]"
 DSSTOX_compound_identifier: DTXCID804161
 EAGLE_id: material/lod/108
 EC_number: 231-100-4
 electronegativity: 2
 element_symbol: Pb
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
-  - '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
-has_characteristic: '[[_Standards/WikiData/WD~opacity,691914]]'
-has_effect: '[[_Standards/WikiData/WD~lead_poisoning,110315]]'
-has_use: '[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009]]'
+  - "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
+  - "[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]"
+has_characteristic: "[[_Standards/WikiData/WD~opacity,691914]]"
+has_effect: "[[_Standards/WikiData/WD~lead_poisoning,110315]]"
+has_use: "[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lead%20electrolytic%20and%201cm3%20cube.jpg
 immediately_dangerous_to_life_or_health: 100
 InChI: InChI=1S/Pb
 InChIKey: WABPQHHGFIMREM-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-  - '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-  - '[[_Standards/WikiData/WD~superconducting_element,106192073]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+  - "[[_Standards/WikiData/WD~superconducting_element,106192073]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 1.4
   - 0.65
@@ -54,10 +54,10 @@ ionic_radius:
   - 1.49
 Krugosvet_article: nauka_i_tehnika/himiya/SVINETS.html
 made_from_material:
-  - '[[_Standards/WikiData/WD~anglesite,156526]]'
-  - '[[_Standards/WikiData/WD~boulangerite,250618]]'
-  - '[[_Standards/WikiData/WD~cerussite,409122]]'
-  - '[[_Standards/WikiData/WD~galena,37559]]'
+  - "[[_Standards/WikiData/WD~anglesite,156526]]"
+  - "[[_Standards/WikiData/WD~boulangerite,250618]]"
+  - "[[_Standards/WikiData/WD~cerussite,409122]]"
+  - "[[_Standards/WikiData/WD~galena,37559]]"
 mass: 207.2
 melting_point:
   - 328
@@ -67,20 +67,20 @@ MeSH_tree_code:
   - D01.552.544.435
 OmegaWiki_Defined_Meaning: 2119
 part_of:
-  - '[[_Standards/WikiData/WD~group_14,106693]]'
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q29014733,29014733]]'
+  - "[[_Standards/WikiData/WD~group_14,106693]]"
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q29014733,29014733]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20159.jpg
 PubChem_CID: 5352425
 RTECS_number: OF7525000
 SpocWebEntityId: 21977
 standard_molar_entropy: 64.8
-subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
 subject_has_role:
-  - '[[_Standards/WikiData/WD~carcinogen,187661]]'
-  - '[[_Standards/WikiData/WD~male_reproductive_toxicant,55427774]]'
-  - '[[_Standards/WikiData/WD~female_reproductive_toxicant,55427776]]'
-  - '[[_Standards/WikiData/WD~developmental_toxicant,72941151]]'
+  - "[[_Standards/WikiData/WD~carcinogen,187661]]"
+  - "[[_Standards/WikiData/WD~male_reproductive_toxicant,55427774]]"
+  - "[[_Standards/WikiData/WD~female_reproductive_toxicant,55427776]]"
+  - "[[_Standards/WikiData/WD~developmental_toxicant,72941151]]"
 time_weighted_average_exposure_limit: 0.05
 type: Element
 UMLS_CUI: C0023175
@@ -91,37 +91,123 @@ U_S_National_Archives_Identifier: 10663134
 vapor_pressure: 0
 Wolfram_Language_entity_code: Entity["Mineral", "Lead"]
 ZVG_number: 8510
+dv_has_:
+  name_:
+    group: Group-14-Carbon
+    en: Lead
+    de: Blei
+    abbreviated: Pb
+  value_for_:
+    weight_:
+      u: 207.2
+    radius: 1.81
+    volume_:
+      ccm_:
+        mol: 18.17
+    unknown2: 1.47
+    radius_:
+      nano_:
+        m: 7.416
+    electronegativity: 2.3
+    density: 11.4
+    temperature_:
+      melt_:
+        c: 327.5
+      boil_:
+        c: 1740
+    capacity_:
+      heat: 0.13
+    conductivity_:
+      heat: 0.353
+    enthalpy: 4.799
+    energy_:
+      form_:
+        kj_:
+          mol: 177.7
+  number_of_:
+    period: 6
+    group: 14
+    electrons: 82
+dv_is_:
+  part_of: "[[../Group-14-Carbon]]"
+  same_as:
+    - "[[../../../WikiData/WD~Lead,708|WD~Lead,708]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Lead|Lead]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Lead.public|Lead.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Lead.internal|Lead.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Lead.protect|Lead.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Lead.private|Lead.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Lead.personal|Lead.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Lead.secret|Lead.secret]]"
+dv_has_name_group: Group-14-Carbon
+dv_is_part_of: "[[../Group-14-Carbon]]"
+dv_has_name_en: Lead
+dv_has_name_de: Blei
+dv_has_value_for_weight_u: 207.2
+dv_has_value_for_radius: 1.81
+dv_has_value_for_volume_ccm_mol: 18.17
+dv_has_value_for_unknown2: 1.47
+dv_has_value_for_radius_nano_m: 7.416
+dv_has_value_for_electronegativity: 2.3
+dv_has_value_for_density: 11.4
+dv_has_value_for_temperature_melt_c: 327.5
+dv_has_value_for_temperature_boil_c: 1740
+dv_has_value_for_capacity_heat: 0.13
+dv_has_value_for_conductivity_heat: 0.353
+dv_has_value_for_enthalpy: 4.799
+dv_has_value_for_energy_form_kj_mol: 177.7
+dv_has_number_of_period: 6
+dv_has_number_of_group: 14
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Lead,708|WD~Lead,708]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Lead|Lead]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Lead.public|Lead.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Lead.internal|Lead.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Lead.protect|Lead.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Lead.private|Lead.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Lead.personal|Lead.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Lead.secret|Lead.secret]]"
+dv_has_name_abbreviated: Pb
+dv_has_number_of_electrons: 82
 ---
 
 # [[Lead]] 
 
 #chemic/Element 
-[GroupName::Group-14-Carbon]
-Group::[[../Group-14-Carbon]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-[#has_/name_/en::Lead]
-[#has_/name_/de::Blei]
-[#has_/value_for_/weight_/u::207.2]
-[AtomRadius::1.81]
-[Atom-Vol-ccm-mol::18.17]
-[Unknown2::1.47]
-[#has_/value_for_/radius_/nano_/m::7.416]
-[Electronegative::2.3]
-[Density::11.4]
-[#has_/value_for_/temperature_/melt_/c ::327.5]
-[#has_/value_for_/temperature_/boil_/c ::1740]
-[HeatCapacity::0.13]
-[HeatConduct::0.353]
-[Enthalpy::4.799]
-[FormEnergy-kj-mol::177.7]
-(PeriodNo::6)
-(GroupNo::14)
+has_name_en = `=this.dv_has_name_en` 
+
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Lead,708|WD~Lead,708]] 
 
 ## #has_/text_of_/abstract 
 
-> **Lead** is a chemical element with the symbol (Abbr::Pb) (from the Latin plumbum) and atomic number (Charge-e::82). 
+> **Lead** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  (from the Latin plumbum) and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a heavy metal that is denser than most common materials. 
 > Lead is soft and malleable, and also has a relatively low melting point. 
 > 

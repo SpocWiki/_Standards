@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: NIGERIA
 dv_Telephone: 234
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Nigeria
+dv_has_name: Nigeria
 dv_has_name_en: Nigeria
 dv_has_name_es: Nigeria
 dv_has_name_fr: Nigéria
@@ -1018,7 +1018,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Nigeria ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

@@ -3,22 +3,22 @@ aliases:
   - Lawrencium
 has_id_wikidata: Q1905
 atomic_number: 103
-canonical_SMILES: '[Lr]'
+canonical_SMILES: "[Lr]"
 CAS_Registry_Number: 22537-19-5
 chemical_formula: Lr
 Commons_category: Lawrencium
 Commons_gallery: Lawrencium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
 DSSTOX_compound_identifier: DTXCID8099548
 electronegativity: 1.3
 element_symbol: Lr
 InChI: InChI=1S/Lr
 InChIKey: CNQCVBJFEGMYDW-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
-location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+location_of_discovery: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
 MeSH_tree_code:
   - D01.268.271.100.500
   - D01.268.556.423
@@ -26,20 +26,100 @@ MeSH_tree_code:
   - D01.496.749.305.100.500
   - D01.552.020.507
   - D01.552.544.423
-named_after: '[[_Standards/WikiData/WD~Ernest_Lawrence,169577]]'
+named_after: "[[_Standards/WikiData/WD~Ernest_Lawrence,169577]]"
 OmegaWiki_Defined_Meaning: 161353
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~actinide,19577]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-lawrencium.wav
 PubChem_CID: 31192
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20103%20Lawrencium.svg
 SpocWebEntityId: 21998
 time_of_discovery_or_invention: 1961-02-14
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_lawrencium,8085415]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_lawrencium,8085415]]"
 type: Element
 Unicode_character: 鐒
 UNII: QRT37X99RQ
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Lawrencium,1905]]"
+    - "[[../../../WikiData/WD~Lawrencium,1905|WD~Lawrencium,1905]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium|Lawrencium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.public|Lawrencium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.internal|Lawrencium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.protect|Lawrencium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.private|Lawrencium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.personal|Lawrencium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.secret|Lawrencium.secret]]"
+  part_of: "[[../Group-03-Scandium]]"
+dv_has_:
+  name_:
+    group: Group-03-Scandium
+    en: Lawrencium
+    de: Lawrencium
+    abbreviated: Lr
+  value_for_:
+    weight_:
+      u: 257
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 0
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 0
+    electronegativity: 0
+    density: 0
+    temperature_:
+      melt_:
+        c: 0
+      boil_:
+        c: 0
+    capacity_:
+      heat: 0
+    conductivity_:
+      heat: 0
+    enthalpy: 0
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 37
+    electrons: 103
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Lawrencium,1905]]"
+  - "[[../../../WikiData/WD~Lawrencium,1905|WD~Lawrencium,1905]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium|Lawrencium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.public|Lawrencium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.internal|Lawrencium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.protect|Lawrencium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.private|Lawrencium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.personal|Lawrencium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.secret|Lawrencium.secret]]"
+dv_has_name_group: Group-03-Scandium
+dv_is_part_of: "[[../Group-03-Scandium]]"
+dv_has_name_en: Lawrencium
+dv_has_name_de: Lawrencium
+dv_has_name_abbreviated: Lr
+dv_has_value_for_weight_u: 257
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 0
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 0
+dv_has_value_for_electronegativity: 0
+dv_has_value_for_density: 0
+dv_has_value_for_temperature_melt_c: 0
+dv_has_value_for_temperature_boil_c: 0
+dv_has_value_for_capacity_heat: 0
+dv_has_value_for_conductivity_heat: 0
+dv_has_value_for_enthalpy: 0
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 37
+dv_has_number_of_electrons: 103
 ---
 
 # [[Lawrencium]] 
@@ -47,29 +127,38 @@ UNII: QRT37X99RQ
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905]] 
 
-[GroupName::Group-03-Scandium]
-Group::[[../Group-03-Scandium]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-[#has_/name_/en::Lawrencium]
-[#has_/name_/de::Lawrencium]
-(Abbr::Lr)
-[#has_/value_for_/weight_/u::257]
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::0]
-[Unknown2::0]
-[#has_/value_for_/radius_/nano_/m::0]
-[Electronegative::0]
-[Density::0]
-[#has_/value_for_/temperature_/melt_/c ::0]
-[#has_/value_for_/temperature_/boil_/c ::0]
-[HeatCapacity::0]
-[HeatConduct::0]
-[Enthalpy::0]
-[FormEnergy-kj-mol::0]
-(PeriodNo::7)
-(GroupNo::37)
+has_name_en = `=this.dv_has_name_en` 
 
-(Charge-e::103)
+has_name_de = `=this.dv_has_name_de` 
+
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
+
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 #is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905|WD~Lawrencium,1905]] 
 

@@ -289,7 +289,7 @@ dv_ISO4217-currency_country_name: BELIZE
 dv_Telephone: 501
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Belize
+dv_has_name: Belize
 dv_has_name_en: Belize
 dv_has_name_es: Belice
 dv_has_name_fr: Belize
@@ -384,7 +384,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Belize ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

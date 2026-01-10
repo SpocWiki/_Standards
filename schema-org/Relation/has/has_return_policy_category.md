@@ -29,16 +29,18 @@ title: has_return_policy_category
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/return_policy_category :: MerchantReturnEnumeration ] or 
+- [has_/return_policy_category :: MerchantReturnEnumeration ] 
 - [ has_return_policy_category :: MerchantReturnEnumeration ] 
 
 Specifies an applicable return policy (from an enumeration).
 
 Relation describes that: 
-[ #has_/domain  :: MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride ]
+
+#has_/domain  :: MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride  
+
 ( #has_/name :: is_return_policy_category )
 ( #has_/range :: MerchantReturnEnumeration )
 

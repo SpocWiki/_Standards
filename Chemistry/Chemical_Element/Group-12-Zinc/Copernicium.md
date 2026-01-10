@@ -22,6 +22,25 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-copernicium.oga
 CAS_Registry_Number: 54084-26-3
 element_symbol: Cn
 time_of_discovery_or_invention: 1996-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Copernicium,1278|WD~Copernicium,1278]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium|Copernicium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.public|Copernicium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.internal|Copernicium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.protect|Copernicium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.private|Copernicium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.personal|Copernicium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.secret|Copernicium.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Copernicium,1278|WD~Copernicium,1278]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium|Copernicium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.public|Copernicium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.internal|Copernicium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.protect|Copernicium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.private|Copernicium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.personal|Copernicium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.secret|Copernicium.secret]]"
 ---
 
 # [[Copernicium]] 

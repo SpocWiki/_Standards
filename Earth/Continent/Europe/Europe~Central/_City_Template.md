@@ -17,7 +17,7 @@ tags:
 type: City
 dv_has_place_longitude: "{{x}}"
 dv_has_place_latitude: "{{y}}"
-dv_has_name_: "{{City}}"
+dv_has_name: "{{City}}"
 dv_has_place_province: "{{State}}]"
 dv_CountryId: "{{CountryId}}"
 dv_StateId: "{{StateId}}"
@@ -47,7 +47,7 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_province = `=this.dv_has_place_province`
 CountryId = `=this.dv_CountryId` 
 StateId = `=this.dv_StateId` 

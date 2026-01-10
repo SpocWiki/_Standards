@@ -10,25 +10,25 @@ tags:
   - astro/Zodiac
 type: Zodiac
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-  - '[[_Standards/WikiData/WD~Delphinus,105122286]]'
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - "[[_Standards/WikiData/WD~Delphinus,105122286]]"
+part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q10729013,10729013]]'
-  - '[[_Standards/WikiData/WD~Template_Stars_of_Delphinus,14336008]]'
-named_after: '[[_Standards/WikiData/WD~dolphin,7369]]'
+  - "[[_Standards/WikiData/WD~Q10729013,10729013]]"
+  - "[[_Standards/WikiData/WD~Template_Stars_of_Delphinus,14336008]]"
+named_after: "[[_Standards/WikiData/WD~dolphin,7369]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Pegasus,8864]]'
-  - '[[_Standards/WikiData/WD~Equuleus,10438]]'
-  - '[[_Standards/WikiData/WD~Sagitta,10513]]'
-  - '[[_Standards/WikiData/WD~Vulpecula,10519]]'
-  - '[[_Standards/WikiData/WD~Aquarius,10576]]'
-  - '[[_Standards/WikiData/WD~Aquila,10586]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Pegasus,8864]]"
+  - "[[_Standards/WikiData/WD~Equuleus,10438]]"
+  - "[[_Standards/WikiData/WD~Sagitta,10513]]"
+  - "[[_Standards/WikiData/WD~Vulpecula,10519]]"
+  - "[[_Standards/WikiData/WD~Aquarius,10576]]"
+  - "[[_Standards/WikiData/WD~Aquila,10586]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 189
 official_name: Delphinus
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Delphinus%20constellation%20map.svg
@@ -37,16 +37,45 @@ Commons_gallery: Delphinus (constellation)
 Commons_category: Delphinus (constellation)
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Delphinus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DelphinusCC.jpg
+dv_SpocWebEntityId: 28114
+dv_#has_:
+  name_:
+    la: Delphinus
+    la_:
+      genitive: Delphini
+    de: Delphin
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Delphinus,9302|WD~Delphinus,9302]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Delphinus|Zodiac~Delphinus]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Delphinus.public|Zodiac~Delphinus.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Delphinus.internal|Zodiac~Delphinus.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Delphinus.protect|Zodiac~Delphinus.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Delphinus.private|Zodiac~Delphinus.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Delphinus.personal|Zodiac~Delphinus.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Delphinus.secret|Zodiac~Delphinus.secret]]"
+dv_has_name_la: Delphinus
+dv_has_name_la_genitive: Delphini
+dv_has_name_de: Delphin
+dv_is_same_as:
+  - "[[../../WikiData/WD~Delphinus,9302|WD~Delphinus,9302]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Delphinus|Zodiac~Delphinus]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Delphinus.public|Zodiac~Delphinus.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Delphinus.internal|Zodiac~Delphinus.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Delphinus.protect|Zodiac~Delphinus.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Delphinus.private|Zodiac~Delphinus.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Delphinus.personal|Zodiac~Delphinus.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Delphinus.secret|Zodiac~Delphinus.secret]]"
 ---
 
 # [[Zodiac~Delphinus]] 
 
 
-[SpocWebEntityId::28114]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Delphinus]
-[#has_/name_/la_/genitive::Delphini]
-[#has_/name_/de::Delphin]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Delphinus,9302|WD~Delphinus,9302]] 
 

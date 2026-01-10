@@ -21,7 +21,7 @@ dv_has_:
     code_repository: https://github.com/SpocWiki/Africa-Sudan-South
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: South Sudan
+dv_has_name: South Sudan
 dv_has_name_en: South Sudan
 dv_has_name_es: Sudán del Sur
 dv_has_name_fr: Soudan du Sud
@@ -459,7 +459,7 @@ defaultZoom: 5
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 has_name_en = `=this.dv_has_name_en`
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

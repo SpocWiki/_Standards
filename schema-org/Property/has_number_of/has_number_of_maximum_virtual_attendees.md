@@ -29,16 +29,18 @@ type: Predi_Count
 
 Predicate to describe the Number of Event.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/number_of_/maximum_virtual_attendees :: Integer ] or 
+- [has_/number_of_/maximum_virtual_attendees :: Integer ] 
 - [ has_number_of_maximum_virtual_attendees :: Integer ] 
 
 The maximum physical attendee capacity of an [[Event]] whose [[eventAttendanceMode]] is [[OnlineEventAttendanceMode]] (or the online aspects, in the case of a [[MixedEventAttendanceMode]]).
 
 Predicate describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: has_number_of_maximum_virtual_attendees )
 ( #has_/range :: Integer )
 

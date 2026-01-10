@@ -30,18 +30,19 @@ type: Predi_Count
 Predicate to describe the Number of CreativeWork, ListItem.
 
 Use it like this: 
-- [ #has_/number_of_/position :: Integer, Text ] or 
+- [has_/number_of_/position :: Integer, Text ] 
 - [ has_number_of_position :: Integer, Text ] 
 
 The position of an item in a series or sequence of items.
 
 Predicate describes that: 
-[ #has_/domain  :: CreativeWork, ListItem ]
+
+#has_/domain  :: CreativeWork, ListItem  
+
 ( #has_/name :: has_number_of_position )
 ( #has_/range :: Integer, Text )
 
-[ #has_/sub_properties :: [ clipNumber, episodeNumber, issueNumber, seasonNumber, volumeNumber ] ]
-
+#has_/sub_properties :: [ clipNumber, episodeNumber, issueNumber, seasonNumber, volumeNumber ]  
 
 ## Confidential Links & Embeds: 
 

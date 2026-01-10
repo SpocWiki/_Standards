@@ -33,16 +33,18 @@ type: Pred_Text
 
 Predicate to describe the Text of JobPosting.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/eligibility_to_work_requirement :: Text ] or 
+- [has_/text_of_/eligibility_to_work_requirement :: Text ] 
 - [ has_text_of_eligibility_to_work_requirement :: Text ] 
 
 The legal requirements such as citizenship, visa and other documentation required for an applicant to this job.
 
 Predicated describes that: 
-[ #has_/domain  :: JobPosting ]
+
+#has_/domain  :: JobPosting  
+
 ( #has_/name :: has_text_of_eligibility_to_work_requirement )
 ( #has_/range :: Text )
 

@@ -10,35 +10,62 @@ cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Date
 title: has_time_of_temporal
 type: Predi_Date_Time
+dv_has_time_of_temporal: P#Y#M#W#DT#H#M#s.fff
+dv_#has_:
+  time_:
+    of_temporal: P#Y#M#W#DT#H#M#s.fff
+dv_domain: CreativeWork
+dv_has_:
+  name: has_time_of_temporal
+dv_range: DateTime, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_temporal|has_time_of_temporal]]"
+    - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_temporal.public|has_time_of_temporal.public]]"
+    - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_temporal.internal|has_time_of_temporal.internal]]"
+    - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_temporal.protect|has_time_of_temporal.protect]]"
+    - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_temporal.private|has_time_of_temporal.private]]"
+    - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_temporal.personal|has_time_of_temporal.personal]]"
+    - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal.secret|has_time_of_temporal.secret]]"
+dv_has_name: has_time_of_temporal
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_temporal|has_time_of_temporal]]"
+  - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_temporal.public|has_time_of_temporal.public]]"
+  - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_temporal.internal|has_time_of_temporal.internal]]"
+  - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_temporal.protect|has_time_of_temporal.protect]]"
+  - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_temporal.private|has_time_of_temporal.private]]"
+  - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_temporal.personal|has_time_of_temporal.personal]]"
+  - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal.secret|has_time_of_temporal.secret]]"
 ---
 
 Predicate to describe the date of CreativeWork.
 
 Use it like this: 
-- [has_time_of_temporal::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/of_temporal::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- has_time_of_temporal = `=this.dv_has_time_of_temporal`  
+- has_time_of_temporal = `=this.dv_has_time_of_temporal`  
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The "temporal" property can be used in cases where more specific properties
 (e.g. [[temporalCoverage]], [[dateCreated]], [[dateModified]], [[datePublished]]) are not known to be appropriate.
 
 Formal Predicate: 
-[domain::CreativeWork]
-(has_/name::has_time_of_temporal)
-(range::DateTime, Text)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

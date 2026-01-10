@@ -2,6 +2,23 @@
 aliases:
   - Group-07-Manganese
 type: ElementGroup
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese|Group-07-Manganese]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-07-Manganese.public|Group-07-Manganese.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese.internal|Group-07-Manganese.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese.protect|Group-07-Manganese.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-07-Manganese.private|Group-07-Manganese.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese.personal|Group-07-Manganese.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese.secret|Group-07-Manganese.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese|Group-07-Manganese]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-07-Manganese.public|Group-07-Manganese.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese.internal|Group-07-Manganese.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-07-Manganese.protect|Group-07-Manganese.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-07-Manganese.private|Group-07-Manganese.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese.personal|Group-07-Manganese.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese.secret|Group-07-Manganese.secret]]"
 ---
 
 #chemic/Group 

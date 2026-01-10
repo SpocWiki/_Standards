@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/area_served :: AdministrativeArea, GeoShape, Place, Text ] or 
+- [has_/area_served :: AdministrativeArea, GeoShape, Place, Text ] 
 - [ has_area_served :: AdministrativeArea, GeoShape, Place, Text ] 
 
 The geographic area where a service or offered item is provided.
 
 Relation describes that: 
-[ #has_/domain  :: ContactPoint, DeliveryChargeSpecification, Demand, Offer, Organization, Service ]
+
+#has_/domain  :: ContactPoint, DeliveryChargeSpecification, Demand, Offer, Organization, Service  
+
 ( #has_/name :: has_area_served )
 ( #has_/range :: AdministrativeArea, GeoShape, Place, Text )
 
-[ #has_/sub_properties :: [ availableAtOrFrom, eligibleRegion ] ]
-
+#has_/sub_properties :: [ availableAtOrFrom, eligibleRegion ]  
 
 ## Confidential Links & Embeds: 
 

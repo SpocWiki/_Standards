@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - offer_item_condition
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_offer_item_condition Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_offer_item_condition Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition|Offer_Item_Condition]]"
+    - "[[/_public/schema-org/Enumeration/Offer_Item_Condition.public|Offer_Item_Condition.public]]"
+    - "[[/_internal/schema-org/Enumeration/Offer_Item_Condition.internal|Offer_Item_Condition.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Offer_Item_Condition.protect|Offer_Item_Condition.protect]]"
+    - "[[/_private/schema-org/Enumeration/Offer_Item_Condition.private|Offer_Item_Condition.private]]"
+    - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition.personal|Offer_Item_Condition.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition.secret|Offer_Item_Condition.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition|Offer_Item_Condition]]"
+  - "[[/_public/schema-org/Enumeration/Offer_Item_Condition.public|Offer_Item_Condition.public]]"
+  - "[[/_internal/schema-org/Enumeration/Offer_Item_Condition.internal|Offer_Item_Condition.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Offer_Item_Condition.protect|Offer_Item_Condition.protect]]"
+  - "[[/_private/schema-org/Enumeration/Offer_Item_Condition.private|Offer_Item_Condition.private]]"
+  - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition.personal|Offer_Item_Condition.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition.secret|Offer_Item_Condition.secret]]"
 ---
 
 Class of all offer_item_conditions.
@@ -34,8 +53,7 @@ Tag Instances like this:
 
 A list of possible conditions for the item.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

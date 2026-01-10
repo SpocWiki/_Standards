@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q191907
 subject_has_role: "[[_Standards/WikiData/WD~antioxidant,133948]]"
 subclass_of:
@@ -34,6 +34,25 @@ MeSH_tree_code:
   - D02.455.426.392.368.367.379.249
   - D02.455.849.131
   - D23.767.261
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Carotenoid,191907|WD~Carotenoid,191907]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Carotenoid|Carotenoid]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Carotenoid.public|Carotenoid.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Carotenoid.internal|Carotenoid.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Carotenoid.protect|Carotenoid.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Carotenoid.private|Carotenoid.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Carotenoid.personal|Carotenoid.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Carotenoid.secret|Carotenoid.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Carotenoid,191907|WD~Carotenoid,191907]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Carotenoid|Carotenoid]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Carotenoid.public|Carotenoid.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Carotenoid.internal|Carotenoid.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Carotenoid.protect|Carotenoid.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Carotenoid.private|Carotenoid.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Carotenoid.personal|Carotenoid.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Carotenoid.secret|Carotenoid.secret]]"
 ---
 
 # [[Carotenoid]] 

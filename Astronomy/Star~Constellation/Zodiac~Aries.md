@@ -1,4 +1,35 @@
 ---
+dv_SpocWebEntityId: 28089
+dv_#has_:
+  name_:
+    la: Aries
+    la_:
+      genitive: Arietis
+    de: Widder
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Aries,10584|WD~Aries,10584]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Aries|Zodiac~Aries]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Aries.public|Zodiac~Aries.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Aries.internal|Zodiac~Aries.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Aries.protect|Zodiac~Aries.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Aries.private|Zodiac~Aries.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Aries.personal|Zodiac~Aries.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Aries.secret|Zodiac~Aries.secret]]"
+dv_has_name_la: Aries
+dv_has_name_la_genitive: Arietis
+dv_has_name_de: Widder
+dv_is_same_as:
+  - "[[../../WikiData/WD~Aries,10584|WD~Aries,10584]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Aries|Zodiac~Aries]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Aries.public|Zodiac~Aries.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Aries.internal|Zodiac~Aries.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Aries.protect|Zodiac~Aries.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Aries.private|Zodiac~Aries.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Aries.personal|Zodiac~Aries.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Aries.secret|Zodiac~Aries.secret]]"
+---
+---
 aliases:
   - Zodiac~Aries
 has_id_wikidata: Q10584
@@ -46,11 +77,11 @@ official_name: Aries
 # [[Zodiac~Aries]] 
 
 
-[SpocWebEntityId::28089] 
+SpocWebEntityId = `=this.dv_SpocWebEntityId`  
 
-[#has_/name_/la::Aries]
-[#has_/name_/la_/genitive::Arietis]
-[#has_/name_/de::Widder]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Aries,10584|WD~Aries,10584]] 
 

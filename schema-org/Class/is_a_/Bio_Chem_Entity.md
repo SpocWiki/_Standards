@@ -34,7 +34,7 @@ Class of all bio_chem_entitys.
 Tag Instances like this: 
 #is_a_/bio_chem_entity
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Any biological, chemical, or biochemical thing. 
 For example: a protein; a gene; a chemical; a synthetic chemical.
@@ -46,7 +46,7 @@ For example: a protein; a gene; a chemical; a synthetic chemical.
 #has_/sub_classes :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] 
 #has_/sub_classes :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] 
 
-[ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ] ]
+#has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ]  
 
 #is_/same_as :: 
 

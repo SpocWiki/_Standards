@@ -66,6 +66,25 @@ IMDb_keyword:
   - dwarf-planet-haumea
   - haumea
 periapsis: 34.4961098
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Haumea,601]]"
+    - "[[/_Standards/Astronomy/Solar_System/Haumea|Haumea]]"
+    - "[[/_public/Astronomy/Solar_System/Haumea.public|Haumea.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Haumea.internal|Haumea.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Haumea.protect|Haumea.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Haumea.private|Haumea.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Haumea.personal|Haumea.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Haumea.secret|Haumea.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Haumea,601]]"
+  - "[[/_Standards/Astronomy/Solar_System/Haumea|Haumea]]"
+  - "[[/_public/Astronomy/Solar_System/Haumea.public|Haumea.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Haumea.internal|Haumea.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Haumea.protect|Haumea.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Haumea.private|Haumea.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Haumea.personal|Haumea.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Haumea.secret|Haumea.secret]]"
 ---
 
 # [[Haumea]] 

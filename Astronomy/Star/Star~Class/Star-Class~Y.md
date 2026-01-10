@@ -1,6 +1,6 @@
 ---
 aliases:
-  - ''
+  - ""
   - Star-Class~Y
 confidential: public
 isDeleted: false
@@ -14,6 +14,23 @@ _Temperature: 500
 _name: Y
 _Radius-sol: 0.1
 _Mass-sol: 0.1
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Star/Star~Class/Star-Class~Y|Star-Class~Y]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Star-Class~Y.public|Star-Class~Y.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Star-Class~Y.internal|Star-Class~Y.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Star-Class~Y.protect|Star-Class~Y.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Star-Class~Y.private|Star-Class~Y.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Star-Class~Y.personal|Star-Class~Y.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Star-Class~Y.secret|Star-Class~Y.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Star/Star~Class/Star-Class~Y|Star-Class~Y]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Star-Class~Y.public|Star-Class~Y.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Star-Class~Y.internal|Star-Class~Y.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Star-Class~Y.protect|Star-Class~Y.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Star-Class~Y.private|Star-Class~Y.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Star-Class~Y.personal|Star-Class~Y.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Star-Class~Y.secret|Star-Class~Y.secret]]"
 ---
 
 

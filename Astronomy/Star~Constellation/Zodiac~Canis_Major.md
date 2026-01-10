@@ -12,25 +12,25 @@ tags:
   - astro/Zodiac
 type: Zodiac
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 named_after:
-  - '[[_Standards/WikiData/WD~Laelaps,907245]]'
-  - '[[_Standards/WikiData/WD~dog,144]]'
+  - "[[_Standards/WikiData/WD~Laelaps,907245]]"
+  - "[[_Standards/WikiData/WD~dog,144]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Canis_Major,6460472]]'
-  - '[[_Standards/WikiData/WD~Q10729139,10729139]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Template_Canis_Major,6460472]]"
+  - "[[_Standards/WikiData/WD~Q10729139,10729139]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Puppis,9251]]'
-  - '[[_Standards/WikiData/WD~Columba,10425]]'
-  - '[[_Standards/WikiData/WD~Monoceros,10428]]'
-  - '[[_Standards/WikiData/WD~Lepus,10446]]'
+  - "[[_Standards/WikiData/WD~Puppis,9251]]"
+  - "[[_Standards/WikiData/WD~Columba,10425]]"
+  - "[[_Standards/WikiData/WD~Monoceros,10428]]"
+  - "[[_Standards/WikiData/WD~Lepus,10446]]"
 area: 380
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Canis%20Major%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Canis%20Major%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
@@ -40,15 +40,44 @@ Commons_gallery: Canis Major
 Commons_category: Canis Major
 official_name: Canis Major
 short_name: CMa
+dv_SpocWebEntityId: 28096
+dv_#has_:
+  name_:
+    la: Canis Major
+    la_:
+      genitive: Canis Majoris
+    de: Grosser Hund
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Canis_Major,10538|WD~Canis_Major,10538]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Canis_Major|Zodiac~Canis_Major]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Canis_Major.public|Zodiac~Canis_Major.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Canis_Major.internal|Zodiac~Canis_Major.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Canis_Major.protect|Zodiac~Canis_Major.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Canis_Major.private|Zodiac~Canis_Major.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Canis_Major.personal|Zodiac~Canis_Major.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Canis_Major.secret|Zodiac~Canis_Major.secret]]"
+dv_has_name_la: Canis Major
+dv_has_name_la_genitive: Canis Majoris
+dv_has_name_de: Grosser Hund
+dv_is_same_as:
+  - "[[../../WikiData/WD~Canis_Major,10538|WD~Canis_Major,10538]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Canis_Major|Zodiac~Canis_Major]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Canis_Major.public|Zodiac~Canis_Major.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Canis_Major.internal|Zodiac~Canis_Major.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Canis_Major.protect|Zodiac~Canis_Major.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Canis_Major.private|Zodiac~Canis_Major.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Canis_Major.personal|Zodiac~Canis_Major.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Canis_Major.secret|Zodiac~Canis_Major.secret]]"
 ---
 
 # [[Zodiac~Canis_Major]] 
 
-[SpocWebEntityId::28096] 
+SpocWebEntityId = `=this.dv_SpocWebEntityId`  
 
-[#has_/name_/la::Canis Major] 
-[#has_/name_/la_/genitive::Canis Majoris] 
-[#has_/name_/de::Grosser Hund] 
+has_name_la = `=this.dv_has_name_la`  
+has_name_la_genitive = `=this.dv_has_name_la_genitive`  
+has_name_de = `=this.dv_has_name_de`  
 
 #is_/same_as :: [[../../WikiData/WD~Canis_Major,10538|WD~Canis_Major,10538]] 
 

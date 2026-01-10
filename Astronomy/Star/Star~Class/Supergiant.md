@@ -3,9 +3,28 @@ aliases:
   - Superriese
   - Supergiant
 has_id_wikidata: Q193599
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~star,523]]'
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+subclass_of: "[[_Standards/WikiData/WD~star,523]]"
 Commons_category: Supergiant stars
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Supergiant,193599|WD~Supergiant,193599]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Supergiant|Supergiant]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Supergiant.public|Supergiant.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Supergiant.internal|Supergiant.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Supergiant.protect|Supergiant.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Supergiant.private|Supergiant.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Supergiant.personal|Supergiant.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Supergiant.secret|Supergiant.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Supergiant,193599|WD~Supergiant,193599]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Supergiant|Supergiant]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Supergiant.public|Supergiant.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Supergiant.internal|Supergiant.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Supergiant.protect|Supergiant.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Supergiant.private|Supergiant.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Supergiant.personal|Supergiant.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Supergiant.secret|Supergiant.secret]]"
 ---
 
 # [[Supergiant]] 

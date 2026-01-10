@@ -65,11 +65,33 @@ UMLS_CUI: C0033434
 chemical_formula: C₃H₈
 MeSH_tree_code: D02.455.326.146.800
 DSSTOX_compound_identifier: DTXCID006386
+dv_has_:
+  formula_: C3H8
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Propane,131189|WD~Propane,131189]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane|Propane]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.public|Propane.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.internal|Propane.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.protect|Propane.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.private|Propane.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.personal|Propane.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.secret|Propane.secret]]"
+dv_has_formula_: C3H8
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Propane,131189|WD~Propane,131189]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane|Propane]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.public|Propane.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.internal|Propane.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.protect|Propane.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.private|Propane.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.personal|Propane.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.secret|Propane.secret]]"
 ---
 
 # [[Propane]] 
 
-#has_/formula_ :: C3H8 
+has_formula_ = `=this.dv_has_formula_` 
 #is_/same_as :: [[../../../../WikiData/WD~Propane,131189|WD~Propane,131189]]  
 
 ## #has_/text_of_/abstract 

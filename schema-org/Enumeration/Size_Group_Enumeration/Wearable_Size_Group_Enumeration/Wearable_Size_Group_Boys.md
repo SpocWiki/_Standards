@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: WearableSizeGroupEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_size_group_boys
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_size_group_boys Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_wearable_size_group_boys Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../WearableSizeGroupEnumeration]]"
+  enum_of: "[[../WearableSizeGroupEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys|Wearable_Size_Group_Boys]]"
+    - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.public|Wearable_Size_Group_Boys.public]]"
+    - "[[/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.internal|Wearable_Size_Group_Boys.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.protect|Wearable_Size_Group_Boys.protect]]"
+    - "[[/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.private|Wearable_Size_Group_Boys.private]]"
+    - "[[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.personal|Wearable_Size_Group_Boys.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.secret|Wearable_Size_Group_Boys.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../WearableSizeGroupEnumeration]]"
+dv_is_enum_of: "[[../WearableSizeGroupEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys|Wearable_Size_Group_Boys]]"
+  - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.public|Wearable_Size_Group_Boys.public]]"
+  - "[[/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.internal|Wearable_Size_Group_Boys.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.protect|Wearable_Size_Group_Boys.protect]]"
+  - "[[/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.private|Wearable_Size_Group_Boys.private]]"
+  - "[[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.personal|Wearable_Size_Group_Boys.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Boys.secret|Wearable_Size_Group_Boys.secret]]"
 ---
 
 Class of all wearable_size_group_boyss.
@@ -33,14 +56,13 @@ Class of all wearable_size_group_boyss.
 Tag Instances like this: 
 #is_a_/wearable_size_group_boys
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Size group "Boys" for wearables.
 
-[ #is_/sub_class_of :: [[../WearableSizeGroupEnumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

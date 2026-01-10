@@ -9,32 +9,61 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_applying_to_delivery_method
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_applying_to_delivery_method
 type: Predi_Relation
+dv_is_:
+  applying_to_delivery_method: DeliveryMethod
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_applying_to_delivery_method|is_applying_to_delivery_method]]"
+    - "[[/_public/schema-org/Relation/is/is_applying_to_delivery_method.public|is_applying_to_delivery_method.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_applying_to_delivery_method.internal|is_applying_to_delivery_method.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_applying_to_delivery_method.protect|is_applying_to_delivery_method.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_applying_to_delivery_method.private|is_applying_to_delivery_method.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_applying_to_delivery_method.personal|is_applying_to_delivery_method.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_applying_to_delivery_method.secret|is_applying_to_delivery_method.secret]]"
+dv_is_applying_to_delivery_method: DeliveryMethod
+dv_has_:
+  domain: DeliveryChargeSpecification, PaymentChargeSpecification
+dv_#has_:
+  name: is_applying_to_delivery_method
+  range: DeliveryMethod
+dv_has_domain: DeliveryChargeSpecification, PaymentChargeSpecification
+dv_has_name: is_applying_to_delivery_method
+dv_has_range: DeliveryMethod
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_applying_to_delivery_method|is_applying_to_delivery_method]]"
+  - "[[/_public/schema-org/Relation/is/is_applying_to_delivery_method.public|is_applying_to_delivery_method.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_applying_to_delivery_method.internal|is_applying_to_delivery_method.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_applying_to_delivery_method.protect|is_applying_to_delivery_method.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_applying_to_delivery_method.private|is_applying_to_delivery_method.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_applying_to_delivery_method.personal|is_applying_to_delivery_method.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_applying_to_delivery_method.secret|is_applying_to_delivery_method.secret]]"
 ---
 
 Use it like this: 
-- [ #is_/applying_to_delivery_method :: DeliveryMethod] or 
-- [ is_applying_to_delivery_method :: DeliveryMethod] 
+- is_applying_to_delivery_method = `=this.dv_is_applying_to_delivery_method`  
+- is_applying_to_delivery_method = `=this.dv_is_applying_to_delivery_method`  
 
 The delivery method(s) to which the delivery charge or payment charge specification applies.
 
 Relation describes that: 
-[ #has_/domain  :: DeliveryChargeSpecification, PaymentChargeSpecification]
-( #has_/name :: is_applying_to_delivery_method)
-( #has_/range :: DeliveryMethod)
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

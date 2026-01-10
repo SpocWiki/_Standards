@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,28 +16,57 @@ keywords:
   - category
   - cost_category
   - costCategory
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_cost_category
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_cost_category
 type: Predi_Relation
+dv_has_:
+  cost_category: DrugCostCategory
+  domain: DrugCost
+dv_has_cost_category: DrugCostCategory
+dv_#has_:
+  name: has_cost_category
+  range: DrugCostCategory
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_cost_category|has_cost_category]]"
+    - "[[/_public/schema-org/Relation/has/has_cost_category.public|has_cost_category.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_cost_category.internal|has_cost_category.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_cost_category.protect|has_cost_category.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_cost_category.private|has_cost_category.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_cost_category.personal|has_cost_category.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_cost_category.secret|has_cost_category.secret]]"
+dv_has_domain: DrugCost
+dv_has_name: has_cost_category
+dv_has_range: DrugCostCategory
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_cost_category|has_cost_category]]"
+  - "[[/_public/schema-org/Relation/has/has_cost_category.public|has_cost_category.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_cost_category.internal|has_cost_category.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_cost_category.protect|has_cost_category.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_cost_category.private|has_cost_category.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_cost_category.personal|has_cost_category.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_cost_category.secret|has_cost_category.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/cost_category :: DrugCostCategory ] or 
-- [ has_cost_category :: DrugCostCategory ] 
+- has_cost_category = `=this.dv_has_cost_category`  
+- has_cost_category = `=this.dv_has_cost_category`  
 
 The category of cost, such as wholesale, retail, reimbursement cap, etc.
 
 Relation describes that: 
-[ #has_/domain  :: DrugCost ]
-( #has_/name :: has_cost_category )
-( #has_/range :: DrugCostCategory )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

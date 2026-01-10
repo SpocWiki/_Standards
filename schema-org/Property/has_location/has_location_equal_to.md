@@ -11,28 +11,56 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_equals
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_equals
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_equals
 type: Pred_geo
+dv_has_:
+  location_:
+    equal_to: GeospatialGeometry, Place
+  domain: GeospatialGeometry, Place
+dv_has_location_equal_to: GeospatialGeometry, Place
+dv_#has_:
+  name: has_location_equals
+  range: GeospatialGeometry, Place
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_location/has_location_equal_to|has_location_equal_to]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_equal_to.public|has_location_equal_to.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_equal_to.internal|has_location_equal_to.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_equal_to.protect|has_location_equal_to.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_equal_to.private|has_location_equal_to.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_equal_to.personal|has_location_equal_to.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_equal_to.secret|has_location_equal_to.secret]]"
+dv_has_domain: GeospatialGeometry, Place
+dv_has_name: has_location_equals
+dv_has_range: GeospatialGeometry, Place
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_location/has_location_equal_to|has_location_equal_to]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_equal_to.public|has_location_equal_to.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_equal_to.internal|has_location_equal_to.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_equal_to.protect|has_location_equal_to.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_equal_to.private|has_location_equal_to.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_equal_to.personal|has_location_equal_to.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_equal_to.secret|has_location_equal_to.secret]]"
 ---
 
 Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
-- [ #has_/location_/equal_to :: GeospatialGeometry, Place ] or 
-- [ has_location_equal_to :: GeospatialGeometry, Place ] 
+- has_location_equal_to = `=this.dv_has_location_equal_to`  
+- has_location_equal_to = `=this.dv_has_location_equal_to`  
 
 Represents spatial relations in which two geometries (or the places they represent) are topologically equal, 
 as defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM). 
@@ -42,9 +70,11 @@ and no part of the interior or boundary of one geometry intersects the exterior 
 (a symmetric relationship).
 
 Predicate describes that: 
-[ #has_/domain  :: GeospatialGeometry, Place ]
-( #has_/name :: has_location_equals )
-( #has_/range :: GeospatialGeometry, Place )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

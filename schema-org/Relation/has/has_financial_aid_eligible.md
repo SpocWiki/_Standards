@@ -29,16 +29,18 @@ title: has_financial_aid_eligible
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/financial_aid_eligible :: DefinedTerm, Text ] or 
+- [has_/financial_aid_eligible :: DefinedTerm, Text ] 
 - [ has_financial_aid_eligible :: DefinedTerm, Text ] 
 
 A financial aid type or program which students may use to pay for tuition or fees associated with the program.
 
 Relation describes that: 
-[ #has_/domain  :: EducationalOccupationalProgram ]
+
+#has_/domain  :: EducationalOccupationalProgram  
+
 ( #has_/name :: has_financial_aid_eligible )
 ( #has_/range :: DefinedTerm, Text )
 

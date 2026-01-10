@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - original_media_content
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_original_media_content Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_original_media_content Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content|Original_Media_Content]]"
+    - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.public|Original_Media_Content.public]]"
+    - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.internal|Original_Media_Content.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.protect|Original_Media_Content.protect]]"
+    - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.private|Original_Media_Content.private]]"
+    - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.personal|Original_Media_Content.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.secret|Original_Media_Content.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content|Original_Media_Content]]"
+  - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.public|Original_Media_Content.public]]"
+  - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.internal|Original_Media_Content.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.protect|Original_Media_Content.protect]]"
+  - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.private|Original_Media_Content.private]]"
+  - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.personal|Original_Media_Content.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.secret|Original_Media_Content.secret]]"
 ---
 
 Class of all original_media_contents.
@@ -33,7 +56,7 @@ Class of all original_media_contents.
 Tag Instances like this: 
 #is_an_/original_media_content
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Content coded 'as original media content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
@@ -47,10 +70,9 @@ No evidence the image has been misleadingly altered or manipulated, though it ma
 # For an [[../../../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
 No evidence the audio has been misleadingly altered or manipulated, though it may contain false or misleading claims.
 
-[ #is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -16,15 +16,95 @@ Commons_category: Anisian
 sRGB_color_hex_triplet: C986B6
 coordinate_location: Point(28.8022 45.0742)
 end_time: -242000000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "5.200e+6"
+  previous_:
+    item: "[[../Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]"
+  next_:
+    item: "[[Age~2~Ladinian]]"
+  name_:
+    bg: пниз
+    cs: Anis
+    da: Anisien
+    de: Anisium
+    es: Anisiense
+    et: Anisi
+    fi: Anis
+    fr: Anisien
+    hu: anisusi
+    it: anisico
+    ja: アニシアン期
+    lt: Anizis
+    nl: Anisiën
+    no: Ansin
+    pl: Anizyk
+    pt: Anisiano
+    sk: anis
+    sl: anizij
+    sv: anis
+    zh: 安尼期
+    abbreviated: t3
+  time_:
+    started: "-247.2e6"
+    stopped: "-242.0e6"
+  text_of_:
+    color: "0xBC75B7"
+dv_is_:
+  same_as:
+    - "[[WD~Anisian,549024]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.public|Age~1~Anisian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.internal|Age~1~Anisian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.protect|Age~1~Anisian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.private|Age~1~Anisian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.personal|Age~1~Anisian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.secret|Age~1~Anisian.secret]]"
+dv_has_duration_years: "5.200e+6"
+dv_has_previous_item: "[[../Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]]"
+dv_has_next_item: "[[Age~2~Ladinian]]"
+dv_is_same_as:
+  - "[[WD~Anisian,549024]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.public|Age~1~Anisian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.internal|Age~1~Anisian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.protect|Age~1~Anisian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.private|Age~1~Anisian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.personal|Age~1~Anisian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-247~Middle_Triassic/Age~1~Anisian.secret|Age~1~Anisian.secret]]"
+dv_has_name_bg: пниз
+dv_has_name_cs: Anis
+dv_has_name_da: Anisien
+dv_has_name_de: Anisium
+dv_has_name_es: Anisiense
+dv_has_name_et: Anisi
+dv_has_name_fi: Anis
+dv_has_name_fr: Anisien
+dv_has_name_hu: anisusi
+dv_has_name_it: anisico
+dv_has_name_ja: アニシアン期
+dv_has_name_lt: Anizis
+dv_has_name_nl: Anisiën
+dv_has_name_no: Ansin
+dv_has_name_pl: Anizyk
+dv_has_name_pt: Anisiano
+dv_has_name_sk: anis
+dv_has_name_sl: anizij
+dv_has_name_sv: anis
+dv_has_name_zh: 安尼期
+dv_has_name_abbreviated: t3
+dv_has_time_started: "-247.2e6"
+dv_has_time_stopped: "-242.0e6"
+dv_has_text_of_color: "0xBC75B7"
 ---
 # [[Age~1~Anisian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]] 
-#has_/next_/item :: [[Age~2~Ladinian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Anisian,549024]] 
 
 A time period from 247.2 to 242 million years ago. 
@@ -42,35 +122,35 @@ A time period from 247.2 to 242 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Anisian) 
 
 
-#has_/name_/bg  :: пниз
-#has_/name_/cs  :: Anis
-#has_/name_/da  :: Anisien
-#has_/name_/de  :: Anisium
-#has_/name_/es  :: Anisiense
-#has_/name_/et  :: Anisi
-#has_/name_/fi  :: Anis
-#has_/name_/fr  :: Anisien
-#has_/name_/hu  :: anisusi
-#has_/name_/it  :: anisico
-#has_/name_/ja  :: アニシアン期
-#has_/name_/lt  :: Anizis
-#has_/name_/nl  :: Anisiën
-#has_/name_/no  :: Ansin
-#has_/name_/pl  :: Anizyk
-#has_/name_/pt  :: Anisiano
-#has_/name_/sk  :: anis
-#has_/name_/sl  :: anizij
-#has_/name_/sv  :: anis
-#has_/name_/zh  :: 安尼期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: t3
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -247.2e6 
-#has_/time_/stopped :: -242.0e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 71 
 
-#has_/text_of_/color :: 0xBC75B7
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

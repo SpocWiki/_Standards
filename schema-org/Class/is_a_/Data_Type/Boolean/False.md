@@ -4,26 +4,43 @@ aliases:
   - false
   - false
   - is_a_FALSE
-  - False
+  - false
 confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - false
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_FALSE Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_FALSE Class
 type: Type
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean/False|False]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Boolean/False.public|False.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Boolean/False.internal|False.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Boolean/False.protect|False.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Boolean/False.private|False.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Boolean/False.personal|False.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Boolean/False.secret|False.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean/False|False]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Boolean/False.public|False.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Boolean/False.internal|False.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Boolean/False.protect|False.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Boolean/False.private|False.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Boolean/False.personal|False.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Boolean/False.secret|False.secret]]"
 ---
 
 Class of all FALSEs.

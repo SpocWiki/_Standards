@@ -79,12 +79,11 @@ It usually includes:
 - **Radiation therapy**: e.g., oncology treatments
 - **Gene and cell therapy**: e.g., CAR-T, CRISPR applications
 
-[ #is_/sub_class_of :: [[../TherapeuticProcedure]] ]
+#is_/sub_class_of :: [[../TherapeuticProcedure]]  
 
-[ #has_/sub_classes :: [ OccupationalTherapy, PalliativeProcedure, PhysicalTherapy, RadiationTherapy, RespiratoryTherapy ] ]
+#has_/sub_classes :: [ OccupationalTherapy, PalliativeProcedure, PhysicalTherapy, RadiationTherapy, RespiratoryTherapy ]  
 
-[ #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Medical_treatment,179661|WD~Medical_treatment,179661]] 
 

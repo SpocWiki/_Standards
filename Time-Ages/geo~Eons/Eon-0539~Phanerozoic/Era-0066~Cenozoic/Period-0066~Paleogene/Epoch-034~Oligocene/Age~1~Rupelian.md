@@ -34,15 +34,95 @@ start_time: -33900000-01-01T00:00:00Z
 Commons_category: Rupelian
 sRGB_color_hex_triplet: FED9A2
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1108
+dv_has_:
+  duration_:
+    years: "6.080e+6"
+  previous_:
+    item: "[[../Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]"
+  next_:
+    item: "[[Age~2~Chattian]]"
+  name_:
+    bg: Рупел
+    cs: Rupel
+    da: Rupelien
+    de: Rupelium
+    es: Rupeliense
+    et: Rupeli
+    fi: Rupel
+    fr: Rupélien
+    hu: rupeli
+    it: rupeliano
+    ja: ルペル期
+    lt: Rupelis
+    nl: Rupeliën
+    no: Rupel
+    pl: Rupel
+    pt: Rupeliano
+    sk: rupel
+    sl: rupelij
+    sv: rupel
+    zh: 鲁珀利期
+    abbreviated: e8
+  time_:
+    started: "-33.90e6"
+    stopped: "-27.82e6"
+  text_of_:
+    color: "0xFED99A"
+dv_is_:
+  same_as:
+    - "[[WD~Rupelian,508633]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.public|Age~1~Rupelian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.internal|Age~1~Rupelian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.protect|Age~1~Rupelian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.private|Age~1~Rupelian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.personal|Age~1~Rupelian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.secret|Age~1~Rupelian.secret]]"
+dv_has_duration_years: "6.080e+6"
+dv_has_previous_item: "[[../Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]]"
+dv_has_next_item: "[[Age~2~Chattian]]"
+dv_is_same_as:
+  - "[[WD~Rupelian,508633]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian|Age~1~Rupelian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.public|Age~1~Rupelian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.internal|Age~1~Rupelian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.protect|Age~1~Rupelian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.private|Age~1~Rupelian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.personal|Age~1~Rupelian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-034~Oligocene/Age~1~Rupelian.secret|Age~1~Rupelian.secret]]"
+dv_has_name_bg: Рупел
+dv_has_name_cs: Rupel
+dv_has_name_da: Rupelien
+dv_has_name_de: Rupelium
+dv_has_name_es: Rupeliense
+dv_has_name_et: Rupeli
+dv_has_name_fi: Rupel
+dv_has_name_fr: Rupélien
+dv_has_name_hu: rupeli
+dv_has_name_it: rupeliano
+dv_has_name_ja: ルペル期
+dv_has_name_lt: Rupelis
+dv_has_name_nl: Rupeliën
+dv_has_name_no: Rupel
+dv_has_name_pl: Rupel
+dv_has_name_pt: Rupeliano
+dv_has_name_sk: rupel
+dv_has_name_sl: rupelij
+dv_has_name_sv: rupel
+dv_has_name_zh: 鲁珀利期
+dv_has_name_abbreviated: e8
+dv_has_time_started: "-33.90e6"
+dv_has_time_stopped: "-27.82e6"
+dv_has_text_of_color: "0xFED99A"
 ---
 # [[Age~1~Rupelian]] 
 
 #is_a_/time_/Age 
   
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]] 
-#has_/next_/item :: [[Age~2~Chattian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Rupelian,508633]] 
 
 A time period from 33.9 to 27.82 million years ago. 
@@ -56,35 +136,35 @@ A time period from 33.9 to 27.82 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Rupelian) 
 
 
-#has_/name_/bg  :: Рупел
-#has_/name_/cs  :: Rupel
-#has_/name_/da  :: Rupelien
-#has_/name_/de  :: Rupelium
-#has_/name_/es  :: Rupeliense
-#has_/name_/et  :: Rupeli
-#has_/name_/fi  :: Rupel
-#has_/name_/fr  :: Rupélien
-#has_/name_/hu  :: rupeli
-#has_/name_/it  :: rupeliano
-#has_/name_/ja  :: ルペル期
-#has_/name_/lt  :: Rupelis
-#has_/name_/nl  :: Rupeliën
-#has_/name_/no  :: Rupel
-#has_/name_/pl  :: Rupel
-#has_/name_/pt  :: Rupeliano
-#has_/name_/sk  :: rupel
-#has_/name_/sl  :: rupelij
-#has_/name_/sv  :: rupel
-#has_/name_/zh  :: 鲁珀利期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: e8
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -33.90e6 
-#has_/time_/stopped :: -27.82e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 24 
 
-#has_/text_of_/color :: 0xFED99A
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

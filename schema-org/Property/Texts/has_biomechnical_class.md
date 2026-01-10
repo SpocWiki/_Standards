@@ -11,36 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - biomechnical
   - class
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_biomechnical_class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_biomechnical_class
 type: Pred_Text
+dv_has_:
+  text_of_:
+    biomechnical_class: Text
+  domain: Joint
+dv_has_text_of_biomechnical_class: Text
+dv_#has_:
+  name: has_text_of_biomechnical_class
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_biomechnical_class|has_biomechnical_class]]"
+    - "[[/_public/schema-org/Property/Texts/has_biomechnical_class.public|has_biomechnical_class.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_biomechnical_class.internal|has_biomechnical_class.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_biomechnical_class.protect|has_biomechnical_class.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_biomechnical_class.private|has_biomechnical_class.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_biomechnical_class.personal|has_biomechnical_class.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_biomechnical_class.secret|has_biomechnical_class.secret]]"
+dv_has_domain: Joint
+dv_has_name: has_text_of_biomechnical_class
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_biomechnical_class|has_biomechnical_class]]"
+  - "[[/_public/schema-org/Property/Texts/has_biomechnical_class.public|has_biomechnical_class.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_biomechnical_class.internal|has_biomechnical_class.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_biomechnical_class.protect|has_biomechnical_class.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_biomechnical_class.private|has_biomechnical_class.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_biomechnical_class.personal|has_biomechnical_class.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_biomechnical_class.secret|has_biomechnical_class.secret]]"
 ---
 
 Predicate to describe the Text of Joint.
 
 Use it like this: 
-- [ #has_/text_of_/biomechnical_class :: Text ] or 
-- [ has_text_of_biomechnical_class :: Text ] 
+- has_text_of_biomechnical_class = `=this.dv_has_text_of_biomechnical_class`  
+- has_text_of_biomechnical_class = `=this.dv_has_text_of_biomechnical_class`  
 
 The biomechanical properties of the bone.
 
 Predicated describes that: 
-[ #has_/domain  :: Joint ]
-( #has_/name :: has_text_of_biomechnical_class )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

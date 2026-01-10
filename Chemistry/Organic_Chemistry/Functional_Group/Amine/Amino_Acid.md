@@ -4,41 +4,41 @@ aliases:
   - Amino Acid
 has_id_wikidata: Q8066
 subclass_of:
-  - '[[_Standards/WikiData/WD~amine,167198]]'
-  - '[[_Standards/WikiData/WD~organic_acid,421948]]'
-has_characteristic: '[[_Standards/WikiData/WD~amphoterism,182677]]'
+  - "[[_Standards/WikiData/WD~amine,167198]]"
+  - "[[_Standards/WikiData/WD~organic_acid,421948]]"
+has_characteristic: "[[_Standards/WikiData/WD~amphoterism,182677]]"
 different_from:
-  - '[[_Standards/WikiData/WD~proteinogenic_amino_acid,3241589]]'
-  - '[[_Standards/WikiData/WD~amino_carboxylic_acid,97012682]]'
+  - "[[_Standards/WikiData/WD~proteinogenic_amino_acid,3241589]]"
+  - "[[_Standards/WikiData/WD~amino_carboxylic_acid,97012682]]"
 part_of:
-  - '[[_Standards/WikiData/WD~amino_acid_binding,14851770]]'
-  - '[[_Standards/WikiData/WD~response_to_amino_acid,14860834]]'
-  - '[[_Standards/WikiData/WD~cellular_response_to_amino_acid_stimulus,14881723]]'
-  - '[[_Standards/WikiData/WD~amino_acid_transport,14905129]]'
-  - '[[_Standards/WikiData/WD~amino_acid_transmembrane_transport,14905294]]'
-  - '[[_Standards/WikiData/WD~amino_acid_transmembrane_transporter_activity,14914249]]'
-  - '[[_Standards/WikiData/WD~amino_acid_sodium_symporter_activity,21114481]]'
-  - '[[_Standards/WikiData/WD~amino_acid_homeostasis,21119263]]'
-  - '[[_Standards/WikiData/WD~amino_acid_proton_symporter_activity,21121262]]'
-  - '[[_Standards/WikiData/WD~ABC_type_amino_acid_transporter_activity,21757642]]'
-  - '[[_Standards/WikiData/WD~amino_acid_import,22290308]]'
-  - '[[_Standards/WikiData/WD~amino_acid_transmembrane_import_into_vacuole,22290312]]'
-  - '[[_Standards/WikiData/WD~amino_acid_import_across_plasma_membrane,22290517]]'
-  - '[[_Standards/WikiData/WD~amino_acid_transmembrane_export_from_vacuole,22290527]]'
-  - '[[_Standards/WikiData/WD~neutral_amino_acid_transmembrane_import_into_vacuole,22290536]]'
-  - '[[_Standards/WikiData/WD~basic_amino_acid_transmembrane_import_into_vacuole,22290573]]'
-  - '[[_Standards/WikiData/WD~neutral_amino_acid_transmembrane_export_from_vacuole,22290578]]'
-  - '[[_Standards/WikiData/WD~vacuolar_amino_acid_transmembrane_transport,22290576]]'
-  - '[[_Standards/WikiData/WD~amino_acid_export_across_plasma_membrane,22290587]]'
-  - '[[_Standards/WikiData/WD~amino_acid_neurotransmitter_reuptake,22290643]]'
-  - '[[_Standards/WikiData/WD~amino_acid_cation_symporter_activity,22324822]]'
-  - '[[_Standards/WikiData/WD~amino_acid_potassium_symporter_activity,22324857]]'
-  - '[[_Standards/WikiData/WD~amino_acid_monoatomic_cation_antiporter_activity,112997910]]'
-  - '[[_Standards/WikiData/WD~amino_acid_sensor_activity,112998184]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_amino_acid,26110020]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-studied_by: '[[_Standards/WikiData/WD~amino_acids_and_metabolites_in_medical_biochemistry,113134501]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[_Standards/WikiData/WD~amino_acid_binding,14851770]]"
+  - "[[_Standards/WikiData/WD~response_to_amino_acid,14860834]]"
+  - "[[_Standards/WikiData/WD~cellular_response_to_amino_acid_stimulus,14881723]]"
+  - "[[_Standards/WikiData/WD~amino_acid_transport,14905129]]"
+  - "[[_Standards/WikiData/WD~amino_acid_transmembrane_transport,14905294]]"
+  - "[[_Standards/WikiData/WD~amino_acid_transmembrane_transporter_activity,14914249]]"
+  - "[[_Standards/WikiData/WD~amino_acid_sodium_symporter_activity,21114481]]"
+  - "[[_Standards/WikiData/WD~amino_acid_homeostasis,21119263]]"
+  - "[[_Standards/WikiData/WD~amino_acid_proton_symporter_activity,21121262]]"
+  - "[[_Standards/WikiData/WD~ABC_type_amino_acid_transporter_activity,21757642]]"
+  - "[[_Standards/WikiData/WD~amino_acid_import,22290308]]"
+  - "[[_Standards/WikiData/WD~amino_acid_transmembrane_import_into_vacuole,22290312]]"
+  - "[[_Standards/WikiData/WD~amino_acid_import_across_plasma_membrane,22290517]]"
+  - "[[_Standards/WikiData/WD~amino_acid_transmembrane_export_from_vacuole,22290527]]"
+  - "[[_Standards/WikiData/WD~neutral_amino_acid_transmembrane_import_into_vacuole,22290536]]"
+  - "[[_Standards/WikiData/WD~basic_amino_acid_transmembrane_import_into_vacuole,22290573]]"
+  - "[[_Standards/WikiData/WD~neutral_amino_acid_transmembrane_export_from_vacuole,22290578]]"
+  - "[[_Standards/WikiData/WD~vacuolar_amino_acid_transmembrane_transport,22290576]]"
+  - "[[_Standards/WikiData/WD~amino_acid_export_across_plasma_membrane,22290587]]"
+  - "[[_Standards/WikiData/WD~amino_acid_neurotransmitter_reuptake,22290643]]"
+  - "[[_Standards/WikiData/WD~amino_acid_cation_symporter_activity,22324822]]"
+  - "[[_Standards/WikiData/WD~amino_acid_potassium_symporter_activity,22324857]]"
+  - "[[_Standards/WikiData/WD~amino_acid_monoatomic_cation_antiporter_activity,112997910]]"
+  - "[[_Standards/WikiData/WD~amino_acid_sensor_activity,112998184]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_amino_acid,26110020]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+studied_by: "[[_Standards/WikiData/WD~amino_acids_and_metabolites_in_medical_biochemistry,113134501]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 OmegaWiki_Defined_Meaning: 158
 Dewey_Decimal_Classification:
   - 572.65
@@ -49,16 +49,39 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Molecular%20structures
 exact_match: http://gbol.life/0.1/AminoAcid
 UNII: 0O72R8RF8A
 CAS_Registry_Number: 65072-01-7
-P8189: 987007293901505171
+P8189: 987007293901505200
 ATC_code: B05BA01
 UMLS_CUI: C0002520
 MeSH_tree_code: D12.125
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Amino_acid,8066|WD~Amino_acid,8066]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Amine/Amino_Acid|Amino_Acid]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Amine/Amino_Acid.public|Amino_Acid.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Amine/Amino_Acid.internal|Amino_Acid.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Amine/Amino_Acid.protect|Amino_Acid.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Amine/Amino_Acid.private|Amino_Acid.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Amine/Amino_Acid.personal|Amino_Acid.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Amine/Amino_Acid.secret|Amino_Acid.secret]]"
+dv_has_:
+  formula_:
+    structural: R-CH(NH²)-(C=O)-OH
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Amino_acid,8066|WD~Amino_acid,8066]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Amine/Amino_Acid|Amino_Acid]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Amine/Amino_Acid.public|Amino_Acid.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Amine/Amino_Acid.internal|Amino_Acid.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Amine/Amino_Acid.protect|Amino_Acid.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Amine/Amino_Acid.private|Amino_Acid.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Amine/Amino_Acid.personal|Amino_Acid.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Amine/Amino_Acid.secret|Amino_Acid.secret]]"
+dv_has_formula_structural: R-CH(NH²)-(C=O)-OH
 ---
 
 # [[Amino_Acid]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Amino_acid,8066|WD~Amino_acid,8066]] 
-#has_/formula_/structural :: R-CH(NH²)-(C=O)-OH
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 ## #has_/text_of_/abstract 
 

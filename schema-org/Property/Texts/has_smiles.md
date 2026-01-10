@@ -30,22 +30,23 @@ type: Pred_Text
 
 Predicate to describe the Text of MolecularEntity.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/smiles :: Text ] or 
+- [has_/text_of_/smiles :: Text ] 
 - [ has_text_of_smiles :: Text ] 
 
 A specification in form of a line notation for describing the structure of chemical species using short ASCII strings. 
 Double bond stereochemistry \ indicators may need to be escaped in the string in formats where the backslash is an escape character.
 
 Predicated describes that: 
-[ #has_/domain  :: MolecularEntity ]
+
+#has_/domain  :: MolecularEntity  
+
 ( #has_/name :: has_text_of_smiles )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: hasRepresentation ]
-
+#is_/sub_property_of  :: hasRepresentation  
 
 ## Confidential Links & Embeds: 
 

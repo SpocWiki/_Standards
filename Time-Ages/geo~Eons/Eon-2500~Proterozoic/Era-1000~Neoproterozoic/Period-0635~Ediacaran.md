@@ -32,15 +32,95 @@ IPA_transcription: /ˌiːdiˈækərən/
 Commons_category: Ediacaran
 sRGB_color_hex_triplet: FED96A
 end_time: -538800000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "9.620e+7"
+  previous_:
+    item: "[[Period-0720~Cryogenian]]"
+  next_:
+    item: "[[../../Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian|Period~1~Cambrian]]"
+  name_:
+    bg: Едиакар
+    cs: Ediacar
+    da: Ediacara
+    de: Ediacarium
+    es: Ediacariense
+    et: Ediacara
+    fi: Ediacar
+    fr: Ediacarien
+    hu: ediacaranum
+    it: ediacariano
+    ja: エディアカラ紀
+    lt: Ediakaras
+    nl: Ediacaran
+    no: Ediacara
+    pl: Ediakar
+    pt: Ediacariano
+    sk: ediakarium
+    sl: ediacarij
+    sv: ediacara
+    zh: 埃迪卡拉纪
+    abbreviated: NP3
+  time_:
+    started: "-635.0e6"
+    stopped: "-538.8e6"
+  text_of_:
+    color: "0xFED96A"
+dv_is_:
+  same_as:
+    - "[[WD~Ediacaran,188654]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.public|Period-0635~Ediacaran.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.internal|Period-0635~Ediacaran.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.protect|Period-0635~Ediacaran.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.private|Period-0635~Ediacaran.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.personal|Period-0635~Ediacaran.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.secret|Period-0635~Ediacaran.secret]]"
+dv_has_duration_years: "9.620e+7"
+dv_has_previous_item: "[[Period-0720~Cryogenian]]"
+dv_has_next_item: "[[../../Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian|Period~1~Cambrian]]"
+dv_is_same_as:
+  - "[[WD~Ediacaran,188654]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran|Period-0635~Ediacaran]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.public|Period-0635~Ediacaran.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.internal|Period-0635~Ediacaran.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.protect|Period-0635~Ediacaran.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.private|Period-0635~Ediacaran.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.personal|Period-0635~Ediacaran.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1000~Neoproterozoic/Period-0635~Ediacaran.secret|Period-0635~Ediacaran.secret]]"
+dv_has_name_bg: Едиакар
+dv_has_name_cs: Ediacar
+dv_has_name_da: Ediacara
+dv_has_name_de: Ediacarium
+dv_has_name_es: Ediacariense
+dv_has_name_et: Ediacara
+dv_has_name_fi: Ediacar
+dv_has_name_fr: Ediacarien
+dv_has_name_hu: ediacaranum
+dv_has_name_it: ediacariano
+dv_has_name_ja: エディアカラ紀
+dv_has_name_lt: Ediakaras
+dv_has_name_nl: Ediacaran
+dv_has_name_no: Ediacara
+dv_has_name_pl: Ediakar
+dv_has_name_pt: Ediacariano
+dv_has_name_sk: ediakarium
+dv_has_name_sl: ediacarij
+dv_has_name_sv: ediacara
+dv_has_name_zh: 埃迪卡拉纪
+dv_has_name_abbreviated: NP3
+dv_has_time_started: "-635.0e6"
+dv_has_time_stopped: "-538.8e6"
+dv_has_text_of_color: "0xFED96A"
 ---
 # [[Period-0635~Ediacaran]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Period-0720~Cryogenian]] 
-#has_/next_/item :: [[../../Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian|Period~1~Cambrian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Ediacaran,188654]] 
 
 A time period from 635 to 538.8 million years ago. 
@@ -78,35 +158,35 @@ Multi-cellular life develops.
 > [Wikipedia](https://en.wikipedia.org/wiki/Ediacaran) 
 
 
-#has_/name_/bg  :: Едиакар
-#has_/name_/cs  :: Ediacar
-#has_/name_/da  :: Ediacara
-#has_/name_/de  :: Ediacarium
-#has_/name_/es  :: Ediacariense
-#has_/name_/et  :: Ediacara
-#has_/name_/fi  :: Ediacar
-#has_/name_/fr  :: Ediacarien
-#has_/name_/hu  :: ediacaranum
-#has_/name_/it  :: ediacariano
-#has_/name_/ja  :: エディアカラ紀
-#has_/name_/lt  :: Ediakaras
-#has_/name_/nl  :: Ediacaran
-#has_/name_/no  :: Ediacara
-#has_/name_/pl  :: Ediakar
-#has_/name_/pt  :: Ediacariano
-#has_/name_/sk  :: ediakarium
-#has_/name_/sl  :: ediacarij
-#has_/name_/sv  :: ediacara
-#has_/name_/zh  :: 埃迪卡拉纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: NP3
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -635.0e6 
-#has_/time_/stopped :: -538.8e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 158 
 
-#has_/text_of_/color :: 0xFED96A
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

@@ -39,9 +39,8 @@ WALS_family_code: austronesian
 ---
 
 [SpocWebEntityId:: 237 ]
-[has_/name::Austronesian]
 
-
+has_/name::Austronesian 
 
 ## #has_/text_of_/abstract 
 

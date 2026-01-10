@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Astronomy/Planet/Atmosphere|Atmosphere]]"
+    - "[[/_public/Astronomy/Planet/Atmosphere.public|Atmosphere.public]]"
+    - "[[/_internal/Astronomy/Planet/Atmosphere.internal|Atmosphere.internal]]"
+    - "[[/_protect/Astronomy/Planet/Atmosphere.protect|Atmosphere.protect]]"
+    - "[[/_private/Astronomy/Planet/Atmosphere.private|Atmosphere.private]]"
+    - "[[/_personal/Astronomy/Planet/Atmosphere.personal|Atmosphere.personal]]"
+    - "[[/_secret/Astronomy/Planet/Atmosphere.secret|Atmosphere.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Astronomy/Planet/Atmosphere|Atmosphere]]"
+  - "[[/_public/Astronomy/Planet/Atmosphere.public|Atmosphere.public]]"
+  - "[[/_internal/Astronomy/Planet/Atmosphere.internal|Atmosphere.internal]]"
+  - "[[/_protect/Astronomy/Planet/Atmosphere.protect|Atmosphere.protect]]"
+  - "[[/_private/Astronomy/Planet/Atmosphere.private|Atmosphere.private]]"
+  - "[[/_personal/Astronomy/Planet/Atmosphere.personal|Atmosphere.personal]]"
+  - "[[/_secret/Astronomy/Planet/Atmosphere.secret|Atmosphere.secret]]"
+---
 
 # [[Atmosphere]] 
 

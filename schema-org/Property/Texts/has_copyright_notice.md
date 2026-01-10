@@ -31,16 +31,18 @@ type: Pred_Text
 
 Predicate to describe the Text of CreativeWork.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/copyright_notice :: Text ] or 
+- [has_/text_of_/copyright_notice :: Text ] 
 - [ has_text_of_copyright_notice :: Text ] 
 
 Text of a notice appropriate for describing the copyright aspects of this Creative Work, ideally indicating the owner of the copyright for the Work.
 
 Predicated describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_text_of_copyright_notice )
 ( #has_/range :: Text )
 

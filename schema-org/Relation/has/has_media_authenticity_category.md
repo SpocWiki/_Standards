@@ -29,17 +29,19 @@ title: has_media_authenticity_category
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/media_authenticity_category :: MediaManipulationRatingEnumeration ] or 
+- [has_/media_authenticity_category :: MediaManipulationRatingEnumeration ] 
 - [ has_media_authenticity_category :: MediaManipulationRatingEnumeration ] 
 
 Indicates a MediaManipulationRatingEnumeration classification of a media object
 (in the context of how it was published or shared).
 
 Relation describes that: 
-[ #has_/domain  :: MediaReview ]
+
+#has_/domain  :: MediaReview  
+
 ( #has_/name :: has_media_authenticity_category )
 ( #has_/range :: [[../../../Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration]] )
 

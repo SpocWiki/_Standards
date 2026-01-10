@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/recorded_as :: MusicRecording ] or 
+- [has_/recorded_as :: MusicRecording ] 
 - [ has_recorded_as :: MusicRecording ] 
 
 An audio recording of the work.
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition ]
+
+#has_/domain  :: MusicComposition  
+
 ( #has_/name :: is_recorded_as )
 ( #has_/range :: MusicRecording )
 
-[ #is_/inverse_of  :: recordingOf ]
-
+#is_/inverse_of  :: recordingOf  
 
 ## Confidential Links & Embeds: 
 

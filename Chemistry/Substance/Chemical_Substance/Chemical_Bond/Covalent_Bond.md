@@ -6,12 +6,31 @@ aliases:
   - Covalent_Bond
   - Covalent Bond
 has_id_wikidata: Q127920
-has_part_s_: '[[_Standards/WikiData/WD~Bonding_electron,863666]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_bond,44424]]'
+has_part_s_: "[[_Standards/WikiData/WD~Bonding_electron,863666]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_bond,44424]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Covalent.png
 Commons_category: Covalent bond
 Biology_Online_Biology_Dictionary_entry: covalent-bond
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Covalent_bond,127920|WD~Covalent_bond,127920]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond|Covalent_Bond]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.public|Covalent_Bond.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.internal|Covalent_Bond.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.protect|Covalent_Bond.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.private|Covalent_Bond.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.personal|Covalent_Bond.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.secret|Covalent_Bond.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Covalent_bond,127920|WD~Covalent_bond,127920]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond|Covalent_Bond]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.public|Covalent_Bond.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.internal|Covalent_Bond.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.protect|Covalent_Bond.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.private|Covalent_Bond.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.personal|Covalent_Bond.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond.secret|Covalent_Bond.secret]]"
 ---
 
 # [[Covalent_Bond]] 

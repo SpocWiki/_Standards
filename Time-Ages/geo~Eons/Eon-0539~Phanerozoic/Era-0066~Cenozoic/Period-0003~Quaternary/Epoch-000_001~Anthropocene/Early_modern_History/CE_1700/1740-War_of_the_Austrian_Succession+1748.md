@@ -8,23 +8,42 @@ has_id_wikidata: Q32929
 end_time: 1748-10-18T00:00:00Z
 start_time: 1740-12-16T00:00:00Z
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 location:
-  - '[[_Standards/WikiData/WD~India,668]]'
-  - '[[_Standards/WikiData/WD~Europe,46]]'
-  - '[[_Standards/WikiData/WD~North_America,49]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+  - "[[_Standards/WikiData/WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Europe,46]]"
+  - "[[_Standards/WikiData/WD~North_America,49]]"
+instance_of: "[[_Standards/WikiData/WD~war,198]]"
 Provenio_UUID: 70208309-06e5-4223-8466-59349e7f34af
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WaroftheAustrianSuccession.png
 Dewey_Decimal_Classification: 940.2532
 Commons_category: War of the Austrian Succession
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~War_of_the_Austrian_Succession,32929|WD~War_of_the_Austrian_Succession,32929]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748|1740-War_of_the_Austrian_Succession+1748]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.public|1740-War_of_the_Austrian_Succession+1748.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.internal|1740-War_of_the_Austrian_Succession+1748.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.protect|1740-War_of_the_Austrian_Succession+1748.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.private|1740-War_of_the_Austrian_Succession+1748.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.personal|1740-War_of_the_Austrian_Succession+1748.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.secret|1740-War_of_the_Austrian_Succession+1748.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~War_of_the_Austrian_Succession,32929|WD~War_of_the_Austrian_Succession,32929]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748|1740-War_of_the_Austrian_Succession+1748]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.public|1740-War_of_the_Austrian_Succession+1748.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.internal|1740-War_of_the_Austrian_Succession+1748.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.protect|1740-War_of_the_Austrian_Succession+1748.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.private|1740-War_of_the_Austrian_Succession+1748.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.personal|1740-War_of_the_Austrian_Succession+1748.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1740-War_of_the_Austrian_Succession+1748.secret|1740-War_of_the_Austrian_Succession+1748.secret]]"
 ---
 
 # [[1740-War_of_the_Austrian_Succession+1748]]  

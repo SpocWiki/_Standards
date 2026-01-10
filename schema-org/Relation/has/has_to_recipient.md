@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/to_recipient :: Audience, ContactPoint, Organization, Person ] or 
+- [has_/to_recipient :: Audience, ContactPoint, Organization, Person ] 
 - [ has_to_recipient :: Audience, ContactPoint, Organization, Person ] 
 
 A sub property of recipient. The recipient who was directly sent the message.
 
 Relation describes that: 
-[ #has_/domain  :: Message ]
+
+#has_/domain  :: Message  
+
 ( #has_/name :: is_to_recipient )
 ( #has_/range :: Audience, ContactPoint, Organization, Person )
 
-[ #is_/sub_property_of  :: recipient ]
-
+#is_/sub_property_of  :: recipient  
 
 ## Confidential Links & Embeds: 
 

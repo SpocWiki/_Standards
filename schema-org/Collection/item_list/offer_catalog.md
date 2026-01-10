@@ -9,21 +9,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - offer_catalog
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_offer_catalog Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_offer_catalog Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ItemList]]"
+  same_as:
+    - "[[/_Standards/schema-org/Collection/item_list/offer_catalog|offer_catalog]]"
+    - "[[/_public/schema-org/Collection/item_list/offer_catalog.public|offer_catalog.public]]"
+    - "[[/_internal/schema-org/Collection/item_list/offer_catalog.internal|offer_catalog.internal]]"
+    - "[[/_protect/schema-org/Collection/item_list/offer_catalog.protect|offer_catalog.protect]]"
+    - "[[/_private/schema-org/Collection/item_list/offer_catalog.private|offer_catalog.private]]"
+    - "[[/_personal/schema-org/Collection/item_list/offer_catalog.personal|offer_catalog.personal]]"
+    - "[[/_secret/schema-org/Collection/item_list/offer_catalog.secret|offer_catalog.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../ItemList]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Collection/item_list/offer_catalog|offer_catalog]]"
+  - "[[/_public/schema-org/Collection/item_list/offer_catalog.public|offer_catalog.public]]"
+  - "[[/_internal/schema-org/Collection/item_list/offer_catalog.internal|offer_catalog.internal]]"
+  - "[[/_protect/schema-org/Collection/item_list/offer_catalog.protect|offer_catalog.protect]]"
+  - "[[/_private/schema-org/Collection/item_list/offer_catalog.private|offer_catalog.private]]"
+  - "[[/_personal/schema-org/Collection/item_list/offer_catalog.personal|offer_catalog.personal]]"
+  - "[[/_secret/schema-org/Collection/item_list/offer_catalog.secret|offer_catalog.secret]]"
 ---
 
 Class of all offer_catalogs.
@@ -33,10 +55,9 @@ Tag Instances like this:
 
 An OfferCatalog is an ItemList that contains related Offers and/or further OfferCatalogs that are offeredBy the same provider.
 
-[ #is_/sub_class_of :: [[../ItemList]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

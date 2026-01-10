@@ -11,27 +11,27 @@ isReadOnly: false
 tags:
   - astro/Zodiac
 type: Zodiac
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]"
 named_after:
-  - '[[_Standards/WikiData/WD~Argo,317932]]'
-  - '[[_Standards/WikiData/WD~sail,25999]]'
+  - "[[_Standards/WikiData/WD~Argo,317932]]"
+  - "[[_Standards/WikiData/WD~sail,25999]]"
 part_of:
-  - '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
-  - '[[_Standards/WikiData/WD~Argo_Navis,9258]]'
+  - "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+  - "[[_Standards/WikiData/WD~Argo_Navis,9258]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q10729097,10729097]]'
-  - '[[_Standards/WikiData/WD~Template_Vela_(constellation),10857918]]'
+  - "[[_Standards/WikiData/WD~Q10729097,10729097]]"
+  - "[[_Standards/WikiData/WD~Template_Vela_(constellation),10857918]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 time_of_discovery_or_invention: 1763-01-01T00:00:00Z
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Centaurus,8844]]'
-  - '[[_Standards/WikiData/WD~Puppis,9251]]'
-  - '[[_Standards/WikiData/WD~Carina,10470]]'
-  - '[[_Standards/WikiData/WD~Pyxis,10473]]'
-  - '[[_Standards/WikiData/WD~Antlia,10481]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~Centaurus,8844]]"
+  - "[[_Standards/WikiData/WD~Puppis,9251]]"
+  - "[[_Standards/WikiData/WD~Carina,10470]]"
+  - "[[_Standards/WikiData/WD~Pyxis,10473]]"
+  - "[[_Standards/WikiData/WD~Antlia,10481]]"
+instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
 area: 500
 Commons_gallery: Vela
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Vela.jpg
@@ -40,15 +40,44 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Vela
 Commons_category: Vela (constellation)
 short_name: Vel
 official_name: Vela
+dv_SpocWebEntityId: 28167
+dv_#has_:
+  name_:
+    la: Vela
+    la_:
+      genitive: Velorum
+    de: Segel
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Vela,10521|WD~Vela,10521]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Vela|Zodiac~Vela]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Vela.public|Zodiac~Vela.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Vela.internal|Zodiac~Vela.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Vela.protect|Zodiac~Vela.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Vela.private|Zodiac~Vela.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Vela.personal|Zodiac~Vela.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Vela.secret|Zodiac~Vela.secret]]"
+dv_has_name_la: Vela
+dv_has_name_la_genitive: Velorum
+dv_has_name_de: Segel
+dv_is_same_as:
+  - "[[../../WikiData/WD~Vela,10521|WD~Vela,10521]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Vela|Zodiac~Vela]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Vela.public|Zodiac~Vela.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Vela.internal|Zodiac~Vela.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Vela.protect|Zodiac~Vela.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Vela.private|Zodiac~Vela.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Vela.personal|Zodiac~Vela.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Vela.secret|Zodiac~Vela.secret]]"
 ---
 
 # [[Zodiac~Vela]] 
 
-[SpocWebEntityId::28167]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Vela]
-[#has_/name_/la_/genitive::Velorum]
-[#has_/name_/de::Segel]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Vela,10521|WD~Vela,10521]] 
 

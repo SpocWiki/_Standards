@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Alchemy,39689|WD~Alchemy,39689]]"
+    - "[[/_Standards/Chemistry/Alchemy|Alchemy]]"
+    - "[[/_public/Chemistry/Alchemy.public|Alchemy.public]]"
+    - "[[/_internal/Chemistry/Alchemy.internal|Alchemy.internal]]"
+    - "[[/_protect/Chemistry/Alchemy.protect|Alchemy.protect]]"
+    - "[[/_private/Chemistry/Alchemy.private|Alchemy.private]]"
+    - "[[/_personal/Chemistry/Alchemy.personal|Alchemy.personal]]"
+    - "[[/_secret/Chemistry/Alchemy.secret|Alchemy.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Alchemy,39689|WD~Alchemy,39689]]"
+  - "[[/_Standards/Chemistry/Alchemy|Alchemy]]"
+  - "[[/_public/Chemistry/Alchemy.public|Alchemy.public]]"
+  - "[[/_internal/Chemistry/Alchemy.internal|Alchemy.internal]]"
+  - "[[/_protect/Chemistry/Alchemy.protect|Alchemy.protect]]"
+  - "[[/_private/Chemistry/Alchemy.private|Alchemy.private]]"
+  - "[[/_personal/Chemistry/Alchemy.personal|Alchemy.personal]]"
+  - "[[/_secret/Chemistry/Alchemy.secret|Alchemy.secret]]"
+---
 
 # [[Alchemy]] 
 

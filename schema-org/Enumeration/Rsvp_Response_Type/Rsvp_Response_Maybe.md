@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: RsvpResponseType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - rsvp_response_maybe
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_rsvp_response_maybe Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_rsvp_response_maybe Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../RsvpResponseType]]"
+  enum_of: "[[../RsvpResponseType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe|Rsvp_Response_Maybe]]"
+    - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.public|Rsvp_Response_Maybe.public]]"
+    - "[[/_internal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.internal|Rsvp_Response_Maybe.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.protect|Rsvp_Response_Maybe.protect]]"
+    - "[[/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.private|Rsvp_Response_Maybe.private]]"
+    - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.personal|Rsvp_Response_Maybe.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.secret|Rsvp_Response_Maybe.secret]]"
+dv_is_sub_class_of: "[[../RsvpResponseType]]"
+dv_is_enum_of: "[[../RsvpResponseType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe|Rsvp_Response_Maybe]]"
+  - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.public|Rsvp_Response_Maybe.public]]"
+  - "[[/_internal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.internal|Rsvp_Response_Maybe.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.protect|Rsvp_Response_Maybe.protect]]"
+  - "[[/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.private|Rsvp_Response_Maybe.private]]"
+  - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.personal|Rsvp_Response_Maybe.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.secret|Rsvp_Response_Maybe.secret]]"
 ---
 
 Class of all rsvp_response_maybes.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 The invitee may or may not attend.
 
-[ #is_/sub_class_of :: [[../RsvpResponseType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../RsvpResponseType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

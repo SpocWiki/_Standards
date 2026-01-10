@@ -31,18 +31,19 @@ type: Pred_Text
 Predicate to describe the Text of Invoice, Order.
 
 Use it like this: 
-- [ #has_/id_/confirmation :: Text ] or 
+- [has_/id_/confirmation :: Text ] 
 - [ has_id_confirmation :: Text ] 
 
 A number that confirms the given order or payment has been received.
 
 Predicated describes that: 
-[ #has_/domain  :: Invoice, Order ]
+
+#has_/domain  :: Invoice, Order  
+
 ( #has_/name :: has_id_confirmation )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

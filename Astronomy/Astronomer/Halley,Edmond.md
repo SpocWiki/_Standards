@@ -101,6 +101,25 @@ described_at_URL:
 ISNI: "0000000080777282"
 P1015: "90288764"
 Google_Doodle: edmond-halleys-355th-birthday
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Edmond_Halley,47434|WD~Edmond_Halley,47434]]"
+    - "[[/_Standards/Astronomy/Astronomer/Halley,Edmond|Halley,Edmond]]"
+    - "[[/_public/Astronomy/Astronomer/Halley,Edmond.public|Halley,Edmond.public]]"
+    - "[[/_internal/Astronomy/Astronomer/Halley,Edmond.internal|Halley,Edmond.internal]]"
+    - "[[/_protect/Astronomy/Astronomer/Halley,Edmond.protect|Halley,Edmond.protect]]"
+    - "[[/_private/Astronomy/Astronomer/Halley,Edmond.private|Halley,Edmond.private]]"
+    - "[[/_personal/Astronomy/Astronomer/Halley,Edmond.personal|Halley,Edmond.personal]]"
+    - "[[/_secret/Astronomy/Astronomer/Halley,Edmond.secret|Halley,Edmond.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Edmond_Halley,47434|WD~Edmond_Halley,47434]]"
+  - "[[/_Standards/Astronomy/Astronomer/Halley,Edmond|Halley,Edmond]]"
+  - "[[/_public/Astronomy/Astronomer/Halley,Edmond.public|Halley,Edmond.public]]"
+  - "[[/_internal/Astronomy/Astronomer/Halley,Edmond.internal|Halley,Edmond.internal]]"
+  - "[[/_protect/Astronomy/Astronomer/Halley,Edmond.protect|Halley,Edmond.protect]]"
+  - "[[/_private/Astronomy/Astronomer/Halley,Edmond.private|Halley,Edmond.private]]"
+  - "[[/_personal/Astronomy/Astronomer/Halley,Edmond.personal|Halley,Edmond.personal]]"
+  - "[[/_secret/Astronomy/Astronomer/Halley,Edmond.secret|Halley,Edmond.secret]]"
 ---
 
 # [[Halley,Edmond]] 

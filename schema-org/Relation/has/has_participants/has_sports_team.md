@@ -31,18 +31,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/sports_team :: SportsTeam ] or 
+- [has_/sports_team :: SportsTeam ] 
 - [ has_sports_team :: SportsTeam ] 
 
 A sub property of[[has_participants]]]. The sports team that participated on this action.
 
 Relation describes that: 
-[ #has_/domain  :: ExerciseAction ]
+
+#has_/domain  :: ExerciseAction  
+
 ( #has_/name :: is_sports_team )
 ( #has_/range :: SportsTeam )
 
-[ #is_/sub_property_of  :: participant ]
-
+#is_/sub_property_of  :: participant  
 
 ## Confidential Links & Embeds: 
 

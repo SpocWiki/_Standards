@@ -28,16 +28,18 @@ title: has_observed_node
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/observed_node :: StatisticalPopulation ] or 
+- [has_/observed_node :: StatisticalPopulation ] 
 - [ has_observed_node :: StatisticalPopulation ] 
 
 The observedNode of an [[Observation]], often a [[StatisticalPopulation]].
 
 Relation describes that: 
-[ #has_/domain  :: Observation ]
+
+#has_/domain  :: Observation  
+
 ( #has_/name :: has_observed_node )
 ( #has_/range :: StatisticalPopulation )
 

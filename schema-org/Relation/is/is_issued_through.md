@@ -29,13 +29,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/issued_through :: Service ] or 
+- [is_/issued_through :: Service ] 
 - [ is_issued_through :: Service ] 
 
 The service through which the permit was granted.
 
 Relation describes that: 
-[ #has_/domain  :: Permit ]
+
+#has_/domain  :: Permit  
+
 ( #has_/name :: is_issued_through )
 ( #has_/range :: Service )
 

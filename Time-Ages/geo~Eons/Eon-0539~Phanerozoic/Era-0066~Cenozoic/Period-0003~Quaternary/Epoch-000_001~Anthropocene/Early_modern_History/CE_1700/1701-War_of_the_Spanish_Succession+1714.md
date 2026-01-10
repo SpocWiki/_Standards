@@ -46,6 +46,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bakhuizen%2C%20Battle%
 Krugosvet_article_archived_: istoriya/VONA_ZA_ISPANSKOE_NASLEDSTVO.html
 Commons_category: War of the Spanish Succession
 Dewey_Decimal_Classification: "940.2526"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~War_of_the_Spanish_Succession,150701|WD~War_of_the_Spanish_Succession,150701]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714|1701-War_of_the_Spanish_Succession+1714]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.public|1701-War_of_the_Spanish_Succession+1714.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.internal|1701-War_of_the_Spanish_Succession+1714.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.protect|1701-War_of_the_Spanish_Succession+1714.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.private|1701-War_of_the_Spanish_Succession+1714.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.personal|1701-War_of_the_Spanish_Succession+1714.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.secret|1701-War_of_the_Spanish_Succession+1714.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~War_of_the_Spanish_Succession,150701|WD~War_of_the_Spanish_Succession,150701]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714|1701-War_of_the_Spanish_Succession+1714]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.public|1701-War_of_the_Spanish_Succession+1714.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.internal|1701-War_of_the_Spanish_Succession+1714.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.protect|1701-War_of_the_Spanish_Succession+1714.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.private|1701-War_of_the_Spanish_Succession+1714.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.personal|1701-War_of_the_Spanish_Succession+1714.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1701-War_of_the_Spanish_Succession+1714.secret|1701-War_of_the_Spanish_Succession+1714.secret]]"
 ---
 
 # [[1701-War_of_the_Spanish_Succession+1714]] 

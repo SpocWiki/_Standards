@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - user_interaction_count
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_user_interaction_count
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_user_interaction_count
 type: Predi_Count
+dv_has_:
+  number_of_:
+    user_interactions: Integer
+  domain: InteractionCounter
+dv_has_number_of_user_interactions: Integer
+dv_#has_:
+  name: has_number_of_user_interactions
+  range: Integer
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_user_interactions|has_number_of_user_interactions]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_user_interactions.public|has_number_of_user_interactions.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_user_interactions.internal|has_number_of_user_interactions.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_user_interactions.protect|has_number_of_user_interactions.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_user_interactions.private|has_number_of_user_interactions.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_user_interactions.personal|has_number_of_user_interactions.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_user_interactions.secret|has_number_of_user_interactions.secret]]"
+dv_has_domain: InteractionCounter
+dv_has_name: has_number_of_user_interactions
+dv_has_range: Integer
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_user_interactions|has_number_of_user_interactions]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_user_interactions.public|has_number_of_user_interactions.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_user_interactions.internal|has_number_of_user_interactions.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_user_interactions.protect|has_number_of_user_interactions.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_user_interactions.private|has_number_of_user_interactions.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_user_interactions.personal|has_number_of_user_interactions.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_user_interactions.secret|has_number_of_user_interactions.secret]]"
 ---
 
 Predicate to describe the Number of InteractionCounter.
 
 Use it like this: 
-- [ #has_/number_of_/user_interactions :: Integer ] or 
-- [ has_number_of_user_interactions :: Integer ] 
+- has_number_of_user_interactions = `=this.dv_has_number_of_user_interactions`  
+- has_number_of_user_interactions = `=this.dv_has_number_of_user_interactions`  
 
 The number of interactions for the CreativeWork using the WebSite or SoftwareApplication.
 
 Predicate describes that: 
-[ #has_/domain  :: InteractionCounter ]
-( #has_/name :: has_number_of_user_interactions )
-( #has_/range :: Integer )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -3,7 +3,7 @@ aliases:
   - Iridium
 has_id_wikidata: Q877
 atomic_number: 77
-canonical_SMILES: '[Ir]'
+canonical_SMILES: "[Ir]"
 CAS_Registry_Number: 7439-88-5
 chemical_formula: Ir
 Commons_category: Iridium
@@ -11,16 +11,16 @@ Commons_gallery: Iridium
 Common_Procurement_Vocabulary_code: 14761000
 CPV_Supplementary_code: AA28
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Iridium,108310061]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Iridium,108310061]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Q11714083,11714083]]'
-  - '[[_Standards/WikiData/WD~indium,1094]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Smithson_Tennant,377800]]'
+  - "[[_Standards/WikiData/WD~Q11714083,11714083]]"
+  - "[[_Standards/WikiData/WD~indium,1094]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Smithson_Tennant,377800]]"
 DSSTOX_compound_identifier: DTXCID8047636
 EC_number: 231-095-9
 electronegativity: 2.2
@@ -28,27 +28,27 @@ element_symbol: Ir
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Iridium%20foil.jpg
 InChI: InChI=1S/Ir
 InChIKey: GKOZUEZYRPOHIO-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.57
   - 0.63
   - 0.68
-location_of_discovery: '[[_Standards/WikiData/WD~London,84]]'
+location_of_discovery: "[[_Standards/WikiData/WD~London,84]]"
 mass: 192.217
 MeSH_tree_code:
   - D01.268.556.401
   - D01.268.956.280
   - D01.552.544.401
-named_after: '[[_Standards/WikiData/WD~Iris,184570]]'
+named_after: "[[_Standards/WikiData/WD~Iris,184570]]"
 OmegaWiki_Defined_Meaning: 160503
 part_of:
-  - '[[_Standards/WikiData/WD~group_9,208107]]'
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - "[[_Standards/WikiData/WD~group_9,208107]]"
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
 PubChem_CID: 23924
 SpocWebEntityId: 21973
-subclass_of: '[[_Standards/WikiData/WD~platinum_group,223995]]'
+subclass_of: "[[_Standards/WikiData/WD~platinum_group,223995]]"
 time_of_discovery_or_invention: 1803
-topic_s_main_category: '[[_Standards/WikiData/WD~Q18200788,18200788]]'
+topic_s_main_category: "[[_Standards/WikiData/WD~Q18200788,18200788]]"
 type: Element
 UMLS_CUI: C0022071
 Unicode_character: 銥
@@ -56,6 +56,86 @@ UNII: 44448S9773
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Iridium%20sheets%20rolled%20after%20smelting.webm
 Wolfram_Language_entity_code: Entity["Mineral", "Iridium"]
 ZVG_number: 8460
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Iridium,877]]"
+    - "[[../../../WikiData/WD~Iridium,877|WD~Iridium,877]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium|Iridium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.public|Iridium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.internal|Iridium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.protect|Iridium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.private|Iridium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.personal|Iridium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.secret|Iridium.secret]]"
+  part_of: "[[../Group-09-Cobalt]]"
+dv_has_:
+  name_:
+    group: Group-09-Cobalt
+    en: Iridium
+    de: Iridium
+    abbreviated: Ir
+  value_for_:
+    weight_:
+      u: 192.22
+    radius: 1.87
+    volume_:
+      ccm_:
+        mol: 8.54
+    unknown2: 1.27
+    radius_:
+      nano_:
+        m: 9.1
+    electronegativity: 2.2
+    density: 22.5
+    temperature_:
+      melt_:
+        c: 2410
+      boil_:
+        c: 4130
+    capacity_:
+      heat: 0.13
+    conductivity_:
+      heat: 1.47
+    enthalpy: 26.1
+    energy_:
+      form_:
+        kj_:
+          mol: 604
+  number_of_:
+    period: 6
+    group: 9
+    electrons: 77
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Iridium,877]]"
+  - "[[../../../WikiData/WD~Iridium,877|WD~Iridium,877]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium|Iridium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.public|Iridium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.internal|Iridium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.protect|Iridium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.private|Iridium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.personal|Iridium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Iridium.secret|Iridium.secret]]"
+dv_has_name_group: Group-09-Cobalt
+dv_is_part_of: "[[../Group-09-Cobalt]]"
+dv_has_name_en: Iridium
+dv_has_name_de: Iridium
+dv_has_value_for_weight_u: 192.22
+dv_has_value_for_radius: 1.87
+dv_has_value_for_volume_ccm_mol: 8.54
+dv_has_value_for_unknown2: 1.27
+dv_has_value_for_radius_nano_m: 9.1
+dv_has_value_for_electronegativity: 2.2
+dv_has_value_for_density: 22.5
+dv_has_value_for_temperature_melt_c: 2410
+dv_has_value_for_temperature_boil_c: 4130
+dv_has_value_for_capacity_heat: 0.13
+dv_has_value_for_conductivity_heat: 1.47
+dv_has_value_for_enthalpy: 26.1
+dv_has_value_for_energy_form_kj_mol: 604
+dv_has_number_of_period: 6
+dv_has_number_of_group: 9
+dv_has_name_abbreviated: Ir
+dv_has_number_of_electrons: 77
 ---
 
 # [[Iridium]] 
@@ -63,33 +143,40 @@ ZVG_number: 8460
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Iridium,877]] 
 
-[GroupName::Group-09-Cobalt]
-Group::[[../Group-09-Cobalt]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Iridium]
-[#has_/name_/de::Iridium]
-[#has_/value_for_/weight_/u::192.22]
-[AtomRadius::1.87]
-[Atom-Vol-ccm-mol::8.54]
-[Unknown2::1.27]
-[#has_/value_for_/radius_/nano_/m::9.1]
-[Electronegative::2.2]
-[Density::22.5]
-[#has_/value_for_/temperature_/melt_/c ::2410]
-[#has_/value_for_/temperature_/boil_/c ::4130]
-[HeatCapacity::0.13]
-[HeatConduct::1.47]
-[Enthalpy::26.1]
-[FormEnergy-kj-mol::604]
-(PeriodNo::6)
-(GroupNo::9)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Iridium,877|WD~Iridium,877]] 
 
 ## #has_/text_of_/abstract 
 
-> **Iridium** is a chemical element with the symbol (Abbr::Ir) and atomic number (Charge-e::77). 
+> **Iridium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > A very hard, brittle, silvery-white transition metal of the platinum group, 
 > it is considered the second-densest naturally occurring metal (after osmium) 
 > with a density of 22.56 g/cm3 (0.815 lb/cu in) as defined by experimental X-ray crystallography. 

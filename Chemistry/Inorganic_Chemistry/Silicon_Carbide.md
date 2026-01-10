@@ -3,6 +3,23 @@ aliases:
   - Carborundum
   - Silicon_Carbide
   - Silicon Carbide
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Silicon_Carbide|Silicon_Carbide]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Silicon_Carbide.public|Silicon_Carbide.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Silicon_Carbide.internal|Silicon_Carbide.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Silicon_Carbide.protect|Silicon_Carbide.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Silicon_Carbide.private|Silicon_Carbide.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Silicon_Carbide.personal|Silicon_Carbide.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Silicon_Carbide.secret|Silicon_Carbide.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Silicon_Carbide|Silicon_Carbide]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Silicon_Carbide.public|Silicon_Carbide.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Silicon_Carbide.internal|Silicon_Carbide.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Silicon_Carbide.protect|Silicon_Carbide.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Silicon_Carbide.private|Silicon_Carbide.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Silicon_Carbide.personal|Silicon_Carbide.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Silicon_Carbide.secret|Silicon_Carbide.secret]]"
 ---
 
 # [[Silicon_Carbide]] 

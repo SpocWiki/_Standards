@@ -7,6 +7,25 @@ instance_of: "[[_Standards/WikiData/WD~cyclic_process,2692606]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
 Commons_gallery: Milankovitch cycles
 Commons_category: Milankovitch cycles
+dv_is_:
+  same_as:
+    - "[[WD~Milankovitch_cycle,Q211446]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle|Milankovitch_Cycle]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.public|Milankovitch_Cycle.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.internal|Milankovitch_Cycle.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.protect|Milankovitch_Cycle.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.private|Milankovitch_Cycle.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.personal|Milankovitch_Cycle.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.secret|Milankovitch_Cycle.secret]]"
+dv_is_same_as:
+  - "[[WD~Milankovitch_cycle,Q211446]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle|Milankovitch_Cycle]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.public|Milankovitch_Cycle.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.internal|Milankovitch_Cycle.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.protect|Milankovitch_Cycle.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.private|Milankovitch_Cycle.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.personal|Milankovitch_Cycle.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Milankovitch_Cycle.secret|Milankovitch_Cycle.secret]]"
 ---
 
 # [[Milankovitch_Cycle]] 

@@ -7,33 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - screenshot
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_screenshot
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_screenshot
 type: Predi_Relation
+dv_has_:
+  screenshot: ImageObject, URL
+  domain: SoftwareApplication
+dv_has_screenshot: ImageObject, URL
+dv_#has_:
+  name: is_screenshot
+  range: ImageObject, URL
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_screenshot|has_screenshot]]"
+    - "[[/_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_screenshot.internal|has_screenshot.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_screenshot.protect|has_screenshot.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
+dv_has_domain: SoftwareApplication
+dv_has_name: is_screenshot
+dv_has_range: ImageObject, URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_screenshot|has_screenshot]]"
+  - "[[/_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_screenshot.internal|has_screenshot.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_screenshot.protect|has_screenshot.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/screenshot :: ImageObject, URL ] or 
-- [ has_screenshot :: ImageObject, URL ] 
+- has_screenshot = `=this.dv_has_screenshot`  
+- has_screenshot = `=this.dv_has_screenshot`  
 
 A link to a screenshot image of the app.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_screenshot )
-( #has_/range :: ImageObject, URL )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -3,20 +3,42 @@ aliases:
   - geo~Ages
 has_id_wikidata: Q568683
 different_from:
-  - '[[_Standards/WikiData/WD~age_of_the_Earth,935310]]'
-  - '[[_Standards/WikiData/WD~age,100343219]]'
-  - '[[_Standards/WikiData/WD~stage,1123245]]'
-has_part_s_: '[[_Standards/WikiData/WD~polarity_chron,3290178]]'
-part_of: '[[_Standards/WikiData/WD~epoch,754897]]'
-standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]'
-studied_by: '[[_Standards/WikiData/WD~geochronology,213891]]'
-subclass_of: '[[_Standards/WikiData/WD~geochronological_unit,4005761]]'
+  - "[[_Standards/WikiData/WD~age_of_the_Earth,935310]]"
+  - "[[_Standards/WikiData/WD~age,100343219]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+has_part_s_: "[[_Standards/WikiData/WD~polarity_chron,3290178]]"
+part_of: "[[_Standards/WikiData/WD~epoch,754897]]"
+standards_body: "[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]"
+studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
+subclass_of: "[[_Standards/WikiData/WD~geochronological_unit,4005761]]"
+dv_is_:
+  part_of: "[[../geo~Epoch|geo~Epoch]]"
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages|geo~Ages]]"
+    - "[[/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.public|geo~Ages.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.internal|geo~Ages.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.protect|geo~Ages.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.private|geo~Ages.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.personal|geo~Ages.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.secret|geo~Ages.secret]]"
+dv_has_:
+  parts: ---
+dv_is_part_of: "[[../geo~Epoch|geo~Epoch]]"
+dv_has_parts: ---
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages|geo~Ages]]"
+  - "[[/_public/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.public|geo~Ages.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.internal|geo~Ages.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.protect|geo~Ages.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.private|geo~Ages.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.personal|geo~Ages.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/geo~Eras/geo~Periods/geo~Epoch/geo~Ages.secret|geo~Ages.secret]]"
 ---
 
 # [[geo~Ages]] 
 
-#is_/part_of :: [[../geo~Epoch|geo~Epoch]] 
-#has_/parts :: ---
+is_part_of = `=this.dv_is_part_of` 
+has_parts = `=this.dv_has_parts` 
 
 An age is the smallest hierarchical geochronologic unit after [[../geo~Epoch|geo~Epoch]] 
 and is equivalent to a chronostratigraphic stage. These are thousands to millions of years in length

@@ -5,8 +5,27 @@ aliases:
   - Hydrogen-like_Atom
   - Hydrogen-like Atom
 has_id_wikidata: Q2333783
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-subclass_of: '[[_Standards/WikiData/WD~atom,9121]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+subclass_of: "[[_Standards/WikiData/WD~atom,9121]]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Hydrogen-like_atom,2333783|WD~Hydrogen-like_atom,2333783]]"
+    - "[[/_Standards/Chemistry/Material/Hydrogen-like_Atom|Hydrogen-like_Atom]]"
+    - "[[/_public/Chemistry/Material/Hydrogen-like_Atom.public|Hydrogen-like_Atom.public]]"
+    - "[[/_internal/Chemistry/Material/Hydrogen-like_Atom.internal|Hydrogen-like_Atom.internal]]"
+    - "[[/_protect/Chemistry/Material/Hydrogen-like_Atom.protect|Hydrogen-like_Atom.protect]]"
+    - "[[/_private/Chemistry/Material/Hydrogen-like_Atom.private|Hydrogen-like_Atom.private]]"
+    - "[[/_personal/Chemistry/Material/Hydrogen-like_Atom.personal|Hydrogen-like_Atom.personal]]"
+    - "[[/_secret/Chemistry/Material/Hydrogen-like_Atom.secret|Hydrogen-like_Atom.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Hydrogen-like_atom,2333783|WD~Hydrogen-like_atom,2333783]]"
+  - "[[/_Standards/Chemistry/Material/Hydrogen-like_Atom|Hydrogen-like_Atom]]"
+  - "[[/_public/Chemistry/Material/Hydrogen-like_Atom.public|Hydrogen-like_Atom.public]]"
+  - "[[/_internal/Chemistry/Material/Hydrogen-like_Atom.internal|Hydrogen-like_Atom.internal]]"
+  - "[[/_protect/Chemistry/Material/Hydrogen-like_Atom.protect|Hydrogen-like_Atom.protect]]"
+  - "[[/_private/Chemistry/Material/Hydrogen-like_Atom.private|Hydrogen-like_Atom.private]]"
+  - "[[/_personal/Chemistry/Material/Hydrogen-like_Atom.personal|Hydrogen-like_Atom.personal]]"
+  - "[[/_secret/Chemistry/Material/Hydrogen-like_Atom.secret|Hydrogen-like_Atom.secret]]"
 ---
 
 # [[Hydrogen-like_Atom]] 

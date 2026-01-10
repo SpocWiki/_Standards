@@ -3,16 +3,16 @@ aliases:
   - Ytterbium
 has_id_wikidata: Q1855
 atomic_number: 70
-canonical_SMILES: '[Yb]'
+canonical_SMILES: "[Yb]"
 CAS_Registry_Number: 7440-64-4
 chemical_formula: Yb
 Commons_category: Ytterbium
 Commons_gallery: Ytterbium
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045]]"
 DSSTOX_compound_identifier: DTXCID2026993
 EC_number: 231-173-2
 electronegativity: 1.1
@@ -21,26 +21,26 @@ Gmelin_number: 16320
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ytterbium%20element.jpg
 InChI: InChI=1S/Yb
 InChIKey: NAWDYIZEMPQZHO-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.99
   - 1.02
   - 1.04
   - 1.14
 made_from_material:
-  - '[[_Standards/WikiData/WD~hingganite-(Yb),3785712]]'
-  - '[[_Standards/WikiData/WD~keiviite-(Yb),3814344]]'
-  - '[[_Standards/WikiData/WD~xenotime-(Yb),4021784]]'
-  - '[[_Standards/WikiData/WD~samarskite-(Yb),19861251]]'
+  - "[[_Standards/WikiData/WD~hingganite-(Yb),3785712]]"
+  - "[[_Standards/WikiData/WD~keiviite-(Yb),3814344]]"
+  - "[[_Standards/WikiData/WD~xenotime-(Yb),4021784]]"
+  - "[[_Standards/WikiData/WD~samarskite-(Yb),19861251]]"
 mass: 173.045
 MeSH_tree_code:
   - D01.268.558.362.992
   - D01.552.550.399.992
-named_after: '[[_Standards/WikiData/WD~Ytterby_mine,631733]]'
+named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
 OmegaWiki_Defined_Meaning: 370462
 part_of:
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
-  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
 PubChem_CID: 23992
 SpocWebEntityId: 21966
 time_of_discovery_or_invention: 1878
@@ -48,39 +48,124 @@ type: Element
 UMLS_CUI: C0043431
 Unicode_character: 鐿
 UNII: MNQ4O4WSI1
+dv_has_:
+  name_:
+    group: Lanthanide-Group
+    en: Ytterbium
+    de: Ytterbium
+    abbreviated: Yb
+  value_for_:
+    weight_:
+      u: 173.04
+    radius: 2.4
+    volume_:
+      ccm_:
+        mol: 24.79
+    unknown2: 1.74
+    radius_:
+      nano_:
+        m: 6.254
+    electronegativity: 1.1
+    density: 6.98
+    temperature_:
+      melt_:
+        c: 824
+      boil_:
+        c: 1193
+    capacity_:
+      heat: 0.15
+    conductivity_:
+      heat: 0.349
+    enthalpy: 7.66
+    energy_:
+      form_:
+        kj_:
+          mol: 128.9
+  number_of_:
+    period: 6
+    group: 36
+    electrons: 70
+dv_is_:
+  part_of: "[[../Lanthanide]]"
+  same_as:
+    - "[[../../../WikiData/WD~Ytterbium,1855]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Ytterbium|Ytterbium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Ytterbium.public|Ytterbium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Ytterbium.internal|Ytterbium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Ytterbium.protect|Ytterbium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Ytterbium.private|Ytterbium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Ytterbium.personal|Ytterbium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Ytterbium.secret|Ytterbium.secret]]"
+dv_has_name_group: Lanthanide-Group
+dv_is_part_of: "[[../Lanthanide]]"
+dv_has_name_en: Ytterbium
+dv_has_name_de: Ytterbium
+dv_has_value_for_weight_u: 173.04
+dv_has_value_for_radius: 2.4
+dv_has_value_for_volume_ccm_mol: 24.79
+dv_has_value_for_unknown2: 1.74
+dv_has_value_for_radius_nano_m: 6.254
+dv_has_value_for_electronegativity: 1.1
+dv_has_value_for_density: 6.98
+dv_has_value_for_temperature_melt_c: 824
+dv_has_value_for_temperature_boil_c: 1193
+dv_has_value_for_capacity_heat: 0.15
+dv_has_value_for_conductivity_heat: 0.349
+dv_has_value_for_enthalpy: 7.66
+dv_has_value_for_energy_form_kj_mol: 128.9
+dv_has_number_of_period: 6
+dv_has_number_of_group: 36
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ytterbium,1855]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Ytterbium|Ytterbium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Ytterbium.public|Ytterbium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Ytterbium.internal|Ytterbium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Ytterbium.protect|Ytterbium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Ytterbium.private|Ytterbium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Ytterbium.personal|Ytterbium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Ytterbium.secret|Ytterbium.secret]]"
+dv_has_name_abbreviated: Yb
+dv_has_number_of_electrons: 70
 ---
 
 # [[Ytterbium]] 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Ytterbium]
-[#has_/name_/de::Ytterbium]
-[#has_/value_for_/weight_/u::173.04]
-[AtomRadius::2.4]
-[Atom-Vol-ccm-mol::24.79]
-[Unknown2::1.74]
-[#has_/value_for_/radius_/nano_/m::6.254]
-[Electronegative::1.1]
-[Density::6.98]
-[#has_/value_for_/temperature_/melt_/c ::824]
-[#has_/value_for_/temperature_/boil_/c ::1193]
-[HeatCapacity::0.15]
-[HeatConduct::0.349]
-[Enthalpy::7.66]
-[FormEnergy-kj-mol::128.9]
-(PeriodNo::6)
-(GroupNo::36)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Ytterbium,1855]] 
 
 
 ## #has_/text_of_/abstract 
 
-> **Ytterbium** is a chemical element with the symbol (Abbr::Yb) and atomic number (Charge-e::70). 
+> **Ytterbium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a metal, the fourteenth and penultimate element in the lanthanide series, 
 > which is the basis of the relative stability of its +2 oxidation state. 
 > 

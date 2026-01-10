@@ -102,6 +102,86 @@ UNII: E1UOL152H7
 UNSPSC_Code: 11101713
 Wolfram_Language_entity_code: Entity["Mineral", "Iron"]
 ZVG_number: 8210
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Iron,677]]"
+    - "[[../../../WikiData/WD~Iron,677|WD~Iron,677]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Iron|Iron]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Iron.public|Iron.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Iron.internal|Iron.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Iron.protect|Iron.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Iron.private|Iron.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Iron.personal|Iron.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Iron.secret|Iron.secret]]"
+  part_of: "[[../Group-08-Iron]]"
+dv_has_:
+  name_:
+    group: Group-08-Iron
+    en: Iron
+    de: Eisen
+    abbreviated: Fe
+  value_for_:
+    weight_:
+      u: 55.847
+    radius: 1.72
+    volume_:
+      ccm_:
+        mol: 7.1
+    unknown2: 1.17
+    radius_:
+      nano_:
+        m: 7.87
+    electronegativity: 1.8
+    density: 7.86
+    temperature_:
+      melt_:
+        c: 1535
+      boil_:
+        c: 2750
+    capacity_:
+      heat: 0.44
+    conductivity_:
+      heat: 0.802
+    enthalpy: 13.8
+    energy_:
+      form_:
+        kj_:
+          mol: 349.6
+  number_of_:
+    period: 4
+    electrons: 26
+    group: 8
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Iron,677]]"
+  - "[[../../../WikiData/WD~Iron,677|WD~Iron,677]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Iron|Iron]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Iron.public|Iron.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Iron.internal|Iron.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Iron.protect|Iron.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Iron.private|Iron.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Iron.personal|Iron.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Iron.secret|Iron.secret]]"
+dv_has_name_group: Group-08-Iron
+dv_is_part_of: "[[../Group-08-Iron]]"
+dv_has_name_en: Iron
+dv_has_name_de: Eisen
+dv_has_value_for_weight_u: 55.847
+dv_has_value_for_radius: 1.72
+dv_has_value_for_volume_ccm_mol: 7.1
+dv_has_value_for_unknown2: 1.17
+dv_has_value_for_radius_nano_m: 7.87
+dv_has_value_for_electronegativity: 1.8
+dv_has_value_for_density: 7.86
+dv_has_value_for_temperature_melt_c: 1535
+dv_has_value_for_temperature_boil_c: 2750
+dv_has_value_for_capacity_heat: 0.44
+dv_has_value_for_conductivity_heat: 0.802
+dv_has_value_for_enthalpy: 13.8
+dv_has_value_for_energy_form_kj_mol: 349.6
+dv_has_number_of_period: 4
+dv_has_name_abbreviated: Fe
+dv_has_number_of_electrons: 26
+dv_has_number_of_group: 8
 ---
 
 # [[Iron]] 
@@ -109,33 +189,40 @@ ZVG_number: 8210
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Iron,677]] 
 
-[GroupName::Group-08-Iron]
-Group::[[../Group-08-Iron]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Iron]
-[#has_/name_/de::Eisen]
-[#has_/value_for_/weight_/u::55.847]
-[AtomRadius::1.72]
-[Atom-Vol-ccm-mol::7.1]
-[Unknown2::1.17]
-[#has_/value_for_/radius_/nano_/m::7.87]
-[Electronegative::1.8]
-[Density::7.86]
-[#has_/value_for_/temperature_/melt_/c ::1535]
-[#has_/value_for_/temperature_/boil_/c ::2750]
-[HeatCapacity::0.44]
-[HeatConduct::0.802]
-[Enthalpy::13.8]
-[FormEnergy-kj-mol::349.6]
-(PeriodNo::4)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
 
 #is_/same_as :: [[../../../WikiData/WD~Iron,677|WD~Iron,677]] 
 
 ## #has_/text_of_/abstract 
 
-> **Iron** ( or ) is a chemical element with symbol (Abbr::Fe) (from Latin: ferrum) and atomic number (Charge-e::26). 
-> It is a metal that belongs to the first transition series and group (GroupNo::8) of the periodic table. 
+> **Iron** ( or ) is a chemical element with symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  (from Latin: ferrum) and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
+> It is a metal that belongs to the first transition series and group has_number_of_group = `=this.dv_has_number_of_group`  of the periodic table. 
 > 
 > It is, by mass, the most common element on Earth, just ahead of oxygen 
 > (32.1% and 30.1%, respectively), forming much of Earth's outer and inner core. 

@@ -27,13 +27,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/related_to :: Product, Service] or 
+- [is_/related_to :: Product, Service] 
 - [ is_related_to :: Product, Service] 
 
 A pointer to another, somehow related product (or multiple products).
 
 Relation describes that: 
-[ #has_/domain  :: Product, Service]
+
+#has_/domain  :: Product, Service 
+
 ( #has_/name :: is_related_to)
 ( #has_/range :: Product, Service)
 

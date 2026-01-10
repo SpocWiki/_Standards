@@ -45,16 +45,103 @@ Dewey_Decimal_Classification:
   - "561.118"
   - "551.78"
   - "560.178"
+dv_has_:
+  duration_:
+    years: "6.600e+7"
+  previous_:
+    item: "[[Era-0251~Mesozoic]]"
+  next_:
+    item: ---
+  name_:
+    bg: пеозой
+    cs: Kenozoikum
+    da: Kænozoisk
+    de: Känozoikum
+    en_:
+      gb: Cainozoic
+      us: Cenozoic
+    en: Cenozoic
+    es: Cenozoico
+    et: Kainosoikum
+    fi: Kenotsoikum
+    fr: Cénozoïque
+    hu: kainozoikum
+    it: cenozoico
+    ja: 新生代
+    lt: Cenozojus
+    nl: Kaenozoïcum
+    no: Kenozoikum
+    pl: Kenozoik
+    pt: Cenozóico
+    sk: kenozoikum
+    sl: kenozoik
+    sv: kenozoikum
+    zh: 新生代
+    abbreviated: CZ
+  time_:
+    started: "-66.000e6"
+    stopped: "0.002e6"
+  text_of_:
+    color: "0xF2F91D"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Cenozoic,102416|WD~Cenozoic,102416]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic|Era-0066~Cenozoic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.public|Era-0066~Cenozoic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.internal|Era-0066~Cenozoic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.protect|Era-0066~Cenozoic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.private|Era-0066~Cenozoic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.personal|Era-0066~Cenozoic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.secret|Era-0066~Cenozoic.secret]]"
+dv_has_duration_years: "6.600e+7"
+dv_has_previous_item: "[[Era-0251~Mesozoic]]"
+dv_has_next_item: ---
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Cenozoic,102416|WD~Cenozoic,102416]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic|Era-0066~Cenozoic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.public|Era-0066~Cenozoic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.internal|Era-0066~Cenozoic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.protect|Era-0066~Cenozoic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.private|Era-0066~Cenozoic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.personal|Era-0066~Cenozoic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic.secret|Era-0066~Cenozoic.secret]]"
+dv_has_name_bg: пеозой
+dv_has_name_cs: Kenozoikum
+dv_has_name_da: Kænozoisk
+dv_has_name_de: Känozoikum
+dv_has_name_en_gb: Cainozoic
+dv_has_name_en_us: Cenozoic
+dv_has_name_en: Cenozoic
+dv_has_name_es: Cenozoico
+dv_has_name_et: Kainosoikum
+dv_has_name_fi: Kenotsoikum
+dv_has_name_fr: Cénozoïque
+dv_has_name_hu: kainozoikum
+dv_has_name_it: cenozoico
+dv_has_name_ja: 新生代
+dv_has_name_lt: Cenozojus
+dv_has_name_nl: Kaenozoïcum
+dv_has_name_no: Kenozoikum
+dv_has_name_pl: Kenozoik
+dv_has_name_pt: Cenozóico
+dv_has_name_sk: kenozoikum
+dv_has_name_sl: kenozoik
+dv_has_name_sv: kenozoikum
+dv_has_name_zh: 新生代
+dv_has_name_abbreviated: CZ
+dv_has_time_started: "-66.000e6"
+dv_has_time_stopped: "0.002e6"
+dv_has_text_of_color: "0xF2F91D"
 ---
 
 # [[Era-0066~Cenozoic]] 
 
 #is_a_/time_/Era 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Era-0251~Mesozoic]] 
-#has_/next_/item :: ---
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 #is_/same_as :: [[../../../WikiData/WD~Cenozoic,102416|WD~Cenozoic,102416]] 
 
@@ -89,36 +176,37 @@ A time period from 66.0 million years ago to the present.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cenozoic) 
 
 
-#has_/name_/bg  :: пеозой
-#has_/name_/cs  :: Kenozoikum
-#has_/name_/da  :: Kænozoisk
-#has_/name_/de  :: Känozoikum
-#has_/name_/en-GB  :: Cainozoic
-#has_/name_/en-US  :: Cenozoic
-#has_/name_/es  :: Cenozoico
-#has_/name_/et  :: Kainosoikum
-#has_/name_/fi  :: Kenotsoikum
-#has_/name_/fr  :: Cénozoïque
-#has_/name_/hu  :: kainozoikum
-#has_/name_/it  :: cenozoico
-#has_/name_/ja  :: 新生代
-#has_/name_/lt  :: Cenozojus
-#has_/name_/nl  :: Kaenozoïcum
-#has_/name_/no  :: Kenozoikum
-#has_/name_/pl  :: Kenozoik
-#has_/name_/pt  :: Cenozóico
-#has_/name_/sk  :: kenozoikum
-#has_/name_/sl  :: kenozoik
-#has_/name_/sv  :: kenozoikum
-#has_/name_/zh  :: 新生代
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_en_gb = `=this.dv_has_name_en_gb` 
+has_name_en_us = `=this.dv_has_name_en_us` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
         
-#has_/abbreviation :: CZ
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -66.000e6 
-#has_/time_/stopped ::   0.002e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/text_of_/color :: 0xF2F91D
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

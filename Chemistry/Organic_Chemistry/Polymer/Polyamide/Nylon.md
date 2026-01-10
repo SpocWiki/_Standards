@@ -28,6 +28,25 @@ MeSH_tree_code:
   - J01.637.051.720.716.392
   - J01.637.548
 time_of_discovery_or_invention: 1935-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~nylon,177941]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon|Nylon]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.public|Nylon.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.internal|Nylon.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.protect|Nylon.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.private|Nylon.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.personal|Nylon.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.secret|Nylon.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~nylon,177941]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon|Nylon]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.public|Nylon.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.internal|Nylon.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.protect|Nylon.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.private|Nylon.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.personal|Nylon.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.secret|Nylon.secret]]"
 ---
 
 # [[Nylon]]  

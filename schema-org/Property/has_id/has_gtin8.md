@@ -31,18 +31,19 @@ type: Pred_Text
 Predicate to describe the Text of Demand, Offer, Product.
 
 Use it like this: 
-- [ #has_/text_of_/gtin8 :: Text ] or 
+- [has_/text_of_/gtin8 :: Text ] 
 - [ has_text_of_gtin8 :: Text ] 
 
 The GTIN-8 code of the product, or the product to which the offer refers. This code is also known as EAN/UCC-8 or 8-digit EAN. See [GS1 GTIN Summary](http://www.gs1.org/barcodes/technical/idkeys/gtin) for more details.
 
 Predicated describes that: 
-[ #has_/domain  :: Demand, Offer, Product ]
+
+#has_/domain  :: Demand, Offer, Product  
+
 ( #has_/name :: has_text_of_gtin8 )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: gtin, identifier ]
-
+#is_/sub_property_of  :: gtin, identifier  
 
 ## Confidential Links & Embeds: 
 

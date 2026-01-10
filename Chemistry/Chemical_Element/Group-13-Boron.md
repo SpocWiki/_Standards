@@ -3,6 +3,25 @@ aliases:
   - Group-13-Boron
 has_id_wikidata: Q189294
 type: ElementGroup
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Group_13,189294]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron|Group-13-Boron]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron.public|Group-13-Boron.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron.internal|Group-13-Boron.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron.protect|Group-13-Boron.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron.private|Group-13-Boron.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron.personal|Group-13-Boron.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron.secret|Group-13-Boron.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Group_13,189294]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron|Group-13-Boron]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron.public|Group-13-Boron.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron.internal|Group-13-Boron.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron.protect|Group-13-Boron.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron.private|Group-13-Boron.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron.personal|Group-13-Boron.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron.secret|Group-13-Boron.secret]]"
 ---
 
 # [[Group-13-Boron]] 

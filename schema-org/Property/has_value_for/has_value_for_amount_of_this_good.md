@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - amount-of-this-good
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_amount-of-this-good
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_amount-of-this-good
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    amount_of_this_good: Number
+  domain: TypeAndQuantityNode
+dv_has_value_for_amount_of_this_good: Number
+dv_#has_:
+  name: has_value_for_amount_of_this_good
+  range: Number
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_amount_of_this_good|has_value_for_amount_of_this_good]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.public|has_value_for_amount_of_this_good.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.internal|has_value_for_amount_of_this_good.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.protect|has_value_for_amount_of_this_good.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.private|has_value_for_amount_of_this_good.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.personal|has_value_for_amount_of_this_good.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.secret|has_value_for_amount_of_this_good.secret]]"
+dv_has_domain: TypeAndQuantityNode
+dv_has_name: has_value_for_amount_of_this_good
+dv_has_range: Number
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_amount_of_this_good|has_value_for_amount_of_this_good]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.public|has_value_for_amount_of_this_good.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.internal|has_value_for_amount_of_this_good.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.protect|has_value_for_amount_of_this_good.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.private|has_value_for_amount_of_this_good.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.personal|has_value_for_amount_of_this_good.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.secret|has_value_for_amount_of_this_good.secret]]"
 ---
 
 Predicate to describe the Quantity of TypeAndQuantityNode.
 
 Use it like this: 
-- [ #has_/value_for_/amount_of_this_good :: Number ] or 
-- [ has_value_for_amount_of_this_good :: Number ] 
+- has_value_for_amount_of_this_good = `=this.dv_has_value_for_amount_of_this_good`  
+- has_value_for_amount_of_this_good = `=this.dv_has_value_for_amount_of_this_good`  
 
 The quantity of the goods included in the offer.
 
 Predicate describes that: 
-[ #has_/domain  :: TypeAndQuantityNode ]
-( #has_/name :: has_value_for_amount_of_this_good )
-( #has_/range :: Number )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

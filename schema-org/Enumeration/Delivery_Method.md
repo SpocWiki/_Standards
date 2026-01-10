@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - delivery_method
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_delivery_method Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_delivery_method Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Delivery_Method|Delivery_Method]]"
+    - "[[/_public/schema-org/Enumeration/Delivery_Method.public|Delivery_Method.public]]"
+    - "[[/_internal/schema-org/Enumeration/Delivery_Method.internal|Delivery_Method.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Delivery_Method.protect|Delivery_Method.protect]]"
+    - "[[/_private/schema-org/Enumeration/Delivery_Method.private|Delivery_Method.private]]"
+    - "[[/_personal/schema-org/Enumeration/Delivery_Method.personal|Delivery_Method.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Delivery_Method.secret|Delivery_Method.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Delivery_Method|Delivery_Method]]"
+  - "[[/_public/schema-org/Enumeration/Delivery_Method.public|Delivery_Method.public]]"
+  - "[[/_internal/schema-org/Enumeration/Delivery_Method.internal|Delivery_Method.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Delivery_Method.protect|Delivery_Method.protect]]"
+  - "[[/_private/schema-org/Enumeration/Delivery_Method.private|Delivery_Method.private]]"
+  - "[[/_personal/schema-org/Enumeration/Delivery_Method.personal|Delivery_Method.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Delivery_Method.secret|Delivery_Method.secret]]"
 ---
 
 Class of all delivery_methods.
@@ -47,8 +66,7 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#UPS</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

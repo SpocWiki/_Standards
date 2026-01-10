@@ -5,15 +5,15 @@ aliases:
   - Kepler's_Laws_of_planetary_Motion
   - Kepler's Laws of planetary Motion
 has_id_wikidata: Q83219
-instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
+instance_of: "[[_Standards/WikiData/WD~physical_law,214070]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~Kepler's_first_law,122928282]]"
   - "[[_Standards/WikiData/WD~Kepler's_second_law,122928303]]"
   - "[[_Standards/WikiData/WD~Kepler's_third_law,122928319]]"
-named_after: '[[_Standards/WikiData/WD~Johannes_Kepler,8963]]'
+named_after: "[[_Standards/WikiData/WD~Johannes_Kepler,8963]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Circular%20orbit%20of%20planet%20with%20%28eccentricty%20of%200.0%29.gif
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ellipitical%20orbit%20of%20planet%20with%20an%20eccentricty%20of%200.2.gif
@@ -22,6 +22,25 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Plocha%20pruvodice.png
 Krugosvet_article_archived_: astronomiya/keplera-zakony
 Commons_category: Kepler motions
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Kepler's_laws_of_planetary_motion,83219]]"
+    - "[[/_Standards/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion|Kepler's_Laws_of_planetary_Motion]]"
+    - "[[/_public/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.public|Kepler's_Laws_of_planetary_Motion.public]]"
+    - "[[/_internal/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.internal|Kepler's_Laws_of_planetary_Motion.internal]]"
+    - "[[/_protect/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.protect|Kepler's_Laws_of_planetary_Motion.protect]]"
+    - "[[/_private/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.private|Kepler's_Laws_of_planetary_Motion.private]]"
+    - "[[/_personal/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.personal|Kepler's_Laws_of_planetary_Motion.personal]]"
+    - "[[/_secret/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.secret|Kepler's_Laws_of_planetary_Motion.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Kepler's_laws_of_planetary_motion,83219]]"
+  - "[[/_Standards/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion|Kepler's_Laws_of_planetary_Motion]]"
+  - "[[/_public/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.public|Kepler's_Laws_of_planetary_Motion.public]]"
+  - "[[/_internal/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.internal|Kepler's_Laws_of_planetary_Motion.internal]]"
+  - "[[/_protect/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.protect|Kepler's_Laws_of_planetary_Motion.protect]]"
+  - "[[/_private/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.private|Kepler's_Laws_of_planetary_Motion.private]]"
+  - "[[/_personal/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.personal|Kepler's_Laws_of_planetary_Motion.personal]]"
+  - "[[/_secret/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.secret|Kepler's_Laws_of_planetary_Motion.secret]]"
 ---
 
 # [[Kepler's_Laws_of_planetary_Motion]] 

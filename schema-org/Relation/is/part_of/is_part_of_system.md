@@ -30,13 +30,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/part_of_/system :: AnatomicalSystem ] or 
+- [is_/part_of_/system :: AnatomicalSystem ] 
 - [ is_part_of_system :: AnatomicalSystem ] 
 
 The anatomical or organ system that this structure is part of.
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalStructure ]
+
+#has_/domain  :: AnatomicalStructure  
+
 ( #has_/name :: is_part_of_system )
 ( #has_/range :: AnatomicalSystem )
 

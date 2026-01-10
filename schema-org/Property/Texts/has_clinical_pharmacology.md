@@ -11,37 +11,67 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - clinical
   - pharmacology
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_clinical_pharmacology
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: clincalPharmacology
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_clinical_pharmacology
 type: Pred_Text
+dv_has_:
+  text_of_:
+    clinical_pharmacology: Text
+  domain: Drug
+dv_has_text_of_clinical_pharmacology: Text
+dv_#has_:
+  name: has_text_of_clinical_pharmacology
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_clinical_pharmacology|has_clinical_pharmacology]]"
+    - "[[/_public/schema-org/Property/Texts/has_clinical_pharmacology.public|has_clinical_pharmacology.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_clinical_pharmacology.internal|has_clinical_pharmacology.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_clinical_pharmacology.protect|has_clinical_pharmacology.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_clinical_pharmacology.private|has_clinical_pharmacology.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_clinical_pharmacology.personal|has_clinical_pharmacology.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_clinical_pharmacology.secret|has_clinical_pharmacology.secret]]"
+dv_has_domain: Drug
+dv_has_name: has_text_of_clinical_pharmacology
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_clinical_pharmacology|has_clinical_pharmacology]]"
+  - "[[/_public/schema-org/Property/Texts/has_clinical_pharmacology.public|has_clinical_pharmacology.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_clinical_pharmacology.internal|has_clinical_pharmacology.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_clinical_pharmacology.protect|has_clinical_pharmacology.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_clinical_pharmacology.private|has_clinical_pharmacology.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_clinical_pharmacology.personal|has_clinical_pharmacology.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_clinical_pharmacology.secret|has_clinical_pharmacology.secret]]"
 ---
 
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_of_/clinical_pharmacology :: Text ] or 
-- [ has_text_of_clinical_pharmacology :: Text ] 
+- has_text_of_clinical_pharmacology = `=this.dv_has_text_of_clinical_pharmacology`  
+- has_text_of_clinical_pharmacology = `=this.dv_has_text_of_clinical_pharmacology`  
 
 Description of the absorption and elimination of drugs, including their concentration (pharmacokinetics, pK) and biological effects (pharmacodynamics, pD).
 
 Predicated describes that: 
-[ #has_/domain  :: Drug ]
-( #has_/name :: has_text_of_clinical_pharmacology )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

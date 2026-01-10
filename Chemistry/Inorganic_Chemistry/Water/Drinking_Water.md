@@ -48,6 +48,25 @@ MeSH_tree_code:
   - G07.203.100.418
   - J02.200.418
 OpenStreetMap_tag_or_key: Key:drinking_water
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Drinking_water,7892|WD~Drinking_water,7892]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Drinking_Water|Drinking_Water]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.public|Drinking_Water.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.internal|Drinking_Water.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.protect|Drinking_Water.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.private|Drinking_Water.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.personal|Drinking_Water.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.secret|Drinking_Water.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Drinking_water,7892|WD~Drinking_water,7892]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Drinking_Water|Drinking_Water]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.public|Drinking_Water.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.internal|Drinking_Water.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.protect|Drinking_Water.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.private|Drinking_Water.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.personal|Drinking_Water.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.secret|Drinking_Water.secret]]"
 ---
 
 # [[Drinking_Water]] 🚰 

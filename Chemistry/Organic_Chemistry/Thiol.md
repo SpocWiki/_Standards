@@ -1,8 +1,35 @@
+---
+dv_is_:
+  similar_to: "[[Functional_Group/Alcohol|Alcohol]]"
+  same_as:
+    - "[[../../WikiData/WD~Thiol,220410]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Thiol|Thiol]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Thiol.public|Thiol.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Thiol.internal|Thiol.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Thiol.protect|Thiol.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Thiol.private|Thiol.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Thiol.personal|Thiol.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Thiol.secret|Thiol.secret]]"
+dv_has_:
+  formula_:
+    structural: R−SH
+dv_is_similar_to: "[[Functional_Group/Alcohol|Alcohol]]"
+dv_has_formula_structural: R−SH
+dv_is_same_as:
+  - "[[../../WikiData/WD~Thiol,220410]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Thiol|Thiol]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Thiol.public|Thiol.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Thiol.internal|Thiol.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Thiol.protect|Thiol.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Thiol.private|Thiol.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Thiol.personal|Thiol.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Thiol.secret|Thiol.secret]]"
+---
 
 # [[Thiol]] 
 
-#is_/similar_to :: [[Functional_Group/Alcohol|Alcohol]] 
-#has_/formula_/structural :: R−SH 
+is_similar_to = `=this.dv_is_similar_to` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 #is_/same_as :: [[WD~Thiol,220410]] 
 
 ## #has_/text_of_/abstract 

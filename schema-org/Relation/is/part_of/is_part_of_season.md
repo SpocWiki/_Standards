@@ -30,18 +30,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/part_of_/season :: CreativeWorkSeason ] or 
+- [is_/part_of_/season :: CreativeWorkSeason ] 
 - [ is_part_of_season :: CreativeWorkSeason ] 
 
 The season to which this episode belongs.
 
 Relation describes that: 
-[ #has_/domain  :: Clip, Episode ]
+
+#has_/domain  :: Clip, Episode  
+
 ( #has_/name :: is_part_of_season )
 ( #has_/range :: CreativeWorkSeason )
 
-[ #is_/sub_property_of  :: isPartOf ]
-
+#is_/sub_property_of  :: isPartOf  
 
 ## Confidential Links & Embeds: 
 

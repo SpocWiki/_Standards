@@ -46,6 +46,23 @@ U_S_National_Archives_Identifier:
   - 10636978
   - 10640555
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Burning%20Tent.ogv
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Fire|Fire]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Fire.public|Fire.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Fire.internal|Fire.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Fire.protect|Fire.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Fire.private|Fire.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Fire.personal|Fire.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Fire.secret|Fire.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Fire|Fire]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Fire.public|Fire.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Fire.internal|Fire.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Fire.protect|Fire.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Fire.private|Fire.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Fire.personal|Fire.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Fire.secret|Fire.secret]]"
 ---
 
 # [[Fire]] 🔥 

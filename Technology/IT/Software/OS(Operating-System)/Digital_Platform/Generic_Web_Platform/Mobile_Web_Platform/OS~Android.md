@@ -197,14 +197,13 @@ Class of all android_platforms.
 Tag Instances like this: 
 #is_an_/android_platform
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the broad notion of Android-based operating systems.
 
-[ #is_/sub_class_of :: [[../DigitalPlatformEnumeration]] ]
+#is_/sub_class_of :: [[../DigitalPlatformEnumeration]]  
 
-[ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
-
+#is_/enum_of :: [[../DigitalPlatformEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

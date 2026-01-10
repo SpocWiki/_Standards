@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/recorded_at :: Event ] or 
+- [is_/recorded_at :: Event ] 
 - [ is_recorded_at :: Event ] 
 
 The Event where the CreativeWork was recorded. The CreativeWork may capture all or part of the event.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_recorded_at )
 ( #has_/range :: [[../../../Class/is_a_thing/event]] )
 
-[ #is_/inverse_of  :: recordedIn ]
-
+#is_/inverse_of  :: recordedIn  
 
 ## Confidential Links & Embeds: 
 

@@ -26,6 +26,25 @@ CAS_Registry_Number: 54386-24-2
 Commons_gallery: Roentgenium
 Commons_category: Roentgenium
 time_of_discovery_or_invention: 1994-12-08T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Roentgenium,1272|WD~Roentgenium,1272]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium|Roentgenium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.public|Roentgenium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.internal|Roentgenium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.protect|Roentgenium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.private|Roentgenium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.personal|Roentgenium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.secret|Roentgenium.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Roentgenium,1272|WD~Roentgenium,1272]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium|Roentgenium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.public|Roentgenium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.internal|Roentgenium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.protect|Roentgenium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.private|Roentgenium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.personal|Roentgenium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Roentgenium.secret|Roentgenium.secret]]"
 ---
 
 # [[Roentgenium]] 

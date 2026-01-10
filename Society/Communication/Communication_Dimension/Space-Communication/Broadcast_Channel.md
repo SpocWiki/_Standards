@@ -66,11 +66,11 @@ Tag Instances like this:
 
 A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
-[ #is_/sub_class_of :: [[../../../../../schema-org/Class/is_a_/Intangible]] ]
+#is_/sub_class_of :: [[../../../../../schema-org/Class/is_a_/Intangible]]  
 
-[ #has_/sub_classes :: [ RadioChannel, TelevisionChannel ] ]
+#has_/sub_classes :: [ RadioChannel, TelevisionChannel ]  
 
-[ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
+#has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ]  
 
 #is_/same_as :: [[WD~broadcasting,15078788]] 
 

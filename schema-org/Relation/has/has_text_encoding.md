@@ -5,6 +5,23 @@ aliases:
   - has charset
   - has_text_encoding
   - has text encoding
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_text_encoding|has_text_encoding]]"
+    - "[[/_public/schema-org/Relation/has/has_text_encoding.public|has_text_encoding.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_text_encoding.internal|has_text_encoding.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_text_encoding.protect|has_text_encoding.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_text_encoding.private|has_text_encoding.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_text_encoding.personal|has_text_encoding.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_text_encoding.secret|has_text_encoding.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_text_encoding|has_text_encoding]]"
+  - "[[/_public/schema-org/Relation/has/has_text_encoding.public|has_text_encoding.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_text_encoding.internal|has_text_encoding.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_text_encoding.protect|has_text_encoding.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_text_encoding.private|has_text_encoding.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_text_encoding.personal|has_text_encoding.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_text_encoding.secret|has_text_encoding.secret]]"
 ---
 
 Used to describe the Byte-Encoding of a Text. 

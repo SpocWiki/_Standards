@@ -29,18 +29,19 @@ type: Predi_Relation
 #is_/opposite_of :: [[has_winner]]  
 
 Use it like this: 
-- [ #has_/loser :: Person ] or 
+- [has_/loser :: Person ] 
 - [ has_loser :: Person ] 
 
 A sub property of participant. The loser of the action.
 
 Relation describes that: 
-[ #has_/domain  :: WinAction ]
+
+#has_/domain  :: WinAction  
+
 ( #has_/name :: has_loser )
 ( #has_/range :: Person )
 
-[ #is_/sub_property_of  :: participant ]
-
+#is_/sub_property_of  :: participant  
 
 ## Confidential Links & Embeds: 
 

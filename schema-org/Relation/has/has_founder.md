@@ -31,13 +31,15 @@ type: Predi_Relation
 A person who founded this organization.
 
 Use it like this: 
-- [ #has_/founder :: Person ] or 
+- [has_/founder :: Person ] 
 - [ has_founder :: Person ] 
 
 #is_/sub_relation_of :: [[has_creator]]
 
 Relation describes that:  
-[ #has_/domain  :: Organization ]
+
+#has_/domain  :: Organization  
+
 ( #has_/name :: has_founder )
 ( #has_/range :: Person )
 

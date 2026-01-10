@@ -51,6 +51,25 @@ Commons_gallery: Messier 33
 Commons_category: Triangulum Galaxy
 time_of_discovery_or_invention: 1654-01-01T00:00:00Z
 right_ascension: 23.46206906218
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Triangulum_Galaxy,13724|WD~Triangulum_Galaxy,13724]]"
+    - "[[/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy|Triangulum_Galaxy]]"
+    - "[[/_public/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.public|Triangulum_Galaxy.public]]"
+    - "[[/_internal/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.internal|Triangulum_Galaxy.internal]]"
+    - "[[/_protect/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.protect|Triangulum_Galaxy.protect]]"
+    - "[[/_private/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.private|Triangulum_Galaxy.private]]"
+    - "[[/_personal/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.personal|Triangulum_Galaxy.personal]]"
+    - "[[/_secret/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.secret|Triangulum_Galaxy.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Triangulum_Galaxy,13724|WD~Triangulum_Galaxy,13724]]"
+  - "[[/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy|Triangulum_Galaxy]]"
+  - "[[/_public/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.public|Triangulum_Galaxy.public]]"
+  - "[[/_internal/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.internal|Triangulum_Galaxy.internal]]"
+  - "[[/_protect/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.protect|Triangulum_Galaxy.protect]]"
+  - "[[/_private/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.private|Triangulum_Galaxy.private]]"
+  - "[[/_personal/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.personal|Triangulum_Galaxy.personal]]"
+  - "[[/_secret/Astronomy/Star_System/Galaxy/Spiral_Galaxy/Triangulum_Galaxy.secret|Triangulum_Galaxy.secret]]"
 ---
 
 # [[Triangulum_Galaxy]] 

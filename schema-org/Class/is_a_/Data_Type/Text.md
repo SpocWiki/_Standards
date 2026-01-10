@@ -8,27 +8,49 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - text
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_text Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
   - class/data_type
 title: is_a_text Class
 type: Type
+dv_is_:
+  similar_to: "[[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text|Text]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Text.public|Text.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text.internal|Text.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text.protect|Text.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Text.private|Text.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text.personal|Text.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text.secret|Text.secret]]"
+dv_has_:
+  sub_classes: "[ CssSelectorType, PronounceableText, URL, XPathType ]"
+dv_is_similar_to: "[[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String]]"
+dv_has_sub_classes: "[ CssSelectorType, PronounceableText, URL, XPathType ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text|Text]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Text.public|Text.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text.internal|Text.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text.protect|Text.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Text.private|Text.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text.personal|Text.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text.secret|Text.secret]]"
 ---
 
 # [[text]] 
 
-#is_/similar_to :: [[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String]] 
+is_similar_to = `=this.dv_is_similar_to` 
 
 Class of all texts.
 
@@ -40,8 +62,7 @@ but typically this is not necessary, because Text is treated as a Scalar/Struct 
 
 Data type: Text.
 
-[ #has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ] ]
-
+has_sub_classes = `=this.dv_has_sub_classes` 
 
 ## Confidential Links & Embeds: 
 

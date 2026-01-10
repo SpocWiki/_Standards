@@ -42,15 +42,44 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/HydraCC.jpg
 Commons_gallery: Hydra (constellation)
 Commons_category: Hydra (constellation)
 short_name: Hya
+dv_SpocWebEntityId: 28124
+dv_#has_:
+  name_:
+    la: Hydra
+    la_:
+      genitive: Hydrae
+    de: Wasserschlange
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Hydra,10578]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Hydra|Zodiac~Hydra]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Hydra.public|Zodiac~Hydra.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Hydra.internal|Zodiac~Hydra.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Hydra.protect|Zodiac~Hydra.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Hydra.private|Zodiac~Hydra.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Hydra.personal|Zodiac~Hydra.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Hydra.secret|Zodiac~Hydra.secret]]"
+dv_has_name_la: Hydra
+dv_has_name_la_genitive: Hydrae
+dv_has_name_de: Wasserschlange
+dv_is_same_as:
+  - "[[../../WikiData/WD~Hydra,10578]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Hydra|Zodiac~Hydra]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Hydra.public|Zodiac~Hydra.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Hydra.internal|Zodiac~Hydra.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Hydra.protect|Zodiac~Hydra.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Hydra.private|Zodiac~Hydra.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Hydra.personal|Zodiac~Hydra.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Hydra.secret|Zodiac~Hydra.secret]]"
 ---
 
 # [[Zodiac~Hydra]] 
 
-[SpocWebEntityId::28124]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Hydra]
-[#has_/name_/la_/genitive::Hydrae]
-[#has_/name_/de::Wasserschlange]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[WD~Hydra,10578]] 
 

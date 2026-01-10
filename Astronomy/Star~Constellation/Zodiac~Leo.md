@@ -12,44 +12,44 @@ tags:
 type: Zodiac
 ZodiacPos: 5
 named_after:
-  - '[[_Standards/WikiData/WD~Nemean_lion,199438]]'
-  - '[[_Standards/WikiData/WD~Humbaba,425449]]'
-  - '[[_Standards/WikiData/WD~lion,140]]'
+  - "[[_Standards/WikiData/WD~Nemean_lion,199438]]"
+  - "[[_Standards/WikiData/WD~Humbaba,425449]]"
+  - "[[_Standards/WikiData/WD~lion,140]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-  - '[[_Standards/WikiData/WD~Leo,105094564]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-notation: '[[_Standards/WikiData/WD~_,3594861]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
+  - "[[_Standards/WikiData/WD~Leo,105094564]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+notation: "[[_Standards/WikiData/WD~_,3594861]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~zodiacal_constellation,4193029]]'
-  - '[[_Standards/WikiData/WD~constellation,8928]]'
+  - "[[_Standards/WikiData/WD~zodiacal_constellation,4193029]]"
+  - "[[_Standards/WikiData/WD~constellation,8928]]"
 has_part_s_:
   - "[[_Standards/WikiData/WD~Emperor's_Bodyguard,4236570]]"
-  - '[[_Standards/WikiData/WD~Mingtang,4295252]]'
-  - '[[_Standards/WikiData/WD~Seats_of_the_Five_Emperors,10881766]]'
-  - '[[_Standards/WikiData/WD~Retinue,10884043]]'
-  - '[[_Standards/WikiData/WD~Crown_Prince,10941158]]'
-  - '[[_Standards/WikiData/WD~Right_Wall_of_the_Supreme_Palace_Enclosure,10941554]]'
-  - '[[_Standards/WikiData/WD~Junior_Officers,11036535]]'
-  - '[[_Standards/WikiData/WD~Long_Wall,17030135]]'
-  - '[[_Standards/WikiData/WD~Astronomical_Observatory,17039457]]'
+  - "[[_Standards/WikiData/WD~Mingtang,4295252]]"
+  - "[[_Standards/WikiData/WD~Seats_of_the_Five_Emperors,10881766]]"
+  - "[[_Standards/WikiData/WD~Retinue,10884043]]"
+  - "[[_Standards/WikiData/WD~Crown_Prince,10941158]]"
+  - "[[_Standards/WikiData/WD~Right_Wall_of_the_Supreme_Palace_Enclosure,10941554]]"
+  - "[[_Standards/WikiData/WD~Junior_Officers,11036535]]"
+  - "[[_Standards/WikiData/WD~Long_Wall,17030135]]"
+  - "[[_Standards/WikiData/WD~Astronomical_Observatory,17039457]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Leo_(constellation),6504951]]'
-  - '[[_Standards/WikiData/WD~Q10729066,10729066]]'
+  - "[[_Standards/WikiData/WD~Template_Leo_(constellation),6504951]]"
+  - "[[_Standards/WikiData/WD~Q10729066,10729066]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Virgo,8842]]'
-  - '[[_Standards/WikiData/WD~Cancer,8849]]'
-  - '[[_Standards/WikiData/WD~Ursa_Major,8918]]'
-  - '[[_Standards/WikiData/WD~Crater,9282]]'
-  - '[[_Standards/WikiData/WD~Coma_Berenices,9285]]'
-  - '[[_Standards/WikiData/WD~Leo_Minor,10403]]'
-  - '[[_Standards/WikiData/WD~Lynx,10443]]'
-  - '[[_Standards/WikiData/WD~Sextans,10525]]'
-  - '[[_Standards/WikiData/WD~Hydra,10578]]'
+  - "[[_Standards/WikiData/WD~Virgo,8842]]"
+  - "[[_Standards/WikiData/WD~Cancer,8849]]"
+  - "[[_Standards/WikiData/WD~Ursa_Major,8918]]"
+  - "[[_Standards/WikiData/WD~Crater,9282]]"
+  - "[[_Standards/WikiData/WD~Coma_Berenices,9285]]"
+  - "[[_Standards/WikiData/WD~Leo_Minor,10403]]"
+  - "[[_Standards/WikiData/WD~Lynx,10443]]"
+  - "[[_Standards/WikiData/WD~Sextans,10525]]"
+  - "[[_Standards/WikiData/WD~Hydra,10578]]"
 area: 947
 Commons_gallery: Leo
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Ash%20Crow-lion.wav
@@ -61,15 +61,44 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20cons
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LeoCC.jpg
 Baidu_Tieba_name: 狮子座
+dv_SpocWebEntityId: 28128
+dv_#has_:
+  name_:
+    la: Leo
+    la_:
+      genitive: Leonis
+    de: Loewe
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Leo,8853|WD~Leo,8853]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Leo|Zodiac~Leo]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Leo.public|Zodiac~Leo.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Leo.internal|Zodiac~Leo.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Leo.protect|Zodiac~Leo.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Leo.private|Zodiac~Leo.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Leo.personal|Zodiac~Leo.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Leo.secret|Zodiac~Leo.secret]]"
+dv_has_name_la: Leo
+dv_has_name_la_genitive: Leonis
+dv_has_name_de: Loewe
+dv_is_same_as:
+  - "[[../../WikiData/WD~Leo,8853|WD~Leo,8853]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Leo|Zodiac~Leo]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Leo.public|Zodiac~Leo.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Leo.internal|Zodiac~Leo.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Leo.protect|Zodiac~Leo.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Leo.private|Zodiac~Leo.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Leo.personal|Zodiac~Leo.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Leo.secret|Zodiac~Leo.secret]]"
 ---
 
 # [[Zodiac~Leo]] 
 
-[SpocWebEntityId::28128]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Leo]
-[#has_/name_/la_/genitive::Leonis]
-[#has_/name_/de::Loewe]
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive` 
+has_name_de = `=this.dv_has_name_de` 
 
 #is_/same_as :: [[../../WikiData/WD~Leo,8853|WD~Leo,8853]] 
 

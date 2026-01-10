@@ -55,6 +55,82 @@ official_website: http://www.comune.cinzano.to.it
 UN_LOCODE: ITCZF
 demonym: cinzanesi
 coordinate_location: Point(7.923964 45.09461)
+dv_has_:
+  duration_:
+    years: "1.961e+9"
+  previous_:
+    item: "[[Eon-4031~Archean]]"
+  next_:
+    item: "[[Eon-0539~Phanerozoic]]"
+  name_:
+    bg: Протерозой
+    cs: Proterozoikum
+    da: Proterozoikum
+    de: Proterozoikum
+    es: Proterozoico
+    et: Proterosoikum
+    fi: Proterotsoikum
+    fr: Protérozoïque
+    hu: proterozoos
+    it: proterozoico
+    ja: 原生代
+    lt: Proterozojus
+    nl: Proterozoïcum
+    no: Proterozoisk
+    pl: Proterozoik
+    pt: Proterozóico
+    sk: proterozoikum
+    sl: proterozoik
+    sv: proterozoikum
+    zh: 元古宙
+  time_:
+    started: "-2500.0e6"
+    stopped: "-538.8e6"
+  text_of_:
+    color: "0xF73563"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic|Eon-2500~Proterozoic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic.public|Eon-2500~Proterozoic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.internal|Eon-2500~Proterozoic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic.protect|Eon-2500~Proterozoic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic.private|Eon-2500~Proterozoic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.personal|Eon-2500~Proterozoic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic.secret|Eon-2500~Proterozoic.secret]]"
+dv_has_duration_years: "1.961e+9"
+dv_has_previous_item: "[[Eon-4031~Archean]]"
+dv_has_next_item: "[[Eon-0539~Phanerozoic]]"
+dv_has_name_bg: Протерозой
+dv_has_name_cs: Proterozoikum
+dv_has_name_da: Proterozoikum
+dv_has_name_de: Proterozoikum
+dv_has_name_es: Proterozoico
+dv_has_name_et: Proterosoikum
+dv_has_name_fi: Proterotsoikum
+dv_has_name_fr: Protérozoïque
+dv_has_name_hu: proterozoos
+dv_has_name_it: proterozoico
+dv_has_name_ja: 原生代
+dv_has_name_lt: Proterozojus
+dv_has_name_nl: Proterozoïcum
+dv_has_name_no: Proterozoisk
+dv_has_name_pl: Proterozoik
+dv_has_name_pt: Proterozóico
+dv_has_name_sk: proterozoikum
+dv_has_name_sl: proterozoik
+dv_has_name_sv: proterozoikum
+dv_has_name_zh: 元古宙
+dv_has_time_started: "-2500.0e6"
+dv_has_time_stopped: "-538.8e6"
+dv_has_text_of_color: "0xF73563"
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic|Eon-2500~Proterozoic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic.public|Eon-2500~Proterozoic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.internal|Eon-2500~Proterozoic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic.protect|Eon-2500~Proterozoic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic.private|Eon-2500~Proterozoic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic.personal|Eon-2500~Proterozoic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic.secret|Eon-2500~Proterozoic.secret]]"
 ---
 ﻿---
 location: [ 7.923964 , 45.09461 ] 
@@ -120,10 +196,10 @@ coordinate_location: Point(7.923964 45.09461)
 
 #is_a_/time_/Eon 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Eon-4031~Archean]]   
-#has_/next_/item :: [[Eon-0539~Phanerozoic]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 A time period from 2500 to 538.8 million years ago.
 
@@ -161,33 +237,33 @@ A time period from 2500 to 538.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Proterozoic) 
 
 
-#has_/name_/bg  :: Протерозой
-#has_/name_/cs  :: Proterozoikum
-#has_/name_/da  :: Proterozoikum
-#has_/name_/de  :: Proterozoikum
-#has_/name_/es  :: Proterozoico
-#has_/name_/et  :: Proterosoikum
-#has_/name_/fi  :: Proterotsoikum
-#has_/name_/fr  :: Protérozoïque
-#has_/name_/hu  :: proterozoos
-#has_/name_/it  :: proterozoico
-#has_/name_/ja  :: 原生代
-#has_/name_/lt  :: Proterozojus
-#has_/name_/nl  :: Proterozoïcum
-#has_/name_/no  :: Proterozoisk
-#has_/name_/pl  :: Proterozoik
-#has_/name_/pt  :: Proterozóico
-#has_/name_/sk  :: proterozoikum
-#has_/name_/sl  :: proterozoik
-#has_/name_/sv  :: proterozoikum
-#has_/name_/zh  :: 元古宙
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/time_/started :: -2500.0e6 
-#has_/time_/stopped ::  -538.8e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 170 
 
-#has_/text_of_/color :: 0xF73563
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

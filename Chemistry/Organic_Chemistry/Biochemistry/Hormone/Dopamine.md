@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine|Dopamine]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.public|Dopamine.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.internal|Dopamine.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.protect|Dopamine.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.private|Dopamine.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.personal|Dopamine.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.secret|Dopamine.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine|Dopamine]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.public|Dopamine.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.internal|Dopamine.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.protect|Dopamine.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.private|Dopamine.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.personal|Dopamine.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.secret|Dopamine.secret]]"
+---
 
 # [[Dopamine]]
 

@@ -35,13 +35,15 @@ Relation to distinguish between 2, possibly similar Entities.
 Together with [[is_same_as]] it can express the same as [[is_similar_to]]. 
 
 Use it like this: 
-- [ #is_/different_from :: Product, Service] or 
+- [is_/different_from :: Product, Service] 
 - [ is_different_from :: Product, Service] 
 
 A pointer to another, maybe similar but distinct product (or multiple products).
 
 Relation describes that: 
-[ #has_/domain  :: Product, Service]
+
+#has_/domain  :: Product, Service 
+
 ( #has_/name :: is_different_from)
 ( #has_/range :: Product, Service)
 

@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~PH,40936]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/PH|PH]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/PH.public|PH.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/PH.internal|PH.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/PH.protect|PH.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/PH.private|PH.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/PH.personal|PH.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/PH.secret|PH.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~PH,40936]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/PH|PH]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/PH.public|PH.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/PH.internal|PH.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/PH.protect|PH.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/PH.private|PH.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/PH.personal|PH.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/PH.secret|PH.secret]]"
+---
 
 # [[PH]]
 

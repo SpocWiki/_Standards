@@ -5,26 +5,26 @@ aliases:
   - Supernova
 has_id_wikidata: Q3937
 named_by:
-  - '[[_Standards/WikiData/WD~Fritz_Zwicky,115462]]'
-  - '[[_Standards/WikiData/WD~Walter_Baade,57299]]'
+  - "[[_Standards/WikiData/WD~Fritz_Zwicky,115462]]"
+  - "[[_Standards/WikiData/WD~Walter_Baade,57299]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~explosion,179057]]'
-  - '[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]'
-  - '[[_Standards/WikiData/WD~star,523]]'
+  - "[[_Standards/WikiData/WD~explosion,179057]]"
+  - "[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]"
+  - "[[_Standards/WikiData/WD~star,523]]"
 model_item:
-  - '[[_Standards/WikiData/WD~SN_1604,320670]]'
-  - '[[_Standards/WikiData/WD~S_Andromedae,546708]]'
-  - '[[_Standards/WikiData/WD~SN_1987A,584905]]'
-  - '[[_Standards/WikiData/WD~SN_2006gy,644956]]'
-  - '[[_Standards/WikiData/WD~SN_1006,934700]]'
-  - '[[_Standards/WikiData/WD~ASASSN_15C,22075587]]'
-  - '[[_Standards/WikiData/WD~SN_1054,32037]]'
-different_from: '[[_Standards/WikiData/WD~Supernowa,9348261]]'
+  - "[[_Standards/WikiData/WD~SN_1604,320670]]"
+  - "[[_Standards/WikiData/WD~S_Andromedae,546708]]"
+  - "[[_Standards/WikiData/WD~SN_1987A,584905]]"
+  - "[[_Standards/WikiData/WD~SN_2006gy,644956]]"
+  - "[[_Standards/WikiData/WD~SN_1006,934700]]"
+  - "[[_Standards/WikiData/WD~ASASSN_15C,22075587]]"
+  - "[[_Standards/WikiData/WD~SN_1054,32037]]"
+different_from: "[[_Standards/WikiData/WD~Supernowa,9348261]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Infobox_supernova,10978554]]'
-  - '[[_Standards/WikiData/WD~Template_Supernovae,14399143]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+  - "[[_Standards/WikiData/WD~Template_Infobox_supernova,10978554]]"
+  - "[[_Standards/WikiData/WD~Template_Supernovae,14399143]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
 OmegaWiki_Defined_Meaning: 431088
 Wolfram_Language_entity_type: Supernova
 Commons_category: Supernovae
@@ -32,6 +32,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/SN1994D.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20time-lapse%20of%20distant%20supernovae.webm
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/SVERHNOVAYA_ZVEZDA.html
 Dewey_Decimal_Classification: 523.84465
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Supernova,3937|WD~Supernova,3937]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova|Supernova]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.public|Supernova.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.internal|Supernova.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.protect|Supernova.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.private|Supernova.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.personal|Supernova.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.secret|Supernova.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Supernova,3937|WD~Supernova,3937]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova|Supernova]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.public|Supernova.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.internal|Supernova.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.protect|Supernova.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.private|Supernova.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.personal|Supernova.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.secret|Supernova.secret]]"
 ---
 
 # [[Supernova]] 

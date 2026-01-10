@@ -31,10 +31,10 @@ type: Pred_Text
 
 Predicate to describe the Text of Offer, Product.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/mobile_url :: Text ] or 
+- [has_/text_of_/mobile_url :: Text ] 
 - [ has_text_of_mobile_url :: Text ] 
 
 The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated "mobile site".
@@ -42,7 +42,9 @@ The [[mobileUrl]] property is provided for specific situations in which data con
 To discourage over-use, and reflecting intial usecases, the property is expected only on [Product](../../../Society/Agent/Community/Organization/Business/Product.md) and [Offer](../../../Society/Agent/Community/Organization/Business/Offer.md), rather than [Thing](../../Class/Thing.md). The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive_web_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[../../Class/is_a_/data_type/text/URL]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[../../Class/is_a_/data_type/text/URL]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[../../../Society/Agent/Community/Organization/Business/Product]] and [[../../../Society/Agent/Community/Organization/Business/Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
 
 Predicated describes that: 
-[ #has_/domain  :: [[Offer](../../../Society/Agent/Community/Organization/Business/Offer.md), [Product](../../../Society/Agent/Community/Organization/Business/Product.md)] ]
+
+#has_/domain  :: [[Offer](../../../Society/Agent/Community/Organization/Business/Offer.md), [Product](../../../Society/Agent/Community/Organization/Business/Product.md)]  
+
 ( #has_/name :: has_text_of_mobile_url )
 ( #has_/range :: Text )
 

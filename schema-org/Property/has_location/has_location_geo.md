@@ -9,29 +9,57 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_
 type: Pred_geo
+dv_has_:
+  location_:
+    geo: GeoCoordinates, GeoShape
+  domain: Place
+dv_has_location_geo: GeoCoordinates, GeoShape
+dv_#has_:
+  name: has_location_
+  range: GeoCoordinates, GeoShape
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_location/has_location_geo|has_location_geo]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_geo.public|has_location_geo.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_geo.internal|has_location_geo.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_geo.protect|has_location_geo.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_geo.private|has_location_geo.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_geo.personal|has_location_geo.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_geo.secret|has_location_geo.secret]]"
+dv_has_domain: Place
+dv_has_name: has_location_
+dv_has_range: GeoCoordinates, GeoShape
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_location/has_location_geo|has_location_geo]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_geo.public|has_location_geo.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_geo.internal|has_location_geo.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_geo.protect|has_location_geo.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_geo.private|has_location_geo.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_geo.personal|has_location_geo.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_geo.secret|has_location_geo.secret]]"
 ---
 
 Predicate to describe the geo-Coordinates of a Location 
 in latitude and longitude.
 
 Use it like this: 
-- [ #has_/location_/geo :: GeoCoordinates, GeoShape ] or 
-- [ has_location_geo :: GeoCoordinates, GeoShape ] 
+- has_location_geo = `=this.dv_has_location_geo`  
+- has_location_geo = `=this.dv_has_location_geo`  
 
 The geo coordinates of the place.
 While `schema:geo` is specifically designed for representing point locations using latitude and longitude, 
@@ -39,9 +67,11 @@ While `schema:geo` is specifically designed for representing point locations usi
 
 
 Predicate describes that: 
-[ #has_/domain  :: Place ]
-( #has_/name :: has_location_ )
-( #has_/range :: GeoCoordinates, GeoShape )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -7,48 +7,67 @@ aliases:
   - Kwolek,Stephanie_L.
   - Kwolek,Stephanie L.
 has_id_wikidata: Q7509
-place_of_death: '[[_Standards/WikiData/WD~Wilmington,174224]]'
+place_of_death: "[[_Standards/WikiData/WD~Wilmington,174224]]"
 occupation:
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~chemist,593644]]'
-employer: '[[_Standards/WikiData/WD~DuPont,221062]]'
+  - "[[_Standards/WikiData/WD~inventor,205375]]"
+  - "[[_Standards/WikiData/WD~chemist,593644]]"
+employer: "[[_Standards/WikiData/WD~DuPont,221062]]"
 award_received:
-  - '[[_Standards/WikiData/WD~National_Medal_of_Technology_and_Innovation,937629]]'
-  - '[[_Standards/WikiData/WD~Chemical_Pioneer_Award,1069189]]'
-  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-  - '[[_Standards/WikiData/WD~Perkin_Medal,1385301]]'
-  - '[[_Standards/WikiData/WD~Howard_N._Potts_Medal,1631883]]'
+  - "[[_Standards/WikiData/WD~National_Medal_of_Technology_and_Innovation,937629]]"
+  - "[[_Standards/WikiData/WD~Chemical_Pioneer_Award,1069189]]"
+  - "[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]"
+  - "[[_Standards/WikiData/WD~Perkin_Medal,1385301]]"
+  - "[[_Standards/WikiData/WD~Howard_N._Potts_Medal,1631883]]"
   - "[[_Standards/WikiData/WD~National_Women's_Hall_of_Fame,1967852]]"
-  - '[[_Standards/WikiData/WD~IRI_Achievement_Award,5973542]]'
-  - '[[_Standards/WikiData/WD~Hall_of_Fame_of_Delaware_Women,11795562]]'
-  - '[[_Standards/WikiData/WD~ACS_Award_for_Creative_Invention,56294522]]'
-  - '[[_Standards/WikiData/WD~Women_in_Technology_Hall_of_Fame,57647862]]'
-  - '[[_Standards/WikiData/WD~Lavoisier_Medal_for_Lifetime_Technical_Achievement,114847999]]'
+  - "[[_Standards/WikiData/WD~IRI_Achievement_Award,5973542]]"
+  - "[[_Standards/WikiData/WD~Hall_of_Fame_of_Delaware_Women,11795562]]"
+  - "[[_Standards/WikiData/WD~ACS_Award_for_Creative_Invention,56294522]]"
+  - "[[_Standards/WikiData/WD~Women_in_Technology_Hall_of_Fame,57647862]]"
+  - "[[_Standards/WikiData/WD~Lavoisier_Medal_for_Lifetime_Technical_Achievement,114847999]]"
 educated_at:
-  - '[[_Standards/WikiData/WD~Massey_University,1134606]]'
-  - '[[_Standards/WikiData/WD~Margaret_Morrison_Carnegie_College,6759742]]'
-place_of_birth: '[[_Standards/WikiData/WD~New_Kensington,1186623]]'
+  - "[[_Standards/WikiData/WD~Massey_University,1134606]]"
+  - "[[_Standards/WikiData/WD~Margaret_Morrison_Carnegie_College,6759742]]"
+place_of_birth: "[[_Standards/WikiData/WD~New_Kensington,1186623]]"
 given_name:
-  - '[[_Standards/WikiData/WD~Stephanie,1291472]]'
-  - '[[_Standards/WikiData/WD~Louise,3215140]]'
-member_of: '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
-oral_history_at: '[[_Standards/WikiData/WD~Science_History_Institute,5090408]]'
-family_name: '[[_Standards/WikiData/WD~Kwolek,6450501]]'
-sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
-place_of_burial: '[[_Standards/WikiData/WD~Saint_Mary_Cemetery,117650830]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Polish,809]]'
-field_of_work: '[[_Standards/WikiData/WD~organic_chemistry,11351]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+  - "[[_Standards/WikiData/WD~Stephanie,1291472]]"
+  - "[[_Standards/WikiData/WD~Louise,3215140]]"
+member_of: "[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]"
+oral_history_at: "[[_Standards/WikiData/WD~Science_History_Institute,5090408]]"
+family_name: "[[_Standards/WikiData/WD~Kwolek,6450501]]"
+sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+place_of_burial: "[[_Standards/WikiData/WD~Saint_Mary_Cemetery,117650830]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Polish,809]]"
+field_of_work: "[[_Standards/WikiData/WD~organic_chemistry,11351]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Poland,36]]'
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Poland,36]]"
 Commons_category: Stephanie Kwolek
 date_of_death: 2014-06-18T00:00:00Z
 date_of_birth: 1923-07-31T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stephanie%20Kwolek%201986.TIF
-ISNI: 0000000050474811
+ISNI: 50474811
 BHCL_UUID: c252e831-593d-4f37-8a2f-64294d3e3cb9
 name_in_kana: ステファニー・クオレク
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Stephanie_L._Kwolek,7509|WD~Stephanie_L._Kwolek,7509]]"
+    - "[[/_Standards/Chemistry/Chemist/Kwolek,Stephanie_L.|Kwolek,Stephanie_L.]]"
+    - "[[/_public/Chemistry/Chemist/Kwolek,Stephanie_L..public|Kwolek,Stephanie_L..public]]"
+    - "[[/_internal/Chemistry/Chemist/Kwolek,Stephanie_L..internal|Kwolek,Stephanie_L..internal]]"
+    - "[[/_protect/Chemistry/Chemist/Kwolek,Stephanie_L..protect|Kwolek,Stephanie_L..protect]]"
+    - "[[/_private/Chemistry/Chemist/Kwolek,Stephanie_L..private|Kwolek,Stephanie_L..private]]"
+    - "[[/_personal/Chemistry/Chemist/Kwolek,Stephanie_L..personal|Kwolek,Stephanie_L..personal]]"
+    - "[[/_secret/Chemistry/Chemist/Kwolek,Stephanie_L..secret|Kwolek,Stephanie_L..secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Stephanie_L._Kwolek,7509|WD~Stephanie_L._Kwolek,7509]]"
+  - "[[/_Standards/Chemistry/Chemist/Kwolek,Stephanie_L.|Kwolek,Stephanie_L.]]"
+  - "[[/_public/Chemistry/Chemist/Kwolek,Stephanie_L..public|Kwolek,Stephanie_L..public]]"
+  - "[[/_internal/Chemistry/Chemist/Kwolek,Stephanie_L..internal|Kwolek,Stephanie_L..internal]]"
+  - "[[/_protect/Chemistry/Chemist/Kwolek,Stephanie_L..protect|Kwolek,Stephanie_L..protect]]"
+  - "[[/_private/Chemistry/Chemist/Kwolek,Stephanie_L..private|Kwolek,Stephanie_L..private]]"
+  - "[[/_personal/Chemistry/Chemist/Kwolek,Stephanie_L..personal|Kwolek,Stephanie_L..personal]]"
+  - "[[/_secret/Chemistry/Chemist/Kwolek,Stephanie_L..secret|Kwolek,Stephanie_L..secret]]"
 ---
 
 # [[Kwolek,Stephanie_L.]] 

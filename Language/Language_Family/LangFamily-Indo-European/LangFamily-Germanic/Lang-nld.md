@@ -151,7 +151,9 @@ short_name:
 # [[Lang-nld]] 
 
 [SpocWebEntityId:: 498 ]
-[has_/name::Dutch]
+
+has_/name::Dutch 
+
 [PropId_Name::798]
 [PropId_Text::698]
 [LangFamilyId::233]

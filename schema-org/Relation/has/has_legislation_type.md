@@ -28,21 +28,22 @@ title: has_legislation_type
 type: Predi_Relation
 ---
 
-[ #has_/part_of :: pending: ]
+#has_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/legislation_type :: CategoryCode, Text ] or 
+- [has_/legislation_type :: CategoryCode, Text ] 
 - [ has_legislation_type :: CategoryCode, Text ] 
 
 The type of the legislation. Examples of values are "law", "act", "directive", "decree", "regulation", "statutory instrument", "loi organique", "r�glement grand-ducal", etc., depending on the country.
 
 Relation describes that: 
-[ #has_/domain  :: Legislation ]
+
+#has_/domain  :: Legislation  
+
 ( #has_/name :: has_legislation_type )
 ( #has_/range :: CategoryCode, Text )
 
-[ #is_/sub_property_of  :: genre ]
-
+#is_/sub_property_of  :: genre  
 
 ## Confidential Links & Embeds: 
 

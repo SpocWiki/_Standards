@@ -11,7 +11,9 @@ type: Lang
 # [[Lang-tel]] 
 
 [SpocWebEntityId:: 461 ]
-[has_/name::Telugu]
+
+has_/name::Telugu 
+
 [PropId_Name::761]
 [PropId_Text::661]
 [LangFamilyId::238]

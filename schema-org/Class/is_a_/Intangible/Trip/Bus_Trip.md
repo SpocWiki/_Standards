@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - bus_trip
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_bus_trip Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_bus_trip Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Trip]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip|Bus_Trip]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.public|Bus_Trip.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.internal|Bus_Trip.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.protect|Bus_Trip.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.private|Bus_Trip.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.personal|Bus_Trip.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.secret|Bus_Trip.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, arrivalBusStop, arrivalTime, busName, busNumber, departureBusStop, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"
+dv_is_sub_class_of: "[[../Trip]]"
+dv_has_properties: "[ additionalType, alternateName, arrivalBusStop, arrivalTime, busName, busNumber, departureBusStop, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip|Bus_Trip]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.public|Bus_Trip.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.internal|Bus_Trip.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.protect|Bus_Trip.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.private|Bus_Trip.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.personal|Bus_Trip.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.secret|Bus_Trip.secret]]"
 ---
 
 Class of all bus_trips.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 A trip on a commercial bus line.
 
-[ #is_/sub_class_of :: [[../Trip]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, arrivalBusStop, arrivalTime, busName, busNumber, departureBusStop, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

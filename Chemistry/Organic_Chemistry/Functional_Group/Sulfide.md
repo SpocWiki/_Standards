@@ -11,12 +11,19 @@ MeSH_tree_code:
   - D01.875.350.850
   - D02.886.520
 Commons_category: Sulfides
+dv_is_:
+  same_as: "[[WD~Sulfide,221205]]"
+dv_has_:
+  formula_:
+    structural: R-S-R'
+dv_is_same_as: "[[WD~Sulfide,221205]]"
+dv_has_formula_structural: R-S-R'
 ---
 
 # [[Sulfide]] 
 
-#is_/same_as :: [[WD~Sulfide,221205]] 
-#has_/formula_/structural :: R-S-R' 
+is_same_as = `=this.dv_is_same_as` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 ## #has_/text_of_/abstract 
 

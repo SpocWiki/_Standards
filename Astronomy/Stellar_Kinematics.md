@@ -3,6 +3,25 @@ aliases:
 has_id_wikidata: Q6440
 described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 subclass_of: "[[_Standards/WikiData/WD~kinematics,11476]]"
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Stellar_kinematics,6440|WD~Stellar_kinematics,6440]]"
+    - "[[/_Standards/Astronomy/Stellar_Kinematics|Stellar_Kinematics]]"
+    - "[[/_public/Astronomy/Stellar_Kinematics.public|Stellar_Kinematics.public]]"
+    - "[[/_internal/Astronomy/Stellar_Kinematics.internal|Stellar_Kinematics.internal]]"
+    - "[[/_protect/Astronomy/Stellar_Kinematics.protect|Stellar_Kinematics.protect]]"
+    - "[[/_private/Astronomy/Stellar_Kinematics.private|Stellar_Kinematics.private]]"
+    - "[[/_personal/Astronomy/Stellar_Kinematics.personal|Stellar_Kinematics.personal]]"
+    - "[[/_secret/Astronomy/Stellar_Kinematics.secret|Stellar_Kinematics.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Stellar_kinematics,6440|WD~Stellar_kinematics,6440]]"
+  - "[[/_Standards/Astronomy/Stellar_Kinematics|Stellar_Kinematics]]"
+  - "[[/_public/Astronomy/Stellar_Kinematics.public|Stellar_Kinematics.public]]"
+  - "[[/_internal/Astronomy/Stellar_Kinematics.internal|Stellar_Kinematics.internal]]"
+  - "[[/_protect/Astronomy/Stellar_Kinematics.protect|Stellar_Kinematics.protect]]"
+  - "[[/_private/Astronomy/Stellar_Kinematics.private|Stellar_Kinematics.private]]"
+  - "[[/_personal/Astronomy/Stellar_Kinematics.personal|Stellar_Kinematics.personal]]"
+  - "[[/_secret/Astronomy/Stellar_Kinematics.secret|Stellar_Kinematics.secret]]"
 ---
 
 # [[Stellar_Kinematics]] 

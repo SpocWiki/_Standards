@@ -31,16 +31,18 @@ type: Pred_Text
 
 Predicate to describe the Text of ProductGroup.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/id_/product_group :: Text ] or 
+- [has_/id_/product_group :: Text ] 
 - [ has_id_product_group :: Text ] 
 
 Indicates a textual identifier for a ProductGroup.
 
 Predicated describes that: 
-[ #has_/domain  :: ProductGroup ]
+
+#has_/domain  :: ProductGroup  
+
 ( #has_/name :: has_id_product_group )
 ( #has_/range :: Text )
 

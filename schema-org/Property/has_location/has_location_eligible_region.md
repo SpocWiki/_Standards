@@ -30,7 +30,7 @@ type: Pred_geo
 Predicate to describe the geo of ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer.
 
 Use it like this: 
-- [ #has_/location_/eligible_region :: GeoShape, Place, Text ] or 
+- [has_/location_/eligible_region :: GeoShape, Place, Text ] 
 - [ has_location_eligible_region :: GeoShape, Place, Text ] 
 
 The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoShape for the geo-political region(s) for which the offer or delivery charge specification is valid.
@@ -40,12 +40,13 @@ The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoSha
 See also [[ineligibleRegion]].
 
 Predicate describes that: 
-[ #has_/domain  :: ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer ]
+
+#has_/domain  :: ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer  
+
 ( #has_/name :: has_location_eligible_region )
 ( #has_/range :: GeoShape, Place, Text )
 
-[ #is_/sub_property_of  :: areaServed ]
-
+#is_/sub_property_of  :: areaServed  
 
 ## Confidential Links & Embeds: 
 

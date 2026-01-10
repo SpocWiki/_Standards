@@ -12,22 +12,39 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - time
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_time Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
   - class/data_type
 title: is_a_time Class
 type: Type
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day|Time_of_Day]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day.public|Time_of_Day.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day.internal|Time_of_Day.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day.protect|Time_of_Day.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Time_of_Day.private|Time_of_Day.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Time_of_Day.personal|Time_of_Day.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day.secret|Time_of_Day.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day|Time_of_Day]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day.public|Time_of_Day.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day.internal|Time_of_Day.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day.protect|Time_of_Day.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Time_of_Day.private|Time_of_Day.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Time_of_Day.personal|Time_of_Day.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day.secret|Time_of_Day.secret]]"
 ---
 
 # [[Time_of_Day]] 

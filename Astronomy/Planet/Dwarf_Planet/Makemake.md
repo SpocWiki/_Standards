@@ -53,6 +53,25 @@ Commons_category: 136472 Makemake
 provisional_designation: 2005 FY9
 IMDb_keyword: dwarf-planet-makemake
 Baidu_Tieba_name: 鸟神星
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Makemake,604]]"
+    - "[[/_Standards/Astronomy/Planet/Dwarf_Planet/Makemake|Makemake]]"
+    - "[[/_public/Astronomy/Planet/Dwarf_Planet/Makemake.public|Makemake.public]]"
+    - "[[/_internal/Astronomy/Planet/Dwarf_Planet/Makemake.internal|Makemake.internal]]"
+    - "[[/_protect/Astronomy/Planet/Dwarf_Planet/Makemake.protect|Makemake.protect]]"
+    - "[[/_private/Astronomy/Planet/Dwarf_Planet/Makemake.private|Makemake.private]]"
+    - "[[/_personal/Astronomy/Planet/Dwarf_Planet/Makemake.personal|Makemake.personal]]"
+    - "[[/_secret/Astronomy/Planet/Dwarf_Planet/Makemake.secret|Makemake.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Makemake,604]]"
+  - "[[/_Standards/Astronomy/Planet/Dwarf_Planet/Makemake|Makemake]]"
+  - "[[/_public/Astronomy/Planet/Dwarf_Planet/Makemake.public|Makemake.public]]"
+  - "[[/_internal/Astronomy/Planet/Dwarf_Planet/Makemake.internal|Makemake.internal]]"
+  - "[[/_protect/Astronomy/Planet/Dwarf_Planet/Makemake.protect|Makemake.protect]]"
+  - "[[/_private/Astronomy/Planet/Dwarf_Planet/Makemake.private|Makemake.private]]"
+  - "[[/_personal/Astronomy/Planet/Dwarf_Planet/Makemake.personal|Makemake.personal]]"
+  - "[[/_secret/Astronomy/Planet/Dwarf_Planet/Makemake.secret|Makemake.secret]]"
 ---
 
 # [[Makemake]] 

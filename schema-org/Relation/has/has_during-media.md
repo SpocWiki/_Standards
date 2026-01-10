@@ -35,13 +35,15 @@ type: Predi_Relation
 #is_/similar_to :: [[has_before-media]] 
 
 Use it like this: 
-- [ #has_/during-media :: MediaObject, URL ] or 
+- [has_/during-media :: MediaObject, URL ] 
 - [ has_during-media :: MediaObject, URL ] 
 
 A media object representing the circumstances while performing this direction.
 
 Relation describes that: 
-[ #has_/domain  :: HowToDirection ]
+
+#has_/domain  :: HowToDirection  
+
 ( #has_/name :: has_during-media )
 ( #has_/range :: MediaObject, URL )
 

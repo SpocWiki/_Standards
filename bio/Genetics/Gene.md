@@ -88,16 +88,16 @@ Class of all genes.
 Tag Instances like this: 
 #is_a_/gene
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A discrete unit of inheritance which affects one or more biological traits 
 (Source: wikipedia: https://en.wikipedia.org/wiki/Gene). 
 
 Examples include FOXP2 (Forkhead box protein P2), SCARNA21 (small Cajal body-specific RNA 21), A- (agouti genotype).
 
-[ #is_/sub_class_of :: [[../../schema-org/Class/is_a_/Bio_Chem_Entity]] ]
+#is_/sub_class_of :: [[../../schema-org/Class/is_a_/Bio_Chem_Entity]]  
 
-[ #has_/properties :: [ additionalType, alternateName, alternativeOf, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, encodesBioChemEntity, expressedIn, funding, hasBioChemEntityPart, hasBioPolymerSequence, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ] ]
+#has_/properties :: [ additionalType, alternateName, alternativeOf, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, encodesBioChemEntity, expressedIn, funding, hasBioChemEntityPart, hasBioPolymerSequence, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Gene,7187|WD~Gene,7187]] 
 ## #has_/text_of_/abstract 

@@ -67,7 +67,9 @@ ISO_639_6_code: ineu
 # [[LangFamily-Indo-European]] 
 
  [SpocWebEntityId:: 233 ]
-[has_/name::Indo-European ]
+
+has_/name::Indo-European  
+
 #is_/same_as :: [[../../WikiData/WD~Indo-European,19860|WD~Indo-European,19860]] 
 
 ## #has_/text_of_/abstract  

@@ -6,22 +6,52 @@ aliases:
   - Altpaläolithikum
   - Lower_Paleolithic
 has_id_wikidata: Q7463501
-instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
+instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
 end_time: -300000-01-01T00:00:00Z
 start_time: -3300000-01-01T00:00:00Z
 Commons_category: Lower Paleolithic
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lower%20Palaeolithic.jpg
+dv_has_:
+  time_:
+    started: "-3.3e6"
+    stopped: "-0.3e6"
+  duration_:
+    years: 3000000
+    Ma: 3
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Lower_Paleolithic,7463501|WD~Lower_Paleolithic,7463501]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic|Lower_Paleolithic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.public|Lower_Paleolithic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.internal|Lower_Paleolithic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.protect|Lower_Paleolithic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.private|Lower_Paleolithic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.personal|Lower_Paleolithic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.secret|Lower_Paleolithic.secret]]"
+dv_has_time_started: "-3.3e6"
+dv_has_time_stopped: "-0.3e6"
+dv_has_duration_years: 3000000
+dv_has_duration_ma: 3
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Lower_Paleolithic,7463501|WD~Lower_Paleolithic,7463501]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic|Lower_Paleolithic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.public|Lower_Paleolithic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.internal|Lower_Paleolithic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.protect|Lower_Paleolithic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.private|Lower_Paleolithic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.personal|Lower_Paleolithic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian/Lower_Paleolithic.secret|Lower_Paleolithic.secret]]"
 ---
 
 # [[Lower_Paleolithic]] 
 
 #is_a_/time_/Culture 
 
-#has_/time_/started :: -3.3e6 
-#has_/time_/stopped :: -0.3e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
-#has_/duration_/Ma :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
+#has_/duration_/years :: `$=Math.round((Number(dv.current().dv_has_time_stopped) - dv.current().dv_has_time_started))` 
+#has_/duration_/Ma :: `=number(this.dv_has_time_stopped) - number(this.dv_has_time_started)` 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Lower_Paleolithic,7463501|WD~Lower_Paleolithic,7463501]] 
 
 ## #has_/text_of_/abstract  

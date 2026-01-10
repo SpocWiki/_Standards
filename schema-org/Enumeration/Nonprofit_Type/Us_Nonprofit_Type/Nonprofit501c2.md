@@ -9,21 +9,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - nonprofit501c2
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_nonprofit501c2 Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_nonprofit501c2 Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../USNonprofitType]]"
+  enum_of: "[[../USNonprofitType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2|Nonprofit501c2]]"
+    - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.public|Nonprofit501c2.public]]"
+    - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.internal|Nonprofit501c2.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.protect|Nonprofit501c2.protect]]"
+    - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.private|Nonprofit501c2.private]]"
+    - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.personal|Nonprofit501c2.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.secret|Nonprofit501c2.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../USNonprofitType]]"
+dv_is_enum_of: "[[../USNonprofitType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2|Nonprofit501c2]]"
+  - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.public|Nonprofit501c2.public]]"
+  - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.internal|Nonprofit501c2.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.protect|Nonprofit501c2.protect]]"
+  - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.private|Nonprofit501c2.private]]"
+  - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.personal|Nonprofit501c2.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c2.secret|Nonprofit501c2.secret]]"
 ---
 
 Class of all nonprofit501c2s.
@@ -31,14 +54,13 @@ Class of all nonprofit501c2s.
 Tag Instances like this: 
 #is_a_/nonprofit501c2
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Nonprofit501c2: Non-profit type referring to Title-holding Corporations for Exempt Organizations.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

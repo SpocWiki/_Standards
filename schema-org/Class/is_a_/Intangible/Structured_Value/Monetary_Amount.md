@@ -10,22 +10,44 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - monetary_amount
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_monetary_amount Class
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: DatedMoneySpecification
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_monetary_amount Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../StructuredValue]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.public|Monetary_Amount.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.internal|Monetary_Amount.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.protect|Monetary_Amount.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.private|Monetary_Amount.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.personal|Monetary_Amount.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.secret|Monetary_Amount.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ]"
+dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.public|Monetary_Amount.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.internal|Monetary_Amount.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.protect|Monetary_Amount.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.private|Monetary_Amount.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.personal|Monetary_Amount.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.secret|Monetary_Amount.secret]]"
 ---
 
 Class of all [[monetary_amount]]-Values.
@@ -41,10 +63,9 @@ or the value of a salary, etc.
 It is recommended to use [[../../../../Relation/has/has_price_specification|price-specification]] Types 
 to describe the price of an Offer, Invoice, etc.
 
-[ #is_/sub_class_of :: [[../StructuredValue]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

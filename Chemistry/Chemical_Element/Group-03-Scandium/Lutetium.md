@@ -7,7 +7,7 @@ aliases:
   - Lutetium
 has_id_wikidata: Q1857
 atomic_number: 71
-canonical_SMILES: '[Lu]'
+canonical_SMILES: "[Lu]"
 CAS_Registry_Number: 7439-94-3
 chemical_formula: Lu
 Commons_category: Lutetium
@@ -17,11 +17,11 @@ Common_Procurement_Vocabulary_code:
   - 14752000
 CPV_Supplementary_code: AA24
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]'
-  - '[[_Standards/WikiData/WD~Georges_Urbain,560404]]'
+  - "[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]"
+  - "[[_Standards/WikiData/WD~Georges_Urbain,560404]]"
 DSSTOX_compound_identifier: DTXCID9027730
 EC_number: 231-103-0
 electronegativity: 1
@@ -31,7 +31,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lutetium%20sublimed%20
 InChI: InChI=1S/Lu
 InChIKey: OHSVLFRHMCKCQY-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.86
   - 0.97
@@ -40,20 +40,100 @@ MeSH_tree_code:
   - D01.268.558.362.562
   - D01.268.956.311
   - D01.552.550.399.562
-named_after: '[[_Standards/WikiData/WD~Lutetia,270273]]'
+named_after: "[[_Standards/WikiData/WD~Lutetia,270273]]"
 OmegaWiki_Defined_Meaning: 161929
 oxidation_state: 3
 part_of:
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
-  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
 PubChem_CID: 23929
 SpocWebEntityId: 21967
 time_of_discovery_or_invention: 1906
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_lutetium,8085411]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_lutetium,8085411]]"
 type: Element
 UMLS_CUI: C0024170
 Unicode_character: 鎦
 UNII: 5H0DOZ21UJ
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Lutetium,1857]]"
+    - "[[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium|Lutetium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.public|Lutetium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.internal|Lutetium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.protect|Lutetium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.private|Lutetium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.personal|Lutetium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.secret|Lutetium.secret]]"
+  part_of: "[[../Group-03-Scandium]]"
+dv_has_:
+  name_:
+    group: Group-03-Scandium
+    en: Lutetium
+    de: Lutetium
+    abbreviated: Lu
+  value_for_:
+    weight_:
+      u: 174.967
+    radius: 2.25
+    volume_:
+      ccm_:
+        mol: 17.78
+    unknown2: 1.56
+    radius_:
+      nano_:
+        m: 5.43
+    electronegativity: 1.3
+    density: 9.84
+    temperature_:
+      melt_:
+        c: 1656
+      boil_:
+        c: 3315
+    capacity_:
+      heat: 0.15
+    conductivity_:
+      heat: 0.164
+    enthalpy: 18.6
+    energy_:
+      form_:
+        kj_:
+          mol: 355.9
+  number_of_:
+    period: 6
+    group: 37
+    electrons: 71
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Lutetium,1857]]"
+  - "[[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium|Lutetium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.public|Lutetium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.internal|Lutetium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.protect|Lutetium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.private|Lutetium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.personal|Lutetium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.secret|Lutetium.secret]]"
+dv_has_name_group: Group-03-Scandium
+dv_is_part_of: "[[../Group-03-Scandium]]"
+dv_has_name_en: Lutetium
+dv_has_name_de: Lutetium
+dv_has_name_abbreviated: Lu
+dv_has_value_for_weight_u: 174.967
+dv_has_value_for_radius: 2.25
+dv_has_value_for_volume_ccm_mol: 17.78
+dv_has_value_for_unknown2: 1.56
+dv_has_value_for_radius_nano_m: 5.43
+dv_has_value_for_electronegativity: 1.3
+dv_has_value_for_density: 9.84
+dv_has_value_for_temperature_melt_c: 1656
+dv_has_value_for_temperature_boil_c: 3315
+dv_has_value_for_capacity_heat: 0.15
+dv_has_value_for_conductivity_heat: 0.164
+dv_has_value_for_enthalpy: 18.6
+dv_has_value_for_energy_form_kj_mol: 355.9
+dv_has_number_of_period: 6
+dv_has_number_of_group: 37
+dv_has_number_of_electrons: 71
 ---
 
 # [[Lutetium]] 
@@ -61,28 +141,37 @@ UNII: 5H0DOZ21UJ
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Lutetium,1857]] 
 
-[GroupName::Group-03-Scandium]
-Group::[[../Group-03-Scandium]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-[#has_/name_/en::Lutetium]
-[#has_/name_/de::Lutetium]
-(Abbr::Lu)
-[#has_/value_for_/weight_/u::174.967]
-[AtomRadius::2.25]
-[Atom-Vol-ccm-mol::17.78]
-[Unknown2::1.56]
-[#has_/value_for_/radius_/nano_/m::5.43]
-[Electronegative::1.3]
-[Density::9.84]
-[#has_/value_for_/temperature_/melt_/c ::1656]
-[#has_/value_for_/temperature_/boil_/c ::3315]
-[HeatCapacity::0.15]
-[HeatConduct::0.164]
-[Enthalpy::18.6]
-[FormEnergy-kj-mol::355.9]
-(PeriodNo::6)
-(GroupNo::37)
-(Charge-e::71)
+has_name_en = `=this.dv_has_name_en` 
+
+has_name_de = `=this.dv_has_name_de` 
+
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 #is_/same_as :: [[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]] 
 

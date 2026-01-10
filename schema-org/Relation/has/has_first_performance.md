@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - first
   - performance
   - first_performance
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_first_performance
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_first_performance
 type: Predi_Relation
+dv_has_:
+  first_performance: Event
+  domain: MusicComposition
+dv_has_first_performance: Event
+dv_#has_:
+  name: has_first_performance
+  range: Event
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_first_performance|has_first_performance]]"
+    - "[[/_public/schema-org/Relation/has/has_first_performance.public|has_first_performance.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_first_performance.internal|has_first_performance.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_first_performance.protect|has_first_performance.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_first_performance.private|has_first_performance.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_first_performance.personal|has_first_performance.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_first_performance.secret|has_first_performance.secret]]"
+dv_has_domain: MusicComposition
+dv_has_name: has_first_performance
+dv_has_range: Event
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_first_performance|has_first_performance]]"
+  - "[[/_public/schema-org/Relation/has/has_first_performance.public|has_first_performance.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_first_performance.internal|has_first_performance.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_first_performance.protect|has_first_performance.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_first_performance.private|has_first_performance.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_first_performance.personal|has_first_performance.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_first_performance.secret|has_first_performance.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/first_performance :: Event ] or 
-- [ has_first_performance :: Event ] 
+- has_first_performance = `=this.dv_has_first_performance`  
+- has_first_performance = `=this.dv_has_first_performance`  
 
 The date and place the work was first performed.
 
 Relation describes that: 
-[ #has_/domain  :: MusicComposition ]
-( #has_/name :: has_first_performance )
-( #has_/range :: Event )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

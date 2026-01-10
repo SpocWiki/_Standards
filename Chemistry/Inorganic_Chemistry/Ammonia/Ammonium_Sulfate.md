@@ -44,12 +44,35 @@ MeSH_tree_code:
   - D01.875.800.800.850.050
 DSSTOX_compound_identifier: DTXCID909704
 chemical_formula: H₈N₂O₄S
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ammonium_sulfate,191831|WD~Ammonium_sulfate,191831]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate|Ammonium_Sulfate]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.public|Ammonium_Sulfate.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.internal|Ammonium_Sulfate.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.protect|Ammonium_Sulfate.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.private|Ammonium_Sulfate.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.personal|Ammonium_Sulfate.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.secret|Ammonium_Sulfate.secret]]"
+dv_has_:
+  text_of_:
+    molecular_formula: (NH4)2SO4
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ammonium_sulfate,191831|WD~Ammonium_sulfate,191831]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate|Ammonium_Sulfate]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.public|Ammonium_Sulfate.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.internal|Ammonium_Sulfate.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.protect|Ammonium_Sulfate.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.private|Ammonium_Sulfate.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.personal|Ammonium_Sulfate.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.secret|Ammonium_Sulfate.secret]]"
+dv_has_text_of_molecular_formula: (NH4)2SO4
 ---
 
 # [[Ammonium_Sulfate]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ammonium_sulfate,191831|WD~Ammonium_sulfate,191831]] 
-#has_/text_of_/molecular_formula :: (NH4)2SO4 
+has_text_of_molecular_formula = `=this.dv_has_text_of_molecular_formula` 
 ## #has_/formula_/structural 
 
 ```

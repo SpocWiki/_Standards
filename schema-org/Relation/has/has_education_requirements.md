@@ -28,16 +28,18 @@ title: has_education_requirements
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/education_requirements :: EducationalOccupationalCredential, Text ] or 
+- [has_/education_requirements :: EducationalOccupationalCredential, Text ] 
 - [ has_education_requirements :: EducationalOccupationalCredential, Text ] 
 
 Educational background needed for the position or Occupation.
 
 Relation describes that: 
-[ #has_/domain  :: JobPosting, Occupation ]
+
+#has_/domain  :: JobPosting, Occupation  
+
 ( #has_/name :: has_education_requirements )
 ( #has_/range :: EducationalOccupationalCredential, Text )
 

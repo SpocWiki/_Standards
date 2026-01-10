@@ -27,13 +27,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/consumable_for :: Product] or 
+- [is_/consumable_for :: Product] 
 - [ is_consumable_for :: Product] 
 
 A pointer to another product (or multiple products) for which this product is a consumable.
 
 Relation describes that: 
-[ #has_/domain  :: Product]
+
+#has_/domain  :: Product 
+
 ( #has_/name :: is_consumable_for)
 ( #has_/range :: Product)
 

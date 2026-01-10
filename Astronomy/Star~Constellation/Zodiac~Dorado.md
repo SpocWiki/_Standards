@@ -1,3 +1,34 @@
+---
+dv_SpocWebEntityId: 28115
+dv_#has_:
+  name_:
+    la: Dorado
+    la_:
+      genitive: Doradus
+    de: Schwertfisch
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Dorado,8837]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado|Zodiac~Dorado]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public|Zodiac~Dorado.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal|Zodiac~Dorado.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Dorado.protect|Zodiac~Dorado.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Dorado.private|Zodiac~Dorado.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Dorado.personal|Zodiac~Dorado.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Dorado.secret|Zodiac~Dorado.secret]]"
+dv_has_name_la: Dorado
+dv_has_name_la_genitive: Doradus
+dv_has_name_de: Schwertfisch
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Dorado,8837]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado|Zodiac~Dorado]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public|Zodiac~Dorado.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal|Zodiac~Dorado.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Dorado.protect|Zodiac~Dorado.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Dorado.private|Zodiac~Dorado.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Dorado.personal|Zodiac~Dorado.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Dorado.secret|Zodiac~Dorado.secret]]"
+---
 ﻿---
 has_time_started: 1598-01-01 
 aliases:
@@ -40,11 +71,11 @@ short_name: Dor
 
 # [[Zodiac~Dorado]] 
 
-[SpocWebEntityId::28115]
+SpocWebEntityId = `=this.dv_SpocWebEntityId` 
 
-[#has_/name_/la::Dorado]
-[#has_/name_/la_/genitive::Doradus] 
-[#has_/name_/de::Schwertfisch] 
+has_name_la = `=this.dv_has_name_la` 
+has_name_la_genitive = `=this.dv_has_name_la_genitive`  
+has_name_de = `=this.dv_has_name_de`  
 
 #is_/same_as :: [[_Standards/WikiData/WD~Dorado,8837]] 
 

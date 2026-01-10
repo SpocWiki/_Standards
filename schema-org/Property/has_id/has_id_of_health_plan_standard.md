@@ -33,16 +33,18 @@ type: Pred_Text
 
 Predicate to describe the Text of HealthInsurancePlan.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/id_/of_health_plan_standard :: Text, URL ] or 
+- [has_/id_/of_health_plan_standard :: Text, URL ] 
 - [ has_id_of_health_plan_standard :: Text, URL ] 
 
 The standard for interpreting the Plan ID. The preferred is "HIOS". See the Centers for Medicare & Medicaid Services for more details.
 
 Predicated describes that: 
-[ #has_/domain  :: HealthInsurancePlan ]
+
+#has_/domain  :: HealthInsurancePlan  
+
 ( #has_/name :: has_id_of_health_plan_standard )
 ( #has_/range :: Text, URL )
 

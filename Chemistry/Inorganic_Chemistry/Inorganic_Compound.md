@@ -15,6 +15,25 @@ studied_by: "[[_Standards/WikiData/WD~inorganic_chemistry,11165]]"
 MeSH_tree_code: D01
 UMLS_CUI: C0021521
 Commons_category: Inorganic compounds
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Inorganic_compound,190065|WD~Inorganic_compound,190065]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Inorganic_Compound|Inorganic_Compound]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Inorganic_Compound.public|Inorganic_Compound.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Inorganic_Compound.internal|Inorganic_Compound.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Inorganic_Compound.protect|Inorganic_Compound.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Inorganic_Compound.private|Inorganic_Compound.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Inorganic_Compound.personal|Inorganic_Compound.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Inorganic_Compound.secret|Inorganic_Compound.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Inorganic_compound,190065|WD~Inorganic_compound,190065]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Inorganic_Compound|Inorganic_Compound]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Inorganic_Compound.public|Inorganic_Compound.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Inorganic_Compound.internal|Inorganic_Compound.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Inorganic_Compound.protect|Inorganic_Compound.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Inorganic_Compound.private|Inorganic_Compound.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Inorganic_Compound.personal|Inorganic_Compound.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Inorganic_Compound.secret|Inorganic_Compound.secret]]"
 ---
 
 # [[Inorganic_Compound]] 

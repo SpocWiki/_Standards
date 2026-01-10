@@ -27,21 +27,22 @@ title: has_appearance_in
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/appearance :: CreativeWork ] or 
+- [has_/appearance :: CreativeWork ] 
 - [ has_appearance_in :: CreativeWork ] 
 
 Indicates an occurrence of a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim]] in some [[CreativeWork]].
 
 Relation describes that: 
-[ #has_/domain  :: Claim ]
+
+#has_/domain  :: Claim  
+
 ( #has_/name :: has_appearance_in )
 ( #has_/range :: CreativeWork )
 
-[ #is_/sub_property_of  :: workExample ]
-
+#is_/sub_property_of  :: workExample  
 
 ## Confidential Links & Embeds: 
 

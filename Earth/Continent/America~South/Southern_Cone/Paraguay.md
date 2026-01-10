@@ -346,7 +346,7 @@ dv_ISO4217-currency_country_name: PARAGUAY
 dv_Telephone: 595
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Paraguay
+dv_has_name: Paraguay
 dv_has_name_en: Paraguay
 dv_has_name_es: Paraguay
 dv_has_name_fr: Paraguay
@@ -440,7 +440,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Paraguay ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

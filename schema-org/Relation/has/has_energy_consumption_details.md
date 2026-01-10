@@ -30,16 +30,18 @@ title: has_energy_consumption_details
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/energy_consumption_details :: EnergyConsumptionDetails ] or 
+- [has_/energy_consumption_details :: EnergyConsumptionDetails ] 
 - [ has_energy_consumption_details :: EnergyConsumptionDetails ] 
 
 Defines the energy efficiency Category (also known as "class" or "rating") for a product according to an international energy efficiency standard.
 
 Relation describes that: 
-[ #has_/domain  :: Product ]
+
+#has_/domain  :: Product  
+
 ( #has_/name :: has_energy_consumption_details )
 ( #has_/range :: EnergyConsumptionDetails )
 

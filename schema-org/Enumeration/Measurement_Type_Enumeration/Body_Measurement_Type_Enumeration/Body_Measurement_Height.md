@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: BodyMeasurementTypeEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - body_measurement_height
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_body_measurement_height Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_body_measurement_height Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../BodyMeasurementTypeEnumeration]]"
+  enum_of: "[[../BodyMeasurementTypeEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height|Body_Measurement_Height]]"
+    - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.public|Body_Measurement_Height.public]]"
+    - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.internal|Body_Measurement_Height.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.protect|Body_Measurement_Height.protect]]"
+    - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.private|Body_Measurement_Height.private]]"
+    - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.personal|Body_Measurement_Height.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.secret|Body_Measurement_Height.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../BodyMeasurementTypeEnumeration]]"
+dv_is_enum_of: "[[../BodyMeasurementTypeEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height|Body_Measurement_Height]]"
+  - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.public|Body_Measurement_Height.public]]"
+  - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.internal|Body_Measurement_Height.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.protect|Body_Measurement_Height.protect]]"
+  - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.private|Body_Measurement_Height.private]]"
+  - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.personal|Body_Measurement_Height.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Height.secret|Body_Measurement_Height.secret]]"
 ---
 
 Class of all body_measurement_heights.
@@ -33,14 +56,13 @@ Class of all body_measurement_heights.
 Tag Instances like this: 
 #is_a_/body_measurement_height
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Body height (measured between crown of head and soles of feet). Used, for example, to fit jackets.
 
-[ #is_/sub_class_of :: [[../BodyMeasurementTypeEnumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

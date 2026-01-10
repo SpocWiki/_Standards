@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/replacee :: [Thing](../../../Class/Thing.md) ] or 
+- [has_/replacee :: [Thing](../../../Class/Thing.md) ] 
 - [ has_replacee :: [Thing](../../../Class/Thing.md) ] 
 
 A sub property of object. The object that is being replaced.
@@ -35,8 +35,7 @@ Relation describes that:
 ( #has_/name :: has_replacee )
 ( #has_/range :: Thing )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

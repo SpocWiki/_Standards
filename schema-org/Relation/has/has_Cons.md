@@ -3,6 +3,35 @@ aliases:
   - Challenge
   - has_Cons
   - has Cons
+dv_has_:
+  Cons: "[[../../Collection]]"
+  domain: "[[../../Class|Class]]"
+dv_has_Cons: "[[../../Collection]]"
+dv_#has_:
+  name: "[[has_Cons]]"
+  range: "[[../../Collection]]"
+dv_is_:
+  inverse_of: is_inhibiting
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_Cons|has_Cons]]"
+    - "[[/_public/schema-org/Relation/has/has_Cons.public|has_Cons.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_Cons.internal|has_Cons.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_Cons.protect|has_Cons.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_Cons.private|has_Cons.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_Cons.personal|has_Cons.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_Cons.secret|has_Cons.secret]]"
+dv_has_domain: "[[../../Class|Class]]"
+dv_has_name: "[[has_Cons]]"
+dv_has_range: "[[../../Collection]]"
+dv_is_inverse_of: is_inhibiting
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_Cons|has_Cons]]"
+  - "[[/_public/schema-org/Relation/has/has_Cons.public|has_Cons.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_Cons.internal|has_Cons.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_Cons.protect|has_Cons.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_Cons.private|has_Cons.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_Cons.personal|has_Cons.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_Cons.secret|has_Cons.secret]]"
 ---
 
 Enumerates negative, inhibiting Reasons for this Statement. 
@@ -14,15 +43,17 @@ Usually this is complemented by [[has_Pros]],
 to be able to weigh a Decision in a [[../../../../_protect/Society/Communication/Media/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
 
 Use it like this: 
-- [ #has_/Cons :: [[../../Collection]] ] or 
-- [ has_Cons :: [[../../Collection]]] 
+- has_Cons = `=this.dv_has_Cons` ] ] 
+- has_Cons = `=this.dv_has_Cons` ]] 
 
 Relation describes that: 
-[ #has_/domain  :: [[../../Class|Class]] ]
-( #has_/name :: [[has_Cons]] )
-( #has_/range :: [[../../Collection]] )
 
-[ #is_/inverse_of  :: is_inhibiting ] 
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
+
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 The Name is derived from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
 'contra'. 

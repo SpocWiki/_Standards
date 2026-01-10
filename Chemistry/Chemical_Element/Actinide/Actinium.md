@@ -3,31 +3,31 @@ aliases:
   - Actinium
 has_id_wikidata: Q1121
 atomic_number: 89
-canonical_SMILES: '[Ac]'
+canonical_SMILES: "[Ac]"
 CAS_Registry_Number: 7440-34-8
 chemical_formula: Ac
 Commons_category: Actinium
 Commons_gallery: Actinium
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 Dewey_Decimal_Classification:
   - 546.421
   - 669.2921
-discoverer_or_inventor: '[[_Standards/WikiData/WD~André-Louis_Debierne,468371]]'
+discoverer_or_inventor: "[[_Standards/WikiData/WD~André-Louis_Debierne,468371]]"
 DSSTOX_compound_identifier: DTXCID10147879
 electronegativity: 1.1
 element_symbol: Ac
-has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Actinium%20sample%20%2831481701837%29.png
 InChI: InChI=1S/Ac
 InChIKey: QQINRWTZWGJFDB-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius: 112
 ionization_energy:
   - 1170
@@ -39,13 +39,13 @@ MeSH_tree_code:
   - D01.496.749.305.100.033
   - D01.552.020.042
   - D01.552.544.025
-named_after: '[[_Standards/WikiData/WD~light_beam,2493660]]'
+named_after: "[[_Standards/WikiData/WD~light_beam,2493660]]"
 OmegaWiki_Defined_Meaning: 33
 oxidation_state: 3
 part_of:
-  - '[[_Standards/WikiData/WD~group_3,108307]]'
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828445,22828445]]'
+  - "[[_Standards/WikiData/WD~group_3,108307]]"
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828445,22828445]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20152.jpg
 PubChem_CID: 23965
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20089%20Actinium.svg
@@ -54,6 +54,84 @@ time_of_discovery_or_invention: 1899
 type: Element
 Unicode_character: 錒
 UNII: NIK1K0956U
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Actinium,1121]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Actinium|Actinium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Actinide/Actinium.public|Actinium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Actinium.internal|Actinium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Actinium.protect|Actinium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Actinide/Actinium.private|Actinium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Actinium.personal|Actinium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Actinium.secret|Actinium.secret]]"
+  part_of: "[[../Actinide]]"
+dv_has_:
+  name_:
+    group: Actinide-Group
+    en: Actinium
+    de: Actinium
+    abbreviated: Ac
+  value_for_:
+    weight_:
+      u: 227
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 22.54
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 5.17
+    electronegativity: 1.1
+    density: 10.07
+    temperature_:
+      melt_:
+        c: 1050
+      boil_:
+        c: 3200
+    capacity_:
+      heat: 0
+    conductivity_:
+      heat: 0.12
+    enthalpy: 0
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 3
+    electrons: 89
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Actinium,1121]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Actinium|Actinium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Actinide/Actinium.public|Actinium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Actinium.internal|Actinium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Actinium.protect|Actinium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Actinide/Actinium.private|Actinium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Actinium.personal|Actinium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Actinium.secret|Actinium.secret]]"
+dv_has_name_group: Actinide-Group
+dv_is_part_of: "[[../Actinide]]"
+dv_has_name_en: Actinium
+dv_has_name_de: Actinium
+dv_has_value_for_weight_u: 227
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 22.54
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 5.17
+dv_has_value_for_electronegativity: 1.1
+dv_has_value_for_density: 10.07
+dv_has_value_for_temperature_melt_c: 1050
+dv_has_value_for_temperature_boil_c: 3200
+dv_has_value_for_capacity_heat: 0
+dv_has_value_for_conductivity_heat: 0.12
+dv_has_value_for_enthalpy: 0
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 3
+dv_has_name_abbreviated: Ac
+dv_has_number_of_electrons: 89
 ---
 
 # [[Actinium]]
@@ -62,31 +140,38 @@ UNII: NIK1K0956U
 
 
 #chemic/Element 
-[GroupName::Actinide-Group]
-Group::[[../Actinide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Actinium]
-[#has_/name_/de::Actinium]
-[#has_/value_for_/weight_/u::227]
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::22.54]
-[Unknown2::0]
-[#has_/value_for_/radius_/nano_/m::5.17]
-[Electronegative::1.1]
-[Density::10.07]
-[#has_/value_for_/temperature_/melt_/c ::1050]
-[#has_/value_for_/temperature_/boil_/c ::3200]
-[HeatCapacity::0]
-[HeatConduct::0.12]
-[Enthalpy::0]
-[FormEnergy-kj-mol::0]
-(PeriodNo::7)
-(GroupNo::3)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 ## #has_/text_of_/abstract 
 
-> **Actinium** is a chemical element with the symbol (Abbr::Ac) and atomic number (Charge-e::89). 
+> **Actinium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It was first isolated by Friedrich Oskar Giesel in 1902, who gave it the name emanium; 
 > the element got its name by being wrongly identified 
 > with a substance André-Louis Debierne found in 1899 and called actinium. 

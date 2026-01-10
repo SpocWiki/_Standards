@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin|Oxytocin]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.public|Oxytocin.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.internal|Oxytocin.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.protect|Oxytocin.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.private|Oxytocin.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.personal|Oxytocin.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.secret|Oxytocin.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin|Oxytocin]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.public|Oxytocin.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.internal|Oxytocin.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.protect|Oxytocin.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.private|Oxytocin.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.personal|Oxytocin.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.secret|Oxytocin.secret]]"
+---
 
 ## #has_/text_of_/abstract 
 

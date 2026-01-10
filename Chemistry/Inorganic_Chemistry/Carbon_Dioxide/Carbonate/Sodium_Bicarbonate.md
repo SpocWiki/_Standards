@@ -16,38 +16,38 @@ E_number: E500(ii)
 Commons_category: Sodium bicarbonate
 RTECS_number: VZ0950000
 has_use:
-  - '[[_Standards/WikiData/WD~food_additive,189567]]'
-  - '[[_Standards/WikiData/WD~abrasive,372301]]'
-  - '[[_Standards/WikiData/WD~raising_agent,908833]]'
-  - '[[_Standards/WikiData/WD~cleaning_product,1974312]]'
-  - '[[_Standards/WikiData/WD~buffering_agent,2826769]]'
-  - '[[_Standards/WikiData/WD~soda_blasting,7553210]]'
-  - '[[_Standards/WikiData/WD~intravenous_sodium_bicarbonate,17147112]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
+  - "[[_Standards/WikiData/WD~food_additive,189567]]"
+  - "[[_Standards/WikiData/WD~abrasive,372301]]"
+  - "[[_Standards/WikiData/WD~raising_agent,908833]]"
+  - "[[_Standards/WikiData/WD~cleaning_product,1974312]]"
+  - "[[_Standards/WikiData/WD~buffering_agent,2826769]]"
+  - "[[_Standards/WikiData/WD~soda_blasting,7553210]]"
+  - "[[_Standards/WikiData/WD~intravenous_sodium_bicarbonate,17147112]]"
+  - "[[_Standards/WikiData/WD~medication,12140]]"
 medical_condition_treated:
-  - '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
-  - '[[_Standards/WikiData/WD~gastroesophageal_reflux_disease,223591]]'
-  - '[[_Standards/WikiData/WD~heartburn,537297]]'
-  - '[[_Standards/WikiData/WD~indigestion,653971]]'
-  - '[[_Standards/WikiData/WD~renal_tubular_acidosis,1516211]]'
+  - "[[_Standards/WikiData/WD~cardiac_arrest,202837]]"
+  - "[[_Standards/WikiData/WD~gastroesophageal_reflux_disease,223591]]"
+  - "[[_Standards/WikiData/WD~heartburn,537297]]"
+  - "[[_Standards/WikiData/WD~indigestion,653971]]"
+  - "[[_Standards/WikiData/WD~renal_tubular_acidosis,1516211]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~bicarbonate_ion,409202]]'
-  - '[[_Standards/WikiData/WD~sodium_ion,3154110]]'
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~carbon,623]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
+  - "[[_Standards/WikiData/WD~bicarbonate_ion,409202]]"
+  - "[[_Standards/WikiData/WD~sodium_ion,3154110]]"
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~carbon,623]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~acid_salt,622311]]'
-  - '[[_Standards/WikiData/WD~sodium_salt,1508568]]'
-  - '[[_Standards/WikiData/WD~bicarbonate,56810858]]'
-legal_status_medicine_: '[[_Standards/WikiData/WD~boxed_warning,879952]]'
+  - "[[_Standards/WikiData/WD~acid_salt,622311]]"
+  - "[[_Standards/WikiData/WD~sodium_salt,1508568]]"
+  - "[[_Standards/WikiData/WD~bicarbonate,56810858]]"
+legal_status_medicine_: "[[_Standards/WikiData/WD~boxed_warning,879952]]"
 safety_classification_and_labelling:
-  - '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
-  - '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]"
+  - "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 mass: 83.982338
-different_from: '[[_Standards/WikiData/WD~baking_powder,29476]]'
+different_from: "[[_Standards/WikiData/WD~baking_powder,29476]]"
 decomposition_point: 60
 PubChem_CID: 516892
 density: 2.159
@@ -76,6 +76,25 @@ MeSH_tree_code:
   - D01.200.275.150.100.800
   - D01.857.625
 DSSTOX_compound_identifier: DTXCID901269
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Sodium_bicarbonate,179731|WD~Sodium_bicarbonate,179731]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate|Sodium_Bicarbonate]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.public|Sodium_Bicarbonate.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.internal|Sodium_Bicarbonate.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.protect|Sodium_Bicarbonate.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.private|Sodium_Bicarbonate.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.personal|Sodium_Bicarbonate.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.secret|Sodium_Bicarbonate.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sodium_bicarbonate,179731|WD~Sodium_bicarbonate,179731]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate|Sodium_Bicarbonate]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.public|Sodium_Bicarbonate.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.internal|Sodium_Bicarbonate.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.protect|Sodium_Bicarbonate.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.private|Sodium_Bicarbonate.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.personal|Sodium_Bicarbonate.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Bicarbonate.secret|Sodium_Bicarbonate.secret]]"
 ---
 
 # [[Sodium_Bicarbonate]] 

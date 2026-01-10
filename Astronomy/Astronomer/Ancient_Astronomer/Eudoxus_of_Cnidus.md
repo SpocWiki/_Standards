@@ -44,6 +44,25 @@ languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,3549
 date_of_death: -0354-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eudoxus%20of%20Cnidus%20homocentric%20spheres%20model.png
 ISNI: "0000000108697437"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Eudoxus_of_Cnidus,185150|WD~Eudoxus_of_Cnidus,185150]]"
+    - "[[/_Standards/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus|Eudoxus_of_Cnidus]]"
+    - "[[/_public/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.public|Eudoxus_of_Cnidus.public]]"
+    - "[[/_internal/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.internal|Eudoxus_of_Cnidus.internal]]"
+    - "[[/_protect/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.protect|Eudoxus_of_Cnidus.protect]]"
+    - "[[/_private/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.private|Eudoxus_of_Cnidus.private]]"
+    - "[[/_personal/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.personal|Eudoxus_of_Cnidus.personal]]"
+    - "[[/_secret/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.secret|Eudoxus_of_Cnidus.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Eudoxus_of_Cnidus,185150|WD~Eudoxus_of_Cnidus,185150]]"
+  - "[[/_Standards/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus|Eudoxus_of_Cnidus]]"
+  - "[[/_public/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.public|Eudoxus_of_Cnidus.public]]"
+  - "[[/_internal/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.internal|Eudoxus_of_Cnidus.internal]]"
+  - "[[/_protect/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.protect|Eudoxus_of_Cnidus.protect]]"
+  - "[[/_private/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.private|Eudoxus_of_Cnidus.private]]"
+  - "[[/_personal/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.personal|Eudoxus_of_Cnidus.personal]]"
+  - "[[/_secret/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.secret|Eudoxus_of_Cnidus.secret]]"
 ---
 
 # [[Eudoxus_of_Cnidus]] 

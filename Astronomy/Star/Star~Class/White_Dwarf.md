@@ -18,6 +18,25 @@ Stack_Exchange_tag:
   - https://astronomy.stackexchange.com/tags/white-dwarf
   - https://physics.stackexchange.com/tags/white-dwarfs
 Dewey_Decimal_Classification: "523.887"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~White_dwarf,5871|WD~White_dwarf,5871]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/White_Dwarf|White_Dwarf]]"
+    - "[[/_public/Astronomy/Star/Star~Class/White_Dwarf.public|White_Dwarf.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/White_Dwarf.internal|White_Dwarf.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/White_Dwarf.protect|White_Dwarf.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/White_Dwarf.private|White_Dwarf.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/White_Dwarf.personal|White_Dwarf.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/White_Dwarf.secret|White_Dwarf.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~White_dwarf,5871|WD~White_dwarf,5871]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/White_Dwarf|White_Dwarf]]"
+  - "[[/_public/Astronomy/Star/Star~Class/White_Dwarf.public|White_Dwarf.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/White_Dwarf.internal|White_Dwarf.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/White_Dwarf.protect|White_Dwarf.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/White_Dwarf.private|White_Dwarf.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/White_Dwarf.personal|White_Dwarf.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/White_Dwarf.secret|White_Dwarf.secret]]"
 ---
 
 # [[White_Dwarf]] 

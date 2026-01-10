@@ -39,6 +39,25 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Io%2
 Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Io"]
 Commons_category: Io (moon)
 provisional_designation: Jupiter I
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Io,3123]]"
+    - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon)|Io(Moon)]]"
+    - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).public|Io(Moon).public]]"
+    - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).internal|Io(Moon).internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).protect|Io(Moon).protect]]"
+    - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).private|Io(Moon).private]]"
+    - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).personal|Io(Moon).personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).secret|Io(Moon).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Io,3123]]"
+  - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon)|Io(Moon)]]"
+  - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).public|Io(Moon).public]]"
+  - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).internal|Io(Moon).internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).protect|Io(Moon).protect]]"
+  - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).private|Io(Moon).private]]"
+  - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).personal|Io(Moon).personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).secret|Io(Moon).secret]]"
 ---
 
 # [[Io(Moon)]] 

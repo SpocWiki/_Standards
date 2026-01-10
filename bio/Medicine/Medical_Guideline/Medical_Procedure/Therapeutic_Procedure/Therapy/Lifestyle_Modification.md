@@ -34,12 +34,11 @@ Tag Instances like this:
 
 A process of care involving exercise, changes to diet, fitness routines, and other lifestyle changes aimed at improving a health condition.
 
-[ #is_/sub_class_of :: [[../MedicalEntity]] ]
+#is_/sub_class_of :: [[../MedicalEntity]]  
 
-[ #has_/sub_classes :: [ Diet, PhysicalActivity ] ]
+#has_/sub_classes :: [ Diet, PhysicalActivity ]  
 
-[ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

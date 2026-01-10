@@ -9,35 +9,35 @@ CAS_Registry_Number: 17778-80-2
 Commons_category: Oxygen
 Commons_gallery: Oxygen
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Oxygen,108309474]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Oxygen,108309474]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Oxygen,296933]]'
-  - '[[_Standards/WikiData/WD~dioxygen,5203615]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Wilhelm_Scheele,70538]]'
+  - "[[_Standards/WikiData/WD~Oxygen,296933]]"
+  - "[[_Standards/WikiData/WD~dioxygen,5203615]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Wilhelm_Scheele,70538]]"
 electronegativity: 3.44
 electron_configuration:
   - 1s² 2s² 2p⁴
-  - '[He] 2s² 2p⁴'
+  - "[He] 2s² 2p⁴"
 element_symbol: O
 E_number: E948
 frequency: 60
 has_characteristic:
-  - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-  - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-  - '[[_Standards/WikiData/WD~tastelessness,30100868]]'
-has_part_s_: '[[_Standards/WikiData/WD~oxygen_atom,47195191]]'
-has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
+  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
+  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
+  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
+has_part_s_: "[[_Standards/WikiData/WD~oxygen_atom,47195191]]"
+has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20oxygen%20in%20a%20beaker%204.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
-  - '[[_Standards/WikiData/WD~nonmetal,19600]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
 ionic_radius:
   - 1.4
   - 1.21
@@ -48,26 +48,26 @@ ionization_energy:
   - 5300.5
   - 7469.2
 Krugosvet_article: himiya/kislorod
-location_of_discovery: '[[_Standards/WikiData/WD~Sweden,34]]'
+location_of_discovery: "[[_Standards/WikiData/WD~Sweden,34]]"
 mass: 15.999
 MeSH_tree_code:
   - D01.268.185.550
   - D01.362.670
-named_after: '[[_Standards/WikiData/WD~acid,11158]]'
+named_after: "[[_Standards/WikiData/WD~acid,11158]]"
 OmegaWiki_Defined_Meaning: 2698
-opposite_of: '[[_Standards/WikiData/WD~phlogiston,193353]]'
+opposite_of: "[[_Standards/WikiData/WD~phlogiston,193353]]"
 oxidation_state:
   - -2
   - -1
   - 1
   - 2
 part_of:
-  - '[[_Standards/WikiData/WD~group_16,104567]]'
-  - '[[_Standards/WikiData/WD~period_2,207712]]'
-  - '[[_Standards/WikiData/WD~oxygen_carrier_activity,14819284]]'
-  - '[[_Standards/WikiData/WD~oxygen_gasoreceptor_activity,21110130]]'
-  - '[[_Standards/WikiData/WD~water,283]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27136445,27136445]]'
+  - "[[_Standards/WikiData/WD~group_16,104567]]"
+  - "[[_Standards/WikiData/WD~period_2,207712]]"
+  - "[[_Standards/WikiData/WD~oxygen_carrier_activity,14819284]]"
+  - "[[_Standards/WikiData/WD~oxygen_gasoreceptor_activity,21110130]]"
+  - "[[_Standards/WikiData/WD~water,283]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27136445,27136445]]"
 radius:
   - 60
   - 48
@@ -77,45 +77,130 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/8%20oxygen%20%28O%
 SpocWebEntityId: 21910
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-oxygen-article.ogg
 subclass_of:
-  - '[[_Standards/WikiData/WD~group_16,104567]]'
-  - '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
+  - "[[_Standards/WikiData/WD~group_16,104567]]"
+  - "[[_Standards/WikiData/WD~oxidizing_agent,187689]]"
 time_of_discovery_or_invention: 1774-01-01T00:00:00Z
 type: Element
 Unicode_character: 氧
 UNSPSC_Code: 12141904
 Krugosvet_article_archived_: himiya/kislorod
+dv_has_:
+  name_:
+    group: Group-16-Chalcogene
+    en: Oxygen
+    de: Sauerstoff
+    abbreviated: O
+  value_for_:
+    weight_:
+      u: 15.9994
+    radius: 0.65
+    volume_:
+      ccm_:
+        mol: 14
+    unknown2: 0.73
+    radius_:
+      nano_:
+        m: 13.618
+    electronegativity: 3.4
+    density: 1.429
+    temperature_:
+      melt_:
+        c: -218.4
+      boil_:
+        c: -182.96
+    capacity_:
+      heat: 0.92
+    conductivity_:
+      heat: 0.000267
+    enthalpy: 0.22259
+    energy_:
+      form_:
+        kj_:
+          mol: 3.4099
+  number_of_:
+    period: 2
+    group: 16
+    electrons: 8
+dv_is_:
+  part_of: "[[../Group-16-Chalcogene]]"
+  same_as:
+    - "[[../../../WikiData/WD~Oxygen,629]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen|Oxygen]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.public|Oxygen.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.internal|Oxygen.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.protect|Oxygen.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.private|Oxygen.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.personal|Oxygen.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.secret|Oxygen.secret]]"
+dv_has_name_group: Group-16-Chalcogene
+dv_is_part_of: "[[../Group-16-Chalcogene]]"
+dv_has_name_en: Oxygen
+dv_has_name_de: Sauerstoff
+dv_has_value_for_weight_u: 15.9994
+dv_has_value_for_radius: 0.65
+dv_has_value_for_volume_ccm_mol: 14
+dv_has_value_for_unknown2: 0.73
+dv_has_value_for_radius_nano_m: 13.618
+dv_has_value_for_electronegativity: 3.4
+dv_has_value_for_density: 1.429
+dv_has_value_for_temperature_melt_c: -218.4
+dv_has_value_for_temperature_boil_c: -182.96
+dv_has_value_for_capacity_heat: 0.92
+dv_has_value_for_conductivity_heat: 0.000267
+dv_has_value_for_enthalpy: 0.22259
+dv_has_value_for_energy_form_kj_mol: 3.4099
+dv_has_number_of_period: 2
+dv_has_number_of_group: 16
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Oxygen,629]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen|Oxygen]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.public|Oxygen.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.internal|Oxygen.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.protect|Oxygen.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.private|Oxygen.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.personal|Oxygen.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Oxygen.secret|Oxygen.secret]]"
+dv_has_name_abbreviated: O
+dv_has_number_of_electrons: 8
 ---
 # [[Oxygen]]
 
 #chemic/Element 
-[GroupName::Group-16-Chalcogene]
-Group::[[../Group-16-Chalcogene]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Oxygen]
-[#has_/name_/de::Sauerstoff]
-[#has_/value_for_/weight_/u::15.9994]
-[AtomRadius::0.65]
-[Atom-Vol-ccm-mol::14]
-[Unknown2::0.73]
-[#has_/value_for_/radius_/nano_/m::13.618]
-[Electronegative::3.4]
-[Density::1.429]
-[#has_/value_for_/temperature_/melt_/c ::-218.4]
-[#has_/value_for_/temperature_/boil_/c ::-182.96]
-[HeatCapacity::0.92]
-[HeatConduct::0.000267]
-[Enthalpy::0.22259]
-[FormEnergy-kj-mol::3.4099]
-(PeriodNo::2)
-(GroupNo::16)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Oxygen,629]] 
 
 
 ## #has_/text_of_/abstract 
 
-> **Oxygen** is the chemical element with the symbol (Abbr::O) and atomic number (Charge-e::8). 
+> **Oxygen** is the chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a member of the chalcogen group in the periodic table, a highly reactive nonmetal, 
 > and an oxidizing agent that readily forms oxides with most elements as well as with other compounds. 
 > 

@@ -10,50 +10,78 @@ aliases:
 has_id_wikidata: Q2487
 BHCL_UUID: a98fc6a6-6a4e-4d9c-aadd-59e78a8964ca
 Commons_category: Thirty Years War
-country: '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
+country: "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
 distribution_map:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Thirty%20Years%20War-en.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Thirty%20Years%20War-fr.svg
 end_time: 1648-10-24
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Magdeburg%201631.jpg
-instance_of: '[[_Standards/WikiData/WD~religious_war,1827102]]'
+instance_of: "[[_Standards/WikiData/WD~religious_war,1827102]]"
 Krugosvet_article: istoriya/TRIDTSATILETNYAYA_VONA.html
 Library_of_Congress_Classification: D251-D271
-location: '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+location: "[[_Standards/WikiData/WD~Central_Europe,27509]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Lutzen%20banner.jpg
 participant:
-  - '[[_Standards/WikiData/WD~Brandenburg-Prussia,157367]]'
-  - '[[_Standards/WikiData/WD~Denmark_Norway,62651]]'
-  - '[[_Standards/WikiData/WD~Sweden,34]]'
-  - '[[_Standards/WikiData/WD~Dutch_Republic,170072]]'
-  - '[[_Standards/WikiData/WD~Electoral_Palatinate,22880]]'
-  - '[[_Standards/WikiData/WD~Electorate_of_Saxony,156199]]'
-  - '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Hungary,253094]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Scotland,230791]]'
-  - '[[_Standards/WikiData/WD~Lands_of_the_Bohemian_Crown,686971]]'
-  - '[[_Standards/WikiData/WD~Principality_of_Transylvania,655621]]'
-  - '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
+  - "[[_Standards/WikiData/WD~Brandenburg-Prussia,157367]]"
+  - "[[_Standards/WikiData/WD~Denmark_Norway,62651]]"
+  - "[[_Standards/WikiData/WD~Sweden,34]]"
+  - "[[_Standards/WikiData/WD~Dutch_Republic,170072]]"
+  - "[[_Standards/WikiData/WD~Electoral_Palatinate,22880]]"
+  - "[[_Standards/WikiData/WD~Electorate_of_Saxony,156199]]"
+  - "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Hungary,253094]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Scotland,230791]]"
+  - "[[_Standards/WikiData/WD~Lands_of_the_Bohemian_Crown,686971]]"
+  - "[[_Standards/WikiData/WD~Principality_of_Transylvania,655621]]"
+  - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
 point_in_time: 1618-05-23
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-30-j%C3%A4hriger%20Krieg.ogg
 Provenio_UUID: 75ec0398-483e-451b-b4c6-47b60f2fdcba
 start_time: 1618-05-23
+dv_has_:
+  time_:
+    started: 1618-05-23T00:00:00.000+00:53
+    stopped: 1648-10-24T00:00:00.000+00:53
+  duration_: P30Y5M1D
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Thirty_Years'_War,2487|WD~Thirty_Years'_War,2487]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War|1618-Thirty_Years_War]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.public|1618-Thirty_Years_War.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.internal|1618-Thirty_Years_War.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.protect|1618-Thirty_Years_War.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.private|1618-Thirty_Years_War.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.personal|1618-Thirty_Years_War.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.secret|1618-Thirty_Years_War.secret]]"
+dv_has_time_started: 1618-05-23
+dv_has_time_stopped: 1648-10-24
+dv_has_duration_years: 30
+dv_has_duration_: P30Y5M1D
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Thirty_Years'_War,2487|WD~Thirty_Years'_War,2487]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War|1618-Thirty_Years_War]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.public|1618-Thirty_Years_War.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.internal|1618-Thirty_Years_War.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.protect|1618-Thirty_Years_War.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.private|1618-Thirty_Years_War.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.personal|1618-Thirty_Years_War.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War.secret|1618-Thirty_Years_War.secret]]"
 ---
 
-#has_/time_/started :: 1618-05-23 
-#has_/time_/stopped :: 1648-10-24 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now)) - this.dv_has_time_started` 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Thirty_Years'_War,2487|WD~Thirty_Years'_War,2487]] 
 # [[1618-Thirty_Years_War]] 
 

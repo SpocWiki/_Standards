@@ -8,11 +8,11 @@ aliases:
   - Cosmic Dust
 has_id_wikidata: Q193384
 subclass_of:
-  - '[[_Standards/WikiData/WD~dust,165632]]'
-  - '[[_Standards/WikiData/WD~particle,1621273]]'
-  - '[[_Standards/WikiData/WD~astronomical_object,6999]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-part_of: '[[_Standards/WikiData/WD~outer_space,4169]]'
+  - "[[_Standards/WikiData/WD~dust,165632]]"
+  - "[[_Standards/WikiData/WD~particle,1621273]]"
+  - "[[_Standards/WikiData/WD~astronomical_object,6999]]"
+instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+part_of: "[[_Standards/WikiData/WD~outer_space,4169]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Porous%20chondriteIDP.jpg
 UMLS_CUI: C0376611
 MeSH_tree_code:
@@ -20,6 +20,25 @@ MeSH_tree_code:
   - G01.060.075.159.200
   - G16.500.275.240.200
 Commons_category: Interstellar dust
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Cosmic_dust,193384|WD~Cosmic_dust,193384]]"
+    - "[[/_Standards/Astronomy/Solar_System/Cosmic_Dust|Cosmic_Dust]]"
+    - "[[/_public/Astronomy/Solar_System/Cosmic_Dust.public|Cosmic_Dust.public]]"
+    - "[[/_internal/Astronomy/Solar_System/Cosmic_Dust.internal|Cosmic_Dust.internal]]"
+    - "[[/_protect/Astronomy/Solar_System/Cosmic_Dust.protect|Cosmic_Dust.protect]]"
+    - "[[/_private/Astronomy/Solar_System/Cosmic_Dust.private|Cosmic_Dust.private]]"
+    - "[[/_personal/Astronomy/Solar_System/Cosmic_Dust.personal|Cosmic_Dust.personal]]"
+    - "[[/_secret/Astronomy/Solar_System/Cosmic_Dust.secret|Cosmic_Dust.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Cosmic_dust,193384|WD~Cosmic_dust,193384]]"
+  - "[[/_Standards/Astronomy/Solar_System/Cosmic_Dust|Cosmic_Dust]]"
+  - "[[/_public/Astronomy/Solar_System/Cosmic_Dust.public|Cosmic_Dust.public]]"
+  - "[[/_internal/Astronomy/Solar_System/Cosmic_Dust.internal|Cosmic_Dust.internal]]"
+  - "[[/_protect/Astronomy/Solar_System/Cosmic_Dust.protect|Cosmic_Dust.protect]]"
+  - "[[/_private/Astronomy/Solar_System/Cosmic_Dust.private|Cosmic_Dust.private]]"
+  - "[[/_personal/Astronomy/Solar_System/Cosmic_Dust.personal|Cosmic_Dust.personal]]"
+  - "[[/_secret/Astronomy/Solar_System/Cosmic_Dust.secret|Cosmic_Dust.secret]]"
 ---
 
 # [[Cosmic_Dust]] 

@@ -34,12 +34,11 @@ Tag Instances like this:
 
 A condition or factor that indicates use of a medical therapy, including signs, symptoms, risk factors, anatomical states, etc.
 
-[ #is_/sub_class_of :: [[../MedicalEntity]] ]
+#is_/sub_class_of :: [[../MedicalEntity]]  
 
-[ #has_/sub_classes :: [ ApprovedIndication, PreventionIndication, TreatmentIndication ] ]
+#has_/sub_classes :: [ ApprovedIndication, PreventionIndication, TreatmentIndication ]  
 
-[ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

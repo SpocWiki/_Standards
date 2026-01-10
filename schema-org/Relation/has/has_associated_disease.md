@@ -26,16 +26,18 @@ title: has_associated_disease
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/associated_disease :: MedicalCondition, PropertyValue, URL ] or 
+- [has_/associated_disease :: MedicalCondition, PropertyValue, URL ] 
 - [ has_associated_disease :: MedicalCondition, PropertyValue, URL ] 
 
 Disease associated to this BioChemEntity. Such disease can be a MedicalCondition or a URL. If you want to add an evidence supporting the association, please use PropertyValue.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity ]
+
+#has_/domain  :: BioChemEntity  
+
 ( #has_/name :: has_associated_disease )
 ( #has_/range :: MedicalCondition, PropertyValue, URL )
 

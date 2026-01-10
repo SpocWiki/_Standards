@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - order_delivery
   - order
   - delivery
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_order_delivery
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_order_delivery
 type: Predi_Relation
+dv_has_:
+  order_delivery: ParcelDelivery
+  domain: Order, OrderItem
+dv_has_order_delivery: ParcelDelivery
+dv_#has_:
+  name: has_order_delivery
+  range: ParcelDelivery
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_order_delivery|has_order_delivery]]"
+    - "[[/_public/schema-org/Relation/has/has_order_delivery.public|has_order_delivery.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_order_delivery.internal|has_order_delivery.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_order_delivery.protect|has_order_delivery.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_order_delivery.private|has_order_delivery.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_order_delivery.personal|has_order_delivery.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_order_delivery.secret|has_order_delivery.secret]]"
+dv_has_domain: Order, OrderItem
+dv_has_name: has_order_delivery
+dv_has_range: ParcelDelivery
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_order_delivery|has_order_delivery]]"
+  - "[[/_public/schema-org/Relation/has/has_order_delivery.public|has_order_delivery.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_order_delivery.internal|has_order_delivery.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_order_delivery.protect|has_order_delivery.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_order_delivery.private|has_order_delivery.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_order_delivery.personal|has_order_delivery.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_order_delivery.secret|has_order_delivery.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/order_delivery :: ParcelDelivery ] or 
-- [ has_order_delivery :: ParcelDelivery ] 
+- has_order_delivery = `=this.dv_has_order_delivery`  
+- has_order_delivery = `=this.dv_has_order_delivery`  
 
 The delivery of the parcel related to this order or order item.
 
 Relation describes that: 
-[ #has_/domain  :: Order, OrderItem ]
-( #has_/name :: has_order_delivery )
-( #has_/range :: ParcelDelivery )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

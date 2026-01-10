@@ -5,20 +5,39 @@ aliases:
   - 1409-Polish-Lithuanian-Teutonic War-1411
 has_id_wikidata: Q937255
 participant:
-  - '[[_Standards/WikiData/WD~State_of_the_Teutonic_Order,156020]]'
-  - '[[_Standards/WikiData/WD~Duchy_of_Oleśnica,534894]]'
-  - '[[_Standards/WikiData/WD~Duchy_of_Pomerania,696640]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]'
-  - '[[_Standards/WikiData/WD~Terra_Mariana,2458532]]'
-  - '[[_Standards/WikiData/WD~Denmark,35]]'
-  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]'
-location: '[[_Standards/WikiData/WD~State_of_the_Teutonic_Order,156020]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9843189,9843189]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+  - "[[_Standards/WikiData/WD~State_of_the_Teutonic_Order,156020]]"
+  - "[[_Standards/WikiData/WD~Duchy_of_Oleśnica,534894]]"
+  - "[[_Standards/WikiData/WD~Duchy_of_Pomerania,696640]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Poland,1649871]]"
+  - "[[_Standards/WikiData/WD~Terra_Mariana,2458532]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Lithuania,49683]]"
+location: "[[_Standards/WikiData/WD~State_of_the_Teutonic_Order,156020]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q9843189,9843189]]"
+instance_of: "[[_Standards/WikiData/WD~war,198]]"
 point_in_time: 1411-02-10T00:00:00Z
 end_time: 1411-02-01T00:00:00Z
 start_time: 1409-08-14T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%2C%20Bitwa%20pod%20Grunwaldem.jpg
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Polish-Lithuanian-Teutonic_War,937255]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411|1409-Polish-Lithuanian-Teutonic_War-1411]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.public|1409-Polish-Lithuanian-Teutonic_War-1411.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.internal|1409-Polish-Lithuanian-Teutonic_War-1411.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.protect|1409-Polish-Lithuanian-Teutonic_War-1411.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.private|1409-Polish-Lithuanian-Teutonic_War-1411.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.personal|1409-Polish-Lithuanian-Teutonic_War-1411.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.secret|1409-Polish-Lithuanian-Teutonic_War-1411.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Polish-Lithuanian-Teutonic_War,937255]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411|1409-Polish-Lithuanian-Teutonic_War-1411]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.public|1409-Polish-Lithuanian-Teutonic_War-1411.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.internal|1409-Polish-Lithuanian-Teutonic_War-1411.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.protect|1409-Polish-Lithuanian-Teutonic_War-1411.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.private|1409-Polish-Lithuanian-Teutonic_War-1411.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.personal|1409-Polish-Lithuanian-Teutonic_War-1411.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1409-Polish-Lithuanian-Teutonic_War-1411.secret|1409-Polish-Lithuanian-Teutonic_War-1411.secret]]"
 ---
 
 # [[1409-Polish-Lithuanian-Teutonic_War-1411]] 

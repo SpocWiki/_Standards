@@ -29,6 +29,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/York%20victory%20over%
 Krugosvet_article_archived_: voennoe-delo/aloy-i-beloy-rozy-voyna
 Commons_category: Wars of the Roses
 point_in_time: 1500-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Wars_of_the_Roses,127751|WD~Wars_of_the_Roses,127751]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487|1455-Wars_of_the_Roses+1487]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.public|1455-Wars_of_the_Roses+1487.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.internal|1455-Wars_of_the_Roses+1487.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.protect|1455-Wars_of_the_Roses+1487.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.private|1455-Wars_of_the_Roses+1487.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.personal|1455-Wars_of_the_Roses+1487.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.secret|1455-Wars_of_the_Roses+1487.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Wars_of_the_Roses,127751|WD~Wars_of_the_Roses,127751]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487|1455-Wars_of_the_Roses+1487]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.public|1455-Wars_of_the_Roses+1487.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.internal|1455-Wars_of_the_Roses+1487.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.protect|1455-Wars_of_the_Roses+1487.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.private|1455-Wars_of_the_Roses+1487.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.personal|1455-Wars_of_the_Roses+1487.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1455-Wars_of_the_Roses+1487.secret|1455-Wars_of_the_Roses+1487.secret]]"
 ---
 
 # [[1455-Wars_of_the_Roses+1487]] 

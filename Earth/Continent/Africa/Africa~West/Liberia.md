@@ -344,7 +344,7 @@ dv_ISO4217-currency_country_name: LIBERIA
 dv_Telephone: 231
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Liberia
+dv_has_name: Liberia
 dv_has_name_en: Liberia
 dv_has_name_es: Liberia
 dv_has_name_fr: Libéria
@@ -438,7 +438,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Liberia ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

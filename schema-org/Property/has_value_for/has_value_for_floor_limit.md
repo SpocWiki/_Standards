@@ -29,16 +29,18 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of PaymentCard.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/value_for_/floor_limit :: MonetaryAmount ] or 
+- [has_/value_for_/floor_limit :: MonetaryAmount ] 
 - [ has_value_for_floor_limit :: MonetaryAmount ] 
 
 A floor limit is the amount of money above which credit card transactions must be authorized.
 
 Predicate describes that: 
-[ #has_/domain  :: PaymentCard ]
+
+#has_/domain  :: PaymentCard  
+
 ( #has_/name :: has_value_for_floor_limit )
 ( #has_/range :: MonetaryAmount )
 

@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - studio_album
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_studio_album Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_studio_album Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../MusicAlbumProductionType]]"
+  enum_of: "[[../MusicAlbumProductionType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album|Studio_Album]]"
+    - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.public|Studio_Album.public]]"
+    - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.internal|Studio_Album.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.protect|Studio_Album.protect]]"
+    - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.private|Studio_Album.private]]"
+    - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.personal|Studio_Album.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.secret|Studio_Album.secret]]"
+dv_is_sub_class_of: "[[../MusicAlbumProductionType]]"
+dv_is_enum_of: "[[../MusicAlbumProductionType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album|Studio_Album]]"
+  - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.public|Studio_Album.public]]"
+  - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.internal|Studio_Album.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.protect|Studio_Album.protect]]"
+  - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.private|Studio_Album.private]]"
+  - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.personal|Studio_Album.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.secret|Studio_Album.secret]]"
 ---
 
 Class of all studio_albums.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 StudioAlbum.
 
-[ #is_/sub_class_of :: [[../MusicAlbumProductionType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

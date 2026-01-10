@@ -2,23 +2,42 @@
 aliases:
   - Basalt
 has_id_wikidata: Q43338
-subclass_of: '[[_Standards/WikiData/WD~volcanic_rock,108689]]'
-named_after: '[[_Standards/WikiData/WD~Black_Tortoise,125696]]'
+subclass_of: "[[_Standards/WikiData/WD~volcanic_rock,108689]]"
+named_after: "[[_Standards/WikiData/WD~Black_Tortoise,125696]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]'
-instance_of: '[[_Standards/WikiData/WD~rock_type,11871901]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+award_received: "[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]"
+instance_of: "[[_Standards/WikiData/WD~rock_type,11871901]]"
 Commons_gallery: Basalt
 Commons_category: Basalt
 UNSPSC_Code: 11111609
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Basaltfels%20aus%20Popocatepetl%2C%20Mexico.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000236
-P8189: 987007283288505171
+P8189: 987007283288505200
 Krugosvet_article: Earth_sciences/geologiya/BAZALT.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Basalt,43338|WD~Basalt,43338]]"
+    - "[[/_Standards/Chemistry/Material/Basalt|Basalt]]"
+    - "[[/_public/Chemistry/Material/Basalt.public|Basalt.public]]"
+    - "[[/_internal/Chemistry/Material/Basalt.internal|Basalt.internal]]"
+    - "[[/_protect/Chemistry/Material/Basalt.protect|Basalt.protect]]"
+    - "[[/_private/Chemistry/Material/Basalt.private|Basalt.private]]"
+    - "[[/_personal/Chemistry/Material/Basalt.personal|Basalt.personal]]"
+    - "[[/_secret/Chemistry/Material/Basalt.secret|Basalt.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Basalt,43338|WD~Basalt,43338]]"
+  - "[[/_Standards/Chemistry/Material/Basalt|Basalt]]"
+  - "[[/_public/Chemistry/Material/Basalt.public|Basalt.public]]"
+  - "[[/_internal/Chemistry/Material/Basalt.internal|Basalt.internal]]"
+  - "[[/_protect/Chemistry/Material/Basalt.protect|Basalt.protect]]"
+  - "[[/_private/Chemistry/Material/Basalt.private|Basalt.private]]"
+  - "[[/_personal/Chemistry/Material/Basalt.personal|Basalt.personal]]"
+  - "[[/_secret/Chemistry/Material/Basalt.secret|Basalt.secret]]"
 ---
 
 # [[Basalt]] 

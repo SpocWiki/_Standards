@@ -10,34 +10,61 @@ cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Date
 title: has_time_of_door
 type: Predi_Date_Time
+dv_has_time_of_door: P#Y#M#W#DT#H#M#s.fff
+dv_#has_:
+  time_:
+    of_door: P#Y#M#W#DT#H#M#s.fff
+dv_domain: Event
+dv_has_:
+  name: has_time_of_door
+dv_range: DateTime, Time
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_door|has_time_of_door]]"
+    - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_door.public|has_time_of_door.public]]"
+    - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_door.internal|has_time_of_door.internal]]"
+    - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_door.protect|has_time_of_door.protect]]"
+    - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_door.private|has_time_of_door.private]]"
+    - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_door.personal|has_time_of_door.personal]]"
+    - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_door.secret|has_time_of_door.secret]]"
+dv_has_name: has_time_of_door
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_door|has_time_of_door]]"
+  - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_door.public|has_time_of_door.public]]"
+  - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_door.internal|has_time_of_door.internal]]"
+  - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_door.protect|has_time_of_door.protect]]"
+  - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_door.private|has_time_of_door.private]]"
+  - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_door.personal|has_time_of_door.personal]]"
+  - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_door.secret|has_time_of_door.secret]]"
 ---
 
 Predicate to describe the time of Event.
 
 Use it like this: 
-- [has_time_of_door::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/of_door::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
+- has_time_of_door = `=this.dv_has_time_of_door`  
+- has_time_of_door = `=this.dv_has_time_of_door`  
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The time, admission will commence.
 
 Formal Predicate: 
-[domain::Event]
-(has_/name::has_time_of_door)
-(range::DateTime, Time)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

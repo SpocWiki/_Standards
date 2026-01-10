@@ -7,35 +7,35 @@ has_id_wikidata: Q11344
 Commons_category: Chemical elements
 Commons_gallery: Chemical element
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 different_from:
-  - '[[_Standards/WikiData/WD~elemental,1786347]]'
-  - '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-has_cause: '[[_Standards/WikiData/WD~atomic_number,23809]]'
-has_characteristic: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-has_list: '[[_Standards/WikiData/WD~list_of_elements_by_atomic_properties,6618793]]'
+  - "[[_Standards/WikiData/WD~elemental,1786347]]"
+  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+has_cause: "[[_Standards/WikiData/WD~atomic_number,23809]]"
+has_characteristic: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+has_list: "[[_Standards/WikiData/WD~list_of_elements_by_atomic_properties,6618793]]"
 icon: atom_symbol
 IEV_number: 113-05-37
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Periodic%20table%20%2832-col%2C%20enwiki%29%2C%20black%20and%20white.png
 instance_of:
-  - '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
-  - '[[_Standards/WikiData/WD~second-order_class,24017414]]'
-is_metaclass_for: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+  - "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
+  - "[[_Standards/WikiData/WD~second-order_class,24017414]]"
+is_metaclass_for: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
 Krugosvet_article:
   - nauka_i_tehnika/himiya/ELEMENTI_HIMICHESKIE.html
   - nauka_i_tehnika/himiya/HIMICHESKIE_ELEMENTI_V_PRIRODE_–_KRUGOVOROT_I_MIGRATSIYA.html
 MeSH_tree_code: D01.268
 OmegaWiki_Defined_Meaning: 1137
-opposite_of: '[[_Standards/WikiData/WD~chemical_anti-element,9158156]]'
+opposite_of: "[[_Standards/WikiData/WD~chemical_anti-element,9158156]]"
 part_of:
-  - '[[_Standards/WikiData/WD~periodic_table,10693]]'
-  - '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+  - "[[_Standards/WikiData/WD~periodic_table,10693]]"
+  - "[[_Standards/WikiData/WD~chemical_compound,11173]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-%C3%A9l%C3%A9ment%20chimique.wav
 properties_for_this_type:
   - time of discovery or invention
@@ -50,19 +50,38 @@ properties_for_this_type:
   - named after
   - location of discovery
   - element symbol
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~simple_substance,2512777]]"
 Stack_Exchange_tag:
   - https://chemistry.stackexchange.com/tags/elements
   - https://physics.stackexchange.com/tags/elements
-studied_in: '[[_Standards/WikiData/WD~chemistry,2329]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+studied_in: "[[_Standards/WikiData/WD~chemistry,2329]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Periodic_table_(navbox),5866775]]'
-  - '[[_Standards/WikiData/WD~Template_Periodic_table,6310132]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_element,52484]]'
+  - "[[_Standards/WikiData/WD~Template_Periodic_table_(navbox),5866775]]"
+  - "[[_Standards/WikiData/WD~Template_Periodic_table,6310132]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_element,52484]]"
 UMLS_CUI: C0013879
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 Wolfram_Language_entity_type: Element
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Chemical_element,11344|WD~Chemical_element,11344]]"
+    - "[[/_Standards/Chemistry/Chemical_Element|Chemical_Element]]"
+    - "[[/_public/Chemistry/Chemical_Element.public|Chemical_Element.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element.internal|Chemical_Element.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element.protect|Chemical_Element.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element.private|Chemical_Element.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element.personal|Chemical_Element.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element.secret|Chemical_Element.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Chemical_element,11344|WD~Chemical_element,11344]]"
+  - "[[/_Standards/Chemistry/Chemical_Element|Chemical_Element]]"
+  - "[[/_public/Chemistry/Chemical_Element.public|Chemical_Element.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element.internal|Chemical_Element.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element.protect|Chemical_Element.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element.private|Chemical_Element.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element.personal|Chemical_Element.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element.secret|Chemical_Element.secret]]"
 ---
 
 # [[Chemical_Element]] 

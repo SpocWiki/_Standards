@@ -34,12 +34,11 @@ Tag Instances like this:
 
 Any condition of the human body that affects the normal functioning of a person, whether physically or mentally. Includes diseases, injuries, disabilities, disorders, syndromes, etc.
 
-[ #is_/sub_class_of :: [[../MedicalEntity]] ]
+#is_/sub_class_of :: [[../MedicalEntity]]  
 
-[ #has_/sub_classes :: [ InfectiousDisease, MedicalSignOrSymptom ] ]
+#has_/sub_classes :: [ InfectiousDisease, MedicalSignOrSymptom ]  
 
-[ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ]  
 
 ## Confidential Links & Embeds: 
 

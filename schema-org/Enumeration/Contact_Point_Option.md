@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - contact_point_option
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_contact_point_option Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_contact_point_option Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option|Contact_Point_Option]]"
+    - "[[/_public/schema-org/Enumeration/Contact_Point_Option.public|Contact_Point_Option.public]]"
+    - "[[/_internal/schema-org/Enumeration/Contact_Point_Option.internal|Contact_Point_Option.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Contact_Point_Option.protect|Contact_Point_Option.protect]]"
+    - "[[/_private/schema-org/Enumeration/Contact_Point_Option.private|Contact_Point_Option.private]]"
+    - "[[/_personal/schema-org/Enumeration/Contact_Point_Option.personal|Contact_Point_Option.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Contact_Point_Option.secret|Contact_Point_Option.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option|Contact_Point_Option]]"
+  - "[[/_public/schema-org/Enumeration/Contact_Point_Option.public|Contact_Point_Option.public]]"
+  - "[[/_internal/schema-org/Enumeration/Contact_Point_Option.internal|Contact_Point_Option.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Contact_Point_Option.protect|Contact_Point_Option.protect]]"
+  - "[[/_private/schema-org/Enumeration/Contact_Point_Option.private|Contact_Point_Option.private]]"
+  - "[[/_personal/schema-org/Enumeration/Contact_Point_Option.personal|Contact_Point_Option.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Contact_Point_Option.secret|Contact_Point_Option.secret]]"
 ---
 
 Class of all contact_point_options.
@@ -34,8 +53,7 @@ Tag Instances like this:
 
 Enumerated options related to a ContactPoint.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

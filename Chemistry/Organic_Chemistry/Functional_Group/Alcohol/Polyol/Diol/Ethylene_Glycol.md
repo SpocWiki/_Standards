@@ -4,12 +4,35 @@ aliases:
   - Ethylene glycol
   - Ethylene_Glycol
   - Ethylene Glycol
+dv_has_:
+  formula_:
+    sum: (CH²OH)²
+    structural: HO-C-C-OH
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol|Ethylene_Glycol]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.public|Ethylene_Glycol.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.internal|Ethylene_Glycol.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.protect|Ethylene_Glycol.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.private|Ethylene_Glycol.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.personal|Ethylene_Glycol.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.secret|Ethylene_Glycol.secret]]"
+dv_has_formula_sum: (CH²OH)²
+dv_has_formula_structural: HO-C-C-OH
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol|Ethylene_Glycol]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.public|Ethylene_Glycol.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.internal|Ethylene_Glycol.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.protect|Ethylene_Glycol.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.private|Ethylene_Glycol.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.personal|Ethylene_Glycol.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.secret|Ethylene_Glycol.secret]]"
 ---
 
 # [[Ethylene_Glycol]] 
 
-#has_/formula_/sum  :: (CH²OH)² 
-#has_/formula_/structural :: HO-C-C-OH 
+has_formula_sum = `=this.dv_has_formula_sum` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 ## #has_/text_of_/abstract 
 

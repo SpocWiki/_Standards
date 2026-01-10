@@ -28,14 +28,16 @@ type: Predi_Relation
 
 Another gene which is a variation of this one.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #is_/alternative_to :: Gene ] or 
+- [is_/alternative_to :: Gene ] 
 - [ is_alternative_to :: Gene ] 
 
 Relation describes that: 
-[ #has_/domain  :: Gene ]
+
+#has_/domain  :: Gene  
+
 ( #has_/name :: is_alternative_to )
 ( #has_/range :: Gene )
 

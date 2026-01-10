@@ -3,33 +3,33 @@ aliases:
   - Californium
 has_id_wikidata: Q1888
 atomic_number: 98
-canonical_SMILES: '[Cf]'
+canonical_SMILES: "[Cf]"
 CAS_Registry_Number: 7440-71-3
 chemical_formula: Cf
 Commons_category: Californium
 density: 15.1
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 Dewey_Decimal_Classification: 546.448
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
-  - '[[_Standards/WikiData/WD~Kenneth_Street_Jr.,1989591]]'
-  - '[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]'
-  - '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+  - "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
+  - "[[_Standards/WikiData/WD~Kenneth_Street_Jr.,1989591]]"
+  - "[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]"
+  - "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
 DSSTOX_compound_identifier: DTXCID00147883
 electronegativity: 1.3
-electron_configuration: '[Rn] 5f¹⁰ 7s²'
+electron_configuration: "[Rn] 5f¹⁰ 7s²"
 element_symbol: Cf
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Californium.jpg
 InChI: InChI=1S/Cf
 InChIKey: HGLDOAKPQXAFKI-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.82
   - 0.92
   - 0.95
-location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+location_of_discovery: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
 melting_point: 1173
 MeSH_tree_code:
   - D01.268.271.100.150
@@ -37,51 +37,136 @@ MeSH_tree_code:
   - D01.496.749.305.100.150
   - D01.552.020.200
   - D01.552.544.156
-named_after: '[[_Standards/WikiData/WD~California,99]]'
+named_after: "[[_Standards/WikiData/WD~California,99]]"
 OmegaWiki_Defined_Meaning: 156905
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~actinide,19577]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20143.jpg
 PubChem_CID: 23997
 SpocWebEntityId: 21993
 time_of_discovery_or_invention: 1950
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_californium,8085325]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_californium,8085325]]"
 type: Element
 UMLS_CUI: C0006758
 Unicode_character: 鉲
 UNII: 975X05H15A
+dv_has_:
+  name_:
+    group: Actinide-Group
+    en: Californium
+    de: Californium
+    abbreviated: Cf
+  value_for_:
+    weight_:
+      u: 249
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 0
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 6.3
+    electronegativity: 1.3
+    density: 0
+    temperature_:
+      melt_:
+        c: 0
+      boil_:
+        c: 0
+    capacity_:
+      heat: 0
+    conductivity_:
+      heat: 0.1
+    enthalpy: 0
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 32
+    electrons: 98
+dv_is_:
+  part_of: "[[../Actinide]]"
+  same_as:
+    - "[[../../../WikiData/WD~Californium,1888]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Californium|Californium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Actinide/Californium.public|Californium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Californium.internal|Californium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Californium.protect|Californium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Actinide/Californium.private|Californium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Californium.personal|Californium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Californium.secret|Californium.secret]]"
+dv_has_name_group: Actinide-Group
+dv_is_part_of: "[[../Actinide]]"
+dv_has_name_en: Californium
+dv_has_name_de: Californium
+dv_has_name_abbreviated: Cf
+dv_has_value_for_weight_u: 249
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 0
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 6.3
+dv_has_value_for_electronegativity: 1.3
+dv_has_value_for_density: 0
+dv_has_value_for_temperature_melt_c: 0
+dv_has_value_for_temperature_boil_c: 0
+dv_has_value_for_capacity_heat: 0
+dv_has_value_for_conductivity_heat: 0.1
+dv_has_value_for_enthalpy: 0
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 32
+dv_has_number_of_electrons: 98
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Californium,1888]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Californium|Californium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Actinide/Californium.public|Californium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Californium.internal|Californium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Californium.protect|Californium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Actinide/Californium.private|Californium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Californium.personal|Californium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Californium.secret|Californium.secret]]"
 ---
 
 # [[Californium]]
 
 
 #chemic/Element 
-[GroupName::Actinide-Group]
-Group::[[../Actinide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
+has_name_de = `=this.dv_has_name_de` 
 
-[#has_/name_/en::Californium]
-[#has_/name_/de::Californium]
-(Abbr::Cf)
-[#has_/value_for_/weight_/u::249]
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::0]
-[Unknown2::0]
-[#has_/value_for_/radius_/nano_/m::6.3]
-[Electronegative::1.3]
-[Density::0]
-[#has_/value_for_/temperature_/melt_/c ::0]
-[#has_/value_for_/temperature_/boil_/c ::0]
-[HeatCapacity::0]
-[HeatConduct::0.1]
-[Enthalpy::0]
-[FormEnergy-kj-mol::0]
-(PeriodNo::7)
-(GroupNo::32)
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 []
-(Charge-e::98)
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 #is_/same_as :: [[../../../WikiData/WD~Californium,1888]] 
 

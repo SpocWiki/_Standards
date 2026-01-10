@@ -3,6 +3,25 @@ aliases:
   - Group-05-Vanadium
 has_id_wikidata: Q193276
 type: ElementGroup
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Group_5,193276]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium|Group-05-Vanadium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium.public|Group-05-Vanadium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium.internal|Group-05-Vanadium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium.protect|Group-05-Vanadium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium.private|Group-05-Vanadium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium.personal|Group-05-Vanadium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium.secret|Group-05-Vanadium.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Group_5,193276]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium|Group-05-Vanadium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium.public|Group-05-Vanadium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium.internal|Group-05-Vanadium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium.protect|Group-05-Vanadium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium.private|Group-05-Vanadium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium.personal|Group-05-Vanadium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium.secret|Group-05-Vanadium.secret]]"
 ---
 
 # [[Group-05-Vanadium]] 

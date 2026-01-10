@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/sub_organization :: Organization ] or 
+- [has_/sub_organization :: Organization ] 
 - [ has_sub_organization :: Organization ] 
 
 A relationship between two organizations where the first includes the second, e.g., as a subsidiary. See also: the more specific 'department' property.
 
 Relation describes that: 
-[ #has_/domain  :: Organization ]
+
+#has_/domain  :: Organization  
+
 ( #has_/name :: is_sub_organization )
 ( #has_/range :: Organization )
 
-[ #is_/inverse_of  :: parentOrganization ]
-
+#is_/inverse_of  :: parentOrganization  
 
 ## Confidential Links & Embeds: 
 

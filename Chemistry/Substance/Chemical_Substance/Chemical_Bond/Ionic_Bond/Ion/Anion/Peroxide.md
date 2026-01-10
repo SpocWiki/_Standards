@@ -19,6 +19,25 @@ MeSH_tree_code:
   - D02.389.593.374
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/PEROKSIDI.html
 Commons_category: Peroxides
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Peroxide,107429]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide|Peroxide]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.public|Peroxide.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.internal|Peroxide.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.protect|Peroxide.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.private|Peroxide.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.personal|Peroxide.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.secret|Peroxide.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Peroxide,107429]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide|Peroxide]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.public|Peroxide.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.internal|Peroxide.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.protect|Peroxide.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.private|Peroxide.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.personal|Peroxide.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.secret|Peroxide.secret]]"
 ---
 
 # [[Peroxide]] 

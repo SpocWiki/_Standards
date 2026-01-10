@@ -25,41 +25,41 @@ Unicode_character: 鍺
 UNII: 00072J7XWS
 ZVG_number: 8270
 atomic_number: 32
-canonical_SMILES: '[Ge]'
+canonical_SMILES: "[Ge]"
 chemical_formula: Ge
 different_from:
-  - '[[_Standards/WikiData/WD~Geranium,157211]]'
-  - '[[_Standards/WikiData/WD~German,348514]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Clemens_Winkler,73523]]'
+  - "[[_Standards/WikiData/WD~Geranium,157211]]"
+  - "[[_Standards/WikiData/WD~German,348514]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Clemens_Winkler,73523]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 electrical_conductivity: 2.17
 electronegativity: 2.01
 element_symbol: Ge
-found_in_taxon: '[[_Standards/WikiData/WD~Panax_ginseng,182881]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Panax_ginseng,182881]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Germanium%20element.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.39
   - 0.53
   - 0.73
-location_of_discovery: '[[_Standards/WikiData/WD~Germany,183]]'
+location_of_discovery: "[[_Standards/WikiData/WD~Germany,183]]"
 made_from_material:
-  - '[[_Standards/WikiData/WD~sphalerite,105006]]'
-  - '[[_Standards/WikiData/WD~fly_ash,236139]]'
-  - '[[_Standards/WikiData/WD~briartite,411555]]'
-  - '[[_Standards/WikiData/WD~germanite,425076]]'
-  - '[[_Standards/WikiData/WD~argyrodite,425364]]'
-  - '[[_Standards/WikiData/WD~renierite,425630]]'
+  - "[[_Standards/WikiData/WD~sphalerite,105006]]"
+  - "[[_Standards/WikiData/WD~fly_ash,236139]]"
+  - "[[_Standards/WikiData/WD~briartite,411555]]"
+  - "[[_Standards/WikiData/WD~germanite,425076]]"
+  - "[[_Standards/WikiData/WD~argyrodite,425364]]"
+  - "[[_Standards/WikiData/WD~renierite,425630]]"
 mass: 72.63
-named_after: '[[_Standards/WikiData/WD~Germany,183]]'
+named_after: "[[_Standards/WikiData/WD~Germany,183]]"
 oxidation_state:
   - -4
   - -3
@@ -70,46 +70,131 @@ oxidation_state:
   - 3
   - 4
 part_of:
-  - '[[_Standards/WikiData/WD~group_14,106693]]'
-  - '[[_Standards/WikiData/WD~period_4,239825]]'
+  - "[[_Standards/WikiData/WD~group_14,106693]]"
+  - "[[_Standards/WikiData/WD~period_4,239825]]"
 standard_molar_entropy: 31.1
 subclass_of:
-  - '[[_Standards/WikiData/WD~covalent_network_solid,632350]]'
-  - '[[_Standards/WikiData/WD~metalloid,19596]]'
+  - "[[_Standards/WikiData/WD~covalent_network_solid,632350]]"
+  - "[[_Standards/WikiData/WD~metalloid,19596]]"
 time_of_discovery_or_invention: 1886-01-01T00:00:00Z
 type: Element
+dv_has_:
+  name_:
+    group: Group-14-Carbon
+    en: Germanium
+    de: Germanium
+    abbreviated: Ge
+  value_for_:
+    weight_:
+      u: 72.59
+    radius: 1.52
+    volume_:
+      ccm_:
+        mol: 13.6
+    unknown2: 1.22
+    radius_:
+      nano_:
+        m: 7.899
+    electronegativity: 2
+    density: 5.32
+    temperature_:
+      melt_:
+        c: 937.4
+      boil_:
+        c: 2830
+    capacity_:
+      heat: 0.32
+    conductivity_:
+      heat: 0.599
+    enthalpy: 36.94
+    energy_:
+      form_:
+        kj_:
+          mol: 330.9
+  number_of_:
+    period: 4
+    group: 14
+    electrons: 32
+dv_is_:
+  part_of: "[[../Group-14-Carbon]]"
+  same_as:
+    - "[[../../WikiData/WD~Germanium,867|WD~Germanium,867]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Germanium|Germanium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.public|Germanium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.internal|Germanium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.protect|Germanium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.private|Germanium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.personal|Germanium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.secret|Germanium.secret]]"
+dv_has_name_group: Group-14-Carbon
+dv_is_part_of: "[[../Group-14-Carbon]]"
+dv_has_name_en: Germanium
+dv_has_name_de: Germanium
+dv_has_value_for_weight_u: 72.59
+dv_has_value_for_radius: 1.52
+dv_has_value_for_volume_ccm_mol: 13.6
+dv_has_value_for_unknown2: 1.22
+dv_has_value_for_radius_nano_m: 7.899
+dv_has_value_for_electronegativity: 2
+dv_has_value_for_density: 5.32
+dv_has_value_for_temperature_melt_c: 937.4
+dv_has_value_for_temperature_boil_c: 2830
+dv_has_value_for_capacity_heat: 0.32
+dv_has_value_for_conductivity_heat: 0.599
+dv_has_value_for_enthalpy: 36.94
+dv_has_value_for_energy_form_kj_mol: 330.9
+dv_has_number_of_period: 4
+dv_has_number_of_group: 14
+dv_is_same_as:
+  - "[[../../WikiData/WD~Germanium,867|WD~Germanium,867]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Germanium|Germanium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.public|Germanium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.internal|Germanium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.protect|Germanium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.private|Germanium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.personal|Germanium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Germanium.secret|Germanium.secret]]"
+dv_has_name_abbreviated: Ge
+dv_has_number_of_electrons: 32
 ---
 
 # [[Germanium]]
 
 #chemic/Element 
-[GroupName::Group-14-Carbon]
-Group::[[../Group-14-Carbon]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Germanium]
-[#has_/name_/de::Germanium]
-[#has_/value_for_/weight_/u::72.59]
-[AtomRadius::1.52]
-[Atom-Vol-ccm-mol::13.6]
-[Unknown2::1.22]
-[#has_/value_for_/radius_/nano_/m::7.899]
-[Electronegative::2]
-[Density::5.32]
-[#has_/value_for_/temperature_/melt_/c ::937.4]
-[#has_/value_for_/temperature_/boil_/c ::2830]
-[HeatCapacity::0.32]
-[HeatConduct::0.599]
-[Enthalpy::36.94]
-[FormEnergy-kj-mol::330.9]
-(PeriodNo::4)
-(GroupNo::14)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../WikiData/WD~Germanium,867|WD~Germanium,867]]
 
 ## #has_/text_of_/abstract 
 
-> **Germanium** is a chemical element with the symbol (Abbr::Ge) and atomic number (Charge-e::32). 
+> **Germanium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is lustrous, hard-brittle, grayish-white and similar in appearance to silicon. 
 > It is a metalloid in the carbon group that is chemically similar to its group neighbors silicon and tin. 
 > Like silicon, germanium naturally reacts and forms complexes with oxygen in nature.

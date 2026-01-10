@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: OfferItemCondition
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - new_condition
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_new_condition Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_new_condition Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../OfferItemCondition]]"
+  enum_of: "[[../OfferItemCondition]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition/New_Condition|New_Condition]]"
+    - "[[/_public/schema-org/Enumeration/Offer_Item_Condition/New_Condition.public|New_Condition.public]]"
+    - "[[/_internal/schema-org/Enumeration/Offer_Item_Condition/New_Condition.internal|New_Condition.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Offer_Item_Condition/New_Condition.protect|New_Condition.protect]]"
+    - "[[/_private/schema-org/Enumeration/Offer_Item_Condition/New_Condition.private|New_Condition.private]]"
+    - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition/New_Condition.personal|New_Condition.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition/New_Condition.secret|New_Condition.secret]]"
+dv_is_sub_class_of: "[[../OfferItemCondition]]"
+dv_is_enum_of: "[[../OfferItemCondition]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition/New_Condition|New_Condition]]"
+  - "[[/_public/schema-org/Enumeration/Offer_Item_Condition/New_Condition.public|New_Condition.public]]"
+  - "[[/_internal/schema-org/Enumeration/Offer_Item_Condition/New_Condition.internal|New_Condition.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Offer_Item_Condition/New_Condition.protect|New_Condition.protect]]"
+  - "[[/_private/schema-org/Enumeration/Offer_Item_Condition/New_Condition.private|New_Condition.private]]"
+  - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition/New_Condition.personal|New_Condition.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition/New_Condition.secret|New_Condition.secret]]"
 ---
 
 Class of all new_conditions.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 Indicates that the item is new.
 
-[ #is_/sub_class_of :: [[../OfferItemCondition]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../OfferItemCondition]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

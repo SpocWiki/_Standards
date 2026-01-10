@@ -30,6 +30,25 @@ Dewey_Decimal_Classification: "576.839"
 UMLS_CUI: C2713307
 MeSH_tree_code: H01.158.273.295
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/ASTROBIOLOGIYA.html
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Astrobiology,411|WD~Astrobiology,411]]"
+    - "[[/_Standards/Astronomy/Astrobiology|Astrobiology]]"
+    - "[[/_public/Astronomy/Astrobiology.public|Astrobiology.public]]"
+    - "[[/_internal/Astronomy/Astrobiology.internal|Astrobiology.internal]]"
+    - "[[/_protect/Astronomy/Astrobiology.protect|Astrobiology.protect]]"
+    - "[[/_private/Astronomy/Astrobiology.private|Astrobiology.private]]"
+    - "[[/_personal/Astronomy/Astrobiology.personal|Astrobiology.personal]]"
+    - "[[/_secret/Astronomy/Astrobiology.secret|Astrobiology.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Astrobiology,411|WD~Astrobiology,411]]"
+  - "[[/_Standards/Astronomy/Astrobiology|Astrobiology]]"
+  - "[[/_public/Astronomy/Astrobiology.public|Astrobiology.public]]"
+  - "[[/_internal/Astronomy/Astrobiology.internal|Astrobiology.internal]]"
+  - "[[/_protect/Astronomy/Astrobiology.protect|Astrobiology.protect]]"
+  - "[[/_private/Astronomy/Astrobiology.private|Astrobiology.private]]"
+  - "[[/_personal/Astronomy/Astrobiology.personal|Astrobiology.personal]]"
+  - "[[/_secret/Astronomy/Astrobiology.secret|Astrobiology.secret]]"
 ---
 
 # [[Astrobiology]] 

@@ -33,19 +33,20 @@ type: Pred_Text
 Predicate to describe the short textual code, 
 that uniquely identifies the value of CategoryCode, MedicalCode.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/code_/value :: Text ] or 
+- [has_/code_/value :: Text ] 
 - [ has_code_value :: Text ] 
 
 Predicated describes that: 
-[ #has_/domain  :: [[../../Class/is_a_/Intangible/defined_term/category_code|CategoryCode]], [[../../Class/is_a_/Intangible/defined_term/category_code/medical_code|MedicalCode]] ]
+
+#has_/domain  :: [[../../Class/is_a_/Intangible/defined_term/category_code|CategoryCode]], [[../../Class/is_a_/Intangible/defined_term/category_code/medical_code|MedicalCode]]  
+
 ( #has_/name :: has_code_value )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: termCode ]
-
+#is_/sub_property_of  :: termCode  
 
 ## Confidential Links & Embeds: 
 

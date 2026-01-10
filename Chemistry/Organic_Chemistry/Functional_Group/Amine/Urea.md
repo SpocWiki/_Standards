@@ -127,13 +127,36 @@ canonical_SMILES: C(=O)(N)N
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sample%20of%20Urea.jpg
 EC_number: 200-315-5
 CAS_Registry_Number: 57-13-6
+dv_is_:
+  same_as:
+    - "[[WD~Urea,48318]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Amine/Urea|Urea]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Amine/Urea.public|Urea.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Amine/Urea.internal|Urea.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Amine/Urea.protect|Urea.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Amine/Urea.private|Urea.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Amine/Urea.personal|Urea.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Amine/Urea.secret|Urea.secret]]"
+dv_has_:
+  formula_:
+    structural: H²N−C(=O)−NH²
+dv_is_same_as:
+  - "[[WD~Urea,48318]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Amine/Urea|Urea]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Amine/Urea.public|Urea.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Amine/Urea.internal|Urea.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Amine/Urea.protect|Urea.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Amine/Urea.private|Urea.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Amine/Urea.personal|Urea.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Amine/Urea.secret|Urea.secret]]"
+dv_has_formula_structural: H²N−C(=O)−NH²
 ---
 
 # [[Urea]] 
 
 #is_/same_as :: [[WD~Urea,48318]] 
 
-#has_/formula_/structural :: H²N−C(=O)−NH²
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 ## #has_/text_of_/abstract 
 

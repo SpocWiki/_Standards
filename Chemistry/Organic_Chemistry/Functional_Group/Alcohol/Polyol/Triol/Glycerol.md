@@ -175,12 +175,35 @@ MeSH_tree_code:
   - D02.033.800.875.500
   - D09.853.875.500
 DSSTOX_compound_identifier: DTXCID40662
+dv_is_:
+  same_as:
+    - "[[wd Glycerol]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol|Glycerol]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.public|Glycerol.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.internal|Glycerol.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.protect|Glycerol.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.private|Glycerol.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.personal|Glycerol.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.secret|Glycerol.secret]]"
+dv_has_:
+  formula_:
+    sum: HO-CH²-COH²-CH²-OH
+dv_is_same_as:
+  - "[[wd Glycerol]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol|Glycerol]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.public|Glycerol.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.internal|Glycerol.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.protect|Glycerol.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.private|Glycerol.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.personal|Glycerol.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.secret|Glycerol.secret]]"
+dv_has_formula_sum: HO-CH²-COH²-CH²-OH
 ---
 
 # [[Glycerol]] 
 
 #is_/same_as :: [[wd Glycerol]]
-#has_/formula_/sum :: HO-CH²-COH²-CH²-OH
+has_formula_sum = `=this.dv_has_formula_sum` 
 ## #has_/formula_/structural   
 
 ```

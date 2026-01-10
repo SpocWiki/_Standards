@@ -29,16 +29,18 @@ type: Predi_Count
 
 Predicate to describe the Number of CDCPMDRecord.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/number_of_/Covid_c19hosp_patients :: Number ] or 
+- [has_/number_of_/Covid_c19hosp_patients :: Number ] 
 - [ has_number_of_Covid_c19hosp_patients :: Number ] 
 
 numc19hosppats - HOSPITALIZED: Patients currently hospitalized in an inpatient care location who have suspected or confirmed COVID-19.
 
 Predicate describes that: 
-[ #has_/domain  :: CDCPMDRecord ]
+
+#has_/domain  :: CDCPMDRecord  
+
 ( #has_/name :: has_number_of_Covid_c19hosp_patients )
 ( #has_/range :: Number )
 

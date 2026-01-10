@@ -7,81 +7,81 @@ aliases:
   - Ranke,Leopold von
 has_id_wikidata: Q77184
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Heinrich_von_Sybel,65600]]'
-  - '[[_Standards/WikiData/WD~Albert_Hauck,72609]]'
-  - '[[_Standards/WikiData/WD~Philipp_Jaffé,77713]]'
-  - '[[_Standards/WikiData/WD~Timofey_Granovsky,555693]]'
+  - "[[_Standards/WikiData/WD~Heinrich_von_Sybel,65600]]"
+  - "[[_Standards/WikiData/WD~Albert_Hauck,72609]]"
+  - "[[_Standards/WikiData/WD~Philipp_Jaffé,77713]]"
+  - "[[_Standards/WikiData/WD~Timofey_Granovsky,555693]]"
 student:
-  - '[[_Standards/WikiData/WD~Albert_Hauck,72609]]'
-  - '[[_Standards/WikiData/WD~Adolf_Holm,100735]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
-student_of: '[[_Standards/WikiData/WD~Johann_Gottfried_Jakob_Hermann,77616]]'
+  - "[[_Standards/WikiData/WD~Albert_Hauck,72609]]"
+  - "[[_Standards/WikiData/WD~Adolf_Holm,100735]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Lutheranism,75809]]"
+student_of: "[[_Standards/WikiData/WD~Johann_Gottfried_Jakob_Hermann,77616]]"
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
-  - '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
-  - '[[_Standards/WikiData/WD~German_Archaeological_Institute,695302]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Letters,_History_and_Antiquities,1792159]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
-  - '[[_Standards/WikiData/WD~Society_of_Serbian_Letters,12751277]]'
-  - '[[_Standards/WikiData/WD~Serbian_Learned_Society,12759592]]'
-employer: '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+  - "[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]"
+  - "[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]"
+  - "[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]"
+  - "[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]"
+  - "[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]"
+  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
+  - "[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]"
+  - "[[_Standards/WikiData/WD~German_Archaeological_Institute,695302]]"
+  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Letters,_History_and_Antiquities,1792159]]"
+  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]"
+  - "[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]"
+  - "[[_Standards/WikiData/WD~Society_of_Serbian_Letters,12751277]]"
+  - "[[_Standards/WikiData/WD~Serbian_Learned_Society,12759592]]"
+employer: "[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]"
 educated_at:
-  - '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
-  - '[[_Standards/WikiData/WD~Landesschule_Pforta,162494]]'
+  - "[[_Standards/WikiData/WD~Leipzig_University,154804]]"
+  - "[[_Standards/WikiData/WD~Landesschule_Pforta,162494]]"
 occupation:
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~academic,3400985]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-place_of_burial: '[[_Standards/WikiData/WD~Sophienkirche,470667]]'
-place_of_birth: '[[_Standards/WikiData/WD~Wiehe,518287]]'
+  - "[[_Standards/WikiData/WD~historian,201788]]"
+  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
+  - "[[_Standards/WikiData/WD~academic,3400985]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+place_of_burial: "[[_Standards/WikiData/WD~Sophienkirche,470667]]"
+place_of_birth: "[[_Standards/WikiData/WD~Wiehe,518287]]"
 award_received:
-  - '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
-  - '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Berlin,15124573]]'
+  - "[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]"
+  - "[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]"
+  - "[[_Standards/WikiData/WD~honorary_citizen_of_Berlin,15124573]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - "[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
-given_name: '[[_Standards/WikiData/WD~Leopold,1076652]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+academic_degree: "[[_Standards/WikiData/WD~doctorate,849697]]"
+given_name: "[[_Standards/WikiData/WD~Leopold,1076652]]"
 sibling:
-  - '[[_Standards/WikiData/WD~Ernst_Ranke,1359847]]'
-  - '[[_Standards/WikiData/WD~Friedrich_Heinrich_Ranke,1459614]]'
-  - '[[_Standards/WikiData/WD~Karl_Ferdinand_Ranke,1730952]]'
+  - "[[_Standards/WikiData/WD~Ernst_Ranke,1359847]]"
+  - "[[_Standards/WikiData/WD~Friedrich_Heinrich_Ranke,1459614]]"
+  - "[[_Standards/WikiData/WD~Karl_Ferdinand_Ranke,1730952]]"
 child:
-  - '[[_Standards/WikiData/WD~Fridhelm_von_Ranke,1457275]]'
-  - '[[_Standards/WikiData/WD~Otto_von_Ranke,19223092]]'
-  - '[[_Standards/WikiData/WD~Maximiliane_von_Ranke,76018529]]'
-  - '[[_Standards/WikiData/WD~Albrecht_von_Ranke,76018533]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Ranke,37219594]]'
-position_held: '[[_Standards/WikiData/WD~Historiographer_of_the_Prussian_state,41160478]]'
-spouse: '[[_Standards/WikiData/WD~Clarissa_Graves,47038467]]'
-family: '[[_Standards/WikiData/WD~Ranke_family,50312919]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+  - "[[_Standards/WikiData/WD~Fridhelm_von_Ranke,1457275]]"
+  - "[[_Standards/WikiData/WD~Otto_von_Ranke,19223092]]"
+  - "[[_Standards/WikiData/WD~Maximiliane_von_Ranke,76018529]]"
+  - "[[_Standards/WikiData/WD~Albrecht_von_Ranke,76018533]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+family_name: "[[_Standards/WikiData/WD~Ranke,37219594]]"
+position_held: "[[_Standards/WikiData/WD~Historiographer_of_the_Prussian_state,41160478]]"
+spouse: "[[_Standards/WikiData/WD~Clarissa_Graves,47038467]]"
+family: "[[_Standards/WikiData/WD~Ranke_family,50312919]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
 date_of_death: 1886-05-23T00:00:00Z
-field_of_work: '[[_Standards/WikiData/WD~history,309]]'
+field_of_work: "[[_Standards/WikiData/WD~history,309]]"
 work_location:
-  - '[[_Standards/WikiData/WD~Frankfurt_(Oder),4024]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-place_of_death: '[[_Standards/WikiData/WD~Berlin,64]]'
-writing_language: '[[_Standards/WikiData/WD~German,188]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
+  - "[[_Standards/WikiData/WD~Frankfurt_(Oder),4024]]"
+  - "[[_Standards/WikiData/WD~Berlin,64]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+place_of_death: "[[_Standards/WikiData/WD~Berlin,64]]"
+writing_language: "[[_Standards/WikiData/WD~German,188]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
 Commons_Creator_page: Leopold von Ranke
 Commons_category: Leopold von Ranke
 BHCL_UUID: 8e5622d6-089d-41e0-9b9c-2bf35af24585
@@ -94,9 +94,28 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jebens%2C%20Adolf%20-%
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B2%E0%A5%87%E0%A4%93%E0%A4%AA%E0%A5%8B%E0%A4%B2%E0%A5%8D%E0%A4%A1%20%E0%A4%AB%E0%A5%89%E0%A4%A8%20%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%95.wav
 described_at_URL: http://www.digiporta.net/index.php?id=233544957
 ISNI:
-  - 0000000020484824
-  - 0000000120956729
+  - 20484824
+  - 120956729
 Libris_URI: jgvx0dk20m72dfm
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Leopold_von_Ranke,77184]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von|Ranke,Leopold_von]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.public|Ranke,Leopold_von.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.internal|Ranke,Leopold_von.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.protect|Ranke,Leopold_von.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.private|Ranke,Leopold_von.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.personal|Ranke,Leopold_von.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.secret|Ranke,Leopold_von.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Leopold_von_Ranke,77184]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von|Ranke,Leopold_von]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.public|Ranke,Leopold_von.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.internal|Ranke,Leopold_von.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.protect|Ranke,Leopold_von.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.private|Ranke,Leopold_von.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.personal|Ranke,Leopold_von.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Ranke,Leopold_von.secret|Ranke,Leopold_von.secret]]"
 ---
 
 # [[Ranke,Leopold_von]] 

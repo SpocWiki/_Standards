@@ -26,18 +26,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/photo :: ImageObject, Photograph ] or 
+- [has_/photo :: ImageObject, Photograph ] 
 - [ has_photo :: ImageObject, Photograph ] 
 
 A photograph of this place.
 
 Relation describes that: 
-[ #has_/domain  :: Place ]
+
+#has_/domain  :: Place  
+
 ( #has_/name :: is_photo )
 ( #has_/range :: ImageObject, Photograph )
 
-[ #is_/sub_property_of  :: image ]
-
+#is_/sub_property_of  :: image  
 
 ## Confidential Links & Embeds: 
 

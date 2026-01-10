@@ -26,21 +26,22 @@ title: is_holding_archive
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending:]
+#is_/part_of :: pending: 
 
 Use it like this: 
-- [ #is_/holding_archive :: ArchiveOrganization] or 
+- [is_/holding_archive :: ArchiveOrganization] 
 - [ is_holding_archive :: ArchiveOrganization] 
 
 [[ArchiveOrganization]] that holds, keeps or maintains the [[ArchiveComponent]].
 
 Relation describes that: 
-[ #has_/domain  :: ArchiveComponent]
+
+#has_/domain  :: ArchiveComponent 
+
 ( #has_/name :: is_holding_archive)
 ( #has_/range :: ArchiveOrganization)
 
-[ #is_/inverse_of  :: archiveHeld]
-
+#is_/inverse_of  :: archiveHeld 
 
 ## Confidential Links & Embeds: 
 

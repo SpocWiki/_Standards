@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - pre_order_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_pre_order_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_pre_order_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../TradeAction]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action|Pre_Order_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.public|Pre_Order_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.internal|Pre_Order_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.protect|Pre_Order_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.private|Pre_Order_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.personal|Pre_Order_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.secret|Pre_Order_Action.secret]]"
+dv_has_:
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_sub_class_of: "[[../TradeAction]]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action|Pre_Order_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.public|Pre_Order_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.internal|Pre_Order_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.protect|Pre_Order_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.private|Pre_Order_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.personal|Pre_Order_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.secret|Pre_Order_Action.secret]]"
 ---
 
 Class of all pre_order_actions.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 An agent orders a (not yet released) object/product/service to be delivered/sent.
 
-[ #is_/sub_class_of :: [[../TradeAction]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

@@ -29,13 +29,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/reviewed_by :: Organization, Person ] or 
+- [is_/reviewed_by :: Organization, Person ] 
 - [ is_reviewed_by :: Organization, Person ] 
 
 People or organizations that have reviewed the content on this web page for accuracy and/or completeness.
 
 Relation describes that: 
-[ #has_/domain  :: WebPage ]
+
+#has_/domain  :: WebPage  
+
 ( #has_/name :: is_reviewed_by )
 ( #has_/range :: Organization, Person )
 

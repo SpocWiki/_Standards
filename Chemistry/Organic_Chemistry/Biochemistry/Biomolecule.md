@@ -14,6 +14,25 @@ OmegaWiki_Defined_Meaning: "1459536"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Myoglobin.png
 equivalent_class: http://dbpedia.org/ontology/Biomolecule
 Commons_category: Biomolecules
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Biomolecule,206229|WD~Biomolecule,206229]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule|Biomolecule]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.public|Biomolecule.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.internal|Biomolecule.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.protect|Biomolecule.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.private|Biomolecule.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.personal|Biomolecule.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.secret|Biomolecule.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Biomolecule,206229|WD~Biomolecule,206229]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule|Biomolecule]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.public|Biomolecule.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.internal|Biomolecule.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.protect|Biomolecule.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.private|Biomolecule.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.personal|Biomolecule.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Biomolecule.secret|Biomolecule.secret]]"
 ---
 
 # [[Biomolecule]] 

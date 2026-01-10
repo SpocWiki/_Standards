@@ -358,7 +358,7 @@ dv_ISO4217-currency_country_name: PANAMA
 dv_Telephone: 507
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Panama
+dv_has_name: Panama
 dv_has_name_en: Panama
 dv_has_name_es: Panamá
 dv_has_name_fr: Panama
@@ -451,7 +451,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Panama ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

@@ -4,7 +4,9 @@
 #is_a_/computer_language  
 
 #has_/parent :: [[../Prog~LISP|Prog~LISP]] 
-[#has_/creator :: [ [[Sussman~Gerald Jay]],[[Steele~Guy_L]] ] ]
+
+#has_/creator :: [ [[Sussman~Gerald Jay]],[[Steele~Guy_L]] ]  
+
 #has_/time_/started :: 1975-07-01 
 
 

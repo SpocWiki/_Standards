@@ -5,13 +5,13 @@ aliases:
   - Hertzsprung–Russell Diagram
 has_id_wikidata: Q3270143
 named_after:
-  - '[[_Standards/WikiData/WD~Henry_Norris_Russell,273159]]'
-  - '[[_Standards/WikiData/WD~Ejnar_Hertzsprung,295099]]'
-subclass_of: '[[_Standards/WikiData/WD~diagram,959962]]'
-instance_of: '[[_Standards/WikiData/WD~scatter_plot,1045782]]'
-different_from: '[[_Standards/WikiData/WD~galaxy_color_magnitude_diagram,3025899]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Star_nav,8084776]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - "[[_Standards/WikiData/WD~Henry_Norris_Russell,273159]]"
+  - "[[_Standards/WikiData/WD~Ejnar_Hertzsprung,295099]]"
+subclass_of: "[[_Standards/WikiData/WD~diagram,959962]]"
+instance_of: "[[_Standards/WikiData/WD~scatter_plot,1045782]]"
+different_from: "[[_Standards/WikiData/WD~galaxy_color_magnitude_diagram,3025899]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Star_nav,8084776]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 OmegaWiki_Defined_Meaning: 1011827
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/HR-diag-no-text-2.svg
@@ -50,6 +50,25 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/RasmHersel.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Hertzsprung-Russell-Diagramm.wav
 Commons_category: Hertzsprung–Russell diagram
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Hertzsprung–Russell_diagram,3270143]]"
+    - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram|Hertzsprung–Russell_Diagram]]"
+    - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.public|Hertzsprung–Russell_Diagram.public]]"
+    - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.internal|Hertzsprung–Russell_Diagram.internal]]"
+    - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.protect|Hertzsprung–Russell_Diagram.protect]]"
+    - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.private|Hertzsprung–Russell_Diagram.private]]"
+    - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.personal|Hertzsprung–Russell_Diagram.personal]]"
+    - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.secret|Hertzsprung–Russell_Diagram.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Hertzsprung–Russell_diagram,3270143]]"
+  - "[[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram|Hertzsprung–Russell_Diagram]]"
+  - "[[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.public|Hertzsprung–Russell_Diagram.public]]"
+  - "[[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.internal|Hertzsprung–Russell_Diagram.internal]]"
+  - "[[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.protect|Hertzsprung–Russell_Diagram.protect]]"
+  - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.private|Hertzsprung–Russell_Diagram.private]]"
+  - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.personal|Hertzsprung–Russell_Diagram.personal]]"
+  - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Hertzsprung–Russell_Diagram.secret|Hertzsprung–Russell_Diagram.secret]]"
 ---
 
 # [[Hertzsprung–Russell_Diagram]] 

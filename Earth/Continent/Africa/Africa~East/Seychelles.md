@@ -304,7 +304,7 @@ dv_ISO4217-currency_country_name: SEYCHELLES
 dv_Telephone: 248
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Seychelles
+dv_has_name: Seychelles
 dv_has_name_en: Seychelles
 dv_has_name_es: Seychelles
 dv_has_name_fr: Seychelles
@@ -399,7 +399,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Seychelles ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

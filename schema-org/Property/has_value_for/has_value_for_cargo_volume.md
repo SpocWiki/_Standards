@@ -10,28 +10,56 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - cargo-volume
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_cargo-volume
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_cargo-volume
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    cargo_volume: QuantitativeValue
+  domain: Vehicle
+dv_has_value_for_cargo_volume: QuantitativeValue
+dv_#has_:
+  name: has_value_for_cargo_volume
+  range: QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_cargo_volume|has_value_for_cargo_volume]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_cargo_volume.public|has_value_for_cargo_volume.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_cargo_volume.internal|has_value_for_cargo_volume.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_cargo_volume.protect|has_value_for_cargo_volume.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_cargo_volume.private|has_value_for_cargo_volume.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_cargo_volume.personal|has_value_for_cargo_volume.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_cargo_volume.secret|has_value_for_cargo_volume.secret]]"
+dv_has_domain: Vehicle
+dv_has_name: has_value_for_cargo_volume
+dv_has_range: QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_cargo_volume|has_value_for_cargo_volume]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_cargo_volume.public|has_value_for_cargo_volume.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_cargo_volume.internal|has_value_for_cargo_volume.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_cargo_volume.protect|has_value_for_cargo_volume.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_cargo_volume.private|has_value_for_cargo_volume.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_cargo_volume.personal|has_value_for_cargo_volume.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_cargo_volume.secret|has_value_for_cargo_volume.secret]]"
 ---
 
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- [ #has_/value_for_/cargo_volume :: QuantitativeValue ] or 
-- [ has_value_for_cargo_volume :: QuantitativeValue ] 
+- has_value_for_cargo_volume = `=this.dv_has_value_for_cargo_volume`  
+- has_value_for_cargo_volume = `=this.dv_has_value_for_cargo_volume`  
 
 The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
 
@@ -44,9 +72,11 @@ Typical unit code(s): LTR for liters, FTQ for cubic foot/feet
 Note: You can use [[minValue]] and [[maxValue]] to indicate ranges.
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
-( #has_/name :: has_value_for_cargo_volume )
-( #has_/range :: QuantitativeValue )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
