@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1889-09-21 
 aliases:
   - General Conference on Weights and Measures

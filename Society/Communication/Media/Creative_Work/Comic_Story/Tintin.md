@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1929-01-10 
 aliases:
 has_id_wikidata: Q744536

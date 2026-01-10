@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1790-01-01 
 aliases:
   - Peking opera

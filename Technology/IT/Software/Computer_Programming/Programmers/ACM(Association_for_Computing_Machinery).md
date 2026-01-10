@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1947-09-15 
 aliases:
   - Association for Computing Machinery

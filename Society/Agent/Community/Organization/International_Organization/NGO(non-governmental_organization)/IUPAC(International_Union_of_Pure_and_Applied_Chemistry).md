@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1919-01-01 
 aliases:
   - International Union of Pure and Applied Chemistry

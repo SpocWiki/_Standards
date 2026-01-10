@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1948-08-23 
 aliases:
 has_id_wikidata: Q283639

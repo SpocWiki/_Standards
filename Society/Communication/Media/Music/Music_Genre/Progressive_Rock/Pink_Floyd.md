@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1964-01-01 
 aliases:
   - Pink Floyd

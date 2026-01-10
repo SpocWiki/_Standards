@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1961-05-28 
 aliases:
   - Amnesty_International

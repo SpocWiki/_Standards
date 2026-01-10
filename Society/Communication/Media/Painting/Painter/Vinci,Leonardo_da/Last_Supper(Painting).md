@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1490-01-01 
 location: [ 9.170833333 , 45.466666666 ] 
 aliases:

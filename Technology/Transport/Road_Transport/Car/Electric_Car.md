@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1835-01-01 
 aliases:
   - electric car or electric vehicle

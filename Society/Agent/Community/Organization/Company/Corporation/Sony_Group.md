@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1946-05-07 
 aliases:
   - Sony Corporation

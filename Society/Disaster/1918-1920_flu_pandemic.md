@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1918-01-01 
 has_time_stopped: 1920-12-01 
 aliases:

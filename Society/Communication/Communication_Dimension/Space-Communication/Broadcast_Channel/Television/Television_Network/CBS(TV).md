@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1927-09-18 
 aliases:
   - CBS Broadcasting Inc

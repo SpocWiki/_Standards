@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1904-04-16 
 aliases:
   - A.P. Møller – Mærsk

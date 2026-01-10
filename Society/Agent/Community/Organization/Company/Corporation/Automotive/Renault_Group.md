@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1898-12-24 
 aliases:
 has_id_wikidata: Q6686

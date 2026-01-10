@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1947-02-23 
 aliases:
   - International Organization for Standardization

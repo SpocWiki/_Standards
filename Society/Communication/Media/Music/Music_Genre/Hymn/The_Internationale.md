@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1871-01-01 
 aliases:
   - The_Internationale

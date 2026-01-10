@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2008-07-10 
 aliases:
 has_id_wikidata: Q344341

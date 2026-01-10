@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.269235555 , 48.861673888 ] 
 aliases:
   - Organization_for_Economic_Cooperation_and_Development

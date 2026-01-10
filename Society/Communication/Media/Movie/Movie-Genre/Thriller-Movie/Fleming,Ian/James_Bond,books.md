@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1953-01-01 
 aliases:
   - James_Bond

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1637-01-01 
 aliases:
   - Fermat's Last Theorem

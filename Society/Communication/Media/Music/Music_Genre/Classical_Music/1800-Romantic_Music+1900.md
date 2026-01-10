@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1800-01-01 
 has_time_stopped: 1900-01-01 
 aliases:

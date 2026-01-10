@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1594-01-01 
 aliases:
   - Comedy of Errors

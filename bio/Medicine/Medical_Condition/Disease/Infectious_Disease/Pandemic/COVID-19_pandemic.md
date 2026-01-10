@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2019-12-01 
 aliases:
   - COVID-19 pandemic

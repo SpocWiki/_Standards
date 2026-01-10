@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1966-12-16 
 aliases:
   - ICESCR

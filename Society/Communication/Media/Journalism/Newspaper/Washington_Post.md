@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1877-01-01 
 aliases:
   - The_Washington_Post

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2010-04-18 
 aliases:
 has_id_wikidata: Q170

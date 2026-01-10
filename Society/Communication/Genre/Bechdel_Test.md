@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1985-01-01 
 aliases:
   - Bechdel Test

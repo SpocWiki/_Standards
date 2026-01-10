@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_stopped: 0400-01-01 
 aliases:
   - Egyptian hieroglyphs

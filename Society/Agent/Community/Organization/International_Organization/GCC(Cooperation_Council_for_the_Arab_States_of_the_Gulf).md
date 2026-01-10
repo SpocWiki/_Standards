@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1981-01-01 
 aliases:
   - Cooperation Council for the Arab States of the Gulf

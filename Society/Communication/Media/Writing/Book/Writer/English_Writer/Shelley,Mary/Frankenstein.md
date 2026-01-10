@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1810-01-01 
 aliases:
   - Modern Prometheus

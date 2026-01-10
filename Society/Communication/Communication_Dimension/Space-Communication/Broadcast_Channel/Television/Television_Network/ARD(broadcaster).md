@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1950-06-05 
 aliases:
   - ARD(broadcaster)

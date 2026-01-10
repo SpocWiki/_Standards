@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1606-01-01 
 aliases:
   - Tragedy of Macbeth

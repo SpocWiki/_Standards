@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1985-12-08 
 aliases:
 has_id_wikidata: Q145700

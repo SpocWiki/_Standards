@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1774-01-01 
 aliases:
   - Goethe's Faust

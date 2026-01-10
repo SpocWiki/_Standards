@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1947-11-06 
 aliases:
 has_id_wikidata: Q1543066

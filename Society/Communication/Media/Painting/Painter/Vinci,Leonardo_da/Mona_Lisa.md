@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1503-01-01 
 aliases:
   - Mona Lisa

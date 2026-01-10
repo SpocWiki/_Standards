@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1863-01-01 
 aliases:
   - War and Peace

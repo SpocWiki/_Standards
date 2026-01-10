@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 4.295555555 , 52.086666666 ] 
 aliases:
   - International Court of Justice

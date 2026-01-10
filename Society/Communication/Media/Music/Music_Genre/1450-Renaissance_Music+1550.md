@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1400-01-01 
 aliases:
   - Renaissance_music

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1989-12-17 
 aliases:
   - The_Simpsons

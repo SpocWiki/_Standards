@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1948-12-10 
 aliases:
   - Universal Declaration of Human Rights

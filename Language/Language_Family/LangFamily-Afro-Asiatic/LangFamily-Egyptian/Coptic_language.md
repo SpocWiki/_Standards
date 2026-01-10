@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 0150-01-01 
 aliases:
   - Bohairic Coptic

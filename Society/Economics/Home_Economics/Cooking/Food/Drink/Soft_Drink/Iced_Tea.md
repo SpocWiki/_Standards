@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1876-01-01 
 aliases:
   - Iced tea

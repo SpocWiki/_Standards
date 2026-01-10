@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1957-10-04 
 has_time_stopped: 1975-07-01 
 aliases:

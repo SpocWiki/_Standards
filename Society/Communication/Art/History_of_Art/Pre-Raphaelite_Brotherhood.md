@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1848-01-01 
 aliases:
   - Pre-Raphaelite Brotherhood

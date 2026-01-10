@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1951-09-10 
 aliases:
 has_id_wikidata: Q828490

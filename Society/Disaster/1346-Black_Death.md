@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1346-01-01 
 has_time_stopped: 1352-01-01 
 aliases:

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1916-07-15 
 aliases:
   - Boeing

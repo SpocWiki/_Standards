@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2001-01-15 
 aliases:
 has_id_wikidata: Q52

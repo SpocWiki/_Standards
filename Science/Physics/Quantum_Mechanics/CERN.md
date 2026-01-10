@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1954-09-29 
 location: [ 6.049129 , 46.234493 ] 
 aliases:

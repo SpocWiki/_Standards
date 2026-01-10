@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1945-03-22 
 aliases:
   - Arab League

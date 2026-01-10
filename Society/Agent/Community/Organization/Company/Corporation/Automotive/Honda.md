@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1948-09-24 
 aliases:
 has_id_wikidata: Q9584

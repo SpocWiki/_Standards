@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1952-11-01 
 aliases:
 has_id_wikidata: Q312086

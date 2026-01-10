@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1993-02-09 
 aliases:
 has_id_wikidata: Q174240

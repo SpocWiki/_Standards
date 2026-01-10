@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1927-05-01 
 aliases:
   - Puttin' on the Ritz

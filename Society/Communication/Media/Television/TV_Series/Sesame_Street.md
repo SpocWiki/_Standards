@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1969-11-10 
 aliases:
   - Sesamstraße

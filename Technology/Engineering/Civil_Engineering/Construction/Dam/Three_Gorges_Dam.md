@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 111.00367 , 30.82386 ] 
 aliases:
   - Three Gorges Dam

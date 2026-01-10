@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1852-01-01 
 aliases:
   - Uncle Tom's Cabin

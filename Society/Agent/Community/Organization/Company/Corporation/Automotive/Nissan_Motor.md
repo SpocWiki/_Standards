@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1933-12-26 
 aliases:
   - Nissan Motor

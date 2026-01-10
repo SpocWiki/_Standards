@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 2.30611111 , 48.85 ] 
 aliases:
   - United Nations Educational, Scientific and Cultural Organization

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 118.401 , 39.664 ] 
 aliases:
   - Great Tangshan earthquake

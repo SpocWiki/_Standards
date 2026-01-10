@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1909-01-01 
 aliases:
   - Futuristic

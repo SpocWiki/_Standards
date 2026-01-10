@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1888-08-01 
 aliases:
   - International Phonetic Alphabet

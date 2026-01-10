@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2003-10-01 
 aliases:
   - JAXA

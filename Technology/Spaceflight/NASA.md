@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1958-07-29 
 aliases:
   - National_Aeronautics_and_Space_Administration

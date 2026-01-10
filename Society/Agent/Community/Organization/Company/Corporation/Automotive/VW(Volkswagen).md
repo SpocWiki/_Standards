@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1937-05-28 
 aliases:
   - Volkswagen

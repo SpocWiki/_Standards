@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1963-11-23 
 aliases:
 has_id_wikidata: Q34316

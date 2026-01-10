@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1968-01-01 
 aliases:
   - Deep Purple

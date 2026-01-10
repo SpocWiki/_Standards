@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 30.099169444 , 51.389438888 ] 
 aliases: 
 has_id_wikidata: Q486

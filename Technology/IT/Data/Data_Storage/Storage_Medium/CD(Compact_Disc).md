@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1979-01-01 
 aliases:
   - compact disc

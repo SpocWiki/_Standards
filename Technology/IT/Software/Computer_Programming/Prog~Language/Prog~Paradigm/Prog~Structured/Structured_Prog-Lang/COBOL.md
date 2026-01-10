@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1959-05-28 
 aliases:
   - common business-oriented language

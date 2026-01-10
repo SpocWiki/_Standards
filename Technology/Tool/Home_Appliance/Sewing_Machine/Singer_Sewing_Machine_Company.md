@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1851-01-01 
 aliases:
   - Singer Sewing Machine

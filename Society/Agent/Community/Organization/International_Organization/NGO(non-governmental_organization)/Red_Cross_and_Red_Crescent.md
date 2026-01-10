@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.136944444 , 46.2275 ] 
 aliases:
   - International Red Cross and Red Crescent Movement

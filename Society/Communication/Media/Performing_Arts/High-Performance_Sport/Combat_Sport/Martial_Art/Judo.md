@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1882-01-01 
 aliases:
   - 柔道

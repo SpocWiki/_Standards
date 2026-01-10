@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 31.133333 , 29.983333 ] 
 aliases:
   - Giza Necropolis

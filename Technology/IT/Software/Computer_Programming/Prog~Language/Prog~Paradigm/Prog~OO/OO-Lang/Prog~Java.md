@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1995-01-01 
 aliases:
   - Prog~Java

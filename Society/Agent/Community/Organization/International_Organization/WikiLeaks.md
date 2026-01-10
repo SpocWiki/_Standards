@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2006-10-04 
 aliases:
 has_id_wikidata: Q359

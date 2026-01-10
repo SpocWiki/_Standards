@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1904-12-21 
 aliases:
   - International Motorcycling Federation

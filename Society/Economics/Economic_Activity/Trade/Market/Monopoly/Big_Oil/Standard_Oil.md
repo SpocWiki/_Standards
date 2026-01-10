@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_stopped: 1911-01-01 
 aliases:
   - Standard Oil

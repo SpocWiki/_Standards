@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1935-01-01 
 aliases:
   - Monopoly_(game)

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1945-01-01 
 aliases:
 has_id_wikidata: Q1118802

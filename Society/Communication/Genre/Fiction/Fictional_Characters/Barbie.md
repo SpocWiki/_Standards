@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1959-03-09 
 aliases:
   - Barbie

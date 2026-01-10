@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1793-01-01 
 aliases:
   - Thoroughbred

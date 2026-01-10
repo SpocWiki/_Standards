@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1959-01-01 
 aliases:
   - Confédération Mondiale des Activités Subaquatiques

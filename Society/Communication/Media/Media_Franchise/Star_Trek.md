@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1966-09-08 
 aliases:
 has_id_wikidata: Q1092

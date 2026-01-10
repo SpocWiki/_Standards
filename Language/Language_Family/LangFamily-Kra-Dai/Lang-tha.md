@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 100.67 , 14.19 ] 
 aliases:
   - Thai language

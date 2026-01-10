@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1642-01-01 
 aliases:
   - The_Night_Watch

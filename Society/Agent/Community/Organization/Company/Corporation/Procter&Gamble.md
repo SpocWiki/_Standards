@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1837-10-31 
 aliases:
 has_id_wikidata: Q212405

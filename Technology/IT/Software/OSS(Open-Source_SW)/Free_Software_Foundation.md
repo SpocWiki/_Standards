@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1985-10-04 
 aliases:
   - Free_Software_Foundation

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1976-04-01 
 aliases:
   - Apple Inc

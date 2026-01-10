@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2008-07-13 
 aliases:
   - Union for the Mediterranean

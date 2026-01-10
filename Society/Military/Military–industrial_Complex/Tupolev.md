@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1922-01-01 
 location: [ 37.677 , 55.761 ] 
 aliases:

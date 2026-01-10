@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2005-02-14 
 aliases:
 has_id_wikidata: Q866

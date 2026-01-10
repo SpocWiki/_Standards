@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1994-01-01 
 aliases:
   - North American Free Trade Agreement

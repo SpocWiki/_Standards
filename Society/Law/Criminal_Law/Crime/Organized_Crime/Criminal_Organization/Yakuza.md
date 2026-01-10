@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1700-01-01 
 aliases:
   - gokudō

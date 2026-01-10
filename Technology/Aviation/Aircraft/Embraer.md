@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1969-08-19 
 aliases:
   - Embraer S.A.

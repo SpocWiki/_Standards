@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1923-03-03 
 aliases:
 has_id_wikidata: Q43297

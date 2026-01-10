@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1984-01-01 
 aliases:
   - Court of Arbitration for Sport

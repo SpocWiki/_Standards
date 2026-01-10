@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 6.045 , 46.235 ] 
 aliases:
 has_id_wikidata: Q40605

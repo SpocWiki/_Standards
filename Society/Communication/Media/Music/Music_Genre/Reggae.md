@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1961-01-01 
 aliases:
   - Reggae

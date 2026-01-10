@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1978-01-01 
 aliases:
   - Alternative rock

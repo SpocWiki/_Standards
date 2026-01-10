@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1980-06-01 
 aliases:
   - Cable News Network

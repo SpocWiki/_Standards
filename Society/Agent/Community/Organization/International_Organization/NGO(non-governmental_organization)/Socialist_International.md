@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1951-06-03 
 aliases:
 has_id_wikidata: Q159454

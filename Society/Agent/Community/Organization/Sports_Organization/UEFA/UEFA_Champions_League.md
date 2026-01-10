@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1955-01-01 
 aliases:
 has_id_wikidata: Q18756

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 95.982 , 3.295 ] 
 aliases:
   - 2004-Indian_Ocean_Tsunami

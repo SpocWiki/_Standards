@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2003-01-01 
 aliases:
   - my␣

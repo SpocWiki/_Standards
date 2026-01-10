@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1590-01-01 
 has_time_stopped: 1750-01-01 
 aliases:

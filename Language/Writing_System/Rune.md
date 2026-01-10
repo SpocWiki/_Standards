@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 0300-01-01 
 aliases:
   - Rune

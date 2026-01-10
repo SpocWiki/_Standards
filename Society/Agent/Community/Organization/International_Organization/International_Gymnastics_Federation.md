@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1881-07-23 
 aliases:
   - International Gymnastics Federation

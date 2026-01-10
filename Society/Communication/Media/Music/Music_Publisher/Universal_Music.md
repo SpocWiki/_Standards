@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1934-09-01 
 aliases:
   - Universal Music Group

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1954-01-01 
 aliases:
   - Lord of the Flies

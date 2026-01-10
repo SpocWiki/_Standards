@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_stopped: 1970-04-10 
 aliases:
   - The_Beatles

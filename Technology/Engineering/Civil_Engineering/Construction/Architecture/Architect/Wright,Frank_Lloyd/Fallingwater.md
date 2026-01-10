@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1936-01-01 
 aliases:
 has_id_wikidata: Q463179

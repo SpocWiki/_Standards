@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1945-10-24 
 aliases:
   - United Nations Security Council

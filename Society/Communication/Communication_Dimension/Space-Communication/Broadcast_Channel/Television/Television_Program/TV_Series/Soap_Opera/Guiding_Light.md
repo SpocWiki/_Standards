@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_stopped: 2009-09-18 
 aliases:
   - Guiding Light

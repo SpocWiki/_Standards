@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1730-01-01 
 aliases:
 has_id_wikidata: Q17723

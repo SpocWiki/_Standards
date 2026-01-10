@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1912-01-01 
 aliases:
   - Moderner Fünfkampf

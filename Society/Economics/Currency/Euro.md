@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2002-01-01 
 aliases:
   - Euro

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 115.917 , 39.733 ] 
 aliases:
   - Homo erectus pekinensis

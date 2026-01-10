@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1791-01-01 
 aliases:
   - The_Magic_Flute

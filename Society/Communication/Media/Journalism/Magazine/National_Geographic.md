@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1888-01-01 
 aliases:
   - National Geographic

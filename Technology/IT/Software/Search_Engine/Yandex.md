@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2000-01-01 
 aliases:
   - Яндекс

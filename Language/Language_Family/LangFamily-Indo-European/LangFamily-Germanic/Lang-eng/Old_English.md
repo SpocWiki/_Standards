@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_stopped: 1066-01-01 
 aliases:
 has_id_wikidata: Q42365

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 2015-10-02 
 aliases:
   - Alphabet Inc.

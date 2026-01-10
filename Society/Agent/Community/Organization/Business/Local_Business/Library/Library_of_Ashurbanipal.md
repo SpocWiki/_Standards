@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 43.1528 , 36.3594 ] 
 aliases:
   - Royal Library of Ashurbanipal

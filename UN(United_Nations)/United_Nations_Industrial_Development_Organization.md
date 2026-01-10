@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1966-01-01 
 aliases:
   - United Nations Industrial Development Organization

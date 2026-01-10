@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 109.7 , 34.5 ] 
 aliases:
   - Jiajing Great Earthquake

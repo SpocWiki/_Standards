@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1500-01-01 
 aliases:
 has_id_wikidata: Q83376

@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1992-02-20 
 aliases:
 has_id_wikidata: Q9448

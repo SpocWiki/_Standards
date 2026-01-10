@@ -1,4 +1,4 @@
-﻿---
+---
 has_time_started: 1949-01-25 
 has_time_stopped: 1991-06-28 
 location: [ 37.576903 , 55.75343 ] 
