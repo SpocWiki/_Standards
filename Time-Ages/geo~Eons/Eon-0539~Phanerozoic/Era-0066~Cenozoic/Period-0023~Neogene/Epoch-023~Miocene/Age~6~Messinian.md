@@ -63,7 +63,7 @@ A time period from 7.246 to 5.333 million years ago.
 #has_/name_/sv  :: messin
 #has_/name_/zh  :: 墨西拿期
 
-#has_/abbreviation :: n6
+#has_/name_/abbreviated :: n6
 
 #has_/time_/started :: -7.246e6 
 #has_/time_/stopped :: -5.333e6 

@@ -72,7 +72,7 @@ A time period from 273.01 to 266.9 million years ago.
 #has_/name_/sv  :: road
 #has_/name_/zh  :: 罗德期
 
-#has_/abbreviation :: p5
+#has_/name_/abbreviated :: p5
 
 #has_/time_/started :: -273.01e6 
 #has_/time_/stopped :: -266.90e6 

@@ -60,7 +60,7 @@ A time period from 11.63 to 7.246 million years ago.
 #has_/name_/sv  :: torton
 #has_/name_/zh  :: 托尔顿期
 
-#has_/abbreviation :: n5
+#has_/name_/abbreviated :: n5
 
 #has_/time_/started :: -11.630e6 
 #has_/time_/stopped ::  -7.246e6 

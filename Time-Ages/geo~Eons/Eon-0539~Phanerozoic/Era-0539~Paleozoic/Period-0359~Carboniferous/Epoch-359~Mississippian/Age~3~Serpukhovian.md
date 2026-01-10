@@ -111,7 +111,7 @@ A time period from 330.9 to 323.2 million years ago.
 #has_/name_/sv  :: serpukhov
 #has_/name_/zh  :: 谢尔普霍夫期
 
-#has_/abbreviation :: c3
+#has_/name_/abbreviated :: c3
 #has_/time_/started :: -330.9e6 
 #has_/time_/stopped :: -323.2e6 
 

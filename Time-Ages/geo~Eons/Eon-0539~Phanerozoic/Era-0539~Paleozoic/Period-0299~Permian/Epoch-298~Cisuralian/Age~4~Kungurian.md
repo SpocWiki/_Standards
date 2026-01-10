@@ -72,7 +72,7 @@ A time period from 283.5 to 273.01 million years ago.
 #has_/name_/sv  :: kungur
 #has_/name_/zh  :: 孔古尔期
 
-#has_/abbreviation :: p4
+#has_/name_/abbreviated :: p4
 
 #has_/time_/started :: -283.50e6 
 #has_/time_/stopped :: -273.01e6 

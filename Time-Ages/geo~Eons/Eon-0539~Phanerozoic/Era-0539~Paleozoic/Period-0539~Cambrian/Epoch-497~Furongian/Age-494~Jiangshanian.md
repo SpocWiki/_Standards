@@ -29,7 +29,7 @@ X_Twitter_username:
 
 #has_/name_/zh  :: 江山期 
 
-#has_/abbreviation :: ep9
+#has_/name_/abbreviated :: ep9
 #has_/time_/started :: -494.0e6 
 #has_/time_/stopped :: -489.5e6 
 

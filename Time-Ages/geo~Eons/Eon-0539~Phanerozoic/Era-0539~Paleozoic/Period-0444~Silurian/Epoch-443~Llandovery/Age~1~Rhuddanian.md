@@ -70,7 +70,7 @@ A time period from 443.8 to 440.8 million years ago.
 #has_/name_/sv  :: rhuddan
 #has_/name_/zh  :: 鲁丹期
 
-#has_/abbreviation :: s1
+#has_/name_/abbreviated :: s1
 
 #has_/time_/started :: -443.8e6 
 #has_/time_/stopped :: -440.8e6 

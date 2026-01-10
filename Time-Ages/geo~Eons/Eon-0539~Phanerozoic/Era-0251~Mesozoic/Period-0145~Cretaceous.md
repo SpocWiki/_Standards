@@ -74,7 +74,7 @@ A time period from 145.0 to 66.0 million years ago.
 #has_/name_/sv  :: krita
 #has_/name_/zh  :: 白垩纪
 
-#has_/abbreviation :: K
+#has_/name_/abbreviated :: K
 
 #has_/time_/started :: -145.0e6 
 #has_/time_/stopped ::  -66.0e6 

@@ -60,7 +60,7 @@ A time period from 37.71 to 33.9 million years ago.
 #has_/name_/sv  :: priabon
 #has_/name_/zh  :: 普里阿邦期
 
-#has_/abbreviation :: e7
+#has_/name_/abbreviated :: e7
 #has_/time_/started :: -37.71e6 
 #has_/time_/stopped :: -33.90e6 
 

@@ -69,7 +69,7 @@ A time period from 433.4 to 427.4 million years ago.
 #has_/name_/sv  :: wenlock
 #has_/name_/zh  :: 温洛克世
 
-#has_/abbreviation :: S2
+#has_/name_/abbreviated :: S2
 
 #has_/time_/started :: -433.4e6 
 #has_/time_/stopped :: -427.4e6 

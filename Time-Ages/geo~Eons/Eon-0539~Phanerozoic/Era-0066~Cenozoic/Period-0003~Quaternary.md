@@ -97,7 +97,7 @@ A time period from 2.58 million years ago to the present.
 #has_/name_/sv  :: kvartär
 #has_/name_/zh  :: 第四纪
 
-#has_/abbreviation :: Q
+#has_/name_/abbreviated :: Q
 
 #has_/time_/started :: -2.580e6 
 #has_/time_/stopped ::  0.002e6 

@@ -62,7 +62,7 @@ A time period from 227 to 208.5 million years ago.
 #has_/name_/sv  :: nor
 #has_/name_/zh  :: 诺利克期
 
-#has_/abbreviation :: t6
+#has_/name_/abbreviated :: t6
 
 #has_/time_/started :: -227.0e6 
 #has_/time_/stopped :: -208.5e6 

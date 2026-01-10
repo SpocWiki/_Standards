@@ -63,7 +63,7 @@ A time period from 242 to 237 million years ago.
 #has_/name_/sv  :: ladin
 #has_/name_/zh  :: 拉迪尼亚期
 
-#has_/abbreviation :: t4
+#has_/name_/abbreviated :: t4
 
 #has_/time_/started :: -242e6 
 #has_/time_/stopped :: -237e6 

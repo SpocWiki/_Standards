@@ -59,7 +59,7 @@ A time period from 149.2 to 145 million years ago.
 #has_/name_/sv  :: tithon
 #has_/name_/zh  :: 提通期
 
-#has_/abbreviation :: j7
+#has_/name_/abbreviated :: j7
 
 #has_/time_/started :: -149.2e6 
 #has_/time_/stopped :: -145.0e6 

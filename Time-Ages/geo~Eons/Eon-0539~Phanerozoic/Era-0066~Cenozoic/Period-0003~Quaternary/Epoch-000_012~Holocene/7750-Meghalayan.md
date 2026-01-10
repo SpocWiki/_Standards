@@ -22,7 +22,7 @@ type_locality_geology_: '[[_Standards/WikiData/WD~GSSP for the base of the Megha
 A time period from 4_200 thousand years ago to the present or the Modern History starting at 1492. 
 This is starting at 7750 HE (Human Era 10_000BC)
 
-#has_/abbreviation :: q7
+#has_/name_/abbreviated :: q7
 
 #has_/time_/started :: -2250 
 #has_/time_/stopped ::  1750  

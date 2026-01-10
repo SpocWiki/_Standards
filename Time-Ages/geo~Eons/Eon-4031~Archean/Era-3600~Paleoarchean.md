@@ -51,7 +51,7 @@ A time period from 3600 to 3200 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Paleoarchean) 
 
 
-#has_/abbreviation :: PA
+#has_/name_/abbreviated :: PA
 
 #has_/name_/bg  :: Палеоархай
 #has_/name_/cs  :: Paleoarchaikum

@@ -88,7 +88,7 @@ A time period from 443.8 to 419.2 million years ago.
 #has_/name_/sv  :: silur
 #has_/name_/zh  :: 志留纪
 
-#has_/abbreviation :: S
+#has_/name_/abbreviated :: S
 #has_/time_/started :: -443.8e6 
 #has_/time_/stopped :: -419.2e6 
 

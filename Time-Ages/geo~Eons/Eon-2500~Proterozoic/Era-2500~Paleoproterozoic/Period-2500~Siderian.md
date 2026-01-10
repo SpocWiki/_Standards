@@ -73,7 +73,7 @@ sRGB_color_hex_triplet: F74F7C
 #has_/name_/sv  :: siderium
 #has_/name_/zh  :: 成铁纪
 
-#has_/abbreviation :: PP1
+#has_/name_/abbreviated :: PP1
 
 #has_/time_/started :: -2.5e9 
 #has_/time_/stopped :: -2.3e9 

@@ -72,7 +72,7 @@ A time period from 430.5 to 427.4 million years ago.
 #has_/name_/sv  :: homer
 #has_/name_/zh  :: 侯默期
 
-#has_/abbreviation :: s5
+#has_/name_/abbreviated :: s5
 
 #has_/time_/started :: -430.5e6 
 #has_/time_/stopped :: -427.4e6 

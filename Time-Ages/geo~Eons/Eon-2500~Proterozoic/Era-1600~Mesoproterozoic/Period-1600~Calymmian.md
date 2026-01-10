@@ -79,7 +79,7 @@ A time period from 1600 to 1400 million years ago.
 #has_/name_/zh  :: 盖层纪
 #is_a_/time_/Period 
 
-#has_/abbreviation :: MP1
+#has_/name_/abbreviated :: MP1
 
 #has_/time_/started :: -1600e6 
 #has_/time_/stopped :: -1400e6 

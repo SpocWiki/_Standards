@@ -83,7 +83,7 @@ A time period from 254.14 to 251.902 million years ago.
 #has_/name_/sv  :: changhsing
 #has_/name_/zh  :: 长兴期
 
-#has_/abbreviation :: p9
+#has_/name_/abbreviated :: p9
 
 #has_/time_/started :: -254.140e6 
 #has_/time_/stopped :: -251.902e6 

@@ -71,7 +71,7 @@ A time period from 470.0 to 467.3 million years ago.
 #has_/name_/sv  :: daping
 #has_/name_/zh  :: 大坪期
 
-#has_/abbreviation :: o3
+#has_/name_/abbreviated :: o3
 
 #has_/time_/started :: -470.0e6 
 #has_/time_/stopped :: -467.3e6 

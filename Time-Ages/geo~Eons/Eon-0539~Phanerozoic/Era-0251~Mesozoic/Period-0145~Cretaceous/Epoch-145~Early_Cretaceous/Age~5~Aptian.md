@@ -75,7 +75,7 @@ A time period from 121.4 to 113.0 million years ago.
 #has_/name_/sv  :: apt
 #has_/name_/zh  :: 阿普弟期
 
-#has_/abbreviation :: b5
+#has_/name_/abbreviated :: b5
 #has_/time_/started :: -121.4e6  
 #has_/time_/stopped :: -113.0e6  
 

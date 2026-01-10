@@ -51,7 +51,7 @@ A time period from 2800 to 2500 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Neoarchean) 
 
 
-#has_/abbreviation :: NA
+#has_/name_/abbreviated :: NA
 
 #has_/name_/bg  :: пеоархай
 #has_/name_/cs  :: Neoarchaikum

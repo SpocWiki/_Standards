@@ -67,7 +67,7 @@ A time period from 247.2 to 251.2 million years ago.
 #has_/name_/sv  :: olenek
 #has_/name_/zh  :: 奥伦尼克期
 
-#has_/abbreviation :: t2
+#has_/name_/abbreviated :: t2
 
 #has_/time_/started :: -247.2e6 
 #has_/time_/stopped :: -251.2e6 

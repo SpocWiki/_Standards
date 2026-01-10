@@ -61,7 +61,7 @@ A time period from 72.1 to 66.0 million years ago.
 #has_/name_/sv  :: maastricht
 #has_/name_/zh  :: 马斯特里赫特期
 
-#has_/abbreviation :: k6
+#has_/name_/abbreviated :: k6
 
 #has_/time_/started :: -72.1e6 
 #has_/time_/stopped :: -66.0e6 

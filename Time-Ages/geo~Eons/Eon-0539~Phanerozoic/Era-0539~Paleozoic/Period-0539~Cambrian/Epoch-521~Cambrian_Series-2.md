@@ -76,7 +76,7 @@ A time period from 521 to 509 million years ago.
 #has_/name_/sv  :: kambrium serie 2
 #has_/name_/zh  :: 第二世
 
-#has_/abbreviation :: Ep2
+#has_/name_/abbreviated :: Ep2
 
 #has_/time_/started :: -521e6 
 #has_/time_/stopped :: -509e6 

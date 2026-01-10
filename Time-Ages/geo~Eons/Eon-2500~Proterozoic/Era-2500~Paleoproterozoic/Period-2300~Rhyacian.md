@@ -77,7 +77,7 @@ IPA_transcription: raɪˈeɪsiən
 #has_/name_/sv  :: ryacium
 #has_/name_/zh  :: 层侵纪
 
-#has_/abbreviation :: PP2
+#has_/name_/abbreviated :: PP2
 
 #has_/time_/started :: -2.300e9 
 #has_/time_/stopped :: -2.050e9 

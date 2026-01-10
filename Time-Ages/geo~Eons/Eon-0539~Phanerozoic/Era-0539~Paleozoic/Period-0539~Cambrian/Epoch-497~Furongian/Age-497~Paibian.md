@@ -76,7 +76,7 @@ A time period from 497 to 494 million years ago.
 #has_/name_/sv  :: paib
 #has_/name_/zh  :: 排碧期
 
-#has_/abbreviation :: ep8
+#has_/name_/abbreviated :: ep8
 
 #has_/time_/started :: -497e6 
 #has_/time_/stopped :: -494e6 

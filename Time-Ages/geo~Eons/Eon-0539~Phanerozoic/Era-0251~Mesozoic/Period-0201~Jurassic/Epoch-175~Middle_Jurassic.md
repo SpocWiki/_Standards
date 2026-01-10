@@ -58,7 +58,7 @@ A time period from 174.7 to 161.5 million years ago.
 #has_/name_/sv  :: mellersta jura
 #has_/name_/zh  :: 中侏罗世
 
-#has_/abbreviation :: J2
+#has_/name_/abbreviated :: J2
 
 #has_/time_/started :: -174.7e6 
 #has_/time_/stopped :: -161.5e6 

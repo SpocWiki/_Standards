@@ -22,7 +22,7 @@ type_locality_geology_: '[[_Standards/WikiData/WD~GSSP for the base of the North
 A time period from 8_200 to 4_200 thousand years ago. 
 This is 3854 to 7750 HE (Human Era 10_000BC)
 
-#has_/abbreviation :: q6
+#has_/name_/abbreviated :: q6
 
 #has_/time_/started :: -8200 
 #has_/time_/stopped :: -4200 

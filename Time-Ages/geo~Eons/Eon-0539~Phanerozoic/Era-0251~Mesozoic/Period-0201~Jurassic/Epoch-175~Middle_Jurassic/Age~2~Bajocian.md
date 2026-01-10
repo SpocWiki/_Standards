@@ -62,7 +62,7 @@ A time period from 170.9 to 168.2 million years ago.
 #has_/name_/sv  :: bajoc
 #has_/name_/zh  :: 巴柔期
 
-#has_/abbreviation :: j2
+#has_/name_/abbreviated :: j2
 
 #has_/time_/started :: -170.9e6 
 #has_/time_/stopped :: -168.2e6 

@@ -59,7 +59,7 @@ A time period from 132.6 to 139.8 million years ago.
 #has_/name_/sv  :: valangin
 #has_/name_/zh  :: 凡兰吟期
 
-#has_/abbreviation :: b2
+#has_/name_/abbreviated :: b2
 
 #has_/time_/started :: -132.6e6 
 #has_/time_/stopped :: -139.8e6 

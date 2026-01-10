@@ -70,7 +70,7 @@ A time period from 192.9 to 184.2 million years ago.
 #has_/name_/sv  :: pliensbach
 #has_/name_/zh  :: 普连斯巴奇期
 
-#has_/abbreviation :: I3
+#has_/name_/abbreviated :: I3
 
 #has_/time_/started :: -192.9e6 
 #has_/time_/stopped :: -184.2e6 

@@ -67,7 +67,7 @@ A time period from 251.902 to 251.2 million years ago.
 #has_/name_/sv  :: indu
 #has_/name_/zh  :: 印度期
 
-#has_/abbreviation :: t1
+#has_/name_/abbreviated :: t1
 
 #has_/time_/started :: -251.902e6 
 #has_/time_/stopped :: -251.200e6 

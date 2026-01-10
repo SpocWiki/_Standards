@@ -79,7 +79,7 @@ A time period from 521 to 514 million years ago.
 #has_/name_/sv  :: kambrium etage 3
 #has_/name_/zh  :: 第三期
 
-#has_/abbreviation :: ep2
+#has_/name_/abbreviated :: ep2
 
 #has_/time_/started :: -521e6 
 #has_/time_/stopped :: -514e6 

@@ -76,7 +76,7 @@ A time period from 303.7 to 298.9 million years ago.
 #has_/name_/sv  :: gzhel
 #has_/name_/zh  :: 格热尔期
 
-#has_/abbreviation :: c7
+#has_/name_/abbreviated :: c7
 
 #has_/time_/started :: -303.7e6 
 #has_/time_/stopped :: -298.9e6 

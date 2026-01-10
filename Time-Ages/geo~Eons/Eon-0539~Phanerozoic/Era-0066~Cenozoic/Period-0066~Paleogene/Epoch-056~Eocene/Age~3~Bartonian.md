@@ -56,7 +56,7 @@ A time period from 41.2 to 37.71 million years ago.
 #has_/name_/sv  :: barton
 #has_/name_/zh  :: 巴尔顿期
 
-#has_/abbreviation :: e6
+#has_/name_/abbreviated :: e6
 
 #has_/time_/started :: -41.20e6 
 #has_/time_/stopped :: -37.71e6 

@@ -90,7 +90,7 @@ A time period from 382.7 to 358.9 million years ago.
 #has_/name_/sl  :: pozni devon
 #has_/name_/sv  :: yngre devon
 #has_/name_/zh  :: 晚泥盆世
-#has_/abbreviation :: D3
+#has_/name_/abbreviated :: D3
 
 #has_/time_/started :: -382.7e6 
 #has_/time_/stopped :: -358.9e6 

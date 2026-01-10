@@ -79,7 +79,7 @@ A time period from 485.4 to 470.0 million years ago.
 #has_/name_/sv  :: äldre ordovicium
 #has_/name_/zh  :: 早奥陶世
 
-#has_/abbreviation :: O1
+#has_/name_/abbreviated :: O1
 
 #has_/time_/started :: -485.4e6 
 #has_/time_/stopped :: -470.0e6 

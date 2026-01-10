@@ -65,7 +65,7 @@ A time period from 66.0 to 61.6 million years ago.
 #has_/name_/sv  :: dan
 #has_/name_/zh  :: 丹麦期
 
-#has_/abbreviation :: e1
+#has_/name_/abbreviated :: e1
 
 #has_/time_/started :: -66.0e6 
 #has_/time_/stopped :: -61.6e6 

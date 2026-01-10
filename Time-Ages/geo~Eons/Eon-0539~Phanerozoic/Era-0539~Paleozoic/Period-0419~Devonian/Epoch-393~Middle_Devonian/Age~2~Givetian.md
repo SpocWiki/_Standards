@@ -72,7 +72,7 @@ A time period from 387.7 to 382.7 million years ago.
 #has_/name_/sv  :: givet
 #has_/name_/zh  :: 吉维特期
 
-#has_/abbreviation :: d5
+#has_/name_/abbreviated :: d5
 #has_/time_/started :: -387.7e6 
 #has_/time_/stopped :: -382.7e6 
 

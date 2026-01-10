@@ -80,7 +80,7 @@ A time period from 410.8 to 407.6 million years ago.
 #has_/name_/sv  :: prag
 #has_/name_/zh  :: 布拉格期
 
-#has_/abbreviation :: d2
+#has_/name_/abbreviated :: d2
 #has_/time_/started :: -410.8e6 
 #has_/time_/stopped :: -407.6e6 
 

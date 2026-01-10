@@ -106,7 +106,7 @@ A time period from 489.5 to 485.4 million years ago.
 #has_/name_/sv  :: kambrium etage 10
 #has_/name_/zh  :: 第十期
 
-#has_/abbreviation :: ep10
+#has_/name_/abbreviated :: ep10
 
 #has_/time_/started :: -489.5e6 
 #has_/time_/stopped :: -485.4e6 

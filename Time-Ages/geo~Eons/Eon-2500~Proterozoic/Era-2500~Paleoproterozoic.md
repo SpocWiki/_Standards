@@ -55,7 +55,7 @@ A time period from 2500 to 1600 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Paleoproterozoic) 
 
 
-#has_/abbreviation :: PP
+#has_/name_/abbreviated :: PP
 
 #has_/name_/bg  :: Палеопротерозой
 #has_/name_/cs  :: Paleoproterozoikum

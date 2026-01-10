@@ -78,7 +78,7 @@ A time period from 208.5 to 201.4 million years ago.
 #has_/name_/sv  :: rät
 #has_/name_/zh  :: 瑞替期
 
-#has_/abbreviation :: t7
+#has_/name_/abbreviated :: t7
 
 #has_/time_/started :: -208.5e6 
 #has_/time_/stopped :: -201.4e6 

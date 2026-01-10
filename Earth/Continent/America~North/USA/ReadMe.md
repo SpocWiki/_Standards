@@ -179,7 +179,7 @@ dv.table(
                 d.Capital,
                 d.has_place_longitude,
                 d.has_place_latitude,
-                d["has_name_abbr"]
+                d["has_name_abbreviated"]
             ])
     ),
 );

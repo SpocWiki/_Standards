@@ -60,7 +60,7 @@ A time period from 3.60 to 2.58 million years ago.
 #has_/name_/sv  :: piacenz
 #has_/name_/zh  :: 皮亚琴期
 
-#has_/abbreviation :: n8
+#has_/name_/abbreviated :: n8
 
 #has_/time_/started :: -3.60e6 
 #has_/time_/stopped :: -2.58e6 

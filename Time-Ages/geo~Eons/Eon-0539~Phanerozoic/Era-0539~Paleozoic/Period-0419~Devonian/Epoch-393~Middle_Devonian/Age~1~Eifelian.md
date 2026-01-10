@@ -77,7 +77,7 @@ A time period from 393.3 to 387.7 million years ago.
 #has_/name_/sv  :: eifel
 #has_/name_/zh  :: 艾菲尔期
 
-#has_/abbreviation :: d4
+#has_/name_/abbreviated :: d4
 #has_/time_/started :: -393.3e6 
 #has_/time_/stopped :: -387.7e6 
 

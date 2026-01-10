@@ -90,7 +90,7 @@ A time period from 66.0 to 23.03 million years ago.
 #has_/name_/sv  :: paleogen
 #has_/name_/zh  :: 早第三纪
 
-#has_/abbreviation :: E
+#has_/name_/abbreviated :: E
 
 #has_/time_/started :: -66.00e6 
 #has_/time_/stopped :: -23.03e6 

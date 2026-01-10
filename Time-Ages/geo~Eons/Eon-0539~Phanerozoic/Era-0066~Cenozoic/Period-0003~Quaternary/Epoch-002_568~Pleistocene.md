@@ -45,7 +45,7 @@ Dewey_Decimal_Classification: "551.792"
 #is_a_/time_/Epoch 
 #is_/similar_to :: [[Epoch-002_568~Pleistocene/Paleolithic|Paleolithic]]  
 
-#has_/abbreviation :: Q1
+#has_/name_/abbreviated :: Q1
 
 #has_/time_/started :: -2580.0e3 
 #has_/time_/stopped ::   -11.7e3 

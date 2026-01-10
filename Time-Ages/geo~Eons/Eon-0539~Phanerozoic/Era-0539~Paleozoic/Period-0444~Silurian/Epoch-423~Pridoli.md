@@ -79,7 +79,7 @@ A time period from 423.0 to 419.2 million years ago.
 #has_/name_/sv  :: pridoli
 #has_/name_/zh  :: 普里多利世
 
-#has_/abbreviation :: S4
+#has_/name_/abbreviated :: S4
 
 #has_/time_/started :: -423.0e6 
 #has_/time_/stopped :: -419.2e6 

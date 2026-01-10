@@ -69,7 +69,7 @@ A time period from 298.9 to 273.01 million years ago.
 #has_/name_/sv  :: cisural
 #has_/name_/zh  :: 乌拉尔世
 
-#has_/abbreviation :: P1
+#has_/name_/abbreviated :: P1
 
 #has_/time_/started :: -298.90e6 
 #has_/time_/stopped :: -273.01e6 

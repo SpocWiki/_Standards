@@ -97,7 +97,7 @@ start_time: -358900000-01-01T00:00:00Z
 #has_/name_/sv  :: tournas
 #has_/name_/zh  :: 杜内期
 
-#has_/abbreviation :: C1c1
+#has_/name_/abbreviated :: C1c1
 
 #has_/time_/started :: -358.9e6 
 #has_/time_/stopped :: -346.7e6 

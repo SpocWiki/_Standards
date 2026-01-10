@@ -73,7 +73,7 @@ A time period from 273.01 to 259.51 million years ago.
 #has_/name_/sv  :: guadalup
 #has_/name_/zh  :: 瓜德鲁普世
 
-#has_/abbreviation :: P2
+#has_/name_/abbreviated :: P2
 
 #has_/time_/started :: -273.01e6 
 #has_/time_/stopped :: -259.51e6 

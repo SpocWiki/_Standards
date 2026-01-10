@@ -37,7 +37,7 @@ A time period from 509 to 497 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Miaolingian) 
 
 
-#has_/abbreviation :: Ep3
+#has_/name_/abbreviated :: Ep3
 
 #has_/time_/started :: -509e6 
 #has_/time_/stopped :: -497e6 

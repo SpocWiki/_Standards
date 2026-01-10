@@ -65,7 +65,7 @@ A time period from 427.4 to 419.2 million years ago.
 #has_/name_/sv  :: ludlow
 #has_/name_/zh  :: 卢德洛世
 
-#has_/abbreviation :: S3
+#has_/name_/abbreviated :: S3
 
 #has_/time_/started :: -427.4e6 
 #has_/time_/stopped :: -419.2e6 

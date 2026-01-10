@@ -113,7 +113,7 @@ A time period from 66.0 million years ago to the present.
 #has_/name_/zh  :: 新生代
 
         
-#has_/abbreviation :: CZ
+#has_/name_/abbreviated :: CZ
 
 #has_/time_/started :: -66.000e6 
 #has_/time_/stopped ::   0.002e6 

@@ -50,7 +50,7 @@ topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mesozoic,1014354
 #has_/previous_/item :: [[Era-0539~Paleozoic]] 
 #has_/next_/item :: [[Era-0066~Cenozoic]] 
 
-#has_/abbreviation :: MZ
+#has_/name_/abbreviated :: MZ
 
 #has_/time_/started :: -251.902e6 
 #has_/time_/stopped ::  -66.000e6 

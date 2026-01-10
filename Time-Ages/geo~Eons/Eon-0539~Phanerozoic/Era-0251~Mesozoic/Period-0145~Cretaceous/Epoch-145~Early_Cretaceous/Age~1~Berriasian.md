@@ -53,7 +53,7 @@ A time period from 145.0 to 139.8 million years ago.
 #has_/name_/sv  :: berrias
 #has_/name_/zh  :: 贝利亚斯期
 
-#has_/abbreviation :: b1
+#has_/name_/abbreviated :: b1
 
 #has_/time_/started :: -145.0e6 
 #has_/time_/stopped :: -139.8e6 

@@ -41,7 +41,7 @@ Dewey_Decimal_Classification: "551.786"
 #has_/previous_/item :: [[Period-0066~Paleogene]] 
 #has_/next_/item :: [[Period-0003~Quaternary]] 
 
-#has_/abbreviation :: N
+#has_/name_/abbreviated :: N
 #has_/time_/started :: -23.03e6 
 #has_/time_/stopped ::  -2.58e6 
 

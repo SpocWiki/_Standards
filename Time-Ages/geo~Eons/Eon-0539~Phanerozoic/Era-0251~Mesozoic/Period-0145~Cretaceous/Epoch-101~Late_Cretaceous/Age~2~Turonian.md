@@ -59,7 +59,7 @@ A time period from 93.9 to 89.8 million years ago.
 #has_/name_/sv  :: turon
 #has_/name_/zh  :: 土仑期
 
-#has_/abbreviation :: k2
+#has_/name_/abbreviated :: k2
 
 #has_/time_/started :: -93.9e6 
 #has_/time_/stopped :: -89.8e6  

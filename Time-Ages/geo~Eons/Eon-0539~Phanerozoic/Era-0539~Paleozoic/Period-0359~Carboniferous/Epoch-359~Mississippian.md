@@ -70,7 +70,7 @@ A time period from 358.9 to 323.2 million years ago.
 #has_/name_/sv  :: mississippi
 #has_/name_/zh  :: 密西西比亚纪
 
-#has_/abbreviation :: C1
+#has_/name_/abbreviated :: C1
 
 #has_/time_/started :: -358.9e6 
 #has_/time_/stopped :: -323.2e6 

@@ -92,7 +92,7 @@ A time period from 201.4 million years ago to 145 Mya.
 #has_/name_/sv  :: jura
 #has_/name_/zh  :: 侏罗纪
 
-#has_/abbreviation :: J
+#has_/name_/abbreviated :: J
 
 #has_/time_/started :: -201.4e6 
 #has_/time_/stopped :: -145.0e6 

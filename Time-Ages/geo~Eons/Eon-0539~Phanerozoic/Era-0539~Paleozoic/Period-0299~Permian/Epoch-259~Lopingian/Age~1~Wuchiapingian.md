@@ -83,7 +83,7 @@ A time period from 259.51 to 254.14 million years ago.
 #has_/name_/sv  :: wuchiaping
 #has_/name_/zh  :: 吴家坪期
 
-#has_/abbreviation :: p8
+#has_/name_/abbreviated :: p8
 
 #has_/time_/started :: -259.51e6 
 #has_/time_/stopped :: -254.14e6 

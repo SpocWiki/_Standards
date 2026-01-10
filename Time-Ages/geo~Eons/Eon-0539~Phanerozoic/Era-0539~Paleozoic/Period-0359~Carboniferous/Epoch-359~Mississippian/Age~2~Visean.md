@@ -108,7 +108,7 @@ A time period from 346.7 to 330.9 million years ago.
 #has_/name_/sv  :: vis
 #has_/name_/zh  :: 韦宪期
 
-#has_/abbreviation :: c2
+#has_/name_/abbreviated :: c2
 
 #has_/time_/started :: -346.7e6 
 #has_/time_/stopped :: -330.9e6 

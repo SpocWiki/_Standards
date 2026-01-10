@@ -77,7 +77,7 @@ A time period from 290.1 to 283.5 million years ago.
 #has_/name_/sv  :: artinsk
 #has_/name_/zh  :: 亚丁斯克期
 
-#has_/abbreviation :: p3
+#has_/name_/abbreviated :: p3
 
 #has_/time_/started :: -290.1e6 
 #has_/time_/stopped :: -283.5e6 

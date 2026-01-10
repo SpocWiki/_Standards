@@ -118,7 +118,7 @@ A time period from 323.2 to 315.2 million years ago.
 #has_/name_/sv  :: bashkir
 #has_/name_/zh  :: 巴什基尔期
 
-#has_/abbreviation :: c4
+#has_/name_/abbreviated :: c4
 
 #has_/time_/started :: -323.2e6 
 #has_/time_/stopped :: -315.2e6 

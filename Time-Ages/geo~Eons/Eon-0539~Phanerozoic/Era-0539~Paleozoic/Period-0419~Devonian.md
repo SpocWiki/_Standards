@@ -93,7 +93,7 @@ A time period from 419.2 to 358.9 million years ago.
 #has_/name_/sv  :: devon
 #has_/name_/zh  :: 泥盆纪
 
-#has_/abbreviation :: D
+#has_/name_/abbreviated :: D
 
 #has_/time_/started :: -419.2e6 
 #has_/time_/stopped :: -358.9e6 

@@ -71,7 +71,7 @@ ischart::Ludfordian
 #has_/name_/sv  :: ludford
 #has_/name_/zh  :: 卢德福德期
 
-#has_/abbreviation :: s7
+#has_/name_/abbreviated :: s7
 
 #has_/time_/started :: -425.6e6 
 #has_/time_/stopped :: -423.0e6 

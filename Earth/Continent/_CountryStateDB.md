@@ -258,12 +258,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  has_name_abbr:
+  has_name_abbreviated:
     input: text
-    accessorKey: has_name_abbr
-    label: has_name_abbr
-    key: has_name_abbr
-    id: has_name_abbr
+    accessorKey: has_name_abbreviated
+    label: has_name_abbreviated
+    key: has_name_abbreviated
+    id: has_name_abbreviated
     position: 14
     skipPersist: false
     isHidden: false

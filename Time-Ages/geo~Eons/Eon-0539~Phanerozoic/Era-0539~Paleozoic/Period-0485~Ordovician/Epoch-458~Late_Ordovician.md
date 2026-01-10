@@ -77,7 +77,7 @@ A time period from 458.4 to 443.8 million years ago.
 #has_/name_/sv  :: yngre ordovicium
 #has_/name_/zh  :: 晚奥陶世
 
-#has_/abbreviation :: O3
+#has_/name_/abbreviated :: O3
 
 #has_/time_/started :: -458.4e6 
 #has_/time_/stopped :: -443.8e6 

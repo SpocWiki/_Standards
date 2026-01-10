@@ -63,7 +63,7 @@ A time period from 23.03 to 20.44 million years ago.
 #has_/name_/sv  :: aquitan
 #has_/name_/zh  :: 阿启坦期
 
-#has_/abbreviation :: n1
+#has_/name_/abbreviated :: n1
 
 #has_/time_/started :: -23.03e6 
 #has_/time_/stopped :: -20.44e6 

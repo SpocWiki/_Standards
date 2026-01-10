@@ -83,7 +83,7 @@ Little biological diversion happened.
 #has_/name_/sv  :: mesoproterozoikum
 #has_/name_/zh  :: 中元古代
 
-#has_/abbreviation :: MP
+#has_/name_/abbreviated :: MP
 
 #has_/time_/started :: -1600e6 
 #has_/time_/stopped :: -1000e6 

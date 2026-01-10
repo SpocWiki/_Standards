@@ -90,7 +90,7 @@ A time period from 4567 to 538.8 million years ago.
 #has_/name_/sv  :: prekambrium
 #has_/name_/zh  :: 前寒武纪
 
-#has_/abbreviation :: PE
+#has_/name_/abbreviated :: PE
 
 #has_/time_/started :: -4567.0e6 
 #has_/time_/stopped ::  -538.8e6 

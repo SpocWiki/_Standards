@@ -71,7 +71,7 @@ A time period from 477.7 to 470.0 million years ago.
 #has_/name_/sv  :: flo
 #has_/name_/zh  :: 弗洛期
 
-#has_/abbreviation :: o2
+#has_/name_/abbreviated :: o2
 #has_/time_/started :: -477.7e6 
 #has_/time_/stopped :: -470.0e6 
 

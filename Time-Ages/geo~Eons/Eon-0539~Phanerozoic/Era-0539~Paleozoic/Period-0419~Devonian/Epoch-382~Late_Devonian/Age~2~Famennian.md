@@ -82,7 +82,7 @@ A time period from 372.2 to 358.9 million years ago.
 #has_/name_/sv  :: famenn
 #has_/name_/zh  :: 法门期
 
-#has_/abbreviation :: d7
+#has_/name_/abbreviated :: d7
 
 #has_/time_/started :: -372.2e6 
 #has_/time_/stopped :: -358.9e6 

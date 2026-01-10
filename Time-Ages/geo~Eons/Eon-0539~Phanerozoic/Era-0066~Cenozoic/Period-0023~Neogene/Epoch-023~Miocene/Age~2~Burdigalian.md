@@ -55,7 +55,7 @@ A time period from 20.44 to 15.98 million years ago.
 #has_/name_/sv  :: burdigal
 #has_/name_/zh  :: 布迪加尔期
 
-#has_/abbreviation :: n2
+#has_/name_/abbreviated :: n2
 #has_/time_/started :: -20.44e6 
 #has_/time_/stopped :: -15.98e6 
 

@@ -62,7 +62,7 @@ A time period from 113.0 to 100.5 million years ago.
 #has_/name_/sv  :: alban
 #has_/name_/zh  :: 阿尔布期
 
-#has_/abbreviation :: b6
+#has_/name_/abbreviated :: b6
 
 #has_/time_/started :: -113.0e6  
 #has_/time_/stopped :: -100.5e6 

@@ -99,7 +99,7 @@ Multi-cellular life develops.
 #has_/name_/sv  :: ediacara
 #has_/name_/zh  :: 埃迪卡拉纪
 
-#has_/abbreviation :: NP3
+#has_/name_/abbreviated :: NP3
 
 #has_/time_/started :: -635.0e6 
 #has_/time_/stopped :: -538.8e6 

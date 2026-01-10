@@ -76,7 +76,7 @@ A time period from 393.3 to 382.7 million years ago.
 #has_/name_/sv  :: mellersta devon
 #has_/name_/zh  :: 中泥盆世
 
-#has_/abbreviation :: D2
+#has_/name_/abbreviated :: D2
 
 #has_/time_/started :: -393.3e6 
 #has_/time_/stopped :: -382.7e6 

@@ -58,7 +58,7 @@ A time period from 59.2 to 56.0 million years ago.
 #has_/name_/sv  :: thanet
 #has_/name_/zh  :: 塔内提期
 
-#has_/abbreviation :: e3
+#has_/name_/abbreviated :: e3
 
 #has_/time_/started :: -59.2e6 
 #has_/time_/stopped :: -56.0e6 

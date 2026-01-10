@@ -68,7 +68,7 @@ A time period from 201.4 to 199.5 million years ago.
 #has_/name_/sv  :: hettang
 #has_/name_/zh  :: 赫唐期
 
-#has_/abbreviation :: I1
+#has_/name_/abbreviated :: I1
 
 #has_/time_/started :: -201.4e6 
 #has_/time_/stopped :: -199.5e6 

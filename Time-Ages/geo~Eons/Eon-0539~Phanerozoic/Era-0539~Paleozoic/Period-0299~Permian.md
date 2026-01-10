@@ -82,7 +82,7 @@ A time period from 298.9 to 251.902 million years ago.
 #has_/name_/sv  :: perm
 #has_/name_/zh  :: 二叠纪
 
-#has_/abbreviation :: P
+#has_/name_/abbreviated :: P
 
 #has_/time_/started :: -298.900e6 
 #has_/time_/stopped :: -251.902e6 

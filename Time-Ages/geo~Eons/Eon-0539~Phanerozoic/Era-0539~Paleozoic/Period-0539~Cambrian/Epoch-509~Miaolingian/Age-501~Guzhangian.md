@@ -77,7 +77,7 @@ A time period from 500.5 to 497 million years ago.
 #has_/name_/sv  :: guzhang
 #has_/name_/zh  :: 古丈期
 
-#has_/abbreviation :: ep7
+#has_/name_/abbreviated :: ep7
 
 #has_/time_/started :: -500.5e6 
 #has_/time_/stopped :: -497.0e6 

@@ -88,7 +88,7 @@ A time period from 470.0 to 458.4 million years ago.
 #has_/name_/sv  :: mellersta ordovicium
 #has_/name_/zh  :: 中奥陶世
 
-#has_/abbreviation :: O2
+#has_/name_/abbreviated :: O2
 
 #has_/time_/started :: -470.0e6 
 #has_/time_/stopped :: -458.4e6 

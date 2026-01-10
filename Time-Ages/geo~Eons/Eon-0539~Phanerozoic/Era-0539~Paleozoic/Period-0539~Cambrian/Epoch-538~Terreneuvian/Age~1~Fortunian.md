@@ -83,7 +83,7 @@ A time period from 538.8 to 529 million years ago.
 #has_/name_/sv  :: fortun
 #has_/name_/zh  :: 好运期
 
-#has_/abbreviation :: ep1
+#has_/name_/abbreviated :: ep1
 
 #has_/time_/started :: -538.8e6 
 #has_/time_/stopped :: -529.0e6 

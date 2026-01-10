@@ -57,7 +57,7 @@ A time period from 145.0 to 100.5 million years ago.
 #has_/name_/sv  :: äldre krita
 #has_/name_/zh  :: 早白垩世
 
-#has_/abbreviation :: K1
+#has_/name_/abbreviated :: K1
 
 #has_/time_/started :: -145.0e6  
 #has_/time_/stopped :: -100.5e6 

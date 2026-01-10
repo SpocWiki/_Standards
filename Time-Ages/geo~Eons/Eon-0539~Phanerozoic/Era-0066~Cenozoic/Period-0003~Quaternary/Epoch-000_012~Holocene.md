@@ -49,7 +49,7 @@ It starts 200 years into the so-called __Human Era__,
 which can be __converted to Gregorian Calendar by adding 10000 years__. 
 It follows the Last Glacial Period, which concluded with the Holocene glacial retreat. 
 
-#has_/abbreviation :: Q2
+#has_/name_/abbreviated :: Q2
 #has_/time_/started :: -10.e3 
 #has_/time_/stopped ::   1492
 

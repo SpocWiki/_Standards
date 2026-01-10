@@ -73,7 +73,7 @@ A time period from 237 to 227 million years ago.
 #has_/name_/sv  :: carn
 #has_/name_/zh  :: 卡尼期
 
-#has_/abbreviation :: t5
+#has_/name_/abbreviated :: t5
 
 #has_/time_/started :: -237e6 
 #has_/time_/stopped :: -227e6 

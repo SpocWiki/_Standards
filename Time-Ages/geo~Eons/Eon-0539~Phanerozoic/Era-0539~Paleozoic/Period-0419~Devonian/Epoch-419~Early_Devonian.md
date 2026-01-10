@@ -80,7 +80,7 @@ A time period from 419.2 to 393.3 million years ago.
 #has_/name_/sv  :: äldre devon
 #has_/name_/zh  :: 早泥盆世
 
-#has_/abbreviation :: D1
+#has_/name_/abbreviated :: D1
 
 #has_/time_/started :: -419.2e6 
 #has_/time_/stopped :: -393.3e6 

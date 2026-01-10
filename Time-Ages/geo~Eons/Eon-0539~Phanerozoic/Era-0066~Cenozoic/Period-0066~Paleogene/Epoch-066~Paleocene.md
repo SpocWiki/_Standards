@@ -70,7 +70,7 @@ A time period from 66.0 to 56.0 million years ago.
 #has_/name_/sv  :: paleocen
 #has_/name_/zh  :: 古新世
 
-#has_/abbreviation :: E1
+#has_/name_/abbreviated :: E1
 
 #has_/time_/started :: -66.0e6 
 #has_/time_/stopped :: -56.0e6 

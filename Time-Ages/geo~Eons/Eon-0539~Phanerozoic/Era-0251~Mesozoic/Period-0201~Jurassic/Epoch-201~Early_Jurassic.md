@@ -67,7 +67,7 @@ A time period from 201.4 to 174.7 million years ago.
 #has_/name_/sv  :: äldre jura
 #has_/name_/zh  :: 早侏罗世
 
-#has_/abbreviation :: J1
+#has_/name_/abbreviated :: J1
 
 #has_/time_/started :: -201.4e6 
 #has_/time_/stopped :: -174.7e6 

@@ -77,7 +77,7 @@ A time period from 33.9 to 27.82 million years ago.
 #has_/name_/sv  :: rupel
 #has_/name_/zh  :: 鲁珀利期
 
-#has_/abbreviation :: e8
+#has_/name_/abbreviated :: e8
 
 #has_/time_/started :: -33.90e6 
 #has_/time_/stopped :: -27.82e6 

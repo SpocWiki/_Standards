@@ -79,7 +79,7 @@ A time period from 298.9 to 293.51 million years ago.
 #has_/name_/sv  :: assel
 #has_/name_/zh  :: 阿瑟尔期
 
-#has_/abbreviation :: p1
+#has_/name_/abbreviated :: p1
 
 #has_/time_/started :: -298.90e6 
 #has_/time_/stopped :: -293.51e6 

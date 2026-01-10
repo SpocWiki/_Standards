@@ -78,7 +78,7 @@ sRGB_color_hex_triplet: FDCC8A
 #has_/name_/sv  :: ectasium
 #has_/name_/zh  :: 延展纪
 
-#has_/abbreviation :: MP2
+#has_/name_/abbreviated :: MP2
 
 #has_/time_/started :: -1400e6 
 #has_/time_/stopped :: -1200e6 

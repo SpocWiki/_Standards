@@ -63,7 +63,7 @@ A time period from 251.902 to 247.2 million years ago.
 #has_/name_/sv  :: äldre trias
 #has_/name_/zh  :: 早三叠世
 
-#has_/abbreviation :: T1
+#has_/name_/abbreviated :: T1
 #has_/time_/started :: -251.902e6  
 #has_/time_/stopped :: -247.200e6 
 

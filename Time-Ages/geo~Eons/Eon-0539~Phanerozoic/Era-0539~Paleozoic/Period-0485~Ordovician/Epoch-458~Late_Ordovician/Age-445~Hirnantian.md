@@ -77,7 +77,7 @@ A time period from 445.2 to 443.8 million years ago.
 #has_/name_/sv  :: hirnant
 #has_/name_/zh  :: 赫南特期
 
-#has_/abbreviation :: o7
+#has_/name_/abbreviated :: o7
 
 #has_/time_/started :: -445.2e6 
 #has_/time_/stopped :: -443.8e6 

@@ -64,7 +64,7 @@ A time period from 15.98 to 13.82 million years ago.
 #has_/name_/sv  :: langh
 #has_/name_/zh  :: 兰海期
 
-#has_/abbreviation :: n3
+#has_/name_/abbreviated :: n3
 
 #has_/time_/started :: -15.98e6 
 #has_/time_/stopped :: -13.82e6 

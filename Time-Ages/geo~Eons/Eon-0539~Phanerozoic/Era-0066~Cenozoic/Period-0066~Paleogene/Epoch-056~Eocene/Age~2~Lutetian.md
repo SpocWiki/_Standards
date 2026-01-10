@@ -60,7 +60,7 @@ A time period from 47.8 to 41.2 million years ago.
 #has_/name_/sv  :: lutet
 #has_/name_/zh  :: 卢台特期
 
-#has_/abbreviation :: e5
+#has_/name_/abbreviated :: e5
 
 #has_/time_/started :: -47.8e6 
 #has_/time_/stopped :: -41.2e6 

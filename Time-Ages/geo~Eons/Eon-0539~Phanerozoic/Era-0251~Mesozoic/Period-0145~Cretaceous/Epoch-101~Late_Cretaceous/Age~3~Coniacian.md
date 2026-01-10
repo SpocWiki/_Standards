@@ -59,7 +59,7 @@ A time period from 89.8 to 86.3 million years ago.
 #has_/name_/sv  :: coniac
 #has_/name_/zh  :: 科尼亚克期
 
-#has_/abbreviation :: k3
+#has_/name_/abbreviated :: k3
 
 #has_/time_/started :: -89.8e6 
 #has_/time_/stopped :: -86.3e6 

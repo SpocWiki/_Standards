@@ -93,7 +93,7 @@ A time period from 382.7 to 372.2 million years ago.
 #has_/name_/sv  :: frasn
 #has_/name_/zh  :: 弗拉斯期
 
-#has_/abbreviation :: d6
+#has_/name_/abbreviated :: d6
 
 #has_/time_/started :: -382.7e6 
 #has_/time_/stopped :: -372.2e6 

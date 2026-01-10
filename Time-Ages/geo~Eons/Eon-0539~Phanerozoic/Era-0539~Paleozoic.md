@@ -53,7 +53,7 @@ start_time: -538800000
 #has_/previous_/item :: [[../Eon-2500~Proterozoic/Era-1000~Neoproterozoic|Era~3~Neoproterozoic]] 
 #has_/next_/item :: [[Era-0251~Mesozoic]] 
 
-#has_/abbreviation :: PZ
+#has_/name_/abbreviated :: PZ
 
 #has_/time_/started :: -538.800e6 
 #has_/time_/stopped :: -251.902e6 

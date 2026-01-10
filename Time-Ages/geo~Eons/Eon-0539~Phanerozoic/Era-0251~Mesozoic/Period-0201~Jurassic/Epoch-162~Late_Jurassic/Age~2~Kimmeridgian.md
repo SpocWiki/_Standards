@@ -63,7 +63,7 @@ A time period from 154.8 to 149.2 million years ago.
 #has_/name_/sv  :: kimmeridge
 #has_/name_/zh  :: 启莫里支期
 
-#has_/abbreviation :: j6
+#has_/name_/abbreviated :: j6
 
 #has_/time_/started :: -154.8e6 
 #has_/time_/stopped :: -149.2e6 

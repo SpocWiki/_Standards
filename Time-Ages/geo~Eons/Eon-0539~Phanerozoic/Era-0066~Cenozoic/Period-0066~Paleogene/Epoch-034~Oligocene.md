@@ -73,7 +73,7 @@ A time period from 33.9 to 23.03 million years ago.
 #has_/name_/sv  :: oligocen
 #has_/name_/zh  :: 渐新世
 
-#has_/abbreviation :: E3
+#has_/name_/abbreviated :: E3
 
 #has_/time_/started :: -33.90e6 
 #has_/time_/stopped :: -23.03e6 

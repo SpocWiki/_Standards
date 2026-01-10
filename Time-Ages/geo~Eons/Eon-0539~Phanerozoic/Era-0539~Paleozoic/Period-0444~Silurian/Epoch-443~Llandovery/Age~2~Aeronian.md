@@ -73,7 +73,7 @@ A time period from 440.8 to 438.5 million years ago.
 #has_/name_/sv  :: aeron
 #has_/name_/zh  :: 埃隆期
 
-#has_/abbreviation :: s2
+#has_/name_/abbreviated :: s2
 
 #has_/time_/started :: -440.8e6 
 #has_/time_/stopped :: -438.5e6 

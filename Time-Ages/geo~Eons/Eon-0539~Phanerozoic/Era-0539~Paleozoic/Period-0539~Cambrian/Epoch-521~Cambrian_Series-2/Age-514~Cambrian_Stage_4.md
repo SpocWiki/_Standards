@@ -77,7 +77,7 @@ A time period from 514 to 509 million years ago.
 #has_/name_/sv  :: kambrium etage 4
 #has_/name_/zh  :: 第四期
 
-#has_/abbreviation :: ep4
+#has_/name_/abbreviated :: ep4
 
 #has_/time_/started :: -514e6 
 #has_/time_/stopped :: -509e6 

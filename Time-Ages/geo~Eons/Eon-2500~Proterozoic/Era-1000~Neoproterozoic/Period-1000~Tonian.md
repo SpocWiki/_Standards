@@ -76,7 +76,7 @@ A time period from 1000 to 720 Mya.
 #has_/name_/sv  :: tonium
 #has_/name_/zh  :: 拉伸纪
 
-#has_/abbreviation :: NP1
+#has_/name_/abbreviated :: NP1
 #has_/time_/started :: -1000e6 
 #has_/time_/stopped ::  -720e6 
 

@@ -76,7 +76,7 @@ A time period from 485.4 to 477.7 million years ago.
 #has_/name_/sv  :: tremadoc
 #has_/name_/zh  :: 特马豆克期
 
-#has_/abbreviation :: o1
+#has_/name_/abbreviated :: o1
 #has_/time_/started :: -485.4e6 
 #has_/time_/stopped :: -477.7e6 
 

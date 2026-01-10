@@ -81,7 +81,7 @@ A time period from 264.28 to 259.51 million years ago.
 #has_/name_/sv  :: capitan
 #has_/name_/zh  :: 卡匹敦期
 
-#has_/abbreviation :: p7
+#has_/name_/abbreviated :: p7
 
 #has_/time_/started :: -264.28e6 
 #has_/time_/stopped :: -259.51e6 

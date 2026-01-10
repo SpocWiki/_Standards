@@ -110,7 +110,7 @@ A time period from 307.0 to 303.7 million years ago.
 #has_/name_/sv  :: kasimov
 #has_/name_/zh  :: 卡西莫夫期
 
-#has_/abbreviation :: c6
+#has_/name_/abbreviated :: c6
 
 #has_/time_/started :: -307.0e6 
 #has_/time_/stopped :: -303.7e6 

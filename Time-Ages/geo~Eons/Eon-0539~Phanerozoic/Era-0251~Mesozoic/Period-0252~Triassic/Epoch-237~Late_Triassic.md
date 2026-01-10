@@ -58,7 +58,7 @@ A time period from 237 to 201.4 million years ago.
 #has_/name_/sv  :: yngre trias
 #has_/name_/zh  :: 晚三叠世
 
-#has_/abbreviation :: T3
+#has_/name_/abbreviated :: T3
 
 #has_/time_/started :: -237.0e6 
 #has_/time_/stopped :: -201.4e6 

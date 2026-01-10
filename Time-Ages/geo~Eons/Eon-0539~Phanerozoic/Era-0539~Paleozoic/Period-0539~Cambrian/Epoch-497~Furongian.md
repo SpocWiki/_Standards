@@ -72,7 +72,7 @@ A time period from 497 to 485.4 million years ago.
 #has_/name_/sv  :: furong
 #has_/name_/zh  :: 芙蓉世
 
-#has_/abbreviation :: Ep4
+#has_/name_/abbreviated :: Ep4
 
 #has_/time_/started :: -497.0e6 
 #has_/time_/stopped :: -485.4e6 

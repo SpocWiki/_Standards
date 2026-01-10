@@ -59,7 +59,7 @@ A time period from 165.3 to 161.5 million years ago.
 #has_/name_/sv  :: callov
 #has_/name_/zh  :: 卡洛夫期
 
-#has_/abbreviation :: j4
+#has_/name_/abbreviated :: j4
 
 #has_/time_/started :: -165.3e6 
 #has_/time_/stopped :: -161.5e6 

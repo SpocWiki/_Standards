@@ -56,7 +56,7 @@ A time period from 125.77 to 121.4 million years ago.
 #has_/name_/sv  :: barrem
 #has_/name_/zh  :: 巴列姆期
 
-#has_/abbreviation :: b4
+#has_/name_/abbreviated :: b4
 
 #has_/time_/started :: -125.77e6 
 #has_/time_/stopped :: -121.40e6  

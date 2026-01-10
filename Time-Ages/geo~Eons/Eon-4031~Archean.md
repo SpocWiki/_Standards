@@ -96,7 +96,7 @@ A time period from 4031 to 2500 million years ago.
 #has_/name_/sv  :: arkeikum
 #has_/name_/zh  :: 太古宙
 
-#has_/abbreviation :: AR
+#has_/name_/abbreviated :: AR
 
 #has_/text_of_/color :: 0xF0047F
 

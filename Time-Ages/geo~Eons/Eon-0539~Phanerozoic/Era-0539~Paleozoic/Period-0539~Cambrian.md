@@ -83,7 +83,7 @@ P8189: 987007290943505200
 #has_/name_/sv  :: kambrium
 #has_/name_/zh  :: 寒武纪
 
-#has_/abbreviation :: Ep
+#has_/name_/abbreviated :: Ep
 
 #has_/time_/started :: -538.8e6 
 #has_/time_/stopped :: -485.4e6 

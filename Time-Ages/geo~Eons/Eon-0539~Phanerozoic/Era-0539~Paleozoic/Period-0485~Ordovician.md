@@ -87,7 +87,7 @@ A time period from 485.4 to 443.8 million years ago.
 #has_/name_/sv  :: ordovicium
 #has_/name_/zh  :: 奥陶纪
 
-#has_/abbreviation :: O
+#has_/name_/abbreviated :: O
 
 #has_/time_/started :: -485.4e6 
 #has_/time_/stopped :: -443.8e6 

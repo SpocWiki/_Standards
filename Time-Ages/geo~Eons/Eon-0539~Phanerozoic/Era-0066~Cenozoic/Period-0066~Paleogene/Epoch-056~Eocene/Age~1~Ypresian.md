@@ -59,7 +59,7 @@ A time period from 56.0 to 47.8 million years ago.
 #has_/name_/sv  :: ypres
 #has_/name_/zh  :: 伊普雷斯期
 
-#has_/abbreviation :: e4
+#has_/name_/abbreviated :: e4
 
 #has_/time_/started :: -56.0e6 
 #has_/time_/stopped :: -47.8e6 

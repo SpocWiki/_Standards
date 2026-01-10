@@ -101,7 +101,7 @@ A time period from 358.9 to 298.9 million years ago.
 #has_/name_/sv  :: karbon
 #has_/name_/zh  :: 石炭纪
 
-#has_/abbreviation :: C
+#has_/name_/abbreviated :: C
 
 #has_/time_/started :: -358.9e6 
 #has_/time_/stopped :: -298.9e6 

@@ -55,7 +55,7 @@ A time period from 161.5 to 145 million years ago.
 #has_/name_/sv  :: yngre jura
 #has_/name_/zh  :: 晚侏罗世
 
-#has_/abbreviation :: J3
+#has_/name_/abbreviated :: J3
 
 #has_/time_/started :: -161.5e6 
 #has_/time_/stopped :: -145.0e6 

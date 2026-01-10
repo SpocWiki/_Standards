@@ -91,7 +91,7 @@ A time period from 1.8 to 0.774 million years ago.
 #has_/name_/sv  :: calabr
 #has_/name_/zh  :: 卡拉布里亚期
 
-#has_/abbreviation :: q2
+#has_/name_/abbreviated :: q2
 
     sh:order 7 
 

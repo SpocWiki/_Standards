@@ -57,7 +57,7 @@ A time period from 83.6 to 72.1 million years ago.
 #has_/name_/sv  :: campan
 #has_/name_/zh  :: 坎佩尼期
 
-#has_/abbreviation :: k5
+#has_/name_/abbreviated :: k5
 
 #has_/time_/started :: -83.6e6 
 #has_/time_/stopped :: -72.1e6 

@@ -22,7 +22,7 @@ type_locality_geology_: '[[_Standards/WikiData/WD~GSSP for the base of the Green
 A time period from 11_700 to 8_200 thousand years ago. 
 This is 0300 to 3854 HE (Human Era 10_000BC)
 
-#has_/abbreviation :: q5
+#has_/name_/abbreviated :: q5
 
 #has_/time_/started :: -11.7e3 
 #has_/time_/stopped ::  -8.2e3 

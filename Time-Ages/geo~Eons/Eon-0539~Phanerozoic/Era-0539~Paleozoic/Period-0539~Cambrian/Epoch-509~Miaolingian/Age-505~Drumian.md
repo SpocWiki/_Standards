@@ -74,7 +74,7 @@ A time period from 504.5 to 500.5 million years ago.
 #has_/name_/sv  :: drum
 #has_/name_/zh  :: 鼓山期
 
-#has_/abbreviation :: ep6
+#has_/name_/abbreviated :: ep6
 
 #has_/time_/started :: -504.5e6 
 #has_/time_/stopped :: -500.5e6 

@@ -119,7 +119,7 @@ A time period from 315.2 to 307.0 million years ago.
 #has_/name_/sv  :: moscov
 #has_/name_/zh  :: 莫斯科期
 
-#has_/abbreviation :: c5
+#has_/name_/abbreviated :: c5
 
 #has_/time_/started :: -315.2e6 
 #has_/time_/stopped :: -307.0e6 

@@ -56,7 +56,7 @@ A time period from 161.5 to 154.8 million years ago.
 #has_/name_/sv  :: oxford
 #has_/name_/zh  :: 牛津期
 
-#has_/abbreviation :: j5
+#has_/name_/abbreviated :: j5
 
 #has_/time_/started :: -161.5e6 
 #has_/time_/stopped :: -154.8e6 

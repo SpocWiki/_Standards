@@ -73,7 +73,7 @@ A time period from 453.0 to 445.2 million years ago.
 #has_/name_/sv  :: kat
 #has_/name_/zh  :: 凯迪期
 
-#has_/abbreviation :: o6
+#has_/name_/abbreviated :: o6
 
 #has_/time_/started :: -453.0e6 
 #has_/time_/stopped :: -445.2e6 

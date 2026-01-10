@@ -70,7 +70,7 @@ A time period from 438.5 to 433.4 million years ago.
 #has_/name_/sv  :: telych
 #has_/name_/zh  :: 特列奇期
 
-#has_/abbreviation :: s3
+#has_/name_/abbreviated :: s3
 
 #has_/time_/started :: -438.5e6 
 #has_/time_/stopped :: -433.4e6 

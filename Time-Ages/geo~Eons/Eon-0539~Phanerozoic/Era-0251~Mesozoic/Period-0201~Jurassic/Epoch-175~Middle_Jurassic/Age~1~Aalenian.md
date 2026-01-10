@@ -61,7 +61,7 @@ A time period from 174.7 to 170.9 million years ago.
 #has_/name_/sv  :: aalen
 #has_/name_/zh  :: 阿连期
 
-#has_/abbreviation :: j1
+#has_/name_/abbreviated :: j1
 
 #has_/time_/started :: -174.7e6 
 #has_/time_/stopped :: -170.9e6 

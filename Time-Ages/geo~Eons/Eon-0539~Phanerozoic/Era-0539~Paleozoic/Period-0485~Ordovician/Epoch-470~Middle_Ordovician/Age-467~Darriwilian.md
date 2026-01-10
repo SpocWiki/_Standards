@@ -73,7 +73,7 @@ A time period from 467.3 to 458.4 million years ago.
 #has_/name_/sv  :: darriwil
 #has_/name_/zh  :: 达瑞威尔期
 
-#has_/abbreviation :: o4
+#has_/name_/abbreviated :: o4
 
 #has_/time_/started :: -467.3e6 
 #has_/time_/stopped :: -458.4e6 

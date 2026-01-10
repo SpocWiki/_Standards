@@ -65,7 +65,7 @@ A time period from 199.5 to 192.9 million years ago.
 #has_/name_/sv  :: sinemur
 #has_/name_/zh  :: 辛涅穆尔期
 
-#has_/abbreviation :: I2
+#has_/name_/abbreviated :: I2
 
 #has_/time_/started :: -199.5e6 
 #has_/time_/stopped :: -192.9e6 

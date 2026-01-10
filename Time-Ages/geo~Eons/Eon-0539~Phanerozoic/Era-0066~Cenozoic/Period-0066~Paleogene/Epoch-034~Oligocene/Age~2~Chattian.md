@@ -73,7 +73,7 @@ A time period from 27.82 to 23.03 million years ago.
 #has_/name_/sv  :: chatt
 #has_/name_/zh  :: 恰特期
 
-#has_/abbreviation :: e9
+#has_/name_/abbreviated :: e9
 
 #has_/time_/started :: -27.82e6 
 #has_/time_/stopped :: -23.03e6 

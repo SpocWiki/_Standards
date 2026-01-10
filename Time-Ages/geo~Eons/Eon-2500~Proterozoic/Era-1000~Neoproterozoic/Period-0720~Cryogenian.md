@@ -82,7 +82,7 @@ A time period from 720 to 635 million years ago.
 #has_/name_/sv  :: kryogenium
 #has_/name_/zh  :: 成冰纪
 
-#has_/abbreviation :: NP2
+#has_/name_/abbreviated :: NP2
 
 #has_/time_/started :: -720e6 
 #has_/time_/stopped :: -635e6 

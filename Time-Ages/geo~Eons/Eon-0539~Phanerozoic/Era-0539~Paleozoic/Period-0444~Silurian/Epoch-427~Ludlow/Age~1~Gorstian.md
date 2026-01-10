@@ -69,7 +69,7 @@ ischart::Gorstian
 #has_/name_/sv  :: gorst
 #has_/name_/zh  :: 格斯特期
 
-#has_/abbreviation :: s6
+#has_/name_/abbreviated :: s6
 #has_/time_/started :: -427.4e6 
 #has_/time_/stopped :: -425.6e6 
 

@@ -63,7 +63,7 @@ A time period from 247.2 to 242 million years ago.
 #has_/name_/sv  :: anis
 #has_/name_/zh  :: 安尼期
 
-#has_/abbreviation :: t3
+#has_/name_/abbreviated :: t3
 
 #has_/time_/started :: -247.2e6 
 #has_/time_/stopped :: -242.0e6 

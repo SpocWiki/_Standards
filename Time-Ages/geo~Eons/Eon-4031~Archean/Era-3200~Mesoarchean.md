@@ -49,7 +49,7 @@ A time period from 3200 to 2800 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesoarchean) 
 
 
-#has_/abbreviation :: MA
+#has_/name_/abbreviated :: MA
 
 #has_/name_/bg  :: Мезоархай
 #has_/name_/cs  :: Mezoarchaikum

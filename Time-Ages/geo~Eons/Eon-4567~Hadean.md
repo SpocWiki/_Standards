@@ -84,7 +84,7 @@ A time period from 4567 to 4031 million years ago.
 #has_/name_/sv  :: hadeikum
 #has_/name_/zh  :: 冥古宙（非正式）
 
-#has_/abbreviation :: HA
+#has_/name_/abbreviated :: HA
 
 #has_/text_of_/color :: 0xAE027E
 

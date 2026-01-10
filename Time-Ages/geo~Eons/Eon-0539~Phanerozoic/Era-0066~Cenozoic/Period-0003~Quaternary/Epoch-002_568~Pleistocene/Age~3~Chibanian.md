@@ -49,7 +49,7 @@ A time period from 0.774 to 0.129 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Chibanian) 
 
 
-#has_/abbreviation :: q3
+#has_/name_/abbreviated :: q3
 
   sh:order 6 
 

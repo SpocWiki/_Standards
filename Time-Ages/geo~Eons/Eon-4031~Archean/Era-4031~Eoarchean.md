@@ -60,7 +60,7 @@ A time period from 4031 to 3600 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Eoarchean) 
 
 
-#has_/abbreviation :: EA
+#has_/name_/abbreviated :: EA
 
 #has_/name_/bg  :: Еоархай
 #has_/name_/cs  :: Eoarchaikum

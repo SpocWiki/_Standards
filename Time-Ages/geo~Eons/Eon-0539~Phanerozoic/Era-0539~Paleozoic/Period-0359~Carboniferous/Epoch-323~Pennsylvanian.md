@@ -78,7 +78,7 @@ A time period from 323.2 to 298.9 million years ago.
 #has_/name_/sv  :: pennsylvan
 #has_/name_/zh  :: 宾夕法尼亚亚纪
 
-#has_/abbreviation :: C2
+#has_/name_/abbreviated :: C2
 
 #has_/time_/started :: -323.2e6 
 #has_/time_/stopped :: -298.9e6 

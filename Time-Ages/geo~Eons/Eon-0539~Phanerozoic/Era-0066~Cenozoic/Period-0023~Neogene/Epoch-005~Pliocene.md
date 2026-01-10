@@ -42,7 +42,7 @@ Dewey_Decimal_Classification: "551.788"
 
 #is_a_/time_/Epoch 
 
-#has_/abbreviation :: N2
+#has_/name_/abbreviated :: N2
 
 #has_/time_/started :: -5.333e6 
 #has_/time_/stopped :: -2.580e6 

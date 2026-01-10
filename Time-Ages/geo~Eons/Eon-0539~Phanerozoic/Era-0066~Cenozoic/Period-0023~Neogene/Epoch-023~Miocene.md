@@ -46,7 +46,7 @@ Dewey_Decimal_Classification: "551.787"
 #has_/next_/item :: [[Epoch-005~Pliocene]] 
 #is_/same_as :: [[WD~Miocene,76267]] 
 
-#has_/abbreviation :: N1
+#has_/name_/abbreviated :: N1
 #has_/time_/started :: -23.030e6 
 #has_/time_/stopped ::  -5.333e6 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 

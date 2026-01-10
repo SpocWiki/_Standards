@@ -67,7 +67,7 @@ A time period from 56.0 to 33.9 million years ago.
 #has_/name_/sv  :: eocen
 #has_/name_/zh  :: 始新世
 
-#has_/abbreviation :: E2
+#has_/name_/abbreviated :: E2
 
 #has_/time_/started :: -56.0e6 
 #has_/time_/stopped :: -33.9e6 

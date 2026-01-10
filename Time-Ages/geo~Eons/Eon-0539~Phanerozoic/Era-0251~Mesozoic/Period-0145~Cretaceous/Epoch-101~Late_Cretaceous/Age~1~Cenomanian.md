@@ -64,7 +64,7 @@ A time period from 100.5 to 93.9 million years ago.
 #has_/name_/sv  :: cenoman
 #has_/name_/zh  :: 森诺曼期
 
-#has_/abbreviation :: k1
+#has_/name_/abbreviated :: k1
 
 #has_/time_/started :: -100.5e6 
 #has_/time_/stopped ::  -93.9e6 

@@ -89,7 +89,7 @@ A time period from 2.58 to 1.8 million years ago.
 #has_/name_/sv  :: gelas
 #has_/name_/zh  :: 格拉斯期
 
-#has_/abbreviation :: q1
+#has_/name_/abbreviated :: q1
 
     sh:order 8 
 

@@ -74,7 +74,7 @@ A time period from 266.9 to 264.28 million years ago.
 #has_/name_/sv  :: word
 #has_/name_/zh  :: 沃德期
 
-#has_/abbreviation :: p6
+#has_/name_/abbreviated :: p6
 
 #has_/time_/started :: -266.90e6 
 #has_/time_/stopped :: -264.28e6 

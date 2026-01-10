@@ -64,7 +64,7 @@ A time period from 129 to 11.7 thousand years ago, right before the [[../../../.
 #has_/name_/sv  :: yngre pleistocen
 #has_/name_/zh  :: 晚更新世
 
-#has_/abbreviation :: q4
+#has_/name_/abbreviated :: q4
 
     sh:order 5 
 

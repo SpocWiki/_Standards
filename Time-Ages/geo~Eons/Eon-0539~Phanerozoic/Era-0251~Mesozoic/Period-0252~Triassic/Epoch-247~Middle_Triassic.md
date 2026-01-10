@@ -60,7 +60,7 @@ A time period from 247.2 to 237 million years ago.
 #has_/name_/sv  :: mellersta trias
 #has_/name_/zh  :: 中三叠世
 
-#has_/abbreviation :: T2
+#has_/name_/abbreviated :: T2
 
 #has_/time_/started :: -247.2e6 
 #has_/time_/stopped :: -237.0e6 

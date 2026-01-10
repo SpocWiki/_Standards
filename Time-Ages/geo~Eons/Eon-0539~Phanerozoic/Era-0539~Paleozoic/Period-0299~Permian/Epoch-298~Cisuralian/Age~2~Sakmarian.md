@@ -72,7 +72,7 @@ A time period from 293.51 to 290.1 million years ago.
 #has_/name_/sv  :: sakmar
 #has_/name_/zh  :: 萨克马尔期
 
-#has_/abbreviation :: p2
+#has_/name_/abbreviated :: p2
 
 #has_/time_/started :: -293.51e6 
 #has_/time_/stopped :: -290.10e6 

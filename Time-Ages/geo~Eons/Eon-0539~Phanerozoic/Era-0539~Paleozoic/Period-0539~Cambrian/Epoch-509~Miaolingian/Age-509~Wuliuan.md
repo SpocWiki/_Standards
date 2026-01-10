@@ -19,7 +19,7 @@ start_time: -506500000-01-01T00:00:00Z
 #is_a_/time_/Age 
 
 
-#has_/abbreviation :: ep5
+#has_/name_/abbreviated :: ep5
 
 #has_/time_/started :: -509.0e6 
 #has_/time_/stopped :: -504.5e6 

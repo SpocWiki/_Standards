@@ -60,7 +60,7 @@ A time period from 132.6 to 125.77 million years ago.
 #has_/name_/sv  :: hauteriv
 #has_/name_/zh  :: 豪特里维期
 
-#has_/abbreviation :: b3
+#has_/name_/abbreviated :: b3
 
 #has_/time_/started :: -132.60e6 
 #has_/time_/stopped :: -125.77e6 

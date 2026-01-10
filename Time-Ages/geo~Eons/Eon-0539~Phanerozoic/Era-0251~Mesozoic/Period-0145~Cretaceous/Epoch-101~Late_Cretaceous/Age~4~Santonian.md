@@ -59,7 +59,7 @@ A time period from 86.3 to 83.6 million years ago.
 #has_/name_/sv  :: santon
 #has_/name_/zh  :: 桑托期
 
-#has_/abbreviation :: k4
+#has_/name_/abbreviated :: k4
 
 #has_/time_/started :: -86.3e6 
 #has_/time_/stopped :: -83.6e6 

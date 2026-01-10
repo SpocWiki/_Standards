@@ -72,7 +72,7 @@ sRGB_color_hex_triplet: F875A7
 #has_/name_/sv  :: staterium
 #has_/name_/zh  :: 固结纪
 
-#has_/abbreviation :: PP4
+#has_/name_/abbreviated :: PP4
 
 #has_/time_/started :: -1800e6 
 #has_/time_/stopped :: -1600e6 

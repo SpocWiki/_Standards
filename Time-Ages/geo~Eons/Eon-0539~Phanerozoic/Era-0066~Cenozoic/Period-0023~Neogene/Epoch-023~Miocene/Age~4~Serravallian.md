@@ -59,7 +59,7 @@ A time period from 13.82 to 11.63 million years ago.
 #has_/name_/sv  :: serravall
 #has_/name_/zh  :: 塞拉瓦尔期
 
-#has_/abbreviation :: n4
+#has_/name_/abbreviated :: n4
 
 #has_/time_/started :: -13.82e6 
 #has_/time_/stopped :: -11.63e6 

@@ -59,7 +59,7 @@ A time period from 168.2 to 165.3 million years ago.
 #has_/name_/sv  :: bathon
 #has_/name_/zh  :: 巴通期
 
-#has_/abbreviation :: j3
+#has_/name_/abbreviated :: j3
 
 #has_/time_/started :: -168.2e6 
 #has_/time_/stopped :: -165.3e6 

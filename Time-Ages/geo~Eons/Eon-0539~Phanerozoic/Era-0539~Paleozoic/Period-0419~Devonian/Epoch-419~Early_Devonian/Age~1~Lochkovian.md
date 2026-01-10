@@ -72,7 +72,7 @@ A time period from 419.2 to 410.8 million years ago.
 #has_/name_/sv  :: lochkov
 #has_/name_/zh  :: 洛赫科夫期
 
-#has_/abbreviation :: d1
+#has_/name_/abbreviated :: d1
 #has_/time_/started :: -419.2e6 
 #has_/time_/stopped :: -410.8e6 
 

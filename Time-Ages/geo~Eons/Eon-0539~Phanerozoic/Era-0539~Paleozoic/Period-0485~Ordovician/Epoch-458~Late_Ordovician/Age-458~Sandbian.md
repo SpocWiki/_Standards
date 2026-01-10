@@ -74,7 +74,7 @@ A time period from 458.4 to 453.0 million years ago.
 #has_/name_/sv  :: sandby
 #has_/name_/zh  :: 桑比期
 
-#has_/abbreviation :: o5
+#has_/name_/abbreviated :: o5
 
 #has_/time_/started :: -458.4e6 
 #has_/time_/stopped :: -453.0e6 

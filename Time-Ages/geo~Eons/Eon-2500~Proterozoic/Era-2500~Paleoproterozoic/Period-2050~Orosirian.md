@@ -79,7 +79,7 @@ A time period from 2050 to 1800 million years ago.
 #has_/name_/sv  :: orosirium
 #has_/name_/zh  :: 造山纪
 
-#has_/abbreviation :: PP3
+#has_/name_/abbreviated :: PP3
 
 #has_/time_/started :: -2.050e9 
 #has_/time_/stopped :: -1.800e9 
