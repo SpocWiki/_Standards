@@ -13,26 +13,66 @@ Commons_category: Wuliuan
 coordinate_location: Point(108.413833333 26.747383333)
 sRGB_color_hex_triplet: B3D492
 start_time: -506500000-01-01T00:00:00Z
+dv_has_:
+  name_:
+    abbreviated: ep5
+  time_:
+    started: "-509.0e6"
+    stopped: "-504.5e6"
+  text_of_:
+    color: "0xB3D492"
+  duration_:
+    years: "4.500e+6"
+  previous_:
+    item: "[[../Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]]"
+  next_:
+    item: "[[Age-505~Drumian]]"
+dv_is_:
+  same_as:
+    - "[[WD~Wuliuan,5025311]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan|Age-509~Wuliuan]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.public|Age-509~Wuliuan.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.internal|Age-509~Wuliuan.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.protect|Age-509~Wuliuan.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.private|Age-509~Wuliuan.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.personal|Age-509~Wuliuan.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.secret|Age-509~Wuliuan.secret]]"
+dv_has_name_abbreviated: ep5
+dv_has_time_started: "-509.0e6"
+dv_has_time_stopped: "-504.5e6"
+dv_has_text_of_color: "0xB3D492"
+dv_is_same_as:
+  - "[[WD~Wuliuan,5025311]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan|Age-509~Wuliuan]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.public|Age-509~Wuliuan.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.internal|Age-509~Wuliuan.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.protect|Age-509~Wuliuan.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.private|Age-509~Wuliuan.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.personal|Age-509~Wuliuan.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-509~Wuliuan.secret|Age-509~Wuliuan.secret]]"
+dv_has_duration_years: "4.500e+6"
+dv_has_previous_item: "[[../Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]]"
+dv_has_next_item: "[[Age-505~Drumian]]"
 ---
 # [[Age-509~Wuliuan]] 
 
 #is_a_/time_/Age 
 
 
-#has_/name_/abbreviated :: ep5
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -509.0e6 
-#has_/time_/stopped :: -504.5e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 149 
 
-#has_/text_of_/color :: 0xB3D492 
+has_text_of_color = `=this.dv_has_text_of_color` 
 #is_/same_as :: [[WD~Wuliuan,5025311]] 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch-521~Cambrian_Series-2/Age-514~Cambrian_Stage_4|Age-514~Cambrian_Stage_4]] 
-#has_/next_/item :: [[Age-505~Drumian]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 A time period from 509 to 504.5 million years ago. 
 

@@ -14,6 +14,25 @@ has_part_s_:
 has_effect: "[[_Standards/WikiData/WD~cultural_universal,3825100]]"
 instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
 earliest_date: -50000-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[WD~Behavioral_modernity,2706556]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution|Cognitive_Revolution]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.public|Cognitive_Revolution.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.internal|Cognitive_Revolution.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.protect|Cognitive_Revolution.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.private|Cognitive_Revolution.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.personal|Cognitive_Revolution.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.secret|Cognitive_Revolution.secret]]"
+dv_is_same_as:
+  - "[[WD~Behavioral_modernity,2706556]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution|Cognitive_Revolution]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.public|Cognitive_Revolution.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.internal|Cognitive_Revolution.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.protect|Cognitive_Revolution.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.private|Cognitive_Revolution.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.personal|Cognitive_Revolution.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian/Cognitive_Revolution.secret|Cognitive_Revolution.secret]]"
 ---
 
 # [[Cognitive_Revolution]] 

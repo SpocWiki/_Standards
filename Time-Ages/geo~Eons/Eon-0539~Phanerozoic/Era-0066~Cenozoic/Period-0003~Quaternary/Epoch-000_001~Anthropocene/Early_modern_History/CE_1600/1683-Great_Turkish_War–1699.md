@@ -5,26 +5,45 @@ aliases:
   - 1683-Great Turkish War–1699
 has_id_wikidata: Q74623
 participant:
-  - '[[_Standards/WikiData/WD~Serbs,127885]]'
-  - '[[_Standards/WikiData/WD~Bulgarians,133255]]'
-  - '[[_Standards/WikiData/WD~Habsburg_monarchy,153136]]'
-  - '[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]'
-  - '[[_Standards/WikiData/WD~Albanians,179248]]'
-  - '[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]'
-  - '[[_Standards/WikiData/WD~Greeks,539051]]'
-  - '[[_Standards/WikiData/WD~Duchy_of_Mantua,766501]]'
-  - '[[_Standards/WikiData/WD~Prince_Bishopric_of_Montenegro,3324486]]'
-  - '[[_Standards/WikiData/WD~Republic_of_Venice,4948]]'
-  - '[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]'
-  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
-described_by_source: '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Campaignbox_Great_Turkish_War,6855784]]'
+  - "[[_Standards/WikiData/WD~Serbs,127885]]"
+  - "[[_Standards/WikiData/WD~Bulgarians,133255]]"
+  - "[[_Standards/WikiData/WD~Habsburg_monarchy,153136]]"
+  - "[[_Standards/WikiData/WD~Polish_Lithuanian_Commonwealth,172107]]"
+  - "[[_Standards/WikiData/WD~Albanians,179248]]"
+  - "[[_Standards/WikiData/WD~Tsardom_of_Russia,186096]]"
+  - "[[_Standards/WikiData/WD~Greeks,539051]]"
+  - "[[_Standards/WikiData/WD~Duchy_of_Mantua,766501]]"
+  - "[[_Standards/WikiData/WD~Prince_Bishopric_of_Montenegro,3324486]]"
+  - "[[_Standards/WikiData/WD~Republic_of_Venice,4948]]"
+  - "[[_Standards/WikiData/WD~Holy_Roman_Empire,12548]]"
+  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
+described_by_source: "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Campaignbox_Great_Turkish_War,6855784]]"
 end_time: 1699-01-01T00:00:00Z
-locations: '[[_Standards/WikiData/WD~Austria,40]]'
-instance_of: '[[_Standards/WikiData/WD~war,198]]'
+locations: "[[_Standards/WikiData/WD~Austria,40]]"
+instance_of: "[[_Standards/WikiData/WD~war,198]]"
 start_time: 1683-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vienna%20Battle%201683.jpg
 Commons_category: Great Turkish War
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Great_Turkish_War,74623|WD~Great_Turkish_War,74623]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699|1683-Great_Turkish_War–1699]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.public|1683-Great_Turkish_War–1699.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.internal|1683-Great_Turkish_War–1699.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.protect|1683-Great_Turkish_War–1699.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.private|1683-Great_Turkish_War–1699.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.personal|1683-Great_Turkish_War–1699.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.secret|1683-Great_Turkish_War–1699.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Great_Turkish_War,74623|WD~Great_Turkish_War,74623]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699|1683-Great_Turkish_War–1699]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.public|1683-Great_Turkish_War–1699.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.internal|1683-Great_Turkish_War–1699.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.protect|1683-Great_Turkish_War–1699.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.private|1683-Great_Turkish_War–1699.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.personal|1683-Great_Turkish_War–1699.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1683-Great_Turkish_War–1699.secret|1683-Great_Turkish_War–1699.secret]]"
 ---
 
 # [[1683-Great_Turkish_War–1699]]

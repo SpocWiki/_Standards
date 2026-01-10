@@ -16,15 +16,95 @@ end_time: -113000000-01-01T00:00:00Z
 start_time: -125000000-01-01T00:00:00Z
 Commons_category: Aptian
 sRGB_color_hex_triplet: BFE19F
+dv_has_:
+  duration_:
+    years: "8.400e+6"
+  previous_:
+    item: "[[Age~4~Barremian]]"
+  next_:
+    item: "[[Age~6~Albian]]"
+  name_:
+    bg: ппт
+    cs: Apt
+    da: Aptien
+    de: Aptium
+    es: Aptiense
+    et: Apti
+    fi: Apt
+    fr: Aptien
+    hu: apti
+    it: aptiano
+    ja: アプチアン期
+    lt: Aptis
+    nl: Aptiën
+    no: Apt
+    pl: Apt
+    pt: Aptiano
+    sk: apt
+    sl: aptij
+    sv: apt
+    zh: 阿普弟期
+    abbreviated: b5
+  time_:
+    started: "-121.4e6"
+    stopped: "-113.0e6"
+  text_of_:
+    color: "0xBFE48A"
+dv_is_:
+  same_as:
+    - "[[WD~Aptian,622265]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian|Age~5~Aptian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.public|Age~5~Aptian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.internal|Age~5~Aptian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.protect|Age~5~Aptian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.private|Age~5~Aptian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.personal|Age~5~Aptian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.secret|Age~5~Aptian.secret]]"
+dv_has_duration_years: "8.400e+6"
+dv_has_previous_item: "[[Age~4~Barremian]]"
+dv_has_next_item: "[[Age~6~Albian]]"
+dv_is_same_as:
+  - "[[WD~Aptian,622265]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian|Age~5~Aptian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.public|Age~5~Aptian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.internal|Age~5~Aptian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.protect|Age~5~Aptian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.private|Age~5~Aptian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.personal|Age~5~Aptian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~5~Aptian.secret|Age~5~Aptian.secret]]"
+dv_has_name_bg: ппт
+dv_has_name_cs: Apt
+dv_has_name_da: Aptien
+dv_has_name_de: Aptium
+dv_has_name_es: Aptiense
+dv_has_name_et: Apti
+dv_has_name_fi: Apt
+dv_has_name_fr: Aptien
+dv_has_name_hu: apti
+dv_has_name_it: aptiano
+dv_has_name_ja: アプチアン期
+dv_has_name_lt: Aptis
+dv_has_name_nl: Aptiën
+dv_has_name_no: Apt
+dv_has_name_pl: Apt
+dv_has_name_pt: Aptiano
+dv_has_name_sk: apt
+dv_has_name_sl: aptij
+dv_has_name_sv: apt
+dv_has_name_zh: 阿普弟期
+dv_has_name_abbreviated: b5
+dv_has_time_started: "-121.4e6"
+dv_has_time_stopped: "-113.0e6"
+dv_has_text_of_color: "0xBFE48A"
 ---
 # [[Age~5~Aptian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~4~Barremian]] 
-#has_/next_/item :: [[Age~6~Albian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Aptian,622265]] 
 
 A time period from 121.4 to 113.0 million years ago. 
@@ -54,34 +134,34 @@ A time period from 121.4 to 113.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Aptian) 
 
 
-#has_/name_/bg  :: ппт
-#has_/name_/cs  :: Apt
-#has_/name_/da  :: Aptien
-#has_/name_/de  :: Aptium
-#has_/name_/es  :: Aptiense
-#has_/name_/et  :: Apti
-#has_/name_/fi  :: Apt
-#has_/name_/fr  :: Aptien
-#has_/name_/hu  :: apti
-#has_/name_/it  :: aptiano
-#has_/name_/ja  :: アプチアン期
-#has_/name_/lt  :: Aptis
-#has_/name_/nl  :: Aptiën
-#has_/name_/no  :: Apt
-#has_/name_/pl  :: Apt
-#has_/name_/pt  :: Aptiano
-#has_/name_/sk  :: apt
-#has_/name_/sl  :: aptij
-#has_/name_/sv  :: apt
-#has_/name_/zh  :: 阿普弟期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: b5
-#has_/time_/started :: -121.4e6  
-#has_/time_/stopped :: -113.0e6  
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 44 
 
-#has_/text_of_/color :: 0xBFE48A
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

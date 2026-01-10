@@ -35,16 +35,96 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleograph
 sRGB_color_hex_triplet: 1A9D6F
 Commons_category: Early Ordovician
 end_time: -471300000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "1.540e+7"
+  previous_:
+    item: "[[Epoch~]]"
+  next_:
+    item: "[[Epoch~]]"
+  name_:
+    bg: Ранен Ордовик
+    cs: brzy ordovik
+    da: Tidlig Ordovicium
+    de: Fühes Ordovizium
+    es: Ordovícico temprano
+    et: Vara-Ordoviitsium
+    fi: Varhais-Ordoviikki
+    fr: Ordovicien précoce
+    hu: kora-ordovícium
+    it: ordoviciano precoce
+    ja: オルドビス紀前期
+    lt: Ankstyvasis Ordovikas
+    nl: Vroeg Ordovicium
+    no: Tidlig ordovicium
+    pl: Wczesny Ordowik
+    pt: Ordovícista adiantado
+    sk: raný ordovik
+    sl: zgodnji ordovicij
+    sv: äldre ordovicium
+    zh: 早奥陶世
+    abbreviated: O1
+  time_:
+    started: "-485.4e6"
+    stopped: "-470.0e6"
+  text_of_:
+    color: "0x1A9D6F"
+dv_is_:
+  same_as:
+    - "[[WD~Early_Ordovician,10739169]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician|Epoch-485~Early_Ordovician]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.public|Epoch-485~Early_Ordovician.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.internal|Epoch-485~Early_Ordovician.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.protect|Epoch-485~Early_Ordovician.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.private|Epoch-485~Early_Ordovician.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.personal|Epoch-485~Early_Ordovician.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.secret|Epoch-485~Early_Ordovician.secret]]"
+dv_has_duration_years: "1.540e+7"
+dv_has_previous_item: "[[Epoch~]]"
+dv_has_next_item: "[[Epoch~]]"
+dv_is_same_as:
+  - "[[WD~Early_Ordovician,10739169]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician|Epoch-485~Early_Ordovician]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.public|Epoch-485~Early_Ordovician.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.internal|Epoch-485~Early_Ordovician.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.protect|Epoch-485~Early_Ordovician.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.private|Epoch-485~Early_Ordovician.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.personal|Epoch-485~Early_Ordovician.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician/Epoch-485~Early_Ordovician.secret|Epoch-485~Early_Ordovician.secret]]"
+dv_has_name_bg: Ранен Ордовик
+dv_has_name_cs: brzy ordovik
+dv_has_name_da: Tidlig Ordovicium
+dv_has_name_de: Fühes Ordovizium
+dv_has_name_es: Ordovícico temprano
+dv_has_name_et: Vara-Ordoviitsium
+dv_has_name_fi: Varhais-Ordoviikki
+dv_has_name_fr: Ordovicien précoce
+dv_has_name_hu: kora-ordovícium
+dv_has_name_it: ordoviciano precoce
+dv_has_name_ja: オルドビス紀前期
+dv_has_name_lt: Ankstyvasis Ordovikas
+dv_has_name_nl: Vroeg Ordovicium
+dv_has_name_no: Tidlig ordovicium
+dv_has_name_pl: Wczesny Ordowik
+dv_has_name_pt: Ordovícista adiantado
+dv_has_name_sk: raný ordovik
+dv_has_name_sl: zgodnji ordovicij
+dv_has_name_sv: äldre ordovicium
+dv_has_name_zh: 早奥陶世
+dv_has_name_abbreviated: O1
+dv_has_time_started: "-485.4e6"
+dv_has_time_stopped: "-470.0e6"
+dv_has_text_of_color: "0x1A9D6F"
 ---
 
 # [[Epoch-485~Early_Ordovician]] 
 
 #is_a_/time_/Epoch 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Epoch~]] 
-#has_/next_/item :: [[Epoch~]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Early_Ordovician,10739169]] 
 
 A time period from 485.4 to 470.0 million years ago. 
@@ -58,35 +138,35 @@ A time period from 485.4 to 470.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Early%20Ordovician) 
 
 
-#has_/name_/bg  :: Ранен Ордовик
-#has_/name_/cs  :: brzy ordovik
-#has_/name_/da  :: Tidlig Ordovicium
-#has_/name_/de  :: Fühes Ordovizium
-#has_/name_/es  :: Ordovícico temprano
-#has_/name_/et  :: Vara-Ordoviitsium
-#has_/name_/fi  :: Varhais-Ordoviikki
-#has_/name_/fr  :: Ordovicien précoce
-#has_/name_/hu  :: kora-ordovícium
-#has_/name_/it  :: ordoviciano precoce
-#has_/name_/ja  :: オルドビス紀前期
-#has_/name_/lt  :: Ankstyvasis Ordovikas
-#has_/name_/nl  :: Vroeg Ordovicium
-#has_/name_/no  :: Tidlig ordovicium
-#has_/name_/pl  :: Wczesny Ordowik
-#has_/name_/pt  :: Ordovícista adiantado
-#has_/name_/sk  :: raný ordovik
-#has_/name_/sl  :: zgodnji ordovicij
-#has_/name_/sv  :: äldre ordovicium
-#has_/name_/zh  :: 早奥陶世
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: O1
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -485.4e6 
-#has_/time_/stopped :: -470.0e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 139 
 
-#has_/text_of_/color :: 0x1A9D6F
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

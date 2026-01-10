@@ -1,5 +1,7 @@
 ---
-location: [ 140.146527777 , 35.294333333 ] 
+location:
+  - 140.146527777
+  - 35.294333333
 aliases:
   - Chibanian
   - Age~3~Chibanian
@@ -18,6 +20,44 @@ start_time: -774100-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chibanian%20Strata%20Stake.jpg
 Commons_category: Chibanian
 end_time: -129000-01-01T00:00:00Z
+dv_has_:
+  time_:
+    started: -774000
+    stopped: -129000
+  duration_:
+    years: 645000
+  previous_:
+    item: "[[Age~2~Calabrian]]"
+  next_:
+    item: "[[Age~4~Late_Pleistocene]]"
+  name_:
+    abbreviated: q3
+  text_of_:
+    color: "0xFFF2C7"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian|Age~3~Chibanian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.public|Age~3~Chibanian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.internal|Age~3~Chibanian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.protect|Age~3~Chibanian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.private|Age~3~Chibanian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.personal|Age~3~Chibanian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.secret|Age~3~Chibanian.secret]]"
+dv_has_time_started: -774000
+dv_has_time_stopped: -129000
+dv_has_duration_years: 645000
+dv_has_previous_item: "[[Age~2~Calabrian]]"
+dv_has_next_item: "[[Age~4~Late_Pleistocene]]"
+dv_has_name_abbreviated: q3
+dv_has_text_of_color: "0xFFF2C7"
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian|Age~3~Chibanian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.public|Age~3~Chibanian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.internal|Age~3~Chibanian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.protect|Age~3~Chibanian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.private|Age~3~Chibanian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.personal|Age~3~Chibanian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian.secret|Age~3~Chibanian.secret]]"
 ---
 
 # [[Age~3~Chibanian]]
@@ -26,13 +66,13 @@ end_time: -129000-01-01T00:00:00Z
 
 A time period from 0.774 to 0.129 million years ago. 
 
-#has_/time_/started :: -774e3 
-#has_/time_/stopped :: -129e3 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started))` 
 
-#has_/previous_/item :: [[Age~2~Calabrian]]   
-#has_/next_/item :: [[Age~4~Late_Pleistocene]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 ## #has_/text_of_/abstract 
 
@@ -49,11 +89,11 @@ A time period from 0.774 to 0.129 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Chibanian) 
 
 
-#has_/name_/abbreviated :: q3
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
   sh:order 6 
 
-#has_/text_of_/color :: 0xFFF2C7
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

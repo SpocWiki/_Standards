@@ -35,16 +35,96 @@ sRGB_color_hex_triplet: "009270"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20465%20Ma%20%28Darriwilian%20Age%29.png
 Commons_category: Ordovician
 Dewey_Decimal_Classification: "551.731"
+dv_has_:
+  duration_:
+    years: "4.160e+7"
+  previous_:
+    item: "[[Period-0539~Cambrian]]"
+  next_:
+    item: "[[Period-0444~Silurian]]"
+  name_:
+    bg: Ордовик
+    cs: Ordovik
+    da: Ordovicium
+    de: Ordovizium
+    es: Ordovícico
+    et: Ordoviitsium
+    fi: Ordoviikki
+    fr: Ordovicien
+    hu: ordovícium
+    it: ordoviciano
+    ja: オルドビス紀
+    lt: Ordovikas
+    nl: Ordovicium
+    no: Ordovicium
+    pl: Ordowik
+    pt: Ordovícico
+    sk: ordovik
+    sl: ordovicij
+    sv: ordovicium
+    zh: 奥陶纪
+    abbreviated: O
+  time_:
+    started: "-485.4e6"
+    stopped: "-443.8e6"
+  text_of_:
+    color: "0x009270"
+dv_is_:
+  same_as:
+    - "[[WD~Ordovician,62100]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician|Period-0485~Ordovician]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.public|Period-0485~Ordovician.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.internal|Period-0485~Ordovician.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.protect|Period-0485~Ordovician.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.private|Period-0485~Ordovician.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.personal|Period-0485~Ordovician.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.secret|Period-0485~Ordovician.secret]]"
+dv_has_duration_years: "4.160e+7"
+dv_has_previous_item: "[[Period-0539~Cambrian]]"
+dv_has_next_item: "[[Period-0444~Silurian]]"
+dv_is_same_as:
+  - "[[WD~Ordovician,62100]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician|Period-0485~Ordovician]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.public|Period-0485~Ordovician.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.internal|Period-0485~Ordovician.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.protect|Period-0485~Ordovician.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.private|Period-0485~Ordovician.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.personal|Period-0485~Ordovician.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0485~Ordovician.secret|Period-0485~Ordovician.secret]]"
+dv_has_name_bg: Ордовик
+dv_has_name_cs: Ordovik
+dv_has_name_da: Ordovicium
+dv_has_name_de: Ordovizium
+dv_has_name_es: Ordovícico
+dv_has_name_et: Ordoviitsium
+dv_has_name_fi: Ordoviikki
+dv_has_name_fr: Ordovicien
+dv_has_name_hu: ordovícium
+dv_has_name_it: ordoviciano
+dv_has_name_ja: オルドビス紀
+dv_has_name_lt: Ordovikas
+dv_has_name_nl: Ordovicium
+dv_has_name_no: Ordovicium
+dv_has_name_pl: Ordowik
+dv_has_name_pt: Ordovícico
+dv_has_name_sk: ordovik
+dv_has_name_sl: ordovicij
+dv_has_name_sv: ordovicium
+dv_has_name_zh: 奥陶纪
+dv_has_name_abbreviated: O
+dv_has_time_started: "-485.4e6"
+dv_has_time_stopped: "-443.8e6"
+dv_has_text_of_color: "0x009270"
 ---
 
 # [[Period-0485~Ordovician]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Period-0539~Cambrian]] 
-#has_/next_/item :: [[Period-0444~Silurian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Ordovician,62100]]  
 
 A time period from 485.4 to 443.8 million years ago. 
@@ -66,35 +146,35 @@ A time period from 485.4 to 443.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Ordovician) 
 
 
-#has_/name_/bg  :: Ордовик
-#has_/name_/cs  :: Ordovik
-#has_/name_/da  :: Ordovicium
-#has_/name_/de  :: Ordovizium
-#has_/name_/es  :: Ordovícico
-#has_/name_/et  :: Ordoviitsium
-#has_/name_/fi  :: Ordoviikki
-#has_/name_/fr  :: Ordovicien
-#has_/name_/hu  :: ordovícium
-#has_/name_/it  :: ordoviciano
-#has_/name_/ja  :: オルドビス紀
-#has_/name_/lt  :: Ordovikas
-#has_/name_/nl  :: Ordovicium
-#has_/name_/no  :: Ordovicium
-#has_/name_/pl  :: Ordowik
-#has_/name_/pt  :: Ordovícico
-#has_/name_/sk  :: ordovik
-#has_/name_/sl  :: ordovicij
-#has_/name_/sv  :: ordovicium
-#has_/name_/zh  :: 奥陶纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: O
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -485.4e6 
-#has_/time_/stopped :: -443.8e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 140 
     
-#has_/text_of_/color :: 0x009270
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

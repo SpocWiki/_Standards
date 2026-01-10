@@ -5,10 +5,10 @@ aliases:
   - WWI~Eastern_Front
   - WWI~Eastern Front
 has_id_wikidata: Q154573
-instance_of: '[[_Standards/WikiData/WD~war_front,842332]]'
+instance_of: "[[_Standards/WikiData/WD~war_front,842332]]"
 location:
-  - '[[_Standards/WikiData/WD~Eastern_Europe,27468]]'
-  - '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+  - "[[_Standards/WikiData/WD~Eastern_Europe,27468]]"
+  - "[[_Standards/WikiData/WD~Central_Europe,27509]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Eastern%20Front%20%28World%20War%20I%29.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Eastern%20Front%2C%201914.jpg
@@ -17,6 +17,25 @@ Commons_gallery: Eastern Front (World War I)
 Commons_category: Eastern Front theatre of World War I
 end_time: 1918-03-03T00:00:00Z
 start_time: 1914-08-17T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Eastern_Front,154573|WD~Eastern_Front,154573]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front|WWI~Eastern_Front]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.public|WWI~Eastern_Front.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.internal|WWI~Eastern_Front.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.protect|WWI~Eastern_Front.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.private|WWI~Eastern_Front.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.personal|WWI~Eastern_Front.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.secret|WWI~Eastern_Front.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Eastern_Front,154573|WD~Eastern_Front,154573]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front|WWI~Eastern_Front]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.public|WWI~Eastern_Front.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.internal|WWI~Eastern_Front.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.protect|WWI~Eastern_Front.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.private|WWI~Eastern_Front.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.personal|WWI~Eastern_Front.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/WWI~Eastern_Front.secret|WWI~Eastern_Front.secret]]"
 ---
 
 # [[WWI~Eastern_Front]] 

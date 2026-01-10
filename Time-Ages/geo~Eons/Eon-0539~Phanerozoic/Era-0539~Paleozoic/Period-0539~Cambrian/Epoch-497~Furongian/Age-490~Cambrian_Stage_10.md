@@ -60,16 +60,95 @@ tags:
 title:
   "{ newTitle: }":
 type: private_note
+dv_has_:
+  duration_:
+    years: NaN
+  previous_:
+    item: "[[Age-494~Jiangshanian]]"
+  next_:
+    item: "[[../../Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]"
+  name_:
+    bg: Камбрий - 10 етаж
+    cs: Kambrium-Stupeň 10
+    da: Kambrium-Etage 10
+    de: Kambrium-Stufe 10
+    es: Cámbrico-Piso 10
+    et: Kambrium, Lade 10
+    fi: Kambri-vaihe 10
+    fr: Cambrien-Etage 10
+    hu: kambrium 10. emelet
+    it: cambriano - stage 10
+    ja: 第10期
+    lt: Kambras-Aukštas 10
+    nl: Cambrium, Zone 10
+    no: Kambrium-etasje10
+    pl: Kambr-Piętro 10
+    pt: Câmbrico-Piso 10
+    sk: kambrium, stupeň 10
+    sl: kambrij-stopnja 10
+    sv: kambrium etage 10
+    zh: 第十期
+    abbreviated: ep10
+  time_:
+    started: "-489.5e6"
+    stopped: "-485.4e6"
+  text_of_:
+    color: "0xE6F5C9"
+dv_is_:
+  same_as:
+    - "[[WD~Cambrian_Stage_10,5025305]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.public|Age-490~Cambrian_Stage_10.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.internal|Age-490~Cambrian_Stage_10.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.protect|Age-490~Cambrian_Stage_10.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.private|Age-490~Cambrian_Stage_10.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.personal|Age-490~Cambrian_Stage_10.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.secret|Age-490~Cambrian_Stage_10.secret]]"
+dv_has_duration_years: NaN
+dv_has_previous_item: "[[Age-494~Jiangshanian]]"
+dv_has_next_item: "[[../../Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]]"
+dv_is_same_as:
+  - "[[WD~Cambrian_Stage_10,5025305]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10|Age-490~Cambrian_Stage_10]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.public|Age-490~Cambrian_Stage_10.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.internal|Age-490~Cambrian_Stage_10.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.protect|Age-490~Cambrian_Stage_10.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.private|Age-490~Cambrian_Stage_10.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.personal|Age-490~Cambrian_Stage_10.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-490~Cambrian_Stage_10.secret|Age-490~Cambrian_Stage_10.secret]]"
+dv_has_name_bg: Камбрий - 10 етаж
+dv_has_name_cs: Kambrium-Stupeň 10
+dv_has_name_da: Kambrium-Etage 10
+dv_has_name_de: Kambrium-Stufe 10
+dv_has_name_es: Cámbrico-Piso 10
+dv_has_name_et: Kambrium, Lade 10
+dv_has_name_fi: Kambri-vaihe 10
+dv_has_name_fr: Cambrien-Etage 10
+dv_has_name_hu: kambrium 10. emelet
+dv_has_name_it: cambriano - stage 10
+dv_has_name_ja: 第10期
+dv_has_name_lt: Kambras-Aukštas 10
+dv_has_name_nl: Cambrium, Zone 10
+dv_has_name_no: Kambrium-etasje10
+dv_has_name_pl: Kambr-Piętro 10
+dv_has_name_pt: Câmbrico-Piso 10
+dv_has_name_sk: kambrium, stupeň 10
+dv_has_name_sl: kambrij-stopnja 10
+dv_has_name_sv: kambrium etage 10
+dv_has_name_zh: 第十期
+dv_has_name_abbreviated: ep10
+dv_has_time_stopped: "-485.4e6"
+dv_has_text_of_color: "0xE6F5C9"
 ---
 
 # [[Age-490~Cambrian_Stage_10]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age-494~Jiangshanian]] 
-#has_/next_/item :: [[../../Period-0485~Ordovician/Epoch-485~Early_Ordovician/Age-485~Tremadocian|Age-485~Tremadocian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Cambrian_Stage_10,5025305]]  
 
 A time period from 489.5 to 485.4 million years ago. 
@@ -85,35 +164,35 @@ A time period from 489.5 to 485.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%2010) 
 
 
-#has_/name_/bg  :: Камбрий - 10 етаж
-#has_/name_/cs  :: Kambrium-Stupeň 10
-#has_/name_/da  :: Kambrium-Etage 10
-#has_/name_/de  :: Kambrium-Stufe 10
-#has_/name_/es  :: Cámbrico-Piso 10
-#has_/name_/et  :: Kambrium, Lade 10
-#has_/name_/fi  :: Kambri-vaihe 10
-#has_/name_/fr  :: Cambrien-Etage 10
-#has_/name_/hu  :: kambrium 10. emelet
-#has_/name_/it  :: cambriano - stage 10
-#has_/name_/ja  :: 第10期
-#has_/name_/lt  :: Kambras-Aukštas 10
-#has_/name_/nl  :: Cambrium, Zone 10
-#has_/name_/no  :: Kambrium-etasje10
-#has_/name_/pl  :: Kambr-Piętro 10
-#has_/name_/pt  :: Câmbrico-Piso 10
-#has_/name_/sk  :: kambrium, stupeň 10
-#has_/name_/sl  :: kambrij-stopnja 10
-#has_/name_/sv  :: kambrium etage 10
-#has_/name_/zh  :: 第十期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: ep10
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 #has_/time_/started :: -489.5e6 
-#has_/time_/stopped :: -485.4e6 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 142 
 
-#has_/text_of_/color :: 0xE6F5C9
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

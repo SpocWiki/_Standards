@@ -35,6 +35,25 @@ Commons_category: Russo-Japanese War
 Dreadnought_Project_page: Russo-Japanese_War
 end_time: 1905-09-05T00:00:00Z
 start_time: 1904-02-08T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Russo-Japanese_War,159950]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905|1904-Russo-Japanese_War+1905]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.public|1904-Russo-Japanese_War+1905.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.internal|1904-Russo-Japanese_War+1905.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.protect|1904-Russo-Japanese_War+1905.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.private|1904-Russo-Japanese_War+1905.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.personal|1904-Russo-Japanese_War+1905.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.secret|1904-Russo-Japanese_War+1905.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Russo-Japanese_War,159950]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905|1904-Russo-Japanese_War+1905]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.public|1904-Russo-Japanese_War+1905.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.internal|1904-Russo-Japanese_War+1905.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.protect|1904-Russo-Japanese_War+1905.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.private|1904-Russo-Japanese_War+1905.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.personal|1904-Russo-Japanese_War+1905.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1904-Russo-Japanese_War+1905.secret|1904-Russo-Japanese_War+1905.secret]]"
 ---
 
 # [[1904-Russo-Japanese_War+1905]] 

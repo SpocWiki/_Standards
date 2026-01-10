@@ -22,6 +22,25 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 Commons_category: Spanish colonization of the Americas
 IMDb_keyword: spanish-colonization-of-the-americas
 start_time: 1493-10-03T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Spanish_colonization_of_the_Americas,1047607|WD~Spanish_colonization_of_the_Americas,1047607]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898|1493-Spanish_Colonization-Americas+1898]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.public|1493-Spanish_Colonization-Americas+1898.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.internal|1493-Spanish_Colonization-Americas+1898.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.protect|1493-Spanish_Colonization-Americas+1898.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.private|1493-Spanish_Colonization-Americas+1898.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.personal|1493-Spanish_Colonization-Americas+1898.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.secret|1493-Spanish_Colonization-Americas+1898.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Spanish_colonization_of_the_Americas,1047607|WD~Spanish_colonization_of_the_Americas,1047607]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898|1493-Spanish_Colonization-Americas+1898]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.public|1493-Spanish_Colonization-Americas+1898.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.internal|1493-Spanish_Colonization-Americas+1898.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.protect|1493-Spanish_Colonization-Americas+1898.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.private|1493-Spanish_Colonization-Americas+1898.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.personal|1493-Spanish_Colonization-Americas+1898.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1493-Spanish_Colonization-Americas+1898.secret|1493-Spanish_Colonization-Americas+1898.secret]]"
 ---
 
 # [[1493-Spanish_Colonization-Americas+1898]] 

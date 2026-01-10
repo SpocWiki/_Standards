@@ -4,40 +4,40 @@ aliases:
   - 1492-Spanish_Empire+1976
   - 1492-Spanish Empire+1976
 has_id_wikidata: Q80702
-anthem: '[[_Standards/WikiData/WD~Marcha_Real,130940]]'
+anthem: "[[_Standards/WikiData/WD~Marcha_Real,130940]]"
 basic_form_of_government:
-  - '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
-  - '[[_Standards/WikiData/WD~personal_union,188800]]'
-  - '[[_Standards/WikiData/WD~polysynodal_monarchy,59104206]]'
-patron_saint: '[[_Standards/WikiData/WD~Immaculate_Conception_of_Mary,185606]]'
-founded_by: '[[_Standards/WikiData/WD~Catholic_Monarchs,186851]]'
+  - "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
+  - "[[_Standards/WikiData/WD~personal_union,188800]]"
+  - "[[_Standards/WikiData/WD~polysynodal_monarchy,59104206]]"
+patron_saint: "[[_Standards/WikiData/WD~Immaculate_Conception_of_Mary,185606]]"
+founded_by: "[[_Standards/WikiData/WD~Catholic_Monarchs,186851]]"
 replaces:
-  - '[[_Standards/WikiData/WD~Crown_of_Aragon,204920]]'
-  - '[[_Standards/WikiData/WD~Crown_of_Castile,217196]]'
-part_of: '[[_Standards/WikiData/WD~Iberian_Union,377350]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Latin_Church,597526]]'
+  - "[[_Standards/WikiData/WD~Crown_of_Aragon,204920]]"
+  - "[[_Standards/WikiData/WD~Crown_of_Castile,217196]]"
+part_of: "[[_Standards/WikiData/WD~Iberian_Union,377350]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Latin_Church,597526]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Spanish_East_Indies,910648]]'
-  - '[[_Standards/WikiData/WD~Spanish_Empire_in_Europe,30900270]]'
-  - '[[_Standards/WikiData/WD~Spain,29]]'
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
-diplomatic_relation: '[[_Standards/WikiData/WD~Mosquitia,6037274]]'
-currency: '[[_Standards/WikiData/WD~Spanish_dollar,15039722]]'
+  - "[[_Standards/WikiData/WD~Spanish_East_Indies,910648]]"
+  - "[[_Standards/WikiData/WD~Spanish_Empire_in_Europe,30900270]]"
+  - "[[_Standards/WikiData/WD~Spain,29]]"
+instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+diplomatic_relation: "[[_Standards/WikiData/WD~Mosquitia,6037274]]"
+currency: "[[_Standards/WikiData/WD~Spanish_dollar,15039722]]"
 capital:
-  - '[[_Standards/WikiData/WD~Toledo_city,31844059]]'
-  - '[[_Standards/WikiData/WD~Valladolid_city,31925679]]'
-  - '[[_Standards/WikiData/WD~Madrid_city,116170766]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~The_Spanish_Empire,42351373]]'
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Sumatran_Numismatic_Museum,64681279]]'
-significant_event: '[[_Standards/WikiData/WD~dynastic_union_of_Aragon_and_Castile,111512452]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
+  - "[[_Standards/WikiData/WD~Toledo_city,31844059]]"
+  - "[[_Standards/WikiData/WD~Valladolid_city,31925679]]"
+  - "[[_Standards/WikiData/WD~Madrid_city,116170766]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~The_Spanish_Empire,42351373]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Sumatran_Numismatic_Museum,64681279]]"
+significant_event: "[[_Standards/WikiData/WD~dynastic_union_of_Aragon_and_Castile,111512452]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
 Gregorian_calendar_start_date: 1582-10-15T00:00:00Z
-language_used: '[[_Standards/WikiData/WD~Spanish,1321]]'
-official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
-official_religion: '[[_Standards/WikiData/WD~Catholicism,1841]]'
-replaced_by: '[[_Standards/WikiData/WD~Spain,29]]'
-country: '[[_Standards/WikiData/WD~Spain,29]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+language_used: "[[_Standards/WikiData/WD~Spanish,1321]]"
+official_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
+official_religion: "[[_Standards/WikiData/WD~Catholicism,1841]]"
+replaced_by: "[[_Standards/WikiData/WD~Spain,29]]"
+country: "[[_Standards/WikiData/WD~Spain,29]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
 area: 20000000
 population: 60000000
 PM20_geo_code: A31
@@ -51,6 +51,25 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20Empire
 official_name: Imperio español
 native_label: Monarquía universal española(Monarquía hispánica /Monarquía de España /Monarquía española)
 coordinate_location: Point(-3.68333333 40.41666667)
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../../WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976|1492-Spanish_Empire+1976]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.public|1492-Spanish_Empire+1976.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.internal|1492-Spanish_Empire+1976.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.protect|1492-Spanish_Empire+1976.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.private|1492-Spanish_Empire+1976.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.personal|1492-Spanish_Empire+1976.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.secret|1492-Spanish_Empire+1976.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../../WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976|1492-Spanish_Empire+1976]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.public|1492-Spanish_Empire+1976.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.internal|1492-Spanish_Empire+1976.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.protect|1492-Spanish_Empire+1976.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.private|1492-Spanish_Empire+1976.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.personal|1492-Spanish_Empire+1976.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1492-Spanish_Empire+1976.secret|1492-Spanish_Empire+1976.secret]]"
 ---
 
 

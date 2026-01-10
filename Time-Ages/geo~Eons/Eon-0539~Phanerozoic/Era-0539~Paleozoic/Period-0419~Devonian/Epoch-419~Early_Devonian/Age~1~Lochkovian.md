@@ -29,15 +29,95 @@ coordinate_location: Point(14.0611 49.9008)
 end_time: -410800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EEBA6E
 start_time: -419200000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "8.400e+6"
+  previous_:
+    item: "[[../../Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]"
+  next_:
+    item: "[[Age~2~Pragian]]"
+  name_:
+    bg: Ложков
+    cs: Lochkov
+    da: Lochkovien
+    de: Lochkovium
+    es: Lochkoviense
+    et: Lochkovi
+    fi: Lochkov
+    fr: Lochkovien
+    hu: lochkovi
+    it: lochkoviano
+    ja: ロッコビアン期
+    lt: Lochkovis
+    nl: Lochkoviën
+    no: Lochkovium
+    pl: Lochkow
+    pt: Lochkoviano
+    sk: lochkov
+    sl: lochkovij
+    sv: lochkov
+    zh: 洛赫科夫期
+    abbreviated: d1
+  time_:
+    started: "-419.2e6"
+    stopped: "-410.8e6"
+  text_of_:
+    color: "0xE5B75A"
+dv_is_:
+  same_as:
+    - "[[WD~Lochkovian,1089613]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.public|Age~1~Lochkovian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.internal|Age~1~Lochkovian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.protect|Age~1~Lochkovian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.private|Age~1~Lochkovian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.personal|Age~1~Lochkovian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.secret|Age~1~Lochkovian.secret]]"
+dv_has_duration_years: "8.400e+6"
+dv_has_previous_item: "[[../../Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]]"
+dv_has_next_item: "[[Age~2~Pragian]]"
+dv_is_same_as:
+  - "[[WD~Lochkovian,1089613]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.public|Age~1~Lochkovian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.internal|Age~1~Lochkovian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.protect|Age~1~Lochkovian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.private|Age~1~Lochkovian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.personal|Age~1~Lochkovian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian.secret|Age~1~Lochkovian.secret]]"
+dv_has_name_bg: Ложков
+dv_has_name_cs: Lochkov
+dv_has_name_da: Lochkovien
+dv_has_name_de: Lochkovium
+dv_has_name_es: Lochkoviense
+dv_has_name_et: Lochkovi
+dv_has_name_fi: Lochkov
+dv_has_name_fr: Lochkovien
+dv_has_name_hu: lochkovi
+dv_has_name_it: lochkoviano
+dv_has_name_ja: ロッコビアン期
+dv_has_name_lt: Lochkovis
+dv_has_name_nl: Lochkoviën
+dv_has_name_no: Lochkovium
+dv_has_name_pl: Lochkow
+dv_has_name_pt: Lochkoviano
+dv_has_name_sk: lochkov
+dv_has_name_sl: lochkovij
+dv_has_name_sv: lochkov
+dv_has_name_zh: 洛赫科夫期
+dv_has_name_abbreviated: d1
+dv_has_time_started: "-419.2e6"
+dv_has_time_stopped: "-410.8e6"
+dv_has_text_of_color: "0xE5B75A"
 ---
 # [[Age~1~Lochkovian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]] 
-#has_/next_/item :: [[Age~2~Pragian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Lochkovian,1089613]] 
 
 A time period from 419.2 to 410.8 million years ago. 
@@ -51,34 +131,34 @@ A time period from 419.2 to 410.8 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Lochkovian) 
 
 
-#has_/name_/bg  :: Ложков
-#has_/name_/cs  :: Lochkov
-#has_/name_/da  :: Lochkovien
-#has_/name_/de  :: Lochkovium
-#has_/name_/es  :: Lochkoviense
-#has_/name_/et  :: Lochkovi
-#has_/name_/fi  :: Lochkov
-#has_/name_/fr  :: Lochkovien
-#has_/name_/hu  :: lochkovi
-#has_/name_/it  :: lochkoviano
-#has_/name_/ja  :: ロッコビアン期
-#has_/name_/lt  :: Lochkovis
-#has_/name_/nl  :: Lochkoviën
-#has_/name_/no  :: Lochkovium
-#has_/name_/pl  :: Lochkow
-#has_/name_/pt  :: Lochkoviano
-#has_/name_/sk  :: lochkov
-#has_/name_/sl  :: lochkovij
-#has_/name_/sv  :: lochkov
-#has_/name_/zh  :: 洛赫科夫期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: d1
-#has_/time_/started :: -419.2e6 
-#has_/time_/stopped :: -410.8e6 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 117 
 
-#has_/text_of_/color :: 0xE5B75A
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

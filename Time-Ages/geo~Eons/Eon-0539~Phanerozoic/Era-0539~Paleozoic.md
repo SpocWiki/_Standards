@@ -42,25 +42,111 @@ part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geoc
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Paleozoic%20Palaeozoikum.png
 sRGB_color_hex_triplet: 99C08D
 start_time: -538800000
+dv_has_:
+  duration_:
+    years: "2.869e+8"
+  previous_:
+    item: "[[../Eon-2500~Proterozoic/Era-1000~Neoproterozoic|Era~3~Neoproterozoic]]"
+  next_:
+    item: "[[Era-0251~Mesozoic]]"
+  name_:
+    abbreviated: PZ
+    bg: Палеозой
+    cs: Paleozoikum
+    da: Palæozoisk
+    de: Paläozoikum
+    en_:
+      gb: Palaeozoic
+      us: Paleozoic
+    en: Paleozoic
+    es: Palozoico
+    et: Paleosoikum
+    fi: Paleotsoikum
+    fr: Paléozoïque
+    hu: paleozoikum
+    it: paleozoico
+    ja: 古生代
+    lt: Paleozojus
+    nl: Paleozoïcum
+    no: Paleozoikum
+    pl: Paleozoik
+    pt: Paleozóico
+    sk: paleozoikum
+    sl: paleozoik
+    sv: paleozoikum
+    zh: 古生代
+  time_:
+    started: "-538.800e6"
+    stopped: "-251.902e6"
+  text_of_:
+    color: "0x99C08D"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Paleozoic,75507|WD~Paleozoic,75507]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic|Era-0539~Paleozoic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.public|Era-0539~Paleozoic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.internal|Era-0539~Paleozoic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.protect|Era-0539~Paleozoic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.private|Era-0539~Paleozoic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.personal|Era-0539~Paleozoic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.secret|Era-0539~Paleozoic.secret]]"
+dv_has_duration_years: "2.869e+8"
+dv_has_previous_item: "[[../Eon-2500~Proterozoic/Era-1000~Neoproterozoic|Era~3~Neoproterozoic]]"
+dv_has_next_item: "[[Era-0251~Mesozoic]]"
+dv_has_name_abbreviated: PZ
+dv_has_time_stopped: "-251.902e6"
+dv_has_text_of_color: "0x99C08D"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Paleozoic,75507|WD~Paleozoic,75507]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic|Era-0539~Paleozoic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.public|Era-0539~Paleozoic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.internal|Era-0539~Paleozoic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.protect|Era-0539~Paleozoic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.private|Era-0539~Paleozoic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.personal|Era-0539~Paleozoic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic.secret|Era-0539~Paleozoic.secret]]"
+dv_has_name_bg: Палеозой
+dv_has_name_cs: Paleozoikum
+dv_has_name_da: Palæozoisk
+dv_has_name_de: Paläozoikum
+dv_has_name_en_gb: Palaeozoic
+dv_has_name_en_us: Paleozoic
+dv_has_name_en: Paleozoic
+dv_has_name_es: Palozoico
+dv_has_name_et: Paleosoikum
+dv_has_name_fi: Paleotsoikum
+dv_has_name_fr: Paléozoïque
+dv_has_name_hu: paleozoikum
+dv_has_name_it: paleozoico
+dv_has_name_ja: 古生代
+dv_has_name_lt: Paleozojus
+dv_has_name_nl: Paleozoïcum
+dv_has_name_no: Paleozoikum
+dv_has_name_pl: Paleozoik
+dv_has_name_pt: Paleozóico
+dv_has_name_sk: paleozoikum
+dv_has_name_sl: paleozoik
+dv_has_name_sv: paleozoikum
+dv_has_name_zh: 古生代
 ---
 
 # [[Era-0539~Paleozoic]] 
 
 #is_a_/time_/Era 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Eon-2500~Proterozoic/Era-1000~Neoproterozoic|Era~3~Neoproterozoic]] 
-#has_/next_/item :: [[Era-0251~Mesozoic]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
-#has_/name_/abbreviated :: PZ
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 #has_/time_/started :: -538.800e6 
-#has_/time_/stopped :: -251.902e6 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 77 
 
-#has_/text_of_/color :: 0x99C08D
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 #is_/same_as :: [[../../../WikiData/WD~Paleozoic,75507|WD~Paleozoic,75507]] 
 
@@ -71,29 +157,29 @@ A time period from 538.8 to 251.902 million years ago.
 
 
 
-#has_/name_/bg  :: Палеозой
-#has_/name_/cs  :: Paleozoikum
-#has_/name_/da  :: Palæozoisk
-#has_/name_/de  :: Paläozoikum
-#has_/name_/en_/gb  :: Palaeozoic
-#has_/name_/en_/us  :: Paleozoic 
-#has_/name_/en  :: Paleozoic
-#has_/name_/es  :: Palozoico
-#has_/name_/et  :: Paleosoikum
-#has_/name_/fi  :: Paleotsoikum
-#has_/name_/fr  :: Paléozoïque
-#has_/name_/hu  :: paleozoikum
-#has_/name_/it  :: paleozoico
-#has_/name_/ja  :: 古生代
-#has_/name_/lt  :: Paleozojus
-#has_/name_/nl  :: Paleozoïcum
-#has_/name_/no  :: Paleozoikum
-#has_/name_/pl  :: Paleozoik
-#has_/name_/pt  :: Paleozóico
-#has_/name_/sk  :: paleozoikum
-#has_/name_/sl  :: paleozoik
-#has_/name_/sv  :: paleozoikum
-#has_/name_/zh  :: 古生代
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_en_gb = `=this.dv_has_name_en_gb` 
+has_name_en_us = `=this.dv_has_name_en_us` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
 ## #has_/text_of_/abstract 
 

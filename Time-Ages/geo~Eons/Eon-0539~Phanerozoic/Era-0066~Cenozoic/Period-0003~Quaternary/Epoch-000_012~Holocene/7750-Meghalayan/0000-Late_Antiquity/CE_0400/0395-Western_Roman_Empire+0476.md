@@ -49,6 +49,25 @@ Commons_category: Western Roman Empire
 demonym: nyugatrómai
 native_label: Imperium Romanum Occidentale
 OpenStreetMap_tag: historic:civilization=western_roman
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Western_Roman_Empire,42834|WD~Western_Roman_Empire,42834]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476|0395-Western_Roman_Empire+0476]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.public|0395-Western_Roman_Empire+0476.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.internal|0395-Western_Roman_Empire+0476.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.protect|0395-Western_Roman_Empire+0476.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.private|0395-Western_Roman_Empire+0476.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.personal|0395-Western_Roman_Empire+0476.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.secret|0395-Western_Roman_Empire+0476.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Western_Roman_Empire,42834|WD~Western_Roman_Empire,42834]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476|0395-Western_Roman_Empire+0476]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.public|0395-Western_Roman_Empire+0476.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.internal|0395-Western_Roman_Empire+0476.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.protect|0395-Western_Roman_Empire+0476.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.private|0395-Western_Roman_Empire+0476.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.personal|0395-Western_Roman_Empire+0476.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0395-Western_Roman_Empire+0476.secret|0395-Western_Roman_Empire+0476.secret]]"
 ---
 
 # [[0395-Western_Roman_Empire+0476]] 

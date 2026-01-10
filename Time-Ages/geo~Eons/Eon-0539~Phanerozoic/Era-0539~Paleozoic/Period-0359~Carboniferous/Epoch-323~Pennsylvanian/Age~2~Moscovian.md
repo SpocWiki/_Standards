@@ -68,6 +68,95 @@ tags:
 title:
   "{ newTitle: }":
 type: private_note
+dv_has_:
+  time_:
+    started:
+      - "-315.2e6"
+      - "-315.2e6"
+    stopped:
+      - "-307.0e6"
+      - "-307.0e6"
+  text_of_:
+    color:
+      - "0xA6C7B7"
+      - "0xB3CBB9"
+  duration_:
+    years: NaN
+  previous_:
+    item: "[[Age~1~Bashkirian]]"
+  next_:
+    item: "[[Age~3~Kasimovian]]"
+  name_:
+    bg: Моѿков
+    cs: Moscov
+    da: Moscovien
+    de: Moskovium
+    es: Moscoviense
+    et: Moskva
+    fi: Moskova
+    fr: Moscovien
+    hu: moszkvai
+    it: moscoviano
+    ja: モスコビアン期
+    lt: Moskovis
+    nl: Moscoviën
+    no: Moskovium
+    pl: Moskow
+    pt: Moscoviano
+    sk: moskov
+    sl: moskovij
+    sv: moscov
+    zh: 莫斯科期
+    abbreviated: c5
+dv_is_:
+  same_as:
+    - "[[WD~Moscovian,1179385]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.public|Age~2~Moscovian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.internal|Age~2~Moscovian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.protect|Age~2~Moscovian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.private|Age~2~Moscovian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.personal|Age~2~Moscovian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.secret|Age~2~Moscovian.secret]]"
+dv_has_time_stopped:
+  - "-307.0e6"
+  - "-307.0e6"
+dv_has_text_of_color:
+  - "0xA6C7B7"
+  - "0xB3CBB9"
+dv_has_duration_years: NaN
+dv_has_previous_item: "[[Age~1~Bashkirian]]"
+dv_has_next_item: "[[Age~3~Kasimovian]]"
+dv_is_same_as:
+  - "[[WD~Moscovian,1179385]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian|Age~2~Moscovian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.public|Age~2~Moscovian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.internal|Age~2~Moscovian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.protect|Age~2~Moscovian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.private|Age~2~Moscovian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.personal|Age~2~Moscovian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~2~Moscovian.secret|Age~2~Moscovian.secret]]"
+dv_has_name_bg: Моѿков
+dv_has_name_cs: Moscov
+dv_has_name_da: Moscovien
+dv_has_name_de: Moskovium
+dv_has_name_es: Moscoviense
+dv_has_name_et: Moskva
+dv_has_name_fi: Moskova
+dv_has_name_fr: Moscovien
+dv_has_name_hu: moszkvai
+dv_has_name_it: moscoviano
+dv_has_name_ja: モスコビアン期
+dv_has_name_lt: Moskovis
+dv_has_name_nl: Moscoviën
+dv_has_name_no: Moskovium
+dv_has_name_pl: Moskow
+dv_has_name_pt: Moscoviano
+dv_has_name_sk: moskov
+dv_has_name_sl: moskovij
+dv_has_name_sv: moscov
+dv_has_name_zh: 莫斯科期
+dv_has_name_abbreviated: c5
 ---
 # [[Age~2~Moscovian]] 
 
@@ -83,8 +172,8 @@ type: private_note
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Bashkirian|Age~1~Bashkirian]] 
-#has_/next_/item :: [[Age~3~Kasimovian|Age~3~Kasimovian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Moscovian,1179385]]  
 
 A time period from 315.2 to 307.0 million years ago. 
@@ -98,28 +187,28 @@ A time period from 315.2 to 307.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Moscovian%20(Carboniferous)) 
 
 
-#has_/name_/bg  :: Моѿков
-#has_/name_/cs  :: Moscov
-#has_/name_/da  :: Moscovien
-#has_/name_/de  :: Moskovium
-#has_/name_/es  :: Moscoviense
-#has_/name_/et  :: Moskva
-#has_/name_/fi  :: Moskova
-#has_/name_/fr  :: Moscovien
-#has_/name_/hu  :: moszkvai
-#has_/name_/it  :: moscoviano
-#has_/name_/ja  :: モスコビアン期
-#has_/name_/lt  :: Moskovis
-#has_/name_/nl  :: Moscoviën
-#has_/name_/no  :: Moskovium
-#has_/name_/pl  :: Moskow
-#has_/name_/pt  :: Moscoviano
-#has_/name_/sk  :: moskov
-#has_/name_/sl  :: moskovij
-#has_/name_/sv  :: moscov
-#has_/name_/zh  :: 莫斯科期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: c5
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 #has_/time_/started :: -315.2e6 
 #has_/time_/stopped :: -307.0e6 

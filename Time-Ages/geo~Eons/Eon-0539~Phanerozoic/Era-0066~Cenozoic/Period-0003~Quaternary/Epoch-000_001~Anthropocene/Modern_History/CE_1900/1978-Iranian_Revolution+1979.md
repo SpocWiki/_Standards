@@ -31,6 +31,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mass%20demonstration%2
 Krugosvet_article_archived_: gosudarstvo-i-politika/iranskaya-revolyuciya-1978-1979
 Commons_category: Iranian Revolution
 native_label: انقلاب اسلامی
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Iranian_Revolution,126065]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979|1978-Iranian_Revolution+1979]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.public|1978-Iranian_Revolution+1979.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.internal|1978-Iranian_Revolution+1979.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.protect|1978-Iranian_Revolution+1979.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.private|1978-Iranian_Revolution+1979.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.personal|1978-Iranian_Revolution+1979.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.secret|1978-Iranian_Revolution+1979.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Iranian_Revolution,126065]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979|1978-Iranian_Revolution+1979]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.public|1978-Iranian_Revolution+1979.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.internal|1978-Iranian_Revolution+1979.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.protect|1978-Iranian_Revolution+1979.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.private|1978-Iranian_Revolution+1979.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.personal|1978-Iranian_Revolution+1979.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1978-Iranian_Revolution+1979.secret|1978-Iranian_Revolution+1979.secret]]"
 ---
 
 # [[1978-Iranian_Revolution+1979]] 

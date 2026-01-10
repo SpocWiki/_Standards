@@ -4,20 +4,42 @@ aliases:
 has_id_wikidata: Q108256
 Commons_category: Geologic eons
 different_from:
-  - '[[_Standards/WikiData/WD~aeon,398085]]'
-  - '[[_Standards/WikiData/WD~eonothem,2669627]]'
-has_part_s_: '[[_Standards/WikiData/WD~era,630830]]'
-next_higher_rank: '[[_Standards/WikiData/WD~supereon,15398983]]'
-part_of: '[[_Standards/WikiData/WD~supereon,15398983]]'
-standards_body: '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]'
-studied_by: '[[_Standards/WikiData/WD~geochronology,213891]]'
-subclass_of: '[[_Standards/WikiData/WD~geochronological_unit,4005761]]'
+  - "[[_Standards/WikiData/WD~aeon,398085]]"
+  - "[[_Standards/WikiData/WD~eonothem,2669627]]"
+has_part_s_: "[[_Standards/WikiData/WD~era,630830]]"
+next_higher_rank: "[[_Standards/WikiData/WD~supereon,15398983]]"
+part_of: "[[_Standards/WikiData/WD~supereon,15398983]]"
+standards_body: "[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]"
+studied_by: "[[_Standards/WikiData/WD~geochronology,213891]]"
+subclass_of: "[[_Standards/WikiData/WD~geochronological_unit,4005761]]"
+dv_is_:
+  part_of: ---
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons|geo~Eons]]"
+    - "[[/_public/Time-Ages/geo~Eons.public|geo~Eons.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons.internal|geo~Eons.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons.protect|geo~Eons.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons.private|geo~Eons.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons.personal|geo~Eons.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons.secret|geo~Eons.secret]]"
+dv_has_:
+  parts: "[[geo~Eons/geo~Eras]]"
+dv_is_part_of: ---
+dv_has_parts: "[[geo~Eons/geo~Eras]]"
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons|geo~Eons]]"
+  - "[[/_public/Time-Ages/geo~Eons.public|geo~Eons.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons.internal|geo~Eons.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons.protect|geo~Eons.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons.private|geo~Eons.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons.personal|geo~Eons.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons.secret|geo~Eons.secret]]"
 ---
 
 # [[geo~Eons]] 
 
-#is_/part_of :: ---
-#has_/parts :: [[geo~Eons/geo~Eras]]  
+is_part_of = `=this.dv_is_part_of` 
+has_parts = `=this.dv_has_parts` 
 
 An eon is the largest formal geo-chronologic time unit 
 and is equivalent to a chronostratigraphic eonothem. 

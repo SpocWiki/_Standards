@@ -6,32 +6,69 @@ aliases:
 has_id_wikidata: Q2269
 Commons_category: Industrial revolution
 Commons_gallery: Industrial revolution
-country_of_origin: '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+country_of_origin: "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
 end_time: 1820-06
 has_characteristic:
-  - '[[_Standards/WikiData/WD~industrialization,202398]]'
-  - '[[_Standards/WikiData/WD~mechanization,1160362]]'
-  - '[[_Standards/WikiData/WD~technological_transition,7692537]]'
-has_effect: '[[_Standards/WikiData/WD~economic_growth,189833]]'
+  - "[[_Standards/WikiData/WD~industrialization,202398]]"
+  - "[[_Standards/WikiData/WD~mechanization,1160362]]"
+  - "[[_Standards/WikiData/WD~technological_transition,7692537]]"
+has_effect: "[[_Standards/WikiData/WD~economic_growth,189833]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Industrial_Revolution_in_England,3938059]]'
-  - '[[_Standards/WikiData/WD~Industrial_Revolution_in_Scotland,16847469]]'
-  - '[[_Standards/WikiData/WD~Industrial_Revolution_in_Wales,97353535]]'
-  - '[[_Standards/WikiData/WD~international_trade,178803]]'
-  - '[[_Standards/WikiData/WD~rural_flight,2608153]]'
-  - '[[_Standards/WikiData/WD~steam_engine,12760]]'
-  - '[[_Standards/WikiData/WD~working_class,191159]]'
+  - "[[_Standards/WikiData/WD~Industrial_Revolution_in_England,3938059]]"
+  - "[[_Standards/WikiData/WD~Industrial_Revolution_in_Scotland,16847469]]"
+  - "[[_Standards/WikiData/WD~Industrial_Revolution_in_Wales,97353535]]"
+  - "[[_Standards/WikiData/WD~international_trade,178803]]"
+  - "[[_Standards/WikiData/WD~rural_flight,2608153]]"
+  - "[[_Standards/WikiData/WD~steam_engine,12760]]"
+  - "[[_Standards/WikiData/WD~working_class,191159]]"
 has_time_started: 1760-06
 has_time_stopped: 1820-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9moires%20de%20la%20Soci%C3%A9t%C3%A9%20g%C3%A9ologique%20de%20France%20%28IA%20meymoiresdelaso00socig%29.pdf
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
+instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/PROMISHLENNAYA_REVOLYUTSIYA.html
 start_time: 1760-06
-subclass_of: '[[_Standards/WikiData/WD~economic_development,4530482]]'
+subclass_of: "[[_Standards/WikiData/WD~economic_development,4530482]]"
+dv_has_:
+  time_:
+    started:
+      - 1760-06-01T00:00:00.000+00:53
+      - 1760-06-01T00:00:00.000+00:53
+      - 1820-06-01T00:00:00.000+00:53
+      - 1870-06-01T00:00:00.000+00:53
+      - 1914-06-01T00:00:00.000+01:00
+      - 1960-06-01T00:00:00.000+01:00
+      - 2024-06-01T00:00:00.000+02:00
+    stopped: 1820-06-01T00:00:00.000+00:53
+  duration_: P60Y
+  duration: P60Y
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Industrial_Revolution,2269]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.public|1760-Industrial_Revolution.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.internal|1760-Industrial_Revolution.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.protect|1760-Industrial_Revolution.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.private|1760-Industrial_Revolution.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.personal|1760-Industrial_Revolution.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.secret|1760-Industrial_Revolution.secret]]"
+dv_has_duration_years:
+  - 60
+  - 60
+dv_has_duration_: P60Y
+dv_has_duration: P60Y
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Industrial_Revolution,2269]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.public|1760-Industrial_Revolution.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.internal|1760-Industrial_Revolution.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.protect|1760-Industrial_Revolution.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.private|1760-Industrial_Revolution.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.personal|1760-Industrial_Revolution.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution.secret|1760-Industrial_Revolution.secret]]"
 ---
 
 #has_/time_/started :: `=this.has_time_started`

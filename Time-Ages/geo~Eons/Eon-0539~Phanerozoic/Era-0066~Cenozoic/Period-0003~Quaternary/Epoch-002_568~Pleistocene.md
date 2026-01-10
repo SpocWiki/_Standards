@@ -38,26 +38,106 @@ Commons_category: Pleistocene
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%2021%20Ka%20%28Late%20Pleistocene%20Age%29.png
 sRGB_color_hex_triplet: FFEFAF
 Dewey_Decimal_Classification: "551.792"
+dv_is_:
+  similar_to: "[[Epoch-002_568~Pleistocene/Paleolithic|Paleolithic]]"
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch-002_568~Pleistocene]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.public|Epoch-002_568~Pleistocene.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.internal|Epoch-002_568~Pleistocene.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.protect|Epoch-002_568~Pleistocene.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.private|Epoch-002_568~Pleistocene.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.personal|Epoch-002_568~Pleistocene.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.secret|Epoch-002_568~Pleistocene.secret]]"
+dv_has_:
+  name_:
+    abbreviated: Q1
+    bg: Плейѿтоцен
+    cs: Pleistocén
+    da: Pleistocæn
+    de: Pleistozän
+    es: Pleistoceno
+    et: Pleistotseen
+    fi: Pleistoseeni
+    fr: Pléistocène
+    hu: pleisztocén
+    it: pleistocene
+    ja: 更新世
+    lt: Pleistocenas
+    nl: Pleistoceen
+    no: Pleistocen
+    pl: Plejstocen
+    pt: Plistocénico
+    sk: pleistocén
+    sl: pleistocen
+    sv: pleistocen
+    zh: 更新世
+  time_:
+    started: "-2580.0e3"
+    stopped: "-11.7e3"
+  text_of_:
+    color: "0xFFEFAF"
+  duration_:
+    years: "2.568e+6"
+  previous_:
+    item: "[[../Period-0023~Neogene/Epoch-005~Pliocene|Epoch~2~Pliocene]]"
+  next_:
+    item: "[[Epoch-000_012~Holocene]]"
+dv_is_similar_to: "[[Epoch-002_568~Pleistocene/Paleolithic|Paleolithic]]"
+dv_has_name_abbreviated: Q1
+dv_has_time_started: "-2580.0e3"
+dv_has_time_stopped: "-11.7e3"
+dv_has_text_of_color: "0xFFEFAF"
+dv_has_duration_years: "2.568e+6"
+dv_has_previous_item: "[[../Period-0023~Neogene/Epoch-005~Pliocene|Epoch~2~Pliocene]]"
+dv_has_next_item: "[[Epoch-000_012~Holocene]]"
+dv_has_name_bg: Плейѿтоцен
+dv_has_name_cs: Pleistocén
+dv_has_name_da: Pleistocæn
+dv_has_name_de: Pleistozän
+dv_has_name_es: Pleistoceno
+dv_has_name_et: Pleistotseen
+dv_has_name_fi: Pleistoseeni
+dv_has_name_fr: Pléistocène
+dv_has_name_hu: pleisztocén
+dv_has_name_it: pleistocene
+dv_has_name_ja: 更新世
+dv_has_name_lt: Pleistocenas
+dv_has_name_nl: Pleistoceen
+dv_has_name_no: Pleistocen
+dv_has_name_pl: Plejstocen
+dv_has_name_pt: Plistocénico
+dv_has_name_sk: pleistocén
+dv_has_name_sl: pleistocen
+dv_has_name_sv: pleistocen
+dv_has_name_zh: 更新世
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene|Epoch-002_568~Pleistocene]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.public|Epoch-002_568~Pleistocene.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.internal|Epoch-002_568~Pleistocene.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.protect|Epoch-002_568~Pleistocene.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.private|Epoch-002_568~Pleistocene.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.personal|Epoch-002_568~Pleistocene.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene.secret|Epoch-002_568~Pleistocene.secret]]"
 ---
 
 # [[Epoch-002_568~Pleistocene]] 
 
 #is_a_/time_/Epoch 
-#is_/similar_to :: [[Epoch-002_568~Pleistocene/Paleolithic|Paleolithic]]  
+is_similar_to = `=this.dv_is_similar_to` 
 
-#has_/name_/abbreviated :: Q1
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -2580.0e3 
-#has_/time_/stopped ::   -11.7e3 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 9 
 
-#has_/text_of_/color :: 0xFFEFAF
+has_text_of_color = `=this.dv_has_text_of_color` 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Period-0023~Neogene/Epoch-005~Pliocene|Epoch~2~Pliocene]] 
-#has_/next_/item :: [[Epoch-000_012~Holocene]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 A time period from 2.58 to 0.0117 million years ago. 
 
@@ -117,26 +197,26 @@ defined by climatic and environmental changes, particularly the **glacial–inte
 > [Wikipedia](https://en.wikipedia.org/wiki/Pleistocene) 
 
 
-#has_/name_/bg  :: Плейѿтоцен
-#has_/name_/cs  :: Pleistocén
-#has_/name_/da  :: Pleistocæn
-#has_/name_/de  :: Pleistozän
-#has_/name_/es  :: Pleistoceno
-#has_/name_/et  :: Pleistotseen
-#has_/name_/fi  :: Pleistoseeni
-#has_/name_/fr  :: Pléistocène
-#has_/name_/hu  :: pleisztocén
-#has_/name_/it  :: pleistocene
-#has_/name_/ja  :: 更新世
-#has_/name_/lt  :: Pleistocenas
-#has_/name_/nl  :: Pleistoceen
-#has_/name_/no  :: Pleistocen
-#has_/name_/pl  :: Plejstocen
-#has_/name_/pt  :: Plistocénico
-#has_/name_/sk  :: pleistocén
-#has_/name_/sl  :: pleistocen
-#has_/name_/sv  :: pleistocen
-#has_/name_/zh  :: 更新世
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
 ## All Contents
 

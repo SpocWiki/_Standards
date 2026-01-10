@@ -39,48 +39,127 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Mesozoic%20Mesozoi
 sRGB_color_hex_triplet: 67C5CA
 start_time: -251902000
 topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mesozoic,101435488]]"
+dv_has_:
+  duration_:
+    years: "1.859e+8"
+  previous_:
+    item: "[[Era-0539~Paleozoic]]"
+  next_:
+    item: "[[Era-0066~Cenozoic]]"
+  name_:
+    abbreviated: MZ
+    bg: Мезозой
+    cs: Mezozoikum
+    da: Mesozoisk
+    de: Mesozoikum
+    es: Mesozoico
+    et: Mesosoikum
+    fi: Mesotsoikum
+    fr: Mésozoïque
+    hu: mezozoikum
+    it: mesozoico
+    ja: 中生代
+    lt: Mezozojus
+    nl: Mesozoïcum
+    no: Mesozoikum
+    pl: Mezozoik
+    pt: Mesozóico
+    sk: mezozoikum
+    sl: mezozoik
+    sv: mesozoikum
+    zh: 中生代
+  time_:
+    started: "-251.902e6"
+    stopped: "-66.000e6"
+  text_of_:
+    color: "0x67C5CA"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Mesozoic,83222|WD~Mesozoic,83222]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic|Era-0251~Mesozoic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.public|Era-0251~Mesozoic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.internal|Era-0251~Mesozoic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.protect|Era-0251~Mesozoic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.private|Era-0251~Mesozoic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.personal|Era-0251~Mesozoic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.secret|Era-0251~Mesozoic.secret]]"
+dv_has_duration_years: "1.859e+8"
+dv_has_previous_item: "[[Era-0539~Paleozoic]]"
+dv_has_next_item: "[[Era-0066~Cenozoic]]"
+dv_has_name_abbreviated: MZ
+dv_has_time_stopped: "-66.000e6"
+dv_has_text_of_color: "0x67C5CA"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Mesozoic,83222|WD~Mesozoic,83222]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic|Era-0251~Mesozoic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.public|Era-0251~Mesozoic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.internal|Era-0251~Mesozoic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.protect|Era-0251~Mesozoic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.private|Era-0251~Mesozoic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.personal|Era-0251~Mesozoic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic.secret|Era-0251~Mesozoic.secret]]"
+dv_has_name_bg: Мезозой
+dv_has_name_cs: Mezozoikum
+dv_has_name_da: Mesozoisk
+dv_has_name_de: Mesozoikum
+dv_has_name_es: Mesozoico
+dv_has_name_et: Mesosoikum
+dv_has_name_fi: Mesotsoikum
+dv_has_name_fr: Mésozoïque
+dv_has_name_hu: mezozoikum
+dv_has_name_it: mesozoico
+dv_has_name_ja: 中生代
+dv_has_name_lt: Mezozojus
+dv_has_name_nl: Mesozoïcum
+dv_has_name_no: Mesozoikum
+dv_has_name_pl: Mezozoik
+dv_has_name_pt: Mesozóico
+dv_has_name_sk: mezozoikum
+dv_has_name_sl: mezozoik
+dv_has_name_sv: mesozoikum
+dv_has_name_zh: 中生代
 ---
 
 # [[Era-0251~Mesozoic]] 
 
 #is_a_/time_/Era 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Era-0539~Paleozoic]] 
-#has_/next_/item :: [[Era-0066~Cenozoic]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
-#has_/name_/abbreviated :: MZ
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 #has_/time_/started :: -251.902e6 
-#has_/time_/stopped ::  -66.000e6 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 76 
 
-#has_/text_of_/color :: 0x67C5CA
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 #is_/same_as :: [[../../../WikiData/WD~Mesozoic,83222|WD~Mesozoic,83222]] 
 
-#has_/name_/bg  :: Мезозой
-#has_/name_/cs  :: Mezozoikum
-#has_/name_/da  :: Mesozoisk
-#has_/name_/de  :: Mesozoikum
-#has_/name_/es  :: Mesozoico
-#has_/name_/et  :: Mesosoikum
-#has_/name_/fi  :: Mesotsoikum
-#has_/name_/fr  :: Mésozoïque
-#has_/name_/hu  :: mezozoikum
-#has_/name_/it  :: mesozoico
-#has_/name_/ja  :: 中生代
-#has_/name_/lt  :: Mezozojus
-#has_/name_/nl  :: Mesozoïcum
-#has_/name_/no  :: Mesozoikum
-#has_/name_/pl  :: Mezozoik
-#has_/name_/pt  :: Mesozóico
-#has_/name_/sk  :: mezozoikum
-#has_/name_/sl  :: mezozoik
-#has_/name_/sv  :: mesozoikum
-#has_/name_/zh  :: 中生代
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
 A time period from 251.902 to 66.0 million years ago.
 

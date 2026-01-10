@@ -31,15 +31,95 @@ end_time: -254140000-01-01T00:00:00Z
 sRGB_color_hex_triplet: FEBBA5
 start_time: -259100000-01-01T00:00:00Z
 coordinate_location: Point(109.32111111 23.69527778)
+dv_has_:
+  duration_:
+    years: "5.370e+6"
+  previous_:
+    item: "[[../Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]"
+  next_:
+    item: "[[Age~2~Changhsingian]]"
+  name_:
+    bg: Вучиапинг
+    cs: Wuchiaping
+    da: Wuchiapingien
+    de: Wuchiapingium
+    es: Wuchiapingiense
+    et: Wuchiapingi
+    fi: Wuchiaiping
+    fr: Wuchiapingien
+    hu: wuchiapingi
+    it: wuchiapingiano
+    ja: ウキアピンギアン期
+    lt: VuĿiapingis
+    nl: Wuchiapingiën
+    no: Wuchianpingum
+    pl: Wuchiaping
+    pt: Wuchiapingiano
+    sk: wuťiapching
+    sl: wuchiapingij
+    sv: wuchiaping
+    zh: 吴家坪期
+    abbreviated: p8
+  time_:
+    started: "-259.51e6"
+    stopped: "-254.14e6"
+  text_of_:
+    color: "0xFCB4A2"
+dv_is_:
+  same_as:
+    - "[[WD~Wuchiapingian,591906]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.public|Age~1~Wuchiapingian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.internal|Age~1~Wuchiapingian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.protect|Age~1~Wuchiapingian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.private|Age~1~Wuchiapingian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.personal|Age~1~Wuchiapingian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.secret|Age~1~Wuchiapingian.secret]]"
+dv_has_duration_years: "5.370e+6"
+dv_has_previous_item: "[[../Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]]"
+dv_has_next_item: "[[Age~2~Changhsingian]]"
+dv_is_same_as:
+  - "[[WD~Wuchiapingian,591906]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.public|Age~1~Wuchiapingian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.internal|Age~1~Wuchiapingian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.protect|Age~1~Wuchiapingian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.private|Age~1~Wuchiapingian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.personal|Age~1~Wuchiapingian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~1~Wuchiapingian.secret|Age~1~Wuchiapingian.secret]]"
+dv_has_name_bg: Вучиапинг
+dv_has_name_cs: Wuchiaping
+dv_has_name_da: Wuchiapingien
+dv_has_name_de: Wuchiapingium
+dv_has_name_es: Wuchiapingiense
+dv_has_name_et: Wuchiapingi
+dv_has_name_fi: Wuchiaiping
+dv_has_name_fr: Wuchiapingien
+dv_has_name_hu: wuchiapingi
+dv_has_name_it: wuchiapingiano
+dv_has_name_ja: ウキアピンギアン期
+dv_has_name_lt: VuĿiapingis
+dv_has_name_nl: Wuchiapingiën
+dv_has_name_no: Wuchianpingum
+dv_has_name_pl: Wuchiaping
+dv_has_name_pt: Wuchiapingiano
+dv_has_name_sk: wuťiapching
+dv_has_name_sl: wuchiapingij
+dv_has_name_sv: wuchiaping
+dv_has_name_zh: 吴家坪期
+dv_has_name_abbreviated: p8
+dv_has_time_started: "-259.51e6"
+dv_has_time_stopped: "-254.14e6"
+dv_has_text_of_color: "0xFCB4A2"
 ---
 # [[Age~1~Wuchiapingian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]] 
-#has_/next_/item :: [[Age~2~Changhsingian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Wuchiapingian,591906]] 
 
 A time period from 259.51 to 254.14 million years ago. 
@@ -62,35 +142,35 @@ A time period from 259.51 to 254.14 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Wuchiapingian) 
 
 
-#has_/name_/bg  :: Вучиапинг
-#has_/name_/cs  :: Wuchiaping
-#has_/name_/da  :: Wuchiapingien
-#has_/name_/de  :: Wuchiapingium
-#has_/name_/es  :: Wuchiapingiense
-#has_/name_/et  :: Wuchiapingi
-#has_/name_/fi  :: Wuchiaiping
-#has_/name_/fr  :: Wuchiapingien
-#has_/name_/hu  :: wuchiapingi
-#has_/name_/it  :: wuchiapingiano
-#has_/name_/ja  :: ウキアピンギアン期
-#has_/name_/lt  :: VuĿiapingis
-#has_/name_/nl  :: Wuchiapingiën
-#has_/name_/no  :: Wuchianpingum
-#has_/name_/pl  :: Wuchiaping
-#has_/name_/pt  :: Wuchiapingiano
-#has_/name_/sk  :: wuťiapching
-#has_/name_/sl  :: wuchiapingij
-#has_/name_/sv  :: wuchiaping
-#has_/name_/zh  :: 吴家坪期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: p8
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -259.51e6 
-#has_/time_/stopped :: -254.14e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 81 
 
-#has_/text_of_/color :: 0xFCB4A2
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

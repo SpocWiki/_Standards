@@ -49,6 +49,25 @@ locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Seleucid301BC.png
 Library_of_Congress_Classification: DS284.9
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "SeleucidEmpire"]
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Seleucid_Empire,93180|WD~Seleucid_Empire,93180]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063|-0312–Seleucid_Empire-0063]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.public|-0312–Seleucid_Empire-0063.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.internal|-0312–Seleucid_Empire-0063.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.protect|-0312–Seleucid_Empire-0063.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.private|-0312–Seleucid_Empire-0063.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.personal|-0312–Seleucid_Empire-0063.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.secret|-0312–Seleucid_Empire-0063.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Seleucid_Empire,93180|WD~Seleucid_Empire,93180]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063|-0312–Seleucid_Empire-0063]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.public|-0312–Seleucid_Empire-0063.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.internal|-0312–Seleucid_Empire-0063.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.protect|-0312–Seleucid_Empire-0063.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.private|-0312–Seleucid_Empire-0063.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.personal|-0312–Seleucid_Empire-0063.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.secret|-0312–Seleucid_Empire-0063.secret]]"
 ---
 
 # [[-0312–Seleucid_Empire-0063]] 

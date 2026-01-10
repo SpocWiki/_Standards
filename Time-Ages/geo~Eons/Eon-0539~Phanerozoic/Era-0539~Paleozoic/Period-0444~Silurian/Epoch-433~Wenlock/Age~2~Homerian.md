@@ -29,15 +29,95 @@ coordinate_location: Point(-2.5647 52.6156)
 end_time: -427400000-01-01T00:00:00Z
 start_time: -430500000-01-01T00:00:00Z
 sRGB_color_hex_triplet: C5E9DB
+dv_has_:
+  duration_:
+    years: "3.100e+6"
+  previous_:
+    item: "[[Age~1~Sheinwoodian]]"
+  next_:
+    item: "[[../Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]"
+  name_:
+    bg: Хомер
+    cs: Homer
+    da: Homerien
+    de: Homerium
+    es: Homeriense
+    et: Homeri
+    fi: Homer
+    fr: Homérien
+    hu: homeri
+    it: homeriano
+    ja: ホメリアン期
+    lt: Homeris
+    nl: Homeriën
+    no: Homer
+    pl: Homer
+    pt: Homeriano
+    sk: homer
+    sl: homerij
+    sv: homer
+    zh: 侯默期
+    abbreviated: s5
+  time_:
+    started: "-430.5e6"
+    stopped: "-427.4e6"
+  text_of_:
+    color: "0xCCEBD1"
+dv_is_:
+  same_as:
+    - "[[WD~Homerian,753045]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.public|Age~2~Homerian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.internal|Age~2~Homerian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.protect|Age~2~Homerian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.private|Age~2~Homerian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.personal|Age~2~Homerian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.secret|Age~2~Homerian.secret]]"
+dv_has_duration_years: "3.100e+6"
+dv_has_previous_item: "[[Age~1~Sheinwoodian]]"
+dv_has_next_item: "[[../Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]"
+dv_is_same_as:
+  - "[[WD~Homerian,753045]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.public|Age~2~Homerian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.internal|Age~2~Homerian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.protect|Age~2~Homerian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.private|Age~2~Homerian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.personal|Age~2~Homerian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~2~Homerian.secret|Age~2~Homerian.secret]]"
+dv_has_name_bg: Хомер
+dv_has_name_cs: Homer
+dv_has_name_da: Homerien
+dv_has_name_de: Homerium
+dv_has_name_es: Homeriense
+dv_has_name_et: Homeri
+dv_has_name_fi: Homer
+dv_has_name_fr: Homérien
+dv_has_name_hu: homeri
+dv_has_name_it: homeriano
+dv_has_name_ja: ホメリアン期
+dv_has_name_lt: Homeris
+dv_has_name_nl: Homeriën
+dv_has_name_no: Homer
+dv_has_name_pl: Homer
+dv_has_name_pt: Homeriano
+dv_has_name_sk: homer
+dv_has_name_sl: homerij
+dv_has_name_sv: homer
+dv_has_name_zh: 侯默期
+dv_has_name_abbreviated: s5
+dv_has_time_started: "-430.5e6"
+dv_has_time_stopped: "-427.4e6"
+dv_has_text_of_color: "0xCCEBD1"
 ---
 # [[Age~2~Homerian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Sheinwoodian]] 
-#has_/next_/item :: [[../Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Homerian,753045]]
 
 A time period from 430.5 to 427.4 million years ago. 
@@ -51,35 +131,35 @@ A time period from 430.5 to 427.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Homerian) 
 
 
-#has_/name_/bg  :: Хомер
-#has_/name_/cs  :: Homer
-#has_/name_/da  :: Homerien
-#has_/name_/de  :: Homerium
-#has_/name_/es  :: Homeriense
-#has_/name_/et  :: Homeri
-#has_/name_/fi  :: Homer
-#has_/name_/fr  :: Homérien
-#has_/name_/hu  :: homeri
-#has_/name_/it  :: homeriano
-#has_/name_/ja  :: ホメリアン期
-#has_/name_/lt  :: Homeris
-#has_/name_/nl  :: Homeriën
-#has_/name_/no  :: Homer
-#has_/name_/pl  :: Homer
-#has_/name_/pt  :: Homeriano
-#has_/name_/sk  :: homer
-#has_/name_/sl  :: homerij
-#has_/name_/sv  :: homer
-#has_/name_/zh  :: 侯默期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: s5
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -430.5e6 
-#has_/time_/stopped :: -427.4e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 123 
 
-#has_/text_of_/color :: 0xCCEBD1
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

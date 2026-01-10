@@ -1,5 +1,7 @@
 ---
-location: [ 23.0 , 38.5 ] 
+location:
+  - 23
+  - 38.5
 aliases:
   - Ancient Greece
   - -1200-Ancient_Greece+0600
@@ -7,51 +9,77 @@ aliases:
 has_id_wikidata: Q11772
 BHCL_UUID: fea2a69b-8216-4b76-ac71-c0552d7a259f
 Commons_category: Ancient Greece
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
 coordinate_location: Point(23.0 38.5)
-currency: '[[_Standards/WikiData/WD~ancient_Greek_coinage,440311]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+currency: "[[_Standards/WikiData/WD~ancient_Greek_coinage,440311]]"
+described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 Dewey_Decimal_Classification:
   - 2--38
   - 938
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_ancient_Greece,2736823]]'
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_ancient_Greece,2736823]]"
 end_time: 0600-06
-history_of_topic: '[[_Standards/WikiData/WD~history_of_ancient_Greece,7798]]'
+history_of_topic: "[[_Standards/WikiData/WD~history_of_ancient_Greece,7798]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sicily%20Selinunte%20Temple%20E%20%28Hera%29.JPG
-indigenous_to: '[[_Standards/WikiData/WD~Greece,41]]'
+indigenous_to: "[[_Standards/WikiData/WD~Greece,41]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~culture,11042]]'
-  - '[[_Standards/WikiData/WD~ancient_civilization,28171280]]'
-  - '[[_Standards/WikiData/WD~art_style,1792644]]'
-  - '[[_Standards/WikiData/WD~cultural_region,3502482]]'
-  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
-  - '[[_Standards/WikiData/WD~historical_region,1620908]]'
+  - "[[_Standards/WikiData/WD~culture,11042]]"
+  - "[[_Standards/WikiData/WD~ancient_civilization,28171280]]"
+  - "[[_Standards/WikiData/WD~art_style,1792644]]"
+  - "[[_Standards/WikiData/WD~cultural_region,3502482]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~historical_region,1620908]]"
 Krugosvet_article: istoriya/DREVNYAYA_GRETSIYA.html
 MeSH_tree_code: Z01.586.035.519
 OpenStreetMap_tag_or_key: Tag:historic:civilization=ancient_greece
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Herakles%20Kyknos%20pottery%20banner.jpg
-part_of: '[[_Standards/WikiData/WD~history_of_Greece,7794]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828833,22828833]]'
+part_of: "[[_Standards/WikiData/WD~history_of_Greece,7794]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828833,22828833]]"
 shares_border_with:
-  - '[[_Standards/WikiData/WD~Illyria,32047]]'
-  - '[[_Standards/WikiData/WD~Thrace,41741]]'
+  - "[[_Standards/WikiData/WD~Illyria,32047]]"
+  - "[[_Standards/WikiData/WD~Thrace,41741]]"
 start_time: -1200
 studied_in:
-  - '[[_Standards/WikiData/WD~classics,841090]]'
-  - '[[_Standards/WikiData/WD~ancient_history,435608]]'
-  - '[[_Standards/WikiData/WD~Greek_studies,16267481]]'
+  - "[[_Standards/WikiData/WD~classics,841090]]"
+  - "[[_Standards/WikiData/WD~ancient_history,435608]]"
+  - "[[_Standards/WikiData/WD~Greek_studies,16267481]]"
 subreddit: ancientgreece
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ancient_Greece_topics,6054993]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ancient_Greece,10566332]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ancient_Greece_topics,6054993]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ancient_Greece,10566332]]"
 UMLS_CUI: C4505339
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ancient_Greece,7112550]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ancient_Greece,7112550]]"
+dv_has_:
+  time_:
+    started: -1200
+    stopped: 600
+  duration_: 1800
+dv_is_:
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600|-1200-Ancient_Greece+0600]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.public|-1200-Ancient_Greece+0600.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.internal|-1200-Ancient_Greece+0600.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.protect|-1200-Ancient_Greece+0600.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.private|-1200-Ancient_Greece+0600.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.personal|-1200-Ancient_Greece+0600.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.secret|-1200-Ancient_Greece+0600.secret]]"
+dv_has_time_started: -1200
+dv_has_time_stopped: 600
+dv_has_duration_years: 1800
+dv_has_duration_: 1800
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600|-1200-Ancient_Greece+0600]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.public|-1200-Ancient_Greece+0600.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.internal|-1200-Ancient_Greece+0600.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.protect|-1200-Ancient_Greece+0600.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.private|-1200-Ancient_Greece+0600.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.personal|-1200-Ancient_Greece+0600.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600.secret|-1200-Ancient_Greece+0600.secret]]"
 ---
 
-#has_/time_/started :: -1200 
-#has_/time_/stopped :: 0600 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
-#has_/duration_ :: `=default(number(this.has_time_stopped + ""), date(now)) - this.has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started))` 
+#has_/duration_ :: `=default(number(this.dv_has_time_stopped + ""), date(now)) - this.dv_has_time_started` 
 
 ## #has_/text_of_/abstract 
 

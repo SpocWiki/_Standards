@@ -29,6 +29,77 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleograph
 sRGB_color_hex_triplet: 678F66
 end_time: -323200000-01-01T00:00:00Z
 start_time: -358900000-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[WD~Mississippian,744718]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian|Epoch-359~Mississippian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.public|Epoch-359~Mississippian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.internal|Epoch-359~Mississippian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.protect|Epoch-359~Mississippian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.private|Epoch-359~Mississippian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.personal|Epoch-359~Mississippian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.secret|Epoch-359~Mississippian.secret]]"
+dv_has_:
+  name_:
+    bg: Миѿиѿип
+    cs: Mississip
+    da: Mississippien
+    de: Mississippium
+    es: Mississippiense
+    et: Mississippi
+    fi: Mississippi
+    fr: Mississippien
+    hu: mississippi
+    it: mississippiano
+    ja: ミシシッピアン紀
+    lt: Misisipis
+    nl: Mississippiën
+    no: Mississippium
+    pl: Missisip
+    pt: Mississipiano
+    sk: mississip
+    sl: mississippij
+    sv: mississippi
+    zh: 密西西比亚纪
+    abbreviated: C1
+  time_:
+    started: "-358.9e6"
+    stopped: "-323.2e6"
+  text_of_:
+    color: "0x678F66"
+dv_is_same_as:
+  - "[[WD~Mississippian,744718]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian|Epoch-359~Mississippian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.public|Epoch-359~Mississippian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.internal|Epoch-359~Mississippian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.protect|Epoch-359~Mississippian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.private|Epoch-359~Mississippian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.personal|Epoch-359~Mississippian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian.secret|Epoch-359~Mississippian.secret]]"
+dv_has_name_bg: Миѿиѿип
+dv_has_name_cs: Mississip
+dv_has_name_da: Mississippien
+dv_has_name_de: Mississippium
+dv_has_name_es: Mississippiense
+dv_has_name_et: Mississippi
+dv_has_name_fi: Mississippi
+dv_has_name_fr: Mississippien
+dv_has_name_hu: mississippi
+dv_has_name_it: mississippiano
+dv_has_name_ja: ミシシッピアン紀
+dv_has_name_lt: Misisipis
+dv_has_name_nl: Mississippiën
+dv_has_name_no: Mississippium
+dv_has_name_pl: Missisip
+dv_has_name_pt: Mississipiano
+dv_has_name_sk: mississip
+dv_has_name_sl: mississippij
+dv_has_name_sv: mississippi
+dv_has_name_zh: 密西西比亚纪
+dv_has_name_abbreviated: C1
+dv_has_time_started: "-358.9e6"
+dv_has_time_stopped: "-323.2e6"
+dv_has_text_of_color: "0x678F66"
 ---
 
 # [[Epoch-359~Mississippian]] 
@@ -49,35 +120,35 @@ A time period from 358.9 to 323.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Mississippian%20(geology)) 
 
 
-#has_/name_/bg  :: Миѿиѿип
-#has_/name_/cs  :: Mississip
-#has_/name_/da  :: Mississippien
-#has_/name_/de  :: Mississippium
-#has_/name_/es  :: Mississippiense
-#has_/name_/et  :: Mississippi
-#has_/name_/fi  :: Mississippi
-#has_/name_/fr  :: Mississippien
-#has_/name_/hu  :: mississippi
-#has_/name_/it  :: mississippiano
-#has_/name_/ja  :: ミシシッピアン紀
-#has_/name_/lt  :: Misisipis
-#has_/name_/nl  :: Mississippiën
-#has_/name_/no  :: Mississippium
-#has_/name_/pl  :: Missisip
-#has_/name_/pt  :: Mississipiano
-#has_/name_/sk  :: mississip
-#has_/name_/sl  :: mississippij
-#has_/name_/sv  :: mississippi
-#has_/name_/zh  :: 密西西比亚纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: C1
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -358.9e6 
-#has_/time_/stopped :: -323.2e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 106 
 
-#has_/text_of_/color :: 0x678F66
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

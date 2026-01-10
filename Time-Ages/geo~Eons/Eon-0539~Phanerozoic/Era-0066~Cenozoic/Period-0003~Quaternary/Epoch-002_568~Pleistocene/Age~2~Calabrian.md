@@ -1,5 +1,7 @@
 ---
-location: [ 17.1348 , 39.0385 ] 
+location:
+  - 17.1348
+  - 39.0385
 aliases:
   - Calabrian
   - Калабрий
@@ -39,6 +41,84 @@ coordinate_location: Point(17.1348 39.0385)
 end_time: -774100-01-01T00:00:00Z
 Commons_category: Calabrian
 sRGB_color_hex_triplet: FFF2BA
+dv_has_:
+  time_:
+    started: -1800000
+    stopped: -774000
+  duration_:
+    years: "1.026e+6"
+  previous_:
+    item: "[[Age~1~Gelasian]]"
+  next_:
+    item: "[[Age~3~Chibanian]]"
+  name_:
+    bg: Калабрий
+    cs: Calabr
+    da: Calabrian
+    de: Calabrium
+    es: Calabriense
+    et: Kalaabria
+    fi: Calabria
+    fr: Calabrien
+    hu: kalabriai
+    it: calabriano
+    ja: カラブリア期
+    lt: Kalabris
+    nl: Onder Pleistoceen/ Hoog Terras
+    no: Calabrium
+    pl: Kalambr
+    pt: Calabriano
+    sk: kalábrian
+    sl: calabrij
+    sv: calabr
+    zh: 卡拉布里亚期
+    abbreviated: q2
+  text_of_:
+    color: "0xFFF2BA"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian|Age~2~Calabrian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.public|Age~2~Calabrian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.internal|Age~2~Calabrian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.protect|Age~2~Calabrian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.private|Age~2~Calabrian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.personal|Age~2~Calabrian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.secret|Age~2~Calabrian.secret]]"
+dv_has_time_started: -1800000
+dv_has_time_stopped: -774000
+dv_has_duration_years: "1.026e+6"
+dv_has_previous_item: "[[Age~1~Gelasian]]"
+dv_has_next_item: "[[Age~3~Chibanian]]"
+dv_has_name_bg: Калабрий
+dv_has_name_cs: Calabr
+dv_has_name_da: Calabrian
+dv_has_name_de: Calabrium
+dv_has_name_es: Calabriense
+dv_has_name_et: Kalaabria
+dv_has_name_fi: Calabria
+dv_has_name_fr: Calabrien
+dv_has_name_hu: kalabriai
+dv_has_name_it: calabriano
+dv_has_name_ja: カラブリア期
+dv_has_name_lt: Kalabris
+dv_has_name_nl: Onder Pleistoceen/ Hoog Terras
+dv_has_name_no: Calabrium
+dv_has_name_pl: Kalambr
+dv_has_name_pt: Calabriano
+dv_has_name_sk: kalábrian
+dv_has_name_sl: calabrij
+dv_has_name_sv: calabr
+dv_has_name_zh: 卡拉布里亚期
+dv_has_name_abbreviated: q2
+dv_has_text_of_color: "0xFFF2BA"
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian|Age~2~Calabrian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.public|Age~2~Calabrian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.internal|Age~2~Calabrian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.protect|Age~2~Calabrian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.private|Age~2~Calabrian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.personal|Age~2~Calabrian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~2~Calabrian.secret|Age~2~Calabrian.secret]]"
 ---
 
 # [[Age~2~Calabrian]] 
@@ -47,13 +127,13 @@ sRGB_color_hex_triplet: FFF2BA
 
 A time period from 1.8 to 0.774 million years ago. 
 
-#has_/time_/started :: -1800e3 
-#has_/time_/stopped ::  -774e3 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Gelasian]]   
-#has_/next_/item :: [[Age~3~Chibanian]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 ## #has_/text_of_/abstract 
 
@@ -70,32 +150,32 @@ A time period from 1.8 to 0.774 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Calabrian%20(stage)) 
 
 
-#has_/name_/bg  :: Калабрий
-#has_/name_/cs  :: Calabr
-#has_/name_/da  :: Calabrian
-#has_/name_/de  :: Calabrium
-#has_/name_/es  :: Calabriense
-#has_/name_/et  :: Kalaabria
-#has_/name_/fi  :: Calabria
-#has_/name_/fr  :: Calabrien
-#has_/name_/hu  :: kalabriai
-#has_/name_/it  :: calabriano
-#has_/name_/ja  :: カラブリア期
-#has_/name_/lt  :: Kalabris
-#has_/name_/nl  :: Onder Pleistoceen/ Hoog Terras
-#has_/name_/no  :: Calabrium
-#has_/name_/pl  :: Kalambr
-#has_/name_/pt  :: Calabriano
-#has_/name_/sk  :: kalábrian
-#has_/name_/sl  :: calabrij
-#has_/name_/sv  :: calabr
-#has_/name_/zh  :: 卡拉布里亚期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: q2
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
     sh:order 7 
 
-#has_/text_of_/color :: 0xFFF2BA
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

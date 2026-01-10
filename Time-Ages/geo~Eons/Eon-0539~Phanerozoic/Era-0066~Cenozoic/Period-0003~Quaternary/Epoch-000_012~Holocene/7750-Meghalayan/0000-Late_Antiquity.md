@@ -10,22 +10,55 @@ EAGLE_id:
 end_time: http://www.wikidata.org/.well-known/genid/4fb801ba8c9f6c8f6758c284f6b841f2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vergilius%20romanus%20234v.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~culture,11042]]'
-  - '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
-  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Late_antiquity,10968580]]'
+  - "[[_Standards/WikiData/WD~culture,11042]]"
+  - "[[_Standards/WikiData/WD~archaeological_culture,465299]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Late_antiquity,10968580]]"
+dv_has_:
+  time_:
+    started: 0250-06-01T00:00:00.000+00:53
+    stopped: 0750-06-01T00:00:00.000+00:53
+  duration_: P500Y
+  previous_item: "[[Classical_Antiquity]]"
+  next_:
+    item: "[[Middle_Ages/0750-Early_Middle-Ages]]"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Late_antiquity,217050|WD~Late_antiquity,217050]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity|0000-Late_Antiquity]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.public|0000-Late_Antiquity.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.internal|0000-Late_Antiquity.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.protect|0000-Late_Antiquity.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.private|0000-Late_Antiquity.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.personal|0000-Late_Antiquity.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.secret|0000-Late_Antiquity.secret]]"
+dv_has_time_started: 0250-06-01
+dv_has_time_stopped: 0750-06-01
+dv_has_duration_years: 500
+dv_has_duration_: P500Y
+dv_has_previous_item: "[[Classical_Antiquity]]"
+dv_has_next_item: "[[Middle_Ages/0750-Early_Middle-Ages]]"
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Late_antiquity,217050|WD~Late_antiquity,217050]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity|0000-Late_Antiquity]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.public|0000-Late_Antiquity.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.internal|0000-Late_Antiquity.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.protect|0000-Late_Antiquity.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.private|0000-Late_Antiquity.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.personal|0000-Late_Antiquity.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity.secret|0000-Late_Antiquity.secret]]"
 ---
 
 # [[0000-Late_Antiquity]] 
 
-#has_/time_/started :: 0250-06 
-#has_/time_/stopped :: 0750-06 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now)) - this.dv_has_time_started` 
 
-#has_/previous_item :: [[Classical_Antiquity]]  
-#has_/next_/item :: [[Middle_Ages/0750-Early_Middle-Ages]]
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Late_antiquity,217050|WD~Late_antiquity,217050]] 
 

@@ -30,15 +30,95 @@ named_after: "[[_Standards/WikiData/WD~Prague,1085]]"
 sRGB_color_hex_triplet: EEC57B
 coordinate_location: Point(14.3726 50.0147)
 end_time: -407600000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "3.200e+6"
+  previous_:
+    item: "[[Age~1~Lochkovian]]"
+  next_:
+    item: "[[Age~3~Emsian]]"
+  name_:
+    bg: Праг
+    cs: Prag
+    da: Pragien
+    de: Pragium
+    es: Praguiense
+    et: Praha
+    fi: Praha
+    fr: Praguien
+    hu: prágai
+    it: pragiano
+    ja: プラギアン期
+    lt: Pragis
+    nl: Pragiën
+    no: Pragium
+    pl: Prag
+    pt: Pragiano
+    sk: prág
+    sl: pragij
+    sv: prag
+    zh: 布拉格期
+    abbreviated: d2
+  time_:
+    started: "-410.8e6"
+    stopped: "-407.6e6"
+  text_of_:
+    color: "0xE5C468"
+dv_is_:
+  same_as:
+    - "[[WD~Pragian,1089625]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian|Age~2~Pragian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.public|Age~2~Pragian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.internal|Age~2~Pragian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.protect|Age~2~Pragian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.private|Age~2~Pragian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.personal|Age~2~Pragian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.secret|Age~2~Pragian.secret]]"
+dv_has_duration_years: "3.200e+6"
+dv_has_previous_item: "[[Age~1~Lochkovian]]"
+dv_has_next_item: "[[Age~3~Emsian]]"
+dv_is_same_as:
+  - "[[WD~Pragian,1089625]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian|Age~2~Pragian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.public|Age~2~Pragian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.internal|Age~2~Pragian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.protect|Age~2~Pragian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.private|Age~2~Pragian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.personal|Age~2~Pragian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0419~Devonian/Epoch-419~Early_Devonian/Age~2~Pragian.secret|Age~2~Pragian.secret]]"
+dv_has_name_bg: Праг
+dv_has_name_cs: Prag
+dv_has_name_da: Pragien
+dv_has_name_de: Pragium
+dv_has_name_es: Praguiense
+dv_has_name_et: Praha
+dv_has_name_fi: Praha
+dv_has_name_fr: Praguien
+dv_has_name_hu: prágai
+dv_has_name_it: pragiano
+dv_has_name_ja: プラギアン期
+dv_has_name_lt: Pragis
+dv_has_name_nl: Pragiën
+dv_has_name_no: Pragium
+dv_has_name_pl: Prag
+dv_has_name_pt: Pragiano
+dv_has_name_sk: prág
+dv_has_name_sl: pragij
+dv_has_name_sv: prag
+dv_has_name_zh: 布拉格期
+dv_has_name_abbreviated: d2
+dv_has_time_started: "-410.8e6"
+dv_has_time_stopped: "-407.6e6"
+dv_has_text_of_color: "0xE5C468"
 ---
 # [[Age~2~Pragian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Lochkovian]] 
-#has_/next_/item :: [[Age~3~Emsian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Pragian,1089625]]  
 
 A time period from 410.8 to 407.6 million years ago. 
@@ -59,34 +139,34 @@ A time period from 410.8 to 407.6 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pragian) 
 
 
-#has_/name_/bg  :: Праг
-#has_/name_/cs  :: Prag
-#has_/name_/da  :: Pragien
-#has_/name_/de  :: Pragium
-#has_/name_/es  :: Praguiense
-#has_/name_/et  :: Praha
-#has_/name_/fi  :: Praha
-#has_/name_/fr  :: Praguien
-#has_/name_/hu  :: prágai
-#has_/name_/it  :: pragiano
-#has_/name_/ja  :: プラギアン期
-#has_/name_/lt  :: Pragis
-#has_/name_/nl  :: Pragiën
-#has_/name_/no  :: Pragium
-#has_/name_/pl  :: Prag
-#has_/name_/pt  :: Pragiano
-#has_/name_/sk  :: prág
-#has_/name_/sl  :: pragij
-#has_/name_/sv  :: prag
-#has_/name_/zh  :: 布拉格期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: d2
-#has_/time_/started :: -410.8e6 
-#has_/time_/stopped :: -407.6e6 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 115 
 
-#has_/text_of_/color :: 0xE5C468
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

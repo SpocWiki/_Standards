@@ -33,16 +33,96 @@ Commons_category: Permian
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20275%20Ma%20%28Kungurian%20Age%29.png
 sRGB_color_hex_triplet: F04028
 Dewey_Decimal_Classification: "551.756"
+dv_has_:
+  duration_:
+    years: "4.700e+7"
+  previous_:
+    item: "[[Period-0359~Carboniferous]]"
+  next_:
+    item: "[[../Era-0251~Mesozoic/Period-0252~Triassic|Period~1~Triassic]]"
+  name_:
+    bg: Перм
+    cs: Perm
+    da: Perm
+    de: Perm
+    es: Pérmico
+    et: Perm
+    fi: Permi
+    fr: Permien
+    hu: perm
+    it: permiano
+    ja: ペルム紀
+    lt: Permas
+    nl: Perm
+    no: Perm
+    pl: Perm
+    pt: Pérmico
+    sk: perm
+    sl: perm
+    sv: perm
+    zh: 二叠纪
+    abbreviated: P
+  time_:
+    started: "-298.900e6"
+    stopped: "-251.902e6"
+  text_of_:
+    color: "0xF04028"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Permian,76402|WD~Permian,76402]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian|Period-0299~Permian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.public|Period-0299~Permian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.internal|Period-0299~Permian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.protect|Period-0299~Permian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.private|Period-0299~Permian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.personal|Period-0299~Permian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.secret|Period-0299~Permian.secret]]"
+dv_has_duration_years: "4.700e+7"
+dv_has_previous_item: "[[Period-0359~Carboniferous]]"
+dv_has_next_item: "[[../Era-0251~Mesozoic/Period-0252~Triassic|Period~1~Triassic]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Permian,76402|WD~Permian,76402]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian|Period-0299~Permian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.public|Period-0299~Permian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.internal|Period-0299~Permian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.protect|Period-0299~Permian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.private|Period-0299~Permian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.personal|Period-0299~Permian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian.secret|Period-0299~Permian.secret]]"
+dv_has_name_bg: Перм
+dv_has_name_cs: Perm
+dv_has_name_da: Perm
+dv_has_name_de: Perm
+dv_has_name_es: Pérmico
+dv_has_name_et: Perm
+dv_has_name_fi: Permi
+dv_has_name_fr: Permien
+dv_has_name_hu: perm
+dv_has_name_it: permiano
+dv_has_name_ja: ペルム紀
+dv_has_name_lt: Permas
+dv_has_name_nl: Perm
+dv_has_name_no: Perm
+dv_has_name_pl: Perm
+dv_has_name_pt: Pérmico
+dv_has_name_sk: perm
+dv_has_name_sl: perm
+dv_has_name_sv: perm
+dv_has_name_zh: 二叠纪
+dv_has_name_abbreviated: P
+dv_has_time_started: "-298.900e6"
+dv_has_time_stopped: "-251.902e6"
+dv_has_text_of_color: "0xF04028"
 ---
 
 # [[Period-0299~Permian]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Period-0359~Carboniferous]] 
-#has_/next_/item :: [[../Era-0251~Mesozoic/Period-0252~Triassic|Period~1~Triassic]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[../../../../WikiData/WD~Permian,76402|WD~Permian,76402]] 
 
 A time period from 298.9 to 251.902 million years ago. 
@@ -61,35 +141,35 @@ A time period from 298.9 to 251.902 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Permian) 
 
 
-#has_/name_/bg  :: Перм
-#has_/name_/cs  :: Perm
-#has_/name_/da  :: Perm
-#has_/name_/de  :: Perm
-#has_/name_/es  :: Pérmico
-#has_/name_/et  :: Perm
-#has_/name_/fi  :: Permi
-#has_/name_/fr  :: Permien
-#has_/name_/hu  :: perm
-#has_/name_/it  :: permiano
-#has_/name_/ja  :: ペルム紀
-#has_/name_/lt  :: Permas
-#has_/name_/nl  :: Perm
-#has_/name_/no  :: Perm
-#has_/name_/pl  :: Perm
-#has_/name_/pt  :: Pérmico
-#has_/name_/sk  :: perm
-#has_/name_/sl  :: perm
-#has_/name_/sv  :: perm
-#has_/name_/zh  :: 二叠纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: P
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -298.900e6 
-#has_/time_/stopped :: -251.902e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 91 
 
-#has_/text_of_/color :: 0xF04028
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

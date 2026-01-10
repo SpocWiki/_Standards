@@ -19,15 +19,95 @@ end_time: -227000000-01-01T00:00:00Z
 Commons_category: Carnian
 start_time: -237000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: D1A6C9
+dv_has_:
+  duration_:
+    years: "1.000e+7"
+  previous_:
+    item: "[[../Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]"
+  next_:
+    item: "[[Age~2~Norian]]"
+  name_:
+    bg: Карн
+    cs: Carn
+    da: Carnien
+    de: Karnium
+    es: Carniense
+    et: Carni
+    fi: Carn
+    fr: Carnien
+    hu: karni
+    it: carnico
+    ja: カーニアン期
+    lt: Karnis
+    nl: Carniën
+    no: Carn
+    pl: Karnik
+    pt: Carniano
+    sk: karn
+    sl: karnij
+    sv: carn
+    zh: 卡尼期
+    abbreviated: t5
+  time_:
+    started: -237000000
+    stopped: -227000000
+  text_of_:
+    color: "0xC99BCB"
+dv_is_:
+  same_as:
+    - "[[WD~Carnian,911899]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.public|Age~1~Carnian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.internal|Age~1~Carnian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.protect|Age~1~Carnian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.private|Age~1~Carnian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.personal|Age~1~Carnian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.secret|Age~1~Carnian.secret]]"
+dv_has_duration_years: "1.000e+7"
+dv_has_previous_item: "[[../Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]]"
+dv_has_next_item: "[[Age~2~Norian]]"
+dv_is_same_as:
+  - "[[WD~Carnian,911899]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.public|Age~1~Carnian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.internal|Age~1~Carnian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.protect|Age~1~Carnian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.private|Age~1~Carnian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.personal|Age~1~Carnian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~1~Carnian.secret|Age~1~Carnian.secret]]"
+dv_has_name_bg: Карн
+dv_has_name_cs: Carn
+dv_has_name_da: Carnien
+dv_has_name_de: Karnium
+dv_has_name_es: Carniense
+dv_has_name_et: Carni
+dv_has_name_fi: Carn
+dv_has_name_fr: Carnien
+dv_has_name_hu: karni
+dv_has_name_it: carnico
+dv_has_name_ja: カーニアン期
+dv_has_name_lt: Karnis
+dv_has_name_nl: Carniën
+dv_has_name_no: Carn
+dv_has_name_pl: Karnik
+dv_has_name_pt: Carniano
+dv_has_name_sk: karn
+dv_has_name_sl: karnij
+dv_has_name_sv: carn
+dv_has_name_zh: 卡尼期
+dv_has_name_abbreviated: t5
+dv_has_time_started: -237000000
+dv_has_time_stopped: -227000000
+dv_has_text_of_color: "0xC99BCB"
 ---
 # [[Age~1~Carnian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch-247~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]] 
-#has_/next_/item :: [[Age~2~Norian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Carnian,911899]] 
 
 A time period from 237 to 227 million years ago. 
@@ -52,35 +132,35 @@ A time period from 237 to 227 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Carnian) 
 
 
-#has_/name_/bg  :: Карн
-#has_/name_/cs  :: Carn
-#has_/name_/da  :: Carnien
-#has_/name_/de  :: Karnium
-#has_/name_/es  :: Carniense
-#has_/name_/et  :: Carni
-#has_/name_/fi  :: Carn
-#has_/name_/fr  :: Carnien
-#has_/name_/hu  :: karni
-#has_/name_/it  :: carnico
-#has_/name_/ja  :: カーニアン期
-#has_/name_/lt  :: Karnis
-#has_/name_/nl  :: Carniën
-#has_/name_/no  :: Carn
-#has_/name_/pl  :: Karnik
-#has_/name_/pt  :: Carniano
-#has_/name_/sk  :: karn
-#has_/name_/sl  :: karnij
-#has_/name_/sv  :: carn
-#has_/name_/zh  :: 卡尼期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/name_/abbreviated :: t5
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -237e6 
-#has_/time_/stopped :: -227e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 68 
 
-#has_/text_of_/color :: 0xC99BCB
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

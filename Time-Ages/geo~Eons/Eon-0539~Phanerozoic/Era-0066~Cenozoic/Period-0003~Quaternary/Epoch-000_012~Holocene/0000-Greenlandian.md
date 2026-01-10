@@ -6,13 +6,51 @@ Commons_category: Greenlandian
 coordinate_location: Point(-42.32 75.1)
 end_time: -6236-01-01
 instance_of:
-  - '[[_Standards/WikiData/WD~age,568683]]'
-  - '[[_Standards/WikiData/WD~stage,1123245]]'
-named_after: '[[_Standards/WikiData/WD~Greenland,4148644]]'
-part_of: '[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]'
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_after: "[[_Standards/WikiData/WD~Greenland,4148644]]"
+part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
 sRGB_color_hex_triplet: FEECDB
 start_time: -9700-01-01
-type_locality_geology_: '[[_Standards/WikiData/WD~GSSP for the base of the Greenlandian,1487065]]'
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP for the base of the Greenlandian,1487065]]"
+dv_has_:
+  name_:
+    abbreviated: q5
+  time_:
+    started: "-11.7e3"
+    stopped: "-8.2e3"
+  text_of_:
+    color: "0xFEECDB"
+  duration_:
+    years: 3500
+  previous_:
+    item: "[[../Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]"
+  next_:
+    item: "[[3854-Northgrippian]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.public|0000-Greenlandian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.internal|0000-Greenlandian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.protect|0000-Greenlandian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.private|0000-Greenlandian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.personal|0000-Greenlandian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.secret|0000-Greenlandian.secret]]"
+dv_has_name_abbreviated: q5
+dv_has_time_started: "-11.7e3"
+dv_has_time_stopped: "-8.2e3"
+dv_has_text_of_color: "0xFEECDB"
+dv_has_duration_years: 3500
+dv_has_previous_item: "[[../Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]"
+dv_has_next_item: "[[3854-Northgrippian]]"
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian|0000-Greenlandian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.public|0000-Greenlandian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.internal|0000-Greenlandian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.protect|0000-Greenlandian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.private|0000-Greenlandian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.personal|0000-Greenlandian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian.secret|0000-Greenlandian.secret]]"
 ---
 
 # [[0000-Greenlandian]] 
@@ -22,19 +60,19 @@ type_locality_geology_: '[[_Standards/WikiData/WD~GSSP for the base of the Green
 A time period from 11_700 to 8_200 thousand years ago. 
 This is 0300 to 3854 HE (Human Era 10_000BC)
 
-#has_/name_/abbreviated :: q5
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -11.7e3 
-#has_/time_/stopped ::  -8.2e3 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 3 
 
-#has_/text_of_/color :: 0xFEECDB
+has_text_of_color = `=this.dv_has_text_of_color` 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started))` 
 
-#has_/previous_/item :: [[../Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene|Age~4~Late_Pleistocene]]   
-#has_/next_/item :: [[3854-Northgrippian]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 ## #has_/text_of_/abstract 
 
