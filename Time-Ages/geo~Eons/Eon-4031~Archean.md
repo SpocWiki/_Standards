@@ -77,8 +77,9 @@ A time period from 4031 to 2500 million years ago.
 #has_/name_/cs  :: Archaikum
 #has_/name_/da  :: Arkæisk
 #has_/name_/de  :: Archaikum
-#has_/name_/en-GB  :: Archaean
-#has_/name_/en-US  :: Archean
+#has_/name_/en_/gb  :: Archaean
+#has_/name_/en_/us  :: Archean 
+#has_/name_/en  :: Archean
 #has_/name_/es  :: Arcaico
 #has_/name_/et  :: Arhaikum
 #has_/name_/fi  :: Arkeikum

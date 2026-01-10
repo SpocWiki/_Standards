@@ -55,8 +55,9 @@ A time period from 3200 to 2800 million years ago.
 #has_/name_/cs  :: Mezoarchaikum
 #has_/name_/da  :: Mesoarkæisk
 #has_/name_/de  :: Mesoarchaikum
-#has_/name_/en-GB  :: Mesoarchaean
-#has_/name_/en-US  :: Mesoarchean
+#has_/name_/en_/gb  :: Mesoarchaean
+#has_/name_/en_/us  :: Mesoarchean 
+#has_/name_/en  :: Mesoarchean
 #has_/name_/es  :: Mesoarcaico
 #has_/name_/et  :: Mesoarhaikum
 #has_/name_/fi  :: Mesoarkeikum

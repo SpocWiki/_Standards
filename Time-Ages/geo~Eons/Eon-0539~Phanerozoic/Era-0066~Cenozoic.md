@@ -93,8 +93,9 @@ A time period from 66.0 million years ago to the present.
 #has_/name_/cs  :: Kenozoikum
 #has_/name_/da  :: Kænozoisk
 #has_/name_/de  :: Känozoikum
-#has_/name_/en-GB  :: Cainozoic
-#has_/name_/en-US  :: Cenozoic
+#has_/name_/en_/gb  :: Cainozoic
+#has_/name_/en_/us  :: Cenozoic 
+#has_/name_/en  :: Cenozoic
 #has_/name_/es  :: Cenozoico
 #has_/name_/et  :: Kainosoikum
 #has_/name_/fi  :: Kenotsoikum

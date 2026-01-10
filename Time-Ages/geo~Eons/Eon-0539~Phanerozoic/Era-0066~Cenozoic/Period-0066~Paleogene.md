@@ -71,8 +71,9 @@ A time period from 66.0 to 23.03 million years ago.
 #has_/name_/cs  :: Paleogén
 #has_/name_/da  :: Palæogen
 #has_/name_/de  :: Paläogen
-#has_/name_/en-GB  :: Palaeogene
-#has_/name_/en-US  :: Paleogene
+#has_/name_/en_/gb  :: Palaeogene
+#has_/name_/en_/us  :: Paleogene 
+#has_/name_/en  :: Paleogene
 #has_/name_/es  :: Paleógeno
 #has_/name_/et  :: Paleogeen
 #has_/name_/fi  :: Paleogeeni

@@ -61,8 +61,9 @@ A time period from 2500 to 1600 million years ago.
 #has_/name_/cs  :: Paleoproterozoikum
 #has_/name_/da  :: Palæoproterozoisk
 #has_/name_/de  :: Paläoproteroizoikum
-#has_/name_/en-GB  :: Palaeoproterozoic
-#has_/name_/en-US  :: Paleoproterozoic
+#has_/name_/en_/gb  :: Palaeoproterozoic
+#has_/name_/en_/us  :: Paleoproterozoic 
+#has_/name_/en  :: Paleoproterozoic
 #has_/name_/es  :: Paleoproterozoico
 #has_/name_/et  :: Paleoproterosoikum
 #has_/name_/fi  :: Paleoproterotsoikum

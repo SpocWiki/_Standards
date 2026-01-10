@@ -57,8 +57,9 @@ A time period from 2800 to 2500 million years ago.
 #has_/name_/cs  :: Neoarchaikum
 #has_/name_/da  :: Neoarkæisk
 #has_/name_/de  :: Neoarchaikum
-#has_/name_/en-GB  :: Neoarchaean
-#has_/name_/en-US  :: Neoarchean
+#has_/name_/en_/gb  :: Neoarchaean
+#has_/name_/en_/us  :: Neoarchean 
+#has_/name_/en  :: Neoarchean
 #has_/name_/es  :: Neoarcaico
 #has_/name_/et  :: Neoarhaikum
 #has_/name_/fi  :: Neoarkeikum

@@ -66,8 +66,9 @@ A time period from 4031 to 3600 million years ago.
 #has_/name_/cs  :: Eoarchaikum
 #has_/name_/da  :: Eoarkæisk
 #has_/name_/de  :: Eoarchaikum
-#has_/name_/en-GB  :: Eoarchaean
-#has_/name_/en-US  :: Eoarchean
+#has_/name_/en_/gb  :: Eoarchaean
+#has_/name_/en_/us  :: Eoarchean 
+#has_/name_/en  :: Eoarchean
 #has_/name_/es  :: Eoarcaico
 #has_/name_/et  :: Eoarhaikum
 #has_/name_/fi  :: Eoarkeikum

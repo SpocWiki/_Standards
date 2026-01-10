@@ -75,8 +75,9 @@ A time period from 538.8 to 251.902 million years ago.
 #has_/name_/cs  :: Paleozoikum
 #has_/name_/da  :: Palæozoisk
 #has_/name_/de  :: Paläozoikum
-#has_/name_/en-GB  :: Palaeozoic
-#has_/name_/en-US  :: Paleozoic
+#has_/name_/en_/gb  :: Palaeozoic
+#has_/name_/en_/us  :: Paleozoic 
+#has_/name_/en  :: Paleozoic
 #has_/name_/es  :: Palozoico
 #has_/name_/et  :: Paleosoikum
 #has_/name_/fi  :: Paleotsoikum

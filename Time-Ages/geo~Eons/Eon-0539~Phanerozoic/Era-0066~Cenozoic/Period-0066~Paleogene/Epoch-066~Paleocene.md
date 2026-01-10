@@ -51,8 +51,9 @@ A time period from 66.0 to 56.0 million years ago.
 #has_/name_/cs  :: Paleocén
 #has_/name_/da  :: Paleocæn
 #has_/name_/de  :: Paläozän
-#has_/name_/en-GB  :: Palaeocene
-#has_/name_/en-US  :: Paleocene
+#has_/name_/en_/gb  :: Palaeocene
+#has_/name_/en_/us  :: Paleocene 
+#has_/name_/en  :: Paleocene
 #has_/name_/es  :: Paleoceno
 #has_/name_/et  :: Paleotseen
 #has_/name_/fi  :: Paleoseeni

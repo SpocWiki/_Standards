@@ -57,8 +57,9 @@ A time period from 3600 to 3200 million years ago.
 #has_/name_/cs  :: Paleoarchaikum
 #has_/name_/da  :: Palæoarkæisk
 #has_/name_/de  :: Paläoarchaikum
-#has_/name_/en-GB  :: Palaeoarchaean
-#has_/name_/en-US  :: Paleoarchean
+#has_/name_/en_/gb  :: Palaeoarchaean
+#has_/name_/en_/us  :: Paleoarchean 
+#has_/name_/en  :: Paleoarchean
 #has_/name_/es  :: Paleoarcaico
 #has_/name_/et  :: Paleoarhaikum
 #has_/name_/fi  :: Paleoarkeikum
